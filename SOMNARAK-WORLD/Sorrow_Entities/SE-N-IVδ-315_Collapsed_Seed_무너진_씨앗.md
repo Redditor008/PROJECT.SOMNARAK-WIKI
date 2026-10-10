@@ -28,7 +28,7 @@
 | **Entity role** | Subject, worked throughout under Object/Place rules — it is mobile and it roots, but there is no mind here to engage or confront. See Operational Notes. |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 per successful cycle, counted from the pulse log rather than the shell |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
@@ -39,7 +39,7 @@
 ### Operational Notes
 
 - No breach counter applies. The seed hauls itself about the chamber but expands rather than escapes, and the trigger is activation.
-- Viderehan and Ferrehan are the only valid approaches; despite the mobility there is no mind here to engage or to confront.
+- Viderehan and Ferrehan are the whole of the work here; the mobility changes nothing about that, because there is no mind in this one to engage and none to confront.
 - Observation shows the entity it might have become. Endurance requires remaining while the root-limbs pulse and the sap runs.
 - The shoots are wet and continue to erupt from the split regardless of pruning. Chamber drainage is cleared every cycle because the blue sap sets hard.
 - Yield is taken from the sap rather than the body, which makes a weeping cycle productive and a dormant one worthless.
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | Haul rate 0.4 m/min on root-limbs over bare panel; faster across substrate it has already rooted. It is slow and it does not stop. |
-| **Resistance** | 45% against Lament pressure; 35% against other pressure types |
+| **Resistance** | 45% against Lament pressure, 35% against every other kind |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 750/750 |
 | **Han Pressure [ATK]** | 27–58 per hit · Lament |
@@ -81,8 +81,8 @@
 | { *The Hollow Shell* [**Debuff**] } | "The seed is caved in — hollow — and the echo of what it could have been aches." | [The Seed's collapsed shell resonates with the target's own failed potential.] | *Target suffers -10 Composure; they feel every unlived possibility.* **[10 Lament DMG [Lament]]** | When the target holds the Seed. |
 | { *The Withered Core* [**Debuff**] } | "Inside the collapsed shell, the core is dry and dead — and it is worse than empty." | [The Seed's dead interior emanates grief for what never grew.] | *Target loses 10 Composure; the dead potential is contagious.* **[10 Lament DMG [Lament]]** | When the target lingers. |
 | { *The Shell Shard* [**Attack**] } | "A piece of the collapsed shell breaks free — dry, sharp, and carrying the bitterness of failure." | [A shard of collapsed seed-husk launches.] | *Inflicts Lament pressure and one small, bitter wound.* **[14-22 Lament DMG [Lament]]** | When the Seed is squeezed. |
-| { *The Full Implosion* [**Attack**] } | "The seed finishes collapsing — every remaining wall of the shell caving inward at once." | [The Seed's total structural failure releases its stored grief.] | *A heavy Deep Blue implosion; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Seed is crushed. |
-| { *The Failed Harvest* [**Ultimate**] } | "Every seed in the field collapses — every possibility, ended, before it could begin." | [The Seed spreads its failure across the entire area.] | *All in range suffer Lament pressure for three turns of ended potential.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Implosion* [**Attack**] } | "The collapse finishes, and every wall of the shell comes inward in the same breath." | [The Seed completely falls apart and lets out the grief it was holding.] | *A heavy Deep Blue implosion; the meter climbs 15%.* **[24-36 Lament DMG [Lament]]** | On crushing the Seed. |
+| { *The Failed Harvest* [**Ultimate**] } | "The whole field of seeds goes down at once, every one of them over before it started." | [The Seed carries its failure out across the whole area.] | *Everyone in range takes Lament pressure for three turns where nothing came up.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the gauge passes 65%. |
 
 ### Battle Phases
 
@@ -216,7 +216,7 @@ Escalation here is a rate change and nothing else, and the rate changes before a
 
 - **Breach type:** Escape. It charges, it thrashes, and it plants itself in personnel and grows there, which is the only recorded instance in the wing of an entity using a worker as a medium rather than a target.
 - **Containment priority:** Panels, drainage and distance. Pugnahan is not available on this holding — there is no mind here to confront and the row says so — and an earlier edition of this entry nonetheless instructed responders to force it back through Pugnahan. That instruction was obeyed once. Containment is re-established by sealing the panel runs and letting the rooting exhaust itself against stored substrate laid down for the purpose.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per turn. The gauge is not the figure to watch during an incident; the pulse is, because it falls when the entity has found a surface it can root into and that is when the charging stops.
+- **Sorrow Gauge on breach:** Opens at 40% and climbs 10% a turn.
 
 ## M.A.W. Equipment
 
@@ -244,7 +244,7 @@ Designed for close-quarters grappling and underhand thrusts, the dagger slips ea
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cold to the touch and faintly luminous, holding a thin trace of where it came from.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -262,11 +262,11 @@ Designed for close-quarters grappling and underhand thrusts, the dagger slips ea
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a core-stone of Lament Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance:** a core-stone of Lament Han-crystal that takes the light at a strange angle and gives none of it back.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to the working stat against the entity this piece came from, and nothing anywhere else.
 
 **Ability:** Generates a protective growth around the user.
 
@@ -342,11 +342,11 @@ The ground for signing it is narrow and I will state it plainly. Twice we have a
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Collapsed Seed; the other feeds it.
+> The session turns on one question about a seed that never came up: wait, and say out loud that nobody knows what it would have been, or answer it — kindly, confidently, and differently from the last worker who tried.
 
-| Do the thing on file: Lift clear, log the partial form in full even though it will not recur, and file the observation under the Rule of the Negative Finding. | Depart from the condition for good reasons, as Collapsed Seed's record shows people do. |
+| Do the file's way: pull clear, log the partial form whole even though it never recurs, and file the watch under the Rule of the Negative Finding. | Walk off the condition for good reasons, the way this record says people do. |
 |---|---|
-| The worker waits, and says aloud that they do not know what it would have been, and does not fill the silence. The gauge falls and the session closes clean. | The worker answers the question. They mean it kindly and the answer is always confident and always different from the last worker's. The gauge climbs and the chamber keeps the real answer, which is that there is not one. |
+| The worker waits it out, says aloud that nobody knows what it would have been, and lets the silence stay empty. The gauge falls and the session closes clean. | The worker answers the question — kindly, and with total confidence, and never the same way as the worker before. The gauge climbs, and the chamber keeps the true answer, which is that there isn't one. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -374,7 +374,7 @@ Three records sit near this one, all of them from the Echo Gardens, and the prox
 
 Three records are read beside this one and all three concern growth, which has made the grouping comfortable and unhelpful. The operative distinction is that this entity is not growing and is not dying; it is held at the moment before a result, which is the condition the facility's own discontinued inquiries are held in. Pairing trials have been proposed twice. Both were refused on the ground that bringing another entity into the chamber would require the contact prohibition to be lifted, and the prohibition is the holding.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| What shares the collapse | How the pairing has run | What the chamber entered | What the file keeps |
 |---|---|---|---|
 | **The Sorrow Seed** | The same object class at an earlier stage — a seed still accumulating, which this one was until a recovery team broke it. The relationship is a before and an after, documented on both sides. | Untested and untestable. A trial would require bringing an intact seed within rooting distance of the thing that happens when one is crushed. | The refusal, and the reason, on every renewed proposal, so that the reasoning does not have to be rebuilt by whoever asks next. |
 | **The Kind Healer** | Will not approach, which is recorded as the Healer's behaviour and not as this entity's effect. The distinction took two years to establish and is the only evidenced line in this table. | Observed withdrawal at a consistent distance across eleven occasions. No effect on the pulse in any of them. | That the withdrawal is the Healer's and is not to be cited as suppression by this entity. |
@@ -419,7 +419,7 @@ Some sorrows mourn what existed. Collapsed Seed mourns what almost existed — t
 - Panel rotation on schedule; every lifted panel numbered by date and position and stored, never destroyed. Store inspected quarterly for growth; there has been none, and the inspection continues because the inertness is the finding.
 - Pulse timed by hand for a full minute, twice a session.
 - Do not prune, conclude, or complete anything in this chamber.
-- The Rule of the Negative Finding is a containment condition of this entity and binds the whole facility.
+- The Rule of the Negative Finding binds the whole facility, and it stands as a containment condition of this holding rather than a house practice.
 **Observation Notes:**
 - Formed when a recovery team crushed a forming Sorrow Seed in the Echo Gardens. Two inquiries into what it would have become; neither answered; both reports retained in full with their methods.
 - Pulse 14/min baseline, range 9 to 31. Rate tracks the facility's quarterly return of discontinued inquiries, not the chamber's work.

@@ -28,13 +28,13 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per successful work cycle, read off the approach temperature at one and three metres and never off the warmth of the floor |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | A Subject: all four Work Types are available. Flerehan and Ferrehan lower the gauge, Viderehan holds it, and Pugnahan raises it and is not used here. Rotate crews on the clock. |
+| **Recommended response** | A Subject, so all four Work Types stand open. Flerehan and Ferrehan bring the reading down, Viderehan holds it steady, and Pugnahan lifts it and is never worked here. Crews rotate at the clock. |
 
 ### Operational Notes
 
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Weight pressure; 25% against other pressure types |
+| **Resistance** | 35% against Weight pressure and 25% against everything else — figures for a holding nobody has ever struck in anger |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 673/673 |
 | **Han Pressure [ATK]** | 16–36 per hit · Weight |
@@ -81,14 +81,14 @@
 | { *The Smolder* [**Debuff**] } | "The ground is warm — too warm — and the heat is climbing." | [The Root smolders beneath the target; the deep-seated burn rises.] | *Target suffers -10 Resolve as the heat builds underfoot.* **[10 Weight DMG [Weight]]** | When the target stands over the Root. |
 | { *The Spreading Tendril* [**Debuff**] } | "A root, glowing cherry-red, cracks the floor and reaches for your ankle." | [Burning tendrils creep outward; the fire spreads underground.] | *Target loses 10 Resolve; the network of heat widens.* **[10 Weight DMG [Weight]]** | When the target lingers in the heat. |
 | { *The Charred Grip* [**Attack**] } | "A root seizes your leg — and where it touches, it chars." | [A burning root whips up and clamps the target.] | *Inflicts Weight pressure and one searing, crushing wound.* **[14-22 Weight DMG [Weight]]** | When the Root is trodden on. |
-| { *The Underground Fire* [**Attack**] } | "The whole root system ignites at once — and the floor becomes the fire." | [The deep network erupts, turning the ground itself to furnace.] | *A heavy Black conflagration; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Root is exposed or attacked. |
-| { *The Whole Root System* [**Ultimate**] } | "Every root, in every wall and floor, blazes at once." | [The full underground network ignites, burning through the entire area.] | *All personnel suffer Weight pressure for three turns as the earth burns.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Underground Fire* [**Attack**] } | "The whole root system ignites at once — and the floor becomes the fire." | [The buried network comes up through the floor and turns the chamber's own ground to furnace.] | *A heavy Black conflagration; the reading rises 15% on first exposure.* **[24-36 Weight DMG [Weight]]** | When the Root is laid open or struck at. |
+| { *The Whole Root System* [**Ultimate**] } | "Every root, in every wall and floor of the Row, catches at the same moment." | [The whole buried network takes, and the fire runs the length of the wing.] | *Weight presses on every worker for three turns while the ground burns.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Burning Root is confirmed by the permanent floor scarring and the warmth that does not hurt; the Row's other heat sources burn what they stand on and none of them marks stone. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** The Root is confirmed by the scarring that never healed on the floor and by a warmth that does not hurt. Other heat in the Row burns what it stands on; none of it leaves a mark in stone. Positions are taken, and the route out is agreed, before the cycle opens.
 2. **Clash:** Four turns, Flerehan and Ferrehan, no Pugnahan. The floor marks made during the engagement are photographed before anybody leaves the chamber, since they are permanent and are the chamber's only position record.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name the burden without calling it selfhood**.
+3. **Resolution:** The cycle ends in containment, retreat or management, or on this file's suppression condition: **Name the burden without calling it selfhood**. The clause is kept the way the chamber is kept: quietly, and without exception — nobody on this ground is asked to describe what they carry as part of who they are.
 
 ### Consequences
 
@@ -173,7 +173,7 @@ Burning Root is a Fragment (III) Subject of Major (γ) potency, Subject-Grudge m
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that hums faintly when gripped.
+**Appearance:** a two-handed maul of Weight Han-steel, dull-finished, heavier than its size accounts for, that hums faintly once the haft has been warmed by a grip.
 
 **Damage:** Weight 7-12
 **Speed:** 3 (Fast)
@@ -189,7 +189,7 @@ Burning Root is a Fragment (III) Subject of Major (γ) potency, Subject-Grudge m
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a weighted mantle of Weight Han-weave, matte and unnaturally heavy, that settles cold against the skin.
+**Appearance:** a weighted mantle of Weight Han-weave, unlustrous, settling cold wherever it meets the skin.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -207,17 +207,17 @@ Burning Root is a Fragment (III) Subject of Major (γ) potency, Subject-Grudge m
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance:** a small charm of Weight Han-steel, dull as a spent coal, that runs briefly hot when sorrow is close.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to the working stat while the source entity is on the other side of the wall
 
 **Ability:** Grants a minor boon tied to Burning Root's sorrow; the effect mirrors the entity's nature.
 
 **Cost:** The bearer moves a little slower.
 
-*The Familiar Charm is not manufactured and cannot be requisitioned. It has been conferred seven times, in each case on a worker who completed a full cycle and then accepted rotation at the clock without being told twice.*
+*The Familiar Charm is neither made nor requisitioned. It has been conferred 7 times, each on a worker who finished a full cycle and then took rotation at the clock without needing to be asked twice.*
 
 ### M.A.W. Use Notes
 
@@ -229,8 +229,8 @@ Each Root piece is an extension of the entity rather than ordinary equipment. Ea
 |---|---|
 | **Before use** | Operator name, grade, current gauge, psychological assessment, equipment condition, mission objective, declared personal obligations, and confirmation that the operator is not from a Collector's Row household. |
 | **During use** | Activation time, approach temperature at one and three metres, rooting positions, new floor marks, direction against the debt map, and first cost paid. |
-| **At limit** | Duration, activations, attribute change, rejection signs, and whether the operator has begun describing an obligation as part of themselves. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, floor marks photographed and added to the plan, reuse authorisation. |
+| **At limit** | How long the piece was worn, how many activations, what shifted in the wearer, and the first sign that the operator is talking about an obligation as if it were a limb. |
+| **After use** | Where the piece was set down, who took it in, what the wearer is still carrying, the rest interval served, the floor marks photographed into the plan, and the reissue ruling. |
 
 **Stat interpretation:** The grade describes the effect on entities, not the cost to the bearer, which is listed separately. The cost here is wanting the weight: the maul ages the wielder slightly and the suit makes absence feel like loss, and neither effect is reduced by a higher grade.
 
@@ -238,7 +238,7 @@ Each Root piece is an extension of the entity rather than ordinary equipment. Ea
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It travels by debt record and family name; the projected route from the registers has matched the actual route in every recorded movement.
+- It travels by debt record and family name; the projected route out of the registers has matched the route it actually took in every movement on file.
 - The fire warms long before it burns, and most personnel never reach the burning range because they stop wanting to move away.
 - Personnel report missing the burden after exposure ends, and report it unprompted, in the same words, in nineteen debriefs.
 
@@ -250,7 +250,7 @@ Each Root piece is an extension of the entity rather than ordinary equipment. Ea
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Burning Root as a Subject with Subject-Grudge manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone C, Collector's Row. |
+| **Initial exposure** | The observer enters the holding as a Subject carrying Subject-Grudge manifestation. Its signature is Weight, and the markers that hold are the floor scarring and the warmth that does not hurt, at Zone C, on Collector's Row. |
 | **Sustained observation** | Approach temperature at fixed distances, rooting positions and durations, new floor marks against the chamber plan, direction of travel against the current debt map, gauge, and crew time on the clock. |
 | **Activation or escalation** | Escalation is recorded when travel begins along a line not on the current debt map. Log the departure point, the new line, the floor marks, and request a fresh projection before the watch closes. |
 | **Post-contact review** | Floor plan before and after, new scarring as a share of wing area, temperature series, gauge movement, and a seven-day check of each worker's language for obligation described as identity. |
@@ -261,7 +261,7 @@ Each Root piece is an extension of the entity rather than ordinary equipment. Ea
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Burning Root (C-IIIγ-558 [WS]) is logged as a Subject-Grudge manifestation expressing Weight. The Root formed from obligations carried so long that they became familiar rather than heavy. Held at Zone C, Collector's Row. It follows debt records and family names.
+Burning Root (C-IIIγ-558 [WS]) stands on the register as a Subject-Grudge manifestation expressing Weight. The Root formed from obligations carried so long that they became familiar rather than heavy. Held at Zone C, Collector's Row. It follows debt records and family names.
 
 **Entry 2 — <Warmth Before the Burn>**
 Moves along floors and ledgers through Collector's Row. Personnel feel familiar burdens as warmth and then pain. Its fire warms before it burns.
@@ -277,11 +277,11 @@ Entry 5 is the family rather than the legend. Earlier copies carried the distric
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Burning Root; the other feeds it.
+> The climax of contact puts one question to the worker on the floor: say plainly what the burden is, or take it personally. The first records the Root; the second feeds it.
 
-| Hold to the condition: Name the burden without calling it selfhood. | Improvise something kinder, which is how every failure on Burning Root's file began. |
+| Name the burden without calling it selfhood — the clause, kept to the letter. | Call the burden family instead, which is where every failure on this file has started. |
 |---|---|
-| Flames lower and roots loosen. The sorrow is borne; Burning Root is fully recorded. | Roots strike outward and heat increases. The gauge climbs and Burning Root withdraws without revelation. |
+| The flames drop and the roots give way; the burden is simply carried, and the Root is recorded whole. | The roots drive outward, the heat climbs, and the numbers rise as the Root leaves the chamber unrecorded. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -300,16 +300,16 @@ The roots burn beneath the ledger floor. Heat rises through your feet, familiar 
 
 ### Interaction Pattern
 
-This holding is read against the other debt-bearing entities of Collector's Row. Each relation below has been observed and filed; none is settled; and all three were tested on the floor marks and the projected routes rather than on how the parties behaved, behaviour here being unreliable in both directions.
+What follows are measured contacts with other debt-bearers on Collector's Row, a street where debt describes most of the register and singles out almost nothing. Nothing here is closed. All three findings were taken from the floor marks and the projected routes rather than from how the two parties comported themselves, because comportment is unreliable in this holding in both directions.
 
-**Interaction method:** Baseline each party alone over several cycles — temperature, rooting, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle; a Tide, breach, Ordeal or transformation can rewrite the result.
+**Interaction method:** Work each party on its own across a run of cycles first — how hot it runs, how fast it roots, where its gauge settles — and only then bring two of them into the same room. When a change registers in both parties simultaneously, log how far the shift spreads, how long it lasts and what started it, set both gauges beside it, and note what survives the parting. Run the check again every cycle: any of the ordinary disruptions — a breach, a Tide, a transformation, an Ordeal — can overturn a finding outright.
 
 
 ### Entity Interaction Record
 
 The relations below are canonical points of contact rather than alliances. None is settled. All three were proposed on the shared subject of debt, which on Collector's Row describes most of the register and distinguishes very little.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| The Root's neighbour | How the two are read together | What the watch logged | What the entry carries |
 |---|---|---|---|
 | **The Debtor** | Said to recognise this entity's familiar weight, which is the oldest line in the file. | Eight co-presences. Neither party altered course, temperature, rooting rate or gauge; the projected routes crossed twice and neither deviated. The wing records the pairing as *two entities on the same street*. | All eight co-presences, both route projections, and the two crossings. |
 | **The Inheritor** | Described as fighting against its roots, and the only relation in the file recorded as hostile. | Five co-presences. One produced a brief rise in both gauges at under four metres; the other four produced nothing, and no target selection or defensive response was observed in any. The hostility is recorded as unreplicated. | All five co-presences, both gauge series, and the single rise with its distance. |
@@ -349,19 +349,19 @@ Some sorrows are about what was taken. Burning Root is about what was kept too l
 
 **Classification:** Sorrow Entity — `C-IIIγ-558 [WS]` · City origin · Fragment (III) coherence · Major (γ) potency · Weight · Subject-Grudge manifestation
 **Common Name:** Burning Root
-**Containment Status:** Contained — Zone C, Collector's Row, in a chamber whose plan is drawn from the entity's own floor marks. Thirty-one per cent of the wing's floor area is scarred and none of it is repaired.
+**Containment Status:** Contained — Zone C, Collector's Row, in a chamber whose plan is drawn from the entity's own floor marks. 31 per cent of the wing's floor area is scarred and none of it is repaired.
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Major (γ). It is slow, recoverable and warm to be near, and it has injured four people in its whole record. It permanently scars every surface it crosses, it converts obligation into comfort in anyone who stays near it, and its originating family's descendants are now the facility's debtors. The earlier entry grading it Moderate weighed the creature and not the arrangement around it; it is an error and is corrected here.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type, with Ferrehan secondary. Earlier copies named Pugnahan, which the Behavior table records as raising the gauge; that line is an error and is corrected here.
-- Monitor approach temperature at one and three metres each hour; ignition range is reached long after the comfortable range and personnel do not notice the crossing.
+- Monitor approach temperature at 1 and 3 metres each hour; ignition range is reached long after the comfortable range and personnel do not notice the crossing.
 - Do not assign personnel carrying family debt, and do not assign anyone from a Collector's Row household at all. Both exclusions are absolute and are checked against declarations rather than against registers.
 **Observation Notes:**
 - Formed from one family that carried an ordinary debt across four generations until it became belonging.
 - It smoulders rather than burns because the chain was never experienced as a chain.
 **Cross-References:** Collector's Row · the debt system · the Inheritor · the route projections · the discharge trial · the purchased book
 **Faction Involvement:** SED (E-territory exploration) · Wound Walkers (Fracture-relevant)
-**Originator:** One Collector's Row family, across four generations, who mistook the obligation for themselves.
+**Originator:** One Collector's Row family, across 4 generations, who took the obligation for who they were.
 
 ### Registry Addendum
 
@@ -428,8 +428,8 @@ The minute records the objection as **correct in all three parts**. It records t
 
 ## Trivia
 
-- Its roots follow names rather than roads, and a renamed household has twice been missed by the projection for a cycle.
-- The warmth is strongest around people who say they do not want to be relieved of anything, and the correlation holds in the debriefs of nineteen workers.
+- Its roots follow names rather than roads: a renamed household has been missed by the projection on 2 occasions, each for a single cycle.
+- The warmth is strongest around people who say they want to be relieved of nothing, and the correlation holds across the 19 debriefs on file.
 
 
 

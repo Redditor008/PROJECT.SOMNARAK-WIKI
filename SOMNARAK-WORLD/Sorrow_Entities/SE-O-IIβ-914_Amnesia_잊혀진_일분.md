@@ -1,6 +1,6 @@
 # Amnesia — 잊혀진 일분
 
-> *"It does not end. It merely pauses between heartbeats."*
+> *"No onset, no end — and afterward everyone inside the line looks at their arm to find out who they are."*
 
 ## SECC Classification
 
@@ -87,7 +87,7 @@
 
 1. **Tension:** The line is confirmed at 200 metres from the epicentre and walked by two wardens in opposite directions. Everyone who will be near it writes their own name on their forearm in grease pencil before the watch begins. It is a crude measure and it is the one that works.
 2. **Clash:** There is none and the wing has asked for the row to be struck. The team stands at the line and the minute runs. Nobody approaches, nothing is deployed, and the only decision available is whether to go in after somebody, which the standing order forbids.
-3. **Resolution:** 1200, then the roll call. Names off the board, people matched to them, forearms read where a person cannot answer. Median time to complete is nine minutes; the two long ones were both a worker who had sweated the pencil off.
+3. **Resolution:** 1200, then the roll call. Names off the board, people matched to them, forearms read where a person cannot answer. Median time to complete is nine minutes; the two long ones were both a worker who had sweated the pencil off. It closes against the documented suppression condition: **Names off the board, people matched to them, forearms read where a person cannot answer**.
 
 ### Consequences
 
@@ -181,8 +181,9 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 **Appearance:** a veil so near-colourless that the Armoury stores it on a black cloth to keep from losing it, with a grease-pencil name written on the inner hem by its first wielder and never removed.
 
-**Resistances:** Void: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 0.3 (Resistant) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** While the veil is on, even its bearer struggles to keep their own name and recent words in mind; the protection hides a person from memory as well as from the source.
 **Ability:** Grants resistance to Void damage, protecting against the void register of sorrow.
 
 ### M.A.W. Stigma — Amnesia's Token
@@ -194,11 +195,13 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat on this holding's cycles, which means on a watch at the line, which is the only kind of cycle this holding has
 **Ability:** A fragment of the entity's void sorrow, crystallized into wearable form.
-*No Stigma has ever come from this holding. The wing's note is that there is nobody in it to give one, and the Armoury has accepted that as the entry.*
+**Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the Token.
+
+*No direct Stigma offer is recorded from the holding. The Token is the set's 5% Head Stigma, not a third extraction from the radius.*
 
 ### M.A.W. Use Notes
 
-Two pieces, both taken by a timed mechanism during the minute itself with the facility evacuated to 200 metres, both under the Director's signature. The cost is consistent and is the reason there will not be a third: wielders lose the ability to say what they intended to do next, in small amounts, permanently. The first wielder's veil carries her own name on the hem because she wrote it there in the second month and the Armoury has never been willing to take it off.
+The Harpoon-Pike and Veil are the two direct extractions, each taken by a timed mechanism during the minute itself with the facility evacuated to 200 metres and under the Director's signature. The M.A.W. set also carries a third item, Amnesia's Token: a Head Stigma acquired at 5%, with a +1 bonus on this holding's cycles. The Token is not another extraction from the radius. Each item has its own bearer cost: the Pike fragments the wielder's memory, the Veil makes the wearer difficult to remember while worn, and the Token can take a familiar word or face for a few seconds after invocation. The first wielder's veil carries her own name on the hem because she wrote it there in the second month and the Armoury has never been willing to take it off.
 
 ### Field Use Record
 
@@ -255,6 +258,20 @@ There is no first sensation. That is the finding, stated here because every new 
 
 **After departure:** You check your arm on the way out. Everyone does, including people who were never inside the line, and the grease pencil is kept by the door because of it.
 
+## 상호작용 (Entity Interactions)
+
+The post runs on a roll call: 1200, then names off the board, people matched to them, forearms read where a person cannot answer. The file has never run a second holding against that sequence on the same ground. The rows below are paper work from the appendix that groups the 90x holdings by manifestation, read against each record's own series — three ways of getting a person's identity back onto the record.
+
+**Interaction method:** Fix the post's own numbers first: the 1200 hour, the median nine minutes to complete a roll call, the two long ones that were a worker who had sweated the pencil off. Then read the other record's series into the two columns, enter the first parting, how wide, what set it off, and whether either series moved. Re-verify at the next call.
+
+| What the roll call loses | How the pairing has run | What the post entered | What the board preserves |
+|---|---|---|---|
+| **Never Discharged** `O-IIβ-911` | Filed together on a book that has to be signed. That record discharges a patient who never leaves; this one restores a name that was never lost, only misplaced. | The discharge book and the roll-call median were set side by side once and nothing matched. | That the pairing is a filing line with nothing measured beneath it, entered on each repetition. |
+| **Lethe** `C-IIIγ-928` | Grouped on losses of the mind. That record's volume takes what was known and never gives it back; here the name is still there and the procedure is what finds it. | One review entry; the two series parted at the first mark and the columns were left as they fell. | That the parting stands as the entry, carried in the review's numbers un-smoothed. |
+| **Allhallow** `O-IIIγ-916` | Grouped on the returning dead and on the living who count them. That record keeps two tallies and refuses to reconcile them; this one reconciles every name and writes the match down. | Nothing was run. The appendix flagged the two for the review and the review moved on. | That the claim is an arrangement of the shelf, noted beside the row on each reading. |
+
+**Interaction procedure:** Compare in the record only, at the post's review, with the 1200 roll call re-read first and the other record's series laid beside it unchanged; parting, width, trigger, both readings and what persists are entered and never merged.
+
 ## 이야기 (Narratio) — The Tale
 
 Amnesia was not discovered. It was recognised. The void pressure had been present in SECTOR-O-914, contained for years — measured, logged, filed under 'ambient anomaly.' It took a junior researcher on Floor 4 to point out that the anomaly had a shape. The shape was Time-Void. The anomaly was alive.
@@ -267,11 +284,11 @@ The entity does not rage. It does not weep. It persists — void and void, patie
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The first Time-Void entity. The file is short because we are still writing it."* — Archive
-*"Standard void protocols assume the pressure is uniform. It is not. The void register is specific."* — Researcher
-*"I have never felt void like this. It was as if the element had learned my name."* — Specialist
-*"The entity does not breach. It deepens. There is a difference."* — Containment Lead
-*"We contained it. We did not understand it. Those are not the same thing."* — Director
+*"The Year 4,226 report is filed as a correction rather than a discovery. It was already in the sector before anyone had a name for the sector."* — Archive
+*"Three movements that agree on nothing else agree on this minute. That agreement is the evidence, and after 11 years I have no explanation for it."* — Researcher
+*"Nobody has been hurt here, not once in 61 runs. What happened instead is 61 minutes in which 200 metres of us could not have said who we were."* — Specialist
+*"We do not contain it. We wait it out, and while it runs nobody speaks to anyone standing inside the radius."* — Containment Lead
+*"I have signed two extractions. Both were taken by a timer, from the edge of the radius, with nobody close enough to be told their own name."* — Director
 
 ## 기록 (Registrum) — The Record
 
@@ -318,9 +335,9 @@ Memory returns when the minute ends and the recovery has been described as compl
 
 ## Trivia
 
-- One of the first catalogued **Time-Void** entities in Somnarak.
-- Its void descriptor makes it structurally unique among time entities.
-- The void pressure in the void register feels different from standard void — more specific, more personal.
+- The recognition in Year 4,226 was a filing correction and not a discovery: the sector had been logged as an ambient anomaly for years before anybody read the log.
+- Three clock movements in the sector agree on this minute and on nothing else. That agreement is all the evidence there is, and it is unexplained after 11 years.
+- It may be the only entry in the registry with no human being behind it: four searches of the sector occupancy record before Year 4,226 found no incident, no death and no absence.
 
 ## Document Information
 

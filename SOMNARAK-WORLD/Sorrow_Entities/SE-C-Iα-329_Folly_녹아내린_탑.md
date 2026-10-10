@@ -29,19 +29,19 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 10–14 per successful cycle, read off the plumb line rather than the tower |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Hold the plumb series unbroken and enforce the Rule of Published Withdrawal across every office that announces anything beyond these walls. Viderehan and Ferrehan are the valid Work Types and nothing else has been authorised. |
+| **Recommended response** | The plumb series runs unbroken and the Rule of Published Withdrawal holds in every office that announces anything past these walls. Viderehan and Ferrehan are the only work authorised here, and nothing outside them has ever been signed off. |
 
 ### Operational Notes
 
 - The structure in the Border region was built for a purpose no surviving record names, and it was completed.
 - Work settles it for a shift. The structure is unchanged, and no session has identified what it was for.
-- Viderehan and Ferrehan are the valid approaches to the object.
+- The object accepts Viderehan and Ferrehan and nothing else; the wing has tried the others once each and filed the results.
 - There is no breach counter. The affected radius widens along the border line, and its edge is marked at every session.
 - Residue is recovered from the footings under separate authorization.
 
@@ -325,9 +325,9 @@ The rule is therefore not a courtesy and is not public relations. We can survive
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Folly; the other feeds it.
+> Two outcomes stand on the sheet, and the record tells them apart by what the worker does in the unfinished rooms: leave them open and promise nothing, or say the buildings will come.
 
-| Do the thing on file: Hold the plumb series unbroken and enforce the Rule of Published Withdrawal across every office that announces anything beyond these walls. | Do the obvious, decent thing instead, and feed Folly. |
+| Do the file's way: the plumb series unbroken, the Rule of Published Withdrawal enforced wherever words are sent past the walls. | Do the plain, decent thing instead, and feed Folly. |
 |---|---|
 | The worker stands in the unfinished rooms and does not finish them, and does not promise to. The interior stays open and the session's second reading is good. | The worker tells the rooms they will be built. They say it kindly and they mean it. The gauge climbs, the interior shuts, and the plate is higher in the morning. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

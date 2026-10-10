@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Apnea is recorded as a Subject with Subject-Dream manifestation and Grudge elemental expression. The current record places it at Zone E, Border region; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Work Type line is one input and not the whole picture; what a steady gauge means in the field is decided by the SECC code and the coherence level together. This record is a Subject with Subject-Dream manifestation and Grudge as its element, held at Zone E on the border, and nothing learned on an entity with a similar name transfers here. A gauge holding still is not permission to relax: the reading can stay where it is while the worker still carries away memory, environmental or identity effects.
 
 **Reading the response:** Success is audible breathing and a clean departure on the hour. A sustained cycle is not a virtue here and never has been; the chamber's whole discipline is that the shift ends when it ends. Any sound from the figure would be the first in twenty-four years and would close the wing.
 ## Breach Behavior
@@ -267,7 +267,7 @@ The set is built around not stopping, and every piece of it makes stopping harde
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Apnea (N-IVδ-159 [O]) is logged as a Subject-Dream manifestation expressing Grudge: a motionless translucent figure of one held breath, crimson-cracked across the face and chest, standing in a chamber built around the Zone E tower room where a watchman died holding back his last exhalation with his relief eleven hours late. It has never moved inside the chamber, never made a sound, and its crack pattern has not altered in twenty-four years. Its instrument is the flat period it leaves behind — one to nineteen days of a condition that is neither sadness nor calm — and for twenty-four years the quarterly median of that period has tracked this facility's own total of watch hours worked past an unrelieved hour.
+Apnea (N-IVδ-159 [O]) stands on the register as a Subject-Dream manifestation expressing Grudge: a motionless translucent figure of one held breath, crimson-cracked across the face and chest, standing in a chamber built around the Zone E tower room where a watchman died holding back his last exhalation with his relief eleven hours late. It has never moved inside the chamber, never made a sound, and its crack pattern has not altered in twenty-four years. Its instrument is the flat period it leaves behind — one to nineteen days of a condition that is neither sadness nor calm — and for twenty-four years the quarterly median of that period has tracked this facility's own total of watch hours worked past an unrelieved hour.
 
 **Entry 2 — <Excerpt from the Chamber Breathing Log, Zone E, Year 4238>**
 Appears in dreams of border personnel. Personnel feel frozen rage and cannot complete a breath. It manifests through dreams rather than physical cold.
@@ -297,9 +297,9 @@ The chamber's median flat period was two days last quarter. It was six when I ca
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Apnea; the other feeds it.
+> The shift ends two ways on the sheet, and the record takes its reading from whichever one happens: get the worker onto the floor so the breath comes back with the tone, or hold the hour open past its close to finish the cycle.
 
-| Do the thing on file: Ground the worker and allow a safe release of breath. | Improvise something kinder, which is how every failure on Apnea's file began. |
+| Do the file's way: ground the worker, and let the breath come back with the tone. | Improvise something kinder instead, which is where every failure on this record began. |
 |---|---|
 | The worker's breath comes back audibly against the tone, is heard by the second worker, and the shift ends on the hour with the cycle unfinished. The sorrow is named; Apnea is fully recorded. | The worker stays past the hour to finish the cycle. The gauge climbs, the flat period lengthens, and the roster officer who allowed it is named in the return. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -320,7 +320,7 @@ It stands there and does nothing at all, and after a while you notice you have s
 
 ### Interaction Pattern
 
-Apnea does not exist in isolation. Its recorded relationships with The Sleeping Sigh, The Frozen Veil, The Border Lead should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three names are written beside this one — The Sleeping Sigh, The Frozen Veil and The Border Lead — and the register keeps them as comparisons rather than partisans. A watch that runs two together enters what the second presence altered: breath-sound in the room, movement at the edge of sight, the cold gathered around the cot, memory pressure, the gauge reading, or the hold on containment, and beside each one the range, the duration, and the first trigger.
 
 **Interaction method:** No proximity work. The chamber was built around the room and the figure has never been moved; each paper relationship is answered in writing on one question — rest denied, feeling stopped, or a post that could not be left.
 

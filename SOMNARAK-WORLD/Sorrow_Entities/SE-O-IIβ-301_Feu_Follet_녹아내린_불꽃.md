@@ -34,14 +34,14 @@
 | **Tool / M.A.W. grade** | β · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Pugnahan raises it, and the anchors run continuously from entry to withdrawal. |
+| **Recommended response** | All four are opened by the classification and there is no fifth. Flerehan and Ferrehan settle the gauge, Pugnahan lifts it; whatever the shift chooses, the present-tense anchors run from the door to the withdrawal and the face record is kept behind them. |
 
 ### Operational Notes
 
 - A successful cycle steadies the flame and stops the melting for a while. It restores nothing: the fire that saved the traveler is still decades out, the memory of it is still going soft, and the figure reforms with whatever face the next worker brings into the room.
 - The listed threshold of 3 is a count and it runs down, one for each failed or refused cycle, with the third bringing the entity to zero. Track it on the sheet rather than by feel: this holding gives almost no warning in the room, because the sign of a cycle going wrong here is the worker becoming comfortable.
 - The 12–18 Han-Energy yield is standard for the band and the risk is not distributed evenly across the people who earn it. Workers who arrive carrying a recent loss draw the same yield at several times the exposure, because the figure's face is assembled out of whatever grief is brought through the door.
-- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. What is extracted here is a piece of a comfort that went bad, and every piece in the set keeps that character: each one gives something genuinely warm and charges for it afterwards.
+- Extraction of M.A.W. here is its own authorised event and is never attached to a good cycle as a reward. What comes out is a fragment of a comfort that went wrong, and the whole set keeps that character: every piece gives something genuinely warm at the moment of use and presents the bill afterwards.
 
 ## Combat Record
 ### Core Stat Line
@@ -86,7 +86,7 @@
 ### Battle Phases
 
 1. **Tension:** Before the figure is engaged the team fixes its anchors — the air temperature from the instrument rather than the skin, the floor texture underfoot, the time of day read aloud. The anchors are agreed in the corridor, not in the room, because the room is where they stop sounding necessary.
-2. **Clash:** Work proceeds while the figure melts, and the team's own state is the second instrument throughout. Every few minutes a worker states a present, checkable sensation aloud and a second worker confirms it; a cycle in which nobody has spoken an anchor for ten minutes is logged as a lapse regardless of how the gauge is reading.
+2. **Clash:** The cycle runs while the figure goes on melting, and the second instrument is the crew's own condition. A worker states a present-tense, checkable sensation aloud every few minutes and a second worker confirms it out loud; a stretch of ten minutes with no anchor spoken enters the log as a lapse, whatever the gauge happens to read.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Anchor the worker in present sensations**.
 
 ### Consequences
@@ -266,7 +266,7 @@ Every piece in this set gives something genuinely warm and charges for it afterw
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Feu Follet (O-IIβ-301 [LS]) is logged as a Subject-Mind manifestation expressing Lament. The Flame formed from a Desolate survivor's memory of warmth after everyone else was gone. Held at Zone C, Mask Market. It manifests in the minds of people wearing masks.
+Feu Follet (O-IIβ-301 [LS]) is a Subject-Mind manifestation expressing Lament, held at the Mask Market in Zone C. It formed out of one Desolate survivor's memory of warmth after everybody else was gone, and it arrives in the minds of people wearing masks — a face they recognise, a fire that was never lit.
 
 **Entry 2 — <Excerpt from Mask Market Patrol Log, Year 4238>**
 Spreads through masks, reflections, and consciousness. Personnel confuse remembered comfort with present safety. It is calmer when its source is accepted as imperfect.
@@ -278,15 +278,15 @@ The fear that comfort itself will melt away.
 Management: Anchor the worker in present sensations. Work response — Flerehan: Flame steadies and reveals the remembered warmth. (Decrease); Pugnahan: It melts through the worker's thoughts. (Increase); Viderehan: Shows whether the fire was real or remembered. (Stable); Ferrehan: Tests whether the worker can remain as comfort changes. (Decrease). It produces grief after comfort ends.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+The origin here is remembered warmth and nothing grander. One survivor came out of the Desolate holding a memory of a fire, a room and somebody's face, kept it close for want of anything else, and the keeping is what the Flame is made of. What it offers is that warmth back — unchanged in the memory, unverifiable in the room — and the file's own finding is that it settles the moment the remembered thing is admitted to have been ordinary, imperfect and over.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Feu Follet; the other feeds it.
+> Two ways to close a watch at the Mask Market, and the file separates them the same night: one leaves a worker able to say where they are, and the other is the warmth every observer is offered first.
 
-| Anchor the worker in present sensations. | Substitute your own judgement, which on Feu Follet has never yet cost less than the condition. |
+| Anchor the worker in present sensations — what the floor feels like, what the lamp smells of, what the second worker can confirm — and leave the remembered warmth where it is, offered and unanswered. | Substitute your own judgement, as the record shows people do: take the offered face for a meeting, buy into the comfort, or confront the figure directly — and the last of those ends the manifestation without touching the reading. |
 |---|---|
-| Flame steadies and reveals the remembered warmth. The sorrow is witnessed; Feu Follet is fully recorded. | It melts through the worker's thoughts. The gauge climbs and Feu Follet withdraws without revelation. |
+| The Flame steadies into the remembered warmth rather than a claim on the room, the anchors run unbroken to the withdrawal, and the watch closes with the face record sealed up unreconciled. | The warmth is taken for a meeting and the worker answers it in the present tense; the gauge climbs, the figure goes out on its own terms, and the entry closes with a face written down that no other observer saw. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -312,7 +312,7 @@ This holding is read against the other records that take their shape from whoeve
 
 ### Entity Interaction Record
 
-Feu Follet must be assessed as one of a group of sorrows that take their shape from whoever is looking, rather than as a fixed object in the Mask Market. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
+This holding belongs with the sorrows that are shaped by whoever is looking rather than with the fixed objects of the Market. The rows below are canonical in the narrow sense that they were observed and filed; none of them is settled. Any of them may present as help, obstruction, indifference or a condition that only shows under load, and a single result carries no weight at all across a Tide, a breach elsewhere, an Ordeal or a transformation.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -320,7 +320,7 @@ Feu Follet must be assessed as one of a group of sorrows that take their shape f
 | **The Happy Mask** | Incompatible. The Mask covers the fear this holding is made of, and the two do not hold together. | Withdrawal occurs at about eleven metres, consistently, and it is this entity that withdraws: the core dims and the perception thins until nothing resolves. No contact has been achieved and none is now attempted. | The withdrawal distance across all attempts, which is the only hard figure the pairing has produced. |
 | **The Frozen Veil** | The Veil puts out the warmth, and the file is careful about what that means. | Under the Veil the faces stop forming while the core continues at its ordinary rate. Nothing has been suppressed; the perception has been interrupted and the holding is unchanged beneath it. The distinction is the reason this row exists. | The core series under the Veil, the absence of faces, and the recovery once the Veil withdraws. |
 
-**Interaction procedure:** Baseline both parties alone, bring them into range with the anchors already running, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the zone, and whatever persists after separation. The field this holding adds is the face record: who each observer saw, before and after, kept unreconciled.
+**Interaction procedure:** Baseline both parties alone first, then bring them into range with the anchors already running; log the first shared change with its distance, duration, trigger, both gauges, the effect across the zone and anything left over after the parties are apart. What this holding adds to the form is the face record — which face each observer saw, before and after, written down and never reconciled with anybody else's.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -382,7 +382,7 @@ The fire gives no heat and this is confirmed by the absence of any thermal readi
 
 ### It Dissolves When Faced
 
-Direct confrontation ends the manifestation, and the standing order is that this is not a result. The perception stops, the figure goes out, the room empties — and the core's beat rate, ring diameter and melt rate continue through the whole episode without deviation, which is the measurement that settles it. Nothing has been suppressed; the worker has merely stopped being able to see what is still there. The method is taught at briefing as a withdrawal aid and is logged as a withdrawal, never as a suppression, because two Corrupt breaches in three began with a team reporting that they had faced it down and it had gone out.
+Direct confrontation ends the manifestation and the standing order treats that as nothing gained. The perception stops, the figure goes out and the room empties, while the core's beat rate, the ring diameter and the melt rate run on through the whole episode without deviation — which is the reading that settles the question. Nothing was suppressed; the worker simply stopped being able to see it. Briefing teaches the method as a withdrawal aid and enters it under withdrawal, never under suppression, because two of the three Corrupt breaches on this holding opened with a team reporting that they had faced it down and it had gone out. The perception stops, the figure goes out, the room empties — and the core's beat rate, ring diameter and melt rate continue through the whole episode without deviation, which is the measurement that settles it. Nothing has been suppressed; the worker has merely stopped being able to see what is still there. The method is taught at briefing as a withdrawal aid and enters as withdrawal, never as a suppression, because two Corrupt breaches in three began with a team reporting that they had faced it down and it had gone out.
 
 ### A Fire That Saved Someone
 
@@ -425,12 +425,14 @@ Workforce planning's objection is minuted and read at every annual review. An un
 
 
 
+- Held as digits, for the register's own look-up: gauge 415/415 · pressure 10–23 per hit · resistance 25 / 15 per cent · threshold 60 per cent · blade 5–9 at 25 Echoes · suit 20 · Stigma 5 per cent · 3 flame-form holdings in the Mask Market · 2 of 3 Corrupt breaches opening on a reported suppression.
+
 ### Registry Trivia
 
-- **Classification detail:** Feu Follet is a Subject with Echo (II) coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is Zone C, Mask Market.
+- **Classification detail:** Subject, Echo (II) coherence, Moderate (β) potency: a Mind-type holding that presents as warmth and cannot be measured by the face it is wearing.
+- **Field detail:** Lament is its element and the Mask Market in Zone C is its registered ground — held there among the stalls, in the minds of mask-wearers.
 - **Recognition detail:** Identify it by the core and never by the face. The face is different for every witness and belongs to them; the pale blue heart-beat of fire inside charred metal is the same in every account on file.
-- **Record detail:** Flame-form entities are numerous in the archive and three are held within the Mask Market alone. Confirm the designation and the manifestation before a cycle is booked, because the instructions diverge at the point that matters here — whether the entity may be confronted, and on this holding the answer is no.
+- **Record detail:** Flame-form holdings are common in the archive and three sit in the Mask Market alone, so confirm the designation before a cycle is booked: the instructions diverge exactly where this one is unusual — whether the holding may be confronted at all, and here the answer is no.
 - **Containment detail:** Containment holds a core that was never going anywhere. The entity is perceived inside consciousness, so the seal governs who may enter and not what reaches them: adjacent personnel report pleasant dreams of company, waking warm, and a reluctance to leave their quarters. Those reports are filed with the holding, and the pleasantness of them is the reason they are collected.
 ## Document Information
 

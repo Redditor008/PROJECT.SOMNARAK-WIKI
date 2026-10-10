@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Lament pressure; 25% against other pressure types |
+| **Resistance** | 35 per cent against Lament pressure and 25 against anything else, with the file's own note that the object is not what a party resists: the crystal sits still and takes no interest, and what has to be borne is the weight of a life that is not the handler's being carried for the length of the watch. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 561/561 |
 | **Han Pressure [ATK]** | 14–33 per hit · Lament |
@@ -82,14 +82,14 @@
 | { *The Still Air* [**Debuff**] } | "The air goes still — and cold — and you can hear your own grief, preserved in the ice." | [The Echo freezes the air; the target's sorrow is caught mid-feeling.] | *Target suffers -10 Composure; their grief is suspended, aching.* **[10 Lament DMG [Lament]]** | When the target enters the cold. |
 | { *The Frostbitten Note* [**Debuff**] } | "A sound, half-frozen, reaches you — and the cold travels with it into your chest." | [A preserved echo carries the cold inward; the target chills from within.] | *Target loses 10 Composure; feeling itself begins to numb.* **[10 Lament DMG [Lament]]** | When the target hears the Echo. |
 | { *The Ice Shard* [**Attack**] } | "A shard of frozen sound breaks off — and it cuts where it is heard." | [A splinter of the frozen echo flies, sharp as crystal.] | *Inflicts Lament pressure and one cold, clean cut.* **[14-22 Lament DMG [Lament]]** | When the Echo is struck. |
-| { *The Glacier* [**Attack**] } | "The cold advances — a wall of frozen grief, slow and unstoppable." | [The preserved sorrow advances as a mass of ice-cold lament.] | *A heavy Deep Blue advance; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Echo is thawed or disturbed. |
-| { *The Deep Freeze* [**Ultimate**] } | "Everything goes still — and cold — and nothing will ever move or feel again." | [The Echo freezes the entire field, suspending all grief in ice.] | *All personnel suffer Lament pressure for three turns in the deep freeze.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Glacier* [**Attack**] } | "The cold advances — a wall of frozen grief, slow and unstoppable." | [The preserved sorrow moves at a walking pace and does not stop, and everything it passes keeps the temperature afterwards.] | *A heavy Deep Blue advance; the gauge jumps 15 at a stroke.* **[24-36 Lament DMG [Lament]]** | When an imprint is disturbed. |
+| { *The Deep Freeze* [**Ultimate**] } | "Everything goes still — and cold — and nothing will ever move or feel again." | [The whole field is held at the temperature of somebody else's last minute, and nothing in it moves on its own again for 3 turns.] | *Every worker present takes Lament pressure for 3 turns of deep freeze.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — Frozen Echo is recognised by the imprints and the temperature differential; never by weight alone, which changes slightly every time somebody touches it — then the approach is set and the positions are taken.
+1. **Tension:** Identification first, and it is read in the imprints and the temperature differential — never by weight alone, which changes slightly every time somebody touches it. The approach is set, the handler is named before the object is, and the clock-holder is given authority to call the set-down at the moment the watch turns; nobody negotiates that call afterwards.
 2. **Clash:** Fourteen turns, worked at the field edge. Only the nominated handler touches it, once, in fresh gloves, with the clock held by somebody else; no turn is repeated by a second person to confirm it.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+3. **Resolution:** The cycle closes when the object has been set down at the clock-holder's call — not before, not after — and the gauge falls below 25 per cent. On this holding a completed cycle costs an imprint, and the file's order of business is to book the cost before it books the result; a watch that ends with the handler still holding the crystal is entered as the crystal having gained, whatever was learned.
 
 ### Consequences
 
@@ -211,7 +211,7 @@ Escalation here is the field edge and the pronoun, not force. Record the trigger
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that glows along its edge when readied.
+**Appearance:** a slender Lament Han-crystal blade, faintly luminous, that lights along its edge when readied — cut from the Echo's outer rim, so it carries the same temperature differential, and it reads cold down the whole grip in a warm room.
 
 **Damage:** Lament 7-12
 **Speed:** 3 (Fast)
@@ -219,15 +219,15 @@ Escalation here is the field edge and the pronoun, not force. Record the trigger
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Frozen Echo's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels the object's signature: the struck do not lose composure so much as acquire the last minute of somebody else's life and have nowhere to put it.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The bearer carries the object's unwept grief and weeps without an account of whose it is; prolonged use makes the weeping ordinary. Unlike the object, this charge does reverse on the return — the file records that — and the difference is the reason the pieces are issued at all.
 
 ### M.A.W. Suit — Frozen Echo Shield
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a shield-backed harness of Lament Han-crystal, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** a shield-backed harness of Lament Han-crystal, cool to the hand and faintly luminous, that shifts with the wearer's breathing — it is cut to be taken off one-handed, because on this file a handler has to be able to put the object down while still wearing the set.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -245,32 +245,32 @@ Escalation here is the field edge and the pronoun, not force. Record the trigger
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a small charm of Lament Han-crystal, faintly luminous and warm in the palm — the one piece in the set that reads warm, which wardens use to tell it from the blade in a dark room.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 while this holding is the subject of the cycle and nothing anywhere else: the charm answers the imprints' own register, and it has never read on any other crystal in the Desolate.
 
 **Ability:** Grants a minor boon tied to Frozen Echo's sorrow; the effect mirrors the entity's nature.
 
 **Cost:** The bearer weeps in their sleep.
 
-*The Frozen Echo Charm is not issued and cannot be requested. It has been conferred three times, in each case on a handler who set the object down at the clock-holder's call while still in the middle of somebody else's life.*
+*The Frozen Echo Charm is not issued and cannot be requested. It has been conferred 3 times, in each case on a handler who set the object down at the clock-holder's call while still in the middle of somebody else's life — the file keeps the 3 as its only evidence that the call can be obeyed.*
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Frozen Echo and carries what Frozen Echo carries: the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+All 3 pieces are cut from the Echo's own rim, and they carry what it carries: the bearer takes on unwept grief and weeps without knowing whose. The grade records extraction stability and nothing about that; the cost is in the column beside it, which is why issue here is one rotation at a time and why the return is asked about by somebody other than the bearer.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Frozen Echo's toll being that the wielder feels the entity's unwept grief. |
-| **During use** | Frozen Echo charging, which presents as this: the wielder feels the entity's unwept grief. The wielder's own account is taken separately and afterwards. |
-| **At limit** | The wearer dreams of every former owner, and the wielder has stopped reporting it — the usual end point for a Frozen Echo piece. The observer calls the limit. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether Frozen Echo's cost is still showing — the wearer dreams of every former owner. |
+| **Before use** | Wielder, piece, the gauge, and one pre-check put by a second person: whose grief has the bearer been carrying this week, and can they say? The charge here arrives as somebody else's unfinished business, and the sheet is what the return gets measured against. |
+| **During use** | The charge shows as a life arriving edgewise: the bearer grows careful with objects, protective of strangers, and apologetic to rooms. The hour goes into the log from the second worker's hand, never the bearer's. |
+| **At limit** | The limit is a crowded sleep: the bearer dreams of every former owner in turn and has stopped reporting it as anything unusual. On a Frozen Echo piece the use ends there, and the observer makes the call rather than the bearer. |
+| **After use** | Take the piece back and put the question to a colleague: is the bearer still dreaming of other people's minutes, and have they stopped mentioning it? The answer is entered whether or not the bearer agrees, and the piece is not reissued where the sleep has not emptied. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade records how hard a piece hits and nothing about what it takes; on this set the toll is other people's unfinished business, and it is filed separately because it does not move with the rating in either direction. Read both columns, authorise on cost, and treat a low-rated piece carrying that charge as the ordinary case on this line.
 
 ## 관찰 기록 (Observation Log)
 
@@ -299,7 +299,7 @@ Every piece in this set is a fragment of Frozen Echo and carries what Frozen Ech
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Frozen Echo (C-IIIγ-609 [D]) is logged as a Object-Weight manifestation expressing Lament. The Echo formed from an object passed between too many grieving people. Held at The Desolate, near The Scar. It grows heavier with each new witness.
+Frozen Echo (C-IIIγ-609 [D]) is an Object-Weight manifestation expressing Lament: a crystal that accumulated what people left behind, standing in the Desolate with imprints on its faces and a temperature differential that follows whoever is nearest. It holds a life rather than a grief in the abstract — the last minute of somebody who did not finish — and it gains an imprint from any handler who is still holding it when the clock-holder calls. The condition is to set it down at the call.
 
 **Entry 2 — <Cold Both Ways>**
 It is cold physically and emotionally.
@@ -311,13 +311,13 @@ The burden of carrying everyone else's history without retaining a single owner.
 Work response — Viderehan: Reveals the chain of former owners. (Stable); Ferrehan: Tests whether the worker can carry history without possession. (Decrease). Personnel report loss after contact.
 
 **Entry 5 — <The Merchant Who Sold Everything>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+What the wing keeps in place of a story is the cost column of the interaction table: every co-presence on this file required a handler, and every handler is now in the crystal. What the Echo actually holds is the last minute of the people it took with it — the whole of the object is other people's unfinished business, which is why the handling rule is a clock-holder with authority and single-use gloves.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Frozen Echo; the other feeds it.
+> Two ways to end the same watch, and only one of them is available after the call. The file's way: keep one named handler, gloves on, the clock-holder watching, and set the object down the moment the call comes. The other way is to finish the thought first — the crystal is warm, the minute is nearly over, and putting it down mid-sentence feels like abandoning somebody.
 
-| Viderehan and Ferrehan only, under certified relic protocol, with one named handler, single-use gloves, a clock-holder with authority to call the. | Substitute your own judgement, which on Frozen Echo has never yet cost less than the condition. |
+| One named handler, single-use gloves, a clock-holder with authority to call the set-down, and the object put down at that call without a sentence finished. | Keep hold of it to the end of the minute, just once: the crystal takes the handler's own last minute as the imprint, the gauge climbs, and the file records that the cost column gained a name. |
 |---|---|
 | Tests whether the worker can carry history without possession. The sorrow is witnessed; Frozen Echo is fully recorded. | Reveals the chain of former owners. The gauge climbs and Frozen Echo withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -338,22 +338,22 @@ The object is cold enough to numb the fingers. Then another hand appears in your
 
 ### Interaction Pattern
 
-This holding is read against the other things in the Desolate that accumulate what people left behind. Each relation below has been observed and filed, none is settled, and each test cost an imprint, which is why there are so few of them.
+The Echo is read against the other holdings in the Desolate that accumulate what people leave behind. Every relation below has been observed and filed, none is settled, and each test cost an imprint — which is why there are so few of them and why the file dates each entry by the handler who paid for it.
 
-**Interaction method:** Baseline each party alone over a long series before any paired approach, and count the cost in imprints before authorising one. Log the onset of any shared change with its range, duration and trigger, the gauge movement on both sides, the field edge, and what persists after separation. Re-verify each cycle; the Desolate overturns settled readings during a Tide.
+**Interaction method:** Baseline each party alone over a long series before any pairing, and count the cost in imprints before authorising one — on this file the imprint is the unit of currency and the table above is priced in it. Log the onset of any shared change with its range, duration, trigger, both gauges, and the temperature differential either side of the test.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled, and every one of them was paid for: each co-presence in this table required a handler, and each handler is now in the crystal.
+The rows below are canonical points of contact and not alliances, and none of them is settled. Every one of them was paid for: each co-presence on this file required a handler, and the handlers are now in the crystal — which the file states in the same paragraph it uses to file the results, because the wing's position is that the price is part of the finding.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Record read alongside | Where the resemblance comes from | What co-presence has shown, and at whose cost | Entry the file requires |
 |---|---|---|---|
 | **The Chain of Memories** | The Chain is said to add each former owner as a link, which would make the two a single record kept twice. | Four co-presences. The Chain gained no links the wing could identify and the Echo's imprint count rose by exactly the number of handlers present, which it does anyway. No connection demonstrated. | The four co-presences, both counts, and the handler list for each. |
 | **The Forgotten Market Stall** | The Stall may have sold the object at some point, a possibility raised by its own ledger and never resolved. | Two approaches. The Stall's ledger produced three entries that could describe this object and could equally describe forty others. Nothing passed between them and the Echo's series was flat. The wing records the question as open and not as evidence. | Both approaches, the three ledger entries in full, and the flat series. |
 | **The Memory Weaver** | Cannot take what is frozen in the Echo, the only recorded instance of that holding failing to consume. | Five co-presences, the most of any pairing here. The Weaver withdrew on all five, at between two and four metres, without contact. Nothing was taken and nothing was altered in either direction. | The five co-presences, the withdrawal distances, and the condition that produced each withdrawal. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Record each record independently and read the interaction data only against the solo baseline. Then enter the first shared change — distance, duration, trigger, gauge movement on both sides, effect in the room, and the handler it cost. A pairing on this file without the handler named is void, because the imprint is the datum the wing actually keeps.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -399,9 +399,9 @@ Some sorrows are owned. Frozen Echo is a sorrow that lost its owner — or rathe
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map and not the territory: the SECC code, the gauge thresholds and the M.A.W. notes are tools for standing in the room, not substitutes for it. What governs here is small and heavy — the object holds somebody's last minute, one named handler works it, the clock-holder's call ends the watch, and the weight changes slightly every time a person touches it. Where behaviour deviates from this file, the deviation is the most important thing about the holding, and it is preserved as evidence rather than tidied away.
 
-**Review requirement:** The review requirement: every activation, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every activation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Every activation, Sorrow Tide and transformation attempt invalidates the current baseline, and on this file the re-verification is by people who were not on the watch: gauge, temperature differential, the imprint count, the handler's own account of the minute they were carrying, and the sleep question asked at the return. The R.D. record describes a living sorrow pattern and not a permanently complete explanation.
 ## Warden Record
 
 ### Every Hand
@@ -463,6 +463,8 @@ The practical consequences are small and real. Two of the handling list have dec
 The objection is minuted at every annual review, raised by the legal officer rather than by the association. It holds that the facility has recorded ownership it has formally advised itself it does not have; that the entry was made for a purpose — buying gloves — that could have been met by a custody line if one had existed, and no one has ever applied to create one; and that an accurate internal document which becomes a false public one by being published is not a small matter in a wing whose whole business is records. The minute records the objection as **correct in all three parts**. It records that a custody line has now been applied for twice and refused twice as a change to the accounting structure that cannot be made for a single item. And it prints the finance officer's reply in full, because the review chair asked for it: *I can buy the gloves or I can tell the truth in the register. I have been choosing the gloves for four years and I will keep choosing them.*
 
 ## Trivia
+
+- Kept to hand as digits, for this file's look-up: resistance 35 / 25 per cent, the set's blade at 10–15 damage and 50 Echoes, the harness at 45, the charm's line at 4 per cent, and 3 conferrals on the Charm.
 
 - No handler has ever been given the same former owner twice, across nine years and several hundred contacts.
 - The surface carries imprints and no wear: no scratch, no chip, no polish, after a hundred hands and a displacement.

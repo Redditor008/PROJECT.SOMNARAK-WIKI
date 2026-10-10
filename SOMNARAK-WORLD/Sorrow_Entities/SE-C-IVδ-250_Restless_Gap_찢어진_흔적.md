@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Weight pressure; 35% against other pressure types |
+| **Resistance** | 45 per cent against Weight pressure and 35 against everything else — high across the board, and the file's own reason is that nothing here is aimed: the tear does not select, so a crew holds against the zone rather than against the entity. Escalation runs 5 Resolve per turn while unopposed, and the gauge opens full at 846 and trips at 90 per cent. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 846/846 |
 | **Han Pressure [ATK]** | 29–64 per hit · Weight |
@@ -81,21 +81,21 @@
 | { *The Shredded Record* [**Debuff**] } | "The traces have been torn to pieces — and each fragment carries the weight of the whole." | [The Trace's destruction presses on the target; they bear what was ruined.] | *Target suffers -10 Resolve; the shredded evidence is heavy.* **[10 Weight DMG [Weight]]** | When the target touches the fragments. |
 | { *The Missing Page* [**Debuff**] } | "The most important part of the trace is gone — torn away — and the absence weighs more than what remains." | [The Trace's absence presses; the target feels what was removed.] | *Target loses 10 Resolve; the void in the record is crushing.* **[10 Weight DMG [Weight]]** | When the target reads the fragments. |
 | { *The Paper Cut* [**Attack**] } | "A fragment of torn trace, edge sharp, flies at you — carrying the anger of being destroyed." | [A shard of torn record launches.] | *Inflicts Weight pressure and one thin, heavy cut.* **[14-22 Weight DMG [Weight]]** | When the fragments are scattered. |
-| { *The Full Reconstruction* [**Attack**] } | "Every torn fragment flies back together — and for one instant, the trace is whole, and then it detonates." | [The Trace reassembles and immediately explodes.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the fragments are forced together. |
-| { *Everything Is Torn* [**Ultimate**] } | "Every record in the field shreds — and the weight of destroyed evidence crushes everyone." | [The Trace spreads its tearing across the whole field.] | *All in range suffer Weight pressure for three turns of shredded records.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Reconstruction* [**Attack**] } | "Every torn fragment flies back together — and for one instant, the trace is whole, and then it detonates." | [The fragments converge, the trace stands whole in the gallery for one breath, and then it lets go.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the trace is reassembled without anchors. |
+| { *Everything Is Torn* [**Ultimate**] } | "Every record in the field shreds — and the weight of destroyed evidence crushes everyone." | [The tearing widens out of the re-embodiment, and the whole field starts shedding its records.] | *All in range suffer Weight pressure for three turns of shredded records.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (the bend, the tear's angle, and the account you cannot repeat. Emotional impressions are the least reliable thing you will bring out of that gallery) and Restless Gap is confirmed against the designation; positions are taken and the cycle is opened.
-2. **Clash:** The crew works from outside the bend, with the sequence card in hand and the counselor on the line. Flerehan and Ferrehan are the usable pair; Pugnahan tears the space further and is prohibited by the chamber order rather than by preference.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Use memory anchors and reconstruct the person's history without inventing missing pieces**.
+1. **Tension:** Identification rests on three readings and no others — the bend, the angle of the tear, and the account the worker cannot repeat; emotional impressions are the least reliable thing anybody brings out of that gallery. Positions are taken outside the bend with the sequence card in hand and the counsellor on the line before the cycle opens.
+2. **Clash:** Worked from outside the bend for the full interval, sequence card in hand, counsellor on the line. Flerehan and Ferrehan are the usable pair; Pugnahan widens the tear and is barred by chamber order rather than by preference — not because the response is disliked but because the space does not close again afterwards.
+3. **Resolution:** The cycle closes when the anchors have been worked and the person's history has been reconstructed with no piece invented to fill a gap. The register's condition is one sentence, and its difficulty is entirely in the second half: a crew that supplies the missing beat to make a life read smoothly has not closed the cycle — it has joined the entity in editing the record.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resolve**, funneling cognitive instability back into the Sorrow Gauge.
-- Restless Gap’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Restless Gap's dossier.
+- The responder who loses their hold inside the zone stops being a responder and becomes a route for its pressure instead. **Resolve** leaves them as a spent resource rather than as a wound, and what climbs back onto the gauge is the crew’s own doubt about which part of it happened first.
+- Length of exposure is what makes this zone dangerous rather than depth of it. A cycle kept short stays workable; the same cycle kept long stops being workable at all, and the dissolution arrives on four fronts in sequence — emotional, then physical, then the worker’s own identity, then the room’s arrangement.
+- Every activation of the M.A.W. charges the wielder personally, not the team: composure goes first, then the memories the wielder keeps privately, then the body’s vigour. The ledger for this grade has no column deep enough to hold that entry.
+- Unresolved, the sorrow here does not thin out and leave. It folds back into the zone that made it and begins the escalation recorded further down this dossier, starting with the corners of the Commons declining to meet.
 
 ## Appearance
 **Primary Form:** A person-shaped emptiness with a jagged vertical tear down it, carrying no material and registering only as a bend in whatever lies behind it. **Track:** it walks, on no path the survey has been able to predict.
@@ -134,18 +134,18 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | It reaches through the tear toward the worker — the only behaviour on file that resembles intention, and the file declines to say whether it is. | Decrease |
-| **Pugnahan** | The space tears further and the load rises with it. Prohibited by chamber order, not by preference. | Increase |
-| **Viderehan** | Fragments of the divided life, in no order and never twice in the same order. | Stable |
-| **Ferrehan** | The worker holds their own sequence aloud against the pressure for the full interval, from the day book. | Decrease |
+| **Flerehan** | It reaches through the tear toward the worker: the only behaviour on this file that resembles intention, and the register declines to say whether it is, leaving the question standing on purpose. | Decrease |
+| **Pugnahan** | The tear widens and the load rises with it, and the mess does not close afterwards. Barred by chamber order, not by preference. | Increase |
+| **Viderehan** | Fragments of the divided working life arrive in no order at all and never in the same order twice; the reading is real and stays unusable as evidence until an anchored worker sequences it. | Stable |
+| **Ferrehan** | The worker reads their own sequence aloud against the pressure for the whole interval, out of the day book, in their own hand — the holding's principal work and the one that keeps an exit score from moving. | Decrease |
 
 
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Restless Gap is recorded as a Subject with Subject-Void manifestation and Weight elemental expression. The current record places it at Zone D, Mantle Commons; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The gauge reads only against the classification, and on this file a stable gauge is a working state and not a pause. Restless Gap is a Subject with Subject-Void manifestation and Weight expression, walking the Mantle Commons in Zone D on no fixed path; the register's figures give an 846-point gauge that opens full, escalation at 5 Resolve per turn while unopposed, and a trip at 90 per cent.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** Success is scored on three axes — the entity's response, the worker's own condition, and the information recovered — and here the second moves first. A falling gauge means the sorrow is being borne and not dissolved: the pressure drops at the cordon and the source stays put, which is what containment looks like on this holding. Nobody is injured in the gallery and that is not the instrument; the exit-screen score is.
 ## Containment Event Behavior
 
 > *"The bend is past station three. It is not chasing anyone — widen the cordon and get the sequence cards out."*
@@ -157,7 +157,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Effect** | Pressure through the whole warped volume at once, heaviest at the tear, and sequence loss at a multiple of the chamber rate. |
 | **Secondary Effect** | Responders lose the order of the engagement while it is happening. Cordon logs are therefore timed by a clerk outside the radius who is never relieved by anyone who has been inside it. |
 | **First Target** | There is no target. The warping takes whoever the radius reaches, and the response is a cordon problem rather than a protection problem. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
+| **Escalation** | While it is unopposed the load simply grows: Resolve drain rises by 5 each turn until the cycle is suppressed. The curve is why the early hours read as manageable, and a long unopposed stretch is treated by the register as no longer recoverable. |
 
 ### Escalation Notes
 
@@ -173,9 +173,9 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-Appearance : A flared-muzzle bronze hand-cannon incorporating a glass lantern chamber beneath the barrel, ignited by an enclosed wheel-lock mechanism and operated via a curved finger lever.
+Appearance : bronze and flared at the muzzle, with a glass lantern chamber slung underneath the barrel; the wheel-lock is enclosed inside the housing, and the piece is fired from a curved finger lever instead of a trigger guard.
 
-The cannon fires incandescent phosphor pellets that illuminate dark chambers with blinding golden flare. The flame inside the underbarrel lantern flickers in rhythm with nearby sorrow activity.
+What it throws is incandescent phosphor, and a dark chamber caught by that flare goes gold and holds the gold a moment past the shot. The flame in the underbarrel lantern keeps time with sorrow activity near it, which in this zone means it flickers every time somebody takes a step they have no reason to take.
 
 **Damage:** Weight 10–15
 **Speed:** 3 (Fast)
@@ -188,15 +188,15 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Direct and Tick are scored separately against the same resistance, and the Tick is the one that matters here: the pressure is cumulative and the responder does not notice it, which is why withdrawal is decided by the sequence card and not by the responder.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Restless Gap's weight signature in the strike.
+**Ability:** Deals Weight damage against the Han — sorrow reserves and karmic debt — and carries the source's signature: what the strike takes is not what the target knows but the order they know it in.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The bearer grows progressively heavier across a shift and ages slightly over a long issue; the file notes that neither shows while the bearer is reading from the day book, which is exactly when the charge is being carried.
 
 ### M.A.W. Suit — The Trace Mantle
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that settles cold against the skin.
+**Appearance:** a mantle cut from Weight Han-weave and draped rather than fitted, matte at every angle it is looked at from, heavy out of all proportion to its grams, cold along the shoulders, and no draught in the Commons has ever stirred it.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -206,15 +206,15 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Restless Gap's kind of pressure.
+**Ability:** Grants resistance to Weight damage, covering the Han — the sorrow a responder holds in reserve, and the karmic debt standing against it. It is worn into Restless Gap’s kind of pressure and does the one thing the Trace cannot — it holds the wearer’s own sequence together, so what the wearer owes stays in the order the wearer put it in.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** The wearer picks up a low fatigue that never clears properly, and after a full shift in the Commons it is the fatigue that walks out with them rather than the zone.
 
 ### M.A.W. Stigma — The Trace Anchor
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** an anchor-charm of Weight Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance:** an anchor-charm of Weight Han-steel, matte and heavier than its size, that runs briefly hot at the moment the wearer's own account falters.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -228,18 +228,18 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Restless Gap and carries what Restless Gap carries: the wielder feels progressively heavier; prolonged use ages them slightly. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+All 3 pieces are drawn out of the Gap's own weight and carry what it carries: the progressive heaviness and the slight ageing that comes with a long issue. The grade records extraction stability and nothing about either; the cost is in the column beside it, which is why the set is issued at the end of a rotation and why the charm is not issued at all.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Restless Gap's known toll: the wielder feels progressively heavier. Opened at the end of the rotation, not before. |
-| **During use** | Watch for Restless Gap's toll — the wielder feels progressively heavier — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The wearer carries a constant low fatigue, and the wielder has stopped reporting it — the usual end point for a Restless Gap piece. The observer calls the limit. |
-| **After use** | Return, reconcile the baseline, and record whether Restless Gap's toll has reversed: the wearer carries a constant low fatigue. Where it has not, the piece is not reissued to that wielder. |
+| **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline taken as the bearer's own continuous account, written at the start of the rotation and countersigned. The sheet is what the return is weighed against, and it opens at the end of a rotation and never before one. |
+| **During use** | The toll shows as the bearer slowing under their own weight. The hour is logged the first time the second worker sees it rather than the first time the bearer mentions it, and the gap between those two hours is the reading the file is actually after. |
+| **At limit** | The limit is a fatigue the bearer has stopped reporting: a constant low drag the second worker can see in the pace and the bearer cannot feel. The observer calls the limit on that alone. |
+| **After use** | Take the piece back and set the sealed account against the person: does the rotation read back in the order it was written, and is the weight gone? Where it has not gone, the piece stays in stores and the bearer comes off chamber work. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Field performance and human cost are separate axes, and on this holding the second is invisible to the grade: an efficient δ piece out of the Gap can still leave its bearer Fractured, hollowed or sorrow-bound, and the costs here attach to sequence and to weight rather than to injury. Authorise on the cost column, and read an exit-screen score as evidence before reading a bearer's opinion.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -256,10 +256,10 @@ Every piece in this set is a fragment of Restless Gap and carries what Restless 
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Restless Gap as a Subject with Subject-Void manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone D, Mantle Commons. |
+| **Initial exposure** | Confirm the designation on the Weight signature and the walk — the primary visual marker — and check the ground against Zone D, Mantle Commons before the watch is set. Emotional impressions are entered last, if at all. |
 | **Sustained observation** | Bend magnitude at three stations against the derived track, and the exit sequence score against each worker's own baseline. The second is the sensitive instrument and the one the chamber order is written around. |
 | **Activation or escalation** | Corrupt — the zone warps outward from where it stands. Nothing is pursued; the hazard reaches people by growing, not by travelling Record it with the hour, who was present, and what had been done in the preceding minutes. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Restless Gap's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | What altered, what persisted, and what defied vocabulary — all three are data. The report is incomplete if it records only damage: the standing question on this file is which details a worker could still describe, and in what order they came back. |
 
 **Observation method:** Bend readings at three stations with times, derived position, the worker's own account written in the gallery before leaving, the exit sequence card, and the counselor's score against baseline. The score against baseline is the session's result; everything else is supporting.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -267,7 +267,7 @@ Every piece in this set is a fragment of Restless Gap and carries what Restless 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Restless Gap (C-IVδ-250 [WS]) is logged as a Subject-Void manifestation expressing Weight, walking the Mantle Commons gallery in Zone D. It does not erase what people know. It severs the order of it, and the holding is measured by how far out of order the people who work it come.
+Restless Gap (C-IVδ-250 [WS]) is a Subject-Void manifestation expressing Weight, walking the Mantle Commons gallery in Zone D. What it severs is the order of a thing and not the thing itself: the facts survive the visit intact, and the holding's measurement is how far out of order they come back.
 
 **Entry 2 — <Excerpt from Gallery Station Returns, Zone D>**
 It walks the gallery on no fixed path. Personnel keep every fact and lose the thread between facts; the exit screen measures the loss in events misplaced out of twelve, and the median has gone 2, then 4, then 7 across the three annual baselines.
@@ -285,11 +285,11 @@ The Commons claimants' representative asked for one thing in Year 4233 and I am 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Restless Gap; the other feeds it.
+> Two ways to close a watch in the gallery, and the difference between them is measured at the door. The file's way works from the worker's own anchors and invents nothing; the other is the one every relief crew believes it can get away with, which is to tidy the story.
 
-| Use memory anchors and reconstruct the person's history without inventing missing pieces. | Substitute your own judgement, which on Restless Gap has never yet cost less than the condition. |
+| Work from the day book and the sequence card, rebuild the history in the order it happened, and leave any gap standing as a gap — the condition exactly, held for the whole interval. | Substitute judgement for the anchors: smooth the sequence, supply the missing beat, decide what must have happened — which on this holding has never yet cost less than the condition. |
 |---|---|
-| Reaches toward the worker through the tear. The sorrow is borne; Restless Gap is fully recorded. | Space around it tears and grows heavier. The gauge climbs and Restless Gap withdraws without revelation. |
+| It reaches through the tear and the crew bears it: the sequence holds to the door, the exit screen matches baseline within tolerance, and the cycle is written up complete. | The space around the tear widens and takes weight; the exit score slips, the gauge climbs, and Restless Gap withdraws without an account of itself being recovered. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -363,14 +363,14 @@ Some sorrows are about losing memory. Restless Gap is about losing continuity �
 - A channel maintainer's exposures fell in contractor intervals nobody was required to register; his claim was not established and his injury was recorded as of unknown origin.
 - The facts remain. The order does not. He was the only witness to his own working life.
 **Cross-References:** The Mantle Commons gallery survey · the Year 4176 exposure-scheme collapse · the unestablished service register · the Year 4233 admissibility application · the day book countersignature index
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
+**Faction Involvement:** SED (D-territory exploration) and UCD (Fray-adjacent zone), with the Wound Walkers attached on the Fracture reading and Judexhan on the δ-grade threat.
 **Originator:** A Han-channel maintainer whose working intervals were never registered and who could not, afterwards, remember them in order.
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Treat this as a starting point and not a conclusion, and read it against the classification, the Combat Record and the equipment profile before acting on any entry. Then read the condition, which is one sentence long and is the whole of the procedure: use the anchors, rebuild the history in order, invent nothing. What the Gap does — its behaviour, its Work Type responses, its corruption pattern — is that single finding seen from three sides.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every corruption event, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify the four pillars — gauge, seal, personnel, position — after any corruption event, expansion, transformation attempt or unusual interaction, and add the exit scores to the round: on this holding the sequence loss is the measurement, and it slips before anything else does.
 ## Apex Record
 
 ### Person-Shaped Absence
@@ -440,8 +440,8 @@ Three things about it that the wing considers load-bearing. The countersignature
 
 ### Registry Trivia
 
-- **Classification detail:** Restless Gap is a Subject with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is Zone D, Mantle Commons.
+- **Classification detail:** Entity (IV) coherence with Critical (δ) potency on a Subject-Void manifestation — a δ band carried here by sequence loss and not by any capacity to injure.
+- **Field detail:** Weight is its element and the Mantle Commons gallery in Zone D is its registered ground, walked on no path the survey can plot.
 - **Recognition detail:** The bend, the tear's angle, and the account you cannot repeat. Emotional impressions are the least reliable thing you will bring out of that gallery.
 - **Record detail:** Six holdings in this archive are described as gaps in a record. This one is not a record that was destroyed, lost, weeded or sealed. It is a record that was never required to be made, about work that was really done, by a man whose injury removed his standing to say so.
 - **Containment detail:** The gallery door stops nothing measurable. Exit scores slip for clerks on the floor above, which is why the day book is issued facility-wide and not only to the chamber crews.

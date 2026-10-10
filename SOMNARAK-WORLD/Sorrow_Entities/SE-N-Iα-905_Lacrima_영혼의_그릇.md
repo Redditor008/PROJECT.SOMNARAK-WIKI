@@ -1,6 +1,6 @@
 # Lacrima — 영혼의 그릇
 
-> *"When it comes, you will know. Everyone knows."*
+> *"The lid does not seat, and the voice inside has been asking for longer than the record covers."*
 
 ## SECC Classification
 
@@ -27,15 +27,15 @@
 |---|---|
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object |
-| **Primary pressure** | Void / Spirit pressure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Primary pressure** | Void and Spirit pressure, arriving as the pleading at the edge of hearing rather than as force |
+| **Starting Sorrow Gauge** | 35–50% at intake, read only after the lid gap has been measured at the four rim points |
+| **Han-Energy yield** | 12–18 across a successful cycle, logged against that session’s own rim-gauge mean |
 | **Work difficulty** | Minor · R.D. Comprehension Level 1 — Trace |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (α); the jar has never been broken, and the figure is the standard table’s rather than a measured one |
+| **Recommended response** | Viderehan for the gauge and Ferrehan for the patience, with the lid re-seated by hand at the end; a session that lowers the gauge and leaves the gap wider is written up as a success without qualification |
 
 ### Operational Notes
 
@@ -80,10 +80,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's spirit pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
-| { *The Spirit Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void spirit sorrow.] | *Void damage strikes the target; the gauge spikes.* **[15 Void DMG [Void]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[20 Void DMG [Void]]** | When the entity is cornered or starved. |
-| { *The Spirit Collapse* [**Ultimate**] } | "The spirit breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[17 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Lid’s Whisper* [**Debuff**] } | "The gap is three millimetres, and the voice comes through it as though it were saying your name." | [The pleading reaches the target as personally addressed; the belief settles before the listener can check it.] | *Target believes the plea is theirs and loses 10 Resolve to it.* **[10 Void DMG [Void]]** | When a listener first steps inside the radius. |
+| { *The Widening Gap* [**Attack**] } | "The light in the corridor is longer than it was at the start of the watch." | [The unseated lid widens; the pleading sharpens into pressure.] | *Void pressure strikes the target and the reading climbs.* **[15 Void DMG [Void]]** | When a reading is ignored or the lid is handled. |
+| { *Forty Pages* [**Attack**] } | "It said something. You are certain of it, and you will write down every word." | [Certainty of what was said takes hold of the target and the transcript begins.] | *The target writes at length, the certainty does the damage.* **[20 Void DMG [Void]]** | When the target begins to transcribe. |
+| { *The Unsealed Hour* [**Ultimate**] } | "One minute, one person, by hand — and by then the whole corridor has heard it." | [The gap stands open and the light reaches to the corridor’s end.] | *All personnel suffer Void erosion for three turns, until the lid is re-seated by hand.* **[17 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -94,7 +94,7 @@
 ### Consequences
 
 - Composure fails here as resolve. The worker becomes certain they can make out a word, then a sentence, then a request addressed to them personally, and the transcripts from that state are long and detailed and have never been corroborated by a second listener.
-- Prolonged exposure may produce the entity's documented void effect — spirit pressure that does not recede.
+- Held past the recommended session, the jar's documented void effect — spirit pressure that does not recede.
 - The set costs the wielder recall: a headache, a word gone, a face gone for a few seconds. The armoury's note is that the pieces take exactly what the holding is about and that nobody has found this amusing.
 
 ## Appearance
@@ -278,7 +278,7 @@ Nothing escalates at SECTOR-N-905. In sixty-one years the jar has not moved, not
 
 ### M.A.W. Use Notes
 
-Each piece is a conditional extension of the holding, not ordinary equipment, and the three of them take the same thing: a headache, a word, a face, always small and always gone before it is missed. The grade measures extraction stability against entities and says nothing about that. The wing's note is that a set drawn from a jar nobody will open could hardly have been expected to give anything back.
+Each piece is drawn from the holding itself, not bought as ordinary equipment, and the three of them take the same thing: a headache, a word, a face, always small and always gone before it is missed. The grade measures extraction stability against entities and says nothing about that. The wing's note is that a set drawn from a jar nobody will open could hardly have been expected to give anything back.
 
 ### Field Use Record
 
@@ -342,6 +342,28 @@ A small clay jar on a plinth in a plain room. Unglazed, no mark, the kind of thi
 **When the entity activates:** The gap widens by a measurable amount and the light reaches further down the corridor. That is the whole event. It takes one person about a minute to end it by putting the lid back down.
 
 **After departure:** You check whether anyone is keeping anything of yours, and you find that they are, and that you agreed to it. Most people find the paper. The counsellors consider that useful and log it rather than treating it as exposure.
+
+## 상호작용 (Entity Interactions)
+
+The jar is an object that keeps something of a person past the point where the person is done with it, and three other records
+sit beside it in the appendix for that reason: a lock that holds what a worker will not carry out of a room, an hour in which the
+dead of one zone talk among themselves, and the warmth a man handed to an institution when he left it. What follows is read from
+this holding's own instruments — the feeler gauges at the four scored rim points, the session ledger, and the counting rule that
+is deliberately not told to new personnel in advance.
+
+**Interaction method:** Set the jar's own figures first: the gap at its last two sessions, the retention return and the seventeen
+still held, and whether the second listener was present at the lean-in. Then read the other record's figures beside them, enter
+whether either moved, and re-verify at the next session.
+
+| Which record stands beside the jar | What both keep | What the session entered | What the ledger holds |
+|---|---|---|---|
+| **Memory Lock** `C-IIIγ-300` | Both keep what a person will not take away with them. That record's room holds one worker's memory and asks for nothing; this jar holds a voice that has never once been answered, and neither file has ever opened the question of giving anything back. | Nothing was run. The appendix grouped the two on what is kept, and the review left the entry as an arrangement. | That the grouping is a filing line, entered as such and read as one. |
+| **Passing Bell** `N-IIβ-919` | Both are kept for the sound. That record's hour is a conversation among the dead; this one is a single voice pleading below the level of words, and each file carries its own prohibition — no instrument admitted there, no listener told the count here. | One review entry; the two audio series were laid together once and parted at the first mark. | That the parting stands as the entry, carried un-smoothed in the review. |
+| **The Last Warmth of Forty-Two** `O-IVδ-515` | Both hold what a person left with an institution. That record keeps a warmth given freely and remembered by a name; this one keeps bodies retained on a clause initialled while healthy, and the families who could ask came late or not at all. | The two registers were compared once and agreed on nothing but their length. | That the pairing rests on the retention column, noted as a register line and not as a finding. |
+
+**Interaction procedure:** No co-presence is authorised at the jar. Comparison is made on paper at the session review with the gap
+reading and the retention count entered first and the other record's figures set beside them unchanged; parting, depth, trigger
+and both readings go in the margin.
 
 ## 이야기 (Narratio) — The Tale
 

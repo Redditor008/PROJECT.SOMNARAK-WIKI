@@ -29,19 +29,19 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle, and here the cycle is defined by a change in the register rather than by time spent: the yield is taken when a song acquires a living carrier, and a session that produces an accurate transcription and no carrier returns nothing the file will bank. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β (Moderate) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Sit with the stone one listener at a time and learn what it sings. The reading falls below 25% when the song currently being sung has a living carrier who can perform it unaccompanied, and that carrier is reported by name; the two valid Work Types, Viderehan and Ferrehan, are the only approaches the record authorises, and a session that ends with a transcript instead of a singer has moved the register backwards. |
 
 ### Operational Notes
 
 - The sound is continuous and has no located source; on open display it is audible from the Gardens path.
 - A successful cycle lowers the volume for a shift. The pitch has never changed, and the entity is not diminished by work.
-- Viderehan and Ferrehan are the valid approaches to the object.
+- Viderehan and Ferrehan are the valid approaches to the object, and on this file both mean the same task: sit through the song to the end and be able to sing it afterwards. The other two Work Types are not restricted here for the usual Object/Place reason alone; they are simply the wrong instruments. A song cannot be observed into being carried and it cannot be confronted into being carried, and the reading answers only to the second of those.
 - No breach counter applies. The audible field widens, and because the display is open the boundary is walked before any public session.
 - Extraction is a separate authorization and carries the same auditory exposure.
 
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types |
+| **Resistance** | 25% against Lament pressure; 15% against other pressure types. Neither figure has ever been reached in anger: the stone does not attack, and the two resistances are recorded because the encounter sheet has the field. What the encounter actually costs is attention, and attention has no resistance row. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 462/462 |
 | **Han Pressure [ATK]** | 9–22 per hit · Lament |
@@ -82,21 +82,21 @@
 | { *The First Note* [**Debuff**] } | "The stone begins to hum — low, old, felt more in the chest than the ears." | [The Stone resonates; the target vibrates in sympathy.] | *Target suffers -10 Composure; the note is inside them now.* **[10 Lament DMG [Lament]]** | When the Stone is struck or approached. |
 | { *The Resonance* [**Debuff**] } | "The hum finds your frequency — and now you cannot stop singing along." | [The Stone locks onto the target; the resonance deepens.] | *Target loses 10 Composure; they cannot quiet the inner sound.* **[10 Lament DMG [Lament]]** | When the target stays within range. |
 | { *The Sharp Chord* [**Attack**] } | "The note sharpens to a point — and the point is aimed at you." | [A piercing chord lances out from the Stone.] | *Inflicts Lament pressure and one ringing wound.* **[14-22 Lament DMG [Lament]]** | When the Stone is disturbed. |
-| { *The Deep Tone* [**Attack**] } | "The stone drops to a register lower than hearing — and the weight of it is crushing." | [A subsonic tone bears down on the target.] | *A heavy Lament pressure; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Stone is overloaded. |
-| { *The Full Symphony* [**Ultimate**] } | "The stone sings every song it ever absorbed — a whole symphony of grief." | [The Stone releases its entire accumulated song.] | *All in range suffer Lament pressure for three turns in the symphony.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Deep Tone* [**Attack**] } | "The stone drops to a register lower than hearing — and the weight of it is crushing." | [A subsonic tone bears down on the target; the stone is not attacking, it is being heard from too close, and the effect is the whole of a life's music arriving in one register.] | *A heavy Lament pressure; the target's Sorrow Gauge surges 15% and the 462 line is untouched, because nothing has been done to the stone.* **[24-36 Lament DMG [Lament]]** | When the session is run against the wrong listener — a crowd, or a worker who has been told what the song is. |
+| { *The Full Symphony* [**Ultimate**] } | "The stone sings every song it ever absorbed — a whole symphony of grief." | [The Stone releases its entire accumulated song, and the register is the one the file keeps: 281 songs heard, 44 with a living carrier, 6 in the hands of one person each.] | *All in range suffer Lament pressure for three turns in the symphony. The pressure falls in the district exactly as the register's carrier column rises, and rises again with every transcription that nobody takes up — the only combat figure on this sheet that is answered by paperwork.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%, which on this file means the songs have been left to the stone rather than learned from it. |
 
 ### Battle Phases
 
-1. **Tension:** Hums is confirmed by the warmth. Several small objects are displayed in the Gardens; this is the palm-sized dark one that is warmer than the room and sings to one person at a time. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** Hums is confirmed by the warmth. Several small objects are displayed in the Gardens; this is the palm-sized dark one that is warmer than the room and sings to one person at a time. The team establishes its position, its withdrawal, and the register entry for the song currently being sung — 281 heard, 44 carried, 6 held by a single person — because the whole cycle is graded against that line.
 2. **Clash:** The session is one worker, one quiet room, one song. Viderehan catalogues what is sung; Ferrehan is a matter of listening through to the end, which takes between four and forty minutes and must not be curtailed. Nobody takes notes during the singing — the sheet is filled in afterwards, from memory, deliberately.
 3. **Resolution:** The session closes when the song sung has been learned by the listener well enough to sing back unaccompanied, and the reading falls below 25%. A session that produces a transcript and no singer has not closed; by the register's own figures it has made things slightly worse.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
+- A worker who cannot hold against the entity's sorrow becomes a conduit, and the file's ordering matters: their **Clarity** goes first and the reading follows. The pressure is not violent and does not need to be. It is an entire life's music arriving at once in a person who has no place to keep it, and what comes back up the channel is the instability that makes the next session worse for whoever takes it.
 - The effect does not intensify with duration. It intensifies with archiving. Every song filed as a record and not taken up by a living voice raises the reading, and the facility's own catalogue is the largest single body of such filings in existence.
 - The requiem, the shroud and the pebble are all made from music that outlived everybody who knew it. Each activation borrows a measure of that survival and the operator keeps it. The recorded cost is not grief. It is that the operator cannot get a tune out of their head and, on questioning, cannot say where they learned it.
-- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Hums's dossier.
+- Left unresolved, the sorrow does not dissipate and does not lash out either: it turns inward on the Gardens and thickens the register. Every month the reading stays above 25% the stone gains songs and loses carriers, and the two movements are recorded on the same page — 281 heard against 44 carried is where the file stood when this sheet was written, and the column that moves is always the second one.
 
 ## Appearance
 **Physical Form:** A small, smooth, dark stone warm to the touch. It sings under the right conditions.
@@ -121,9 +121,9 @@
 |---|---|
 | **Form** | A small, smooth, dark stone warm to the touch. It sings under the right conditions. |
 | **Position / movement** | Stationary — a body or drop of liquid. Recorded at every Hums cycle against the previous reading. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Material / signature** | Lament, carried as sound rather than as substance: the stone is ordinary river-worn mineral and does not register under any instrument the wing owns. The signature to write down is therefore auditory and thermal — what was sung, in which register, and the fact that the stone ran one or two degrees warmer than the room throughout. |
 | **Distinctive markers** | Performs lullabies, work songs, love songs, and funeral songs of the dead. Sings more clearly when the air is still and sorrow is concentrated. The songs are historical records rather than random sounds. |
-| **Identification** | Verify these observations against the SECC code before work or contact begins; more than one record in this archive is made of sound, and this is the one that is to be learned rather than collected. |
+| **Identification** | Check the designation `C-IIβ-048` before work or contact begins. More than one record in this archive is made of sound, and they want opposite things; this is the one that is to be learned rather than collected, and it is the one that sings to a single listener while every other sound-holding in the district addresses a room. |
 
 **Appearance protocol:** Record the stone — palm-sized, river-worn, dark, and warm, which is the detail every observer leads with and the only one that is anomalous. Record the ambient temperature beside it to show the warmth is not the room. There is nothing else to describe; it does not glow, move, or change.
 
@@ -132,7 +132,7 @@
 - **The Sorrow:** The grief of unfinished melodies and lives remembered only through music.
 - **The Event:** Songs disappeared when their singers died. The melodies crystallized in the Echo Gardens so someone could still hear them.
 - **The People:** Singers of the Echo Gardens district whose songs nobody took up. The Keepers hold no names, because the songs were the record: a person was known in that district by what they sang, and when nobody sang it they were gone from the account entirely. The stone is what is left of the account.
-- **Expanded origin context:** The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the entity's effect on nearby Sorrow Entities — gauges rise faster, events occur more frequently, containment becomes more difficult. The entity is not hostile. It is simply... heavy. Its sorrow bleeds into everything around it, contaminating the facility's emotional atmosphere.
+- **Expanded origin context:** The Echo Gardens are where the Weeping surfaces as crystal, and the stone is what the district's music did when it sank: the melodies went into Han-thick earth instead of deeper into the Weeping, and the earth gave them back as one warm stone in a case. The Keepers' own list of the dead singers was compiled after the fact, by people who had sung alongside them, and it says at the head that it is incomplete; the facility has added nothing to it in the years since. What stands where other files keep a census, then, is two lists that do not match — the district's names and the register's songs — and the whole of the work on this post is the difference between them.
 
 ## Behavior
 
@@ -153,14 +153,14 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Hums is recorded as an Object/Place with Object-Lament manifestation and Lament elemental expression. The current record places it at SECTOR-D-02, Echo Gardens — contained/open display; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Read the table with the register open beside it, because the gauge is measuring the page and not the stone. Viderehan holds the reading stable while cataloguing, which is correct and is not progress; Ferrehan brings it down, and the only thing that brings it down is a listener who can sing the song afterwards without the stone. Nothing here is a hazard in the ordinary sense — the stone has never been hostile, it does not pursue, and the encounter is one warm object and one person in a quiet room for anything between four and forty minutes. What the sheet is actually recording is attention, and the file's difficulty is that attention cannot be filed: a transcript is not a carrier, and 237 fully accurate transcriptions with nobody singing them is the archive's own largest holding of the problem.
 
 **Reading the response:** A falling reading means a song has acquired a living carrier — somebody who can sing it without the stone. Stability under Viderehan is correct and is not progress. The reading rises when a song is recorded, transcribed, filed, or performed from a sheet, and the rise is identical whether the filing is careful or careless.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Sector / Facility Alteration**
-> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+> **This Relic returns songs to the district, which is the benefit and cannot be banked.**
+> **This Relic alters the district's register over years rather than the sector over hours.**
+> **This Relic is capable of losing a song permanently through a single untended transfer.**
 
 **Activation Trigger:** Still air, sufficient sorrow, or deliberate listening.
 
@@ -179,7 +179,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Activation** | Still air, sufficient sorrow, or deliberate listening. |
 | **Primary Effect** | Plays a song of the dead and establishes an emotional connection to its source. |
 | **Duration** | Until the listener stops listening or the song ends. |
-| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |
+| **Termination / Return** | The channel closes when the song ends or when the listener genuinely stops listening — the stone's own rule, not the operator's, and it has never been got around. Dropping the conduit while the stone is mid-song is the failure mode: the remainder goes back into the Gardens and the register loses whatever the listener had half-learned. |
 | **Risk** | The Stone may sing at inconvenient moments and provoke unexpected grief. |
 
 **Operational Rule:** The relics require continuous concentration and open conduits, and an untended channel destabilises the field. None of them is needed on this post: the stone has never been hostile, and the equipment is issued because the grading system requires it to be, not because anybody has had cause to use it. Leaving a channel untended causes escalating field instability.
@@ -188,14 +188,14 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Hums begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates Hums: Plays a song of the dead and establishes an emotional connection to its source. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the grief of unfinished melodies and lives remembered only through music. forged during songs disappeared when their singers died. the melodies crystallized in the echo gardens so someone could still hear them. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Hums's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
-| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Lament shockwave: The Stone may sing at inconvenient moments and provoke unexpected grief. all personnel in the sector take heavy damage. |
+| 10 Seconds | The stone takes the listener's attention the way a room takes a lamp being lit: the warmth under the hand sharpens, the ambient noise of the gallery drops out, and the first line arrives without any sense of it having started. | Nothing is required of the operator at this stage except to remain. The Warden notes the song, the hour, and whether the stone chose it or the listener asked — the stone has never once played a request. |
+| 30 Seconds | The listener stops hearing the room. Colleagues standing a metre away report the gallery as silent; the song is being delivered to one person and the file has never recorded it addressing two. | The register is the instrument at this stage, not the gauge: note whether the listener recognises the song, and from whom. Recognition is common and is not evidence of anything except that the district remembers its own music. |
+| 1 Minute | The listener's breathing has matched the melody without their deciding to, and the sheet asks for that fact rather than for a description of it. Hands are usually still by now. | Sessions run long — four minutes at the short end, forty at the longest — and the operator's only task is to keep other personnel out of the gallery and to resist writing anything down. |
+| 2 Minutes | Nothing about the stone changes and nothing about the room changes; what changes is that the listener will not be able to give an account of the interval afterwards. Several observers have found their own accurate transcriptions in front of them and no memory of making them. | At the end, the single question the file cares about: can the listener sing it back unaccompanied? If yes, the reading falls and the register gains a carrier. If no, the session is logged as observational and kept out of the series. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Hums: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-D-02, Echo Gardens — contained/open display, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation on this file is not an event with a boundary; it is the register going the wrong way over months. The stone does not swell, move, or change colour, and there is no distance at which the effect begins — the gallery simply holds one more song than the district can sing. What the wing watches instead is the carrier column: a month in which the count of songs with exactly one carrier has fallen is a month in which something has been lost quietly, and a month in which it has risen is the only progress this post can show. The 35–50% opening gauge and the 462/462 stat line are recorded for form's sake; neither has ever been the number that moved.
 
 **Response sequence:** Secure the gallery, confirm the event is an expansion rather than an activation, clear all personnel but one — the stone's behaviour is undefined with a crowd present and the file does not wish to define it — and then satisfy the management condition, which is a living carrier for the song currently being sung. Report the carrier by name.
 
@@ -208,7 +208,7 @@ The escalation pattern is specific to Hums: it is not a generic containment even
 | **Primary effect** | Plays a song of the dead and establishes an emotional connection to its source. |
 | **Duration / rate** | Until the listener stops listening or the song ends. |
 | **Risk** | Moderate (β) — Manageable Object-Lament producing Lament pressure; The Stone may sing at inconvenient moments and provoke unexpected grief. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | The song currently being sung acquires a living carrier who can sing it unaccompanied, and that carrier is reported to the register by name. |
 
 **Activation reporting order:** the song sung and whether the listener recognised it → the listener's connection to it, if any → whether anybody alive can already sing it → whether the listener learned it → the reading. The third field is answered from the carrier register and not from the listener's impression.
 ## M.A.W. Equipment
@@ -219,7 +219,7 @@ The escalation pattern is specific to Hums: it is not a generic containment even
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
+**Appearance:** a slender blade of Lament Han-crystal, no wider than two fingers, with a faint internal glow that tracks the note being carried rather than the light in the room. It is cold to hold — the opposite of the stone it came from — and the pommel is shaped as a flat river-stone.
 
 **Damage:** Lament 5–9
 **Speed:** 2 (Normal)
@@ -240,7 +240,7 @@ The escalation pattern is specific to Hums: it is not a generic containment even
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk in the stone's own dark grey, worn over the shoulders and belted at the waist. It settles cold and stays cold for the whole watch, and it muffles sound passing through it — the wearer's own breathing included, which is the property the medical office warns about.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -250,15 +250,15 @@ The escalation pattern is specific to Hums: it is not a generic containment even
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Turns Lament aside from the mind, which is the only pressure here. The shroud lets a worker sit through a long song without their attention breaking, which is the actual difficulty of the post.
+**Ability:** Turns Lament aside from the mind, which is the only pressure this post produces. Under the shroud a worker can sit through forty minutes of a stranger's funeral song without standing up, and can walk back out of the gallery without humming — which is the property the whole set is graded on, and the one the wearer notices least.
 
-**Cost:** The wearer goes numb to small pleasures, and reports music as information about a key and a tempo.
+**Cost:** The wearer goes numb to small pleasures first — food, weather, the end of a shift — and then to music, which they begin to report as information about a key and a tempo. The order is the warning: a wearer who says a song was in D minor and cannot say whether they liked it has been under the shroud too long.
 
 ### M.A.W. Stigma — The Singing Pebble
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a pebble of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a Han-crystal pebble the size of a thumbnail, cut and polished to the shape of the stone in the gallery and kept in a closed pouch for the wearer's sake. It runs cold in an ordinary room and warms when its bearer comes near unfinished grief; the warmth is the only reading it gives.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -272,16 +272,16 @@ The escalation pattern is specific to Hums: it is not a generic containment even
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Hums and carries what Hums carries: the wielder carries its unwept grief and weeps involuntarily, usually while humming. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+These are the only pieces in the catalogue that cost the wielder something the register can count. The requiem opens a voice where a person used to be and leaves the user weeping at odd hours; the shroud keeps a worker intact by taking their ear away from them; the pebble teaches nothing and gives nothing back except that its wearer warms when the next song is about to be lost. The set is issued for a single rotation at a time, because the file's own measure of harm here is not damage but what the holder can no longer be asked to carry.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Hums's known toll: the wielder carries its unwept grief and weeps involuntarily, usually while humming. Opened at the end of the rotation, not before. |
-| **During use** | Every occurrence of what Hums takes (the wielder carries its unwept grief and weeps involuntarily, usually while humming), timed. One is noted; a pattern across a shift ends the use. |
-| **At limit** | The wielder no longer notices Hums's toll — the wearer goes numb to small pleasures, and reports music as information about a key and a tempo — which is how every stand-down on this set has been caught. |
-| **After use** | Return the piece and check the sealed baseline: has Hums's cost — the wearer goes numb to small pleasures, and reports music as information about a key and a tempo — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, and the two baselines this set actually needs, both taken on the day of issue: how the wielder describes music they like (so that a later answer in keys and tempos can be recognised for what it is), and the last song they can sing unaccompanied from memory, recorded by title. The second baseline is the one the medical office asks for. |
+| **During use** | Two rulings and no readings. First: any involuntary weeping or humming is marked by the second worker with the hour, never by the wielder. Second: whether the wielder, having heard a song during the shift, can still say whether they liked it — this is the entire instrument for the shroud, and a single answer in musical grammar ends the watch. |
+| **At limit** | The limit is not reached by degrees; it is reached when the wielder reports a song as structure rather than as music, or when the second worker hears the wielder humming something the requiem has touched. Either finding ends the issuance on the day, and the decision is the second worker's to take, not the wielder's to accept. |
+| **After use** | Piece returned, and the two baselines re-taken and compared rather than discussed: can the wielder still name the song they could sing on the day of issue, and do they still describe music they like as liking it? A no on either line is entered as a finding and the worker is stood down for a rotation; the entry is made whether or not the wielder agrees with it. |
 
 **Stat interpretation:** Field performance and human cost are separate axes and neither is the point of this post. What the grades cannot show is that the carrier register, not the equipment, is what holds the reading down, and that the register's weakest line is the six songs currently held by one carrier each.
 ## 관찰 기록 (Observation Log)
@@ -303,10 +303,10 @@ Every piece in this set is a fragment of Hums and carries what Hums carries: the
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Hums as an Object/Place with Object-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-D-02, Echo Gardens — contained/open display. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Special Behaviors - It may sing. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Still air, sufficient sorrow, or deliberate listening. Effect: Plays a song of the dead and establishes an emotional connection to its source. Duration: Until the listener stops listening or the song ends. Risk: The Stone may sing at inconvenient moments. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Hums's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The warmth is the confirmation: several small objects stand in the Gardens and this is the palm-sized dark one that is warmer than the shelf it sits on. Take the room temperature beside it, the number of people in the gallery, and the reading — 35–50% at the start of a session, 462/462 on the stat line, and neither of those two figures is what the observer is here to establish. What the first stage records is who the stone sang to, and it will be exactly one person. |
+| **Sustained observation** | Viderehan catalogues and the reading holds; Ferrehan endures and the reading falls. The two are one task seen from either end — sit through the song to the end and see whether it is still with you afterwards — and the file states the test without ornament: a worker who leaves with an accurate transcript and no tune has failed it. Sessions run from four minutes to forty, and the register at this writing holds 281 songs heard, 44 with a living carrier, and 6 with a single carrier apiece. |
+| **Activation or escalation** | The trigger is still air, sufficient sorrow, or somebody deliberately listening, and the manifestation is a song rather than a change in the stone. Log it in the register's own terms: the song, the listener, whether anybody alive already carries it, and the carrier count before and after. Escalation here is measured in months rather than in turns — the reading rises with every transcription that nobody takes up, and the file's whole complaint against the facility is the 237 entries that column already holds. |
+| **Post-contact review** | Four fields close the sheet: the song and its register number, the listener and whether they recognised it, the answer to the single question that grades the session — can they sing it back unaccompanied — and the carrier count after. Write the last one from the register and not from the listener's impression. A review that records the song and omits the carrier has documented a performance and not a recovery. |
 
 **Observation method:** Record the first sign, which is warmth under the hand; the first sensation, which is recognition; the song, the listener, the duration, and whether the listener could repeat it unaided at the end of the session. Do not write anything down while it is singing. Several observers have found afterwards that they transcribed accurately and remembered nothing.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -314,7 +314,7 @@ Every piece in this set is a fragment of Hums and carries what Hums carries: the
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Hums (C-IIβ-048 [LO]) is logged as a Object-Lament manifestation expressing Lament. The Stone formed from songs of the dead that no living person continued. Held at SECTOR-D-02, Echo Gardens — contained/open display. The Stone's Han-signature resonates with the Weeping.
+Hums (C-IIβ-048 [LO]) is an Object-Lament manifestation expressing Lament — a stone the register keeps under the songs the dead left behind and no living person carried on. Held at SECTOR-D-02, Echo Gardens — contained/open display. The Stone's Han-signature resonates with the Weeping.
 
 **Entry 2 — <Carrier Register: Two Hundred and Eighty-One Songs>**
 Songs heard from the stone since the register opened: two hundred and eighty-one. Songs with a living carrier: forty-four. Songs with exactly one living carrier: six. Songs transcribed in full, accurately, by competent staff, and carried by nobody: two hundred and thirty-seven. The register's front page carries the only sentence it needs: the archive has the songs and the district does not have them back.
@@ -330,11 +330,11 @@ The management condition of this record cannot be met by a procedure, an instrum
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Hums; the other feeds it.
+> The choice here is not between approaches but between a recording and a carrier, and the stone is indifferent to which one the worker offers it.
 
-| Hold to the condition: Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. | Improvise something kinder, which is how every failure on Hums's file began. |
+| Sit through the song to the end and learn it well enough to sing it back somewhere else, to somebody. | Take it down accurately — the measures, the words, the key — and file it, which is the thing the facility is best in the world at. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is witnessed; Hums is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Hums withdraws without revelation. |
+| The reading falls below 25%, the register gains a carrier by name, and the district has the song back. The file's only measure of success. | The transcript joins the 237, the reading holds or rises, and the stone keeps the song; the district has a document instead of a tune, and the carrier column is one line closer to a song with nobody at all. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -343,17 +343,17 @@ The Stone looks silent until the light is right. Then a melody rises from its da
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A small, smooth, dark stone warm to the touch. It sings under the right conditions. Notable Features: - Performs lullabies, work songs, love songs, and funeral songs of the dead. - Sings more clearly when the. The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Object-Lament form.
+**At first contact:** It is a stone in a case and it is not doing anything, and the thing the hand reports before the mind does is that it is warm — river-warm, not lamp-warm, on a shelf that has been at room temperature all day. Nothing else about it is remarkable: palm-sized, dark, smooth, the kind of stone that ends up in a pocket. Then the gallery's ordinary noise goes away, and whatever you were about to say leaves your mouth, and the first line of something you have never heard arrives from a point inside the stone about two inches behind your sternum.
 
-**With continued exposure:** Sustained contact reveals the entity's rhythm — the Lament pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
+**With continued exposure:** The song does not get louder and does not change; it gets closer. What is being sung is not a texture or a mood but a piece of music with a shape and an ending, and the stone holds it at the ending — the last line repeats, correct and unfinished, because the person who knew the next note has been gone for decades. Listeners report recognising the song before they can say from where, and the recognition is usually right and usually a grandmother.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Still air, sufficient sorrow, or deliberate listening. Effect: Plays a song of the dead and establishes an emotional connection to its source. Duration: Until the listener stops listening or the song ends. Risk: The Stone may sing at inconvenient moments. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** Activation is stillness, not motion. The stone chooses the moment — the file's three conditions are still air, sorrow nearby, or somebody deliberately listening — and one listener only, which the gallery has arranged everything around: the room clears when the singing starts, and staff who come in to check on a session that has run to forty minutes find two people, one sitting and one silent. The Wing's standing instruction is not to interrupt. The song ends when the listener genuinely stops, and there is no way to stop earlier without taking the last line away from the person about to learn it.
 
-**After departure:** Departure is not relief. The Object-Lament is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** What leaves the gallery with you is a tune and a set of words you did not have an hour ago and cannot identify as yours. The stone is not diminished and the song is not gone from it — the register holds both facts at once, which is what the whole file is about: the carrier has the song and the stone still does. The cost appears later, at a kitchen table or on a night walk, when the thing surfaces uninvited and you cannot say who taught it to you.
 
 ### Interaction Pattern
 
-Hums does not exist in isolation. Its recorded relationships with The Orphaned Bell, The Forgotten Soldier, The Hollow Choir, The Weeping Statue should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Every holding on this list is another place in the city where music or grief was left standing, and the pairing that matters is the one nobody can measure: whether two such holdings, set side by side, give a song back to the district any faster. The archive's answer is that they do not, and the four rows below are the archive's working-out of that answer rather than a set of alliances — three of the four are in other zones, and the one that shares the Gardens with the stone has never been heard to sing.
 
 **Interaction method:** Alone first, then together, with one listener throughout in both cases. In shared conditions log the song, the duration, whether the repertoire altered, and whether the stone sang at all — it has stayed silent through four of the nine joint sessions, which is the strongest reaction it has ever shown to anything.
 
@@ -364,10 +364,10 @@ The stone is filed with the Echo Gardens records, which are otherwise places and
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Orphaned Bell** | Resonates in harmony with the Bell's toll. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Forgotten Soldier** | Stands at attention nearby. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hollow Choir** | Sings as part of a larger chorus. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Weeping Statue** | Provides melody for the Statue's tears. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Orphaned Bell** (`C-IVδ-001`) | The nearest thing in the archive to a peer: an object of Lament that sounds without a hand, and one whose ringing is tied to a specific class of the dead — the children lost to the westward expansion. The pairing is filed because both are stone that grieves aloud, and the archive's own note is that a bell and a song are not the same instrument. | No co-presence has been logged; the Bell stands in a tower in Zone B and the stone does not travel. The one measurable relation between the two files is an index the wing keeps anyway: the Bell's tolling register and the carrier register list the same problem in different units — a sound that exists with nobody left to make it. | The Bell's tolling dates for the period, the stone's register movement across the same month, and an explicit note that no co-presence is claimed by either. |
+| **The Forgotten Soldier** (`N-IIβ-033`) | The row exists because the Soldier was recorded presenting at the Gardens once and standing at attention while the stone happened to be singing. His own file is clear that the posture is his permanent condition — he stands at attention in corridor 7-C in Zone B, weaponless until provoked — so the row is a coincidence of bearing and not a response. | Nothing passes between them. The Soldier's cold and his Grudge element are the opposite of the stone's warmth, and the medical office's note is that any worker who met both in the same week was describing two unrelated bad nights. | That the posture predates the encounter and continues after it, quoted from the Soldier's file; the site of the encounter; and where the actual meeting, if any, took place. |
+| **The Hollow Choir** (`C-IIIγ-021`) | The strongest resemblance on the list and still not a relationship: 144 voices in a Zone C amphitheater with no singers on the stage, singing songs that were never finished — where the stone holds songs that were finished and have lost their carriers. The archive files them together because the two registers rhyme; the difference is the whole of it. | No effect in either direction has been measured, and the file's standing correction is that the Choir's music does not come from the stone and the stone's songs are not drawn from the Choir's hundred. The one operational consequence is a briefing error: personnel posted between the two sites have twice been told they were being sent to "the singing one". | Which site the briefing named, quoted; the posting order; and the register's carrier count on the day of transfer, since the two holdings are distinguished by that column and by nothing else. |
+| **The Weeping Statue** (`C-IIβ-055`) | The only holding on this list that shares the Echo Gardens with the stone, and the only one that shares its sector at all. The Statue weeps continuously and piles its own tears at its feet; the old row's claim that the stone supplies the melody is not supported by either file — the Statue's grief is its own and no music has been recorded at it. | What the co-location produces is a visit pattern: staff walking the Gardens pass one and then the other, and the Warden's log records the sequence. The readings do not move together. The stone's warmth, the Statue's cold, and two Lament registers sitting a few hundred metres apart without either answering the other. | The order in which the two sites were visited, the hour, both instruments' readings, and whether the visiting worker took a song away with them — the last being the only figure either file treats as an outcome. |
 
 **Interaction procedure:** Solo baseline first, then the shared encounter: song, listener, duration, repertoire changes, and carrier count before and after. The carrier count is requested from the register rather than estimated; a session that cannot cite it is logged as observational and kept out of the series.
 
@@ -399,20 +399,22 @@ Some sorrows mourn the dead. Hums mourns their songs — the unfinished melodies
 > *“A warm stone, humming with every melody Somnarak has ever lost.”* — Mender, Echo Gardens
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIβ-048 [LO]` · City origin · Echo (II) coherence · Moderate (β) potency · Lament · Object-Lament manifestation
+**Classification:** Sorrow Entity — `C-IIβ-048 [LO]` · City Sorrow (도한) · Echo (II) coherence · Moderate (β) potency · Lament · Object-Lament manifestation, held on open display at SECTOR-D-02 in the Echo Gardens.
 **Common Name:** Hums
-**Containment Status:** Contained — Echo Gardens
-**Comprehension Level:** 2 — Basic
-**Threat Assessment:** Minimal. The Stone holds unfinished songs. Warm to the touch. No event risk.
+**Containment Status:** Contained, and the containment is a register rather than a case: the stone stands in the open because sealing it changed nothing except visitor numbers, and the reading answers to how many of its songs have living carriers.
+**Comprehension Level:** 3 — Advanced, which is the level the file has always claimed and the one the Registrum now states: the work here is not identifying the holding but learning what it sings.
+**Threat Assessment:** Minimal, and the word is used deliberately. The stone has never been hostile, has never left its shelf, and has no breach counter; the 25%/15% resistances and the 462 stat line are carried for form. The harm this file records is not injury but loss, at a rate of one song per retirement, transfer or accident that takes the last carrier.
 **Containment & Handling Procedures:**
-- Flerehan is the only valid Work Type.
-- The Stone is warm; do not be alarmed.
+- Viderehan and Ferrehan only — the register's two instruments — with one listener in the room at a time and the session run to the end of the song.
+- The register is the containment instrument: 281 songs heard, 44 carried, 6 in the hands of one person each, and 237 transcribed by competent staff with nobody singing them. A carrier is reported by name or the work is not entered.
+- Nothing is sealed, nothing is collected, and nothing is filed as a substitute for a singer; the file's standing instruction is that a transcript is not a carrier and is not to be counted as one.
 **Observation Notes:**
-- Formed from songs of dead singers, preserved in crystal.
-- The melodies hold at the unfinished note.
-**Cross-References:** Echo Gardens · The Hollow Choir · The Consolihan
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
-**Originator:** Dead singers of Somnarak.
+- Formation and Event are in the Origin section: songs of the dead that no living person continued, gathered in the Gardens' Han-thick soil.
+- The melodies hold at the unfinished note, and the register is the only instrument that answers to them.
+- The M.A.W. set's costs are auditory and post-session; the thirty-day comparison of the wielder's own two baselines is what closes an issuance.
+**Cross-References:** Echo Gardens · The Weeping Statue (`C-IIβ-055`, same sector) · The Hollow Choir (`C-IIIγ-021`) · The Orphaned Bell (`C-IVδ-001`) · The Consolihan
+**Faction Involvement:** SED (D-territory exploration) supplies the wardens who walk the Gardens and keep the carrier register · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant) · the Keepers of the Echo Gardens, who hold the district's own list of singers and have added nothing to it since the file opened
+**Originator:** Dead singers of Somnarak — known in that district by what they sang, which is why the file has a register of songs where other files have a register of names.
 
 ### Registry Addendum
 
@@ -446,10 +448,10 @@ Songs vanished when the people who sang them died, and the commissioning materia
 
 ### Registry Trivia
 
-- **Classification detail:** Hums is an Object/Place with Echo (II) — Repeats singing coherence and Moderate (β) — Manageable potency.
-- **Field detail:** Its defining element is Lament, and its registered location is SECTOR-D-02, Echo Gardens — contained/open display.
+- **Classification detail:** An Object/Place of Echo (II) coherence and Moderate (β) potency, at Comprehension 3 — the only level-3 holding in the Gardens and the reason the register exists: 281 songs heard, 44 carried, 6 with a single carrier, 237 transcribed and unsung, 462/462 and 12–18 Han-Energy on the field sheet.
+- **Field detail:** Lament, held on open display at SECTOR-D-02 in the Echo Gardens, at 35–50% on an opening gauge, 462/462 on the stat line, 12–18 Han-Energy per carrier gained, and one listener at a time.
 - **Recognition detail:** Identify it by the warmth. Several small objects are displayed in the Gardens; this is the palm-sized dark one that is warmer than the room and sings to one person at a time.
-- **Record detail:** Check the designation before approach. More than one record in this archive is made of sound, and they want opposite things — this one is not to be collected, it is to be learned.
+- **Record detail:** Check the designation before approach, and check what the visitor intends to do with the song. More than one record in this archive is made of sound and they want opposite things; this is the one that is not to be collected but learned, and the register's 237 unsung transcriptions are what the difference looks like after a century of good intentions.
 - **Containment detail:** Sealed does not mean silent, and here nothing is sealed at all: the stone is on open display because confinement changed nothing. The containment reading is the carrier register rather than the state of any case.
 ## Document Information
 

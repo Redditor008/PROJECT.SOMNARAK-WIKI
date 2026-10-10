@@ -262,7 +262,7 @@ The three pieces are the only physical thing the Archive holds of a creature it 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Stormscale Sovereign (C-Vδ-949 [MS]) is logged as a Subject-Spirit manifestation expressing Mixed (all four sorrows). The entity is the transformation-apex of the Soot Fry (C-IIβ-947) and the Foam Flood (C-IIIγ-948): a vast black-and-white flood dragon, manifest once in the historical record, currently Latent. It is held non-manifest solely by the enforced separation of its two halves. Reunion is forbidden.
+The Stormscale Sovereign (C-Vδ-949 [MS]) answers the registry as a Subject-Spirit manifestation expressing Mixed (all four sorrows). The entity is the transformation-apex of the Soot Fry (C-IIβ-947) and the Foam Flood (C-IIIγ-948): a vast black-and-white flood dragon, manifest once in the historical record, currently Latent. It is held non-manifest solely by the enforced separation of its two halves. Reunion is forbidden.
 
 **Entry 2 — <Excerpt from the Historical Transformation Record>**
 [Year lost to the flood.] The small fish consumed the dragon-stone. The river began to rain and did not stop for a hundred years. In the drowning, the fish wished — for the first time in a thousand years of wishing — for something other than itself: it wished for the rain to end. A beam of light answered. The fish became a great dragon, soot and foam, sky and river, and it rose and called the rain home. The form held for the length of the wish. Then, imperfect, it fell back into a small fish, and the memory sealed, and the hunger remained. The stone settled back to a carving. The river dried. The three have been three ever since.

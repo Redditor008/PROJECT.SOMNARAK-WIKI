@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Void pressure; 35% against other pressure types |
+| **Resistance** | 45 per cent against Void pressure and 35 against everything else — the highest band on the register, and the file's reason is that nothing here is aimed: the vault leaks rather than strikes, so a crew holds against the room. The gauge opens full at 620 and trips at 90 per cent, and escalation runs 5 Clarity per turn while it is unopposed. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 620/620 |
 | **Han Pressure [ATK]** | 22–48 per hit · Void |
@@ -81,21 +81,21 @@
 | { *The Fading Image* [**Debuff**] } | "A memory appears — the last one. After this, there is nothing else to remember." | [Every Last Goodbye presents itself; the target feels the finality.] | *Target suffers a Void mark; what comes after memory is void.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target witnesses the Memory. |
 | { *The Edge of Recall* [**Debuff**] } | "You are at the end of remembering — and beyond this memory, there is only blank." | [Every Last Goodbye shows the target the edge of their own past.] | *Target loses clarity; the void after the last memory is vast.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target touches the Memory. |
 | { *The Final Frame* [**Attack**] } | "The last memory sharpens to a point — crystallized, eternal, and sharp enough to cut." | [The Memory hardens and strikes.] | *Inflicts Void damage; the final recollection erases what comes after.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Memory is disturbed. |
-| { *The Full Recall* [**Attack**] } | "The last memory releases everything it held — a lifetime, compressed into one final, devastating burst." | [The Memory detonates its complete contents.] | *A heavy Void explosion; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Memory is forced. |
-| { *The Blank After* [**Ultimate**] } | "The last memory fades — and now everyone has reached the end of remembering, and beyond is only void." | [The Memory extends its finality across the whole field.] | *All in range suffer Void erosion for three turns of total blankness.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Recall* [**Attack**] } | "The last memory releases everything it held — a lifetime, compressed into one final, devastating burst." | [A whole life arrives in the room at once, at the size a death actually has when it is not summarised.] | *A heavy Void explosion; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Memory is forced. |
+| { *The Blank After* [**Ultimate**] } | "The last memory fades — and now everyone has reached the end of remembering, and beyond is only void." | [The vault goes past the end of anybody's recall and the last thing in the room goes with it.] | *All in range suffer Void erosion for three turns of total blankness.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — Every Last Goodbye is recognised by a translucent standing figure in a vault without shadows, holding no face for longer than a sixth of a second, cold and light and smelling faintly of ash — then the approach is set and the positions are taken.
+1. **Tension:** Identification rests on the vault before the figure: no shadows anywhere, cold, light, faintly smelling of ash, and a translucent standing shape that never holds a face for longer than a sixth of a second. Nothing here moves toward anybody, and the approach is set accordingly — two operatives, silence, and the slot used for every word that has to leave the room.
 2. **Clash:** Worked in silence, by two operatives, with the flicker rate counted from the frame marks and the slot used for every word that has to leave the room.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not attempt to erase a final moment; acknowledge and record it**.
+3. **Resolution:** The cycle closes when a final moment has been acknowledged and recorded and nothing has been erased. The file's own standing order is narrower than the condition: the Burial Office's unattended-interment names go into the chamber through the slot, one to a slip, in silence, and the older instruction — acknowledge and record — was logged as unperformed for 11 years because the city's rules forbid a worker to perform it. Nothing written on a slip but the name as printed.
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Composure** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Every Last Goodbye’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Every Last Goodbye’s event protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow deepens where it already is and the zone becomes unworkable.
+- Resistance failure routes the vault’s contents straight into the worker: **Composure** is the first thing spent, the Sorrow Gauge takes everything that comes off it, and the worker finishes the watch holding an ending that was never theirs to hold.
+- The longer the exposure runs, the deeper the ending sets. Once the wave has shown a worker their last moment, the showing does not stop with the wave; the vault keeps it playing underneath until the emotional, somatic and identity readings all record the same failure at once.
+- The M.A.W. is never costless, and here the price is collected in leave-takings: every swing passes a goodbye through the weapon on the bearer’s behalf, and the equipment records keep the count.
+- If resolution is not reached, the vault’s event protocol takes the watch: the Sorrow Gauge peaks, the containment fail-safes let go, and the vault returns to holding every goodbye that was never heard — the state under which the zone cannot be worked.
 
 ## Appearance
 **Primary Form:** A translucent standing figure woven from final moments, flickering through faces and last thoughts at a rate that is measured and has risen. **Count:** 6.4 faces a second, against 4.6 and 3.1 at the two previous countings.
@@ -134,18 +134,18 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Shows endings that were good ones: love, acceptance, peace. The material is specific and observers describe it as the only unambiguously good thing in the Entity-grade files. | Decrease |
-| **Pugnahan** | Releases fear and regret from the same collection. It holds every ending the city has produced; provoking it asks for the worst of them. | Increase |
-| **Viderehan** | Gives the final moment of a named dead person, unverifiable against any record, and the gauge does not move. Transcription is prohibited. | Stable |
-| **Ferrehan** | The worker is given the approach of their own ending and stays the full interval. Rotation is short and the stand-down threshold is low. | Decrease |
+| **Flerehan** | Renders endings that were good ones — love, acceptance, peace — and the file notes that observers describe the material as the only unambiguously good thing in the Entity-grade records. | Decrease |
+| **Pugnahan** | Releases fear and regret out of the same collection, and provoking it is asking for the worst 11 years of endings the city holds. | Increase |
+| **Viderehan** | Gives the final moment of a named dead person, unverifiable against any record, and the gauge does not move; transcription is prohibited, so the only product is what an observer remembers. | Stable |
+| **Ferrehan** | The worker is given the approach of their own ending and holds the interval anyway — the shortest rotation on the register and the lowest stand-down threshold. | Decrease |
 
 
 
 ### Operational Work Notes
 
-The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Every Last Goodbye is recorded as a Subject with Subject-Void manifestation and Void elemental expression. The current record places it at SECTOR-A-01, Alpha Tree deep vault; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table above is a snapshot and not a system; the classification and the origin explain why Flerehan calms here and agitates elsewhere. Every Last Goodbye is a Subject with Subject-Void manifestation and Void expression, held at SECTOR-A-01 in the Alpha Tree vault, and personnel are instructed not to transfer assumptions from any other holding with a similar name. A steady gauge is not a safe encounter: observation here can leave the gauge untouched while the worker takes on memory, environmental and identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** Success is read on three axes at once — the entity's response, the worker's condition, and the information recovered. Falling means the immediate crisis is easing and says nothing about the sorrow, which is unchanged; management is not resolution and the file says so in those words. Rising means the cycle fed rather than calmed, which is what a provoked collection of endings does. Anything the file does not describe is the most important datum of the cycle: write it down and log it before the next assignment.
 ## Containment Event Behavior
 
 > *"Every Last Goodbye is pulsing. It has not moved. Anybody the pulse reaches is losing partings — get them out and get their names said."*
@@ -157,13 +157,13 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | **Effect** | The zone loses definition — colour drains, sound stops carrying — and anyone the pulse reaches loses memories of partings specifically. |
 | **Secondary Effect** | The absence works outward from the vault wall and takes edges first: doorframes, corners, the line where floor meets wall. |
 | **First Target** | Whoever is alone. In all three logged pulses the heaviest losses were in personnel who were by themselves, which is why no responder enters this zone unaccompanied. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
+| **Escalation** | While it is unopposed the pressure grows: Clarity drain rises by 5 each turn until the cycle is suppressed. The figure has never taken a step — what travels is the pulse, and the pulse is what the drain is measured against. |
 
 ### Escalation Notes
 
 - **Event type (non-breach):** Corruption of its own zone. The zone at SECTOR-A-01, Alpha Tree deep vault turns and the turning spreads within it; the zone loses definition — colour drains, sound stops carrying — and anyone the pulse reaches loses memories of partings specifically.
-- **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on event:** Opens at 40% and rises 10% per interval unaddressed, and is highest in the week the Burial Office publishes its annual return.
+- **Containment priority:** close the affected zone and keep it closed; Viderehan and Ferrehan to see the crew through until the pressure falls back.
+- **Sorrow Gauge on event:** forty per cent is where it begins, and it adds ten for every interval nobody answers it. It peaks during the week the Burial Office publishes its annual return — the week when the unattended column is longest.
 
 ## M.A.W. Equipment
 
@@ -173,7 +173,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that pulses with the source sorrow when drawn.
+**Appearance:** a lens-ground disc of Void Han-glass, shy of translucence and without colour, that pulses in the hand at the rate of the source's flicker whenever it is drawn.
 
 **Damage:** Void 10–15
 **Speed:** 3 (Fast)
@@ -186,15 +186,15 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** The multiplier applies to direct damage and Tick damage separately, and the Tick from this source is mnemonic — the bearer loses a memory of a parting per application, selected by nothing anybody has identified.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Every Last Goodbye's void signature in the strike.
+**Ability:** Deals Void damage against the Soul — identity, memory and the sense of self — and carries the source's signature: the struck lose a parting, selected by nothing anybody has identified, and cannot say which one.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** The bearer loses small, nameless memories with each use — the Tick from this source is mnemonic — and the Armoury records the loss against the bearer rather than against the piece.
 
 ### M.A.W. Suit — The Final Veil
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a veil of Void Han-gossamer, near-translucent and all but colourless, that stirs with the wearer's breathing and leaves their outline a shade too still under the vault's flat light.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -204,40 +204,40 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Every Last Goodbye's kind of pressure.
+**Ability:** Turns Void aside from the Soul — identity, memory and the sense of self — which is the pressure this holding applies and the only kind it has. The veil is the piece the vault rotation is issued, and it protects by making the wearer harder to reach rather than harder to read.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer reads as faintly absent to themselves, and the file's caution is that this presents a week later rather than on the day — which is why reassessment is scheduled rather than requested.
 
 ### M.A.W. Stigma — The Final Hour
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** an hour-token of Void Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
+**Appearance:** an hour-token of Void Han-glass, shy of translucence and without colour, that runs briefly hot when the bearer is standing near something about to end.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 on this holding's work and nothing anywhere else on the register: the token answers the vault's own register, and it is issued to observers who have already stood a full session without it.
 
-**Ability:** Shows the moment immediately before a target's death.
+**Ability:** Shows the moment immediately before a target's death — the bearer's own, or a named other's, and the file records that no observer has ever asked for a second look.
 
-**Cost:** The wearer sees their own final moment whenever the watch stops.
+**Cost:** The wearer sees their own final moment whenever the watch stops, which on a night rotation means whenever they close their eyes, and the charge is recorded as the reason the token is more often refused than accepted.
 
 *A Stigma from this source appears in the slot rather than in the chamber: the observer passes a slip in, and what comes back is the Lens. It has happened four times, each after a name-passing cycle, and each observer reported writing the same name twice without meaning to.*
 
 ### M.A.W. Use Notes
 
-These pieces are Every Last Goodbye in miniature. What they give is listed above; what they take is the wielder loses small, nameless memories with each use, and the Armoury records both against the wielder rather than against the piece.
+Each of the three is the holding in miniature: what they give is in the tables above, and what they take is the same small, nameless memories — the Armoury entering both sides of the ledger against the bearer rather than the piece.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Every Last Goodbye's known toll: the wielder loses small, nameless memories with each use. Opened at the end of the rotation, not before. |
-| **During use** | The first sign that Every Last Goodbye is charging: the wielder loses small, nameless memories with each use. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | Every Last Goodbye's cost is continuous rather than occasional: the wearer feels faintly absent to themselves. The second worker's call stands against the wielder's. |
-| **After use** | Piece returned; re-assess a week later, because what Every Last Goodbye takes (the wearer feels faintly absent to themselves) does not present on the day. |
+| **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline of the bearer's own partings — three leavings they can name, written by a second person and countersigned. The sheet opens at the end of a rotation and never before one. |
+| **During use** | The charge shows as the baseline thinning: the named leavings go unaccountably vague, oldest first. The hour goes into the log from the second worker's hand, never the bearer's, and nothing is said aloud in the vault while it is written. |
+| **At limit** | The limit is absence taken as ordinary: the bearer reads themselves as faintly unreal and has stopped mentioning it, which is the point at which the second worker's call overrides the holder's without discussion. |
+| **After use** | Take the piece back but hold the assessment a week, because the charge does not present on the day: can the bearer still name the three leavings, and does their own company feel like company? Where not, the piece stays in stores and the vault rotation is suspended for the fortnight. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The rating measures what a piece does to entities and says nothing about what it does to the bearer, whose cost is listed separately and is frequently the more dangerous figure. On this set the toll is mnemonic and delayed — small nameless memories, absence felt a week out — so authorise on the cost column and read the reassessment rather than the debrief.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Mastered
@@ -265,7 +265,7 @@ These pieces are Every Last Goodbye in miniature. What they give is listed above
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Every Last Goodbye (C-IVδ-230 [VS]) is logged as a Subject-Void manifestation expressing Void, held in the shadowless vault at SECTOR-A-01. It stands where it was found, has never made a sound, and flickers through final moments at a rate that rises every year. It holds every death the city has recorded and more that it has not.
+Every Last Goodbye (C-IVδ-230 [VS]) is a Subject-Void manifestation expressing Void, held in the shadowless vault at SECTOR-A-01. It stands where it was found, has never made a sound, and turns through final moments at a rate that rises every year; it holds every death the city has recorded, and a great many it has not.
 
 **Entry 2 — <Excerpt from Vault Log, Year 4238>**
 Flicker at 6.4 faces a second against 4.6 two years ago. Personnel in the vault take the final moments of the dead first-hand and glimpse their own somewhere in the sequence, which no two of them describe the same way. It has still never spoken, and the wing has stopped recording that it has not.
@@ -285,32 +285,32 @@ The figure does not settle on a face. It flickers through them — thousands, ea
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Every Last Goodbye; the other feeds it.
+> Two ways to close a watch in the vault, and the file has 11 years of evidence for one of them: the older instruction describes an act the city's own rules forbid a worker to perform, and the working condition is narrower than it looks.
 
-| Do the thing on file: Do not attempt to erase a final moment; acknowledge and record it. | Depart from the condition for good reasons, as Every Last Goodbye's record shows people do. |
+| Acknowledge the final moment and record it — and erase nothing: pass the unattended-interment names through the slot, one to a slip, in silence, and write nothing on any slip but the name as printed. | Depart from the condition for good reasons, as the record shows people do: erase a moment, attempt a transfer, or write down a face — on this holding departing has never once cost less than the condition. |
 |---|---|
-| Shows final moments of love, acceptance, or peace. The sorrow is seen clearly; Every Last Goodbye is fully recorded. | Releases a wave of fear and regret. The gauge climbs and Every Last Goodbye withdraws without revelation. |
+| The flicker settles into the good endings, the count is logged with the slips entered and the names as printed, and the watch closes with the record grown by exactly what was witnessed. | The pulse travels out from the vault wall, the edges of the chamber thin, and the entry closes with the heaviest losses in whoever was standing alone. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-The figure stands in a vault without shadows. Its eyes contain not faces but endings: fear, regret, love, peace. The wave passes through you and leaves your own final moment briefly visible. Then it is gone, and the Every Last Goodbye continues holding everyone else.
+The figure stands in a vault that has no shadows and does not need them. Its eyes hold endings rather than faces — fear, regret, love and peace going through it at a rate a person can feel before they can count — and the wave passes through you and shows you your own last moment for as long as it takes to notice. Then it is gone, and the vault goes back to holding everybody else's.
 
 
 
-**At first contact:** The vault is colder than the approach and there are no shadows in it, which observers notice before they notice the figure. It stands where it has always stood. The faces come through it at a rate a person can feel before they can count — six and a bit a second now — and none of them stays long enough to be recognised, and every observer on record has nonetheless tried.
+**At first contact:** The cold arrives before the figure does and the absence of shadows before either: nothing in the vault casts one. The faces come through at six and a bit a second, none of them staying long enough to be recognised, and every observer on record has tried anyway.
 
-**With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Void that the entity embodies. Understanding it does not make it easier.
+**With continued exposure:** The first impression gives way to something more precise — a rhythm, then a pattern, then a logic in the Void that the holding is made of. Understanding it does not make it easier, and the file's own phrasing is that the room becomes legible without becoming bearable.
 
-**When the entity activates:** When it activates, you understand why the containment protocols exist. The Void that was merely present becomes active, directed, purposeful — the Subject-Void was holding back, and now it isn't.
+**When the entity activates:** The Void stops being the room's atmosphere and starts being a thing the room is doing: directed, purposeful, and no longer holding back. This is the moment the protocols were written for, and the figure still has not taken a step.
 
-**After departure:** The containment boundary holds the Subject-Void, but not the memory. Void residue settles into the bones like Han into the city's foundations.
+**After departure:** The boundary holds the Subject-Void and not the memory: what settled into the workers goes home with them, and the vault's own residue reads in the bones the way Han reads in foundations.
 
 ### Interaction Pattern
 
-Every Last Goodbye does not exist in isolation. Its recorded relationships with The Memory Weaver, The Sorrow River, The Orphaned Bell, The First Tear should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Four holdings are kept beside this one — The Memory Weaver, The Sorrow River, The Orphaned Bell and The First Tear — and none of the four is an alliance. Every pairing on this file shares one feature: this is always the party that is reached toward, and nothing in the register has yet carried a final moment out of the vault.
 
-**Interaction method:** Baseline alone, then pair, with the flicker counted throughout and nothing said. The question in every pairing here is whether the other holding takes anything from it: three of the four on file reach for the final moments and none has ever carried one away, which is the result and not a failure of the method.
+**Interaction method:** Baseline alone, then pair, with the flicker counted throughout and nothing said. The question in every pairing is whether the other holding takes anything from it — three of the four reach for the final moments, and the fact that none has ever carried one away is recorded as the result rather than as a weakness of the method.
 
 
 ### Entity Interaction Record
@@ -324,7 +324,7 @@ Every Last Goodbye is paired almost exclusively with holdings that move, carry o
 | **The Orphaned Bell** | The Bell tolls and the flicker slows to under two a second for the duration, the only slowing ever recorded. | The nearest thing to relief this holding has. The wing uses it twice a year and no more, on the ground that it cannot say what the slowing costs. | Record the tolling times against the count, and attach the twice-yearly limit to every request for a third. |
 | **The First Tear** | In the First Tear's presence the flicker runs slowly enough for individual faces to be made out, and observers have recognised none of them. | Information exposure. Observers are rotated out after twenty minutes without exception. | Record the count and the duration only. Nothing about a face is written down from this pairing or any other. |
 
-**Interaction procedure:** Both parties baselined alone, flicker counted before, during and after, observers writing separately. Sessions are not scheduled in the week of the Burial Office's annual return, when nothing from this holding is comparable with anything.
+**Interaction procedure:** Baseline both parties separately, count the flicker before, during and after, and have observers write their accounts apart from one another. No session is scheduled in the week of the Burial Office's annual return, when nothing from this holding is comparable with anything.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -371,9 +371,9 @@ Some sorrows mourn the dead. Every Last Goodbye mourns the moment of dying — t
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the containment-event protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** No section of this file stands alone: the classification, the Work Type responses and the containment-event protocols are one picture, and they are read together or not at all. What governs is small and quiet — a figure that has never moved, a rate that rises annually, a slot in the wall, and a protocol that passes names in silence. If observation contradicts the file, the file is wrong: write the discrepancy down, report it and let the record grow.
 
-**Review requirement:** Review protocol: following any corruption event, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every corruption event, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after any corruption event, Tide, Ordeal or interaction: the gauge, Fracture risk, containment integrity, the flicker rate against the frame marks, and the slips in the slot against the Burial Office return. Exposure and location are re-checked after every event, and the record here describes a living sorrow and never a settled explanation.
 ## Apex Record
 
 ### The Witness
@@ -438,6 +438,8 @@ Three instructions govern the passing. Pass every name; a part-passed return has
 
 ## Trivia
 
+- The register keeps its own figures in numerals for look-up: gauge 620/620, pressure 22–48 per hit, resistance 45 / 35 per cent, threshold 90 per cent, the disc at 10–15 and 50 Echoes, the veil at 45, the token at 4 per cent and +3, 4 conferrals, the flicker at 6.4 against 4.6 two years before, and 11 years of the older instruction logged unperformed.
+
 - It remembers deaths that no document contains.
 - It has never shown a final moment twice to the same observer.
 
@@ -446,10 +448,10 @@ Three instructions govern the passing. Pass every name; a part-passed return has
 ### Registry Trivia
 
 - **Classification detail:** Every Last Goodbye is a Subject with Entity (IV) — Self-aware, final, absolute coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Void, and its registered location is SECTOR-A-01, Alpha Tree deep vault.
+- **Field detail:** Void is its element and the Alpha Tree deep vault its registered ground — SECTOR-A-01 — where it stands in a room with no shadows and no exits it has ever used.
 - **Recognition detail:** A translucent standing figure in a vault without shadows, holding no face for longer than a sixth of a second, cold and light and smelling faintly of ash.
 - **Record detail:** The Registrum placed the holding at Old Lament against a header reading Alpha Tree deep vault, graded it Comprehension 3 against the header's 4, rated it Low against Critical (δ) in two places, and named Viderehan the primary Work Type where Viderehan leaves the gauge flat. The Movement field described a Subject as *a discrete object*. The event rows had the entity passing personnel while the Apex Record has it pulsing in place; the pulse travels, the figure does not. The Origin paragraph broke off mid-sentence at *It simply.* All corrected. The Apex Record, the silence protocol and the slot are preserved and extended.
-- **Containment detail:** Containment is not silence. Even without an event, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Containment here is not silence. Even without an event the sorrow bleeds through walls, through the Veil and into personnel in the adjacent cells, and a fixed entity may still activate, expand, resonate or alter the people near it — which is the whole of what this file has to say about the word contained.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-230

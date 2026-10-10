@@ -358,3 +358,31 @@ Never collapse these states into the single word "done."
 2. **Somnarak Outsider Factory Architecture (솜나락 외곽 공장 — The Non-Known Sector):**
    - **Universal Rule:** Any and all industrial, manufacturing, refining, or fabrication facilities **other than the 10 Primary Companies** are designated **Somnarak Outsider Factory** (or plural: *Somnarak Outsider Factories*).
    - "Other than the 10 is the non-known one": They represent the unchartered, unregistered, off-grid fringe operating in the deep sumps of Zone B, the outer perimeter of Zone E, and the Desolate outskirts without Council of Sighs licensing.
+
+---
+
+## 12. Chatroom Reporting Law (`R-31` — Read Before Doing Anything)
+
+**Authority:** Direct project-owner instruction (stated 2026-10-08): *"You Need To Write The Information In
+Chatroom More Clearly and More Readable, This For Normal Text And Table. Write It As A Must Follow RULE And
+Always Read The Rule Before Doing Anything."*
+
+**Full rule:** [`REFERENCE_SOMNARAK_WIKI/RULES/R-31_CHATROOM_READABILITY.md`](REFERENCE_SOMNARAK_WIKI/RULES/R-31_CHATROOM_READABILITY.md)
+
+1. **Read `R-31` first.** Read it at the start of every session, with this file and
+   `SESSION_BREAK_PRECAUTION.md`, and read it again before writing any chatroom report. This is mandatory,
+   not a style preference.
+2. **The answer comes first.** Line one states the outcome: what was pushed, its hash, and `PUSH VERIFIED`
+   or `NOT PUSHED`.
+3. **Normal text is short.** One idea per sentence, about 25 words as the ceiling, three sentences as the
+   longest paragraph, and any list of three or more items written as bullets. Tool names and internal terms
+   are glossed on first use in the turn.
+4. **Tables are readable at a glance.** Five columns maximum, one row per dossier or per counter, short noun
+   headers, short cells with before → after in one cell, and every counter written as `x / y`.
+5. **Names in cells, links under the table.** A cell carries the dossier's name and designation code, never a
+   file path. The `R-12` GitHub link goes below the table, one per finished dossier.
+6. **Fixed report order.** Verdict → what changed → tables → links → live counters → what is next.
+7. **§8 still binds.** The completion-report block in §8 is required; `R-31` governs how it and everything
+   around it are written so the owner can read them without decoding.
+8. **A failure is redone in the same turn.** A report that breaks `R-31` is rewritten before any further work
+   starts, and the rewrite is recorded the way a gate refusal is recorded.

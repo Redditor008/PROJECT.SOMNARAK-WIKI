@@ -1,6 +1,6 @@
 # Lethe — 혼란의 독기
 
-> *"When it comes, you will know. Everyone knows."*
+> *"If nothing said in the volume is a statement in law, what is the annual assurance return made of? The minutes where people say exactly what they think."*
 
 ## SECC Classification
 
@@ -88,7 +88,7 @@
 
 1. **Tension:** The level is confirmed, the external reader takes position at the stair with the error sheet, and the operator goes down with a task that has a known right answer. The task is always one with a known right answer; that is how the sheet works.
 2. **Clash:** Four turns, observation and endurance only, with the passage read at each turn boundary and a nominated reader outside the volume following the text and marking errors.
-3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the party out of the volume with no uncorrected error on the page, confirmed by the external reader.
+3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the party out of the volume with no uncorrected error on the page, confirmed by the external reader. It closes against the documented suppression condition: **The party out of the volume with no uncorrected error on the page, confirmed by the external reader**.
 
 ### Consequences
 
@@ -280,6 +280,20 @@ There is no first sensation. The sublevel is cold, unlit except by what the part
 
 **After departure:** Speech returns within hours and the gaps do not. Most personnel describe a word they can no longer retrieve and know they once had, and describe looking for it for years.
 
+## 상호작용 (Entity Interactions)
+
+The volume takes what is known and gives nothing back, and the file measures its ceiling at both ends of every watch. It has never been entered alongside another holding — respirators, sealed suits and total silence have each been trialled, and that trialling is itself why the pairings below stay on paper. The rows come from the appendix that groups the 90x holdings by manifestation, read against each record's own series.
+
+**Interaction method:** Establish the volume's own numbers first: the two ceiling readings per watch, the score given by the external reader, the standing order that forbids self-assessment. Then lay the other record's series beside the page and enter the first parting, its reach, its cause, and whether either series moved in the reading. Re-verify at the next watch.
+
+| What the volume holds | How the pairing has run | What the reader entered | What the page keeps |
+|---|---|---|---|
+| **Backward Hour** `C-IIIγ-913` | Filed together on the outside check. That record reconciles its clocks after the cycle; this one refuses the witness's own account at every stage, and both put the last word outside the person. | The clock reconciliation and the external score were compared once and matched on the external step alone. | That the one shared step is the finding, kept as the review wrote it down. |
+| **Amnesia** `O-IIβ-914` | Grouped on losses of the mind and what is done about them. That record gets a name back in a median of nine minutes; nothing has ever come back here, and the file says so plainly. | One review entry; the two series parted at the first mark and neither column was reconciled. | That the parting stands as the entry, carried un-smoothed in the review's numbers. |
+| **Miasma** `C-IVδ-922` | Grouped on an effect that cannot be read from inside. That record's weep is measured while it is happening and judged by the spotters; this one is judged by a reader who stands outside the room, for the same reason. | The dwell figures and the ceiling readings were laid side by side once and shared only the external step. | That the two are filed for the shape of the outside check, noted as a shape and not a link. |
+
+**Interaction procedure:** Nothing is worn or carried into the volume in company. The comparison stays on paper at the watch's review, with the ceiling readings and the external score entered first and the other record's series laid beside them unchanged; parting, reach, cause and both readings go into the margin.
+
 ## 이야기 (Narratio) — The Tale
 
 The district's account of the sublevels is that they were sealed after the pumping station closed and that the sealing was an ordinary municipal economy, and this agrees with the municipal record in every particular. No testimony collected in nineteen years connects the volume to any event, grievance or death. The file states this positively: there is no story here, and the absence has been looked for carefully enough to be reported as a finding.
@@ -321,7 +335,7 @@ The hazard itself intends nothing and does nothing. It has no occupant, no respo
 
 ### Registry Addendum
 
-**Operational interpretation:** The three sections below are read together or not at all. The inversion is an instrument: it removes the capacity to notice its own effect, which means every safeguard here has to live outside the room. That is what the reader is, what the known-answer task is, and why the operator's own account of a cycle is never the record. The capacity opinion makes exactly this point in formal language and has been on the file for nine years. The miasma has climbed nine levels in fifteen and withdrawn from two, unprompted, for reasons nobody has established.
+**Operational interpretation:** The 3 sections below are read together or not at all. The inversion is an instrument: it removes the capacity to notice its own effect, which means every safeguard here has to live outside the room. That is what the reader is, what the known-answer task is, and why the operator's own account of a cycle is never the record. The capacity opinion makes exactly this point in formal language and has been on the file for nine years. The miasma has climbed nine levels in fifteen and withdrawn from two, unprompted, for reasons nobody has established.
 
 **Review requirement:** Re-verify after every expansion, Tide, Ordeal or unusual interaction: gauge, ceiling measured and chalked, reading pages scored against baseline, discrepancy lists, the standing of the capacity opinion, and whether the assurance return drew on second-stage material in the period.
 

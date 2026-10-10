@@ -1,4 +1,4 @@
-# M.A.W. SUIT — The Ember Shroud
+# M.A.W. SUIT — The Hearth-Watcher's Ashen Cloak
 
 > *“It keeps the cold from making every kindness feel impossible. It does not make kindness automatic.”*
 

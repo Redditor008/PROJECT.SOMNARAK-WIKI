@@ -85,7 +85,7 @@ The set is an argument against erasure. It cannot be treated as a shortcut to se
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Burning Fang | δ | Grudge | Piercing response to active suppression and structural threat | `SE-092-B__MAW-W_The_Burning_Fang.md` |
+| Weapon | The Pyre Grimoire & Ash Lance | δ | Grudge | Piercing response to active suppression and structural threat | `SE-092-B__MAW-W_The_Burning_Fang.md` |
 | Suit | The Burning Plate | δ | Grudge | Body protection against Grudge pressure and heat | `SE-092-C__MAW-S_The_Burning_Plate.md` |
 | Stigma | The Burning Page | δ | Grudge | One irreversible reading of a hidden civic truth | `SE-092-D__MAW-G_The_Burning_Page.md` |
 
@@ -93,18 +93,21 @@ The set is an argument against erasure. It cannot be treated as a shortcut to se
 
 ## PAGE 04 — WEAPON STAT CARD
 
-### M.A.W. Weapon — The Burning Fang
+### M.A.W. Weapon — The Pyre Grimoire & Ash Lance
 
 | Field | Record |
 |---|---|
-| Damage | Grudge 10–15 |
-| Speed / Range | 3 — Fast / 3 — Medium |
-| Attack Pattern | Skewer — three targets maximum |
+| Damage | Grudge 14–22 |
+| Speed / Range | 3 — Normal / 4 — Long |
+| Attack Pattern | Channeled Ash Burst / Consuming Conflagration |
+| Target Coverage | Piercing line; up to 3 targets in succession |
 | Falloff | 100% → 70% → 50% |
 | Maximum Amount / Echo Cost | 2 — Limited / 50 Sorrow Echoes |
-| Primary Cost | Old wounds ache and prolonged use leaves crimson bruising. |
+| Primary Cost | The wielder’s old scars and burn marks ache; prolonged use leaves severe heat blisters and crimson bruising across the bearer’s arms. |
 
-**Quick effect:** A fang-curved blade launches a burning page-line that strikes the body and exposes the act of suppression that brought it forth.
+**Quick effect:** The grimoire’s crimson script combusts into incandescent ash, channeled through the cinder-iron lance to fire a linear corridor of white-hot Grudge javelins at up to three targets. The flame sears physical barriers and hostile constructs, but does not ignite mundane paper records.
+
+**Linked-item terminology hold (2026-10-10):** The Side card now follows the grimoire-and-lance identity and channeled ash-burst profile reflected in the current `SE-092-B` heading, identity, resting/active forms, Appearance and Core Statistics, the primary weapon block, registry name and `MAW-W-092` archetype. The item’s Basic Attack (`Margin Cut`) still says “The Fang launches a crimson Skewer line,” and its Signature Ability retains “Fang” and “Skewer line.” Revision `ebcbd249` changed the earlier Burning Fang identity, form and combat profile but left those passages. No separate Fang form or transition is documented; preserve the residual language as an unresolved linked-item hold rather than restoring the superseded Side profile. The old `Burning_Fang` filename remains a path, not the current name.
 
 ---
 

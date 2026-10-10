@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.15 m/s |
-| **Resistance** | 35% against Lament pressure; 25% against other pressure types |
+| **Resistance** | 35% against Lament pressure; 25% against everything else. Nothing is rated against the weeping itself, which is not aimed at anybody: she cries without pause and the sump outside her door has never read zero, so the percentages describe the pressure that comes off the room she is kept in. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 515/515 |
 | **Han Pressure [ATK]** | 9–22 per hit · Lament |
@@ -81,21 +81,21 @@
 | { *The First Sob* [**Debuff**] } | "She begins to weep — and the sound is so pure, so complete, that your own grief answers." | [The Maiden's mourning resonates with the target's buried sorrow.] | *Target suffers -10 Composure; their grief is stirred.* **[10 Lament DMG [Lament]]** | When the target hears the Maiden. |
 | { *The Deepening Sorrow* [**Debuff**] } | "Her weeping grows — and with it, yours, until you cannot tell whose tears are whose." | [The Maiden's grief deepens; the target's and hers merge.] | *Target loses 10 Composure; the boundaries of grief dissolve.* **[10 Lament DMG [Lament]]** | When the target remains near. |
 | { *The Tear-Strike* [**Attack**] } | "One of her tears falls — and where it lands, the sorrow is concentrated into a wound." | [A grief-saturated tear strikes the target.] | *Inflicts Lament pressure and one wound of shared anguish.* **[14-22 Lament DMG [Lament]]** | When the Maiden is addressed. |
-| { *The Full Lament* [**Attack**] } | "She gives voice to her entire grief — a wail that carries centuries of mourning." | [The Maiden releases her complete accumulated sorrow.] | *A heavy Deep Blue wail; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Maiden is confronted. |
-| { *The Universal Mourning* [**Ultimate**] } | "Now everyone is weeping — and no one can stop, and no one can remember why they started." | [The Maiden extends her grief across the whole field.] | *All in range suffer Lament pressure for three turns of universal weeping.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Lament* [**Attack**] } | "She gives voice to her entire grief — a wail that carries centuries of mourning." | [Everything she has kept behind the weeping comes out in one note, and the room takes the weight of all of it.] | *The wail lands as weight rather than sound; the gauge jumps 15 at a stroke.* **[24-36 Lament DMG [Lament]]** | When the Maiden is cornered. |
+| { *The Universal Mourning* [**Ultimate**] } | "Now everyone is weeping — and no one can stop, and no one can remember why they started." | [The weeping escapes the boundary and takes the whole floor: every worker present is crying, and none of them can say for what.] | *The floor grieves for three turns, and no one can name the loss.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The Grieving Maiden is confirmed by a young woman weeping without pause, warm to stand near, hair and dress soaked through, cold rain on old cloth in the air, and a sump gauge outside the door that is never at zero. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** Confirmation first, and the sump is checked before the door: a young woman crying without a pause, warm to stand near, hair and dress soaked to the hem, rain-on-old-cloth in the air, and a gauge outside reading anything but zero. Withdrawal is set before the approach is made, and no one is posted where she cannot see them.
 2. **Clash:** Nothing is struck. The crew works in counted pairs, answers the three-minute verbal check, and reads the sump figure before the chamber gauge, because the sump moves first.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Share her grief and acknowledge the loss; never command her to stop**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Share her grief and acknowledge the loss; never command her to stop**. That condition is satisfied when someone has taken a chair, let the weeping run its own length, named the loss in plain words, and left without asking her for quiet; a watch that ends in a request for quiet is logged as the loss having been carried further, not lifted.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Clarity**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is The Grieving Maiden’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. The Grieving Maiden executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Failing against her costs twice over: the worker takes raw grief into their own **Clarity**, and she grows on what the worker cannot hold — which is why the room is entered sitting down and left without a command.
+- Time fights on her side. A long sitting saturates the operative with sorrow by degrees, and the collapse that follows — psychological, somatic, environmental, whichever of the three the worker is weakest in — is exactly what the Rank IV classification was codified to prevent. She never hurries; the watch does the accumulating on her behalf.
+- Each M.A.W. activation against her is a straight trade with no room to bargain in it: power on one side of the table, price on the other. The equipment registry catalogues every parameter it can measure, and the part actually paid is taken out of the bearer’s soul and flesh, which no column of that registry has ever managed to hold.
+- An encounter left unresolved does not stop; it changes shape. She runs the breach pattern the dossier documents for her, and sorrow nobody pacified takes the violent way out of the room that the containment work was supposed to have given it.
 
 ## Appearance
 **Primary Form:** A young woman, warm and alive to every field test, hair plastered and dress soaked as though she has stood out in years of rain. **Assay:** the Research wing's term for the body is crystallized tear-matter, which is what it analyses as and not what it feels like; the header records the field presentation and both descriptions stand.
@@ -150,9 +150,9 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. The Grieving Maiden is recorded as a Subject with Subject-Body manifestation and Lament elemental expression. The current record places it at SECTOR-D-02, contained with the Three Sisters; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table is one input among many, and on this file the code and the coherence level decide what a stable gauge is worth in the room. The Grieving Maiden is a Subject with a Subject-Body manifestation and Lament elemental expression, contained at SECTOR-D-02 with the Three Sisters. She weeps without pause, the rain on the air does not stop, and the sump outside the door is the instrument the wardens actually read; nothing here transfers to another grieving holding, and observation can leave the gauge unchanged while still exposing the worker to memory, environmental or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** A lower gauge is a window and not a door — the pressure returns unless the cycle is sustained, so what is achieved is stabilisation and not the end of the weeping. A rising gauge means the approach has asked her to stop, or has found the nerve of the origin; pull back and reassess before the work feeds the sorrow. Unusual responses precede events: log, flag, and adjust before the next assignment.
 ## Breach Behavior
 
 > *"The Grieving Maiden has broken free. Hunts personnel indiscriminately."*
@@ -180,7 +180,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that hums faintly when gripped.
+**Appearance:** a slender Lament Han-crystal blade, faintly luminous, that hums under the grip — the note rises when the bearer comes within earshot of the weeping, which the armoury records as the set's only instrument for distance.
 
 **Damage:** Lament 5–9
 **Speed:** 2 (Normal)
@@ -193,15 +193,15 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** The multiplier applies to the strike and to each Tick separately, and bearers of this archetype are rostered on the shortened breach clock whether or not they have been in contact.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Grieving Maiden's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels her signature in the strike: the target is left weeping for a loss they cannot name and cannot stop locating.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The bearer takes on the grief she has not yet wept and weeps without being able to place why; prolonged use makes the weeping ordinary. Unlike hers, this charge does end — the file records it reversing on the return, which is the one asymmetry between the piece and the woman.
 
 ### M.A.W. Suit — The Tear Shroud
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a Lament Han-silk shroud, cool to the hand and faintly luminous, that draws in near the source element; inside the room's boundary the weave clings, and the bearer's first warning of how deep they have walked is the cloth.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -211,15 +211,15 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against The Grieving Maiden's kind of pressure.
+**Ability:** Grants resistance to Lament damage and protects the Mind — emotional stability and willpower — worn against this particular pressure: nothing here is aimed and nothing can be argued with, and what the piece buys is the ability to sit in the room without taking the weeping home.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** Minor joys go flat in the wearer, and the onset is not announced: the second worker checks at the return of the piece, because the bearer is the last to notice an absence.
 
 ### M.A.W. Stigma — The Tear Veil
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a veil-clasp of Lament Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a veil-clasp of Lament Han-crystal, cool and faintly luminous, warm to the touch; it is issued to the workers who will be sitting with her face to face, and it is the smallest piece in the set because it has to be.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -233,18 +233,18 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### M.A.W. Use Notes
 
-Each piece extends The Grieving Maiden rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping — arrives early and does not reverse on return.
+All 3 pieces extend the Maiden rather than arm anybody against her. The benefit holds only inside the pattern the file records — the weeping admitted, the loss named, nothing commanded down — and outside it the charge arrives early and does not reverse on the return: the bearer carries her unwept grief and weeps with no account of why.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from The Grieving Maiden the recorded cost is that the wielder feels the entity's unwept grief. |
-| **During use** | The Grieving Maiden charging, which presents as this: the wielder feels the entity's unwept grief. The wielder's own account is taken separately and afterwards. |
-| **At limit** | The wearer becomes numb to minor joys, and the wielder has stopped reporting it — the usual end point for a The Grieving Maiden piece. The observer calls the limit. |
-| **After use** | Return the piece and check the sealed baseline: has The Grieving Maiden's cost — the wearer becomes numb to minor joys — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, the day's reading, and a baseline written down and held by a second person: what in the bearer's own week is still unmourned? The charge on this set does not present on the day, and the sheet is kept by somebody who is not going to be in the room. |
+| **During use** | The charge announces itself as weeping the bearer cannot account for. The second worker logs the hour it is first seen; the bearer's account is taken afterwards and set beside the log rather than used to complete it. |
+| **At limit** | The limit arrives as silence: minor joys flat, weeping continuing, and nothing reported. That is the usual end point for a Maiden piece, and the observer calls it rather than the bearer. |
+| **After use** | Take the piece back and set the sheet against the person: has the weeping outlasted the rotation, and has the bearer stopped mentioning it? Either answer is entered whether or not the bearer agrees, and where the weeping has not reversed the piece is not reissued to them. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grades describe extraction stability and nothing about human safety: a well-graded piece can still exact a toll no rating accounts for, and on this set the toll is the bearer weeping for a loss that is not theirs. Authorise on the cost column, and treat a low-rated piece carrying that charge as the ordinary case.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial. The grade is low and the holding is well understood; what keeps it at 1 is that nobody has accounted for the volume, and a wing that cannot say where the water comes from does not claim a higher grade.
@@ -275,7 +275,7 @@ Each piece extends The Grieving Maiden rather than equipping its wielder against
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Grieving Maiden (C-IVβ-041 [LS]) is logged as a Subject-Body manifestation expressing Lament, held on the Sisters' corridor at SECTOR-D-02. She weeps without pause, she has never been hostile to anybody, and the water her chamber produces is greater at every annual return. The Maiden formed from a parent whose child died of illness. Held at SECTOR-D-02, contained with the Three Sisters. Separation from the Three Sisters causes rapid distress.
+The Grieving Maiden (C-IVβ-041 [LS]) is a Subject-Body manifestation expressing Lament, contained at SECTOR-D-02 with the Three Sisters. She is a young woman weeping without pause, hair and dress soaked through, warm to stand near, with cold rain on old cloth in the air and a sump gauge outside the door that has never once read zero. The condition is to share her grief and acknowledge the loss, and never to command her to stop.
 
 **Entry 2 — <Echo Gardens Sister Watch, Year 4238>**
 Sump mean 77 litres a day, after 58 and 41. Sister-distance held at zero throughout the year. Gauge steady on its 515 baseline except during the maintenance transfer of the third quarter, when the sump led the gauge by six hours exactly as the ledger predicts.
@@ -293,11 +293,11 @@ The crystallization is traced to the Sisters' corridor, and the Office's own fil
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Grieving Maiden; the other feeds it.
+> Two ways to sit through the same watch. The file's way: take a chair, let the weeping run, and name the loss when the room allows it. The other way is the one every warden reaches for eventually, and it is a sentence rather than a tool.
 
-| Share her grief and acknowledge the loss; never command her to stop. | Substitute your own judgement, which on The Grieving Maiden has never yet cost less than the condition. |
+| Sit with her, share the grief, name the loss for what it is, and never tell her to stop — as written, at her pace, however long the watch runs. | Command the weeping down, or leave the room early and promise to return: the gauge does not fall, the encounter ends early, and the file records another cycle spent making her hold it longer. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is witnessed; The Grieving Maiden is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Grieving Maiden withdraws without revelation. |
+| She keeps crying, and the crying is shared: the sump reads lower at the end of the watch than at the start, and the record gains an hour of it. | The room keeps what it was given: the weeping continues at full volume, and the file gains nothing except the note that she was asked to be quiet. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -306,17 +306,17 @@ The air grows heavy with unshed tears. A young woman appears, translucent and pa
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Lament always changes a room. Then the Subject-Body resolves: A translucent young woman made of crystallized tears. She weeps continuously and moves slowly.
+**At first contact:** It begins at the threshold, before the containment door has finished swinging in: the room thickens the way a room thickens around unshed tears, and the weight arrives ahead of anything there is to look at. Then she resolves. A translucent young woman made of crystallized tears, weeping continuously, moving slowly, and her grief reaches the room some seconds ahead of her voice.
 
-**With continued exposure:** With time, the entity becomes less abstract and more specific. The Lament is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
+**With continued exposure:** She stops being an idea about sorrow and turns into one particular mourner. What the worker is sitting with is this loss, this room she keeps walking back into, this way of making the Han move that belongs to her and to nobody else in the wing. The longer the sitting runs, the more the file's adjectives drop away and the more plainly it is a woman who has been crying for some time.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Lament becomes something you can taste, hear, or feel on your skin. The Subject-Body has crossed the line between containing and becoming.
+**When the entity activates:** The body registers it before the eye does. Temperature goes down through the floor, the Han-lamps gutter, and the sorrow in the room takes on a taste and a pressure against the skin, because she has stopped holding that grief and started being it. That crossing, from containing to becoming, is what activation amounts to in her case.
 
-**After departure:** You leave, but the Lament follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** The worker goes and it goes along, settled into the hands, standing behind the sternum, and loudest in the corridor's own particular silence once the door is shut again. The watch closes with somebody still sharing a sorrow that was never theirs to carry, which is the point her record keeps returning to.
 
 ### Interaction Pattern
 
-The Grieving Maiden does not exist in isolation. Its recorded relationships with The Smothering Mother, The Kind Healer, The Grieving Colossus, The Angry Maiden, The Silent Maiden should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This file reads her against 5 others — The Smothering Mother, The Kind Healer, The Grieving Colossus, The Angry Maiden, The Silent Maiden — and treats every one as a resonance candidate and never as an alliance or a quarrel, filed rather than settled. A shared event is logged by asking whether the weeping, the sump, the air or the Three Sisters' readings moved at all; a resemblance prompted the pairing, and nothing more was ever established by it.
 
 **Interaction method:** Sump and sister-distance before, hourly during and after, with the other two Sisters' watches logging in parallel and no pairing permitted that requires any of the three to leave the corridor.
 
@@ -325,7 +325,7 @@ The Grieving Maiden does not exist in isolation. Its recorded relationships with
 
 The Grieving Maiden must be read as one address of a three-address problem, and distinguished from the sister she is most often confused with. The Silent Maiden keeps a loss nobody may ask after; this one keeps a loss that was asked after, provided for, and closed on schedule, which is why her instrument is a volume and hers is a radius.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related record | Where the resemblance comes from | What was observed in company | Entry owed |
 |---|---|---|---|
 | **The Smothering Mother** | The Mother reaches for her and she does not move away, which is the only approach in the file she permits. Nothing passes between them and the sump rises in both chambers. | Volume up in two holdings at once, for days. | Record both sumps. Pairings are limited to one a cycle on the drainage crews' own objection, which was upheld. |
 | **The Kind Healer** | The Healer attends her at length and finds nothing it can treat; a death is not an injury. It stays anyway and shudders without having healed anything. | No gauge movement either side. The Healer's own recovery takes days. | Time the Healer's shudder. Do not repeat without its wing's consent. |
@@ -376,14 +376,14 @@ Some sorrows are about injustice. The Grieving Maiden's sorrow is about helpless
 - Born from a mother whose grief file was granted in full, concluded on its proper date, and reopened eleven times without success.
 - First of the Three Sisters: the loss that was mourned, against one that was blamed and one that was never asked after.
 **Cross-References:** The Angry Maiden · The Silent Maiden · The Echo Gardens · the drainage ledger · the schedule's closing date · the Continued Entry series
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** SED, on the D-territory watch that keeps the sump reading · UCD, on the Fray-adjacent zone. Neither holds authority to quiet her, and both wings' standing orders say so in the same words.
 **Originator:** A mother who lost a child to illness.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification frames the case and this record draws it, and neither of them stands in for sitting in the chamber. What governs the work is small and literal: she weeps without a break, the sump beyond the door has never once read zero, the loss gets named aloud and never ordered down, and the equipment side of the file records that the weeping a bearer carries away does reverse — hers does not. Where behaviour departs from this file, that departure is the most valuable data the holding produces, and it is preserved as evidence rather than tidied away.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any incident, 4 things are rechecked — the gauge, the field, the personnel, the location — and on this holding the sump is read first, because the figure outside the door is what tells the wardens whether the week's visits helped or cost. What held true yesterday may not hold today; what the R.D. record describes is a living sorrow pattern and never a finished explanation.
 ## Apex Record
 
 ### The Sister Distance
@@ -429,11 +429,11 @@ The registry clerks asked to be allowed to read them. Not to act — only to rea
 
 ### Registry Trivia
 
-- **Classification detail:** The Grieving Maiden is a Subject with Entity (IV) — Self-aware, gentle, sad coherence and Moderate (β) — Manageable potency.
-- **Field detail:** Its defining element is Lament, and its registered location is SECTOR-D-02, contained with the Three Sisters.
+- **Classification detail:** A Subject of Entity (IV) coherence — self-aware, gentle and sad — with Moderate (β) potency that the file calls manageable, on the strength of a condition a worker can actually meet: sit down, share the grief, name the loss, and do not tell her to stop.
+- **Field detail:** Element Lament, registered to SECTOR-D-02, contained with the Three Sisters, where the instrument is a sump gauge and the reading is never zero: she weeps without pause, the air stays rain-cold, and the door is shut on a room that is not to be quietened.
 - **Recognition detail:** A young woman weeping without pause, warm to stand near, hair and dress soaked through, cold rain on old cloth in the air, and a sump gauge outside the door that is never at zero.
 - **Record detail:** The Registrum gave Comprehension Level 3 against a header of 1 — Initial, named Flerehan the only valid Work Type where Ferrehan also lowers the gauge, and carried a handling line stating that the mother's presence calms the Maiden — she is the mother. The Appearance block described a translucent figure of crystallized tears against a header reading Organic, warm and alive; both are now stated as what they are, the field presentation and the assay. The breach quotation's *indiscriminate* is reconciled against the First Target row rather than deleted. All corrected. The Apex Record, the 515 baseline and the containment priority on reuniting the three are untouched; the disposition index quotes that line and it stands word for word.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** She does not need to breach to be dangerous, and containment here limits movement rather than influence — the weeping crosses the door with whoever sat closest. The file's whole management is a manner of sitting: the loss is named, the grief is shared, and nobody in the room ever asks her to stop, because the one certain way to make the sorrow heavier is to make her carry it quietly.
 ## Document Information
 
 **Document ID:** SE-C-IVβ-041

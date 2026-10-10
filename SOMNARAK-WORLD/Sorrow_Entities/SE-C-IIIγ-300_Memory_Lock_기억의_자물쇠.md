@@ -21,29 +21,22 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Working figures for the lock, kept for simulation. They annotate the holding described above; they do not amend its classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure** | Identity and memory — the lock keeps what a worker cannot carry back out of its room. |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per successful working of the lock |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Open it only through its registered Work Types; the key it keeps turns for Viderehan and Ferrehan alone. |
 
-### Operational Notes
-
-- The Lock has no key and no mechanism behind the plate, yet it is unmistakably fastened.
-- Work loosens nothing. A successful cycle lowers pressure in the bay while leaving the Lock exactly as found.
-- Only Viderehan and Ferrehan apply. Attempts to work the object by other means are not recorded as effective.
-- Personnel who handle it report losing the reason they came to deep storage. Debrief at the bay door rather than at shift end.
-- Extraction draws on residue at the plate and is authorized apart from routine work.
 
 ## Combat Record
 ### Core Stat Line
@@ -53,7 +46,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Void pressure; 25% against other pressure types |
+| **Resistance** | 35 per cent against Void pressure and 25 against anything else — and on a fixed object these are not resistances so much as an absence of contest: the Lock never acts, so the 574-point gauge opens full and trips at 75 per cent against a bay that simply gets harder. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 574/574 |
 | **Han Pressure [ATK]** | 14–31 per hit · Void |
@@ -73,7 +66,7 @@
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, Alpha Tree deep vault |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | The worker stands before the seal, does not attempt to open it, and the gauge falls below 25 per cent of its own accord; nothing is loosened by a good cycle and nothing is meant to be. |
 
 ### Combat Actions
 
@@ -82,18 +75,18 @@
 | { *The Sealed Door* [**Debuff**] } | "A door closes in your mind — and you cannot recall what was behind it." | [The Lock seals a memory away; the target feels the absence.] | *Target suffers a Void mark; something has been taken from recall.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Lock is set. |
 | { *The Lost Key* [**Debuff**] } | "You know there is something behind the door — but the key is gone, and the shape of what is missing haunts you." | [The sealed absence gnaws; the target cannot stop reaching for the gap.] | *Target loses clarity; the forgotten thing presses at the edges.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target senses the gap. |
 | { *The Bolt* [**Attack**] } | "The lock slams home — and whatever is behind it slams with it." | [The Lock drives a bolt of sealed-away grief into the target.] | *Inflicts Void damage; the impact of a suddenly-closed door.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Lock is forced. |
-| { *What Was Hidden* [**Attack**] } | "The lock breaks — and what you sealed away comes flooding out." | [The sealed memory breaks free in its full, terrible clarity.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Lock is shattered or picked. |
-| { *The Vault Empties* [**Ultimate**] } | "Every door opens. Every sealed memory walks free." | [The Lock releases everything it ever held, all at once.] | *All in range suffer Void erosion for three turns as the past unseals.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *What Was Hidden* [**Attack**] } | "The lock breaks — and what you sealed away comes flooding out." | [What was put away comes back all at once, in the size and order it was stored in.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the target holds a sealed memory. |
+| { *The Vault Empties* [**Ultimate**] } | "Every door opens. Every sealed memory walks free." | [Everything the plate has ever taken is let go inside the same minute and in no order at all.] | *All in range suffer Void erosion for three turns as the past unseals.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Memory Lock is confirmed by the fused keyhole and the turning clouding; never by the whispering, which is constant and tells an observer nothing they are permitted to use. The team establishes its position and its withdrawal before the cycle opens.
-2. **Clash:** Twelve turns, Viderehan and Ferrehan only, with the whisper mark entered as it occurs and nothing of its content written anywhere. Nobody speculates aloud in the chamber about what is behind the plate; the prohibition covers the bay, the corridor, and the wing, and it is the third of those that required a written rule.
-3. **Resolution:** Containment, management, retreat, or the documented condition: **the worker stands in front of the seal, does not try to open it, and the gauge falls below 25%**. Nothing is loosened by a good cycle and nothing is meant to be.
+1. **Tension:** Confirmation rests on the fused keyhole and the clouding that turns slowly behind the plate, and never on the whispering, which is constant and tells an observer nothing they are permitted to use. The marked standing position is taken, the withdrawal is set, and the cycle opens only from there.
+2. **Clash:** 12 turns, Viderehan and Ferrehan only, each whisper marked as it happens with none of its content written anywhere. Nobody speculates aloud in the chamber about what is behind the plate; the prohibition covers the bay, the corridor and the stair alike, and it is enforced by the chamber order rather than by preference.
+3. **Resolution:** The cycle closes on the condition and on nothing else: a worker standing before the seal who does not try to open it, and a gauge that comes down below 25 per cent by itself. A good cycle loosens nothing and is not intended to — the file's idea of success is a shift that leaves the vault exactly as hard as it found it.
 
 ### Consequences
 
-- Nobody is harmed here and nothing is forced. The failure is wanting to know, which hardens the plate, and the hardening does not reverse when the worker stops wanting it.
+- Nobody is harmed on this holding and nothing is forced. The failure mode is wanting to know: the plate hardens under curiosity, and the hardening does not reverse when the worker stops wanting it.
 - Prolonged exposure produces obsession with opening the vault, and it presents as diligence: the worker starts building a case for authorised access, researching the sealing instrument, and offering to help with the engineering assessment. Every step of it is reasonable and the sequence is identical across all five recorded cases.
 - The set keeps whatever it is given and will not return it. Wielders report that something of their own becomes unavailable to them afterwards — not lost, held — and the armoury logs the reports without attempting to establish what was taken, since establishing it would require the wielder to look for it.
 - Unresolved, it does not open, leave, or spread. It hardens, the whisper rate rises, and the pressure in the bay climbs until personnel stop being able to remember why they came down to deep storage, which is why debriefs are taken at the bay door and not at shift end.
@@ -167,23 +160,23 @@ Memory Lock is an Object/Place with Object-Void manifestation and Void expressio
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
-| **Use Mode** | **Continuous / channeled use** |
+| **Use Mode** | **Continuous / channeled use** — the whisper is one unbroken sentence, and breaking it is what lets the vault out |
 | **Activation** | Touch and a truthful admission from the worker. |
 | **Primary Effect** | Allows one sealed memory to whisper through the lock. |
 | **Duration** | Until the whisper ends. |
-| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Void resonance across the sector. |
-| **Risk** | The listener may become obsessed with opening the vault. |
+| **Termination / Return** | The operator closes it on purpose, palm still flat on the plate and the whisper finished; a hand pulled off mid-sentence leaves Void resonance loose in the sector with nothing left to contain it. |
+| **Risk** | The listener may become obsessed with opening the vault — the wanting arrives wearing their own voice, and the file warns about exactly that. |
 
-**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+**Operational Rule:** The Lock works only while someone attends to it and the conduits stand open. A channel left untended destabilises by degrees, and the sector reads the instability before the watch on the bench does.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Memory Lock begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Memory Lock: Allows one sealed memory to whisper through the lock. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the burden of protecting truth by denying access to it. forged during keepers locked away memories capable of destabilizing the city; the lock became conscious of what it concealed. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Memory Lock's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
-| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Void shockwave: The listener may become obsessed with opening the vault. all personnel in the sector take heavy damage. |
+| 10 Seconds | The plate warms under the palm and the vault answers from the inside: whatever stands behind the seal leans against it from the inside, and the chamber air goes thin with Void sorrow that has waited a long time to be this near a listener. | A truthful admission is what opens it, and the Lock lets one sealed memory out in a whisper — nothing more than that, and nothing louder. The units ranged along the same vault wall hold their Sorrow Gauges steady while the whisper runs. |
+| 30 Seconds | The whisper thickens into the memory behind the decision: keepers shut away recollections that could have taken the city down, and the Lock has known what it hides ever since. Half a minute in, the listener stops hearing a voice and starts hearing an admission that is their own. | The whisper reaches across Range Band 2, and every unit in the sector carries better against elemental pressure while the channeler keeps attending to it. Attention is the mechanism entire; it cannot be left running. |
+| 1 Minute | At the minute the Lock stops spending the facility's power and starts spending the channeler's. It was made to keep one thing shut and has now been asked to open, and that contradiction sits on the listener's chest like a hand. | Held past 60 seconds it takes 4 Composure every 10 seconds, and the watch should have the disengagement rehearsed before the whisper starts — the Lock gives no warning of when it is about to be too much. |
+| 2 Minutes | Two minutes in, the direction of the whisper changes. The grief the keepers sealed is no longer being read out of the vault; it is looking for someone in the facility to live in, and the nearest listener is the one with a palm on the plate. | Overload, or letting go mid-whisper, vents Void into the sector and every person in it takes heavy damage. What outlasts the vent is worse: the listener may become obsessed with opening the vault, and the record puts that down to the Lock rather than to them. |
 
 ### Escalation Notes
 
@@ -200,7 +193,7 @@ Escalation here is hardening. Record the hardness at onset, the whisper rate, th
 | **Primary effect** | Allows one sealed memory to whisper through the lock. |
 | **Duration / rate** | Until the whisper ends. |
 | **Risk** | Major (γ) Object-Void producing Void pressure; The listener may become obsessed with opening the vault. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Stand at the marked position and leave the seal shut. Viderehan and Ferrehan only, under certified Tool protocol; whisper occurrences are logged with times and their content is written nowhere, and the debrief is taken at the bay door before the stair. |
 
 **Activation reporting order:** trigger → hardness before and after → whisper rate → the admission made, recorded as *made* and not as content → personnel effect, including anybody who afterwards proposed seeking access → duration → management condition. Viderehan and Ferrehan only; nothing said by the Lock is transcribed at any stage, including during an activation.
 ## M.A.W. Equipment
@@ -211,7 +204,7 @@ Escalation here is hardening. Record the hardness at onset, the whisper rate, th
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that quivers when raised.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and all but colourless, that shivers faintly as it is raised and cools in the hand while it is aimed.
 
 **Damage:** Void 7-12
 **Speed:** 3 (Fast)
@@ -219,7 +212,7 @@ Escalation here is hardening. Record the hardness at onset, the whisper rate, th
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Memory Lock's void signature in the strike.
+**Ability:** Deals Void damage against the Soul — identity, memory and sense of self — and carries the source's signature: the strike does not take a memory so much as put it out of reach, and the target can still name exactly what has gone.
 
 **Cost:** The wielder loses small, nameless memories with each use.
 
@@ -227,7 +220,7 @@ Escalation here is hardening. Record the hardness at onset, the whisper rate, th
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and all but colourless, that lies cold on the skin and leaves the wearer's outline slightly out of focus under a lamp.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -237,7 +230,7 @@ Escalation here is hardening. Record the hardness at onset, the whisper rate, th
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Memory Lock's kind of pressure.
+**Ability:** Turns Void damage aside from the Soul — identity, memory and the sense of the self — which is the pressure this holding applies and the only kind it has. The veil is the piece the armoury is least uneasy about, concealment of the person being what the vault already does.
 
 **Cost:** The wearer feels faintly absent to themselves.
 
@@ -245,15 +238,15 @@ Escalation here is hardening. Record the hardness at onset, the whisper rate, th
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a key-charm of Void Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
+**Appearance:** a key-charm of Void Han-glass, near-translucent and all but colourless, that runs cool as the vault is approached and does not warm again on the stair.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 on this holding's work and nothing anywhere else on the register: the charm answers the vault's own register, and it goes out with the watch that intends to stand still.
 
-**Ability:** Unlocks one sealed memory.
+**Ability:** Opens one sealed memory, once, for the bearer alone; the vault records the withdrawal and the plate never closes the same way twice.
 
-**Cost:** The user sacrifices one personal memory as payment.
+**Cost:** The bearer pays with a memory of their own, chosen by the plate and not by them, and the exchange does not reverse: the key opens, and something of the bearer's becomes unavailable in its place.
 
 *The Secret Key is not manufactured and cannot be requisitioned; the Lock confers it rarely, and in every recorded case on a worker who had declined an opportunity to learn something they were entitled to learn.*
 
@@ -267,10 +260,10 @@ All three pieces hold rather than reveal: they conceal what the wearer carries, 
 |---|---|
 | **Before use** | Wielder, grade, gauge, state, condition of the piece, the objective, and the name of the colleague who will be told what the wielder is doing. The last field exists because this set removes the wielder's capacity to be read. |
 | **During use** | Activation time, effect strength, what was concealed and from whom, and the first cost noticed by the named colleague rather than by the wielder. |
-| **At limit** | Duration, activations, attribute movement, rejection signs, and whether the wielder has withheld something they had no reason to withhold. |
+| **At limit** | Duration and activation count, movement in the attributes, any rejection sign, and the field this set adds: whether the bearer has withheld something they had no reason to withhold. |
 | **After use** | Removal, injuries, lingering effects, cooldown, repair need, reuse authorisation, and a debrief taken by the named colleague at the bay door. |
 
-**Stat interpretation:** Grade states concealment strength and nothing about the thing this set takes, which is legibility. A wielder from this source performs well, reports accurately, and becomes progressively harder for a team to read; the armoury's objection to it is that nothing in the rating says so. Read both columns and authorise on the second.
+**Stat interpretation:** Grade states how well a piece conceals and says nothing about what the set takes, which is legibility: a wielder from this source performs well, reports accurately, and becomes steadily harder for a team to read. Read the cost column, and treat a bearer's account of a shift as partial by design rather than by any dishonesty.
 
 ## 관찰 기록 (Observation Log)
 
@@ -299,7 +292,7 @@ All three pieces hold rather than reveal: they conceal what the wearer carries, 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Memory Lock (C-IIIγ-300 [D]) is logged as a Object-Void manifestation expressing Void. The Lock formed from memories sealed by the Keepers. Held at SECTOR-A-01, Alpha Tree deep vault. It seals memories rather than physical objects alone.
+Memory Lock (C-IIIγ-300 [D]) is an Object-Void manifestation expressing Void, formed from material the Keepers sealed under an instrument that survives and does not describe what it sealed. It is held at SECTOR-A-01 in the Alpha Tree deep vault, and it seals memories rather than objects: what is put behind the plate is kept, and it is still there.
 
 **Entry 2 — <Aggression Strengthens It>**
 Aggression strengthens its purpose.
@@ -315,45 +308,45 @@ Memory Lock sits in the deepest vault beneath the Alpha Tree — massive, ancien
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Memory Lock; the other feeds it.
+> Two ways to close a watch at the vault, and the difference between them is not what the worker learns but what the vault records about them: one standing still, the other with a hand on the plate.
 
-| Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. | Do the obvious, decent thing instead, and feed Memory Lock. |
+| Stand at the marked position and leave the seal shut — Viderehan and Ferrehan only, whisper marks entered without content, debrief taken at the bay door. | Try the obvious, decent thing: test the plate, look for the key, reason aloud about what the keepers would have wanted — which is how the plate hardens, and it does not come back down. |
 |---|---|
-| Tests whether the worker can stand before a secret without opening it. The sorrow is seen clearly; Memory Lock is fully recorded. | Reveals the nature of what it protects. The gauge climbs and Memory Lock withdraws without revelation. |
+| The sealed thing keeps its secret and the watch is recorded complete: hardness steady, whisper rate logged without content, and a worker who reaches the top of the stair still knowing why they went down. | Curiosity is answered with a whisper, the plate hardens by the largest increment in the series, and the record closes with the worker wanting the rest of it. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-The Lock is cold and smells faintly of tears. It has no keyhole, yet it feels like it is waiting for one. You press your hand against the seal and hear a memory breathing behind it. The secret is not calling you. Your curiosity is.
+The Lock stands cold at the end of the vault and smells faintly of tears. There is no keyhole on the plate anywhere, and the hand goes to the place one would be before the mind can object. Put a palm flat against the seal and something behind it takes a breath. The secret is not calling; the wanting is your own, and the file says so in those words.
 
 
 
-**At first contact:** Cold crystal, the smell of ash, and the distinct sense of a door you never opened. There is no keyhole and the hand goes to where one should be anyway; every first-visit account in the file mentions it.
+**At first contact:** Cold crystal, the smell of ash, and the distinct sense of a door nobody has opened. No keyhole — and the hand still goes to where one would be, which every first-visit account in the file mentions and the file has stopped explaining.
 
-**With continued exposure:** The question starts to seem important. Not urgent and not forbidden — important, in the ordinary way that unfinished work is important — and workers begin to think about who would have to authorise what, and in what order.
+**With continued exposure:** The question starts to read as important rather than urgent or forbidden — important the ordinary way unfinished work is important — and workers catch themselves working out who would have to authorise access, and in what order, well before the shift turns.
 
-**When the entity activates:** Somebody has touched it and said something true, and one sealed memory comes through the plate as sound. It lasts as long as it lasts. What follows is the recorded risk: the listener wants the rest, and wanting the rest is the thing that hardens the lock.
+**When the entity activates:** Somebody has touched the plate and said something true, and one sealed memory comes through as sound. It lasts exactly as long as it lasts. What follows is the risk the file records: the listener wants the rest of it, and wanting the rest is what hardens the plate.
 
-**After departure:** Workers go up the stair and lose the errand. Not the shift and not the day — the reason they went down, specifically, which is why the debrief is taken at the door while the answer is still available.
+**After departure:** Workers reach the top of the stair without the errand. Not the day and not the shift — the specific reason they went down, which is why the debrief is held at the bay door while the answer is still on them.
 
 ### Interaction Pattern
 
-Memory Lock does not exist in isolation. Its recorded relationships with The Burning Library, The Memory Weaver, The Final Door should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three records are kept beside this one — The Burning Library, The Memory Weaver and The Final Door — and none of the three is an alliance. All of them are hard to measure for the same reason: the instrument responds to the interest of whoever is taking the reading, so a pairing partly measures the researcher. When another entity is on the level, the entry records whether what moved was the Lock or the crew.
 
-**Interaction method:** Baseline each party alone across a long series; hardness rises with attention from anybody present, so a paired reading taken without a solo control measures the researchers. Log the first mutual change with its distance, duration and trigger, the gauge movement on both sides, the effect on hardness and whisper rate, and whatever persists after separation. Re-verify each cycle; a Sorrow Tide or a transformation has overturned settled readings in Zone A before.
+**Interaction method:** Baseline each party alone across a long series, because hardness rises with any attention at all and a paired reading taken without a solo control measures the researchers rather than the entities. Log the first mutual change with distance, duration, trigger, both gauges and whatever holds afterwards — then re-take the solo baseline, which has moved.
 
 
 ### Entity Interaction Record
 
-This holding is read against the other things in Zone A that hold, seek, or refuse. The relations below have been observed and filed and none is settled; all three are hard to measure here, because the instrument responds to the interest of whoever is taking the reading. A result obtained once carries no authority during a Sorrow Tide, an Ordeal, or a transformation event.
+The Lock is read against the other things in Zone A that hold, seek or refuse. The three rows below were observed and filed and none of them is settled; each was difficult to take, and the file gives the reason in the same breath — the vault gets harder while it is being watched.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Record read alongside | What the two do when the vault is on the level | What the series actually showed | Entry the file requires |
 |---|---|---|---|
 | **The Burning Library** | The Library holds pages about the vault — about the sealing, not about the contents, a distinction the file insists on. | Four co-presences. The hardness rose on three of the four and the exception was the one approach conducted by staff who had not read the instrument, which the wing treats as the most useful result the pairing has produced. | The four co-presences, with hardness series and the reading history of each team. |
 | **The Memory Weaver** | The Weaver seeks what is behind the plate, which is the only filed instance of another entity wanting access. | Two approaches under authorisation. The hardness rose on both, by the largest increments in the series, and did not come back down. No further approach has been sought and the wing has entered a standing refusal. | Both approaches, the two increments, and the standing refusal with its reasons. |
 | **The Final Door** | Both refuse to disclose what is beyond them, which is a resemblance and not a relationship. | Three co-presences, no measurable effect in either direction. The file records that the pairing is proposed by new staff more often than any other and keeps the null for that reason. | The three co-presences and the standing note on why the pairing keeps being suggested. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Study each record alone before bringing two of them near each other, since behaviour has to be established before interaction complicates it. Then enter the first shared change — distance, duration, trigger, gauge movement on both sides, effect in the bay, and whether it survives separation — and re-take the solo baseline, because by then it has moved.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -401,9 +394,9 @@ Some sorrows mourn what was lost. Memory Lock mourns what is known and kept — 
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is one layer of the holding's record, read against the classification, the Combat Record and the equipment profile. What governs is small and strict: a fixed Object-Void holding in the Alpha Tree deep vault, 574 points of gauge that open full and trip at 75 per cent, escalation that hardens rather than spreads, and a condition that is a worker standing still. Where behaviour departs from this file, the departure is the most important thing about the holding and is kept as evidence rather than tidied.
 
-**Review requirement:** After any activation, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every activation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify the gauge, the containment field, the exposure log and the location after any activation, expansion, transformation or anomaly — and re-take the hardness series at the marked point, because on this holding the number moves while it is being read and a stale series is a false one.
 ## Warden Record
 
 ### Hardening Against Curiosity
@@ -456,15 +449,17 @@ Rescue's objection is minuted at every review and has never been withdrawn. A fa
 
 ## Trivia
 
-- It has no visible keyhole.
-- It protects the decision to conceal as much as the memories themselves.
+- Look-up figures for this file, kept in numerals so the row matches the case sheet: gauge 574/574, pressure 14–31 per hit, resistance 35 / 25 per cent, threshold 75 per cent, 12 turns, and the weapon's 7–12 at 40 Echoes.
+
+- It has no visible keyhole anywhere on the plate, and the hand goes to the place one would be before the mind objects.
+- What it protects is the decision to conceal as much as the memories themselves: the seal was cut for the choice, and the choice is older than anything standing behind it.
 
 
 
 ### Registry Trivia
 
-- **Classification detail:** Memory Lock is an Object/Place with Fragment (III) — Protective and secretive coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Void, and its registered location is SECTOR-A-01, Alpha Tree deep vault.
+- **Classification detail:** Object/Place on Fragment (III) coherence — protective and secretive — at Major (γ) potency, a band carried by what it does to the people who tend it and not by anything it does itself.
+- **Field detail:** Void is its element and the Alpha Tree deep vault its registered ground — SECTOR-A-01 — where it stands on a vault face with no door onto any corridor.
 - **Recognition detail:** Identify it by the fused keyhole and the turning clouding; never by the whispering, which is constant and tells an observer nothing they are permitted to use.
 - **Record detail:** This file should be read with the sealing instrument, the review minutes and the cutting assessment beside it; the containment is small and the paperwork around it is the holding.
 - **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.

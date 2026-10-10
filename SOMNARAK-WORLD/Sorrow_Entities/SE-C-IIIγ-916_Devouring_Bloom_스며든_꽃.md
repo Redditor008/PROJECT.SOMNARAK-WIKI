@@ -28,19 +28,19 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle, entered against the front reading taken at the same time rather than against the shift; in 9 years the section has produced only a few hundred usable front figures, which is why the yield is quoted as a range and not as a rate. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | γ · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | All four Work Types are valid; it is a Subject and is worked as one. Viderehan and Ferrehan lower or hold the gauge, Flerehan is permitted at the growth front only, and Pugnahan raises it and breaks petals. |
+| **Recommended response** | All four Work Types are valid; it is a Subject and is worked as one. Viderehan and Ferrehan lower or hold the gauge; Flerehan is permitted at the growth front only, and the section is walked with a tunnel engineer rather than alone; Pugnahan raises it and breaks petals, and every petal handled is entered by name. |
 
 ### Operational Notes
 
 - The Bloom opens in the deep tunnels where there is no light, and it closes around what is nearest rather than what moves.
 - A completed cycle slows the opening. The Bloom is not reduced, and the tunnel recovers nothing it has taken.
-- Viderehan and Ferrehan are the valid approaches to the site.
+- Viderehan and Ferrehan are the valid approaches to the site; Flerehan is confined to the front, and Pugnahan is barred because it raises the gauge and breaks petals that then have to be weighed against what they remembered. |
 - No breach counter applies. The growth front advances along the tunnel, and its position is marked at every session rather than estimated.
 - Residue from the growth front is the extraction source, under separate authorization.
 
@@ -209,13 +209,13 @@ Escalation here is advance and load. Record the front at onset and at close agai
 | **Effect** | Crushing pressure descends, bearing down on resolve. |
 | **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
 | **First Target** | Whoever is downwind. The spores arrive before the bloom does, and infestation sets the order of casualties. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
+| **Escalation** | Each turn the bloom is left unworked its pressure grows and Resolve drain rises by 5. The bloom itself is slow; the counter is not, because the gauge climbs by 10% per worker infested rather than per turn, so a section holding 4 people climbs faster than the shift does. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
 - **Containment priority:** Seal ventilation first and suppress second. Blocking its path without controlling airflow spreads the infestation faster.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per worker infested rather than per turn; the bloom itself is slow.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per worker infested rather than per turn. The front has never moved faster than the record of who was standing inside the section, and every petal handled is logged by name — a handled petal weighs what the person it remembered weighed, which the engineers' scale has confirmed and the file does not soften. |
 
 ## M.A.W. Equipment
 
@@ -225,7 +225,7 @@ Escalation here is advance and load. Record the front at onset and at close agai
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that weeps a thin film of Han when swung.
+**Appearance:** a two-handed maul of Weight Han-steel, matte and heavier than its length suggests, that weeps a thin film of Han when swung. Weight is this holding's signature and the set carries it openly: the head is the first thing the hand notices, and the first-lift figure is filed with the piece, because no bearer has yet guessed it correctly.
 
 **Damage:** Weight 10-15
 **Speed:** 3 (Fast)
@@ -233,15 +233,15 @@ Escalation here is advance and load. Record the front at onset and at close agai
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Devouring Bloom's weight signature in the strike.
+**Ability:** Deals Weight damage against the Han — the sorrow reserves and the karmic debt — and channels the bloom's signature in the strike. The target carries the mass of what it has refused to put down, read off the same scale the section's engineer uses on the petals.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder feels progressively heavier and the progression is filed against the front reading rather than the calendar; prolonged use ages them slightly, and the sign the armoury watches for is the bearer beginning to hand nothing back at the end of a task.
 
 ### M.A.W. Suit — Devouring Bloom Mantle
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a draped mantle of Weight Han-weave, matte and heavier across the shoulders than the fabric explains, that tightens near the source element — at the front it draws in of its own accord, and the wearer is logged the first time it does.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -253,17 +253,17 @@ Escalation here is advance and load. Record the front at onset and at close agai
 
 **Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Devouring Bloom's kind of pressure.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** The wearer carries a constant low fatigue that rest does not lift, and the charge the armoury actually files is this set's signature one: the wearer begins keeping objects — memorial objects especially — and cannot afterwards explain holding on to them.
 
 ### M.A.W. Stigma — Devouring Bloom Key
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a key-charm of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a key-charm of Weight Han-steel, matte and heavier than a key has any business being, that grows cool near its source sorrow; along the deep-tunnel sections it is what a patrol notices first, before the petals are in view.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 while working this holding, and it does not travel. The charm is read against the front, and what makes it useful there — what a thing weighs against what it is remembered to weigh — is the bloom's own signature and nothing else's.
 
 **Ability:** Heals minor wounds through touch.
 
@@ -281,10 +281,10 @@ All three pieces are made of the same crystal as the petals and behave the same 
 |---|---|
 | **Before use** | Wielder, grade, gauge, state, condition of the piece, the objective, and confirmation that the wielder is not carrying anything taken from the tunnels. The last field is checked by a second person at the shaft head. |
 | **During use** | Activation time, effect strength, the area held, the load added to the surrounding structure, and the first cost noticed by anybody else present. |
-| **At limit** | Duration, activations, attribute movement, rejection signs, and whether the wielder has begun refusing to hand things over at the end of a task. |
+| **At limit** | Duration, activations, attribute movement, rejection signs, and whether the wielder has begun refusing to hand things over at the end of a task — the last of those being the limit the armoury treats as this set's own, since it is also the shape of every dispute filed against it. |
 | **After use** | Removal, injuries, lingering effects, cooldown, repair need, reuse authorisation, and a search of the wielder's kit conducted with their consent and in their presence. |
 
-**Stat interpretation:** Grade states the load a piece can carry and nothing about what it keeps. This set has never failed structurally and has produced more property disputes than any other in the armoury, all of them over objects the wielder could not explain holding on to. Read both columns and authorise on the second.
+**Stat interpretation:** Grade states the load a piece can carry and nothing about what it keeps. This set has never failed structurally and has produced more property disputes than any other in the armoury, all of them over objects the wielder could not explain holding on to. Read both columns and authorise on the second: here the stat line is a capacity and the cost column is a behaviour, and the behaviour is re-tested at every return.
 
 ## 관찰 기록 (Observation Log)
 
@@ -313,7 +313,7 @@ All three pieces are made of the same crystal as the petals and behave the same 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Devouring Bloom (C-IIIγ-916 [N]) is logged as a Object-Weight manifestation expressing Weight. The Flower formed from sorrow preserved as weight. Held at Zone B, deep tunnels. Its petals grow toward memorial objects.
+Devouring Bloom (C-IIIγ-916 [N]) is an Object-Weight manifestation expressing Weight, formed from sorrow preserved as weight and fed by grief deposited without release. Held at Zone B in the deep tunnels, where it is read as a front rather than as a body: the petals push through the floor and the walls behind it and grow toward memorial objects, and the front is reported against cut wall marks twice over, by the Warden and by the engineer, and the 2 series are filed unreconciled.
 
 **Entry 2 — <Heavier After the Tunnels>**
 It becomes heavier after tunnel deaths.
@@ -325,11 +325,11 @@ The burden of carrying grief until it becomes beautiful but impossible to move.
 Work response — Viderehan: Reveals the sorrow attached to each petal. (Stable); Ferrehan: Tests whether the worker can bear its growing weight. (Decrease). Personnel report longing after exposure.
 
 **Entry 5 — <The Architect Who Built>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+What the file keeps here is not a story but a pair of series. In 9 years the section has produced only a few hundred usable front readings, taken against the cut marks by a Warden and independently by a tunnel engineer, and the 2 have never been reconciled — the divergence is kept rather than smoothed, because the section's position is that a single paired reading cannot be attributed to anything. The one figure that has never diverged is weight: a petal handled at the front weighs what the person it remembered weighed, and the engineers' scale has confirmed it every time it has been asked.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Devouring Bloom; the other feeds it.
+> Two ways to end the same watch. One is the resolution on file — work the front carefully, at the bloom's own pace, and never force it — and the other is the answer a section crew gives when the tunnel is wanted back and the petals are still opening.
 
 | Witness the memories and prevent unauthorized petal collection — as written, without improvising. | Try Pugnahan instead, which is the one response this holding has never tolerated. |
 |---|---|
@@ -346,28 +346,28 @@ A flower opens in the tunnel floor, then another opens along the wall. The petal
 
 **With continued exposure:** The weight gets into the section rather than into the worker. Footsteps sound wrong, the floor gives differently, and the engineers walking alongside begin taking readings they had not planned to take.
 
-**When the entity activates:** It closes on whatever is nearest rather than on whatever moves, which means standing still is not a defence and has never been one. Then it roots, and the feeding is slow, and the weight accumulates in the stone around it for as long as it stays.
+**When the entity activates:** It closes on whichever thing is nearest, not whichever thing moves — standing still has never been a defence here — and then it roots, feeds slowly, and the weight settles into the stone around it for as long as it stays. The floor condition within 2 metres is entered at every visit for exactly that reason.
 
 **After departure:** The longing comes up the shaft with the worker. It attaches to nothing in particular, lasts a few days, and is worst in people who handled a petal — which is one of the two reasons the handling rule exists, the other being the fine.
 
 ### Interaction Pattern
 
-Devouring Bloom does not exist in isolation. Its recorded relationships with The Sorrow Flower, The Broken Whisper, The Debt Wall should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Devouring Bloom is read beside the 3 holdings the file has paired it with — The Sorrow Flower, The Broken Whisper and The Debt Wall — and none of the 3 is treated as an alliance or a hostility: they are resonance candidates, filed as such. In a shared event the team records whether anything changes at all in front rate, petal count, floor condition, gauge, or the weight the stone is carrying, and the standing note is that a resemblance is the reason a pairing was proposed, not a finding that came out of one.
 
-**Interaction method:** Baseline each party alone over a long series; the front here advances on its own schedule and a single paired reading cannot be attributed to anything. Log the first mutual change with its distance, duration and trigger, the gauge movement on both sides, the effect on the front, and whatever persists after separation. Re-verify each cycle; a Sorrow Tide or a transformation has overturned settled readings in the Zone B tunnels before.
+**Interaction method:** Baseline each party alone over a long series first — the front advances on its own schedule, and a single paired reading cannot be attributed to anything — then log the first mutual change with its distance, duration and trigger, the gauge movement on both sides, the effect on the front, and whatever persists after separation. Re-verify each cycle.
 
 
 ### Entity Interaction Record
 
-This holding is read against the other things that accumulate and will not be cleared. The relations below have been observed and filed and none is settled; all three are slow, which makes them easy to measure and easy to over-interpret, since nine years of this holding's own record contains only a few hundred usable front readings. A result obtained once carries no authority during a Sorrow Tide, an Ordeal, or a transformation event.
+This holding is read against the other things in Somnarak that accumulate and are never cleared, and the 3 rows below are filed points of contact rather than alliances: none is settled. All 3 are slow, which makes them easy to measure and just as easy to over-interpret — 9 years of this section's record holds only a few hundred usable front readings, and a result obtained once carries no authority during a Sorrow Tide, an Ordeal or a transformation.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Paired holding | Stated basis for the pairing | Co-presence result | Required entry |
 |---|---|---|---|
 | **The Sorrow Flower** | A resemblance that has repeatedly been mistaken for a relationship, including in two survey reports. | Five co-presences, no measurable effect on the front, the weight at the front, or the gauge in either direction. The wing's note is that the two have nothing in common but a shape. | The five co-presences and the standing correction to the survey reports. |
 | **The Broken Whisper** | Both hold what was said to the dead, which is a description of their origins and not of any observed exchange. | Three co-presences. No transfer, no amplification, no change in front rate; the Whisper's own series was likewise unaffected. | The three co-presences and both unchanged series. |
 | **The Debt Wall** | Both accumulate and neither releases, and both totals have only ever risen. | Four co-presences with no cross-effect. The file is explicit that two holdings whose numbers both rise are not thereby connected, a caution added after an inquiry treated the parallel as evidence. | The four co-presences and the inquiry correction. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Individual observation precedes interaction study: the front is baselined from the cut marks by both the Warden and the engineer before anything is brought near, and the 2 series are filed unreconciled. Then record the first shared change — its distance and duration, the trigger, the gauge movement on both sides, the effect on the front, and whether anything remains after the parties are separated, which across the 12 co-presences on file nothing has.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -410,14 +410,14 @@ Some sorrows are meant to pass. Devouring Bloom is a sorrow that, crystallized b
 - Formed from memorial petals left below ground by tunnel workers and crystallised by the Han while the practice was still running.
 - It grows when fresh grief arrives below ground and has never been recorded shrinking.
 **Cross-References:** Zone B tunnels · the burial society minutes · the destruction notices · the engineers' section survey
-**Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
+**Faction Involvement:** SED, on the B-territory exploration whose deep-tunnel sections this front runs through · UCD, on the Fray-adjacent zone boundary · Wound Walkers, on Fracture-relevant screening of the crews working the front.
 **Originator:** Tunnel workers who left petals for colleagues lost below; the subscribers are named in the society's minutes and the dead are recorded only as a count.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification is the frame and this record is the picture, and on this holding the picture is a pair of series: front position against the cut marks, read independently by a Warden and by a tunnel engineer, filed side by side and never reconciled. The counts that govern are 16–22 Han-Energy per successful cycle, an opening gauge of 40% that rises 10% per worker infested, and 9 years of front readings that number only in the few hundreds. Where the record and this file disagree, the record is right and the divergence is kept as evidence rather than corrected.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after every breach, expansion, transformation attempt or unusual interaction: the front against its cut marks, both series and the divergence between them, the open petal count, floor condition within 2 metres, the gauge, the register of everyone who stood inside the section, and every petal handled and by whom. What was true at the last reading may not be true at this one, and the file is explicit that its own record describes a living sorrow pattern rather than a permanently complete explanation.
 ## Warden Record
 
 ### Petals Through the Floor
@@ -482,10 +482,10 @@ The engineers' objection is minuted at every annual review. The penalty has remo
 ### Registry Trivia
 
 - **Classification detail:** Devouring Bloom is an Object/Place with Fragment (III) coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is Zone B, deep tunnels.
+- **Field detail:** Element Weight, registered to Zone B in the deep tunnels, where containment is a front rather than a perimeter: position is read against the cut wall marks, root-legs are counted, and the floor condition within 2 metres goes into the record at every visit.
 - **Recognition detail:** Identify it by the petals in the floor and walls behind it rather than by the bloom, which is not always where it was and is not always open.
 - **Record detail:** This file should be read with the destruction notices and the engineers' survey beside it; the containment is a structural matter as much as a sorrow one, and the two are not reconciled anywhere on purpose.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** It does not need to breach to be dangerous, and containment here limits movement rather than influence: the front is slow and the sorrow is not. The section's own figure for this is the petal — a handled petal weighs what the person it remembered weighed, which is why every one is logged by name before anything else is done.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-916

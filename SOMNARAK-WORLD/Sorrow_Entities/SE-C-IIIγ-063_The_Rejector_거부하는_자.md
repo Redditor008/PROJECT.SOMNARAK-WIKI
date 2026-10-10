@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Void pressure; 25% against other pressure types |
+| **Resistance** | 35% against Void pressure; 25% against anything else, and the second figure is arithmetic on this holding — nothing here has ever struck hard enough for the difference to be tested. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 739/739 |
 | **Han Pressure [ATK]** | 12–28 per hit · Void |
@@ -78,17 +78,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Pushed Hand* [**Debuff**] } | "It raises a hand — palm out — and the gesture erases you from the world's attention." | [The Rejector denies the target's existence; reality begins to forget them.] | *Target suffers a Void mark; they are being rejected by existence.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches. |
-| { *The Denied Name* [**Debuff**] } | "It refuses to say your name — and the refusal makes the name start to fade from your own memory." | [The Rejector's denial erodes the target's identity.] | *Target loses clarity; they are becoming unnamed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target introduces themselves. |
-| { *The Rejected Blow* [**Attack**] } | "It bats your attack aside — not with force, but with refusal. The attack was never real." | [The Rejector negates then strikes; the target's own rejected force rebounds.] | *Inflicts Void damage; the rejected portion is erased.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target attacks. |
-| { *The Total Denial* [**Attack**] } | "It denies everything you are — and the denial is so complete that parts of you simply stop existing." | [The Rejector unleashes full existential rejection.] | *A heavy Void negation; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Rejector is cornered. |
-| { *Everything Rejected* [**Ultimate**] } | "Now it rejects everything — the room, the people, the air — and the rejection leaves only void." | [The Rejector extends its denial across the whole field.] | *All in range suffer Void erosion for three turns of total rejection.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Pushed Hand* [**Debuff**] } | “The palm comes up flat, unhurried, and the room goes on without you in it.” | [He declines the target's presence the way he declines a ledger line — completely, without heat and without discussion.] | *A Void mark; the target's next hour is unaddressed — nothing they say is answered and nothing they ask is refused — and the file records the second as worse.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target steps into the third of the cell he keeps. |
+| { *The Denied Name* [**Debuff**] } | “He will use your rank, your post, your function — anything that is not the name you gave him.” | [A name not accepted into the exchange does not come back whole.] | *Target loses clarity; by the close of the watch they cannot say whether they were introduced, or to whom.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target gives their name. |
+| { *The Rejected Blow* [**Attack**] } | “The strike is not answered and not turned aside; it is not accepted, and the register will record that it never arrived.” | [The refusal turns a hit into something that never reached him — the mechanism the Shield carries, worked outward.] | *Inflicts Void damage; the force of the rejected strike comes back off him, and the worker takes their own committed weight.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target strikes. |
+| { *The Total Denial* [**Attack**] } | “The order, the reason, the name, all at once — and the asking leaves nothing behind that could be refused.” | [The refusal widens until the chamber is included in it.] | *A heavy Void negation; the target's Sorrow Gauge surges 15% as their own obligations surface in the silence.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When more than one person tells him what to do at once. |
+| { *Everything Rejected* [**Ultimate**] } | “The chamber goes quiet the way his corridors go quiet: colour flat, sound thin, and nobody in it able to say what they last wanted.” | [He extends the refusal to the air, the light and the people, because a refusal needs something to refuse.] | *All in range take Void erosion for three turns of total rejection.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies The Rejector by him by the weight deficit and the posture; never by the refusal, which the other two Triplets can also produce under pressure, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** The team identifies him by the weight deficit from the cell scale and by the posture — upright, facing the door, in the same third of the cell — and never by the refusal, which the other two Triplets can also produce under pressure. Confirm the designation, seat the pair, and put the register on the table before anything is put to him.
 2. **Clash:** Twelve turns, conducted seated, with no instruction given and no question repeated. The register-keeper writes in the room throughout. A turn in which anybody tells him to do anything is logged as void and the sequence restarts.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Permit him to refuse; forced acceptance increases resistance**.
+3. **Resolution:** The watch closes when the gauge has fallen and nothing was asked that could be refused; the register entry is the record of the closing, and the file's condition is the whole of it: **Permit him to refuse; forced acceptance increases resistance**. A session in which anybody told him to do anything is entered as void and run again.
 
 ### Consequences
 
@@ -160,11 +160,11 @@ The Rejector is a Subject with Subject-Body manifestation and Void expression, h
 | **Effect** | Definition drains out of the corridor around him: colour flattens, sound thins, and personnel lose the memory of what they said to him within the hour. |
 | **Secondary Effect** | An absence that eats the edges of reality. |
 | **First Target** | Whoever attempts to give him an instruction. Refusal requires something to refuse. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
+| **Escalation** | Only one thing escalates this holding: an instruction. Clarity drains 5 per turn for as long as somebody is telling him what to do, and stops the moment the corridor is cleared of anyone who has a reason to manage him. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
+- **Breach type:** Escape — he walks out and stands in a corridor. Nothing on this holding has ever breached by force, and the standing order is written around that distinction. |
 - **Containment priority:** Issue no orders, open the route, and post nobody in front of him. He has never breached by force, cannot be driven, and returns on his own once the corridor is empty of people trying to manage him.
 - **Sorrow Gauge on breach:** Opens at 25%, the lowest of the Triplets, and rises only when he is commanded. An uncommanded Rejector stalls in place.
 
@@ -176,7 +176,7 @@ The Rejector is a Subject with Subject-Body manifestation and Void expression, h
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that pulses with the source sorrow when drawn.
+**Appearance:** a disc of Void Han-glass ground flat on one face, nearly without colour, that shows whatever is held up to it one degree less clearly than it is and returns nothing at all to the bearer who looks into it.
 
 **Damage:** Void 7-12
 **Speed:** 3 (Fast)
@@ -184,15 +184,15 @@ The Rejector is a Subject with Subject-Body manifestation and Void expression, h
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Rejector's void signature in the strike.
+**Ability:** Deals Void damage against the Soul — identity, memory, the sense of self — in the way the source holding deals it: the blow is not answered, it is declined, and what the target does not get back is the part of the swing they put themselves into.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** Each use takes a small, nameless memory from the wielder — a name half-heard at a briefing, the arrangement of a room they worked in last year — and the lens does not distinguish correct use from incorrect; the toll is paid either way.
 
 ### M.A.W. Suit — The Denial Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a veil of Void Han-gossamer, close to colourless, that lies across the shoulders like a second shadow and does not move when the wearer does.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -202,40 +202,40 @@ The Rejector is a Subject with Subject-Body manifestation and Void expression, h
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against The Rejector's kind of pressure.
+**Ability:** The wearer's Soul is harder to reach with Void pressure, which is the only pressure this set was cut against; the veil reads as absence at the edges, and the file records no other use for it.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** the wearer begins to feel unaddressed — present in the room and uncalled-for in it — and the second worker, never the wearer, is the one who can see it start.
 
 ### M.A.W. Stigma — The Denial Shield
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a shield-pendant of Void Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a pendant of Void Han-glass, cut small and left almost without colour, that warms in the hand at a chamber door and cools once the watch is seated.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to the working stat against the source holding, and nothing against the two Triplets he is held with.
 
 **Ability:** Rejects incoming damage as if it cannot accept the impact.
 
 **Cost:** The wearer cannot accept help, healing, or emotional support.
 
-*The Denial Shield is not issued and cannot be requested. It has been conferred twice, both times on a worker who sat a full Ferrehan watch without once telling him anything.*
+*The Shield cannot be requested and is not issued. Twice in nine years it has been conferred, both times on a worker who had sat a full Ferrehan watch and told him nothing.*
 
 ### M.A.W. Use Notes
 
-A piece cut from The Rejector is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder loses small, nameless memories with each use, and it is paid whether the use was correct or not.
+A piece cut from him works by refusal the way the holding does, and it is not selective about what it declines: the toll column is the register's subject, read from the other side. Nothing in the set has ever returned a small memory it took, and the second worker's count is the only thing standing between a rotation and a habit.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, The Rejector's toll being that the wielder loses small, nameless memories with each use. |
-| **During use** | Every occurrence of what The Rejector takes (the wielder loses small, nameless memories with each use), timed. One is noted; a pattern across a shift ends the use. |
-| **At limit** | The wearer feels faintly absent to themselves, and the wielder has stopped reporting it — the usual end point for a The Rejector piece. The observer calls the limit. |
-| **After use** | Piece returned; re-assess a week later, because what The Rejector takes (the wearer feels faintly absent to themselves) does not present on the day. |
+| **Before use** | Wielder, piece, gauge, and a sealed note of three small things the bearer can name today — a name, a place, an arrangement — held by the second worker as the baseline the toll is read against. |
+| **During use** | The bearer is asked for the three things at the shift's end, and the first that will not come is entered with the hour. One is noted, two ends the rotation; the question belongs to the observer, because the bearer will not notice. |
+| **At limit** | The wearer stops answering to the three things and stops mentioning that they cannot — on this set that combination is the limit, and the observer calls it rather than the wearer. |
+| **After use** | Take the piece back, reconcile against the sealed note, and re-assess at a week: what the set declines to give back does not present on the day, and two returns have been logged a week late. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade records how cleanly the refusal came off the holding, not what the piece declines on the bearer's behalf. On this set the cost is not graded at all — the lens takes what it takes, the veil hides the takings from the wearer, and the Shield has twice been conferred on the strength of a watch in which nothing was offered at all. |
 
 ## 관찰 기록 (Observation Log)
 
@@ -266,7 +266,7 @@ A piece cut from The Rejector is not ordinary equipment: it works by being a par
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Rejector (C-IIIγ-063 [VS]) is logged as a Subject-Body manifestation expressing Void. The Rejector formed from the son's refusal to accept a debt he did not create. Held at SECTOR-C-01, contained with the Debt Triplets. The Rejector's refusal is not anger; it is emotional vacancy.
+Containment description for C-IIIγ-063 [VS], the holding called The Rejector: a Subject-Body manifestation expressing Void, formed from a son's refusal to accept a debt he did not create, and held at SECTOR-C-01 with the other two Debt Triplets. The refusal is not anger and it does not fluctuate; it is vacancy, kept flat by the register, lowered only by saturation and a clock, and protected by a standing exemption that forbids anybody in the room to issue an instruction, including the person in charge of it.
 
 **Entry 2 — <Empty-Eyed and Defiant>**
 Walks slowly through the facility, empty-eyed and defiant. Personnel feel the weight of denial and refusal. Exposure produces empathy in observers even when the entity resists connection.
@@ -277,16 +277,16 @@ The emptiness produced by denying every obligation before it can claim you.
 **Entry 4 — <Permit the Refusal>**
 Management: Permit him to refuse; forced acceptance increases resistance.  He has never breached by force.
 
-**Entry 5 — <The Lover Who Was Abandoned>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+**Entry 5 — <The Instrument and the Book>**
+The grandfather signed for a sum that was repaid twice over inside the first generation, and what survived the repayment was the custom: a private book, kept by a succession of lenders, into which a figure is entered monthly under its own rules and out of which nothing is ever demanded. The household paid into it for forty-one years without once being told what was outstanding. When the wing's legal officer applied in the fifth year for a declaration that nothing was owed, the application was refused in two courteous pages — a court will not declare the rights of parties who are not in dispute — and the son, correct about every part of it, cannot be released from a thing nobody has ever told him he owes.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Rejector; the other feeds it.
+> What the worker is being asked at the close of contact: take the watch's verdict from the register and the scale, or supply the refusal the room has been waiting for.
 
-| Permit him to refuse; forced acceptance increases resistance. | Do the obvious, decent thing instead, and feed The Rejector. |
+| Permit him to refuse; forced acceptance increases resistance — carried out by sitting out the watch, writing the refusal down in his own words while he says it, and closing on the scale and the gauge. | Settle it for him: tell him the debt is not his and that he may go, which answers the question instead of hearing it, and which the room takes as an instruction. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly; The Rejector is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Rejector withdraws without revelation. |
+| The gauge falls by whatever the clock allows, the scale is read, and the watch closes with the register as it stands. The sorrow is seen clearly; The Rejector is fully recorded. | The gauge climbs against a reasonable voice, the session is entered as void, and the sequence runs again with the issuer's name against it. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -305,16 +305,16 @@ The room feels heavy, but the young man looks empty. He does not argue; argument
 
 ### Interaction Pattern
 
-This holding is read against the other two Debt Triplets, who are his family, and against the district's other entities of obligation. Each relation below has been observed and filed, and the three family relations are not optional pairings; they are the condition of the containment.
+This holding is read against the other two Debt Triplets, who are his family, and against the district's records of obligation. Every relation below has been observed and filed, and the family rows are not optional pairings — the three are held in one sector because they degrade apart, and the commissioning list fixes the order in which their files are read.
 
-**Interaction method:** Baseline each party alone over a long series where separation permits it, which with the Triplets means minutes rather than days. Log the onset of any shared change with its range, duration and trigger, the gauge movement on all sides, and whatever persists after separation. Re-verify every cycle; a Sorrow Tide has reversed a settled dynamic in this sector before.
+**Interaction method:** Baseline each party alone first, and with the Triplets that baseline can only run for minutes — the second year's trial separation is why no further trial has been authorised. Then log the first shared change with its range, duration and trigger, the gauge on both sides, and the register question the pairing produced: what, exactly, was offered and refused. Re-verify every cycle; a Sorrow Tide has overturned a settled reading in this sector before.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. Two of the five are members of the same family as this entity, which the wing requires to be stated on the face of any summary leaving the sector.
+The relations below are points of contact rather than alliances, and none is settled; the two at the foot of the table are his family and are held in the same sector by order, while the three above them are records the archive pairs with him because the Row reads them together. The family rows are to be stated on the face of any summary leaving the sector.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Record paired | What contact looks like | What the watch measured | What stays owed |
 |---|---|---|---|
 | **The Smothering Mother** | Reaches toward him on every recorded co-presence, which is the only approach anything has ever made to this holding. | Nine co-presences. He has not moved away and has not responded; his gauge did not shift on any of the nine, and hers fell on seven. Whatever is passing is going one way and it is not going to him. | The nine co-presences, both series, and the Mother's falling gauge recorded separately. |
 | **The Forgotten Soldier** | Salutes him, once, on arrival, and then disregards him entirely. | Three co-presences. No effect in either direction on any of them. The file keeps the salute because three different Wardens reported it unprompted and in the same words. | The three co-presences, the three accounts, and the null series. |
@@ -322,7 +322,7 @@ The relations below are canonical points of contact rather than alliances. None 
 | **The Debtor** | His father, who accepted the ledger and paid into it for forty-one years. | Permanent co-presence. The two do not speak. The Debtor's gauge rises when the son is worked and falls when he is left alone, a relation the wing has measured for nine years and has never found a use for. | The continuous series for both, and every occasion on which one was worked within sight of the other. |
 | **The Inheritor** | His brother, who took the ledger on and is angry about it. | Permanent co-presence. They have never been recorded speaking or touching. Separation of more than the sector's width degrades all three, which is why no trial separation has been authorised since the second year. | The continuous series, the degradation record from the one trial, and the standing refusal of further trials. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Record each entity independently and do not pool the readings; nothing in this table is worth anything without its solo baseline beside it. Then the first shared change with its distance, duration and trigger, the gauge on both sides, the instruction count in the room during the pairing, and whether anything persisted after separation. Where the pairing is one of the two family rows, add the register question and the weight figure from the scale.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -372,9 +372,9 @@ Some sorrows are about what was taken. The Rejector's sorrow is about what was r
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Two series govern this record and only one of them moves. The register is the first: **406 entries**, written in his own words in the room while he says them, of which **3** are new in nine years. The cell scale is the second, and it has not moved either — the Warden keeps it because nobody can know in advance which constant is the one that stops being constant. Everything else follows from demand: a book that is paid into and never claims, so limitation never runs against it, which is why a liability of **41 years** is still live. The gauge opens at **25%** on a breach, falls only under Ferrehan and a clock, and rises only when somebody issues an instruction — which is why the duty to comply is suspended in this chamber and nowhere else in the facility.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify at every review: the register's entry count and its three additions, the weight series from the cell scale, the instruction log with the issuer's name against it, and whether the no-instruction exemption still stands in its narrow form. A Sorrow Tide, a transformation attempt, or a single instruction given inside the chamber invalidates the standing reading; the refusal itself is the one thing here that has never needed re-verification, having not moved in nine years.
 ## Warden Record
 
 ### Refusing Without Heat

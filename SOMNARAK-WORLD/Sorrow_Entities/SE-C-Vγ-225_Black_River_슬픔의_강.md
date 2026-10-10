@@ -81,21 +81,21 @@
 | { *The Slow Current* [**Debuff**] } | "The current takes hold gently — and you do not notice how far it has pulled you." | [The River's pull begins; the target drifts toward the deep.] | *Target suffers -10 Resolve; the current has them.* **[10 Weight DMG [Weight]]** | When the target enters the water. |
 | { *The Undertow* [**Debuff**] } | "The undertow finds your ankles — and the river wants you under." | [The hidden current drags downward; the target is pulled beneath the surface.] | *Target loses 10 Resolve and cannot surface easily.* **[10 Weight DMG [Weight]]** | When the target wades deeper. |
 | { *The Heavy Wave* [**Attack**] } | "A wave of weighted grief rolls over you." | [A slow, crushing wave of sorrow-thickened water strikes.] | *Inflicts Weight pressure and one drowning wound.* **[14-22 Weight DMG [Weight]]** | When the River is provoked. |
-| { *The Burst Banks* [**Attack**] } | "The river spills its banks — and everything it carried comes with it." | [The River overflows in a surge of accumulated weight.] | *A heavy Black deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the River is dammed or struck. |
-| { *The Sea of Sorrow* [**Ultimate**] } | "The river meets the sea — and the sea is all sorrow." | [The River expands into a sea, submerging the whole field.] | *All personnel suffer Weight pressure for three turns as the waters rise.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Burst Banks* [**Attack**] } | "The line is up and the corridor is standing water, which is the first sign anybody on a lower floor ever gets." | [A rise in the grief-line sends the water into the shafts, the corridors and the sealed basement floors along the mapped channels.] | *24–36 Weight to everything on the affected floors. Four basements were bought and sealed in the year the line ran 418, and the survey holds the seal register as the record of it.* **[24-36 Weight DMG [Weight]]** | When the line rises and a shaft is left unsealed. |
+| { *The Sea of Sorrow* [**Ultimate**] } | "The River does not reach the sea. It is the sea, and the city is standing in it." | [The current becomes total: every station sounds at once, ward-flow darkens across the facility, and the holdings downstream turn toward the sound of moving water.] | *12–20 Weight per turn for three turns to everybody in the affected wards. The ledger's oldest line records this shape: the River rose, and eleven new sorrows were found in the wards by evening.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | On a year when the unmourned portion of the city's grief rises faster than the mourning closes it. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Black River by a tone felt in the teeth and not in the ear, a line that comes up cold and dry, and a depth greater than the instrument lowered to find it, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** The station is logged, the line is run down, and the tone is taken — felt in the jaw rather than heard, and registering on no acoustic instrument in the vault. The line comes up cold and dry from water the whole crew can plainly hear moving, and that disagreement is the identification. Position is taken on the gantry, on a line, before anything else is attempted.
 2. **Clash:** From the bank, on a line, double-escorted. Viderehan reads the tone and the depth; Ferrehan is holding position at open water for the stated interval. No work type has ever returned a clean report from within arm's reach of the water and none is authorised.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Impossible. Access is sealed and the River is monitored**.
+3. **Resolution:** There is no resolution condition. The shaft is sealed, the sounding goes on the sheet, and the station is left as it was found — the River is monitored and never answered. The session is complete when the figures are taken and compared against the preceding survey, and the one outcome the file does not offer is the River's.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resolve**, funneling cognitive instability back into the Sorrow Gauge.
-- Black River’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Black River's dossier.
+- A worker who cannot hold becomes a conduit rather than a casualty: what the current is carrying goes through them and does not stop, and the Resolve it takes leaves with it. The readers' rotation is seventy-two hours and the counselling referral is automatic, because the crew that comes up carrying a stranger's afternoon will not report it in those words.
+- Duration is the whole of the dose. Four minutes on the line at a station is a shift's work; the one crossing on record took a four-man crew and returned them in good health, giving an account of the duration that was nine days out. Nothing about the River is dangerous in the short term and there is no long term that the Directorate permits.
+- The three pieces exact the same debit in three forms — the maul by weight, the mantle by fatigue, the stone by every sorrow it takes in — and it is paid whether the piece was used correctly or not. Every bearer of the Coin dreams the deaths of strangers nightly, without exception.
+- Nothing here resolves. The sorrow is not absorbed and not dissolved; what the survey holds is the grief-line, what the mourning office holds is the portion of the city's grief that has been closed by somebody who knew the dead, and the difference between the two columns is the entire operational picture. Where the mourning lapses, the line rises, and the file contains no method of lowering it except the offices' own work.
 
 ## Appearance
 **Physical Form:** A vast underground river of black liquid sorrow, running under the whole city the way blood runs under skin. **Movement:** slow, dense, bankless, always toward the Weeping.
@@ -146,9 +146,9 @@ The River does not respond to Work Types in the conventional sense.
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Black River is recorded as an Object/Place with Place-Weight manifestation and Weight elemental expression. The current record places it at SECTOR-A-01, beneath the Alpha Tree — The Weeping; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table is a description of two standing duties, not a set of levers. Viderehan on this holding is the reading itself — what the current is carrying, reported by somebody standing on a bank — and Ferrehan is the interval at open water on a line with an escort who does not speak. Neither approach changes the River and neither is supposed to; the Directorate has never scheduled a work cycle against it, and the two figures the file maintains are the grief-line and the mourning column.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** A falling gauge at a station means the line is down, not that anything has been soothed, and a rising one means the unmourned portion of the city's grief has grown. What the reader reports is the content of the current — somebody's kitchen, somebody's sister, a row that was never settled — and that content is not a symptom and is never corrected by anybody. The one reaction the file treats as an event is a tributary going silent or a sealed vault sounding back, and both are logged against the seal register rather than against the Work Type table.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -162,7 +162,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Escalation Notes
 
-The escalation pattern is specific to Black River: it is not a generic containment event. Personnel must record the first trigger, the first visible change in the Place-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at SECTOR-A-01, beneath the Alpha Tree — The Weeping, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+There is no escalation pattern here and this section exists to say what replaces one. The River's expansion is arithmetic on two columns — the city's unmourned grief and the mourning that has closed it — and it can be read off the survey years: 240, 310 and 418 millimetres. What the stations record, therefore, is not the River's behaviour but the failure of the city's own offices to keep up with it: which tributaries have gone quiet, which shafts took water, whether a basement had to be bought and sealed, and the count of new sorrows found in the wards afterwards.
 
 **Response sequence:** Do not pump; it returns angrier. Do not speak into it; it answers in the voices of the dead. Hold position, bring to mind one person you have mourned properly, and mean it — the Drowning Vigil doctrine, written during the Vigil, which is why it reads the way it does.
 
@@ -187,7 +187,7 @@ The escalation pattern is specific to Black River: it is not a generic containme
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that quivers when raised.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte, bank-cold, and heavier in the hand than its size accounts for; the head quivers when it is raised, the way a line does when the current takes it.
 
 **Damage:** Weight 7–12
 **Speed:** 3 (Fast)
@@ -200,15 +200,15 @@ The escalation pattern is specific to Black River: it is not a generic containme
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Armoury figures, transcribed. The Maul's listed value is the weight it adds to a blow, not anything the River does to anybody.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Black River's weight signature in the strike.
+**Ability:** Weight against the Han — the strike lands on what the target is still carrying rather than on the body, and the Armoury's own note is that the maul adds the weight of a bank to a blow and the River does nothing else to anybody.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder feels progressively heavier through a shift and does not report it; the second worker's log is the record, not the wielder's account. Long service on the maul leaves bearers carrying weight that the medical office can measure and cannot remove.
 
 ### M.A.W. Suit — The River Mantle
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, cut to hang clear of the shoulders so the wearer can work a sounding line; it darkens along the hem wherever the wearer has stood at open water.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -218,15 +218,15 @@ The escalation pattern is specific to Black River: it is not a generic containme
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Black River's kind of pressure.
+**Ability:** Weight resistance of a grade the archive issues to nobody else, and the reason is in the wearers: it is worn by readers who hold position at open water, and the mantle is what keeps the load off the Han long enough for an interval to be stood.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** The wearer carries a constant low fatigue, and it is slower to lift than the shift that caused it. Readers on the mantle are retired early for dreams, which is the office's whole vocabulary for what the current leaves behind.
 
 ### M.A.W. Stigma — The River Stone
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a small stone of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a small stone of Weight Han-steel, matte and heavier than it looks, carried on a cord; it grows cool as it comes near the water it came from, and the senior Wardens who carry it read the temperature the way a reader reads the line.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -240,18 +240,18 @@ The escalation pattern is specific to Black River: it is not a generic containme
 
 ### M.A.W. Use Notes
 
-A piece cut from Black River is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder feels progressively heavier; prolonged use ages them slightly, and it is paid whether the use was correct or not.
+The three pieces are bank work: a maul that weighs like a bank, a mantle that keeps the load off the Han for the length of an interval, and a coin the River grants rather than the Armoury making. None of them is cut from the River — nothing has ever been taken out of it and the Extraction Hall taps the ward-flows far downstream — and each carries the same debit in the form it takes: weight, fatigue, or the dreams of strangers.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Black River's toll being that the wielder feels progressively heavier. |
-| **During use** | The first sign that Black River is charging: the wielder feels progressively heavier. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The wearer carries a constant low fatigue, and the wielder has stopped reporting it — the usual end point for a Black River piece. The observer calls the limit. |
-| **After use** | Return the piece and check the sealed baseline: has Black River's cost — the wearer carries a constant low fatigue — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, gauge, the station the work is at, and the name of the second worker. On the River there is always a second worker and the piece is never issued against a solo interval. |
+| **During use** | The reading from the line, the hour, and the second worker's note on how the wielder is carrying themselves. The wielder's own account goes in the witness column and not the record column; on this file, a worker who feels fine is the expected case and not evidence. |
+| **At limit** | Three limits, one per piece: the maul when the weight stops lifting, the mantle when the fatigue outlasts the shift, the coin always — the Coin's bearers dream nightly without exception and the Directorate doubles their counselling allocation rather than asking any of them to give it up. The observer calls the limit in all three. |
+| **After use** | Return against the armoury register and check the sealed baseline: has the weight, the fatigue, or the dreaming outlasted the rotation? The answer is entered whether or not the wielder agrees, and a piece whose cost has not lifted is not reissued to that bearer. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade describes what a piece does on a strike and says nothing about what it costs the person holding it. On the River the two have never tracked: the maul is the cheapest piece on issue and the coin the most valuable, and a year on the coin is worth less to a bearer's health than a week on the maul.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Mastered
@@ -279,7 +279,7 @@ A piece cut from Black River is not ordinary equipment: it works by being a part
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Black River (C-Vγ-225 [WP]) is logged as a Place-Weight manifestation expressing Weight, running beneath the whole city and surfacing at the Weeping. It is sounded and never entered, it rises with the city's unmourned dead, and it is the only holding against which no work cycle has ever been scheduled.
+Black River (C-Vγ-225 [WP]) is a Place-Weight manifestation expressing Weight, running beneath the whole city and surfacing at the Weeping — a river by geography and a holding by the register. It is sounded and never entered, it rises with the city's unmourned dead, and it is the only holding against which no work cycle has ever been scheduled.
 
 **Entry 2 — <Grief-Line Survey, Year 4238>**
 The line rose 418 millimetres this year, after 310 and 240. Four basements bought and sealed. Tone unchanged at every station; no tributary reported silent; no vault sounded back.
@@ -297,11 +297,9 @@ The river runs under the city and does not rise, fall, or answer to weather; it 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Black River; the other feeds it.
-
-| Impossible. Access is sealed and the River is monitored. | Improvise something kinder, which is how every failure on Black River's file began. |
+| Stand the interval on the line, take the figures, and go up. | Go down the bank to help — the water answers in the voices of the dead, and every failure on this file began with somebody being kind. |
 |---|---|
-| Tests whether the worker can remain near total sorrow. The sorrow is borne; Black River is fully recorded. | Reveals the grief carried through its currents. The gauge climbs and Black River withdraws without revelation. |
+| A sounding on the sheet, a sealed shaft behind you, and a crew that came up in the same order it went down. | A worker who has been answered, a bank nobody sounded that night, and an entry in the ledger that no reader will be able to place. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -312,15 +310,15 @@ You descend beneath the Alpha Tree and hear the River with your bones. The liqui
 
 **At first contact:** You hear it in the jaw before anything else — a low tone with no acoustic reading at all. Then the line comes up cold and dry from water you can plainly hear moving. The first sensation is Weight: not sadness, but load, as though something had been added to what you were already carrying.
 
-**With continued exposure:** Sustained contact reveals the entity's rhythm — the Weight pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
+**With continued exposure:** The interval at open water is where the River stops being a sound and starts being a delivery. What comes up the line is never general: a kitchen, a sister's name, a row that was never settled, all of it belonging to somebody the reader has never met. The readers' note is that the content is not the ordeal; the ordeal is that it arrives whole and stays in order, and the second worker is there because a reader cannot be relied upon to say when it has gone on long enough.
 
-**When the entity activates:** Activation reshapes the room. The Weight that was atmospheric becomes directed — aimed, purposeful, alive in a way the containment protocols anticipated but never fully contain.
+**When the entity activates:** It does not activate in the room. A rise shows up elsewhere first — a corridor on a lower floor with standing water in it, a basement bought and sealed, a ward-flow that has gone dark — and the stations hear about it from the survey before they hear anything through the rock. The one shape that has ever warned anybody in time is the tone going up at every station at once.
 
-**After departure:** Departure is not relief. The Place-Weight is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** The crew goes up. The mantle dries, the maul goes back on the rack, and the reading is entered, and what leaves with the reader is a duration that does not agree with the clock. The one crossing on record returned four men in good health, all of them agreeing on how long it had taken, and wrong by nine days — which is why the rule is a sounding from the gantry and never a visit.
 
 ### Interaction Pattern
 
-Black River does not exist in isolation. Its recorded relationships with The Maw, The Sorrow Fountain, The Grieving Colossus, The First Tear should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Nothing is brought to the River and nothing is stood beside it, so the comparisons on this file run the other way: the tributary is measured at its own holding and the station is read here at the same hours, and the two sheets are laid together at the survey office. In the whole series, no reading taken at the River has ever been changed by what is happening above it.
 
 **Interaction method:** Measure the tributary, not the River. Take the other party's figures before and after at its own holding, and take depth, tone and temperature here at the same hours. In the whole series the River's readings have never once moved for anything standing beside it.
 
@@ -384,9 +382,9 @@ Some sorrows are about human loss. Black River is about loss itself — the grie
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This is the archive's upstream entry, and everything in it runs one way. The River receives; nothing that has gone into it has ever been recovered downstream or anywhere else; and the one figure the file keeps that moves — the grief-line, at 240, 310 and 418 millimetres across three annual surveys — moves because the city has not finished its mourning, not because anything was done to the water. The seal register is the operational record: four basements bought and sealed in the year of the 418, shafts shut at every station, and a footing schedule on every foundation raised in the city since the doctrine was written. What the Directorate holds against this holding is a rota, a register and a set of seals, and it has never once attempted the River itself.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every manifestation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** On every sounding: line elevation, tone at each station, temperature, which tributaries have gone quiet, and whether any sealed vault has sounded back — that last field has been blank since the first sounding and the readers check it before any other. Annually: the survey series against the mourning office's closure figures, the seal register against every basement on a mapped channel, and the footing schedule against everything built in the past year.
 ## Sovereign Manifestation Log
 
 The Black River is not visited; it is sounded. No expedition has ever reached its banks and returned with anything but depth readings, and the readings agree on only one fact: the River is deeper than the instruments. Its manifestations arrive downstream — a darkening of the ward-flows, a sudden cold in the extraction manifolds, entities across the facility turning at once toward the sound of moving water only they can hear. The ledger's oldest entry, predating the Directorate's seal, is a single line in an unknown hand: *"Today the River rose, and eleven new sorrows were found in the wards by evening."*
@@ -477,8 +475,8 @@ The sounding lines wear out. Lowered and raised through stone and black water fo
 - **Classification detail:** Black River is an Object/Place with Sovereign (V) — Autonomous, flowing, eternal coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is SECTOR-A-01, beneath the Alpha Tree — The Weeping.
 - **Recognition detail:** A tone felt in the teeth and not in the ear, a line that comes up cold and dry, and a depth greater than the instrument lowered to find it.
-- **Record detail:** The Registrum carried Critical (δ) potency and a Comprehension Level of 5 against a Major (γ), Level 4 header; both corrected. The granted stigma is filed as the River Stone and known to the readers as the Drowned Coin; both names are recorded here so the two records can be matched.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Record detail:** The grade is Major (γ) at Comprehension 4 because the file's own figures support that and no higher: the line is measurable, the tone is repeatable, and nothing here has ever been fought. The granted stigma is filed as the River Stone and known to the readers as the Drowned Coin; both names are given here so the two registers can be matched against each other.
+- **Containment detail:** The River is not contained and is not sealed in. What is sealed is everything the city has built over it: the shafts, the basements on mapped channels, and the foundations raised since the doctrine — a register of closures standing between a flowing grief and the floors above it.
 ## Document Information
 
 **Document ID:** SE-C-Vγ-225

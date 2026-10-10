@@ -42,7 +42,7 @@
 - A successful cycle lowers the pressure around the bowl for a time and changes nothing about the mass. The displacement series continues through good cycles and bad ones at the same rate, which is the clearest statement available of what work can and cannot do on this holding.
 - No count is listed here and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the whole activation mechanism, and the figure is 90%; the absence of a number is a real property of the holding rather than a gap in the record, and no count may be invented to fill it.
 - The 20–28 Han-Energy yield is high and the exposure that earns it is geological rather than personal. Nobody has reported an effect from proximity in the history of this holding. What the yield is actually balanced against is the ground, and the ground gives no warning.
-- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. Extraction here takes a shard of a thing that is already a shard, and the pieces inherit the property that defines the source: they get heavier the longer they are kept.
+- Drawing M.A.W. out of this holding is an authorised event in its own right and is never hung on a good cycle as a prize. What comes away is a shard of something that is already a shard, and each piece carries the source's defining property: kept long enough, it puts on weight.
 
 ## Combat Record
 ### Core Stat Line
@@ -52,10 +52,10 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Weight pressure; 35% against other pressure types |
+| **Resistance** | 45% against Weight pressure, the element this fragment was broken in, and 35% against the rest of what the Border region can lay on it |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Weight |
+| **Sorrow Gauge [HP]** | 910/910 · measured from the margin, no watch having ever been kept at the fragment itself |
+| **Han Pressure [ATK]** | 29–64 · element Weight, landing without the fragment moving once — the ground bows and the bearer takes the weight of it |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -64,15 +64,15 @@
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
+| **Battle Length** | Long — 24 turns, which is what a monument takes: the work is done from the margin and it cannot be hurried |
 | **Threat Role** | Boss encounter |
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Resolve |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Starting Sorrow Gauge** | 60–80%, opening higher after any shift in which a lifting attempt had to be refused |
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone E, Border region |
-| **Resolution Condition** | Viderehan and Ferrehan from the margin. The 25% figure is the consequence, not the objective, on every Broken Fragment cycle logged. |
+| **Resolution Condition** | Viderehan and Ferrehan from the margin, with the gauge ending below 25% because of that work and not because anybody aimed at the number. No cycle logged against Broken Fragment has ever closed by going after the figure directly. |
 
 ### Combat Actions
 
@@ -82,7 +82,7 @@
 | { *The Sharp Crack* [**Debuff**] } | "The fragment is still breaking — new cracks appearing in real-time — and each crack releases a burst of stored weight." | [The Fragment's ongoing breakage releases energy; the target is bombarded.] | *Target loses 10 Resolve; the fragment is getting worse.* **[10 Weight DMG [Weight]]** | When the target lingers. |
 | { *The Shrapnel* [**Attack**] } | "A piece of the breaking fragment flies free — heavy, jagged, and still cracking." | [ A shard of actively-fragmenting material strikes.] | *Inflicts Weight pressure and one wound of ongoing destruction.* **[14-22 Weight DMG [Weight]]** | When the Fragment is struck. |
 | { *The Full Shatter* [**Attack**] } | "The fragment completes its break — every crack reaching critical point — and the detonation is a cascade of heavy shrapnel." | [The Fragment's total failure releases all its stored mass-energy.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Fragment is crushed. |
-| { *The Shrapnel Field* [**Ultimate**] } | "Every fragment in the field reaches critical breakage — and the combined detonation is an avalanche of heavy shards." | [The Fragment extends its breaking across the whole area.] | *All in range suffer Weight pressure for three turns of universal shattering.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Shrapnel Field* [**Ultimate**] } | "Every fragment in the field reaches critical breakage — and the combined detonation is an avalanche of heavy shards." | [The breakage runs out along the approach road and the border bowl goes with it, and the weight stops being the fragment's and becomes the ground's.] | *All in range suffer Weight pressure for three turns of universal shattering.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -179,10 +179,10 @@ Broken Fragment is an Object/Place with Object-Weight manifestation and Weight e
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Broken Fragment rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Broken Fragment activates its primary resonance: Displays the burden carried by the monument's former community. Grants +10% resistance to Weight damage while equipped. |
-| 30 Seconds | The artifact was born from the burden of history condensed into one piece too heavy to move; the bearer begins perceiving echoes of a border monument commemorating generations of debt was shattered during an uprising; one fragment remained. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Broken Fragment begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Broken Fragment too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may become unable to move under inherited weight. |
+| 10 Seconds | The Fragment lies where the uprising left it until somebody takes hold of it, and the instant hands meet crystal its weight field starts beating in time with that person’s pulse. | Taking it up begins the primary resonance. What is displayed is the burden the monument’s former community carried, and while the piece is held the bearer gains +10% resistance to Weight damage. |
+| 30 Seconds | It was born out of a history condensed into a single piece too heavy to move. Near half a minute the bearer starts perceiving its echoes: a border monument raised to commemorate generations of debt, shattered during the uprising, with this one fragment left of it. | The combat benefits arrive together with a mental burden that goes on accruing. Speed of action and sharpness of focus both improve, and composure is the account they are charged to. |
+| 1 Minute | By the first minute the sorrow inside the Fragment has begun taking its toll, and the bearer’s breathing has come to match the resonance of the grief that made it. | Once it has been held beyond 60 seconds it deals 5 Weight damage at 15-second intervals, and the operative has to be watched for a detachment that arrives without warning. |
+| 2 Minutes | Carrying it too long turns the bearer into whoever first wept over this piece. Past that point an observer cannot separate the operative’s own identity from the sorrow held in the crystal. | Going beyond 2 minutes of continuous wear, or wrenching the piece away before the interaction has run its course, brings on acute panic. The worker may then be unable to move under a weight they inherited instead of one they lifted. |
 
 ### Escalation Notes
 
@@ -228,7 +228,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a plated harness of Weight Han-steel, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a plated harness of Weight Han-steel, matte and heavy out of proportion to its size, that sets on the shoulders like a carried thing and settles lower the longer it is worn.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -246,7 +246,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance:** a small charm of Weight Han-steel, matte and heavy beyond its dimensions, that drags at its cord when carried toward the bowl and goes still on the road.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -256,7 +256,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Cost:** The bearer moves a little slower.
 
-*A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, and no procedure, repetition or merit obliges one.*
+*A Stigma out of this source is given and not made. It appears after a successful cycle at the holding's own disposition, and nothing — no procedure, no repetition, no merit — obliges one.*
 
 ### M.A.W. Use Notes
 
@@ -268,7 +268,7 @@ The three pieces are shards of a thing that is itself a shard, and they inherit 
 |---|---|
 | **Before use** | Operator, grade, gauge baseline, the cumulative weight total already carried by that operator, the condition of the piece, and the objective. The cumulative total is the authorising figure on this set. |
 | **During use** | Activation time, effect strength, the area held, the operator's gait and pace recorded by somebody else, and the first cost noticed by the team. |
-| **At limit** | Duration, activations, attribute movement, rejection signs, and whether the operator has begun accepting tasks that are not theirs. |
+| **At limit** | Duration, activations, attribute movement, rejection signs, and the one field this set exists for: whether the operator has started taking on tasks that were never theirs to carry. The observer calls the limit on that entry. |
 | **After use** | Removal, injuries, lingering effects, cooldown, repair need, reuse authorisation, and the cumulative total updated before the operator leaves the armoury. |
 
 **Stat interpretation:** The grade describes extraction stability and says nothing about the wielder. A well-graded piece from this source can still demand a toll no rating accounts for, and on this set the toll accumulates rather than recurring: there is no cycle after which a wielder is back where they started. Read both columns, authorise on the second, and keep the cumulative total.
@@ -300,7 +300,7 @@ The three pieces are shards of a thing that is itself a shard, and they inherit 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Broken Fragment (O-IVδ-115 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Fragment formed from a monument broken by accumulated obligation. Held at Zone E, Border region. It cannot be lifted by mechanical or Han force.
+Broken Fragment (O-IVδ-115 [WO]) is an Object-Weight manifestation expressing Weight, held at the Border region in Zone E. What it is made of is accumulated obligation that broke the monument holding it, and it cannot be lifted: no tackle, no Han gear, nothing on the wing's inventory has moved it a finger's width.
 
 **Entry 2 — <Excerpt from Border Region Survey Return, Year 4238>**
 The inscriptions appear only to people who acknowledge inherited debt.
@@ -312,17 +312,17 @@ The burden of history condensed into one piece too heavy to move.
 Work response — Viderehan: Reveals the monument's debt history. (Stable); Ferrehan: Tests whether the worker can remain beneath its pressure. (Decrease). It creates grief rather than fear in witnesses.
 
 **Entry 5 — <Director's Minute on the District Correspondence>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+The origin is a border stone and the debt recorded on it. The monument was raised where two districts meet and its inscription was a ledger of obligations between them, entered honestly by both sides for as long as anybody was entering anything. When the obligation outgrew the stone, the stone broke, and the pieces stand where they fell. Nothing here plans, and nothing here is owed by anybody living — the file's own finding is that the fragment weighs exactly what was promised and that nobody has come to settle the account.
 
 **Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Broken Fragment; the other feeds it.
+> Two ways to close a watch at the bowl, and the file's own annual assessments separate them: one is worked from the margin and left standing, and the other is the disposition to carry it.
 
-| Viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind. | Improvise something kinder, which is how every failure on Broken Fragment's file began. |
+| Viderehan and Ferrehan only, worked from the margin under certified Tool protocol, with the standing prohibition on lifting attempts of any kind read aloud at the lip of the bowl before the cycle opens. | Improvise something kinder, as the file records people doing: take a piece up, accept custody of the rubbing, or attempt a transfer of the debt — every failure here began in the first of those, and the third would start the conversation the wing has declined twice. |
 |---|---|
-| Tests whether the worker can remain beneath its pressure. The sorrow is borne; Broken Fragment is fully recorded. | Reveals the monument's debt history. The gauge climbs and Broken Fragment withdraws without revelation. |
+| The worker remains under the pressure without taking any of it up, the displacement rate is entered at both ends of the visit, and the watch closes with the approach road surveyed and the bowl untouched. | The weight comes off the ground and into whoever reached for it; the entry closes with a piece of the monument out of the bowl and the quarterly assessment going to the district office unanswered. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -341,22 +341,22 @@ The Fragment looks small enough to carry. Your hand touches it and the ground bo
 
 ### Interaction Pattern
 
-Broken Fragment does not exist in isolation. Its recorded relationships with The Debt Wall, The Inherited Debt, The Rusted Wall should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three holdings are kept within reach of the bowl — The Debt Wall, The Inherited Debt and The Rusted Wall — and none of the three is an alliance. Record, for every pairing, whether the response changed in sound, movement, temperature, displacement, gauge or containment stability, and enter the distance, duration, trigger and whatever residue remains after the parties are apart.
 
 **Interaction method:** Baseline each entity alone; without the solo displacement series an interaction reading here cannot be distinguished from ordinary subsidence. The relations on file concern debt, weight, or things that cannot be set down, so the question to settle is whether the fragment's mass responds to the other presence — the Trivia note that it is heavier near active debt disputes being the only lead the holding has ever produced. Log the onset, the distance, the duration, the gauge change on both sides, the ground response, and whether separation reverses it. Re-verify each cycle; a Sorrow Tide, an Ordeal or a transformation has overturned settled readings in this region before.
 
 
 ### Entity Interaction Record
 
-Broken Fragment must be assessed as one of a group of sorrows made from obligation rather than as an isolated stone in the border region. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
+This holding is read with the obligation-sorrows as a group and not as a lone stone in the border ground. The rows below are canonical only in that they were observed and filed; none is settled. Each may present as help, obstruction, indifference or a condition that shows up only under load, and a result taken once carries nothing across a Tide, a breach elsewhere, an Ordeal or a transformation.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Debt Wall** | Shares crystallized obligations. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Inherited Debt** | Reveals the family paths beneath its weight. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Rusted Wall** | Both preserve borders built from burden. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Debt Wall** | Both hold obligations that have set solid, and the wing's reason for pairing them is that one wall may recognise the other's load. | No transfer has ever been measured: the two stand and the ground between them does not change. The Debt Wall's own burden reading is flat through every session on file. | The sessions, the burden readings on both sides, and the ground survey either side of the approach road. |
+| **The Inherited Debt** | The most asserted pairing at the border: an obligation that passed down a family line coming to rest against one that never belonged to anybody. | The weight does not move and nothing is revealed. The Inherited Debt's own ledger carries no entry from any session here, and the wing has written the pairing up twice as unsupported. | The sessions, the unaltered ledger, and the two written findings. |
+| **The Rusted Wall** | Two border monuments made from burden, standing within sight of each other, which the district reads as company. | No measurable change either way in the four sessions on file — no weight movement, no rust movement, no ground change — and the district's reading is recorded as a fact about the district. | The four sessions, both structure surveys, and the residents' reading entered as a reading. |
 
-**Interaction procedure:** Baseline both parties alone, bring the second into range along the approach road and never across the bowl, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect on the ground, and whatever persists after separation. The field this holding adds is the displacement rate, taken before, during and a full survey interval afterwards.
+**Interaction procedure:** Baseline both parties alone first; bring the second in along the approach road and never across the bowl. Log the first shared change with its distance, duration, trigger, both gauges, the effect on the ground and whatever is left after separation. What this holding adds is the displacement rate, read before, during and a full survey interval after.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -404,7 +404,7 @@ Some sorrows mourn a monument. Broken Fragment mourns the debt it commemorated �
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification is the frame and this record is the picture, and neither substitutes for standing at the margin and reading the instruments. What the file will not supply is a management condition anyone here can satisfy. The fragment cannot be lifted, cannot be relocated, and grows heavier at a rate that projects to figures the engineers call structurally meaningless at the current site. The annual assessment goes to the border district office. The office has acknowledged it every year and has never once responded to its content, and the facility has never pressed, having declined the offered rubbing of the monument's inscription on the reasoning that accepting custody would start a conversation nobody had asked for. That decision is on file with the commander's name against it, and it is the honest centre of this dossier: the real containment measure is a conversation about inherited debt between an institution and the people it was owed to, and this wing has decided twice, in writing, not to begin it. Where the entity contradicts the file, trust the entity; preserve the contradiction rather than reconciling it.
+**Operational interpretation:** The classification is the frame and this record is the picture, and neither substitutes for standing at the margin and reading the instruments. What the file will not supply is a management condition anyone here can satisfy. The fragment cannot be lifted, cannot be relocated, and grows heavier at a rate that projects to figures the engineers call structurally meaningless at the current site. The annual assessment goes to the border district office. The office has acknowledged it every year and has never once responded to its content, and the facility has never pressed, having declined the offered rubbing of the monument's inscription on the reasoning that accepting custody would start a conversation nobody had asked for. That decision is on file with the commander's name against it, and it is the honest centre of this dossier: the real containment measure is a conversation about inherited debt between an institution and the people it was owed to, and this wing has decided twice, in writing, not to begin it. Where the holding contradicts these pages, the holding is what happens: the discrepancy goes into the log as itself, unreconciled and un-tidied, because on a dossier whose honest centre is a conversation nobody has agreed to have, the contradiction is the only form of progress available.
 
 **Review requirement:** After every event, transformation attempt, Sorrow Tide, Ordeal or unusual interaction, recheck the gauge, the exposure log, the position and the deformation series before work resumes. Two further items are specific to this holding. The survey stations are re-verified against a reference outside the district, because a monitoring network quietly sinking along with what it monitors is the obvious failure mode and has twice been found drifting. And any proposal to attempt a lift is referred upward rather than decided locally — not because the attempt would be unsafe, though it would, but because each previous failure obliged the wing to write a report explaining why it tried again, and those reports have become progressively harder to write.
 ## Apex Record
@@ -478,12 +478,14 @@ The emergency service's objection is on the file and is read at every annual rev
 
 
 
+- Figures for the register's look-up, in digits as the file keeps them: gauge 910/910 · pressure 29–64 per hit · resistance 45 / 35 per cent · threshold 90 per cent · blade 10–15 at 50 Echoes · plate 45 · charm 4 per cent · Max 2 pieces per issue.
+
 ### Registry Trivia
 
 - **Classification detail:** Broken Fragment is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is Zone E, Border region.
+- **Field detail:** Weight is its element and the Border region of Zone E is its registered ground — held there where it fell, unliftable by tackle or by Han. |
 - **Recognition detail:** Identify it by the bowl. The crystal itself resembles a dozen filed fragments; nothing else in the border region has pressed a visible depression into the landscape around itself.
-- **Record detail:** Fragment-form and monument-derived entities recur in the archive and several share this one's element. Confirm the designation and the manifestation before a cycle is booked; the instructions diverge at the point that matters, which is whether the object may be handled at all.
+- **Record detail:** Fragment-form and monument-derived holdings recur in the archive and more than one shares this element, so confirm the designation before booking a cycle: the instructions diverge on the one point that matters here — whether the object may be handled at all, and this one may not. |
 - **Containment detail:** There is no seal and nothing to seal. Containment here is a survey network on stable ground, a prohibition on contact, and a standing decision about what will not be done if something goes into the bowl.
 ## Document Information
 

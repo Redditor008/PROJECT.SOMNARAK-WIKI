@@ -56,7 +56,7 @@ Sit within two meters, remain for seven minutes, and share silence without requi
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The Silence Lens | α | Void | Minor Void strike that interrupts coercive speech | `SE-025-B__MAW-W_The_Silence_Lens.md` |
+| **Weapon** | The Hush Stiletto | α | Void | Provides a one-turn Quiet Interval against coercive speech, sonic pressure, and forced confession | `SE-025-B__MAW-W_The_Silence_Lens.md` |
 | **Suit** | The Silence Veil | α | Void | Gives limited protection against identity erosion | `SE-025-C__MAW-S_The_Silence_Veil.md` |
 | **Stigma** | The Silence Ring | α | Void | Creates a controlled quiet field for one bearer | `SE-025-D__MAW-G_The_Silence_Ring.md` |
 
@@ -67,6 +67,8 @@ Sit within two meters, remain for seven minutes, and share silence without requi
 **Effect:** The bearer and the other person gain a short resistance to forced silence and panic pressure.
 
 **Cost:** The bearer cannot speak above a whisper for the remainder of the shift.
+
+**Weapon-title review (2026-10-10):** The set row now names *The Hush Stiletto* and summarizes its one-turn Quiet Interval. The primary block, current `SE-025-B` heading and nine-inch rubber-wrapped stiletto Appearance, registry row and `MAW-W-025` short-blade archetype agree; revision `3abe5470` replaced the earlier Silence Lens title and disc-like Appearance under the same item code. The linked filename `SE-025-B__MAW-W_The_Silence_Lens.md` remains a path. **Linked-item terminology hold:** `SE-025-B` still says “Lens” in its Ability and Limit, and the master M.A.W. Codex detail still titles Entry 565 “The Silence Lens,” while its master table, item registry, primary and archetype use *The Hush Stiletto*. No separate Lens form or transition is documented; keep those references unresolved. This Side set table states no weapon numbers, so none were added.
 
 ---
 

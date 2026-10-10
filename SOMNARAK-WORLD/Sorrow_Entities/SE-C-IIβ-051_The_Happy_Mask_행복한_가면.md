@@ -29,7 +29,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per successful work cycle, taken from the gauge cards rather than from the tray |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
@@ -42,7 +42,7 @@
 - The expression does not change, and personnel consistently describe it differently from one another.
 - Work settles it. The Mask is unaltered, and the disagreement between accounts persists after a clean cycle.
 - Viderehan and Ferrehan are the valid approaches; neither resolves the discrepancy in description.
-- There is no breach counter. The Mask is housed with the rest of the Troupe, and escalation in one member is logged against all of them.
+- No breach counter is kept for the Mask. It is housed with the rest of the Troupe, and escalation in one member is logged against all of them.
 - Recovery of the implement is authorized separately from the work cycle.
 
 ## Combat Record
@@ -80,16 +80,16 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The Painted Smile* [**Debuff**] } | "The mask grins — and the grin is so wide, so bright, that your own smile rises to meet it, and neither is real." | [The Mask imposes false happiness; the target's genuine emotions are suppressed.] | *Target suffers a Void mark; their real feelings are being buried.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target sees the Mask. |
-| { *The Hiding Place* [**Debuff**] } | "Behind the smile, there is nothing — and the nothing is hungry." | [The Mask's hollow interior draws the target inward; they feel the void behind the joy.] | *Target loses clarity; the false happiness is consuming them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target wears the Mask. |
+| { *The Hiding Place* [**Debuff**] } | "There is nothing at all behind the smile, and the nothing wants something." | [The hollow inside pulls the wearer in, and what sits behind the joy becomes something they can feel.] | *Clarity goes; the borrowed happiness is eating into them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Mask is on somebody's face. |
 | { *The Beaming Strike* [**Attack**] } | "The mask flashes its brightest smile — and the brightness burns." | [A burst of false joy strikes the target like light.] | *Inflicts Void damage; the artificial happiness erodes real identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mask is struck. |
-| { *The Shattered Smile* [**Attack**] } | "The mask cracks — and behind it, the void that was hiding as joy is revealed." | [The Mask breaks, exposing the hollow behind it.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mask is damaged. |
-| { *Everyone Is Happy Now* [**Ultimate**] } | "The mask's smile spreads to every face — and behind every smile, the same void waits." | [The Mask extends its false joy across the whole field.] | *All in range suffer Void erosion for three turns of hollow happiness.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Shattered Smile* [**Attack**] } | "The mask splits, and the void that had been wearing joy for a face shows through." | [The break leaves the hollow where anyone can see it.] | *A heavy Void rupture; the reading jumps 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mask takes damage. |
+| { *Everyone Is Happy Now* [**Ultimate**] } | "The smile gets onto every face in the room, and the same void stands behind all of them." | [The borrowed joy runs out until it covers the whole floor.] | *Everyone in range takes Void erosion for three turns of hollow happiness.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies The Happy Mask by tray number and designation before the lid is lifted. Four masks in this vault answer to the same rough description and two of them are dangerous to handle, confirms the approach, and takes position before anything else is attempted.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Happy Mask's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+1. **Tension:** The Mask is identified by tray number and designation before anybody lifts the lid: 4 masks in this vault answer to roughly the same description, and 2 of them punish handling. The approach is confirmed and the pair takes its marks before a hand goes near the lid.
+2. **Clash:** The pair works the standard Work Types and draws on M.A.W. equipment while the entity follows The Happy Mask's recorded combat actions. Sorrow Gauge movement decides how far it escalates.
+3. **Resolution:** The watch is closed at the standard quotas, or on the suppression condition the seniors entered after the first warm reading: **Viderehan and Ferrehan only; the mask is never worn and the tray reading is logged at both ends of the cycle**. The clause is discipline and not caution: nobody puts the thing on, and the two readings at the tray are what the day is written from.
 
 ### Consequences
 
@@ -153,7 +153,7 @@
 
 ### Operational Work Notes
 
-The Happy Mask is an Object/Place with Object-Void manifestation and Void expression, held at SECTOR-C-01 with the Masked Troupe. Flerehan and Pugnahan are invalid for an Object. Viderehan leaves the gauge stable because the mask shows what is under the smile without being relieved of it; Ferrehan lowers it, slowly, across hours in which the mask smiles at a worker who does not smile back. Personnel must not carry assumptions from the other Troupe masks: three of them conceal, and this one requires.
+The Happy Mask is an Object/Place — Object-Void manifestation, Void expression — housed at SECTOR-C-01 with the Masked Troupe. Flerehan and Pugnahan are invalid for an Object. Viderehan leaves the gauge stable because the mask shows what is under the smile without being relieved of it; Ferrehan lowers it, slowly, across hours in which the mask smiles at a worker who does not smile back. Personnel must not carry assumptions from the other Troupe masks: three of them conceal, and this one requires.
 
 **Reading the response:** A decrease means a worker sat the full cycle without arranging their face. An increase means the mask was approached by somebody performing composure, which it reads and answers. The tray thermometer is logged at both ends of every cycle and is the only number in the file that has never been disputed.
 ## Activation Behavior
@@ -219,7 +219,7 @@ There is no event pattern to describe. The mask does not move, has never moved, 
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that hums faintly when gripped.
+**Appearance:** a lens-ground disc of Void Han-glass, all but colourless, that gives off a low hum once it is held.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)
@@ -240,7 +240,7 @@ There is no event pattern to describe. The mask does not move, has never moved, 
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Void Han-gossamer, barely visible, carrying a faint smell of wherever it was cut.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -258,7 +258,7 @@ There is no event pattern to describe. The mask does not move, has never moved, 
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a mask-charm of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a mask-charm of Void Han-glass, almost colourless, that takes the light at an angle that is not quite right.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -268,11 +268,11 @@ There is no event pattern to describe. The mask does not move, has never moved, 
 
 **Cost:** Prevents genuine expression of sadness while worn.
 
-*The Joy Facade is not manufactured and cannot be requisitioned. It has been conferred three times, in each case on a Warden who wrote their own name on the room list for a reading that came back warm.*
+*The Joy Facade is neither made nor requisitioned. Three times it has been placed on a Warden who put their own name on the room list for a reading that came back warm.*
 
 ### M.A.W. Use Notes
 
-Each Happy Mask piece is an extension of a required expression rather than ordinary equipment. The listed benefit holds while the bearer is honest about their own state; it turns on the bearer who uses it to appear well, and the cost in every recorded case has been that the bearer stopped being able to tell the difference between composure and the performance of it.
+Every M.A.W. piece cut to this pattern carries a required expression rather than serving as ordinary equipment. The listed benefit holds while the bearer is honest about their own state; it turns on the bearer who uses it to appear well, and the cost in every recorded case has been that the bearer stopped being able to tell the difference between composure and the performance of it.
 
 ### Field Use Record
 
@@ -303,7 +303,7 @@ Each Happy Mask piece is an extension of a required expression rather than ordin
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Happy Mask as an Object/Place with Object-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-C-01, contained with the Masked Troupe. |
+| **Initial exposure** | The observer enters the holding as an Object/Place carrying Object-Void manifestation. Its signature is Void, and the markers that hold are the tray number and the designation, at SECTOR-C-01 with the Masked Troupe. |
 | **Sustained observation** | Confirms the two findings this holding rests on: the warmth responds to compelled display and not to feeling, and the smile broadens under confrontation and never narrows. Personnel must keep the emotional effect and the measured effect separate on the page; they do not escalate together and conflating them has ruined two years of readings before now. |
 | **Activation or escalation** | The trigger is proximity, not contact: a person in the room who believes they are required to appear content. Record the tray baseline, the interval readings, the plateau, the smile width, and the room list before any management step is taken. The mask is not equipped at this or any other stage. |
 | **Post-contact review** | Record what changed, what held, and what the observer still cannot put into words. A report on this holding is incomplete if it logs the hazard and omits that the mask was made by ordinary written rules that nobody now defends and nobody has ever repealed. |
@@ -333,11 +333,11 @@ Wearers become distressed when prevented from smiling.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Happy Mask; the other feeds it.
+> The closing minute gives the worker one decision, and the file reads the two endings off it: keep the protocol to the letter, tray thermometer and room list included, or go past it for reasons that feel good enough at the time.
 
-| Hold to the condition: Viderehan and Ferrehan only; certified Tool protocol; the mask is never worn; tray thermometer logged at both ends of every cycle; the room list. | Depart from the condition for good reasons, as The Happy Mask's record shows people do. |
+| Keep the clause exactly — Viderehan and Ferrehan, Tool protocol certified, the mask never worn, the tray reading entered at both ends, the room list honoured. | Step around the clause for good reasons, which is how this file's failures have always started. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly; The Happy Mask is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Happy Mask withdraws without revelation. |
+| It answers the way its record says it will; the sorrow is seen plainly and the Mask is recorded whole. | It resists the wrong approach and the pressure gathers; the reading climbs and the Mask goes unrecorded. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -365,7 +365,7 @@ The mask is held with the Masked Troupe and is read against three other members 
 
 The rows below are the complete record of this holding's co-presence trials: four entities, ninety-one staged pairings, over nineteen years. Three rows record nulls and are set out at the same length as the fourth, because a null that has been looked for carefully is a finding and is the most common finding this archive produces.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| What hangs beside it | How the pairing has run | What the vault entered | What the card keeps |
 |---|---|---|---|
 | **The Orphaned Bell** | The lacquer hums faintly when the Bell tolls, at any distance within the vault block. | Twenty-two pairings. The hum is audible and measurable; the tray temperature does not move, the smile does not widen, and neither entity's gauge changes. The Bell's own behaviour is unaltered in every trial. | Record distance, duration, trigger, warmth, gauge, and residue. |
 | **The Maw** | A slow pulse in the lacquer when the First Sorrow is active in the same quarter. | Nineteen pairings. Pulse confirmed. No temperature change, no gauge movement in either direction, no alteration to the Maw's activity, interval or reach. The pulse has no detectable effect on anything and is logged because it is real, not because it matters. |  Record distance, duration, trigger, warmth, gauge, and residue. |
@@ -382,7 +382,7 @@ The Veil mutes feeling, but it does not erase the social demand for composure. T
 
 The Happy Mask was born from this. Citizens who had smiled for years — through grief, through debt, through the slow exhaustion of performing happiness to survive — wore the smile so thoroughly that it separated from them. The performed joy, repeated past the point of feeling, took on its own reality: a mask, Object-Void, shaped like a smiling face, grinning the grin its wearers had worn until they could no longer feel the feeling the grin was meant to express.
 
-The Happy Mask is part of the Masked Troupe, and it is the gentlest of the masks, and the saddest. It does not deceive. It grins — brightly, convincingly, the way a citizen grins when asked how they are and the true answer would be a debt. Those who come near it feel the exhaustion of performed happiness: the ache of smiling when you want to weep, of saying I am fine when you are not, of wearing the appearance of joy so long that the appearance is all that remains and the joy is nowhere underneath.
+The Happy Mask is part of the Masked Troupe, and it is the gentlest of the masks, and the saddest. It does not deceive. It grins — brightly, convincingly, the way a citizen grins when asked how they are and the true answer would be a debt. Stand close to it and the exhaustion of performed happiness arrives of its own accord: the ache of smiling when you want to weep, of saying I am fine when you are not, of wearing the appearance of joy so long that the appearance is all that remains and the joy is nowhere underneath.
 
 The Mask, left alone too long, does something unsettling. It begins to grin wider. It begins to grin at nothing. The performed happiness, with no face behind it, escalates — because a smile with no feeling to anchor it has nowhere to go but further from the feeling, grinning past joy, past mania, into something that looks like happiness and is its exact opposite.
 
@@ -476,15 +476,15 @@ The case for it was made from the reading series and from the incident register,
 
 The tray series records the other half. Mean plateau across the facility's own staff rose from one point four degrees to three point one in the same two years. The proportion of readings above baseline rose from seventy-one per cent to ninety-four. Nothing in the people changed that any other instrument could detect; what changed is that they are now required, in writing, to look as though nothing has.
 
-The objection is minuted at the forty-first review and at every review since, raised by the vault's senior Warden and supported by the Mask Market Keepers. It holds, first, that the facility holds the only instrument in the city capable of measuring what a demeanour clause does to the people under it, read that instrument for twenty-two years, and used the readings as the argument for imposing the clause rather than as a reason to hesitate. Second, that the improvement claimed is an improvement in visibility and not in condition — the reportable thing is the display, the display is what the clause compels, and the facility has therefore achieved its figure by the direct route of forbidding the symptom. Third, that the mask was formed out of precisely such clauses, that this is recorded in its own origin section in the facility's own hand, and that the facility has now written one.
+The Mask Market Keepers and the vault's senior Warden have carried that objection into every review since the forty-first, and they carry it still. It holds, first, that the facility holds the only instrument in the city capable of measuring what a demeanour clause does to the people under it, read that instrument for twenty-two years, and used the readings as the argument for imposing the clause rather than as a reason to hesitate. Second, that the improvement claimed is an improvement in visibility and not in condition — the reportable thing is the display, the display is what the clause compels, and the facility has therefore achieved its figure by the direct route of forbidding the symptom. Third, that the mask was formed out of precisely such clauses, that this is recorded in its own origin section in the facility's own hand, and that the facility has now written one.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was drafted in the forty-second year and costed at nothing at all — a carve-out to 9(c) providing that no demeanour standard applies in non-public areas, rest periods, or to any person who has stated that they are unwell — and that it has not been laid before the board in nine years. And it records the sentence the senior Warden asked to have entered verbatim, which the vault keeps pinned inside the lid of the tray:
+The vault's minute sustains all three limbs of that objection. Set down beside the tray's own series, it holds that a remedy was drafted in the forty-second year and priced at nothing whatever — a carve-out to 9(c) providing that no demeanour standard applies in non-public areas, rest periods, or to any person who has stated that they are unwell — and that nine years have passed without its reaching the board. The same minute carries the line the senior Warden dictated into it word for word, which the vault keeps pinned inside the lid of the tray:
 
 *We made a machine that can tell when a person has been ordered to look happy, and the first thing we did with it was issue the order.*
 
 ## Trivia
 
-- The smile has broadened by a measured two point one millimetres across sixty years of gauge-card readings and has never narrowed by any amount.
+- The smile has widened by a measured 2.1 millimetres over 60 years of gauge-card readings, and has never narrowed by any amount at all.
 - The warmth is not thermal in origin. Wrapped, shielded, chilled and warmed, the tray reading is unchanged; the only variable that has ever moved it is who is standing in the room and what they believe they must look like.
 
 

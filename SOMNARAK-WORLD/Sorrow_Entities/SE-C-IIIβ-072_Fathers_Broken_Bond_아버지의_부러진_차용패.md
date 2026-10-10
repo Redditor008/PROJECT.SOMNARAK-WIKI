@@ -29,7 +29,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–55% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per successful work cycle, taken from the vault's own weighings of the tablet |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Single-use fracture trigger — snapped in two by hand |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · β (Moderate) |
@@ -85,9 +85,9 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the single-use A-Relic construct, verify containment integrity, and evaluate emergency tactical need.
-2. **Clash:** The team conducts Viderehan and Ferrehan to harvest ambient Han-Energy while monitoring sector stability.
-3. **Resolution:** The team completes standard containment quotas, or deliberately triggers the A-Relic discharge to resolve an existential facility breach.
+1. **Tension:** The single-use A-Relic construct is identified, the seal checked against the vault sheet, and need judged coldly before anything is lifted. Nothing in SECTOR-C-03 is moved to find out what it weighs.
+2. **Clash:** Viderehan and Ferrehan are worked to take up ambient Han-Energy while the sector's stability is watched.
+3. **Resolution:** The watch closes on the standard quotas, or the Relic is spent on purpose to answer an existential breach of the facility — and the file registers a suppression condition: **File the claim, keep both hands bare, and snap the seam only to lift a burden that will not wait**. The vault staff hold to that clause exactly: the seam is broken once, deliberately, with hands that can feel what they are taking, and the reading is entered afterwards.
 
 ### Consequences
 
@@ -165,16 +165,16 @@ Operatives assigned to Ferrehan must possess clean financial records. If an oper
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 1 Use | Father's Broken Bond sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Snapping the octagonal brass tablet in two along its scored center line with both hands.) initiates an instantaneous, irreversible discharge across the battlefield. |
-| 3 Uses | Crystallized from the crushing, suffocating realization that in somnarak, poverty is a crime that outlives the father to consume the children. during the archive vault break-in of year 4,166 in the third sump concourse registry; the relic answers only to complete commitment. | The full discharge completes: Releases an immense gravitational implosion of Weight that immediately reduces the squad's Sorrow Gauge by -30% and purges all debt marks, bind debuffs, and speed penalties. The tablet shatters into blackened brass shards. All hostile entities in range suffer devastating disruption and elemental debuffs. |
-| 5 Uses | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |
-| 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The token is irrevocably destroyed; the user suffers 10 Weight damage and wrist strain (-1 AP for 1 turn). |
+| 1 Use | The tablet lies in stasis in the Collector's Vault holding a promise that was never carried out: Han-Sol's oath, unspent since the Archive Vault Break-In of Year 4,166. Nothing seeps from it, nothing warms, and the tally faces oxidise at the rate Viderehan records rather than at any rate the vault can explain. | Activation is the snap, both hands on the octagonal brass along its scored centre line, and the discharge that follows is instantaneous. Once the score begins to give there is no halting it, so the operative's decision is made before the motion and not during it. Across a battlefield it arrives as one implosion of Weight rather than as a duration. |
+| 3 Uses | The tablet crystallized out of the realization that poverty in Somnarak is a crime which outlives the father and consumes the children, and it took its present broken form during the Archive Vault Break-In of Year 4,166 in the Third Sump Concourse Registry. It answers only to complete commitment: a partial snap along the score does nothing, which is why the activation record describes the discharge as all or nothing. | The discharge completes in a single step. An immense gravitational implosion of Weight takes the squad's Sorrow Gauge down by 30 per cent at once and purges every debt mark, bind debuff and speed penalty carried by the squad, and the tablet shatters into blackened brass shards. Hostile entities inside the range are disrupted outright and carry elemental debuffs afterwards. The shard field is logged: it is the only residue this relic ever leaves. |
+| 5 Uses | The grief here was absolute and could be settled in one fire only, which is what puts this tablet in the Arcanum class instead of among tools with a service life. When it empties itself, none of the power stays behind: the vault keeps the shards as evidence of an oath made by a dying diver's son, and never as a resource for drawing on. | The relic shatters into inert residue once the discharge is over. It cannot be repaired, cannot be rekindled and cannot be extracted again; what is left is mineral and metal emptied of sorrow, catalogued and shelved rather than worked. |
+| 7 Uses | An artifact that dies to protect the living charges a bereavement price for the witnessing, and to see the end of it is to inherit a sorrow left unfinished. On this holding that reads literally: the oath was that the creditors who had forty years of a father's lungs would not have his children's teeth, and whoever breaks the tablet is standing in the children's place when it goes. | The operative who engaged the trigger takes severe post-activation trauma on top of the recorded cost. The token is destroyed beyond recovery, and the user takes 10 Weight damage with wrist strain at -1 AP for 1 turn. Behind that stands the roster rule: a worker carrying outstanding municipal loans who handles the tablet triples its mass inside ten seconds, which is spinal territory and the reason Ferrehan is assigned from personnel records. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Father's Broken Bond: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at SECTOR-C-03, Collector's Vault — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here has one shape, and that shape is not a breach: a second person in the vault starts weighing something of their own against the tablet. The watch enters four things — the first trigger, the change visible in the Object-Weight form, the distance at which the effect begins, and the line where the resonance settles. Emotional and behavioural indicators are written in beside the physical telemetry, because the element is Weight and the post sits in SECTOR-C-03, the Collector's Vault, and a Weight reading with no account of who was standing in the room cannot be acted on afterwards. The one reliable precursor is a debtor in the room. A worker with outstanding municipal loans who handles the tablet triples its mass within ten seconds, so the clean-records rule on the Ferrehan roster is an escalation control and not paperwork.
 
-**Response sequence (Father's Broken Bond):** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence (Father's Broken Bond):** Establish whether the tablet is still whole, since everything after that turns on the answer. Whole, it is a standing hazard: hold the perimeter at the recorded distance, empty the vault of everyone carrying debt of their own, and send for the roster rather than improvise a crew. Snapped, the discharge is already spent: log the implosion, account for the blackened brass shards, and treat the operative who broke it for 10 Weight damage and the wrist. File the purge of debt marks, binds and speed penalties as an event that happened to the squad, never as a treatment anybody ordered. No Work Type outside the record is applied as a countermeasure, and the shards are catalogued rather than kept, because the husk is inert and there is no second use in it.
 
 ### Detailed Activation Record
 
@@ -187,11 +187,11 @@ The escalation pattern is specific to Father's Broken Bond: it is not a generic 
 | **Risk** | Moderate (β) Object-Weight producing Weight pressure; The token is irrevocably destroyed; the user suffers 10 Weight damage and wrist strain (-1 AP for 1 turn). |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order (Father's Broken Bond):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order (Father's Broken Bond):** first trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Viderehan and Ferrehan are the whole of the work here, and the Object and Place rule closes the list.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
-> *(Archival Framework: As an A-Relic single-dossier integrated entity, all three M.A.W. profiles are preserved directly in this primary dossier to prevent resonance fragmentation).*
+> *(Filing note: the Bond is held as one integrated relic dossier, so its three M.A.W. pieces are kept here in full rather than lodged across the Archive. The tally stays whole on paper; the debt it records does not, and that is the point of the file.)*
 
 ### M.A.W. Weapon — The Sump Diver's Flail
 
@@ -296,11 +296,11 @@ Directorate Synthesis: The Concourse designed these tallies to be indestructible
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Fathers Broken Bond; the other feeds it.
+> The watch ends with the tablet in reach and one choice to make: put the claim through the office, or lift the brass onto the balance with your own bare hands and let the mass be what it is.
 
-| File an expense claim for the broken plinth glass. | Lift the tablet and place it upon the balance with bare calloused hands. |
+| Put the expense claim through the office for the broken plinth glass. | Lift the tablet onto the balance with bare, calloused hands. |
 |---|---|
-| The administrative act triggers the tally's weight; your knees buckle under sudden gravitational burden. | The brass acknowledges the worker's labor; the mass stabilizes at twenty kilograms. The log is completed. |
+| The claim goes through, the tally answers it, and the knees give under a sudden gravitational load. | The brass takes the worker's labour as payment and settles at twenty kilograms; the log is closed. |
 | **OBSERVATION FAIL** | **OBSERVATION SUCCESS** |
 
 ## 감각 묘사 (Flavor Text)
@@ -321,7 +321,7 @@ Father's Broken Bond reacts with violent resonance toward entities of debt, scal
 
 ### Entity Interaction Record
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| The Bond's neighbour | Shape the pairing took | What the post logged | What the sheet records |
 |---|---|---|---|
 | **The Debt Eater** | Both entities radiate complementary Weight waves; debt eater ceases feeding. | Stabilizes both entities during containment; reduces work difficulty. | Han flux delta, mass measurements, acoustic hum. |
 | **The Debt Scale** | Causes the Debt Scale to tilt violently toward the heavier pan. | Increases gauge accumulation rate by 20%; maintain separation. | Pan tilt angle, room pressure, gauge delta. |

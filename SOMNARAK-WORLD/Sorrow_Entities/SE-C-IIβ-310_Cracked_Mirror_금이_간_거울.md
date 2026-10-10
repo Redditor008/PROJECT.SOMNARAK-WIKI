@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Void pressure; 15% against other pressure types |
+| **Resistance** | 25% against Void pressure, 15% against other pressure types — read from the case; nothing here has ever been measured by striking the glass, and the overlay is the only series that answers. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 478/478 |
 | **Han Pressure [ATK]** | 10–24 per hit · Void |
@@ -73,7 +73,7 @@
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-01, Mask Market |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | the timekeeper calls the end before the worker begins to agree with the glass |
 
 ### Combat Actions
 
@@ -82,21 +82,21 @@
 | { *The Distorted Face* [**Debuff**] } | "Your reflection in the cracked glass is wrong — the features are shifted, older, angrier." | [The Mirror distorts the target's self-image through its fractures.] | *Target suffers a Void mark; they do not recognize themselves.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |
 | { *The Fractured Self* [**Debuff**] } | "Each crack shows a different version of you — and none of them agree on who you are." | [The Mirror's cracks multiply the target's identity.] | *Target loses clarity; they cannot find the real self among the reflections.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares at the cracks. |
 | { *The Sharp Edge* [**Attack**] } | "A crack widens into a blade of glass — and it cuts where you are most divided." | [A fracture-blade extends from the Mirror.] | *Inflicts Void damage; the cut severs a fragment of identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
-| { *The Shattering Point* [**Attack**] } | "The crack reaches the center — and the whole mirror threatens to come apart." | [The Mirror's structural failure sends a wave of fractured reflection.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mirror is pressured. |
-| { *Total Fracture* [**Ultimate**] } | "The mirror breaks completely — and every shard carries a different screaming face." | [The Mirror explodes, scattering fractured selves across the field.] | *All in range suffer Void erosion for three turns among the shards.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Shattering Point* [**Attack**] } | "The crack reaches the centre — and the mirror threatens to come apart along a line that has not lengthened in nineteen tracings." | [The Mirror's own structural failure sends a wave of fractured reflection outward.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mirror is pressured. |
+| { *Total Fracture* [**Ultimate**] } | "The mirror breaks completely — and every shard carries a face that was in the Market that day, asking to be flattered." | [The Mirror gives up the whole surface at once, and the shards go on showing the truth.] | *All in range suffer Void erosion for three turns among the shards.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Cracked Mirror by the mismatch. The glass is cracked across its whole surface and the reflection is not, and no other mirror in the Market does that, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** Identification is the mismatch and nothing else qualifies: the glass is cracked across its whole surface and the reflection is not, and no other mirror in the Market does that. The pair confirms the object, sets the edge from the case, and only then takes up its marks.
 2. **Clash:** There is no exchange to manage. The glass shows what it shows for as long as the worker keeps looking, and the only live decision in the session is who calls the end of it.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+3. **Resolution:** The session closes one of three ways — containment, management, retreat — or by the suppression condition the timekeeper's card carries: **the timekeeper calls the end before the worker begins to agree with the glass** — the end is called from outside the session and never by the worker looking.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Composure** and identity cohesion, accelerating Sorrow Gauge escalation.
+- A worker who fails to keep their footing under the pressure loses **Composure** and identity cohesion together, and the gauge climbs while the timekeeper is still deciding whether to call it.
 - Extended contact risks Cracked Mirror’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Cracked Mirror defaults to its documented activation or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- No M.A.W. activation comes free: the toll is intimate memories, physical sensation and years of life, set out in the equipment specifications and paid in the field.
+- Where resolution is not reached in time, Cracked Mirror falls back on its recorded activation and expansion pattern: containment denied, the unchanneled grief carves its own catastrophic outlet.
 
 ## Appearance
 **Physical Form:** An ancient mirror cracked across its surface. It shows truth rather than ordinary reflections.
@@ -171,7 +171,7 @@ Cracked Mirror is an Object/Place with Object-Void manifestation and Void expres
 | **Activation** | Direct gaze. |
 | **Primary Effect** | Shows the viewer's true self without social masks. |
 | **Duration** | Until the viewer looks away. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |
+| **Termination / Return** | The session ends when the timekeeper outside calls it, which is the only ending this holding recognises; breaking gaze early, or leaving the detachment to the worker's own judgement, extracts the Void trauma the file records. |
 | **Risk** | Identity crisis and emotional overload. |
 
 **Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
@@ -180,16 +180,16 @@ Cracked Mirror is an Object/Place with Object-Void manifestation and Void expres
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Cracked Mirror rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Cracked Mirror activates its primary resonance: Shows the viewer's true self without social masks. Grants +10% resistance to Void damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of people unable to face their own truth; the bearer begins perceiving echoes of mask market citizens sought mirrors that would flatter them; one mirror refused and cracked under the burden. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Cracked Mirror begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Cracked Mirror too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Identity crisis and emotional overload. |
+| 10 Seconds | The glass is kept under cloth between sessions; when the cloth comes off, the void field finds the bearer and the surface stops being a surface. | The primary resonance engages: the viewer is returned without the presentation, and +10% Void resistance holds while the session lasts. |
+| 30 Seconds | The bearer starts hearing the Market's side of it — a trade in flattering glass, an ordinary demand, one workshop's refusal still standing in its case. | Combat benefit continues and composure begins to pay for it; the timekeeper watches for the first sign that the account is being listened to rather than tolerated. |
+| 1 Minute | The toll presents in the bearer's own estimate of themselves rather than in the glass: small, nameless memories stop being where they were. | Continuous use past 60 seconds inflicts 5 Void damage every 15 seconds, and the second worker is the one who counts them. |
+| 2 Minutes | Past two minutes the bearer begins to find the reflection fair, then useful, then worth showing to somebody else — the file's own signal that the session should already have ended. | Forced continuation past two minutes, or detachment left to the bearer's judgement, triggers acute panic: identity crisis and emotional overload, with the record made from outside. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Cracked Mirror: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-C-01, Mask Market, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern here is not a containment event in the usual sense: nothing about the glass moves, and the object has not added a fracture in nineteen tracings. What escalates is the agreement — a worker moving from looking to believing to wanting the glass shown to somebody else — so record the first trigger, the first discrepancy noticed, the edge from the case, the duration of looking and who called the end. Because the element is Void and the holding sits in the Mask Market, behavioural indicators are logged beside the physical ones, and content is not logged at all.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Put the cloth back on the glass, re-measure the edge from the case outward, end the session on the timekeeper's call rather than the worker's, and offer the counsellor without requiring them. Refresh the overlay if the fracture count reads differently at the same distance — it has not in nineteen years — and do not apply any unlisted Work Type as a remedy.
 
 ### Detailed Activation Record
 
@@ -200,7 +200,7 @@ The escalation pattern is specific to Cracked Mirror: it is not a generic contai
 | **Primary effect** | Shows the viewer's true self without social masks. |
 | **Duration / rate** | Until the viewer looks away. |
 | **Risk** | Moderate (β) Object-Void producing Void pressure; Identity crisis and emotional overload. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Two workers: one looking, one outside the session with the clock and the authority to end it. Viderehan and Ferrehan only; a counsellor is available and not required, and anything the worker says afterwards is held as their own signed statement. |
 
 **Activation reporting order:** gaze → first discrepancy noticed → edge distance from the case → duration of looking → who called the end → gauge. Viderehan and Ferrehan only. Nothing about content appears anywhere in the sequence.
 ## M.A.W. Equipment
@@ -211,7 +211,7 @@ The escalation pattern is specific to Cracked Mirror: it is not a generic contai
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that glows along its edge when readied.
+**Appearance:** a lens-ground disc cut from Void Han-glass, colourless as a cold window and barely there at arm's length, that lights along the rim only when it is pointed at somebody who is presenting.
 
 **Damage:** Void 5-9
 **Speed:** 2 (Normal)
@@ -219,15 +219,15 @@ The escalation pattern is specific to Cracked Mirror: it is not a generic contai
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Cracked Mirror's void signature in the strike.
+**Ability:** Deals Void damage against the Soul — identity, memory, the sense of self — and it declines to improve what it is pointed at, exactly as the source does.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** Small memories go with each use and none of them are the ones that mattered, which is what the ledger means by the unremarked kind.
 
 ### M.A.W. Suit — The Truth Veil
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, colourless and barely there at arm's length, that shifts with the wearer and settles when they stop presenting.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -237,19 +237,19 @@ The escalation pattern is specific to Cracked Mirror: it is not a generic contai
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Cracked Mirror's kind of pressure.
+**Ability:** Wards the Soul — identity, memory, the sense of self — against Void damage, where the pressure arrives as a question rather than a blow.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer's own account of themselves thins by a degree the armoury records as a reading, and the file treats the thinning as the toll rather than a symptom.
 
 ### M.A.W. Stigma — The Truth Lens
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-pendant of Void Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a lens-pendant of Void Han-glass, near-translucent and colourless, warm to the touch, with no crack anywhere in it.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 stat bonus while working Cracked Mirror in the Market case.
 
 **Ability:** Allows the wearer to see through lies and deception.
 
@@ -265,12 +265,12 @@ The set is drawn from the frame and the corrosion rather than from the glass, wh
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Cracked Mirror takes: the wielder loses small, nameless memories with each use. |
-| **During use** | Cracked Mirror charging, which presents as this: the wielder loses small, nameless memories with each use. The wielder's own account is taken separately and afterwards. |
-| **At limit** | Cracked Mirror's cost is continuous rather than occasional: the wearer feels faintly absent to themselves. The second worker's call stands against the wielder's. |
-| **After use** | Return the piece and check the sealed baseline: has Cracked Mirror's cost — the wearer feels faintly absent to themselves — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, and a dated baseline of what the wielder can still name unprompted; the cost on file for this set is the small, nameless kind. |
+| **During use** | Charging shows as a gap opening where a word used to sit: the wielder reaches for it and finds nothing, and the second worker notes the hour rather than asking about it. |
+| **At limit** | The toll runs continuously rather than in episodes, and the sign of the limit is that the wearer stops being able to describe themselves at all; the second worker's call then outranks the wielder's. |
+| **After use** | Return the piece and open the sealed baseline: if the absence outlasted the rotation, the answer goes in whether or not the wielder agrees, and the piece stays in the armoury for a quarter. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade is not safety, and on this set the two columns are not even the same kind of number: the damage figures are armoury transcriptions, while the cost is paid in the bearer's own estimate of themselves, which the ledger states in those words. A β piece that performs flawlessly can still leave somebody unable to name what they did last week.
 
 ## 관찰 기록 (Observation Log)
 
@@ -299,7 +299,7 @@ The set is drawn from the frame and the corrosion rather than from the glass, wh
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Cracked Mirror (C-IIβ-310 [D]) is logged as a Object-Void manifestation expressing Void. The Mirror formed from the sorrow of dishonesty. Held at SECTOR-C-01, Mask Market. Its cracks correspond to truths someone could not bear.
+Cracked Mirror's register entry (C-IIβ-310 [D]) reads Object-Void manifestation, Void expressed. It formed from the sorrow of dishonesty. The Mirror formed from the sorrow of dishonesty. Held at SECTOR-C-01, Mask Market. Its cracks correspond to truths someone could not bear.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It becomes clearer near masks and disguises.
@@ -315,9 +315,9 @@ The mirror shows what the viewer is underneath the arrangement they present, and
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Cracked Mirror; the other feeds it.
+> What the session comes down to: end the looking on the timekeeper's call, or let the worker decide when they have seen enough.
 
-| Do the thing on file: Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. | Improvise something kinder, which is how every failure on Cracked Mirror's file began. |
+| Do the thing on file: Viderehan and Ferrehan only, ended from outside by the timekeeper with the clock. | Improvise something kinder — let the worker choose how long to look, or ask them afterwards what they saw — which is how every failure on Cracked Mirror's file began. |
 |---|---|
 | Tests whether the worker can look without flinching. The sorrow is seen clearly; Cracked Mirror is fully recorded. | Displays the truth behind the cracks. The gauge climbs and Cracked Mirror withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -328,17 +328,17 @@ The Mirror shows your face, then removes it. Beneath the face is fear, exhaustio
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: An ancient mirror cracked across its surface. It shows truth rather than ordinary reflections. Notable Features: Each crack is a broken truth, and the mirror reflects the self beneath masks. Identification Profile: The record classifies The. The surrounding space does not become generic or abstract; it changes in the specific way associated with Void and the entity's Object-Void form.
+**At first contact:** The first identifiable detail is the mismatch: a mirror cracked across its whole surface in a Market that sells nothing else like it, and a reflection with no crack in it at all. Confirm the designation and the manifestation, and do not write down what the glass shows — nothing seen in it has a field anywhere in this file, and the margin is not a field either.
 
-**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Void presses hardest, where it recedes, where the Object-Void lets you breathe.
+**With continued exposure:** Minutes pass and the shock gives way to something more useful: a map of where the pressure sits, where it eases, and how far the edge has reached since the last session.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Direct gaze. Effect: Shows the viewer's true self without social masks. Duration: Until the viewer looks away. Risk: Identity crisis and emotional overload. Tool Use Profile — I-Relic Operational Rule: The relic remains active while attached to the operator. The. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** Activation is a direct gaze and nothing else: the glass returns the viewer without the presentation and runs until somebody looks away, and the end is called from outside by the timekeeper holding the clock. The edge is re-measured from the case, the overlay is refreshed, and the counsellor is offered without being required.
 
 **After departure:** After contact, the body holds what the mind files away. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.
 
 ### Interaction Pattern
 
-Cracked Mirror does not exist in isolation. Its recorded relationships with The Broken Mirror, The Happy Mask, The Mirror of Sorrows should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Cracked Mirror's three filed relations — The Broken Mirror, The Happy Mask and The Mirror of Sorrows — are comparisons and exclusions rather than alliances, and the file keeps them for one reason: two of the three have been confused with this holding by Wardens who then ran the right procedure on the wrong record. When another entity is nearby, record whether the fracture overlay changes and whether the edge moves — the overlay never has; the edge does.
 
 **Interaction method:** Baseline each party alone first. The relations on file concern reflection, concealment and truth-telling, so the question to settle is whether the fracture pattern changes in another presence — it never has — and whether the edge moves, which it does. Log the activating distance, the duration, the gauge on both sides, the edge series, and whether anything persists after separation.
 
@@ -347,13 +347,13 @@ Cracked Mirror does not exist in isolation. Its recorded relationships with The 
 
 Cracked Mirror belongs with the Market's other reflective holdings and is the only one that was asked for something and refused. The entries below have been observed and filed. None of them has ever altered the fracture pattern, which is the measurement that would matter, and the file states that plainly instead of implying influence it cannot show.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | The relation on file | What was observed | What the file keeps |
 |---|---|---|---|
 | **The Broken Mirror** | Both give back something the viewer did not ask for. | Compared on paper only, and the comparison is in the briefing because the two have been confused. That holding shows what was denied; this one shows who is standing there. A Warden who treats them as the same record will run the right procedure on the wrong entity. | The briefing comparison, the re-briefing requirement, and the case that produced it. |
 | **The Happy Mask** | The Mask's smile fails in front of it. | Observed twice at the edge, both times with the Mask in transit rather than by arrangement. The Mask's own gauge rose and this one's did not move, and the fracture overlay was unchanged. The wing has not arranged a third and sees no question that a third would answer. | Both transit times, the Mask's gauge series, and the unchanged overlay. |
 | **The Mirror of Sorrows** | Two glasses that answer different questions about the same person. | Never brought together and formally excluded. A worker standing between them would be looked at twice over by two holdings whose output this facility has agreed in writing to make no use of, and the wing's note says the arrangement would be an experiment on a person rather than on an entity. | The exclusion with its reasoning and the review minute at which it was last restated. |
 
-**Interaction procedure:** Baseline both parties alone, bring the second no nearer than the current edge, and log the first shared change with its distance, duration and trigger, the gauge on each side, and the edge measured before and after. The field this holding adds is the overlay check, run at the end of any pairing, because a changed fracture would be the first in nineteen years.
+**Interaction procedure:** Each party is baselined alone, the second is never brought nearer than the edge as it stands that day, and the first shared change is logged with its distance, duration and trigger, both gauges, and the edge before and after. The field this holding adds is the overlay check at the end of any pairing: a changed fracture count would be the first in nineteen years of tracings.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -392,8 +392,8 @@ Some sorrows are about lies told to others. Cracked Mirror is about lies told to
 - Viderehan is the primary Work Type.
 - Most viewers look away quickly.
 **Observation Notes:**
-- A mirror that refused to flatter, cracked by the strain.
-- The crack does not hide; it reveals.
+- A mirror that refused to flatter, cracked by the strain. The fracture overlay stands at 47 lines across 19 annual tracings, and 2 falls in transit plus the move into the case are recorded against that series without registering.
+- The edge series is the one that moves: the affected radius is remeasured from the case at every session, and 4 written refusals have been issued to workers who asked to be examined in front of the glass.
 **Cross-References:** Mask Market · The Mirror of Sorrows · The Broken Mirror · The Rising Mirror
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** Citizens of the Mask Market who demanded flattery.
@@ -419,7 +419,7 @@ The mirror declined to flatter and broke rather than comply, and the file treats
 
 ### Mask Market Custom
 
-Citizens there sought glass that would improve them, and the commissioning material is commercial — the trade in flattering mirrors, the prices, the workshops that supplied them. It was a substantial business. The archivist's note states that the documents show an ordinary market meeting an ordinary demand and that nothing in them is sinister, which is the point of including them.
+Citizens there sought glass that would improve them, and the commissioning material is commercial — the trade in flattering mirrors, the prices, the workshops that supplied them. It was a substantial business. The archivist's note makes the obvious point in plain words: the documents show an ordinary market meeting an ordinary demand, and nothing in them is sinister — which is exactly why they are included here.
 
 ### What the Overlay and the Edge Measure
 
@@ -460,7 +460,7 @@ The advocates' objection is standing and the wing has never answered it. A rule 
 
 ### Registry Trivia
 
-- **Classification detail:** Cracked Mirror is an Object/Place with Echo (II) — Repeats reflecting coherence and Moderate (β) potency.
+- **Classification detail:** Cracked Mirror files as an Object/Place; its coherence is Echo (II) — Repeats reflecting — at Moderate (β) potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-C-01, Mask Market.
 - **Recognition detail:** Identify it by the mismatch. The glass is cracked across its whole surface and the reflection is not, and no other mirror in the Market does that.
 - **Record detail:** The Broken Mirror, the Mirror of Sorrows and the Rising Mirror are separate holdings under separate management. A Warden trained on those is re-briefed before working here, a requirement that followed a case of somebody applying the wrong protocol correctly.

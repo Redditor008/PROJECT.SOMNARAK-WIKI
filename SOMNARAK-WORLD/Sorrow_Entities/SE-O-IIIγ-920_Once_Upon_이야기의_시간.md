@@ -1,6 +1,6 @@
 # Once Upon — 이야기의 시간
 
-> *"It does not end. It merely pauses between heartbeats."*
+> *"Somebody says once upon a time in an empty room, and the street fills with everyone the district forgot."*
 
 ## SECC Classification
 
@@ -87,7 +87,7 @@
 
 1. **Tension:** The team takes the perimeter at one kilometre, confirms the register and a pencil, and agrees who will speak the tellers' names. Nobody enters the radius and nobody tells a story at any point before, during, or after.
 2. **Clash:** None available. The hour cannot be shortened, interrupted, or engaged, and the wing has asked twice for the row to be struck from the form.
-3. **Resolution:** The hour ends on its own. The gauge falls in proportion to how many tellers were named aloud — the one clean correlation in the file, holding across 94 hours — and the names come from the register, which is why the register is the holding's real containment.
+3. **Resolution:** The hour ends on its own. The gauge falls in proportion to how many tellers were named aloud — the one clean correlation in the file, holding across 94 hours — and the names come from the register, which is why the register is the holding's real containment. It closes against the documented suppression condition: **The gauge falls in proportion to how many tellers were named aloud**.
 
 ### Consequences
 
@@ -101,7 +101,7 @@
 
 **Notable Features:**
 - Expresses Lament pressure in a tale register.
-- The time form is unmistakable — this is a tale entity, not a general one.
+- Watchers agree on the shape of the hour within ten minutes of its opening: it arrives already narrating, which no ordinary time sorrow does.
 - A one-kilometre perimeter, a register of 74 stories, and an opening sentence that has never come from the same room twice.
 
 **Identification Profile**
@@ -179,8 +179,9 @@ The table lists two Work Types and the useful figure is not in it: the gauge fal
 
 **Appearance:** a veil of pale silk with narrow bands at the hem, nine of them unmarked, which the Armoury added to match the nine unrecognised entries and now cannot remove.
 
-**Resistances:** Lament: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 0.3 (Resistant) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** When the tale goes quiet, the wearer finds ordinary small joys receding; they return only after the veil is removed and the story stops pressing in.
 **Ability:** Grants resistance to Lament damage, protecting against the tale register of sorrow.
 
 ### M.A.W. Stigma — Once Upon's Token
@@ -243,7 +244,7 @@ All three pieces came out of the hour and all three keep its property: they are 
 
 ## 감각 묘사 (Flavor Text)
 
-There is a moment — always the same, always brief — when the lament pressure and the tale register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. An hour during which every forgotten story ever told within a kilometre radius becomes briefly, viscerally real — characters walk the streets, narrators whisper from empty rooms, and endings replay themselves in the air. Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
+The lament pressure and the tale register meet exactly once an hour and hold for a single breath — that is the whole of the contact, and it is where a reader understands, without being able to say how, what this hour *is*. In that breath the district's forgotten stories come back up through the pavement: the people in them walk the streets, their narrators speak from rooms nobody is standing in, and their endings play out above the rooflines in the air. Then the breath is over, and what stays behind is the pressure, the register, and the feeling of having been read.
 
 **At first contact:** Four words from an empty room, and then a street that was empty has people in it, mid-conversation, about things that happened long ago.
 
@@ -253,23 +254,37 @@ There is a moment — always the same, always brief — when the lament pressure
 
 **After departure:** You tell somebody a story you had not thought of in years. Perimeter staff do it on the way home and the wing has recorded it for six years as an effect and not as a symptom.
 
+## 상호작용 (Entity Interactions)
+
+The hour is watched from a desk with a register open beside it, and no second holding has ever been brought into the room while it runs. Below this line stand the hour's three shelved neighbours, cleared one at a time against the hour's own log. All three turn on one question — what the hour keeps of the names it borrows — and the four files do not answer it the same way.
+
+**Interaction method:** Fix the desk's own numbers first: tellers named aloud, the gauge fall that follows them, the 94 hours the correlation holds across. Only then lay the other record's series beside them and enter the first parting, its range, its trigger, and whether either series moved. Re-verify at the next hour.
+
+| What the hour names | How the pairing has run | What the desk entered | What the register holds |
+|---|---|---|---|
+| **Allhallow** `O-IIIγ-916` | Filed together on an hour with names in it. That record counts walkers by post and never asks who they were; this one will not move the gauge unless the names are spoken. | The two tallies and the naming series were set side by side once; nothing matched but the hour. | That the pairing is filed for the shape of the hour, entered beside the row on each reading. |
+| **Sky of Borrowed Faces** `O-IIIγ-926` | Grouped on surfaces that carry people who are not there. That record counts them by surface and never by face; this one counts them by name and never by anything else. | One review entry; the surface count and the naming series parted at the first mark and were left apart. | That the parting stands as the finding, kept in the review's own figures. |
+| **Once Told** `O-IVδ-930` | Grouped on narrative that outlives its teller. That record keeps an inventory of twenty manifestations, photographed, and adds nothing across a cycle; this one adds to the register every time a name is said. | Nothing was run. The appendix listed the pair and the review moved on. | That the claim is a filing arrangement, entered beside the row each time it is quoted. |
+
+**Interaction procedure:** Compare in the record only, at the hour's review, with the register re-read first and the other record's series laid beside it unchanged; enter parting, range, trigger, both readings and what persists, and leave the columns as they fell.
+
 ## 이야기 (Narratio) — The Tale
 
-Once Upon was not discovered. It was recognised. The lament pressure had been present in SECTOR-O-920, contained for years — measured, logged, filed under 'ambient anomaly.' It took a junior researcher on Floor 4 to point out that the anomaly had a shape. The shape was Time-Tale. The anomaly was alive.
+Nobody found this one; it was recognised. Lament pressure had been standing in SECTOR-O-920 for years, contained and dull — measured on schedule, logged, shelved under 'ambient anomaly,' read by no one twice. What changed was a junior researcher on Floor 4 asking why the numbers had a rhythm. The rhythm had a shape; the shape was Time-Tale; and the anomaly, once looked at from that angle, had been alive the whole time.
 
 Time itself is the medium. Once Upon does not exist in the way other entities exist — it exists as a moment that carries lament sorrow in a tale register. You cannot point at it the way you can point at a Subject entity. You can only point at its effects.
 
 The effects are cumulative. Each exposure layers lament pressure in the tale register until the personnel cannot distinguish their own tale state from the entity's influence. That is when Fracture risk peaks. That is when the protocols engage.
 
-The entity does not rage. It does not weep. It persists — tale and lament, patient and permanent. Once Upon is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+The hour has no voice in it and no tears. Tale and lament sit on it the way two surnames sit on the same family — inseparable, elderly, neither of them in a hurry. Once Upon does not try for loudest in Somnarak; it is the one that knows which street you came from. A city that issues grief by the same measure to every citizen has no answer for a sorrow that arrives already knowing your address.
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The tale register is not in the manual. We learned it by failing."* — Specialist, Field Team
-*"I have worked lament entities for six years. This one is different. The tale makes it personal."* — Handler
-*"Containment holds. But the protocols need a new chapter."* — Containment Lead
-*"After contact, I could not stop thinking in the tale register for three days."* — Specialist, Recovery
-*"It is one of the first of its kind. We are still learning what Time-Tale means."* — Researcher, Floor 4
+*"Nothing in the training covers an hour that tells your own story back to you. Field Team learned this register the way the district did — one hour at a time."* — Specialist, Field Team
+*"Six years of lament postings taught me to read a gauge. This hour reads me back, and I have not found the instrument that measures that."* — Handler
+*"The perimeter does its job every night. The chapter we are missing is the one about what to tell a resident who recognises their own street in somebody else's story."* — Containment Lead
+*"Three days after my watch I was still hearing the hour's second voice underneath my own, and the gauge read me clean the whole time."* — Specialist, Recovery
+*"We shelved this sector as weather for years. The file now says Time-Tale, and the honest note underneath says we are still finding out what the phrase covers."* — Researcher, Floor 4
 
 ## 기록 (Registrum) — The Record
 
@@ -317,8 +332,8 @@ What recurs most often are conclusions rather than beginnings, and the file repo
 ## Trivia
 
 - One of the first catalogued **Time-Tale** entities in Somnarak.
-- Its tale descriptor makes it structurally unique among time entities.
-- The lament pressure in the tale register feels different from standard lament — more specific, more personal.
+- Nothing else on the 90x shelf is filed as an hour first and a story second; that pairing is what earned it a class of its own.
+- This register does not blanket an area. It walks up to one person with a story attached, and that person is always from somewhere in the district.
 
 ## Document Information
 

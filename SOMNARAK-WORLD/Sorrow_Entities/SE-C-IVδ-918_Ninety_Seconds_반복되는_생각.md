@@ -1,6 +1,6 @@
 # Ninety Seconds — 반복되는 생각
 
-> *"The weight is not punishment. It is recognition."*
+> *"The interval does not repeat the room. It repeats the worst thing you have ever thought."*
 
 ## SECC Classification
 
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
-| **Resistance** | 30% against Void. There is nothing to resist — the holding is ninety seconds of thought that will not move on — and the figure is carried from the schedule. |
+| **Resistance** | 30% against Void, carried from the schedule rather than measured here: the holding never presses on anything, so there is nothing to press back against. What it does is repeat, and the interval is set at ninety seconds. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 513/513 |
 | **Han Pressure [ATK]** | 14–20 per hit · Void |
@@ -88,7 +88,7 @@
 
 1. **Tension:** The boundary is walked and signed at shift start by two people, and the exit question is agreed before anybody enters: one content-free question, chosen in advance, that the worker must answer on leaving.
 2. **Clash:** None. There is a worker inside a ninety-second interval and somebody outside it holding a question.
-3. **Resolution:** The worker steps out and answers the exit question. 211 cycles; the question has worked 202 times, the nine failures were all workers past twenty passes, and the question that works is never about the thought.
+3. **Resolution:** The worker steps out and answers the exit question. 211 cycles; the question has worked 202 times, the nine failures were all workers past twenty passes, and the question that works is never about the thought. It closes against the documented suppression condition: **The worker steps out and answers the exit question**.
 
 ### Consequences
 
@@ -181,8 +181,9 @@ Ninety Seconds is a Time holding with Time-Mind manifestation and Void expressio
 
 **Appearance:** a near-colourless veil whose hem has ninety-one small stitches in it; the Armoury counted them after issue and has not been able to establish who put the extra one in.
 
-**Resistances:** Void: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 0.3 (Resistant) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** Even the wearer has trouble keeping themself present in mind while the veil is worn; the protection makes a person harder to hold in memory.
 **Ability:** Grants resistance to Void damage, protecting against the mind register of sorrow.
 
 ### M.A.W. Stigma — Ninety Seconds's Token
@@ -254,6 +255,21 @@ There is no first sensation. The radius is an unremarkable stretch of floor with
 **When the entity activates:** It does not activate. Somebody steps over a line and is inside ninety seconds that will not finish, and the only sign from outside is that they have stopped moving.
 
 **After departure:** Two paid shifts off, no medical entry, and no record anywhere of what the ninety seconds contained.
+
+## 상호작용 (Entity Interactions)
+
+The chamber has no neighbour and the file has never claimed one. What follows is paper work from the appendix that groups the 90x holdings by manifestation, read against the two files' own series; no co-presence has been run here and the protocol's fourth provision would have something to say about it if one were proposed.
+
+**Interaction method:** Fix the chamber's own numbers first — the pass count, the ninety-second interval against the clock, and the exit question's record — established alone across a full cycle before any comparison is entered. Then read the other record's series against them, entering the first divergence, its range, its trigger, and whether either series changed. Re-verify each quarter.
+
+| What shares the measure | How the pairing has run | What the chamber entered | What the sheet keeps |
+|---|---|---|---|
+| **Breathing Stone** `C-IVδ-907` | Filed together on repetition in a closed space. That record repeats a breath and a rate that has never slipped; this one repeats a thought through 211 cycles, of which the exits failed nine times. | The interval and the respiration rate were compared on paper and held nothing in common but their steadiness. | That the two are filed for the shape of the repetition, noted beside the row as a shape and not a link. |
+| **Labyrinth of the Unfinished Mind** `C-IVδ-909` | Grouped on loops that close on a person. That record returns a walker to a room; this one returns a thought every ninety seconds, which is the same return on a smaller clock. | One joint review entry; the counts diverged from the first mark and neither column was reconciled. | That the divergence is the finding, kept in the review's own figures rather than merged into one series. |
+| **Endless Shift** `C-IVδ-915` | Grouped on intervals that will not sit still. That record stretches an hour past any hour; this one holds its ninety seconds exactly and the person inside it is what stretches. | 2 quarters of the two series were set side by side and diverged at the first mark. | That the interval has never once varied and the deviation belongs to the worker, entered beside the row each time. |
+
+**Interaction procedure:** Compare in the record only, at the quarter's review, with the pass count and the exit question's record re-read first and the other record's series laid beside them unchanged. Enter divergence, range, trigger, both readings and what persists; never reconcile the columns.
+
 
 ## 이야기 (Narratio) — The Tale
 
@@ -382,9 +398,9 @@ The minute records the objection as **correct in all three parts**. It records t
 
 ## Trivia
 
-- One of the first catalogued **Time-Mind** entities in Somnarak.
-- Its mind descriptor makes it structurally unique among time entities.
-- The void pressure in the mind register feels different from standard void — more specific, more personal.
+- The sorrow at SECTOR-C-918 built up over a long stretch with no event behind it — no death, no collapse, nothing anybody thought to record — until the Han would not carry any more of it and what settled out was an interval.
+- The mind descriptor on this file is not a label. It is the channel the holding works through, and every part of the protocol follows from reading it that way.
+- What the loop repeats is specific to the person standing in it and is always the same thing: the worst thought they hold. No worker has ever reported a second-worst.
 
 ## Document Information
 

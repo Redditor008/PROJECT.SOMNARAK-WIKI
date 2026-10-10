@@ -17,7 +17,7 @@
 | Type | Accessory (Stigma) — crimson scale pendant |
 | Grade | γ — Major |
 | Element | Grudge |
-| Slot | Tail |
+| Slot | Chest / Brooch |
 | Acquisition Probability | 4% |
 | Stat Effect | +2 when working the Weighting Bird source record |
 

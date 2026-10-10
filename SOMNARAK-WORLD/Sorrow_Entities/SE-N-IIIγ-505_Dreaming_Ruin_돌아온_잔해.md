@@ -20,29 +20,22 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Simulation figures kept for field work at the ruin. They annotate the holding described above; they do not amend its classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Subject |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure** | Identity and memory — the ruin works on what a dreamer still believes of themselves. |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per completed work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Bring the gauge down through the register's valid Work Types for a Subject-Dream; nothing improvised is authorised at the ruin. |
 
-### Operational Notes
-
-- The Ruin in the Market is intact when dreamed and ruined when observed directly.
-- A cycle steadies the observed state. The dreamed state is unchanged, and no session has reconciled the two.
-- Two ignored conditions escalate it. Escalation presents as the dreamed state persisting into direct observation.
-- Crews record what they observed before sleeping and compare at the desk rather than in the field.
-- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line
@@ -88,7 +81,7 @@
 
 1. **Tension:** The plan sheet comes out first. One hundred and eighty-four gridded panels, hatched where the figure has built that part of the room at least once, blank where it never has. Count the hatched panels and write the number before anything else happens. Sixty-one is baseline; the recorded range is thirty-eight to one hundred and seventy-one.
 2. **Clash:** Flerehan and Ferrehan lower the gauge; Pugnahan raises it and has never once been authorised twice in a session. The figure builds while the team works, and whatever it builds is hatched onto the sheet in the moment, not reconstructed afterwards from memory, for reasons the wing considers too obvious to argue.
-3. **Resolution:** The documented condition: **Wake with an anchor and preserve the memory without rebuilding it.** The worker may hold the room. The worker may not supply a missing part of it. Supplied detail hatches a panel that nobody remembers, and panels hatched that way have never gone blank again.
+3. **Resolution:** The documented suppression condition: **Wake with an anchor and preserve the memory without rebuilding it.** The worker may hold the room. The worker may not supply a missing part of it. Supplied detail hatches a panel that nobody remembers, and panels hatched that way have never gone blank again.
 
 ### Consequences
 
@@ -228,7 +221,7 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 ### M.A.W. Use Notes
 
-Each piece extends Dreaming Ruin rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder loses small, unnamed things from their own home. They are reported afterwards as a wrongness in a room rather than as a missing object, and no wielder has ever named what went — arrives early and does not reverse on return.
+Nothing in the set protects the person holding it; each item lengthens this Ruin's reach instead. While the work stays within the shape the file describes, the benefit stands. Step outside that shape and the toll starts early and never unwinds: the wielder loses small things from their own home that they have no word for. What gets reported afterwards is not an object gone missing but a room that reads wrong, and no wielder has managed, ever, to say what went.
 
 ### Field Use Record
 
@@ -267,7 +260,7 @@ Each piece extends Dreaming Ruin rather than equipping its wielder against it. T
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Dreaming Ruin (N-IIIγ-505 [VS]) is logged as a Subject-Dream manifestation expressing Void, held in the Mask Market quarter, Zone C: a figure assembled from the pieces of one cleared parcel's rooms, which builds a different part of the room on each appearance and has never in sixty years built the same part twice. The holding's instrument is a cumulative plan of one hundred and eighty-four panels — sixty-one at baseline, thirty-eight at floor, one hundred and seventy-one at ceiling. It is this archive's only Negative disposition among the Market holdings, on the evidence of two partition incidents.
+Dreaming Ruin (N-IIIγ-505 [VS]) stands on the register as a Subject-Dream manifestation expressing Void, held in the Mask Market quarter, Zone C: a figure assembled from the pieces of one cleared parcel's rooms, which builds a different part of the room on each appearance and has never in sixty years built the same part twice. The holding's instrument is a cumulative plan of one hundred and eighty-four panels — sixty-one at baseline, thirty-eight at floor, one hundred and seventy-one at ceiling. It is this archive's only Negative disposition among the Market holdings, on the evidence of two partition incidents.
 
 **Entry 2 — <Notice Return: Three Hundred and Six Relocations, Eighty-Eight Equivalence Statements>**
 The first return under the Rule of the Named Loss, Year 4238. This facility issued three hundred and six relocation notices that year. Eighty-eight of them stated that the accommodation provided was equivalent to the accommodation lost; two hundred and eighteen named the loss and stopped. The plan stood at one hundred and seventy-one panels of one hundred and eighty-four in Year 4231, in the two months after the Mask Market clearance, when eleven hundred dwellings were replaced by a single printed notice carrying the equivalence formula and the parcel number and nothing else. It stood at thirty-eight in Year 4236, the quarter the housing office reissued four years of notices in the named form. The plan has tracked the notice return for seven years. It has never once tracked the work done at the Market.
@@ -291,11 +284,11 @@ The ground is the plan. Eleven hundred notices carrying one word put a hundred a
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Dreaming Ruin; the other feeds it.
+> What the worker does with the gaps settles the session: name the room out loud as it was, the missing parts included, or hold steady by filling those gaps in — a door where a door would obviously go.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Name the room aloud, the parts you cannot remember included. | Keep your composure, and fill in what is missing. |
 |---|---|
-| The worker names the room aloud as it was, including the parts they cannot remember, and says so. The gauge falls, the figure builds one panel, and the panel is honest. | The worker holds composure by completing the room — a door where a door would obviously go. The gauge climbs, the figure throws debris, and the sheet carries a circle instead of a hatch for that session. |
+| The worker says the room out loud the way it stood, admitting the parts they cannot recall. The gauge comes down, the figure builds 1 panel, and the panel is honest. | The worker holds steady by finishing the room — a door where a door clearly belongs. The gauge climbs, the figure throws debris, and that session's sheet still shows a circle where the hatch should be. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

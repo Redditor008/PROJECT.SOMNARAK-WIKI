@@ -90,7 +90,7 @@
 
 1. **Tension:** Personnel identify the loop-aware nature, refuse assigned roles, and establish that they will not perform. The entity begins to "set the stage."
 2. **Clash:** Viderehan reveals the loop-fragments; Ferrehan endures the performance without taking a mark. Pugnahan and role-taking feed the entity and raise the gauge.
-3. **Resolution:** The team outlasts the "final act" without performing it; the entity, denied an audience that plays along, lets the curtain fall and withdraws into the next iteration.
+3. **Resolution:** The watch enters under the suppression condition: **stay out of the script — take no role, play no scene, and outlast the "final act" without performing it**. Denied an audience that plays along, the entity lets the curtain fall and withdraws into the next iteration.
 
 ### Consequences
 
@@ -170,9 +170,9 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Breach type:** Escape — it breaks free and stalks the corridors on foot, arriving wherever personnel have just been rather than travelling there.
+- **Containment priority:** Physical suppression. Corridors are closed and Wardens are stood across them, and what those Wardens are containing is a body walking a route it has walked a thousand times before.
+- **Sorrow Gauge on breach:** 40% the moment it walks out, then ten points a turn for as long as it stays loose — and faster if anyone in the corridor begins remembering the loop along with it.
 
 ## M.A.W. Equipment
 
@@ -191,6 +191,12 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 **Appearance:** An R.D.-style coat that, in peripheral vision, reads as a stage costume; it is always slightly too clean.
 
+**Resistances:**
+- Lament: 1.0 (Normal)
+- Grudge: 0.8 (Warded)
+- Void: 0.3 (Resistant)
+- Weight: 1.1 (Weak)
+**Max Amount:** 2 | **Echo Cost:** 45 Sorrow Echoes
 **Ability:** Grants resistance to Void and Clarity-drain by detaching the wearer from their own identity — they become "an actor," momentarily immune to attacks on the self.
 **Cost:** The wearer cannot feel their own emotions while wearing it; each use leaves them emptier, and the coat does not always come off cleanly.
 
@@ -199,10 +205,13 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 **Appearance:** A small earpiece that murmurs a single line on loop — never the same line twice for the same bearer.
 
+**Slot:** Head
+**Acquisition Probability:** 4%
+**Effect:** +3 Clarity when working The Repeated Survivor
 **Ability:** Granted at random by the entity upon a successful work; the bearer gains brief anticipation (they "know" the next moment before it happens), steadying Clarity in scripted situations.
 **Cost:** The bearer occasionally speaks a line they did not choose, in a voice not entirely their own.
 
-*Stigmas are granted at random by The Repeated Survivor upon a successful work, not manufactured.*
+*Nothing here mints a stigma. One is drawn on a successful work, random and unrequested, and the grant is the loop's business rather than the worker's — there is no counter to ask at.*
 
 ### M.A.W. Use Notes
 

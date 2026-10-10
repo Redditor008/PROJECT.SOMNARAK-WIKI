@@ -28,14 +28,14 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Han / burden pressure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Starting Sorrow Gauge** | 35–50%, higher on the nights when the Row has more outstanding than it has managed to settle |
+| **Han-Energy yield** | 12–18 Han-Energy per cycle finished at the mount, the larger figure coming when the chains the light exposed were named aloud instead of left to inference |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Viderehan and Ferrehan only, this being an Object/Place. Ferrehan is the sole approach that lowers the gauge; cycles are worked at the fixed mount and the lantern is never lifted from it. |
+| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β), gathered underneath the mount, with nothing taken from the lantern’s own glass, which has not broken |
+| **Recommended response** | The Row authorises two Work Types and no more — Viderehan and Ferrehan — its holding classed Object/Place, empty of anything worth arguing with. Ferrehan is the one approach that gets the gauge lower; cycles are worked where the lantern hangs, and no authority the Row recognises has ever lifted it off. |
 
 ### Operational Notes
 
@@ -53,10 +53,10 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Weight pressure; 15% against other pressure types |
+| **Resistance** | 25% against Weight pressure, which is the Lantern’s own element, and 15% against whatever else the vault brings to bear on it |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 386/386 |
-| **Han Pressure [ATK]** | 10–23 per hit · Weight |
+| **Sorrow Gauge [HP]** | 386/386, and the mount is where that number lives — the lantern has never been lifted off it for a reading, nor will be |
+| **Han Pressure [ATK]** | 10–23 · Weight, arriving as a showing rather than as a blow: the Lantern makes the debt visible and the weight of it does what follows |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |
 
@@ -69,11 +69,11 @@
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) — Repeats glowing |
 | **Primary Pressure** | Resolve |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 35–50%; a session that opens at the upper end has generally been watched glowing for some while before anybody went in |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, Collector's Row — ambient |
-| **Resolution Condition** | Viderehan and Ferrehan only at the fixed mount, and the gauge below 25% — on Debt-Collector's-Lantern the second follows the first and has never arrived without it. |
+| **Resolution Condition** | Viderehan and Ferrehan only, at the fixed mount, with the gauge pulled below 25% before the cycle may be entered as a close. On Collector’s Row the order has never varied: the two Work Types do the lowering, and a gauge that came down on its own has never been accepted as a close. |
 
 ### Combat Actions
 
@@ -87,9 +87,9 @@
 
 ### Battle Phases
 
-1. **Tension:** Debt-Collector's-Lantern is confirmed by the cold light and the floor mark; the Row's other lamp is warm and burns oil, and the two have been confused in incident reports from outside the wing. The team establishes its position and its withdrawal before the cycle opens.
-2. **Clash:** Four turns at the mount, observation and endurance only. No one carries it, no one tilts it, and the radius is measured at the start and the end of every turn.
-3. **Resolution (Debt-Collector's-Lantern):** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+1. **Tension:** The cold light and the floor mark make the identification; the Row's other lamp is warm and burns oil, and the two have been confused in incident reports from outside the wing. The crew takes its position and fixes its line of withdrawal before the first turn.
+2. **Clash:** Four turns at the mount, nothing but watching and holding. Nobody carries the lantern, nobody tilts it, and the radius is walked at the open and close of every turn.
+3. **Resolution (Debt-Collector's-Lantern):** The watch closes by holding, management or withdrawal, or against the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
 
@@ -145,7 +145,7 @@
 
 ### Operational Work Notes
 
-Debt-Collector's-Lantern is an Echo (II) Object/Place of Moderate (β) potency, Object-Weight manifestation, Weight expression, held at a fixed mount in Collector's Row. Flerehan and Pugnahan are recorded N/A because an object cannot be grieved with or fought; the working range is Viderehan and Ferrehan alone, and the holding's hazard is informational rather than physical.
+Debt-Collector's-Lantern is an Echo (II) Object/Place of Moderate (β) potency, Object-Weight manifestation, Weight expression, held at a fixed mount in Collector's Row. Nothing here can be grieved with or fought, so Flerehan and Pugnahan are entered N/A and the range is Viderehan and Ferrehan alone. What it threatens is information, not the body.
 
 **Reading the response:** Read it in the radius and the intensity card, never in the feeling of the room, which on this holding is consistently misleading. A falling gauge presents as intensity dropping with the radius unchanged; a rising one presents as the radius creeping past the floor mark, and that movement is permanent whatever the gauge does afterwards.
 ## Activation Behavior
@@ -218,9 +218,9 @@ Escalation here is radius and nothing else. Record the trigger, the measurement 
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-Appearance : A flared-muzzle bronze hand-cannon incorporating a glass lantern chamber beneath the barrel, ignited by an enclosed wheel-lock mechanism and operated via a curved finger lever.
+Appearance : A bronze hand-cannon with a flared muzzle, a glass lantern chamber riding under the barrel, lit by an enclosed wheel-lock and worked by a curved finger lever.
 
-The cannon fires incandescent phosphor pellets that illuminate dark chambers with blinding golden flare. The flame inside the underbarrel lantern flickers in rhythm with nearby sorrow activity.
+The cannon throws incandescent phosphor pellets; a dark room goes gold. Under the barrel, the lantern flame answers sorrow nearby the way a pulse answers a hand.
 
 **Ability:** *Ledger's Illumination* — Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Projects a focused beam of heavy light across Range 4 (4–8m), exposing hidden karmic burdens and halving target movement speed as the weight of their debt anchors their feet to the ground.
 
@@ -228,7 +228,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 ### M.A.W. Suit — The Collector's Oilskin Trench-Coat
 
-**Category:** GUN (Flared Bronze Lantern Hand-Cannon)
+**Category:** ARMOR (Lead-Weighted Oilskin Trench-Coat)
 **Grade:** β | **Element:** Weight
 
 **Appearance:** A stiff, ankle-length oilskin trench-coat in faded midnight black, lined with lead-weighted hem plates and stamped with faint, bureaucratic tax seals. The collar is high and reinforced with brass wire, shielding the wearer from ambient sorrow fallout.
@@ -247,7 +247,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 ### M.A.W. Stigma — Pale Wick Stigma
 
-**Category:** GUN (Flared Bronze Lantern Hand-Cannon)
+**Category:** ACCESSORY (Pale Lantern-Wick Mark)
 **Grade:** β | **Element:** Weight
 
 **Appearance:** The bearer's right pupil takes on the appearance of a smoldering, heatless lantern wick that glows with a faint white ember in darkness, faintly outlining the karmic debts of nearby entities.
@@ -260,11 +260,11 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Cost:** The wielder cannot ignore what the light shows.
 
-*The Pale Wick Stigma is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who read their own itemisation aloud to the watch rather than keeping it, which is not a procedure and has never been required of anybody.*
+*No one issues the Pale Wick and no one can ask for it. Twice it has been conferred, both times on a Warden who read their own itemisation out to the watch instead of keeping it — not a procedure, and never required of anyone.*
 
 ### M.A.W. Use Notes
 
-Each Vigil piece is an extension of the holding rather than equipment. It performs as recorded while the wearer's own obligations are entered honestly in the pre-use log, and costs more when they are not; the lantern lights the wearer first in either case. The Stigma is conferred by the entity after a work cycle and is not manufactured, requested, or scheduled.
+The kit is not equipment; each Vigil piece is a part of the holding carried out. It does what the record says only while the bearer's own debts are written honestly into the pre-use log, and charges more when they are not — and either way the lantern lights the bearer first. The Stigma comes from the entity after a cycle: nothing schedules it, nothing requests it, and nothing makes it.
 
 ### Field Use Record
 
@@ -282,7 +282,7 @@ Each Vigil piece is an extension of the holding rather than equipment. It perfor
 
 - It brightens near debtors and near Collectors alike, and the file records that this symmetry was the first finding anybody wrote down about it.
 - Inherited obligations light brighter than contracted ones, consistently, by a margin the intensity card can resolve.
-- It has never gone completely dark in nine years of continuous logging, including during the two Tides when the Row was evacuated and nobody was present at all.
+- It has never gone completely dark in 9 years of continuous logging, not even during the 2 Tides, when the Row stood evacuated and nobody was present at all.
 
 **Personnel Note:** *"It does not accuse anyone. It just shows how much light the arrangement needs to go on looking fair. I have stopped telling new staff that it is beautiful."* — Specialist, Zone C patrol
 
@@ -293,9 +293,9 @@ Each Vigil piece is an extension of the holding rather than equipment. It perfor
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Debt-Collector's-Lantern as an Object/Place with Object-Weight manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone C, Collector's Row — ambient. |
-| **Sustained observation** | Intensity on the nine-point card, radius against the floor mark, every dimming with the time and the words spoken, mount seals, and a note of every person who entered the lit area and whether they were told what it shows. |
+| **Sustained observation** | Intensity on the 9-point card, radius against the floor mark, every dimming with the time and the words spoken, mount seals, and a note of every person who entered the lit area and whether they were told what it shows. |
 | **Activation or escalation** | Escalation is recorded the moment the lit edge passes the floor mark. Chalk the new edge, photograph it against the old, record who was standing inside it, and do not wait for the gauge, which on this holding moves afterwards rather than before. |
-| **Post-contact review** | Radius before and after, intensity series, dimmings with circumstances where known, gauge movement, and a seven-day check on each worker for unprompted disclosure of their own obligations to colleagues. |
+| **Post-contact review** | Radius before and after, intensity series, dimmings with circumstances where known, gauge movement, and a 7-day check on each worker for unprompted disclosure of their own obligations to colleagues. |
 
 **Observation method:** Measure, card, chalk, and write down what was said. The form here is the sorrow and not a forecast: a man walked a round until the households stopped being households and became brightness, and the object he carried has been getting wider ever since.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -303,7 +303,7 @@ Each Vigil piece is an extension of the holding rather than equipment. It perfor
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Debt-Collector's-Lantern (N-IIβ-250 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Lantern formed from the sorrow of collecting from others. Held at Zone C, Collector's Row — ambient. It glows near debtors and Collectors alike.
+Debt-Collector's-Lantern (N-IIβ-250 [WO]) is entered as an Object-Weight manifestation, Weight element. It formed out of the sorrow of collecting from other people. Held at Zone C, Collector's Row, ambient: the glow does not distinguish a debtor from a Collector.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its light is brighter for inherited obligations.
@@ -319,11 +319,11 @@ The lantern is never carried and it is never where it was left. It burns cold, a
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Debt-Collector s-Lantern; the other feeds it.
+> The light settles the ending on one question: measure the burden where it stands, with the 2 Work Types at the mount, the certified protocol and the chalk redrawn after each expansion, nothing lifted — or lift it for somebody, because the night seems to ask.
 
-| Hold to the condition: Viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority. | Improvise something kinder, which is how every failure on Debt-Collector's-Lantern's file began. |
+| Keep to the file: the 2 Work Types at the mount, certified Tool protocol, the chalked radius redrawn after every expansion, and nothing lifted on any authority. | Improvise something gentler, which is where every failure on this record starts. |
 |---|---|
-| Remains beside the worker while the burden is measured. The sorrow is borne; Debt-Collector's-Lantern is fully recorded. | Reveals hidden debts and their origins. The gauge climbs and Debt-Collector's-Lantern withdraws without revelation. |
+| The light stays with the worker through the measuring, the burden gets carried, and the record closes complete. | Hidden debts and their sources come into view instead, the gauge climbs, and the object goes dark on its revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -342,14 +342,14 @@ The Lantern glows before anyone enters the room. Its light touches your shoulder
 
 ### Interaction Pattern
 
-This holding is read against the other Row objects that handle obligation. Each relation below has been observed and filed; none is settled; and all three were tested at the mount, since the lantern cannot be brought to anything.
+The Row's other obligation objects are the comparison set for this one. Three relations were filed and none is settled, and all three had to be run at the mount — the lantern cannot be carried to anything.
 
 **Interaction method:** Baseline each party alone over several cycles — intensity, radius, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. All three were proposed on the theme of debt, which is the Row's organising idea and also the reason the pairings here are weaker than they look.
+The rows below are filed as points of contact, not alliances, and none is settled. Debt proposed all three; the Row's organising idea is also why these pairings are thinner than they read.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -465,12 +465,13 @@ The cost is carried in exactly one place. A failed cycle is recorded against the
 
 The objection is raised annually by the Row's senior Warden and is minuted in full. It holds that the Directorate has set a figure that can only be met by failing, has never said so, and has therefore obtained a practice it would not authorise if asked to authorise it in writing; that the entire cost of the arrangement falls on fourteen named people in the form of a performance record that is the exact inverse of their compliance, while the Directorate's own figures show the target being met; and that the lit area, which is the thing actually being traded away, now covers ground where people live, so that each quarter's yield is purchased by making more households' obligations visible to anybody who walks past.
 
-The minute records the objection as **correct in all three parts**. It records that a proposal to decouple the target from the radius was drafted in the eighth year, costed, and not laid. And it records the senior Warden's closing sentence, which the clerk entered verbatim at her insistence: *we are paid in light, and the light is coming out of their houses.*
+The objection is minuted as **correct in all three parts**. In the eighth year a proposal to decouple target from radius was drafted and costed and never laid. And it records the senior Warden's closing sentence, which the clerk entered verbatim at her insistence: *we are paid in light, and the light is coming out of their houses.*
 
 ## Trivia
 
 - It brightens for Collectors who believe themselves owed nothing, which is the observation the Row's staff find hardest to be told about.
 - It shows obligations that appear in no official ledger, which is the property that makes it useful and the property that makes it unusable.
+- The flame does not lean toward one debtor over another. Two wardens measured it against a standard wick and got the same ratio both times, and the figures are kept with the mount's maintenance tab rather than in the text.
 
 
 

@@ -28,20 +28,20 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 10–14 per successful cycle, read off the caliper line rather than the lot |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Offer presence without forcing entry. Viderehan and Ferrehan are the valid Work Types and nothing else has been authorised. |
+| **Recommended response** | Presence is offered without any pressure to enter. Viderehan and Ferrehan are the only work authorised on this file, and nothing outside them has ever been signed off. |
 
 ### Operational Notes
 
 - A watch holds the recession for the day it is kept. Nothing done in the lot in thirty years has brought the brow back out beyond the day of the watch.
 - No breach counter; the gauge trigger is 45 per cent. What the file calls expansion is the quiet reaching further across the lot, which has happened six times and withdrawn six times with nobody intervening.
 - Yield is 10 to 14 per cycle, the lowest band in the wing, and the exposure is the quietest. The infirmary's note records that this holding produces fewer incidents and more resignations than any other in Zone D.
-- Extraction is separately authorised and is never a reward for a clean watch. The charm is withheld from any worker who has an open welfare indicator against their own name.
+- Extraction needs its own authorisation and is never paid out as a prize for an uneventful watch. No worker carrying an open welfare indicator against their name is issued the charm.
 
 ## Combat Record
 ### Core Stat Line
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Void pressure; 5% against other pressure types |
+| **Resistance** | 15% against Void pressure, 5% against every other kind |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Han Pressure [ATK]** | 3–10 per hit · Void |
@@ -77,23 +77,23 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Snore* [**Debuff**] } | "The wall vibrates — a deep, structural hum — the sound of stone dreaming." | [The Wall's dormant resonance permeates the target; they feel sleepy.] | *Target suffers a Void mark; the wall's sleep is contagious.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target leans on the Wall. |
-| { *The Settling* [**Debuff**] } | "The wall sinks a fraction — in its sleep — and the settling cracks the floor." | [The Wall's dream-settling creates instability.] | *Target loses clarity; the ground is shifting.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The Snore* [**Debuff**] } | "The wall gives off a deep structural hum, the sound a stone makes while it dreams." | [The dormant resonance passes into the target and settles there.] | *The target takes a Void mark; the wall's sleep passes to them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Leaning on the Wall. |
+| { *The Settling* [**Debuff**] } | "The wall drops a fraction in its sleep, and the floor cracks where it settles." | [The settling in the Wall's dream leaves the ground unsteady.] | *The target's clarity slips; the ground is moving under them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Lingering near the face. |
 | { *The Sleep-Twitch* [**Attack**] } | "The mortar cracks along four feet of the face, once, and nothing follows it. It has not woken. It has turned over." | [An involuntary structural convulsion.] | *Inflicts Void damage; the crack warps space.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a watch is cut short before the hour. |
 | { *The Full Awakening* [**Attack**] } | "Modelled only. In thirty years it has not woken, and the first thing a barrier would do on waking is decide what to keep out." | [Reconstruction; never observed.] | *A heavy Void activation; the target's Sorrow Gauge rises 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | Modelled at a recession below one millimetre. Not recorded. |
-| { *Every Wall Wakes* [**Ultimate**] } | "Every wall in the field stirs — and they are all deciding, simultaneously, who belongs inside." | [The Wall extends its waking across the whole area.] | *All in range suffer Void erosion for three turns of waking barriers.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *Every Wall Wakes* [**Ultimate**] } | "Every wall in the field starts to stir, and all of them are working out at once who belongs inside." | [The Wall carries its waking out across the whole area.] | *Everyone in range takes Void erosion for three turns among waking barriers.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the gauge passes 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (the caliper reading, not by the figure. The relief is clearest at the lowest recessions and almost invisible at the highest, which means the wall looks most like a sleeping person on exactly the days the reading is best) and Bulwark is confirmed against the designation; positions are taken and the cycle is opened.
-2. **Clash:** Viderehan and Ferrehan only; Flerehan and Pugnahan are N/A under the Object/Place Work Rule. The reading is the recession: the depth of the carved brow below the plane of the wall face, in millimetres, taken with the fixed caliper bridge at the end of the hour. Eleven millimetres is baseline. The recorded range is zero to ninety-six.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Offer presence without forcing entry**.
+1. **Tension:** The caliper reading is checked, never the figure. At the lowest recessions the relief is obvious and at the highest it is nearly invisible, which means the wall most resembles a sleeping person on the very days the reading is best. Bulwark is confirmed against the designation on that basis; positions are taken and the cycle is opened.
+2. **Clash:** Viderehan and Ferrehan are the whole of the work; Flerehan and Pugnahan do not apply under the Object/Place Work Rule. What is read is the recession — how far the carved brow sits below the plane of the wall face, in millimetres, taken with the fixed caliper bridge at the close of the hour. Baseline is 11 millimetres and the recorded range runs from 0 to 96.
+3. **Resolution:** The cycle is over when the offered thing has been taken, refused, or left standing — or under this lot's own suppression condition: **Offer presence without forcing entry**.
 
 ### Consequences
 
 - Composure fails here as silence. The worker sits the hour, decides not to mention something of their own, and finds afterwards that they have decided it rather than postponed it.
 - Long exposure produces a worker who stops applying for things. Twenty-two Wardens rotated off this lot were afterwards found to hold open welfare indicators and no applications, a figure the welfare office compiled on its own initiative and attached to the file without being asked.
-- The set costs small nameless memories, reachability and the odd word, each for about a day. The armoury's note records them in one line and records in a second that the plate's cost is the one nobody reports.
+- The price runs in small nameless memories, a day's reachability, the occasional word — each about a day's worth. The armoury enters them in one line, and adds in the next line that the plate's cost is the one nobody bothers to report.
 - It has never breached and there are no fail-safes to collapse; the lot has no boundary and never has. What happens instead is that the quiet reaches further and the caliper goes deeper, and both have reversed on their own six times.
 
 ## Appearance
@@ -147,7 +147,7 @@
 
 Ferrehan lowers the gauge and Viderehan holds it level, which makes Ferrehan the primary Work Type here; the Registrum named Viderehan and has been reconciled against this table. Flerehan and Pugnahan are N/A under the Object/Place Work Rule, and an earlier note in this section discussed why Flerehan calms this holding, which is a sentence about work that cannot be performed on it. The manifestation is Place-Void, matching the [VP] designation and the Void element; the Place-Lament entries were the drift and have been corrected.
 
-**Reading the response:** The gauge measures one worker for one hour. The caliper measures how far this facility's provisions are from the people who qualify for them. They are kept in separate columns, they have never moved together, and an hour that lowers the gauge and reads deep is written up as a good watch without qualification.
+**Reading the response:** The gauge reports one worker across one hour. The caliper reports how far this facility's provisions sit from the people who qualify for them. Those two numbers stay in separate columns and have not moved in step once; an hour that lowers the gauge and reads deep goes into the record as a good watch with no qualification attached.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -209,7 +209,7 @@ The weapon is intended to be rested on parapets or barricades to manage its fero
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a plated harness of Void Han-glass, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a plated harness of Void Han-glass, barely translucent and near colourless, shifting and breathing along with the wearer.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -227,21 +227,21 @@ The weapon is intended to be rested on parapets or barricades to manage its fero
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a small charm of Void Han-glass that takes the light at an odd angle and keeps hold of it.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 when working this entity, and the bearer is barred from approving their own leave. The holding added the second clause after a bearer worked eleven consecutive watches here and signed off every one of them himself.
+**Effect:** +1 work stat against the entity this piece answers to, and the bearer is barred from approving their own leave; that second clause went in after a bearer worked 11 watches here in a row and signed off every one of them himself.
 
 **Ability:** The charm goes cold against the head when the bearer is about to say that they are fine. It confers nothing else and the holding has stopped describing it as a boon.
 
 **Cost:** The bearer loses a word now and then, and in every logged instance it was a word they were about to use to decline something. Four bearers recorded the pattern separately before anyone compared them.
 
-*The charm has been granted seven times, every one to a worker who accepted something they had not applied for. Four of the seven had refused the same thing twice when it was theirs to request. The holding records the pattern and will not make it a criterion.*
+*The charm has gone out seven times, each to a worker who took a thing nobody had offered them by request. Four of the seven had turned the same provision down twice when the form was in their own hands. The holding keeps the count and refuses to turn it into a rule.*
 
 ### M.A.W. Use Notes
 
-The set is built around asking: a gun that will not fire through a line of people, a plate that must be handed back rather than returned, a charm that chills when its bearer is about to say they are fine. The armoury's note records that none of it was designed, that it was found piece by piece over thirty years, and that the fourth piece attempted here — a token that signalled a bearer's need to the welfare office without the bearer's knowledge — worked exactly as specified and was destroyed the day it was demonstrated.
+Nothing here was made to be carried out: a gun that refuses to fire through a row of people, a plate that is handed back and never returned, a charm that goes cold the moment its bearer is about to claim they are managing. The armoury notes that this was not the design — the pieces were collected over thirty years, one at a time — and that the fourth attempt, a token meant to tell the welfare office a bearer was drowning without telling the bearer, did precisely what it was specified to do and was destroyed the same day it was shown.
 
 ### Field Use Record
 
@@ -272,7 +272,7 @@ The set is built around asking: a gun that will not fire through a line of peopl
 | **Initial exposure** | Caliper, chalk, and the hour. The observer is told at the gate that the holding will not respond to them, will not acknowledge them, and will read better on days they feel they have done nothing. |
 | **Sustained observation** | Over a year the recession detaches from the lot and attaches to the welfare return. Observers holding both columns stop proposing new work here; there is nothing to do in the lot but sit the hour honestly and send the millimetres on. |
 | **Activation or escalation** | A recession ten millimetres deeper than the last watch opens a documents search rather than a lot response: how many people met a welfare indicator in the preceding quarter and how many were approached by a named officer rather than left to apply. The search has succeeded on twenty-six occasions out of twenty-nine. |
-| **Post-contact review** | Three caliper readings, the chalk lines with their bearings, the sealed declaration, and the quarter's welfare return attached with the unapproached cases listed by staff number. Totals are returned. A review that reports five thousand two hundred and twelve is not a review anybody can act on. |
+| **Post-contact review** | Three caliper readings, the chalk lines with their bearings, the sealed declaration, and the quarter's welfare return attached with the unapproached cases listed by staff number. Totals only are returned: a review reporting 5,212 is not a review anybody can act on. |
 
 **Observation method:** Recession at the brow in millimetres, fixed caliper bridge, end of the hour, three readings, deepest reported. Then the four chalk lines. Never judged by how much the figure looks like a sleeping man, which is inversely related to the reading and has misled four separate watches into standing their holding down.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -280,10 +280,10 @@ The set is built around asking: a gun that will not fire through a line of peopl
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Bulwark (N-Iα-459 [VP]) is logged as a Place-Void manifestation expressing Void, lying flat in the empty lot behind the fourth barrack in the Forge District, Zone D: ordinary stone with the low relief of a sleeping man in its face, bloodless-cold, smelling of ash, the grain of the rock running through his chest as though he were breathing in it. It has never moved, opened or woken. Its instrument is the recession of the carved brow below the plane of the wall face — eleven millimetres at baseline, zero at the floor, ninety-six at the ceiling.
+Bulwark (N-Iα-459 [VP]) stands on the register as a Place-Void manifestation expressing Void, lying flat in the empty lot behind the fourth barrack in the Forge District, Zone D: ordinary stone with the low relief of a sleeping man in its face, bloodless-cold, smelling of ash, the grain of the rock running through his chest as though he were breathing in it. It has never moved, opened or woken. Its instrument is the recession of the carved brow below the plane of the wall face — eleven millimetres at baseline, zero at the floor, ninety-six at the ceiling.
 
 **Entry 2 — <Welfare Return: Seven Thousand Three Hundred and Eighteen Eligible, Two Thousand One Hundred and Six Applications>**
-The first return under the Rule of the Unrequested Offer, Year 4238. This facility maintains nine welfare provisions — hardship relief, rest rotation, counselling, housing, bereavement leave and four others — and before this year every one of them operated on application. Over the preceding nine years, seven thousand three hundred and eighteen people met the published indicators for at least one provision and two thousand one hundred and six applied. This year one thousand four hundred and thirty-one people were offered a provision by name, in person, by a named officer, without having asked: one thousand and twenty-two accepted something. Two hundred and six recorded a formal opt-out from future approaches, and thirty-eight of those two hundred and six have since met the indicators again and could not be approached. Ninety-four people recorded in writing that being approached was the worst thing that happened to them this year. The recession stood at ninety-six millimetres in Year 4223, the year the hardship fund was publicised by poster alone and its uptake fell to eleven per cent. It stood at zero in Year 4237. The depth has tracked the application gap for thirty years and has never tracked anything done in the lot.
+Taken from the first return entered under the Rule of the Unrequested Offer, in Year 4238. The facility runs nine welfare provisions — hardship relief, rest rotation, counselling, housing, bereavement leave and four more — and until this year all nine waited for the applicant to move first. In the nine years before it, seven thousand three hundred and eighteen people met a published indicator for at least one provision, and two thousand one hundred and six applied. This year, one thousand four hundred and thirty-one people were approached by name — in person, by an officer who gave their name — without having asked: one thousand and twenty-two took something. Two hundred and six signed a formal opt-out from further approaches, and thirty-eight of that two hundred and six have since met the indicators again and cannot be approached. Ninety-four put it in writing that the approach was the worst thing to happen to them all year. In Year 4223, the year the hardship fund was advertised by poster and nothing else, uptake fell to eleven per cent and the recession stood at ninety-six millimetres. In Year 4237 it stood at zero. Across thirty years the depth has followed the application gap and nothing else; nothing done in the lot has ever moved it.
 
 **Entry 3 — <Statement of a Welfare Officer, Forge District>**
 Everything we have is there for the asking and I have never once believed that sentence does the work people think it does. The form is one page. The office is open. Nobody is refused. And the man who most needs the rest rotation is the man who has decided that needing it is a debt, and he will not write his name on a one-page form to say so, and we call that his choice and go home. I have sat across from people who were three weeks from going under and who answered, politely, that they were fine and that others needed it more, and I filed that answer because the answer was theirs to give. I have filed four hundred of them. It is the most correct thing I do and I do not know how to defend it any more.
@@ -292,7 +292,7 @@ Everything we have is there for the asking and I have never once believed that s
 Containment of N-Iα-459 is a lot discipline in the Forge District and an offer rule in the welfare office. Lot: Ferrehan primary, Viderehan secondary, Flerehan and Pugnahan N/A under the Object/Place Work Rule; the full hour sat beside it, nothing knocked on, nothing asked of it, nothing said; recession at the brow taken with the fixed caliper bridge at the end of the hour, three readings, deepest reported; the four cardinal chalk lines paced and marked; the plate handed to the relief at the gate and the reachability check reported by the relief; the lot left open, closure having been proposed and refused twice. Welfare duties, binding on every provision this facility operates: **a provision that is available on application is additionally offered, by name, in person, by a named officer, to every person the published indicators identify, whether or not they have asked. A refusal is recorded with the date and the provision is offered again at the stated interval. A person may record a single formal opt-out from further approaches, and the opt-out is honoured.** Work response — Viderehan: it shows what was available and never asked for, and has never shown a refusal (Stable); Ferrehan: the hour, unasked and unspeaking (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only: The Unrequested Offer>**
-The counselling wing opposed this rule and I have never been able to get round their objection; I have only decided to live on the other side of it.
+The counselling wing fought this rule, and I have never found an answer to their objection — only a decision to keep working on the far side of it.
 
 Their case: to be sought out and offered something you did not ask for is to be told that you have been watched, measured against a list, and found wanting. For some people the last thing they own is being left alone. A mandatory re-offer at a stated interval is a mandatory reminder, at an interval of our choosing, that we have an opinion about how they are coping. The head of the wing put it in a line I have not improved on: *you are going to help them by taking away the only decision they had left.*
 
@@ -300,15 +300,15 @@ What we have done is allow a single recorded opt-out, honoured without argument 
 
 Two hundred and six people opted out this year. Thirty-eight of them have since met the indicators again and nobody is permitted to go near them, and I signed the provision that makes that so. Ninety-four people recorded in writing that the approach itself was the worst thing that happened to them this year, and I have read the ninety-four, and some of them are not complaining about the manner of it. They are complaining about being seen.
 
-I want the Forge barracks named here, because the comfortable version of this story has a negligent officer in it and there was not one. A hardship fund, a rest rotation and a counselling hour, all three well run, none ever refused to anybody, all three advertised, all three on a single-page form. Three reviews have confirmed it. The man in the wall could have had any of them for the asking and nobody ever failed him.
+The Forge barracks belongs in this record, because the tidy version of the story wants an officer who neglected him, and there was none. A hardship fund, a rest rotation, a counselling hour — all three in working order, none of them ever withheld from anyone, all three posted, all three on one page of paper. Three reviews have said so. Everything the man in the wall needed was his for the asking, and not one person in this district failed him.
 
-The ground is the caliper. The year we publicised the hardship fund by poster alone and let the applications come, the brow went to ninety-six millimetres, the deepest in thirty years. The first year we went and asked people, it came flush with the stone. We have never been able to show that waiting to be asked preserved anybody's dignity. We can show, in millimetres, what it costs them.
+The ground is the caliper. The year we publicised the hardship fund by poster alone and let the applications come, the brow went to ninety-six millimetres, the deepest in thirty years. The first year we went and asked people, it came flush with the stone. Nobody here has ever managed to show that waiting to be asked preserved anybody's dignity. We can show, in millimetres, what it costs them.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Bulwark; the other feeds it.
+> The hour closes on one decision, and the file keeps its two endings on it: sit it out and let the wall be what it is, or speak to it — kindly, by name — because an hour of silence is more than most people can hold.
 
-| Do the thing on file: Offer presence without forcing entry. | Depart from the condition for good reasons, as Bulwark's record shows people do. |
+| Do the file's way: presence offered, entry never forced. | Leave the condition behind for good reasons, the way this record says people do. |
 |---|---|
 | The worker sits the full hour, asks it nothing, and takes three honest readings at the end however deep they come out. The gauge falls and the watch stands. | The worker speaks to it — kindly, by name, because an hour of that silence is more than most people can hold. The gauge climbs, the readings are void, and the quarter's series carries a gap. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -325,22 +325,22 @@ The Forge is loud everywhere except in the lot behind the fourth barrack. You si
 
 **When the entity activates:** The quiet is further out than the chalk and the brow is deeper than last week. Nothing happened here. A quarter ago a fund was advertised on a wall and the people who qualified for it read the poster and did not write their names down.
 
-**After departure:** You think of something you need and have not asked for. Most people have one and most people name it before the gate. The counselling wing logs it and treats it as useful rather than as exposure, and then — this is the holding's own doing — offers it to them.
+**After departure:** A worker comes away thinking of something they need and have never asked for. Most people carry one, and most name it before the gate. The counselling wing enters it and calls it useful rather than exposure — and then, this being the holding it is, actually offers it to them.
 
 ### Interaction Pattern
 
-Three records are grouped with this one on the ground that all four are empty in some way, and none of the three has ever been brought within a kilometre of this lot. The relationships are paper. The holding's position, repeated here, is that emptiness is a shape and not a sorrow, and that grouping by shape is how this file spent its first twenty years learning nothing.
+Three records are shelved beside this one because all four are empty in some way, and not one of the three has ever been brought within a kilometre of this lot. The links are on paper only. The holding's position, set down here again, is that emptiness is a shape and shapes are not griefs — and that sorting by shape is how this file spent its first twenty years learning nothing.
 
-**Interaction method:** No proximity trial has ever been run here and none is scheduled. For each paper relationship, one question: was the thing taken, refused, or simply never asked for. Write the answer in a sentence and sign it. Only the third is this holding.
+**Interaction method:** No proximity trial has ever been run here and none is scheduled. Each paper relationship gets one question: was the thing taken, was it refused, or was it simply never asked for. The answer goes down as one sentence, over the writer's signature. Only the third answer describes this holding.
 
 
 ### Entity Interaction Record
 
-Three records are grouped with this one and the grouping is by emptiness, which is the standing problem with this file. Emptiness is not a sorrow; it is a shape that several sorrows take. What separates this one is that nothing was taken from it and nothing refused it. Everything it wanted was available, on request, from an office that would have said yes.
+This one is filed alongside three records and the grouping is by emptiness, which is the standing weakness of this file. Emptiness is not a sorrow; it is a shape several sorrows take. What separates this one is that nothing was taken from it and nothing refused it — everything it wanted was available on request, from an office that would have said yes.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| What sits alongside it | How the pairing has run | What the lot entered | What the file retains |
 |---|---|---|---|
-| **Breach** | Grouped on failed boundaries. The grouping is the weakest in the file: that holding is a boundary that gave way and this is one that held perfectly and was never tested. | No trial. The claim rests on a Year 4211 summary line and no measurement exists. | That the claim is unevidenced, written beside it each time it is repeated. |
+| **Breach** | Filed together on failed boundaries. Of everything in the folder this is the weakest pairing: that holding is a boundary that gave way, and this is one that held perfectly and was never put to the test. | No trial. The claim leans on a Year 4211 summary line and nothing was measured. | That the claim is unevidenced, entered beside it on each repetition. |
 | **The Empty Mask** | Grouped on identity preserved through absence. A proposal to test the pairing was made in Year 4230 and withdrawn by its own author, whose note is in the folder. | Unmeasured. The author's note states that he could not formulate what a positive result would look like. | The proposal and the withdrawal kept together, the note quoted rather than summarised. |
 | **The Hollow Tree** | Grouped on emptiness held as a space. The distinction the holding insists on: that one is hollow because something left, and this one is solid all the way through. | Unmeasured, and the holding has opposed a trial on the ground that the grouping is a figure of speech. | The objection cited, not re-argued. |
 
@@ -384,19 +384,19 @@ Some sorrows are about rejection. Bulwark is about the failure to ask — the co
 - Recession at the brow with the fixed caliper bridge, end of the hour, three readings, deepest reported. Never judged from how much the relief looks like a man.
 - Four cardinal chalk lines paced and marked each watch; the barrack complaint book read alongside them.
 - The lot stays open. Closure has been proposed twice and refused twice.
-- The Rule of the Unrequested Offer is a containment condition of this entity and binds every welfare provision this facility operates.
+- The Rule of the Unrequested Offer governs every provision the facility runs, and for this holding it is a containment condition rather than house custom.
 **Observation Notes:**
 - A Forge worker who was refused nothing, failed by nobody, and never asked. The barrack roll is the whole of his record.
-- Recession 11 mm at baseline, range 0 to 96. It tracks the application gap and has never tracked the three reviews that cleared the barracks.
+- Recession at baseline 11 mm, ranging 0 to 96. It answers to the application gap and has never answered to the three reviews that cleared the barracks.
 - Six expansions, six withdrawals, no intervention in any of the twelve. Two were detected from a blank complaint book rather than from the lot.
 - The warming under a patient visitor is real and has never once coincided with the brow returning. Charted together for eleven years to be sure.
 **Cross-References:** Zone D, Forge District · the welfare return and its nine provisions · the Year 4223 poster-only publicity of the hardship fund · the two hundred and six opt-outs and the thirty-eight unapproachable · the twenty-two Wardens with open indicators and no applications
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
+**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant) · the welfare office, which is named here because the Rule of the Unrequested Offer binds this holding and the office owns the rule.
 **Originator:** A Forge worker on the fourth barrack roll, named there and in nothing else: no complaint, no incident, no counselling record, no application. Three reviews have confirmed that everything he needed was available to him and that no officer failed in any duty.
 
 ### Registry Addendum
 
-**Operational interpretation:** Read this file with the welfare return beside it. Taken alone it holds a wall that has never done anything to anybody in an open lot behind a barrack, and five assessors have written exactly that, each with thirty years of millimetres in front of them and no idea what the depth was counting.
+**Operational interpretation:** This file is read with the welfare return beside it. On its own it holds a wall that has never done anything to anybody in an open lot behind a barrack, and 5 assessors have written exactly that, each of them with thirty years of millimetres in front of them and no idea what the depth was actually counting.
 
 **Review requirement:** On any recession ten millimetres deeper than the last watch: verify the caliper and the bridge bolts, read the barrack complaint book for the quarter, then pull the welfare return and list by staff number every person who met an indicator and was not approached by a named officer. Totals are not accepted. Any watch in which the lot was spoken to is named in the review with what was said, and the void readings stand as void.
 ## Trivia

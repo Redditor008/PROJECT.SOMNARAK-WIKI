@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Void pressure; 15% against other pressure types |
+| **Resistance** | 25% against Void pressure; 15% against everything else. It does not present as a wall here — what the carrier holds off is the schedule — and a bearer who answers all 18 items without pausing is filed as a worse sign than one who blocks the eighth. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Han Pressure [ATK]** | 10–23 per hit · Void |
@@ -78,17 +78,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The New Brick* [**Debuff**] } | "A brick appears where there was air a moment ago — and it is followed by another." | [The Wall extends; new masonry grows toward the target.] | *Target suffers a Void mark; the wall is closing in.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the space. |
-| { *The Shrinking Room* [**Debuff**] } | "The walls move inward — slow enough to doubt, fast enough to trap." | [The Wall constricts the space; the target feels the bounds tightening.] | *Target loses clarity; there is less room every moment.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The New Brick* [**Debuff**] } | "Something you have been keeping to yourself finds a surface, and the surface is inside." | [The holding grows along a concealment the target is currently maintaining.] | *Target suffers a Void mark; the thing they are holding back has somewhere to build.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the space. |
+| { *The Shrinking Room* [**Debuff**] } | "The room is smaller than it was, and you would rather not say why you noticed." | [The enclosure tightens by an amount the target cannot raise without disclosing something.] | *Target loses clarity; every attempt to explain the room costs another fact.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
 | { *The Falling Block* [**Attack**] } | "A brick tears free and flies — heavy, precise, aimed." | [A block of spreading wall launches at the target.] | *Inflicts Void damage; a chunk of enclosure sheared off.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Wall is attacked. |
-| { *The Total Enclosure* [**Attack**] } | "The walls meet — and now you are inside, and the inside is very small." | [The Wall seals completely around the target.] | *A heavy Void crush; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Wall is forced inward. |
-| { *Walls Within Walls* [**Ultimate**] } | "The walls do not stop at one room — they divide, and divide, until everyone is alone in a cell." | [The Wall subdivides the entire field into tiny sealed spaces.] | *All in range suffer Void erosion for three turns in the shrinking cells.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Total Enclosure* [**Attack**] } | "The room finishes closing, and everyone still talking in it is keeping something back." | [The holding draws the Market walls in around whoever is concealing something, carrier included.] | *A Void crush; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a concealment inside the zone is left unworked. |
+| { *Walls Within Walls* [**Ultimate**] } | "Every partition becomes a cell, and the last thing through the doorway is a fact about you." | [The zone resolves into single-occupancy spaces, one per person, none of them with an exit sign.] | *All in range suffer Void erosion for three turns as the partitions multiply.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (through the schedule and the carrier's own account; there is nothing to see, and a worker claiming to have seen it is to be scheduled themselves) and Face Beneath Masks is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** The marker is checked through the 18-item schedule and the carrier's own account, both read by a second officer, and Face Beneath Masks is confirmed against the designation; the room is set with the door open and no responder positioned behind the carrier.
 2. **Clash:** Ten turns, conducted as conversation rather than as approach, with the carrier seated and the infirmary officer present throughout. Nothing is forced open; a turn in which the wall thickens is logged and the sequence restarts from the beginning.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Establish safe contact; do not force the wall open**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Establish safe contact; do not force the wall open**. The condition is met when the carrier has answered what they will answer and has been left with the rest; a watch that ends with the schedule still blocked is filed as an outcome and not as a failure.
 
 ### Consequences
 
@@ -153,17 +153,17 @@ Face Beneath Masks is a Subject with Subject-Mind manifestation and Void express
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
-| **Movement** | It does not seek anybody out. It expands from wherever the carrier is, narrowing the corridors around them until the passages close, and everybody inside loses access to the same small set of personal things. |
-| **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
-| **Secondary Effect** | An absence that eats the edges of reality. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
+| **Movement** | It does not seek anybody out. It expands from wherever the carrier is, narrowing the corridors around them until the passages close, and it takes the same small set of personal things from everybody inside at once — which is why the response is a conversation in a room with the door open rather than a cordon, and why nobody conceals their own name while working it. |
+| **Effect** | The corridor narrows until it closes, colour drains out of the near distance, and everyone inside discovers at the same moment that they cannot produce the same ordinary fact — the process the file calls the definition going out of a zone, measured on this holding as the number of people who can no longer reach the same item. |
+| **Secondary Effect** | The things taken do not come back on the same schedule for everybody: most items return within a fortnight, some do not, and the discharge letter says so in its second paragraph before it says anything else. |
+| **First Target** | Nobody in particular. The expansion starts wherever the carrier is and takes the same handful of things from whoever is inside it, which is why the containment is administrative and the registered location names a market rather than a room. |
+| **Escalation** | Each turn the carrier is left unworked the count of blocked items rises, and the drain accelerates by 5 a turn; it stops the moment somebody sits down with them and asks the 18 items out loud, which is why the response is a conversation and not a cordon. |
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Flerehan and Ferrehan, conversationally, with the carrier seated and nobody behind them. No mask is removed, no question is pressed twice, and no responder conceals their own name.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per turn unaddressed. The figure comes from the two Market events and is labelled as drawn from two wherever it is quoted.
+- **Breach type:** Transform. There is nothing here that could escape and nothing to see when it moves, so the event is recorded as a change of extent: the corridors narrow, the count of unreachable items rises across several people at once, and the carrier is the last person in the building to know it has happened.
+- **Containment priority:** Flerehan and Ferrehan, conversationally, with the carrier seated, the door open and nobody positioned behind them. No mask is removed by anybody, no question is put twice, and every responder gives their own name — the holding grows along concealment, and a response team working from behind anything gives it a second surface to build on.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% a turn unaddressed, and falls when a carrier is worked honestly by somebody who is not concealing anything themselves. The two Market events are the whole basis for the figure and it is labelled as drawn from two wherever it is quoted.
 
 ## M.A.W. Equipment
 
@@ -190,13 +190,13 @@ The culverin fires dense canister shot filled with lead shrapnel and salt-gravel
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Face Beneath Masks's void signature in the strike.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** What goes is small and personal and the wielder does not notice: a street name, a face at a table, the thing a relative used to say — which is why the eighteen-item schedule is administered to bearers by somebody else, and why the Armoury files the loss against the piece and not against the person.
 
 ### M.A.W. Suit — The Wall Veil
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a smoke-grey veil spun of Void Han-gossamer, thin enough to see the wall through, that holds itself a finger's width clear of the face. It smudges the wearer's edge into whatever wall stands behind them, the way a mask smudges a face.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -206,19 +206,19 @@ The culverin fires dense canister shot filled with lead shrapnel and salt-gravel
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Face Beneath Masks's kind of pressure.
+**Ability:** Void is what this holding puts out, and this is what turns it aside. The Soul is kept whole — the name, the history, the bare fact of being somebody.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer grows a little less present to themselves, the way a person does after years of wearing a face that was never theirs.
 
 ### M.A.W. Stigma — The Wall Shard
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a shard-tile of Void Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
+**Appearance:** a shard-tile of Void Han-glass on a short cord, colourless as a window with nothing behind it, that turns warm when somebody nearby is holding something back.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 while working this holding, and nothing elsewhere in the Market. The shard's other property is the one the file treats as its cost: it lets the wearer see what another person is keeping back, and it does not distinguish between a secret and a privacy, which is why it has been refused by more wielders than any other piece in the wing.
 
 **Ability:** Blocks unwanted emotional intrusion.
 
@@ -228,18 +228,18 @@ The culverin fires dense canister shot filled with lead shrapnel and salt-gravel
 
 ### M.A.W. Use Notes
 
-These pieces are Face Beneath Masks in miniature. What they give is listed above; what they take is the wielder loses small, nameless memories with each use, and the Armoury records both against the wielder rather than against the piece.
+These three pieces are Face Beneath Masks in miniature and they take from the wielder what they take from a carrier: first the small personal facts, then the sense of one's own presence, then the confidence that the face one presents is one's own. The Armoury records every charge against the wielder rather than the piece, and the file's own note observes that no piece in the wing has been refused by more people than the shard.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Face Beneath Masks takes: the wielder loses small, nameless memories with each use. |
-| **During use** | Watch for Face Beneath Masks's toll — the wielder loses small, nameless memories with each use — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **Before use** | Wielder, piece, and a dated baseline taken on the 18-item schedule by somebody other than the wielder, because the first thing this set takes is small and personal and the bearer genuinely does not notice. The sheet is filed with the piece and not with the personnel record. |
+| **During use** | Watch for the toll in the schedule rather than in the wearer's account: items that were reachable at issue and are not reachable now, logged with the hour by the second worker. On this set a fluent wearer is not a reassuring sign — the file's own blunt note is that a cooperative bearer with a rising count is the commonest missed escalation on the holding. |
 | **At limit** | The wearer feels faintly absent to themselves, without remission. On a Face Beneath Masks piece the use ends there whatever the wielder says. |
-| **After use** | Piece returned; re-assess a week later, because what Face Beneath Masks takes (the wearer feels faintly absent to themselves) does not present on the day. |
+| **After use** | Piece returned and the schedule re-administered a week later by the same second worker, because the absence does not present on the day. Where the count has not returned to baseline the piece is not reissued to that wielder, and the loss is entered against the holding so that the sheet and the record tell the same story. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The rating describes what a piece does to a holding and says nothing about what it costs the person wearing it. All three pieces in this set are β-grade and all three take the same thing in the same order — small personal facts, then presence, then the certainty of one's own face — and the cost here is not inversely proportional to the grade and cannot be read from it. Authorise on the cost column; take the schedule before the issue and administer it again after the return, by somebody who is not the wielder.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -267,25 +267,25 @@ These pieces are Face Beneath Masks in miniature. What they give is listed above
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Face Beneath Masks (N-IIβ-689 [VS]) is logged as a Subject-Mind manifestation expressing Void. The Wall formed from a person's need to hide from everyone, including the self. Held at Zone C, Mask Market. It spreads through shared identity anxiety.
+Face Beneath Masks (N-IIβ-689 [VS]) is a Subject-Mind manifestation expressing Void, formed from a life spent making faces for every part of itself until there was nothing under them to put another one on. It has no position of its own; it spreads inside whoever is carrying it, and the wing holds the carrier rather than a chamber, through the eighteen-item schedule and the infirmary's extent record.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
-Spreads through the consciousness of nearby personnel. Workers lose access to memories behind the mental wall. Direct confrontation makes it thicker.
+Entry 2 — the field log for the year records the mechanism rather than the spread: the holding grows along concealment and cracks where something is allowed through, which makes a person sitting in a room producing true facts about themselves the nearest thing to a treatment the wing has. The same log records the cost of that sentence, which is the whole of the Watch Record below.
 
 **Entry 3 — <Excerpt from Counseling Log>**
-The emptiness created by isolation and self-protection.
+Entry 3 — a Mask Market artisan of thirty-one years made a face for the shop, the guild, her brother's household and the woman she had been before any of them; the last thirty entries in her order book are pieces made to her own measurements. Nothing in the sequence was wrong and the archivist's note says so; by the end there was simply nothing underneath for the work to sit on.
 
 **Entry 4 — <Containment Notice>**
 Management: Establish safe contact; do not force the wall open. Work response — Flerehan: Cracks open and allows a feeling through. (Decrease); Pugnahan: The mental wall thickens. (Increase); Viderehan: Reveals what the worker has walled away. (Stable); Ferrehan: Tests whether the worker can remain without hiding. (Decrease). Personnel report emptiness after it recedes.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+Entry 5 — the stock tale is not this holding's story and the file says why. What is on record is a schedule: eighteen ordinary items, fixed since the third year and never varied because a varied list cannot be compared with itself, read aloud to the carrier by another person. Twenty-three people are enrolled and their sheets contain the name of a woman's first employer, the thing a man's father said at table, four addresses in the Market and the names of eleven people who never consented to being written down. One item has been blocked in every carrier, and the methodological note attached to it is the shortest line in the file: *we keep it because the day somebody answers it, we will want to have asked.*
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Face Beneath Masks; the other feeds it.
+> Two ways to end the same watch. One is the resolution on file — safe contact, no force, the carrier seated and nobody working from behind anything. The other is the answer a person gives when they are tired of asking.
 
-| Establish safe contact; do not force the wall open — as written, without improvising. | Substitute your own judgement, which on Face Beneath Masks has never yet cost less than the condition. |
+| Do the thing on file: sit with the carrier, ask the schedule plainly, take no for an answer, give your own name, and let the crack come on its own. | Force the wall open instead — press a question twice, remove a mask, work the carrier from behind a desk or a screen, or match their concealment with your own — and the reading thickens measurably and does not reverse inside the watch. |
 |---|---|
 | Cracks open and allows a feeling through. The sorrow is seen clearly; Face Beneath Masks is fully recorded. | The mental wall thickens. The gauge climbs and Face Beneath Masks withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -306,14 +306,14 @@ A wall rises behind your thoughts. It is smooth, blank, and impossible to climb.
 
 ### Interaction Pattern
 
-This holding is read against the other things in the Market built out of concealment and surface. Each relation below has been observed and filed, none is settled, and all three are hard to measure here, because the instrument is a conversation with somebody the entity is acting on.
+Face Beneath Masks is read against the other Market records built out of concealment and surface, and the comparison is harder here than anywhere else in the wing: the instrument is a conversation with somebody the entity has already been inside, so what the file can report about a relation is only what the carrier agreed to say.
 
 **Interaction method:** Baseline each party alone over a long series before any paired approach, and schedule the carrier immediately before and after. Log the onset of any shared change with its range, duration and trigger, the gauge movement on both sides, the blocked-item counts, and whatever persists after separation. Re-verify each cycle; a Sorrow Tide, an Ordeal or a transformation has flipped a settled dynamic in the Market before.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None of them is settled, and on this holding every one of them is reported through a person, which the file requires to be stated on the face of any summary that leaves the wing.
+The rows below are points of contact the archive has filed, not alliances, and every one of them on this holding is reported through a person — the carrier, not the entity — which the wing requires to be stated on the face of any summary that leaves it.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -362,14 +362,14 @@ Some sorrows are about hiding. Face Beneath Masks is about the hiding that becom
 **Observation Notes:**
 - A Mask Market artisan built a face for every part of her life over thirty-one years; the last thirty commissions in her own order book were made to her own measurements.
 **Cross-References:** Mask Market · the order book · the eighteen-item schedule · the infirmary extent record · The Empty Mask
-**Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant)
+**Faction Involvement:** SED, on the C-territory Market survey whose rows this holding is carried through · Wound Walkers, on Fracture-relevant screening, which is the wing's own term for the population this entity spreads fastest in.
 **Originator:** A Mask Market artisan of thirty-one years' standing, admired in the guild, of whom no likeness survives that she did not make herself.
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This holding is held through a list and a conversation, and every number in the file is about reach into a life rather than about a wall. The instrument is an 18-item schedule, fixed since the third year and never varied because a varied list cannot be compared with itself; 23 people are enrolled and their sheets are kept for the length of their service and 6 years beyond it, containing four addresses in the Market and the names of 11 third parties who never consented to being written down. One item has been blocked in every carrier since the schedule was written. The counts work — they track every other sign the wing has and predict a thickening about 9 days before the carrier notices — and the schedule is also the treatment, which is why the wing accepts an instrument it cannot read without changing what it reads. Where the counts and this section disagree, the counts are right and the disagreement is filed.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-take the schedule before and after any event and at the fixed intervals in between, by somebody other than the carrier, and compare the blocked-item count against the previous sheet rather than against memory: a rising count with no distress attached is the escalation on this holding, and a carrier who has lost three further items and is untroubled by it ends their rotation that day. Confirm that no mask has been removed in anybody's presence, including in the infirmary; that every responder present gave their own name; and that the sheets, the consents and the standing refusal of the third Broken Mirror approach are current. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
 ### A Wall Inside
@@ -434,7 +434,7 @@ So thirty-one years of commissions sit in a ledger with eleven unpaid accounts i
 ### Registry Trivia
 
 - **Classification detail:** Face Beneath Masks is a Subject with Echo (II) coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Void, and its registered location is Zone C, Mask Market.
+- **Field detail:** Element Void, registered to Zone C at the Mask Market. The holding has no position of its own — it spreads inside whoever carries it, which is why the registered location names a market rather than a room and why the location recorded at every watch is the carrier's.
 - **Recognition detail:** Identify it through the schedule and the carrier's own account; there is nothing to see, and a worker claiming to have seen it is to be scheduled themselves.
 - **Record detail:** Read this file beside the infirmary's extent record, which holds the counts, and never beside the answer sheets, which the wing does not receive.
 - **Containment detail:** Containment here holds a rotation, not a body. Even stable, the holding alters the local Han field: people working the mask rows report their own concealments becoming effortful, which is the earliest sign the wing gets.

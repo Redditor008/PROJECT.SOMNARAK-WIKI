@@ -60,6 +60,8 @@ Any observation must include a written start time, intended end time, and a seco
 | Suit | The Sandglass Watcher's Mantle | β | Weight | Distributes temporal burden at a personal cost | `SE-036-C__MAW-S_The_Hourglass_Mantle.md` |
 | Stigma | The Micro-Hourglass Choker | β | Weight | Briefly slows one moment | `SE-036-D__MAW-G_The_Hourglass_Pendant.md` |
 
+**Weapon profile hold:** The primary and linked item give byte-identical Appearance text for a floating 35 cm Chrono-Orrery firing Range 4 gravitational beams, so the repeated paragraph is not independent corroboration. The linked item's core row instead classifies an Hourglass Sledge / Sand-Clock Hammer and gives Weight 9–16, Very Slow 1, Room 5, Ground Shockwave / Temporal Drag; its ability/history describe a maul and chamber-floor impact. The primary gives Weight 8–13, Normal 3, Long 4, Concentric Beam / Chrono-Singularity, a line plus 4 m vortex, and 100% / 60%; this set row describes a single impact. The master registry supports the Orrery title and Weight 9–16, maximum 4, and 25 Echoes but leaves speed/range unset; the archetype index also calls it an Orrery but assigns a Short band. No documented form transition or base-versus-special profile reconciles these records; no value or form is selected.
+
 ### Set Resonance — Counted Moment
 
 **Condition:** All pieces are used while the bearer names a single action that must be completed before a deadline.

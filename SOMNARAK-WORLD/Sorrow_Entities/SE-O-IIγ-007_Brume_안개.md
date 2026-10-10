@@ -28,7 +28,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per successful work cycle, as timed by the margin's external clock and never by anybody's account |
 | **Work difficulty** | High · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | γ · γ |
@@ -41,7 +41,7 @@
 - A successful cycle thins the bank and shortens its reach for a while. The fog reforms on the next flow line. Nothing in the record has ever dispersed it, wind included; it thins when the sorrow underneath it is acknowledged and thickens again when the acknowledging stops.
 - No count is listed and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the entire mechanism, and the figure here is 75%; this is an expansion holding rather than a breach holding, so what the percentage governs is how far the bank spreads and how fast, not whether something gets out.
 - The 16–22 Han-Energy yield is ordinary for the band and the exposure is not. Time inside the bank is not reliably felt or reported — workers consistently underestimate how long they were in it — so exposure on this holding is timed from outside by a person who never enters, and the external clock is the only figure entered in the log.
-- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. Extraction from a Place-manifestation is awkward and the wing has only ever managed it at the margin, taking from the edge of the bank rather than its body, which is why this set is small and its pieces are all, in one way or another, about direction.
+- Taking M.A.W. stock is an event with its own authorisation and is never a prize hung on a clean cycle. Drawing from a Place-manifestation is awkward work and the wing has only ever managed it at the margin, off the bank's edge rather than out of its body — which is why this set is small, and why every piece in it has something to do with direction.
 
 ## Combat Record
 ### Core Stat Line
@@ -77,17 +77,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Wisp* [**Debuff**] } | "A tendril of fog drifts in — not water-vapor, but something thinner, colder, less real — and it passes through your skin." | [The Fog's void-nature permeates the target; they feel less substantial.] | *Target suffers a Void mark; the fog is eroding their solidity.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Fog. |
+| { *The First Wisp* [**Debuff**] } | "A tendril of fog drifts in — not water-vapor, but something thinner, colder, less real — and it passes through your skin." | [The bank's void-nature soaks into whoever it reaches, and they feel less solid for it.] | *Target suffers a Void mark; the fog is eroding their solidity.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Fog. |
 | { *The Thickening* [**Debuff**] } | "The fog densifies — and the thicker it gets, the less of you there seems to be." | [The Fog's accumulation reduces the target's presence; they are fading.] | *Target loses clarity; they are becoming translucent.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains in the Fog. |
 | { *The Cold Current* [**Attack**] } | "The fog surges — a wall of void-mist, driven by a wind that does not exist." | [ A fog-bank strikes with cold, eroding force.] | *Inflicts Void damage; the mist dissolves identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Fog is disturbed. |
-| { *The Total Obscuration* [**Attack**] } | "The fog becomes absolute — a wall of grey nothing — and everything beyond it ceases to be perceivable." | [The Fog's complete opacity removes all reference points.] | *A heavy Void wall of nothing; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Fog is forced to clear. |
-| { *The Fog World* [**Ultimate**] } | "The fog covers everything — and inside the fog, nothing is real, nothing is solid, nothing persists." | [The Fog extends its drift across the whole area.] | *All in range suffer Void erosion for three turns of drifting void.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Total Obscuration* [**Attack**] } | "The bank goes absolute — a grey wall with nothing behind it — and whatever lies past it stops being there at all." | [Opacity takes every reference point away at once.] | *A heavy Void wall of nothing; the reading jumps 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the bank is forced to clear. |
+| { *The Fog World* [**Ultimate**] } | "The bank closes over everything, and inside it nothing holds — no shape, no distance, no staying." | [The drift widens until it owns the whole ground.] | *Everyone in range takes Void erosion for three turns while the bank sits on the ground.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The team fixes the margin, runs lifelines to surveyed points outside the bank, and appoints the external timekeeper, who does not enter and whose call to withdraw is settled as unreviewable before anybody approaches. The bearing and the leading-edge rate are taken first.
 2. **Clash:** Viderehan and Ferrehan are worked across a long engagement, with lifelines run to fixed points outside the bank and an external timekeeper who does not enter. The fog is not struck, pushed, burned or dispersed at any stage; the instruction is in the resolution condition and it is not conditional on how the engagement is going.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically**.
+3. **Resolution:** The cycle closes in containment, retreat or management, or against the documented suppression condition: **The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically**. Nothing here is ever struck, pushed, burned or dispersed, at any stage of the watch.
 
 ### Consequences
 
@@ -209,7 +209,7 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 **Falloff Rule:** 100% to the first target in the line, 70% to the second, 50% to the third — the cut loses definition with depth, as everything does here.
 **Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the two are tracked apart because the lingering portion persists after the line has closed.
 
-**Ability:** Deals Void damage against the Soul — identity, memory, and the sense of having somewhere to return to. The strike carries the source's signature, and targets report briefly forgetting which direction they came from.
+**Ability:** The strike lands on the Soul — on identity, on memory, on the sense of having somewhere to go back to. It carries the source's signature, and targets come out of it briefly unsure which way they came in.
 
 **Cost:** The wielder loses small memories with each use, always ones too minor to notice going: a turning, a face in a crowd, the name of a place they passed through once.
 
@@ -217,7 +217,7 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a drifting veil of Void Han-gossamer, barely there and all but colourless, that goes cold wherever it touches skin.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -235,7 +235,7 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a tiny lantern of Void Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a small lantern of Void Han-glass, barely there and all but colourless, that warms in the hand.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -291,7 +291,7 @@ Extraction from a Place-manifestation is awkward and the wing has only ever mana
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Brume (O-IIγ-007 [VP]) is logged as a Place-Phantasmal manifestation expressing Void. Brume crystallized from the collective despair of Desolate nomads. Held at The Desolate — mobile. The Fog is mobile and follows existing Han-flow lines.
+Brume (O-IIγ-007 [VP]) stands in the record as a Place-Phantasmal manifestation expressing Void. Brume crystallized from the collective despair of Desolate nomads. Held at The Desolate — mobile. The Fog is mobile and follows existing Han-flow lines.
 
 **Entry 2 — <Excerpt from Field Log, Year 4212>**
 It has not expanded beyond the region associated with the Desolate, but mapped perimeter markers shift.
@@ -307,9 +307,9 @@ Containment records trace the crystallization to this location — the sorrow gr
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Brume; the other feeds it.
+> The watch closes at the bank's edge with two ways to spend the last minute: grieve for the people under it, whom nobody can name, or try to move it out of the way.
 
-| Hold to the condition: The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically. | Improvise something kinder, which is how every failure on Brume's file began. |
+| Keep to the clause — acknowledge and mourn what the bank covers, and lay no hand on it. | Do what feels kinder and try to clear the bank, which is the first line of every failure on this file. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly; Brume is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Brume withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -326,7 +326,7 @@ The air changes first. Weight gathers behind your eyes, and the horizon folds in
 
 **When the entity activates:** Nothing surges. The interior becomes comfortable — the cold stops registering, the pressure behind the eyes eases — and that is the activation, which is why it is read on the external clock and not on the faces of the people inside.
 
-**After departure:** Workers come out describing a short pleasant walk and are wrong about the duration by a factor of two or more. The disagreement between their account and the clock is the aftereffect; it is logged as a paired entry and not as an error.
+**After departure:** Workers come out describing a short pleasant walk and are wrong about the duration by a factor of 2 or more. The disagreement between their account and the clock is the aftereffect; it is entered as a paired reading and never as an error.
 
 ### Interaction Pattern
 
@@ -337,16 +337,16 @@ Brume is read against the other holdings that move through open country, and the
 
 ### Entity Interaction Record
 
-Brume must be assessed as one of a group of sorrows that move through open country rather than as a solitary weather event. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
+Brume belongs with the sorrows that travel through open country, not with the weather. What follows is canonical because it has been observed and filed, not because any of it is closed: each pairing may show up as help, as a block, as indifference, or as something that only appears under load, and no single result survives a Sorrow Tide, a breach, an Ordeal or a transformation.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Holding sharing the country | How the two have run | What the margin logged | What the entry keeps |
 |---|---|---|---|
 | **The Hollow Choir** | The Choir sings near the bank and the file calls it recognition. | Six co-incidences. The Choir's output changes and the bank's bearing, rate and density do not; the resonance is audible and has never shown up in any instrument reading taken on this side. | The six events, the unchanged bearing and rate series, and the null instrument record. |
 | **The Maw** | Both are old sorrow in open country, and the resemblance has never been operationalised. | No approach has been authorised and none is sought. The only shared data are two occasions on which the flow line carried the bank within four kilometres; nothing measurable occurred on either and the distance was never closed. | Both passages, the distance of closest approach, and the absence of any authorised approach. |
 | **The Kind Healer** | The Healer cannot enter; the density defeats it at the margin. | Attempted twice at the Healer's own instigation and abandoned both times at the edge. The bank was unaffected in bearing, rate and density. The relationship is recorded because the failure is informative, not because anything was achieved. | Both attempts, the point of abandonment, and the unchanged density series. |
 | **The Scar Walker** | The Walker works the margin and turns travellers away from the deep ground. | The only pairing with an operational benefit, and the benefit is to people rather than to either holding. Neither entity's readings move. The wing coordinates warnings with the Walker's patrol line and logs the coordination as a routing matter. | The warning log, the patrol line, and both unchanged reading series. |
 
-**Interaction procedure:** Baseline both parties alone, let the bank come to the second rather than moving anything into it, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect on the covered ground, and whatever persists after the bank has passed. The field this holding adds is the bearing, taken before contact and a full hour after.
+**Interaction procedure:** Establish each party's baseline on its own, move nothing into the bank, and do not wait inside it for the other to arrive. The first shared change goes in with its distance, its duration and what set it off, the gauge on both sides, what happened to the covered ground, and whatever outlasts the bank's passing. The bearing, read before contact and again one full hour after, is this file's own additional field.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -380,9 +380,9 @@ Some sorrows mourn a home. Brume mourns the destination — the nomads who wande
 **Common Name:** Brume
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 1 — Initial
-**Threat Assessment:** Major (γ). It kills nobody directly. It removes the wish to leave, and the people inside report comfort while it does so; the hazard is the holding's effect on judgement, not its pressure.
+**Threat Assessment:** Major (γ). It kills nobody directly. It removes the wish to leave, and the people inside report comfort while it does so; the hazard is the holding's effect on judgement, not its pressure. The aftereffect is on the clock: parties come out wrong about elapsed time by a factor of 2 or more, and that pairing is entered as its own record.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan only; it is an Object/Place and nothing here may be wept with or confronted.
+- The 2 valid Work Types, Viderehan and Ferrehan; it is an Object/Place, and nothing here may be wept with or confronted.
 - Margin work with lifelines to surveyed points, an external timekeeper who never enters, and no entry on an unplotted bearing.
 - On expansion, warn downwind along the flow line and let it pass; the bank is not struck, pushed, burned or dispersed at any stage.
 **Observation Notes:**

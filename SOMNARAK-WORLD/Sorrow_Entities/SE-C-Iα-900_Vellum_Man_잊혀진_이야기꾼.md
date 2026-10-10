@@ -88,7 +88,7 @@
 
 1. **Tension:** There is no safe position to establish and no approach to time. The transcriber sits, opens the notebook, and waits for a page to settle; the median wait is four minutes and the longest on record is two hours, during which the entity stood still and the pages did not move.
 2. **Clash:** Reading. The word in the form is kept because the Archive could not get it changed, and the sector office has written beside it that in nineteen years this holding has not struck, chased, or touched anybody.
-3. **Resolution:** The tale ends and is written down, or the shift ends at thirty minutes with the page marked and the same transcriber booked to return. The second is how most cycles close; the register shows 41 tales currently open across 9 transcribers.
+3. **Resolution:** The tale ends and is written down, or the shift ends at thirty minutes with the page marked and the same transcriber booked to return. The second is how most cycles close; the register shows 41 tales currently open across 9 transcribers. It closes against the documented suppression condition: **The shift ends at thirty minutes with the page marked and the same transcriber booked to return**.
 
 ### Consequences
 
@@ -277,23 +277,38 @@ A thin figure standing a metre from a bolted chair, dry and cool, its surface tu
 
 **After departure:** You want to know how it ended. Transcribers describe the corridor back as the hardest thirty metres of the shift, and the sector's unofficial practice is that nobody walks it alone.
 
+## 상호작용 (Entity Interactions)
+
+No second holding has ever been set down on this desk while the register's 41 open tales were being collected, and the file intends to keep it that way. Three entries follow, transcribed from the wing appendix; each was matched against the desk's open tales before it was allowed onto the page. All three are stories that are being told and will not finish, and the four records meet that in ways different enough to keep shelved together.
+
+**Interaction method:** Take the desk's own figures first — pages marked, minutes held, the shift count — established alone across a full cycle before any comparison is entered. Then set the other record's series beside them and record the first divergence, its range, what set it off, and whether either series moved in the reading. Re-verify each quarter.
+
+| What shares the telling | How the pairing has run | What the desk entered | What the file keeps |
+|---|---|---|---|
+| **Once Upon** `O-IIIγ-920` | Filed together on a tale with its own clock. That record runs on story time and cannot be hurried; this one stops at thirty minutes by rule, mid-sentence, with the page marked. | The two timings were compared on paper across one review and matched on nothing but their stubbornness. | That the pairing is filed on the shape of the telling, with the mismatch noted beside it rather than smoothed over. |
+| **Once Told** `O-IVδ-930` | Grouped on narrative that keeps running past its teller. That record is a story still alive after the telling; here the tale is abandoned at the shift's close and picked up by whoever the register books next. | No trial. The appendix cross-flagged the pair and the review left it as paper. | That the claim is a filing arrangement and not a finding, entered beside the row each time it is quoted. |
+| **Allhallow** `O-IIIγ-916` | Grouped on the voices of people who are not present. That record holds the returning dead of one night; this one holds a narrator who tells those lives to a desk and stops when the clock says so. | One review entry; the two series diverged from the first mark and neither was reconciled. | That the divergence is the finding, kept in the review's own figures. |
+
+**Interaction procedure:** Compare in the record only, at the quarter's review, with the register's open tales re-read first and the other record's series laid beside them unchanged. Enter divergence, range, trigger, both readings and what persists; never reconcile the columns.
+
+
 ## 이야기 (Narratio) — The Tale
 
 There is a file in the Archive — sealed, stamped Eyes Only — that contains the first report of Vellum Man. The report is three sentences long. The third sentence reads: 'The Subject-Tale manifestation does not match any existing classification. Request expansion of the system.' The request was granted.
 
 The tale sorrow that birthed Vellum Man is specific. It is not the general lament grief that saturates Somnarak — that ambient, city-wide ache that every citizen carries. This is a particular grief, a particular wound, crystallized into a subject form because the tale register was the only shape it could take. The body was the vessel; tale was the content; lament was the pressure.
 
-The entity does not rage. It does not weep. It simply persists — tale and lament, patient and permanent.
+Nothing at this desk shouts and nothing weeps. It keeps telling, in tale and lament both, with the patience of a narrator who has never once been interrupted.
 
-The entity does not rage. It does not weep. It persists — tale and lament, patient and permanent. Vellum Man is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+The desk neither raises its voice nor weeps. It goes on taking down a story that has no ending yet, patient the way a scribe is patient, and no shift has ever hurried it. Vellum Man will not be found among the loud sorrows of Somnarak; it belongs to the exact ones. Where grief is distributed in a single grade across the city, a tale that addresses you by name is the one that leaves a mark.
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The lament is familiar. The tale is not. That gap is where the danger lives."* — Handler
-*"I expected standard lament. I got something that knew me."* — Specialist
-*"Every time we refine the protocol, the tale register finds a new way in."* — Researcher
-*"It does not attack. It accumulates. And what it informs you of is your own sorrow."* — Director
-*"Work it once and you will understand why the classification system had to expand."* — Keeper
+*"I have handled lament for years and it never changes. The tale is the part that reads the desk back, and the gap between the two is where every bad hour has started."* — Handler
+*"I sat down ready for the usual pressure. What I got was a story that had already been told somewhere I have been."* — Specialist
+*"Each revision of the protocol teaches the desk one more way around it. That is not the register defeating us; that is the register taking notes."* — Researcher
+*"It has never attacked the desk. It gathers, and then it tells the collector which of the 41 tales was his."* — Director
+*"Spend one shift cataloguing here and the classification's newest column will make sense to you — this one did not fit any of the old ones."* — Keeper
 
 ## 기록 (Registrum) — The Record
 
@@ -323,8 +338,8 @@ The entity does not rage. It does not weep. It persists — tale and lament, pat
 ## Trivia
 
 - One of the first catalogued **Subject-Tale** entities in Somnarak.
-- Its tale descriptor makes it structurally unique among subject entities.
-- The lament pressure in the tale register feels different from standard lament — more specific, more personal.
+- No other subject on the shelf is filed for a story still being written; the desk's register is the reason the class exists.
+- The pressure does not fill a room. It comes in at the middle of a tale, and the tale has a living person on the page by the time anyone notices.
 
 ## Document Information
 

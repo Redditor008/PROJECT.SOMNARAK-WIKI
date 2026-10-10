@@ -1,6 +1,6 @@
 # Weighted Silence — 침묵의 구역
 
-> *"Something here remembers what we chose to forget."*
+> *"The first report could not describe it and came back with an instruction to write it again. Both versions are filed; the second is the one the containment was built from."*
 
 ## SECC Classification
 
@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Weighted Silence.
-- The only escalation on file followed a survey missed in Y4247, and the radius was found unchanged when the series resumed. Gauge movement here has never tracked work quality; it tracks how long the boundary has gone unmeasured.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is performed at the boundary with the piece drawn outward across it. Pieces drawn inward have been lost twice: not destroyed, not retrieved, simply absent from the slate inventory taken ninety seconds later.
+- A cycle that finishes lowers the reading and nothing besides: on the record so far, no session has changed the circle, weakened it, or drawn it in by any distance.
+- The file holds exactly one escalation: the survey skipped in Y4247, and the markers read the same on the day the series resumed. Nothing here has ever moved the gauge except the length of time the edge went unmeasured.
+- Han-Energy comes out of the sighting hours and is entered against the exposure the boundary watch took to earn them.
+- Extraction happens at the line, with the piece drawn outward across it. Twice a piece went the other way: nothing was destroyed and nothing was recovered — the slate inventory taken ninety seconds later simply had one fewer entry.
 
 ## Combat Record
 ### Core Stat Line
@@ -78,22 +78,22 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's void pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
-| { *The Void Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void void sorrow.] | *Void damage strikes the target; the gauge spikes.* **[21 Void DMG [Void]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[24 Void DMG [Void]]** | When the entity is cornered or starved. |
-| { *The Void Collapse* [**Ultimate**] } | "The void breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[23 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "One foot past the boundary, and your own voice reaches one ear and not the other." | [The absence closes on the side the target is listening with.] | *The target's own voice stops arriving; what is left is the weight of it.* **[10 Void DMG [Void]]** | When a person crosses the line and speaks. |
+| { *The Void Surge* [**Attack**] } | "The quiet turns into a pressure you can feel on the skin." | [Fifty metres of silence folded inward toward one person.] | *The pressure lands and the gauge spikes.* **[21 Void DMG [Void]]** | When the entity is provoked while the chain is being drawn. |
+| { *The Settling* [**Attack**] } | "Without warning the pressure settles on a single point and stays there." | [The entity leans its entire weight on that point.] | *A heavy Void strike; the target's Sorrow Gauge surges.* **[24 Void DMG [Void]]** | When the entity is cornered or the circle is left unattended. |
+| { *The Void Collapse* [**Ultimate**] } | "The silence lets go of everything it had been holding." | [The entire absence released outward at once.] | *Every person inside the line takes Void erosion over the following three turns.* **[23 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (the boundary is abrupt rather than graded. A person standing with one foot across it hears their own voice from one side of their head only, and every account of the crossing describes this before it describes anything else) and Weighted Silence is confirmed against the designation; positions are taken and the cycle is opened.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Weighted Silence's recorded combat actions.
-3. **Resolution:** The team withdraws across the boundary, counts itself, and compares slates. The silence does not pursue and has never been observed to contract; the sitting ends because the team decides it has, which is the single most repeated sentence in the responders’ account.
+1. **Tension:** The edge is walked before anything else — it is abrupt, with no gradation, and every account reports the same first test: one foot across, and a person's own voice arrives at one ear and not the other. The table settles the designation, the sighting positions are taken, and only then does the cycle open.
+2. **Clash:** The watch runs its two valid approaches with the set drawn only at the line, while the circle does nothing it has not done for seventeen years.
+3. **Resolution:** The party comes back over the line, counts heads, and lays the slates side by side. Nothing comes out behind them, and the circle has never once been seen to shrink; a sitting ends because the team says it has ended — the line that shows up most often in the responders' own returns. The file closes on the documented suppression condition: **sight the edge from the markers and never send a body past them for a reading**.
 
 ### Consequences
 
-- Composure loss is recorded on exit and is proportional to time inside rather than to anything that happened there. Nine of eleven cases describe the same thing: an inability, for some hours afterwards, to judge how loudly they were speaking.
-- Prolonged exposure produces no injury and no lingering pressure. What it produces is a documentation failure — personnel inside write less, and what they write is shorter, flatter and progressively less specific. The two reports in the Origin are the archive’s own evidence of this.
-- A piece carried inside stops answering and resumes at the boundary. The cost is in the gap: the wielder is unarmed for the duration and generally does not notice until they are out.
+- What the exit records is time, not event: composure drops in proportion to the minutes spent past the line, whatever those minutes held. Nine of the eleven logged cases describe one thing — for hours afterwards, no way to tell how loudly they had been speaking.
+- Nothing here injures anybody and nothing lingers in the body. What it takes is the writing: inside the circle the hand slows, and entries come back shorter, flatter, and less exact the longer the watch runs. The paired reports in the Origin are this file’s own exhibit.
+- Taken past the markers, a piece of the set goes quiet and picks up again at the line. The price sits in that interval — the bearer spends it unarmed and, by every account, does not notice until they are outside.
 
 ## Appearance
 
@@ -101,8 +101,8 @@
 
 **Notable Features:**
 - Expresses Void pressure in a void register.
-- The hazard form is unmistakable — this is a void entity, not a general one.
-- Identification is by the edge, not the interior: a line in the Desolate across which a thrown stone stops making noise mid-flight.
+- The shape is settled inside a minute of any approach: this is a void holding, and no general reading survives contact with the line.
+- It is identified at the edge and never by the interior: a stone thrown across the line stops making noise halfway through its arc.
 
 **Identification Profile**
 - **Entity Type:** Hazard
@@ -124,11 +124,11 @@
 
 ## Origin
 
-The first agent across the line wrote four sentences and handed them in. The report was returned with one word from the Director — *specifics* — and the agent wrote it again, at length, the following morning. Both versions are held, in order, and the file reproduces them together on purpose.
+The first man across came back with four sentences. The Director sent the page back carrying a single written word — *specifics* — and the agent wrote the whole thing out again the following morning. The folder keeps both, in order, and prints them side by side deliberately.
 
-What is contained is a fifty-metre circle in the Desolate in which sound does not occur. Not muted, not dampened, not absorbed by anything a survey can find: absent. The protocols in the manual were written afterwards, from what the responders had actually done, and the manual says so rather than presenting the procedure as though it had existed in advance.
+What is contained is fifty metres of the Desolate in which sound does not occur — not muffled, not soaked up by anything the surveys can name, simply absent. The manual’s chapter was written after the fact, out of what the responders actually did, and the manual states that plainly instead of dressing the procedure up as something older.
 
-Containment took fourteen hours and consisted of a chain, twelve posts and a sighting line. It has held for seventeen years because nobody has needed it to do anything — the circle has not moved, and the one year it did, the year was the year the survey was missed.
+The containment ran fourteen hours and was built out of a chain, twelve posts, and a sighting line. It has stood seventeen years because it is asked to do nothing: the circle has not moved, and the year it seemed to, the survey was the thing that had failed.
 
 ## Behavior
 
@@ -141,7 +141,7 @@ Containment took fourteen hours and consisted of a chain, twelve posts and a sig
 
 ### Operational Work Notes
 
-The void here is not a pressure that does something to a worker; it is a condition that removes an instrument. Both valid approaches work from outside the line. Observation is the survey. Endurance is the willingness to stand at the boundary for the full sighting in the Desolate’s weather, which is why the gauge moves for patience rather than for insight.
+Nothing at this holding presses on a worker; what it removes is an instrument. Both valid approaches are run from outside the line — observation is the sighting itself, endurance is standing the full survey in the Desolate’s weather — and the gauge answers to patience here, never to insight.
 
 ## Breach Behavior
 
@@ -168,7 +168,7 @@ The void here is not a pressure that does something to a worker; it is a conditi
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, that quivers when raised.
+**Appearance:** a blade of Void Han-glass with one edge only, ground so thin the edge vanishes against the light. It trembles continuously once it is lifted and stops the moment it is set down, which the armoury lists as the proof that a piece is genuine.
 
 **Damage:** Void 14–20
 **Speed:** 2 (Normal)
@@ -189,7 +189,7 @@ The void here is not a pressure that does something to a worker; it is a conditi
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a hooded weave of Void Han-gossamer, near-translucent and almost colourless, that makes no sound against itself — the wearer’s own footsteps, breathing and cloth-rustle are audible to everyone except the wearer.
+**Appearance:** a hooded cowl worked from Void Han-gossamer, which makes no sound against itself. What it takes is not noise but direction: a wearer's footsteps, breathing and cloth-rustle reach everyone standing near them, and none of it arrives at the wearer.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -217,11 +217,11 @@ The void here is not a pressure that does something to a worker; it is a conditi
 
 **Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
 
-*A Token is found at the boundary, never inside it, and always on the outward side of the marker line. The Warden who recovers it signs for it in writing; the custody of this set has never once been transferred by spoken word.*
+*A Token turns up at the line and never past it, always on the outward side of the markers. The Warden who picks it up signs for it; custody of this set has never once changed hands on a spoken word.*
 
 ### M.A.W. Use Notes
 
-The Weighted Silence set is made from the markers rather than from the entity: the Edge from a survey rod, the Veil from the sighting cloth, the Token from a cut of the boundary chain. None of the three was taken from inside the radius, because nothing taken from inside the radius has ever been brought out.
+Every piece of this set comes off the markers, not the entity: the Edge from a survey rod, the Veil from the sighting cloth, the Token from a link of the boundary chain. Nothing here was cut from inside the circle, because nothing taken past the line has ever come back out.
 
 ### Field Use Record
 
@@ -236,9 +236,10 @@ The Weighted Silence set is made from the markers rather than from the entity: t
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- Seventeen annual sightings, Y4239 to Y4255, radius constant at fifty metres ± half a metre. The series is unbroken because the method never requires entry.
-- Both valid approaches are performed from outside the line and both reduce the gauge. Nothing performed inside the line has ever produced a reading that could be checked.
-- There is no detectable gradient, no measurable energy and no instrument reading of any kind from within the radius. Everything known about the interior is testimony, and the file says so in its first paragraph.
+- Seventeen annual sightings, Y4239 to Y4255, and the radius has read the same fifty metres ± half a metre every year. The series has no gap in it because the method never asks anybody to cross.
+- Both valid works are done from outside the markers and both bring the gauge down; nothing run past the line has ever left a reading anyone could verify.
+- Inside the circle there is no gradient to find, no energy to meter, and no reading of any kind to bring back. The interior is known only from what people said about it, and the file admits that in its opening paragraph.
+- Nobody crosses without the clock staying outside: the register holds 11 crossings, 2 instruments that went in and did not come back, and 17 annual sightings that never produced a reading worth checking.
 
 **Personnel Note:**
 
@@ -267,7 +268,7 @@ The Weighted Silence set is made from the markers rather than from the entity: t
 
 ## 감각 묘사 (Flavor Text)
 
-There is a moment — always the same, always brief — when the void pressure and the void register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. A 50-metre radius in the Desolate where sound does not exist — not muted, not dampened, but absent. Personnel who enter report that the silence has weight, texture, and intent. Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
+Once in a watch, the void and its record meet for one held breath, and in that moment the circle is known rather than surveyed — its nature, not its behaviour. Fifty metres of the Desolate with no sound in them at all: not hushed, not softened, simply gone. Those who have stood inside say the silence has weight to it and a direction. The breath passes, and what remains is the edge, the slates, and a watch that has spent its hour outside the line.
 
 **At first contact:** Your own footsteps stop before you do. Most personnel turn around to look at the ground.
 
@@ -277,23 +278,35 @@ There is a moment — always the same, always brief — when the void pressure a
 
 **After departure:** Sound comes back all at once at the line, and it is louder than it should be for about a minute. Personnel are advised to wait there rather than walk.
 
+## 상호작용 (Entity Interactions)
+
+An absence with a surveyed edge is what this file holds, and what it takes is instruments rather than voices; the appendix shelves it with records that share that shape — a bell that never rings, a bell with nothing inside it, and a woman nobody looked at. Everything below is read from this holding’s own papers: the yearly sighting against the markers, the crossing register, and the slates recovered at the line.
+
+**Interaction method:** Set this holding's own figures first: the 17 annual sightings from Y4239 to Y4255 at 50 metres ± half a metre, the 11 permitted crossings, and the gauge ladder that opens at 40% and rises 10% per overdue survey. Then read the other record's figures beside them, enter whether either moved, and sight again at the next cycle.
+
+| Which record sits at the boundary | What both take out of a room | What the survey entered | What the silence keeps |
+|---|---|---|---|
+| **Unrung** `C-IIβ-170` | Both are silences a district had to make a rule about. That record's district was not told and made the rule anyway; this circle tells nobody anything, and the rule it produced is a permit and a clock that stays outside. | No crossing was made. The pair was grouped on the word silence alone, and the entry is held as an arrangement. | That the grouping is an arrangement, not a result. |
+| **Clapperless** `C-IIβ-340` | Both are the shape of a thing emptied. That record was found to have nothing inside it; this one has nothing inside it, 11 crossings have said so, and nothing has been added since. | The hand-signal set in use here was adopted, not devised; the file names where it came from, and the borrowing is the one operational carry-over between the two records. | That the set is borrowed furniture and the emptiness is not. |
+| **The Silent Maiden** `C-IVβ-043` | Both are presences that say nothing and ask for nothing. She can be looked at and never answers; the radius can be entered and shows nothing. | Entered at review as a distinction rather than a likeness: no figure has ever been reported inside the radius, and she is the only one of the pair with a form. | That the file keeps the difference, not the resemblance. |
+
 ## 이야기 (Narratio) — The Tale
 
-He said afterwards that the hard part was not the silence but coming back out of it, because sound arrives at the line all at once and for about a minute it is too much. He wrote the second report after that minute had passed. The archivist who filed both has noted, drily, that this is probably the entire methodological finding.
+What he said afterwards was that the silence was not the hard part; the exit was, because sound returns at the line in one piece and the first minute of it is too much. He wrote the second report once that minute was behind him, and the archivist who filed both has noted, dryly, that this may be the entire finding of the file.
 
-There is nothing in the circle. That is not a figure of speech and the file resists making it one. Seventeen years of sighting, eleven permitted crossings, two lost instruments and not one observation of a form, a figure, a voice or a direction of travel. What is recorded instead is the edge, measured annually, to within half a metre.
+The circle contains nothing. The file will not let that soften into a figure of speech: seventeen years of sighting, eleven crossings by permit, two instruments unaccounted for, and not once a form, a figure, a voice, or a direction of travel. What does get recorded is the edge itself, re-measured every year to within half a metre.
 
-The chapter in the manual that this holding produced is three pages long and most of it is about writing things down: slates in, slates out, blank slates recovered and filed as data, the clock kept by someone standing outside. It is a chapter about documentation because documentation is the thing the circle takes.
+The manual chapter produced here runs three pages and most of it concerns writing: slates taken in, slates brought out, blank slates recovered and filed anyway as data, the clock held by somebody standing beyond the markers. It is a chapter about paperwork because paperwork is what the circle consumes.
 
-It does not rage, weep, or persist in any sense that needs a verb of its own. It is fifty metres across and it is quiet, and seventeen surveys say it is exactly as quiet and exactly as wide as it was the year it was found.
+Nothing here rages and nothing weeps; the file has never needed a verb for what it does. It is fifty metres across and it is quiet, and seventeen separate surveys agree it is precisely as quiet and precisely as wide as the year it was first written down.
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The void is familiar. The void is not. That gap is where the danger lives."* — Handler
-*"I expected standard void. I got something that knew me."* — Specialist
-*"Every time we refine the protocol, the void register finds a new way in."* — Researcher
-*"It does not attack. It accumulates. And what it informs you of is your own sorrow."* — Director
-*"Work it once and you will understand why the classification system had to expand."* — Keeper
+*"I have worked void postings that pressed on a person. This one does not press; it takes the instrument out of your hand and leaves you holding the strap."* — Handler
+*"I came in braced for pressure and got a boundary. It was the minute of sound on the way out that I was not ready for."* — Specialist
+*"We tighten the crossing rules and the circle teaches us a new way to write a slate. It has never once had to change anything itself."* — Researcher
+*"It attacks nothing and accumulates nothing but quiet. What it tells you is how little of your own record you were willing to put down."* — Director
+*"Stand one full sighting at the markers and the classification’s newest column stops needing an explanation."* — Keeper
 
 ## 기록 (Registrum) — The Record
 
@@ -308,9 +321,9 @@ It does not rage, weep, or persist in any sense that needs a verb of its own. It
 **Threat Assessment:** Major. A Hazard-Void entity — the void register is its defining characteristic. Risk: prolonged exposure to the void pressure may produce effects not seen in standard void entities.
 
 **Containment & Handling Procedures:**
-- Survey from outside the line, annually, against the fixed markers. This is the whole of the containment.
-- There is nothing inside to weep with or confront. No form, no figure, no voice has ever been reported — only the absence and its edge.
-- Permit entry only with a boundary watch keeping the clock outside, and recover every slate whether or not anything was written on it.
+- The containment is one thing, done yearly: sight the edge against the fixed markers and go home.
+- Nothing inside can be wept with and nothing there can be faced. In seventeen years not one form, figure or voice has ever been reported out of it — only the absence, and the line where the absence stops.
+- Entry only under a boundary watch that keeps the clock outside, and every slate comes back out whether it was written on or not.
 
 **Cross-References:** Outside Sorrow (외한) · Void · Hazard-Void · Manifestation Classification
 
@@ -324,25 +337,25 @@ It does not rage, weep, or persist in any sense that needs a verb of its own. It
 
 ### Sound Does Not Exist Here
 
-Within the radius there is no sound at all — not reduced, not deadened, absent — and personnel who enter describe the silence as having weight and direction. Communication inside is by hand signal and by slate. The signal set is the same one used at the other silent holding, adopted rather than devised, and the file says so and names the holding it came from.
+Inside the circle, sound does not exist — not reduced, not deadened, simply absent — and those who have crossed it describe the quiet as carrying weight and direction. Work inside is done on hand signals and slate. The signal set was adopted from the other silent holding rather than invented here, and the file says so and names where it came from.
 
 ### The Boundary
 
-The edge is abrupt and its position is surveyed annually against markers set outside it, and the radius has not changed. The survey is conducted from outside entirely, by sighting, no part of the method requiring entry. That constraint was designed in and the file notes it as the reason the series is unbroken: a measurement that needs someone to go in gets skipped.
+The edge does not fade out; it stops. Every year its position is re-sighted against markers set outside it, and the radius has not moved. The whole procedure is worked from the safe side — no part of it asks anybody to cross — and the file records that this limit is why the series has no holes in it: a reading that needs a person inside is a reading that never gets taken.
 
 ### Try Again
 
-The first agent to encounter it wrote that he did not know how to describe what he had seen and the report came back with an instruction to write it again, and both versions are held. The second is not more accurate. It is more specific, and the file reproduces the pair in order precisely to show the difference, the archivist's note observing that the second report is the document the containment was built from.
+The first agent wrote that he had no way to describe what he had seen, and the report came back with an order to write it again; both drafts are kept. The second is not truer than the first — it is more exact — and the file prints the pair in order to make that difference visible, the archivist’s note observing that the containment was built from the second.
 
 ### Fourteen Hours
 
-Containment was achieved quickly and has held, and the operational account is retained in the responders' own words with the margin described as they described it. The protocols in use were written afterward from what was actually done. The file states this plainly rather than presenting the procedure as though it had existed in advance. The responders are named and their individual returns are held alongside the consolidated account, in the order they were submitted rather than in order of seniority. Two of the returns contradict the consolidated version on points of sequence and were not reconciled with it.
+The containment was closed out inside a day and has held since, and the operational account is kept in the responders’ own words with the margin drawn the way they drew it. The protocols now in force were written afterwards, out of what was actually done, and the file says so instead of pretending the procedure came first. Every responder is named, each return filed beside the consolidated account in the order it was handed in rather than by rank. Two of those returns disagree with the consolidated version about sequence, and nobody has reconciled them.
 
 ## Trivia
 
-- One of the first catalogued **Hazard-Void** entities in Somnarak.
-- Its void descriptor makes it structurally unique among hazard entities.
-- The void pressure in the void register feels different from standard void — more specific, more personal.
+- Catalogued early in the wing’s first **Hazard-Void** intake, and the oldest holding on the register whose measurements have never needed a correction.
+- No other hazard on the shelf is filed by taking something away rather than by doing something to a person; the void descriptor is what the wing invented for it.
+- Standard void work presses on the worker. This circle takes the worker’s instrument, which is why its register column reads unlike any other void file in the wing.
 
 ## Document Information
 

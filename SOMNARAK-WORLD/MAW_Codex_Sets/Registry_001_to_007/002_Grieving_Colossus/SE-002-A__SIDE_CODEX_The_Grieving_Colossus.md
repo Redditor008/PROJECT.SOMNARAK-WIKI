@@ -75,7 +75,7 @@ Do not call the Colossus “contained.” Zone D lives around it. The R.D. manag
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The Mourning Maul | δ | Weight | Converts concentrated Han burden into a line-breaking impact | `SE-002-B__MAW-W_The_Mourning_Maul.md` |
+| **Weapon** | The Mourning Monument | δ | Weight | Room-wide ground shockwave that brings grounded targets to their knees | `SE-002-B__MAW-W_The_Mourning_Maul.md` |
 | **Suit** | The Mourning Mantle | δ | Weight | Lets a bearer endure memorial weight without being pinned by it | `SE-002-C__MAW-S_The_Mourning_Mantle.md` |
 | **Stigma** | The Mourning Shell | δ | Weight | Holds a trace of the unmourned dead’s protection | `SE-002-D__MAW-G_The_Mourning_Shell.md` |
 
@@ -91,14 +91,15 @@ Do not call the Colossus “contained.” Zone D lives around it. The R.D. manag
 
 ## PAGE 04 — COMPACT EQUIPMENT CARDS
 
-### The Mourning Maul
+### The Mourning Monument
 
 | Field | Record |
 |---|---|
-| **Damage** | Weight 10–15 |
-| **Speed / Range** | 3 — Fast / 3 — Medium |
-| **Pattern** | Skewer — up to 3 targets |
-| **Falloff** | 100% → 70% → 50% |
+| **Damage** | Weight 16–26 |
+| **Speed / Range** | 1 — Very Slow / 5 — Room |
+| **Pattern** | Ground Shockwave / Seismic Grief |
+| **Coverage** | 360° radial ground tremor across the entire room; all grounded targets |
+| **Falloff** | Epicenter 100% → perimeter 60%; heavy stagger and crushing Weight pressure |
 | **Cost** | 50 Sorrow Echoes |
 
 ### The Mourning Mantle

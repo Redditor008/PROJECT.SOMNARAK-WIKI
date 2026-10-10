@@ -207,7 +207,7 @@ Escalation here is radius and recurrence, not force. Record the first trigger, t
 | **Manifestation** | Object-Void |
 | **Primary effect** | Projects a suppressed memory in complete emotional and sensory detail. |
 | **Duration / rate** | Until the viewer looks away or the memory completes. |
-| **Risk** | Minor (α) by potency and considerably worse than that by consequence: low Void pressure, no event pattern, and an identity hazard that two personnel have not returned to duty from. |
+| **Risk** | Minor (α) by potency and considerably worse than that by consequence: low Void pressure, no event pattern, and an identity hazard that 2 personnel have not returned to duty from. |
 | **Management** | Viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time. |
 
 **Activation reporting order:** trigger → radius edge from the case → vault response in the stacks → personnel effect → duration → management condition. The Viderehan and Ferrehan restriction is correct on this holding and is not a template line.
@@ -285,10 +285,10 @@ Every piece shows somebody a period they arranged to lose, and the set does the 
 **R.D. Comprehension Level:** 4 — Mastered
 
 **Key Observations:**
-- Its signature answers the Archive's sealed vaults: nine of them register at the door when the radius reaches their aisle.
+- Its signature answers the Archive's sealed vaults: 9 of them register at the door when the radius reaches their aisle.
 - Contact produces no physical injury of any kind, which is recorded because personnel keep expecting otherwise.
 - Citizens apply to view it and citizens apply never to be in the building with it; both kinds of application are held, and there are more of the second.
-- Moving it requires a full memory-dampening team, which has been assembled once, for a relocation within the building of eleven metres.
+- Moving it requires a full memory-dampening team, which has been assembled once, for a relocation within the building of 11 metres.
 
 **Personnel Note:**
 > *"It showed me a woman and a child. I tried to break it, which I am told everyone does. The crystal did not mark. I walk past it on every shift now and I know exactly what I gave away and exactly what it cost, and the Archive has a receipt for it."* — Keeper, Zone A Archive, Year 4218
@@ -302,7 +302,7 @@ Every piece shows somebody a period they arranged to lose, and the set does the 
 | **Initial exposure** | A shallow tray of mirror fragments angled away from the room, behind a painted line. Nothing happens until somebody stands where the glass can see them, and the session is normally designed so that nobody does. |
 | **Sustained observation** | Radius edge from the case, crack overlay against the previous cycle, frame residue, vault responses in the stacks, and the glass angle. All of it taken from the line, with nobody facing the glass. |
 | **Activation or escalation** | Escalation is the radius. When the edge passes the second stack the aisle is cleared and the case is angled away; the threshold is a painted mark on the floor and the session lead applies it. |
-| **Post-contact review** | Radius before and after, the overlay, the viewer's full account taken the same day, and a counsellor's note at seven and twenty-eight days directed at whether the viewer has contacted anybody who appeared in the memory. |
+| **Post-contact review** | Radius before and after, the overlay, the viewer's full account taken the same day, and a counsellor's note at 7 and 28 days directed at whether the viewer has contacted anybody who appeared in the memory. |
 
 **Observation method:** From the painted line, glass angled away, in sessions of one authorised viewing or none. Record the shard count, the edge condition, the authorisation, and — where a viewing occurred — the viewer's account taken immediately and sealed unread.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -490,7 +490,7 @@ The objection is minuted at every annual review and is raised by the Archive's r
 
 - **Classification detail:** Echo (II) coherence at Minor (α) — low danger, correctly graded, and the grade is the reason the holding is worked by two staff rather than four.
 - **Field detail:** Void, in a tray at SECTOR-A-01 in the Alpha Tree Archive, behind a painted line, angled away from the room.
-- **Recognition detail:** Identify it by the frame and the case, never by looking into it; the Archive holds two other mirrors and both of them show the room.
+- **Recognition detail:** Identify it by the frame and the case, never by looking into it; the Archive holds 2 other mirrors and both of them show the room.
 - **Record detail:** Read this file beside the payment ledger and the verification file, which between them are the whole of what the Archive can honestly say about accuracy and consent.
 - **Containment detail:** Containment here is an angle and a painted line. The glass is not restrained by anything; what is restrained is where people stand.
 ## Document Information

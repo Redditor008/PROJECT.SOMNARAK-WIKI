@@ -279,7 +279,7 @@ The three pieces are organised around one idea and the armoury states it plainly
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Neglect Learned to Listen (N-IIβ-270 [WP]) is logged as a Place-Grudge manifestation expressing Weight, held in the Old Lament ward, Zone B: a rust patch on walls, pipes and abandoned metal, corroding into shapes like letters that change between photographs, advancing along connected metal and across four ward boundaries in sixty-eight years. It retains what is said near it and returns it later in the speaker's voice. The holding's instrument is the traced extent on fixed panels — thirty-one square metres at baseline, eight at the floor, one hundred and ninety at the ceiling.
+Neglect Learned to Listen (N-IIβ-270 [WP]) stands on the register as a Place-Grudge manifestation expressing Weight, held in the Old Lament ward, Zone B: a rust patch on walls, pipes and abandoned metal, corroding into shapes like letters that change between photographs, advancing along connected metal and across four ward boundaries in sixty-eight years. It retains what is said near it and returns it later in the speaker's voice. The holding's instrument is the traced extent on fixed panels — thirty-one square metres at baseline, eight at the floor, one hundred and ninety at the ceiling.
 
 **Entry 2 — <Duty Return: Nine Hundred and Four Duties, Three Hundred Recorded as Absorbed>**
 The first return under the Rule of the Named Duty, Year 4238. This facility abolished sixty-one posts in the nine years the register covers. Between them those posts held nine hundred and four recorded duties. Three hundred and ninety-two have been assigned to a named post whose holder was told and whose workload was assessed. Two hundred and twelve have been formally discontinued in writing with the consequence stated. Three hundred remain recorded as absorbed by the wider team under the transitional wording. The patch stood at one hundred and ninety square metres in Year 4230, in the quarter of the Old Lament reorganisation, when forty posts went in eleven weeks and every duty they held was absorbed — a reorganisation delivered under budget and commended in the annual report. It stood at eight square metres in Year 4237, during the first assignment campaign. The extent has tracked the duty return for nine years and has never tracked work done at the panels.
@@ -303,11 +303,11 @@ The ground is the panels. Forty posts abolished in eleven weeks, every duty abso
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Neglect Learned to Listen; the other feeds it.
+> The interval leaves one thing to decide: stand inside earshot the whole time and answer none of it, or say something back — which, on this wall, is usually an apology.
 
-| Keep the panel series unbroken and the Rule of the Named Duty enforced across the establishment office and every restructuring schedule this facility. | Depart from the condition for good reasons, as Neglect Learned to Listen's record shows people do. |
+| Keep the panel series unbroken, and the Rule of the Named Duty enforced at the establishment office and on every restructuring schedule this facility runs. | Walk away from the condition for good reasons, the way this record shows people doing. |
 |---|---|
-| The worker stays in earshot for the full interval, hears the duties spoken in a drafter's voice, and says nothing to the wall. The gauge falls and the session's record is clean. | The worker answers. They are usually apologising. The gauge climbs, the reply is retained, and some later rotation will hear them saying sorry from inside a pipe. |
+| The worker keeps within earshot for the whole interval, listens to the duties read out in a drafter's voice, and gives the wall no answer at all. The gauge comes down and the session goes into the record clean. | The worker answers it. What they are saying, most often, is sorry. The gauge climbs, the reply gets kept, and some later rotation will hear them apologising out of the inside of a pipe. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

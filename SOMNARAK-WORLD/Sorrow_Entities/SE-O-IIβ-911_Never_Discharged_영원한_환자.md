@@ -1,6 +1,6 @@
 # Never Discharged — 영원한 환자
 
-> *"The weight is not punishment. It is recognition."*
+> *"The moment loops, and each time the scream arrives in your own throat."*
 
 ## SECC Classification
 
@@ -87,7 +87,7 @@
 
 1. **Tension:** The team checks the corridor clock against the bay's last recorded loop, confirms the door is latched, and takes position at the window. Nobody enters the bay for any reason during a cycle and the door key is held by a second person outside the corridor.
 2. **Clash:** None. The wing has asked twice for the row to be removed. The loop does not respond to anything, cannot be engaged, and has never varied in content: the same scream, the same table, the same light, 611 times.
-3. **Resolution:** The second loop ends, the sheet is completed, and the discharge book is signed. The gauge falls after the second loop and not the first, consistently, which nobody has explained and which the roster is built around.
+3. **Resolution:** The second loop ends, the sheet is completed, and the discharge book is signed. The gauge falls after the second loop and not the first, consistently, which nobody has explained and which the roster is built around. It closes against the documented suppression condition: **The gauge falls after the second loop and not the first**.
 
 ### Consequences
 
@@ -101,7 +101,7 @@
 
 **Notable Features:**
 - Expresses Weight pressure in a body register.
-- The time form is unmistakable — this is a body entity, not a general one.
+- The form is not mistaken for a general hour: the loop closes on a body, and the second pass is the reason the sheet exists.
 - A sealed bay, a window, a clock synchronised weekly, and a discharge book on the shelf beside the door.
 
 **Identification Profile**
@@ -179,8 +179,9 @@ The table says the two available Work Types both reduce the gauge and does not s
 
 **Appearance:** a veil of heavy matte weave that hangs as though wet and is not, and which pulls perceptibly toward the bay door when it is carried along that corridor.
 
-**Resistances:** Weight: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.3 (Resistant)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** The burden of the endless posting settles into the wearer's shoulders as a low, steady fatigue, lingering through every hour the mantle is worn.
 **Ability:** Grants resistance to Weight damage, protecting against the body register of sorrow.
 
 ### M.A.W. Stigma — Never Discharged's Token
@@ -243,7 +244,7 @@ All three pieces were cut in the window between loops and all three carry the sa
 
 ## 감각 묘사 (Flavor Text)
 
-The body register changes the weight from a classification into an experience. You do not merely register weight pressure on the gauge; you feel it in your body — personally, specifically, as if the entity has found the one frequency that matches your own unexamined grief. A single moment frozen in the air of a Zone E medical bay — a soldier mid-scream, a table overturned, a light shattered. The moment repeats every 47 minutes, and anyone inside the bay when it loops experiences the scream as their own.
+Weight stops being a classification the moment the bay takes you. The gauge still reads it as pressure; the body reads it as *this one* — the ache that answers to your name and nobody else's. The holding itself is a single moment caught in the air of a Zone E medical bay: a soldier with the scream still coming, a table on its way over, a light already broken and not yet landed. Every 47 minutes the room does it again, and whoever is standing inside takes the scream into their own throat.
 
 **At first contact:** Through the glass: a still room with the dust unmoving in it, and a man standing in the middle of it who is about to scream and has been about to for nine years.
 
@@ -253,23 +254,37 @@ The body register changes the weight from a classification into an experience. Y
 
 **After departure:** You check the clock. Wardens do it on the way out and again on the way home, and the wing's only advice is that it passes slowly and that nobody has been harmed by it.
 
+## 상호작용 (Entity Interactions)
+
+A warden sits the bay through a first loop and a second; the sheet is closed when the second one ends and not before. No second holding has ever been brought inside for either pass. Three notes follow, one per neighbouring file; the only measure used on any of them was the bay's own sheet — and the one thing the three have in common is a stretch of time that must finish on its own before anyone is allowed to write.
+
+**Interaction method:** Take the ward's own numbers first: the two loops, the sheet completed at the second, the gauge fall that follows the second and never the first. Then set the other record's series beside them and enter the first parting, its reach, its trigger, and whether either series moved in the reading. Re-verify at the next discharge.
+
+| What the ward holds | How the pairing has run | What the roster entered | What the book keeps |
+|---|---|---|---|
+| **Allhallow** `O-IIIγ-916` | Filed together on a count that waits for its hour. That record counts walkers at a border and files two tallies without reconciling them; this one completes a sheet only after the second loop. | One review entry; the tally difference and the loop count were laid together and parted at the first mark. | That the parting is written down as a parting, kept in the review's numbers as they fell. |
+| **Amnesia** `O-IIβ-914` | Grouped on identity recovered by procedure rather than by testimony. That record reads forearms and matches names off a board in a median of nine minutes; this one signs a discharge book for a patient who has not left. | Nothing was run. The two were listed together in the appendix and the review let the listing stand. | That the pairing is a shelf arrangement, entered beside the row whenever the file is quoted. |
+| **Backward Hour** `C-IIIγ-913` | Grouped on hours that run the wrong way. That record's cycle ends on the twelfth hour and always the twelfth; this one ends when the second loop ends, which nobody has explained. | The clock series and the loop count were compared once; they agreed on nothing but their length. | That the two are filed for the shape of the cycle, noted as a shape and not as a link. |
+
+**Interaction procedure:** No co-presence is authorised during either loop. The comparison stays on paper at the review, with the discharge book and the loop count entered first and the other record's series laid beside them unchanged; parting, reach, trigger and both readings go into the margin.
+
 ## 이야기 (Narratio) — The Tale
 
 The citizens of SECTOR-O-911, contained have a name for Never Discharged that predates the R.D. classification. They call it the weight that does not lift. The R.D. calls it Time-Body. Both are correct.
 
-The body sorrow that birthed Never Discharged is specific. It is not the general weight grief that saturates Somnarak — that ambient, city-wide ache that every citizen carries. This is a particular grief, a particular wound, crystallized into a time form because the body register was the only shape it could take. Time was the vessel; body was the content; weight was the pressure.
+What was left behind in this bay is not the ambient weight that every citizen of Somnarak walks around under. It is one man's particular wound, and it took a time shape because no other shape would hold it — the instant when the scream was still forming and could no longer be stopped. The hours made the vessel, the body gave it its content, and the weight is the pressure of a moment that never finishes landing.
 
-The entity does not rage. It does not weep. It simply persists — body and weight, patient and permanent.
+- Nothing here shouts and nothing weeps. The bay goes on holding its one unfinished second, and the weight goes on being weight.
 
-The entity does not rage. It does not weep. It persists — body and weight, patient and permanent. Never Discharged is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+The bay never shouts and never cries. It holds a single second on repeat, patient as a ward that has outlasted every hand that ever wrote a line about it. Never Discharged does not rank among the loud sorrows of Somnarak; it ranks among the exact ones. Grief issued by the measure to every citizen cannot cover a wound cut to fit one man, and that is the whole reason this file exists.
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The body register is not in the manual. We learned it by failing."* — Specialist, Field Team
-*"I have worked weight entities for six years. This one is different. The body makes it personal."* — Handler
-*"Containment holds. But the protocols need a new chapter."* — Containment Lead
-*"After contact, I could not stop thinking in the body register for three days."* — Specialist, Recovery
-*"It is one of the first of its kind. We are still learning what Time-Body means."* — Researcher, Floor 4
+*"Nobody trains you for a bay that times its own day in forty-seven-minute pieces. We learned this register by standing in it."* — Specialist, Field Team
+*"Six years posted to weight holdings taught me to stand back. This bay does not allow standing back — it puts the loop somewhere under your own ribs."* — Handler
+*"The door holds. What the protocols do not yet carry is the line for a man who went in for the only reason anybody goes in."* — Containment Lead
+*"I came off that watch carrying the second in my own chest. It took three days before my own heartbeat sounded like mine again."* — Specialist, Recovery
+*"Time-Body is where the filing puts this. Where it does not go is the column for the four who walked in and found the scream was theirs — that column is still being written."* — Researcher, Floor 4
 
 ## 기록 (Registrum) — The Record
 
@@ -312,13 +327,13 @@ The bay itself is ordinary between recurrences and could be used, and the questi
 
 ### The Weight That Does Not Lift
 
-The district's own name for it describes something that stays on a person, and the file carries that name beside the classification. Both appear at the head of the folder. The archivist's note gives the standard reason and adds that in this instance the local name is also the more accurate description of what personnel report afterward.
+The district's own name for the bay describes something that stays on a person, and the file keeps that name beside the classification at the head of the folder. The archivist's note gives the usual reasoning for the pairing and then adds a caveat of her own: in this instance the local name is not a courtesy translation, it is the more accurate description of what wardens report when they finally go home.
 
 ## Trivia
 
 - One of the first catalogued **Time-Body** entities in Somnarak.
-- Its body descriptor makes it structurally unique among time entities.
-- The weight pressure in the body register feels different from standard weight — more specific, more personal.
+- No other ward on the shelf keeps a patient through two full passes of the same moment; the second pass is what gives this file its class.
+- Standard weight presses on whoever happens to be standing nearby. This one presses on one man, in one bay, inside one repeated second, and up close the difference is unmistakable.
 
 ## Document Information
 

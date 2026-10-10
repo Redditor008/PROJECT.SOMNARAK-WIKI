@@ -80,14 +80,14 @@
 | { *The Soft Edge* [**Debuff**] } | "Your outline goes blurry at the edges — and you cannot tell where you stop and the air begins." | [The Shard melts the target's boundaries; definition fails.] | *Target suffers a Void mark; they are less solid than they were.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Shard is approached. |
 | { *The Run* [**Debuff**] } | "Something drips — and you realize with horror that it is you." | [The target begins to lose cohesion; identity runs.] | *Target loses clarity; they cannot hold their shape together.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers in the melt. |
 | { *The Pool* [**Attack**] } | "A splash of what used to be someone lands on you." | [A glob of melted self strikes the target.] | *Inflicts Void damage; a portion of identity transferred.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shard is disturbed. |
-| { *The Dissolve* [**Attack**] } | "The melting accelerates — and everything you were comes apart at once." | [The Shard dissolves the target's coherence in a rapid rush.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shard is struck. |
-| { *The Puddle* [**Ultimate**] } | "Everyone loses their edges — and the floor is awash with what used to be people." | [The Shard spreads its melt across the whole field.] | *All in range suffer Void erosion for three turns as shapes fail.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Dissolve* [**Attack**] } | "The melting accelerates — and everything you were comes apart at once." | [The edges of whoever is nearest start going soft, and the softening runs inward faster than anybody can name what is being lost.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shard is struck. |
+| { *The Puddle* [**Ultimate**] } | "Everyone loses their edges — and the floor is awash with what used to be people." | [The melt stops being a property of the figure and becomes the room's, and the floor takes on the shapes of everyone standing on it.] | *All in range suffer Void erosion for three turns as shapes fail.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The team registers the Shard inside awareness rather than in the room, confirms each member can still state their own name and posting without hesitation, and agrees who will speak the names aloud during the cycle.
 2. **Clash:** Ten turns, none of them physical. Flerehan and Ferrehan bring the gauge down, Viderehan holds it level, and Pugnahan melts the figure faster and pushes it further through thought — so the engagement is decided by how the party speaks to each other while it is present.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Use names and present anchors; do not force a fixed identity**.
+3. **Resolution:** The cycle closes with names used aloud, present-tense anchors running, and no fixed identity imposed on anybody in the room. The registration carries the file's own condition: **use names and present anchors; do not force a fixed identity** — the clause that costs relief crews the most, because the decent instinct at the counter is to settle the question of who somebody is.
 
 ### Consequences
 
@@ -142,7 +142,7 @@
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Anonym is recorded as a Subject with Subject-Mind manifestation and Void elemental expression. The current record places it at Zone E, Border region; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Read the four rows above with the classification and the element in hand: the same movement means different things at different tiers, and none of it stands alone. Anonym is a Subject with Subject-Mind manifestation and Void expression, measured inside the personnel at the Zone E border rather than behind any barrier, and no assumption from another holding in the register transfers here. The caution this file repeats is written for a Mind-type: a watch can close flat on every reading and still leave a worker unable to say with confidence what they were called before the shift started.
 
 **Reading the response:** Flerehan brings the gauge down and the figure reforms gently around shared grief — it holds together best when it is grieved with rather than identified. Ferrehan brings it down by a harder route: the test is whether the worker can remain seen by the self, which means staying recognisable to themselves for the whole cycle while something is quietly dissolving the grounds for that. Viderehan holds level and shows the self before the erosion, which is informative and changes nothing. Pugnahan raises the gauge every time, melts the figure faster and pushes it further into thought, because confrontation insists on what something is and that insistence is the injury. The management condition states the balance exactly and personnel should not simplify it in either direction: use names and present anchors, and do not force a fixed identity.
 ## Breach Behavior
@@ -156,7 +156,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Effect** | Confidence in identity dissolves while memory stays intact — the characteristic signature, and the reason it is missed. |
 | **Secondary Effect** | Personnel stop using one another's names, then stop noticing that they have stopped. |
 | **First Target** | Whoever is carrying it already. There is no nearest: distance to this entity is not a quantity, and the file has twice been wrong on that point in its own breach table. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
+| **Escalation** | While it is unopposed the pressure climbs: Clarity drain rises by 5 each turn until the cycle is brought back under a name and an anchor. The figure does not pursue; what rises is the room's willingness to let its own edges go. |
 
 ### Escalation Notes
 
@@ -195,7 +195,7 @@ The weapon fires solid balls of compressed, burning tallow that splatter across 
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a veil of Void Han-gossamer, near-translucent and all but colourless, that lies close to the wearer's outline and keeps a little distance between it and the person inside.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -213,7 +213,7 @@ The weapon fires solid balls of compressed, burning tallow that splatter across 
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a mirror-tile of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a mirror-tile of Void Han-glass, near-translucent and without colour, that throws light back at an angle nothing in the room is standing at and shows the bearer a face they cannot place.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -233,10 +233,10 @@ Each piece remains part of the Shard, and the set shares a property the grades d
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Anonym takes: each shot takes a small memory, and the loss is undetectable by design — what goes is minor and unlabelled, the name of a corridor, a face from a prev. |
-| **During use** | Anonym charging, which presents as this: each shot takes a small memory, and the loss is undetectable by design — what goes is minor and unlabelled, the name of a corridor, a face from a prev. The wielder's own account is taken separately and afterwards. |
+| **Before use** | Wielder, piece, and a dated baseline the observer writes and keeps: the bearer's own name spoken back to them, the way to their quarters, and the name of the person they will report to at the end of the shift. This set's recorded toll is one small memory per shot, chosen so that the bearer cannot feel it go. |
+| **During use** | The charge shows as small unnamed losses inside the baseline: a corridor's name gone, a face unplaceable, the way back to quarters walked by habit rather than known. The observer tests the baseline aloud at the hour marks, and the bearer's own account is taken afterwards and read as part of the toll. |
 | **At limit** | The veil protects the self by holding it slightly apart from the wearer. Nothing is lost and nothing hurts, and the wielder has stopped reporting it — the usual end point for a Anonym piece. The observer calls the limit. |
-| **After use** | Return, reconcile the baseline, and record whether Anonym's toll has reversed: the veil protects the self by holding it slightly apart from the wearer. Nothing is lost and nothing hurts. Where it has not, the piece is not reissued to that wielder. |
+| **After use** | Take the piece back and reconcile the sheet out loud: can the bearer say their own name, find their quarters without habit, and name the person they report to? Where any of the three fails, the piece stays in stores and the bearer comes off the counter for a fortnight. |
 
 **Stat interpretation:** The α grades are honest — three to six damage, ten to fifteen Echoes, nothing concealed. What the columns cannot express is that every cost in this set is invisible to the person paying it and obvious to everyone around them, which inverts the usual reporting assumption. Read the Cost lines as the specification, and take the colleague's account over the wearer's.
 ## 관찰 기록 (Observation Log)
@@ -266,7 +266,7 @@ Each piece remains part of the Shard, and the set shares a property the grades d
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Anonym (O-Iα-126 [VS]) is logged as a Subject-Mind manifestation expressing Void, in the Zone E border region, where it is perceived inside the personnel rather than held behind anything. It formed from a self-image worn through by refusals that were individually correct, and it is measured on the people who work it.
+Anonym (O-Iα-126 [VS]) is a Subject-Mind manifestation expressing Void, present across the Zone E border region and perceived inside the personnel rather than held behind anything at all. It formed from a self-image worn through by refusals that were each individually correct, and it is measured on the people who work it. It formed from a self-image worn through by refusals that were individually correct, and it is measured on the people who work it.
 
 **Entry 2 — <Border Watch Report, Zone E>**
 Spreads through the consciousness of the watch rather than across the line. Subjects keep their memories and lose their confidence in them. It comes apart under certainty and holds together under patience, and the watch's naming practice — each worker using the other's name at intervals, aloud, for the whole shift — was devised on the line by the workers and adopted by the wing afterwards without amendment.
@@ -279,15 +279,15 @@ Management: use names and present anchors, and do not force a fixed identity. Th
 
 **Entry 5 — <Archive Note>**
 The Register's annual return publishes a figure headed *standing discrepancies*: entries whose subject has attested, at a counter, that they are wrong, and which stand unamended. Year 4237: 18,900. The border watch's self-description sheets have widened in the same years — mean word-loss between a worker's sentence before a cycle and after it now stands at 7.4 words, against 5.1 and 3.2 at the two earlier reviews. The Archive states the correspondence, notes that the Shard is measured on personnel because there is nowhere else to measure it, and declines to offer a mechanism.
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Mender who couldn't repair. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored. Expanded origin context: The archive cross-references this entity's sorrow with Zone E, Border region — the same Han density, the same Void signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Subject is not going anywhere.
+The origin here is a counter and a wording. A clerk working the border entry point refused, over a long season, a series of applications that should have been refused — each one correct on its own, each one recorded in the day book, and the whole run of them wearing away at the clerk's own sense of being a person with a name. Anonym is that wear. It was never a wound in the ground and never a figure in a cell; it is the residue of being right many times in a row at a desk, and the file's own note is that the subject was never going anywhere, because the refusals are the procedure.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Anonym; the other feeds it.
+> Two ways to close a watch at the counter, and the run of cases in the file separates them: one leaves everybody in the room with the name they came in with, and the other is the tidiness every official instinct asks for.
 
-| Use names and present anchors; do not force a fixed identity. | Depart from the condition for good reasons, as Anonym's record shows people do. |
+| Use names aloud and keep the present-tense anchors running — the counter, the hour, the person in front of you — and impose no fixed identity on anybody in the room, including the observer. | Depart from the condition for good reasons, as the record shows people do: settle the question of who somebody is, insist on a name, or resolve a standing note by writing a person into a category — the 4180s cases are what the file means by the last of those. |
 |---|---|
-| The figure reforms gently around shared grief. The sorrow is seen clearly; Anonym is fully recorded. | It melts faster and spreads through thought. The gauge climbs and Anonym withdraws without revelation. |
+| The room holds together: names spoken, anchors kept, every entry left standing as written, and the watch closes with the baseline still answering end to end. | The softening runs inwards and takes the names first; the entry closes with a bearer who cannot say what they were called this morning and the counter reposted as a two-person post. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -298,7 +298,7 @@ A figure made of shards watches you from inside your own thought. Its edges melt
 
 **At first contact:** There is no threshold and no door. A worker on the border line becomes aware of pale fragments assembling somewhere that is not in front of them, watching without a face, and the awareness arrives already some minutes old. Looking at it directly slides it apart. The second worker may or may not be perceiving anything at all, and asking them is the standing instruction.
 
-**With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The minutes go by and the first wrongness gives way to something harder to hold on to: familiarity. The pressure settles into a pattern that can be read ahead, and then into a habit, and then into a name that no longer quite fits. Nothing out on the border is different from the first minute to the tenth; what has changed is how firmly the person watching is whoever they were.
 
 **When the entity activates:** The Gauge tips. The Subject-Mind does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Void is no longer atmospheric. It is operational.
 
@@ -306,7 +306,7 @@ A figure made of shards watches you from inside your own thought. Its edges melt
 
 ### Interaction Pattern
 
-Anonym does not exist in isolation. Its recorded relationships with Faceless Glass, The Empty Mask, The Forgotten Name should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three holdings are kept within reach of the border post — Faceless Glass, The Empty Mask and The Forgotten Name — and none of the three is an alliance. For each pairing, enter whether the response changed in sound, movement, temperature, memory pressure, gauge or containment stability, with the distance, duration and trigger recorded alongside whatever remains once the parties are apart.
 
 **Interaction method:** Baseline the Shard across several cycles first, understanding that the baseline is a spread of disagreeing accounts and that consensus would be the anomaly. Then log which workers perceived what, how far apart they were, how long it held, and whether any two accounts converged. Convergence is reported the same hour; it has happened once, in Year 4234, during the Forgotten Name pairing.
 
@@ -413,7 +413,7 @@ Three instructions. Read the sentence as written, including the parts the worker
 ### Registry Trivia
 
 - **Classification detail:** Anonym is a Subject with Residue (I) coherence and Minor (α) potency.
-- **Field detail:** Its defining element is Void, and its registered location is Zone E, Border region.
+- **Field detail:** Void is its element and the border post in Zone E is its registered ground — present in the personnel at the counter and held by nothing but names and anchors. |
 - **Recognition detail:** There are no physical markers to identify. Recognition is by circumstance: Zone E, a figure of pale fragments that assembles and slides apart under attention, perceived without being located, and a cold that is reported as bloodless rather than cold.
 - **Record detail:** The border region holds more than one Void residue formed from exclusion; confirm the designation O-Iα-126 and the Subject-Mind manifestation before applying this file to any of them.
 - **Containment detail:** No door contains this entity, because it was never on the other side of one — it is perceived inside the consciousness of border personnel, and the containment boundary runs through the staff rather than around a cell. What limits it is rotation, naming practice, and the self-description sheets. The facility's only barrier here is procedural, and it is honest to say so in the file rather than imply a seal that does not exist.

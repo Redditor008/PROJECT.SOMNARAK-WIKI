@@ -106,6 +106,8 @@ The set turns emotional pain into defense. Its cost is proximity: when grief is 
 
 **Quick effect:** The Fang opens a defensive thorn-line against active harm without making every remembered injury a target for retaliation.
 
+**Weapon profile hold:** This card and the linked item's core row say Range 3 — Medium; the primary Weapon block says Range 4 — Long, and both the primary and item Appearance say the harpoon shoots across Range 4 (the Appearance is repeated verbatim, not independent corroboration). Damage 7–12 agrees across this card, item core, and primary Weapon block, but the primary Registry Addendum separately lists “needle gun 11–17 at 40 Echoes.” The master registry leaves DMG variable and RNG unset; its archetype index confirms a gun/range type, not a distance. The linked item's Resting/Active fields describe a fang blade and defensive line rather than the rifle in Appearance; no record documents a form transition or numeric split. Keep the source values; no disputed profile is selected.
+
 ---
 
 ## PAGE 05 — SUIT STAT CARD

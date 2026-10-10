@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan and Ferrehan. Flerehan is the only route by which this holding has ever advanced: the flames drop and the accusatory edge leaves the voice. Ferrehan takes the full watch in the heat, answering when addressed and never agreeing with her about who. Viderehan holds the gauge where it is. Pugnahan is prohibited outright — she was formed out of that exchange and burns hotter the longer it runs. |
 
 ### Operational Notes
 
@@ -88,7 +88,7 @@
 
 1. **Tension:** Identification first — The Angry Maiden is recognised by her by the thermal chart against the last watch, not by the fire. She looks the same at two degrees and at sixty-eight, and five early reports describe a quiet chamber on watches the probe recorded at over forty — then the approach is set and the positions are taken.
 2. **Clash:** Flerehan and Ferrehan only. Pugnahan is prohibited on this file and the prohibition is read aloud at shift start rather than assumed. The reading is the peak thermal load of the watch, in degrees above corridor ambient at the fixed wall probe, charted by the thermal crews: eleven point four at baseline, two point one at the floor, sixty-eight at the ceiling.
-3. **Resolution:** The documented condition — **validate the anger; do not deny or argue with it** — then the cooling hour, then the relief. No watch has ever closed without the hour, including through the hardship rotations when every other provision in the wing was shortened.
+3. **Resolution:** The documented suppression condition: **validate the anger; do not deny or argue with it** — then the cooling hour, then the relief. No watch has ever closed without the hour, including through the hardship rotations when every other provision in the wing was shortened.
 
 ### Consequences
 
@@ -275,7 +275,7 @@ The set is built around not answering: a blade that goes dark against someone wh
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Angry Maiden (C-IVβ-042 [GS]) is logged as a Subject-Body manifestation expressing Grudge, held at SECTOR-D-02 in the Echo Gardens with her two sisters: a young woman of flesh and bone under a surface of steady fire that does not spread and does not go out, warm to four medical examinations, rigid with held fury, smelling of char and old smoke. She has never breached. Her load leads both her sisters. The holding's instrument is the peak thermal load of the watch — eleven point four degrees above ambient at baseline, two point one at the floor, sixty-eight at the ceiling.
+The Angry Maiden (C-IVβ-042 [GS]) stands on the register as a Subject-Body manifestation expressing Grudge, held at SECTOR-D-02 in the Echo Gardens with her two sisters: a young woman of flesh and bone under a surface of steady fire that does not spread and does not go out, warm to four medical examinations, rigid with held fury, smelling of char and old smoke. She has never breached. Her load leads both her sisters. The holding's instrument is the peak thermal load of the watch — eleven point four degrees above ambient at baseline, two point one at the floor, sixty-eight at the ceiling.
 
 **Entry 2 — <Findings Return: One Thousand and Forty-Two Deaths, Seven Hundred and Eleven Recorded Wrongs>**
 The first return under the Rule of the Recorded Wrong, Year 4238. Over the nine years the register covers, this facility recorded one thousand and forty-two deaths by external means for which no responsible person was ever identified. Seven hundred and eleven now carry a finding that the act was wrongful, issued separately from any question of who did it. Three hundred and thirty-one still stand as death by external means, person or persons unknown, which states that somebody died and declines to state that anything was done to them. Twenty-nine findings of wrongfulness this year were followed by the departure, ostracism or eviction of a person who was never named in them and against whom nothing was ever alleged. The thermal load peaked at sixty-eight degrees above ambient in Year 4233, in the quarter the Zone B raid inquiry closed one hundred and eighteen deaths in a single tranche, every one of them unknown — an inquiry that was scrupulous and was praised for refusing to point at anybody. It peaked at two point one in Year 4237. The load has tracked the findings return for nine years and has never tracked anything done in the chamber.
@@ -301,11 +301,11 @@ The ground is the probe. That tranche took this chamber to sixty-eight degrees a
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Angry Maiden; the other feeds it.
+> The watch closes on one decision, and the file keeps its two endings on it: hold the weight without flinching and say the wrong was a wrong, or fight it off by explaining that nobody can be blamed when nobody is known.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold it — take the weight and do not flinch. | Fight it off — explain that blame cannot be placed on nobody. |
 |---|---|
-| The worker says that what was done to the boy was wrong, and means it, and does not go on to say who. The flames drop, the voice loses its edge, the probe falls, and the watch stands. | The worker explains that nobody can be blamed when nobody is known. It is true, it is said kindly, and it is the exchange she was made out of. The load climbs for as long as it continues. |
+| The worker says, and means it, that what was done to the boy was wrong — and stops there, naming no one. The flames drop, the voice loses its edge, the probe falls, and the watch stands. | The worker explains that nobody can be blamed while nobody is known. All of it is true, all of it is said kindly, and it is the exact exchange she was made out of. The load climbs for as long as the talking continues. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

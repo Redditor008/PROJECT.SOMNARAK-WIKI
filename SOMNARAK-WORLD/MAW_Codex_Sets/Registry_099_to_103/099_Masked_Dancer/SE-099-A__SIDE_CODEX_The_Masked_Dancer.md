@@ -105,6 +105,8 @@ This set makes movement sharper, faster, and easier to maintain. Its central dan
 
 **Quick effect:** The short fang follows a committed step and turns the pressure of restraint back toward the barrier or body applying it.
 
+**Weapon profile hold:** The primary first describes the Phantom Dancer's Tri-Daggers as a spectral glove with three orbiting knives: Grudge 4–8 per strike, three strikes, Fast 4, Medium 3, Tri-Blade Flurry / Telekinetic Skewer. The official identity, item Core Statistics, Side set row, and master title/archetype support the Tri-Daggers form; the item Core Statistics align with this first profile. The primary then gives a second unlabeled 5–9 / Normal 2 / Short 2 / Single / 100% profile; its Registrum also lists “the glove's daggers at 5–9.” This card's *Dancing Fang* heading and 5–9 / 2 / 2 / Single line, plus the linked item's Appearance/Combat File, describe one short crimson blade rather than three daggers. The master registry leaves damage variable and speed/range unset; its archetype supports the Tri-Daggers name but assigns Short. Maximum 4 and 25 Echoes agree. No documented transition or base-versus-special split resolves the paired forms/profiles, so no name or statistic is selected.
+
 ---
 
 ## PAGE 05 — SUIT STAT CARD

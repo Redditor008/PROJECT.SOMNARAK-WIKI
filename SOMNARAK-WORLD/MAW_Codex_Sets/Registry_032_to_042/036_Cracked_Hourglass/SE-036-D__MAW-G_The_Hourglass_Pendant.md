@@ -17,7 +17,7 @@
 | Type | Accessory (Stigma) — cracked pendant |
 | Grade | β — Moderate |
 | Element | Weight |
-| Slot | Head |
+| Slot | Neck / Choker |
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Cracked Hourglass source record |
 

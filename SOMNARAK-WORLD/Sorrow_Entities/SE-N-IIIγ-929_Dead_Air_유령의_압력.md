@@ -1,6 +1,6 @@
 # Dead Air — 유령의 압력
 
-> *"When it comes, you will know. Everyone knows."*
+> *"On the form I wrote 'left side' and an estimated weight. What no form of mine has ever recorded is that the leaning was somebody I knew."*
 
 ## SECC Classification
 
@@ -42,7 +42,7 @@
 - Work reduces its extent for a shift. The silence is unchanged, and no session has produced a sound within it.
 - Three ignored conditions escalate it. The spirit register carries contact, and the first sign is the loss of the crew's own voices.
 - Crews work on physical line signals rather than speech, and a missed signal ends the session for the rotation.
-- Extraction is a separate risk event under its own authorization.
+- Drawing anything off this ground is a risk standing by itself and is authorised by itself.
 
 ## Combat Record
 ### Core Stat Line
@@ -81,14 +81,14 @@
 |---|---|---|---|---|
 | { *The First Weight* [**Debuff**] } | "It begins as a whisper in the weight." | [The entity's spirit pressure settles over the target.] | *Target feels the weight of weight sorrow.* **[10 Weight DMG [Weight]]** | When the entity first fixes on a target. |
 | { *The Spirit Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of weight spirit sorrow.] | *Weight damage strikes the target; the gauge spikes.* **[21 Weight DMG [Weight]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full weight weight on one point.] | *A devastating Weight strike; the target's Sorrow Gauge surges.* **[29 Weight DMG [Weight]]** | When the entity is cornered or starved. |
-| { *The Spirit Collapse* [**Ultimate**] } | "The spirit breaks — and everything it held comes loose." | [The entity's full weight sorrow unleashed in every direction.] | *All personnel suffer Weight erosion for three turns.* **[23 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full weight weight on one point.] | *A devastating Weight strike; the target comes out of it carrying noticeably more than they went in with.* **[29 Weight DMG [Weight]]** | When the entity is cornered or starved. |
+| { *The Spirit Collapse* [**Ultimate**] } | "The spirit breaks — and everything it held comes loose." | [The entity's full weight sorrow unleashed in every direction.] | *All personnel suffer Weight erosion for three turns.* **[23 Weight DMG [Weight] (AoE, x3 turns)]** | Once the gauge it has been filling passes 65 per cent. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (the sensation of being leaned on by someone standing behind you, with a direction and an apparent weight, in a room containing nobody. Personnel name a mass without being asked to; the form has a column for it because they did it anyway) and Dead Air is confirmed against the designation; positions are taken and the cycle is opened.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dead Air's recorded combat actions.
-3. **Resolution:** The watch ends at the hour. The Warden hands over the form, the relief reads the barometer, and the pressure — both kinds — is where it was. No watch in the series has ever been ended early by the holding; four have been ended early by the Warden.
+1. **Tension:** The marker is confirmed first — a sense of being leaned on from behind, with a direction and an apparent weight, in a room with nobody in it. Personnel volunteer a mass without being asked, and the form carries a column for it for that reason. Dead Air is checked against the designation, the positions are taken, and the cycle opens.
+2. **Clash:** The Types are worked and the kit is carried while the holding runs through the combat actions its record sets out.
+3. **Resolution:** The watch ends at the hour. The Warden hands over the form, the relief reads the barometer, and the pressure — both kinds — is where it was. No watch in the series has ever been ended early by the holding; four have been ended early by the Warden. It closes against the documented suppression condition: **The Warden hands over the form, the relief reads the barometer**.
 
 ### Consequences
 
@@ -181,8 +181,9 @@ The weight is reported, not measured, and the archive is careful to keep those t
 
 **Appearance:** a flowing veil of Weight Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
 
-**Resistances:** Weight: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.3 (Resistant)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** A muted exhaustion builds under the mantle, as if the pressure left by every cut-off voice is resting across the wearer's shoulders.
 **Ability:** Grants resistance to Weight damage, protecting against the spirit register of sorrow.
 
 ### M.A.W. Stigma — Dead Air's Token
@@ -245,7 +246,7 @@ The Dead Air set is drawn from the watch itself: the Edge from the rail of the W
 
 ## 감각 묘사 (Flavor Text)
 
-Contact is disorienting. The weight pressure is familiar — every agent in Somnarak knows weight — but the spirit filter makes it alien. A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there. It is the same element in a different language, and the language is spirit.
+Contact unsettles. The weight itself is nothing new — every agent in Somnarak knows weight — and the spirit filter is what makes it foreign. A barometric anomaly in Zone A that leaves the dead briefly and physically present: not apparitions, but pressure and weight and the unmistakable lean of somebody who is not in the room. Same element, read in another tongue, and this one is spirit.
 
 **At first contact:** Something leans. You turn around before you have decided to, and the room is the room.
 
@@ -254,6 +255,20 @@ Contact is disorienting. The weight pressure is familiar — every agent in Somn
 **When the room changes:** Nothing is felt at the boundary. A clerk two doors down writes a sentence about being leaned on, in a room nobody had told her was part of the holding, and that is how both expansions were found.
 
 **After departure:** The pressure does not follow. What follows is the number — the mass you wrote down — and the reason you chose it.
+
+## 상호작용 (Entity Interactions)
+
+Six hours make the watch and the hour ends it: the form passes to the relief, the relief reads the barometer, and neither pressure has moved. No second holding has ever been run on this watch. Everything below comes out of the appendix that sorts the 90x files by manifestation, each read against its record's own series — three different ways of documenting a stretch of time in which nothing occurs.
+
+**Interaction method:** Fix the watch's own numbers first: the 2,206 entries logged since Y4238, the bearings and estimated masses that are subjective and marked so, the 17 years without a single apparition. Then read the other record's series into the two columns, enter the first parting, its depth, its trigger, and whether either series moved. Re-verify at the next watch.
+
+| What the watch holds | How the pairing has run | What the relief entered | What the form keeps |
+|---|---|---|---|
+| **Miasma** `C-IVδ-922` | Filed together on an emptiness that has to be logged. That record holds the doors open and waits on the spotters' call; this one files a form whether or not anything happened, and nothing has happened for the whole of its record. | One review entry; the dwell series and the watch series parted at the first mark and were left apart. | That the parting stands as the entry, carried in the review's numbers un-smoothed. |
+| **Backward Hour** `C-IIIγ-913` | Grouped on a period that must be endured to its close. That record's cycle ends on the twelfth hour and always the twelfth; this one ends at the sixth, and both files end on the clock rather than on anything the holding does. | The clock series and the watch series were laid together once and agreed on nothing but their length. | That the two are filed for the shape of the interval, noted as a shape and not a link. |
+| **Never Discharged** `O-IIβ-911` | Grouped on a book that has to be signed before anybody leaves. That record completes a sheet after the second loop; here the form is completed at the handover, and neither file lets the watch end without the paperwork. | Nothing was run. The appendix flagged the two for the review and the review moved on. | That the pairing rests on a filing line, entered on each repetition as an arrangement and not a finding. |
+
+**Interaction procedure:** No co-presence is authorised on this watch. The comparison is made on paper at the watch's review, with the form and the barometer reading entered first and the other record's series set beside them unchanged; parting, depth, trigger and both readings go into the margin.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -267,11 +282,11 @@ So it is kept as it is: a barometer, a chair, a printed sheet with two estimated
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The weight is familiar. The spirit is not. That gap is where the danger lives."* — Handler
+*"The weight is old news. The spirit is not. Everything dangerous about this post sits in that distance."* — Handler
 *"I expected standard weight. I got something that knew me."* — Specialist
 *"Every time we refine the protocol, the spirit register finds a new way in."* — Researcher
-*"It does not attack. It inhabits. And what it informs you of is your own sorrow."* — Director
-*"Work it once and you will understand why the classification system had to expand."* — Keeper
+*"It does not attack anything. It moves in and stays. What it tells you is about your own sorrow."* — Director
+*"Stand one shift on it and the reason the classification system had to grow becomes obvious."* — Keeper
 
 ## 기록 (Registrum) — The Record
 
@@ -287,7 +302,7 @@ So it is kept as it is: a barometer, a chair, a printed sheet with two estimated
 
 **Containment & Handling Procedures:**
 - Keep the six-hour watch and file the form whether or not anything happened.
-- There is no one present to weep with and no one to confront. Seventeen years of watches have produced no figure to address.
+- There is no one present to weep with and no one to confront. 17 years of watches have produced no figure to address.
 - Read the barometer on the municipal station’s hours so the two series stay comparable, and brief every first-watch Warden that nothing will be seen.
 
 **Cross-References:** Inner Sorrow (내한) · Weight · Hazard-Spirit · Manifestation Classification
@@ -320,7 +335,7 @@ What crystallized here was one specific wound rather than the city's ambient ach
 
 - One of the first catalogued **Hazard-Spirit** entities in Somnarak.
 - Its spirit descriptor makes it structurally unique among hazard entities.
-- The weight pressure in the spirit register feels different from standard weight — more specific, more personal.
+- Weighed through the spirit filter, the pressure is not the usual weight: it is narrower than that, and it points at something of yours.
 
 ## Document Information
 

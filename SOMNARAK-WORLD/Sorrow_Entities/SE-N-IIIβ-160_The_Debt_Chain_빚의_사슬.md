@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-160 [WO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on a link touched with the bare hand while the debtor's name cut into it is spoken aloud. gloves do not work and have been  |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on a link touched with the bare hand while the debtor's name cut into it is spoken aloud. Gloves do not work and have been tried, twice in the gallery and once in the ground, and each time the link stayed cold under the cloth. |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Binding and connecting |
 | **Potency** | Moderate (β) |
@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Viderehan and Ferrehan only; forty links a shift; two independent counts; the chain supported and never lifted; and the quarter's cascade register read in the gallery. Viderehan and Ferrehan are the valid Work Types and nothing else has been authorised. |
+| **Recommended response** | Two Work Types answer this chain and no third has been logged against it. Viderehan keeps the reading level across a walked run; Ferrehan brings it down afterwards. A shift takes forty links and stops at forty. Two counters keep two figures, the sheets are sealed apart, and the two figures may disagree and the disagreement is kept, a count that reconciles itself proving nothing. The chain runs on rollers and is never lifted at one link, because a lifted link carries every obligation standing behind it. The quarter's cascade register is read in the gallery once the count is closed, and the reading is booked to the shift and not to the crew. |
 
 ### Operational Notes
 
@@ -235,7 +235,7 @@ Escalation here is a number going up between quarterly surveys, and nothing else
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a shoulder-length mantle, matte grey, woven in Weight Han-weave and heavier than that weave has any right to be, hung so the weight lies across the shoulders and upper back instead of pulling at the neck. Near a link it draws in and lies flat against the wearer, which the Row's tailors call the mantle knowing its source; the same drawing-in happens beside any settled debt, so the fit is read as a rough gauge in the gallery on shifts when no instrument has been carried down. It is issued in one size and fits every wearer badly in the same way.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -245,9 +245,9 @@ Escalation here is a number going up between quarterly surveys, and nothing else
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Wards Weight pressure on the Han. Required dress for any shift expected to exceed twenty links, after two surveyors found they could not straighten up at the end of a forty-link walk.
+**Ability:** Turns Weight pressure aside before it reaches the Han, so a long walk down the run costs the wearer the walk and nothing further. Required dress for any shift expected to pass twenty links: two surveyors walked the forty-link gallery in ordinary cover and could not straighten up afterwards, and both were back on the run inside a week once the mantle had been issued to them. The warding lasts only while the mantle is worn and answers only Weight. It answers nothing for what the links say, and wearers who expect it to are the ones who come off the run early.
 
-**Cost:** A constant low fatigue, about that of a long day already worked, persisting some hours after removal. It is the most tolerated cost in the Row and the survey has never been short of volunteers.
+**Cost:** A steady low fatigue while the mantle stays on, close to what a full day of ordinary labour leaves behind, and removal does not end it: it runs some hours past the walk and has cleared by the next morning in every logged case. The Han carries no mark from it, so the Row's medics will sign a second walk on the same day. It remains the cost the Row tolerates best, and the survey has never lacked volunteers. Two crews have asked for the mantle to stay on after their count was closed, and both were refused, the request being written up as a note on the weave rather than on the crews.
 
 ### M.A.W. Stigma — The Binding Chain
 

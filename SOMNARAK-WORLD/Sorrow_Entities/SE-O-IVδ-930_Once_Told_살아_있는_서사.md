@@ -1,6 +1,6 @@
 # Once Told — 살아 있는 서사
 
-> *"The weight is not punishment. It is recognition."*
+> *"The silence here is kept rather than found, because whatever is described aloud arrives."*
 
 ## SECC Classification
 
@@ -87,7 +87,7 @@
 
 1. **Tension:** Hand signals are agreed at the boundary, the written work plan is distributed, and the party enters without speaking. Nobody carries a radio and nobody works this sector alone, for the obvious reason.
 2. **Clash:** None. There is nothing to engage. The station has asked for the row to be struck and has been refused twice on the grounds that the form is standard.
-3. **Resolution:** The party leaves and the inventory is checked against the last one: twenty manifestations, photographed, unchanged. A cycle adds nothing to the inventory, which is the only success condition this holding has.
+3. **Resolution:** The party leaves and the inventory is checked against the last one: twenty manifestations, photographed, unchanged. A cycle adds nothing to the inventory, which is the only success condition this holding has. It closes against the documented suppression condition: **A cycle adds nothing to the inventory, which is the only success condition this holding has**.
 
 ### Consequences
 
@@ -101,7 +101,7 @@
 
 **Notable Features:**
 - Expresses Lament pressure in a tale register.
-- The hazard form is unmistakable — this is a tale entity, not a general one.
+- The transect was never mistaken for an ordinary hazard: the disturbance opens mid-sentence, and the sentence belongs to somebody standing on the line.
 - Twenty standing manifestations, photographed annually, none of which has ever weathered.
 
 **Identification Profile**
@@ -179,8 +179,9 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Appearance:** a veil whose hem carries a line of stitching that reads as writing and is not in any script the Armoury has matched.
 
-**Resistances:** Lament: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 0.3 (Resistant) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** During quiet intervals the wearer keeps the tale's grief close; even small pleasures seem remote until the veil is taken off.
 **Ability:** Grants resistance to Lament damage, protecting against the tale register of sorrow.
 
 ### M.A.W. Stigma — Once Told's Token
@@ -243,7 +244,7 @@ The set's property is the sector's: what the wielder says becomes more true than
 
 ## 감각 묘사 (Flavor Text)
 
-There is a moment — always the same, always brief — when the lament pressure and the tale register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. A phenomenon in the deep Desolate where stories told aloud begin to physically manifest — a campfire tale about a wolf produces claw marks on the nearest tree; a ghost story drops the temperature by ten degrees; a love story makes flowers bloom in dead soil. Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
+The lament pressure and the tale register meet once, hold for a single breath, and in that breath a reader understands — without being told and without being able to explain it — what this stretch of the Desolate *is*. In the same breath, everything the party has said aloud stands up in it: the wolf's claw marks run down the nearest trunk, the ghost story takes ten degrees out of the air, the love story opens flowers in soil that has been dead for years. Then the breath ends, and what remains is the pressure, the register, and the sensation of having been read to by somebody who was not the teller.
 
 **At first contact:** Open grey ground, twenty incongruous things standing in it, and a silence that is being kept rather than found.
 
@@ -253,6 +254,20 @@ There is a moment — always the same, always brief — when the lament pressure
 
 **After departure:** You become careful with words for a week or so. Station staff describe choosing phrasing at home, in ordinary conversation, and the briefing tells new parties to expect it.
 
+## 상호작용 (Entity Interactions)
+
+The party files out and the inventory is walked against the last one: twenty manifestations, photographed, every one of them unchanged since the previous visit. No second holding has ever been set on the shelf while the check was running. Three shelf-neighbours follow, checked against the transect's manifest while the inventory was still open and against nothing else — and what the three share is a narrative that keeps existing whether anyone is telling it or not.
+
+**Interaction method:** Establish the shelf's own numbers first: the twenty manifestations, the photograph set, the check that adds nothing across a cycle. Then lay the other record's series beside the inventory and enter the first parting, its range, what caused it, and whether either series changed in the reading. Re-verify at the next check.
+
+| What the inventory counts | How the pairing has run | What the shelf entered | What the check retains |
+|---|---|---|---|
+| **Sky of Borrowed Faces** `O-IIIγ-926` | Filed together on surfaces that carry an absent person. That record logs by surface and never by face; this one photographs what is there and asks nothing about who is wearing it. | One review entry; the surface count and the inventory were compared and parted from the first mark. | That the parting is the finding, kept as the review wrote it. |
+| **Once Upon** `O-IIIγ-920` | Grouped on narration inside an hour. That record moves a gauge as names are said aloud; this one would not move for anything said, the inventory being the only success condition it has. | The naming series and the inventory count were laid side by side once and agreed on nothing. | That the two are filed for the shape of the telling and not for a link, noted beside the row. |
+| **Miasma** `C-IVδ-922` | Grouped on a grief that is not the witness's own. That record's bank weeps somebody else's tears; here the story is somebody else's too and it photographs the same either way. | Nothing was run. The appendix listed the two together for the review's eye only. | That the pairing rests on a classification line, entered on each repetition as a filing and not a finding. |
+
+**Interaction procedure:** Nothing is shelved in company with this holding. The comparison happens on paper at the annual review, with the inventory re-read first and the other record's series set beside it untouched; parting, range, cause and both readings are written into the margin.
+
 ## 이야기 (Narratio) — The Tale
 
 Once Told was not discovered. It was recognised. The lament pressure had been present in SECTOR-O-930, contained for years — measured, logged, filed under 'ambient anomaly.' It took a junior researcher on Floor 4 to point out that the anomaly had a shape. The shape was Hazard-Tale. The anomaly was alive.
@@ -261,15 +276,15 @@ Floor 4 has studied Once Told for cycles. Their findings are classified, but the
 
 Personnel who work Once Told do not simply feel lament pressure. They feel lament pressure filtered through tale — and that filter changes everything. The protocols, the M.A.W. calibration, the recovery time — all of it must account for the tale register or the work will fail.
 
-The entity does not rage. It does not weep. It persists — tale and lament, patient and permanent. Once Told is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+No wind carries a voice across this stretch and no water runs in it. The tale continues like a debt nobody has called in, indifferent to whether anyone is listening, and it has outlasted every attempt to close it early. Once Told does not compete for loudest in the Desolate; it is the one written for a single reader. In Somnarak grief is measured out to everyone alike, and this story already has somebody's name in its last line.
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The lament is familiar. The tale is not. That gap is where the danger lives."* — Handler
-*"I expected standard lament. I got something that knew me."* — Specialist
-*"Every time we refine the protocol, the tale register finds a new way in."* — Researcher
-*"It does not attack. It accumulates. And what it informs you of is your own sorrow."* — Director
-*"Work it once and you will understand why the classification system had to expand."* — Keeper
+*"Every posting I have held reads the same at the gauge. This transect reads different at the ear, and the ear is where the damage starts."* — Handler
+*"I stepped onto the line braced for pressure. What arrived was a story with my own last week inside it."* — Specialist
+*"We tighten the protocol and the tale rewrites its first line to fit. It is not evading the rules; it is quoting them back."* — Researcher
+*"It has never once struck at anybody. It listens, and then it hands your own sorrow back to you with the details filled in."* — Director
+*"Stand one watch on the transect and you will see why the classification needed a column that only this place uses."* — Keeper
 
 ## 기록 (Registrum) — The Record
 
@@ -333,8 +348,8 @@ The marked tree is inspected once a cycle by two people who travel out for that 
 ## Trivia
 
 - One of the first catalogued **Hazard-Tale** entities in Somnarak.
-- Its tale descriptor makes it structurally unique among hazard entities.
-- The lament pressure in the tale register feels different from standard lament — more specific, more personal.
+- The hazard class was extended for this transect: nothing before it was filed as a story that keeps running with the reader inside it.
+- The register does not sweep an area. It picks one person on the line and resumes a story that person was already inside of.
 
 ## Document Information
 

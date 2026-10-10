@@ -190,10 +190,15 @@ The etched celestial coordinates point toward lost stars outside recorded cartog
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-Appearance : A curved thirty-two inch cavalry sabre with a pipe-back spine, an enclosed steel three-bar hilt, and a high-carbon blade that sheds a persistent ribbon of pale blue sorrow mist.
+Appearance : A cavalry sabre thirty-two inches along the curve, the spine pipe-backed, a three-bar hilt of enclosed steel, and a blade of high-carbon steel from which a ribbon of sorrow-mist, pale and blue, never quite clears.
 
-The sabre delivers fluid, sweeping draw-cuts from horseback or on foot. The blue sorrow mist trails along the cutting path, momentarily blinding the vision of adjacent combatants.
+It is drawn in long, fluid arcs, whether the wielder is mounted or standing. The mist follows the line the blade has just travelled and takes the sight of anyone standing beside it for a moment.
 
+**Resistances:**
+- Lament: 0.4 (Resistant)
+- Grudge: 1.0 (Normal)
+- Void: 1.6 (Weak)
+- Weight: 0.8 (Warded)
 **Cost:** 10 Sorrow Echoes
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure this holding exerts. What it buys is an hour of standing inside the crying without reaching for it; it does nothing at all about wanting to.

@@ -28,14 +28,14 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Starting Sorrow Gauge** | 35–50%; it sits at the top of that band whenever the district has lately refused a warning it was properly given |
+| **Han-Energy yield** | 12–18 Han-Energy out of one completed cycle, and the highest reading comes when the session’s hand signals were answered in their order |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Ferrehan primary, Viderehan secondary, hand signals, station clock every session, and the Rule of the Answered Warning enforced across the directorate and every — which is the whole of the cycle; the Work Types are the frame and the condition is the work. |
+| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β), and the sweep is timed against the station clock like every other part of the session, dust from this bell being collected rather than shovelled |
+| **Recommended response** | Ferrehan first and Viderehan second, hand signals throughout, the station clock read when the session opens and read again when it ends, and the Rule of the Answered Warning enforced across the directorate and every ward answerable to it. The Work Types frame a session; the condition is what the session is for. |
 
 ### Operational Notes
 
@@ -53,10 +53,10 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Void pressure; 15% against other pressure types |
+| **Resistance** | 25% where the pressure is Void; each of the other registers meets 15%, and the first of those two figures is what the district pays for, since what Unrung hands back is absence and not force |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 |
-| **Han Pressure [ATK]** | 7–16 per hit · Void |
+| **Sorrow Gauge [HP]** | 415/415 · marked line, the reading belonging to the line and not to the bell, which is the only distance this file permits |
+| **Han Pressure [ATK]** | 7–16 · Void, counted by arrival instead of by strike, the warning reaching the worker some time after the moment it was given |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |
 
@@ -69,11 +69,11 @@
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) — Repeats not ringing |
 | **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 35–50%, with the watch writing down which end of the band the session opened at, a high opening usually meaning the warning has already been answered once |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, near the Orphaned Bell |
-| **Resolution Condition** | Ferrehan primary, and the gauge below 25% — on Unrung the second follows the first and has never arrived without it. |
+| **Resolution Condition** | Ferrehan carries the work, and the gauge has to come down past 25% before the session counts at all. At this bell the second requirement waits on the first: no cycle here has ever closed on a low gauge that Ferrehan did not bring down. |
 
 ### Combat Actions
 
@@ -87,15 +87,15 @@
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (the arrival delay at the fixed station, never by looking at it. It is indistinguishable from the Orphaned Bell by eye at any range, the briefing says so explicitly, and the two have still been confused on the written record four times) and Unrung is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** The check is the arrival delay at the fixed station, never the eye. It is indistinguishable from the Orphaned Bell by eye at any range, the briefing says so explicitly, and the two have still been confused on the written record four times) and Unrung is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Viderehan and Ferrehan only. The reading is the arrival delay: a reference tone is struck at the plinth and the listening station eight metres out records the interval before it is heard at all. One point nine seconds is baseline. The recorded range is zero to forty-one.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+3. **Resolution:** The watch closes on containment, management or retreat, or under the containment condition recorded here: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
 
 - Composure fails here as lateness. The worker begins hearing their own speech arrive after they have finished saying it, loses the thread, and raises the gauge by their own distress rather than by anything the bell does.
 - Long exposure produces a worker who escalates everything. Nine Wardens rotated off this holding were afterwards recorded as going over a desk's head on matters well below the hazard threshold, and the directorate's objection to the containment rule names all nine by number.
-- The set costs hearing, presence and spoken words, each for about a day. The armoury's note records the costs in one line and records in a second that no bearer has ever asked for the brooch's countersignature provision to be withdrawn.
+- The set takes hearing, presence and spoken words, each for about a day. The armoury enters the costs in a single line and adds underneath that no bearer has ever asked for the brooch's countersignature provision to be withdrawn.
 - It has never escalated. The delay has lengthened and shortened for twenty-four years and the bell has not moved, not sounded, and not left the plinth; the escalation model below is reconstruction and is labelled as such throughout.
 
 ## Appearance
@@ -145,9 +145,9 @@
 
 ### Operational Work Notes
 
-Ferrehan lowers the gauge, Viderehan holds it level, Flerehan and Pugnahan are N/A under the Object/Place Work Rule. Ferrehan is therefore the primary Work Type on this file, and the Registrum's naming of Viderehan as primary stood in the summary section for years against a Behavior table on the same page that recorded it as the one approach which changes nothing.
+Ferrehan pulls the gauge down; Viderehan holds it flat; Flerehan and Pugnahan do not apply to an Object/Place and were never worked here. Ferrehan is the primary on the file, and the Registrum once carried Viderehan in that slot for years — against a Behavior table sitting on the same page that had already recorded Viderehan as the approach which changes nothing.
 
-**Reading the response:** The gauge measures one worker for one session. The arrival delay measures how this facility has been closing its warnings. They are kept in separate columns, they have never moved together, and a session which lowers the gauge and clocks a long delay is written up as a clean session without qualification.
+Two figures come off this holding, and they are not answering the same question. The gauge reports a single worker across a single session. The arrival delay reports the way this facility has been closing its warnings. Across the whole series the two have never moved in step, and a session that brings the gauge down while the clock shows a long delay is written up as clean and nothing is added.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -207,26 +207,26 @@ There has been no event. What is recorded as escalation here is the delay length
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
-### M.A.W. Weapon — The Resonant Echo-Orrery
+### M.A.W. Weapon — The Muffled Resonance-Bell
 
-**Category:** FANTASY (Harmonic Brass Planetary Orrery)
+**Category:** RELIQUARY (Censer/Bell — Void Han-glass bell-headed hammer)
 **Grade:** β | **Element:** Void
-**Damage:** Void 6–10
-**Speed:** 3 (Normal)
-**Range:** 4 (Long: 4–8m)
+**Damage:** Void 5–9
+**Speed:** 2 (Normal)
+**Range:** 2 (Short)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Attack Pattern:** Directional Chime / Deafening Han Wave
-**Target Coverage:** Linear line up to 8m
-**Falloff Rule:** 100% direct damage to primary, 70% acoustic reverberation to adjacent targets.
-**Damage Application:** Multiplier to direct and Tick damage separately. The Tick is measured in the seconds a target's own speech takes to reach the person beside them, and it outlasts the direct damage in every recorded use.
+**Attack Pattern:** Single
+**Target Coverage:** One designated target
+**Falloff Rule:** None; 100% direct damage to the selected target only.
+**Damage Application:** Direct Void damage to the selected target; the bounded silence is a control effect, not an additional damage Tick.
 
-Appearance : A hovering mechanical assembly of five polished brass planetary globes mounted on curved wire arms, revolving in silence around a central quartz crystal sphere.
+Appearance : A Void Han-glass hammer with a bell-shaped hollow inside its head; no clapper moves or sounds while it rests.
 
-Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat. Aligning all five planets unleashes a focused harmonic cone that shatters crystalline structures.
+A direct strike releases a single pale impact circle that swallows nearby sound within a defined space around the selected warning-pressure target.
 
-**Ability:** *Acoustic Nullification* — Deals Void damage across Range 4 (Long). Emits a directional sound-canceling wave that disrupts enemy chanting, casting, and verbal coordination for 2 turns.
+**Ability:** *Hear Outside* — *Mute Ring* strikes one active warning-pressure target and creates a bounded silence field around it. The field separates its warning from surrounding sound while the external partner receives and records the signal.
 
 **Cost:** The wielder hears nothing while the field holds, and for roughly an hour afterwards hears everything a half-second late. The armoury's note records that bearers describe the second part as worse.
 
@@ -264,11 +264,11 @@ Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat
 
 **Cost:** The bearer loses a word now and then, mid-sentence, always a word they were about to use to soften something. Four bearers have recorded the pattern independently and the armoury has declined to call it an effect.
 
-*The brooch has been granted eleven times, every one of them to a worker who escalated a warning past a desk that had not answered it. Seven were later told informally that they had embarrassed somebody. The holding records the pattern and will not make it a criterion.*
+*Eleven times the brooch has gone out, each to a worker who escalated a warning past a desk that had gone silent. Seven were afterwards told, informally, that they had embarrassed somebody. The file notes the pattern; it refuses to make a criterion of it.*
 
 ### M.A.W. Use Notes
 
-The set is built around being heard in time: an orrery that strips a target of verbal coordination, a cassock that holds a worker's account intact until they can give it, a pin that chills when its bearer is about to leave something unsaid and whose written warnings the duty desk accepts without countersignature. The armoury's note records that none of this was designed, that it was found piece by piece over forty years, and that the fourth piece attempted — a relay intended to carry a warning past a silent desk automatically, without a person's decision — functioned exactly as specified and was destroyed on the directorate's insistence.
+Everything in the set exists so that a warning arrives in time: a bell-headed hammer that creates bounded silence around one active warning-pressure target while an external partner listens, a cassock that holds a worker's account intact until they can give it, and a pin that chills when its bearer is about to leave something unsaid and whose written warnings the duty desk accepts without countersignature. The armoury's note records that nothing in the set was designed, that the pieces were gathered across forty years, and that the fourth attempt — a relay meant to carry a warning past a silent desk automatically, without any person deciding — performed to its specification exactly and was destroyed at the directorate's insistence.
 
 ### Field Use Record
 
@@ -307,10 +307,10 @@ The set is built around being heard in time: an orrery that strips a target of v
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Unrung (C-IIβ-170 [VO]) is logged as an Object-Void manifestation expressing Void, held at SECTOR-A-01 in Zone D, forty metres from the Orphaned Bell and indistinguishable from it by eye: a pale bell, bloodless-cold, light for its size, smelling of ash, taking sound in rather than giving it back. It has never sounded and has never escalated. Its instrument is the arrival delay of a reference tone at the fixed listening station eight metres out — one point nine seconds at baseline, zero at the floor, forty-one at the ceiling.
+Unrung (C-IIβ-170 [VO]) is entered as an Object-Void manifestation expressing Void, held at SECTOR-A-01 in Zone D, forty metres from the Orphaned Bell and indistinguishable from it by eye: a pale bell, bloodless-cold, light for its size, smelling of ash, taking sound in rather than giving it back. It has never sounded and has never escalated. Its instrument is the arrival delay of a reference tone at the fixed listening station eight metres out — one point nine seconds at baseline, zero at the floor, forty-one at the ceiling.
 
 **Entry 2 — <Warnings Return: Two Thousand Six Hundred and Four Raised, Seventy-One Never Answered>**
-The first return under the Rule of the Answered Warning, Year 4238. Two thousand six hundred and four hazard warnings were raised across this facility and its districts. One thousand nine hundred and eighty-eight fell above the defined hazard threshold and are therefore covered by the rule: one thousand nine hundred and thirty-one were acknowledged in the recipient's own hand inside the forty-eight hour window, and fifty-seven were escalated past a desk that had gone silent. Six hundred and sixteen fell below the threshold and are not covered. Seventy-one of those six hundred and sixteen were never acknowledged by anybody at all; four of the seventy-one described conditions that afterwards materialised. The arrival delay stood at forty-one seconds in Year 4214, in the quarter the Lantern Row surge took two hundred and thirteen people, nine days after a warning that was raised, correctly transmitted, correctly filed and read by a clerk with no authority to act on it and no duty to pass it on. It stood at zero in Year 4237. The delay has tracked the acknowledgement column for twenty-four years and has never tracked work done at the plinth.
+Entered as the rule's first return, Year 4238. Two thousand six hundred and four hazard warnings were raised across this facility and its districts. One thousand nine hundred and eighty-eight fell above the defined hazard threshold and are therefore covered by the rule: one thousand nine hundred and thirty-one were acknowledged in the recipient's own hand inside the forty-eight hour window, and fifty-seven were escalated past a desk that had gone silent. Six hundred and sixteen fell below the threshold and are not covered. Seventy-one of those six hundred and sixteen were never acknowledged by anybody at all; four of the seventy-one described conditions that afterwards materialised. The arrival delay stood at forty-one seconds in Year 4214, in the quarter the Lantern Row surge took two hundred and thirteen people, nine days after a warning that was raised, correctly transmitted, correctly filed and read by a clerk with no authority to act on it and no duty to pass it on. It stood at zero in Year 4237. The delay has tracked the acknowledgement column for twenty-four years and has never tracked work done at the plinth.
 
 **Entry 3 — <Statement of a Duty Clerk, Lantern Row Receiving Desk>**
 I read it. I logged it. I put it in the Tuesday folder for the district engineer because that is where warnings of that class go and that is where he reads them, on Tuesdays, and the surge came on the Sunday. I did not go round him. You do not go round a man like that on your own judgement, because the day you do it for a reading you half understand is the day he stops being told anything at all by anybody below him, and then where are we. Every person I have ever worked for would have said the same. The inquiry agreed with me. It said I followed the procedure correctly and it is the one sentence in the whole document I cannot read.
@@ -319,7 +319,7 @@ I read it. I logged it. I put it in the Tuesday folder for the district engineer
 Containment of C-IIβ-170 is a plinth discipline at SECTOR-A-01 and a warnings rule in the operations directorate. Plinth: Ferrehan primary, Viderehan secondary, Flerehan and Pugnahan N/A under the Object/Place Work Rule; striking is prohibited, the question having been answered under authorisation and not reopened; hand signals only; the arrival delay clocked at the fixed station eight metres out on the marked line at every session, by a person standing outside the field, three strikes, longest interval reported; the cassock kept on to the boundary; the operative's account taken at the station before they speak to anyone else present. Directorate duties, binding on every receiving desk this facility operates: **a hazard warning above the defined threshold is not discharged by being recorded and transmitted. It is discharged when a named person with authority to act has acknowledged it in their own hand within forty-eight hours, and where no acknowledgement is given the sender is required to escalate past that desk and is protected in doing so.** Work response — Viderehan: it shows the warning, the folder, the Tuesday and the hour, and has never shown a fault (Stable); Ferrehan: the full session on the line, inside the delay, not speaking (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only: The Answered Warning>**
-The operations directorate opposed this rule and I have never been able to get round their objection; I have only decided to live on the other side of it.
+The operations directorate has fought this rule from the first, and their objection has never been answered — not by me, not by anyone on this wing. The work goes on anyway, and the doing of it is on the record.
 
 Their case: a warning that is not acknowledged may be escalated past the desk that did not answer it, and the desk that did not answer it is in nine cases out of ten a competent person who was in a tunnel, or asleep, or burying a parent. Protect the escalator and every anxious junior in the service goes over their supervisor's head on a reading they half understand. Supervisors then stop being told things early, because being told early is how you end up overruled in front of your own directorate. The deputy director put it in one line: *you are going to make it safer to go round me than to come to me, and then you will wonder why nobody comes to me.*
 
@@ -335,11 +335,11 @@ The rest of the archive note stands as written. Sound does not carry near the be
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Unrung; the other feeds it.
+> The session comes down to one thing: keep to the line, stay inside the delay and let the hand signals do the talking, or call across to the station and ask whether the clock is still running.
 
-| Hold to the condition: Ferrehan primary, Viderehan secondary, hand signals, station clock every session, and the Rule of the Answered Warning enforced across the. | Substitute your own judgement, which on Unrung has never yet cost less than the condition. |
+| Keep the file's order: Ferrehan primary, Viderehan secondary, signals by hand, the station clock read every session, the Rule of the Answered Warning standing everywhere it reaches. | Reach for your own judgement instead, which on this bell has never yet come cheap. |
 |---|---|
-| The worker stands the full session on the line, inside the delay, hand signals only, and clocks three honest strikes at the end however long the intervals come out. The gauge falls and the session's record is clean. | The worker calls out to the station to check whether the clock is running, meaning well, because the silence has gone on too long. The gauge climbs, the strikes are void, and the quarter's series carries a gap. |
+| The worker holds the line for the whole session, stays inside the delay, uses nothing but hand signals, and at the close clocks 3 honest strikes however long the intervals run. The gauge falls and the session goes into the record clean. | The worker calls over to the station to ask whether the clock is still moving — out of care, because the silence has run on far too long. The gauge climbs, the strikes are void, and the quarter's series is left with a gap in it. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -457,9 +457,9 @@ It was meant to signal a catastrophe and the signal was never given, and the com
 
 The station clock was kept for twenty-four years before anybody read it against anything outside the plinth. The sessions are quiet, the strikes are honest, and the series moves in quarters when nothing whatever happened in the chamber. In Year 4235 a station clerk set the delay series beside the directorate's quarterly warnings return — not out of theory, but because she had been given both to carry to the same office — and found that the long quarters were the quarters in which hazard warnings had closed with nobody's hand on them. The match has since been made nineteen times out of twenty-one. It has never been made against the Lantern Row inquiry, which has been reviewed three times and moved the clock not at all.
 
-The finding reframes the holding and the wing has been careful about how it says so. It is not grieving a bell that failed; the bell was tested and worked, and the series says plainly that it does not respond to the surge, the inquiry or the reviews. It is grieving a warning that was raised in time, by a careful person, through a channel that functioned, and that reached a desk which was not required to answer it and did not. That is a distinction the plinth has been making for twenty-four years and that nobody read until two documents were carried to the same office by the same clerk.
+The wing has been careful in how it writes this finding down, because it changes what the holding is. It is not grieving a bell that failed; the bell was tested and worked, and the series says plainly that it does not respond to the surge, the inquiry or the reviews. It is grieving a warning that was raised in time, by a careful person, through a channel that functioned, and that reached a desk which was not required to answer it and did not. That is a distinction the plinth has been making for twenty-four years and that nobody read until two documents were carried to the same office by the same clerk.
 
-The operational consequence sits outside this file. Nothing done at the plinth shortens the series; the only intervention that has ever moved it is a name written in ink on a warning by somebody senior enough to act, within two days, when the easier and entirely proper course was to let the folder do its work. The wing records this plainly rather than claiming a containment it does not have, and the duty desk reads the station clock because a long quarter here has preceded a preventable incident more often than the wing is comfortable writing down.
+What actually moves the series lies outside this file. Nothing done at the plinth shortens it; one intervention has ever moved it, a name in ink on a warning written within two days by somebody senior enough to act, on a day when letting the folder take its ordinary course would have been easier and entirely proper. The wing sets it down straight rather than claiming a containment that is not there, and the duty desk reads the station clock because a long quarter here has preceded a preventable incident more often than the wing is comfortable writing down.
 
 ## Trivia
 

@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per successful work cycle, read off the trades that closed rather than the watching time |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · γ (Major) |
@@ -42,7 +42,7 @@
 - A cycle interrupts the work for some hours. The library is not reduced by it, nothing has been returned by any logged session, and no cycle has ever altered the entity in any measurable way.
 - Two ignored conditions escalate her, and escalation presents as personnel recognising a memory on the shelves rather than as anything the entity does.
 - An operative who recognises one is withdrawn at once and debriefed outside the enclosure, before conferring with the rest of the crew. The sequence matters: recognition is contagious across a crew in a way the counsellors have documented and nobody has explained.
-- Extraction is authorised apart from the work cycle and has never been attempted. The two proposals on file were withdrawn when it was pointed out that the library has no other building.
+- Nothing is drawn from the loom outside a work cycle, and nothing of the kind has ever been tried. The two proposals on file were withdrawn when it was pointed out that the library has no other building.
 
 ## Combat Record
 ### Core Stat Line
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.30 m/s |
-| **Resistance** | 40% against Void pressure; 30% against other pressure types |
+| **Resistance** | 40% against Void pressure and 30% against other types — a thing that gives way slowly because it is holding a design together |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 621/621 |
 | **Han Pressure [ATK]** | 18–41 per hit · Void |
@@ -79,23 +79,23 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The First Thread* [**Debuff**] } | "It draws a strand from your temple — thin, silver, shimmering — and it is made of a memory you have not thought of in years." | [The Weaver extracts a memory-thread from the target; the recollection is taken.] | *Target suffers a Void mark; a piece of their past is being removed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Weaver begins to work. |
-| { *The Tapestry of Stolen Pasts* [**Debuff**] } | "Around it, the Weaver's loom is full — other people's memories, woven together — and now yours joins them." | [The Weaver incorporates the target's thread into its growing tapestry.] | *Target loses clarity; their past is becoming part of someone else's design.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The Tapestry of Stolen Pasts* [**Debuff**] } | "Around it, the Weaver's loom is full — other people's memories, woven together — and now yours joins them." | [The target's recollection goes onto the loom and takes its place in the pattern, and the pattern is what starts to feel familiar.] | *Target loses clarity; their past is being worked into a design that was never theirs.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
 | { *The Memory Blade* [**Attack**] } | "It pulls a thread taut and whips it — sharp as wire, and it cuts where you remember." | [A woven memory-thread strikes like a whip.] | *Inflicts Void damage; the cut severs a piece of recollection.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Weaver is disturbed. |
-| { *The Unraveling* [**Attack**] } | "It pulls the whole tapestry tight — and then lets go — and every stolen memory unwinds at once." | [The Weaver releases its complete accumulated tapestry.] | *A heavy Void flood of stolen memories; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Weaver is confronted. |
-| { *The World Tapestry* [**Ultimate**] } | "Threads extend from every person — and the Weaver pulls them all, weaving everyone's past into one design." | [The Weaver extends its extraction across the whole field.] | *All in range suffer Void erosion for three turns of stolen memory.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Unraveling* [**Attack**] } | "It pulls the whole tapestry tight — and then lets go — and every stolen memory unwinds at once." | [The loom comes apart at once and every past it was holding unwinds into the room together.] | *A heavy Void flood of borrowed pasts; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Weaver is confronted. |
+| { *The World Tapestry* [**Ultimate**] } | "Threads extend from every person — and the Weaver pulls them all, weaving everyone's past into one design." | [Threads run out from the loom to every person standing in the room, and the pulling starts at once.] | *All in range suffer Void erosion for three turns as their threads are worked into the design.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies The Memory Weaver by personnel should identify the entity by its physical or environmental markers before relying on emotional impressions, confirms the approach, and takes position before anything else is attempted.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Memory Weaver's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger**.
+1. **Tension:** Confirm the holding by its markers rather than by how the room feels — the scent, the shape of the loom-light, the way the shelf dust sits — and only then take positions. Personnel on this file are instructed to trust no impression they cannot point to.
+2. **Clash:** Offers are made with Types and kit; the loom's replies follow its combat table, and each reply moves the gauge — which is the only signal the watch has for staying in or withdrawing.
+3. **Resolution:** The sitting ends on an offer the loom cannot swallow — a memory too personal and too raw to be taken — so that the hunger is overwhelmed instead of fed. The file's standing condition reads: **present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger** — an answer that costs the person who gives it, which is why the file expects it to be given knowingly.
 
 ### Consequences
 
-- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Composure** shatters into a psychological Fracture—a catastrophic dual failure.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
+- A worker who breaks under the loom’s pressure pays twice: the gauge climbs as **Composure** shatters into a psychological Fracture.
+- Staying near the loom brings on the secondary effects this file keeps short-cycle briefings for: cognitive erosion, distortion in the body, and a taint that settles into the room itself.
+- Carrying a M.A.W. means accepting what it costs: the sorrow crystallised in the blade runs backward out of the weapon and into the person holding it, and the armoury ledger has the price written down.
+- Resolution that fails leaves the narrative to continue on its own catastrophic terms — a cell breach, territory taken, and escalation quick on the heels of both.
 
 ## Appearance
 **Primary Form:** A massive spider-like being whose body is made from crystallized memories. Its webs are spun from stolen pasts, and its eyes resemble thousands of memories turning in Han-crystal sockets.
@@ -151,9 +151,9 @@
 
 ### Operational Work Notes
 
-A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. The Memory Weaver is recorded as a Subject with Subject-Dream manifestation and Void elemental expression. The current record places it at SECTOR-B-02, Zone B — library of stolen pasts; contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Before anybody is posted to the library, the Work Types are read against the breach threshold and against what the kit costs to run. What this file records is Subject-Dream, Void expression, contained at SECTOR-B-02 in Zone B, and nothing assumed about another holding carries across. The caution it repeats is a reader's caution: a watch can leave the gauge exactly as it found it while the worker goes out with less than they came in with, and the gauge is not the instrument that shows that.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
+**Reading the response:** Three things go in the entry after a cycle — what the entity did, the state the worker left in, and what was actually recovered. A gauge on the way down means the surface pressure has eased. The structure underneath it is untouched, and the entry has to say so, because a reading showing only the drop will be filed as progress. A gauge on the way up means the Work Type has touched the origin. Withdraw, and do not run the same one again in that sitting.
 ## Breach Behavior
 
 > *"The Memory Weaver has broken free. Steals memories from everyone it passes."*
@@ -202,7 +202,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and all but colourless, that keeps the scent of the library in the fabric and gives it up slowly.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -212,29 +212,29 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against The Memory Weaver's kind of pressure.
+**Ability:** It turns a Void strike, and what it is really turning is the theft. While the veil is on, a memory taken from the wearer comes back inside the shift and usually inside the hour; the armoury logs the return rather than the resistance. The filing is explicit that the veil does nothing at all for the body.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** What the wearer can report about the shift thins out. They are present, and other people remember them being there, but the version they give afterwards reads as second-hand — as if they had been told about the sitting rather than having worked it.
 
 ### M.A.W. Stigma — The Forgotten Mask
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a mask-charm of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a mask-charm of Void Han-glass, near-translucent and without colour, that shows the bearer a stranger's reflection a half-second late.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 stat bonus while working the source holding, entered at issue and struck from the sheet the day the bearer leaves the library posting
 
 **Ability:** Makes the wearer invisible to memory-based attacks.
 
 **Cost:** The mask feeds on the memories it protects; the wearer slowly loses their own memories.
 
-*The Weaver's Stigma is not manufactured and cannot be requisitioned. It has been conferred seven times, in every case on an operative who refused an offer and recorded the refusal and the terms of it on the sheet.*
+*The Weaver's Stigma cannot be made to order and is never requisitioned. Seven people hold it; each refused an offer aloud, and each refusal is entered on the sheet with the terms that were offered.*
 
 ### M.A.W. Use Notes
 
-Each piece of this entity's equipment is an extension of a thing somebody else lost rather than ordinary equipment. The listed benefit is strongest against Void. The cost is separate and is always the same: the bearer's own recollection thins at the edges, item by item, and the items that go are not the ones they would have chosen.
+Everything issued here is a piece of something somebody else lost rather than ordinary equipment. Its stated benefit is sharpest against Void. The price sits in its own column and does not change: the bearer's own recall thins from the edges inward, item by item, and the items that go are never the ones anybody would have picked.
 
 ### Field Use Record
 
@@ -242,10 +242,10 @@ Each piece of this entity's equipment is an extension of a thing somebody else l
 |---|---|
 | **Before use** | Wielder and grade; gauge; the operator's composure in their own words; piece condition; objective; the pre-authorisation naming any memory to be offered, countersigned and logged; and confirmation that the operator has completed a baseline inventory within the year. |
 | **During use** | Contact time, the zone survey at each interval, offers made and refused with their terms, the first cost, and whether the operator has recognised anything on the shelves. |
-| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the limit was called by the operator or by the counted bearer outside. |
+| **At limit** | The bearer's account of their own week has stopped matching the record, or the loom has begun answering before it is spoken to. Either sign ends the use; who called it — the operator or the second worker outside — goes in the entry with the hour. |
 | **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, and a repeat inventory at ninety days against the operator's own baseline. |
 
-**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade and the risk are not measured on one scale. What a piece does to a holding is the damage line; what it takes from the bearer runs separately and usually heavier, and a low-rated cut can cost a person more than a heavy one. Read the cost column before the rating.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
@@ -265,10 +265,10 @@ Each piece of this entity's equipment is an extension of a thing somebody else l
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Memory Weaver as a Subject with Subject-Dream manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-B-02, Zone B — library of stolen pasts; contained. |
+| **Initial exposure** | Confirm the holding through the Void signature, the visual marker the field notes describe, and the station's own position — SECTOR-B-02 in Zone B, the library of stolen pasts, contained — before any entry is written. Impressions are taken second; the three markers are taken first. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - Victims relive happy memories in loops while the Weaver feeds on identity. - It has never attacked without provocation or refusal of its offers. - It possesses memories of. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In The Memory Weaver's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | The entry records movement and stillness: what shifted, what held, and which detail the observer could not get onto the page. On this file the sheet is incomplete if it carries only the danger — what the holding preserves is somebody's sorrow, and the record has to name it as well as the risk. |
 
 **Observation method:** Record the zone survey, the web registration in the Dream layer, the offers and refusals, and the condition that ends the encounter — the survey agreeing with the plan again. Sensation is not evidence on this holding and the log provides no field for it.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -288,15 +288,15 @@ The terror of being erased and the loneliness of memories no one claims.
 Management: no trade without written pre-authorisation naming the memory to be offered, countersigned by a counsellor and logged before entry. Do not improvise an offer in the chamber. The practice of presenting an overwhelming memory is not authorised and never was; it appears in two early logs and in no procedure, and the reviews of both are attached. The Directorate's catalogue of the lair now runs past ten thousand entries and is in plain script, compiled from outside. The Weaver's own markings, which are a different thing entirely, remain unread.
 
 **Entry 5 — <Archive Note>**
-The origin is a diagnosis, not a mystery: the sorrow became load-bearing at this location, permanent as the Weeping, and the entity is its exoskeleton.
+The origin is a diagnosis and not a mystery: at this location the sorrow became load-bearing, as permanent as the Weeping, and the creature is the shell that formed around it.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Memory Weaver; the other feeds it.
+> Two ways to end a watch at the loom, and the file prices them by what the crew is willing to hand over: one gives the Weaver something it cannot use, and the other gives it the thread it was already reaching for.
 
 | Do the thing on file: Present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger. | Reach for Pugnahan, which the Behavior table shows raising the gauge every time it has been logged. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly; The Memory Weaver is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Memory Weaver withdraws without revelation. |
+| The offer lands and the loom stops: the pattern loosens, the gauge comes down by a step, and the watch closes with the holding entered complete and the library's count squared. | The offer is refused or made false and the loom tightens; the entry closes with a bearer whose week no longer matches the sheet and the holding gone quiet behind a design nobody wrote down. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -305,32 +305,32 @@ You feel the webs before you see them: a tug at the edge of the mind, a name alm
 
 
 
-**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: A massive spider-like being whose body is made from crystallized memories. Its webs are spun from stolen pasts, and its eyes resemble thousands of memories turning in Han-crystal sockets. The first sensation is always Void — unmistakable, specific, impossible to mistake for anything else in the city.
+**At first contact:** It is noticed well before it is visible. The Han moves against the bay, and what arrives is a body of crystallized memories on eight legs, trailing webs strung from pasts that belonged to people the record no longer carries. The eyes are the part nobody forgets: sockets packed with memories that are still turning. The first thing it does is offer you one, and it is beautiful, and it is not yours.
 
-**With continued exposure:** The Subject-Dream settles into a presence you learn to hold — not comfortably, but recognisably. The Void pressure stops being an assault and becomes a climate: something you move within rather than against.
+**With continued exposure:** The webs stop reading as webs and start reading as a room you are standing inside. Workers describe learning to tell a thread that was laid for them from one that was laid decades ago for somebody the archive has finished erasing, and the file names that distinction as the only thing worth teaching a new watch.
 
-**When the entity activates:** Activation feels like the room remembering something it had been forced to forget. The Void surges, the Subject-Dream sharpens, and for a moment the containment zone is not a cell but the original wound, reopened.
+**When the entity activates:** Activation is the Archive remembering something it was made to forget. The threads draw tight at once, the sockets turn faster, and for the length of it the bay is not a cell at all — it is the corner the memories were swept into, with the door on the far side.
 
-**After departure:** What remains after the door closes is not fear but weight — a Void aftertaste that fades slowly, personnel monitored for Fracture risk in the hours that follow.
+**After departure:** What is left behind is not fear. It is the particular weight of having been handed a memory you very nearly recognised. The standing order is that the worker is watched for Fracture over the following hours, and is not asked how they feel.
 
 ### Interaction Pattern
 
-The Memory Weaver does not exist in isolation. Its recorded relationships with The Orphaned Bell, The Kind Healer, The Broken Clock, The Forgotten Soldier, The Final Door should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Five files are within reach of the library — The Orphaned Bell, The Kind Healer, The Broken Clock, The Forgotten Soldier and The Final Door — and the loom owns none of them as ally or enemy. A pairing goes in with what the sound did and what the dials did, and how both the gauge and containment line came out — then, separately, the range it started at, the time it ran, and whatever remains of the pattern once the two are apart.
 
 **Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
 
-The Memory Weaver must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+This file is a strand of a larger weave and not a portrait hung on its own; the pairings set out below are the only ones the archive will support, and none of them is unconditional. A meeting repeated is not a meeting foreseen: the sorrow tide, a breach, an Ordeal and the state of the loom are entered alongside the outcome, and the entry says nothing useful without them.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Holding on record | How the pair have dealt | What the loom-log showed | What belongs in the file |
 |---|---|---|---|
-| **The Orphaned Bell** | The Weaver avoids the Bell; its tolling disrupts the webs. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Kind Healer** | Trades memories with the Healer—sorrow for healing. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Broken Clock** | Shares an obsession with time and communicates in temporal fragments. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Forgotten Soldier** | Possesses the Soldier's missing memories but refuses to return them. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Final Door** | Holds memories of what lies behind the Door but will not share them. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Orphaned Bell** | The Weaver keeps its distance; the tolling pulls the webs apart wherever it reaches. | Rejection, filed as incompatibility rather than hostility. Contact is not to be forced, and the condition that sends the loom away is written down in full. | What distance opened, how long the tolling ran, what started it, both gauges, and whether the threads rejoined after the Bell fell silent. |
+| **The Kind Healer** | A trade, run more than once: the Healer takes the sorrow and gives back a working hand. | Pressure comes down while the trade holds. Whether the gauge actually fell — or only stopped rising — is the figure that must be settled before the trade is counted. | The terms given and taken, how long the two stood together, the gauge before and after, and what either did once the trade closed. |
+| **The Broken Clock** | Two things that count in fragments, talking past each other in pieces of time. | A working link forms and neither party can say afterwards what was traded; the pieces the two leave on the floor are the only account of it. | What was carried across the link, who consented to it, how long the bond held, and what was left when it broke. |
+| **The Forgotten Soldier** | The loom holds the Soldier's missing years and will not give them back. | Rejection again, but a held one: the Soldier stands at the door and the loom goes on weaving. No contact is to be forced, and the reason the loom will not trade is entered as read. | The separation kept, the hour it began, the trigger, both gauges, and whether the Soldier's missing years were offered in trade. |
+| **The Final Door** | One keeps what is behind it; the other keeps what it took from those who went in. | A link forms between two holdings that both refuse to open, and it holds longest when nobody asks either of them a question. | What moved between the two, who permitted it, how long the link lasted, and whether anything crossed back. |
 
 **Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
@@ -346,9 +346,9 @@ The Memory Weaver is Subject-Dream, Void-element: a being made entirely of erase
 
 This is the Weaver's sorrow, and its terror: the loneliness of memories no one claims. The Weaver holds the lives of citizens who were erased so thoroughly that no one remembers they were erased. It carries their histories alone — the only repository of people the city decided did not exist. And it is, in its way, a guardian: the keeper of what the Keepers were forced to discard, weaving the erased back into a form that, while no one will ever read it, at least exists.
 
-Those who encounter the Memory Weaver feel the terror of erasure — the chill of being forgotten not by accident but by design, of having your life struck from the record so that, afterward, there is no proof you were ever here. And they feel the Weaver's strange mercy: that someone, at least, is collecting what the city discards.
+Anyone who meets the Memory Weaver meets two things at once: the terror of erasure, the chill of a forgetting done on purpose, of a life struck from the record so that afterwards nothing proves you were here; and, under that, the Weaver's strange mercy, that somebody is gathering what the city throws out.
 
-Some sorrows mourn the dead. The Memory Weaver mourns the unpersoned — the citizens erased from the record, their memories orphaned in the Archive's dark, gathered and woven by a creature that is itself made of nothing but the lives the city decided had never happened.
+Some sorrows mourn the dead. This one mourns the unpersoned — citizens struck from the record, their memories left orphaned in the Archive's dark, gathered and woven by a creature composed of nothing but lives the city ruled had never happened.
 ## 증언 (Testimonium) — The Testimony
 
 > *“It collects what the city erased. It weaves the deleted into a fabric no one will read.”* — Researcher, R.D.
@@ -368,13 +368,13 @@ Some sorrows mourn the dead. The Memory Weaver mourns the unpersoned — the cit
 **Comprehension Level:** 3 — Advanced. The taking, the detection discriminator and the zone survey are characterised. What a memory physically is once it is on a shelf is not, and the file does not pretend otherwise.
 **Threat Assessment:** Major (γ). The earlier grading of Low was struck in the forty-second year and the reasons are on the file: the entity does not attack, does not pursue, and injures nobody, and the harm it does is undetectable to the person it is done to. A hazard nobody can feel is not a low one. It is an unreported one.
 **Containment & Handling Procedures:**
-- Flerehan and Ferrehan lower the gauge; Viderehan holds it level and is the safest, not the most effective; Pugnahan raises it and draws webs.
-- It does not initiate. It has never attacked except on provocation or on a refused offer, and the distinction is operational rather than charitable: a crew that neither provokes nor refuses has nothing to manage.
+- Of the four, it is Ferrehan and Flerehan who lower the gauge; Viderehan—safest rather than strongest—holds it level; Pugnahan raises it and draws webs.
+- It does not initiate. It has never attacked except on provocation or on a refused offer, and that is a working distinction, not a charitable one: a crew that neither provokes nor refuses has nothing to manage.
 **Observation Notes:**
 - Formed from histories erased from the city’s record.
 - A creature made of unpersoned lives.
 **Cross-References:** The Archive · The Keepers · The Burning Library · The Memory Lock · the Directorate catalogue · the Baseline Inventory Cohort Y4238–Y4250 · the involuntary bailment opinion · the restitution schedule
-**Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** SED, on the B-territory survey · UCD, for the Fray-adjacent ground and the restitution file the library answers to
 **Originator:** The unrecorded and the deliberately erased of the Before-Time and early Somnarak — people whose absence from the record is the only surviving evidence that they were there.
 
 ### Registry Addendum
@@ -438,9 +438,9 @@ The paper is unexceptionable. Archivist hours are finite; the catalogue serves t
 
 The restitution day that survives is run exactly as the four were. The rooms are warmed in advance, the counsellors attend, the escort is rostered from volunteers, and the archivists' signature page is read aloud at the start so that the civilians waiting there learn how long the work has been going on.
 
-The objection is minuted at the forty-ninth review and at each of the six since, raised by the holding's senior archivist and supported by the liaison office. It holds, first, that the opinion establishes that the facility owes nothing, and the Directorate has read that as establishing that nothing need be considered — it is the difference between having no duty and having no reason, and the paper gives no reason, because the opinion told it that it did not have to. Second, that the published return rate is computed on a denominator the facility's own cohort study shows to be wrong by a factor of eleven, and that the figure has been quoted twice since the study reported and corrected neither time; the people whose items are not in the catalogue at all are not counted as unreturned, they are not counted as anything. Third, that the ceremony was kept and the service was cut by three quarters, so a civilian attending the one remaining day is told, truthfully, that the work has gone on for forty years, and is not told that it now goes on for a quarter of the time it did when they were first not informed that anything of theirs was missing.
+The senior archivist has entered this objection at the forty-ninth review and at every one of the six since, with the liaison office standing behind it. The case is made under three heads. The first: that the opinion establishes that the facility owes nothing, and the Directorate has read that as establishing that nothing need be considered — it is the difference between having no duty and having no reason, and the paper gives no reason, because the opinion told it that it did not have to. Second, that the published return rate is computed on a denominator the facility's own cohort study shows to be wrong by a factor of eleven, and that the figure has been quoted twice since the study reported and corrected neither time; the people whose items are not in the catalogue at all are not counted as unreturned, they are not counted as anything. Third, that the ceremony was kept and the service was cut by three quarters, so a civilian attending the one remaining day is told, truthfully, that the work has gone on for forty years, and is not told that it now goes on for a quarter of the time it did when they were first not informed that anything of theirs was missing.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the fiftieth year at two archivist posts — four days restored, the corrected denominator published with the study, and a standing tracing office for the share of the catalogue whose owners the city can no longer locate — and that it has not been laid before the board in six years. And it records the sentence the senior archivist asked to have entered verbatim, which is now read out with the signature page at the start of the day:
+The minute finds for the objection, **sound in each of its three parts**. The remedy it goes on to describe was costed in the fiftieth year at two archivist posts — four days restored, the corrected denominator published alongside the study, and a standing tracing office for the share of the catalogue whose owners the city can no longer find — and six years have passed since without the paper going to the board. The final paragraph is the sentence the senior archivist asked to be entered word for word; it is read out with the signature page when the day begins:
 
 *We are not obliged to give any of it back, and we have never once said that out loud in this room, and we have cut it to a quarter and kept the warm chairs.*
 
@@ -454,7 +454,7 @@ The minute records the objection as **correct in all three parts**. It records t
 ### Registry Trivia
 
 - **Classification detail:** The Memory Weaver is a Subject with Entity (IV) — Self-aware and intelligent coherence and Major (γ) — High danger if containment fails potency.
-- **Field detail:** Its defining element is Void, and its registered location is SECTOR-B-02, Zone B — library of stolen pasts; contained.
+- **Field detail:** Void is its element, and the library of stolen pasts at SECTOR-B-02 in Zone B is its registered ground — contained, with the loom counted at every shift change.
 - **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
 - **Record detail:** The library is not the entity's record of what it took. It is the Directorate's, built from the outside; the Weaver's own index is in a script nobody has read and may not be an index at all. The distinction is the reason the return figure means less than it is quoted as meaning.
 - **Containment detail:** Containment holds the Weaver and the library together, because the library has nowhere else to be. A consequence nobody designed is that the facility is in possession of ten thousand things belonging to other people, and the three sections below are what the law and the Directorate have each made of that.

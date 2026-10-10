@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Void pressure; 35% against other pressure types |
+| **Resistance** | 45 per cent against Void pressure and 35 against everything else, which for a holding that stands still in the worker's own thinking is a formality: there is nothing to strike and nothing striking. The gauge opens at 950 and trips at 90 per cent, and the drain runs 5 Clarity per turn while it is unopposed. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 950/950 |
 | **Han Pressure [ATK]** | 28–60 per hit · Void |
@@ -81,14 +81,14 @@
 | { *The Settling* [**Debuff**] } | "The pillar sinks — slowly, in its sleep — and the structure above groans and shifts." | [The Pillar's settling destabilizes everything above; the target feels the structural failure.] | *Target suffers a Void mark; the supports are failing in their dreams.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stands near the Pillar. |
 | { *The Dreaming Foundation* [**Debuff**] } | "The pillar dreams of bearing impossible weight — and the dream is so vivid the weight becomes real." | [The Pillar's dream-weight presses on the target; phantom mass from a sleeping mind.] | *Target loses clarity; the sleeping support is generating real gravity.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
 | { *The Sleep-Twitch* [**Attack**] } | "The pillar spasms in its sleep — a violent, involuntary shift that cracks the floor." | [An involuntary structural convulsion strikes.] | *Inflicts Void damage; the dream-spasm warps space.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Pillar is touched. |
-| { *The Full Awakening* [**Attack**] } | "The pillar wakes — and the first thing a load-bearing support does when it wakes is realize how heavy everything is." | [The Pillar's awakening releases its complete dormant stress.] | *A heavy Void convulsion; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Pillar is forced awake. |
-| { *The Waking Structure* [**Ultimate**] } | "Every pillar in the field wakes — and the combined realization of structural burden collapses everything." | [The Pillar extends its waking across the whole area.] | *All in range suffer Void erosion for three turns of waking supports.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Awakening* [**Attack**] } | "The pillar wakes — and the first thing a load-bearing support does when it wakes is realize how heavy everything is." | [The whole weight the pillar has been holding comes back through it at once, and every duty standing on it changes hands in the same moment.] | *A heavy Void convulsion; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Pillar is forced awake. |
+| { *The Waking Structure* [**Ultimate**] } | "Every pillar in the field wakes — and the combined realization of structural burden collapses everything." | [The duties stop being one worker's post: the waking spread puts every obligation in the Border region into whoever is nearest to it.] | *All in range suffer Void erosion for three turns of waking supports.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** Identification first — Dormant Monolith is recognised by there are no physical markers to work from. Identify it by the conditions of appearance: a pale column standing in the observer's own thinking, a shadow running into rooms they had forgotten, and the fact that colleagues standing beside them see nothing at all — then the approach is set and the positions are taken.
 2. **Clash:** There is nothing in the room to engage. The Pillar stands in the worker's own thinking, and the encounter is conducted there — Viderehan to set out the duties holding them in place, Flerehan to let the grief through, Ferrehan to find out whether they can rest while the obligations are still outstanding. Pugnahan raises the Pillar through their thoughts and is logged as an escalation, not an attack.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Ground the worker and establish a rotation of duty**.
+3. **Resolution:** The cycle closes when the worker has been grounded and a duty rotation is standing, entered in the rota sheet and audited on the same schedule as the physical measurements. Nothing else counts as closed here: the Pillar is contained by the rotation and by nothing else, which makes the rota a containment document rather than an administrative one.
 
 ### Consequences
 
@@ -128,7 +128,7 @@
 - **The Sorrow:** The grief of being held in place by duties no one else remembers.
 - **The Event:** A border worker carried family and community obligations until the mind became a sleeping pillar.
 - **The People:** One border worker who carried obligations for a family and a community that both outlasted their own memory of asking. The record does not name them because by the time it was taken there was no one left who could. The duties are listed in full. The people they were owed to are not.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+- **Expanded origin context:** The border worker's own account is one line long and it is in the intake book: the obligations were taken on willingly, each of them reasonable, and none of them ever came to an end. What family and community asked for was ordinary and they asked it without malice, and the asking outlasted the memory of having asked. By the time the record was taken there was nobody left to name the askers, and the duties — school fees, a roof, a burial, a debt to a neighbour's cousin — had all changed shape and continued standing. The pillar is those duties in one structure, and the reason it cannot be lifted off a worker is the reason nothing else could either.
 
 ## Behavior
 
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Dormant Monolith is recorded as a Subject with Subject-Mind manifestation and Void elemental expression. The current record places it at Zone E, Border region; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+None of the four rows above carries its own meaning. Read them with the classification and the element in hand, because the same movement means different things at different tiers. Dormant Monolith is a Subject with Subject-Mind manifestation and Void expression, held at the Border region in Zone E, and no assumption from any other holding in this wing transfers across to it. The file's standing caution is the one that matters most on a Mind-type: a watch can close with every number flat and still put a worker on the rota for a post they never agreed to hold.
 
 **Reading the response:** Softening and a falling gauge mean the worker has let something through rather than discharged it, and the distinction matters at the next shift. A rising Pillar means the work was taken as an attempt to put the duties down, which this entity does not permit and does not punish — it simply rises. The most reliable reading is taken from whether the worker goes home afterwards.
 ## Breach Behavior
@@ -173,9 +173,9 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-Appearance : A massive five-foot hexagonal sceptre carved from solid black volcanic basalt, weighing forty pounds and capped with a geometric monolith block engraved with deep warding runes.
+Appearance : A two-handed sword of black volcanic basalt, five feet from pommel to point and heavy enough that the armoury will not issue it to a single keeper, with a monolith-shaped pommel block cut through with ward-lines in low relief.
 
-Requiring tremendous physical strength to wield, the sceptre serves equally as a crushing maul and ritual staff. Planting the butt into earth induces localized seismic ripples that stagger opponents.
+It wants two hands and shoulders used to bearing weight, and it is carried at the Border post rather than drawn: set point-down into the ground it sends a low tremor out through the floor, and the tremor is what the circle is marked from.
 
 **Damage:** Void 10-15
 **Speed:** 3 (Fast)
@@ -191,13 +191,18 @@ Requiring tremendous physical strength to wield, the sceptre serves equally as a
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-Appearance : A massive six-foot two-handed greatsword with a four-foot blade, broad side parrying rings, and long drooping quillons that ring like tuned orchestral chimes when the sword is swung.
+Appearance : A shield the height of a person's shoulder, cut from the same black basalt as the sword and mounted with a rectangular ward-block at the boss; carried slung and set down when a watch opens, and never struck in the holding's recorded life.
 
-The blade's immense reach and momentum dominate wide hallways, holding multiple foes at bay. The chime quillons resonate in harmony with the swing, releasing acoustic ripples that disorient opponents.
+The ward-block at the boss stops whatever arrives at it and stops it in place, which is what the piece is for: with the shield set, the bearer can stand at a post for a full shift and the duties in the air do not transfer to them.
 
+**Resistances:**
+- Lament: 1.2 (Weak)
+- Grudge: 0.8 (Warded)
+- Void: 0.3 (Resistant)
+- Weight: 1.1 (Weak)
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Slows time perception and stabilizes the wearer.
+**Ability:** Holds the bearer's footing in one place — perception slows by enough to hear the post's own duties being listed — and keeps the weight of them off the wearer while the shield is set.
 
 **Cost:** The wearer feels every duty they have postponed.
 
@@ -205,7 +210,7 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a charm of Void Han-glass, near-translucent and all but colourless, that pulls at the cord as though something were hung from it, and gets no heavier.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -219,18 +224,18 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 
 ### M.A.W. Use Notes
 
-Each piece is a conditional extension of the Pillar rather than ordinary equipment, and the condition is rest taken. Used by a relieved and grounded operator, the zweihander and the shield hold to grade. Used by someone who has not stood down, the cost scales and the Void in them becomes active, which here means the wielder loses the memory of what they were owed rather than of what they owe. The charm is given, not drawn.
+Each piece stands in a conditional relation to the Pillar rather than being equipment in the ordinary sense, and the condition is that rest has actually been taken. In the hands of a relieved and grounded operator, the zweihander and the shield hold to their grade. In the hands of someone who has not stood down, the cost scales and the Void inside them turns active — which on this set means the bearer loses the memory of what they were owed rather than of what they owe. The charm is given and never drawn.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Dormant Monolith's known toll: small nameless memories go with each use. The wielder cannot audit the loss. Opened at the end of the rotation, not before. |
-| **During use** | Every occurrence of what Dormant Monolith takes (small nameless memories go with each use. The wielder cannot audit the loss), timed. One is noted; a pattern across a shift ends the use. |
-| **At limit** | The wearer feels every duty they have postponed, and the wielder has stopped reporting it — the usual end point for a Dormant Monolith piece. The observer calls the limit. |
-| **After use** | Piece returned; re-assess a week later, because what Dormant Monolith takes (the wearer feels every duty they have postponed) does not present on the day. |
+| **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline the second worker writes and keeps — the recorded toll on this set is one small nameless memory per use, unauditable by the bearer, since the faculty that would have caught it is the one under charge. The sheet is opened after the rotation, never before it. |
+| **During use** | Every instance of the bearer mislaying a small memory is entered with its hour. One is an incident note; a run of them inside a shift ends the use, and the observer's clock decides the shift's end rather than the bearer's own account of it. |
+| **At limit** | The limit is the postponed duties arriving whole — the bearer carrying all of them and having stopped mentioning it, which is the ordinary end point on a piece from this holding. The limit is called by the observer, and it is called on that sign alone. |
+| **After use** | Take the piece back, then hold the assessment a week, because the charge does not present on the day: are the postponed duties resting on the bearer again, and does the rota sheet show them off shift? Where either answer fails, the piece stays in stores and the bearer comes off the Border post. |
 
-**Stat interpretation:** Grade is not safety and here it is barely relevant. The shield performs unremarkably and anchors the wearer so completely that two observers have had to be told by colleagues that the shift was over. That is the characteristic cost of this file, and no figure in the table carries it.
+**Stat interpretation:** The grade records what a piece does to a holding and says nothing about what it does to a person; on this set the shield performs without remark and grounds the bearer so completely that two observers have had to be told by colleagues that the watch had ended. That is the character of the cost here, and no figure in the table carries it. Read the cost column first.
 
 ## 관찰 기록 (Observation Log)
 
@@ -259,7 +264,7 @@ Each piece is a conditional extension of the Pillar rather than ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Dormant Monolith (N-IVδ-909 [N]) is logged as a Subject-Mind manifestation expressing Void. The Pillar formed from responsibility that became a permanent mental structure. Held at Zone E, Border region. It has never fully awakened.
+Dormant Monolith (N-IVδ-909 [N]) is a Subject-Mind manifestation expressing Void, held at the Border region in Zone E. It stands for duties that never ended, and it has never fully awakened: no obligation that has been put into it has ever come back out lifted. The Pillar formed from responsibility that became a permanent mental structure. Held at Zone E, Border region. It has never fully awakened.
 
 **Entry 2 — <Excerpt from Border Post Rota>**
 Spreads through the minds of personnel near the Border. Personnel feel emptiness and the inability to leave duty. Its shadow grows when the worker refuses rest.
@@ -277,11 +282,11 @@ No post in the Border region is held by one worker for more than four consecutiv
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Dormant Monolith; the other feeds it.
+> Two ways to close a watch at the Border post, and the file's own rota shows the difference inside a fortnight: one leaves a rotation standing behind the worker, and the other leaves the duties on whoever is nearest to them.
 
-| Ground the worker and establish a rotation of duty. | Depart from the condition for good reasons, as Dormant Monolith's record shows people do. |
+| Ground the worker, establish a rotation of duty and enter it in the rota sheet — the file's own condition, with the post handed over at shift change and the worker off the Border line until the sheet says otherwise. | Depart from the condition for good reasons, as the record shows people do: stay past the end of the shift, take the post over from somebody else without a handover, or let the roster carry one name volunteering every time — which is how the manifestation completes quietly, and the first sign from outside is that sheet. |
 |---|---|
-| The Pillar softens and allows grief to pass. The sorrow is seen clearly; Dormant Monolith is fully recorded. | It rises through the worker's thoughts. The gauge climbs and Dormant Monolith withdraws without revelation. |
+| The pillar softens, something is let through rather than discharged, and the watch closes with the rotation entered, the gauge logged and the worker off the post at the shift boundary. | The duties settle on the worker standing nearest to them, the gauge climbs through their own thinking, and the entry closes with the roster showing one name kept volunteering. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -292,7 +297,7 @@ A pillar rises inside your mind, holding up a ceiling no one else can see. You a
 
 **At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Mind, pressing or releasing like a tide. Then the form resolves: A pillar-shaped presence sleeping inside consciousness. Its surface is pale and its shadow reaches into forgotten rooms. The space does not become generic; it shifts in the specific register of Void.
 
-**With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The minutes pass and the first shock gives way to something harder to notice: familiarity. The Void pressure resolves into a pattern that can be read ahead, then into a duty, then into one of yours. Nothing about the pillar is different from the first minute to the tenth; what has changed is who is holding the post.
 
 **When the entity activates:** The Gauge tips. The Subject-Mind does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Void is no longer atmospheric. It is operational.
 
@@ -438,8 +443,8 @@ The rota is amended under containment authority and audited on the containment s
 
 ### Registry Trivia
 
-- **Classification detail:** Dormant Monolith is a Subject with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Void, and its registered location is Zone E, Border region.
+- **Classification detail:** Subject, Entity (IV) coherence, Critical (δ) potency: a Mind-type holding that has never struck anybody and cannot be lifted off the worker carrying it. |
+- **Field detail:** Void is its element and the Border region of Zone E is its registered ground — held there standing, asleep, and shared out rather than contained. |
 - **Recognition detail:** There are no physical markers to work from. Identify it by the conditions of appearance: a pale column standing in the observer's own thinking, a shadow running into rooms they had forgotten, and the fact that colleagues standing beside them see nothing at all.
 - **Record detail:** Check the designation before work begins. Other records in this wing concern weight and obligation, and they differ on the decisive point — this one cannot be lifted off a worker, only shared out.
 - **Containment detail:** A seal does not apply. The Pillar is contained by the rotation of duty and by nothing else, and the rota is therefore a containment document — amended under the same authority, and audited on the same schedule, as the physical seals elsewhere in the wing.

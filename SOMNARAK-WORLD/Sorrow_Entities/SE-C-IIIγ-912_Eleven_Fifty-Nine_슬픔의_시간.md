@@ -1,6 +1,6 @@
 # Eleven Fifty-Nine — 슬픔의 시간
 
-> *"The city gave us this. We did not ask for it."*
+> *"Every night the whole district grieves the same loss, and not one of them can say whose it was."*
 
 ## SECC Classification
 
@@ -88,7 +88,7 @@
 
 1. **Tension:** The observer is on station before 0255 with a notebook and nobody else's notebook. The roster is checked against the bereavement register first; that check is the only preparation the hour permits.
 2. **Clash:** Four turns, observation and endurance only, from wherever personnel happen to be standing — there is nowhere to approach and nothing to approach it from. Timepieces are read aloud at each turn by two people.
-3. **Resolution:** The cycle ends on management or on 0400, whichever comes first, and it is always 0400. The documented condition is notification given and the hour sat through in place.
+3. **Resolution:** The cycle ends on management or on 0400, whichever comes first, and it is always 0400. It closes against the documented suppression condition: **Notification given, and the hour sat through in place**. Nobody leaves the district before 0400 and nobody is told to stop grieving.
 
 ### Consequences
 
@@ -181,8 +181,9 @@ Eleven Fifty-Nine is a Fragment (III) Time of Major (γ) potency, Time-Lament ma
 
 **Appearance:** a pale silk veil that tightens perceptibly at three in the morning whether or not it is being worn, which the Armoury has verified on a hook in an empty room.
 
-**Resistances:** Lament: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 0.3 (Resistant) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** The minute's grief outlasts its measured sixty seconds; in the quiet that follows, small joys fade from the wearer until the veil is removed.
 **Ability:** Grants resistance to Lament damage, protecting against the lament register of sorrow.
 
 ### M.A.W. Stigma — Eleven Fifty-Nine's Token
@@ -254,6 +255,21 @@ There is no contact to make. At the onset the Commons simply becomes a district 
 **When the entity activates:** Nothing happens anywhere. The street does not change, the lights do not alter, and every person in it is grieving.
 
 **After departure:** It lifts at 0400 cleanly and leaves a residue that personnel describe as having been at a funeral for somebody they never met and feeling they should have known them.
+
+## 상호작용 (Entity Interactions)
+
+The hour has never been measured in company. Everything below is paper work: the convergence study ran on the 0300 window alone, and no co-presence trial has ever been scheduled, because there is nothing here to bring into a room. Where another record touches this one, the touch is on the clock rather than on the grief — both holdings keep an hour, and the two keep their hours in ways that look alike on a page and cannot be alike in the street.
+
+**Interaction method:** Set the hour's own baseline first — read the timepieces at two points, log the absence figures and the district's route through 0300 — and only then compare it against the other record's series. Record the first divergence, its range, what set it off, and whether either series is changed by the comparison. Re-verify at each quarter.
+
+| What shares the hour | How the pairing has run | What the district entered | What the file keeps |
+|---|---|---|---|
+| **Backward Hour** `C-IIIγ-913` | Filed together on timekeeping. That record counts down and shows what a person is losing; this one stops a district for an hour and gives nothing back. | The two chronologies were laid side by side once, in the convergence study, and matched on nothing. Both wards' gauges moved on that quarter's absence figures instead. | That the pairing is paper, that the study's comparison is repeated at every annual review, and that the two series are never aligned into one table. |
+| **Endless Shift** `C-IVδ-915` | Filed together on work that will not end. That record holds a rotation nobody leaves; this one ends at 0400 every night and still reads, in the absence returns, as though it had not. | A quarter in which 12 shift crews were posted through the district was checked against the ordinary quarters and showed the same absence pattern, to the person. | That the similarity is arithmetic and not causal, written beside the figure each time it is quoted. |
+| **Dawn That Forgot** `N-IIIγ-917` | Grouped on the hour before morning. That record concerns a dawn that does not arrive; here the morning arrives on time and the district is the part that has been changed by the night. | No trial, and none proposed. Cross-flagged in the convergence study and left there. | That the pairing rests on a study line with no measurement under it, entered beside it on each repetition. |
+
+**Interaction procedure:** Observe separately, always, and record distance, duration, the trigger, both gauges and whatever outlasts separation. No co-presence trial is authorised on this holding, and the cross-flagged records are compared on paper only, at the annual review, with the two chronologies kept in separate columns.
+
 
 ## 이야기 (Narratio) — The Tale
 

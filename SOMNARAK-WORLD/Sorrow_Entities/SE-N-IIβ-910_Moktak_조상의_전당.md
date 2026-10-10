@@ -1,6 +1,6 @@
 # Moktak — 조상의 전당
 
-> *"The city gave us this. We did not ask for it."*
+> *"At dusk the seats fill again, and an argument older than the city resumes where it stopped."*
 
 ## SECC Classification
 
@@ -88,7 +88,7 @@
 
 1. **Tension:** The Warden on the door counts the chairs against the seating plan before anyone enters, confirms the figure count at forty-one, and fixes the worker's own seat in the outer ring where the closing order reaches it last. Weight pressure is read from the floor gauge at the threshold, not from inside the circle, because the reading inside the circle has never agreed with the one outside it.
 2. **Clash:** There is no clash in the ordinary sense. The worker sits the interval and the conversation proceeds around them; the whole of the engagement consists of not answering, not standing, and not crossing the ring while a seat is open. The only actions available to the team are the two logged by the Watch — attend, or withdraw before the third exchange.
-3. **Resolution:** The last figure rises and the hall returns to being a building. There is nothing to suppress and nothing to escort out; the team records the closing order, confirms the seats against the plan, and locks the door from the outside as the district requires.
+3. **Resolution:** The last figure rises and the hall returns to being a building. There is nothing to suppress and nothing to escort out; the team records the closing order, confirms the seats against the plan, and locks the door from the outside as the district requires. It closes against the documented suppression condition: **The last figure rises and the hall returns to being a building**.
 
 ### Consequences
 
@@ -101,8 +101,8 @@
 **Primary Form:** A ceremonial hall in Zone A where the city’s founding families once gathered. The hall is empty — except at dusk, when translucent figures appear in the seats and resume conversations that ended centuries ago.
 
 **Notable Features:**
-- Expresses Weight pressure in a spirit register.
-- The place form is unmistakable — this is a spirit entity, not a general one.
+- The pressure in the hall is weight at the doorframe and spirit in the rooms; the two do not separate while the hour holds.
+- The form is settled early in any watch: the hall records the hour's order rather than reacting to it, which no ordinary place sorrow does.
 - Identification is by schedule before it is by sight: an empty ceremonial hall in Zone A that fills at dusk and is ordinary at every other hour of the day.
 
 **Identification Profile**
@@ -181,7 +181,7 @@ The weight is real and measurable and it is also, in the strict sense, none of t
 
 **Appearance:** a coarse undyed mourning overrobe cut for sitting rather than walking, long in the back and short at the shin, with the household crest left deliberately unembroidered. Wardens report it is warm at the shoulders and cold across the knees, consistently, in any ambient temperature.
 
-**Resistances:** Weight: 0.3 (Resistant) | Lament: 0.9 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.3 (Resistant)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Ability:** The wearer is read by the hall as attending rather than intruding. Seats are not added for a robed worker and the closing order skips them, which is the only known method of sitting a full interval without accruing a place in it. The robe does not reduce Weight damage taken outside the hall.
 
@@ -255,23 +255,38 @@ You feel it before you see it. The spirit register is not visual — it is atmos
 
 **After departure:** The weight goes with the door. What stays is procedural: attendees check their own meetings afterwards for a chair nobody is using.
 
+## 상호작용 (Entity Interactions)
+
+The hall has never been worked with another holding standing in it, and the closing order has never been tried with company present. Three pairings follow from the wing appendix, anchored to the hall's log; none of them proposes a co-presence trial.
+
+**Interaction method:** Establish the hall's own figures first — the seat count against the plan, the rising order, the closing hour — alone across a full cycle before any comparison is entered. Then read the other record's series against them, entering the first divergence, its range, its trigger, and whether either series changed in the reading. Re-verify each quarter.
+
+| What the hall keeps | How the pairing has run | What the sector entered | What the record holds |
+|---|---|---|---|
+| **Allhallow** `O-IIIγ-916` | Filed together on the returning dead. That record keeps them for one night and lets them go; this one seats a whole line of ancestors and holds them until the last figure has risen. | The two return windows were compared across 2 quarters and did not overlap once. | That the pair is filed on the shape of the return, with the non-overlap entered beside it as the finding. |
+| **Passing Bell** `N-IIβ-919` | Grouped on the ancestors' own hour. That record ends mid-sentence at the bell; the hall here runs to its closing order, which is a sequence rather than a clock. | No trial. Cross-flagged in the manifestation appendix and left there. | That the pairing rests on a classification line with no measurement under it, entered on each repetition. |
+| **Amnesia** `O-IIβ-914` | Grouped on what the sector's mourning does to a place. That record loses what was known; this one keeps what the living city would rather set down. | One review entry; the seat count and the record's own series diverged from the first mark. | That the divergence stands as the finding, kept unsmoothed in the review's figures. |
+
+**Interaction procedure:** Observe separately, always, and enter distance, duration, the trigger, both readings and whatever outlasts separation. The hall is compared on paper at the annual review only; the seat count and the other record's series never share a column.
+
+
 ## 이야기 (Narratio) — The Tale
 
 The sector-n-910, contained remembers what the city tries to forget. Moktak began there — not with a scream or a death, but with the slow accumulation of weight sorrow until the Han could no longer hold it and something new crystallized in the space between one moment and the next.
 
 The spirit sorrow that birthed Moktak is specific. It is not the general weight grief that saturates Somnarak — that ambient, city-wide ache that every citizen carries. This is a particular grief, a particular wound, crystallized into a place form because the spirit register was the only shape it could take. Space was the vessel; spirit was the content; weight was the pressure.
 
-The entity does not rage. It does not weep. It simply persists — spirit and weight, patient and permanent.
+Nothing inside the hall raises its voice and nothing inside it cries. It simply keeps standing — spirit and weight both — through hours that would have emptied a lesser building.
 
-The entity does not rage. It does not weep. It persists — spirit and weight, patient and permanent. Moktak is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+The hall neither shouts nor weeps. Spirit and weight sit in it the way tenants sit in an old building — present in every room, accounted for nowhere, and never once in a hurry to leave. Moktak does not compete for loudest in Somnarak; it is the one that keeps the hour's order. In a city where every citizen is handed the same measure of grief, a hall that knows which hour belongs to whom is the one that leaves an impression.
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The spirit register is not in the manual. We learned it by failing."* — Specialist, Field Team
-*"I have worked weight entities for six years. This one is different. The spirit makes it personal."* — Handler
-*"Containment holds. But the protocols need a new chapter."* — Containment Lead
-*"After contact, I could not stop thinking in the spirit register for three days."* — Specialist, Recovery
-*"It is one of the first of its kind. We are still learning what Place-Spirit means."* — Researcher, Floor 4
+*"Nobody wrote the spirit register down for us. Everything the hall taught, it taught to a crew that had already got it wrong."* — Specialist, Field Team
+*"Six years of weight entities and every one of them stayed at arm's length. This hall closes the distance — that is what the spirit does."* — Handler
+*"The containment is fine. It is the manual that is behind: this building needs a chapter nobody has written yet."* — Containment Lead
+*"Three days after my watch ended I was still sorting my own rooms by the hall's order. It does not leave when you step outside."* — Specialist, Recovery
+*"We have one of the first Place-Spirits on record and no definition for the term. Every shift in the hall adds a line to it."* — Researcher, Floor 4
 
 ## 기록 (Registrum) — The Record
 
@@ -310,7 +325,7 @@ The conversation is among the figures rather than toward anyone present, and no 
 
 ### An Empty Hall Otherwise
 
-Outside the hour the building is ordinary and is maintained as a building, with the fabric inspected and repaired on a normal schedule. The maintenance records are in the folder. The archivist's note remarks that this is the only containment in the wing that also has a roof contract.
+For the other twenty-odd hours the hall is simply a building and is kept like one — fabric inspected, repairs scheduled, nothing left to the hour. The maintenance records sit in the folder. The archivist's note points out that this is the only containment in the wing that also carries a roof contract.
 
 ### A Particular Weight
 
@@ -319,8 +334,8 @@ What crystallized here is one specific grief rather than the city's general ache
 ## Trivia
 
 - One of the first catalogued **Place-Spirit** entities in Somnarak.
-- Its spirit descriptor makes it structurally unique among place entities.
-- The weight pressure in the spirit register feels different from standard weight — more specific, more personal.
+- The wing files no other place as a spirit first; a hall that answers the hour in the ancestors' own order has no precedent on the shelf.
+- Standard weight belongs to no one in particular. This one is entered against a name: the hall weighs the hour it is given and returns it to the ancestor it belongs to.
 
 ## Document Information
 

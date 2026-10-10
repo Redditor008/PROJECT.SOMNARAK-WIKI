@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.15 m/s |
-| **Resistance** | 35% against Void pressure; 25% against other pressure types |
+| **Resistance** | 35% against Void pressure; 25% against other pressure types. Nothing is rated against the erasure, which is not pressure and is not resisted by anything the wing issues: it takes the fact that a person was present, and paper survives it better than memory |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 427/427 |
 | **Han Pressure [ATK]** | 9–22 per hit · Void |
@@ -81,21 +81,21 @@
 | { *The Closed Lips* [**Debuff**] } | "She stands silent — and the silence around her is heavier than any speech." | [The Maiden's suppressed voice creates a void of unspoken words.] | *Target suffers a Void mark; the unspoken things press on them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Maiden. |
 | { *The Swallowed Words* [**Debuff**] } | "You can see the words forming behind her teeth — and then she swallows them, and the swallowed words enter you." | [The Maiden's suppressed speech transfers to the target; they carry her unspoken burden.] | *Target loses clarity; they are full of someone else's silence.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target waits for her to speak. |
 | { *The Silent Decree* [**Attack**] } | "She mouths a word — no sound — and the word strikes you anyway." | [A silent command hits the target with full force despite making no noise.] | *Inflicts Void damage; the voiceless decree erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Maiden is commanded. |
-| { *The Released Voice* [**Attack**] } | "She speaks — one word, the first in centuries — and the word is devastating." | [The Maiden releases one suppressed word with all its accumulated power.] | *A heavy Void utterance; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Maiden is forced to speak. |
-| { *The Eternal Silence* [**Ultimate**] } | "She falls silent again — and this time, she takes everyone's voice with her." | [The Maiden extends her silence across the entire field.] | *All in range suffer Void erosion for three turns of absolute quiet.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Released Voice* [**Attack**] } | "One word, the first in centuries — and the room has no idea what to do with a sound." | [The single word she has never spoken in any watch is released at the target's expense.] | *A heavy Void utterance; the target's Sorrow Gauge surges 15%, and the room's hush takes several minutes to settle.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When she is forced to speak, which the standing order treats as misconduct in the person doing the forcing. |
+| { *The Eternal Silence* [**Ultimate**] } | "She goes quiet again — quieter — and the quiet spreads until nobody in the room can hear themselves being counted." | [The Maiden extends her silence past the chamber, taking the sound out of the whole field.] | *All in range suffer Void erosion for three turns of absolute quiet; names and faces begin going out of the affected zone from the second turn.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The Silent Maiden is confirmed by a young woman of flesh and bone, bloodless and cold, eyes open and tracking nothing, entirely silent, frequently unnoticed by personnel who are not deliberately looking for her. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** The confirmation is a named one and it is the opening of the watch: a young woman of true flesh and bone, cold and bloodless, eyes open and tracking nothing, standing in a chamber that four people can cross without registering her. Several records in D-territory are quiet; this is the one whose absence is confirmed by a person rather than by an instrument, and the roster goes on the door in ink before anybody counts anything.
 2. **Clash:** One named Warden works her at a time and that Warden's name is on the door roster in ink before they enter. Pugnahan is not attempted; there is nothing in the chamber that can be struck.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **See her, hear her, and recognize that she is present**.
+3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **See her, hear her, and recognize that she is present** — one named observer attending to her for the interval, the count spoken aloud, and the figure returned against the Personnel Office's unsighted line rather than against the door.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Composure**, funneling cognitive instability back into the Sorrow Gauge.
-- The Silent Maiden’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in The Silent Maiden's dossier.
+- A worker who cannot hold the silence becomes a conduit: the pressure moves through them instead of stopping, **Composure** erodes, and the instability they carry is funnelled back into the figure. On this holding the first sign is procedural rather than felt — a confirmation given without a name, or a count that stops at a number nobody can account for — and the second Warden's read ends the watch.
+- Duration is not the exposure here; one watch of the wrong kind is. A chamber left unattended, a confirmation signed by a hand nobody checked, or one attempt to make her speak have each cost more than a long and correctly run series of watches, which is why the roster exists and why the count takes forty seconds. Sessions are transcribed by instrument and nothing in this chamber is written down afterwards from recollection.
+- Each activation of a piece from this set takes something the wielder cannot itemise afterwards: small, nameless memories on the Lens, the sensation of their own presence on the Veil, and speech above a whisper on the Cloak. The Armoury books the charge against the wielder rather than the piece, and on this set the pieces are issued one rotation at a time for that reason.
+- Without resolution the sorrow does not dissipate and does not rupture anything visible. It spreads as numbness, and the first thing it takes from a zone is the fact that a person was present in it; the manual's answer is the badging protocol and the spoken count, because a written name survives an erasure that a remembered one does not.
 
 ## Appearance
 **Primary Form:** A young woman of true flesh and bone — cold, bloodless, eyes open and seeing nothing — who is nonetheless frequently not noticed by personnel in the same room. **Visibility:** she is not transparent and not faint; she is simply, repeatedly, overlooked.
@@ -151,9 +151,9 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. The Silent Maiden is recorded as a Subject with Subject-Body manifestation and Void elemental expression. The current record places it at SECTOR-D-02, contained with the Three Sisters; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Read this table as a list of things done to her rather than as a set of options, because on this holding three of the four rows are the same row. Flerehan and Ferrehan both lower the gauge and both consist of treating her as present — one by acknowledging her aloud, one by sitting out the interval beside her — and the file is firm that this is the work withheld from her performed late and by strangers. Pugnahan's stability is a null result rather than a safe one: four attempts, all early, all documented, and the standing order now treats a fifth as misconduct. Viderehan holds the gauge and produces the account the Story Log carries, and on this file a Stable reading is a record entry rather than a working condition. The record places her at SECTOR-D-02, contained with the Three Sisters, and personnel should not transfer assumptions from either Sister: this is the one who cannot be struck, cannot be made to speak, and settles only for attention.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** A falling gauge presents as a turn — she turns toward whoever acknowledged her and reaches, without hurry, and the figure falls while she does. It is the only success signal the Sisters' chamber has, and it is read on the comparative scale rather than felt in the room. A rising gauge has never been produced by a Work Type here: the escalation personnel miss is procedural, and it presents as a missed confirmation, an unnamed confirmation, or a roster that has not been updated in ink. That is why the watch logs the confirmations and not the impressions. Where the entity does something the table does not cover, the reaction is data; preserve it before the next cycle and log it before the next assignment.
 ## Breach Behavior
 
 > *"The Silent Maiden has broken free. Hunts personnel indiscriminately."*
@@ -181,7 +181,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that flickers with inner light.
+**Appearance:** a lens-ground disc of Void Han-glass, near-colourless and cold to the hand, that shows whoever looks into it as a shape without a face — and keeps showing them that way for a few seconds after they look away.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)
@@ -194,15 +194,15 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** The Lens applies Void as a clarity drain and is issued only under the badging protocol: name worn, written, visible, outside the suit. An operative carrying the Lens without a legible badge is refused at the cordon.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Silent Maiden's void signature in the strike.
+**Ability:** Void damage against the Soul — identity, memory, sense of self — carried in the strike as this holding's signature. Recipients describe the wound as a gap rather than a pain: something they were holding about themselves is simply not there afterwards, and they cannot say what it was.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** What the wielder loses is small and unattributable: a route they used to know, the name of a shop, the face of somebody they dealt with last month. The charge is cumulative and the Armoury's note is that it is discovered by other people before the wielder notices anything.
 
 ### M.A.W. Suit — The Silence Veil
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a veil of Void Han-gossamer, near-colourless and faintly cold, that takes the noise out of the wearer's movements and leaves their footsteps unaccounted for on a stone floor.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -212,19 +212,19 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against The Silent Maiden's kind of pressure.
+**Ability:** Turns Void pressure aside from the Soul. It holds against the pressure and not against being overlooked: a wearer in the Sisters' chamber is exactly as easy to walk past as anybody else, and the veil does not make its wearer noticeable, which the Armoury records as the difference between this piece and the danger it is issued against.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer comes to feel faintly absent to themselves — present, recorded, and not entirely convinced of either — and reports it as a room they are standing slightly outside of.
 
 ### M.A.W. Stigma — The Silence Cloak
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a cloak-clasp of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a cloak-clasp of Void Han-glass on a short chain, near-colourless, that stays cold however long it is worn and makes no sound against whatever it rests on.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat, and for about a day the wearer notices the quiet ones in a room — who has not spoken, who was not asked, who has been standing at the edge of it since the start.
+**Effect:** +1 to the working stat, and for about a day the wearer notices the quiet ones in a room — who has not spoken, who was not asked, who has been standing at the edge of it since the start. The Armoury's note is that the second half of that effect is the part that matters, and it is not measurable.
 
 **Ability:** Makes the wearer silent; sound does not carry from them.
 
@@ -234,18 +234,18 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of The Silent Maiden and carries what The Silent Maiden carries: the wielder loses small, nameless memories with each use. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+Every piece in this set is drawn from the same stillness, and the charges run the same way: the Lens takes small, nameless memories, the Veil takes the sense of one's own presence, and the Cloak takes the voice above a whisper. The grade describes extraction stability; the cost is in the column beside each piece and is the reason the set is issued one rotation at a time. Seven Cloaks exist, and each was issued for a sighting — a Warden who noticed a person nobody had noticed, inside the facility, off the file, and wrote the name down; none has been issued for anything else.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what The Silent Maiden takes: the wielder loses small, nameless memories with each use. |
-| **During use** | Every occurrence of what The Silent Maiden takes (the wielder loses small, nameless memories with each use), timed. One is noted; a pattern across a shift ends the use. |
-| **At limit** | The wearer feels faintly absent to themselves, without remission. On a The Silent Maiden piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece and check the sealed baseline: has The Silent Maiden's cost — the wearer feels faintly absent to themselves — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, and a dated baseline of what the wielder can currently name: three colleagues by face, two routes they use weekly, and where they keep their own badge. Taking the baseline twice, a week apart, is what tells the Armoury whether the piece is drawing on memories the wielder had or on the habit of having memories at all. |
+| **During use** | Every occurrence of a missing name, timed, and whether the wielder noticed it themselves or was told. One is noted; a pattern across a shift ends the use. The observer reports, never the wielder, because the charge is discovered by other people before the wielder notices anything. |
+| **At limit** | The wearer has gone quiet in a way that reads as absence — answering late, standing slightly outside the room, no longer convinced of being recorded — and the observer calls the limit there rather than waiting for the wielder to say anything about it. |
+| **After use** | Return the piece and re-take the baseline before the shift ends: the three colleagues by name, the two routes, the place the badge is kept. Anything missing is entered against the holding rather than against the person, and the set is not reissued to that wielder until the baseline holds. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade describes extraction stability and says nothing about what the piece takes from the person carrying it. An efficient issue can still leave the wielder hollowed; a low-rated piece can still carry a severe psychological charge, and on this set the grade is β on all three pieces while the charges are not equal to each other. Read the two columns together, authorise on the second, and take the baseline before the issue rather than after it.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Mastered
@@ -268,7 +268,7 @@ Every piece in this set is a fragment of The Silent Maiden and carries what The 
 | **Initial exposure** | Named visual confirmation of occupancy, posture and distance logged, roster signed in ink at the door. |
 | **Sustained observation** | Confirmations every fifteen minutes, by name, for the length of the watch. The annual figure is returned at 427 against 392 and 338. |
 | **Activation or escalation** | A missed confirmation, an unnamed confirmation, or any movement toward the chamber door. Badge, count off aloud, and keep one named person attending her. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In The Silent Maiden's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | A report is incomplete if it records only the danger and omits the sorrow the entity preserves, and on this file it is incomplete without four things: the roster in ink at entry and exit, the instrument transcript of everything said in the chamber, the named confirmations with their times, and the posture-and-distance log kept every 15 minutes. Nothing in this chamber is written down afterwards from recollection, because the pressure works on the operative's memory of the room itself. The review closes against the Personnel Office's unsighted return, which is the only external figure she has ever tracked. |
 
 **Observation method:** A named pair of eyes every fifteen minutes, a roster in ink at the door, an instrument transcript of everything said in the chamber, and the Personnel Office's unsighted return to set the figure against.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -276,7 +276,7 @@ Every piece in this set is a fragment of The Silent Maiden and carries what The 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Silent Maiden (C-IVβ-043 [VS]) is logged as a Subject-Body manifestation expressing Void. The Maiden formed from a child who died of neglect. Held at SECTOR-D-02, contained with the Three Sisters. No physical attack has ever affected the Maiden.
+The Silent Maiden (C-IVβ-043 [VS]) is entered as a Subject-Body manifestation expressing Void: a young woman of true flesh and bone, cold and bloodless, who was overlooked from a register in Zone D until the overlooking became indistinguishable from her having gone. Held at SECTOR-D-02, contained with the Three Sisters. No physical attack has ever affected her, and none of the four attempts on the file is recorded as a failure of force.
 
 **Entry 2 — <Sisters' Chamber Watch, Year 4238>**
 Standing figure 427 on the Sisters' comparative scale, after 392 and 338. Occupancy confirmed visually by a named Warden at the opening of every watch and at fifteen-minute intervals throughout, with no unnamed confirmations logged this year. No sound produced, as in every year on record.
@@ -294,11 +294,11 @@ The mother visits. She is not a suspect, has never been charged with anything, a
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Silent Maiden; the other feeds it.
+> One reading of the record and one departure from it. The condition is the badging protocol written small: somebody named attends to her, in the chamber, for the interval.
 
-| See her, hear her, and recognize that she is present — as written, without improvising. | Substitute your own judgement, which on The Silent Maiden has never yet cost less than the condition. |
+| Do the thing on file: see her, hear her, and treat her as present — by name, in ink, for the whole interval. | Depart from the condition for good reasons, as The Silent Maiden's record shows people do — a confirmation nobody can be asked about, or the attempt to make her speak. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly; The Silent Maiden is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Silent Maiden withdraws without revelation. |
+| She turns toward the worker and reaches, and the standing figure falls while she does. The sorrow is seen clearly; The Silent Maiden is fully recorded. | The chamber reads as empty and the roster is corrected by somebody outside it. The figure climbs, and the story stays untold for another watch. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -307,17 +307,17 @@ The room becomes quiet enough to hear your own blood. A shape stands where you w
 
 
 
-**At first contact:** The Subject-Body does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A barely visible young woman made of crystallized silence. She produces no sound and is often visible only when someone deliberately looks for her.
+**At first contact:** The first contact is usually a failure to have one. Personnel cross the Sisters' chamber, work around her and leave without registering that anybody was there, and the file's accounts describe the discovery in the same way every time — the ash smell first, then the hush that takes sound out of the room, then the realisation that the shape standing at the edge of it has been there since the start. She is flesh and bone, cold to the touch, eyes open and tracking nothing. If the chamber looks empty, say your own name out loud; that is the badging protocol and not superstition.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Body becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 
 **When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Void becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Body was waiting; now it moves.
 
-**After departure:** Departure is not relief. The Subject-Body is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** What follows workers out is not a sound or a temperature but a habit. Long exposure brings back, in detail, the occasions on which the worker did not notice somebody, and the counselors treat that recall as the standard outcome rather than as an adverse event. Rosters come back read; names get written down without being asked for. In the erasure cases the reports are different and the badging protocol is the answer to them: responders have lost the names of colleagues standing beside them mid-task, which is why a written name is worn outside the suit and the count is spoken aloud.
 
 ### Interaction Pattern
 
-The Silent Maiden does not exist in isolation. Its recorded relationships with The Smothering Mother, The Kind Healer, The Forgotten Soldier, The Grieving Maiden should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The Silent Maiden is read against the Three Sisters first and the Echo Gardens second, and the reading is a conceptual one before it is a measured one: The Grieving Maiden holds a loss that was mourned, The Angry Maiden holds one that was blamed, and this one holds a child who was never the subject of anybody's attention at all. The Smothering Mother, The Kind Healer, The Forgotten Soldier and The Grieving Maiden are the four the file has tested. Every pairing is taken inside the chamber with named confirmations throughout, so a pairing recorded without them is not an observation of this entity, whoever else was in the room.
 
 **Interaction method:** Figure and posture taken before and after by named Wardens, the roster read aloud at both readings, and the Sisters' chamber never emptied for the purpose.
 
@@ -383,9 +383,9 @@ Some sorrows mourn death. The Silent Maiden mourns invisibility — the child wh
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The whole of this holding rests on one procedural fact, and the record is written around it rather than in spite of it. An unnamed confirmation is a confirmation nobody can be asked about afterwards, and the file's early history contains a stretch of watches signed by a hand that turned out to mean nobody had looked; the chamber was occupied throughout, which the wing does not treat as a reassurance. So the record is read with the roster beside it. The 427 is the Sisters' comparative scale, running to 1,000, and it is the only figure of hers that has ever moved: 338, then 392, then 427, tracking one line of the Personnel Office's annual return — the number of people on this Company's books who went 30 days or more without a single recorded sighting by another human being. When the entity and this file disagree, trust the entity, log the discrepancy, and preserve it as evidence rather than normalising it into the baseline.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Verify the four pillars — gauge, seal, personnel, position — and on this holding add the two the Sisters' chamber runs on: the door roster in ink and the spoken count. Any missed confirmation, any unnamed confirmation, and any movement toward the chamber door resets the picture, and the review is taken again from a named watch rather than from the log. The figure is returned against the Personnel Office's unsighted line, not against the Gardens' visitor numbers or the Tide calendar, neither of which it has ever followed. The count takes 40 seconds and has never been shortened; 1,000 is the ceiling of the comparative scale, and the standing figure has gone 338, 392, 427 across three annual returns. The R.D. record describes a living sorrow pattern, not a permanently complete explanation, and on this file the pattern is a person who is present whether or not the record has noticed.
 ## Apex Record
 
 ### Confirming an Absence
@@ -433,11 +433,11 @@ The door Warden's count is spoken, never signalled. Hand gestures were tried ear
 
 ### Registry Trivia
 
-- **Classification detail:** The Silent Maiden is a Subject with Entity (IV) — Self-aware, empty, hollow coherence and Moderate (β) — Manageable potency.
-- **Field detail:** Its defining element is Void, and its registered location is SECTOR-D-02, contained with the Three Sisters.
-- **Recognition detail:** A young woman of flesh and bone, bloodless and cold, eyes open and tracking nothing, entirely silent, frequently unnoticed by personnel who are not deliberately looking for her.
+- **Classification detail:** The Silent Maiden is a Subject with Entity (IV) — Self-aware, empty, hollow — coherence and Moderate (β) — Manageable potency, and the activation threshold is 3, which runs down rather than up: hers is the escalation personnel miss, because there is nothing to hear and nothing to see unless somebody is looking.
+- **Field detail:** Element Void, registered to SECTOR-D-02, contained with the Three Sisters, where the door is read as a filter rather than a wall: influence extends past the boundary through Han resonance and ambient sorrow density, and nothing the wing owns registers her at all.
+- **Recognition detail:** A young woman of flesh and bone, bloodless and cold, eyes open and tracking nothing, entirely silent, frequently unnoticed by personnel who are not deliberately looking for her. The marker is in the observer rather than in her, which is why occupancy is confirmed by a named person and never by an instrument.
 - **Record detail:** The Registrum gave Comprehension Level 3 against a header of 4 — Mastered, rated the holding Low, and named Viderehan primary where Flerehan and Ferrehan are the Work Types that move the gauge; the faction entry read C-territory against a D-02 holding; the breach line read *hunts personnel indiscriminately* against a First Target entry restricting her to those who acknowledge her; and the Appearance block described crystallised silence against a header recording true flesh and bone. All corrected. The 427 figure in the Apex Record is the Sisters' comparative scale, which runs to 1,000.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Containment here is procedural before it is structural. Occupancy is confirmed by a named person and never by an instrument, the roster is posted in ink and the count is spoken, because a numbness that erases names and faces defeats a count kept in anybody's head. The practice has since gone standard across four wings; her file is its origin, and the incident that produced it is preserved in full and taught rather than buried.
 ## Document Information
 
 **Document ID:** SE-C-IVβ-043

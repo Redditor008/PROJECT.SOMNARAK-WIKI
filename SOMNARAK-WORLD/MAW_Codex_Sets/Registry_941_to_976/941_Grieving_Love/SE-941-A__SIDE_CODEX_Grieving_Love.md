@@ -50,6 +50,8 @@ During the The Grieving Love Source-Trace, the field team preserved this source 
 | The Mourner's Film | β; L/G/V/W 0.3 (Resistant)/1.2 (Weak)/1 (Normal)/1.1 (Weak); max 3; 20 Sorrow Echoes | `SE-941-C__MAW-S_The_Mourner_s_Film.md` |
 | The Tear Pendant | β; Neck; 5%; +1 stat bonus when working the source entity | `SE-941-D__MAW-G_The_Tear_Pendant.md` |
 
+**Weapon-range hold:** The primary and `SE-941-B` name *The Comforting Coil*. The primary Appearance describes a coiled whip of Lament Han-crystal whose lash-line glows when uncoiled; the item describes the grief-slime tendril extending and coiling around its target. Primary Range is 2 (Medium); this Side card and the linked item's core row give Range 3 (Medium). Lament 5–10, Speed 2 (Normal), maximum 3, and 24 Echoes agree. The item says “medium range” in prose but gives no physical reach measurement; the master registry leaves damage, speed, and range variable / unset. Archetype row `MAW-W-941` lists a Close / Spiked Knuckle Brand, without an explicit crosswalk to `MAW-W-941-01` or this coil appearance. No source resolves Range 2 versus 3 or documents a distinct weapon form / mode; hold the range without changing it.
+
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Grieving Love's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stays only the immediate manifestation that violates this rule: Do not flee her embrace — sit with her grief until she lets go of her own accord The set cannot heal the originating event. Misuse routes Grieving Love's wound through the operator and triggers the recorded escalation.

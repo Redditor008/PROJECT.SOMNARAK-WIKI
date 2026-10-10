@@ -1,6 +1,6 @@
 # Hatred Above — 분노의 폭풍
 
-> *"Something here remembers what we chose to forget."*
+> *"You cross alone and you keep walking. The light is brighter under the anomaly so that you see your own hands the moment they stop."*
 
 ## SECC Classification
 
@@ -79,16 +79,16 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the grudge." | [The entity's grudge pressure settles over the target.] | *Target feels the weight of grudge sorrow.* **[10 Grudge DMG [Grudge]]** | When the entity first fixes on a target. |
-| { *The Grudge Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of grudge grudge sorrow.] | *Grudge damage strikes the target; the gauge spikes.* **[18 Grudge DMG [Grudge]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full grudge weight on one point.] | *A devastating Grudge strike; the target's Sorrow Gauge surges.* **[26 Grudge DMG [Grudge]]** | When the entity is cornered or starved. |
-| { *The Grudge Collapse* [**Ultimate**] } | "The grudge breaks — and everything it held comes loose." | [The entity's full grudge sorrow unleashed in every direction.] | *All personnel suffer Grudge erosion for three turns.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It arrives empty, and then it arrives at somebody." | [The anomaly's grudge pressure settles over the target from above, without ever descending.] | *Target feels the weight of grudge sorrow, and the weight has no subject in it yet.* **[10 Grudge DMG [Grudge]]** | When the entity first fixes on a target. |
+| { *The Grudge Surge* [**Attack**] } | "The sorrow sharpens and takes the nearest body." | [A concentrated burst of grudge pressure out of the anomaly, aimed at whoever is standing closest to it.] | *Grudge damage strikes the target and the gauge spikes. The target is chosen by distance and by nothing at all besides distance.* **[18 Grudge DMG [Grudge]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once the pressure has a direction in it." | [The anomaly focuses its full grudge weight on one point of the floor and picks the person who answered, not the one who shouted.] | *A devastating Grudge strike; the target's Sorrow Gauge surges, and the composure loss is booked to whoever replied.* **[26 Grudge DMG [Grudge]]** | When the entity is cornered or starved. |
+| { *The Grudge Collapse* [**Ultimate**] } | "The grudge breaks, and what it had been holding comes loose all at once." | [The anomaly's full grudge sorrow let go in every direction across the marked rectangle, eighteen metres by eleven.] | *All personnel suffer Grudge erosion for three turns, whether they stood under it or only near somebody who did.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The team identifies Hatred Above by a directionless fury that arrives after nine to fourteen seconds beneath the footprint and then settles on whoever is nearest. The interval is the most reliable figure in the file and the movement rule is built on it, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Hatred Above's recorded combat actions.
-3. **Resolution:** Distance, a barrier if one is to hand, and silence from everybody else. The worker comes back on their own. The team does not debrief them at the spot and does not require them to say anything about it afterwards.
+3. **Resolution:** Distance, a barrier if one is to hand, and silence from everybody else. The worker comes back on their own. The team does not debrief them at the spot and does not require them to say anything about it afterwards. It closes against the documented suppression condition: **open the distance, hold the silence, and let the range do the rest**.
 
 ### Consequences
 
@@ -181,8 +181,9 @@ The pressure is measured from the sides, at an angle, by instruments that cannot
 
 **Appearance:** a flowing veil of Grudge Han-cloth, dark and faintly warm, that tightens near its source element.
 
-**Resistances:** Grudge: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 0.3 (Resistant) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** The suit stores each small insult in the body; the wearer's reflexes grow rigid, and anger reaches the voice before judgment can intervene.
 **Ability:** Grants resistance to Grudge damage, protecting against the grudge register of sorrow.
 
 ### M.A.W. Stigma — Hatred Above's Token
@@ -217,6 +218,7 @@ The Hatred Above set is made from the marking itself: the Edge from a line-stanc
 - 63 incidents since the first dated one, every one resolved by opening distance, mean duration under two minutes, longest four and a half and that one answered back.
 - Both valid approaches reduce the gauge and both are performed from outside the line. Nothing performed beneath the anomaly has ever reduced it, and the four attempts are logged with their outcomes.
 - The anger has no content. Interviewed workers consistently report that there was nothing they were angry about, which distinguishes this holding from every grievance-bearing entity in the wing.
+- The gauge series is the holding's own: 40% opening, 10% per stale metre of the marked line, 70% at the Y4244 widening, and back to 40% within a shift of the re-marking.
 
 **Personnel Note:**
 
@@ -255,6 +257,18 @@ Contact is disorienting. The grudge pressure is familiar — every agent in Somn
 
 **After departure:** The anger is gone before you are off the floor. What you keep is the transcript — your own voice, every word of it.
 
+## 상호작용 (Entity Interactions)
+
+Nothing here is addressed and nothing here has an author. The anomaly manufactures its anger inside whoever stands beneath it and hands it to the nearest body, so the three records kept beside it in the appendix are all holdings that put fury somewhere: a statue holding a strike it never threw, a judge that turns anger into a ruling, and a library whose fire keeps the pages it burns. What follows is read from this holding's own instruments — the internal sensors angled at the footprint, the crossing log, and the line re-surveyed each cycle.
+
+**Interaction method:** Set this holding's own figures first: the 63 incidents, the posted crossing interval of 20 seconds, and the gauge ladder from the Y4244 widening. Then read the other record's figures beside them, enter whether either moved, and re-survey at the next cycle.
+
+| Which record shares the footprint | What both put on the nearest person | What the crossing entered | What the file refuses to write down |
+|---|---|---|---|
+| **The Rage Statue** `C-IIIγ-190` | Both keep fury with nobody to spend it on. That record holds a fist that never unclenched; this anomaly's anger always lands, and always on the closest body rather than the right one. | Nothing was run. The appendix grouped the two on anger without an owner, and the review left the entry as an arrangement. | The grouping is a filing line, entered as such and read as one. |
+| **Gavel** `C-IVδ-140` | Both take anger and give it a direction. That record rules; this one hands over something personal and accurate, and none of it is recorded anywhere. | The pair was read against the footprint sensors only. No reading moved, and the recording prohibition was noted rather than tested. | That a verdict is the one thing this holding is built never to produce. |
+| **Pyre of Truths** `C-IVδ-092` | Both are fed by what people would rather be rid of. That record's fire keeps every page it burns; this one keeps nothing, and interviews agree there was nothing underneath — no grievance, no content, only the response. | Entered as read-only on both sides: the fire has burned for years without consuming a page here or there, and the light under the anomaly has never failed to get somebody moving. | That a resemblance is the reason for the shelf, not a finding that came out of it. |
+
 ## 이야기 (Narratio) — The Tale
 
 The lighting was chosen out of a trial. Floor texture was tried, and sound, and colour, and all three worked less well than making the light under the anomaly brighter and colder than the corridor around it — because a person who has stopped walking sees the light on their own hands before they see anything else, and the seeing is what gets them moving again.
@@ -267,11 +281,11 @@ Sixty-three incidents, no injuries, no lasting estrangements on record, and an a
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The grudge register is not in the manual. We learned it by failing."* — Specialist, Field Team
-*"I have worked grudge entities for six years. This one is different. The grudge makes it personal."* — Handler
-*"Containment holds. But the protocols need a new chapter."* — Containment Lead
-*"After contact, I could not stop thinking in the grudge register for three days."* — Specialist, Recovery
-*"It is one of the first of its kind. We are still learning what Hazard-Grudge means."* — Researcher, Floor 4
+*"There is no chapter for it in the manual, so the register we work from was written after the fact by people who had stood under it, and the whole of it reads like an apology."* — Specialist, Field Team
+*"Six years on grudge holdings, and never once before this one has the anger turned up with nobody in it to be angry at. It fastens on the nearest body and then behaves as though it had a reason for choosing."* — Handler
+*"Containment holds, and containment is nothing but spacing: the rectangle marked on the floor, lit cold, crossed singly and at intervals. What needs rewriting is every protocol that assumed a hazard would aim at you."* — Containment Lead
+*"After contact I could not stop thinking in the register for three days. What stays is not the anger. It is the sentence I said while I was under it, which I remember word for word and cannot hand to anybody else to settle."* — Specialist, Recovery
+*"Hazard-Grudge is a classification we are still filling in from this end. Sixty-three fastenings on record, none of them on a person with any history behind it; that finding is what made us stop looking for a subject."* — Researcher, Floor 4
 
 ## 기록 (Registrum) — The Record
 

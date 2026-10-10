@@ -1,6 +1,6 @@
 # Sky of Borrowed Faces — 환각의 격자
 
-> *"The weight is not punishment. It is recognition."*
+> *"Every surface keeps a face, and the register insists they are all still alive."*
 
 ## SECC Classification
 
@@ -26,15 +26,15 @@
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Hazard |
-| **Primary pressure** | Lament / Phantasmal pressure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Primary pressure** | Lament and Phantasmal pressure, summed nightly as a surface count on the transect rather than felt at the fence |
+| **Starting Sorrow Gauge** | 35–50% on the intake sheet, with the four-hundred-metre sweep walked before the hour’s number is entered |
+| **Han-Energy yield** | 12–18 in a cycle, logged against the individual rather than the posting, the exposure being cumulative across a career |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ); nothing on the transect has ever been broken on purpose, and the band is the standard table’s |
+| **Recommended response** | Viderehan and Ferrehan only, both of which lower the gauge, with the sweep walked first; extraction is separately authorised and is never written up as the reward for a clean sweep |
 
 ### Operational Notes
 
@@ -85,15 +85,15 @@
 
 ### Battle Phases
 
-1. **Tension:** Sky of Borrowed Faces is confirmed by the images move and speak. Nobody has ever recorded what is said, because the standing order forbids transcription and the reason given on the form is that a transcript would be evidence of something that was never said by the person whose mouth said it. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** The site is confirmed by the images that move and speak. Nobody has ever written down what is said: the standing order forbids transcription, and the reason entered on the form is that a transcript would be evidence of something never said by the person whose mouth carried it. Positions and the way out are fixed before the cycle opens.
 2. **Clash:** Viderehan and Ferrehan only; Flerehan and Pugnahan are N/A for a Hazard. The reading is the surface count: distinct surfaces carrying a projection at the hour of the sweep, walked along the fixed four-hundred-metre perimeter transect. Twenty-three is baseline. The recorded range is zero to three hundred and eleven.
-3. **Resolution:** The transect walked to its end regardless of what is on the surfaces, the count logged by surface and never by face, and the team out before dusk. No sweep has ever been abandoned part-walked, and the one that was nearly abandoned is written up in full with the Warden's reason.
+3. **Resolution:** The transect walked to its end regardless of what is on the surfaces, the count logged by surface and never by face, and the team out before dusk. No sweep has ever been abandoned part-walked, and the one that was nearly abandoned is written up in full with the Warden's reason. It closes against the documented suppression condition: **The count logged by surface and never by face, and the team out before dusk**.
 
 ### Consequences
 
 - Composure fails here as recognition. The worker sees a face they know on a wall, and the register says that face belongs to a person on the identification roll who has been Fractured for nineteen years, and holding both of those at once is the work.
-- Long exposure produces a worker who will not sign a likeness release. Fourteen Wardens rotated off this site were afterwards recorded refusing routine requests from their own offices, and the training wing's objection to the containment rule names all fourteen by number.
-- The set costs memory, flattened pleasure and borrowed dreams, each for about a day. The armoury's note records the costs in one line and records in a second that the Token has never been issued to a worker whose own likeness is on the register.
+- Stay long enough and the worker stops signing likeness releases. Fourteen Wardens rotated off this site were later recorded turning down routine requests from their own offices, and the training wing's objection to the containment rule names all fourteen by number.
+- The set takes memory, flattened pleasure and borrowed dreams, each for about a day. The armoury's note carries the costs in one line and adds a second: the Token has never gone to a worker whose own likeness is on the register.
 
 ## Appearance
 
@@ -219,11 +219,11 @@ Viderehan and Ferrehan both lower the gauge and are the only valid approaches; F
 
 **Cost:** The bearer dreams as somebody on the register and wakes still holding it for an hour. Nine bearers, nine accounts, and in every one the dreamer is being looked at rather than looking.
 
-*The Token has been granted nine times, every one to a Warden who refused a likeness request they were entitled to grant. Six of the nine were told informally that they had made a colleague's job harder. The holding records the pattern and will not make it a criterion.*
+*Nine times the Token has gone out, each time to a Warden who refused a likeness request they had the standing to grant. Six of the nine were told off the record that they had made a colleague's work harder. The holding keeps the count and will not turn it into a rule.*
 
 ### M.A.W. Use Notes
 
-The set is built around not using a face: a blade that strikes one named target and no group, a veil that keeps the wearer's own features off every reflective surface on the site, and a token withheld from anyone whose likeness is itself on the register. The armoury's note records that none of this was designed and that the fourth piece attempted here — a lens that resolved a projected face sharply enough to identify the person it was borrowed from — worked exactly as specified and was destroyed within the week.
+Nothing in the set uses a face: a blade that strikes only the named target, a veil that keeps the wearer's features off every reflective surface on the site, and a token withheld from anyone whose own likeness sits on the register. The armoury's note says none of it was designed, and that the fourth piece tried here — a lens that resolved a projected face sharply enough to name the person it came from — did exactly what it was specified to do and was destroyed inside the week.
 
 ### Field Use Record
 
@@ -251,10 +251,10 @@ The set is built around not using a face: a blade that strikes one named target 
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Sky of Borrowed Faces (O-IIIγ-926 [LH]) is logged as a Hazard-Phantasmal manifestation expressing Lament, occupying open Desolate ground at SECTOR-O-926 on a site that four surveys confirm has no history of its own. The air throws images onto whatever surface will hold one — walls, standing water, glass, the flat of a shield — predominantly faces of the Fractured, which move and speak and occasionally extend toward an observer. It has never breached. Its instrument is the surface count on the fixed four-hundred-metre transect: twenty-three at baseline, zero at the floor, three hundred and eleven at the ceiling.
+**Entry 1 — Containment Description** Sky of Borrowed Faces (O-IIIγ-926 [LH]) stands on the register as Hazard-Phantasmal manifestation expressing Lament, occupying open Desolate ground at SECTOR-O-926 on a site that four surveys confirm has no history of its own. The air throws images onto whatever surface will hold one — walls, standing water, glass, the flat of a shield — predominantly faces of the Fractured, which move and speak and occasionally extend toward an observer. It has never breached. Its instrument is the surface count on the fixed four-hundred-metre transect: twenty-three at baseline, zero at the floor, three hundred and eleven at the ceiling.
 
 **Entry 2 — <Likeness Return: One Thousand Three Hundred and Eighteen on the Register, Three Hundred and Fourteen Refusals>**
-The first return under the Rule of the Standing Objector, Year 4238. One thousand three hundred and eighteen people sit on this facility's identification register as Fractured; one thousand and four of them have no living relative with standing to speak for them. Over the nine years before the rule, two thousand nine hundred and six requests were made to use a likeness from the register and one thousand nine hundred and two were granted, every one of them approved by somebody acting in good faith. This year three hundred and eighty-eight requests were made under the rule. The standing objector refused three hundred and fourteen. Seventy-four were granted, of which one hundred and twelve concerned a person with a living relative and were decided by that relative rather than by the objector. The surface count stood at three hundred and eleven in Year 4229, in the quarter the districts carried the recruitment campaign that used six hundred and forty intake photographs. It stood at zero in Year 4237, the first full year of refusals. The count has tracked the likeness column for nineteen years and has never tracked an intake, a death, a ward closure or anything done on the transect.
+First return filed under the Rule of the Standing Objector, Year 4238. One thousand three hundred and eighteen people sit on this facility's identification register as Fractured; one thousand and four of them have no living relative with standing to speak for them. Over the nine years before the rule, two thousand nine hundred and six requests were made to use a likeness from the register and one thousand nine hundred and two were granted, every one of them approved by somebody acting in good faith. This year three hundred and eighty-eight requests were made under the rule. The standing objector refused three hundred and fourteen. Seventy-four were granted, of which one hundred and twelve concerned a person with a living relative and were decided by that relative rather than by the objector. The surface count stood at three hundred and eleven in Year 4229, in the quarter the districts carried the recruitment campaign that used six hundred and forty intake photographs. It stood at zero in Year 4237, the first full year of refusals. Nineteen years of the count run with the likeness column and never with an intake, a death, a ward closure or anything the transect does.
 
 **Entry 3 — <Statement of the Standing Objector>**
 I refuse almost everything and I want it recorded that I know what that costs. I have no relationship with these people. I was appointed. A clerk three corridors from the ward is not a family and I will not pretend to be one, and the correct answer to a request to use a face belonging to a person who cannot be asked, when I cannot know what they would have wanted, is no. So I say no, and the briefings go back to silhouettes, and I have read the induction figures and I know the comprehension score fell nineteen points and has not come back, and I know what a nineteen-point fall means at a cordon. I am not protecting anybody from harm. I am refusing to decide for them. Those are different things and only one of them is mine to do.
@@ -263,7 +263,7 @@ I refuse almost everything and I want it recorded that I know what that costs. I
 Containment of O-IIIγ-926 is a transect discipline in the Desolate and a likeness rule in the registry office. Transect: Viderehan and Ferrehan only, Flerehan and Pugnahan N/A for a Hazard, physical suppression not available; the four-hundred-metre transect walked to its end every sweep whatever is on the surfaces; the count taken by surface and never by image; no image described, transcribed, photographed or named; no halting in front of a single surface; the veil worn by the counter and kept on to the vehicle; the counter carrying no Token; the account given at the marker before the team speaks among itself; faces of the Fractured named as projections rather than persons at the start and the end of the briefing. Registry duties, binding on every office of this facility: **a likeness of a person who cannot consent may not be used unless a named person outside the requesting office has been appointed to object on their behalf, with power to refuse. The refusal is final, is recorded with its reason, and is not reviewable by the office that asked. Where a relative with standing exists, the relative is the objector.** Work response — Viderehan: the transect walked and the surfaces counted, the only approach that has ever produced a finding here (Decrease); Ferrehan: the sweep finished past faces the Warden can name, without stopping (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only: The Standing Objector>**
-The training wing opposed this rule and I have never been able to get round their objection; I have only decided to live on the other side of it.
+The training wing has opposed this rule from the start. Nobody has ever answered their objection, and I have not either; I work past it and write that down here.
 
 Their case: the faces were not decoration. A hazard briefing with a real face on it is attended to and a briefing with a silhouette is not, and we have eleven years of induction comprehension scores that say so without ambiguity. People who had looked at those faces behaved differently at a cordon. The purpose of putting them there was to stop our own staff treating the Fractured as a number, which is the precise failure we photographed the register to prevent. The head of the wing put it in a line I have not been able to improve on: *you are going to protect their dignity by turning them back into silhouettes, which is the only thing that has ever actually been done to them.*
 
@@ -271,7 +271,7 @@ What we have done is make the relative the objector wherever a relative exists. 
 
 One thousand and four people on that register have nobody. For them the decision falls to an appointed clerk who has never met them, who refuses seven requests in ten on the stated ground that he cannot know what they would have wanted, and who is correct. Induction comprehension on casualty handling has fallen nineteen points and has not recovered. I do not know what that costs at a cordon and I am not going to pretend the number is zero.
 
-I want the Year 4229 campaign named here, because the comfortable version of this story has somebody cynical in it and there was not one. Six hundred and forty faces across every district, approved at every stage, designed by people who believed — correctly — that a recruit who has looked at a real face does better work. It was the most effective campaign this facility has ever run.
+The Year 4229 campaign belongs in this file, because the easy version of the story wants somebody cynical behind it and there was nobody. Six hundred and forty faces, every district, signed off at every stage, designed by people who believed — correctly — that a recruit who has looked at a real face does better work. No campaign this facility has run has been more effective.
 
 The ground is the transect. That quarter took the count to three hundred and eleven surfaces, the highest in nineteen years. The first full year of refusals took it to zero. We have never been able to show that a borrowed face harmed the person it was borrowed from. We can show, surface by surface, what it costs them.
 
@@ -293,6 +293,20 @@ Open ground, nothing on it, nothing ever on it. Then a wall, and a face on the w
 **When the entity activates:** The count runs and keeps running. There is nothing to see that you have not already seen; there are simply more surfaces. A fortnight ago an office approved a photograph for a poster, correctly, with every signature in place.
 
 **After departure:** You think about a photograph of yourself that exists somewhere you did not put it. Most people have one and most people name it before the vehicle reaches the gate. The counselling wing logs it and treats it as useful rather than as exposure.
+
+## 상호작용 (Entity Interactions)
+
+The transect is walked end to end and the count is entered by surface, never by face; no second holding has ever been walked onto the grid. The rows below come from the appendix that sorts the 90x holdings by manifestation, each read against its own series — three ways of managing people who are present on something and absent in fact.
+
+**Interaction method:** Establish the transect's own numbers first: surfaces counted, the walk finished before dusk, the one sweep that came near to being abandoned part-walked. Then set the other record's series beside the count and enter the first parting, its reach, what caused it, and whether either series shifted. Re-verify at the next walk.
+
+| What the transect crosses | How the pairing has run | What the walk entered | What the sheet retains |
+|---|---|---|---|
+| **Once Upon** `O-IIIγ-920` | Filed together on faces that are counted. That record counts tellers by name; this one counts surfaces that carry a face and never the face itself. | One review entry; the two counts parted from the first mark and neither column was reconciled. | That the parting is the finding, kept in the review's own figures rather than merged. |
+| **Amnesia** `O-IIβ-914` | Grouped on identity that will not hold still. That record reads forearms where a person cannot answer and matches names off a board; here the faces are borrowed and nothing is asked of them. | Nothing was run. The appendix flagged the two together for the review's eye only. | That the pairing is a filing line with no measurement under it, entered on each repetition. |
+| **Miasma** `C-IVδ-922` | Grouped on grief that is visibly not the witness's own. That record holds a bank of somebody else's weeping; this one shows a walker a surface wearing somebody else's face. | The dwell series and the transect count were laid side by side once and shared only their duration. | That the two are compared on duration alone, noted beside the row as a measure and not a link. |
+
+**Interaction procedure:** Nothing is walked in company on this grid. The comparison is made on paper at the annual review, with the surface count entered first and the other record's figures set beside it untouched; parting, reach, cause and both readings are written into the margin.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -363,11 +377,11 @@ The images sometimes extend toward an observer and contact has been reported, wh
 
 ### What the Count Is Actually Measuring
 
-The surface count was kept for sixteen years before anybody read it against anything off the transect. In Year 4235 a registry clerk set the series beside the office's own likeness-approval ledger — not out of theory, but because she had been asked to carry both to the same meeting — and the long sweeps turned out to be the sweeps that followed quarters in which the facility had used a great many faces belonging to people with nobody to refuse for them. The match has since been made twenty-two times out of twenty-five. It has never been made against an intake, a death in a ward, or a ward closure, all three of which have been tested against the series and move it not at all.
+The surface count ran for sixteen years before anybody set it beside anything off the transect. In Year 4235 a registry clerk put the series against the office's own likeness-approval ledger — not out of theory, but because she had been asked to carry both to the same meeting — and the long sweeps turned out to be the ones that followed quarters in which the facility had used a great many faces belonging to people with nobody to refuse for them. Twenty-two times out of twenty-five the match has held since. It has never held against an intake, a death in a ward, or a ward closure; all three have been set against the series and move it not at all.
 
-The finding reframes the site and the wing has been careful about how it says so. It is not grieving the Fracturing; the series is flat across every Fracturing in nineteen years. It is counting a use. The images are of living people, and the one thing done to them that nobody has asked about is that their faces are at work in this facility's corridors doing jobs they were never consulted on, for purposes they would very likely have approved, decided by people who meant well and were measurably effective.
+The finding moves what the site is, and the wing has been careful about saying so. The Fracturing is not what it grieves; the series is flat across every Fracturing in nineteen years. It is counting a use. The images are of living people, and the one thing done to them that nobody has asked about is that their faces are at work in this facility's corridors doing jobs they were never consulted on, for purposes they would very likely have approved, decided by people who meant well and were measurably effective.
 
-The operational consequence sits outside this file. Nothing done on the transect lowers the count; the only intervention that has ever moved it is a refusal written in a registry office by a clerk with no stake, against a request that was reasonable, well evidenced and good for the work. The wing records this plainly rather than claiming a containment it does not have.
+The consequence that matters sits off the transect. Nothing the walk does brings the count down; the only thing that has ever moved it is a refusal written in a registry office by a clerk with no stake in the outcome, against a request that was reasonable, well evidenced and good for the work. The wing writes that down plainly instead of claiming a containment it does not hold.
 
 ### Accumulation
 
@@ -380,6 +394,7 @@ Exposure layers rather than clearing, and the personnel register follows individ
 - One sweep in five includes a face the Warden can name, and the proportion rises with the count rather than with the Warden's length of service.
 - A Specialist once reported her own face on a wall. She is not on the register. The sweep is on file, unexplained, and has not been repeated.
 - The Year 4220 scheme for logging the images instead of the surfaces ran nine years, produced no finding of any kind, and was withdrawn on the grounds that it had been recording what each Warden brought with them.
+- The transect has been walked at every hour the shift system permits and the count has never moved with the hour; the one variable that has ever moved it is the register's own queue.
 
 ## Document Information
 

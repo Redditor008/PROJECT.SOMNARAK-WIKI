@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per successful work cycle, taken off the plans and never off the structure |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Continuous — it is always building; there is no count to run down |
 | **Tool / M.A.W. grade** | γ · Maul, Mantle, Compass — all three graded and all three issued |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.30 m/s |
-| **Resistance** | 40% against Weight pressure; 30% against other pressure types |
+| **Resistance** | 40% against Weight pressure and 30% against everything else — resistance that lives in the design rather than in the frame |
 | **Activation threshold** | Sorrow Gauge ≥ 75%, or any attempt to complete a structure |
 | **Sorrow Gauge [HP]** | 690/690 |
 | **Han Pressure [ATK]** | 14–32 per hit · Weight |
@@ -81,21 +81,22 @@
 | { *The Blueprint* [**Debuff**] } | "The architect unrolls a blueprint — and the building it shows has no interior. Only walls." | [The Architect's designs impose emptiness; the target feels their own interior hollowing.] | *Target suffers -10 Resolve; they are being redesigned from the inside.* **[10 Weight DMG [Weight]]** | When the target enters the Architect's space. |
 | { *The Load-Bearing Nothing* [**Debuff**] } | "Every structure the architect builds is supported by void — and the void is load-bearing." | [The Architect's hollow construction bears down on the target.] | *Target loses 10 Resolve; the emptiness is structural.* **[10 Weight DMG [Weight]]** | When the target lingers in the construction. |
 | { *The Falling Gargoyle* [**Attack**] } | "A stone face breaks free from the facade — designed to fall, designed to crush." | [A designed piece of architecture detaches and strikes.] | *Inflicts Weight pressure and one heavy, intentional wound.* **[14-22 Weight DMG [Weight]]** | When the Architect is disturbed. |
-| { *The Full Demolition* [**Attack**] } | "The architect gives the order — and every hollow building comes down at once." | [The Architect commands total structural collapse.] | *A heavy Black demolition; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Architect is challenged. |
-| { *The City of Hollow Towers* [**Ultimate**] } | "Blueprints spread across the ground — and everywhere they reach, hollow towers rise." | [The Architect extends its design across the whole field.] | *All in range suffer Weight pressure for three turns of rising hollow towers.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Demolition* [**Attack**] } | "The architect gives the order — and every hollow building comes down at once." | [Every hollow structure in the field takes the order and comes down together.] | *A heavy Black demolition; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Architect is challenged. |
+| { *The City of Hollow Towers* [**Ultimate**] } | "Blueprints spread across the ground — and everywhere they reach, hollow towers rise." | [The plans unroll past the holding, and towers stand up wherever they reach.] | *All in range suffer Weight pressure for three turns of rising hollow towers.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (the crystal plans and the accruing structure, never by posture. It has no face to read and the counselors would prefer nobody tried) and Hollow Architect is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** Read the markers first — the crystal plans, and the structure accruing around them rather than any posture, which is not something this holding has a face to support and not something the counsellors want read. The designation is confirmed against the classification table, positions are taken, and the cycle opens after that.
 2. **Clash:** The crew works from the marked line with Flerehan and Ferrehan only. Pugnahan is prohibited on this holding: its confrontation response is to enclose, and an enclosed worker is a floor extraction measured in hours. Tonnage accruing during the cycle is logged by the clearing tally, not estimated.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not complete or destroy the structures; document their purpose**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not complete or destroy the structures; document their purpose**. What the clause rules out is any finished building: the file closes on a record of what the structures were for, and every wall raised or knocked down on this ground is the rework the clause exists to prevent.
 
 ### Consequences
 
-- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Resolve** shatters into a psychological Fracture—a catastrophic dual failure.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
+- A worker who breaks at the walls pays twice: the Sorrow Gauge climbs while their **Resolve** splits into a Fracture, and both entries are written on one line of the record.
+- Standing near the plan past the recommended cycle calls up the structure's own aftershocks — the hazards the short briefings only gesture at — and the crew leaves with its thinking eroded and its body out of true.
+- Any M.A.W. brought into the rooms is owed a toll as it works: the crystallized sorrow runs back down the frame into whoever holds it, and the armoury ledger keeps that debt under the bearer's name.
+- When the resolution fails, the plan goes on building by itself — the cell is breached, the ground is claimed, and the pace of that claim is not something the estate chose.
+
 
 ## Appearance
 **Primary Form:** A hollow humanoid architect carrying plans made of dark crystal. It builds continuously, but every structure remains unfinished.
@@ -116,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A hollow humanoid architect carrying plans made of dark crystal. It builds continuously, but every structure remains unfinished. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. Posture and distance are logged because on Hollow Architect neither has ever been assumed. |
+| **Position / movement** | Mobile — walks upright, can breach, can pursue. Posture and distance are logged on this file because neither has ever been assumed; the plans are what move first. |
 | **Material / signature** | Weight. Lead-cold, damp, wet stone and old dust; the chamber's floor load reading rises while it works and settles within the hour after clearing. |
 | **Distinctive markers** | The rolled dark-crystal plans, the accruing half-built structure, and the absence of any roof on anything it has ever raised. |
 | **Identification** | Three towers are filed within two codes of this one. Read the designation, not the silhouette. |
@@ -163,7 +164,7 @@ The gauge on this file is the least informative number in the holding. Flerehan 
 
 - **Breach type:** Escape — it leaves the chamber and continues building in the corridor it has reached. In the three recorded escapes it pursued nobody and enclosed two workers who stood still in its line of work.
 - **Containment priority:** Do not force it. Pugnahan is prohibited in breach as in the chamber. Clear the corridor ahead of the work, hold the line, and talk it back; three escapes, three recoveries, no suppression used.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% each cycle it is left to build; falls only when a worker speaks to it from outside the structure.
+- **Sorrow Gauge on breach:** Starts at 40% and climbs 10% for every cycle it is left to build. It falls on one condition only: a worker standing outside the structure and speaking to it.
 
 ## M.A.W. Equipment
 
@@ -173,7 +174,7 @@ The gauge on this file is the least informative number in the holding. Flerehan 
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that flickers with inner light.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, finished dark and heavier than its bulk accounts for, carrying a flicker of inner light when drawn.
 
 **Damage:** Weight 7-12
 **Speed:** 3 (Fast)
@@ -189,7 +190,7 @@ The gauge on this file is the least informative number in the holding. Flerehan 
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
+**Appearance:** a draped mantle of Weight Han-weave, dark as river stone and heavier than any weave, with the faint scent of its place of origin left in the folds.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -207,7 +208,7 @@ The gauge on this file is the least informative number in the holding. Flerehan 
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a compass-charm of Weight Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance:** a compass-charm of Weight Han-steel, dark-grained and a touch too weighty for its size, that warms briefly when sorrow is near.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -227,12 +228,12 @@ The three pieces of this holding are issued against three different jobs: the Ma
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Hollow Architect the recorded cost is that the wielder carries weight for days afterwards and tires early. Two extraction leads have handed it back. |
-| **During use** | Watch for Hollow Architect's toll — the wielder carries weight for days afterwards and tires early. Two extraction leads have handed it back — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | Hollow Architect's cost is continuous rather than occasional: a low constant fatigue that does not clear on rest days. The second worker's call stands against the wielder's. |
-| **After use** | Return the piece and check the sealed baseline: has Hollow Architect's cost — a low constant fatigue that does not clear on rest days — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder and piece, the day's reading, and a baseline written down and lodged with a second worker. On this set the toll is weight carried for days afterwards and early tiring; two extraction leads have already handed theirs back. |
+| **During use** | From the first charge the bearer tires early and the weight does not leave overnight. The second worker logs the hour, and the bearer's own account is taken afterwards and kept apart from it. |
+| **At limit** | The toll here never stops: a low fatigue that does not clear on rest days. On this set the second worker's call stands against the bearer's. |
+| **After use** | Return the piece, open the sealed baseline, and enter whether the fatigue outlasted the rotation. The answer goes in whether or not the bearer agrees with it. |
 
-**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade is not the risk. The damage figure describes what a piece does to a holding; what it does to the person carrying it is a separate account and often the heavier one. A piece rated minor can still take something no figure on the sheet covers.
 
 ## 관찰 기록 (Observation Log)
 
@@ -261,7 +262,7 @@ The three pieces of this holding are issued against three different jobs: the Ma
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Hollow Architect (C-IVγ-255 [WS]) is logged as a Subject-Body manifestation expressing Weight, held at Zone B, Old Lament, behind a marked line and no door. It builds continuously and nothing it raises is ever roofed. The holding's standing instruction is that nothing it starts may be finished by anybody.
+Hollow Architect (C-IVγ-255 [WS]) stands on the register as a Subject-Body manifestation expressing Weight, held at Zone B, Old Lament, behind a marked line and no door. It builds continuously and nothing it raises is ever roofed. The holding's standing instruction is that nothing it starts may be finished by anybody.
 
 **Entry 2 — <Excerpt from Clearing Crew Tally, Year 4238>**
 Cycle total 61 tons, against 44 the previous cycle and 39 the one before. Cleared without ceremony per briefing. The crew notes, as the briefing requires them to note it, that nothing cleared had a roof.
@@ -279,11 +280,11 @@ The Architect works without rest and finishes nothing. Its plans are legible, th
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Hollow Architect; the other feeds it.
+> The Architect's watch comes to one of two endings, and the file keeps the pair separate by what the observer does with the plans: one records what the structures were for, and the other finishes one — or pulls one down — and calls that a result.
 
-| Do the thing on file: Do not complete or destroy the structures; document their purpose. | Improvise something kinder, which is how every failure on Hollow Architect's file began. |
+| Do not complete or destroy the structures; document their purpose, and leave the ground as the survey found it. | Improvise something kinder — finish the tower, clear the rubble, tidy the site, and feed Hollow Architect. |
 |---|---|
-| Pauses construction and accepts shared grief. The sorrow is borne; Hollow Architect is fully recorded. | Builds defensive walls around the worker. The gauge climbs and Hollow Architect withdraws without revelation. |
+| The plans are read and recorded, nothing is built and nothing broken, and the entry closes with the holding's purpose down in writing. | A structure is finished or pulled down; the gauge rises, and the survey closes with the Architect no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -298,11 +299,11 @@ The Architect draws a line and a wall rises. It draws another and a door appears
 
 **When the entity activates:** Activation feels like the room remembering something it had been forced to forget. The Weight surges, the Subject-Body sharpens, and for a moment the containment zone is not a cell but the original wound, reopened.
 
-**After departure:** What remains after the door closes is not fear but weight — a Weight aftertaste that fades slowly, personnel monitored for Fracture risk in the hours that follow.
+**After departure:** The door seals and the pressure comes down, but the watch leaves something behind: Weight in the suit fibres, in the recollection, and in that thin space between thoughts where a Fracture starts.
 
 ### Interaction Pattern
 
-Hollow Architect does not exist in isolation. Its recorded relationships with The Melting Tower, The Grieving Colossus, The Broken Promise should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three holdings sit in the Architect's working range — The Melting Tower, The Grieving Colossus and The Broken Promise — and each is a resonance question rather than an alliance or a standing quarrel. Where a pairing is run, enter what the answer did in sound, movement, temperature, memory pressure, gauge or containment stability, with range, duration and trigger beside it.
 
 **Interaction method:** Record what each one builds, or held, or withdrew, before recording anything about the pair. On this holding the useful question is never whether the two resonate; it is whether the structure in the chamber changed shape while the other file was near, and in which direction the roofline went. The three related files are kept apart on this holding for a specific reason: all three concern buildings, and the wing has twice assigned a crew on the strength of the resemblance and had them apply the wrong Work Type.
 
@@ -311,7 +312,7 @@ Hollow Architect does not exist in isolation. Its recorded relationships with Th
 
 Hollow Architect must be assessed against the files it resembles rather than the files it is filed near. The Melting Tower holds architecture that failed after occupation; this holds architecture that was never occupied. The Broken Promise holds an undertaking withdrawn; this holds an undertaking completed in full and never used. The distinction decides which Work Type is prohibited, and getting it wrong is how the two floor extractions of Year 4236 happened.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| The Architect's neighbour | How the pairing has run | What the survey noted | What the entry carries |
 |---|---|---|---|
 | **The Melting Tower** | Opposed, not kindred: the Tower holds a building that failed after it was lived in; this holds buildings nobody ever entered. | Cycle tonnage in the chamber fell in both recorded proximities and the structure stopped advancing until separation. | Tonnage, advance since last cycle, and whether any structure was roofed. |
 | **The Grieving Colossus** | The Colossus's residue has twice been found set into cleared material from this chamber; the transfer route has never been observed. | Cleared tonnage ran heavy and the crew reported the material wet. Quartermaster's return flagged both quarters. | Composition of cleared material, weight, and whether the transfer was witnessed by anybody at all. |
@@ -356,7 +357,7 @@ Some sorrows mourn what was destroyed. This one weighs what was never credited, 
 - Ferrehan is primary — the long stand inside unfinished work — with Flerehan beside it and Viderehan used to take an intention. The earlier entry naming Viderehan primary has been corrected against the Behavior table. Pugnahan is prohibited.
 - Nothing it has started may be finished by anybody, including by accident. The three escalations on record all followed completion attempts.
 - Clearing is on a fixed cycle, brisk, unexamined, and weighed. Crews are instructed not to look at what they are taking down and are forbidden to apologise to the entity aloud.
-- The Issued Record is a containment condition of this holding and binds every programme this Company cancels.
+- The Issued Record is a containment condition of this holding and binds every programme the Company cancels, whatever it was built for.
 - Intentions are written by two recorders independently and filed unreconciled.
 **Observation Notes:**
 - Cycle tonnage logged at every clearing; cumulative total reported annually in tons. Advances fall in the quarters with the most programmes closed and their output deemed not produced.

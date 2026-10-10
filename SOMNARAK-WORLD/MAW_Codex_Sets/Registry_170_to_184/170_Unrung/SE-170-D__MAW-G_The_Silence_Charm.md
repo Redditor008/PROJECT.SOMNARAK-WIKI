@@ -19,7 +19,7 @@
 | Official name | The Muffled Clapper Brooch |
 | Set | Heard Warning |
 | Type / grade / element | Stigma, pale bell charm / β — Moderate / Void |
-| Slot | Head |
+| Slot | Chest / Brooch |
 | Status | Bearer-bound; warning-custody use only |
 | Known bearer | Specialist Sooah Park |
 | Resting form | A small pale bell with no clapper and a word-shaped gap across its surface. |

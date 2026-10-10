@@ -86,7 +86,7 @@ The bell cannot be “moved to safety.” The tower is part of the entity. Any p
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The Lament’s Requiem | δ | Lament | Piercing sound-blade for marked grief targets | `SE-001-B__MAW-W_The_Laments_Requiem.md` |
+| **Weapon** | The First Dawn Stiletto | δ | Lament | Piercing sound-blade for marked grief targets | `SE-001-B__MAW-W_The_Laments_Requiem.md` |
 | **Suit** | The Lament’s Shroud | δ | Lament | Protection against prolonged toll pressure | `SE-001-C__MAW-S_The_Laments_Shroud.md` |
 | **Stigma** | Lament’s Edge | δ | Lament | Carries a fragment of the bell’s remembrance | `SE-001-D__MAW-G_Laments_Edge.md` |
 
@@ -106,14 +106,15 @@ The Requiem Set does not create silence. Each piece gives its bearer a limited w
 
 ## PAGE 04 — COMPACT EQUIPMENT CARDS
 
-### The Lament’s Requiem
+### The First Dawn Stiletto
 
 | Field | Record |
 |---|---|
-| **Damage** | Lament 10–15 |
-| **Speed / Range** | 3 — Fast / 3 — Medium |
-| **Pattern** | Skewer — up to 3 targets |
-| **Falloff** | 100% → 70% → 50% |
+| **Damage** | Lament 12–18 |
+| **Speed / Range** | 2 — Slow / 3 — Medium |
+| **Pattern** | Wide Arc / Line Resonance |
+| **Coverage** | One corridor line; up to 3 targets linked by a shared grief event |
+| **Falloff** | Primary 100% → first pierced target 70% → second pierced target 50% |
 | **Cost** | 50 Sorrow Echoes |
 | **Primary Price** | The bearer’s own grief becomes audible while the blade is drawn. |
 
@@ -177,3 +178,7 @@ The Bell becomes most dangerous when personnel treat memory as a secondary conce
 **Classification:** Classified
 
 ---
+
+## LINKED-ITEM CATEGORY HOLD — 2026-10-10
+
+The Side dossier keeps the set-level name **Lament’s Requiem Set**; its `SE-001-B` weapon piece is cross-referenced to the First Dawn Stiletto by the linked item record and master registry. That Item Identity table still calls its category `MELEE (Resonating Greatsword)`, while the item heading and eight-inch needle-point appearance, the primary’s SHORT BLADE category, and archetype `MAW-W-001` identify a stiletto. No separate greatsword form is documented. The category discrepancy remains held; this Side card does not select or invent another form.

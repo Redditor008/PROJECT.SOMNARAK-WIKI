@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types |
+| **Resistance** | 25% against Lament pressure; 15% against other pressure types. The second figure is what the watch works with: nothing here strikes a body, and the ward is a reading of how long a Warden keeps pace beside something that is not looking back. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Han Pressure [ATK]** | 10–23 per hit · Lament |
@@ -81,21 +81,21 @@
 | { *The Unseen* [**Debuff**] } | "The shadow stretches behind you — and no one looks at it, ever, and the not-looking is its power." | [The Shadow's invisibility infects the target; they feel unseen.] | *Target suffers -10 Composure; they are being overlooked.* **[10 Lament DMG [Lament]]** | When the Shadow attaches. |
 | { *The Growing Dark* [**Debuff**] } | "The shadow grows — fed by neglect — until it is larger than you, and darker, and no one notices that either." | [The Shadow's overlooked growth makes it enormous; the target is dwarfed.] | *Target loses 10 Composure; they are nothing next to their shadow.* **[10 Lament DMG [Lament]]** | When the target ignores it. |
 | { *The Sudden Notice* [**Attack**] } | "The shadow strikes — and the blow comes from the direction no one was watching." | [An unseen shadow-blow lands.] | *Inflicts Lament pressure and one wound from an angle that should not exist.* **[14-22 Lament DMG [Lament]]** | When the Shadow is finally looked at. |
-| { *The Full Visibility* [**Attack**] } | "The shadow makes itself seen — all of it, at once — and the reveal is devastating." | [The Shadow's sudden visibility is overwhelming.] | *A heavy Deep Blue manifestation; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Shadow is forced into the light. |
-| { *Every Shadow Sees* [**Ultimate**] } | "Every forgotten shadow in the field rises — and they are all enormous, and they are all angry at being ignored." | [The Shadow extends its forgotten-ness across the whole area.] | *All in range suffer Lament pressure for three turns of rising shadows.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Visibility* [**Attack**] } | "The shadow steps out of the shade all at once — every metre of it seen at the same time — and being seen is the blow." | [The shadow's withheld whole appears at once.] | *A heavy Lament surge; the target's Sorrow Gauge climbs 15%.* **[24-36 Lament DMG [Lament]]** | When the shadow is forced into the light. |
+| { *Every Shadow Sees* [**Ultimate**] } | "Every forgotten shade on the way stands up at once — enormous, patient, and offended in a way that has no words in it." | [The shadow's neglect spreads to every unkept route in range.] | *All in range take Lament pressure for three turns of rising shades.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Forgotten Shadow by the shade card and the disused-ways survey, not by the song, which is understood rather than heard and cannot be recorded by any equipment the wing holds, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** Identification is by instrument, not by ear: the shade card grades its depth against the nine-step card and the disused-ways survey fixes where it is walking, while the song it sings is understood rather than heard and cannot be recorded by anything the wing owns. One Warden grades, a second agrees, and nobody writes down who was standing near it.
 2. **Clash:** The worker walks beside it and sings, or does not sing and keeps walking. Nobody blocks its route, nobody names it, and nobody stands between it and the disused way it is following.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Walk beside it and record what it shows**.
+3. **Resolution:** The session ends when a Warden has walked its route beside it to the end of the disused way without naming it and without claiming to know who it was, and the grade and the track are entered. Nothing taken from the shadow has ever reduced it; walking has, and the file is explicit that the walking is the whole of the method.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
-- Forgotten Shadow’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Forgotten Shadow's dossier.
+- A worker who cannot hold against the entity's sorrow becomes a conduit: the pressure erodes their **Clarity**, and what comes back into the Sorrow Gauge is the worker's instability rather than the shadow's, which is why a followed worker is rotated out rather than pressed.
+- The documented effects intensify with duration, and the duration that matters here is the walk: what a brief cycle carries becomes, over a long route, a certainty the worker cannot put down — that they have forgotten something important and cannot say what.
+- Each M.A.W. activation takes from the wielder something the standard grade ledgers cannot enter: composure, personal memories and a portion of bodily strength, recorded against the wearer because there is nowhere else to record it.
+- Without a resolution the sorrow does not dissipate; it leaves the disused ways and walks into occupied districts behind one worker at nine metres, which is the breach behaviour this file keeps its rotation rule for.
 
 ## Appearance
 **Primary Form:** A faceless humanoid shadow walking the Desolate at an even pace, singing something that is understood rather than heard. **Movement:** Mobile on disused ways only; it follows, at a fixed distance, and has never been recorded closing on anybody.
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Forgotten Shadow is recorded as a Subject with Subject-Weight manifestation and Lament elemental expression. The current record places it at The Desolate — mobile; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Read the gauge against the classification. Forgotten Shadow is a Subject with a Subject-Weight manifestation and a Lament expression, and each of those words is doing work: a Subject walks and can breach, a Weight is graded rather than fought, and Lament means the verse is the instrument. Flerehan, sung, is the primary work — it closes and the verse softens, and the yield runs with how long the verse lasts rather than how many cycles were attempted. Ferrehan is the walk itself: the whole route, beside it, without naming it and without claiming to know who it was. Pugnahan is available against a Subject and barred here: it goes heavier and follows, and a shadow that has begun following cannot be settled in the same shift. Viderehan shows the route and who was along it, and the gradings are logged without naming anybody. A stable gauge is not a quiet session; on this file the song is understood rather than heard, and the only thing the log can hold about it is whether it occurred and for how long.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** A falling gauge means the verse is being carried and the walking is being done; the shade itself is unchanged, and the registers behind it are as complete as they were. A rising gauge means the work has made it heavier — somebody interposed, blocked a route, or claimed to know who it was — and the following that results ends when the worker is withdrawn, not when the shadow is contained. Log the card grade, the survey position and the singing duration before the gauge; this file deliberately has no field for melody, for words, or for who was standing nearby.
 ## Breach Behavior
 
 > *"It is off the survey and walking the Mantle road behind Oren. It has not come nearer than nine metres in two hours. Rotate him out."*
@@ -183,9 +183,9 @@ The etched celestial coordinates point toward lost stars outside recorded cartog
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Forgotten Shadow's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — the way the shadow itself works: not by striking, but by being overlooked until the target's own certainty begins to come apart.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder carries the holding's unwept grief — weeping arrives unbidden and out of proportion, the intervals are logged by the second worker, and prolonged use lengthens them.
 
 ### M.A.W. Suit — The Shadow Shroud
 
@@ -195,17 +195,22 @@ Appearance : A curved thirty-two inch cavalry sabre with a pipe-back spine, an e
 
 The sabre delivers fluid, sweeping draw-cuts from horseback or on foot. The blue sorrow mist trails along the cutting path, momentarily blinding the vision of adjacent combatants.
 
+**Resistances:**
+- Lament: 0.4 (Resistant)
+- Grudge: 1.0 (Normal)
+- Void: 1.6 (Weak)
+- Weight: 0.8 (Warded)
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Forgotten Shadow's kind of pressure.
+**Ability:** Wards the Mind against Lament pressure and nothing else: the shroud is cut for the shadow's kind of pressure, and the file records no other use for it.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** the wearer goes numb to minor joys, and because the loss is quiet the second worker logs it rather than the wearer.
 
 ### M.A.W. Stigma — The Shadow Song
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a song-charm of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a song-charm of Lament Han-crystal, cool to the touch and faintly luminous, that runs briefly warm when sorrow is near and is carried at the throat as the holding's own token.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -219,18 +224,18 @@ The sabre delivers fluid, sweeping draw-cuts from horseback or on foot. The blue
 
 ### M.A.W. Use Notes
 
-These pieces are Forgotten Shadow in miniature. What they give is listed above; what they take is the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping, and the Armoury records both against the wielder rather than against the piece.
+The set is the holding in three pieces. What it gives is listed above; what it takes is the toll this file records for the source — weeping without a nameable cause, and a numbness to small pleasures the wearer stops reporting — and the Armoury enters it against the wielder, not against the piece. The issue is one rotation at a time for that reason.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Forgotten Shadow takes: the wielder feels the entity's unwept grief. |
-| **During use** | Every occurrence of what Forgotten Shadow takes (the wielder feels the entity's unwept grief), timed. One is noted; a pattern across a shift ends the use. |
-| **At limit** | The wearer becomes numb to minor joys, and the wielder has stopped reporting it — the usual end point for a Forgotten Shadow piece. The observer calls the limit. |
-| **After use** | Return the piece and check the sealed baseline: has Forgotten Shadow's cost — the wearer becomes numb to minor joys — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, and a dated baseline against the toll this file records for the source: weeping the wearer cannot account for, sealed and held by the second worker. |
+| **During use** | Every occurrence is timed: the wearer's eyes filling without a cause they can name. One is noted; a pattern across a shift ends the use, and the second worker keeps the times. |
+| **At limit** | The wearer is numb to minor joys and has stopped reporting it, which on this piece is the limit rather than a settling-in. The observer calls the limit, and the call stands. |
+| **After use** | Return the piece and open the sealed baseline: has the flatness outlasted the rotation? The entry is made either way, and where it has not lifted, the piece is not reissued to that wearer. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Field performance and what a person pays for it are different axes. A β set that performs to specification can still return a wearer who weeps without a cause and cannot taste small pleasures, and on this holding the rotation is set from the cost column rather than from the grade.
 
 ## 관찰 기록 (Observation Log)
 
@@ -259,7 +264,7 @@ These pieces are Forgotten Shadow in miniature. What they give is listed above; 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Forgotten Shadow (N-IIβ-453 [LS]) is logged as a Subject-Weight manifestation expressing Lament, unenclosed and mobile in the Desolate. It keeps to ways nobody maintains, it deepens in colour near people nobody holds in mind, and it sings in a way that is understood and cannot be recorded.
+Containment description for N-IIβ-453 [LS], the holding called Forgotten Shadow: a Subject-Weight manifestation expressing Lament, unenclosed and mobile in the Desolate. It keeps to ways nobody maintains, it deepens in colour near people nobody holds in mind, and it sings in a way that is understood and cannot be recorded.
 
 **Entry 2 — <Excerpt from Shade Card Readings, Year 4238>**
 Mean shade 5.6 on the nine-step card across the watch, against 4.4 and 3.1 in the two preceding years. Depth is graded against the card and logged without naming anybody in the vicinity, which is a standing provision of this holding.
@@ -277,9 +282,9 @@ Four settlement registers are bound into the commissioning file, complete for th
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Forgotten Shadow; the other feeds it.
+> What the observing worker is asked to do at the close of contact: walk beside it and record what it shows, or substitute their own judgement.
 
-| Walk beside it and record what it shows. | Substitute your own judgement, which on Forgotten Shadow has never yet cost less than the condition. |
+| Walk beside it and record what it shows — its whole route, without naming it and without claiming to know who it was. | Substitute your own judgement, which on Forgotten Shadow has never yet cost less than the condition. |
 |---|---|
 | Moves closer and sings a softer verse. The sorrow is witnessed; Forgotten Shadow is fully recorded. | Grows heavy and follows aggressively. The gauge climbs and Forgotten Shadow withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -300,7 +305,7 @@ A shadow on a cart way that has not carried a cart in thirty years, singing some
 
 ### Interaction Pattern
 
-Forgotten Shadow does not exist in isolation. Its recorded relationships with The Forgotten Soul, The Wandering Trace, The Drift Fog should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Forgotten Shadow is filed beside three holdings and shares no mechanism with any of them: a soul whose name was taken out of a record, a trace that carries the song past the limit of sight, and a fog in which nobody who has not already looked can see it. When one is brought near, the watch records what changes in the shade grade, the survey track and the duration of the singing — one card between two Wardens — and no person present is named in any of it.
 
 **Interaction method:** Card grades before, during and after, taken by the same Warden with the same card, and both tracks plotted on the disused-ways survey. Nobody present is named in any of it.
 
@@ -309,7 +314,7 @@ Forgotten Shadow does not exist in isolation. Its recorded relationships with Th
 
 Forgotten Shadow must be kept distinct from the other absences on the register. Nemo, the Forgotten Name, the Forgotten Soul and Redacted are all people an office removed from somewhere they had been written down. This one was never written down at all. Nobody erased him; nobody ever entered him, and the registers are intact and complete and simply do not contain him.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
 | **The Forgotten Soul** | That one had a name taken out of a record. This one was never put into one, and the distinction holds in the field: the Soul darkens at archives, the Shadow does not. | Shade grades rise in both while within sight of each other; the tracks do not converge and never have. | Both tracks on one survey sheet, with grades timed together. |
 | **The Wandering Trace** | The Trace carries the silent song along the old ways past the limit of sight, and people miles off have reported understanding it. | Range of comprehension extends roughly fourfold; shade grade unchanged. | Furthest point at which the song was understood, and by whom, with no names recorded. |
@@ -361,9 +366,9 @@ The rule is right. The burned book was right. The shadow is what the right answe
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Two figures govern this record and only one of them can be held at all. The shade grade can: 3.1, then 4.4, then 5.6 across the quarterly series, graded against a nine-step card by two Wardens who must agree. The quantity behind it cannot: the grade tracks the number of people who did paid work on Company premises in the quarter and appear in no Company document, obtained as tokens issued less tokens ever presented, because there is by design no way to count persons at all. Read the grade against the Day Token return rather than against the weather or the Tide, and read the track against the disused-ways survey; where a reading and a register disagree, the register is not corrected, because the absences in it are the finding. Never add a field for who was standing near it: the card, the survey and the duration are the whole of the log, deliberately.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** At every watch: the card grade at each half-hour with two Wardens agreeing, the track plotted on the disused-ways survey, the duration of the singing, and whether the worker was followed off the route. Any climb above the quarterly mean, or a track leaving the survey, clears the way ahead, withdraws the followed worker, and bars any attempt to interpose. The review records grades and routes and no names, and it closes nothing: the registers are complete and the absences are the point.
 ## Watch Record
 
 ### It Sings Without Sound

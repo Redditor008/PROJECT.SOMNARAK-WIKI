@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Resonant Echo-Orrery
+# M.A.W. WEAPON — The Muffled Resonance-Bell
 
 > *“It creates silence so a warning can be separated from the noise. The bearer pays by entering that silence too.”*
 
@@ -17,8 +17,9 @@
 | Field | Record |
 |---|---|
 | Official name | The Muffled Resonance-Bell |
+| Descriptive alias | The Silence Hammer |
 | Set | Heard Warning |
-| Type / grade / element | Weapon / β — Moderate / Void |
+| Type / grade / element | Weapon (RELIQUARY — Censer/Bell) / β — Moderate / Void |
 | Status | Active; alert-partner issue required |
 | Maximum amount | 4 — Limited |
 | Current bearer | Sentinel Harin |
@@ -41,9 +42,9 @@
 
 ## Appearance
 
-Appearance : A hovering mechanical assembly of five polished brass planetary globes mounted on curved wire arms, revolving in silence around a central quartz crystal sphere.
+Appearance : A Void Han-glass hammer with a bell-shaped hollow inside its head; no clapper moves or sounds while it rests.
 
-Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat. Aligning all five planets unleashes a focused harmonic cone that shatters crystalline structures.
+A direct strike releases a single pale impact circle that swallows nearby sound within a defined space around the selected warning-pressure target.
 
 ## CORE STATISTICS
 
@@ -54,9 +55,9 @@ Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat
 | Pattern / coverage | Single / one designated target |
 | Falloff | None; 100% to the selected target only |
 | Echo cost | 25 Sorrow Echoes to register and bind |
-| Operational cost | The bearer cannot hear while the silence field persists. |
+| Operational cost | The bearer cannot hear while the silence field persists; post-use hearing is checked at one hour and one day. |
 | Binding cost | External alert partner holds authority to end the field. |
-| Recovery | Hearing check and warning log are mandatory after impact. |
+| Recovery | Hearing checks at one hour and one day, plus a warning log, are mandatory after impact. |
 
 ## COMBAT FILE
 

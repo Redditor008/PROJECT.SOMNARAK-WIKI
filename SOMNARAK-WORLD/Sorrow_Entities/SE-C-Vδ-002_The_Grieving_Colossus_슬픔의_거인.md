@@ -278,7 +278,7 @@ Each Mourning piece is an extension of the holding rather than equipment. It per
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Grieving Colossus (C-Vδ-002 [WS]) is logged as a Subject-Body manifestation expressing Weight. The Colossus formed from the unmourned dead of early Zone D—workers, settlers, and dreamers who died without anyone to remember them. Held at Zone D — wanders freely; uncontained landmark. The Colossus is a permanent feature of Zone D rather than a conventional breach risk.
+The Grieving Colossus (C-Vδ-002 [WS]) is a Subject-Body manifestation expressing Weight, and the Colossus formed from the unmourned dead of early Zone D — workers, settlers, and dreamers who died without anyone left to remember them. Held at Zone D — wanders freely; uncontained landmark. The Colossus is a permanent feature of Zone D rather than a conventional breach risk.
 
 **Entry 2 — <Excerpt from Field Log, Year 4232>**
 Slow migration through Zone D; the R.D. tracks and redirects construction around its path. Tears expand Zone D and create new structures; witnesses experience involuntary mourning. Buildings formed from its tears are beautiful, stable, and emotionally heavy.

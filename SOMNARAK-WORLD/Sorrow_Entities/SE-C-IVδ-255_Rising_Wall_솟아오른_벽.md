@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Lament pressure; 35% against other pressure types |
+| **Resistance** | 45% against Lament pressure; 35% against other pressure types. Nothing is rated against the enclosure, which is not pressure: the Wall has no surface and strikes nobody, and it closes around a worker by growing, so the only defence on record is a marked line, a measured clearance and one trained voice |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 919/919 |
 | **Han Pressure [ATK]** | 23–50 per hit · Lament |
@@ -81,18 +81,18 @@
 | { *The First Brick* [**Debuff**] } | "A brick appears at your feet — then another on top of it — the wall is building itself around you." | [The Wall begins rising; the target is being enclosed.] | *Target suffers -10 Composure; the wall is climbing.* **[10 Lament DMG [Lament]]** | When the target stands still. |
 | { *The Rising Horizon* [**Debuff**] } | "The wall grows past your head — and the sky is disappearing behind it." | [The Wall's growth obscures the target's view; the world shrinks.] | *Target loses 10 Composure; the wall is higher than they can see.* **[10 Lament DMG [Lament]]** | When the target fails to climb. |
 | { *The Toppling Brick* [**Attack**] } | "A brick from the top of the rising wall shakes loose — and the fall is a long one." | [ A brick drops from the growing Wall.] | *Inflicts Lament pressure and one heavy, falling wound.* **[14-22 Lament DMG [Lament]]** | When the Wall is shaken. |
-| { *The Full Ascent* [**Attack**] } | "The wall reaches its full height — and then curves inward, closing like a fist." | [The Wall completes its growth and seals over the target.] | *A heavy Deep Blue enclosure; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Wall is overloaded. |
-| { *The Walled City* [**Ultimate**] } | "Walls rise everywhere — around every person — until the whole field is divided into sealed cells." | [The Wall extends its growth across the entire area.] | *All in range suffer Lament pressure for three turns of rising walls.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Ascent* [**Attack**] } | "The Wall finishes growing, and what it encloses is not a room but the space a person was standing in." | [The growth completes around the target and the structure becomes an enclosure.] | *A heavy enclosure of pressure; the target's Sorrow Gauge surges 15%, and the height is retained after the watch whether or not anybody is inside.* **[24-36 Lament DMG [Lament]]** | When the Wall is overloaded. |
+| { *The Walled City* [**Ultimate**] } | "Every grief in the district gets a wall of its own, and nobody can reach anybody through them." | [The Wall's growth extends to every mourner in range at once.] | *All in range suffer Lament pressure for three turns, each of them enclosed with their own remembering and no way to say it to another person.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (personnel should identify the entity by its physical or environmental markers before relying on emotional impressions) and Rising Wall is confirmed against the designation; positions are taken and the cycle is opened.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Rising Wall's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Patient endurance and honest acknowledgment**.
+1. **Tension:** The markers are the pressure and its height: personnel identify the holding by the standing column that bends the air into the outline of a person, never by an emotional impression, because the pressure acts on whoever is grieving and an impression is not a measurement. The clearance above the Wall is taken against the marked face before anybody enters, the station time beneath it is capped, and the spotter — a trained stranger, not the worker's regular partner — is named on the sheet before the cycle opens.
+2. **Clash:** The work is being lower than the Wall and staying that way: Ferrehan outlasts the pressure, Flerehan draws the reach and brings the height down, Viderehan returns structure and leaves the level where it was, and Pugnahan is prohibited on the row. One voice speaks; supervisors, commanders and everybody else stay silent, and the silence is not discretionary.
+3. **Resolution:** The watch closes in containment, in retreat, under management, or by the suppression condition: **Patient endurance and honest acknowledgment** **Patient endurance and honest acknowledgment** — the pressure outlasted rather than answered, the one-sided remembering acknowledged plainly, the height logged against the marked face at entry and exit, and the enclosure, if one has begun, talked down by one voice along a marked line.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.
+- A worker who holds the pressure without releasing it carries it out of the chamber: the file's standing consequence is emotional pressure building in crews who work beneath the Wall, which is why station time under it is capped, logged by the spotter, and never extended for any reason, including a good one.
 - Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
 - The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
 - If the resolution condition is not fulfilled, Rising Wall reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Rising Wall is recorded as a Subject with Subject-Weight manifestation and Lament elemental expression. The current record places it at Zone D, Mantle Commons; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+**The table is read against the clearance, never in place of it.** Flerehan lowers the Wall and draws the reach; Ferrehan lowers it by outlasting the pressure without answering it; Viderehan holds the level exactly where it was and yields the structural material, which is the only approach on this holding that returns anything the wing can file; Pugnahan hardens it and is prohibited outright, because a hardened Wall cannot be talked down and has to be waited out. Ceiling height is measured above the Wall before entry, station time beneath it is capped and logged, and the spotter is a trained stranger rather than the worker's regular partner — three rules the holding wrote after the enclosures, not before them.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** A falling reading shows in two places at once: the height against the marked face comes down, and the Wall reaches toward the worker rather than enclosing them. That reach is what the counsellors watch most closely, because it is gentle and because the origin is a citizen who waited for a love that never answered. A rising reading shows as height retained after the cycle and as a hardening no voice can talk back down; the file's sharpest instruction is that an enclosure is talked down by one voice and that nobody else contributes, a rule written after a senior officer intervened with every good intention and made the second incident unworkable.
 ## Breach Behavior
 
 > *"Rising Wall has broken free. Hunts personnel indiscriminately."*
@@ -153,17 +153,17 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Rising Wall breaks free and stalks the corridors on foot. It hunts personnel indiscriminately. |
-| **Effect** | Waves of cold grief wash over personnel, draining composure. |
-| **Secondary Effect** | A keening wail that fractures emotional stability. |
-| **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
-| **Escalation** | Each turn free, Composure drain +5 until suppressed. |
+| **Movement** | It walks the corridors on foot with waves of cold grief running ahead of it, and it is not looking for anybody in particular: it goes toward wherever there is grief to stand beside, which is why the response is distance and a held cordon rather than interception, and why interception at close range is forbidden — an enclosure begun in a corridor is an enclosure without a marked line. |
+| **Effect** | Cold comes off the Wall in waves and settles into whoever is nearest; composure drains at the rate of the grief it has found rather than at a fixed figure. |
+| **Secondary Effect** | A keening carried on the cold, heard by everybody inside the corridor and by nobody outside it — it takes the steadiness out of a room before it takes anything else. |
+| **First Target** | Not the nearest person: the one whose grief is loudest to it — which is why the cordon moves people out of whatever it is approaching rather than putting anybody in its way. |
+| **Escalation** | Every turn it is left standing beside grief, the cold extends and composure drains; an enclosure begun without a marked line is the failure the standing order names. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Breach type:** Escape. It leaves the Commons on foot and is recorded moving toward the source of grief in the building rather than toward people as such; it has injured nobody across every event on file and is rated Critical anyway, because what it leaves behind is an enclosure that has to be waited out.
+- **Containment priority:** Distance, a held cordon with the Rising Requiem at the line, and the clearance measurement taken at whatever ground it has reached; personnel are moved out of whatever it is approaching rather than put in its way, and no order to intercept at close range is to be carried out.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% a turn while the Wall stands beside somebody who is grieving, and falls 10% the turn it is talked down by one voice along a marked line — the intervention the wing's standing order strips of rank, so that a commander and a first-year worker are equally silent while the spotter speaks.
 
 ## M.A.W. Equipment
 
@@ -173,7 +173,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that quivers when raised.
+**Appearance:** a slender blade of Lament Han-crystal that hums faintly when raised and carries a note that changes with the height of the Wall in front of it.
 
 **Damage:** Lament 10-15
 **Speed:** 3 (Fast)
@@ -181,15 +181,15 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Rising Wall's lament signature in the strike.
+**Ability:** Lament damage to the Mind — emotional stability and the will to keep standing at a line — carried in the strike as this holding's signature. What it opens in a target is the burden of a shared past the other party has released, delivered with the same perfect fidelity the bearer retains everything else.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The bearer retains, perfectly and without decay, every detail of people who have stopped thinking about them — and the counsellors screen for it at ninety days, because the bearers describe it as pleasant.
 
 ### M.A.W. Suit — The Rising Shroud
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a shroud of Lament Han-silk in undyed grey, cold to the hand, that keeps the crease of whoever last stood at the marked line and does not warm while it is worn.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -199,7 +199,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Rising Wall's kind of pressure.
+**Ability:** Lament pressure turned aside from the Mind, which is the only pressure this holding applies and is applied as a wait rather than a blow. Worn against Rising Wall's kind of pressure, and no help whatever against the enclosure: a worker who is being closed around is talked out, not equipped out.
 
 **Cost:** The wearer becomes numb to minor joys.
 
@@ -207,17 +207,17 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a pendant of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a pendant of Lament Han-crystal on a short wire, carrying a weight that does not match its size and turning cold against a wearer who is being remembered by nobody.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 while working the Mantle Commons holding, and nothing elsewhere; the pendant's other property is the one the file warns about — it lets the wearer see erased emotional history, and what it takes for that is the ability to lie about attachment, which the wing's counsellors treat as a loss and the bearers describe as a relief.
 
 **Ability:** Allows the wearer to see erased emotional history.
 
 **Cost:** The wearer cannot lie about attachment.
 
-*The Rising Stigma is not manufactured and cannot be requisitioned. It has been conferred four times, in every case on a spotter who talked a worker out of an enclosure and declined to be named in the incident report.*
+*The Rising Stigma is never manufactured and no one may requisition it. It has gone out on four occasions, every one of them to a spotter who talked a worker out of an enclosure and declined to be named in the incident report — a refusal the file records as the qualification rather than as modesty, since a spotter who wants the credit for the talking is a spotter who will talk too often.
 
 ### M.A.W. Use Notes
 
@@ -229,10 +229,10 @@ Each piece of this entity's equipment is an extension of one-sided remembering r
 |---|---|
 | **Before use** | Wielder and grade; gauge; the operator's own state in their words; piece condition; objective; the clearance measurement above the Wall; the capped station time; and the name of the trained spotter, confirmed as not being the operator's regular partner. |
 | **During use** | Contact time, Wall height at each interval, any lowering or reaching, the operator's position relative to the marked line, the first cost, and any second voice entering the chamber. |
-| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the limit was called by the operator or by the spotter. On this holding it is called by the spotter in almost every case, and the file treats that as the system working. |
+| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the limit was called by the operator or by the spotter — on this holding it is called by the spotter in almost every case and the file treats that as the system working rather than as a failure of the operator. The bearer's retaining of detail about people who have withdrawn from their life is screened at ninety days, because it presents as a talent for remembering rather than as a cost. |
 | **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, and a counsellors' review at ninety days for retention of detail about people who have withdrawn from the bearer's life. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade describes what a piece does to a holding and says nothing about the price paid by the person holding it. The cost of this set runs one way and is the same for every bearer: you keep, in perfect detail, everyone who has stopped thinking about you, the counsellors screen for it at ninety days, and the bearers call it a gift, which is why the screen is not optional and why the set is issued to a spotter rather than to whoever wants it.
 
 ## 관찰 기록 (Observation Log)
 
@@ -250,9 +250,9 @@ Each piece of this entity's equipment is an extension of one-sided remembering r
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Rising Wall as a Subject with Subject-Weight manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone D, Mantle Commons. |
+| **Initial exposure** | Height against the marked face before anything else is measured, then the clearance above the Wall, the station time the spotter has authorised, and the name of the spotter confirmed as not the worker's regular partner. The record the holding keeps is a series and not a reading: the reconstruction has gathered 340 structural particulars in 19 years, 61 of them testable, 58 confirmed; the Wall has gained height in every year on file and has never been recorded falling; and one enclosure on the register ran 19 minutes to shoulder height before a single spotter talked the worker out along the line in 11 more. |
 | **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | Activation is the pressure arriving and the height beginning to move: the observer logs the height at each interval, whether the Wall is lowering and reaching or hardening against somebody, and the number of voices in the chamber — one is the rule and a second voice is the escalation, whoever it belongs to. Across a breach the record is set against the file's own series: 44 of the 47 testable disagreements in which the Wall contradicts the municipal register are resolved in the Wall's favour, a control taken over 3 districts that were never erased shows it agreeing with the register every time, and the two blind confirmations were obtained by engineers who had never heard of the holding. |
 | **Post-contact review** | Record what changed, what held, and the detail hardest to describe. On this holding the report is incomplete if it omits the height at entry and exit, the number of voices in the chamber, and anything structural the worker received under Viderehan, which goes to the architectural liaison in the same shift and not later. |
 
 **Observation method:** Record the Wall's height against the marked face, any lowering or reaching, the sensation reported by the worker, the worker's distance from the marked line, and the condition that ends the encounter — the worker out, the enclosure not completed. Form follows sorrow here and not purpose; nothing the Wall does is aimed at anybody.
@@ -279,9 +279,9 @@ A standing column of pressure in the shape of a person, rising from the ground o
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Rising Wall; the other feeds it.
+> Two ways to end the same watch. One is the resolution on file — patience and a plain acknowledgment, with the Wall talked down instead of broken. The other is the response the holding looks like it is asking for, and the file has two incidents to show what it costs.
 
-| Patient endurance and honest acknowledgment — as written, without improvising. | Depart from the condition for good reasons, as Rising Wall's record shows people do. |
+| Do the thing on file: stay at the marked line, measure the clearance, let the pressure come and outlast it, and acknowledge the one-sided remembering plainly rather than arguing with it. | Answer pressure with pressure instead — Pugnahan, an order to intercept, or a command voice in an enclosure — on a holding where every approach of that kind has hardened the Wall and made the enclosure unworkable. |
 |---|---|
 | The wall lowers and reaches toward the worker. The sorrow is witnessed; Rising Wall is fully recorded. | It hardens against aggression. The gauge climbs and Rising Wall withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -302,14 +302,14 @@ Pressure rises beside you and becomes a figure. The Wall remembers the face you 
 
 ### Interaction Pattern
 
-Rising Wall does not exist in isolation. Its recorded relationships with The Vanished Wall, The Memory Well, The Smothering Mother should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Rising Wall is filed beside the three records the Commons will support, and none of them is an alliance. The Vanished Wall preserves a boundary that was removed; The Memory Well holds what people could not keep; The Smothering Mother recognises love that has become confinement, which is the same failure seen from the other side; and The Redcage has never been observed in the same district at all. Each relation is entered with what the archive actually has, and the file treats a pairing that produced nothing as the ordinary outcome here rather than as a failed watch.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish each holding alone across a full session before any pairing — this one's reading is a height, and height is only meaningful against a clearance taken on the same ground. Then log the first shared change with its range, duration and trigger, the height in both holds before and after, the number of voices in the chamber, and whatever remains once the two are separated. Re-verify each cycle: a Sorrow Tide, an Ordeal or a transformation has reversed a settled dynamic in the Commons before, and the file declines to treat any pairing here as a law.
 
 
 ### Entity Interaction Record
 
-Rising Wall must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The file sets Rising Wall beside the records below because the Commons is read as one place, not because these four belong together. The relations are filed as contacts and not as alliances: a boundary that was erased, a well that keeps what was not said, a love that became confinement, and one hold with no observed contact at all. The rules are the same for all four — solo baseline first, both sheets kept, and a null entered in full, since on this holding the commonest finding is that nothing moved.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -317,7 +317,7 @@ Rising Wall must be assessed as part of an entity network, not as an isolated pr
 | **The Memory Well** | Draws erased memories from the Well. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Smothering Mother** | Recognizes love becoming confinement. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Pair only with both holds baselined within the cycle, the clearance measured at both, the spotter list consulted before the approach and the infirmary officer free to stop it. Record the first shared change with its range, duration and trigger, the height in both figures, the number of voices in the chamber, and whether anything structural was returned under Viderehan — structural material goes to the architectural liaison in the same shift and not later, and a pairing that produced none is entered as a null and not as a failure.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -327,9 +327,9 @@ The love was real — mutual, for a time, the kind of love that builds a life ar
 
 The asymmetry grew. She remembered; he did not. She carried the full weight of what they had been; he carried none of it. And the remembering — her one-sided, perfect, faithful remembering of a person who had forgotten she existed — accumulated. It had nowhere to go. He could not receive it (he had forgotten). She could not set it down (she could not forget). So it rose. The un-received remembering, piling higher with every perfectly-recalled detail he could no longer share, built itself into a structure between them: a wall, rising, made entirely of the memory of a love that one person still held and the other had released.
 
-Rising Wall is that wall. Subject-Weight, Lament-element: the figure of a one-sided remembering so heavy and so un-received that it became a barrier between the one who remembered and the one who forgot. It rises still — because she has not stopped remembering and he has not started, and the asymmetry, uncorrected, builds the wall higher with every passing year.
+Rising Wall is that wall. It carries a Subject-Weight manifestation in the Lament element: the figure of a one-sided remembering so heavy and so un-received that it became a barrier between the one who remembered and the one who forgot. It rises still — because she has not stopped remembering and he has not started, and the asymmetry, uncorrected, builds the wall higher with every passing year.
 
-Those who come near the Rising Wall feel the burden of remembering someone who does not remember you — the specific heaviness of carrying a shared past alone, of holding a love the other has released, of building, in the solitude of perfect recall, a wall between yourself and the one who forgot.
+Approach the Rising Wall and the burden of remembering someone who does not remember you comes with it — the specific heaviness of carrying a shared past alone, of holding a love the other has released, of building, in the solitude of perfect recall, a wall between yourself and the one who forgot.
 
 Some sorrows mourn a loss. Rising Wall mourns an asymmetry — the love that one person kept and the other let go, preserved as a wall that rises between the one who remembers everything and the one who remembers nothing, higher every year, built by the faithful, one-sided, un-received recalling of a bond that only one of them is still carrying.
 ## 증언 (Testimonium) — The Testimony
@@ -430,9 +430,9 @@ In the forty-sixth year a descendants' association applied for rectification of 
 
 The facility opposed the application. Its submission states that the material is derived from an uncharacterised Sorrow Entity by a method that has not been validated for evidential purposes, that it has not been subjected to independent audit, and that it would be unsafe for a tribunal to act on it. Every sentence of that is true. **The application failed for want of evidence.** It did not fail on its merits, which were never reached.
 
-The objection is minuted at the forty-sixth review and at each of the five since, raised by the architectural liaison and supported by the holding's senior spotter. It holds, first, that the facility certified one dataset as reliable enough to dig on and unsafe for a tribunal to look at, within four years, and that while each certificate is defensible on its own standard, they cannot both be the institution's view of the material, and the institution has never been asked which one is. Second, that the opposition was decisive rather than incidental — the association had nothing else, the facility knew that when it filed, and the submission's final paragraph says so. Third, that the holding grows around mourners, that the people who would have mourned this district are precisely the people the register records as never having been there, and that the facility's position therefore requires it to say, in the same file, that the Wall remembers them accurately and that there is no one for it to be remembering.
+The architectural liaison has entered that objection at the forty-sixth review and at each of the five since, and the holding's senior spotter has seconded it. It holds, first, that the facility certified one dataset as reliable enough to dig on and unsafe for a tribunal to look at, within four years, and that while each certificate is defensible on its own standard, they cannot both be the institution's view of the material, and the institution has never been asked which one is. Second, that the opposition was decisive rather than incidental — the association had nothing else, the facility knew that when it filed, and the submission's final paragraph says so. Third, that the holding grows around mourners, that the people who would have mourned this district are precisely the people the register records as never having been there, and that the facility's position therefore requires it to say, in the same file, that the Wall remembers them accurately and that there is no one for it to be remembering.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the forty-seventh year at a clerk's time and a bound copy — deposit of the reconstruction with the record office as a non-conclusive annotation, contradicting nothing, correcting nothing, seeking no rectification, simply filed alongside so that it is not only the facility that has it — and that it has not been laid before the board in five years. And it records the sentence the liaison asked to have entered verbatim, which now stands on the reconstruction's title sheet:
+The minute upholds the objection on all three of its heads, and no correction is entered against any of them. It sets down that a remedy was costed in the forty-seventh year at a clerk's time and a bound copy — deposit of the reconstruction with the record office as a non-conclusive annotation, contradicting nothing, correcting nothing, seeking no rectification, simply filed alongside so that it is not only the facility that has it — and that it has not been laid before the board in five years. The liaison's sentence, taken down word for word at her request, now stands on the reconstruction's title sheet:
 
 *We dig by it and we will not file it, and the register will go on being what the district was, and the only thing in this city that remembers otherwise is standing in the Commons getting taller.*
 
@@ -445,8 +445,8 @@ The minute records the objection as **correct in all three parts**. It records t
 
 ### Registry Trivia
 
-- **Classification detail:** Rising Wall is a Subject with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is Zone D, Mantle Commons.
+- **Classification detail:** Rising Wall files as a Subject; its coherence is Entity (IV) at Critical (δ) potency.
+- **Field detail:** Element Lament, registered to Zone D at the Mantle Commons, where it stands without foundation and has never been recorded falling. Its height is taken with a plumb line against the chamber's marked face — the only measurement the holding yields — and 19 years of watches have not produced a single fall.
 - **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
 - **Record detail:** Among Subject-Weight holdings it is distinguished by producing a verifiable historical dataset as a by-product of ordinary observation work. Everything difficult in the three sections below follows from that dataset being correct and from the one office that could receive it being forbidden to.
 - **Containment detail:** Containment here is a measured clearance, a capped station time, a marked line on the floor and one trained voice. There is no barrier, there has never been one, and the file records that a barrier would be a thing for the Wall to rise against.

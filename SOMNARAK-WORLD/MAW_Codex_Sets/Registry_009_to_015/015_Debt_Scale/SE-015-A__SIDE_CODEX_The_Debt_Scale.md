@@ -75,7 +75,7 @@ The Scale may be impartial in measurement and still be used unjustly. Every offi
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The Balance Lens | β | Void | Focuses debt readings into single-target identity pressure | `SE-015-B__MAW-W_The_Balance_Lens.md` |
+| **Weapon** | The Balance Projector | β | Void | Focuses debt readings into single-target identity pressure | `SE-015-B__MAW-W_The_Balance_Lens.md` |
 | **Suit** | The Balance Veil | β | Void | Protects the wearer from being consumed by a reading | `SE-015-C__MAW-S_The_Balance_Veil.md` |
 | **Stigma** | The Balance Pendant | β | Void | Displays another person’s measured burden | `SE-015-D__MAW-G_The_Balance_Pendant.md` |
 
@@ -91,13 +91,14 @@ The Scale may be impartial in measurement and still be used unjustly. Every offi
 
 ## PAGE 04 — COMPACT EQUIPMENT CARDS
 
-### The Balance Lens
+### The Balance Projector
 
 | Field | Record |
 |---|---|
-| **Damage** | Void 5–9 |
-| **Speed / Range** | 2 — Normal / 2 — Short |
-| **Pattern** | Single |
+| **Damage** | Void 8–14 |
+| **Speed / Range** | 2 — Slow / 4 — Long |
+| **Pattern** | Precision Shot / Equalizing Bolt |
+| **Target Coverage** | One designated target at long range |
 | **Cost** | 25 Sorrow Echoes |
 
 ### The Balance Veil

@@ -28,7 +28,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 per successful work cycle, counted off the shelf-temperature drop rather than the fire itself |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Grudge pressure; 35% against other pressure types |
+| **Resistance** | 45% against Grudge pressure and 35% against other types — a fire that gives ground slowly and only where the room lets it |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 846/846 |
 | **Han Pressure [ATK]** | 29–62 per hit · Grudge |
@@ -81,21 +81,21 @@
 | { *The First Spark* [**Debuff**] } | "A book ignites — and the smoke carries the knowledge it held, now unreachable, now angry." | [The Library's burning releases resentment of forgotten knowledge.] | *Target suffers -10 Resilience; the lost knowledge weighs on them.* **[10 Grudge DMG [Grudge]]** | When the target enters the Library. |
 | { *The Spreading Fire* [**Debuff**] } | "The flames jump shelf to shelf — and each burning book screams as its contents are lost forever." | [The Library's fire spreads; the target hears every page dying.] | *Target loses 10 Resilience; the destruction of knowledge is unbearable.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
 | { *The Burning Page* [**Attack**] } | "A page, aflame, flies free — sharp, hot, and carrying the last words it will ever hold." | [A burning page strikes the target.] | *Inflicts Grudge pressure and one searing wound of lost words.* **[14-22 Grudge DMG [Grudge]]** | When the Library is disturbed. |
-| { *The Full Inferno* [**Attack**] } | "The entire library erupts — every book, every scroll, every recorded memory — all burning at once." | [The Library's total conflagration releases all its accumulated rage.] | *A heavy Crimson firestorm; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Library is attacked. |
-| { *The Ashes of Everything* [**Ultimate**] } | "The fire spreads beyond the library — to every record, every archive, every word ever written — and the world goes dark with ignorance." | [The Library extends its burning across the whole field.] | *All in range suffer Grudge pressure for three turns of burning knowledge.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Inferno* [**Attack**] } | "The entire library erupts — every book, every scroll, every recorded memory — all burning at once." | [Every shelf in the room goes up together and the smoke carries a read of the target's worst memory.] | *A heavy Crimson firestorm; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Library is attacked. |
+| { *The Ashes of Everything* [**Ultimate**] } | "The fire spreads beyond the library — to every record, every archive, every word ever written — and the world goes dark with ignorance." | [The fire leaves its hearth and runs the perimeter of the field, taking every written edge it can reach.] | *All in range suffer Grudge pressure for three turns of burning knowledge.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (a standing fire with nothing burnt in it, books turning themselves, and heat that your face and your hand disagree about) and Pyre of Truths is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** The standing fire is read first — nothing in the room is burning down, the books turn their own pages, and the air at face height and the air against a bare hand refuse to agree — and the designation is checked against all three. Positions are taken, the fire line is marked, and the cycle opens.
 2. **Clash:** There is no exchange to win. The observer enters with one written question, reads what the flames permit, and comes out; the session's measure is pages permitted, and a team that arrives with a list reads nothing at all.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Approach with curiosity rather than possession or destruction**.
+3. **Resolution:** The cycle closes when the room has been entered on the file's own terms and left exactly as it was found. The registration carries its condition: **approach with curiosity rather than possession or destruction** — the clause crews break first, because a library invites handling, and what this one keeps are records it has never let anybody read to order.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Pyre of Truths reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- When resistance fails here, the pressure of Pyre of Truths goes straight through into the worker’s psychological matrix. **Resilience** is what settles the account, and the Sorrow Gauge afterwards climbs faster than it was climbing before.
+- The exposure risk accumulates by the minute rather than by the session: a worker who stays past the recommended cycle carries identity drift, cognitive Fracture and a room that will not hold its shape, each of them further along than the last check found it.
+- The equipment section is where the record says what the M.A.W. takes out of this fire, and contact in the field has borne that out on every occasion the extraction was attempted. Nothing in Somnarak is lifted out of an entity for free.
+- Denied its resolution condition, Pyre of Truths falls back on the destructive activation protocol. The peace it was refused comes back as heat, and the sorrow goes looking for a release of its own choosing instead of the one the work offered.
 
 ## Appearance
 **Physical Form:** A library of true wood and paper standing inside a continuous fire that lights the pages and consumes nothing. **Thermal:** the survey reads a large fire transferring no heat to anything it touches.
@@ -152,7 +152,7 @@
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Pyre of Truths is recorded as an Object/Place with Place-Grudge manifestation and Grudge elemental expression. The current record places it at SECTOR-B-02, Zone B — contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The behavior table below is a diagnostic and never a prescription: what it establishes is which approach calms this holding and which provokes it. Filed as an Object/Place with Place-Grudge manifestation and Grudge expression, held at SECTOR-B-02 in Zone B, and unlike at least one other burning holding in the register it answers to nothing but its own name. The caution written for this file is a quiet reading's caution: a watch can close flat on the gauge while the worker carries out a sense of having been read, a smoke taste that stays for days, and no account of what they were looking for when they came in.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede events. Log them, flag them, and adjust protocols accordingly before the next assignment.
 ## Expansion Behavior
@@ -214,7 +214,7 @@ The escalation pattern is specific to Pyre of Truths: it is not a generic contai
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a plated harness worked out of Grudge Han-iron, carrying the warmth of a reading room rather than of a forge — cool where the plate lies against the wearer, and warm a hand’s breadth off, the way a shelf is still warm after the fire has gone past it.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -224,19 +224,19 @@ The escalation pattern is specific to Pyre of Truths: it is not a generic contai
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Pyre of Truths's kind of pressure.
+**Ability:** Grants resistance to Grudge damage, and what it covers is the Body (physical form, structural integrity). Worn against Pyre of Truths’s kind of pressure, the plate behaves as the library does: it lets the heat reach the wearer’s judgement while the pages underneath stay whole.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer’s reflexes go slow, in the manner of a reader who has taken in an argument and has not yet worked out the answer to it.
 
 ### M.A.W. Stigma — The Burning Page
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a page-tile of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a page-tile of Grudge Han-iron, dark and faintly warm, that holds the shadows of lines that were never printed on it.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 stat bonus while working the source holding, entered at issue and struck from the sheet the day the bearer stops going into Zone B
 
 **Ability:** Reveals one truth hidden by the city.
 
@@ -246,18 +246,18 @@ The escalation pattern is specific to Pyre of Truths: it is not a generic contai
 
 ### M.A.W. Use Notes
 
-A piece cut from Pyre of Truths is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder's old scars and burn marks ache; prolonged use leaves severe heat blisters and crimson bruising across the bearer's arms, and it is paid whether the use was correct or not.
+Nothing cut from this holding is ordinary kit — it works by belonging, in part, to the thing it is carried near. What it takes is already on the sheet: every old scar and burn mark aches, and a long enough use puts heat blisters and crimson bruising up both arms. The toll is charged whether or not the work was done correctly, which is the part new crews argue with.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Pyre of Truths's toll being that the wielder's old scars and burn marks ache. |
-| **During use** | Every occurrence of what Pyre of Truths takes (the wielder's old scars and burn marks ache), timed. One is noted; a pattern across a shift ends the use. |
-| **At limit** | The wearer's reflexes dull, as if armored by resentment, without remission. On a Pyre of Truths piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether Pyre of Truths's cost is still showing — the wearer's reflexes dull, as if armored by resentment. |
+| **Before use** | Wielder, piece, gauge, and one pre-check written before the door opens: every old scar and burn mark on the bearer counts as part of the issue, because that is what this piece costs first. |
+| **During use** | Every occurrence of the ache is entered with its hour — old scars and burn marks flaring in a room that is not hot enough to explain it. One is a note; a rhythm across a shift ends the use. |
+| **At limit** | The reflexes go dull, as though the bearer were plated in the resentment itself, and nothing on the sheet says the dulling comes back. The use ends there, whatever the bearer says about going on. |
+| **After use** | Take the piece back and ask the second worker, not the bearer, whether the dulling is still showing; the person carrying it is the last one to notice. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade says how hard a piece hits; it says nothing about what the piece takes, and on this file the two run against each other — a low-rated cut can cost more than a high one. Read the cost column first and the rating second.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced. The level reflects the depth of the reading record rather than any mastery of the entity; the wing understands the terms the fire imposes and has never understood the fire.
@@ -288,7 +288,7 @@ A piece cut from Pyre of Truths is not ordinary equipment: it works by being a p
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Pyre of Truths (C-IVδ-092 [GP]) is logged as a Place-Grudge manifestation expressing Grudge, held in SECTOR-B-02 of Zone B. It burns continuously and destroys nothing, including the books. What it holds are records absent from the Archive, and what it will not do is let anybody read them to order.
+Pyre of Truths (C-IVδ-092 [GP]) is a Place-Grudge manifestation expressing Grudge, held in SECTOR-B-02 of Zone B. The fire has been burning without interruption and has destroyed nothing, the books included. What it keeps is the record of what the Archive is missing, and what it has never once done is let anybody read that record on request.
 
 **Entry 2 — <Excerpt from Reading Returns, SECTOR-B-02>**
 Pages permitted per session, averaged over the year: 31, then 24, now 17. Heat tracks intent rather than physics and the sessions bear it out — observers carrying their own question average 44 per cent of shelves opened, observers carrying an operational question 12 per cent. The decline follows the deposit backlog: 9,400 transcripts sealed, none admitted, and the wing's own people have stopped expecting their questions to lead anywhere.
@@ -306,11 +306,11 @@ The provenance rule is right and I am tired of being asked to say otherwise. Adm
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Pyre of Truths; the other feeds it.
+> Two ways to close a watch in the reading room, and the file prices them by the ashes: one leaves the room as it was found, and the other is the reaching that every reader's instinct asks for.
 
-| Approach with curiosity rather than possession or destruction — as written, without improvising. | Substitute your own judgement, which on Pyre of Truths has never yet cost less than the condition. |
+| Approach with curiosity — take nothing, burn nothing, and ask the room what it is willing to show — as written, without improvising a use for what is on the shelves. | Substitute your own judgement, as the record shows people doing: pocket a page, feed the fire, or insist on an answer it has refused every crew that asked before you. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is named; Pyre of Truths is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Pyre of Truths withdraws without revelation. |
+| The room keeps its temperature, the shelves are counted at the door and counted again on the way out, and the watch closes with the holding entered in full on the sheet. | The smoke turns inward and the room goes tight; the entry closes with a bearer who has burns they cannot account for and a shelf count that does not square. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -323,7 +323,7 @@ The heat arrives as an idea before it touches your skin. Every shelf is on fire,
 
 **With continued exposure:** Time in the containment zone moves differently. The Grudge pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Place-Grudge is teaching you its sorrow.
 
-**When the entity activates:** When the Gauge tips, the Grudge becomes a force rather than a feeling. The Place-Grudge was holding; now it releases.
+**When the entity activates:** The gauge tips and the Grudge stops being something the room is holding and becomes something it is doing: the fire leaves the hearth line and starts choosing its edges.
 
 **After departure:** The door seals and the pressure drops, but residue clings — Grudge in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
 
@@ -389,14 +389,14 @@ Some sorrows are about loss. Pyre of Truths is about suppression — the truths 
 - Pages permitted per session: 31 → 24 → 17. Own question 44 per cent of shelves, set question 12 per cent.
 - Transcripts deposited under seal: 9,400. Admitted to the public Archive: none. Named persons in the deposits: 2,600.
 **Cross-References:** The provenance rule and the Year 4120 charter withdrawal · the standing deposit instrument with the municipal record office · the question log, filed in sequence since classification · the Year 4230 qualified-admission application
-**Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
+**Faction Involvement:** SED, on the B-territory survey · UCD, for the Fray-adjacent ground · Judexhan, carrying the δ-grade threat file and the shelf counts
 **Originator:** Keepers and Council officers who removed records from public history, and the records themselves, which arrived here with no provenance and will never acquire one.
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** What is written here is a map and not the ground: the code, the thresholds and the kit notes are for reading the room, never for standing in for it, and the behavior, the Work Type response, the activation term, the kit risk and the interaction table hold only together. This file will be wrong at some point. When it is, the watch that found the error preserves it as evidence rather than tidying it out of the record.
 
-**Review requirement:** The review requirement: every manifestation, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every manifestation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Every manifestation, every Sorrow Tide and every transformation attempt voids the baseline standing at the top of this file, so the watch re-verifies before it proceeds: exposure and duration, and the holding's position, after every event, and after any interaction that does not read like the ones on file. What this sheet describes is a living pattern of sorrow, not a finished account.
 ## Apex Record
 
 ### Fire That Does Not Consume

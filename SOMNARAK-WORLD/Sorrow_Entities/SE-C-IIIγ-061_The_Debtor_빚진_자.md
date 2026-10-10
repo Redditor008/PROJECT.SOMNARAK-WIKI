@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per successful work cycle, weighed off the scales at handover and never off the man |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | γ (Major) · γ (Major) — the Burden Maul, Mantle and Chain are all graded to the holding. |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Weight pressure; 25% against other pressure types |
+| **Resistance** | 35% against Weight pressure and 25% against everything else — resistance belonging to the load rather than to the body under it |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 719/719 |
 | **Han Pressure [ATK]** | 17–40 per hit · Weight |
@@ -81,14 +81,14 @@
 | { *The Tally* [**Debuff**] } | "It counts what you owe — and the number is higher than you thought." | [The Debtor tallies the target's debts; the total is a weight.] | *Target suffers -10 Resolve; they owe more than they knew.* **[10 Weight DMG [Weight]]** | When the Debtor assesses them. |
 | { *The Increasing Interest* [**Debuff**] } | "The debt grows while you stand here — it always grows." | [The debt accrues; the target feels it mounting by the second.] | *Target loses 10 Resolve; the interest is crushing.* **[10 Weight DMG [Weight]]** | When the target fails to pay. |
 | { *The Collection* [**Attack**] } | "Payment is due — and the Debtor collects in flesh and years." | [The Debtor extracts what it is owed by force.] | *Inflicts Weight pressure and one wound of extracted debt.* **[14-22 Weight DMG [Weight]]** | When the Debtor is denied. |
-| { *The Foreclosure* [**Attack**] } | "Everything you have — taken, all at once, to cover what you owe." | [The Debtor forecloses on the target entirely.] | *A heavy Black seizure; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Debtor is cornered. |
-| { *Bankrupt* [**Ultimate**] } | "Everyone owes. Everyone pays. Now." | [The Debtor extends the debt across the whole field.] | *All personnel suffer Weight pressure for three turns of universal collection.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Foreclosure* [**Attack**] } | "Everything you have — taken, all at once, to cover what you owe." | [The whole of what the target has is called in on the spot.] | *A heavy Black seizure; the target's Sorrow Gauge climbs 15%.* **[24-36 Weight DMG [Weight]]** | When the Debtor is cornered. |
+| { *Bankrupt* [**Ultimate**] } | "Everyone owes. Everyone pays. Now." | [The owing is extended past the holding, until everyone in range is on the ledger.] | *Weight pressure presses on everyone for three turns while the collection runs on.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies The Debtor by him by the stoop and the recitation; the smell of wet stone and iron carries further than either and is shared with two other holdings in Zone C, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** Identification runs on the stoop and the recitation, and on the smell of wet stone and iron that carries further than either — though that smell is shared with 2 other holdings in Zone C, so it confirms nothing alone. The designation is checked against the classification table, the approach is set, and the positions are taken before anything else is attempted.
 2. **Clash:** Eleven turns, seated, with one speaker. Pugnahan is absorbed rather than resisted and leaves the gauge flat; Flerehan and Ferrehan are the authorised approaches and the only ones that move it.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Carry part of the burden willingly; do not command him to put it down**.
+3. **Resolution:** The cycle closes in containment, retreat or management, or on its suppression condition: **Carry part of the burden willingly; do not command him to put it down**. The clause rules out the obvious correction — nobody on this ground orders the load set down — and the watch is turned by whoever offers to take a share of it and means the offer.
 
 ### Consequences
 
@@ -166,13 +166,13 @@ The Debtor is a Fragment (III) Subject with Subject-Body manifestation and Weigh
 | **Effect** | The load becomes shareable at range. Personnel in the corridor find themselves bearing a portion of something that is not theirs and agreeing, out loud, that it is. |
 | **Secondary Effect** | Everything owed in the vicinity accelerates: maintenance backlogs, overdue reports, unanswered correspondence. The wing's own arrears become physically heavy to approach. |
 | **First Target** | The nearest worker willing to meet its eyes. It pursues acknowledgment rather than flesh. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
+| **Escalation** | For every turn he is left free the pressure grows, and the Resolve drain adds 5 a turn until the watch ends it. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
 - **Containment priority:** Meet him at a controlled point and accept a measured share under supervision; this has ended all four breaches, at a median of nineteen minutes. Physical blocking only lengthens his route and has never once stopped him.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per corridor crossed, slowed throughout by the 7.3 tons it refuses to set down.
+- **Sorrow Gauge on breach:** Starts at 40% and climbs 10% for each corridor crossed, held back throughout by the 7.3 tons he will not set down.
 
 ## M.A.W. Equipment
 
@@ -182,7 +182,7 @@ The Debtor is a Fragment (III) Subject with Subject-Body manifestation and Weigh
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that weeps a thin film of Han when swung.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, finished dark and heavier than its bulk accounts for, that sheds a thin film of Han when it is swung.
 
 **Damage:** Weight 7-12
 **Speed:** 3 (Fast)
@@ -198,7 +198,7 @@ The Debtor is a Fragment (III) Subject with Subject-Body manifestation and Weigh
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
+**Appearance:** a long mantle worked from Weight Han-weave, river-stone grey. It is heavier off the wearer than on, which is the property the armoury records first, and it keeps the smell of the room it was taken out of — no cleaning on file has ever removed it.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -208,29 +208,29 @@ The Debtor is a Fragment (III) Subject with Subject-Body manifestation and Weigh
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Debtor's kind of pressure.
+**Ability:** It turns a Weight strike, but only the part of one that is owed: the mantle answers pressure with a claim behind it and does nothing at all against a blow that has none. It is proved against the Han, which the record glosses here as the reserves and the debt carried in them, and the filing says plainly that it guards nothing else.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** The wearer is tired the entire time they have it on, a flat weariness that neither builds nor lifts. The Armoury enters it on every issue form and has never written a treatment against it, there being nothing to treat.
 
 ### M.A.W. Stigma — The Burden Chain
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a chain of Weight Han-steel, matte and unnaturally heavy, warm to the touch.
+**Appearance:** a chain of Weight Han-steel, dark-grained and warmer in the hand than the room it was kept in.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 stat bonus while working the source holding, entered at issue against the bearer's name
 
 **Ability:** Allows the wearer to bear extraordinary physical and emotional weight.
 
 **Cost:** The wearer feels the weight of everything carried and cannot easily put it down.
 
-*The Burden Chain is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who declined a share he offered and said why, clearly, without apologising for it.*
+*The Burden Chain is conferred rather than issued, and no request reaches it. Twice it has been given, both times to a Warden who refused a share the Debtor offered, said why in plain words, and did not apologise for saying it.*
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of The Debtor and carries what The Debtor carries: the wielder feels progressively heavier; prolonged use ages them slightly. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+Every piece in this set is a fragment of the Debtor and carries what he carries: the bearer feels the weight come on and stays with it. The grade speaks to extraction stability and says nothing about price — the cost sits in the column beside it, and that column is why this set is issued for one rotation and no longer.
 
 ### Field Use Record
 
@@ -239,9 +239,9 @@ Every piece in this set is a fragment of The Debtor and carries what The Debtor 
 | **Before use** | Wielder, piece, gauge, and one pre-check, The Debtor's toll being that the wielder feels progressively heavier. |
 | **During use** | Watch for The Debtor's toll — the wielder feels progressively heavier — and record the hour it is first seen rather than the hour it is first mentioned. |
 | **At limit** | The wearer carries a constant low fatigue, and the wielder has stopped reporting it — the usual end point for a The Debtor piece. The observer calls the limit. |
-| **After use** | Return, reconcile the baseline, and record whether The Debtor's toll has reversed: the wearer carries a constant low fatigue. Where it has not, the piece is not reissued to that wielder. |
+| **After use** | Return the piece, reconcile the baseline, and enter whether the constant fatigue has lifted. Where it has not, the piece is not reissued to that bearer. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** What a piece can extract and what it costs the person holding it are separate accounts, and they rarely line up. An efficient item can still leave a bearer Fractured, hollowed or sorrow-bound; the Armoury's returns are full of bearers paying in years for pieces rated minor.
 
 ## 관찰 기록 (Observation Log)
 
@@ -262,7 +262,7 @@ Every piece in this set is a fragment of The Debtor and carries what The Debtor 
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Debtor as a Subject with Subject-Body manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at SECTOR-C-01, contained with the Debt Triplets. |
+| **Initial exposure** | The observer places the holding by the stoop and the recitation, and reads the 7.3-ton figure off the scales at handover. Confirmed against the classification table before entry; SECTOR-C-01, contained with the Debt Triplets. |
 | **Sustained observation** | Stoop angle from the fixed mark, pace over the measured stretch, the recited figure verbatim at entry and exit, and the other two Triplets' gauges over the same window. |
 | **Activation or escalation** | Escalation is the increment. When the figure climbs faster than the shift's established rate, the watch closes the session; the rule is numeric and the decision is not left to the person in the room. |
 | **Post-contact review** | Stoop and figure before and after, whether a share was taken and by whom, the worker's verbatim account, and a counsellor's note at 14 days directed specifically at whether the worker has begun apologising for things they did not do. |
@@ -273,7 +273,7 @@ Every piece in this set is a fragment of The Debtor and carries what The Debtor 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Debtor (C-IIIγ-061 [WS]) is logged as a Subject-Body manifestation expressing Weight. The Debtor is the grandfather aspect of the Debt Triplets: the one who incurred the original debt. Held at SECTOR-C-01, contained with the Debt Triplets. The invisible burden measures 7.3 tons on Han-scales.
+The Debtor (C-IIIγ-061 [WS]) stands on the register as a Subject-Body manifestation expressing Weight. The Debtor is the grandfather aspect of the Debt Triplets: the one who incurred the original debt. Held at SECTOR-C-01, contained with the Debt Triplets. The invisible burden measures 7.3 tons on Han-scales.
 
 **Entry 2 — <Accepting the Blame>**
 Walks slowly through the facility carrying the burden. Personnel feel obligations they never incurred. The Debtor accepts blame willingly, even when the debt has changed over generations.
@@ -289,11 +289,11 @@ The sorrow did not emerge from nothing. It grew around this location until it wa
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Debtor; the other feeds it.
+> The Debtor's watch resolves one of two ways, and what separates the two is what the observer does with the load on offer: one takes a share of it and says why, and the other orders it set down — kindly, and to the Debtor's advantage.
 
-| Carry part of the burden willingly; do not command him to put it down. | Do the obvious, decent thing instead, and feed The Debtor. |
+| Carry a share of the burden willingly, and never give the order to set it down. | Do the decent thing instead — relieve him of it, order the load down, spare him the weight — and feed The Debtor. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is borne; The Debtor is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Debtor withdraws without revelation. |
+| The share is carried as offered and the load is left where it stands; the sorrow is borne and the entry closes with The Debtor recorded whole. | The order is given and the pressure answers it; the gauge rises and the file ends with The Debtor no further on than he was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -312,16 +312,16 @@ You hear the footsteps before you see him. Each step lands beneath a weight no e
 
 ### Interaction Pattern
 
-This holding is read against the other things in Zone C built out of obligation. Each relation below has been observed and filed; none is settled; and the two inside the Triplets' boundary cannot be switched off for a control, which is the central weakness of everything in this table.
+This holding is read against the rest of Zone C's obligation-built sorrows. Every relation below has been observed and filed and none of them is closed; the 2 inside the Triplets' boundary cannot be shut off to give a control, which is the standing weakness of the whole table.
 
-**Interaction method:** Baseline each party alone across several shifts before any paired approach, and record all three Triplet gauges for every test regardless of which two are being studied. Log the onset of any shared change with its range, duration and trigger, the recited figure on both sides of it, and what persists after separation. Re-verify each cycle.
+**Interaction method:** Take each party alone across several shifts before any pairing is attempted, and take all 3 Triplet gauges at every test whichever 2 are being studied. The onset of a shared change is entered with range, duration and trigger, the recited figure on both sides, and what remains once the parties are apart. Re-verify every cycle.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. Two of them are permanent neighbours and therefore have no solo baseline at all, a gap the file states on the front sheet rather than burying.
+The relations below count as points of contact rather than alliances, and none is closed. 2 of the 5 are permanent neighbours and therefore have no solo baseline whatever — a gap the file states on its front sheet rather than burying.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| The Debtor's neighbour | How the pairing has run | What the scales showed | What the entry carries |
 |---|---|---|---|
 | **The Inherited Debt** | The Inherited Debt is said to spread from him, which would make this holding the source of a district-wide phenomenon. | Six co-presences. His recited total was unaffected on all six and the Inherited Debt's spread rate did not change. The wing has stopped describing him as a source and records the claim as unproven. | The six co-presences, the recited figures, and the unchanged spread rate. |
 | **The Debt Eater** | The Eater can consume a portion of the load and has done so, which is the only recorded reduction of anything in this holding. | Three sessions. The measured load fell to 6.9, 7.0 and 6.8 tons respectively and returned to 7.3 within a day on each occasion. The recited total never moved. Consumption reaches the weight and not the obligation. | All three sessions, both series, and the recovery interval. |
@@ -379,9 +379,9 @@ Some sorrows are inflicted. The Debtor's sorrow is assumed — taken on willingl
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this record as a starting point and nothing more. The classification says what to expect; only a watch says what is happening, and behaviour, Work Type response, activation or breach condition, M.A.W. risk and interaction pattern are read together or not usefully at all. Where the file and the watch disagree, the watch is right — log the discrepancy, and keep the contradiction as evidence rather than smoothing it into the existing account.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any event, verify the 4 pillars — gauge, seal, personnel and position. Everything on the operational picture resets with the event: exposure and position both change after a breach, an expansion, a transformation attempt or an unusual interaction, and yesterday's readings are not evidence about today. The record describes a pattern that is still living, not an explanation that is ever finished.
 ## Warden Record
 
 ### The Weight
@@ -448,7 +448,7 @@ The objection is minuted at every annual review and is raised by the safety offi
 ### Registry Trivia
 
 - **Classification detail:** The Debtor is a Subject with Fragment (III) — Accepting and weary coherence and Major (γ) — High danger as group entity potency.
-- **Field detail:** Its defining element is Weight, and its registered location is SECTOR-C-01, contained with the Debt Triplets.
+- **Field detail:** Its element is Weight, and the register keeps it at SECTOR-C-01, contained with the Debt Triplets.
 - **Recognition detail:** Identify him by the stoop and the recitation; the smell of wet stone and iron carries further than either and is shared with two other holdings in Zone C.
 - **Record detail:** Read this file beside the Inheritor's and the Rejector's, and beside the original instrument, which is three paragraphs long and explains less than anybody expects.
 - **Containment detail:** Sealed is not silent here in a specific and documented way: he hears what is said outside the door, and what he hears, he takes.

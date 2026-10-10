@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Grudge pressure; 35% against other pressure types |
+| **Resistance** | 45% against Grudge pressure, 35% against other pressure types — margin figures throughout; nothing here has ever been measured in contact, the one attempt having cost two monuments and a season of readings. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 29–64 per hit · Grudge |
@@ -82,21 +82,21 @@
 | { *The Flaking Mass* [**Debuff**] } | "The weight sits on your shoulders — and with every breath, a little more of it flakes away as rust. But it never gets lighter." | [The Weight's corrosion spreads to the target; their own burden oxidizes.] | *Target suffers -10 Resilience; the rust is eating at them.* **[10 Grudge DMG [Grudge]]** | When the Weight settles. |
 | { *The Orange Stain* [**Debuff**] } | "Where the rust touches, it stains — and the stain does not come out, and it spreads." | [The Weight's corrosion contaminates the target; everything they carry begins to rust.] | *Target loses 10 Resilience; their defenses are corroding.* **[10 Grudge DMG [Grudge]]** | When the target bears the Weight. |
 | { *The Rust Blade* [**Attack**] } | "A flake of rust hardens — and it is sharper than any polished edge." | [A corroded shard strikes the target.] | *Inflicts Grudge pressure and one jagged, oxidized wound.* **[14-22 Grudge DMG [Grudge]]** | When the Weight is struck. |
-| { *The Structural Failure* [**Attack**] } | "The weight gives way — not from force, but from rust. The inside was eaten hollow." | [The Weight's internal corrosion causes total collapse.] | *A heavy Crimson implosion; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Weight is dropped. |
-| { *Everything Corrodes* [**Ultimate**] } | "The rust spreads to everything — every surface, every defense — until the whole field is flaking orange." | [The Weight extends its corrosion across the whole area.] | *All in range suffer Grudge pressure for three turns of universal rust.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Structural Failure* [**Attack**] } | "The weight gives way — not from force, but from rust, and the rust has taken stone, fence and marker alike." | [The mass collapses the span it has been bearing since before anybody could say what the line was for.] | *A heavy Crimson implosion; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Weight is dropped. |
+| { *Everything Corrodes* [**Ultimate**] } | "The rust spreads to everything — stone, timber, painted markers — and it stops at no line the survey can find." | [The ground's corrosion extends across the whole front, through the markers holding it and the instruments measuring it.] | *All in range suffer Grudge pressure for three turns as the front advances.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — Patina is recognised by the vegetation line is the earliest indicator and dies back weeks ahead of a mass increase. It was first reported by a member of one of the border families, who is credited by name in the protocol — then the approach is set and the positions are taken.
+1. **Tension:** Identification first — the vegetation line dies back ahead of a mass increase and is the earliest indicator this holding has. It was first reported by a member of one of the border families, credited by name in the protocol; then the approach is set from the district road and the positions are taken at the margin monuments.
 2. **Clash:** Work is done from the margin monuments and never from inside the affected ground. Viderehan reads the rust and the vegetation line; Ferrehan holds the line briefly and heavily, and the worker is screened on the way out.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Acknowledge the original conflict without assigning it to the living**.
+3. **Resolution:** The session closes with containment, management, retreat, or the documented suppression condition: **Acknowledge the original conflict without assigning it to the living** — reached at the margin, in conversation, and never as a finding between the families.
 
 ### Consequences
 
-- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Resilience** shatters into a psychological Fracture—a catastrophic dual failure.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting as an activation, expansion inside its own boundary, and rapid escalation.
+- When a worker breaks under the entity’s load, the Sorrow Gauge climbs and their **Resilience** Fractures with it—the exit screen is built to catch the first sign, which is why it is a conversation about something else and why the worker is told so beforehand.
+- Sustained standing at the margin produces the holding’s own kind of harm: workers surface old wrongs of their own, frequently ones they had considered settled, and are rotated rather than asked to resolve them—distance is the wing’s answer here, not catharsis.
+- Wielding a M.A.W. piece cut from Patina extracts the toll the file already records, whether the use was correct or not: the wielder’s old wounds ache, and prolonged use leaves faint bruising. The armory ledger carries that cost and does not treat it as a defect in the piece.
+- When resolution fails, nothing spectacular follows. The mass keeps sinking, the rust keeps advancing through markers of every material, and the failure is carried quietly into the next quarterly figure.
 
 ## Appearance
 **Physical Form:** A rusted mass embedded in border ground, shaped like a weight attached to an invisible chain.
@@ -145,9 +145,9 @@
 
 ### Operational Work Notes
 
-A stable gauge does not mean a safe encounter. Cross-reference Work Types with the activation threshold and M.A.W. cost before assigning personnel. Patina is recorded as an Object/Place with Place-Weight manifestation and Grudge elemental expression. The current record places it at Zone E, Border region; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+A stable gauge does not mean a safe encounter here, and the figure is not the leading indicator: the vegetation line is, dying back weeks ahead of a mass increase, and it was a border family that first reported it rather than the wing. Patina is an Object/Place with Place-Weight manifestation and Grudge expression, held at Zone E in border ground by a standing land agreement rather than an enclosure. Viderehan and Ferrehan only; Flerehan and Pugnahan do not apply to a Place and have never been attempted. No worker enters the affected ground for any purpose, including recovery.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
+**Reading the response:** Work success is measured by the entity’s response, the worker’s condition on the way out, and the information recovered. When the gauge drops, the surface pressure has eased; the ground keeps sinking at its own rate and nothing already taken has ever come back. When the gauge climbs, the Work Type has struck the nerve of the entity’s origin—the eleven records that decide nothing—and the correct move is to withdraw to the margin and reassess rather than feed it. Anomalous responses are signals that the entity has changed or the file is incomplete, and are logged before the next assignment.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -171,7 +171,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | **Activation** | Bare contact with the mass. |
 | **Primary Effect** | Everything on the affected ground is anchored and cannot be moved, including the operative. |
 | **Duration** | While contact lasts, plus the settling period. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
+| **Termination / Return** | There is no return because there is nothing to carry: the mass is contacted at the site and released by breaking contact, and releasing it early under load is what produces the spinal injuries the wing’s surgeons describe. |
 | **Risk** | Steeply rising load; joint and spinal injury of a permanent kind. |
 
 **Operational Rule:** The mass is not carried and cannot be. Relic use is contact at the site, under the same margin discipline as everything else here, and it replaces no scheduled Work Type.
@@ -180,14 +180,14 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Patina rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Patina activates its primary resonance: Radiates an intense gravitational field of Weight, anchoring all grounded constructs and preventing knockback. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the anger of inheriting a conflict no living person began; the bearer begins perceiving echoes of a border dispute continued long after its original cause vanished; its resentment rusted into the ground. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Patina begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Patina too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The crushing weight increases exponentially; prolonged contact causes severe musculoskeletal strain. |
+| 10 Seconds | Contact made at the site under the same margin discipline as everything else here; the field settles over the affected ground and takes the weight of everything standing on it, the bearer included. | The primary resonance engages: a gravitational field of Weight anchoring everything grounded, with knockback prevented and +10% Grudge resistance while contact holds. |
+| 30 Seconds | The bearer begins hearing the dispute the way the archive holds it — two families, four generations, eleven records, no finding — and finds it hard to say which of them they are standing in for. | The operative gains the combat benefit and begins accumulating mental burden; action speed and physical focus rise at composure’s expense, and the margin party notes the first change of register. |
+| 1 Minute | The toll begins: the sorrow the mass is made of starts drawing on the bearer rather than on the ground. | Use beyond 60 seconds inflicts 5 Grudge damage every 15 seconds, and the operative is monitored for the detachment the wing’s surgeons warn about. |
+| 2 Minutes | Past two minutes the bearer stops being able to separate their own grievances from the disputed line’s, which is the state the exit screen exists to catch. | Continuous wear beyond two minutes, or detachment under load without closing the interaction, triggers acute panic; the load rises without settling and the musculoskeletal damage is the permanent kind. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Patina: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Place-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone E, Border region, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Patina and has nothing to do with the wing’s posture: the mass answers to the dispute in the district above it. Record the first trigger, the visible change in the Place-Weight form, the distance at which the field begins, and the boundary where the resonance settles — and take every reading from the margin monuments on the district’s own survey network, so the families can check the figures against a reference the Directorate does not control.
 
 **Response sequence:** Read the vegetation line, re-survey against the margin monuments, clear the affected ground, and notify the district mediators the same day. There is no perimeter that helps; the front moves through markers rather than through metal.
 
@@ -211,7 +211,7 @@ The escalation pattern is specific to Patina: it is not a generic containment ev
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that quivers when raised.
+**Appearance:** a fang-curved blade cut from the mass itself — orange-pitted along the flat, flaking rust whenever it is raised, and heavier than its listed weight.
 
 **Damage:** Grudge 10–15
 **Speed:** 3 (Fast)
@@ -224,15 +224,15 @@ The escalation pattern is specific to Patina: it is not a generic containment ev
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Armoury figures, transcribed. Nothing has ever been struck by this holding; the pieces are graded δ because of what they cost to carry, not because of what they do.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Patina's grudge signature in the strike.
+**Ability:** Deals Grudge damage against the Body (physical form, structural integrity), carrying the mass's own signature into the strike: what the target is standing on is included in the weight.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The wielder's old wounds ache, and they ache on the way home rather than at the strike — the toll this file already records, paid whether the use was correct or not.
 
 ### M.A.W. Suit — Patina Plate
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
+**Appearance:** a plated harness of Grudge Han-iron, orange-pitted along the seams, that shifts and breathes with the wearer and sits heavier the longer inherited anger goes unanswered.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -242,21 +242,21 @@ The escalation pattern is specific to Patina: it is not a generic containment ev
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Converts hostility into physical resistance.
+**Ability:** Converts hostility into physical resistance, the way the border ground converts a quarrel into load: nothing is destroyed, everything is borne.
 
-**Cost:** The wearer feels inherited anger toward strangers.
+**Cost:** The wearer feels inherited anger toward strangers, and first notices it in how they answer somebody who has done nothing to them.
 
 ### M.A.W. Stigma — Patina Charm
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** a small charm of Grudge Han-iron cut with the same orange pitting as the mass, that grows briefly hot near sorrow.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 stat bonus while working Patina in the field.
 
-**Ability:** Grants a minor boon tied to Patina's sorrow; the effect mirrors the entity's nature.
+**Ability:** Steadies the bearer's own grievance for the length of a session, which is why the charm is issued to those working the line and not otherwise.
 
 **Cost:** The bearer's temper shortens.
 
@@ -264,18 +264,18 @@ The escalation pattern is specific to Patina: it is not a generic containment ev
 
 ### M.A.W. Use Notes
 
-A piece cut from Patina is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder's old wounds ache; prolonged use leaves faint bruising, and it is paid whether the use was correct or not.
+A piece cut from Patina is not ordinary equipment and is not treated as one: it works by being part of the ground it is used near, and it carries that ground's toll with it. The file records one cost and one only — the ache the wielder brings home — and it is paid whether the use was correct or not. Nothing has ever been struck by this holding; the armoury transcribes the figures and the wing grades the pieces δ for what they cost to carry.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Patina's toll being that the wielder's old wounds ache. |
-| **During use** | Watch for Patina's toll — the wielder's old wounds ache — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | Patina's cost is continuous rather than occasional: the wearer feels inherited anger toward strangers. The second worker's call stands against the wielder's. |
-| **After use** | Piece returned; re-assess a week later, because what Patina takes (the wearer feels inherited anger toward strangers) does not present on the day. |
+| **Before use** | Piece inspected, wielder named, gauge read, and the toll the file names accepted in advance by the worker who takes it up. |
+| **During use** | Watch for the toll the file names and log the hour the wielder first mentions it, not the hour it is formally reported; the margin party keeps the reading. |
+| **At limit** | The toll is continuous rather than occasional and does not stop when the piece comes off: at the limit the second worker's judgement outranks the wielder's, and the armory is told why. |
+| **After use** | Piece returned and the wielder re-assessed a week later, because the inherited anger toward strangers does not present on the day. |
 
-**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade describes what the wing pays to hold the piece, not what the piece does in a strike: the damage figures are armoury transcriptions and nothing has ever been struck by this holding. The axis that matters is the one this file keeps recording — the wielder's old wounds ache, the wearer's temper shortens, and the bearer of the harness feels inherited anger toward strangers — and the ledger bears the grade out.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -303,7 +303,7 @@ A piece cut from Patina is not ordinary equipment: it works by being a part of t
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Patina (C-IVδ-222 [GP]) is logged as a Place-Weight manifestation expressing Grudge, in the Zone E border ground, contained by a standing land agreement rather than by an enclosure. It sinks, it rusts what cannot rust, and its mass answers to the state of a quarrel nobody can reconstruct.
+Patina (C-IVδ-222 [GP]) is carried on the wing's register as a Place-Weight manifestation expressing Grudge, in the Zone E border ground, contained by a standing land agreement rather than by an enclosure. It sinks, it rusts what cannot rust, and its mass answers to the state of a quarrel nobody alive can reconstruct.
 
 **Entry 2 — <Excerpt from Monument Survey, Year 4238>**
 Subsidence 19 millimetres this quarter against the fixed monuments, after 14 and 9 in the two preceding years. Rust advances through boundary markers, fence posts and stone alike, and stops at no line the survey can identify.
@@ -323,9 +323,9 @@ Eleven mediation records, four generations, two families. Each is properly made,
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Patina; the other feeds it.
+> What the margin worker chooses at the close of contact: acknowledge the quarrel without assigning it to anybody living, or take it on themselves and settle it.
 
-| Do the thing on file: Acknowledge the original conflict without assigning it to the living. | Improvise something kinder, which is how every failure on Patina's file began. |
+| Do the thing on file: acknowledge the original conflict at the margin and assign it to nobody living. | Improvise something kinder — take it on yourself and settle it — which is how every failure on Patina's file began. |
 |---|---|
 | Tests whether the worker can bear history without inheriting anger. The sorrow is named; Patina is fully recorded. | Reveals the history of the inherited conflict. The gauge climbs and Patina withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -336,7 +336,7 @@ The ground sinks around a rusted shape. You feel a chain running through the soi
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A rusted mass embedded in border ground, shaped like a weight attached to an invisible chain. Notable Features: It presses down on the land, carries inherited rage, and grows heavier around old conflicts. Identification Profile: The. The surrounding space does not become generic or abstract; it changes in the specific way associated with Grudge and the entity's Place-Weight form.
+**At first contact:** The first identifiable detail is the vegetation line — growth dying back weeks ahead of a mass increase — and only then the rusted weight itself, sunk halfway into border ground at the end of a chain nobody has ever found. The border families who reported the dieback are credited for it, and the space around the holding reads the way Grudge reads here: not loud, but heavy, and specific to this line of ground.
 
 **With continued exposure:** The longer you stay, the more specific the sorrow becomes. This is not generic Grudge; it is this entity's Grudge — shaped by its origin, its wound, its particular grief.
 
@@ -346,7 +346,7 @@ The ground sinks around a rusted shape. You feel a chain running through the soi
 
 ### Interaction Pattern
 
-Patina does not exist in isolation. Its recorded relationships with The Spreading Tree, The Inherited Debt, The Scar Walker should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Patina's three filed relations — The Spreading Tree, The Inherited Debt and The Scar Walker — are resonance patterns rather than alliances, and all three were filed by the margin party rather than by the wing. None is settled. When another entity is nearby, record whether the readings change in sound, movement, temperature, memory pressure, gauge or containment stability, and take the reading from the monuments.
 
 **Interaction method:** Subsidence and vegetation line before, during and after, surveyed from the same monuments by the same party. Nothing is brought onto the affected ground for any pairing, and the families are told in advance when a pairing is to be observed.
 
@@ -355,7 +355,7 @@ Patina does not exist in isolation. Its recorded relationships with The Spreadin
 
 Patina must be kept distinct from the other inheritance files. The Inherited Debt passes an obligation that can be quantified and discharged; this one passes a grievance that cannot, because nothing was ever written down about who owed what to whom. It is the only holding in the wing whose containment includes a seat at somebody else's mediation.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What the file holds | What the margin measures | What the office is sent |
 |---|---|---|---|
 | **The Spreading Tree** | Its roots run under the disputed line and carry the load outward; two margin monuments have had to be reset because of it. | Subsidence appears beyond the staked front, in the root line, where no rust has yet reached. | Monument resets, root bearing, and subsidence measured along the roots as well as at the mass. |
 | **The Inherited Debt** | A debt can be stated, counted and discharged. This cannot, and the Debt's figures go unreadable within the affected front. | Subsidence unchanged; the Debt's ledger reads differently at each attempt while inside the front. | Record the Debt's figures outside the front before and after, and never inside it. |
@@ -402,14 +402,14 @@ Some sorrows are about a wound. Patina is about a wound whose weapon was lost �
 **Observation Notes:**
 - Subsidence 9, 14 and 19 millimetres across three annual series, surveyed from the district's own network so the families can check it.
 **Cross-References:** Zone E, border ground · The Spreading Tree · The Inherited Debt · The Scar Walker · the Mediation Office · the district mediators
-**Faction Involvement:** SED (E-territory exploration) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
+**Faction Involvement:** SED (E-territory survey) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat) · Mediation Office (standing party)
 **Originator:** Border District · Anger Underfoot
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and containment-event behaviour must be read as one interconnected system. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This entry does not stand alone: the land agreement, the margin monuments, the quarterly survey from the district's own network and the wing's standing part in the mediation process are one arrangement, and the figures only mean anything read together. The ground answers to the district's quarrels above it; the wing's contribution is to report what the mass is doing while the mediators report what the families are doing, and neither office may adjust its record to match the other's.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every activation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Every review re-reads the same five things — subsidence against the monuments, the rust front, the vegetation line, the state of the monuments themselves, and the exit-screen record for every worker who stood the line. If any one has moved, the file is updated the same week; nothing is left to the annual review to catch.
 ## Apex Record
 
 ### A Weight on Borrowed Ground
@@ -465,11 +465,11 @@ Monument positions are re-established from the district's own survey network rat
 
 ### Registry Trivia
 
-- **Classification detail:** Patina is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is Zone E, Border region.
+- **Classification detail:** Object/Place, Entity (IV) coherence, Critical (δ) potency; the file's own note says the δ grade belongs to the cost of holding the ground, not to the mass.
+- **Field detail:** Element Grudge, registered to Zone E in the border ground, where the front is staked every session and the subsidence surveyed quarterly.
 - **Recognition detail:** The vegetation line is the earliest indicator and dies back weeks ahead of a mass increase. It was first reported by a member of one of the border families, who is credited by name in the protocol.
 - **Record detail:** The Registrum carried Comprehension Level 3, a Low threat rating and an Uncontained status against a Critical (δ) holding at Level 2 contained by standing land agreement; all three corrected, and the malformed cross-reference line replaced.
-- **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Containment here is a standing land agreement plus margin discipline: the mass is unenclosed, it keeps taking ground, and the notification to the district mediators is part of the containment rather than a courtesy.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-222

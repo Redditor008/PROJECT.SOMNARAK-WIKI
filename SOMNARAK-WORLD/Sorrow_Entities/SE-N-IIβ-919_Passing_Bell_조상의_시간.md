@@ -1,6 +1,6 @@
 # Passing Bell — 조상의 시간
 
-> *"It does not end. It merely pauses between heartbeats."*
+> *"The dead talk among themselves, and not one of them looks up when you come in."*
 
 ## SECC Classification
 
@@ -88,7 +88,7 @@
 
 1. **Tension:** Two transcribers take opposite corners with their own books and pencils. No recorder is brought — six years of attempts have produced six hours of silence on tape — and no questions are prepared, because questions cannot be asked.
 2. **Clash:** None, and the station has asked for the row to be struck. There is nothing to engage; there is an hour of other people's conversation and two people writing it down.
-3. **Resolution:** The hour ends mid-sentence, every time. Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled.
+3. **Resolution:** The hour ends mid-sentence, every time. Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled. It closes against the documented suppression condition: **Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled**.
 
 ### Consequences
 
@@ -101,8 +101,8 @@
 **Primary Form:** An hour, once per cycle, during which the voices of the dead become audible in Zone A. They do not speak to the living — they speak to each other, and what they say is always a warning that the living cannot decipher in time.
 
 **Notable Features:**
-- Expresses Weight pressure in a spirit register.
-- The time form is unmistakable — this is a spirit entity, not a general one.
+- The pressure at this station is weight on the way in and spirit on the way out; the voices do the second half.
+- No reading of the hour can be mistaken for a general time entity's: the form that answers at this station is spirit, and it answers by name.
 - A sealed sector with two chairs, a ledger, and no equipment of any kind.
 
 **Identification Profile**
@@ -277,6 +277,21 @@ The hour is a conversation you are not in. The voices are ordinary, unhurried, a
 
 **After departure:** You wait half a second before answering people. It passes in a few days for transcribers and does not entirely pass for the two who carried the set.
 
+## 상호작용 (Entity Interactions)
+
+The bell at this station is rung for ancestors, and the hour has never been run with a second holding beside it. Three pairings follow, drawn up while the hour was sealed, and no sheet but the two transcripts was consulted on any of them. Those two books have never been reconciled with each other, and the page below does not attempt it either.
+
+**Interaction method:** Fix the hour's own figures first — the two transcripts, the sealed books, the warnings copied into the ledger — established alone across a full cycle before any comparison is entered. Then lay the other record's series beside them and enter the first divergence, its range, what set it off, and whether either series moved. Re-verify each quarter.
+
+| What the hour meets | How the pairing has run | What the ledger entered | What the file retains |
+|---|---|---|---|
+| **Moktak** `N-IIβ-910` | Filed together on the ancestor line. That record seats the ancestors and raises them in order; this one gives them one hour that ends mid-sentence, every time. | The closing order and the bell's hour were set side by side in one review and shared nothing but their finality. | That the two are compared on their endings alone, noted beside the row each time it is read. |
+| **Vellum Man** `C-Iα-900` | Grouped on narration that stops before it is done. That record abandons the tale at thirty minutes with the page marked; here the hour ends mid-sentence and the two transcripts simply stop. | No trial. The appendix cross-flagged the pair and the review left it as paper. | That the claim is a filing arrangement and not a finding, entered on each repetition. |
+| **Weighted Silence** `O-IIIγ-924` | Grouped on an hour nobody fills. That record holds quiet with a pressure under it; this one holds two speakers who cannot reach the end of a sentence before the bell. | One joint review entry; the counts diverged at the first mark and neither column was reconciled. | That the divergence is the finding, kept in the review's own figures rather than merged. |
+
+**Interaction procedure:** Compare in the record only, at the quarter's review, with the sealed books and the ledger's warnings re-read first and the other record's series laid beside them unchanged. Enter divergence, range, trigger, both readings and what persists; never reconcile the columns.
+
+
 ## 이야기 (Narratio) — The Tale
 
 The sector-n-919, contained remembers what the city tries to forget. Passing Bell began there — not with a scream or a death, but with the slow accumulation of weight sorrow until the Han could no longer hold it and something new crystallized in the space between one moment and the next.
@@ -285,15 +300,15 @@ Floor 4 has studied Passing Bell for cycles. Their findings are classified, but 
 
 Personnel who work Passing Bell do not simply feel weight pressure. They feel weight pressure filtered through spirit — and that filter changes everything. The protocols, the M.A.W. calibration, the recovery time — all of it must account for the spirit register or the work will fail.
 
-The entity does not rage. It does not weep. It persists — spirit and weight, patient and permanent. Passing Bell is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+The station is quiet in both senses: nobody raises a voice and nobody cries. The hour carries spirit and weight together, and it carries them the way the dead carry a conversation — unbothered by the living standing nearby. Passing Bell does not compete for loudest in Somnarak; it is simply the one that names names. The city's common grief, issued by the measure to every citizen, has no reply for a bell that knows whose hour it rings.
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The weight is familiar. The spirit is not. That gap is where the danger lives."* — Handler
-*"I expected standard weight. I got something that knew me."* — Specialist
-*"Every time we refine the protocol, the spirit register finds a new way in."* — Researcher
-*"It does not attack. It inhabits. And what it informs you of is your own sorrow."* — Director
-*"Work it once and you will understand why the classification system had to expand."* — Keeper
+*"I have carried standard weight for years and it never once asked anything of me. What stands in the gap between weight and spirit is where every bad hour at this station begins."* — Handler
+*"I came in ready for the load I was trained on. What I got was an hour that already had my name written into it."* — Specialist
+*"Each revision teaches the register one more way around us. This one is not breaking the protocol — it is reading it."* — Researcher
+*"It has never struck at anyone. It moves in, and then it tells the specialist which hour of their own life the bell was marking."* — Director
+*"Keep one watch on the bell and the classification's newest column will explain itself — nothing older fit what answers here."* — Keeper
 
 ## 기록 (Registrum) — The Record
 
@@ -341,8 +356,8 @@ The grief behind it is particular rather than general, and the commissioning mat
 ## Trivia
 
 - One of the first catalogued **Time-Spirit** entities in Somnarak.
-- Its spirit descriptor makes it structurally unique among time entities.
-- The weight pressure in the spirit register feels different from standard weight — more specific, more personal.
+- Among the time entities on file, this is the only one whose descriptor reads spirit first and clock second.
+- Standard weight is a measurement taken off a crowd. This one is addressed: the hour knows who is standing in it, and the weight says so.
 
 ## Document Information
 

@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types |
+| **Resistance** | 25% against Lament pressure; 15% against other pressure types — and the second figure has never been reached here, because nothing in the hall has ever moved toward a person. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 365/365 |
 | **Han Pressure [ATK]** | 8–19 per hit · Lament |
@@ -81,21 +81,21 @@
 | { *The First Whisper* [**Debuff**] } | "A voice you almost recognize breathes a secret you never told anyone." | [A whisper surfaces in the Gallery; the target hears their own secret spoken back.] | *Target suffers -10 Composure; something private has been exposed.* **[10 Lament DMG [Lament]]** | When the target enters the Gallery. |
 | { *The Echo Chamber* [**Debuff**] } | "The whisper repeats — and multiplies — until the walls are full of it." | [The whisper echoes and breeds; the secret grows louder.] | *Target loses 10 Composure; the walls will not stop talking.* **[10 Lament DMG [Lament]]** | When the target remains in the Gallery. |
 | { *The Spoken Truth* [**Attack**] } | "The gallery says aloud the one thing you never wanted heard — and it cuts." | [A revealed truth strikes like a blade.] | *Inflicts Lament pressure and one wound of exposure.* **[14-22 Lament DMG [Lament]]** | When the Gallery is provoked. |
-| { *The Chorus of Lies* [**Attack**] } | "Every voice in the gallery speaks at once — and none of them agree." | [A wall of contradictory whispers overwhelms the target.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Gallery is commanded or struck. |
-| { *Every Secret Told* [**Ultimate**] } | "The gallery gives up every secret it ever collected — all at once." | [The Gallery unleashes every whispered confidence it holds.] | *All in range suffer Lament pressure for three turns in the cacophony.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Chorus of Lies* [**Attack**] } | “Every voice in the gallery speaks at once, and no two of them agree about you.” | [Two hundred and twelve speakers with nothing in common but the room, all of them wrong in their own direction.] | *A heavy Lament charge; the target's Sorrow Gauge surges 15% while the walls contradict each other.* **[24-36 Lament DMG [Lament]]** | When the Gallery is commanded or struck. |
+| { *Every Secret Told* [**Ultimate**] } | “The hall gives up everything it has ever been told, and puts no name to any of it.” | [The carry widens and every confidence held in the room comes back at once, unattributed.] | *All in range take Lament pressure for three turns in the cacophony.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (blank oval faces in cracked oil, four exceptions among them, a hum in the boards, and your own voice arriving from a position you are not in) and Whispering Gallery is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** Confirm at the door and in the first minute: blank oval faces in cracked oil with four exceptions, the hum read off the contact gauge seated in the boards, and your own voice coming back from a position you are not standing in. The offset of each listener's voice is established before the walk begins; the marker is the offset and the gauge, not the whispering, which neither starts nor stops for the visitor.
 2. **Clash:** There is no clash. The team walks the hall end to end, reads the contact gauge, counts voices against the standing list of 212, and leaves; the session fails if anybody answers a voice, and it fails more seriously if anybody writes down who they think it was.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Restore names and listen without replacing missing details**.
+3. **Resolution:** The watch closes on the file's own condition — **Restore names and listen without replacing missing details** — which on this holding means paper: a name goes up when a document says so and on nothing else, and the walk supplies nothing. The session fails if anybody answers a voice, and fails more seriously if anybody writes down who they think it was; the gauge is read at the close and the confirmation that no identification was recorded is entered on the sheet.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.
+- If the reading is lost the carry does not go into the structure — nothing here has ever moved toward a person — it goes into the worker: **Clarity** first, and with it the familiarity the watch reports, where the voices become distinguishable and the private names start.
 - Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
 - The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Whispering Gallery reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- Where nothing is restored the baseline simply holds. The gauge has fallen four times in sixty years and has never risen back; a Sorrow Tide raises the whispering and leaves the baseline exactly where it was, which is how the wing knows the instrument means something.
 
 ## Appearance
 **Physical Form:** A long hall of cracked oil portraits with blank oval faces, four of which now have features. **Movement:** fixed; the frames hang where the inventory places them and nothing in the hall has ever shifted position.
@@ -144,9 +144,9 @@
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Whispering Gallery is recorded as an Object/Place with Place-Lament manifestation and Lament elemental expression. The current record places it at SECTOR-B-01, Zone B; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table is the Object/Place rule applied to a hall: Flerehan cannot reach it and Pugnahan has nothing to confront, which leaves the two Work Types the file names — Viderehan, walking the frames for districts, trades and working years and stopping short of any name or face; Ferrehan, the full length walked in silence, harder on the fifth watch than the first because by then a worker can tell the voices apart. The instrument is not the table. It is the contact gauge seated in the boards, read at every watch.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede events. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** Read it on the gauge and in the voice count. A lower carry for a shift is what a work cycle buys here, and the baseline is untouched by it. The baseline itself moves for one thing only — a name restored from a surviving document — and the four steps in sixty years are the whole of it. A session in which a worker answers a voice, or writes down who they believe one to be, is not a reading; it is an entry in the register of the Year 4144 problem.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -160,9 +160,9 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-The escalation pattern is specific to Whispering Gallery: it is not a generic containment event. Personnel must record the first trigger, the first visible change in the Place-Lament form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at SECTOR-B-01, Zone B, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The widening here is documentary, not thermal or structural: the hall takes in connected rooms over days when a memorial is registered anywhere in the city without names on it, and the cause is never in the building. Record the trigger, the first room beyond the hall to take up the behaviour on its own occupants, the extent of the carry, the gauge amplitude and the voice count — and walk the edge each session to mark it rather than inferring it from the last reading, because no instance of the edge receding has ever been recorded.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a manifestation or an expansion, remove nonessential personnel, and apply this condition: Restore names and listen without replacing missing details. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** Establish the perimeter on the marked edge, establish whether the event is a manifestation or a widening, clear non-essential personnel, and apply the file's condition — documentary restoration only, and listen to everything else without supplying anything. Viderehan and Ferrehan only; there is nothing here to confront and nothing that weeps back, and an unlisted Work Type used as an improvised countermeasure is entered against the worker who used it. |
 
 
 ### Detailed Activation Record
@@ -185,7 +185,7 @@ The escalation pattern is specific to Whispering Gallery: it is not a generic co
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
+**Appearance:** a slender blade of Lament Han-crystal, near-clear, holding one unvarying tone while it rests and taking a thin film of Han along the edge the moment it is drawn.
 
 **Damage:** Lament 5-9
 **Speed:** 2 (Normal)
@@ -193,15 +193,15 @@ The escalation pattern is specific to Whispering Gallery: it is not a generic co
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Whispering Gallery's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — with the hall's own method: not a single argument but a room of them, and what the target comes away holding is contradiction.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** the wielder carries the hall's unwept grief for as long as the blade is on them, and after a season of it the weeping begins unasked. The Armoury enters the symptom against the wielder, following the file's own logic: what accumulates on this posting is the work, not the steel.
 
 ### M.A.W. Suit — The Gallery Shroud
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrap of Lament Han-silk with the nap left unbrushed, cold to a bare hand, that swallows the room-tone around whoever wears it and keeps the hall’s own silence in the weave.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -211,19 +211,19 @@ The escalation pattern is specific to Whispering Gallery: it is not a generic co
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Whispering Gallery's kind of pressure.
+**Ability:** Wards the Mind — emotional stability, willpower — where the pressure is Lament and nowhere else; the treatment is the hall's own, cut for sorrow that arrives as a voice, and the record holds no other order for it.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** the wearer loses their footing with minor joys first, and the loss is not theirs to report: the pair system requires the second worker to log it, and on a set issued for a single rotation the entry stands whether or not the wearer agrees the numbness is there.
 
 ### M.A.W. Stigma — The Gallery Stone
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a small stone of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a small stone of Lament Han-crystal on a short cord, colourless to the eye, that runs cool in the hand and colder near the hall.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat against the source holding. The stone's own property is why it is not issued on request: the bearer hears every name they cannot recover, which for a watch on this hall is a list of 212.
 
 **Ability:** Reveals the name attached to a forgotten image.
 
@@ -233,18 +233,18 @@ The escalation pattern is specific to Whispering Gallery: it is not a generic co
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Whispering Gallery and carries what Whispering Gallery carries: the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+Nothing in this set equips a worker against the hall; each piece is the hall in small, and each one takes what the hall takes — grief the bearer never wept, the weeping arriving whether the use was right or wrong, and the Armoury's entry against the wielder rather than the piece. The grade records how stably the extraction took and nothing about the cost column beside it.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Whispering Gallery takes: the wielder feels the entity's unwept grief. |
-| **During use** | Watch for Whispering Gallery's toll — the wielder feels the entity's unwept grief — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | Whispering Gallery's cost is continuous rather than occasional: the wearer becomes numb to minor joys. The second worker's call stands against the wielder's. |
-| **After use** | Return the piece and check the sealed baseline: has Whispering Gallery's cost — the wearer becomes numb to minor joys — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, and a dated baseline struck against the hall's toll — unwept grief carried, on the file's own record — closed and signed before the piece goes on. |
+| **During use** | The first sign on this set is the bearer beginning to weep, and it goes into the log under the hour, by the second worker; the wearer's own account is written down afterwards and kept apart from it. |
+| **At limit** | The limit is reached the moment the wearer stops reporting the numbness — on a Whispering Gallery piece the call belongs to the observer, not to the wearer — and it does not wait for agreement. |
+| **After use** | The piece is returned, the baseline is opened, and the two records are read side by side: if the dulling is still there once the rotation ends, the bearer comes off the hall until a second person confirms the joys have returned. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade is a reading of how cleanly the sorrow separated from the hall, and it says nothing about what a bearer carries away. This set's costs are not graded anywhere: grief the bearer never wept, minor joys gone numb, and — on the stone — a litany of names the bearer can hear and cannot recover, which no stat line on this table has a column for.
 
 ## 관찰 기록 (Observation Log)
 
@@ -273,7 +273,7 @@ Every piece in this set is a fragment of Whispering Gallery and carries what Whi
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Whispering Gallery (C-IIβ-185 [LP]) is logged as a Place-Lament manifestation expressing Lament, held at SECTOR-B-01 in Zone B. It is a memorial hall that lost its register. Two hundred and twelve voices are distinguishable in it, four portraits have faces, and the gap between those two numbers is the whole of the holding.
+Containment description for C-IIβ-185 [LP], the holding called Whispering Gallery: a Place-Lament manifestation at SECTOR-B-01 in Zone B, a memorial hall that kept its portraits and lost its register. Two hundred and twelve voices are individually distinguishable in it, four portraits have faces, and the distance between those two numbers is the whole of the holding.
 
 **Entry 2 — <Contact Gauge Series, SECTOR-B-01>**
 The boards carry the hum and the contact gauge reads it, which makes this the only part of the phenomenon a sceptical reader will accept. Baseline amplitude has fallen four times in sixty years and has never risen back: 1.00, then 0.94, 0.89, 0.85, 0.81. Each step falls in the week a name was restored from a document. Nothing else in the series moves at all — not Tides, not works, not the four grants of the Stone.
@@ -289,11 +289,11 @@ The application is refused and I will set out why at length, because the applica
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Whispering Gallery; the other feeds it.
+> What the watch is choosing at the close of contact: keep the file's two rules — a name goes up only on a document, and nothing in the walk may be answered — or supply the recognition the hall has been asking for since the register went.
 
-| Do the thing on file: Restore names and listen without replacing missing details. | Do the obvious, decent thing instead, and feed Whispering Gallery. |
+| Keep the file: walk the full length answering nothing, and let a name go up only when a surviving document supplies it. | Supply the recognition instead — answer a voice, or caption a frame on the strength of who you are sure it is — the way the file's own history shows people doing. |
 |---|---|
-| Requires the worker to walk its full length without answering every voice. The sorrow is witnessed; Whispering Gallery is fully recorded. | Reveals the history behind the frames. The gauge climbs and Whispering Gallery withdraws without revelation. |
+| The gauge is read at both ends and the shift's carry is lower; the register is untouched and the sorrow is witnessed, the hall fully recorded. | A voice is answered or a frame captioned on recognition; the carry climbs for the rest of the session and the entry joins the file's own record of the Year 4144 problem. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -306,7 +306,7 @@ The gallery hums beneath your boots. Portraits watch without faces, and whispers
 
 **With continued exposure:** Time in the containment zone moves differently. The Lament pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Place-Lament is teaching you its sorrow.
 
-**When the entity activates:** When the Gauge tips, the Lament becomes a force rather than a feeling. The Place-Lament was holding; now it releases.
+**When the entity activates:** The hall tips into a widening rather than a display: the carry moves out through the connected rooms over days, and rooms that have never held a portrait begin whispering the histories of their own occupants, with the same refusal — circumstances, never names. Nothing in the hall itself changes, and the instrument for reading it is still the contact gauge in the boards.
 
 **After departure:** The door seals and the pressure drops, but residue clings — Lament in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
 
@@ -363,20 +363,20 @@ Some sorrows mourn the forgotten. Whispering Gallery mourns the half-remembered 
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). Nobody has been injured here and nothing in the hall has ever moved toward a person. The grade is the carry: the field widens slowly through connected halls on every new unnamed memorial, and rooms it reaches begin whispering the histories of their own occupants.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan only. Flerehan and Pugnahan are not available for a Place manifestation; an earlier edition of this file named Flerehan in error.
+- Viderehan and Ferrehan only; Flerehan and Pugnahan are not available to a Place manifestation, and an earlier edition of this file named Flerehan in error. It is corrected here.
 - Do not identify by recognition, and do not record a guess even privately. A name goes up on a document and on nothing else.
 **Observation Notes:**
 - Voices distinguishable: 212, stable across forty years of recording. Portraits with features: 4. Names restored from documents: 4.
 - Contact-gauge baseline 1.00 → 0.81 in four permanent steps, each in the week of a restoration.
 **Cross-References:** The Year 4144 misidentification and the rule it produced · the surviving fragments of the memorial register, printed with the gaps at true length · the standing fragment requisition · the Year 4229 descendants' application and the minute refusing it
-**Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant)
+**Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant); the standing fragment requisition runs through every office that keeps pre-Year-4162 papers, which is the only containment measure here that has ever produced a result.
 **Originator:** The citizens of a district whose memorial register was lost — 212 of them, individually audible and collectively unnameable.
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The file runs on two numbers and both are read, not inferred. The first is the contact gauge in the boards: **1.00** at classification, then **0.94**, **0.89**, **0.85**, **0.81** — four permanent steps in sixty years, each falling in the week a name was restored from a document, with nothing else in the series moving at all. The second is the voice count: **212** distinguishable speakers, stable across recordings forty years apart, against **4** faces and **4** names restored. Four restorations against 212 voices puts the discharge of the condition at roughly **3,000 years** at the observed rate, which the file prints rather than argues with. Everything else in the record is the Year 4144 rule and the paper that rule leaves the watch: a name goes up on a document and on nothing else.
 
-**Review requirement:** The review requirement: every manifestation, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every manifestation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify at every watch and after every manifestation or widening: the contact-gauge amplitude against the last four readings, the voice count against the standing list of 212, the frame inventory, and the line confirming that no identification was recorded — required even when it is obviously true. The carry edge is walked and marked each session rather than inferred, and an unnamed memorial registered anywhere in the city is the trigger for the whole review.
 ## Watch Record
 
 ### Faceless Portraits
@@ -436,11 +436,11 @@ The four restored names are inscribed on their frames. The faces came back withi
 
 ### Registry Trivia
 
-- **Classification detail:** Whispering Gallery is an Object/Place with Echo (II) — Repeats whispering coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is SECTOR-B-01, Zone B.
+- **Classification detail:** Whispering Gallery is an Object/Place with Echo (II) — Repeats whispering coherence and Moderate (β) potency; the class is why two of the four Work Types are unavailable and why the instrument here is a gauge in the floorboards rather than a response in the room.
+- **Field detail:** Lament is the element it presents, and the registration pins it to SECTOR-B-01 in Zone B, where the carry widens through the connected halls and the edge is walked and marked at every session.
 - **Recognition detail:** Blank oval faces in cracked oil, four exceptions among them, a hum in the boards, and your own voice arriving from a position you are not in.
 - **Record detail:** This archive holds other records about lost names, and they differ in what is missing. Here nothing is unknowable and nothing is forbidden to say: the people are individually present and audible, and what is absent is the one kind of evidence the law will accept about who they are. Confirm the designation C-IIβ-185 before applying any of this elsewhere.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Containment holds the hall, not the sorrow, and the measure that works is paper: the standing fragment requisition that brings pre-Year-4162 memorial documents in from every office. Even sealed, the holding alters the local Han field — adjacent personnel report dreams, headaches and gauge drift — and the four steps on the gauge remain the only permanent movements the file has ever recorded.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-185

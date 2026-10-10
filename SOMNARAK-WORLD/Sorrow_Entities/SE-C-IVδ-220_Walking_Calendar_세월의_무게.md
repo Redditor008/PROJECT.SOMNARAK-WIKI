@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Weight pressure; 35% against other pressure types |
+| **Resistance** | 45% against Weight pressure; 35% against other pressure types — and on this holding the second figure is untested, because nothing here has ever needed to resist anything but the floor giving way. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 600/600 |
 | **Han Pressure [ATK]** | 25–54 per hit · Weight |
@@ -81,21 +81,21 @@
 | { *The First Gray* [**Debuff**] } | "A strand of your hair goes gray — and the years begin to show all at once." | [The Years press; the target ages visibly in moments.] | *Target suffers -10 Resolve as time bears down.* **[10 Weight DMG [Weight]]** | When the Years settle on the target. |
 | { *The Long Memory* [**Debuff**] } | "Decades settle on your shoulders — and you remember things that have not happened to you yet." | [The accumulated years weigh heavier; the target feels old beyond their life.] | *Target loses 10 Resolve; the weight of time is immense.* **[10 Weight DMG [Weight]]** | When the target remains under the Years. |
 | { *The Aching Joint* [**Attack**] } | "Age, made into pain, strikes all at once." | [The Years convert time directly into bodily ache.] | *Inflicts Weight pressure and one wound of sudden age.* **[14-22 Weight DMG [Weight]]** | When the Years are roused. |
-| { *The Lifetime* [**Attack**] } | "It gives you a whole life's weight in a single instant." | [The Years drop an entire lifetime of heaviness onto the target.] | *A crushing Black blow; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Years are confronted. |
-| { *The Century* [**Ultimate**] } | "A hundred years, for everyone, now." | [The Years spread across the field, aging all within reach.] | *All personnel suffer Weight pressure for three turns under the century.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Lifetime* [**Attack**] } | “It hands you a whole life's weight in one instant, and it is not a metaphor about your life.” | [The mass it has accumulated across a hundred and thirty years is set down on the target at once.] | *A crushing Weight blow; the target's Sorrow Gauge surges 15% as the present goes thin.* **[24-36 Weight DMG [Weight]]** | When the run is blocked or the figure is cornered. |
+| { *The Century* [**Ultimate**] } | “A hundred years, for everyone, now — the list read all at once instead of one line at a time.” | [The opening list is discharged into the room as pressure rather than as reading.] | *All personnel take Weight pressure for three turns under the accumulated years.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Walking Calendar is confirmed by a bowed figure under fused slabs, calendars and city records, walking a straight line at the pace of an old man, singing years in order. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** Confirm by the suit load at the door and by the song: a bowed figure under fused slabs, calendars and city records, walking the straight run at an old man's pace and singing years in order. Three dates are taken from the song and checked against the civil record outside before the cycle opens, and the traverse tally is read off the chalk board at the end wall.
 2. **Clash:** The crew walks the long chamber alongside it at its own pace, takes the traverse tally and the date count, and does not argue with it about history, including when it is wrong.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Archive the truth; do not erase or excuse it**.
+3. **Resolution:** The watch closes on the file's own condition — **Archive the truth; do not erase or excuse it** — which at this holding is performed and not contemplated: the current opening list is read aloud in the chamber, at its pace, item number and description, in full and to the end. A part-read list is entered as unperformed and the cycle is run again under a doubled watch.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resolve** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Walking Calendar reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- If the suit load is exceeded the pressure goes into the worker instead of into the structure: **Resolve** depletes first, the present thins with it, and a long-watch worker asked the date at the gate answers from the song rather than from the printed sheet on the door.
+- Past about four hours in the chamber the present stops holding: the pre-entry check is therefore made against a printed date held outside, because personnel who have been inside cannot reliably state what day it is.
+- The Maul carries the event's arithmetic rather than its damage: the tick is cumulative age, not bleeding, and a shoring lead who carries it through two openings is stood down for a season by standing order, not by preference.
+- Where the list is not read the mass does not fall. The gauge returns to its opening figure over about a season, the traverse and date counts are untouched, and the unread list is logged as unperformed — the entry the previous wording produced on every cycle for thirteen years, which is why it was rewritten in Year 4231.
 
 ## Appearance
 **Primary Form:** A bowed ancient figure under fused layers of stone slabs, old calendars and worn city records, gaining a year of apparent age with every step it takes. **Gait:** lead-slow, unvarying in direction, never stopping at either end of the run.
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Walking Calendar is recorded as a Subject with Subject-Body manifestation and Weight elemental expression. The current record places it at SECTOR-A-01, Alpha Tree deep storage; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table is short because the holding is: Flerehan softens the chronology without changing a date in it, Ferrehan walks the full run beside it and ends when the worker does, Viderehan takes date and consequence out under the Pyre instrument, and Pugnahan is a literal contribution to the mass — the suit load rises during the exchange and the gauge with it. A stable reading under Viderehan is correct and is not safety; the chamber's own instruments, the chalk tally and the load at the door, are what the watch actually reads.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede events. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** Read it on the wall and on the suits. A falling gauge presents as a softer chronology and a chamber that is lighter when the door opens, and it stays down about a season. A rising gauge means the worker has added their own anger to the mass — the increase is measurable as suit load before it is audible — and the two part-read lists on record are the only sessions that have produced an excursion with no reading at all to compare it against.
 ## Containment Event Behavior
 
 > *"Walking Calendar is pulsing. It has not left the run. Get the shoring in and let it finish."*
@@ -173,7 +173,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
+**Appearance:** a two-handed maul of Weight Han-steel, matte, that reads heavy on the scales before anybody lifts it and warms along the face when a shoring crew stands to.
 
 **Damage:** Weight 10–15
 **Speed:** 3 (Fast)
@@ -186,15 +186,15 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** The multiplier applies to direct damage and to Tick damage separately, and the Tick here is cumulative age rather than bleeding — a shoring lead who carries the Maul through two events is stood down for a season by standing order.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Walking Calendar's weight signature in the strike.
+**Ability:** Deals Weight damage against the Han — sorrow reserves and karmic debt — by transferring mass rather than by rupture: what the strike carries, it sets down, and the tick that follows is cumulative age.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** the wielder gets heavier by a figure the scales can see and the wielder cannot feel; carried through two openings, the ageing is slight on the day and reads at the season's review.
 
 ### M.A.W. Suit — The Years Mantle
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
+**Appearance:** a mantle of Weight Han-weave, matte and heavy for the cloth it is cut from, that carries the long chamber's wet-stone smell for a week after a cycle.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -212,13 +212,13 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
+**Appearance:** a charm of Weight Han-steel on a short chain, matte, that weighs more in the palm than its size accounts for.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to the working stat against the source holding, and nothing outside the long chamber; the charm's size does not correspond to the scale of the benefit, which is the first thing every bearer remarks on.
 
-**Ability:** Grants a minor boon tied to Walking Calendar's sorrow; the effect mirrors the entity's nature.
+**Ability:** It holds a reader at a task past the point where they would otherwise set it down — the trait the extraction wing records in every bearer it has conferred one on, and does not explain.
 
 **Cost:** The bearer moves a little slower.
 
@@ -226,18 +226,18 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### M.A.W. Use Notes
 
-Each piece extends Walking Calendar rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder feels progressively heavier; prolonged use ages them slightly — arrives early and does not reverse on return.
+No piece in this set equips a worker against this holding; each one extends the reading. The benefit holds only inside the pattern the file records, and outside it the toll — the bearer gets progressively heavier and ages slightly — arrives early, shows on the scales, and does not reverse on return.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Walking Calendar's toll being that the wielder feels progressively heavier. |
-| **During use** | The first sign that Walking Calendar is charging: the wielder feels progressively heavier. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The wearer experiences the age of everything they touch, without remission. On a Walking Calendar piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether Walking Calendar's cost is still showing — the wearer experiences the age of everything they touch. |
+| **Before use** | Wielder, piece, gauge, and the suit load at the door entered as the baseline the piece's toll will be read against; on the Maul, the opening-list cycle the bearer is carrying is entered beside it. |
+| **During use** | The weighing is done at handover and is not trusted to the bearer: a wielder's own account of getting heavier trails the scales by about a shift, so the second worker reads the load and enters the hour. |
+| **At limit** | Everything the wearer touches reads as old to them, without remission, and on this set that is the end of the use whatever the wearer says. The observer calls it. |
+| **After use** | Take the piece back, weigh the bearer against the sealed baseline, and ask a colleague rather than the wielder whether any of it is still showing; what this set ages does not present on the day. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade records how cleanly the weight came off the holding, not what a bearer carries home. This set's costs are mass and years, and the table can only point at both: the Maul's tick is cumulative age, the Mantle's is the age of everything the wearer touches, and the Charm has nine issuances in its record, every one of them earned by sitting a cycle in which a list was read to the end.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced. The mechanism is understood: it walks, it accumulates, it sings dates, and the dates are real. What has not been established is why the count of distinct dates rises in a year when no additional history occurs.
@@ -265,7 +265,7 @@ Each piece extends Walking Calendar rather than equipping its wielder against it
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Walking Calendar (C-IVδ-220 [WS]) is logged as a Subject-Body manifestation expressing Weight, held in the long chamber at SECTOR-A-01, Alpha Tree deep storage. It walks a straight run, gains a year of apparent age with every step, and sings real dates in sequence. Its mass peaks on the days sealed records open.
+Containment description for C-IVδ-220 [WS], the holding called Walking Calendar: a Subject-Body manifestation expressing Weight, held in the long chamber at SECTOR-A-01, Alpha Tree deep storage. It walks a straight run end to end without stopping, gains a year of apparent age with every step, and sings real dates in sequence; its mass peaks in the fortnight either side of an opening date on the office's list.
 
 **Entry 2 — <Excerpt from Field Log, Year 4218>**
 Walks the run end to end, roughly six hundred traverses a season, never stopping at either wall. Personnel in the chamber carry centuries of responsibility at once and none of it is theirs. The song is dates. Somebody on the first watch thought to write them down, and that is now the second instrument of the holding.
@@ -284,11 +284,11 @@ I have had the date sheets checked against the record office's expiry schedule a
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Walking Calendar; the other feeds it.
+> What the watch is choosing at the close of contact: read the current opening list into the chamber, in full, to the end, or take the shorter road through it that the file's own record shows people taking.
 
-| Archive the truth; do not erase or excuse it — as written, without improvising. | Depart from the condition for good reasons, as Walking Calendar's record shows people do. |
+| Walk the run beside it and read the opening list aloud — item number, deposit date, opening date, one line — with nothing added and nothing edited out. | Stop partway, editorialise on the items that deserve it, or argue the history with it while the run is being walked. |
 |---|---|
-| Sings a softer chronology and lowers its burden. The sorrow is borne; Walking Calendar is fully recorded. | Adds the worker's anger to its weight. The gauge climbs and Walking Calendar withdraws without revelation. |
+| The gauge falls twelve to twenty points and stays down about a season; the traverse and date counts are untouched. The sorrow is borne and Walking Calendar is fully recorded. | The mass rises against the reading, the chamber is left part-read, and the same list is scheduled again under a doubled watch. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -299,15 +299,15 @@ An ancient figure crosses the vault, dragging years behind it like chains. Dates
 
 **At first contact:** The door of the long chamber opens on a room that is heavier than the corridor, measurably — suits read it before people do. It is at the far end and already walking, and it does not alter course, hurry, or acknowledge the door. The song arrives before the figure resolves, and it is not a melody: it is a sequence of years, sung in order, in a voice like stone moving on stone.
 
-**With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Weight has a history here, and prolonged exposure makes that history legible.
+**With continued exposure:** The chamber stops reading as a room and starts reading as a duration: chalk at the end wall, the tally transcribed at handover, the load on the suits before the figure has resolved out of the far end. Nothing in it is still and nothing in it is in a hurry. The run is surveyed, the pace is the pace, and the only thing that moves is the thing that was already moving before anybody in a suit was born.
 
 **When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Weight pressure spikes — not gradually but like a door slamming open. The Subject-Body shifts from presence to action.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Weight in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** The door seals and the pressure comes off the suits by degrees, but part of the holding goes home with the watch: Weight in the suit fibres, in the memory, and in the space between thoughts where Fracture begins. Asked the date at the gate, a long-watch worker answers from the song.
 
 ### Interaction Pattern
 
-Walking Calendar does not exist in isolation. Its recorded relationships with The Broken Clock, The Burning Library, The First Tear should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Walking Calendar is filed beside three holdings that keep time or keep records — the catalogue's doing rather than the register's, since it was filed by what it sings — and the wing notes the selection bias in every report it issues on the pairings. None of the three is settled, and nothing outside that group has ever reacted to it at all.
 
 **Interaction method:** Baseline alone, then pair — and with this holding the measurement that matters is not distance but the song. Record whether the date sequence changes in the other entity's presence, whether any date repeats, and whether the count rises during the session. The Burning Library pairing is the only one that has ever shortened it.
 
@@ -316,7 +316,7 @@ Walking Calendar does not exist in isolation. Its recorded relationships with Th
 
 Walking Calendar's pairings are all with holdings that carry time or records, which is not a coincidence of the register but a consequence of how it was catalogued: it was filed by what it sings. The wing notes the selection bias in every report and has never been able to correct it, because nothing outside that group reacts to it at all.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Holding paired | The contact, as observed | What the watch measured | What is still owed to the file |
 |---|---|---|---|
 | **The Broken Clock** | Both hold time wrongly and in opposite directions: the Clock stops it, the Calendar accumulates it. Neither acknowledges the other in any session. | No measurable effect on either side in nine pairings, which the wing continues to find more interesting than a result. | Record the date count and the Clock's reading; file the null as a null and schedule the next one. |
 | **The Burning Library** | The song shortens in the Library's presence — fewer distinct dates, repeated more often — and recovers over about a week. | The only reduction in the date count ever observed. The wing has declined to use it as a management measure, on the ground that it is burning the record to quiet the witness. | Record the count hourly during and daily for a week after, and attach the refusal note to every request to repeat it. |
@@ -364,14 +364,14 @@ Some sorrows are personal. This one is a schedule. It is not the shape of a city
 - Formed from records that were never erased: deposited, sealed for ninety years, opened on schedule to an empty hall.
 - Mass is a function of movement, not of time. It is heaviest after a long walk and in the fortnight either side of an opening date.
 **Cross-References:** Zone A · The Council · The Cheongula · The Maw
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
+**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat); the municipal record office supplies the opening list and the expiry schedule, and the reading the wing performs once a year is the only standing cycle at this holding permitted to run past a shift.
 **Originator:** Every generation that inherited the city’s crimes.
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Three figures govern this record and the smallest one moves the most. The traverse count is the first: about **600** a season against a chalk tally at the end wall, kept by hand because mechanical counters record the pace and a person notices it. The date count is the second, and it is the holding's real reading — **1,118**, then **1,604**, then **2,219** distinct dates in three consecutive years, matching the record office's expiry schedule to within eleven for seven years running. The third is the term: **ninety years** from deposit, automatic and unstoppable by any officer, with **14,211** early-opening petitions lodged since Year 4203 and **411** granted. The holding is a hundred and thirty years of kept promises, and the thing it needs is not re-verification but a reader, once a year, at walking pace.
 
-**Review requirement:** The review requirement: every corruption event, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every corruption event, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify at every cycle, every corruption event and every annual opening: the traverse tally, the suit load at the door, both listeners' date sheets filed unreconciled, and the printed date held outside the chamber. Within a fortnight of an opening date the holding's own figures are not comparable to anything, and the file's rule is to read them against the schedule rather than against the previous season. The condition itself was rewritten in Year 4231 and is performed once a year, on the first watch after the opening, by a doubled watch.
 ## Apex Record
 
 ### Each Step Adds a Year
@@ -440,10 +440,10 @@ Three standing instructions govern the reading. Do not stop before the end; a pa
 ### Registry Trivia
 
 - **Classification detail:** Walking Calendar is a Subject with Entity (IV) — Ancient and weary coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is SECTOR-A-01, Alpha Tree deep storage.
+- **Field detail:** Weight is the element it presents, and registration pins it to SECTOR-A-01 in the Alpha Tree's deep storage, where the long chamber was rebuilt from a square room into a straight run so that a body made of accumulated years would never have to turn.
 - **Recognition detail:** A bowed figure under fused slabs, calendars and city records, walking a straight line at the pace of an old man, singing years in order.
 - **Record detail:** The Registrum rated the entity Low on a Critical (δ) line and stated that the figure does not move or speak, against a file in which it walks continuously and sings; both are corrected. The event rows claiming indiscriminate hunting are corrected against the Pulsing in Place doctrine, which the Apex Record settled years ago and which the event table had never been brought into line with. The Origin and Entry 5 paragraphs carried a Collector story belonging to another holding, twice, with a duplicated heading inside one of them. The Apex Record, the traverse tally, the long chamber and the parallel record-office log are preserved and extended.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Containment holds the body and the chamber, not the schedule. Even sealed, the holding alters the local Han field: adjacent personnel report dreams, headaches and gauge drift, and crews two corridors out report the same sensation at a third of the strength. The readings the file actually runs on are the chalk tally at the end wall and the load the suits report at the door.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-220

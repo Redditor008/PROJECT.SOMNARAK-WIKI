@@ -1,4 +1,4 @@
-# M.A.W. SUIT — The Warm Shroud
+# M.A.W. SUIT — The Somnolent Gossamer Shroud
 
 > *“It keeps a Dream from tearing through the wearer. It cannot make the dreamer choose waking life for them.”*
 

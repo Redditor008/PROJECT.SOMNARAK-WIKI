@@ -29,7 +29,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 30–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per successful work cycle, taken from the Archive's own audit tallies rather than from a live reading |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Single-use drawing trigger — ground to dust upon circle completion |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · β (Moderate) |
@@ -40,7 +40,7 @@
 ### Operational Notes
 
 - The trigger is single-use. Completing the drawn circle destroys the entity, grinding it to dust, and no second activation is possible.
-- Viderehan and Ferrehan are the only valid approaches; there is no counterpart here to engage or to confront.
+- Viderehan and Ferrehan are the only approaches the file allows; there is nothing here to confront and no counterpart to engage.
 - Observation documents the partial arc without extending it. Endurance requires holding the implement without completing the stroke.
 - Because destruction is irreversible, all work is conducted under two-person authorisation and the implement is removed from the chamber between cycles.
 - Yield must be extracted before any drawing work begins. Once the circle closes there is nothing left to extract from.
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — stationary artifact |
-| **Resistance** | 35% against Void pressure; 20% against other pressure types |
+| **Resistance** | 35% against Void pressure and 20% against the rest — an instrument of law, and it holds against anything that would overrule it |
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
 | **Sorrow Gauge [HP]** | 480/480 |
 | **Han Pressure [ATK]** | 10–22 per hit · Void |
@@ -88,7 +88,7 @@
 
 1. **Tension:** Personnel identify the single-use A-Relic construct, verify containment integrity, and evaluate emergency tactical need.
 2. **Clash:** The team conducts Viderehan and Ferrehan to harvest ambient Han-Energy while monitoring sector stability.
-3. **Resolution:** The team completes standard containment quotas, or deliberately triggers the A-Relic discharge to resolve an existential facility breach.
+3. **Resolution:** The watch closes on the standard containment quotas, or the Relic is deliberately spent to answer an existential breach of the facility — and the file registers a suppression condition: **Draw the circuit by hand and complete it, or leave the chalk on the tray**. The clause is the whole of the handling discipline: the chalk is never delegated, and a circle is never left half-drawn.
 
 ### Consequences
 
@@ -192,7 +192,7 @@ The escalation pattern is specific to The Magistrate's Strike-Through: it is not
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
-> *(Archival Framework: As an A-Relic single-dossier integrated entity, all three M.A.W. profiles are preserved directly in this primary dossier to prevent resonance fragmentation).*
+> *(Cross-reference note: the strike-through carries one dossier number, and its three M.A.W. pieces stay under it. A struck line is still part of the page it was struck from, and the equipment is filed the same way — nothing removed, nothing re-shelved.)*
 
 ### M.A.W. Weapon — The Nullifying Stylus
 
@@ -271,7 +271,7 @@ M.A.W. drawn from this entity embodies bureaucratic erasure. It protects by maki
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The chalk is logged as a mineral artifact from the High Tribunal vaults. Initial touch triggers slight fingertip numbness. |
+| **Initial exposure** | The chalk stands on the register as a mineral artifact out of the High Tribunal vaults; a first touch leaves the fingertips faintly numb. |
 | **Sustained observation** | Continuous monitoring shows the chalk draws ambient noise and emotional guilt from the surrounding room, converting it into inert mineral dust. |
 | **Activation or escalation** | If exposed to loud shouting, the chalk vibrates and emits a cloud of dry lime that silences all speakers for sixty seconds. |
 | **Post-contact review** | Observers must complete a standardized memory assessment before returning to active duty. |
@@ -284,7 +284,7 @@ M.A.W. drawn from this entity embodies bureaucratic erasure. It protects by maki
 Recovered from the High Magistrate's private chambers on Floor 6, sealed within a cedar box marked with the wax crest of the Cancelled Registry. The mineral exhibits zero radiometric decay and actively absorbs ambient acoustic waves.
 
 **Entry 2 — <Excerpt from Field Log>**
-"When the chalk is held between the thumb and forefinger, the handler's vocal cords contract involuntarily. Audio recordings in the observation booth capture faint, raspy infrasonic whispers: 'Cancelled... struck through... absent from this court...'"
+"When the chalk is held between the thumb and forefinger, the handler's vocal cords contract involuntarily. Audio recordings in the observation booth capture faint, raspy infrasonic whispers: 'Cancelled — struck through — absent from this court.'"
 
 **Entry 3 — <Excerpt from Lead Analyst Notes>**
 "Operative Seol-A inspected the registry ledger preserved beside the plinth. Every single entry across forty folio pages has been obliterated by an aggressive horizontal lime stroke. The ink underneath cannot be recovered even with multispectral imaging; the paper itself has forgotten who was written there."
@@ -297,11 +297,11 @@ Directorate Synthesis: The chalk is an instrument of legal nullification made fl
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Magistrates Strike-Through; the other feeds it.
+> The climax offers the observing worker one gesture, and the record divides the two outcomes by what the hand does with the chalk: the line drawn through to its end under the worker's own hand, or the chalk returned to the cedar tray with the circle left unclosed.
 
-| Draw a line through your own ID number on the clipboard. | Set the chalk back on the cedar tray with dry hands. |
+| Draw the line through your own number on the clipboard, by your own hand. | Put the chalk back on the cedar tray and leave it there, hands dry. |
 |---|---|
-| Your identity record turns blank; your credentials vanish from the facility mainframe. | The chalk settles in silence; the magistrate's sacrifice remains preserved for squad survival. |
+| The identity record goes blank and the credentials come off the facility mainframe. | The chalk comes to rest without a sound, and the magistrate's sacrifice stays on the books for the next squad. |
 | **OBSERVATION FAIL** | **OBSERVATION SUCCESS** |
 
 ## 감각 묘사 (Flavor Text)
@@ -322,7 +322,7 @@ The Magistrate's Strike-Through resonates with entities of judgment, debt, and a
 
 ### Entity Interaction Record
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| The Strike-Through's neighbour | How the two are read together | What the watch logged | What the entry carries |
 |---|---|---|---|
 | **The Iron Judge** | The Judge turns its gaze toward the chalk; gavel strikes become muted. | Reduces the Judge's damage output by 20%; maintain in separate vaults. | Gavel impact decibels, chalk dust volume, room pressure. |
 | **The Debt Scale** | The pans of the scale oscillate wildly and refuse to balance. | Stabilizes both entities during routine shifts; lowers work difficulty. | Pan tilt angles, Han delta, weight discrepancies. |

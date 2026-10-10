@@ -27,7 +27,7 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | It opens somewhere between 45 and 65 per cent, and the spread is the finding: the terrace sets the figure, not the crew. |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
@@ -52,10 +52,10 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Lament pressure; 25% against other pressure types |
+| **Resistance** | About a third of the pressure — 35 per cent — when what presses is Lament, and a quarter when it is not. Neither figure describes a pursuit, because the tree cannot follow anybody: what the crew has to survive is the decision to stay under it. The gauge begins full at 653, its trip point sits at 75 per cent, and four turns is all the file allows. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 653/653 |
-| **Han Pressure [ATK]** | 18–41 per hit · Lament |
+| **Sorrow Gauge [HP]** | Full at 653, and still full at the close. The tree spends nothing of what it fills with. |
+| **Han Pressure [ATK]** | Lament, and it arrives as a band rather than a figure — 18 to 41 a strike, and the band widens the longer a crew has been standing beneath the canopy. |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
@@ -64,11 +64,11 @@
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
+| **Battle Length** | Long. Twenty turns is what the file plans against, and it is a plan rather than a measurement — nothing on this terrace has ever finished early. |
 | **Threat Role** | Major encounter |
 | **Coherence** | Fragment (III) — Ancient and sorrowful |
 | **Primary Pressure** | Clarity |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | Between 45 and 65 per cent at the bell. Which end it opens at depends on what the terrace has already been asked to hold. |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-D-02, Echo Gardens |
@@ -81,14 +81,14 @@
 | { *The Dripping Branches* [**Debuff**] } | "The willow weeps onto your shoulders — and the water is older than the tree." | [Sorrow-laden branches drape over the target; tears soak through.] | *Target suffers -10 Composure; the willow's grief is contagious.* **[10 Lament DMG [Lament]]** | When the target stands beneath the Willow. |
 | { *The Rooted Sorrow* [**Debuff**] } | "The roots are deep — and they connect to every grief this ground has ever held." | [The Willow's root-system channels old sorrow upward.] | *Target loses 10 Composure; the earth itself is weeping.* **[10 Lament DMG [Lament]]** | When the target lingers in the root-shadow. |
 | { *The Whipping Branch* [**Attack**] } | "A branch lashes down — heavy with water, heavy with years." | [A sodden branch strikes like a flail.] | *Inflicts Lament pressure and one soaking, heavy wound.* **[14-22 Lament DMG [Lament]]** | When the Willow is disturbed. |
-| { *The Full Weeping* [**Attack**] } | "The tree gives up its grief entirely — every leaf becomes a tear, and they fall like rain." | [The Willow releases its accumulated sorrow in a deluge.] | *A heavy Deep Blue downpour; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Willow is cut or struck. |
-| { *The Drowned Grove* [**Ultimate**] } | "The willow's roots spread — and everywhere they reach, the ground weeps." | [The Willow extends its sorrow across the whole field.] | *All in range suffer Lament pressure for three turns in the weeping grove.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Weeping* [**Attack**] } | "The tree gives up its grief entirely — every leaf becomes a tear, and they fall like rain." | [The canopy lets go of everything at once, every leaf a separate ending, and the terrace is under it while it falls.] | *A heavy Deep Blue downpour; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Willow is cut or struck. |
+| { *The Drowned Grove* [**Ultimate**] } | "The willow's roots spread — and everywhere they reach, the ground weeps." | [The root line runs out past the terrace and the saturated boundary goes with it, taking the dry ground first.] | *All in range suffer Lament pressure for three turns in the weeping grove.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — Weeping Willow is recognised by the wet ground and the silent shatter; the Gardens' four ordinary willows are dry beneath and their leaves are leaves — then the approach is set and the positions are taken.
+1. **Tension:** Identification rests on the ground and the sound: earth that gives slightly where it should be dry, and a fall of pale crystal that breaks without any noise. The Gardens' four ordinary willows are dry beneath and their leaves are leaves. Positions are taken from the margin, and the saturated boundary is marked at both ends of the cycle.
 2. **Clash:** Four turns from the margin, observation and endurance only. Nothing is cut, nothing is swept while anyone is sitting beneath it, and the saturated boundary is marked at both ends of the cycle.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Sit beneath it and allow endings to be acknowledged**.
+3. **Resolution:** The cycle is over once the crew has sat beneath the canopy, the endings have been acknowledged, the access is left open, and the collection waits until after closing. While anybody is sitting there nothing is cut and nothing is swept — and the closing mark is the boundary, since what is transacted below has never been what ended a cycle.
 
 ### Consequences
 
@@ -144,7 +144,7 @@
 
 ### Operational Work Notes
 
-Weeping Willow is a Fragment (III) Place of Major (γ) potency, Place-Lament manifestation, Lament expression, on the ending terrace of the Echo Gardens. Flerehan and Pugnahan are N/A because a Place cannot be grieved with or fought. A stable gauge is not a safe cycle here: Viderehan holds the needle level while showing the worker a specific ending that nobody attended.
+Weeping Willow is a Fragment (III) Place of Major (γ) potency, Place-Lament manifestation, Lament expression, standing on the ending terrace of the Echo Gardens. A Place offers nothing to grieve with and nothing to fight, which is why the Object/Place Work Rule lists Flerehan and Pugnahan as unavailable here. Nor is a level needle a safe session — Viderehan keeps it flat while showing the worker an ending that nobody attended.
 
 **Reading the response:** Read the fall rate and the night's collection count. A falling gauge presents as the rate easing and the sap slowing at the marked cracks; a rising one presents as the saturated boundary past its mark, which does not come back. The feeling beneath the canopy is not an indicator and has been wrong in both directions.
 ## Expansion Behavior
@@ -234,11 +234,11 @@ Escalation here is the root line. Record the trigger where one is identifiable, 
 
 **Cost:** The bearer weeps in their sleep.
 
-*The Willow Charm is not issued and cannot be requested. It has been conferred five times, in each case on a Warden who sat the full collection with a mourner who had stayed past closing rather than asking them to leave.*
+*The Willow Charm is never issued and cannot be asked for. Five times it has been conferred, each time on a Warden who sat the whole collection beside a mourner who had stayed past closing instead of asking them to leave.*
 
 ### M.A.W. Use Notes
 
-Each Willow piece is an extension of the holding rather than equipment. It performs as recorded while the bearer is carrying an ending of their own and costs more when they are not; the canopy shelters either way. The Charm is conferred after a work cycle and is not manufactured, requested, or scheduled.
+Nothing in the Willow set is gear. Each piece is a growth of the holding, taken out to work. The pieces hold their grade only while the bearer is carrying an ending of their own, and bill more when they are not; under the canopy there is shelter either way. The Charm is neither scheduled, nor requested, nor made.
 
 ### Field Use Record
 
@@ -278,7 +278,7 @@ Each Willow piece is an extension of the holding rather than equipment. It perfo
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Weeping Willow (C-IIIγ-140 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Willow formed from the sorrow of endings. Held at SECTOR-D-02, Echo Gardens. Its leaves fall even without wind.
+Weeping Willow (C-IIIγ-140 [LP]) is entered as a Place-Lament manifestation expressing Lament, held at SECTOR-D-02 in the Echo Gardens. It formed from the sorrow of endings; its leaves come down with or without wind, the ground beneath it stays wet, the break makes no sound, and the rate follows the district's week and not its weather.
 
 **Entry 2 — <Funerals and Departures>**
 It is most active around funerals and departures.
@@ -294,45 +294,45 @@ The willow sheds all day. The tears are pale crystal, they fall slowly, and they
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Weeping Willow; the other feeds it.
+> Two ways to close a watch under the canopy, and the Gardens' own accounts separate them within a season: one is done seated and leaves the access as it was, and the other is what the wing does quarterly under order — minuted at every annual review and recorded as correct in all three parts.
 
-| Sit beneath it and allow endings to be acknowledged. | Depart from the condition for good reasons, as Weeping Willow's record shows people do. |
+| Sit beneath it and allow the endings to be acknowledged — with the access left open, the branches resolved with the endings they carry, and the collection taken only after closing, by the groundskeeping rotation kept within its two-rotation cap. | Depart from the condition for good reasons, as the record shows people do: cut a branch, sweep under a seated mourner, or close an ending early — and the tree answers all three the same way, by weeping for the ones nobody attended. |
 |---|---|
-| Shelters the worker while they endure their grief. The sorrow is witnessed; Weeping Willow is fully recorded. | Reveals the endings carried by each branch. The gauge climbs and Weeping Willow withdraws without revelation. |
+| The fall rate holds inside the district's ordinary range, the boundary stays where it was last marked, and the watch closes with who sat and for how long written up beside the night's collection count. | The fall thickens until the break can be felt in the teeth, the boundary runs out past its mark onto ground that was dry, and the entry closes with the new line dated and the trustees notified. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-The branches bend around you like a curtain of tears. Leaves fall against your shoulders, each one carrying a goodbye. The Willow does not tell you that endings are good or bad. It simply gives them a place to be mourned.
+The branches close around you like a curtain. The leaves come down against your shoulders, each one carrying a goodbye, and the tree makes no judgement about them: it gives the endings a place to be mourned, and it does not say whether they are good ones.
 
 
 
-**At first contact:** The ground gives slightly underfoot where it should be dry. Then the canopy: pale crystal coming down slowly and silently, and the smell of warm salt from the trunk.
+**At first contact:** The ground gives underfoot where it has no business being wet, and then the canopy registers: pale crystal coming down slowly and silently, with the smell of warm salt off the trunk.
 
-**With continued exposure:** The shelter stops feeling like shelter and starts feeling like an invitation to finish something. Workers describe wanting to say goodbye to people they have not lost, and the seven-day check exists for exactly that.
+**With continued exposure:** The shelter stops behaving like shelter and starts behaving like an invitation to finish something. Workers report a wish to say goodbye to people they have not lost, and the seven-day check exists for precisely that.
 
-**When the entity activates:** The fall thickens and the shatter, which is always silent, becomes something you can feel in the teeth. Nothing moves. The ground is simply wet further out than it was.
+**When the entity activates:** The fall thickens and the silent break starts to be felt in the teeth. Nothing moves; the ground is simply wet further out than it was, and the new line is dated before the watch closes.
 
-**After departure:** The tense stays changed for days. Two workers have asked their supervisors, formally, to be told whether they had said anything about a living relative in the past tense during a watch.
+**After departure:** The tense stays changed for days. Two workers have formally asked their supervisors to be told whether they spoke of a living relative in the past tense during a watch, and the roster now reads the tense rather than the mood.
 
 ### Interaction Pattern
 
-This holding is read against the other mourning features of the Gardens. Each relation below has been observed and filed; none is settled; and all three were tested from the margin, the tree being immovable and the others fixed as well.
+The three records below set this holding beside the Gardens' other mourning features. All three were watched and written up, none of them is settled, and every one was worked from the margin — this tree does not move, and neither do its neighbours.
 
-**Interaction method:** Baseline each party alone over several cycles — fall rate, boundary, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
+**Interaction method:** Watch each holding on its own for several cycles first — how fast the leaves fall, where the boundary sits, what the gauge does — and only then set two of them side by side. When something shifts in both at once, record the range it moved through, how long it lasted, what set it off, what both gauges read, and what is still there after the crews separate. Check it again next cycle; in the Gardens a reading taken once has never been worth much.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. All three were proposed on a shared theme of grief, which in the Echo Gardens describes almost everything and distinguishes almost nothing.
+What follows is contact only, not alliance, and nothing in it is settled. Grief proposed all three, and in the Echo Gardens grief describes nearly everything and separates almost nothing.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Record read alongside | What the Gardens read the two as | What the watch actually measured | Entry the file requires |
 |---|---|---|---|
 | **The Sorrow Fountain** | Said to be fed by this holding's tears, which is the most quoted claim about either. | Six co-presences and a dye study. The Fountain's volume, composition and cycle were unchanged with the canopy screened and unscreened; the dye placed at the root line has never appeared in the Fountain in eleven years of sampling. The two are forty metres apart and unconnected. | All six co-presences, the dye series, and the composition analyses. |
 | **The Weeping Statue** | Both mourn without requiring an explanation, which is a resemblance and has always been recorded as one. | Four co-presences. Neither altered: the Statue's flow rate and this holding's fall rate were independent across all four, and neither gauge moved. The wing's note calls the pairing *two griefs in the same garden*. | All four co-presences, both rate series, and both flat gauges. |
 | **The Returning Tree** | Described in older copies as sharing memories of places that have ended, and as a transfer. | Three co-presences. Nothing was transferred, nothing was retained by either, and no consent arose to be recorded because there was nothing to consent to. The transfer language is inherited from a template and is withdrawn here. | All three co-presences, both measurement sets, and the withdrawal note. |
 
-**Interaction procedure:** Solo baselines first, across several cycles, with fall rate, boundary and gauge established for each party. Then record the first shared change, its range, duration and trigger, both gauges, and whether anything persists once the parties are separated.
+**Interaction procedure:** Solo baselines first, across several cycles, with fall rate, boundary and gauge established for each party before anything is brought near. Then enter the first shared change — range, duration, trigger, both gauges — and whether any of it persists once the parties are separated. |
 
 ## 이야기 (Narratio) — The Tale
 
@@ -368,7 +368,7 @@ Not every sorrow is a wound. Some are just the shape a full life leaves behind, 
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Major (γ). It has never harmed anybody and is gentle with everyone who comes to it. It expands at the root without limit, it returns people's farewells to them unasked on ground they did not know they had crossed, and the ground it takes does not drain again. The earlier entry grading it Minimal described its manner rather than its behaviour and is corrected here.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type and Viderehan holds the gauge level. Earlier copies named Flerehan, which the Behavior table records as unavailable to a Place; that line is an error and is corrected here.
+- Ferrehan leads and Viderehan keeps the gauge level. Earlier copies put Flerehan in the primary column; the Behavior table lists Flerehan as unavailable to a Place, so that line is an error and is corrected in this file.
 - Standard Gardens protocols, plus the three rules particular to this holding: the access stays open, nothing is swept while anybody is beneath the branches, and the boundary is marked and dated at every session.
 - The branches lower during the Consolihan, enough that the canopy touches the ground on the north side, and the collection that night is the largest of the year.
 **Observation Notes:**
@@ -441,11 +441,13 @@ The facility also **retains the extraction yield** from the material collected, 
 
 The trust's income is fixed. It is a charitable endowment of a defined size, laid out generations ago to maintain the Gardens' memorials, and it cannot be enlarged. The collection charge is now the trust's single largest line of expenditure, exceeding the whole of its planting budget. **Four memorials have been closed** and their maintenance discontinued, including two on the ending terrace itself, within sight of the tree. The trustees' minutes record the decisions and the reason for each.
 
-The objection is minuted at every annual review, raised by the trustees and supported in writing by the bay's senior Warden. It holds that the facility recovers twice from the same material, charging for the labour of collecting it and keeping the value of what it collects, and has never explained why the second does not extinguish the first; that the service is compulsory and the price unnegotiated, so the trust is a captive purchaser of a thing it never asked for and cannot refuse; and that the cost falls, in the end, on the memorials of the district's own dead — that the endowment laid down to remember people is being spent to remove the leaves that fall for the people nobody remembered.
+The trustees raise the objection at every annual review, and the bay's senior Warden supports it in writing. It holds that the facility is paid twice for the same material — charging for the labour of collecting it and keeping the value it collects — and has never explained why the second payment does not extinguish the first; that the service is compulsory and the price unnegotiated, so the trust is a captive purchaser of a thing it never asked for and cannot refuse; and that the cost falls, in the end, on the memorials of the district's own dead — that the endowment laid down to remember people is being spent to remove the leaves that fall for the people nobody remembered.
 
-The minute records the objection as **correct in all three parts**. It records that a set-off arrangement, crediting the trust with the extraction value against the charge and leaving the facility whole on its costs, was drafted in the ninth year, costed at a net loss to the facility of almost nothing, and has not been laid. And it records what the senior trustee said when the fourth memorial was closed, entered verbatim at her request and now the last line of the trust's annual report: *we are paying to have their grief taken away, and we are paying for it with their names.*
+The objection is recorded in the minute as **correct in all three parts**. A set-off was drafted in the ninth year — the trust credited with the extraction value against the charge, the facility left whole on costs — costed at a net loss to the facility of almost nothing, and never brought forward. And it records what the senior trustee said when the fourth memorial was closed, entered verbatim at her request and now the last line of the trust's annual report: *we are paying to have their grief taken away, and we are paying for it with their names.*
 
 ## Trivia
+
+- C-IIIγ-140's own figures, kept as numerals for look-up: gauge 653/653, pressure 18–41 per hit, resistance 35 / 25 per cent, threshold 75 per cent, 4 turns, the scythe at 40 Echoes, the charm conferred 5 times, 4 memorials closed, 2 rotations of the groundskeeping cap and 11 years of dye sampling.
 
 - It weeps when the Gardens are empty, through the closure weeks, and at the same rate; presence changes what happens to the leaves and not whether they fall.
 - A leaf dissolves where somebody has sat with it and persists where nobody has, which is why there is anything to collect at all.

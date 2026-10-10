@@ -377,6 +377,17 @@ The volume does nothing. It has no behaviour, no gauge worth watching, no respon
 
 **Review requirement:** After every opening, Tide, Ordeal or unusual interaction, re-verify line count, cover weight, the register of openings, the seal on every transcript, and the standing of the appointment practice and the disclosure scheme that was drafted against it.
 
+### Entity Interaction Record
+
+The two relations below were kept to show what this holding is not. Both counterparties hold things that were owed and never handed over, and neither pairing was arranged to produce a page: the station's rule is that no second holding is ever read to, and a cycle exists to take a count, not to see what happens.
+
+| Related entity | Canonical interaction | Observed operational effect | Required record |
+|---|---|---|---|
+| **Unheard** | The two ends of one street: there, words that were said and had no standing; here, grievances that were decided against and never said. A single co-presence, arranged while the opinion was in draft, with the cover weighted and no reader nominated. | One co-presence, the full watch. The pressure passed the cell and took no sound from it; the line count did not move and no ink appeared, the volume having no grievance of its own to hold. Unheard's readings were its ordinary corridor readings. Nothing was learned about the volume; the finding is that the two holdings do not read each other. | The co-presence, both flat series, the line count before and after, and the note that no reader was nominated. |
+| **The Undelivered Thanks** | A chance transit along the old Dawn route, logged because the figure bowed toward the cell and the Warden wrote down where in the corridor it stopped. There is no arrangement between the holdings and none is proposed; bowing at a weighted cover is not an interaction the protocol recognises. | One recorded transit. The figure bowed, the volume wrote nothing, and the Warden's line count was unchanged across the shift. Two registers of things that were owed and never handed over, both flat, which is the entry. | The transit log, the point at which the figure stopped, and the shift's line count. |
+
+**Interaction procedure:** No second holding is brought into the cell and no cycle is run to see what the volume does about it. A coincidence of route is entered in the log as exactly that — a coincidence and nothing more: the figure's position, the count, and whether ink appeared. The station's standing note is that this holding's interactions are all of one kind — one reader, one page, nobody else — and that every exception on record was somebody deciding to be the exception.
+
 ## Watch Record
 
 ### It Writes Itself

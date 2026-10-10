@@ -29,7 +29,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 10–14 per successful cycle, read off the seven-day recovery log rather than the site |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
@@ -41,7 +41,7 @@
 
 - The entity near The Scar is only recorded when no one is assigned to observe it, which is the central difficulty of its file.
 - A cycle reduces its activity. The pattern is unchanged, and no session has produced a direct observation.
-- Viderehan and Ferrehan are the valid approaches to the site.
+- The site accepts Viderehan and Ferrehan and nothing else; every other approach has been tried once and recorded once.
 - There is no breach counter. Instrumentation is left in place and recovered later, since presence of personnel suppresses the manifestation.
 - Extraction is authorized apart from the work cycle.
 
@@ -82,14 +82,14 @@
 | { *The Empty Furrow* [**Debuff**] } | "The seed is gone — but the furrow where it was planted still waits for something to grow." | [The absence of the Seed aches; the target feels potential that was never realized.] | *Target suffers -10 Composure; they mourn a thing that never was.* **[10 Lament DMG [Lament]]** | When the target regards the furrow. |
 | { *The Dead Sprout* [**Debuff**] } | "Something almost grew here — and the almost is worse than the nothing." | [The ghost of the vanished Seed's potential presses on the target.] | *Target loses 10 Composure; they feel every unlived life.* **[10 Lament DMG [Lament]]** | When the target lingers at the furrow. |
 | { *The Husk* [**Attack**] } | "The empty seed-husk, blown by a wind that is not there, strikes like a bullet." | [The dried husk of what the Seed was fires at the target.] | *Inflicts Lament pressure and one small, sharp wound of lost potential.* **[14-22 Lament DMG [Lament]]** | When the furrow is disturbed. |
-| { *The Might-Have-Been* [**Attack**] } | "The seed shows you what it would have become — a whole tree of grief, in one instant." | [The vanished Seed's full potential manifests as overwhelming sorrow.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Seed is invoked. |
-| { *The Field of Nothing* [**Ultimate**] } | "Every seed that never grew rises now — a phantom harvest of grief." | [The Seed calls forth every unrealized potential across the field.] | *All in range suffer Lament pressure for three turns of phantom growth.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Might-Have-Been* [**Attack**] } | "The seed lays out the tree it would have been, whole, in a single breath." | [Everything the vanished Seed could have become arrives at once, as grief.] | *A heavy Deep Blue wave; the reading jumps 15%.* **[24-36 Lament DMG [Lament]]** | When the Seed is invoked. |
+| { *The Field of Nothing* [**Ultimate**] } | "Everything that never grew stands up at once, and none of it is real." | [The Seed pulls every unrealised beginning in the field into view together.] | *Everyone in range takes Lament pressure for three turns while that growth shows.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
 ### Battle Phases
 
-1. **Tension:** Unwitnessed is confirmed by the logged depth against the last recovery, not by the outline. The hollow looks identical at four millimetres and at a hundred and fifty-seven, and six early reports describe an unchanged site across weeks in which the logger recorded a hand's depth of movement. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** The confirmation here is the logged depth set against the previous recovery, never the outline. At 4 millimetres the hollow looks exactly as it does at 157, and six early reports describe a site that never changed across weeks in which the logger recorded a hand's depth of movement. Position and withdrawal are both settled before the cycle opens.
 2. **Clash:** There is no clash and no team present. The reading is the depth of the hollow below the surveyed ground plane, in millimetres, taken by an unattended dial logger on a fixed tripod and recovered after seven days; the deepest value in the week is the reading. Twenty-three at baseline, four at the floor, one hundred and fifty-seven at the ceiling.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Mark the absence; do not excavate or plant into it**.
+3. **Resolution:** The cycle ends the way the file's own rule ends it, in containment, retreat or management, or against the documented suppression condition: **Mark the absence; do not excavate or plant into it**.
 
 ### Consequences
 
@@ -147,7 +147,7 @@
 
 Ferrehan lowers the gauge and Viderehan holds it level, and both are performed without anybody standing at the site. Flerehan and Pugnahan are N/A against a Place. The Registrum's instruction that Viderehan is the only Work Type and that others yield no data contradicted the Behavior table for four centuries, and the practical effect was that the seven-day cycles went unrecorded as work and the Wardens who ran them were marked as having completed nothing.
 
-**Reading the response:** The gauge measures one worker's seven days of staying away. The depth measures how this facility has been opening its files. They are kept in separate columns, they have never moved together, and supervisors are instructed that a cycle which lowers the gauge and returns a deeper log has been worked correctly and is written up as a success without qualification.
+**Reading the response:** What the gauge reports is one worker's 7 days of staying away. What the depth reports is the way this facility has been opening its files. The two sit in separate columns, they have never once moved together, and supervisors are told plainly that a cycle which drops the gauge while returning a deeper log has been worked right and goes into the record as a success with no qualification attached.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -234,7 +234,7 @@ The outer rings rotate smoothly in counter-synchronous orbits, projecting dim as
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cold to the touch and giving off a thin trace of where it came from.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -252,7 +252,7 @@ The outer rings rotate smoothly in counter-synchronous orbits, projecting dim as
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a pod-charm of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a pod-charm of Lament Han-crystal that sits chill in the palm and turns colder the nearer it is carried to the sorrow it came from.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -262,7 +262,7 @@ The outer rings rotate smoothly in counter-synchronous orbits, projecting dim as
 
 **Cost:** The bearer feels every future that did not start within about forty metres. It is not grief; wearers describe it as a crowded quiet, and it stops when the pod comes off.
 
-*The pod has been granted five times, each to a worker who went back and completed a Before Us page for somebody whose file had already closed, long after any decision turned on it. Three of the five did it on leave. The holding records the pattern and will not make it a criterion, noting that a beginning written down in order to be credited is a beginning written for the writer.*
+*The pod has been granted 5 times, every one of them to a worker who went back and filled in a Before Us page for somebody whose file had already been closed, long after any decision turned on it. 3 of those 5 did it while on leave. The holding writes the pattern down and refuses to make it a criterion, on the ground that a beginning entered in order to be credited is a beginning written for the writer rather than for the person it belongs to.*
 
 ### M.A.W. Use Notes
 
@@ -277,7 +277,7 @@ The set is organised around emptiness kept empty: a core that works only when no
 | **At limit** | Day of recovery, seconds from approach to trace cessation, deepest value in the week, and the operator's sealed list transcribed in full. Seven such lists have gone to the records office and four Before Us pages were opened as a result. |
 | **After use** | Logger downloaded in the presence of someone who was not at the site, weeping duration if the orrery was carried, numbness checked at four days. The week's summary is written by the person who was not there. |
 
-**Stat interpretation:** α across the set and correctly rated against entities. Against people the set produces weeping, numbness to small pleasures, and an awareness of unstarted futures that two wearers have described as unendurable and both of whom continued wearing it.
+**Stat interpretation:** α holds across the set and the rating against entities is right. In people the set produces weeping, a flatness toward small pleasures, and a sense of unstarted futures that 2 wearers called unendurable — and both went on wearing it anyway.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial, and the level has not moved in four hundred years for a reason the file states plainly: the entity is not observable while an observer is present, so every advance in understanding has come from instruments left behind and collected afterwards.
@@ -331,11 +331,11 @@ The ground is the logger. Eleven hundred files opened at intake in nine days of 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Unwitnessed; the other feeds it.
+> The cycle ends on one decision, and the file keeps its two endings on it: hold to the rule, mark the absence and leave it alone, or do the kind and obvious thing and go back.
 
-| Hold to the condition: Mark the absence; do not excavate or plant into it. | Do the obvious, decent thing instead, and feed Unwitnessed. |
+| Hold to the rule: mark the absence, and leave the hollow unopened and unplanted. | Go back early instead, and do the decent, obvious thing. |
 |---|---|
-| The operator sets the instrument, leaves, and does not come back for seven days — not to check it, not to look, not to pass by. The gauge falls and the week stands. | The operator goes back early. They always have a reason and it is always a good one. The trace stops four seconds after they arrive, the week is void, and the gauge climbs. |
+| The operator sets the instrument down, leaves, and stays away 7 days — no check, no look, not even a walk past the place. The gauge falls and the week stands. | The operator comes back early, as they always do, with a reason that is always a good one. The trace dies 4 seconds after they arrive, the week is void and the gauge climbs. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -350,7 +350,7 @@ You see the outline of a seed in the dirt, but your hand passes through it. Bene
 
 **When the entity activates:** A needle moves on a dial in an empty stretch of the Desolate. Nobody sees it. A fortnight earlier, a clerk at a counter wrote a date in the first box of a man's file because it was the only date she could stand behind.
 
-**After departure:** You try to remember your own earliest thing and find you are relying on somebody else's account of it. Most people get there within a day. The counselling wing logs it and treats it as useful rather than as exposure.
+**After departure:** A worker reaching for their own earliest memory finds that what they have is somebody else's telling of it. It happens to most people inside a day. The counselling wing records it and treats it as useful rather than exposure.
 
 ### Interaction Pattern
 
@@ -363,9 +363,9 @@ Three records are grouped with this one. None can be brought here and this one c
 
 Three records are grouped with this one on the term seed, which groups by imagery and has predicted nothing. The question that separates them is whether the thing grew and failed, was recorded and lost, or was never entered at all. This is the third, and a team arriving expecting a dead plant will dig — four have proposed it, none has been permitted — and there is nothing under the hollow to find.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| What stands beside it | How the pairing has run | What the record entered | What the file keeps |
 |---|---|---|---|
-| **Mourning a Life I Never Lived** | Grouped on unrealised potential, and the distinction matters: that record holds a life its subject can describe in detail and did not have. This holds a beginning nobody can describe at all, including the person it belongs to. | No trial, none possible. The pairing rests on a Year 4209 summary line with no measurement behind it. | That the claim is unevidenced, written beside it each time it is repeated. |
+| **Mourning a Life I Never Lived** | Filed together on unrealised potential, and the difference is the whole point: that record holds a life its subject can describe in detail and did not live. This one holds a beginning nobody can describe, the person it belongs to included. | No trial, and none possible. The pairing stands on a Year 4209 summary line with no measurement under it. | That the claim is unevidenced, written beside it every time it is repeated. |
 | **Untended Seed** | The sharpest contrast in the wing and the one the briefing uses: that seed was planted, entered, and then left. This one was never entered. A thing abandoned has a first record; a thing unwitnessed has none. | Paper only. Reading them together is how this file stopped describing itself as a record of neglect. | The entered-then-abandoned versus never-entered distinction, on any document placing the two together. |
 | **The Scar Walker** | Shares the ground and nothing else. Two Year 4226 proposals to use the Walker's patrol as a standing watch on this site were refused on a single ground: a watch is a watcher, and a watcher ends the measurement. | No effect of any kind has ever been recorded between them, across four hundred years of shared ground. | The refusals, cited and not re-argued, on any document proposing a standing presence here. |
 
@@ -417,18 +417,18 @@ Some sorrows mourn what died. Unwitnessed mourns what never got the chance.
 - Ferrehan lowers the gauge and Viderehan holds it level, both performed without anybody at the site. The earlier instruction that Viderehan was the only valid Work Type contradicted the Behavior table and meant that four centuries of seven-day cycles were logged as no work done.
 - Do not transport, do not excavate, do not plant. Two excavation refusals, a third proposal withdrawn, four refused plantings.
 - Any visit inside the seven days voids the week, including a visit made to check the instrument.
-- The Rule of the Recorded Beginning is a containment condition of this entity and binds every registration desk this facility operates.
+- The Rule of the Recorded Beginning binds every registration desk this facility operates, and it stands as a containment condition of the holding rather than a house practice.
 **Observation Notes:**
 - Attested in three testimonies and in no document; each of the three attributes the traveller to somebody else, and the holding has refused twice to reconcile them.
 - Logged depth 23 mm at baseline, range 4 to 157. The depth tracks this facility's registration return and has never tracked rainfall, soil condition, Han density or season; the soil-condition hypothesis has been tested four times and failed four times.
 - The manifestation stops within four seconds of a person arriving, in every recovery on record, which is why the Comprehension Level has not moved in four centuries.
 **Cross-References:** The Desolate, near the Scar · the Year 4228 evacuation intake and its eleven hundred files · the registration return and the one hundred and forty unanswered pages · Untended Seed (paper contrast: entered then abandoned) · The Scar Walker (two refusals, no standing watch)
-**Faction Involvement:** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant) · the records office, listed on an entity file because the Rule of the Recorded Beginning is a containment condition of this holding and the office both carries it and opposed it.
+**Faction Involvement:** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant) · the records office, which appears on an entity file here because the Rule of the Recorded Beginning binds the holding and the office both carries it and opposed it.
 **Originator:** Not identified and not to be supplied. A traveller is attested in three testimonies, each attributing it to a different person, and in no document whatever. The archivist's note observes that a file about a beginning nobody recorded would be a poor place to invent one, and that two attempts to settle the question by reconciling the testimonies were refused on exactly that ground.
 
 ### Registry Addendum
 
-**Operational interpretation:** Read this file with the registration return beside it or do not read it. Taken alone the site is a hollow in dirt that has done nothing to anybody in four hundred years, and four assessors have written exactly that, each with the logger series in front of them and no idea what the millimetres were counting.
+**Operational interpretation:** This file is read with the registration return beside it or not at all. On its own the site is a hollow in dirt that has done nothing to anybody in 400 years, and 4 assessors have written exactly that, each of them with the logger series in front of them and no idea what the millimetres were counting.
 
 **Review requirement:** On any deepening of twelve millimetres or more between consecutive recoveries: verify the tripod reference, the logger calibration and the recovery date, then pull the preceding fortnight's registrations of unverifiable origin and list by file number every one carrying no Before Us page. Totals are not accepted. Any voided week is named in the review together with the reason the operator returned early, and the reason is recorded without comment.
 ## Trivia

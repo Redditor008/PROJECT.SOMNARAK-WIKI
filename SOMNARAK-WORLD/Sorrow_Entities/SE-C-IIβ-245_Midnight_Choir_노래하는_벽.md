@@ -277,7 +277,7 @@ The set is built around hearing a thing to its end, and all three costs are cost
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Midnight Choir (C-IIβ-245 [LP]) is logged as a Place-Lament manifestation expressing Lament: eleven frescoes of named city dead along ninety-four metres of the Old Lament's east corridor in Zone B, which sing out of their painted mouths at midnight exactly and at no other hour, in the fixed order of lullabies, work songs, funeral hymns. Not one of the forty-one thousand six hundred songs recorded here has reached an ending; each breaks off inside a word. Its instrument is the night's count, which has tracked this facility's quarterly figure for bereavement statements closed unfinished for nineteen years.
+Midnight Choir (C-IIβ-245 [LP]) stands on the register as a Place-Lament manifestation expressing Lament: eleven frescoes of named city dead along ninety-four metres of the Old Lament's east corridor in Zone B, which sing out of their painted mouths at midnight exactly and at no other hour, in the fixed order of lullabies, work songs, funeral hymns. Not one of the forty-one thousand six hundred songs recorded here has reached an ending; each breaks off inside a word. Its instrument is the night's count, which has tracked this facility's quarterly figure for bereavement statements closed unfinished for nineteen years.
 
 **Entry 2 — <Excerpt from the Corridor Verbatim Book, Old Lament, Year 4238>**
 Songs contain history absent from the Archive.
@@ -304,11 +304,11 @@ The frescoes sing at midnight and at no other hour, and the order is fixed: lull
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Midnight Choir; the other feeds it.
+> The night turns on what the worker does with the break word: take it down exactly as it is heard, or soften it, shorten it, or leave the corridor early and walk out on the last song.
 
-| Hold to the condition: Listen and catalogue; do not silence the walls. | Improvise something kinder, which is how every failure on Midnight Choir's file began. |
+| Keep to the rule: listen, catalogue, leave the walls alone. | Invent something gentler instead, which is where each failure on this record started. |
 |---|---|
-| The sequence is attended to its end and every break word is written as heard, including the one that names a colleague. The sorrow is witnessed; Midnight Choir is fully recorded. | The break word is softened, summarised, or the corridor is left before the last song. The night is marked incomplete in the series and stays incomplete; nothing else changes, because the walls were never performing for the watch. |
+| The song is heard through to its end and every break word goes down as spoken, the one naming a colleague included. The sorrow is witnessed; the wall is recorded whole. | The break word is softened or summarised, or the corridor is left before the singing stops. The night is entered as incomplete and stays that way; nothing else shifts, because the walls were never putting on a performance for the watch. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -327,7 +327,7 @@ At midnight the mouths open, and it is lullabies first, then work songs, then hy
 
 ### Interaction Pattern
 
-Midnight Choir does not exist in isolation. Its recorded relationships with The Hollow Choir, The Singing Stone, The Whispering Walls should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The corridor's three filed companions — The Hollow Choir, The Singing Stone and The Whispering Walls — are carried against it as answers to one question, not as partisans. When a second holding shares the watch, the page must carry what changed: the tones running through the stonework, the way the passage carried movement, the temperature of the air, the load left on memory, the reading on the gauge, or the firmness of containment, together with where it held, for how long, and what started it.
 
 **Interaction method:** No proximity work is possible; the holding is ninety-four metres of load-bearing corridor. Each paper relationship is settled in writing on one question — unheard, repeated, or unfinished — and the answer is entered with the name of the officer who gave it.
 

@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per successful work cycle, read off the chamber floor rather than the stone |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 — two conditions ignored; escalation is the same process faster, never a new behaviour |
 | **Tool / M.A.W. grade** | γ · Maul, Mantle, Stigma — all three graded, two issued and one given |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.30 m/s |
-| **Resistance** | 40% against Weight pressure; 30% against other pressure types |
+| **Resistance** | 40% against Weight pressure and 30% against other types — stone that has stopped arguing with gravity |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 745/745 |
 | **Han Pressure [ATK]** | 17–38 per hit · Weight |
@@ -81,21 +81,21 @@
 | { *The Loose Finger* [**Debuff**] } | "A piece falls from the saint's hand — stone, old, carved — and where it lands, the ground sags." | [The Saint's decay spreads outward; the target feels the structural failure.] | *Target suffers -10 Resolve; things are falling apart around them.* **[10 Weight DMG [Weight]]** | When the target stands near the Saint. |
 | { *The Eroding Halo* [**Debuff**] } | "The halo above the saint's head is crumbling — and each falling fragment is heavier than faith should be." | [The Saint's deterioration accelerates; the fragments press down.] | *Target loses 10 Resolve; the weight of failing faith is immense.* **[10 Weight DMG [Weight]]** | When the target lingers. |
 | { *The Falling Hand* [**Attack**] } | "The saint's stone hand breaks free — and drops, massive, final." | [A colossal stone limb crashes down.] | *Inflicts Weight pressure and one crushing wound of collapsed devotion.* **[14-22 Weight DMG [Weight]]** | When the Saint is struck. |
-| { *The Full Collapse* [**Attack**] } | "The entire saint gives way — a cascade of stone, faith, and centuries of weight." | [The Saint's total structural failure releases everything it held.] | *A heavy Black avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Saint is undermined. |
-| { *Every Saint Falls* [**Ultimate**] } | "The crumbling spreads — every statue, every monument, every sacred thing — all of it coming apart." | [The Saint extends its decay across the whole field.] | *All in range suffer Weight pressure for three turns of crumbling faith.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Collapse* [**Attack**] } | "The entire saint gives way — a cascade of stone, faith, and centuries of weight." | [The whole figure comes down at once and lets go of every century it was holding up.] | *A heavy Black avalanche; the target's gauge goes up by 15 per cent in one movement.* **[24-36 Weight DMG [Weight]]** | When the Saint is undermined. |
+| { *Every Saint Falls* [**Ultimate**] } | "The crumbling spreads — every statue, every monument, every sacred thing — all of it coming apart." | [The decay stops being local and runs outward through anything standing on a plinth.] | *All in range take Weight pressure for three turns while the decay runs.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (the suspended field and the kneeling posture, never by the face, which is stone and has been read four different ways in four reports filed in one week) and Deteriorata is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** Check the marker the way the file insists — the suspended field and the kneeling posture, never the face, which is stone and has been read four different ways in four reports filed in one week. The designation is confirmed, positions are taken, and the cycle opens.
 2. **Clash:** Flerehan from the surveyed route, outside the suspended field. Ferrehan only under the cap and only with a second worker watching, because what it transfers in a Ferrehan stand is load, and load is the thing this holding screens its people for. Pugnahan accelerates the shedding and is not applied.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not repair or reinforce it; acknowledge the right to rest**.
+3. **Resolution:** The cycle closes with the figure left exactly as it stands and a worker having said aloud, in the chamber, what they are carrying outside their duties. The file's suppression condition is registered in the line itself: **do not repair or reinforce it; acknowledge the right to rest** — the clause crews break first, because a crumbling thing invites the urge to hold it up.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resolve**, funneling cognitive instability back into the Sorrow Gauge.
-- Deteriorata’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Deteriorata's dossier.
+- A worker who cannot hold against the sorrow turns into a channel for it: raw pressure erodes their **Resolve**, the cognitive destabilisation that follows is funnelled straight back into the Sorrow Gauge, and the holding is measurably worse for the attempt rather than merely unhelped.
+- The documented effects grow with time, and here the time in question is counted in years rather than in cycles. What is manageable in a brief cycle is what a healer of Zone C carried for thirty-one years: a body and an identity replaced by the function, in a way that appears in every surviving record to be nothing at all.
+- Each M.A.W. activation exacts a personal debit from the wielder — composure, personal memories, somatic vitality — and the debit is exacted in the same currency the appointment book was written in. No office assigned that work and no register recorded it, and no standard grade ledger records what this costs either.
+- Left unresolved, the sorrow is neither discharged nor held: it breaks outward and sets in motion the escalation and breach behaviour set down in this dossier. Nothing crumbles off this holding and reaches the floor. The pieces come away from the body and stay in the air, which is the same fact stated physically: the chamber is entered as a standing accumulation and never as a site.
 
 ## Appearance
 **Primary Form:** A saint-like humanoid made of cracking stone and dark Han-crystal. Pieces crumble from its body but never reach the floor.
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A saint-like humanoid made of cracking stone and dark Han-crystal. Pieces crumble from its body but never reach the floor. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every Deteriorata cycle against the previous reading. |
+| **Position / movement** | Mobile — upright on its feet, capable of breaching and pursuing. Every Deteriorata cycle, the reading is entered against the one before it. |
 | **Material / signature** | Weight. Cracking stone sheathed in dark Han-crystal, lead-cold, wet stone; a 621-class load the weight-discipline crews feel in the knees before the instruments read it. |
 | **Distinctive markers** | The suspended debris field, the survey pegs, and the kneeling posture that has not altered in eleven years. |
 | **Identification** | If anything it has shed is on the floor, you are not in this chamber. |
@@ -163,7 +163,7 @@ The Behavior table contains the holding's own trap and the wing states it here r
 
 - **Breach type:** Escape — the entity leaves the chamber, slowly, still kneeling where it stops. It has never pursued anybody. What escapes with it is the load: floors buckle and walls bow along whatever path it takes.
 - **Containment priority:** No assault. Pugnahan is prohibited in breach as in the chamber. Shoring crews forward, load paths checked continuously, no massing of personnel anywhere the engineers have not cleared, and the Maul in the shoring commander's hands as an engineering tool.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% a cycle while the wing is still standing under it; it falls when a worker in the zone states aloud a thing they have been carrying that is not in their duties.
+- **Sorrow Gauge on breach:** Starts at 40% and climbs 10% a cycle while the wing is still standing under it. It falls when a worker in the zone says aloud a thing they have been carrying that is not in their duties.
 
 ## M.A.W. Equipment
 
@@ -173,7 +173,7 @@ The Behavior table contains the holding's own trap and the wing states it here r
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
+**Appearance:** a maul of Weight Han-steel, heavy past what its size accounts for, that glows along its edge the moment it is brought up to work.
 
 **Damage:** Weight 7–12
 **Speed:** 3 (Fast)
@@ -186,15 +186,15 @@ The Behavior table contains the holding's own trap and the wing states it here r
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Armoury figures, transcribed. The Maul is the shoring commander's tool on this holding and has never been swung at the entity; doctrine is explicit that there is no assault here.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Deteriorata's weight signature in the strike.
+**Ability:** Weight damage, delivered to the Han — the sorrow it is holding back, and the debt standing against that — with Deteriorata's own weight signature behind the blow and nothing the wielder brings to it. One thrust can take three targets, the first at full effect, the two behind it at 70 and 50 per cent. Every figure on this row is armoury transcription rather than observation: the Maul is the shoring commander's tool on this holding and has never been brought down on the entity, doctrine being explicit that there is no assault here.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** Each use leaves the wielder heavier than the last one did, and use past that leaves them older rather than injured — a wearing that the ledger enters as nothing and the person carries as years. The shoring commander's rotation is fixed before the cycle begins and not during it, and that is the point of fixing it: anyone still carrying that heaviness into the next watch is stood down, whether or not they say so.
 
 ### M.A.W. Suit — The Saint's Fragment
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a fragment-plate of Weight Han-steel, matte and unnaturally heavy, that shifts and breathes with the wearer.
+**Appearance:** a fragment-plate of Weight Han-steel, heavier than the hand expects, that moves with the wearer's breathing a half-beat behind them.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -212,7 +212,7 @@ The Behavior table contains the holding's own trap and the wing states it here r
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance:** a small charm of Weight Han-steel, heavier than a charm has any business being, that warms for a breath when the bearer stands in a place somebody is grieving.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -226,18 +226,18 @@ The Behavior table contains the holding's own trap and the wing states it here r
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Deteriorata and carries what Deteriorata carries: the wielder feels progressively heavier; prolonged use ages them slightly. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+Every piece in this set is a fragment of the figure and carries what the figure carries: the bearer gets heavier by degrees, and a long use ages them a little. The grade describes how stable the extraction is; the cost sits in the column beside it and is why the set goes out one rotation at a time.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Deteriorata's known toll: the wielder feels progressively heavier. Opened at the end of the rotation, not before. |
-| **During use** | Every occurrence of what Deteriorata takes (the wielder feels progressively heavier), timed. One is noted; a pattern across a shift ends the use. |
-| **At limit** | The wielder no longer notices Deteriorata's toll — the wearer becomes unable to set down responsibilities — which is how every stand-down on this set has been caught. |
+| **Before use** | Wielder, piece, the gauge read at issue, and an envelope sealed against the recorded toll — weight accumulating in the bearer by degrees. It stays sealed for the whole rotation and is opened only at the end. |
+| **During use** | Every occurrence of the toll is entered with its hour — the weight settling a little deeper than the shift explains. One is a note; a rhythm across a shift ends the use. |
+| **At limit** | The bearer stops noticing the weight at all: what shows instead is a person who cannot set anything down, in the literal sense and the other one. The roster watchers on this set are looking for that and nothing else. |
 | **After use** | Piece returned; re-assess a week later, because what Deteriorata takes (the wearer becomes unable to set down responsibilities) does not present on the day. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** What a piece does in the field and what it costs a person are separate measurements. An efficient piece can still leave its bearer Fractured, hollowed or sorrow-bound, and a low-rated cut can carry a severe personal cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -265,7 +265,7 @@ Every piece in this set is a fragment of Deteriorata and carries what Deteriorat
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Deteriorata (C-IVγ-130 [WS]) is logged as a Subject-Body manifestation expressing Weight, held at SECTOR-B-02, Zone B, with entry routes surveyed weekly around a suspended debris field that grows. It kneels, sheds continuously, and nothing it sheds has ever reached the floor.
+Deteriorata (C-IVγ-130 [WS]) is a Subject-Body manifestation expressing Weight, held at SECTOR-B-02 in Zone B, with entry routes surveyed weekly around a suspended debris field that grows. It kneels, it sheds without stopping, and nothing it sheds has ever reached the floor.
 
 **Entry 2 — <Excerpt from Weekly Field Survey, Year 4238>**
 Suspended field advanced 0.9 m at the north pegs and 0.4 m at the east; quarterly growth 31 cubic metres against 24 and 19 in the two preceding years. Entry routes re-surveyed around the new edge. Nothing has ever been recovered from inside the field.
@@ -283,9 +283,9 @@ Her appointment book is held with the district's health returns for the same thi
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Deteriorata; the other feeds it.
+> Two ways to close a watch in the chamber, and the file prices them by what the crew does about the crumbling: one lets the figure rest, and the other is the support that has begun every failure in this file.
 
-| Hold to the condition: Do not repair or reinforce it; acknowledge the right to rest. | Improvise something kinder, which is how every failure on Deteriorata's file began. |
+| Hold to the condition and stay with it: nothing is repaired, nothing is reinforced, and the right to rest is acknowledged aloud in the chamber. | Improvise something kinder, as the record shows people doing: brace the knee, shore the plinth, or carry the saint — every failure in this file begins with somebody deciding the figure simply needed help. |
 |---|---|
 | Cracks close briefly when sorrow is shared. The sorrow is borne; Deteriorata is fully recorded. | Crumbling accelerates and fragments become heavy. The gauge climbs and Deteriorata withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -306,7 +306,7 @@ Stone cracks with the sound of a held breath. The Saint kneels, and the room bec
 
 ### Interaction Pattern
 
-Deteriorata does not exist in isolation. Its recorded relationships with The Grieving Colossus, The Kind Healer, The Cracked Hourglass should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Nothing here treats the chamber as a closed room: The Grieving Colossus, The Kind Healer and The Cracked Hourglass all sit within working distance of the figure, and the file does not class any of them as friend or enemy. Where a pairing is run, the entry carries the range, the duration, the trigger, both gauges, and — checked against sound, movement, temperature, memory and containment — what each party did once out of sight.
 
 **Interaction method:** The question here is always the field: whether it grew faster, slower or not at all while the other file was near, measured at the same pegs by the same surveyor within the same hour. All three related files concern burden, which is exactly why the briefing on this holding is given on the differences: a crew that arrives intending to relieve this entity will try to clear its field, and clearing its field has been attempted twice and abandoned twice.
 
@@ -315,7 +315,7 @@ Deteriorata does not exist in isolation. Its recorded relationships with The Gri
 
 Deteriorata must be assessed against the files it resembles and is not. The Grieving Colossus holds grief that was never mourned; this holds work that was never recorded. The Kind Healer gives relief; this one was the relief, for a district, for decades. The Cracked Hourglass is a term running out. The distinction decides whether a crew arrives intending to help it, which is the one intention this holding cannot accommodate.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Nearby holding | The shape of the contact | The reading that moved | The required entry |
 |---|---|---|---|
 | **The Grieving Colossus** | Adjacent and distinct: the Colossus holds grief that was never mourned; this holds work that was never recorded. No transfer between them has ever been observed. | Field growth unchanged across two proximities; both entities' load readings unchanged. | Peg readings before and after, taken within the hour, by the same surveyor. |
 | **The Kind Healer** | The Healer works on it and nothing happens, which is the most-cited finding in the wing and the most misread: it is not that this entity cannot be helped, but that nothing offered inside the chamber has ever reached what is wrong. | Gauge fell during both attempts and the field grew at its ordinary rate throughout. | Gauge, growth, and what precisely was offered — in the Healer's words, not the observer's. |
@@ -364,7 +364,7 @@ Some sorrows are about weakness. This one is about work nobody wrote down, and i
 - Nothing it has shed may be cleared, propped, repaired or reinforced; every repair is an instruction to continue.
 - Field surveyed weekly at the pegs; entry routes re-walked around the new edge before any session.
 - Relief is ordered on the clock, never requested, and the clock is handed over physically at shift change.
-- The Carried Load Return is a containment condition of this holding and binds every post in this facility.
+- The Carried Load Return stands as this holding's containment condition: it binds every post the facility runs, chamber watches or no.
 **Observation Notes:**
 - Quarterly field growth 31 cubic metres, against 24 and 19 in the two preceding years; growth has never responded to anything done inside the chamber.
 - Growth runs with the volume of work done in this facility by people whose posts do not include it; tested against shed rate, Sorrow Tides, load readings, headcount and session count, none of which fit.
@@ -401,7 +401,7 @@ Nothing in the existing Record is overturned. The shed material still does not l
 
 What it costs is the comfort of the abolition. Ending the logging of mutual help was right: six years of scoring turned it into a currency and three wings stopped helping outside the metric, and the Counseling Office's judgement has never been answered on its own ground. The chamber's position is narrower: that what was abolished was the counting, not the carrying, and that eleven hundred people in this facility are doing work that exists only in the field above our floor.
 
-The operational consequence lies outside the chamber. Nothing done here has ever slowed the growth — not shorter sessions, not the instrumented year, not either attempt at clearing the lower edge. The only thing that has moved alongside it is the Carried Load Return: every quarter, each worker names in one line what they did that their post does not cover, and each supervisor countersigns what they relied on, and both go into the staffing model and the worker's record. In Year 4237 that produced 9,400 returns, identified 1,106 people carrying other posts' duties, and created or reallocated 214 posts. It also recreated the thing the abolition was protecting: sixty-one returns were inflated and nine workers disciplined, informal assistance fell measurably in four wings in the first year, and one supervisor who countersigned honestly that she had relied on a junior for a year was demoted for failing to report a staffing gap — correctly, on the finding — and resigned. The file records those beside the growth series, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
+The operational consequence lies outside the chamber. Nothing done here has ever slowed the growth — not shorter sessions, not the instrumented year, not either attempt at clearing the lower edge. The only thing that has moved alongside it is the Carried Load Return: every quarter, each worker writes one line naming what they did that their post does not cover, and each supervisor countersigns what they relied on, and both go into the staffing model and the worker's record. In Year 4237 that produced 9,400 returns, identified 1,106 people carrying other posts' duties, and created or reallocated 214 posts. It also recreated the thing the abolition was protecting: sixty-one returns were inflated and nine workers disciplined, informal assistance fell measurably in four wings in the first year, and one supervisor who countersigned honestly that she had relied on a junior for a year was demoted for failing to report a staffing gap — correctly, on the finding — and resigned. The file keeps the two sets of numbers side by side without netting them, and it claims no containment it cannot demonstrate.
 
 ### The Relief That Must Be Ordered
 
@@ -421,7 +421,7 @@ Shoring timber for the holding is cut oversized and stored inside the wing rathe
 ### Registry Trivia
 
 - **Classification detail:** Subject, Entity (IV) coherence — self-aware, crumbling, accepting — Major (γ) potency, Comprehension Level 2, Subject-Body. The Registrum carried Comprehension Level 3 against this header; corrected.
-- **Field detail:** Weight; SECTOR-B-02, Zone B. The Operational Parameters line gave the M.A.W. grade as a pair of em dashes against three graded γ pieces, and the Registrum placed the holding in Zone C, which is where the originator worked and not where the entity is; both corrected.
+- **Field detail:** Weight; SECTOR-B-02, Zone B. Two corrections stand entered against this line: the Parameters header's blank grade has been resolved against the three graded γ pieces beside it, and the Registrum's Zone C placement was the originator's workplace rather than the holding's ground — both fixed in place.
 - **Recognition detail:** Identify it by the suspended field and the kneeling posture, never by the face, which is stone and has been read four different ways in four reports filed in one week.
 - **Record detail:** Not to be confused with The Hollow Saint, which the Registrum cross-referenced in place of this file's actual neighbours; corrected.
 - **Containment detail:** A line of pegs, a route that moves every week, a clock that is handed over by hand, and a one-line return in every worker's file about the work their post does not cover.

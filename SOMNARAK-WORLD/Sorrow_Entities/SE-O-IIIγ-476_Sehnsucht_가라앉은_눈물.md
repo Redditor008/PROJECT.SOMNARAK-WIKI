@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Weight pressure; 25% against other pressure types |
+| **Resistance** | 35% against Weight, the pressure the object is itself made of; 25% against everything else the open ground can bring |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 653/653 |
 | **Han Pressure [ATK]** | 18–41 per hit · Weight |
@@ -149,9 +149,9 @@ Sehnsucht is an Object/Place with Object-Void manifestation and Weight expressio
 **Reading the response:** A rising object means somebody mourned at the site and let the cause stay missing. Stability under Viderehan is correct. The reading worsens — the object sinks — on reaching, probing and digging, and equally on any confident account of why a person present is feeling what they feel.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This Relic benefits the facility by returning a burying to the ground it was taken from, and the ground keeps the receipt.**
+> **This Relic alters the operator by handing them a weight with no cause attached, which is the one case they are least equipped to carry.**
+> **This Relic extracts personal resilience slowly, in fatigue and in years, and gives neither back.**
 
 **Activation Trigger:** Touch or excavation attempt.
 
@@ -170,7 +170,7 @@ Sehnsucht is an Object/Place with Object-Void manifestation and Weight expressio
 | **Activation** | Touch or excavation attempt. |
 | **Primary Effect** | Releases a memory of the sorrow into the worker. |
 | **Duration** | Until the memory is acknowledged. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Weight trauma. |
+| **Termination / Return** | The operator stows the piece and walks back out past the benchmark before the reading is taken; a piece put down nearer the site is logged against the bearer, because the set was formed from the wet ring and answers to it, and the shard's recorded cost is that the bearer keeps the buried grief afterwards. |
 | **Risk** | The bearer may become unable to leave the site, and will describe staying as having something still to do there. |
 
 **Operational Rule:** The relic functions only while carried and cannot replace a scheduled Work Type. It is not a recovery tool and must not be used to locate the object more precisely than the standing survey does; four of the six deepest readings on file follow sessions in which the team knew exactly where to stand.
@@ -179,10 +179,10 @@ Sehnsucht is an Object/Place with Object-Void manifestation and Weight expressio
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Sehnsucht rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Sehnsucht activates its primary resonance: Releases a memory of the sorrow into the worker. Grants +10% resistance to Weight damage while equipped. |
-| 30 Seconds | The artifact was born from the weight of grief hidden so deeply that even the person who felt it forgot its source; the bearer begins perceiving echoes of a traveler buried a final tear near the scar rather than allow anyone to see it. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Sehnsucht begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Sehnsucht too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may become unable to leave the site. |
+| 10 Seconds | The piece lies in its case until an operative takes it up, and it is heavier than the case was — that is the first thing every bearer says about it. | Wearing it opens the field: the bearer takes on a grief with no cause attached, and carries +10% resistance to Weight while the piece is on them. |
+| 30 Seconds | The piece was formed in the wet ring above the object, not cut from it; the bearer begins to feel the same carried history, whole and unattached to any loss of their own. | The benefit is real and so is the price: focus and endurance hold, and composure is what pays for them. |
+| 1 Minute | The weight stops being something the bearer notices and starts being something the bearer is; the second worker's log takes over from the bearer's account here. | Past sixty seconds the piece deals 5 Weight damage every 15 seconds; the second worker watches for the hour the bearer offers a cause for the feeling and stands them down that shift. |
+| 2 Minutes | Past two minutes the bearer can no longer say which part of the history is theirs, and the piece is doing exactly what the holding does — carrying a grief whose source has been buried past reach. | Past two minutes, or a forced removal, acute panic and the recorded cost fall due together; the piece is not reissued to that bearer, and the armoury's standing note holds — a bearer who begins explaining the feeling is stood down the same shift. |
 
 ### Escalation Notes
 
@@ -199,7 +199,7 @@ Escalation here is downward and slow. Record the depth at arrival, every approac
 | **Primary effect** | A grief with no cause attached transfers into the worker, correctly felt and impossible to account for. |
 | **Duration / rate** | Until the worker stops trying to explain it, which is the only form of acknowledgement the record shows working. |
 | **Risk** | Major (γ). The worker may become unwilling to leave; depth increases for every explanation offered. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Grief is mourned at the site without a cause being supplied for it |
 
 **Activation reporting order:** depth at arrival → any reaching, probing or excavation attempt → entries in the party's medical log carrying a cause they could not support → what was said aloud and by whom → depth at close. The third field is requested from the medical office and is the field that predicts the figure.
 ## M.A.W. Equipment
@@ -221,11 +221,11 @@ The weapon fires ampoules filled with hyper-concentrated Lament brine that shatt
 **Cost:** 40 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** A line of up to three. The weight travels through soil as readily as air, which is why the mortar is sighted on the ground ahead of a party rather than on the party.
+**Target Coverage:** A line of up to three, walked in from the benchmark so the mortar is sighted on the ground ahead of a party rather than on the party — the weight travels through soil as readily as through air, and the soil here is already carrying more of it than anywhere else in the Desolate.
 **Falloff Rule:** Full on the first, seventy per cent on the second, fifty on the third. What thins is the specificity: the third carries weight without any sense of grief at all and reports it as fatigue.
 **Damage Application:** Record the strike and the residue separately. The Weight lands once; the heaviness persists for days and is the figure that matters for rotation planning in the Desolate.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Sehnsucht's weight signature in the strike.
+**Ability:** Deals Weight damage against the Han — the sorrow reserves, and the karmic debt carried against them — and what it channels from Sehnsucht is the part that does the work: a burden with nothing attached to it, which the body reads as weight and the mind keeps trying to account for.
 
 **Cost:** The wielder grows progressively heavier and ages slightly, and reports their own history as something carried rather than lived.
 
@@ -233,7 +233,7 @@ The weapon fires ampoules filled with hyper-concentrated Lament brine that shatt
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that settles cold against the skin.
+**Appearance:** a draped mantle of Weight Han-weave, matte as raw soil and heavier than its folds account for; it hangs without moving in wind, drags at the shoulders the way wet cloth does, and the hem picks up a dark stain towards the ground that does not dry.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -243,15 +243,15 @@ The weapon fires ampoules filled with hyper-concentrated Lament brine that shatt
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Sehnsucht's kind of pressure.
+**Ability:** Grants resistance to Weight damage, protecting the Han — the sorrow reserves and the karmic debt against them — and it does so by taking the load before the wearer does: the mantle is what a bearer is carrying instead of the grief, for as long as the session lasts.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** The wearer carries a constant low fatigue that does not lift between rotations, and reports it as heaviness in the shoulders rather than as tiredness — the wearer's own description is the more accurate one on this piece, and the file enters it in that form.
 
 ### M.A.W. Stigma — Sehnsucht Shard
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a shard-tile of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a shard-tile of Weight Han-steel the size of a thumbnail, matte and forbiddingly heavy for its size; it is worn at the head and runs cold in the direction of the site, colder the more confidently anybody present has explained their own grief.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -271,12 +271,12 @@ The three pieces were not cut from the object, which has never been reached. The
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Sehnsucht's toll being that the wielder grows progressively heavier and ages slightly, and reports their own history as something carried rather than lived. |
-| **During use** | The first sign that Sehnsucht is charging: the wielder grows progressively heavier and ages slightly, and reports their own history as something carried rather than lived. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The wearer carries a constant low fatigue, without remission. On a Sehnsucht piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece and check the sealed baseline: has Sehnsucht's cost — the wearer carries a constant low fatigue — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, gauge, and the roster check the armoury runs on this set: nobody currently under a bereavement entry is issued anything from it, because the piece hands the bearer a grief with no cause attached, and that is a different thing to carry than one with a name. |
+| **During use** | The piece does not announce itself. The second worker logs the hour the bearer first starts accounting for the weight — a sentence beginning "it's because" is the marker — and the bearer's own account is not entered against these rows. |
+| **At limit** | The constant low fatigue that does not lift between rotations. On a Sehnsucht piece the use ends there whatever the wielder says, and the depth reading is taken before the piece is stowed rather than after. |
+| **After use** | Walk out past the benchmark, stow the piece, and take the reading again: has the wearer's heaviness outlasted the rotation? The answer is entered whether or not the wielder agrees, and a bearer who can no longer separate their own history from the piece's cargo is not reissued the set. |
 
-**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade describes what a piece does to entities and says nothing about what it does to the person wearing it, and this set was formed in the soil above the object rather than cut from it — which is the only reason a γ band carries anything at all here. Authorise on the second column. What the bearer receives is weight without a cause, and the record's own ruling on that is the management condition: it is to be left unexplained.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -304,7 +304,7 @@ The three pieces were not cut from the object, which has never been reached. The
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sehnsucht (O-IIIγ-476 [WO]) is logged as a Object-Void manifestation expressing Weight. The Tear formed from sorrow deliberately buried. Held at The Desolate, near The Scar. It sinks when approached with force.
+Containment file for O-IIIγ-476 [WO], the Desolate holding called Sehnsucht: an Object-Void manifestation expressing Weight, held in open ground near The Scar. The record formed from sorrow deliberately buried — the Tear was put into the ground by hand and the cause went down with it. It sinks whenever a hand goes toward it, forceful or not, and nobody has ever touched it.
 
 **Entry 2 — <Depth Record, and the Nine Times It Rose>**
 Depth record, quarterly, since the site was marked: a slow descent of about two centimetres a year, against nine recorded rises. The rises are annotated. Two follow bereavements among the survey staff. One follows a worker's statement that she had been crying in her quarters for a week and did not know why and had stopped looking for a reason. Six are entered as mourning, cause not given, which is the log's own phrasing and was adopted deliberately in 4221 to stop observers from guessing. Excavation attempts on file: three. Combined depth lost to them: forty-one centimetres.
@@ -320,9 +320,9 @@ The management condition of this record is a change to a form. Since 4221 the me
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Sehnsucht; the other feeds it.
+> The choice at the end of a session here is not what to do with the object — the rod settles that — but what to do with the party's own account of itself: sit beside buried grief and leave the cause empty, or fill it in.
 
-| Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol — as written, without improvising. | Depart from the condition for good reasons, as Sehnsucht's record shows people do. |
+| Sit the session with the grief and leave the cause empty: no reaching, no probing, and no explanation offered aloud at the site (Grief is mourned at the site without a cause being supplied for it). | Supply the cause — any cause, including a true one — or reach for the object to see for yourself. The entry reads complete, the rod reads deeper, and the session is entered against the party as a loss of depth. |
 |---|---|
 | Tests whether the worker can remain beside buried sorrow. The sorrow is borne; Sehnsucht is fully recorded. | Reveals the event beneath the forgotten grief. The gauge climbs and Sehnsucht withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -343,14 +343,14 @@ The Tear waits below the dust. You can see its dark outline and feel its weight,
 
 ### Interaction Pattern
 
-Sehnsucht does not exist in isolation. Its recorded relationships with The Frozen Tear, The First Tear, The Sorrow River should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The three holdings below are filed against Sehnsucht because the archive pairs by resemblance rather than by contact, and here by what people did with what they brought: a tear kept visible, a tear shed, and a current running under the ground the buried tear is in. What the field can measure is narrow — depth against the rod, the lit diameter after dark, the moisture radius — and none of the three has ever been shown to move any of those figures.
 
 **Interaction method:** Establish it alone first, over a full survey cycle, because depth changes slowly and a single session cannot show a trend. In shared conditions log depth throughout, the lit diameter, and whether the other record altered the soil state. Nothing is excavated for comparison, including soil.
 
 
 ### Entity Interaction Record
 
-Sehnsucht is filed with the Desolate records near The Scar, several of which concern what people took out there to be rid of. The relationships below are what the archive will support. They are not alliances; they are the same ground, and in proximity each makes the others' depth readings harder to attribute.
+This is one of several records filed near The Scar, a place people used for getting rid of things; of that group it is the one that was put down by hand and then forgotten. The pairings below are what the archive will support and nothing more — a classification comparison, four checked events and a null result, and a claim from the first survey note that has never been tested — and in each case the only thing proximity changes is how hard the depth readings are to attribute.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -465,8 +465,8 @@ The SED objection is on the file and is read at every annual review. Escort capa
 
 ### Registry Trivia
 
-- **Classification detail:** Sehnsucht is an Object/Place with Fragment (III) coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is The Desolate, near The Scar.
+- **Classification detail:** Sehnsucht is an Object/Place holding with Fragment (III) coherence and Major (γ) potency, filed under Outside Sorrow; the rod's own series runs at roughly 2 cm of descent a year against 9 recorded rises, and the file's 3 excavation attempts cost 41 cm of depth between them.
+- **Field detail:** Weight is the whole of it, and the registered location is The Desolate, near The Scar; the moisture ring above the object reads 31 per cent against 4 per cent a metre away and grows about 40 cm for every week the watch is not kept, which is the only clean correlation in the file.
 - **Recognition detail:** Identify it by the glow and the sinking. Several buried records are catalogued near The Scar; this is the tear-shaped one that is visible as light through the soil and that goes down whenever a hand goes toward it.
 - **Record detail:** Check the designation before approach. Two Desolate records turn on a blank field and they are managed oppositely — one requires that something be written where the meaning is missing, and this one requires that the cause be left empty and the entry accepted as complete.
 - **Containment detail:** There is nothing here to seal. The containment is a line on open ground, a graduated rod, a night watch and two prohibitions — and of those, the watch is the only one that has ever had to be defended.

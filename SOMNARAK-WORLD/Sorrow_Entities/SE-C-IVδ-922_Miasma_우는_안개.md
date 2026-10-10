@@ -1,6 +1,6 @@
 # Miasma — 우는 안개
 
-> *"The weight is not punishment. It is recognition."*
+> *"It weeps through you with grief that is not yours, and leaves the particulars behind."*
 
 ## SECC Classification
 
@@ -79,16 +79,16 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the lament." | [The entity's lament pressure settles over the target.] | *Target feels the weight of lament sorrow.* **[10 Lament DMG [Lament]]** | When the entity first fixes on a target. |
-| { *The Lament Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of lament lament sorrow.] | *Lament damage strikes the target; the gauge spikes.* **[18 Lament DMG [Lament]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full lament weight on one point.] | *A devastating Lament strike; the target's Sorrow Gauge surges.* **[24 Lament DMG [Lament]]** | When the entity is cornered or starved. |
-| { *The Lament Collapse* [**Ultimate**] } | "The lament breaks — and everything it held comes loose." | [The entity's full lament sorrow unleashed in every direction.] | *All personnel suffer Lament erosion for three turns.* **[20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Bank Rolls In* [**Debuff**] } | "Your eyes go before you understand why — and so does everyone else in the corridor." | [The fog fills the run, and the grief it carries arrives as particulars: a name, then a street, then a detail nobody present could have invented.] | *The target weeps without sadness, under a weight that is not theirs.* **[10 Lament DMG [Lament]]** | When the bank first takes a target into its volume. |
+| { *The Particulars* [**Attack**] } | "A name arrives, then a street, then a detail you could not have invented." | [The grief acquires particulars it should not have, and the target’s own recollection supplies the rest.] | *Lament damage strikes the target as remembering rather than receiving; the gauge spikes.* **[18 Lament DMG [Lament]]** | Once the target denies what it is feeling, or is provoked. |
+| { *The Run Fills* [**Attack**] } | "It does not thin for you the way it thins from the far end." | [The whole corridor is inside the bank at once, and there is no spotter left with a clear voice to call it.] | *A heavy Lament strike; the target’s Sorrow Gauge surges.* **[24 Lament DMG [Lament]]** | When the bank is cornered or starved of open air. |
+| { *The Whole Flood* [**Ultimate**] } | "Every particular it ever gathered comes back at once." | [The bank releases everything it has collected down the run, in every direction, all of it claiming to be remembered rather than received.] | *All personnel suffer Lament erosion for three turns.* **[20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The team identifies Miasma by the weeping is the marker and it is involuntary. It is not sadness and cannot be composed away; personnel are instructed not to apologise for it, not to explain it, and not to try to stop, and that instruction is in the induction material because the attempt to stop is what makes it worse, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Miasma's recorded combat actions.
-3. **Resolution:** The far spotter calls the run clear, the near spotter repeats it back, and the doors stay open for a further ten minutes by the clock. Only then is the corridor walked, and it is walked by the spotters, who have been watching it.
+3. **Resolution:** The far spotter calls the run clear, the near spotter repeats it back, and the doors stay open for a further ten minutes by the clock. Only then is the corridor walked, and it is walked by the spotters, who have been watching it. It closes against the documented suppression condition: **The far spotter calls the run clear, the near spotter repeats it back**.
 
 ### Consequences
 
@@ -146,7 +146,7 @@ The pressure cannot be measured at all, which is the operational problem: the ho
 
 ## Breach Behavior
 
-> *"Miasma has broken free. The lament lament spreads."*
+> *"Miasma has broken free. It fills the lower runs, and the weeping starts on its own."*
 
 | Field | Detail |
 |---|---|
@@ -240,7 +240,7 @@ The Miasma set is drawn from the corridor furniture: the Edge from a door-stay b
 
 **Key Observations:**
 - 527 arrivals logged since Y4238, mean dwell two minutes fifty seconds, no precursor detected by any of the three monitoring methods tried against the series.
-- Both valid approaches reduce the gauge and both consist of watching. Nothing performed inside the bank has ever altered its behaviour, and the file records four attempts.
+- Both valid approaches reduce the gauge and both consist of watching. Nothing performed inside the bank has ever altered its behaviour, and the file records 4 attempts.
 - The grief carried is consistently somebody else’s. In 94 interviewed exposures, no worker has ever reported a grief that could be matched to their own history, and eleven reported details later found in district records of people they had never met.
 
 **Personnel Note:**
@@ -279,6 +279,20 @@ Contact is disorienting. The lament pressure is familiar — every agent in Somn
 **When the bank moves on:** It thins from the far end of the run first. The spotter at that end always calls it a few seconds before anyone standing in it notices.
 
 **After departure:** The weeping stops and the particulars stay. That is the part the follow-up is for.
+
+## 상호작용 (Entity Interactions)
+
+The bank weeps by itself and the approach is watching it: two spotters, the doors held open on the affected run, and the corridor walked only after the run is called clear. The file has never run a second holding on the same run. The pairings below are paper work from the appendix that groups the 90x holdings by manifestation, read against each record's own series — three ways of handling a grief that is not the witness's own.
+
+**Interaction method:** Take the bank's own numbers first: the 527 arrivals logged since Y4238, the mean dwell of two minutes fifty seconds, the 4 recorded attempts that changed nothing. Then lay the other record's series beside the dwell figures and enter the first parting, its span, what set it off, and whether either series shifted. Re-verify at the next run.
+
+| What the corridor carries | How the pairing has run | What the walk entered | What the spotters keep |
+|---|---|---|---|
+| **Dead Air** `N-IIIγ-929` | Filed together on a watch where nothing is seen. That record's form asks for a bearing and an estimated mass; this one asks for a dwell time, and both fields are subjective and both are marked so. | One review entry; the two dwell series were laid side by side and parted at the first mark. | That the parting is the entry, kept in the review's figures as they came in. |
+| **Lethe** `C-IIIγ-928` | Grouped on an effect that takes rather than shows. That record's ceiling is measured twice a watch; here the measurement is the weep itself, and neither holding can be read by the person inside it. | Nothing was run. The appendix listed the two together and the review let the listing stand. | That the pairing is a filing line with nothing measured beneath it, entered on each repetition. |
+| **Sky of Borrowed Faces** `O-IIIγ-926` | Grouped on somebody else's face. That record walks a transect and counts surfaces; this one shows a worker a grief whose details could never have been their own. | The dwell series and the transect count were compared once and shared only their duration. | That the two are compared on duration alone, noted as a measure and not a link. |
+
+**Interaction procedure:** Nothing walks the affected run in company with this holding. The comparison stays on paper at the annual review, with the dwell figures entered first and the other record's series laid beside them untouched; parting, span, cause and both readings go into the margin.
 
 ## 이야기 (Narratio) — The Tale
 

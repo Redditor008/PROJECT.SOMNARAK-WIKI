@@ -1,6 +1,6 @@
 # Dreaming Plague — 꿈의 전염병
 
-> *"Something here remembers what we chose to forget."*
+> *"I was nearer last night than the night before. The city you keep dreaming is mine, and the sky over it is still the wrong sky."*
 
 ## SECC Classification
 
@@ -79,16 +79,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's dream pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
-| { *The Dream Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void dream sorrow.] | *Void damage strikes the target; the gauge spikes.* **[18 Void DMG [Void]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[24 Void DMG [Void]]** | When the entity is cornered or starved. |
-| { *The Dream Collapse* [**Ultimate**] } | "The dream breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[20 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Incubation* [**Debuff**] } | "No one catches it on purpose. The morning simply arrives with a symptom that answers to someone else's name." | [The infection plants its first sign and waits for the carrier to breathe on a neighbour.] | *The mark multiplies through ordinary contact; the Gauge rises each round it goes unnoticed.* **[9 Void DMG [Void]]** | When a sleeper's dream is first borrowed. |
+| { *The Coughing Choir* [**Attack**] } | "One throat starts it, and by evening the street is singing a note none of them were taught." | [Every infected voice picks up the same pattern and passes it along in unison.] | *Void damage reaches everyone within earshot; each new carrier feeds the Gauge.* **[16 Void DMG [Void] (AoE)]** | When three carriers breathe the same air. |
+| { *The Fever Dream* [**Attack**] } | "Your dream walks in before you do, and it is wearing a face you have not met." | [The plague lays its own dream over the sleeper's and walks the sleeper through it.] | *The target spends their next action inside the borrowed dream while the Gauge climbs.* **[26 Void DMG [Void]]** | When the carrier is exhausted or handled carelessly. |
+| { *The Brightening* [**Ultimate**] } | "The district wakes up cured. Every one of them is somebody else now." | [The plague lets go in a single morning and keeps everything it learned from the people it touched.] | *All personnel lose the day above; recoveries taken inside the radius fail together.* **[22 Void DMG [Void] (AoE, x2 turns)]** | When the Gauge reaches its registered ceiling. |
+
 
 ### Battle Phases
 
 1. **Tension:** The team identifies Dreaming Plague by the agreement. Independent sleepers describe the same streets in the same order, and the counsellors’ standing note records that this is the most troubling feature of the file precisely because dreams do not ordinarily agree, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dreaming Plague's recorded combat actions.
-3. **Resolution:** The sleeper sits up. The attending crew takes their account before anyone speaks to them about it, in a separate place from any other sleeper, and the barriers go back on the rack. The district reopens the moment the account is signed.
+3. **Resolution:** The sleeper sits up. The attending crew takes their account before anyone speaks to them about it, in a separate place from any other sleeper, and the barriers go back on the rack. The district reopens the moment the account is signed. It closes against the documented suppression condition: **The sleeper wakes on their own and the cordon is lifted by the person who set it**.
 
 ### Consequences
 
@@ -278,6 +279,20 @@ The void arrives in the dream register — not as a wave or a wall but as a shif
 
 **After departure:** You sleep normally. Almost everyone does. The exceptions are in the series, dated, with their estimate of the distance.
 
+## 상호작용 (Entity Interactions)
+
+This holding shares its register with three others: a zone that swallows sound, a dawn nobody can keep, and a vessel that holds what a soul leaves behind. All three sit beside the dream register in the appendix, filed for the review rather than for co-presence. What follows is read from the cordon's own series and from the story log's dated entries.
+
+**Interaction method:** Set the register's own figures first: the 318 accounts taken since Y4231, the seventeen years of the distance series, the no-carry rule and its one recorded breach. Then read the other record's series beside them, enter whether either series moved, and re-verify at the next stand-down.
+
+| Which record is set beside it | What the two share on the page | What the account entered | What the series keeps |
+|---|---|---|---|
+| **Weighted Silence** `O-IIIγ-924` | Both file under sound withheld or lost. That record's pressure is an absence everyone walks through; this one travels by touch and nothing else, and neither has ever moved on proximity. | Nothing was run. The appendix grouped the two on the quiet, and the review left the entry as an arrangement. | That the grouping is a filing line, entered as such on each repetition. |
+| **Dawn That Forgot** `N-IIIγ-917` | Both end on a waking whose hour nobody chooses. That record's light takes the memory of the night; this one returns the sleeper with an account no two sleepers give the same way. | The waking series were laid side by side once and agreed on length alone. | That the two are kept for the shape of the interval, noted as shape and not as a link. |
+| **Lacrima** `N-Iα-905` | Both hold what a person cannot carry out of the room — that record a vessel, this one a sleeper who must not be lifted. | One review entry; the distance series parted at the first mark and stayed parted. | That the parting stands as the entry, carried un-smoothed in the review's numbers. |
+
+**Interaction procedure:** No co-presence is authorised on this cordon. Comparison is done on paper at the stand-down review with the account and the distance reading entered first and the other record's series set beside them unchanged; parting, depth, trigger and both readings go in the margin.
+
 ## 이야기 (Narratio) — The Tale
 
 The rule that defines this district was written in one evening, by people who had spent the afternoon watching six colleagues lie down in a row. It runs against every instinct a rescue crew has, and the training for it consists mostly of standing a metre away from a volunteer and not reaching out.
@@ -290,11 +305,11 @@ So the district runs on a prohibition, a declaration taken at face value, and a 
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The void is familiar. The dream is not. That gap is where the danger lives."* — Handler
-*"I expected standard void. I got something that knew me."* — Specialist
-*"Every time we refine the protocol, the dream register finds a new way in."* — Researcher
-*"It does not attack. It informs. And what it informs you of is your own sorrow."* — Director
-*"Work it once and you will understand why the classification system had to expand."* — Keeper
+*"The void I know. A void you catch off somebody else’s sleep is a different department."* — Handler
+*"Do not wake them and do not hold them. Every instinct you have walks the infection into the next ward."* — Specialist
+*"Each protocol we write assumes the dream stays behind the eyelids, and each one is out of date before it is filed."* — Researcher
+*"It does not attack. It passes. And what it passes along is a sound getting closer to a city that is not ours."* — Director
+*"Stand in the ward long enough and you will want to lie down among them. Wanting it is the finding."* — Keeper
 
 ## 기록 (Registrum) — The Record
 
@@ -356,6 +371,7 @@ Stand-down counts are published as a single district figure each cycle, without 
 - One of the first catalogued **Hazard-Dream** entities in Somnarak.
 - Its dream descriptor makes it structurally unique among hazard entities.
 - The void pressure in the dream register feels different from standard void — more specific, more personal.
+- **17** years of unbroken series, **318** accounts taken at a mean of **4** hours **11** minutes per waking, and not two accounts agree on how far away the sound was.
 
 ## Document Information
 

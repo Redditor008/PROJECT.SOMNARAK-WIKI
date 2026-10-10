@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 per successful work cycle, taken off the gradient readings and never off the crossing |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | δ (Critical) · δ (Critical) |
@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- The entity maintains that it crossed The Scar alone, and the Desolate record neither confirms nor contradicts the claim.
-- Work reduces the insistence for a shift. The account is unchanged, and no session has produced a second version of it.
-- One ignored condition escalates it. Escalation presents as the crew beginning to accept the account as established.
-- Crews log the claim verbatim and do not discuss it in the field; assessment is done off site.
+- The file rests on one claim the holding makes and will not vary: that it crossed The Scar alone. The Desolate record neither backs the claim nor breaks it, and the file prints it whole each time.
+- A session takes the insistence down for a shift and nothing else. Nineteen years of transcriptions have never produced a second draft of the account.
+- One clause ignored escalates it, and the escalation is not in the room: crews start agreeing with the account and entering it as settled.
+- The claim is taken down word for word and never argued in the field; the reading of it happens off site, by people who were not in the chamber.
 - Extraction is authorized apart from the work cycle.
 
 ## Combat Record
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Lament pressure; 35% against other pressure types |
+| **Resistance** | 45% against Lament pressure and 35% against everything else — high resistance on a file where the damage is done to nobody's body |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 892/892 |
 | **Han Pressure [ATK]** | 23–50 per hit · Lament |
@@ -81,21 +81,21 @@
 | { *The Missing Span* [**Debuff**] } | "Where the bridge should be — nothing. Just the gap, and the wind through it." | [The Bridge's absence creates a void the target must cross.] | *Target suffers -10 Composure; the gap is terrifying.* **[10 Lament DMG [Lament]]** | When the target reaches the break. |
 | { *The Hanging Cable* [**Debuff**] } | "A cable dangles from the broken edge — swaying, singing in the wind, tempting you to grab it." | [The Bridge's remnant offers false hope; the target is drawn toward the edge.] | *Target loses 10 Composure; the temptation of the dangling cable is strong.* **[10 Lament DMG [Lament]]** | When the target stands at the edge. |
 | { *The Falling Debris* [**Attack**] } | "A piece of the broken bridge shakes loose — and it is aimed at whoever is standing beneath." | [A chunk of collapsed bridge-fall strikes.] | *Inflicts Lament pressure and one crushing, structural wound.* **[14-22 Lament DMG [Lament]]** | When the break is disturbed. |
-| { *The Full Rupture* [**Attack**] } | "The last support gives way — and the entire remaining structure drops into the chasm." | [The Bridge's complete failure releases all its stored grief.] | *A heavy Deep Blue collapse; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the break is forced wider. |
-| { *Every Bridge Falls* [**Ultimate**] } | "The break spreads — to every bridge, every crossing, every connection in the field." | [The Bridge extends its failure across the whole area.] | *All in range suffer Lament pressure for three turns of broken crossings.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Rupture* [**Attack**] } | "The last support gives way — and the entire remaining structure drops into the chasm." | [The last support lets go, and everything the crossing was holding comes down into the gap with it.] | *A heavy Deep Blue collapse; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the break is forced wider. |
+| { *Every Bridge Falls* [**Ultimate**] } | "The break spreads — to every bridge, every crossing, every connection in the field." | [The failure travels outward, and every crossing in range starts losing its supports in turn.] | *All in range suffer Lament pressure for three turns of broken crossings.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (the account. A four-point gradient with no visible source and a spoken claim of having crossed alone is this holding and no other) and I Alone Crossed is confirmed against the designation; positions are taken and the cycle is opened.
-2. **Clash:** The account is given and the crew takes it down word for word. The live risk is not the pressure but the crew's own agreement, and the timekeeper is watching for that rather than for the gauge.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name the limits of one person's responsibility**.
+1. **Tension:** Naming comes before everything — the account taken as a four-point pressure gradient, nothing behind it to look at, and the claim, spoken, of having gone over alone. No other file opens this way. The table settles the designation, the array is positioned, and the cycle opens only then.
+2. **Clash:** The account arrives and the crew writes it down without touching it. The live hazard is not the pressure but the crew's own agreement, and the timekeeper watches the pen, not the gauge.
+3. **Resolution:** The watch closes when one man's charge is drawn around honestly and left standing — the documented suppression condition: **Name the limits of one person's responsibility**. It stays closed only while that boundary holds; the moment anyone in the chamber takes the whole of the bridge onto one pair of shoulders, the cycle reopens.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
-- I Alone Crossed’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in I Alone Crossed's dossier.
+- A worker who cannot hold the pressure becomes its channel: **Clarity** is cut down by what pours through, and the instability they carry is fed straight back into the gauge.
+- Duration works against the crew here: what a short watch can carry turns destructive over a long one, and the file lists what it takes — feeling, body, name, and the ground under all three.
+- Every draw on the set takes its payment out of the bearer in person — composure first, then private memory, then flesh — and the grade column of the ledger has never had room for figures that size.
+- When a session closes unresolved the sorrow does not thin out; it turns back on the ground it came from, and the pattern entered in this record is what that return looks like.
 
 ## Appearance
 **Primary Form:** A bridge-shaped consciousness made from a broken promise and a violent crossing. It appears as a pressure in the mind.
@@ -125,7 +125,7 @@
 
 ## Origin
 - **Formation:** The Bridge formed from a crossing that became a personal failure.
-- **The Sorrow:** The belief that one person's failure caused everyone else's loss.
+- **The Sorrow:** The conviction underneath it: one man's failure cost everyone else their lives.
 - **The Event:** A guide led a group across a bridge during an Outside Sorrow surge; the bridge failed and the guide survived alone.
 - **The People:** A guide, and the nine people he was leading. The entity gives the number as nine every time it is asked and has never given a name for any of them, including his own.
 - **Expanded origin context:** The surge telemetry for that stretch of the Desolate survives, which is more than survives of the crossing. It shows the rise beneath the span, the window in which high ground was still reachable, and the hour at which it closed. Nothing in it mentions a group, a guide or a bridge. The archivist's note observes that the facility therefore knows the weather of the event in considerable detail and the event itself not at all.
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-I Alone Crossed is a Subject with Subject-Mind manifestation and Lament expression, registered in the Desolate near The Scar. All four Work Types are available, which is unusual for a holding with no body. Flerehan and Ferrehan both lower the gauge and do it differently: the first settles the account for a shift, the second asks the worker to hold their own failure without taking his on. Pugnahan raises it and has never been authorised twice by the same supervisor.
+I Alone Crossed is a Subject with Subject-Mind manifestation and Lament expression, registered in the Desolate near The Scar. All four Work Types are open to it, which the wing notes is unusual for a holding with no body to work on. Flerehan and Ferrehan both bring the gauge down, differently: the first settles the account for the shift, the second asks the worker to hold their own failure without picking up the guide's. Pugnahan raises it, and no supervisor has authorised it twice.
 
 **Reading the response:** A falling gauge presents as the account being given once and then left alone, with the pressure easing to the point where the floor reads as floor. Nothing has been resolved; the account will be identical next session. A rising gauge presents as insistence — the account repeated unasked, faster, with the crew finding it harder to leave unanswered. The documented escalation begins at the point where the crew starts treating the account as established fact, and the gauge follows the crew rather than the other way round.
 ## Containment Event Behavior
@@ -157,7 +157,7 @@ I Alone Crossed is a Subject with Subject-Mind manifestation and Lament expressi
 | **Effect** | Waves of cold grief wash over personnel, draining composure. |
 | **Secondary Effect** | A keening wail that fractures emotional stability. |
 | **First Target** | Nobody is targeted. The harm falls on whoever next attempts to cross the affected ground, which in practice means whoever is trying to reach the people already inside it. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **Escalation** | For every turn the holding stays free its pressure grows, and the Composure drain adds 5 a turn until the watch ends it. |
 
 ### Escalation Notes
 
@@ -194,7 +194,7 @@ I Alone Crossed is a Subject with Subject-Mind manifestation and Lament expressi
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that draws in when its source element is close.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -212,39 +212,39 @@ I Alone Crossed is a Subject with Subject-Mind manifestation and Lament expressi
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a tiny lantern of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a tiny lantern of Lament Han-crystal, cool and faintly luminous, that turns cold in the hand whenever its source sorrow is sounding.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 stat bonus while working the source holding, entered at issue against the bearer's name
 
 **Ability:** Reveals the emotional routes between people.
 
 **Cost:** The wearer feels every failed crossing they witness.
 
-*The lantern is not issued. It turns up after a session in which the account was taken down without being argued with, which the armoury records as four percent of them and cannot predict.*
+*The lantern is not issued. It comes up when an account has been written out straight, with no argument run against it — four per cent of those accounts produce one, and the armoury has never found a way to say which.*
 
 ### M.A.W. Use Notes
 
-The set is cut from the span: a sheared girder, silk that tightens on the approach, and a lantern that shows the routes between people. Every piece carries the same cost in a different register — the bearer begins to account for other people's outcomes as their own. The armoury's note is that this is useful in a route officer and dangerous in anybody else.
+The set is cut from the span: a sheared girder, silk that draws tight on the approach, and a lantern that lights the routes between people. Each piece bills the bearer at a different desk in the same currency — they start carrying other people's outcomes as their own. The armoury's note reads that this makes a good route officer and a dangerous anything else.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, gauge, and one pre-check, I Alone Crossed's toll being that the wielder feels the entity's unwept survivor grief. |
-| **During use** | I Alone Crossed charging, which presents as this: the wielder feels the entity's unwept survivor grief. The wielder's own account is taken separately and afterwards. |
-| **At limit** | The wearer becomes numb to minor joys, without remission. On a I Alone Crossed piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether I Alone Crossed's cost is still showing — the wearer becomes numb to minor joys. |
+| **During use** | Charging announces itself before anything else: the entity's unwept survivor grief arrives in the bearer. The second worker logs the hour, and the bearer's own account is taken afterwards and kept apart from it. |
+| **At limit** | The wearer becomes numb to minor joys, without remission, and on a piece from this holding the use ends at that point whatever the bearer says about it. |
+| **After use** | Return the piece, then put the question to a colleague rather than to the bearer: the numbness this set deals is the one cost a person cannot see in themselves. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** What the piece can extract and what it costs the person carrying it are separate accounts, and on this set they rarely line up. An efficient item can still leave a bearer Fractured, hollowed or sorrow-bound; the Armoury's own returns are full of bearers paying in years.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- Present only as pressure; four fixed points establish that it is there at all.
-- Returns the worker's own fear of failing people, sharpened. Competence does not reduce it.
-- Settles when responsibility is described accurately, including the parts that were nobody's.
+- Nothing of it is present except the pressure; the four fixed points are the only proof it is in the room at all.
+- What it hands back is the worker's own fear of letting people down, sharpened. Being good at the work does not soften it.
+- It quiets when responsibility is put down accurately, the unclaimed parts included.
 
 **Personnel Note:** *"I felt emptiness. The Bridge was not empty; it was full of every person the guide believed they had failed."* — Specialist, Zone D patrol
 
@@ -254,10 +254,10 @@ The set is cut from the span: a sheared girder, silk that tightens on the approa
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies I Alone Crossed as a Subject with Subject-Mind manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at The Desolate, near The Scar. |
+| **Initial exposure** | The observer places the holding from the markers: a 4-point gradient reading with no visible source, and a spoken claim of having crossed alone. The designation is confirmed against the classification table before entry, and the gradient series is opened first. |
 | **Sustained observation** | Four-point gradient, bearing, load distance, and the account taken down verbatim. The account does not change between sessions and the log exists to establish that, not to learn anything new from it. |
 | **Activation or escalation** | Escalation is read off the crew, not the entity: the point at which the account stops being transcribed and starts being believed. Record who said what, the gauge at that moment, and the time the session was ended. |
-| **Post-contact review** | Gradient series, bearing, account, crew-agreement note, gauge. Observers are stood down for the remainder of the shift and the transcription is sealed before it is read by anybody who was in the room. |
+| **Post-contact review** | Enter the 4-point array against the reference load, the bearing, the account as it was spoken, the crew-agreement note and the gauge. Both observers come off the roster for the rest of the shift, and the transcription is sealed before anybody who was in the room can read it. |
 
 **Observation method:** Two in, one outside with the clock and the authority to end it. Record the first bearing, the four-point gradient, and the account exactly as spoken. The transcriber does not reply to it, does not ask it to clarify, and does not confirm or deny any part of it — including the parts that are plainly not the speaker's fault. Both directions of reply have been tried; both raise the gauge.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -265,35 +265,35 @@ The set is cut from the span: a sheared girder, silk that tightens on the approa
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-I Alone Crossed (C-IVδ-106 [O]) is logged as a Subject-Mind manifestation expressing Lament. The Bridge formed from a crossing that became a personal failure. Held at The Desolate, near The Scar. It manifests mentally around The Scar.
+I Alone Crossed (C-IVδ-106 [O]) stands on the register as a Subject-Mind manifestation expressing Lament. What formed here was a crossing that turned into one man's failure. Held at The Desolate, near The Scar, and it manifests as pressure in the mind around the Scar.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
-Spreads through the consciousness of people near The Scar. Personnel feel paralyzing fear of failing others. It mirrors the worker's own fear of failure.
+It reaches people through their thinking anywhere near The Scar. Those close to it carry a paralysing fear of failing the people with them, and the fear it returns is always their own.
 
 **Entry 3 — <Excerpt from Counseling Log, Year 4236>**
-The belief that one person's failure caused everyone else's loss.
+The conviction underneath it: one man's failure cost everyone else their lives.
 
 **Entry 4 — <Containment Notice>**
-Management: Name the limits of one person's responsibility. Work response — Flerehan: Pauses and acknowledges shared sorrow. (Decrease); Pugnahan: Resists with pressure and memory-rage. (Increase); Viderehan: Reveals the crossing without assigning total blame. (Stable); Ferrehan: Tests whether the worker can bear failure without becoming it. (Decrease). It becomes calmer when blame is distributed honestly.
+Management: Name the limits of one person's responsibility. Work response — Flerehan: sets the shared sorrow down. (Decrease); Pugnahan: meets it with pressure and memory-rage. (Increase); Viderehan: opens the crossing without laying all of it on one man. (Stable); Ferrehan: tests whether the worker can carry failure without becoming it. (Decrease). Honest distribution of blame is what calms it.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-The Director's note: *"We have the weather and not the crossing. Nine people went onto that span on the best route available and the surge took the span. The holding is one man's conviction that this was his doing, and the Directorate's position — which it may state and may not certify — is that it was not."*
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+The Director's note: *"We have the weather and not the crossing. Nine people walked onto that span on the best route there was, and the surge took the span. What is filed here is one man's conviction that it was his doing. The Directorate's position — which it may state and may not certify — is that it was not."*
+There is a story the district tells about this file — traded in whispers and paid for in Echoes, older than the station and shorter than the record. It opens with a builder who went too high. Sorrow is nothing unusual in Somnarak, but this one ran differently: it wept until the tears were gone, pooled, and set. What had been wept stiffened into something the city could not put aside.
 
 **Threat rating:** Critical (δ). Proximity installs the belief that one person's failure caused every other loss, and the event removes crossing from a widening volume of ground.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals I Alone Crossed; the other feeds it.
+> The crossing watch resolves in one of two directions, and the record holds the two apart by what the observer does with blame: one names the boundary of one person's charge and leaves it standing there, and the other takes the whole weight of it — generously, and to the holding's advantage.
 
-| Name the limits of one person's responsibility — as written, without improvising. | Improvise something kinder, which is how every failure on I Alone Crossed's file began. |
+| Name the limits of one person's responsibility, as written, and leave the boundary standing where it falls. | Improvise something kinder — take the whole weight of it for them, offer absolution, and feed I Alone Crossed. |
 |---|---|
-| Pauses and acknowledges shared sorrow. The sorrow is witnessed; I Alone Crossed is fully recorded. | Resists with pressure and memory-rage. The gauge climbs and I Alone Crossed withdraws without revelation. |
+| The boundary of the charge is named and left standing, and the entry closes with the crossing recorded whole. | The worker takes the whole weight of the failure; the gauge goes up, and the file closes with the crossing no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-A bridge appears behind your eyes. The far shore is crowded with people you could not save. You try to cross, but every step becomes another accusation. The Bridge is a mirror because it shows not the disaster, but the person you made responsible for it.
+A span comes up behind the eyes, and the far bank is full of the people the worker could not save. Every step across is an accusation. This Bridge shows a man not the accident but the person he has decided to hold responsible for it.
 
 
 
@@ -303,26 +303,26 @@ A bridge appears behind your eyes. The far shore is crowded with people you coul
 
 **When the entity activates:** The pressure takes weight, the account begins, and the far side of the span fills with people the worker has not managed to help. None of them is from the crossing. All of them are the worker's own.
 
-**After departure:** The pressure stops at the door and the stride correction does not. Workers leaving the file are asked to walk the measured corridor once before signing out, which is how the stride is logged and how the counsellors know who to call.
+**After departure:** The pressure stops at the door and the stride correction does not. Workers leaving this file are asked to walk the measured corridor once before signing out — that is how the stride is logged, and how the counsellors know who to call.
 
 ### Interaction Pattern
 
-I Alone Crossed does not exist in isolation. Its recorded relationships with Survivor's Span, The Burning Bridge, The Scar Walker should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three holdings stand inside this crossing's working range — Survivor's Span, The Burning Bridge and The Scar Walker — and each is a question the wing wants answered, not an alliance and not a standing quarrel. Where a pairing is run, the entry records what the answer did to sound, movement, temperature, memory pressure, gauge or containment, with range, duration and trigger written beside it.
 
 **Interaction method:** Baseline each party alone. The question with this holding is whether the account changes in another presence, and it never has. Log the range, the duration, the gauge on both sides, and the transcription taken during the pairing, compared word against word with the solo baseline.
 
 
 ### Entity Interaction Record
 
-I Alone Crossed sits among the Desolate's crossing-sorrows and is the only one of them that can be asked a question. The entries below are observed. None has produced a second version of the account, which is the measurement that would matter, and the file says so rather than implying an influence it cannot show.
+I Alone Crossed is the one crossing-sorrow on the Desolate shelf that can be asked a question. What follows is observed rather than argued. No session has produced a second version of the account — the measurement that would matter — and the file says so instead of implying an influence it cannot demonstrate.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| The crossing's neighbour | How the pairing has run | What the gradient series showed | What the entry carries |
 |---|---|---|---|
 | **Survivor's Span** | Two survivals of the same kind of event. | Paired four times. The pressure in both chambers rises together and settles together, within the same hour, with nothing transferring in either direction and no change to either account. The Span's benediction has never been spent here and the wing will not authorise the attempt. | Both gradient series, the paired transcriptions, and the standing refusal with its reasoning. |
 | **The Burning Bridge** | One is the rescue that could not be made; this is the man who did not make it. | Never paired. The proposal was refused twice on the ground that the two accounts answer each other and that a facility arranging that is staging an argument rather than running a study. | Both refusals and the reasoning entered at each. |
 | **The Scar Walker** | Shares ground rather than sorrow. | Co-located permanently; the Walker's rounds pass the registered site several times a shift. Neither gradient nor account has ever moved in response, and the pairing is logged only because the two would otherwise be assumed to interact. | The rounds log against the gradient series, reviewed annually and unchanged. |
 
-**Interaction procedure:** Baseline both parties alone, hold the second outside the load distance, and record the first shared change with its range, duration and trigger, the gauge on each side, and the account taken during the pairing. The transcription comparison is run afterwards by somebody who was not present at either session.
+**Interaction procedure:** Read each holding alone first, with the second worker posted outside the load distance, then log the first change belonging to the pair rather than to either one — distance, duration and trigger with it, the gauge on both sides, and the account taken across the two sessions. The transcription comparison is run afterwards by somebody who was present at neither.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -360,10 +360,10 @@ Some sorrows mourn the dead. I Alone Crossed mourns the living — the guide who
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Critical (δ). Proximity installs the conviction that one's survival cost other people theirs; on event, crossing fails across a widening volume and the people most exposed are the ones attempting a rescue.
 **Containment & Handling Procedures:**
-- Flerehan and Ferrehan both lower the gauge; Viderehan is for the transcription; Pugnahan is never authorised.
-- Do not agree with it either. Transcribe, seal, and settle the meaning off site.
+- Flerehan and Ferrehan both bring the gauge down; Viderehan is kept for the transcription; Pugnahan is never authorised.
+- Do not agree with it either. Take it down, seal it, and settle what it means off site.
 **Observation Notes:**
-- A guide who survived a bridge collapse that killed his group.
+- The guide who came off a collapsed bridge alone and lived with it.
 - The guilt crystallized.
 **Cross-References:** Zone D · Survivor's Span · The Sunken Bridge
 **Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
@@ -373,7 +373,7 @@ Some sorrows mourn the dead. I Alone Crossed mourns the living — the guide who
 
 **Operational interpretation:** This holding is an account and a pressure, and the account has never varied. Read the claim log, the gradient series and the crew-agreement notes together: the first says what is being claimed, the second says that something is there to claim it, and the third says how close the room came to accepting it. Nothing in the file establishes what happened on that span, and the file is careful never to write as though something does. Where the entity does something not described here, log it and leave the contradiction standing.
 
-**Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the four-point array against the reference load, the gradient series, the exposure log and the gauge. Three further items apply here. The session transcriptions are compared against the standing baseline and any drift reported to the review rather than filed. The board's retrospective finding on the route is re-read in full. And the counsellors' objection to that reading is re-read immediately after it, unaltered.
+**Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the 4-point array against the reference load, the gradient series, the exposure log and the gauge. 3 further items apply here. The session transcriptions are compared against the standing baseline and any drift reported to the review rather than filed. The board's retrospective finding on the route is re-read in full. And the counsellors' objection to that reading is re-read immediately after it, unaltered.
 ## Apex Record
 
 ### A Bridge With No Structure
@@ -402,7 +402,7 @@ The four-point pressure array is calibrated weekly against a reference load, and
 
 ### What the Claim Log Measures
 
-The account is the holding's only output and the claim log is the only instrument that can be pointed at it.
+- The holding has one output, the account, and one instrument that can be aimed at it, the claim log.
 
 Every session is transcribed verbatim at the time, sealed before anybody present re-reads it, and compared off site against the standing baseline. **One thousand two hundred and four transcriptions in nineteen years.** The comparison has found **no substantive drift at all**: the same nine people, the same route, the same surge, the same closing sentence. Three transcriptions differ in word order and nothing else, and all three were taken in the same week by a transcriber who was afterwards found to be writing from memory at the end of the session rather than during it.
 
@@ -430,15 +430,15 @@ The counsellors' objection is read immediately after it and has never been answe
 
 ## Trivia
 
-- There is no bridge. There has never been a bridge in the chamber, and the span the floor reports is reported by the floor alone.
-- It comes through hardest to people who have outlived an incident, which is why recent survivors are excluded from the roster whatever they themselves say about it.
+- The chamber holds no bridge and never has; the span the floor reports is reported by the floor and by nothing else.
+- It lands hardest on anyone who has outlived an incident, which is why recent survivors are kept off the roster no matter what they say about themselves.
 
 
 
 ### Registry Trivia
 
-- **Classification detail:** I Alone Crossed is a Subject with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is The Desolate, near The Scar.
+- **Classification detail:** A Subject with Entity (IV) coherence and Critical (δ) potency, graded for what the claim does to the people who hear it rather than for anything the crossing does.
+- **Field detail:** Its element is Lament, and the register keeps it out at The Desolate, alongside The Scar, where it manifests.
 - **Recognition detail:** Identify it by the account. A four-point gradient with no visible source and a spoken claim of having crossed alone is this holding and no other.
 - **Record detail:** The Desolate's other crossing-sorrows are about the crossing. This one is about the crosser, and specifically about a conviction held by one named man concerning his own survival. A worker briefed on the span holdings is re-briefed here, because the procedures diverge at the only point that matters: those are observed, and this one is transcribed.
 - **Containment detail:** The boundary holds a pressure, not a body, and the pressure is already past it — the stride correction is measured in the corridor outside. Containment here means the affected ground is mapped and the routes through it are closed, nothing more.

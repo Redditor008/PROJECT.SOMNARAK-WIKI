@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Void pressure; 25% against other pressure types |
+| **Resistance** | 35% against Void pressure; 25% against everything else. Nothing is rated against the subsidence itself, which is not an attack the Pillar makes: it has been going down for a long time and the ground around it has been going down with it, so the percentages describe what a worker takes away from standing near a thing that is already gone. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 580/580 |
 | **Han Pressure [ATK]** | 16–37 per hit · Void |
@@ -78,17 +78,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Settling* [**Debuff**] } | "The floor dips — and you realize the pillar beneath you has been sinking for a long time." | [The Pillar descends; the target feels the slow drop.] | *Target suffers a Void mark; the support is failing.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stands over the Pillar. |
-| { *The Submerged Base* [**Debuff**] } | "The pillar's foundation is gone — swallowed — and now the rest follows." | [The Pillar's base is lost; the target feels the instability above.] | *Target loses clarity; nothing below is solid.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The Settling* [**Debuff**] } | "The floor dips — and you realize the pillar beneath you has been sinking for a long time." | [The ground gives by the width of a thumb, and the drop is not the danger; noticing how long it has been dropping is.] | *The target takes a Void mark; the support under them is recorded as failing.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the ground is surveyed. |
+| { *The Submerged Base* [**Debuff**] } | "The pillar's foundation is gone — swallowed — and now the rest follows." | [The base is already lost, and what the target feels is the instability travelling up through everything standing on it.] | *Clarity falls; nothing beneath the target is solid.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the ring is sounded. |
 | { *The Toppling* [**Attack**] } | "The pillar falls — slowly, massively, inevitably." | [The Pillar collapses onto the target.] | *Inflicts Void damage; a massive portion erodes.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Pillar is struck. |
-| { *The Void Below* [**Attack**] } | "The floor opens — and the void that swallowed the foundation reaches for you." | [The Pillar's sunken void surges upward.] | *A heavy Void pull; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Pillar is undermined. |
-| { *Everything Sinks* [**Ultimate**] } | "Every pillar, every support — gone. The whole field drops into the void." | [The Pillar's failure spreads; everything loses its foundation.] | *All in range suffer Void erosion for three turns as all descends.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Void Below* [**Attack**] } | "The floor opens — and the void that swallowed the foundation reaches for you." | [The absence under the pillar turns upward, and what pulls at the target is the place where the base used to be.] | *A heavy Void pull; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Pillar is undermined. |
+| { *Everything Sinks* [**Ultimate**] } | "Every pillar, every support — gone. The whole field drops into the void." | [The failure travels: every support in the field loses its foundation at once, and the drop is read by what stops holding.] | *All in range suffer Void erosion for three turns as all descends.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (the carving-shaped absences; position cannot be used, since the position is different every time anybody looks) and Sunken Pillar is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** The marker is read before anything else, and it is read in the absences rather than in the mass: carving-shaped gaps in the ring where the stone should have something in it. Position is not usable as an indicator — it differs every time anybody looks, which is itself the survey's first entry — and the ring radius is walked and recorded before the cycle opens.
 2. **Clash:** Seven turns, worked from the survey line at twenty metres. Nothing is dug, nothing is probed, and the exposed face is photographed before the first turn and after the last.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Distinguish possibility from memory; do not excavate**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Distinguish possibility from memory; do not excavate**. The condition is met when the workers have named what they can see and refused to reach into what they almost remember; a cycle that ends with anybody led into the past tense at debrief is filed as the ring having been sounded, whatever was found.
 
 ### Consequences
 
@@ -185,7 +185,7 @@ Escalation here is the ring, not the stone. Record the first trigger, the displa
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that quivers when raised.
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and all but colourless, that shivers in the hand when it is raised — on a holding that reads absences, this is the one piece that shows the ring's shape rather than its stone.
 
 **Damage:** Void 7-12
 **Speed:** 3 (Fast)
@@ -193,15 +193,15 @@ Escalation here is the ring, not the stone. Record the first trigger, the displa
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Sunken Pillar's void signature in the strike.
+**Ability:** Deals Void damage against the Soul — identity, memory and sense of self — and channels the Pillar's own signature: what it opens is not a wound but a gap where the target's certainty about their own past used to sit.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** Small, nameless memories go first: the bearer cannot say what is missing, only that a room they walked through last week is now a wall with no door in it. The loss is permanent, and the file counts it in pieces of a week rather than in hours.
 
 ### M.A.W. Suit — The Missing Column
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a columnar plate of Void Han-glass, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a columnar plate of Void Han-glass, near-translucent and all but colourless, that draws in near the source element — inside the ring the plate reads cold against the spine, and the bearer's first notice of how deep they have walked is that chill.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -219,32 +219,32 @@ Escalation here is the ring, not the stone. Record the first trigger, the displa
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
+**Appearance:** a small charm of Void Han-glass, near-translucent and all but colourless, that goes cold in the presence of the sorrow it was drawn from — wardens carry it as a proximity reading, which in the Desolate is the only reading there is.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 while this holding is the subject of the cycle and nothing anywhere else: the charm reads the subsidence's own signature, and no other record in the Desolate answers to it.
 
 **Ability:** Grants a minor boon tied to Sunken Pillar's sorrow; the effect mirrors the entity's nature.
 
 **Cost:** The bearer occasionally forgets a word.
 
-*The Missing Charm is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who reported what they had seen inside the ring in the conditional and refused to be led into the past tense at debrief.*
+*The Missing Charm is not issued and cannot be requested. It has been conferred 2 times, both to Wardens who reported what they had seen inside the ring in the conditional — *there would be a door here* — and refused, at debrief, to be led into the past tense about it.*
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Sunken Pillar and carries what Sunken Pillar carries: the wielder loses small, nameless memories with each use. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+All 3 pieces are cut from the Pillar's absence rather than from its stone, and they carry what it carries: small nameless memories go with each use, and the grade line says nothing about that. Extraction stability is what the grade records and the cost column is where the toll sits, which is why issue here is one rotation and no longer; the Armoury enters the loss against the bearance, not against the holding.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Sunken Pillar the recorded cost is that the wielder loses small, nameless memories with each use. |
-| **During use** | Sunken Pillar charging, which presents as this: the wielder loses small, nameless memories with each use. The wielder's own account is taken separately and afterwards. |
-| **At limit** | The wearer feels every future that did not occur, and the wielder has stopped reporting it — the usual end point for a Sunken Pillar piece. The observer calls the limit. |
-| **After use** | Piece returned; re-assess a week later, because what Sunken Pillar takes (the wearer feels every future that did not occur) does not present on the day. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline kept by a second person: name something small the bearer did last week — a meal, a room, a walk. The charge on this set takes pieces of a week that nobody was holding on purpose, and the sheet is the only way the return can be measured. |
+| **During use** | The charge presents as gaps rather than as pain: the bearer corrects themselves mid-sentence about a room that has no door or a day they cannot account for. The second worker logs the hour of the first correction; the bearer's own account is taken afterwards and never used to fill the gap. |
+| **At limit** | The limit reads as futures: every path the bearer did not take arrives as something they can feel, and the loss of the little ones stops being reported at all. On a Sunken Pillar piece the use ends there, and the observer calls it rather than the bearer. |
+| **After use** | The piece comes back and the bearer is re-assessed a week later, because this charge does not present on the day: the same second worker asks for the small week again and compares it to the sheet, and where the week has holes the piece is not reissued to that bearer. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grades describe extraction stability and nothing about human safety: a well-graded piece can still exact a toll no rating accounts for, and on this set the toll is a week with pieces missing and a bearer who cannot name them. Authorise on the cost column, and treat a low-rated piece carrying that charge as the ordinary case in this wing.
 
 ## 관찰 기록 (Observation Log)
 
@@ -273,7 +273,7 @@ Every piece in this set is a fragment of Sunken Pillar and carries what Sunken P
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sunken Pillar (C-IIIγ-649 [VP]) is logged as a Place-Void manifestation expressing Void. The Pillar formed from a monument to things that never existed. Held at The Desolate — mobile. It sinks deeper when attacked.
+Sunken Pillar (C-IIIγ-649 [VP]) is a Place-Void manifestation expressing Void: what a Desolate settlement built forward and then could not fill, still going down and still moving. It carries a travelling exclusion across unassessed ground and induces grief for people who were never born. The marker is read in the carving-shaped absences and never in the position, which differs every time anybody looks; the condition is to distinguish possibility from memory and to leave the ground undug.
 
 **Entry 2 — <The Empty Carvings>**
 Its empty carvings respond to mourning.
@@ -285,13 +285,13 @@ The grief of missing possibilities mistaken for lost memories.
 Work response — Viderehan: Shows the lives and structures that never came. (Stable); Ferrehan: Tests whether the worker can mourn possibility without calling it history. (Decrease). Personnel report fear when they see a life that never existed.
 
 **Entry 5 — <The Soldier Who Died Forgotten>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+What the wing keeps instead of a story is the paperwork: a subscription list carrying 94 households and not one descendant, a dedication record with the carving left blank on purpose, and a perpetuity opinion filed by people who expected somebody to collect. The settlement ended without an event anybody wrote down. Everything the file knows about the pillar's grief comes off those three documents, and they were written forward.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Sunken Pillar; the other feeds it.
+> Two ways to close a survey on the same ground. The file's way: name what is in front of you, call the ground finished, and leave it undug. The other way is the one the ring keeps inviting — reach for the part that almost exists, because it would be a kindness to bring it back.
 
-| Distinguish possibility from memory; do not excavate. | Depart from the condition for good reasons, as Sunken Pillar's record shows people do. |
+| Distinguish possibility from memory, and do not excavate — survey what is there, name it, and stop. | Reach into the ring for what could have been: the ground reads as plan within a minute, the gauge climbs, and the survey closes with the digging prohibition written up as a finding rather than obeyed. |
 |---|---|
 | Tests whether the worker can mourn possibility without calling it history. The sorrow is seen clearly; Sunken Pillar is fully recorded. | Shows the lives and structures that never came. The gauge climbs and Sunken Pillar withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -312,22 +312,22 @@ A stone pillar rises from the dust, but its most important parts are missing. Yo
 
 ### Interaction Pattern
 
-This holding is read against the other things in the Desolate built around what is not there. Each relation below has been observed and filed; none is settled; and each had to be arranged twice because the Pillar moved between the authorisation and the test.
+The Pillar belongs beside the other Desolate holdings built out of what is missing — the resemblance is a shared subject and not a shared cause. Every pairing here was arranged 2 times over, because the Pillar moved between the authorisation and the test. Nothing below is settled, and none of it was measured the easy way.
 
-**Interaction method:** Baseline each party alone across several surveys before any paired approach, and re-survey the Pillar's position on the day. Log the onset of any shared change with its range, duration and trigger, both gauges, the ring radius, and what persists after separation. Re-verify each cycle.
+**Interaction method:** Baseline each party alone across several surveys before pairing anything, and re-survey the Pillar's position on the morning of the test. Enter the first shared change with its range, duration, trigger, both gauges, the ring radius, and what is still standing after the two are separated; where the position moved mid-test, that is recorded as part of the result rather than as an interruption.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. All three test the same question — whether absence of different kinds is one phenomenon — and all three answer it no.
+The 3 rows below are canonical points of contact and not alliances, and all 3 were run to test one question: whether absence of different kinds is a single phenomenon. The answer on this file is that it is not, and the file holds all 3 attempts rather than the conclusion alone.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Record paired | Grounds for the comparison | What the pairing produced | Entry the file keeps |
 |---|---|---|---|
 | **The Vanished Tower** | Both are read as absent architecture, which is the resemblance the wing is asked about most often. | Three co-presences. The Tower's absence is of a building that stood and went; this one's is of a building that was never begun. Neither gauge moved on any occasion and no shared effect was produced. The wing records them as different phenomena with a similar vocabulary. | All three co-presences, both flat series, and the distinction stated for the record. |
 | **The Hollow Tree** | Shares the ground of unrealised potential and was the one pairing expected to produce something. | Five co-presences, the most of any here. The Tree's gauge fell on four of five by two to three points; the Pillar's did not move on any. Whatever passes goes one way and does not come back, and the Tree's own file records the same asymmetry. | All five co-presences, both series, and the asymmetry noted in both files. |
 | **The Dream Fragment** | Draws possible futures out of abandoned dreams, which would make it the only holding able to read what this one records. | Two attempts. The Fragment produced material on both occasions and none of it corresponded to anything in the dedication record, the subscription list or the intended inscription. The wing records the attempts as unsuccessful and has not authorised a third. | Both attempts, the material produced in full, and the comparison against the dedication record. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Individual observation comes first, always: know what each holding does alone before watching what the two do together. Then enter the first shared change — distance, duration, trigger, gauge movement on both, effect on the ground, and whether anything persisted after separation. On this file the ring radius and the survey position are part of every entry, and a pairing run against a stale position is void.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -369,13 +369,14 @@ Some sorrows mourn the past. Sunken Pillar mourns the future — the unbuilt, th
 **Observation Notes:**
 - Ninety-four households subscribed to raise a pillar for descendants who did not arrive; the settlement ended without an event anybody recorded.
 - Only the upper portion is above ground, and the proportion visible has fallen every year it has been measured.
+- The register keeps its own counts in numerals for look-up: 94 households on the subscription list and 0 descendants against it; the two ring debuffs carry 1 Void mark each, and the Missing Charm has been conferred 2 times.
 **Cross-References:** The Desolate · The Vanished Seed · the dedication record · the subscription list · the travelling exclusion · the perpetuity opinion
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** A Desolate settlement of ninety-four households that built forward and left the carving blank on purpose.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification is the frame and this record is the picture, and neither replaces walking the ring. The facts that govern are these — it sinks and moves at once, the exposed height is measured against the external datum every survey, the 94 subscribing households left no descendant, and the absolute in the handling procedure is the prohibition on digging. Where behaviour deviates from this file, the deviation is the most important data on the holding, and the contradiction is preserved as evidence rather than normalised away.
 
 **Review requirement:** Re-survey after every expansion, displacement, or unusual interaction: position against the last fixed station, exposed height against the external datum, the four face photographs compared independently by two Wardens, the ring radius from individually-taken traveller accounts, and the current position of the exclusion markers. The markers have twice been found inside the ring they were meant to bound.
 ## Warden Record
@@ -444,7 +445,7 @@ The objection is minuted at every annual review and is raised by the district su
 ### Registry Trivia
 
 - **Classification detail:** Sunken Pillar is an Object/Place with Fragment (III) coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Void, and its registered location is The Desolate — mobile.
+- **Field detail:** Element Void, registered to The Desolate and mobile, where containment is a line on a map redrawn every season: the exposed height is measured against the external datum, the position against the last fixed station, and digging is prohibited in every version of the order.
 - **Recognition detail:** Identify it by the carving-shaped absences; position cannot be used, since the position is different every time anybody looks.
 - **Record detail:** Read this file beside the dedication record and the subscription list, which together name ninety-four households and not one descendant.
 - **Containment detail:** The entity does not sit behind a door. Containment here is a line on a map that has to be redrawn every season, and the only absolute in it is the prohibition on digging.

@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Grudge pressure; 15% against other pressure types |
+| **Resistance** | 25% against Grudge pressure, 15% against other pressure types — read at the corridor mouth; the plate has never been struck in the holding's record except by people who started it. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 441/441 |
 | **Han Pressure [ATK]** | 8–19 per hit · Grudge |
@@ -81,21 +81,21 @@
 | { *The Phantom March* [**Debuff**] } | "Boots on stone — a regiment that no one remembers — and the soldier is at the head, still fighting a war no one recalls." | [The Soldier's forgotten duty radiates; the target feels the weight of purposeless service.] | *Target suffers -10 Resilience; they are fighting for nothing.* **[10 Grudge DMG [Grudge]]** | When the target encounters the Soldier. |
 | { *The Lost Medal* [**Debuff**] } | "The soldier's chest is full of commendations — every one from a war that has been erased from history." | [The Soldier's unacknowledged service presses; the target feels their own efforts going unnoticed.] | *Target loses 10 Resilience; nothing they do will be remembered.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
 | { *The Bayonet* [**Attack**] } | "The soldier charges — bayonet fixed — still fighting the enemy that no longer exists." | [A desperate, purposeless bayonet-thrust.] | *Inflicts Grudge pressure and one wound of forgotten valor.* **[14-22 Grudge DMG [Grudge]]** | When the Soldier is challenged. |
-| { *The Last Stand* [**Attack**] } | "The soldier makes a final stand — for a cause that no one living can name — and the stand is devastating." | [The Soldier's complete dedication, released in one last effort.] | *A heavy Crimson assault; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Soldier is cornered. |
-| { *The Forgotten Army* [**Ultimate**] } | "Every forgotten soldier in history rises — all of them still fighting — and the field becomes a war no one remembers." | [The Soldier extends its forgotten war across the whole area.] | *All in range suffer Grudge pressure for three turns of endless, forgotten battle.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Last Stand* [**Attack**] } | "The soldier makes a final stand — for a cause that no one living can name — and the stand is the whole of him." | [Everything the duty holds, released at once, in a corridor he never chose.] | *A heavy Crimson assault; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Soldier is cornered. |
+| { *The Forgotten Army* [**Ultimate**] } | "Every man the schedule erased is standing again — all of them still at their posts — and the war they are standing in ended before the roll was sealed." | [The Soldier extends the unacknowledged watch across the whole area.] | *All in range suffer Grudge pressure for three turns of endless, forgotten battle.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Forgotten Soldier is confirmed by the plate, the facing, and the stillness. If it is standing a post nobody set, it is this one. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** Forgotten Soldier is confirmed by the plate, the facing and the stillness, and by nothing else: if something in Zone B is standing a post nobody set, it is this one. The team fixes positions and the withdrawal route before the cycle opens, and reads the interval since the last undirected acknowledgement — 16 days at the last return.
 2. **Clash:** There is no clash in this holding unless somebody starts one. The crew stands the interval, the words are said or not said by whoever is there, and the gauge is read before and after. Pugnahan ends every session it is used in and returns half the yield.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns**.
+3. **Resolution:** The session closes with containment, management, retreat, or the documented suppression condition: **Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns** — said because the speaker means it, never because anybody was told to.
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Resilience** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Forgotten Soldier’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Forgotten Soldier’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- A failed resistance check puts the sorrow into the worker instead of the corridor: **Resilience** breaks, the gauge climbs, and the watch book carries the entry.
+- The longer the exposure, the deeper the mark: the file's own distinction is that the plate can be studied for a whole watch without harm, while a directed word costs the speaker something the counselors still decline to name.
+- The M.A.W. is never costless, and the set is issued one rotation at a time for that reason: the ache and the dulled reflexes are entered against the wielder, whether the piece was used correctly or not.
+- Failure to reach resolution arms the third-failure condition, and four decades of watch books describe exactly what follows: he leaves 7-C, walks to the nearest doorway facing the old boundary line, and stands in it.
 
 ## Appearance
 **Primary Form:** A half-phased warrior in pre-Structuring plate, at attention, unarmed unless struck at. **Facing:** toward the old Zone E boundary line, checked against the survey and found to agree.
@@ -151,9 +151,9 @@
 
 ### Operational Work Notes
 
-The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Forgotten Soldier is recorded as a Subject with Subject-Phantasmal manifestation and Grudge elemental expression. The current record places it at SECTOR-B-02, Zone B — contained corridor 7-C; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The behavior table is a snapshot and not a system, and the classification and origin say why it reads the way it does: Flerehan calms here because the words are the acknowledgement this file is about, and the same Work Type agitates at other Grudge holdings because there is nothing there to acknowledge. Forgotten Soldier is a Subject with Subject-Phantasmal manifestation and Grudge expression, held in corridor 7-C of SECTOR-B-02 in the shadow of the Year 4164 instrument. No assumption transfers from another Subject, and none from another soldier: his record is complete, accurate and sealed, and the acknowledgement he is waiting for is unlawful rather than missing. Observation from the corridor mouth can leave the gauge flat for a full watch and still put something into the observer that the counselors monitor without ever calling it a benefit.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the acknowledgement landed; the standing interval is unchanged, and management is not resolution — nothing the wing does takes a name off the schedule. A climbing gauge means the work fed rather than calmed: Pugnahan satisfies him and halves the yield, which the file records as an accurate description of what being fought is worth to a man who has been waiting since the instrument. If he does something the file does not describe, that is the most important data of the cycle; write it down before the next watch.
 ## Breach Behavior
 
 > *"He is out of 7-C. He is in the east doorway facing the old line. Nobody engage — somebody go and speak to him."*
@@ -181,7 +181,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that hums faintly when gripped.
+**Appearance:** a fang-curved blade of Grudge Han-iron, cold off the flat and faintly warm in the hand, that hums while it is being carried by somebody standing a post.
 
 **Damage:** Grudge 5-9
 **Speed:** 2 (Normal)
@@ -189,15 +189,15 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Forgotten Soldier's grudge signature in the strike.
+**Ability:** Deals Grudge damage against the Body (physical form, structural integrity), channeling the signature the schedule sealed; it lands on load-bearing frames the way he lands on doors.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The wielder's old wounds ache, and the ache is entered against them on the same page as the salute, whether the piece was used correctly or not.
 
 ### M.A.W. Suit — The Duty Plate
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, cold off the plate he wears and faintly warm once strapped on, smelling of old smoke for the first hour.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -207,40 +207,40 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Forgotten Soldier's kind of pressure.
+**Ability:** Grudge pressure that reaches the wearer meets the plate first, and the plate does not yield: it protects the Body (physical form, structural integrity) against the same force he has been standing in since the roll was sealed.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer's reflexes dull, as if the harness were standing them at attention, and that dulling is what the four decades of stand-downs have in common.
 
 ### M.A.W. Stigma — The Duty Blade
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a blade-pendant of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** a blade-pendant of Grudge Han-iron, cold until it is near somebody who has been waiting a long time, and hot briefly at the salute.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 stat bonus while working Forgotten Soldier in corridor 7-C.
 
 **Ability:** Deals increased damage to oath-breakers and those who abandoned their duties.
 
 **Cost:** The wielder experiences the Soldier's frustration—the anger of being forgotten.
 
-*The Duty Charm is not issued and cannot be requested. It turns up after a watch in which somebody said the words without being told to, and never after one in which the words were read from an instruction.*
+*The Duty Charm is never issued and cannot be requested. It appears after a watch in which somebody said the words unprompted, and never after one in which the words came off an instruction card.*
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Forgotten Soldier and carries what Forgotten Soldier carries: the wielder's old wounds ache; prolonged use leaves faint bruising. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+Every piece in this set is a fragment of Forgotten Soldier and carries what he carries: a duty that has outlived its orders. The β grade describes extraction stability and not safety, and the set is issued one rotation at a time because the costs on the right-hand side are borne by the wielder — the ache, the dulled reflexes, the shortened temper — and are entered whether the use was correct or not.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Forgotten Soldier takes: the wielder's old wounds ache. |
-| **During use** | The first sign that Forgotten Soldier is charging: the wielder's old wounds ache. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The wielder no longer notices Forgotten Soldier's toll — the wearer's reflexes dull, as if armored by resentment — which is how every stand-down on this set has been caught. |
-| **After use** | Return the piece and check the sealed baseline: has Forgotten Soldier's cost — the wearer's reflexes dull, as if armored by resentment — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, and a dated baseline taken at the corridor mouth; the toll on file for this set is that the wielder's old wounds ache. |
+| **During use** | The first sign that the piece is charging is the wielder's old wounds, logged with the hour by the second worker and never by the wielder; the second worker's page is the one that stands. |
+| **At limit** | The wielder stops noticing anything at all: the dulling arrives without the ache, and the first person to see it is the second worker. Every stand-down on this set has been caught that way, which is why the set is issued a rotation at a time. |
+| **After use** | Return the piece and open the sealed baseline from before the rotation: if the dulling outlasted the wear, the entry is made whether or not the wielder agrees, and the set goes back to the armoury for a quarter. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The rating measures what the piece does to entities, not what it does to the wielder, and on this set the second column is the one that matters: a β piece can cost a whole rotation, and the four decades of watch books contain the entries. Graded β because the set is stable to extract, not because it is safe to wear.
 
 ## 관찰 기록 (Observation Log)
 
@@ -261,10 +261,10 @@ Every piece in this set is a fragment of Forgotten Soldier and carries what Forg
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Forgotten Soldier as a Subject with Subject-Phantasmal manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-B-02, Zone B — contained corridor 7-C. |
+| **Initial exposure** | The observer confirms the plate, the facing and the stillness before anything else, and reads the interval since the last undirected acknowledgement from the top of the watch book's current page — 16 days at the last return. |
 | **Sustained observation** | Facing against the old boundary bearing, eighteen hours at attention and six on the route, and the days elapsed since the last undirected acknowledgement. The last of those is the operative number. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Forgotten Soldier's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Activation or escalation** | Record the first visible change before applying anything: a facing moved even slightly, plate solidity read at the same distance by the same instrument, or a gauge rise on a watch with no words in it. Escalation on this holding has one shape — the corridor mouth, then the doorway on the old boundary bearing — and the response is one sentence said by one person, not a suppression team. |
+| **Post-contact review** | What changed in the entity, in the corridor and in the person who spoke; whether the acknowledgement was directed; the facing and the interval at both ends; and the one field this holding exists to produce, the directed-or-not marking with the speaker's name. The book stays open to the wing and is signed by whoever stood the watch. |
 
 **Observation method:** Facing, bearing and solidity at the start of the watch; the interval since the last acknowledgement, in days; the time and speaker of any salute, with a note of whether the speaker was directed to speak; and the gauge before and after. The directed/undirected note is the measurement this holding exists to produce.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -272,7 +272,7 @@ Every piece in this set is a fragment of Forgotten Soldier and carries what Forg
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Forgotten Soldier (N-IIβ-033 [GS]) is logged as a Subject-Phantasmal manifestation expressing Grudge, standing in corridor 7-C of SECTOR-B-02 facing a boundary line that is no longer anybody's responsibility. He was a closed-posting perimeter soldier for twenty years. His name is on a sealed schedule and cannot be taken off it.
+Forgotten Soldier (N-IIβ-033 [GS]) is carried on the wing's register as a Subject-Phantasmal manifestation expressing Grudge, standing in corridor 7-C of SECTOR-B-02 facing a boundary line that is no longer anybody's responsibility. He was a closed-posting perimeter soldier for twenty years. His name is on a sealed schedule and cannot be taken off it.
 
 **Entry 2 — <Excerpt from Watch Returns, Corridor 7-C>**
 Tolerated interval before the gauge crosses: 31 days, then 22, now 16. The interval is the number of days he can go unacknowledged before the third-failure condition arms, and it has shortened at every review. It tracks the sealed schedule's quarterly return and nothing else the watch has been able to find.
@@ -288,11 +288,11 @@ The gap in the rolls was made carefully by somebody competent, under an instrume
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Forgotten Soldier; the other feeds it.
+> What the observing worker chooses at the climax of contact: say the words because they mean them, or reach for Pugnahan because the file appears to permit it.
 
 | Hold to the condition: Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns. | Try Pugnahan instead, which is the one response this holding has never tolerated. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is named; Forgotten Soldier is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Forgotten Soldier withdraws without revelation. |
+| The entity answers as the record predicts: he salutes, the interval is written down, and Forgotten Soldier is fully recorded. | The work feeds the Grudge instead. The gauge climbs, the corridor frames are replaced, and he withdraws without the acknowledgement — which no order can supply and no suppression can take. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -303,11 +303,11 @@ He stands in the corridor's shadow, translucent and ancient, with eyes fixed on 
 
 **At first contact:** He is already at attention when you come round the corner, and he is not looking at you. The plate is pre-Structuring, half-lit, and the face does not resolve. Nothing happens. Nothing will happen, for sixteen days, and then something will. Most people say the words within a minute of arriving and cannot afterwards explain why they did.
 
-**With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Grudge that the entity embodies. Understanding it does not make it easier.
+**With continued exposure:** A full watch does not deepen the impression so much as narrow it: the facing, the interval and the solidity of the plate are the whole of what he offers, and four decades of entries say the same three things. Understanding it does not make the corridor easier; it makes the interval longer to stand through.
 
-**When the entity activates:** When it activates, you understand why the containment protocols exist. The Grudge that was merely present becomes active, directed, purposeful — the Subject-Phantasmal was holding back, and now it isn't.
+**When the entity activates:** When it activates, the plate goes from half-lit to addressed, and the Grudge that was standing still begins to move toward the nearest doorway on the old boundary bearing. He was not holding back; he had finished waiting, and the interval since the last undirected acknowledgement is the clock that has just run out.
 
-**After departure:** The containment boundary holds the Subject-Phantasmal, but not the memory. Grudge residue settles into the bones like Han into the city's foundations.
+**After departure:** The corridor goes back to being a corridor, the doors are replaced, and the interval starts again. What does not leave is the marking in the watch book — directed or not — and the person who spoke carries the sense of purpose the counselors track for several days without calling it a benefit.
 
 ### Interaction Pattern
 
@@ -320,7 +320,7 @@ Five relationships are on record and only one was arranged by anybody. Two of th
 
 The entries below are kept in the words of the watch that observed them. Where another holding's file disagrees, both versions are printed; the wing's position is that a corridor watch book is a better record of what happened in the corridor than a summary written afterwards by somebody who was not standing in it.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | The watch's own words | What the corridor recorded | What is filed |
 |---|---|---|---|
 | **The Orphaned Bell** | Stands at attention when the Bell tolls. | Observed, not arranged. The toll resets his interval as an undirected acknowledgement would, which is one of the two cases on file of something other than a person counting. | Toll times against the interval clock, facing, and gauge at both ends. |
 | **The Hollow Choir** | The Choir sings his forgotten name; he salutes. | The second case. It is also the only occasion on which his name has been uttered since the instrument, and the Office has been formally notified each time, as the instrument requires. | The notification, the gauge, and the interval reset. |
@@ -373,9 +373,9 @@ Some sorrows mourn the fallen. Forgotten Soldier mourns the edited — the sacri
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** No single section of this file is sufficient. The classification, the Work Type responses, the interval figures and the breach protocol are one picture, and the picture is a man standing a post nobody set while the instrument that sealed his name stays in force. Read the whole before acting on any part; where observation contradicts the file, the file is wrong — the watch book is the record of what happened in the corridor, and it is the book that is signed.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, Tide, Ordeal or interaction, re-read the interval since the last undirected acknowledgement, the facing at both ends and the gauge against the page before the cycle: the interval has shortened at every review — 31, 22, 16 — and a review that does not re-measure it has missed the only figure on this holding that moves. Update the file the same week; nothing here is left for the annual return to catch.
 ## Watch Record
 
 ### He Stands at Attention
@@ -434,10 +434,10 @@ The practice has never been written up for the archive's management guidance and
 ### Registry Trivia
 
 - **Classification detail:** Forgotten Soldier is a Subject with Echo (II) — Repeats a single pattern: seeking acknowledgment coherence and Moderate (β) — Manageable potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-B-02, Zone B — contained corridor 7-C.
+- **Field detail:** Element Grudge, registered to corridor 7-C in SECTOR-B-02, where the facing has never varied and the doors are replaced more often than the personnel.
 - **Recognition detail:** The plate, the facing, and the stillness. If it is standing a post nobody set, it is this one.
 - **Record detail:** Four holdings in this archive are soldiers or servants of a duty. This one is distinguished by the fact that his record is complete, accurate and sealed: nothing about him was lost, destroyed or disputed, and the acknowledgement he waits for is unlawful rather than unavailable.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Containment here is an interval rather than a wall: the gauge holds steady while the days since the last undirected acknowledgement run down, and that count is the only figure on this holding that has ever moved.
 ## Document Information
 
 **Document ID:** SE-N-IIβ-033

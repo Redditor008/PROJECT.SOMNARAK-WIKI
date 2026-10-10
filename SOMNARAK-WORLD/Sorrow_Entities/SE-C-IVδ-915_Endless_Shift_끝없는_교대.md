@@ -1,6 +1,6 @@
 # Endless Shift — 끝없는 교대
 
-> *"The city gave us this. We did not ask for it."*
+> *"The rotation ends, the worker finds themselves at the start of it, and the forge keeps going."*
 
 ## SECC Classification
 
@@ -88,7 +88,7 @@
 
 1. **Tension:** The crew's timepieces are sealed at the door by the relief warden, who also records the hour. Nobody carries an unsealed clock inside and the sector has none on its walls.
 2. **Clash:** None. There is a sector in which time is heavier than it should be and a crew working a rostered hour in it; the row is retained because the form requires one.
-3. **Resolution:** Relief is taken at the door, in person, with both timepieces read aloud. The handover is the containment measure and the nine failures are all failures of the handover rather than of anything the sector did.
+3. **Resolution:** Relief is taken at the door, in person, with both timepieces read aloud. The handover is the containment measure and the nine failures are all failures of the handover rather than of anything the sector did. It closes against the documented suppression condition: **Relief is taken at the door, in person, with both timepieces read aloud**.
 
 ### Consequences
 
@@ -183,8 +183,9 @@ Despite its corroded appearance, the cutting edge is polished to razor sharpness
 
 **Appearance:** a heavy matte veil with a timepiece's worth of fine gearing worked into the shoulder, none of it connected to anything and all of it turning.
 
-**Resistances:** Weight: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.3 (Resistant)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** The shift's burden rests on the wearer's shoulders as a constant low fatigue, which follows the schedule rather than a single moment of exertion.
 **Ability:** Grants resistance to Weight damage, protecting against the weight register of sorrow.
 
 ### M.A.W. Stigma — Endless Shift's Token
@@ -256,6 +257,21 @@ The weight register changes the weight from a classification into an experience.
 **When the entity activates:** There is no activation. There is a worker finishing a rotation and finding themselves at the start of it, and continuing, because the work is there and they are not tired yet in any way they can detect.
 
 **After departure:** The exhaustion arrives outside the line, all at once, in proportion to the hours the body worked and not the hours the log holds.
+
+## 상호작용 (Entity Interactions)
+
+The sector has never been worked with a second holding posted alongside it. Every row below is paper work, drawn from the appendix that groups the 90x holdings by manifestation and read against each file's own series rather than tested in the sector. What the pairings share is the district's oldest complaint — an hour that does not hold what an hour should — and the records disagree about it in ways worth keeping.
+
+**Interaction method:** Establish the shift's own figures first: the elapsed hour, the subjective span from both timepieces, and the handover log, all taken alone across a full cycle. Only then set the other record beside them and enter the first divergence, its range, what set it off, and whether either series moved in the reading. Re-verify each quarter.
+
+| What shares the roster | How the pairing has run | What the sector entered | What the log retains |
+|---|---|---|---|
+| **Breathing Stone** `C-IVδ-907` | Filed together on a rate that will not be argued with. That record holds one breath a minute and has never varied; this one holds a sixty-minute hour that runs from four hours to just under nine. | The two series were set side by side once and shared nothing but their precision, which the review noted and moved past. | That the two are compared on precision alone, with the note standing beside the row each time it is read. |
+| **Labyrinth of the Unfinished Mind** `C-IVδ-909` | Grouped on interiors that hold people past their term. That record keeps a walker past the room count; this one keeps a crew past its hour. | No trial. The appendix cross-flagged the pair and the review left it as paper. | That the claim is a filing arrangement, entered beside the row on each repetition. |
+| **Ninety Seconds** `C-IVδ-918` | Grouped on loops: a thought that comes back, an hour that comes back. Both holdings put a person through the same interval twice and neither can say why. | One review entry; the loop counts were compared across 2 quarters and diverged at the first mark. | That the divergence is the finding, kept un-smoothed in the review's own numbers. |
+
+**Interaction procedure:** Observe separately, always, and record distance, duration, the trigger, both readings and whatever outlasts separation. No co-presence trial is authorised on this holding; the comparisons stay on paper at the annual review, with the shift's two timepieces and the other record's series kept in separate columns.
+
 
 ## 이야기 (Narratio) — The Tale
 
@@ -376,9 +392,9 @@ The minute records the objection as **correct in all three parts**. It records t
 
 ## Trivia
 
-- One of the first catalogued **Time-Weight** entities in Somnarak.
-- Its weight descriptor makes it structurally unique among time entities.
-- The weight pressure in the weight register feels different from standard weight — more specific, more personal.
+- The sorrow at SECTOR-C-915 is not the ambient Weight the city carries. It is the grief of labour performed and not counted — the shift worked past its end, the hours given and entered in no ledger.
+- Nothing a worker said ever proved it to the file. The tooling did — a hammer face wears by strikes and not by the clock, and the district's hammers wore far more of them than the station log accounted for.
+- Every worker in the district carries a sealed timepiece verified at the boundary, and it is not issued for the worker: no instrument on a person's wrist has ever corrected the impression that the shift ran long.
 
 ## Document Information
 

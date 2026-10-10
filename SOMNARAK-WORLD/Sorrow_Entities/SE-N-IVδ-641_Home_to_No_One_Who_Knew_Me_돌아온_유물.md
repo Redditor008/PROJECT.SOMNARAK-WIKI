@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Grudge pressure; 35% against other pressure types |
+| **Resistance** | 45 per cent against Grudge pressure and 35 against anything else, with the file's own note that nothing here is fought: it appears after a long absence, it shifts form when unobserved, and what a party resists is the recognition — every witness finds the shape familiar, and no two agree on what it was. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 809/809 |
 | **Han Pressure [ATK]** | 28–60 per hit · Grudge |
@@ -73,7 +73,7 @@
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, Old Lament — ambient |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | The form is recorded, the cordon holds, the district has been briefed, and the relic has been left exactly where it stands: nothing is done to the object, and the gauge falls off on its own schedule. |
 
 ### Combat Actions
 
@@ -82,18 +82,18 @@
 | { *The Reappearance* [**Debuff**] } | "You buried the relic — deep, sealed, gone — and here it is, in your hand, heavier than before." | [The Relic's return is inevitable; the target feels the futility of disposal.] | *Target suffers -10 Resilience; they cannot get rid of it.* **[10 Grudge DMG [Grudge]]** | When the target discards the Relic. |
 | { *The Growing Return* [**Debuff**] } | "Each time it comes back, it is larger — heavier — more insistent on being held." | [The Relic's returns compound; the burden grows.] | *Target loses 10 Resilience; the relic is winning.* **[10 Grudge DMG [Grudge]]** | When the target tries to refuse. |
 | { *The Heavy Hand* [**Attack**] } | "The returning relic strikes — of its own accord — angry at being thrown away." | [The Relic attacks autonomously.] | *Inflicts Grudge pressure and one wound of returned weight.* **[14-22 Grudge DMG [Grudge]]** | When the Relic is rejected. |
-| { *The Full Return* [**Attack**] } | "Every version of the relic that was ever discarded returns at once — a multitude of angry objects." | [The Relic's complete return cycle releases all its copies.] | *A heavy Crimson barrage; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the return cycle is broken. |
-| { *The Reliquary* [**Ultimate**] } | "Relics appear in every hand in the field — each one returned, each one heavy, each one angry." | [The Relic extends its returns across the whole area.] | *All in range suffer Grudge pressure for three turns of returning objects.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Return* [**Attack**] } | "Every version of the relic that was ever discarded returns at once — a multitude of angry objects." | [Every copy anybody ever threw away comes back at the same moment, and the street fills with things people recognise.] | *A heavy Crimson barrage; the gauge jumps 15 at a stroke.* **[24-36 Grudge DMG [Grudge]]** | When the relic is recognised. |
+| { *The Reliquary* [**Ultimate**] } | "Relics appear in every hand in the field — each one returned, each one heavy, each one angry." | [The return widens until every worker in the district is holding something they thought they had let go.] | *Every worker in range takes Grudge pressure across 3 turns of returning objects.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — Home to No One Who Knew Me is recognised by the crimson light inside it and by nothing else. The shape will be wrong, and more precisely it will be whatever the person looking has reason to find familiar — then the approach is set and the positions are taken.
+1. **Tension:** Identification first, and it comes down to 1 reading: the crimson light inside the object. The shape will be wrong, and more precisely it will be whatever the person looking has reason to find familiar — the watch enters the form it found and nothing else, sets the cordon, and initiates no approach, because the file's condition is a list of things not done to the relic.
 2. **Clash:** Viderehan and Ferrehan only, worked at distance, with the watch recording and keeping others back and doing nothing else. The relic is not approached, handled, moved, marked or addressed. Nobody says that it has come back, within its hearing or outside it, during the engagement.
 3. **Resolution:** The cycle closes when the gauge falls below 25% and the appearance has been logged — light, position, duration, form marked unidentified — and the district association has been told. On this holding a completed cycle consists almost entirely of having refrained, and the sheet says so in those words so that nobody records it as a failure.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resilience**, funneling cognitive instability back into the Sorrow Gauge.
+- A worker who cannot hold becomes a conduit rather than a casualty: the pressure takes their **Resilience** down with it and the street receives it back, which is how a watch that was going to be a survey turns into a return nobody scheduled.
 - The effects compound with duration and they compound in the witnesses rather than in the object. People present grow uncertain about unrelated things — their route, their reason for being in the district, whether they have already spoken to someone — and the uncertainty is mild, resolves within the shift, and is entirely convincing while it lasts.
 - Each M.A.W. activation debits the wielder past what the grade ledger records — composure, recollection, somatic steadiness. The charge from this source is specific: wielders lose the certainty that places they return to are the places they left.
 - Without resolution the relic does not rupture outward so much as persist, and then go, and then come back. The transformation on the classification is a change of form rather than an escape: the thing that was a black relic last time will be something else next time, glowing the same way.
@@ -145,14 +145,14 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Home to No One Who Knew Me is recorded as an Object/Place with Object-Void manifestation and Grudge elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Read the gauge only beside the form it was taken in: this holding's response depends on element, coherence and manifestation, and on what the witness took the object to be. Home to No One Who Knew Me is an Object/Place with an Object-Void manifestation and Grudge elemental expression, appearing in the Old Lament after long absences, and the file's scheduling variable is the interval between appearances rather than any cycle count. No breach counter applies: the return is the trigger, and the yield is highest on the day it comes back.
 
-**Reading the response:** Read it in the light and in the witnesses. A falling gauge presents as dimming — the inner fire sinking deeper into whatever the object currently is, the heat dropping toward the street's own, the form holding steady for longer. The pressure eases and nothing is settled; it will go, and it will come back, and nothing anybody does here affects either. A rising gauge presents as **familiarity**. The object begins to look like something: a tool from a trade the observer's family worked, a household thing from their childhood, something they are sure they have seen before. The form changes according to the history the observer remembers, so a watch member who finds the relic recognisable is reading their own past and not the object, and that is the point at which they are relieved.
+**Reading the response:** Read the light first and the witnesses second: a falling gauge shows as the inner fire sinking deeper into whatever the object currently is, the heat dropping toward the street's own, and the form settling. The pressure returns unless the cycle is sustained, so what a good watch buys is stabilisation and not an answer. The witnesses are read on purpose — people who stood near the cordon grow uncertain about unrelated things, and the file treats a confident witness as a datum rather than as a witness.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This Relic Extracts Personal Resilience upon Extended Use** — the warning is the whole handling note, and the numbers underneath it are measured on the bearer rather than on the object.
 
 **Activation Trigger:** Touch or recognition by someone who remembers it.
 
@@ -171,7 +171,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Activation** | Touch or recognition by someone who remembers it. |
 | **Primary Effect** | Returns a lost object or memory to its previous location briefly. |
 | **Duration** | Until the returned thing is acknowledged or forgotten again. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
+| **Termination / Return** | The operative unequips the relic under safe detaching protocols. Returning it early, or working past the safe threshold, extracts Grudge trauma rather than composure — and on this source the marks of that are memory-shaped rather than wound-shaped. |
 | **Risk** | The user may confuse return with restoration and lose present memories. |
 
 **Operational Rule:** The activation trigger is touch or recognition by someone who remembers it, which makes the tool classification a registry convention and not a field practice: the use and the hazard are the same act. The relic is not equipped, not carried, and not deliberately activated under any standing authority, and no exception has been granted in the holding's operation. Containment remains Viderehan and Ferrehan, performed at distance. What it returns when triggered is a lost object or memory, briefly, to where it used to be — and the recorded risk is that the user mistakes a return for a restoration, which the file states in the plainest available terms: it may return an object without returning the person who owned it.
@@ -182,12 +182,12 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 |---|---|---|
 | 10 Seconds | Home to No One Who Knew Me rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Home to No One Who Knew Me activates its primary resonance: Returns a lost object or memory to its previous location briefly. Grants +10% resistance to Grudge damage while equipped. |
 | 30 Seconds | The artifact was born from the instability of belonging—returning home only to find home has forgotten you; the bearer begins perceiving echoes of an artifact left the city, was destroyed or hidden, and later returned to a district that had changed beyond recognition. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Home to No One Who Knew Me begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The toll starts coming off the bearer: breathing falls into the resonance of the originating grief, and the object's heat climbs toward the palm rather than away from it. Past 60 seconds the extraction runs at 5 Grudge every 15, and the monitor's job is to watch for the sudden calm rather than the strain. |
 | 2 Minutes | To wear Home to No One Who Knew Me too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user may confuse return with restoration and lose present memories. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Home to No One Who Knew Me: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone B, Old Lament — ambient, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation is peculiar to this relic and is not a generic containment event: what has to be recorded is the act of recognition itself, the first visible change in the Object-Void form, the distance at which the witness effect starts, and the boundary where the resonance settles. On this file the recognition is the trigger, so the entry begins with who looked at it and what they thought they were looking at.
 
 **Response sequence:** Establish a cordon at a distance that keeps the public out rather than keeping the relic in, verify from the light whether an appearance has become an activation, and clear unshielded persons from the street. Enforce the recorded protocol, which on this holding is a protocol of non-interference: nothing is approached, handled, moved, contained or marked, and the watch's entire function is to record and to keep others away. That passivity has been challenged in review as an abdication and was defended in writing in terms the file still carries — the relic is a thing that was lost, destroyed, hidden and returned by other people's decisions, the facility has no reason to believe it would improve matters by adding its own, and a watch that does nothing is at least not the next thing that happens to it.
 
@@ -200,9 +200,9 @@ The escalation pattern is specific to Home to No One Who Knew Me: it is not a ge
 | **Primary effect** | Returns a lost object or memory to its previous location briefly. |
 | **Duration / rate** | Until the returned thing is acknowledged or forgotten again. |
 | **Risk** | Critical (δ) Object-Void producing Grudge pressure; The user may confuse return with restoration and lose present memories. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Record the form it currently holds, cordon the street, brief the district afterwards, and do nothing to the relic — Viderehan and Ferrehan only, with no attempt to engage it emotionally or move it. |
 
-**Activation reporting order:** what constituted the recognition → who recognised it and what they took it to be → first visible change in the light → what was returned, where it was returned to, and for how long → witness effect, with each witness's task sheet attached → duration → management condition. The second field records the witness's own history rather than the object's, because the form is drawn from the observer, and it is kept with the exposure record instead of in the operational log. Viderehan and Ferrehan remain the only valid Work Types, and nobody touches it during a response.
+**Activation reporting order:** what constituted the recognition → who recognised it, and what they took the object to be → the first visible change in the light → what was returned, where, and for how long → witness effect, with each witness's task sheet attached rather than summarised. The order is fixed because the account is unreliable in the one place that matters: nobody who recognises the relic describes it the same way twice.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -211,7 +211,7 @@ The escalation pattern is specific to Home to No One Who Knew Me: it is not a ge
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that quivers when raised.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and warm to the touch, that shivers when it is raised — worked from the relic's outer casing, so it holds the same unsteady reading between forms that the relic itself does.
 
 **Damage:** Grudge 10–15
 **Speed:** 3 (Fast)
@@ -224,7 +224,7 @@ The escalation pattern is specific to Home to No One Who Knew Me: it is not a ge
 **Falloff Rule:** 100% to the first target, 70% to the second, 50% to the third — the strike loses conviction with each person it passes through.
 **Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the impact and the lingering heat are tracked apart.
 
-**Ability:** Deals Grudge damage against the Body — structural integrity and physical composure. The strike carries the source's signature, and those hit report a moment of not recognising the room they are standing in.
+**Ability:** Deals Grudge damage against the Body — structural integrity and physical composure. The strike carries the source's signature, and what the struck report is a moment of not recognising the room they are standing in — the relic's own condition, handed on at arm's length.
 
 **Cost:** The wielder's old injuries ache and prolonged use leaves faint bruising. Wielders also mislay small possessions at a rate the wing has measured and declines to explain.
 
@@ -232,7 +232,7 @@ The escalation pattern is specific to Home to No One Who Knew Me: it is not a ge
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
+**Appearance:** a plated Grudge Han-iron harness, dark and warm, that shifts with the wearer's breathing — inside the cordon the plate reads warm at the collar, and bearers take the warmth as the relic's own weather rather than the body's.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -250,32 +250,32 @@ The escalation pattern is specific to Home to No One Who Knew Me: it is not a ge
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** an ember-charm of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** an ember-charm of Grudge Han-iron, dark and warm in the palm, that goes briefly hot near sorrow; wardens carry it as the district's only proximity reading, because the relic can be in a street for an hour before anybody agrees where it is.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 to the working stat while this piece's source entity is the subject of the cycle, and nothing at all elsewhere
+**Effect:** +3 while this holding is the subject of the cycle and nothing anywhere else: the charm answers the relic's own register, and on the Old Lament line it is issued for the watch that will be standing the cordon rather than the watch that will be reading the form.
 
 **Ability:** Recalls one lost object to the wearer's hand.
 
 **Cost:** The wearer feels the object's entire history as personal grief.
 
-*A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, as unscheduled as the appearances themselves, and nothing obliges one.*
+*A Stigma from this source is given, never made. It appears after a successful cycle at the relic's own disposition, as unscheduled as its own appearances are, and nothing in the procedures obliges an object to part with anything.*
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Home to No One Who Knew Me and carries what Home to No One Who Knew Me carries: the wielder's old injuries ache and prolonged use leaves faint bruising. Wielders also mislay small possessions at a rate the wing has measured and declines to explain. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+All 3 pieces are cut from the relic's casing, and they carry what it carries: old injuries ache, prolonged use leaves faint bruising, and wielders mislay small possessions at a rate the wing has measured and declined to explain. The grade records extraction stability and nothing about any of that; the cost sits in the column beside it, which is why issue here is one rotation at a time.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Home to No One Who Knew Me's known toll: the wielder's old injuries ache and prolonged use leaves faint bruising. Wielders also mislay small possessions at a rate the wing has measured and de. Opened at the end of the rotation, not before. |
-| **During use** | Watch for Home to No One Who Knew Me's toll — the wielder's old injuries ache and prolonged use leaves faint bruising. Wielders also mislay small possessions at a rate the wing has measured and de — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The wearer's reflexes dull and their sense of belonging somewhere dulls with them. Wearers describe their own quarters as a place they are staying, and the wielder has stopped reporting it — the usual end point for a Home to No One Who Knew Me piece. The observer calls the limit. |
-| **After use** | Return the piece and check the sealed baseline: has Home to No One Who Knew Me's cost — the wearer's reflexes dull and their sense of belonging somewhere dulls with them. Wearers describe their own quarters as a place they are staying — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, the gauge at issue, and a baseline kept by a second person: name four small possessions the bearer has not mislaid this month. The charge on this set takes injuries and belongings rather than memories, and the sheet is what the return gets measured against. |
+| **During use** | The toll shows as an accumulation nobody announces: the old aches thickening, the bruising arriving without a cause, and a possession missing from a pocket the bearer would have sworn about. The hour goes into the log from the second worker's hand, never the bearer's. |
+| **At limit** | The limit is belonging itself: reflexes thin, and the bearer starts describing their own quarters as a place they are staying rather than a place they are from. On this set the use ends there, and the call belongs to the observer rather than the bearer. |
+| **After use** | Take the piece back and set the sheet against the person: are the possessions still on them, is the bruising accounted for, and do their own rooms read as theirs? The answer is entered whether or not the bearer agrees, and where the belonging has not come back the piece is not reissued. |
 
-**Stat interpretation:** Performance and human cost are separate axes and the grade measures only the first. An efficient piece from this source can still leave its wielder Fractured, hollowed or sorrow-bound, and the costs here attach to memory and place rather than to the body, so they are reported late or not at all. Read both columns, authorise on the second, and ask the wielder where they are from.
+**Stat interpretation:** Performance and human cost are separate axes, and the grade measures only the first: an efficient piece from this source can still leave its bearer Fractured, hollowed or sorrow-bound, and on this set the costs attach to memory and to place rather than to the body. Authorise on the cost column, and read a bearer's account of their own rooms as data.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -304,7 +304,7 @@ Every piece in this set is a fragment of Home to No One Who Knew Me and carries 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Home to No One Who Knew Me (N-IVδ-641 [GO]) is logged as a Object-Void manifestation expressing Grudge. The Relic formed from the grief of an object repeatedly lost and rediscovered. Held at Zone B, Old Lament — ambient. The Relic appears without a consistent schedule.
+Home to No One Who Knew Me (N-IVδ-641 [GO]) is an Object-Void manifestation expressing Grudge, held in Zone B on the Old Lament line, ambient. It appears after long absences, glows with crimson inner fire, and changes shape whenever nobody is watching it; it returns to a district that no longer remembers it, and the district fails to recognise it in turn. The condition is to record the form, cordon the street, brief the neighbours, and do nothing to the object.
 
 **Entry 2 — <Excerpt from Old Lament District Watch Sheet, Year 4238>**
 It glows during the Sorrow Tide.
@@ -320,45 +320,45 @@ The sorrow did not emerge from nothing. It grew around this location until it wa
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Home to No One Who Knew Me; the other feeds it.
+> Two ways to close the same watch. The file's way: write down the form, hold the cordon, tell the street what is standing in it, and touch nothing. The other way is the one every witness reaches for — pick the familiar thing up, because leaving it standing there looks like neglect.
 
-| Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. | Substitute your own judgement, which on Home to No One Who Knew Me has never yet cost less than the condition. |
+| Record the form, cordon the street, brief the district afterwards, and do nothing to the object — as written, with the object untouched and the cordon held to the end of the watch. | Pick it up, open it, move it out of the road, or test it: the relic registers recognition, the light goes crimson, and the file books the watch as one that made it return again. |
 |---|---|
-| Remains present while the worker bears uncertainty. The sorrow is named; Home to No One Who Knew Me is fully recorded. | Shows the routes and hands through which it passed. The gauge climbs and Home to No One Who Knew Me withdraws without revelation. |
+| It remains present while the worker holds the uncertainty without settling it — not deciding what the object is, which is the whole of Ferrehan on this file: the inner fire dims, the form steadies, and the watch is logged with a description rather than a name. | The worker decides what it is, and the relic answers as though recognised: the light goes crimson, the shape resolves into whatever they were sure of, and the return is booked against the district rather than the wing. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-Something rests where the dust was undisturbed. It glows as if it has just crossed a great distance, though no footprints lead to it. You touch the surface and remember hands that are not yours. The Relic has returned. The place it returned to has not.
+Something rests where the dust is undisturbed. It glows as though it has just crossed a long distance, and no prints lead to it. Touch the surface and the hand that remembers is not your own; the relic has come home, and the home has not. The whole of the file is the 6 words the watch writes down afterwards: found, unopened, in the road.
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A black relic that appears in the Old Lament after long absence. It glows with a crimson inner fire and shifts between object forms. Notable Features: It returns to places that no longer remember it and. The surrounding space does not become generic or abstract; it changes in the specific way associated with Grudge and the entity's Object-Void form.
+**At first contact:** The light is the identification and nothing else is: a black relic appearing in the Old Lament after a long absence, crimson inside, its shape shifting between object forms whenever it is not being watched. Witnesses disagree about what it is, confidently and in good faith — which is the holding's own subject matter — and the watch records the form as it found it rather than deciding what it res-embles.
 
-**With continued exposure:** Sustained contact reveals the entity's rhythm — the Grudge pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
+**With continued exposure:** Witnesses begin to be uncertain about unrelated things — their route, their reason for standing in that street, whether they have already spoken to somebody that morning — and the uncertainty is the effect rather than a side-effect. It compounds in the people present and not in the object, which is why the cordon is stood by the same pair who then write the account together.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch or recognition by someone who remembers it. Effect: Returns a lost object or memory to its previous location briefly. Duration: Until the returned thing is acknowledged or forgotten again. Risk: The user may confuse return with restoration and lose. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** Activation follows recognition. The light goes from ember to crimson, the shape resolves into whatever the witness was certain of, and what the object does then is return something — a route, a hand, a version of itself — into the street that has already forgotten it. The file's rule at that moment is to write and not to decide.
 
-**After departure:** Departure is not relief. The Object-Void is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** It goes the way it came, without departure in any useful sense, and the watch closes with a briefing to the district and a note in the cordon ledger. What stays behind is the uncertainty: people who stood near it report for a week that they are not sure they were there at all, and the file books those reports as readings rather than as confusion.
 
 ### Interaction Pattern
 
-Home to No One Who Knew Me does not exist in isolation. Its recorded relationships with The Forgotten Market Stall, The Broken Mirror, The Orphaned Bell should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This file reads the relic against the 3 records it has been paired with — The Forgotten Market Stall, The Broken Mirror and The Orphaned Bell — and all 3 are filed as resonance candidates, never as alliances or hostilities. What the four share is return rather than loss, and the resemblance is the reason the names were put side by side: none of the 3 pairings has ever produced a reading the wing was willing to call settled.
 
-**Interaction method:** Solo baselines first, which on this holding means waiting: there is no interval between appearances and no precursor, so a baseline is assembled from whatever the watch happens to record. The relations on file concern loss, return, or things that outlast the people who knew them, so the question to settle is whether the light responds to the other presence at all, the form being unreliable and the heat being the only stable measurement available. Log the first cross-entity response, the distance that activates it, the duration, the gauge change on both sides, the operational impact, and whether separation ends it.
+**Interaction method:** Solo baselines first, which on this holding means waiting: there is no interval between appearances and no precursor, so the baseline is assembled out of whatever the watch happens to catch, and the file dates its entries by appearance rather than by cycle. Bring the second record no nearer than the cordon and log the pairing against the street rather than the object.
 
 
 ### Entity Interaction Record
 
-This relic must be assessed as one of a group of sorrows made from return rather than as an isolated object in the Old Lament. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, an event elsewhere, an Ordeal, or a transformation event.
+The relic is read as one of a group of sorrows made out of return rather than as an isolated object in the Old Lament. The rows below are canonical in the sense that they have been observed and filed; none is settled, and any of them may present as assistance, as obstruction, or as nothing at all on the day — which on this file is the ordinary case, because the object decides when it exists in the street at all.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Record read alongside | Where the resemblance comes from | What co-presence has actually shown | Entry the file requires |
 |---|---|---|---|
 | **The Forgotten Market Stall** | The Stall puts out objects from the history this relic lost. | Twice coincident, both times by accident rather than arrangement. On each occasion the Stall's goods matched forms in the retired catalogue, and on each occasion the archivists declined to treat the match as evidence of anything, the catalogue being marked across its face as not an identification aid. | Both coincidences with times, the goods listed, and the archivists' refusal with its reasons. |
 | **The Broken Mirror** | The Mirror shows people who once held it. | Never arranged and formally excluded from the watch's standing options. A reflected owner would be a face the witness would afterwards be certain of, and certainty is the condition this holding removes people from duty for. | The exclusion, its reasoning, and the review at which it was last restated. |
 | **The Orphaned Bell** | The Bell sounds when it comes back. | Eleven of the nineteen appearances were preceded by the Bell, by between two and forty minutes. It is the closest thing to a precursor on file and the wing has refused to call it one, eight appearances having come with no bell at all. | Bell times against first-sighting times for all nineteen, including the eight blanks. |
 
-**Interaction procedure:** Baseline both parties separately, bring the second no nearer than the cordon, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the street, and whatever persists after separation. The field this holding adds is the witness record: who was present, what each of them thought the object was, and whether any two agreed.
+**Interaction procedure:** Baseline both parties separately, keep the second record no nearer than the cordon, and enter the first shared change with distance, duration, trigger, both gauges, the effect in the street and anything persisting after separation. On this file a pairing is only meaningful with the appearance date attached: an entry without the date cannot be compared to anything later, because the object will not be in the same street twice.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -469,6 +469,8 @@ And the archivists' site-history findings — what stood where, before — are h
 The disclosure office's objection is standing, annual, and correct. A safety heading used for nineteen notices that are not about safety is a heading losing its meaning, and the day a real hazard notice goes to the Old Lament, the Old Lament will read it as the history talk. The minute records the objection as **correct, and no alternative heading exists**. The wing has added nothing to that in twenty-two years.
 
 ## Trivia
+
+- For anyone checking the register, this file's numbers are set down as digits: gauge 809/809, pressure 28–60 per hit, the channel note at 60 seconds and 5 Grudge every 15, vessel destruction about 1–10 tons, and +3 from the third piece.
 
 - The form follows the observer's own history, which is why two witnesses to the same appearance have almost never described the same object.
 - What comes back is the thing, never the people, and the district it comes back to has no record of either.

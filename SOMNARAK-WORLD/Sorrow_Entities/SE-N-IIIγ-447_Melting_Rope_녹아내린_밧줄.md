@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Lament pressure; 25% against other pressure types |
+| **Resistance** | 35% against Lament pressure; 25% against other pressure types. The second figure is the honest one: nothing here strikes a body, and the ward is a reading of how long a Warden can keep hold of a line that is going slack under their hands. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 745/745 |
 | **Han Pressure [ATK]** | 14–33 per hit · Lament |
@@ -81,21 +81,21 @@
 | { *The Soft Fiber* [**Debuff**] } | "The rope in your hands is going soft — the fibers losing their grip — and with them, everything the rope was holding." | [The Rope's dissolution weakens the target's connections; things are slipping.] | *Target suffers -10 Composure; their bonds are failing.* **[10 Lament DMG [Lament]]** | When the target holds the Rope. |
 | { *The Sagging Line* [**Debuff**] } | "The rope sags — melting, stretching — and the weight it bears transfers to you." | [The Rope's failing transfers the burden to the target.] | *Target loses 10 Composure; they are bearing what the rope cannot.* **[10 Lament DMG [Lament]]** | When the target relies on the Rope. |
 | { *The Snap* [**Attack**] } | "The rope gives way — and the release of tension is a whip-crack of pure grief." | [The Rope's structural failure lashes out.] | *Inflicts Lament pressure and one wound of severed connection.* **[14-22 Lament DMG [Lament]]** | When the Rope is overloaded. |
-| { *The Full Dissolve* [**Attack**] } | "The rope melts completely — becoming liquid — and the liquid is every bond it ever held, released at once." | [The Rope's total liquefaction releases all its stored connections.] | *A heavy Lament flood of dissolved bonds; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Rope is cut. |
-| { *Every Rope Melts* [**Ultimate**] } | "Every rope, every bond, every tie in the field dissolves — and without connections, everyone drifts." | [The Rope extends its melting across the whole area.] | *All in range suffer Lament pressure for three turns of dissolving bonds.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Dissolve* [**Attack**] } | "The rope gives up its last solid span all at once, and what runs over your hands is every bond the line was ever asked to carry." | [The full length liquefies where it is held.] | *A heavy Lament flood of released bonds; the target's Sorrow Gauge climbs 15%.* **[24-36 Lament DMG [Lament]]** | When the rope is cut. |
+| { *Every Rope Melts* [**Ultimate**] } | "Every line in the field goes slack at the same moment — not cut, melting — and without a line to follow, nobody is facing anybody's way." | [The melt takes the whole area at once.] | *All in range take Lament pressure for three turns of dissolving attachments.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Melting Rope by a rope in a dream that is dissolving at one end and making itself at the other, salt-damp, cold rain on the air, with a pull along it toward somebody the dreamer has stopped thinking about, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** The holding is identified from the dreamer's own account and from nothing else: a line dissolving at one end while the other end makes itself, salt-damp, cold rain on the air, and a steady pull along it toward a person the dreamer had stopped thinking about. The bearing is taken first, from the dreamer and before anybody else in the room speaks; the melting end is named; then the approach is set.
 2. **Clash:** Work is done from the sleeping side under instrument. No Warden handles the rope: handling is prohibited outright and the prohibition is the oldest standing order on the holding.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Release the rope consciously and wake with a present anchor**.
+3. **Resolution:** The session ends when the rope has been let go deliberately, the dreamer wakes to a named person in the room, and the bearing is entered before the account. Nothing is recovered from the melt and nothing is meant to be: the line holds the same length it has held for sixty years, and the watch writes the session up as one more account of a connection still being paid into on one side only.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Melting Rope reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- A worker who cannot keep hold of the difference between the dream and the return does not lose their grip on the rope; they lose the reason to keep holding it. Clarity drains by the interval, and the doctrine's whole answer is to wake the sleepers rather than to work the line harder.
+- The risk here is cumulative and quiet: every interval past the recommended cycle lengthens how long the line stays in the hand after waking, and the persistence figure has never once come back down on its own.
+- What the M.A.W. takes is documented piece by piece above and is paid at the same rate whether the session went well or badly; the Armoury enters the cost against the wielder, never against the tool.
+- If the condition is not met the holding does not pursue anybody: the zone corrupts outward from where it lies and reaches whoever is asleep inside it, which is why waking the sleepers comes before everything else in the doctrine.
 
 ## Appearance
 **Primary Form:** A rope seen only in sleep, running out of itself at one end and knitting itself at the other, so that it is never whole and never gone. **Texture:** salt-damp and cold, and the weight of it stays in the hand after waking.
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Melting Rope is recorded as a Subject with Subject-Dream manifestation and Lament elemental expression. The current record places it at The Desolate — mobile; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Read the table as a diagnostic rather than a prescription. Melting Rope is a Subject with a Subject-Dream manifestation and a Lament expression: a Subject travels, a Dream means the account is the instrument, and Lament means the work is measured in how long the line stays in the hand after waking. Both valid Work Types are worked from the sleeping side. Flerehan brings the reforming end toward the Warden, and for a few minutes the pull reverses. Ferrehan is keeping hold while the pull takes up slack without being walked, which most Wardens manage for a few minutes of dream-time before waking with their hands closed. Pugnahan is barred and has been since two Wardens had to be brought out of the dream by physical means; neither has worked the holding since. Viderehan runs for record and holds the gauge: the eastern track as it was, and a figure at the far end walking steadily in the other direction and not looking back. A stable gauge is not a safe session here; on this file the account is the instrument, and an account that stops being taken is the escalation.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede events. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** A falling gauge means the pressure was carried for the length of the session, not that the connection has been settled: the rope is the same length, the melt and the reforming run at their old rate, and the pull is still steady in the direction it was. A rising gauge means the line was fed — somebody took hold of it, or the work tried to settle a question the Pairings Register's rule will not settle. Log the bearing, the melting end and the persistence before the gauge, because the figure that matters on this holding is taken after waking, from the dreamer's own count against the attendant's clock.
 ## Containment Event Behavior
 
 > *"Corruption event in progress. Melting Rope is turning the zone it stands in; nothing has left it."*
@@ -183,15 +183,15 @@ The steel appears solid at rest but ripples visibly when swung, shedding droplet
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Melting Rope's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — in the shape of a slackening line: the strike does not cut so much as take up the tension until the target's own grip is what fails.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder carries the grief the line never got to spend — weeping arrives without a cause the wearer can name, the second worker logs the intervals, and prolonged use lengthens them.
 
 ### M.A.W. Suit — The Melting Shroud
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a shroud of Lament Han-silk, cool to the skin and faintly luminous along the seams, that pulls taut across the shoulders as its source holding comes nearer.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -201,15 +201,15 @@ The steel appears solid at rest but ripples visibly when swung, shedding droplet
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Melting Rope's kind of pressure.
+**Ability:** Wards the Mind against Lament pressure and against nothing else: the shroud is cut for the rope's kind of grief, and the file records no other use for it.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** the wearer goes numb to minor joys, and the numbness is logged by the second worker rather than the wearer, because a person losing the small pleasures is the last one to notice it.
 
 ### M.A.W. Stigma — The Melting Knot
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a knot-charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a knot-charm of Lament Han-crystal, cool and faintly luminous, that runs warm the moment it is taken up and cools again as soon as it is set down.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -223,18 +223,18 @@ The steel appears solid at rest but ripples visibly when swung, shedding droplet
 
 ### M.A.W. Use Notes
 
-These pieces are Melting Rope in miniature. What they give is listed above; what they take is the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping, and the Armoury records both against the wielder rather than against the piece.
+The three pieces together are the holding. Everything the set confers is written up above. What it exacts is the toll logged against the source — weeping with no cause the wearer is able to give, and a flatness towards small pleasures that the wearer never reports. The Armoury books the toll to the person rather than to the object; no wielder therefore ever receives a second piece while still holding a first. The rope was held correctly for nineteen years by somebody who was never told it had been let go.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Melting Rope's toll being that the wielder feels the entity's unwept grief. |
-| **During use** | Melting Rope charging, which presents as this: the wielder feels the entity's unwept grief. The wielder's own account is taken separately and afterwards. |
-| **At limit** | Melting Rope's cost is continuous rather than occasional: the wearer becomes numb to minor joys. The second worker's call stands against the wielder's. |
-| **After use** | Return, reconcile the baseline, and record whether Melting Rope's toll has reversed: the wearer becomes numb to minor joys. Where it has not, the piece is not reissued to that wielder. |
+| **Before use** | Wielder, piece, gauge, and one pre-check sealed by the second worker: the toll this file records for the source — weeping the wearer cannot account for — entered as the baseline to read against. |
+| **During use** | The charge shows as the toll arriving early: the wearer's eyes fill for no reason they can give, and the interval is logged by the second worker with the hour. The wielder's own account is taken separately and afterwards. |
+| **At limit** | The toll stops being intermittent: the wearer is numb to minor joys, and on this piece that flatness is the limit rather than a settling-in. The second worker's call stands against the wielder's. |
+| **After use** | Piece returned, baseline opened, and the numbness read against it: has the flatness lifted, or has the wearer stopped being able to say? Where it has not lifted, the piece is not reissued to that wearer. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade records how cleanly the archetype came off the holding; it says nothing about what the wearer pays for it. A γ piece performing to specification can still return a bearer who weeps without a cause and can no longer taste small pleasures, and the cost column, not the grade, is what the rotation is built around.
 
 ## 관찰 기록 (Observation Log)
 
@@ -263,7 +263,7 @@ These pieces are Melting Rope in miniature. What they give is listed above; what
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Melting Rope (N-IIIγ-447 [LS]) is logged as a Subject-Dream manifestation expressing Lament, mobile across the Desolate. It melts at one end and makes itself at the other, it has never been shorter, and it stays in the hand longer after waking at every annual return. It exists primarily in dreams.
+Containment description for N-IIIγ-447 [LS], the holding called Melting Rope: a Subject-Dream manifestation expressing Lament, mobile across the Desolate. It melts at one end and makes itself at the other, it has never been shorter, and it stays in the hand longer after waking at every annual return. It exists primarily in dreams.
 
 **Entry 2 — <Desolate Watch, Year 4238>**
 Persistence figure 19 minutes, after 14 and 9. Method unchanged: the Warden reports, on waking, how long the rope remains in the hand by their own count, against a clock held by the attendant. Bearings logged individually. No account aggregated with any other.
@@ -281,9 +281,9 @@ Two recollections of one separation sit in the commissioning file, taken eleven 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Melting Rope; the other feeds it.
+> What the observing worker is asked to do at the close of contact: release the line deliberately and wake to a named person in the room, or substitute their own judgement.
 
-| Do the thing on file: Release the rope consciously and wake with a present anchor. | Substitute your own judgement, which on Melting Rope has never yet cost less than the condition. |
+| Do the thing on file: release the rope consciously and wake with a present anchor — bearing taken first, account second, never compared with another Warden. | Substitute your own judgement, which on Melting Rope has never yet cost less than the condition. |
 |---|---|
 | The rope reforms and reaches toward the worker. The sorrow is witnessed; Melting Rope is fully recorded. | It melts rapidly and tangles the dream. The gauge climbs and Melting Rope withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -296,15 +296,15 @@ A rope crosses the dream between two travelers. One end melts in your hand, warm
 
 **At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Lament pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A dreamlike rope-shaped figure that melts at one end while reforming at the other. It appears in the dreams of travelers.
 
-**With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Lament has a history here, and prolonged exposure makes that history legible.
+**With continued exposure:** Stay long enough and the containment zone stops reading as a cell and starts reading as a room somebody lived in — or died in, or was born in. The Lament here has a history, and the exposure is what makes that history legible.
 
 **When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Lament pressure spikes — not gradually but like a door slamming open. The Subject-Dream shifts from presence to action.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Lament in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** The door seals and the pressure drops, but the residue does not leave with you: it sits in the suit fibres, in the memory, and in the place where a person's thoughts begin to come apart. The symptom the watch logs first is the hand still closed around a line that is not there.
 
 ### Interaction Pattern
 
-Melting Rope does not exist in isolation. Its recorded relationships with The Vanished Rope, The Dream Weaver, The Lost Prince should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Melting Rope is filed beside three holdings and shares no mechanism with any of them: a rope that lost both ends, a weaver who lays old tracks through other people's dreams, and a prince who pulls the other way. When one is brought near, the watch records what changes in the bearing, the melting end and the persistence figure — same attendant, same clock — and no sleeper is told what another reported.
 
 **Interaction method:** Persistence timed before and after by the same attendant, bearings taken separately from each sleeper, and no sleeper told what another reported.
 
@@ -313,7 +313,7 @@ Melting Rope does not exist in isolation. Its recorded relationships with The Va
 
 Melting Rope must be kept distinct from the other severed-bond holdings. The Vanished Rope keeps a connection that both sides lost; this one keeps a connection that one side is still paying into, which is why the figure the watch tracks is measured after waking rather than during the dream.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
 | **The Vanished Rope** | The two lines meet in the dream and do not join. The Vanished Rope has no far end at all; this one's far end is occupied and walking away. | Persistence falls to about six minutes while the pairing runs, the only reduction in the series. | Record the non-joining. It is the clearest evidence the file has that something is at the other end of this one. |
 | **The Dream Weaver** | The Weaver takes the old tracks and lays them through dreams that are not Warden dreams. Civilian accounts from the Desolate rise sharply for weeks afterward. | Uncontrolled spread; the persistence figure is unaffected in the Wardens and unmeasurable in everyone else. | Not to be repeated. The prohibition dates from the Year 4234 spread and is absolute. |
@@ -365,9 +365,9 @@ Some sorrows are about separation. Melting Rope is about the connection that out
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Two figures govern this record and only one of them moves. The line does not: it melts at one end and makes itself at the other, it has held the same length for sixty years, and the melt and the reforming run at the rate they always have. The persistence figure does: 9, then 14, then 19 minutes across the annual returns, timed by the attendant's clock against the Warden's own count, and read against one line in the Pairings Register's return — arrangements renewed five years running by one side and not once by the other. Read the bearing before the gauge and the account before the summary, because on this holding two accounts are never merged; the Warden Record says what happened the last time somebody tried.
 
-**Review requirement:** The review requirement: every corruption event, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every corruption event, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** At every session: the bearing taken from the dreamer before anybody else speaks, the melting end named, the persistence timed from the moment of waking, and one sheet per dreamer filed whole in their own words. Wake the rest of the party before touching anything, and never compare one account with another. A persistence beyond the series, or a dreamer who cannot let go on waking, is reviewed on its own, and the review closes nothing: the line is still the same length and the pull is still steady.
 ## Warden Record
 
 ### Melting and Reforming
@@ -413,11 +413,11 @@ One remembered the way and one remembered only the rope between them, and the co
 
 ### Registry Trivia
 
-- **Classification detail:** Melting Rope is a Subject with Fragment (III) coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is The Desolate — mobile.
+- **Classification detail:** Melting Rope is a Subject with Fragment (III) coherence and Major (γ) potency — a dream-account holding whose instrument is the dreamer's own count against an attendant's clock rather than any reading taken in the room.
+- **Field detail:** Its defining element is Lament, and its registered location is The Desolate — mobile, logged by bearing rather than position: 9, then 14, then 19 minutes of persistence across the annual returns, against a line that has held one length since the file opened.
 - **Recognition detail:** A rope in a dream that is dissolving at one end and making itself at the other, salt-damp, cold rain on the air, with a pull along it toward somebody the dreamer has stopped thinking about.
 - **Record detail:** The Registrum read Residue (I) and Minor (α) against a Fragment (III), Major (γ) header, and rated the holding Low against a γ entity that corrupts a zone. The header gave Movement as stationary while the Operational Notes record it moving between sessions. The event quotation claimed indiscriminate hunting on a Corrupt entry that reaches only sleepers. The Origin block carried a soldier's story belonging to another file entirely, against two named travellers in the commissioning material. The M.A.W. grade was blank against three γ pieces. All corrected.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Containment holds the return, not the dream. What is sealed is the zone and what is written is each sleeper's account; the rope alters the local Han field whether or not anybody is asleep in it, and the personnel around it log dreams, headaches and gauge drift without ever having touched it.
 ## Document Information
 
 **Document ID:** SE-N-IIIγ-447

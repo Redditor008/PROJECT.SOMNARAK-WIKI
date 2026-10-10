@@ -24,7 +24,7 @@ Thin crimson capillaries glow between the stone plates, pulsing in sync with the
 
 ## STIGMA STATISTICS
 
-**Slot:** Tail · **Chance:** 4% · **Bonus:** +2 source-work. **Effect:** marks one held anger needing a present accountability route. **Cost:** shortened temper.
+**Slot:** Hand / Knuckles · **Chance:** 4% · **Bonus:** +2 source-work. **Effect:** marks one held anger needing a present accountability route. **Cost:** shortened temper.
 
 ## HISTORY & FUNCTION
 

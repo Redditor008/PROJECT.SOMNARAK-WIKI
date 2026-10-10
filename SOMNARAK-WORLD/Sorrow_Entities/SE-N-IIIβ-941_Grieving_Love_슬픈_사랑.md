@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Composure |
 | **Starting Sorrow Gauge** | 50–70% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per successful work cycle, read against how long the crew actually stayed in the room |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Sorrow Gauge ≥ 70%, or when offered comfort and then refused |
 | **Tool / M.A.W. grade** | β |
@@ -42,7 +42,7 @@
 - Work steadies Composure in the room. The grief is unchanged, and no cycle has drawn her attention from it.
 - Her activation condition is a high gauge reading or the specific circumstance named in her file; both are checked before entry.
 - Personnel who attempt to comfort her are logged as a protocol breach regardless of outcome, because the response is reliably reciprocated.
-- Extraction is a separate risk event under its own authorization.
+- Extraction of a worker from her reach is a risk event in its own right and needs its own authorization, separate from the work order.
 
 ## Combat Record
 ### Core Stat Line
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 0.9 m/s |
-| **Resistance** | 40% against Lament pressure; 20% against other pressure types |
+| **Resistance** | 40% against Lament pressure and 20% against other types — a body that gives way rather than fights, which is why pressure alone moves her so little |
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
 | **Sorrow Gauge [HP]** | 540/540 |
 | **Han Pressure [ATK]** | 9–20 per hit · Lament |
@@ -81,15 +81,15 @@
 |---|---|---|---|---|
 | { *The Reaching Hand* [**Debuff**] } | "A small, trembling hand of slime lifts toward you — palm up, the way you'd ask someone to stay." | [She extends a translucent blue hand, seeking to be held; the grief in it is contagious.] | *The target is washed in a sorrow that is not theirs — the borrowed loneliness of someone left behind.* **[8 Lament DMG [Lament]]** | When the target enters her reach. |
 | { *The Murmur of His Name* [**Debuff**] } | "She whispers a name over and over, a name no one alive answers to anymore." | [Her lips shape a beloved's name; the sound carries the weight of all the times it went unheard.] | *Targets within earshot feel an aching love for someone they have not yet lost, and the dread of losing them.* **[10 Lament DMG [Lament]]** | When the Sorrow Gauge passes 60%. |
-| { *The Undertow* [**Attack**] } | "The slime at her base surges forward like a slow, sad tide — not to drown you, but to keep you close." | [Her lower mass extends in a pulling current, drawing the target toward her body.] | *The target is dragged inward; composure drains as the grief-slime laps at their skin.* **[14-22 Lament DMG [Lament]]** | When the target tries to leave. |
+| { *The Undertow* [**Attack**] } | "The slime at her base surges forward like a slow, sad tide — not to drown you, but to keep you close." | [The stand of slime at her base slides outward in a slow current, taking the nearest pair of boots with it before anybody thinks to step back.] | *The target is drawn inward; composure drains as the slime reaches their ankles and keeps hold of them.* **[14-22 Lament DMG [Lament]]** | When the target tries to leave. |
 | { *The Keeping* [**Attack (heavy)**] } | "She folds the target into herself completely — and for one held breath, they are warm, and held, and gone." | [She envelops the target in her mass, trying to hold them the way she could not hold him.] | *Full envelopment; the target's identity softens at the edges as the cure-that-failed tries to preserve them forever.* **[24-36 Lament DMG [Lament]]** | When comfort is offered, then refused. |
-| { *The Unfinished Cure* [**Ultimate**] } | "The concoction that made her erupts from her chest — a flood of luminous blue grief filling every corner of the room." | [The original failed cure pours out of her body, saturating the containment zone in concentrated, sorrow-laden Han.] | *All in range are steeped in grieving Han for three turns; they weep for people they still have.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
+| { *The Unfinished Cure* [**Ultimate**] } | "The concoction that made her erupts from her chest — a flood of luminous blue grief filling every corner of the room." | [The vat's contents come back up out of her, filling the containment room to the second step with the cure she died distilling.] | *All in range are steeped in grieving Han for three turns and weep for people they still have.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
 
 ### Battle Phases
 
 1. **Tension:** Personnel identify the Subject-Body manifestation, confirm the Lament signature, and prepare Flerehan. The single most important decision is made here: who will be the one to sit with her, and whether they can hold composure under borrowed grief.
 2. **Clash:** The team performs Work Types — primarily Flerehan — while Grieving Love reaches, murmurs, and envelops. Her gauge falls when comfort is genuinely given and held; it spikes when comfort is snatched away. Sorrow Gauge movement dictates escalation toward *The Keeping*.
-3. **Resolution:** The team achieves containment, retreat, or the documented suppression condition: **Do not flee her embrace — sit with her grief until she lets go of her own accord**. The encounter ends not by breaking her, but by being present long enough that she releases what she holds.
+3. **Resolution:** The cycle closes when the crew has stayed close, taken the weight she leans with, and waited her out rather than breaking away. The file's own condition governs it: **Do not flee her embrace — sit with her grief until she lets go of her own accord**. Nothing here ends by force; what ends it is presence, held past the point where every instinct says to step back.
 
 ### Consequences
 
@@ -155,22 +155,22 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Grieving Love is recorded as a Subject with Subject-Body manifestation and Lament elemental expression. The current record places her at SECTOR-D-03, Zone D; personnel should not transfer assumptions from another entity with a similar appearance. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to contagious grief, intrusive longing, and the urge to remain beside her.
+Read the gauge only against the rest of the sheet. She is a Subject with Subject-Body manifestation and Lament expression, filed at SECTOR-D-03 in Zone D, and no assumption from another holding that looks similar transfers to her. The caution particular to this file is that a flat reading proves nothing: a Viderehan watch can leave the gauge exactly where it started while the worker carries out contagious grief, an intrusive longing for someone absent, and a wish to stay in the room that has to be overruled by the second worker.
 
-**Reading the response:** Work success is measured by the entity's response, the worker's condition, and the information recovered. A decrease means the worker has given her real comfort — the rarest thing in her existence. An increase means the work read as rejection, which to her is the original wound reopened. Any embrace that is begun and then broken off must be logged at once; these are the single most dangerous moments in her containment.
+**Reading the response:** Three things decide whether the work succeeded — how she answered, what state the worker is in afterwards, and what was recovered that was not known before. A fall in the gauge means real comfort was given and accepted, the rarest thing she has ever had. A rise means the work read as refusal, which is the wound from the vat opened again. An embrace begun and then broken off is entered immediately and without exception: of everything in her containment, that is the moment that hurts most and the one the file flags first.
 
 ## Breach Behavior
 
-> *"Grieving Love has broken free. She is moving toward the residential blocks, arms open. Do not run."*
+> *"Grieving Love has broken free. She is looking for someone to hold, and she will find one. Do not let it be you."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | She drifts out of the Apothecary and toward any concentration of people, arms extended, seeking someone — anyone — to hold. |
-| **Effect** | Composure drains from all nearby; they feel an overpowering longing and an urge to embrace her. |
-| **Secondary Effect** | Those who hold her begin to dissolve at the points of contact; she cannot stop the cure from trying to "preserve" them. |
-| **First Target** | The person who shows her the most kindness — the one most likely to embrace her. |
-| **Escalation** | Each turn she is free and unheld, her grief-field widens 2 m and her Lament pressure grows +5/turn until suppressed. |
+| **Movement** | She leaves the Apothecary on foot and goes where the most people are, unhurried, arms held out for somebody to step inside them — and she is not particular about whom. |
+| **Effect** | Composure drains from everyone within her reach, and the drain arrives as an invitation: the urge to step in and hold her is the hazard itself, and from the inside it reads as kindness. |
+| **Secondary Effect** | Whoever she takes hold of comes apart at the touch, and she cannot stop the cure from trying to "preserve" them — the preservation is what takes the parts. |
+| **First Target** | Not the nearest and not the strongest: whoever has been kindest to her that day, which in practice is the worker most likely to open their arms. |
+| **Escalation** | Every turn she goes unheld, the grief-field widens 2 m and the Lament pressure climbs +5, toward *The Unfinished Cure*; nothing about the growth is fast, and that is the difficulty. |
 
 ### Escalation Notes
 
@@ -186,7 +186,7 @@ The gauge response is only meaningful in context. Grieving Love is recorded as a
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a coiled whip of Lament Han-crystal, cool and faintly luminous, that glows along its edge when readied.
+**Appearance:** a coiled whip of Lament Han-crystal, cool and faintly luminous, that glows along the lash-line when it is uncoiled.
 
 **Damage:** Lament 5-10
 **Speed:** 2 (Normal)
@@ -202,7 +202,7 @@ The gauge response is only meaningful in context. Grieving Love is recorded as a
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a thin membrane of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a thin membrane of Lament Han-silk, cool and faintly luminous, that clings closer the nearer the wearer comes to the Drowned Apothecary.
 
 **Resistances:**
 - Grudge: 1.2 (Weak)
@@ -220,30 +220,30 @@ The gauge response is only meaningful in context. Grieving Love is recorded as a
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a pendant of Lament Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance:** a pendant of Lament Han-crystal, cool and faintly luminous, that holds a faint blue cast at its centre even in a dark room.
 
 **Slot:** Neck
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 stat bonus while working the source holding, entered at issue; withdrawn the moment the wearer stops going back to the Apothecary
 
 **Ability:** A single suspended tear of grief-slime that grows warm in the presence of unspoken sorrow, warning the bearer when someone near them is grieving in silence.
 
 **Cost:** The bearer weeps without cause at odd hours and cannot always say for whom.
 
-*Stigmas are granted at random by Grieving Love upon a successful work, not manufactured.*
+*Stigmas from this holding are granted, not made: they come at random out of a successful work and cannot be ordered or held back by the crew.*
 
 ### M.A.W. Use Notes
 
-Each piece extends Grieving Love rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder is visited, unbidden, by the faces of everyone they failed to comfort — arrives early and does not reverse on return.
+Nothing in this kit arms anybody against her; every piece carries the pattern further, which is what the benefit is. Inside the recorded pattern it pays, and outside it the price comes due early: the bearer sees the faces of everyone they failed to comfort, unasked, and coming back across the ward does not put the faces away.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Grieving Love's known toll: the wielder is visited, unbidden, by the faces of everyone they failed to comfort. Opened at the end of the rotation, not before. |
-| **During use** | Every occurrence of what Grieving Love takes (the wielder is visited, unbidden, by the faces of everyone they failed to comfort), timed. One is noted; a pattern across a shift ends the use. |
-| **At limit** | Grieving Love's cost is continuous rather than occasional: the wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up. The second worker's call stands against the wielder's. |
-| **After use** | Piece returned; re-assess a week later, because what Grieving Love takes (the wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up) does not present on the day. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline written against the toll the file records for these pieces — the bearer being shown the faces of everyone they failed to comfort. The envelope is opened at the end of the rotation and never before it. |
+| **During use** | Every occurrence of the toll is entered with its hour: the faces of people the bearer could not comfort arriving unasked. One is written down as a note; a pattern running across a full shift ends the use. |
+| **At limit** | The cost here does not arrive in episodes; it seeps. The bearer stops being able to end a conversation, stops leaving a room first, keeps the line open past what the call needed. The second worker calls the limit and the call holds against the bearer's. |
+| **After use** | Take the piece back and look at the bearer a week later, because the cling this kit leaves does not show on the day: it shows as a man who cannot finish a sentence, or a woman who will not put the receiver down. |
 
 **Stat interpretation:** Ratings describe field performance, not safety. The Comforting Coil performs reliably yet can leave the wielder hollowed by old, unsourced grief for days.
 
@@ -266,7 +266,7 @@ Each piece extends Grieving Love rather than equipping its wielder against it. T
 | **Initial exposure** | The observer identifies Grieving Love as a Subject with Subject-Body manifestation. The first reliable markers are her Lament signature, the 1.3 m blue slime form, the continuous weeping, and her presence at the Drowned Apothecary. |
 | **Sustained observation** | Continued observation confirms the Flerehan response: she calms in the presence of patient comfort and agitates under confrontation or abrupt departure. Personnel must distinguish her emotional effect from physical danger — she is gentle and lethal at once. |
 | **Activation or escalation** | The team records the first visible escalation — open, searching eyes, the extended hand curling into a pull — before applying the response procedure. At this stage, record distance, duration, Sorrow Gauge movement, and whether a subject of her attention has begun to soften at the edges. |
-| **Post-contact review** | The observer must record what changed, what remained stable, and which detail was most difficult to describe. In Grieving Love's case, the report is incomplete if it records only the hazard and omits that she is, recognisably, still a woman trying to finish one last act of love. |
+| **Post-contact review** | Enter what changed, what held steady, and which detail the observer found hardest to put into words. Here the sheet is incomplete if it carries only the hazard: she is still, plainly, a woman trying to finish one last act of love, and the record has to say so. |
 
 **Observation method:** Record the first visible sign (the open palm), the first emotional sensation (involuntary longing), the first measurable environmental change (the room cooling and dimming), and the condition that ends the encounter (presence held until she releases).
 
@@ -275,7 +275,7 @@ Each piece extends Grieving Love rather than equipping its wielder against it. T
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Grieving Love (N-IIIβ-941 [LS]) is logged as a Subject-Body manifestation expressing Lament. The entity formed when an apothecary, Sooah, fell into a vat of concentrated Han she was distilling as a cure for her dying beloved. Held at the Drowned Apothecary, SECTOR-D-03, Zone D. She drifts, weeps without wetting the floor, and reaches for any offered warmth.
+Grieving Love (N-IIIβ-941 [LS]) is a Subject-Body manifestation expressing Lament, and the file's own account of how she came to be is kept in full: an apothecary named Sooah went into a vat of concentrated Han she was distilling as a cure for her dying beloved, and what rose out of it holds the Apothecary at SECTOR-D-03 in Zone D. She drifts through the room, weeps without wetting the floor, and reaches for any warmth that is offered.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Subject responsive to Flerehan. On entry, Handler Soojin reports the room dropped several degrees and the lamps dimmed. The entity did not approach until Soojin knelt and stayed still; she then pressed her forehead to Soojin's chest and was silent for eleven minutes. The Handler's composure readings dipped but stabilised. No envelopment occurred. Note: the danger is not that she attacks. The danger is that it feels like kindness.
@@ -291,11 +291,11 @@ We found it in the floor of the apothecary, beneath where the vat stood. A small
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Grieving Love; the other feeds it.
+> Two ways to end a watch in the Apothecary, and the pair below is the sharpest fork in her file: one is what she has never been given, and the other is the leaving that made her.
 
-| Stay — let her lean on you, and do not pull away. | Step back — keep your distance and end the work. |
+| Stay — take her weight, let her lean, and do not pull away while she is holding on. | Step back — keep the distance you came in with, and end the work where you stand. |
 |---|---|
-| You hold still through the cold and the longing. She weeps against you, and for the first time since the fall, someone does not leave. The bright pulse in her chest slows to rest. The name she murmurs becomes audible — *Haneul* — and you understand the whole of her. Grieving Love is fully recorded. | You withdraw. Her open hand closes slowly into the pull of *The Keeping*. The Gauge surges; the room floods with the unfinished cure. She has been left again, and the leaving is the wound that made her. Grieving Love withdraws into herself, unrevealed. |
+| You hold still through the cold and the reach of it, and she weeps against a person who does not go. The blue pulse behind her ribs slows to rest, and the name she has been murmuring since the vat becomes audible — *Haneul* — and the whole of her opens on the page. The observer writes her up complete. | You take your distance. Her open hand closes over nothing and the pull of *The Keeping* takes the room; the gauge climbs and the failed cure comes up over the floorboards. She has been left again, and being left is the wound she rose from. She draws back into herself and the watch closes with nothing on the sheet. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -312,19 +312,19 @@ We found it in the floor of the apothecary, beneath where the vat stood. A small
 
 ### Interaction Pattern
 
-Grieving Love does not exist in isolation. Her recorded relationships with The Preserved Heart, The Ember Child, and The Lonely Giant should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability — she quiets near other grief-entities and brightens near warmth.
+Three holdings are kept within reach of the Apothecary — The Preserved Heart, The Ember Child and The Lonely Giant — and not one of the three is an ally or an enemy. What the file has seen of her is simpler than a bond: she quiets in the company of other grief-bearers and brightens near warmth, so for each pairing enter whether the answer changed in sound, movement, temperature, memory pressure, gauge or containment stability, with the distance, duration and trigger noted.
 
 **Interaction method:** Observe her alone first, establishing her baseline grief-field. Then introduce or observe the second entity and record the first shared response, the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects her reaching. Do not assume a calming interaction is safe to repeat; grief shared between entities can compound into a cascade.
 
 ### Entity Interaction Record
 
-Grieving Love must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+She has to be read as one point in a network rather than as a file on a shelf. Each interaction below is a fixed relationship point, and none of them is filed as friendly or hostile by nature: the same pairing has run differently under a different Sorrow Tide, and none of it survives a breach or an Ordeal unchanged.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Other holding in range | How the two answered each other | What was seen to move | Text required in the entry |
 |---|---|---|---|
-| **The Preserved Heart** | Two loves preserved beyond death — one in glass, one in slime. | A quiet, mutual stillness; both gauges dip. The most peaceful pairing on record. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Ember Child** | Shared shape — grief given a small, gentle body. | The Ember Child's warmth draws her close; she brightens and her weeping slows. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Lonely Giant** | Two reaches — one up for company, one out for comfort. | Resonant amplification of longing; both gauges rise if left together too long. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Preserved Heart** | Two kept loves set side by side — one sealed in glass, one risen from a vat. | Both settle; the two read the same stillness back at each other. The calmest pairing in her file, and the shortest on record. | Distance, duration, trigger, gauge on both sides, and whether the Apothecary's seal held after the room emptied. |
+| **The Ember Child** | Grief given a small body, and a large one leaning down toward it. | The warmth pulls her in close; her colour brightens and the weeping slows to almost nothing. | How near she came, how long the two stayed, the trigger, both gauges, and the state of the child's light afterwards. |
+| **The Lonely Giant** | Two outstretched reaches — one reaching up for company, one out for comfort. | Longing answers longing; both gauges climb the longer the two are kept in sight of one another. | The separation the watch kept, the hour the climb started, the trigger, both gauges, and what each did once out of view. |
 
 **Interaction procedure:** Observe the two entities separately first. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
@@ -377,9 +377,9 @@ She did not reach it. She reached, instead, for the next warm thing, and the nex
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is valid only with the full classification above. Grieving Love's behavior, Work Type response, activation and breach condition, M.A.W. risk, and interaction pattern must be read together — she is gentle and lethal in the same gesture. If a future observation contradicts this record, personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Nothing in this sheet stands on its own: the classification at the top, the Work Type response, the activation and breach terms, the kit risk and the interaction table only hold read together, because her gentleness and her lethality are the same movement. Where a later watch contradicts what is written here, the contradiction is to be preserved as evidence and filed beside it rather than smoothed away.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every breach, expansion, transformation attempt or unusual interaction, the watch re-checks the containment status, the trend on the gauge, who was exposed and for how long, and where she is standing. What this file holds is a living pattern of sorrow; it is not an account that closes.
 
 ## Warden Record
 

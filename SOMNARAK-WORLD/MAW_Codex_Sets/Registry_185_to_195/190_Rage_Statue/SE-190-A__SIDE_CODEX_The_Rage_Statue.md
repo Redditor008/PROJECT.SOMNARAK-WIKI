@@ -62,9 +62,13 @@ The Statue trembles only when watched for too long. Its fist lowers slightly whe
 
 ## PAGE 04–06 — COMPACT M.A.W. CARDS
 
-- **Rage Fang:** Grudge 7–12; Speed 3; Range 3; Skewer 100% → 70% → 50%; 3 maximum; 40 Echoes. The strike carries acknowledged anger without making retaliation inevitable.
+- **The Vein-Heated Marble Brand:** Grudge 7–12; Speed 3; Range 3; Skewer 100% → 70% → 50%; 3 maximum; 40 Echoes. The strike carries acknowledged anger without making retaliation inevitable.
 - **Rage Gauntlet:** Lament 1.0 / Grudge 0.4 / Void 1.8 / Weight 1.2; 3 maximum; 35 Echoes. Strikes carry resentment; wearer struggles to distinguish justice from retaliation.
 - **Rage Charm:** Tail Stigma; 4%; +2 source-work. Marks one held anger requiring an accountable outlet; cost is shortened temper.
+
+**Legacy card alias:** *Rage Fang* remains the linked item’s filename/record alias; the canonical name is *The Vein-Heated Marble Brand*.
+
+**Weapon profile hold:** The Side/item figures above match each other, but the primary Brand block gives 12–19, Slow 2, Short 2, Overhand Crush / Thermal Eruption, and ground-starburst coverage. Maximum and Echo cost agree; the attack statistics do not. The linked item’s former culverin description was copied verbatim from Ember Phoenix and has been replaced with the Brand form, but that does not resolve the numeric conflict.
 
 ---
 

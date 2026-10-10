@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per successful work cycle, taken off the naming and never off the statue |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | γ (Major) · γ (Major) — the Brand, the Apron and Cuirass, and the Knuckle Stigma are all graded to the holding. |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Grudge pressure; 25% against other pressure types |
+| **Resistance** | 35% against Grudge pressure and 25% against everything else — resistance that matters less than the radius, which is measured in metres and enforced by procedure |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 653/653 |
 | **Han Pressure [ATK]** | 18–41 per hit · Grudge |
@@ -81,14 +81,14 @@
 | { *The Stony Scowl* [**Debuff**] } | "Its face is fixed in fury — and looking at it long enough makes your own anger rise." | [The Statue radiates petrified wrath; the target's temper kindles in answer.] | *Target suffers -10 Resilience as reflected anger stirs.* **[10 Grudge DMG [Grudge]]** | When the target regards the Statue. |
 | { *The Cracking Calm* [**Debuff**] } | "Hairline cracks spread across the stone — the fury beneath is straining to get out." | [The Statue trembles; suppressed rage leaks through the fractures.] | *Target loses 10 Resilience; the tension is unbearable.* **[10 Grudge DMG [Grudge]]** | When the target lingers near. |
 | { *The Stone Fist* [**Attack**] } | "A fist of frozen anger comes down — slow, inevitable, furious." | [A massive blow from a hand locked in rage for centuries.] | *Inflicts Grudge pressure and one shattering wound.* **[14-22 Grudge DMG [Grudge]]** | When the Statue is provoked. |
-| { *The Bursting Forth* [**Attack**] } | "The stone can no longer hold it — the statue erupts into living fury." | [The Statue breaks its stone shell and unleashes the wrath within.] | *A heavy Crimson eruption; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Statue is damaged or denied. |
-| { *The Rage Statue to Wrath* [**Ultimate**] } | "It plants itself as a monument — and the wrath becomes permanent, radiating forever." | [The Statue settles into eternal anger, flooding the area with rage.] | *All in range suffer Grudge pressure for three turns under the monument.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Bursting Forth* [**Attack**] } | "The stone can no longer hold it — the statue erupts into living fury." | [The stone gives way, and the blow it has been holding since the beginning comes out all at once.] | *A heavy Crimson eruption; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Statue is damaged or denied. |
+| { *The Rage Statue to Wrath* [**Ultimate**] } | "It plants itself as a monument — and the wrath becomes permanent, radiating forever." | [The stance sets hard, and the chamber begins filling with an anger that never acts.] | *All in range suffer Grudge pressure for three turns under the monument.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies The Rage Statue by the fissures and the warmth; posture is not diagnostic here and the reference plates exist because of that, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** Identification runs on the fissures and the warmth, never on posture — the reference plates exist precisely because posture is not diagnostic here. The designation is confirmed against the classification table, the approach is set, and the positions are taken before anything else is attempted.
 2. **Clash:** Six turns, worked from outside the five-metre line. The wrong is named aloud at the opening of every turn whether or not the gauge has moved, which is procedure and not ritual.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not attempt to force the fist down; name the wrong**.
+3. **Resolution:** The watch ends in containment, in management, or in retreat, or on the list's own suppression condition: **Do not attempt to force the fist down; name the wrong**. The clause governs the watch: the wrong is named exactly as the list gives it, the fist is left where it has always been, and nothing on this ground is forced.
 
 ### Consequences
 
@@ -231,7 +231,7 @@ Thin crimson capillaries glow between the stone plates, pulsing in sync with the
 
 **Cost:** The bearer's fingers become stiff and cold during periods of calm.
 
-*The Chiseled Knuckle is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who named the wrong over the channel while standing inside the corrupted radius and got it right first time.*
+*The Chiseled Knuckle is not manufactured and is not issued on request. It has gone out twice, in both cases to a Warden who named the wrong over the channel while standing inside the corrupted radius and got it right first time.*
 
 ### M.A.W. Use Notes
 
@@ -263,18 +263,18 @@ Each piece extends The Rage Statue rather than equipping its wielder against it.
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Rage Statue as a Subject with Subject-Grudge manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-B-01, Zone B. |
-| **Sustained observation** | Posture against the four reference plates, the fist-tip coordinate, fissure warmth, floor-plate reading, and the gauge. Note whether a change was witnessed or found; the distinction is the point of the record. |
+| **Initial exposure** | The observer places the holding from the fissures and the warmth — posture is not an identifier here, and the 4 reference plates exist because of that. Confirmed against the classification table before entry; SECTOR-B-01, Zone B. |
+| **Sustained observation** | Posture against the 4 reference plates, the fist-tip coordinate, the warmth at the fissures, the floor-plate reading and the gauge. Note whether a change was witnessed or found — the distinction is the point of the record. |
 | **Activation or escalation** | Escalation is the gauge and the plate. At 55% or on any floor-plate deflection beyond the set figure the chamber is cleared and the naming procedure is readied; the threshold is numeric and the watch lead applies it. |
-| **Post-contact review** | Posture before and after, gauge, what wrong was named and whether it contracted the radius, and a reading of the Warden's own logbook for grievance language at seven and twenty-eight days. |
+| **Post-contact review** | Posture before and after, the gauge, which wrong was named and whether it contracted the radius, and a reading of the Warden's own logbook for grievance language at 7 days and again at 28. |
 
-**Observation method:** Observe from outside the five-metre line, in pairs, with the naming list to hand. Record posture, fist-tip, warmth, plate and gauge, and the condition that ended the watch. The form here is the sorrow and not a strategy: the blow is raised and will not land, because the people it belonged to were forbidden to throw it and did the permitted thing instead.
+**Observation method:** Observe from outside the 5-metre line, in pairs, with the naming list to hand. Record posture, fist-tip, warmth, plate and gauge, and the condition that ended the watch. The form here is the sorrow and not a strategy: the blow is raised and will not land, because the people it belonged to were forbidden to throw it and did the permitted thing instead.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Rage Statue (C-IIIγ-190 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge. The Statue formed from rage that was never allowed to act. Held at SECTOR-B-01, Zone B. It has never moved physically.
+The Rage Statue's entry (C-IIIγ-190 [GS]) is filed as Subject-Grudge manifestation, Grudge expressed. The Statue formed from rage that was never allowed to act. Held at SECTOR-B-01, Zone B. It has never moved physically.
 
 **Entry 2 — <The Rage Spreads, the Statue Does Not>**
 The Statue remains fixed while its rage spreads through nearby personnel. Personnel feel anger belonging to someone unable to fight back. Its rage affects personnel who stand before it.
@@ -290,11 +290,11 @@ The statue has never completed the blow. The fissures in its stone widen by a me
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Rage Statue; the other feeds it.
+> The statue watch offers two endings, and the record draws the line between them by what the observer does when the fist does not come down: one leaves it where it is and names the wrong exactly, and the other reaches for the arm — reasonably, urgently, and to the holding's advantage.
 
-| Do not attempt to force the fist down; name the wrong — as written, without improvising. | Depart from the condition for good reasons, as The Rage Statue's record shows people do. |
+| Leave the fist where it has always been and name the wrong exactly as the list gives it. | Depart from the condition for good reasons — take the arm, force the fist open, correct the record first — as this file shows people doing. |
 |---|---|
-| The face softens and the raised fist lowers slightly. The sorrow is named; The Rage Statue is fully recorded. | Heat gathers in the fist and rage intensifies. The gauge climbs and The Rage Statue withdraws without revelation. |
+| The wrong is named exactly and the radius contracts; the entry closes with the holding recorded whole. | The arm is taken or the condition departed from; the gauge rises, and the log closes with the statue no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -313,16 +313,16 @@ The fist is raised and will never fall. The Statue's fury fills the space where 
 
 ### Interaction Pattern
 
-This holding is read against the other things in the wing made from anger that was never permitted to act. Each relation below has been observed and filed; none is settled; and all three were run from outside the five-metre line with the naming list present.
+The Statue is filed alongside the wing's other things made out of anger nobody was permitted to act on. Each relation below has been observed and filed; none of them is closed; and all three were run from outside the 5-metre line with the naming list present.
 
-**Interaction method:** Baseline each party alone across several watches before any paired approach, with posture, plate and gauge logged throughout. Record the onset of any shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
+**Interaction method:** Take each party alone across several watches before any paired approach, with posture, plate and gauge logged throughout. The onset of a shared change is entered with its range, duration and trigger, both gauges, and whatever remains once the parties are apart. Re-verify every cycle, since two angers in one room have never once behaved like cooperation.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled, and the wing's standing caution applies to all three: two angers in one room are easy to describe as cooperation and have never once behaved like it.
+The three relations below stand as contacts, not alliances; none of them is closed, and the file will not upgrade any of them. The wing's standing caution applies to all three: two angers in one room are easy to describe as cooperation and have never once behaved like it.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| The statue's neighbour | How the pairing has run | What the plates recorded | What the entry carries |
 |---|---|---|---|
 | **The Angry Maiden** | Both are anger at injustice, and the pairing is the one the wing is asked about and the one it refuses most often. | Two co-presences, both aborted early. The Maiden's gauge rose seven and eleven points; this holding's did not move either time. The anger went one way and the Maiden's file records the same. A third test has been refused twice on the Maiden's side of the wing. | Both co-presences, the abort times, and the refusal with its reasons. |
 | **The Iron Judge** | Holds the record of the wrong, which would make it the one holding able to supply a name for the naming list. | Four co-presences. The Judge produced findings on all four and none of them matched a surviving complaint; two named parties who cannot be shown to have existed. Nothing from the Judge has ever been added to the naming list and the standing instruction is that nothing will be. | All four co-presences, the findings in full, and the instruction excluding them. |
@@ -395,7 +395,7 @@ Anger spreads from it and is felt by anyone in the chamber, and the standing ord
 
 ### Prevented From Resisting
 
-Those wronged without the power to answer are documented from the complaint records of the period, which are substantial and which were filed, received, and left unactioned in their thousands. The file holds a representative run. The archivist's note observes that the complaints are reasonable, specific, and almost all correct, and that the statue is what happened to them.
+Those wronged without the power to answer are documented from the complaint records of the period, which are substantial and which were filed, received, and left unactioned in their thousands. The file holds a representative run. The archivist's note puts it plainly: the complaints are reasonable, specific, and almost all correct, and the statue is what happened to them.
 
 ### Decisions Outside
 
@@ -441,7 +441,7 @@ During the third event a Warden inside the chamber judged that her partner had b
 
 She had no decision. The instrument deemed it not taken. What remained was a Warden who had left a naming procedure incomplete and removed a colleague from a post, with no authority on record for either, because the authority she had exercised was defined out of existence by the document that was supposed to protect her. A disciplinary file was opened. It ran four months, was closed with no finding, and **is not expunged**, because the scheme has no provision for expunging a file opened over a decision that was never taken.
 
-The objection is minuted at every annual review and is raised by the watch supervisor who signed the incident review. It holds that the deeming provision was written to void agreements and was applied to an emergency act, which nobody drafting it had considered and which the drafting notes do not mention; that the wing has known since the seventh year that the rule leaves a Warden acting correctly in an emergency with no authority to point to, and has made no amendment in two years of review cycles; and that the practical consequence is already visible in the training, where new Wardens are now taught to call the corridor before acting, which adds a delay the third event shows cannot always be afforded. The minute records the objection as **correct in all three parts**. It records that an amendment carving out emergency acts was drafted, circulated, and not laid, for reasons the minute does not give. And it records the supervisor's closing line, minuted at her request: *she did the right thing and the file says she did nothing at all. Both of those are now permanent.*
+The watch supervisor who signed the incident review has put it in the minute at every annual review since. It holds that the deeming provision was written to void agreements and was applied to an emergency act, which nobody drafting it had considered and which the drafting notes do not mention; that the wing has known since the seventh year that the rule leaves a Warden acting correctly in an emergency with no authority to point to, and has made no amendment in two years of review cycles; and that the practical consequence is already visible in the training, where new Wardens are now taught to call the corridor before acting, which adds a delay the third event shows cannot always be afforded. The minute, entered without dissent, holds every part of the objection good. It sets down that an amendment carving out emergency acts was drafted, circulated, and not laid, for reasons the minute does not give. The supervisor's closing line follows, minuted at her request: *she did the right thing and the file says she did nothing at all. Both of those are now permanent.*
 
 ## Trivia
 
@@ -452,7 +452,7 @@ The objection is minuted at every annual review and is raised by the watch super
 
 ### Registry Trivia
 
-- **Classification detail:** The Rage Statue is a Subject with Fragment (III) — Furious and frozen coherence and Major (γ) potency.
+- **Classification detail:** The Rage Statue is a Subject whose coherence is Fragment (III) — Furious and frozen — at Major (γ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-B-01, Zone B.
 - **Recognition detail:** Identify it by the fissures and the warmth; posture is not diagnostic here and the reference plates exist because of that.
 - **Record detail:** Read this file beside the complaint run, which is the only part of the holding written by the people it is made of.

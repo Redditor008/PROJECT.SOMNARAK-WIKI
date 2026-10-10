@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Lament pressure; 35% against other pressure types |
+| **Resistance** | 45 per cent against Lament pressure and 35 against everything else, which on a shape that cannot strike back reads as the file's usual habit of filling a slot: there is nothing here to resist except the standing still. The gauge opens at 910 and trips at 90 per cent, and the area only ever shrinks by accident. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 29–64 per hit · Lament |
@@ -81,21 +81,21 @@
 | { *The Thinning* [**Debuff**] } | "Your shadow is fading — going transparent — and with it, something essential about you is leaving." | [The Shadow's dissolution removes a part of the target; they feel incomplete.] | *Target suffers -10 Composure; without their shadow, they are less than whole.* **[10 Lament DMG [Lament]]** | When the target notices the fading. |
 | { *The Transparent Self* [**Debuff**] } | "You can see through your own hand now — and the world behind it is clearer than the hand itself." | [The Shadow's fading spreads to the target; they are becoming see-through.] | *Target loses 10 Composure; they are disappearing.* **[10 Lament DMG [Lament]]** | When the fading continues. |
 | { *The Last Edge* [**Attack**] } | "The fading shadow sharpens its final edge — one last, desperate cut before it goes." | [The nearly-gone Shadow strikes with everything it has left.] | *Inflicts Lament pressure and one wound of final darkness.* **[14-22 Lament DMG [Lament]]** | When the Shadow is challenged. |
-| { *The Full Dissolve* [**Attack**] } | "The shadow gives up — and its dissolution releases every secret it ever held." | [The Shadow's complete vanishing releases stored darkness.] | *A heavy Deep Blue extinction; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Shadow is forced to vanish. |
-| { *The Shadowless World* [**Ultimate**] } | "Now no one has a shadow — and without shadows, no one has depth, or weight, or substance." | [The Shadow extends its fading across the whole field.] | *All in range suffer Lament pressure for three turns of being shadowless.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Dissolve* [**Attack**] } | "The shadow gives up — and its dissolution releases every secret it ever held." | [The shadow lets go of everything it was holding, and every secret it kept goes out into the room unresolved.] | *A heavy Deep Blue extinction; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Shadow is forced to vanish. |
+| { *The Shadowless World* [**Ultimate**] } | "Now no one has a shadow — and without shadows, no one has depth, or weight, or substance." | [The edge the crew chalked stops being the edge: the room goes on dimming past it, and the chalk is the only thing left standing between the light and the dark.] | *All in range suffer Lament pressure for three turns of being shadowless.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The marker is checked (dimming without a source, a floor ringed in old chalk, fixed lighting that does nothing, and detail going soft at the edges of what you are looking at) and Swallow is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** There is nothing to strike and nothing that strikes. The team marks the edge, works the shift inside the fixed light, and comes out tethered to its own equipment; the encounter is scored on the chalk band and on who the worker turns out to be grieving.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name the source of the grief and return emotional ownership**.
+3. **Resolution:** The cycle closes when the grief has been named at its source and the ownership of it handed back to the person it belongs to, which the shift log records as one attributed line and nothing further. The perimeter is chalked by hand at every shift and the old marks are never rubbed out, because no instrument has ever closed this boundary and the file stopped pretending otherwise.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
-- Swallow’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Swallow's dossier.
+- A worker who cannot hold against the Shadow’s sorrow becomes a conduit for it: the pressure goes through their **Clarity** without stopping anywhere, and what it loosens comes back up the Sorrow Gauge as cognitive instability.
+- Duration is the whole of Swallow’s threat. What a brief cycle can be walked off becomes, across a long exposure, a dissolution of the emotional, the physical, the identity and the ground itself — and the edge of the shadow ends up further across the floor than it began.
+- Every M.A.W. activation takes its personal cut from the wielder: composure, private memory and bodily reserve, withdrawn in amounts no grade ledger keeps columns for.
+- Unresolved, none of this thins out. The sorrow turns back into its own zone and sets off the escalation entries Swallow’s dossier already carries.
 
 ## Appearance
 **Physical Form:** A spreading dark across floor and wall with nothing casting it, swallowing detail as it goes. **Optics:** it dims light rather than blocking it, and added output changes nothing but the cost.
@@ -144,9 +144,9 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Swallow is recorded as an Object/Place with Place-Grudge manifestation and Lament elemental expression. The current record places it at Zone A, Alpha Tree; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Read the table above against what Swallow actually is: an Object/Place with Place-Grudge manifestation and Lament expression, held beneath the Alpha Tree, worked only through Viderehan and Ferrehan. What the gauge does and what the file can promise are two different things here, and the wing's caution is written for exactly this holding — a watch can close with the readings untouched and the worker still carrying somebody else's loss out of the light.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** Three things are read together — what the holding did, what happened to the worker, and what the shift actually learned. A fall means the sorrow is being taken up rather than spent, and the source stays where it was, so the calm is custody and not healing. A rise means the work has taken hold of the wound instead of sitting beside it. Anything the file does not describe outranks the file: write it down, log it, and do not begin the next cycle until it is in the record.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -160,9 +160,9 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Escalation Notes
 
-The escalation pattern is specific to Swallow: it is not a generic containment event. Personnel must record the first trigger, the first visible change in the Place-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at Zone A, Alpha Tree, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation reads differently from a stock containment event, and the watch logs it that way. Four readings, in this order: what set it off, the first change visible in the Place-Grudge form, the distance at which the effect takes hold, and the point where the spread ends of its own accord. Lament at Zone A, Alpha Tree does not behave the way a spirit reading would have it behave — the emotional and the behavioural readings are taken alongside the physical ones on the same sheet, and no single one of the three is permitted to stand for the pair.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a manifestation or an expansion, remove nonessential personnel, and apply this condition: Name the source of the grief and return emotional ownership. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** the perimeter goes up first, the event is read as a manifestation or as an expansion second, everyone not on the watch is moved out third, and then the file’s own condition is applied — name the source of the grief and hand the ownership of it back. Improvised countermeasures are refused here the way they are refused everywhere else in the wing: no unlisted Work Type is used as one.
 
 
 ### Detailed Activation Record
@@ -185,7 +185,7 @@ The escalation pattern is specific to Swallow: it is not a generic containment e
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that flickers with inner light.
+**Appearance:** a blade of Lament Han-crystal, slender and bright, that never quite holds the light it throws and has to be marked with a strip of chalk tape before dark.
 
 **Damage:** Lament 10–15
 **Speed:** 3 (Fast)
@@ -198,15 +198,15 @@ The escalation pattern is specific to Swallow: it is not a generic containment e
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Nothing here does damage in the ordinary sense. No injury has been recorded in the holding's life and the stat line exists so that a team which blunders in has numbers to report; what the area actually takes is attribution, and that is scored on the counsellors' sheet rather than this one.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Swallow's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and carries the source's signature: the struck cannot say whose grief they are feeling, only that it is not theirs and that it has weight.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The bearer takes on grief that has never been cried out, and weeps on a long issue without being able to say over what; the charge reverses on return, which the file counts as the one mercy in the set.
 
 ### M.A.W. Suit — The Fading Veil
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a flowing veil of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a veil of Lament Han-silk, cool and faintly luminous, that hangs to the floor and gathers its own weight as the wearer walks further into the light.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -216,7 +216,7 @@ The escalation pattern is specific to Swallow: it is not a generic containment e
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Absorbs one emotional surge.
+**Ability:** Takes one emotional surge out of the air and holds it, which is the only piece the night shift asks for by name after a bad hour on the chalk.
 
 **Cost:** The wearer feels every sorrow the Veil has absorbed.
 
@@ -224,13 +224,13 @@ The escalation pattern is specific to Swallow: it is not a generic containment e
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that turns colder the nearer it is carried to the edge of the light.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
 **Effect:** +3 stat bonus when working the source entity
 
-**Ability:** Grants a minor boon tied to Swallow's sorrow; the effect mirrors the entity's nature.
+**Ability:** Carries a small boon out of the holding's own register — the bearer can tell an attribution that is true from one that is merely spoken, and only while the charm is on them.
 
 **Cost:** The bearer weeps in their sleep.
 
@@ -238,18 +238,18 @@ The escalation pattern is specific to Swallow: it is not a generic containment e
 
 ### M.A.W. Use Notes
 
-These pieces are Swallow in miniature. What they give is listed above; what they take is the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping, and the Armoury records both against the wielder rather than against the piece.
+Each piece is Swallow's own arrangement in miniature. The gains are in the tables above; the debit is grief taken up and never cried out, with weeping on a long issue, and the Armoury enters both sides against the bearer's own ledger rather than the piece's.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Swallow takes: the wielder feels the entity's unwept grief. |
-| **During use** | Every occurrence of what Swallow takes (the wielder feels the entity's unwept grief), timed. One is noted; a pattern across a shift ends the use. |
-| **At limit** | The wielder no longer notices Swallow's toll — the wearer feels every sorrow the Veil has absorbed — which is how every stand-down on this set has been caught. |
-| **After use** | Piece returned; re-assess a week later, because what Swallow takes (the wearer feels every sorrow the Veil has absorbed) does not present on the day. |
+| **Before use** | Wielder, piece, and a dated baseline written by the second worker: three losses the bearer can name as their own, so that anything arriving later can be set against something. Nothing on this set is issued without that sheet. |
+| **During use** | Every instance of the bearer weeping over something they cannot name is entered with its time. One is an incident note; two in a shift ends the use, and the second worker's clock decides when the shift ends, not the bearer's. |
+| **At limit** | The limit is the borrowing going unnoticed: the bearer is carrying the whole of what the veil has taken and no longer registers it as separate from their own. Every stand-down recorded on this set was called by an observer, never by the bearer. |
+| **After use** | Take the piece back, then hold the assessment for a week: can the bearer still name the three losses on the baseline sheet, and does any of them sit differently? Where either answer fails, the piece stays in stores and the bearer comes off chalk duty. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Field performance and human cost are separate axes, and a piece can be efficient in the hand while leaving the bearer fractured, hollowed or carrying somebody else's sorrow out of the light. Read the cost column first, authorise on the observer's report rather than the bearer's, and treat a low-rated piece with a heavy line beside it as the ordinary case in this wing.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -277,7 +277,7 @@ These pieces are Swallow in miniature. What they give is listed above; what they
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Swallow (C-IVδ-767 [LP]) is logged as a Place-Grudge manifestation expressing Lament, spreading beneath the Alpha Tree in Zone A. It has injured nobody, holds nobody and blocks nothing. What it does is make a loss that belongs to somebody else feel like a memory you had misplaced.
+Swallow (C-IVδ-767 [LP]) is a Place-Grudge manifestation expressing Lament, held beneath the Alpha Tree in Zone A, and what it spreads is not darkness but ownership: losses move through it into people who never made them.ath the Alpha Tree in Zone A. It has injured nobody, holds nobody and blocks nothing. What it does is make a loss that belongs to somebody else feel like a memory you had misplaced.
 
 **Entry 2 — <Spread Ledger, Alpha Tree, Extract>**
 The edge has drawn back four times in sixty-one years. Three analysts plotted the ledger against the district's calendar of observances at the memorial above and none found a relationship that survived scrutiny; all three wrote down that they had expected to. The series that does move with it was not found by an analyst. The four reversals fall in the four quarters carrying the most attributed lines in the shift log.
@@ -295,11 +295,11 @@ The nomination clause is refused and I want the reasoning on the record rather t
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Swallow; the other feeds it.
+> Two ways to close a watch on the chalk, and this file separates them the following quarter: one leaves nothing in the air that belongs to somebody who never said it, and the other is the loan the holding exists to make.
 
-| Hold to the condition: Name the source of the grief and return emotional ownership. | Depart from the condition for good reasons, as Swallow's record shows people do. |
+| Name the source of the grief, said once and left where it was spoken, and hand the ownership back to the person it belongs to — the condition exactly, with the shift log carrying one attributed line and nothing else entered against the name. | Depart from the condition for good reasons, as the record shows people do: take the loss up, hold it through the shift, or write an attribution into the record — screens last year took 214 people, of whom 171 closed and 43 flagged, and 14 of the flags were real people outside the schedule of degrees. |
 |---|---|
-| Tests whether the worker can carry grief without claiming it. The sorrow is witnessed; Swallow is fully recorded. | Reveals the people whose sorrow feeds it. The gauge climbs and Swallow withdraws without revelation. |
+| The bearer comes out on the far side of the light still able to say which grief is theirs, the chalk line is entered unchanged, and the watch closes with the attributed line logged once and the old marks left standing. | The naming turns inwards and the worker starts carrying a loss they can no longer account for; the entry closes with a screen on exit, and the flags go to counsellors rather than the archive. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -373,14 +373,14 @@ Some sorrows are personal. Swallow is a sorrow that lost its owner — or rather
 - Screens last year: 214 taken, 171 closed, 43 flagged; fourteen of the flags were real people outside the schedule of degrees.
 - Four reversals in sixty-one years, each in a quarter heavy with attributed lines in the shift log.
 **Cross-References:** The schedule of degrees and the Year 4186 discretionary-leave reversals · the Year 4232 nomination clause, refused · the spread ledger and the three negative analyses · the attributed-line practice and the undertaking that it is never evidence
-**Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
+**Faction Involvement:** SED on B-territory exploration · UCD on the Fray-adjacent zone · Judexhan carrying the δ high-threat line, which on this holding means the area rather than the figure.
 **Originator:** Mourners with no standing to mourn — 1,900 refusals last year alone, and a memorial that is open to all of them.
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This is a working instrument for a shift on the chalk and it settles nothing. Swallow's arrangement is small and strange: a place that hands losses to whoever stands in it, an area that has only ever come back in by accident, and an exit screen that tests attribution rather than distress. No part of the file stands on its own, and nothing in it is a substitute for standing at the line: what the set of sections describes together is a custody arrangement, not a containment, and the holding is entitled to behave as though nobody wrote any of it down. A departure from these pages is not an anomaly to be tidied away — it is the most useful thing a watch can bring back, and it enters the log as itself.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every manifestation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Any manifestation, expansion, Tide or unusual interaction resets the working picture, and the four pillars come up for re-taking from the top: the gauge, the chalk band, the personnel list, and where the lamp is standing. Set the exit screen log against the shift book's attributed lines, put exposure and position back into the record after each event, and hold the whole of it as a working account of something still living.
 ## Apex Record
 
 ### The Chalk Perimeter
@@ -453,7 +453,7 @@ The counsellors' screening sits alongside it and is the holding's other honest i
 ### Registry Trivia
 
 - **Classification detail:** Swallow is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is Zone A, Alpha Tree.
+- **Field detail:** Lament is its element and the ground beneath the Alpha Tree in Zone A is its registered place — chalked, lit at a fixed level, and held in custody without control.
 - **Recognition detail:** Dimming without a source, a floor ringed in old chalk, fixed lighting that does nothing, and detail going soft at the edges of what you are looking at.
 - **Record detail:** The archive holds other places that take something from a visitor. This one takes nothing material and leaves nothing missing; what it alters is whose loss you think you are carrying. Confirm the designation C-IVδ-767 before applying any of this file elsewhere, and do not read it across to holdings that consume objects.
 - **Containment detail:** There is no seal, no door and no wall. The file's own phrase for the arrangement is custody without control, and it asks that no document here use the vocabulary of holding things.

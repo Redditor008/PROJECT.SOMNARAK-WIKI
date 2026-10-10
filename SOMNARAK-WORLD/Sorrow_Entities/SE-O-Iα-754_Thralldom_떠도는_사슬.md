@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 10–14 per successful work cycle, taken off the crawl and never off the links |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | α — Boundary-Blade, Plate and Link all graded |
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 0.95 m/s |
-| **Resistance** | 15% against Grudge pressure; 5% against other pressure types |
+| **Resistance** | 15% against Grudge pressure and 5% against everything else — the resistance of something built to be borne |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Han Pressure [ATK]** | 3–10 per hit · Grudge |
@@ -80,18 +80,18 @@
 | { *The Drag* [**Debuff**] } | "You hear chain-link dragging on stone — and it is getting closer." | [The Chain drags itself toward the target; the sound alone grates.] | *Target suffers -10 Resilience; the dragging is relentless.* **[10 Grudge DMG [Grudge]]** | When the Chain approaches. |
 | { *The Rattle* [**Debuff**] } | "The chain finds you — and wraps once, loosely, the way a leash does." | [The Chain settles on the target; the first loop is deceptively gentle.] | *Target loses 10 Resilience; the chain has marked its walker.* **[10 Grudge DMG [Grudge]]** | When the Chain reaches the target. |
 | { *The Swing* [**Attack**] } | "The chain whips — fast, wild, and glad to be moving." | [The mobile chain lashes in a wide arc.] | *Inflicts Grudge pressure and one biting, iron cut.* **[14-22 Grudge DMG [Grudge]]** | When the Chain is provoked. |
-| { *The Yank* [**Attack**] } | "The chain pulls — and whatever is on the other end is stronger than you." | [The Chain hauls the target off their feet.] | *A heavy Crimson jerk; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Chain is grabbed. |
-| { *The Roaming Iron* [**Ultimate**] } | "The chain is everywhere now — dragging through every corridor, finding every ankle." | [The Chain multiplies and wanders through the whole field.] | *All personnel suffer Grudge pressure for three turns of roaming iron.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Yank* [**Attack**] } | "The chain pulls — and whatever is on the other end is stronger than you." | [The length goes taut and drags whoever took hold off their feet.] | *A heavy Crimson jerk; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When somebody grabs the links. |
+| { *The Roaming Iron* [**Ultimate**] } | "The chain is everywhere now — dragging through every corridor, finding every ankle." | [It splits into lengths and crawls every lane of the ground at once.] | *Grudge pressure presses on everyone for three turns while the iron roams.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The team sights the Chain crawling in the Old Lament corridors, confirms it is still an open length rather than a closed loop, establishes which way it is heading, and clears that route rather than blocking it.
 2. **Clash:** Ten turns, and the whole engagement turns on restraint — the party's, not the entity's. Flerehan and Ferrehan bring the gauge down, Pugnahan drives it up, and a party that reaches for Pugnahan because the Chain is hostile will spend the remaining turns managing the consequence.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not bind it; offer an unforced ending**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not bind it; offer an unforced ending**. Everything the record asks for here follows from that clause — the route stays open, nobody takes hold of the links, and the watch closes when a bond is allowed to end rather than broken.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resilience**, funneling cognitive instability back into the Sorrow Gauge.
+- A worker who cannot stand against the Chain's sorrow becomes a channel for it: the raw pressure wears **Resilience** down, and the instability it makes flows straight back into the Sorrow Gauge.
 - Prolonged exposure produces a specific and well-documented effect: personnel begin to feel compelled to remain in harmful relationships and duties. It does not present as distress. It presents as loyalty, as not wanting to let the team down, as declining a transfer for reasons the worker can articulate fluently and at length.
 - Every piece taken from the Chain charges in bonds. The blade draws lines that nothing may cross and leaves the wielder's old wounds aching; the plate holds the body together and dulls every reflex that would have moved it out of the way; the Link reveals which of a person's attachments have turned coercive and makes them feel every one they have already left.
 - Left unresolved, the Chain does not burst outward so much as fasten onward. It crawls through the Old Lament looking for a new attachment, and the recorded breach is simply what that looks like when it succeeds and the attachment is a person.
@@ -142,7 +142,7 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Thralldom is recorded as a Subject with Subject-Grudge manifestation and Grudge elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Read the table above as a diagnostic rather than a prescription: it names what settles this holding and what sets it moving. Thralldom stands as a Subject with Subject-Grudge manifestation and Grudge in its element, filed ambient at Zone B, Old Lament. Two cautions come with the entry. Nothing is carried over from a holding with a similar name — the neighbours sit in their own section, and not one of them is this. And a gauge that holds flat is no proof of a harmless watch: the figure can sit level while the worker is being reached through memory, ground or identity, and the cost of that hour surfaces off the page.
 
 **Reading the response:** Flerehan and Ferrehan both bring the gauge down, by opposite routes. Weeping with it loosens the links and stops the crawling, because grief is what the binding was made of and it has never been met with any. Endurance works because Ferrehan here means staying beside the Chain without being fastened to it — present, unbound, and free to go — which is the arrangement the family could not manage. Viderehan holds level: it reveals the relationship behind the restraint, and the Chain neither resists the exposure nor gains from it. Pugnahan raises the gauge every time, without exception, and the reason is structural rather than temperamental. Confrontation is force applied to make something stay, and that is the exact act that produced this entity.
 ## Breach Behavior
@@ -156,7 +156,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
 | **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **Escalation** | For every turn the Chain stays loose its pressure grows, and the Resilience drain adds 5 a turn until the watch ends it. |
 
 ### Escalation Notes
 
@@ -195,7 +195,7 @@ The sword marks territorial boundaries across chamber floors. Entities crossing 
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
+**Appearance:** a plated harness of Grudge Han-iron, dark and warm to the touch on the rack, that settles over the wearer and breathes with them.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -213,11 +213,11 @@ The sword marks territorial boundaries across chamber floors. Entities crossing 
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a chain-link of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a chain-link of Grudge Han-iron, dark and warm to the touch, that takes the light at an angle no honest piece of metal should.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the bearer's rating while working the Chain, forfeited for the remainder of the cycle if the bearer attempts to restrain it
+**Effect:** +1 to the bearer's rating while working the Chain, lost for the rest of the cycle if the bearer ever restrains it
 
 **Ability:** Reveals bonds that have become coercive.
 
@@ -233,10 +233,10 @@ Each piece remains part of the Chain, and the set has a property the grades do n
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Thralldom's toll being that every injury the wielder has ever recovered from begins to ache again, and faint bruising surfaces along the lines of old breaks. Nothing new is damag. |
-| **During use** | Thralldom charging, which presents as this: every injury the wielder has ever recovered from begins to ache again, and faint bruising surfaces along the lines of old breaks. Nothing new is damag. The wielder's own account is taken separately and afterwards. |
+| **Before use** | Wielder, piece and the issue-day gauge, with one pre-check written down: on pieces taken from the Chain, old injuries wake in the order they were received and faint bruising rises along the lines of the old breaks. Nothing new is being done to the body — the toll is entirely in what it remembers. |
+| **During use** | Charging shows in the bearer first: the healed injuries start aching again, oldest to newest, and bruising comes back along the old lines with nothing fresh having struck them. The second worker logs the hour, and the bearer's account is taken afterwards and kept apart from it. |
 | **At limit** | The harness answers slightly after the wearer does. Nothing is prevented, but every movement away from something becomes deliberate, and wearers repor, and the wielder has stopped reporting it — the usual end point for a Thralldom piece. The observer calls the limit. |
-| **After use** | Return, reconcile the baseline, and record whether Thralldom's toll has reversed: the harness answers slightly after the wearer does. Nothing is prevented, but every movement away from something becomes deliberate, and wearers repor. Where it has not, the piece is not reissued to that wielder. |
+| **After use** | Return the piece, reconcile the baseline, and enter whether the toll has let go — the lag between the wearer's intention and the answer of the metal, and the way every movement away from something turned deliberate, both have to have eased. Where they have not, the piece is not reissued to that bearer. |
 
 **Stat interpretation:** The α grades are accurate and unremarkable — three to six damage, ten to fifteen Echoes, nothing concealed. What they omit is that this set's costs are all exerted on the wearer's capacity to disengage, which is not a combat statistic and does not appear on any sheet. Read the Cost lines as the specification.
 ## 관찰 기록 (Observation Log)
@@ -255,10 +255,10 @@ Each piece remains part of the Chain, and the set has a property the grades do n
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Thralldom as a Subject with Subject-Grudge manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone B, Old Lament — ambient. |
+| **Initial exposure** | The observer places the holding from the marks: red staining at thresholds and along corridors where people were once kept from leaving, fading wherever a bond has since ended honestly. The designation is confirmed before entry — Zone B holds more than one Grudge residue born of obligation outliving affection. |
 | **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Thralldom's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | Enter what altered, what persisted and what the vocabulary would not hold; all three count as data. On this file the sheet is incomplete if it records only the danger — the sorrow the Chain preserves is the part the entry has to carry, or the watch has simply been a report on a hazard. |
 
 **Observation method:** Log the Chain's configuration, its direction, and every restraint attempted by anyone present, including attempts that were considered and abandoned. Then take the personnel record, which for this entity is not optional: workers exposed to it report compulsion to remain in harmful duties, and that compulsion is indistinguishable from conscientiousness in a debrief. Ask instead whether the worker has declined leave, extended a shift, or refused a rotation since the exposure. The answer is the measurement, and the worker will usually supply it while explaining why it does not count.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -266,7 +266,7 @@ Each piece remains part of the Chain, and the set has a property the grades do n
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Thralldom (O-Iα-754 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge. The Chain formed from a bond that became imprisonment. Held at Zone B, Old Lament — ambient. It crawls without a body to pull it.
+Thralldom (O-Iα-754 [GS]) stands on the register as a Subject-Grudge manifestation expressing Grudge. The Chain formed out of a bond that turned into a prison. Held ambient at Zone B, Old Lament — and it crawls without a body to pull it.
 
 **Entry 2 — <Corridor Sighting Report, Old Lament>**
 Crawls through Old Lament seeking a new attachment. Personnel feel compelled to remain in harmful relationships or duties. It becomes calmer when no one tries to possess it.
@@ -275,18 +275,18 @@ Crawls through Old Lament seeking a new attachment. Personnel feel compelled to 
 The grief of being held by obligation after love has ended.
 
 **Entry 4 — <Containment Notice>**
-Management: Do not bind it; offer an unforced ending. Work response — Flerehan: The links loosen and stop crawling. (Decrease); Pugnahan: It lashes toward the worker. (Increase); Viderehan: Reveals the relationship behind the restraint. (Stable); Ferrehan: Tests whether the worker can remain without being bound. (Decrease). Its marks fade when a bond ends honestly.
+Management: Do not bind it; offer an unforced ending. Work response — Flerehan: the links loosen and the crawl stops (Decrease); Pugnahan: it lashes out at whoever stands in the way (Increase); Viderehan: the relationship behind the restraint is shown (Stable); Ferrehan: it tests whether a worker can stay without being bound (Decrease). Every mark it leaves fades once a bond ends honestly.
 
 **Entry 5 — <Archive Note>**
 The daughter's account closes with the detail the Keepers consider decisive: when it was over, nobody in the house could bring themselves to throw the chain out, and nobody could say why. It sat in the yard for two winters. The first mark in the Old Lament survey is on the threshold of that yard, and it has not faded in nine years of looking.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Thralldom; the other feeds it.
+> The Chain watch can end in either of two ways, and the register divides them by what the observer does with the instinct to hold on: one keeps the way open with both hands still, and the other restrains it — out of care, which is how every failure on this file begins.
 
-| Do not bind it; offer an unforced ending. | Do the obvious, decent thing instead, and feed Thralldom. |
+| Do not bind it — leave the route open, stand aside in plain view, and offer the ending that arrives without force or condition. | Restrain it, hold the line, cordon the corridor or take the links in hand. Done out of care, and it feeds the Chain all the same. |
 |---|---|
-| The links loosen and stop crawling. The sorrow is named; Thralldom is fully recorded. | It lashes toward the worker. The gauge climbs and Thralldom withdraws without revelation. |
+| The links slacken and the crawl stops; the sorrow is named and the entry closes with the Chain recorded whole. | The length turns on the worker who held it; the gauge rises, and the entry finishes with the Chain no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -305,7 +305,7 @@ Metal slides across the floor behind you, warm, unhurried, with nothing pulling 
 
 ### Interaction Pattern
 
-Thralldom does not exist in isolation. Its recorded relationships with The Chain of Memories, The Broken Promise, The Smothering Mother should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three names sit within the Chain's working range — The Chain of Memories, The Broken Promise and The Smothering Mother — and each is a resonance question rather than an alliance or a standing feud. Where a pairing is run, enter what the response did in sound, movement, temperature, memory pressure, gauge or containment stability, with distance, duration and trigger beside it.
 
 **Interaction method:** Establish the Chain's solo wandering first — route, pace, configuration, and where it lingers — across cycles in which nothing is asked of it and nothing stands in its way. Then introduce a second entity, and observe the variable that governs every interaction this holding has: whether the Chain attaches. It crawls through the Old Lament seeking a new attachment, and its interactions are not resonances or reactions but candidacies. Log the separation at first response, the duration, the gauge movement, whether it altered course toward the other entity, and above all whether it closed into a loop. Separation ends the contact but does not undo the selection, and a Chain that has chosen will return to the same holding on later cycles unprompted.
 
@@ -314,7 +314,7 @@ Thralldom does not exist in isolation. Its recorded relationships with The Chain
 
 The Chain is ambient within the Old Lament rather than held at a fixed point, so it encounters more of Zone B than any comparable α-tier holding and its relationships change as it travels. The interactions below are canonical but each was recorded at a particular stage of its wandering; personnel must re-establish its current route before relying on any of them.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| The Chain's neighbour | How the two have stood | What the range watch logged | What the entry must carry |
 |---|---|---|---|
 | **The Chain of Memories** | That one binds a memory to a duty. This one is the duty with the memory gone out of it, and the two have never been observed to link. | Crawl slows to half pace within thirty metres and the Chain alters course toward it; configuration stays open. | Course change, pace, and whether it returned to the same corridor on later cycles. |
 | **The Broken Promise** | A promise that failed, beside a promise that was kept past the point of sense. The Chain lingers and does not attach. | Marks appear on thresholds neither entity crossed, the only recorded case of marking at a distance. | Survey the new marks by location the same day and date them, since fading is what distinguishes them. |
@@ -404,7 +404,7 @@ The crew chiefs asked that leavers be invited — invited only, never required �
 ### Registry Trivia
 
 - **Classification detail:** Thralldom is a Subject with Residue (I) coherence and Minor (α) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is Zone B, Old Lament — ambient.
+- **Field detail:** Its element is Grudge, and the register keeps it at Zone B in the Old Lament, logged ambient rather than celled.
 - **Recognition detail:** Identify by the marks. Red staining appears on thresholds and corridors where people were once prevented from leaving, and it fades wherever a bond has since ended honestly.
 - **Record detail:** Zone B holds more than one Grudge residue formed from obligation outlasting affection; confirm the designation O-Iα-754 and the Subject-Grudge manifestation before applying this file to any of them.
 - **Containment detail:** There is no cell. The Chain is logged as ambient within the Old Lament, and the decision not to enclose it was deliberate rather than a shortfall of resources — a sealed door is a restraint, and restraint is what this entity is for. It is contained by the practice of letting it through.

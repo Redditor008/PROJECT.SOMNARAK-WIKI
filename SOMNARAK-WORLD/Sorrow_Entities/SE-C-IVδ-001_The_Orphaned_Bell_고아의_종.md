@@ -29,7 +29,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 per successful work cycle, taken off the tower's own sounding and never from the bell itself |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Officium) · δ (Critical) |
@@ -40,10 +40,10 @@
 ### Operational Notes
 
 - The Bell sounds without being struck, and the tower was built around it rather than for it.
-- A cycle reduces the frequency of the soundings. The tone is unchanged, and no session has silenced it.
-- Viderehan and Ferrehan are the valid approaches to the object.
-- There is no breach counter. The audible field widens from the tower, and its edge is confirmed by instrument at every session.
-- Extraction is authorized apart from the work cycle and carries the same auditory exposure.
+- A cycle reduces the frequency of the soundings. The tone itself does not move, and no session has ever quieted it.
+- Viderehan and Ferrehan are the only two approaches that reach this object; nothing else in the set applies to a tower that sounds without being struck.
+- No breach counter is kept. The audible field widens from the tower, and its edge is confirmed by instrument at every session.
+- Extraction is authorized outside the work cycle and carries the same auditory exposure as standing in the field — the toll is indifferent to where a crew happens to be standing when it comes.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,16 +87,16 @@
 
 ### Battle Phases
 
-1. **Tension:** The Orphaned Bell is confirmed by the hands. The corrosion on the bell's surface has warped into small reaching shapes, and no other holding in Zone B carries that. The team establishes its position and its withdrawal before the cycle opens.
-2. **Clash:** There is nothing to trade with. The pair stands braced, the timekeeper outside the acoustic circle holds the clock, and the recorded combat actions describe what the toll does on the way past rather than anything the team can influence.
+1. **Tension:** The pair confirms the Bell by hand. The corrosion on its surface has warped into small reaching shapes, and no other holding in Zone B carries that. The pair marks where it will stand and where it will withdraw to before the cycle opens.
+2. **Clash:** Nothing here can be bargained with. The pair stands braced, the timekeeper outside the acoustic circle holds the clock, and the recorded combat actions describe what the toll does on the way past rather than anything the team can influence.
 3. **Resolution:** The toll finishes or the pair is withdrawn. The documented condition is **the bell stays anchored, Pugnahan is never attempted, and the watch is completed standing in pair** — nothing here is suppression, and the record does not call it that.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, The Orphaned Bell reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- Where resistance gives way the pressure goes straight into the worker, mind and body together: **Clarity** drops with every name the bell tolls back at them, and it is the loss the gauge takes its height from, not the wounds.
+- Exposure compounds. Each minute past the recommended cycle takes the worker further into identity drift, then cognitive Fracture, and the destabilization of the ground around the tolling point comes last, as if the order were part of the design.
+- What the M.A.W. set extracts is written down in the equipment section, and the field record has never yet contradicted it. No toll in this wing has ever been paid by anybody else.
+- Where the management condition goes unmet the bell reverts to its destructive activation protocol: denied peace, the sorrow takes its own release rather than wait for anybody to say the names.
 
 ## Appearance
 **Physical Form:** A massive bell, three meters tall, made of dark Han-crystal pulsing with faint blue light. It is fixed within a special tower and tolls without external force.
@@ -155,17 +155,22 @@
 
 ### Operational Work Notes
 
-The Orphaned Bell is an Object/Place with Object-Lament manifestation and Lament expression, held in its tower at SECTOR-B-01. Viderehan is conducted between tolls by crews who withdraw before the predicted window. Ferrehan is the toll itself, met standing in pair, and is the only work here that moves the gauge. Neither alters the schedule, which the bell keeps without reference to anybody.
+The Orphaned Bell is an Object/Place — Lament for its manifestation, Lament for its expression — kept in its tower at SECTOR-B-01. Viderehan is conducted between tolls by crews who withdraw before the predicted window. Ferrehan is the toll itself, met standing in pair, and is the only work here that moves the gauge. Neither alters the schedule, which the bell keeps without reference to anybody.
 
 **Reading the response:** A falling gauge presents as fewer soundings over the cycle. The tone never changes and no session has ever produced silence, so a quiet week is a spacing and not a result. A rising gauge presents in the opposite direction — soundings closer together, and the toll beginning to arrive outside the predicted window — and the correct response is to vacate the tower rather than to extend the watch. Log the interval before anything else; it is the only figure here that moves for a reason.
-## Activation / Expansion Behavior
+## Activation Behavior
+
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
 **Activation Trigger:** Midnight, the Consolihan anniversary, or concentrated grief concerning missing children.
 
 **Effect:** The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress.
 
-**Containment:** The bell remains anchored in its tower and is never struck. Pugnahan intensifies the tolling; Flerehan is not available against a structure, and the earlier singing protocol was withdrawn after it was established that the practice calmed the workers and did nothing measurable to the bell.
+**Duration:** While equipped, until the removal condition is met.
 
+**Risk:** Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia.
 ### O-Relic (Officium) — Channeled Invocation
 
 | Field | Detail |
@@ -180,80 +185,23 @@ The Orphaned Bell is an Object/Place with Object-Lament manifestation and Lament
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
-| **Use Mode** | **Channeled / sustained interaction** (Spoken invocation of lost names) |
-| **Activation** | The operator kneels beneath the bell; it answers only when genuine documented names are spoken aloud. |
-| **Primary Effect** | Emits a silver acoustic wave that purges Composure strain from personnel; restores +10 SP / Composure on harmonious resonance. |
-| **Duration** | While actively channeled, up to 3 full toll cycles (180 seconds maximum). |
-| **Termination / Return** | Operator completes the memorial recitation and withdraws beyond the acoustic perimeter. |
-| **Risk** | Channeling beyond 180s causes memory blurring and auditory intrusion of unrecorded names. |
-
-**Operational Rule:** The relic activates only while sustained spoken invocation is maintained. It does not replace standard containment shifts; Object/Place entities remain limited to Viderehan and Ferrehan during non-channeling hours.
-
-### Log and Method
-
-| Interaction Amount | **Log** | **Method** |
-|---|---|---|
-| 10 Seconds | The Orphaned Bell hangs motionless in its tower — a three-meter monument of blue grief, cold and waiting. | When the operator enters the circle and speaks a lost name, the rim begins an imperceptible 40-Hertz oscillation. |
-| 1 Minute | Blue condensation pools upward along the bronze crystal; the chime vibrates in the operator's ribs. | The effect calms attending personnel, emitting silver resonance that soothes Composure strain. |
-| 2 Minutes | The acoustic resonance deepens; faces of lost expansion children glow faint blue across the tower masonry. | Prolonged channeling risks cognitive bleed; personal childhood memories begin to blend with the tower's ledger. |
-| 3 Minutes | Every grief the bell holds resonates at once; unrecorded voices clamor to be named. | Reaching 3 minutes requires immediate withdrawal before the acoustic pressure triggers amnesia. |
-| 3 Minutes | The toll softens as the final name is recorded; a silver calm settles across the sector. | Operator exits the acoustic circle, leaving the bell pacified until the next midnight vigil. |
-
-### Escalation Notes
-
-Escalation here is a change in spacing, not in volume. Record the interval since the previous toll, the clock time against the predicted window, the face count taken that day, and whether the acoustic circle has had to be enlarged. The toll passes through structure, so a reading taken outside the tower is not evidence of what the tower itself received.
-
-**Response sequence:** establish a safe perimeter, identify whether the event is an activation or an expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
-
-
-### Detailed Activation Record
-
-| Activation field | R.D. operational detail |
-|---|---|
-| **Trigger** | Midnight, the Consolihan anniversary, or concentrated grief concerning missing children. |
-| **Manifestation** | Object-Lament|
-| **Primary effect** | The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress. |
-| **Duration / rate** | While equipped, until the removal condition is met. |
-| **Risk** | Constant tolling causes memory gaps after 72 hours; names of lost children intrude into thought. |
-| **Management** | Anchored, never struck, Pugnahan never attempted; the watch stood in assigned pairs and ended from outside the circle. |
-
-**Activation reporting order:** clock time → interval since the previous toll → duration of the sounding → pair identities and standing position → face count that day → gauge. Viderehan and Ferrehan only.
-## Activation Behavior
-
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Sector / Facility Alteration**
-> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
-
-**Activation Trigger:** Midnight, the Consolihan anniversary, or concentrated grief concerning missing children.
-
-**Effect:** The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress.
-
-**Duration:** While equipped, until the removal condition is met.
-
-**Risk:** Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia.
-
-### Tool Use Profile — O-Relic
-
-| Field | Record |
-|---|---|
-| **Tool Class** | **O-Relic** |
-| **Use Mode** | **Continuous / channeled use** |
-| **Activation** | Midnight, the Consolihan anniversary, or concentrated grief concerning missing children. |
+| **Use Mode** | **Continuous / channeled use** — the toll held open from inside the circle, never worked in relay. |
+| **Activation** | Midnight, the Consolihan anniversary, or any concentration of grief for missing children large enough to carry a name. |
 | **Primary Effect** | The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress. |
-| **Duration** | While equipped, until the removal condition is met. |
-| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |
+| **Duration** | While equipped, until the removal condition is met — three full toll cycles at the very outside, and the recitation is what ends it. |
+| **Termination / Return** | The operator closes the channel deliberately, name by name; a conduit released out of order vents its uncontained Lament resonance across the whole sector, and the paperwork from the last time that happened is still open. |
 | **Risk** | Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia. |
 
-**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+**Operational Rule:** The relic requires continuous concentration and open energy conduits; it is stood under rather than carried. A channel left untended starts the field instability on its own and will not wait for the next watch to notice.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The Orphaned Bell begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates The Orphaned Bell: The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the grief of parents searching for children who would never return. forged during zone b expanded over streets and homes, swallowing children into the han and leaving families without answers. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of The Orphaned Bell's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
-| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Lament shockwave: Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia. all personnel in the sector take heavy damage. |
+| 10 Seconds | The Orphaned Bell begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Kneel inside the circle and the bell answers on the first documented name: the toll passes through the structures and the people inside them, everyone in hearing loses something they cannot point to, and the adjoining holdings ride steadier gauges for the rest of the watch. |
+| 30 Seconds | The conduit widens, revealing the memory of the grief of parents searching for children who would never return. forged during zone b expanded over streets and homes, swallowing children into the han and leaving families without answers. | The sounding carries to Range Band 2; every allied unit inside that ring takes heightened elemental defense for as long as the recitation stays unbroken. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of The Orphaned Bell's unfulfilled purpose pressing on their lungs. | Past 60 seconds the channel draws on the speaker rather than on the room: 4 Composure every 10 seconds, and the withdrawal has to be prepared before the count runs out and not after. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Held past the limit, or abandoned mid-recitation, the channel vents a Lament shockwave nobody steers: unvoiced grief goes into the operator's mind, and the amnesia that follows has taken names out of workers that the register still carries. |
 
 ### Escalation Notes
 
@@ -304,7 +252,7 @@ The alloy is cut with crystal taken from the bell's rim, and the blade keeps the
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud woven in the tower’s own Lament Han-silk — cool, faintly luminous, and holding the scent of the bell’s room in the weave however long it sits in stores.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -314,19 +262,19 @@ The alloy is cut with crystal taken from the bell's rim, and the blade keeps the
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against The Orphaned Bell's kind of pressure.
+**Ability:** Grants resistance to Lament damage, shielding the Mind — emotional stability, willpower — and it is cut for the toll's particular pressure: the wearer holds composure while the bell is saying names back at them.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer becomes numb to minor joys; the armoury note is that nobody has ever filed it as a loss, which is exactly what this cost looks like from the inside.
 
 ### M.A.W. Stigma — Lament's Edge
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that turns cold in the hand whenever its source sorrow is sounding.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 stat bonus while working the source holding, entered at issue against the wielder's name
 
 **Ability:** Strikes induce profound loss, disorienting and slowing targets. Critical strikes can temporarily make a target forget how to fight.
 
@@ -342,12 +290,12 @@ The set is drawn from the bell's crystal and the tower's corroded fittings, and 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from The Orphaned Bell the recorded cost is that the wielder feels the entity's unwept grief. |
-| **During use** | The first sign that The Orphaned Bell is charging: the wielder feels the entity's unwept grief. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The wearer becomes numb to minor joys, without remission. On a The Orphaned Bell piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether The Orphaned Bell's cost is still showing — the wearer becomes numb to minor joys. |
+| **Before use** | Wielder and piece; the day's reading at the tower; and a baseline written down and left in another worker's hands, because the cost that matters with this set is the one a bearer cannot report on themselves. |
+| **During use** | Charging shows in the bearer before anything else: the entity's unwept grief arrives ahead of whatever the piece is meant to give. The second worker logs it with the hour, and the bearer's own note goes in separately. |
+| **At limit** | The wearer becomes numb to minor joys, without remission, and on a The Orphaned Bell piece the use ends at that point whatever the wielder says about it. |
+| **After use** | Return the piece, then put the question to a colleague rather than to the bearer: the numbness this set deals is the one cost a person cannot see in themselves. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade is a statement about force and says nothing about price. On this set the two run against each other often enough that the minor pieces are watched hardest — a low-rated item can take something no figure on the sheet accounts for.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Mastered
@@ -378,7 +326,7 @@ The set is drawn from the bell's crystal and the tower's corroded fittings, and 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Orphaned Bell (C-IVδ-001 [LO]) is logged as a Object-Lament manifestation expressing Lament. The bell formed during the westward expansion of Zone B. Hundreds of children were displaced: some were lost, some forgotten, and some vanished in the chaos. The collective grief of parents who never found them crystallized into the bell. Held at SECTOR-B-01 — special tower in Zone B; contained. First Sorrow Entity formally classified by the R.D. as IV-δ-001.
+The Orphaned Bell (C-IVδ-001 [LO]) stands on the register as an Object-Lament manifestation expressing Lament. The bell formed during the westward expansion of Zone B. Hundreds of children were displaced: some were lost, some forgotten, and some vanished in the chaos. The collective grief of parents who never found them crystallized into the bell. Held at SECTOR-B-01 — special tower in Zone B; contained. First Sorrow Entity formally classified by the R.D. as IV-δ-001.
 
 **Entry 2 — <Excerpt from Field Log, Year 4209>**
 The tower contained 2,347 faces at one survey; the next survey recorded four additional faces.
@@ -394,11 +342,11 @@ The Director notes: this sorrow is representative, not anomalous. It is the city
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Orphaned Bell; the other feeds it.
+> The watch on the Bell closes one of two ways, and the file tells them apart by what the observer does when the standing order and their own sympathy disagree: one keeps to the procedure, and the other improves on it.
 
-| Anchored, never struck, Pugnahan never attempted; the watch stood in assigned pairs and ended from outside the circle — as written, without improvising. | Improvise something kinder, which is how every failure on The Orphaned Bell's file began. |
+| Anchor as ordered, never strike the bell, never attempt Pugnahan, keep the assigned pairs, and let the watch end from outside the circle — the procedure as written, with nothing added to it. | Improvise something kinder — the kindness is real, and it is how every failure on this file has begun. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is witnessed; The Orphaned Bell is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Orphaned Bell withdraws without revelation. |
+| The soundings run their recorded course, the field edge is confirmed by instrument, and the entry closes with the Bell recorded whole. | The procedure is departed from and the room answers it; the gauge climbs, and the entry closes with the Bell no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -413,11 +361,11 @@ Before the sound arrives, the air becomes emotionally heavy. Then the toll fills
 
 **When the entity activates:** It tolls, once, with nothing touching it. The sound arrives through the floor before it arrives through the air, and what it delivers is not volume but a loss with no object attached — grief for someone the hearer cannot name, which is exactly the condition the originating parents were left in.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Lament in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** The door seals and the pressure comes down, but the watch leaves something behind: Lament in the suit fibres, in the recollection, and in that thin space between thoughts where a Fracture starts.
 
 ### Interaction Pattern
 
-The Orphaned Bell does not exist in isolation. Its recorded relationships with The Hollow Choir, The Grieving Colossus, The Kind Healer, The Silent Child, The Forgotten Soldier should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Five names stand in the Bell's field — The Hollow Choir, The Grieving Colossus, The Kind Healer, The Silent Child and The Forgotten Soldier — and none of the five is a feud or an alliance; each stands there as a resonance question. A watch that runs a pairing notes whether the answer moved in sound, in movement, in temperature, in memory pressure, in the gauge or in containment stability, and sets range, duration and trigger beside it.
 
 **Interaction method:** Baseline each party alone. The question with this holding is always whether the other entity changes the interval, and the answer so far is that nothing has. Log the range, the duration, the trigger, the gauge on both sides, the interval before and after, and whether the face count moves in the following fortnight.
 
@@ -426,7 +374,7 @@ The Orphaned Bell does not exist in isolation. Its recorded relationships with T
 
 The Orphaned Bell is the first entity the R.D. ever catalogued, and much of the wing's relational vocabulary was invented on it. The entries below are observed, not inferred. None of them has altered the toll interval, which is the measurement that would matter, and the file prefers to state that than to imply a relationship it cannot show.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Nearby holding | How the two have answered | What the watch logged | What the entry carries |
 |---|---|---|---|
 | **The Hollow Choir** | The Bell tolls in harmony with the Choir. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Grieving Colossus** | The Colossus pauses when the Bell tolls and listens. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
@@ -434,7 +382,7 @@ The Orphaned Bell is the first entity the R.D. ever catalogued, and much of the 
 | **The Silent Child** | The Child sits near the Bell, listening for a name that might be theirs. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Forgotten Soldier** | The Soldier stands at attention when it tolls. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Baseline both parties alone, keep the second outside the acoustic circle, and log the first shared change with its distance, duration and trigger, the gauge on each side, and the interval measured across the pairing. The fortnightly plates are compared again afterwards, because a face appearing in that window would be the first thing ever attributable to another entity here.
+**Interaction procedure:** Read each holding alone first, with the second worker posted outside the acoustic circle, then log the first change that belongs to the pair rather than to either one — distance, duration and trigger with it, the gauge on both sides, and the interval measured across the two. The fortnightly plates are compared again afterwards, since a face appearing in that window would be the first thing on this file attributable to any other holding.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -444,7 +392,7 @@ Zone B was built westward — the cheap district, the laborers' district, the pl
 
 The parents searched. They searched the new streets, the half-built structures, the Han-soft ground. They called their children's names into the dark places where the Weeping ran close. They searched for days, weeks, months — some for years, refusing to believe what the city, gently, insisted: that the children were gone, consumed by the expansion, lost to the Han, never to be found.
 
-They were not found. The expansion continued. The children did not come back. And the grief — the collective grief of hundreds of parents searching for hundreds of children who would never return — sank, the way all collective sorrow sinks in Somnarak, into the ground, into the Weeping, and the Weeping, which gives every grief its form, gave this one a shape that fit: a bell.
+They were not found. The expansion continued. The children did not come back. And the grief — the collective grief of hundreds of parents searching for hundreds of children who would never return — sank, the way all collective sorrow sinks in Somnarak, through the ground and into the Weeping, which gives every grief its form; this one it gave a shape that fit: a bell.
 
 The Orphaned Bell is that bell. Object-Lament, the first sorrow the R.D. ever catalogued: a bell that tolls, at midnight, for the children the expansion swallowed. Its sound is not loud. It is heavy — the weight of every search that ended without finding, every name called into a dark that did not answer, every parent who walked the new streets calling for a child who was already part of the city's foundations.
 
@@ -536,7 +484,7 @@ Every year the commander transmits the full unmatched list to the municipal offi
 
 **Nineteen letters.** The effect is small and real. **Seven times a family has come in, searched the correspondence index, and found a name they recognised; two of those led to an identification the office was afterwards able to make by its own procedure and enter in its own register properly.** The other five did not, and the office's note on them says only that the families were given a chair and as long as they wanted.
 
-The municipal archivist's objection is on the file and has never been answered. Using correspondence as a shadow register degrades the correspondence series and allows a facility to put into public view, permanently, material it has just certified it cannot stand behind; and the five families who found a name and got no further are the cost of the two who did, paid by people the facility has no standing to compensate and no way to find again. The minute records the objection as **correct, and the letters continue**. It is read into the record at each annual review alongside the names, in the archivist's own words, which the wing has declined to shorten.
+The municipal archivist's objection sits on the file with no answer to it. Using correspondence as a shadow register degrades the correspondence series and allows a facility to put into public view, permanently, material it has just certified it cannot stand behind; and the five families who found a name and got no further are the cost of the two who did, paid by people the facility has no standing to compensate and no way to find again. The minute sustains the archivist without a word of it withdrawn: **the objection stands, and the letters continue**. It is read into the record at each annual review alongside the names, in the archivist's own words, which the wing has declined to shorten.
 
 ## Trivia
 

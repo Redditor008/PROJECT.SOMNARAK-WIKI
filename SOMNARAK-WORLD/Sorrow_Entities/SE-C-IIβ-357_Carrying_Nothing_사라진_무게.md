@@ -81,21 +81,21 @@
 | { *The Lightness* [**Debuff**] } | "The weight is gone — and the lightness is unbearable. You did not realize how much you needed it." | [The target's burden vanishes; the sudden relief is disorienting.] | *Target suffers -10 Resilience; the absence of weight is its own kind of falling.* **[10 Grudge DMG [Grudge]]** | When the Weight lifts. |
 | { *The Free Fall* [**Debuff**] } | "Without the weight, you have no anchor — and you are drifting, and the drifting is terrifying." | [The target, unburdened, loses all sense of grounding.] | *Target loses 10 Resilience; they cannot find their footing.* **[10 Grudge DMG [Grudge]]** | When the target remains weightless. |
 | { *The Phantom Mass* [**Attack**] } | "The weight comes back — for one instant — at twice what it was." | [The vanished Weight returns briefly at doubled intensity.] | *Inflicts Grudge pressure and one crushing, sudden wound.* **[14-22 Grudge DMG [Grudge]]** | When the absence is challenged. |
-| { *The Full Return* [**Attack**] } | "Every vanished weight, every lifted burden — all returned at once, all at once." | [The Weight reconstitutes entirely and drops.] | *A heavy Crimson avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Weight is summoned back. |
-| { *No Weight At All* [**Ultimate**] } | "Now nothing has weight — and without weight, nothing matters, and nothing holds." | [The Weight removes all gravity from the entire field.] | *All in range suffer Grudge pressure for three turns in the weightless void.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Return* [**Attack**] } | "Every vanished weight, every lifted burden — all returned at once, all at once." | [Everything it has ever taken up comes back into the room in the same instant, and the floor is the first thing to find out.] | *A heavy Crimson avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Weight is summoned back. |
+| { *No Weight At All* [**Ultimate**] } | "Now nothing has weight — and without weight, nothing matters, and nothing holds." | [Weight stops applying anywhere in the vault, and what is left holding the room together is the sighted straight edge and nothing else.] | *All in range suffer Grudge pressure for three turns in the weightless void.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Carrying Nothing by the sighted displacement and by the fire that leaves no ash. Emotional impression is the worst guide here: the first reported feeling is relief, and it is accurate, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** Identification rests on two things and neither of them is a feeling: the displacement that can be sighted against a straight edge, and the fire that burns without leaving ash. Relief is the first thing most observers report, it is accurate as a signal, and the file's instruction is to note it and take position before anything else is tried.
 2. **Clash:** Flerehan and Ferrehan, one Warden at a time, approach scheduled and logged. The straight edge is sighted past its back before and after. Nobody reaches for what it is holding, and nobody tells it that it is holding nothing.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not replace the missing thing with a false explanation**.
+3. **Resolution:** The watch ends with the missing thing left missing — no explanation offered in its place, no stand-in named, and nothing lifted to fill the gap. The registration carries the file's own condition: **do not replace the missing thing with a false explanation**. The whole of this dossier's difficulty sits in that clause: every failure on the holding's record began with somebody being kind about it.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Resilience**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is Carrying Nothing’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Carrying Nothing executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Failed resistance pays twice. The worker takes the raw pressure on **Resilience**, and whatever the pressure loosens in them is what the entity lives on: the Sorrow Gauge climbs on the worker’s own destabilization, and none of that half of the cost appears in any schedule.
+- Time is the emptied carrier’s ally. The longer the watch runs, the more sorrow accumulates in a worker who has nothing left to weigh against it, until the psychological, somatic and environmental collapses the classification was codified to prevent come due together, with no reason written down for any of them.
+- A M.A.W. activation is the same unyielding exchange — power for price. The parameters are cataloged in the equipment registry, which is the only account of the trade that is ever written down, and the bearer pays the balance directly, out of soul and flesh.
+- An unresolved encounter never simply ends; it converts. Carrying Nothing runs its documented breach pattern, and the sorrow that nothing pacified takes the exit the containment work left open — the one violent departure in this file that carries a stated reason.
 
 ## Appearance
 **Primary Form:** A burning humanoid figure carrying nothing, though the air around its back bends under an invisible weight. It stands motionless until approached.
@@ -173,7 +173,7 @@ The gauge here moves with the approach and says nothing about the holding. The f
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that reads light in the hand and heavy on the scale, and bends the reference edge when it is laid beside one.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
@@ -194,7 +194,7 @@ The gauge here moves with the approach and says nothing about the holding. The f
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that tightens near its source element.
+**Appearance:** a plate harness of Grudge Han-iron, dark and faintly warm, that sits on a bearer as though it were not there and leaves the shoulders bruised where the weight went.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -226,18 +226,18 @@ The gauge here moves with the approach and says nothing about the holding. The f
 
 ### M.A.W. Use Notes
 
-A piece cut from Carrying Nothing is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder's old wounds ache; prolonged use leaves faint bruising, and it is paid whether the use was correct or not.
+Nothing taken from this holding is equipment in the ordinary sense: each piece works by standing in for part of what it is used against. The toll is the file's own — old injuries ache — and it is charged whether the work was performed correctly or not, with bruising in the same lines on a long issue.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Carrying Nothing takes: the wielder's old wounds ache. |
-| **During use** | Every occurrence of what Carrying Nothing takes (the wielder's old wounds ache), timed. One is noted; a pattern across a shift ends the use. |
+| **Before use** | Wielder, piece, and a dated baseline written by the second worker: which old injuries the bearer carries and where they sit on an ordinary week, so that anything new can be set against something. |
+| **During use** | Every instance of the bearer's old injuries aching out of their usual order is entered with its hour. One is an incident note; a run of them through a shift ends the use, and the observer's clock ends it. |
 | **At limit** | The wearer's reflexes dull, as if armored by resentment, without remission. On a Carrying Nothing piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece and check the sealed baseline: has Carrying Nothing's cost — the wearer's reflexes dull, as if armored by resentment — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **After use** | Take the piece back and open the sealed baseline: are the old injuries back on their ordinary schedule, and are the bearer's reflexes where they were when the sheet was written? The answer goes into the record as the observer reads it, whether or not the bearer agrees with it. | |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** A grade here describes how cleanly the material came out of the source and says nothing about what it does to a person; a well-graded piece can still charge a toll no rating accounts for, and a modestly graded one can carry a heavy line. Read the cost column before the grade, and read the bearer's own old injuries as the meter this set runs on.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -265,10 +265,10 @@ A piece cut from Carrying Nothing is not ordinary equipment: it works by being a
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Carrying Nothing (C-IIβ-357 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge, held at Zone A in the Alpha Tree vault, approached one Warden at a time on a scheduled and logged basis. It stands still until somebody walks toward it, holds nothing with both hands, and bends a sighted straight edge by 24 millimetres.
+Carrying Nothing (C-IIβ-357 [GS]) is a Subject-Grudge manifestation expressing Grudge, held in the Alpha Tree vault at Zone A and approached one Warden at a time on a scheduled, logged basis. It stands still until somebody walks toward it, holds nothing in both hands, and bends a sighted straight edge by 24 millimetres. It stands still until somebody walks toward it, holds nothing with both hands, and bends a sighted straight edge by 24 millimetres.
 
 **Entry 2 — <Excerpt from Sighting Log, Year 4238>**
-Displacement behind the figure 24 mm by straight-edge sighting, against 17 and 11 in the two preceding years. Taken at every watch from the same two marks on the vault floor. The file still declines to name what is producing the bend and has struck the word burden from three further drafts.
+Displacement behind the figure 24 mm by straight-edge sighting, against the 17 and the 11 recorded in the two years before. Taken at every watch from the same two marks on the vault floor. The file still declines to name what is producing the bend and has struck the word burden from three further drafts.
 Carried forward from the sighting log. The two floor marks were re-cut once, at the same spacing, witnessed and recorded, and the series is treated as continuous across that cut.
 
 **Entry 3 — <Excerpt from Establishment Office Correspondence>**
@@ -287,11 +287,11 @@ The figure in the vault holds nothing with both hands and the air behind it bend
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Carrying Nothing; the other feeds it.
+> Two ways to close a watch in the vault, and the file's own failure list separates them: one leaves the missing thing missing, and the other is the kindness every relief crew arrives already wanting to offer.
 
-| Do not replace the missing thing with a false explanation — as written, without improvising. | Improvise something kinder, which is how every failure on Carrying Nothing's file began. |
+| Leave the missing thing missing: offer no explanation in its place, name no stand-in, and keep the sighted displacement and the ashless fire as the only two readings entered for the visit. | Improvise something kinder, as the file records people doing — find a reason, name the lost thing, or promise the Wardens that what is gone is somewhere — and every failure on this holding's record began with one of those three. |
 |---|---|
-| Reaches toward the worker for recognition. The sorrow is named; Carrying Nothing is fully recorded. | Fire intensifies and the hidden burden presses outward. The gauge climbs and Carrying Nothing withdraws without revelation. |
+| The displacement holds at 24 millimetres, the fire burns without ash, and the watch closes with the missing thing still missing and the vault entered as it was found. | The fire goes up and the hidden burden comes outward; the entry closes with the reference edge bent to a new figure and the vault reposted for the survey crew. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -310,14 +310,14 @@ The figure stands in the vault with its hands full of nothing, and does not move
 
 ### Interaction Pattern
 
-Carrying Nothing does not exist in isolation. Its recorded relationships with The Memory Lock, The Empty Mask, The Memory Well should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three holdings are kept within reach of the vault — The Memory Lock, The Empty Mask and The Memory Well — and not one of them is an alliance. For every pairing, enter the axis the response moved on — sound, movement, temperature, memory, pressure on the gauge, or containment stability — with the distance, the duration, the trigger and whatever residue is left once the parties are apart.
 
 **Interaction method:** Baseline alone with four clean watches of sightings, then proximity with the straight edge read at one-minute intervals from both marks. Trials are run with one Warden only, as approaches are, and the wing has run four in nine years.
 
 
 ### Entity Interaction Record
 
-Carrying Nothing must be assessed against the other absence files and kept distinct from them. The Memory Lock withholds something known to exist; the Empty Mask is a person made unfindable at their own request; the Memory Well returns what is put into it. This holding is none of those: what is gone was taken deliberately, kindly, by a competent officer, and the kindness consisted precisely in leaving no account of it.
+Carrying Nothing is read beside the other absence files, and the file keeps each of them separate. The Memory Lock withholds something known to exist; the Empty Mask is a person made unfindable at their own request; the Memory Well returns what is put into it. This holding is none of those: what is gone was taken deliberately, kindly, by a competent officer, and the kindness consisted precisely in leaving no account of it.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -374,9 +374,9 @@ Some sorrows are heavy. This one is the shape of a mercy performed correctly: a 
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification is the frame and this record is the picture, and neither of them stands in for standing in the vault. What governs is small and difficult to look at directly: a displacement that can be measured against a straight edge, a fire that leaves no ash, one Warden at a time on a logged approach, and a clause forbidding the one kindness everybody wants to perform. Where the holding does something these pages do not carry, that deviation is the most useful reading of the watch and enters the record as itself, unexplained.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Containment is a process here and not a condition of the room. After every incident, take the gauge, the field, the personnel list and the holding's position again, and re-enter exposure and location after any breach, expansion, transformation attempt or unusual interaction. What was measured last week is not evidence about this week, and the record describes a sorrow still running rather than an account anybody can finish.
 ## Watch Record
 
 ### Carrying Something Invisible
@@ -409,7 +409,7 @@ The welfare office's objection is bound into the scheme's first volume and is re
 
 ### A Burden Taken Without Being Resolved
 
-A vault sealed away something a community was carrying and the people it was taken from lost the memory of what it had been, and the commissioning material is the sealing authorisation with its schedule attached. The schedule is itemised and the items are described in administrative shorthand. The archivist's note observes that the shorthand was adequate for the clerks who wrote it and that nobody now can say what it refers to.
+A vault sealed away something a community was carrying and the people it was taken from lost the memory of what it had been, and the commissioning material is the sealing authorisation with its schedule attached. The schedule is itemised and the items are described in administrative shorthand. The archivist's note is blunt about it: the shorthand was adequate for the clerks who wrote it, and nobody now can say what it refers to.
 
 ## Trivia
 
@@ -421,7 +421,7 @@ A vault sealed away something a community was carrying and the people it was tak
 ### Registry Trivia
 
 - **Classification detail:** Carrying Nothing is a Subject with Echo (II) coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is Zone A, Alpha Tree vault.
+- **Field detail:** Grudge is its element and the Alpha Tree vault in Zone A is its registered ground — held there standing still, approached one Warden at a time. |
 - **Recognition detail:** Identify it by the sighted displacement and by the fire that leaves no ash. Emotional impression is the worst guide here: the first reported feeling is relief, and it is accurate.
 - **Record detail:** The Registrum cross-referenced The Keepers; the holding's recorded neighbours are The Memory Lock, The Empty Mask and The Memory Well, and the Keepers appear only as signatories to the sealing authorisation. Corrected.
 - **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.

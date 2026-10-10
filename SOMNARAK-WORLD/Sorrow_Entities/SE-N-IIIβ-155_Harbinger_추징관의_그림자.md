@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per successful work cycle, read off the ledger column rather than the watch |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 — three unacted announcements; the fourth has never been reached, because the interval has always closed first |
 | **Tool / M.A.W. grade** | β · Maul, Step, Charm — all three graded, two issued and one given |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.80 m/s |
-| **Resistance** | 30% against Weight pressure; 20% against other pressure types |
+| **Resistance** | 30% against Weight pressure and 20% against other types — a shadow that takes pressure the way a ledger takes entries |
 | **Activation threshold** | Sorrow Gauge ≥ 60%, or a third announcement left unacted |
 | **Sorrow Gauge [HP]** | 418/418 |
 | **Han Pressure [ATK]** | 7–17 per hit · Weight |
@@ -81,21 +81,21 @@
 | { *The Following Dark* [**Debuff**] } | "Your shadow has changed — it is taller now, wearing a coat it did not wear this morning." | [The Collector's shadow attaches to the target; it follows them.] | *Target suffers -10 Resolve; their own shadow has been replaced.* **[10 Weight DMG [Weight]]** | When the target owes a debt. |
 | { *The Lengthening Bill* [**Debuff**] } | "The shadow grows taller with every passing minute — and the taller it gets, the more you owe." | [The Collector's shadow accrues debt-interest in real-time.] | *Target loses 10 Resolve; the debt is compounding with every breath.* **[10 Weight DMG [Weight]]** | When the target tries to ignore it. |
 | { *The Shadow Hand* [**Attack**] } | "The collector's shadow reaches from your own — and its hand closes on your throat." | [The attached shadow strikes from within the target's own silhouette.] | *Inflicts Weight pressure and one wound of internal debt-collection.* **[14-22 Weight DMG [Weight]]** | When the target resists payment. |
-| { *The Full Audit* [**Attack**] } | "The collector's shadow reveals its full ledger — every debt, every interest charge — and it all comes due at once." | [The Collector's complete assessment is weaponized.] | *A heavy Black demand; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the shadow is challenged. |
-| { *Everyone Has a Shadow* [**Ultimate**] } | "The collector's shadow spreads — to every person — until every shadow wears the same coat, and every shadow carries the same ledger." | [The Collector extends its shadow across the whole field.] | *All in range suffer Weight pressure for three turns of debt-collector shadows.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Audit* [**Attack**] } | "The collector's shadow reveals its full ledger — every debt, every interest charge — and it all comes due at once." | [The whole assessment arrives at once, every line of it, and it is read out against the target rather than about them.] | *A heavy Black demand; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the shadow is challenged. |
+| { *Everyone Has a Shadow* [**Ultimate**] } | "The collector's shadow spreads — to every person — until every shadow wears the same coat, and every shadow carries the same ledger." | [The shadow stops belonging to one collector and falls behind every person in the room at the same angle.] | *All in range suffer Weight pressure for three turns of debt-collector shadows.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Harbinger by in the fixed mirrors, never by turning. Every attempt on record to face it has found it behind the person turning, confirms the approach, and takes position before anything else is attempted.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Debt Collector’s Shadow's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Review and acknowledge the debt; force cannot remove the Shadow**.
+1. **Tension:** Fix its position in the fixed mirrors, never by turning to face it: on every attempt on record to look straight at it, the shadow was behind the person who turned. Confirm the approach and take the positions before anything else is tried.
+2. **Clash:** The crew works its Work Types and its kit while the holding answers along the line recorded in its combat table; how the gauge moves decides whether the watch escalates or closes.
+3. **Resolution:** The cycle closes once the debt has been reviewed and acknowledged in full and no force has been used anywhere. The file's condition is registered in the line itself — suppression condition: **review and acknowledge the debt; force cannot remove the Shadow** — the instruction crews pay for most, because every gentler improvisation in this file's history started from wanting the matter settled faster.
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Resolve** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Harbinger’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Harbinger’s event protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow deepens where it already is and the zone becomes unworkable.
+- When resistance gives, the sorrow goes straight into the worker: **Resolve** is destroyed and the gauge is fed.
+- Stay exposed and the wound deepens: the sorrow gets past the protocol's terms and into the operative's cognition, and what it leaves — emotional, bodily, identitary — does not reverse.
+- The kit is never free: its toll on body, mind and recollection is written into the equipment records and collected on every swing.
+- A watch left unresolved fires the event protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow settles deeper into ground it already holds until the Row cannot be worked.
 
 ## Appearance
 **Primary Form:** A human-shaped shadow that follows debtors without speaking. It is visible only from the corner of the eye or in reflected light.
@@ -163,7 +163,7 @@ The gauge on this holding is a poor instrument and the wing has said so for deca
 
 - **Event type (non-breach):** Transform — what changes is the warning, not the room. Two events on record, both ended by telling people, neither by suppression.
 - **Containment priority:** Do not apply Pugnahan, which shortens the interval further. Identify every followed subject from the mirrors and have a named officer tell each of them, in person, what is pending.
-- **Sorrow Gauge on event:** Opens at 40% and rises 10% a cycle while unaddressed; it falls when the subject is told, aloud and in full, what is pending against them.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% a cycle while the matter goes unaddressed. It falls when the subject is told, aloud and in full, what stands pending against them — and nothing else has ever moved it.
 
 ## M.A.W. Equipment
 
@@ -173,7 +173,7 @@ The gauge on this holding is a poor instrument and the wing has said so for deca
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that glows along its edge the moment it is brought up to work.
 
 **Damage:** Weight 5–9
 **Speed:** 2 (Normal)
@@ -194,7 +194,7 @@ The gauge on this holding is a poor instrument and the wing has said so for deca
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a greave-plate of Weight Han-steel, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a greave-plate of Weight Han-steel, matte and unnaturally heavy, that rides closer the nearer the wearer comes to the Row.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -212,17 +212,17 @@ The gauge on this holding is a poor instrument and the wing has said so for deca
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that catches the light oddly.
+**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that takes the light without returning any of it.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 to the bearer's work on this holding; no measured effect elsewhere in the wing.
+**Effect:** +1 to the bearer's work on this holding; nothing measurable anywhere else in the wing has ever been recorded.
 
 **Ability:** The bearer knows, standing in a room, which people in it have something pending against them. Not what, and not when.
 
 **Cost:** The bearer slows, and stops in doorways, and is late to things they were early for.
 
-*The charm is given, not issued, and only to a worker who has shown a subject their own distance series when asked. Four exist.*
+*The charm is given and never issued, and only to a worker who showed a subject their own distance series when asked. Four of them exist.*
 
 ### M.A.W. Use Notes
 
@@ -232,12 +232,12 @@ The maul belongs to the mirror frames and the step to the watch. The charm is th
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Harbinger takes: the wielder carries weight for days and tires early. |
-| **During use** | Harbinger charging, which presents as this: the wielder carries weight for days and tires early. The wielder's own account is taken separately and afterwards. |
-| **At limit** | The wielder no longer notices Harbinger's toll — people forget the wearer was present. Three have been left off duty rosters by supervisors who had spoken to them that morning — which is how every stand-down on this set has been caught. |
-| **After use** | Return the piece and check the sealed baseline: has Harbinger's cost — people forget the wearer was present. Three have been left off duty rosters by supervisors who had spoken to them that morning — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, and a dated baseline written against the recorded toll — the bearer carrying weight for days and tiring early. The envelope is opened at the end of the rotation and never before. |
+| **During use** | The charge shows as the weight settling in early: days of carrying, tiring before the shift does. The bearer's own account is taken separately, and afterwards. |
+| **At limit** | The bearer stops noticing the toll at all, and the sign is not theirs to see: people forget the wearer was present. Three bearers have been left off duty rosters by supervisors who had spoken to them that morning, and that is how every stand-down on this set has been caught. |
+| **After use** | Take back the piece and check the sealed baseline: is the bearer still remembered — do the rosters still carry them, does the second worker remember the shift? Where the forgetting has outlasted the rotation, the piece stays in stores and that bearer is not issued from the Row again. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The rating measures what the kit does to a holding, not what it does to the person carrying it. The bearer's cost stands on its own line and is frequently the more dangerous figure; a low-rated piece can carry a severe personal cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -265,7 +265,7 @@ The maul belongs to the mirror frames and the step to the watch. The charm is th
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Harbinger (N-IIIβ-155 [WS]) is logged as a Subject-Phantasmal manifestation expressing Weight, semi-contained on Collector's Row, where it is watched through fixed mirrors rather than held. It follows obligations, keeps a distance that closes as they age, has never touched anybody, and announces collections before they occur, accurately, every time.
+Harbinger (N-IIIβ-155 [WS]) is a Subject-Phantasmal manifestation expressing Weight, semi-contained on Collector's Row, where it is watched in fixed mirrors rather than held anywhere. It follows obligations: it keeps a distance that closes as they age, it has never touched anybody, and its announcements of collections before they occur are accurate every time.
 
 **Entry 2 — <Excerpt from Distance Series, Subject 41, Year 4238>**
 Opening distance 11.2 m, closing to 2.4 m across nine weeks, non-monotonic, two intervals in which it lengthened. Shown to the subject on request, which is a right in the standing order and not a courtesy.
@@ -283,9 +283,9 @@ The distance is not fixed; that was the first year's error and it stood in this 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Harbinger; the other feeds it.
+> Two ways to close a watch at the mirrors, and the file prices them by what happens to the person standing in front of them: one acknowledges what is owed, and the other is the kindness that has begun every failure in this file.
 
-| Hold to the condition: Review and acknowledge the debt; force cannot remove the Shadow. | Improvise something kinder, which is how every failure on Harbinger's file began. |
+| Hold to the condition and stay with it: the debt is reviewed and acknowledged in full, and no force is applied anywhere — the Shadow has never been removed by any amount of it. | Improvise something kinder, as the record shows people doing: settle the ledger quietly, clear a name early, or take the debt onto your own books — the file traces every failure it holds back to that impulse. |
 |---|---|
 | Remains close, acknowledging shared burden. The sorrow is borne; Harbinger is fully recorded. | Becomes denser and harder to escape. The gauge climbs and Harbinger withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -306,16 +306,16 @@ You feel cold between your shoulders. When you turn, there is nothing. When you 
 
 ### Interaction Pattern
 
-Harbinger does not exist in isolation. Its recorded relationships with The Inherited Debt, The Debt Eater, The Debt Clock should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three holdings stand within reach of the Row — The Inherited Debt, The Debt Eater and The Debt Clock — and the shadow claims no alliance with any of the three. Every pairing is entered with what the answer moved — sound, movement, temperature, memory pressure, the gauge or the containment line — and distance, duration and trigger go beside whatever is still standing once the two are apart.
 
 **Interaction method:** The question is always the series: whether the distance closed faster, slower, or not at all while the other file was near, measured from the same mirrors by the same tape. Joint events on the Row are briefed on what separates the debt files, because a crew that has read the wrong one arrives looking for a balance.
 
 
 ### Entity Interaction Record
 
-Harbinger must be assessed against the other debt files and kept distinct from them. The Inherited Debt is a balance passed down; the Debt Eater removes balances; the Debt Clock counts a term. This one carries no balance, removes nothing and counts nothing: it is the interval between a decision being taken about a person and that person being told.
+This file is read beside the other debt records and kept apart from them. The Inherited Debt is a balance passed down; the Debt Eater removes balances; the Debt Clock counts a term. This one carries no balance, removes nothing and counts nothing: it is the interval between a decision being taken about a person and that person being told.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Holding within reach | How the two have crossed | What has changed in the readings | What the sheet requires |
 |---|---|---|---|
 | **The Inherited Debt** | Distinct: the Inherited Debt is a balance that descends; this one carries no balance at all and is indifferent to whose name is on the ledger. | In two proximities the series did not alter by a measurable amount in either direction. | Distance before and after, and the ledger column, which is the field crews expect to move and which does not. |
 | **The Debt Eater** | The clearest test on the file: the Eater has twice extinguished an obligation outright, and on both occasions this entity remained in place and the distance went on closing. | No change to the series. The finding is retained because it defeats the intuitive reading of the whole holding. | Date the obligation was extinguished, and the three subsequent distance readings. |
@@ -359,13 +359,13 @@ Some sorrows are about the debt. This one is about the days between somebody dec
 - It is never faced, approached, or photographed; the watch is kept in the fixed mirrors, which are cleaned on a logged schedule.
 - The distance series belongs to the subject: shown on request, inside the hour, no reason required.
 - Personnel named in an announcement are told that they have been named and come off the rotation until the interval passes.
-- The Standing Notice is a containment condition of this holding and binds every adverse decision this facility opens against a worker.
+- The Standing Notice is a containment condition of this holding, and it binds every adverse decision the facility opens against a worker.
 **Observation Notes:**
 - Distance measured at every watch from the fixed mirrors and plotted across each obligation; closes non-monotonically, with two or three lengthening intervals in a typical series.
 - Closure runs faster in the quarters with the most undisclosed decisions standing against personnel; tested against ledger totals, Row traffic, season and debt age, none of which fit.
 - Announcements have been accurate and early in every instance on record; none has ever proved false.
 **Cross-References:** Collector's Row, Zone C · the four-column position sheet and the first-year format rule · the distance series and the right of inspection · the mirror cleaning log · the three debt-office transfer requests of Y4237 · the Personnel Office submission of Year 4228 · the Year 4236 records analysis establishing the 41-day mean interval · the Y4237 Standing Notice return: 3,114 notices, 2,402 closed with no action, 77 resignations before any decision of which 29 would have been cleared, 11 record destructions and 3 prosecutions, one cleared Agent dead eight weeks into the work he took instead · The Inherited Debt · The Debt Eater · The Debt Clock
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the Collectors' offices, who supply the ledger column on the position sheet and have never asked to see what it is set beside
+**Faction Involvement:** SED, on the D-territory survey · UCD, for the Fray-adjacent ground · the Collectors' offices, who supply the ledger column on the position sheet and have still never asked to see what it is set beside
 **Originator:** Every office that settled a person's case on a Tuesday and served it on them a month later, and considered the month a mercy.
 
 ### Registry Addendum
@@ -395,7 +395,7 @@ Nothing in the existing Record is disturbed. It still follows the balance and no
 
 What it costs is the decency of the silence. Not telling people is defensible and was defended, by people who had read two decades of exit interviews saying the waiting was the worst part. The Row's position is narrower: that the interval is there whether or not we mention it, that forty-one days is the mean and we have known it to the day since Year 4236, and that the only person in the building who cannot see the shape standing behind a man is the man.
 
-The operational consequence lies entirely off the Row. Nothing done at the mirrors has ever slowed a closure — not Ferrehan, not longer watches, not the two instrumented years. The only thing that has ever moved with it is the Standing Notice: every worker against whom an adverse decision is being considered is told, on the day the file is opened, in writing, what it concerns and when it is expected to conclude, even though most of them will come to nothing. In Year 4237 that issued 3,114 notices, of which 2,402 ended in no action at all — two thousand four hundred and two people who spent a mean forty-one days in a dread they would otherwise never have known about. Seventy-seven resigned before any decision was taken, and twenty-nine of those would have been cleared; one of the twenty-nine took dockside work instead and was killed there eight weeks later. Eleven subjects destroyed records after being notified and three were prosecuted for it. The file records those beside the distance series, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
+The consequence that matters lies off the Row. Nothing done at the mirrors has ever slowed a closure — not Ferrehan, not longer watches, not the two instrumented years. The one measure that has ever answered to it is the Standing Notice: every worker against whom an adverse decision is being considered is told, on the day the file is opened, in writing, what the matter concerns and when it is expected to conclude, and most of them will come to nothing. In Year 4237 that issued 3,114 notices, of which 2,402 ended in no action at all — two thousand four hundred and two people who spent a mean forty-one days in a dread they would otherwise never have known about. Seventy-seven resigned before any decision was taken, and twenty-nine of those would have been cleared; one of the twenty-nine took dockside work instead and was killed there eight weeks later. Eleven subjects destroyed records after being notified, and three were prosecuted for it. The file records those figures beside the distance series, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
 
 ### The Companion
 
@@ -411,7 +411,7 @@ Generations lived under ledgers until the idea of collection became something th
 ### Registry Trivia
 
 - **Classification detail:** Subject, Fragment (III) coherence — relentless and patient is the file's phrase and the Row would say only that it is punctual — Moderate (β) potency, Comprehension Level 2, Subject-Phantasmal. The Registrum carried Echo (II) against this header; corrected.
-- **Field detail:** Weight; Zone C, Collector's Row, ambient. The Operational Parameters line gave the M.A.W. grade as a pair of em dashes against three graded β pieces; corrected. The threshold of 3 is retained: it is three unacted announcements, and the fourth has never been reached.
+- **Field detail:** Weight; Zone C, Collector's Row, ambient. The corrections stand as entered: the grade line in the Parameters header has been resolved against the three graded β pieces beside it, and the threshold of 3 is retained — three unacted announcements, and the fourth has never been reached.
 - **Recognition detail:** Identify it in the fixed mirrors, never by turning. Every attempt on record to face it has found it behind the person turning.
 - **Record detail:** Four debt files sit in this index and are confused constantly. Read the designation. This is the one that is not about money.
 - **Containment detail:** There is no cell. Mirrors, a tape, a four-column sheet, a right of inspection, and a rule in the personnel office about telling people on the day the file is opened.

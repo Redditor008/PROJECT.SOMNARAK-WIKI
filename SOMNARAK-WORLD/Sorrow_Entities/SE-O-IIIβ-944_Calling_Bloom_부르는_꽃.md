@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Calling Bloom.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A completed cycle lowers the pressure in the room; it does not settle what she is asking for, and the file does not pretend otherwise.
+- A raised Gauge, refused work, or an unanswered call each lead to the recorded breach, and the record names which of the three was responsible in every case.
+- Yield is traded against exposure here: the crews that draw the most Han-Energy spend longest in recovery, and the roster is built to keep those two figures apart.
+- Extraction is its own incident with its own paperwork; it is never entered as a reward for ordinary work.
 
 ## Combat Record
 ### Core Stat Line
@@ -173,9 +173,9 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 
 ### Escalation Notes
 
-- **Breach type:** Escape — she leaves containment not to harm, but to seek, which makes her far harder to turn back.
-- **Containment priority:** Do not engage with force. Send a volunteer trained in Flerehan to meet her, accept the embrace without fleeing, and sit with her until the Gauge falls.
-- **Sorrow Gauge on breach:** Starts at 50% and rises 10% per turn if unaddressed, accelerating toward *One With the Bloom*.
+- **Breach type:** Escape — she leaves the cell with no violence in mind, which is exactly the difficulty: a searcher is harder to turn back than an attacker.
+- **Containment priority:** Answer the call rather than the breach. A volunteer trained in Flerehan meets her, accepts the embrace without stepping away, and stays until the Gauge falls on its own.
+- **Sorrow Gauge on breach:** Opens at 50%; while the call goes unanswered it climbs 10 points a turn, and the shape it climbs toward is *One With the Bloom*.
 
 ## M.A.W. Equipment
 
@@ -209,7 +209,7 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 **Max Amount:** 3
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** A thin membrane of petals that absorbs Lament pressure and shields the wearer's composure. It is strongest against the very sorrow it is made of.
+**Ability:** a thin membrane of petals that takes the Lament in and holds the wearer steady. It does its best work against sorrow of the kind it was grown from — a child calling out for somebody who never answers — and is noticeably poorer against anything else.
 
 **Cost:** The wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up.
 
@@ -226,7 +226,7 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 
 **Cost:** The bearer sometimes feels watched from just above their own line of sight.
 
-*Stigmas are granted at random by Calling Bloom upon a successful work, not manufactured.*
+*Stigmas come from Calling Bloom herself — granted at the close of a successful work, never manufactured.*
 
 ### M.A.W. Use Notes
 
@@ -271,7 +271,7 @@ Every piece in this set is a fragment of Calling Bloom and carries what Calling 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Calling Bloom (O-IIIβ-944 [LS]) is logged as a Subject-Tale manifestation expressing Lament. The entity formed when a wilderness child, Nari, touched a watching flower at the heart of the Muttering Wood while searching for her brother. Held/managed in the Muttering Wood, beyond SECTOR-E-02. She wanders, calls stolen names, and bears a single watching bloom upon her crown.
+Calling Bloom (O-IIIβ-944 [LS]) stands on the register as Subject-Tale manifestation expressing Lament. The entity formed when a wilderness child, Nari, touched a watching flower at the heart of the Muttering Wood while searching for her brother. Held/managed in the Muttering Wood, beyond SECTOR-E-02. She wanders, calls stolen names, and bears a single watching bloom upon her crown.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Subject responsive to Flerehan. On entry, the patrol reports total wood-silence followed by a perfect imitation of Specialist Hanul Grey's late mother. Specialist Hanul Grey was restrained before reaching the source. The child was located at the clearing's edge — wheat-sheaf height, grey dress, a blue bloom with one eye. When addressed as "Nari," the bloom's eye half-closed and the voice stopped. Note: the danger is not the child. The danger is that the voice is always exactly right.
@@ -308,7 +308,7 @@ We sent a team to the clearing at the wood's centre. There was no flower. There 
 
 ### Interaction Pattern
 
-Calling Bloom does not exist in isolation. Her recorded relationships with The Sorrow Flower, The Kind Echo, and The Vanished Seed should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability — she quiets near other grief-entities and brightens near warmth.
+The Bloom's three entries — The Sorrow Flower, The Kind Echo, and The Vanished Seed — sit in her file as questions of kinship rather than alliances or quarrels; she quiets near other grief-entities and brightens near warmth. When two of them share a ground, the watch writes down the change: the note the petals answer with, how the stems moved, the warmth of the soil, what memory the workers were left carrying, the gauge, or whether the binding stayed true — with the range held, the length of the episode, and what began it.
 
 **Interaction method:** Observe her alone first, establishing her baseline calling-voice. Then introduce or observe the second entity and record the first shared response, the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects her reaching. Do not assume a calming interaction is safe to repeat; a relationship may change during a Sorrow Tide, breach, Ordeal, or transformation event.
 
@@ -392,7 +392,7 @@ So mind the mushrooms, child. Mind the edge. And if you hear your brother callin
 
 **Operational interpretation:** This record is valid only with the full classification above. Calling Bloom's behavior, Work Type response, activation and breach condition, M.A.W. risk, and interaction pattern must be read together — she is bait and caught-thing in the same body, and the bloom will always use the voice that works. If a future observation contradicts this record, personnel must preserve the contradiction as evidence rather than silently normalizing it; in this wood, the contradiction is usually where the truth is hiding.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Confirm containment status, Sorrow Gauge trend, personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 
 ## Warden Record
 

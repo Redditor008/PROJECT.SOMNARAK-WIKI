@@ -1,6 +1,6 @@
 # Backward Hour — 카운트다운 시계
 
-> *"It does not end. It merely pauses between heartbeats."*
+> *"The hands go backward, and every grievance in the district becomes articulate at once."*
 
 ## SECC Classification
 
@@ -88,7 +88,7 @@
 
 1. **Tension:** The bay arrives with the sealed reference clock, confirms the rate against it, and establishes which permissions are held by people in the room. The second part takes longer than the first and is the part that matters.
 2. **Clash:** Four turns, observation and endurance only, conducted from the fixed reading points rather than from any position relative to the entity, which has no position. Rates are called in at each turn.
-3. **Resolution:** The cycle ends on management or on the twelfth hour, whichever comes first, and it is always the twelfth hour. The documented condition is readings taken, presence deployed by rate, and the clocks reconciled afterwards.
+3. **Resolution:** The cycle ends on management or on the twelfth hour, whichever comes first, and it is always the twelfth hour. The documented condition is readings taken, presence deployed by rate, and the clocks reconciled afterwards. It closes against the documented suppression condition: **Sixty-one occurrences logged across the fixed-point network since the holding opened**.
 
 ### Consequences
 
@@ -222,7 +222,7 @@ Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manife
 
 ### M.A.W. Use Notes
 
-Each Backward Hour piece is an extension of this entity rather than ordinary equipment. The grade describes the effect on entities; the cost is separate and identical across the three — the bearer acquires an unappeasable objection to anything being revoked, which outlasts the occurrence by several days.
+The three pieces are not issued equipment, and the file is not being pedantic about it: each one is a part of the occurrence that has been separated off and will go back to it, and the wing treats them as lent rather than as owned. What the grade records is the effect on an entity. What it takes from the wielder is a separate entry, and it is the same entry for all three — the bearer comes away unable to let anything be revoked, will argue a warrant out loud and name the clause, and keeps at it for several days after the twelve hours have closed.
 
 ### Field Use Record
 
@@ -278,6 +278,20 @@ There is no moment of contact to describe, because there is nothing to contact. 
 
 **After departure:** The clocks are reconciled and the district is exhausted rather than relieved. Personnel report the grievance staying articulate for days, and the seven-day check exists for that.
 
+## 상호작용 (Entity Interactions)
+
+The clock runs backwards for twelve hours at a time and the sector is read at fixed points rather than by district average. It has never been read with a second holding standing inside the same fixed point. The rows below are paper work from the appendix that groups the 90x holdings by manifestation, read against each record's own series — three ways of measuring a period that will not hold still.
+
+**Interaction method:** Take the fixed-point series first: the sixty-one occurrences logged, the twelve-hour cycle, the medians recorded before and after the quarters' work. Only then set the other record's readings beside them and enter the first parting, how wide, what set it off, and whether either series moved. Re-verify at the next reading round.
+
+| What the countdown meets | How the pairing has run | What the cycle entered | What the log keeps |
+|---|---|---|---|
+| **Dead Air** `N-IIIγ-929` | Filed together on an interval that ends when it says it will. That record keeps a six-hour watch and a barometer reading at the handover; this one keeps twelve hours and a pair of clock readings that never agree with either. | The watch series and the clock series were laid together once and parted at the first mark. | That the parting is the entry, carried in the review's numbers as they came in. |
+| **Miasma** `C-IVδ-922` | Grouped on an approach that is entirely watching. That record stations two spotters and holds the doors open ten minutes by the clock; this one deploys presence by rate and reconciles the clocks afterwards. | Nothing was run. The appendix listed the two together and the review let the listing stand. | That the pairing rests on a filing line with nothing measured beneath it, entered on each repetition. |
+| **Lethe** `C-IIIγ-928` | Grouped on readings that must be scored by somebody else. That record's page is judged by an external reader; this one is reconciled afterwards, and neither holding accepts the witness's own word. | One review entry; the two procedures were set side by side and matched on the external check alone. | That the one shared step is the finding, kept as the review recorded it. |
+
+**Interaction procedure:** Nothing stands inside a fixed point in company with this holding. The comparison is made on paper at the reading round, with the fixed-point series entered first and the other record's figures laid beside it untouched; parting, width, cause and both readings go into the margin.
+
 ## 이야기 (Narratio) — The Tale
 
 The district's own account of the thing is not about clocks. Ask on Candle Row and they will tell you about the year the market licences were called in, or the stair permits, or the lamp allowance that ran for a decade and then did not — each street has its own, and each street is certain that theirs is the one the hour is about.
@@ -311,7 +325,7 @@ The entity does not rage, and that is the part the briefings underline. Twelve h
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are the valid Work Types. Both lower the gauge and lengthen the interval between occurrences, from a median of eleven days to a median of nineteen in the quarters when the bay is fully staffed.
 - Flerehan and Pugnahan are unavailable to a Time and are not to be attempted as improvisation.
-- Read the sector at fixed points, never by district average; the average has been inside tolerance during every one of the forty-one lapses and has never indicated anything.
+- Read the sector at fixed points, never by district average; the average has been inside tolerance during every one of the 41 lapses and has never indicated anything.
 
 **Cross-References:** City Sorrow (도한) · Grudge · Time-Grudge · Zone B · the fixed-point network · the revocation study · the clock warrant scheme
 

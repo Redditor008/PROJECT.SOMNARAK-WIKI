@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Grudge pressure; 35% against other pressure types |
+| **Resistance** | 45 per cent against Grudge pressure and 35 against anything else, with the file's own note that the guardian is not what a worker resists: it holds the Gate where it stands, and what the percentages describe is the rage of a post that has never been relieved. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 29–64 per hit · Grudge |
@@ -81,14 +81,14 @@
 | { *The Blocking Arm* [**Debuff**] } | "The guardian extends one arm across the gateway — and the arm is wider than the passage." | [The Guardian blocks the target; the denial of passage is absolute.] | *Target suffers -10 Resilience; they are not getting through.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Gate. |
 | { *The Warning Growl* [**Debuff**] } | "A sound — not quite a voice, not quite a roar — that says, more clearly than words: turn back." | [The Guardian's threat presses on the target; their resolve weakens.] | *Target loses 10 Resilience; the warning is not a suggestion.* **[10 Grudge DMG [Grudge]]** | When the target does not retreat. |
 | { *The Shield-Bash* [**Attack**] } | "The guardian lowers its shield and charges — and the charge does not slow down." | [A massive shield-slam from the immovable Guardian.] | *Inflicts Grudge pressure and one crushing, defensive wound.* **[14-22 Grudge DMG [Grudge]]** | When the target challenges the Guardian. |
-| { *The Sealed Gate* [**Attack**] } | "The gate slams shut behind you — and now you are on this side, and the guardian is between you and the way out." | [The Guardian seals the exit and turns on the trapped target.] | *A heavy Crimson entrapment; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Guardian is attacked. |
-| { *The Eternal Watch* [**Ultimate**] } | "Every gate in the field acquires a guardian — and every guardian says the same thing: no one passes." | [The Guardian extends its vigil to every opening.] | *All in range suffer Grudge pressure for three turns of blocked gates.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Sealed Gate* [**Attack**] } | "The gate slams shut behind you — and now you are on this side, and the guardian is between you and the way out." | [The exit is closed from the outbound side, and the figure turns to face somebody who is now, by the ledger's own rule, inbound.] | *A heavy Crimson entrapment; the gauge jumps 15 at a stroke.* **[24-36 Grudge DMG [Grudge]]** | When anyone attempts to return. |
+| { *The Eternal Watch* [**Ultimate**] } | "Every gate in the field acquires a guardian — and every guardian says the same thing: no one passes." | [The vigil spreads to every opening in the district, and each of them begins keeping the same ledger.] | *Every worker in range takes Grudge pressure across 3 turns of blocked gates.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Aegis is confirmed by an armoured figure of ancient Han-crystal, scarred, fever-hot, far above human height, standing square to the Exile's Gate with its weapon held low and never raised. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** Aegis is confirmed by an armoured figure of ancient Han-crystal, scarred, fever-hot, far above human height, standing square to the Exile's Gate with its weapon held low and never raised. Before anything else is tried the pair fixes where it will stand and how it will withdraw.
 2. **Clash:** Every approach is authorised singly and every worker states their direction aloud at the threshold before the cycle opens. Outbound and inbound are different procedures here and the holding draws no distinction the Directorate's people do not draw first.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **State the purpose of departure; do not attempt to return through the Gate**.
+3. **Resolution:** The Gate is left in containment, in management, in retreat, or standing as it always has, and the entry is made under the suppression condition: **State the purpose of departure; do not attempt to return through the Gate**. The condition is satisfied once the departing worker has said aloud where they are going and for what, and has not turned back at the threshold; a cycle that ends with anybody reaching for the inbound side is filed as a return attempt, whatever was meant by it.
 
 ### Consequences
 
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Aegis is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at SECTOR-E-01, Zone E — guards the Exile's Gate; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Treat the table as a snapshot and never as a system: the classification and the origin explain why Flerehan calms this post and agitates others, and on this file the table's own warning is that Pugnahan is not merely ineffective here but read as an attempted return. Aegis is a Subject — Subject-Body for the manifestation, Grudge for the elemental expression — standing at SECTOR-E-01 in Zone E. The ledger figure has risen on every annual return on record — 760, then 834, then 910 — and the challenge is read aloud at handover; a steady gauge is not a safe perimeter, and observation can leave the number unchanged while still exposing the worker to memory, environmental or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** A falling gauge means the immediate crisis is easing and says nothing about the sorrow underneath: on this post the count has never fallen, only slowed, and management should never be mistaken for resolution. A rising gauge means an inbound movement has been read, authorised or not, and the answer is to withdraw the cordon outward rather than to explain. The ledger figure, the stance and the weapon angle are read together; the stance has not altered in any recorded watch.
 ## Containment Event Behavior
 
 > *"Corruption event in progress. Aegis is turning the zone it stands in; nothing has left it."*
@@ -173,7 +173,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a long blade of Grudge Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
+**Appearance:** a long blade of Grudge Han-iron, dark and faintly warm, that weeps a thin film of Han when swung — carried low, as the guardian carries its own, which the armoury records as a deliberate likeness.
 
 **Damage:** Grudge 10–15
 **Speed:** 3 (Fast)
@@ -194,7 +194,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that tightens near its source element.
+**Appearance:** a plated Grudge Han-iron harness, dark and warm to the touch, that draws in near the source element — inside the cordon line the plates read heavy across the chest, and bearers take that weight as the apron's own warning about distance.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -204,19 +204,19 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Aegis's kind of pressure.
+**Ability:** Grants resistance to Grudge damage and protects the Body — physical form and structural integrity — worn against this post's particular pressure: nothing here strikes the body first, and what the harness buys is a worker who can stand at the threshold without taking up the duty.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer's reactions slow as though the body had taken on a grudge of its own, and the onset is quiet: the second worker catches it in the returning stance before the bearer notices anything at all.
 
 ### M.A.W. Stigma — The Gatekeeper's Charm
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a small charm of Grudge Han-iron, dark and warm in the palm, cast as a gate-post with the hinge worked into the ring; wardens on the apron carry it as the set's only piece small enough to hold while the challenge is being read.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 while this holding is the subject of the cycle and nothing anywhere else: the charm reads the ledger's own register, and the largest bonus in this set is also the one that cannot leave the Gate.
 
 **Ability:** Grants a minor boon tied to Aegis's sorrow; the effect mirrors the entity's nature.
 
@@ -226,18 +226,18 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Aegis and carries what Aegis carries: the wielder feels every exile they prevent from returning. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+All 3 pieces are cut from the post rather than from the figure, and they carry what the post carries: the bearer feels every exile they prevent from returning. The grade line records extraction stability and says nothing about that; the cost is in the column beside it, which is why issue here is one rotation and never longer, and why the Armoury files both against the bearer.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Aegis the recorded cost is that the wielder feels every exile they prevent from returning. |
-| **During use** | The first sign that Aegis is charging: the wielder feels every exile they prevent from returning. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The wearer's reflexes dull, as if armored by resentment, without remission. On a Aegis piece the use ends there whatever the wielder says. |
-| **After use** | Piece returned; re-assess a week later, because what Aegis takes (the wearer's reflexes dull, as if armored by resentment) does not present on the day. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline kept by a second person: can the bearer still state a purpose for leaving a room without rehearsing it? The charge on this set settles in as duty rather than as injury, and the pre-check is a question about why somebody is walking, not how they feel. |
+| **During use** | The charge shows as the duty arriving: the bearer starts counting people out of rooms, or stands square to a doorway without noticing they have done it. The hour goes into the log from the second worker's hand, never the bearer's. |
+| **At limit** | The limit is a dulling without remission — slow reactions, a stance nobody ordered — and the bearer stops reporting it as anything at all. On an Aegis piece the use ends there, and the call belongs to the observer. |
+| **After use** | The piece comes back and the bearer is re-assessed a week later, because this charge does not present on the day: the same second worker tests the returning stance and asks for the reason for the last room the bearer left, and where the answer is a duty the piece is not reissued. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The rating measures what a piece does to a holding and never what it does to the bearer; on this set the bearer's cost — a stance that arrives on its own — is filed separately and is the heavier of the two columns. Read both, authorise on cost, and treat a low-rated piece carrying that toll as the ordinary case at the apron.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced. The grade reflects the direction doctrine rather than the entity's complexity: a wing cannot work this holding safely until every member of it can state, under pressure and without thinking, which way through the threshold they are moving.
@@ -265,10 +265,10 @@ Every piece in this set is a fragment of Aegis and carries what Aegis carries: t
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Aegis (C-IVδ-200 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Guardian formed from a warrior's vow to protect the Gate until the city no longer needed it. Held at SECTOR-E-01, Zone E — guards the Exile's Gate. It has guarded the Gate for longer than current records.
+Aegis (C-IVδ-200 [GS]) carries a Subject-Body manifestation, Grudge expressed: the duty of a Gate held by one Warden who died at the post, worn now by something far above human height. It stands at SECTOR-E-01 in Zone E, square to the Exile's Gate, weapon held low and never raised. Whatever goes out is counted; nothing is counted back in, and the ledger has run that way for six centuries. The condition is to state a purpose for departure and never to attempt a return through the Gate.
 
 **Entry 2 — <Exile's Gate Watch Return, Year 4238>**
-Standing gauge 910 on the Gate ledger scale, after 834 and 760 in the two preceding returns — equivalent to 76 per cent on the operational scale, within the recorded 60 to 80 band. Weapon lowered throughout. Outbound movements unchallenged, as always. Threshold challenges made: 1,204. Challenges omitted: none.
+Standing gauge 910 on the Gate ledger scale, after the 834 and the 760 of the two returns before it — equivalent to 76 per cent on the operational scale, within the recorded 60 to 80 band. Weapon lowered throughout. Outbound movements unchallenged, as always. Threshold challenges made: 1,204. Challenges omitted: none.
 Leaves the Gate to pursue those attempting to return. Personnel feel the finality of exile and the weight of every goodbye. It does not stop legitimate exiles.
 
 **Entry 3 — <Decisions Office, standing rule>**
@@ -283,11 +283,11 @@ Field analysis confirms the sorrow accumulated over cycles at this location unti
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Aegis; the other feeds it.
+> Two ways to cross the same threshold. The file's way: say where you are going and for what, walk out, and do not look back. The other way is the one every worker considers at the line — step back toward the Gate, just to ask one thing.
 
-| State the purpose of departure; do not attempt to return through the Gate — as written, without improvising. | Improvise something kinder, which is how every failure on Aegis's file began. |
+| State the purpose of departure and walk out without a backward step — as written, out loud, at the threshold. | Turn back toward the Gate for any reason at all: the ledger reads the movement, the weapon comes up, and the file records a return attempt rather than a question. |
 |---|---|
-| The Guardian's weapon lowers and its grief becomes visible. The sorrow is named; Aegis is fully recorded. | Attacks anyone attempting unauthorized return. The gauge climbs and Aegis withdraws without revelation. |
+| The weapon lowers to the floor, the stance becomes legible, and the watch is filed with a purpose stated and an exit taken clean. | The post answers the movement: anyone inbound on the wrong side is treated as arriving, and the file gains another line about a cordon withdrawn and a worker counted out. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -296,7 +296,7 @@ The Gate stands open behind the Guardian. The figure does not move, yet every ex
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Grudge pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Body resolve into something you can name. A massive armored figure standing before the Exile's Gate. Its armor is ancient Han-crystal and its weapon remains lowered.
+**At first contact:** The senses take the cordon before the eyes take the figure: Grudge pressure arriving as weight, then a chill, then a hum with nothing humming, and only then the Subject-Body resolving out of the apron — scarred Han-crystal, fever-hot, far above human height, weapon low. Most workers report the direction of the Gate before they report the guardian, which is the file's own point: the duty is the phenomenon, and the figure is wearing it.
 
 **With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Grudge that the entity embodies. Understanding it does not make it easier.
 
@@ -306,16 +306,16 @@ The Gate stands open behind the Guardian. The figure does not move, yet every ex
 
 ### Interaction Pattern
 
-Aegis does not exist in isolation. Its recorded relationships with The Forgotten Soldier, The Exile's Gate, The Rusted Wall should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This file reads Aegis against the 3 records it has been paired with — The Forgotten Soldier, The Exile's Gate and The Rusted Wall — and all 3 are filed as resonance candidates and never as alliances or hostilities. What the three share is a duty that outlived whoever took it on, and the resemblance is why they were grouped rather than anything the grouping established. A shared event is logged by asking what the post did, what the other holding did, whether either gauge moved, and what remained after the apron emptied.
 
 **Interaction method:** Ledger figure and stance taken before and after, from the apron rail, by the same Warden, with the Gate's inbound side cleared throughout.
 
 
 ### Entity Interaction Record
 
-Aegis must be kept distinct from the other boundary holdings. The Rusted Wall keeps people out of somewhere; this one keeps the direction of travel itself, which is why it has never obstructed a single person leaving and has injured two for walking back in by the wrong door.
+Aegis belongs in a class of its own among the boundary holdings. The Rusted Wall keeps people out of somewhere; this one keeps the direction of travel itself, which is why it has never obstructed a single person leaving and has injured two for walking back in by the wrong door.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Record set beside it | Where the resemblance comes from | What has actually been observed | Entry the file requires |
 |---|---|---|---|
 | **The Forgotten Soldier** | Brought to the apron, the Soldier squares up beside it and both hold. Nothing further happens, for as long as the pairing is allowed to run. | No measurable change in either holding across five pairings of up to nine hours. | Log the stances hourly. The file retains this as the wing's clearest null result. |
 | **The Exile's Gate** | Not a pairing but a condition. The Gate's one-way function and this holding's response are the same fact observed from two sides; neither has ever been recorded operating without the other. | Outbound unobstructed; inbound answered. No reading separates the two. | Record them as one system. Attempts to work them separately are refused at authorisation. |
@@ -368,9 +368,9 @@ Some sorrows mourn a single loss. The Guardian mourns an unending procession —
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the containment-event protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** No single section carries this file: the classification, the Work Type responses and the containment-event protocol are one picture, and the picture is a post nobody relieved. What governs is exact — the register has no column for returning, the ledger has risen at every annual return (760, 834, 910), the weapon stays low unless somebody turns, and Pugnahan is prohibited rather than merely useless. Where behaviour deviates from this file, the deviation is the most important data on the holding, and it is preserved as evidence rather than smoothed over.
 
-**Review requirement:** Review protocol: following any corruption event, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every corruption event, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any corruption event, Sorrow Tide, Ordeal or interaction, confirm the gauge reading, the Fracture risk and the containment integrity before the next cycle — and at this post also take the ledger figure, the stance, the weapon angle and the challenge log, all four, at handover. Personnel who worked Flerehan get a counsellor's word on the record. The R.D. record describes a living sorrow pattern and not a permanently complete explanation.
 ## Apex Record
 
 ### The Weapon Stays Lowered
@@ -405,7 +405,7 @@ Year 4237: 4,109 final decisions; 171 errata published; 171 decisions left stand
 
 The costs are exactly what they look like. The notice returns no post, no grade, no pay and no entry — it is a true statement attached to a person who is still outside the Gate. Readers do not treat it kindly either: the Office's own survey found that a record carrying an erratum is read as a record with a history, and the people it exonerates describe being known as the ones something went wrong with. Naming the signing officer gives deciders a direct interest in resisting a finding of error, and contested errata take an average of four years, during which the person has neither the remedy nor the notice. And the whole apparatus is, by construction, incapable of altering a single outcome.
 
-The notice clerks asked for the one thing that might have made it useful: that a published erratum entitle the person to make a *fresh* application, considered at first instance as if nothing had gone before. Refused, and the refusal holds up — a fresh application following an erratum is an appeal with a new cover sheet, and appeal is the regime that filled four volumes with exhausted people and confident officers. Their submission stands in the Year 4235 return, recorded as correct and unanswered: that this Company abolished the second look so that the first one would be worth having, and has thereby built a Gate that opens one way only, through which one hundred and seventy-one people a year are correctly, finally and demonstrably wrongly put out, each of them holding a signed paper agreeing with them.
+The notice clerks asked for the one thing that might have made it useful: that a published erratum entitle the person to make a *fresh* application, considered at first instance as if nothing had gone before. Refused, and the refusal holds up — a fresh application following an erratum is an appeal with a new cover sheet, and appeal is the regime that filled four volumes with exhausted people and confident officers. Their submission sits in the Year 4235 return, correct as filed and never answered: that this Company abolished the second look so that the first one would be worth having, and has thereby built a Gate that opens one way only, through which one hundred and seventy-one people a year are correctly, finally and demonstrably wrongly put out, each of them holding a signed paper agreeing with them.
 
 ### Corrupt, Not Escape
 

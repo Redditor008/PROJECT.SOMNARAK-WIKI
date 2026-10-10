@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Grudge pressure; 25% against other pressure types |
+| **Resistance** | 35 per cent against Grudge pressure and 25 against everything else — and the numbers describe the bay more than the entity: the Well does not chase, so a crew holds against the load in the air above Bay Four rather than against anything aimed. The gauge opens full at 660 and trips at 75 per cent, and the file gives a cycle 4 turns before the rim is past the clearance. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 660/660 |
 | **Han Pressure [ATK]** | 17–39 per hit · Grudge |
@@ -81,14 +81,14 @@
 | { *The Hover* [**Debuff**] } | "The well has risen — it floats above the ground, and the water inside defies gravity, climbing." | [The Well lifts; its sorrow-water inverts, raining upward onto the target.] | *Target suffers -10 Resilience; the wrongness of it unsettles.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Well. |
 | { *The Upturned Flood* [**Debuff**] } | "The water pours upward — and you are drowning in a flood that falls from below." | [The Well's water reverses; the target is soaked from beneath.] | *Target loses 10 Resilience; they cannot find solid ground.* **[10 Grudge DMG [Grudge]]** | When the target lingers beneath the Well. |
 | { *The Whirlpool* [**Attack**] } | "The floating water spirals — and the spiral is aimed at pulling you up into it." | [A vortex of floating sorrow-water seizes the target.] | *Inflicts Grudge pressure and one drowning, spinning wound.* **[14-22 Grudge DMG [Grudge]]** | When the Well is disturbed. |
-| { *The Inverted Deluge* [**Attack**] } | "The well empties — upward, outward, everywhere at once." | [The Well releases its entire mass in an omnidirectional flood.] | *A heavy Crimson deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Well is struck. |
-| { *The Sky-Sea* [**Ultimate**] } | "The water reaches the ceiling — and now the whole room is underwater, upside down." | [The Well floods the entire field from above.] | *All personnel suffer Grudge pressure for three turns in the inverted sea.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Inverted Deluge* [**Attack**] } | "The well empties — upward, outward, everywhere at once." | [The whole of it comes out at once, sideways and overhead, and the bay is briefly a wet room in the air.] | *A heavy Crimson deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Well is struck. |
+| { *The Sky-Sea* [**Ultimate**] } | "The water reaches the ceiling — and now the whole room is underwater, upside down." | [The opening lets go overhead and the bay fills from the top down, which is the wrong direction and everybody in it knows it.] | *All personnel suffer Grudge pressure for three turns in the inverted sea.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — Floating Well is recognised by the suspension and the missing shadow; the Forge's other dark-rimmed fixtures sit on the floor and all of them cast one — then the approach is set and the positions are taken.
+1. **Tension:** Identification rests on the suspension and on the shadow that should be there and is not — every other dark-rimmed fixture in the Forge stands on the floor and casts one. The marked clearance is read at the top of the watch, the estimator is named, and the approach is set from outside it before the cycle opens.
 2. **Clash:** Four turns from outside the marked clearance, Flerehan and Ferrehan only. Rim height is read at the start and end of every turn, and nothing is thrown, lifted toward, or dropped beneath the opening.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Create a safe mourning place; do not force it downward**.
+3. **Resolution:** The cycle closes when a mourning place has been made real and reachable, on ground the mourners have some claim to stand on, and the rim has come down by itself. The file's one recorded success took 11 months of pouring at a cairn and a shelf the households built; its removal sent the rim up 17 centimetres in 9 weeks, and nothing has brought it back since. Nothing is ever forced downward: both weighted-line attempts are on file and both widened the rim.
 
 ### Consequences
 
@@ -173,7 +173,7 @@ Floating Well is a Fragment (III) Subject of Major (γ) potency, Subject-Weight 
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that flickers with inner light.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and warm in the hand, that flickers along its spine as though something inside the metal were still burning.
 
 **Damage:** Grudge 10-15
 **Speed:** 3 (Fast)
@@ -181,15 +181,15 @@ Floating Well is a Fragment (III) Subject of Major (γ) potency, Subject-Weight 
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Floating Well's grudge signature in the strike.
+**Ability:** Deals Grudge damage against the Body — physical form and structural integrity — carrying the source's signature: the wound closes cleanly and the strike leaves the struck unable to set anything down for the rest of the hour.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** Old injuries ache and prolonged use leaves bruising in the same lines. The file adds the detail the armoury keeps repeating: nothing here takes memory or composure, and the charge is still the heaviest in the bay because it attaches to the ordinary act of finishing with a thing.
 
 ### M.A.W. Suit — Floating Well Plate
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and warm, that smells of hot stone and old rain — a smell every bearer places in the Forge and none can point to.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -199,38 +199,38 @@ Floating Well is a Fragment (III) Subject of Major (γ) potency, Subject-Weight 
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Floating Well's kind of pressure.
+**Ability:** Turns Grudge aside from the Body — physical form and structural integrity — which is the only pressure this holding applies and the only kind it has ever applied. The plate is rated for a load that arrives from underneath a person's expectations, which is why the bay's own note is that it reads the shoulders and not the gauge.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** Reflexes thin and the wearer begins to move as though braced — the bay's stand-down signal, because a worker who has started carrying their own body like equipment has already stopped setting things down.
 
 ### M.A.W. Stigma — Floating Well Ring
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a ring of Grudge Han-iron, dark and faintly warm, that grows cool near its source sorrow.
+**Appearance:** a ring of Grudge Han-iron, dark and warm, that runs cool as the clearance is entered and stays cool for a day afterwards.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 on this holding's work and nothing anywhere else on the register: the ring answers the Well's own register, and it is issued to the watch that will be standing under the rim rather than the one reading the height.
 
-**Ability:** Heals minor wounds through touch.
+**Ability:** Closes minor wounds on contact and, for the length of the cycle, leaves the bearer able to put a finished tool down on the floor — the single ability in the set that the bay asks for by name.
 
-**Cost:** The wearer loses memories connected to anger.
+**Cost:** The wearer loses the memories that attach to their own anger: not the anger, which stays, and not the events, which do — the connections between them, so that grievance arrives without its evidence.
 
-*The Floating Well Ring is not manufactured and cannot be requisitioned. It has been conferred four times, in each case on a worker who stood the full cycle inside the clearance with the rim directly overhead.*
+*The Floating Well Ring is not manufactured and cannot be requisitioned. It has been conferred 4 times, each on a worker who stood the full cycle inside the clearance with the rim directly overhead — which the wing records as four people who did the one thing the procedures forbid and came out with a ring.*
 
 ### M.A.W. Use Notes
 
-Each Well piece is an extension of the entity rather than ordinary equipment. Each performs as recorded and charges the same coin: the bearer loses the ability to put a thing down and be finished with it. The suit is the worst of the three and is issued for the shortest permitted exposures.
+Each Well piece is an extension of the holding rather than ordinary equipment, and every one of the three performs exactly as recorded while charging the same coin: the bearer loses the ability to put a thing down and be finished with it. The suit is the worst of the three and goes out for the shortest exposures the register permits.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator name, grade, current gauge, psychological assessment, equipment condition, mission objective, rim height at issue, and confirmation that the clearance beneath the rim is empty and swept. |
+| **Before use** | Operator, grade, gauge at issue, equipment condition, mission objective, rim height with the estimator named, and confirmation that the floor under the rim is swept and empty — the last field existing because this holding measures its own clearance and adds whatever is left standing in it. |
 | **During use** | Activation time, rim height and diameter at each turn, apparent depth with the estimator named, air temperature at one metre, first cost paid, and anything that entered the clearance. |
 | **At limit** | Duration, activations, attribute change, rejection signs, final rim height, and whether the operator has begun carrying finished tools rather than setting them down. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, clearance re-swept and checked by the relief, reuse authorisation. |
+| **After use** | Take the piece back, re-sweep the clearance with the relief watching, and ask the bearer two questions: can they set a finished tool down, and did they carry anything home? The answers go in whether or not the gauge moved, and where the first answer is no the piece is not reissued. |
 
 **Stat interpretation:** The grade describes the effect on entities and not the cost to the bearer, which is listed separately. The cost here is dispossession of the ordinary act of setting something down, and no grade of equipment reduces it.
 
@@ -261,7 +261,7 @@ Each Well piece is an extension of the entity rather than ordinary equipment. Ea
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Floating Well (C-IIIγ-448 [O]) is logged as a Subject-Weight manifestation expressing Grudge. The Well formed from sorrow that could not be grounded. Held at Zone D, Forge District. It floats because its sorrow has no ground.
+Floating Well (C-IIIγ-448 [O]) is a Subject-Weight manifestation expressing Grudge, held in the Forge District of Zone D: a ring of old stone hanging free of the ground over Bay Four, its opening black and its shadow absent. It rose because its sorrow had nowhere to sink, and it stays up for the same reason.
 
 **Entry 2 — <Following the Han Currents>**
 Floats through the Forge District and follows Han currents. Personnel feel pressure and anger without physical source. It grows heavier around displaced workers.
@@ -273,20 +273,20 @@ The burden of carrying grief without a place to put it.
 Management: Create a safe mourning place; do not force it downward. Work response — Flerehan: Lowers toward the worker and shares sorrow. (Decrease); Pugnahan: Surges upward and releases pressure. (Increase); Viderehan: Shows the grief stored inside its depth. (Stable); Ferrehan: Tests whether the worker can remain under the floating opening. (Decrease). It becomes calm when grief is given a physical place.
 
 **Entry 5 — <The Warden Who Couldn't Protect>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+The wing keeps the account in the register rather than in a tale: 61 cleared Low Terrace households, 11 months of pouring at the last fixture left standing on ground that had already stopped being theirs, and a rim that has never touched ground since. The file enters the story because the Forge tells it that way, and the numbers beside it because the file does not.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Floating Well; the other feeds it.
+> Two ways to close a watch over Bay Four, and the bay's own instruments tell them apart within a week: one leaves the clearance swept and the rim where it was, and the other is the decent-looking thing every relief crew thinks of first.
 
-| Create a safe mourning place; do not force it downward — as written, without improvising. | Do the obvious, decent thing instead, and feed Floating Well. |
+| Make the mourning place real and reachable — on ground the mourners can stand on — and leave the rim alone to come down by itself, without improvising and without a weighted line. | Bring it down by weight, seal the opening, clear the ground it hangs over, or tidy the place somebody left standing there: all of these are on file and all of them widened the rim. |
 |---|---|
-| Lowers toward the worker and shares sorrow. The sorrow is named; Floating Well is fully recorded. | Surges upward and releases pressure. The gauge climbs and Floating Well withdraws without revelation. |
+| The rim settles by its own weight, the height series shows the first descent in years, and the watch is written up with the mourners' names in it rather than the crew's. | The rim climbs past the clearance, the load arrives on the shoulders of everyone in the bay, and the entry closes with a height the relief will have to work under. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-A well hangs above the Forge, its opening black and patient. You look down and see the grief you never placed anywhere. The Well watches because it is a mirror: it contains whatever you bring near it, including the anger you thought you had buried.
+A well hangs above the Forge with its opening black and patient, and the floor beneath it is cleaner than any other floor in the district. Look into it and there is no bottom to see; look away and your own unplaced grief is up there, circulating. The Well is not watching. It is the place things would have gone if they had ever had one.
 
 
 
@@ -300,22 +300,22 @@ A well hangs above the Forge, its opening black and patient. You look down and s
 
 ### Interaction Pattern
 
-This holding is read against the other suspended and heat-bearing features of the Forge District. Each relation below has been observed and filed; none is settled; and all three were tested on the height series rather than on impressions, impressions in this bay being unusually unreliable.
+The holding is read against the other suspended and heat-bearing features of the Forge District. Each row below was observed and filed and none is settled; all three were tested on the height series rather than on impressions, and the file says plainly that impressions in this bay are unusually unreliable.
 
-**Interaction method:** Baseline each party alone over several cycles — height, diameter, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle; a Tide, event, Ordeal or transformation can reverse a stable result overnight.
+**Interaction method:** Baseline each party alone across several cycles — height, diameter and gauge — before any joint observation, and record the onset of a shared change with its range, duration, trigger, both gauges and whatever holds after separation. Each cycle is re-verified, a Tide or transformation being enough to reverse a settled reading overnight.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. Two were proposed on the strength of a shared word in the name, which the wing now records as the weakest basis in the index and the commonest.
+The rows below are points of contact and not alliances; none is settled. Two of them were proposed on the strength of a word shared in the name, which the wing now files as the weakest basis in the index and the commonest.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Record read alongside | What the pairing actually did | What the height series showed | Entry the file requires |
 |---|---|---|---|
 | **The Spreading Well** | Said to share unseen channels with this holding, both being wells. | Five co-presences and a joint survey. This entity has no volume, no water and no channel of any kind; the Desolate network's traced ends do not include the Forge District, and no height change was recorded in any of the five. The pairing rests on the word *well* and on nothing else. | All five co-presences, the height series, and the Desolate end-map. |
 | **The Floating Tree** | Its roots are said to reach toward this holding's suspended depth. | Four co-presences at three ranges. The root attitude was unchanged in all four, the rim height was unchanged in all four, and both gauges were flat. The reaching was reported once, by eye, at nine metres, and has not been reproduced. | All four co-presences, both measurement sets, and the unreproduced sighting. |
 | **The Rage Forge** | Said to supply this entity with anger and heat, which would make it the source of the Grudge expression. | Seven co-presences, including three full Forge shutdowns. The rim height, air temperature at one metre and gauge range were identical with the Forge cold and the Forge running. The supply language is withdrawn here. | All seven co-presences, the three shutdowns, and the temperature series. |
 
-**Interaction procedure:** Solo baselines first, across several cycles, with height, diameter and gauge established for each party. Then record the first shared change, its range, duration and trigger, both gauges, and whether anything persists once the parties are separated.
+**Interaction procedure:** Solo baselines first, across several cycles, with height, diameter and gauge established for each party. Then enter the first shared change — range, duration, trigger, both gauges — and whether any of it persists after the parties are separated.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -363,7 +363,7 @@ Some sorrows find a home. Floating Well is a sorrow that could not — and so, h
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all: the suspension, the one effective remedy, the two places where that remedy worked, and the title the facility now holds over the ground they stood on are a single picture. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
+**Operational interpretation:** This file reads whole or not at all, and the parts have to be held together: the suspension, the single effective remedy, the two places that remedy has ever worked, and the title the facility now holds over the ground they stood on. Where observation contradicts the record, the record is wrong — the instruction is to write the contradiction down and leave it standing rather than normalise it.
 
 **Review requirement:** Re-verify after any event, Tide, Ordeal or unusual interaction: gauge, rim height against the scale, diameter, depth estimates with estimators named, clearance condition, gantry load tests, and the standing of the mourning points listed in the Warden Record. Height readings are never averaged across Wardens.
 ## Warden Record
@@ -430,15 +430,17 @@ The minute records the objection as **correct in all three parts**. It records t
 
 ## Trivia
 
-- There is no water. The descent inside the opening is weight, and a sounding line lowered into it in the third year came back dry and the same length as it went in.
-- It descends when a grief is given a place to rest, and only when the place is real, reachable, and on ground the mourners have some claim to be on.
+- The register keeps its own figures in numerals for look-up: gauge 660/660, pressure 17–39 per hit, resistance 35 / 25 per cent, threshold 75 per cent, 4 turns, the blade at 10–15 damage and 50 Echoes, the plate at 45, the ring at 4 per cent and +3, and 4 conferrals.
+
+- There is no water in it. What the opening descends into is weight, and the sounding line lowered in the third year came back dry and exactly as long as it went in.
+- It descends when a grief is given a place to rest, and only then, and only where the place is real, reachable, and on ground the mourners have some claim to be standing on.
 
 
 
 ### Registry Trivia
 
-- **Classification detail:** Floating Well is a Subject with Fragment (III) coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is Zone D, Forge District.
+- **Classification detail:** Subject on Fragment (III) coherence — territorial, responsive — at Major (γ) potency, a band the file attributes to the ground it occupies rather than to anything it does.
+- **Field detail:** Grudge is its element and the Forge District its registered ground — Zone D, Bay Four — where it hangs above a swept square that is the whole of its containment.
 - **Recognition detail:** Identify it by the suspension and the missing shadow; the Forge's other dark-rimmed fixtures sit on the floor and all of them cast one.
 - **Record detail:** Read this file beside the rim-height series, which is the only continuous record the holding has, and beside the clearance notice, which is the only document in it written before the entity existed.
 - **Containment detail:** The containment is a square of swept floor and the air above it. It limits where the rim may widen before it reaches people, and it does nothing whatever about the watching, which crosses the bay and is reported by Forge personnel with no containment duties.

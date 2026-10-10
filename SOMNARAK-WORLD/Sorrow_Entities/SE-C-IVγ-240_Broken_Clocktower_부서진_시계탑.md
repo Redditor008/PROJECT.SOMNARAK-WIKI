@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 40% against Weight pressure; 30% against other pressure types |
+| **Resistance** | 40% against Weight pressure; 30% against other pressure types. The second figure is defensive only: nothing on this file arrives as anything but Weight, and the field does not care what the watch was carrying when the pendulum swung. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 772/772 |
 | **Han Pressure [ATK]** | 14–31 per hit · Weight |
@@ -82,21 +82,21 @@
 | { *The Stuck Hand* [**Debuff**] } | "The clocktower's hand freezes — and so does everything beneath its shadow." | [The Clocktower stops time locally; the target is caught mid-motion.] | *Target suffers -10 Resolve; the suspended instant is heavy.* **[10 Weight DMG [Weight]]** | When the target enters the shadow. |
 | { *The Wrong Chime* [**Debuff**] } | "The tower chimes thirteen — and the wrong number makes time itself dizzy." | [The Clocktower deranges the target's sense of duration.] | *Target loses 10 Resolve; seconds stretch and compress.* **[10 Weight DMG [Weight]]** | When the target hears the chime. |
 | { *The Falling Gear* [**Attack**] } | "A gear the size of a cart-wheel breaks free and rolls down." | [A massive clockwork component crashes down.] | *Inflicts Weight pressure and one heavy, grinding wound.* **[14-22 Weight DMG [Weight]]** | When the Clocktower is struck. |
-| { *The Midnight Cascade* [**Attack**] } | "Every bell in the tower rings at once — a deafening, temporal assault." | [The Clocktower unleashes all its chimes simultaneously.] | *A heavy Black cacophony; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Clocktower is overloaded. |
-| { *Time Stops for Everyone* [**Ultimate**] } | "The tower seizes completely — and beneath it, time refuses to move for anyone." | [The Clocktower freezes the entire field in one impossible hour.] | *All personnel suffer Weight pressure for three turns in stopped time.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Midnight Cascade* [**Attack**] } | "Every bell in the tower rings at once — a stroke the mechanism has been holding back since 3:47, arriving all of it at the same moment." | [The tower releases the withheld stroke in the only form it can take.] | *A heavy Weight surge; the target's Sorrow Gauge climbs 15%.* **[24-36 Weight DMG [Weight]]** | When the tower is overloaded inside the field. |
+| { *Time Stops for Everyone* [**Ultimate**] } | "The pendulum stops mid-swing — and the whole field holds its breath with it, waiting on a conclusion that is not coming." | [The dilation field closes on everything inside it at once.] | *All personnel take Weight pressure for three turns of a moment that will not conclude.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — Broken Clocktower is recognised by the drift on a carried timepiece and by a bell chamber that is inspected through a port and never opened. Emotional impression is unreliable: observers consistently misjudge how long they have been inside — then the approach is set and the positions are taken.
+1. **Tension:** Identification first, and here identification is procedural: the field is found by the drift on a carried timepiece and by a bell chamber that is inspected through a port and never opened. Nobody identifies this holding by feel, because everybody inside it misjudges the time — consistently, and in both directions. Then the watch is set against the facility clock, the positions are taken, and the instruction is given once.
 2. **Clash:** Viderehan and Ferrehan only, watch timed to the facility clock, sealed timepiece carried and surrendered on exit. One instruction, given once. The second instruction — issued because the first appeared to have been ignored — is the cause of every incident on this file.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Accept that the moment cannot be changed; limit exposure**.
+3. **Resolution:** The watch ends when the external timekeeper calls it against the facility clock, one instruction has been given once, and the timepiece has been surrendered at the port and reconciled by the bench. Nothing above the stair is concluded by the watch and nothing is meant to be: accept that the moment cannot be changed, limit the exposure, and enter the drift beside the observer's name.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resolve** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks Broken Clocktower’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Broken Clocktower defaults to its documented activation or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Personnel who stay in the field past the called watch do not fail dramatically; they keep working, because the thing this holding takes is the ability to tell how long they have been there. The recorded injury on this file is the second instruction, not the weight, and the distinction is the whole of the caution.
+- Stay past the called watch and the tower brings its whole documented manifestation with it: the emotions erode first, somatic trauma follows, then the identity goes, and last the environment is corrupted beyond repair. That order is the file’s own, and the fourth of them is why the watch length is called out loud instead of left to judgement.
+- Every activation of an M.A.W. piece charges the bearer in full: intimate memories, physical sensation, years of life. The equipment specification lists all three, and the field collects them at the moment of use from whoever is holding the piece.
+- Left unresolved, the tower falls back on the activation or expansion behavior its dossier documents. Containment refused, grief with no channel to run in cuts an outlet for itself, and the cutting is catastrophic rather than contained.
 
 ## Appearance
 **Physical Form:** A broken tower with a clock frozen at 3:47. Its gears turn without moving the hands.
@@ -151,8 +151,8 @@ The gauge on a site holding is a shift reading. The figure that is kept is the d
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
-> **This Relic is Capable of Sector / Facility Alteration**
-> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+> **This Relic is Capable of Sector Alteration — the field, not the fabric**
+> **This Relic bleeds channel resonance when the pendulum is left untended**
 
 **Activation Trigger:** Manual rotation of the escapement wheel, which is performed only under the Tool protocol, or an abrupt change in the pressure at the tower base.
 
@@ -171,7 +171,7 @@ The gauge on a site holding is a shift reading. The figure that is kept is the d
 | **Activation** | Escapement rotation under Tool protocol, or an abrupt pressure change at the base. |
 | **Primary Effect** | Six-metre field in which everything issued arrives about two turns late, symmetrically. |
 | **Duration** | Continuous. The pendulum does not stop; the channel is closed deliberately. |
-| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Weight resonance across the sector. |
+| **Termination / Return** | The channel is closed deliberately by the operator, on the call of somebody standing outside the field; releasing the conduit without closing it vents uncontained Weight resonance across the sector, which is why the closing order is never given from inside. |
 | **Risk** | Symmetrical slowing of your own people; half a minute of disorientation on crossing out. |
 
 **Operational Rule:** The channel requires an operator who is being timed by somebody outside the field. An untended channel destabilises, and an operator inside it is the last person able to judge how long it has been open.
@@ -180,14 +180,14 @@ The gauge on a site holding is a shift reading. The figure that is kept is the d
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Broken Clocktower begins thrumming as the channel opens; a palpable wave of weight sorrow sweeps across the containment chamber. | Opening the channel activates Broken Clocktower: Projects a six-meter temporal dilation field, locking hostile action slots and delaying attacks by 2 turns. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the weight of waiting inside an event with no conclusion. forged during an accident at 3:47 left the tower and its witnesses trapped in an unresolved instant. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Broken Clocktower's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
-| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Weight shockwave: Allies within the field are also slowed; exiting the perimeter causes severe temporal nausea. all personnel in the sector take heavy damage. |
+| 10 Seconds | The gears wake first. The hands stay where they have always been and the mechanism behind them starts, and Weight sorrow fills the chamber arriving half a second behind whatever should have caused it. | Opening the channel raises the six-meter dilation field around the tower: hostile action slots lock and anything aimed at the team lands 2 turns late. Units held in the same chamber read steady Sorrow Gauges, since the field delays the reading as readily as the blow. |
+| 30 Seconds | Thirty seconds on, the channel is carrying the memory the tower is stuck inside: the weight of waiting through an event that never concluded. The accident at 3:47 forged it, leaving the tower and everyone who saw it held in one unresolved instant, and the worker hears that instant still running rather than recalling it. | Range Band 2 sits inside the field's reach, and elemental pressure lands lighter on every allied unit in the sector while the channeler is still attending to the tower. Nothing here runs itself; the field stops the moment the attending stops. |
+| 1 Minute | One minute on, the tower has stopped spending the facility's supply and has started spending the channeler. An event never allowed to finish is heavy in a way machinery is not, and it stands on the chest of whoever is holding the channel open. | Past 60 seconds the draw runs at 4 Composure in each 10. The disengagement is settled before the field goes up, because inside it nobody can tell how long they have been settling it. |
+| 2 Minutes | At two minutes the current turns round. The grief held in the tower since 3:47 comes back down the channel into the facility looking for somebody to finish inside, and the nearest living person is the one keeping it open. | Overload, or a hand let go mid-second, vents Weight into the sector, and heavy damage lands on everyone standing inside it. The field keeps both of its own warnings on the way out: allies inside are slowed along with everything else, and crossing the perimeter brings severe temporal nausea. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Clocktower: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Place-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at Zone C, near Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern on this file is procedural rather than physical. Personnel record the trigger — escapement rotation under Tool protocol, or an abrupt pressure change at the tower base — the field radius, who was inside it when the external timekeeper called the withdrawal, and the carried drift on exit. Because the pressure is Weight and the holding sits in Zone C, near Collector's Row, the physiological indicators are logged beside the physical ones rather than behind them; and because everybody inside the field misjudges the interval, no escalation entry may rest on a worker's own sense of how long it lasted.
 
 **Response sequence:** Confirm the watch length against the facility clock, withdraw on the clock rather than on judgement, surrender the timepiece at the port, and let the bench reconcile it. Do not re-issue an instruction that appears to have gone unheard.
 
@@ -211,9 +211,9 @@ The escalation pattern is specific to Broken Clocktower: it is not a generic con
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-Appearance : A wide, double-edged arming sword forged from silvered steel, measuring ninety-five centimeters overall with a cruciform crossguard, rounded disc pommel, and a supple black leather wire-bound grip.
+Appearance : The piece issues as a broad arming sword in silvered steel, double-edged, ninety-five centimeters from its rounded disc pommel to the point, with a cruciform crossguard and a grip bound in soft black leather wire. It sits heavier in the hand than ninety-five centimeters of steel should, and swung inside the tower's field it lands a beat behind the arm that moved it.
 
-The central fuller runs two-thirds of the blade, engraved with four ceremonial mercy seals in Old Script. Under impact, the blade dampens acoustic resonance, striking with dull, cushioned concussions rather than sharp ringing.
+A central fuller runs two-thirds of the blade and carries four ceremonial mercy seals cut in Old Script. Nothing this edge strikes rings: the steel damps acoustic resonance on impact, so every blow lands as a dull cushioned concussion. That is the holding's own register, and the piece keeps it whether or not it is swung inside the field.
 
 **Damage:** Weight 7-12
 **Speed:** 3 (Fast)
@@ -221,15 +221,15 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Broken Clocktower's weight signature in the strike.
+**Ability:** Deals Weight damage against the Han — sorrow reserves and karmic debt — in the holding's own dulled register: no ringing, no rebound, and the weight arrives after the blow does, because inside the field everything issued arrives late.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder grows progressively heavier with each strike, and prolonged use ages them slightly; both figures are entered against the piece at the end of the rotation rather than carried by the bearer's own estimate.
 
 ### M.A.W. Suit — The Frozen Mantle
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
+**Appearance:** a lead-heavy mantle woven from Weight Han-fibre, matte rather than mended, hanging the way wet canvas hangs and carrying the tower base's wet-stone smell rather than the wearer's.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -241,17 +241,17 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Broken Clocktower's kind of pressure.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** the fatigue does not lift for the length of the rotation, and the mantle is taken off the wearer at the port by somebody else, because the wearer's own reading of how heavy it has grown is the one this file does not trust.
 
 ### M.A.W. Stigma — The Frozen Minute
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a minute-token of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a minute-token of Weight Han-steel, matte and lead-heavy, that turns cold as it nears the holding and lives in the bench's materials drawer rather than the timepiece ledger, at the bench's own written request.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 to the bearer's work on this holding. The horology bench records no measured effect anywhere else and has asked twice that the charm not be described as a timepiece.
+**Effect:** +2 to the bearer's work on this holding, nothing measurable anywhere else, and two requests on file from the horology bench that it not be entered as a timepiece.
 
 **Ability:** Slows perception for one brief interval.
 
@@ -261,18 +261,18 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 ### M.A.W. Use Notes
 
-These pieces are Broken Clocktower in miniature. What they give is listed above; what they take is the wielder feels progressively heavier; prolonged use ages them slightly, and the Armoury records both against the wielder rather than against the piece.
+The set is the tower in three pieces: a blade that lands late and dull, a mantle that adds weight no watch can take off, and a token that slows one interval and takes part of its bearer's years to do it. The giving column is above; the taking column is entered against the wielder at the end of the rotation, not against the piece, and the Armoury reconciles the two at the bench.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Broken Clocktower's known toll: the wielder feels progressively heavier. Opened at the end of the rotation, not before. |
-| **During use** | The first sign that Broken Clocktower is charging: the wielder feels progressively heavier. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | Broken Clocktower's cost is continuous rather than occasional: the wearer carries a constant low fatigue. The second worker's call stands against the wielder's. |
-| **After use** | Piece returned; re-assess a week later, because what Broken Clocktower takes (the wearer carries a constant low fatigue) does not present on the day. |
+| **Before use** | Bearer named, piece named, gauge at issue, and the toll the file already knows — growing heaviness and the low fatigue — sealed as a baseline and opened at the rotation's end, not before. |
+| **During use** | The charging sign is heaviness the bearer can feel but cannot set down. The second worker logs it with the hour; the wielder does not log it at all, because this set's whole caution is that a bearer's own sense of weight and time is the reading not to trust. |
+| **At limit** | The toll does not come and go: the wearer carries it continuously, so the low fatigue is the limit rather than a settling-in, and the stand-down is called by the second worker and not by the wearer. |
+| **After use** | Returned to the fixture; read again a week out, because the low fatigue and the weight that does not entirely lift do not show on the day the piece comes back. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade records how cleanly the archetype came off the tower, not what it takes from the bearer. A γ piece performing to specification can still return a wearer heavier than they were issued and permanently short of a portion of years; the second number, not the grade, is what the Armoury sets the rotation around.
 
 ## 관찰 기록 (Observation Log)
 
@@ -301,7 +301,7 @@ These pieces are Broken Clocktower in miniature. What they give is listed above;
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Broken Clocktower (C-IVγ-240 [WP]) is logged as a Place-Weight manifestation expressing Weight, held at Zone C near Collector's Row, worked on timed watches with sealed carried timepieces reconciled by hand. The hands read 3:47, the gears turn, the bell does not strike, and the inquiry into the accident of Year 4222 is open.
+Containment description for C-IVγ-240 [WP], the holding called Broken Clocktower: a Place-Weight manifestation expressing Weight, held at Zone C near Collector's Row and worked on timed watches with sealed carried timepieces reconciled by hand. The hands read 3:47, the gears turn, the bell does not strike, and the inquiry into the accident of Year 4222 is still open in its sixteenth year.
 
 **Entry 2 — <Excerpt from Drift Log, Year 4238>**
 Mean carried drift 31 seconds per watch-hour against 23 and 14 in the two preceding years, reconciled by hand at the bench. Uncorrelated, as before, with watch length, proximity, observer, or facility hour. Correlated, as of this review, with something outside this file.
@@ -319,9 +319,9 @@ The hands have read 3:47 since the tower was found, and the gears behind them ha
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Broken Clocktower; the other feeds it.
+> What the observing worker is asked to do at the close of contact: keep the condition — the moment cannot be changed, so the exposure is limited — or depart from it, as the file's own incidents show people do for good reasons.
 
-| Do the thing on file: Accept that the moment cannot be changed; limit exposure. | Depart from the condition for good reasons, as Broken Clocktower's record shows people do. |
+| Do the thing on file: accept that the moment cannot be changed and limit the exposure — watch called from outside, one instruction given once, timepiece surrendered sealed at the port. | Depart from the condition for good reasons, as the file's own incident record shows people doing, and feed Broken Clocktower. |
 |---|---|
 | Tests the worker inside stretched time. The sorrow is borne; Broken Clocktower is fully recorded. | Shows the event frozen at 3:47. The gauge climbs and Broken Clocktower withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -338,11 +338,11 @@ The hands do not move and the gears do. You check the sealed piece at your belt 
 
 **When the entity activates:** The shift happens between one breath and the next. The Place-Weight crosses from presence to action, and the Weight goes from weather to weapon.
 
-**After departure:** After contact, the body holds what the mind files away. The Weight is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** The Weight lifts at the perimeter and the interval does not: workers report an hour that felt like four, and four that felt like one, in both directions, and the bench enters the discrepancy beside the drift figure rather than explaining it away.
 
 ### Interaction Pattern
 
-Broken Clocktower does not exist in isolation. Its recorded relationships with The Broken Clock, The Cracked Hourglass, The Final Door should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Broken Clocktower is filed beside three other time-holdings and shares nothing with them but the furniture of clocks. When one is brought near, the trial records what changes in the carried drift, the field radius, the bell seal's inspection entry, and the external timekeeper's log; nothing about the pairing is entered as intention on either side, and a trial whose pieces were opened before the bench saw them is void.
 
 **Interaction method:** Baseline alone, then proximity with carried pieces on both holdings and an external timekeeper for each. Trials are reconciled at the bench before anything is concluded, which means a result takes a fortnight and the wing runs at most two a year.
 
@@ -351,7 +351,7 @@ Broken Clocktower does not exist in isolation. Its recorded relationships with T
 
 Broken Clocktower must be assessed against the other time files and kept distinct from them. The Cracked Hourglass is a term running out; the Broken Clock is a reading that is wrong; the Final Door is an ending that arrives. This holding is the opposite of all three: an event that has not been declared over and cannot be, with the people it happened to still inside the minute and still, formally, witnesses.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
 | **The Broken Clock** | A reading that is wrong against an event that has not been declared over. The resemblance is in the furniture, not the mechanism. | Three proximities. No transfer, no bond, no change in carried drift beyond the established rate; the Clock's reading did not move toward 3:47. | Carried drift on both holdings, external timekeeper logs, bench reconciliation. |
 | **The Cracked Hourglass** | A term running out beside a term that will not start. Opposed cases, frequently confused by visiting reviewers. | Two proximities. The Hourglass ran at its own rate throughout and this holding's drift was 29 and 32 seconds per watch-hour, within rate. Recorded as a nil result. | Carried drift, the Hourglass's own run figures, bench reconciliation. |
@@ -405,9 +405,9 @@ Some sorrows are about loss. This one is about a protection against being told t
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Three figures govern this record and only one of them moves. The clock does not: 3:47 since the tower was found, gears turning behind hands that have never advanced. The watch length does not, because it is called from outside on the facility clock and the worker's own sense of it is recorded and never acted on. The drift does: 14, 23 then 31 seconds per watch-hour across three annual means, reconciled by hand at the bench, and the amendment this file has carried in nine years is that it tracks the aggregate age of the Directorate's open death inquiries rather than anything about the tower. Read the drift against the register, not against the shift; and read the incident column when the question is what actually goes wrong here, because every entry in it begins with an instruction given a second time.
 
-**Review requirement:** After any activation, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every activation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** At every watch: the field radius walked, the bell seal inspected through the port and not opened, the timepiece surrendered unopened at the port, the drift reconciled by hand against the facility standard, and the watch length entered from the external timekeeper's clock. Any instruction given more than once is reviewed as an incident whether or not anything followed it, and any proposal touching the bell is entered in the declining memoranda and not acted on. The review records the figures and closes nothing: the inquiry above this holding is sixteen years old and is not required to conclude.
 ## Apex Record
 
 ### 3:47
@@ -462,10 +462,10 @@ Timepieces issued for the file are drawn from a dedicated set, numbered, and ret
 ### Registry Trivia
 
 - **Classification detail:** Broken Clocktower is an Object/Place with Entity (IV) — Self-aware, time-obsessed coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is Zone C, near Collector's Row.
+- **Field detail:** Its defining element is Weight, and its registered location is Zone C, near Collector's Row — Old Lament being where the witnesses' families live rather than where the tower stands.
 - **Recognition detail:** Identify it by the drift on a carried timepiece and by a bell chamber that is inspected through a port and never opened. Emotional impression is unreliable: observers consistently misjudge how long they have been inside.
 - **Record detail:** The Registrum gave the site as Old Lament; the holding is in Zone C, near Collector's Row, and Old Lament is where the witnesses' families live. Corrected, and the distinction kept.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Containment here is a watch length, not a wall: the field cannot be shut and the bell is not to be rung, so what holds the situation is the external timekeeper, one instruction given once, and the timepiece surrendered sealed at the port. Nothing is repaired by it; the tower is left exactly as broken as it was found.
 ## Document Information
 
 **Document ID:** SE-C-IVγ-240

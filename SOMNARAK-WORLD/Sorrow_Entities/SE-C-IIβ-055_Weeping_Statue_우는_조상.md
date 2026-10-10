@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types |
+| **Resistance** | 25% against Lament pressure, 15% against other pressure types — read at the pool's edge, since nothing here has ever been struck in anger and Pugnahan's nineteen logged attempts returned no response at all. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 394/394 |
 | **Han Pressure [ATK]** | 9–22 per hit · Lament |
@@ -81,21 +81,21 @@
 | { *The Stone Tears* [**Debuff**] } | "Tears of grey stone run down its face — and they do not stop." | [The Statue weeps; the slow stone-tears pool at the target's feet.] | *Target suffers -10 Composure; the grief is heavy and still.* **[10 Lament DMG [Lament]]** | When the Statue is regarded. |
 | { *The Frozen Mourning* [**Debuff**] } | "Its sorrow is so old it has turned to stone — and now yours begins to harden too." | [The Statue's petrified grief spreads; the target feels themselves slowing.] | *Target loses 10 Composure; their movements stiffen.* **[10 Lament DMG [Lament]]** | When the target stands too long in its shadow. |
 | { *The Heavy Hand* [**Attack**] } | "A stone hand, raised in eternal grief, comes down." | [A slow, massive blow from a fist that has mourned for centuries.] | *Inflicts Lament pressure and one crushing, cold wound.* **[14-22 Lament DMG [Lament]]** | When the Statue is provoked. |
-| { *The Cracking* [**Attack**] } | "The statue cracks — and the grief held inside for so long bursts out." | [The Statue fractures, releasing the centuries of sorrow within.] | *A heavy Deep Blue rupture; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Statue is struck or damaged. |
-| { *The Monument* [**Ultimate**] } | "It plants itself and becomes a monument to grief that will never be moved." | [The Statue settles into permanence, radiating petrified sorrow outward.] | *All in range suffer Lament pressure for three turns as grief hardens.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Cracking* [**Attack**] } | "The stone cracks — and what comes out of it is what three generations were taught to hold." | [The Statue fractures along a tear track, releasing the grief it was made of.] | *A heavy Deep Blue rupture; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Statue is struck or damaged. |
+| { *The Monument* [**Ultimate**] } | "It plants itself and becomes what it was always going to be: a monument to a grief the city put on the books." | [The Statue settles into permanence and the pool advances outward, taking floor it will not give back.] | *All in range suffer Lament pressure for three turns as grief hardens.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — Weeping Statue is recognised by pedestal, stain line and designation. The face is not a recognition marker and is excluded from the description on file — then the approach is set and the positions are taken.
+1. **Tension:** Identification is pedestal, stain line and designation, and the face is excluded on purpose: the description on file is generic because a precise one would be a description of whoever wrote it. Measure the stain line first — it is the one figure on this holding that has never gone backwards — then set the approach and take positions at the pool's edge.
 2. **Clash:** Four turns. Personnel sit within the pool's edge and do not speak; the entity continues exactly as before. Nothing in the record describes it responding to a party as a party rather than to the people in it.
 3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: **share the grief, and do not drain or break the tears**. A crew that leaves dry-eyed has not failed; a crew that drains the pool has.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
-- Weeping Statue’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Weeping Statue's dossier.
+- A worker who cannot hold at the edge becomes a conduit: the pooled grief moves through them, **Clarity** goes, and the gauge ends up reading what they took rather than what they were told.
+- Duration is the whole of the danger here: crews come off on the clock and never on a reading, because the pressure builds in the people present well before the gauge registers it. Three Wardens have asked to stay past the limit and all three were removed from the rotation, which is the rule and not a sanction.
+- Each M.A.W. activation is a debit paid by the wielder and not by the piece: the bearer who uses it to stay composed loses the ability to cry at all, for years, and the ledger records that outcome rather than an amount.
+- Without resolution the grief neither dissipates nor travels: it turns inward on the holding's own zone, and the floor the pool takes in an hour is not given back at any later date.
 
 ## Appearance
 **Physical Form:** A weeping statue carved of dark stone, robed and bowed, tears solidifying at its feet. **Movement:** Stationary — a statue; it does not move from its pedestal, only weeps.
@@ -181,8 +181,8 @@ Weeping Statue is a Subject with Subject-Lament manifestation and Lament express
 
 **Category:** BLADES / UNIQUE (Chiseled Travertine Stiletto & Silk Ribbon Guard)
 **Grade:** β | **Element:** Lament
-**Damage:** Lament 6–10
-**Speed:** 4 (Fast)
+**Damage:** Lament 5–9
+**Speed:** 2 (Normal)
 **Range:** 2 (Short: 1.2m reach)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
@@ -281,7 +281,7 @@ Each Weeping Statue piece is an extension of held-in grief rather than ordinary 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Weeping Statue (`C-IIβ-055 [LS]`) stands in the Echo Gardens at SECTOR-D-02, weeping without pause. It has never attempted to event. Its tears harden at its feet into Echo-stones, which are collected on a schedule, weighed, and banked.
-Weeping Statue (C-IIβ-055 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Statue formed from grief that people were unable to express. Held at SECTOR-D-02, Echo Gardens — contained. The Statue has never attempted to event; only its tears expand.
+Weeping Statue (C-IIβ-055 [LS]) is carried on the wing's register as a Subject-Lament manifestation expressing Lament. The Statue formed from grief that people were unable to express. Held at SECTOR-D-02, Echo Gardens — contained. The Statue has never attempted to event; only its tears expand, and the stain line they leave is a cumulative record of every expansion since the holding opened.
 
 **Entry 2 — <The Tears Overflow>** The statue stays fixed and the pool crosses the containment line. Personnel standing in it experience their own grief, amplified and specific; the effect cannot be induced in anyone who has none, which has been tested twice and will not be tested again. Each tear carries its own signature and no signature recurs.
 The Statue remains fixed; its tears overflow through the containment zone. Personnel standing in the tears experience amplified personal grief. Every tear carries a distinct emotional signature.
@@ -297,11 +297,11 @@ Management: Share the grief. Do not drain or destroy the tears.  Personnel repor
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Weeping Statue; the other feeds it.
+> What the cycle comes down to: sit with the grief and let it move through the people present, or reach into the pool and take something out of it.
 
-| Share the grief. | Improvise something kinder, which is how every failure on Weeping Statue's file began. |
+| Share the grief: sit at the pool's edge, do not drain, divert or break the tears, and let the flow slow for whoever weeps beside it. | Take from the pool — drain it, divert it, or carry the hardened tears off to the bank — which is how all three recorded drainings began, each followed within the hour by a doubled flow and a permanent advance of the stain line. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is witnessed; Weeping Statue is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Weeping Statue withdraws without revelation. |
+| The flow slows for some hours, the stain line is re-measured and holds where it was, and the cycle is written up as a success because the floor is what is measured. | The flow doubles within the hour, the stain line advances and does not come back, and the gauge climbs by 10% for every metre of floor lost. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -374,10 +374,10 @@ Some sorrows are released. Weeping Statue is a sorrow that was forbidden to rele
 - Flerehan and Ferrehan lower the gauge; Viderehan is informative and leaves it stable; Pugnahan is inert and is not to be attempted again.
 - Do not drain, divert, or break the tears under any circumstances. Measure the stain line each cycle, weigh each collection, and keep the collection record and the work record in separate files.
 **Observation Notes:**
-- Formed from generations of uncried grief.
-- Composed in posture, weeping in fact.
+- Formed from generations of uncried grief; the weeping has run for 61 years with no attempt to event recorded in any of them, and three drainings (years 8, 9 and 22) each doubled the flow and advanced the stain line permanently.
+- Composed in posture, weeping in fact. The Y4239 Mint assay submitted 1,100 collected stones blind against 1,100 circulating Echoes and could not separate them; the yield runs at roughly 480 Echoes a year and rose 41% in the two years after the Gardens opened to the public.
 **Cross-References:** Zone D · The Echo Gardens · The Veil · The Consolihan · the Mint assay of Y4239 · the Gardens access schedule · the yield-linked budget line
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
+**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the Mint assay office (Y4239 certificate) · the Keepers' collection schedule
 **Originator:** Citizens taught to remain composed and useful.
 
 ### Registry Addendum

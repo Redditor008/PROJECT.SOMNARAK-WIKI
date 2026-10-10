@@ -144,7 +144,7 @@
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Unsaid Blossoms is recorded as an Object/Place with Place-Lament manifestation and Lament elemental expression. The current record places it at SECTOR-D-02, Echo Gardens; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The behavior table is a diagnostic and not a prescription: the classification is what tells a crew which Work Type settles the place and which one stirs it. The record here is an Object/Place with Place-Lament manifestation and Lament for its element, held at SECTOR-D-02 in the Echo Gardens, and lessons learned on an entity with a similar name do not carry across. Nor does a flat gauge license anybody: a watch can leave the reading untouched while the worker still walks away with memory, environmental or identity effects.
 
 **Reading the response:** Success is an unrounded count and an unread store. The gauge is not the instrument here and never has been; the fall is, and the fall is set before the counting party arrives. A day lost to a raised voice is lost permanently, and fifty-two years of this series exists because four Wardens in succession would not estimate.
 ## Expansion Behavior
@@ -277,7 +277,7 @@ The set is built around saying a thing while there is still somebody to hear it,
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Unsaid Blossoms (C-IIβ-100 [LP]) is logged as a Place-Lament manifestation expressing Lament: one marked grave at SECTOR-D-02 in the Echo Gardens, beneath a living cherry whose blossoms are pale crystal, which open out of season, close when anybody speaks aloud inside the marker ring, and fall in still air. The grave is empty and was opened once, in Year 4209, to establish it. Its instrument is the day's fall — nine to three hundred and eighty blossoms, counted individually and stored unread — and for fifty-two years the heavy days have followed sealed-zone incidents in this facility.
+Unsaid Blossoms (C-IIβ-100 [LP]) stands on the register as a Place-Lament manifestation expressing Lament: one marked grave at SECTOR-D-02 in the Echo Gardens, beneath a living cherry whose blossoms are pale crystal, which open out of season, close when anybody speaks aloud inside the marker ring, and fall in still air. The grave is empty and was opened once, in Year 4209, to establish it. Its instrument is the day's fall — nine to three hundred and eighty blossoms, counted individually and stored unread — and for fifty-two years the heavy days have followed sealed-zone incidents in this facility.
 
 **Entry 2 — <Excerpt from the Graveside Count Book, SECTOR-D-02, Year 4238>**
 No physical body has been recovered beneath the grave.
@@ -304,9 +304,9 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Unsaid Blossoms; the other feeds it.
+> The visit closes on one decision, and the file keeps its two endings on it: speak honestly at the grave and leave the blossoms where they are, or take a hand to the tree because the moment seems to ask for it.
 
-| Speak honestly at the grave; do not remove blossoms. | Substitute your own judgement, which on Unsaid Blossoms has never yet cost less than the condition. |
+| Speak plainly at the grave; leave the blossoms untouched. | Trust your own judgement instead, which on this grave has never once come cheaper than the clause. |
 |---|---|
 | The fall is counted whole and entered unrounded on a day when the figure will embarrass the net office, and the store is closed unread. The sorrow is witnessed; Unsaid Blossoms is fully recorded. | The figure is estimated, or a voice is raised inside the ring and the bloom shuts. The day is void in a fifty-two-year series and stays void; nothing else changes, because the tree was never performing for anybody. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -327,7 +327,7 @@ The air inside the ring is heavy enough that you find yourself not speaking, and
 
 ### Interaction Pattern
 
-Unsaid Blossoms does not exist in isolation. Its recorded relationships with The Whispering Walls, The Silent Bell, The Weeping Statue should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The grave keeps three names on its books beside the blossoms — The Whispering Walls, The Silent Bell and The Weeping Statue — and what runs between them is neither friendship nor quarrel, only a question the file asks again each time. Any watch that stands two of them together must say plainly what altered: how the place sounded, whether anything moved, the chill or warmth in the soil, the memory pressure on the worker, the figure on the gauge, and whether the border still answered — with a distance, a length of time and the moment it began.
 
 **Interaction method:** No proximity work, on the standing order's first line: it is a grave. Each paper relationship is settled in writing on one question — repeated, never sounded, or said too late — and the answer is entered with the name of the officer who gave it.
 

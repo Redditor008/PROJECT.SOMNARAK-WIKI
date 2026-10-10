@@ -87,7 +87,7 @@
 
 1. **Tension:** The worker is screened for Hope signature at the shelter door and again at the threshold of the inner room, because the first screening has twice missed a Stigma carried in a coat. Nothing is lit. The approach is made in the dark the district has had since the Bearer died.
 2. **Clash:** The entity asks its one word and the worker's task is to stay, say nothing that sounds like a promise, and not leave before the hour is out. Wardens outside the door hold the extraction order and are instructed to use it the moment a worker begins a sentence with *it will be*.
-3. **Resolution:** The hour ends and the worker leaves while the entity is still asking. There is no closing state and no acknowledgement; the Zone D office counts a cycle successful if the worker walked out unaccompanied and the frost on the door frame is thinner than it was the week before.
+3. **Resolution:** The hour ends and the worker leaves while the entity is still asking — the watch entered under the suppression condition: **offer presence and no promise of permanence, and hold steady without flinching**. There is no closing state and no acknowledgement; the Zone D office counts a cycle successful if the worker walked out unaccompanied and the frost on the door frame is thinner than it was the week before.
 
 ### Consequences
 
@@ -181,21 +181,30 @@ The table's governing fact is that this entity's responses are keyed to the work
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 **Appearance:** A mantle of ash-grey crystal that still holds the afterimage of gold at the hem.
 
+**Resistances:**
+- Lament: 1.0 (Normal)
+- Grudge: 0.3 (Resistant)
+- Void: 1.4 (Weak)
+- Weight: 0.8 (Warded)
+**Max Amount:** 4 | **Echo Cost:** 20 Sorrow Echoes
 **Ability:** Grants resistance to Grudge and the cold-burn; lets the wearer endure near a burned-out Hope without flinching.
 **Cost:** The wearer cannot accept comfort while wearing it; insincere Flerehan rebounds as cold-burn.
 
 ### M.A.W. Stigma — The Ash Pin
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 **Appearance:** A hairpin of frosted crystal that spells, in Old Somnarak, a single word: again?
+**Slot:** Head
+**Acquisition Probability:** 5%
+**Effect:** +1 Composure when working The Extinguished
 
 **Ability:** Marks the bearer's fear of burnout visibly, so it can be addressed rather than hidden.
 **Cost:** The bearer hears 'again?' whispered whenever they reach for hope, until the fear is spoken aloud.
 
-*No Stigma has ever been offered by this entity. The Armoury lists the slot as vacant and the Zone D office does not expect it to be filled: a Stigma is a gift at the end of a cycle, and nothing here has ever been given.*
+*No direct Stigma offer has been recorded from the entity. The Ash Pin is nevertheless the 5% Head Stigma in the M.A.W. set, with a +1 Composure work effect; it is conferred at the end of a cycle, not requested from the source.*
 
 ### M.A.W. Use Notes
 
-One piece exists. It was taken from a figure that had been a Hope Bearer, and the Armoury's note is that it behaves less like equipment than like a resignation: it protects its bearer from every form of encouragement, including the useful kind. The second extraction attempt failed mid-process and that piece is still in the shelter, on the floor of the inner room, where it is logged, photographed annually, and left alone.
+One extraction succeeded from a figure that had been a Hope Bearer, and the M.A.W. record carries three equipment forms from that source: the Spent Wick, Cinder Mantle, and Ash Pin. Together they protect their bearer from every form of encouragement, including the useful kind. A second extraction attempt failed mid-process; that unworked piece remains on the floor of the inner room, where it is logged, photographed annually, and left alone.
 
 **Deployment record:** Before use, record operator, time, location, Sorrow Gauge, and emotional condition. During use, record visual feedback, changes in the operator, and whether the equipment begins expressing the entity's voice or behavior. After removal, record lingering sensations, memory changes, injuries, and recovery time. M.A.W. extraction does not neutralize the source entity.
 
@@ -226,8 +235,8 @@ One piece exists. It was taken from a figure that had been a Hope Bearer, and th
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer logs the frost depth at the shelter door and whether the entity is in the inner room or on the round. Both are visible from the street and neither requires entry; most of this file was built from the street. |
-| **Sustained observation** | Across a month the observer should be able to say whether the round is lengthening. It has gained one street in nineteen months and lost it again twice, and that oscillation is the closest thing the Zone D office has to a trend line. |
-| **Activation or escalation** | The precursor is the gold. The edges brighten before a round and dim before a settled night, visibly and from a distance, and the brightening has preceded every escalation on file by between ten and forty minutes. |
+| **Sustained observation** | Across a month the observer should be able to say whether the round is lengthening. It has gained 1 street in 19 months and lost it again twice, and that oscillation is the closest thing the Zone D office has to a trend line. |
+| **Activation or escalation** | The precursor is the gold. The edges brighten before a round and dim before a settled night, visibly and from a distance, and the brightening has preceded every escalation on file by between 10 and 40 minutes. |
 | **Post-contact review** | The review records what the worker said, in full, and whether any of it was a promise. The district's own account must also be taken: the shelter-matron Saetris Nunvia keeps a parallel register of who in the four streets answered a knock that week, and the two records are read together. |
 
 **Observation method:** Watch the gold, measure the frost, count the streets. Three instruments, all of them visible from outside the building, and between them they have predicted every escalation this file records.

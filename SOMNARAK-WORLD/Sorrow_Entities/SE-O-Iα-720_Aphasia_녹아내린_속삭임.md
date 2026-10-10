@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 10–14 per successful work cycle, tallied off the transcript pair and never off the wax |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | Granted pieces · α |
@@ -39,8 +39,8 @@
 ### Operational Notes
 
 - A completed cycle lets the figure hold its shape a little longer and speak a little further into the sentence. It does not finish the sentence. No cycle has ever recovered the accusation entire, and personnel who set that as the objective will fail and will be tempted to supply the ending themselves.
-- The activation threshold stands at 4 and counts down. Each failed cycle takes one, and so does each occasion on which personnel speak the missing words aloud in the entity's presence. A cycle recorded verbatim can return one. At zero it breaks free.
-- A yield of 10–14 at Low difficulty puts this entity in front of inexperienced personnel routinely, and the skill it actually demands — listening to an incomplete statement without finishing it — is not one the grading system measures or the training programme teaches.
+- The threshold reads 4, and it comes down. Every cycle that fails takes one; one is also taken whenever somebody says the missing words aloud within hearing of the whisper. A cycle logged word for word returns one. At zero the thing is loose.
+- The posted yield is 10–14 at Low difficulty, which sends the untried crews in as a matter of routine, and the one skill this work needs — hearing an unfinished statement out without completing it — is measured nowhere in the grades and taught nowhere in the programme.
 - Extraction takes a word-tile from a thing made of unfinished words. It is scheduled separately, and the extracting worker's transcript for that cycle is countersigned by a second recorder before it is filed.
 
 ## Combat Record
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 0.95 m/s |
-| **Resistance** | 15% against Grudge pressure; 5% against other pressure types |
+| **Resistance** | 15% against Grudge pressure and 5% against everything else — low figures for something that arrives through the hearing rather than against the body |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Han Pressure [ATK]** | 3–10 per hit · Grudge |
@@ -80,20 +80,20 @@
 | { *The Slurred Word* [**Debuff**] } | "A whisper reaches you — but the words run together, losing their shape." | [The Whisper's words melt mid-air; the target catches half-formed meaning.] | *Target suffers -10 Resilience; their own thoughts begin to blur.* **[10 Grudge DMG [Grudge]]** | When the Whisper is heard. |
 | { *The Dripping Secret* [**Debuff**] } | "The whisper drips — each drop a syllable that loses its edge before it lands." | [The melting words pool at the target's feet; meaning dissolves.] | *Target loses 10 Resilience; they cannot hold a thought.* **[10 Grudge DMG [Grudge]]** | When the target listens. |
 | { *The Hot Breath* [**Attack**] } | "The whisper heats — and now it is not words but molten sound." | [A blast of superheated whisper-stuff strikes the target.] | *Inflicts Grudge pressure and one burning, formless wound.* **[14-22 Grudge DMG [Grudge]]** | When the Whisper is disturbed. |
-| { *The Slag Word* [**Attack**] } | "Every word the whisper ever said runs together into one molten mass — and it is flung." | [The accumulated melted speech solidifies into a projectile.] | *A heavy Crimson blow; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Whisper is silenced. |
-| { *The Babble* [**Ultimate**] } | "Every melted word in the place runs together — a flood of molten, meaningless sound." | [The Whisper releases its entire molten vocabulary at once.] | *All personnel suffer Grudge pressure for three turns in the slag-flood.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Slag Word* [**Attack**] } | "Every word the whisper ever said runs together into one molten mass — and it is flung." | [What it has said so far sets hard in the air and comes at the ground as one mass.] | *A heavy Crimson blow; the target's Sorrow Gauge climbs 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Whisper is silenced. |
+| { *The Babble* [**Ultimate**] } | "Every melted word in the place runs together — a flood of molten, meaningless sound." | [Every melted word it holds is let go in a single flood.] | *Grudge pressure presses on everyone for three turns while the slag runs.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The team sights the wax figure drifting in the Old Lament corridors, confirms it is still holding humanoid shape, assigns one recorder and one listener, and agrees that nobody will speak unless repeating something the entity has already said.
+1. **Tension:** The team finds the wax figure adrift in the Old Lament corridors, checks that it still keeps a humanoid shape, puts one recorder and one listener on it, and settles that nobody speaks unless repeating words the whisper has already used.
 2. **Clash:** Ten turns, conducted almost entirely in silence. Flerehan and Ferrehan bring the gauge down, Viderehan holds it level, and Pugnahan melts the figure and scatters angry whispers through the corridor — so the engagement is decided by what the party says rather than by what it does.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Record the whisper exactly; do not invent missing words**.
+3. **Resolution:** The cycle ends on containment, retreat, management, or on the condition this file registers: **Record the whisper exactly; do not invent missing words**. For this holding that clause *is* the resolution — the record is raised out of what was heard and nothing else — and every neat reconstruction is the failure the clause was written against.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
+- A worker who does not hold against the whisper’s pressure loses **Resilience** and the coherence of their own identity in the same movement, and the gauge climbs on both losses.
 - Extended contact produces a documented and insidious effect: personnel hear fragments of accusations and supply their own causes. The worker is not deceived by the entity. They are supplied with a gap, and they fill it with whatever they already suspected, and they then believe the entity told them.
-- Every piece taken from the Whisper charges in speech. The spear's edge liquefies as it cuts and leaves the wielder's old injuries aching; the plate holds the body and slows it; the Word preserves one sentence intact and makes its bearer hear every unfinished accusation within range for as long as they wear it.
+- Everything cut from the whisper is paid for in speech. The spear's edge runs liquid through a cut and sets the wielder's old wounds aching; the plate keeps the body together and slows it; the Word carries one sentence out whole, and for as long as it is worn its bearer hears every accusation in range that never got finished.
 - Unresolved, the entity does not force an outlet. It melts further, the surviving fragment gets shorter, and what escapes into the corridors is not the entity but the half-heard remainder, which personnel complete on its behalf and then repeat to one another as fact.
 
 ## Appearance
@@ -146,7 +146,7 @@
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Aphasia is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+These responses only mean anything read beside the SECC code and the element — the same movement reads differently at each tier. Aphasia is filed Subject-Body with Grudge as its element, ambient, Zone B, the Old Lament. The entry carries two cautions. Nothing is inherited from another file that merely shares part of a name: the neighbours have a section of their own and none of them is this. And a steady gauge is not a safe hour — the whisper can sit level while reaching a worker through memory, ground or identity, and the cost of that hour does not appear on any page.
 
 **Reading the response:** Flerehan brings the gauge down and the figure reforms slightly and speaks more clearly — grief shared with it restores enough of the body to carry more of the sentence, which is the closest thing to progress this entity offers. Ferrehan also brings it down, and is the harder of the two: endurance here means listening to an incomplete accusation without completing it, holding the silence where the ending should be for as long as the entity needs, and not helping. Viderehan holds level, revealing the event behind the broken sentence without easing the inability to say it. Pugnahan raises the gauge and melts the figure outright, because confrontation is one more interruption and interruption is the entire injury. A rising gauge on this entity should be read as a transcript problem before it is read as a tactical one.
 ## Breach Behavior
@@ -199,7 +199,7 @@ The spearhead maintains an extraordinary cutting edge despite its liquid boundar
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and warm to the touch, with a faint scent of the place it was worked in left in the grain.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -221,26 +221,26 @@ The spearhead maintains an extraordinary cutting edge despite its liquid boundar
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the bearer's rating while working the Whisper, forfeited for the remainder of the cycle if the bearer speaks a word the entity did not
+**Effect:** +1 to the bearer's rating while working the Whisper, lost for the rest of the cycle if the bearer supplies a word the entity never said
 
 **Ability:** Preserves one spoken sentence from decay or distortion.
 
 **Cost:** The wearer hears every incomplete accusation nearby.
 
-*The Word is given, not taken. It has appeared only on workers who sat through a full cycle of fragments without supplying a single ending, and no procedure has produced one deliberately.*
+*The Word is given, never issued. It has appeared only on workers who sat a whole cycle of fragments without supplying an ending, and no procedure has produced one on purpose.*
 
 ### M.A.W. Use Notes
 
-Each piece remains part of the Whisper, and the set is organised around a single idea: things that will not hold their form. The spear's edge is permanently liquefying and cuts anyway. The plate is drawn from a figure that melts and is the most stable object in the group. The Word preserves exactly one sentence from decay — one, not a conversation, not a report — and charges for it by making every unfinished accusation in the vicinity audible to its bearer at once. Personnel issued the Word for interrogation duty have returned it within the shift. Used as intended, it is the only reliable method the facility has of carrying a statement out of a room unchanged, and the cost is that the bearer hears everything that nobody managed to finish saying.
+Each item in this set remains a piece of the whisper, and the set hangs on one idea: things that will not keep their shape. The spear's edge is permanently liquefying and cuts anyway. The plate is drawn from a figure that melts and is the most stable object in the group. The Word preserves exactly one sentence from decay — one, not a conversation, not a report — and charges for it by making every unfinished accusation in the vicinity audible to its bearer at once. Personnel issued the Word for interrogation duty have returned it within the shift. Used as intended, it is the only reliable method the facility has of carrying a statement out of a room unchanged, and the cost is that the bearer hears everything that nobody managed to finish saying.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Aphasia's known toll: old injuries ache and faint bruising surfaces along the lines of them. Nothing new is broken. Opened at the end of the rotation, not before. |
-| **During use** | The first sign that Aphasia is charging: old injuries ache and faint bruising surfaces along the lines of them. Nothing new is broken. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | Aphasia's cost is continuous rather than occasional: the plate responds a half-beat late, so that every reaction becomes a decision. Wearers describe it as always being about to say something and arrivin. The second worker's call stands against the wielder's. |
-| **After use** | Return the piece and check the sealed baseline: has Aphasia's cost — the plate responds a half-beat late, so that every reaction becomes a decision. Wearers describe it as always being about to say something and arrivin — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, the issue-day gauge, and a baseline written down and lodged with the second recorder. What this set takes is old injuries aching with faint bruising along the same lines and nothing newly broken, so the baseline is compared at the close rather than at the issue. |
+| **During use** | Charging shows first as the old injuries aching again, with faint bruising rising along the lines they were taken along and nothing fresh struck. The hour is logged by the second worker, and the bearer's account is taken afterwards, separately. |
+| **At limit** | The cost never pauses: the plate answers a half-beat late, so that every reaction turns into a decision, and wearers describe it as forever being about to say something and arriving after the moment for it. On this set the second worker's call stands against the bearer's. |
+| **After use** | Return the piece, open the baseline, and enter whether the half-beat delay outlasted the rotation. The answer goes down whether or not the bearer agrees with it. |
 
 **Stat interpretation:** The α grades are honest — three to six damage, ten to fifteen Echoes, no concealed performance. What the sheet cannot express is that this set's costs are all exerted on speech and hearing, which no rating column covers. Read the Cost lines as the specification.
 ## 관찰 기록 (Observation Log)
@@ -270,10 +270,10 @@ Each piece remains part of the Whisper, and the set is organised around a single
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Aphasia (O-Iα-720 [GS]) is logged as a Subject-Body manifestation expressing Grudge, ambient in the Old Lament corridors of Zone B. It is made of an accusation that was never allowed to finish, its shape answers to the speech around it, and the mean length of what it manages to say is falling year on year.
+Aphasia (O-Iα-720 [GS]) is filed as Subject-Body, expressing Grudge, ambient in the Old Lament corridors of Zone B. Its substance is an accusation nobody was allowed to finish; its outline answers to whatever is being said nearby, and the average length of what it manages to say drops with every year.
 
 **Entry 2 — <Corridor Transcript, Old Lament, Unreconciled>**
-Mean fragment 3.4 words across the year's cycles, against 4.8 and 6.1 in the two preceding series. Nineteen recorder pairs disagree on the wording and all nineteen stand unreconciled, as required.
+The year's cycles average a fragment of 3.4 words, against 4.8 and 6.1 in the two series before it. Nineteen recorder pairs disagree over the wording, and all nineteen disagreements are left standing, as the method requires.
 
 **Entry 3 — <Grievance Hearing, Closed Without Finding>**
 The hearing was held, the complainant was heard, and the matter is recorded as closed without finding. The clock stopped her at the eleventh minute of her eleventh attempt, and the sheet is correct in every particular.
@@ -286,11 +286,11 @@ Eleven hearing sheets, four years, one complainant, one identical opening clause
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Aphasia; the other feeds it.
+> The watch on this Whisper has two possible closures, and the file tells them apart by what the observer does with the words that were actually heard: one records only what arrived, and the other makes sense of it — helpfully, and to Aphasia's advantage.
 
-| Do the thing on file: Record the whisper exactly; do not invent missing words. | Do the obvious, decent thing instead, and feed Aphasia. |
+| Record the whisper exactly as it was heard, and supply no word the entity did not say. | Do the decent thing instead — smooth the fragment into sense, fill the gaps, and feed Aphasia. |
 |---|---|
-| The figure reforms slightly and speaks more clearly. The sorrow is named; Aphasia is fully recorded. | Melts rapidly and spreads angry whispers. The gauge climbs and Aphasia withdraws without revelation. |
+| The figure reforms slightly and speaks more clearly; the sorrow is named and the entry closes with the Whisper recorded whole. | It melts fast and spreads angry whispers; the gauge rises and Aphasia ends no further along than it began. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -301,7 +301,7 @@ A whisper melts before it reaches the wall. The small figure beside you loses a 
 
 **At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A crawling ooze-creature of crimson wax with no fixed shape — it flows across the floor in a low seething mass, whisper-mouths opening and dissolving across its surface as it moves. The space does not become generic; it shifts in the specific register of Grudge.
 
-**With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Grudge pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Grudge pressure settles into a grain you can read, a frequency you can almost call in advance. The entity is not changing — you are.
 
 **When the entity activates:** The Gauge tips. The Subject-Body does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Grudge is no longer atmospheric. It is operational.
 
@@ -309,16 +309,16 @@ A whisper melts before it reaches the wall. The small figure beside you loses a 
 
 ### Interaction Pattern
 
-Aphasia does not exist in isolation. Its recorded relationships with The Broken Whisper, The Rusted Soul, The Whispering Walls should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three files are kept within reach of the whisper — The Broken Whisper, The Rusted Soul and The Whispering Walls — and the whisper keeps neither pact nor quarrel with any of them; all three are open questions the old archive never closed. When a crossing is tried, the record takes how the sound shifted and how the needles moved, the gauge and containment readings at the close, and the distance it began at, how long it ran, and what started it running.
 
 **Interaction method:** Establish the Whisper's solo behaviour across several cycles first, under strict silence, with the fragment transcribed each time — the fragment is not stable between cycles and the series is the baseline, not any single reading. Then introduce a second entity and attend to the variable peculiar to this holding: whether the other presence supplies words. Entities that speak, echo, repeat or imitate must be assumed to be completing the sentence on the Whisper's behalf, and the effect on the gauge is the same as if a worker had done it. Log the separation, the duration, the gauge movement, the degree of melt, and the fragment as heard during contact. Where the fragment lengthened, record what the other entity was doing when it did.
 
 
 ### Entity Interaction Record
 
-The Whisper is ambient within the Old Lament rather than held at a point, and it drifts, so its neighbours change from cycle to cycle. The interactions below are canonical but each was recorded against a particular fragment, and the fragment has since eroded; personnel must re-establish the current transcript before relying on any of them.
+The whisper is ambient in the Old Lament rather than fixed at a post, and it drifts, so what sits near it changes from cycle to cycle. The pairings below hold as of the last review, each taken against a fragment that has since eroded further; establish the current transcript first, and lean on none of them before that.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| The Whisper's neighbour | How the pairing has run | What the recorders logged | What the entry carries |
 |---|---|---|---|
 | **The Broken Whisper** | Both carry part of a message and neither carries the rest; placed together the two fragments do not join, and the recorders have stopped expecting them to. | Mean fragment length unchanged on both. The only pairing in the wing that produces no effect of any kind. | File both fragments side by side, unjoined, and note that the gap between them was not closed. |
 | **The Rusted Soul** | It attends and stays, which stands this one up for longer than any work cycle has managed — nine minutes against a best of four. | Reformations double; wax run rate halves; fragment gains about a word. Nothing is transferred and the Soul is unchanged. | Time every reformation and record that the benefit runs one way only. |
@@ -334,9 +334,9 @@ The witness saw the injustice. The witness tried to report it — to the Wardens
 
 The witness, repeatedly interrupted, began to lose the thread. The injustice, named and re-named and cut and re-started, fragmented in the witness's mind. The complete account — the full, specific, detailed description of the wrong — dissolved into pieces. And the pieces, further interrupted, melted — the way all incomplete things melt when they cannot reach their form.
 
-Aphasia is Subject-Body, Grudge-element: the figure of anger that can no longer hold a complete sentence — the witness's report, interrupted past coherence, melting into a fragment that carries the fury of a person who knows something was wrong and who can no longer, after all the interruptions, explain what. The Whisper is the specific, devastating grief of being unable to articulate your own injustice — of carrying a wrong you cannot name because every attempt to name it was cut short, and the cutting, accumulated, destroyed the capacity to name.
+Subject-Body, Grudge-element: anger that can no longer hold a sentence together — a witness's account interrupted past coherence, melting into a scrap that carries the fury of somebody who knows a thing was wrong and who, after all the cutting short, can no longer say what. What the whisper keeps is that grief exactly: a wrong you cannot name, because every attempt at naming it was stopped, and the stopping, piled up, took the naming away.
 
-Those who come near the Aphasia feel the specific agony of inarticulate anger — the frustration of knowing something is wrong and being unable to say what, of carrying a fury that the interruptions have rendered inexpressible, of the specific, maddening grief of a person whose testimony was prevented from completing and who now carries, in fragments, the anger that the complete testimony would have released.
+The approach to the Aphasia brings the agony of anger that has no words — the frustration of knowing a thing is wrong and being unable to say it, of carrying a fury the interruptions have left inexpressible, of a person whose testimony was cut off before it finished and who now holds, in pieces, the anger the finished testimony would have released.
 
 Some sorrows are about silence. Aphasia is about the interrupted — the report cut, the testimony fragmented, the injustice named and un-named until the naming itself dissolved, leaving only the anger, inarticulate, melting, carrying the weight of a wrong the witness can no longer explain.
 ## 증언 (Testimonium) — The Testimony
@@ -366,7 +366,7 @@ Some sorrows are about silence. Aphasia is about the interrupted — the report 
 - Where two recorders heard different words, both texts are filed and the difference is itself the reading. Nineteen such pairs stand unreconciled in the series and none will be resolved.
 - Extraction takes a word-tile from a thing made of unfinished words; the extracting worker's transcript is countersigned by a second recorder before filing.
 **Cross-References:** Zone B, Old Lament · The Unheard · Silence We Forgot We Made · the Hearings Office · the two-recorder standard
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
+**Faction Involvement:** SED, on the D-territory survey · UCD, for the Fray-adjacent ground · Wound Walkers, on the Fracture reading
 **Originator:** A woman who tried to say what had been done to her · cut short every time, by people who did not consider themselves to be doing anything
 
 ### Registry Addendum
@@ -378,9 +378,9 @@ Some sorrows are about silence. Aphasia is about the interrupted — the report 
 
 ### What the Fragment Length Is Measuring
 
-Two recorders, writing separately, log how far the whisper gets before it dissolves. The annual means are 6.1 words, then 4.8, then 3.4. The series has been held against the obvious candidates — number of personnel in the corridor, cycles worked, the Han weather — and matches none. It matches the count of hearings held at this Company in the year that ended with the speaker still speaking when the clock stopped them.
+Two recorders write separately, each noting how far the whisper carries before it goes. The yearly averages read 6.1 words, then 4.8, then 3.4. That series has been run against the obvious explanations — how many people are in the corridor, how many cycles were worked, the Han weather — and fits none of them. What it fits is the number of hearings at this Company in a year that ended with the speaker still talking when the clock cut them off.
 
-Every hearing here is timed, and every party to it gets the same minutes. The clock chairs the room, not the chair: when the time is spent the speaker stops, mid-word if that is where the time falls, and no person present has the authority to grant more. The rule was made for cause and the cause is beyond argument. Under open hearings the confident spoke until they were finished and the quiet never began; the case always cited is the one where a senior inspector spoke for two hours and eleven minutes and the woman who had brought the complaint spoke for nine. Equal minutes ended that in a single stroke, and nobody at this Company proposes going back to a room where the loudest man sets the length of the afternoon.
+Nothing here runs past its clock, and each party is given the same minutes. It is the dial that chairs the room and not the chair: when the minutes are gone the speaker stops, in the middle of a word if that is where they run out, and nobody present may hand out more. The rule was made for a reason, and the reason is not arguable. In open hearings the confident talked until they were done and the quiet never started; the case still quoted is the one in which a senior inspector held the floor for two hours and eleven minutes and the woman who had brought the complaint got nine. Equal minutes ended it at a stroke, and no one at this Company proposes returning to a room where the loudest man decides how long the afternoon runs.
 
 Its consequence is that a wrong which takes longer to describe than the clock allows cannot be described here at all. Simple complaints fit. Complaints with history in them — the ones where the thing done is only intelligible after four years of context — reach the first clause and stop, and the sheet then certifies, accurately, that the complainant was heard. Being cut off and marked as heard is not the same injury as being disbelieved. It is a worse one, because there is nothing left to appeal against.
 
@@ -392,7 +392,7 @@ Year 4237: 2,120 hearings. 388 minutes banked. 151 second sittings held. 237 ban
 
 The costs are known and are not small. A second sitting needs the whole panel reassembled, which wards found expensive, and several began discouraging banking in the quiet way that leaves no instruction to point at. An account heard in two halves weeks apart is heard by a panel that has read the first half rather than listened to it, and the recorders are clear that these are different things. And the bank is once per hearing, so an account needing three sittings is in exactly the position it was in before the scheme existed — which is, by the recorders' own count, where the eleven sheets in the Old Lament commissioning file would still be today.
 
-The recorders asked for one amendment: that the panel be required to read the first-half transcript aloud at the opening of the second sitting, so that the account is heard whole by the people deciding it. It was refused, and the refusal is correct — reading aloud consumes the hearing's fixed time, and the time it would consume is the complainant's own carried minutes, which is the one thing the scheme exists to protect. Their objection stands in the scheme's first volume, recorded as correct and unanswered: that this Company gave every speaker an equal share of the clock so that no one could be talked over, and has thereby arranged that some things cannot be said here in any number of sittings, and that the figure in the Old Lament corridor is getting shorter by about a word and a third a year.
+The recorders asked for a single change: that the panel be made to read the first-half transcript aloud when the second sitting opens, so that whoever decides has heard the account whole. Refused, and the refusal holds up — reading aloud eats the hearing's fixed clock, and the minutes it would eat are the complainant's own carried ones, the one thing the scheme was built to protect. The objection stands in the scheme's first volume, unanswered: that this Company gave every speaker an equal share of the clock so that no one could be talked over, and has thereby arranged that some things cannot be said here in any number of sittings, and that the figure in the Old Lament corridor is getting shorter by about a word and a third a year.
 
 ## Trivia
 
@@ -404,7 +404,7 @@ The recorders asked for one amendment: that the panel be required to read the fi
 ### Registry Trivia
 
 - **Classification detail:** Aphasia is a Subject with Residue (I) coherence and Minor (α) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is Zone B, Old Lament — ambient.
+- **Field detail:** Its element is Grudge, and the register keeps it in Zone B, in the Old Lament, logged ambient.
 - **Recognition detail:** Identify by the wax. A small humanoid of crimson wax, visibly running, fever-warm and smelling of char and tallow, with a whisper that dissolves before it arrives.
 - **Record detail:** Several Old Lament holdings involve whispers, fragments or unfinished speech; confirm the designation O-Iα-720 and the Subject-Body manifestation before applying this file to any of them.
 - **Containment detail:** A sealed door does not contain this entity, because the whisper is emotional rather than acoustic and is unaffected by any barrier the facility can build. It is held ambient in the Old Lament for that reason. What limits it is the conduct of the people who hear it, which makes containment here a documentation standard rather than a physical arrangement.

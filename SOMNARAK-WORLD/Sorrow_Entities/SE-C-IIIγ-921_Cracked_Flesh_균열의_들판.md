@@ -1,6 +1,6 @@
 # Cracked Flesh — 균열의 들판
 
-> *"It does not end. It merely pauses between heartbeats."*
+> *"Nothing arrives. The field is ordinary, and it is keeping a register of everyone who crosses it."*
 
 ## SECC Classification
 
@@ -88,7 +88,7 @@
 
 1. **Tension:** The team enters at the marked corner, sets the pace, and does not stop walking until the traverse is finished. The perimeter pegs are read on the move; stopping to read one is the commonest way this holding has been fed.
 2. **Clash:** Four turns, observation and endurance only, every turn conducted in motion. The clock-holder calls elapsed dwell at thirty-second intervals and the cordon paint line is the working boundary.
-3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the full working party off the affected ground inside the threshold, confirmed by the clock-holder rather than by the party.
+3. **Resolution:** The cycle ends on containment, management or withdrawal, and always against the documented suppression condition: **the full working party off the affected ground inside the threshold, confirmed by the clock-holder rather than by the party**. Nothing else closes a watch on this field.
 
 ### Consequences
 
@@ -169,18 +169,29 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 
 **Category:** PRIMAL (Bio-Spike Tendril / Transforming Flesh-Whip)
 **Grade:** γ | **Element:** Grudge
+**Max Amount:** 4
+**Cost:** 25 Sorrow Echoes
+
+**Form profile — Tendril (unfurls when grasped):**
 **Damage:** Grudge 9–15
 **Speed:** 3 (Normal)
 **Range:** 3 (Medium: 2–4m)
 **Pattern:** Sweeping Tendril Lash / Constriction
 
-**Appearance:** When dormant or stowed, this implement appears as a rigid, calcified 1.2-meter crimson marrow spike of fossilized bone and dried sinew. When grasped in an Specialist's hand, it draws warmth from their pulse; its calcified joints soften and unfurl into a living, muscular tendril that writhes with aggressive autonomy. It lashes across medium range and coils around limbs to crush bone.
+**Appearance:** When dormant or stowed, this implement appears as a rigid, calcified 1.2-meter crimson marrow spike of fossilized bone and dried sinew. When grasped in a Specialist's hand, it draws warmth from their pulse; its calcified joints soften and unfurl into a living, muscular tendril that writhes with aggressive autonomy. It lashes across medium range and coils around limbs to crush bone.
 
 **Ability:** *Constricting Lash* — Deals Grudge damage across Range 3 (2–4m). Sweeping strikes wrap around enemy limbs, applying bleed and immobilizing targets for 1 turn.
 
-**Damage:** Grudge 14–19 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
+**Form profile — Marrow-Spike (Short / Single):**
+**Damage:** Grudge 14–19
+**Speed:** 2 (Normal)
+**Range:** 2 (Short)
+**Pattern:** Single
+**Target Coverage:** 1 designated target.
+**Falloff Rule:** 100% damage to the selected target only.
+
 **Ability:** Grudge against the Body. Struck targets carry a faint fracture pattern on the skin for some days — painless, superficial, and matching the ground where the blow landed.
-**Cost:** The wielder experiences emotional numbness toward the source entity's element with each use.
+**Bearer cost:** The wielder experiences emotional numbness toward the source entity's element with each use.
 
 ### M.A.W. Suit — The Suture-Cracked Hauberk
 
@@ -189,8 +200,9 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 
 **Appearance:** a dark cloth veil with a fracture pattern through the weave that the Armoury has matched to a square metre of the field and recorded by its grid reference.
 
-**Resistances:** Grudge: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 0.3 (Resistant) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** The armor stores resentment as bodily tension: every slight stiffens the wearer, and anger reaches their muscles before thought can slow it.
 **Ability:** Grants resistance to Grudge damage, protecting against the body register of sorrow.
 
 ### M.A.W. Stigma — The Fissured Skin Stigma
@@ -263,6 +275,21 @@ Nothing arrives. The field is ordinary: grass over compacted ground, a painted l
 **When the entity activates:** Nothing visible occurs. The boundary is found to be in the wrong place at the next measurement, and somebody who was outside the line is marked.
 
 **After departure:** The lines appear in the evening, painless. Personnel describe checking their hands under the lamp for a week afterwards and finding that the habit does not stop when the week does.
+
+## 상호작용 (Entity Interactions)
+
+This holding has been compared on paper and nowhere else. The hazard has no occupant, keeps no gauge of its own and does nothing at any time, so there is nothing here to bring alongside anything: the relationships below were drawn by the pattern survey, which reads the ground's marks against other holdings' records rather than testing them in the field. Every row is cross-flagged and every row is closed to co-presence.
+
+**Interaction method:** Take the field's own baseline first — threshold, rate of expansion, the painted boundary at its current line — before any comparison is entered. Then set the other record's series beside it, note the first point at which they diverge, its range, what set it off, and whether either changed in the reading. Re-verify each quarter and keep both columns separate.
+
+| What shares the ground | How the pairing has run | What the survey entered | What the file retains |
+|---|---|---|---|
+| **Breathing Stone** `C-IVδ-907` | Filed together on ground and walls that answer to people. That record is a structure with a presence in it; this one is bare field and a threshold with nobody home. | 4 survey passes found no shared onset between the two, and the pattern survey closed the row without a test. | That the two are grouped for shape and not for cause, entered beside the row each time it is quoted. |
+| **Dead Air** `N-IIIγ-929` | Grouped on hazards that advance by pressure. That record pushes where nothing can be seen; this one widens where everybody can see it and crosses a line the district painted itself. | The two expansion series were read side by side across 2 quarters and matched on nothing. | That the comparison is arithmetic only, with the two series kept in separate columns per the survey's standing rule. |
+| **Miasma** `C-IVδ-922` | Grouped on presentations that were first logged as illness. Both holdings' early records spent years under a medical heading before anybody read them as marks. | The misclassification period on this file, 2 years, was checked against the Miasma record's own early entries; the habits matched and nothing else did. | That the pairing rests on a filing habit and not on a measurement, written beside the row on each repetition. |
+
+**Interaction procedure:** No co-presence trial is authorised on this holding and none is proposed. Compare in the record only, at the quarter's review, with the field's threshold, rate and boundary re-read first and the other record's series set beside them unchanged. Record divergence, range, trigger, both readings and what persists; keep the two series unaligned.
+
 
 ## 이야기 (Narratio) — The Tale
 
