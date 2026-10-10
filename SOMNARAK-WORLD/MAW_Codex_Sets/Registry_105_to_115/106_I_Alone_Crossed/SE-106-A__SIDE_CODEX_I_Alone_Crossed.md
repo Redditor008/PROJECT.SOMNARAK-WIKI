@@ -106,6 +106,8 @@ The set maps crossings, responsibility, and survival. It fails when a bearer tri
 
 **Quick effect:** The Requiem cuts through a single blaming narrative long enough for people to see a crossing as a shared system rather than one person’s moral failure.
 
+**Weapon profile hold:** The primary and linked `SE-106-B` identify *The Survivor's Span-Cleaver* and describe a fractured suspension-girder greatsword with trailing cables and a broad frontal sweep. Both give Lament 14–22, Slow 2, Medium 3, Sweeping Cleave / Structural Sever, up to three adjacent targets, and 100% → 70% → 50% falloff. This Side card instead titles the weapon *I Alone Crossed Requiem* and gives Lament 10–15, Fast 3, Medium 3, Skewer up to three targets, with the same falloff. The linked item's basic attack and signature ability also describe a blue Skewer line, but neither source says that this is a separate base/special profile or maps the Side statistics to it. The item's Appearance supports the same greatsword form as the primary, while this card gives no alternate physical description. No profile or title is selected; the conflicting values remain as recorded.
+
 ---
 
 ## PAGE 05 — SUIT STAT CARD
