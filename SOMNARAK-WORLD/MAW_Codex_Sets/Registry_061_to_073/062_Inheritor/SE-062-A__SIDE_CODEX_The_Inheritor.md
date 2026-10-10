@@ -56,7 +56,7 @@ State that resentment is evidence of an imposed burden, not proof of failure. No
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| Weapon | The Resentment Fang | γ | Grudge | Focuses inherited anger into verified action | `SE-062-B__MAW-W_The_Resentment_Fang.md` |
+| Weapon | The Resentment Talon-Blade | γ | Grudge | Tracks a documented imposed obligation and cleaves through its physical or systemic restraints; cannot distinguish responsible parties from those trapped in the system | `SE-062-B__MAW-W_The_Resentment_Fang.md` |
 | Suit | The Resentment Plate | γ | Grudge | Resists incoming aggression while holding anger visible | `SE-062-C__MAW-S_The_Resentment_Plate.md` |
 | Stigma | The Resentment Gauntlet | γ | Grudge | Strengthens response to a documented wrong | `SE-062-D__MAW-G_The_Resentment_Gauntlet.md` |
 
@@ -67,6 +67,8 @@ State that resentment is evidence of an imposed burden, not proof of failure. No
 **Effect:** The set prevents the obligation from being recorded as voluntary consent.
 
 **Cost:** The bearer must later hear a new account of how the obligation harmed another person.
+
+**Weapon-title review (2026-10-11):** The set row now uses *The Resentment Talon-Blade*. Primary `C-IIIγ-062`, the current `SE-062-B` heading and transforming falx/chain-sickle Appearance, the Master Registry, detailed master Codex Entry 34, and `MAW-W-062` archetype support the title and form. Revision `b2c35a2f` changed the same item code `MAW-W-062-01` from the earlier Fang blade to the current Talon-Blade and documented its linked cleave/lash profile. The row purpose follows `Unpaid Anger` and preserves the item's explicit limit on assigning responsibility. The linked History Record still calls its user a “Fang bearer”; keep that as unresolved legacy wording, not evidence of a second form. The linked filename `SE-062-B__MAW-W_The_Resentment_Fang.md` remains a path. This identity-only Side table states no combat numbers, so none were added.
 
 ---
 
