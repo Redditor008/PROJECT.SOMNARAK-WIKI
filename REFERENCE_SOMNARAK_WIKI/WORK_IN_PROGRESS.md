@@ -83,6 +83,10 @@ This comparison began as a standalone audit. On 2026-10-10, the owner explicitly
 
 **R-19 check and Batch 77 close:** R-19 applies to all five entities. Emberling, Rem, Unrung, The Rage Statue, and Hollow Tree already have Neutral rows with dossier evidence in `ENTITY_DISPOSITION_INDEX.md`; this equipment review changes none of that evidence, so no disposition changed. Batch 77 closes at **5 / 5**: three non-weapon corrections were confirmed (Emberling’s Stigma slot and suit heading, Rem’s suit heading); all five Weapon profiles remain held, and the Rage Statue Suit label/form also remains unresolved.
 
+**Batch 78 — OPEN at five (2026-10-10).** The owner asked to carry the research-based Weapon reconciliation through both the primary SE records and their Side/item Codices. A changed number is used only where the physical form and attack description identify the matching profile; any remaining undocumented form relationship stays held.
+
+**Unit 1 / 5 — Emberling `C-IIβ-101`:** the primary, master Entry 121, and linked item’s own Appearance identify the 85cm Cinder-Breech Carbine, its lever-fed ember burst, and three high-velocity projectiles reaching Range 4. The linked item's Resting/Active identity and statistics, plus the Side card, instead described a short blue blade and a Single strike. I aligned those M.A.W. records to the carbine profile: Lament 6–11, Normal 3, Long 4, forward cone up to three targets, and 100% / 60% impact falloff; the already-supported primary weapon block was not changed.
+
 
 **Unit 2 / 3 — Broken Clock `C-IIIγ-044` (held).** The primary and linked item describe the same 135 cm two-handed brass polearm. The primary gives Weight 11–18, Slow 2, and Overhand Arc / Temporal Impact; the Side and item give Weight 7–12, Fast 3, and Skewer. The item documents no alternate form or base-versus-special stat split, and the master listing has no numeric profile. No value changed.
 

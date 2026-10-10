@@ -97,13 +97,15 @@ This set protects against cold and isolation without pretending that equipment c
 
 | Field | Record |
 |---|---|
-| Damage | Lament 5–9 |
-| Speed / Range | 2 — Normal / 2 — Short |
-| Attack Pattern | Single — one designated target |
+| Damage | Lament 6–11 |
+| Speed / Range | 3 — Normal / 4 — Long (6–18m standoff) |
+| Attack Pattern | Incandescent Cinder Blast / Area Spark Igniter |
+| Target Coverage | Forward cone; up to 3 targets |
+| Falloff Rule | Primary impact 100% → peripheral spark targets 60% |
 | Maximum Amount / Echo Cost | 4 — Limited / 25 Sorrow Echoes |
 | Primary Cost | The bearer inherits the child’s unwept grief and may weep afterward. |
 
-**Quick effect:** The blue blade gives a target’s isolation pressure a voice without making the target accept consolation.
+**Quick effect:** The Carbine fires a forward cone of embers that gives isolation pressure a voice without forcing the target to accept consolation.
 
 ---
 
