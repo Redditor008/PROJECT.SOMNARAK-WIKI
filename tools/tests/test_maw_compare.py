@@ -165,6 +165,43 @@ class TestMawComparison(unittest.TestCase):
         self.assertEqual(cards["Stigma"]["facts"]["slot"], ["Tail"])
         self.assertEqual(cards["Stigma"]["facts"]["chance"], ["5%"])
 
+    def test_compact_set_page_identity_table_parses_without_inventing_combat_stats(self):
+        text = "\n".join(
+            [
+                "## PAGE 03 — M.A.W. SET PAGE",
+                "| Piece | Name | Grade | Element | Main Purpose | Individual Codex |",
+                "|---|---|---|---|---|---|",
+                "| Weapon | The Test Shuttle | γ | Void | Cuts one selected memory thread | `SE-999-B__MAW-W_Test_Shuttle.md` |",
+                "| Suit | The Test Veil | γ | Void | Protects identity | `SE-999-C__MAW-S_Test_Veil.md` |",
+                "| Stigma | The Test Mark | γ | Void | Anchors one memory | `SE-999-D__MAW-G_Test_Mark.md` |",
+            ]
+        )
+        cards = maw_compare.parse_side_cards(text)
+        self.assertEqual(set(cards), {"Weapon", "Suit", "Stigma"})
+        weapon = cards["Weapon"]["facts"]
+        self.assertEqual(weapon["name"], ["The Test Shuttle"])
+        self.assertEqual(weapon["grade"], ["γ"])
+        self.assertEqual(weapon["element"], ["Void"])
+        self.assertNotIn("damage", weapon)
+        self.assertNotIn("speed", weapon)
+        self.assertNotIn("range", weapon)
+        self.assertEqual(cards["Weapon"]["line"], 3)
+
+    def test_compact_stat_card_takes_precedence_over_identity_only_set_page(self):
+        text = "\n".join(
+            [
+                "## PAGE 03 — M.A.W. SET PAGE",
+                "| Piece | Name | Grade | Element | Main Purpose | Individual Codex |",
+                "|---|---|---|---|---|---|",
+                "| Weapon | Legacy Alias | β | Void | Older summary | `SE-999-B__MAW-W_Test_Shuttle.md` |",
+                "## PAGE 04–06 — COMPACT M.A.W. CARDS",
+                "- **The Test Shuttle:** Void 8–14; Speed 4; Range 2; Single; max 3; 40 Echoes.",
+            ]
+        )
+        weapon = maw_compare.parse_side_cards(text)["Weapon"]["facts"]
+        self.assertEqual(weapon["name"], ["The Test Shuttle"])
+        self.assertEqual(weapon["damage"], ["Void 8–14"])
+
     def test_coverage_ignores_unrelated_numbers_and_extracts_target_counts(self):
         self.assertIsNone(maw_compare.normalize_scalar("coverage", "360° radial area burst"))
         self.assertEqual(maw_compare.normalize_scalar("coverage", "up to 3 targets"), 3.0)

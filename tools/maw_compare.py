@@ -3,7 +3,7 @@
 
 This is a conservative review aid, not an auto-fixer. It maps on the dossier's
 SECC Designation (never the filename), joins the Side Codex and individual
-Weapon/Suit/Stigma records, and parses the recognized Side Codex stat-card
+Weapon/Suit/Stigma records, and parses recognized Side Codex card and set-page
 layouts. Reports are candidates for human triage: names can be aliases, some
 records describe another form, and fields omitted by one source are not assumed
 wrong.
@@ -503,6 +503,43 @@ def parse_side_cards(text: str):
             if parsed:
                 kind, facts = parsed
                 add_card(kind, facts, None, line + offset)
+
+    # Compact set-page tables that provide identity, grade, and element but no combat card.
+    # Keep these identity-only records visible to name/grade/element comparison without
+    # manufacturing damage, speed, range, pattern, coverage, or falloff values.
+    for title, line, body in sections:
+        if "M.A.W. SET PAGE" not in title.upper():
+            continue
+        for table_line, table in markdown_tables(body):
+            headers = [clean_cell(cell).lower() for cell in table[0]]
+            required = ("piece", "name", "grade", "element")
+            if not all(header in headers for header in required):
+                continue
+            indexes = {header: headers.index(header) for header in required}
+            kind_map = {
+                "weapon": "Weapon",
+                "suit": "Suit",
+                "armor": "Suit",
+                "armour": "Suit",
+                "stigma": "Stigma",
+                "gift": "Stigma",
+            }
+            for row_index, row in enumerate(table[1:], 1):
+                if len(row) <= max(indexes.values()):
+                    continue
+                kind = kind_map.get(clean_cell(row[indexes["piece"]]).lower())
+                name = clean_cell(row[indexes["name"]])
+                if not kind or not name:
+                    continue
+                facts = defaultdict(list)
+                grade = clean_cell(row[indexes["grade"]])
+                element = clean_cell(row[indexes["element"]])
+                if grade:
+                    facts["grade"].append(grade)
+                if element:
+                    facts["element"].append(element)
+                add_card(kind, facts, name, line + table_line + row_index)
+
 
     return cards
 
