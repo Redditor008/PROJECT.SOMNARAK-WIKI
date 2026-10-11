@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 10–14 per cycle, drawn in a tunnel the network stopped maintaining in Year 4,228. The energy office's note is that this is the only holding whose cycles require a works party to reopen the access first, and that the reopening costs more than the cycle returns. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
 | **Recommended response** | Count the hands in the glass, say how many there are out loud, and walk the length that was shown. Viderehan does the counting; Ferrehan is the walk. Nobody touches the pane. |
@@ -250,7 +250,7 @@ The glass-edged blade delivers devastating lacerating wounds with minimal cuttin
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to work against the Torn Window itself, and nothing at any other holding.
+**Effect:** +1 Resilience while working against the Torn Window itself, and nothing at any other holding.
 
 **Ability:** Reveals the emotional history of an object.
 
@@ -272,6 +272,8 @@ Both pieces were cut from the cracked edge and neither carries a hand, which was
 | **After use** | Compare what the wielder files against the sealed roster. Three discrepancies in nine years, all three for sealed lengths, none of them dishonest. |
 
 **Stat interpretation:** An α-grade set with a filing-cabinet hazard. The output is negligible and the cost is a person who believes, correctly in every detail except one, that they worked a shift. Authorise on the roster comparison and not on the grade.
+
+**Full-set source review (2026-10-12):** Reviewed the I-Relic/M.A.W. grade overview, all three local item blocks, Use Notes, Field Use Record, Stat interpretation, and the additional M.A.W. strike references in the Observation Log and Threat Assessment against Side `SE-686-A` (`N-Iα-686 [N]`, set `4/4`), items `SE-686-B/C/D` (`MAW-W/S/G-686-01`), Registry rows 815–818, Master M.A.W. entries 580–582 and Entity Codex row 562, Tale 194, and Weapon Archetype `MAW-W-686`. Side A has no standalone Appearance section; all three item pages have Appearance sections, with no separately labelled transition block. The overview now records α, supported by the Side's I / α source profile and all three α item records. The Stigma effect now names `+1 Resilience`, supported by Side A and item D, while preserving the primary's Torn Window-only condition. Hold primary/Master-index `Window-Shard Sabre` against Side/item `Window of a Thousand Goodbyes Fang` and Master Entry 580's `Torn Window Fang`: the primary/index/archetype support a razor-glass sabre, while the linked Side/item records describe a crimson Han-iron Fang, with no crosswalk. The local palm-mark effect also differs from the linked Fang's attributed phantom-hand cut. Range 2 (Short) is supported locally and by Side/item data and the Weapon Archetype's Short band. Tail / 5% remains local/Side/item against the Registry's generic Accessory label. Side/item Single pattern is not transcribed to the primary.
 
 ## 관찰 기록 (Observation Log)
 
