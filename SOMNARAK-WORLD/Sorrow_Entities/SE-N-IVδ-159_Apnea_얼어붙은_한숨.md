@@ -240,6 +240,9 @@ The set is built around not stopping, and every piece of it makes stopping harde
 | **After use** | Exhale fully and wait, before any question is asked. Then the four questions, unchanged since the chamber opened, repeated at the next shift and at the week, with the flat period entered in days when it ends. |
 
 **Stat interpretation:** δ across the set and the grade is honest about the holding's danger, which is real but almost never physical. The injuries this file records are flat periods of one to nineteen days, four early retirements and three justified complaints about bad temper.
+
+**Full-set source review (2026-10-11):** Reviewed this SE’s Weapon, Suit and Stigma blocks, grade summary, M.A.W. Use Notes and Field Use Record as one set against the full Side Codex, `SE-159-B/C/D`, the Master Registry, Master Codex Entries 526–528, and `MAW-W-159`. The existing `None issued · δ` summary is consistent with the three δ pieces. The Breath’s resistances/cost and Charm’s Tail / 4% / +3 agree across this SE, the Side set and their item files; the Registry’s Stigma row says generic Accessory / 5%, and the Master subtype says Pendants & Chokers, so preserve those metadata differences as holds. The Master Suit subtype `Living Chitin & Carapace` does not resolve to the recorded gossamer veil; leave it unchanged. Keep the Weapon identity/form and reach as holds: the Stiletto title/Appearance is supported, but the linked item’s Official Name and Master Entry 526 retain *The Frozen Fang*, while its Resting/Active forms retain fang forms; no transition is documented; the archetype’s Close band conflicts with Range 3 (Medium). A separate Vanity *Frozen Fang* has no cross-link, and its profile is not borrowed. The primary Use Notes and set-level records all require relief before stopping. No numeric combat profile changed.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
