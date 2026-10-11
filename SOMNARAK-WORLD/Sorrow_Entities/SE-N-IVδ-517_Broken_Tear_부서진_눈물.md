@@ -213,7 +213,7 @@ The prism sheds continuous streams of luminous blue tears that dissolve before t
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 to the working stat inside this holding's cycles and to nothing else this post issues — the vault's instruments read the bonus as belonging to the layer, which is why it cannot be carried out of it.
+**Effect:** +3 Clarity during this holding's cycles and to nothing else this post issues — the vault's instruments read the bonus as belonging to the layer, which is why it cannot be carried out of it.
 
 **Ability:** Absorbs one emotional shock and preserves its memory.
 
@@ -235,6 +235,10 @@ The three pieces draw on one interrupted lament, and the cost follows the materi
 | **After use** | Return the piece and interview a colleague, not the wielder: what the wearer has stopped enjoying, and whether the weeping has begun arriving in company. Both answers are entered against the holding rather than against the person, and the set is issued one rotation at a time on the strength of them. |
 
 **Stat interpretation:** The grade describes extraction stability and says nothing about human safety. A δ-grade piece from this source can draw cleanly for years while its wielder loses the capacity to be cheered by anything, a cost that no column records and that colleagues notice before the wielder does. Read the grade and the charge together and authorise on the charge.
+
+**Full-set source review (2026-10-12):** Reviewed the `δ · δ` overview, all three local item blocks, Use Notes, Field Use Record, Stat interpretation, and the additional M.A.W. cost statement in Consequences against Side `SE-517-A` (`N-IVδ-517 [D]`, set `4/4`), items `SE-517-B/C/D` (`MAW-W/S/G-517-01`), Registry rows 712–714, Master Codex table/Entries 538–540, Tale 180, and archetype `MAW-W-517`. All review sections are present. The primary, linked items, and Master entries grade the pieces δ; the numeric Weapon/Suit profiles align. Side/item Skewer is not stated in the primary and was not backfilled. The Stigma effect now names `+3 Clarity`, supported by both Side and item records. The local Tail / 4% remains held against the Registry's generic Accessory / 5% entry.
+
+Keep the names and form unresolved: primary/Master-table *The Weeping Star-Prism* differs from Side/item *Lachrymose Requiem*, while Master Entry 538 says *The Broken Tear Requiem*; the Suit/Stigma names likewise divide between primary/Master *Broken Tear* and Side/item *Lachrymose*. The local floating prism/gyroscope differs from the linked tear-shaped glaive, with no transition documented. The Master table labels the Weapon FANTASY—Astral/Orrery and the archetype supports a prism, but the archetype assigns Long reach against local/Side/item Range 3 (Medium); neither source resolves the linked form. Tale 180 supports *Broken Tear* as the entity name, not an equipment alias. Side A has no standalone Appearance section; items B/C/D do, with no separately labelled transition block. The Master Registry is partial and detailed Master entries do not supply full item profiles. No disputed title, form, class, reach, slot, or chance was normalized.
 
 ## 관찰 기록 (Observation Log)
 
