@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 12–18 per completed working of the record |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
 | **Recommended response** | Bring the Gauge down through the Work Types registered for this Subject; the Object/Place pair does not apply here. |
@@ -233,7 +233,8 @@ The set is organised around being audible and the armoury's note says so without
 | **After use** | Sealed list read back by someone else, closing diagonal, name and voice checked at two hours. Operators who did not speak at all are not sanctioned and are not reassigned, and the file is explicit that this is deliberate. |
 
 **Stat interpretation:** β across the set and correctly rated against entities. Against people it costs memory, self-presence, and the capacity to walk past somebody asking for something, and the establishment has a column for the first two.
-## 관찰 기록 (Observation Log)
+
+**Full-set source review (2026-10-12):** Reviewed the grade overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against Side `SE-1016-A` (`N-IIβ-170 [VS]`, `4/4`), items `SE-1016-B/C/D`, Registry rows 226–229, Master M.A.W. entries 472–474, Entity Codex row 525, Tale 158, and archetypes `MAW-W-170/1016`. The three local piece grades and linked Side/item/Master records support β; the overview's M.A.W. slot is completed from `—` to `β`, while Tool remains `—`. Side A has no standalone Appearance heading; none of the three item pages has an Appearance section or separately labelled transition. Hold the primary five-globe *Resonant Echo-Orrery* against Side/item *Voice Lens* and detailed Entry 472's Lens title. Linked-code `MAW-W-1016` describes a hungry split-jaw cleaver / Close; the separate `MAW-W-170` catalog row lists an Orrery / Short. The local Range 2 (Short) matches the latter band, but neither archetype gives a crosswalk to the linked item. `MAW-W-170` is also the code series used by Unrung: the B78 source review corrected Unrung's copied Orrery block to its separately linked Silence Hammer using its own item and Master Entry 130, so the repeated Orrery text is copy evidence, not independent Aphonia confirmation. The primary's abandoned silent-variant proposal and the item/Side source-response record concern use and attribution, not an appearance or transition. Local Weapon/Suit values and Head / 5% / +1 Stigma fields align with the linked set; the Registry keeps only a generic Accessory slot. Tale 158 establishes the Silent Scream's entity context, not equipment form. No disputed form or combat profile was normalized.
 
 **R.D. Comprehension Level:** 2 — Basic
 
