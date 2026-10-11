@@ -273,7 +273,7 @@ A droplet of glowing blue sorrow water continuously beads at the lower lip of th
 
 ### M.A.W. Use Notes
 
-All three pieces do what the Fountain does: they take pressure off whoever is near them, immediately and without being asked. That is the listed benefit and it is genuine. The cost is that the relief is borrowed rather than given, and the wielder repays it over the following days in flatness, slowed movement and a reluctance to begin things. No protocol produces a Stigma here.
+All three pieces do what the Fountain does: they take pressure off whoever is near them, immediately and without being asked. That is the listed benefit and it is genuine. The cost is that the relief is borrowed rather than given, and the wielder repays it over the following days in flatness, slowed movement and a reluctance to begin things. A repeatable protocol cannot produce a Stigma here: after successful source work, the Fountain may bestow one at its own discretion, but it cannot be requested, scheduled, or compelled.
 
 ### Field Use Record
 
@@ -285,6 +285,9 @@ All three pieces do what the Fountain does: they take pressure off whoever is ne
 | **After use** | Removal, lingering effects, cooldown, repair need, reuse authorisation, and a welfare check at seven days rather than at twenty-four hours, because the cost on this set arrives late. |
 
 **Stat interpretation:** The grade says how strongly a piece works; it says nothing whatever about the debt. This is a γ set that has never hurt a body and has still sent more people to stand-down than any δ kit in the wing — always the same reason, and never in the first week. Read both columns, authorise off the second, and schedule the check late.
+
+**Full-set source review (2026-10-11):** Reviewed the Weapon, Suit and Stigma blocks, γ grade overview, Use Notes and Field Use Record against all pages of Side `SE-088-A`, linked `SE-088-B/C/D`, Master Registry, Master Codex Entries 43–45, and `MAW-W-088`. The Weapon title *The Weeping Basin-Aspergillum* is shared by the primary, item identity, Side set table and Master Entry 43, but its repeated wand-mace Appearance conflicts with the item's Resting/Active blade and Side blade card; primary 10–16 / Normal 3 / Long 4 / cone / 100%→75% also conflicts with item/Side 7–12 / Fast 3 / Medium 3 / Skewer / 100%→70%→50%. The Master entry supplies no combat profile, the Registry is variable, and the archetype says Close; no transition or mode split resolves this. Suit resistance, amount and cost agree locally; the Side set table/primary/item use *The Cistern-Keeper's Chiton & Mantle*, while its stat card calls it *The Sorrow Shroud*, and the primary's *Aqueous Dissipation* versus item *Layered Water* / *Witness Fold* lacks a mode crosswalk. Stigma remains held across all three sources: primary/item official name *The Weeping Gargoyle Brooch*, Side card *The Sorrow Vial*, primary chest/brooch versus Side Tail and item identity Tail-vial versus its own brooch Appearance, and Registry 5% versus the local 4%. The primary +2 and item +2 agree, but primary *Shared Wellspring* differs from item *Shared Breath* and Master Entry 45's calming wave. The Use Notes now distinguish non-compellable bestowal from repeatable protocol. The Registrum Addendum's pool-edge summary separately repeats Weapon 10–16 / 40 Echoes, Suit 35 Echoes, and Stigma 4% / “Max 3 pieces”; this is an internal recap, not independent item-record corroboration, and its Weapon line repeats the disputed primary profile. No disputed profile, slot, chance or ability was selected.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
