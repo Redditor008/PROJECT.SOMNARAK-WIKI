@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
 | **Recommended response** | Only two Work Types answer here: Viderehan from the rows and Ferrehan posted in them. Ferrehan comes first, the gauge falling under it while Viderehan only holds the reading level. Acknowledge what the households want and promise them no meal, since no fruit off these branches has ever been eaten and a promise made at the branch is one the garden cannot keep. Pick nothing. Log the empty stems and take no sample through the gate, because fruit thins away in transit and 31 years of trying have produced no exception to it. Yield is booked against arrivals, and arrivals are never named. The 60 per cent trigger is watched from the marked corner rather than from inside the rows. |
@@ -94,7 +94,7 @@
 
 - Resilience fails here as reaching. The worker stands in a row of heavy fruit for an hour and the hand goes out on its own, and four have, and all four reported themselves.
 - What long exposure leaves behind is a worker who cannot bring themselves to file a set-off. Seventeen Wardens came off this garden's rota and were later found handing entitlements over entire, and the credit office's complaint against the rule that governs this garden names every one of the seventeen.
-- The set takes feeling, reflex and temper, a day apiece. The armoury set both facts down: the three charges in one line, and in a second line the observation that the dagger's charge is the one bearers feel last.
+- The set takes feeling, reflex, and temper for different intervals. While the Dagger is drawn the wielder feels none of their own; the following hour arrives all at once, while the Plate dulls reflexes and the Charm shortens temper for about a day each. The Armoury records the charges separately and notes that the Dagger's is the one bearers feel last.
 - No breach has ever been recorded. It widens and withdraws, four times each way in thirty-one years, with no intervention on any of the eight occasions; the escalation model below is a reconstruction and is marked as one.
 
 ## Appearance
@@ -226,7 +226,7 @@ There has been no breach and there is no boundary. Escalation here is a season s
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 when working this entity, and the bearer's own entitlements may not be set off while they hold it. The provision was written for a single bearer in Year 4233 and has never been withdrawn.
+**Effect:** +1 Resilience when working this entity, and the bearer's own entitlements may not be set off while they hold it. The provision was written for a single bearer in Year 4233 and has never been withdrawn.
 
 **Ability:** The charm goes cold when the bearer is about to apply a set-off to somebody else's entitlement. It confers nothing else and the holding has stopped describing it as a boon.
 
@@ -248,6 +248,10 @@ The armoury's note records none of it as designed: the pieces were found one at 
 | **After use** | Plate to the gate, hands checked and recorded as empty by the relief and not by the wearer, reflex and temper checks at one day, sealed declaration read back. Four workers have declared a reach they were not observed making. |
 
 **Stat interpretation:** α across the set and correctly rated against entities. Against people it costs an hour of absent feeling that arrives all at once afterwards, a day of reflex, and a day of anger aimed at procedures, and the establishment has a column for the second.
+
+**Full-set source review (2026-10-12):** Reviewed the `— · α` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-456-A` (`N-IIβ-456 [N]`, set `4/4`), items `SE-456-B/C/D` (`MAW-W/S/G-456-01`), Registry rows 679–682, Master Codex table/Entries 490–492, Tale 164, and the Weapon archetype records for `MAW-W-456`. All primary review sections are present. The Side set page has no standalone Appearance section; all three linked item files have Appearance sections, and none has a separately labelled transition block. Master details do not supply item Appearance or a full combat profile; the repository has Weapon archetypes but no Suit/Stigma catalog. The primary's Grudge 3–6, speed 2, range 2, max 5, and 15-Echo Weapon profile and the Suit profile/cost match the Side/item evidence; Single and 1.0 coverage are Side/item-only and remain unstated locally. Tail / 5% and +1 Resilience agree across the primary, Side, and Stigma item, and the primary effect now names Resilience. All three primary item blocks, linked item records, and Master entries give grade α; the M.A.W. half of the overview now reads α. The early cost recap now preserves the Dagger's use-and-following-hour timing separately from the Plate's reflex and Charm's temper costs.
+
+**Holds:** Primary/Master titles (`Fading Fruit Dagger/Plate/Charm`) differ from Side/item titles (`The Indebted Dagger/Plate/Charm`). `MAW-W-456` retains its original `Straight Parallel Dirk` (Short) record and a later full-set similarity-sweep replacement, `Rondel Dagger`, which has no band in that replacement row. Both depictions remain under the same code; no source crosswalk or transition is documented, so neither silhouette is selected. Registry row 682 remains generic Accessory / 5%, while the linked Stigma records specify Tail / 5%. The fourth tested scale in the primary Use Notes is a dismantled trial, not an issued fourth item; the Side set remains `4/4`. Tale 164 was checked for the source account and provides no M.A.W. form crosswalk. No title, silhouette, or Registry classification was normalized; no linked source file changed.
 
 ## 관찰 기록 (Observation Log)
 
