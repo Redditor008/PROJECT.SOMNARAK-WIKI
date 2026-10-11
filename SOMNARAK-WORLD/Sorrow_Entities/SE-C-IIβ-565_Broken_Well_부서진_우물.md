@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | β (Moderate) · β (Moderate) — the Broken Well Fang, Plate and Lantern are all graded to the holding. |
+| **Tool / M.A.W. grade** | β (Moderate) · α — the Broken Well is β; its Fang, Plate and Lantern are each α. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
 | **Recommended response** | Work from the rail, tethered, with the annual search finding to hand. Flerehan and Ferrehan lower the gauge; Pugnahan hardens the rim and is prohibited. This is a Subject and all four Work Types are valid. |
@@ -211,7 +211,7 @@ Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Gr
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat against the source holding, and on this set the effect rides on the bearer's own record: the three grants have all gone to Wardens who reported the depth straight, including when their own figure was the outlier.
+**Effect:** +1 Resilience against the source holding, and on this set the effect rides on the bearer's own record: the three grants have all gone to Wardens who reported the depth straight, including when their own figure was the outlier.
 
 **Ability:** Reveals hidden spaces beneath structures.
 
@@ -233,6 +233,10 @@ Nothing in this set equips a worker against the Well; each piece is the holding 
 | **After use** | Take the piece back, re-assess at a week — what this set takes does not present on the day — and return the bearer to the rail only when somebody else confirms the reactions have come back. |
 
 **Stat interpretation:** The grade records how cleanly the grief came off the holding; the cost column records what the bearer takes home, and on this set the two run in opposite directions: the Fang is the lowest-rated piece of the three and carries the longest symptom list, because what it borrows is her endurance at an edge and what it charges is the ability to stop looking for something.
+
+**Full-set source review (2026-10-12):** Reviewed the Tool/M.A.W. grade overview, all three local item blocks, Use Notes, Field Use Record, and Stat interpretation against Side `SE-565-A` (`C-IIβ-565 [D]`, set `4/4`), items `SE-565-B/C/D` (`MAW-W/S/G-565-01`), Registry rows 744–746, Master Codex table/Entries 169–171, Tale 57, and archetype `MAW-W-565`. All review sections are present. Side A explicitly distinguishes the β source from its canonical α M.A.W. set; the primary item blocks, linked items, and Master entries also grade all three pieces α. The overview now records `β (Moderate) · α`. The Weapon/Suit numeric profiles align; the Side/item Single pattern and 1.0 coverage are not stated locally and were not backfilled. The Stigma effect now names `+1 Resilience`, supported by Side and item D.
+
+Keep *Broken Well* (primary, Master table/Entries, Tale 57) distinct from *Upwell* (Side/items and the `MAW-W-565` archetype) until a source supplies an alias crosswalk. The Weapon archetype's Short band agrees with local Range 2 (Short), but does not settle the title. The Master table's PRIMAL—Bio/Marrow label does not map cleanly to the linked Han-iron fang. Registry rows 744–746 have N/A in their Grade cells, variable or generic profiles, and an Accessory / 5% Stigma record rather than the local/Side/item Tail / 5%; these metadata do not resolve the naming/classification holds. Side A has no standalone Appearance section; linked items B/C/D do, with no separately labelled transition block. No disputed title, weapon class, slot, or profile was normalized.
 
 ## 관찰 기록 (Observation Log)
 
