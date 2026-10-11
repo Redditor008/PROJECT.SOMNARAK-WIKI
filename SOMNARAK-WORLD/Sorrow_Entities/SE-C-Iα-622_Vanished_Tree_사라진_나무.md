@@ -211,7 +211,7 @@ The table applies and the number the station keeps is visible seconds per pass, 
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to work on this holding. The pendant is cut from a stake replaced at the outline and carries the date it was drawn, which is the only thing about this holding that is allowed to be a keepsake.
+**Effect:** +1 Resilience while working this holding. The pendant is cut from a stake replaced at the outline and carries the date it was drawn, which is the only thing about this holding that is allowed to be a keepsake.
 
 **Ability:** Reveals erased routes and settlements.
 
@@ -233,6 +233,8 @@ Every piece comes off something the maps have stopped admitting, and the set ext
 | **After use** | Reconcile against the certified copies and reissue whatever is missing under the wielder's name. The Armoury has reissued nine and failed to reconstruct two. |
 
 **Stat interpretation:** The grade says how hard it hits and nothing about a set that erases its wielder's administrative trail. Authorise on the certified copies; the rating is irrelevant here.
+
+**Full-set source review (2026-10-12):** Reviewed the α grade overview, all three local item blocks, Use Notes, Field Use Record, Stat interpretation, and every other M.A.W. claim against Side `SE-622-A` (`C-Iα-622 [D]`, set `4/4`), items `SE-622-B/C/D` (`MAW-W/S/G-622-01`), Registry rows 771–774, Master M.A.W. entries 349–351, Entity Codex row 483, Tale 117, and Weapon Archetype `MAW-W-622`. Side A has no standalone Appearance section; all three item pages have Appearance sections, and none has a separately labelled transition block. The Stigma effect now names `+1 Resilience`, supported by Side D and item D. Hold the primary/Master `The Vanished Tree` title against Side/item `Vestige`; the local Weapon's body/photo effect against the linked Fang's active-seal Erasure Cut; and the archetype's Medium band against primary/Side/item Range 2 (Short). The archetype's Map-Mirror Fang description and the item's Grudge Han-iron form lack a crosswalk to the Master index's PRIMAL—Bio/Marrow class. Tail remains local/Side/item against the Registry's generic Accessory label. Side/item Single pattern and the item-only 100% coverage were not added to the primary.
 
 ## 관찰 기록 (Observation Log)
 
