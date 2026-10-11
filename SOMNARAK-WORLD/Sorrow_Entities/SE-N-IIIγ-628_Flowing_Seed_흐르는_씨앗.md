@@ -243,7 +243,7 @@ The blade flat is etched with botanical germination diagrams filled with dark co
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 to work on this holding. The vial cools near unresolved service records and has been used, informally and without authority, to locate them.
+**Effect:** +1 Resolve while working this holding. The vial cools near unresolved service records and has been used, informally and without authority, to locate them.
 
 **Ability:** Absorbs emotional pressure from a room.
 
@@ -265,6 +265,8 @@ Every piece in the set is cut from the holding it is issued against, and it carr
 | **After use** | Return the piece, open the sealed baseline, and record whether the toll has reversed. Where it has not, the piece is not reissued to that wielder, a rule the armoury has applied without exception. |
 
 **Stat interpretation:** The grade measures how cleanly the piece was taken from its source; it says nothing about what the piece does to the person holding it. A low-grade tool can perform flawlessly and still return a bearer who is heavier for a season, and on this set the two columns have never moved together. Read both columns and authorise on the second.
+
+**Full-set source review (2026-10-12):** Reviewed the α equipment-grade overview, all three local item blocks, Use Notes, Field Use Record, Stat interpretation, and the earlier M.A.W. cost claim against Side `SE-628-A` (`N-IIIγ-628 [D]`, set `4/4`), items `SE-628-B/C/D` (`MAW-W/S/G-628-01`), Registry rows 779–782, Master M.A.W. entries 448–450 and Entity Codex row 517, Tale 150, and Weapon Archetype `MAW-W-628`. Side A has no standalone Appearance section; all three item pages have Appearance sections, with no separately labelled transition block. Side A explicitly separates its Major γ source grade from the α equipment grade; the primary overview and all three item grades correctly remain α. The Stigma effect now names `+1 Resolve`, supported by Side A and item D. Hold the primary/Master-index `Sprouting Seax` against Side/item `Patrimoine Maul` and Master Entry 448's `Flowing Seed Maul`; the primary's broken-back seax/spore effect against the linked Maul's routed settling-bed function; and the archetype's Room band against primary/Side/item Range 2 (Short). The Master index calls the weapon a Short Blade while its archetype row assigns Room. Side/item Single pattern is corroborated; 100% coverage appears only in item B and was not copied. Head remains local/Side/item against the Registry's generic Accessory label.
 
 ## 관찰 기록 (Observation Log)
 
