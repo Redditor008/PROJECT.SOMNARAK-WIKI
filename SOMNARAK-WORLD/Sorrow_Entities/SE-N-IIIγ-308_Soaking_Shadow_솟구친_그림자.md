@@ -211,7 +211,7 @@ Two responses apply and both are conducted from outside the wetted margin. Ferre
 
 **Type:** Weapon | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of Grudge Han-iron, struck from the plate's own stock, dark and faintly warm, that goes bright along the edge only when the wielder is holding something in. Armoury note: it has never been seen to brighten in a quiet room.
+**Appearance:** a fang-curved blade of Grudge Han-iron, formed from dried Crimson runoff after a stored grievance is acknowledged and released without retaliation. Dark liquid runs away from the tip; the edge goes bright only when the wielder is holding something in. The Armoury has never seen it brighten in a quiet room.
 
 **Damage:** Grudge 7-12
 **Speed:** 3 (Fast)
@@ -245,32 +245,40 @@ Two responses apply and both are conducted from outside the wetted margin. Ferre
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that grows hot against the skin in the presence of a grievance that is being rehearsed rather than settled. Twelve were struck, one for each grade on the card. Eleven are issued; the twelfth is held unstruck, by order, against the grade the holding has not yet reached.
+**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that grows hot against the skin in the presence of a grievance that is being rehearsed rather than settled. Twelve grade positions are reserved, one for each grade on the card. Eleven charms have been struck and issued; the twelfth is held unstruck, by order, against the grade the holding has not yet reached.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 to the working stat, and for about a day the wearer can carry out an instruction they disagree with and set it down afterwards without it following them home. The second half is the part worth having, and the Armoury issues the charm for it. Bearers who file an objection while wearing it report that the setting-down still works.
+**Effect:** +2 Resilience during source work; for about a day the wearer can carry out an instruction they disagree with and set it down afterwards without it following them home. The second half is the part worth having, and the Armoury issues the charm for it. Bearers who file an objection while wearing it report that the setting-down still works.
 
 **Ability:** A minor boon drawn from what the holding is: the charm takes a grievance the wearer is obliged to carry and keeps it overnight, returning it in the morning with the date attached and the heat gone out of it.
 
 **Cost:** The bearer's temper shortens.
 
-*Twelve charms exist, one for each grade on the card. Eleven have been issued. The twelfth is held unstruck, by order, against the grade the holding has not yet reached.*
+*Twelve grade positions are reserved, one for each grade on the card. Eleven charms have been issued; the twelfth is held unstruck, by order, against the grade the holding has not yet reached.*
 
 ### M.A.W. Use Notes
 
-These three pieces are the vault in miniature, and they are issued rather than sold because the Company cannot make more of them. What they take is the wearer's own anger, held overnight and handed back cooler; the Armoury records the handover against the wielder's ledger rather than against the piece, which is a filing decision and not a finding.
+These three pieces are the vault in miniature, and they are issued rather than sold because the Company cannot make more of them. Their bearer-side costs are piece-specific: the Fang makes old injuries ache and prolonged use may leave bruising; the Veil leaves the wearer carrying the anger it absorbs; the Charm shortens the bearer's temper. The Armoury records each cost against the wielder's ledger rather than against the piece, which is a filing decision and not a finding.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's card grade, and a sealed baseline written by somebody else. On pieces from Soaking Shadow the recorded cost is the old wounds, in the order they were received, and the baseline is what the wrist is checked against afterwards. |
+| **Before use** | Wielder, piece, the day's card grade, and a sealed baseline written by somebody else. Record the baseline by piece: the Fang's old injuries in receipt order; the Veil wearer's state before absorbing a hostile effect; and the Charm bearer's temper before carrying its grievance. The wrist check applies to the Fang, not the whole set. |
 | **During use** | The first sign that the piece is working is that the wielder has stopped answering questions. Logged with the hour by the second worker, never by the wielder, and the entry is made whether or not the wielder agrees that anything has changed. |
-| **At limit** | The wearer carries the absorbed anger out with them and describes arriving somewhere familiar as flat. On this set the cost is continuous rather than occasional, and the second worker's call stands against the wielder's. |
-| **After use** | Return the piece to its bracket, open the sealed baseline, and take the ageing of the old wounds in the order they were logged. The answer is entered whether or not the wielder agrees, because on this set the bearers lose the vocabulary for the question being asked. |
+| **At limit** | The second worker calls the limit against the cost of the piece in use: the Fang's old-wound ache and bruising, the Veil's absorbed anger still carried by the wearer, or the Charm's shortened temper. The file also records arrival at a familiar place feeling flat; the cost is logged as continuous rather than occasional, and the observer's call stands against the wielder's. |
+| **After use** | Return the piece to its bracket, open the sealed baseline, and compare the recorded cost for that piece. For the Fang, check the old wounds in their logged order; for the Veil, record the anger still carried and its release handoff; for the Charm, compare the bearer's temper with baseline. The second worker enters the answer whether or not the wielder agrees. |
 
 **Stat interpretation:** The plate's numbers describe the tool; they do not describe what the shift did to the person holding it. A piece can read well on every axis and still return a wearer who will not enter the vault again, and on Soaking Shadow that is the ordinary outcome rather than the exception. Read the two columns separately and enter both.
+
+**Full-set source review (2026-10-12):** Reviewed the `I-Relic (Indumentum) · γ` overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, activation-debit sentence and Registrum record detail against Side `SE-308-A` (`N-IIIγ-308 [GO]`, set `4/4`) and items `SE-308-B/C/D` (`MAW-W-308-01`, `MAW-S-308-01`, `MAW-G-308-01`), Master Registry rows 591–594, Master Codex table/Entries 427–429 and Tale 143, and archetype `MAW-W-308`. All primary review sections are present; the Side Codex declares a `4/4` set and all three linked item records are present. Each item has an Appearance section but none has a separately labelled transition block. Master detail entries provide type/grade/element/ability/cost rather than Appearance or complete profiles. The primary separately identifies a mounted I-Relic carriage plate for the unliftable Shadow; that is not a fourth named M.A.W. item. The Fang-cost and Stat interpretation uses of `plate` lack an item-level crosswalk and remain held; no Suit/Stigma archetype catalog exists.
+
+Weapon Grudge 7–12 / Fast 3 / Range 3 Medium / max 3 / 40 Echoes agrees across primary, Side and item; Side/item add Skewer and 100% → 70% → 50%, unstated locally. The `MAW-W-308` Medium retreat-channel/Kukri records support the fang silhouette and runoff direction. The primary's former `struck from the plate's own stock` claim was replaced with the linked source's acknowledged-release/dried-runoff formation. The primary, Side and item use `Soaking Shadow` versus `Vault of Unspoken Spite` equipment titles; Registry and item pages follow the latter, while Master Codex follows the former. The exact designation confirms the bundle but supplies no alias crosswalk. The archetype catalog itself has `Spites Fang` and `Spite's Fang` renderings; neither resolves that alias. Master table subtypes PRIMAL/Bio/Marrow for the iron Fang and Hauberks/Chain Mail for the cloth Veil remain unsupported by the item appearances and are held.
+
+Suit L/G/V/W resistance values 1.0/0.4/1.8/1.2, max 3 and 35 Echoes agree. Stigma Tail / 4% / +2 agrees; Side/item specify Resilience during source work, so that local bonus is now explicit. Registry row 594's generic Accessory / 5% is held against the source-specific Tail / 4%. Primary, Side, linked items and Master M.A.W. entries grade the set γ; Tale 143 still has Residue I / Minor α, so the entity-tale classification remains held without changing the equipment grade.
+
+The prior Use Notes generalized anger as the shared cost, while the Field Use Record applied the Fang's old-wound check to every item. They now distinguish Fang ache/bruising, Veil-carried anger and Charm-shortened temper, supported by the local item blocks, Side set cost and linked records. The local Stigma count was reconciled internally as twelve reserved grade positions, eleven issued charms and a twelfth unstruck. The Fang-cost and Stat interpretation references to a `plate` still have no item-level mapping; retain that terminology as a hold rather than treating it as another M.A.W. family. No disputed title, subtype, resistance, chance or combat value was changed.
 
 ## 관찰 기록 (Observation Log)
 
