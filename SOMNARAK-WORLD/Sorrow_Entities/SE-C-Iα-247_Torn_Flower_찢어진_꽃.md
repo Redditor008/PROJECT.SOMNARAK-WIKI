@@ -211,7 +211,7 @@ A stable gauge is not a safe encounter, and on this holding the gauge is stable 
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat, and the bearer can tell at a glance whether a thing was finished by the hand that started it.
+**Effect:** +1 Resilience during source work; the bearer can tell at a glance whether a thing was finished by the hand that started it.
 
 **Ability:** Grants a minor boon tied to Torn Flower's sorrow; the effect mirrors the holding's nature — a grudge carried and not acted on, which the behaviour table gives as the only way this bloom is ever worked.
 
@@ -233,6 +233,12 @@ The kit does not arm anyone against this flower; it borrows the flower's own ter
 | **After use** | Return the piece, then ask a colleague rather than the wielder whether the cost is still showing — the dulled reflexes, the resentment the body has taken on — and enter the tear position recorded where the piece was carried. Where the wearer has stopped reporting it, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** Grade and risk are separate columns and on this set they run far apart: the damage line describes what a piece does to a holding, while the cost line describes a wielder whose touch begins to hurt the people they love. Authorise on the cost column; on a Torn Flower piece a minor grade carrying that charge is the ordinary case and not the exception.
+
+**Full-set source review (2026-10-12):** Reviewed the `Granted pieces · α` overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation and other M.A.W. claims against Side `SE-247-A` (`C-Iα-247 [O]`, set `4/4`) and items `SE-247-B/C/D` (`MAW-W-247-01`, `MAW-S-247-01`, `MAW-G-247-01`), Master Registry rows 534–537, Master Codex table/Entries 334–336 and Tale 112, and archetype `MAW-W-247`. All primary review sections are present; the Side Codex declares a `4/4` set and all three linked item records are present. Each item has an Appearance section but no separately labelled transition block. The Master detail entries omit item Appearance and a full combat profile; the repository has no separate Suit/Stigma archetype list.
+
+The primary Weapon's Grudge 3–6 / Normal 2 / Range 2 Short / max 5 / 15 Echoes agrees with the Side and linked Sword; those records add Single / 100%, which the primary does not state. `MAW-W-247` supports the sealed-petal blade form but assigns Medium, conflicting with the primary/item Short range; hold rather than change the supported profile. Suit resistance values L/G/V/W 1.0/0.4/1.8/1.2, max 5 and 10 Echoes agree numerically. The primary's Void 1.8 `Fatal` label conflicts with item `SE-247-C`'s `Weak`; the Side gives only the number, the Registry is generic, and no standalone resistance-band crosswalk was located, so the label remains held. Stigma Tail / 5% / +1 agrees with Side and item; both name Resilience during source work, so the formerly unspecified local bonus is now explicit.
+
+Primary/Master equipment names use `Torn Flower`; Side, Registry and linked items use `Unopened Bloom`. The exact source designation confirms association but no title crosswalk, so the aliases remain held. The Side and Tale 112 place the sorrow in the flower being torn before the mourner returned; the primary Origin instead identifies the unwitnessed bloom as the originating loss and treats the tearing as incidental. Tale 112 also retains Entity IV / Major γ against the primary, Side and items' Residue I / Minor α; M.A.W. grade α is independently consistent across the local set, linked items and Master equipment table/details. Registry rows 534–537 remain partial/generic. No disputed title, resistance label, reach band or origin was normalized.
 
 ## 관찰 기록 (Observation Log)
 
