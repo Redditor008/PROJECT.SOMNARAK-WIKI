@@ -85,7 +85,7 @@ The set opens short passages to remembered places. Its price is the acknowledgem
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Wandering Requiem | β | Lament | Interrupts grief pressure at a false return threshold | `SE-152-B__MAW-W_The_Wandering_Requiem.md` |
+| Weapon | The Wayfarer's Censer | β | Lament | Interrupts grief pressure at a false return threshold | `SE-152-B__MAW-W_The_Wandering_Requiem.md` |
 | Suit | The Wandering Shroud | β | Lament | Protects a bearer while passing between remembered and current space | `SE-152-C__MAW-S_The_Wandering_Shroud.md` |
 | Stigma | The Wandering Key | β | Lament | Opens a temporary passage to a remembered place | `SE-152-D__MAW-G_The_Wandering_Key.md` |
 
@@ -93,7 +93,7 @@ The set opens short passages to remembered places. Its price is the acknowledgem
 
 ## PAGE 04 — WEAPON STAT CARD
 
-### M.A.W. Weapon — The Wandering Requiem
+### M.A.W. Weapon — The Wayfarer's Censer
 
 | Field | Record |
 |---|---|
@@ -103,7 +103,9 @@ The set opens short passages to remembered places. Its price is the acknowledgem
 | Maximum Amount / Echo Cost | 4 — Limited / 25 Sorrow Echoes |
 | Primary Cost | The bearer feels the Door’s unwept grief and may weep afterward. |
 
-**Quick effect:** The Requiem cuts a person free from a threshold memory that is trying to replace their current room.
+**Quick effect:** A single-target Lament effect interrupts a threshold memory trying to replace the target’s current room; it does not restore the lost home or turn the memory into a route back.
+
+**Weapon-title review (2026-10-11):** `N-IIβ-152`’s primary M.A.W. block and spherical brass incense-burner Appearance, current `SE-152-B` heading/Appearance, Master Registry, Master Codex table row 469, `MAW-W-152` RELIQUARY archetype, and same-code title/Appearance revision `3abe5470` support *The Wayfarer's Censer*. The linked item’s Official name and Resting/Active forms, and detailed Master Codex Entry 469, still identify *The Wandering Requiem*; its forms describe a slender blue blade and threshold line. No Requiem-to-censer transition or second form is documented. The archetype’s Medium band differs from Range 2 (Short) in the primary, linked-item, and Side cards; the Master Registry leaves reach unset, and no crosswalk resolves the difference, so leave the profile unchanged. The old item filename remains only as the link. Side-card numbers are unchanged.
 
 ---
 
