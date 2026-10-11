@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 10–14 in a session, and no session has yet produced the return that would change the figure |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | The enclosure’s two valid Work Types, worked in a single scripted pass with no promise spoken; the interval between repetitions, not the volume, is the reading that is logged |
@@ -236,7 +236,7 @@ The set is α-grade and the armoury keeps it for teaching rather than for use. L
 
 **Stat interpretation:** α-grade across the set and correctly rated. The damage these pieces do is trivial. The cost is that each of them, in a different way, makes the wielder aware of an obligation they have not discharged, and the wing has never found a way to put that on a table of resistances.
 
-## 관찰 기록 (Observation Log)
+**Full-set source review (2026-10-12):** Reviewed the grade overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against Side `SE-1013-A` (`N-IIα-125 [VS]`, `4/4`), items `SE-1013-B/C/D`, Registry rows 214–217, Master M.A.W. entries 457–459, Entity Codex row 520, Tale 153, and archetypes `MAW-W-125/1013`. The three local piece grades, Side/item grades, and Master entries support α; the overview's M.A.W. slot is therefore completed from `—` to `α`, while Tool remains `—`. Side A has no standalone Appearance heading; none of the three item pages has an Appearance section or separately labelled transition. Hold primary *The Reverberant Spear* and its six-foot fluted bronze spear against Side/item *The Echo Lens* and Master Entry 457's Lens: `MAW-W-125` describes a fluted bronze sonic spear but assigns Close, while linked-code archetype `MAW-W-1013` lists a pointed ice scalpel / Short. Local Range 2 (Short) matches the latter band, not the former. Déjà Vu `C-IVδ-125` repeats the primary Spear title/appearance, while the B90 review found its current item heading/Appearance consistent with the Spear but its item identity/resting-active fields and Entry 241 retain Lens language; that separate case has a different α/Single profile, and no shared item or form crosswalk is established. The primary's teaching-only Use Note remains held against the linked item histories' field-bearer accounts. Local Weapon/Suit profiles align with the Side/items; the Stigma's local Head / 5% / +1 claims are not resolved by the Registry's generic Accessory slot. Tale 153 supports entity context, not an equipment identity. No disputed weapon form or profile was normalized.
 
 **R.D. Comprehension Level:** 1 — Initial
 
