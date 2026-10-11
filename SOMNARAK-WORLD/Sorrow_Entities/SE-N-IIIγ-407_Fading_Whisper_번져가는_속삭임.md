@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
-| **Tool / M.A.W. grade** | γ · γ |
+| **Tool / M.A.W. grade** | γ · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | All four Work Types are valid; it is a Subject. Flerehan and Ferrehan lower the gauge, Pugnahan brightens the figure and accelerates the fade, and no watch is extended beyond its logged limit for any reason. |
@@ -213,7 +213,7 @@ The breech is fitted with an internal lead baffler that silences the detonation 
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 while working the Alpha Tree position, and nothing anywhere else; the key's other property is the one the file warns about — it opens access to one erased memory, and it costs the bearer certainty about one present one.
+**Effect:** +3 Composure while working the Alpha Tree position, and nothing anywhere else; the key's other property is the one the file warns about — it opens access to one erased memory, and it costs the bearer certainty about one present one.
 
 **Ability:** Opens access to one erased memory.
 
@@ -235,6 +235,10 @@ Each piece extends Fading Whisper rather than equipping its wielder against it, 
 | **After use** | Return the piece and re-assess a week later rather than on the day, because the charge does not present at once: the baseline is re-taken and anything missing is entered against the holding and not the person. Where the baseline does not hold, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** The grade describes what a piece can do and says nothing about what it takes. The charge on this set is inversely proportional to nothing: all three pieces are δ-grade and all three take the same kind of thing, in the same order, from every bearer. A low-rated piece can still carry a severe psychological cost, and a high-rated one can still be the cheapest item in the locker — read both columns, authorise on the second, and take the baseline before the issue rather than after it.
+
+**Full-set source review (2026-10-12):** Reviewed the `γ · δ` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-407-A` (`N-IIIγ-407 [N]`, set `4/4`), items `SE-407-B/C/D` (`MAW-W/S/G-407-01`), Registry rows 655–658, Master Codex table/Entries 430–432, Tale 144, and archetype `MAW-W-407`. All primary review sections are present. The Side set page has no standalone Appearance section; all three linked items have Appearance sections, and none has a separately labelled transition block. The Master entries do not supply item Appearances or a complete combat profile; the repository has a Weapon archetype catalog but no Suit/Stigma archetype catalog. The primary's Void 10–15, speed 3, range 3, max 2, and 50-Echo Weapon profile matches the Side/item values; the item's Skewer and 100% → 70% → 50% falloff remain unstated locally. Suit resistances and cost align. The Stigma's Head slot, 4% acquisition, and +3 Composure agree with Side/item, and the primary effect now names Composure. All three M.A.W. profiles are δ in the primary, linked items, Registry, and Master Codex; the overview's M.A.W. half now reads δ.
+
+**Holds:** The primary Weapon's `The Whispering Matchlock` and matchlock Appearance agree with the Master table and Weapon archetype, while the Side/item call it `The Lingering Lens` and describe a burning empty-center lens; Master detail Entry 430 also says Lens. No transition or crosswalk resolves the form. Primary Suit/Stigma titles (`Fading Whisper's Veil/Key`) differ from Side/item (`The Lingering Veil/Key`); Master table/detail retain the primary titles. The primary's Range 3 (Medium) matches the Side/item numeric Range 3, but the Weapon archetype assigns the Instant band; the range-category conflict remains. Registry row 658 remains generic Accessory / 5%, unlike the specific Head / 4% records. Tale 144 supplies the source account but no M.A.W. form crosswalk. No title, form, archetype band, or Registry value was normalized; no linked source file changed.
 
 ## 관찰 기록 (Observation Log)
 
