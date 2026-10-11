@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 16–22 per cycle, taken from something asleep, by a team that is not permitted to touch it. The Zone A return has carried the same footnote for six years: the yield is the only thing this holding gives the facility that the facility asked for. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | Measure the girth at the four marked stations, time the creak interval over a full hour, and leave without contact. Viderehan and Ferrehan only, and no part of a standard cycle involves the roots. |
@@ -281,7 +281,7 @@ The petrified wood possesses the hardness of tempered steel combined with superi
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat on this holding's own cycles and nothing whatsoever elsewhere — which on a cycle that amounts to a tape measure and a watch comes down to fewer arguments over the figures
+**Effect:** +1 Resilience on this holding's own cycles and nothing whatsoever elsewhere — which on a cycle that amounts to a tape measure and a watch comes down to fewer arguments over the figures
 
 **Ability:** Conceals the wearer's movement and emotional presence.
 
@@ -303,6 +303,10 @@ Extraction from a dormant source requires contact and contact is the activation 
 | **After use** | Re-measure the piece, return it to the case, and note anything the wielder said about an appointment. The notes go to the counsellor; the measurements go on the same sheet as the holding's girth. |
 
 **Stat interpretation:** The grade states what a piece does to entities and nothing whatever about what it does to the person carrying it. On this set the β rating sits beside aching wounds, dulled reflexes, and a wearer who becomes difficult to remember. Read the two columns together and authorise on the second, because the second is the one that follows people home.
+
+**Full-set source review (2026-10-12):** Reviewed the `— · β` grade overview, every local M.A.W. block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-374-A` (`O-IIIγ-374 [N]`, set `4/4`), items `SE-374-B/C/D` (`MAW-W/S/G-374-01`), Registry rows 643–646, Master Codex table/Entries 598–600, Tale 200, and archetype `MAW-W-374`. All primary review sections are present; each linked item has an Appearance section, with no separately labelled transition block. The sole archetype catalog covers Weapons, not Suits or Stigmas. The overview now reads `— · β (Moderate)` and the Stigma bonus names `+1 Resilience`, retaining the primary's source-cycle condition. The primary and linked Weapon numeric core agree; the Side/item add a Single pattern and 1.0 target coverage, unstated in the primary. Suit resistances and cost align with the linked item. Master detail entries do not provide a form transition or complete combat profile; Registry rows 644–645 retain variable/unset Weapon data and a generic Suit-resistance placeholder.
+
+Keep acquisition, cost, naming, and form differences held. The primary ties extraction to contact with the sleeping source and calls touch the activation trigger; the Side says the echo forms after the dream ends without cutting root or bark, the Weapon item describes dream-residue formation after nonparticipating witness, and the Bracelet is bestowed after a witness lets the dream end. The exact stock-taking route is not crosswalked; do not infer a single physical-harvest mechanism. The primary's shared cold/appointment cost and growing-set field observations remain local; the linked items separately record bruising/old wounds, dulled reflexes, and difficulty being remembered. Preserve both levels without flattening the item costs. Hold primary/Master-table *The Slumbering Oak-Blade* (an arming sword of petrified black oak) against the Side's *The Sleeping Promise* set and item *The Sleeping Fang* (a crimson Han-iron fang); Master detail Entry 598 calls it *The Sleeping Tree Fang*. The archetype supports a petrified-wood broadsword and `Close` reach, but no transition maps it to the primary's form or `Range 2 (Short)`; the Side/item's Single pattern does not supply that missing crosswalk. The primary's guard-breaking ability and the item’s dream-growth-cutting function remain separately recorded. Hold the Master Codex Suit/Stigma subtype classifications (Hauberks & Chain Mail; Brooches & Fasteners), which do not resolve the described harness or Tail bracelet, and Registry row 646's generic Accessory / 5%, against the specific Tail / 5% Bracelet evidence. Tale 200 supports the shared-promise theme but does not adjudicate equipment origin or form.
 
 ## 관찰 기록 (Observation Log)
 
