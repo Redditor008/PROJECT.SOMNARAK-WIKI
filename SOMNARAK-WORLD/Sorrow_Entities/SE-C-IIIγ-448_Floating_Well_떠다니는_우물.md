@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | A Subject: all four Work Types are available. Flerehan and Ferrehan lower the gauge, Viderehan holds it, Pugnahan raises it and is excluded by standing order. Never apply downward force of any kind. |
@@ -94,7 +94,7 @@
 
 - A worker who cannot hold stops being able to put anything down. They carry tools they have finished with to the end of the shift, decline to set equipment on benches, and describe the floor afterwards as *not a place for things*.
 - Long exposure produces the characteristic injury of this holding: a grief the worker can describe precisely and cannot locate anywhere, which presents in debrief as restlessness rather than distress and is caught by the language and not by the gauge.
-- The Well equipment lets the bearer carry what has no place to be set down, and charges the inability to set anything down at all. The armoury issues all three pieces with the same written warning.
+- The set carries the Well's unplaceable-burden theme, but its M.A.W. costs are piece-specific: old-injury pain and bruising from the Fang, thinning reflexes from the Plate, and loss of anger-linked memories from the Ring. The Fang's inability-to-set-down effect belongs to its target, not the bearer. The armoury issues all three with the same handling warning.
 - Unresolved, it does not come after anybody. The rim widens, the clearance beneath it is no longer wide enough, and whoever is nearest is drawn in rather than pursued.
 
 ## Appearance
@@ -211,7 +211,7 @@ Floating Well is a Fragment (III) Subject of Major (γ) potency, Subject-Weight 
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 on this holding's work and nothing anywhere else on the register: the ring answers the Well's own register, and it is issued to the watch that will be standing under the rim rather than the one reading the height.
+**Effect:** +3 Resilience on this holding's work and nothing anywhere else on the register: the ring answers the Well's own register, and it is issued to the watch that will be standing under the rim rather than the one reading the height.
 
 **Ability:** Closes minor wounds on contact and, for the length of the cycle, leaves the bearer able to put a finished tool down on the floor — the single ability in the set that the bay asks for by name.
 
@@ -221,7 +221,7 @@ Floating Well is a Fragment (III) Subject of Major (γ) potency, Subject-Weight 
 
 ### M.A.W. Use Notes
 
-Each Well piece is an extension of the holding rather than ordinary equipment, and every one of the three performs exactly as recorded while charging the same coin: the bearer loses the ability to put a thing down and be finished with it. The suit is the worst of the three and goes out for the shortest exposures the register permits.
+Each Well piece extends the holding rather than ordinary equipment, but the bearer costs are distinct: the Fang aggravates old injuries and bruises; the Plate thins reflexes and braces movement; the Ring fades memories attached to anger. The Fang's inability-to-set-down effect applies to a struck target, not to every bearer. The Suit is the worst of the three and goes out for the shortest exposures the register permits.
 
 ### Field Use Record
 
@@ -232,7 +232,11 @@ Each Well piece is an extension of the holding rather than ordinary equipment, a
 | **At limit** | Duration, activations, attribute change, rejection signs, final rim height, and whether the operator has begun carrying finished tools rather than setting them down. |
 | **After use** | Take the piece back, re-sweep the clearance with the relief watching, and ask the bearer two questions: can they set a finished tool down, and did they carry anything home? The answers go in whether or not the gauge moved, and where the first answer is no the piece is not reissued. |
 
-**Stat interpretation:** The grade describes the effect on entities and not the cost to the bearer, which is listed separately. The cost here is dispossession of the ordinary act of setting something down, and no grade of equipment reduces it.
+**Stat interpretation:** The grades describe effects on entities, not bearer costs. The Fang's recorded cost is aching old injuries and bruising; the Plate's is thinning reflexes and a braced gait; the Ring's is loss of memories attached to anger. The shared well/setting-down motif does not replace those separate charges; authorize each piece against its own record.
+
+**Full-set source review (2026-10-12):** Reviewed the `— · δ` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-448-A` (`C-IIIγ-448 [O]`, set `4/4`), items `SE-448-B/C/D` (`MAW-W/S/G-448-01`), Registry rows 671–674, Master Codex table/Entries 79–81, Tale 27, and archetype `MAW-W-448`. All primary review sections are present. The Side set page has no standalone Appearance section; all three item records have Appearance sections and none has a separately labelled transition block. Master details have no item Appearance or full combat profile; Weapon archetypes are catalogued, with no Suit/Stigma catalog. The primary's Weapon Grudge 10–15, speed 3, range 3, max 2, and 50-Echo profile agrees with Side/item values; their Skewer and 100% → 70% → 50% falloff remain unstated locally. Suit resistances/cost and Stigma Tail / 4% / +3 Resilience match the linked records; the primary effect now names Resilience. All three primary item blocks, linked item records, and Master Codex entries give grade δ; the Side page and Registry do not supply individual grades. The M.A.W. half of the overview now reads δ. The early set-cost recap, Use Notes, and Stat interpretation now distinguish the Fang's target effect from the separate bearer costs in the three item records.
+
+**Holds:** Primary/Master titles (`Floating Well Fang/Plate/Ring`) differ from Side/item titles (`Overflow Fang/Plate/Ring`). Primary and Side/item numeric Range 3 agrees, but the primary's Medium band conflicts with the `MAW-W-448` Short band. Side/item-only Skewer/falloff remains unstated locally. Master table Entry 79 labels the Weapon `PRIMAL — Bio/Marrow`, while the linked Appearance describes Grudge Han-iron; no physical-category crosswalk resolves that classification. Registry row 674 remains generic Accessory / 5%, unlike the Tail / 4% Stigma records. Tale 27 supports the origin account but supplies no M.A.W. form crosswalk. No disputed title, archetype band, Weapon subtype, or Registry value was selected; no linked source file changed.
 
 ## 관찰 기록 (Observation Log)
 
