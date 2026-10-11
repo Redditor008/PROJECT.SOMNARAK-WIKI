@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle, drawn from the compassion the crystal holds rather than from the bay. The yield has never tracked the cycle's quality, and the two Corrupt events on record produced none at all. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | δ · δ |
+| **Tool / M.A.W. grade** | δ · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
 | **Recommended response** | All four Work Types are valid; it is a Subject, and the older restriction to Viderehan is an error recorded in the Registrum. Flerehan draws it closer and Ferrehan lowers it; Pugnahan splits fragments away and raises it. Nothing sharp or heavy is handled anywhere in the bay while it is aloft, including on maintenance work that has nothing to do with the holding. |
@@ -211,7 +211,7 @@ Floating Shard is a Subject with Subject-Phantasmal manifestation and Lament exp
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to work inside this bay's cycles and nothing outside it; the lantern continues to show injuries wherever else it is carried, and the Armoury records that the light travels without the bonus.
+**Effect:** +1 Clarity to work inside this bay's cycles and nothing outside it; the lantern continues to show injuries wherever else it is carried, and the Armoury records that the light travels without the bonus.
 
 **Ability:** Reveals injuries and sorrow hidden by the Veil.
 
@@ -233,6 +233,10 @@ All three pieces carry the Shard's one capability: they make suffering legible. 
 | **After use** | Removal, injuries, lingering effects, cooldown, repair need and reuse authorisation — and the welfare debrief, taken within the shift by the named contact rather than by the armoury, since this set produces more referrals than any other in the wing and none of them from physical harm. |
 
 **Stat interpretation:** The grade states what a piece can do and says nothing about what it shows the person wearing it. Nothing in this set has ever harmed a wielder physically, and the set accounts for more welfare referrals than any other in the armoury; the α grades here are cheaper than the δ pieces elsewhere and cost the wing more. Read both columns, authorise on the second, and book the debrief before the issue.
+
+**Full-set source review (2026-10-12):** Reviewed the `δ · α` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-503-A` (`C-IVδ-503 [N]`, set `4/4`), items `SE-503-B/C/D` (`MAW-W/S/G-503-01`), Registry rows 703–706, Master Codex table/Entries 286–288, Tale 96, and the two `MAW-W-503` archetype records. Every primary review section is present. The Side set page has no standalone Appearance section; all three linked item records have Appearance sections and no separately labelled transition block. Master details do not supply item Appearance or a complete combat profile; there is no Suit/Stigma archetype catalog. The Side explicitly distinguishes source grade δ from α M.A.W. profiles; the three primary item blocks, linked records, and Master entries also give α, so the M.A.W. half of the overview now reads α. The primary's Lament 3–6, speed 2, range 2, max 5, and 15-Echo Weapon core and the Suit resistance/cost profile match the Side/item evidence; Single and 1.0 coverage remain unstated locally. Tail / 5% and +1 Clarity match Side/item, and the primary effect now names Clarity.
+
+**Holds:** Primary/Master titles (`Floating Shard Requiem/Shroud/Lantern`) differ from the Side/item set's `Hover Requiem/Shroud/Lantern`. The primary's Range 2 (Short) conflicts with the first `MAW-W-503` Wound-Holding Blade (Medium) band; a later full-set similarity-sweep entry labels Broken-Back Seax as its replacement but supplies no band or crosswalk to the linked item's Appearance. The catalog change is retained without inferring a new range or in-world transition. The Master table's Suit subtype `Hauberks & Chain Mail` and Stigma subtype `Relic Drops & Seeds` do not map cleanly to the linked silk Shroud and Tail Lantern; no subtype/slot crosswalk is supplied. Registry row 706 remains generic Accessory / 5% while the primary/Side/item identify Tail / 5%. Tale 96 supplies the origin account, not a M.A.W. form crosswalk. No title, form, band, or subtype was normalized; no linked source file changed.
 
 ## 관찰 기록 (Observation Log)
 
