@@ -247,6 +247,8 @@ The set is built out of comparison and nothing else, and no piece of it is ordin
 
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 
+**Full-set source review (2026-10-11):** Reviewed the Weapon, Suit and Stigma blocks, γ grade overview, Use Notes and Field Use Record against the full Side Codex `SE-032-A`, linked `SE-032-B/C/D`, Master Registry, Master Codex Entries 22–24, and `MAW-W-032`. The overview grade and current primary/item Weapon profile (7–12 / Fast 3 / Range 3; three-target 100% → 70% → 50%) and Suit resistances/cost agree; the item-aligned primary corrections are recorded in commits `73560193` and `89e04568`. Preserve the remaining source holds: Master Entry 22 still has 12–18 / Normal, and Entry 23 lists Grudge 0.6 / Void 1.2 versus the primary/item 0.4 / 1.8; the archetype's `Instant` band has no crosswalk to Range 3 (Medium). The Suit is a Greatcoat by primary, Side table, Master table and identical appearance, but `SE-032-C` is titled *The Judgment Plate* and gives *Hold the Scale* rather than the primary/Master *Karmic Counterweight*. Stigma Chest / Brooch, 4%, and +2 agree between primary and `SE-032-D`; Registry retains generic Accessory / 5%, while Master table row 24 uses Relic Drops & Seeds and the linked *Compare the Burden* effect does not map cleanly to the primary/Master labels. These are holds; no item or Master values were changed. The two-party witness resonance and Field Use Record remain compatible with the set's accountability rules.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
