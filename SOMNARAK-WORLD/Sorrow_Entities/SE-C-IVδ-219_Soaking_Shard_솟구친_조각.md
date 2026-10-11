@@ -211,7 +211,7 @@ Escalation here is volumetric. Record the sump reading at the start and end of t
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender Lament Han-crystal blade, faintly luminous, that lights along its edge when readied — drawn from the shard's own outer film, so it carries the same wet-to-dry reading and goes slick in the hand at the chalk line.
+**Appearance:** a slender Lament Han-crystal blade with a faint luminous edge that lights when readied. It forms from the dry residue line after a complete O-Relic channel; the blade retains a wet-to-dry reading and goes slick in the hand at the chalk line.
 
 **Damage:** Lament 10-15
 **Speed:** 3 (Fast)
@@ -245,11 +245,11 @@ Escalation here is volumetric. Record the sump reading at the start and end of t
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a pendant of Lament Han-crystal, faintly luminous and cold, heavy in the palm beyond its size; it is cast from a bead of the shard's own film and goes warm near the vessel, which is how bearers know the margin is closer than the chalk says.
+**Appearance:** a pendant of Lament Han-crystal, faintly luminous and cold, heavy in the palm beyond its size; the registered piece is recorded as bestowed after a researcher completed Ferrehan beside an evaporating memory without trying to identify the dead by guesswork, and no extraction procedure can produce it. It goes warm near the vessel, which is how bearers know the margin is closer than the chalk says.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 while this holding is the subject of the cycle and nothing anywhere else: the pendant answers the film's own register, and no other crystal in the vault reads through it at all.
+**Effect:** +3 Clarity during source work while this holding is the subject of the cycle, and nowhere else: the pendant answers the film's own register, and no other crystal in the vault reads through it at all.
 
 **Ability:** Absorbs one emotional attack and stores it as a memory.
 
@@ -259,7 +259,7 @@ Escalation here is volumetric. Record the sump reading at the start and end of t
 
 ### M.A.W. Use Notes
 
-All 3 pieces come off the shard's outer crystal and keep its film: each is faintly wet to the hand in a dry room and stays that way. The toll differs by piece but the shape of it is one — the bearer ends up carrying grief that is not theirs — and the set note says plainly that a piece taken from this vessel does not give anything back to it.
+The three pieces have distinct recorded sources: the Requiem forms from a dry residue line after a complete O-Relic channel; the Shroud condenses from mist above a memory vision that evaporates with witnesses; and the registered Pendant was bestowed after a researcher completed Ferrehan beside an evaporating memory without trying to identify the dead. No extraction procedure produces the Pendant, and the set is not three pieces cut from one crystal film. The toll differs by piece but the shape of it is one — the bearer ends up carrying grief that is not theirs — and the set note says plainly that a piece taken from this vessel does not give anything back to it.
 
 ### Field Use Record
 
@@ -271,6 +271,12 @@ All 3 pieces come off the shard's outer crystal and keep its film: each is faint
 | **After use** | The piece comes back and the bearer is re-assessed a week later, because this charge does not present on the day: the second worker asks for the week's dreams and the last thing that made the bearer laugh, and where neither can be produced the piece is not reissued. |
 
 **Stat interpretation:** Grades describe extraction stability and nothing about human safety: a well-graded piece can still demand a toll no rating accounts for, and on this set the toll is a bearer weeping with no account of whose grief they are carrying. Authorise on the cost column, and treat a low-rated piece carrying that charge as the ordinary case in this vault.
+
+**Full-set source review (2026-10-12):** Reviewed the `O-Relic (Offertorium) · δ` overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation and other M.A.W. claims against Side `SE-219-A` (`C-IVδ-219 [LO]`, set `4/4`) and items `SE-219-B/C/D` (`MAW-W-219-01`, `MAW-S-219-01`, `MAW-G-219-01`), Master Registry rows 494–497, Master Codex table/Entries 256–258 and Tale 86, and archetype `MAW-W-219`. All primary review sections are present; the Side Codex declares a `4/4` set, and all three linked item records are present. Each item has an Appearance section but none has a separately labelled transition block. The Master detail entries have no item Appearance or full combat profile; the repository has a Weapon archetype list only, with no separate Suit/Stigma archetype list.
+
+Primary, Side and item profiles agree on Weapon Lament 10–15 / Fast 3 / Range 3 Medium / max 2 / 50 Echoes; Side/item add Skewer, three targets and 100% → 70% → 50%, unstated locally. `MAW-W-219`'s wet needle-crystal silhouette supports a blade but its Short band conflicts with the matching primary/item Medium range. Suit L/G/V/W resistances 1.0/0.4/1.6/0.8, max 2 and 45 Echoes agree. Stigma Tail / 4% / +3 agrees; Side and item specify Clarity during source work, so the local bonus stat is now explicit. Side, Registry and item titles use `Splinter`, while the primary and Master Codex use `Soaking Shard`; the exact designation verifies linkage but provides no alias crosswalk. Registry rows 494–497 remain sparse, and row 497's generic Accessory / 5% conflicts with the supported Tail / 4% Stigma. No disputed title or range was normalized.
+
+The primary's shared-cut/film claim was replaced with the item-specific formation recorded by the Side and linked items: dry residue for Requiem, witnessed-vision mist for Shroud, and bestowal rather than extraction for the Pendant. The primary's Pendant-warms-near-vessel observation differs from the linked item's cool-until-attack description; the primary's no-return-to-source statement is not settled by the Side/item release and evaporation procedures. Both remain explicit holds; no transfer was inferred.
 
 ## 관찰 기록 (Observation Log)
 
