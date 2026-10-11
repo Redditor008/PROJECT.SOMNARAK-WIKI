@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 10–14 per cycle, against a holding that fits in a cupped hand and is worked on a laboratory balance. The vault's note is that this is the cheapest cycle in Zone A to run and the most troublesome to staff. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
 | **Recommended response** | Weigh it, hold it, say aloud whose grief it is and that it was not yours, and set it down deliberately. Viderehan and Ferrehan only. The mass at the end of the cycle is the result; nothing else about the session is recorded as an outcome. |
@@ -250,7 +250,7 @@ The ampoule glows with soft azure bioluminescence that responds to emotional gri
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the bearer's rating while working the Tear, forfeited for the remainder of the cycle the moment the bearer describes the grievance as their own — the only equipment clause in the vault that is enforced by what somebody says
+**Effect:** +1 Resilience while working the Tear, forfeited for the remainder of the cycle the moment the bearer describes the grievance as their own — the only equipment clause in the vault that is enforced by what somebody says
 
 **Ability:** Reveals suppressed anger.
 
@@ -272,6 +272,8 @@ Each piece remains part of the Tear, and the set has one property the grades do 
 | **After use** | Closing mass against opening mass, and the same question asked again a week later. Six of the nine over-run holders still held the grievance at a week; three of those six still held it at a month, and all three were taken off the vault rota. |
 
 **Stat interpretation:** The α grades are accurate and modest — three to six damage, ten to fifteen Echoes, nothing hidden. What no column records is that the Shard's cost is a continuous supply of anger with the origin removed, which is indistinguishable from conviction. Read the Cost lines as the specification.
+
+**Full-set source review (2026-10-12):** Reviewed the I-Relic/M.A.W. grade overview, all three local item blocks, Use Notes, Field Use Record, Stat interpretation, and every other M.A.W. claim against Side `SE-709-A` (`O-Iα-709 [GO]`, set `4/4`), items `SE-709-B/C/D` (`MAW-W/S/G-709-01`), Registry rows 827–830, Master M.A.W. entries 721–723 and Entity Codex row 611, Tale 241, and Weapon Archetype `MAW-W-709`. Side A has no standalone Appearance section; all three item pages have Appearance sections, with no separately labelled transition block. The overview now records α, supported by the Side's I / α profile and all three α item records. The Stigma effect now names `+1 Resilience`, supported by Side A and item D, and preserves the local grievance-speech forfeiture condition. Hold primary/Entity Codex/Master-index `The Forgotten Tear` and `The Unwept Tear-Vessel` against Side/item `Ungrievingness` / `Ungrievingness Fang` and Master Entry 721's `Forgotten Tear Fang`; the vessel-and-vapour weapon description and the linked Fang's archive-cut function have no crosswalk. The archetype's mounted glass-ampoule form supports the vessel record, but its Medium band differs from primary/Side/item Range 2 (Short). The Master Stigma index class `Floating Orbs & Coronets` remains distinct from the local/Side/item Tail Shard; Registry `Accessory` is generic and is not used to replace Tail. Weapon/Suit numerical profiles align; Side/item Single pattern is not transcribed to the primary.
 
 ## 관찰 기록 (Observation Log)
 
