@@ -43,7 +43,7 @@ All local numeric Weapon fields, Suit resistances/costs, and specific Stigma slo
 
 History checks found no earlier individual source-led Weapon-pair disposition for any of the three: Rising Well's earlier work was dossier prose, Driftglass's was section restructuring and Use Notes editing, and Allhallow's `73560193` affected only its Suit. Thus the Weapon-only ledger adds three unique pair dispositions as well as the three new full-SE dispositions.
 
-All three primary commits passed `tools/gate.sh` individually and each push was verified on the assigned branch. `python3 tools/maw_compare.py --check all --limit 0` exited 0; the 606 candidate findings remain review aids, not verdicts. Focused M.A.W. comparator tests passed **14 / 14**, the full tools test suite passed **44 / 44**, and `git diff --check` passed. The *Hollow Tree* primary / *Timber Maw* Side-Codex distinction for `C-IVγ-205` remains unchanged.
+All three primary commits passed `tools/gate.sh` individually and each push was verified on the assigned branch. `python3 tools/maw_compare.py --check all --limit 0` exited 0; the 606 comparator findings remain review aids, not verdicts. Focused M.A.W. comparator tests passed **14 / 14**, the full tools test suite passed **44 / 44**, and `git diff --check` passed. The *Hollow Tree* primary / *Timber Maw* Side-Codex distinction for `C-IVγ-205` remains unchanged.
 
 **Batch 95 follow-through:** its next three queue cases are recorded above as Batch 96. For the next batch, continue from the live full-SE queue and keep the 301-dossier and 287-pair Weapon-only ledgers separate.
 
