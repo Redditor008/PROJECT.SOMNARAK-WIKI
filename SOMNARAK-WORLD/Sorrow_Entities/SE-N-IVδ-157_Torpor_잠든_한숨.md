@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 20–28, and it rises with stored exhaustion — which is why the site is worked after a long rotation rather than at the start of one, a scheduling decision the file records as the least popular on the border |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Establish a guarded rest area and permit sleep — ordered as a task and watched by name. Nothing else has ever lowered the gauge on this file, and rest that is permitted but declined has reliably raised it |
@@ -252,6 +252,9 @@ Every piece in this set carries what the site carries — a body's debt for rest
 | **After use** | Piece returned to the shed; the bearer is re-assessed a week later, because what this set takes does not present on the day it is taken. A piece whose bearer misses the re-assessment is not reissued to them. |
 
 **Stat interpretation:** The grades describe extraction stability rather than human safety. What the table cannot show is that the breath-token forces a moment of restorative calm on its bearer at a time of the site's choosing rather than theirs — which has produced exactly one recorded insubordination in the archive, and the file keeps the entry because the bearer was right.
+
+**Full-set source review (2026-10-11):** Reviewed this SE’s Weapon, Suit and Stigma blocks, grade summary, M.A.W. Use Notes and Field Use Record as one set against the full Side Codex, `SE-157-B/C/D`, the Master Registry, Master Codex Entries 523–525, and `MAW-W-157`. The grade summary now records δ; the Mantle’s resistance/cost and Breath’s Head / 4% / +3 agree across this SE, the Side set and their item files. The Registry’s Stigma row says generic Accessory / 5%, unlike the specific Head / 4% records; the Master subtype does not settle placement or chance, so retain this discrepancy as a hold. Keep the Weapon identity/form and reach as holds: the current Culverin title/Appearance is supported, but the linked item’s Official Name and Master Entry 523 retain *The Sleeping Maul*, while its Resting/Active forms retain the maul; no transition is documented, and the archetype’s Room band differs from Range 3 (Medium). The Registry leaves reach unset. The primary’s full / seventy / fifty falloff wording matches the Side/item 100% → 70% → 50%. The set-level records consistently require guarded rest and a real handoff. No numeric combat profile changed.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
