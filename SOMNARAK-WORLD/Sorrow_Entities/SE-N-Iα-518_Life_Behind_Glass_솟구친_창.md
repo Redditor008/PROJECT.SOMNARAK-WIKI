@@ -255,7 +255,7 @@ Light passing through the rotating colored panes casts shifting kaleidoscopic mo
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the bearer's rating while working the Window, granted only to a bearer who has looked away from the pane at least once in the cycle — a condition that is checked, not assumed.
+**Effect:** +1 Clarity while working the Window, granted only to a bearer who has looked away from the pane at least once in the cycle — a condition that is checked, not assumed.
 
 **Ability:** Shows distant emotional events.
 
@@ -277,6 +277,11 @@ Nothing in this kit arms anybody against the pane; each piece carries the watchi
 | **After use** | Take the piece back and walk the baseline yourself: does the bearer still feel things at their own distance, and can they say what moved them this week? Where the composure has outlasted the rotation, the piece stays in stores and that bearer is not issued from the tunnel post again. |
 
 **Stat interpretation:** These are α-grade numbers and they are honest ones — three to six damage, fifteen Echoes, no hidden performance. What the grades cannot express is that the entire set improves what its bearer can perceive and improves nothing about what they can reach. Read the Cost lines as the specification and the damage figures as a footnote.
+
+**Full-set source review (2026-10-12):** Reviewed the `α` overview, all three local item blocks, Use Notes, Field Use Record, and Stat interpretation against Side `SE-518-A` (`N-Iα-518 [D]`, set `4/4`), items `SE-518-B/C/D` (`MAW-W/S/G-518-01`), Registry rows 716–718, Master Codex table/Entries 574–576, Tale 192, and archetype `MAW-W-518`. All review sections are present. The primary, linked items, and Master entries consistently grade the pieces α; the local numerical Weapon/Suit/Stigma records align with the Side and item records. The Stigma effect now names `+1 Clarity`, while retaining the primary's checked look-away condition. Side/item Single-target data are consistent with the primary's Weapon pattern.
+
+Keep the names and form unresolved: primary/Master-table *The Fenestrated Prism* differs from Side/item *The Glass Requiem*, and Master Entry 574 says *The Soaking Window Requiem*; the Suit/Stigma names likewise divide between primary/Master *Life Behind Glass* / *Soaking Window* and Side/item *Glass*. Tale 192 supports *The Soaking Window* as an entity name, not an equipment alias. The local rotating stained-glass tesseract matches the prism archetype, but the linked item describes a window-blade; no transition is recorded, and the archetype's Room band has no crosswalk to local Range 2 (Short). Side A has no standalone Appearance section; item B/C/D do, but none has a separately labelled transition block. Registry rows are generic/partial (including Accessory / 5% for the Tail Stigma), and the Master entries do not give complete combat or Appearance profiles. No disputed title, form, band, slot, or category was normalized.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial. The level has not risen in nine years of continuous traffic, and the standing explanation in the file is that nobody has proposed an experiment here that does not consist of asking somebody to look for longer.
