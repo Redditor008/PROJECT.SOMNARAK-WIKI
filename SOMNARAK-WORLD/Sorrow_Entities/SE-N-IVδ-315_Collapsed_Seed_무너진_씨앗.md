@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 20–28 per successful cycle, counted from the pulse log rather than the shell |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
 | **Recommended response** | Lift clear, log the partial form in full even though it will not recur, and file the observation under the Rule of the Negative Finding. Nothing beyond that has ever lowered the gauge on Collapsed Seed. |
@@ -266,7 +266,7 @@ Designed for close-quarters grappling and underhand thrusts, the dagger slips ea
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 to the working stat against the entity this piece came from, and nothing anywhere else.
+**Effect:** +3 Clarity during source work, and nothing anywhere else.
 
 **Ability:** Generates a protective growth around the user.
 
@@ -288,6 +288,10 @@ All three pieces are δ-grade, all three are held in the panel store rather than
 | **After use** | Lift clear, confirm no rooting on the bench, and open the two-quarter proposal count. An operator whose count falls to zero is rotated off the set. |
 
 **Stat interpretation:** δ-grade and correctly rated against entities. Against a wielder the figures mean nothing, because the cost of this set is measured in proposals not written over the following six months, and the wing has had to build an administrative count to see it at all.
+
+**Full-set source review (2026-10-12):** Reviewed the `— · δ` grade overview, all three local M.A.W. blocks, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-315-A` (`N-IVδ-315 [LO]`, set `4/4`), items `SE-315-B/C/D` (`MAW-W/S/G-315-01`), Registry rows 599–602, Master Codex table/Entries 529–531, Tale 177, and archetype `MAW-W-315`. Every primary review section is present; each linked item has an Appearance section, but none has a separately labelled transition block. Only a Weapon archetype index exists; there is no Suit/Stigma archetype list. The overview now reads `— · δ (Critical)` and the Stigma bonus is specified as `+3 Clarity during source work`. The primary and linked Weapon item agree on the numeric core; its Skewer pattern and 100% → 70% → 50% falloff are unstated locally and were not added. The Suit resistance/cost profile aligns with its item. Master detail entries do not supply a full appearance or combat profile; Registry rows 600–601 retain variable/unset Weapon data and a generic Suit-resistance placeholder.
+
+Preserve the extraction, cost, and form holds. The primary calls the Weapon a shard taken from the shattered source; the Side and Weapon item describe a tear-derived echo/blade formed after cooling outside growth medium, without establishing literal crystal removal. The primary marks involuntary weeping as a symptom and identifies the wielder's own abandoned work, shown completed, as the deeper Weapon cost; the Side/item associate the Requiem with borrowed grief and weeping. The primary Shroud cost (stopping new work) and linked Shroud account (numb minor joys and grief for unrealized futures) remain distinct; the Core's future-memory loss is separately recorded. No documented transition or component crosswalk reconciles the primary's fossilized-wood / petrified-seed push dagger with the linked deep-blue Han-crystal blade; the archetype identifies a leaf-shaped iron-seed push dagger. Hold the primary/Master-table names *The Collapsed Seed-Dagger*, *Collapsed Seed Shroud*, and *Collapsed Seed Core* against the linked `Unsprouted Life` names; Master detail Entry 529 calls the Weapon *The Collapsed Seed Requiem*. Registry row 602 remains generic Accessory / 5%, unlike the specific Tail / 4% Stigma records. Tale 177 concerns the almost-born sorrow but does not adjudicate M.A.W. extraction or form.
 
 ## 관찰 기록 (Observation Log)
 
