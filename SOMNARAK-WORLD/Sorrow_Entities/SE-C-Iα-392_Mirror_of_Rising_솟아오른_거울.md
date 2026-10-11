@@ -187,7 +187,7 @@ Viderehan is primary and Pugnahan is prohibited. The table formerly had Flerehan
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
 **Falloff Rule:** Full damage to the designated target. The hammer is used on vessels, never on the glass; striking the glass is prohibited and the prohibition is the oldest standing instruction in the Market file.
-**Damage Application:** Direct and Tick damage multiplied separately. Weight 5–9, β grade, and the Operational Parameters line that carried an em dash in the Tool and M.A.W. grade field has been corrected to β · β against the three pieces this entity actually produces.
+**Damage Application:** Direct and Tick damage are multiplied separately. The Weight 5–9 profile and β rating here belong to the Hammer; they should not be read as a uniform grade for the Suit and Stigma, whose profiles are recorded separately below.
 
 **Ability:** Silent passage through reflective surfaces, over short distances, by the wielder alone. Used four times, all four in the gazetteer vault, all four to reach shelving that could not be approached without disturbing a seal.
 
@@ -219,7 +219,7 @@ Viderehan is primary and Pugnahan is prohibited. The table formerly had Flerehan
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 when working this entity. The charm is also the only item the Market's archivists are permitted to wear into the gazetteer vault, having been found by accident to steady the hand of anybody copying out a struck name.
+**Effect:** +1 Resolve when working this entity. The charm is also the only item the Market's archivists are permitted to wear into the gazetteer vault, having been found by accident to steady the hand of anybody copying out a struck name.
 
 **Ability:** The bearer's hand is steady copying out a struck name, and the copy is legible even where the original plate is worn. Eleven of the two hundred and twelve restorations were transcribed by charm bearers from plates the gazetteer office had written off as unreadable.
 
@@ -240,7 +240,11 @@ The set is built around going quietly to a record that is hard to reach, carryin
 | **At limit** | Watch length, the next evening's reading, and whether the glass moved during the watch, which it has not in nineteen years except on the night it was struck. |
 | **After use** | Mantle kept on for six hours or until the fatigue lifts, frame inspected, scale checked against the plate, and the reading entered in the gazetteer office's copy as well as the Market's. Both copies are kept because they have differed twice. |
 
-**Stat interpretation:** β across the set and the grading is about right against entities. Against people the set costs a day of borrowed anger, six hours of fatigue, and — for the charm — a permanent half-step, which has ended two people's response careers. The establishment has a column for the fatigue.
+**Stat interpretation:** The Weapon and Suit are β; the Stigma is α in the primary, linked item, and Registry, while the Master Codex table and Entry 348 say β. The Side page does not state the Stigma grade, so the `β · β` overview remains a set-grade hold; the three profiles are not described as uniformly β. Against people the set costs a day of borrowed anger, six hours of fatigue, and — for the charm — a permanent half-step, which has ended two people's response careers. The establishment has a column for the fatigue.
+**Full-set source review (2026-10-12):** Reviewed the `β · β` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-392-A` (`C-Iα-392 [O]`, set `4/4`), items `SE-392-B/C/D` (`MAW-W/S/G-392-01`), Registry rows 651–654, Master Codex table/Entries 346–348, Tale 116, and archetype `MAW-W-392`. Every primary review section is present. The Side set page has no standalone Appearance section; all three linked items have Appearance sections, and none has a separately labelled transition block. The Master entries provide no item Appearance or full combat profile; the repository has Weapon archetypes but no Suit/Stigma archetype catalog. The Weapon's Weight 5–9, speed 2, range 2, max 4, and 25-Echo profile agrees with the Side/item; the Suit values and cost align. The Stigma's Head slot, 5% acquisition, and +1 Resolve are supported by the primary/Side/item; the effect now names Resolve. The Stigma's grade dispute is not silently resolved: the primary, linked item, and Registry give the Stigma α, while Master table/Entry 348 give β; the Side page does not state its grade.
+
+**Holds:** The three primary titles (`Mirror of Rising Hammer/Mantle/Charm`) differ from the Side/item titles (`The Rising Hammer/Mantle/Charm`) and Master-table/detail titles (`The Rising Mirror Hammer/Mantle/Charm`). The Hammer's primary/Side/item range is Short, while `MAW-W-392` assigns Room. The `β · β` overview is retained as an unresolved set-grade row because the Stigma evidence is mixed; no uniform three-piece grade, alternate title, or range was inferred. Tale 116 was checked for the source account, but supplies no M.A.W. profile or crosswalk. No linked source file was changed.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial. The Registrum carried 2 — Basic for eleven years against this line; the SECC header governs and the Registrum has been corrected to match it.
