@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | Viderehan and Ferrehan only; it is an Object/Place and an I-Relic. Handling is by named list, in single-use gloves, and never for longer than the tool profile allows. |
@@ -249,7 +249,7 @@ Escalation here is the field edge and the pronoun, not force. Record the trigger
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 while this holding is the subject of the cycle and nothing anywhere else: the charm answers the imprints' own register, and it has never read on any other crystal in the Desolate.
+**Effect:** +2 Clarity while this holding is the subject of the cycle and nothing anywhere else: the charm answers the imprints' own register, and it has never read on any other crystal in the Desolate.
 
 **Ability:** Grants a minor boon tied to Frozen Echo's sorrow; the effect mirrors the entity's nature.
 
@@ -271,6 +271,10 @@ All 3 pieces are cut from the Echo's own rim, and they carry what it carries: th
 | **After use** | Take the piece back and put the question to a colleague: is the bearer still dreaming of other people's minutes, and have they stopped mentioning it? The answer is entered whether or not the bearer agrees, and the piece is not reissued where the sleep has not emptied. |
 
 **Stat interpretation:** The grade records how hard a piece hits and nothing about what it takes; on this set the toll is other people's unfinished business, and it is filed separately because it does not move with the rating in either direction. Read both columns, authorise on cost, and treat a low-rated piece carrying that charge as the ordinary case on this line.
+
+**Full-set source review (2026-10-12):** Reviewed the I-Relic/M.A.W. grade overview, all three local item blocks, Use Notes, Field Use Record, Stat interpretation, and the M.A.W. reference in the Registrum Addendum against Side `SE-609-A` (`C-IIIγ-609 [D]`, set `4/4`), items `SE-609-B/C/D` (`MAW-W/S/G-609-01`), Registry rows 760–762, Master Codex table/Entries 85–87, Tale 29, and archetype `MAW-W-609`. All review sections are present. Side A assigns γ to each M.A.W. piece; all primary item blocks, linked items, and Master entries also give γ. The overview now records `I-Relic (Indumentum) · γ`. Numeric Weapon/Suit profiles align, and the Stigma effect now names `+2 Clarity`, supported by Side and item D. Side/item Skewer, three-target coverage, and 100% → 70% → 50% falloff are not stated locally and were not added.
+
+Keep *Frozen Echo* (primary, Master table/Entries, Tale 29) distinct from *Thousand Hands* (Side/items and archetype) until a source supplies an alias crosswalk. The Weapon archetype's Medium band agrees with local Range 3 (Medium), but does not resolve the names. The Master Suit subtype *Living Chitin & Carapace* has no crosswalk to the shield-backed crystal harness. Registry rows 760–762 retain N/A Grade cells and generic fields; the Stigma's local/Side/item Tail / 4% differs from Registry Accessory / 5%. Side A has no standalone Appearance section; linked items B/C/D do, with no separately labelled transition block. The Tale and Master detail records do not supply an equipment-name alias or full item profile. No disputed title, subtype, slot, chance, or unstated attack field was normalized.
 
 ## 관찰 기록 (Observation Log)
 
