@@ -85,7 +85,7 @@ The set has high Grudge output and panic protection. It becomes catastrophic if 
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Frozen Fang | δ | Grudge | Piercing release of compressed rage pressure | `SE-159-B__MAW-W_The_Frozen_Fang.md` |
+| Weapon | The Glacial Stiletto | δ | Grudge | Piercing release of compressed rage pressure | `SE-159-B__MAW-W_The_Frozen_Fang.md` |
 | Suit | The Frozen Breath | δ | Grudge | Panic protection with expression safeguard | `SE-159-C__MAW-S_The_Frozen_Breath.md` |
 | Stigma | The Frozen Charm | δ | Grudge | Identifies suppressed exhaustion before collapse | `SE-159-D__MAW-G_The_Frozen_Charm.md` |
 
@@ -93,7 +93,7 @@ The set has high Grudge output and panic protection. It becomes catastrophic if 
 
 ## PAGE 04 — WEAPON STAT CARD
 
-### M.A.W. Weapon — The Frozen Fang
+### M.A.W. Weapon — The Glacial Stiletto
 
 | Field | Record |
 |---|---|
@@ -104,7 +104,9 @@ The set has high Grudge output and panic protection. It becomes catastrophic if 
 | Maximum Amount / Echo Cost | 2 — Limited / 50 Sorrow Echoes |
 | Primary Cost | Old wounds ache and prolonged use leaves crimson bruising. |
 
-**Quick effect:** The Fang pierces a compressed Grudge field and lets one held pressure release without insisting the bearer keep working afterward.
+**Quick effect:** A Grudge Skewer releases compressed continuation pressure only after relief is arranged; it does not send the bearer back into the duty that formed it.
+
+**Weapon-title review (2026-10-11):** `N-IVδ-159`’s primary M.A.W. block and eight-inch triangular cryogenic-stiletto Appearance, current `SE-159-B` heading/Appearance, Master Registry, Master Codex table row 526, `MAW-W-159` SHORT BLADE archetype, and same-code title/Appearance revision `3abe5470` support *The Glacial Stiletto*. The linked item’s Official name and Resting/Active forms, and detailed Master Codex Entry 526, still identify *The Frozen Fang* and describe a crimson fang blade with frost fractures and a released-breath line. No Fang-to-stiletto transition or second form is documented. A separate Vanity `SE-643` weapon is also registered as *The Frozen Fang* (`MAW-W-643-01`; Master Codex Entry 718); no cross-link establishes shared identity, so keep this duplicate-title conflict held and do not borrow its profile. The archetype’s Close band differs from Range 3 (Medium) in the primary, linked-item, and Side cards; the Master Registry leaves reach unset, and no crosswalk resolves the difference, so leave the profile unchanged. The old item filename remains only as the link. Side-card numbers are unchanged.
 
 ---
 
