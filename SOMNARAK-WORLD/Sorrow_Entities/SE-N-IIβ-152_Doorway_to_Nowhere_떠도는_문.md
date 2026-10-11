@@ -31,7 +31,7 @@
 | **Han-Energy yield** | Paid for stillness rather than for opening — 12–18, and what earns it is how long the frame is left standing in one place, not how many times it is worked. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | Recoverable on destruction: roughly 10 to 100 kilograms at this grade. There is a vessel here and it can be broken, which is the one respect in which this holding is ordinary. |
 | **Recommended response** | Close the door consciously; do not force passage — which is the whole of the cycle; the Work Types are the frame and the condition is the work. |
@@ -243,6 +243,9 @@ The set is built around thresholds and refuses to cross them: a censer whose smo
 | **After use** | Shroud kept on to the vehicle, hand check for blistering, address check again at one day, sealed declaration read back. Nine operatives have asked for theirs to be forwarded to the directorate and all nine were. |
 
 **Stat interpretation:** β across the set and correctly rated against entities. Against people it costs a day of weeping that begins in doorways, a day of flattened pleasure, and — for four bearers in twenty-seven years — a place they can no longer feel was theirs, and the establishment has a column for the first two.
+
+**Full-set source review (2026-10-11):** Reviewed this SE’s Weapon, Suit and Stigma blocks, grade summary, M.A.W. Use Notes and Field Use Record as one set against the full Side Codex, `SE-152-B/C/D`, the Master Registry, Master Codex Entries 469–471, and `MAW-W-152`. The grade summary now records β; the Shroud’s resistances/cost and Key’s Tail / 5% / +1 agree across this SE, the Side set and their item files. The fourth lintel in Use Notes is a dismantled trial, not a current fourth piece. Keep the Weapon identity/form and reach as holds: the Censer title/Appearance is supported, but the linked item’s Official Name and Master Entry 469 retain *The Wandering Requiem*, while its Resting/Active forms retain the lantern/relic and blue-flame blade; no transition is documented, and the archetype’s Medium band conflicts with Range 2 (Short). The Master Codex’s Shroud/Key subtype labels do not resolve to the documented cloth/Tail forms; leave them as classification holds. No numeric combat profile changed.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
