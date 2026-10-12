@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 16–22 per completed work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | Bring the gauge down through the register's valid Work Types for a Subject-Dream; nothing improvised is authorised at the ruin. |
@@ -234,6 +234,8 @@ Nothing in the set protects the person holding it; each item lengthens this Ruin
 
 **Stat interpretation:** γ across the set, correctly rated against entities. Against the wielder the whole set works one way — it takes the detail you were least sure of — and the facility has no column for what that does to a person over twenty years of service.
 ## 관찰 기록 (Observation Log)
+
+**Full-set source review (2026-10-12):** Reviewed the overview and every local M.A.W. claim—including the Weapon/Suit/Stigma blocks, Use Notes, Field Use Record, Stat interpretation, and whole-set protection/reach statements—against exact set `SE-1036-A` for `N-IIIγ-505 [VS]`, items `SE-1036-B/C/D`, Registry rows 306–309, Master M.A.W. rows/details 439–441, Entity Codex row 514, Tale 147, and archetype rows `MAW-W-505` and `MAW-W-1036`. The blank overview is now `— · γ`, supported by all three local pieces, Side A/items, and the Master table; no Tool type is supplied. Weapon values agree locally and with Side/item B (Void 7–12, Fast 3, Medium 3, max 3, 40 Echoes, Skewer); identity does not: local/Master-table *The Returning Arbalest* versus Side/item B and detailed Entry 439 *The Ruin Lens*. `MAW-W-505` is a heavy-steel cranequin arbalest / Instant, unlike the local Fast/Medium band; linked-code `MAW-W-1036` is a Cathedral Bell-Maul / Close. The exact suffix sibling `C-IVδ-505` belongs to `SE-505` Cold Burn, whose linked item is *Cold Burn Lens* (`MAW-W-505-01`, Void 5–9 / Normal / Short); this repeated local Arbalest title does not connect it to the selected `SE-1036` *Ruin Lens* (`MAW-W-1036-01`). Suit values align with Side/item C, but the Suit's Void resistance/ability and Side resonance's bearer-protection role conflict with Use Notes saying “Nothing in the set protects the person holding it”; retain both accounts. Master row 440's Living Chitin & Carapace category does not describe the local gossamer veil, and Side/item C has no Appearance crosswalk. Stigma Head / 4% / `+2` agrees locally and with Side/item D; the Registry's generic Accessory/5% and Master row 441's Relic Drops & Seeds category do not establish another slot/chance. Entity Codex/Tale use *The Returning Ruin* where this primary and Side set use *Dreaming Ruin*; that naming difference does not alter the M.A.W. link. All unresolved identity, appearance, slot/chance, and protection claims remain holds; only the supported overview grade changed.
 
 **R.D. Comprehension Level:** 2 — Basic
 
