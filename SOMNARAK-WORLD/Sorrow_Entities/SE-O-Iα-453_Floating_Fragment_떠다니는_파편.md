@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 10–14 per cycle, collected in the open street with the Row's traffic diverted for the hour. The Row's traders are paid for the diversion and the payment is the largest line in this holding's budget. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
 | **Recommended response** | Stand inside the audible radius, listen to the whole session, and do not ask whose voice it is. Viderehan holds the gauge; Ferrehan lowers it. The session ends on the clock, not on the cry. |
@@ -235,6 +235,8 @@ Both pieces came out of a sound, which the Armoury's ledger treats as the most i
 | **After use** | Return the piece and ask a colleague — not the wielder — whether the wielder has been finishing their sentences. The Armoury has stood one wielder down on an answer the wielder disagreed with. |
 
 **Stat interpretation:** An α-grade set whose output is trivial and whose cost is social and invisible to the person paying it. Authorise on the colleague's answer, not on the grade, and re-ask it monthly.
+
+**Full-set source review (2026-10-12):** Reviewed the grade overview and every local M.A.W. claim, including both visual descriptions, Use Notes, Field Use Record, the Stigma-bestowal history, and Stat interpretation, against exact set `SE-1035-A` for `O-Iα-453 [LS]` (Side title *Keen*), items `SE-1035-B/C/D`, Registry rows 302–305, Master M.A.W. rows/details 709–711, Entity Codex row 607, Tale 237, and archetype rows `MAW-W-453` and `MAW-W-1035`. The blank overview is now `— · α`, supported by all three local/Side/item pieces and the Master table; no Tool type is supplied. Local Weapon numerics agree with Side/item B (Lament 3–6, Normal 2, Short 2, max 5, 15 Echoes), but local *The Lamentation Sabre* differs from Side/item B and detailed Entry 709 *The Crying Requiem*, while the Master table keeps the local title. `MAW-W-453` is a blue-mist cavalry sabre / Medium, unlike the local planisphere appearance and Short band; linked-code `MAW-W-1035` is a Spore-Burst Cloud Projector / Long. The primary Suit's cavalry-sabre appearance sits under *The Crying Shroud*; Master row 710 classifies that entry as Vestments & Outerwear, but Side/item C has no Appearance crosswalk. Preserve both primary forms rather than moving either. Suit values align; local/Side/item Stigma Tail / 5% / `+1` aligns, while generic Registry Accessory/5% and Master row 711's Pendants & Chokers do not establish the slot. The local Use Notes say “both pieces” came from a sound and discuss the sabre and charm, although the set has three pieces; the nine-Stigma/three-identification account remains separate from the item's 5% offer field. The same local *Lamentation Sabre* planisphere and Suit-sabre form recur in Forgotten Shadow, but its exact sibling source `N-IIβ-453` belongs to `SE-453` Spoor / *Shadow Requiem* (`MAW-W-453-01`, Lament 5–9); this selected `SE-1035` item is *The Crying Requiem* (`MAW-W-1035-01`, Lament 3–6). The separate records provide no shared-item crosswalk. No disputed name, form, slot, chance, or history was normalized; only the supported overview grade changed.
 
 ## 관찰 기록 (Observation Log)
 
