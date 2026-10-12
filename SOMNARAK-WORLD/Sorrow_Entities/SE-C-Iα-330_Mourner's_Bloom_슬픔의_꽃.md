@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
 | **Recommended response** | Count the petals and attempt attribution on each of them in the vault inside the year. A petal matched and claimed dissolves, and the vault has no other way of getting rid of one, so the work here is naming and not handling. Viderehan and Ferrehan are the two approaches that reach it at all: observation brings out the emotion sitting in each petal, and endurance lets the bloom open slowly beside a patient worker. Nothing is hurried and nothing is cut. One petal will never dissolve — the first, which is the gardener's own moment and stays on the stalk because there is nobody left to acknowledge it — and the count is written with that petal noted and excluded. |
@@ -294,6 +294,8 @@ The kit does not arm a bearer against the bloom; it borrows the bloom's own read
 
 **Stat interpretation:** The rating measures what a piece does to a holding and nothing about what it does to the person holding it, and on this set the distance between the two columns is the whole of the file's caution: a piece that quiets a vault can leave a bearer unable to say which grief is theirs. Authorise on the cost column, and re-ask the baseline question by colleague at every return.
 ## 관찰 기록 (Observation Log)
+
+**Full-set source review (2026-10-12):** Reviewed the overview, every local Weapon/Suit/Stigma claim, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against the exact `SE-1032-A` set for `C-Iα-330 [D]`, `SE-1032-B/C/D`, Master Registry rows 290–293, Master M.A.W. rows/details 343–345, Entity Codex row 481, Tale 115, and archetype rows `MAW-W-330` and `MAW-W-1032`. The blank overview now records `— · α`; all three local pieces, Side A, linked items, and Master table support α, while no Tool type is supplied. Local Weapon numerics (Lament 3–6, Normal 2, Short 2, Single, max 5, 15 Echoes) agree with Side/item B, but local/Master-table *The Lamentation Dirk* differs from Side/item B and detailed Entry 343 *The Sorrow Requiem*. The title-specific `MAW-W-330` Dirk is Long, not the local Short profile; linked-code `MAW-W-1032` is a Resonant Shockwave Mortar / Room. The same-suffix `SE-330` instead belongs to `C-IIβ-330` Sitting Boundary and its *Glazed Mullion-Pike* (`MAW-W-330-01`); its item code, the `MAW-W-330` archetype title, and this case's `MAW-W-1032-01` item are distinct records with no crosswalk. Suit values and Stigma Tail / 5% / `+1` agree locally and with Side/items; the Registry's generic Accessory/5% field and Master Stigma category Relic Drops & Seeds do not supersede the explicit Tail slot. Primary role/Object-Lament and valid Viderehan/Ferrehan work, Side A's Object/Place handling, and item histories' Pugnahan N/A are consistent evidence, not a new conflict. Side/item pages have no standalone Appearance section; Tale 115's *Sorrow Flower* is entity context, not an equipment alias. Disputed Weapon identity/profile and all other gaps remain holds; only the supported overview grade changed.
 
 **R.D. Comprehension Level:** 1 — Initial
 
