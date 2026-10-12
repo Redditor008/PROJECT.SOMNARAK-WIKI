@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 20–28 per cycle, drawn from a room with nothing in it, by a team standing at survey pins outside the door. The vault's return notes each year that the yield has risen very slightly as the chamber has grown and asks each year whether that is a reason to stop. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Survey the walls against the pins, listen under voice discipline with one designated speaker, and attribute everything that is repeated. Viderehan and Ferrehan only. Nothing said in the chamber is repeated outside it in any form. |
@@ -252,6 +252,9 @@ This source yields no vessel to break, so the extraction was taken from the soun
 | **After use** | Return the piece and ask the wielder whether they have had an argument this week and whether they can say what started it. An inability to say what started it is the stand-down criterion. |
 
 **Stat interpretation:** The δ rating is the highest in the vault and is not the authorisation criterion. This set binds people to grievances that were never theirs, quietly, over weeks, and the only reliable detector is whether the wielder can still say where a quarrel came from. Read both columns and authorise on the second.
+
+**Full-set source review (2026-10-13):** Reviewed the overview, all three local M.A.W. pieces, Use Notes, Field Use Record, Stat interpretation, and M.A.W. claims in the extraction and cycle-cost prose against exact `SE-1038-A` for `O-IVδ-909 [GP]`, items `SE-1038-B/C/D`, Master Registry rows 314–317, Master M.A.W. rows and detailed entries 691–693, Entity Codex row 601 / Tale 231, and archetype records `MAW-W-909` and `MAW-W-1038`. The blank overview grade is now `— · δ`, supported by all three local pieces and the exact Side set; no Tool type was inferred. The primary Weapon's Grudge 10–15, Fast 3, Medium 3, Skewer, maximum 2, and 50-Echo profile agrees with Side A and item B; the local Suit and Tail / 4% / +3 Stigma agree with Side A and items C/D. The Weapon identity and physical form remain held: local and Master-table *The Echoing Zweihander* versus Side/item and Master-detail *The Echo Fang*; `MAW-W-909` describes a greatsword with chime quillons, while `MAW-W-1038` indexes a reflecting-silver mirror, and neither the selected B item nor linked Suit/Stigma records has a standalone Appearance or transition section to bridge either archetype to the local five-foot basalt sceptre. Labyrinth of the Unfinished Mind `C-IVδ-909 [VP]` repeats the local Weapon title and near-matching sceptre description but maps by its own exact designation to `SE-1039`, not this `SE-1038` set. Master Entity Codex row 601 and Tale 231 call the exact `O-IVδ-909` entity *Reverberant*; that title history does not resolve the equipment identity. The Registry's generic Accessory / 5% metadata does not supersede the explicit Tail / 4% record. The earlier B72 appearance re-authorship (`801b2d8d`) was editorial work, not a source-led review of this Weapon pair. Only the supported overview grade changed; all unresolved name and form claims remain holds.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
