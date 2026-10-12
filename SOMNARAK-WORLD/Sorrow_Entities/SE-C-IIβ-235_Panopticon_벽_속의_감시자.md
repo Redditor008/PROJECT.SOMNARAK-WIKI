@@ -218,7 +218,7 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat, and the wearer can tell, for about a day, whether they are being observed by something that intends to act. They report that the answer is almost always no.
+**Effect:** +1 Composure during source work, and the wearer can tell, for about a day, whether they are being observed by something that intends to act. They report that the answer is almost always no.
 
 **Ability:** Reveals what a structure has witnessed.
 
@@ -240,6 +240,8 @@ Every piece was taken out of a wall that was watching, and the set hands that ca
 | **After use** | Open the sealed account and read it to them. Two of three could not place it as their own, and both asked to keep the paper. |
 
 **Stat interpretation:** The grade measures extraction stability and misses the trade entirely: this set buys sight through walls and is paid for in the parts of a life nobody else saw. Authorise on the sealed hour.
+
+**Full-set source review (2026-10-13):** Reviewed the `— · β` overview, every local piece, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side `SE-235-A` (`C-IIβ-235 [VS]`, `4/4`), items `SE-235-B/C/D` (`MAW-W/S/G-235-01`), Master Registry rows 518–521, Master M.A.W. rows/details 139–141, Entity Codex row 411 / Tale 47, and archetype `MAW-W-235`. The overview grade is supported by all three local pieces and linked records. Weapon core values (Void 5–9 / Normal 2 / Short 2 / max 4 / 25 Echoes) align locally and with Side A/B; hold the local porcelain *Torn Spirit-Urn* and W-235 reliquary index against Side/item B and Master Entry 139’s short-handled *Watcher’s Lens* disc. No transition or numeric-prefix crosswalk resolves the form. Suit values align. Stigma Head / 5% align and its effect now names +1 Composure from Side A/D; the Registry’s generic Accessory category does not override the explicit slot. Side A assigns `SE-235` to Panopticon and explicitly defers Myrmidon `O-IIβ-235`; its repeated local urn title is not this item. Weapon and Stigma *Watcher’s Lens* remain distinct B/D records. No linked evidence was changed.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
