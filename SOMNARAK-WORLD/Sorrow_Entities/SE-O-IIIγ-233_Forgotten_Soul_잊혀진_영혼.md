@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 16–22 per cycle, earned by walking. A cycle is a full circuit of the track beside it — between four and nine kilometres — and the Old Lament station costs this holding in boot leather rather than in equipment. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | Walk with it. Say what is actually known, which is almost nothing, and invent nothing at all. Viderehan holds the gauge steady; Ferrehan is the distance. No name is offered, including a working label for the log. |
@@ -212,7 +212,7 @@ The tubular magazine holds six rounds of hand-cast silver-lead ammunition. Opera
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 to work against the Forgotten Soul itself, and nothing elsewhere in Old Lament.
+**Effect:** +2 Clarity during source work with the Forgotten Soul, and nothing elsewhere in Old Lament.
 
 **Ability:** Keeps a fading identity connected to the living.
 
@@ -234,6 +234,8 @@ Both pieces came off something the city removed from its own records, and they d
 | **After use** | Take three fresh descriptions and compare them with the sealed set. Both stand-downs turned on the comparison, and in one case the wielder's own supervisor had written *I don't think I know him well*. |
 
 **Stat interpretation:** A γ-grade set whose cost is paid by other people's memories and is therefore invisible to the person carrying it. The grade describes entity damage; the authorisation turns on three descriptions written by colleagues.
+
+**Full-set source review (2026-10-13):** Reviewed the `— · γ` grade overview, every local piece, Use Notes, Field Use Record, Stat interpretation, and the separate extraction-risk statement against exact Side `SE-233-A` (`O-IIIγ-233 [LS]`, `4/4`), items `SE-233-B/C/D` (`MAW-W/S/G-233-01`), Master Registry rows 514–517, Master M.A.W. rows/details 589–591, Entity Codex row 565 / Tale 197, and archetype `MAW-W-233`. The overview grade now records γ; the three local pieces, Side A, linked items, and Master entries agree, with no Tool type inferred. The local Weapon’s Lament 7–12 / Fast 3 / Medium 3 / max 3 / 40-Echo profile agrees with Side A and B; hold local/Master-table *The Forgotten Carbine* and W-233’s GUN/carbine index against Side/item B and Master Entry 589’s *The Soul Requiem* Han-crystal blade. No transition joins them; the shared code prefix is not a form crosswalk. Suit values align. Stigma Tail / 4% / +2 align with Side A/D, and its effect now names +2 Clarity. The Registry’s generic Accessory / 5% entry remains separate from the explicit 4% evidence. The primary’s “Both pieces” Use Notes wording remains unresolved against its three-piece set; no subset was inferred. No linked evidence was changed.
 
 ## 관찰 기록 (Observation Log)
 
