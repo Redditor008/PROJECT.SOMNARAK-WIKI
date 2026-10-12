@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 10–14 per successful cycle, read off the seven-day recovery log rather than the site |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
+| **Tool / M.A.W. grade** | O-Relic (Offertorium) · α |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Mark the absence; do not excavate or plant into it. Nothing beyond that has ever lowered the gauge on Unwitnessed. |
@@ -256,7 +256,7 @@ The outer rings rotate smoothly in counter-synchronous orbits, projecting dim as
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 when working this entity, and the bearer may not write the week's summary. The pod's holder recovers the logger and nothing else; somebody who has not been at the site reads the figures.
+**Effect:** +1 Clarity during source work with this entity, and the bearer may not write the week's summary. The pod's holder recovers the logger and nothing else; somebody who has not been at the site reads the figures.
 
 **Ability:** Keeps one thing in its earliest state for as long as it is worn — a cutting, a draft, a first entry. It has no combat application and the armoury has never pretended that it does.
 
@@ -278,6 +278,8 @@ The set is organised around emptiness kept empty: a core that works only when no
 | **After use** | Logger downloaded in the presence of someone who was not at the site, weeping duration if the orrery was carried, numbness checked at four days. The week's summary is written by the person who was not there. |
 
 **Stat interpretation:** α holds across the set and the rating against entities is right. In people the set produces weeping, a flatness toward small pleasures, and a sense of unstarted futures that 2 wearers called unendurable — and both went on wearing it anyway.
+
+**Full-set source review (2026-10-13):** Reviewed the `O-Relic (Offertorium) · α` overview, every local piece, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side `SE-236-A` (`C-Iα-236 [LO]`, `4/4`), items `SE-236-B/C/D` (`MAW-W/S/G-236-01`), Master Registry rows 522–525, Master M.A.W. rows/details 328–330, Entity Codex row 476 / Tale 110, and archetype `MAW-W-236`. The M.A.W. overview grade now records α; all three local pieces, Side A, linked items, and Master entries agree, while the primary’s O-Relic Tool type is retained and no additional type inferred. Weapon core values (Lament 3–6 / Normal 2 / Short 2 / max 5 / 15 Echoes) align with Side A/B; hold local/Master-table *The Barren Star-Orrery* and W-236’s hollow-brass orrery index against Side/item B and Master Entry 328’s short singing blade *The Seedless Requiem*. No transition joins them. Suit values align. Stigma Tail / 5% align and its effect now names +1 Clarity from Side A/D; generic Registry and Master categories do not override the explicit slot. Entity Tale 110 records `[LW]` where the exact primary, Side A, and Entity Codex row use `[LO]`; that separate designation-tag conflict remains held. No linked evidence was changed.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial, and the level has not moved in four hundred years for a reason the file states plainly: the entity is not observable while an observer is present, so every advance in understanding has come from instruments left behind and collected afterwards.
