@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 5 — Sovereign |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
 | **Recommended response** | Two observers a night, the reading taken at the line and countersigned before anybody leaves the vault. Nothing touches the crystal, nothing hurries it, nothing examines it. |
@@ -265,6 +265,8 @@ No piece of this set was cut from the Tear and no extraction from it has ever be
 | **After use** | Return against the inventory, then the long check: the wearer goes numb to small pleasures and the medical office budgets a fortnight for it. Where the numbness has not lifted by the fortnight the piece is not reissued to that bearer, and the shroud's three records are read together at the annual review. |
 
 **Stat interpretation:** The grade tells you how hard a piece hits, which on this post is irrelevant — nothing here is struck. What the table cannot show is that the observation rota is the longest continuous duty in the facility, that it is worked by two people a night, and that the second person exists solely so that the figure is witnessed.
+
+**Full-set source review (2026-10-12):** Reviewed this overview and every local M.A.W. claim—including all three piece blocks, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references—against the exact `SE-1030-A` set for `C-Vδ-290 [LO]`, `SE-1030-B/C/D`, Master Registry rows 282–285, Master M.A.W. rows and detailed entries 394–396, Entity Codex row 499, Tale 132, and weapon-archetype records `MAW-W-290` and `MAW-W-1030`. The blank overview grade is now `δ (Critical)`, supported by all three local pieces, the linked items, and the Master table. The weapon identity remains held: the primary and Master table say *The Primordial Greatsword*, while Side/item B and detailed Entry 394 say *The First Requiem*; `MAW-W-290` (archaic claymore / Instant) and the linked-code row `MAW-W-1030` (Penitent Shackle Flail / Close) provide no crosswalk. The primary has no numerical weapon profile, and its Stat interpretation says “nothing here is struck”; the Side/item 5–25 / Instant / Room / AoE profile was not imported. Suit resistance and Stigma `+3` effect align, but the local Charm has no slot/chance while item D says Neck / 4% and the Registry's Accessory / 5% is generic. Preserve the local pre-existing-in-vault / no-extraction account; the linked binding/source-trace records do not establish a physical or creation crosswalk, and none has a standalone Appearance section. The suffix sibling `C-IIβ-290` belongs to `SE-290` Compass Without North / Lost Lens, not this `SE-1030` set; its separate weapon history and the repeated local Greatsword title in Broken Compass do not bridge the items. Tale 132 remains entity context, not equipment identity evidence. All unresolved claims remain holds; only the supported overview grade changed.
 
 ## 관찰 기록 (Observation Log)
 
