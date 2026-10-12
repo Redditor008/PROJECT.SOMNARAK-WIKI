@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 12–18 Han-Energy per cycle finished at the mount, the larger figure coming when the chains the light exposed were named aloud instead of left to inference |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | A-Relic (Arcanum) · — |
+| **Tool / M.A.W. grade** | A-Relic (Arcanum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β), gathered underneath the mount, with nothing taken from the lantern’s own glass, which has not broken |
 | **Recommended response** | The Row authorises two Work Types and no more — Viderehan and Ferrehan — its holding classed Object/Place, empty of anything worth arguing with. Ferrehan is the one approach that gets the gauge lower; cycles are worked where the lantern hangs, and no authority the Row recognises has ever lifted it off. |
@@ -276,6 +276,9 @@ The kit is not equipment; each Vigil piece is a part of the holding carried out.
 | **After use** | Discharge or stand-down, injuries, lingering effects, cooldown, mount condition, reuse authorisation, and the chalked boundary signed by two people. |
 
 **Stat interpretation:** The grade describes the effect on entities and not the cost to the wearer, which is listed separately and is the larger figure on this holding. The cost here is informational: the wearer learns their own total, exactly, and cannot unlearn it.
+
+**Full-set source review (2026-10-12):** Reviewed the completed `A-Relic (Arcanum) · β` overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against Side `SE-1024-A` (`N-IIβ-250 [WO]`, `4/4`), items `SE-1024-B/C/D`, Registry records `SE-1024-A–D`, Master M.A.W. table/details 475–477, the Entity Codex row, Tale 159, and archetypes `MAW-W-250/1024`. The overview's β is supported by all three local pieces, Side/items, and Master entries; the prior blank was completed without changing the Tool type. Primary, Side B, linked item B, and detailed Entry 475 agree on the Weapon's numeric profile (Weight 6–10 / Normal 3 / Range 4 Long / max 4 / 25 Echoes), but not identity/category: local *The Vigil Hand-Cannon* is a GUN, whereas Side/item and Entry 475 name *The Collector's Vigil-Lantern* as a RANGE projector; the Master table instead lists the Hand-Cannon/GUN. `MAW-W-250` is a flared-bronze hand-cannon / Short, while linked-code `MAW-W-1024` is an optical-beam lantern / Close; neither band maps to local Range 4 Long, and the catalog reuses `MAW-W-250` for *The Memory Requiem* elsewhere. The 2026-09-19 `45ea2f5f`/`47c37f73` item redesign and set synchronization are followed by the repo-wide shape pass `3abe5470`, which restores the current primary Hand-Cannon against the still-linked Lantern; these edits do not establish an alias or physical transition. The local/Side/item Suit resistances, maximum, and cost align; the Stigma Eye/Face / 5% / detection-and-Resolve claims agree with Side/item, while Registry `Accessory` is generic and the Master index/detail names differ. Side A has no standalone Appearance heading; none of the three item pages has a separate Appearance/transition section, though item D embeds the pupil's visible wick in its ability. Restless Gap repeats the Hand-Cannon title/form language but has a different profile and its own linked *Trace Maul*; no shared item is established. No disputed weapon identity, category, profile, slot, or chance was normalized.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
