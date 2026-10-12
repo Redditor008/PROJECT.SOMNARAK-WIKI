@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Write the name by hand on slate with a second writer in the room, and keep the room silent: the prohibition on speech is the containment rule here, and every approach on this holding is carried out in writing. Nothing is restricted to two Work Types either: all four of the wing's approaches are logged on this holding, Ferrehan first among them, and confrontation is entered as yielding no data rather than as forbidden. The slates are compared before either writer leaves, the disagreements go down as disagreements, and no session reconciles them into a single figure. |
@@ -216,7 +216,7 @@ The blade flat is polished to an immaculate mirror finish revealing tiny micro-c
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 when working this entity, and the bearer is excluded from the monthly slate comparison. The holding separated the two after a bearer's slate matched the paper copies exactly for eleven months running while every other carrier drifted.
+**Effect:** +1 Composure during work with this entity, and the bearer is excluded from the monthly slate comparison. The holding separated the two after a bearer's slate matched the paper copies exactly for eleven months running while every other carrier drifted.
 
 **Ability:** The thread holds one name against loss, chosen once and not changeable. Five bearers, five names, and the holding records all five choices in the folder with the bearers' consent: three were strangers from the register.
 
@@ -238,6 +238,8 @@ No piece of the set began life as a design, and the armoury's note says so outri
 | **After use** | Veil kept on through the comparison, the operator's own name checked against their papers at the gate, sealed list read back. No operative has ever asked for their list to be destroyed and four have asked for theirs to be lengthened. |
 
 **Stat interpretation:** α across the set and correctly rated against entities. Against people it costs a day of small unwitnessed memories, a day of feeling absent to yourself, and — for one bearer in five — every unspoken name within earshot for the rest of their service, and the establishment has a column for the first two.
+
+**Full-set source review (2026-10-13):** Reviewed the `— · α` grade overview, every local piece, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side `SE-215-A` (`N-IIα-215 [VS]`, `4/4`), items `SE-215-B/C/D` (`MAW-W/S/G-215-01`), Master Registry rows 490–493, Master M.A.W. rows/details 460–462, Entity Codex row 521 / Tale 154, and archetype `MAW-W-215`. The overview grade now records α; all three local pieces, Side A, linked items, and Master entries support it, while no Tool type is inferred. The local Weapon’s Void 3–6 / Normal 2 / Short 2 / max 5 / 15-Echo profile agrees with Side A and B; hold local/Master-table *The Epitaph Tanto* and W-215’s short-blade index against Side/item B and Master Entry 460’s two-handed framed *Name Lens* disc. No transition connects them; the shared numeric prefix is not a form crosswalk. Suit values align. Stigma Head / 5% align, and its effect now names +1 Composure from Side A/D; Registry generic fields and Master’s Ocular-Lenses category do not establish another slot. The primary’s silence rule conflicts with Side A’s spoken second-witness resolution; it remains held. No linked evidence was changed.
 
 ## 관찰 기록 (Observation Log)
 
