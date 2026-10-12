@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | On Neglect Learned to Listen: keep the panel series unbroken and the Rule of the Named Duty enforced across the establishment office and every restructuring schedule this facility issues. The valid Work Types carry the cycle; the condition decides it. |
@@ -252,6 +252,9 @@ The three pieces are organised around one idea and the armoury states it plainly
 | **After use** | Sealed list read back by someone else, closing trace, fatigue checked at three days. Operators found carrying unassigned work in the following quarter are stood down from this holding, which the establishment office has twice objected to. |
 
 **Stat interpretation:** β across the set and correctly rated against entities. Against people the set does one thing — it makes the wielder incapable of leaving work unassigned — and a facility that runs on absorbed duties has no column for an employee who will not absorb them.
+
+**Full-set source review (2026-10-12):** Reviewed the overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against Side `SE-1028-A` (`N-IIβ-270 [WP]`, `4/4`), items `SE-1028-B/C/D`, Registry records `SE-1028-A–D`, Master M.A.W. entries 478–480, the Entity Codex row, Tale 160, and archetypes `MAW-W-270/1028`. Completed the blank M.A.W.-grade slot to β: all three local pieces, the Side/items, and Master entries are β; Tool remains `—`. Local and Side/item Weapon numbers, Suit resistances/cost, and Stigma Head / 5% / +1 agree. The Registry's Weapon combat fields are placeholders; its generic Stigma Accessory / 5% does not establish the local Head slot, and Master row 480's Brooch/Fastener class is not a slot crosswalk. Preserve the Weapon identity split: the primary calls it *The Rusted Boundary-Rod* and describes a five-foot survey staff; Side/item B and detailed Master Entry 478 call it a Maul, while Master table row 478 and `MAW-W-270` instead support a Rusted Boundary-Rod / survey-polearm. Linked-code `MAW-W-1028` describes an Hourglass Singularity Sledge / Room; `MAW-W-270` describes a copper survey rod / Medium, neither mapping to local Range 2 (Short). The linked item has no separate physical Appearance/transition record. The same *Rusted Boundary-Rod* title and survey-rod Appearance recur in the separate `C-IVγ-270` Memory Lake dossier, but that γ/Lament weapon has a different profile and links to *The Lake Requiem* (`SE-270-B` / `MAW-W-270-01`); no shared item is established. The Master/Tale name *The Rusted Whisper* is retained as entity context, not used to erase the primary/Side naming distinction. No disputed weapon name, form, band, Stigma slot, or chance was normalized.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
