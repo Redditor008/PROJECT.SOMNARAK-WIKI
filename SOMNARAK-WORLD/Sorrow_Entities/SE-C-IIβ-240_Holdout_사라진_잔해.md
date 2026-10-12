@@ -230,7 +230,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat, and the bearer can hold a building in mind for an unusually long time without tiring, which is the whole of the work here.
+**Effect:** +1 Resilience during source work, and the bearer can hold a building in mind for an unusually long time without tiring, which is the whole of the work here.
 
 **Ability:** The bearer can tell whether a structure they are standing in is scheduled for demolition. Tested against the works programme 41 times; 39 correct, and both errors were buildings whose schedule changed the following week.
 
@@ -252,6 +252,8 @@ Every piece is made from a building that refused to finish being demolished, and
 | **After use** | Open the sealed inventory and compare. The Armoury returns the difference to the wielder as a matter of course and has had to argue with two of them about accepting it. |
 
 **Stat interpretation:** The grade measures extraction stability. This set's cost arrives as a cluttered room and a stores discrepancy, and the authorisation turns on the sealed inventory rather than the rating.
+
+**Full-set source review (2026-10-13):** Reviewed the `Granted pieces · β` overview, every local piece, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side `SE-240-A` (`C-IIβ-240 [GP]`, `4/4`), items `SE-240-B/C/D` (`MAW-W/S/G-240-01`), Master Registry rows 526–529, Master M.A.W. rows/details 142–144, Entity Codex row 412 / Tale 48, and archetype `MAW-W-240`. The existing β overview is supported by all three local pieces, Side A/items, and Master entries. Weapon core values (Grudge 5–9 / Normal 2 / Short 2 / max 4 / 25 Echoes) align with Side A/B; hold the local *Mercy Broadsword* and W-240 double-edged arming-sword / Long index against Side/item B and Master Entry 142’s *Ruin Fang* (a dark Han-iron fang). No transition, complete Master profile, or prefix crosswalk resolves the title/form/range-band difference. Suit values align. Stigma Tail / 5% align and its effect now names +1 Resilience from Side A/D. Side A assigns `SE-240` to Holdout and defers Three Forty-Seven (`C-IVγ-240`) and Solace (`C-Iα-240`); their separate `SE-1023` / `SE-1022` work and repeated local *Mercy Broadsword* title do not map to this `SE-240-B` pair. No linked evidence was changed.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
