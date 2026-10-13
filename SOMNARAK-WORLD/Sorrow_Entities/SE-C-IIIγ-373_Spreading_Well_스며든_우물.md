@@ -249,7 +249,7 @@ Escalation here is reach. Record the stake line, every new channel end with what
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 to the working stat against the source holding, and the carrier is aware of the far end of whatever they are holding — which at this site is not a figure of speech: the vial reports, and the bearer cannot switch it off.
+**Effect:** +2 Clarity against the source holding, and the carrier is aware of the far end of whatever they are holding — which at this site is not a figure of speech: the vial reports, and the bearer cannot switch it off.
 
 **Ability:** Carries a small amount of sorrow to a distant witness.
 
@@ -260,6 +260,12 @@ Escalation here is reach. Record the stake line, every new channel end with what
 ### M.A.W. Use Notes
 
 Nothing in this set equips a worker against the network; each piece is the Well in small, and each one takes what the Well takes — grief the bearer never wept, minor joys gone numb, and a carried weight that resolves only when somebody else acknowledges it. The Armoury enters the symptom against the wielder rather than the piece, and the grade records how stably the extraction took and nothing about the cost column beside it.
+
+### M.A.W. Cross-Source Review — Batch 112
+
+- **Weapon hold:** Exact Side A/B support 7–12 damage, Speed 3, Range 3, maximum 3, and 40 Echoes. Master Codex Entries 76–78 confirm the γ/Lament component names, abilities, and recorded costs. The primary's slender clear blade, Side B's wet branching blade, and the `MAW-W-373` delta-fork archetype are three recorded forms. No source documents a transition between them. Side B alone specifies Skewer and 100% → 70% → 50% falloff, so those details remain item-specific.
+- **Suit hold:** Exact Side A/C support the resistance values, maximum 3, and 35 Echoes; Master Codex Entry 77 confirms the γ/Lament Suit and its cost. The primary's cold, heavy wrapper is not explicitly reconciled with Side C's wet branching seams and dry identity line. No appearance transition is documented.
+- **Stigma and set:** Exact Side A and D specify +2 Clarity, now named in the primary. Tail and 4% agree with those files, while the Master Registry's generic Accessory / 5% row does not replace the item-specific record. The eleven conferrals and their address-reporting condition remain local claims; no linked item gives a conflicting count. The primary's unwept-grief and far-end reporting account remains distinct from Side A's consenting two-ended route and *Understood, Not Absorbed* resonance; the extraction and resonance records are not collapsed.
 
 ### Field Use Record
 
