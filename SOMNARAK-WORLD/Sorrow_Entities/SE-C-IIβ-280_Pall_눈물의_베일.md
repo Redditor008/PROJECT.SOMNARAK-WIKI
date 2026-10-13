@@ -259,7 +259,7 @@ The shroud neither turns a blow aside nor hardens against one. It surrenders a l
 
 **Slot:** Head / Hair
 **Acquisition Probability:** 5%
-**Effect:** +1 to the bearer's work on this holding. The clip is worn at the collar and no wearer has ever reported it as uncomfortable, which the Armoury lists as a finding rather than as reassurance.
+**Effect:** +1 Clarity during source work on this holding. The clip is worn at the collar and no wearer has ever reported it as uncomfortable, which the Armoury lists as a finding rather than as reassurance.
 
 **Ability:** Reduces mental composure loss from allied defeats or team distress.
 
@@ -281,6 +281,9 @@ Every piece is woven from crystallised tears that were never shed in front of an
 | **After use** | Open the sealed sentence and read it to them. Two of the three said they would not write that now; the Armoury records which words they changed. |
 
 **Stat interpretation:** The grade measures extraction stability. This set's toll is a person who can no longer tell their own state from their own face, which no rating column holds — authorise on the sealed sentence and the weeping log.
+
+**Full-set source review (2026-10-13):** Reviewed the complete primary M.A.W. section, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims. Exact join: Side `SE-280-A` (`C-IIβ-280 [LO]`, `4/4`, assigning `SE-280` to Pall and deferring Kind Healer’s Shadow `N-IIβ-280`), with `SE-280-B/C/D`; Registry rows 567–570; Master M.A.W. rows/details 151–153; Entity Codex row 415 / Tale 51; archetype `MAW-W-280`. Preserve the Weapon hold already dispositioned source-led in Batch 79: local *Surgeon’s Cleaver* / stiletto and shield-bash–javelin profile conflict with the exact linked Pavise/Javelin title, whose item identity says blade and Appearance says chalice; Master table row 151 says *Weeping Stiletto*, Entry 151 says Pavise/Javelin, and W-280 indexes a separate square cleaver. Side and item core statistics (5–9 / Normal 2 / Short 2 / Single) conflict with the primary’s 6–10 / Slow 2 / Medium 3 / shield-bash/javelin profile; no transition resolves them. The compact Side title *Tear Requiem* also occurs on separate `MAW-W-041`. Suit resistance profile aligns. Stigma effect now names +1 Clarity from Side A/D, but primary Head/Hair/collar remains held against Side/item Tail; chance 5% agrees. No linked evidence file changed, and this review adds no Weapon-only disposition.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
