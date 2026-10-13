@@ -255,7 +255,7 @@ The prisms rotate in synchrony, refracting psychic trauma away from the bearer's
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 to the working stat while this chamber is the subject of the cycle, and nothing anywhere else
+**Effect:** +2 Composure while this chamber is the subject of the cycle; no effect elsewhere
 
 **Ability:** Grants a minor boon drawn from the source's own nature — anything the bearer sets down stays exactly where it was left, undisturbed and unfound by anyone else, for as long as the bearer intends to return for it.
 
@@ -266,6 +266,11 @@ The prisms rotate in synchrony, refracting psychic trauma away from the bearer's
 ### M.A.W. Use Notes
 
 Nothing in this set points outward. All three pieces extend the chamber rather than arm anybody against it: the ring strips intentions, the plate hides the wearer the way the room hides a confidence, and the charm keeps what is set down exactly where it was left. Inside the pattern the file records, the benefit holds; outside it the cost arrives early and does not reverse on return — errands abandoned, sentences dropped, the reason for having come into a room.
+
+### M.A.W. Cross-Source Review — Batch 111
+
+- **Weapon hold:** This dossier describes a seven-prism, fifty-centimeter golden halo with an outward tranquilizing burst. `SE-651-B` instead describes a reflection-extracted pale disc that severs spoken commands and removes small memories. The Master Codex table names the piece *The Dormant Halo-Ring*, while detailed Entry 610 calls it *The Sleeping Relic’s Lens*. Archetype `MAW-W-651` gives a seven-prism Corona and Long reach; the linked profile records Range 3 / Medium. No source documents a transition or separate mode, so both forms, abilities, names, and bands remain recorded.
+- **Stigma hold:** The primary’s Charm keeps objects set down undisturbed; `SE-651-D` preserves one unknown maker’s symbol and its order. The primary and item-specific codex agree on Head, 4%, and +2 Composure. The Master Registry’s generic Accessory / 5% fields do not resolve the specific record.
 
 ### Field Use Record
 
