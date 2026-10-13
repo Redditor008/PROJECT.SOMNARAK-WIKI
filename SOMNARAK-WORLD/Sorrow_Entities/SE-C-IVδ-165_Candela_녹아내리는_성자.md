@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
 | **Recommended response** | Hold the condition and arrange nothing: enter every vision in the register as one possibility among several, in writing, where the figure can see it being written, and do not treat any of them as inevitable. The register entry is the containment apparatus; nobody is warned on the strength of a vision, and no plan is made around one. |
