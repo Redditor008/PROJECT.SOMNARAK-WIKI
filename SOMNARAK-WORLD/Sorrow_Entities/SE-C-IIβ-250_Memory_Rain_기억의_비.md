@@ -225,7 +225,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus while the bearer is working the source holding, entered at issue rather than after the first fall.
+**Effect:** +1 Clarity during source work with this holding, entered at issue rather than after the first fall.
 
 **Ability:** Grants a minor boon tied to Memory Rain's sorrow; the effect mirrors the entity's nature.
 
@@ -247,6 +247,9 @@ Every piece in this set comes out of standing water, drawn under separate author
 | **After use** | Take the piece back and open the sealed baseline: has the bearer's stock of unprocessed memory outlasted the rotation, and can they still name what belongs to them? The entry is made as the observer reads it, whether or not the bearer agrees with it. |
 
 **Stat interpretation:** Grade and risk are separate measures. The damage line records what the holding does to an entity, while what the bearer takes on runs on another and frequently heavier axis: a low-rated piece can carry a severe personal cost, and the cost column is the one to read first.
+
+**Full-set source review (2026-10-13):** Reviewed the grade overview, all local M.A.W. pieces, Use Notes, Field Use Record, Stat interpretation, and the separate claim that crystallized sorrow returns through the weapon into the bearer. Exact join: Side `SE-250-A` (`C-IIβ-250 [LP]`, `4/4`, assigning `SE-250` to Memory Rain), with `SE-250-B/C/D`; Registry rows 542–545; Master M.A.W. rows/details 148–150; Entity Codex row 414 / Tale 50; and archetype `MAW-W-250`. The local Weapon’s Lament 5–9 / Normal 2 / Short 2 / max 4 / 25-Echo core agrees with Side A/B. Hold local *Vigil Hand-Cannon* and W-250’s flared bronze hand-cannon against exact linked *Memory Requiem* and Master row 148’s Requiem/Resonant-Blade category and Entry 148; no transition or shared 250-number bridge establishes one form. The separate `SE-260-B` *Memory Requiem* is not this pair. Suit resistance values align; the Master table’s Living-Chitin classification does not explain the cloth canopy and was not used to recast it. Tail / 5% Stigma align; its effect now names +1 Clarity from Side A/D. The Registry’s Weapon data are variable and its Gift slot generic. No linked evidence file changed. This is the first source-led disposition for exact `SE-250-B`.
+
 
 ## 관찰 기록 (Observation Log)
 
