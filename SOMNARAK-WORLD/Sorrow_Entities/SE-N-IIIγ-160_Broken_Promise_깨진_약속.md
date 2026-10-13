@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | Viderehan and Ferrehan only, this being an Object/Place. Ferrehan is the sole approach that lowers the gauge; the management condition below must also be satisfied before a session counts as resolved. |
@@ -260,6 +260,12 @@ Escalation here is a Transform expansion of the binding rather than a event of a
 ### M.A.W. Use Notes
 
 Each piece is an extension of the object rather than equipment. It performs as recorded only while the bearer's surety is genuine; a surety the bearer does not actually hold costs more and tends to wake what is in the metal, and the shard is conferred after a work cycle rather than manufactured, requested or scheduled.
+
+### M.A.W. Cross-Source Review — Batch 112
+
+- **Exact designation and missing primary assignment:** The primary is `N-IIIγ-160 [GO]`; no Side A–D set is registered to Broken Promise's own `SE-160` assignment. The similarly numbered `SE-160-A/B/C/D` records belong to `N-IIIβ-160 [WO]`, The Debt Chain; their Binding Maul, Mantle, and Chain items do not identify Broken Promise. `SE-1015-A` does repeat `N-IIIγ-160` as a source designation, but its Related Entity ID is `SE-1015` Facsimile and it links to its own `SE-1015-B/C/D` items and *Facsimile — Witnessed Form* set. That source trace does not establish an exact Broken Promise equipment set or crosswalk, and is not counted as a Weapon-only review.
+- **Master support and material hold:** The Master Codex table and Entries 418–420 explicitly join Promise Fang, Plate, and Shard to `N-IIIγ-160`, confirming γ, Grudge, their identities and core abilities, and the Weapon/Suit costs of 40/35 Echoes. The blank overview grade is now γ. The Master classifications — Weapon `PRIMAL — Bio/Marrow`, Suit `Armor (Plates & Heavy Armor)`, Stigma `Accessory (Relic Drops & Seeds)` — do not reconcile with the primary's Han-iron descriptions, which remain unchanged.
+- **Appearance and duplicate names:** No primary-assigned `SE-160-B/C/D` item records or matching W-418 archetype exist. The `SE-1015` Facsimile and `SE-851` Shard of a Broken Promise files have their own item identities, appearances, and IDs; their Promise Fang/Plate/Shard titles are not used to rewrite the primary's local Fang, harness, and Tail tile, or its combat parameters, resistances, and Tail / 4% / +2 Stigma record. No external stats are invented. The Tales entry's β potency still conflicts with this file's γ and remains unresolved.
 
 ### Field Use Record
 
