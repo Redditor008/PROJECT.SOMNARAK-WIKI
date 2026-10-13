@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 10–14, taken while the weeping is being permitted; a session that is interrupted yields nothing at all, which the sheet enters as a nil rather than as a low reading |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · α (Minor) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
 | **Recommended response** | Permit tears and name the loss; do not suppress the anger. Let the weeping run to its end and let nobody step in to shorten it — the Work Types are the frame and the condition is the work |
@@ -216,7 +216,7 @@ The responses split two and two, and the split is the entity. Flerehan sharpens 
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to work against Swallowed Fury itself, and nothing elsewhere in the Forge District.
+**Effect:** +1 Resilience while working against Swallowed Fury itself; no bonus applies elsewhere in the Forge District.
 
 **Ability:** Converts suppressed emotion into a brief burst of strength.
 
