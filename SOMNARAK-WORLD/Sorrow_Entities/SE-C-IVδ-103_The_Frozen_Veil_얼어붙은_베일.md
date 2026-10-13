@@ -236,6 +236,12 @@ The table is read against the shell rather than against the gauge, because on th
 
 Nothing in this set can be warmed. The lens opens the suspicion that a target never felt as much as they claimed, the veil turns aside the only pressure the chamber produces, and the heart stops emotional manipulation by stopping feeling altogether. All three are cut from a century of people declining to feel anything, and each activation borrows a measure of that distance and leaves it with the operator: the cost is not numbness in general but the discovery that other people's grief has become informative rather than affecting, which no wearer has yet reported noticing on their own.
 
+### M.A.W. Cross-Source Review — Batch 112
+
+- **Weapon hold:** The primary and exact Side A/B stat cards agree on Void 10–15, Speed 3, Medium range, maximum 2, and 50 Echoes; Master Codex Entry 235 confirms the Cold Lens's δ/Void source profile and 50-Echo cost. Weapon-reference records disagree on range: the archetype and one personalization index say Instant, while the primary, Side cards, and a separate personalization description say Medium. Canto IV uses the same code, `MAW-W-103-01`, for a rifle with a reported 3 km shot. The shared code does not document a change from the hand-held lens/disc to a rifle or reconcile the range labels, so the form and range conflict remains open.
+- **Suit hold:** Exact Side A/C and the primary agree on Lament 1.2, Grudge 0.8, Void 0.3, Weight 1.1, maximum 2, and 45 Echoes; Master Codex Entry 236 confirms the Void Suit and its cost. The primary's flowing, heavy veil and Side C's near-transparent, stiff-fold appearance remain unreconciled; no change of form is documented.
+- **Stigma and set:** The exact Side A/D and primary agree on Head, 4%, +3, and emotional-manipulation immunity. The Master Registry's generic Accessory / 5% row does not override that item-specific record. Side A labels the set *Warmth at Risk* and the full-set resonance *Proof of Warmth*; those names remain attached to their separate roles.
+
 ### Field Use Record
 
 | Stage | Required record |
