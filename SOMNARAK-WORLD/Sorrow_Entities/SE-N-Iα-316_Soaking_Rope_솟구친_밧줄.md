@@ -212,7 +212,7 @@ Carried across the shoulders like a penitent yoke, the beam radiates suffocating
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to work against the Rope itself. The knot does nothing anywhere else, and workers have tried it elsewhere.
+**Effect:** +1 Resilience during source work against the Rope itself. The knot does nothing anywhere else, and workers have tried it elsewhere.
 
 **Ability:** Reveals bonds that were never reciprocal.
 
@@ -228,12 +228,14 @@ Every item in this set is the Rope's condition carried in metal rather than ordi
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Soaking Rope's toll being that the yoke is carried across the shoulders and goes on being carried after it is set down. The ache settles where the beam sat and corresponds to no inj. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Soaking Rope's toll being that the yoke is carried across the shoulders and goes on being carried after it is set down. The ache settles where the beam sat and corresponds to no injury. |
 | **During use** | Charging shows as the yoke: it is carried across the shoulders and goes on being carried after it has been set down, and the ache settles exactly where the beam sat with no injury behind it. The second worker logs the hour, and the bearer's own account is taken afterwards, separately. |
 | **At limit** | The slowness does not lift: the bearer answers late, leaves late, and reports afterwards that the shift felt shorter than it was. On a Soaking Rope piece the use ends at that point whatever the bearer says about it. |
 | **After use** | Return the piece, reconcile the baseline, and enter whether the slowness has cleared and the shift is being reported at its true length again. Where it has not, the piece is not reissued to that bearer. |
 
 **Stat interpretation:** α is the lowest grade in the archive, and the knot is the most expensive thing in this file. The grade measures what the beam does to the Rope. It does not measure what it is to feel every unreciprocated expectation within thirty metres, which is what the wearer receives and what no figure here records.
+
+**Full-set source review (2026-10-13):** Reviewed the grade overview, complete M.A.W. set, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side join `SE-316-A` (`N-Iα-316 [D]`, `SE-316`, `4/4`) and `SE-316-B/C/D`; Master Registry rows 603–606; Master M.A.W. rows/details 568–570; Entity Codex row 558 / Tale 190; and archetype `MAW-W-316`. The D record supports naming the Knot bonus `+1 Resilience` during source work; Tail / 5%, α grades, and Suit resistances align. Keep Weapon identity/form held: the primary, Master table row 568, and the main `MAW-W-316` entry identify the *Penitent Gallows-Beam* / weathered oak beam, while exact Side/item B and Master detail 568 identify *The Empty Fang*. The archetype file also contains a separate *Empty Fang* design under the same `MAW-W-316` key but no item-code crosswalk or transition; the matching Grudge 3–6 / Speed 2 / Range 2 / maximum 5 / 15-Echo core does not resolve the form, and the Side-only Single / 100% pattern is not imported. Expanded the truncated `inj.` in the local Field Use Record to `injury`, consistent with the same cost description above. No linked evidence file changed. This is the first source-led disposition for exact `SE-316-B`.
 
 ## 관찰 기록 (Observation Log)
 
