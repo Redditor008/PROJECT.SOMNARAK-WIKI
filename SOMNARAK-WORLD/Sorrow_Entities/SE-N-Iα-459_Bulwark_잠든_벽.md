@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 10–14 per successful cycle, read off the caliper line rather than the lot |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Presence is offered without any pressure to enter. Viderehan and Ferrehan are the only work authorised on this file, and nothing outside them has ever been signed off. |
@@ -188,7 +188,7 @@ There has been no breach and there is no boundary to breach. Escalation here is 
 
 Appearance : A massive five-foot fortress wall-gun with an octagonal iron barrel and heavy swivel pivot, stocked in dark ash and firing two-ounce lead balls ignited by a percussion cap.
 
-The weapon is intended to be rested on parapets or barricades to manage its ferocious recoil. Each shot penetrates through multiple targets in a straight file, shattering solid stone masonry.
+The weapon is intended to be rested on parapets or barricades to manage its ferocious recoil. Its construction suggests a shot through a straight file of targets; every recorded firing is single-target and stops there. The armoury has never explained this departure.
 
 **Damage:** Void 3–6
 **Speed:** 2 (Normal)
@@ -209,7 +209,7 @@ The weapon is intended to be rested on parapets or barricades to manage its fero
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a plated harness of Void Han-glass, barely translucent and near colourless, shifting and breathing along with the wearer.
+**Appearance:** a pale harness of Void Han-glass, with closed outer plates around a warm inner sleeping line.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -227,11 +227,11 @@ The weapon is intended to be rested on parapets or barricades to manage its fero
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a small charm of Void Han-glass that takes the light at an odd angle and keeps hold of it.
+**Appearance:** a pale Head charm of Void Han-glass that catches and holds light, warming near patient, consented company.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 work stat against the entity this piece answers to, and the bearer is barred from approving their own leave; that second clause went in after a bearer worked 11 watches here in a row and signed off every one of them himself.
+**Effect:** +1 Composure against this entity, and the bearer is barred from approving their own leave; that second clause went in after a bearer worked 11 watches here in a row and signed off every one of them himself.
 
 **Ability:** The charm goes cold against the head when the bearer is about to say that they are fine. It confers nothing else and the holding has stopped describing it as a boon.
 
@@ -253,6 +253,8 @@ Nothing here was made to be carried out: a gun that refuses to fire through a ro
 | **After use** | Plate handed to the relief at the gate, reachability check at one day reported by the relief and not by the wearer, memory check at one day. No operative has ever asked for their declaration to be destroyed. |
 
 **Stat interpretation:** α across the set and correctly rated against entities. Against people it costs a day of small memories, a day of being unreachable and the occasional word of refusal, and the establishment has a column for the first and the third.
+**Full-set source review (2026-10-13):** Read every local M.A.W. claim against exact Side A `SE-459-A` (`N-Iα-459 [VP]`, `4/4`), B/C/D, Registry rows 683–686, Master M.A.W. table/details 571–573, Entity Codex row 559 / Tale 191, and `MAW-W-459`. The grade overview now distinguishes no Tool grade from the α M.A.W. set; the Charm bonus is named `+1 Composure`. The local Weapon text records a straight-file construction but single-target fire; the unexplained departure is now stated without contradiction. Hold primary/table/archetype *Slumbering Wall-Gun* vs Side B *Bulwark Lens* and Master Entry 571 *Sleeping Wall Lens*: Void 3–6 / Speed 2 / Range 2 / Single / max 5 / 15 Echoes align, but no form transition exists. Archetype Instant is not item Range 2 Short. Suit appearance now follows exact item C; Master `Sleeping Wall Plate` and Hauberk/Chain-Mail taxonomy remain apart from the linked harness. Local/Side Stigma Head / 5% agree and `+1 Composure` is named; the local cold-trigger ability and Side warmth/consent function remain distinct. Master Brooch taxonomy and generic Registry Accessory do not resolve the slot. Earlier R-29/personalization passes were not linked-source review. No linked evidence changed. First exact-pair Weapon disposition: `SE-459-B` (`MAW-W-459-01`).
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial, and the Registrum's entry of Level 2 has been corrected against this line and the SECC header. Thirty years of watches have produced one instrument and no theory, which is the honest reason the level has never risen.
