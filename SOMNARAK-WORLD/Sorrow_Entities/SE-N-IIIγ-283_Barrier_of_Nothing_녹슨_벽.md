@@ -218,7 +218,7 @@ The heavy head is reinforced with dual steel langets extending eighteen inches d
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 to the bearer's work on this holding and nothing on any other; the armoury records no measured effect elsewhere.
+**Effect:** +2 Resolve during source work on this holding and nothing on any other; the armoury records no measured effect elsewhere.
 
 **Ability:** The bearer can tell, without being told, which people in a room are barred from somewhere and which are not.
 
@@ -240,6 +240,9 @@ The halberd belongs to the Gate's fabric and the plate to the Ferrehan stand. Th
 | **After use** | Return the piece, then ask a colleague rather than the wielder whether Barrier of Nothing's cost is still showing — the wearer is hard to admit into a room. Crews report it before the wearer does. |
 
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+
+**Full-set source review (2026-10-13):** Reviewed the corrected `γ` grade overview, all three local equipment blocks, Use Notes, Field Use Record, Stat interpretation, and the separate M.A.W.-debit claim. Exact join: Side `SE-283-A` (`N-IIIγ-283 [WS]`, `4/4`, `SE-283`), with `SE-283-B/C/D`; Registry rows 571–574; Master M.A.W. rows/details 424–426; Entity Codex row 509 / Tale 142; archetype `MAW-W-283`. Local Weapon’s Weight 7–12 / Fast 3 / Medium 3 / Skewer / max 3 / 40-Echo profile agrees with Side A/B. Keep the local *Rust-Wall Halberd* and W-283 polearm/Room index separate from Side/item B and Master Entry 424’s *Rust Wall Maul*; Master table row 424 still says Halberd, and neither record supplies a transition. The archetype’s Room band is not substituted for the item’s Range statistic. Suit values align. Head / 4% Stigma aligns; the effect now names +2 Resolve from Side A/D. Registry row 574’s generic Accessory / 5% does not replace exact 4%. Tale 142 still classifies this designation as Residue I / Minor α, unlike the corrected primary and Side III / γ; that source conflict remains held. No linked evidence file changed. This is the first source-led disposition for exact `SE-283-B`.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
