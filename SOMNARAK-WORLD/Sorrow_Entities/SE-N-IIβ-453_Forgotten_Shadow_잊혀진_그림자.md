@@ -191,9 +191,9 @@ The etched celestial coordinates point toward lost stars outside recorded cartog
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-Appearance : A curved thirty-two inch cavalry sabre with a pipe-back spine, an enclosed steel three-bar hilt, and a high-carbon blade that sheds a persistent ribbon of pale blue sorrow mist.
+Appearance : A shroud of blue Han-silk carrying a nameless route line and one current identity mark — the path of someone unknown and the name of someone present, woven so neither absorbs the other.
 
-The sabre delivers fluid, sweeping draw-cuts from horseback or on foot. The blue sorrow mist trails along the cutting path, momentarily blinding the vision of adjacent combatants.
+The route line follows the overlooked trace; the identity mark keeps the wearer anchored to the present, so accompaniment does not become ownership.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -214,7 +214,7 @@ The sabre delivers fluid, sweeping draw-cuts from horseback or on foot. The blue
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to work on this holding. The song is carried as a token at the throat and is said to be warm in districts where the Day Tokens go unpresented, which is not an instrumented claim and is recorded as hearsay.
+**Effect:** +1 Clarity to work on this holding. The song is carried as a token at the throat and is said to be warm in districts where the Day Tokens go unpresented, which is not an instrumented claim and is recorded as hearsay.
 
 **Ability:** Allows the wearer to perceive people or places erased from ordinary awareness.
 
@@ -236,6 +236,8 @@ The set is the holding in three pieces. What it gives is listed above; what it t
 | **After use** | Return the piece and open the sealed baseline: has the flatness outlasted the rotation? The entry is made either way, and where it has not lifted, the piece is not reissued to that wearer. |
 
 **Stat interpretation:** Field performance and what a person pays for it are different axes. A β set that performs to specification can still return a wearer who weeps without a cause and cannot taste small pleasures, and on this holding the rotation is set from the cost column rather than from the grade.
+
+**Full-set source review (2026-10-13):** Audited all M.A.W. fields and claims against exact `SE-453-A` (`N-IIβ-453 [LS]`, `SE-453`, `4/4`), B/C/D, Registry 675–678, Master M.A.W. 487–489, Entity Codex row 531 / Tale 163, and `MAW-W-453`. Side A and all pieces grade β; item D supports `+1 Clarity`. The Suit Appearance now follows exact item C's blue silk route-shroud, supported by the matching local Suit title/type and Master Entry 488; the table's Hauberk/Chain-Mail classification remains unaligned. Hold Weapon: local heading/archetype *Lamentation Sabre* (Medium) and planisphere / Master-table *Umbral Astrolabe* conflict with linked item B and Master Entry 487 *Shadow Requiem* blade. Lament 5–9 / Speed 2 / Range 2 / max 4 / 25 Echoes agrees; Side-only Single / 100% and the archetype Medium band were not imported as item fields. The distinct `O-Iα-453` / `SE-1035-B` Floating Fragment pair was not used; this exact join is `N-IIβ-453 → SE-453-B` / `MAW-W-453-01`. Local/Side Tail / 5% Stigma align; the Master table's Pendant/Choker class and Registry's generic Accessory label do not change the slot. Commit `7356019` only restored Suit resistances; it was not a Weapon review. No linked evidence changed. First source-led pair: `SE-453-B`.
 
 ## 관찰 기록 (Observation Log)
 
