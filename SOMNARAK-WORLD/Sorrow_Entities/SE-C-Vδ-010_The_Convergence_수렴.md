@@ -238,6 +238,12 @@ The planetary hoops spin along multiple axes with zero friction, warping backgro
 
 There is no extension of this entity, because nothing has been taken from it. The three pieces listed here were assembled out of the Birds' own sets so that the separation teams would have something rated for the work, and the Armoury's note says plainly that they are equipment for a drill and not relics of a source. It is the only honest way to issue anything for a holding that has existed for thirty-six seconds.
 
+### M.A.W. Cross-Source Review — Batch 113
+
+- **Identity and provenance hold:** Primary `C-Vδ-010 [WS]` matches Side A `SE-010-A`, Related Entity `SE-010`, and a complete `4/4` set. The primary says no pieces were taken from the Convergence and that its gear was assembled from the Three Birds' sets; Side A instead records sealed artifacts recovered after Convergence separation or suppression. The Bird Suit appearances were checked separately, but no item-level crosswalk joins them to `SE-010-C`.
+- **Weapon-name hold:** The primary and Side B item (`SE-010-B`, `MAW-W-010-01`) share a compact three-hoop astrolabe around light-swallowing black glass; the Master table and current archetype also use *The Singularity Orrery*. Side A's registry table and the B filename say *The Absolute Maul*, detailed Entry 385 says *The Gravitational Singularity-Hammer*, and the early W-010 personalization list says *War Sledge*. No source documents the naming or design transitions; the exact `SE-010-B` pair is newly dispositioned as a hold.
+- **Suit, Stigma, and history holds:** The primary's three-colour braided Mantle differs from Side C's dense black anchoring mantle, and its warm three-ring Verdict differs from Side D's cold square pendant marked with an eye, scale, and wing. Head / 4% / +3 and Suit resistances are retained, but generic Registry Accessory / 5% does not settle the specific record; the primary's no-completed-cycle account also remains beside Side D's recorded field use.
+
 ### Field Use Record
 
 | Stage | Required record |
