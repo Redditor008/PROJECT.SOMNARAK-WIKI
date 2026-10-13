@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 12–18 per cycle, each cycle being one complete pass of the voice along the line and back. The yield does not vary with the length of the pass, which has been checked against the clock sixty times and holds whether the transit runs short or long. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
 | **Recommended response** | Listen through one full transit, write the words in the order they arrive, and where a memory can be matched to a named correspondent in the letters, say the name aloud at the point it occurs. Returning one memory to one name is a complete cycle. |
@@ -195,7 +195,7 @@ Cranking the handle discharges a continuous rolling stream of heavy lead slugs w
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a shroud that holds a faint damp at the hem however long it is stored, and which has six small marks worked into the weave, evenly spaced, that the Armoury did not put there.
+**Appearance:** a blue Han-silk shroud with separate identity lines joined by removable wet links. Its hem stays faintly damp in storage; six evenly spaced marks remain local observations.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -213,13 +213,13 @@ Cranking the handle discharges a continuous rolling stream of heavy lead slugs w
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a single link of pale wet crystal, open at one side, which gives one word when it is turned over in the hand and always the same word.
+**Appearance:** a deep-blue crystal Tail chain-link, open at one side. When turned in the hand it gives one word, always the same, as the local record describes.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat on this holding's own cycles and nothing at all elsewhere — a piece of a correspondence is only legible inside the correspondence
+**Effect:** +1 Clarity on this holding's own cycles and nothing at all elsewhere — a piece of a correspondence is only legible inside the correspondence
 
-**Ability:** Allows two people to share a memory temporarily.
+**Ability:** Allows two consenting people to share one memory temporarily.
 
 **Cost:** Both people feel the grief attached to the memory.
 
@@ -239,6 +239,9 @@ A piece taken from here is a link lifted out of a thing made of other people's s
 | **After use** | Open the sealed list and compare. A name the wielder did not know before is logged to the counsellor and not to the line supervisor — a wing that treated it as unreliability would simply stop being told. |
 
 **Stat interpretation:** The grade describes extraction stability and says nothing about human safety. A well-graded piece from this source can still hand its bearer a decade of somebody else's friendships, which no rating system has a column for. Read both sides of the entry and authorise on the cost.
+
+**Full-set source review (2026-10-13):** Audited every local M.A.W. claim against exact Side A `SE-467-A` (`O-IIβ-467 [LS]`, `4/4`), B/C/D, Registry rows 687–690, Master M.A.W. table/details 637–639, Entity Codex row 582 / Tale 213, and `MAW-W-467`. The overview grade is now `— · β`; item D supports `+1 Clarity`, and the two-piece Registrum note now reflects all three M.A.W. pieces. Exact item C supports the blue Han-silk identity lines and removable wet links; six marks and a damp hem remain local details. Stigma appearance and effect now name the deep-blue Tail link and `+1 Clarity`; the shared-memory ability includes item D's consent condition. Hold local/table/archetype *Soaking Chain-Gun* vs linked B/Master Entry 637 *Soaking Requiem* blade: Lament 5–9 / Speed 2 / Range 2 / Single / max 4 / 25 Echoes align, but no transition maps the forms. Archetype Medium remains distinct from item Range 2 Short. Master Rings/Hand Seals taxonomy conflicts with the linked Tail; Registry Accessory / 5% is generic, while the local and exact Side Tail / 5% agree. The shroud overrun inversion remains a local claim, not normalized across sources. No linked evidence changed. First exact-pair Weapon disposition: `SE-467-B` (`MAW-W-467-01`).
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -360,7 +363,7 @@ Some sorrows mourn separation. Memory Chain mourns the memory-bond — the conne
 **Observation Notes:**
 - Forty-one letters between six people over nine years, each repeating what all of them already knew.
 - See Combat Record for engagement history.
-- Two pieces; worn past pattern the shroud stops holding the memories off and starts delivering them.
+- Three M.A.W. pieces; worn past pattern, the shroud stops holding memories off and starts delivering them.
 **Cross-References:** The Chain of Memories (no shared word), The Memory Weaver (four refused insertions), Risus (closed), the forty-one letters, and the Year 4,233 place name.
 **Faction Involvement:** None active. UCD requested transcripts twice on the grounds that the Gardens are Fray-adjacent and was refused both times, the letters and the sequence being held as personal correspondence.
 **Originator:** See Origin section — ‘The People’ field.
