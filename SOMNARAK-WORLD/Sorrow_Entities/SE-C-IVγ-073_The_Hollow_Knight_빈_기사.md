@@ -226,15 +226,22 @@ The Hollow Knight is an Entity (IV) Subject with Subject-Body manifestation and 
 **Acquisition Probability:** 4%
 **Effect:** +2 stat bonus when working the source entity
 
-**Ability:** Absorbs damage intended for others; makes the wearer a powerful protector.
+**Ability:** Once per encounter, intercepts one direct attack intended for a declared protected person.
 
-**Cost:** The wearer cannot flee from danger. Duty compels them to stand and fight.
+**Limit:** The wearer cannot retreat until the protected person is formally relieved, reaches safety, or explicitly refuses the protection.
+
+**Cost:** The wearer feels every fear the protected person hid during the encounter.
 
 *The Duty Shield is not issued on request and cannot be bought. It has been conferred 4 times, each on a warden who stepped off the route to let somebody else pass and was saluted for it — which the wing treats as the only known method of manufacture.*
 
 ### M.A.W. Use Notes
 
 All 3 pieces are drawn from the knight's own armour and carry what it carries: old injuries aching in the cold, and bruising rising where they were taken. The grade records extraction stability and nothing about that; the cost sits in the column beside it, which is why the set goes out one rotation at a time and why the shield lives in the store rather than on a rack.
+
+### M.A.W. Cross-Source Review — Batch 111
+
+- **Weapon hold:** This dossier describes a fang-curved Han-iron blade. `SE-073-B` instead describes a broad, straight crimson blade with a squared guard; `MAW-W-073` records a Squared Warbrand / Medium. Master Codex Entries 199–201 do not supply a physical-form crosswalk. No transition is documented, so neither description is replaced.
+- **Stigma correction and material hold:** The primary Ability, Limit, and Cost now follow `SE-073-D`: one intercepted direct attack per encounter for a declared protected person, a defined release condition, and the bearer’s post-encounter fear. The primary calls the pendant Han-iron and its Use Notes say all pieces come from the armor; Side D calls it dark crimson Han glass. No source resolves the material. Tail / 4% / +2 agree; the Registry’s generic Accessory / 5% does not replace those item-specific records.
 
 ### Field Use Record
 
