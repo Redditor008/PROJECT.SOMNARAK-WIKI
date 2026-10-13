@@ -217,7 +217,7 @@ Thrusting the brand-head into hostile entities sears deep third-degree burns int
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat while this piece's source entity is the subject of the cycle, and nothing whatever on any other holding
+**Effect:** +1 Clarity during source work while Feu Follet is the subject, and nothing whatever on any other holding.
 
 **Ability:** Provides brief emotional warmth during distress.
 
@@ -239,6 +239,9 @@ Every piece in this set gives something genuinely warm and charges for it afterw
 | **After use** | Removal, injuries, lingering effects, cooldown, repair need, reuse authorisation, and any face reported — which goes to the counsellor and not to the line supervisor. |
 
 **Stat interpretation:** The grade states how hard a piece hits and nothing about what it takes, and on this set the relationship runs the wrong way: the β ratings are unremarkable and the costs are among the quietest and most durable in the wing. A low-rated piece can carry a severe psychological price. Read both columns, authorise on the second, and ask who is carrying it.
+
+**Full-set source review (2026-10-13):** Reviewed the grade overview, complete M.A.W. set, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side join `SE-301-A` (`O-IIβ-301 [LS]`, `SE-301`, `4/4`) and `SE-301-B/C/D`; Master Registry rows 587–590; Master M.A.W. rows/details 631–633; Entity Codex row 580 / Tale 211; and archetype `MAW-W-301`. The exact D record supports naming the Ember bonus `+1 Clarity` during source work; Tail / 5%, β grades, and Suit resistances align. Keep Weapon identity/form held: the primary, Master table row 631, and `MAW-W-301` identify the *Smoldering Brand-Lance* / polearm, while exact Side/item B describes the *Feu Follet Requiem* as a four-paned hand lantern; Master detail 631 instead names *The Melting Flame Requiem*. Their Lament 5–9 / Speed 2 / Range 2 / maximum 4 / 25-Echo cores agree, but no transition is documented. Master table rows 632–633 also give alternate Suit/Stigma names and Living-Chitin / Ocular-Lens classifications, unlike the linked silk Shroud and Tail Ember; those classifications do not resolve the item records. No linked evidence file changed. This is the first source-led disposition for exact `SE-301-B`.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
