@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 12–18 per cycle, taken in a dry tunnel by a party carrying air bottles they do not need. The bottles are protocol: three Wardens have reported being unable to breathe and all three were in moving air at the time. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Time the interval, say the thirty-one names, and acknowledge each call aloud as it arrives — *heard* is the word the station uses. Viderehan and Ferrehan only. Nobody raises their voice. |
@@ -212,7 +212,7 @@ Cold seawater constantly sweats from the fuller grooves, pooling along the quill
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to work against the Drowned Echo itself, and nothing elsewhere in the deep tunnels.
+**Effect:** +1 Clarity while working the Drowned Echo itself, and nothing elsewhere in the deep tunnels.
 
 **Ability:** Carries a voice through submerged or sealed spaces.
 
@@ -234,6 +234,8 @@ Both pieces came out of voices that were never received, and they take the same 
 | **After use** | Read the clerk's count to the wielder. It falls back to baseline over about a fortnight and both wielders asked to see the tally afterwards, which the Armoury now provides as standard. |
 
 **Stat interpretation:** A β-grade set whose cost is a question asked too often, which no medical examination will find and any clerk can count. Authorise on the tally.
+
+**Full-set source review (2026-10-13):** Audited the full M.A.W. set and related claims against exact `SE-378-A` (`O-IIβ-378 [LS]`, `SE-378`, `4/4`), B/C/D, Registry 647–650, Master M.A.W. 634–636, Entity Codex row 581 / Tale 212, and `MAW-W-378`. Side A and all items grade β; the blank overview now records `— · β`. Item D supports `+1 Clarity`. Hold primary/Master-table/archetype *Deluge Longsword* against linked item B and Master Entry 634 *Drowned Requiem*, whose Appearance is a diving bell; Lament 5–9 / Speed 2 / Range 2 / max 4 / 25 Echoes agrees, but no transition joins the forms. Side B's Single / 100% pattern and coverage remain unstated locally and were not imported. Suit resistances align. Local/Side Stigma Tail / 5% agree, while the Master table's Floating-Orb/Coronet category and Registry's generic Accessory slot do not settle the physical slot. Use Notes' “both pieces” remains scoped to its shared charge; the Bell's unreachable-call toll stays distinct. No linked evidence changed. First source-led pair: `SE-378-B`.
 
 ## 관찰 기록 (Observation Log)
 
