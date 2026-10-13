@@ -225,7 +225,7 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 to the bearer's work rating against this holding. The flask also holds one memory in liquid form, and the six bearers have between them filled it four times — in each case with an account of a dead colleague that the Records Office had refused to file.
+**Effect:** +2 Clarity during source work against this holding. The flask also holds one memory in liquid form, and the six bearers have between them filled it four times — in each case with an account of a dead colleague that the Records Office had refused to file.
 
 **Ability:** Holds one memory in liquid form, indefinitely, retrievable whole. Of the six flasks issued, four hold an account of a dead colleague that the Records Office declined to file; the holders have not been asked whose, and the orientation card notes that they will not be.
 
@@ -247,6 +247,9 @@ The set is built around keeping something that the record refuses to keep: a rod
 | **After use** | Margin re-staked, figures entered before the pair leaves the stations, debrief taken from each worker separately, and the flattening recorded in days once it ends. |
 
 **Stat interpretation:** γ across the set, and nothing here has ever been fought, so the grade describes extraction stability only. The human cost on this file is the flattening and, for two of six flask holders, one opening that was enough.
+
+**Full-set source review (2026-10-13):** Reviewed the grade overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims. Exact join: Side `SE-270-A` (`C-IVγ-270 [LP]`, `4/4`, assigning `SE-270` to Mnemosyne), with `SE-270-B/C/D`; Registry rows 559–562; Master M.A.W. rows/details 226–228; Entity Codex row 441 / Tale 76; archetype `MAW-W-270`. Local Weapon core (Lament 7–12 / Fast 3 / Medium 3 / max 3 / 40 Echoes) agrees with Side A/B, but the primary and W-270 archetype call it *Rusted Boundary-Rod* while exact Side/item B and Master row/Entry 226 call it *Lake Requiem*; Side/item describe a singing blade and the Master category is Requiem/Resonant Blade; no transition joins rod and blade. The repeated rod record in separate `N-IIβ-270` / Neglect Learned to Listen is not this Weapon pair. Suit values align. Tail / 4% Stigma agrees with Side A/D and its effect now names +2 Clarity; Registry row 562’s generic Accessory / 5% is held, not substituted. The overview wording `None issued · γ` is retained: the γ grade is supported, but its issue-status phrase is not reconciled with the Side/item Flask bestowal and six recorded holders. No linked evidence file changed. This is the first source-led disposition for exact `SE-270-B`.
+
 
 ## 관찰 기록 (Observation Log)
 
