@@ -147,6 +147,12 @@ Management: have the bearer say the partner's full name and the pact's three ten
 | **At limit** | The wielder is heard promising something they plainly cannot deliver. Both stand-downs began that way, and in both the ward sister already had the wielder's words written down. |
 | **After use** | The piece goes back at the ward, not the Armoury counter, and the wielder says aloud the name of whoever they last promised before it is taken from them. |
 
+### M.A.W. Cross-Source Review — Batch 113
+
+- **Recorded structures:** This primary contains a Weapon and an `M.A.W. Armor` entry, followed by Use Notes; it has no Suit heading, Stigma section, or Field Use Record. The introductory note says a third of three cords remains unworked, but it does not identify another equipment item.
+- **Repository-wide identity search:** Before this note was added, a whole-repository search found the exact item names only in this primary; no linked Side A–D set, item Appearance record, Master Registry entry, Master M.A.W. entry, or Weapon archetype existed. No pre-existing file contained an abbreviated `SE-1056` assignment or any `MAW-W-1056`, `MAW-S-1056`, or `MAW-G-1056` item code; this note preserves that negative result.
+- **Appearance and pair boundary:** The primary's two-metre red silk/copper lash with a half-coin and standing red-silk/copper-thread collar remain the only source-backed appearances. No exact linked Weapon pair exists, and the third-cord note does not establish a missing Stigma or Weapon-only pair.
+
 ## 관찰 기록 (Observation Log)
 
 | Stage | What is recorded |
