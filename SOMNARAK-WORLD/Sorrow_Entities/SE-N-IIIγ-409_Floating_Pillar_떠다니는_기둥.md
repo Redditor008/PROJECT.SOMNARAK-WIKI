@@ -213,7 +213,7 @@ The obsidian body is polished to a glassy mirror finish without tool marks. Pier
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus while working the gap from the two marks.
+**Effect:** +2 Composure while working the gap from the two marks.
 
 **Ability:** Reveals false supports and hidden instability.
 
@@ -223,18 +223,20 @@ The obsidian body is polished to a glassy mirror finish without tool marks. Pier
 
 ### M.A.W. Use Notes
 
-A piece cut from Floating Pillar is not ordinary equipment and is not treated as one: it works by being part of the absence it is used near, and it carries that absence's toll with it. The file records one cost and one only — small, nameless memories go with each use — and it is paid whether the use was correct or not; the ledger's note is that the gaps appear in the unremarkable furniture of a life rather than in anything a person would have chosen to remember.
+A piece cut from Floating Pillar is not ordinary equipment and is not treated as one: it works by being part of the absence it is used near. The toll differs by piece: the Shuttle-Awl takes small, nameless memories; the Empty Veil thins the wearer's account of who they are; the Empty Pillar makes every support once imagined felt. Each charge is paid whether the use was correct or not. The ledger first sees the Awl's gaps in the unremarkable furniture of a life.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's bearings from both marks, and a baseline written down and held by somebody else; on pieces from this holding the recorded cost is the small, nameless kind, and the holder of the baseline is not the wielder. |
-| **During use** | Charging presents as the toll itself: a name that was there this morning is not there now. The wielder's own account is taken separately and afterwards, by the second worker. |
+| **Before use** | Wielder, piece, the day's bearings from both marks, and an independently held baseline for the selected piece's recorded charge: memory gaps, a thinning self-account, or supports felt. |
+| **During use** | Record the charge associated with the selected piece; on the Awl, this can be a name that was there this morning and is not there now. The wielder's own account is taken separately and afterwards, by the second worker. |
 | **At limit** | The toll runs continuously rather than in episodes and the wearer stops noticing it; from that point the second worker's call stands against the wielder's, and the piece returns to the armoury whatever the wielder says. |
 | **After use** | Return the piece and open the sealed baseline: if the absence outlasted the rotation, the entry stands and the piece is not reissued to that wielder, whether or not they agree. |
 
-**Stat interpretation:** Field performance and human cost are separate axes and are never averaged, and on a Void set the second one is the only one that moves: nothing here reduces the toll, and the accurate pieces are the ones that take most, because what they show the wearer is what they were leaning on. A low-rated piece can leave somebody querying arrangements that are sound for a fortnight.
+**Stat interpretation:** Field performance and human cost are separate axes and are never averaged. The Void grade does not lessen the piece-specific toll: the Awl's memory gaps can leave somebody querying arrangements that are sound for a fortnight, while the Veil and Stigma carry the identity and support costs recorded above.
+
+**Full-set source review (2026-10-13):** Reviewed all M.A.W. fields and related claims against exact `SE-409-A` (`N-IIIγ-409 [O]`, `SE-409`, `4/4`), B/C/D, Registry 659–662, Master M.A.W. 433–435, Entity Codex row 512 / Tale 145, and `MAW-W-409`. Side A and every item grade support the existing `γ · γ`; item D supports `+2 Composure`. Hold primary/Master-table/archetype *Void Shuttle-Awl* against linked item B and Master Entry 433 *Empty Lens* (a triangular pane in an A-frame); Void 7–12 / Speed 3 / Range 3 / max 3 / 40 Echoes matches, but the forms have no transition. Side-only Skewer/falloff fields remain unstated locally; the archetype's Short band is not substituted for item Range 3. Suit values align; cowl/veil descriptions remain distinct. Local/Side Head / 4% Stigma agree, while the Master table's Ocular-Lens category and Registry's generic Accessory / 5% do not settle form or slot. The set-wide cost record is now item-specific; no stop threshold for the Veil/Stigma is inferred. Tale 145's Residue I / Minor α / Low record remains a separate conflict with the primary and Entity Codex. No linked evidence changed. First source-led pair: `SE-409-B`.
 
 ## 관찰 기록 (Observation Log)
 
