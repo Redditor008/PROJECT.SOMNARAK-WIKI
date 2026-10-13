@@ -240,6 +240,12 @@ Escalation is width. Record the gap at the three marked stations, the difference
 
 Every piece is made from a join, and the set gives its wielder a sense for boundaries that no longer exist and takes away their sense of which side of one they belong on. It is useful — four lost ward plans recovered — and the cost shows up in a locker room: three wielders, all three wearing somebody else's coat home at least once, none of them able to see the error when it was pointed out.
 
+### M.A.W. Cross-Source Review — Batch 113
+
+- **Identity and exact set:** Primary `C-IVδ-193 [WP]` matches `SE-193-A` and Related Entity `SE-193`; the Side set is `4/4` and is titled *After the Wall*. The Entity Codex, Tale 84, and Master Entries 250–252 use *The Vanished Wall*, while the primary and Side A say *Rift*; retain the code-linked names without renaming either record.
+- **Weapon:** Primary, `SE-193-B` (`MAW-W-193-01`), and Master Entry 250 agree on *The Wall's Maul* and Weight 10–15 / Speed 3 / Range 3 Medium / maximum 2 / 50 Echoes. Archetype `MAW-W-193` assigns Room reach; the personalization note depicts a two-grip monolith and lists Medium as the recorded range. Keep the archetype label distinct from the linked item's Medium band.
+- **Suit and Stigma holds:** Primary and `SE-193-C` agree on resistances, but the local translucent veil differs from the item's black absence-veil, and Master Entry 251's Hauberk / Chain-Mail taxonomy does not resolve the material. Primary and `SE-193-D` agree on Head / 4% / +3, while the warm joined-halves charm, the item's small black line-charm, and generic Registry Accessory / 5% remain separate descriptions.
+
 ### Field Use Record
 
 | Stage | Required record |

@@ -9,7 +9,7 @@ This file is the running state of the project. It is updated at the end of every
 
 ## Full-SE M.A.W. audit — active scope (expanded 2026-10-11)
 
-**Current cumulative full-SE coverage through Batch 113 / unit 1:** **28.90% / 100% complete**; **214 of 301 primary dossiers remain** (87 counted dispositions; 89 repository review markers, including paused Silent Child and scope-unconfirmed Inheritor, which remain excluded; 212 eligible cases remain pending). Separately, **Weapon-only coverage is 44.25% / 100% complete**; **160 of 287 eligible pairs remain** (127 counted source-led dispositions). Fourteen primary dossiers remain outside paired scope. Holds count as dispositions, not defect findings; unreviewed cases are not presumed defective.
+**Current cumulative full-SE coverage through Batch 113 / unit 2:** **29.24% / 100% complete**; **213 of 301 primary dossiers remain** (88 counted dispositions; 90 repository review markers, including paused Silent Child and scope-unconfirmed Inheritor, which remain excluded; 211 eligible cases remain pending). Separately, **Weapon-only coverage is 44.60% / 100% complete**; **159 of 287 eligible pairs remain** (128 counted source-led dispositions). Fourteen primary dossiers remain outside paired scope. Holds count as dispositions, not defect findings; unreviewed cases are not presumed defective.
 
 
 **Batch 110 close and queue correction (2026-10-13).** The original authorized scope—Bulwark, Memory Chain, Sunken Pillar—is complete, **3/3**. Bulwark and Memory Chain were chosen from a provisional name screen. The required `python3 tools/sect.py --files 301` pending-only rank was run only after those two commits (77 reviewed / 224 pending). It returned Sunken Pillar `C-IIIγ-649` (0.012), Silent Child `N-Iα-025` (0.012), and Inheritor `C-IIIγ-062` (0.011). Sunken was the original third case and ranked first. Do not treat Silent Child or Inheritor as substitutions. Full descriptions and GitHub links are in [`CHANGELOG.md`](../CHANGELOG.md#unreleased).
@@ -76,7 +76,8 @@ The original three add **3 / 301** full-SE dispositions and **3 / 287** new Weap
 
 | Unit | Primary → exact Side source | Source-backed result | Weapon-only ledger | Commit |
 | --- | --- | --- | --- | --- |
-| 1 / 5 | Hollow Tree `C-IVγ-205 [WS]` → `SE-205-A`; `4/4` | Named Side-supported `+2 Resolve`; kept the cleaver/staff and Stigma-description differences on hold. | Existing `SE-205-B` hold; not recounted. | — |
+| 1 / 5 | Hollow Tree `C-IVγ-205 [WS]` → `SE-205-A`; `4/4` | Named Side-supported `+2 Resolve`; kept the cleaver/staff and Stigma-description differences on hold. | Existing `SE-205-B` hold; not recounted. | `734b6e0` |
+| 2 / 5 | Rift `C-IVδ-193 [WP]` → `SE-193-A`; `4/4` | Confirmed the linked Maul's core profile; kept archetype Room vs item Medium, veil, Charm appearance, and Rift / Vanished Wall titles distinct. | New exact pair `SE-193-B` (`MAW-W-193-01`). | — |
 
 **Batch 109 opening checkpoint (after Batch 108):** Full-SE coverage was **23.3% / 100% complete**; **231 of 301 primary dossiers remained** (70 dispositions). Separately, Weapon-only coverage was **39.4% / 100% complete**; **174 of 287 eligible pairs remained** (113 source-led dispositions).
 
