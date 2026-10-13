@@ -213,7 +213,7 @@ The steel appears solid at rest but ripples visibly when swung, shedding droplet
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 to the working stat, and the wearer wakes knowing, for a few seconds, exactly which of their own attachments are returned and which are not. Most ask to be relieved of the knot within the year.
+**Effect:** +2 Clarity to the working stat, and the wearer wakes knowing, for a few seconds, exactly which of their own attachments are returned and which are not. Most ask to be relieved of the knot within the year.
 
 **Ability:** Preserves one emotional connection through distance.
 
@@ -235,6 +235,8 @@ The three pieces together are the holding. Everything the set confers is written
 | **After use** | Piece returned, baseline opened, and the numbness read against it: has the flatness lifted, or has the wearer stopped being able to say? Where it has not lifted, the piece is not reissued to that wearer. |
 
 **Stat interpretation:** The grade records how cleanly the archetype came off the holding; it says nothing about what the wearer pays for it. A γ piece performing to specification can still return a bearer who weeps without a cause and can no longer taste small pleasures, and the cost column, not the grade, is what the rotation is built around.
+
+**Full-set source review (2026-10-13):** Audited the complete M.A.W. set and related claims against exact `SE-447-A` (`N-IIIγ-447 [LS]`, `SE-447`, `4/4`), B/C/D, Registry 667–670, Master M.A.W. 436–438, Entity Codex row 513 / Tale 146, and `MAW-W-447`. The grade `— · γ`, Tail / 4% Stigma data, and Suit resistances align; item D supports `+2 Clarity`. Hold primary/Master-table/archetype *Liquefying Zweihander* / Wave-Bladed Flamberge against linked item B and Master Entry 436 *Melting Requiem* / circulation blade. Lament 7–12 / Speed 3 / Range 3 / max 3 / 40 Echoes agrees, but no transition bridges the forms. Side-only Skewer/falloff remains unstated locally; the second W-447 archetype entry describes the Side blade but supplies no item crosswalk. The Suit's silk Shroud and linked Shroud share their name and resistance profile, while the Master-table Hauberk/Chain-Mail category remains held. Tail / 4% is supported by primary and exact item D; the Registry's generic Accessory / 5% and Master Pendant/Choker class do not override it. Tale 146's Residue I / Minor α / Low record remains distinct from the primary and Entity Codex. No linked evidence changed. First source-led pair: `SE-447-B`.
 
 ## 관찰 기록 (Observation Log)
 
