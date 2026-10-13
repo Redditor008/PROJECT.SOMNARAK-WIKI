@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Viderehan and Ferrehan only, this being a Place. Ferrehan is the sole approach that lowers the gauge; no cycle is worked while members of the public are beneath the canopy, which in practice means the work is done at either end of the day. |
@@ -224,13 +224,13 @@ Escalation here is the root line. Record the trigger where one is identifiable, 
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a small, cool, faintly luminous blue Lament Han-crystal leaf with a fine tear line through its centre, small enough to hang from a cord or rest in the palm.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to the named check while working the Weeping Willow; the sources do not identify the affected statistic.
 
-**Ability:** Grants a minor boon tied to Weeping Willow's sorrow; the effect mirrors the entity's nature.
+**Ability:** When the bearer and affected person or witness agree that one specific task, phase, or farewell has ended, the Charm creates a short calm interval for a closing ritual; it cannot make grief disappear or substitute for consent.
 
 **Cost:** The bearer weeps in their sleep.
 
