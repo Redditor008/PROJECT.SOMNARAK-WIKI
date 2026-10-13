@@ -218,7 +218,7 @@ The culverin fires dense canister shot filled with lead shrapnel and salt-gravel
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 while working this holding, and nothing elsewhere in the Market. The shard's other property is the one the file treats as its cost: it lets the wearer see what another person is keeping back, and it does not distinguish between a secret and a privacy, which is why it has been refused by more wielders than any other piece in the wing.
+**Effect:** +1 Composure while working this holding, and nothing elsewhere in the Market. The shard's other property is the one the file treats as its cost: it lets the wearer see what another person is keeping back, and it does not distinguish between a secret and a privacy, which is why it has been refused by more wielders than any other piece in the wing.
 
 **Ability:** Blocks unwanted emotional intrusion.
 
