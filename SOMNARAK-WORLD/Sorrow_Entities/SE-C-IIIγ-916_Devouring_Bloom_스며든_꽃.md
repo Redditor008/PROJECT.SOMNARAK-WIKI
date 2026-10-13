@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle, entered against the front reading taken at the same time rather than against the shift; in 9 years the section has produced only a few hundred usable front figures, which is why the yield is quoted as a range and not as a rate. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | γ · γ |
+| **Tool / M.A.W. grade** | γ · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | All four Work Types are valid; it is a Subject and is worked as one. Viderehan and Ferrehan lower or hold the gauge; Flerehan is permitted at the growth front only, and the section is walked with a tunnel engineer rather than alone; Pugnahan raises it and breaks petals, and every petal handled is entered by name. |
@@ -232,6 +232,10 @@ Escalation here is advance and load. Record the front at onset and at close agai
 **Range:** 3 (Medium)
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
+
+**Attack Pattern:** Skewer
+**Target Coverage:** One primary target and up to two targets pierced behind it.
+**Falloff Rule:** 100% to the primary target, 70% to the first pierced target, and 50% to the second.
 
 **Ability:** Deals Weight damage against the Han — the sorrow reserves and the karmic debt — and channels the bloom's signature in the strike. The target carries the mass of what it has refused to put down, read off the same scale the section's engineer uses on the petals.
 
