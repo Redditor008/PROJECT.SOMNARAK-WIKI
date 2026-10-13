@@ -181,7 +181,7 @@ The table above reads only against the classification, and a gauge that does not
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-Appearance : A nine-inch needle stiletto crafted from dull blackened steel, fitted with a disc guard and an ergonomic hilt completely wrapped in thick vulcanized rubber sheeting.
+**Appearance:** A nine-inch needle stiletto crafted from dull blackened steel, fitted with a disc guard and an ergonomic hilt completely wrapped in thick vulcanized rubber sheeting.
 
 The rubberized grip absorbs all vibration, ensuring silent deployment from concealed sheaths. The ultra-fine tip penetrates between armored weave layers and joint gaps without catching or dragging.
 
@@ -196,15 +196,17 @@ The rubberized grip absorbs all vibration, ensuring silent deployment from conce
 **Falloff Rule:** 100% to the single designated target; the stiletto takes one and nothing carries to anyone standing beside them.
 **Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the wound and the quiet that follows it are tracked apart.
 
-**Ability:** Deals Void damage against the Soul — identity, memory, and the sense of being perceived — and what the struck describe is a room in which nobody turned round when they spoke. The stiletto takes one target and nothing carries to anyone standing beside them.
+**Ability:** Quiet Interval creates a one-turn soundless space around one target, interrupting coercive speech, sonic pressure, and forced confession. The linked item's listed Void damage is separate. The local record describes the target's experience as a room in which nobody turns when they speak, and classifies the listed Void strike as reaching the Soul — identity, memory, and the sense of being perceived.
 
-**Cost:** The wielder loses small memories with each use, and specifically of being attended to: who listened to them, who asked how they were, which of their requests were answered.
+**Limit:** The target cannot speak normally during the interval; the effect protects silence but does not choose what it means.
+
+**Cost:** The primary records small memories of being attended to lost with each use. Exact item `SE-025-B` records one ordinary sentence lost when it matters most; no source maps the two costs.
 
 ### M.A.W. Suit — The Silence Veil
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and all but colourless, thinning to nothing at the hem so that it reads as a shadow left on the wall behind the wearer.
+**Appearance:** a pale, near-transparent veil of fine Han silk over the crown, temples, and shoulders, ending above the collarbone. Its pale hem threads tighten against Void effects that erase, dismiss, or obscure the wearer; the cloth picks up the surrounding grey and a faint blue when the wearer speaks. The local record also describes its thinning hem as a shadow on the wall.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -214,40 +216,43 @@ The rubberized grip absorbs all vibration, ensuring silent deployment from conce
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Void pressure, shielding the Soul against erasure of identity and memory. It protects the wearer from the pressure and makes them harder to notice while worn, which is protection of a kind and is listed in both columns for that reason.
+**Ability:** Reduces low-grade Void effects that erase identity, dismiss the wearer, or make them difficult to recognize. It does not make the wearer louder; allies must still choose to listen.
 
-**Cost:** The wearer feels faintly absent to themselves and is overlooked in queues, in rosters, and at the ends of conversations.
+**Cost:** After removal, the wearer feels faintly absent, especially in crowded rooms or formal meetings. The primary also records being overlooked in queues, rosters, and at the ends of conversations.
 
 ### M.A.W. Stigma — The Silence Ring
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a ring of Void Han-glass, almost colourless and warm in the palm, cut so flat that it throws no highlight under a lamp and takes the voice out of the hand that wears it.
+**Appearance:** The primary describes a nearly colourless ring that feels warm in the palm and throws no highlight under a lamp. Exact item `SE-025-D` instead describes smooth, cold pale glass with a grey band and a flattened inner face, worn on the off hand; no transition reconciles the accounts.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 on this holding's work and nothing anywhere else on the register — the smallest figure the equipment file carries, and the piece the wing issues most often, because the watch it is made for is the one that will be sitting down.
+**Effect:** +1 while working the Silent Child source. Item D does not name the boosted statistic, so none is inferred. The primary records frequent issue for seated watches; that rationale remains local.
 
-**Ability:** Makes the wearer silent; sound does not carry from them.
+**Ability:** Once per shift, creates a ten-second quiet field around a willing person or small group. It blocks disruptive sound but permits writing, touch, or agreed signals. The primary's former always-silent / “voice out of the hand” account and Master Entry 567 remain unresolved against this item-specific effect.
 
-**Cost:** The wearer cannot speak above a whisper while wearing it.
+**Cost:** After use, the bearer cannot speak above a whisper until the next rest period, as item D records. Side A gives the full-set resonance cost as the remainder of the shift; the primary's earlier while-worn duration remains unresolved.
 
 *A Stigma from this source is given, never made. It appears after a successful cycle at the Child's own disposition, and the file observes that it has most often followed a cycle in which nothing was asked of it.*
 
 ### M.A.W. Use Notes
 
-Every piece here is the Child in miniature: what it gives is in the table above, and what it takes is a list of small attendances — who listened, who asked, which requests were answered. That charge is the holding's own subject matter, and the file notes that operators who have sat the long watch handle the set better than operators who have not.
+The local file groups the set's cost as lost attendances. Exact items B/C/D keep their costs distinct: one ordinary sentence, faint absence after removing the Veil, and the Ring's whisper restriction. Side A's separate Remain resonance requires the full set beside a neglected person without asking, grants short resistance to forced silence and panic pressure, and costs whisper-level speech for the rest of the shift. Operators who have sat the long watch handle the set better; this remains a local handling note, not a guarantee that removes any item cost.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline of the bearer's own attendances: three occasions in the past month on which somebody noticed them without being asked to. The set's whole charge is that the list thins in order, newest first. |
+| **Before use** | Wielder, exact piece, and a dated baseline of the bearer's own attendances: three occasions in the past month on which somebody noticed them without being asked. The primary's local model tracks that list thinning newest first; it does not replace the linked item's separate cost. |
 | **During use** | The charge shows as the baseline thinning — the remembered occasions dim newest-first, and colleagues begin talking over the bearer without meaning to. The hour goes into the log from the second worker's hand, never the bearer's. |
 | **At limit** | The limit is absence taken as normal: the bearer reads themselves as faintly unreal and stops being missed in queues, rosters, and the ends of conversations. The second worker's call closes the use and overrides the bearer's, which is why the set is never issued to a watch of one. |
 | **After use** | Take the piece back and set the dated baseline against the person: can they still name the three occasions, and does anybody turn when they speak? Where the attendances have not come back, the piece stays in stores rather than going out on the next rotation. |
 
-**Stat interpretation:** Grade measures output and says nothing about cost, and an α rating is the most misread figure in the equipment file: a Minor-grade piece from this source is cheap per use, so it is used constantly, and the charge — attendances lost, invisibility acquired — accumulates well before any threshold in the table is reached. Read the cost column first, and authorise this set for the watch that sat the long quiet rather than for the one in a hurry.
+**Stat interpretation:** Grade describes extraction stability, not human safety. The local record tracks lost attendances; exact items instead specify a lost sentence, faint absence after removal, and a whisper restriction, while Side A defines a separate full-set cost. α grade and low Echo costs do not make those burdens harmless. Authorise by the exact item and set condition, and favour the watch that sat the long quiet.
+
+**Full-set source review (2026-10-13):** Reviewed the α/α overview, all three local item blocks, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side A `SE-025-A` (`N-Iα-025 [VS]`, `4/4`), items `SE-025-B/C/D`, Registry rows 54–57, Master M.A.W. table/Entries 565–567, Entity Codex row 557 / Tale 189, and `MAW-W-025`. Side A has no standalone Appearance heading; all three items do, and none has a transition record. Weapon numbers, Single pattern, and one-target coverage align; the primary's 100% falloff and Tick separation are local, since item B states no falloff or Tick rule. Side A, the current B heading, primary, Registry, Master table, and archetype support *The Hush Stiletto*; B's Ability/Limit and Master Entry 565 retain “Lens.” No alternate form or transition is documented. Primary ability now includes B's one-turn Quiet Interval; the local lost-attendance cost and B's one-sentence cost remain separate. Suit appearance and low-grade Void protection now follow item C; resistances, max, and Echo cost align. Master table's Living-Chitin class does not describe the linked silk veil. Item D supports Head / 5% / +1 (stat unspecified) and a once-per-shift, ten-second field; its cold, grey-band appearance conflicts with the primary's warm/no-highlight account. D's post-use whisper-until-rest cost differs from Side A's rest-of-shift resonance and the primary's former while-worn line; no duration crosswalk resolves them. Registry/Master Stigma taxonomies remain generic. The broad audibility/attendances claim stays local. Exact Weapon-only pair `SE-025-B` / `MAW-W-025-01` was already dispositioned in Batch 87; no new pair disposition is counted.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial. The grade has not moved in eleven years and the wing has stopped proposing that it should. Everything about the holding is known; what is not known is why the distance at which it first becomes apparent is shorter at every annual measurement.
