@@ -220,7 +220,7 @@ All four Work Types are available and three of them work. What the table cannot 
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 to the working stat, and for about a day the bearer can describe what their own work is for, out loud, in one sentence. Most personnel cannot do that, which is why the Gardens logs the sentence before it goes.
+**Effect:** +2 Resolve during work with Timber Maw, and for about a day the bearer can describe what their own work is for, out loud, in one sentence. Most personnel cannot do that, which is why the Gardens logs the sentence before it goes.
 
 **Ability:** The bearer knows, without checking, whether a thing they are holding was made for a purpose that still exists. Tested 41 times against the Gardens' own stores; 38 correct.
 
@@ -231,6 +231,12 @@ All four Work Types are available and three of them work. What the table cannot 
 ### M.A.W. Use Notes
 
 Every piece is hollow somewhere it should not be, and the set does to its wielder what the tree does to a visitor: it makes the question of purpose unavoidable. The benefit is a day of being able to say what your work is for. The cost is that the sentence goes afterwards and the wielder does not notice losing it; the Gardens keeps the written copies for that reason and has eleven of them.
+
+### M.A.W. Cross-Source Review — Batch 113
+
+- **Exact identity:** Primary `C-IVγ-205 [WS]` matches Side A `SE-205-A` by designation; the Side is titled *Timber Maw*, linked as `SE-205`, and its B/C/D records complete `4/4`. The primary remains *Hollow Tree*; the two display names are not merged.
+- **Weapon hold:** The primary preserves both a two-metre living jaw-cleaver and a staff profile; Master Entry 217 and archetype `MAW-W-205` support the cleaver, while `SE-205-B` (`MAW-W-205-01`) and the W-205 personalization note describe a staff. No record documents a transition, so the old Weapon-only hold stands and is not counted again.
+- **Suit and Stigma:** `SE-205-C` expands the primary's bark-fibre carapace with an open protective fold, and its resistance figures align. `SE-205-D` supports Head / 4% / +2 Resolve, clarifying the former generic `+2`; the primary's seed-shaped charm, the item's bark-grain steel mark, Master Entry 219's teeth-ring description, and the Registry's generic Accessory / 5% remain distinct.
 
 ### Field Use Record
 
