@@ -243,18 +243,18 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 ### M.A.W. Use Notes
 
-Nothing cut from this site is ordinary equipment; each piece works by taking part in what it stands near. The toll is the one already recorded here — grief never shed, and weeping on prolonged use — and it is charged whether the work was performed correctly or not.
+Nothing cut from this site is ordinary equipment; each piece works by taking part in what it stands near. The costs differ by piece: the Requiem carries unaccounted grief into involuntary weeping; the Shroud numbs small pleasures; the Stone leaves the bearer hearing beginnings of speech in plumbing, wind, and empty offices. Charge the cost recorded for the assigned piece even when work is performed correctly; do not substitute one piece's symptoms for another's.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the gauge, and one pre-check put by a second person: has the bearer been weeping without an account of it this week, and can they name the last thing that gave them pleasure? The second question exists only on this set. |
-| **During use** | The charge shows as the bearer growing quieter about themselves: weeping without a reason they can give, and stopping hearing the small pleasures back. The hour goes into the log from the second worker's hand, never the bearer's. |
-| **At limit** | The limit is numbness the bearer has stopped accounting for: the weeping is ordinary and the small pleasures have gone unmentioned for a fortnight. The observer calls the limit on those two signs, and every stand-down on this set has been caught that way. |
-| **After use** | Take the piece back and put the pre-check to the bearer's colleague as well as to the bearer: is the weeping accounted for, and has anything given them pleasure in the last seven days? Where not, the piece stays in stores and the bearer comes off night rotation. |
+| **Before use** | Wielder, piece, gauge, and a second-worker baseline. For the Requiem, note unaccounted weeping; for the Shroud, whether the bearer can name a recent small pleasure; for the Stone, whether whispers persist from a previous issue, whether its sentence was recorded or told, and the date of the primary's seven-day check. Keep the three baselines separate. |
+| **During use** | Record the assigned piece's cost separately: Requiem — unaccounted grief and involuntary crying; Shroud — numbness to small pleasures; Stone — beginnings of speech heard in plumbing, wind, and empty offices. The second worker logs the time and signs; take the bearer's account separately. |
+| **At limit** | The current stand-down signs remain ordinary or unreported weeping for the Requiem and small pleasures unmentioned for a fortnight for the Shroud. The primary's seven-day Stone check is a follow-up, not an automatic stop threshold; item D says the whispers end when the sentence is recorded or told to its intended person. Record that condition without borrowing another piece's threshold. |
+| **After use** | For the Requiem and Shroud, ask bearer and colleague whether the weeping is accounted for and small pleasures have returned; keep the piece in stores and bearer off night rotation when existing signs call for it. For the Stone, record whether its sentence was recorded or told and whether background whispers persist at the primary's seven-day check; do not apply the other pieces' thresholds without evidence. |
 
-**Stat interpretation:** The grade records how hard a piece hits and nothing about what it takes; on this set the cost is hearing and pleasure, and it moves in the opposite direction to the rating. Read the cost column, authorise on the second worker's report rather than the bearer's, and treat a low-rated piece carrying the site's charge as the ordinary case here.
+**Stat interpretation:** The grade records a piece's impact, not its human cost. The Requiem's unaccounted grief, the Shroud's lost small pleasures, and the Stone's persistent background whispers are separate charges; read the assigned piece's cost and have a second worker record its listed signs rather than treating one as the whole set.
 
 ## 관찰 기록 (Observation Log)
 
