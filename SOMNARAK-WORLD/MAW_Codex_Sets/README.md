@@ -41,7 +41,7 @@ The 1,196 files are organized chronologically across 42 registry groupings:
 | `Registry_032_to_042` | SE-032 (Weighting Bird) to SE-042 (Angry Maiden) | 6 sets |
 | `Registry_043_to_055` | SE-043 (Silent Maiden) to SE-055 (Weeping Statue) | 6 sets |
 | `Registry_061_to_073` | SE-061 (Debtor) to SE-073 (Bound Child) | 6 sets |
-| `Registry_077_to_092` | SE-077 (Singing Needle) to SE-092 (Silent Court) | 6 sets |
+| `Registry_077_to_092` | SE-077 (Memory Thief) to SE-092 (Pyre of Truths) | 5 sets |
 | `Registry_099_to_103` | SE-099 (Unforgiven) to SE-103 (Fading Star) | 5 sets |
 | `Registry_105_to_115` | SE-105 (Lonely Giant) to SE-115 (Well of Forgetfulness) | 6 sets |
 | `Registry_119_to_127` | SE-119 (Prisoner of Sand) to SE-127 (Rage of the Abandoned) | 6 sets |
