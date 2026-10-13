@@ -41,7 +41,7 @@
 - A successful cycle narrows the silent radius and returns ordinary sound to the Commons for a while. It recovers nothing. The protest is gone from the records, from speech and from memory, and no cycle run by this facility is going to put back what the erasure took; what a cycle can do is add one more contemporaneous observation to a file that has nothing else.
 - This holding is read twice over. The listed activation threshold of 2 is a counter and runs down: two failed or refused cycles and the entity acts regardless of where the gauge stands. The Combat Record figure of 75% is independent of it, and a gauge at or above that line fires activation even with the count untouched. Either reading alone is sufficient and neither overrides the other.
 - The 16–22 Han-Energy yield is standard for the band, and the exposure that earns it is unverifiable after the fact. No instrument retains anything from this holding, so a worker's account of their own cycle cannot be corroborated or disproved by anybody, including themselves. Recovery periods here are set long on that basis rather than on measured harm.
-- Extraction is a separate authorised event and never a reward attached to a good cycle. The pieces drawn from this source are made from absence rather than from material, which is why the set carries no grade and why each item is described by what it removes: the scythe by the threads of speech it takes, the veil by the speaker it hides, the word-tile by the one word it keeps. The armoury adds the one line that matters at issue — nothing in this set can be used to prove that anything happened, which is the same problem the holding has.
+- Extraction is a separate authorised event and never a reward attached to a good cycle. The pieces drawn from this source are made from absence rather than conventional material; that does not remove the γ M.A.W. grade recorded above. Each item is described by what it removes: the scythe by the threads of speech it takes, the veil by the speaker it hides, the word-tile by the one word it keeps. The armoury adds the one line that matters at issue — nothing in this set can be used to prove that anything happened, which is the same problem the holding has.
 
 ## Combat Record
 ### Core Stat Line
@@ -217,7 +217,7 @@ The reversed blade design allows for powerful downward hooking strikes and sweep
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 to the working stat while this holding is the subject of the cycle, and nothing anywhere else
+**Effect:** +2 Composure while this holding is the subject of the cycle, and nothing anywhere else
 
 **Ability:** Preserves one spoken word from erasure.
 
@@ -227,7 +227,7 @@ The reversed blade design allows for powerful downward hooking strikes and sweep
 
 ### M.A.W. Use Notes
 
-Nothing in this set is proof of anything, which is the first line of its field note and the whole of its problem. The scythe takes threads of speech, the veil hides a speaker the way the radius hides sound, and the tile keeps one word that would otherwise be gone; all three work by being part of the thing they are used near. The charge is the one already recorded — spoken memories lost, item by item, whether the use was correct or not — and it is paid in a currency the wielder cannot audit, because the piece removes exactly the recall a wielder would use to check on it.
+Nothing in this set is proof of anything, which is the first line of its field note and the whole of its problem. The scythe takes threads of speech, the veil hides a speaker the way the radius hides sound, and the tile keeps one word that would otherwise be gone; all three work by being part of the thing they are used near. Their costs are piece-specific: the scythe takes small spoken memories, the veil leaves its wearer faintly absent, and the tile makes nearby removed words audible. Each charge is paid whether use was correct or not. The scythe is hardest to audit, because it removes the very recall a wielder would use to check its cost.
 
 ### Field Use Record
 
@@ -239,6 +239,8 @@ Nothing in this set is proof of anything, which is the first line of its field n
 | **After use** | The sealed list comes out and is read against the week: which commitments were kept, which cannot be recalled at all, and whether the wielder remembers agreeing to any of them. Entered as found; a wielder who disputes the finding is recorded as disputing it, and the entry is not corrected. |
 
 **Stat interpretation:** The rating measures what a piece does to entities and never what it does to the wielder. A γ-grade item from this source can perform exactly to specification and leave its user unable to make themselves believed, which no column in the equipment table records and which shows up first as a performance concern raised by a supervisor. Read the grade and the charge together, authorise on the charge, and treat a sudden reputation for unreliability as equipment data.
+**Full-set source review (2026-10-13):** Audited the complete M.A.W. section and related claims against exact `SE-371-A` (`O-IIIγ-371 [VS]`, `SE-371`, `4/4`), B/C/D, Registry 635–638, Master M.A.W. 595–597, Entity Codex row 567 / Tale 199, and `MAW-W-371`. The bundle confirms γ grades; the two local “no grade” phrasings now distinguish nonmaterial form from rated equipment. Item D supports `+2 Composure`. Hold Weapon: primary/table/archetype *Silent War-Scythe* vs linked/Entry 595 *Vanished Lens*, with no transition; numeric profile and Skewer/falloff agree. Keep archetype Instant separate from item Range 3. Suit resistance/title align, but Master-table Living-Chitin does not establish the Veil's gossamer form. Local/linked Head / 4% Stigma agree; Master taxonomy and Registry's generic Accessory / 5% remain unresolved. Use Notes now separate piece-level charges; the wider testimony-loss claim remains a distinct hold. No linked evidence changed. First source-led pair: `SE-371-B`.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -360,7 +362,7 @@ Some sorrows are about silence. Protest No One Remembers is about the erasure of
 **Observation Notes:**
 - A community whose protest was taken out of the records, out of speech and out of memory. It is established by the shape of the hole it left, that being all the erasure allowed to survive.
 - Two hundred and twenty watches a year. Mean silent radius eleven metres, widest thirty-four. No watch has produced anything that could be checked afterwards.
-- The pieces are made from absence rather than material, which is why the set carries no grade and why each item is described by what it removes.
+- The pieces are made from absence rather than conventional material; the set carries the γ grade recorded above, and each item is described by what it removes.
 **Cross-References:** The tone test and the three-point radius series · the Commons' duty to answer from its own register · the seven annotated replies and what the annotation does not say · the registrar's objection to them · the speculation sheet and everything moved to it
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** A community whose protest was erased so thoroughly that the silence it left was forgotten too.
