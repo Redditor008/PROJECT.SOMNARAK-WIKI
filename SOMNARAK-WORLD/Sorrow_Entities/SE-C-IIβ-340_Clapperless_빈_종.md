@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 12–18 per successful cycle, read off the fork walk rather than the plinth |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
 | **Recommended response** | The fork series runs unbroken and the Rule of the Struck Bell holds across the inspectorate and every district register. Viderehan and Ferrehan are the only work authorised on this file, and nothing else has ever been signed off. |
@@ -258,7 +258,7 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Slot:** Neck / Pendant
 **Acquisition Probability:** 5%
-**Effect:** +1 work stat against the entity this piece answers to, and the bearer is barred from signing that session's certificate; a holder is a witness here, not an authority.
+**Effect:** +1 Composure during source work against Clapperless. The bearer is also barred from signing that session's certificate; a holder is a witness here, not an authority.
 
 **Ability:** The chime swings with the wearer's step and does not ring, and it goes cold at the throat when its wearer is about to accept a document in place of a check. It has no other function.
 
@@ -280,6 +280,9 @@ The three pieces are built around silence and each of them takes a channel away 
 | **After use** | Sealed list read back by someone else, closing radius, hearing checked at two hours and at a day. Bearers who cannot resume certifying are reassigned, and the facility has no provision for them beyond that. |
 
 **Stat interpretation:** β holds across the set and the rating against entities is right. In people the set takes away a sense, a word, or a career's worth of professional trust, and the establishment keeps no column for the third of those.
+
+**Full-set source review (2026-10-13):** Reviewed the grade overview, complete M.A.W. set, Use Notes, Field Use Record, Stat interpretation, and all M.A.W. claims elsewhere against exact Side join `SE-340-A` (`C-IIβ-340 [D]`, `SE-340`, `4/4`) and `SE-340-B/C/D`; Master Registry rows 623–626; Master M.A.W. rows/details 163–165; Entity Codex row 419 / Tale 55; and archetypes `MAW-W-340` plus the separate `MAW-W-285` bell entry. Side A and all item grades support `I-Relic (Indumentum) · β`; Side/item D supports naming the bonus `+1 Composure` during source work. Preserve the existing Weapon identity/profile hold from Batch 82: the primary and `MAW-W-340` identify the *Cryo-Relic Lance* / Long polearm (Void 6–10, Fast 4, Range 3, pulse/cone), while exact Side/item B and Master table/detail 163 identify the *Clapperless Chime-Sceptre*; the item Appearance is a pale anti-sound hammer, and the entity/Side subject is a silent bell. Side/item B instead gives Void 5–9 / Speed 2 / Range 2 / Single; the Registry leaves its profile variable, and `MAW-W-285`'s *Silent Memorial-Bell* / Room entry has no crosswalk to `MAW-W-340-01`. No transition resolves the forms or profiles, so none was changed and the prior Weapon-only disposition is not counted again. Suit name and resistances align, but the local linen/silver-thread shroud and linked gossamer veil with a visible vibration line remain different recorded appearances. Preserve the Stigma slot/function hold: local Neck / Pendant and the cold warning-chime are not reconciled with exact item D's Head slot and preserved warning-word function; the Master table's Pendant/Choker category and Registry's generic Accessory slot do not settle it. No linked evidence file changed.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
