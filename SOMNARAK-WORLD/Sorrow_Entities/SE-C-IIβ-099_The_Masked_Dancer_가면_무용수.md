@@ -246,6 +246,12 @@ The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Gr
 
 What is cut from the Dancer is not gear in any ordinary sense: a piece works by joining in whatever happens beside it. The toll is the one recorded above — old injuries aching, bruising in the same lines on prolonged use — and it is charged whether the work was performed correctly or not, which the armoury prints on the issue slip in those words.
 
+### M.A.W. Cross-Source Review — Batch 111
+
+- **Weapon hold, retained from Batch 80:** The first Tri-Daggers profile (4–8 ×3, Fast 4, Range 3 / Medium) matches exact item `SE-099-B` and Master Entry 115. The primary also gives an unlabelled 5–9 / Normal 2 / Range 2 / Short / Single profile, and its Registrum repeats 5–9 for “the glove’s daggers.” The Side card and item Appearance describe one short blade; `MAW_PERSONALIZE_PROGRESS` records `W-099` as a Notched Dao / Short. The Master table and detailed Entry 115 differ on Astral/Orrery versus spectral-glove category, and the archetype assigns Short while the first profile says Medium. No transition or crosswalk resolves these records. This is the existing Batch 80 Weapon hold, not a new Weapon-only disposition.
+- **Suit hold:** This primary names a silk robe and flowing stole; `SE-099-C`’s Appearance and Master Entry 116 describe fitted plates and *The Dancing Plate*. No transition is documented.
+- **Stigma hold:** This primary and item D identify *The Hollow Porcelain Shard* and Head / Face as the registered slot; Tail is the active form. `SE-099-D` also gives a cheek resting form but places the charm at the hip or chest in its Appearance. Side A now distinguishes registered Head / Face from active Tail. Master Entry 117 calls it *The Dancing Mask* and assigns Floating Orbs / Coronets; no crosswalk resolves those labels or placements. The item-specific 5% chance remains supported.
+
 ### Field Use Record
 
 | Stage | Required record |

@@ -105,7 +105,7 @@ This set makes movement sharper, faster, and easier to maintain. Its central dan
 
 **Quick effect:** The short fang follows a committed step and turns the pressure of restraint back toward the barrier or body applying it.
 
-**Weapon profile hold:** The primary first describes the Phantom Dancer's Tri-Daggers as a spectral glove with three orbiting knives: Grudge 4–8 per strike, three strikes, Fast 4, Medium 3, Tri-Blade Flurry / Telekinetic Skewer. The official identity, item Core Statistics, Side set row, and master title/archetype support the Tri-Daggers form; the item Core Statistics align with this first profile. The primary then gives a second unlabeled 5–9 / Normal 2 / Short 2 / Single / 100% profile; its Registrum also lists “the glove's daggers at 5–9.” This card's *Dancing Fang* heading and 5–9 / 2 / 2 / Single line, plus the linked item's Appearance/Combat File, describe one short crimson blade rather than three daggers. The master registry leaves damage variable and speed/range unset; its archetype supports the Tri-Daggers name but assigns Short. Maximum 4 and 25 Echoes agree. No documented transition or base-versus-special split resolves the paired forms/profiles, so no name or statistic is selected.
+**Weapon profile hold:** The primary first describes the Phantom Dancer's Tri-Daggers as a spectral glove with three orbiting knives: Grudge 4–8 per strike, three strikes, Fast 4, Medium 3, Tri-Blade Flurry / Telekinetic Skewer. The official identity, item Core Statistics, Side set row, and master title/archetype support the Tri-Daggers form; the item Core Statistics align with this first profile. The primary then gives a second unlabeled 5–9 / Normal 2 / Short 2 / Single / 100% profile; its Registrum also lists “the glove's daggers at 5–9.” This card's *Dancing Fang* heading and 5–9 / 2 / 2 / Single line, plus the linked item's Appearance/Combat File, describe one short crimson blade rather than three daggers. The master registry leaves damage variable and speed/range unset; its archetype supports the Tri-Daggers name but assigns Short. Maximum 4 and 25 Echoes agree. No documented transition or base-versus-special split resolves the paired forms/profiles, so no name or statistic is selected. The Master Codex table classifies Entry 115 as Astral/Orrery, while detailed Entry 115 names a spectral silk glove with three telekinetic daggers; the personalization record `W-099` instead lists a Notched Dao / Short. No crosswalk joins those labels or the single-blade record to the first profile. This extends the Batch 80 hold and does not add a Weapon-only disposition.
 
 ---
 
@@ -130,12 +130,14 @@ This set makes movement sharper, faster, and easier to maintain. Its central dan
 
 | Field | Record |
 |---|---|
-| Slot / chance | Tail / 5% after successful source work |
+| Slot / chance | Head / Face (registered); Tail (active form) / 5% after successful source work |
 | Grade / element | β / Grudge |
 | Source bonus | +1 to the named check while working the Masked Dancer |
 | Primary Cost | Stillness becomes difficult; the wearer feels compelled to dance. |
 
 **Quick effect:** The mask-charm improves balance, agility, and evasive reflexes without making a bearer free of the need to rest.
+
+**Slot clarification:** `SE-099-D` records Head / Face as the registered slot and says the active form swings at the tail slot. Its appearance separately places the resting charm at the hip or chest; the record does not identify that placement as the registered slot.
 
 ---
 
