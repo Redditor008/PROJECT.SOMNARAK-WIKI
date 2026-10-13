@@ -252,7 +252,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat, and the bearer knows with unhelpful precision how sure of themselves they are at any given moment.
+**Effect:** +1 Composure during source work, and the bearer knows with unhelpful precision how sure of themselves they are at any given moment.
 
 **Ability:** Shows which direction is wrong.
 
@@ -274,6 +274,8 @@ Every piece of this set works by belonging to the thing it is used near — on t
 | **After use** | Return, reconcile the baseline against the pre-check question, and record whether the absence has reversed. Where it has not, the piece is not reissued to that wielder, and the loss is entered against the piece rather than the person. |
 
 **Stat interpretation:** The grade tells you how hard a piece hits and nothing about what it takes, and on this set the two are not related: the cost is the wielder's memory of small, nameless things, and the grade line is silent about it. Read both columns and authorise on the second.
+
+**Full-set source review (2026-10-13):** Reviewed the grade overview, full M.A.W. Weapon/Suit/Stigma, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. mentions against the exact source join: Side `SE-290-A` (`C-IIβ-290 [D]`, `SE-290`, `4/4`) and `SE-290-B/C/D`; Master Registry rows 579–582; Master M.A.W. rows/details 154–156; Entity Codex row 416 / Tale 52; and archetype `MAW-W-290`. The D record supports naming the Stigma bonus `+1 Composure` during source work; its Head / 5% data and the Suit resistances align. Keep Weapon identity/form held: the primary and `MAW-W-290` identify a two-handed archaic *Primordial Greatsword*, while the exact Side/item B and Master table/detail 154 identify *The Lost Lens*, an optical disc. The primary and linked item share Void 5–9 / Speed 2 / Range 2 / maximum 4 / 25 Echoes, but no transition is documented; the Side-only Single / 100% pattern is not imported. The Master Registry leaves the Weapon profile variable and its Stigma slot generic. No linked evidence file changed. This is the first source-led disposition for exact `SE-290-B`.
 
 ## 관찰 기록 (Observation Log)
 
