@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Mark the crossing as memory and allow the Bridge to settle. Nothing beyond that has ever lowered the gauge on Bridge to Nowhere. |
@@ -224,11 +224,11 @@ The escalation pattern here is measured in span rather than in turns: the Bridge
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm on one face only. The warm face is the one the bearer is told to hold.
+**Appearance:** a warm-blue tail charm of Lament Han-crystal, faintly luminous and shaped like two route stones with empty space between them. The face the bearer is told to hold is warm.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 to work against the Bridge itself, and nothing at the other Echo Gardens sites.
+**Effect:** +3 Clarity during source work against the Bridge itself; no bonus applies at the other Echo Gardens sites.
 
 **Ability:** Allows the wearer to cross one remembered distance.
 
