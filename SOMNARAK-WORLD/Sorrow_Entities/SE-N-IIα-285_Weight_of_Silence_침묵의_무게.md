@@ -213,7 +213,7 @@ Striking the outer rim with an Specialist's fist produces no audible sound wave,
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 to work on this holding. The weight is worn at the belt and is heavy in proportion to what the wearer is not saying, which has made it unpopular and, among Wardens, oddly trusted.
+**Effect:** +1 Resolve during source work on this holding. The weight is worn at the belt and is heavy in proportion to what the wearer is not saying, which has made it unpopular and, among Wardens, oddly trusted.
 
 **Ability:** Prevents external sound from disturbing the wearer.
 
@@ -235,6 +235,9 @@ Every piece is made of things people did not say, and the set quietly takes its 
 | **After use** | Repeat the two-minute sample and compare the word count. The reduction recovers over about a fortnight and has recovered fully in two of three wielders. |
 
 **Stat interpretation:** The grade measures extraction stability and has no column for a person who stops talking. Authorise on the two-minute sample, which costs four minutes and has caught what nothing else did.
+
+**Full-set source review (2026-10-13):** Reviewed the α grade overview, every local equipment block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims. Exact join: Side `SE-285-A` (`N-IIα-285 [WS]`, `4/4`, `SE-285`), with `SE-285-B/C/D`; Registry rows 575–578; Master M.A.W. rows/details 463–465; Entity Codex row 522 / Tale 155; archetype `MAW-W-285`. Local Weapon core (Weight 3–6 / Normal 2 / Short 2 / max 5 / 15 Echoes) matches Side A/B, but the primary *Silent Memorial-Bell* / clapperless bell and W-285 bell/Room record remain distinct from exact Side/item B *Silence Maul* and Master Entry 463. The Master table title and Entry title also split; no transition or shared 285-number bridge joins them. Suit values align. Head / 5% Stigma matches Side A/D; effect now names +1 Resolve. Tale 155 retains Moderate β, Zone C, and Comprehension 2 against the primary’s Minor α, Zone D, and Comprehension 1; the Tale discrepancy remains held rather than silently corrected. No linked evidence file changed. This is the first source-led disposition for exact `SE-285-B`.
+
 
 ## 관찰 기록 (Observation Log)
 
