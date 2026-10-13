@@ -185,15 +185,15 @@ Escalation here is the ring, not the stone. Record the first trigger, the displa
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and all but colourless, that shivers in the hand when it is raised — on a holding that reads absences, this is the one piece that shows the ring's shape rather than its stone.
+**Appearance:** a pale, near-translucent Void Han-glass disc with no permanent rim; its cutting arc appears only around an unsupported historical claim. It shivers when raised, and the visible edge reads the ring's shape rather than its stone, as the local record observes.
 
-**Damage:** Void 7-12
+**Damage:** Void 7–12
 **Speed:** 3 (Fast)
 **Range:** 3 (Medium)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Void damage against the Soul — identity, memory and sense of self — and channels the Pillar's own signature: what it opens is not a wound but a gap where the target's certainty about their own past used to sit.
+**Ability:** The Possibility Cut severs false historical certainty across up to three claims while preserving emotional meaning. It removes the claim that something happened, not the feeling; the strike leaves a gap in the target's certainty rather than a wound.
 
 **Cost:** Small, nameless memories go first: the bearer cannot say what is missing, only that a room they walked through last week is now a wall with no door in it. The loss is permanent, and the file counts it in pieces of a week rather than in hours.
 
@@ -201,7 +201,7 @@ Escalation here is the ring, not the stone. Record the first trigger, the displa
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a columnar plate of Void Han-glass, near-translucent and all but colourless, that draws in near the source element — inside the ring the plate reads cold against the spine, and the bearer's first notice of how deep they have walked is that chill.
+**Appearance:** a near-translucent, pale Void Han-glass columnar plate with a deliberately hollow base. Near its source, it draws inward and reads cold against the spine, as the local field record describes.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -211,7 +211,7 @@ Escalation here is the ring, not the stone. Record the first trigger, the displa
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Stabilizes the wearer against spatial and emotional absence.
+**Ability:** Present Foundation stabilizes the wearer against spatial and emotional absence while they keep possibility distinct from memory. It binds only above surveyed current ground.
 
 **Cost:** The wearer feels every future that did not occur.
 
@@ -219,13 +219,13 @@ Escalation here is the ring, not the stone. Record the first trigger, the displa
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a small charm of Void Han-glass, near-translucent and all but colourless, that goes cold in the presence of the sorrow it was drawn from — wardens carry it as a proximity reading, which in the Desolate is the only reading there is.
+**Appearance:** a cool, near-translucent, pale Void Han-glass charm with a blank inscription. The local record says it goes cold near its source and that Wardens use this as a proximity reading.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 while this holding is the subject of the cycle and nothing anywhere else: the charm reads the subsidence's own signature, and no other record in the Desolate answers to it.
+**Effect:** +2 Composure while working Sunken Pillar (the Side-Codex source is Unborn Monument); no bonus is stated elsewhere.
 
-**Ability:** Grants a minor boon tied to Sunken Pillar's sorrow; the effect mirrors the entity's nature.
+**Ability:** Marks a vision as memory, possibility, or unknown — the three categories named by the linked item record.
 
 **Cost:** The bearer occasionally forgets a word.
 
@@ -233,7 +233,7 @@ Escalation here is the ring, not the stone. Record the first trigger, the displa
 
 ### M.A.W. Use Notes
 
-All 3 pieces are cut from the Pillar's absence rather than from its stone, and they carry what it carries: small nameless memories go with each use, and the grade line says nothing about that. Extraction stability is what the grade records and the cost column is where the toll sits, which is why issue here is one rotation and no longer; the Armoury enters the loss against the bearance, not against the holding.
+All three pieces are cut from the Pillar's absence rather than its stone. Side A gives a set-level small-memory toll; exact items B/C/D specify item-specific costs: the Lens takes a nameless memory, the Column makes its wearer feel futures that did not occur, and the Charm costs an occasional lost word. The one-rotation issue limit and bearer ledger are local Armoury practice, not a shared item-cost formula. Grade records extraction stability, not human safety.
 
 ### Field Use Record
 
@@ -244,7 +244,9 @@ All 3 pieces are cut from the Pillar's absence rather than from its stone, and t
 | **At limit** | The limit reads as futures: every path the bearer did not take arrives as something they can feel, and the loss of the little ones stops being reported at all. On a Sunken Pillar piece the use ends there, and the observer calls it rather than the bearer. |
 | **After use** | The piece comes back and the bearer is re-assessed a week later, because this charge does not present on the day: the same second worker asks for the small week again and compares it to the sheet, and where the week has holes the piece is not reissued to that bearer. |
 
-**Stat interpretation:** Grades describe extraction stability and nothing about human safety: a well-graded piece can still exact a toll no rating accounts for, and on this set the toll is a week with pieces missing and a bearer who cannot name them. Authorise on the cost column, and treat a low-rated piece carrying that charge as the ordinary case in this wing.
+**Stat interpretation:** Grade describes extraction stability, not human safety. The Lens's local week-baseline records nameless memory loss; item C names the Column's burden as unrealized futures, and item D names the Charm's as an occasional lost word. Authorise by the exact item cost, not its grade; the one-rotation issue limit is local Armoury policy.
+
+**Full-set source review (2026-10-13):** Audited the γ/γ overview, all three M.A.W. blocks, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side A `SE-649-A` (`C-IIIγ-649 [VP]`, `4/4`), items `SE-649-B/C/D`, Registry rows 795–798, Master M.A.W. table/Entries 88–90, Entity Codex row 394 / Tale 30, and `MAW-W-649`. The Side-Codex set name *Unborn Monument* is joined by the explicit designation and linked ID; the primary name *Sunken Pillar* remains. Item B supports the Possibility Cut, and item B plus `MAW-W-649` support the rimless claim-edge disc; item B's Skewer / 100%→70%→50% profile is not stated locally and was not backfilled. Range 3 remains the exact item range; archetype class Close is a separate label. Item C supports the hollow base and surveyed-ground binding; its resistances, max, and cost align. Item D supports Head, 4%, `+2 Composure`, and memory/possibility/unknown marking; Registry's generic 5% and Master accessory taxonomy do not override it. Side A's set-level memory toll and the item-specific B/C/D costs are kept at separate scopes. The primary's Warden-count/proximity details remain local. The Master entries are generic summaries; they do not resolve the item-level effects. No linked evidence changed. First source-led disposition for exact pair `SE-649-B` (`MAW-W-649-01`).
 
 ## 관찰 기록 (Observation Log)
 
