@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle, recovered from the fear the widened cracks release — a cycle that shores the wall up instead of opening it returns nothing |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Establish realistic anchors; do not promise perfect safety. Viderehan to show the protection and the moment it failed, Ferrehan to stay at post after the sense of safety has gone; the brief states the hazard, the likelihood in figures where figures exist, and what has not been covered |
@@ -218,7 +218,7 @@ The pike's length holds large sorrow entities at bay outside claw reach. The tat
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 to work against Breach itself, and nothing elsewhere in the Echo Gardens.
+**Effect:** +3 Clarity during source work against Breach itself, and nothing elsewhere in the Echo Gardens.
 
 **Ability:** The charm prevents its bearer from being reassured. Statements that something is certainly safe are heard as the words they are, without the comfort attaching, which personnel describe as unpleasant and which has twice resulted in a work stoppage that was afterwards found to be justified.
 
@@ -240,6 +240,9 @@ The three pieces are this holding in miniature: each performs as written and eac
 | **After use** | Return the piece, reconcile the baseline, and record whether the toll has reversed — on this set it has reversed in some cases and not in others, and the file keeps both columns. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** The rating measures what a piece does to an entity, not what it does to the person holding it, and on this set the second column is the one that has ended careers. The plate is graded δ and is issued freely; the charm is graded δ and has twice stopped work that was afterwards found to be unsafe. Read the cost lines before the grades.
+
+**Full-set source review (2026-10-13):** Reviewed the grade overview, complete M.A.W. set, Use Notes, Field Use Record, Stat interpretation, and all other M.A.W. claims against exact Side join `SE-339-A` (`N-IVδ-339 [LS]`, `SE-339`, `4/4`) and `SE-339-B/C/D`; Master Registry rows 619–622; Master M.A.W. rows/details 532–534; Entity Codex row 546 / Tale 178; and archetype `MAW-W-339`. Side A and all three item grades support filling the M.A.W. overview as `— · δ`; Side/item D supports naming the Charm bonus `+3 Clarity` during source work. Tail / 4%, Suit resistances, and the Weapon's numeric core align. Keep Weapon identity/form held: the primary, Master table row 532, and `MAW-W-339` identify the *Ruined Bastion-Pike* / polearm, while exact Side/item B and Master detail 532 identify *The Fallen Requiem*, a cracked blade. Lament 10–15 / Speed 3 / Range 3 / Skewer / 100% → 70% → 50% / maximum 2 / 50 Echoes agrees numerically, but no transition is documented and no profile was changed. Master table row 533's Living-Chitin category does not describe the linked Barrier plate and was not used to recast it; the Registry's Weapon figures and Stigma slot/chance remain generic. No linked evidence file changed. This is the first source-led disposition for exact `SE-339-B`.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
