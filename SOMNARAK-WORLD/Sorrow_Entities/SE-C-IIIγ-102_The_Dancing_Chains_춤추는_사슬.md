@@ -274,6 +274,12 @@ Escalation here is rate. Record the period at onset, the brightness, whether any
 
 All three pieces carry the compulsion rather than the rage: they are fast, tireless and entirely reliable, and they make stopping into a decision the wearer has to keep making. The listed benefit holds inside the intended pattern, and forcing a piece against its design shortens the interval at which the decision comes round. No protocol produces a Stigma here.
 
+### M.A.W. Cross-Source Review — Batch 111
+
+- **Weapon hold:** This dossier describes a fang-curved Han-iron blade; `SE-102-B` and the personalization record describe a rope dart with a cord and fang-shaped head. The primary and item profile state Range 3 / Medium, while `MAW-W-102` assigns Room. Master Codex Entry 46 labels it PRIMAL / Bio / Marrow, which does not explain the local Han-iron description. No source crosswalk joins these shapes, bands, or material labels.
+- **Stigma acquisition hold:** This dossier says no protocol produces the Stigma and that the Chains rarely confer it after a removal. `SE-102-D` records a 4% bestowal after successful work, while `SE-102-A` says M.A.W. may be formed from released shed echo. No source establishes whether that extraction rule includes or excludes the Stigma; retain all three statements.
+- **Specific profile:** Primary and `SE-102-A` / `SE-102-B` agree on Grudge 7–12, Fast 3, Medium 3, Skewer, 100% / 70% / 50%, maximum 3, and 40 Echoes. The Suit and Stigma core values also align. The Master Registry’s generic Accessory / 5% fields do not replace the item-specific Tail / 4% record.
+
 ### Field Use Record
 
 | Stage | Required record |
