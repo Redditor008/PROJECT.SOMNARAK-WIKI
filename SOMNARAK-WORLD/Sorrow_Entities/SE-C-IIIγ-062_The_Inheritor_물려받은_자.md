@@ -189,15 +189,17 @@ The Inheritor is a Fragment (III) Subject with Subject-Body manifestation and Gr
 **Falloff Rule:** Primary 100% → secondary caught in sweep 70%.
 **Damage Application:** Direct Grudge trauma to Body (physical form, structural integrity); inflicts deep lacerations and pulls medium-range targets into point-blank engagement.
 
-**Ability:** Deals Grudge damage against the Body — physical form and structural integrity. Unpaid Anger tracks the documented chain of imposed obligation and cleaves through the physical and systemic anchors that bind the victim to it.
+**Ability:** Unpaid Anger follows a documented chain of imposed obligation and strikes through the people or structures enforcing it, cleaving through physical and systemic restraints.
 
-**Cost:** Old wounds ache in the wielder; prolonged use leaves deep bruising and stirs resentment that was never spoken, and it does not settle until an ally has heard it acknowledged — which is the holding's own condition applied to the bearer.
+**Limit:** It cannot distinguish a responsible party from someone trapped in the same system; document the target relationship before activation.
+
+**Cost:** Old wounds ache, and every unspoken resentment rises until another person acknowledges it without calling it ingratitude. The primary also records deep bruising after prolonged use and says the acknowledgment must be heard by an ally.
 
 ### M.A.W. Suit — The Resentment Plate
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a plated Grudge Han-iron harness, dark and warm to the touch, that smells of a closed room — on a figure recognised by its closed hands, this is the set's one piece that is cut to be worn while standing still and being spoken to.
+**Appearance:** a heavy crimson harness of overlapping Grudge Han-iron plates over the chest, shoulders, and upper arms, divided by narrow dark seams that strengthen under pressure to accept an imposed burden. The inner lining is smooth and cool; the rough outer plates are unpolished. The local record adds warmth and a closed-room smell, and describes it as the piece for standing still and being spoken to.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -207,40 +209,42 @@ The Inheritor is a Fragment (III) Subject with Subject-Body manifestation and Gr
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage and protects the Body — physical form and structural integrity — and it is worn against this Triplet member's pressure: nothing here strikes at the body, and what the armour lets the wearer do is stand inside the boundary without taking on the debt.
+**Ability:** Refuse the Blow hardens against direct Grudge impacts when the bearer is pressured to accept an imposed role or burden. The primary's boundary-standing protection from taking on the Triplets' debt remains a separate local claim.
 
-**Cost:** Reflexes thin in the wearer while a resentment sits unspoken in them; the onset is silent and the second worker is the one who calls it.
+**Cost:** The wearer's reflexes dull toward reconciliation; help can feel like another demand until the Plate is removed and the wearer rests. The primary notes that onset is silent and a second worker calls it.
 
 ### M.A.W. Stigma — The Resentment Gauntlet
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a palm-sized charm of Grudge Han-iron, dark and warm, that takes the light at an angle nothing else in the boundary does; wardens use it to tell the 3 Triplets apart at distance when the pacing will not.
+**Appearance:** The primary records a palm-sized, warm, dark Grudge Han-iron charm that catches light at a distinctive angle and helps Wardens tell the Triplets apart at distance. Exact item `SE-062-D` describes a thumb-sized polished Han-glass gauntlet charm on a short cord, cold until its target mark brightens and warms it. The material and scale difference remains held; no transition resolves it.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 while working this holding, and nothing elsewhere in Zone C: the charm reads the obligation chain, which is the Inheritor's own signature and no other Triplet's.
+**Effect:** +2 while working the linked Inheritor source record. Item D does not name the boosted statistic, so none is inferred. The primary's Zone C restriction, obligation-chain reading, and use to distinguish the Triplets remain local claims.
 
-**Ability:** Strikes carry the weight of resentment and deal extra damage to those who wronged the wearer.
+**Ability:** Remember the Cost marks a target who wronged the bearer or someone under the bearer's protection. Subsequent direct attacks gain clarity against that target; the mark cannot determine intent and fades only after the target's account is heard or the grievance is released.
 
-**Cost:** The wearer cannot forgive; resentment lingers after every conflict.
+**Cost:** While the mark remains active, the bearer cannot forgive, even if forgiveness would be freely chosen. The local record's broader post-conflict resentment remains a separate observation.
 
 *The Resentment Gauntlet is not issued and cannot be requested. It has been conferred 3 times, in each case on a Warden who named the injustice out loud, accurately, with nothing added and no apology attached — the same sentence the containment condition requires, which is why the conferral is treated as evidence that the condition can be met at all.*
 
 ### M.A.W. Use Notes
 
-All 3 pieces are the Inheritor in miniature. What they give is listed above; what they take is the charge on this set — old wounds aching, deep bruising after prolonged use, and an unspoken resentment stirred in the bearer until an ally has heard it. Both are entered against the wielder and not the piece.
+The linked items keep their costs distinct: the Talon-Blade brings aching old wounds and unspoken resentment; the Plate dulls reflexes toward reconciliation and makes help feel like another demand; the Gauntlet prevents forgiveness while its mark remains active. Side A's separate *Paid Without Thanks* resonance requires an unchosen obligation to be documented, prevents it being recorded as voluntary consent, and later costs the bearer a new account of how that obligation harmed someone else. The primary's longer bruising and ally-acknowledgment notes remain local details, not a substitute for the item and set records.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline put by a colleague: is there anything the bearer is carrying unspoken this week? The charge on this set — old wounds and stirred resentment — does not present on the day, and the pre-check is a question about silence rather than pain. |
-| **During use** | The charge shows as the old wounds aching and the resentment thickening. The second worker logs the hour it is first seen; the bearer's account is taken afterwards and set beside the log. |
-| **At limit** | The limit is where the wearer stops reporting: reflexes thin, resentment held, and nothing said. On an Inheritor piece the use ends there, and the call belongs to the second worker rather than to the bearer. |
-| **After use** | Take the piece back and put the question to a colleague rather than the bearer: is the resentment still showing, and has it been acknowledged to anybody? The answer is filed against the wielder, and where nothing has been spoken the piece is not reissued to them. |
+| **Before use** | Wielder, exact piece, and a dated baseline put by a colleague. For the Talon-Blade, confirm the imposed-obligation chain and target relationship; for the Plate, record the imposed role or burden; for the Gauntlet, name the wrong and whose protection is claimed. Record any full-set resonance condition separately: the obligation must be unchosen and documented. |
+| **During use** | Record the exact effect and first cost: Blade wounds and rising resentment; Plate defense and any loss of reconciliation reflex; Gauntlet target mark and clarity on direct attacks. The second worker logs the time; the bearer's account is taken afterwards and set beside the log. |
+| **At limit** | Stop at the item-specific limit: Blade resentment needs acknowledgment without ingratitude; Plate reflexes dull until removal and rest; Gauntlet prevents forgiveness while marked. The second worker, not the bearer, makes the local stop call. Side A's later account of harm is a separate full-set cost. |
+| **After use** | Recover the exact piece and record its own return condition: acknowledgment for the Blade, removal and rest for the Plate, or the target's account / grievance release for the Gauntlet. File the answer against the wielder; do not reissue while its item-specific cost remains active. If the full set was worn, log the separate later account required by Side A. |
 
-**Stat interpretation:** The grade records how hard a piece hits and nothing about what it takes. On this set the cost column is the holding's own condition turned on the bearer — resentment that cannot settle until it is spoken — and it is unrelated to the grade in either direction. Authorise on cost.
+**Stat interpretation:** The γ grade classifies the equipment; it does not measure human safety or consent. The Blade, Plate, Gauntlet, and full-set resonance have different costs and stop conditions. Authorise by the exact item and condition, not grade alone.
+
+**Full-set source review (2026-10-13):** Audited the γ/γ overview, all three embedded M.A.W. blocks, Use Notes, Field Use Record, Stat interpretation, Warden and other M.A.W. claims against exact Side A `SE-062-A` (`C-IIIγ-062 [GS]`, `4/4`), items `SE-062-B/C/D`, Registry rows 110–113, Master M.A.W. table/Entries 34–36, Entity Codex row 376 / Tale 12, and `MAW-W-062`. Side A has no standalone Appearance heading; B/C/D each do, and B expressly records the locked falx and released chain-scythe. Side A and the current B heading support *The Resentment Talon-Blade*; the linked History still says “Fang bearer” and the old filename remains a path. The documented locked falx / released chain-scythe is the item B form, not a disputed transition. Primary and B agree on Grudge 9–15 / Speed 3 / Range 2–3 / Cleave and retractable lash / 100%→70% / max 3 / 40 Echoes; B adds the responsibility limit, now stated locally; the primary's two-adjacent-target coverage is not specified by B. Archetype class Long is separate from item Range 2–3 Short-to-Medium. Suit resistances, max, and cost align; C supplies conditional direct-Grudge protection and the segmented crimson Han-iron plate. Master table's Blades—Cleaver/Sword and Plates & Heavy Armor labels are broad taxonomy, not linked forms. Item D supports Tail / 4% / +2 (stat unspecified) and a target-specific mark that improves direct-attack clarity; Registry's generic Accessory / 5% and Master Entry 36's extra-damage summary do not override it. The local palm-sized Han-iron charm remains held against D's thumb-sized Han-glass form. Full-set resonance is distinct from item costs: an unchosen documented obligation, a non-consent record, then a later account of harm. The primary's Gauntlet conferral count and boundary-protection claim remain local. Exact Weapon-only pair `SE-062-B` / `MAW-W-062-01` was already dispositioned in Batch 88; no new pair disposition is counted.
 
 ## 관찰 기록 (Observation Log)
 
