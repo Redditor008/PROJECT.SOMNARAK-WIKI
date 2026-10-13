@@ -236,6 +236,11 @@ The Hollow Choir is a Fragment (III) Subject of Major (γ) potency, Subject-Spir
 
 Each piece is an extension of the holding rather than equipment. It performs as recorded while the bearer lets the song run unanswered and costs more when they try to lead it; the resonance comes back through the piece either way, and the lyre is conferred after a work cycle rather than manufactured, requested or scheduled.
 
+### M.A.W. Cross-Source Review — Batch 111
+
+- **Weapon hold:** Primary and `SE-021-B` agree on Lament 7–12, Fast 3, Range 3 / Medium, Skewer, the 100% / 70% / 50% falloff, maximum 3, and 40 Echoes. The primary records unaccounted grief and weeping that reverses on return; the item adds a sentence-completion toll after each full Skewer, released by an equally important honest statement. No source says whether these costs co-occur. Archetype `MAW-W-021` calls the weapon a Rapier / Close, which is not crosswalked to the item’s Range 3 / Medium.
+- **Stigma hold:** The primary and Master Codex Entry 18 say the bearer’s feelings return when the performance ends. `SE-021-D` says the emotional meaning returns only when another person speaks or sings the line back. No source reconciles those recovery conditions. The primary and item records agree on Tail, 4%, and +2; the Master Registry’s generic Accessory / 5% fields do not replace them.
+
 ### Field Use Record
 
 | Stage | Required record |
