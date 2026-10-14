@@ -181,6 +181,8 @@ The table is one input of several. Out here, what a steady gauge is worth is set
 
 **Category:** BLADES (Monolithic Pointless Cleaver)
 
+**Type:** Weapon | **Grade:** δ | **Element:** Grudge
+
 Appearance : A massive three-foot butcher cleaver devoid of a thrusting tip, forged from heavy spring steel with a reinforced rectangular spine and a thick oak handle bound in raw sinew.
 
 The sheer mass of the blade delivers devastating chopping strikes capable of severing thick bone and dense chitin. The flat edge is honed to a razor bevel that bites cleanly without jamming.
@@ -190,21 +192,24 @@ The sheer mass of the blade delivers devastating chopping strikes capable of sev
 **Range:** 1 (Close)
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
+**Recovery:** 1.2 seconds between rapid strikes
 
 **Attack Pattern:** Snapping Clamp / Visceral Drag
 **Target Coverage:** 1 designated target at point-blank range
 **Falloff Rule:** 100% damage to the selected target; hooks and pulls target into Close range.
 **Damage Application:** Direct Grudge trauma to the Body, with a hold the bearer cannot release before the pattern completes — the cleaver reproduces her grip and not her restraint, which is the half of her the extraction could not take.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Smothering Mother's grudge signature, refusing to allow anything within its grasp to retreat.
+**Ability:** Deals Grudge damage to the Body and channels the Mother's signature as *Bring Them Back*. It triggers when a marked ally is fleeing, falling, or being pulled away, or when a hostile target tries to disengage; against a hostile, the Weapon clamps and drags it into point-blank reach, while for a willing ally it serves as an emergency tether. It cannot distinguish care from possession; repeated use on the same ally creates resistance and panic.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves severe bruising and induces an obsessive panic whenever allies move out of reach.
+**Cost:** Each use recalls a person who left without returning. After three uses in one encounter, a Composure check determines whether the bearer refuses nearby allies' retreat. The primary's field record also notes aching old wounds, severe bruising, and panic when allies move out of reach; track these signs separately.
 
 ### M.A.W. Suit — The Embrace Plate
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
 **Appearance:** a plated harness of Grudge Han-iron, dark and warm to the touch on the rack, that shifts and breathes as though it had been fitted around someone larger.
+
+Its overlapping plates curve inward like arms; when a marked ally within five metres takes a direct physical hit, they tighten notch by notch, the inner metal warms, and the central buckle dims red.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -214,38 +219,40 @@ The sheer mass of the blade delivers devastating chopping strikes capable of sev
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against The Smothering Mother's kind of pressure.
+**Ability:** Grudge resistance protects the Body. *Closed Circle* absorbs a portion of a direct physical hit to a marked ally within five metres, reducing that ally's impact once per encounter; the wearer's movement speed drops one tier until the pressure is released through rest, Ferrehan, or the encounter's end.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer's reflexes dull while the armor is active, as if armored by resentment; each protected ally begins to feel like someone the wearer alone is responsible for saving.
 
 ### M.A.W. Stigma — The Embrace
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** an embrace-clasp of Grudge Han-iron, dark and warm, that turns cold when its source sorrow is close enough to be felt.
+**Appearance:** an embrace-clasp of dark, warm Grudge Han-iron, shaped as two small arms meeting at the wrists; it turns cold when its source sorrow is close enough to be felt.
+
+The overlapping hands fasten without a cord to a seam, belt loop, or tail attachment; nearby fear tightens and warms the clasp, which loosens as fear passes and leaves a faint red mark after a night in use.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
 **Effect:** +3 stat bonus while working the source holding, entered at issue against the wielder's name
 
-**Ability:** Makes the wearer nearly invulnerable to physical harm by absorbing damage as a mother's embrace.
+**Ability:** The Stigma slightly redistributes impact toward the bearer when a nearby ally would be knocked down by a physical hit. Once per day, *Hold Fast* prevents one adjacent ally from being moved, pulled, or knocked down for ten seconds; it blocks voluntary as well as forced movement.
 
-**Cost:** Creates an overwhelming compulsion to protect others, even at the cost of the wearer's life.
+**Cost:** The bearer becomes compelled to keep nearby people within sight. After *Hold Fast*, leaving the protected ally behind causes escalating Composure loss until a clear confirmation that the ally is safe.
 
 *Eleven Embraces have ever been given. The number is the number of times Soojin applied for a certificate, which the extraction wing has recorded as a coincidence, in those words, in a note that nobody in the chamber accepts.*
 
 ### M.A.W. Use Notes
 
-Nothing in the set is a defence against her; each piece is an extension of her. The stated benefit only holds inside the pattern this file describes, and past that the price shows up long before the shift ends and does not settle when the bearer does: old wounds ache, the bruising goes deep, and any ally who steps out of reach triggers a panic that no distance cures.
+Nothing in these pieces cancels the Mother's embrace or makes contact safe. Side Codex A names the full-set resonance *Let No One Go*: while wearing all three pieces and guarding a vulnerable ally, the bearer can intercept one direct Grudge strike aimed at that ally; the bearer then cannot voluntarily retreat until the encounter ends or another person takes responsibility for the protection. Keep this set-level lock distinct from individual abilities: *Bring Them Back* can tether a willing ally or drag a hostile target, *Closed Circle* reduces one marked ally's direct physical hit once per encounter at the cost of slower movement, and *Hold Fast* controls one adjacent ally for ten seconds, including voluntary movement. Their tolls also remain separate: remembered departure and the three-use Composure threshold; dulled reflexes and sole-responsibility pressure; and visual-surveillance compulsion with post-use Composure loss. The primary's additional aching-wound, bruising, and panic reports remain distinct field signs rather than substitutes for the linked item's cost.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline taken before issue against what this holding takes — old hurts waking in the order they were received, which is the first thing the set does to a new bearer. |
-| **During use** | Charging announces itself in the bearer: old wounds begin to ache ahead of anything the piece is meant to do. The second worker logs the hour, and the bearer's own account is taken afterwards and kept apart from it. |
-| **At limit** | The limit arrives when the bearer stops noticing the toll at all — the reflexes dull, as though resentment had armoured them — and that unawareness is the sign every stand-down on this set has been caught by. |
-| **After use** | Piece returned; re-assess a week later, because what The Smothering Mother takes (the wearer's reflexes dull, as if armored by resentment) does not present on the day. |
+| **Before use** | Wielder, each piece issued, marked ally, and dated baseline of old wounds; record whether the Weapon bearer passed the no-force Mother hold-response evaluation. If the full set is worn, document the vulnerable ally being guarded, the expected Grudge threat, and who can formally assume protection if the bearer cannot retreat. |
+| **During use** | The second worker logs the hour old wounds begin to ache and keeps the bearer's account separate. For *Bring Them Back*, count uses and record the trigger, ally's willingness, and whether a hostile was pulled; at the third use in one encounter, log the Composure check. For *Closed Circle*, record the marked ally, five-metre distance, direct physical hit, once-per-encounter use, and movement loss. For the Stigma, record passive impact redirection or *Hold Fast* use, daily-use status, adjacency, start and end times, and whether movement blocked was voluntary or forced. If the full set is worn, record whether it intercepts a direct Grudge strike and the resulting retreat lock or hand-off. |
+| **At limit** | Record deep bruising, dull reflexes or one-tier movement loss, panic as allies leave reach, and any post-*Hold Fast* Composure loss. If the full-set retreat lock applies, record whether another person formally assumed responsibility; do not merge this set-level lock with an item's single-use trigger. |
+| **After use** | Return the piece and reassess one week later. Record bruising, old-wound pain, movement/reflex recovery, Composure, and whether the bearer can leave a protected ally after responsibility is transferred; retain the weapon's remembered-departure account separately from the primary's field signs. |
 
 **Stat interpretation:** The grade is about extraction stability and was never a statement about the person holding the item. A piece can grade well and still take a toll no figure on the sheet covers — this set is the standing example, and it is graded the way it is graded.
 ## 관찰 기록 (Observation Log)
