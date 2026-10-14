@@ -225,9 +225,11 @@ Thin crimson capillaries glow between the stone plates, pulsing in sync with the
 
 **Slot:** Hand / Knuckles
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 source-work bonus against The Rage Statue; the linked Side and item leave the affected statistic unspecified.
 
-**Ability:** *Stonefist Resolve* — Unarmed strikes deal +4 Grudge damage; bearer gains +1 Resilience and cannot have weapons knocked from their grip.
+**Mark:** One held anger requiring a present, accountable outlet.
+
+**Ability:** *Stonefist Resolve* — Unarmed strikes deal +4 Grudge damage; bearer gains +1 Resilience and cannot have weapons knocked from their grip. This additional combat effect is recorded only in the primary.
 
 **Cost:** The bearer's fingers become stiff and cold during periods of calm.
 
@@ -235,18 +237,18 @@ Thin crimson capillaries glow between the stone plates, pulsing in sync with the
 
 ### M.A.W. Use Notes
 
-Each piece extends The Rage Statue rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wearer's thoughts run hot; small grievances feel immediately personal and urgent — arrives early and does not reverse on return.
+Each piece extends the Statue; none grants permission for personal revenge. Keep the costs separate: the primary's Brand bleeds heat and can burn the bearer without a vent pause, while item B reports aching old wounds and immediate anger; the Apron & Cuirass heats thoughts and makes small grievances urgent, while item C describes difficulty distinguishing justice from retaliation; the Knuckle Stigma leaves fingers stiff and cold in calm, while Side A and item D describe a shortened temper. The Side set's *Lower the Fist* requires a named injustice, an accountability route, and a witness allowed to challenge retaliation; it bounds a Grudge surge into a demand for response, and the bearer feels every suppressed blow until that response is recorded. Keep this set condition distinct from primary-only *Stonefist Resolve* and from the still-disputed Brand combat profiles.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from The Rage Statue the recorded cost is that the wearer's thoughts run hot. |
-| **During use** | The first sign that The Rage Statue is charging: the wearer's thoughts run hot. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The bearer's fingers become stiff and cold during periods of calm, without remission. On a The Rage Statue piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece and check the sealed baseline: has The Rage Statue's cost — the bearer's fingers become stiff and cold during periods of calm — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, exact piece(s), current Gauge, baseline for known injuries, anger, and finger effects, and the present injustice with its accountability route. For full-set *Lower the Fist* use, name the witness allowed to challenge retaliation. |
+| **During use** | Time, action, and effect; distinguish the primary's *Petrified Wrath* / *Furnace Ground-Slam* from the linked Brand's *Held Strike*. Record heat buildup and the required vent pause separately from item B's aching-old-wounds / immediate-anger cost; also keep the Suit's hot-thought and retaliation-confusion reports and the Stigma's finger-stiffness and shortened-temper reports distinct. |
+| **At limit** | Stop when the accountable route is cleared and the response is recorded; after two consecutive primary special slams, require the one-turn heat vent, and shut down if the Brand's closed red ridge appears or anger shifts toward personal revenge or a new target. For *Lower the Fist*, track the suppressed-blow burden until the response is entered; do not extend it to an unrelated grievance. |
+| **After use** | The witness records the remedy and stop point, returns each piece, and checks its distinct aftereffect. Where the Stigma records differ, preserve both primary finger-stiffness and Side/item shortened-temper reports rather than merging them into one set-wide cost. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The γ grade does not settle the contested Weapon profile or grant permission to retaliate. The primary records 12–19 / Slow 2 / Short 2 / Overhand Crush–Thermal Eruption; Side A and item B agree on 7–12 / Fast 3 / Medium 3 / Skewer with 100% → 70% → 50%, and no third profile adjudicates the difference. The +2 Stigma bonus is source-work only and names no specific statistic; keep the Brand, Suit, Stigma, and *Lower the Fist* costs distinct.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
