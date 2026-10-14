@@ -180,6 +180,7 @@ It wants two hands and shoulders used to bearing weight, and it is carried at th
 **Damage:** Void 10-15
 **Speed:** 3 (Fast)
 **Range:** 3 (Medium)
+**Attack Pattern:** Skewer
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
@@ -200,6 +201,7 @@ The ward-block at the boss stops whatever arrives at it and stops it in place, w
 - Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
+**Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
 **Ability:** Holds the bearer's footing in one place — perception slows by enough to hear the post's own duties being listed — and keeps the weight of them off the wearer while the shield is set.
@@ -224,18 +226,18 @@ The ward-block at the boss stops whatever arrives at it and stops it in place, w
 
 ### M.A.W. Use Notes
 
-Each piece stands in a conditional relation to the Pillar rather than being equipment in the ordinary sense, and the condition is that rest has actually been taken. In the hands of a relieved and grounded operator, the zweihander and the shield hold to their grade. In the hands of someone who has not stood down, the cost scales and the Void inside them turns active — which on this set means the bearer loses the memory of what they were owed rather than of what they owe. The charm is given and never drawn.
+Each piece stands in a conditional relation to the Pillar rather than being equipment in the ordinary sense. The primary requires that rest has actually been taken; the Side-Codex set and item bindings separately require grounding the worker and establishing a duty rotation, so record both checks rather than treating them as interchangeable. In *Source Kept Distinct*, the Stigma identifies the source condition, the Suit lets a witness bear its Void pressure, and the Weapon witnesses only the immediate manifestation; the set cannot heal the originating event. Keep the costs piece-specific: each Weapon use takes a small, nameless memory; the Shield makes postponed duties felt; the Charm briefly sets one duty down (about an hour, non-cumulative) but may take a word. The primary's broader warning that misuse scales the cost and risks losing the memory of what the bearer is owed remains a set-level hazard account, not a shared item-cost profile.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline the second worker writes and keeps — the recorded toll on this set is one small nameless memory per use, unauditable by the bearer, since the faculty that would have caught it is the one under charge. The sheet is opened after the rotation, never before it. |
-| **During use** | Every instance of the bearer mislaying a small memory is entered with its hour. One is an incident note; a run of them inside a shift ends the use, and the observer's clock decides the shift's end rather than the bearer's own account of it. |
-| **At limit** | The limit is the postponed duties arriving whole — the bearer carrying all of them and having stopped mentioning it, which is the ordinary end point on a piece from this holding. The limit is called by the observer, and it is called on that sign alone. |
-| **After use** | Take the piece back, then hold the assessment a week, because the charge does not present on the day: are the postponed duties resting on the bearer again, and does the rota sheet show them off shift? Where either answer fails, the piece stays in stores and the bearer comes off the Border post. |
+| **Before use** | Record wielder, witness, piece, Gauge, source event, and whether rest was taken, the worker was grounded, and a duty rotation was established. A second worker seals a baseline for memories, postponed duties, and words; keep the sealed baseline closed until after the rotation, never before. |
+| **During use** | Record source responses, any first-person retelling, and each Weapon memory loss with its hour; log Shield duties that surface and perception delay, and Charm release start/end (about one hour, never cumulative) and any word lapse. Do not pool the piece costs. A single Weapon memory loss is an incident note; a run within a shift ends the use, and the observer's clock—not the bearer's own account—decides when that shift ends. |
+| **At limit** | Stop on a refused relief or first-person retelling, or when a source response repeats outside contact. A named witness states the source title and event while the bearer relinquishes the piece. For the Shield, the observer calls the limit when postponed duties arrive whole and the bearer stops mentioning them. A manifestation using the bearer as its new site is terminal failure; withdrawal does not refund the cost.  |
+| **After use** | After the rotation, compare the sealed baseline; reassess one week later whether postponed duties returned to the bearer and whether the rota shows them off shift. If either answer fails, keep the piece in stores and remove the bearer from the Border post. Record the Charm's short release and word lapses separately. |
 
-**Stat interpretation:** The grade records what a piece does to a holding and says nothing about what it does to a person; on this set the shield performs without remark and grounds the bearer so completely that two observers have had to be told by colleagues that the watch had ended. That is the character of the cost here, and no figure in the table carries it. Read the cost column first.
+**Stat interpretation:** The grade, range, and resistance values describe equipment output; they do not quantify the pieces' different costs. The primary records an unauditable, nameless memory lost per Weapon use, every postponed duty becoming felt through the Shield, and the Charm's brief, non-cumulative relief alongside occasional word loss. Its account of two observers having to tell the Shield's bearer that the watch had ended remains a narrative observation, not a resistance value. The Side-Codex set also states that resonance cannot heal the originating event; keep these limits distinct from the δ rating.
 
 ## 관찰 기록 (Observation Log)
 
