@@ -228,13 +228,15 @@ The open eye finial rotates autonomously to track fast-moving entities within tw
 
 **Ability:** Lament damage to the mind rather than the body. The sceptre channels what the Well is holding — sentences that were never completed — and what it opens in a target is the need to say something they have not said.
 
-**Cost:** The wielder carries the Well's unwept grief and weeps involuntarily, usually part-way through saying something else.
+**Cost:** The wielder carries the Well's unwept grief and may weep involuntarily, usually part-way through saying something else. Continued use makes the source sorrow feel autobiographical.
 
 ### M.A.W. Suit — The Listening Shroud
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a shroud of Lament Han-silk in undyed grey, cold to the hand, that stays damp through a full session and dries slowly afterwards.
+**Appearance:** a shroud of undyed grey Lament Han-silk, cold to the hand; it stays damp through a full session and dries slowly afterwards.
+
+The slow-drying cloth marks each session, while its protective role is conditional: it turns Lament aside only as the wearer remains and listens without interruption.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -246,38 +248,42 @@ The open eye finial rotates autonomously to track fast-moving entities within tw
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure this entity applies. The shroud is what allows a worker to stand at the coping for a full session and still be able to end it.
 
-**Cost:** The wearer goes numb to small pleasures, and tends to notice first that other people's good news no longer registers.
+**Cost:** The wearer goes numb to small pleasures and may first notice that other people's good news no longer registers. Continued use makes the source sorrow feel autobiographical.
 
 ### M.A.W. Stigma — The Listening Vial
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a small vial of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a small vial of Lament Han-crystal, cool to the hand and faintly luminous; it grows cool near the source sorrow it records.
+
+When closed, it brings the preserved testimony to hearing; its cost is a replayed account, and continued use makes the Well's source sorrow feel autobiographical.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to work against the Well itself, and nothing at the other border sites.
+**Effect:** +1 stat bonus when working the Well itself (the record does not identify the stat); no effect at other border sites.
 
 **Ability:** Preserves one spoken testimony without interruption.
 
-**Cost:** The wearer hears the testimony whenever the vial is closed.
+**Cost:** The wearer hears the testimony whenever the vial is closed. Continued use makes the source sorrow feel autobiographical.
 
 *No one manufactures the vial. It comes from the Well to a worker who carried a testimony through to its last word without once speaking across it; no worker who ended a session on the clock has ever been given one.*
 
 ### M.A.W. Use Notes
 
-Every piece in this set carries the Well's one property: it holds a thing that was said. The sceptre keeps a sentence the target never finished, the shroud lets a worker stand at the coping through an ending without needing to supply one, and the vial preserves a single testimony whole. What all three spend is the operator's own capacity to let something go unspoken, and the pieces do not take memories — they take the option of silence, which is why the vial is the one that costs least to wear and the one whose bearers are most often found at the coping after hours.
+The primary's working interpretation is that the set holds what was said and takes the operator's option of silence, not memory. The linked item records also specify distinct costs that must be tracked separately: the Weapon carries unwept grief and may cause involuntary weeping, the Shroud dulls small pleasures, and the Vial replays testimony when closed. Continued use of each piece makes the Well's source sorrow feel autobiographical.
+
+Side Codex A names the full-set resonance *Source Kept Distinct*: the Stigma identifies the source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stabilizes only the immediate manifestation that violates “Allow testimony to finish; do not drain the Well.” The set cannot heal the dispersal that formed the Well. Before use, the bearer names that event and accepts the limit; violating it reverses the item's benefit and raises the source Gauge. The first recorded corrosion sign is a first-person account of the event; a repeated source response outside contact is escalation, and the terminal state makes the bearer the manifestation's new site.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the level against the coping mark at issue, and one pre-check made by the second worker rather than the wielder: whether the operator can leave a sentence unfinished today. The toll on this set is the capacity to keep something back, and it does not present on the day, so the pre-check is a question about the operator's own week and not about the water. |
-| **During use** | The charge presents as the operator starting to say more than the work requires — the Well is good at listening, which is the whole of what it was made to need, and a worker on a long session begins speaking into the shaft themselves. The second worker logs the hour it is first seen rather than the hour it is first mentioned, and does not interrupt the session to give the operator this information. |
-| **At limit** | The wearer has gone numb to small pleasures and has begun to notice that other people's good news no longer registers; on the vial-bearers the same limit presents first as being unable to leave a conversation unfinished, which is why they are over-represented on the Well's own roster. The second worker calls the limit at either sign and the call stands against the wielder's. |
-| **After use** | Piece returned and re-assessed a week later rather than on the day, because the numbness does not present at once: the pre-check question is asked again by the same second worker, and an operator who cannot now say what they could leave unfinished a week ago is not issued the piece again. |
+| **Before use** | Wielder, piece, the level against the coping mark at issue, and one pre-check made by the second worker rather than the wielder: whether the operator can leave a sentence unfinished today. Also record the bearer naming the event — border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish and their words sank into the ground — and accepting “Allow testimony to finish; do not drain the Well.” The pre-check remains a question about the operator's own week, not about the water. |
+| **During use** | The charge presents as the operator starting to say more than the work requires — a worker on a long session begins speaking into the shaft themselves. The second worker logs the hour it is first seen rather than first mentioned and does not interrupt the session. Separately record whether the bearer attributes the response to the Well or describes the source event in first person; the item records make the latter the first corrosion sign. |
+| **At limit** | Record numbness to small pleasures, other people's good news no longer registering, and the Vial-bearer's difficulty leaving a conversation unfinished. The second worker calls the limit at either local sign, against the wielder's. A first-person account of the source event is additionally a corrosion sign; do not treat it as routine cost. |
+| **After use** | Return the piece and reassess one week later with the same second worker; repeat the pre-check and record whether the item repeats its source response outside contact. If it does, a named witness states the source title and event while the bearer relinquishes the item; this preserves the record but does not refund its cost. Clean or rest the piece only after attribution review. |
 
-**Stat interpretation:** Grade is not safety, and on this post it is close to irrelevant. Nothing here is decided by equipment. What the table cannot show is that the vial, which costs almost nothing to wear, makes its bearer unable to leave a conversation unfinished — and that this is why vial-bearers are over-represented on the Well's own roster.
+**Stat interpretation:** Grade is not safety and does not remove the binding rule. The Side Codex and Stigma record give a +1 bonus when working the Well itself but do not name the statistic; retain the source-only scope and leave the statistic unspecified. The primary's field record also reports that Vial-bearers cannot leave conversations unfinished and are over-represented on the Well's roster; the linked Stigma record instead specifies hearing the testimony whenever the Vial is closed and autobiographical corrosion with continued use. Keep the local observation distinct from that item-specific account.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
