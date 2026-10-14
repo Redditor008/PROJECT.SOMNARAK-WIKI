@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · α (Minor) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | On Homecoming Tree: mark the place as changed; do not attempt to restore a false past. The valid Work Types carry the cycle; the condition decides it. |
@@ -203,7 +203,9 @@ The Tree does not escalate the way a holding does; it moves, and each move is tr
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** a slender blade of Lament Han-crystal, cool and faintly luminous, that weeps a thin film of Han along the edge when swung. It is ground to a single singing edge, and the note is the piece's whole mechanism: one listener hears the requiem and the rest of the party hears nothing at all, which is why the weapon carries no aura and reads as quiet in the field.
+Appearance : The Returning Requiem is a slender blade of Lament Han-crystal, cool and faintly luminous, with a single singing edge that weeps a thin film of Han when swung.
+
+Its note reaches one listener only; nearby personnel hear nothing, and the weapon carries no aura. A quiet field reading does not mean the Lament has ended.
 
 **Damage:** Lament 3–6
 **Speed:** 2 (Normal)
@@ -224,7 +226,9 @@ The Tree does not escalate the way a holding does; it moves, and each move is tr
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin and stays cold through a full cycle under the branches. Its cold is the point: this is the piece that lets a worker stand beneath the Tree and still want their own quarters afterwards, and the cost it carries is the ordinary warmth of small comforts going quiet while it is worn.
+Appearance : The Returning Shroud is a wrapping of cool, faintly luminous Lament Han-silk that settles cold against the skin and stays cold beneath the branches.
+
+It lets a worker stand under the Tree and still want their own quarters afterwards. It turns aside Lament, not recognition; small comforts go quiet while it is worn.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -242,7 +246,9 @@ The Tree does not escalate the way a holding does; it moves, and each move is tr
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a leaf-charm of Lament Han-crystal, cool and faintly luminous, that catches the light oddly and holds the veining of a real leaf from the Tree. It is worn at the tail, and the file notes that it is the only one of the three pieces that cannot be issued — the Tree releases one, and the Armoury merely records where it went.
+Appearance : The Returning Leaf is a cool, faintly luminous charm of Lament Han-crystal, shaped and veined like a real leaf from the Tree.
+
+It is worn at the tail and cannot be issued. The Tree releases it to a worker who names the changed ground without softening it, and the Armoury records where it goes.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -256,18 +262,18 @@ The Tree does not escalate the way a holding does; it moves, and each move is tr
 
 ### M.A.W. Use Notes
 
-The requiem and the shroud only work for an operator who has not claimed the ground — that is the whole condition, and the pieces hold to grade only while it is met. An operator who has claimed it, finds the cost scales and the Lament in the piece becomes active, which here means the operator's own home becomes the place they cannot return to. The leaf is released, not drawn, and the line the Tree holds is exact: it has released none to anyone who promised a place could be put back.
+The Requiem and Shroud hold to grade only for an operator who has not claimed the ground. The full set's *Source Kept Distinct* rule is exact: mark the place as changed; do not attempt to restore a false past. The set cannot heal the originating displacement. Claiming the ground reverses the benefit, routes the Tree's wound through the operator, and raises the Gauge. The Leaf is released, not drawn; it is given only to a worker who names the change without softening it.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and where the wielder calls home. The pieces do not take memories of home; they take the claim on it, so the pre-check is what the wielder names as theirs, not what they can recall. An operator who has recently claimed ground at a return site is recorded before issue, not after. |
-| **During use** | The requiem and the shroud hold to grade in the hands of somebody who has not claimed the ground. The first reading that the operator is carrying more comes after the work rather than during it: the unwept grief of the Tree leaves them in involuntary weeping, generally once they are somewhere familiar. The wielder's own account is taken separately and afterwards. |
-| **At limit** | The wearer goes numb to small comforts — a familiar route, a known voice in the corridor — and tends to notice only when the shroud comes off. The observer calls the limit rather than the wielder, because a worker who has stopped reporting the numbness has already reached the endpoint the file records for a Homecoming Tree piece. |
-| **After use** | Return the piece, reconcile the baseline, and record whether the wearer's own home still answers as home. Where it does not — where a familiar route and a known voice have gone quiet — the piece is not reissued to that wielder, and no leaf is released for them at all. |
+| **Before use** | Record the wielder, piece, gauge, declared home, and whether the worker has claimed the ground at a return site. The Requiem and Shroud hold to grade only while that claim is absent. |
+| **During use** | Record the changed-place response separately from each item's effect: one listener hears the Requiem; the Shroud turns aside Lament, not recognition. Log the Requiem's involuntary weeping and the Shroud's loss of small comforts after contact. |
+| **At limit** | The observer calls the Shroud's limit rather than the wielder when small comforts go numb. A claim of ownership or promise to restore the place violates the set's resolution; do not treat it as a recovery test. |
+| **After use** | Return the piece and compare the home baseline. Record whether familiar routes and voices still register; do not reissue the Shroud if comforts remain numb. The Leaf is released by the Tree, not issued by the Armoury. |
 
-**Stat interpretation:** Grade is not safety and here it is not even the main reading. The requiem is unremarkable in the field. What the table cannot show is that the leaf, which costs almost nothing, makes every map the wearer looks at resolve into somewhere they used to live.
+**Stat interpretation:** The α grade and +1 source bonus do not make the Leaf safe to issue or price its cost. It reveals a place before it changed, while its bearer feels the grief of everyone who returned too late. The set preserves that before-and-after distinction; it cannot restore the settlement.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
