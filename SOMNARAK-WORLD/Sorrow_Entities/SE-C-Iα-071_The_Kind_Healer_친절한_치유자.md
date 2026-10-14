@@ -192,7 +192,9 @@ Read the code and the coherence level before trusting a flat read: those two, no
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** a slender Lament Han-crystal blade, faintly luminous, that sings under the hand and flickers with inner light; the edge is ground fine as a scalpel, and it is the only piece in the set meant to be used near a wound.
+**Appearance:** The Gentle Requiem is a short-waisted, long-hafted glaive of pale-blue Han crystal. Its rounded, almost blunt edge runs from collar to point beside a single seam; a small guard and open pommel ring finish the pale-cord grip.
+
+The seam's light turns toward healing or harm once the bearer names a function. The blade stays cool until then, is wiped with cool water after use, and is sheathed only after its chosen mode is recorded. Beneath the pale cord, the grip is ridged. It is the only set piece meant for contact near a wound.
 
 **Damage:** Lament 3–6
 **Speed:** 2 (Normal)
@@ -205,15 +207,17 @@ Read the code and the coherence level before trusting a flat read: those two, no
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** The multiplier applies to the strike and to each Tick separately, and both are logged against the wielder's own Mind figure as well as the target's, because this archetype takes its toll inward.
 
-**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels the healer's signature in the strike: the target is given more than they asked for, which is the whole of the file's warning.
+**Ability:** Before contact, the bearer declares one of two modes: minor Lament pressure against the Mind — emotional stability and willpower — or a small pain-draw from a willing target. The pain-draw is healing-adjacent but not cost-free; it transfers emotional pressure into the bearer, while a harmful strike awakens the source's grief. The Requiem channels the Healer's signature and can give the target more than asked for, so consent and the declared mode remain mandatory.
 
-**Cost:** The wielder takes on the holding's unwept grief and weeps without being able to place why; prolonged use makes the weeping ordinary, and both are entered against the wielder rather than the piece, because on this set the two do not separate.
+**Cost:** On a pain-draw, the bearer absorbs the treated pain; after a strike, the bearer feels the target's sorrow. Extended use builds the care burden that endangered the Kind Healer. This file records its deeper toll as the holding's unwept grief, which brings unexplained weeping that can become ordinary; the cost is charged to the wielder, not the blade.
 
 ### M.A.W. Suit — The Gentle Shroud
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping Lament Han-silk shroud, cool to the hand and faintly luminous, that settles cold and holds the drape of a working posture — shoulders down, hands forward — which the armoury notes is the only piece in the set cut for standing over somebody.
+**Appearance:** The Gentle Shroud is a deep-blue Han-silk wrap that hangs to the waist, with a wide neck opening and a hem that does not flare. Its smooth, cool lining contrasts with the fine outer weave.
+
+Two short pale seams cross the shoulders where a second caregiver rests their hands; narrow bands of light catch across the woven surface. The Shroud holds the healer's working posture — shoulders down, hands forward — and is folded between uses with the seams touching.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -223,21 +227,23 @@ Read the code and the coherence level before trusting a flat read: those two, no
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage and protects the Mind — emotional stability and willpower — and it is worn against this healer's particular pressure: what arrives is care, it is not refused cheaply, and the piece's job is to let the wearer carry it without keeping it.
+**Ability:** Buffers low-grade Lament and protects the Mind — emotional stability and willpower — so the wearer can support a wounded person without taking all the pain alone. Full function requires a second willing caregiver; solo use reduces protection and begins care-overload accumulation.
 
-**Cost:** The wearer goes numb to minor joys — the same numbness the file records on the weeping side of this set — and the onset is not announced, so a colleague checks it at the return of the piece.
+**Cost:** During active care mode, minor joys become distant; the two shoulder seams remain visible until the pair rests. This file records the deeper numbness on the weeping side of the set as unremitting at the limit, so a colleague checks the wearer at return and withholds reissue when the baseline question cannot be answered.
 
 ### M.A.W. Stigma — The Gentle Touch
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a touch-token of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size. It is sized for a palm and is the piece issued to people who will be standing within arm's reach of the injured.
+**Appearance:** The Gentle Touch is a palm-sized Lament Han-crystal token, cool and faintly luminous, with a weight that seems too great for its size. It is the piece issued to attendants standing within arm's reach of the injured.
+
+The corresponding item record describes a coin-sized open palm with a short cord, a polished upper face and an unpolished underside; it calls the material deep-blue glass rather than Han-crystal. Keep the material distinction unresolved until another source clarifies it.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat, and for about a day the wearer notices, without looking for it, which of the people around them is in pain and has not said so. It is the Healer's own faculty, lent, and it does not distinguish between the two kinds of finding.
+**Effect:** +1 to the working stat while attending the Kind Healer source record; the record does not name which statistic. For about a day the wearer notices, without looking for it, which nearby person is in pain and has not said so. It is the Healer's own faculty, lent, and it does not distinguish between the two kinds of finding.
 
-**Ability:** Heals minor wounds through touch.
+**Ability:** Once per day, consensual touch can relieve a minor physical wound or an immediate panic symptom. It cannot treat a major injury, cure a Fracture, or replace medical work; a witness records both the wound and the follow-up.
 
 **Cost:** The wearer absorbs the pain being healed; the ache never fully fades.
 
@@ -245,18 +251,18 @@ Read the code and the coherence level before trusting a flat read: those two, no
 
 ### M.A.W. Use Notes
 
-The set is the Healer in small: what it gives is in the column above, and what it takes is the square's unwept grief, followed by weeping with no place to put it. The Armoury writes both against the bearer's name and never against the steel — on this set the two have never been separated.
+The set is the Healer in small: its broadest recorded toll is the square's unwept grief, followed by weeping with no place to put it. The Kind Healer's Side Codex names the full-set resonance **Care Shared**: when a bearer gives aid while at least one other person willingly shares the burden, healing pressure is divided; no resonance works when the bearer insists on being the sole savior. This does not erase the three pieces' distinct costs: the Requiem takes treated pain or the target's sorrow, the Shroud dims minor joy and can accumulate overload, and the Touch carries the pain it relieves. The Armoury records each cost against the bearer's name, never against the steel; the whole-set account does not replace item-level limits or reconcile their different durations.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline put by a colleague: name the last person whose pain you noticed before they mentioned it. The toll on this set — the holding's unwept grief — does not present on the day, and the piece is opened at the end of the rotation and not before. |
-| **During use** | The charge shows as weeping the wielder cannot place and does not explain. The second worker logs the hour it is first seen and never the wielder, and does not interrupt the work to name it. |
-| **At limit** | The wearer goes numb to minor joys, without remission, and the file's test is the baseline question: a bearer who can no longer say whose pain they noticed first has reached the limit. On a Kind Healer piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether the cost is still showing — the numbness, and whether the baseline question can be answered at all. The answer is filed against the wielder, and where the question cannot be answered the piece is not reissued to them. |
+| **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline put by a colleague: name the last person whose pain you noticed before they mentioned it. The toll on this set — the holding's unwept grief — does not present on the day, and the piece is opened at the end of the rotation and not before. For the Requiem, record the declared mode and willing recipient; for the Shroud, name the second willing caregiver; for the Touch, confirm the daily limit, consent, and witness. |
+| **During use** | The charge shows as weeping the wielder cannot place and does not explain. The second worker logs the hour it is first seen, not the wielder, and does not interrupt the work to name it. Also record the Requiem's chosen mode, the Shroud's partner and active-care interval, and the Touch witness's account of the wound and contact. |
+| **At limit** | The wearer goes numb to minor joys, without remission, and the file's test is the baseline question: a bearer who can no longer say whose pain they noticed first has reached the limit. On a Kind Healer piece the use ends there whatever the wielder says; solo Shroud overload also ends use. A Gentle Touch is not used again until another person has checked the recipient. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether the cost is still showing — numbness, weeping, and whether the baseline question can be answered at all. File the answer against the wielder; withhold reissue if the question cannot be answered. Wipe the Requiem with cool water and record its mode before sheathing; fold the Shroud with its seams touching; keep the Touch beside its care record and verify the recipient follow-up before its next use. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability and not human safety: a well-graded piece can still demand a toll no rating system accounts for, and on this set the toll is the holding's unwept grief arriving on the wearer. Authorise on the cost column; a low-rated piece carrying a severe psychological cost is the ordinary case here, not the exception.
+**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety: a well-graded piece can still demand a toll no rating system accounts for. The Requiem passes treated pain or target sorrow to its bearer; the Shroud buffers low-grade Lament but dims minor joy and can overload in solo care; the Touch relieves only minor wounds or immediate panic and carries a pain trace. Care Shared divides the burden between willing helpers, but it cancels none of those item costs. A low-rated piece can carry a severe psychological cost; that is ordinary here, not an exception. Authorise on the cost column, not on grade.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Mastered
