@@ -15,6 +15,12 @@ The owner directed that the previous readable chatroom report become the must-fo
 
 **Current cumulative full-SE coverage through Batch 128 / unit 5:** **53.16% / 100% complete**; **141 of 301 primary dossiers remain** (160 counted dispositions; 162 markers including paused Silent Child and scope-unconfirmed Inheritor, both excluded; 139 eligible remain). Separately, **Weapon-only coverage is 62.37% / 100% complete**; **108 of 287 eligible pairs remain** (179 counted source-led dispositions). Fourteen primary dossiers remain outside paired scope. Holds count as dispositions, not defect findings; unreviewed cases are not presumed defective.
 
+## Batch 129 — full-SE M.A.W. source review (open at five)
+
+**Authorization (2026-10-16):** Owner `pp` after Batch128 treated as one next-batch authorization, not two batches. Fresh pending-only worst-first rank: N-IIIβ-077 Memory Thief0.005901506; C-IVδ-767 Swallow0.005862069; C-IVβ-043 Silent Maiden0.005808477; C-IIβ-102 Frozen Tear0.005807814; N-IIIβ-160 Debt Chain0.005762815. Inventory301,162 markers/160 counted,139 eligible after two exclusions. Opening Full-SE160/301=53.16%,141 remain; independent Weapon179/287=62.37%,108 remain. Five careful-detail reviews, no batch-short dossier substitutions. Full interactions/bespoke records preclude treating low prose scores alone as simplicity. Exact histories checked independently before any Weapon increment. Frozen Tear C-IIβ-102 maps to SE-1010/Icedrop, not Dancing Chains C-IVδ-102.
+
+**Recovery/baseline:** syncbranch recovered stale HEAD10cd20a to verified35acd006 without losing working files; dirty0. Root rules, precaution and R31 read completely. Lore/timeline/seam/box baseline PASS; timeline1793 files,0 contradictions. PR14 OPEN draft→NON-WIKI. External style reference: completed English management record in https://github.com/stalad519-lang/salads-leucotomy-branches/blob/main/src/data/abnormalities/imaginary-friend.ts reviewed for flat present-tense conditions and preserved Unknown, not as Somnarak canon. This is a fan source-tradition example, not official Project Moon authority. Batch301 remains owner-authorized4+4 blocked on eight external bodies; none fabricated.
+
 ## Batch 128 — full-SE M.A.W. source review (closed at five)
 
 **Authorization (2026-10-16):** Owner `p` after Batch127 authorizes one next batch. Start at five; expand only if the five meet R-26 simplicity and first-gate conditions. Fresh pending-only worst-first selection, with designation suffixes preserved:
