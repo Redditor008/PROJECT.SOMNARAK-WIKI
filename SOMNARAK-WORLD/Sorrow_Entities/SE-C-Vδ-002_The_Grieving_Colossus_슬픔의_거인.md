@@ -183,7 +183,9 @@ The Grieving Colossus is a Sovereign (V) Subject of Critical (δ) potency, Subje
 
 **Category:** UNIQUE (Reliquary Sledge / Memorial Pillar) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** A massive, unpolished rectangular war sledge carved from petrified grey tear-crystal and banded with dark Han-steel. The striking faces are inscribed with rows of thousands of names from collapsed city districts, worn smooth by countless memorial processions. A constant fine ash of memorial dust falls from the stone head whenever it is hoisted. When brought down upon the earth, it produces no metallic clang, but a deep seismic shockwave that travels through the ground, forcing all nearby hostile bodies to their knees under the crushing gravitational weight of the unforgotten dead.
+**Appearance:** A massive, unpolished rectangular war sledge carved from petrified grey tear-crystal and banded with dark Han-steel. The striking faces are inscribed with rows of thousands of names from collapsed city districts, worn smooth by countless memorial processions. A constant fine ash of memorial dust falls from the stone head whenever it is hoisted.
+
+When brought down upon the earth, it produces no metallic clang, but a deep seismic shockwave that travels through the ground, forcing all nearby hostile bodies to their knees under the crushing gravitational weight of the unforgotten dead. The Monument forms only where a Colossus tear strikes bare ground and crystallizes without becoming a structure, and it sheds the same grey ash in the rack that it sheds on the road; chipping the material off a completed memorial yields inert black dust and nothing else. It is issued only to a bearer holding a verified memorial record or route list, and in the hands of someone who dismisses an identified death as irrelevant it becomes impossibly heavy to lift — the rejection shows up as joint strain and bone ache rather than as a warning.
 
 **Damage:** Weight 16–26
 **Speed:** 1 (Very Slow)
@@ -206,6 +208,8 @@ The Grieving Colossus is a Sovereign (V) Subject of Critical (δ) potency, Subje
 
 **Appearance:** a draped mantle of Weight Han-weave, dark as wet crystal, whose hem keeps a hand's width off the ground however the wearer moves, the way the Colossus keeps its feet off everyone it steps over.
 
+On a route it does one thing and nothing else: companions walking an approved evacuation or memorial route take their first step under low-grade Weight pressure without losing it to the burden, and the effect ends the moment the wearer stops, denies the route, or turns back from it. The Mantle is standard equipment for route officers for that reason alone — three rescue teams collapsed under ambient pressure with no direct attack on them, and the garment did not reduce what those teams carried; it gave them enough shape to keep walking. It is not to be worn inside a Memory Vault, where it has repeatedly drawn archival dust toward names with no assigned mourner, and the dust it collects on the road never washes out.
+
 **Resistances:**
 - Lament: 1 (Normal)
 - Grudge: 1 (Normal)
@@ -224,6 +228,8 @@ The Grieving Colossus is a Sovereign (V) Subject of Critical (δ) potency, Subje
 
 **Appearance:** a shell-charm of Weight Han-steel with a hairline of tear-crystal set across its face, of the kind the Colossus has offered a worker on four occasions, each time after a name was spoken.
 
+It is a head-slot charm and it is displayed in the Archive beside the route report rather than beside a bearer's name, because the workers it remembers were not honoured that way while they lived. Once a day its wearer may take one ally's current Weight-pressure condition onto themselves for ten minutes, and the limit is part of the piece: it cannot absorb a Sovereign-scale collapse or a fatal direct strike. What it takes afterwards is a sequence of deaths from the Colossus's origin — no names, only the sensation of having been forgotten before anybody knew one was gone — and the file keeps the foreman's own request that no street be named after him as the only bearer statement it has ever printed in full.
+
 **Slot:** Head
 **Acquisition Probability:** 4%
 **Effect:** +3 stat bonus when working the source entity
@@ -238,14 +244,18 @@ The Grieving Colossus is a Sovereign (V) Subject of Critical (δ) potency, Subje
 
 Each Mourning piece is an extension of the holding rather than equipment. It performs as recorded while the bearer is carrying a name rather than a designation, and costs more when they are not. The Grip is conferred after a work cycle and is not manufactured, requested, or scheduled.
 
+Each piece carries the weight in its own way. The Monument carries the ground and the room — one strike, and everything standing on the floor goes down together. The Mantle carries the wearer's own route one step at a time and nothing else in the city: Lament and Grudge pass at full strength, Void lands at one and a half times, and the protection stops at the edge of the procession. The Shell carries other people's weight, briefly and by request, which is the only place in this set where a load is borrowed rather than added to the bearer.
+
+The set has one resonance and it is a rescue measure, not a battle configuration. Worn complete inside a tear-built structure by a bearer carrying a written list of the dead, the procession is recognised and the Colossus slows for a single route interval; the names are then carried as physical Weight until the list is deposited in the Archive, and a list that is never deposited is carried until somebody lifts it out of the bearer's hands. None of the three pieces values a designation. Each of them is paid for as though the bearer had arrived holding a name, and the armoury's own note is that the ones who carry the set longest are the ones who kept the list.
+
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | The operator's name, the route segment they will stand, the consecutive tours already served (totalled across postings and not reset by a transfer), and the names they have memorised for this watch, said aloud to the post before the piece changes hands. |
-| **During use** | Activation time, route position, pace, posture, stop durations, tear rate, new pools, clearance to the nearest person, and every name spoken with the entity's response to it. |
-| **At limit** | Duration, activations, attribute change, rejection signs, position at withdrawal, and whether the operator asked to remain beyond the marked interval. |
-| **After use** | Stand-down, injuries, residual weight, cooldown, equipment condition, tour count updated, and a funeral-attendance note for Grip bearers. |
+| **Before use** | The operator's name, the route segment they will stand, the consecutive tours already served (totalled across postings and not reset by a transfer), and the names they have memorised for this watch, said aloud to the post before the piece changes hands. Where the full set is issued, the written memorial list is entered here as well, because the procession resonance runs on that list and on nothing else. |
+| **During use** | Activation time, route position, pace, posture, stop durations, tear rate, new pools, clearance to the nearest person, and every name spoken with the entity's response to it. The first sign that the Mantle has stopped carrying its wearer is the step that does not come; the post is then logged as standing or withdrawn, and never as helped forward. |
+| **At limit** | Duration, activations, attribute change, rejection signs, position at withdrawal, and whether the operator asked to remain beyond the marked interval. On a Shell bearer the active use is timed to the minute, and the borrowed condition is re-measured at the end of those minutes by the second worker rather than by the bearer. |
+| **After use** | Stand-down, injuries, residual weight, cooldown, equipment condition, tour count updated, and a funeral-attendance note for Grip bearers. The memorial list is deposited in the Archive before the set is signed in on the same day it is issued, and a list that comes back shorter than it went out is entered as a finding about the bearer and not about the road. |
 
 **Stat interpretation:** Read the Weapon's 16–26 and the Mantle's 0.5 as what the pieces do to the weight on a body and never as what they cost to carry, because here the cost is the larger figure. It is that grief stops being selective: bearers mourn strangers, permanently, and the file records that none of them regards this as damage.
 ## 관찰 기록 (Observation Log)
