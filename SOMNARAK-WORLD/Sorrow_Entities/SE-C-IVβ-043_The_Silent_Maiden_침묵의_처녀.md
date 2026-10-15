@@ -181,7 +181,7 @@ Read this table as a list of things done to her rather than as a set of options,
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of Void Han-glass, near-colourless and cold to the hand, that shows whoever looks into it as a shape without a face — and keeps showing them that way for a few seconds after they look away.
+**Appearance:** a lens-ground disc of Void Han-glass, near-colourless and cold to the hand, that shows whoever looks into it as a shape without a face — and keeps showing them that way for a few seconds after they look away. Its plain dark frame sits on a short black handle, with a thumb notch near the rim and a thin grey ring just inside the glass. The frame is low and unpolished; the belt loop carries the handle, not an exposed edge of glass.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)
@@ -214,7 +214,7 @@ Read this table as a list of things done to her rather than as a set of options,
 
 **Ability:** Turns Void pressure aside from the Soul. It holds against the pressure and not against being overlooked: a wearer in the Sisters' chamber is exactly as easy to walk past as anybody else, and the veil does not make its wearer noticeable, which the Armoury records as the difference between this piece and the danger it is issued against.
 
-**Cost:** The wearer comes to feel faintly absent to themselves — present, recorded, and not entirely convinced of either — and reports it as a room they are standing slightly outside of.
+**Cost:** The wearer comes to feel faintly absent to themselves — present, recorded, and not entirely convinced of either — and reports it as a room they are standing slightly outside of. After extended use, reintroduce the wearer by name. The Veil comes from its sealed pouch immediately before deployment and returns to water afterwards. Its head-and-shoulder drape ends at the collarbone in a fine, unhemmed edge; under Void pressure a faint grey texture replaces its near-transparency.
 
 ### M.A.W. Stigma — The Silence Cloak
 
@@ -235,6 +235,10 @@ Read this table as a list of things done to her rather than as a set of options,
 ### M.A.W. Use Notes
 
 Every piece in this set is drawn from the same stillness, and the charges run the same way: the Lens takes small, nameless memories, the Veil takes the sense of one's own presence, and the Cloak takes the voice above a whisper. The grade describes extraction stability; the cost is in the column beside each piece and is the reason the set is issued one rotation at a time. Seven Cloaks exist, and each was issued for a sighting — a Warden who noticed a person nobody had noticed, inside the facility, off the file, and wrote the name down; none has been issued for anything else.
+
+The Armoury’s *Silence Set* return is not a second inquiry into the bearer’s private circumstances. Enter the piece, the names or routes missing from its deployment baseline, and whether another person first noticed the gap. Do not append an account of the bearer’s home or household to explain it. The charge is entered against this holding; a record of equipment loss is not permission to ask what the Personnel Office rule forbids.
+
+Keep the legible badge outside the Veil and compare the returned roster with the clerk’s duty sheet. The Cloak’s quiet does not replace a spoken count. A confirmation nobody can hear and attribute to a named person does not establish who is present, even when the baseline sheet and the number on the door agree. The chamber’s instrument transcript records what was said; it does not supply an occupancy sighting.
 
 ### Field Use Record
 
@@ -436,7 +440,7 @@ The door Warden's count is spoken, never signalled. Hand gestures were tried ear
 - **Classification detail:** The Silent Maiden is a Subject with Entity (IV) — Self-aware, empty, hollow — coherence and Moderate (β) — Manageable potency, and the activation threshold is 3, which runs down rather than up: hers is the escalation personnel miss, because there is nothing to hear and nothing to see unless somebody is looking.
 - **Field detail:** Element Void, registered to SECTOR-D-02, contained with the Three Sisters, where the door is read as a filter rather than a wall: influence extends past the boundary through Han resonance and ambient sorrow density, and nothing the wing owns registers her at all.
 - **Recognition detail:** A young woman of flesh and bone, bloodless and cold, eyes open and tracking nothing, entirely silent, frequently unnoticed by personnel who are not deliberately looking for her. The marker is in the observer rather than in her, which is why occupancy is confirmed by a named person and never by an instrument.
-- **Record detail:** The Registrum gave Comprehension Level 3 against a header of 4 — Mastered, rated the holding Low, and named Viderehan primary where Flerehan and Ferrehan are the Work Types that move the gauge; the faction entry read C-territory against a D-02 holding; the breach line read *hunts personnel indiscriminately* against a First Target entry restricting her to those who acknowledge her; and the Appearance block described crystallised silence against a header recording true flesh and bone. All corrected. The 427 figure in the Apex Record is the Sisters' comparative scale, which runs to 1,000.
+- **Record detail:** 427 belongs to the Sisters’ comparative scale, with a ceiling of 1,000; it follows the Personnel Office’s unsighted return. The door roster answers a different question — who entered and left this chamber. The clerk’s comparison of a duty sheet against that roster once recovered a briefly unaccounted-for person whom a correct headcount had missed. Neither record licenses an inquiry into that person’s circumstances.
 - **Containment detail:** Containment here is procedural before it is structural. Occupancy is confirmed by a named person and never by an instrument, the roster is posted in ink and the count is spoken, because a numbness that erases names and faces defeats a count kept in anybody's head. The practice has since gone standard across four wings; her file is its origin, and the incident that produced it is preserved in full and taught rather than buried.
 ## Document Information
 
