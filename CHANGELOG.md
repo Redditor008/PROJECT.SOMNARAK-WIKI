@@ -8,6 +8,56 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### Batch 129 closure — five source-led dispositions, no expansion
+
+**Verdict:** Five dossier units and two small reread follow-ups passed and were pushed independently. Opening7b372f9f; original units269147d8/2535efca/13baddf7/d196d2cc/95fa363a; Swallow follow-upd2c8a51f and Silent Maiden follow-upb960ed25. All PUSH VERIFIED. This closure is logged before its own gate. No held profile is silently selected.
+
+**Independent cumulative progress:** Full-SE **165/301=54.82%**; **136/301 remain**,134 eligible after two exclusions. Weapon-only **182/287=63.41%**; **105/287 remain**. Batch129 contributes5/5 full-SE and3/5 new Weapon pairs. MemoryThief already B89; FrozenTear already B81; both add0 to Weapon.
+
+**R-18 disclosure:** Opening correctly separated five careful-detail dossier reviews from bulk substitution, but did not separately count the same-file structural repairs before editing. That defect-level classification was too coarse and is not retroactively called compliant. The completed same-file repair set has two items: MemoryThief EntityType completed from EventEffect, and Swallow Story1’s fused location repaired against its Location/Appearance fields. Five careful-detail dossier units were individually authored and gated. Mechanical a/an, bullet and duplicate-sentence edits were asserted locally, not run as a cross-dossier prose replacement. The later reread follow-ups were announced separately as one same-file duplicate removal and one careful source-precision revision before being applied. No extra review disposition is counted for those follow-ups. R-26 stays at5: bespoke records, several source holds and reread corrections are not a simple first-pass-clean five.
+
+**R-15 final reading:** Every primary read start-to-end before and after; all exact A–D source pages read in full. Truncated tool output in the MemoryThief preliminary read was recovered explicitly. Swallow and SilentMaiden were read again in full after their follow-ups. No dossier shrank by wc -w. Existing record/body and cross-source contradictions remain in the individual holds rather than a fabricated transition, revised origin or renamed stat.
+
+**Evidence corrections and extended holds:** Swallow is Tale100, not97; SilentMaiden is Tale65, not66. Swallow Tale’s Advanced3/Moderate/Contained/Flerehan-only differs from the primary’s Basic2/Critical/custody-without-control/Viderehan+Ferrehan. SilentMaiden Tale’s Advanced3/Low/C-territory differs from primary Mastered4/Moderate/D-02. MemoryThief’s unfindable stash also differs from its cataloguing/rearrangement trivia. DebtChain’s physical-form dragging-behind-a-bearer claim differs from its fixed gallery history, and bare-name timing versus the link history’s read-before-speak phrasing remains unchosen. These are evidence holds, not automatically confirmed defects. All five R-19 Neutral index entries retained; the pairwise effects and institutional costs are stated separately in the unit records.
+
+**Close checks:** verify.py RESIDUAL0/seam[]/pipeTrue/dupes[]; tpl.py RESIDUE0; sectfile.py no section over0.05; sect.py GENERIC≤0.05; wikistd.py meetsTrue for every unit. Exact baseline versus final comparison has **557→557 candidate findings**, byte-identical after limit0 output; finding counts are not defect counts. Full301-file section-overlap scan at reconstructed opening and final each reports **0/301 couples**,0/301 files carrying them,0 section pairs. A couple is two dossiers with excessive distinctive overlap in the same section. Nothing in this batch reopened the earlier prose-overlap fix phase. Global gate covers lore, timeline, semantic seams, links, labels, boxes, tests, row pipes, breach floors and metrics parity. No nonexistent slot checker used. This is content validation, not a web-app/live-preview test.
+
+Final dossier measurements; word counts use C-locale wc -w. Generic is the shared-prose fraction, not a canon verdict.
+
+| Dossier | Words | Generic / checks | Final commit | Push |
+|---|---|---|---|---|
+| [The_Memory_Thief](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-077_The_Memory_Thief_%EA%B8%B0%EB%A1%9D_%EB%8F%84%EB%91%91.md "SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md") `N-IIIβ-077` | 7,172→7,472 | 0.006; PASS | `269147d8` | PUSH VERIFIED |
+| [Swallow](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-767_Swallow_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-C-IVδ-767_Swallow_번져가는_그림자.md") `C-IVδ-767` | 8,111→8,309 | 0.006; PASS | `d2c8a51f` | PUSH VERIFIED |
+| [The_Silent_Maiden](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-043_The_Silent_Maiden_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EC%B2%98%EB%85%80.md "SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md") `C-IVβ-043` | 8,746→8,947 | 0.006; PASS | `b960ed25` | PUSH VERIFIED |
+| [Frozen_Tear](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-102_Frozen_Tear_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%88%88%EB%AC%BC.md "SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md") `C-IIβ-102` | 8,160→8,336 | 0.006; PASS | `d196d2cc` | PUSH VERIFIED |
+| [The_Debt_Chain](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-160_The_Debt_Chain_%EB%B9%9A%EC%9D%98_%EC%82%AC%EC%8A%AC.md "SE-N-IIIβ-160_The_Debt_Chain_빚의_사슬.md") `N-IIIβ-160` | 9,234→9,416 | 0.005; PASS | `95fa363a` | PUSH VERIFIED |
+
+### Full dossier links (R-12)
+
+[[SE-N-IIIβ-077_The_Memory_Thief_기록_도둑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-077_The_Memory_Thief_%EA%B8%B0%EB%A1%9D_%EB%8F%84%EB%91%91.md "SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md")]
+
+[[SE-C-IVδ-767_Swallow_번져가는_그림자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-767_Swallow_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-C-IVδ-767_Swallow_번져가는_그림자.md")]
+
+[[SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-043_The_Silent_Maiden_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EC%B2%98%EB%85%80.md "SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md")]
+
+[[SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-102_Frozen_Tear_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%88%88%EB%AC%BC.md "SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md")]
+
+[[SE-N-IIIβ-160_The_Debt_Chain_빚의_사슬](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-160_The_Debt_Chain_%EB%B9%9A%EC%9D%98_%EC%82%AC%EC%8A%AC.md "SE-N-IIIβ-160_The_Debt_Chain_빚의_사슬.md")]
+
+**Commentary — The Memory Thief (reviewer opinion, not canon):** The compensation ledger makes this more disturbing than a simple memory thief. I find the accurately priced loss of a sister’s face especially effective. The competing instructions about cornering it still leave the encounter unsafe to interpret as one settled procedure.
+
+**Commentary — Swallow (reviewer opinion, not canon):** The strongest idea is a grief that becomes unrecognisable through an administrative category rather than a spectacular attack. I like the tiny protected log entry because it acknowledges someone without pretending to grant relief. The blade-versus-bell disagreement still blurs what the weapon actually is.
+
+**Commentary — The Silent Maiden (reviewer opinion, not canon):** The named watch is the most convincing part for me: recognition becomes work instead of a demand that she perform. The privacy rule gives that attention a painful limit. I find the harmful Lens and protective quiet-field accounts too different to combine without an explicit source decision.
+
+**Commentary — Frozen Tear (reviewer opinion, not canon):** I like that this entity permits grief instead of curing it. The bench’s lack of records protects visitors while making expansion impossible to justify, which gives the mercy a real cost. Its mirror and short-range item cards still describe materially different equipment.
+
+**Commentary — The Debt Chain (reviewer opinion, not canon):** The distinction between owing money and guaranteeing someone else’s guarantee gives the chain its identity. I find the Director’s refusal to cancel releases against rejected loans unusually strong. The equipment should remain a review aid rather than an easy magical solution to the credit office’s dilemma.
+
+**Defined counters:** Full-SE counts unique completed whole-primary plus available exact-set reviews, including held disagreements.167 markers comprise165 counted plus paused SilentChildN-Iα-025 and scope-unconfirmed InheritorC-IIIγ-062, both excluded. Weapon-only counts unique exact primary/item source-led dispositions in287 complete paired sets;14 of301 primaries remain outside that scope. Repeated reviews do not add a Weapon count. Remaining dossiers are not presumed defective.
+
+**Next pending queue, not selected or authorized:** O-IIβ-796 Spire of Unanswered Prayer0.005745063; O-IIγ-007 Brume0.005743825; N-IIIγ-184 Redacted0.005723006; N-IIIβ-156 Deadline0.005694936; N-IIβ-627 Harvest Beyond the Gate0.005686126. Another owner authorization and fresh pending ranking are required before Batch130. Batch301 remains the deliberate owner-authorized4+4 variant blocked on eight externally supplied bodies; none invented, no new master bodies fabricated, generate/validate-before-copy unchanged. PR14 freshly verified OPEN draft→NON-WIKI from arena/954853ad-project-somnarak-wiki. Owner controls merge. No branch change, force push, deletion, PR close or merge.
+
 **Batch 129 / unit 5 — The Debt Chain `N-IIIβ-160` (`pending push`):** [[SE-N-IIIβ-160_The_Debt_Chain_빚의_사슬](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-160_The_Debt_Chain_%EB%B9%9A%EC%9D%98_%EC%82%AC%EC%8A%AC.md "SE-N-IIIβ-160_The_Debt_Chain_빚의_사슬.md")] Repaired fused Tension identification and correction-history asides. Added Maul open-link form and separate-field return, Named Obligation identity, Mantle open hanging/boundary care and Stigma privacy-case/map custody. Kept independent counts, first-guarantor rule, figures and unknown Tick distinct. No coercive-field mode imported. C-locale wc -w **9,234→9,416**.
 
 **Unit 5 evidence and history:** Complete480-line primary; exact160 A181 including separately read161–181 tail, B104/C102/D99 all care/history; CSV422–425; archetype122; Masterindex449–451/detail5385–5418; Entity504; Tale137/7728–7789; disposition174. Six histories searched exact title/designation/SE-160-B/MAW-W-160; B65 526ccd0 was couple/prose work and B112 unit3 explicitly excluded DebtChain from BrokenPromise’s pair. SVG remake is illustration work. No prior exact DebtChain Weapon disposition found; Weapon+1.
@@ -58,7 +108,7 @@ This file records notable changes to the public Somnarak Wiki.
 
 **Unit 1 validation/progress:** RESIDUAL0/seam[]/pipeTrue/dupes[], template RESIDUE0, no section over0.05, GENERIC≤0.05, wording meetsTrue; diff clean. Full-SE **161/301=53.49%** (140 remain;138 eligible). Independent Weapon **179/287=62.37%** (108 remain); new exact-pair increment+0. Batch1/5. Exact Side/item and supplementary sources unchanged.
 
-## Batch 129 — full-SE M.A.W. source review (open at five)
+## Batch 129 — full-SE M.A.W. source review (closed at five)
 
 **Authorization (2026-10-16):** Owner `pp` after Batch128 treated as one next-batch authorization, not two batches. Fresh pending-only worst-first rank: N-IIIβ-077 Memory Thief0.005901506; C-IVδ-767 Swallow0.005862069; C-IVβ-043 Silent Maiden0.005808477; C-IIβ-102 Frozen Tear0.005807814; N-IIIβ-160 Debt Chain0.005762815. Inventory301,162 markers/160 counted,139 eligible after two exclusions. Opening Full-SE160/301=53.16%,141 remain; independent Weapon179/287=62.37%,108 remain. Five careful-detail reviews, no batch-short dossier substitutions. Full interactions/bespoke records preclude treating low prose scores alone as simplicity. Exact histories checked independently before any Weapon increment. Frozen Tear C-IIβ-102 maps to SE-1010/Icedrop, not Dancing Chains C-IVδ-102.
 
