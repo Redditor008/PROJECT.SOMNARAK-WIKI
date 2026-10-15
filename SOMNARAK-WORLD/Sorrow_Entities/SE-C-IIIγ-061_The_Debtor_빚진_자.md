@@ -184,15 +184,21 @@ The Debtor is a Fragment (III) Subject with Subject-Body manifestation and Weigh
 
 **Appearance:** a heavy two-handed maul of Weight Han-steel, finished dark and heavier than its bulk accounts for, that sheds a thin film of Han when it is swung.
 
-**Damage:** Weight 7-12
+**Damage:** Weight 7–12
 **Speed:** 3 (Fast)
 **Range:** 3 (Medium)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
+**Attack Pattern:** Skewer
+**Target Coverage:** Up to 3 targets
+**Falloff Rule:** 100% → 70% → 50% along the strike line.
+
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Debtor's weight signature in the strike.
 
 **Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+
+The Maul’s Shared Load function carries measured Weight through the strike line rather than making an obligation disappear. It can distribute load across hostile barriers or willing allied carriers. Consent remains a limit on giving a burden to another person: a forced transfer returns doubled to the bearer. A line that can reach three targets is not authority to nominate three unwilling people as carriers, and a successful blow does not close the account that supplied it.
 
 ### M.A.W. Suit — The Burden Mantle
 
@@ -211,6 +217,8 @@ The Debtor is a Fragment (III) Subject with Subject-Body manifestation and Weigh
 **Ability:** It turns a Weight strike, but only the part of one that is owed: the mantle answers pressure with a claim behind it and does nothing at all against a blow that has none. It is proved against the Han, which the record glosses here as the reserves and the debt carried in them, and the filing says plainly that it guards nothing else.
 
 **Cost:** The wearer is tired the entire time they have it on, a flat weariness that neither builds nor lifts. The Armoury enters it on every issue form and has never written a treatment against it, there being nothing to treat.
+
+The mantle’s care follows the carried load as well as the cloth. Its front strip is left outward when folded, and the garment rests on a wooden stand off duty. Recording, sharing or resolving the burden is part of its return, not an optional explanation attached to a clean piece of fabric. The observer compares fatigue with the issue baseline before authorising another rotation; removal alone is not the recovery check.
 
 ### M.A.W. Stigma — The Burden Chain
 
@@ -232,13 +240,15 @@ The Debtor is a Fragment (III) Subject with Subject-Body manifestation and Weigh
 
 Every piece in this set is a fragment of the Debtor and carries what he carries: the bearer feels the weight come on and stays with it. The grade speaks to extraction stability and says nothing about price — the cost sits in the column beside it, and that column is why this set is issued for one rotation and no longer.
 
+The Burden Set’s resonance, *Carry It Together*, requires a full-set bearer accepting a documented burden and two witnesses agreeing to share the record. Weight is distributed through the designated group, and every participant carries the original debtor’s exhaustion until that obligation is formally closed. This equipment record concerns the load accepted for the operation. It is not a certificate that the first borrower’s ancient debt has been satisfied: the facility has no creditor’s standing, and its witnesses cannot acquire that standing by signing an issue form. The consent, measured portion and participants therefore stay identifiable rather than disappearing into a total.
+
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, The Debtor's toll being that the wielder feels progressively heavier. |
+| **Before use** | Wielder, piece, gauge and a measured baseline of carried Weight. For Shared Load, name the willing carriers and the portion each accepts; for Carry It Together, identify the two witnesses and the documented operational burden. A scale reading is not consent. |
 | **During use** | Watch for The Debtor's toll — the wielder feels progressively heavier — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The wearer carries a constant low fatigue, and the wielder has stopped reporting it — the usual end point for a The Debtor piece. The observer calls the limit. |
+| **At limit** | The wearer carries a constant low fatigue and has stopped reporting it; the observer calls the limit on this Debtor piece. A burden transferred without consent returns doubled, so an involuntary carrier is never substituted for a bearer who can no longer continue. |
 | **After use** | Return the piece, reconcile the baseline, and enter whether the constant fatigue has lifted. Where it has not, the piece is not reissued to that bearer. |
 
 **Stat interpretation:** What a piece can extract and what it costs the person holding it are separate accounts, and they rarely line up. An efficient item can still leave a bearer Fractured, hollowed or sorrow-bound; the Armoury's returns are full of bearers paying in years for pieces rated minor.
