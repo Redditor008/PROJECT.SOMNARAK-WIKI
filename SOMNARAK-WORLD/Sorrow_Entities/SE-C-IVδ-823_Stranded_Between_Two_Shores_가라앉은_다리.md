@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
 | **Recommended response** | Listen between the sobs and name both shores. Nothing beyond that has ever lowered the gauge on Stranded Between Two Shores. |
@@ -226,7 +226,9 @@ Read the table as a schedule of who is audible to whom, not as a catalogue of op
 
 ### M.A.W. Use Notes
 
-These pieces are Stranded Between Two Shores in miniature, and the Armoury issues all three the same way: to two people or to nobody. What they give is listed above. What they take is that the wielder carries the entity's unwept grief and weeps involuntarily, most often at the point of arriving somewhere, and that the Armoury records the toll against the wielder rather than against the piece — which is why the requiem, the shroud and the chain all appear in personnel files that contain no fault.
+The Armoury issues the set as a two-worker operation or not at all. Its costs remain distinct: the Weapon carries the entity's unwept grief and brings involuntary weeping; the Suit numbs the wearer to minor joys; the Stigma makes the wearer feel the grief of everyone who crosses. The Armoury records each toll against the wielder, not the piece.
+
+The full set follows *Source Kept Distinct*: the Stigma identifies the source condition, the Suit lets a witness bear Lament pressure, and the Weapon opens only the immediate manifestation that violates “Listen between the sobs and name both shores.” It cannot heal the originating collapse; misuse routes the wound through the operator and raises the source Gauge.
 
 ### Field Use Record
 
@@ -256,7 +258,7 @@ These pieces are Stranded Between Two Shores in miniature, and the Armoury issue
 |---|---|
 | **Initial exposure** | The observer identifies Stranded Between Two Shores as a Subject with Subject-Lament manifestation and takes the first depth reading against the tunnel datum before anything else. The first reliable markers are the ribbed arches, the surface wet with crystallised tears at any humidity, and the absence of any gap under the span; a bridge-shaped record with a gap beneath it is a different designation and is checked against the archive before the cycle opens. |
 | **Sustained observation** | Continued observation confirms the four Work Type responses and the recorded physical behavior, and adds the reading this file is actually kept for: the depth at the hourly mark against the depth at entry. The figure is the entity's state and the section is the measurement. A session in which nothing was heard is not a session in which nothing happened — two of the archive's rapid-descent quarters opened with a quiet first hour, and both were logged as uneventful at the time. |
-| **Activation or escalation** | Corruption of its own zone. The zone at Zone B, deep tunnels turns and the turning spreads within it; the air fills with audible weeping, eroding the will to co Record it with the hour, who was present, and what had been done in the preceding minutes. |
+| **Activation or escalation** | Corruption of its own zone. The zone at Zone B, deep tunnels turns and the turning spreads within it; the air fills with audible weeping, eroding the will to continue. Record it with the hour, who was present, and what had been done in the preceding minutes. |
 | **Post-contact review** | Record the depth at exit, whether both mouths were held and by whom, the names read into each column, and the gaps — the voices heard at one end and not the other, which has happened twice and preceded a quarter of unusually rapid descent both times. A report is incomplete if it records only the danger and omits the sorrow the entity preserves, and it is equally incomplete without the depth, which is the only figure in this file that changes. The operative document closes on nineteen unreturned names; the review is filed above that page, not instead of it. |
 
 **Observation method:** Record the first sign, which is cold rain-smell in a dry tunnel; the first sensation, which is the need to get to the other end; the depth at entry and exit against the tunnel datum; whether both mouths were held and by whom; and the condition that ends the encounter, which is both shores named aloud in the same session. Record the names as columns — thirty-one near, twenty-six far — because a single list of twenty-six was in use for nine years, and the span descended faster across those nine years than across the thirty since.
@@ -302,7 +304,7 @@ The tunnel opens into a span over darkness. The Bridge weeps from its arches, an
 
 **When the entity activates:** nothing climbs. The gauge arrives whole, the Lament comes up all at once, before the shift from a thing merely present to a thing acting can be reported, it has already happened.
 
-**After departure:** the pressure falls away, and what it leaves does not. Lament stays in the cloth of the suit, in the tread of the boots and in the hours before dawn; a worker coming off a full shift will report needing to be on the far bank of wherever they happen to be, and the medical office files that as this entity's signature, not as an injury. Deeper exposure leaves the symptom the file takes its name from.r: an interrupted journey replayed as a sensation rather than a memory, most often at the midpoint of a routine walk home.
+**After departure:** the pressure falls away, and what it leaves does not. Lament stays in the cloth of the suit, in the tread of the boots and in the hours before dawn; a worker coming off a full shift will report needing to be on the far bank of wherever they happen to be, and the medical office files that as this entity's signature, not as an injury. Deeper exposure leaves the symptom the file takes its name from: an interrupted journey replayed as a sensation rather than a memory, most often at the midpoint of a routine walk home.
 
 ### Interaction Pattern
 
