@@ -175,15 +175,20 @@ The register files this one as Subject-Dream, with the Grudge reading riding on 
 
 **Appearance:** a fang-curved blade of Grudge Han-iron, finished dark and warm on the rack, that pulses with the source sorrow the moment it clears the sheath.
 
-**Damage:** Grudge 10-15
+**Damage:** Grudge 10–15
 **Speed:** 3 (Fast)
 **Range:** 3 (Medium)
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
+**Attack Pattern:** Skewer
+**Falloff Rule:** 100% → 70% → 50%, along the verified direction; the item record describes penetration of up to three interference layers, not permission to supply a missing target.
+
 **Ability:** The fang carries the Whisper's own grudge into the cut, and the wound it opens is the one the warning was meant to prevent. The damage is taken on the Body, and it is taken before anything is said.
 
 **Cost:** Every old injury the wielder arrived with starts to throb in the order it was sustained, oldest first, and the bruising that follows a strike comes up in the shape of the grip rather than of the blow.
+
+Binding requires one confirmed danger direction and one unknown, stated together. The two independent fragment transcripts are kept along opposite edges during cleaning; only matching sounds are cleaned, and blank intervals remain unpolished. An edge made continuous by a guess has ceased to preserve the warning. The Fang is lowered when the confirmed danger ends, even if the sentence does not: a resolved warning repeated by the blade can turn against the responder.
 
 ### M.A.W. Suit — The Warning Plate
 
@@ -203,6 +208,8 @@ The register files this one as Subject-Dream, with the Grudge reading riding on 
 
 **Cost:** The wearer answers late. Not slowly — the motion runs at its usual speed and simply begins a beat after it should, which on the floor is recorded as the difference between stepping back and being stepped into.
 
+An external waking recorder is assigned before the Plate is worn. The harness holds physical continuity through collapsing dream-space, not the accuracy of an interpretation or the speed needed to escape it. Care is performed with the wearer awake, tapping plates in fragment order and leaving unknown intervals silent. At removal the recorder states the present location and confirmed danger, then releases the slowest joint last. The person who can still move promptly is responsible for the return; the harness cannot lend that speed to its wearer.
+
 ### M.A.W. Stigma — The Warning Thread
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
@@ -211,11 +218,13 @@ The register files this one as Subject-Dream, with the Grudge reading riding on 
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus while working the source holding, entered at issue and struck the day the bearer leaves the Desolate posting
+**Effect:** +3 Resilience while working the source holding, entered at issue and struck the day the bearer leaves the Desolate posting.
 
 **Ability:** Preserves a warning through interference.
 
 **Cost:** The wearer hears every warning that arrives too late.
+
+The Thread stiffens around speculative words. Fluency without new evidence is a failure, not recovery of the scout’s sentence, and repeated late voices can make a current warning inaudible. Its care record separates the original pulse, noise and silence; a guess is never entered as another part of the signal. The Tail slot and four-percent bestowal describe how it is carried and received, not a right to circulate what it carries.
 
 *The thread is not handed out. It comes up when a sleeper has let the sentence break without reaching after it, and nobody on the armoury side can tell in advance which broken sentence will leave one behind.*
 
@@ -223,13 +232,15 @@ The register files this one as Subject-Dream, with the Grudge reading riding on 
 
 Three pieces, one property: every part of the set hands over half a thing and keeps the other half. The fang arrives before its sound does, the plate calls its warning half a second after the need, the thread pulls tight at something it refuses to name. The bill is the same across all three — the bearer starts moving on the half they hold, and lands right often enough to keep the habit.
 
+The extraction set is *The Message That Failed*: two independent dream reports must match in fragments without agreeing on a full sentence. Only their overlap is shaped, with the gaps left open. Guessing the missing phrase converts the set into red static rather than completing it. The outside recorder keeps image, sound, timing and inference distinct; the primary prohibition on interpreting the residue and forwarding fragments remains in force. Extraction authority is separate from a work cycle, and neither a falling gauge nor a clean equipment return authorises a message to a field crew.
+
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, and a dated baseline taken before issue against what this holding takes — old hurts waking in the order they were received, which is the first thing the set does to a new bearer. |
 | **During use** | Every recurrence is timed: the bearer's old injuries aching, counted with the hour. A single occurrence is noted; a pattern running across a shift ends the use. |
-| **At limit** | The cost runs continuously rather than in bursts — the reflexes dull, as though resentment had armoured them — and on this set the second worker's call stands against the bearer's. |
+| **At limit** | The cost runs continuously rather than in bursts — the reflexes dull, as though resentment had armoured them — and on this set the second worker's call stands against the bearer's. Lower the Fang when the confirmed danger ends; no incomplete sentence extends that authority. |
 | **After use** | Return the piece, reconcile the baseline, and enter whether the toll has lifted: the dulled reflexes have to have come back. Where they have not, the piece is not reissued to that bearer. |
 
 **Stat interpretation:** The grade speaks to extraction stability and says nothing about the person holding the item. A piece can grade well and still take a toll no figure on the sheet covers — this set is the standing example on this wing's rack.
