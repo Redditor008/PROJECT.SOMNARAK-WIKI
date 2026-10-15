@@ -173,7 +173,9 @@ The gauge here moves with the approach and says nothing about the holding. The f
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that reads light in the hand and heavy on the scale, and bends the reference edge when it is laid beside one.
+**Appearance:** A fang-curved blade of Grudge Han-iron, dark and faintly warm, that reads light in the hand and heavy on the scale, and bends the reference edge when it is laid beside one.
+
+Along its cutting edge runs a section that cannot be seen from either side, so the blade shows where its own record fails. The gap in the blade and the gap in the file are kept as the same gap: the fang is racked beside a record whose unknown field stays visible, and no replacement label is allowed to touch the invisible edge.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
@@ -194,7 +196,9 @@ The gauge here moves with the approach and says nothing about the holding. The f
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plate harness of Grudge Han-iron, dark and faintly warm, that sits on a bearer as though it were not there and leaves the shoulders bruised where the weight went.
+**Appearance:** A plate harness of Grudge Han-iron, dark and faintly warm, that sits on a bearer as though it were not there and leaves the shoulders bruised where the weight went.
+
+Behind the shoulders rides an empty load frame built to carry a burden with no shape, no name and no owner on file. What the frame holds is weight and never story: the log beside it records measured pressure, location and duration, and the frame is checked empty at every issue so that nothing guessed has taken up the space.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -212,11 +216,13 @@ The gauge here moves with the approach and says nothing about the holding. The f
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** A small tail-charm of Grudge Han-iron, dark and faintly warm to the touch, with an invisible weight hanging below it, cold where the charm is warm.
+
+The pull under the charm is real and measurable and attached to nothing anyone can see, which is the whole of what the piece is for. It was granted, never manufactured: it cannot be ordered, and the Armoury has no stock line for it.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the bearer's work on this holding. The charm's recorded cost is that the wearer notices every task that leaves their own schedule, which three wearers have described as unbearable and one as the first honest year of her service.
+**Effect:** +1 Resilience during source work. The charm's recorded cost is that the wearer notices every task that leaves their own schedule, which three wearers have described as unbearable and one as the first honest year of her service.
 
 **Ability:** Converts invisible emotional pressure into physical strength.
 
@@ -226,7 +232,11 @@ The gauge here moves with the approach and says nothing about the holding. The f
 
 ### M.A.W. Use Notes
 
-Nothing taken from this holding is equipment in the ordinary sense: each piece works by standing in for part of what it is used against. The toll is the file's own — old injuries ache — and it is charged whether the work was performed correctly or not, with bruising in the same lines on a long issue.
+Nothing taken from this holding is equipment in the ordinary sense: each piece works by standing in for part of what it is used against, and each is charged whether the work was performed correctly or not.
+
+The three charges are distinct. The fang leaves the wielder's old wounds aching, and a long issue leaves bruising in the same lines. The plate dulls the wearer's reflexes as resentment hardens around the absence, and it does so at the hands first. The charm makes every absence feel like the bearer's own obligation, which is the cost wearers have actually argued about.
+
+The set is worked under one rule: do not replace the missing thing with a false explanation. Extraction follows a Ferrehan cycle in which the unknown field stays explicitly unknown, and the burden is measured rather than named. A comforting answer is the one failure that costs more than the absence itself — phantom mass returns at double force and binds the false story to the bearer. The rest of the list is the same discipline: uncertainty is not the enemy, true partial evidence must not be cut away with the false frame, and a bearer who invents a better explanation after cutting the first has defeated the piece.
 
 ### Field Use Record
 
@@ -235,7 +245,7 @@ Nothing taken from this holding is equipment in the ordinary sense: each piece w
 | **Before use** | Wielder, piece, and a dated baseline written by the second worker: which old injuries the bearer carries and where they sit on an ordinary week, so that anything new can be set against something. |
 | **During use** | Every instance of the bearer's old injuries aching out of their usual order is entered with its hour. One is an incident note; a run of them through a shift ends the use, and the observer's clock ends it. |
 | **At limit** | The wearer's reflexes dull, as if armored by resentment, without remission. On a Carrying Nothing piece the use ends there whatever the wielder says. |
-| **After use** | Take the piece back and open the sealed baseline: are the old injuries back on their ordinary schedule, and are the bearer's reflexes where they were when the sheet was written? The answer goes into the record as the observer reads it, whether or not the bearer agrees with it. | |
+| **After use** | Take the piece back and open the sealed baseline: are the old injuries back on their ordinary schedule, and are the bearer's reflexes where they were when the sheet was written? The answer goes into the record as the observer reads it, whether or not the bearer agrees with it. Assign only the immediate physical task, and return every unresolved absence to shared review rather than to the bearer's personal duty. |
 
 **Stat interpretation:** A grade here describes how cleanly the material came out of the source and says nothing about what it does to a person; a well-graded piece can still charge a toll no rating accounts for, and a modestly graded one can carry a heavy line. Read the cost column before the grade, and read the bearer's own old injuries as the meter this set runs on.
 ## 관찰 기록 (Observation Log)
