@@ -13,7 +13,7 @@ The owner directed that the previous readable chatroom report become the must-fo
 
 ## Full-SE M.A.W. audit — active scope (expanded 2026-10-11)
 
-**Current cumulative full-SE coverage through Batch 126 / unit 2:** **48.84% / 100% complete**; **154 of 301 primary dossiers remain** (147 counted dispositions; 149 repository markers including paused Silent Child and scope-unconfirmed Inheritor, both excluded; 152 eligible cases remain). Separately, **Weapon-only coverage is 59.58% / 100% complete**; **116 of 287 eligible pairs remain** (171 counted source-led dispositions). Fourteen primary dossiers remain outside paired scope. Holds count as dispositions, not defect findings; unreviewed cases are not presumed defective.
+**Current cumulative full-SE coverage through Batch 126 / unit 3:** **49.17% / 100% complete**; **153 of 301 primary dossiers remain** (148 counted dispositions; 150 repository markers including paused Silent Child and scope-unconfirmed Inheritor, both excluded; 151 eligible cases remain). Separately, **Weapon-only coverage is 59.58% / 100% complete**; **116 of 287 eligible pairs remain** (171 counted source-led dispositions). Fourteen primary dossiers remain outside paired scope. Holds count as dispositions, not defect findings; unreviewed cases are not presumed defective.
 
 ## Batch 126 — full-SE M.A.W. source review (open at five)
 
@@ -36,6 +36,14 @@ The owner directed that the previous readable chatroom report become the must-fo
 **Unit 2 validation:** Full residue RESIDUAL0/seam[]/pipeTrue/dupes[], template RESIDUE0, zero sections over0.05, dossier GENERIC≤0.05, wording meetsTrue; diff check clean. No Side/item, Registry, Master, Entity Codex, Tale, archetype or disposition-index file changed.
 
 **Unit 2 checkpoint:** Full-SE **147/301 = 48.84% / 100%** (154 remain; 152 eligible after two exclusions). Weapon-only **171/287 = 59.58% / 100%** (116 remain). Batch **2/5 full-SE** and **1 new exact Weapon pairs**.
+
+**Batch 126 / unit 3 — Anonym `O-Iα-126` (`pending push`):** [[SE-O-Iα-126_Anonym_녹아내린_조각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-126_Anonym_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%A1%B0%EA%B0%81.md "SE-O-Iα-126_Anonym_녹아내린_조각.md")] Normalised the Appearance label without replacing the hand-cannon. Added chosen-name collar-thread binding/one-pressure protection/termination and non-surveillance strip care; Reflection support-consent, non-diagnostic limits, stacking and covered release; Held Shape / Named by Choice without claiming Register amendment or memory refund. Replaced a duplicated Story Entry1 tail with the existing self-description method and removed a stray prose pipe. The unnamed +1 bonus stays unnamed. Word count (`wc -w`, C locale) **7,916 → 8,247**.
+
+**Unit 3 evidence and holds:** Whole primary Border Record/Reading Back/discrepancy-note and interaction records; complete SE-126-A–D 4/4 all identity/appearance/history/care; CSV370–373; Master697–699/detail8558; Entity603; Tale233/13039–13088; archetype104; R19 row229; B91 source-led history d9da2f94. Holds, not defect findings: B91 hold retained: primary/current B heading/Appearance hand-cannon vs B Official name/resting/active Lens and Master detailed Lens; no conversion or separate form. Primary repeated white-flame scoring vs B direct single strike, archetype Medium vs local Short2; no offensive values changed. Separate Folly329 Melting Lens is not the same item. Side Inner versus primary Outside, Observed versus Initial; primary exile/wrong Register entry vs StoryLog5 clerk origin remains a source contradiction. Item clear-centred tile vs primary unfamiliar face and existing known bonus forfeit retained. Master chain-mail Veil bucket vs gossamer; generic CSV B/C and D Accessory vs Head at matching5%. Pair history: SE-126-B / MAW-W-126-01 already counted in B91 unit1 d9da2f94; this advances Full-SE only and adds zero new Weapon pairs. R-19: Neutral229 retained: Empty Mask seven nulls, Forgotten Name anchoring runs inward to Anonym; no physical target, no other holding assisted or suppressed.
+
+**Unit 3 validation:** Full residue RESIDUAL0/seam[]/pipeTrue/dupes[], template RESIDUE0, zero sections over0.05, dossier GENERIC≤0.05, wording meetsTrue; diff check clean. No Side/item, Registry, Master, Entity Codex, Tale, archetype or disposition-index file changed.
+
+**Unit 3 checkpoint:** Full-SE **148/301 = 49.17% / 100%** (153 remain; 151 eligible after two exclusions). Weapon-only **171/287 = 59.58% / 100%** (116 remain). Batch **3/5 full-SE** and **1 new exact Weapon pairs**.
 
 ## Batch 125 — full-SE M.A.W. source review (closed at five)
 
