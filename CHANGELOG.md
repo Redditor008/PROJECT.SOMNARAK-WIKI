@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+**Batch 130 / unit 1 — Spire of Unanswered Prayer `O-IIβ-796` (`pending push`):** [[SE-O-IIβ-796_Spire_of_Unanswered_Prayer_솟구친_탑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-796_Spire_of_Unanswered_Prayer_%EC%86%9F%EA%B5%AC%EC%B9%9C_%ED%83%91.md "SE-O-IIβ-796_Spire_of_Unanswered_Prayer_솟구친_탑.md")] Corrected the Weapon Appearance label; added source-event binding/corrosion limits and attribution-before-care, witness-assisted surrender, no cost refund, sleep-log custody and non-waiver of the lifetime listening ceiling. No new effect, biography, Tick or numeric adjustment. C-locale wc -w **7,778→7,963**.
+
+**Unit 1 evidence and history:** Read primary444lines, complete exactSE-796A–D; CSV895–898; archetype325; MAW master686–688/7997–8029; EntityCodex585; complete Tale21612081–12137; disposition259. Exact designation/item/name history searched across current/archived WIP and Changelog: earlier entity/full-prose work only, no prior exact-pair Weapon review disposition; Weapon+1.
+
+**Unit 1 holds:** Tower Requiem legacy naming versus Chime-Tower heading; master Suit hauberks/chain mail and Stigma ocular lens versus primary Han-silk shroud/crystal charm/Tail slot; Ferrehan Decrease versus Story Entry4Stable; physical tower combat verbs versus incorporeal source, and generic casualty wording versus no-casualty register. No contradiction promoted into a defect. Full stats, Single/falloff and direct/Tick separation unchanged; no Tick invented.
+
+**Unit 1 R-19:** The hope that feels protective is the danger here. The unaveraged elevations and the disputed career ceiling make administrative protection tangible without pretending it can measure the song.
+
+**Unit 1 validation/progress:** RESIDUAL0/seam[]/pipeTrue/dupes[], template RESIDUE0, no section over0.05, GENERIC≤0.05, wording meetsTrue; diff clean. Full-SE **166/301=55.15%** (135 remain;133 eligible). Independent Weapon **183/287=63.76%** (104 remain); new exact-pair increment+1. Batch1/5. Exact Side/item and supplementary sources unchanged.
+
 ## Batch 130 — full-SE M.A.W. source review (open at five)
 
 **Authorization (2026-10-16):** Owner `p` after delivered Batch129 authorizes one next batch. Fresh pending-only worst-first ranking: O-IIβ-796 Spire of Unanswered Prayer0.005745063; O-IIγ-007 Brume0.005743825; N-IIIγ-184 Redacted0.005723006; N-IIIβ-156 Deadline0.005694936; N-IIβ-627 Harvest Beyond the Gate0.005686126. Inventory301,167 markers/165 counted,134 eligible after SilentChildN-Iα-025 and InheritorC-IIIγ-062 exclusions. Opening Full-SE165/301=54.82%,136 remain; independent Weapon182/287=63.41%,105 remain. All five will be read with complete exact A–D sets and histories; each defect set classified with counts before its edits. Spire has full interactions, Watch Record and duplicated Tale: not simple; close this batch at five, no expansion.
