@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 16–22 per successful work cycle, taken off the contact sensors and never off the stone itself |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | Viderehan and Ferrehan only, this being an Object/Place. Observation is the whole of the value here: it is the only means by which the contents of the scream can be read, and the transcripts are the subject of the last three sections of this file. |
@@ -234,6 +234,8 @@ Escalation here is absorption. Record the bearing, the vibration amplitude along
 
 **Appearance:** a mantle draped in Weight Han-weave, dark as river stone and heavier than any weave of that thickness should be, that draws in when its source element is close. The drawing in is the only warning a wearer gets that Screaming Masonry is working, and it starts at the shoulders, where the weave lies flat against the collar. Both mantles are weighed at issue and weighed again at return, and what comes out between those two weighings is entered rather than explained.
 
+The mantle's safety doctrine is written on its own inner hem in the source's resolution clause — *acknowledge duties without accepting impossible blame* — because the walls' cry is real and is not a summons to answer for every failure in the stone. Worn through a full cycle the weave tightens at the shoulders as the shard comes near and loosens again once the vibration line is closed, and the fatigue a wearer reports is logged and never treated: a mantle whose bearer is still carrying it a week later is held from issue until that bearer has stood a full shift without it.
+
 **Resistances:**
 - Lament: 1 (Normal)
 - Grudge: 1 (Normal)
@@ -252,6 +254,8 @@ Escalation here is absorption. Record the bearing, the vibration amplitude along
 
 **Appearance:** a ring of Weight Han-steel, dark-grained and weightier than its size explains, that takes the light at no angle at all.
 
+The ring is conferred and never requisitioned, and what it returns is an itemisation: the scream parsed into specific unfulfilled duties, each disclosure arriving with the weight that made somebody tell it. Nine workers carry it and every one of them finished a transcript naming somebody still living in the district. Wearers describe the pressure at the sternum as steady and unbanded — it does not rise when a lie is told in front of them and does not fall when one is admitted.
+
 **Slot:** Head
 **Acquisition Probability:** 4%
 **Effect:** +3 stat bonus while working the source holding; the bearer hears nothing further and carries a steady pressure at the sternum.
@@ -264,16 +268,18 @@ Escalation here is absorption. Record the bearing, the vibration amplitude along
 
 ### M.A.W. Use Notes
 
-Each Masonry piece is an extension of the entity rather than ordinary equipment. Each performs as recorded and charges the same coin: the bearer loses the ability to let a grievance pass unspoken, which in a Forge or a bay is a cost paid by the people around them as much as by the bearer.
+Each Masonry piece is an extension of the entity rather than ordinary equipment, and each carries its own charge on top of the coin they share. The Maul leaves a heaviness on the wielder that does not leave when the piece goes back in the rack, and prolonged use ages them slightly. The Mantle holds a constant low fatigue that the survey logs and nobody treats. The Ring makes its bearer feel the burden behind every deception they are shown, one weight at a time and in the order the transcript gives them. What the three charge together is the ability to let a grievance pass unspoken, which in a Forge or a bay is paid by the people standing nearby as much as by the bearer.
+
+Two rules govern issuing. The first is attribution: a piece interrupts the immediate hazard only after the team has attributed the response to Screaming Masonry, and no piece is signed out against an unattributed cry. The second is the set's limit, *acknowledge duties without accepting impossible blame* — a bearer who has begun describing the Old Lament failure in the first person has already crossed it. The set cannot heal the originating event; what it does is make the obligations audible and hold the bearer while they are named. Violating the limit reverses the benefit and raises the source Gauge, and the ladder runs in one direction: first-person description of the event, then the piece repeating the source response outside contact, then the terminal state in which the manifestation uses the bearer as its new site. A named witness closes a piece by stating the source title and the source event while the bearer relinquishes it; the shutdown preserves the record in full and refunds nothing.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder identity, piece grade, entity gauge, operator composure, equipment condition, mission objective, current bearing of the shard, and the sensor baseline for the bay. |
+| **Before use** | Wielder identity, piece grade, entity gauge, operator composure, equipment condition, mission objective, current bearing of the shard, the sensor baseline for the bay, and the attribution of the response to Screaming Masonry entered before any piece is signed out. |
 | **During use** | Activation time, vibration amplitude at each sensor, chest pressure at one and three metres, bearing, first cost paid, and every utterance made legible. |
 | **At limit** | The bearer has begun listing obligations aloud, in order, without being asked — that, and not any figure on the sheet, is where this set ends, and the second worker calls the limit. |
-| **After use** | Detachment in order, injuries, lingering effects, cooldown, sensor record closed, transcripts filed in full and unedited, reuse authorisation. |
+| **After use** | Detachment in order, injuries, lingering effects, cooldown, sensor record closed, transcripts filed in full and unedited, reuse authorisation, and — where a piece was closed on the set's own clause — the named witness, the source title and event as stated, and the acknowledgement that the record stands and the cost is not refunded. |
 
 **Stat interpretation:** The grade describes what the piece does to entities, not what it takes from the bearer, which is listed separately and is measured here in resilience per quarter-minute. No grade of equipment reduces that figure.
 ## 관찰 기록 (Observation Log)
