@@ -283,7 +283,7 @@ If a piece repeats the source response away from contact, relinquish it to the n
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Swallow (C-IVδ-767 [LP]) is a Place-Grudge manifestation expressing Lament, held beneath the Alpha Tree in Zone A, and what it spreads is not darkness but ownership: losses move through it into people who never made them, beneath the Alpha Tree in Zone A. It has injured nobody, holds nobody and blocks nothing. What it does is make a loss that belongs to somebody else feel like a memory you had misplaced.
+Swallow (C-IVδ-767 [LP]) is a Place-Grudge manifestation expressing Lament, held beneath the Alpha Tree in Zone A, and what it spreads is not darkness but ownership: losses move through it into people who never made them. It has injured nobody, holds nobody and blocks nothing. What it does is make a loss that belongs to somebody else feel like a memory you had misplaced.
 
 **Entry 2 — <Spread Ledger, Alpha Tree, Extract>**
 The edge has drawn back four times in sixty-one years. Three analysts plotted the ledger against the district's calendar of observances at the memorial above and none found a relationship that survived scrutiny; all three wrote down that they had expected to. The series that does move with it was not found by an analyst. The four reversals fall in the four quarters carrying the most attributed lines in the shift log.
