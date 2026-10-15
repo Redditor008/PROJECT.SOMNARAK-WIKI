@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-055 [LS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; cold grief in waves over whoever is standing in the spread, draining composure. the effect is on the person's own grief  |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; cold grief in waves over whoever is standing in the spread, draining composure. The effect is on the person's own grief. |
 | **Coherence** | Echo (II) — Repeats weeping |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -94,7 +94,7 @@
 
 - A worker who cannot hold at the edge becomes a conduit: the pooled grief moves through them, **Clarity** goes, and the gauge ends up reading what they took rather than what they were told.
 - Duration is the whole of the danger here: crews come off on the clock and never on a reading, because the pressure builds in the people present well before the gauge registers it. Three Wardens have asked to stay past the limit and all three were removed from the rotation, which is the rule and not a sanction.
-- Each M.A.W. activation is a debit paid by the wielder and not by the piece: the bearer who uses it to stay composed loses the ability to cry at all, for years, and the ledger records that outcome rather than an amount.
+- The reviewed Side/item costs remain piece-specific: the bearer's tears become physically heavy for one hour from the Weapon, the Suit dulls minor joys until the wearer rests near honest, unstructured emotion, and the Earring increases susceptibility to tears and small sorrows until its fragment is archived or willingly given to another person. Separately, using a piece to stay composed can leave the bearer unable to cry for years; the ledger records this broader source-level response apart from item-specific costs.
 - Without resolution the grief neither dissipates nor travels: it turns inward on the holding's own zone, and the floor the pool takes in an hour is not given back at any later date.
 
 ## Appearance
@@ -238,16 +238,18 @@ The cold obsidian stone absorbs excess light and psychic vibration, maintaining 
 
 ### M.A.W. Use Notes
 
-Each Weeping Statue piece is an extension of held-in grief rather than ordinary equipment. The listed benefit holds for a bearer who lets their own feeling move; it turns against one who uses the piece to stay composed, and the recorded cost in every such case has been that the bearer stopped being able to cry at all, for years, outside the Gardens as well as in.
+The reviewed Side/item records give distinct costs: the bearer's tears become physically heavy for one hour from the Weapon; the Suit dulls minor joys until the wearer rests near honest, unstructured emotion; the Earring increases susceptibility to tears and small sorrows until its fragment is archived or willingly given to another person. The primary's separate source-level response remains on record: using a piece to stay composed can leave the bearer unable to cry for years.
+
+The full set follows *Tears Given Room*: hold a memorial where every participant may leave, speak, or remain silent freely. The tears form one stable Echo without raising the Gauge, while the bearer carries the memorial's strongest unspoken grief until dawn.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, state of mind in the operator's own words, equipment state, mission objective, stain line measured, last collection weight, and whether the operator has worked this holding within the cycle. |
-| **During use** | Activation time, flow rate against the notch gauge, pool edge position, keening onset, first cost, and the names of anybody who entered the Gardens during the cycle. |
-| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the operator asked to remain past the limit. |
-| **After use** | Withdrawal confirmed, stain line re-measured, collection weight, injuries, lingering effects, cooldown, reuse authorisation. |
+| **Before use** | Operator, piece(s), grade, Sorrow Gauge, state of mind in the operator's own words, equipment state, mission objective, stain line measured, last collection weight, and whether the operator has worked this holding within the cycle. For a full-set memorial, confirm that every participant may leave, speak, or remain silent freely. |
+| **During use** | Activation time, flow rate against the notch gauge, pool edge position, and keening onset; log the Side/item cost for the active piece. The Weapon makes the bearer's tears physically heavy for one hour; the Suit's minor-joy numbness ends after rest near honest, unstructured emotion; the Earring's increased susceptibility to small sorrows lasts until its fragment is archived or willingly given. Track the Suit wearer's rest and the Earring fragment's disposition. For the full set, record whether one stable Echo forms without a Gauge rise. |
+| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the operator asked to remain past the limit; for a full-set memorial, record the strongest unspoken grief and whether free choice was preserved. |
+| **After use** | Withdrawal confirmed, stain line re-measured, collection weight, injuries, lingering effects, cooldown, and reuse authorisation. Track each item cost to its stated endpoint, follow up at dawn on any full-set grief, and note whether the Earring's fragment was archived or willingly given to another person. |
 
 **Stat interpretation:** Field performance and human cost are separate axes and are never averaged. The pieces drawn from this holding rate modestly and cost heavily, and the Keepers' standing advice is that nobody should carry one who is not already able to weep in company.
 
