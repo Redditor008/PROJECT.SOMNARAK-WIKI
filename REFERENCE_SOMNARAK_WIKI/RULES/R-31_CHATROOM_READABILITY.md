@@ -61,7 +61,7 @@ Chatroom"*). It binds every report: units, batches, audits, closes, answers to q
 |---|---|---|
 | 1 | Verdict | Unit, hash, `PUSH VERIFIED` or `NOT PUSHED` |
 | 2 | Progress lead | Full-SE and Weapon-only percentages, then denominator-bearing remaining counts |
-| 3 | What changed | Two or three plain content sentences per dossier |
+| 3 | What changed | Two or three plain content sentences per dossier, then that dossier's commentary |
 | 4 | Table | Caption, one row per dossier, linked name, short change, checks, commit and push |
 | 5 | Links | One full `R-12` link per finished dossier, below the table |
 | 6 | Live counters | Separate Full-SE and Weapon-only totals, definitions, exclusions, then batch-local progress |
@@ -146,6 +146,40 @@ Never imply that a held disagreement is a defect finding, that an unreviewed dos
 previously reviewed Weapon pair was counted again. Generate each table's dossier link with
 `tools/ghlink.py --short --plain <path>`; keep the separate full `R-12` link below the table.
 
+## Amendment, 2026-10-15 — the report carries the reviewer's commentary
+
+**Stated by the archive owner, 2026-10-15:** *"In What Change In Chatroom Can You Add Commentary Section Of About
+What You Though About The Entity So I Can Read What OTHER-OTHER AI Though About IT Other Than The AI That Write
+The Entity."*
+
+Every dossier in this archive was written by an earlier session, and often by a different model. The agent
+reporting on it now is a later, separate reader. The owner wants that reader's actual opinion of the entity in the
+report, not only the list of what was edited on it. Block 3 therefore carries two halves: the content recap, then
+the commentary.
+
+21. **Every reported dossier carries a commentary.** After the content sentences for a dossier, the report adds
+    two to four plain sentences in the reporting agent's own voice: what this reader understands the entity to
+    be, what about it works, and what it finds thin, risky or unresolved. It is marked with the word
+    **Commentary** so it can never be mistaken for the record.
+
+The rules that keep a commentary honest:
+
+- It is **opinion, not evidence**. It never changes a dossier, never argues canon into place, and is never
+  counted as a check, a counter or a disposition.
+- It is **never a defect finding**. A held or unreviewed dossier is not made defective by a commentary
+  (point 20 binds it as well).
+- A canon conflict found while writing it is entered as a hold in the normal way, and the commentary points at
+  that hold; the commentary is not the hold.
+- Points 16–18 bind it: plain words, no tool names, no scores, no internal shorthand, no process talk.
+- It is **one per dossier**, in the unit report and again in the batch close. One paragraph covering a whole
+  batch is not a commentary.
+- If it would only repeat the content sentences, it is not written. Said in one line instead, or left out with
+  that said plainly — an empty sentence is worse than a shorter report.
+
+**What this changes in the fixed order.** Block 3 reads content first, commentary second, dossier by dossier. The
+Block 4 table is unchanged: a commentary never becomes a table column. A report shipped without its commentaries,
+or with them placed before the content, is rewritten in the same turn.
+
 ## How it is checked
 
 
@@ -153,6 +187,7 @@ previously reviewed Weapon pair was counted again. Generate each table's dossier
 |---|---|
 | This rule read before the report is written | Every turn, at session open and before replying |
 | The 20 points walked once, top to bottom | Before sending any chatroom message |
+| The commentary half of Block 3 present, per dossier, headed **Commentary** | Before sending any chatroom message |
 | Counters re-measured, not remembered | `verify.py` · `tpl.py` · `sectfile.py` · `wikistd.py` · the couples planner |
 
 No tool can read a chatroom, so the check is the list above, applied by hand before sending. This rule
