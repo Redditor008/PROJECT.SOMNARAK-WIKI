@@ -210,6 +210,8 @@ Escalation here is hardening. Record the hardness at onset, the whisper rate, th
 **Speed:** 3 (Fast)
 **Range:** 3 (Medium)
 **Max Amount:** 3
+**Attack Pattern:** Skewer
+**Falloff Rule:** 100% → 70% → 50%
 **Cost:** 40 Sorrow Echoes
 
 **Ability:** Deals Void damage against the Soul — identity, memory and sense of self — and carries the source's signature: the strike does not take a memory so much as put it out of reach, and the target can still name exactly what has gone.
@@ -242,7 +244,7 @@ Escalation here is hardening. Record the hardness at onset, the whisper rate, th
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 on this holding's work and nothing anywhere else on the register: the charm answers the vault's own register, and it goes out with the watch that intends to stand still.
+**Effect:** +2 Composure when working this holding and nothing anywhere else on the register: the charm answers the vault's own register, and it goes out with the watch that intends to stand still.
 
 **Ability:** Opens one sealed memory, once, for the bearer alone; the vault records the withdrawal and the plate never closes the same way twice.
 
@@ -252,18 +254,18 @@ Escalation here is hardening. Record the hardness at onset, the whisper rate, th
 
 ### M.A.W. Use Notes
 
-All three pieces hold rather than reveal: they conceal what the wearer carries, absolutely and from everybody, and they do not distinguish between what should be concealed and what should not. The listed benefit holds inside the intended pattern, and the cost outside it is that the wielder becomes unable to be understood by people who need to understand them. No protocol produces a Stigma here.
+The primary's broad concealment claim remains an operator-risk warning, not permission to inspect the Lock or assume every secret should stay hidden. *Access Without Possession* applies only after a whisper ends and the listener chooses not to open the vault: the Key enables one authorized exchange, the Veil protects the listener's identity, and the Lens severs obsession or residual Void tether without targeting the memory. Keep the vault closed; record that an admission was made, never its content. Keep the primary's “puts a memory out of reach” description distinct from item B's tether-severing method; aiming through the Lock strikes the memory and widens the breach. The Key's personal payment cannot be refunded; the primary says the plate chooses the memory, a detail the item record does not assign. Claims of ownership, widened access, or defending all secrecy as justified risk locking the listener's own memories. The Key is not manufactured; the primary's statement that no protocol produces a Stigma remains a bestowal boundary.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, grade, gauge, state, condition of the piece, the objective, and the name of the colleague who will be told what the wielder is doing. The last field exists because this set removes the wielder's capacity to be read. |
-| **During use** | Activation time, effect strength, what was concealed and from whom, and the first cost noticed by the named colleague rather than by the wielder. |
-| **At limit** | Duration and activation count, movement in the attributes, any rejection sign, and the field this set adds: whether the bearer has withheld something they had no reason to withhold. |
-| **After use** | Removal, injuries, lingering effects, cooldown, repair need, reuse authorisation, and a debrief taken by the named colleague at the bay door. |
+| **Before use** | Record wielder, witness, grade, Gauge and hardness, piece condition, objective, oversight authority, and named colleague. Before contact, capture the identity statement and one unrelated present-tense fact for the Veil; confirm authorization scope without recording the secret's title or content, and verify that any whisper has ended and the listener chose not to open the Lock. For the Key, record authorization for one irreversible personal-memory payment, not its content or a bearer-selected substitute. |
+| **During use** | Record trigger, hardness before and after, whisper rate, the admission as made (never its content), personnel effects including any later access-seeking, duration, and management condition. The named colleague logs the first cost: each Lens tether cut and nameless-memory loss, the Veil's absent feeling, or completion of a Key exchange without naming either memory. No whisper or secret content is transcribed. |
+| **At limit** | Record duration, activation count, hardness and other attribute changes, rejection signs, and any later proposal for vault access; transcribe no content. Flag ownership claims, widened access, or treating all secrecy as justified as the Side set's memory-lock failure risks. Retain the primary's question of whether the bearer withheld something they had no reason to withhold as a question, not proof of wrongdoing. |
+| **After use** | Record removal, injuries, lingering effects, cooldown, repair and reuse authorisation, and the named-colleague debrief at the bay door before the stair; note why the worker came, never the whisper's content. After the whisper, rotate the Lens away and ground it; the external reviewer removes the Veil only after a present-tense answer unrelated to the vault. For Key release, end the whisper and refuse a second payment; record that the first exchange is irreversible without naming either memory. |
 
-**Stat interpretation:** Grade states how well a piece conceals and says nothing about what the set takes, which is legibility: a wielder from this source performs well, reports accurately, and becomes steadily harder for a team to read. Read the cost column, and treat a bearer's account of a shift as partial by design rather than by any dishonesty.
+**Stat interpretation:** γ and the listed combat/resistance values describe item performance, not the set's cost to a person. The Lens spends small, nameless memories; the Veil makes its wearer feel absent; the Key irreversibly trades a personal memory, with the primary saying the plate chooses the payment and the item record leaving the chooser unassigned. The cumulative organizational cost is legibility: a wielder can perform well and report accurately while becoming harder for a team to read. Treat a shift account as partial by design, not dishonest.
 
 ## 관찰 기록 (Observation Log)
 
