@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 130 — full-SE M.A.W. source review (open at five)
+
+**Authorization (2026-10-16):** Owner `p` after delivered Batch129 authorizes one next batch. Fresh pending-only worst-first ranking: O-IIβ-796 Spire of Unanswered Prayer0.005745063; O-IIγ-007 Brume0.005743825; N-IIIγ-184 Redacted0.005723006; N-IIIβ-156 Deadline0.005694936; N-IIβ-627 Harvest Beyond the Gate0.005686126. Inventory301,167 markers/165 counted,134 eligible after SilentChildN-Iα-025 and InheritorC-IIIγ-062 exclusions. Opening Full-SE165/301=54.82%,136 remain; independent Weapon182/287=63.41%,105 remain. All five will be read with complete exact A–D sets and histories; each defect set classified with counts before its edits. Spire has full interactions, Watch Record and duplicated Tale: not simple; close this batch at five, no expansion.
+
+**Baseline/recovery:** Clean tree at verifieda26168c1, no recovery mutation needed. Complete root393 lines (truncated combined output repaired by bounded reads), precaution285 and R31 read; R15/R18/R19/R26 read. LorePASS/1793 timeline files0contradictions/1761 seam files0violations/boxPASS. Comparator limit0 baseline retained outside Git. PR14 OPEN draft→NON-WIKI on assigned arena/954853ad-project-somnarak-wiki. External finished-style reference reread: English management record at https://github.com/stalad519-lang/salads-leucotomy-branches/blob/main/src/data/abnormalities/imaginary-friend.ts; flat conditions/Unknown retained, fan source not Somnarak canon. Batch301 stays owner-authorized4+4 variant blocked on eight external bodies; no fabrication or copy before generate/validate.
+
+**Unit1 pre-edit R18 split:** One batch-short markup repair: Appearance label mirrors the completed Suit/Stigma labels in this file, with exact-match/length assertion. Two careful-detail additions: source attribution/corrosion binding and piece-return care connected to the career listening ceiling. No numeric conflict selected. These are edits within one complete primary review, not three review dispositions.
+
 ### Batch 129 closure — five source-led dispositions, no expansion
 
 **Verdict:** Five dossier units and two small reread follow-ups passed and were pushed independently. Opening7b372f9f; original units269147d8/2535efca/13baddf7/d196d2cc/95fa363a; Swallow follow-upd2c8a51f and Silent Maiden follow-upb960ed25. All PUSH VERIFIED. Closure a07f1ff5 passed its gate and was PUSH VERIFIED; this log-only follow-up reconciles Changelog unit hashes/source labels and its Swallow word count with the already correct closure table. No held profile is silently selected.
