@@ -232,7 +232,7 @@ The Keystone lends structural knowledge without granting permission to finish th
 
 A piece cut from Cleaved is not equipment turned against the holding; it is a part of the holding carried away, and it works by being what it is near. The toll is the drain the file already records — small nameless memories, and a wearer who grows faintly absent to themselves — and it is paid whether the use was correct or not. That is why the set is issued one rotation at a time.
 
-For issue, name Cleaved’s stopped tower project and accept the limit: document what was intended and lost without completing the structure. First-person ownership of the source event, then source responses repeating outside contact, precede the terminal condition in which the bearer becomes a new site for the manifestation. This is distinct from the primary warning that a wearer cannot answer for their own presence; neither warning is evidence of recovery.
+For issue, name Cleaved’s stopped tower project and accept the limit: document what was intended and lost without completing the structure. First-person ownership of the source event, then source responses repeating outside contact, precede the terminal condition in which the bearer becomes a new site for the manifestation. The second worker also watches for the wearer’s inability to answer for their own presence, independently of any claim about the source; neither warning is evidence of recovery.
 
 The set is *Cleaved — Witnessed Form*, and *Source Kept Distinct* requires attribution before an immediate hazard is opened. It cannot heal the originating event. The field record may close an exposure or return an item; it cannot close a works-register entry, release assigned crews or convert the nil return into cancellation.
 
