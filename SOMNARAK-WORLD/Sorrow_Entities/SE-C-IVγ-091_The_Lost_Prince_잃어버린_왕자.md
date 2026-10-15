@@ -183,6 +183,8 @@ Work on this holding is a sitting job and the readings reflect it. Flerehan and 
 
 **Appearance:** a slender blade of Lament Han-crystal, cool and faintly luminous, that hums when gripped and holds the note a beat longer than the hand does.
 
+At rest the blade folds into a small circlet around a blue hilt, too narrow to wear. On opening, its points remain at the guard. A formal relief contact is required before draw. Forced opening after an impossible promise turns the points inward; the bearer alone receives the Lament. Dependency is not protection: using the blade to keep somebody dependent changes its song into the Prince’s search call.
+
 **Damage:** Lament 7–12
 **Speed:** 3 (Fast)
 **Range:** 3 (Medium)
@@ -204,6 +206,8 @@ Work on this holding is a sitting job and the readings reflect it. Flerehan and 
 
 **Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin and is cut long enough to be pulled over the face, which nobody on this post does.
 
+The collar carries a departure time signed by wearer and relief. *Visible Handover* requires the arriving worker and the protected person, or their recorded representative, to acknowledge the transfer. The layer holds only through that transition and ends if consent is withdrawn. A forged relief signature knots the collar and applies the full wearer cost at once; it cannot substitute a name for an arrival.
+
 **Resistances:**
 - Lament: 0.4 (Resistant)
 - Grudge: 1 (Normal)
@@ -222,6 +226,8 @@ Work on this holding is a sitting job and the readings reflect it. Flerehan and 
 
 **Appearance:** a tear-drop charm of Lament Han-crystal, cool and faintly luminous, that matches no crystal in his crown — the file checks that first, because the crown's points are the holding's instrument and its tears do not leave it.
 
+A line sharpens for a consented observation, not for an accusation. *Name the Break* locates the separation panic without explaining why somebody left, proving consent or deciding whether they should stay. A second charm turns transparent. If every line appears broken, including healthy bonds, the bearer’s own unacknowledged grief has entered the reading.
+
 **Slot:** Tail
 **Acquisition Probability:** 4%
 **Effect:** +2 to work against the Lost Prince himself, and nothing elsewhere in the Echo Gardens.
@@ -235,6 +241,10 @@ Work on this holding is a sitting job and the readings reflect it. Flerehan and 
 ### M.A.W. Use Notes
 
 These pieces are The Lost Prince in miniature: the blade carries the question, the shroud carries the interval, and the charm carries the bonds. What they take is the wearer's unwept grief, which comes off as involuntary weeping most often while writing a handover note, and the Armoury enters both the gift and the cost against the wearer rather than the piece — which is also how the holding reads its own staff.
+
+*Unanswered Court* carries connection without possession. At return, state what task ended and who assumed any continuing duty. The designated relief takes the hilt and closes the crown points one at a time; snapping them shut sounds a room-wide Lament note.
+
+Keep the Shroud’s departure and arrival notes in its sleeve until inspection, recording what passed between workers and what was not promised. A cold rigid collar is a stand-down sign, not a reason to stay longer. For the charm, list only bonds relevant to the consented task and mark the others “not mine to pursue”; wrap it in blue cloth. A second person can cover it and name one present, chosen bond. Breaking the crystal releases its full map into the bearer’s Clarity instead of ending the burden.
 
 ### Field Use Record
 
