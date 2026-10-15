@@ -59,16 +59,17 @@ Chatroom"*). It binds every report: units, batches, audits, closes, answers to q
 
 | Order | Block | What it holds |
 |---|---|---|
-| 1 | Verdict | Unit, hash, `PUSH VERIFIED` |
-| 2 | What changed | Two to five plain sentences |
-| 3 | Tables | Before → after, with captions |
-| 4 | Links | One `R-12` link per finished dossier |
-| 5 | Live counters | The stage counters, each as `x / y` |
-| 6 | Next | What comes next, and what is needed from the owner |
+| 1 | Verdict | Unit, hash, `PUSH VERIFIED` or `NOT PUSHED` |
+| 2 | Progress lead | Full-SE and Weapon-only percentages, then denominator-bearing remaining counts |
+| 3 | What changed | Two or three plain content sentences per dossier |
+| 4 | Table | Caption, one row per dossier, linked name, short change, checks, commit and push |
+| 5 | Links | One full `R-12` link per finished dossier, below the table |
+| 6 | Live counters | Separate Full-SE and Weapon-only totals, definitions, exclusions, then batch-local progress |
+| 7 | Next | Next step, any owner authorization needed, and branch/PR state when relevant |
 
 ### A failure is redone
 
-A report that breaks any of 1–15 is rewritten in the same turn, before any further work is started.
+A report that breaks any of 1–20 is rewritten in the same turn, before any further work is started.
 Readability refusals are recorded like gate refusals: what failed, what was rewritten, and that the corrected
 version is the one that stands.
 
@@ -114,9 +115,36 @@ actually changed. Such a report is readable and empty at the same time, and the 
 
 ### What this changes in the fixed order
 
-Block 2, *What changed*, is the one this amendment is mostly about. It holds the **content** of the change
-first and the measurement second. Block 3, *Tables*, holds the numbers. A report that puts numbers where the
-content belongs has the order right and the emphasis wrong, and is rewritten.
+Block 3, *What changed*, holds the **content** of the change first and the measurement second. Block 4,
+*Table*, holds the compact per-dossier recap. Block 2 is a deliberately short cumulative-progress lead; it is
+repeated in full, with definitions, in Block 6. A report that puts numbers where the content belongs has the
+order right and the emphasis wrong, and is rewritten.
+
+## Amendment, 2026-10-15 — the approved chatroom report is the standard
+
+**Stated by the archive owner, 2026-10-15:** *"What You Do On Chatroom Is What You Should Always Do From Now On
+And IF Can Write It As RULE That Need To Be Followed."*
+
+The previous readable batch-close format is now the must-follow default for every chatroom progress report,
+not only for this batch. The fixed order above applies. The cumulative-progress lead comes immediately after
+the verdict, so both independent workstreams are visible before the content recap.
+
+19. **Lead with cumulative progress.** Immediately after the verdict, report Full-SE and Weapon-only
+    separately as a percentage out of 100%, followed by the remaining count with its named denominator, such
+    as `191 / 301 remain`. Do not combine the two workstreams. Repeat the complete counts later in the live
+    counter block; batch-local `x / y` is secondary and must not replace cumulative coverage.
+20. **Close a batch with eight required fields.** The report is stand-alone and records: (1) the owner's
+    authorization and batch size; (2) the fresh ranking, selected order, and any correction; (3) two or three
+    content sentences for each dossier; (4) the source evidence checked and disagreements left on hold; (5)
+    validation results; (6) each dossier's commit and verified push status; (7) separate cumulative counters,
+    exclusions, and secondary batch-local progress; and (8) the next step, any authorization needed, and
+    branch or pull-request status when relevant. Put each field in the block that fits the fixed order; do not
+    add a second dossier-summary table just to repeat it.
+
+A `p` authorization is one next batch only. An explicit batch-size instruction applies only to that batch.
+Never imply that a held disagreement is a defect finding, that an unreviewed dossier is defective, or that a
+previously reviewed Weapon pair was counted again. Generate each table's dossier link with
+`tools/ghlink.py --short --plain <path>`; keep the separate full `R-12` link below the table.
 
 ## How it is checked
 
@@ -124,7 +152,7 @@ content belongs has the order right and the emphasis wrong, and is rewritten.
 | Check | Where it is applied |
 |---|---|
 | This rule read before the report is written | Every turn, at session open and before replying |
-| The 15 points walked once, top to bottom | Before sending any chatroom message |
+| The 20 points walked once, top to bottom | Before sending any chatroom message |
 | Counters re-measured, not remembered | `verify.py` · `tpl.py` · `sectfile.py` · `wikistd.py` · the couples planner |
 
 No tool can read a chatroom, so the check is the list above, applied by hand before sending. This rule

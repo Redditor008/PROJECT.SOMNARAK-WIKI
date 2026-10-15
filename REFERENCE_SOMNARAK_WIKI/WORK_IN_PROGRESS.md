@@ -7,9 +7,21 @@ This file is the running state of the project. It is updated at the end of every
 
 **Volume split, 2026-10-09 — the record no longer fits in one file.** `WORK_IN_PROGRESS.md` had reached 718,945 B and `CHANGELOG.md` 755,141 B. GitHub truncates blobs at roughly 500 KB in the browser and stops displaying them past about 1 MB, so both were already being read in cut-off form. The closed work was moved **byte-for-byte** into numbered volumes — `WORK_IN_PROGRESS_VOL_01.md` onward, `CHANGELOG_VOL_01.md` onward — with a volume index in each live file. Nothing was rewritten, reordered within a volume, or deleted, and both splits were verified lossless line-by-line against `7b804e7`. New entries continue to go into the live files.
 
+## Chatroom reporting rule amendment — 2026-10-15
+
+The owner directed that the previous readable chatroom report become the must-follow standard from now on. `R-31` and its Rules index now require a cumulative progress lead after the verdict, two or three content sentences per dossier, a captioned linked table, separate `R-12` links, defined counters, and eight closeout fields. The table link is generated; the separate `R-12` link remains required.
+
 ## Full-SE M.A.W. audit — active scope (expanded 2026-10-11)
 
 **Current cumulative full-SE coverage through Batch 118 / unit 5:** **36.54% / 100% complete**; **191 of 301 primary dossiers remain** (110 counted dispositions; 112 repository review markers, including paused Silent Child and scope-unconfirmed Inheritor, which remain excluded; 189 eligible cases remain pending). Separately, **Weapon-only coverage is 49.48% / 100% complete**; **145 of 287 eligible pairs remain** (142 counted source-led dispositions). Fourteen primary dossiers remain outside paired scope. Holds count as dispositions, not defect findings; unreviewed cases are not presumed defective.
+
+## Batch 119 — full-SE M.A.W. source review (one `p`-authorized batch)
+
+**Opening authorization and ranking (2026-10-15):** The owner's latest `p` authorizes exactly one next batch. R-26 requires at least five eligible dossiers and does not carry authorization forward. The fresh worst-first pending-only `tools/sect.py --files 302` ranking was run on synchronized tip `01424d5` over 302 Markdown inputs: 301 SE dossiers plus the non-SE Book of Regressor Log. The review-marker inventory reconciles 112 markers: 110 counted dispositions plus the paused Silent Child and scope-unconfirmed Inheritor exclusions, leaving 189 eligible pending cases. The selected five, in exact worst-first order, are Stranded Between Two Shores `C-IVδ-823` (**0.008147430**), Pent `N-IVδ-821` (**0.007881773**), Cold Burn `C-IVδ-505` (**0.007823366**), Weeping Statue `C-IIβ-055` (**0.007787873**), and Frozen Window `C-IIβ-330` (**0.007623888**). No already-reviewed or out-of-scope dossier was added.
+
+**Opening counters:** Full-SE is **36.54% / 100% complete**; **191 / 301 remain**, with **189 / 301 eligible pending** after the two exclusions. Weapon-only is **49.48% / 100% complete**; **145 / 287 eligible pairs remain**. There are 142 counted Weapon-only dispositions, and 14 primary dossiers are outside paired scope.
+
+**R-26 simplicity decision:** The five primaries contain 7,285–8,589 words and each has a complete Entity Interaction Record. Stranded Between Two Shores, Pent, and Cold Burn also have Apex Records; Weeping Statue and Frozen Window have Watch Records. None meets the simple-case test, so the batch stays at **5 / 5** and does not expand to seven. Batch-local counts are secondary to the cumulative ledgers. Exact Weapon-pair histories are being checked separately; no pair is counted from the ranking alone.
 
 
 ## Batch 118 — full-SE M.A.W. source review (one owner-authorized five-dossier batch)
