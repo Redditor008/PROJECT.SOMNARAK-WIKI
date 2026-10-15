@@ -236,6 +236,8 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Appearance:** a shield-backed harness of Grudge Han-iron, dark and faintly warm, that tightens a notch while the wearer is being argued with and slackens when the argument stops. The armoury has measured the notch and has no explanation for it on file.
 
+Its case carries one condition in the wearer's own hand: the plate may never be used to block an exit from somebody who has a right to leave, and before every issue the route is drawn on the case and checked against the actual site by a release observer rather than against the drawing. Used to pen people in, the grid turns inward and the wearer feels every unjust confinement the source is carrying until the route is reopened; the overload condition is the grid forming with no visible gap, which the armoury enters as a fault in the bearer and not in the plate. Deployed to grade it catches one rage-based strike and puts it into unoccupied ground, and it is not signed back in until the exit is confirmed still open.
+
 **Resistances:**
 - Lament: 1 (Normal)
 - Grudge: 0.4 (Resistant)
@@ -254,6 +256,8 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Appearance:** a small charm of Grudge Han-iron that weighs more than its size accounts for, and grows heavier in a room where somebody is being blamed for something they did not do. The weight returns to its resting figure within an hour of leaving the room.
 
+It is issued with a partner and never alone: a candidate accepts an oversight partner who can reject a use motivated by retaliation, and the charm comes off when that partner unhooks it — after the barrier report carries a concrete follow-up rather than a promise of one. It is read one barrier at a time, and a second charm on the same bearer produces two conflicting bars, neither of them reliable. What it will not do is what the wing keeps asking of it: it cannot establish legal guilt, prove intent, or let a bearer override a restriction they merely dislike, and its hidden cost is that the bearer's anger sharpens in proportion to how plainly the barrier shows.
+
 **Slot:** Tail
 **Acquisition Probability:** 4%
 **Effect:** +2 to the working stat against Redcage, and for as long as the charm is worn the bearer can hold a grievance in mind without needing to say it aloud. Bearers report that the second half is what they miss when the piece goes back.
@@ -268,14 +272,18 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 All three pieces are made of the same thing the bars are made of, and they behave like it: they shield absolutely, they do not yield, and they will not let the wearer forget an injury. The listed benefit is real and the cost is that grievance becomes easier to hold and harder to put down. Forcing a piece against its design raises the cost rather than breaking the piece. No protocol produces a Stigma here.
 
+Each piece keeps its own account of that grievance. The censer takes the body first: old injuries ache in the order they were received, and the chain leaves a bruise across the palm that the armoury has learned to expect rather than to log as an injury. The shield takes the wearer's sense of the room — the first sentence in which somebody describes a room as smaller than it measures is the limit and is entered as one. The charm takes the temper, and the oversight partner exists because that cost arrives before the bearer notices it.
+
+The set is extracted rather than issued. A worker finishes Viderehan without touching the bars, then names a documented injustice and the limit of the current record; if the cage's pulse slows without anyone attempting to open it, one crimson echo may form beyond the outer bar, and pried fragments are not M.A.W. Worn complete, the resonance is called the Open Bar and it runs on three things at once — a real barrier, a safe route out, and somebody besides the bearer who can acknowledge the harm. Its cost is that every injustice named through the set stays emotionally present until a follow-up action rather than a report is entered, and retaliatory use locks the set into a closed-bar state. The source reaction it draws is a single bar slowing and not vanishing, which the file states plainly, because acknowledgment is not erasure.
+
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, grade, gauge, state, condition of the piece, the objective, and whether the wielder is party to any live grievance, complaint or disciplinary matter. The last field is a bar to issue, not a note. |
-| **During use** | Activation time, effect strength, the area protected, who was inside it, and the first cost noticed by anybody other than the wielder. |
-| **At limit** | Hours worn, activations, the wearer's own count against the second worker's, and the first sentence in which the wearer describes a room as smaller than it measures. That sentence is the limit and is entered as one. |
-| **After use** | Removal, injuries, and whether the wearer left the room without checking the door. The last field has been recorded at every issue since the set was struck, and the armoury reads it before any other. |
+| **Before use** | Wielder, grade, gauge, state, condition of the piece, the objective, and whether the wielder is party to any live grievance, complaint or disciplinary matter. The last field is a bar to issue, not a note. On the shield and the charm the release route is drawn on the case and checked against the site by a release observer, and the oversight partner's name is entered with it. |
+| **During use** | Activation time, effect strength, the area protected, who was inside it, and the first cost noticed by anybody other than the wielder. Whether the route stayed open is logged at the same interval, and a route that closes mid-use is entered as the moment the use ended, whoever ended it. |
+| **At limit** | Hours worn, activations, the wearer's own count against the second worker's, and the first sentence in which the wearer describes a room as smaller than it measures. That sentence is the limit and is entered as one. A charm bearer's temper is the second limit and is called by the oversight partner rather than by the bearer, and the partner's call does not require the bearer's agreement. |
+| **After use** | Removal, injuries, and whether the wearer left the room without checking the door. The last field has been recorded at every issue since the set was struck, and the armoury reads it before any other. The barrier report is closed with a follow-up action and not with an intention, and the charm is unhooked by the oversight partner only once that action is on the record. |
 
 **Stat interpretation:** Grade states how hard a piece works and nothing about what it does to the person wearing it. This set performs well and has never failed in the field; the armoury's objection to it is that everybody who has carried it for a season has become harder to settle an argument with. Read both columns and authorise on the second.
 ## 관찰 기록 (Observation Log)
