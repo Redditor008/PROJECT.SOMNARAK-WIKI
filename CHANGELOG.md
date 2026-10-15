@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+**Batch 128 / unit 1 — The Lonely Giant `C-IIIγ-105` (`pending push`):** [[SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-105_The_Lonely_Giant_%EC%99%B8%EB%A1%9C%EC%9A%B4_%EA%B1%B0%EC%9D%B8.md "SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인.md")] Extended all three equipment profiles and Room to Stand/Enough Space with supported load limits, consent, one-impact protection and separate shutdown/care. Kept existing numeric stats and unnamed +2; replaced Registry edit-history narration with its own Pattern Book record. C-locale wc -w **7,257→7,575**.
+
+**Unit 1 evidence:** Whole445-line primary, exact SE-105-A–D4/4 all appearance/history/care; CSV338–341, Master49–51/table89–91/detail1355–1386, Entity381, Tale17/942–994, archetype97, R19Neutral222. Six WIP/Changelog history files searched by designation, Giant/Maul and exact B/MAW IDs; B25 and B49 entries read.
+
+**Unit 1 holds:** Ring warm versus item cold and Head registration versus finger-shaped item; seven shed-crystal rings versus footprint-circle bestowal4%; generic Registry Accessory5%. Archetype Room vs Medium3. Existing primary strike-and-Tick convention versus item direct profile does not establish a Tick duration. Force/age/fatigue remain separate piece costs. Route no-following/no-structure-contact versus pursuit labels, one contacted structure and collapse records; trigger2/75/65; standard-entitlement/no-refusal origin versus exclusion Tale. No chamber/route or source-event timeline reconciled.
+
+**Unit 1 exact-pair history:** No prior exact SE-105-B/MAW-W-105-01 source-led Weapon disposition found. B25/B49 are prose passes, not pair reviews. Weapon increment +1. **R-19:** Neutral index222 retained with explicit institutional-effect hold: primary reports transient bilateral calming with Colossus and steady Mother gauge rise across four pairings, contrary to index no-assistance wording. Soldier shortens this entity’s walk; Healer changes neither gauge. These mixed results and off-route structural harm are not erased or reduced to an unsupported net class.
+
+**Unit 1 validation and counters:** RESIDUAL0, seam[], pipeTrue, dupes[]; template RESIDUE0; no section over0.05; GENERIC≤0.05; wording meetsTrue; diff check clean. Full-SE **156/301=51.83% /100%** (145 remain;143 eligible after two exclusions). Independent Weapon-only **177/287=61.67% /100%** (110 remain). Batch **1/5** full-SE reviews. Side/item and supplementary sources unchanged; no disposition-index entry changed.
+
 ## Batch 128 — full-SE M.A.W. source review (open at five)
 
 **Authorization (2026-10-16):** Owner `p` after Batch127 authorizes one next batch. Start at five; expand only if the five meet R-26 simplicity and first-gate conditions. Fresh pending-only worst-first selection, with designation suffixes preserved:

@@ -183,6 +183,8 @@ The table is one input among many, and here the code and the coherence level dec
 
 **Appearance:** a two-handed Weight Han-steel maul, matte and heavier than its length explains, that answers the tremor with a pulse of its own when it is drawn — on a figure that walks, the set's only piece that reads distance.
 
+A load-limit line crosses the broad, unpolished head. The ribbed haft ends in an open grip cuff accessible to the supporting partner. Before drawing, name the obstruction, the set-down point and the person who may end the lift. A claim to carry everything alone leaves the head immovable; a shared plan is required before it will strike.
+
 **Damage:** Weight 7–12
 **Speed:** 3 (Fast)
 **Range:** 3 (Medium)
@@ -204,6 +206,8 @@ The table is one input among many, and here the code and the coherence level dec
 
 **Appearance:** a draped mantle of Weight Han-weave, matte and heavy across the shoulders, that draws in near the source element: within the tremor's line the weave tightens of its own accord, and the wearer's first warning of the Giant's approach is the coat.
 
+The collar opens onto a narrow space only after the wearer names somewhere to rest. *Make Space* holds a position through one impact sequence when the support person confirms the path there. Staying after the declared task ends hardens the field around the boots. Refusing assistance pins the hem and returns Weight resistance to normal; it does not make the wearer a stronger anchor.
+
 **Resistances:**
 - Lament: 1 (Normal)
 - Grudge: 1 (Normal)
@@ -222,6 +226,8 @@ The table is one input among many, and here the code and the coherence level dec
 
 **Appearance:** a ring of Weight Han-steel, matte and heavier than the hand expects, warm to the touch; it is sized to be worn while working and is the piece issued to the workers who will be standing in the tremor line and talking.
 
+For *Leave Room*, identify the load’s owner and receive permission before the defined lift. Prepared support points share the Weight; neither consent nor structural safety can be supplied by strength. Seizing somebody against their choice makes the load unbearable until release. A second Ring leaves both hands uselessly heavy, not twice as strong.
+
 **Slot:** Head
 **Acquisition Probability:** 4%
 **Effect:** +2 to the working stat, and for about a day the wearer notices every doorway, bench and stair they pass that somebody could not use.
@@ -235,6 +241,10 @@ The table is one input among many, and here the code and the coherence level dec
 ### M.A.W. Use Notes
 
 All 3 pieces extend the Giant rather than arm anybody against it. They behave only inside the pattern this file records — the figure walking, the tremor arriving first, a worker standing still and speaking — and outside it the charge bills early and does not reverse: the wearer gets progressively heavier, and long use ages them by an amount nobody has managed to name.
+
+The set is *Room to Stand*. Its full-set resonance, *Enough Space*, requires willing support and a named limit before lifting, striking or holding. Severe Weight is distributed across prepared ground, equipment and helpers rather than carried by one body. Documented rest follows release. Claiming an indefinite capacity leaves the set immovable until somebody else confirms that the task has ended.
+
+Return the Maul to a marked floor cradle until the post-use weight check is signed. The partner braces its head, states the agreed limit and opens the cuff from behind; pulling it free sends the rebound through the bearer’s joints. Lay the Mantle flat at its rest location and trace the collar while naming a burden to hand off. For Ring removal, set down every current load and name what is being released before the partner removes it. Store it on its low rest stone, never as a trophy.
 
 ### Field Use Record
 
@@ -432,7 +442,7 @@ The issue clerks asked for one power: to fit a suit to a man in a single case, w
 - **Classification detail:** The Lonely Giant is a Subject with Fragment (III) — Gentle and sad coherence and Major (γ) — High danger potency.
 - **Field detail:** Element Weight, registered to Zone D — wanders, semi-contained — where containment is a route rather than a perimeter: the figure crosses the district placing its feet, the tremor is read from the ground, and no crew forms a line in its path.
 - **Recognition detail:** A twenty-metre figure of dark, dense flesh knotted with Han-crystal, walking slowly and placing its feet, warm to stand near, wet stone on the air, and a tremor that arrives before it does.
-- **Record detail:** The breach quotation claimed indiscriminate hunting and deliberate pursuit against a First Target row reading *Nobody* and a holding that has never intentionally harmed anyone; the handling line said redirect away from structures against a standing order to track the route and clear it. The Registrum rated the holding Moderate against a Major (γ) header. The Interaction Record carried a related entity named *The Grieving The Lonely Giant*, a substitution fault for The Grieving Colossus. All corrected. The Warden Record, the wide corridor and the specification note are untouched.
+- **Record detail:** The route book keeps the Issue Office return beside the measured distance, not beside a count of hostile acts. Standard provision protects citizens from an officer deciding who deserves accommodation; it also leaves a person whom the pattern does not fit with nothing usable to draw. The unsigned Pattern Book keeps names out of that decision. Its nine adopted proposals in Year 4237 and six-year median delay are entered alongside the 3,174 people who drew nothing, without treating adoption as a remedy already received.
 - **Containment detail:** It does not need to breach to be dangerous, and containment here limits movement rather than influence: the sorrow radiates regardless of walls. What the file actually manages is the distance between its walk and anybody's door — and the one thing the record treats as certain is that force makes it worse, because the holding is loneliness and a pushed giant is a lonelier one.
 ## Document Information
 
