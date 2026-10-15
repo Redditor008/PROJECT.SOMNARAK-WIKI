@@ -27,6 +27,8 @@ The owner directed that the previous readable chatroom report become the must-fo
 
 **Unit 1 checkpoint:** Full-SE **146/301 = 48.50% / 100%** (155 remain; 153 eligible after two exclusions). Weapon-only **170/287 = 59.23% / 100%** (117 remain). Batch **1/5 full-SE** and **0 new exact Weapon pairs**.
 
+**Batch 126 / unit 1 layout follow-up:** Readback found the added after-use instructions in the Stage cell instead of Required record. Moved them into Required record without changing words or meaning; 7,321→7,321 C-locale words, all per-file checks pass. This is a table-readability correction to c9fb9a1, not another dossier or Weapon disposition.
+
 ## Batch 125 — full-SE M.A.W. source review (closed at five)
 
 **Authorization and selection (2026-10-15):** The owner's `p` after Batch 124 authorized one next batch, now spent. Fresh pending-only worst-first ranking at synchronized `6b3f813` selected Debtor C-IIIγ-061 0.006599299, Sehnsucht O-IIIγ-476 0.006587374, Burning Root C-IIIγ-558 0.006535948, Repeated Survivor N-IVδ-902 0.006522384, I Alone Crossed C-IVδ-106 0.006353485. All five have full Interaction Records and bespoke Warden/record sections; R-26 remains five, not seven. Opening Full-SE 140/301 (46.51%; 161 remain, 159 eligible); Weapon-only 165/287 (57.49%; 122 remain). Branch synchronization, UTF-8 designation suffixes and the two exclusions were preserved.
