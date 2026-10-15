@@ -181,7 +181,7 @@ Read this table as a list of things done to her rather than as a set of options,
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of Void Han-glass, near-colourless and cold to the hand, that shows whoever looks into it as a shape without a face — and keeps showing them that way for a few seconds after they look away. Its plain dark frame sits on a short black handle, with a thumb notch near the rim and a thin grey ring just inside the glass. The frame is low and unpolished; the belt loop carries the handle, not an exposed edge of glass.
+**Appearance:** a lens-ground disc of Void Han-glass, near-colourless and cold to the hand, that shows whoever looks into it as a shape without a face — and keeps showing them that way for a few seconds after they look away. Its plain dark frame sits on a short black handle, with a thumb notch near the rim and a thin grey ring just inside the glass. The frame is low and unpolished, and the Lens is light enough to carry on a belt loop.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)
