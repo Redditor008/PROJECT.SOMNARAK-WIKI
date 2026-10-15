@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 128 — full-SE M.A.W. source review (open at five)
+
+**Authorization (2026-10-16):** Owner `p` after Batch127 authorizes one next batch. Start at five; expand only if the five meet R-26 simplicity and first-gate conditions. Fresh pending-only worst-first selection, with designation suffixes preserved:
+
+- `C-IIIγ-105` — The_Lonely_Giant_외로운_거인 — 0.006097561
+- `C-IVδ-923` — Hatred_Above_분노의_폭풍 — 0.006078148
+- `C-IIIβ-014` — The_Debt_Eater_빚을_먹는_자 — 0.006051976
+- `C-IVγ-091` — The_Lost_Prince_잃어버린_왕자 — 0.005958292
+- `C-IIIγ-180` — Owed_빚의_벽 — 0.005902707
+
+**Opening counters:** Full-SE155/301=51.50% (146 remain;144 eligible after two exclusions). Weapon-only176/287=61.32% (111 remain). 157 full-set review markers comprise155 counted plus paused Silent Child N-Iα-025 and scope-unconfirmed Inheritor C-IIIγ-062. Exact-pair prior histories must be checked before any Weapon increment. Holds are dispositions, not defect findings. No sixth dossier authorized unless the simplicity ratchet is earned.
+
+**Recovery and baseline:** Restored checkout had HEAD10cd20a while all working files exactly matched remote7a5df4f. Verified every tracked blob against the remote tree, then fast-forwarded metadata only, preserving all working files. No owner file or upload removed. Baseline lore/timeline/seam/box checks PASS. PR14 OPEN draft→NON-WIKI. Corrected an overbroad scratch rank parser before selection; measured inventory and first five agree with Batch127 closing queue. Batch301 remains the owner-authorized4+4 variant blocked on eight external bodies; none invented.
+
 **Batch 127 close (2026-10-15):** Owner `p` authorized one next batch. **5/5 full-SE** careful-detail reviews completed in the fresh pending-only worst-first order Emberling101, Unrung170, Folly329, Vanity Asleep954, Cenotaph525. Re-ranking after each unit preserved that order. All five have full Interaction and Watch/Apex records, so none is simple and the seven-unit rung was not opened. **0 batch-short / 5 careful-detail** completed. No sixth dossier or supplemental Weapon case was added. This authorization is spent.
 
 **Final independent counters:** Full-SE **155/301 = 51.50% / 100%** (146 remain;144 eligible after paused Silent Child N-Iα-025 and scope-unconfirmed Inheritor C-IIIγ-062). Measured inventory157 markers =155 counted +2 exclusions; primary designations301/301 remain unique with suffixes preserved. Weapon-only **176/287 = 61.32% / 100%** (111 remain). Fourteen primaries remain outside paired scope. Batch added five full-SE reviews and **three new exact Weapon dispositions**: SE-329-B/MAW-W-329-01, SE-954-B/MAW-W-954-01, SE-525-B/MAW-W-525-01. Emberling101 and Unrung170 were already held/reconciled B77/B78 and are not recounted. B91 Anonym’s duplicate Lens reference did not disposition Folly’s distinct pair.

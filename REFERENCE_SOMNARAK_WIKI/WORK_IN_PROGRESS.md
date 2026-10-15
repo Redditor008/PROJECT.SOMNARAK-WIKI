@@ -15,6 +15,20 @@ The owner directed that the previous readable chatroom report become the must-fo
 
 **Current cumulative full-SE coverage through Batch 127 / unit 5:** **51.50% / 100% complete**; **146 of 301 primary dossiers remain** (155 counted dispositions; 157 repository markers including paused Silent Child and scope-unconfirmed Inheritor, both excluded; 144 eligible cases remain). Separately, **Weapon-only coverage is 61.32% / 100% complete**; **111 of 287 eligible pairs remain** (176 counted source-led dispositions). Fourteen primary dossiers remain outside paired scope. Holds count as dispositions, not defect findings; unreviewed cases are not presumed defective.
 
+## Batch 128 — full-SE M.A.W. source review (open at five)
+
+**Authorization (2026-10-16):** Owner `p` after Batch127 authorizes one next batch. Start at five; expand only if the five meet R-26 simplicity and first-gate conditions. Fresh pending-only worst-first selection, with designation suffixes preserved:
+
+- `C-IIIγ-105` — The_Lonely_Giant_외로운_거인 — 0.006097561
+- `C-IVδ-923` — Hatred_Above_분노의_폭풍 — 0.006078148
+- `C-IIIβ-014` — The_Debt_Eater_빚을_먹는_자 — 0.006051976
+- `C-IVγ-091` — The_Lost_Prince_잃어버린_왕자 — 0.005958292
+- `C-IIIγ-180` — Owed_빚의_벽 — 0.005902707
+
+**Opening counters:** Full-SE155/301=51.50% (146 remain;144 eligible after two exclusions). Weapon-only176/287=61.32% (111 remain). 157 full-set review markers comprise155 counted plus paused Silent Child N-Iα-025 and scope-unconfirmed Inheritor C-IIIγ-062. Exact-pair prior histories must be checked before any Weapon increment. Holds are dispositions, not defect findings. No sixth dossier authorized unless the simplicity ratchet is earned.
+
+**Recovery and baseline:** Restored checkout had HEAD10cd20a while all working files exactly matched remote7a5df4f. Verified every tracked blob against the remote tree, then fast-forwarded metadata only, preserving all working files. No owner file or upload removed. Baseline lore/timeline/seam/box checks PASS. PR14 OPEN draft→NON-WIKI. Corrected an overbroad scratch rank parser before selection; measured inventory and first five agree with Batch127 closing queue. Batch301 remains the owner-authorized4+4 variant blocked on eight external bodies; none invented.
+
 ## Batch 127 — full-SE M.A.W. source review (closed at five)
 
 **Authorization and opening (2026-10-15):** Owner `p` after Batch126 authorizes one next batch. Restored HEAD10cd20a showed a stale dirty snapshot; syncbranch proved it matched pushed history and safely recovered 50 commits to2bd712f. No force push, discard or lost work. Fresh 301-code suffix-preserving pending-only rank found152 review markers (80 in-file,56 strict WIP headers,16 B111–114 table entries),150 counted and149 eligible after two exclusions. Opening Full-SE150/301=49.83%,151 remain; Weapon173/287=60.28%,114 remain. Pre-edit ranks: C-IIβ-101 0.006189821, C-IIβ-170 0.006189076, C-Iα-329 0.006163022, N-IIIγ-954 0.006114274, N-IVδ-525 0.006111224. Re-rank after each unit. All five have populated Interaction Records and bespoke Watch/Apex records: non-simple, no seven-unit rung. R18:0 batch-short,5 careful-detail reviews. No extra Weapon cases are authorized merely to make five new pairs. Emberling and Unrung already have B77/B78 Weapon dispositions.
