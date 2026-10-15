@@ -94,7 +94,7 @@
 
 - A worker who cannot hold against the pressure does not panic and does not slow down; they stop registering fatigue. Resilience goes into the composure itself, the exposure cap starts to read as conservative, and the gauge rises on the willingness rather than on the strain — which is why the watch is ended on that observation alone.
 - The effects intensify with duration and the mechanism is simple: the longer a person stands in air that burns without being hot, the more reasonable it seems to sigh on the site's behalf. That urge is the hazard, it is named in the briefing as the hazard, and it is the reason the cap is measured in minutes rather than in cycles.
-- Each M.A.W. activation takes a personal debit in composure, memory and years, as codified in the equipment file. This set bills in relief: wielders stop being able to feel the end of anything. Work finishes and nothing lifts, which they report late, because there is no moment at which an absence of relief announces itself.
+- The equipment costs are piece-specific: the Weapon aggravates old injuries and leaves bruising across the ribs and diaphragm, the Suit dulls reflexes and shallows breathing, and the Stigma makes nearby hidden exhaustion felt. Across the set, the deeper loss is relief: wielders stop being able to feel the end of anything and may report it late.
 - Without resolution the held breath does not disperse but spreads, taking in more of the surrounding ground and leaning the structures at the new edge the way the existing ones already lean. It does not escape. It never has; it accumulates, which is what the empty counter row on this holding actually describes.
 
 ## Appearance
@@ -240,7 +240,9 @@ The flint mechanism strikes a sparkless steel battery that ignites Void-powder w
 
 ### M.A.W. Use Notes
 
-Pent does not punish intensity; it rewards concealment, and everything it yields is cut accordingly. The flintlock's charge is a pressure that settles rather than passes; the plate wards sustained structural force and does nothing whatever about the burning, which carries no measurable temperature and therefore engages no rating in the set; and the token releases one suppressed breath while leaving its wearer feeling every exhaustion hidden nearby. The toll is continuous rather than occasional — old injuries aching, bruising across the ribs and diaphragm where a held breath sits — and the deeper cost is that a wearer from this source slowly loses the ability to feel finished with anything, which is not a decline any supervisor is trained to see.
+The set's costs are piece-specific: the Weapon aggravates old injuries and leaves bruising across the ribs and diaphragm; the Suit dulls reflexes and shallows breathing; the Stigma makes the wearer feel hidden exhaustion nearby. The shared source toll is the loss of relief: a bearer can no longer feel finished with anything, a change that may go unreported.
+
+The full set follows *Source Kept Distinct*: the Stigma identifies Pent's source condition, the Suit lets a witness bear Grudge pressure, and the Weapon addresses only the immediate manifestation that violates “Permit rest and acknowledge exhaustion as real.” It cannot heal the originating collapse; misuse routes Pent's wound through the operator and raises the source Gauge.
 
 ### Field Use Record
 
