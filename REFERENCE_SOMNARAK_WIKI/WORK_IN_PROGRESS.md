@@ -73,7 +73,7 @@ The owner directed that the previous readable chatroom report become the must-fo
 
 ### Batch 129 closure — five source-led dispositions, no expansion
 
-**Verdict:** Five dossier units and two small reread follow-ups passed and were pushed independently. Opening7b372f9f; original units269147d8/2535efca/13baddf7/d196d2cc/95fa363a; Swallow follow-upd2c8a51f and Silent Maiden follow-upb960ed25. All PUSH VERIFIED. This closure is logged before its own gate. No held profile is silently selected.
+**Verdict:** Five dossier units and two small reread follow-ups passed and were pushed independently. Opening7b372f9f; original units269147d8/2535efca/13baddf7/d196d2cc/95fa363a; Swallow follow-upd2c8a51f and Silent Maiden follow-upb960ed25. All PUSH VERIFIED. Closure a07f1ff5 passed its gate and was PUSH VERIFIED; this log-only follow-up reconciles Changelog unit hashes/source labels and its Swallow word count with the already correct closure table. No held profile is silently selected.
 
 **Independent cumulative progress:** Full-SE **165/301=54.82%**; **136/301 remain**,134 eligible after two exclusions. Weapon-only **182/287=63.41%**; **105/287 remain**. Batch129 contributes5/5 full-SE and3/5 new Weapon pairs. MemoryThief already B89; FrozenTear already B81; both add0 to Weapon.
 
@@ -85,15 +85,15 @@ The owner directed that the previous readable chatroom report become the must-fo
 
 **Close checks:** verify.py RESIDUAL0/seam[]/pipeTrue/dupes[]; tpl.py RESIDUE0; sectfile.py no section over0.05; sect.py GENERIC≤0.05; wikistd.py meetsTrue for every unit. Exact baseline versus final comparison has **557→557 candidate findings**, byte-identical after limit0 output; finding counts are not defect counts. Full301-file section-overlap scan at reconstructed opening and final each reports **0/301 couples**,0/301 files carrying them,0 section pairs. A couple is two dossiers with excessive distinctive overlap in the same section. Nothing in this batch reopened the earlier prose-overlap fix phase. Global gate covers lore, timeline, semantic seams, links, labels, boxes, tests, row pipes, breach floors and metrics parity. No nonexistent slot checker used. This is content validation, not a web-app/live-preview test.
 
-Final dossier measurements; word counts use C-locale wc -w. Generic is the shared-prose fraction, not a canon verdict.
+Final dossier measurements; word counts use C-locale wc -w. All checks passed.
 
-| Dossier | Words | Generic / checks | Final commit | Push |
+| Dossier | Change | Words | Checks | Commit / push |
 |---|---|---|---|---|
-| [The_Memory_Thief](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-077_The_Memory_Thief_%EA%B8%B0%EB%A1%9D_%EB%8F%84%EB%91%91.md "SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md") `N-IIIβ-077` | 7,172→7,472 | 0.006; PASS | `269147d8` | PUSH VERIFIED |
-| [Swallow](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-767_Swallow_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-C-IVδ-767_Swallow_번져가는_그림자.md") `C-IVδ-767` | 8,111→8,309 | 0.006; PASS | `d2c8a51f` | PUSH VERIFIED |
-| [The_Silent_Maiden](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-043_The_Silent_Maiden_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EC%B2%98%EB%85%80.md "SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md") `C-IVβ-043` | 8,746→8,947 | 0.006; PASS | `b960ed25` | PUSH VERIFIED |
-| [Frozen_Tear](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-102_Frozen_Tear_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%88%88%EB%AC%BC.md "SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md") `C-IIβ-102` | 8,160→8,336 | 0.006; PASS | `d196d2cc` | PUSH VERIFIED |
-| [The_Debt_Chain](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-160_The_Debt_Chain_%EB%B9%9A%EC%9D%98_%EC%82%AC%EC%8A%AC.md "SE-N-IIIβ-160_The_Debt_Chain_빚의_사슬.md") `N-IIIβ-160` | 9,234→9,416 | 0.005; PASS | `95fa363a` | PUSH VERIFIED |
+| [The_Memory_Thief](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-077_The_Memory_Thief_%EA%B8%B0%EB%A1%9D_%EB%8F%84%EB%91%91.md "SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md") `N-IIIβ-077` | Partner checks; return notes | 7,172→7,472 | PASS | `269147d8` verified |
+| [Swallow](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-767_Swallow_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-C-IVδ-767_Swallow_번져가는_그림자.md") `C-IVδ-767` | Attribution and mourning privacy | 8,111→8,309 | PASS | `d2c8a51f` verified |
+| [The_Silent_Maiden](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-043_The_Silent_Maiden_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EC%B2%98%EB%85%80.md "SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md") `C-IVβ-043` | Veil care; named roster | 8,746→8,947 | PASS | `b960ed25` verified |
+| [Frozen_Tear](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-102_Frozen_Tear_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%88%88%EB%AC%BC.md "SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md") `C-IIβ-102` | Return care; no original contact | 8,160→8,336 | PASS | `d196d2cc` verified |
+| [The_Debt_Chain](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-160_The_Debt_Chain_%EB%B9%9A%EC%9D%98_%EC%82%AC%EC%8A%AC.md "SE-N-IIIβ-160_The_Debt_Chain_빚의_사슬.md") `N-IIIβ-160` | Separate-field custody | 9,234→9,416 | PASS | `95fa363a` verified |
 
 ### Full dossier links (R-12)
 
