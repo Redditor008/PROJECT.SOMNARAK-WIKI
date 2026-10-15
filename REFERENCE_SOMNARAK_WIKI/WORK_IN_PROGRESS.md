@@ -13,7 +13,7 @@ The owner directed that the previous readable chatroom report become the must-fo
 
 ## Full-SE M.A.W. audit — active scope (expanded 2026-10-11)
 
-**Current cumulative full-SE coverage through Batch 126 / unit 3:** **49.17% / 100% complete**; **153 of 301 primary dossiers remain** (148 counted dispositions; 150 repository markers including paused Silent Child and scope-unconfirmed Inheritor, both excluded; 151 eligible cases remain). Separately, **Weapon-only coverage is 59.58% / 100% complete**; **116 of 287 eligible pairs remain** (171 counted source-led dispositions). Fourteen primary dossiers remain outside paired scope. Holds count as dispositions, not defect findings; unreviewed cases are not presumed defective.
+**Current cumulative full-SE coverage through Batch 126 / unit 4:** **49.50% / 100% complete**; **152 of 301 primary dossiers remain** (149 counted dispositions; 151 repository markers including paused Silent Child and scope-unconfirmed Inheritor, both excluded; 150 eligible cases remain). Separately, **Weapon-only coverage is 59.93% / 100% complete**; **115 of 287 eligible pairs remain** (172 counted source-led dispositions). Fourteen primary dossiers remain outside paired scope. Holds count as dispositions, not defect findings; unreviewed cases are not presumed defective.
 
 ## Batch 126 — full-SE M.A.W. source review (open at five)
 
@@ -44,6 +44,14 @@ The owner directed that the previous readable chatroom report become the must-fo
 **Unit 3 validation:** Full residue RESIDUAL0/seam[]/pipeTrue/dupes[], template RESIDUE0, zero sections over0.05, dossier GENERIC≤0.05, wording meetsTrue; diff check clean. No Side/item, Registry, Master, Entity Codex, Tale, archetype or disposition-index file changed.
 
 **Unit 3 checkpoint:** Full-SE **148/301 = 49.17% / 100%** (153 remain; 151 eligible after two exclusions). Weapon-only **171/287 = 59.58% / 100%** (116 remain). Batch **3/5 full-SE** and **1 new exact Weapon pairs**.
+
+**Batch 126 / unit 4 — Neverlast `O-IIβ-833` (`pending push`):** [[SE-O-IIβ-833_Neverlast_녹슨_영혼](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")] Normalised pistol Appearance label, extended Shroud/Crown profiles to distinguish a present attended watch from a promise, personal grief from source attribution, and subjective time from kept appointments. Added Neverlast — Witnessed Form / Source Kept Distinct, reversed-benefit/corrosion progression, named-witness handover and pre-care records. Explicitly excluded cleaning the entity. No bonus stat or offensive figure invented. Word count (`wc -w`, C locale) **7,896 → 8,159**.
+
+**Unit 4 evidence and holds:** Whole primary Watch/transfer return/null-entry board and four-way interactions; complete SE-833-A–D 4/4 all appearances/source histories/care; CSV911–914; Master649–651/detail8030; Entity586; Tale217/12139–12186; archetype336; R19 row234. Six WIP/Changelog history sources checked by full designation, entity/weapon aliases and exact pair. Holds, not defect findings: Primary/current B heading Rusted Lock-Pistol vs Side Requiem/B filename/quote/history and Master detailed Rusted Soul Requiem; Master index agrees pistol. Archetype Long vs local/item Short2. Primary Direct+Tick scoring vs B direct single formal profile; no tick duration/extra damage inferred. Primary motionless/no-organic-harm spread vs Side aggression and general combat prose retained as disagreement. Crown physical circlet/Tail versus floating-orb Master bucket; unnamed +1 source-work stat remains unnamed. CSV ** β / Lament in Element with blank grade, generic B/C and D Accessory vs Tail at matching5%. Pair history: SE-833-B / MAW-W-833-01 newly source-led dispositioned; earlier B22 prose/section and R29 entries are not pair reviews. No prior source-led title/identity disposition found in six history sources. R-19: Neutral234 unchanged: Soldier/Walls effects reduce Neverlast inward, Mother unchanged, Colossus arm angle only; spread attacks rota/fittings not other containment.
+
+**Unit 4 validation:** Full residue RESIDUAL0/seam[]/pipeTrue/dupes[], template RESIDUE0, zero sections over0.05, dossier GENERIC≤0.05, wording meetsTrue; diff check clean. No Side/item, Registry, Master, Entity Codex, Tale, archetype or disposition-index file changed.
+
+**Unit 4 checkpoint:** Full-SE **149/301 = 49.50% / 100%** (152 remain; 150 eligible after two exclusions). Weapon-only **172/287 = 59.93% / 100%** (115 remain). Batch **4/5 full-SE** and **2 new exact Weapon pairs**.
 
 ## Batch 125 — full-SE M.A.W. source review (closed at five)
 
