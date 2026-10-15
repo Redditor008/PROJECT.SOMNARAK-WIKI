@@ -190,11 +190,15 @@ I Alone Crossed is a Subject with Subject-Mind manifestation and Lament expressi
 
 **Cost:** The wielder feels the entity's unwept survivor grief; prolonged use causes severe vertigo and involuntary weeping whenever crossing thresholds alone.
 
+A debrief partner shares the failure account before issue and before any reissue. Naming a factor outside the bearer’s control is required for recognition; claiming either sole blame or sole innocence widens the break and rejects use. Between completed swings, take one full breath and check balance. Maintenance places the blade across a map with at least two safe exits and one uncontrollable factor, never across a single name. For shutdown the partner covers the broken fuller with the route card, says “we crossed together,” and sheaths it; breaking the blade risks a bridge-collapse hallucination.
+
 ### M.A.W. Suit — I Alone Crossed Shroud
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that draws in when its source element is close.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that draws in when its source element is close. A pale gap divides the deep-blue weave, with a far-side marker inside the left shoulder. The marker does not appear until a return route has been recorded with another person.
+
+The wearer binds with a named partner, return route and boundary beyond which they will not proceed alone. The partner may call an abort. In *Return Span*, that spoken direction supports one emergency withdrawal sequence; crossing past the partner after the abort erases the marker and leaves further Lament impact unreduced. A marker beyond the registered return point is overload, not a new destination.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -208,11 +212,15 @@ I Alone Crossed is a Subject with Subject-Mind manifestation and Lament expressi
 
 **Cost:** The wearer becomes numb to minor joys.
 
+For care, both partners trace departure and return on the completed route map before folding the cloth. In an emergency the partner touches the marker, names the abort direction and unfastens the Shroud from the rear. Cutting it during a false-bridge event risks a looped crossing perception; protection does not make a solitary crossing safe.
+
 ### M.A.W. Stigma — I Alone Crossed Lantern
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a tiny lantern of Lament Han-crystal, cool and faintly luminous, that turns cold in the hand whenever its source sorrow is sounding.
+**Appearance:** a tiny lantern of Lament Han-crystal, cool and faintly luminous, that turns cold in the hand whenever its source sorrow is sounding. Its blue threads map trust, support, abandonment and responsibility. The bearer must appear within that map, not stand outside it as judge.
+
+*Mark the Gap* requires permission from the live team and a named route purpose. It reveals one fragile handoff, not intent, deserved fault or guaranteed repair. Witnessing the gap makes the bearer feel its failure; a second Lantern overlays the routes until they cannot be read.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -222,11 +230,15 @@ I Alone Crossed is a Subject with Subject-Mind manifestation and Lament expressi
 
 **Cost:** The wearer feels every failed crossing they witness.
 
+The route partner closes the Lantern after the review schedules a next action with the people involved; storage waits until the blue depth stops moving. For emergency shutdown, close the shutter, cover the top loop and name a connection that held. Breaking it releases the mapped failed crossings into the bearer’s sleep.
+
 *The lantern is not issued. It comes up when an account has been written out straight, with no argument run against it — four per cent of those accounts produce one, and the armoury has never found a way to say which.*
 
 ### M.A.W. Use Notes
 
 The set is cut from the span: a sheared girder, silk that draws tight on the approach, and a lantern that lights the routes between people. Each piece bills the bearer at a different desk in the same currency — they start carrying other people's outcomes as their own. The armoury's note reads that this makes a good route officer and a dangerous anything else.
+
+The *Far Shore* set’s *Shared Crossing* requires at least two other accountable participants and a shared debrief before another crossing assignment. It is not an acquittal or an authority to reopen a closed route. This holding’s affected volume remains barred even for rescue: a mapped return, a shared account and a resistant Shroud do not override that prohibition. The route officer carries the equipment without becoming a recovery lead.
 
 ### Field Use Record
 
