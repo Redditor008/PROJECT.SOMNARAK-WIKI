@@ -13,7 +13,7 @@ The owner directed that the previous readable chatroom report become the must-fo
 
 ## Full-SE M.A.W. audit — active scope (expanded 2026-10-11)
 
-**Current cumulative full-SE coverage through Batch 126 / unit 1:** **48.50% / 100% complete**; **155 of 301 primary dossiers remain** (146 counted dispositions; 148 repository markers including paused Silent Child and scope-unconfirmed Inheritor, both excluded; 153 eligible cases remain). Separately, **Weapon-only coverage is 59.23% / 100% complete**; **117 of 287 eligible pairs remain** (170 counted source-led dispositions). Fourteen primary dossiers remain outside paired scope. Holds count as dispositions, not defect findings; unreviewed cases are not presumed defective.
+**Current cumulative full-SE coverage through Batch 126 / unit 2:** **48.84% / 100% complete**; **154 of 301 primary dossiers remain** (147 counted dispositions; 149 repository markers including paused Silent Child and scope-unconfirmed Inheritor, both excluded; 152 eligible cases remain). Separately, **Weapon-only coverage is 59.58% / 100% complete**; **116 of 287 eligible pairs remain** (171 counted source-led dispositions). Fourteen primary dossiers remain outside paired scope. Holds count as dispositions, not defect findings; unreviewed cases are not presumed defective.
 
 ## Batch 126 — full-SE M.A.W. source review (open at five)
 
@@ -28,6 +28,14 @@ The owner directed that the previous readable chatroom report become the must-fo
 **Unit 1 checkpoint:** Full-SE **146/301 = 48.50% / 100%** (155 remain; 153 eligible after two exclusions). Weapon-only **170/287 = 59.23% / 100%** (117 remain). Batch **1/5 full-SE** and **0 new exact Weapon pairs**.
 
 **Batch 126 / unit 1 layout follow-up:** Readback found the added after-use instructions in the Stage cell instead of Required record. Moved them into Required record without changing words or meaning; 7,321→7,321 C-locale words, all per-file checks pass. This is a table-readability correction to c9fb9a1, not another dossier or Weapon disposition.
+
+**Batch 126 / unit 2 — Hollow Architect `C-IVγ-255` (`pending push`):** [[SE-C-IVγ-255_Hollow_Architect_빈_건축가](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-255_Hollow_Architect_%EB%B9%88_%EA%B1%B4%EC%B6%95%EA%B0%80.md "SE-C-IVγ-255_Hollow_Architect_빈_건축가.md")] Normalised Weight7–12 and supplied structural Skewer/three-connected-target/100–70–50 profile. Named +2 Resolve while retaining source-work restriction. Added plan-face binding/care, open-seam protection failure and removal, three-map Compass checks and living-destination release, and The Unoccupied Plan / Purpose Without Completion; kept Maul floor-extraction-only and no tonnage-reduction claim. Word count (`wc -w`, C locale) **7,202 → 7,538**.
+
+**Unit 2 evidence and holds:** Whole primary including three floor extractions, Issued Record/Apex/interaction and clearing records; complete SE-255-A–D 4/4 all appearances/incidents/care; CSV550–553; Master223–225/detail3332; Entity440; Tale75/4248–4296; archetype168; R19 row181. Holds, not defect findings: Primary extraction-only Maul and days of weight/early fatigue vs item offensive Intent Line and visible aging; did not import age or patrol authority. Archetype Room vs formal Medium3. Side no-demolition resolution vs primary scheduled unresisted clearing (primary itself retains both); no management condition selected. Side pursuit vs primary three no-pursuit escapes; Tale ZoneA/Low threat/Viderehan-primary vs primary ZoneB/Major/Ferrehan. Master Relic Drops/Seeds Stigma bucket vs Compass. CSV B Element=Damage; D ** γ / Weight with blank grade, Accessory5% vs Head4%. Source255 is Architect; deferred Rising Wall suffix sibling not joined. Pair history: SE-255-B / MAW-W-255-01 newly dispositioned; six WIP/Changelog sources by code/title/item contain generic prose/couple work only, no earlier exact source-led pair review. R-19: Neutral181 unchanged: Melting Tower affects Architect construction, no witnessed Colossus transfer, Broken Promise no interaction; no suppression or aid of another holding.
+
+**Unit 2 validation:** Full residue RESIDUAL0/seam[]/pipeTrue/dupes[], template RESIDUE0, zero sections over0.05, dossier GENERIC≤0.05, wording meetsTrue; diff check clean. No Side/item, Registry, Master, Entity Codex, Tale, archetype or disposition-index file changed.
+
+**Unit 2 checkpoint:** Full-SE **147/301 = 48.84% / 100%** (154 remain; 152 eligible after two exclusions). Weapon-only **171/287 = 59.58% / 100%** (116 remain). Batch **2/5 full-SE** and **1 new exact Weapon pairs**.
 
 ## Batch 125 — full-SE M.A.W. source review (closed at five)
 
