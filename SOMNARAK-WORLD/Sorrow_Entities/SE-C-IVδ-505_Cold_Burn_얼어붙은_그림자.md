@@ -94,7 +94,7 @@
 
 - A worker who fails to hold against her pressure loses **Composure** in quantity, and loses the edges of their own identity along with it, and the two losses drive the Sorrow Gauge up faster than the watch can write it down. At the vault approach that is the particular danger: erosion and escalation arrive in the same minute, and the gauge keeps climbing after the worker has stopped reporting.
 - Long contact brings the whole of her documented manifestation into the corridor: the emotions erode, the body is traumatised, the identity dissolves, and last the environment itself is corrupted in a way that does not undo itself. That fourth stage is why the lattice along the seam is written down every week rather than estimated, and why the order says until relieved.
-- Activation of any M.A.W. piece at this door is paid for by the bearer in three currencies: intimate memories, physical sensation, and years of life. The specification names all three. The corridor is where they get paid.
+- The M.A.W. costs are piece-specific, not a common three-currency debit: the Weapon takes one small nameless memory, the Veil leaves the bearer faintly absent to themselves, and the Ring makes every abandoned duty felt. Record each cost against the bearer and the piece used.
 - Left unresolved, she falls back on the breach, activation or expansion behaviour recorded in her own dossier. Containment refused, grief with nowhere left to run makes its own way out, and what it makes is catastrophic. The lattice at knee height is that same cutting done slowly.
 
 ## Appearance
@@ -218,7 +218,7 @@ It shoots heavy square-headed bolts, each tied to a retrieval cable too fine to 
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 to the bearer's work on this holding; the armoury records no measured effect elsewhere.
+**Effect:** +1 Composure on Cold Burn work; no measured effect elsewhere is recorded.
 
 **Ability:** Allows silent movement and concealment.
 
@@ -228,16 +228,18 @@ It shoots heavy square-headed bolts, each tied to a retrieval cable too fine to 
 
 ### M.A.W. Use Notes
 
-Everything in this set is a piece of Cold Burn and carries what Cold Burn carries: a small nameless memory leaves with every use. The grade records how cleanly the material came out of the source, while the cost sits in the next column along and is the reason these pieces go out one rotation at a time and come back one rotation later.
+The source remains δ (Critical); the Weapon, Veil, and Ring are each β (Moderate). Their costs are separate: the Weapon takes one small nameless memory, the Veil leaves its wearer faintly absent to themselves, and the Ring makes abandoned duties felt.
+
+The full set follows *The Watch Is Over*: the Ring identifies one obsolete duty for closure, the Veil preserves the former guard, and the Weapon cuts the obligation only after symbolic completion. The duty must be genuinely closed; declaring an empty vault or praising endless vigilance refreezes the Shadow and does not qualify. Side A's full-set route remains distinct from the primary's standing response, which records that nine years of prior symbolic completion did not halt the lattice; the sources establish no equivalence or supersession.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the gauge, and a pre-check written by the second worker: three small memories the bearer can name, entered by hand, because this set's recorded toll is that one small nameless memory leaves with every use and the bearer will not miss it. |
-| **During use** | The charge shows as the baseline thinning — one small memory gone, then another, with the bearer unable to say what was lost. The hour goes into the log from the second worker's hand. |
-| **At limit** | The limit is the absence taken as ordinary: the bearer reads themselves as faintly unreal and has stopped saying so. On a Cold Burn piece that entry ends the use, and the observer calls it, not the bearer. |
-| **After use** | Take the piece back and hold the assessment a week: can the bearer still name the three baseline memories, and does their own company still read as company? Where either fails, the piece stays in stores and the door rotation is stood down. |
+| **Before use** | Wielder, piece, source Gauge, and its baseline: three small named memories for the Weapon, a sense-of-self check for the Veil, or a ledger of ended, transferred, failed, and active duties for the Ring. Identify the single obsolete duty proposed for symbolic closure and who will verify that the closure is real. |
+| **During use** | Record only the active piece's cost — one nameless memory, faint self-absence, or abandoned duties felt — and track the named duty through symbolic closure. Log any source Gauge change; do not assign a substitute duty. |
+| **At limit** | Record the piece-specific cost and whether the obsolete duty was truly closed. If an empty vault is assigned, endless vigilance is praised, or the source Gauge rises through misuse, stop the operation and log the resonance as failed rather than calling it closure. |
+| **After use** | Return the item and review the relevant baseline with the second worker; confirm whether the duty remains closed. Mark *The Watch Is Over* only when the symbolic closure is complete, and record any Gauge change separately, identifying misuse if an empty-vault assignment or praise of endless vigilance caused it. |
 
 **Stat interpretation:** The grade records what a piece does to a holding and nothing about what it does to the bearer. A piece from this source can perform without a fault on the door for months and still hollow out the bearer's memory, or bind them to the duty the holding is waiting on. Read the cost column first.
 ## 관찰 기록 (Observation Log)
@@ -431,10 +433,10 @@ The caretaker's name is recorded in the chamber file and is used in the shift lo
 ### Registry Trivia
 
 - **Classification detail:** Cold Burn is a Subject with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Void is its element and the Mask Market in Zone C is its registered ground — held there behind frosted glass in a room with nothing reflective left in it. |
+- **Field detail:** Void is its element and the Mask Market in Zone C is its registered ground — held there behind frosted glass in a room with nothing reflective left in it.
 - **Recognition detail:** Identify it by the lattice and the cold, never by the edges: the crimson edge appears only when somebody has stopped looking, which means the observer who sees it has already made the error.
 - **Record detail:** The Registrum cross-referenced The Watcher in the Walls, which is not among this holding's recorded neighbours; corrected to the three files actually on the interaction record.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. The entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-505
