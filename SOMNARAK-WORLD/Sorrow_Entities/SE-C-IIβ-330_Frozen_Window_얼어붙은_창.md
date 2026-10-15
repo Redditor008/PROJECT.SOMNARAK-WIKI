@@ -220,7 +220,7 @@ Delicate frost fractures run through the lens without obscuring vision, highligh
 
 **Slot:** Eye / Head
 **Acquisition Probability:** 5%
-**Effect:** +1 while working Frozen Window, and it does not travel: the pane is read against the circuit, showing cold-stress points in slowed or frozen matter, so anywhere but the Commons it returns nothing but the wearer's own reflection.
+**Effect:** +1 Resolve while working Frozen Window, and it does not travel: the pane is read against the circuit, showing cold-stress points in slowed or frozen matter, so anywhere but the Commons it returns nothing but the wearer's own reflection.
 
 **Ability:** *Thermal Fracture Sight* — Increases critical hit rate by 8% against slowed, rooted, or frozen targets by highlighting structural cold stress points.
 
@@ -231,6 +231,8 @@ Delicate frost fractures run through the lens without obscuring vision, highligh
 ### M.A.W. Use Notes
 
 Each piece extends Frozen Window rather than arming its wielder against it. The benefit holds only inside the pattern the file records — a circuit walked at 1.45 metres per second, the surface read by type and never by content — and outside it the cost arrives early: the wearer feels every departure reflected in the pane, a heavy solitary confinement that does not reverse when the piece comes back.
+
+The Stigma's source-work modifier is +1 Resolve; its separate +10% resistance to Slow and Immobilization remains item-D-only and is not copied here. The full-set effect remains unselected across the records: Side A names *The Last View Ends*, B names *Terminal Resolution*, C records a Suit resistance shift, and D names *The Completed Circuit*. No crosswalk establishes that these are one effect, so this dossier does not merge them.
 
 ### Field Use Record
 
