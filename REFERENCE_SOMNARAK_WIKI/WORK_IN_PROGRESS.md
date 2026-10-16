@@ -63,6 +63,16 @@ Outside finished fan source-tradition reference: stalad519-lang/salads-leucotomy
 
 **Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE174/301=57.81%,127/301 remain,125/301 eligible. Independent Weapon189/287=65.85%,98/287 remain. Exact-pair increment+1; batch4/5. Supplementary sources unchanged.
 
+**Batch 131 / unit 5 — Midnight Choir `C-IIβ-245` (`pending push`):** [[SE-C-IIβ-245_Midnight_Choir_노래하는_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-245_Midnight_Choir_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%B2%BD.md "SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md")] R18:0batch-short/5careful-detail: repaired midnight sentence and fused Tension instruction; Requiem phrase boundary/undrawn local blade, Shroud between-song removal/noon care, Stone truthful calm/open-air release without compelled completion. C-locale wc -w 7,968→8,256.
+
+**Evidence/history:** Complete primary before/after and exact245A–D; CSV530–533; both archetypes163/294; entity master413; M.A.W.master145–147/2470; Tale492763–2821; Neutral disposition177 on no measured effect on other entities. Batch39unit7 06c4a5a addressed FinalObservation/residue, no exact-pair Weapon disposition found; new Weapon+1.
+
+**Holds:** A connected-building spread/quiet-dependent midnight/lost history/love songs versus primary fixed94m/strictmidnight/three-songtypes/nine dates only; B wall contact silences/deletes audible record versus three unsuccessful silencing attempts; Bnear-fresco maintenance/Refrain overflow versus primary undrawn blade and no joint sound; D song-memory/calm/wall music and ordinary catalogue gift versus primary unfinished-sentence hearing/prompted completion/serving-officer gift, eleven stones versus nine officer words; A+1Clarity versus primary+1work. Archetype163Medium versus source2Short and secondShortLeaf entry294. Primary damage-to-transcriber under Weapon block versus offensive B, no piece used againstholding versus requiredShroud; all unfinished versus77of81attack and41,600nonewithdates versus9dated words; FerrehanDecrease versus gauge never work-responsive; three recordings/no fourth versus no fifth wording; attendance required versus optional nightstaff; no physical harm versus mental costs. All preserved as holds, not defect findings; combat numbers, sources and disposition unchanged.
+
+**Commentary:** The interrupted word is more unsettling to me than a ghost completing its song. The Resumption Offer gives the idea moral weight because being asked again can help someone or reopen an injury, and the dossier refuses to cancel one against the other.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE175/301=58.14%,126/301 remain,124/301 eligible. Independent Weapon190/287=66.20%,97/287 remain. Exact-pair increment+1; batch5/5. Supplementary sources unchanged.
+
 ## Batch 130 — full-SE M.A.W. source review (closed at five)
 
 ### Batch 130 closure — five source reviews complete (2026-10-16)
