@@ -1,5 +1,15 @@
 # Work In Progress
 
+**Batch 135 / unit 1 — The Grieving Maiden `C-IVβ-041` (`pending push`):** [[SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-041_The_Grieving_Maiden_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%B2%98%EB%85%80.md "SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md")] R18 predeclared0 batch-short/3 careful-detail. Separately authored Requiem return check, Shroud rest and Veil consent; complete edited primary reread. Numbers unchanged. C-locale wc -w 8,059→8,325.
+
+**Evidence/history:** Complete primary including Continued Entry/Apex; exact041 A–D all histories/limits; CSV74–77, archetype74, disposition132, Entity428, Master187–189/detail2932 and Tale63. All six current/volume WIP/CHANGELOG sources plus git exact title/code/item search found Batch25/41/62 prose dispositions, no prior exact equipment review; Weapon+1. imaginary-friend.ts refreshed via GitHub: conditional English/explicit Unknown as fan style example only, not official Project Moon or Somnarak canon.
+
+**Holds:** Primary mother vs Tale/A daughter/visiting mother; primary return reversal vs B nearby companion release; Shroud clings vs C never clings; Stigma Tail vs D collar/shoulder clasp and Master Rings category; +1 generic primary vs source-specific D; primary constant wetness vs D until shared. Primary minutes/roster vs unlimited Final sitting, and Tide volume vs no Tide correlation retained. No new Tick damage inferred from primary Damage Application. No source or clinical outcome chosen.
+
+**Commentary:** The sump makes the cost of formally closing grief visible without turning the clerks into villains. I find the unread annual sentence particularly strong: privacy protects the writer while making the loss institutionally inaudible. The mother-versus-child identity hold matters enough that equipment prose should not silently settle it.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE191/301=63.46%,110/301 remain,108/301 eligible. Independent Weapon201/287=70.03%,86/287 remain. Exact-pair increment+1; batch1/5. Supplementary sources unchanged.
+
 ## Batch 135 — OPEN: five pending-only full-SE equipment reviews (2026-10-16)
 
 Owner `p` after134 authorizes this one batch, opening at five. Clean assigned HEAD856631489410d0635de36b84ae1afcabfa321a1f verified equal GitHub; no recovery required. PR14 OPEN draft→NON-WIKI. Fresh order: GrievingMaiden C-IVβ-0410.005113346; Rejector C-IIIγ-0630.005066039; WillingChains C-IVδ-9760.005059350; DawnThatForgot N-IIIγ-9170.005030543; Aegis C-IVδ-2000.005005562. No correction. Next PyreOfTruths0.004962355, DoubleMouth0.004926108. Ranking is not a defect finding.
