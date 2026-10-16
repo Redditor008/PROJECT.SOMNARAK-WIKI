@@ -37,6 +37,16 @@ Batch301 remains the separately owner-authorized4+4 variant, blocked on eight ex
 
 **Checks/progress:** RESIDUAL0/pipeTrue/dupes[]; verify seam output retained in the check evidence (Dreaming Plague only: unchanged known substring false-positive in breathe the same); RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE181/301=60.13%,120/301 remain,118/301 eligible. Independent Weapon196/287=68.29%,91/287 remain. Exact-pair increment+1; batch1/5. Supplementary sources unchanged.
 
+**Batch 133 / unit 2 — Cracked Mirror `C-IIβ-310` (`pending push`):** [[SE-C-IIβ-310_Cracked_Mirror_금이_간_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-310_Cracked_Mirror_%EA%B8%88%EC%9D%B4_%EA%B0%84_%EA%B1%B0%EC%9A%B8.md "SE-C-IIβ-310_Cracked_Mirror_금이_간_거울.md")] R18 declared0 batch-short/4 careful-detail: harmful-deception target limit, disc care, panel care, pendant release; each authored separately. Complete edited primary reread. Numeric profiles unchanged. C-locale wc -w 7,018→7,328.
+
+**Evidence/history:** Complete primary and exact310A–D (files directly in Registry_290_to_310, not guessed subfolder); CSV595–598; archetype186 Fracture-Split Disc; entity master417; M.A.W.master197–199/2602–2634; Tale53 2998–3049; disposition253. Prior Batch15unit3 and Batch54unit9 were prose/overlap reviews, not counted exact-pair Weapon dispositions. History checked by code/name and MAW-W-310; no earlier counted pair disposition found:Weapon+1.
+
+**Holds:** Cracked reflection in Tale/A/testimony versus uncracked reflection marker/overlay; source frame/corrosion extraction versus A/B crack-light; fixed case versus mounted/carried I-Relic; timekeeper-only termination/trauma versus A voluntary ending and below25%; invariant47-line overlay versus shattering actions and dimming crack; broad Soul attack versus B narrow harmful claim; +1 generic stat versus D Composure; source-work/full-session bestowal versus D bounded acknowledgement; nineteen years versus tracings and fixed case versus transit history retained. No alternate weapon form or threshold invented.
+
+**Commentary:** The hard part is not that the mirror may tell the truth. It is that the facility must refuse to use that truth even when an innocent worker asks it to. I kept the advocates’ unanswered objection and the narrow targeting limit together rather than letting equipment become an evidence loophole.
+
+**Checks/progress:** RESIDUAL0/pipeTrue/dupes[]; verify seam output retained in the check evidence (Dreaming Plague only: unchanged known substring false-positive in breathe the same); RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE182/301=60.47%,119/301 remain,117/301 eligible. Independent Weapon197/287=68.64%,90/287 remain. Exact-pair increment+1; batch2/5. Supplementary sources unchanged.
+
 ## Batch 132 — OPEN: five pending-only source-led reviews (2026-10-16)
 
 The owner's `p` after Batch131 authorizes one next batch. Start at five; expansion requires both simplicity and first-pass repository gates. The inherited checkout is clean and equal to the verified remote ee14489; no recovery mutation was needed. Archive, timeline, seam and box checks pass. PR14 remains OPEN draft targeting NON-WIKI; owner controls merge.
