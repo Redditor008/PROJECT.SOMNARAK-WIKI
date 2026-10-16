@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 138 — OPEN at five; owner p (2026-10-17)
+
+Owner p after137closed9b4e0211004b314960f545aec35c7417a69baa8d authorizes this one batch. Nothing belowfive. Opening five selected from fresh pending ranking,6–10 reserved for earned5→7→10 expansion, not counted yet: 1.C-IIIβ-015 0.004600345; 2.C-IIβ-901 0.004568106; 3.C-IIIγ-913 0.004548719; 4.N-IIβ-801 0.004544471; 5.O-IIIγ-924 0.004478567; 6.C-IIIγ-948 0.004449900; 7.C-IIIβ-275 0.004446915; 8.C-IVδ-125 0.004445150; 9.C-IIβ-997 0.004404404; 10.C-IIβ-048 0.004400440. No replacement or padding. Three or more completed No change dossiers trigger the next rung cumulatively at five/seven; complexity cannot override that trigger. Complete primary/exact identity A–D/source/history review, R18 split before any edit, whole edited-primary reread, individual checks/gate/push and separate Commentary remain required. Pending is not No change; no forced edits.
+
+Baseline Full-SE205/301=68.11%;96/301 remain,94/301 eligible. Weapon212/287=73.87%;75/287 remain;14primaries outside complete-pair scope.207 primary/log dispositions include paused025 and scope-unconfirmed062 exclusions. Genuine opening couples0/301 and uncapped comparator saved. Recovered stale10cd20a metadata only after preserving /home/user/pre-b138-recovery.patch and proving all tracked blobs equal remote9b4e021; no file overwritten or force push. PR14 verified OPENdraft assigned head→NON-WIKI, owner controls merge. Batch301 owner4+4 separately blocked on eight external bodies; invent none, generate/validate before wiki copy. Current0/5; no138review claimed yet.
+
 ## Batch 137 — CLOSED at five completed reviews (2026-10-17)
 
 **Cumulative lead:** Full-SE205/301=68.11%;96/301 remain,94/301 eligible. Independent Weapon212/287=73.87%;75/287 remain.207 primary/log dispositions include excluded paused025 and scope-unconfirmed062;14/301 primaries outside287 complete-pair Weapon scope. Holds count reviewed disagreements, not resolved defects.
