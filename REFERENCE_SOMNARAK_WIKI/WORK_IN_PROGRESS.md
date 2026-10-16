@@ -36,6 +36,16 @@ Outside source-tradition reference refreshed through GitHub API: stalad519-lang/
 
 Batch301 remains the separately authorized 4+4 variant, blocked on eight external bodies. Do not invent dossiers; generate/validate before wiki copy.
 
+**Batch 132 / unit 1 — Anger Underfoot `C-Iα-175` (`pending push`):** [[SE-C-Iα-175_Anger_Underfoot_스며든_흔적](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-175_Anger_Underfoot_%EC%8A%A4%EB%A9%B0%EB%93%A0_%ED%9D%94%EC%A0%81.md "SE-C-Iα-175_Anger_Underfoot_스며든_흔적.md")] R18:1batch-short/3careful-detail. Restored the second outcome-table header using the existing Final Observation decision sentence; postread caught and corrected a missing inserted separator before validation. Authored Fang binding/shutdown, Plate attribution review and Mark borrowed-history limits separately. C-locale wc -w 7,596→7,870.
+
+**Evidence/history:** Complete primary pre/postread and exact1017A–D resolved by source designation; CSV230–233; archetype417 notched executioner falchion; entity master475, M.A.W.master325–327/4459; Tale1096160–6216; disposition157 Neutral with no pairing and refused Garden proposal. Prior Batch38unit3 6ff2895 is prose review, not a counted exact-pair Weapon disposition; no earlier counted exact-pair review found: Weapon+1.
+
+**Holds:** Primary fang-curved blade versus notched executioner falchion archetype and PRIMAL Bio/Marrow master type; A transform-capable/repeated-route anger versus primary nonbreaching/named-respondent closure with lag; item terminal bearer-as-site versus primary immovable/no injury; combat infection/injury/AoE versus no recorded attack/injury; gauge45/65 triggers versus complaint-driven edge; TaleIV/γ/Level2/Pugnahan versus primaryI/α/Level1/Ferrehan. Preserve source-event unknown names, Mark grant pattern versus chance, immediate anger lifting versus item no-cost-refund. No numeric profile or supplementary source changed.
+
+**Commentary:** The strongest part is that naming someone has a real cost as well as a benefit. I read the quiet street as an audit of institutional language, not a monster waiting for the correct weapon.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE176/301=58.47%,125/301 remain,123/301 eligible. Independent Weapon191/287=66.55%,96/287 remain. Exact-pair increment+1; batch1/5. Supplementary sources unchanged.
+
 ## Batch 131 — OPEN: five pending-only source-led reviews (2026-10-16)
 
 Owner `p` after Batch130 authorizes one next batch, starting at five. Recovery: retained working tree matched a pushed commit byte-for-byte; supported syncbranch.py restored HEAD/index from10cd20a to remote f93c1df without changing dossier content. Clean/equal remote; PR14 OPEN draft→NON-WIKI. Inherited archive, timeline, seam and box gates PASS. Fresh full inventory301, marker union172, excluded SilentChildN-Iα-025/InheritorC-IIIγ-062, counted Full170/301=56.48%,131/301 remaining,129/301 eligible. Independent Weapon186/287=64.81%,101/287 remain;14 unpaired excluded.
