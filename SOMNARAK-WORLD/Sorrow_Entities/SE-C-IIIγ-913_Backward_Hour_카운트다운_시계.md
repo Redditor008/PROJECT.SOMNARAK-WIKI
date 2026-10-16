@@ -88,7 +88,9 @@
 
 1. **Tension:** The bay arrives with the sealed reference clock, confirms the rate against it, and establishes which permissions are held by people in the room. The second part takes longer than the first and is the part that matters.
 2. **Clash:** Four turns, observation and endurance only, conducted from the fixed reading points rather than from any position relative to the entity, which has no position. Rates are called in at each turn.
-3. **Resolution:** The cycle ends on management or on the twelfth hour, whichever comes first, and it is always the twelfth hour. The documented condition is readings taken, presence deployed by rate, and the clocks reconciled afterwards. It closes under the documented containment condition: **No suppression is possible. Record the start, deploy presence to the highest-rate points and nowhere else, stand Wardens down at the end, and reconcile every clock in the district before the next shift.**
+3. **Resolution:** The cycle ends on management or on the twelfth hour, whichever comes first, and it is always the twelfth hour. The documented condition is readings taken, presence deployed by rate, and the clocks reconciled afterwards.
+
+Management: No suppression is possible. Record the start, deploy presence to the highest-rate points and nowhere else, stand Wardens down at the end, and reconcile every clock in the district before the next shift.
 
 ### Consequences
 
