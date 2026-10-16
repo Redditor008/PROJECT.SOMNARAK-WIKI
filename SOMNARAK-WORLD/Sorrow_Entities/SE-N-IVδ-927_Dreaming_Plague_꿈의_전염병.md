@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Dreaming Plague by the agreement. Independent sleepers describe the same streets in the same order, and the counsellors’ standing note records that this is the most troubling feature of the file precisely because dreams do not ordinarily agree, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** The team identifies Dreaming Plague by the agreement. Independent sleepers describe the same streets in the same order, and the counsellors’ standing note records that this is the most troubling feature of the file precisely because dreams do not ordinarily agree. The team confirms the approach and takes position before anything else is attempted.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dreaming Plague's recorded combat actions.
 3. **Resolution:** The sleeper sits up. The attending crew takes their account before anyone speaks to them about it, in a separate place from any other sleeper, and the barriers go back on the rack. The district reopens the moment the account is signed. It closes against the documented suppression condition: **The sleeper wakes on their own and the cordon is lifted by the person who set it**.
 
@@ -187,6 +187,8 @@ There is no pressure on the body here at all. Both valid approaches are performe
 
 **Cost:** The wielder dreams the district’s dream on the night after use — the same streets, the same sky — and wakes on their own in their own bed. It is logged as an exposure, counted in the series, and has never once progressed to a sleep that could not be ended.
 
+**Edge attribution:** The individual Weapon record requires attribution review before cleaning or rest, retaining bearer, trigger, source response, cost and unresolved detail. Its warning is first-person ownership of an event that the same record leaves unrecorded; do not supply a patient-zero account to complete that field. A named witness states the source title and event while the bearer relinquishes the Edge. Keep the unknown event marked as unknown. This item procedure does not authorize contact with a sleeper or passing the piece between holders inside the district.
+
 ### M.A.W. Suit — Dreaming Plague's Veil
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
@@ -205,6 +207,8 @@ There is no pressure on the body here at all. Both valid approaches are performe
 
 **Cost:** The wearer becomes difficult to remember, even to themselves, while the protection is worn.
 
+**Veil custody:** The Suit’s individual record also warns that the source sorrow can begin to feel autobiographical. Record that identification separately from the wearer becoming hard to remember; neither makes the wearer a reliable substitute for the written custody chain. The entry requires attribution review before maintenance and witnessed relinquishment without a refund of its cost. Those controls belong at the staging-point return already specified here, not at a handover inside the cordon. The witness requirement supplies no exception to the no-touch rule.
+
 ### M.A.W. Stigma — Dreaming Plague's Token
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
@@ -218,6 +222,8 @@ There is no pressure on the body here at all. Both valid approaches are performe
 **Ability:** A fragment of the entity's dream sorrow, crystallized into wearable form.
 
 **Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
+
+**Token review:** The Stigma’s individual entry distinguishes a brief missing word or face from adopting the source history as one’s own. It lists first-person identification as the first failure sign and a source response recurring away from contact as escalation. Retain the bearer, trigger, response, cost and unresolved detail before cleaning or rest. Its named-witness relinquishment procedure does not change the primary recovery rule: the Token is taken only after waking. No account of an unknown formation event is invented to satisfy the item’s binding wording.
 
 *A Token is found in the hand of a sleeper who was not carrying one when they lay down. It is taken from the open palm after waking, never before, and the recovery is witnessed by two people standing outside arm’s reach of each other.*
 
