@@ -40,6 +40,16 @@
 
 **Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE194/301=64.45%,107/301 remain,105/301 eligible. Independent Weapon204/287=71.08%,83/287 remain. Exact-pair increment+1; batch4/5. Supplementary sources unchanged.
 
+**Batch 135 / unit 5 — Aegis `C-IVδ-200` (`pending push`):** [[SE-C-IVδ-200_Aegis_문의_수호자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-200_Aegis_%EB%AC%B8%EC%9D%98_%EC%88%98%ED%98%B8%EC%9E%90.md "SE-C-IVδ-200_Aegis_문의_수호자.md")] R18 predeclared0 batch-short/3 careful-detail. Separately authored Blade source hold, Plate route disagreement, Charm responsibility record; full446-line edited primary reread. Stats unchanged. C-locale wc -w 7,582→7,863.
+
+**Evidence/history:** Full primary/exact200 A–D all histories/shutdown/ReturnGuard resonance; CSV478–481/archetype143/disposition213; Entity450, Master253–255/detail3665, Tale85/4844–4871. GuardianOfTheGate alias resolved by200 not related Workshop Aegis. Current WIP/CHANGELOG code/title/Blade searches plus all-ref git titles found no previous exact-pair Weapon disposition; Batch61EveryLastGoodbye/66FrozenFury comparisons not Aegis reviews; Weapon+1.
+
+**Holds:** Strong primary one-way Gate vs A–D accountable return/authorized arrivals; no invented later-era reform. Primary unswung theoretical Blade vs B used convoy mark; primary generic Plate vs C conditional open lane resistance; primary four superior-challenge Charm awards vs D arrival-medic duty test; primarywarm Haniron vs C ordinarycold crimsonecho. A29–62 vs primary29–64; CSV5% vs primary/D4%; Master/Tale moderate/nonattack/Pugnahan vs primarycritical/strikes/prohibited; primary stationary vs Story leaves Gate and combat charge. Awkward inherited event/containment fragments retained, not canon findings.
+
+**Commentary:** The erratum that agrees a person was wrongly excluded yet restores nothing is the heart of this guardian. Its best feature is that finality had a defensible purpose before becoming a one-way wound. The equipment records offer a materially different ethics of passage; I find that contrast valuable only while it is acknowledged as unresolved, not narrated into a reform the sources never dated.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE195/301=64.78%,106/301 remain,104/301 eligible. Independent Weapon205/287=71.43%,82/287 remain. Exact-pair increment+1; batch5/5. Supplementary sources unchanged.
+
 ## Batch 135 — OPEN: five pending-only full-SE equipment reviews (2026-10-16)
 
 Owner `p` after134 authorizes this one batch, opening at five. Clean assigned HEAD856631489410d0635de36b84ae1afcabfa321a1f verified equal GitHub; no recovery required. PR14 OPEN draft→NON-WIKI. Fresh order: GrievingMaiden C-IVβ-0410.005113346; Rejector C-IIIγ-0630.005066039; WillingChains C-IVδ-9760.005059350; DawnThatForgot N-IIIγ-9170.005030543; Aegis C-IVδ-2000.005005562. No correction. Next PyreOfTruths0.004962355, DoubleMouth0.004926108. Ranking is not a defect finding.

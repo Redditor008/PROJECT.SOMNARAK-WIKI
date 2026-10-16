@@ -190,6 +190,8 @@ Treat the table as a snapshot and never as a system: the classification and the 
 
 **Cost:** The wielder feels every exile they prevent from returning.
 
+**Blade source hold:** The individual Weapon requires a named Gate Watch partner, a verified hostile crossing and a permitted route. Its convoy history describes a mark used while civilians pass; this primary instead keeps the Blade unswung at the outer cordon and lists its values as theoretical. Those are different use records, not evidence for an unrecorded trial here. Keep the incident map and the bearer’s exile-grief account with the item’s history. Its partner-ended mark and warning against breaking the Blade cannot be read as permission to discharge it during this holding’s six events.
+
 ### M.A.W. Suit — The Gatekeeper's Plate
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
@@ -208,6 +210,8 @@ Treat the table as a snapshot and never as a system: the classification and the 
 
 **Cost:** The wearer's reactions slow as though the body had taken on a grudge of its own, and the onset is quiet: the second worker catches it in the returning stance before the bearer notices anything at all.
 
+**Plate route disagreement:** The individual Suit makes its Grudge resistance conditional on an open non-hostile route and names a passage observer to release the collar. This primary’s one-way Gate doctrine does not supply that return route. Preserve the condition with its source rather than silently treating either account as a later era or a completed reform. The shared resistance values do not settle the disagreement. Slow reactions remain a wearer cost in both accounts; compare the returning stance with the second worker’s baseline without using collar warmth to certify a passage the primary never permits.
+
 ### M.A.W. Stigma — The Gatekeeper's Charm
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
@@ -221,6 +225,8 @@ Treat the table as a snapshot and never as a system: the classification and the 
 **Ability:** Grants a minor boon tied to Aegis's sorrow; the effect mirrors the entity's nature.
 
 **Cost:** The bearer's temper shortens.
+
+**Charm responsibility record:** The individual Stigma identifies a missing duty, not a person: its return-route test found an absent arrival medic. That history stands beside this primary’s four threshold-challenge awards, without merging their acquisition accounts. Record which responsibility the item names and which account is being followed. The bearer’s shortened temper is a cost, not a current threat record or an order to close a passage. The individual warning about a false denial mark on breakage remains attached to that source; it does not establish that this Gate has accepted any returnee.
 
 *Four charms exist. All four went to door Wardens who made the threshold challenge to a superior officer who had been outside for under two minutes, which is the duty and is harder than it reads.*
 
