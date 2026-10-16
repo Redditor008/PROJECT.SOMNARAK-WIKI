@@ -157,7 +157,7 @@ Nothing at this holding presses on a worker; what it removes is an instrument. B
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** Sight the edge from the markers and never send a body past them for a reading.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per overdue survey rather than per turn. It has reached 50% once, in Y4247, and has not been above 40% in the sixteen years since.
 
 ## M.A.W. Equipment
