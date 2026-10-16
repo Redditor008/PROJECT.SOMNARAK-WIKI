@@ -180,6 +180,19 @@ The rules that keep a commentary honest:
 Block 4 table is unchanged: a commentary never becomes a table column. A report shipped without its commentaries,
 or with them placed before the content, is rewritten in the same turn.
 
+## Amendment, 2026-10-16 — report reviewed dossiers even when nothing changes
+
+**Owner direction:** Include dossiers that need no change so the owner can see all five reviews in a batch. Write **No change** under What changed and still provide the individual Commentary. The decision must follow the file and its sources, not the agent's wish to edit it.
+
+22. **A completed review is reported whether or not it produces an edit.** Every completed dossier gets its own linked table row, content recap and separate **Commentary**. For an unchanged dossier, the **What changed** entry says exactly **No change**. Explain separately what was checked and why the existing file and sources support leaving it as written. Keep any unresolved disagreement explicit; no change does not mean every source agrees.
+
+- The five-dossier floor is five completed reviews, not five forced rewrites. Never add prose or alter canon just to make a review look productive.
+- Retain the complete primary, identity-resolved source and history review, validation and individual gate/push requirements. A no-change unit ships its evidence and disposition in the logs; it does not need an artificial primary-file edit.
+- Count an unchanged dossier only after that review is complete and shipped. Apply the independent counter rules: a previously counted exact Weapon pair still adds zero.
+- A five-dossier close shows all five reviewed dossiers, including unchanged ones, with one Commentary per dossier. In an open-batch report, distinguish completed reviews from pending units. **Pending** is not **No change**; do not invent a review or commentary for an unread file.
+
+This amendment extends points 16, 20 and 21 and clarifies `R-26`. It does not authorize closing below five, counting an unreviewed file, or repeating a previous review to pad a batch.
+
 ## How it is checked
 
 

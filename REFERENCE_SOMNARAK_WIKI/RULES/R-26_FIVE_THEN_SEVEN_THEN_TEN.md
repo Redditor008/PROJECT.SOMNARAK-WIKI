@@ -8,6 +8,8 @@
 
 **Start at five.** The only ordinary batch sizes are **5, 7, and 10**. The floor is five, not three. Never pad a batch, and never close one below five while five or more eligible pending dossiers remain.
 
+**Owner clarification (2026-10-16):** Five means five completed dossier reviews, not five mandatory edits. If the file and its sources support leaving it unchanged, report **No change** under What changed and still include its individual **Commentary**, evidence and checks. An unchanged primary can be a completed review only after the required review and individual log/gate/push are complete. Pending files do not count as no-change reviews. See the matching amendment in `R-31`.
+
 The simplicity ratchet is **5 → 7 → 10**:
 
 | Stage | Condition to move up |

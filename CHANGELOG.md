@@ -8,6 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+**Owner reporting clarification (2026-10-16):** Every completed dossier review must appear in the batch report, including an unchanged dossier. Its What changed entry says **No change**, with a separate source-based reason and individual **Commentary**. Five means five completed reviews, not five forced edits. Pending is not No change. Updated R-31 and cross-referenced R-26; no primary or review counter changed. Batch136 remains OPEN at1/5; Double Mouth, Homeless Sorrow, Portcullis and Spreading Root remain pending under the existing authorization.
+
 **Batch 136 — OPEN checkpoint, 1/5 (2026-10-16).** Unit1 shipped at 2a1e855fa0c4039dd5437889f91d24d2bc95babf, PUSH VERIFIED. Current Full-SE196/301 (65.12%);105/301 remain,103/301 eligible. Weapon205/287 (71.43%);82/287 remain; Pyre exact pair adds0 because Batch86 already counted it. R18 completed0 batch-short and3 careful-detail additions; C-locale wc -w +276. Four selected units remain unreviewed and uncounted: Double Mouth716, Homeless Sorrow119, Portcullis794, Spreading Root693. Existing owner authorization continues for these units; this is not a close and not a new batch. Do not reapply opening or unit1.
 
 Checkpoint checks: verify/tpl/sections/wording PASS; genuine couples0/301; uncapped tools/maw_compare.py --limit0 byte-identical to opening baseline. Separate archive, timeline, semantic-seam and box checks PASS; 44 unit tests PASS. Full gate also passed for unit1. No supplementary source edited. PR14 independently OPEN draft, assigned head to NON-WIKI; no merge or deployment. Batch301 owner4+4 remains blocked on unavailable dossier bodies, with no invention permitted.
