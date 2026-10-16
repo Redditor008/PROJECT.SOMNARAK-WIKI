@@ -188,6 +188,8 @@ The Rejector is a Subject with Subject-Body manifestation and Void expression, h
 
 **Cost:** Each use takes a small, nameless memory from the wielder — a name half-heard at a briefing, the arrangement of a room they worked in last year — and the lens does not distinguish correct use from incorrect; the toll is paid either way.
 
+**Lens claim check:** Its individual record distinguishes a coerced mark from an obligation still freely chosen. Write down whose claim is being cut and how coercion was identified; an association the bearer would prefer to lose is not sufficient. The rebound described for cutting a voluntary connection is a limit, not an alternative way to settle that question. Return the Lens face-up in its case and preserve the written account of what the severed mark held. The grey ring fading is not evidence that the missing personal association has returned.
+
 ### M.A.W. Suit — The Denial Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
@@ -206,6 +208,8 @@ The Rejector is a Subject with Subject-Body manifestation and Void expression, h
 
 **Cost:** the wearer begins to feel unaddressed — present in the room and uncalled-for in it — and the second worker, never the wearer, is the one who can see it start.
 
+**Veil removal check:** The individual Suit records a bearer refusing food and medical aid for a day after escaping a coercive bond. Keep the refusal of care separate from the success of the escape. Removal and return to the sealed pouch do not establish that voluntary support feels reachable again; record the bearer’s explicit choice without turning the offer into a new demand. The silver thread’s dimness belongs beside the second worker’s account of feeling unaddressed, not in place of it. Neither sign supplies an instruction permitted inside the chamber.
+
 ### M.A.W. Stigma — The Denial Shield
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
@@ -219,6 +223,8 @@ The Rejector is a Subject with Subject-Body manifestation and Void expression, h
 **Ability:** Rejects incoming damage as if it cannot accept the impact.
 
 **Cost:** The wearer cannot accept help, healing, or emotional support.
+
+**Shield rescue hold:** The individual Stigma describes a short interval of rejecting aid and a new offer after that interval, whereas the primary cost gives no ending. Keep those scopes distinct on the rescue record; do not promise that help can already reach the wearer. Its service-shaft case records a rope refused while the piece was active. Keep the second offer ready rather than counting the first offer, or silence after it, as an accepted rescue. This equipment account does not widen the chamber’s no-instruction exemption or decide the staff association’s outstanding emergency objection.
 
 *The Shield cannot be requested and is not issued. Twice in nine years it has been conferred, both times on a worker who had sat a full Ferrehan watch and told him nothing.*
 

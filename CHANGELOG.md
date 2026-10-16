@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+**Batch 135 / unit 2 — The Rejector `C-IIIγ-063` (`pending push`):** [[SE-C-IIIγ-063_The_Rejector_거부하는_자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-063_The_Rejector_%EA%B1%B0%EB%B6%80%ED%95%98%EB%8A%94_%EC%9E%90.md "SE-C-IIIγ-063_The_Rejector_거부하는_자.md")] R18 predeclared0 batch-short/3 careful-detail; independently authored Lens claim check, Veil removal check, Shield rescue hold; full edited primary reread; numbers unchanged. C-locale wc -w 7,773→8,047.
+
+**Evidence/history:** Full456-line primary and exact063 A–D histories/limits; CSV114–117/archetype84/disposition283; Entity377, Master37–39/detail1222, Tale13. Exact code/Lens/item searches across current WIP/CHANGELOG and all-ref git subjects found no earlier exact-pair disposition; Weapon+1. Fan English conditional/Unknown source refreshed this batch, not canon.
+
+**Holds:** Primary father/brother/mother vs Tale grandfather/father/son; C City vs A Inner; primary Lens ordinary strike vs B coercive mark Skewer3/falloff; Caliper Lens Instant vs primary Medium; primary shoulders vs C crown; primary Shield indefinite refusal vs D short interval/new offer and A unconditional offer; primary4% vs CSV5%; pendant vs Head slot; 20 turns vs seated12. None adjudicated.
+
+**Commentary:** The private ledger never demanding payment makes the refusal legally unanswerable rather than merely obstinate. The no-orders room is an especially sharp institutional cost: autonomy is real, but so is the fifty-one-second evacuation objection. I prefer equipment notes that leave that objection visible instead of pretending the rescue limit solves it.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE192/301=63.79%,109/301 remain,107/301 eligible. Independent Weapon202/287=70.38%,85/287 remain. Exact-pair increment+1; batch2/5. Supplementary sources unchanged.
+
 **Batch 135 / unit 1 — The Grieving Maiden `C-IVβ-041` (`pending push`):** [[SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-041_The_Grieving_Maiden_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%B2%98%EB%85%80.md "SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md")] R18 predeclared0 batch-short/3 careful-detail. Separately authored Requiem return check, Shroud rest and Veil consent; complete edited primary reread. Numbers unchanged. C-locale wc -w 8,059→8,325.
 
 **Evidence/history:** Complete primary including Continued Entry/Apex; exact041 A–D all histories/limits; CSV74–77, archetype74, disposition132, Entity428, Master187–189/detail2932 and Tale63. All six current/volume WIP/CHANGELOG sources plus git exact title/code/item search found Batch25/41/62 prose dispositions, no prior exact equipment review; Weapon+1. imaginary-friend.ts refreshed via GitHub: conditional English/explicit Unknown as fan style example only, not official Project Moon or Somnarak canon.
