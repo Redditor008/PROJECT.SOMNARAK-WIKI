@@ -33,6 +33,16 @@ Outside finished fan source-tradition reference: stalad519-lang/salads-leucotomy
 
 **Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE171/301=56.81%,130/301 remain,128/301 eligible. Independent Weapon187/287=65.16%,100/287 remain. Exact-pair increment+1; batch1/5. Supplementary sources unchanged.
 
+**Batch 131 / unit 2 — Frozen Fury `C-IVδ-668` (`pending push`):** [[SE-C-IVδ-668_Frozen_Fury_얼어붙은_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-668_Frozen_Fury_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%9E%94%ED%95%B4.md "SE-C-IVδ-668_Frozen_Fury_얼어붙은_잔해.md")] R18:0batch-short/3careful-detail, separately authored Lens independent resident-record comparison and irreversible memory cost, Veil present-day anchors/two-witness return, Bracelet consented testimony and two-auditor removal. C-locale wc -w 8,141→8,407.
+
+**Evidence/history:** Complete primary before/after and exact668A–D; CSV803–806; archetype266 Ledger-Pane Lens; entity master463; M.A.W.master292–294/4094; Tale985533–5591; disposition Neutral380 on bounded bay/other holdings unchanged. Batch19unit2 three prose waves; Batch53unit4 a56357a plus4a9d468; Batch66unit9 d2fadcb overlap work, none disposes exact-pair Weapon review. New pair+1.
+
+**Holds:** A resolutionGauge<25 versus weekly agreeing readings/no suppression; A–D random bestowal4%/+3Composure versus primary agent-naming gift/+3work; CSV5%; archetypeInstant versus Range3Medium. Primary bay-only mounted lens/empty street outside versus portable linked-record Blame Excision; edge residue extraction versus corrected-ledger extraction; freeze/noharm/immovable versus damage table/lift and forcible removal harm; growing affected radius versus never past bay. Tale ZoneB/Comprehension3/Pugnahan/moderate versus primary ZoneC/2/valid object works/critical, residents scattered versus unaccounted. Interaction intro brightens versus one unchanged co-presence and documentary/refused relations; Y4239 co-presence versus Y4238 document. No chronology, numerical, disposition or supplementary normalization.
+
+**Commentary:** This works best as a place kept in custody rather than a monster kept restrained. The open, incomplete register is its strongest detail: admitting missing names feels more faithful to the residents than offering a perfect magical answer.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE172/301=57.14%,129/301 remain,127/301 eligible. Independent Weapon188/287=65.51%,99/287 remain. Exact-pair increment+1; batch2/5. Supplementary sources unchanged.
+
 ## Batch 130 — full-SE M.A.W. source review (closed at five)
 
 ### Batch 130 closure — five source reviews complete (2026-10-16)
