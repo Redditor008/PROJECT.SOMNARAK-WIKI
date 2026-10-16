@@ -193,6 +193,8 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 **Ability:** Grudge against the Body. Struck targets carry a faint fracture pattern on the skin for some days — painless, superficial, and matching the ground where the blow landed.
 **Bearer cost:** The wielder experiences emotional numbness toward the source entity's element with each use.
 
+**Weapon attribution:** The item requires the bearer, trigger, source response, cost and unresolved detail before cleaning or rest. Here the formation event remains unrecorded: a first-person account of it is a corrosion warning, not recovered evidence about who took the common ground. Keep the documented numbness toward Grudge distinct from the primary’s painless skin presentation. Neither a quieter emotional response nor relinquishing the implement establishes medical clearance. The clock-holder still confirms exit, and the two existing form profiles remain separate; the item’s short Single profile supplies no new coverage rule for the unfurled tendril.
+
 ### M.A.W. Suit — The Suture-Cracked Hauberk
 
 **Category:** Protective Attire (Calcified Bone-Leather Apron & Staple Mail)
@@ -205,6 +207,8 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 **Bearer cost:** The armor stores resentment as bodily tension: every slight stiffens the wearer, and anger reaches their muscles before thought can slow it.
 **Ability:** Grants resistance to Grudge damage, protecting against the body register of sorrow.
 
+**Hauberk tension:** The Suit account describes accumulated slights stiffening reflexes and anger reaching the body before thought. Enter that cost separately from the photographed fracture pattern; the primary’s painless onset means absence of discomfort cannot certify absence of exposure. Attribution review precedes rest, but review is not conducted by stopping on the field. No resistance value extends a dwell interval or closes an existing print. Return and reassessment leave the infirmary’s disclosure rule intact: the facility receives clearance, not the worker’s underlying cumulative figures or photographs without consent.
+
 ### M.A.W. Stigma — The Fissured Skin Stigma
 
 **Category:** Stigma (Porcelain Fault-Line Mark)
@@ -215,6 +219,8 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat on this holding's cycles. The Stigma's surface carries the fracture pattern of the square metre it was conferred on, and the bay keeps the grid reference beside the award.
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
+
+**Stigma custody:** The individual record names sharpening old injuries and resentments as the Stigma’s cost. That report does not change the field’s painless onset or explain what its ninety-three patterns depict. Keep the award’s grid reference beside the equipment record, and keep clinical detail under the person’s existing consent arrangements. Before care, distinguish the bearer’s reaction from the unrecorded formation event; no convincing personal account fills that absence. The working bonus does not make a pause safe, excuse self-timing or convert an award for calling one’s own pause into permission to exceed the threshold.
 *Seven in nine years, in each case to a worker who called their own pause before the second warden called it. Nobody who was called has received one, and the bay's note repeats that being called is correct and not a fault.*
 
 ### M.A.W. Use Notes

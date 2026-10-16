@@ -55,6 +55,16 @@ Read full primaries/exact identity-resolved A–D and supplementary CSV/archetyp
 
 **Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE188/301=62.46%,113/301 remain,111/301 eligible. Independent Weapon200/287=69.69%,87/287 remain. Exact-pair increment+1; batch3/5. Supplementary sources unchanged.
 
+**Batch 134 / unit 4 — Cracked Flesh `C-IIIγ-921` (`pending push`):** [[SE-C-IIIγ-921_Cracked_Flesh_균열의_들판](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-921_Cracked_Flesh_%EA%B7%A0%EC%97%B4%EC%9D%98_%EB%93%A4%ED%8C%90.md "SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md")] R18 predeclared0 batch-short/3 careful-detail; individually authored Weapon attribution, Hauberk tension and Stigma custody. Entire edited primary reread; existing spike/tendril labels, clinical consent, continuous movement and numeric profiles unchanged. C-locale wc -w 5,973→6,249.
+
+**Evidence/history:** Whole primary including compensation/training and Warden records; exact SE-921 A–D including appearances, Not recorded/N/A limits and care; CSV1043–1046, archetype380, disposition318. Exact designation/title/item searches found no standalone Tale or M.A.W.master entry; Entity359 explicitly awaiting codex row. No neighboring tale substituted. Pair already dispositioned Batch76 fae0d74, confirmed in both current logs and cumulative unique lists, so repeat Weapon+0. Fan conditional/Unknown example retained as style only.
+
+**Holds:** Primary cloth veil vs calcified-apron/mail category; token vs porcelain-mark category; archetype Long vs formal Short2 and primary Tendril Medium3; no new transition or falloff added. Primary permanent skin charge identical across pieces vs B numbness/C tension/D old injuries; A unknown event and generic gauge resolution vs clock-holder exit rule. Primary three minutes vs combat90 seconds/few seconds; ZoneB vs Story ZoneC; no vessel vs Vessel-Destructible; no retreat vs annual41 square metres returned retained. No formation or clinical disclosure invented.
+
+**Commentary:** I think the ordinary ground is more disturbing than the transforming weapon. The compensation trap makes a painless mark a serious institutional injury without needing a pursuing monster. The training decision is especially sharp because the file already contains a cheaper substitute and keeps carrying it forward.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE189/301=62.79%,112/301 remain,110/301 eligible. Independent Weapon200/287=69.69%,87/287 remain. Exact-pair increment+0; batch4/5. Supplementary sources unchanged.
+
 ## Batch 133 — OPEN: five pending-only full-SE reviews (2026-10-16)
 
 The owner's `p` after Batch132 authorizes this one batch, starting at five. Fresh pending-only order: Dreaming Plague N-IVδ-9270.005355549; Cracked Mirror C-IIβ-3100.005301103; Memorial Flame Mid-Ceremony C-IVδ-7630.005288008; Calling Bloom O-IIIβ-9440.005270626; Grieving Love N-IIIβ-9410.005207203. No selection correction; ranking is not a defect finding. Next Friendless Bridge0.005193906 and Rising Wall0.005193007. Expansion5→7→10 only if the actual cohort is simple and each first gate passes.
