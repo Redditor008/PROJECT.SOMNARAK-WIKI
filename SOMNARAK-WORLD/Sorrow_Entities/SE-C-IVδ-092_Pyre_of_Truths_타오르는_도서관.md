@@ -210,6 +210,8 @@ The escalation pattern is specific to Pyre of Truths: it is not a generic contai
 
 **Cost:** The wielder's old scars and burn marks ache; prolonged use leaves severe heat blisters and crimson bruising across the bearer's arms.
 
+**Lance accountability:** The individual Weapon requires an action record before cooling, not a second confrontation to justify the first. Preserve the named record or person, the reviewer and the point at which the threat ended beside the bearer’s old-injury symptoms. Its remaining Fang and Skewer wording is a documented terminology hold; it does not grant a second form or another attack pattern. The filed account establishes custody of an action report, not provenance for a book that appeared in the stacks. No weapon authorization admits a sealed transcript to the public Archive.
+
 ### M.A.W. Suit — The Burning Plate
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
@@ -228,6 +230,8 @@ The escalation pattern is specific to Pyre of Truths: it is not a generic contai
 
 **Cost:** The wearer’s reflexes go slow, in the manner of a reader who has taken in an argument and has not yet worked out the answer to it.
 
+**Plate withdrawal:** The individual Suit’s transfer trial failed when the wearer delayed leaving to make an opponent understand. That is the useful comparison for slow reflexes here: log the observer’s end condition and whether withdrawal followed it, rather than accepting continued resistance as permission to remain. Its maintenance record uses a non-classified document with a known provenance. Do not substitute a sealed Pyre transcript merely because the wearer knows it to be true. The reviewer can end the defense; that authority does not create the custody chain the Archive still lacks.
+
 ### M.A.W. Stigma — The Burning Page
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
@@ -241,6 +245,8 @@ The escalation pattern is specific to Pyre of Truths: it is not a generic contai
 **Ability:** Reveals one truth hidden by the city.
 
 **Cost:** Burns after reading; the reader carries the knowledge permanently.
+
+**Page consequence hold:** Before opening, the individual Stigma permits return to the blank-state folio; after reading, it records no physical removal and requires consequence review. Keep those stages distinct when a bearer asks to give the Page back. Its named recipient and disclosure duties stand beside this primary’s sealed-transcription restriction, not above it. Record any requested disclosure and the authority that refused it without manufacturing an admissible provenance. Park’s item history says the content could not be fully repeated, while this primary’s testimony says it could; neither account is completed from the other.
 
 *The Burning Page is not issued and cannot be asked for. It is found by observers whose written question was their own, and in eleven years never once by an observer carrying a question somebody else set them.*
 

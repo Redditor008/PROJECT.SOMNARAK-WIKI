@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+**Batch 136 / unit 1 — Pyre of Truths `C-IVδ-092` (`pending push`):** [[SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-092_Pyre_of_Truths_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EB%8F%84%EC%84%9C%EA%B4%80.md "SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md")] R18 predeclared0 batch-short/3 careful-detail; Lance accountability, Plate withdrawal and Page consequence hold individually authored; full484-line edited primary reread. C-locale wc -w 8,176→8,452.
+
+**Evidence/history:** Complete primary/exact092 A–D identity, histories, shutdown and conditions; CSV142–145, archetype91, disposition235; Entity443, Master232–234, Tale78. Exact pair already Batch86 f0c0f9a6, confirmed both current logs; Weapon+0. Both historical volumes and git titles searched; earlier30/63 were prose work. Refreshed fan imaginary-friend.ts conditional English/Unknown as style only, not official Project Moon or canon.
+
+**Holds:** B retained Fang/Skewer history/ability vs revised GrimoireLance; no second form inferred. Primary sealed transcripts vs A/D disclosure/public consequence; Park primary verbatim vs D cannot repeat; D metal tile vs glass folio, primary never burns vs consumable Stigma; inventory prohibited vs Final shelf counts; no injuries vs combat burns/destruction; TaleZoneA/Low/Pugnahan vs primaryZoneB/Critical/invalid; original question vs archive-approved; no source changed.
+
+**Commentary:** The fire is less unsettling than the accurate knowledge nobody can use. I find the provenance argument persuasive enough that the clerks cannot simply be cast as obstructive. The personal question log gives the holding warmth, while the unresolved disclosure duties prevent its equipment from becoming an easy answer.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE196/301=65.12%,105/301 remain,103/301 eligible. Independent Weapon205/287=71.43%,82/287 remain. Exact-pair increment+0; batch1/5. Supplementary sources unchanged.
+
 ## Batch 136 — OPEN: five pending full-SE source reviews (2026-10-16)
 
 Owner `p` after135 authorizes this one batch. Remote98a28ef628b770a20be6a2cb933256b8035e7fe9 verified; restored checkout metadata10cd20a recovered after backing up85-file binary diff to /home/user/pre-b136-recovery.patch and proving all remote tracked blobs byte-identical to workspace. No working file overwritten, no history deleted, no duplicate recovery commit. PR14 independently OPEN draft→NON-WIKI. Fresh order: PyreOfTruths C-IVδ-0920.004962355; DoubleMouth C-IIβ-7160.004926108; HomelessSorrow O-IIβ-1190.004916881; Portcullis O-Iα-7940.004805125; SpreadingRoot O-IVδ-6930.004773270. No correction. Next Nemo0.004767064 and Patina0.004656577. Ranking is not a defect finding.
