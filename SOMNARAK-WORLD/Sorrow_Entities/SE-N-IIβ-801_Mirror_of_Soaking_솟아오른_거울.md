@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle, drawn from the anger the surface returns rather than from the length of the session; the file notes that a worker who has genuinely settled their own business yields least, because there is less held in to draw on. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · β — Grudge Brazier, Rage Plate, Rage Lens |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
 | **Recommended response** | Viderehan and Ferrehan only, worked from in front of the surface; take the height above floor level at arrival and at the close, and file the written attribution of the anger to its cause before the shift ends. A worker carrying an open conduct note from the preceding fortnight is rotated off the post, not posted to it. |
@@ -128,7 +128,7 @@
 - **Formation:** The Mirror formed from rage that could not be spoken safely.
 - **The Sorrow:** The grief of injustice left unnamed and anger treated as unacceptable.
 - **The Event:** Citizens swallowed rage under debt and order until suppressed anger became a reflective object.
-- **The People:** Citizens of the Row who were in debt and therefore required to be civil. The Keepers' record holds the collection schedules and no complaints, because complaining was a event of terms, and the file notes that the absence of complaints was treated at the time as evidence of satisfaction.
+- **The People:** Citizens of the Row who were in debt and therefore required to be civil. The Keepers' record holds the collection schedules and no complaints, because the collection schedules required that “the debtor shall conduct himself civilly toward the collecting officer” and that “any discourtesy shall be recorded”, and the file notes that the absence of complaints was treated at the time as evidence of satisfaction.
 - **Expanded origin context:** Collectors called anger disorder and demanded gratitude from people whose debts grew no matter how much they paid. The citizens swallowed their words until the unspoken rage became heavier than the ledgers. One night, a mirror rose through the floor of Collector's Row. Its surface reflected no face. It showed clenched hands, swallowed accusations, and the first moment each viewer had decided that injustice was ordinary.
 
 ## Behavior
