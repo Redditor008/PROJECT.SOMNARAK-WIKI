@@ -8,6 +8,15 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 135 — OPEN: five pending-only full-SE equipment reviews (2026-10-16)
+
+Owner `p` after134 authorizes this one batch, opening at five. Clean assigned HEAD856631489410d0635de36b84ae1afcabfa321a1f verified equal GitHub; no recovery required. PR14 OPEN draft→NON-WIKI. Fresh order: GrievingMaiden C-IVβ-0410.005113346; Rejector C-IIIγ-0630.005066039; WillingChains C-IVδ-9760.005059350; DawnThatForgot N-IIIγ-9170.005030543; Aegis C-IVδ-2000.005005562. No correction. Next PyreOfTruths0.004962355, DoubleMouth0.004926108. Ranking is not a defect finding.
+
+Full-SE190/301=63.12%;111/301 remain,109/301 eligible pending.192 primary/log dispositions include excluded paused SilentChildN-Iα-025 and scope-unconfirmed InheritorC-IIIγ-062. Independent Weapon200/287=69.69%;87/287 remain;14/301 outside complete-pair scope. Exact-pair history independently searched before increment; repeats add0 and held disagreements are dispositions, not defect findings. Four baseline archive/timeline/seam/box gates PASS. Opening supported couples scan0/301; uncapped equipment comparator saved.
+
+Read complete primary, identity-resolved A–D, supplementary registry/archetype/entity/disposition/master/Tale and prior history before editing. Declare R18 short/careful split before each repair, author careful sites separately, reread complete edited primary, validate and gate/push each unit. Preserve source disagreements and unknowns, no invented forms or authority. Expand5→7→10 only when the actual cohort is simple and every first gate passes. If five cannot properly finish, leave open; never close below five. Batch3014+4 separately blocked on eight external dossier bodies; invent none, generate/validate before wiki copy. Owner controls merge; no deployment claimed.
+
+
 ## Batch 134 — CLOSED at five full-SE reviews (2026-10-16)
 
 **Cumulative lead:** Full-SE190/301=63.12%;111/301 remain,109/301 eligible pending. Independent Weapon200/287=69.69%;87/287 remain. Counted five new full-primary dispositions, three new Weapon pairs; CrackedFlesh (Batch76 fae0d74) and MemoryWeaver (Batch87 423c5eb1) are repeats and add zero Weapon counts.192 primary/log dispositions include excluded paused SilentChildN-Iα-025 and scope-unconfirmed InheritorC-IIIγ-062;14/301 primaries remain outside the287 complete-pair Weapon denominator. Held disagreements are reviewed dispositions, not defect findings; unreviewed records are not defective.
