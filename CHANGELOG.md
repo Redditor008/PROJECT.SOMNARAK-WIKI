@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+**Batch 131 / unit 1 — Harbinger `N-IIIβ-155` (`pending push`):** [[SE-N-IIIβ-155_Harbinger_추징관의_그림자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-155_Harbinger_%EC%B6%94%EC%A7%95%EA%B4%80%EC%9D%98_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-N-IIIβ-155_Harbinger_추징관의_그림자.md")] R18:0batch-short/5careful-detail executed one site at a time: repaired two interval sentences; added Maul reviewer/uncertainty/shutdown control without striking the holding, Step return-call and Charm privacy/removal limits. C-locale wc -w 6,988→7,254.
+
+**Evidence/history:** Complete primary before/after and exact155A–D; CSV406–409; archetype113 Wrong-Shadow Mallet; entity master502; M.A.W.master403–405/5319; Tale1357619–7669; disposition Neutral185 with three nil neighbour studies and no contact. Earlier Batch31 bd844db and Batch52unit5 6c5e0e2 are prose reviews, not exact-pair Weapon dispositions; no prior counted exact-pair closure found: Weapon+1.
+
+**Holds:** Primary noncontact/no extraction, Row-only untested Maul, staff notification interval, no response to repayment and distance-series Charm bestowal remain distinct from A–D extraction/verified-balance response, field-strike/aging and bestowal; item/general appearances differ; head slot versus belt cord retained. A Comprehension2 Studied versus Basic, source pressure8–20 versus primary7–17; Tale EchoII/Viderehan primary versus III/Ferrehan and modern interval account; combat Shadow Hand attack versus no contact; work lengthens interval versus Warden no closure slowed; no conflict normalized. Stats, supplementary sources and disposition unchanged.
+
+**Commentary:** The frightening part is that everyone can see a decision except the person it concerns. I find the notice policy compelling because the dossier admits that disclosure harms people too, rather than calling transparency a cure.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE171/301=56.81%,130/301 remain,128/301 eligible. Independent Weapon187/287=65.16%,100/287 remain. Exact-pair increment+1; batch1/5. Supplementary sources unchanged.
+
 ## Batch 131 — OPEN: five pending-only source-led reviews (2026-10-16)
 
 Owner `p` after Batch130 authorizes one next batch, starting at five. Recovery: retained working tree matched a pushed commit byte-for-byte; supported syncbranch.py restored HEAD/index from10cd20a to remote f93c1df without changing dossier content. Clean/equal remote; PR14 OPEN draft→NON-WIKI. Inherited archive, timeline, seam and box gates PASS. Fresh full inventory301, marker union172, excluded SilentChildN-Iα-025/InheritorC-IIIγ-062, counted Full170/301=56.48%,131/301 remaining,129/301 eligible. Independent Weapon186/287=64.81%,101/287 remain;14 unpaired excluded.
