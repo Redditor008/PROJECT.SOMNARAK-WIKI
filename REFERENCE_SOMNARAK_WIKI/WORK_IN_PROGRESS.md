@@ -15,6 +15,14 @@ The owner directed that the previous readable chatroom report become the must-fo
 
 **Current cumulative full-SE coverage through Batch 130 / unit 5:** **56.48% / 100% complete**; **131 / 301 primary dossiers remain** (170 counted dispositions;172 markers including paused SilentChild and scope-unconfirmed Inheritor, both excluded;129 eligible remain). Separately, **Weapon-only coverage is 64.81% / 100% complete**; **101 / 287 eligible pairs remain** (186 counted source-led dispositions). Fourteen primary dossiers remain outside paired scope. Holds count as dispositions, not defect findings; unreviewed cases are not presumed defective.
 
+## Batch 131 — OPEN: five pending-only source-led reviews (2026-10-16)
+
+Owner `p` after Batch130 authorizes one next batch, starting at five. Recovery: retained working tree matched a pushed commit byte-for-byte; supported syncbranch.py restored HEAD/index from10cd20a to remote f93c1df without changing dossier content. Clean/equal remote; PR14 OPEN draft→NON-WIKI. Inherited archive, timeline, seam and box gates PASS. Fresh full inventory301, marker union172, excluded SilentChildN-Iα-025/InheritorC-IIIγ-062, counted Full170/301=56.48%,131/301 remaining,129/301 eligible. Independent Weapon186/287=64.81%,101/287 remain;14 unpaired excluded.
+
+Pending-only worst-first opening scores: HarbingerN-IIIβ-1550.005663940; FrozenFuryC-IVδ-6680.005594406; BrokenClockC-IIIγ-0440.005578550; WelcomeHavenO-IVδ-8970.005515004; MidnightChoirC-IIβ-2450.005460631. No selection correction. Next AngerUnderfoot0.005433764/ForgottenSoldier0.005427408. Primary/exactA–D complete reads, supplementary/master/archetype/Tale/disposition/history required before increments; primary full reread after edits. Source conflicts held, never silently normalized. Independent Weapon pair repeats+0. R18 counts before edits and execution classes separate. Harbinger opening split0batch-short/5careful-detail (two grammar repairs, three equipment-handling additions); no source or combat-number changes. Full Interaction/Warden record precludes simplicity expansion: close at five if all finish.
+
+Outside finished fan source-tradition reference: stalad519-lang/salads-leucotomy-branches Imaginary Friend management entry fetched through GitHub API; flat present-tense conditions and explicit Unknown retained. Fan example only, not official Project Moon or Somnarak canon authority. Comparator baseline saved; overlap and exact-pair counters rechecked at close. Batch301 remains owner-authorized4+4, blocked on eight external bodies; no invention, generate/validate before copy.
+
 ## Batch 130 — full-SE M.A.W. source review (closed at five)
 
 ### Batch 130 closure — five source reviews complete (2026-10-16)
