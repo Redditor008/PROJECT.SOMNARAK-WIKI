@@ -6,6 +6,8 @@
 
 ## The current rule
 
+**Latest owner reminder (2026-10-17): “Remember Nothing Should Be Below 5 + p”.** No batch may be closed below five. Earlier remainder/short-batch exceptions elsewhere in this file are not permission to bypass this reminder; obtain a fresh, specific owner decision if eligible scope is insufficient. Individual validated commits remain required, but they are units of a batch, not substitute batches. This p resumes the already-open Batch137; do not open a second batch or count pending files to satisfy the minimum. The five→seven→ten No change progression remains binding.
+
 **Start at five.** The only ordinary batch sizes are **5, 7, and 10**. The floor is five, not three. Never pad a batch, and never close one below five while five or more eligible pending dossiers remain.
 
 **Owner clarification (2026-10-16):** Five means five completed dossier reviews, not five mandatory edits. If the file and its sources support leaving it unchanged, report **No change** under What changed and still include its individual **Commentary**, evidence and checks. An unchanged primary can be a completed review only after the required review and individual log/gate/push are complete. Pending files do not count as no-change reviews. See the matching amendment in `R-31`.
