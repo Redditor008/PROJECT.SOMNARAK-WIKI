@@ -53,6 +53,16 @@ Outside finished fan source-tradition reference: stalad519-lang/salads-leucotomy
 
 **Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE173/301=57.48%,128/301 remain,126/301 eligible. Independent Weapon188/287=65.51%,99/287 remain. Exact-pair increment+0; batch3/5. Supplementary sources unchanged.
 
+**Batch 131 / unit 4 — Welcome Haven `O-IVδ-897` (`pending push`):** [[SE-O-IVδ-897_Welcome_Haven_부서진_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-897_Welcome_Haven_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%B2%BD.md "SE-O-IVδ-897_Welcome_Haven_부서진_벽.md")] R18:0batch-short/3careful-detail: Pike attribution and witness relinquishment without force permission, Barrier spent-impact record without reset, Charm warning/household distinction without false promise or proxy admission. C-locale wc -w 8,363→8,622.
+
+**Evidence/history:** Complete primary before/after and exact897A–D; CSV955–958; archetype345 faceted lever pike; entity master600; M.A.W.master688–690/8459; Tale23012870–12928; Negative disposition434 on barriers/Guardian structural damage. Batch33unit2 c53e916 prose and Batch66unit7 3fc7eb7 contact-paragraph overlap work do not dispose exact Weapon pair; no prior counted pair found: Weapon+1.
+
+**Holds:** B title/appearance/CSV and mastertable Pike versus A/name/history/file BrokenFang and masterdetailEntry688; matching10–15/Fast3/Medium3/Skewer does not resolve name history. ArchetypeClose versus Medium3; primary repeat structural damage versus B direct-only silence held as omission, not defect. C one impact versus primary lifetime-one explicit, cleaning/rest not reset; D generic boon/reveal victims versus primary reliable structural warning, gift conditions and assurance-forfeiture; CSV5 versus4%. Primary single failed cycle versus90% threshold; combatvalidPugnahan versus prohibited behavior; approved finding/admission versus personal-answerability/post rule and never-attacked qualifier; admissions-only gauge versus RustedWall pair reduction. No owner mechanism invented and no source/stat/disposition changes.
+
+**Commentary:** I find the entity persuasive because the office rule genuinely protects clerks while making an apology impossible. Its name feels bitterly apt: the shelter remains a promise long after the wall has stopped being one.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE174/301=57.81%,127/301 remain,125/301 eligible. Independent Weapon189/287=65.85%,98/287 remain. Exact-pair increment+1; batch4/5. Supplementary sources unchanged.
+
 ## Batch 130 — full-SE M.A.W. source review (closed at five)
 
 ### Batch 130 closure — five source reviews complete (2026-10-16)
