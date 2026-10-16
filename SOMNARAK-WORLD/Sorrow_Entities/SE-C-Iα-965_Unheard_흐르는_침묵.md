@@ -70,7 +70,7 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan is the gauge work and Ferrehan is the interval; Viderehan runs for record, and Pugnahan is barred after the second attempt, with both attempts in the injury schedule. |
 | **Battlefield** | Zone C, Collector's Row |
 | **Resolution Condition** | Do not force sound into it; listen and record what remains |
 
