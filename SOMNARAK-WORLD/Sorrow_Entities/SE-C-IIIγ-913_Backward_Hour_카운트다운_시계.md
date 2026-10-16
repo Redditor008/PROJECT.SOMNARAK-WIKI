@@ -73,7 +73,7 @@
 | **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-913 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | Viderehan and Ferrehan only; the entity is a Time and the other two Work Types are unavailable to it. Nothing shortens an occurrence. Read the fixed points, deploy by rate, stand down at the end, reconcile the clocks. |
 
 ### Combat Actions
 
@@ -88,7 +88,7 @@
 
 1. **Tension:** The bay arrives with the sealed reference clock, confirms the rate against it, and establishes which permissions are held by people in the room. The second part takes longer than the first and is the part that matters.
 2. **Clash:** Four turns, observation and endurance only, conducted from the fixed reading points rather than from any position relative to the entity, which has no position. Rates are called in at each turn.
-3. **Resolution:** The cycle ends on management or on the twelfth hour, whichever comes first, and it is always the twelfth hour. The documented condition is readings taken, presence deployed by rate, and the clocks reconciled afterwards. It closes against the documented suppression condition: **Sixty-one occurrences logged across the fixed-point network since the holding opened**.
+3. **Resolution:** The cycle ends on management or on the twelfth hour, whichever comes first, and it is always the twelfth hour. The documented condition is readings taken, presence deployed by rate, and the clocks reconciled afterwards. It closes under the documented containment condition: **No suppression is possible. Record the start, deploy presence to the highest-rate points and nowhere else, stand Wardens down at the end, and reconcile every clock in the district before the next shift.**
 
 ### Consequences
 
