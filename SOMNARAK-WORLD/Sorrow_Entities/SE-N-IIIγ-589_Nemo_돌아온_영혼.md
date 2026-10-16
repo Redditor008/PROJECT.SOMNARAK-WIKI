@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 per successful work cycle, taken off the names spoken and never off the weeping |
+| **Han-Energy yield** | 16–22 per successful work cycle, taken off the names read and written into the watch book, never off the weeping |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Continuous — it is permanently present and intermittently visible; there is no count to run down |
 | **Tool / M.A.W. grade** | β · Blade, Shroud, Charm — all three graded, two issued and one given |
@@ -88,7 +88,7 @@
 
 1. **Tension:** Identification first: the tears and the mapped site, never the face — the face has been described differently by every observer who has stood there, and all the descriptions are kept, because the disagreement is the finding. The approach is set after that, and the positions are taken.
 2. **Clash:** Flerehan and Ferrehan from the watch position. Pugnahan is not applied: it answers confrontation with waves of other people's memory and the gauge climbs for the rest of the cycle. The names in the tears are read and written down as they fall; they are not spoken back and they are not searched.
-3. **Resolution:** The watch finishes on containment, retreat, or management, or on the condition the file registers: **Speak the names carried by the tears; do not deny the return**. The clause rules the watch: each name is spoken as it was carried, the return is met without argument, and the entry closes on what was heard, not on anybody's reading of it.
+3. **Resolution:** The watch finishes on containment, retreat, or management, or on the condition the file registers: **Tell it you can hear it. Do not speak the names back, do not search them, and do not tell it that it is mistaken.** A good cycle is one in which the names were read and written, none was spoken back, none was searched, and the worker told the entity they could hear it. Site, interval, name count and the unreconciled face descriptions go in the watch book; the spoken acknowledgment is not a recitation of its names.
 
 ### Consequences
 
@@ -283,11 +283,11 @@ The commissioning file holds one person's enquiry correspondence and nothing els
 
 ## 최종 관찰 (Final Observation)
 
-> Two ways to close a watch on Nemo, and the file separates them by what the observer does with the names: one says them aloud as they were carried, and the other explains the return away — kindly, and to the holding's advantage.
+> Two ways to close a watch on Nemo, separated by whether the observer acknowledges hearing it while keeping the names unspoken and unsearched. The Containment Notice strikes the earlier instruction to speak the names aloud: that instruction drove the gauge up, rather than answering the weeping. The watch writes what the tears carry, tells the entity it can hear it, and does not tell it that it is mistaken.
 
-| Speak the names carried by the tears, aloud and as given, and neither deny the return nor explain it away. | Improvise something kinder — console the entity, argue the dead out of coming back, and feed Nemo. |
+| Tell it you can hear it. Read and write the tear-names without speaking them back or searching them; do not tell it that it is mistaken. | Speak a name back, search the names against a register, or explain the return away instead of acknowledging the weeping. These are not substitutes for the holding's recorded instruction. |
 |---|---|
-| The names are said aloud and heard; the weeping is answered, and the entry closes with the holding recorded whole. | The return is denied or explained away; the gauge climbs and the entry closes with Nemo no further on than it was. |
+| The acknowledgment answers the weeping; the names remain written, unspoken and unsearched, with the count entered in the watch book. The two original restrictions remain in force when the watch closes. | A name spoken back is the action the Containment Notice records as driving the gauge up. Explaining the return away does not answer the weeping; neither action satisfies the recorded management instruction. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
