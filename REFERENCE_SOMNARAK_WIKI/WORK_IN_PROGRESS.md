@@ -15,6 +15,16 @@ The owner directed that the previous readable chatroom report become the must-fo
 
 **Current cumulative full-SE coverage through Batch 133 / unit 5:** **61.46% / 100% complete**; **116 / 301 primary dossiers remain** (185 counted dispositions; 187 markers including paused SilentChild and scope-unconfirmed Inheritor, both excluded; 114 eligible remain). Separately, **Weapon-only coverage is 68.64% / 100% complete**; **90 / 287 eligible pairs remain** (197 counted source-led dispositions). Fourteen primary dossiers remain outside paired scope. Holds count as dispositions, not defect findings; unreviewed cases are not presumed defective.
 
+## Batch 134 — OPEN: five pending-only full-SE reviews (2026-10-16)
+
+Owner `p` after Batch133 authorizes one next batch, starting at five. Fresh pending-only order: FriendlessBridge N-IIβ-4880.005193906; RisingWall C-IVδ-2550.005193007; DismissedCry N-IIβ-5600.005174198; CrackedFlesh C-IIIγ-9210.005164781; MemoryWeaver C-IVγ-0090.005164622. No correction. Scores rank pending reviews, not defects. Next GrievingMaiden0.005113346 and Rejector0.005066039. Expand5→7→10 only if every opening dossier is simple and passes its first repository gate.
+
+Independent opening counters: Full-SE185/301=61.46%;116/301 remain,114/301 eligible.187 markers include excluded paused SilentChild and scope-unconfirmed Inheritor. Weapon197/287=68.64%;90/287 remain;14/301 primaries outside paired scope. Exact-pair history checks precede increments; repeat reviews add zero. Held disagreements count as dispositions, never as defect findings.
+
+Recovery: sandbox metadata again reopened at10cd20a while working files already matched GitHub64c3ffce40471b0aa8880ae2b338182b8853221c exactly. Fetched and verified empty full-tree diff against remote, saved binary backup /home/user/pre-b134-recovery.patch, loaded identical index without -u and advanced assigned ref with expected-old-SHA protection. No working file overwritten, historical batch repeated, owner patch deleted or force push. Four baseline archive/timeline/seam/box checks PASS; PR14 independently OPEN draft→NON-WIKI.
+
+Read full primaries/exact identity-resolved A–D and supplementary CSV/archetype/entity and M.A.W.master/Tale/disposition/history before fixes. Declare R18 actual split before each repair, author careful-detail one site at a time, reread complete edited primary, validate and gate/push each dossier separately. Never invent modes, missing biography or numeric reconciliation. Opening supported301-file couple scan0/301, full comparator --limit0 saved. Batch301 remains separately authorized4+4 and blocked on eight external bodies; invent none, generate/validate before wiki copy. Owner controls merge; retain assigned branch and PR14.
+
 ## Batch 133 — OPEN: five pending-only full-SE reviews (2026-10-16)
 
 The owner's `p` after Batch132 authorizes this one batch, starting at five. Fresh pending-only order: Dreaming Plague N-IVδ-9270.005355549; Cracked Mirror C-IIβ-3100.005301103; Memorial Flame Mid-Ceremony C-IVδ-7630.005288008; Calling Bloom O-IIIβ-9440.005270626; Grieving Love N-IIIβ-9410.005207203. No selection correction; ranking is not a defect finding. Next Friendless Bridge0.005193906 and Rising Wall0.005193007. Expansion5→7→10 only if the actual cohort is simple and each first gate passes.

@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 134 — OPEN: five pending-only full-SE reviews (2026-10-16)
+
+Owner `p` after Batch133 authorizes one next batch, starting at five. Fresh pending-only order: FriendlessBridge N-IIβ-4880.005193906; RisingWall C-IVδ-2550.005193007; DismissedCry N-IIβ-5600.005174198; CrackedFlesh C-IIIγ-9210.005164781; MemoryWeaver C-IVγ-0090.005164622. No correction. Scores rank pending reviews, not defects. Next GrievingMaiden0.005113346 and Rejector0.005066039. Expand5→7→10 only if every opening dossier is simple and passes its first repository gate.
+
+Independent opening counters: Full-SE185/301=61.46%;116/301 remain,114/301 eligible.187 markers include excluded paused SilentChild and scope-unconfirmed Inheritor. Weapon197/287=68.64%;90/287 remain;14/301 primaries outside paired scope. Exact-pair history checks precede increments; repeat reviews add zero. Held disagreements count as dispositions, never as defect findings.
+
+Recovery: sandbox metadata again reopened at10cd20a while working files already matched GitHub64c3ffce40471b0aa8880ae2b338182b8853221c exactly. Fetched and verified empty full-tree diff against remote, saved binary backup /home/user/pre-b134-recovery.patch, loaded identical index without -u and advanced assigned ref with expected-old-SHA protection. No working file overwritten, historical batch repeated, owner patch deleted or force push. Four baseline archive/timeline/seam/box checks PASS; PR14 independently OPEN draft→NON-WIKI.
+
+Read full primaries/exact identity-resolved A–D and supplementary CSV/archetype/entity and M.A.W.master/Tale/disposition/history before fixes. Declare R18 actual split before each repair, author careful-detail one site at a time, reread complete edited primary, validate and gate/push each dossier separately. Never invent modes, missing biography or numeric reconciliation. Opening supported301-file couple scan0/301, full comparator --limit0 saved. Batch301 remains separately authorized4+4 and blocked on eight external bodies; invent none, generate/validate before wiki copy. Owner controls merge; retain assigned branch and PR14.
+
 ## Batch 133 — CLOSED at 5 / 5 (2026-10-16)
 
 All five dossier units passed the repository gate and were pushed individually. This closure reconciles their full hashes in both logs; its own gate/push must be verified before reporting completion.
