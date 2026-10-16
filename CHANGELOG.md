@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+**Batch 135 / unit 4 — Dawn That Forgot `N-IIIγ-917` (`pending push`):** [[SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-917_Dawn_That_Forgot_%EC%9E%A0%EB%93%9C%EB%8A%94_%EC%83%88%EB%B2%BD.md "SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md")] R18 predeclared1 batch-short/3 careful-detail: same-file Registrum perimeter procedure spliced with unique/length assertions into conflicting physical-suppression priority; authored Edge exposure account, Veil handover, Token lapse. Entire357-line edited primary reread. C-locale wc -w 4,637→4,924.
+
+**Evidence/history:** Full primary/exact917 A–D with N/A/not-recorded histories preserved; CSV1027–1030/archetype376/disposition345. Entity359 explicitly lists917 as awaiting codex row; Master/Tales exact917/title searches have no entry, absence retained. Historical45 R29/59unit8 combat/61 testimony comparison/67–68 other-unit pair clearing are not exact-pair reviews; current logs and all-ref git title/item search found no earlier Weapon disposition; Weapon+1.
+
+**Holds:** Primary slow waking vs B numbness; source event Not recorded in A–D not a missing story to invent; Edge blade vs archetype DawnHorizonLens Instant; transform header vs expansion table; per-turn drain vs street gauge; 29 episodes/since4238 vs17-year widenings/9years stable vs document4232+1778; WeightedSilence no-entry claim vs four logged entries; private totals vs interaction form asking total. No event or recovery invented.
+
+**Commentary:** This is strongest when it refuses a spectacular answer: the district loses an early shift, and every intervention still ends at the same minute. The junior researcher’s unrequested page and the infirmary’s refusal to disclose totals make recognition and custody the real drama. I want the equipment to keep that restraint rather than introduce a miraculous waking tool.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE194/301=64.45%,107/301 remain,105/301 eligible. Independent Weapon204/287=71.08%,83/287 remain. Exact-pair increment+1; batch4/5. Supplementary sources unchanged.
+
 **Batch 135 / unit 3 — Willing Chains `C-IVδ-976` (`pending push`):** [[SE-C-IVδ-976_Willing_Chains_스며든_사슬](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-976_Willing_Chains_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%82%AC%EC%8A%AC.md "SE-C-IVδ-976_Willing_Chains_스며든_사슬.md")] R18 predeclared0 batch-short/3 careful-detail. Independent Lens authority boundary, Veil watch comparison, Lantern reading; complete461-line edited primary reread; no stat changes. C-locale wc -w 7,375→7,664.
 
 **Evidence/history:** Entire primary/exact976 A–D with source-trace histories/corrosion/shutdown; CSV1127–1130, archetype400, disposition258; Entity468, Master307–309/detail4260, Tale103. Chainwreathed alias resolved by976. Batch52/unit9 was generic personalization, not exact-pair Weapon review; both current logs/code/item/aliases and all-ref git title search found no earlier exact-pair disposition; Weapon+1.

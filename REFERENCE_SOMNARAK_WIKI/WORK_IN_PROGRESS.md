@@ -30,6 +30,16 @@
 
 **Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE193/301=64.12%,108/301 remain,106/301 eligible. Independent Weapon203/287=70.73%,84/287 remain. Exact-pair increment+1; batch3/5. Supplementary sources unchanged.
 
+**Batch 135 / unit 4 — Dawn That Forgot `N-IIIγ-917` (`pending push`):** [[SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-917_Dawn_That_Forgot_%EC%9E%A0%EB%93%9C%EB%8A%94_%EC%83%88%EB%B2%BD.md "SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md")] R18 predeclared1 batch-short/3 careful-detail: same-file Registrum perimeter procedure spliced with unique/length assertions into conflicting physical-suppression priority; authored Edge exposure account, Veil handover, Token lapse. Entire357-line edited primary reread. C-locale wc -w 4,637→4,924.
+
+**Evidence/history:** Full primary/exact917 A–D with N/A/not-recorded histories preserved; CSV1027–1030/archetype376/disposition345. Entity359 explicitly lists917 as awaiting codex row; Master/Tales exact917/title searches have no entry, absence retained. Historical45 R29/59unit8 combat/61 testimony comparison/67–68 other-unit pair clearing are not exact-pair reviews; current logs and all-ref git title/item search found no earlier Weapon disposition; Weapon+1.
+
+**Holds:** Primary slow waking vs B numbness; source event Not recorded in A–D not a missing story to invent; Edge blade vs archetype DawnHorizonLens Instant; transform header vs expansion table; per-turn drain vs street gauge; 29 episodes/since4238 vs17-year widenings/9years stable vs document4232+1778; WeightedSilence no-entry claim vs four logged entries; private totals vs interaction form asking total. No event or recovery invented.
+
+**Commentary:** This is strongest when it refuses a spectacular answer: the district loses an early shift, and every intervention still ends at the same minute. The junior researcher’s unrequested page and the infirmary’s refusal to disclose totals make recognition and custody the real drama. I want the equipment to keep that restraint rather than introduce a miraculous waking tool.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE194/301=64.45%,107/301 remain,105/301 eligible. Independent Weapon204/287=71.08%,83/287 remain. Exact-pair increment+1; batch4/5. Supplementary sources unchanged.
+
 ## Batch 135 — OPEN: five pending-only full-SE equipment reviews (2026-10-16)
 
 Owner `p` after134 authorizes this one batch, opening at five. Clean assigned HEAD856631489410d0635de36b84ae1afcabfa321a1f verified equal GitHub; no recovery required. PR14 OPEN draft→NON-WIKI. Fresh order: GrievingMaiden C-IVβ-0410.005113346; Rejector C-IIIγ-0630.005066039; WillingChains C-IVδ-9760.005059350; DawnThatForgot N-IIIγ-9170.005030543; Aegis C-IVδ-2000.005005562. No correction. Next PyreOfTruths0.004962355, DoubleMouth0.004926108. Ranking is not a defect finding.
