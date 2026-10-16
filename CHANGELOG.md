@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+**Batch 132 / unit 3 — Labyrinth of Stolen Faces `C-IVγ-180` (`pending push`):** [[SE-C-IVγ-180_Labyrinth_of_Stolen_Faces_기억의_미로](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-180_Labyrinth_of_Stolen_Faces_%EA%B8%B0%EC%96%B5%EC%9D%98_%EB%AF%B8%EB%A1%9C.md "SE-C-IVγ-180_Labyrinth_of_Stolen_Faces_기억의_미로.md")] R18:0batch-short/3careful-detail, individually authored Lens custody, Veil review and Key direction limits. Distinguished unreportable loss from first-person adoption and memory direction from safe exit; retained the outside-handler tether rule. C-locale wc -w 7,305→7,564.
+
+**Evidence/history:** Complete primary pre/postread and exact1018A–D; CSV234–237; archetype418 Deep-Blue Han Scimitar (not Owed180); entity master437; M.A.W.master214–216/3230; Tale724080–4133; disposition400 entrant-confined hazard. Prior Batch6unit2 98c6a71 is prose review; Batch75unit1 concerns Remembrance, not a new Maze exact-pair Weapon count. No earlier counted pair disposition found: Weapon+1.
+
+**Holds:** Lens-ground disc/optical master versus scimitar archetype; Head slot versus pendant/choker type and CSV generic5% versus item/primary4%; A transform-capable versus nonbreaching; Registrum/Tale Viderehan-only versus Ferrehan valid in behavior/A; no gauge decrease ever versus Ferrehan Decrease; no amnesia versus small memories lost; unentered maze unchanging versus incoming-memory internal expansion and residents above; ultimate no outside/surface spread versus entrant-confined disposition; γ classification versus Moderate threat wording. All profiles and supplementary sources unchanged.
+
+**Commentary:** The accurate familiar corridor is more frightening than a false one. I think the handler staying outside is the dossier’s strongest image: care here means refusing to share the experience.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE178/301=59.14%,123/301 remain,121/301 eligible. Independent Weapon193/287=67.25%,94/287 remain. Exact-pair increment+1; batch3/5. Supplementary sources unchanged.
+
 **Batch 132 / unit 2 — Forgotten Soldier `N-IIβ-033` (`pending push`):** [[SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-033_Forgotten_Soldier_%EC%9E%8A%ED%98%80%EC%A7%84_%EB%B3%91%EC%82%AC.md "SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md")] R18:1batch-short/4careful-detail, separated. Used existing Stigma heading/type to replace Duty Charm with Duty Blade — Accessory (Stigma). Added selected-target-only targeting, Fang prolonged-use/return, Plate attribution and Stigma borrowed-history controls one site at a time. C-locale wc -w 7,324→7,587.
 
 **Evidence/history:** Complete primary pre/postread and exact1005A–D; CSV182–185; archetype405 Temple Bell-Staff (not Guardian Lens033 or Hollow Knight073); entity master523; M.A.W.master466–468/6012; Tale1568747–8800; disposition127 Conditional from unordered nine-hour Maw hold. Prior Batch15unit2 97459df is prose review, not counted exact-pair Weapon closure; no earlier counted pair disposition found: Weapon+1.

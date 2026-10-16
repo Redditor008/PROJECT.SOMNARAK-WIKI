@@ -202,6 +202,8 @@ Expansion here is not a breach and not a surge; it is the Maze taking in more th
 
 **Cost:** Small nameless memories go with each use, and the wielder cannot report the loss — what is gone leaves no outline to notice. The usage log therefore requires a countersignature at end of shift, and the countersignature is taken from a colleague rather than from the wielder.
 
+**Lens custody:** The individual Weapon record requires the source event and the anchor-and-time limit to remain attached to use. Its first warning is the bearer describing the collected lives as personal history; this differs from noticing a missing memory, which the primary account says the wielder cannot do. Cleaning or rest follows attribution review of bearer, trigger, source response, cost and unresolved detail. A named witness states the Labyrinth’s title and event while the Lens is relinquished. The lost memories are not refunded by that shutdown.
+
 ### M.A.W. Suit — The Maze Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
@@ -220,6 +222,8 @@ Expansion here is not a breach and not a surge; it is the Maze taking in more th
 
 **Cost:** The wearer goes faintly absent to themselves and reports it as their own history beginning to sound like something they were told. Nobody has described this as frightening at the time; it is the debrief that turns it into a finding.
 
+**Veil review:** The Suit’s individual record warns about the opposite movement as well: the source sorrow begins to feel autobiographical. First-person ownership of the Maze’s event and a source response recurring outside contact are its recorded warning and escalation. Keep those entries distinct from the wearer’s own history sounding second-hand in debrief. Attribution review precedes maintenance; a named witness states title and event while the Veil is relinquished. Resistance does not suspend the outside counselor’s comparison against the wearer’s record.
+
 ### M.A.W. Stigma — The Maze Key
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
@@ -233,6 +237,8 @@ Expansion here is not a breach and not a surge; it is the Maze taking in more th
 **Ability:** Always points toward the wearer's own memories.
 
 **Cost:** It cannot distinguish a painful memory from a safe exit.
+
+**Key direction:** The individual Stigma record binds the bearer to maintaining an anchor and limiting exploration, despite its pointer always seeking their own memories. A direction that feels personally accurate therefore does not replace the written route or the handler’s line. The item record marks adopting the source event as one’s own as a failure sign and requires attribution review before cleaning or rest. Its shutdown is relinquishment while a named witness states the source title and event, not following the pointer farther inside. Removal preserves the record without refunding the carrying cost.
 
 *The key is not manufactured and cannot be requisitioned. The Maze gives one to a worker who reached the anchor point on the written route after passing a corridor they recognised; it has never given one to a worker who followed the recognition instead. Three exist on the post, and the file records which route each was issued after.*
 

@@ -56,6 +56,16 @@ Batch301 remains the separately authorized 4+4 variant, blocked on eight externa
 
 **Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE177/301=58.80%,124/301 remain,122/301 eligible. Independent Weapon192/287=66.90%,95/287 remain. Exact-pair increment+1; batch2/5. Supplementary sources unchanged.
 
+**Batch 132 / unit 3 — Labyrinth of Stolen Faces `C-IVγ-180` (`pending push`):** [[SE-C-IVγ-180_Labyrinth_of_Stolen_Faces_기억의_미로](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-180_Labyrinth_of_Stolen_Faces_%EA%B8%B0%EC%96%B5%EC%9D%98_%EB%AF%B8%EB%A1%9C.md "SE-C-IVγ-180_Labyrinth_of_Stolen_Faces_기억의_미로.md")] R18:0batch-short/3careful-detail, individually authored Lens custody, Veil review and Key direction limits. Distinguished unreportable loss from first-person adoption and memory direction from safe exit; retained the outside-handler tether rule. C-locale wc -w 7,305→7,564.
+
+**Evidence/history:** Complete primary pre/postread and exact1018A–D; CSV234–237; archetype418 Deep-Blue Han Scimitar (not Owed180); entity master437; M.A.W.master214–216/3230; Tale724080–4133; disposition400 entrant-confined hazard. Prior Batch6unit2 98c6a71 is prose review; Batch75unit1 concerns Remembrance, not a new Maze exact-pair Weapon count. No earlier counted pair disposition found: Weapon+1.
+
+**Holds:** Lens-ground disc/optical master versus scimitar archetype; Head slot versus pendant/choker type and CSV generic5% versus item/primary4%; A transform-capable versus nonbreaching; Registrum/Tale Viderehan-only versus Ferrehan valid in behavior/A; no gauge decrease ever versus Ferrehan Decrease; no amnesia versus small memories lost; unentered maze unchanging versus incoming-memory internal expansion and residents above; ultimate no outside/surface spread versus entrant-confined disposition; γ classification versus Moderate threat wording. All profiles and supplementary sources unchanged.
+
+**Commentary:** The accurate familiar corridor is more frightening than a false one. I think the handler staying outside is the dossier’s strongest image: care here means refusing to share the experience.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE178/301=59.14%,123/301 remain,121/301 eligible. Independent Weapon193/287=67.25%,94/287 remain. Exact-pair increment+1; batch3/5. Supplementary sources unchanged.
+
 ## Batch 131 — OPEN: five pending-only source-led reviews (2026-10-16)
 
 Owner `p` after Batch130 authorizes one next batch, starting at five. Recovery: retained working tree matched a pushed commit byte-for-byte; supported syncbranch.py restored HEAD/index from10cd20a to remote f93c1df without changing dossier content. Clean/equal remote; PR14 OPEN draft→NON-WIKI. Inherited archive, timeline, seam and box gates PASS. Fresh full inventory301, marker union172, excluded SilentChildN-Iα-025/InheritorC-IIIγ-062, counted Full170/301=56.48%,131/301 remaining,129/301 eligible. Independent Weapon186/287=64.81%,101/287 remain;14 unpaired excluded.
