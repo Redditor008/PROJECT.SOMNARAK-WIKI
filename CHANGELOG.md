@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+**Batch 134 / unit 1 — Friendless Bridge `N-IIβ-488` (`pending push`):** [[SE-N-IIβ-488_Friendless_Bridge_스며든_다리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-488_Friendless_Bridge_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%8B%A4%EB%A6%AC.md "SE-N-IIβ-488_Friendless_Bridge_스며든_다리.md")] R18 declared before editing:0 batch-short/3 careful-detail. Authored Fang inspection, independent Plate anchors and Bracelet light acknowledgment separately, then reread the entire edited primary. No numeric change. C-locale wc -w 8,187→8,439.
+
+**Evidence/history:** Full primary, exact SE-488 A–D, CSV four rows, archetype, disposition, entity index, exact M.A.W.master493–495 and Tale165 cross-read by designation despite Spreading Bridge alias. Exact-pair disposition search in WIP/CHANGELOG including volumes found prior R29 ad7d6c7 and Batch57 stock-line b0b370d, not a prior equipment disposition. Source-tradition example: imaginary-friend.ts refreshed through GitHub; flat English conditionals and explicit Unknown only, fan example not official Project Moon or Somnarak authority.
+
+**Holds:** Primary curved dark Fang/generic Body strike vs B crimson two edges/forced-span cut and archetype Twin-Shore paired blades; Plate tone; primary work-specific +1 vs A/D +1 Resilience; primary waiting release/two signatures vs A mutual acknowledgment or honest withdrawal. Carry conditions and numerical profiles stay in their own source scopes; no replacement or invented reconciliation.
+
+**Commentary:** I find the helpful crew becoming the hazard more convincing than a simple punishment for loneliness. The family is trapped by debt as well as hesitation, so I would not read every failed reunion as a personal refusal. The held release rules matter because withdrawal and acknowledgment are not the same ending.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE186/301=61.79%,115/301 remain,113/301 eligible. Independent Weapon198/287=68.99%,89/287 remain. Exact-pair increment+1; batch1/5. Supplementary sources unchanged.
+
 ## Batch 134 — OPEN: five pending-only full-SE reviews (2026-10-16)
 
 Owner `p` after Batch133 authorizes one next batch, starting at five. Fresh pending-only order: FriendlessBridge N-IIβ-4880.005193906; RisingWall C-IVδ-2550.005193007; DismissedCry N-IIβ-5600.005174198; CrackedFlesh C-IIIγ-9210.005164781; MemoryWeaver C-IVγ-0090.005164622. No correction. Scores rank pending reviews, not defects. Next GrievingMaiden0.005113346 and Rejector0.005066039. Expand5→7→10 only if every opening dossier is simple and passes its first repository gate.
