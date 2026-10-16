@@ -57,6 +57,16 @@ Batch301 remains the separately owner-authorized4+4 variant, blocked on eight ex
 
 **Checks/progress:** RESIDUAL0/pipeTrue/dupes[]; verify seam output retained in the check evidence (Dreaming Plague only: unchanged known substring false-positive in breathe the same); RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE183/301=60.80%,118/301 remain,116/301 eligible. Independent Weapon197/287=68.64%,90/287 remain. Exact-pair increment+0; batch3/5. Supplementary sources unchanged.
 
+**Batch 133 / unit 4 — Calling Bloom `O-IIIβ-944` (`pending push`):** [[SE-O-IIIβ-944_Calling_Bloom_부르는_꽃](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B2-944_Calling_Bloom_%EB%B6%80%EB%A5%B4%EB%8A%94_%EA%BD%83.md "SE-O-IIIβ-944_Calling_Bloom_부르는_꽃.md")] R18 declared0 batch-short/3 careful-detail: Vine attribution, Mantle return and Petal review, authored separately. Complete edited primary reread; no reach, area pattern or numeric field added/changed. C-locale wc -w 7,157→7,423.
+
+**Evidence/history:** Complete primary and exact944A–D; CSV1087–1090; archetype391; entity master359 lists awaiting-row status; exact name/code absent from M.A.W.master and standalone Tale, no neighbouring flower story substituted. Disposition336 Neutral with both calming and agitating pairings. Batch83unit3 c893035d already counted (25th), prior Side hold reread: repeat Weapon+0. Earlier Batch44unit4 prose repair does not erase that counted disposition.
+
+**Holds:** PrimaryRange3 versus A/BRange4 (bothLong), whip-vine versus Close bone-mandible archetype; AoE omissions remain omissions and no mapping invented. Seojun fate unknown/missing versus Warden ordinary verified elsewhere; silence approach versus naming child; accept embrace instruction versus contact dissolution/no-touch; unanswered-call breach versus unanswered Ferrehan decrease; near-only personal warning versus unique stolen-voice claim retained; no other eye-bloom origin or count inferred. No supplementary source changed.
+
+**Commentary:** The child is both the bait and the person caught by it. That is stronger than treating the wood as a puzzle solved by the right name. I kept the family’s privacy and the unanswered parts of the record from becoming equipment instructions.
+
+**Checks/progress:** RESIDUAL0/pipeTrue/dupes[]; verify seam output retained in the check evidence (Dreaming Plague only: unchanged known substring false-positive in breathe the same); RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE184/301=61.13%,117/301 remain,115/301 eligible. Independent Weapon197/287=68.64%,90/287 remain. Exact-pair increment+0; batch4/5. Supplementary sources unchanged.
+
 ## Batch 132 — OPEN: five pending-only source-led reviews (2026-10-16)
 
 The owner's `p` after Batch131 authorizes one next batch. Start at five; expansion requires both simplicity and first-pass repository gates. The inherited checkout is clean and equal to the verified remote ee14489; no recovery mutation was needed. Archive, timeline, seam and box checks pass. PR14 remains OPEN draft targeting NON-WIKI; owner controls merge.
