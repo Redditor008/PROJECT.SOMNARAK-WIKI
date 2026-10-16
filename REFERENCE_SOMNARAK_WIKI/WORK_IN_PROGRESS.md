@@ -13,7 +13,7 @@ The owner directed that the previous readable chatroom report become the must-fo
 
 ## Full-SE M.A.W. audit — active scope (expanded 2026-10-11)
 
-**Current cumulative full-SE coverage through Batch 130 / unit 5:** **56.48% / 100% complete**; **131 / 301 primary dossiers remain** (170 counted dispositions;172 markers including paused SilentChild and scope-unconfirmed Inheritor, both excluded;129 eligible remain). Separately, **Weapon-only coverage is 64.81% / 100% complete**; **101 / 287 eligible pairs remain** (186 counted source-led dispositions). Fourteen primary dossiers remain outside paired scope. Holds count as dispositions, not defect findings; unreviewed cases are not presumed defective.
+**Current cumulative full-SE coverage through Batch 131 / unit 5:** **58.14% / 100% complete**; **126 / 301 primary dossiers remain** (175 counted dispositions; 177 markers including paused SilentChild and scope-unconfirmed Inheritor, both excluded; 124 eligible remain). Separately, **Weapon-only coverage is 66.20% / 100% complete**; **97 / 287 eligible pairs remain** (190 counted source-led dispositions). Fourteen primary dossiers remain outside paired scope. Holds count as dispositions, not defect findings; unreviewed cases are not presumed defective.
 
 ## Batch 131 — OPEN: five pending-only source-led reviews (2026-10-16)
 
@@ -23,7 +23,7 @@ Pending-only worst-first opening scores: HarbingerN-IIIβ-1550.005663940; Frozen
 
 Outside finished fan source-tradition reference: stalad519-lang/salads-leucotomy-branches Imaginary Friend management entry fetched through GitHub API; flat present-tense conditions and explicit Unknown retained. Fan example only, not official Project Moon or Somnarak canon authority. Comparator baseline saved; overlap and exact-pair counters rechecked at close. Batch301 remains owner-authorized4+4, blocked on eight external bodies; no invention, generate/validate before copy.
 
-**Batch 131 / unit 1 — Harbinger `N-IIIβ-155` (`pending push`):** [[SE-N-IIIβ-155_Harbinger_추징관의_그림자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-155_Harbinger_%EC%B6%94%EC%A7%95%EA%B4%80%EC%9D%98_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-N-IIIβ-155_Harbinger_추징관의_그림자.md")] R18:0batch-short/5careful-detail executed one site at a time: repaired two interval sentences; added Maul reviewer/uncertainty/shutdown control without striking the holding, Step return-call and Charm privacy/removal limits. C-locale wc -w 6,988→7,254.
+**Batch 131 / unit 1 — Harbinger `N-IIIβ-155` (`f153895e411fe99c79fc66d714b5344dc0d70e87`; PUSH VERIFIED):** [[SE-N-IIIβ-155_Harbinger_추징관의_그림자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-155_Harbinger_%EC%B6%94%EC%A7%95%EA%B4%80%EC%9D%98_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-N-IIIβ-155_Harbinger_추징관의_그림자.md")] R18:0batch-short/5careful-detail executed one site at a time: repaired two interval sentences; added Maul reviewer/uncertainty/shutdown control without striking the holding, Step return-call and Charm privacy/removal limits. C-locale wc -w 6,988→7,254.
 
 **Evidence/history:** Complete primary before/after and exact155A–D; CSV406–409; archetype113 Wrong-Shadow Mallet; entity master502; M.A.W.master403–405/5319; Tale1357619–7669; disposition Neutral185 with three nil neighbour studies and no contact. Earlier Batch31 bd844db and Batch52unit5 6c5e0e2 are prose reviews, not exact-pair Weapon dispositions; no prior counted exact-pair closure found: Weapon+1.
 
@@ -33,7 +33,7 @@ Outside finished fan source-tradition reference: stalad519-lang/salads-leucotomy
 
 **Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE171/301=56.81%,130/301 remain,128/301 eligible. Independent Weapon187/287=65.16%,100/287 remain. Exact-pair increment+1; batch1/5. Supplementary sources unchanged.
 
-**Batch 131 / unit 2 — Frozen Fury `C-IVδ-668` (`pending push`):** [[SE-C-IVδ-668_Frozen_Fury_얼어붙은_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-668_Frozen_Fury_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%9E%94%ED%95%B4.md "SE-C-IVδ-668_Frozen_Fury_얼어붙은_잔해.md")] R18:0batch-short/3careful-detail, separately authored Lens independent resident-record comparison and irreversible memory cost, Veil present-day anchors/two-witness return, Bracelet consented testimony and two-auditor removal. C-locale wc -w 8,141→8,407.
+**Batch 131 / unit 2 — Frozen Fury `C-IVδ-668` (`6233bb375b8e5379857bd4171cdebe32846c7568`; PUSH VERIFIED):** [[SE-C-IVδ-668_Frozen_Fury_얼어붙은_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-668_Frozen_Fury_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%9E%94%ED%95%B4.md "SE-C-IVδ-668_Frozen_Fury_얼어붙은_잔해.md")] R18:0batch-short/3careful-detail, separately authored Lens independent resident-record comparison and irreversible memory cost, Veil present-day anchors/two-witness return, Bracelet consented testimony and two-auditor removal. C-locale wc -w 8,141→8,407.
 
 **Evidence/history:** Complete primary before/after and exact668A–D; CSV803–806; archetype266 Ledger-Pane Lens; entity master463; M.A.W.master292–294/4094; Tale985533–5591; disposition Neutral380 on bounded bay/other holdings unchanged. Batch19unit2 three prose waves; Batch53unit4 a56357a plus4a9d468; Batch66unit9 d2fadcb overlap work, none disposes exact-pair Weapon review. New pair+1.
 
@@ -43,7 +43,7 @@ Outside finished fan source-tradition reference: stalad519-lang/salads-leucotomy
 
 **Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE172/301=57.14%,129/301 remain,127/301 eligible. Independent Weapon188/287=65.51%,99/287 remain. Exact-pair increment+1; batch2/5. Supplementary sources unchanged.
 
-**Batch 131 / unit 3 — Broken Clock `C-IIIγ-044` (`pending push`):** [[SE-C-IIIγ-044_Broken_Clock_부서진_시계](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-044_Broken_Clock_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%8B%9C%EA%B3%84.md "SE-C-IIIγ-044_Broken_Clock_부서진_시계.md")] R18:0batch-short/4careful-detail: one grammatical article repair; Cudgel attribution/care, Greatcoat outside-clock non-waiver, Wheel independent timing and no invented cranial-removal procedure. C-locale wc -w 8,039→8,301.
+**Batch 131 / unit 3 — Broken Clock `C-IIIγ-044` (`c8dda0e27e689073cb249162c86f241add101898`; PUSH VERIFIED):** [[SE-C-IIIγ-044_Broken_Clock_부서진_시계](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-044_Broken_Clock_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%8B%9C%EA%B3%84.md "SE-C-IIIγ-044_Broken_Clock_부서진_시계.md")] R18:0batch-short/4careful-detail: one grammatical article repair; Cudgel attribution/care, Greatcoat outside-clock non-waiver, Wheel independent timing and no invented cranial-removal procedure. C-locale wc -w 8,039→8,301.
 
 **Evidence/history:** Complete primary before/after and identity-resolved1002A–D (not044DawnofMourning); CSV170–173 and unrelated86–89 inspected; archetype403 and unrelated77; entity master374; M.A.W.master28–30/1122; Tale10536–595; Neutral disposition308. Batch76unit2 06c5754 already disposed this exact polearm profile conflict: Weapon+0, repeated review only.
 
@@ -53,7 +53,7 @@ Outside finished fan source-tradition reference: stalad519-lang/salads-leucotomy
 
 **Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE173/301=57.48%,128/301 remain,126/301 eligible. Independent Weapon188/287=65.51%,99/287 remain. Exact-pair increment+0; batch3/5. Supplementary sources unchanged.
 
-**Batch 131 / unit 4 — Welcome Haven `O-IVδ-897` (`pending push`):** [[SE-O-IVδ-897_Welcome_Haven_부서진_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-897_Welcome_Haven_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%B2%BD.md "SE-O-IVδ-897_Welcome_Haven_부서진_벽.md")] R18:0batch-short/3careful-detail: Pike attribution and witness relinquishment without force permission, Barrier spent-impact record without reset, Charm warning/household distinction without false promise or proxy admission. C-locale wc -w 8,363→8,622.
+**Batch 131 / unit 4 — Welcome Haven `O-IVδ-897` (`74a2b01274504d3b7e6feec999648b3ad149246d`; PUSH VERIFIED):** [[SE-O-IVδ-897_Welcome_Haven_부서진_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-897_Welcome_Haven_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%B2%BD.md "SE-O-IVδ-897_Welcome_Haven_부서진_벽.md")] R18:0batch-short/3careful-detail: Pike attribution and witness relinquishment without force permission, Barrier spent-impact record without reset, Charm warning/household distinction without false promise or proxy admission. C-locale wc -w 8,363→8,622.
 
 **Evidence/history:** Complete primary before/after and exact897A–D; CSV955–958; archetype345 faceted lever pike; entity master600; M.A.W.master688–690/8459; Tale23012870–12928; Negative disposition434 on barriers/Guardian structural damage. Batch33unit2 c53e916 prose and Batch66unit7 3fc7eb7 contact-paragraph overlap work do not dispose exact Weapon pair; no prior counted pair found: Weapon+1.
 
@@ -63,7 +63,7 @@ Outside finished fan source-tradition reference: stalad519-lang/salads-leucotomy
 
 **Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE174/301=57.81%,127/301 remain,125/301 eligible. Independent Weapon189/287=65.85%,98/287 remain. Exact-pair increment+1; batch4/5. Supplementary sources unchanged.
 
-**Batch 131 / unit 5 — Midnight Choir `C-IIβ-245` (`pending push`):** [[SE-C-IIβ-245_Midnight_Choir_노래하는_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-245_Midnight_Choir_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%B2%BD.md "SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md")] R18:0batch-short/5careful-detail: repaired midnight sentence and fused Tension instruction; Requiem phrase boundary/undrawn local blade, Shroud between-song removal/noon care, Stone truthful calm/open-air release without compelled completion. C-locale wc -w 7,968→8,256.
+**Batch 131 / unit 5 — Midnight Choir `C-IIβ-245` (`b45c0b5555d94e524a1eec4cebb15c743099ec24`; PUSH VERIFIED):** [[SE-C-IIβ-245_Midnight_Choir_노래하는_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-245_Midnight_Choir_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%B2%BD.md "SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md")] R18:0batch-short/5careful-detail: repaired midnight sentence and fused Tension instruction; Requiem phrase boundary/undrawn local blade, Shroud between-song removal/noon care, Stone truthful calm/open-air release without compelled completion. C-locale wc -w 7,968→8,256.
 
 **Evidence/history:** Complete primary before/after and exact245A–D; CSV530–533; both archetypes163/294; entity master413; M.A.W.master145–147/2470; Tale492763–2821; Neutral disposition177 on no measured effect on other entities. Batch39unit7 06c4a5a addressed FinalObservation/residue, no exact-pair Weapon disposition found; new Weapon+1.
 
@@ -72,6 +72,73 @@ Outside finished fan source-tradition reference: stalad519-lang/salads-leucotomy
 **Commentary:** The interrupted word is more unsettling to me than a ghost completing its song. The Resumption Offer gives the idea moral weight because being asked again can help someone or reopen an injury, and the dossier refuses to cancel one against the other.
 
 **Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE175/301=58.14%,126/301 remain,124/301 eligible. Independent Weapon190/287=66.20%,97/287 remain. Exact-pair increment+1; batch5/5. Supplementary sources unchanged.
+
+## Batch 131 — CLOSED at 5 / 5 (2026-10-16)
+
+Five dossier units passed their first repository gates and were pushed separately. The verified unit hashes appear below and in both logs. This closure reconciles every pending hash; the closure commit is the gate commit carrying this entry.
+
+**Cumulative progress:** Full-SE **175 / 301 = 58.14% / 100%**; **126 / 301 remain**, with **124 / 301 eligible**. Independent Weapon-only **190 / 287 = 66.20% / 100%**; **97 / 287 remain**.
+
+**Authorization and order.** The owner's `p` after Batch130 authorized one next batch, starting at five. Fresh pending-only ranking selected Harbinger (0.005663940), Frozen Fury (0.005594406), Broken Clock (0.005578550), Welcome Haven (0.005515004), Midnight Choir (0.005460631), in that order. No selection correction. Interaction and Warden/Apex/Watch records make this cohort non-simple; first-pass gates alone do not earn expansion. Closed at the authorized floor, not below it.
+
+**Scope.** This is source-led full-dossier equipment review, not a new overlap-fix phase. A couple means two dossier sections sharing too much distinctive wording. All five primaries and identity-resolved exact A–D sets were read completely before edits, and all five edited primaries reread completely. CSV, archetypes, entity/M.A.W. masters, Tale, disposition and exact-pair review history were checked separately. Broken Clock resolves to set1002, not unrelated set044.
+
+**R18 actual repair counts.** Batch-short: **0**. Careful-detail: **20**, authored one site at a time: Harbinger5, FrozenFury3, BrokenClock4, WelcomeHaven3, MidnightChoir5. The twenty comprise five grammatical/sentence repairs and fifteen equipment-care additions. No mixed mechanical/authored script was used. Source disagreements are held, not called defects.
+
+**Harbinger.** Harbinger makes an undisclosed decision visible to everyone except its subject. The Maul now carries reviewer and uncertainty controls, the Step has a tested return call, and the Charm cannot turn dread into a lawful claim. Those additions do not authorize striking the holding or changing its distance-series bestowal.
+
+**Commentary:** The frightening part is that everyone can see a decision except the person it concerns. I find the notice policy compelling because the dossier admits that disclosure harms people too, rather than calling transparency a cure.
+
+**Frozen Fury.** Frozen Fury preserves a cleared district and the blame imposed on its residents. The Lens now requires an independent resident record with missing data left blank. The Veil has current-name/location/year anchors, and the Bracelet releases sorrow only through consented testimony.
+
+**Commentary:** This works best as a place kept in custody rather than a monster kept restrained. The open, incomplete register is its strongest detail: admitting missing names feels more faithful to the residents than offering a perfect magical answer.
+
+**Broken Clock.** Broken Clock takes lived time that the establishment refuses to credit. The Cudgel now requires source attribution before care, while the Greatcoat and cranial Wheel cannot substitute for the outside timekeeper. No disputed Weapon profile or cranial-removal procedure was supplied.
+
+**Commentary:** The strongest horror is the payroll rule: a sound safety measurement becomes an excuse not to count a worker’s ageing. The two contradictory judgments make the time anomaly tangible without needing a larger spectacle.
+
+**Welcome Haven.** Welcome Haven is the failed border wall still seeking an answerable admission. Its Pike now carries source attribution and witnessed return, while the Barrier remains spent after one impact. The Charm’s warning promises no replacement safety and grants no authority to speak for another officer.
+
+**Commentary:** I find the entity persuasive because the office rule genuinely protects clerks while making an apology impossible. Its name feels bitterly apt: the shelter remains a promise long after the wall has stopped being one.
+
+**Midnight Choir.** Midnight Choir preserves words cut off before their speakers finished. The Requiem now keeps the missing phrase silent, the Shroud has between-song removal and singer-chosen care, and the Stone cannot use calm to replace truthful information. Sentence repairs clarify midnight activation and the corridor check without changing the one-invitation Resumption Offer.
+
+**Commentary:** The interrupted word is more unsettling to me than a ghost completing its song. The Resumption Offer gives the idea moral weight because being asked again can help someone or reopen an injury, and the dossier refuses to cancel one against the other.
+
+**Validation.** Each final primary has verify.py (residue/seam/row check) RESIDUAL0, seams[], pipeTrue, dupes[]; tpl.py (template check) RESIDUE0; sect.py (shared-prose score) GENERIC0.005≤0.05; sectfile.py (section check) zero sections over0.05; wikistd.py (wording conditions) meetsTrue. Final word counts use shell C-locale wc -w. All first repository gates passed: archive/timeline/seam/box, tests, row-pipe, breach-floor, metrics parity, diff checks and verified pushes. Opening reconstructed against f93c1df for all301 files and final overlap scans both show0/301 couples,0/301 carrying files,0section-pairs. Complete comparator report is byte-identical before/after;557 candidate differences remain candidates, not defect findings. Combat statistics, all supplementary sources and disposition entries unchanged.
+
+Batch131 dossier changes, final checks and verified unit commits:
+
+| Dossier | Change | Words | Checks | Commit / push |
+|---|---|---|---|---|
+| [Harbinger](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-155_Harbinger_%EC%B6%94%EC%A7%95%EA%B4%80%EC%9D%98_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-N-IIIβ-155_Harbinger_추징관의_그림자.md") `N-IIIβ-155` | Reviewer / return / privacy | 6,988 → 7,254 | PASS; 0.005 | `f153895e` VERIFIED |
+| [Frozen_Fury](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-668_Frozen_Fury_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%9E%94%ED%95%B4.md "SE-C-IVδ-668_Frozen_Fury_얼어붙은_잔해.md") `C-IVδ-668` | Resident evidence / consent | 8,141 → 8,407 | PASS; 0.005 | `6233bb37` VERIFIED |
+| [Broken_Clock](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-044_Broken_Clock_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%8B%9C%EA%B3%84.md "SE-C-IIIγ-044_Broken_Clock_부서진_시계.md") `C-IIIγ-044` | Attribution / outside time | 8,039 → 8,301 | PASS; 0.005 | `c8dda0e2` VERIFIED |
+| [Welcome_Haven](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-897_Welcome_Haven_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%B2%BD.md "SE-O-IVδ-897_Welcome_Haven_부서진_벽.md") `O-IVδ-897` | Spent shield / no promise | 8,363 → 8,622 | PASS; 0.005 | `74a2b012` VERIFIED |
+| [Midnight_Choir](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-245_Midnight_Choir_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%B2%BD.md "SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md") `C-IIβ-245` | Phrase / listener / choice | 7,968 → 8,256 | PASS; 0.005 | `b45c0b55` VERIFIED |
+
+Full R12 dossier links:
+
+- [[SE-N-IIIβ-155_Harbinger_추징관의_그림자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-155_Harbinger_%EC%B6%94%EC%A7%95%EA%B4%80%EC%9D%98_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-N-IIIβ-155_Harbinger_추징관의_그림자.md")]
+- [[SE-C-IVδ-668_Frozen_Fury_얼어붙은_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-668_Frozen_Fury_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%9E%94%ED%95%B4.md "SE-C-IVδ-668_Frozen_Fury_얼어붙은_잔해.md")]
+- [[SE-C-IIIγ-044_Broken_Clock_부서진_시계](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-044_Broken_Clock_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%8B%9C%EA%B3%84.md "SE-C-IIIγ-044_Broken_Clock_부서진_시계.md")]
+- [[SE-O-IVδ-897_Welcome_Haven_부서진_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-897_Welcome_Haven_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%B2%BD.md "SE-O-IVδ-897_Welcome_Haven_부서진_벽.md")]
+- [[SE-C-IIβ-245_Midnight_Choir_노래하는_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-245_Midnight_Choir_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%B2%BD.md "SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md")]
+
+Independent counters at Batch131 close:
+
+| Counter | Complete | Remaining | Coverage |
+|---|---:|---:|---:|
+| Full-SE source-led dispositions | 175 / 301 | 126 / 301 | 58.14% |
+| Weapon-only unique paired dispositions | 190 / 287 | 97 / 287 | 66.20% |
+| Batch131 full dossier units | 5 / 5 | 0 / 5 | 100.00% |
+
+**Definitions/exclusions.** Full-SE counts complete primary and source-set reviews, including documented holds. Its177 review markers include paused SilentChildN-Iα-025 and scope-unconfirmed InheritorC-IIIγ-062, excluded from175;124 eligible remain. Weapon-only counts unique eligible complete-pair dispositions, including holds, with14/301 unpaired primaries excluded from287. Batch131 adds4 new pairs; BrokenClock is a repeat of Batch76unit2 06c5754 and adds0. Full+5 and Weapon+4 are independent; pending cases are not presumed defective.
+
+**Next, not selected or authorized.** Fresh pending ranking: AngerUnderfootC-Iα-1750.005433764; ForgottenSoldierN-IIβ-0330.005427408; LabyrinthofStolenFacesC-IVγ-1800.005416908; FloatingTreeN-IIIγ-5850.005415162; ThralldomO-Iα-7540.005389222; then DreamingPlague0.005355549 and CrackedMirror0.005301103. Another owner authorization and fresh ranking are required before Batch132. Batch301 remains authorized4+4 and blocked on eight external dossier bodies; no invention, generate/validate before wiki copy.
+
+**Branch/PR state.** Assigned arena/954853ad-project-somnarak-wiki only; PR14 OPEN draft→NON-WIKI, not merged or closed. Owner controls merge; branch retained. Pages, live URL and distinctive live marker are not applicable to NON-WIKI. The closing gate must verify equal local/remote HEAD and dirty0 before reporting completion.
+
 
 ## Batch 130 — full-SE M.A.W. source review (closed at five)
 
