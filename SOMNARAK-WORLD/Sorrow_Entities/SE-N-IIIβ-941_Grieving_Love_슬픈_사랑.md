@@ -198,6 +198,8 @@ Read the gauge only against the rest of the sheet. She is a Subject with Subject
 
 **Cost:** The wielder is visited, unbidden, by the faces of everyone they failed to comfort.
 
+**Coil care:** The Weapon’s individual file warns of Sooah’s source sorrow becoming autobiography, not only the unwanted faces already listed as its cost. Keep bearer, trigger, response, cost and unresolved detail before attribution review and before cleaning or rest. Its witness names the source title and event while the wielder relinquishes the Coil; the loss is not refunded. This is not an instruction to pull somebody out of the entity’s hold with the lash, nor a reason to confront her. Extraction of a worker remains separately authorized, and the existing range disagreement remains open.
+
 ### M.A.W. Suit — The Mourner's Film
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
@@ -216,6 +218,8 @@ Read the gauge only against the rest of the sheet. She is a Subject with Subject
 
 **Cost:** The wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up.
 
+**Film limit:** The Suit record’s first corrosion sign is claiming the apothecary’s event in first person; repeating the source response away from contact is escalation. Preserve that distinction from ordinary clinginess, which is already sufficient for the second worker’s limit call. Review attribution before resting or cleaning the membrane, and retain the named witness at relinquishment. The delayed check a week later still matters after removal. Composure protection is not protection against dissolution and does not convert a wish to stay into permission for another visit.
+
 ### M.A.W. Stigma — The Tear Pendant
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
@@ -229,6 +233,8 @@ Read the gauge only against the rest of the sheet. She is a Subject with Subject
 **Ability:** A single suspended tear of grief-slime that grows warm in the presence of unspoken sorrow, warning the bearer when someone near them is grieving in silence.
 
 **Cost:** The bearer weeps without cause at odd hours and cannot always say for whom.
+
+**Pendant attribution:** Warmth near silent sorrow identifies the Stigma’s warning, not the identity of the person being mourned. Its item entry asks for the unresolved detail as well as bearer, trigger, response and cost before maintenance review; leave the cause of unexplained tears unresolved when it is not known. First-person adoption of Sooah’s history is a failure sign rather than evidence that Haneul’s fate has been recovered. Witnessed relinquishment preserves that boundary and does not refund the weeping. The source-work bonus supplies no answer about the unfinished distillate or the last vial.
 
 *Stigmas from this holding are granted, not made: they come at random out of a successful work and cannot be ordered or held back by the crew.*
 
@@ -300,7 +306,7 @@ We found it in the floor of the apothecary, beneath where the vat stood. A small
 
 ## 감각 묘사 (Flavor Text)
 
-**At first contact:** The air coals — herbs and clean water and something colder underneath. The lamps gutter down. And then the ache arrives, square in the chest, a love-sickness for someone who, a moment ago, you were not thinking of at all.
+**At first contact:** The air cools — herbs and clean water and something colder underneath. The lamps gutter down. And then the ache arrives, square in the chest, a love-sickness for someone who, a moment ago, you were not thinking of at all.
 
 **With continued exposure:** The grief stops feeling borrowed. You begin to believe it is yours — that you have lost someone you cannot name, that the loss is fresh, that if you could just hold someone, anyone, it might ease. This is the edge of *The Keeping*.
 

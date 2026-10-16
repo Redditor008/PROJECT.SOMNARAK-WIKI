@@ -67,6 +67,16 @@ Batch301 remains the separately owner-authorized4+4 variant, blocked on eight ex
 
 **Checks/progress:** RESIDUAL0/pipeTrue/dupes[]; verify seam output retained in the check evidence (Dreaming Plague only: unchanged known substring false-positive in breathe the same); RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE184/301=61.13%,117/301 remain,115/301 eligible. Independent Weapon197/287=68.64%,90/287 remain. Exact-pair increment+0; batch4/5. Supplementary sources unchanged.
 
+**Batch 133 / unit 5 — Grieving Love `N-IIIβ-941` (`pending push`):** [[SE-N-IIIβ-941_Grieving_Love_슬픈_사랑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-941_Grieving_Love_%EC%8A%AC%ED%94%88_%EC%82%AC%EB%9E%91.md "SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md")] R18 declared1 batch-short (coals→cools typo, same-length replacement, corroborated by this primary’s cold/dimming markers)/3 careful-detail: Coil care, Film limit, Pendant attribution authored separately. Complete edited primary reread. C-locale wc -w 6,710→6,982.
+
+**Evidence/history:** Complete primary/exact941A–D; CSV1083–1086; archetype390; entity master359 awaiting-row note; exact code/name absent from M.A.W.master/standalone Tale, so no other apothecary narrative substituted. Disposition337 Neutral/calming and amplification without suppression. Batch83unit2 ff236165 already counted (24th), A prior range hold reread: repeat Weapon+0.
+
+**Holds:** PrimaryRange2 versus A/BRange3 (bothMedium); Han-crystal whip versus slime tendril and Close spiked-knuckle archetype; primary omitted Skewer fields not defects. Comfort as protocol breach versus primary work/suppression; on-foot movement versus legless slime; grief subject unidentified versus Haneul named but fate unknown; no malice versus lethal contact/volunteer embrace; high-shelf vial versus recovered beneath vat; possible finished cure versus Warden unfinished; primary Han-silk/pendant crystal versus slime item forms. No reach crosswalk, missing biography, cure outcome or safe extraction mode invented.
+
+**Commentary:** The unfinished cure is most effective when the papers remain careful and the accident is not reduced to a moral about exhaustion. I kept Haneul’s short record short. Being held can feel kind here without making it safe, which is why the second worker’s limit must remain separate from the wearer’s wish.
+
+**Checks/progress:** RESIDUAL0/pipeTrue/dupes[]; verify seam output retained in the check evidence (Dreaming Plague only: unchanged known substring false-positive in breathe the same); RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE185/301=61.46%,116/301 remain,114/301 eligible. Independent Weapon197/287=68.64%,90/287 remain. Exact-pair increment+0; batch5/5. Supplementary sources unchanged.
+
 ## Batch 132 — OPEN: five pending-only source-led reviews (2026-10-16)
 
 The owner's `p` after Batch131 authorizes one next batch. Start at five; expansion requires both simplicity and first-pass repository gates. The inherited checkout is clean and equal to the verified remote ee14489; no recovery mutation was needed. Archive, timeline, seam and box checks pass. PR14 remains OPEN draft targeting NON-WIKI; owner controls merge.
