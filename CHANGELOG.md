@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 133 — OPEN: five pending-only full-SE reviews (2026-10-16)
+
+The owner's `p` after Batch132 authorizes this one batch, starting at five. Fresh pending-only order: Dreaming Plague N-IVδ-9270.005355549; Cracked Mirror C-IIβ-3100.005301103; Memorial Flame Mid-Ceremony C-IVδ-7630.005288008; Calling Bloom O-IIIβ-9440.005270626; Grieving Love N-IIIβ-9410.005207203. No selection correction; ranking is not a defect finding. Next Friendless Bridge0.005193906 and Rising Wall0.005193007. Expansion5→7→10 only if the actual cohort is simple and each first gate passes.
+
+Opening independent counters: Full-SE180/301=59.80%;121/301 remain,119 eligible. The182 markers include paused SilentChild and scope-unconfirmed Inheritor, both excluded from180. Weapon195/287=67.94%;92/287 remain;14/301 unpaired primaries excluded. Repeated exact-pair reviews add zero; held disagreements count as review dispositions, not defects.
+
+Recovery disclosure: the sandbox reopened at10cd20a with70 changed tracked files, including all prior batch content. Live ls-remote verified a8c41acb6f6fc9edec8f0eaa629eff773c0b5644; PR14 OPEN draft→NON-WIKI. After fetching, git diff against that remote was empty across all tracked files. Saved a binary recovery diff separately, loaded that identical tree into the index without touching working files and fast-forwarded the assigned local ref with expected-old-SHA protection. Clean checkout at a8c41ac; no file restored, deleted or overwritten, no historical work repeated and no force push. Four inherited archive/timeline/seam/box checks PASS.
+
+Read every complete primary and identity-resolved A–D set before any edit; inspect CSV, archetype, entity/M.A.W. masters, Tale, disposition and exact-pair history before independent Weapon increments. Declare actual R18 batch-short/careful-detail counts before repairing; separate mechanical surgery from one-at-a-time authorship. Reread complete edited primaries, validate and push each dossier separately. Keep disputed forms, numbers and histories on hold; do not invent a reconciliation. Full comparator baseline saved.
+
+Batch301 remains the separately owner-authorized4+4 variant, blocked on eight external bodies. Do not invent bodies; generate/validate before wiki copy. Owner controls merge; retain branch and PR14.
+
 ## Batch 132 — CLOSED at 5 / 5 (2026-10-16)
 
 All five dossier units passed their first repository gates and were pushed separately. This close reconciles every unit hash in both logs. The closing gate commit carries this closure entry; it must be push-verified before the final report.
