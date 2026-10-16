@@ -46,6 +46,16 @@ Batch301 remains the separately authorized 4+4 variant, blocked on eight externa
 
 **Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE176/301=58.47%,125/301 remain,123/301 eligible. Independent Weapon191/287=66.55%,96/287 remain. Exact-pair increment+1; batch1/5. Supplementary sources unchanged.
 
+**Batch 132 / unit 2 — Forgotten Soldier `N-IIβ-033` (`pending push`):** [[SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-033_Forgotten_Soldier_%EC%9E%8A%ED%98%80%EC%A7%84_%EB%B3%91%EC%82%AC.md "SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md")] R18:1batch-short/4careful-detail, separated. Used existing Stigma heading/type to replace Duty Charm with Duty Blade — Accessory (Stigma). Added selected-target-only targeting, Fang prolonged-use/return, Plate attribution and Stigma borrowed-history controls one site at a time. C-locale wc -w 7,324→7,587.
+
+**Evidence/history:** Complete primary pre/postread and exact1005A–D; CSV182–185; archetype405 Temple Bell-Staff (not Guardian Lens033 or Hollow Knight073); entity master523; M.A.W.master466–468/6012; Tale1568747–8800; disposition127 Conditional from unordered nine-hour Maw hold. Prior Batch15unit2 97459df is prose review, not counted exact-pair Weapon closure; no earlier counted pair disposition found: Weapon+1.
+
+**Holds:** Fang-curved blade versus Temple Bell-Staff and PRIMAL Bio/Marrow master; Tail versus Rings/Hand Seals type; A erased record/unhonoured hero versus primary correct sealed schedule; duplicated Tale/masters ancient Occlusihan death/Scar/name spoken versus corridor closed-posting record and 4164 instrument; no-injury breach account versus broken-arm suppression; private acknowledgement page versus open/signed watch descriptions; source-event binding/shutdown does not authorize naming sealed personnel or ordering acknowledgement. Extra punctuation in appearance marker retained as outside authored care; numbers, supplementary sources and disposition unchanged.
+
+**Commentary:** I find the voluntary salute more unsettling than the breach. The file works best when remembering someone cannot be ordered, and when the rule that hurts him also protects living people.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE177/301=58.80%,124/301 remain,122/301 eligible. Independent Weapon192/287=66.90%,95/287 remain. Exact-pair increment+1; batch2/5. Supplementary sources unchanged.
+
 ## Batch 131 — OPEN: five pending-only source-led reviews (2026-10-16)
 
 Owner `p` after Batch130 authorizes one next batch, starting at five. Recovery: retained working tree matched a pushed commit byte-for-byte; supported syncbranch.py restored HEAD/index from10cd20a to remote f93c1df without changing dossier content. Clean/equal remote; PR14 OPEN draft→NON-WIKI. Inherited archive, timeline, seam and box gates PASS. Fresh full inventory301, marker union172, excluded SilentChildN-Iα-025/InheritorC-IIIγ-062, counted Full170/301=56.48%,131/301 remaining,129/301 eligible. Independent Weapon186/287=64.81%,101/287 remain;14 unpaired excluded.
