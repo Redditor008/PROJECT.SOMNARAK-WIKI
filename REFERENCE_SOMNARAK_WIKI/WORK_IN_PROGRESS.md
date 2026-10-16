@@ -1,5 +1,11 @@
 # Work In Progress
 
+## Batch 136 — OPEN: five pending full-SE source reviews (2026-10-16)
+
+Owner `p` after135 authorizes this one batch. Remote98a28ef628b770a20be6a2cb933256b8035e7fe9 verified; restored checkout metadata10cd20a recovered after backing up85-file binary diff to /home/user/pre-b136-recovery.patch and proving all remote tracked blobs byte-identical to workspace. No working file overwritten, no history deleted, no duplicate recovery commit. PR14 independently OPEN draft→NON-WIKI. Fresh order: PyreOfTruths C-IVδ-0920.004962355; DoubleMouth C-IIβ-7160.004926108; HomelessSorrow O-IIβ-1190.004916881; Portcullis O-Iα-7940.004805125; SpreadingRoot O-IVδ-6930.004773270. No correction. Next Nemo0.004767064 and Patina0.004656577. Ranking is not a defect finding.
+
+Baseline Full-SE195/301=64.78%,106/301 remain,104/301 eligible; independent Weapon205/287=71.43%,82/287 remain.197 dispositions include excluded025/062;14 unpaired primaries outside complete-pair scope. Genuine couples0/301; uncapped comparator saved. Gate runs archive/timeline/seam/box/tests at opening. Complete primary/exact A–D/source/history review, R18 declaration before editing, separately authored careful details, entire edited-primary reread and individual gate/push for each unit. Five minimum; expand5→7→10 only if cohort actually simple and all first gates pass. Owner controls merge. Batch3014+4 separately blocked on external bodies; invent none, generate/validate before wiki copy.
+
 ## Batch 135 — CLOSED at five full-SE reviews (2026-10-16)
 
 **Cumulative lead:** Full-SE195/301=64.78%;106/301 remain,104/301 eligible pending. Independent Weapon205/287=71.43%;82/287 remain. Five new full-primary dispositions and five new exact Weapon-pair dispositions.197 primary/log dispositions include excluded paused SilentChildN-Iα-025 and scope-unconfirmed InheritorC-IIIγ-062;14/301 primaries are outside the287 complete-pair Weapon scope. A held disagreement counts as reviewed, not resolved, and is not a defect finding. Pending records are not declared defective.
