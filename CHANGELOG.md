@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+**Batch 135 / unit 3 — Willing Chains `C-IVδ-976` (`pending push`):** [[SE-C-IVδ-976_Willing_Chains_스며든_사슬](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-976_Willing_Chains_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%82%AC%EC%8A%AC.md "SE-C-IVδ-976_Willing_Chains_스며든_사슬.md")] R18 predeclared0 batch-short/3 careful-detail. Independent Lens authority boundary, Veil watch comparison, Lantern reading; complete461-line edited primary reread; no stat changes. C-locale wc -w 7,375→7,664.
+
+**Evidence/history:** Entire primary/exact976 A–D with source-trace histories/corrosion/shutdown; CSV1127–1130, archetype400, disposition258; Entity468, Master307–309/detail4260, Tale103. Chainwreathed alias resolved by976. Batch52/unit9 was generic personalization, not exact-pair Weapon review; both current logs/code/item/aliases and all-ref git title search found no earlier exact-pair disposition; Weapon+1.
+
+**Holds:** Primary no-breach corruption vs A Can breach; body no motion vs stat speed; no moving anything vs annual manual links; primary5% vs prose4%; archetype Dawn(different horizon) Short vs optical Lens; Tale ZoneC/CL3/moderate vs primary ZoneB/CL2/critical. Source-trace uncoupling does not override surrendered cutting authority. No new Tick effect inferred from conditional Damage Application.
+
+**Commentary:** The open links make the institutional paralysis more disturbing than an ordinary locked chain. Reporting the full fourteen-and-a-half-minute response is honest, but the runner still pays for that honesty; the file wisely leaves the field office objection unanswered. The Lens must not become an accidental permission slip around that central cost.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE193/301=64.12%,108/301 remain,106/301 eligible. Independent Weapon203/287=70.73%,84/287 remain. Exact-pair increment+1; batch3/5. Supplementary sources unchanged.
+
 **Batch 135 / unit 2 — The Rejector `C-IIIγ-063` (`pending push`):** [[SE-C-IIIγ-063_The_Rejector_거부하는_자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-063_The_Rejector_%EA%B1%B0%EB%B6%80%ED%95%98%EB%8A%94_%EC%9E%90.md "SE-C-IIIγ-063_The_Rejector_거부하는_자.md")] R18 predeclared0 batch-short/3 careful-detail; independently authored Lens claim check, Veil removal check, Shield rescue hold; full edited primary reread; numbers unchanged. C-locale wc -w 7,773→8,047.
 
 **Evidence/history:** Full456-line primary and exact063 A–D histories/limits; CSV114–117/archetype84/disposition283; Entity377, Master37–39/detail1222, Tale13. Exact code/Lens/item searches across current WIP/CHANGELOG and all-ref git subjects found no earlier exact-pair disposition; Weapon+1. Fan English conditional/Unknown source refreshed this batch, not canon.

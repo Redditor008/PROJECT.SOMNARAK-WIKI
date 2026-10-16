@@ -20,6 +20,16 @@
 
 **Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE192/301=63.79%,109/301 remain,107/301 eligible. Independent Weapon202/287=70.38%,85/287 remain. Exact-pair increment+1; batch2/5. Supplementary sources unchanged.
 
+**Batch 135 / unit 3 — Willing Chains `C-IVδ-976` (`pending push`):** [[SE-C-IVδ-976_Willing_Chains_스며든_사슬](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-976_Willing_Chains_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%82%AC%EC%8A%AC.md "SE-C-IVδ-976_Willing_Chains_스며든_사슬.md")] R18 predeclared0 batch-short/3 careful-detail. Independent Lens authority boundary, Veil watch comparison, Lantern reading; complete461-line edited primary reread; no stat changes. C-locale wc -w 7,375→7,664.
+
+**Evidence/history:** Entire primary/exact976 A–D with source-trace histories/corrosion/shutdown; CSV1127–1130, archetype400, disposition258; Entity468, Master307–309/detail4260, Tale103. Chainwreathed alias resolved by976. Batch52/unit9 was generic personalization, not exact-pair Weapon review; both current logs/code/item/aliases and all-ref git title search found no earlier exact-pair disposition; Weapon+1.
+
+**Holds:** Primary no-breach corruption vs A Can breach; body no motion vs stat speed; no moving anything vs annual manual links; primary5% vs prose4%; archetype Dawn(different horizon) Short vs optical Lens; Tale ZoneC/CL3/moderate vs primary ZoneB/CL2/critical. Source-trace uncoupling does not override surrendered cutting authority. No new Tick effect inferred from conditional Damage Application.
+
+**Commentary:** The open links make the institutional paralysis more disturbing than an ordinary locked chain. Reporting the full fourteen-and-a-half-minute response is honest, but the runner still pays for that honesty; the file wisely leaves the field office objection unanswered. The Lens must not become an accidental permission slip around that central cost.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE193/301=64.12%,108/301 remain,106/301 eligible. Independent Weapon203/287=70.73%,84/287 remain. Exact-pair increment+1; batch3/5. Supplementary sources unchanged.
+
 ## Batch 135 — OPEN: five pending-only full-SE equipment reviews (2026-10-16)
 
 Owner `p` after134 authorizes this one batch, opening at five. Clean assigned HEAD856631489410d0635de36b84ae1afcabfa321a1f verified equal GitHub; no recovery required. PR14 OPEN draft→NON-WIKI. Fresh order: GrievingMaiden C-IVβ-0410.005113346; Rejector C-IIIγ-0630.005066039; WillingChains C-IVδ-9760.005059350; DawnThatForgot N-IIIγ-9170.005030543; Aegis C-IVδ-2000.005005562. No correction. Next PyreOfTruths0.004962355, DoubleMouth0.004926108. Ranking is not a defect finding.
