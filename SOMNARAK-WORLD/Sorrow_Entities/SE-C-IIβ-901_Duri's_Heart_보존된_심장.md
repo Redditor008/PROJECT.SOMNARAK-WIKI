@@ -89,7 +89,7 @@
 
 1. **Tension:** The handler's pulse is taken and written at the door, the pulse-caller takes position outside the glass, and the count begins. The caller is a second person and never the handler; that rule is the whole of the containment.
 2. **Clash:** Four turns, observation and endurance only, conducted seated at the marked distance with the handler's pulse called aloud at each turn boundary by somebody outside the cell.
-3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the party out of the cell with the handler's pulse within eight beats of their own door reading.
+3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: four hundred beats called, the party out of the cell with the handler's pulse within four beats of their own door reading, and the glass still shut.
 
 ### Consequences
 
