@@ -15,6 +15,27 @@ The owner directed that the previous readable chatroom report become the must-fo
 
 **Current cumulative full-SE coverage through Batch 131 / unit 5:** **58.14% / 100% complete**; **126 / 301 primary dossiers remain** (175 counted dispositions; 177 markers including paused SilentChild and scope-unconfirmed Inheritor, both excluded; 124 eligible remain). Separately, **Weapon-only coverage is 66.20% / 100% complete**; **97 / 287 eligible pairs remain** (190 counted source-led dispositions). Fourteen primary dossiers remain outside paired scope. Holds count as dispositions, not defect findings; unreviewed cases are not presumed defective.
 
+## Batch 132 — OPEN: five pending-only source-led reviews (2026-10-16)
+
+The owner's `p` after Batch131 authorizes one next batch. Start at five; expansion requires both simplicity and first-pass repository gates. The inherited checkout is clean and equal to the verified remote ee14489; no recovery mutation was needed. Archive, timeline, seam and box checks pass. PR14 remains OPEN draft targeting NON-WIKI; owner controls merge.
+
+Fresh pending-only worst-first selection:
+- Anger Underfoot `C-Iα-175`: 0.005433764.
+- Forgotten Soldier `N-IIβ-033`: 0.005427408.
+- Labyrinth of Stolen Faces `C-IVγ-180`: 0.005416908.
+- Floating Tree `N-IIIγ-585`: 0.005415162.
+- Thralldom `O-Iα-754`: 0.005389222.
+
+No selection correction. Next pending: Dreaming Plague 0.005355549 and Cracked Mirror 0.005301103. Ranking is not a defect finding.
+
+Opening Full-SE coverage: 175 / 301 (58.14%); 126 / 301 remain, of which 124 / 301 are eligible. The 177 review markers include paused Silent Child N-Iα-025 and scope-unconfirmed Inheritor C-IIIγ-062, both excluded. Independent Weapon-only coverage: 190 / 287 (66.20%); 97 / 287 remain, with 14 / 301 unpaired dossiers outside that scope. Repeated exact-pair reviews add zero; holds count as dispositions, not confirmed defects.
+
+Read every complete primary and identity-resolved A–D set before edits. Check CSV, archetype, entity/M.A.W. masters, Tale, disposition and exact-pair history before Weapon increments. State R18 batch-short and careful-detail counts before repair and execute those classes separately. Reread each edited primary completely, validate and push one dossier unit at a time. Supplementary contradictions stay on hold; no numeric profile is copied to choose a side.
+
+Outside source-tradition reference refreshed through GitHub API: stalad519-lang/salads-leucotomy-branches Imaginary Friend finished management entry, using flat present-tense conditional voice and explicit Unknown. This is a fan writing example, not official Project Moon authority or Somnarak content evidence. Full comparator baseline saved before changes.
+
+Batch301 remains the separately authorized 4+4 variant, blocked on eight external bodies. Do not invent dossiers; generate/validate before wiki copy.
+
 ## Batch 131 — OPEN: five pending-only source-led reviews (2026-10-16)
 
 Owner `p` after Batch130 authorizes one next batch, starting at five. Recovery: retained working tree matched a pushed commit byte-for-byte; supported syncbranch.py restored HEAD/index from10cd20a to remote f93c1df without changing dossier content. Clean/equal remote; PR14 OPEN draft→NON-WIKI. Inherited archive, timeline, seam and box gates PASS. Fresh full inventory301, marker union172, excluded SilentChildN-Iα-025/InheritorC-IIIγ-062, counted Full170/301=56.48%,131/301 remaining,129/301 eligible. Independent Weapon186/287=64.81%,101/287 remain;14 unpaired excluded.
