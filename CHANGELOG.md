@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 137 — OPEN: five-review opening rung, No change ladder to seven/ten (2026-10-16)
+
+Owner p plus explicit correction: five minimum, ten ceiling; three or more completed No change SE–M.A.W. dossiers trigger5→7→10, per dossier not per match. R-26 and R-31 plus rule index updated. The older long-file/simplicity test cannot block that trigger. Previous136 is already closed/pushed960704493c85d8be88cbce5a902d57a79a74b5f2; its three No-change reviews explain this correction, not permission to pretend it reviewed ten. Historical closure is preserved, not silently rewritten or counted twice. This p authorizes137 only.
+
+Fresh ranking (first five selected;6–10 reserved in order for earned rungs): 1. Nemo N-IIIγ-589 0.004767064; 2. Patina C-IVδ-222 0.004656577; 3. The Music Box of Agony N-IIγ-903 0.004638834; 4. Soot Fry C-IIβ-947 0.004621705; 5. Unheard C-Iα-965 0.004616620; 6. The Debt Scale C-IIIβ-015 0.004600345; 7. Duri’s Heart C-IIβ-901 0.004568106; 8. Backward Hour C-IIIγ-913 0.004548719; 9. Mirror of Soaking N-IIβ-801 0.004544471; 10. Weighted Silence O-IIIγ-924 0.004478567. No correction or padding. Reserved units are not yet reviewed or counted. Current0/5; completed No change0; no expansion earned yet. A complete unchanged review gets What changed: No change and separate Commentary, not forced prose. Complete primary/exact identity-resolved A–D/source/history review and checks, R18 split before any edit, whole edited-primary reread and individual gate/push remain mandatory. Keep OPEN if the required rung is unfinished.
+
+Baseline Full-SE200/301=66.45%;101/301 remain,99/301 eligible. Weapon208/287=72.47%;79/287 remain;202 primary/log dispositions include paused025 and scope-unconfirmed062;14 unpaired primaries outside287. Genuine opening couples0/301; uncapped comparator saved. Checkout restored with stale HEAD10cd20a but all remote9607044 tracked blobs proved byte-identical; saved inherited diff to /home/user/pre-b137-recovery.patch, repaired metadata only, no working file overwritten and no force push. Sources untouched. PR14 remains assigned head to NON-WIKI; owner controls merge. Batch301 owner4+4 remains blocked on external eight bodies; invent none, generate/validate before wiki copy.
+
 ## Batch 136 — CLOSED at five completed full-SE reviews (2026-10-16)
 
 **Cumulative lead:** Full-SE200/301=66.45%;101/301 remain,99/301 eligible. Independent Weapon208/287=72.47%;79/287 remain. Five new full-primary reviews, only three new exact Weapon-pair dispositions.202 primary/log dispositions include excluded paused025 and scope-unconfirmed062;14/301 primaries are outside the287 complete-pair Weapon scope. A hold is a reviewed disagreement, not a resolved defect; pending files are not declared defective.

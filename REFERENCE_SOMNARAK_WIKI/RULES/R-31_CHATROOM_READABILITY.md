@@ -193,6 +193,12 @@ or with them placed before the content, is rewritten in the same turn.
 
 This amendment extends points 16, 20 and 21 and clarifies `R-26`. It does not authorize closing below five, counting an unreviewed file, or repeating a previous review to pad a batch.
 
+## Amendment, 2026-10-16 — show the No change ladder decision
+
+**Owner clarification:** Five is the minimum, ten the ceiling. A batch with three or more completed No change SE–M.A.W. dossiers progresses **5 → 7 → 10**, per dossier rather than per matching field or pair.
+
+23. **Report the rung and its evidence.** At five and seven, state the completed batch's cumulative count of No change dossiers and the resulting progression under `R-26`. Three or more triggers the next rung within the same authorized batch, even when the dossiers are long or carry explicit source holds. Show every completed dossier and its individual Commentary; never present five as the automatic ceiling. Pending units are neither completed nor No change. If the required rung is unfinished, report OPEN, completed versus required counts, and the remaining units, not a smaller close.
+
 ## How it is checked
 
 

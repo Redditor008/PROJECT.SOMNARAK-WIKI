@@ -10,21 +10,23 @@
 
 **Owner clarification (2026-10-16):** Five means five completed dossier reviews, not five mandatory edits. If the file and its sources support leaving it unchanged, report **No change** under What changed and still include its individual **Commentary**, evidence and checks. An unchanged primary can be a completed review only after the required review and individual log/gate/push are complete. Pending files do not count as no-change reviews. See the matching amendment in `R-31`.
 
-The simplicity ratchet is **5 → 7 → 10**:
+**Latest owner clarification (2026-10-16):** Five is the minimum, not the ceiling; ten is the ceiling. For a batch with **three or more completed No change SE–M.A.W. dossier reviews**, the progression is **5 → 7 → 10**. This is counted **per distinct dossier, not per match**, matching field, item, or comparison pair.
 
-| Stage | Condition to move up |
+| Rung completed | Required progression |
 |---|---|
-| **5** | The opening five are simple by the test below and each passes its first repository gate. |
-| **7** | The first five earned the move to seven; then all seven are simple and each passes its first repository gate. |
-| **10** | The first seven earned the move to ten; then all ten are simple and each passes its first repository gate. |
+| **5** | If at least three completed dossiers are No change, extend this same batch to seven. Do not close at five merely because its files have long records or unresolved source holds. |
+| **7** | Recheck the completed batch's cumulative No change count. If at least three dossiers are No change, extend this same batch to ten. |
+| **10** | The ceiling is reached. Close only after every opened unit is fully reviewed, validated, individually shipped and reported. |
 
-Do not skip a rung. If the opening five are not all simple, finish and close at five. If seven are not all simple, do not start the ten-unit rung. A rung that has been opened is not closed at an intermediate size: if six or eight dossiers have been completed, keep the batch open until the next permitted size is completed or the owner authorizes a smaller close. The quality clause can stop expansion; it cannot reduce a batch below five.
+The three-dossier trigger takes precedence over the older simplicity test below. Counts are cumulative within the batch; do not reset the No change count when moving from five to seven. Do not skip seven, start a separate batch for the extra units, or ask for another p to complete an earned rung. A completed unchanged review may retain explicitly documented source holds; an unread file or an automatic match is not a No change review.
+
+The existing simple-cohort ladder may also justify expansion where the three-No-change trigger is absent. Every quality requirement still applies. If validation or review cannot be completed properly, keep the batch OPEN at its required rung and carry the pending units forward; do not lower the requirement or label pending units No change. Fewer eligible pending dossiers, explicit owner size exceptions and the prohibition on padding still apply. Once a rung is opened, finish it before closing, unless the owner authorizes a smaller close or eligible scope is exhausted.
 
 If fewer than five eligible pending dossiers remain at the start, complete all of them and close at that smaller number. Do not add already-reviewed or out-of-scope dossiers to reach five. If five or more eligible cases remain but fewer than five can be completed properly, leave the batch open and carry the unfinished units forward; do not report it as closed. An explicit owner authorization for fewer applies only to the named batch and does not carry forward.
 
 A `p` authorizes **one next batch only**. It does not authorize a second batch in the same turn. Any separate size instruction applies to that batch; it does not change the standing five-dossier minimum for later batches.
 
-## What counts as “simple”
+## Older simplicity test — subordinate to the No change trigger
 
 A dossier is simple when, on inspection, it is one of:
 
@@ -43,4 +45,4 @@ A dossier is **not** simple when it carries a full Interaction Record, a bespoke
 
 The earlier versions opened at three or five and used a 3 → 5 → 7 → 10 ladder. The 2026-10-08 version made three the absolute floor. The owner’s 2026-10-15 direction supersedes both: start at five and do not close below five unless an explicit batch-specific authorization applies or fewer than five eligible pending dossiers remain. The earlier directions remain recorded above as history, not as current policy.
 
-The filename remains `R-26_FIVE_THEN_SEVEN_THEN_TEN.md` because other files reference it. Its current ladder starts at five and retains the seven- and ten-unit upper rungs.
+The filename remains `R-26_FIVE_THEN_SEVEN_THEN_TEN.md` because other files reference it. The later 2026-10-16 owner clarification above supersedes simplicity-only stopping for batches with at least three completed No change dossiers. Five is the floor; ten is the ceiling.

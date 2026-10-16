@@ -31,7 +31,7 @@ Standing rules for this project, one file per rule. These are binding on all wor
 | [`R-23`](R-23_LABELS_MAY_REPEAT_VALUES_MAY_NOT.md) | Labels May Repeat, Values May Not — template residue outside the Workstream 1 scope |
 | [`R-24`](R-24_THE_TALE_STANDARD.md) | The Tale Standard — the Narratio section is the benchmark; generic prose measured by 8-gram sharing, clean at ≤ 0.05 |
 | [`R-25`](R-25_FIVE_PER_BATCH.md) | Five Per Batch — five dossiers per prompt through the combined rewrite-and-classify pass, one gate commit each |
-| [`R-26`](R-26_FIVE_THEN_SEVEN_THEN_TEN.md) | Five, Then Seven, Then Ten — start at five; the floor is five unless the owner authorizes fewer or fewer than five eligible dossiers remain; the simplicity ladder ratchets 5 → 7 → 10 without padding |
+| [`R-26`](R-26_FIVE_THEN_SEVEN_THEN_TEN.md) | Five, Then Seven, Then Ten — start at five; the floor is five unless the owner authorizes fewer or fewer than five eligible dossiers remain; ten is the ceiling; three or more completed No change dossiers trigger 5 → 7 → 10 per dossier, not per match; no padding |
 | [`R-27`](R-27_THE_TALE_STANDARD_IS_PER_SECTION.md) | The Tale Standard Is Per Section, Not Per File — every description-bearing section is measured on its own; Behavior is an example, not the list |
 | [`R-28`](R-28_NOT_EVERYTHING_BREACHES.md) | Not Everything Breaches — non-breaching floors of 75% RE / 25% SE / 50% OP, reclassified only on the dossier's own evidence |
 | [`R-29`](R-29_ABNORMALITY_WIKI_DONE_BETTER.md) | The Standard Is An Abnormality Wiki, Done Better — nine parity sections as the floor, six clauses above it as the work; Part three (the ladder, from Comparative Study 02) is guidance, not a test |
