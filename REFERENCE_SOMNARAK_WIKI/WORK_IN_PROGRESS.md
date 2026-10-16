@@ -76,6 +76,16 @@ Batch301 remains the separately authorized 4+4 variant, blocked on eight externa
 
 **Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE179/301=59.47%,122/301 remain,120/301 eligible. Independent Weapon194/287=67.60%,93/287 remain. Exact-pair increment+1; batch4/5. Supplementary sources unchanged.
 
+**Batch 132 / unit 5 — Thralldom `O-Iα-754` (`pending push`):** [[SE-O-Iα-754_Thralldom_떠도는_사슬](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-754_Thralldom_%EB%96%A0%EB%8F%84%EB%8A%94_%EC%82%AC%EC%8A%AC.md "SE-O-Iα-754_Thralldom_떠도는_사슬.md")] R18:1batch-short/3careful-detail. Spliced complete Suit Cost wording into the clipped At limit field, retaining its original reporting-loss tail. Added voluntary weapon return, Plate working-exit and Link compulsion controls separately; no weapon ability combined. C-locale wc -w 7,082→7,359.
+
+**Evidence/history:** Complete primary pre/postread and exact754A–D; CSV843–846; archetype283 Territory-Marking Boundary Blade; entity master613; M.A.W.master727–729/8888; Tale24313605–13662; disposition200 Neutral, no external aid and withdrawal from SmotheringMother. Prior Batch33unit1 a1c3697 is prose cleanup; Batch67unit6 is Myrmidon, not this pair. No earlier counted exact-pair Weapon disposition found; Weapon+1.
+
+**Holds:** Primary/archetype/master table Boundary-Blade and territorial slow versus A/B/CSV/master detail Wandering Fang and restraint severance; never infer interchangeable abilities. Primary set holds/no exit aid versus A UnboundHearth freeing care, B LovingLock severance and C open-exit test; primary harness versus living-chitin master type; Tail versus pendant/choker type; working-rating bonus/restraint loss versus A/D+1Resilience; Link permission-only grant pattern versus D unpredictable successful-work bestowal. Pugnahan listed valid versus permanently barred; per-turn pressure versus restraint-indexed gauge; Origin man left versus Tale Han took him; ZoneB versus C faction/Tale witnesses. All numbers and supplementary sources unchanged.
+
+**Commentary:** I think the red marks work because they indict familiar doorways rather than an abstract evil. The strongest distinction is between being legally free to leave and having a life that makes leaving possible.
+
+**Checks/progress:** RESIDUAL0/seams[]/pipeTrue/dupes[]; RESIDUE0; sections≤0.05; wording meetsTrue; GENERIC0.005. Full-SE180/301=59.80%,121/301 remain,119/301 eligible. Independent Weapon195/287=67.94%,92/287 remain. Exact-pair increment+1; batch5/5. Supplementary sources unchanged.
+
 ## Batch 131 — OPEN: five pending-only source-led reviews (2026-10-16)
 
 Owner `p` after Batch130 authorizes one next batch, starting at five. Recovery: retained working tree matched a pushed commit byte-for-byte; supported syncbranch.py restored HEAD/index from10cd20a to remote f93c1df without changing dossier content. Clean/equal remote; PR14 OPEN draft→NON-WIKI. Inherited archive, timeline, seam and box gates PASS. Fresh full inventory301, marker union172, excluded SilentChildN-Iα-025/InheritorC-IIIγ-062, counted Full170/301=56.48%,131/301 remaining,129/301 eligible. Independent Weapon186/287=64.81%,101/287 remain;14 unpaired excluded.
