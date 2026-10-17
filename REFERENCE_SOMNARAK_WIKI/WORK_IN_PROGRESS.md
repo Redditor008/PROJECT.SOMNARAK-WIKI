@@ -1,5 +1,79 @@
 # Work In Progress
 
+## Batch 143 — CLOSED 5/5 (2026-10-17)
+
+All five individual commits PUSH VERIFIED, through c8f2e605f6f4fa5103637f0dd6ef15a898715264. Closeout gate follows this administrative record. Authorized by owner's “p + Later We Fixed Everything That We Just Talk About” after closed142. One next batch only; no Batch144 opened.
+
+**Progress:** Full235/301=78.07%,66/301remain,64/301eligible. Weapon236/287=82.23%,51/287remain. This batch+5Full/+5uniqueWeapon, including the unchangedSkyreview. Exactpairhistory distinguished from prose and art history; no duplicate credit.
+
+**Ranking:** Freshpending-only opening232markers minus2exclusions=230countedFull;69eligiblepending. Selected905(.003708551),169(.003703704),031(.003680589),926(.003654549),220(.003519356), no substitutions. BrokenPromise160 retained from B112u3. Closingfresh237markers minus2=235countedFull;64eligiblepending. Nextpending907BreathingStone(.003460956),918NinetySeconds(.003459459),912ElevenFiftyNine(.003343683),185WhisperingGallery(.003277424),108Animus(.003195617), not defects/Nochange findings and not newlyauthorizedwork.
+
+**Rung:** Fivecompletedreviews, Nochange1/5 (Skyonly). Fewerthanthree;5→7not triggered, closeatfive. Fiveisminimum,tenmaximum;5→7→10extensionis cumulativeNochangeperdossier, not perfield or sourcepair. Fourchangedprimaries, oneunchangedprimary; noforceedit to padresults.
+
+### Lacrima
+
+**What changed:** The Clash maximum now matches the recorded three-point-one-millimetre gap rather than three. The one-minute Method acknowledges the four independently agreed words instead of claiming none ever existed. The Tool Return field now uses its own documented lid-reseating, removal, pre-use-statement readback and unreconciled-transcript procedure instead of an unspecified premature-return trauma rule.
+
+**Commentary:** The ordinary swab jar is more effective than an ornate soul vessel would be. The unresolved seventeen make the consent rule genuinely difficult instead of allowing the institution an easy moral victory.
+
+### Atlas
+
+**What changed:** Added an Appearance States table separating the earlier worker/incorporation from the current fixed pillar. The source-supported bridge is prolonged support becoming incorporation, not a human body emerging during breach; no release or reversal is established. Final reread refined the load cell to flake mass/relief rota, explicitly not a measurable structural load, preserving the Relief Record's neither measures him distinction.
+
+**Commentary:** The tray is an unusually good instrument because it fails precisely when nobody comes to relieve the worker. The forced removals keep shared responsibility from becoming an easy slogan: colleagues also pay for enforcing it.
+
+### The Observing Bird
+
+**What changed:** Movement now describes its actual flight/perch/sightline behaviour rather than crawls/walks/slithers/prowls. The breach notice directs a fixed-pattern disclosure survey rather than implying a dive attack. Removed the mistaken four-words description while keeping the complete suppression condition verbatim.
+
+**Commentary:** An animal covered in eyes is a clear silhouette, but the dissolved court is what makes this Bird distinctive. Accurate evidence used only to discipline staff gives its helpless witnessing a sharper institutional counterpart.
+
+### Sky of Borrowed Faces
+
+**What changed:** No change
+
+**Commentary:** The empty ground makes the borrowed faces more unsettling than a haunted battlefield would. The standing objector's refusal has a measurable training cost, so the file cannot solve consent merely by declaring one side kind.
+
+### Walking Calendar
+
+**What changed:** Corrected the leftover Apex description of its breach to its non-breach zone-corruption event: the figure remains inside while the structure takes the pulse. Corrected outside a event to outside a containment event. No change to form, event effects, procedure, equipment or statistics.
+
+**Commentary:** The bowed figure is familiar, but the ninety-year promise gives its weight a distinctive cause: disclosure can arrive exactly on time and still arrive too late for anyone owed an answer. The reading gives workers a concrete act without pretending that their sympathy cancels the history.
+
+**Five completed reviews, word counts and individual shipments.** LC_ALL=C wc -w.
+
+| Dossier | Repairs | Words | Checks | Shipment |
+|---|---|---|---|---|
+| [Lacrima](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-905_Lacrima_%EC%98%81%ED%98%BC%EC%9D%98_%EA%B7%B8%EB%A6%87.md "SE-N-Iα-905_Lacrima_영혼의_그릇.md") `N-Iα-905` | 3 short / 0 careful | 6,764→6,774 | PASS | `5606596e` PUSH VERIFIED |
+| [Atlas](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-169_Atlas_%EB%85%B9%EC%8A%A8_%EA%B8%B0%EB%91%A5.md "SE-O-Iα-169_Atlas_녹슨_기둥.md") `O-Iα-169` | 0 short / 1 careful | 7,070→7,244 | PASS | `f4a516d2` PUSH VERIFIED |
+| [The_Observing_Bird](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-031_The_Observing_Bird_%EC%A7%80%EC%BC%9C%EB%B3%B4%EB%8A%94_%EC%83%88.md "SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md") `C-IIIγ-031` | 3 short / 0 careful | 8,604→8,629 | PASS | `f9cbef36` PUSH VERIFIED |
+| [Sky_of_Borrowed_Faces](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-926_Sky_of_Borrowed_Faces_%ED%99%98%EA%B0%81%EC%9D%98_%EA%B2%A9%EC%9E%90.md "SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md") `O-IIIγ-926` | No change | 7,249→7,249 | PASS | `93d6fcda` PUSH VERIFIED |
+| [Walking_Calendar](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-220_Walking_Calendar_%EC%84%B8%EC%9B%94%EC%9D%98_%EB%AC%B4%EA%B2%8C.md "SE-C-IVδ-220_Walking_Calendar_세월의_무게.md") `C-IVδ-220` | 2 short / 0 careful | 8,197→8,202 | PASS | `c8f2e605` PUSH VERIFIED |
+
+[[SE-N-Iα-905_Lacrima_영혼의_그릇](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-905_Lacrima_%EC%98%81%ED%98%BC%EC%9D%98_%EA%B7%B8%EB%A6%87.md "SE-N-Iα-905_Lacrima_영혼의_그릇.md")]
+
+[[SE-O-Iα-169_Atlas_녹슨_기둥](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-169_Atlas_%EB%85%B9%EC%8A%A8_%EA%B8%B0%EB%91%A5.md "SE-O-Iα-169_Atlas_녹슨_기둥.md")]
+
+[[SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-031_The_Observing_Bird_%EC%A7%80%EC%BC%9C%EB%B3%B4%EB%8A%94_%EC%83%88.md "SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md")]
+
+[[SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-926_Sky_of_Borrowed_Faces_%ED%99%98%EA%B0%81%EC%9D%98_%EA%B2%A9%EC%9E%90.md "SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md")]
+
+[[SE-C-IVδ-220_Walking_Calendar_세월의_무게](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-220_Walking_Calendar_%EC%84%B8%EC%9B%94%EC%9D%98_%EB%AC%B4%EA%B2%8C.md "SE-C-IVδ-220_Walking_Calendar_세월의_무게.md")]
+
+**Source evidence:** Wholeprimary/exactA–D4/4for eachcompleted; all itemidentity,binding/history,Appearancewherepresent,cost/failure/corrosion/care/shutdownandfooters read. AtlasMasterMAW700–702/Tale234, Bird19–21/Tale7, Calendar259–261/Tale87 read completely in relevant sections. Lacrima/Sky no dedicatedMasterMAW/Tale entries found, no substituteinvented; EntityCodexlists bothawaitingrows. Registry/archetype/personalization/disposition and archivedhistory checked by exactdesignation. Calendar usesonly220A–D inshared220–233directory, notsiblings. No priorindependentpaircredit found for these5; B43SkyR29 and B13CalendarR29 are prosehistory, not pair dispositions. CompactBirdrecords lackstandalonecare/shutdownsections, not supplied by imagination.
+
+**Holds and later-fix backlog:** Keep all inherited142holds from openingrecord and fullfive143unitevidenceentries. Lacrimablade/dropletart, hearing/release/familycount,sourceevent/consent/costscopes; AtlasSeax/Maul, WO/WP/InnerOutside, echo/chippedmaterial, never-shiftedCombat andzero-loadTale; Birdimplant/blade/RoomMediumLong, never-struckCombat/novoicewail, Suit/Stigmafunctionandhistory; Skyblade/LongSpear, four/elevenevents,74grants/112familysubset,quarter/day/gaugecounts and9/19yearscopes; CalendarMediumMaul/Longpostdriver, historicalerasureversusautomaticlateopening, currentannualreadingversusoldarchivecondition, CharmResolve/taskendurance and date/thresholdscopes. No hold is declared solved and no replacementfigure, sourcebody,artwork or ownerdecision fabricated. SkyNochange means no safeprimarynormalization selected, not no outstanding issues. IndexSkyabsenceoftableandCalendarbreachwording are stale-sourceholds, not rewrittenhere.
+
+**Shaping:** Atlas now explicitly distinguishes earlierworker/incorporation/currentrustedpillar with same-entitysourcebridge; it doesnot alternatehumanandpillarwhilefighting and no release/reversal established. Birdretainsreadableeagle-bodywith144eyes; Skyis spatialHazard/projections, not people physicallyleavingwards; Calendaris mixedhuman-like fusedrecordbody accumulatingage, not an inventedMonster eventform; Lacrimaremainsordinaryjar with expandinggap/light/audibleradius. Writtenform/time checked, not a galleryaudit or four-Subject-familycompletionclaim. No artwork credit or quota-basedredesign. R19Neutralretainedfor905/169/926/220; Birdconditionalpositive requiresallthree singing for4–9hourssectorbenefit, nevera pair/alone. Sourceequivalentethics/sadnessnotR19benefit.
+
+**Checks:** Allfive currentprimaries freshly rerun at close: verify.py(residue/seam/pipe/duplicate check) RESIDUAL0,seam[],pipeTrue,dupes[]; tpl.py(template-residue check) RESIDUE0; sectfile.py(section similarity check)0sectionsover.05; wikistd.py(wiki-standard check)meetsTrue/dirty0; sect.py(genericprose screen).004each. Everyoriginaldigitsequence and actualequipmentblock byte-identical. Nonshrinking declaredrepairs;8batch-short/1careful-detail, total 37,884→38,098words (+214). Wholefinal rereads complete. Skysecondwhole402-line reread happened after itsunitgate; beforegateit had completeunchangedprimaryreadpluspostsourcebytecheck. Generatedentry'stimingoverstatement correctedinunit5logs, no extra credit. AtlasfirstgaterefusedboldLoadlabel; changedonlylabeltoMeasurement,rereadblockandreranchecks, retryverified. No source/equipmentnumberrewrites. Onefailedclosecounterinvocationused nonexistenttools/couples.py; reran actualtools/kit/couples.pywithnoargs. This was not a failedgate nor a passedmissingcheck.
+
+Compare.close byte-identicalopening:557candidates/861itempairs/287completesets, not557confirmeddefects. Couples.close byte-identical0/301files,0sectionpairs. git diff --check clean. R31/R32 standalonecomplete reads done beforefinalreport; initialconcatenationtruncationnot counted as read. Closeafterindependentunits, not a combinedrepairgate.
+
+**Live counters:** Full235/301=78.07%,66/301remaining,64/301eligiblepending. Countsuniquecompleteprimary/source reviewswithholds; excludes pausedN-Iα-025,scope-unconfirmedC-IIIγ-062 and non-SEBook. Weapon236/287=82.23%,51/287remaining, countsuniqueexactequipmentpairdispositionswithholds; repeatszero,14primariesoutside287(9noexternal/5exceptions). Theseareseparateworkstreams. Batch5/5complete,Nochange1/5. A couple is twodossiers exceedingprose-overlapthreshold, not equipmentpair; fixphase is source-supportedconsistencyrepair, not collectionredesign.
+
+**Next and branch:** PR14refreshedOPEN,draft,headarena/954853ad-project-somnarak-wiki,baseNON-WIKI. No merge/close performed; ownercontrolsmerge. Awaitnextp for freshpendingrankedbatch. Allworkandpushesonlyassignedbranch; inherited.patch preserved, no ownerhistorydeletion. Batch301 remains separate andblocked on eightowner-suppliedbodies andownerselected4+4operation; generate/validatebeforewikicopy. Neitherlater-fixdirectionnor thiscloseinventsthosebodiesor opensanotherbatch.
+
 ## Batch 143 / unit 5 — Walking Calendar `C-IVδ-220`
 
 [Walking_Calendar](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-220_Walking_Calendar_%EC%84%B8%EC%9B%94%EC%9D%98_%EB%AC%B4%EA%B2%8C.md "SE-C-IVδ-220_Walking_Calendar_세월의_무게.md")
@@ -36,7 +110,7 @@
 
 **Shape and chronology:** NonanthropomorphicspatialHazard: Desolateground, surface-boundmoving/speaking/reachingimages; openairdoesnotserveasscreen. AliveFracturedpeopleinwards are people depicted, not priorbodies oftheHazard, deadghosts or newSubjects. Expansion alterswhichsurfacescarryprojections, not an emerginghumanbody. No art/gallerycredit.
 
-**History and independent credit:** ExactSE-926-B/MAW-W-926searchcurrent/twoarchivedWIP/CHANGELOG foundnoearlierindependentpairdisposition. B46u7quotation/R29 andB59u6806ee93OPsimilarity repairs only; archivedB59contextread. Allrefprimary/exactsethistory10cd20a. Adds+1Full/+1uniqueWeapon despite unchangedprimary; shipment consists of this completedreviewevidence. PriorBirdf9cbef36f5e1c73faf9b221276338571483cc857verified.
+**History and independent credit:** ExactSE-926-B/MAW-W-926searchcurrent/twoarchivedWIP/CHANGELOG foundnoearlierindependentpairdisposition. B43u3/8066031R29interactions/condition, B46u7quotation and B59u6/806ee93OPsimilarity repairs only; allthreearchivedcontextsread. Allrefprimary/exactsethistory10cd20a. Adds+1Full/+1uniqueWeapon despite unchangedprimary; shipment consists of this completedreviewevidence. PriorBirdf9cbef36f5e1c73faf9b221276338571483cc857verified.
 
 **R19:** Neutralretained: no secondholdingeverwalkedonto grid; OnceUpon/Amnesia/Miasma comparisons madeonpaper and no causalchange. No injuryandno measuredentitysuppression/assistance. Indexabsence-of-tablewording heldoutdated, notproofnoappendixexists. Institutionalconsent/trainingcostnotautomaticNegative.
 
