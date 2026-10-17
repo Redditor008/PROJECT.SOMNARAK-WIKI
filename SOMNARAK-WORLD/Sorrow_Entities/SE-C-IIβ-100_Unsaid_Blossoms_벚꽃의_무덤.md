@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-100 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on none. the fall is continuous and observer-independent |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on none. The fall is continuous and observer-independent |
 | **Coherence** | Echo (II) — Repeats blooming |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -88,7 +88,7 @@
 
 1. **Tension:** The marker is checked (a single marked grave under a living cherry whose blossoms are pale crystal, salt-cold, falling in still air and never rotting; a chalked marker ring for the heavy-air boundary; a locked store. If blossoms are being opened, read, or carried off the site, the holding is being mishandled and the count is stopped) and Unsaid Blossoms is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** There is no clash and the standing order's first line forbids treating the site as though there could be: this is a burial place before it is a containment. What the party does is count the day's fall, blossom by blossom, into the store without reading a single one, and hold the count against the quarter's traffic return from the operational net.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Speak honestly at the grave; do not remove blossoms**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **The day's fall is counted whole, entered unrounded, and stored unread, with the quarter's refused-message figure attached**.
 
 ### Consequences
 
@@ -304,9 +304,9 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 최종 관찰 (Final Observation)
 
-> The visit closes on one decision, and the file keeps its two endings on it: speak honestly at the grave and leave the blossoms where they are, or take a hand to the tree because the moment seems to ask for it.
+> The visit closes on one decision: count the day's fall whole and enter it unrounded, then close the store unread, or estimate the figure or raise a voice inside the ring and lose the day. Nothing here asks for a confession: no blossom is opened, no sentence is read, and nothing is taken from the grave.
 
-| Speak plainly at the grave; leave the blossoms untouched. | Trust your own judgement instead, which on this grave has never once come cheaper than the clause. |
+| The day's fall is counted whole, entered unrounded, and stored unread, with the quarter's refused-message figure attached. | Trust your own judgement instead, which on this grave has never once come cheaper than the clause. |
 |---|---|
 | The fall is counted whole and entered unrounded on a day when the figure will embarrass the net office, and the store is closed unread. The sorrow is witnessed; Unsaid Blossoms is fully recorded. | The figure is estimated, or a voice is raised inside the ring and the bloom shuts. The day is void in a fifty-two-year series and stays void; nothing else changes, because the tree was never performing for anybody. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
