@@ -31,7 +31,7 @@
 | **Han-Energy yield** | Twenty to twenty-eight, earned solely when a cycle runs to its end, and counted from the form records rather than from what the figure reports. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | δ · δ |
+| **Tool / M.A.W. grade** | γ · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | Somewhere between one and ten tons, at the Critical grade. The relic can be destroyed; that was never the same question as whether it can be kept. |
 | **Recommended response** | All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Pugnahan returns force and raises it, and nothing it carries or sets down may be touched at any point. |
@@ -147,12 +147,12 @@ Relic of a Thousand Owners is a Subject with Subject-Phantasmal manifestation an
 **Reading the response:** Read it in the outline and in the relic's surface. A falling gauge presents as the figure settling — the shift between person and object slowing, one reading holding longer, the relic's flow quieting to a slow movement across its own surface. Nothing is resolved by that. The object still belongs to nobody and the names still outnumber the register. A rising gauge presents as **custody**. The worker begins to feel responsible for the object. It starts as a reasonable thought about where it should be kept, becomes a view about who is qualified to keep it, and ends with the worker explaining, calmly and at length, why they should be the one to carry it out. Nobody in that state believes they are claiming anything. The suppression condition is written against exactly this and is the only guard there is.
 ## Breach Behavior
 
-> *"Relic of a Thousand Owners has broken free. Hunts personnel indiscriminately."*
+> *"Relic of a Thousand Owners has broken free. It intensifies in place and makes the position untenable."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Corrupt |
-| **Movement** | Relic of a Thousand Owners pulses with concentrated force, cracking the walls around it. It hunts personnel indiscriminately. |
+| **Movement** | Relic of a Thousand Owners pulses with concentrated force, cracking the walls around it. It does not pursue; withdraw radially from the fixed point. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
@@ -290,7 +290,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 감각 묘사 (Flavor Text)
 
-A figure flows across the Gate's shadow carrying a weapon that has no fixed shape. Its surface shows hands, faces, and farewells. You reach for it and the relic flows away, not from fear but from memory. It has been claimed too many times to belong again.
+A figure flows across the Gate's shadow carrying a relic that has no fixed shape of its own. Its surface shows hands, faces, and farewells. You reach for it and the relic flows away, not from fear but from memory. It has been claimed too many times to belong again.
 
 
 

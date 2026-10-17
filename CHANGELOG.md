@@ -8,6 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 142 / unit 1 — Relic of a Thousand Owners `O-IVδ-792`
+
+[Relic_of_a_Thousand_Owners](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-792_Relic_of_a_Thousand_Owners_%ED%9D%90%EB%A5%B4%EB%8A%94_%EC%9C%A0%EB%AC%BC.md "SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물.md")
+
+**What changed:** Equipment overview δ→γ matches all three item grades; two indiscriminate-hunting claims now describe the already-recorded fixed-point Corrupt event and radial withdrawal. Flavor Text calls the carried object a relic, not an extracted weapon.
+
+**Source evidence:** Whole469-line primary; exact SE-792-A/B/C/D complete4/4, including recovered C failure/care/footer after combined output truncation. Registry887–890; archetype323; personalization535–537; EntityCodex596; complete MasterMAW716–718/8327–8357 Entries676–678 and Tale226/12644–12697. Every A–D binding/history/corrosion/shutdown statement read.
+
+**Source comparison / holds:** Primary/B γLament7–12,Fast3,Medium3,Skewer100/70/50,max3/cost40; primary/A/C .4/1/1.6/.8,max3/35; primary/A/D Tail4%/+2sourceWork retained. ArchetypeShort differs from itemMedium and personalizationMedium. B header/Appearance falchion versus A/B body Hammer and personalizationbuffer mallet: title/shape relationship unresolved, not a newly established transformation. C's Appearance is doctrinal not a physical shroud description; primarysilk versus Masterlivingchitin uncorroborated. MasterStigma pendant versus Tail, genericRegistryAccessory5% versus exactTail4% held. Primary gift's neverlost/neverdamaged property more specific than D's genericboon; extractionfromfigure/localattachment, nohandlingversuspostdeparturefragmentcollection, Containedheader versus explicitobservationalcustody, and 5perturndrain versus claim-drivenGauge retained as separate unresolved scopes. No numeric/stat election or invented bridge.
+
+**Shape and chronology:** Source-backed earlier carried object accumulates exile history and becomes the later figure. Current shiftingperson/object silhouette and fluidburden remain; no humanoidstandardization, extraanimal/monsterform, or newbreachbody. In-placeCorruptgeometry is already explicit in Consequences/Flavor/Registrum/Apex, so short pursuit repairs use its own authoritative detail. Written shape reviewed; no artwork generated or collection census claimed.
+
+**History and independent credit:** All-ref primary history ends at inherited10cd20a; current/archivedWIP and CHANGELOG exact SE-792-B/MAW-W-792-01 search found no earlier independent pair disposition. Batch73unit4 was similarity/stat-row prose work, not full source review; earlierpersonalization is artwork not equipment-pair audit. Adds+1Full and+1uniqueWeapon.
+
+**R19:** ExistingNeutral retained. Gate readings unchanged; elevenGuardian co-presences exchanged no names and changed neither series; ReturningRelic pairing refused. Institutional staffing burden and localCorruptdanger do not establish other-entity release or suppression.
+
+**Commentary:** The strongest idea is that care itself becomes a claim of ownership. The one-cycle-per-career rule gives that danger an institutional cost without turning the relic into a chasing monster.
+
+**R18 and validation:** Declared 4batch-short/0careful-detail before edits. Full primary read followed by whole final reread. LC_ALL=C wc -w 8,521→8,536 (+15). All original digit sequences and the complete actual equipment section unchanged. Each replacement unique and nonshrinking; no mixed-class multi-file repair. verify RESIDUAL0/seam[]/pipeTrue/dupes[]; tpl RESIDUE0; sectfile zero qualifying sections>.05; wikistd meetsTrue/dirty0; GENERIC 0.004  (25 shared shingles)  SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물.md. git diff --check passed. Individual gate/push immediately follows this entry; prior HEAD 51dc69d51283c6865770e4bc3bf7d305e80a1a6c was verified. No unsupported source/registry/artwork edits.
+
+**Independent counters:** Full226/301=75.08%,75/301remain,73/301eligible; Weapon228/287=79.44%,59/287remain. Full counts complete primary/source reviews including holds; excludes paused025,scope-unconfirmed062 and non-SEBook. Weapon counts unique exact equipment-pair dispositions including holds;14primaries outside287(9noexternal/5exceptions), repeats earn zero. BatchOPEN1/5,Nochange0/1. Fix phase is source-supported consistency repair. A couple is a dossier pair exceeding prose-overlap threshold, not an equipment pair; opening0/301, final recheck at close. No new batch authorized.
+
+[[SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-792_Relic_of_a_Thousand_Owners_%ED%9D%90%EB%A5%B4%EB%8A%94_%EC%9C%A0%EB%AC%BC.md "SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물.md")]
+
 ## Batch 142 — OPEN 0/5 (2026-10-17)
 
 Owner p after Batch141close19b7544899abe9cfdcbd2f45962bc5d068f4ca6c authorizes one next batch. Start at five under R26, three completed No change dossiers trigger5→7→10 in this same batch. No other batch authorized. No unread dossier counts as No change.
