@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 12–18 per cycle, drawn from a plot with nothing on it, which the energy office has queried in writing twice. The wing's answer both times was the same: the yield comes from the watch, and the watch is what keeps the plot empty. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Read the memorial list at the perimeter, aloud, names and unfinished business together. Four minutes. Viderehan and Ferrehan are the valid Work Types and both of them reduce, in practice, to doing that and then standing there until the end of the watch. |
@@ -169,7 +169,7 @@ Escalation here has a single known trigger and a single known shape: something i
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | New structures or people erased without acknowledgment. |
-| **Manifestation** | Place-Grudge|
+| **Manifestation** | Place-Void|
 | **Primary effect** | Nearby buildings feel incomplete and conversations become difficult. |
 | **Duration / rate** | Slow, through architectural memory. |
 | **Risk** | Moderate (β), and the grade describes what happens inside the footprint, which is the only place anything has ever happened. On the street, in eleven years, the holding has produced no injuries at all. |
