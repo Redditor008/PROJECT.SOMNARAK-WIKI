@@ -1,5 +1,29 @@
 # Work In Progress
 
+## Batch 142 / unit 5 — Border Tree `O-IVδ-151`
+
+[Border_Tree](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-151_Border_Tree_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%82%98%EB%AC%B4.md "SE-O-IVδ-151_Border_Tree_스며든_나무.md")
+
+**What changed:** Core Speed no longer calls the explicitly creeping trunk a fixed object; it uses repeated fixed-marker surveys. The Weapon Ability now requires a negotiated non-hostile passage, bearer/counterpart/oversight agreement and reciprocal restriction, rather than implying the bearer can choose a unilateral barrier.
+
+**Source evidence:** Complete492-line primary and exact SE-151-A/B/C/D4/4, all itemforms/extraction/history/maintenance/shutdown read. Registry398–401; archetype111; personalization149–163/243–255/367–375; EntityCodex590; MasterMAW701–703/8162–8193 Entries661–663 and complete Tale221/12365–12419. Exactsourceidentity O-IVδ-151; TheSpreadingTree alias is joined by designation not title alone.
+
+**Source comparison / holds:** Primary/A/B δGrudge10–15,Fast3,Medium3,Skewer100/70/50,max2/50; primary/A/C1/.4/1.8/1.2,max2/45; primary/A/DTail4%/+3namedsourcecheck retained. Bheading/Appearance Tanto versus Officialname/restingclub/activeRootline and detailedMaster661Root retained; no supportedRoot-to-Tanto chronology. HistoricalpersonalizationclubShort/Medium and currentarchetypeTantoLong versus itemMedium held. ASubject/PlaceLament/City versus primaryObjectPlace/PlaceGrudge/Outside, primaryIdentificationSubject versus header, A29–62 versus primary29–64, AStudied versus primaryBasic, no reclassification by silhouette. A/Bwithdrawnecho/no livecut versus primarylivingrootcut; Ccrimsonsternumgap/counterpartdefense versus primarydarktighteningharness/localpacecost; Dcooltwodirectionrootmarker versus primarywarmmapcharm and same-sidebonuscondition held. Primarygenericnegotiationsuccess versus datedWalkedCrossingwatchsubstitute, annualadvancealwaysincreasing versus goodcycleslowcreep, instantaneousCombatforest versus surveyedlongadvance, directrootcutrescue versus AinvalidPugnahan/do-not-cutroots scopes retained. No new numbers, source edits or invented transition.
+
+**Shape and chronology:** Rootlegs/branchclaws/colossalmulti-limbedtree-monster with wallcoursedtrunk explicitly supported by primaryandA; not madehuman-shaped or a genericstatic tree. Earlierhumansettlement loss is causalhistory not proof that citizens fused into an earlier/later samepersonbody. Currentcreeping and expansion footprints preserved; only contradictoryfixed-speedsummary repaired. No artwork generated and no fourfamilygallerycompletion claimed.
+
+**History and independent credit:** Independent Weapon disposition already shipped Batch91unit3 e04ec9cb, exact SE-151-B/MAW-W-151 title/function alignment and Rootidentityhold. Fullcontext and priorcounter49/287read. Therefore +1Full/+0Weapon, not a fifth new pair. ArchivedB26unit2 e48e45d cleanup was R29prose, not fullsourcebundle. All-refhistory10cd20a remains compressed; shippedlogs supply priorreviewevidence. Seed push verified83ee5952a685fc7b42b28f6fa09eb351f0a44eef.
+
+**R19:** ExistingNegative retained with quoted ownrecord: barrierstructures fail preferentially, permanent groundtaken, and GardenofThorns growth turned along4186course and neverturned back. This is institutionalcontainmentfabric loss and changedneighboringexpansion, not dangergradealone. ReturnedTreeuntested and Mawpairingrefused, no invented alliance.
+
+**Commentary:** A tree walking a lawful boundary is a concrete monster shape with a specific political wound. The visit permits and walked crossing keep it from becoming a generic evil forest: the people can see their homes, and the rule is still against them.
+
+**R18 and validation:** Declared 1batch-short/1careful-detail before edits. Full primary read followed by whole final reread. LC_ALL=C wc -w 9,067→9,124 (+57). All original digit sequences unchanged. Only the declared Weapon Ability paragraph changes inside equipment; restoring that original paragraph makes the entire equipment block byte-identical to its opening snapshot. Every numeric/stat/name/Appearance field is unchanged. Each replacement unique and nonshrinking; no mixed-class multi-file repair. verify RESIDUAL0/seam[]/pipeTrue/dupes[]; tpl RESIDUE0; sectfile zero qualifying sections>.05; wikistd meetsTrue/dirty0; GENERIC 0.004  (25 shared shingles)  SE-O-IVδ-151_Border_Tree_스며든_나무.md. git diff --check passed. Individual gate/push immediately follows this entry; prior HEAD 83ee5952a685fc7b42b28f6fa09eb351f0a44eef was verified. No unsupported source/registry/artwork edits.
+
+**Independent counters:** Full230/301=76.41%,71/301remain,69/301eligible; Weapon231/287=80.49%,56/287remain. Full counts complete primary/source reviews including holds; excludes paused025,scope-unconfirmed062 and non-SEBook. Weapon counts unique exact equipment-pair dispositions including holds;14primaries outside287(9noexternal/5exceptions), repeats earn zero. BatchOPEN5/5,Nochange0/5. Fix phase is source-supported consistency repair. A couple is a dossier pair exceeding prose-overlap threshold, not an equipment pair; opening0/301, final recheck at close. No new batch authorized.
+
+[[SE-O-IVδ-151_Border_Tree_스며든_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-151_Border_Tree_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%82%98%EB%AC%B4.md "SE-O-IVδ-151_Border_Tree_스며든_나무.md")]
+
 ## Batch 142 / unit 4 — Sorrow Seed `C-Iα-300`
 
 [Sorrow_Seed](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-300_Sorrow_Seed_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%94%A8%EC%95%97.md "SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md")
