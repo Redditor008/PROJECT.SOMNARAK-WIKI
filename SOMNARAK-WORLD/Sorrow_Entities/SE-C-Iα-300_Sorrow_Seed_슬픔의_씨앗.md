@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-300 [D]` |
-| **Entity Type** | **Subject** — Non-breaching: manifestation in place; activates on none known. the seed has never been planted and the prohibition on attempting it is unconditional; what the file calls a |
+| **Entity Type** | **Subject** — Non-breaching: manifestation in place; no activation trigger known. The Seed has never been planted and the prohibition on attempting it is unconditional; what the file calls activation is its observer-independent overnight crawl, not germination. |
 | **Coherence** | Residue (I) — Barely formed, dormant |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -88,7 +88,7 @@
 
 1. **Tension:** Identification first: a fist-sized dark crystal, shell split along one side with one thick warm tendril out of the split and no shoot, lying on bare soil with the bearing chalked against the fixed north mark and a day's crawl laid off it in centimetres. A crystal off bare soil, or a bed without its line, means the chamber was entered improperly or the thing in it is not this holding. The approach is set after that, and the positions are taken before anything else is attempted.
 2. **Clash:** The watch does not act on the Seed and cannot. The session is a measurement: the overnight crawl in centimetres, the bearing in degrees off the chamber's north mark, and the name of the roster the bearing points at. Work Types are performed to hold the observers steady while they take it, not to change anything in the bed.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**. Resolution on this holding is a paper act performed honestly — the condition is met when the figure goes up unrounded, and nothing the Seed does can either bring that about or prevent it.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the crawl, bearing, named roster and untaken-leave balance reach the duty office unrounded**. The earlier below-25% gauge requirement is not a target for this watch: no gauge reduction is attempted. Resolution on this holding is a paper act performed honestly — the condition is met when the figure goes up unrounded, and nothing the Seed does can either bring that about or prevent it.
 
 ### Consequences
 
@@ -356,7 +356,7 @@ The shell is split the way a shell splits for a shoot, and there is no shoot. Th
 
 
 
-**At first contact:** Warmth where there should be none, a split shell with nothing coming out of it, and a chalk line already drawn. The chamber is bare because bare is a containment measure here, and the first thing anybody says to a new observer is the rule about not speaking of your own dead inside it.
+**At first contact:** Warmth where there should be none, a split shell with a single travelling root but no shoot coming out of it, and a chalk line already drawn. The chamber is bare because bare is a containment measure here, and the first thing anybody says to a new observer is the rule about not speaking of your own dead inside it.
 
 **With continued exposure:** You stop watching the crystal and start watching the chalk. Then you start reading the rosters it points at, and then one night it points at yours.
 

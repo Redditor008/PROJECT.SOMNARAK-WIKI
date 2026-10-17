@@ -8,6 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 142 / unit 4 — Sorrow Seed `C-Iα-300`
+
+[Sorrow_Seed](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-300_Sorrow_Seed_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%94%A8%EC%95%97.md "SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md")
+
+**What changed:** Completed the classification cell clipped at what the file calls a from its own Activation Trigger's overnight-crawl explanation. Resolution now uses the actual crawl/bearing/roster/unrounded-leave reporting procedure and explicitly disclaims the inherited below25% watch target. First-contact description keeps the existing travelling root distinct from the absent shoot.
+
+**Source evidence:** Whole459-line primary, complete SE-1031-A/B/C/D4/4 (D recovered in full after combined truncation). All four explicitly name SourceSECC C-Iα-300 and the SorrowMaul/Mantle/Seed set: these are the matched records despite1031itemIDs. SE-300-A checked foridentity: C-IIIγ-300 MemoryLock, not SorrowSeed. Registry286–289; archetype431; EntityCodex479; complete MasterMAW377–379/4591–4623 Entries337–339; Tale113/6393–6451 incl fullRecord/addendum. No Appearance section in1031B/C/D; physicaldesigns remain primaryonly.
+
+**Source comparison / holds:** Primary/A/B αWeight3–6,Normal2,Short2,max5/15 retained; Single100% sourceonly not injected. Primary/A/C L/G/V/W1/1/1.5/.5,max5/10; primary/A/DHead5%/+1sourceWork retained. Cannon/Room archetype1031 versus Maul/Short not reconciled. PrimarySubject header versus Object/Place operational/workpermission text, dormantCoherencegloss versus mobilecenturieslog, soilbearing versus payrollrosterbearing, nochangeanymeasurableproperty versusdailycrawl, entry2nearbygrief/entry6rooting versus explicit noresponse/unconditionalnoplanting remain held. MasterTale dormantuncracked/unmoving/griefnotyethappened versus primarysplitroot/commutedbereavement story not automatically chronological stages: currentprimary saysmotion fromearliestinventory. MasterRecordIVγ/Level4 versus Iα/Level1 retained as historicalsourceconflict, not silentlyelected. Dplantableminorentity/growthcost and primaryStigma payrollrecognition; mainSeedneverplant versus separateplantableStigma are differentobjects, not automaticcontradiction or authorization. Setheavyagecost versus Suitfatigue and Dgrowth scopes retained. No sourceoractualequipment change.
+
+**Shape and chronology:** Smallsplitcrystal/onewarmtravellingroot/no shoot, readable nonhumanoid plant/creature-object hybrid rather than a recolouredperson. Rootlocomotion is not germination; olddormantTale not forced to match byinventingearlierhumanoidform or futuregrownmonster. Classification/workpermission discrepancy left explicit instead of usingshapealone to reclassify. Writtenrecordreview only.
+
+**History and independent credit:** Exact SE-1031-B/MAW-W-1031 sourcehistory search across current/archivedWIP/CHANGELOG found no previous individualequipment-pair disposition. B32unit4 f4ad00a was20-site R29proseclean; B67/68 similaritymentions not pairreviews. All-refprimaryhistory10cd20a. Adds+1Full/+1uniqueWeapon. Unit3 verified0fe0d268ad707d48b66a8f72343eff6c0e93323a. A wildcard initially matched MemoryLock too; failedbackup command changed nothing, then exactfull-designation path was used and helpercorrected to reject number-only selection.
+
+**R19:** Neutral retained against ownrecord: no germination/injury/binding/breach, untestedfutureentity hypothesis not assistance. Other index references to FlowingSeed being slowed and LastFruit's failedgermination do not establish authorized samebed experiments in this dossier; cross-recordrelationship scope held. Payroll benefit/cost is not other-entitysuppression. Institutional compulsoryleave burden not automaticNegative.
+
+**Commentary:** A root moving toward untaken bereavement leave is a much sharper design than a generic seed of future disaster. The compulsory-leave dispute works because both the protective rule and the workers' objection have a real cost.
+
+**R18 and validation:** Declared 3batch-short/0careful-detail before edits. Full primary read followed by whole final reread. LC_ALL=C wc -w 8,470→8,500 (+30). All original digit sequences and the complete actual equipment section unchanged. Each replacement unique and nonshrinking; no mixed-class multi-file repair. verify RESIDUAL0/seam[]/pipeTrue/dupes[]; tpl RESIDUE0; sectfile zero qualifying sections>.05; wikistd meetsTrue/dirty0; GENERIC 0.004  (25 shared shingles)  SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md. git diff --check passed. Individual gate/push immediately follows this entry; prior HEAD 0fe0d268ad707d48b66a8f72343eff6c0e93323a was verified. No unsupported source/registry/artwork edits.
+
+**Independent counters:** Full229/301=76.08%,72/301remain,70/301eligible; Weapon231/287=80.49%,56/287remain. Full counts complete primary/source reviews including holds; excludes paused025,scope-unconfirmed062 and non-SEBook. Weapon counts unique exact equipment-pair dispositions including holds;14primaries outside287(9noexternal/5exceptions), repeats earn zero. BatchOPEN4/5,Nochange0/4. Fix phase is source-supported consistency repair. A couple is a dossier pair exceeding prose-overlap threshold, not an equipment pair; opening0/301, final recheck at close. No new batch authorized.
+
+[[SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-300_Sorrow_Seed_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%94%A8%EC%95%97.md "SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md")]
+
 ## Batch 142 / unit 3 — Glass Elsewhere `N-IIβ-903`
 
 [Glass_Elsewhere](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-903_Glass_Elsewhere_%ED%99%98%EC%98%81%EC%9D%98_%EA%B1%B0%EC%9A%B8.md "SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md")
