@@ -8,6 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 143 / unit 3 — The Observing Bird `C-IIIγ-031`
+
+[The_Observing_Bird](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-031_The_Observing_Bird_%EC%A7%80%EC%BC%9C%EB%B3%B4%EB%8A%94_%EC%83%88.md "SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md")
+
+**What changed:** Movement now describes its actual flight/perch/sightline behaviour rather than crawls/walks/slithers/prowls. The breach notice directs a fixed-pattern disclosure survey rather than implying a dive attack. Removed the mistaken four-words description while keeping the complete suppression condition verbatim.
+
+**Source evidence:** Whole461-line primary and exact031A–D4/4complete264lines read including eachitemAppearance/trigger/limit/history/footer; these compact records have no standalonecorrosion/shutdownsection, so none invented. Registry58–61; archetype70; personalization183/270; EntityCodex371; disposition123; detailedMasterMAW1003–1035Entries19–21; fullTale7/365–422includingRecordandaddendum. ExactC-IIIγ-031 identity, not randombirdormatchingnumber.
+
+**Source comparison / holds:** Primary/B/MasterγLament7–12continuous,Speed3labelNormal,Room5lineofsight,ChanneledGaze,max3/40 retained. Bstilltargets3linked100/70/50 versus primaryeveryhostileinview; AM.A.WSkewer and BAppearance/narrativeWitnessRequiemblade/RecordedMoment/nightmares versus primaryimplant/AllSeeingDrain/unweptgrief; no documentedblade-to-eyeformchange. ArchetypeMedium/artEstocLong versuscurrentRoom5 held. SuitcurrentFeatheredShroudofScrutiny/primaryheavywatchsilk/minorjoycost versus MasterWitnessShroud/B.Cshortlightshroud/witnessrestprotocol; StigmaThirdSclera/foreheadidentity versus Appearancecord/collartile and MasterWitnessEye retained; .4/1/1.6/.8,max3/35 and HeadEye4%/+2sourceWork/+4Clarity unchanged, genericregistry5%not elected. Aeye-lock4seconds/12secondtriofailure/separationcommander versus primaryneverstrikes/allfollowwithinhour/sharedcontainment and currentharmony notreconciled by inventedphase. Primarynocry/novoice/neverstrikes versus keeningBreach/Combatwinginjury; longstanding61yearaccount versus laterDecodeStudyanddate4232+1778; twoconditions versus75%core/65%ultimate; four-thousand-yearflavor versus2847origin; pressurewhenlooksaway versus gazeDMG retained. Proposedcommissionnot automaticallyadjudication and absentjurisdictionnotfixedbyinventednewcourt.
+
+**Shape and chronology:** Explicitanimal-derived/monsterhybrid: eagle-sizedwarmfeatherbody144distributedeyes, realwings/perching, not person-shaped. Source-backedwitnesssorrow givesbirdwings, not documentedhumanwitnessesphysicallychangingintosameindividualbird. Escapeflight retainsbody/record/disclosurelogic; no unrelatedhumanoidbreachform. R08nottabledmerelyforquietversusflyingbehaviour, no artwork/fourfamilycompletionclaim.
+
+**History and independent credit:** Current/twoarchivedWIP/CHANGELOG exactSE-031-B/MAW-W-031search foundnoearlierindependentpairdisposition. B32u3af3e61fR29prose, B50u13c49884similarityandcc55249conditionrestore, B66u609d3c06Flavor/Suitprose only; archivedcontextread. All-refprimary/sethistory10cd20a. Adds+1Full/+1uniqueWeapon. Atlasunitf4a516d2288878e794c0a93472de4da13108e854verifiedafterlabelgatecorrection, no duplicateAtlasunit.
+
+**R19:** Conditional retained: ownGroupBehaviorallthreeworked together lowerunrelatedsectorholdings forfour–ninehours, neveranypair. Aloneit suppressesnothing. AllthreebreachingrisksConvergence, so benefitcannotbeunqualifiedPositive; disciplinaryevidenceutility not per-seotherentitysuppression.
+
+**Commentary:** An animal covered in eyes is a clear silhouette, but the dissolved court is what makes this Bird distinctive. Accurate evidence used only to discipline staff gives its helpless witnessing a sharper institutional counterpart.
+
+**R18 and validation:** Declared 3batch-short/0careful-detail before edits. Full primary read followed by whole final reread. LC_ALL=C wc -w 8,604→8,629 (+25). All original digit sequences unchanged. The complete actual equipment section is unchanged. Each replacement unique and nonshrinking; no mixed-class multi-file repair. verify RESIDUAL0/seam[]/pipeTrue/dupes[]; tpl RESIDUE0; sectfile zero qualifying sections>.05; wikistd meetsTrue/dirty0; GENERIC 0.004  (23 shared shingles)  SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md. git diff --check passed. Individual gate/push immediately follows this entry; prior HEAD f4a516d2288878e794c0a93472de4da13108e854 was verified. No unsupported source/registry/artwork edits.
+
+**Independent counters:** Full233/301=77.41%,68/301remain,66/301eligible; Weapon234/287=81.53%,53/287remain. Full counts complete primary/source reviews including holds; excludes paused025,scope-unconfirmed062 and non-SEBook. Weapon counts unique exact equipment-pair dispositions including holds;14primaries outside287(9noexternal/5exceptions), repeats earn zero. BatchOPEN3/5,Nochange0/3. Fix phase is source-supported consistency repair. A couple is a dossier pair exceeding prose-overlap threshold, not an equipment pair; opening0/301, final recheck at close. No new batch authorized.
+
+[[SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-031_The_Observing_Bird_%EC%A7%80%EC%BC%9C%EB%B3%B4%EB%8A%94_%EC%83%88.md "SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md")]
+
 ## Batch 143 / unit 2 — Atlas `O-Iα-169`
 
 [Atlas](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-169_Atlas_%EB%85%B9%EC%8A%A8_%EA%B8%B0%EB%91%A5.md "SE-O-Iα-169_Atlas_녹슨_기둥.md")

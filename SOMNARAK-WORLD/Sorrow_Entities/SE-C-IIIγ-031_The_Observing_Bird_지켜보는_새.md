@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A lean bird of true flesh and feather gone wrong — plumage the color of deep water, eyes too bright and unblinking, its body warm and disturbingly alive. It dives from above with wings spread and fixes its gaze on a target, marking them. Its feathers are damp, as though it has been weeping in flight; near it, the cold-rain smell of grief. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Mobile — flies to recover a sightline, then perches high facing the entrance; a dive is a manoeuvre for seeing better, not a recorded strike. |
 | **Location** | SECTOR-B-01, contained with the Three Birds |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -153,7 +153,7 @@ The register carries the Bird as Subject-Body, expressing Lament, held at SECTOR
 **Reading the response:** A decrease means the watch was completed and nothing was concealed during it. A level gauge means the work neither helped nor harmed, which on this holding is the ordinary result. There is no recorded instance of the gauge rising under any Work Type correctly performed, and the file notes that this makes the Observing Bird the least dangerous Major-potency holding in the wing by a wide margin.
 ## Breach Behavior
 
-> *"The Observing Bird has broken free. Dives at personnel."*
+> *"The Observing Bird has left the chamber. It flies the sector in a fixed survey pattern; complete the outstanding disclosure sheets."*
 
 | Field | Detail |
 |---|---|
@@ -306,7 +306,7 @@ The eyes find you before the shape does — one on your face, one on your hands,
 
 **When the entity activates:** no cry comes out of it and no posture changes. The Weighting Bird calls and the Guarding Bird postures; this one changes where it is looking, and because it gives no vocal warning the eye count is the only signal that the margin has moved. Two ignored conditions are the margin here. What activation looks like from the floor is the redistribution — the eyes turning to the entrance together, or to you, and on Pugnahan the count on the worker rising by one and no other change at all.
 
-**After departure:** The door seals and the pressure comes down. Nothing stays in the suit fibres. What stays is the fact of having been looked at in full by something that will never be asked about it; that is the grief the Bird was crystallised out of, and the reason the watch is finished by looking back rather than by looking away. A completed session ends with the eye count holding, and the head of the file names the condition in four words: look at the Bird and accept its gaze.
+**After departure:** The door seals and the pressure comes down. Nothing stays in the suit fibres. What stays is the fact of having been looked at in full by something that will never be asked about it; that is the grief the Bird was crystallised out of, and the reason the watch is finished by looking back rather than by looking away. A completed session ends with the eye count holding, and the head of the file states the condition without abbreviation: look at the Bird and accept its gaze.
 
 ### Interaction Pattern
 
