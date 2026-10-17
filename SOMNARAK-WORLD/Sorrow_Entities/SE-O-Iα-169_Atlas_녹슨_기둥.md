@@ -120,6 +120,16 @@
 | **Distinctive markers** | A column in perfect position to carry a load, carrying none, in a district where everything else is carrying something. |
 | **Identification** | Check the designation, the element and the manifestation against the file, and confirm the column is bearing no load; if any detail contradicts, do not proceed. |
 
+### Appearance States
+
+| Field | Earlier collapse — the Tale | Current Forge holding |
+|---|---|---|
+| **Form** | A worker braced against a failing support, then incorporated into the foundation over the hours of the collapse. | A rusted iron pillar embedded in the floor; the worker and the structure are no longer visually separable. |
+| **Measurement** | He held the structure long enough for the others to escape. | No detectable load at the surveyed column; handovers track flake mass and the relief rota, not a weight the pillar is physically carrying. |
+| **Movement** | The worker held his position while the support and his body fused. | Fixed: no recorded leaning, settling or shifting. Expansion spreads Weight through nearby supports instead. |
+
+**State change:** The Tale supplies the incorporation into the pillar; it does not describe a human body emerging from the present holding. The earlier worker and the surveyed column belong to that origin sequence, not to an alternating combat form. No release or reversal has been established.
+
 **Appearance protocol:** The pillar's dimensions do not change, so the protocol is a corrosion protocol. Record the rust line height, the colour at three marked points, the area of fresh orange against the older brown, and the mass of flake collected in the tray at the base since the last watch — that last figure is the holding's instrument and is read at every change of watch, by both the outgoing and the incoming worker, with both initials against it. Record the warmth, which is real and persistent and has no source the Forge District's heat survey can account for. Note what the pillar is supporting, every cycle, in writing: nothing. The entry is required because personnel stop making it, and the day somebody writes that it appears to be holding a beam is a day the wing needs to know about immediately.
 
 ## Origin

@@ -1,5 +1,31 @@
 # Work In Progress
 
+## Batch 143 / unit 2 — Atlas `O-Iα-169`
+
+[Atlas](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-169_Atlas_%EB%85%B9%EC%8A%A8_%EA%B8%B0%EB%91%A5.md "SE-O-Iα-169_Atlas_녹슨_기둥.md")
+
+**Gate correction:** First gate refused the new table label Load (not in fixed label vocabulary); nothing committed. Changed that row label to allowed Measurement, with the evidence and values unchanged. Revalidated before the successful retry.
+
+**What changed:** Added an Appearance States table separating the earlier worker/incorporation from the current fixed pillar. The source-supported bridge is prolonged support becoming incorporation, not a human body emerging during breach; no release or reversal is established. Final reread refined the load cell to flake mass/relief rota, explicitly not a measurable structural load, preserving the Relief Record's neither measures him distinction.
+
+**Source evidence:** Whole441-line primary, exact169A–D4/4allbinding/extraction/history/form/corrosion/care/shutdown read; truncated combined output recovered CtailandDwhole separately. Registry434–437,archetype125,personalization334/344/348/353,EntityCodex604,R19row269; detailedMasterMAW8591–8623Entries700–702andTale23413095–13149complete. TaleandAexplicitlydescribe workerbecomingpillar. ExactfullSECC O-Iα-169 resolvesTheRustedPillaralias; A[WO] versusprimary[WP] is held metadata, not ignored.
+
+**Source comparison / holds:** Primary/A/B αWeight3–6,Normal2,Short2,Single100%,max5/15;primary/A/C1/1/1.5/.5,max5/10;Head5%/+1sourceWork allretained. Currentprimary/Bheading/Appearance/registry/Mastertable700RustFlakeSeax versus A/BOFFICIAL/resting/activeMaul/detailedMaster700, no documentedMaul-Seax transition. ArchetypeRoom versus actualShortandhistoricalcrosspeen/braceMaulShort; no artworkredraw. CurrentgenericHanstrike versus A/Bbraceloadtransferfunction, primarystruckflake versus A/Bnonremovedrustecho, Suitdarkheavysteelharness versus lightweightblackribs/explicitrelieftimes, Charmendurancebenefit versus sourcearrowreliefreading retained. SourceInner/[WO]/Observed versusprimaryOutside/[WP]/Initial. CurrentTale supportsbuildingforever while loadsurveysalwayszero; stateclarification doesnotinventbuildingremoval or reviseTale. Combatbuckling/collapse/shardinjury versus recordnevershifted/nothingfought/noinjury,45%coreversus65%ultimate,earlyindicatormeasuredflake versus nohandoverno reading; notesnochange to namedfigures. No reclassification or Workpermissionchange.
+
+**Shape and chronology:** Earlierrecognisablyhumanworkerbracedatcollapse becomes currentnonanthropomorphicarchitecturalpillar; sameorigin identity supported by primaryNarratio/OriginandAform. Neither physicalmaterialswap nor newfourformquota. R08threecolumntablebeforeAppearanceprotocol appropriatehistoricalstages, not newbreachstates. No source bridge inventedforWeaponMaul/Seax. Originalprimaryhasanthologyvariantnote; formationvariantskept withoutassertingunwitnessedcurrenthuman. No art/gallerycredit.
+
+**History and independent credit:** ExactSE-169-B/MAW-W-169 searches current/twoarchivedWIP/CHANGELOG found no prior independentpairreview. B34unit2cb88158R29sectioncleanup andB51unit18866071similarityprose only; archivedfullunitcontextread. Allrefprimary/exactsethistory10cd20a. Adds+1Full/+1uniqueWeapon; prior905unit5606596eedfb1c47e3eb8518ca01f793f264154dverified.
+
+**R19:** Neutral retained: fourCrumblingSaintapproaches/threeHollowArchitectcopresences/oneSleepingWeighttest allbothseriesunchanged, nothingpassed. Staffloss/pay/forciblerelief costs and districtsupportsburden real but not shown secondentitybenefit or containmentcascade. OwnR19quotednotclassedfromgradealone.
+
+**Commentary:** The tray is an unusually good instrument because it fails precisely when nobody comes to relieve the worker. The forced removals keep shared responsibility from becoming an easy slogan: colleagues also pay for enforcing it.
+
+**R18 and validation:** Declared 0batch-short/1careful-detail before edits. Full primary read followed by whole final reread. LC_ALL=C wc -w 7,070→7,244 (+174). All original digit sequences unchanged. The complete actual equipment section is unchanged. Each replacement unique and nonshrinking; no mixed-class multi-file repair. verify RESIDUAL0/seam[]/pipeTrue/dupes[]; tpl RESIDUE0; sectfile zero qualifying sections>.05; wikistd meetsTrue/dirty0; GENERIC 0.004  (18 shared shingles)  SE-O-Iα-169_Atlas_녹슨_기둥.md. git diff --check passed. Individual gate/push immediately follows this entry; prior HEAD 5606596eedfb1c47e3eb8518ca01f793f264154d was verified. No unsupported source/registry/artwork edits.
+
+**Independent counters:** Full232/301=77.08%,69/301remain,67/301eligible; Weapon233/287=81.18%,54/287remain. Full counts complete primary/source reviews including holds; excludes paused025,scope-unconfirmed062 and non-SEBook. Weapon counts unique exact equipment-pair dispositions including holds;14primaries outside287(9noexternal/5exceptions), repeats earn zero. BatchOPEN2/5,Nochange0/2. Fix phase is source-supported consistency repair. A couple is a dossier pair exceeding prose-overlap threshold, not an equipment pair; opening0/301, final recheck at close. No new batch authorized.
+
+[[SE-O-Iα-169_Atlas_녹슨_기둥](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-169_Atlas_%EB%85%B9%EC%8A%A8_%EA%B8%B0%EB%91%A5.md "SE-O-Iα-169_Atlas_녹슨_기둥.md")]
+
 ## Batch 143 / unit 1 — Lacrima `N-Iα-905`
 
 [Lacrima](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-905_Lacrima_%EC%98%81%ED%98%BC%EC%9D%98_%EA%B7%B8%EB%A6%87.md "SE-N-Iα-905_Lacrima_영혼의_그릇.md")
