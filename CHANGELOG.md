@@ -8,6 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 144 / unit 1 — Breathing Stone `C-IVδ-907`
+
+[Breathing_Stone](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-907_Breathing_Stone_%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94_%EB%B2%BD.md "SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md")
+
+**What changed:** Replaced physical suppression with no-contact Viderehan/Ferrehan from the marked far-side line. Replaced broken-free notice and indiscriminate corruption movement with its documented extension along the fixed span, never across a doorway or onto the floor. No change to its Place classification.
+
+**Source evidence:** Whole400-lineprimarybefore/after; exact907A–D4/4completeincludingAppearance/binding/history/corrosion/care/shutdown/footers. FullSourceSECCC-IVδ-907 resolvesallfour. Registry987–990,archetype360,personalization543–545,disposition331. ExactidentitysearchMasterMAW/EntityTales/EntityCodexfoundnodedicatedentityentry; no unrelatedMasterborrowed. SourceAFormationNotrecorded preserved.
+
+**Source comparison / holds:** Primary/A/BδWeight11–21,Normal2,Short2,max4/25 retained; A/BspecifySingle100%while primarymissingexplicitpattern, notfilledwithoutresolving artSlabLongversusbladeShort. Suit1/1/1.2/.3,max4/20,Head5%/+1sourceWork agree; registrystigmaAccessorylabelvsHeadheld. Primarybladehum9/min/14breathingstrikes versus Bgenericbodygriefstrike; tokensteelthumbdepression versus Dpebble/collarbone/debtloadcost; suitcoldundulatingveil versus genericCprotectiverole held. Primarypatience/appointmentsmissed versus itemautobiographicalcorrosionandlostbreatherimagery notneworigin. Threeignoredconditions/60core/65ultimate/open40 held. A/primaryTransformheader versus Expansion and testimonydoesnotbreach; no reclassification. 19yearrecordversus40/44/45/57yearstudy contexts held. Slowintervalaftercycle versus invariant9/min; nineheldbreaths versus constant sensors; standing/arm-lengthversuswalkingno-stop; noeffectwalking versus doseperpassage; earlierunresolvedRegister versus laterResolvedstudy preserved as ownsequencedresearch, not erased. 400traffic/611study/600rounding/1100houraggregation scopes held, not guessed. No agency/organicmonsterorigininvented.
+
+**Shape and chronology:** ArchitecturalorganicPlace: fleshwithinbrick/loadbearingcorridor, boundaryunfoundbeyondwarmthfalloff, not a humanoid or personencasedinwall. Shape-relatedmovementfix retainscontinuouswallrun; no Subjectredesign or organismemerging on expansion. Human-like warmth/breathing doesnotrequirehumanbody. Owner'slaterappearancepassmayreviseactualdesigns, thisreviewdoesnotclaimthatpassdoneorfourSubjectfamiliescovered.
+
+**History and independent credit:** ExactSE-907-B/MAW-W-907searchcurrent/twoarchivedWIP/CHANGELOG foundno priorindependentpairreview. B42u1/284ae17 fullarchived2679–2686read: R29interactions/conditiononly, noWeaponpaircredit. Artbatch17notpairreview. Allrefprimary/sethistory10cd20a. Adds+1Full/+1uniqueWeapon. Opening08413c6c25a6b22f08bedfdc4032fb05b0a9ea93verified.
+
+**R19:** Neutral retained: no authorisedco-presence;909/915/918onlypapercomparisons, no secondentitysuppression/release. Harmtopeople/aggregatebudgetcostisnotautomaticentityNegative. Indexsaysnorecordedpairing althoughpaperappendixexists; heldoutdatedrationale wording, no fabricatedtrial.
+
+**Commentary:** A breathing wall is an effective nonhuman body without needing a hidden person inside it. Its strongest horror is the small measurable harm that becomes invisible once management budgets it into normal performance.
+
+**R18 and validation:** 3short/0careful declared beforeediting. Whole primary and whole final reread completed beforegate. LC_ALL=C wc -w 6,456→6,491 (+35). Original digit sequence and entireactualequipmentblock byte-identical, asserted against opening snapshot. Nonshrinking unique replacements; no forced edits or fabricated newforms. verify(residue/seam/pipe/duplicates):RESIDUAL0,seam[],pipeTrue,dupes[]; tpl(templateresidue):RESIDUE0; sectfile(sectionsimilarity):0sectionsover.05; wikistd(wikistandard):meetsTrue/dirty0; GENERIC 0.003  (16 shared shingles)  SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md. git diff --check clean. Individual gate/push follows; prior HEAD08413c6c25a6b22f08bedfdc4032fb05b0a9ea93verified. Source/registry/artfiles unchanged.
+
+**Independent counters:** Full236/301=78.41%,65/301remain,63/301eligible;Weapon237/287=82.58%,50/287remain. Fullcountsuniquecompleteprimary/source reviewincludingholds; excludespaused025,scope062andnonSEBook. Weaponcountsuniqueexactequipmentpairdispositionswithholds; repeatszero,14outside287(9noexternal/5exceptions). BatchOPEN1/5,Nochange0/1;3cumulativeNochange triggers5→7→10,minimum5maximum10. A coupleis twodossiers aboveprose-overlapthreshold, not equipmentpair. Fixphaseissource-supportedconsistencyrepair; laterappearance-revisionpassandall142/143holdsretained. NoBatch145authorization, Batch301separate8bodies/4+4generatevalidatebeforecopy.
+
+[[SE-C-IVδ-907_Breathing_Stone_살아있는_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-907_Breathing_Stone_%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94_%EB%B2%BD.md "SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md")]
+
 ## Batch 144 — OPEN 0/5 (2026-10-18)
 
 Owner authorization: “P + I Mean Later We Fix SE Apperance Too So Shape And Type Will Be Broad I Mean There Should Be A Monster That Is Shape From Human Sorrow But That Doesnt Mean They Need To Be Shape Like Human They Can Be Symbolic Or Contridicting Or Something Else.” One next batch after verified143close90300091e03a270ab0be0d7b0c2758c348c417eb. Five completed reviews minimum; cumulative3Nochange triggers5→7→10, ten maximum, no second batch authorized.
