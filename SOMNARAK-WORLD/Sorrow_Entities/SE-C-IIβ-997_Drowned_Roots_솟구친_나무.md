@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · β (Moderate) |
+| **Tool / M.A.W. grade** | — · γ — Drowned Roots Requiem, Drowned Roots Shroud, Drowned Roots Lantern |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
 | **Recommended response** | Flerehan or Ferrehan with the face uncovered. Pugnahan burns and is prohibited; Viderehan is run for record. |
@@ -70,7 +70,7 @@
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan and Ferrehan with the face uncovered; Viderehan is run for record; Pugnahan burns and is prohibited. |
 | **Battlefield** | Zone C, Mask Market |
 | **Resolution Condition** | Speak the soldier's duty without forcing a false name |
 
@@ -292,7 +292,7 @@ A tree-shaped shadow rises behind the masks. Its branches burn without heat, and
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Lament pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. its registered form.
+**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Lament pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A ghostly tree-beast, trunk split into a body and four root-limbs, a howling face in its bark, branches thrashing like arms.
 
 **With continued exposure:** The hall stops being a market and becomes a post: the two fixed positions, the clearance measured to the ceiling, the shadow check run again because it is cheap, and every face in the section uncovered and staying that way. Nothing in it frightens anybody on the second hour. What stays is the weeping running under the burning, steady, without rise or fall, the way a thing sounds that has been going on since before the stalls were built.
 
