@@ -8,6 +8,78 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 142 — CLOSED 5/5 (2026-10-17)
+
+All five individual unit commits PUSH VERIFIED. Last unit1f0976529c9913099d1d4f8c43d90bb9dc1a4c3d; closeout gate follows this administrative record. Owner p authorized this one batch after closed141; no next batch is authorized.
+
+**Cumulative progress:** Full-SE230/301=76.41%,71/301remain,69/301eligible. Weapon-only231/287=80.49%,56/287remain. This batch adds+5Full/+4uniqueWeapon. BorderTree's exact Weapon pair already had B91unit3 e04ec9cb; it adds zero Weapon credit here.
+
+**Selection:** Fresh pending-only worst-prose-first ranking selected Relic792(.004021879), DeadAir929(.004014721), Glass903(.003917051), Seed300(.003844225), BorderTree151(.003749250). Corrected BrokenPromise160 to its completedB112unit3 before selecting; no substitutions. Opening225countedFull from227markers/301, after two exclusions, yielded74eligible pending. Final rerank232markers minus2exclusions=230countedFull,69eligible pending. Nextpending: Lacrima905(.003708551),Atlas169(.003703704),ObservingBird031(.003680589). Ranking is prose screening, not a defect finding or a completed review.
+
+**Rung:** Five completed dossiers, No change0/5. Three are required to trigger5→7, so close atfive. This is not an assertion that five is the ceiling. Minimumfive honored; no second batch started.
+
+### Relic of a Thousand Owners
+
+**What changed:** Equipment overview δ→γ matches all three item grades; two indiscriminate-hunting claims now describe the already-recorded fixed-point Corrupt event and radial withdrawal. Flavor Text calls the carried object a relic, not an extracted weapon.
+
+**Commentary:** The strongest idea is that care itself becomes a claim of ownership. The one-cycle-per-career rule gives that danger an institutional cost without turning the relic into a chasing monster.
+
+### Dead Air
+
+**What changed:** The isolated Physical suppression required instruction now uses the primary's explicit completed-watch, filed-form, handover-barometer and mapped-boundary procedure. Corrected the duplicated weight weight combat phrase without changing its damage or trigger.
+
+**Commentary:** The empty room works because a familiar weight is recognised but never independently measured. Keeping the blank forms beside the contacts gives the uncertainty teeth; a visible ghost would weaken it.
+
+### Glass Elsewhere
+
+**What changed:** Removed the unsafe inference that one long viewing assignment outperforms short ones. The existing ninety-second closure, category-only log and beforehand counselling booking govern instead. Replaced isolated physical suppression with the existing clock-holder/date/recognition response; no body emerges to subdue. Draft reread kept the clock-holder's sole clock duty intact instead of assigning them extra clerking.
+
+**Commentary:** The mirror is most disturbing when the evidence improves but the families still cannot receive an answer. The clock-holder's refusal gives the viewing limit a human cost, while the staffing projection shows who actually benefits.
+
+### Sorrow Seed
+
+**What changed:** Completed the classification cell clipped at what the file calls a from its own Activation Trigger's overnight-crawl explanation. Resolution now uses the actual crawl/bearing/roster/unrounded-leave reporting procedure and explicitly disclaims the inherited below25% watch target. First-contact description keeps the existing travelling root distinct from the absent shoot.
+
+**Commentary:** A root moving toward untaken bereavement leave is a much sharper design than a generic seed of future disaster. The compulsory-leave dispute works because both the protective rule and the workers' objection have a real cost.
+
+### Border Tree
+
+**What changed:** Core Speed no longer calls the explicitly creeping trunk a fixed object; it uses repeated fixed-marker surveys. The Weapon Ability now requires a negotiated non-hostile passage, bearer/counterpart/oversight agreement and reciprocal restriction, rather than implying the bearer can choose a unilateral barrier.
+
+**Commentary:** A tree walking a lawful boundary is a concrete monster shape with a specific political wound. The visit permits and walked crossing keep it from becoming a generic evil forest: the people can see their homes, and the rule is still against them.
+
+**Individual shipment and word counts.** All counts use LC_ALL=C wc -w.
+
+| Dossier | Words | Repairs | Commit | Push |
+|---|---|---|---|---|
+| [Relic_of_a_Thousand_Owners](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-792_Relic_of_a_Thousand_Owners_%ED%9D%90%EB%A5%B4%EB%8A%94_%EC%9C%A0%EB%AC%BC.md "SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물.md") `O-IVδ-792` | 8,521→8,536 | 4 short / 0 careful | `9490830e` | PUSH VERIFIED |
+| [Dead_Air](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md "SE-N-IIIγ-929_Dead_Air_유령의_압력.md") `N-IIIγ-929` | 4,721→4,749 | 2 short / 0 careful | `a86e9ec1` | PUSH VERIFIED |
+| [Glass_Elsewhere](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-903_Glass_Elsewhere_%ED%99%98%EC%98%81%EC%9D%98_%EA%B1%B0%EC%9A%B8.md "SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md") `N-IIβ-903` | 6,513→6,557 | 2 short / 0 careful | `0fe0d268` | PUSH VERIFIED |
+| [Sorrow_Seed](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-300_Sorrow_Seed_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%94%A8%EC%95%97.md "SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md") `C-Iα-300` | 8,470→8,500 | 3 short / 0 careful | `83ee5952` | PUSH VERIFIED |
+| [Border_Tree](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-151_Border_Tree_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%82%98%EB%AC%B4.md "SE-O-IVδ-151_Border_Tree_스며든_나무.md") `O-IVδ-151` | 9,067→9,124 | 1 short / 1 careful | `1f097652` | PUSH VERIFIED |
+
+[[SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-792_Relic_of_a_Thousand_Owners_%ED%9D%90%EB%A5%B4%EB%8A%94_%EC%9C%A0%EB%AC%BC.md "SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물.md")]
+
+[[SE-N-IIIγ-929_Dead_Air_유령의_압력](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md "SE-N-IIIγ-929_Dead_Air_유령의_압력.md")]
+
+[[SE-N-IIβ-903_Glass_Elsewhere_환영의_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-903_Glass_Elsewhere_%ED%99%98%EC%98%81%EC%9D%98_%EA%B1%B0%EC%9A%B8.md "SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md")]
+
+[[SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-300_Sorrow_Seed_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%94%A8%EC%95%97.md "SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md")]
+
+[[SE-O-IVδ-151_Border_Tree_스며든_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-151_Border_Tree_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%82%98%EB%AC%B4.md "SE-O-IVδ-151_Border_Tree_스며든_나무.md")]
+
+**Sources and holds:** Every complete primary and exact four-file set read, including all linked-item binding, history, Appearance if present, corrosion and shutdown material. Relevant detailed MasterMAW/Tale entries read where present; missing dedicated903/929 entries not invented. Seed uses1031A–D explicitly joined by SourceSECC C-Iα-300, not number300MemoryLock. Glassβmirror is not same-numberγMusicBox. Prior exact Weapon history checked separately from prose and art work. BorderTree's supplementary registry/archetype/personalization/disposition/Mastertable index context was rechecked after its unitgate and before thisclose.
+
+Per-unit evidence entries above preserve full numeric/material/form/chronology/cost/origin disagreements. Major holds: Relicfalchion versusHammer/mallet; DeadAirblade versusmaul/Room; Glassblade versusshard/range and ninety-second/two-minute source scopes; SeedMaul versusCannon/Room, dormantTale versus earliestmobileinventory, SubjectversusObjectPlaceworkdoctrine; BorderTreeTanto versusRootclub without transition, Subject/Placeclassification, rootcut versusuncutecho extraction, negotiatedcondition versus datedWalkedCrossing substitution. These are not automatic extraforms. R19retainedNeutral forfirstfour andNegative forBorderTree with ownobserved permanentterrain/neighborredirect evidence. No owner source/registry/itemfiles rewritten and no artwork or fourfamily gallery credit claimed.
+
+**Checks:** Eachunit independently passed verify.py(residue/seam/pipe/duplicate checks), tpl.py(template-residue check), sectfile.py(section similarity threshold check), wikistd.py(wiki-standard check), sect.py(generic-prose screen), whole-final-primary reread and git diff --check. EveryverifyRESIDUAL0,seam[],pipeTrue,dupes[]; everytplRESIDUE0; everysectfile0sectionsover.05; everywikistdmeetsTrue/dirty0. Generic.004 forfive. Every originaldigitsequence preserved. Actualequipmentblocks unchanged infirstfour; BorderTreechangesonly declaredWeaponAbilityparagraph, all equipmentnames/stats/Appearance intact. Nonshrinking replacements, no bulkforcedrewrite.
+
+Total 37,292→37,466words (+174);12batch-short/1careful-detail, declared beforeediting. Closeout compare is byte-identical to opening:557candidates/861itempairs/287complete sets. These are candidate source disagreements, not557confirmed defects. Couplesbyte-identical0/301files,0sectionpairs. A couple is two dossiers exceeding the prose-overlap threshold, not a Weapon equipment pair. Fix phase means evidence-supported consistency repairs, not a collection redesign.
+
+**Live counter definitions:** Full-SE counts unique complete-primary/source reviews including explicit holds. It excludes pausedN-Iα-025,scope-unconfirmedC-IIIγ-062 and non-SEBook;71remainingincludes2paused/unconfirmed,69eligiblepending. Weapon-only counts unique exact equipment-pair source dispositions including holds; repeats addzero. Fourteenprimaries outside287:9noexternalsets,5exceptions. Full230/301=76.41%;Weapon231/287=80.49%; independentnotinterchangeable. Batchcompleted5/5,Nochange0/5.
+
+**Branch and next:** All work stays on arena/954853ad-project-somnarak-wiki. PR14 refreshed OPEN,draft,baseNON-WIKI,headassignedbranch. No merge/close requested or performed; ownercontrolsmerge. Await nextp for a freshpendingranked batch. Batch301 remains separatelyblockedon eightownerbodies and owner-selected4+4operation; generate/validatebeforewikicopy. Inherited.patch preservedoutsideGit. No ownerfiles/history deleted and no otherbranch pushed.
+
 ## Batch 142 / unit 5 — Border Tree `O-IVδ-151`
 
 [Border_Tree](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-151_Border_Tree_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%82%98%EB%AC%B4.md "SE-O-IVδ-151_Border_Tree_스며든_나무.md")
