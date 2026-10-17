@@ -1,5 +1,17 @@
 # Work In Progress
 
+## Batch 143 — OPEN 0/5 (2026-10-17)
+
+Owner authorization: “p + Later We Fixed Everything That We Just Talk About.” Continue with one next batch after verified Batch142close851bad3354c696d94d45c7ee76f9596842f86d06. Start atfive; three cumulative completed No change dossiers trigger5→7→10 under R26. No second batch authorized and no unread file counts as No change.
+
+**Later-fix direction:** Carry forward every unresolved issue from the Batch142close and five detailed unit evidence entries. They remain open for a later source-supported repair pass, not erased, declared solved, or forcibly normalized now. In particular: Relicfalchion/Hammer/mallet and source scopes; DeadAirblade/maul/Room/origin/cost scopes; Glassblade/shard/range/viewing/counselling scopes; SeedMaul/CannonRoom/dormancy/classification/bearing/Stigma scopes; BorderTreeTanto/Rootclub/classification/extraction/suit/charm/datedmanagement scopes. EarlierTale/laterAppearance may legitimately be distinct states, but no unsupported transition is invented. All detailed holds remain in the shipped Batch142 records, not reduced to this short checklist. This owner instruction is a deferred repair intention, not permission to claim all source contradictions have one answer.
+
+**Fresh pending-only ranking:**232unique Full review markers minuspausedN-Iα-025 andscope-unconfirmedC-IIIγ-062=230countedFull/301;69eligiblepending,71remainingincludingtwo exclusions. BrokenPromise160 remains included from completedB112unit3. OpeningWeapon231/287,56remain;14outsideWeapon scope(9noexternal/5exceptions). Non-SEBook excluded. Counts independent; repeat exactWeaponreviews earnzero.
+
+Selected order: Lacrima N-Iα-905 .003708551; Atlas O-Iα-169 .003703704; ObservingBird C-IIIγ-031 .003680589; SkyofBorrowedFaces O-IIIγ-926 .003654549; WalkingCalendar C-IVδ-220 .003519356. NextreserveBreathingStone C-IVδ-907 .003460956. Ranking is prose screening, not five known defects. Recompute if ladderextensionearned; no substitutions or credits merely fromselection.
+
+Baseline compare557candidates/861itempairs/287complete sets; couples0/301files,0sectionpairs. Couplemeans cross-dossier prose overlap,not an equipmentpair. Fixphase is source-supported consistency repair,not massredesign. Perunit: wholeprimary/exactA–D/identityhistory/source reads, actualshapes/time assessment, R18predeclaration, R19evidence/hold, wholefinalreread,fivechecks,individualgate/push. No forced edits or artwork/censusclaims. Batch301 separatelyblockedoneightownerbodies for4+4generate/validatebeforewikicopy. PR14 remains ownercontrolled; assignedbranch unchanged.
+
 ## Batch 142 — CLOSED 5/5 (2026-10-17)
 
 All five individual unit commits PUSH VERIFIED. Last unit1f0976529c9913099d1d4f8c43d90bb9dc1a4c3d; closeout gate follows this administrative record. Owner p authorized this one batch after closed141; no next batch is authorized.
