@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 10–14 per cycle, drawn from the memory the figure is still carrying rather than from the body; a cycle worked after heavy wind returns measurably less, because the wind has already carried some of it away. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Work the figure only while it is holding shape: map and name what remains, keep the survey upwind, and never chase what is already gone. Both valid approaches are things done to the dust and not to the figure, which disperses if handled and reforms on the same site regardless. |
+| **Recommended response** | Work the figure only while it is holding shape: map and name what remains, keep the survey upwind, and never chase what is already gone. Observation records which details of the ruined settlement are currently legible in the dust. Endurance requires remaining while the figure sheds and reassembles around the worker. |
 
 ### Operational Notes
 
@@ -142,7 +142,7 @@
 
 ### Operational Work Notes
 
-The four Work Types divide into two pairs and the file is unusually explicit about it. Weeping reaches the figure, and confrontation disperses it — the second registers on the table as an increase because scattering it counts as a loss of the thing being worked, and the figure reforms on the same site anyway, so the cycle has done nothing but move it. Observation reads the settlement; endurance is standing in the shed dust without leaving, which is the only approach that lowers the gauge. The two that work are the two that ask the worker to stay and record.
+The four Work Types divide into two pairs and the file is unusually explicit about it. Weeping reaches the figure, and confrontation disperses it — the second registers on the table as an increase because scattering it counts as a loss of the thing being worked, and the figure reforms on the same site anyway, so the cycle has done nothing but move it. Observation reads the settlement; endurance is standing in the shed dust without leaving, which lowers the gauge along with Flerehan, as the response table records. The two that work are the two that ask the worker to stay and record.
 
 **Reading the response:** Success is read from the stability of the outline rather than from any change in the material, which is replaced continuously throughout every cycle on record. A worker who expects the figure to become solid will report failure on a successful cycle. The reliable indicators are the rate of shedding, which slows before it stops, and the legibility of the settlement in the dust, which sharpens as the figure settles — both lagging the actual response by several minutes, which is why a cycle closes on the second consecutive steady reading and not the first. Where the two disagree the shedding rate is authoritative, because legibility varies with available light as much as with the entity. A definition rate that turns from steady to falling is a breach warning and not a reading.
 ## Breach Behavior
