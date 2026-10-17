@@ -1,5 +1,29 @@
 # Work In Progress
 
+## Batch 142 / unit 3 — Glass Elsewhere `N-IIβ-903`
+
+[Glass_Elsewhere](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-903_Glass_Elsewhere_%ED%99%98%EC%98%81%EC%9D%98_%EA%B1%B0%EC%9A%B8.md "SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md")
+
+**What changed:** Removed the unsafe inference that one long viewing assignment outperforms short ones. The existing ninety-second closure, category-only log and beforehand counselling booking govern instead. Replaced isolated physical suppression with the existing clock-holder/date/recognition response; no body emerges to subdue. Draft reread kept the clock-holder's sole clock duty intact instead of assigning them extra clerking.
+
+**Source evidence:** Whole440-line primary and full exact SE-903-A/B/C/D4/4, including each item's complete Appearance/history/binding/failure/care/footer. Registry971–974; archetype356; personalization543–545; R19row335; EntityCodex359 lists903 awaiting a row. Same-number EntityCodex644 is N-IIγ-903 MusicBox, not this βmirror; no dedicated exact MasterMAW/Tale entry found.
+
+**Source comparison / holds:** Primary/A/B βVoid11–19,Normal2,Short2,max4/25 retained; Single100% in source not localbackfill. Primary/A/C1/1/.3/.8,max4/20; A/DHead5%/+1sourceWork retained. Archetypeangularshard/Long versus primaryblade/Short and historicalpersonalizationshard retained; no invented secondform. B/C/D Appearance is doctrine not independentphysicalrecord: primaryroomimages/glassblade/veil/door-numbertoken remain primarydescriptions. BgenericMindstrike versus primarydemolishedroomvisions; Cblurredrecognition agrees but setpreferring/reflectedroomlayers versus perpieceheadache/erasure keptseparate; Dword/faceloss not localcost backfill. BindingNotrecorded not proof of missing deadpersonorigin. Primarytwo-minuteYield/LogMethod row versus consistentninety-secondtermination, counsellingwithin-hour versus >fourdaywait/fundingminute, nineteenyears versus thirtyoneyears/reviews, noinjury versus combatpressure, Transformlabel versus noemergentbody, forbiddenfacedescription versus separatelyapprovedblindstudy remain explicit holds. Different historicalstudy/protocol/funding stages may be real; dates alone do not establish every crosswalk. No number or equipment field changed.
+
+**Shape and chronology:** Standingmirror tallerthanperson inplainframe, constantwaterripple, neverpresentroom. DuringExpansion affectedvolume grows butmirrorstaysfixed andnothingcomesout. Reflectedpastrooms and Fracturedfaces are images not established forms of the Object; no humanoidprecursor orbreachmonster invented. Writtenaudit not art/galleryclaim.
+
+**History and independent credit:** Current/twoarchivedWIP/CHANGELOG exact SE-903-B/MAW-W-903 search found no earlier equipment-pair disposition. Archived731d21a added LearnedYourFace control and SkyofBorrowedFaces protocolcontrast for R29, not a fullsourceaudit. All-ref primaryhistoryonly10cd20a. Adds+1Full/+1uniqueWeapon. DeadAir push verified a86e9ec150c94dde680887dbae4134e9119a3f16.
+
+**R19:** Neutral retained with a rationale hold: index's no-cross-entity-pairing shorthand must not erase the nine-session separateholding studycontrol or paperprotocolcomparison. Facekeepers measurednochange, bayGaugeflat; Skyco-presenceexpresslyrefused. UsefulaggregateFractureplanning and staffingreduction are not demonstrated other-entitysuppression or release. No indexclass election.
+
+**Commentary:** The mirror is most disturbing when the evidence improves but the families still cannot receive an answer. The clock-holder's refusal gives the viewing limit a human cost, while the staffing projection shows who actually benefits.
+
+**R18 and validation:** Declared 2batch-short/0careful-detail before edits. Full primary read followed by whole final reread. LC_ALL=C wc -w 6,513→6,557 (+44). All original digit sequences and the complete actual equipment section unchanged. Each replacement unique and nonshrinking; no mixed-class multi-file repair. verify RESIDUAL0/seam[]/pipeTrue/dupes[]; tpl RESIDUE0; sectfile zero qualifying sections>.05; wikistd meetsTrue/dirty0; GENERIC 0.004  (17 shared shingles)  SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md. git diff --check passed. Individual gate/push immediately follows this entry; prior HEAD a86e9ec150c94dde680887dbae4134e9119a3f16 was verified. No unsupported source/registry/artwork edits.
+
+**Independent counters:** Full228/301=75.75%,73/301remain,71/301eligible; Weapon230/287=80.14%,57/287remain. Full counts complete primary/source reviews including holds; excludes paused025,scope-unconfirmed062 and non-SEBook. Weapon counts unique exact equipment-pair dispositions including holds;14primaries outside287(9noexternal/5exceptions), repeats earn zero. BatchOPEN3/5,Nochange0/3. Fix phase is source-supported consistency repair. A couple is a dossier pair exceeding prose-overlap threshold, not an equipment pair; opening0/301, final recheck at close. No new batch authorized.
+
+[[SE-N-IIβ-903_Glass_Elsewhere_환영의_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-903_Glass_Elsewhere_%ED%99%98%EC%98%81%EC%9D%98_%EA%B1%B0%EC%9A%B8.md "SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md")]
+
 ## Batch 142 / unit 2 — Dead Air `N-IIIγ-929`
 
 [Dead_Air](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md "SE-N-IIIγ-929_Dead_Air_유령의_압력.md")
