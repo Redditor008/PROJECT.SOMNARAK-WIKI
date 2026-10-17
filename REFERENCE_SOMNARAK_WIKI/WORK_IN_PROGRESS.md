@@ -1,5 +1,19 @@
 # Work In Progress
 
+## Batch 142 — OPEN 0/5 (2026-10-17)
+
+Owner p after Batch141close19b7544899abe9cfdcbd2f45962bc5d068f4ca6c authorizes one next batch. Start at five under R26, three completed No change dossiers trigger5→7→10 in this same batch. No other batch authorized. No unread dossier counts as No change.
+
+Recovery: restored HEAD10cd20a plus dirty bodies matched fetched19b75448 exactly, including the untracked R32body. Saved inherited.patch outside repo; proved every remote-tracked file has identical bytes before metadata-only mixed reset. No owner body overwritten or discarded. Assigned branch unchanged.
+
+Fresh pending-only rank rebuilt from301designation-mapped primaries:80in-file Full-set source review markers plus strict completed WIP unit headers and B111–114 tables reconcile227unique markers,225counted Full after excluding paused N-Iα-025 and scope-unconfirmed C-IIIγ-062. BrokenPromise N-IIIγ-160 is included from its explicit completed B112unit3 entry, not accidentally returned to pending by a table-token filter. Non-SEBook excluded.74eligible pending.
+
+Selected worst-first order (prose screen, not defect findings): RelicofaThousandOwners O-IVδ-792 .004021879; DeadAir N-IIIγ-929 .004014721; GlassElsewhere N-IIβ-903 .003917051; SorrowSeed C-Iα-300 .003844225; BorderTree O-IVδ-151 .003749250. Reserves: Lacrima N-Iα-905 .003708551; Atlas O-Iα-169 .003703704; ObservingBird C-IIIγ-031 .003680589. Recompute the pending ranking for any earned expansion. No substitution or review credit from selection.
+
+Opening independent coverage Full225/301=74.75%,76/301remain,74/301eligible; Weapon227/287=79.09%,60/287remain. Full counts whole-primary/source reviews including stated holds. Weapon counts unique source-led exact equipment-pair dispositions including holds; repeat pair adds zero. Fourteen primaries lie outside Weapon scope (nine no external set/five exceptions). Comparator baseline captured before edits:557candidates across861pairs/287sets; couples0/301. A couple is a pair of dossiers over the prose similarity threshold, not an equipment pair. Fix phase means evidence-supported consistency repair, not mass redesign.
+
+Each unit requires full primary/exactA–D/relevant Master/history reads, R18split before editing, actual shape/timing assessment under R08/R32, R19evidence or hold, full final reread, five checks and its own validated gate/push. No forced edits or invented transformation to satisfy shape families. No art credit. PR14 remains owner-controlled; Batch301 remains blocked on eight supplied bodies for its separate4+4operation.
+
 
 ## Batch 141 — CLOSED 5/5 (2026-10-17)
 
