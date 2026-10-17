@@ -1,5 +1,29 @@
 # Work In Progress
 
+## Batch 143 / unit 1 — Lacrima `N-Iα-905`
+
+[Lacrima](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-905_Lacrima_%EC%98%81%ED%98%BC%EC%9D%98_%EA%B7%B8%EB%A6%87.md "SE-N-Iα-905_Lacrima_영혼의_그릇.md")
+
+**What changed:** The Clash maximum now matches the recorded three-point-one-millimetre gap rather than three. The one-minute Method acknowledges the four independently agreed words instead of claiming none ever existed. The Tool Return field now uses its own documented lid-reseating, removal, pre-use-statement readback and unreconciled-transcript procedure instead of an unspecified premature-return trauma rule.
+
+**Source evidence:** Complete431-line primary and exact905A–D4/4 including every binding/history/Appearance/corrosion/shutdown/footer read. Registry979–982; archetype358; personalization543–545; disposition164; EntityCodex359 explicitly lists905 awaiting row. Exact905/Lacrima search has no dedicated MasterMAW or MasterTale entry; no replacement invented. Full SourceSECC N-Iα-905 in allfour resolves identity.
+
+**Source comparison / holds:** Primary/A/B αVoid8–16,Normal2,Short2,Single100%,max4/25; Primary/A/C1/1/.3/.8,max4/20; primary/A/DHead5%/+1sourcework all retained. Primarysingleblade versus TearWrappedDroplet archetype/art is unresolved, not a newform. B/C/D Appearance mostlydoctrine not independentshape evidence. B spiritstrike versus primarysingleclearword; primarydayheadache/namewrong versus sourcepersistentlowgrade; Suitforgettability and Stigmawordfaceloss agreebroadly but localcoldtoken/secondlistenercheck is more specific. No recordedsourceevent versus itemtear/mournerimagery not originproof. Transformheader versus documentedExpansion, fixedunmoved61years versus carriednotificationduty, noinjury versus combat/useDMG and drain, threeignoredreadings versus60/65thresholds,61years versus40yearsusehistory, dualtranscription versus Stigmacorroboratornottranscribing remain held. Primary finalTrivia fiftyfourfamiliesyes versus Entry2fiftyfourreleases remains explicit later-source issue; no changedcount, inventeddeathperson or jurisdictionalproxy.
+
+**Shape and chronology:** Ordinaryunglazedclayjar with lidgap/light andbarelyaudiblepleading; no emittedperson or breachbody. Expansion changesgap/light/audibleradius withoutmovingjar. Earlierordinaryswabjar becomes anomaloussamevessel inprimaryTale, no person-to-jar transformation inferred. Writtenappearance only, no artwork/gallerycredit.
+
+**History and independent credit:** Exact SE-905-B/MAW-W-905 and full designation searched current/twoarchivedWIP/CHANGELOG; no prior individualpairreview. B46u10quote/R29interaction24efe25 and B59u1cfcc827OP/combatprose only; fullcontextread. All-refhistoryprimary/exactset stops10cd20a. Adds+1Full/+1uniqueWeapon. Opening19dc5dbe5394ddb9bf0c338f200f136e0a9a249b verified.
+
+**R19:** Neutral retained: no entityselected/approached/harmed inownBreachFirstTarget; expansions stayedcorridorandendedhandreseating. No co-presence authorized. Threeappendixpapercomparisons, no measured other-holding suppression or containmentfailure. Retentionlaw/researchcost is institutionalethics notautomaticNegative.
+
+**Commentary:** The ordinary swab jar is more effective than an ornate soul vessel would be. The unresolved seventeen make the consent rule genuinely difficult instead of allowing the institution an easy moral victory.
+
+**R18 and validation:** Declared 3batch-short/0careful-detail before edits. Full primary read followed by whole final reread. LC_ALL=C wc -w 6,764→6,774 (+10). All original digit sequences unchanged. The complete actual equipment section is unchanged. Each replacement unique and nonshrinking; no mixed-class multi-file repair. verify RESIDUAL0/seam[]/pipeTrue/dupes[]; tpl RESIDUE0; sectfile zero qualifying sections>.05; wikistd meetsTrue/dirty0; GENERIC 0.004  (19 shared shingles)  SE-N-Iα-905_Lacrima_영혼의_그릇.md. git diff --check passed. Individual gate/push immediately follows this entry; prior HEAD 19dc5dbe5394ddb9bf0c338f200f136e0a9a249b was verified. No unsupported source/registry/artwork edits.
+
+**Independent counters:** Full231/301=76.74%,70/301remain,68/301eligible; Weapon232/287=80.84%,55/287remain. Full counts complete primary/source reviews including holds; excludes paused025,scope-unconfirmed062 and non-SEBook. Weapon counts unique exact equipment-pair dispositions including holds;14primaries outside287(9noexternal/5exceptions), repeats earn zero. BatchOPEN1/5,Nochange0/1. Fix phase is source-supported consistency repair. A couple is a dossier pair exceeding prose-overlap threshold, not an equipment pair; opening0/301, final recheck at close. No new batch authorized.
+
+[[SE-N-Iα-905_Lacrima_영혼의_그릇](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-905_Lacrima_%EC%98%81%ED%98%BC%EC%9D%98_%EA%B7%B8%EB%A6%87.md "SE-N-Iα-905_Lacrima_영혼의_그릇.md")]
+
 ## Batch 143 — OPEN 0/5 (2026-10-17)
 
 Owner authorization: “p + Later We Fixed Everything That We Just Talk About.” Continue with one next batch after verified Batch142close851bad3354c696d94d45c7ee76f9596842f86d06. Start atfive; three cumulative completed No change dossiers trigger5→7→10 under R26. No second batch authorized and no unread file counts as No change.
