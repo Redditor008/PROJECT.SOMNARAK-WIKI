@@ -40,6 +40,12 @@ The minimum four families are a **floor for the collection**, not a demand that 
 5. Invisible and bodiless entities may remain invisible. Their illustrations may show witnessed spatial effects, environment or measurement, clearly distinguished from an invented visible body.
 6. Broader new designs must remain story-led. Four family labels are not permission to attach arbitrary limbs, machinery or animal heads to unrelated sorrows.
 
+## Chronological forms are not duplicate-design errors
+
+Owner clarification (2026-10-17): **the Tale may be before, while Appearance is after**. Preserve supported early, later, transformed and event forms of one entity instead of making their bodies identical. A shape difference alone is not a contradiction. Beauty and the Beast is the owner's analogy; the Maw is a local district / Walking District example, not a silhouette to copy onto other entities.
+
+Use [R-08](R-08_DUAL_STATE_APPEARANCE.md) to show the supported forms, their time or trigger, the transition and retained identity. Distinguish established continuity from an unresolved relationship: do not invent a transformation to excuse incompatible descriptions. Not every transformation is a breach, and no reversible cycle is implied without evidence. Assess collection-level diversity from actual bodies, not by counting every stage as another entity or relabeling a material swap.
+
 ## Review and reporting
 
 Separate **written design diversity** from **rendered artwork diversity**. A scan of Physical Form fields is not a full appearance/source audit, and neither is a gallery comparison. State which one was examined.

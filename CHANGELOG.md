@@ -8,6 +8,26 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### Owner shape correction — The Maw's two forms (2026-10-17; focused repair, no review credit)
+
+Owner p remains active. The Tale may describe an earlier form while Appearance describes a later one; supported transformations are not restricted to breaches. Updated R-08 and R-32 to preserve supported chronological stages, transition and identity without inventing a change to explain genuinely unresolved fields. Beauty and the Beast remains the owner's analogy, not imported Somnarak anatomy.
+
+**Scope / queue:** This owner-priority shape repair interrupts, but does not replace or close, Batch141's recorded review queue. Batch141 remains OPEN 0/5. Its five-completed-review minimum and cumulative No-change ladder to seven/ten remain in force. No full-dossier or Weapon-pair review credit is claimed for this focused repair. The pending queue is unchanged: Grimoire906 → Ephemera189 → ThinkingEngine904 → UnwakingBlock908 → Rem135. No pending file is declared No change.
+
+**R18 split before edits:** zero short fixes; three careful-detail fixes: Appearance States, concrete Appearance protocol, and the paired transition/retained-mechanic note in Expansion Behavior. Final scope matches the split. No artwork generated and no unrelated anatomy redesigned.
+
+**What changed — The Maw:** Appearance previously showed only the stationary district, although Expansion Behavior already described a mobile Walking District. Appearance now distinguishes the place from the moving architecture, including detached walls, lifted ground and gathered voices. Its continuity is the same consumed citizens and demand for acknowledgment. The event remains registered in reserve, not asserted to be a witnessed current walking state. The rewritten observation protocol distinguishes architectural motion from ordinary boundary growth. The state-change note makes the transition and retained identity explicit without changing the Tale.
+
+**Commentary:** This repairs an omitted supported silhouette, not a demand that every historical and later form look alike. It adds no limbs, face, reversible cycle, numerical trigger or Work permission. Historical whispers versus current-cycle silence remain a separate time distinction; silence does not prove a body change.
+
+**Evidence:** Read the complete primary, the complete identity-resolved SE-1003 A–D set, Master Entity's Maw metamorphosis passage, Master Tales' complete Tale104/Record, and the Maw's Master M.A.W. entries310–312. Identity is resolved by SE-1003-A's explicit source designation C-IVω-001 [GP], Cheongula origin and ZoneB district, not the folder number alone. SE-001 A–D are the Orphaned Bell and are not substituted. Local primary history was inspected. Final primary reread and the five individual checks accompany the repair.
+
+**Holds preserved:** A forbids equipment while its B–D contain Grip/Shroud/Relic; Master M.A.W. has Devouring Jaw/Forbidden Plate/Forbidden Extraction, and the primary names First Dawn Stiletto, which the equipment registry associates with the Orphaned Bell. No equipment source is silently elected. Master Entity permits all four event Work vectors while the primary orders withdrawal and no routine event Work; the new panel explicitly reports the primary's standing response. Expansion rate per cycle versus per year, refusal versus perimeter trigger accounts, deliberate-sacrifice versus Tale-neglect framing, and three pieces versus four Stigmas remain unreconciled. The state panel labels its trigger accounts instead of inventing a resolution.
+
+**Validation:** primary 7,066 → 7,570 words (`wc -w`), +504; complete original numeric-token sequence unchanged; entire M.A.W. section and Tale unchanged. verify RESIDUAL0; tpl RESIDUE0; wikistd meetsTrue with zero dirty sections; sect GENERIC0.000; sectfile zero sections above0.05. `git diff --check` clean. Shared gate and individually verified push are required before reporting this repair shipped.
+
+**Counters unchanged:** Full-SE 220/301 (73.09%), 81 remaining / 301, 79 eligible. Weapon-only 223/287 (77.70%), 64 remaining / 287. Full-SE counts unique completed full reviews; Weapon-only counts completed equipment-pair reviews. A couple is a similarity-flagged pair of equipment entries; this shape repair does not resolve or recount couples. Batch301's owner-selected four-plus-four remains separate and blocked on the eight owner bodies. No new batch opened, no merge requested or performed.
+
 ### Owner direction and question — Subject silhouette diversity (2026-10-17; no review credit)
 
 Owner p continues already-authorized Batch141; no Batch142opened and no new authorization needed to finish141. The question distinguishes shape/look from formal typing and requires at least four Subject shape families:Human,Monster,Animal,Abstract. OneSin andSingingMachine are the owner's examples of broad shape contrast. Recorded as R-32_SUBJECT_SHAPE_DIVERSITY.md, indexed in rulesREADME and linked from RULE-TO-FOLLOW and CONTENT_AND_VISUAL_STANDARDS. Constructed/objectlike/mechanical hybrids are explicitly tracked rather than forced into ordinary humanoids. Minimum applies to the collection, not four forms per dossier or invented25%quotas.
