@@ -119,7 +119,10 @@
 - **Entity Type:** Object
 - **Manifestation:** Object-Spirit
 - **Primary marker:** A metre-tall white-stone carving of a black dragon with glowing white eyes, head tilted forever upward.
-- **Position / movement** | Fixed in the Vault; the longing-field expands during activation. |
+
+| Field | Record |
+|---|---|
+| **Position / movement** | Fixed in the Vault; the longing-field expands during activation. |
 | **Material / signature** | Unknown white stone, black dragon-form, glowing eyes; Lament; buoyant still air, the pull of the sky. |
 | **Distinctive markers** | The silhouette-dragon in pale stone; the soft glowing eyes; the eternal upward tilt. |
 | **Identification** | Distinguish from other statue or relic entities by the glowing eyes, the silhouette-form, and the field's pull — it is the only recorded relic that makes those near it want to leave the ground. |
@@ -192,7 +195,7 @@ The two valid Work Types do different things here and the difference matters. Vi
 
 ### Escalation Notes
 
-Escalation here is not a event. Nothing leaves the Vault, nothing is released, and the carving does not move; what expands is the radius inside which people want to rise. Record the trigger, the eye-brightness at trigger, the distance at which buoyancy is first reported, and the boundary at which it stops. Because the expression is Lament, behavioural indicators are logged alongside the physical telemetry and are given equal weight in the report.
+Escalation here is the longing-field expanding during activation, not the carving moving. Nothing leaves the Vault, nothing is released, and the carving does not move; what expands is the radius inside which people want to rise. Record the trigger, the eye-brightness at trigger, the distance at which buoyancy is first reported, and the boundary at which it stops. Because the expression is Lament, behavioural indicators are logged alongside the physical telemetry and are given equal weight in the report.
 
 **Response sequence:** Seal the Vault stair, establish the perimeter at the marked radius, confirm whether the event is a sanctioned channel, an unsanctioned contact, or a spontaneous spread, and clear every person with access to a height. Name the sky aloud at the door. Do not improvise an unlisted Work Type: Flerehan and Pugnahan are invalid for an Object and have never been attempted here.
 
