@@ -8,6 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 144 / unit 2 — Ninety Seconds `C-IVδ-918`
+
+[Ninety_Seconds](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-918_Ninety_Seconds_%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94_%EC%83%9D%EA%B0%81.md "SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md")
+
+**What changed:** Physical Form now says Non-physical rather than Organic, matching the empty marked radius and absence of a material body. Containment priority now requires immediate two-person worker extraction and the agreed content-free exit question instead of striking or physically suppressing the interval.
+
+**Source evidence:** Whole408-lineprimary before/after; exact918A–Dcomplete4/4includingAppearance/binding/record/history/corrosion/care/shutdown/footers, allfullSourceSECCC-IVδ-918. Registry1031–1034,archetype377,personalization549,disposition334. Exactname/designationsearchMasterMAW/EntityTales/EntityCodexfoundno dedicatedentry; no same-numberClockorothermasterinvented.
+
+**Source comparison / holds:** Primary/A/BδVoid11–16,Normal2,Short2,max4/25 retained; Single100%explicitA/B but notprimary; TimerDialCloseart/archetype versus colourlessbladeShort, no transition. Suit1/1/.3/.8,max4/20,Head5%/+1sourceWork unchanged, registryAccessoryversusHead held. Primarystrikeone-thoughtreset versus Bgenericmindgrief; ninetyonehemstitches and timedwarmglasstoken versus Dstone/wordfacelapse, primaryStigmastandalonecostmissing versus setcostownworstthoughtatwill and Dautobiography held. ANotrecordedevent versus primarygradualvoid/noincident and Bheldeventimagery not supplied as history. Fixedboundary/nothingcomesout versus generalisationUltimate/Expansion/Transform; onlyphysicalpriorityrepaired, notice/movementnotnormalised absentresolvedscopes. Entry211/202/9failure (longpassversusthoughtquestion), nineteen/28/32yearscopes,311repeatreturns/22workers,3conditions60/65/open40, no sensory/instrumentreadoutversusgauge andvesseldestructibledust held. Exitquestioncontentfree versus retrospectivewasitsameone flag andlastremedyreservingquestion ratherthanremovingflag distinctproblemsnotquietlycombined. No allegedlegalopinionexternalfactclaim; all in-worldstatements preserved.
+
+**Shape and chronology:** Abstract/bodilessTime-Mindintervalfromaccumulatedhumansorrow, not a humanapparition; no visiblebody or material identified inAppearance. Non-physical label repairsownclearprofile, not arbitrarynewform. No forcedSubjectclassification or inventedbreachMonster, no fourfamilySubjectcompletion/artcredit. Originators/peoplecaughtinloop are not pastphysicalbodies ofinterval.
+
+**History and independent credit:** ExactSE-918-B/MAW-W-918searchcurrent/twoarchivedWIP/CHANGELOG foundno priorindependentpairreview. B42u4/70939d7R29interaction/condition whole2652–2659read; B46u5quote, B68u10Resistance/Trivia prose only. Allrefprimary/sethistory10cd20a. Adds+1Full/+1uniqueWeapon; prior907ba859ecdf5b287b4f4e47574b3c70ea1276e314dverified.
+
+**R19:** Neutral retained;907/909/915papercomparisonsonly, no co-presenceor secondentitygauge/containmentchange. Personneldataflag/usefulcounsellingnotPositiveentitysuppression; nohumaninjurydoesnotprovePositiveeither. Indexno-pairwording read asnoobservedco-presence, appendixkept.
+
+**Commentary:** Leaving the room empty is the right visual choice: a body would distract from the person trapped in their own thought. The change flag is the sharper horror because privacy can fail even while every prohibition on collecting content remains intact.
+
+**R18 and validation:** 2short/0careful declared beforeediting. Whole primary and whole final reread completed beforegate. LC_ALL=C wc -w 6,476→6,503 (+27). Original digit sequence and entireactualequipmentblock byte-identical, asserted against opening snapshot. Nonshrinking unique replacements; no forced edits or fabricated newforms. verify(residue/seam/pipe/duplicates):RESIDUAL0,seam[],pipeTrue,dupes[]; tpl(templateresidue):RESIDUE0; sectfile(sectionsimilarity):0sectionsover.05; wikistd(wikistandard):meetsTrue/dirty0; GENERIC 0.003  (16 shared shingles)  SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md. git diff --check clean. Individual gate/push follows; prior HEADba859ecdf5b287b4f4e47574b3c70ea1276e314dverified. Source/registry/artfiles unchanged.
+
+**Independent counters:** Full237/301=78.74%,64/301remain,62/301eligible;Weapon238/287=82.93%,49/287remain. Fullcountsuniquecompleteprimary/source reviewincludingholds; excludespaused025,scope062andnonSEBook. Weaponcountsuniqueexactequipmentpairdispositionswithholds; repeatszero,14outside287(9noexternal/5exceptions). BatchOPEN2/5,Nochange0/2;3cumulativeNochange triggers5→7→10,minimum5maximum10. A coupleis twodossiers aboveprose-overlapthreshold, not equipmentpair. Fixphaseissource-supportedconsistencyrepair; laterappearance-revisionpassandall142/143holdsretained. NoBatch145authorization, Batch301separate8bodies/4+4generatevalidatebeforecopy.
+
+[[SE-C-IVδ-918_Ninety_Seconds_반복되는_생각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-918_Ninety_Seconds_%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94_%EC%83%9D%EA%B0%81.md "SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md")]
+
 ## Batch 144 / unit 1 — Breathing Stone `C-IVδ-907`
 
 [Breathing_Stone](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-907_Breathing_Stone_%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94_%EB%B2%BD.md "SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md")
