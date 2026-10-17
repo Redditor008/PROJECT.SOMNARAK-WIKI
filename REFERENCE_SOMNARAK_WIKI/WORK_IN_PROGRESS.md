@@ -1,5 +1,29 @@
 # Work In Progress
 
+## Batch 142 / unit 2 — Dead Air `N-IIIγ-929`
+
+[Dead_Air](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md "SE-N-IIIγ-929_Dead_Air_유령의_압력.md")
+
+**What changed:** The isolated Physical suppression required instruction now uses the primary's explicit completed-watch, filed-form, handover-barometer and mapped-boundary procedure. Corrected the duplicated weight weight combat phrase without changing its damage or trigger.
+
+**Source evidence:** Entire343-line primary and exact SE-929-A/B/C/D4/4 read completely, including all binding/corrosion/care/shutdown/history sections. Registry1075–1078; archetype388; personalization549; R19row340. EntityCodex359 explicitly lists929 as awaiting a row. Exact929/DeadAir searches found no dedicated MasterEntity/Tales/MAW entry; no source invented.
+
+**Source comparison / holds:** Primary/A/B γWeight14–25,Normal2,Short2,max4/25 retained; Single100% exists in A/B but missing localpattern not silently backfilled. Primary/A/C L/G/V/W1/1/1.2/.3,max4/20 retained; primary/A/D Head5%/+1sourceWork retained. Blade versus archetypemaul/Room and personalizationmaul unresolved. Primaryestimatedmasscost versus Bheadache and Ddebtloadcost, calibrationchair/oilcloth/brassweight extraction versus genericbinding, primaryblankwatchgift versus calibrationweight source, materialsteel/weave versus doctrinalitemAppearance held. A lacks formation but B/C/D elaborate last-transmissionimagery: no unsupported broadcast-origin imported. Primarycompleted-watch management versus AgenericGaugecontainment, noinjury17years versus combatdamage/5perturndrain/physicalpresence, sixhourwatch versus16turncombat, noapparition versus Transformlabel, twoemptywatches versus one-thirdblankseries all remain separate explicit holds. The priority repair follows the primary's exact no-body-to-subdue sentence rather than electing disputed item lore.
+
+**Shape and chronology:** A bodiless pressure anomaly, no figure/voice/coldspot/visualphenomenon. Expansion annexes adjoiningrooms without an established visiblecreature. No apparition or invented earlierdeadpersonform added; a recognised relative is subjective contact, not proven bodycontinuity. Written record only, no gallery/artcredit.
+
+**History and independent credit:** Exact SE-929-B/MAW-W-929 search through current and two archived WIP volumes/CHANGELOG found no prior source-led equipment-pair disposition. B43unit9 d88a0ca added R29condition/interaction/series; B73unit5 7f62e01 rewrote twosimilaritycells; laterquote/residue repairs not fullreviews. All-ref primaryhistory only10cd20a. Adds+1Full/+1uniqueWeapon; unit1 verified9490830e507f1adc73b29f1b5edadeafd00ab30e.
+
+**R19:** Neutral retained: no authorised secondholding on this watch and no demonstrated suppression/assistance. Paperappendix comparisons are not co-presence or proof of an institutional cascade; staffing/exposure burden alone is not Negative.
+
+**Commentary:** The empty room works because a familiar weight is recognised but never independently measured. Keeping the blank forms beside the contacts gives the uncertainty teeth; a visible ghost would weaken it.
+
+**R18 and validation:** Declared 2batch-short/0careful-detail before edits. Full primary read followed by whole final reread. LC_ALL=C wc -w 4,721→4,749 (+28). All original digit sequences and the complete actual equipment section unchanged. Each replacement unique and nonshrinking; no mixed-class multi-file repair. verify RESIDUAL0/seam[]/pipeTrue/dupes[]; tpl RESIDUE0; sectfile zero qualifying sections>.05; wikistd meetsTrue/dirty0; GENERIC 0.004  (14 shared shingles)  SE-N-IIIγ-929_Dead_Air_유령의_압력.md. git diff --check passed. Individual gate/push immediately follows this entry; prior HEAD 9490830e507f1adc73b29f1b5edadeafd00ab30e was verified. No unsupported source/registry/artwork edits.
+
+**Independent counters:** Full227/301=75.42%,74/301remain,72/301eligible; Weapon229/287=79.79%,58/287remain. Full counts complete primary/source reviews including holds; excludes paused025,scope-unconfirmed062 and non-SEBook. Weapon counts unique exact equipment-pair dispositions including holds;14primaries outside287(9noexternal/5exceptions), repeats earn zero. BatchOPEN2/5,Nochange0/2. Fix phase is source-supported consistency repair. A couple is a dossier pair exceeding prose-overlap threshold, not an equipment pair; opening0/301, final recheck at close. No new batch authorized.
+
+[[SE-N-IIIγ-929_Dead_Air_유령의_압력](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md "SE-N-IIIγ-929_Dead_Air_유령의_압력.md")]
+
 ## Batch 142 / unit 1 — Relic of a Thousand Owners `O-IVδ-792`
 
 [Relic_of_a_Thousand_Owners](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-792_Relic_of_a_Thousand_Owners_%ED%9D%90%EB%A5%B4%EB%8A%94_%EC%9C%A0%EB%AC%BC.md "SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물.md")
