@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 144 — OPEN 0/5 (2026-10-18)
+
+Owner authorization: “P + I Mean Later We Fix SE Apperance Too So Shape And Type Will Be Broad I Mean There Should Be A Monster That Is Shape From Human Sorrow But That Doesnt Mean They Need To Be Shape Like Human They Can Be Symbolic Or Contridicting Or Something Else.” One next batch after verified143close90300091e03a270ab0be0d7b0c2758c348c417eb. Five completed reviews minimum; cumulative3Nochange triggers5→7→10, ten maximum, no second batch authorized.
+
+**Clarification recorded:** R32 now explicitly separates originator's sorrow, literal individual transformation, and manifested body. Human sorrow doesnot require a human shape. Symbolic or contrasting forms are valid story-led designs; the later appearance pass must revise actual descriptions where needed rather than merely classify existing silhouettes. Human/Monster/Animal/Abstract minimum across collection retained; object/mechanical composites and hybrids permitted. No fabricated appearance or four-family completion credit now. Symbolic contrast is not automatically canon contradiction; no invented transition to conceal incompatible records. No bulkredesign during current reviews. This rule clarification is not a Full/Weapon review and adds zero credit.
+
+**Recovery:** Workspace had cumulative143body changes but old10cd20aHEAD/index. Preserved inherited.patch outsideGit; fetched assignedbranch90300091; everytrackedworkingbody matched remote and untrackedR32 matched remote byte-for-byte. Mixed-index-only alignment restored90300091 withoutchangingfilebodies, deletingownerfiles orforcepush. Cleanbeforethisunit. No prior143unitrepeated.
+
+**Fresh selection:**237uniqueFullmarkers minuspausedN-Iα-025 andscope-unconfirmedC-IIIγ-062=235countedFull/301,66remainingincluding2exclusions,64eligiblepending. Non-SEBook excluded. Weapon236/287,51remaining;14outsideWeapon scope(9noexternal/5exceptions), repeatszero. Pending-only prose-screen ranking:907BreathingStone .003460956;918NinetySeconds .003459459;912ElevenFiftyNine .003343683;185WhisperingGallery .003277424;108Animus .003195617. Reserves720Aphasia .003189793;051HappyMask .003166436. No unreadfilemarkedNochange, no selectedfileassumeddefective.
+
+**Method:** Wholeprimary/exactidentity-resolvedsources/history; R18short/carefulpredeclare; actualappearance/Tale-time review; R19evidenceandholds; wholefinalreread/checks; individualgate/push. Baselinecompare557candidates/861itempairs/287completesets; couples0/301files,0sectionpairs. Candidate is not confirmeddefect; couple is prose-overlapdossierpair, not equipmentpair. Fixphaseis source-supportedconsistencyrepair, broaderlaterdesignpass separate. Inherited142/143sourceconflictsandlaterappearancework remainbacklog, not declaredresolved. Batch301separatelyblockedoneightownerbodiesandchosen4+4generate/validatebeforewikicopy. PR14ownercontrolled; stayassignedbranch.
+
 ## Batch 143 — CLOSED 5/5 (2026-10-17)
 
 All five individual commits PUSH VERIFIED, through c8f2e605f6f4fa5103637f0dd6ef15a898715264. Closeout gate follows this administrative record. Authorized by owner's “p + Later We Fixed Everything That We Just Talk About” after closed142. One next batch only; no Batch144 opened.

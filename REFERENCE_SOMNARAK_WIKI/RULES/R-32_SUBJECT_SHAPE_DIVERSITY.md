@@ -31,6 +31,14 @@ A human figure of crystal, another of smoke and a third of burning rubble remain
 
 The minimum four families are a **floor for the collection**, not a demand that every entity have four forms, four transformation stages or four illustrations. The owner did not require equal quarters or an invented quota per batch. Presence of all four families is not, by itself, proof that repetition within them has been solved.
 
+## Human sorrow does not require a human body
+
+Owner clarification (2026-10-18): the later appearance-revision pass must broaden actual SE shapes and types, not merely label the existing designs. A monster can arise from human sorrow without looking human. Its form may express that sorrow symbolically, stand in deliberate contrast to it, or embody it through another visual relationship. Human, Monster, Animal and Abstract remain the collection's minimum broad look families, not four mandatory states of each entity.
+
+Keep three questions separate: whose sorrow produced the entity, whether any particular person actually transformed into it, and what body or spatial form it now has. Human origin alone proves neither a humanoid silhouette nor a literal person-to-monster transformation. A symbolic counterpoint is not automatically an inconsistency to correct; equally, incompatible canonical descriptions do not become an established transformation merely by calling them symbolic.
+
+The later pass includes revising appearance descriptions where needed, not just recolouring artwork, changing material words or renaming family labels. Choose anatomy, silhouette, movement and spatial organisation for the entity's particular sorrow, including nonhuman monsters, animal-derived bodies, object-like or mechanical composites, and abstract forms where appropriate. Do not flatten them back into people because the originating sufferers were human. Preserve supported earlier/later forms and document deliberate owner-directed revisions rather than reporting a newly designed body as recovered source evidence. Existing source disagreements remain explicit until resolved; this clarification does not order a bulk redesign during the current review batch.
+
 ## Source and canon safety
 
 1. Read the complete dossier and relevant identity-resolved source set before changing a canonical appearance or making its artwork. This rule does not authorize a mass redesign from names or classification headers.
