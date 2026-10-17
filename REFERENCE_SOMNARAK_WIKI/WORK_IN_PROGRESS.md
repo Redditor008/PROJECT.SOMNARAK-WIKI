@@ -1,5 +1,11 @@
 # Work In Progress
 
+## Batch 139 — OPEN at five (2026-10-17)
+
+Owner p after138closuref34706c4cfba0baa1c6b5da069b7b3ac759b5a48 authorizes one new batch. Fresh pending ranking selected in order: FoamFloodC-IIIγ-9480.004449900;CrucibleC-IIIβ-2750.004446915;DejàVuC-IVδ-1250.004445150;DrownedRootsC-IIβ-9970.004404404;HumsC-IIβ-0480.004400440. Reserve6–10Lethe928,Banyan606,BlackenedAngel946,UnsaidBlossoms100,TowerErased677, only if earned. Nothing belowfive; three completed No change dossiers trigger cumulative5→7→10 in this batch; ten ceiling. No forced edits. Pending is not No change. Required complete primary/exact A–D/source/history review, R18 split before editing, full edited-primary reread, five checks, individual evidence/Commentary in both logs and individual gate/push unchanged.
+
+BaselineFull210/30169.77%,91remain89eligible;212dispositions include excluded025/062. IndependentWeapon216/28775.26%,71remain;14primaries outside paired scope. Recovery saved /home/user/pre-b139-recovery.patch; initial quoted-path ls-tree comparison was invalid, corrected NUL-delimited tree proved all tracked blobs identical to remotef34706c4 before metadata-only repair. No files overwritten or history recommitted. PR14 remains owner-controlled OPENdraft assigned→NON-WIKI.301separate owner4+4 blocked on eight bodies; invent none, generate/validate before wiki copy. Current0/5 complete; Nochange0/0 (no findings yet).
+
 ## Batch 138 — CLOSED at five (2026-10-17)
 
 Owner p following137closure9b4e0211004b314960f545aec35c7417a69baa8d authorized this one batch. All five ranked dossiers fully read with exact identity-resolved A–D, applicable Master/Entity/Tale/CSV/archetype/disposition/history evidence. Fresh opening order015,901,913,801,924 retained. **5/5 complete; No change0/5.** Mandatory cumulative No-change trigger absent. Older simplicity expansion not selected: every dossier has a full interaction record and bespoke Warden/Watch material; source conflicts require individual holds. Five minimum is met, not treated as a universal ceiling. Reserved6–10 remain unread/pending, not No change. No139 authorized.
