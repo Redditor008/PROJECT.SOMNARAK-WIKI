@@ -1748,8 +1748,24 @@
     {
       "designation": "O-Iα-108",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-108_Animus_떠도는_흔적.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "changed",
+      "note": "Ordinary abstract heat-line distinguished from witnessed Maiden-induced outline; no new body invented.",
+      "outcome": "source-supported repair",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_01_ANIMUS.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-A__SIDE_CODEX_Animus.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-B__MAW-W_The_Trace_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-C__MAW-S_The_Trace_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-D__MAW-G_The_Trace_Ember.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-Iα-126",

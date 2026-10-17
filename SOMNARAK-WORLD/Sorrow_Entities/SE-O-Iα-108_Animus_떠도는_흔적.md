@@ -120,6 +120,20 @@
 | **Distinctive markers** | The lexicon. In nine years the voice has used 61 distinct words and no proper noun of any kind — no name, no place, no date — and the list is pinned at the Commons station with its five additions dated in the margin. |
 | **Identification** | Check the designation, the element and the manifestation against the file, and confirm the line of heat and the travelling voice together; if any detail contradicts, do not proceed. |
 
+### Appearance States
+
+| Field | Ordinary heat-line | Outline during contact with the Angry Maiden |
+|---|---|---|
+| **Mode of presence** | A disembodied voice travels along a thin red line of heat; no stable body follows it. | Her fire lends that trace a visible outline, roughly a person; this does not establish a permanent body hidden inside the line. |
+| **Form** | A thread in the air, with footprints of light that fade when unwatched. | A walking figure whose observers specifically recorded that it did not look angry; no further anatomy is established. |
+| **Perceptible to** | Paired observers record the line, voice and prints separately; a print has never been secured as an instrument record. | Each observer sketches the outline separately, as required by the interaction record. |
+| **Measurement** | Keep the route, heat reading, words and independent transcripts; do not reconstruct a speaker from them. | The outline appeared twice, for under a minute each, across the recorded Maiden sessions. The word count did not change while it held. |
+| **Movement** | Walking a route through the Commons without pursuing people. | Walking while the outline is visible; a person-like shape does not establish a new target or a new grievance. |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan and Ferrehan remain available, with the responses listed below. | The record grants no additional Work Type or exception to the prohibition on supplying a cause. |
+| **Transition** | This is the form used to identify Animus outside the documented interaction. | The only recorded setting for the outline is contact with the Angry Maiden's fire. Neither a repeatable entry method nor a voluntary change between bodies is established. |
+
+The inherited quarrel belongs to the origin account; it does not establish a former human body for this trace. The brief outline is an observed interaction state, not its default silhouette, and it does not identify the historical people who carried the quarrel. Keep the two sketches and the unchanged word count together rather than merging the figure into the ordinary heat-line description.
+
 **Appearance protocol:** Record the line, the voice, and the prints, and record who was looking at each. The line is a thin red thread of heat drawn in the air: log its height, its length, its temperature by instrument rather than by hand, and the smell of char that accompanies it. The voice travels along the line and is faint; transcribe the words heard, verbatim, with nothing supplied where the words are indistinct. The prints of light are the difficulty. They fade when nobody is looking at them, which means the only evidence this entity leaves requires a witness to continue existing, and no instrument record of a print has ever been obtained. The protocol therefore pairs observers and logs both accounts separately. Where they disagree, both are kept. Neither is corrected against the other.
 
 ## Origin
@@ -146,6 +160,10 @@ The table measures the gauge, which moves very little here, and misses the varia
 
 **Reading the response:** Read it in the line and in what the worker has started to believe. A falling gauge presents as thinning — the thread dimming, the voice dropping below the transcription threshold, the heat falling toward the ambient. The pressure eases and nothing is answered; the grievance is no closer to being known. A rising gauge presents as **sense**. The voice begins to seem intelligible, the fragments start to fit a story, and the worker finds themselves close to understanding what this is about. That is the failure state and it is almost indistinguishable from competent work. The entity carries anger with the reason burned out of it, and the one thing it will take from a person is a reason — and once given, on the two occasions it was given, the anger acquired an object it had not previously had.
 ## Breach Behavior
+
+**State change:** The Transform record concerns the trace and the surrounding Commons shifting into somewhere an old argument happened. The brief outline seen with the Angry Maiden is recorded separately in Appearance States; that interaction does not, by itself, establish a breach or a return to a former human body.
+
+**Retained non-breach mechanic:** Observe and endure without supplying a reason for the anger. A supplied cause gives the anger an object; a change in the appearance of the line or its surroundings does not license inventing one.
 
 > *"Animus has crossed the Commons boundary. Clear personnel from the heat-line, stop causal speculation, and observe without supplying a reason; it does not pursue anyone."*
 

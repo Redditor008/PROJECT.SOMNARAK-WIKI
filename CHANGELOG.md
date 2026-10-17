@@ -8,6 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## SE Appearance Fix — Batch145 unit1: Animus `O-Iα-108`
+
+**What changed:** Appearance now distinguishes the usual abstract red heat-line from the brief roughly human outline witnessed with the Angry Maiden. Its presence, measurements, movement and uncertain repeatability are kept separate. The breach note distinguishes that outline from the recorded local Transform environment; neither establishes a former human body.
+
+**Commentary:** The line is the stronger default body because it can keep moving without arriving anywhere, just as the grievance keeps being inherited without an answer. The borrowed human outline is interesting precisely because it does not look angry. Making the distinction explicit prevents the human form from swallowing the abstract design.
+
+**Evidence:** Complete unchanged primary/source/history review from Batch144 unit5 reused with byte parity against its verified close fd33fdbe097c37cb765908a258259bbc8ec28e36. Whole new411-line final primary reread after checks and before gate. The full source hashes, primary anchors, inherited holds, all five actual check outputs and completion reasoning are in [the individual record](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_01_ANIMUS.md). The source A's no stable body and the primary's brief witnessed interaction outline are compatible; no fake transition or anatomy was invented. The inherited PhantomBladeArray/TraceFang equipment conflict remains held, unchanged.
+
+**Validation:** R18 one careful addition plus one short breach clarification declared beforehand. LC_ALL=C wc-w6,430→6,872(+442). Five checks PASS: residue0/seams[]/pipeTrue/dupes[]; template0; zero sections above.05; wiki meetsTrue/dirty0; generic.003. Every original line is retained; original digit sequence identical; everything from Equipment through end byte-identical. Git diff whitespace clean. Six new-ledger tests PASS; independent ledger validator PASS. Neutral retained. No SVG, artwork or public-page claim.
+
+One completed SE appearance unit; the older equipment credits are not repeated.
+
+| Dossier | SE appearance change | Words | Checks | Credit |
+|---|---|---:|---|---|
+| [Animus](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-108_Animus_%EB%96%A0%EB%8F%84%EB%8A%94_%ED%9D%94%EC%A0%81.md "SE-O-Iα-108_Animus_떠도는_흔적.md") `O-Iα-108` | Heat-line / conditional outline | 6,430→6,872 | 5/5 PASS | SE+1; old counters+0 |
+
+[[SE-O-Iα-108_Animus_떠도는_흔적](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-108_Animus_%EB%96%A0%EB%8F%84%EB%8A%94_%ED%9D%94%EC%A0%81.md "SE-O-Iα-108_Animus_떠도는_흔적.md")]
+
+**Current counters:** ALL M.A.W. Types Appearance per SE — source-review coverage240/301=79.73%,61/301remain. ALL M.A.W.-W Appearance per SE — source-review coverage240/287=83.62%,47/287remain. SE Appearance Fix1/301=0.33%,300/301remain. Equipment counters include holds, not finished redraws. New SE breakdown: one source-supported repair, zero retained, zero brand-new body redesigns, two blocked,298pending. No automatic backfill. Corpus scope correction:301means290Sorrowplus11Unknownentitydossiers, excludingtheBook/READMEs; ledgeridentitieswerecorrectfromopening, initialproseexcludingUnknownwingcorrectedbeforefirstnewcompletion.
+
+**Batch145:** OPEN1/5; No change0/1. NextGallery185,ThousandOwners792,Hollowcast426,BreathingStone907 arepending,notNochange. Five-minimum stillrequired; three cumulativeNochange triggers5→7→10. No below-five close and no Batch146. ExistingP remains sufficient to finish this batch. The fix phase here is written SE-shape/state repair and authorized redesign where needed, not equipment appearance credit. A couple is a pair of dossiers exceeding the prose-overlap threshold, not an equipment pair; no new corpus overlap claim is made from this single-file check.
+
+Opening5683d97b37b1ec88259493dbb8f8bf162e981bbbPUSH VERIFIED. This unit receives its own gate/push. PR14 freshlyOPENdraft,arena/954853ad-project-somnarak-wiki→NON-WIKI. Ownercontrolsmerge; noneperformed. Batch301 separateblocked8bodies/owner4+4generatevalidatebeforecopy.
+
 ## Batch145 — OPEN 0/5: independent SE appearance-fix counter (2026-10-18)
 
 Owner's latest P authorizes one next batch. The owner also directs a separate SE Appearance Fix X/X and explicit names for the old M.A.W. counters. Added APPEARANCE_PROGRESS.md, a 301-identity SE_APPEARANCE_LEDGER.json and the read-only appearance_progress.py validator. R-16, R-31 and R-32 now preserve the naming and credit boundary.
