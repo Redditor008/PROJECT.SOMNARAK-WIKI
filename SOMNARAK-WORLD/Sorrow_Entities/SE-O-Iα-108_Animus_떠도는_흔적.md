@@ -147,12 +147,12 @@ The table measures the gauge, which moves very little here, and misses the varia
 **Reading the response:** Read it in the line and in what the worker has started to believe. A falling gauge presents as thinning — the thread dimming, the voice dropping below the transcription threshold, the heat falling toward the ambient. The pressure eases and nothing is answered; the grievance is no closer to being known. A rising gauge presents as **sense**. The voice begins to seem intelligible, the fragments start to fit a story, and the worker finds themselves close to understanding what this is about. That is the failure state and it is almost indistinguishable from competent work. The entity carries anger with the reason burned out of it, and the one thing it will take from a person is a reason — and once given, on the two occasions it was given, the anger acquired an object it had not previously had.
 ## Breach Behavior
 
-> *"Animus has broken free. Hunts personnel indiscriminately."*
+> *"Animus has crossed the Commons boundary. Clear personnel from the heat-line, stop causal speculation, and observe without supplying a reason; it does not pursue anyone."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
-| **Movement** | Animus expands beyond containment like a spreading tide. It hunts personnel indiscriminately. |
+| **Movement** | The heat-line walks beyond the Commons without pursuing personnel. Recorded excursions end at a boundary wall where it stops and fades; anyone in its path must step aside rather than block it. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | Nobody. In nine years it has not altered course for a person, approached one, or stopped walking because one was there; the eleven strikes on file all occurred where a worker had stepped into the line. |
