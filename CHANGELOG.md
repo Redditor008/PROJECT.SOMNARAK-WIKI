@@ -8,6 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 143 / unit 4 — Sky of Borrowed Faces `O-IIIγ-926`
+
+[Sky_of_Borrowed_Faces](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-926_Sky_of_Borrowed_Faces_%ED%99%98%EA%B0%81%EC%9D%98_%EA%B2%A9%EC%9E%90.md "SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md")
+
+**What changed:** No change
+
+**Source evidence:** Complete402-line primary and exact926A–D4/4read; Bfull reread recovered middleafter combinedoutputtruncation. FullSourceSECCO-IIIγ-926 inallfour. Registry1063–1066; archetype385; personalization549; disposition155; EntityCodex359lists926awaitingrow; exactsearchno dedicated MasterMAW or MasterTale entry, not invented. Byte-identical primary retained after full source/history review.
+
+**Source comparison / holds:** Primary/A/B γLament14–24,Normal2,Short2,Single100%,max4/25;primary/A/C.3/1/1.2/.8,max4/20;Head5%/+1sourceWork allretained. Primaryblade versus archetype/artSpearLong no transition. B/C/D Appearance is mostlydoctrine, notanindependentphysicaldescription. Primarynametarget/no registerlikenessstrike versus genericBphantasmalstrike, dayfacerecallloss versusmildmemoryfragmentation; Veilcounterfeatureshidden/dayflattening versus sourceremovalend; Tokenlikenessrefusal/onregisterexclusion/borroweddream versus genericdreamgrief held. AformationNotrecorded notpermissiontosupply tragedy; primarynobodydiedhere/nonhistoricground/livingwardresidents retained against itemlostfacesgriefimagery. Primary4expansions4withdrawals versus11events/9workerfirst;74grants ofwhich112familycases arithmeticallyimpossible aswritten, but neitherreplacementfigure authorised; Director112decisions couldseparatescopes, notproven. 9yearand19yearimagelog/transcount scopes,date4219/4220/4235/4238 chronology retained. Gauge<25simulatedencountertarget versus operationalcount/sweepclosure and independentlikenesscolumn notsilentlydeleted or claimedachieved. Sweepcountstoppingraises versus overalllikenessregimeonlydriver held as temporalscopes, not oneelectedmodel. Transform/vesseldestructible/dusttable versus nonphysicalExpansion/no damage held. Referencedindexsaysnointeractiontable but primaryhasthreepapercomparisonrows; rationalehold explicit, not used to inventco-presence. No primary/source/index/art edits needed merely to mark reviewcomplete.
+
+**Shape and chronology:** NonanthropomorphicspatialHazard: Desolateground, surface-boundmoving/speaking/reachingimages; openairdoesnotserveasscreen. AliveFracturedpeopleinwards are people depicted, not priorbodies oftheHazard, deadghosts or newSubjects. Expansion alterswhichsurfacescarryprojections, not an emerginghumanbody. No art/gallerycredit.
+
+**History and independent credit:** ExactSE-926-B/MAW-W-926searchcurrent/twoarchivedWIP/CHANGELOG foundnoearlierindependentpairdisposition. B46u7quotation/R29 andB59u6806ee93OPsimilarity repairs only; archivedB59contextread. Allrefprimary/exactsethistory10cd20a. Adds+1Full/+1uniqueWeapon despite unchangedprimary; shipment consists of this completedreviewevidence. PriorBirdf9cbef36f5e1c73faf9b221276338571483cc857verified.
+
+**R19:** Neutralretained: no secondholdingeverwalkedonto grid; OnceUpon/Amnesia/Miasma comparisons madeonpaper and no causalchange. No injuryandno measuredentitysuppression/assistance. Indexabsence-of-tablewording heldoutdated, notproofnoappendixexists. Institutionalconsent/trainingcostnotautomaticNegative.
+
+**Commentary:** The empty ground makes the borrowed faces more unsettling than a haunted battlefield would. The standing objector's refusal has a measurable training cost, so the file cannot solve consent merely by declaring one side kind.
+
+**R18 and validation:** Declared 0batch-short/0careful-detail before edits. Full primary read followed by whole final reread. LC_ALL=C wc -w 7,249→7,249 (+0). All original digit sequences unchanged. The complete actual equipment section is unchanged. Each replacement unique and nonshrinking; no mixed-class multi-file repair. verify RESIDUAL0/seam[]/pipeTrue/dupes[]; tpl RESIDUE0; sectfile zero qualifying sections>.05; wikistd meetsTrue/dirty0; GENERIC 0.004  (21 shared shingles)  SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md. git diff --check passed. Individual gate/push immediately follows this entry; prior HEAD f9cbef36f5e1c73faf9b221276338571483cc857 was verified. No unsupported source/registry/artwork edits.
+
+**Independent counters:** Full234/301=77.74%,67/301remain,65/301eligible; Weapon235/287=81.88%,52/287remain. Full counts complete primary/source reviews including holds; excludes paused025,scope-unconfirmed062 and non-SEBook. Weapon counts unique exact equipment-pair dispositions including holds;14primaries outside287(9noexternal/5exceptions), repeats earn zero. BatchOPEN4/5,Nochange1/4. Fix phase is source-supported consistency repair. A couple is a dossier pair exceeding prose-overlap threshold, not an equipment pair; opening0/301, final recheck at close. No new batch authorized.
+
+[[SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-926_Sky_of_Borrowed_Faces_%ED%99%98%EA%B0%81%EC%9D%98_%EA%B2%A9%EC%9E%90.md "SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md")]
+
 ## Batch 143 / unit 3 — The Observing Bird `C-IIIγ-031`
 
 [The_Observing_Bird](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-031_The_Observing_Bird_%EC%A7%80%EC%BC%9C%EB%B3%B4%EB%8A%94_%EC%83%88.md "SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md")
