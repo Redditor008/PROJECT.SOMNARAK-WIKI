@@ -218,3 +218,9 @@ tools, and every counter quoted in a report is one that was measured in that sam
 Written during b62 (the fix phase), after u7 `a4c81d2` and the held Homecoming Tree unit `be95f5e`.
 Live counters at the moment of writing: couples **182 / 301** · residue-free dossiers **301 / 301** ·
 quote families **0 / 301** · `R-29` clauses **301 / 301**.
+
+## Amendment, 2026-10-18 — three separately named appearance counters
+
+The owner requires a new SE appearance-fix X/X, distinct from the older M.A.W. streams. In current progress leads and tables, use the explicit R-16 names: **ALL M.A.W. Types Appearance per SE — source-review coverage**, **ALL M.A.W.-W Appearance per SE — source-review coverage**, and **SE Appearance Fix — independent written-design pass**.
+
+This refines the older Full-SE/Weapon-only label wording above without rewriting historical reports. Keep all three denominators, percentages and remaining counts separate. State that inherited equipment coverage includes holds and is not completed artwork/redesign coverage. New SE appearance credit is never backfilled from old reviews or from a naming change. For an open batch, show the completed versus required rung and pending queue; never call a smaller open result a completed batch. R-31's per-dossier content, Commentary, linked table and full R-12 links still apply to completed new-pass units.

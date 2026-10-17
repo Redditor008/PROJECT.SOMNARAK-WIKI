@@ -61,3 +61,7 @@ Separate **written design diversity** from **rendered artwork diversity**. A sca
 Report repeated silhouette families, concrete examples, ambiguous descriptions and the limits of the count. Remove names and colours as a comparison test: can the design still be identified from its structure? Use this alongside the existing content and visual standards, not as a substitute for them.
 
 Question research, shape screening and recording this rule earn no Full-SE or Weapon-pair review credit. R-18, the complete-review requirements, individual validation/push requirements and the five→seven→ten batch rule remain unchanged.
+
+## Independent appearance-fix progress
+
+Owner direction, 2026-10-18: track SE appearance fixes separately from all-type and Weapon-only M.A.W. appearance/source reviews. See [Appearance progress](../APPEARANCE_PROGRESS.md) for the naming crosswalk and [the per-SE ledger](../SE_APPEARANCE_LEDGER.json) for the newly initialized written-design pass. Prior equipment or whole-dossier credit does not prove completion of this pass. A source-supported state/chronology repair, an authorized redesign and a justified retained body must be identified honestly; none is automatically a new rendered illustration or a completed collection-wide diversity target.

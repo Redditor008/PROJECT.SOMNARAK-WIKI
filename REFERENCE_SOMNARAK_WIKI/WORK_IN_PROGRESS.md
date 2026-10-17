@@ -1,5 +1,19 @@
 # Work In Progress
 
+## Batch145 — OPEN 0/5: independent SE appearance-fix counter (2026-10-18)
+
+Owner's latest P authorizes one next batch. The owner also directs a separate SE Appearance Fix X/X and explicit names for the old M.A.W. counters. Added APPEARANCE_PROGRESS.md, a 301-identity SE_APPEARANCE_LEDGER.json and the read-only appearance_progress.py validator. R-16, R-31 and R-32 now preserve the naming and credit boundary.
+
+**Current counters:** ALL M.A.W. Types Appearance per SE — source-review coverage: 240/301, 79.73%, 61/301 remain. ALL M.A.W.-W Appearance per SE — source-review coverage: 240/287, 83.62%, 47/287 remain. New SE Appearance Fix: 0/301, 0.00%, 301/301 remain (299 pending, two blocked). Historical equipment counters are baseline coverage, including unresolved holds, not completed redesign/illustration claims. No backfill and no duplicate old credit. The baseline is verified Batch144 close fd33fdbe097c37cb765908a258259bbc8ec28e36.
+
+**Scope and queue:** Fresh new-pass pending-only source-signal screen prioritizes explicit witnessed conditional shape, documentary historical shape, then unsettled form/scale cues. Queue: Animus108, Gallery185, ThousandOwners792, Hollowcast426, BreathingStone907. A screen is not a completed review, defect finding or visual census. The older equipment pending queue is preserved separately. This new pass is actual written-appearance repair/redesign where needed, not merely classification. Human sorrow does not mandate human anatomy. New designs must be recorded as owner-authorized revisions, not fake historical transformations; supported states stay distinct.
+
+**Batch:** OPEN0/5, zero completed No change dossiers. Five minimum, cumulative three No change triggers5→7→10, ten ceiling. Pending units have no credit. No Batch146, no lower close. Whole primary and exact sources/history, R18 predeclaration, whole final reread, five checks and individual gate/push remain required before a unit counts.
+
+**Checks:** appearance_progress.py validates the 301 full designations and exact corpus paths and prints PASS with zero new completions. Six unit tests PASS: no legacy backfill, duplicate identity rejection, wrong-path rejection, evidence requirement, no incomplete close and unique completion count. Git diff whitespace check clean. This is an administrative opening, not a completed dossier and not grounds for any Commentary about unread bodies.
+
+Branch remains arena/954853ad-project-somnarak-wiki. No merge, deployment or deletion. Batch301 remains separate, blocked on eight supplied bodies and owner4+4, generate/validate before wiki copy. The opening receives its own gate/push; subsequent SE units must be shipped separately.
+
 ## Batch 144 — CLOSED 5/5 (2026-10-18)
 
 The owner's latest P authorized this one next batch. All five selected dossiers completed their primary, exact-source and history reviews and shipped separately. Four primaries changed; Whispering Gallery is the completed **No change** dossier. Cumulative No change is **1/5**, below the three-dossier trigger, so neither the seven nor ten rung opens.
