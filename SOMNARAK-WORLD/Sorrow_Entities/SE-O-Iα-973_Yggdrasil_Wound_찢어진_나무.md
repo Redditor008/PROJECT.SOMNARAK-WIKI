@@ -192,11 +192,15 @@ Appearance : A spherical censer carved from a hollowed ironwood tree burl, bound
 
 The burning resin produces a warm, viscous smoke that clings to surfaces and coats airborne particles. Breathing the vapor numbs physical pain and bolsters an Specialist's psychic resolve.
 
-**Damage:** Void 3-6
+**Damage:** Void 3–6
 **Speed:** 2 (Normal)
 **Range:** 2 (Short)
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
+
+**Attack Pattern:** Single
+**Target Coverage:** One target; the listed damage lands on the selected target only and carries no falloff row.
+**Damage Application:** Apply the listed damage to the selected target and to no other, in one application.
 
 **Ability:** A burl censer burning willow resin into warm, clinging smoke; breathing it numbs pain and stiffens resolve, and the same smoke carried into a target's lungs loosens their hold on who they are.
 
@@ -207,6 +211,8 @@ The burning resin produces a warm, viscous smoke that clings to surfaces and coa
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
 **Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+
+The veil's safety doctrine is the source's resolution clause, *ground the worker and permit both memories to remain*: the garment does not resolve a conflict, it holds both sides of one until the wearer can. Worn through a cycle it keeps two copies of the self in step — agreeing with themselves, working alongside themselves, and finding the arrangement unremarkable until somebody else points it out, which is the point at which the armoury withdraws the item and not the wearer.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -226,6 +232,8 @@ The burning resin produces a warm, viscous smoke that clings to surfaces and coa
 
 **Appearance:** a root-charm of Void Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
 
+The Root comes by gift and never by requisition, and the armoury has never made one on purpose: the pieces on the register are on workers who carried two contradictory memories through a whole cycle and resolved neither. It holds a conflict open instead of settling it, so a bearer's account can be given twice without either version being withdrawn, and the bonus is forfeited for the remainder of the cycle if the bearer withdraws or amends an account already given.
+
 **Slot:** Head
 **Acquisition Probability:** 5%
 **Effect:** +1 to the bearer's rating while working the Tree, forfeited for the remainder of the cycle if the bearer withdraws or amends an account they have already given
@@ -240,14 +248,16 @@ The burning resin produces a warm, viscous smoke that clings to surfaces and coa
 
 Every piece of the set is still part of the Tree, and the set was built around carrying two things at once. The censer numbs and divides. The veil keeps the wearer intact by duplicating them. The Torn Root is the only item in the α catalogue that lets its bearer carry two irreconcilable memories without collapsing, which makes it genuinely valuable for inquiry work, interviews and any proceeding where a witness's account conflicts with the record — and it charges the bearer the full weight of both memories at the same time, continuously, for as long as they hold them. Operatives return it quickly. Those who do not are usually the ones who find the arrangement familiar, which is the condition this set is drawn from and the reason issue is reviewed rather than routine.
 
+Two rules govern issuing. The first is attribution: a piece opens the hazard only after the team has attributed the response to Yggdrasil Wound, and no piece is signed out against an unattributed tear. The second is the set's limit, *ground the worker and permit both memories to remain* — a bearer who has begun describing the collapse in the first person has already crossed it. The set cannot heal the originating event; what it does is let both memories be held while the worker is grounded. Violating the limit reverses the benefit and raises the source Gauge, and the ladder runs in one direction: first-person description of the event, then the piece repeating the source response outside contact, then the terminal state in which the manifestation uses the bearer as its new site. A named witness closes a piece by stating the source title and the source event while the bearer relinquishes it; the shutdown preserves the record in full and refunds nothing.
+
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Yggdrasil Wound's known toll: memories go in halves rather than whole. The wielder keeps the room and loses who was in it, keeps the decision and loses the argument that produced i. Opened at the end of the rotation, not before. |
-| **During use** | Watch for Yggdrasil Wound's toll — memories go in halves rather than whole. The wielder keeps the room and loses who was in it, keeps the decision and loses the argument that produced i — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The veil preserves the self by keeping two copies of it. Wearers report no distress and describe the sensation precisely and repeatedly as being one o, and the wielder has stopped reporting it — the usual end point for a Yggdrasil Wound piece. The observer calls the limit. |
-| **After use** | Piece returned; re-assess a week later, because what Yggdrasil Wound takes (the veil preserves the self by keeping two copies of it. Wearers report no distress and describe the sensation precisely and repeatedly as being one o) does not present on the day. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Yggdrasil Wound's known toll: memories go in halves rather than whole. The wielder keeps the room and loses who was in it, keeps the decision and loses the argument that produced it. Opened at the end of the rotation, not before, and only after the response has been attributed to Yggdrasil Wound and entered under the piece's own name. |
+| **During use** | Watch for Yggdrasil Wound's toll — memories go in halves rather than whole. The wielder keeps the room and loses who was in it, keeps the decision and loses the argument that produced it — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The veil preserves the self by keeping two copies of it. Wearers report no distress and describe the sensation precisely and repeatedly as being one of two, and the wielder has stopped reporting it — the usual end point for a Yggdrasil Wound piece. The observer calls the limit. |
+| **After use** | Piece returned; re-assess a week later, because what Yggdrasil Wound takes (the veil preserves the self by keeping two copies of it. Wearers report no distress and describe the sensation precisely and repeatedly as being one o) does not present on the day. Where a piece is closed on the set's own clause, the named witness, the source title and event as stated, and the unrefunded cost are entered with the return, and the record stands in full. |
 
 **Stat interpretation:** The α grades are low and accurate. What no column records is that this set's costs are all paid in coherence rather than capability — the wearer performs perfectly well, by every measure the facility takes, as two people. Read the Cost lines as the specification and take the grounding partner's account over the wearer's.
 

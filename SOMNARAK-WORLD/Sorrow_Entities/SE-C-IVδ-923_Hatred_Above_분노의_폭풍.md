@@ -171,8 +171,17 @@ The pressure is measured from the sides, at an angle, by instruments that cannot
 
 **Appearance:** a single-edged blade of Grudge Han-iron, dark and faintly warm, that glows along its edge when readied.
 
-**Damage:** Grudge 11–22 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Channels grudge grudge sorrow in each strike — the weapon does not cut flesh so much as cut at the grudge register of the target's grief.
+**Damage:** Grudge 11–22
+**Speed:** 2 (Normal)
+**Range:** 2 (Short)
+**Max Amount:** 4
+**Cost:** 25 Sorrow Echoes
+
+**Attack Pattern:** Single
+**Target Coverage:** 1 selected target
+**Falloff Rule:** None; 100% damage to the selected target only.
+**Damage Application:** Direct Grudge damage; the overhead anomaly’s spread does not add targets to the Edge’s strike.
+**Ability:** Channels Grudge sorrow in each strike — the weapon does not cut flesh so much as cut at the grudge register of the target's grief.
 **Cost:** The wielder experiences chronic fatigue in the dominant hand with each use.
 
 ### M.A.W. Suit — Hatred Above's Veil
@@ -180,6 +189,8 @@ The pressure is measured from the sides, at an angle, by instruments that cannot
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
 **Appearance:** a flowing veil of Grudge Han-cloth, dark and faintly warm, that tightens near its source element.
+
+The shelter does not remove the bodily record of small insults. Stiffening reflexes and anger reaching the voice before judgement are costs to record, not evidence that a grievance has been established. A worker’s own past and the source of pressure remain separate even when both feel personal.
 
 **Resistances:** Lament: 1.0 (Normal) | Grudge: 0.3 (Resistant) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -195,11 +206,16 @@ The pressure is measured from the sides, at an angle, by instruments that cannot
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's grudge sorrow, crystallized into wearable form.
+**Cost:** Old injuries and old resentments sharpen whenever the Token is used.
+
+The source event remains unidentified. Carrying the Token does not supply its missing history or make the nearest colleague responsible for it. First-person ownership of that unknown history is a warning sign; the return review keeps uncertainty rather than completing the account for the bearer.
 *A Token is found at the far edge of the footprint, on the outward side of the line, by the next person to cross alone. It has never been recovered by a pair and has never been found inside the marked rectangle.*
 
 ### M.A.W. Use Notes
 
 The Hatred Above set is made from the marking itself: the Edge from a line-stanchion, the Veil from the reflective tape used to re-mark the footprint, the Token from one of the cold lamps. All three were taken during the Y4244 re-marking, when the old line was being lifted anyway, and no part of the set has ever been cut from the footprint in use.
+
+At the return rack, enter the bearer, crossing interval, observed pressure and the piece’s cost before cleaning or rest. Do not enter the words shouted beneath the footprint: the prohibition on recording them remains absolute. Check dominant-hand fatigue for the Edge separately from the Veil’s rigidity and the Token’s sharpened resentments. The return record does not require reconciliation between colleagues to be reported, and no attribution review is performed by bringing two people under the anomaly together.
 
 ### Field Use Record
 

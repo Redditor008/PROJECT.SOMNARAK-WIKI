@@ -88,7 +88,7 @@
 ### Battle Phases
 
 1. **Tension:** The feeler gauges come out before anything else. The lid sits on the rim and does not seat; measure the gap at the four marked points and record the mean to a tenth of a millimetre. Four tenths is baseline. The recorded range is one tenth to three point one.
-2. **Clash:** Viderehan and Ferrehan, from a seated position, for the scheduled interval. Nobody lifts the lid. The prohibition is not a safety measure — the gap has never exceeded three millimetres and nothing has ever come out of the jar — it is there because a lifted lid destroys the only reading this holding produces.
+2. **Clash:** Viderehan and Ferrehan, from a seated position, for the scheduled interval. Nobody lifts the lid. The prohibition is not a safety measure — the gap has never exceeded three point one millimetres and nothing has ever come out of the jar — it is there because a lifted lid destroys the only reading this holding produces.
 3. **Resolution:** Second measurement, both figures to the desk, and the voice transcribed as far as it is intelligible, which is usually not at all. In sixty-one years four words have been agreed by two listeners independently. They are in the folder. None of them is a name.
 
 ### Consequences
@@ -185,7 +185,7 @@ Viderehan lowers the gauge: the pleading becomes legible as pleading, which is n
 | **Activation** | Physical contact and intentional interaction. |
 | **Primary Effect** | Gap widens; light and audible radius extend; the pleading is heard as personally addressed. |
 | **Duration** | Until the lid is re-seated by hand. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |
+| **Termination / Return** | Re-seat the lid by hand after an expansion. At the use limit, remove the relic and read the bearer their own pre-use statement; file the independent transcripts unreconciled. |
 | **Risk** | Certainty about what is being said, and long uncorroborated transcripts. |
 
 **Operational Rule:** The relic is carried by the officer who notifies a family of a death and for the duration of that visit only. It has no field application and has never been issued for one. Two requests to take it outside the notification duty are in the folder with their refusals.
@@ -196,7 +196,7 @@ Viderehan lowers the gauge: the pleading becomes legible as pleading, which is n
 |---|---|---|
 | 10 Seconds | The pleading, for the bearer alone, drops to a level at which individual words can nearly be made out. | The near-intelligibility is the whole effect. It does not resolve and it does not go further, at any duration, ever. |
 | 30 Seconds | The bearer becomes aware of how many of the voices are plural. The count is consistent between bearers and is the most-cited figure in the folder. | Log the bearer's count. Do not tell them the standing figure beforehand; four bearers were told and all four reported it back. |
-| 1 Minute | The bearer begins supplying words. They are fluent, specific, and theirs. | 5 Void damage every 15 seconds past the minute. Stop the bearer speaking. The jar has never produced a word two people agreed on and the bearer will insist that it just did. |
+| 1 Minute | The bearer begins supplying words. They are fluent, specific, and theirs. | 5 Void damage every 15 seconds past the minute. Stop the bearer speaking. Only the four words already filed have been agreed by independent listeners; the bearer's insistence does not corroborate a new word. |
 | 2 Minutes | The bearer cannot distinguish what they heard from what they supplied. | Remove the relic and read them their own pre-use statement. It works, it is unpleasant, and in forty years nothing gentler has been found. |
 
 ### Escalation Notes

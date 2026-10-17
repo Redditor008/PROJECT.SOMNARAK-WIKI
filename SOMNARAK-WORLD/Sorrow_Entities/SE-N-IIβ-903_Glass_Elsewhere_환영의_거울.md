@@ -43,7 +43,7 @@
 - Pressure is void and phantasmal. The breach type is Expansion, so failure spreads influence outward rather than releasing a body.
 - Sustained observation makes the phantasmal pressure legible. Sustained presence settles the void pressure gradually. Neither rewards speed.
 - The surface reflects rooms that no longer exist and the faces of the Fractured. Personnel who recognise someone in it are withdrawn from the row permanently.
-- Yield scales with observation time rather than with the number of cycles, so one long assignment outperforms several short ones.
+- Yield does not authorise a longer assignment. The clock-holder closes the channel at ninety seconds. The cycle log keeps only the category, and the viewer's counselling appointment is booked beforehand; no request for more time extends the viewing.
 
 ## Combat Record
 ### Core Stat Line
@@ -159,7 +159,7 @@ Glass Elsewhere is an Object with Object-Phantasmal manifestation and Void expre
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** The clock-holder closes the channel at ninety seconds and states the date. Keep the category-only log and withdraw anybody who recognises someone; nothing comes through the glass to subdue.
 - **Sorrow Gauge on event:** Starts at 40% and rises 10% a turn while a viewing continues past the limit. It falls 10% for each demolition in the district that is afterwards recorded with the names of the households that lived there, which the district has done eleven times.
 
 ## Activation Behavior

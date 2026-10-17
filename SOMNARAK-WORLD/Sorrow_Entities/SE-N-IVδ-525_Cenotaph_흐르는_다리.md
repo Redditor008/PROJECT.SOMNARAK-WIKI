@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle, drawn from the dark water under the span rather than from the stone, and reachable only while the body stays arched |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · α (Minor) — the extracted pieces, not the δ source |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
 | **Recommended response** | Controlled acknowledgment and team support: name the crossing as shared work out loud, in the hearing of whoever is going over it. Viderehan shows the promise and the failed crossing, Ferrehan weighs the worker's resolve beneath the moving span, and nothing else has been authorised |
@@ -177,9 +177,9 @@ The four responses split two and two, which is unusual for a Grudge subject and 
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-Appearance : A miniature carved stone shrine forty centimeters tall, fitted with miniature shingle roofing and an open recess holding an ancient river stone over which water constantly trickles.
+**Appearance:** A miniature carved stone shrine forty centimeters tall, fitted with miniature shingle roofing and an open recess holding an ancient river stone over which water constantly trickles.
 
-The clear water trickling within the shrine never overflows its drainage trough. Placing an Specialist's hand inside washes away psychological terror and restores clarity under extreme duress.
+The clear water trickling within the shrine never overflows its drainage trough. Placing a Specialist’s hand inside washes away psychological terror and restores clarity under extreme duress.
 
 **Damage:** Grudge 3–6
 **Speed:** 2 (Normal)
@@ -202,6 +202,8 @@ The clear water trickling within the shrine never overflows its drainage trough.
 
 **Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that sits cold against the skin and gives the wearer no reading of what it is carrying.
 
+Shared load channels run shoulder to shoulder, each traced to a named team member who has agreed to carry it. “Whoever is available” names nobody: that load returns to the wearer mid-span. Clean the channels in pairs. Bypassed channels, unreachable casualties kept as pending rescues, and imposed sharing are failure signs, not evidence of stronger protection.
+
 **Resistances:**
 - Lament: 1 (Normal)
 - Grudge: 0.4 (Resistant)
@@ -220,9 +222,11 @@ The clear water trickling within the shrine never overflows its drainage trough.
 
 **Appearance:** a ring of Grudge Han-iron, dark and faintly warm, that goes briefly hot when somebody nearby is carrying something on their own.
 
+The Ring holds manipulation aside without holding true loss away. Treating real grief as tactics, turning triage into indifference, or becoming unable to act under impossible guilt ends that distinction. Pair each deployment with the team’s shared review so the count of those beyond reach is carried by the roster, not silently by the bearer alone.
+
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to work against Cenotaph itself, and no effect on the Echo Gardens entities it is filed beside.
+**Effect:** +1 Resilience to work against Cenotaph itself, and no effect on the Echo Gardens entities it is filed beside.
 
 **Ability:** Prevents emotional manipulation during rescue work.
 
@@ -234,6 +238,8 @@ The clear water trickling within the shrine never overflows its drainage trough.
 
 The three pieces extend this holding only as far as the duty is shared. In a team that has named who is accountable, the shrine and the plate hold to grade; in the hands of one worker on their own the cost scales and the Grudge in them becomes active, which here means the operator cannot set the equipment down at the end of the shift. The ring is the exception in every respect, and the exception is the whole of its value.
 
+*Shared Protection* requires names and consent rather than an assurance that somebody will help. Before issue, compare the current assignment with what the team could actually control; the impossible promise is released, not transferred to a quieter colleague. Neither the Plate nor the Ring returns the withdrawn Gardens span to service. The routing office retains the movement duty under its recorded name, even after the equipment has been returned.
+
 ### Field Use Record
 
 | Stage | Required record |
@@ -241,7 +247,7 @@ The three pieces extend this holding only as far as the duty is shared. In a tea
 | **Before use** | Wielder, piece, the day's reading, and the name of the second person carrying this crossing — on this set the cost falls on anyone working alone, so the roster entry is the instrument and the baseline is taken against it. |
 | **During use** | Watch for the toll's first sign — old wounds aching, faint bruising in the pattern of a load carried across the shoulders — and enter the hour the second worker saw it rather than the hour the wielder mentioned it. |
 | **At limit** | The wielder stops noticing the toll: reflexes dull and they become slow to step off a surface that has begun to move, which on this post is the exact hesitation the entity punishes. Every stand-down on this set has been called by the second worker on that sign. |
-| **After use** | Return the piece and re-assess a week later: what this set takes — dulled reflexes, the slow step off a moving surface — does not present on the day. The second worker answers for the wielder, and the answer is entered whether or not the wielder agrees. |
+| **After use** | Return the piece and re-assess a week later: what this set takes — dulled reflexes, the slow step off a moving surface — does not present on the day. The second worker answers for the wielder, and the answer is entered whether or not the wielder agrees. Attach the shared review before cleaning, retaining who was present, what was known and what was possible beside the later reflex assessment. |
 
 **Stat interpretation:** The grades describe extraction stability rather than human safety, and on this post the two diverge sharply. The plate is dependable and the shrine is unremarkable. What no grade records is that the ring, which costs nothing measurable, leaves its wearer volunteering for every crossing on the roster.
 ## 관찰 기록 (Observation Log)
@@ -355,7 +361,7 @@ Some sorrows are about loss. Cenotaph is about the failed protection — the pro
 > *“A promise to protect someone who had already been lost.”* — Elder, Desolate
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-525 [GS]` · Per classification origin · Per classification coherence · Per classification potency · Grudge · Subject-Body manifestation
+**Classification:** Sorrow Entity — `N-IVδ-525 [GS]` · Inner Sorrow origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Subject-Body manifestation
 **Common Name:** Cenotaph
 **Containment Status:** Contained — Zone D, Echo Gardens
 **Comprehension Level:** 2 — Basic

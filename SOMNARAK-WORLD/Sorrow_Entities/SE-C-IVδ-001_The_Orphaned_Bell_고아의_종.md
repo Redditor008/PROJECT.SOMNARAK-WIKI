@@ -243,16 +243,19 @@ The alloy is cut with crystal taken from the bell's rim, and the blade keeps the
 **Target Coverage:** Linear corridor; up to 3 targets linked by grief or active Lament
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Direct Lament trauma to Mind and emotional stability; applies Toll Resonance tick damage.
+**Recovery:** One full breath between completed swings.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Tollcut channels The Orphaned Bell's lament signature, causing soundless shockwaves that shatter the composure of connected targets.
+**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Tollcut channels The Orphaned Bell's lament signature, causing soundless shockwaves that shatter the composure of connected targets. The pattern needs a mark: the primary target must carry a recent loss, a spoken name, or active Lament pressure, and a target without an active grief link takes only the blade's lower value and produces no name-record at all.
 
-**Cost:** The wielder feels the entity's unwept grief; three consecutive swings blur one personal childhood memory until written down or spoken aloud.
+**Cost:** The wielder feels the entity's unwept grief; three consecutive swings blur one personal childhood memory until written down or spoken aloud. The blade is extracted only after an approved Named Vigil — the bearer carries a documented name through one complete toll sequence and does not try to stop the sound — and afterwards the Bell does not weaken visibly while the person who stood the vigil does. A bearer who turns the blade on a memory, on a witness, or on somebody for mourning hears the Bell without pause: the edge stays sharp and every strike is redirected inward as Lament pressure until the piece goes back to the tower.
 
 ### M.A.W. Suit — The Lament's Shroud
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
 **Appearance:** a wrapping shroud woven in the tower’s own Lament Han-silk — cool, faintly luminous, and holding the scent of the bell’s room in the weave however long it sits in stores.
+
+The Shroud is vigil-restricted issue for the same reason it is gifted: it is cut to hold a wearer's composure while the bell says names back at them, and its price is the one nobody reports — minor joys stop registering, without ever being filed as a loss. It is issued for a toll standing or a tower vigil and returned afterwards, and a Shroud on general issue is either a paperwork fault or a wearer who has not come back from the night.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -272,6 +275,8 @@ The alloy is cut with crystal taken from the bell's rim, and the blade keeps the
 
 **Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that turns cold in the hand whenever its source sorrow is sounding.
 
+Lament's Edge is a memory anchor for the Bell's named grief and never a purchased item: it turns up on a worker who has completed a full toll standing, and the armoury records four percent of such watches and no pattern in which four. On anybody who has not stood a toll the charm stays cold and does nothing except remind them of the one they did not.
+
 **Slot:** Tail
 **Acquisition Probability:** 4%
 **Effect:** +3 stat bonus while working the source holding, entered at issue against the wielder's name
@@ -286,14 +291,16 @@ The alloy is cut with crystal taken from the bell's rim, and the blade keeps the
 
 The set is drawn from the bell's crystal and the tower's corroded fittings, and every piece carries the same property in a different form: it delivers a loss the bearer cannot attribute. The cost is paid in the bearer's own memory of childhood, and the armoury's standing instruction is that anything beginning to blur should be written down or said aloud to another person the same day.
 
+The set's resonance is a vigil rather than a loadout: one bearer carrying all three pieces inside the tower, speaking a documented lost name, stabilises Lament damage and toll resistance for a single vigil cycle, and the Bell records that name without adding a new face that night. The bearer pays for it by dreaming the final search of the named parent and waking with the route memorised; run the vigil again and the route is kept at the cost of the bearer's own childhood, which blurs into the tower's. Nothing the set does separates the bell from its tower, and a plan that proposes moving one without the other is read as full provocation. When the piece goes back to the tower the inward redirection ends and the record closes; the memory cost stays where it was paid.
+
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder and piece; the day's reading at the tower; and a baseline written down and left in another worker's hands, because the cost that matters with this set is the one a bearer cannot report on themselves. |
+| **Before use** | Wielder and piece; the day's reading at the tower; and a baseline written down and left in another worker's hands, because the cost that matters with this set is the one a bearer cannot report on themselves. On an extraction, the approved Named Vigil and the documented name the bearer will carry through one complete toll sequence are entered before the attempt. |
 | **During use** | Charging shows in the bearer before anything else: the entity's unwept grief arrives ahead of whatever the piece is meant to give. The second worker logs it with the hour, and the bearer's own note goes in separately. |
 | **At limit** | The wearer becomes numb to minor joys, without remission, and on a The Orphaned Bell piece the use ends at that point whatever the wielder says about it. |
-| **After use** | Return the piece, then put the question to a colleague rather than to the bearer: the numbness this set deals is the one cost a person cannot see in themselves. |
+| **After use** | Return the piece, then put the question to a colleague rather than to the bearer: the numbness this set deals is the one cost a person cannot see in themselves. Where the piece was turned on a memory, a witness or somebody mourning, log the return to the tower, the hour the inward redirection ended, and every name the bearer recorded on the armoury's instruction. |
 
 **Stat interpretation:** The grade is a statement about force and says nothing about price. On this set the two run against each other often enough that the minor pieces are watched hardest — a low-rated item can take something no figure on the sheet accounts for.
 ## 관찰 기록 (Observation Log)

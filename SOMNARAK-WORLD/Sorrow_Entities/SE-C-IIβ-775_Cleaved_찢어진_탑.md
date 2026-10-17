@@ -196,6 +196,8 @@ Read the responses against the classification. Cleaved is a Subject with a Subje
 
 **Appearance:** a veil of Void Han-gossamer that casts no shadow of its own, shifts and breathes with the wearer, and reads as an absence of colour rather than as a colour. Tailors have twice refused to re-hem it; both refusals are in the requisition file.
 
+Its protection does not restore memories already lost. The issue account keeps the suspended tower’s event separate from the wearer’s biography; when that sorrow begins to feel like an unfinished intention of their own, the Veil’s absence has become more than a resistance rating. A second worker retains the account for comparison after the cloth is returned.
+
 **Resistances:**
 - Lament: 1.2 (Weak)
 - Grudge: 0.8 (Warded)
@@ -214,6 +216,8 @@ Read the responses against the classification. Cleaved is a Subject with a Subje
 
 **Appearance:** a keystone of Void Han-glass, colourless and cold on one face only, heavy out of all proportion to its size. Eleven were cut from the foundation stones of suspended works, and each carries its scheme number on the reverse.
 
+The Keystone lends structural knowledge without granting permission to finish the source design. Finding a weakness in a salvageable building and closing the suspended scheme are different acts. Its bearer feels the abandoned plans attached to what they inspect, so the recorded scheme number is a source reference rather than a new commission accepted by the person carrying it.
+
 **Slot:** Head
 **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat, and the wearer can hold two incompatible versions of a plan in mind at once without distress for about a day.
@@ -228,6 +232,10 @@ Read the responses against the classification. Cleaved is a Subject with a Subje
 
 A piece cut from Cleaved is not equipment turned against the holding; it is a part of the holding carried away, and it works by being what it is near. The toll is the drain the file already records — small nameless memories, and a wearer who grows faintly absent to themselves — and it is paid whether the use was correct or not. That is why the set is issued one rotation at a time.
 
+For issue, name Cleaved’s stopped tower project and accept the limit: document what was intended and lost without completing the structure. First-person ownership of the source event, then source responses repeating outside contact, precede the terminal condition in which the bearer becomes a new site for the manifestation. The second worker also watches for the wearer’s inability to answer for their own presence, independently of any claim about the source; neither warning is evidence of recovery.
+
+The set is *Cleaved — Witnessed Form*, and *Source Kept Distinct* requires attribution before an immediate hazard is opened. It cannot heal the originating event. The field record may close an exposure or return an item; it cannot close a works-register entry, release assigned crews or convert the nil return into cancellation.
+
 ### Field Use Record
 
 | Stage | Required record |
@@ -235,7 +243,7 @@ A piece cut from Cleaved is not equipment turned against the holding; it is a pa
 | **Before use** | Wielder, piece, and a sealed baseline taken by the second worker: the drain on file, the small nameless memories, and the first sentence with no first person in it. |
 | **During use** | The first sign is a name that will not come — the wearer reaches for a colleague's and gets the shape of the person instead. Timed by the second worker. |
 | **At limit** | The wearer stops noticing, which on this set is the limit rather than a settling-in; going faintly absent to oneself is what the stand-down order exists for. |
-| **After use** | Return the piece, open the sealed baseline, and read the two entries side by side. Where the drain outlasts the rotation, the piece is not reissued to that wielder, and the entry stands whether or not they agree. |
+| **After use** | Return the piece, open the sealed baseline, and read the two entries side by side. Where the drain outlasts the rotation, the piece is not reissued to that wielder, and the entry stands whether or not they agree. Record the bearer, trigger, source response, paid cost and unresolved detail before care. At emergency handover, a named witness states the source title and event while the bearer relinquishes the piece. This does not refund the drain. |
 
 **Stat interpretation:** The grade records how cleanly the archetype came off the foundation stone; it says nothing about how much of the wearer the piece will take. A β tool can perform to specification and still return a bearer who reaches for the word for a colleague and finds the shape of the person.
 ## 관찰 기록 (Observation Log)

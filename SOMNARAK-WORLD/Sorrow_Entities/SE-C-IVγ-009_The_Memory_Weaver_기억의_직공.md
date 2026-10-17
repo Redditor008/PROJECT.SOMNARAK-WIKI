@@ -198,6 +198,8 @@ Before anybody is posted to the library, the Work Types are read against the bre
 
 **Cost:** The wielder loses small, nameless memories with each use; excessive stitching causes personal childhood memories to blur.
 
+**Awl accountability:** The individual Weapon requires a documented personal memory anchor before deployment. Its warning is not merely that the cut costs recall: the implement cannot distinguish a false recollection from a painful true one without the bearer’s certainty. Record the selected thread and the action taken rather than accepting relief as proof that the choice was correct. Its return-of-memory account depends on recording and responsibility; that is not a guarantee that the primary’s blurred childhood memories return. Neither account permits an improvised trade or an overwhelming personal offer in place of the written authorization.
+
 ### M.A.W. Suit — The Forgotten Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
@@ -216,6 +218,8 @@ Before anybody is posted to the library, the Work Types are read against the bre
 
 **Cost:** What the wearer can report about the shift thins out. They are present, and other people remember them being there, but the version they give afterwards reads as second-hand — as if they had been told about the sitting rather than having worked it.
 
+**Veil position checks:** The Suit’s own limit requires verbal check-ins and written positions because allies can lose hold of the wearer in memory too. Keep the outside worker’s count beside the bearer’s account; a route entry reading “unconfirmed companion” is not evidence that the person stayed away. After removal, the item describes a need for direct reintroduction, while the primary records a thinning account of the shift. Note each independently. Neither friendly recognition nor the listed resistance replaces the scheduled inventory or proves that every taking has been detected.
+
 ### M.A.W. Stigma — The Forgotten Mask
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
@@ -229,6 +233,8 @@ Before anybody is posted to the library, the Work Types are read against the bre
 **Ability:** Makes the wearer invisible to memory-based attacks.
 
 **Cost:** The mask feeds on the memories it protects; the wearer slowly loses their own memories.
+
+**Mask life log:** The Stigma record requires a weekly written life log for active bearers and stores the charm face down on pale cloth. Its account puts unrecorded smells, routes, casual names and room shapes among the first losses; an unchanged mission objective does not establish an unchanged life. Keep that weekly record distinct from the annual baseline and the ninety-day repeat inventory. Protection consumes adjacent memory rather than restoring ownership of what the Weaver holds. Do not turn the item’s limited targeting defenses into a claim that the bearer is safe from all takings.
 
 *The Weaver's Stigma cannot be made to order and is never requisitioned. Seven people hold it; each refused an offer aloud, and each refusal is entered on the sheet with the terms that were offered.*
 
@@ -266,7 +272,7 @@ Everything issued here is a piece of something somebody else lost rather than or
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Confirm the holding through the Void signature, the visual marker the field notes describe, and the station's own position — SECTOR-B-02 in Zone B, the library of stolen pasts, contained — before any entry is written. Impressions are taken second; the three markers are taken first. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - Victims relive happy memories in loops while the Weaver feeds on identity. - It has never attacked without provocation or refusal of its offers. - It possesses memories of. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation** | A person caught in the webs relives a pleasant memory on a loop, reports no distress at any point, and cannot afterwards say how long it lasted. Observed durations run from four minutes to nine hours. It has never attacked except on provocation or on the refusal of an offer, and the record distinguishes the two: refusals produce webs, provocation produces webs, and nothing produces pursuit. It holds recollections of places, people and entities that appear in no surviving Archive record, and the Research wing's interest in that material is intense, documented, and the source of every disciplinary matter this holding has generated. |
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The entry records movement and stillness: what shifted, what held, and which detail the observer could not get onto the page. On this file the sheet is incomplete if it carries only the danger — what the holding preserves is somebody's sorrow, and the record has to name it as well as the risk. |
 

@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 16–22 per successful work cycle, read off the approach temperature at one and three metres and never off the warmth of the floor |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | A Subject, so all four Work Types stand open. Flerehan and Ferrehan bring the reading down, Viderehan holds it steady, and Pugnahan lifts it and is never worked here. Crews rotate at the clock. |
@@ -175,15 +175,22 @@ Burning Root is a Fragment (III) Subject of Major (γ) potency, Subject-Grudge m
 
 **Appearance:** a two-handed maul of Weight Han-steel, dull-finished, heavier than its size accounts for, that hums faintly once the haft has been warmed by a grip.
 
-**Damage:** Weight 7-12
+**Damage:** Weight 7–12
 **Speed:** 3 (Fast)
 **Range:** 3 (Medium)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
+**Attack Pattern:** Skewer
+**Target Coverage:** Up to 3 targets in line
+**Falloff Rule:** Primary 100% → first pierced 70% → second pierced 50%.
+**Recovery:** One measured breath and one true statement of present responsibility between attacks.
+
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Burning Root's weight signature in the strike.
 
 **Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+
+Binding asks the wielder to name a duty chosen and a duty inherited. Ledgerbreak exposes an inherited burden feeding present Weight pressure; it cannot erase a debt, absolve harm or damage freely chosen care. A false strike transfers the targeted obligation to the wielder. Continuous swinging bends the pierce line toward family members, including people outside the room. Three unresolved debt-line strikes carry severe corrosion risk, so a count of successful impacts is not evidence of a safe sequence.
 
 ### M.A.W. Suit — The Familiar Burden
 
@@ -203,6 +210,8 @@ Burning Root is a Fragment (III) Subject of Major (γ) potency, Subject-Grudge m
 
 **Cost:** The wearer begins to miss the burden when it is absent.
 
+The Familiar Burden binds without a family ledger; a written debt record closes the collar before deployment. Its protection depends on the wearer being able to state what the load is for. Three simultaneous recurring loads root the hem into the floor; a fourth makes the suit treat the wearer as structural support and resist removal. Relief at putting it on, calling rest abandonment and inventing further duties are warning signs, not devotion. At emergency release the temporary right-shoulder mission-knot is cut while the wearer says, “The work ended before I did.” Support the resulting lightness vertigo without putting the suit back on.
+
 ### M.A.W. Stigma — The Familiar Charm
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
@@ -211,11 +220,13 @@ Burning Root is a Fragment (III) Subject of Major (γ) potency, Subject-Grudge m
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 to the working stat while the source entity is on the other side of the wall
+**Effect:** +2 Resolve while working the source entity on the other side of the wall.
 
-**Ability:** Grants a minor boon tied to Burning Root's sorrow; the effect mirrors the entity's nature.
+**Ability:** Grants a minor boon tied to Burning Root's sorrow; the effect mirrors the entity's nature. The *Unentered Name* distinguishes the bearer from one inherited obligation for a work cycle: the name blurs in written accounts while the amount stays readable. A second Charm becomes inert ash.
 
 **Cost:** The bearer moves a little slower.
+
+Willingly signing another person’s obligation as proof of belonging completes the stamped root into a surname. In that corrupted state Resolve is granted only while the inherited demand is obeyed; the seal must be removed rather than counted as functioning protection. Removal requires the bearer to name a relationship that would survive without debt while a second person lifts the Charm. Direction is temporarily lost afterward, so the bearer is not sent home alone.
 
 *The Familiar Charm is neither made nor requisitioned. It has been conferred 7 times, each on a worker who finished a full cycle and then took rotation at the clock without needing to be asked twice.*
 
@@ -223,13 +234,15 @@ Burning Root is a Fragment (III) Subject of Major (γ) potency, Subject-Grudge m
 
 Each Root piece is an extension of the entity rather than ordinary equipment. Each performs as recorded and charges the same coin: attachment to what is being carried. The suit is the clearest case and the armoury issues it with the written warning that the wearer will want it back.
 
+The set is *Burden Is Not Blood*. Its resonance, *A Name After the Debt*, divides the roles: one bearer wears Charm and Burden while a second operator uses the Maul on a manifested debt line. Both state their names without title, balance or family obligation. Each temporarily loses a family-learned habit. Calling the burden “who we are” locks the mantle, heats the Charm and sends the next pierce along the operators’ bloodlines. This equipment distinction does not cancel a household’s legal debt, make the creditor’s undertakings travel with an assigned book or justify retaining the mantle after the task ends.
+
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Operator name, grade, current gauge, psychological assessment, equipment condition, mission objective, declared personal obligations, and confirmation that the operator is not from a Collector's Row household. |
 | **During use** | Activation time, approach temperature at one and three metres, rooting positions, new floor marks, direction against the debt map, and first cost paid. |
-| **At limit** | How long the piece was worn, how many activations, what shifted in the wearer, and the first sign that the operator is talking about an obligation as if it were a limb. |
+| **At limit** | How long the piece was worn, how many activations, what shifted in the wearer, and the first sign that the operator is talking about an obligation as if it were a limb. Count simultaneous recurring loads separately from activations; the third roots the hem and the fourth resists removal. Longing to keep the piece is an overload warning. |
 | **After use** | Where the piece was set down, who took it in, what the wearer is still carrying, the rest interval served, the floor marks photographed into the plan, and the reissue ruling. |
 
 **Stat interpretation:** The grade describes the effect on entities, not the cost to the bearer, which is listed separately. The cost here is wanting the weight: the maul ages the wielder slightly and the suit makes absence feel like loss, and neither effect is reduced by a higher grade.

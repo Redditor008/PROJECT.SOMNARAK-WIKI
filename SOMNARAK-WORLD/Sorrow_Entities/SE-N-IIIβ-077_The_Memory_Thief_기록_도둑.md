@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-077 [VS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; particulars go missing across a corridor at once — names off badges people have worn for years, the route to a room they |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; particulars go missing across a corridor at once — names off badges people have worn for years, the route to a room they work in. |
 | **Coherence** | Fragment (III) — Curious and sneaky |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -40,7 +40,7 @@
 
 - It takes the particular and leaves the frame: you know you had a sister, you know you saw her face daily, and the face is gone. Of 318 confirmed losses only 31 were noticed by the person before the page was read back to them.
 - A worked cycle slows the rate and recovers nothing. Nineteen memories have come back in the whole record and all nineteen were traded for, not worked for.
-- Three ignored conditions escalate it, and the escalation looks like a crew arguing about what happened an hour ago rather than like a event.
+- Three ignored conditions escalate it, and the escalation looks like a crew arguing about what happened an hour ago rather than like an event.
 - Notes are written in the room, sealed in the room, and compared at the desk. No report on this holding is ever written from recollection.
 - Extraction is authorised separately and never against a watch, and the extracting party files baseline pages like everybody else.
 
@@ -170,7 +170,7 @@ Read the Work Types for this file against the activation threshold and the kit c
 ### Escalation Notes
 
 - **Event type (non-breach):** Transformation in place. The Memory Thief alters what is around it at SECTOR-C-01, Collector's Row — contained and stays inside it; particulars go missing across a corridor at once — names off badges people have worn for years, the route to a room they work in.
-- **Containment priority:** Attend it. Put two observers in the room and the movement stops being a event; there is nothing to seal and nothing to subdue.
+- **Containment priority:** Attend it. Put two observers in the room and the movement stops being an event; there is nothing to seal and nothing to subdue.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% a turn while it is in an event state. It falls 10% for every memory an exchange recovers, which is the only downward movement recorded, and the exchanges that worked were all conducted by the person who had lost the memory.
 
 ## M.A.W. Equipment
@@ -181,7 +181,7 @@ Read the Work Types for this file against the activation threshold and the kit c
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-Appearance : A six-barreled revolving pepperbox pistol forged from gunmetal and stained walnut, featuring fluted rotating barrels, a ring trigger, and an enclosed underhammer percussion mechanism.
+**Appearance:** A six-barreled revolving pepperbox pistol forged from gunmetal and stained walnut, featuring fluted rotating barrels, a ring trigger, and an enclosed underhammer percussion mechanism.
 
 The barrels rotate manually after each discharge, cycling paper cartridges packed with solidified shadow-powder. Firing produces muffled pops accompanied by expanding ink-black smoke that shrouds the firer's silhouette.
 
@@ -196,7 +196,7 @@ The barrels rotate manually after each discharge, cycling paper cartridges packe
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Memory Thief's void signature in the strike.
+**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Memory Thief's void signature in the strike. The shadow-powder shot disrupts one active label’s attachment to a route, ally or threat; it neither deletes an identity permanently nor restores a stolen memory.
 
 **Cost:** The bearer gives up small, nameless recollections with every use — the way to a room, a face from a season ago — and cannot feel them go.
 
@@ -205,6 +205,8 @@ The barrels rotate manually after each discharge, cycling paper cartridges packe
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
 **Appearance:** a flowing veil of Void Han-gossamer, near-translucent and all but colourless, that moves a half-breath behind the wearer and never quite matches them.
+
+A nominated partner must be able to name the wearer, locate them and order removal. *Named Thread* restores shared recognition when that partner calls name and task while touching the inner thread. Refusing the call leaves the concealment in place but returns all four resistances to 1.0 for the encounter. Two consecutive unacknowledged partner checks mark overload. A wearer who no longer recognises their own handwriting is removed from the Veil immediately.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -228,7 +230,7 @@ The barrels rotate manually after each discharge, cycling paper cartridges packe
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus while working the source holding, entered at issue and withdrawn the day the bearer is no longer posted to the Row
 
-**Ability:** Makes the wearer nearly invisible and difficult to remember.
+**Ability:** Makes the wearer nearly invisible and difficult to remember. *Leave a Margin* requires a named return person and lasts for one passage. Attacking, giving a false name or changing that person without recording it ends the effect. Focused observation, physical restraint, cameras and an alert Memory Anchor user are not defeated. A second Cloak shuts inert; it does not deepen the concealment.
 
 **Cost:** Others forget that the wearer was present, even when no theft occurred.
 
@@ -237,6 +239,10 @@ The barrels rotate manually after each discharge, cycling paper cartridges packe
 ### M.A.W. Use Notes
 
 Nothing from this kit is ordinary equipment; it works by belonging, in part, to what it is carried near. The toll is the one already on the sheet — small, nameless memories gone with each use — and it is charged whether the use was right or wrong, which is the part every new bearer argues with.
+
+*Borrowed Absence* requires an accountable return. Keep the Cloak’s return note with its named recipient, who reads the last confirmed action and unfastens the clasp. Leave it beside the completed note for one hour and archive that note. This is not the infirmary baseline page destroyed unread on departure from the posting. An equipment log preserves a fact; it cannot restore the feeling attached to a recollection lost in use.
+
+Lay the Veil flat with its inner thread loose. At shift start, thread one freely chosen preference through the collar; the partner reads it back and removes it at close. For emergency shutdown, that partner tears the current strip, calls the wearer’s name twice and covers the collar with a grounding scarf. Cutting the gossamer leaves concealing fragments, not a clean release.
 
 ### Field Use Record
 
@@ -442,7 +448,7 @@ The wing has written the obvious conclusion down once and declined to build anyt
 - **Field detail:** Void is its element and Collector's Row in SECTOR-C-01 is its registered ground — contained, and counted twice a shift because small things go missing.
 - **Recognition detail:** Small, fast, faceless, visible only at the edge of sight, cold and ash-smelling, and gone the moment you look straight at it.
 - **Record detail:** Other holdings in this archive remove or withhold things. This one takes property — memory is property here, with a published price — and the injury it causes is fully recognised, correctly valued and worth almost nothing. Confirm the designation N-IIIβ-077 before reading any of this across to an entity that erases rather than takes.
-- **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Two observers hold peripheral fixes while the sealed page comparison establishes losses afterwards. Neither a flat gauge nor a watch remembered as uneventful replaces that comparison. The pages belong to the Wardens whose particulars they hold; their witnessed destruction on departure does not erase a loss already confirmed in the compensation ledger.
 ## Document Information
 
 **Document ID:** SE-N-IIIβ-077

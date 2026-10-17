@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 16–22 per successful work cycle, counted from the mark-line readings rather than from the ledger's own totals |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Viderehan and Ferrehan only, this being a Place. Ferrehan is the sole approach that lowers the gauge; the dimensional check against the fixed marks is taken before and after every cycle without exception. |
@@ -216,6 +216,8 @@ Escalation here is length. Record the trigger where one is identifiable, the mar
 
 **Appearance:** a shield-backed harness of Weight Han-steel, matte and unnaturally heavy, that tightens near its source element.
 
+The broad backplate records each absorbed Weight impact as a ledger mark readable from behind. *Discharge Route* releases one stored mark only when a debt custodian confirms a support or review action. Concealing the stored load closes the backplate and drops protection to normal. An undischarged harness can become too heavy to wear; a fully black plate is sealed, not covered over and reissued.
+
 **Resistances:**
 - Lament: 1 (Normal)
 - Grudge: 1 (Normal)
@@ -235,11 +237,13 @@ Escalation here is length. Record the trigger where one is identifiable, the mar
 
 **Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, warm to the touch.
 
+The block-shaped charm lights toward the obligation closing a current route, not toward a debtor to blame. A persistent glow after action means the review was performative. If it points at everybody at once, the bearer’s anger has entered the reading and it must be set down. Only one Charm is worn.
+
 **Slot:** Head
 **Acquisition Probability:** 4%
 **Effect:** +2 stat bonus when working the source entity
 
-**Ability:** Grants a minor boon tied to Owed's sorrow; the effect mirrors the entity's nature.
+**Ability:** *Open Review* — with a custodian present and the affected person’s support, reveals the first review or support action that can keep an obligation block from closing a route. It cannot forgive debt, set a judgement or bypass consent.
 
 **Cost:** The bearer moves a little slower.
 
@@ -248,6 +252,10 @@ Escalation here is length. Record the trigger where one is identifiable, the mar
 ### M.A.W. Use Notes
 
 Each Sarcophagus piece extends the holding rather than ranking as equipment. It performs as recorded while the bearer works at a marked course and costs more at an unmarked one, the load varying with depth in the structure. The Shard goes out once a work cycle has closed; it is not manufactured, requested or scheduled.
+
+*Measured Burden* keeps the block, context and route response together. Review every stored backplate mark with the custodian before discharge; the custodian opens the latch during shutdown. Cutting the harness sends stored Weight into the bearer’s next route. For the Shard, record the dispute and response, then cover the block face. Shattering it makes nearby obligations feel physically immediate. Store it beside completed route records, never in a collection file.
+
+An equipment review does not lift the prohibition order over the highway or make the diversion permanent. The measurement sheet still needs the municipal officer’s countersignature where access changed. An illuminated block is not compensation for a household, and a completed equipment return cannot stand in for the unlaid dedication scheme.
 
 ### Field Use Record
 

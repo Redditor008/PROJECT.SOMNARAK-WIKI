@@ -177,11 +177,14 @@ Appearance : A five-foot greatsword whose ricasso, crossguard, and pommel are ti
 
 Swinging the claymore produces no wind-whistle or acoustic disturbance. Cleaving impacts are deadened into absolute silence, allowing the wielder to execute devastating strikes unnoticed.
 
-**Damage:** Lament 10-15
+**Damage:** Lament 10–15
 **Speed:** 3 (Fast)
 **Range:** 3 (Medium)
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
+
+**Attack Pattern:** Skewer
+**Target Coverage:** Up to three linked targets — the cut travels along the link the coercion used, so the coverage follows the bond and not the room.
 
 **Ability:** Lament damage to the mind rather than the body — it goes for composure and for the will to keep something in. The claymore carries the entity's quiet into the blow, and what it opens comes out as speech the target did not intend.
 
@@ -192,6 +195,8 @@ Swinging the claymore produces no wind-whistle or acoustic disturbance. Cleaving
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
 **Appearance:** a Lament Han-silk shroud, cool to the hand and faintly luminous, that carries the smell of a room where something was almost said — wearers report the scent strengthening in the Mask Market's outer corridors and thinning once the chamber door closes.
+
+It is issued under the set's own condition rather than a procedure: a quiet belongs to the person holding it until they choose to give it away, and the armoury has the sentence written on the shroud's case. Worn by a worker who is cataloguing other people's silences, the identity line dims and the protection inverts — the cloth answers for the wearer instead of beside them. The check is whether the silence is still the wearer's, never why it is being kept; a yes closes the check, and a why ends the issue on the spot.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -211,6 +216,8 @@ Swinging the claymore produces no wind-whistle or acoustic disturbance. Cleaving
 
 **Appearance:** a lens-pendant of Lament Han-crystal, faintly luminous and cold, heavy in the palm beyond anything its size accounts for; the set's own note is that the weight is drawn from the unspoken things a bearer is carrying.
 
+The lens is not manufactured and cannot be requested: it condenses after an exchange that went both ways, and the armoury has never staged the giving. Its readings are entered as pressure — direction, intensity, duration — and never as paraphrase; a bearer who writes down what a silence would have said has the pendant taken back at the next rotation, because that sentence is the failure the piece exists to make impossible.
+
 **Slot:** Tail
 **Acquisition Probability:** 4%
 **Effect:** +3 to work against the entity itself, the largest bonus in this wing and useless beyond this chamber.
@@ -225,14 +232,18 @@ Swinging the claymore produces no wind-whistle or acoustic disturbance. Cleaving
 
 All three pieces are conditional extensions of the entity and not ordinary equipment; the condition on this set is reciprocity, and the file states it plainly because the set misleads. Offered to, rather than taken from, the claymore and the shroud hold to grade. Used to extract, the charge scales with what the bearer took, and the Armoury records both directions — this is the one file in the wing where the record says a piece knows the difference.
 
+Each piece keeps its own account. The claymore takes the unsaid thing the wielder brought in and returns it as speech they did not choose, and the involuntary weeping that follows a cycle is that debt arriving late and generally outside the chamber. The shroud spends the small pleasures first — the first mouthful of something hot, a joke landing — and the file's phrasing is that nothing is lost, the arrival simply stops. The lens spends rest: every silence begins to read as an unanswered question, which is why its bearers are the only workers in the wing who cannot sit in a quiet room.
+
+The set answers to one rule wherever it is used: a truth is named by its owner and never extracted from a bystander. The three failures follow from breaking it — a privacy attacked as though the quiet had been imposed, a confession pulled rather than offered, and a whole room's quiet classified as suppression — and each is entered against the wielder rather than the piece. A named witness can state the source, Silence We Forgot We Made, and the resolution while the wielder relinquishes the piece; the shutdown preserves the record and refunds none of the cost, and a lens that comes back carrying somebody else's words is not reissued.
+
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline laid down by a second person: what is the bearer still not saying, and to whom? The charge on this set presents late and outside the chamber, and the pre-check is a question about silence rather than a reading of health. |
-| **During use** | The toll shows up as weeping carried out of the chamber — involuntary, at intervals, generally not while anybody is watching — and each occurrence is timed from the second worker's log rather than from the bearer's account, which is taken afterwards. One is noted; a pattern across a shift ends the use. |
-| **At limit** | The limit is the flattening: the first mouthful of something hot, a joke landing — none of it arrives, and the bearer does not notice the absence until somebody else does. On a Forgotten Silence piece the use ends there whatever the bearer says. |
-| **After use** | Take the piece back and set the baseline against the person: has the flatness outlasted the rotation, and is the bearer still holding something they have not said? The answer is entered whether or not the bearer agrees, and where nothing has been said in either direction the piece is not reissued to them. |
+| **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline laid down by a second person: what is the bearer still not saying, and to whom? The charge on this set presents late and outside the chamber, and the pre-check is a question about silence rather than a reading of health. The bearer's own withheld thing is entered as the condition of issue, with the second person confirming on the record that nobody else in the party is being asked to name theirs. |
+| **During use** | The toll shows up as weeping carried out of the chamber — involuntary, at intervals, generally not while anybody is watching — and each occurrence is timed from the second worker's log rather than from the bearer's account, which is taken afterwards. One is noted; a pattern across a shift ends the use. The first sentence the bearer speaks without having chosen it, and the first silence they describe as though it were theirs to interpret, are both entered at the hour the second worker heard them. |
+| **At limit** | The limit is the flattening: the first mouthful of something hot, a joke landing — none of it arrives, and the bearer does not notice the absence until somebody else does. A lens-holder who begins paraphrasing other people's silences reaches the same limit by a different road, and both calls are taken by the second worker and stand against the bearer's. On a Forgotten Silence piece the use ends there whatever the bearer says. |
+| **After use** | Take the piece back and set the baseline against the person: has the flatness outlasted the rotation, and is the bearer still holding something they have not said? The sealed envelope is opened by the second person rather than the wielder. The answer is entered whether or not the bearer agrees, and where nothing has been said in either direction the piece is not reissued to them. |
 
 **Stat interpretation:** Performance and cost run on separate axes and do not correlate. δ measures what the silence can do to a team that arrives carrying things. It does not measure the lens, which costs almost nothing in Echoes and makes every unspoken thing in a room legible to the wearer, including the ones addressed to them.
 

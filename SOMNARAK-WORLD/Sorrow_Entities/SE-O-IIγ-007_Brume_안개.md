@@ -194,7 +194,7 @@ Expansion here is lateral and quiet. Record the bearing, the timed leading-edge 
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-Appearance : An elegant thirty-four inch arming sword featuring an open, sweeping bow-shaped crossguard, hollow ground double edges, and an azure enamel pommel depicting a clean horizon line.
+**Appearance:** An elegant thirty-four inch arming sword featuring an open, sweeping bow-shaped crossguard, hollow ground double edges, and an azure enamel pommel depicting a clean horizon line.
 
 The blade is lightweight and perfectly balanced three inches ahead of the guard. It responds with exceptional speed, allowing for effortless parries and swift counter-thrusts in open spaces.
 
@@ -217,7 +217,7 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a drifting veil of Void Han-gossamer, barely there and all but colourless, that goes cold wherever it touches skin.
+**Appearance:** a drifting veil of Void Han-gossamer, barely there and all but colourless, that goes cold wherever it touches skin. It folds down to a hand-sized bundle and lies loosely across shoulders and head, leaving the face visible. Dim points gather along its incomplete outline inside the bank; they help companions locate the wearer rather than conceal them. Keep that visible outline distinct from a surveyed position: the fabric is not a replacement for the route anchor.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -241,7 +241,7 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 **Acquisition Probability:** 4%
 **Effect:** +2 to the working stat while this piece's source entity is the subject of the cycle, and nothing on any other holding
 
-**Ability:** Creates a field of hope that counters despair-based effects.
+**Ability:** Creates a field of hope that counters despair-based effects. Its directional aid requires a real physical anchor; where none exists, the Lantern shows nothing. A next step toward rope, another person or an exit is not a promise of a safe journey home. The thumb-sized case has a dark frame and a small cord ring, with no opening for a wick; its bearer cannot supply a missing destination by tending it like an ordinary lamp.
 
 **Cost:** The flame draws from the user's own hope and dims as that hope is exhausted.
 
@@ -250,6 +250,10 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 ### M.A.W. Use Notes
 
 Extraction from a Place-manifestation is awkward and the wing has only ever managed it at the margin, taking from the edge of the bank rather than from its body, which is why this set is small and why all three pieces are about direction. The toll is paid in small pieces nobody misses one at a time — a route, a face, the name of a street — so the cumulative ledger governs issue here and the wielder's own account does not. No protocol produces a Stigma; it comes from the source or not at all.
+
+### Equipment Does Not Keep the Watch
+
+The Hope Veil's clearance for extended wear is not clearance for an extended exposure. Neither a visible outline nor a Lantern pointing onward can overrule the timekeeper outside the fog. That worker stays outside even when the equipped party reports a clear route and asks for another minute. Record the clock beside each activation, then take the returning bearer's estimate separately; do not make the two agree because the equipment appeared to work. The twice-in-one-shift stand-down still applies to equipped entrants. Its purpose is to remove the decision from the people whose desire to make it has already been thinned.
 
 ### Field Use Record
 

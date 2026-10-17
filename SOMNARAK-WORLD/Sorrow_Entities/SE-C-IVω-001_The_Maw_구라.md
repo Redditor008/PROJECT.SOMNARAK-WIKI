@@ -126,7 +126,21 @@
 | **Distinctive markers** | Historically, buildings whispered in a thousand overlapping voices; after the current-cycle release, the district is quiet. Warm tar beneath the district feels like living flesh. The perimeter expands by approximately 2.3 centimeters per year. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+### Appearance States
+
+The Tale records the citizens becoming the district, and the district remains the Place form described above. The Walking District is the event form already recorded under Expansion Behavior. The two descriptions belong to different modes of the same sorrow, not to two bodies that must be made identical. Neither passage supplies a separate origin for the thousand. The Registry holds the event designation in reserve: the table describes that registered event mode, not a witnessed current walking state.
+
+| Field | District — Place form | Walking District — event form |
+|---|---|---|
+| Mode of presence | Place-Tale, registered as `[GP]`; the streets and their foundations are the entity. | Subject-Tale, registered as `[GS]`; the district becomes a moving being. |
+| Form | Buildings lean inward, walls curve toward voices, and the soft ground remains beneath the streets. | The whispering walls detach and the soft ground lifts; the thousand voices gather into the massive walking figure. Its substance is the district itself. |
+| Movement | Stationary as a location; expansion is recorded at the perimeter. | Mobile through the city after the Place-to-Subject change. |
+| Measurement | The existing marker chart and the position of the district's buildings. | The position of the detached walls and lifted ground relative to the former perimeter, with any movement distinguished from ordinary boundary expansion. |
+| Work / response | Viderehan and Ferrehan at the district; Taeho negotiates at the edge. | The primary's standing response is withdrawal, not a routine work session with the moving form. |
+| Continuity | The consumed citizens persist in the walls, foundations and Han, asking for acknowledgment. | The walls, ground and voices coalesce; the change of silhouette does not replace the citizens or the Cheongula with another origin. |
+| Transition | The expansion account places the change at the district's containment perimeter; the refusal account is retained in Combat Actions. | Return conditions are not established in this record; do not assume that the forms alternate freely. |
+
+**Appearance protocol:** Establish the mode before describing a body. For the district, record the marker positions, the lean of the buildings and the yielding ground; there is no separate creature standing inside the streets. The current-cycle silence is recorded as silence, not filled with voices remembered from earlier accounts. For the event form, distinguish walls detaching and ground lifting from a marker merely moving outward, and describe how that architecture occupies the walking figure. Use the former perimeter as the reference, so the report identifies what moved rather than substituting an imagined giant's anatomy. Keep the designation shift with the observation and the negotiation transcript with its date; a description of one mode does not cancel the record of the other.
 
 ## Origin
 - **Formation:** The Maw is the site of the Cheongula, the First Sorrow.
@@ -172,6 +186,10 @@ The Work Type table applies to a district and measures almost nothing. What the 
 | **Expansion Rate** | 2.3 centimeters per year, measured by Taeho. |
 | **Expansion Effect** | Adjacent buildings merge into the district; walls darken, curve, and begin whispering. Residents may be absorbed. |
 | **Containment** | No true containment is possible. Architects reinforce the perimeter while Taeho negotiates with the thousand. |
+
+**State change:** The Place-to-Subject event gathers the district into the Walking District: walls detach, the soft ground lifts, and the thousand voices coalesce into the moving form. This is the transition represented in Appearance States, not a new history replacing the district's formation.
+
+**Retained non-breach mechanic:** The thousand remain the conscious citizens of the consumed district, and their demand remains acknowledgment of the Cheongula. The moving walls and lifted ground retain that identity; the change is not permission to substitute an unrelated creature for the place. The primary's event response remains withdrawal.
 
 
 

@@ -61,7 +61,7 @@ Chatroom"*). It binds every report: units, batches, audits, closes, answers to q
 |---|---|---|
 | 1 | Verdict | Unit, hash, `PUSH VERIFIED` or `NOT PUSHED` |
 | 2 | Progress lead | Full-SE and Weapon-only percentages, then denominator-bearing remaining counts |
-| 3 | What changed | Two or three plain content sentences per dossier |
+| 3 | What changed | Two or three plain content sentences per dossier, then that dossier's commentary |
 | 4 | Table | Caption, one row per dossier, linked name, short change, checks, commit and push |
 | 5 | Links | One full `R-12` link per finished dossier, below the table |
 | 6 | Live counters | Separate Full-SE and Weapon-only totals, definitions, exclusions, then batch-local progress |
@@ -146,6 +146,59 @@ Never imply that a held disagreement is a defect finding, that an unreviewed dos
 previously reviewed Weapon pair was counted again. Generate each table's dossier link with
 `tools/ghlink.py --short --plain <path>`; keep the separate full `R-12` link below the table.
 
+## Amendment, 2026-10-15 — the report carries the reviewer's commentary
+
+**Stated by the archive owner, 2026-10-15:** *"In What Change In Chatroom Can You Add Commentary Section Of About
+What You Though About The Entity So I Can Read What OTHER-OTHER AI Though About IT Other Than The AI That Write
+The Entity."*
+
+Every dossier in this archive was written by an earlier session, and often by a different model. The agent
+reporting on it now is a later, separate reader. The owner wants that reader's actual opinion of the entity in the
+report, not only the list of what was edited on it. Block 3 therefore carries two halves: the content recap, then
+the commentary.
+
+21. **Every reported dossier carries a commentary.** After the content sentences for a dossier, the report adds
+    two to four plain sentences in the reporting agent's own voice: what this reader understands the entity to
+    be, what about it works, and what it finds thin, risky or unresolved. It is marked with the word
+    **Commentary** so it can never be mistaken for the record.
+
+The rules that keep a commentary honest:
+
+- It is **opinion, not evidence**. It never changes a dossier, never argues canon into place, and is never
+  counted as a check, a counter or a disposition.
+- It is **never a defect finding**. A held or unreviewed dossier is not made defective by a commentary
+  (point 20 binds it as well).
+- A canon conflict found while writing it is entered as a hold in the normal way, and the commentary points at
+  that hold; the commentary is not the hold.
+- Points 16–18 bind it: plain words, no tool names, no scores, no internal shorthand, no process talk.
+- It is **one per dossier**, in the unit report and again in the batch close. One paragraph covering a whole
+  batch is not a commentary.
+- If it would only repeat the content sentences, it is not written. Said in one line instead, or left out with
+  that said plainly — an empty sentence is worse than a shorter report.
+
+**What this changes in the fixed order.** Block 3 reads content first, commentary second, dossier by dossier. The
+Block 4 table is unchanged: a commentary never becomes a table column. A report shipped without its commentaries,
+or with them placed before the content, is rewritten in the same turn.
+
+## Amendment, 2026-10-16 — report reviewed dossiers even when nothing changes
+
+**Owner direction:** Include dossiers that need no change so the owner can see all five reviews in a batch. Write **No change** under What changed and still provide the individual Commentary. The decision must follow the file and its sources, not the agent's wish to edit it.
+
+22. **A completed review is reported whether or not it produces an edit.** Every completed dossier gets its own linked table row, content recap and separate **Commentary**. For an unchanged dossier, the **What changed** entry says exactly **No change**. Explain separately what was checked and why the existing file and sources support leaving it as written. Keep any unresolved disagreement explicit; no change does not mean every source agrees.
+
+- The five-dossier floor is five completed reviews, not five forced rewrites. Never add prose or alter canon just to make a review look productive.
+- Retain the complete primary, identity-resolved source and history review, validation and individual gate/push requirements. A no-change unit ships its evidence and disposition in the logs; it does not need an artificial primary-file edit.
+- Count an unchanged dossier only after that review is complete and shipped. Apply the independent counter rules: a previously counted exact Weapon pair still adds zero.
+- A five-dossier close shows all five reviewed dossiers, including unchanged ones, with one Commentary per dossier. In an open-batch report, distinguish completed reviews from pending units. **Pending** is not **No change**; do not invent a review or commentary for an unread file.
+
+This amendment extends points 16, 20 and 21 and clarifies `R-26`. It does not authorize closing below five, counting an unreviewed file, or repeating a previous review to pad a batch.
+
+## Amendment, 2026-10-16 — show the No change ladder decision
+
+**Owner clarification:** Five is the minimum, ten the ceiling. A batch with three or more completed No change SE–M.A.W. dossiers progresses **5 → 7 → 10**, per dossier rather than per matching field or pair.
+
+23. **Report the rung and its evidence.** At five and seven, state the completed batch's cumulative count of No change dossiers and the resulting progression under `R-26`. Three or more triggers the next rung within the same authorized batch, even when the dossiers are long or carry explicit source holds. Show every completed dossier and its individual Commentary; never present five as the automatic ceiling. Pending units are neither completed nor No change. If the required rung is unfinished, report OPEN, completed versus required counts, and the remaining units, not a smaller close.
+
 ## How it is checked
 
 
@@ -153,6 +206,7 @@ previously reviewed Weapon pair was counted again. Generate each table's dossier
 |---|---|
 | This rule read before the report is written | Every turn, at session open and before replying |
 | The 20 points walked once, top to bottom | Before sending any chatroom message |
+| The commentary half of Block 3 present, per dossier, headed **Commentary** | Before sending any chatroom message |
 | Counters re-measured, not remembered | `verify.py` · `tpl.py` · `sectfile.py` · `wikistd.py` · the couples planner |
 
 No tool can read a chatroom, so the check is the list above, applied by hand before sending. This rule
@@ -164,3 +218,9 @@ tools, and every counter quoted in a report is one that was measured in that sam
 Written during b62 (the fix phase), after u7 `a4c81d2` and the held Homecoming Tree unit `be95f5e`.
 Live counters at the moment of writing: couples **182 / 301** · residue-free dossiers **301 / 301** ·
 quote families **0 / 301** · `R-29` clauses **301 / 301**.
+
+## Amendment, 2026-10-18 — three separately named appearance counters
+
+The owner requires a new SE appearance-fix X/X, distinct from the older M.A.W. streams. In current progress leads and tables, use the explicit R-16 names: **ALL M.A.W. Types Appearance per SE — source-review coverage**, **ALL M.A.W.-W Appearance per SE — source-review coverage**, and **SE Appearance Fix — independent written-design pass**.
+
+This refines the older Full-SE/Weapon-only label wording above without rewriting historical reports. Keep all three denominators, percentages and remaining counts separate. State that inherited equipment coverage includes holds and is not completed artwork/redesign coverage. New SE appearance credit is never backfilled from old reviews or from a naming change. For an open batch, show the completed versus required rung and pending queue; never call a smaller open result a completed batch. R-31's per-dossier content, Commentary, linked table and full R-12 links still apply to completed new-pass units.

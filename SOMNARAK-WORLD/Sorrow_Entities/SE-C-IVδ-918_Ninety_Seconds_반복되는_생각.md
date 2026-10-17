@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Time-Mind |
-| **Physical Form** | Organic — A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever had — loops, and each iteration feels longer than the last. |
+| **Physical Form** | Non-physical — A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever had — loops, and each iteration feels longer than the last. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-918, contained |
 | **R.D. Comprehension Level** | 4 — Deep |
@@ -158,7 +158,7 @@ Ninety Seconds is a Time holding with Time-Mind manifestation and Void expressio
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** Extract the worker, not the interval: two people remove them from the marked radius immediately and without discussion. Use the agreed content-free exit question; do not argue about the thought.
 - **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment

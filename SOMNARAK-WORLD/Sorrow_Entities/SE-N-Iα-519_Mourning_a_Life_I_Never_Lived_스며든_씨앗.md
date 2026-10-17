@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle, drawn from the edge of the net rather than from the seed, and paid out of intentions the shift either finished or cancelled |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · α (Minor) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Do not plant; distinguish possibility from memory. Viderehan to show what was imagined, Ferrehan to accept that it never existed, and no third approach — nothing else has been authorised on this record and nothing else has been requested |
@@ -202,7 +202,7 @@ Escalation here is measured in centimetres of floor. The file's own log runs thi
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-Appearance : A seven-foot polearm featuring a wide, curving crescent blade with an upward hooked tip, mounted onto a varnished hickory shaft reinforced by twin steel langets.
+**Appearance:** A seven-foot polearm featuring a wide, curving crescent blade with an upward hooked tip, mounted onto a varnished hickory shaft reinforced by twin steel langets.
 
 The broad crescent blade performs sweeping horizontal cuts that reap through crowds of lesser sorrow thralls. Deep fuller furrows along the blade channel sorrow moisture safely away from the grip.
 
@@ -220,6 +220,8 @@ The broad crescent blade performs sweeping horizontal cuts that reap through cro
 **Ability:** Void damage to the soul rather than the body — to identity and to the sense of self. The glaive carries the holding's signature, which is grief with nothing underneath it, and what it opens in a target is doubt about whether a thing they clearly remember ever occurred.
 
 **Cost:** Small nameless memories with each use, and the losses go unnoticed by the wielder — which is why the usage log is countersigned, and why the countersignature is the only reliable entry in it.
+
+The glaive's identity wound and its wielder's memory loss are entered separately. A target doubting a clearly remembered event has suffered the effect described here; that doubt is not evidence that the event was imaginary. The counter-signing worker keeps the usage account because the wielder does not notice the small losses. Neither a confident account nor an unchanged recollection proves the cost absent. The original plan stays with the second worker, who can compare what was written with what the bearer can still recognise without supplying a replacement history. The sorrow of an unrealised life remains real even where no remembered event can be verified.
 
 ### M.A.W. Suit — The Empty Veil
 
@@ -239,6 +241,8 @@ The broad crescent blade performs sweeping horizontal cuts that reap through cro
 
 **Cost:** The wearer feels faintly absent to themselves and reports it most often as other people's greetings seeming to be meant for somebody else — a description the medical office has recorded verbatim from every wearer on this set.
 
+It is inspected with the present identity line traced first — confirmed warm, confirmed lived-in — before any of the imagined roots are examined, and roots found crossing toward the line are documented rather than pruned in anger, because this piece's work is distance and not denial. Its care record distinguishes three failures without ranking their severity: the present treated as a consolation prize, the lived life demoted to whatever remained after the good ones fell through; the imagined life adopted, the wearer moving into a root system that grew from nothing; and Void removing grief and possibility together, mourning and dreaming erased in one wipe that leaves neither loss nor hope.
+
 ### M.A.W. Stigma — The Empty Seed
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
@@ -247,17 +251,21 @@ The broad crescent blade performs sweeping horizontal cuts that reap through cro
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 to work against this entity, and nothing elsewhere in the Alpha Tree vault.
+**Effect:** +1 Composure, read in the vault as a flat +1 to work against this entity and nothing elsewhere in the Alpha Tree vault.
 
 **Ability:** Reveals whether a remembered possibility ever existed.
 
 **Cost:** The user loses one imagined future from memory.
+
+Each spent future is entered by its outline before use, so that what the audit costs is at least remembered as having been imaginable. Its failures: a possibility treated as worthless, the audit curdled into contempt for imagining anything at all; ambiguous evidence forced binary by a bearer who needs a verdict; and a lost future replaced immediately, the grief of the spent possibility papered over with a fresh fantasy before it can be felt.
 
 *Nobody manufactures the seed. It is given to a worker who looked at what was shown and said, plainly, that it had never existed; it has never been given to anyone who called it a loss.*
 
 ### M.A.W. Use Notes
 
 The three pieces are this holding in miniature: each shows a worker what they had been counting on and then takes the certainty that they were counting on it. The toll is entered against the wielder rather than against the piece, because a piece that passes to a second wearer with a clean cost history has simply not been carried long enough yet.
+
+The set is filed as **Possibility, Not Memory** and runs on the resonance **Grief Without False History**: the seed tests whether a possibility ever existed, the veil anchors the life actually being lived, and the recorded weapon purpose is to cut the claim that a possibility was a memory. That purpose is narrower than the issued glaive’s ability to put a remembered event in doubt; uncertainty caused by a strike is not verification of a false history. The grief itself remains legitimate throughout, and no piece in the set is authorised to rule on it. The echo forms only after one imagined future is acknowledged as unrealised without the grief being called false, and that attribution is the price of issue. The resolution on the file is *do not plant; distinguish possibility from memory*, and the failure it names is specific — planting the seed or fabricating proof turns imagined futures into Void growth, counted in centimetres against intentions spoken aloud.
 
 ### Field Use Record
 
@@ -266,7 +274,7 @@ The three pieces are this holding in miniature: each shows a worker what they ha
 | **Before use** | Wielder, piece, the day's reading, and a written baseline of the wielder's own plans for the month, held by somebody else and not shown to them — on this set the cost falls on the reliability of that list rather than on the memory of it. |
 | **During use** | Watch for the toll's first sign — the wielder losing small nameless memories without noticing — and enter the hour the second worker first sees it rather than the hour the wielder first mentions it, which on every record kept so far has been never. |
 | **At limit** | The wielder stops noticing the toll, and the report they write reads as the work of somebody slightly less present than the person who began the shift. Every stand-down on this set has been called by the second worker on that reading. |
-| **After use** | Return the piece and put the question to a colleague rather than to the wielder: is the absence still showing? The answer is entered whether or not the wielder agrees, and on this set the disagreement itself has been entered twice. |
+| **After use** | Return the piece and put the question to a colleague rather than to the wielder: is the absence still showing? The answer is entered whether or not the wielder agrees, and on this set the disagreement itself has been entered twice. The seed’s pre-use outline is retained as evidence of the future spent; the weapon’s memory loss is entered only to the extent the second worker can evidence it against the baseline. An unidentified loss stays unidentified rather than receiving an invented outline or borrowed content. |
 
 **Stat interpretation:** The grades describe extraction stability rather than human safety, and the gap between the two is unusually wide on this set. The glaive and the veil both perform as written. What the table cannot show is that the seed's bearers are the personnel most likely to withdraw long-standing applications and transfer requests, and that every one of them described the withdrawal as a relief.
 ## 관찰 기록 (Observation Log)

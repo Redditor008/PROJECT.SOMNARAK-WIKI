@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 20–28 per cycle, drawn through the Market floor with the traders working above it. The district takes a share, which is written into the Market's charter and is the only arrangement of its kind in the registry. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Stand on the crystal, read one entry from the buried record aloud, in trading hours, with people present. Viderehan and Ferrehan only. The roots are not disturbed and nothing is dug. |

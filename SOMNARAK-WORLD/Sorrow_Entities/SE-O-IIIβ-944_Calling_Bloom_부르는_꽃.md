@@ -196,6 +196,8 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 
 **Cost:** The wielder is visited, unbidden, by the faces of everyone they failed to comfort.
 
+**Vine attribution:** The Weapon record separates seeing the faces of people the wielder failed to comfort from claiming Nari’s disappearance as their own history. The latter is its first failure sign; a source response recurring outside contact is escalation. Retain bearer, trigger, response, cost and unresolved detail for attribution review before cleaning or rest. A witness naming the source event during relinquishment is not answering a voice from the trees. It supplies neither permission to pull the child into an embrace nor a resolution of the held reach and area-profile differences.
+
 ### M.A.W. Suit — The Petal Mantle
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
@@ -213,6 +215,8 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 
 **Cost:** The wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up.
 
+**Mantle return:** The individual Suit file warns that continued use makes the source sorrow feel autobiographical. Keep that warning beside the inability to end a conversation: the garment’s cost must not be mistaken for consent to stay another rotation. Attribution review precedes maintenance, and a named witness accompanies relinquishment without refunding the toll. The recorded endurance response is listening without answering; Lament resistance does not turn the mimicked voice into a safe conversation. The observer’s limit call still outranks the wearer’s wish to remain.
+
 ### M.A.W. Stigma — The Watcher's Petal
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
@@ -225,6 +229,8 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 **Ability:** A petal that twitches awake when a voice in the room is not the speaker's own — warning the bearer of lies, mimicry, and stolen words.
 
 **Cost:** The bearer sometimes feels watched from just above their own line of sight.
+
+**Petal review:** The Stigma’s warning of a stolen voice is not authentication of any voice it leaves unmarked. Its item record requires the bearer, trigger, response, cost and unresolved detail to be kept before cleaning or rest; first-person ownership of Nari’s event is a failure sign, not recovered testimony about Seojun. A named witness states the source title and event while the bearer relinquishes the Petal, with the cost left paid. Nothing in that procedure permits touching or sampling the crown bloom or entering the sealed garden to test the warning.
 
 *Stigmas come from Calling Bloom herself — granted at the close of a successful work, never manufactured.*
 

@@ -176,11 +176,15 @@ Appearance : A curved naval hanger with a twenty-eight inch single-edged blade, 
 
 Corroded as it looks, the edge is polished to a razor. The cutlass is built for close-quarters work, its basket turning enemy blows aside with ease.
 
-**Damage:** Void 7-12
+**Damage:** Void 7–12
 **Speed:** 3 (Fast)
 **Range:** 3 (Medium)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
+
+**Attack Pattern:** Skewer
+**Target Coverage:** A single line, resolved against each target the strike passes through in turn
+**Falloff Rule:** Full effect on the primary target, 70% on the first pierced target, 50% on the second
 
 **Ability:** Void damage to the soul. The blade carries the span's signature, and what it takes from a target is the recollection of a plan they abandoned at the drawing stage, which does not return.
 
@@ -191,6 +195,8 @@ Corroded as it looks, the edge is polished to a razor. The cutlass is built for 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
 **Appearance:** a plate of Void Han-glass the length of a forearm, near-translucent, that flexes slightly under load and stays cold in the hand.
+
+The span is worn at 35 Sorrow Echoes a deployment and its effect is the dreamed bridge briefly rebuilt underfoot, a path through space that is hostile to the bearer's side. The cost is communal: the wearer carries everyone who cannot follow, each crossing counted against those still on the far side. It is cleaned or rested only after an attribution review.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -210,6 +216,8 @@ Corroded as it looks, the edge is polished to a razor. The cutlass is built for 
 
 **Appearance:** a charm of Void Han-glass on a short wire, no larger than a thumbnail, that stays cold until its bearer comes near something they have given up on.
 
+It is a head-slot stigma, and what it shows is the failed crossing and the people left behind, the dream presented with its casualties in the same picture. Its cost is small and linguistic: the bearer occasionally forgets a word, so sentences lose planks mid-span. A named witness can end it by stating the source title and the event while the bearer relinquishes it.
+
 **Slot:** Head
 **Acquisition Probability:** 4%
 **Effect:** +2 to work against the Corrosion Dream itself, and nothing elsewhere in the Forge District.
@@ -222,16 +230,18 @@ Corroded as it looks, the edge is polished to a razor. The cutlass is built for 
 
 ### M.A.W. Use Notes
 
-Every piece of this set is a fragment of Corrosion Dream, and each takes the same three things in the same order: the names of places the bearer meant to go and never went, then the sense of everyone who cannot follow, then words — one here and there, never noticed at the time. The grade column measures extraction stability and says nothing about the cost column, which is the reason the pieces leave the rack one rotation at a time.
+Every piece of this set is a fragment of Corrosion Dream, and each carries its own charge rather than a share of one toll. The Cutlass takes the plans: the names of places the bearer meant to go and never went go first, as small nameless memories. The Span takes the company: the wearer feels everyone who cannot follow, every crossing counted against those still on the far side. The Charm takes the words: one here and there, never noticed at the time, so sentences lose planks mid-span. The grade column measures extraction stability and says nothing about the cost column, which is the reason the pieces leave the rack one rotation at a time.
+
+The set binds on the event rather than on the effort: the bearer names Corrosion Dream's event — a bridge collapsed and the surviving community dreamed of rebuilding it, and the dream rusted before completion — and accepts the limit that follows, which is to promise no reunion and to name both the crossing and the loss. A bearer who begins describing the event in the first person is showing the first failure sign; if the item then repeats the source response outside contact, the manifestation is using the bearer as its new site. A named witness can state the source title and the event while the bearer relinquishes the piece, which preserves the record and refunds none of the cost.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline taken against this set's known toll — the names of places the wielder intended to go and did not, written by the wielder and sealed by the second worker. The envelope is opened at the end of the rotation and not before, so that the comparison is against what was written and not against what is remembered. |
+| **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline taken against this set's known toll — the names of places the wielder intended to go and did not, written by the wielder and sealed by the second worker. The envelope is opened at the end of the rotation and not before, so that the comparison is against what was written and not against what is remembered. The bearer's one-sentence naming of the crossing and the loss is entered with the envelope, because that sentence is the condition the Stigma is issued under. |
 | **During use** | The first sign is a plan going quiet: the wielder stops mentioning a place they had meant to go, or answers a question about it with a shrug. The second worker logs the hour it is first seen, never the hour it is first mentioned, and never reads the entry back to the wielder during the rotation. |
 | **At limit** | The wearer has begun to feel everyone who cannot follow them — the ones left on the near bank, the ones who were not told, the ones still waiting — as a weight carried continuously rather than occasionally. The second worker calls the limit at that point and the call stands against the wielder's, which is the rule the set is issued under. |
-| **After use** | The piece is returned and a colleague is asked, not the wielder, whether the weight of the people who cannot follow is still showing; the colleague's answer is the record. The sealed envelope is opened at the end of the rotation, and where a name written in it has gone, the piece is not reissued to that wielder and the loss is entered against the holding. |
+| **After use** | The piece is returned and a colleague is asked, not the wielder, whether the weight of the people who cannot follow is still showing; the colleague's answer is the record. The sealed envelope is opened at the end of the rotation, and where a name written in it has gone, the piece is not reissued to that wielder and the loss is entered against the holding. The piece is cleaned or rested only after an attribution review, and a shutdown entered under a named witness preserves the record without refunding the cost. |
 
 **Stat interpretation:** The rating describes the effect on entities and says nothing about the price paid by the person holding the piece. All three pieces in this set are γ-grade and all three take the same kind of thing, in the same order, from every bearer — the names of places meant to be visited and never visited, the weight of everybody who cannot follow, and a word here and there. The cost therefore cannot be read off the grade and is not inversely proportional to it; authorise on the cost column, take the sealed baseline before the issue, and open the envelope after the return.
 

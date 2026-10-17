@@ -50,7 +50,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | Creeping on its roots; the trunk's advance is confirmed by resurveying the same fixed markers across cycles, not by a stationary-object assumption |
 | **Resistance** | 45 per cent against Grudge pressure and 35 against anything else, with the file's own note that nothing here is exchanged: the Tree does not duel, it creeps and it grows, and a party resists the pressure of ground going out from under them. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
@@ -217,7 +217,7 @@ The wielder's grip draws small drops of blood from the thorns, attuning the blad
 **Falloff Rule:** 100% at the point of entry, 70% through the second body and 50% through the third, as the alkaloid load carried on the blade is spent along the line.
 **Damage Application:** The laceration and the alkaloid resolve separately — the cut scored once, the burn scored again on each following interval against the same resistance. Bearers are rotated out of the district after three applications, because the charge from this set is the loss of a crossing and the bearer never notices which one.
 
-**Ability:** Raises a barrier nothing hostile can cross — grown along a line the bearer chooses, which is the holding's own gesture and never a neutral one.
+**Ability:** Raises a negotiated barrier against a defined hostile crossing while preserving an agreed passage for non-hostile people. The bearer, counterpart and oversight witness agree on whom it protects and how the barrier will be lowered. It cannot trap civilians or treat someone as hostile merely for coming from the other side. A unilateral crossing order binds the bearer to the same restriction rather than granting control of the line.
 
 **Cost:** The bearer cannot cross a boundary they have created: the tanto's line holds them on the far side of it, and the set's own note is that bearers learn this at the worst possible moment.
 

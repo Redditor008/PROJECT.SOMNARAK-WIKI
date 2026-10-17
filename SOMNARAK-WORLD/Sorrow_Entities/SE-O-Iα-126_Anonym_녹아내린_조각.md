@@ -172,7 +172,7 @@ Read the four rows above with the classification and the element in hand: the sa
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-Appearance : A heavy cast-iron hand-cannon with a ten-inch smoothbore barrel, whose exterior surfaces constantly exude a thin film of molten, cooling candle wax and congealed tallow.
+**Appearance:** A heavy cast-iron hand-cannon with a ten-inch smoothbore barrel, whose exterior surfaces constantly exude a thin film of molten, cooling candle wax and congealed tallow.
 
 The weapon fires solid balls of compressed, burning tallow that splatter across targets upon impact, adhering tenaciously and burning with stubborn white flame that resists water extinguishing.
 
@@ -197,6 +197,8 @@ The weapon fires solid balls of compressed, burning tallow that splatter across 
 
 **Appearance:** a veil of Void Han-gossamer, near-translucent and all but colourless, that lies close to the wearer's outline and keeps a little distance between it and the person inside.
 
+A clear collar line carries a witness-held thread, readable under the bearer’s chosen name. *Name Thread* requires that name, the current task and a freely chosen action; it supports one direct minor pressure sequence, not a permanent identity. A forced former name makes the cloth transparent and leaves the associated Void damage unreduced. The witness may end use without demanding the history of every name the wearer has used.
+
 **Resistances:**
 - Lament: 1.2 (Weak)
 - Grudge: 0.8 (Warded)
@@ -209,11 +211,15 @@ The weapon fires solid balls of compressed, burning tallow that splatter across 
 
 **Cost:** The veil protects the self by holding it slightly apart from the wearer. Nothing is lost and nothing hurts; wearers simply report watching themselves complete the shift, competently, from a short distance behind their own eyes.
 
+The bearer and witness review a dissolvable name strip beside a present self-chosen action, then remove the strip rather than entering it into general surveillance. An invisible collar thread is overload. For emergency removal the witness frees the thread, speaks the chosen name once and lays the Veil on neutral grounding cloth; cutting active fabric produces false reflections in nearby glass.
+
 ### M.A.W. Stigma — The Melting Reflection
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
 **Appearance:** a mirror-tile of Void Han-glass, near-translucent and without colour, that throws light back at an angle nothing in the room is standing at and shows the bearer a face they cannot place.
+
+Its warning concerns loss of self-recognition in another person, not the content of that person’s identity. Ordinary change is not an erosion finding. Before *See the Edge*, a witness confirms that support rather than interrogation is available; the sharpened pattern can inform grounding or withdrawal but cannot reveal a history or declare a “true” self.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -223,11 +229,15 @@ The weapon fires solid balls of compressed, burning tallow that splatter across 
 
 **Cost:** The wearer feels pity from every observer.
 
+A second Reflection adds layers of pity, not clearer data. Record the erosion pattern, available support and consent boundary with the witness; store the tile face-down in soft cloth instead of displaying it as a warning. For release the witness covers its face, names the support plan and removes it. Shattering the glass makes the surrounding pity arrive at once.
+
 *The Reflection is given, not taken. It has appeared only on workers who finished a cycle without once telling the Shard, or a colleague, what they were. No procedure has produced one deliberately.*
 
 ### M.A.W. Use Notes
 
 Each piece remains part of the Shard, and the set shares a property the grades do not record: every item works on the boundary between a person and themselves, and every item moves that boundary. The cannon takes memories too small to miss. The veil preserves the self by setting it at a distance. The Reflection detects erosion in others early enough to act on, which makes it the most genuinely useful instrument in the α catalogue, and charges for it by making the bearer visibly someone to be pitied. Operatives issued the Reflection for welfare duty report that it works exactly as described and that they stopped being asked how they were while wearing it. The source was a man who was refused until he could not recognise himself, and his equipment is correspondingly good at seeing that happen to other people and useless at seeing it happen to the person holding it.
+
+*Held Shape* carries the resonance *Named by Choice*. The bearer states a chosen present name, a change they accept and a relationship that recognises them without requiring a former self. Its short Void-resistant anchor is not authority to select somebody’s identity. The witness confirms the current choice again while the bearer carries the intensified pity; the set cannot amend a Register entry, restore a memory spent by the cannon or make the annual word-loss trend a recovery.
 
 ### Field Use Record
 
@@ -266,7 +276,7 @@ Each piece remains part of the Shard, and the set shares a property the grades d
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Anonym (O-Iα-126 [VS]) is a Subject-Mind manifestation expressing Void, present across the Zone E border region and perceived inside the personnel rather than held behind anything at all. It formed from a self-image worn through by refusals that were each individually correct, and it is measured on the people who work it. It formed from a self-image worn through by refusals that were individually correct, and it is measured on the people who work it.
+Anonym (O-Iα-126 [VS]) is a Subject-Mind manifestation expressing Void, present across the Zone E border region and perceived inside the personnel rather than held behind anything at all. It formed from a self-image worn through by refusals that were each individually correct, and it is measured on the people who work it. The watch records self-description before and after contact, files each observer’s account separately, and asks whether the worker still recognises the recorded life as their own. Accurate recollection alone does not answer that question.
 
 **Entry 2 — <Border Watch Report, Zone E>**
 Spreads through the consciousness of the watch rather than across the line. Subjects keep their memories and lose their confidence in them. It comes apart under certainty and holds together under patience, and the watch's naming practice — each worker using the other's name at intervals, aloud, for the whole shift — was devised on the line by the workers and adopted by the wing afterwards without amendment.
@@ -413,7 +423,7 @@ Three instructions. Read the sentence as written, including the parts the worker
 ### Registry Trivia
 
 - **Classification detail:** Anonym is a Subject with Residue (I) coherence and Minor (α) potency.
-- **Field detail:** Void is its element and the border post in Zone E is its registered ground — present in the personnel at the counter and held by nothing but names and anchors. |
+- **Field detail:** Void is its element and the border post in Zone E is its registered ground — present in the personnel at the counter and held by nothing but names and anchors.
 - **Recognition detail:** There are no physical markers to identify. Recognition is by circumstance: Zone E, a figure of pale fragments that assembles and slides apart under attention, perceived without being located, and a cold that is reported as bloodless rather than cold.
 - **Record detail:** The border region holds more than one Void residue formed from exclusion; confirm the designation O-Iα-126 and the Subject-Mind manifestation before applying this file to any of them.
 - **Containment detail:** No door contains this entity, because it was never on the other side of one — it is perceived inside the consciousness of border personnel, and the containment boundary runs through the staff rather than around a cell. What limits it is rotation, naming practice, and the self-description sheets. The facility's only barrier here is procedural, and it is honest to say so in the file rather than imply a seal that does not exist.

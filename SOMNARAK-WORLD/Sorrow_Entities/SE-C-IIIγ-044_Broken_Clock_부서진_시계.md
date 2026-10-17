@@ -235,6 +235,8 @@ The head mounts a 38cm anchor escapement wheel with four broken teeth that expos
 - *Active Special — "Desynchronized Stroke":* The wielder plants their back foot, raising the escapement wheel overhead as the balance wheel spins in reverse with a high-pitched metallic shriek. When slammed into the earth at Range 3, it detonates a 3-meter hemispherical temporal shockwave of Weight Han. Enemies caught in the blast are Staggered and suffer "Chrono-Stasis" (attack and movement animation speed reduced by 35% for 3 seconds).
 - *Cost & Drawback:* Resonant ticking vibrations travel up the shaft into the wielder's wrists; consecutive strikes cause temporary forearm numbness.
 
+**Attribution at issue:** The Cudgel’s individual record binds it to the district’s repeated acts and unresolved promises, not to the bearer’s personal history. Record who carried it, what triggered use, the source response, the cost and the unresolved detail before cleaning or rest. First-person accounts of the loop are a corrosion sign; a response recurring away from contact is escalation, not extra reach. A named witness states the source title and event as the bearer relinquishes the polearm. Shutdown does not refund its recorded cost or excuse a missed outside-clock acknowledgement.
+
 ### M.A.W. Suit — The Pendulum-Weighted Greatcoat
 
 **Category:** Protective Attire (Heavy Woolen Watchman's Coat & Suspended Lead Weights)
@@ -256,6 +258,8 @@ Eight cylindrical brass pendulum weights stamped with minute indices dangle alon
 
 **Cost:** The wearer carries a constant low physical fatigue from the coat's persistent inertial drag.
 
+**Watch discipline:** Grounding against recoil does not make the Greatcoat a clock. The outside worker still reads each interval and the wearer still answers it; apparent steadiness under the hem weights cannot stand in for that reply. The individual suit record treats the district’s history becoming autobiographical as its first corrosion sign and requires attribution review before care. A named witness states the event when the coat is relinquished. Fatigue and the inside-interval entry remain on the return record even when no displacement occurred.
+
 ### M.A.W. Stigma — The Frozen Escapement Wheel
 
 **Category:** Stigma (Ear / Temple Clockwork Shard)
@@ -274,6 +278,8 @@ The wheel’s sixteen micro-teeth are coated in delicate rime frost and turn exa
 **Cost:** The bearer occasionally experiences subjective tinnitus mimicking an irregular pocket-watch escapement.
 
 *The Frozen Escapement Wheel is neither issued nor asked for. It has been conferred 3 times, each on a Warden who broke off on a missed acknowledgement at a moment when they were certain they had answered.*
+
+**Independent timing:** The Wheel’s audible notch is not the outside clock and supplies no independent measure of the wearer’s exposure. Its individual record charges minutes of life and requires a witness to name the source event at shutdown; neither perceptual advantage nor a quiet gauge refunds that cost. Keep tinnitus, sequence errors, medical ageing and the inside-interval estimate as separate observations. The Wheel is embedded behind the ear, so the item record’s instruction to relinquish it is not a procedure for extracting it from the cranial bone.
 
 ### M.A.W. Use Notes
 
@@ -320,7 +326,7 @@ Every Escapement piece is the holding's condition carried in metal rather than o
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Broken Clock (C-IIIγ-044 [WO]) stands on the register as a Object-Weight manifestation expressing Weight. The Clock formed from the city's frustration with the repeating time loop of Year 4222–4223. Held at SECTOR-A-01, Alpha Tree deep storage — contained. The distortion field extends exactly seven meters.
+Broken Clock (C-IIIγ-044 [WO]) stands on the register as an Object-Weight manifestation expressing Weight. The Clock formed from the city's frustration with the repeating time loop of Year 4222–4223. Held at SECTOR-A-01, Alpha Tree deep storage — contained. The distortion field extends exactly seven meters.
 
 **Entry 2 — <The Hands>**
 Hands move forward, backward, or stop for unexplained intervals.

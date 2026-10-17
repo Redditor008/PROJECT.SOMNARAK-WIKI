@@ -191,6 +191,8 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 
 **Cost:** Old injuries ache and faint bruising rises along the lines of them. Nothing new is broken; the body simply reopens every complaint it had already settled, which is the pike's entire argument in miniature.
 
+**Binding and return:** The individual Weapon record requires the bearer to name the collapse that left residents exposed and accept the admission condition. A first-person account of that event is a corrosion sign, not authority to speak for the households. Record the trigger, response, cost and unresolved detail before attribution review and rest. At shutdown a named witness states Welcome Haven’s title and event while the bearer relinquishes the pike. Its capacity to dismantle a barricade never authorizes Pugnahan against this holding or makes a replacement wall a containment measure.
+
 ### M.A.W. Suit — The Broken Barrier
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
@@ -209,6 +211,8 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 
 **Cost:** The shield remembers every person it failed to protect.
 
+**Spent protection:** Enter whether the Barrier has already taken its one breach impact before issue; the resistance figures do not renew that absorption. The individual suit record calls for attribution review and witness-led relinquishment, but neither cleaning, rest nor shutdown clears the remembered failures or supplies a second impact. The wearer’s account becoming autobiographical is a separate corrosion sign from the plate’s memory. Keep both on the return sheet rather than interpreting a quiet bearer as a restored shield.
+
 ### M.A.W. Stigma — The Broken Charm
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
@@ -224,6 +228,8 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 **Cost:** The bearer's temper shortens.
 
 *The Broken Charm is given, not taken. It has appeared only on workers who stood before this entity unshielded and named a failure they were personally answerable for, and no procedure has produced one deliberately.*
+
+**Warning and custody:** A warning that a structure will fail is not an undertaking that another structure will hold. Keep the named failure and the bearer’s shortening temper on separate lines, with the affected households still distinguished as killed or displaced. The Charm’s individual record requires attribution review before rest and a named witness at relinquishment. That witness names the source event without promising protection or treating the bearer’s source-like account as their own history. The warning supplies no missing authority to make a personal admission on another officer’s behalf.
 
 ### M.A.W. Use Notes
 

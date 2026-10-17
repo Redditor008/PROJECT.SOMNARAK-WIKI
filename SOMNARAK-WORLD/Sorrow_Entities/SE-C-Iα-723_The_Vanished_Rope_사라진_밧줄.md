@@ -198,6 +198,8 @@ The lower chamber houses slow-smoldering cedar coals and powdered mourning herbs
 
 **Appearance:** a wrapping shroud of Lament Han-silk, cool to the touch and luminous faintly along the seams, carrying the cold-rain smell of the site wherever it is taken.
 
+The cloth settles only on a wearer who has stopped trying to pull somebody back: fitted to a bearer who means to haul, the seams open and the shroud goes slack until the intention is set down, which the armoury files as the piece rejecting rather than failing. Its recorded vigil is the Empty Tension, when a wearer stood a watch while a connection with no far end pulled at her, and the shroud carried the pull without letting it move her toward the vanishing point. It is rested only after a debrief in which the wearer says who is missing and does not say where they went.
+
 **Resistances:**
 - Lament: 0.4 (Resistant)
 - Grudge: 1 (Normal)
@@ -216,6 +218,8 @@ The lower chamber houses slow-smoldering cedar coals and powdered mourning herbs
 
 **Appearance:** a knot-charm of Lament Han-crystal, cold at the grip and faintly luminous, that goes colder still the closer it is carried to the site.
 
+It is a tail-slot charm and it cannot be asked for. The knot arrives at the end of a cycle in which the worker held the bond without pretending the far end was still occupied — the Last Knot bestowal, granted as a tied knot on a rope with nobody at the other side — and the armoury has never once seen it granted to a bearer who tied off safely. Carried, it stays warm with held attachment and never resolves into a grief the bearer can put down; a bearer who begins describing the severing in the first person has reached the first rung of the ladder and is taken off the piece at the next debrief.
+
 **Slot:** Tail
 **Acquisition Probability:** 5%
 **Effect:** +1 to work against the Vanished Rope itself, and nothing against the other rope-form records.
@@ -230,14 +234,18 @@ The lower chamber houses slow-smoldering cedar coals and powdered mourning herbs
 
 All three pieces reach only so far as the missing traveller has not been stood in for. An operator who never took the end can carry the censer and the shroud to grade and no further; one who has taken it finds the price climbing and the lament waking in them — which here means being tied to somebody whose name is gone. The knot is the exception in every respect, and that exception is all of what it is worth.
 
+The three charges are separate and none of them is shared. The censer takes the wielder's reticence and pays it back as weeping, most often while the vessel is being set down. The shroud takes the small pleasures, and the medical office's first wording for it is that other people's company stops registering. The knot takes no Echoes and all of the bearer's attention: what it costs is the ability to stop feeling other people's severed ties, which is precisely what it is for.
+
+The set binds on one sentence, in the form the armoury uses: hold the bond without dragging the vanished person back. A bearer who means to haul finds the piece will not take them — the shroud slackens at the shoulders, the knot cools in the hand — and the rejection reproduces the originating wound rather than warning about it, so a refusal is entered as an incident and not as a fault. The recorded incidents are the Reverse Haul, when the censer cut a compulsive pull instead of the bond; the Empty Tension vigil; and the Last Knot bestowal, and none of the three records what became of the missing end. The corrosion ladder is entered in order — attribution blurs, the pull reasserts as routine, the terminal state reenacts the original severing through the operator — and a named witness restates the resolution while the bearer relinquishes the piece voluntarily, which preserves the record and returns none of the cost. No piece in the set resolves the source alone.
+
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the reading taken that morning, and a dated note of who each member of the team is standing beside — the reach takes the newest person first, so the roster entry is the instrument on this set. |
-| **During use** | The first sign of charging is the wielder weeping while putting the censer down, and the hour entered is the one the second worker saw it rather than the one the wielder admitted it. The wielder's own account is taken separately and afterwards. |
-| **At limit** | Numbness to small pleasures without remission, reported first as other people's company not registering. On a piece from this set the use ends there whatever the wielder says, and the second worker's call stands. |
-| **After use** | Return the piece, compare against the morning reading, and record whether the numbness has lifted — on this set it has lifted in some cases and not in others, and the file keeps both columns. Where it has not, the piece is not reissued to that wielder. |
+| **Before use** | Wielder, piece, the reading taken that morning, and a dated note of who each member of the team is standing beside — the reach takes the newest person first, so the roster entry is the instrument on this set. Every person named in that note is entered as present company rather than as source grief, which is the distinction the rotation will spend its hours testing. |
+| **During use** | The first sign of charging is the wielder weeping while putting the censer down, and the hour entered is the one the second worker saw it rather than the one the wielder admitted it. The wielder's own account is taken separately and afterwards. Any hauling on the piece — a pull against a far end rather than a hold on it — is timed from the second worker's log, and the rotation ends at the second occurrence. |
+| **At limit** | Numbness to small pleasures without remission, reported first as other people's company not registering. On a piece from this set the use ends there whatever the wielder says, and the second worker's call stands. The shallower limit is the pull reasserting as routine: a bearer who begins describing the missing traveller's whereabouts or intentions has reached it, and that entry is logged as the first rung of the ladder rather than as a note. |
+| **After use** | Return the piece, compare against the morning reading, and record whether the numbness has lifted — on this set it has lifted in some cases and not in others, and the file keeps both columns. Where it has not, the piece is not reissued to that wielder. A shutdown under a named witness is entered with the resolution restated aloud, and the piece returns to the rack only once the debrief records who is missing and does not record where they went. |
 
 **Stat interpretation:** Field performance and human cost run on separate axes, and the separation is wide here. The censer and the shroud are both modest. What the grades cannot show is that the knot, which has no combat value, is worn by every worker on this roster who has since requested a transfer, and that none of them gave the entity as the reason.
 ## 관찰 기록 (Observation Log)

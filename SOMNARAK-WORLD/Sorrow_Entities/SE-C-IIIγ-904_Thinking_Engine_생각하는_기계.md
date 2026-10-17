@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Viderehan and Ferrehan only; the entity is an Object and the other two Work Types are unavailable to it. Work from the side of the housing, in pairs, and read the output tray before leaving the chamber. |
+| **Recommended response** | Viderehan and Ferrehan only; the entity is an Object and the other two Work Types are unavailable to it. Work from the side of the housing, in pairs, with the tray covered; the sheets are collected face-down and sealed at the door. |
 
 ### Operational Notes
 

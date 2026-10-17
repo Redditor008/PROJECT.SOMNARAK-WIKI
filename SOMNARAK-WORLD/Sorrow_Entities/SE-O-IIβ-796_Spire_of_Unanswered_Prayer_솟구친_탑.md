@@ -172,7 +172,7 @@ Spire of Unanswered Prayer is a Subject with Subject-Spirit manifestation and La
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-Appearance : A portable tier of four graduated bronze bells mounted on a curved wrought-iron stand with a central carrying handle, each bell tuned to a descending minor fourth harmonic.
+**Appearance:** A portable tier of four graduated bronze bells mounted on a curved wrought-iron stand with a central carrying handle, each bell tuned to a descending minor fourth harmonic.
 
 Ringing the bells in descending order unleashes an acoustic resonance wave that forces airborne sorrow entities downward, pinning them to the floor under simulated atmospheric pressure.
 
@@ -228,6 +228,12 @@ Ringing the bells in descending order unleashes an acoustic resonance wave that 
 ### M.A.W. Use Notes
 
 The set has no vessel to be cut from and is taken out of the song itself, which the armoury records as the reason all three pieces are quiet in use and loud afterwards. Every piece carries the same cost in a different form: the bearer begins to expect an answer. The Tear's recorded version is the plainest — its wearer hears the lost settlement while asleep — and issue is logged against the wearer's listening hours like any other exposure.
+
+### Binding and Return Care
+
+Name the settlement lost beneath the Han surge before taking up a Spire piece; the remembered event belongs to that community, not to its present listener. The binding limit remains to hear the song without silencing it. First-person accounts of the loss are a corrosion warning, not evidence that the bearer has recovered another verse. The set records a further risk of the source response recurring away from contact and, at its limit, taking the bearer as its site. Shelter from emotional weather does not make that claim safe.
+
+At return, enter the trigger, response, paid cost and anything still unresolved beside the piece and its bearer. Attribution review precedes cleaning or rest. If the bearer cannot relinquish the watch, a named witness identifies the Spire and the lost settlement while the piece is surrendered; this is an equipment shutdown, not permission to cut off the song. No paid cost is returned. Keep subsequent sleep reports with the listening record and its counsellor access, without treating them as measured vault hours. Equipment protection does not waive the person's four-hundred-hour career ceiling.
 
 ### Field Use Record
 

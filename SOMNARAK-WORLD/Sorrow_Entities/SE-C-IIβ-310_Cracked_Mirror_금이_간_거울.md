@@ -221,7 +221,11 @@ The escalation pattern here is not a containment event in the usual sense: nothi
 
 **Ability:** Deals Void damage against the Soul — identity, memory, the sense of self — and it declines to improve what it is pointed at, exactly as the source does.
 
+**Target limit:** The individual Weapon entry narrows the strike to one verified deception causing present harm. Privacy, uncertainty, courtesy and a protective social presentation are not targets. Its Single pattern applies the listed damage to that selected target only; it does not make a verdict about the whole person. Lower the Lens when the harmful claim stops. The Market incident identifies a forged safety claim, not the frightened seller repeating it, as the object of the strike.
+
 **Cost:** Small memories go with each use and none of them are the ones that mattered, which is what the ledger means by the unremarked kind.
+
+**Disc care:** Keep the contradiction beside its context when maintaining the Weapon Lens; its fracture clears only while the target remains narrower than the person. Withheld information becoming a target, one contradiction defining somebody, or the wielder’s certainty escaping their own scrutiny are the item’s distinct failure signs. None permits testing the disc against the source glass. The primary prohibition on using entity-derived material in a proceeding remains in force.
 
 ### M.A.W. Suit — The Truth Veil
 
@@ -241,6 +245,8 @@ The escalation pattern here is not a containment event in the usual sense: nothi
 
 **Cost:** The wearer's own account of themselves thins by a degree the armoury records as a reading, and the file treats the thinning as the toll rather than a symptom.
 
+**Panel care:** The Suit record binds through a partner naming context absent from the reflection. Maintenance pairs a truth with its limit, then asks the wearer for a current choice that shows change remains possible. Context used to deny accountability, panels no longer referring to the same person, and absence from every version are separate failures. End direct gaze before opening the current-choice seam. This item procedure supplies no content field to the holding’s operational record and no authority to interrogate the wearer.
+
 ### M.A.W. Stigma — The Truth Lens
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
@@ -254,6 +260,8 @@ The escalation pattern here is not a containment event in the usual sense: nothi
 **Ability:** Allows the wearer to see through lies and deception.
 
 **Cost:** The wearer cannot lie convincingly.
+
+**Pendant release:** The Stigma’s care entry separates a detected statement, evidence, uncertain intent and actual harm; unknown must remain a possible answer. Metaphor read as falsehood, disclosure used as punishment and compelled honesty are not stronger readings but failures. Stop questioning, leave direct-gaze range and permit silence without calling it deception. The pendant’s inability to make its bearer lie convincingly does not authorize making somebody else speak. Keep it distinct from the Weapon disc despite their shared Truth Lens name.
 
 *The Lens is not issued. It appears on a worker who has looked for a full session without turning away, and the file records that it has never appeared on anybody who asked for it in advance.*
 

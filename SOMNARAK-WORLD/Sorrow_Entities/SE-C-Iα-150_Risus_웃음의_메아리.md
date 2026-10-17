@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · α (Minor) — the Requiem, Shroud and Bell are all α, and the benefit holds only against this holding. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
 | **Recommended response** | On Risus: let the laughter and grief coexist; do not suppress the sound. The valid Work Types carry the cycle; the condition decides it. |
@@ -185,7 +185,9 @@ Escalation here is not a breach event and has no force in it: what spreads is th
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** a slender Han-crystal blade, cool and faintly luminous, that pulses in time with whatever the Echo is doing rather than with the wielder's hand.
+**Appearance:** A slender deep-blue Han-crystal blade, cool and faintly luminous, that pulses in time with whatever the Echo is doing rather than with the wielder's hand.
+
+A bright tonal shimmer lies across the flat and fades into sorrow as the hilt is gripped; the grip is short and cord-wrapped in blue, and the guard carries a tiny hollow that sounds a brief laugh-like chime before the edge releases its Lament line. The blade stays silent until the bearer names one present joy and one loss connected to it.
 
 **Damage:** Lament 3–6
 **Speed:** 2 (Normal)
@@ -206,7 +208,9 @@ Escalation here is not a breach event and has no force in it: what spreads is th
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Han-silk, cool and faintly luminous, cut long enough that a worker can sit in it and let the sound go around rather than through.
+**Appearance:** A wrapping shroud of deep-blue Han cloth, cool and faintly luminous, cut long enough that a worker can sit in it and let the sound go around rather than through.
+
+Small bell-like folds run the hem, each holding a slightly different curve; the lining stays cold while the folds take in a laugh, an exhale or a tear and give it back as a softer shared tone. The folds go quiet the moment the wearer performs happiness for an audience.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -224,7 +228,9 @@ Escalation here is not a breach event and has no force in it: what spreads is th
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a bell the size of a thumbnail, cut from Han-crystal, cool to the eye and warm in the palm, worn at the tail of a belt where anybody standing behind can hear it.
+**Appearance:** A deep-blue bell of Han metal, small enough to sit between two palms, cool to the eye and warm in the palm, worn at the tail of a belt.
+
+The surface is smooth and carries no visible clapper, and the bell stays silent unless two people hold it between them; it rings without vibration and opens a brief warmth for a few breaths. When the field ends the same warm metal turns cool as the closing memory arrives.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -238,16 +244,20 @@ Escalation here is not a breach event and has no force in it: what spreads is th
 
 ### M.A.W. Use Notes
 
-Each piece extends Risus rather than equipping anybody against it: the benefit holds only inside the pattern the file records, and outside it the toll — the wielder carries the Echo's unwept grief and weeps involuntarily, most often immediately after laughing — arrives early and does not reverse on return.
+Each piece extends Risus rather than equipping anybody against it: the benefit holds only inside the pattern the file records, and outside it the toll arrives early and does not reverse on return.
+
+The three tolls are separate tolls. The requiem leaves the wielder carrying the Echo's unwept grief and weeping involuntarily, most often immediately after laughing. The shroud numbs the wearer to minor joys, and reports it first as other people's jokes arriving as information. The bell's relief ends by replaying a memory of what has been lost, and that memory cannot be redirected toward a trivial absence.
+
+The set's price is remembrance, and its working rule is on the file: relief ends when the bearer meets the loss that made the joy worth having. Extraction is never taken through a recording device, and the bell is given to the worker who heard their own laugh in the loop and stayed in the room. After a shared relief interval each bearer hears one personal loss-memory and may not activate the set again until they have spoken it to a willing witness.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Name the wielder, the piece and the gauge at issue, and seal a baseline of what this person laughs at without meaning to; the toll on file is the weeping that follows laughter, and the baseline opens at the end of the rotation. |
+| **Before use** | Name the wielder, the piece and the gauge at issue, and seal a baseline of what this person laughs at without meaning to; the toll on file is the weeping that follows laughter, and the baseline opens at the end of the rotation. The bearer names a witness who can remind them that joy is not a betrayal of the loss, and that witness is the one who ends the use if relief has become avoidance. |
 | **During use** | Charging presents as the toll itself: weeping after laughing. The wielder's own account is taken separately and afterwards, by the second worker, and nobody asks what they heard in the loop. |
 | **At limit** | The wearer goes numb to small pleasures and reports it first as other people's jokes arriving as information — and then stops reporting it, which is the usual end point for a Risus piece. The observer calls the limit. |
-| **After use** | Return the piece and open the sealed baseline: if the numbness outlasted the rotation, the entry stands and the piece is not reissued to that wielder, whether or not they agree. |
+| **After use** | Return the piece and open the sealed baseline: if the numbness outlasted the rotation, the entry stands and the piece is not reissued to that wielder, whether or not they agree. For the bell, bearer and witness state what brought the relief and what the closing memory recalled before the piece is covered and put away. |
 
 **Stat interpretation:** The grades describe extraction stability and say nothing about what the piece does to the person carrying it; on this set both figures are marginal, and nothing on this post is settled by equipment. The table cannot show what the Keepers watch for: the bell rings faintly whenever its wearer laughs, anywhere in the facility, and most wearers stop within a month.
 ## 관찰 기록 (Observation Log)

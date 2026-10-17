@@ -213,6 +213,17 @@ Escalation on this record is counted in documents rather than in the room: the i
 
 **Appearance:** a lens-ground disc of Void Han-glass, colourless as the vault air and cold on both faces, flickering once each time the whisper crosses its field.
 
+The disc stays blank until a Gate whisper enters the room and then fractures the fragment into center, inner and outer dissipation zones — a target diagram for what must not be read. It is stored face-down in a sealed dissipation room for thirteen silent seconds, and an active disc is never covered by hand.
+
+**Damage:** Void 7–25
+**Speed:** 4 (Very Fast)
+**Range:** 4 (Long)
+**Max Amount:** 2
+**Cost:** 50 Sorrow Echoes
+**Attack Pattern:** AoE
+**Target Coverage:** Center, inner and outer dissipation zones around the discharge point
+**Falloff Rule:** Center 100% → inner 70% → outer 50%
+
 **Ability:** Void damage to the soul rather than the body — to what a target is and to the words they have for it. Ground from the Gate's own material, the lens opens in a target the sense that there is a word for their situation which they have never been told.
 
 **Cost:** Small nameless memories with each use, and the names of things more readily than the things. Wielders describe it as an outage of one word at a time, usually arriving in the middle of a sentence.
@@ -223,12 +234,17 @@ Escalation on this record is counted in documents rather than in the room: the i
 
 **Appearance:** a veil of Void Han-gossamer, colourless as the slab's outer face and carrying the vault's ash-smell faintly wherever it is taken.
 
+Thirteen pale seams run from collar to floor and darken one for each second of an active whisper, counting down the only protection the garment offers; at the final seam, protection ends regardless of readiness, and the next second delivers all it stored into the wearer. It is lifted by a timekeeper immediately after second thirteen, never by its wearer alone.
+
 **Resistances:**
 - Lament: 1.2 (Weak)
 - Grudge: 0.8 (Warded)
 - Void: 0.3 (Resistant)
 - Weight: 1.1 (Weak)
 **Ability:** Turns Void aside from the soul, which is the only pressure here. The veil is what allows a worker to stand at the frame long enough to take the inner temperature.
+
+**Max Amount:** 2
+**Cost:** 45 Sorrow Echoes
 
 **Cost:** The wearer feels faintly absent to themselves and afterwards describes their own reports as the work of somebody competent and unfamiliar — a cost that has never once been raised as a complaint, which the medical office finds more notable than the absence.
 
@@ -237,6 +253,11 @@ Escalation on this record is counted in documents rather than in the room: the i
 **Type:** Accessory (Stigma) | **Grade:** δ (Critical) | **Element:** Void
 
 **Appearance:** a small charm of Void Han-glass, colourless and warm at the grip, carrying a weight that does not match its size and does not change when it is set down.
+
+Thirteen blank notches are cut into its rim as a counting device for a window nobody should hold open. Its function is termination rather than decoding: it counts and closes one thirteen-second whisper window, and its cost is lexical, with words going missing around doors, locks and permission. Care records lost words as absences and keeps the charm isolated until every notch is blank.
+
+**Slot:** Neck
+**Acquisition Probability:** 4%
 
 **Effect:** +3 Composure during source work
 **Ability:** The charm keeps its bearer from being able to repeat the whispering. Bearers can hear it and cannot reproduce it, in speech or in writing, and this is the boon rather than a limitation of the item.
@@ -249,14 +270,18 @@ Escalation on this record is counted in documents rather than in the room: the i
 
 The three pieces extend the Gate only as far as the bearer's own discipline reaches. Measure temperatures and distances and the lens and the veil hold to grade; work the language and the cost scales until the Void in the bearer is active, which on this set means words going missing mid-sentence. The charm is the exception in every respect, and the exception is the whole of its value.
 
+None of the three is a key, and the set's rule is that the equipment is never to be interpreted as one. The Lens dissipates and does not reveal: it converts one quarantined whisper fragment into a controlled burst aimed away from all persons and the threshold, and its cost is subtraction — small nameless memories go with each discharge. The Veil is a clock rather than armour in the ordinary sense: each of its thirteen pale seams takes one second of identity pressure, and at the final seam protection ends, with the fourteenth second delivering everything the garment stored. The Charm ends the window instead of decoding it: it counts and closes one thirteen-second whisper, and its cost is lexical — ordinary words go missing, clustering around doors, locks and permission, which is also its first corrosion sign.
+
+Three conditions belong on the record with the issue. The Lens goes face-down in a sealed dissipation room for thirteen silent seconds and is never covered by hand while active; the Veil is lifted by a timekeeper immediately after second thirteen and never removed by its wearer alone; and the Charm stays isolated until all thirteen notches are blank, with lost words recorded as absences and never interpreted, because a missing word treated as an opening command is the failure this Gate is waiting for.
+
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Name the wielder and the piece, take the dated baseline, and set a naming task for the shift — the toll on this set falls on words, so a before-and-after naming test is the better instrument and the memory questionnaire is kept only for the archive's continuity. |
+| **Before use** | Name the wielder and the piece, take the dated baseline, and set a naming task for the shift — the toll on this set falls on words, so a before-and-after naming test is the better instrument and the memory questionnaire is kept only for the archive's continuity. The pre-contact identity statement is spoken aloud and an external timekeeper is named before the veil is worn, because the garment counts the seconds and the wearer will not. |
 | **During use** | The first sign is a word arriving late: the wielder's sentence stops and restarts. It is logged with the hour by the second worker, never by the wielder, because the wielder's own account is the one item this record does not accept. |
 | **At limit** | The wielder stops noticing the toll, and their reports begin reading as the work of somebody competent and unfamiliar. Every stand-down on this set has been called by the second worker on that sign, and none by the wielder. |
-| **After use** | Return the piece, re-take the naming baseline, and answer one question in writing: has the absence outlasted the rotation? The answer is entered whether or not the wielder agrees, and the charm's wearers are asked the same question a year later. |
+| **After use** | Return the piece, re-take the naming baseline, and answer one question in writing: has the absence outlasted the rotation? The answer is entered whether or not the wielder agrees, and the charm's wearers are asked the same question a year later. The veil's thirteen seams are counted under neutral light while a partner repeats the identity statement, and any seam that stays dark seals the unit from reuse; lost words are entered as absences and never interpreted. |
 
 **Stat interpretation:** Field performance and human cost are separate axes, and here the cost falls on the archive as much as on the worker. The grades do not show that four of the six people who have worn the charm later applied to have their own earlier notes destroyed, and that all four applications were granted.
 

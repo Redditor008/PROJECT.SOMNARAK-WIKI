@@ -227,6 +227,7 @@ VERIFIED LIVE
 - SVG design must derive from page content and title; icons/banners/backgrounds/profiles/silhouettes/diagrams/maps allowed.
 - Profiles do not require faces, but every visual must be identifiable to its subject.
 - Recoloring the same SVG does not count as personalization.
+- Subject designs must span at least Human, Monster, Animal and Abstract shapes across the collection; compare silhouettes, not only materials. Preserve canon under [`R-32`](REFERENCE_SOMNARAK_WIKI/RULES/R-32_SUBJECT_SHAPE_DIVERSITY.md).
 - Canonical top bar, homepage-derived left sidebar, and expanded bottom bar must match on every public page.
 - Shared chrome does not count as a page's personalized visual treatment.
 
@@ -386,3 +387,7 @@ Always Read The Rule Before Doing Anything."*
    around it are written so the owner can read them without decoding.
 8. **A failure is redone in the same turn.** A report that breaks `R-31` is rewritten before any further work
    starts, and the rewrite is recorded the way a gate refusal is recorded.
+9. **Each dossier carries a commentary.** After the content sentences for a dossier, the report states the
+   reporting agent's own short reading of the entity, marked **Commentary** — two to four plain sentences of
+   opinion. It is never evidence, never a defect finding, and never a substitute for a hold; a canon conflict
+   it notices is entered as a hold in the normal way.

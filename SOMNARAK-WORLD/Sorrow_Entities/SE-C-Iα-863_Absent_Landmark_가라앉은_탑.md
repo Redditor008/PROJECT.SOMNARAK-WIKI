@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · α (Minor) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
 | **Recommended response** | Record its former location; do not attempt to rebuild it around the entity. Nothing beyond that has ever lowered the gauge on Absent Landmark. |
@@ -93,9 +93,9 @@
 ### Consequences
 
 - A worker who loses their way inside the spread does not lose the building: they lose the turn at a corner they have taken for years. The loss is entered as an exposure against the holding and never as a fault against the person, and the route they drew before entry is what settles it.
-- Stay in the ring too long and the damage starts in the bearings: a worker's own routes stop answering, then the body's sense of level goes, then the ground around the junction.—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- The set is not carried for free: the sorrow goes back up the piece into the bearer, and the Armoury's ledger enters the cost against the bearer rather than the set.: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- A watch that fails to resolve does not close the incident: the claim widens toward the junction, and the crews' disagreement about where the tower stands settles into the record as fact.—manifesting through cell breach, territorial expansion, and rapid escalation.
+- Stay in the ring too long and the damage starts in the bearings: a worker’s own routes stop answering, then the body’s sense of level goes, then the ground around the junction ceases to be a reliable reference. Short-cycle briefings distinguish loss of direction from loss of balance and record both against exposure time, rather than waiting for a worker who cannot place themselves to decide they have stayed too long.
+- The set is not carried for free: sorrow flows back through the equipment to its bearer, and the Armoury records that price against the person rather than the set. Routes remembered without effort become uncertain; the observer keeps the paper route and the return drawing together, because a piece back on the rack does not mean the bearer has recovered the familiar street.
+- A watch that fails to resolve does not close the incident: the claim widens toward the junction, and crews disagree about where the tower stands. Each position is entered as that crew’s report, never made into a surveyed location by repetition. The old street remains the route to follow, and the corner is named there while the figure is allowed to sink without being driven down.
 
 ## Appearance
 **Primary Form:** A humanoid tower-shaped figure, half-submerged in the ground and surrounded by empty windows.
@@ -173,7 +173,7 @@
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-Appearance : A heavy, cast-bronze naval culverin dredged from flooded depths, featuring dark verdigris patina, reinforced reinforcing rings, a flared muzzle, and a handheld iron tiller grip.
+**Appearance:** A heavy, cast-bronze naval culverin dredged from flooded depths, featuring dark verdigris patina, thick reinforcing rings, a flared muzzle, and a handheld iron tiller grip.
 
 The bore discharges pressurized slugs of dense, compressed Void-water that disintegrate on impact with explosive sonic booms. Salt crust and wet silt continuously flake from the carriage during chamber venting.
 
@@ -230,14 +230,20 @@ The bore discharges pressurized slugs of dense, compressed Void-water that disin
 
 The three pieces are the Landmark in miniature, and they take the same faculty in the same order: the habitual route first, then the turn at the corner, then the certainty that a known street is known. Every charge is entered against the bearer and not the set — on this kit the set has already lost everything worth taking.
 
+*Absent Landmark — Witnessed Form* binds the bearer to the tower’s event: it collapsed and was cleared, but the district kept looking for its shape. Issue requires that attribution and the acceptance of a precise limit — record the former location without rebuilding around the entity. A map in another person’s hands remains necessary even when the Void resistance holds. Protection from the corner’s pressure does not preserve the unthinking turn the bearer is spending to stand there.
+
+Under *Source Kept Distinct*, the Window identifies the source condition, the Veil lets a witness remain before the absence, and the weapon discharges an immediate hazard. The originating event is not healed. Former occupants shown in a reading are testimony, not permission to construct rooms around the figure or to treat the vacant site as inhabited again. The head-slot Window shows removed space while charging its wearer the sight of memory in every empty room; remembering what occupied a room cannot establish that it is occupied now.
+
+A bearer beginning to tell the tower’s event as their own history has reached the first corrosion sign. The next is a piece repeating its source response away from contact; the last is the Landmark using the bearer as its new site. Breaching the recorded-location/no-rebuilding limit reverses the benefit and raises the Gauge. Maintenance follows attribution review, with bearer, trigger, response, cost and unresolved detail entered before cleaning or rest. Emergency relinquishment is witnessed by name: that witness states Absent Landmark and the collapse-and-clearance event as the piece leaves the bearer. The entry survives; the spent memories do not return with the equipment.
+
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's height reading, and a route drawn on paper by the wielder and held by somebody else. The toll on this set is a habit of navigation, so the benchmark is a route the wielder can still draw from memory without help. |
+| **Before use** | Wielder, piece, the day's height reading, and a route drawn on paper by the wielder and held by somebody else. The toll on this set is a habit of navigation, so the benchmark is a route the wielder can still draw from memory without help. Name the source event and former location before issue, without proposing a reconstructed tower as the remedy. |
 | **During use** | Watch for the first wrong turn rather than for a complaint: on this set the wielder quietly stops taking the short way through districts they know and does not notice doing it. The second worker logs the hour and the place, and the wielder's account is taken separately and afterwards so the two can be read against each other. |
 | **At limit** | The wearer asks for the map in a district they have lived in for years, or stands at a corner waiting to remember which way they usually go. The observer calls the limit at that request, and the piece comes off whether or not the wielder agrees. |
-| **After use** | Return the piece, have the route re-drawn, and re-assess a week later rather than on the day — the habits return slowly if they return at all, and the piece is not reissued to a wielder whose route does not come back. |
+| **After use** | Return the piece, have the route re-drawn, and re-assess a week later rather than on the day — the habits return slowly if they return at all, and the piece is not reissued to a wielder whose route does not come back. Record the named witness and attribution with the return; the week-later route check measures recovery rather than presuming a refund. |
 
 **Stat interpretation:** The grade says what a piece does to entities and nothing about what it takes from the person holding it. All three pieces in this set are α-grade and all three take the same kind of thing — the unthinking knowledge of a familiar route — so the cost here is not inversely proportional to anything and cannot be read off the rating. Authorise on the cost column, take the drawn route before the issue and after the return, and remember that a minor-grade piece issued to a worker who has lived in the district all their life is not a minor issue.
 ## 관찰 기록 (Observation Log)

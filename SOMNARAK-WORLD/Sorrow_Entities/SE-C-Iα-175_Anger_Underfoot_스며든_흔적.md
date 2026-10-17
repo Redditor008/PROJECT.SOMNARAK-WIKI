@@ -202,6 +202,8 @@ Nothing escalates on the cobbles. The trace has advanced for a hundred and ten y
 
 **Cost:** Old wounds ache and faint bruising appears where the wielder was injured years before. It fades in a week. Two wielders have asked in writing that the effect be left alone.
 
+**Binding check:** The Fang’s individual record requires the bearer to name the conflict route and accept “Map the trace and stop repeating the grievance.” It records first-person identification with that history as the first failure sign, not as improved attribution. Record the wielder, trigger, source response, cost and unresolved detail before cleaning or resting the blade. A named witness states the source title and event while the wielder relinquishes it; that shutdown does not refund the old pain. These item controls do not make Pugnahan valid against the Place.
+
 ### M.A.W. Suit — The Trace Plate
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
@@ -220,6 +222,8 @@ Nothing escalates on the cobbles. The trace has advanced for a hundred and ten y
 
 **Cost:** Dulled reflexes for about two days, which the medical wing has measured and found to be real and modest. Wearers describe it as the slowness of having already decided not to react.
 
+**Attribution review:** The Plate’s individual record distinguishes protection of the Body from accepting the source event as the wearer’s own. Describing the feud in first person is its warning sign; repeating the source response away from contact is its recorded escalation. Cleaning or rest follows attribution review, not merely the end of the circuit. For removal, a named witness states Anger Underfoot’s title and formation event while the wearer relinquishes the Plate. The item record does not promise that removal cancels the measured reflex cost.
+
 ### M.A.W. Stigma — The Trace Mark
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
@@ -235,6 +239,8 @@ Nothing escalates on the cobbles. The trace has advanced for a hundred and ten y
 **Cost:** The bearer carries the anger of everyone who walked the route, with no sense of what any of it was about. It lifts when the token comes off and three bearers have said the lifting is worse than the carrying.
 
 *The mark has been granted 5 times, every one of them to a worker who put their own name to an answer they could have sent out under a department's. 2 of them were told by their supervisors that they had exposed themselves for nothing, and both agreed, and both went and did it again. The holding writes the pattern down and will not turn it into a criterion.*
+
+**Borrowed-history limit:** The Mark’s individual record requires the same named source and mapping limit as the other pieces. A bearer who begins narrating the feud as personal history has reached its first warning, even if the route reading remains useful. Keep the source response, carrying cost and unresolved detail with the bearer’s record. A named witness states the title and event while the token is relinquished. The recorded source-history risk is distinct from the primary account’s immediate lifting of borrowed anger when the token comes off; neither supplies missing faces or names.
 
 ### M.A.W. Use Notes
 
@@ -305,7 +311,7 @@ The ground is the chalk. That tranche moved the edge ninety-four centimetres —
 
 > The cycle closes on one decision, and the file keeps its two endings on it: walk the 12 stations the way the sheet has them, or finish the argument you were already carrying.
 
-| Keep the circuit unbroken and the Rule of the Named Respondent enforced, as written, without improvising. |
+| Keep the circuit unbroken and the Rule of the Named Respondent enforced, as written, without improvising. | finish the argument you were already carrying. |
 |---|---|
 | The worker walks all twelve stations alone, silent, carrying nothing of their own onto the route. The gauge falls, the trace thins under the observation, and the circuit stands. | The worker finishes an argument on the route. They are almost always right about the argument. The gauge climbs, the trace thickens where it was conducted, and the circuit is void. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

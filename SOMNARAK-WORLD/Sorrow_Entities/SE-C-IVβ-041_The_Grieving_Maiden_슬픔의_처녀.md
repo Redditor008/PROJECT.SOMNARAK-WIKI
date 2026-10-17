@@ -197,6 +197,8 @@ The table is one input among many, and on this file the code and the coherence l
 
 **Cost:** The bearer takes on the grief she has not yet wept and weeps without being able to place why; prolonged use makes the weeping ordinary. Unlike hers, this charge does end — the file records it reversing on the return, which is the one asymmetry between the piece and the woman.
 
+**Requiem return check:** The individual Weapon records a bearer crying after a full strike until someone stays nearby without trying to stop it. Keep that account beside the primary’s return-of-piece reversal rather than treating either as a promise of immediate recovery. Record the bearer’s unexplained weeping separately from the loss named in the chamber. A cold blade or a display of sadness is not authority to demand another person’s grief. Carry it in the pale cloth the item specifies; no inspection requires drawing anything from the Maiden’s body.
+
 ### M.A.W. Suit — The Tear Shroud
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
@@ -215,6 +217,8 @@ The table is one input among many, and on this file the code and the coherence l
 
 **Cost:** Minor joys go flat in the wearer, and the onset is not announced: the second worker checks at the return of the piece, because the bearer is the last to notice an absence.
 
+**Shroud rest:** Air the Shroud after the vigil and note the darker hem patches described in its item record. Their fading follows the wearer’s quiet rest, not an instruction to stop grieving. The medic’s nineteen-day inability to laugh is a recorded case, not a recovery deadline for the next wearer. At return, the second worker checks the loss of minor joys even if the bearer calls relief disloyalty. Neither resistance nor a cloth inspection extends the timed rotation, changes sister-distance or makes silence a sufficient discharge record.
+
 ### M.A.W. Stigma — The Tear Veil
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
@@ -228,6 +232,8 @@ The table is one input among many, and on this file the code and the coherence l
 **Ability:** Absorbs sorrow and protects the wearer from emotional damage.
 
 **Cost:** The veil weeps constantly, keeping the wearer's face wet and grief visible.
+
+**Veil consent:** The Stigma’s individual limit requires the grieving person to be present and open to the connection. Tears on the bearer show a cost; they do not establish that the other person consented or that their loss is now resolved. Its account allows grief to be spoken, written or shared, without making any one route compulsory. Do not ask for the child’s name merely to dry the bearer’s face: the Side record permits saying it only after it has been offered. The source-work bonus supplies no exception to that restraint.
 
 *Nineteen veils exist. Each was formed in the chamber at a sister-distance reading of zero, and none has ever been issued to a Warden who had not sat the full Viderehan and heard the story to its end.*
 

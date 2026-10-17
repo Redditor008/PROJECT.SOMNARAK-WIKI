@@ -119,7 +119,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A leather-bound tome whose pages fill themselves with ink that seeps from the binding. The text is always a story — but the story changes depending on who opens it. |
-| **Position / movement** | Fixed on its lectern under a weighted cover and never relocated. The book does not move; what expands during an event is the number of pages filled, and that advances only while somebody is reading. |
+| **Position / movement** | Fixed on its lectern under a weighted cover during containment. For the separately recorded Tool use, the relic works while carried and will not operate for a room. What expands during an event is the number of pages filled, and that advances only while somebody is reading. |
 | **Material / signature** | Plain dark leather over vellum; ink that seeps from the binding and is dry on arrival. Grudge expression. No instrument registers anything in the cell between readings, which is itself the baseline. |
 | **Distinctive markers** | Self-filling pages; text that differs completely between readers of the same page in the same hour; and the blanks — pages that stay empty for certain readers and have never afterwards filled. |
 | **Identification** | Confirm: designation `C-IIβ-906 [GO]`, Echo (II) coherence, Moderate (β) potency, Object-Tale manifestation, Grudge element, SECTOR-C-906. Identification is by line count and cover weight. Opening the volume to identify it is the error this section exists to prevent. |
@@ -404,7 +404,7 @@ The district's own name for it describes something that will not settle, and the
 
 ### Possession Rather Than Pressure
 
-What distinguishes it from the rest of its class is that it takes objects rather than crushing or dissolving, and the protocols had to be written new. The original drafting file is kept. It shows the procedure being worked out, with the discarded versions, and the archivist's note states that the discards are more instructive than the final text.
+What the reader takes away is another person's grievance, not an object removed from the room. The account begins as a description of something the reader did and becomes something they recount from the wronged party's position. Closing the cover ends the reading, but does not by itself remove the account already carried away. The original drafting file is kept, with its discarded versions, because a weighted cover solves access to the page without settling what the facility may do with the knowledge. The discarded procedures remain instructive precisely where those two questions were mistaken for the same problem.
 
 ### Three Hundred and Forty Openings
 

@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Time-Lament |
 | **Physical Form** | Non-Organic — An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400, every citizen in the district experiences the same wave of grief simultaneously, as if the city itself has remembered something it tried to forget. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement** | No locomotion or point of arrival — onset is simultaneous throughout the affected district; an expanded boundary includes more people without grief travelling between them. |
 | **Location** | SECTOR-C-912, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -146,7 +146,7 @@ Eleven Fifty-Nine is a Fragment (III) Time of Major (γ) potency, Time-Lament ma
 
 ## Breach Behavior
 
-> *"Eleven Fifty-Nine has broken free. The lament lament spreads."*
+> *"Eleven Fifty-Nine reaches beyond the usual district boundary. Notify the affected area and hold personnel in place; onset is simultaneous, not a travelling wave."*
 
 | Field | Detail |
 |---|---|

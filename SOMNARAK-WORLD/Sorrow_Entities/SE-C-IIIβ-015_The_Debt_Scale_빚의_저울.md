@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 12–18 Han-Energy for each work cycle carried through, the upper figure when the party at the plinth had more to be weighed |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · β — Balance Projector, Balance Veil, Balance Pendant |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β), swept up and then weighed on the Scale’s own dishes — the only dust in this sector that gets measured twice |
 | **Recommended response** | Only Viderehan and Ferrehan apply, the holding being an Object/Place that cannot be brought to the party. Ferrehan is what brings the gauge down and nothing else does. No named person is measured inside a work cycle, at the plinth or anywhere else in the sector, and that prohibition carries no exceptions. |
