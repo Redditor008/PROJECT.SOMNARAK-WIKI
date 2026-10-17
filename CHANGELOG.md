@@ -8,6 +8,111 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 144 — CLOSED 5/5 (2026-10-18)
+
+The owner's latest P authorized this one next batch. All five selected dossiers completed their primary, exact-source and history reviews and shipped separately. Four primaries changed; Whispering Gallery is the completed **No change** dossier. Cumulative No change is **1/5**, below the three-dossier trigger, so neither the seven nor ten rung opens.
+
+**Cumulative coverage:** Full-SE **240/301 = 79.73%**, with **61/301 remaining**, including two excluded dossiers. Weapon-only **240/287 = 83.62%**, with **47/287 remaining**. This batch adds five Full-SE reviews and four unique Weapon dispositions. Animus already earned Weapon credit at Batch89 unit2, `94c7838c`, so this repeat earns zero additional Weapon credit.
+
+### Authorization, selection and later appearance work
+
+Opening ranking was freshly measured among pending dossiers only: Breathing Stone .003460956, Ninety Seconds .003459459, Eleven Fifty-Nine .003343683, Whispering Gallery .003277424, Animus .003195617. The order was followed without substitution. These prose-screen scores selected reading order; they were not defect findings.
+
+The opening rule clarification at `08413c6c25a6b22f08bedfdc4032fb05b0a9ea93` remains in R-32. Later work must revise actual bodies and types where needed, not just materials or labels. Human sorrow does not mandate a humanoid body: symbolic, contrasting, animal-derived, monstrous, mechanical/composite and abstract designs are allowed. Human, Monster, Animal and Abstract are collection-level minimum families, not mandatory forms of every entity. This batch did not perform or claim a collection-wide redesign. Supported earlier/later forms, deliberate owner-directed redesigns and unresolved source conflicts remain separate.
+
+### What changed and Commentary
+
+#### Breathing Stone — `C-IVδ-907`
+
+**What changed:** A breathing wall, not a walking creature. Its warning and movement now describe wall-bound expansion, and its response prioritizes no-contact work from the far side rather than physical suppression.
+
+**Source holds:** Slab artwork versus short blade, token material and accessory-slot differences remain held. Uncertain formation, expansion/transformation scope, and recorded research contexts were not rewritten.
+
+**Commentary:** A breathing wall is an effective nonhuman body without needing a hidden person inside it. Its strongest horror is the small measurable harm that becomes invisible once management budgets it into normal performance.
+
+#### Ninety Seconds — `C-IVδ-918`
+
+**What changed:** The room contains a bodiless interval, not an organic body. The form label now matches that record, and the priority is immediate two-person worker extraction with the agreed content-free exit question.
+
+**Source holds:** Timer artwork versus blade, token and bearer-cost differences remain held. Fixed radius versus expanded effects and the exit question versus later change-flag logging are still separate unresolved issues.
+
+**Commentary:** Leaving the room empty is the right visual choice: a body would distract from the person trapped in their own thought. The change flag is the sharper horror because privacy can fail even while every prohibition on collecting content remains intact.
+
+#### Eleven Fifty-Nine — `C-IIIγ-912`
+
+**What changed:** Grief begins throughout the affected district at once. The movement summary and warning no longer describe a travelling spread; the stopped public clock still reads 23:59 while ordinary onset remains 0300.
+
+**Source holds:** Clock-face artwork versus blade remains held. So do the usual one-hour duration versus two extended nights, awake/all-person coverage, extraction-window differences and source equipment-cost imagery.
+
+**Commentary:** The stopped clock works because it marks an event that has no body. Shared grief for children absent from an otherwise intact archive is more disturbing than simply discovering a hidden massacre, and the file wisely does not give that mystery an easy answer.
+
+#### Whispering Gallery — `C-IIβ-185`
+
+**What changed:** No change. The existing file already distinguishes named memorial portraits, loss of their faces, and four later documentary restorations. It also separates temporary relief from the four permanent steps in the floor-gauge baseline.
+
+**Source holds:** Blue paint-layered equipment versus near-clear crystal descriptions remains held, as does Medium artwork versus Short source statistics. The older Master Tale still has Zone C and Flerehan; the primary explicitly corrects that work rule and uses Zone B.
+
+**Commentary:** The most convincing detail is that the rule against recognition has a defensible history: guessing once destroyed a living person's legal life. That makes refusing the descendants painful rather than merely foolish. The hall has a strong visual identity already, and the four returned faces give its sorrow a measurable, painfully slow change.
+
+#### Animus — `O-Iα-108`
+
+**What changed:** The warning and movement no longer say it hunts people. Both now follow the detailed record: a heat-line crosses the Commons boundary, harms people standing in it, and does not pursue them.
+
+**Source holds:** The inherited Phantom Blade-Array versus Trace Fang identity/form hold remains open. The brief human outline induced by the Angry Maiden is a documented conditional form, not evidence of a permanent humanoid body or a Fang-to-knives transition.
+
+**Commentary:** A moving heat-line is a strong answer to inherited anger: it carries direction without having a destination. I especially like that understanding can be the failure state, because the worker's urge to make a coherent story becomes the hazard. The brief human outline works better as a rare relation with another entity than as its default body.
+
+### Individually shipped reviews
+
+Each row records one completed dossier; all five checks passed for each. Word counts use `LC_ALL=C wc -w`.
+
+| Dossier | Change | Words | Checks | Commit / push |
+|---|---|---:|---|---|
+| [Breathing_Stone](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-907_Breathing_Stone_%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94_%EB%B2%BD.md "SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md") `C-IVδ-907` | Wall-bound expansion; no-contact response | 6,456 → 6,491 | 5/5 PASS | `ba859ecd` PUSH VERIFIED |
+| [Ninety_Seconds](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-918_Ninety_Seconds_%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94_%EC%83%9D%EA%B0%81.md "SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md") `C-IVδ-918` | Bodiless form; worker extraction | 6,476 → 6,503 | 5/5 PASS | `acdab076` PUSH VERIFIED |
+| [Eleven_Fifty-Nine](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-912_Eleven_Fifty-Nine_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md") `C-IIIγ-912` | Simultaneous onset; warning | 6,077 → 6,108 | 5/5 PASS | `130dbc5e` PUSH VERIFIED |
+| [Whispering_Gallery](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-185_Whispering_Gallery_%EC%86%8D%EC%82%AD%EC%9D%B4%EB%8A%94_%EA%B0%A4%EB%9F%AC%EB%A6%AC.md "SE-C-IIβ-185_Whispering_Gallery_속삭이는_갤러리.md") `C-IIβ-185` | No change | 7,415 → 7,415 | 5/5 PASS | `b1035cca` PUSH VERIFIED |
+| [Animus](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-108_Animus_%EB%96%A0%EB%8F%84%EB%8A%94_%ED%9D%94%EC%A0%81.md "SE-O-Iα-108_Animus_떠도는_흔적.md") `O-Iα-108` | No pursuit; clear the heat-line | 6,392 → 6,430 | 5/5 PASS | `338563e0` PUSH VERIFIED |
+
+### Full dossier links
+
+[[SE-C-IVδ-907_Breathing_Stone_살아있는_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-907_Breathing_Stone_%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94_%EB%B2%BD.md "SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md")]
+
+[[SE-C-IVδ-918_Ninety_Seconds_반복되는_생각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-918_Ninety_Seconds_%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94_%EC%83%9D%EA%B0%81.md "SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md")]
+
+[[SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-912_Eleven_Fifty-Nine_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md")]
+
+[[SE-C-IIβ-185_Whispering_Gallery_속삭이는_갤러리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-185_Whispering_Gallery_%EC%86%8D%EC%82%AD%EC%9D%B4%EB%8A%94_%EA%B0%A4%EB%9F%AC%EB%A6%AC.md "SE-C-IIβ-185_Whispering_Gallery_속삭이는_갤러리.md")]
+
+[[SE-O-Iα-108_Animus_떠도는_흔적](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-108_Animus_%EB%96%A0%EB%8F%84%EB%8A%94_%ED%9D%94%EC%A0%81.md "SE-O-Iα-108_Animus_떠도는_흔적.md")]
+
+### Evidence, validation and counter definitions
+
+- Whole primary dossiers and all exact A–D source files were read for each unit. Registry, archetype, disposition, relevant art-history rows and prior-credit history were compared. Dedicated Master entries for Gallery and Animus were read in full; exact searches found no dedicated Master entries for the other three. The similarly named Directorate recording room was not used as Gallery identity evidence.
+- All whole final primaries were reread before their own unit gates. Gallery remained byte-identical to its opening snapshot. Eleven Fifty-Nine's art-history line549 was additionally confirmed during close, after its unit gate; the primary and exact four-source reads were before that gate.
+- Nine short changes and zero careful changes were predeclared across the batch. No edits were forced on Gallery. All original digit sequences and all five equipment blocks remain byte-identical to the opening snapshots.
+- All 25 individual checks passed: `verify.py` (residue, seams, pipes and duplicates), `tpl.py` (template residue), `sectfile.py` (section similarity), `wikistd.py` (wiki standards) and `sect.py` (shared-prose screen). Each file has zero sections above .05, meets the wiki standard and ends at .003 generic prose. Diff whitespace checks passed.
+- Final equipment comparison: 301 mapped dossiers, 292 external Side records, 287 complete sets, 861 item pairs and 557 candidate differences. The candidates are not a confirmed-defect count. No equipment block or source item was changed.
+- Final prose-overlap planner: 0/301 dossiers involved, 0 section pairs. A couple means two dossiers exceeding the prose-overlap threshold, not an equipment pair.
+- Full-SE counts unique completed whole-primary/source reviews, including explicit holds. Fresh closing measurement finds 242 markers; subtract paused N-Iα-025 and scope-unconfirmed C-IIIγ-062 for 240/301 counted. There are 59/301 eligible pending plus the two exclusions. The non-SE Book is outside scope.
+- Weapon-only counts unique identity-resolved exact equipment-pair dispositions, including holds. Opening236 plus new907/918/912/185 gives240/287. Animus is a repeat and adds zero. Fourteen primary dossiers lie outside this denominator: nine without an external pair and five exceptions. No duplicate credit was awarded.
+- All five retain Neutral disposition. Human harm alone does not establish Negative; useful records alone do not establish Positive. Gallery and Animus have observed interactions, unlike the paper-only cross-comparisons in the first three files. None establishes these entities suppressing or freeing another entity.
+- The fix phase means source-supported consistency repair, not silently resolving every held canon disagreement. Earlier batch holds remain open. Combined primary word count is 32,816 → 32,947 (+131).
+
+### Next and branch state
+
+Fresh closing pending-only order begins:
+
+- `O-Iα-720` — Aphasia_녹아내린_속삭임 (0.003189793). Pending, not No change.
+- `C-IIβ-051` — The_Happy_Mask_행복한_가면 (0.003166436). Pending, not No change.
+- `C-Vγ-225` — Black_River_슬픔의_강 (0.003110650). Pending, not No change.
+- `N-IIβ-426` — Hollowcast_찢어진_열매 (0.003107399). Pending, not No change.
+- `C-Iα-884` — Seething_Tundra_얼어붙은_조각 (0.003082760). Pending, not No change.
+
+Batch144 authorization is exhausted at its completed five-review rung. Another batch requires the owner's next P; none has been started. Batch301 remains separate and blocked on eight supplied bodies and the owner's 4+4 operation. Generate and validate before copying to the wiki.
+
+PR14 was freshly checked OPEN and draft, from `arena/954853ad-project-somnarak-wiki` to `NON-WIKI`. The owner controls merging. No merge, deployment, deletion or branch switch occurred. All five unit pushes were verified; this close follows the verified unit5 HEAD `338563e0fc98c66bcd1422a3e53a5bc18437a915` and receives its own gate/push.
+
 ## Batch 144 / unit 5 — Animus `O-Iα-108`
 
 [Animus](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-108_Animus_%EB%96%A0%EB%8F%84%EB%8A%94_%ED%9D%94%EC%A0%81.md "SE-O-Iα-108_Animus_떠도는_흔적.md")
