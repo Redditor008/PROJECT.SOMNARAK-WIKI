@@ -37,6 +37,7 @@ Standing rules for this project, one file per rule. These are binding on all wor
 | [`R-29`](R-29_ABNORMALITY_WIKI_DONE_BETTER.md) | The Standard Is An Abnormality Wiki, Done Better — nine parity sections as the floor, six clauses above it as the work; Part three (the ladder, from Comparative Study 02) is guidance, not a test |
 | [`R-30`](R-30_QUOTE_FIX_WITH_TYPE.md) | A Quote Fix Carries The New Quote And Its Type — the written quote is read back with its register type (`R1`–`R8`) and entered in `QUOTE_REGISTER_LEDGER.md` before the push counts as finished |
 | [`R-31`](R-31_CHATROOM_READABILITY.md) | Chatroom Reports Are Written To Be Read — a must-follow rule, read before doing anything: verdict, cumulative progress lead, content-first recap, captioned linked dossier table, separate `R-12` links and defined counters, then next step; eight required batch-close fields, and a per-dossier reviewer commentary marked **Commentary** (both amended 2026-10-15) |
+| [`R-32`](R-32_SUBJECT_SHAPE_DIVERSITY.md) | Subject Shape Diversity — at least Human, Monster, Animal and Abstract across the collection; compare silhouettes, not only materials; preserve source-supported forms and track object/mechanical hybrids |
 
 ## Precedence
 

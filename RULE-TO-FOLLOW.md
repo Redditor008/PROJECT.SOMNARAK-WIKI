@@ -227,6 +227,7 @@ VERIFIED LIVE
 - SVG design must derive from page content and title; icons/banners/backgrounds/profiles/silhouettes/diagrams/maps allowed.
 - Profiles do not require faces, but every visual must be identifiable to its subject.
 - Recoloring the same SVG does not count as personalization.
+- Subject designs must span at least Human, Monster, Animal and Abstract shapes across the collection; compare silhouettes, not only materials. Preserve canon under [`R-32`](REFERENCE_SOMNARAK_WIKI/RULES/R-32_SUBJECT_SHAPE_DIVERSITY.md).
 - Canonical top bar, homepage-derived left sidebar, and expanded bottom bar must match on every public page.
 - Shared chrome does not count as a page's personalized visual treatment.
 
