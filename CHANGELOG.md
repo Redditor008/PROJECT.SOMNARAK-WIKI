@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 141 — OPEN at five (2026-10-17)
+
+Owner authorization: p plus a separate question comparing SE versus Project Moon Abnormality diversity. Question research and this opening earn no Full-SE or Weapon credit. Prior Batch140 remains CLOSED5/5 at8b7e6d0e. Current Batch141OPEN0/5; no unit reviewed, edited, or declared No change. Five minimum, ten ceiling; three cumulative completed No change dossiers trigger5→7→10 within this same authorization. Pending is not No change and0/5 is not a batch close.
+
+Fresh pending-only ranking:301dossiers,222evidenced review markers including excluded025/062,79eligible unread/review-pending dossiers. Selected order and prose-ranking scores (screening, not defect findings): Grimoire C-IIβ-9060.004229607; Ephemera O-Iα-1890.004225352; ThinkingEngine C-IIIγ-9040.004209127; UnwakingBlock N-IIIγ-9080.004040404; Rem C-IIβ-1350.004022989. Reserves: RelicofaThousandOwners O-IVδ-7920.004021879; DeadAir N-IIIγ-9290.004014721; GlassElsewhere N-IIβ-9030.003917051. Complete primary/exactA–D/source/history review, R18split before edits, whole final reread, five checks, evidence/holds/individualCommentary and one separate gate/push per unit remain required.
+
+No review credit for lexical/taxonomic inventory or comparative reading: Full-SE220/301=73.09%;81/301remain,79/301eligible. CountedFull excludes paused025 and scope-unconfirmed062; non-SEBook excluded. Weapon223/287=77.70%;64/287remain;287complete external4/4sets,14primaries outside denominator (9noexternal/5exceptions). No exact pair recounted. PR14OPENdraft, assigned sessionbranch→NON-WIKI, ownermerges only. Batch301 is separate owner4+4operation blocked on eight supplied bodies; inventnone, generate/validate beforewiki copy.
+
 ## Batch 140 — CLOSED 5/5 (2026-10-17)
 
 Owner p authorization completed in its selected order: Lethe928, Banyan606, BlackenedAngel946, UnsaidBlossoms100, TowerErased677. Five complete primary/exactA–D/source/history reviews, all individually gated and PUSH VERIFIED. R18total8short/0careful sites across4changed dossiers;1/5No change (Lethe), never an unread pending file. Cumulative No change1/5 does not trigger5→7; this is not an all-simple cohort (full Warden/Apex/Watch and Interaction records), so five is a valid close, not a general ceiling. No further unit opened; no forced source reconciliation.
