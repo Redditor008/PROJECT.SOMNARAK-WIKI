@@ -1,6 +1,63 @@
 # Work In Progress
 
-**Batch 139 / unit 5 — Hums `C-IIβ-048` (`pending push`):** [[SE-C-IIβ-048_Hums_노래하는_돌](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-048_Hums_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%8F%8C.md "SE-C-IIβ-048_Hums_노래하는_돌.md")]
+## Batch 139 — CLOSED at five (2026-10-17)
+
+Owner p following138closuref34706c4 authorized this one batch. Opening030ca250b6be0393c4ea041404654cd8fbc90278 selected fresh pending order948,275,125,997,048; none replaced or padded. Five complete whole-primary/exactidentity A–D/source/history reviews and all five edited-primary rereads; five individually gate/pushed evidence units verified as remote ancestors and exact final blobs. At five, completed No change0/5: three-No-change trigger absent, no seven rung opened. Full Interaction/Watch/Warden/Apex/Tale records and substantive unresolved holds mean this is not the older all-simple cohort. Five is minimum, not ceiling;10ceiling and cumulative5→7→10 rule retained. Reserves6–10 unread, not reviewed or No change.
+
+Independent coverage: Full215/301=71.43%,86/301remain,84/301eligible;217dispositions include excluded025/062. Weapon219/287=76.31%,68/287remain, newexactpairs275/997/048 only;948 priorBatch84/5dbbd683 and125 priorBatch90/50507e4b addzero. Full denominator301 separate from Weapon287; screening301mapped,292externalSide,287complete,861itempairs,14outside(9noexternal/5exceptions) is not an individual review. No denominator or source registry changed.
+
+R18 total11short/0careful;41257→41357 C-locale wc-w,+100. Every changed field has its own intact same-file source and unique-match/positivecharacter/word-growth assertions. Five digit sequences invariant; actual M.A.W.equipment blocks byte-identical. DrownedRootshas a laterfirstcontactedit, so equipment-through-end is NOT invariant for that file; only actual equipmentblock asserted. Other fourequipment-through-end unchanged. No stats, profile or sourcehistory adjudication.
+
+**The Foam Flood — Identification table and escalation wording repaired.** 2short/0careful;wc-w9034→9046. Individually shipped`680709a4cd8b3fbfad0d2923f7a9ecb06ec976dd`PUSHVERIFIED;Weapon+0.
+
+**Commentary:** The yearning works because it is not malicious and still makes contact dangerous. The Headroom Programme is the strongest turn for me: a careful record of suffering becomes a way to increase it for yield. The remaining fish-reference contradictions should stay visible rather than becoming an invented explanation of the sealed relationship.
+
+**Crucible — Truncated two-part activation rule completed.** 1short/0careful;wc-w7768→7780. Individually shipped`8af82016cd09de01ea07cb83136fd865019e6672`PUSHVERIFIED;Weapon+1.
+
+**Commentary:** The distinction between allowing anger and responding to its cause makes this more than a rage furnace. I find the anonymous Heat Return convincing because it helps uncover hazards and still cannot hear an individual account. Its small-team retaliation cost prevents the scheme from becoming an easy answer.
+
+**Déjà Vu — Prohibited work and damaged identification instructions aligned.** 3short/0careful;wc-w8625→8651. Individually shipped`93c5840182d0415e7b33ce0261ab6ca387c1a825`PUSHVERIFIED;Weapon+0.
+
+**Commentary:** The entity is strongest when recovery feels genuinely welcome and still fails to restore a life. I find the sealed-account procedure more troubling than an openly hostile monster, because the warnings work and are deliberately read too late. The preserved uncertainty about how those accounts are correct is more effective than supplying a theory.
+
+**Drowned Roots — Equipment overview, prohibited work and first-contact fragment repaired.** 3short/0careful;wc-w7034→7072. Individually shipped`d597633c381a921ab57a01a9b14ee85bdb06b515`PUSHVERIFIED;Weapon+1.
+
+**Commentary:** The duty-based record gives the erasure a harder edge than simple official malice: the rule has a defensible purpose and still excludes an indispensable act. I find the Fourth Column especially effective because it records something without letting it reach a memorial or entitlement. The competing account of deliberate concealment remains a real uncertainty, not something this review can settle.
+
+**Hums — Incorrect liquid movement descriptions replaced.** 2short/0careful;wc-w8796→8808. Individually shipped`9e33cad085320d06a8298fec585ed8e9e9d61303`PUSHVERIFIED;Weapon+1.
+
+**Commentary:** The stone gives this archive an unusually practical test: somebody must actually carry the song away, not merely preserve a description of it. I find the six songs with one carrier more affecting than a larger damage figure. The contradiction between the older transcription watch and the learning protocol is important to keep visible, because it touches the entity's central problem rather than a cosmetic detail.
+
+Batch 139 — all five completed dossier reviews, each individually pushed.
+
+| Dossier | What changed | Words | Checks | Shipment |
+|---|---|---|---|---|
+| [Foam_Flood](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-948_Foam_Flood.md "SE-C-IIIγ-948_Foam_Flood.md") `C-IIIγ-948` | Table; expansion wording | 9,034 → 9,046 | 5/5 PASS | `680709a4` PUSH VERIFIED |
+| [Crucible](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-275_Crucible_%EB%B6%84%EB%85%B8%EC%9D%98_%EC%9A%A9%EA%B4%91%EB%A1%9C.md "SE-C-IIIβ-275_Crucible_분노의_용광로.md") `C-IIIβ-275` | Two-part trigger | 7,768 → 7,780 | 5/5 PASS | `8af82016` PUSH VERIFIED |
+| [Dejà_Vu](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-125_Dej%C3%A0_Vu_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%97%B4%EB%A7%A4.md "SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md") `C-IVδ-125` | Work; identification | 8,625 → 8,651 | 5/5 PASS | `93c58401` PUSH VERIFIED |
+| [Drowned_Roots](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-997_Drowned_Roots_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EB%82%98%EB%AC%B4.md "SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md") `C-IIβ-997` | Grade; work; contact | 7,034 → 7,072 | 5/5 PASS | `d597633c` PUSH VERIFIED |
+| [Hums](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-048_Hums_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%8F%8C.md "SE-C-IIβ-048_Hums_노래하는_돌.md") `C-IIβ-048` | Stone movement | 8,796 → 8,808 | 5/5 PASS | `9e33cad0` PUSH VERIFIED |
+
+Full R12 links:
+
+[[SE-C-IIIγ-948_Foam_Flood](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-948_Foam_Flood.md "SE-C-IIIγ-948_Foam_Flood.md")]
+
+[[SE-C-IIIβ-275_Crucible_분노의_용광로](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-275_Crucible_%EB%B6%84%EB%85%B8%EC%9D%98_%EC%9A%A9%EA%B4%91%EB%A1%9C.md "SE-C-IIIβ-275_Crucible_분노의_용광로.md")]
+
+[[SE-C-IVδ-125_Dejà_Vu_돌아온_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-125_Dej%C3%A0_Vu_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%97%B4%EB%A7%A4.md "SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md")]
+
+[[SE-C-IIβ-997_Drowned_Roots_솟구친_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-997_Drowned_Roots_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EB%82%98%EB%AC%B4.md "SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md")]
+
+[[SE-C-IIβ-048_Hums_노래하는_돌](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-048_Hums_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%8F%8C.md "SE-C-IIβ-048_Hums_노래하는_돌.md")]
+
+Validation: all five checks freshly rerun for all five:verifyRESIDUAL0,seam[],pipeTrue,dupes[];tplRESIDUE0;sectfile0qualifyingsectionsabove0.05;wikistdmeetsTrue;fullsectGENERIC≤0.05.44/44unittestsPASS. Correct no-argument couples0/301,carrying0/301,sectionpairs0 byte-identical to opening. Uncapped comparator NOTbyte-identical: exactly one source-location change FoamFlood215→218 caused by repaired3-line tableheader; independent exact one-replacement assertion proves every finding/value unchanged. Initial rawcmp refusal stopped shell before remainingaudits, then inspected delta and reran remainingaudit chain; no numerical conflict resolved. Archive1928UTF8PASS/52codices/198setsPASS; audit290entityscope is not denominator301. Timeline1793/0,seam1761/0,box1928/0PASS. Every fullgate explicit success; gitdiffcheckclean.
+
+Source evidence and holds are preserved in each unit entry in both logs. No held disagreement was counted as a defect or resolved by majority. All Neutraldispositions retained on outgoingentityeffect evidence, not humanbenefit; incomingForgottenSoldierhelp does not makeDrownedRootsPositive. Existing source numbers, origins and stories untouched. No perfile validator was weakened. Local pre-write assert/syntax refusals and scope corrections did not ship failed units; fullgate+checks precede each credited unit.
+
+Next fresh pending order: LetheC-IIIγ-9280.004364806;BanyanN-IVδ-6060.004346881;BlackenedAngelC-IVγ-9460.004286327;UnsaidBlossomsC-IIβ-1000.004276550;TowerErasedO-IIβ-6770.004259135. NewBatch140 requires nextownerp;139authorization exhausted. PR14OPENdraft assignedbranch→NON-WIKI; no merge/deployment/branchdeletion.301separateowner4+4 blocked on eight external fullbodies; inventnone, generate/validate beforewikicopy.
+
+
+**Batch 139 / unit 5 — Hums `C-IIβ-048` (`9e33cad085320d06a8298fec585ed8e9e9d61303` — PUSH VERIFIED):** [[SE-C-IIβ-048_Hums_노래하는_돌](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-048_Hums_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%8F%8C.md "SE-C-IIβ-048_Hums_노래하는_돌.md")]
 
 **What changed: Incorrect liquid movement descriptions replaced.** R18 predeclared:2 batch-short/0 careful-detail edits. Classification Movement and Detailed Appearance Position/movement described a body or drop of liquid despite an intact fixed stone in both fields' source. Both now copy own Identification sentence: It sits in its case on open display and does not move. Two unique matches, intact source and positive length/word-growth assertions passed. Full edited461-line primary reread; digits and M.A.W.-through-end byte-identical. C-locale wc -w8,796→8,808. Complete primary read; whole edited primary reread. No source/registry edit.
 
@@ -12,7 +69,7 @@
 
 **Checks/progress:** verifyRESIDUAL0,seam[],pipeTrue,dupes[];tplRESIDUE0;sectfile0 qualifying sections above0.05;wikistdmeetsTrue;sectGENERIC≤0.05. Full-SE215/301=71.43%;86/301 remain,84/301 eligible. Weapon219/287=76.31%;68/287 remain; exact-pair increment+1. Batch139OPEN5/5; completed No change0/5; pending is not No change. Nothing belowfive; three completed No-change dossiers trigger5→7→10 cumulatively per dossier.
 
-**Batch 139 / unit 4 — Drowned Roots `C-IIβ-997` (`pending push`):** [[SE-C-IIβ-997_Drowned_Roots_솟구친_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-997_Drowned_Roots_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EB%82%98%EB%AC%B4.md "SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md")]
+**Batch 139 / unit 4 — Drowned Roots `C-IIβ-997` (`d597633c381a921ab57a01a9b14ee85bdb06b515` — PUSH VERIFIED):** [[SE-C-IIβ-997_Drowned_Roots_솟구친_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-997_Drowned_Roots_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EB%82%98%EB%AC%B4.md "SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md")]
 
 **What changed: Equipment overview, prohibited work and first-contact fragment repaired.** R18 predeclared:3 batch-short/0 careful-detail edits. Overviewβnowγfor own named Requiem/Shroud/Lantern; entityβunchanged. Valid Work Types repeats own face-uncovered/record-work/Pugnahanprohibited directions. Broken its registered form tail after3a.m. restored with own complete Physical Form description. Unique-match, intact-source, positive length/word-growth assertions passed. Full edited425-line primary reread; digits and equipment block byte-identical. Initial overbroad equipment-through-end invariance assert refused because first-contact edit is later in file; corrected scope to actual equipment block, no checker weakened. C-locale wc -w7,034→7,072. Complete primary read; whole edited primary reread. No source/registry edit.
 
@@ -24,7 +81,7 @@
 
 **Checks/progress:** verifyRESIDUAL0,seam[],pipeTrue,dupes[];tplRESIDUE0;sectfile0 qualifying sections above0.05;wikistdmeetsTrue;sectGENERIC≤0.05. Full-SE214/301=71.10%;87/301 remain,85/301 eligible. Weapon218/287=75.96%;69/287 remain; exact-pair increment+1. Batch139OPEN4/5; completed No change0/4; pending is not No change. Nothing belowfive; three completed No-change dossiers trigger5→7→10 cumulatively per dossier.
 
-**Batch 139 / unit 3 — Déjà Vu `C-IVδ-125` (`pending push`):** [[SE-C-IVδ-125_Dejà_Vu_돌아온_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-125_Dej%C3%A0_Vu_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%97%B4%EB%A7%A4.md "SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md")]
+**Batch 139 / unit 3 — Déjà Vu `C-IVδ-125` (`93c5840182d0415e7b33ce0261ab6ca387c1a825` — PUSH VERIFIED):** [[SE-C-IVδ-125_Dejà_Vu_돌아온_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-125_Dej%C3%A0_Vu_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%97%B4%EB%A7%A4.md "SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md")]
 
 **What changed: Prohibited work and damaged identification instructions aligned.** R18 predeclared:3 batch-short/0 careful-detail edits. Valid Work Types now preserves the own repeated Pugnahan prohibition instead of offering it as valid. Broken Identification cell restored from own Tension marker/pre-session account sentence; fragment-ended visual Appearance protocol restored from own Observation method and outside-spotter sentence. First in-memory candidate failed positive character-growth assert before any file write; complete own spotter sentence included and all unique-match/source/length/word-growth assertions passed. Full edited461-line primary reread; digits/M.A.W.-through-end byte-identical. C-locale wc -w8,625→8,651. Complete primary read; whole edited primary reread. No source/registry edit.
 
@@ -36,7 +93,7 @@
 
 **Checks/progress:** verifyRESIDUAL0,seam[],pipeTrue,dupes[];tplRESIDUE0;sectfile0 qualifying sections above0.05;wikistdmeetsTrue;sectGENERIC≤0.05. Full-SE213/301=70.76%;88/301 remain,86/301 eligible. Weapon217/287=75.61%;70/287 remain; exact-pair increment+0. Batch139OPEN3/5; completed No change0/3; pending is not No change. Nothing belowfive; three completed No-change dossiers trigger5→7→10 cumulatively per dossier.
 
-**Batch 139 / unit 2 — Crucible `C-IIIβ-275` (`pending push`):** [[SE-C-IIIβ-275_Crucible_분노의_용광로](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-275_Crucible_%EB%B6%84%EB%85%B8%EC%9D%98_%EC%9A%A9%EA%B4%91%EB%A1%9C.md "SE-C-IIIβ-275_Crucible_분노의_용광로.md")]
+**Batch 139 / unit 2 — Crucible `C-IIIβ-275` (`8af82016cd09de01ea07cb83136fd865019e6672` — PUSH VERIFIED):** [[SE-C-IIIβ-275_Crucible_분노의_용광로](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-275_Crucible_%EB%B6%84%EB%85%B8%EC%9D%98_%EC%9A%A9%EA%B4%91%EB%A1%9C.md "SE-C-IIIβ-275_Crucible_분노의_용광로.md")]
 
 **What changed: Truncated two-part activation rule completed.** R18 predeclared:1 batch-short/0 careful-detail edits. Classification ended both condit. Restored own intact Activation Trigger sentence: Both conditions are required and the second is the one the sweep cannot catch. Unique-match, source-completeness and positive length/word-growth assertions passed. Full edited470-line primary reread; digits and M.A.W.-through-end byte-identical. C-locale wc -w7,768→7,780. Complete primary read; whole edited primary reread. No source/registry edit.
 
@@ -48,7 +105,7 @@
 
 **Checks/progress:** verifyRESIDUAL0,seam[],pipeTrue,dupes[];tplRESIDUE0;sectfile0 qualifying sections above0.05;wikistdmeetsTrue;sectGENERIC≤0.05. Full-SE212/301=70.43%;89/301 remain,87/301 eligible. Weapon217/287=75.61%;70/287 remain; exact-pair increment+1. Batch139OPEN2/5; completed No change0/2; pending is not No change. Nothing belowfive; three completed No-change dossiers trigger5→7→10 cumulatively per dossier.
 
-**Batch 139 / unit 1 — The Foam Flood `C-IIIγ-948` (`pending push`):** [[SE-C-IIIγ-948_Foam_Flood](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-948_Foam_Flood.md "SE-C-IIIγ-948_Foam_Flood.md")]
+**Batch 139 / unit 1 — The Foam Flood `C-IIIγ-948` (`680709a4cd8b3fbfad0d2923f7a9ecb06ec976dd` — PUSH VERIFIED):** [[SE-C-IIIγ-948_Foam_Flood](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-948_Foam_Flood.md "SE-C-IIIγ-948_Foam_Flood.md")]
 
 **What changed: Identification table and escalation wording repaired.** R18 predeclared:2 batch-short/0 careful-detail edits. One malformed bullet/table seam restored as a complete two-column table; all four existing field values retained. One broken not a event phrase replaced with own Movement/Identification/Activation fact: the field expands, the carving does not move. Before replacements, unique-match, intact-source and length/word-growth asserts passed. Full edited505-line primary reread, digits and M.A.W.-through-end byte-identical. C-locale wc -w9,034→9,046. Complete primary read; whole edited primary reread. No source/registry edit.
 
