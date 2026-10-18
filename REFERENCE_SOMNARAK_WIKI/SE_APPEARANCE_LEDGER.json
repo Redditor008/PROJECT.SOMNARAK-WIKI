@@ -28,7 +28,23 @@
       "O-IVδ-895"
     ],
     "kind": "se-appearance",
-    "reviewed": {},
+    "reviewed": {
+      "N-IIβ-270": {
+        "no_change": false,
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_01_NEGLECT_LEARNED_TO_LISTEN.md",
+        "whole_before_reread": true,
+        "whole_final_reread": true,
+        "logical_outcome": "held",
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        },
+        "rendered_check": "not in scope"
+      }
+    },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_OPEN.json",
     "logical_reading_required": true,
     "integrity_rule": "REFERENCE_SOMNARAK_WIKI/RULES/R-33_INTEGRITY_VISUAL_LIVE_CHECK.md"
@@ -1435,8 +1451,32 @@
     {
       "designation": "N-IIβ-270",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-270_Neglect_Learned_to_Listen_녹슨_속삭임.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Movement now describes a spreading place on connected surfaces, not a detached drifting body. N/A Speed now explains absence of a body travel rate and fixed survey reference. Added listening-place/extent note linking nonhuman form, sensation versus anatomy, separate element/manifestation, transferred whispers versus portable kit, and unresolved origins/readability/speech/injury/Transform claims.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_01_NEGLECT_LEARNED_TO_LISTEN.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1028_Neglect_Learned_to_Listen/SE-1028-A__SIDE_CODEX_Neglect_Learned_to_Listen.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1028_Neglect_Learned_to_Listen/SE-1028-B__MAW-W_Neglect_Learned_to_Listen_s_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1028_Neglect_Learned_to_Listen/SE-1028-C__MAW-S_Neglect_Learned_to_Listen_s_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1028_Neglect_Learned_to_Listen/SE-1028-D__MAW-G_Neglect_Learned_to_Listen_s_Bell.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIβ-280",
