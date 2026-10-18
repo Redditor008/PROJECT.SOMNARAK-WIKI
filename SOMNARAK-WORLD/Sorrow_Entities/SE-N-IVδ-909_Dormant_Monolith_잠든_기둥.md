@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Mind |
 | **Physical Form** | Non-Organic — A pillar-shaped presence sleeping inside consciousness rather than the world — its surface pale, its shadow reaching down into things forgotten. Bloodless-cold, it smells of ash; nothing to strike, only the dreaming column in the mind. |
-| **Movement** | Stationary — a place or zone; spreads rather than moves. |
+| **Movement** | Stationary within consciousness, not a physical place in the room. Spread is recorded between duty-bearing minds rather than as locomotion. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -121,6 +121,10 @@
 | **Distinctive markers** | Colleagues standing beside the observer see nothing whatsoever, which is the fastest way to confirm the identification. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; the wrong entity is the wrong sorrow, and with this one the error is not visible from outside the worker. |
 
+**Form record:** The Tale traces a worker's mind becoming a load-bearing pillar, not a stone version of the worker's body. The present column is encountered within consciousness; its pale surface and shadow are the observer's report, not features available to a camera or to a colleague beside them.
+
+**Transform record held:** The breach table describes spread from mind to mind with nothing crossing the walls. The Apex account instead describes passing through structure and filling corridors. No recorded external anatomy or transition joins those descriptions. Keep the named-muster response, but do not turn either account into a witnessed walking column or silently declare the corridor account only a metaphor.
+
 **Appearance protocol:** There is nothing to photograph. Record the pale surface as the observer describes it, the depth the shadow reaches, and the rooms it reaches into — forgotten rooms, usually the observer's own. Note that the recollections brought back from them belong to no one on the roster. Those are logged verbatim and not acted upon.
 
 ## Origin
@@ -148,7 +152,7 @@ None of the four rows above carries its own meaning. Read them with the classifi
 **Reading the response:** Softening and a falling gauge mean the worker has let something through rather than discharged it, and the distinction matters at the next shift. A rising Pillar means the work was taken as an attempt to put the duties down, which this entity does not permit and does not punish — it simply rises. The most reliable reading is taken from whether the worker goes home afterwards.
 ## Breach Behavior
 
-> *"Sleeping Pillar has broken free. Hunts personnel indiscriminately."*
+> *"The Pillar stands in one more mind, then another. Account for the workers and execute the relief."*
 
 | Field | Detail |
 |---|---|

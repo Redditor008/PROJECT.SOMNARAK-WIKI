@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch147 unit2 — Dormant Monolith `N-IVδ-909`
+
+**What changed:** Short limited repair: replace the unsupported indiscriminate-hunting alert and generic physical-zone movement with the recorded mental column/spread. Clarify worker-to-mind-pillar origin without a stone human. Broader Transform shape remains held; SE completion +0.
+
+**Sources and holds:** Complete original459lines/final463lines, exact identity-resolved A–D, Master559–561/table599–601, Tale187, EntityCodex555, Registry995–998, archetype362/366, disposition240 and Batch118unit3 history reviewed. Equipment credits already earned in Batch118; no repeat. Primary breach spreads between minds with nothing crossing walls, but Apex Transformation Response passes structure/fills corridors without a documented geometry or transition. Retain both accounts explicitly; cannot assert purely metaphorical corridors or physical giant. Never-fully-woken versus two waking events, one-refusal and65/90% thresholds, structural/contact attacks versus no injuries, and known-family versus nobody-named accounts remain. Equipment Zweihander/Lens/Sceptre, basalt/chime forms, Shield subtype and Stigma slot/chance differences stay held. R19 Neutral retained; no deliberate pairing inferred from paper/unrepeated comparisons.
+
+**Commentary:** The unseen pale column is a stronger abstract body than a literal sleepy stone man. The fourteen accountability exceptions make relief materially difficult without making family obligations villainous; resolve the corridor transition from evidence, not by choosing the convenient paragraph.
+
+| Dossier | Outcome | Words | Checks | Credit |
+|---|---|---:|---|---|
+| [Dormant_Monolith](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-909_Dormant_Monolith_%EC%9E%A0%EB%93%A0_%EA%B8%B0%EB%91%A5.md "SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md") `N-IVδ-909` | Held, limited repair | 7,814→7,943 | 5/5 PASS | SE+0, equipment+0 |
+
+[[SE-N-IVδ-909_Dormant_Monolith_잠든_기둥](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-909_Dormant_Monolith_%EC%9E%A0%EB%93%A0_%EA%B8%B0%EB%91%A5.md "SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md")]
+
+[Individual evidence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_02_DORMANT_MONOLITH.md). Whole final reread after actual checks; original numbers and equipment section retained. No source files changed. Individual gate/push follows in a separate focused step.
+
+**Current counters:** ALL M.A.W. Types Appearance per SE — source-review coverage 245/301=81.40%, 56/301 remain. ALL M.A.W.-W Appearance per SE — source-review coverage 245/287=85.37%, 42/287 remain. SE Appearance Fix — independent written-design pass 9/301=2.99%, 292/301 remain. Coverage includes holds, not resolved artwork. Batch147 OPEN 2/5; No change 0/2. Five minimum; three cumulative No change dossiers trigger5→7→10. Pending is not No change. Corpus290Sorrow+11Unknown; non-SEBook excluded and025/062blocked. A couple is an excessive-prose-overlap dossier pair; fix phase here is written shape/state work, not an anatomy-label or rendered-art census. No148authorized. PR14OPENdraft→NON-WIKI, ownermergeonly. Batch301blocked8bodies/owner4+4; generate/validate before wiki copy.
+
 ## Batch147 unit1 — Sleeping Shard `N-IVδ-611`
 
 **What changed:** Careful spatial/state repair: floating curled figure and unchanged carried crystal are recorded separately from entrant-specific Dream-layer shape changes. Corrupt expansion remains a field around a stationary figure, not pursuit or an enlarged crystal body. Movement header and current flavor no longer imply a fixed object or an observed changing face.
