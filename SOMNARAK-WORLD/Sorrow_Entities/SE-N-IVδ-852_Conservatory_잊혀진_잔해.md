@@ -15,7 +15,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Mixed — A ruin-shaped mass of red-black crystal preserving the exact outline of a place once loved and now gone — its walls true to memory, its rooms empty. Fever-cold, it smells of char; a beloved place, crystallized in its own ending. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement** | Stationary — the holding remains at the Mask Market margin. Its defensive mass repositions between the approach and empty interior; a fixed site does not mean every part of the crystal is motionless. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -123,6 +123,16 @@
 | **Identification** | Check the designation, the element and the manifestation against the file, and verify the outline against the standing architectural record before Work begins; if any detail contradicts, do not proceed. |
 
 **Appearance protocol:** Measure the outline, because the outline is the thing. Take the wall runs, the door apertures, the ceiling heights and the room divisions at the marked stations, and check each against the standing architectural record; a discrepancy in either direction is the most significant observation this holding can produce and is reported the same day. Record the colour of the crystal at three points and the surface temperature by instrument, never by hand, since the heat is the entity's response rather than its condition. Note the smell of char, which is constant. Note what the mass is standing between. The crystal contains no material from the original house — not one brick — and the protocol says so where an observer will read it, because the resemblance is exact enough that personnel have described the walls as original and been sincere.
+
+### The remembered house and the surviving outline
+
+The caretaker in the Tale is the source of the grief, not a person recovered inside the present crystal. Her attempt to reinforce a loved home became the load that destroyed it. Object-Grudge now presents that devotion as ruin-shaped red-black geometry: the house is remembered in wall runs, openings and empty rooms, without a surviving brick from the original. The recollection of furnishings during activation is not the recovery of the absent household or proof that ordinary furniture has become part of the resting body.
+
+The architectural accuracy is not present completeness. The survey records an earlier intact outline and a later permanent loss in the east range. What remains can faithfully mark the lost house while a section is missing; heat settling and the crystal darkening do not restore that section. The declining yield cap follows that irreversible loss. Any illustration of a complete current house, or a repair that grows back after a calm cycle, would erase the physical consequence the survey preserves.
+
+The observed defensive action places crystal mass between the approach and the empty interior. It does not establish locomotion away from the site or a returned caretaker standing guard. Activation adds a temporary reconstructed room and risks the observer's identity; letting that room lapse is not dismantling the crystal or restoring the original home. The caretaker's specifications and breathing in the use log concern the observer's identification with her failure, not a documented human body emerging from the ruin.
+
+Some physical accounts remain unjoined. The Log and Method describes picking up and carrying the ruin, while the approach survey treats it as a fixed site with an interior and a permitted path. No miniature, detached relic, scale change or portable state is specified. The primary classification is activation-only, the Side Codex calls it Transform-capable, and Consequences describe the outline taking more ground against the Record's no-spread account. Do not solve those conflicts by drawing a hand-held ruin that unfolds into a building. The floating limestone glyphs belong to the Weapon, not to a documented detachable part of this red-black crystal body.
 
 ## Origin
 - **Formation:** The Ruin formed from a place destroyed by someone trying to preserve it.

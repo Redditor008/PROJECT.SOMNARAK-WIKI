@@ -70,6 +70,20 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IVδ-852": {
+        "no_change": false,
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_04_CONSERVATORY.md",
+        "whole_before_reread": true,
+        "whole_final_reread": true,
+        "logical_outcome": "held",
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_OPEN.json",
@@ -1603,8 +1617,32 @@
     {
       "designation": "N-IVδ-852",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-852_Conservatory_잊혀진_잔해.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Clarified fixed location versus local defensive repositioning of the crystal mass. Connected caretaker overload, remembered architecture without original bricks, conditional room reconstruction and the later irrecoverable outline loss. Distinguished memory identification from an emerging caretaker and Weapon glyphs from the entity body. Explicitly held carried-relic/scale and Transform/extension conflicts rather than inventing a hand-held ruin that unfolds into a house.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_04_CONSERVATORY.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-A__SIDE_CODEX_Conservatory.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-B__MAW-W_Conservatory_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-C__MAW-S_Conservatory_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-D__MAW-G_Conservatory_Bracelet.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IVδ-901",
