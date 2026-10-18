@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch148 — CLOSED 5/5 reviews, all five whole-file outcomes held
+
+Owner p authorized148only. Reviewed119/103/290/852/518 from the fresh285pending/132cue-candidate queue without substitution. Reconciled only supported local body/movement/state claims after full primary/source reading, then read all final files. Every receipt records connections to classification/manifestation/Tale/origin, behavior/combat, equipment and contradictory records.
+
+Five individual commits and pushes verified; five fresh checks per file PASS again at close. Original numeric sequences, complete equipment blocks and reviewed source bytes unchanged; LC_ALL=C wc -w aggregate40,704→42,575 (+1,871). Whole-wing similarity0/301couples, labels0violations/301audited;10appearance testsPASS. These checks do not certify whole-file logic. All five dossiers HELD, SE+0/equipment+0; No change0/5, so no ladder expansion. SE12/3013.99% (289remain), all-types245/30181.40% (56remain), Weapon245/28785.37% (42remain). Ledger8changed4retained7held2blocked280pending. Prior12not retroactively certified.
+
+Per-file changes, independent Commentary, before/after logic, unresolved holds, raw closing checks, links, hashes and source fingerprints: [B148_CLOSE.json](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_CLOSE.json). Unit commits:1194a766f4;103bd02bab;290a2c42c5;85284d255f;518df33101. Closure governance gate/push recorded by the actual closing commit, not preclaimed here. No149authorization; PR14OPENdraft→NON-WIKIownermergeonly. Batch301blocked eight owner bodies/owner4+4; generate/validate before wiki copy.
+
 ## Batch148 unit5 — Life Behind Glass `N-Iα-518`
 
 [[SE-N-Iα-518_Life_Behind_Glass_솟구친_창](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-518_Life_Behind_Glass_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%B0%BD.md "SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md")]

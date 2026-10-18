@@ -18,7 +18,7 @@
   },
   "active_batch": {
     "number": 148,
-    "status": "OPEN",
+    "status": "CLOSED",
     "required": 5,
     "queue": [
       "O-IIβ-119",
@@ -101,7 +101,8 @@
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_OPEN.json",
-    "logical_reading_required": true
+    "logical_reading_required": true,
+    "closure_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_CLOSE.json"
   },
   "dossiers": [
     {

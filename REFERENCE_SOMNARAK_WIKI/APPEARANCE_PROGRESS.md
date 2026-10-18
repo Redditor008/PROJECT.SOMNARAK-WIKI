@@ -151,6 +151,10 @@ CLOSED5/5reviews, No change2/5; no7rung triggered. Four SE completions:611/371re
 
 Five individual PUSH VERIFIED unitsdb6d971/7abec5c/276f1df/0aab347/5af0f14.25fresh checks,10tests,labelcheckPASS,couples0/301.40,584→41,232words(+648),originaldigits/equipmentunchanged,25unchangedsourcefingerprints. [Closing evidence](SE_APPEARANCE_REVIEWS/B147_CLOSE.json). No148withoutfreshP; no next queue selected. PR14OPENdraft→NON-WIKIownermergeonly.301blocked8bodies/owner4+4generatevalidatebeforecopy.
 
-## Batch148 current opening
+## Batch148 — CLOSED 5/5 reviews; 0 completed fixes
 
-OPEN0/5:119/103/290/852/518pending. Before-and-after whole-file logical reading required; record connection evidence and unresolved contradictions rather than treating local fixes or automated checks as a logical PASS. Counters unchanged12/301SE,245/301all-types,245/287Weapon. Prior completions not retroactively re-certified. [Opening evidence](SE_APPEARANCE_REVIEWS/B148_OPEN.json).
+Owner p authorized148only. Fresh285pending/132cue-candidates selected119/103/290/852/518, no substitutions; cues determine read order, not defects. Full before-and-after dossier/source readings, five actual checks per file and five separate verified unit pushes are recorded in [closure evidence](SE_APPEARANCE_REVIEWS/B148_CLOSE.json).
+
+All five primaries received limited supported repairs, but all five whole-file logical outcomes remain held; no completed entity appearance or duplicate equipment credit. No change0/5, so no5→7extension. Counters remain12/301SE,245/301all-types and245/287Weapon. Ledger8changed/4retained/7held/2blocked/280pending; prior12not retroactively certified. Current validation tools cannot establish narrative coherence.
+
+Batch149 is not authorized. Batch301 remains blocked on eight owner-provided bodies and owner4+4selection; generate/validate before wiki copy. PR14OPENdraft→NON-WIKI, ownermergeonly. Historical holds preserved; no artwork completion claimed.
