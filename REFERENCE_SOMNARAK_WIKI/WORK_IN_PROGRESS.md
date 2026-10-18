@@ -1,5 +1,21 @@
 # Work In Progress
 
+## Batch149 unit2 — Frozen Window `C-IIβ-330`
+
+[[SE-C-IIβ-330_Frozen_Window_얼어붙은_창](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-330_Frozen_Window_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%B0%BD.md "SE-C-IIβ-330_Frozen_Window_얼어붙은_창.md")]
+
+**Change:** Aligned SECCMovement and breach alert with recorded relocation rather than pursuit. Connected household waiting, mobile figure, conditional surface scenes and frost-derived equipment without a literal portal or frame on the body. Added explicit pane/never-resting/confinement conflicts, not an invented transition.
+
+**Before:** CurrentSubjectGrudge/Weight figure is mobile blackice/burningoutline with surface scenes and paired footprints, while earlier household supplies refusal to accept an ending. SideA explicitly connects waiting to motion without arrival. SECCpursue and indiscriminate-hunt alert conflict with no selected target/relocation in Breach/Consequences/Record. CombatWindowopening/shatter versus no pane/frame; no resting state versus sourceA/Dstop; corner confinement versus stillness hazard cannot be silently conditionalized.
+
+**After full final reread:** Read complete467line final after actual checks, headers/parameters/attacks/phases/consequences through Appearance/newnote/Origin/Work/breach, all equipment and field-use, observations/story/final/flavor/allpairings, Tale/Testimony/Record and entireWatchRecord through ending-register/footer. Non-pursuit wording now agrees with escape records; origin can explain motion without forcing the actual woman to keep walking. Body/open-pane, stopping and confinement conflicts remain; logicalHELD.
+
+**Holds:** Tale absorbed woman/glass/frame/fixed-corner and oldMaster no-breach versus current no-pane/frame/walking body; combat opening/shattering window/cold gap remains no documented anatomy. Primary never-rests versus SideAresonance stop and Dbestowal palm/pause/stableposture; containing in space too small for circuit against stillness escalation. Simultaneous hot/cold measurements retained as recorded. Perturn drain versus perrelocation gauge and3conditions/60%/65%ultimate; walk pace versus slows-to-walk; per-shift cap versus not-resetatshiftboundary; no harm to nonPugnahan versus shatter attacks. Notranscribing scene content versus detailedFlerehanfarewell recognized; formermissingrecipient confirmedcannotreceive versus neverconfirmeddeath remains uncertain. Weapon7–12/Normal3/Range3/4mcone versus5–9/Measured2/Range2/Single/CircuitBreaker; archetypeMAW-W330LamentationDirk(Long)not thisPike. Suit20%frontmitigation versus30%slow/12mist/thermalclouding itemC; D8%crit versusTerminalClarity20%armorignore+3–5Weight/remoteenvironment; primaryCommons-only versus sourceDfieldtelemetry. Four unmerged seteffects, unnamed thermal-sourceW versusBfrostresidue frame/extraction location, modifier+10%itemonly, separate mental tolls unchanged.
+
+**Commentary:** Waiting becoming compulsory walking is a strong inversion, not a reason to replace the figure with a window. The missing-person declarations give naming an ending a troubling public cost. I would preserve the unknowable ninth scene category rather than solve it into a secret returned-person body.
+
+Full original/final and exactsources/history reading, five actual checks and fingerprints in `B149_02_FROZEN_WINDOW.md`. Outcomeheld; SE+0/equipment+0. Batch119unit50377e6b already credited all-types; B82unit2 already held/counts exact330Weapon pair. C-locale words7,945→8,207. Written design, no rendered/live verification. OPEN2/5; No change0/2; pending≠No change. No150or merge.
+
 ## Batch149 unit1 — Owed `C-IIIγ-180`
 
 [[SE-C-IIIγ-180_Owed_빚의_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-180_Owed_%EB%B9%9A%EC%9D%98_%EB%B2%BD.md "SE-C-IIIγ-180_Owed_빚의_벽.md")]

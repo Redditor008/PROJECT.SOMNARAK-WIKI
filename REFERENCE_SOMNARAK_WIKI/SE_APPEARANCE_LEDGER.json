@@ -43,6 +43,21 @@
           "sect": "PASS"
         },
         "rendered_check": "not in scope"
+      },
+      "C-IIβ-330": {
+        "no_change": false,
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_02_FROZEN_WINDOW.md",
+        "whole_before_reread": true,
+        "whole_final_reread": true,
+        "logical_outcome": "held",
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        },
+        "rendered_check": "not in scope"
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_OPEN.json",
@@ -483,8 +498,32 @@
     {
       "designation": "C-IIβ-330",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-330_Frozen_Window_얼어붙은_창.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Aligned SECCMovement and breach alert with recorded relocation rather than pursuit. Connected household waiting, mobile figure, conditional surface scenes and frost-derived equipment without a literal portal or frame on the body. Added explicit pane/never-resting/confinement conflicts, not an invented transition.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_02_FROZEN_WINDOW.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-330-A__SIDE_CODEX_Sitting_Boundary.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-330-B__MAW-W_The_Frozen_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-330-C__MAW-S_The_Frozen_Pane.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-330-D__MAW-G_The_Frozen_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIβ-340",
