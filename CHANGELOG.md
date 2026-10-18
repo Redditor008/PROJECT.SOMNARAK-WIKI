@@ -8,6 +8,28 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## SE Appearance Fix — Batch145 unit3: Relic of a Thousand Owners `O-IVδ-792`
+
+**What changed:** No change
+
+**Shape / chronology:** Retained the supported earlier carried object becoming the later ghostly bearer. Its current person/object outline never stabilises, and the burden varies on every sighting. A binary state table would invent stable endpoints expressly excluded by the Apex record. The fixed-point Corrupt event alters pressure and surroundings rather than supplying a separately evidenced solid monster.
+
+**Evidence and holds:** Fresh whole primary read469lines in ordered1–230/231–469 outputs. Fresh exact792A/B/C/D read, with A/B recovered separately after combined-output truncation. Full MasterMAW8327–8357 and Tale22612644–12697 reread, identity crosschecked Entity596, Registry887–890, archetype323 and disposition266. Git history9490830 inspected; current whole primary byte-identical to that completed whole-dossier review. Current full-file reread is also final: primary unchanged throughout this unit. Retain falchion/Hammer history/title conflict, Short archetype versus Medium item, silk shroud versus Masterlivingchitin, Stigma Tail4% versus registryAccessory5%/Masterpendant, and narrower gift details not established in D. No invented equipment transitions. Containedheader versus observationalcustody and claim-drivenGauge versus perturnComposure are retained distinct scopes, not anatomy proof.
+
+**Commentary:** Its refusal to settle between person and possession is the right shape for a chain of custody with no living owner. The design should remain unstable; making the figure definitively human would answer the very question the story keeps open.
+
+**Validation:** 0short/0careful predeclared; whole final reread before gate; five checks PASS; word count 8,536→8,536 (+0); original digit sequence and equipment-through-end unchanged. [Individual evidence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_03_792.md). No new illustrations or duplicate legacy credit.
+
+One individually completed SE appearance review; the batch remains open until its required rung is complete.
+
+| Dossier | Change | Words | Checks | Credit |
+|---|---|---:|---|---|
+| [Relic_of_a_Thousand_Owners](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-792_Relic_of_a_Thousand_Owners_%ED%9D%90%EB%A5%B4%EB%8A%94_%EC%9C%A0%EB%AC%BC.md "SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물.md") `O-IVδ-792` | No change | 8,536→8,536 | 5/5 PASS | SE+1; old+0 |
+
+[[SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-792_Relic_of_a_Thousand_Owners_%ED%9D%90%EB%A5%B4%EB%8A%94_%EC%9C%A0%EB%AC%BC.md "SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물.md")]
+
+**Counters:** ALL M.A.W. Types Appearance per SE — source-review coverage240/301=79.73%,61/301remaining. ALL M.A.W.-W Appearance per SE — source-review coverage240/287=83.62%,47/287remaining. SE Appearance Fix3/301=1.00%,298/301remaining. Historical equipment coverage includes holds, not finished redraws. Batch145OPEN3/5; Nochange1/3. Five minimum; three cumulativeNochange triggers5→7→10. NoBatch146 or lower close. Current P resumes145 only. The written-shape fix phase includes supported states and authorized redesign, not automatic human-body assumptions. A couple is two dossiers over the prose-overlap threshold, not an equipment pair. Brancharena/954853ad-project-somnarak-wiki; PR14ownermergeonly; Batch301blocked8bodies/4+4generatevalidatebeforecopy. Individual gate/push follows this evidence entry.
+
 ## SE Appearance Fix — Batch145 unit2: Whispering Gallery `C-IIβ-185`
 
 **What changed:** The Appearance States block now connects the named memorial, subsequent loss of faces, and current four documentary restorations. The hall stays fixed while acoustic coverage can widen.

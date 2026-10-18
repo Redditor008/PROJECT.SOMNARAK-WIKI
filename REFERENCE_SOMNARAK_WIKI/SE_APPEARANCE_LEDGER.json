@@ -1722,8 +1722,24 @@
     {
       "designation": "O-IVδ-792",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "retained",
+      "note": "No change",
+      "outcome": "retained design",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_03_792.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/792_Relic_of_a_Thousand_Owners/SE-792-B__MAW-W_The_Flowing_Hammer.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/792_Relic_of_a_Thousand_Owners/SE-792-A__SIDE_CODEX_Relic_of_a_Thousand_Owners.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/792_Relic_of_a_Thousand_Owners/SE-792-C__MAW-S_The_Flowing_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/792_Relic_of_a_Thousand_Owners/SE-792-D__MAW-G_The_Flowing_Charm.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IVδ-844",
