@@ -17,19 +17,18 @@
     }
   },
   "active_batch": {
-    "number": 145,
-    "status": "CLOSED",
+    "number": 146,
+    "status": "OPEN",
     "required": 5,
     "queue": [
-      "O-Iα-108",
-      "C-IIβ-185",
-      "O-IVδ-792",
+      "O-Iα-720",
+      "C-IIβ-051",
+      "C-Vγ-225",
       "N-IIβ-426",
-      "C-IVδ-907"
+      "C-Iα-884"
     ],
-    "closed": "2026-10-18",
-    "no_change": 2,
-    "close_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_CLOSE.json"
+    "kind": "combined-equipment-first",
+    "reviewed": {}
   },
   "dossiers": [
     {
@@ -1924,5 +1923,23 @@
       "status": "pending",
       "note": "Not yet reviewed in the independent SE appearance pass."
     }
-  ]
+  ],
+  "batch_history": [
+    {
+      "number": 145,
+      "status": "CLOSED",
+      "required": 5,
+      "queue": [
+        "O-Iα-108",
+        "C-IIβ-185",
+        "O-IVδ-792",
+        "N-IIβ-426",
+        "C-IVδ-907"
+      ],
+      "closed": "2026-10-18",
+      "no_change": 2,
+      "close_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_CLOSE.json"
+    }
+  ],
+  "equipment_reviews": []
 }

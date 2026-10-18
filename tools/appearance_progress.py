@@ -36,6 +36,27 @@ def validate(data, inventory, root=ROOT):
     by_id = {r['designation']: r for r in rows}
     done = sum(by_id[c]['status'] in {'changed', 'retained'} for c in queue)
     unchanged = sum(by_id[c]['status'] == 'retained' for c in queue)
+    # Combined batches count fresh, evidenced reviews, not already-earned SE credits.
+    if 'reviewed' in batch:
+        reviewed = batch['reviewed']
+        assert set(reviewed) <= set(queue), 'Review outside active queue'
+        for code, review in reviewed.items():
+            assert type(review.get('no_change')) is bool, 'Missing review outcome'
+            assert review.get('evidence') and (root / review['evidence']).is_file(), 'Missing batch evidence'
+            assert review.get('whole_final_reread') is True, 'Batch final reread missing'
+            assert review.get('checks') == dict.fromkeys(('verify', 'tpl', 'sectfile', 'wikistd', 'sect'), 'PASS'), 'Batch checks incomplete'
+        done = len(reviewed)
+        unchanged = sum(r['no_change'] for r in reviewed.values())
+    equipment = data.get('equipment_reviews', [])
+    assert len({r['designation'] for r in equipment}) == len(equipment), 'Duplicate equipment credit'
+    for review in equipment:
+        assert review['designation'] in inventory, 'Wrong equipment identity'
+        assert review.get('history_proof'), 'Missing unique-credit history'
+        assert (root / review['evidence']).is_file(), 'Missing equipment evidence'
+        assert type(review['all_types_credit']) is bool and type(review['weapon_credit']) is bool
+    for key, flag in (('all_maw_types_appearance_source_review_per_se', 'all_types_credit'), ('maw_w_appearance_source_review_per_se', 'weapon_credit')):
+        base = data['legacy_baseline'][key]
+        assert base['completed'] + sum(r[flag] for r in equipment) <= base['total'], 'Equipment counter overflow'
     if batch['status'] == 'CLOSED':
         assert done == batch['required'], 'Cannot close below rung'
         assert unchanged < 3 or done == 10, 'No change ladder requires extension'
@@ -65,6 +86,13 @@ def main():
     completed = counts['changed'] + counts['retained']
     print(f'SE Appearance Fix: {completed} / {total} = {completed / total:.2%}; remaining {total-completed} / {total}')
     print(f"Changed {counts['changed']} / {total}; retained {counts['retained']} / {total}; held {counts['held']} / {total}; blocked {counts['blocked']} / {total}; pending {counts['pending']} / {total}")
+    for key, flag, label in (
+        ('all_maw_types_appearance_source_review_per_se', 'all_types_credit', 'ALL M.A.W. Types Appearance per SE — source-review coverage'),
+        ('maw_w_appearance_source_review_per_se', 'weapon_credit', 'ALL M.A.W.-W Appearance per SE — source-review coverage'),
+    ):
+        base = data['legacy_baseline'][key]
+        n = base['completed'] + sum(r[flag] for r in data.get('equipment_reviews', []))
+        print(f"{label}: {n} / {base['total']} = {n/base['total']:.2%}; remaining {base['total']-n} / {base['total']}")
     b = data['active_batch']
     print(f"Batch {b['number']}: {b['status']} {done} / {b['required']}; No change {unchanged} / {done}")
     print('PASS: independent appearance ledger; no legacy credits inferred')

@@ -17,6 +17,8 @@ class AppearanceProgressTests(unittest.TestCase):
         self.inventory = {r['designation']: r['path'] for r in self.data['dossiers']}
         # Fixtures model a fresh OPEN pass even after the live batch is CLOSED.
         self.data['active_batch']['status'] = 'OPEN'
+        self.data['active_batch'].pop('reviewed', None)
+        self.data['equipment_reviews'] = []
         # A clean independent pass must not inherit the two legacy 240 credits.
         for r in self.data['dossiers']:
             r['status'] = 'pending'
@@ -78,6 +80,25 @@ class AppearanceProgressTests(unittest.TestCase):
             batch.update(required=10, queue=[r['designation'] for r in rows])
             _, done, unchanged = ap.validate(self.data, self.inventory, root)
             self.assertEqual((done, unchanged), (10, 3))
+
+    def test_combined_batch_needs_fresh_review(self):
+        self.data['active_batch']['reviewed'] = {}
+        row = self.data['dossiers'][0]
+        with tempfile.TemporaryDirectory() as d:
+            root = Path(d)
+            (root / 'evidence.md').write_text('Earlier SE review')
+            (root / 'source.md').write_text('Source')
+            row.update(status='changed', outcome='source-supported repair', evidence='evidence.md',
+                       sources=['source.md'], whole_final_reread=True,
+                       checks=dict.fromkeys(('verify', 'tpl', 'sectfile', 'wikistd', 'sect'), 'PASS'))
+            counts, done, unchanged = ap.validate(self.data, self.inventory, root)
+            self.assertEqual((counts['changed'], done, unchanged), (1, 0, 0))
+
+    def test_combined_review_requires_evidence(self):
+        code = self.data['active_batch']['queue'][0]
+        self.data['active_batch']['reviewed'] = {code: {'no_change': True}}
+        with self.assertRaises(AssertionError):
+            ap.validate(self.data, self.inventory)
 
     def test_held_is_not_completion(self):
         self.data['dossiers'][0]['status'] = 'held'
