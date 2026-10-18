@@ -8,9 +8,9 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 
 | Workstream | Completed | Coverage | Remaining |
 |---|---:|---:|---:|
-| ALL M.A.W. Types Appearance per SE — source-review coverage | 240 / 301 | 79.73% | 61 / 301 |
-| ALL M.A.W.-W Appearance per SE — source-review coverage | 240 / 287 | 83.62% | 47 / 287 |
-| SE Appearance Fix — independent written-design pass | 5 / 301 | 1.66% | 296 / 301 |
+| ALL M.A.W. Types Appearance per SE — source-review coverage | 241 / 301 | 80.07% | 60 / 301 |
+| ALL M.A.W.-W Appearance per SE — source-review coverage | 241 / 287 | 83.97% | 46 / 287 |
+| SE Appearance Fix — independent written-design pass | 6 / 301 | 1.99% | 295 / 301 |
 
 These are coverage counters, **not promises that every held discrepancy is repaired**. The first two retain their historical criteria and explicit source holds. The new counter starts at zero; old equipment reviews, general prose fixes, shape screening and the R-32 clarification are not backfilled as SE appearance completions.
 
@@ -86,3 +86,7 @@ Counters start at ALL M.A.W. Types Appearance per SE source-review coverage240/3
 The ledger now records fresh batch reviews separately from cumulative SE credits, so Hollowcast's earlier completion does not make this batch1/5 at opening. Immutable baseline remains240/240; post-baseline equipment dispositions are separate evidence records. Validator gains corresponding checks and tests. Batch145 stays historically CLOSED5/5; no146unit is completed yet.
 
 Minimum five completed dossiers. Three cumulative No change dossiers trigger5→7→10. Never force an edit or close below the opened rung. Pending is not No change. All final rereads, five checks, individual Commentary and individual gate/push remain mandatory. No147authorized. PR14ownermergeonly; no deployment. Batch301separateblocked8bodies/owner4+4generatevalidatebeforecopy. Recovery preserved /home/user/b146/restored.patch and restored metadata only after every remote tracked file matched workspace bytes.
+
+### Batch146 unit1 — `O-Iα-720`
+
+One short movement repair: the header now preserves upright/flowing wax forms and drift toward speech instead of unsupported pursuit. Existing multi-form Appearance retained. LC_ALL=C words7,104→7,118(+14). [Individual evidence](SE_APPEARANCE_REVIEWS/B146_01_APHASIA.md). Current batch OPEN1/5; Nochange0/1. Current totals all-types241/301, Weapon241/287, SE6/301; previous snapshots above are historical.

@@ -28,7 +28,20 @@
       "C-Iα-884"
     ],
     "kind": "combined-equipment-first",
-    "reviewed": {}
+    "reviewed": {
+      "O-Iα-720": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_01_APHASIA.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -1896,8 +1909,24 @@
     {
       "designation": "O-Iα-720",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-720_Aphasia_녹아내린_속삭임.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "changed",
+      "note": "One short movement repair: the header now preserves upright/flowing wax forms and drift toward speech instead of unsupported pursuit. Existing multi-form Appearance retained. LC_ALL=C words7,104→7,118(+14).",
+      "outcome": "source-supported repair",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_01_APHASIA.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-720-A__SIDE_CODEX_Aphasia.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-720-B__MAW-W_The_Melted_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-720-C__MAW-S_The_Melted_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-720-D__MAW-G_The_Melted_Word.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-Iα-754",
@@ -1941,5 +1970,14 @@
       "close_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_CLOSE.json"
     }
   ],
-  "equipment_reviews": []
+  "equipment_reviews": [
+    {
+      "designation": "O-Iα-720",
+      "batch": 146,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_01_APHASIA.md",
+      "history_proof": "Batch144closing shortlist explicitly pending; exactID/source-pair credit search across WIP/CHANGELOG found no completed720 review. Pathhistory10cd20a; artpersonalization515 is not independent review credit.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    }
+  ]
 }

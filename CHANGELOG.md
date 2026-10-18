@@ -8,6 +8,26 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch146 unit1 — Aphasia `O-Iα-720`
+
+**What changed:** One short movement repair: the header now preserves upright/flowing wax forms and drift toward speech instead of unsupported pursuit. Existing multi-form Appearance retained. LC_ALL=C words7,104→7,118(+14).
+
+**Source review and holds:** Complete417line primary before and final reread; exactA–D4/4whole; fullMasterEntries724–726/Tale242; Entity612,registry835–838,archetype281,art515,disposition204 and credit history checked. All numeric stat sets compared. Spear versus oldFang/source/art, Short versus archetypeInstant, primary Bodyburns versus narrative-severance, darkplate versus vestments, sourceworkbonus versusResilience, Tail versus handseal/Accessory, sentence versus fragment and bearer costs held. No invented equipment transition. Neutral retained: neighbours change or preserve this trace, not suppressed/released by it.
+
+**Commentary:** Accurate listening gives it a body without supplying its accusation. A wax figure drifting toward helpful speech fits the sorrow better than another pursuing humanoid. The spear/Fang disagreement must remain a source question, not a fabricated transformation.
+
+**Validation / credit:** Full final reread; actual5checks PASS; original digits and equipment-through-end byte-identical. Batch144closing shortlist explicitly pending; exactID/source-pair credit search across WIP/CHANGELOG found no completed720 review. Pathhistory10cd20a; artpersonalization515 is not independent review credit. SE credit+1, all-types+1, uniqueWeapon+1. [Evidence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_01_APHASIA.md). Individual gate/push follows, separate from reading/edit/check steps.
+
+Reviewed dossier:
+
+| Dossier | Result | Checks | Credit |
+|---|---|---|---|
+| [Aphasia](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-720_Aphasia_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-O-Iα-720_Aphasia_녹아내린_속삭임.md") `O-Iα-720` | Source-supported repair | 5/5 PASS | all+1/W+1/SE+1 |
+
+[[SE-O-Iα-720_Aphasia_녹아내린_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-720_Aphasia_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-O-Iα-720_Aphasia_녹아내린_속삭임.md")]
+
+**Live counters:** ALL M.A.W. Types Appearance per SE — source-review coverage241/301=80.07%,60/301remain. ALL M.A.W.-W Appearance per SE — source-review coverage241/287=83.97%,46/287remain. SE Appearance Fix — independent written-design pass6/301=1.99%,295/301remain. Equipment coverage includes holds, not resolved artwork; SE credit never follows automatically. Batch146OPEN1/5, Nochange0/1, five minimum and three-Nochange5→7→10. Pending is not Nochange. Fix phase is source-supported written consistency/shape work, not an artwork census; a couple is a dossier-prose overlap pair, not an equipment pair. Corpus290Sorrow+11Unknown, non-SEBook excluded, blocked025/062not silently worked. No147. PR14OPENdraft→NON-WIKI, ownermergeonly. Batch301blocked8bodies/4+4generatevalidatebeforecopy.
+
 ## Batch146 — OPEN0/5: equipment-first combined appearance review
 
 Owner P authorizes one next batch. Owner permits finishing the older work first or combining both workstreams, and accepts longer execution. Use separate Bash steps for source reading, each edit, checks, evidence and each gate/push; never dump the entire batch into one Bash command.
