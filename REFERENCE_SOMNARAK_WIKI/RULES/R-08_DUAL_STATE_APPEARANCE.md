@@ -15,3 +15,13 @@ Owner clarification (2026-10-17): **the Tale can be before, while Appearance is 
 Adapt the state labels to the evidence: **earlier / later**, **before / after**, or named stages. The transition need not be a breach, and no reversible cycle, breach designation or new Work permission follows automatically. For non-breach forms, adapt the structural labels above to **State change** and **Retained mechanic** rather than inserting a fictitious breach section. Keep an uncertain relationship explicitly uncertain.
 
 The owner's Beauty and the Beast analogy illustrates narrative timing, not anatomy or mechanics to import into Somnarak. The Maw supplies a local example: a stationary district and the Walking District event retain the consumed citizens and architecture. Its reserved event form must not be presented as a witnessed current condition. Historical voices and current-cycle silence are a separate time distinction, not evidence of a different body.
+
+## Whole-file logical reading before and after a repair
+
+Owner direction,2026-10-18: appearance must work with Entity Type, Manifestation and Tale, and Appearance, Physical Form and Movement must connect logically to one another and the rest of the dossier. A repaired paragraph surrounded by mismatched claims is not a completed fix.
+
+Before editing, read the complete primary and identity-resolved source records. Record the chain: Entity Type and Manifestation → sorrow/Tale and source-supported history → current and conditional form → Physical Form, presence and Movement → Work and combat → activation/breach/expansion → observations, interactions and equipment dependence. Identify simultaneous contradictions separately from earlier/later or conditional differences.
+
+After edits and actual checks, reread the complete final primary in document order. Revisit that chain using the final wording, including untouched sections. Record what was repaired, what remains consistent, and each unresolved conflict with its source/section anchors. Do not infer a physical body from an effect radius, pursuit from spread, a current anatomy from an origin human, or a reversible state from a Tale.
+
+A local correction or automated linter PASS cannot certify whole-file logic. If unresolved claims prevent a supported account of how the entity exists or acts, mark the logical outcome held and do not award a new completed SE appearance credit. Keep source disagreements visible; never invent numbers, chronology, anatomy or permissions to manufacture agreement. No change still needs the complete before/after reading and evidence. Earlier reviews are not retroactively certified by adding this rule.

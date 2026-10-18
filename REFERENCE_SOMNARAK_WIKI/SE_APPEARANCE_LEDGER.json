@@ -17,81 +17,20 @@
     }
   },
   "active_batch": {
-    "number": 147,
-    "status": "CLOSED",
+    "number": 148,
+    "status": "OPEN",
     "required": 5,
     "queue": [
-      "N-IVδ-611",
-      "N-IVδ-909",
-      "N-IVδ-641",
-      "O-IIIγ-371",
-      "O-Iα-169"
+      "O-IIβ-119",
+      "C-IVδ-103",
+      "C-Vδ-290",
+      "N-IVδ-852",
+      "N-Iα-518"
     ],
     "kind": "se-appearance",
-    "reviewed": {
-      "N-IVδ-611": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_01_SLEEPING_SHARD.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "N-IVδ-909": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_02_DORMANT_MONOLITH.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "N-IVδ-641": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_03_HOME_TO_NO_ONE.md",
-        "no_change": true,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "O-IIIγ-371": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_04_PROTEST_NO_ONE_REMEMBERS.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "O-Iα-169": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_05_ATLAS.md",
-        "no_change": true,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      }
-    },
-    "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_OPEN.json",
-    "close_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_CLOSE.json"
+    "reviewed": {},
+    "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_OPEN.json",
+    "logical_reading_required": true
   },
   "dossiers": [
     {
@@ -2242,6 +2181,83 @@
         }
       },
       "close_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_CLOSE.json"
+    },
+    {
+      "number": 147,
+      "status": "CLOSED",
+      "required": 5,
+      "queue": [
+        "N-IVδ-611",
+        "N-IVδ-909",
+        "N-IVδ-641",
+        "O-IIIγ-371",
+        "O-Iα-169"
+      ],
+      "kind": "se-appearance",
+      "reviewed": {
+        "N-IVδ-611": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_01_SLEEPING_SHARD.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "N-IVδ-909": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_02_DORMANT_MONOLITH.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "N-IVδ-641": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_03_HOME_TO_NO_ONE.md",
+          "no_change": true,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "O-IIIγ-371": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_04_PROTEST_NO_ONE_REMEMBERS.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "O-Iα-169": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_05_ATLAS.md",
+          "no_change": true,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        }
+      },
+      "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_OPEN.json",
+      "close_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_CLOSE.json"
     }
   ],
   "equipment_reviews": [

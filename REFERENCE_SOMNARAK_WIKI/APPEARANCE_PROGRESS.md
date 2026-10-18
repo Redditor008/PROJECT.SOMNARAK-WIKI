@@ -150,3 +150,7 @@ No change. Independently retain the existing earlier-worker/incorporation/curren
 CLOSED5/5reviews, No change2/5; no7rung triggered. Four SE completions:611/371repaired,641/169retained;909held despite limited correction. Equipment+0: prior99/118/121/109/143reviews not repeated. Current245/301all-types81.40%,245/287Weapon85.37%,12/301SE3.99%; SE8changed/4retained/2held/285pending/2blocked,289remain. Written work, not artwork. Earlier unit/opening snapshots historical.
 
 Five individual PUSH VERIFIED unitsdb6d971/7abec5c/276f1df/0aab347/5af0f14.25fresh checks,10tests,labelcheckPASS,couples0/301.40,584→41,232words(+648),originaldigits/equipmentunchanged,25unchangedsourcefingerprints. [Closing evidence](SE_APPEARANCE_REVIEWS/B147_CLOSE.json). No148withoutfreshP; no next queue selected. PR14OPENdraft→NON-WIKIownermergeonly.301blocked8bodies/owner4+4generatevalidatebeforecopy.
+
+## Batch148 current opening
+
+OPEN0/5:119/103/290/852/518pending. Before-and-after whole-file logical reading required; record connection evidence and unresolved contradictions rather than treating local fixes or automated checks as a logical PASS. Counters unchanged12/301SE,245/301all-types,245/287Weapon. Prior completions not retroactively re-certified. [Opening evidence](SE_APPEARANCE_REVIEWS/B148_OPEN.json).
