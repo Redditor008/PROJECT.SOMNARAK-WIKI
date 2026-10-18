@@ -1,5 +1,25 @@
 # Work In Progress
 
+## Batch151 unit3 — The Hollow Saint `C-IIIγ-081`
+
+[[SE-C-IIIγ-081_The_Hollow_Saint_빈_성자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-081_The_Hollow_Saint_%EB%B9%88_%EC%84%B1%EC%9E%90.md "SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md")]
+
+**Change:** No change. No primary or linked-source edit; unsupported whole-body or chronology reconciliation deferred explicitly.
+
+**Source evidence:** Full exact081A/B/C/D read; A/C/D reopenedafteroversizedglobtruncated. A4/4 explicitlyC-IIIγ-081VS; chestairunfinished/ribs; Work4; Sourcehandslowerrelease vsprimarycontinuous. CompleteMaster40–42detail1255–1287,index80–82; Entityentry/Tale14771–832; CSV130–133; archetype081LongChoralStaff; disposition289; WIPB1203596–3602 andB864652 pluspathhistoryaab2ddb. SidehistoricalDawnnotcurrent; Dawntargetedchainrecord explicitlyhistoricalbranches/currentcycleavoided, doesnotprovethisbodymusttransfigure. Sourcesunchanged.
+
+**Full logical before/after:** Complete464line original read1–230/231–464, includingfullWardenethical/institutionalrecords. Subject/SubjectVoid/Mixed fleshcurvingaroundchestabsence, bloodlesscoldash, no reflection; healerhumanTale→radiantemptysaintcurrentbody explicitly supported, nothumanoriginautomaticbodyassumption. Uprightwalking1.95m/s compatibleescapingSubject. About4m continuousreach/restingmeasureandmovinghands; no infer limbextensionmechanism. Robesnothinginside vsfleshribs; fixedposture vsfrontopening/ascent not explainedasstates. No forcedmonster/redesign.
+
+Complete464line final reread1–230/231–464 afteractualfivechecksPASS, includingallclassification/parameters/combat/actions/phases; Appearance/Origin/fourWork/breach; allkit/binding/Fieldcosts; observation/fiveStory/final/flavor; allthreeinteractions; completeTale/Testimony/Registry; WardenAbsence/Reaching/Healer/TestedComforts/entire12vs61measurements/refusedexperiment/NoGrounds/OneWatchEach/clerk/deputy; Trivia/footer. WholelogicalHELD, no completedcredit.
+
+**Holds:** Robesnothinginside vsMixedfleshinwardchest/ribsonSide, notsilentchoosefullfleshorclothapparition. Permanentblessingposture/continuoushands/onlyreach&distancemove vsReliquaryfrontopens/EmptyHeavenascends/halo/judginggazeandfraudexposed; conditionalcombatformmayexistbutnotdocumentedphysicaltransition. Talegenuinecompulsorykindness vscombatsainthoodfraud/condemnationneedsrelationship. NearestpersonAppearance vsmostburdenedEscapeandunburdenedignored; no automaticcontradictionifstateconditionsbutnotdeclared. Cannotfillhollow vsSideopenquestionrebuildingbycare notproofrepair. ContinuousreachneverloweredvsSidevoluntaryreleasehandslowered/sourceextract; sourceconsentandhealingvsprimarynothingheals notbodyelection.2/75%/65%unchanged; Clare+5free vsGaugefall5andselflimitingdonotnecessarilymeasureonequantity. Severalexposuretime20min vsFieldhourmarks andsingleassignmentonewatch; Warden61postrulesessionsvs73sincerule alongside12prerule, historicalseriesunclear. Correctedmoderate/Flerehanonly stillMasterTale notcurrentrestore. Side3Understood vsprimaryAdvanced retainedlabels. WeaponsceptrevsresidualLens/disc/face-down andMasterpolearmvsMagic; currentBeamnotbodyandnoLenssecondform. Suitcoldprimaryvshealthywarmcollarconditionalunresolved; Stigmabrow-bandunseeableinside/reflectiveactivecup vsAppearancecord-liddedemptyvisibleinterior noexplicittransition, notinventedstates; Masterorb/coronet andAccessory5%vsHead4%. Allheld.
+
+**Commentary:** The strongest detail is that her practice record shows no error. The harm comes from successful care without a boundary, not secret cruelty. The clerk’s final admission then lets the institution repeat the pattern without pretending not to recognize it.
+
+Outcome **held**; SE+0, equipment+0 (each independent coverage counter). Batch120aab2ddbfullsetalreadycounted; exact081B/MAWW08101countedB8648e6de5e, notagain. NoequipmentorSEcompletioncredit.
+
+Five actual technical checks PASS; complete final reread. C-locale words 8,073→8,073. Evidence `B151_03_THE_HOLLOW_SAINT.md`. Written design only, no rendered/live inspection. Batch151 OPEN3/5, No change1/3. No152 or merge.
+
 ## Batch151 unit2 — Heirloom `O-IVδ-909`
 
 [[SE-O-IVδ-909_Heirloom_스며든_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-909_Heirloom_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-O-IVδ-909_Heirloom_스며든_메아리.md")]
