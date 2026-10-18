@@ -40,6 +40,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIβ-051": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_02_HAPPY_MASK.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -311,8 +323,24 @@
     {
       "designation": "C-IIβ-051",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "changed",
+      "note": "Joy Lens gains sourceB-supported convex disc, short black handle, thumb rest and tether ring. The mask stays tray-bound rather than executing an invented violent exit. One careful/one short change, separately applied; words7,520→7,569(+49).",
+      "outcome": "source-supported repair",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_02_HAPPY_MASK.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/051_Happy_Mask/SE-051-A__SIDE_CODEX_The_Happy_Mask.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/051_Happy_Mask/SE-051-B__MAW-W_The_Joy_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/051_Happy_Mask/SE-051-C__MAW-S_The_Joy_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/051_Happy_Mask/SE-051-D__MAW-G_The_Joy_Facade.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIβ-054",
@@ -1976,6 +2004,14 @@
       "batch": 146,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_01_APHASIA.md",
       "history_proof": "Batch144closing shortlist explicitly pending; exactID/source-pair credit search across WIP/CHANGELOG found no completed720 review. Pathhistory10cd20a; artpersonalization515 is not independent review credit.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "C-IIβ-051",
+      "batch": 146,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_02_HAPPY_MASK.md",
+      "history_proof": "Batch144explicitpending; exact051pair/full-designation history search found no completed independent source review. Priorprose/artwork not grandfathered; pathhistory10cd20a.",
       "all_types_credit": true,
       "weapon_credit": true
     }

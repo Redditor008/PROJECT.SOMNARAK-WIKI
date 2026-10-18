@@ -96,7 +96,7 @@
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Composure**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
 - Time is The Happy Mask’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
 - M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. The Happy Mask executes its documented event pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- An unresolved reading leaves the mask in its tray, retaining warmth in the lacquer while the smile broadens. It has no recorded means of leaving that tray. Close the lid, clear the room, log the names, and leave the vault for a full cycle; no violent exit or travelling body is established.
 
 ## Appearance
 **Physical Form:** A beautiful lacquered mask with a fixed gentle smile; its dark interior absorbs the wearer's expression. **Movement:** Stationary when unworn — a mask moves only with the wearer.
@@ -219,7 +219,7 @@ There is no event pattern to describe. The mask does not move, has never moved, 
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of Void Han-glass, all but colourless, that gives off a low hum once it is held.
+**Appearance:** a lens-ground disc of Void Han-glass, all but colourless, that gives off a low hum once it is held. The slightly convex disc is mounted on a short black handle, with a shallow thumb rest at its base and a small tether ring at the pommel.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)

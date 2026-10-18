@@ -8,6 +8,26 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch146 unit2 — The Happy Mask `C-IIβ-051`
+
+**What changed:** Joy Lens gains sourceB-supported convex disc, short black handle, thumb rest and tether ring. The mask stays tray-bound rather than executing an invented violent exit. One careful/one short change, separately applied; words7,520→7,569(+49).
+
+**Source review and holds:** Whole505line primary before and after checks; exactA–Dwhole; fullMasterEntries106–108/Tale36,Entity400,registry94–97,archetype79,art192,disposition321/history. Weapon ability/bearer cost and Short/Instant range remain held. Head versus chest cord, Stigma encounter limit and rebound, Suiteffectscope and wearing/never-worn protocol history remain unresolved without fabricated dates or extra bodies. Neutral retained across91null-effectpairings.
+
+**Commentary:** The mask works as an object that measures compelled happiness, not a chasing creature. Giving the Lens its actual handle makes it a readable instrument rather than a floating disc. The facility using truthful measurements to require more performance is the strongest horror here.
+
+**Validation / credit:** Full final reread; actual5checks PASS; original digits unchanged; only the predeclared equipment Appearance addition changed; statistics retained. Batch144explicitpending; exact051pair/full-designation history search found no completed independent source review. Priorprose/artwork not grandfathered; pathhistory10cd20a. SE credit+1, all-types+1, uniqueWeapon+1. [Evidence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_02_HAPPY_MASK.md). Individual gate/push follows, separate from reading/edit/check steps.
+
+Reviewed dossier:
+
+| Dossier | Result | Checks | Credit |
+|---|---|---|---|
+| [The_Happy_Mask](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-051_The_Happy_Mask_%ED%96%89%EB%B3%B5%ED%95%9C_%EA%B0%80%EB%A9%B4.md "SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md") `C-IIβ-051` | Source-supported repair | 5/5 PASS | all+1/W+1/SE+1 |
+
+[[SE-C-IIβ-051_The_Happy_Mask_행복한_가면](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-051_The_Happy_Mask_%ED%96%89%EB%B3%B5%ED%95%9C_%EA%B0%80%EB%A9%B4.md "SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md")]
+
+**Live counters:** ALL M.A.W. Types Appearance per SE — source-review coverage242/301=80.40%,59/301remain. ALL M.A.W.-W Appearance per SE — source-review coverage242/287=84.32%,45/287remain. SE Appearance Fix — independent written-design pass7/301=2.33%,294/301remain. Equipment coverage includes holds, not resolved artwork; SE credit never follows automatically. Batch146OPEN2/5, Nochange0/2, five minimum and three-Nochange5→7→10. Pending is not Nochange. Fix phase is source-supported written consistency/shape work, not an artwork census; a couple is a dossier-prose overlap pair, not an equipment pair. Corpus290Sorrow+11Unknown, non-SEBook excluded, blocked025/062not silently worked. No147. PR14OPENdraft→NON-WIKI, ownermergeonly. Batch301blocked8bodies/4+4generatevalidatebeforecopy.
+
 ## Batch146 unit1 — Aphasia `O-Iα-720`
 
 **What changed:** One short movement repair: the header now preserves upright/flowing wax forms and drift toward speech instead of unsupported pursuit. Existing multi-form Appearance retained. LC_ALL=C words7,104→7,118(+14).
