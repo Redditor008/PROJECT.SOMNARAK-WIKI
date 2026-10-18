@@ -1,0 +1,69 @@
+{
+  "batch": 151,
+  "base": "67bc958f6d316c79fd560037114f59c53cb27583",
+  "pending": 270,
+  "candidates": 117,
+  "pattern": "changes? shape|shifts? between.*forms|became (?:a|an|the) ",
+  "selection": "Pending only, equipment block excluded. Descending matching-line count, ties by full designation. Reading cues, not defect findings. No substitutions.",
+  "queue": [
+    {
+      "designation": "O-IVδ-190",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-190_Ember_Phoenix_불사조.md",
+      "signals": 4,
+      "evidence": [
+        "- **The Event:** A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire.",
+        "She survived catastrophe after catastrophe, and the surviving, compulsory and unasked, became an eternal fire — the specific burden of rising again when no one asks whether you are ready.",
+        "> *“The endurance became a fire. The fire does not go out.”* — Containment Lead, R.D.",
+        "The survivor the Phoenix came from escaped catastrophe after catastrophe until the escaping became the thing that was wrong, and the file's framing follows that rather than the usual containment structure. Its opening section is about endurance being demanded rather than offered, and it names the Desolate authorities who recorded each survival as a success without once recording what it cost. The naming was contested in review as gratuitous. It was retained, with the commander noting that the offices in question kept careful records and that the records are the evidence."
+      ],
+      "sha256": "f7d162893e2858f2bd719687a6a844c674d0da2ddfc1ab10547997b7471a3ff8"
+    },
+    {
+      "designation": "O-IVδ-909",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-909_Heirloom_스며든_메아리.md",
+      "signals": 4,
+      "evidence": [
+        "- **The Event:** A grievance was repeated through generations until the words became an empty fire.",
+        "The grievance was repeated through generations until the words lost their meaning, and the meaning, departed from the words, became an empty fire that burns whoever carries it without warming anyone.",
+        "The anger became an empty fire. The words that had carried the grievance — the specific, accusatory, narrating words — lost their content. The fire that the words had tended continued to burn, but the fuel — the story, the reason, the particular wrong — was gone. Heirloom is Place-Void, Grudge-element: the figure of anger repeated until it no longer belonged to anyone — the inherited fury, the empty fire, the grievance stripped of its origin and left burning in the descendants who carry it without knowing what it is.",
+        "> *“The grievance was repeated until the words lost their meaning. The meaning became an empty fire.”* — Keeper, Archive"
+      ],
+      "sha256": "258dedc324f441a2d1695f869d3b92c48d20b0fa0883137aae498039e84a8304"
+    },
+    {
+      "designation": "C-IIIγ-081",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md",
+      "signals": 3,
+      "evidence": [
+        "- **The Event:** A healer treated everyone until personal memory, desire, and grief were gone. The remaining emptiness became a figure.",
+        "She healed them all, and the healing emptied her, and the emptiness became a saint.",
+        "The genuine cases number **twelve**, all of them from the first two years, all of them workers who happened to be carrying a real bereavement when they were assigned. After the second year, carrying a real bereavement became a disqualification for assignment, for reasons nobody disputes and which the file states in one sentence: those twelve people did not get their grief back."
+      ],
+      "sha256": "d21193102d2da74be1d613510156b8c19c1e347100fca9fc50b366cdf468bec6"
+    },
+    {
+      "designation": "C-IIIγ-558",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-558_Burning_Root_타오르는_뿌리.md",
+      "signals": 3,
+      "evidence": [
+        "- **The Event:** A family lived under debt for so many generations that the debt became a source of belonging.",
+        "- **Expanded origin context:** The debt was taken out in the first generation for an ordinary reason and was never missed, never defaulted and never discharged. By the third generation it was the family's calendar: the payment dates were when the household gathered, the Collector's clerk was the only visitor who came regularly, and the children were raised knowing exactly what they were for. Nothing cruel happened. That is the whole difficulty. What formed here was not the grief of being crushed but the grief of a burden that stopped being one — an obligation carried so long and so competently that it became the shape of the people carrying it, so that relief, when it was eventually offered, read to them as the loss of a family member.",
+        "Here is the sorrow the Burning Root holds, and it is a strange one. The debt, carried for so many generations, stopped being a burden. It became a feature. The family defined itself by it — by the paying, by the obligation, by the shared indebtedness that bound them to each other and to the ancestor who began it. To be of this bloodline was to owe. To owe was to belong. The debt became, over centuries, not a chain but a root — the thing that anchored them, that gave them identity, that made them a family rather than a scattering of unrelated citizens."
+      ],
+      "sha256": "35176c53a29fb604ecb65ba3a66e03c79d31da701d1530fb49d01dd1de7a4e1d"
+    },
+    {
+      "designation": "C-IVβ-041",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md",
+      "signals": 3,
+      "evidence": [
+        "- An encounter left unresolved does not stop; it changes shape. She runs the breach pattern the dossier documents for her, and sorrow nobody pacified takes the violent way out of the room that the containment work was supposed to have given it.",
+        "There was a mother who lost three children in three different ways, and the first child's death became the Grieving Maiden.",
+        "The weeping produces volume, and the volume is measured. Her chamber drains into a dedicated sump with its own gauge, and the daily figure is entered in the drainage ledger alongside the sister-distance reading and the watch commander's name. The ledger began as plumbing paperwork and became the holding's most predictive instrument: the volume rises before the gauge does, reliably, by something between four and nine hours. Watch commanders read the sump before they read the chamber. The correlation has been tested against every separation incident in the file and has never failed to lead. What the ledger cannot do is explain itself — the Research wing's position is that the body is finite, that the tears come from somewhere, and that nobody has yet accounted for the arithmetic. The drainage crews, who empty the sump and have the least theoretical interest in the question, are the ones who raised it. Their note in the file is a single line asking where it is all coming from, and it has been answered by four separate studies, none conclusively. The ledger is kept anyway, twice daily, because a predictive instrument nobody understands is still a predictive instrument, and because the crews who keep it have earned the right to go on asking."
+      ],
+      "sha256": "e9903877b997746daa68e91ab4da1838147ef6bddf6dbea1ef304d7048dffc30"
+    }
+  ],
+  "rule": "R-33: full original/exact sources/history and full final logical reread after actual five checks; unresolved whole logic held, no completion credit.",
+  "authorization": "Owner p authorizes151only. Minimum5; cumulative3Nochange triggers5→7→10. No152 or merge."
+}

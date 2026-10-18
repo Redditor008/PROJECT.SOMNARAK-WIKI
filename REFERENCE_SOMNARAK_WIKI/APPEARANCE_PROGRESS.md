@@ -195,3 +195,7 @@ Batch150 unit5: **Survivors’ Breath `O-IVδ-895` — held**. [Evidence](SE_APP
 ## Batch150 final closure
 
 CLOSED5/5; No change1/5, no extension. All5HELD, four limited repairs; no completedSE increment. Survivors’ Breath fresh exactequipment review adds+1each source-coveragecounter, otherfour+0. SE12/301=3.99%,289remaining; ALLTypes246/301=81.73%,55remaining; Weapon246/287=85.71%,41remaining. Body statuses8changed/4retained/17held/2blocked/270pending. Fresh25checks/10ledgertestsPASS; couples0/301; comparator301/287sets/861pairs. Historical unit snapshots above are not current totals. [Complete closure](SE_APPEARANCE_REVIEWS/B150_CLOSE.md), [raw evidence](SE_APPEARANCE_REVIEWS/B150_CLOSE.json). No151 or merge; Batch301owner-bodyblock unchanged.
+
+## Batch151 — OPEN 0/5
+
+Owner p authorizes Batch151 only under R-33. Fresh270pending/117cue candidates; fixed queue Ember Phoenix190 → Heirloom909 → Hollow Saint081 → Burning Root558 → Grieving Maiden041. Signals4/4/3/3/3, ties by full designation; equipment excluded. Reading order, not defect verdict. Full original, exact sources/history and complete final rereading after five actual checks; per-unit Commentary and validated push. Three cumulative No change trigger5→7→10; no forced changes. Counters SE12/301, ALLTypes246/301, Weapon246/287 unchanged. No152 or merge. Batch301owner eight bodies/4+4/generate-validate-before-copy remains blocked. Evidence B151_OPEN.json.

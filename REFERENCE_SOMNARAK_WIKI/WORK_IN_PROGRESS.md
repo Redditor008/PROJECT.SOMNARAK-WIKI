@@ -1,5 +1,9 @@
 # Work In Progress
 
+## Batch151 — OPEN 0/5
+
+Owner p authorizes Batch151 only under R-33. Fresh270pending/117cue candidates; fixed queue Ember Phoenix190 → Heirloom909 → Hollow Saint081 → Burning Root558 → Grieving Maiden041. Signals4/4/3/3/3, ties by full designation; equipment excluded. Reading order, not defect verdict. Full original, exact sources/history and complete final rereading after five actual checks; per-unit Commentary and validated push. Three cumulative No change trigger5→7→10; no forced changes. Counters SE12/301, ALLTypes246/301, Weapon246/287 unchanged. No152 or merge. Batch301owner eight bodies/4+4/generate-validate-before-copy remains blocked. Evidence B151_OPEN.json.
+
 ## Batch150 — CLOSED 5/5
 
 All five complete original/source/final written-design reviews individually pushed. Four limited repairs; **Inherited Debt: No change**. All five whole-logical outcomes HELD; SE completion+0. No change1/5 does not trigger expansion. Fresh equipment source-review coverage for exactSE895A–D/MAWW89501 adds+1toALLTypesand+1toWeapon; no duplicate fourpriorpairs or art/prosebodybackfill. Current independent counters SE12/301=3.99%(289remaining); ALLTypes246/301=81.73%(55remaining); Weapon246/287=85.71%(41remaining). Body8changed/4retained/17held/2blocked/270pending.
