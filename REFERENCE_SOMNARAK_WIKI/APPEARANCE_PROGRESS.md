@@ -173,3 +173,11 @@ Five complete before/source/final written-design reviews. Five primaries changed
 - **Floating Tree `N-IIIγ-585`** — [held](SE_APPEARANCE_REVIEWS/B149_05_FLOATING_TREE.md), `b129240` PUSH VERIFIED. 7,570→7,949 words.
 
 [Closing evidence](SE_APPEARANCE_REVIEWS/B149_CLOSE.json). Primary words 38,195→39,583 (+1,388), C-locale counts. Current counters: SE12/301=3.99%,289remaining (8changed/4retained/12held/2blocked/275pending); ALLTypes245/301=81.40%,56remaining; Weapon245/287=85.37%,42remaining. No equipment coverage increment or body-credit backfill. RuleR33 linked in governance. No rendered/browser/deployment/artwork inspection. Batch150 requires fresh P; no merge. Batch301 still needs eight owner bodies/4+4/generate-validate-before-copy.
+
+## Batch150 — OPEN 0/5 under Integrity Visual Live Check Rule
+
+Owner p authorizes150only. Fresh275pending/121lexical cue candidates selected Neglect Learned to Listen270 → Inherited Debt019 → Scar Walker011 → Brume007 → Survivors’ Breath895, four matching lines each, ties by full designation. Equipment excluded from screen; cue count is a reading order, not a defect or redesign verdict. No substitutions.
+
+Full current original, exact sources/history, and full final logical reading required underR33. No credit from technical PASS alone. Minimumfive; three cumulative whole-dossier No change triggers5→7→10. All five pending; pending≠No change. Three counters unchanged: SE12/301; ALLTypes245/301; Weapon245/287. No legacy body backfill, source election, fabricated stage, artwork/preview/deployment or merge. No151authorized. Batch301 remains blocked on eight owner bodies/4+4/generate-validate-before-copy. Opening evidence B150_OPEN.json.
+
+[Opening evidence](SE_APPEARANCE_REVIEWS/B150_OPEN.json).

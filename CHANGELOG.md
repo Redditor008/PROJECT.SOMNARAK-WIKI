@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch150 — OPEN 0/5 under Integrity Visual Live Check Rule
+
+Owner p authorizes150only. Fresh275pending/121lexical cue candidates selected Neglect Learned to Listen270 → Inherited Debt019 → Scar Walker011 → Brume007 → Survivors’ Breath895, four matching lines each, ties by full designation. Equipment excluded from screen; cue count is a reading order, not a defect or redesign verdict. No substitutions.
+
+Full current original, exact sources/history, and full final logical reading required underR33. No credit from technical PASS alone. Minimumfive; three cumulative whole-dossier No change triggers5→7→10. All five pending; pending≠No change. Three counters unchanged: SE12/301; ALLTypes245/301; Weapon245/287. No legacy body backfill, source election, fabricated stage, artwork/preview/deployment or merge. No151authorized. Batch301 remains blocked on eight owner bodies/4+4/generate-validate-before-copy. Opening evidence B150_OPEN.json.
+
 ## Batch149 — CLOSED 5/5 under Integrity Visual Live Check Rule
 
 Owner P authorized only149 and durable R33, shipped6ad6b1a. Fresh pending-only order180→330→565→Maw001→585 unchanged. Five completed reviews, five supported limited primary repairs, five logicalHELD; no completed-fix or new equipment credit. No change0/5, so no expansion to seven. Whole before/source/final logical reading is documented in individual receipts, not inferred from technical PASS.
