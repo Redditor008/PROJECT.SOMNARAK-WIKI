@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Non-Organic — An empty chamber that echoes with burning voices — no speakers, only sound — the room growing a little larger each time the echo repeats. Fever-hot, it smells of char; no body, only the widening burning room. |
-| **Movement** | Mobile — drifts or flows through the area. |
+| **Movement** | Stationary chamber — holds its position in the vault while the boundary gains volume; survey the walls against the fixed pins rather than tracking a travelling body. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -50,7 +50,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | N/A — no body travel rate; the Place stays in the vault while its wall distances and the reach of its echo are recorded separately |
 | **Resistance** | 45% against Grudge. There is nothing present to strike and the walls are ordinary vault stone; the figures are schedule carry-over and the vault has twice asked for them to be replaced with the survey series. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |

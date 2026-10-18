@@ -1,5 +1,25 @@
 # Work In Progress
 
+## Batch151 unit2 — Heirloom `O-IVδ-909`
+
+[[SE-O-IVδ-909_Heirloom_스며든_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-909_Heirloom_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-O-IVδ-909_Heirloom_스며든_메아리.md")]
+
+**Change:** SECC Movement now states stationary chamber with surveyed expanding boundary rather than drifting. N/A Speed distinguishes absent bodily travel from separately recorded wall distances and echo reach. Existing Appearance and all numerical/source claims retained.
+
+**Source evidence:** Completeexact1038A–D4/4 read; combinedoutputtruncatedD, Dfullyreopenedbeforeedits. AexplicitO-IVδ-909GP differentiates1039LabyrinthandSE909DormantMonolith. Mastertable731–733/detail691–6938492–8524; fullTale23112927–12983; Entity601; CSV314–317; archetypes362/438; disposition372; WIPB1054101–4130plusprimaryembeddedreview read. Priorpairdb21b5c3; gitpath10cd20a. Sourcesunchanged.
+
+**Full logical before/after:** Complete445line original read1–235/236–445. ObjectPlace/PlaceVoid nonorganic emptyhotroom, ordinaryvaultstone with speakerlessvoices, fixedpins show3.1→4.4m growth. Tale inheritedgrievancelosingparticulars supports room/emptyfire, nothumanbody. Appearance already explicitlyfixed, SECC incorrectlymobiledrift; SpeedgenericfixedobjectunderspecifiesPlace. Ordinarysoundlocationnotmouth; no evidence extractedbasaltsceptreis sourcebody. Transformdescribed boundaryspread notnewcreature.
+
+Completeunchangedlength445line final reread1–235/236–445 after actualfivechecksPASS. Includes fullclassification/parameters/combatactions/phases/consequences; Appearance/Origin/Work; expansion and contradictoryactivation; entireequipment/Field/existingreview; observation/Story/final/flavor; allthreepairings; completeTale/Testimony/Record/Addendum; allApexroom/sound/memory/source/history/empty/rotation/marks; Trivia/footer. Movementrationale coherent; largerreach/manifestation/behavior/recordholds persist, logicalHELD.
+
+**Holds:** PlaceVoidclassification/Side/Tale/Registrum versusPlaceGrudgeactivation, no documentedchange. Doorsstopallspread inUltimate/Escalation/Registrum vssealonlyfiltersvolume/notreach/twofloorsaway. Uniforminsidevolume notinfiniteoutsidereachproof. No originalvoiceidentifiable ornameanywhere versusStory5reconstructed9words/names for9years, Whispernames andChoirnamedvoice; familyname≠originalvoice automatically. Attributionrequiredbutalloutside repetitionprohibited vswrittenhearinglog/transcriptionandarchivesummary, keepconflict. BothWorkreduce vsViderehanstable; tearsdistinguishTrivia vsFlerehanN/A/Choironlyseparates; failuretableViderehanrevelationraisesvsWorkstable. 211allwatchessuccess vs38growths in211, 38strikes/4–11cm and1.3total retained. Growthimmediateafterunattributedvsinvisibleonewatch/delayed7days. Pinsoutside doorway/neverwithin vscentre markssteppedoverdaily and insideentrymemorytask. Emptyroomnoequipment vsdisconnectedinstrumentstillatwall. Surveyfourwalls/ceiling/clap is6readings butcannotderivevoidbodycoordinatesfromacousticvolume. Transformroom→echohasroom notanatomicalshift; no hallucinatedflesh. WeaponZweihander/basaltsceptrevsFang andgreatsword/mirrorarchetypes/no transition; InstantvsMedium3. PlatevestmentsMastervsresonantplate; bellringingecho immunity vsvoice discipline notshownpermissiontoinside. Stigmacharmvslanterncost/TailvsMasterpendant/CSVAccessory5%vs4%; set echoeverycarry vsneverrepeat issue. These remainholds notforcednormalizations.
+
+**Commentary:** The room is an effective inheritance: nobody owns the anger, but everyone inherits the space it takes. I like the insistence that the original complaint was justified. Without that sentence, the entity could too easily become a warning against remembering injustice.
+
+Outcome **held**; SE+0, equipment+0 (each independent coverage counter). B105alreadycountedwholeequipmentandexact1038B/MAWW103801pair. Equipment+0; SEcompletion+0 becausewholelogicalheld. B72art/prose notadditionalcredits.
+
+Five actual technical checks PASS; complete final reread. C-locale words 7,433→7,467. Evidence `B151_02_HEIRLOOM.md`. Written design only, no rendered/live inspection. Batch151 OPEN2/5, No change0/2. No152 or merge.
+
 ## Batch151 unit1 — Ember Phoenix `O-IVδ-190`
 
 [[SE-O-IVδ-190_Ember_Phoenix_불사조](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-190_Ember_Phoenix_%EB%B6%88%EC%82%AC%EC%A1%B0.md "SE-O-IVδ-190_Ember_Phoenix_불사조.md")]
