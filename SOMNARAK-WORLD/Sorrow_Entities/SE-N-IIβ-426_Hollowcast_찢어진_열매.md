@@ -190,7 +190,7 @@ Flerehan lowers the gauge and it is the hardest Work Type in the file to perform
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, with an edge that lights along its length as it is readied.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, with an edge that lights along its length as it is readied. An empty groove runs down the middle of the blade, where material was torn out and deliberately never replaced; the channel is kept clear.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)

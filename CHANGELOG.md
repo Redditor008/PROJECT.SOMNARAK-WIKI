@@ -8,6 +8,26 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch146 unit4 — Hollowcast `N-IIβ-426`
+
+**What changed:** One short Torn Fang Appearance addition: exactB empty central groove, torn-out material deliberately unfilled and channel kept clear. Wholeprimary otherwise byte-identical;7,646→7,670(+24). SEbody unchanged; no duplicate SEcredit.
+
+**Source review and holds:** Whole438lineprimary original/final; exact426A–Dwhole; MasterEntries484–486/Tale162, Entity530, registry663–666, archetypes217/299/art449/525, disposition163/history. Darkwarm/crimson and curvedfang/straightcleaver unresolved; C harness split/colour scope; wrist/Tail/orb bucket, +1work/Resilience and reassurancealarm/nonphysicalcost versus manipulationdefence/harmfultouch held. Existing145 body preserved; orchard imagery and widening mechanics not reinterpreted. Neutral retained.
+
+**Commentary:** The empty groove refuses the comforting patch without choosing an unsupported color or blade variant. The human outline is source-justified here, not a rule that every sorrow must have a human body.
+
+**Validation / credit:** Full final reread; actual5checks PASS; original digits unchanged; within equipment, only the predeclared Appearance addition changed; statistics retained. Exactpair/fullID/title history searched WIP/CHANGELOG;145explicitly awarded no equipment credit and reserved this review. Git646a427/10cd20a/8f7138f; earlierart/prose not source-review credit. SE credit+0, all-types+1, uniqueWeapon+1. [Evidence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_04_HOLLOWCAST.md). Individual gate/push follows, separate from reading/edit/check steps.
+
+Reviewed dossier:
+
+| Dossier | Result | Checks | Credit |
+|---|---|---|---|
+| [Hollowcast](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-426_Hollowcast_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-426_Hollowcast_찢어진_열매.md") `N-IIβ-426` | Source-supported repair | 5/5 PASS | all+1/W+1/SE+0 |
+
+[[SE-N-IIβ-426_Hollowcast_찢어진_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-426_Hollowcast_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-426_Hollowcast_찢어진_열매.md")]
+
+**Live counters:** ALL M.A.W. Types Appearance per SE — source-review coverage244/301=81.06%,57/301remain. ALL M.A.W.-W Appearance per SE — source-review coverage244/287=85.02%,43/287remain. SE Appearance Fix — independent written-design pass8/301=2.66%,293/301remain. Equipment coverage includes holds, not resolved artwork; SE credit never follows automatically. Batch146OPEN4/5, Nochange0/4, five minimum and three-Nochange5→7→10. Pending is not Nochange. Fix phase is source-supported written consistency/shape work, not an artwork census; a couple is a dossier-prose overlap pair, not an equipment pair. Corpus290Sorrow+11Unknown, non-SEBook excluded, blocked025/062not silently worked. No147. PR14OPENdraft→NON-WIKI, ownermergeonly. Batch301blocked8bodies/4+4generatevalidatebeforecopy.
+
 ## Batch146 unit3 — Black River `C-Vγ-225`
 
 **What changed:** One careful Maul opposed-face/downstream construction addition; separate short flavor repair to lead-cold liquid and line-based interval, retaining historical warm-instrument testimony. Words9,026→9,053(+27).
