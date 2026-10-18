@@ -121,6 +121,19 @@
 | **Distinctive markers** | The opening, measured by sighting at the marked line; the reaching gesture, which precedes nothing and is not an attack; the absence of any face, mark or garment by which a person could be identified. |
 | **Identification** | Opening width against the last sighting. The outline is visually identical across its whole recorded range. |
 
+### Appearance States
+
+| Field | Held manifestation | Transform event |
+|---|---|---|
+| **Mode of presence** | A walking person-shaped absence, not the worker's surviving body. The worker recovered and lived on; this entity is not him. | The same absence extends beyond the casing as its opening widens. |
+| **Form** | A standing outline split from collarbone to hip, crimson light at the gap and no interior behind it. | The outline stops holding a fixed scale. It becomes less specific, not a different creature. |
+| **Perceptible to** | A conscious observer reads the split as torn fruit. Photographic plates show a standing outline with a vertical gap and no interior. | The recorded change is loss of scale; no separate botanical body is established. |
+| **Measurement** | Opening width by sighting from the marked line, never by approaching. An unchanged-looking outline does not establish an unchanged opening. | Record the opening and the loss of scale separately from the gauge and the corridor's effects. |
+| **Movement** | Walks within the holding and reaches toward personnel. The reaching gesture is not itself an attack. | Walks at the usual pace and reaches toward the nearest person; it does not pursue. |
+| **Transition** | Confrontation can widen the opening without producing a separately identified entity. | The opening exceeds the casing and the outline loses fixed scale. Clearing the corridor stops the recorded escalation, not necessarily the opening's accumulated widening. |
+
+**Identity continuity:** The human in the Tale and the current person-shaped absence are not interchangeable. The commissioning history supplies the former; the sighting series describes the latter. Neither a recovered memory, a healed worker nor a literal fruit can be substituted for the empty outline.
+
 **Appearance protocol:** Width of the opening at the marked sighting line, in centimetres, twice a session, by sighting and never by approach. The sighting method was adopted after the opening was found to respond to proximity, which means an approached measurement measures the approach. Record the reaching gesture if it occurs and do not record it as an attack; in sixty years it has never become one.
 
 ## Origin
@@ -158,6 +171,10 @@ Flerehan lowers the gauge and it is the hardest Work Type in the file to perform
 | **Secondary Effect** | The casing mounts degrade. Four replacements on record, all structural, none from an impact — the file is explicit that no strike has ever been observed. |
 | **First Target** | Whoever is nearest, approached and reached toward. It becomes dangerous only if that person tells it that it is whole, and then it becomes dangerous immediately. |
 | **Escalation** | Resilience drain +5 a turn. The escalation stops when the corridor is cleared of people willing to speak to it, which has worked on all three occasions and is the only measure that has. |
+
+**State change:** The widening passes beyond the casing and the outline loses fixed scale. This is the Transform recorded above, not a conversion into a fruit-bearing organism. The combat record's fruit imagery is not a physical inventory of branches, flesh or an interior; the photographic record and empty-interior surveys remain the appearance evidence.
+
+**Retained non-breach mechanic:** It still walks and reaches, and denial of its absence still makes it dangerous. Keep identity anchors and invent no memories. Clearance can stop corridor escalation without establishing that the opening has healed.
 
 ### Escalation Notes
 

@@ -1,5 +1,27 @@
 # Work In Progress
 
+## SE Appearance Fix — Batch145 unit4: Hollowcast `N-IIβ-426`
+
+**What changed:** Added the held/Transform appearance block, including conscious torn-fruit impression versus photographic empty outline. Added breach continuity separating loss of fixed scale from a new botanical body and from healing.
+
+**Shape / chronology:** Retain the explicitly supported person-shaped absence, not the surviving worker and not a literal fruit or orchard. Its human silhouette is a particular source-backed design, not a collection-wide requirement. Opening width may change behind an apparently unchanged outline; Transform loses fixed scale without replacing identity.
+
+**Evidence and holds:** Whole421-line primary read1–215/216–421. Exact SE426A–D read completely in two outputs, all footers and binding/failure statements. MasterMAW524–526/6213–6243, Entity530, full Tale1629071–9122, registry663–666, archetypes217/299 and disposition163 identity matched. Git path history inspected: inherited10cd20a, no later whole-primary change before this unit. Full438-line final reread1–225/226–438 after actual five-check runs. Literal seeds/sap/orchard combat wording is retained as an unresolved field-mechanics/imagery question, not proof of botanical anatomy, illusion mechanics or a second body. Gauge versus width, permanent confrontation gains versus final-observation narrowing and treatment-paperwork-only correlations need their own mechanic decision. Equipment darkwarm fang versus crimson openchannel/straightcleaver variants, same suit colour/split detail, and wrist appearance versus Tail bracelet versus Masterorb/coronet remain held. D manipulationdefence/harmfultouch differs from primary reassurancealarm/nonphysicalcost; +1Resilience differs from sourceworkbonus. No unsupported transition added and none of these equipment or numeric fields changed. No old equipment credit requested; separate legacy queue retains Hollowcast.
+
+**Commentary:** This is one case where a human outline earns its place: an absence keeps the shape that nobody should mistake for the living worker. The photographic gap is stronger than a literal fruit monster, and losing scale makes the same absence worse rather than replacing it with something unrelated.
+
+**Validation:** 1short/1careful predeclared; whole final reread before gate; five checks PASS; word count 7,265→7,646 (+381); original digit sequence and equipment-through-end unchanged. [Individual evidence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_04_426.md). No new illustrations or duplicate legacy credit.
+
+One individually completed SE appearance review; the batch remains open until its required rung is complete.
+
+| Dossier | Change | Words | Checks | Credit |
+|---|---|---:|---|---|
+| [Hollowcast](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-426_Hollowcast_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-426_Hollowcast_찢어진_열매.md") `N-IIβ-426` | State/chronology repair | 7,265→7,646 | 5/5 PASS | SE+1; old+0 |
+
+[[SE-N-IIβ-426_Hollowcast_찢어진_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-426_Hollowcast_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-426_Hollowcast_찢어진_열매.md")]
+
+**Counters:** ALL M.A.W. Types Appearance per SE — source-review coverage240/301=79.73%,61/301remaining. ALL M.A.W.-W Appearance per SE — source-review coverage240/287=83.62%,47/287remaining. SE Appearance Fix4/301=1.33%,297/301remaining. Historical equipment coverage includes holds, not finished redraws. Batch145OPEN4/5; Nochange1/4. Five minimum; three cumulativeNochange triggers5→7→10. NoBatch146 or lower close. Current P resumes145 only. The written-shape fix phase includes supported states and authorized redesign, not automatic human-body assumptions. A couple is two dossiers over the prose-overlap threshold, not an equipment pair. Brancharena/954853ad-project-somnarak-wiki; PR14ownermergeonly; Batch301blocked8bodies/4+4generatevalidatebeforecopy. Individual gate/push follows this evidence entry.
+
 ## SE Appearance Fix — Batch145 unit3: Relic of a Thousand Owners `O-IVδ-792`
 
 **What changed:** No change

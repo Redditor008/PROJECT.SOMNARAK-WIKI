@@ -1212,8 +1212,24 @@
     {
       "designation": "N-IIβ-426",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-426_Hollowcast_찢어진_열매.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "changed",
+      "note": "Added the held/Transform appearance block, including conscious torn-fruit impression versus photographic empty outline. Added breach continuity separating loss of fixed scale from a new botanical body and from healing.",
+      "outcome": "source-supported repair",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_04_426.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-426-A__SIDE_CODEX_Hollowcast.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-426-B__MAW-W_The_Torn_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-426-C__MAW-S_The_Torn_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-426-D__MAW-G_The_Torn_Bracelet.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIβ-453",
