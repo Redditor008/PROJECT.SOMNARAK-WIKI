@@ -1,5 +1,25 @@
 # Work In Progress
 
+## Batch150 unit4 — Brume `O-IIγ-007`
+
+[[SE-O-IIγ-007_Brume_안개](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B3-007_Brume_%EC%95%88%EA%B0%9C.md "SE-O-IIγ-007_Brume_안개.md")]
+
+**Change:** Speed N/A now explains no creaturelocomotionstat andsurveyedmobilePlace edge/bearing/externalclock, not fixedobject. Added travellingPlace note: bankitself, sorrow-not-hiddennomadbodies, silhouettesnotbodilyproof, soundnotmouth, extent/density/personneleffects distinct, noobservedcreatureTransform, andkitoutlines/lightnotfog anatomy. Explicitlyholds incompatiblepace/rate andthinning/dissipation withoutinventedstates.
+
+**Source evidence:** CompleteexactSE007A–D4/4 read; AexplicitO-IIγ-007VP/mobilePlaceandbankconfirmsidentity. Mastertable695–697/detail655–6578096–8128 full; Entity588 DriftFog samecode/path; fullTale21912251–12307 sameoriginandwandering. CSV18–21, archetype60 anddisposition263 reviewed. Whole WIPB130unit22907–2915 read: priorcompleteequipmentreview inherited Batch88unit1dd7dc6be exactSE007B/MAWW00701 credit. Gitpathde5e851/10cd20a. Sideexistingtitlereview3abe5470 recordsLens→sword samecode, nosecondform. Sourcesunchanged.
+
+**Full logical before/after:** Complete471line primary read1–230/231–471. MobileObjectPlace/PlacePhantasmal nonorganicbonewhitefog, cold/damp/oldsweetflowers, unlocatableweeping andsoftground match wanderingdespair/Tale. No bodilycore orvessel. Directionlessinterior contrasted withpredictableexternalcourse andclock. FixedobjectSpeed wrongforwholedossier. Rate100m/h calledwalkingpace twice, while Watch/Appearanceactualwalkingpace; no offeredconversion. Dispersalversusneverdispersed andnymph? no creatureevidence. Continuedentrycomfort vsinjurydamage claims unresolved.
+
+Complete479line final read1–245/246–479 after fiveactualPASSchecks. Includes EntityType/Physical/Movement/Speed; parameters/allcombat/phases/consequences; allAppearance/newnote; fullOrigin/Work/expansion/activation; entireequipment/EquipmentDoesNotKeepWatch/Field; observation/Story/final/flavor; allfourinteractionrows; completeTale/Testimony/Record/Addendum; wholeWatchRecordincluding612pairedclocks/41%/consent/uncertifiedtimekeepercost; allTrivia/footer. Fixedobjectrationale repaired, noabsentcreaturecreated. Rate/endstate/management/effect holds stillpreventlogicalcompletion. HELD.
+
+**Holds:** Walkingpace versus100m/h nearwalkingpace inbothratefields andspellingoutelsewhere: no evidence ofdifferentfront/travel metrics. Dissipates versusnothingeverdisperses/merelythins/reforms; emptyresolutionnotestablished. TypeCanbreachviaTransform notobservedcreatureform. Originno date/citypredatingsignature versusTaletemporallyvisiblecity/generations notsimple automaticcontradiction butformationdateunsupported. Sidenamingrealhomeanddestinationcard/MemoryAnchor versusprimaryunknownnomads/noformalgriefprocedure; no mandatorysupplieddeadnames. SideBoundaryEntrywithoutanchor vsprimaryallentryFirstWisp; threechangesThickening vsallremain; PanicRoute vsforcedclearingTotalObscuration; externalextractioncancelled vsunreviewableexternalwithdrawal. Side65%/unanchoredcamp vs75%expansion; primaryultimate65% unchanged. Primarycomfort/noabilitylosstoexit versus difficultmovement/softground/solidityerosionattacks/WhenactivatesNothingSurges vsColdCurrent surge; no allcombatdeleted. Fixedcourse/windnotmoves versusdownwindwarning notwindpropulsionproof. Primarywrittenexternalclockonly vsbothpairedentries reconciledbyseparateexposurevsestimatebutnorewrite. KitSword/LenslegacyMaster/BType/Requirements/Ability/History; Medium3vsLongarchetype; primaryanyalignedtargets vsBsharedfalseroute; generalmemorycostvsBhome-recognitionrefund; setroute5/1minute,7daySideversusdawnDdarkness nochosenreset. Veilnoinventedextension/timer. Lanternwarmvscoolcase,Headvspendant,4%vsCSV5%; Stigmadispositionunpredictablevsfogpredictabilitystatedbutnotmentalagencyproof. Portablekitnevercentralbeacon/body. No newsourceform,rate,threshold,frequencyorcost.
+
+**Commentary:** The frightening part is that people can leave but cease wanting to. An external timekeeper makes that invisible threat operationally legible without giving the fog a villain’s face. The career cost of holding the watch keeps the safeguard from becoming an easy moral victory.
+
+Outcome **held**; SE+0, equipment+0. B130 wholeequipment disposition and B88 Weapon alreadycounted. SourcecoverageTypes+0/Weapon+0; independentSEwrittencompletion+0 because wholelogicheld.
+
+Five actual technical checks PASS; complete final reread. C-locale words 7,850→8,060. Evidence `B150_04_BRUME.md`. Written design only, no rendered/live inspection. Batch150 OPEN4/5, No change1/4. No151 or merge.
+
 ## Batch150 unit3 — Scar Walker `O-IIIδ-011`
 
 [[SE-O-IIIδ-011_Scar_Walker_흉터의_행자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B4-011_Scar_Walker_%ED%9D%89%ED%84%B0%EC%9D%98_%ED%96%89%EC%9E%90.md "SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md")]

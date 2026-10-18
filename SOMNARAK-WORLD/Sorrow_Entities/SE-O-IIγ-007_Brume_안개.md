@@ -50,7 +50,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | N/A — no creature locomotion statistic; track this mobile Place by its surveyed bearing, leading edge and elapsed external time, not by an entrant’s estimate |
 | **Resistance** | 30% against Void pressure; 20% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 623/623 |
@@ -124,6 +124,14 @@
 | **Identification** | The designation is the first filter and the flow survey is the second; confirm the bearing, the pace and the manifestation agree with the file before anyone approaches the margin. |
 
 **Appearance protocol:** There is no body to describe, so the protocol describes an edge and an interior. For the edge: the height of the bank, the bearing and timed rate between surveyed markers, the sharpness of the boundary, and the depth at which a hand becomes invisible. For the interior, observe from the margin and record the sounds — weeping is the usual report, muffled, at no locatable distance — and the smell, which is cold and damp and faintly of old flowers and has been described in those terms by every observer since commissioning. Record what the ground does under the bank; it softens, and the softening is measurable. Never estimate distance from inside. The interior makes distance unreliable, and an interior estimate entered in a log has twice sent a recovery party to the wrong marker.
+
+### A travelling place, not a hidden traveller
+
+The mist bank is the Place-manifestation itself. The nomads supply its sorrow and wandering pattern, not a solid body concealed at its centre. Viderehan's routes and silhouettes are reported within that obscuring interior; they do not establish surviving nomads or separate bodies that can be struck. Muffled weeping without a locatable distance likewise does not locate a mouth.
+
+Read extent, density and personnel effects separately. A thinning edge, a widening bank, softened ground and a worker losing the wish to leave are related observations, not interchangeable measurements. Neither a moving Place nor the Type's Transform possibility establishes a witnessed conversion into a creature. The Veil's visible outline belongs to an equipped wearer, and the Lantern's directional light belongs to a portable piece; neither supplies the fog with a face or a central beacon.
+
+The movement rate remains unsettled: walking pace and the stated metres-per-hour rate are not equivalent measurements, and this file gives no crosswalk between them. Nor does the account of temporary thinning resolve the clauses promising dissipation. Keep those discrepancies visible rather than inventing separate travel speeds, a weather cycle or a final dispersed state.
 
 ## Origin
 - **Formation:** The despair of Desolate nomads reached the density at which Void crystallises, and condensed into a bank of mist instead of into an object.
