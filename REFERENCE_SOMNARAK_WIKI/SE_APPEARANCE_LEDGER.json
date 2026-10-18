@@ -18,7 +18,7 @@
   },
   "active_batch": {
     "number": 147,
-    "status": "OPEN",
+    "status": "CLOSED",
     "required": 5,
     "queue": [
       "N-IVδ-611",
@@ -90,7 +90,8 @@
         }
       }
     },
-    "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_OPEN.json"
+    "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_OPEN.json",
+    "close_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_CLOSE.json"
   },
   "dossiers": [
     {

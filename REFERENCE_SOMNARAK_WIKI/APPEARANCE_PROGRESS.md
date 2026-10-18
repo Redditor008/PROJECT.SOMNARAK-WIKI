@@ -144,3 +144,9 @@ Careful shape/state pass: Appearance now distinguishes ordinary upright voice-li
 ### Batch147 unit5: `O-Iα-169`
 
 No change. Independently retain the existing earlier-worker/incorporation/current-pillar distinction from Batch143: warm rough rusted iron, orange over brown, embedded in the Forge floor, no separable person and no emerging or alternating human form. Expansion loads nearby supports rather than making the column walk. [Evidence](SE_APPEARANCE_REVIEWS/B147_05_ATLAS.md). SE 12/301; equipment unchanged245/301 and245/287. Batch147 OPEN5/5; No change2/5. Earlier snapshots are historical.
+
+## Batch147 current close
+
+CLOSED5/5reviews, No change2/5; no7rung triggered. Four SE completions:611/371repaired,641/169retained;909held despite limited correction. Equipment+0: prior99/118/121/109/143reviews not repeated. Current245/301all-types81.40%,245/287Weapon85.37%,12/301SE3.99%; SE8changed/4retained/2held/285pending/2blocked,289remain. Written work, not artwork. Earlier unit/opening snapshots historical.
+
+Five individual PUSH VERIFIED unitsdb6d971/7abec5c/276f1df/0aab347/5af0f14.25fresh checks,10tests,labelcheckPASS,couples0/301.40,584→41,232words(+648),originaldigits/equipmentunchanged,25unchangedsourcefingerprints. [Closing evidence](SE_APPEARANCE_REVIEWS/B147_CLOSE.json). No148withoutfreshP; no next queue selected. PR14OPENdraft→NON-WIKIownermergeonly.301blocked8bodies/owner4+4generatevalidatebeforecopy.
