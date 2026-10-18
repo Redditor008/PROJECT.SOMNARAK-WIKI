@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Mixed — A tree-beast drifting root-first through the air, hanging roots lashing like tentacles — a floating creature of pale wood shedding broken memories. Salt-damp, it smells of cold rain. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Mobile — carried root-first on Han currents, with hanging roots sweeping beneath it; ordinary travel is drift, not walking or pursuit. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | N/A — no measured travel-speed value is supplied here; ordinary drift follows the Han current |
 | **Resistance** | 35% against Lament pressure; 25% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 758/758 |
@@ -101,14 +101,14 @@
 ## Appearance
 **Physical Form:** Pale wood, root-first, the crown trailing behind it like something being carried rather than something travelling. **Movement:** it does not move itself; it goes where the current goes, and the roots sweep below it the whole way.
 
-**Notable Features:** Foliage made of broken lives, a shadow that outstays it on the ground, and a root mass that has never found anything to hold.
+**Notable Features:** Foliage made of broken lives, a shadow that outstays it on the ground, and a root mass hanging clear of the ground during ordinary drift.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Place-Weight
 - **Primary marker:** The roots. Whole, healthy, fully grown, and hanging in air — the file's standing note is that nothing else in the Desolate looks so much like it ought to be planted.
-- **Position / movement:** Drifts root-first on the Han currents, four to nine metres up, roots trailing and never once touching the Desolate. It does not propel itself and has never been seen to hold station against a current.
+- **Position / movement:** Drifts root-first on the Han currents, four to nine metres up, roots trailing and never once touching the Desolate. Ordinary travel is not self-propelled. The Returning Tree pairing records station-keeping against the current; that exception is not ordinary pursuit or an anchoring method.
 - **Element signature:** Lament
 - **Registered location:** The Desolate, near The Scar
 
@@ -120,9 +120,19 @@
 | **Position / movement** | Carried by the current, root-first, at a height the shadow series can only estimate. Departures from the plotted current are circled and dated and are rare. |
 | **Material / signature** | Lament. Pale wood, cold rain and salt, a dry rattle from the crown, and a measurable drop in ground temperature inside the shadow. |
 | **Distinctive markers** | Shadow area, current bearing, and the count of leaves fallen since the last session. |
-| **Identification** | If the roots are in anything, it is not this one. This one has never held. |
+| **Identification** | For ordinary drift, identify the whole root mass hanging clear of the ground. A rooted report must be checked against the disputed breach account rather than rejected as another entity on that marker alone. |
 
 **Appearance protocol:** Peg the shadow, pace the edges, compute the area, state the height as an estimate and label it so. The series is internally consistent and uncalibrated, and the file says both every time.
+
+### The community, the root mass and the shadow
+
+This Subject is not a survivor reshaped into a human figure. Its tree form gathers the loss of a community, and Place-Weight describes the lost place's continuing burden rather than turning the drifting body into a stationary location. The Origin and Warden Record make the living community's later administrative dispersal central; the Tale instead attributes the scattering to the surge. Both keep the survivors alive, but the difference in how they lost each other is not settled here.
+
+The current appearance and Warden Record give it intact, healthy roots with no ground to receive them. The Tale repeatedly calls the formed tree a tree with no roots. It supplies no dated growth of roots afterward, so the existing root mass cannot honestly be explained as an established later transformation. Preserve the anatomical discrepancy rather than importing a new growth stage or treating all uses of rootlessness as merely figurative.
+
+During ordinary drift the root mass is suspended and the shadow can linger after the trunk moves on. The seasonal shadow series is labelled uncalibrated: it does not by itself establish an expanding wooden body. The Returning Tree pairing holds the body against the current, and the Colossus pairing lifts it and temporarily shrinks the shadow; neither record supplies permanent rooting. The descent account does describe roots through floor and personnel, in direct conflict with the observation claim that they never touch even during breach. A stated breach mode is not permission to erase that conflicting observation or to invent a release sequence beyond the recorded return to a current.
+
+Keep equipment roots separate from the tree's roots. The individual Floating Root's false-anchor growth, the Shroud's descending hem and the Charm's living-person map describe their own conditional effects, not new anatomy of the source. The local pike and individual crystal club still lack a documented transition. The local Charm's return-to-place function likewise cannot settle the community's missing ground when the individual record explicitly maps people without a homeland center.
 
 ## Origin
 - **Formation:** From a community that survived intact and was then lawfully distributed into single rooms across four zones.
@@ -144,7 +154,7 @@
 
 ### Operational Work Notes
 
-A stable gauge is not a safe encounter, and on this holding the gauge is calm most of the time the tree is simply drifting. Work Types are cross-referenced with the breach threshold and the M.A.W. cost before assignment: Floating Tree is an Object/Place with a Place-Weight manifestation and Lament elemental expression, tracked over The Desolate near The Scar. It carries fragments of broken lives, it moves with the Han currents rather than of its own will, and it leaves a shadow on the ground that stays after the tree has gone — which is why what is managed is a route and not a position. Observation can leave the gauge unchanged while still exposing the worker to memory, environmental or identity effects.
+A stable gauge is not a safe encounter, and on this holding the gauge is calm most of the time the tree is simply drifting. Work Types are cross-referenced with the breach threshold and the M.A.W. cost before assignment: Floating Tree is a Subject with a Place-Weight manifestation and Lament elemental expression, tracked over The Desolate near The Scar. It carries fragments of broken lives, it moves with the Han currents rather than of its own will, and it leaves a shadow on the ground that stays after the tree has gone — which is why what is managed is a route and not a position. Observation can leave the gauge unchanged while still exposing the worker to memory, environmental or identity effects.
 
 **Reading the response:** A falling gauge lightens the surface pressure and leaves the deep structure of the grief untouched — stabilisation, not healing. A climbing gauge means the approach has found the nerve of the origin, and the procedure should be pulled back before it feeds what the tree was made of. The route log is read beside the gauge: a mark that repeats is the holding behaving, and a mark that moves against the current is the event.
 ## Expansion Behavior
@@ -452,7 +462,7 @@ A community was dispersed by an Outside Sorrow surge and its memories gathered i
 
 ### Registry Trivia
 
-- **Classification detail:** Floating Tree is an Object/Place with Fragment (III) coherence and Major (γ) potency.
+- **Classification detail:** Floating Tree is a Subject with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Element Lament, registered to The Desolate near The Scar, where containment is a marked route and nothing else: the tree is tracked from the ground, the shadow line is re-pegged where it moves, and no stake is ever driven.
 - **Recognition detail:** A pale tree drifting root-first, four to nine metres up, roots hanging and sweeping without contact, foliage of broken memory, and a shadow on the ground beneath it that stays a while after it has gone.
 - **Record detail:** The Registrum read Residue (I) and Minor (α) against a Fragment (III), Major (γ) header, rated the holding Low, and named Flerehan as primary where Flerehan is barred; the activation record read Subject-Lament against Place-Weight everywhere else; the role field read Object/Place on a Subject that breaches and entangles; the M.A.W. grade was blank against three γ pieces. All corrected here.

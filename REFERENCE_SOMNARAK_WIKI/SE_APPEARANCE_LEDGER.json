@@ -88,6 +88,21 @@
           "sect": "PASS"
         },
         "rendered_check": "not in scope"
+      },
+      "N-IIIγ-585": {
+        "no_change": false,
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_05_FLOATING_TREE.md",
+        "whole_before_reread": true,
+        "whole_final_reread": true,
+        "logical_outcome": "held",
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        },
+        "rendered_check": "not in scope"
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_OPEN.json",
@@ -1382,8 +1397,32 @@
     {
       "designation": "N-IIIγ-585",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-585_Floating_Tree_떠다니는_나무.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "SECCMovement nowroot-firstcurrentdrift ratherthanwalking/pursuit; SpeedN/Arationale describesno measuredtravelrate ratherthanfixedobject. TwoObjectPlaceresiduesnowSubject. Appearanceordinaryrootclearance+ReturningTreestationkeepingexception andidentification nowcheckrootedreportsagainst disputedbreachratherthanrejectidentity. Added community/rootmass/shadow note preserving literalTaleanatomy discrepancy, originaccounts, uncalibratedshadow/circumstantialpairings and separateequipmentconditions.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_05_FLOATING_TREE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-585-A__SIDE_CODEX_Rootless.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-585-B__MAW-W_The_Floating_Root.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-585-C__MAW-S_The_Floating_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-585-D__MAW-G_The_Floating_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIIγ-589",
