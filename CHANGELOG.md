@@ -8,6 +8,26 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch151 unit4 — Burning Root `C-IIIγ-558`
+
+[[SE-C-IIIγ-558_Burning_Root_타오르는_뿌리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-558_Burning_Root_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EB%BF%8C%EB%A6%AC.md "SE-C-IIIγ-558_Burning_Root_타오르는_뿌리.md")]
+
+**Change:** Replaced generic SECC gait alternatives with the existing rooting-ahead/tearing-free alternation and permanent floor record. Re-authored generic Registry Trivia classification using the recorded ember-root body, Subject-Grudge and Weight, distinguishing originating family from body. No Appearance anatomy, kit, Tale, or numerical changes.
+
+**Source evidence:** Completeexact558A–D4/4 read; AexplicitC-IIIγ-558WS despiteEmberrootalias. Masterindex122–124/detail82–841738–1770; Entity392; fullTale281575–1638; CSV731–734; archetype558Room; disposition311; B125WIP3403–3405/3427plusgitpath736a70a. Allhistories/functions/failure/shutdown/resonance read. Sourcesunchanged.
+
+**Full logical before/after:** Complete462line original read1–230/231–462 includingalltrial/assignment/book/forbearancecosts. Subject/SubjectGrudge, WeightexpressionnotrequireSubjectWeight. Mixedlivingemberrootlegs/knotbranches extendsfamilyattachment/debtrootmetaphor withoutfamilyhumanoid. ExistingAppearanceexplicitrootahead/reartearalternationalreadycorrectsplantedmotion; SECCvaguecrawlswalksslithersprowlslistnotexactmechanism. Sidehumanoidknotdifferentprofileheld. Bodymobile1.95m/s, buriednetwork/wholeRowburns needextentrelationship notnewbody.
+
+InitialactualsectfilefailedTrivia0.055; savedinitialfailedoutput. MinimalclassificationTriviarewritewithinexistingfacts; thenallfiveactualchecksPASS. Complete462line final reread1–230/231–462 afterchecks includesallclassification/combat/actions/phases; entireAppearance/Origin/Work/breach; kit/binding/corruption/resonance/Field; observation/Story/final/flavor; allthreeinteractions; entireTale/Testimony/Record; allWardenDebtLines/Heat/Familiar/Planted/DischargeTrial/assignmentlegalanalysis/PurchasedBook11enforcements/unlaidforbearance; Trivia/footer. LogicalHELD despitetechnicalPASS.
+
+**Holds:** Sidehumanoidknot/plantedfeet/networkunderground vsprimarycreatureknot/alternatingrootlegs; nohead/arms/naturaltreefleshadded ortransitionelected. Mobilebodyvsburiedsystemallwalls/floorRow/rootsalongledgerink/debtmapsnotexplicitspatialextentorremotelimbmechanism. Trailsfiresscorchnothing/groundnotconsume vscharredgrip/burningfurnace/floorscar, coulddistinguishmechanicalscarfromburnbutnotdocumented. Neverruns/hurries/walkingpace vsoldgroundcrossatspeed/fastground; cannotinventsecondgaitnumerics. Debtprojectionallmovementsmatched vsnewnonmaplineactivationandrenamedmisses plusdischargedrouteunchangedthenfourthhouseholdomitted chronology. Branchesneverconsume/constantlength vsnetworkextent notautomaticallycontradiction. Workheatfalls/rises vsFlavoractivationwarmthunchanged; initialexposureobserverdescribedassubject notrewrittenwithoutsourcecontext. Source2/75%/65%and40%/+15newfloor vsSide+10perturn retained. BlockcorridorsSide vsprimaryredirectandscarheightpriority. PurchasedBookexplicit6thyearsupersedesborrow/returnregisters sohistoricaldifferenceNOTunexplainedconflict; fourgeneration/centuriesnotinventchronology. MaulMedium3 vsRoomarchetype, genericlocaldullwarmhumvsitemtreegrainnoclosedanatomycrosswalk; mantlelocalcoldvsitemwarmstitchingmaybezonesnotdeclared; Charmgenericcoalcharmvsstampedheadseal, randomrewardvs7clockrotators vsyoungestfamilybearer/exclusionnochronologyprovided. FamilylegalresponsibilitiesnotchangeablebyMaul, keepdistinction. AllheldnoSEcompletion.
+
+**Commentary:** The purchased debt book is the sharpest consequence: the institution contains inherited obligation while becoming the creditor that preserves it. The root creature makes that attachment physical without turning the originating family into a literal family-shaped monster.
+
+Outcome **held**; SE+0, equipment+0 (each independent coverage counter). B125736a70afullsetand558B/MAWW55801pairalreadycounted; bothequipmentcounters+0. NewSEreviewheld+0.
+
+Five actual technical checks PASS; complete final reread. C-locale words 7,454→7,490. Evidence `B151_04_BURNING_ROOT.md`. Written design only, no rendered/live inspection. Batch151 OPEN4/5, No change1/4. No152 or merge.
+
 ## Batch151 unit3 — The Hollow Saint `C-IIIγ-081`
 
 [[SE-C-IIIγ-081_The_Hollow_Saint_빈_성자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-081_The_Hollow_Saint_%EB%B9%88_%EC%84%B1%EC%9E%90.md "SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md")]

@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A creature of burning roots that drags itself on fiery root-legs, its body a thrashing knot of ember-branches — a walking pyre-creature planted in motion. Fever-warm, it smells of char and wet earth. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Mobile — advances on root-legs by planting roots ahead and tearing the rear ones free in alternation; record rooting positions and the permanent floor marks, not an unspecified gait. |
 | **Location** | Zone C, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -448,7 +448,7 @@ The minute records the objection as **correct in all three parts**. It records t
 
 ### Registry Trivia
 
-- **Classification detail:** Burning Root is a Subject with Fragment (III) coherence and Major (γ) potency.
+- **Classification detail:** File the moving ember-root knot as Subject / Fragment (III) / Major (γ), with Subject-Grudge manifestation and Weight pressure; the family in the debt book is its origin, not its body.
 - **Field detail:** Its defining element is Weight, and its registered location is Zone C, Collector's Row.
 - **Recognition detail:** Identify it by the permanent floor scarring and the warmth that does not hurt; the Row's other heat sources burn what they stand on and none of them marks stone.
 - **Record detail:** Read this file beside the chamber plan, which the entity draws itself, and beside the discharge trial, which is the only study the facility has run on whether relief helps.
