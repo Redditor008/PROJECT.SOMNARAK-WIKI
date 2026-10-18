@@ -196,7 +196,7 @@ Batch150 unit5: **Survivors’ Breath `O-IVδ-895` — held**. [Evidence](SE_APP
 
 CLOSED5/5; No change1/5, no extension. All5HELD, four limited repairs; no completedSE increment. Survivors’ Breath fresh exactequipment review adds+1each source-coveragecounter, otherfour+0. SE12/301=3.99%,289remaining; ALLTypes246/301=81.73%,55remaining; Weapon246/287=85.71%,41remaining. Body statuses8changed/4retained/17held/2blocked/270pending. Fresh25checks/10ledgertestsPASS; couples0/301; comparator301/287sets/861pairs. Historical unit snapshots above are not current totals. [Complete closure](SE_APPEARANCE_REVIEWS/B150_CLOSE.md), [raw evidence](SE_APPEARANCE_REVIEWS/B150_CLOSE.json). No151 or merge; Batch301owner-bodyblock unchanged.
 
-## Batch151 — OPEN 0/5
+## Batch151 — CLOSED 5/5 (opening and unit snapshots below are historical)
 
 Owner p authorizes Batch151 only under R-33. Fresh270pending/117cue candidates; fixed queue Ember Phoenix190 → Heirloom909 → Hollow Saint081 → Burning Root558 → Grieving Maiden041. Signals4/4/3/3/3, ties by full designation; equipment excluded. Reading order, not defect verdict. Full original, exact sources/history and complete final rereading after five actual checks; per-unit Commentary and validated push. Three cumulative No change trigger5→7→10; no forced changes. Counters SE12/301, ALLTypes246/301, Weapon246/287 unchanged. No152 or merge. Batch301owner eight bodies/4+4/generate-validate-before-copy remains blocked. Evidence B151_OPEN.json.
 
@@ -209,3 +209,7 @@ Batch151 unit3: **The Hollow Saint `C-IIIγ-081` — held**. [Evidence](SE_APPEA
 Batch151 unit4: **Burning Root `C-IIIγ-558` — held**. [Evidence](SE_APPEARANCE_REVIEWS/B151_04_BURNING_ROOT.md). Replaced generic SECC gait alternatives with the existing rooting-ahead/tearing-free alternation and permanent floor record. Re-authored generic Registry Trivia classification using the recorded ember-root body, Subject-Grudge and Weight, distinguishing originating family from body. No Appearance anatomy, kit, Tale, or numerical changes. Five actual checks PASS and full final read complete; individual gate/push follows. Current batch OPEN4/5; No change1/4.
 
 Batch151 unit5: **The Grieving Maiden `C-IVβ-041` — held**. [Evidence](SE_APPEARANCE_REVIEWS/B151_05_THE_GRIEVING_MAIDEN.md). No change. No primary or source edits; retain field/assay distinction as written but do not call the broader identity and physical presentation conflicts resolved. Five actual checks PASS and full final read complete; individual gate/push follows. Current batch OPEN5/5; No change2/5.
+
+## Batch151 final closure
+
+CLOSED5/5; No change2/5, no extension. All5HELD, three limited repairs; no completedSE or equipment coverage increments. SE12/301=3.99%,289remaining; ALLTypes246/301=81.73%,55remaining; Weapon246/287=85.71%,41remaining. Body8changed/4retained/22held/2blocked/265pending. Fresh25checks/10ledgertestsPASS; couples0/301; comparator301/287sets/861pairs. Earlier unit snapshots are historical, not current open work. [Complete closure](SE_APPEARANCE_REVIEWS/B151_CLOSE.md), [raw evidence](SE_APPEARANCE_REVIEWS/B151_CLOSE.json). No152 or merge; Batch301owner-bodyblock unchanged.
