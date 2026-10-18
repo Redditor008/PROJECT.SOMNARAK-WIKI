@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch147 unit4 — Protest No One Remembers `O-IIIγ-371`
+
+**What changed:** Careful shape/state pass: Appearance now distinguishes ordinary upright voice-like absence, the documented low flat perimeter-pairing state and Transform spread through structure. Earlier community/speech is origin, not a portrait or recovered content. No body, face, garment, slogan or solid attack form invented.
+
+**Sources and holds:** Complete original443/final453 lines; full exact A–D4/4; Master595–597/index635–637; Tale199; EntityCodex567; Registry635–638; archetype203; disposition251 and Batch109 history reviewed. Source A supports voice-shaped absence; primary Appearance/Flavor/Warden give upright proportions measured by missing sound; Interaction row records three low flat changes beside Silence We Forgot We Made, recovering within an hour. Breach/Consequences supply corridor-filling loss of definition. Existing Batch109 equipment credits retained, not added. No cause supplied for low flat pairing; no forced reproducibility during Tide/breach/Ordeal. Instruments/record retention versus contemporaneous paper and independently checked reconstruction remain unresolved evidence limits. Generic anti-noise/solidifying-wall actions, breath versus no acoustic trace,65/75% thresholds, indiscriminate hunting versus preferred speaking/record-bearing target, and no-response-to-facility versus work-response claims remain. Equipment War-Scythe/Lens, Instant/Medium, gossamer/Living-Chitin, testimony-loss versus piece costs and generic Stigma taxonomy/chance stay held. Neutral disposition retained on its actual no-assistance record; its older First Target quotation differs from current primary and is not normalized here.
+
+**Commentary:** The flattening matters: it makes this an actual changing abstract form rather than a humanoid with a silence label. Keep the field measured and the protest unknown; the institutional conflict is the truthful register reply that still wounds, not an invented speech restored by a weapon.
+
+| Dossier | Outcome | Words | Checks | Credit |
+|---|---|---:|---|---|
+| [Protest_No_One_Remembers](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-371_Protest_No_One_Remembers_%EC%82%AC%EB%9D%BC%EC%A7%84_%EC%B9%A8%EB%AC%B5.md "SE-O-IIIγ-371_Protest_No_One_Remembers_사라진_침묵.md") `O-IIIγ-371` | Supported repair | 8,348→8,559 | 5/5 PASS | SE+1, equipment+0 |
+
+[[SE-O-IIIγ-371_Protest_No_One_Remembers_사라진_침묵](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-371_Protest_No_One_Remembers_%EC%82%AC%EB%9D%BC%EC%A7%84_%EC%B9%A8%EB%AC%B5.md "SE-O-IIIγ-371_Protest_No_One_Remembers_사라진_침묵.md")]
+
+[Individual evidence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_04_PROTEST_NO_ONE_REMEMBERS.md). Whole final reread after actual checks; original numbers and equipment section retained. No source files changed. Individual gate/push follows in a separate focused step.
+
+**Current counters:** ALL M.A.W. Types Appearance per SE — source-review coverage 245/301=81.40%, 56/301 remain. ALL M.A.W.-W Appearance per SE — source-review coverage 245/287=85.37%, 42/287 remain. SE Appearance Fix — independent written-design pass 11/301=3.65%, 290/301 remain. Coverage includes holds, not resolved artwork. Batch147 OPEN 4/5; No change 1/4. Five minimum; three cumulative No change dossiers trigger5→7→10. Pending is not No change. Corpus290Sorrow+11Unknown; non-SEBook excluded and025/062blocked. A couple is an excessive-prose-overlap dossier pair; fix phase here is written shape/state work, not an anatomy-label or rendered-art census. No148authorized. PR14OPENdraft→NON-WIKI, ownermergeonly. Batch301blocked8bodies/owner4+4; generate/validate before wiki copy.
+
 ## Batch147 unit3 — Home to No One Who Knew Me `N-IVδ-641`
 
 **What changed:** No change. Retain the black, hot, char-scented object with crimson inner light across unobserved shape changes; its changing silhouette and observer-specific recognition are the design, not an absent definitive sculpture.
