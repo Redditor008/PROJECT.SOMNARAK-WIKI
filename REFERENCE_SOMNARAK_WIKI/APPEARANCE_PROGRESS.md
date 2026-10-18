@@ -10,7 +10,7 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 |---|---:|---:|---:|
 | ALL M.A.W. Types Appearance per SE — source-review coverage | 245 / 301 | 81.40% | 56 / 301 |
 | ALL M.A.W.-W Appearance per SE — source-review coverage | 245 / 287 | 85.37% | 42 / 287 |
-| SE Appearance Fix — independent written-design pass | 9 / 301 | 2.99% | 292 / 301 |
+| SE Appearance Fix — independent written-design pass | 10 / 301 | 3.32% | 291 / 301 |
 
 These are coverage counters, **not promises that every held discrepancy is repaired**. The first two retain their historical criteria and explicit source holds. The new counter starts at zero; old equipment reviews, general prose fixes, shape screening and the R-32 clarification are not backfilled as SE appearance completions.
 
@@ -132,3 +132,7 @@ Careful spatial/state repair: floating curled figure and unchanged carried cryst
 ### Batch147 unit2: `N-IVδ-909`
 
 Short limited repair: replace the unsupported indiscriminate-hunting alert and generic physical-zone movement with the recorded mental column/spread. Clarify worker-to-mind-pillar origin without a stone human. Broader Transform shape remains held; SE completion +0. [Evidence](SE_APPEARANCE_REVIEWS/B147_02_DORMANT_MONOLITH.md). SE 9/301; equipment unchanged245/301 and245/287. Batch147 OPEN2/5; No change0/2. Earlier snapshots are historical.
+
+### Batch147 unit3: `N-IVδ-641`
+
+No change. Retain the black, hot, char-scented object with crimson inner light across unobserved shape changes; its changing silhouette and observer-specific recognition are the design, not an absent definitive sculpture. [Evidence](SE_APPEARANCE_REVIEWS/B147_03_HOME_TO_NO_ONE.md). SE 10/301; equipment unchanged245/301 and245/287. Batch147 OPEN3/5; No change1/3. Earlier snapshots are historical.

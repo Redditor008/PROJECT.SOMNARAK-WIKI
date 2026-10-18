@@ -52,6 +52,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IVδ-641": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_03_HOME_TO_NO_ONE.md",
+        "no_change": true,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_OPEN.json"
@@ -1502,8 +1514,29 @@
     {
       "designation": "N-IVδ-641",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-641_Home_to_No_One_Who_Knew_Me_돌아온_유물.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "retained",
+      "note": "No change. Retain the black, hot, char-scented object with crimson inner light across unobserved shape changes; its changing silhouette and observer-specific recognition are the design, not an absent definitive sculpture.",
+      "outcome": "retained design",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_03_HOME_TO_NO_ONE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-641-A__SIDE_CODEX_Home_to_No_One_Who_Knew_Me.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-641-B__MAW-W_Home_to_No_One_Who_Knew_Mes_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-641-C__MAW-S_Home_to_No_One_Who_Knew_Mes_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-641-D__MAW-G_Home_to_No_One_Who_Knew_Mes_Ember.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IVδ-821",

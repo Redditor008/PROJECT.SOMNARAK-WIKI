@@ -1,5 +1,23 @@
 # Work In Progress
 
+## Batch147 unit3 — Home to No One Who Knew Me `N-IVδ-641`
+
+**What changed:** No change. Retain the black, hot, char-scented object with crimson inner light across unobserved shape changes; its changing silhouette and observer-specific recognition are the design, not an absent definitive sculpture.
+
+**Sources and holds:** Full501-line primary read before and again after all checks; complete exact A–D 4/4, Master550–552 and index590–592, Tale184, EntityCodex552, Registry787–790, archetype262/305, disposition245 and Batch121unit1 history checked. The earlier cherished household/community object and later estranged relic are successive history, not mandatory humanoid forms. Side A agrees black surface/crimson glow/char across forms. Reinstallation source reaction stabilizes one form and dims the fire; no particular stable silhouette is supplied, so none invented. Batch121 already credited both equipment reviews. The primary never-touched/no-interference history and Side A–D Reinstallation/mounting/reception records have no supplied dating relationship: preserve them, do not declare an authorized experiment or overwrite the standing rule. Primary attacks versus never injured;65/90% threshold; week/shift confusion duration; Ember Stigma versus source-object return and Suit overload owner substitution remain distinct. Master Returning Relic alias and Censer/Bell Weapon category, generic Registry stats/5% versus Tail4%, and equipment color/cost wording remain held. R19 Neutral unchanged: excluded Mirror, two Market Stall coincidences and11/19 Bell signals do not establish assistance.
+
+**Commentary:** A familiar outline that cannot be trusted, with only its inner fire constant, makes the changed home visible without choosing a privileged original. The district owning its written history outside the facility is the emotional resolution; a literal restored treasure or old owner would undo it.
+
+| Dossier | Outcome | Words | Checks | Credit |
+|---|---|---:|---|---|
+| [Home_to_No_One_Who_Knew_Me](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-641_Home_to_No_One_Who_Knew_Me_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%9C%A0%EB%AC%BC.md "SE-N-IVδ-641_Home_to_No_One_Who_Knew_Me_돌아온_유물.md") `N-IVδ-641` | No change | 9,521→9,521 | 5/5 PASS | SE+1, equipment+0 |
+
+[[SE-N-IVδ-641_Home_to_No_One_Who_Knew_Me_돌아온_유물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-641_Home_to_No_One_Who_Knew_Me_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%9C%A0%EB%AC%BC.md "SE-N-IVδ-641_Home_to_No_One_Who_Knew_Me_돌아온_유물.md")]
+
+[Individual evidence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_03_HOME_TO_NO_ONE.md). Whole final reread after actual checks; original numbers and equipment section retained. No source files changed. Individual gate/push follows in a separate focused step.
+
+**Current counters:** ALL M.A.W. Types Appearance per SE — source-review coverage 245/301=81.40%, 56/301 remain. ALL M.A.W.-W Appearance per SE — source-review coverage 245/287=85.37%, 42/287 remain. SE Appearance Fix — independent written-design pass 10/301=3.32%, 291/301 remain. Coverage includes holds, not resolved artwork. Batch147 OPEN 3/5; No change 1/3. Five minimum; three cumulative No change dossiers trigger5→7→10. Pending is not No change. Corpus290Sorrow+11Unknown; non-SEBook excluded and025/062blocked. A couple is an excessive-prose-overlap dossier pair; fix phase here is written shape/state work, not an anatomy-label or rendered-art census. No148authorized. PR14OPENdraft→NON-WIKI, ownermergeonly. Batch301blocked8bodies/owner4+4; generate/validate before wiki copy.
+
 ## Batch147 unit2 — Dormant Monolith `N-IVδ-909`
 
 **What changed:** Short limited repair: replace the unsupported indiscriminate-hunting alert and generic physical-zone movement with the recorded mental column/spread. Clarify worker-to-mind-pillar origin without a stone human. Broader Transform shape remains held; SE completion +0.
