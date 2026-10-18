@@ -1,5 +1,9 @@
 # Work In Progress
 
+## Batch152 — OPEN 0/5
+
+Owner p authorizes Batch152 only under R-33. Fresh265pending/111cue candidates; fixed queue Unspoken Line C-IVδ-251 → Willing Chains C-IVδ-976 → Stormscale Sovereign C-Vδ-949 → Soaking Shadow N-IIIγ-308 → Face Beneath Masks N-IIβ-689. Each3signals, ties by full designation; equipment excluded. Reading order, not defect verdict. Full original/exactsources/history/final logical reread after five actual checks, individual evidence/Commentary/gate/verifiedpush. Three cumulative No change triggers5→7→10. No forced edits. Independent counters SE12/301, ALLTypes246/301, Weapon246/287 unchanged. No153 or merge; PR14OPENdraft→NON-WIKI. Batch301eightownerbodies/one4+4/generatevalidatebeforecopy remainsblocked. Evidence B152_OPEN.json.
+
 ## Batch151 — CLOSED 5/5
 
 Five complete original/exact-source/history/final written-design reviews individually pushed. Phoenix/Heirloom/BurningRoot limited repairs; **Hollow Saint: No change; Grieving Maiden: No change**. AllfivewholelogicaloutcomesHELD; no completedSEcredit. Nochange2/5below3, noextension. Allfiveequipmentsetsalreadycounted; no duplicate sourcecoveragecredits. Current independent counters SE12/301=3.99%(289remaining); ALLTypes246/301=81.73%(55remaining); Weapon246/287=85.71%(41remaining). Body8changed/4retained/22held/2blocked/265pending.

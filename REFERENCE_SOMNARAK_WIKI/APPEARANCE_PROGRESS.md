@@ -213,3 +213,7 @@ Batch151 unit5: **The Grieving Maiden `C-IVβ-041` — held**. [Evidence](SE_APP
 ## Batch151 final closure
 
 CLOSED5/5; No change2/5, no extension. All5HELD, three limited repairs; no completedSE or equipment coverage increments. SE12/301=3.99%,289remaining; ALLTypes246/301=81.73%,55remaining; Weapon246/287=85.71%,41remaining. Body8changed/4retained/22held/2blocked/265pending. Fresh25checks/10ledgertestsPASS; couples0/301; comparator301/287sets/861pairs. Earlier unit snapshots are historical, not current open work. [Complete closure](SE_APPEARANCE_REVIEWS/B151_CLOSE.md), [raw evidence](SE_APPEARANCE_REVIEWS/B151_CLOSE.json). No152 or merge; Batch301owner-bodyblock unchanged.
+
+## Batch152 — OPEN 0/5
+
+Owner p authorizes Batch152 only under R-33. Fresh265pending/111cue candidates; fixed queue Unspoken Line C-IVδ-251 → Willing Chains C-IVδ-976 → Stormscale Sovereign C-Vδ-949 → Soaking Shadow N-IIIγ-308 → Face Beneath Masks N-IIβ-689. Each3signals, ties by full designation; equipment excluded. Reading order, not defect verdict. Full original/exactsources/history/final logical reread after five actual checks, individual evidence/Commentary/gate/verifiedpush. Three cumulative No change triggers5→7→10. No forced edits. Independent counters SE12/301, ALLTypes246/301, Weapon246/287 unchanged. No153 or merge; PR14OPENdraft→NON-WIKI. Batch301eightownerbodies/one4+4/generatevalidatebeforecopy remainsblocked. Evidence B152_OPEN.json.
