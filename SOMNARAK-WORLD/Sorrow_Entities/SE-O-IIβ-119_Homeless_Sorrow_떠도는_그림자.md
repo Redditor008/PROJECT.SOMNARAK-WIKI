@@ -13,8 +13,8 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Mixed — A beast of cold dense shadow with no fixed shape — sometimes a stalking quadruped, sometimes many-limbed — moving with predatory intent. Bloodless-cold, it smells of ash; a hunter made of dark. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Physical Form** | Mixed — Cold, dense shadow without a fixed body, sometimes four-legged, sometimes many-limbed or gathered into a dark corner. The ash smell and bloodless cold accompany changing outlines; the creature-like silhouette does not establish a hunting animal or displaced human body. |
+| **Movement** | Mobile — Circles within an occupied room and relocates through connected shadowed spaces when the room is lost or it is driven out. Creature-like movement belongs to the shadow, not to a fixed structure or a documented solid animal. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -50,7 +50,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | N/A — no locomotion rate established; the mobile shadow relocates between dark spaces, while activation output is measured per turn |
 | **Resistance** | 25% against Void. There is nothing solid to resist; it is cold dense shadow with no fixed shape, and the two attempts to drive it with light are recorded under Escalation rather than here. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |
@@ -97,7 +97,7 @@
 - An unattended room is this holding's only real escalation path, and it is a slow one: the shadow leaves, takes up somewhere else in the sector, and the station has to find it again, which has taken as long as nine days.
 
 ## Appearance
-**Physical Form:** A beast of cold dense shadow with no fixed shape — a stalking quadruped one moment, many-limbed the next. **Movement:** It prowls rooms and alleys, flowing from shadow to shadow.
+**Physical Form:** Cold, dense shadow whose outline will not hold: four-legged, many-limbed, or gathered into the corner of a room. The bloodless cold, ash smell and impression of somebody having just left persist when the silhouette changes. **Movement:** It prowls within a room and flows between shadowed spaces. That outline is not evidence of a solid beast, a restored household, or a person underneath it; the Side Codex explicitly leaves the predatory reading open to observer fear.
 
 **Notable Features:** It drifts without a source, darkens around grief, and leaves the impression that someone has just left.
 
@@ -115,12 +115,20 @@
 | Field | Detail |
 |---|---|
 | **Form** | A moving patch of shadow that occupies rooms, alleys, and empty corners of the Old Lament. It has no fixed body. |
-| **Position / movement** | It stays where it is witnessed and moves when it is not. Twenty-three recorded relocations in nine years, every one of them following a period with no occupancy logged. |
+| **Position / movement** | It circles before settling in a witnessed room; staying means retaining that location, not remaining motionless. Twenty-three recorded relocations in nine years, every one of them following a period with no occupancy logged. Local circling and leaving the assigned room must be logged separately. |
 | **Material / signature** | Cold dense shadow with no fixed shape — quadruped, many-limbed, or simply a dark corner — smelling of ash, with the room's corners going cold first. Record occupancy hours and the sector's reallocations that week. |
 | **Distinctive markers** | It is darkest in rooms people will not enter. The station has used that twice to locate it after a relocation, by asking the cleaning staff which room they have been avoiding. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; this district holds more than one record made of displacement, and this is the one that is contained by being given somewhere to stay. |
 
 **Appearance protocol:** There is no stable form to record, so record the occupancy instead: which room, for how long, at what light level, and how cold the room became. Note the shape only if it held one for more than a minute, which is rare. Observers are not to photograph it with a flash.
+
+### Form, place and displacement
+
+The Tale begins with displaced households, not with an animal being made homeless. Their mourning becomes independent of any one citizen and takes the condition of having nowhere to settle as its form. Place-Grudge therefore describes the sorrow that occupies and abandons rooms; the changing beast-like shadow is how that wandering presence is seen, not a separate creature carried around by an invisible building.
+
+An occupied room gives it somewhere to stay without supplying a permanent body. The worker's account records circling followed by settlement behind the chair; the Side Codex records a less animal-shaped outline resting at the room edge under witnessed shelter. Neither observation licenses a human return, a permanent tame state, or a new species. On departure or forced over-lighting, the shadow retreats into connected dark spaces and the room-to-room pressure spreads. Shadow theft affects personnel's shadows and sense of belonging; it does not establish extra limbs, feeding anatomy, or a body enlarged to the sector's size.
+
+The registration is not fully reconciled. SECC and the Identification Profile call it a Subject; the Side Codex calls it Object/Place, as do the operational role, invalid Work responses and Registry Trivia. The mobile observations support neither the old fixed-object speed explanation nor an automatic choice between those classifications. The Escape record describes leaving an assigned room, while the expansion record describes pressure passing through connected rooms. Preserve those recorded actions without treating their section titles as authority to resolve the type dispute. Classification-dependent permissions remain unresolved; its creature-like outline is not permission to confront or chase it.
 
 ## Origin
 - **Formation:** The Shadow formed from sorrow that had nowhere to settle.
@@ -168,7 +176,7 @@ Escalation here is a relocation, and it is always preceded by an empty room. Rec
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Unhoused grief and unacknowledged departure. |
-| **Manifestation** | Place-Void|
+| **Manifestation** | Place-Grudge; Void is the recorded element |
 | **Primary effect** | Rooms feel abandoned even when occupied. |
 | **Duration / rate** | Slow, drifting between connected Old Lament spaces. |
 | **Risk** | Moderate (β), carried for the shadow-theft rather than for anything else. Nine years, eleven thefts, all recovered within a day, no fatalities and no permanent injury. |
@@ -274,7 +282,7 @@ Every piece in this set takes the same thing in the same order: the wielder's se
 **R.D. Comprehension Level:** 2 — Basic
 
 - The Shadow is strongest in abandoned rooms.
-- It is not extinguished by light; it retreats from acknowledgment.
+- It is not extinguished by light. Intense inspection light drives it into corners and connected unwatched spaces; a calm witness staying in a dim room is the recorded settling condition, not a cause for retreat.
 - Personnel report fear when it appears behind them.
 
 **Personnel Note:** *"It was watching from the doorway. I felt fear, then realized the doorway was the only place it had ever been allowed to stand."* — Specialist, Zone B patrol
@@ -329,7 +337,7 @@ The room darkens without losing its light. A shadow drifts across the floor, car
 
 **With continued exposure:** The room gets easier and the question gets louder: whether you are supposed to be here, whether anybody knows you are, whether this is your room. It is not frightening. It is the thing that makes people leave early.
 
-**When the entity activates:** When it activates, the Void stops being background and becomes foreground — loud, physical, impossible to ignore. The Place-Grudge was waiting for this.
+**When the entity activates:** The occupied room feels as though everybody has left. A worker finds the shadow in the next space before arriving, or looks down under a working lamp and casts nothing. The pressure is a loss of belonging, not evidence that the shadow has become a loud solid animal; the light and the room can remain ordinary while permission to be there begins to fail.
 
 **After departure:** You check that your name is still on your own door. Several occupants have done it without planning to, and the station lists it in the briefing so that people are not surprised by themselves.
 
