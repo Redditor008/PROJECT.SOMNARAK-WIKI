@@ -88,6 +88,21 @@
           "sect": "PASS"
         },
         "rendered_check": "not in scope"
+      },
+      "O-IVδ-895": {
+        "no_change": false,
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_05_SURVIVORS_BREATH.md",
+        "whole_before_reread": true,
+        "whole_final_reread": true,
+        "logical_outcome": "held",
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        },
+        "rendered_check": "not in scope"
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_OPEN.json",
@@ -2323,8 +2338,32 @@
     {
       "designation": "O-IVδ-895",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-895_Survivors'_Breath_떠도는_한숨.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Identification Position/movement records coldairtrail/temperature/drift/roomscrossed andexplicitnobodilyposture. New sigh/trail/people note connects collectivedetachedbreath, noindividualspeaker/face/lungs, conditionalcoldvisibilitynotdormancy, separatepersonnelroute/ownbreathing/lateeffects, activationthickening/environmentnotbody, and extractedawl/Veil/tokennot sourceanatomy. Huntdiscrepancy explicitlyheld.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_05_SURVIVORS_BREATH.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/895_Survivors_Breath/SE-895-A__SIDE_CODEX_Survivors_Breath.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/895_Survivors_Breath/SE-895-B__MAW-W_The_Resting_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/895_Survivors_Breath/SE-895-C__MAW-S_The_Resting_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/895_Survivors_Breath/SE-895-D__MAW-G_The_Resting_Breath.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IVδ-897",
@@ -2702,6 +2741,14 @@
       "batch": 146,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_05_SEETHING_TUNDRA.md",
       "history_proof": "Exact884B/registryID/fullID/title WIP/CHANGELOG context search found only pending144queue, no completed independent review. Git10cd20a/8f7138f; prior art/prose not source-review credit.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "O-IVδ-895",
+      "batch": 150,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_05_SURVIVORS_BREATH.md",
+      "history_proof": "Fresh equipment source-review coverage: ALLTypes+1 and Weapon+1 for exactSE895set/SE895B/MAWW89501. Existing baseline240 and fiveB146newreviews containno895entry. Search acrossallWIP/CHANGELOGvolumes foundonlypriorprimary/prose/quote/structuralwork andW895personalizationcloudlensart, not independent sourcecomparisons; none is backfilled. Currentexact4/4reviewfullycomparesprimary→Side/items→Registry→Master→archetypeincludingholds. Coverage245→246 ineachindependentcounter; not finishedkitredesign/artwork. SEAppearanceFix+0,wholeheld.",
       "all_types_credit": true,
       "weapon_credit": true
     }
