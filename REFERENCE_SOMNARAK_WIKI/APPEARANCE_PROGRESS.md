@@ -10,7 +10,7 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 |---|---:|---:|---:|
 | ALL M.A.W. Types Appearance per SE — source-review coverage | 245 / 301 | 81.40% | 56 / 301 |
 | ALL M.A.W.-W Appearance per SE — source-review coverage | 245 / 287 | 85.37% | 42 / 287 |
-| SE Appearance Fix — independent written-design pass | 8 / 301 | 2.66% | 293 / 301 |
+| SE Appearance Fix — independent written-design pass | 9 / 301 | 2.99% | 292 / 301 |
 
 These are coverage counters, **not promises that every held discrepancy is repaired**. The first two retain their historical criteria and explicit source holds. The new counter starts at zero; old equipment reviews, general prose fixes, shape screening and the R-32 clarification are not backfilled as SE appearance completions.
 
@@ -124,3 +124,7 @@ Cumulative counters unchanged: ALL M.A.W. Types Appearance per SE — source-rev
 Read each complete primary, exactA–D and identity-resolved Masters/Tales/history. Predeclare short/careful changes; preserve uncertainty and reread full finals. Actual five checks and separate individual gates/pushes remain required, in multiple focused Bash steps. Minimum five completed reviews; three cumulative whole-dossier No change results trigger5→7→10. No mandatory edits; pending is not No change. A couple is an excessive-prose-overlap dossier pair, not an equipment pair. Human/Monster/Animal/Abstract are collection-wide families, not four required forms for each entity. Never invent transitions to resolve conflicts.
 
 Held884's undescribed Transform, blue/clearwhite relationship and disposition-index/sectorbenefit mismatch stay explicit follow-ups; not silently counted. Blocked025/062 remain in301denominator. Corpus290Sorrow+11Unknown excludes non-SEBook. PR14OPENdraft→NON-WIKI, ownermergeonly. Batch301stillblocked8ownerbodies/owner4+4; generate/validate before wiki copy. No deployment or merge authorized.
+
+### Batch147 unit1: `N-IVδ-611`
+
+Careful spatial/state repair: floating curled figure and unchanged carried crystal are recorded separately from entrant-specific Dream-layer shape changes. Corrupt expansion remains a field around a stationary figure, not pursuit or an enlarged crystal body. Movement header and current flavor no longer imply a fixed object or an observed changing face. [Evidence](SE_APPEARANCE_REVIEWS/B147_01_SLEEPING_SHARD.md). SE 9/301; equipment unchanged245/301 and245/287. Batch147 OPEN1/5; No change0/1. Earlier snapshots are historical.

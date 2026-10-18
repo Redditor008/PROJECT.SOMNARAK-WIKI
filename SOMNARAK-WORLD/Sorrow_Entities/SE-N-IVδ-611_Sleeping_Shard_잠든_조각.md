@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A sleeping figure curled around a large shard of pale crystal, weeping in its unconsciousness, its body slowly changing shape as it dreams. Bloodless-cold, it smells of ash; it has never woken, and no one knows what it dreams. |
-| **Movement** | Stationary — a discrete object. |
+| **Movement** | Floats unsupported and drifts at chest height while asleep; during a Corrupt event the figure remains in place and the dream expands outward. |
 | **Location** | Zone E, Exile's Gate vicinity |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -121,6 +121,16 @@
 | **Distinctive markers** | It carries the shard rather than being carried by it, and it is asleep. Those two together separate it from every other crystal holding in the wing. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type and the physical markers must all agree before work or contact begins; if one of them does not, stop there. |
 
+### Appearance States
+
+| Field | Chamber observation | Inside the Dream layer |
+|---|---|---|
+| **Form** | A sleeping figure of pale crystal curled around a large shard. Record the body and the carried crystal separately. | The body changes shape gradually; the carried crystal does not change. No common sequence or face has been established. |
+| **Position / movement** | Unsupported at chest height, with drift and the angle of the curl logged rather than corrected. | Scale, posture and the curl alter in the entrant's account. These changes do not establish walking or pursuit outside the layer. |
+| **Perceptible to** | The floating curl and the carried shard identify the holding. | Each entrant reports a different progression; the accounts remain dated individual observations, not a composite anatomy. |
+| **Measurement** | Resting position, height, curl and tear rate. | Shape in the entrant's own words, and the distance at which tears cease to be liquid. |
+| **Transition** | The exile's petition and crystallized sleep supply the origin, not an additional person awake in the chamber. | The same sleep preserves the cause of grief. A change in dream form does not establish a waking body or permission to retrieve the memory. |
+
 **Appearance protocol:** Record the body and the shard separately: the figure changes shape while it dreams and the crystal does not. Log the weeping — whether it is running, how far it travels before it stops being liquid, and at what distance from the Dream layer that happens. Scale, posture and the attitude of the curl move before anything else does.
 
 ## Origin
@@ -158,6 +168,10 @@ Nothing in the table above means anything read on its own. The element, the cohe
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
 | **First Target** | Whoever in range most wants to stop feeling something. |
 | **Escalation** | The radius widens each turn the sleep stays disturbed; Clarity drain increases by 5 for each person inside it, and does not fall when the radius later contracts. |
+
+**State change:** A Corrupt event extends the dream beyond the chamber while the figure remains in place. The expanding radius is not an enlarged crystal body or a pursuing creature; record its boundary separately from the entrant's changing dream-form report.
+
+**Retained non-breach mechanic:** The sleep still holds the grief and its cause together. Reduce disturbance, set the anchor and withdraw radially; neither a contracting radius nor a quieter sleep establishes that the exile has woken or the grief has been removed.
 
 ### Escalation Notes
 
@@ -294,7 +308,7 @@ The anchor is a kept object with a known owner, set within arm's reach of the cr
 
 ## 감각 묘사 (Flavor Text)
 
-A figure sleeps inside a shard of pale crystal, its face changing as dreams pass through it. A sob, then a breath, then nothing. The Shard is not waiting to be rescued, and it does not need the room to be furnished: it needs the world not to require that it wake before it is ready.
+A pale-crystal figure sleeps curled around a shard, its body changing shape inside the Dream layer. A sob, then a breath, then nothing. The Shard is not waiting to be rescued, and it does not need the room to be furnished: it needs the world not to require that it wake before it is ready.
 
 
 

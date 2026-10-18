@@ -1,5 +1,23 @@
 # Work In Progress
 
+## Batch147 unit1 — Sleeping Shard `N-IVδ-611`
+
+**What changed:** Careful spatial/state repair: floating curled figure and unchanged carried crystal are recorded separately from entrant-specific Dream-layer shape changes. Corrupt expansion remains a field around a stationary figure, not pursuit or an enlarged crystal body. Movement header and current flavor no longer imply a fixed object or an observed changing face.
+
+**Sources and holds:** Whole456-line original and470-line final primary read in ordered chunks; exact611A–Dwhole including histories/failures/footers; Master547–549/6910–6938, Entity551, fullTale183/10221–10277, registry763–766, archetype256/art490 and disposition244. Git inherited10cd20a/8f7138f. Batch99 source-review/uniqueWeapon credit explicitly found in WIP/CHANGELOG and primary review paragraph; no equipment credit repeated. Never-woken/last-waking/4231frequent-waking chronology, sourceA eye-shaped crack and stirredspeed, sourceA outside-armreach versus primary anchor within-armreach remain held. No observed waking anatomy established. The Tale crystallizes exile/wound/cause; current origin/A explicitly supply curled figure and crystal, not a recovered separate human. Knife/Lens and subtypes, set-boundary effects, appearance-only contact/twitch versus never-struck, and current generic activation pressure remain held. Neutral244 retained: paper-onlyFrozenShard, Loomextendslegibility, FrozenSighbothgaugesfall not demonstrated support of another positive holding.
+
+**Commentary:** The distinction between the carried crystal and the changing dream makes the design readable without revealing the memory. Its refusal of a conventional rescue is compelling. The funding system paying less for better care is the sharper institutional conflict than an invented waking monster.
+
+| Dossier | Outcome | Words | Checks | Credit |
+|---|---|---:|---|---|
+| [Sleeping_Shard](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-611_Sleeping_Shard_%EC%9E%A0%EB%93%A0_%EC%A1%B0%EA%B0%81.md "SE-N-IVδ-611_Sleeping_Shard_잠든_조각.md") `N-IVδ-611` | Supported repair | 7,657→7,965 | 5/5 PASS | SE+1, equipment+0 |
+
+[[SE-N-IVδ-611_Sleeping_Shard_잠든_조각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-611_Sleeping_Shard_%EC%9E%A0%EB%93%A0_%EC%A1%B0%EA%B0%81.md "SE-N-IVδ-611_Sleeping_Shard_잠든_조각.md")]
+
+[Individual evidence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_01_SLEEPING_SHARD.md). Whole final reread after actual checks; original numbers and equipment section retained. No source files changed. Individual gate/push follows in a separate focused step.
+
+**Current counters:** ALL M.A.W. Types Appearance per SE — source-review coverage 245/301=81.40%, 56/301 remain. ALL M.A.W.-W Appearance per SE — source-review coverage 245/287=85.37%, 42/287 remain. SE Appearance Fix — independent written-design pass 9/301=2.99%, 292/301 remain. Coverage includes holds, not resolved artwork. Batch147 OPEN 1/5; No change 0/1. Five minimum; three cumulative No change dossiers trigger5→7→10. Pending is not No change. Corpus290Sorrow+11Unknown; non-SEBook excluded and025/062blocked. A couple is an excessive-prose-overlap dossier pair; fix phase here is written shape/state work, not an anatomy-label or rendered-art census. No148authorized. PR14OPENdraft→NON-WIKI, ownermergeonly. Batch301blocked8bodies/owner4+4; generate/validate before wiki copy.
+
 ## Batch147 opening — SE appearance pass, OPEN 0/5
 
 Owner's fresh `p` after Batch146 authorizes one next batch, not Batch148. The older five-item equipment queue was reviewed in146. Continue the independent written SE appearance pass, preserving source-supported nonhuman and historical/conditional forms. No artwork completion or broad collection redesign is claimed.

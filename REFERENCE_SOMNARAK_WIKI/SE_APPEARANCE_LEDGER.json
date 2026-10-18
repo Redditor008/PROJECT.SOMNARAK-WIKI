@@ -28,7 +28,20 @@
       "O-Iα-169"
     ],
     "kind": "se-appearance",
-    "reviewed": {},
+    "reviewed": {
+      "N-IVδ-611": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_01_SLEEPING_SHARD.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_OPEN.json"
   },
   "dossiers": [
@@ -1455,8 +1468,24 @@
     {
       "designation": "N-IVδ-611",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-611_Sleeping_Shard_잠든_조각.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "changed",
+      "note": "Careful spatial/state repair: floating curled figure and unchanged carried crystal are recorded separately from entrant-specific Dream-layer shape changes. Corrupt expansion remains a field around a stationary figure, not pursuit or an enlarged crystal body. Movement header and current flavor no longer imply a fixed object or an observed changing face.",
+      "outcome": "source-supported repair",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_01_SLEEPING_SHARD.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-611-A__SIDE_CODEX_Somnalith.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-611-B__MAW-W_Somnalith_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-611-C__MAW-S_Somnalith_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-611-D__MAW-G_Somnalith_Vial.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IVδ-641",
