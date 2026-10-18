@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch147 opening — SE appearance pass, OPEN 0/5
+
+Owner's fresh `p` after Batch146 authorizes one next batch, not Batch148. The older five-item equipment queue was reviewed in146. Continue the independent written SE appearance pass, preserving source-supported nonhuman and historical/conditional forms. No artwork completion or broad collection redesign is claimed.
+
+Fresh pending-only body cue screen at fa57929: 290 pending, one held, two blocked, eight completed; 136 reading-cue candidates. Equipment text excluded. Highest cue counts select Sleeping Shard N-IVδ-611 (9), Dormant Monolith N-IVδ-909 (8), Home to No One Who Knew Me N-IVδ-641 (7), Protest No One Remembers O-IIIγ-371 (7), Atlas O-Iα-169 (6), ties by designation. This is reading order, not confirmed-defect ranking or anatomy census. No substitution. Opening evidence: B147_OPEN.json.
+
+Cumulative counters unchanged: ALL M.A.W. Types Appearance per SE — source-review coverage245/301=81.40%,56/301remain; ALL M.A.W.-W Appearance per SE — source-review coverage245/287=85.37%,42/287remain; SE Appearance Fix — independent written-design pass8/301=2.66%,293/301remain. Equipment coverage includes explicit holds, not resolved redesign/artwork. SE6changed/2retained/1held/290pending/2blocked. Do not infer new equipment credit from a body review or repeat historical exact pairs.
+
+Read each complete primary, exactA–D and identity-resolved Masters/Tales/history. Predeclare short/careful changes; preserve uncertainty and reread full finals. Actual five checks and separate individual gates/pushes remain required, in multiple focused Bash steps. Minimum five completed reviews; three cumulative whole-dossier No change results trigger5→7→10. No mandatory edits; pending is not No change. A couple is an excessive-prose-overlap dossier pair, not an equipment pair. Human/Monster/Animal/Abstract are collection-wide families, not four required forms for each entity. Never invent transitions to resolve conflicts.
+
+Held884's undescribed Transform, blue/clearwhite relationship and disposition-index/sectorbenefit mismatch stay explicit follow-ups; not silently counted. Blocked025/062 remain in301denominator. Corpus290Sorrow+11Unknown excludes non-SEBook. PR14OPENdraft→NON-WIKI, ownermergeonly. Batch301stillblocked8ownerbodies/owner4+4; generate/validate before wiki copy. No deployment or merge authorized.
+
 ## Batch146 close — combined equipment-first review, CLOSED5/5
 
 Owner new p authorized exactly146, permitting older equipment work first or combined body/equipment reviews and longer execution. Sources, edits, checks, records and individual gates were separate focused Bash calls. Selected carried pending queue720/051/225/426/884, identity/history verified; no substitutions or fabricated new defect ranking. Five whole dossier reviews completed. Primary changes5/5; No change0/5 means no7rung under cumulative3Nochange5→7→10. A retained equipment block or prior body credit is not an unchanged whole dossier.
