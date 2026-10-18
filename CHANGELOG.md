@@ -8,6 +8,34 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch149 — CLOSED 5/5 under Integrity Visual Live Check Rule
+
+Owner P authorized only149 and durable R33, shipped6ad6b1a. Fresh pending-only order180→330→565→Maw001→585 unchanged. Five completed reviews, five supported limited primary repairs, five logicalHELD; no completed-fix or new equipment credit. No change0/5, so no expansion to seven. Whole before/source/final logical reading is documented in individual receipts, not inferred from technical PASS.
+
+- Owed `C-IIIγ-180`: `060f8b83d8dc63a9115a197ec6e72b7b86b38075` PUSH VERIFIED; 7,440→7,674 words. Replaced unsupported device Movement with fixed location and length/height growth found between watches. Added barrier linkage tying collective sorrow/Tale to current nonhuman Place, transparent blocks remaining, echo-derived portable equipment versus intact wall, pressure route versus physical highway. Explicitly retained collapse/budding/history conflicts as unresolved.
+
+  **Commentary:** The strongest image is a clear block that still blocks the road: acknowledgment need not repair access. The legal prohibition makes the institution repeat the wall in another medium. A spectacular collapse would dilute that persistence unless its relationship were genuinely supported.
+
+- Frozen Window `C-IIβ-330`: `51fe9316c4c394d837b211f67df481b8e867dbdf` PUSH VERIFIED; 7,945→8,207 words. Aligned SECCMovement and breach alert with recorded relocation rather than pursuit. Connected household waiting, mobile figure, conditional surface scenes and frost-derived equipment without a literal portal or frame on the body. Added explicit pane/never-resting/confinement conflicts, not an invented transition.
+
+  **Commentary:** Waiting becoming compulsory walking is a strong inversion, not a reason to replace the figure with a window. The missing-person declarations give naming an ending a troubling public cost. I would preserve the unknowable ninth scene category rather than solve it into a secret returned-person body.
+
+- Broken Well `C-IIβ-565`: `f7b16cbda4333c0d3ebbce9889bae97be5d39796` PUSH VERIFIED; 7,670→7,933 words. Corrected stationaryMovement to motherfigure joined to rim, finished truncated EntityType sentence from exact event account, and changed present flavor from drippingwater to dust above measuredfloor. Added supported historical wetshaft/currentdryfloor bridge and distinguished imagineddepth, effectspread and equipmentimages from actualcavity/recoveredchild; recorded remaining physical conflicts.
+
+  **Commentary:** The visible floor that cannot end the search is more affecting than a hidden monster below it. The annual search works only when someone actually does it, which makes care substantive rather than symbolic. The compulsory handover sentence is where that care becomes troubling for the people required to perform it.
+
+- The Maw `C-IVω-001`: `ea24bf8072f1872e1c344acdf7e8129532eeeebc` PUSH VERIFIED; 7,570→7,820 words. Corrected DetailedActivationManifestation Place-Grudge→Place-Tale, retaining Grudgeelement. Speedrationale now distinguishes ordinarydistrict travel from registeredeventform without new speed. Added samecitizens/architecturalsubstance continuity, currentquietnotwalking and explicit origin/trigger/equipmentholds. ExistingAppearanceStates and Tale/equipment unchanged.
+
+  **Commentary:** Architecture is the right body for people turned into infrastructure: the setting cannot be separated from the violence. The quiet is strongest when the institution refuses to call it recovery. I would not let a jaw-themed weapon turn the district into a conventional hungry beast.
+
+- Floating Tree `N-IIIγ-585`: `b129240e635d4eafcd3e01af5453aa87b6d81061` PUSH VERIFIED; 7,570→7,949 words. SECCMovement nowroot-firstcurrentdrift ratherthanwalking/pursuit; SpeedN/Arationale describesno measuredtravelrate ratherthanfixedobject. TwoObjectPlaceresiduesnowSubject. Appearanceordinaryrootclearance+ReturningTreestationkeepingexception andidentification nowcheckrootedreportsagainst disputedbreachratherthanrejectidentity. Added community/rootmass/shadow note preserving literalTaleanatomy discrepancy, originaccounts, uncalibratedshadow/circumstantialpairings and separateequipmentconditions.
+
+  **Commentary:** Healthy roots with nowhere to go make this stronger than a human-shaped refugee. Keeping the fair housing rule and its defensible anti-corruption history makes the loss institutional rather than one villain’s act. The Return Address remedy has real but insufficient value; it should not be turned into a magical recovered homeland.
+
+Fresh25/25 closing checks,10/10 ledger tests, labels301/301zero violations; couples0/301 and M.A.W.287sets/861pairs screen remain distinct from logical acceptance. Unchanged primary hashes after complete final rereads; original digit sequences, equipment blocks and sources preserved. Detailed holds, actual outputs, source anchors/hashes, prior-credit exclusions and generated links in B149_CLOSE.json and five receipts.
+
+Current SE12/301(3.99%)289remaining;8changed/4retained/12held/2blocked/275pending. ALLTypes245/301(81.40%)56remaining; Weapon245/287(85.37%)42remaining. Words38,195→39,583(+1,388), C-locale. No artwork, rendered inspection, preview, deployment or merge. No150 authorization. Batch301 retains eight owner bodies/4+4/generatevalidate-before-copy block. Closing shared gate and verified push follow.
+
 ## Batch149 unit5 — Floating Tree `N-IIIγ-585`
 
 [[SE-N-IIIγ-585_Floating_Tree_떠다니는_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-585_Floating_Tree_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%EB%82%98%EB%AC%B4.md "SE-N-IIIγ-585_Floating_Tree_떠다니는_나무.md")]

@@ -159,6 +159,17 @@ All five primaries received limited supported repairs, but all five whole-file l
 
 Batch149 is not authorized. Batch301 remains blocked on eight owner-provided bodies and owner4+4selection; generate/validate before wiki copy. PR14OPENdraft→NON-WIKI, ownermergeonly. Historical holds preserved; no artwork completion claimed.
 
-## Batch149 — OPEN 0/5
+## Batch149 — CLOSED 5/5
 
-Fresh owner P authorizes149only under [R-33 Integrity Visual Live Check Rule](RULES/R-33_INTEGRITY_VISUAL_LIVE_CHECK.md). Queue180/330/565/Maw001/585from280pending/127reading-cue candidates; all five remain pending, no completion credit. [Opening evidence](SE_APPEARANCE_REVIEWS/B149_OPEN.json). Written-design work, not rendered or live-preview verification. No150authorization.
+Fresh owner P authorizes149only under [R-33 Integrity Visual Live Check Rule](RULES/R-33_INTEGRITY_VISUAL_LIVE_CHECK.md). Opening queue180/330/565/Maw001/585 came from280pending/127reading-cue candidates; that opening snapshot is historical. All five reviews are now complete and held, with no completed-fix credit. [Opening evidence](SE_APPEARANCE_REVIEWS/B149_OPEN.json). Written-design work, not rendered or live-preview verification. No150authorization.
+
+
+Five complete before/source/final written-design reviews. Five primaries changed; **all five logical outcomes HELD**. Each limited repair passed five checks and its individual gate/verified push. No change **0/5**, so the three-No-change ladder does not open seven. Fresh closing checks **25/25 PASS**, ledger tests **10/10 PASS**, labels **301/301**, couples **0/301**, comparison **287 complete sets / 861 item pairs**; candidates are not resolutions.
+
+- **Owed `C-IIIγ-180`** — [held](SE_APPEARANCE_REVIEWS/B149_01_OWED.md), `060f8b8` PUSH VERIFIED. 7,440→7,674 words.
+- **Frozen Window `C-IIβ-330`** — [held](SE_APPEARANCE_REVIEWS/B149_02_FROZEN_WINDOW.md), `51fe931` PUSH VERIFIED. 7,945→8,207 words.
+- **Broken Well `C-IIβ-565`** — [held](SE_APPEARANCE_REVIEWS/B149_03_BROKEN_WELL.md), `f7b16cb` PUSH VERIFIED. 7,670→7,933 words.
+- **The Maw `C-IVω-001`** — [held](SE_APPEARANCE_REVIEWS/B149_04_THE_MAW.md), `ea24bf8` PUSH VERIFIED. 7,570→7,820 words.
+- **Floating Tree `N-IIIγ-585`** — [held](SE_APPEARANCE_REVIEWS/B149_05_FLOATING_TREE.md), `b129240` PUSH VERIFIED. 7,570→7,949 words.
+
+[Closing evidence](SE_APPEARANCE_REVIEWS/B149_CLOSE.json). Primary words 38,195→39,583 (+1,388), C-locale counts. Current counters: SE12/301=3.99%,289remaining (8changed/4retained/12held/2blocked/275pending); ALLTypes245/301=81.40%,56remaining; Weapon245/287=85.37%,42remaining. No equipment coverage increment or body-credit backfill. RuleR33 linked in governance. No rendered/browser/deployment/artwork inspection. Batch150 requires fresh P; no merge. Batch301 still needs eight owner bodies/4+4/generate-validate-before-copy.
