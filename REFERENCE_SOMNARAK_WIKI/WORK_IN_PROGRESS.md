@@ -1,5 +1,21 @@
 # Work In Progress
 
+## Batch149 unit3 — Broken Well `C-IIβ-565`
+
+[[SE-C-IIβ-565_Broken_Well_부서진_우물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-565_Broken_Well_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%9A%B0%EB%AC%BC.md "SE-C-IIβ-565_Broken_Well_부서진_우물.md")]
+
+**Change:** Corrected stationaryMovement to motherfigure joined to rim, finished truncated EntityType sentence from exact event account, and changed present flavor from drippingwater to dust above measuredfloor. Added supported historical wetshaft/currentdryfloor bridge and distinguished imagineddepth, effectspread and equipmentimages from actualcavity/recoveredchild; recorded remaining physical conflicts.
+
+**Before:** SubjectPhantasmal/Grudge half-flesh half-mist mother fixed at dryrim, not a Location despite SECCMovement structure/location. Inplace transformation alters judged depth not surveyedfloor. Origin supplies olderwaterwell→firmedwalkablefloor, so Tale oldwater need not be currentwater. Presentwaterdrip flavor nevertheless disagrees with dust/no-water. Main conflicts: geyser/water attacks and bottom reflection versus dryfloor/rimfigure; repeated outside sightings versus inseparable rim; Sideupwarddust/perturntransformation versus primarydownwardtears/perpersondraw.
+
+**After full final reread:** Read complete460line final after all five checks: classification through parameters/allcombat, fullAppearance/newnote/Origin/Work/event, everyequipmentitem/Use/Field/sourceReview, observations/story/final/flavor/allpairings, completeTale/Testimony/Record and entireWatchRecord(search/legalstanding/handover) throughTrivia/footer. StationarySubject now matches fixedrim gestures; olderwatercurrentdry is explicit sourcehistory, not improvised. Geyser/bottom/speed/outside-sighting conflicts survive, so wholelogicHELD.
+
+**Holds:** Dryrim/dust/no water versus watergeyser/taintedultimate/darkwaterbottom; primaryfallingdust versus Sideupwarddust; stationaryinseparablerim versus1.45m/s and confirmedoutsideholdingsightings, no identity/routebridge. Nonbreachevent versus SideTransformbreach,45%+10perperson versus40%+10perturn/Resilience+5;60%/65%/3condition thresholds retained. Inertuntillean versus approach/lingeringattacks; fourreports/twotetherloads versus noeventsafterrail; railsoleintervention versus cover/handover/tether history and force-neverattempted versus Pugnahanresponse not normalized. Nine-search findings versus skippedyear6notnewsearch, counts held without invented sampling. DaughterTale versus Him/helegalrecord; everyeligiblecategoryempty versus survivingparent no chronologicalrepair. Equipment αallthree versusFanglowest-grade claim; BrokenWell/Upwell titles noalias; primarydark versus linkedcrimson, plainplateversusTrueEdgeBrace fieldhistory; primary nootheruse versus source verifiedroute rescue, Bodyfloor-giveway versus Fangcutmaterial/reflection; MasterPRIMALBio/Marrow notHaniron, sourceSingle1.0missinglocal notdefect. Accessory5%CSV versusTail5%; SideTearsDust conditional versus currentalwaysdust; blanket set aches/reflexes versus Lantern failedrescuecost unchanged.
+
+**Commentary:** The visible floor that cannot end the search is more affecting than a hidden monster below it. The annual search works only when someone actually does it, which makes care substantive rather than symbolic. The compulsory handover sentence is where that care becomes troubling for the people required to perform it.
+
+Full original/final and exactsources/history reading, five actual checks and fingerprints in `B149_03_BROKEN_WELL.md`. Outcomeheld; SE+0/equipment+0. Batch99unit3b482d7b8 already credited equipment/Weapon;8ace3e53 dateheadingfollowup no newcredit. C-locale words7,670→7,933. Written design, no rendered/live verification. OPEN3/5; No change0/3; pending≠No change. No150or merge.
+
 ## Batch149 unit2 — Frozen Window `C-IIβ-330`
 
 [[SE-C-IIβ-330_Frozen_Window_얼어붙은_창](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-330_Frozen_Window_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%B0%BD.md "SE-C-IIβ-330_Frozen_Window_얼어붙은_창.md")]
