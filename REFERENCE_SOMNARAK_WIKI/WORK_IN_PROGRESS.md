@@ -1,5 +1,25 @@
 # Work In Progress
 
+## Batch146 unit5 — Seething Tundra `C-Iα-884`
+
+**What changed:** One careful object-profile repair: tray-held palm shard rather than structure/location; record retained AngryMaiden hairline separately from tear count and surrounding moving ground.6,349→6,379(+30). Equipment No change; independentSEheld,notcompleted.
+
+**Source review and holds:** Whole431lineprimary original/final after5checks; exact884A–Dwhole; Master367–369/Tale123, Entity489, registry943–946, archetype343/art541/disposition382/history. SEheld: ATransform asserted without form versus primary activation no bodilychange; blue formation/clearwhite observation not assigned invented transition. Awl/Lens, Suit silhouette/cost, generic25%binding/terminalnewsite,31→38versus2,091→2,118, neverstruck/IceSpear/crack and Iα/IIβ registers remain held. DispositionIndexNeutral contradicts primary measuredsectorbenefit: dedicatedR19followup,not silentlycertified.
+
+**Commentary:** The tear is small enough to keep and hard to speak about. A witnessed hairline is not evidence of a giant ice form. The awl already has a real build; reverting to a lens merely to match old artwork would conceal the disagreement.
+
+**Validation / credit:** Full final reread; actual5checks PASS; original digits unchanged; equipment section byte-identical. Exact884B/registryID/fullID/title WIP/CHANGELOG context search found only pending144queue, no completed independent review. Git10cd20a/8f7138f; prior art/prose not source-review credit. SE credit+0, all-types+1, uniqueWeapon+1. [Evidence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_05_SEETHING_TUNDRA.md). Individual gate/push follows, separate from reading/edit/check steps.
+
+Reviewed dossier:
+
+| Dossier | Result | Checks | Credit |
+|---|---|---|---|
+| [Seething_Tundra](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-884_Seething_Tundra_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%A1%B0%EA%B0%81.md "SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md") `C-Iα-884` | Source-supported repair | 5/5 PASS | all+1/W+1/SE+0 |
+
+[[SE-C-Iα-884_Seething_Tundra_얼어붙은_조각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-884_Seething_Tundra_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%A1%B0%EA%B0%81.md "SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md")]
+
+**Live counters:** ALL M.A.W. Types Appearance per SE — source-review coverage245/301=81.40%,56/301remain. ALL M.A.W.-W Appearance per SE — source-review coverage245/287=85.37%,42/287remain. SE Appearance Fix — independent written-design pass8/301=2.66%,293/301remain. Equipment coverage includes holds, not resolved artwork; SE credit never follows automatically. Batch146OPEN5/5, Nochange0/5, five minimum and three-Nochange5→7→10. Pending is not Nochange. Fix phase is source-supported written consistency/shape work, not an artwork census; a couple is a dossier-prose overlap pair, not an equipment pair. Corpus290Sorrow+11Unknown, non-SEBook excluded, blocked025/062not silently worked. No147. PR14OPENdraft→NON-WIKI, ownermergeonly. Batch301blocked8bodies/4+4generatevalidatebeforecopy.
+
 ## Batch146 unit4 — Hollowcast `N-IIβ-426`
 
 **What changed:** One short Torn Fang Appearance addition: exactB empty central groove, torn-out material deliberately unfilled and channel kept clear. Wholeprimary otherwise byte-identical;7,646→7,670(+24). SEbody unchanged; no duplicate SEcredit.

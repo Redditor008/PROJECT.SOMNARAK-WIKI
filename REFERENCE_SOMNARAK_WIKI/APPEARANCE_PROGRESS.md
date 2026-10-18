@@ -8,8 +8,8 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 
 | Workstream | Completed | Coverage | Remaining |
 |---|---:|---:|---:|
-| ALL M.A.W. Types Appearance per SE — source-review coverage | 244 / 301 | 81.06% | 57 / 301 |
-| ALL M.A.W.-W Appearance per SE — source-review coverage | 244 / 287 | 85.02% | 43 / 287 |
+| ALL M.A.W. Types Appearance per SE — source-review coverage | 245 / 301 | 81.40% | 56 / 301 |
+| ALL M.A.W.-W Appearance per SE — source-review coverage | 245 / 287 | 85.37% | 42 / 287 |
 | SE Appearance Fix — independent written-design pass | 8 / 301 | 2.66% | 293 / 301 |
 
 These are coverage counters, **not promises that every held discrepancy is repaired**. The first two retain their historical criteria and explicit source holds. The new counter starts at zero; old equipment reviews, general prose fixes, shape screening and the R-32 clarification are not backfilled as SE appearance completions.
@@ -102,3 +102,7 @@ One careful Maul opposed-face/downstream construction addition; separate short f
 ### Batch146 unit4 — `N-IIβ-426`
 
 One short Torn Fang Appearance addition: exactB empty central groove, torn-out material deliberately unfilled and channel kept clear. Wholeprimary otherwise byte-identical;7,646→7,670(+24). SEbody unchanged; no duplicate SEcredit. [Individual evidence](SE_APPEARANCE_REVIEWS/B146_04_HOLLOWCAST.md). Current batch OPEN4/5; Nochange0/4. Current totals all-types244/301, Weapon244/287, SE8/301; previous snapshots above are historical.
+
+### Batch146 unit5 — `C-Iα-884`
+
+One careful object-profile repair: tray-held palm shard rather than structure/location; record retained AngryMaiden hairline separately from tear count and surrounding moving ground.6,349→6,379(+30). Equipment No change; independentSEheld,notcompleted. [Individual evidence](SE_APPEARANCE_REVIEWS/B146_05_SEETHING_TUNDRA.md). Current batch OPEN5/5; Nochange0/5. Current totals all-types245/301, Weapon245/287, SE8/301; previous snapshots above are historical.

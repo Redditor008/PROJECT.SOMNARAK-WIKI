@@ -76,6 +76,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Iα-884": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_05_SEETHING_TUNDRA.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -998,8 +1010,24 @@
     {
       "designation": "C-Iα-884",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "SEheld: ATransform asserted without form versus primary activation no bodilychange; blue formation/clearwhite observation not assigned invented transition. Awl/Lens, Suit silhouette/cost, generic25%binding/terminalnewsite,31→38versus2,091→2,118, neverstruck/IceSpear/crack and Iα/IIβ registers remain held. DispositionIndexNeutral contradicts primary measuredsectorbenefit: dedicatedR19followup,not silentlycertified.",
+      "outcome": "unresolved shape relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_05_SEETHING_TUNDRA.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/884_Seething_Tundra/SE-884-A__SIDE_CODEX_Seething_Tundra.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/884_Seething_Tundra/SE-884-B__MAW-W_The_Frozen_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/884_Seething_Tundra/SE-884-C__MAW-S_The_Frozen_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/884_Seething_Tundra/SE-884-D__MAW-G_The_Frozen_Fragment.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Iα-900",
@@ -2068,6 +2096,14 @@
       "batch": 146,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_04_HOLLOWCAST.md",
       "history_proof": "Exactpair/fullID/title history searched WIP/CHANGELOG;145explicitly awarded no equipment credit and reserved this review. Git646a427/10cd20a/8f7138f; earlierart/prose not source-review credit.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "C-Iα-884",
+      "batch": 146,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_05_SEETHING_TUNDRA.md",
+      "history_proof": "Exact884B/registryID/fullID/title WIP/CHANGELOG context search found only pending144queue, no completed independent review. Git10cd20a/8f7138f; prior art/prose not source-review credit.",
       "all_types_credit": true,
       "weapon_credit": true
     }
