@@ -1,0 +1,397 @@
+{
+  "batch": 152,
+  "status": "CLOSED",
+  "reviewed": 5,
+  "required": 5,
+  "no_change": 2,
+  "changed_primaries": 3,
+  "new_se_completions": 0,
+  "new_se_held": 5,
+  "new_equipment_reviews": 0,
+  "authorization": "Owner p authorized Batch152 only; no153 or merge.",
+  "selection": "Fresh265pending/111cue candidates; fixed251/976/949/308/689 in that order, each3signals with full-designation tie order. Cues are reading priorities, not defect findings. No substitutions.",
+  "ladder": "Two cumulative whole-dossier No change results at five, below three; close5/5, no extension.",
+  "validation": [
+    {
+      "designation": "C-IVδ-251",
+      "name": "The Unspoken Line",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-C-IVδ-251_The_Unspoken_Line_그어진_선.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B152_01_THE_UNSPOKEN_LINE.md",
+      "commit": "dc1d287bfc2a26173f8379ce9bb4d61585b8f5e3",
+      "push": "PUSH VERIFIED",
+      "status": "held",
+      "no_change": false,
+      "before_words": 6691,
+      "after_words": 6760,
+      "sha256": "c837fb3da330361121ab0fd9697017dbaac7b545f64d5f497d430d91ef9dbfb4",
+      "short_link": "[The_Unspoken_Line](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-C-IV%CE%B4-251_The_Unspoken_Line_%EA%B7%B8%EC%96%B4%EC%A7%84_%EC%84%A0.md \"SE-C-IVδ-251_The_Unspoken_Line_그어진_선.md\")",
+      "full_link": "[[SE-C-IVδ-251_The_Unspoken_Line_그어진_선](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-C-IV%CE%B4-251_The_Unspoken_Line_%EA%B7%B8%EC%96%B4%EC%A7%84_%EC%84%A0.md \"SE-C-IVδ-251_The_Unspoken_Line_그어진_선.md\")]",
+      "change": "Replaced the generic Fragment/Sovereign identification comparison with fountain, signs, bird avoidance and surveyed seam. Replaced stance/transformation boilerplate with the documented length/bearing, dusk light, bird routes, human crossings and posted conversation record, distinguishing a fixed junction from boundary change and rejecting assumed simultaneous Gauge/visible change.",
+      "holds": "Onlywidentypevsmeasuredcontraction; tablewidensblockbyblockonlybothpresentuntilbothwithdraw vsneverevacuate/seamgreweveryevacuation andfailureconditionremovenonessential. Escalationnotoriginalwidenbutnewseams vsmetreextension; noinventedspatialequivalence. Residentsnevercross/noonecrosses vs11→63TuesdayandStepOveranyresidentcrossing; visitorsfreelyfeelzero vsworkerpicksside/longpostingseverselsewhere, notinventvisitor→residenttrigger. Noextensionafterrecentconversation vsHandpresenceimmediate60cm/morningpropagation/seamforcetriggers, retainconditions. Ordinarynothingvisiblyanomalous vsduskwhiteseam/twoweathers; phasescouldcoexistbutvisitorseesnoneuntilbirdspointeddespitevisiblecolour notautomaticnewstate. Completelyblanksigns vsFinalfadeoneletterfurther. 11.4mclosedfiveyears vs~3sincefirstlogging4238 andHandban4236 beforecatalogue4238, nochronologyinvented. Week/noentry/ninedaywarning andfourd aytapeleadnotsetnumericnewtiming.2and65%remain. NoPugvalidbutCommonspriorforcedseamnotpermission. GenericDetailedmanifestationObjectPlaceinsteadofPlaceVoidheldnotautosilentrelabel. βallpiecesvsStatδ/nooverviewgrade; nothinghits vsWeaponVoid5–9/Skewer/three; sourceEdgecutsonlysilencewhileprimaryboundaryplacedindefinitelynotreconciled. Twoextractions+thirdHand5Stigma alreadydistinguished; noofferrecordvsconferrednotassumedextraction. Permanentsocialeasecostbothvsspecificwearerguilt/restanddistance cost, noexpansionofcost. Side40Void/30other vsprimaryotheruntested, noelect. CSVAccessoryvsHand, explicitcostEchoheadingemotionalcost initemDnotnumericalEchocharge. Allremainheld.",
+      "commentary": "The ordinary complaint about lamp oil is stronger than a grand reconciliation scene: it lets contact matter without pretending unequal relief has been repaired. I also like that the residents keep the useful record and the R.D. supplies the tape measure.",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": {
+          "exit": 0,
+          "output": "RESIDUAL 0\nseam ['..']\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "exit": 0,
+          "output": "RESIDUE 0  SE-C-IVδ-251_The_Unspoken_Line_그어진_선.md\n"
+        },
+        "sectfile": {
+          "exit": 0,
+          "output": " 0.004  clean   728 grams  Combat Record\n 0.003  clean   579 grams  감각 묘사 (Flavor Text)\n 0.000  clean   451 grams  이야기 (Narratio)\n 0.000  clean   431 grams  M.A.W. Equipment\n 0.000  clean   294 grams  이야기 보고 (Story Log)\n 0.000  clean   287 grams  기록 (Registrum)\n 0.000  clean   286 grams  Appearance\n 0.000  clean   276 grams  관찰 기록 (Observation Log)\n 0.000  clean   264 grams  Expansion Behavior\n 0.000  clean   254 grams  Operational Parameters\n 0.000  clean   203 grams  Trivia\n 0.000  clean   174 grams  Behavior\n 0.000  clean   155 grams  증언 (Testimonium)\n 0.000  clean    94 grams  Origin\n 0.000  clean    80 grams  최종 관찰 (Final Observation)\n 0.000  clean    49 grams  SECC Classification\n 0.000  clean    30 grams  (preamble)\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "exit": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "exit": 0,
+          "output": "   84   3  | { *Every Line at Once* [**Ultimate**] } | \"The Commons wakes up and every doorway has a side, every stairwell has a side, and th\n  312   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.001  (5 shared shingles)  SE-C-IVδ-251_The_Unspoken_Line_그어진_선.md\n"
+        }
+      },
+      "equipment_coverage_credit": 0
+    },
+    {
+      "designation": "C-IVδ-976",
+      "name": "Willing Chains",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-976_Willing_Chains_스며든_사슬.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B152_02_WILLING_CHAINS.md",
+      "commit": "f03dde6514e8b3f3d8b3bf7943791d109c93e3f1",
+      "push": "PUSH VERIFIED",
+      "status": "held",
+      "no_change": true,
+      "before_words": 7664,
+      "after_words": 7664,
+      "sha256": "2c1820f98a2ca3a1cb92efc4772d25f29a05dfee66d5963e7c054e0f17f787e8",
+      "short_link": "[Willing_Chains](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-976_Willing_Chains_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%82%AC%EC%8A%AC.md \"SE-C-IVδ-976_Willing_Chains_스며든_사슬.md\")",
+      "full_link": "[[SE-C-IVδ-976_Willing_Chains_스며든_사슬](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-976_Willing_Chains_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%82%AC%EC%8A%AC.md \"SE-C-IVδ-976_Willing_Chains_스며든_사슬.md\")]",
+      "change": "No change",
+      "holds": "Motionlessbodyforever vs2.45m/sstat/lookupnotassignedtomovingchains; do notinventchainrate. Bindsspacesnotpeople/notouchbody vsWhipLinkwoundsproutsiron/Flavorchainintochest/volumeholdspeople. Bodyandfireallobservationsidentical vsWorkfiredims/low; conditionalrestingstatepossiblebutnotdeclared. Chainsopenvsheldclosedcontinuous vsonewhipsfreeandseedstwo/linksneverlifted/surfacegrowroommaterialbeyonddistrict versuscorruptownzoneandneverleft; noinventassembly. Nobodyschosen vsseekstargetlinks. Bothfullannualsurvey/sample1180 vsnothingtouchedandmanualbyhand; noonhands-offpermissioninvented. Figurenevermovedchainsnomoveaside vscut/extractdrawlinks, oldcutauthorizationwithdrawnexplicitchronologyadequateforpastcutnotnewpermission. Extent240→900 permanent vscurrentboundarydatesoneearlycut butsubsequentconfrontation/comfortablewatchadditions; NightRoundsabandonedcorridorstillwalkedbothways, nohiddenrouteinvented. Comfortwithdrawwithoutnotefile vsrecordcomfortanswers/exposurelog notsilentlyreconcileprivacy. Ferrehanonlycostanyone vsFlerehanpressure/personnelwithdraw, donotcollapsecost.1/90%/65%/40%+10retained. SideCanbreachvsprimarycorruptnonbreach; TaleZoneC/CL3moderatevsBambientCL2critical notrenamebodythroughalias. δoverviewbothvsβallkit; Lantern5%vsprose4%; HeadvsCSVAccessoryandMasterorb; opticaldiscvsDawnarchetype; SuitveilvsMasterchainmail; itemAppearancefunctionalprosenotphysicalbridge. Uniformcostobligationsrestvs3distinctcosts; Firstpersoncorrosionnotproofnewhistoricalbody, noTickeffectinvented. Allheld.",
+      "commentary": "The open links make this more disturbing than a conventional locked prison. The long response route also gives the withdrawn cutting authority a concrete cost: institutional honesty does not spare the runner.",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": {
+          "exit": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "exit": 0,
+          "output": "RESIDUE 0  SE-C-IVδ-976_Willing_Chains_스며든_사슬.md\n"
+        },
+        "sectfile": {
+          "exit": 0,
+          "output": " 0.029  clean   102 grams  Containment Event Behavior\n 0.015  clean   884 grams  M.A.W. Equipment\n 0.013  clean   476 grams  Combat Record\n 0.008  clean   257 grams  관찰 기록 (Observation Log)\n 0.005  clean   203 grams  기록 (Registrum)\n 0.001  clean  1264 grams  Apex Record\n 0.000  clean   589 grams  감각 묘사 (Flavor Text)\n 0.000  clean   328 grams  이야기 (Narratio)\n 0.000  clean   281 grams  이야기 보고 (Story Log)\n 0.000  clean   265 grams  Trivia\n 0.000  clean   191 grams  Appearance\n 0.000  clean   136 grams  최종 관찰 (Final Observation)\n 0.000  clean   130 grams  Operational Parameters\n 0.000  clean   123 grams  Behavior\n 0.000  clean   115 grams  Origin\n 0.000  clean    48 grams  증언 (Testimonium)\n 0.000  clean    42 grams  SECC Classification\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "exit": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "exit": 0,
+          "output": "   85   6  | { *The Iron Sea* [**Ultimate**] } | \"The chain fills the room — the building — the district — link after link after link.\" | [Th\n  160   3  | **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |\n  189   2  **Ability:** Deals Void damage against the Soul — identity, memory and sense of self — and channels the holding's own signature: t\n  199   4  **Appearance:** a flowing veil of Void Han-gossamer, near-translucent and all but colourless, that holds the smell of old iron and\n  223   1  **Effect:** +1 while this holding is the subject of the cycle and nothing anywhere else: the lantern reads the grip's own register\n  242   5  | **During use** | The charge shows as gaps rather than as pain: the bearer corrects themselves mid-sentence about a room, or a du\n  244   1  | **After use** | Take the piece back and set the sheet against the person: has the absence outlasted the rotation, and has the be\n  263   2  | **Initial exposure** | The observer identifies Willing Chains as a Subject with Subject-Grudge manifestation. The first reliable\n  378   1  **Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the extent against \n  437   1  The field office's objection is on the file and unanswered. Telling the truth about the number has bought nothing — three markdown\nGENERIC 0.005  (26 shared shingles)  SE-C-IVδ-976_Willing_Chains_스며든_사슬.md\n"
+        }
+      },
+      "equipment_coverage_credit": 0
+    },
+    {
+      "designation": "C-Vδ-949",
+      "name": "The Stormscale Sovereign",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-949_Stormscale_Sovereign.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B152_03_THE_STORMSCALE_SOVEREIGN.md",
+      "commit": "5fca7f78b092703fac9eb29c7db1c84fd3e038a6",
+      "push": "PUSH VERIFIED",
+      "status": "held",
+      "no_change": false,
+      "before_words": 7120,
+      "after_words": 7177,
+      "sha256": "17fdbab32c0bbed4dbb5852a341acaf3891c0ab5274995a27dcc4e58cb9f2af0",
+      "short_link": "[Stormscale_Sovereign](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B4-949_Stormscale_Sovereign.md \"SE-C-Vδ-949_Stormscale_Sovereign.md\")",
+      "full_link": "[[SE-C-Vδ-949_Stormscale_Sovereign](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B4-949_Stormscale_Sovereign.md \"SE-C-Vδ-949_Stormscale_Sovereign.md\")]",
+      "change": "Repaired four malformed identification fields into the existing bullet list. Replaced generic live scale/stability survey with historical marker attribution, current Fish/Stone separation observation, no reunification test, and evacuation rather than extending contact to survey a manifest dragon. No source body, numeric or equipment claim elected.",
+      "holds": "Chroniclecurrentlykeepsfloodmarks/scalesreadbycrews/honestWorksteadiness/hiddenfoundout andRecededMarktruthcost vsallarchivalonlyonehistoricalflashandMismatchedEye2/cabochonbonus/sightcostdreams; no invented ongoingform/newStigma/equivalence. Operationalnevermanifestedabsolute vssinglehistoricaltransformation; retainforfollowupnotrewriteunrelatedtext. WishcreatesdragoninOrigin/Tale vsCombat/Finaldragonwishesafteralreadydragonendsform; no chronologyreordered. Forbiddensimpleconsumptionreunionvsneedselflesswishinitial; no independent triggerguarantee. Formmustfall100andTriviaonlymoment vsmodelledholdforevercatastrophe; no endingassertion. NonbreachinitiationvsSidecanbreach; simultaneousallelementvssequential2sec. OnlycanonnicalFishStone vsWeepingtheoreticalrowexplicitnotlivedpair. EntityCodex164BlackTearC-IVγ-948/WhiteSparkN-IVγ-947versusSootFryC-IIβ-947/FoamFloodC-IIIγ-948; no aliasassertion. Noextractiondefined/authorisedagainstSovereign vsresidueharvestexplicitalreadydifferentnoterror. Neverworked/fullkitfieldmeasurement vsA/B/C/Dsource-traceencounter/directWork/bestowedEyeobserved2%; archivalvsmodelled source statusnotdeclared, no livehistoryinvented. FangRange3primaryvs4Side/item; primaryphysicalfangvsarchetypecalcifiedarmbladeMediumnotnewmode. ItemfunctionalAppearancenotindependentmaterialproof. Threepiecesonlytotalvsmax2WeaponSuit andEye2%bestowedvsallharvested, no quantityelection.0.8WardedcorevsSuitAppearanceDulledretained. CSVgenericAccessory5vsHead2. Dayscostvsweeknotnewtimingchoice. Allwholelogicalheld.",
+      "commentary": "The sealed memory and surviving hunger give the ending its force: the fish loses the knowledge of its generosity, but not the appetite that preceded it. Keeping that historical moment distinct from a repeatable containment procedure matters here.",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": {
+          "exit": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "exit": 0,
+          "output": "RESIDUE 0  SE-C-Vδ-949_Stormscale_Sovereign.md\n"
+        },
+        "sectfile": {
+          "exit": 0,
+          "output": " 0.021  clean    96 grams  Operational Parameters\n 0.009  clean   222 grams  상호작용 (Entity Interactions)\n 0.006  clean   515 grams  M.A.W. Equipment\n 0.000  clean   698 grams  이야기 (Narratio)\n 0.000  clean   612 grams  Combat Record\n 0.000  clean   402 grams  이야기 보고 (Story Log)\n 0.000  clean   358 grams  Appearance\n 0.000  clean   317 grams  관찰 기록 (Observation Log)\n 0.000  clean   272 grams  기록 (Registrum)\n 0.000  clean   270 grams  Sovereign Chronicle\n 0.000  clean   245 grams  Origin\n 0.000  clean   214 grams  감각 묘사 (Flavor Text)\n 0.000  clean   166 grams  최종 관찰 (Final Observation)\n 0.000  clean   153 grams  Behavior\n 0.000  clean   148 grams  Trivia\n 0.000  clean   118 grams  증언 (Testimonium)\n 0.000  clean   113 grams  Containment Event Behavior\n 0.000  clean    81 grams  SECC Classification\n 0.000  clean    22 grams  (preamble)\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "exit": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "exit": 0,
+          "output": "   31   2  | **Han-Energy yield** | 22–30 Han-Energy per successful work cycle |\n  214   1  **Effect:** +3 stat bonus when working the source entity\n  224   2  The three pieces are the only physical thing the Archive holds of a creature it has never worked. They were harvested from the res\n  310   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.001  (7 shared shingles)  SE-C-Vδ-949_Stormscale_Sovereign.md\n"
+        }
+      },
+      "equipment_coverage_credit": 0
+    },
+    {
+      "designation": "N-IIIγ-308",
+      "name": "Soaking Shadow",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-308_Soaking_Shadow_솟구친_그림자.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B152_04_SOAKING_SHADOW.md",
+      "commit": "473949937b9c4b1ff560142ca39db7f1f54da567",
+      "push": "PUSH VERIFIED",
+      "status": "held",
+      "no_change": false,
+      "before_words": 8327,
+      "after_words": 8427,
+      "sha256": "575eb3e3141fa97bfb269523502f14befe55dd6c49369851e1776bbd7159caf1",
+      "short_link": "[Soaking_Shadow](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-308_Soaking_Shadow_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EA%B7%B8%EB%A6%BC%EC%9E%90.md \"SE-N-IIIγ-308_Soaking_Shadow_솟구친_그림자.md\")",
+      "full_link": "[[SE-N-IIIγ-308_Soaking_Shadow_솟구친_그림자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-308_Soaking_Shadow_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EA%B7%B8%EB%A6%BC%EC%9E%90.md \"SE-N-IIIγ-308_Soaking_Shadow_솟구친_그림자.md\")]",
+      "change": "Added existing Angry Maiden upright/thickened shadow and temporary outline return, and Frozen Veil non-scorching drips, to Appearance protocol. Separately log outline, grade and scorch hazard with pairing/duration; conditional shadow is not a casting person or ordinary locomotion.",
+      "holds": "Outline never retreats versus cycle pulls it in for shift, same-size-store at0/45 and Maiden only-ever-smaller; no general shrink rule elected. Sixty years never shifted versus outline crossing chalk/motion entries; fixed anchor versus changing extent possible, no invented distinction beyond readings. Grade never fallen/annual-only versus Sorrow Tide down, repeated argument and Pugnahan two steps/hour, Reverberant only permanent escalation versus annual return 4/6/9 and three steps across three pairings. Cardfirst activation order versus outlinefirst Tension/flavor; unchanged operational sequencing not silently selected. No projectile when activates versus Dripping Strike flings; no fresh anger enters quiet session but Viderehan voices/aloud forbidden Final grieving accusation not assigned emotional distinction by invention. Return whole-store only two shout recipients versus plate removal two recorded/continuous60sdamage and acknowledgment eleven releases; release custody/responsibility differs Side from primary target of grievance. Plate bolted in vault versus harness mount/forced return bracket; shadow cannot be lifted already explicit, no fourth MAW inferred. No facility benefit Neutral index versus Relic benefit banner, direct injury does not automatically make hostile. N/Afixedspeed appropriate but entire movement meaning still held.75%/65% thresholds retained. Item Fang removes from storage versus primary files/no discharge; set thin/dry layer Side versus no reduction/same size primary. Veil item moving dark pocket crimson versus primary dark/warm cloth without pocket; absence alone not contradiction. Charm primary overnight retention/day obedience versus source irresponsibility/provenance detector, bestowed notmanufactured versus struck/issued grade positions; no automatic identity equivalence. Tail4 vs CSVAccessory5. Master PRIMAL Bio/Marrow and chainmail versus ironfang/clothveil; titles unresolved. Prior plate-cost mapping hold and TaleI/α untouched. All numeric/equipment/chronology elections deferred.",
+      "commentary": "The steady-handed Warden’s objection is especially effective because the record preserves her words without pretending that preservation changed her assignment. The blank disposition column and the modern bound objection pages make the same failure visible at different scales.",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": {
+          "exit": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "exit": 0,
+          "output": "RESIDUE 0  SE-N-IIIγ-308_Soaking_Shadow_솟구친_그림자.md\n"
+        },
+        "sectfile": {
+          "exit": 0,
+          "output": " 0.022  clean    90 grams  Operational Parameters\n 0.012  clean   729 grams  Combat Record\n 0.006  clean  1111 grams  M.A.W. Equipment\n 0.005  clean   585 grams  감각 묘사 (Flavor Text)\n 0.004  clean   226 grams  Behavior\n 0.004  clean   942 grams  Warden Record\n 0.002  clean   613 grams  Activation Behavior\n 0.000  clean   348 grams  이야기 (Narratio)\n 0.000  clean   285 grams  이야기 보고 (Story Log)\n 0.000  clean   256 grams  Appearance\n 0.000  clean   233 grams  기록 (Registrum)\n 0.000  clean   218 grams  관찰 기록 (Observation Log)\n 0.000  clean   192 grams  Trivia\n 0.000  clean   192 grams  Origin\n 0.000  clean    83 grams  최종 관찰 (Final Observation)\n 0.000  clean    37 grams  증언 (Testimonium)\n 0.000  clean    31 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "exit": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "exit": 0,
+          "output": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   85   2  | { *The Full Deluge* [**Attack**] } | \"The whole store comes up at once — sixty years of other people's anger arriving in the one\n   86   7  | { *The Sorrow-Sea of Shadows* [**Ultimate**] } | \"The vault goes wet to its corners, and every shadow on the floor starts keepin\n  150   1  **Reading the response:** A falling gauge means the vault has been held quiet for its length; it does not mean the grievances were\n  155   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  214   2  **Appearance:** a fang-curved blade of Grudge Han-iron, formed from dried Crimson runoff after a stored grievance is acknowledged \n  248   3  **Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that grows hot against the skin in the presence of a grie\n  269   1  | **During use** | The first sign that the piece is working is that the wielder has stopped answering questions. Logged with the h\n  275   1  **Full-set source review (2026-10-12):** Reviewed the `I-Relic (Indumentum) · γ` overview, every local Weapon/Suit/Stigma block, U\n  351   3  Three holdings are filed beside this one because each of them keeps something people were not allowed to say, and the archive pair\n  442   4  The binding clerks asked for one thing: that a page be allowed to suspend a *repetition* of the same work, by the same hand, pendi\nGENERIC 0.004  (27 shared shingles)  SE-N-IIIγ-308_Soaking_Shadow_솟구친_그림자.md\n"
+        }
+      },
+      "equipment_coverage_credit": 0
+    },
+    {
+      "designation": "N-IIβ-689",
+      "name": "Face Beneath Masks",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B152_05_FACE_BENEATH_MASKS.md",
+      "commit": "8258483ac975bb549bc4b27122297213d0532068",
+      "push": "PUSH VERIFIED",
+      "status": "held",
+      "no_change": true,
+      "before_words": 7851,
+      "after_words": 7851,
+      "sha256": "04fa94c62ae38044876c7019a8bd29a967a3091b15c66b9449f2bc61d0ddcacb",
+      "short_link": "[Face_Beneath_Masks](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-689_Face_Beneath_Masks_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%B2%BD.md \"SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽.md\")",
+      "full_link": "[[SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-689_Face_Beneath_Masks_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%B2%BD.md \"SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽.md\")]",
+      "change": "No change",
+      "holds": "No physicalsurface/no outline/nothingtostrike/blocksrecallnotmovement versus launchedbrick aimed/fallingblock, Marketwallsdrawnclosed/partitionscells/events corridorsclose physically versus flavorreadnarrowerthantheyare; Transform label could permitdifferentstate but no explicit transition anatomy/mechanism. Do not manufacture psychicprojectiles or realbrickbody. Speed1.45m/s no authorityassigncarrier pace. Sharedconcealmentonly versus anynearby/public masksloosening/zone sameitems, no contagionbridge. No questions twice/repeatedschedule/repeatedasking/sequence restart and declinesaccepted aswatch outcome versus cannotdeclineandkeepwantedposting, coercion recognized but not erased. Self-reportnotacceptedanystage versus onlyobservableaccount, no independentbody. Facilityonlyextentnotanswers currentTrivia versus laterScheduleConditionPosting explicitlybrokeoriginalfirewall; chronologyexplicitthere but stale currentclaim unresolved, notassumeclinicalprivacymaintained. GenderheTale/sheOrigin andnarrativeArchivecallingstockTalenotstory notsilentlynormalized; not inventdifferentartisan. Knownnameorderbook vsestateowednobodycanbenamed concernsidentification not eraseperson; mask29thnotfaceID. 3failedcycles vs60/65/40+10,16turnsvs10sequence retained. Sourcearm/discLens/consentedonewallsegment versusprimaryculverin/leadshotcone andSingle1target/Short2 versusLongarchetype/tableBulwark anddetailLens; no newweaponmode/crosswalk. Veilsmokegreyphysicalvsitempale not recolour, Shadeoutlineeffectnotentityvisibleproof. Shardheadglassvsunfinisheddsourceface wording unsupportedbody; blocksintrusionversusrevealsprivatefacts, no impliedsightpowerbridge. Uniformallpiecepersonal-facts/presence/facecost vsdistinctVeilabsence/Shardexcludeshelpful; Weaponcostfiledpiece versusUsechargedwielder. Shardcannotappliedissued butconferrals5 alreadyexplicitleave; Head5vsCSVAccessory5. RefusedFrozenVeilpairing maynotretestthroughgenericprocedure; BrokenMirrorprivacyrefusal isexplicitkeep. Allheld.",
+      "commentary": "The mask that cannot serve as a likeness is the strongest visual detail here: it leaves a tangible archive object without making it reliable evidence of a face. The compulsory schedule is equally uneasy—it treats the carrier while retaining precisely the personal material the holding threatens.",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": {
+          "exit": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "exit": 0,
+          "output": "RESIDUE 0  SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽.md\n"
+        },
+        "sectfile": {
+          "exit": 0,
+          "output": " 0.043  clean   512 grams  Combat Record\n 0.012  clean   572 grams  감각 묘사 (Flavor Text)\n 0.010  clean   192 grams  Operational Parameters\n 0.010  clean   418 grams  기록 (Registrum)\n 0.009  clean   234 grams  관찰 기록 (Observation Log)\n 0.008  clean   639 grams  M.A.W. Equipment\n 0.003  clean  1161 grams  Watch Record\n 0.003  clean   305 grams  Breach Behavior\n 0.003  clean   358 grams  이야기 보고 (Story Log)\n 0.000  clean   393 grams  이야기 (Narratio)\n 0.000  clean   274 grams  Appearance\n 0.000  clean   155 grams  Origin\n 0.000  clean   151 grams  Trivia\n 0.000  clean   147 grams  Behavior\n 0.000  clean   122 grams  최종 관찰 (Final Observation)\n 0.000  clean    62 grams  증언 (Testimonium)\n 0.000  clean    39 grams  SECC Classification\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "exit": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "exit": 0,
+          "output": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   81   3  | { *The New Brick* [**Debuff**] } | \"Something you have been keeping to yourself finds a surface, and the surface is inside.\" | [\n   82   2  | { *The Shrinking Room* [**Debuff**] } | \"The room is smaller than it was, and you would rather not say why you noticed.\" | [The \n   84   5  | { *The Total Enclosure* [**Attack**] } | \"The room finishes closing, and everyone still talking in it is keeping something back.\n   85   8  | { *Walls Within Walls* [**Ultimate**] } | \"Every partition becomes a cell, and the last thing through the doorway is a fact abou\n   91   5  3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Establish safe c\n  166   1  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% a turn unaddressed, and falls when a carrier is worked honestly by somebo\n  237   1  | **Before use** | Wielder, piece, and a dated baseline taken on the 18-item schedule by somebody other than the wielder, because \n  238   1  | **During use** | Watch for the toll in the schedule rather than in the wearer's account: items that were reachable at issue and \n  239   2  | **At limit** | The wearer feels faintly absent to themselves, without remission. On a Face Beneath Masks piece the use ends ther\n  240   1  | **After use** | Piece returned and the schedule re-administered a week later by the same second worker, because the absence does\n  264   2  **Observation method:** Observe by asking, in a room with two people in it, and never from behind glass. Record the first item tha\n  279   1  Management: Establish safe contact; do not force the wall open. Work response — Flerehan: Cracks open and allows a feeling through\n  311   5  **Interaction method:** Baseline each party alone over a long series before any paired approach, and schedule the carrier immediat\n  318   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  372   4  **Review requirement:** Re-take the schedule before and after any event and at the fixed intervals in between, by somebody other t\n  415   4  The staff association's objection is minuted at each review. It holds that consent obtained as a condition of a posting is not con\nGENERIC 0.009  (49 shared shingles)  SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽.md\n"
+        }
+      },
+      "equipment_coverage_credit": 0
+    }
+  ],
+  "progress": "SE Appearance Fix: 12 / 301 = 3.99%; remaining 289 / 301\nChanged 8 / 301; retained 4 / 301; held 27 / 301; blocked 2 / 301; pending 260 / 301\nALL M.A.W. Types Appearance per SE — source-review coverage: 246 / 301 = 81.73%; remaining 55 / 301\nALL M.A.W.-W Appearance per SE — source-review coverage: 246 / 287 = 85.71%; remaining 41 / 287\nBatch 152: CLOSED 5 / 5; No change 2 / 5\nPASS: independent appearance ledger; no legacy credits inferred\n",
+  "fresh_closing_checks": {
+    "C-IVδ-251": {
+      "verify": {
+        "exit": 0,
+        "output": "RESIDUAL 0\nseam ['..']\npipe True\ndupes []\n"
+      },
+      "tpl": {
+        "exit": 0,
+        "output": "RESIDUE 0  SE-C-IVδ-251_The_Unspoken_Line_그어진_선.md\n"
+      },
+      "sectfile": {
+        "exit": 0,
+        "output": " 0.004  clean   728 grams  Combat Record\n 0.003  clean   579 grams  감각 묘사 (Flavor Text)\n 0.000  clean   451 grams  이야기 (Narratio)\n 0.000  clean   431 grams  M.A.W. Equipment\n 0.000  clean   294 grams  이야기 보고 (Story Log)\n 0.000  clean   287 grams  기록 (Registrum)\n 0.000  clean   286 grams  Appearance\n 0.000  clean   276 grams  관찰 기록 (Observation Log)\n 0.000  clean   264 grams  Expansion Behavior\n 0.000  clean   254 grams  Operational Parameters\n 0.000  clean   203 grams  Trivia\n 0.000  clean   174 grams  Behavior\n 0.000  clean   155 grams  증언 (Testimonium)\n 0.000  clean    94 grams  Origin\n 0.000  clean    80 grams  최종 관찰 (Final Observation)\n 0.000  clean    49 grams  SECC Classification\n 0.000  clean    30 grams  (preamble)\n0 section(s) over 0.05\n"
+      },
+      "wikistd": {
+        "exit": 0,
+        "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+      },
+      "sect": {
+        "exit": 0,
+        "output": "   84   3  | { *Every Line at Once* [**Ultimate**] } | \"The Commons wakes up and every doorway has a side, every stairwell has a side, and th\n  312   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.001  (5 shared shingles)  SE-C-IVδ-251_The_Unspoken_Line_그어진_선.md\n"
+      }
+    },
+    "C-IVδ-976": {
+      "verify": {
+        "exit": 0,
+        "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+      },
+      "tpl": {
+        "exit": 0,
+        "output": "RESIDUE 0  SE-C-IVδ-976_Willing_Chains_스며든_사슬.md\n"
+      },
+      "sectfile": {
+        "exit": 0,
+        "output": " 0.029  clean   102 grams  Containment Event Behavior\n 0.015  clean   884 grams  M.A.W. Equipment\n 0.013  clean   476 grams  Combat Record\n 0.008  clean   257 grams  관찰 기록 (Observation Log)\n 0.005  clean   203 grams  기록 (Registrum)\n 0.001  clean  1264 grams  Apex Record\n 0.000  clean   589 grams  감각 묘사 (Flavor Text)\n 0.000  clean   328 grams  이야기 (Narratio)\n 0.000  clean   281 grams  이야기 보고 (Story Log)\n 0.000  clean   265 grams  Trivia\n 0.000  clean   191 grams  Appearance\n 0.000  clean   136 grams  최종 관찰 (Final Observation)\n 0.000  clean   130 grams  Operational Parameters\n 0.000  clean   123 grams  Behavior\n 0.000  clean   115 grams  Origin\n 0.000  clean    48 grams  증언 (Testimonium)\n 0.000  clean    42 grams  SECC Classification\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n"
+      },
+      "wikistd": {
+        "exit": 0,
+        "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+      },
+      "sect": {
+        "exit": 0,
+        "output": "   85   6  | { *The Iron Sea* [**Ultimate**] } | \"The chain fills the room — the building — the district — link after link after link.\" | [Th\n  160   3  | **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |\n  189   2  **Ability:** Deals Void damage against the Soul — identity, memory and sense of self — and channels the holding's own signature: t\n  199   4  **Appearance:** a flowing veil of Void Han-gossamer, near-translucent and all but colourless, that holds the smell of old iron and\n  223   1  **Effect:** +1 while this holding is the subject of the cycle and nothing anywhere else: the lantern reads the grip's own register\n  242   5  | **During use** | The charge shows as gaps rather than as pain: the bearer corrects themselves mid-sentence about a room, or a du\n  244   1  | **After use** | Take the piece back and set the sheet against the person: has the absence outlasted the rotation, and has the be\n  263   2  | **Initial exposure** | The observer identifies Willing Chains as a Subject with Subject-Grudge manifestation. The first reliable\n  378   1  **Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the extent against \n  437   1  The field office's objection is on the file and unanswered. Telling the truth about the number has bought nothing — three markdown\nGENERIC 0.005  (26 shared shingles)  SE-C-IVδ-976_Willing_Chains_스며든_사슬.md\n"
+      }
+    },
+    "C-Vδ-949": {
+      "verify": {
+        "exit": 0,
+        "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+      },
+      "tpl": {
+        "exit": 0,
+        "output": "RESIDUE 0  SE-C-Vδ-949_Stormscale_Sovereign.md\n"
+      },
+      "sectfile": {
+        "exit": 0,
+        "output": " 0.021  clean    96 grams  Operational Parameters\n 0.009  clean   222 grams  상호작용 (Entity Interactions)\n 0.006  clean   515 grams  M.A.W. Equipment\n 0.000  clean   698 grams  이야기 (Narratio)\n 0.000  clean   612 grams  Combat Record\n 0.000  clean   402 grams  이야기 보고 (Story Log)\n 0.000  clean   358 grams  Appearance\n 0.000  clean   317 grams  관찰 기록 (Observation Log)\n 0.000  clean   272 grams  기록 (Registrum)\n 0.000  clean   270 grams  Sovereign Chronicle\n 0.000  clean   245 grams  Origin\n 0.000  clean   214 grams  감각 묘사 (Flavor Text)\n 0.000  clean   166 grams  최종 관찰 (Final Observation)\n 0.000  clean   153 grams  Behavior\n 0.000  clean   148 grams  Trivia\n 0.000  clean   118 grams  증언 (Testimonium)\n 0.000  clean   113 grams  Containment Event Behavior\n 0.000  clean    81 grams  SECC Classification\n 0.000  clean    22 grams  (preamble)\n0 section(s) over 0.05\n"
+      },
+      "wikistd": {
+        "exit": 0,
+        "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+      },
+      "sect": {
+        "exit": 0,
+        "output": "   31   2  | **Han-Energy yield** | 22–30 Han-Energy per successful work cycle |\n  214   1  **Effect:** +3 stat bonus when working the source entity\n  224   2  The three pieces are the only physical thing the Archive holds of a creature it has never worked. They were harvested from the res\n  310   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.001  (7 shared shingles)  SE-C-Vδ-949_Stormscale_Sovereign.md\n"
+      }
+    },
+    "N-IIIγ-308": {
+      "verify": {
+        "exit": 0,
+        "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+      },
+      "tpl": {
+        "exit": 0,
+        "output": "RESIDUE 0  SE-N-IIIγ-308_Soaking_Shadow_솟구친_그림자.md\n"
+      },
+      "sectfile": {
+        "exit": 0,
+        "output": " 0.022  clean    90 grams  Operational Parameters\n 0.012  clean   729 grams  Combat Record\n 0.006  clean  1111 grams  M.A.W. Equipment\n 0.005  clean   585 grams  감각 묘사 (Flavor Text)\n 0.004  clean   226 grams  Behavior\n 0.004  clean   942 grams  Warden Record\n 0.002  clean   613 grams  Activation Behavior\n 0.000  clean   348 grams  이야기 (Narratio)\n 0.000  clean   285 grams  이야기 보고 (Story Log)\n 0.000  clean   256 grams  Appearance\n 0.000  clean   233 grams  기록 (Registrum)\n 0.000  clean   218 grams  관찰 기록 (Observation Log)\n 0.000  clean   192 grams  Trivia\n 0.000  clean   192 grams  Origin\n 0.000  clean    83 grams  최종 관찰 (Final Observation)\n 0.000  clean    37 grams  증언 (Testimonium)\n 0.000  clean    31 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n"
+      },
+      "wikistd": {
+        "exit": 0,
+        "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+      },
+      "sect": {
+        "exit": 0,
+        "output": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   85   2  | { *The Full Deluge* [**Attack**] } | \"The whole store comes up at once — sixty years of other people's anger arriving in the one\n   86   7  | { *The Sorrow-Sea of Shadows* [**Ultimate**] } | \"The vault goes wet to its corners, and every shadow on the floor starts keepin\n  150   1  **Reading the response:** A falling gauge means the vault has been held quiet for its length; it does not mean the grievances were\n  155   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  214   2  **Appearance:** a fang-curved blade of Grudge Han-iron, formed from dried Crimson runoff after a stored grievance is acknowledged \n  248   3  **Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that grows hot against the skin in the presence of a grie\n  269   1  | **During use** | The first sign that the piece is working is that the wielder has stopped answering questions. Logged with the h\n  275   1  **Full-set source review (2026-10-12):** Reviewed the `I-Relic (Indumentum) · γ` overview, every local Weapon/Suit/Stigma block, U\n  351   3  Three holdings are filed beside this one because each of them keeps something people were not allowed to say, and the archive pair\n  442   4  The binding clerks asked for one thing: that a page be allowed to suspend a *repetition* of the same work, by the same hand, pendi\nGENERIC 0.004  (27 shared shingles)  SE-N-IIIγ-308_Soaking_Shadow_솟구친_그림자.md\n"
+      }
+    },
+    "N-IIβ-689": {
+      "verify": {
+        "exit": 0,
+        "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+      },
+      "tpl": {
+        "exit": 0,
+        "output": "RESIDUE 0  SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽.md\n"
+      },
+      "sectfile": {
+        "exit": 0,
+        "output": " 0.043  clean   512 grams  Combat Record\n 0.012  clean   572 grams  감각 묘사 (Flavor Text)\n 0.010  clean   192 grams  Operational Parameters\n 0.010  clean   418 grams  기록 (Registrum)\n 0.009  clean   234 grams  관찰 기록 (Observation Log)\n 0.008  clean   639 grams  M.A.W. Equipment\n 0.003  clean  1161 grams  Watch Record\n 0.003  clean   305 grams  Breach Behavior\n 0.003  clean   358 grams  이야기 보고 (Story Log)\n 0.000  clean   393 grams  이야기 (Narratio)\n 0.000  clean   274 grams  Appearance\n 0.000  clean   155 grams  Origin\n 0.000  clean   151 grams  Trivia\n 0.000  clean   147 grams  Behavior\n 0.000  clean   122 grams  최종 관찰 (Final Observation)\n 0.000  clean    62 grams  증언 (Testimonium)\n 0.000  clean    39 grams  SECC Classification\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n"
+      },
+      "wikistd": {
+        "exit": 0,
+        "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+      },
+      "sect": {
+        "exit": 0,
+        "output": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   81   3  | { *The New Brick* [**Debuff**] } | \"Something you have been keeping to yourself finds a surface, and the surface is inside.\" | [\n   82   2  | { *The Shrinking Room* [**Debuff**] } | \"The room is smaller than it was, and you would rather not say why you noticed.\" | [The \n   84   5  | { *The Total Enclosure* [**Attack**] } | \"The room finishes closing, and everyone still talking in it is keeping something back.\n   85   8  | { *Walls Within Walls* [**Ultimate**] } | \"Every partition becomes a cell, and the last thing through the doorway is a fact abou\n   91   5  3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Establish safe c\n  166   1  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% a turn unaddressed, and falls when a carrier is worked honestly by somebo\n  237   1  | **Before use** | Wielder, piece, and a dated baseline taken on the 18-item schedule by somebody other than the wielder, because \n  238   1  | **During use** | Watch for the toll in the schedule rather than in the wearer's account: items that were reachable at issue and \n  239   2  | **At limit** | The wearer feels faintly absent to themselves, without remission. On a Face Beneath Masks piece the use ends ther\n  240   1  | **After use** | Piece returned and the schedule re-administered a week later by the same second worker, because the absence does\n  264   2  **Observation method:** Observe by asking, in a room with two people in it, and never from behind glass. Record the first item tha\n  279   1  Management: Establish safe contact; do not force the wall open. Work response — Flerehan: Cracks open and allows a feeling through\n  311   5  **Interaction method:** Baseline each party alone over a long series before any paired approach, and schedule the carrier immediat\n  318   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  372   4  **Review requirement:** Re-take the schedule before and after any event and at the fixed intervals in between, by somebody other t\n  415   4  The staff association's objection is minuted at each review. It holds that consent obtained as a condition of a posting is not con\nGENERIC 0.009  (49 shared shingles)  SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽.md\n"
+      }
+    }
+  },
+  "ledger_tests": "..........\n----------------------------------------------------------------------\nRan 10 tests in 0.010s\n\nOK\n",
+  "physical_form_labels": {
+    "audited": 301,
+    "labels": {
+      "Organic": 30,
+      "Mixed": 130,
+      "Non-Organic": 136,
+      "Non-physical": 1,
+      "Braided Cord Construct": 1,
+      "Colossal Scribe Entity": 1,
+      "Vitrified Bipedal Construct": 1,
+      "Slender Crystalline Spire": 1
+    },
+    "inherited_descriptive_exceptions": [
+      [
+        "C-IVδ-918",
+        "Non-physical"
+      ],
+      [
+        "N-IIIβ-1056",
+        "Braided Cord Construct"
+      ],
+      [
+        "N-Vω-1055",
+        "Colossal Scribe Entity"
+      ],
+      [
+        "O-IIIγ-1052",
+        "Vitrified Bipedal Construct"
+      ],
+      [
+        "O-IVγ-1053",
+        "Slender Crystalline Spire"
+      ]
+    ],
+    "interpretation": "Label inventory, not silhouette or consistency certification; five inherited descriptive labels preserved."
+  },
+  "couples": "COUPLES: 0 / 301 ; files carrying 0 / 301 ; section-pairs 0\n  tiers: >=0.70 0 | 0.60-0.69 0 | 0.50-0.59 0\n",
+  "comparison_summary": "M.A.W. Codex comparison (candidate differences; not an auto-fixer)\n  mapped primary dossiers : 301\n  external Side Codices   : 292\n  complete 4/4 sets       : 287\n  item pairs compared     : 861\n  Side Codex card sets    : 106\n  Side card records       : 318\n  Side card/SE pairs      : 318\n  exception sets skipped  : 5\n\n",
+  "before_words": 37653,
+  "after_words": 37879,
+  "numeric_equipment_tale_source_invariants": "Original digit-token sequences, complete equipment blocks, Tales and all listed exact-source bytes unchanged. Two No change primaries byte-identical. All primary hashes match the individually pushed versions. Changed-path allowlist excludes unrelated owner/Batch301 files.",
+  "failure_and_recovery": "No technical validation failed on these five units. Closing comparator first invoked at nonexistent tools/kit path; corrected to tools/maw_compare.py and completed. No content workaround.",
+  "inspection": "Current written-design logical review only; no generated illustration, rendered visual/browser/running preview/published-site inspection or deployment.",
+  "pr": {
+    "baseRefName": "NON-WIKI",
+    "headRefName": "arena/954853ad-project-somnarak-wiki",
+    "isDraft": true,
+    "number": 14,
+    "state": "OPEN",
+    "url": "https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/pull/14"
+  },
+  "next": "Batch153 requires owner authorization. Batch301 remains blocked on eight owner bodies, one4+4 operation, generate/validate before wiki copy. No merge."
+}

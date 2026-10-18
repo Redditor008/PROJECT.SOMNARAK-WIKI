@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch152 — CLOSED 5/5
+
+Three limited Appearance repairs: Unspoken Line junction identification, Stormscale historical-versus-latent protocol, Soaking Shadow conditional forms. **Willing Chains: No change. Face Beneath Masks: No change.** All five whole-design outcomes HELD; no SE completion credit. No change2/5 is below three, so no ladder extension. Zero equipment coverage credit; no duplicate or retrospective baseline inference.
+
+Independent cumulative counters: SE Appearance Fix12/301=3.99%,289remaining; ALL M.A.W. Types Appearance per SE source-review coverage246/301=81.73%,55remaining; ALL M.A.W.-W Appearance per SE source-review coverage246/287=85.71%,41remaining. Body8changed/4retained/27held/2blocked/260pending. Coverage includes holds, not finished redesign/artwork.
+
+Individual PUSH VERIFIED:251dc1d287;976f03dde6;9495fca7f7;3084739499;6898258483. Fresh25technical checks/10ledger testsPASS; couples0/301; comparator301mapped/287complete sets/861pairs. LC_ALL=C primarywords37,653→37,879(+226). Digits/equipment/Tales/listed source bytes preserved; both No change primaries byte-identical. Complete original/source/history/final reading and each Commentary in [full closing report](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B152_CLOSE.md). Written-design only; no render/browser/deployment claim. PR14OPENdraft→NON-WIKI; owner controls merge. No153 authorized. Batch301 eight-owner-body/one4+4/generatevalidatebeforecopy block unchanged.
+
 ## Batch152 unit5 — Face Beneath Masks `N-IIβ-689`
 
 [[SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-689_Face_Beneath_Masks_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%B2%BD.md "SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽.md")]

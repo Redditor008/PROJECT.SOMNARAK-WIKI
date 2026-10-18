@@ -18,7 +18,7 @@
   },
   "active_batch": {
     "number": 152,
-    "status": "OPEN",
+    "status": "CLOSED",
     "required": 5,
     "queue": [
       "C-IVδ-251",
@@ -107,7 +107,8 @@
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B152_OPEN.json",
     "logical_reading_required": true,
-    "integrity_rule": "REFERENCE_SOMNARAK_WIKI/RULES/R-33_INTEGRITY_VISUAL_LIVE_CHECK.md"
+    "integrity_rule": "REFERENCE_SOMNARAK_WIKI/RULES/R-33_INTEGRITY_VISUAL_LIVE_CHECK.md",
+    "closing_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B152_CLOSE.json"
   },
   "dossiers": [
     {
@@ -2947,6 +2948,11 @@
       "number": 151,
       "status": "CLOSED",
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B151_BATCH.json"
+    },
+    {
+      "number": 152,
+      "status": "CLOSED",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B152_BATCH.json"
     }
   ],
   "equipment_reviews": [
