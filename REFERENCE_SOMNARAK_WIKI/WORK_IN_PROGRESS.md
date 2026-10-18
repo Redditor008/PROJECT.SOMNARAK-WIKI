@@ -1,5 +1,25 @@
 # Work In Progress
 
+## Batch150 unit3 — Scar Walker `O-IIIδ-011`
+
+[[SE-O-IIIδ-011_Scar_Walker_흉터의_행자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B4-011_Scar_Walker_%ED%9D%89%ED%84%B0%EC%9D%98_%ED%96%89%EC%9E%90.md "SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md")]
+
+**Change:** SECC and BreachMovement now explain upright patrol, ordinarypacedescort, undismissedfollowing andclosingondesecration. Restored BattlePhasesResolution with existing respect/salute/acknowledgmentcondition and repaired clipped SustainedObservation with existing ensure-site-not-defiled sentence. Added guardian/grave/carriedweapon note distinguishing collectivephantom, ground, affect, ownarmament andportablekit; explicitlyholdsscar-tissuescaleandweapon-usecontradictions.
+
+**Source evidence:** Complete identity-resolvedSE1004A–D4/4 read: AexplicitO-IIIδ-011GS/Scar/Grudge/sixfactions. NotSE011WhisperingWalls; CSV31distinctexample checked. MasterEntity577; Mastertable662–664 andcomplete622–624detail7733–7764; fullTale208/11633–11688; Registry178–181; archetype63W011cup/Instant and404W1004halberd/Long; disposition170. FullprimaryexistingB101review and WIP4141–4143 priorcredits/history read; gitpathhistory confirms inheritedprimary. Sourcesunchanged.
+
+**Full logical before/after:** Complete423line primary read1–230/231–423. SubjectPhantasmal/Grudge is tall halfsolid mixedwarrior withcrimsonrageplates, bodilyescort atfourtosixmetres, salutesandpatrolscollectivewargrave. Tale gives collectiveanger agent, not recoveredindividualsoldier. No alternateformestablished. Combatliteralwoundinhabiting/scartissuetraversal lacksbridge fromwholefigure. Wardenneverusedweapon versusfourblows/engagements. Two clippedoperationalpassages needrestoreexistingcondition/followpurpose. Genericpursuitfieldsomitnormalescort andundismissedfollowing.
+
+Complete431line final read1–220/221–431 after fiveactualchecks. Includes allclassifications/parameters/combat/actions/phases/consequences; Appearance/newnote/Origin/Work/breach; entirekit/Use/Field/existingreview; observation/progression/Story/final/flavor; allthreepairings; completeTale/Testimony/Record/Addendum; Wardenarrival/Weapon/NoAllegiance/SiteWound; Trivia/footer. Escortmotionandrestoredpassagesnowclear. Body-to-scar-traversaltransitionandnever-used/fourblowsremainunresolved, so logicalHELD despite technicalPASS.
+
+**Holds:** No fullsizedphantom→internalwoundtravellertransition, miniature/projectionnotinvented. Neverusedarmament inAppearance/Warden/Flavor versusfourstrikes/Plate/Stat/possiblefifthFinal; no licensefornewweapon. Nonrespectmerelyfollowing versus allnonbowscorching/closingonPugnahan/attackintruders; ordinaryescort atdistance versus Workshoulder. No breachbecauseterritory versusescapesroams/attacksintruders/burnsbarriers/undismissedescort3cases; nosourceidentifies destroyedseal. Patrolwithoutrest versusappearsvisitors, permanentfixture notproofstationary. Saluteonarrival/neverdeparture versusexit/gatedismissal, completecyclecannotdismiss versuspairedreturnedroute. No photography vsappearanceprotocolrecordnotnecessarilyphotograph; no invented cameraexception. Count1/90%/65%ultimate/40%+10turn/5permarker remain. SourceAattacksonaggressionbutnoanatomicalbridge. Chalicegravity/projectileneutralization versusSideB/MasterdetailFangGrudgeSkewer noalternateform. OwnunnamedweaponnotMAW; ownarmournotissuedPlate. W1004HeavyBoundaryHalberd/Long andW011cup/Instant versusMedium3; preserved priorreceipt minorarchetypeclarification notrewritten. SuitMasterHauberkChainmailversuslocalharness; sourceB–D missingAppearance notdefect. StigmaTail4%+3 versusCSVAccessory5%; allkitfurypermanent/oldwoundsblanket versuspiecefatigue/reflexescosts, sourceautobiography/terminalsite notnewsourceanatomy.
+
+**Commentary:** A guardian that keeps following until properly dismissed is more memorable than a roaming boss. I like the equal, rotated faction records: they make neutrality an institutional practice rather than a costume color. The wound-inhabiting combat could be interesting, but it needs a real relationship to the escort, not an assumed change of scale.
+
+Outcome **held**; SE+0, equipment+0. B101 alreadycounted full-equipmentandexactWeaponSE1004B/MAWW100401review. No newequipmentcredit or retrospectivebodycompletion. This independent SE review remainsheld.
+
+Five actual technical checks PASS; complete final reread. C-locale words 6,206→6,452. Evidence `B150_03_SCAR_WALKER.md`. Written design only, no rendered/live inspection. Batch150 OPEN3/5, No change1/3. No151 or merge.
+
 ## Batch150 unit2 — The Inherited Debt `N-IVβ-019`
 
 [[SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B2-019_The_Inherited_Debt_%EB%AC%BC%EB%A0%A4%EB%B0%9B%EC%9D%80_%EB%B9%9A.md "SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md")]

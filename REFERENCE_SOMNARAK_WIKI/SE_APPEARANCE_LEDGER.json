@@ -58,6 +58,21 @@
           "sect": "PASS"
         },
         "rendered_check": "not in scope"
+      },
+      "O-IIIδ-011": {
+        "no_change": false,
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_03_SCAR_WALKER.md",
+        "whole_before_reread": true,
+        "whole_final_reread": true,
+        "logical_outcome": "held",
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        },
+        "rendered_check": "not in scope"
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_OPEN.json",
@@ -2054,8 +2069,32 @@
     {
       "designation": "O-IIIδ-011",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "SECC and BreachMovement now explain upright patrol, ordinarypacedescort, undismissedfollowing andclosingondesecration. Restored BattlePhasesResolution with existing respect/salute/acknowledgmentcondition and repaired clipped SustainedObservation with existing ensure-site-not-defiled sentence. Added guardian/grave/carriedweapon note distinguishing collectivephantom, ground, affect, ownarmament andportablekit; explicitlyholdsscar-tissuescaleandweapon-usecontradictions.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_03_SCAR_WALKER.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1004_The_Scar_Walker/SE-1004-A__SIDE_CODEX_The_Scar_Walker.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1004_The_Scar_Walker/SE-1004-B__MAW-W_The_Occlusihan_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1004_The_Scar_Walker/SE-1004-C__MAW-S_The_Occlusihan_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1004_The_Scar_Walker/SE-1004-D__MAW-G_The_Occlusihan_Blade.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IIβ-119",
