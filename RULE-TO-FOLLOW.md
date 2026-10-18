@@ -228,6 +228,7 @@ VERIFIED LIVE
 - Profiles do not require faces, but every visual must be identifiable to its subject.
 - Recoloring the same SVG does not count as personalization.
 - Subject designs must span at least Human, Monster, Animal and Abstract shapes across the collection; compare silhouettes, not only materials. Preserve canon under [`R-32`](REFERENCE_SOMNARAK_WIKI/RULES/R-32_SUBJECT_SHAPE_DIVERSITY.md).
+- Follow the [Integrity Visual Live Check Rule (R-33)](REFERENCE_SOMNARAK_WIKI/RULES/R-33_INTEGRITY_VISUAL_LIVE_CHECK.md): whole current-file logical/visual-design reading before and after fixes, actual rendered/live inspection when in scope, explicit holds and no false completion claims.
 - Canonical top bar, homepage-derived left sidebar, and expanded bottom bar must match on every public page.
 - Shared chrome does not count as a page's personalized visual treatment.
 

@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Owner rule — Integrity Visual Live Check Rule (R-33)
+
+Owner P authorizes Batch149, not150, and names the previous whole-dossier appearance/logical requirements [Integrity Visual Live Check Rule](REFERENCE_SOMNARAK_WIKI/RULES/R-33_INTEGRITY_VISUAL_LIVE_CHECK.md). Read complete current primaries and sources before edits and whole finals after checks. Trace Entity Type/Manifestation/Tale/body/movement through behavior, combat, interactions and equipment; unsupported relationships remain held with no SE completion. Separate written-design review from actual rendered/preview/published inspection. No artwork, browser or deployment PASS is implied by Markdown review. Rule cross-linked in the index, R-08, root owner rules and visual standards. No counter credit.
+
+Restored174paths byte-matched verified352552f before non-destructive mixed realignment from stale10cd20a. Recovery patch/untracked list preserved outside checkout. No content discarded; current ledger148CLOSED5/5 remains authoritative until149opening. No merge or deployment authorized.
+
 ## Batch148 — CLOSED 5/5 reviews, all five whole-file outcomes held
 
 Owner p authorized148only. Reviewed119/103/290/852/518 from the fresh285pending/132cue-candidate queue without substitution. Reconciled only supported local body/movement/state claims after full primary/source reading, then read all final files. Every receipt records connections to classification/manifestation/Tale/origin, behavior/combat, equipment and contradictory records.
