@@ -8,6 +8,26 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch152 unit2 — Willing Chains `C-IVδ-976`
+
+[[SE-C-IVδ-976_Willing_Chains_스며든_사슬](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-976_Willing_Chains_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%82%AC%EC%8A%AC.md "SE-C-IVδ-976_Willing_Chains_스며든_사슬.md")]
+
+**Change:** No change
+
+**Source evidence:** Completeexact976A–D4/4readsourcefields/entireAppearance/itemhistories/corrosion/care. AexplicitC-IVδ-976O, subjectCanbreachversusprimarynonbreach. Masterindex307–309/detail4260–4292; Entity468/completeTale1035810–5870 useChainwreathed; CSV1127–1130; archetype400DawnDifferentHorizonShort; disposition258. B135unit3c7ff548WIP2438–2446fullsetandfirstexactpair; gitpathsame. Sourcesunchanged.
+
+**Full logical before/after:** Complete461line original read1–230/231–461. Subject/SubjectGrudge Void/Mixed figure coveredheadtofootblackchains, slowlightlessfire/charash/hotcold; notassumehumanfleshbeneath. Chainlattice autonomoussurfaces/roommaterialdistrictspreadvsfigurenopostureorientationchange. Talecommunityobligationsformalized→livingchain fits collectivebindingnotliteralresidentanatomy. EntireAppearancealreadyseparatesfigureandsurveyextent. 2.45m/sunattributednotproofbodycanwalkorchainrate. Noforcednewanatomy.
+
+Complete461line final read1–230/231–461 afterfiveactualchecksPASS. Allclassification/parameters/core/actions/phases/consequences; Appearance/Origin/fourWork/nonbreachCorruption; fullkitand3careparagraphs/Use/Field; observation/5Story/final/flavor; all3pairings; entireTale/Testimony/Record/Addendum; ApexBinding/Motionless/Warmth/WhereSpreads/BoundDistrict/Cutting/DoorNotice/NotOneLink/Authority/entireNineMinutes; Trivia/footer. No changejustifiedinsteadinventingunsupportedbodykinematics. WholelogicalHELD.
+
+**Holds:** Motionlessbodyforever vs2.45m/sstat/lookupnotassignedtomovingchains; do notinventchainrate. Bindsspacesnotpeople/notouchbody vsWhipLinkwoundsproutsiron/Flavorchainintochest/volumeholdspeople. Bodyandfireallobservationsidentical vsWorkfiredims/low; conditionalrestingstatepossiblebutnotdeclared. Chainsopenvsheldclosedcontinuous vsonewhipsfreeandseedstwo/linksneverlifted/surfacegrowroommaterialbeyonddistrict versuscorruptownzoneandneverleft; noinventassembly. Nobodyschosen vsseekstargetlinks. Bothfullannualsurvey/sample1180 vsnothingtouchedandmanualbyhand; noonhands-offpermissioninvented. Figurenevermovedchainsnomoveaside vscut/extractdrawlinks, oldcutauthorizationwithdrawnexplicitchronologyadequateforpastcutnotnewpermission. Extent240→900 permanent vscurrentboundarydatesoneearlycut butsubsequentconfrontation/comfortablewatchadditions; NightRoundsabandonedcorridorstillwalkedbothways, nohiddenrouteinvented. Comfortwithdrawwithoutnotefile vsrecordcomfortanswers/exposurelog notsilentlyreconcileprivacy. Ferrehanonlycostanyone vsFlerehanpressure/personnelwithdraw, donotcollapsecost.1/90%/65%/40%+10retained. SideCanbreachvsprimarycorruptnonbreach; TaleZoneC/CL3moderatevsBambientCL2critical notrenamebodythroughalias. δoverviewbothvsβallkit; Lantern5%vsprose4%; HeadvsCSVAccessoryandMasterorb; opticaldiscvsDawnarchetype; SuitveilvsMasterchainmail; itemAppearancefunctionalprosenotphysicalbridge. Uniformcostobligationsrestvs3distinctcosts; Firstpersoncorrosionnotproofnewhistoricalbody, noTickeffectinvented. Allheld.
+
+**Commentary:** The open links make this more disturbing than a conventional locked prison. The long response route also gives the withdrawn cutting authority a concrete cost: institutional honesty does not spare the runner.
+
+Outcome **held**; SE+0, equipment+0 (each independent coverage counter). B135c7ff548fullset/exact976BMAWW97601alreadycounted, equipment+0 independently; SEcompletion+0becausewholelogicalheld. Nochange1/2below3.
+
+Five actual technical checks PASS; complete final reread. C-locale words 7,664→7,664. Evidence `B152_02_WILLING_CHAINS.md`. Written design only, no rendered/live inspection. Batch152 OPEN2/5, No change1/2. No153 or merge.
+
 ## Batch152 unit1 — The Unspoken Line `C-IVδ-251`
 
 [[SE-C-IVδ-251_The_Unspoken_Line_그어진_선](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-C-IV%CE%B4-251_The_Unspoken_Line_%EA%B7%B8%EC%96%B4%EC%A7%84_%EC%84%A0.md "SE-C-IVδ-251_The_Unspoken_Line_그어진_선.md")]
