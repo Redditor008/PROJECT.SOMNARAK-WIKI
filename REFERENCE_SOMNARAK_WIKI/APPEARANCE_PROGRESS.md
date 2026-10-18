@@ -183,3 +183,5 @@ Full current original, exact sources/history, and full final logical reading req
 [Opening evidence](SE_APPEARANCE_REVIEWS/B150_OPEN.json).
 
 Batch150 unit1: **Neglect Learned to Listen `N-IIβ-270` — held**. [Evidence](SE_APPEARANCE_REVIEWS/B150_01_NEGLECT_LEARNED_TO_LISTEN.md). Movement now describes a spreading place on connected surfaces, not a detached drifting body. N/A Speed now explains absence of a body travel rate and fixed survey reference. Added listening-place/extent note linking nonhuman form, sensation versus anatomy, separate element/manifestation, transferred whispers versus portable kit, and unresolved origins/readability/speech/injury/Transform claims. Five actual checks PASS and full final read complete; individual gate/push follows. Current batch OPEN1/5; No change0/1.
+
+Batch150 unit2: **The Inherited Debt `N-IVβ-019` — held**. [Evidence](SE_APPEARANCE_REVIEWS/B150_02_INHERITED_DEBT.md). No change Five actual checks PASS and full final read complete; individual gate/push follows. Current batch OPEN2/5; No change1/2.
