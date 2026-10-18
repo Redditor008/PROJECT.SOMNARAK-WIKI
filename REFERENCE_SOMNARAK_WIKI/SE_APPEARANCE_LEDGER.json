@@ -18,7 +18,7 @@
   },
   "active_batch": {
     "number": 146,
-    "status": "OPEN",
+    "status": "CLOSED",
     "required": 5,
     "queue": [
       "O-Iα-720",
@@ -89,7 +89,8 @@
           "sect": "PASS"
         }
       }
-    }
+    },
+    "close_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_CLOSE.json"
   },
   "dossiers": [
     {

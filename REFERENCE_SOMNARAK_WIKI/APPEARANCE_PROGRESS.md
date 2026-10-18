@@ -106,3 +106,9 @@ One short Torn Fang Appearance addition: exactB empty central groove, torn-out m
 ### Batch146 unit5 — `C-Iα-884`
 
 One careful object-profile repair: tray-held palm shard rather than structure/location; record retained AngryMaiden hairline separately from tear count and surrounding moving ground.6,349→6,379(+30). Equipment No change; independentSEheld,notcompleted. [Individual evidence](SE_APPEARANCE_REVIEWS/B146_05_SEETHING_TUNDRA.md). Current batch OPEN5/5; Nochange0/5. Current totals all-types245/301, Weapon245/287, SE8/301; previous snapshots above are historical.
+
+## Batch146 current close
+
+**CLOSED5/5**, primarychanges5, No change0/5. No7rung triggered. Combined batch credits: equipment+5/all-types and+5/Weapon; SE+3, not+5. Hollowcast already completed145, Tundra held despite limited profile repair. Current totals245/301all-types81.40%,245/287Weapon85.37%,8/301SE2.66%; SE6changed/2retained/1held/290pending/2blocked. All preceding unit/opening snapshots are historical. Older five-item equipment queue reviewed with explicit holds, not erased as all-resolved.
+
+Five individual PUSH VERIFIED units461b1e1/8e10c21/8891dba/85d53a3/ebe4b19; fresh25checksPASS,10testsPASS,couples0/301,20unchangedexactsourcefingerprints. LC_ALL=C words37,645→37,789(+144). [Full closing evidence](SE_APPEARANCE_REVIEWS/B146_CLOSE.json). No147withoutnewP. Next pending cue-screen611/909/641/371/169 is reading order only;884heldfollowup remains separate. PR14OPENdraft→NON-WIKIownermergeonly.301blocked8bodies/owner4+4generatevalidatebeforecopy.

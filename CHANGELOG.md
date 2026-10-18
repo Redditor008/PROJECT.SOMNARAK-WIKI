@@ -8,6 +8,66 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch146 close — combined equipment-first review, CLOSED5/5
+
+Owner new p authorized exactly146, permitting older equipment work first or combined body/equipment reviews and longer execution. Sources, edits, checks, records and individual gates were separate focused Bash calls. Selected carried pending queue720/051/225/426/884, identity/history verified; no substitutions or fabricated new defect ranking. Five whole dossier reviews completed. Primary changes5/5; No change0/5 means no7rung under cumulative3Nochange5→7→10. A retained equipment block or prior body credit is not an unchanged whole dossier.
+
+**Cumulative progress:** ALL M.A.W. Types Appearance per SE — source-review coverage245/301=81.40%,56/301remain. ALL M.A.W.-W Appearance per SE — source-review coverage245/287=85.37%,42/287remain. SE Appearance Fix — independent written-design pass8/301=2.66%,293/301remain. Body totals6changed/2retained/1held/290pending/2blocked. This batch adds5equipmentreviews and3SEcompletions; Hollowcast145not repeated, SeethingTundraheldnotcounted. Equipment coverage includes holds, not finished redesigns/artwork. A couple means a pair of dossiers with excessive prose overlap; fix phase means source-supported written consistency/shape work, not a rendered-art census.
+
+### What changed and Commentary
+
+**Aphasia `O-Iα-720` — What changed:** One short movement repair: the header now preserves upright/flowing wax forms and drift toward speech instead of unsupported pursuit. Existing multi-form Appearance retained. LC_ALL=C words7,104→7,118(+14).
+
+**Evidence / holds:** Complete417line primary before and final reread; exactA–D4/4whole; fullMasterEntries724–726/Tale242; Entity612,registry835–838,archetype281,art515,disposition204 and credit history checked. All numeric stat sets compared. Spear versus oldFang/source/art, Short versus archetypeInstant, primary Bodyburns versus narrative-severance, darkplate versus vestments, sourceworkbonus versusResilience, Tail versus handseal/Accessory, sentence versus fragment and bearer costs held. No invented equipment transition. Neutral retained: neighbours change or preserve this trace, not suppressed/released by it.
+
+**Commentary:** Accurate listening gives it a body without supplying its accusation. A wax figure drifting toward helpful speech fits the sorrow better than another pursuing humanoid. The spear/Fang disagreement must remain a source question, not a fabricated transformation.
+
+**The Happy Mask `C-IIβ-051` — What changed:** Joy Lens gains sourceB-supported convex disc, short black handle, thumb rest and tether ring. The mask stays tray-bound rather than executing an invented violent exit. One careful/one short change, separately applied; words7,520→7,569(+49).
+
+**Evidence / holds:** Whole505line primary before and after checks; exactA–Dwhole; fullMasterEntries106–108/Tale36,Entity400,registry94–97,archetype79,art192,disposition321/history. Weapon ability/bearer cost and Short/Instant range remain held. Head versus chest cord, Stigma encounter limit and rebound, Suiteffectscope and wearing/never-worn protocol history remain unresolved without fabricated dates or extra bodies. Neutral retained across91null-effectpairings.
+
+**Commentary:** The mask works as an object that measures compelled happiness, not a chasing creature. Giving the Lens its actual handle makes it a readable instrument rather than a floating disc. The facility using truthful measurements to require more performance is the strongest horror here.
+
+**Black River `C-Vγ-225` — What changed:** One careful Maul opposed-face/downstream construction addition; separate short flavor repair to lead-cold liquid and line-based interval, retaining historical warm-instrument testimony. Words9,026→9,053(+27).
+
+**Evidence / holds:** Whole486lineprimary before/final; exact225A–Dwhole; fullMaster373–375/Tale125, Entity492, registry506–509, archetype150/art324/disposition432; exactpairhistory searched. Maul discharge/aging, Mantle conditional banked-passage, Stone versus DrownedCoin cost/geometry and Head4% versus CSVAccessory5%, Room/Medium range, oldMasterδ/5 versusγ/4 and operational cycle vocabulary held. Historical noncontact warmth not silently erased. Negative retained: measured Mawstrength and grief-line damage.
+
+**Commentary:** The bankless current already supplies an Abstract/Place form, without a human face. Through-flow gives the Maul a useful physical identity. The ordinance leaving people unmourned makes the river more troubling than a boss fight would.
+
+**Hollowcast `N-IIβ-426` — What changed:** One short Torn Fang Appearance addition: exactB empty central groove, torn-out material deliberately unfilled and channel kept clear. Wholeprimary otherwise byte-identical;7,646→7,670(+24). SEbody unchanged; no duplicate SEcredit.
+
+**Evidence / holds:** Whole438lineprimary original/final; exact426A–Dwhole; MasterEntries484–486/Tale162, Entity530, registry663–666, archetypes217/299/art449/525, disposition163/history. Darkwarm/crimson and curvedfang/straightcleaver unresolved; C harness split/colour scope; wrist/Tail/orb bucket, +1work/Resilience and reassurancealarm/nonphysicalcost versus manipulationdefence/harmfultouch held. Existing145 body preserved; orchard imagery and widening mechanics not reinterpreted. Neutral retained.
+
+**Commentary:** The empty groove refuses the comforting patch without choosing an unsupported color or blade variant. The human outline is source-justified here, not a rule that every sorrow must have a human body.
+
+**Seething Tundra `C-Iα-884` — What changed:** One careful object-profile repair: tray-held palm shard rather than structure/location; record retained AngryMaiden hairline separately from tear count and surrounding moving ground.6,349→6,379(+30). Equipment No change; independentSEheld,notcompleted.
+
+**Evidence / holds:** Whole431lineprimary original/final after5checks; exact884A–Dwhole; Master367–369/Tale123, Entity489, registry943–946, archetype343/art541/disposition382/history. SEheld: ATransform asserted without form versus primary activation no bodilychange; blue formation/clearwhite observation not assigned invented transition. Awl/Lens, Suit silhouette/cost, generic25%binding/terminalnewsite,31→38versus2,091→2,118, neverstruck/IceSpear/crack and Iα/IIβ registers remain held. DispositionIndexNeutral contradicts primary measuredsectorbenefit: dedicatedR19followup,not silentlycertified.
+
+**Commentary:** The tear is small enough to keep and hard to speak about. A witnessed hairline is not evidence of a giant ice form. The awl already has a real build; reverting to a lens merely to match old artwork would conceal the disagreement.
+
+| Dossier | Words | Checks | Individual push | SE credit |
+|---|---:|---|---|---|
+| [Aphasia](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-720_Aphasia_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-O-Iα-720_Aphasia_녹아내린_속삭임.md") | 7,104→7,118 | 5/5PASS | `461b1e1` verified | +1 |
+| [The_Happy_Mask](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-051_The_Happy_Mask_%ED%96%89%EB%B3%B5%ED%95%9C_%EA%B0%80%EB%A9%B4.md "SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md") | 7,520→7,569 | 5/5PASS | `8e10c21` verified | +1 |
+| [Black_River](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B3-225_Black_River_%EC%8A%AC%ED%94%94%EC%9D%98_%EA%B0%95.md "SE-C-Vγ-225_Black_River_슬픔의_강.md") | 9,026→9,053 | 5/5PASS | `8891dba` verified | +1 |
+| [Hollowcast](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-426_Hollowcast_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-426_Hollowcast_찢어진_열매.md") | 7,646→7,670 | 5/5PASS | `85d53a3` verified | +0 |
+| [Seething_Tundra](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-884_Seething_Tundra_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%A1%B0%EA%B0%81.md "SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md") | 6,349→6,379 | 5/5PASS | `ebe4b19` verified | +0 |
+
+[[SE-O-Iα-720_Aphasia_녹아내린_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-720_Aphasia_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-O-Iα-720_Aphasia_녹아내린_속삭임.md")]
+
+[[SE-C-IIβ-051_The_Happy_Mask_행복한_가면](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-051_The_Happy_Mask_%ED%96%89%EB%B3%B5%ED%95%9C_%EA%B0%80%EB%A9%B4.md "SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md")]
+
+[[SE-C-Vγ-225_Black_River_슬픔의_강](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B3-225_Black_River_%EC%8A%AC%ED%94%94%EC%9D%98_%EA%B0%95.md "SE-C-Vγ-225_Black_River_슬픔의_강.md")]
+
+[[SE-N-IIβ-426_Hollowcast_찢어진_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-426_Hollowcast_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-426_Hollowcast_찢어진_열매.md")]
+
+[[SE-C-Iα-884_Seething_Tundra_얼어붙은_조각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-884_Seething_Tundra_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%A1%B0%EA%B0%81.md "SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md")]
+
+**Validation:** Fresh closing25/25checksPASS in addition to individual runs; final whole rereads already completed after individual checks and no subsequent primary edits. All original numeric sequences retained. LC_ALL=C primary words37,645→37,789(+144).20exactA–Dsourcefiles SHA256-recorded and byte-unchanged from opening02d8730; no source-copy or artwork changes. Ten appearance-ledger testsPASS; couples0/301. Whole comparison301mapped,292Side,287complete4/4,861itempairs; candidate differences are not verified defects or automatic edits. Full raw closing outputs, unit hashes, fingerprints and holds in [B146_CLOSE.json](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_CLOSE.json).
+
+**Next:** Older five-item pending equipment queue reviewed, not every discrepancy solved. SeethingTundra884bodyTransform/blue-versus-clearwhite and Neutral-index versus measuredsectorbenefit remain explicit follow-ups. Fresh pending-only read-order cue screen290eligible/136signal-candidates, excludes held884/blocked025/062/completed8. TopSleepingShard611,DormantMonolith909,Home641,Protest371,Atlas169. These are lexical reading cues, not proved defects, completed reviews or a mandatory shape quota. No147opened; freshP required. Preserve all collection-levelHuman/Monster/Animal/Abstract possibilities without forcing fourforms perSE. Corpus290Sorrow+11Unknown; non-SEBook excluded, blocked025/062remain denominator. PR14confirmedOPENdraft→NON-WIKI on this fixedbranch, ownermergeonly. No merge/deployment/artwork completion claimed. Batch301stillblocked8ownerbodies/owner4+4; generate/validate before wiki copy. Closing gate/push follows; prior unit hashes above are all actually verified.
+
 ## Batch146 unit5 — Seething Tundra `C-Iα-884`
 
 **What changed:** One careful object-profile repair: tray-held palm shard rather than structure/location; record retained AngryMaiden hairline separately from tear count and surrounding moving ground.6,349→6,379(+30). Equipment No change; independentSEheld,notcompleted.
