@@ -1,5 +1,23 @@
 # Work In Progress
 
+## Batch147 unit5 — Atlas `O-Iα-169`
+
+**What changed:** No change. Independently retain the existing earlier-worker/incorporation/current-pillar distinction from Batch143: warm rough rusted iron, orange over brown, embedded in the Forge floor, no separable person and no emerging or alternating human form. Expansion loads nearby supports rather than making the column walk.
+
+**Sources and holds:** Full451-line primary read before and again after all five checks. Complete exact A–D4/4, Master700–702/table740–742, Tale234, EntityCodex604, Registry434–437, archetype125, disposition269 and complete Batch143unit2 history reviewed. Side A supports worker indistinguishable from support and no safe separation; earlier worker can be human without making the current architectural body humanoid. Batch143 shaping repair predates the independent ledger and is reviewed now, not backfilled or redone. Both existing equipment credits remain unchanged. Side A O-Iα-169[WO] resolves via exact full designation/title/links to primary[WP], while Inner/Outside and Observed/Initial metadata differ. Current zero-load surveys versus Tale supporting forever and alternate wing/anthology formation remain unreconciled; no removal chronology invented. Combat buckling/collapse/injury versus fixed/no injury and45/65% thresholds remain. Seax header/Appearance versus Maul official/resting/active form, primary chipped material versus source nonremoved echoes, Room/Short range, heavy harness versus lightweight ribs, Charm endurance versus overload-arrow relief, unnamed+1 check and Master subtype differences stay held. R19 Neutral retained on four Saint/three Architect/one Weight null tests; no entity receives relief.
+
+**Commentary:** The historical worker becomes architecture rather than a statue of a strong man. The tray and missing handovers give that form a specific failure: the instrument stops recording exactly when a person is left carrying alone. Keeping the difficult forced-removal cost prevents shared support from becoming an easy cure.
+
+| Dossier | Outcome | Words | Checks | Credit |
+|---|---|---:|---|---|
+| [Atlas](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-169_Atlas_%EB%85%B9%EC%8A%A8_%EA%B8%B0%EB%91%A5.md "SE-O-Iα-169_Atlas_녹슨_기둥.md") `O-Iα-169` | No change | 7,244→7,244 | 5/5 PASS | SE+1, equipment+0 |
+
+[[SE-O-Iα-169_Atlas_녹슨_기둥](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-169_Atlas_%EB%85%B9%EC%8A%A8_%EA%B8%B0%EB%91%A5.md "SE-O-Iα-169_Atlas_녹슨_기둥.md")]
+
+[Individual evidence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_05_ATLAS.md). Whole final reread after actual checks; original numbers and equipment section retained. No source files changed. Individual gate/push follows in a separate focused step.
+
+**Current counters:** ALL M.A.W. Types Appearance per SE — source-review coverage 245/301=81.40%, 56/301 remain. ALL M.A.W.-W Appearance per SE — source-review coverage 245/287=85.37%, 42/287 remain. SE Appearance Fix — independent written-design pass 12/301=3.99%, 289/301 remain. Coverage includes holds, not resolved artwork. Batch147 OPEN 5/5; No change 2/5. Five minimum; three cumulative No change dossiers trigger5→7→10. Pending is not No change. Corpus290Sorrow+11Unknown; non-SEBook excluded and025/062blocked. A couple is an excessive-prose-overlap dossier pair; fix phase here is written shape/state work, not an anatomy-label or rendered-art census. No148authorized. PR14OPENdraft→NON-WIKI, ownermergeonly. Batch301blocked8bodies/owner4+4; generate/validate before wiki copy.
+
 ## Batch147 unit4 — Protest No One Remembers `O-IIIγ-371`
 
 **What changed:** Careful shape/state pass: Appearance now distinguishes ordinary upright voice-like absence, the documented low flat perimeter-pairing state and Transform spread through structure. Earlier community/speech is origin, not a portrait or recovered content. No body, face, garment, slogan or solid attack form invented.

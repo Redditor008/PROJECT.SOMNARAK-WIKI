@@ -76,6 +76,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-Iα-169": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_05_ATLAS.md",
+        "no_change": true,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_OPEN.json"
@@ -2025,8 +2037,29 @@
     {
       "designation": "O-Iα-169",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-169_Atlas_녹슨_기둥.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "retained",
+      "note": "No change. Independently retain the existing earlier-worker/incorporation/current-pillar distinction from Batch143: warm rough rusted iron, orange over brown, embedded in the Forge floor, no separable person and no emerging or alternating human form. Expansion loads nearby supports rather than making the column walk.",
+      "outcome": "retained design",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_05_ATLAS.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/169_Atlas/SE-169-A__SIDE_CODEX_Atlas.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/169_Atlas/SE-169-B__MAW-W_The_Rusted_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/169_Atlas/SE-169-C__MAW-S_The_Rusted_Brace.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/169_Atlas/SE-169-D__MAW-G_The_Rusted_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-Iα-189",

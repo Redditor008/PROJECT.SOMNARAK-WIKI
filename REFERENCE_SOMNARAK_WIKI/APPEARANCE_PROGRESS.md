@@ -10,7 +10,7 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 |---|---:|---:|---:|
 | ALL M.A.W. Types Appearance per SE — source-review coverage | 245 / 301 | 81.40% | 56 / 301 |
 | ALL M.A.W.-W Appearance per SE — source-review coverage | 245 / 287 | 85.37% | 42 / 287 |
-| SE Appearance Fix — independent written-design pass | 11 / 301 | 3.65% | 290 / 301 |
+| SE Appearance Fix — independent written-design pass | 12 / 301 | 3.99% | 289 / 301 |
 
 These are coverage counters, **not promises that every held discrepancy is repaired**. The first two retain their historical criteria and explicit source holds. The new counter starts at zero; old equipment reviews, general prose fixes, shape screening and the R-32 clarification are not backfilled as SE appearance completions.
 
@@ -140,3 +140,7 @@ No change. Retain the black, hot, char-scented object with crimson inner light a
 ### Batch147 unit4: `O-IIIγ-371`
 
 Careful shape/state pass: Appearance now distinguishes ordinary upright voice-like absence, the documented low flat perimeter-pairing state and Transform spread through structure. Earlier community/speech is origin, not a portrait or recovered content. No body, face, garment, slogan or solid attack form invented. [Evidence](SE_APPEARANCE_REVIEWS/B147_04_PROTEST_NO_ONE_REMEMBERS.md). SE 11/301; equipment unchanged245/301 and245/287. Batch147 OPEN4/5; No change1/4. Earlier snapshots are historical.
+
+### Batch147 unit5: `O-Iα-169`
+
+No change. Independently retain the existing earlier-worker/incorporation/current-pillar distinction from Batch143: warm rough rusted iron, orange over brown, embedded in the Forge floor, no separable person and no emerging or alternating human form. Expansion loads nearby supports rather than making the column walk. [Evidence](SE_APPEARANCE_REVIEWS/B147_05_ATLAS.md). SE 12/301; equipment unchanged245/301 and245/287. Batch147 OPEN5/5; No change2/5. Earlier snapshots are historical.
