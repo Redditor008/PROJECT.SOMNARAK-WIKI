@@ -1,5 +1,77 @@
 # Work In Progress
 
+## Batch145 — CLOSED5/5: independent SE appearance pass
+
+**Administrative correction:** Commit `51507eb` pushed the strengthened eight-test ledger suite only. A duplicate-keyword syntax error prevented the close-evidence writer from running; its close-like commit title did not close the batch. The writer was corrected and executed once, the ledger now actually validates CLOSED5/5, and this next gate ships the real close. No dossier credit was duplicated and no history was rewritten.
+
+**Verdict:** All five units individually gated, pushed and verified. Three source-supported written-shape/state repairs and two justified No change reviews; no rendered artwork or newly invented body. Closing gate/push follows this record.
+
+**Authorization and selection:** The owner’s new P opened one five-dossier SE appearance batch; latest p resumed it. Opening source-signal order retained: Animus108, Gallery185, ThousandOwners792, Hollowcast426, BreathingStone907. Screening prioritised explicit conditional forms then documented chronology, not a claim that every cue was a defect. Relic and Stone proved already adequate. Fresh read-only pending cue screen and complete close evidence are in [B145_CLOSE.json](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_CLOSE.json). It does not credit pending files or open146.
+
+### 108 `O-Iα-108`
+
+**What changed:** Ordinary abstract heat-line and brief Maiden-induced person outline are distinct supported states. Environmental Transform stays separate; no former human body is invented.
+
+**Commentary:** A line that keeps moving without arriving embodies inherited grievance. The borrowed human outline is interesting because it does not appear angry; it is not the abstract form’s concealed truth.
+
+### 185 `C-IIβ-185`
+
+**What changed:** Appearance separates the named memorial, subsequent face loss, and the four documentary restorations. SideA now includes those exceptions and preserves unverifiable likeness.
+
+**Commentary:** A little progress is real, but a returned face does not prove the portrait looks right. The original memorial and current inventory can differ without either being a mistake.
+
+### 792 `O-IVδ-792`
+
+**What changed:** No change. Retained the earlier carried object and the later ghostly person/object figure; neither its outline nor its burden has a stable final shape.
+
+**Commentary:** Its refusal to settle between person and possession fits a chain of custody with no living owner. A definitive human body would answer the story’s open question.
+
+### 426 `N-IIβ-426`
+
+**What changed:** Appearance distinguishes the empty photographed outline from the conscious torn-fruit impression. Transform widens the opening and removes fixed scale without replacing the entity or turning it into the surviving worker.
+
+**Commentary:** This particular human outline earns its place as an absence, not the worker himself. Losing scale makes that same absence worse instead of swapping in an unrelated monster.
+
+### 907 `C-IVδ-907`
+
+**What changed:** No change. Retained warm flesh integrated with corridor brick and wall-bound expansion; no separate walking creature or unsupported earlier human stage.
+
+**Commentary:** The body belongs to the building. Keeping it on an unavoidable route makes the institution’s refusal to reroute part of the horror.
+
+**Source evidence and remaining holds:** Whole primaries, exact identity-resolved A–D, available Master/Tale entries, registries and source history reviewed. Reused fully read unchanged144 sources only with byte-parity checks, explicitly distinguished from fresh readings. Current full final primaries reread for all five, with current full SideA reread after Gallery’s closing correction. No guessed chronology imports; no requirement for every dossier to have a human body. Gallery’s SideA face exception is now repaired, not a remaining shape hold. Hollowcast’s literal seed/sap/orchard combat wording and its width/Gauge mechanics remain separate field-mechanics questions, not evidence of a botanical body. Fang/falchion/slab versus blade artwork, Suit material/colour, Stigma slot/material, cost and scope disagreements remain individually documented, not silently resolved. The wider Human/Monster/Animal/Abstract diversity requirement remains collection-wide, not an invented four-form requirement per SE.
+
+**Validation:** Fresh25/25 dossier checks PASS at close: residue0, seam[], pipeTrue, dupes[], template residue0, zero sections>.05, wiki standards meetsTrue/dirty0; all five generic-prose scores≤.004. Eight independent-ledger tests PASS, including cumulative5→7→10 and held≠completion coverage. Closing gate also runs the full test suite. Original digit sequence and Equipment-through-end unchanged in all five primaries. Every original primary line survives in order. Primary words (`LC_ALL=C wc -w`)36,137→37,257(+1,120); Gallery SideA666→700(+34), separated from primary totals. R18 totals4short/2careful. Gallery’s initial nonstandard label was corrected before its gate passed; final primary7,712, not pre-label7,713. No unvalidated unit counted.
+
+**Comparison / couples:** 301 mapped primaries,292SideCodices,287complete sets,861item pairs and557candidate differences. These are screening candidates, not557proved defects. A couple means a pair of dossiers whose section-prose overlap exceeds the allowed threshold, not an equipment pair: fresh0/301files and0section-pairs.
+
+Reviewed dossiers and verified individual pushes:
+
+| Dossier | Outcome | Words | Checks | Verified commit |
+|---|---|---:|---|---|
+| [Animus](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-108_Animus_%EB%96%A0%EB%8F%84%EB%8A%94_%ED%9D%94%EC%A0%81.md "SE-O-Iα-108_Animus_떠도는_흔적.md") `O-Iα-108` | State repair | 6,430→6,872 | 5/5 PASS | `4fdbb67` PUSH VERIFIED |
+| [Whispering_Gallery](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-185_Whispering_Gallery_%EC%86%8D%EC%82%AD%EC%9D%B4%EB%8A%94_%EA%B0%A4%EB%9F%AC%EB%A6%AC.md "SE-C-IIβ-185_Whispering_Gallery_속삭이는_갤러리.md") `C-IIβ-185` | State repair | 7,415→7,712 | 5/5 PASS | `c8f24b2` PUSH VERIFIED |
+| [Relic_of_a_Thousand_Owners](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-792_Relic_of_a_Thousand_Owners_%ED%9D%90%EB%A5%B4%EB%8A%94_%EC%9C%A0%EB%AC%BC.md "SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물.md") `O-IVδ-792` | No change | 8,536→8,536 | 5/5 PASS | `47bf309` PUSH VERIFIED |
+| [Hollowcast](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-426_Hollowcast_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-426_Hollowcast_찢어진_열매.md") `N-IIβ-426` | State repair | 7,265→7,646 | 5/5 PASS | `646a427` PUSH VERIFIED |
+| [Breathing_Stone](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-907_Breathing_Stone_%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94_%EB%B2%BD.md "SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md") `C-IVδ-907` | No change | 6,491→6,491 | 5/5 PASS | `0cd3ed5` PUSH VERIFIED |
+
+Gallery source correction separately PUSH VERIFIED at`247df76`, zero additional credit.
+
+[[SE-O-Iα-108_Animus_떠도는_흔적](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-108_Animus_%EB%96%A0%EB%8F%84%EB%8A%94_%ED%9D%94%EC%A0%81.md "SE-O-Iα-108_Animus_떠도는_흔적.md")]
+
+[[SE-C-IIβ-185_Whispering_Gallery_속삭이는_갤러리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-185_Whispering_Gallery_%EC%86%8D%EC%82%AD%EC%9D%B4%EB%8A%94_%EA%B0%A4%EB%9F%AC%EB%A6%AC.md "SE-C-IIβ-185_Whispering_Gallery_속삭이는_갤러리.md")]
+
+[[SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-792_Relic_of_a_Thousand_Owners_%ED%9D%90%EB%A5%B4%EB%8A%94_%EC%9C%A0%EB%AC%BC.md "SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물.md")]
+
+[[SE-N-IIβ-426_Hollowcast_찢어진_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-426_Hollowcast_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-426_Hollowcast_찢어진_열매.md")]
+
+[[SE-C-IVδ-907_Breathing_Stone_살아있는_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-907_Breathing_Stone_%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94_%EB%B2%BD.md "SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md")]
+
+**Live counters:** ALL M.A.W. Types Appearance per SE — source-review coverage240/301=79.73%,61/301remain. ALL M.A.W.-W Appearance per SE — source-review coverage240/287=83.62%,47/287remain. Those legacy counters include explicit holds and do not mean240redesigned sets or finished pictures. SE Appearance Fix — independent written-design pass5/301=1.66%,296/301remain:3changed/2retained/0held/2blocked/294pending. Changed means a supported written-state repair here, not an owner-authorized wholly new body or rendered artwork. No old review was backfilled; no repeated equipment pair earns credit. Corpus290Sorrow+11Unknown, excludes non-SEBook/READMEs; blocked025/062stay in denominator. Equipment pending queue remains separate, including Hollowcast: inspecting its equipment in this body pass does not finish the separate all-equipment adjudication.
+
+**Ladder:** CLOSED5/5, Nochange2/5. Fewer than three, so5→7 is not triggered. Long bespoke records are not a simplicity reason to expand. No lower close, no forced changes, no146opened. Existing authorization exhausted by145; next batch needs a fresh P.
+
+**Next and delivery:** Branch`arena/954853ad-project-somnarak-wiki`; PR14OPEN/draft→NON-WIKI, owner controls merge. No merge/deployment. Batch301remains separately blocked on eight owner-supplied bodies and owner-chosen4+4, generate/validate before wiki copy. All owner patches and history preserved. Closing gate commit/push immediately follows this durable record.
+
 ## Batch145 unit2 closing correction — Gallery SideA exception
 
 **What changed:** SideA now includes the primary's four documentary-restored faces rather than saying faces are never provided. Likenesses remain unverifiable. No artificial earlier-edition date, new transition or extra completion credit.

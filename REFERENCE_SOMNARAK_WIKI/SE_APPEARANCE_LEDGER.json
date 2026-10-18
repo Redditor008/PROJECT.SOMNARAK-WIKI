@@ -18,7 +18,7 @@
   },
   "active_batch": {
     "number": 145,
-    "status": "OPEN",
+    "status": "CLOSED",
     "required": 5,
     "queue": [
       "O-Iα-108",
@@ -26,7 +26,10 @@
       "O-IVδ-792",
       "N-IIβ-426",
       "C-IVδ-907"
-    ]
+    ],
+    "closed": "2026-10-18",
+    "no_change": 2,
+    "close_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_CLOSE.json"
   },
   "dossiers": [
     {
@@ -367,7 +370,9 @@
         "sectfile": "PASS",
         "wikistd": "PASS",
         "sect": "PASS"
-      }
+      },
+      "completion_commit": "c8f24b213dcf134d9fb392a11a24a92cd3f05096",
+      "source_followup_commit": "247df76a04d6ffe0f9cd44012cf62fac3c7a95a6"
     },
     {
       "designation": "C-IIβ-210",
@@ -767,7 +772,8 @@
         "sectfile": "PASS",
         "wikistd": "PASS",
         "sect": "PASS"
-      }
+      },
+      "completion_commit": "0cd3ed54cde248edc0366b52a6c881d4372e7b9d"
     },
     {
       "designation": "C-IVδ-909",
@@ -1245,7 +1251,8 @@
         "sectfile": "PASS",
         "wikistd": "PASS",
         "sect": "PASS"
-      }
+      },
+      "completion_commit": "646a4276e7f77d42192ea0e46b570abb42ddb62b"
     },
     {
       "designation": "N-IIβ-453",
@@ -1771,7 +1778,8 @@
         "sectfile": "PASS",
         "wikistd": "PASS",
         "sect": "PASS"
-      }
+      },
+      "completion_commit": "47bf309b07ecb60c65c0b6e19c3856556770c667"
     },
     {
       "designation": "O-IVδ-844",
@@ -1829,7 +1837,8 @@
         "sectfile": "PASS",
         "wikistd": "PASS",
         "sect": "PASS"
-      }
+      },
+      "completion_commit": "4fdbb67232332bf12759211af349bdd086584f10"
     },
     {
       "designation": "O-Iα-126",
