@@ -1,5 +1,13 @@
 # Work In Progress
 
+## Batch145 unit2 closing correction — Gallery SideA exception
+
+**What changed:** SideA now includes the primary's four documentary-restored faces rather than saying faces are never provided. Likenesses remain unverifiable. No artificial earlier-edition date, new transition or extra completion credit.
+
+**Commentary:** A real exception belongs in the compact source card too; otherwise the guide silently erases the only measured progress the hall has made.
+
+One short correction predeclared. Main dossier unchanged from c8f24b2 and already wholly reread; complete final SideA reread follows correction. Digit sequence and PAGE02 through footer unchanged. Actual five primary checks rerun before individual gate/push. Existing M.A.W. holds remain. Independent counters unchanged: SE5/301, all-types240/301, Weapon240/287. Batch145OPEN5/5, Nochange2/5; closing checks pending. [Evidence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_02_185.md). This is the same dossier, not an added unit or a new batch.
+
 ## SE Appearance Fix — Batch145 unit5: Breathing Stone `C-IVδ-907`
 
 **What changed:** No change
