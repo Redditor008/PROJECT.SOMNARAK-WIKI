@@ -15,7 +15,7 @@
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — A single crystallized tear, smaller than a raindrop, suspended motionless above a sealed pedestal and glowing faint blue. It does not fall; it has never fallen. Salt-cold, it smells of cold rain — the first grief the city ever wept, frozen before it could land. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement** | Stationary — the crystal remains suspended above the pedestal; the pedestal and vault are its setting, not its body. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault — sealed |
 | **R.D. Comprehension Level** | 5 — Sovereign |
 
@@ -117,12 +117,20 @@
 | Field | Detail |
 |---|---|
 | **Form** | A single crystallized tear smaller than a raindrop, suspended above a sealed pedestal. It glows with faint blue light. |
-| **Position / movement** | Stationary — a structure or location. Posture and distance are logged because on First Tear neither has ever been assumed. |
+| **Position / movement** | Stationary — the crystal remains suspended above the pedestal; the pedestal and vault are its setting, not its body. Posture and distance are logged because on First Tear neither has ever been assumed. |
 | **Material / signature** | Cold salt crystal, faint blue, four centimetres above the pedestal, weighing what a tear weighs. There is no sound from it, no draught, no detectable field — the instruments read the room and find the room. Its whole signature is an absence, and the glow value against the standard lamp is the only figure it has ever given anybody. |
 | **Distinctive markers** | There is nothing to confuse it with. One crystallised tear, smaller than a raindrop, faint blue, four centimetres above a sealed pedestal, not falling. If something in this vault is falling, it is not this. |
 | **Identification** | Check the designation and the vault before entry. This vault holds two records of unknown origin and they are handled oppositely: one is kept cool by destroying what is written about it, and this one is kept known by never missing a night. |
 
 **Appearance protocol:** Record the glow value against the standard lamp, the height above the pedestal, and the time to the second. Nothing else about its appearance has ever varied: smaller than a raindrop, faint blue, motionless, not falling. Observers are not to describe what the sorrow feels like; that field was removed from the sheet in 4151 and is not to be reinstated.
+
+### The crystal and the origin account
+
+The Object-Lament body is the single small salt crystal, not a person forever weeping and not the pedestal or the whole vault. The lost person in the Tale is the source of the first grief; the person is not recorded inside the crystal. Sovereign coherence describes this sorrow's classification, not a requirement that the visible object become a giant. Its observed outline remains a faint-blue tear while the observers record height, light and time without touching it.
+
+The Tale reconstructs an earlier tear falling and proposes a descent from that first sorrow into rivers and the Weeping. Present vault observation records a suspended crystal that does not fall. An earlier origin account is not itself a current movement observation, and the succession chart is explicitly doctrine rather than an observed transfer between holdings. No described transition joins the reconstructed first drop to this pedestal, establishes the crystal's original dimensions, or turns the contemporary crystal into a river.
+
+The combat record's salt blade, forced fall and ocean release are not events established by the nightly series. They must not be used to illustrate an observed second body, a past vault flood or a reversible transformation. The record also retains a non-breaching classification against the Side Codex's Transform claim, and a widening influenced radius against reports of no detectable field. Those disagreements remain open: neither a larger body nor a harmless object can be certified from the convenient half of the record. The attributed equipment likewise does not establish that the crystal grew into a greatsword or was cut to make one; its local inventory account records no extraction.
 
 ## Origin
 - **Formation:** The Tear is believed to be the first sorrow ever felt on Mugenhan.
