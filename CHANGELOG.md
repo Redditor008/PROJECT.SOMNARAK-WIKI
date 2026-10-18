@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch149 opening — OPEN 0/5 under R-33
+
+Owner P authorizes149only. Fresh280pending/127lexical cue-candidates selected C-IIIγ-180 Owed, C-IIβ-330 Frozen Window, C-IIβ-565 Broken Well, C-IVω-001 The Maw, N-IIIγ-585 Floating Tree. Four matching lines each, ties by full designation; excludes equipment blocks, no substitutions or defect inference. Five minimum; three cumulative whole-dossier No change triggers5→7→10. Pending is not No change.
+
+Integrity Visual Live Check Rule requires full current primary/exact sources/history before editing and full final after actual checks; classification/manifestation/Tale/form/movement must work through behavior/combat/observations/interactions/equipment. Unsupported relationships remain held, not completed. Written-design review only: no generated artwork, rendered/live preview or deployment verification claimed. Previous148active batch archived without rewriting closure evidence. Individual short/careful predeclarations, gates/pushes and Commentary required.
+
+Counters unchanged: all-types245/30181.40% (56remain), Weapon245/28785.37% (42remain), SE12/3013.99% (289remain); ledger8changed4retained7held2blocked280pending. No duplicate equipment credit or retroactive body credit. Prior12not retrocertified underR33. PR14OPENdraft→NON-WIKIownermergeonly. Batch301blocked eight owner bodies/owner4+4; generate/validate before wiki copy. No150authorization.
+
 ## Owner rule — Integrity Visual Live Check Rule (R-33)
 
 Owner P authorizes Batch149, not150, and names the previous whole-dossier appearance/logical requirements [Integrity Visual Live Check Rule](REFERENCE_SOMNARAK_WIKI/RULES/R-33_INTEGRITY_VISUAL_LIVE_CHECK.md). Read complete current primaries and sources before edits and whole finals after checks. Trace Entity Type/Manifestation/Tale/body/movement through behavior, combat, interactions and equipment; unsupported relationships remain held with no SE completion. Separate written-design review from actual rendered/preview/published inspection. No artwork, browser or deployment PASS is implied by Markdown review. Rule cross-linked in the index, R-08, root owner rules and visual standards. No counter credit.

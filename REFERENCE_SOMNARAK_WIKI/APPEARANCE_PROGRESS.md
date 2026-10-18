@@ -158,3 +158,7 @@ Owner p authorized148only. Fresh285pending/132cue-candidates selected119/103/290
 All five primaries received limited supported repairs, but all five whole-file logical outcomes remain held; no completed entity appearance or duplicate equipment credit. No change0/5, so no5→7extension. Counters remain12/301SE,245/301all-types and245/287Weapon. Ledger8changed/4retained/7held/2blocked/280pending; prior12not retroactively certified. Current validation tools cannot establish narrative coherence.
 
 Batch149 is not authorized. Batch301 remains blocked on eight owner-provided bodies and owner4+4selection; generate/validate before wiki copy. PR14OPENdraft→NON-WIKI, ownermergeonly. Historical holds preserved; no artwork completion claimed.
+
+## Batch149 — OPEN 0/5
+
+Fresh owner P authorizes149only under [R-33 Integrity Visual Live Check Rule](RULES/R-33_INTEGRITY_VISUAL_LIVE_CHECK.md). Queue180/330/565/Maw001/585from280pending/127reading-cue candidates; all five remain pending, no completion credit. [Opening evidence](SE_APPEARANCE_REVIEWS/B149_OPEN.json). Written-design work, not rendered or live-preview verification. No150authorization.
