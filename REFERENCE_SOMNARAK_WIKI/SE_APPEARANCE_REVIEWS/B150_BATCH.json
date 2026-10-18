@@ -1,0 +1,94 @@
+{
+  "number": 150,
+  "status": "CLOSED",
+  "required": 5,
+  "queue": [
+    "N-IIβ-270",
+    "N-IVβ-019",
+    "O-IIIδ-011",
+    "O-IIγ-007",
+    "O-IVδ-895"
+  ],
+  "kind": "se-appearance",
+  "reviewed": {
+    "N-IIβ-270": {
+      "no_change": false,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_01_NEGLECT_LEARNED_TO_LISTEN.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not in scope"
+    },
+    "N-IVβ-019": {
+      "no_change": true,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_02_INHERITED_DEBT.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not in scope"
+    },
+    "O-IIIδ-011": {
+      "no_change": false,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_03_SCAR_WALKER.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not in scope"
+    },
+    "O-IIγ-007": {
+      "no_change": false,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_04_BRUME.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not in scope"
+    },
+    "O-IVδ-895": {
+      "no_change": false,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_05_SURVIVORS_BREATH.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not in scope"
+    }
+  },
+  "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_OPEN.json",
+  "logical_reading_required": true,
+  "integrity_rule": "REFERENCE_SOMNARAK_WIKI/RULES/R-33_INTEGRITY_VISUAL_LIVE_CHECK.md",
+  "closing_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_CLOSE.json"
+}

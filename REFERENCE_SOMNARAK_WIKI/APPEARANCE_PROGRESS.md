@@ -8,8 +8,8 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 
 | Workstream | Completed | Coverage | Remaining |
 |---|---:|---:|---:|
-| ALL M.A.W. Types Appearance per SE — source-review coverage | 245 / 301 | 81.40% | 56 / 301 |
-| ALL M.A.W.-W Appearance per SE — source-review coverage | 245 / 287 | 85.37% | 42 / 287 |
+| ALL M.A.W. Types Appearance per SE — source-review coverage | 246 / 301 | 81.73% | 55 / 301 |
+| ALL M.A.W.-W Appearance per SE — source-review coverage | 246 / 287 | 85.71% | 41 / 287 |
 | SE Appearance Fix — independent written-design pass | 12 / 301 | 3.99% | 289 / 301 |
 
 These are coverage counters, **not promises that every held discrepancy is repaired**. The first two retain their historical criteria and explicit source holds. The new counter starts at zero; old equipment reviews, general prose fixes, shape screening and the R-32 clarification are not backfilled as SE appearance completions.
@@ -174,7 +174,7 @@ Five complete before/source/final written-design reviews. Five primaries changed
 
 [Closing evidence](SE_APPEARANCE_REVIEWS/B149_CLOSE.json). Primary words 38,195→39,583 (+1,388), C-locale counts. Current counters: SE12/301=3.99%,289remaining (8changed/4retained/12held/2blocked/275pending); ALLTypes245/301=81.40%,56remaining; Weapon245/287=85.37%,42remaining. No equipment coverage increment or body-credit backfill. RuleR33 linked in governance. No rendered/browser/deployment/artwork inspection. Batch150 requires fresh P; no merge. Batch301 still needs eight owner bodies/4+4/generate-validate-before-copy.
 
-## Batch150 — OPEN 0/5 under Integrity Visual Live Check Rule
+## Batch150 — CLOSED 5/5 under Integrity Visual Live Check Rule
 
 Owner p authorizes150only. Fresh275pending/121lexical cue candidates selected Neglect Learned to Listen270 → Inherited Debt019 → Scar Walker011 → Brume007 → Survivors’ Breath895, four matching lines each, ties by full designation. Equipment excluded from screen; cue count is a reading order, not a defect or redesign verdict. No substitutions.
 
@@ -191,3 +191,7 @@ Batch150 unit3: **Scar Walker `O-IIIδ-011` — held**. [Evidence](SE_APPEARANCE
 Batch150 unit4: **Brume `O-IIγ-007` — held**. [Evidence](SE_APPEARANCE_REVIEWS/B150_04_BRUME.md). Speed N/A now explains no creaturelocomotionstat andsurveyedmobilePlace edge/bearing/externalclock, not fixedobject. Added travellingPlace note: bankitself, sorrow-not-hiddennomadbodies, silhouettesnotbodilyproof, soundnotmouth, extent/density/personneleffects distinct, noobservedcreatureTransform, andkitoutlines/lightnotfog anatomy. Explicitlyholds incompatiblepace/rate andthinning/dissipation withoutinventedstates. Five actual checks PASS and full final read complete; individual gate/push follows. Current batch OPEN4/5; No change1/4.
 
 Batch150 unit5: **Survivors’ Breath `O-IVδ-895` — held**. [Evidence](SE_APPEARANCE_REVIEWS/B150_05_SURVIVORS_BREATH.md). Identification Position/movement records coldairtrail/temperature/drift/roomscrossed andexplicitnobodilyposture. New sigh/trail/people note connects collectivedetachedbreath, noindividualspeaker/face/lungs, conditionalcoldvisibilitynotdormancy, separatepersonnelroute/ownbreathing/lateeffects, activationthickening/environmentnotbody, and extractedawl/Veil/tokennot sourceanatomy. Huntdiscrepancy explicitlyheld. Five actual checks PASS and full final read complete; individual gate/push follows. Current batch OPEN5/5; No change1/5.
+
+## Batch150 final closure
+
+CLOSED5/5; No change1/5, no extension. All5HELD, four limited repairs; no completedSE increment. Survivors’ Breath fresh exactequipment review adds+1each source-coveragecounter, otherfour+0. SE12/301=3.99%,289remaining; ALLTypes246/301=81.73%,55remaining; Weapon246/287=85.71%,41remaining. Body statuses8changed/4retained/17held/2blocked/270pending. Fresh25checks/10ledgertestsPASS; couples0/301; comparator301/287sets/861pairs. Historical unit snapshots above are not current totals. [Complete closure](SE_APPEARANCE_REVIEWS/B150_CLOSE.md), [raw evidence](SE_APPEARANCE_REVIEWS/B150_CLOSE.json). No151 or merge; Batch301owner-bodyblock unchanged.
