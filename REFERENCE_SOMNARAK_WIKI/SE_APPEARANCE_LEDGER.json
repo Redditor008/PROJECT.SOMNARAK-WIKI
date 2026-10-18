@@ -42,6 +42,20 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVδ-103": {
+        "no_change": false,
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_02_FROZEN_VEIL.md",
+        "whole_before_reread": true,
+        "whole_final_reread": true,
+        "logical_outcome": "held",
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_OPEN.json",
@@ -637,8 +651,33 @@
     {
       "designation": "C-IVδ-103",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Replaced indiscriminate hunting with the recorded unhurried following of the nearest person and accompanying emotional absence. Connected the humanoid shell, collective suppressed feeling, genuine-tear cracking and arranged-feeling thickening without supplying a former human or literal-water anatomy. Made the movement, combat, Canto-body and destroyed-versus-active-source conflicts explicit rather than merging them into invented stages.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_02_FROZEN_VEIL.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-A__SIDE_CODEX_The_Frozen_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-B__MAW-W_The_Cold_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-C__MAW-S_The_Cold_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-D__MAW-G_The_Cold_Heart.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "SOMNARAK-WORLD/Story_Cantos/CANTO_04_THE_SUB_ZERO_RIDGE_HA_EUN.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-106",

@@ -126,6 +126,16 @@
 
 **Appearance protocol:** Record the shell thickness in millimetres at the shoulder and the sternum, the clarity of the translucency, and the ambient cold at the line. Observers consistently describe it as beautiful; that word is permitted in the log and is the only subjective term that is, because its absence from a sheet has twice indicated an observer in difficulty.
 
+### Shell, sorrow and recorded movement
+
+The city's Veil is the sorrow-regulating system described in the Tale; this entity is the accumulated isolation that system helped produce, given a person-shaped presence. No individual citizen is recorded as becoming this body. Its humanoid outline makes distance stand in front of an observer, but does not make it a recovered person, an ordinary ice sculpture or the wearable Cold Veil Suit. The Side Codex explicitly leaves the system's relationship to the entity's self-awareness unresolved.
+
+The translucent shell is frozen feeling. Shoulder and sternum readings describe its changing surface, not proof of frozen water or a temperature that the instruments fail to measure. Genuine feeling cracks that surface; arranged feeling thickens it. The field's drain is a loss of emotional meaning while facts remain available, so the figure can look clearer while an observer's capacity to care disappears. A crack and an outward pressure effect are not evidence that an inner human has been released or that the whole entity has been destroyed.
+
+The movement record is not settled by the body's humanoid shape. Chamber observations describe perimeter walks and the Escape account describes unhurried following, whereas Operational Notes state that it has not moved since placement. The Tale's approach toward warmth and the breach table's nearest-person selection also lack a stated common selection rule. Keep those limits visible rather than inventing a stationary, walking and hunting sequence. Likewise, the ice curtain, outward frost and launched spear in the combat table are not explained by the nonphysical-cold account as either literal water or purely metaphorical weapons.
+
+The Record marks the entity destroyed and identifies the pre-Dawn logs as earlier evidence. That permits an earlier observed form; it does not authorize a surviving current body. The Dawn-dated Side Codex's active holding and extraction claims still need reconciliation with that fate. Canto IV records a towering ice-curtain silhouette, glacial heart, tendrils and measurable thermal destruction; no source here supplies the transition from the chamber's frozen-feeling humanoid to that anatomy. Those accounts remain distinct, not a newly certified breach form.
+
 ## Origin
 - **Formation:** The Veil crystallized from the city's collective emotional distance.
 - **The Sorrow:** The isolation of people who cannot connect, feel warmth, or risk genuine attachment.
@@ -156,7 +166,7 @@ The table is read against the shell rather than against the gauge, because on th
 **Reading the response:** A falling reading means somebody in the chamber wept for a reason of their own. Stability under Viderehan and Pugnahan is expected and is not a result. The reading rises on anything arranged: exercises, prompts, a colleague encouraged to talk about a loss, or a worker rostered here because the office knew they were grieving.
 ## Breach Behavior
 
-> *"The Frozen Veil has broken free. Hunts personnel indiscriminately."*
+> *"The Frozen Veil has left its chamber. It follows the nearest person at an unhurried walk; emotional absence travels with it."*
 
 | Field | Detail |
 |---|---|
