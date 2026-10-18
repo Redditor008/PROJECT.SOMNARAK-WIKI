@@ -121,6 +121,20 @@
 | **Distinctive markers** | Consistent per-voice offset, 212 distinguishable speakers, and four portraits with faces among the blanks. |
 | **Identification** | If your own voice comes back from three metres to your left all afternoon, you are in it. Nothing else in Zone B does that. |
 
+### Appearance States
+
+| Field | Memorial before the register was lost | Current gallery after the documented restorations |
+|---|---|---|
+| **Form** | Named oil portraits commissioned to remember the district's dead; the Tale describes images whose sitters were still known. | The same fixed hall holds blank oval faces, except for the four portraits whose names were recovered from documents. |
+| **Material / signature** | Painted portraits in frames, hung for the living to remember individual lives. | Cracked, salt-damp paint; overlapping whispers at the empty frames; a measurable hum in the boards, weaker at the portraits with faces. |
+| **Movement** | A memorial walked by visitors, not a travelling body. | The frames remain in the inventory positions. Acoustic coverage can widen through connected rooms without relocating the hall. |
+| **Transition** | As the register and living knowledge were lost, the faces left the paintings and the hall began returning speech from the wrong place. | A name recovered from a surviving document is inscribed on its frame. The face returns within the week and has not faded again in the recorded cases. |
+| **Identification** | Individual people commemorated by separate portraits. | The same distinguishable voices and frames; restoration does not replace an unknown life with a guessed biography. |
+
+**State change:** The historical loss of faces and the later documentary restorations are not a breach transformation. A returned face establishes neither the accuracy of its likeness nor permission to identify another portrait by resemblance. The current inventory keeps the restored exceptions visible rather than describing every frame as permanently blank.
+
+**Retained mechanic:** Listen without answering or supplying missing details. A name goes up only when a document supports it; the hall's apparent familiarity does not provide that authority.
+
 **Appearance protocol:** Photograph each frame against the inventory plate, note the condition of the paint, and record whether any face is present — four are, and the dates on which they appeared are the most important dates in this file. Read the contact gauge in the boards. Count the distinguishable voices over a fixed ten minutes and log the offset of each against the listener's position. Record no opinion about whose voice it is.
 
 ## Origin

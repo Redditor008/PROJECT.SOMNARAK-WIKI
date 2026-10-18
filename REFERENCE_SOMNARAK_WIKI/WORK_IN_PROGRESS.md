@@ -1,5 +1,27 @@
 # Work In Progress
 
+## SE Appearance Fix — Batch145 unit2: Whispering Gallery `C-IIβ-185`
+
+**What changed:** The Appearance States block now connects the named memorial, subsequent loss of faces, and current four documentary restorations. The hall stays fixed while acoustic coverage can widen.
+
+**Shape / chronology:** Architectural/place body with painted human images, not a crowd of autonomous humanoids. Primary Origin and the final Watch subsection explicitly supply both transitions; no reversible cycle or breach transformation is invented. Returned likenesses remain unverifiable.
+
+**Evidence and holds:** The full primary and185A–D/Master entries/history were read in Batch144. Primary and all four sources verified byte-identical to its close fd33fdbe before the insertion. SideA reread now. Complete464-line final read in order1–240/241–464 after five checks. Exact prior-credit history remains Batch144unit4b1035cc; no credit repeated. SideA says portraits never provide complete faces; preserve its categorical wording rather than date it as an earlier edition without evidence. The primary expressly records documentary exceptions; whispering alone does not establish likeness. Equipment blue paint versus crystal, Medium art versus Short, Accessory versus Tail, older MasterZoneC/Flerehan and all Batch144holds remain unresolved. No source file rewritten.
+
+**Commentary:** The restored faces make the room more troubling than an eternally blank gallery: a little progress is real, but it does not prove the portraits look right. Keeping the memorial and the current inventory separate lets the Tale retain its beauty without making the current facelessness a mistake.
+
+**Validation:** 1short/0careful predeclared; whole final reread before gate; five checks PASS; word count 7,415→7,713 (+298); original digit sequence and equipment-through-end unchanged. [Individual evidence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_02_185.md). No new illustrations or duplicate legacy credit.
+
+One individually completed SE appearance review; the batch remains open until its required rung is complete.
+
+| Dossier | Change | Words | Checks | Credit |
+|---|---|---:|---|---|
+| [Whispering_Gallery](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-185_Whispering_Gallery_%EC%86%8D%EC%82%AD%EC%9D%B4%EB%8A%94_%EA%B0%A4%EB%9F%AC%EB%A6%AC.md "SE-C-IIβ-185_Whispering_Gallery_속삭이는_갤러리.md") `C-IIβ-185` | State/chronology repair | 7,415→7,713 | 5/5 PASS | SE+1; old+0 |
+
+[[SE-C-IIβ-185_Whispering_Gallery_속삭이는_갤러리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-185_Whispering_Gallery_%EC%86%8D%EC%82%AD%EC%9D%B4%EB%8A%94_%EA%B0%A4%EB%9F%AC%EB%A6%AC.md "SE-C-IIβ-185_Whispering_Gallery_속삭이는_갤러리.md")]
+
+**Counters:** ALL M.A.W. Types Appearance per SE — source-review coverage240/301=79.73%,61/301remaining. ALL M.A.W.-W Appearance per SE — source-review coverage240/287=83.62%,47/287remaining. SE Appearance Fix2/301=0.66%,299/301remaining. Historical equipment coverage includes holds, not finished redraws. Batch145OPEN2/5; Nochange0/2. Five minimum; three cumulativeNochange triggers5→7→10. NoBatch146 or lower close. Current P resumes145 only. The written-shape fix phase includes supported states and authorized redesign, not automatic human-body assumptions. A couple is two dossiers over the prose-overlap threshold, not an equipment pair. Brancharena/954853ad-project-somnarak-wiki; PR14ownermergeonly; Batch301blocked8bodies/4+4generatevalidatebeforecopy. Individual gate/push follows this evidence entry.
+
 ## SE Appearance Fix — Batch145 unit1: Animus `O-Iα-108`
 
 **What changed:** Appearance now distinguishes the usual abstract red heat-line from the brief roughly human outline witnessed with the Angry Maiden. Its presence, measurements, movement and uncertain repeatability are kept separate. The breach note distinguishes that outline from the recorded local Transform environment; neither establishes a former human body.

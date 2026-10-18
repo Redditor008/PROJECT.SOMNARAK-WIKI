@@ -350,8 +350,24 @@
     {
       "designation": "C-IIβ-185",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-185_Whispering_Gallery_속삭이는_갤러리.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "changed",
+      "note": "The Appearance States block now connects the named memorial, subsequent loss of faces, and current four documentary restorations. The hall stays fixed while acoustic coverage can widen.",
+      "outcome": "source-supported repair",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_02_185.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/185_Whispering_Gallery/SE-185-A__SIDE_CODEX_The_Whispering_Gallery.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/185_Whispering_Gallery/SE-185-B__MAW-W_The_Gallery_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/185_Whispering_Gallery/SE-185-C__MAW-S_The_Gallery_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/185_Whispering_Gallery/SE-185-D__MAW-G_The_Gallery_Stone.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIβ-210",
