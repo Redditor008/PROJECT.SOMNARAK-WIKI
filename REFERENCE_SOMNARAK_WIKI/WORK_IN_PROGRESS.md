@@ -1,5 +1,21 @@
 # Work In Progress
 
+## Batch149 unit1 — Owed `C-IIIγ-180`
+
+[[SE-C-IIIγ-180_Owed_빚의_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-180_Owed_%EB%B9%9A%EC%9D%98_%EB%B2%BD.md "SE-C-IIIγ-180_Owed_빚의_벽.md")]
+
+**Change:** Replaced unsupported device Movement with fixed location and length/height growth found between watches. Added barrier linkage tying collective sorrow/Tale to current nonhuman Place, transparent blocks remaining, echo-derived portable equipment versus intact wall, pressure route versus physical highway. Explicitly retained collapse/budding/history conflicts as unresolved.
+
+**Before:** Place-Weight/Weight/ObjectPlace is the fixed crystallized barrier made from collective unpaid obligations, not a Subject or a brick machine. Appearance already distinguishes growth found after a watch from locomotion and transparency from removal; SECCMovement calls it a device. Expansion and WardenRecord keep dimensions growing without movement. CombatForeclosure/TotalDefault remove blocks/wholeface against indestructibility and nothing-ever-comes-away. Original origin timing conflicts with Tale; equipment mobility cannot explain either.
+
+**After full final reread:** Read all492lines after actual checks: headers/parameters/combat phases and every attack, full Appearance and new note, Origin/Work/expansion, entire equipment/Use/Field sections, observation/story/final/flavor, all pairings, Tale/Testimony/Record and entire WardenRecord including survey, highway and prohibition to Trivia/footer. Fixed site and growth now agree locally. Nothing converts pressure passage into demolished masonry or makes origin centuries and within-year emergence compatible. Whole-document outcomeHELD.
+
+**Holds:** Combat falling block/cascade/wound against no injury/no block loss/indestructibility; Side visible budding versus primary no witnessed appearance; within-year origin versus centuries Tale. Recorded-obligation trigger and Story5perfect ledger correspondence versus unrecorded majority/weak ledger correlation. No escalation wording versus expansion/Transform and75%trigger versus65%ultimate. Two-times faster settling claim with no settling in4years unchanged. Ram12–20/Slow1/Room5 versus7–12/Fast3/Medium3Skewer, ledger-maul and MasterPolearm/Long archetype no mode supplied; Hauberk/greaves versus shield harness, warm Hansteel charm versus black block, four known-household bestowals versus source generic successfulwork, unnamed+2and CSVAccessory5%versusHead4% and Side pressure18–41/CLStudied versusprimary16–37/Basic retained. Material source surface residue versus Side echo remains not normalized; set passage does not lift highway order.
+
+**Commentary:** The strongest image is a clear block that still blocks the road: acknowledgment need not repair access. The legal prohibition makes the institution repeat the wall in another medium. A spectacular collapse would dilute that persistence unless its relationship were genuinely supported.
+
+Full original/final and exactsources/history reading, five actual checks and fingerprints in `B149_01_OWED.md`. Outcomeheld; SE+0/equipment+0. Batch128unit5aed255ba already credited all-types; B82unit1b90df653 already credited exactWeapon pair. C-locale words7,440→7,674. Written design, no rendered/live verification. OPEN1/5; No change0/1; pending≠No change. No150or merge.
+
 ## Batch149 opening — OPEN 0/5 under R-33
 
 Owner P authorizes149only. Fresh280pending/127lexical cue-candidates selected C-IIIγ-180 Owed, C-IIβ-330 Frozen Window, C-IIβ-565 Broken Well, C-IVω-001 The Maw, N-IIIγ-585 Floating Tree. Four matching lines each, ties by full designation; excludes equipment blocks, no substitutions or defect inference. Five minimum; three cumulative whole-dossier No change triggers5→7→10. Pending is not No change.

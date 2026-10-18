@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Non-Organic — A massive wall of dark, dense crystallized debt blocking a thoroughfare, its blocks cold and lead-heavy. New blocks bud whenever a fresh obligation is recorded, so the wall is always growing. It smells of wet stone and iron; pressed to it, you can hear ledgers being turned. |
-| **Movement** | Stationary — a device (internal parts may move). |
+| **Movement** | Stationary — fixed across the thoroughfare; the wall gains length and height rather than travelling, with growth found between watches rather than witnessed construction. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -122,6 +122,14 @@
 | **Identification** | Confirm before work: designation C-IIIγ-180 `[WP]`, Fragment (III) coherence, Major (γ) potency, Place-Weight manifestation, SECTOR-C-01. The Row has three boundary walls of ordinary construction and none of them carries names. |
 
 **Appearance protocol:** Measure both ends against the fixed marks, the height at the three measured courses, and the inscription's end; count transparent blocks on the surveyed face; note the page-turning sound and any change in it. Nothing here is *weird* or *unsettling*; it is a growing wall of crystallised obligation across a road, and those are the fields.
+
+### The barrier and what remains in it
+
+Place-Weight is the obstruction itself, not a person carrying a debt or an ordinary wall built by the Collectors. Weight is both its recorded element and the burden felt at the face. The Tale gives accumulated obligations a spatial consequence: what people could not discharge now stands between them and the road. Its fixed position does not mean fixed dimensions. The measured ends and courses advance without a recorded journey, and acknowledgment makes a block transparent without removing it or opening a passage through the masonry.
+
+The portable Wall-Ram, harness and Shard do not establish detachable source blocks. The Side Codex extracts from a ledger echo after leaving the block intact; its temporary passage is through pressure, not evidence that the physical highway has reopened. The diversion and prohibition order remain separate obstacles to access.
+
+That account does not reconcile the combat table's falling blocks and demolished face with the repeated record that nothing has come away and demolition leaves it unmarked. Nor does it establish that growth described as visible in the Side Codex was witnessed by the primary's watch. The Tale's slow emergence over centuries and the abandoned-reconciliation account's appearance within a year remain different formation accounts; no alternate collapsible body or newly dated transition is supplied here.
 
 ## Origin
 - **Formation:** The Wall formed from unpaid obligations accumulated across Somnarak.
