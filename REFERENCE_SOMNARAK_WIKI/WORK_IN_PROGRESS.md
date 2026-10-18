@@ -1,5 +1,25 @@
 # Work In Progress
 
+## Batch151 unit1 — Ember Phoenix `O-IVδ-190`
+
+[[SE-O-IVδ-190_Ember_Phoenix_불사조](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-190_Ember_Phoenix_%EB%B6%88%EC%82%AC%EC%A1%B0.md "SE-O-IVδ-190_Ember_Phoenix_불사조.md")]
+
+**Change:** Restored the missing Observation Log heading between the complete equipment source-review note and the existing comprehension/observation records. No body, cycle, value, equipment or Tale prose changed.
+
+**Source evidence:** Complete exact1019A–D4/4 read; AexplicitO-IVδ-190GS confirmsidentity, not RageStatueSE190. Mastertable707–709/detail667–6698228–8260; completeTale22312477–12533; Entity592; CSV238–241; archetypes133/419; disposition262. WIPBatch1024186–4205 and primary embedded fullsetreview read; exactpair1019B/MAWW101901 previously counted3deaba16. Gitpath10cd20a. Sources unchanged.
+
+**Full logical before/after:** Complete original454lines read1–240/241–454. Subject-Body/Mixed bird, crimsonflame/blackash, beatingcore/charredmetal/fusedgrowth; wings/walk/crawl tied to ember→ignition→fullwing→collapse→ash→return. Human survivor→compulsory survival fire in Tale is supported contrast, not requirement for human body. Slow early movement versus shortening return intervals are different measures. Missing Observation Log heading makes actual observations fall under equipment.
+
+Complete456line final reread1–240/241–456 after actual verify/tpl/sectfile/wikistd/sect PASS. All classification, combat/actions, appearance/cycle, origin, Work, breach, kit/costs, restored observations, fiveStoryentries, final/flavor, threepairings, Tale/Testimony/Record/Addendum, entireApex(includingcount/yield/cap), Trivia/footer read in order. Heading repaired; actual body design retained. Whole logical outcome HELD.
+
+**Holds:** Story5 explicitly competing abandonedwomanorigin versus compulsorysurvivorOrigin/anthology; no invented combinedbiography. Appearance fire-notfire/noinstrumentheat versus Apexrealfire/testsinheat. Open-country no-cell/mobileperimeter versus occupiedchamber/datedfloorash/darkgallery without chronology. Ashallreturns/leavesnothing versus postreturncollectableash/sweepfiner/bootremoval; weightunwatchedclaim versus noobservationdarkperiod. Supressmovementauthorized versuspinningraisesgauge. Nohunt versusFirstTargetnearest/match. Worklowersintervaldelays versusintervalonlyevershortened; attendanceindependence notnoWorkeffect. 1/90%/65%and40% unchanged. Twofoldcycleintervaldefinitions collapse-to-spark versusbetween-deaths not crosswalked; no rate inference from floorcount. Offices saidnamedbutnotactuallynamed. KitCulverin vsFang/stonecleaver, ClosevsMedium; Suitlivingchitinvsironharness; Stigmaorb/coronet vsironcharm/Tail andCSVAccessory5%vs4%; bodybeatingheartnotliteralharvestcore orissuedPlate. Genericyears/recollectioncost versus actualpieces notnormalized. All held, no SEcompletion.
+
+**Commentary:** The bird’s magnificent return works because it is the failure state, not a triumph. I find the attendance cap stronger than another weapon: it asks the institution to decline something useful, and makes the watch pay for that restraint.
+
+Outcome **held**; SE+0, equipment+0 (each independent coverage counter). Batch102 already counted both full-equipment and exact1019Weapon dispositions. No new equipment credit. Independent new SE review remainsheld.
+
+Five actual technical checks PASS; complete final reread. C-locale words 8,003→8,006. Evidence `B151_01_EMBER_PHOENIX.md`. Written design only, no rendered/live inspection. Batch151 OPEN1/5, No change0/1. No152 or merge.
+
 ## Batch151 — OPEN 0/5
 
 Owner p authorizes Batch151 only under R-33. Fresh270pending/117cue candidates; fixed queue Ember Phoenix190 → Heirloom909 → Hollow Saint081 → Burning Root558 → Grieving Maiden041. Signals4/4/3/3/3, ties by full designation; equipment excluded. Reading order, not defect verdict. Full original, exact sources/history and complete final rereading after five actual checks; per-unit Commentary and validated push. Three cumulative No change trigger5→7→10; no forced changes. Counters SE12/301, ALLTypes246/301, Weapon246/287 unchanged. No152 or merge. Batch301owner eight bodies/4+4/generate-validate-before-copy remains blocked. Evidence B151_OPEN.json.
