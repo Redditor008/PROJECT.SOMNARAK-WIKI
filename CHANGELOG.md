@@ -8,6 +8,26 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch146 unit3 — Black River `C-Vγ-225`
+
+**What changed:** One careful Maul opposed-face/downstream construction addition; separate short flavor repair to lead-cold liquid and line-based interval, retaining historical warm-instrument testimony. Words9,026→9,053(+27).
+
+**Source review and holds:** Whole486lineprimary before/final; exact225A–Dwhole; fullMaster373–375/Tale125, Entity492, registry506–509, archetype150/art324/disposition432; exactpairhistory searched. Maul discharge/aging, Mantle conditional banked-passage, Stone versus DrownedCoin cost/geometry and Head4% versus CSVAccessory5%, Room/Medium range, oldMasterδ/5 versusγ/4 and operational cycle vocabulary held. Historical noncontact warmth not silently erased. Negative retained: measured Mawstrength and grief-line damage.
+
+**Commentary:** The bankless current already supplies an Abstract/Place form, without a human face. Through-flow gives the Maul a useful physical identity. The ordinance leaving people unmourned makes the river more troubling than a boss fight would.
+
+**Validation / credit:** Full final reread; actual5checks PASS; original digits unchanged; within equipment, only the predeclared Appearance addition changed; statistics retained. Whole exact225history searched in WIP/CHANGELOG; only pending shortlist, prior prose/artwork not independent review credit. Git10cd20a/8f7138f inherited. SE credit+1, all-types+1, uniqueWeapon+1. [Evidence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_03_BLACK_RIVER.md). Individual gate/push follows, separate from reading/edit/check steps.
+
+Reviewed dossier:
+
+| Dossier | Result | Checks | Credit |
+|---|---|---|---|
+| [Black_River](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B3-225_Black_River_%EC%8A%AC%ED%94%94%EC%9D%98_%EA%B0%95.md "SE-C-Vγ-225_Black_River_슬픔의_강.md") `C-Vγ-225` | Source-supported repair | 5/5 PASS | all+1/W+1/SE+1 |
+
+[[SE-C-Vγ-225_Black_River_슬픔의_강](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B3-225_Black_River_%EC%8A%AC%ED%94%94%EC%9D%98_%EA%B0%95.md "SE-C-Vγ-225_Black_River_슬픔의_강.md")]
+
+**Live counters:** ALL M.A.W. Types Appearance per SE — source-review coverage243/301=80.73%,58/301remain. ALL M.A.W.-W Appearance per SE — source-review coverage243/287=84.67%,44/287remain. SE Appearance Fix — independent written-design pass8/301=2.66%,293/301remain. Equipment coverage includes holds, not resolved artwork; SE credit never follows automatically. Batch146OPEN3/5, Nochange0/3, five minimum and three-Nochange5→7→10. Pending is not Nochange. Fix phase is source-supported written consistency/shape work, not an artwork census; a couple is a dossier-prose overlap pair, not an equipment pair. Corpus290Sorrow+11Unknown, non-SEBook excluded, blocked025/062not silently worked. No147. PR14OPENdraft→NON-WIKI, ownermergeonly. Batch301blocked8bodies/4+4generatevalidatebeforecopy.
+
 ## Batch146 unit2 — The Happy Mask `C-IIβ-051`
 
 **What changed:** Joy Lens gains sourceB-supported convex disc, short black handle, thumb rest and tether ring. The mask stays tray-bound rather than executing an invented violent exit. One careful/one short change, separately applied; words7,520→7,569(+49).

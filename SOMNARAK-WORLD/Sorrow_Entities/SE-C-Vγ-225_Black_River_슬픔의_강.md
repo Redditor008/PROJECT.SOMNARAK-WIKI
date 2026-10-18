@@ -187,7 +187,7 @@ There is no escalation pattern here and this section exists to say what replaces
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, matte, bank-cold, and heavier in the hand than its size accounts for; the head quivers when it is raised, the way a line does when the current takes it.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte, bank-cold, and heavier in the hand than its size accounts for; the head quivers when it is raised, the way a line does when the current takes it. Weight passes through opposing faces of the head rather than collecting in a reservoir; its quiver points downstream.
 
 **Damage:** Weight 7–12
 **Speed:** 3 (Fast)
@@ -304,7 +304,7 @@ The river runs under the city and does not rise, fall, or answer to weather; it 
 
 ## 감각 묘사 (Flavor Text)
 
-You descend beneath the Alpha Tree and hear the River with your bones. The liquid is black, warm, and slow. Touch it and every goodbye in Somnarak moves through your hand. The River does not ask where sorrow came from. It carries everything.
+You descend beneath the Alpha Tree and hear the River with your bones. The liquid is black, lead-cold, and slow. Stand the interval on the line and the grief of strangers arrives whole, belonging to people you have never met. The River does not ask where sorrow came from. It carries everything.
 
 
 

@@ -8,9 +8,9 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 
 | Workstream | Completed | Coverage | Remaining |
 |---|---:|---:|---:|
-| ALL M.A.W. Types Appearance per SE — source-review coverage | 242 / 301 | 80.40% | 59 / 301 |
-| ALL M.A.W.-W Appearance per SE — source-review coverage | 242 / 287 | 84.32% | 45 / 287 |
-| SE Appearance Fix — independent written-design pass | 7 / 301 | 2.33% | 294 / 301 |
+| ALL M.A.W. Types Appearance per SE — source-review coverage | 243 / 301 | 80.73% | 58 / 301 |
+| ALL M.A.W.-W Appearance per SE — source-review coverage | 243 / 287 | 84.67% | 44 / 287 |
+| SE Appearance Fix — independent written-design pass | 8 / 301 | 2.66% | 293 / 301 |
 
 These are coverage counters, **not promises that every held discrepancy is repaired**. The first two retain their historical criteria and explicit source holds. The new counter starts at zero; old equipment reviews, general prose fixes, shape screening and the R-32 clarification are not backfilled as SE appearance completions.
 
@@ -94,3 +94,7 @@ One short movement repair: the header now preserves upright/flowing wax forms an
 ### Batch146 unit2 — `C-IIβ-051`
 
 Joy Lens gains sourceB-supported convex disc, short black handle, thumb rest and tether ring. The mask stays tray-bound rather than executing an invented violent exit. One careful/one short change, separately applied; words7,520→7,569(+49). [Individual evidence](SE_APPEARANCE_REVIEWS/B146_02_HAPPY_MASK.md). Current batch OPEN2/5; Nochange0/2. Current totals all-types242/301, Weapon242/287, SE7/301; previous snapshots above are historical.
+
+### Batch146 unit3 — `C-Vγ-225`
+
+One careful Maul opposed-face/downstream construction addition; separate short flavor repair to lead-cold liquid and line-based interval, retaining historical warm-instrument testimony. Words9,026→9,053(+27). [Individual evidence](SE_APPEARANCE_REVIEWS/B146_03_BLACK_RIVER.md). Current batch OPEN3/5; Nochange0/3. Current totals all-types243/301, Weapon243/287, SE8/301; previous snapshots above are historical.

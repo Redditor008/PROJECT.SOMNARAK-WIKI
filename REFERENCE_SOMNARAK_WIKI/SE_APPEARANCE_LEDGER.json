@@ -52,6 +52,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Vγ-225": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_03_BLACK_RIVER.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -998,8 +1010,24 @@
     {
       "designation": "C-Vγ-225",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vγ-225_Black_River_슬픔의_강.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "changed",
+      "note": "One careful Maul opposed-face/downstream construction addition; separate short flavor repair to lead-cold liquid and line-based interval, retaining historical warm-instrument testimony. Words9,026→9,053(+27).",
+      "outcome": "source-supported repair",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_03_BLACK_RIVER.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-225-A__SIDE_CODEX_Black_River.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-225-B__MAW-W_The_River_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-225-C__MAW-S_The_River_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-225-D__MAW-G_The_River_Stone.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Vγ-260",
@@ -2012,6 +2040,14 @@
       "batch": 146,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_02_HAPPY_MASK.md",
       "history_proof": "Batch144explicitpending; exact051pair/full-designation history search found no completed independent source review. Priorprose/artwork not grandfathered; pathhistory10cd20a.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "C-Vγ-225",
+      "batch": 146,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B146_03_BLACK_RIVER.md",
+      "history_proof": "Whole exact225history searched in WIP/CHANGELOG; only pending shortlist, prior prose/artwork not independent review credit. Git10cd20a/8f7138f inherited.",
       "all_types_credit": true,
       "weapon_credit": true
     }
