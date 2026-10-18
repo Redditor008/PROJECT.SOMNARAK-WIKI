@@ -750,8 +750,24 @@
     {
       "designation": "C-IVδ-907",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "retained",
+      "note": "No change",
+      "outcome": "retained design",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_05_907.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/907_Breathing_Stone/SE-907-A__SIDE_CODEX_Breathing_Stone.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/907_Breathing_Stone/SE-907-B__MAW-W_Breathing_Stone_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/907_Breathing_Stone/SE-907-C__MAW-S_Breathing_Stone_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/907_Breathing_Stone/SE-907-D__MAW-G_Breathing_Stone_s_Token.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-909",

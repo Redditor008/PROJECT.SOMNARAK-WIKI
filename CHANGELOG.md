@@ -8,6 +8,28 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## SE Appearance Fix — Batch145 unit5: Breathing Stone `C-IVδ-907`
+
+**What changed:** No change
+
+**Shape / chronology:** Retained warm pale flesh integrated with corridor brick and dark Han veins, fixed structurally while its affected surface extends along the wall run. The ordinary Appearance already describes expansion, and the breach record already excludes floor/doorway crossing. No human or walking body, separate creature, or fabricated earlier human stage. Its unidentified underlying nature is an intentional observation limit, not a missing silhouette.
+
+**Evidence and holds:** Complete primary reread400lines in order1–205/206–400, unchanged final text. All four exact907A–D bytes verified identical to fully read Batch144 sources atfd33fdbe; current SideA reread, hashes emitted and primary matched against same close. Prior ba859ec path history checked. Registry987–990/archetype360/disposition331 identity matched. MasterEntity explicitly lists907 as awaiting an index row; no exact907 MasterMAW/Tale match, so no adjacent-number substitution. No claim of newly rereading unchanged B–D; reuse of earlier full review with exact parity is explicit. Slab artwork/Long versus steelblade/Short, token steel versus crystal, Head versus genericAccessory, suit/bearer cost and equipment formation questions from Batch144 remain held. Unknown formation in A remains unknown, not a reason to fabricate an earlier form. Transformheader versus localExpansion describes existing header/local scopes without introducing a new breach body. Duration layers and passagecost versus stoppressure remain recorded rather than normalised.
+
+**Commentary:** The strongest visual choice is that the body belongs to the building. Letting it extend along a wall instead of walk keeps the horror in an ordinary route that everybody must use—and makes the institution’s refusal to reroute matter.
+
+**Validation:** 0short/0careful predeclared; whole final reread before gate; five checks PASS; word count 6,491→6,491 (+0); original digit sequence and equipment-through-end unchanged. [Individual evidence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_05_907.md). No new illustrations or duplicate legacy credit.
+
+One individually completed SE appearance review; the batch remains open until its required rung is complete.
+
+| Dossier | Change | Words | Checks | Credit |
+|---|---|---:|---|---|
+| [Breathing_Stone](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-907_Breathing_Stone_%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94_%EB%B2%BD.md "SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md") `C-IVδ-907` | No change | 6,491→6,491 | 5/5 PASS | SE+1; old+0 |
+
+[[SE-C-IVδ-907_Breathing_Stone_살아있는_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-907_Breathing_Stone_%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94_%EB%B2%BD.md "SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md")]
+
+**Counters:** ALL M.A.W. Types Appearance per SE — source-review coverage240/301=79.73%,61/301remaining. ALL M.A.W.-W Appearance per SE — source-review coverage240/287=83.62%,47/287remaining. SE Appearance Fix5/301=1.66%,296/301remaining. Historical equipment coverage includes holds, not finished redraws. Batch145OPEN5/5; Nochange2/5. Five minimum; three cumulativeNochange triggers5→7→10. NoBatch146 or lower close. Current P resumes145 only. The written-shape fix phase includes supported states and authorized redesign, not automatic human-body assumptions. A couple is two dossiers over the prose-overlap threshold, not an equipment pair. Brancharena/954853ad-project-somnarak-wiki; PR14ownermergeonly; Batch301blocked8bodies/4+4generatevalidatebeforecopy. Individual gate/push follows this evidence entry.
+
 ## SE Appearance Fix — Batch145 unit4: Hollowcast `N-IIβ-426`
 
 **What changed:** Added the held/Transform appearance block, including conscious torn-fruit impression versus photographic empty outline. Added breach continuity separating loss of fixed scale from a new botanical body and from healing.
