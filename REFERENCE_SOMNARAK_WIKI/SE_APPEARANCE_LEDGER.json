@@ -73,6 +73,21 @@
           "sect": "PASS"
         },
         "rendered_check": "not in scope"
+      },
+      "N-IIIγ-308": {
+        "no_change": false,
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B152_04_SOAKING_SHADOW.md",
+        "whole_before_reread": true,
+        "whole_final_reread": true,
+        "logical_outcome": "held",
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        },
+        "rendered_check": "not in scope"
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B152_OPEN.json",
@@ -1477,8 +1492,32 @@
     {
       "designation": "N-IIIγ-308",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-308_Soaking_Shadow_솟구친_그림자.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Added existing Angry Maiden upright/thickened shadow and temporary outline return, and Frozen Veil non-scorching drips, to Appearance protocol. Separately log outline, grade and scorch hazard with pairing/duration; conditional shadow is not a casting person or ordinary locomotion.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B152_04_SOAKING_SHADOW.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-308-A__SIDE_CODEX_Vault_of_Unspoken_Spite.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-308-B__MAW-W_Vault_of_Unspoken_Spites_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-308-C__MAW-S_Vault_of_Unspoken_Spites_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-308-D__MAW-G_Vault_of_Unspoken_Spites_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIIγ-407",

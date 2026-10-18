@@ -122,7 +122,7 @@
 | **Distinctive markers** | Card grade, outline position, and the dampness of the floor beyond the chalk. |
 | **Identification** | If anything above it could be casting it, you are in the wrong vault. |
 
-**Appearance protocol:** Card at arm's length, one grader, no conferring, chalk the outline, note the damp. Instruments were tried and disagreed with each other; the card has never disagreed with itself.
+**Appearance protocol:** Card at arm's length, one grader, no conferring, chalk the outline, note the damp. Instruments were tried and disagreed with each other; the card has never disagreed with itself. Keep the floor outline, card grade and scorch hazard as separate readings. The Angry Maiden pairing records a conditional upright shadow with a body's thickness, an outline withdrawn to the original chalk while she burns, and return to the wider extent within the hour. Photograph that standing form as the interaction record requires; do not turn it into evidence of a casting person above the baseline shadow. The Frozen Veil pairing removes the drips' scorch hazard without changing the grade. Attach the pairing and its duration to either reading rather than treating altered posture, outline or temperature as ordinary locomotion.
 
 ## Origin
 - **Formation:** From anger lodged correctly, filed correctly, and never answered, over sixty years of correct procedure.
