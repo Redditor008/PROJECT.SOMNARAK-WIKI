@@ -58,6 +58,21 @@
           "sect": "PASS"
         },
         "rendered_check": "not in scope"
+      },
+      "C-Vδ-949": {
+        "no_change": false,
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B152_03_THE_STORMSCALE_SOVEREIGN.md",
+        "whole_before_reread": true,
+        "whole_final_reread": true,
+        "logical_outcome": "held",
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        },
+        "rendered_check": "not in scope"
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B152_OPEN.json",
@@ -1350,8 +1365,30 @@
     {
       "designation": "C-Vδ-949",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-949_Stormscale_Sovereign.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Repaired four malformed identification fields into the existing bullet list. Replaced generic live scale/stability survey with historical marker attribution, current Fish/Stone separation observation, no reunification test, and evacuation rather than extending contact to survey a manifest dragon. No source body, numeric or equipment claim elected.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B152_03_THE_STORMSCALE_SOVEREIGN.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/949_Stormscale_Sovereign/SE-949-A__SIDE_CODEX_Stormscale_Sovereign.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/949_Stormscale_Sovereign/SE-949-B__MAW-W_The_Fourfold_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/949_Stormscale_Sovereign/SE-949-C__MAW-S_The_Two_Halves_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/949_Stormscale_Sovereign/SE-949-D__MAW-G_The_Mismatched_Eye.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Vω-001",
