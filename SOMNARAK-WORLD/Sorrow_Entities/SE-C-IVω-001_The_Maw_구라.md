@@ -53,7 +53,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | N/A — the ordinary district has no travel speed; movement of the registered Walking District is a separate event-form record |
 | **Resistance** | 50% against Grudge. The figure is meaningless and is carried because the form requires it: the holding is a district, nothing has ever been struck, and the perimeter is made of Architects' reinforcement rather than of anything that resists. |
 | **Activation threshold** | Sorrow Gauge ≥ 95% |
 | **Sorrow Gauge [HP]** | 1000/1000 |
@@ -142,6 +142,14 @@ The Tale records the citizens becoming the district, and the district remains th
 
 **Appearance protocol:** Establish the mode before describing a body. For the district, record the marker positions, the lean of the buildings and the yielding ground; there is no separate creature standing inside the streets. The current-cycle silence is recorded as silence, not filled with voices remembered from earlier accounts. For the event form, distinguish walls detaching and ground lifting from a marker merely moving outward, and describe how that architecture occupies the walking figure. Use the former perimeter as the reference, so the report identifies what moved rather than substituting an imagined giant's anatomy. Keep the designation shift with the observation and the negotiation transcript with its date; a description of one mode does not cancel the record of the other.
 
+### The foundation, the voices and the registered figure
+
+The earlier citizens are the cause and continuing occupants of this sorrow, not a thousand human bodies to draw standing inside it. The Tale locates their dissolved bodies and memories in walls, floors and Han; the current Place is that architecture and ground. Grudge names the element, while Place-Tale names how the district preserves the event. The registered Subject-Tale form gathers that same substance rather than supplying a separate creature with an unexplained origin.
+
+The current-cycle quiet recorded above and in the Apex Record is a change in the overlapping voices, not proof that the district vanished, hardened or began walking. Conversely, historical whispering and the event description's gathered voices are not a current observation of the reserved form. The continuing negotiation and voice-count passages still need their own dating relationship to that quiet; the record supplies no universal new speaking exception.
+
+Two origin accounts remain: deliberate relocation-sacrifice in the opening and Origin, and warned-against neglect in the Tale. So do the refusal and perimeter-crossing triggers and the inconsistent expansion intervals. The equipment cannot bridge these gaps: Side Codex A forbids extraction while its linked items, the local kit and Master entries describe incompatible pieces. A blade's jaws are not the district's observed mouth, and a ground-derived harness does not establish a human-shaped resting body. Neither the existing states panel nor these distinctions certifies the unresolved whole as logically complete.
+
 ## Origin
 - **Formation:** The Maw is the site of the Cheongula, the First Sorrow.
 - **The Sorrow:** The rage and terror of one thousand citizens deliberately sacrificed as structural material for the growing city.
@@ -205,7 +213,7 @@ Escalation is a marker moving. Record which marker, how far, the date, and the D
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Increase in the city's collective sorrow. |
-| **Manifestation** | Place-Grudge|
+| **Manifestation** | Place-Tale |
 | **Primary effect** | Adjacent buildings merge into the district; walls darken, curve, and begin whispering. Residents may be absorbed. |
 | **Duration / rate** | 2.3 centimeters per year, measured by Taeho. |
 | **Risk** | Catastrophic (ω). The grade is for what the district becomes if the confession is formally refused a third time, and not for anything it has done to a worker in sixty years. |

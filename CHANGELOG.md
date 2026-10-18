@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch149 unit4 — The Maw `C-IVω-001`
+
+[[SE-C-IVω-001_The_Maw_구라](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CF%89-001_The_Maw_%EA%B5%AC%EB%9D%BC.md "SE-C-IVω-001_The_Maw_구라.md")]
+
+**Change:** Corrected DetailedActivationManifestation Place-Grudge→Place-Tale, retaining Grudgeelement. Speedrationale now distinguishes ordinarydistrict travel from registeredeventform without new speed. Added samecitizens/architecturalsubstance continuity, currentquietnotwalking and explicit origin/trigger/equipmentholds. ExistingAppearanceStates and Tale/equipment unchanged.
+
+**Before:** PlaceTale/Grudge district remains current architecture and softground; thousand citizens dissolved intoits substance, no thousand separatehumans or unrelatedmonster. SupportedregisteredWalkingDistrict haswallsdetach/groundlift; bodydifferencevalidbutnotcurrentwitness. Existingstatepanel suppliesrelationships; ActivationRecord wronglysaysPlaceGrudge despiteheader/SideA. Speedfixedobject flattensplace/eventdistinction. Currentcyclequiet and Apexnotimprovement versus currentvoicenegotiation/Flavor/peace need chronology. Origin deliberate relocation/sacrifice versus Tale informedneglect not silentlysameevent.
+
+**After full final reread:** Complete492line final read after fiveactualchecks: entireheaders/parameters/combat/phases/consequences; Appearance/statepanel/newnote/Origin/Work/expansion; allkit/Use/Field; observation/story/final/flavor/allfivepairings; Tale/Testimony/Record; entireApexjurisdiction/register/entry/softness/leaning/quiet/lighting; Trivia/footer. Manifestation nowmatches PlaceTale source andelement remainsGrudge; speeddoesnotdenyreservedmovement. Statepanel cannotsettlesilence/negotiation, conflictingorigin, trigger and extraction claims. WholelogicHELD; noSEcredit.
+
+**Holds:** Deliberate sacrifice/false relocation versus warnedneglect/notsacrifice;9hourreenactmentoriginalpace versus17minutesTalescreaming no chronology assumed. Currentquiet/peace versus ongoingwhispers/voices throughout classification/behavior/flavor/interaction/roll no datingbridge; no dissipation versus peace not automaticallyremovedholding. Per-cycle/year2.3cm versus4m/streetdenialjumps; sorrowincrease/perimeter/refusal/95%threshold and twicepastshifts versusreserveddesignation/thirdrefusal conflict. No entry response versus authorizedApexentry not silencepolicyinvented. NoallfourWorkroutine inevent versusMasterallfouractivecombatvectors; prohibitionunchanged. SideA1/1extractionforbidden versus B–D4/4Grip/Shroud/Relic and localthreepieces/fourStigmas; names/formsprofiles Stiletto(Jawpattern) versusMasterDevouringJaw versusGripcleaver14–24/VerySlow1/PointBlank1/60, local22–34/Slow2/Short2/70. LocalwarmsoftPlate65and0.4/1/1.2/1.8 versusstonecloak60and0.3/.7/.7/.8; Tail3%+4unknown/forbidden versusNeck1%+3AP/turn01floor10+25%authority, CSVAccessory5%. Setnameloss versusseparatepiecehunger/burn/guilt/voicecorrosion costs retained. Do not infer a jaw-bodieddistrict or issuedcanonicalMawkit.
+
+**Commentary:** Architecture is the right body for people turned into infrastructure: the setting cannot be separated from the violence. The quiet is strongest when the institution refuses to call it recovery. I would not let a jaw-themed weapon turn the district into a conventional hungry beast.
+
+Full original/final and exactsources/history reading, five actual checks and fingerprints in `B149_04_THE_MAW.md`. Outcomeheld; SE+0/equipment+0. Prior00dd739focusedshape repair explicitly earned no full/body/pair credit; this unit is independentSEreview only, not a new equipment disposition or a legacy backfill. Extraction-prohibited1/1exception is not a new eligible4/4Weaponpair. C-locale words7,570→7,820. Written design, no rendered/live verification. OPEN4/5; No change0/4; pending≠No change. No150or merge.
+
 ## Batch149 unit3 — Broken Well `C-IIβ-565`
 
 [[SE-C-IIβ-565_Broken_Well_부서진_우물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-565_Broken_Well_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%9A%B0%EB%AC%BC.md "SE-C-IIβ-565_Broken_Well_부서진_우물.md")]
