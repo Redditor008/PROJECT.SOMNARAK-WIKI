@@ -28,7 +28,23 @@
       "N-IIβ-689"
     ],
     "kind": "se-appearance",
-    "reviewed": {},
+    "reviewed": {
+      "C-IVδ-251": {
+        "no_change": false,
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B152_01_THE_UNSPOKEN_LINE.md",
+        "whole_before_reread": true,
+        "whole_final_reread": true,
+        "logical_outcome": "held",
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        },
+        "rendered_check": "not in scope"
+      }
+    },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B152_OPEN.json",
     "logical_reading_required": true,
     "integrity_rule": "REFERENCE_SOMNARAK_WIKI/RULES/R-33_INTEGRITY_VISUAL_LIVE_CHECK.md"
@@ -870,8 +886,30 @@
     {
       "designation": "C-IVδ-251",
       "path": "SOMNARAK-WORLD/Unknown_Entities/SE-C-IVδ-251_The_Unspoken_Line_그어진_선.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Replaced the generic Fragment/Sovereign identification comparison with fountain, signs, bird avoidance and surveyed seam. Replaced stance/transformation boilerplate with the documented length/bearing, dusk light, bird routes, human crossings and posted conversation record, distinguishing a fixed junction from boundary change and rejecting assumed simultaneous Gauge/visible change.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B152_01_THE_UNSPOKEN_LINE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/UNK_251_The_Unspoken_Line/UNK_251-A__SIDE_CODEX_The_Unspoken_Line.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/UNK_251_The_Unspoken_Line/UNK_251-B__MAW-W_The_Seam_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/UNK_251_The_Unspoken_Line/UNK_251-C__MAW-S_Two_Weather_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/UNK_251_The_Unspoken_Line/UNK_251-D__MAW-G_The_Threshold_Stone.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-252",
