@@ -1,5 +1,15 @@
 # Work In Progress
 
+## Batch153 unit5 — Ephemera `O-Iα-189`
+
+[[SE-O-Iα-189_Ephemera_번져가는_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-189_Ephemera_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%9E%94%ED%95%B4.md "SE-O-Iα-189_Ephemera_번져가는_잔해.md")]
+
+**What changed: Appearance now attributes survivor clarity to the reader, not proximity-driven alteration of the figure. R18:1 batch-short/0 careful-detail; one Notable Features clause, source Observation Log retained intact.** Whole-design HELD; Carries no physical debris versus measurable dust/brokenstonebody, collected/inhaledmaterial andentityfordispersalpurposes. Does not carry intactbuildingcouldbeinterpretationbutnotdocumentedpermissiontorewrite. Subjectbody andfield expresslycoexist inAddendum; no new hazardreclassification. Complete original/exact-source/history and final reread afterfiveactualchecks documented in `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_05_EPHEMERA.md` with rawchecks/sourcehashes. C-locale words6933→6946. Equipment+0both, SE+0.
+
+**Commentary:** The dust is both the last readable account and the means by which that account is lost. That makes the humanoid silhouette earn its place in the design, but it does not resolve the conflict between an unnamed settlement and equipment that requires its name.
+
+Batch153OPEN5/5, No change2/5; pending is not No change. No154/merge. Individual gate/verified push follows.
+
 ## Batch153 unit4 — Exiles’ Wall `O-IIIγ-617`
 
 [[SE-O-IIIγ-617_Exiles'_Wall_솟구친_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-617_Exiles%27_Wall_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EB%B2%BD.md "SE-O-IIIγ-617_Exiles'_Wall_솟구친_벽.md")]

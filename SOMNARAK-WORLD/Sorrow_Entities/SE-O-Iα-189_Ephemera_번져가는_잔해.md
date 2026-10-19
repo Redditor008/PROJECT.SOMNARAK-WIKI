@@ -99,7 +99,7 @@
 ## Appearance
 **Primary Form:** A faint humanoid figure made from dust, broken stone, and fading memories of a ruined settlement.
 
-**Notable Features:** It fades in daylight, becomes clearer near survivors, and carries no physical debris.
+**Notable Features:** It fades in daylight, is clearer to survivors than to outsiders — a property of the reader rather than of the figure — and carries no physical debris.
 
 **Identification Profile**
 
