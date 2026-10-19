@@ -1,5 +1,11 @@
 # Work In Progress
 
+## Batch153 — OPEN 0/5
+
+Owner p authorizes Batch153 only. Fresh260pending/107cue candidates, equipment excluded. Fixed order N-IIβ-801 Mirror of Soaking → N-IVδ-821 Pent → O-IIIγ-476 Sehnsucht → O-IIIγ-617 Exiles’ Wall → O-Iα-189 Ephemera, each3signals with full-designation tie order. Cues are not defects. Complete original/exact-source/history and complete final logical reading after five actual checks; individual Commentary/evidence/gate/verified push. Three cumulative No change triggers5→7→10. No forced edits, duplicate equipment or legacy body credit. Counters unchanged: SE12/301, alltypes246/301, Weapon246/287. No154 or merge. PR14OPENdraft→NON-WIKI. Batch301eightownerbodies/one4+4/generatevalidatebeforecopy remainsblocked.
+
+Checkout recovery: local10cd20a versus remote2deae5b; all2370remote tracked files, including Unicode paths, hash-matched current files. Branch/index restored by mixedreset only, no working file rewritten or owner file discarded. Scratch helpers from prior turn unavailable; committed evidence is intact.
+
 ## Batch152 — CLOSED 5/5
 
 Three limited Appearance repairs: Unspoken Line junction identification, Stormscale historical-versus-latent protocol, Soaking Shadow conditional forms. **Willing Chains: No change. Face Beneath Masks: No change.** All five whole-design outcomes HELD; no SE completion credit. No change2/5 is below three, so no ladder extension. Zero equipment coverage credit; no duplicate or retrospective baseline inference.

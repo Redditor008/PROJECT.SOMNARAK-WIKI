@@ -231,3 +231,9 @@ Batch152 unit5: **Face Beneath Masks `N-IIβ-689` — held**. [Evidence](SE_APPE
 ## Batch152 final closure
 
 CLOSED5/5; No change2/5, no extension. Three limited repairs and all five HELD; zero completedSE or equipment coverage credits. SE12/301=3.99%,289remaining; ALLTypes246/301=81.73%,55remaining; Weapon246/287=85.71%,41remaining. Body8changed/4retained/27held/2blocked/260pending. Fresh25checks and10ledger testsPASS; couples0/301; comparator301mapped/287complete sets/861pairs. Earlier open checkpoints are historical. [Full closure](SE_APPEARANCE_REVIEWS/B152_CLOSE.md), [raw evidence](SE_APPEARANCE_REVIEWS/B152_CLOSE.json). No153 or merge; Batch301 owner-body block unchanged.
+
+## Batch153 — OPEN 0/5
+
+Owner p authorizes Batch153 only. Fresh260pending/107cue candidates, equipment excluded. Fixed order N-IIβ-801 Mirror of Soaking → N-IVδ-821 Pent → O-IIIγ-476 Sehnsucht → O-IIIγ-617 Exiles’ Wall → O-Iα-189 Ephemera, each3signals with full-designation tie order. Cues are not defects. Complete original/exact-source/history and complete final logical reading after five actual checks; individual Commentary/evidence/gate/verified push. Three cumulative No change triggers5→7→10. No forced edits, duplicate equipment or legacy body credit. Counters unchanged: SE12/301, alltypes246/301, Weapon246/287. No154 or merge. PR14OPENdraft→NON-WIKI. Batch301eightownerbodies/one4+4/generatevalidatebeforecopy remainsblocked.
+
+Checkout recovery: local10cd20a versus remote2deae5b; all2370remote tracked files, including Unicode paths, hash-matched current files. Branch/index restored by mixedreset only, no working file rewritten or owner file discarded. Scratch helpers from prior turn unavailable; committed evidence is intact.
