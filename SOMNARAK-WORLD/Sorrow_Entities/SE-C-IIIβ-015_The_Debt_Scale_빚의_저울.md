@@ -15,7 +15,7 @@
 | **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Mixed — A balance-scale on a frame of yellowed, articulating bone — clearly once living, now dead and smoothly jointed — from which hang two shallow dishes of cloudy crystal. It moves on its own, the bone frame creaking faintly, tilting with a patience that feels almost judicial. The bone is dry, light, and unnervingly warm to the touch. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement** | Stationary on its plinth; the bone frame articulates and the dishes rise and settle without contact. Record the expanding weighed circle separately from movement of the instrument. |
 | **Location** | SECTOR-C-01, used by Collectors |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -99,7 +99,7 @@
 - Unresolved, it expands by Transform rather than escaping: the weighed circle widens, permanently, and everything inside the new line is now part of what the quarterly aggregate describes.
 
 ## Appearance
-**Physical Form:** A bone-white scale with two crystal dishes. It moves without being touched.
+**Physical Form:** A bone-white scale with two crystal dishes. It moves without being touched. This is the plinth-mounted Object, not the Debt Eater's same-named Stigma pendant; the instrument and its weighed circle are the subject of this record.
 
 **Notable Features:** It weighs obligation without moral interpretation, returns a figure for everyone, and has never once balanced empty. It does not separate inherited obligation from incurred obligation unless it is asked to.
 
@@ -122,7 +122,7 @@
 | **Distinctive markers** | Unaided dish movement, warm bone, cloudy crystal, the marked circle on the floor, and the absence of any numeral anywhere on the instrument. |
 | **Identification** | Confirm before work: designation C-IIIβ-015 `[VO]`, Fragment (III) coherence, Moderate (β) potency, Object-Void manifestation, SECTOR-C-01. The Collector courts hold two balances of ordinary manufacture and neither moves. |
 
-**Appearance protocol:** Record dish positions by eye at fixed intervals, the beam's angle, the circle against the floor mark, the frame's creak, and the warmth at the joint. Nothing here is *strange* or *anomalous*; it is a bone balance that moves on its own and never reads empty, and those are the fields.
+**Appearance protocol:** Record dish positions by eye at fixed intervals, the beam's angle, the circle against the floor mark, the frame's creak, and the warmth at the joint. Do not mount sensors on the instrument: the documented instrumentation attempt altered the readings and was abandoned. Keep the hand-ruled dish-position series separate from the wing's conversion of weight and feeling into figures; the Scale displays no numerals. Nothing here is *strange* or *anomalous*; it is a bone balance that moves on its own and never reads empty, and those are the fields.
 
 ## Origin
 - **Formation:** The Scale formed from the demand for fairness.

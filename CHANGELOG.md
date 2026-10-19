@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch154 unit 3 — The Debt Scale `C-IIIβ-015`
+
+[[SE-C-IIIβ-015_The_Debt_Scale_빚의_저울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-015_The_Debt_Scale_%EB%B9%9A%EC%9D%98_%EC%A0%80%EC%9A%B8.md "SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md")]
+
+**What changed:** Three bounded clarifications: Movement now separates plinth-fixed instrument, unaided frame/dish articulation and expanding weighed circle; Appearance identifies this Object rather than Debt Eater’s same-named Stigma; Appearance protocol repeats the existing no-mounted-sensors rule and distinguishes eye-recorded dish series from the wing’s numerical conversion. No change in Work permissions, anonymous/named readings, damage, values or body form.
+
+Complete original, exact sources/history and final logical readings after five actual validators recorded in `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_03_DEBT_SCALE.md`. Whole-design **HELD**: Fixed plinth and instrument-cannot-be-moved accounts lack a crosswalk to the worn/carried/unequipped I-Relic procedure. Object articulation and field expansion can be distinguished, but portability remains unresolved. Equipment source-review +0 both; SE +0. Words 7,698→7,782; digit sequence unchanged. No false logical or visual PASS.
+
+**Commentary:** The circle is not the instrument walking, and the figures are not numerals the instrument displays. Making those distinctions explicit improves both the visible design and the recording method. The quarterly aggregate remains the important consequence: individual refusals do not stop the institution measuring and charging the whole district.
+
+Batch154 OPEN 3/5; No change 0/3. Individual gate/verified push follows; no155/merge.
+
 ## Batch154 unit 2 — The Debt Eater `C-IIIβ-014`
 
 [[SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-014_The_Debt_Eater_%EB%B9%9A%EC%9D%84_%EB%A8%B9%EB%8A%94_%EC%9E%90.md "SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md")]
