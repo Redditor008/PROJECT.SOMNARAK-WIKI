@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch153 — CLOSED 5/5
+
+Five completed R33 written-design reviews, not five completed SE fixes. Three bounded corrections: Sehnsucht depth directions; Exiles’ Wall αequipment/γsource summary; Ephemera reader-specific clarity. Two **No change**: Mirror of Soaking and Pent. All five **HELD**, SE+0. Exiles’ Wall fresh source review adds+1both: ALLTypes247/301=82.06%,54remaining; Weapon247/287=86.06%,40remaining. SE12/301=3.99%,289remaining; body8changed/4retained/32held/2blocked/255pending.
+
+Fresh closing25checks/10testsPASS, couples0/301, comparator301/292Side/287sets/861pairs.301PhysicalForminventory; initial290-only filter and quoted-Unicode allowlist assertions corrected before closure, no validator failed or checker weakened. Words37,771→37,795(+24); digits/equipment-through-footer/allsource/296unselectedprimary bytes unchanged. All primary hashes match verified unit pushes.
+
+Full linked results, individual Commentary and raw evidence: `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_CLOSE.md`, `B153_CLOSE.json`, `B153_BATCH.json`. No change2/5: expansion trigger absent, no7/10rung or154. Next batch requires fresh ownerp. PR14OPENdraft→NON-WIKI, no merge/deploy. Batch301eightownerbodies/one4+4/generatevalidatebeforecopy remainsblocked. Closure gate/push follows.
+
 ## Batch153 unit5 — Ephemera `O-Iα-189`
 
 [[SE-O-Iα-189_Ephemera_번져가는_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-189_Ephemera_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%9E%94%ED%95%B4.md "SE-O-Iα-189_Ephemera_번져가는_잔해.md")]

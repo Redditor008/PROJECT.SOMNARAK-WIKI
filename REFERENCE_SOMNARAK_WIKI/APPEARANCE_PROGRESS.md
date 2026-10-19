@@ -8,8 +8,8 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 
 | Workstream | Completed | Coverage | Remaining |
 |---|---:|---:|---:|
-| ALL M.A.W. Types Appearance per SE — source-review coverage | 246 / 301 | 81.73% | 55 / 301 |
-| ALL M.A.W.-W Appearance per SE — source-review coverage | 246 / 287 | 85.71% | 41 / 287 |
+| ALL M.A.W. Types Appearance per SE — source-review coverage | 247 / 301 | 82.06% | 54 / 301 |
+| ALL M.A.W.-W Appearance per SE — source-review coverage | 247 / 287 | 86.06% | 40 / 287 |
 | SE Appearance Fix — independent written-design pass | 12 / 301 | 3.99% | 289 / 301 |
 
 These are coverage counters, **not promises that every held discrepancy is repaired**. The first two retain their historical criteria and explicit source holds. The new counter starts at zero; old equipment reviews, general prose fixes, shape screening and the R-32 clarification are not backfilled as SE appearance completions.
@@ -244,6 +244,10 @@ Batch153unit2: Pent — **No change; HELD**. Complete472-line original/final and
 
 Batch153unit3: Sehnsucht — Movement summary restored to include both sinking and recorded rises. R18:1 batch-short/0 careful-detail; only one clause replaced, original is retained in opening snapshot. **HELD.** FiveactualchecksPASS; fullreadings in [Evidence](SE_APPEARANCE_REVIEWS/B153_03_SEHNSUCHT.md). Batch153OPEN3/5, No change2/3; credit+0. Individual gate/push follows.
 
-Batch153unit4: Exiles’ Wall — Restored blank M.A.W. summary grade to α for all three primary pieces, distinct from source γ. R18:1 batch-short/0 careful-detail; only the blank summary row changed. **HELD.** FiveactualchecksPASS; fullreadings in [Evidence](SE_APPEARANCE_REVIEWS/B153_04_EXILES_WALL.md). Batch153OPEN4/5, No change2/4; credit+0. Individual gate/push follows.
+Batch153unit4: Exiles’ Wall — Restored blank M.A.W. summary grade to α for all three primary pieces, distinct from source γ. R18:1 batch-short/0 careful-detail; only the blank summary row changed. **HELD.** FiveactualchecksPASS; fullreadings in [Evidence](SE_APPEARANCE_REVIEWS/B153_04_EXILES_WALL.md). Batch153OPEN4/5, No change2/4; SEcredit+0, newequipmentcoverage+1both. Individual gate/push follows.
 
 Batch153unit5: Ephemera — Appearance now attributes survivor clarity to the reader, not proximity-driven alteration of the figure. R18:1 batch-short/0 careful-detail; one Notable Features clause, source Observation Log retained intact. **HELD.** FiveactualchecksPASS; fullreadings in [Evidence](SE_APPEARANCE_REVIEWS/B153_05_EPHEMERA.md). Batch153OPEN5/5, No change2/5; credit+0. Individual gate/push follows.
+
+## Batch153 — CLOSED5/5
+
+Three bounded corrections, two **No change**, all five **HELD**. ALLTypes247/301(82.06%,54remaining),Weapon247/287(86.06%,40remaining); SE12/301(3.99%,289remaining). Exiles’ Wall fresh sourcecredit+1both, otherfour no duplicate. Body8changed/4retained/32held/2blocked/255pending. No change2/5: no expansion. Fresh25checks/10testsPASS,301PhysicalForminventory,source/equipment/digit/296unselectedprimaryinvariants. [Full linked results and individual Commentary](SE_APPEARANCE_REVIEWS/B153_CLOSE.md); [raw evidence](SE_APPEARANCE_REVIEWS/B153_CLOSE.json). No154/merge. Nextbatch requiresnewp; Batch301remainsblocked.

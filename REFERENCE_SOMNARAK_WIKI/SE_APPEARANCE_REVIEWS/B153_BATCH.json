@@ -1,0 +1,103 @@
+{
+  "number": 153,
+  "status": "CLOSED",
+  "required": 5,
+  "queue": [
+    "N-IIβ-801",
+    "N-IVδ-821",
+    "O-IIIγ-476",
+    "O-IIIγ-617",
+    "O-Iα-189"
+  ],
+  "reviewed": {
+    "N-IIβ-801": {
+      "no_change": true,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_01_MIRROR_OF_SOAKING.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not in scope"
+    },
+    "N-IVδ-821": {
+      "no_change": true,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_02_PENT.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not in scope"
+    },
+    "O-IIIγ-476": {
+      "no_change": false,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_03_SEHNSUCHT.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not in scope"
+    },
+    "O-IIIγ-617": {
+      "no_change": false,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_04_EXILES_WALL.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not in scope"
+    },
+    "O-Iα-189": {
+      "no_change": false,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_05_EPHEMERA.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not in scope"
+    }
+  },
+  "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_OPEN.json",
+  "closure_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_CLOSE.json",
+  "no_change": 2,
+  "changed_primaries": 3,
+  "se_credit": 0,
+  "all_types_credit": 1,
+  "weapon_credit": 1,
+  "individual_pushes": [
+    "75c9df09be6ec45399b4f1e0670f61672874f2f3",
+    "1eece7618ee18f5b264a1b045ab1ab315b4d193e",
+    "f1c5c98eef2bf75c73095d39491666b5ec51a6f4",
+    "86d75b28466feca4b2749c40ca4895ba27b84c64",
+    "0f80322eb1441917cb395bf922caee90ca68fce3"
+  ]
+}
