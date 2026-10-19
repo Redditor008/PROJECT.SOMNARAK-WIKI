@@ -73,6 +73,21 @@
           "sect": "PASS"
         },
         "rendered_check": "not in scope"
+      },
+      "O-IIIγ-617": {
+        "no_change": false,
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_04_EXILES_WALL.md",
+        "whole_before_reread": true,
+        "whole_final_reread": true,
+        "logical_outcome": "held",
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        },
+        "rendered_check": "not in scope"
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_OPEN.json",
@@ -2275,8 +2290,32 @@
     {
       "designation": "O-IIIγ-617",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-617_Exiles'_Wall_솟구친_벽.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Restored blank M.A.W. summary grade to α for all three primary pieces, distinct from source γ. R18:1 batch-short/0 careful-detail; only the blank summary row changed.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_04_EXILES_WALL.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-617-A__SIDE_CODEX_Exiles_Wall.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-617-B__MAW-W_Exiles_Wall_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-617-C__MAW-S_Exiles_Wall_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-617-D__MAW-G_Exiles_Wall_Ring.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IIIγ-651",
@@ -3042,6 +3081,14 @@
       "batch": 150,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_05_SURVIVORS_BREATH.md",
       "history_proof": "Fresh equipment source-review coverage: ALLTypes+1 and Weapon+1 for exactSE895set/SE895B/MAWW89501. Existing baseline240 and fiveB146newreviews containno895entry. Search acrossallWIP/CHANGELOGvolumes foundonlypriorprimary/prose/quote/structuralwork andW895personalizationcloudlensart, not independent sourcecomparisons; none is backfilled. Currentexact4/4reviewfullycomparesprimary→Side/items→Registry→Master→archetypeincludingholds. Coverage245→246 ineachindependentcounter; not finishedkitredesign/artwork. SEAppearanceFix+0,wholeheld.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "O-IIIγ-617",
+      "batch": 153,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_04_EXILES_WALL.md",
+      "history_proof": "Fresh complete exact617A–D primary/Side/items/Master/Tale/Registry/twoarchetype comparison. Six current/archived WIP/Changelog and all-refgit exactidentity/name searches found prior prose-clause/itemAppearance/SVG work, no independently counted full-source or exactMAW-W-617-01 disposition. Baseline240/history and modern6additional credits checked; no617entry. NewALLTypes+1 andWeapon+1 for current source-review only, not finishedgearredesign/artwork or SEbodybackfill.",
       "all_types_credit": true,
       "weapon_credit": true
     }

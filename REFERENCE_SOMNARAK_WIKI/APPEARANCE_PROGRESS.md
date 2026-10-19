@@ -243,3 +243,5 @@ Batch153 unit1: Mirror of Soaking — **No change; HELD**. Complete448-line orig
 Batch153unit2: Pent — **No change; HELD**. Complete472-line original/final and exact sources/history read; fiveactualchecksPASS. [Evidence](SE_APPEARANCE_REVIEWS/B153_02_PENT.md). Batch153OPEN2/5, No change2/2; threepending. Credit+0; individual gate/push follows.
 
 Batch153unit3: Sehnsucht — Movement summary restored to include both sinking and recorded rises. R18:1 batch-short/0 careful-detail; only one clause replaced, original is retained in opening snapshot. **HELD.** FiveactualchecksPASS; fullreadings in [Evidence](SE_APPEARANCE_REVIEWS/B153_03_SEHNSUCHT.md). Batch153OPEN3/5, No change2/3; credit+0. Individual gate/push follows.
+
+Batch153unit4: Exiles’ Wall — Restored blank M.A.W. summary grade to α for all three primary pieces, distinct from source γ. R18:1 batch-short/0 careful-detail; only the blank summary row changed. **HELD.** FiveactualchecksPASS; fullreadings in [Evidence](SE_APPEARANCE_REVIEWS/B153_04_EXILES_WALL.md). Batch153OPEN4/5, No change2/4; credit+0. Individual gate/push follows.

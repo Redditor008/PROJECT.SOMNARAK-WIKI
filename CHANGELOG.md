@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch153 unit4 — Exiles’ Wall `O-IIIγ-617`
+
+[[SE-O-IIIγ-617_Exiles'_Wall_솟구친_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-617_Exiles%27_Wall_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EB%B2%BD.md "SE-O-IIIγ-617_Exiles'_Wall_솟구친_벽.md")]
+
+**What changed: Restored blank M.A.W. summary grade to α for all three primary pieces, distinct from source γ. R18:1 batch-short/0 careful-detail; only the blank summary row changed.** Whole-design HELD; Fever-hot PhysicalForm versus noheat Appearance/BurningCold repeatedthermometer confirmations. No stated trigger or observation layer resolvesit; do not turn measuredcoldfireinto literalburningbody or selectoneaccount. Complete original/exact-source/history and final reread afterfiveactualchecks documented in `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_04_EXILES_WALL.md` with rawchecks/sourcehashes. C-locale words7021→7030. Equipmentsourcecoverage+1both, SE+0. Fresh exactpair/source-historyproof inreceipt.
+
+**Commentary:** The unfinished shelters make displacement visible without turning the exiles into a humanoid body. The destination column gives that image a practical limit: the Gate staff know what helps, but another department controls the expeditions needed to do it.
+
+Batch153OPEN4/5, No change2/4; pending is not No change. No154/merge. Individual gate/verified push follows.
+
 ## Batch153 unit3 — Sehnsucht `O-IIIγ-476`
 
 [[SE-O-IIIγ-476_Sehnsucht_가라앉은_눈물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-476_Sehnsucht_%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80_%EB%88%88%EB%AC%BC.md "SE-O-IIIγ-476_Sehnsucht_가라앉은_눈물.md")]
