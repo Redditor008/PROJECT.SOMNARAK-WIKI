@@ -43,6 +43,21 @@
           "sect": "PASS"
         },
         "rendered_check": "not in scope"
+      },
+      "N-IVδ-821": {
+        "no_change": true,
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_02_PENT.md",
+        "whole_before_reread": true,
+        "whole_final_reread": true,
+        "logical_outcome": "held",
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        },
+        "rendered_check": "not in scope"
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_OPEN.json",
@@ -1951,8 +1966,32 @@
     {
       "designation": "N-IVδ-821",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-821_Pent_사라진_한숨.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "No change. Retain invisible place and distinct structural markers; no invented mobile body.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_02_PENT.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/821_Pent/SE-821-A__SIDE_CODEX_Pent.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/821_Pent/SE-821-B__MAW-W_The_Vanished_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/821_Pent/SE-821-C__MAW-S_The_Vanished_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/821_Pent/SE-821-D__MAW-G_The_Vanished_Breath.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IVδ-852",

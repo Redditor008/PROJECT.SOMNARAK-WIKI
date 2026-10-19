@@ -12,7 +12,7 @@ Read complete448-line original in document order, lines1–225 and226–448. Obj
 
 ## Exact sources and history
 
-Read complete exact801A–D4/4, joined by fullN-IIβ-801GO, not same-Korean-titleC-Iα-392. All individual item identities, full Appearance, source-trace incidents, corrosion, maintenance/shutdown and set relationships read. Master table508–510 and full detail6477–6508; Entity538; complete Tale1709505–9560 through Addendum; CSV899–902; archetype326; disposition399. Searched all six current/volume WIP and Changelog files and primary git history. Reopened B138WIP2233–2241 separately after combined output truncation. B138unit4 4b624bc2476d24dbba0ba5ae8ef75056f653eca2 already dispositioned exactWeapon80101 and full set. Its grade/civility repairs and prior B12 prose work are not new body credit. No source modified.
+Read complete exact801A–D4/4, joined by fullN-IIβ-801GO, not same-Korean-titleC-Iα-392. All individual item identities, full Appearance, source-trace incidents, corrosion, maintenance/shutdown and set relationships read. Master table548–550 and full detail6477–6508; Entity538; complete Tale1709505–9560 through Addendum; CSV899–902; archetype326; disposition399. Searched all six current/volume WIP and Changelog files and primary git history. Reopened B138WIP2233–2241 separately after combined output truncation. B138unit4 4b624bc2476d24dbba0ba5ae8ef75056f653eca2 already dispositioned exactWeapon80101 and full set. Its grade/civility repairs and prior B12 prose work are not new body credit. No source modified.
 
 ## Complete final reading after validation
 

@@ -1,5 +1,15 @@
 # Work In Progress
 
+## Batch153 unit2 — Pent `N-IVδ-821`
+
+[[SE-N-IVδ-821_Pent_사라진_한숨](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-821_Pent_%EC%82%AC%EB%9D%BC%EC%A7%84_%ED%95%9C%EC%88%A8.md "SE-N-IVδ-821_Pent_사라진_한숨.md")]
+
+**What changed: No change.** Invisible organisation fits the Tale: missing exhalation, burning felt without measured heat and walls leaning inward. Whole-design HELD: mobile drift/fixed listening parcel, Place/Subject-Grudge, no injury/combat wound, and source/equipment identity relationships need evidence, not an invented travelling body. Complete472-line original, exact821A–D/Master/Tale/registry/history and complete472-line final afterfiveactualchecks read. B119unit2 already counted exactWeapon/fullset; equipment+0, SE+0.
+
+**Commentary:** The engineers’ letters are the strongest detail for me: their concern survives in the file without acquiring the force of a finding. Printing the trend before the safe verdict is a small, credible act of resistance, not a resolution.
+
+Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_02_PENT.md` contains full reasoning/holds/fingerprints/rawchecks. C-locale words8584→8584; primary/sourcebytesunchanged. Batch153OPEN2/5, No change2/2; threepending, not No change. Minimumfive/5→7→10 remains active. Individual gate/verified push follows. No154/merge.
+
 ## Batch153 unit1 — Mirror of Soaking `N-IIβ-801`
 
 [[SE-N-IIβ-801_Mirror_of_Soaking_솟아오른_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-801_Mirror_of_Soaking_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EA%B1%B0%EC%9A%B8.md "SE-N-IIβ-801_Mirror_of_Soaking_솟아오른_거울.md")]

@@ -239,3 +239,5 @@ Owner p authorizes Batch153 only. Fresh260pending/107cue candidates, equipment e
 Checkout recovery: local10cd20a versus remote2deae5b; all2370remote tracked files, including Unicode paths, hash-matched current files. Branch/index restored by mixedreset only, no working file rewritten or owner file discarded. Scratch helpers from prior turn unavailable; committed evidence is intact.
 
 Batch153 unit1: Mirror of Soaking — **No change; HELD**. Complete448-line original/final and exact sources/history read; five actual checksPASS. [Evidence](SE_APPEARANCE_REVIEWS/B153_01_MIRROR_OF_SOAKING.md). Batch153OPEN1/5, No change1/1; four pending. No credit increment; individual gate/push follows.
+
+Batch153unit2: Pent — **No change; HELD**. Complete472-line original/final and exact sources/history read; fiveactualchecksPASS. [Evidence](SE_APPEARANCE_REVIEWS/B153_02_PENT.md). Batch153OPEN2/5, No change2/2; threepending. Credit+0; individual gate/push follows.
