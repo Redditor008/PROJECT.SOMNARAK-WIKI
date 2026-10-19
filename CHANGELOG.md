@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch154 — CLOSED 5/5; five documents improved
+
+The owner’s “p + always fixwd/make the docs batter” is implemented as a standing source-supported improvement reminder in R-33. All five complete reviews produced useful primary-document corrections, not only hold reports.
+
+- Forgotten Tear: timed handling and unknown-mourner guidance; carried crystal, not a structure.
+- Debt Eater: reliable hands/mouthless identification and clear Stigma-versus-Object identity.
+- Debt Scale: fixed instrument versus articulation/field expansion; no-mounted-sensors and conversion guidance.
+- Debtor: documented seated Flerehan posture and honest, proximity-safe baseline methods.
+- Rejector: recurrence/memory-loss recording method, no-new-separation instructions, and two stray prose separators.
+
+All five whole designs remain HELD. Independent counters are unchanged: ALL M.A.W. Types Appearance per SE 247/301 (82.06%), 54/301 remain; ALL M.A.W.-W Appearance per SE 247/287 (86.06%), 40/287 remain; SE Appearance Fix 12/301 (3.99%), 289/301 remain. SE statuses: 8 changed, 4 retained, 37 held, 2 blocked, 250 pending. These are source-review coverage and written-design completion, not artwork.
+
+All five original/exact-source/history/final readings, five actual validators per unit and individual verified pushes are recorded. Closing reran all 25 checks; ten ledger tests passed; couples 0/301; comparator inspected 301/292/287/861 with 557 candidate findings, not defect verdicts. Digits, all 301 classification Physical Form rows, equipment statistics, all sources and 296 unselected primaries unchanged. Declared equipment prose exceptions are explicit. Total words 38,283→38,736 (+453). No change 0/5; no ladder extension.
+
+[Readable report](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_CLOSE.md) and [raw evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_CLOSE.json) under REFERENCE_SOMNARAK_WIKI. No155 or merge. PR14 OPEN draft to NON-WIKI. Batch301 remains blocked on eight owner bodies, one4+4, generation/validation before copy. Closure gate/verified push follows.
+
 ## Batch154 unit 5 — The Rejector `C-IIIγ-063`
 
 [[SE-C-IIIγ-063_The_Rejector_거부하는_자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-063_The_Rejector_%EA%B1%B0%EB%B6%80%ED%95%98%EB%8A%94_%EC%9E%90.md "SE-C-IIIγ-063_The_Rejector_거부하는_자.md")]

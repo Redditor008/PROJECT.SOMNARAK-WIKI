@@ -1,0 +1,103 @@
+{
+  "number": 154,
+  "status": "CLOSED",
+  "required": 5,
+  "queue": [
+    "O-Iα-709",
+    "C-IIIβ-014",
+    "C-IIIβ-015",
+    "C-IIIγ-061",
+    "C-IIIγ-063"
+  ],
+  "reviewed": {
+    "O-Iα-709": {
+      "no_change": false,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_01_FORGOTTEN_TEAR.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not performed / not in scope"
+    },
+    "C-IIIβ-014": {
+      "no_change": false,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_02_DEBT_EATER.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not performed / not in scope"
+    },
+    "C-IIIβ-015": {
+      "no_change": false,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_03_DEBT_SCALE.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not performed / not in scope"
+    },
+    "C-IIIγ-061": {
+      "no_change": false,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_04_DEBTOR.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not performed / not in scope"
+    },
+    "C-IIIγ-063": {
+      "no_change": false,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_05_REJECTOR.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not performed / not in scope"
+    }
+  },
+  "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_OPEN.json",
+  "closure_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_CLOSE.json",
+  "no_change": 0,
+  "changed_primaries": 5,
+  "se_credit": 0,
+  "all_types_credit": 0,
+  "weapon_credit": 0,
+  "individual_pushes": {
+    "O-Iα-709": "456c30367e02214b094caacba4ea090aae7c29ed",
+    "C-IIIβ-014": "02f26b196b22f34ff79ef17e7e568e261f9ebe3e",
+    "C-IIIβ-015": "c37d90ac43734a031b97a64bcb92b79530690555",
+    "C-IIIγ-061": "bdbb25706e026ffc99045740d37233965c4bba4d",
+    "C-IIIγ-063": "c002b33acbd666da18b07b211c6f464c29faedea"
+  }
+}

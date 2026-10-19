@@ -25,7 +25,7 @@ After verify/tpl/sectfile/wikistd/sect all actually passed, reread every final l
 - Entity Type says Can breach via Transform, while dimensions never change, it never moves itself and nothing escapes; no recorded current transformation establishes the relationship. Formation into a red tear is historical and does not supply a present breach body.
 - The salt-cut/stain and vault-wide mass ultimate have reach beyond the hand, while containment says no reach whatsoever beyond it. No range/phase or object-production crosswalk is supplied.
 - Extended contact does not injure contrasts with timed Grudge damage and nine injured hands; forced release is distinct but does not explain all contact damage. Contrasting mass outcomes on adopting anger, ignored/resting mass and temperature-based warnings still need evidence.
-- Vessel/vapour vs Ungrievingness archive-cut Fang and Master Fang have no crosswalk; Medium vs Short and floating-orb/coronet vs Tail remain. Present auxiliary incident vs no-fatality local record is not normalized; no chronology is invented.
+- Vessel/vapour vs Ungrievingness archive-cut Fang and Master Fang have no crosswalk; Medium vs Short and floating-orb/coronet vs Tail remain. The auxiliary-attack account does not itself contradict the absence of fatalities: injury need not be fatal. It is not an additional design hold, and no incident chronology is invented.
 
 ## Commentary
 

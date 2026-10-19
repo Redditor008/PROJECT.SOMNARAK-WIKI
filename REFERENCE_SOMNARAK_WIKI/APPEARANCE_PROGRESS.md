@@ -267,3 +267,19 @@ Batch154 unit 3: **The Debt Scale — HELD**. Three bounded clarifications: Move
 Batch154 unit 4: **The Debtor — HELD**. Five bounded replacements: both Appearance position descriptions now include the explicitly documented seated Flerehan response; Appearance protocol no longer claims only the recited total can change or that three appearance fields are the whole record; both interaction methods respect the permanent-neighbour/no-solo-baseline limitation and prohibit separation merely to supply a control. Anatomy, mass values, combat, Work responses and all equipment unchanged. [Full evidence](SE_APPEARANCE_REVIEWS/B154_04_DEBTOR.md). OPEN 4/5; No change 0/4. Independent counters unchanged; gate/push follows.
 
 Batch154 unit 5: **The Rejector — HELD**. Three source-supported procedure repairs plus two formatting corrections: Appearance protocol now records actual recurrence and the worker’s within-hour memory loss instead of claiming he never repeats; both interaction methods distinguish archived separation evidence from permission for a fresh trial; removed stray trailing pipes from Escalation Notes and equipment Stat interpretation. No body, family, effect, threshold, timing or numerical change. [Full evidence](SE_APPEARANCE_REVIEWS/B154_05_REJECTOR.md). OPEN 5/5; No change 0/5. Independent counters unchanged; gate/push follows.
+
+## Batch154 — CLOSED 5/5; five documents improved
+
+The owner’s “p + always fixwd/make the docs batter” is implemented as a standing source-supported improvement reminder in R-33. All five complete reviews produced useful primary-document corrections, not only hold reports.
+
+- Forgotten Tear: timed handling and unknown-mourner guidance; carried crystal, not a structure.
+- Debt Eater: reliable hands/mouthless identification and clear Stigma-versus-Object identity.
+- Debt Scale: fixed instrument versus articulation/field expansion; no-mounted-sensors and conversion guidance.
+- Debtor: documented seated Flerehan posture and honest, proximity-safe baseline methods.
+- Rejector: recurrence/memory-loss recording method, no-new-separation instructions, and two stray prose separators.
+
+All five whole designs remain HELD. Independent counters are unchanged: ALL M.A.W. Types Appearance per SE 247/301 (82.06%), 54/301 remain; ALL M.A.W.-W Appearance per SE 247/287 (86.06%), 40/287 remain; SE Appearance Fix 12/301 (3.99%), 289/301 remain. SE statuses: 8 changed, 4 retained, 37 held, 2 blocked, 250 pending. These are source-review coverage and written-design completion, not artwork.
+
+All five original/exact-source/history/final readings, five actual validators per unit and individual verified pushes are recorded. Closing reran all 25 checks; ten ledger tests passed; couples 0/301; comparator inspected 301/292/287/861 with 557 candidate findings, not defect verdicts. Digits, all 301 classification Physical Form rows, equipment statistics, all sources and 296 unselected primaries unchanged. Declared equipment prose exceptions are explicit. Total words 38,283→38,736 (+453). No change 0/5; no ladder extension.
+
+[Readable report](SE_APPEARANCE_REVIEWS/B154_CLOSE.md) and [raw evidence](SE_APPEARANCE_REVIEWS/B154_CLOSE.json) under REFERENCE_SOMNARAK_WIKI. No155 or merge. PR14 OPEN draft to NON-WIKI. Batch301 remains blocked on eight owner bodies, one4+4, generation/validation before copy. Closure gate/verified push follows.
