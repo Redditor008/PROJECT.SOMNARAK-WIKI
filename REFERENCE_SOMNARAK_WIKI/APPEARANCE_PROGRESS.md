@@ -241,3 +241,5 @@ Checkout recovery: local10cd20a versus remote2deae5b; all2370remote tracked file
 Batch153 unit1: Mirror of Soaking — **No change; HELD**. Complete448-line original/final and exact sources/history read; five actual checksPASS. [Evidence](SE_APPEARANCE_REVIEWS/B153_01_MIRROR_OF_SOAKING.md). Batch153OPEN1/5, No change1/1; four pending. No credit increment; individual gate/push follows.
 
 Batch153unit2: Pent — **No change; HELD**. Complete472-line original/final and exact sources/history read; fiveactualchecksPASS. [Evidence](SE_APPEARANCE_REVIEWS/B153_02_PENT.md). Batch153OPEN2/5, No change2/2; threepending. Credit+0; individual gate/push follows.
+
+Batch153unit3: Sehnsucht — Movement summary restored to include both sinking and recorded rises. R18:1 batch-short/0 careful-detail; only one clause replaced, original is retained in opening snapshot. **HELD.** FiveactualchecksPASS; fullreadings in [Evidence](SE_APPEARANCE_REVIEWS/B153_03_SEHNSUCHT.md). Batch153OPEN3/5, No change2/3; credit+0. Individual gate/push follows.

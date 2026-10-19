@@ -15,7 +15,7 @@
 | **Element** | Weight |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A dark tear-shaped object half-buried in the Desolate soil, that sinks deeper whenever someone reaches for it. Lead-cold and damp, it smells of wet stone; a grief that will not be picked up. |
-| **Movement** | Fixed in plan, variable in depth — it holds its position on the ground and moves only downward, away from any hand that comes toward it. |
+| **Movement** | Fixed in plan, variable in depth — it holds its position on the ground, sinks whenever someone reaches for it, and rises during mourning that names no cause. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |
 

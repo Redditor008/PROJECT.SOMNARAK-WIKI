@@ -1,5 +1,15 @@
 # Work In Progress
 
+## Batch153 unit3 — Sehnsucht `O-IIIγ-476`
+
+[[SE-O-IIIγ-476_Sehnsucht_가라앉은_눈물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-476_Sehnsucht_%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80_%EB%88%88%EB%AC%BC.md "SE-O-IIIγ-476_Sehnsucht_가라앉은_눈물.md")]
+
+**What changed: Movement summary restored to include both sinking and recorded rises. R18:1 batch-short/0 careful-detail; only one clause replaced, original is retained in opening snapshot.** Whole-design HELD; Half-buried dark object/rarelyvisible/no motion ever seen versus deep drop, following tear, bottom impact, ocean of one tear and whole-field flood; no documented transformed body or phase distinguishes imagery, output and physical extent. Can breach viaTransform versus failure neverbreach/no prospectofcasualty stays unresolved. Complete original/exact-source/history and final reread afterfiveactualchecks documented in `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_03_SEHNSUCHT.md` with rawchecks/sourcehashes. C-locale words8216→8218. Equipment+0both, SE+0.
+
+**Commentary:** The moisture ring gives the institution an unusually honest instrument: it measures whether anyone turned up. The escort objection remains uncomfortable because the file lets it be correct without using that correctness to make the neglected grief disappear.
+
+Batch153OPEN3/5, No change2/3; pending is not No change. No154/merge. Individual gate/verified push follows.
+
 ## Batch153 unit2 — Pent `N-IVδ-821`
 
 [[SE-N-IVδ-821_Pent_사라진_한숨](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-821_Pent_%EC%82%AC%EB%9D%BC%EC%A7%84_%ED%95%9C%EC%88%A8.md "SE-N-IVδ-821_Pent_사라진_한숨.md")]
