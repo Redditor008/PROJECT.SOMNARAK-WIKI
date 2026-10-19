@@ -251,3 +251,9 @@ Batch153unit5: Ephemera — Appearance now attributes survivor clarity to the re
 ## Batch153 — CLOSED5/5
 
 Three bounded corrections, two **No change**, all five **HELD**. ALLTypes247/301(82.06%,54remaining),Weapon247/287(86.06%,40remaining); SE12/301(3.99%,289remaining). Exiles’ Wall fresh sourcecredit+1both, otherfour no duplicate. Body8changed/4retained/32held/2blocked/255pending. No change2/5: no expansion. Fresh25checks/10testsPASS,301PhysicalForminventory,source/equipment/digit/296unselectedprimaryinvariants. [Full linked results and individual Commentary](SE_APPEARANCE_REVIEWS/B153_CLOSE.md); [raw evidence](SE_APPEARANCE_REVIEWS/B153_CLOSE.json). No154/merge. Nextbatch requiresnewp; Batch301remainsblocked.
+
+## Batch154 — OPEN 0/5; improve the documents
+
+Owner “p + always fixwd/make the docs batter” authorizes154only and reinforces active source-supported improvement of each whole dossier, not an issues-only audit. Fresh255pending/102cue candidates; fixed Forgotten TearO-Iα-709 → Debt EaterC-IIIβ-014 → Debt ScaleC-IIIβ-015 → DebtorC-IIIγ-061 → RejectorC-IIIγ-063. Complete original/exact sources/history and complete final reading, five actual checks, individual Commentary/gate/verified push. Three cumulative No change triggers5→7→10; no forced edits or invented canon.
+
+Openingbase8a5090c1a3c874158097370fa703ea98035b810e. All2379remote-tracked working bytes matched before index/HEAD-only recovery, no documents rewritten. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_OPEN.json`. Counters unchanged: ALLTypes247/301,Weapon247/287,SE12/301. No155/merge; PR14OPENdraft→NON-WIKI. Batch301eightownerbodies/one4+4/generatevalidatebeforecopy remainsblocked.
