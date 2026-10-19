@@ -28,7 +28,23 @@
       "O-Iα-189"
     ],
     "kind": "se-appearance",
-    "reviewed": {},
+    "reviewed": {
+      "N-IIβ-801": {
+        "no_change": true,
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_01_MIRROR_OF_SOAKING.md",
+        "whole_before_reread": true,
+        "whole_final_reread": true,
+        "logical_outcome": "held",
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        },
+        "rendered_check": "not in scope"
+      }
+    },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_OPEN.json",
     "logical_reading_required": true,
     "integrity_rule": "REFERENCE_SOMNARAK_WIKI/RULES/R-33_INTEGRITY_VISUAL_LIVE_CHECK.md"
@@ -1730,8 +1746,32 @@
     {
       "designation": "N-IIβ-801",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-801_Mirror_of_Soaking_솟아오른_거울.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "No change. Retain stationary rising mirror; do not invent face/hand transition.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_01_MIRROR_OF_SOAKING.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/801_Mirror_of_Soaking/SE-801-A__SIDE_CODEX_Mirror_of_Soaking.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/801_Mirror_of_Soaking/SE-801-B__MAW-W_The_Rage_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/801_Mirror_of_Soaking/SE-801-C__MAW-S_The_Rage_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/801_Mirror_of_Soaking/SE-801-D__MAW-G_The_Rage_Lens.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIβ-845",

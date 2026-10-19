@@ -1,5 +1,15 @@
 # Work In Progress
 
+## Batch153 unit1 — Mirror of Soaking `N-IIβ-801`
+
+[[SE-N-IIβ-801_Mirror_of_Soaking_솟아오른_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-801_Mirror_of_Soaking_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EA%B1%B0%EC%9A%B8.md "SE-N-IIβ-801_Mirror_of_Soaking_솟아오른_거울.md")]
+
+**What changed: No change.** Existing Appearance already distinguishes stationary source object, rising height and dated manifestation sites. No unsupported face/hand form was invented. Whole-design HELD: no-face/no-harm versus returned faces/hand/wounds, and spontaneous subsiding versus correction-only height reduction. Complete448-line original, exact801A–D/fullMaster/Tale/index/history, and complete448-line final afterfive actual checks read. B1384b624bc already counted exactWeapon/fullset; equipment+0, SE+0.
+
+**Commentary:** The corrected conduct note is the strongest part of this entity: the mirror responds when the writer describes what happened instead of labelling the angry worker. I also like that genuinely settled workers yield less; it makes the facility’s incentive conflict concrete.
+
+Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_01_MIRROR_OF_SOAKING.md` contains complete reasoning, held relationships, source hashes and raw actual checks. C-locale words7017→7017; all primary and source bytes unchanged. Batch153OPEN1/5; No change1/1; Pent, Sehnsucht, Exiles’ Wall and Ephemera pending, not No change. No154 or merge. Individual gate/verified push follows.
+
 ## Batch153 — OPEN 0/5
 
 Owner p authorizes Batch153 only. Fresh260pending/107cue candidates, equipment excluded. Fixed order N-IIβ-801 Mirror of Soaking → N-IVδ-821 Pent → O-IIIγ-476 Sehnsucht → O-IIIγ-617 Exiles’ Wall → O-Iα-189 Ephemera, each3signals with full-designation tie order. Cues are not defects. Complete original/exact-source/history and complete final logical reading after five actual checks; individual Commentary/evidence/gate/verified push. Three cumulative No change triggers5→7→10. No forced edits, duplicate equipment or legacy body credit. Counters unchanged: SE12/301, alltypes246/301, Weapon246/287. No154 or merge. PR14OPENdraft→NON-WIKI. Batch301eightownerbodies/one4+4/generatevalidatebeforecopy remainsblocked.
