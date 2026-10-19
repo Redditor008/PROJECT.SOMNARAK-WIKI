@@ -1,5 +1,17 @@
 # Work In Progress
 
+## Batch154 unit 4 — The Debtor `C-IIIγ-061`
+
+[[SE-C-IIIγ-061_The_Debtor_빚진_자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-061_The_Debtor_%EB%B9%9A%EC%A7%84_%EC%9E%90.md "SE-C-IIIγ-061_The_Debtor_빚진_자.md")]
+
+**What changed:** Five bounded replacements: both Appearance position descriptions now include the explicitly documented seated Flerehan response; Appearance protocol no longer claims only the recited total can change or that three appearance fields are the whole record; both interaction methods respect the permanent-neighbour/no-solo-baseline limitation and prohibit separation merely to supply a control. Anatomy, mass values, combat, Work responses and all equipment unchanged.
+
+Complete original, exact sources/history and final logical readings after five actual validators recorded in `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_04_DEBTOR.md`. Whole-design **HELD**: No-attack/passive accepting elder vs Collection/Foreclosure/forced extraction attacks and creditor-role language still lacks an action/agency account; body-to-range field and target priority(most-burdened vs nearest willing eye-contact) remain unresolved. Equipment source-review +0 both; SE +0. Words 7,420→7,547; digit sequence unchanged. No false logical or visual PASS.
+
+**Commentary:** He can sit without becoming a different entity. A conditional Work posture belongs in the visible profile, not behind a categorical never-seated claim. Equally, the permanent neighbours cannot supply isolated controls just because a generic method asks for them; the honest instruction is to retain the continuous series and state its limits.
+
+Batch154 OPEN 4/5; No change 0/4. Individual gate/verified push follows; no155/merge.
+
 ## Batch154 unit 3 — The Debt Scale `C-IIIβ-015`
 
 [[SE-C-IIIβ-015_The_Debt_Scale_빚의_저울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-015_The_Debt_Scale_%EB%B9%9A%EC%9D%98_%EC%A0%80%EC%9A%B8.md "SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md")]

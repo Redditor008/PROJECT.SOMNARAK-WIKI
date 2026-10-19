@@ -110,7 +110,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** An old, bent man carrying an invisible burden measured at approximately 7.3 tons by Han-scales.
-- **Position / movement:** Walking or standing; never seated. Record the stoop angle against the chamber mark, the pace over the measured stretch, and the figure he is currently reciting.
+- **Position / movement:** Usually walking or standing; the Flerehan response explicitly records him sitting when he lets the worker hold a part of the burden. Record that Work condition with the posture, the stoop angle against the chamber mark, the pace over the measured stretch, and the figure he is currently reciting.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-C-01, contained with the Debt Triplets
 
@@ -119,12 +119,12 @@
 | Field | Detail |
 |---|---|
 | **Form** | An old, bent man carrying an invisible burden measured at approximately 7.3 tons by Han-scales. |
-| **Position / movement** | Upright, stooped, in slow motion around the chamber. Record the stoop angle from the fixed mark, the pace, and the recited figure at entry and exit. |
+| **Position / movement** | Usually upright and stooped in slow motion around the chamber; under Flerehan he sighs and sits, as recorded in Behavior. Record the Work condition, posture, stoop angle from the fixed mark, pace, and recited figure at entry and exit. |
 | **Material / signature** | Weight. Grey skin, swollen joints, laboured breath; lead-cold and damp with effort, with the smell of wet stone and iron over everything in the chamber. |
 | **Distinctive markers** | An old man bent under nothing, a recited total that only ever rises, and a ledger he has never once been asked to hand over. |
 | **Identification** | Confirm before Work or contact: designation C-IIIγ-061 `[WS]`, Weight expression, Subject-Body manifestation, Fragment (III) coherence, SECTOR-C-01 with the other two Triplets. |
 
-**Appearance protocol:** Take the stoop angle from the fixed mark, time the pace over the measured stretch, and write down the figure he is reciting word for word, including the units, which change. Those three are the holding's whole observational record and the third is the only one that moves. Do not describe him as *strange*. He is grey, cold, slow and courteous, and those are the fields.
+**Appearance protocol:** Take the stoop angle from the fixed mark, time the pace over the measured stretch, and write down the figure he is reciting word for word, including the units, which change. Those are the core appearance fields, not the whole watch record: Observation Progression also requires the other Triplets' gauges, the share taken and the post-contact account. The stoop can ease during Work and Flerehan can bring him to a seat; record those responses with the recited total rather than treating posture as unvarying. Do not describe him as *strange*. He is grey, cold, slow and courteous, and those are the fields.
 
 ## Origin
 - **Formation:** The Debtor is the grandfather aspect of the Debt Triplets: the one who incurred the original debt.
@@ -324,7 +324,7 @@ You hear the footsteps before you see him. Each step lands beneath a weight no e
 
 This holding is read against the rest of Zone C's obligation-built sorrows. Every relation below has been observed and filed and none of them is closed; the 2 inside the Triplets' boundary cannot be shut off to give a control, which is the standing weakness of the whole table.
 
-**Interaction method:** Take each party alone across several shifts before any pairing is attempted, and take all 3 Triplet gauges at every test whichever 2 are being studied. The onset of a shared change is entered with range, duration and trigger, the recited figure on both sides, and what remains once the parties are apart. Re-verify every cycle.
+**Interaction method:** Take solo baselines across several shifts where separation is permitted. The permanent Triplet neighbours have no solo baseline; retain their continuous co-presence series and state that limitation, rather than separating them to satisfy this method. Take all 3 Triplet gauges at every test whichever 2 are being studied. The onset of a shared change is entered with range, duration and trigger, the recited figure on both sides, and what remains once the parties are apart. Re-verify every cycle.
 
 
 ### Entity Interaction Record
@@ -339,7 +339,7 @@ The relations below count as points of contact rather than alliances, and none i
 | **The Inheritor** | Permanent neighbour. He is angry about the thing the Debtor accepts, and the two are audible to each other at all times. | Nine years of continuous co-presence. The gauges move in opposite directions on most shifts: work that calms one raises the other, reliably enough that the wing schedules around it. No solo baseline exists for either. | Both gauge series in full, the scheduling rule, and the absence of a baseline stated plainly. |
 | **The Rejector** | Permanent neighbour. He refuses what the Debtor accepts, and the file treats the pairing as the holding's central unanswered question. | Nine years of continuous co-presence. No exchange of any kind has ever been observed between them — no speech, no orientation, no correlated movement — and the gauges are uncorrelated. They share a wall and nothing else. | The null record in full, and the uncorrelated series. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Use solo baselines before co-presence where they can be obtained under the standing proximity rule. For the permanent Triplet neighbours, state that no solo control exists and use the continuous gauge series without treating it as an isolated experiment; do not separate them merely to supply a control. Record any shared change with distance, duration, trigger, Sorrow Gauge movement and battlefield effect, and any persistence after a separation that was permitted.
 
 ## 이야기 (Narratio) — The Tale
 
