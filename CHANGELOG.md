@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch154 unit 1 — Forgotten Tear `O-Iα-709`
+
+[[SE-O-Iα-709_Forgotten_Tear_잊혀진_눈물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-709_Forgotten_Tear_%EC%9E%8A%ED%98%80%EC%A7%84_%EB%88%88%EB%AC%BC.md "SE-O-Iα-709_Forgotten_Tear_잊혀진_눈물.md")]
+
+**What changed:** Five bounded replacements: correct Movement from a structure/location to a crystal that never moves itself but can be carried; make Recommended response acknowledge the death without inventing the unknown mourner and preserve the timed/incident record; make all three five-minute instructions defer to the existing timed contact entries and living-name hard stop. No new interval, threshold, anatomy, transformation or equipment statistic.
+
+Complete original, exact sources/history and final logical readings after five actual validators recorded in `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_01_FORGOTTEN_TEAR.md`. Whole-design **HELD**: Entity Type says Can breach via Transform, while dimensions never change, it never moves itself and nothing escapes; no recorded current transformation establishes the relationship. Formation into a red tear is historical and does not supply a present breach body. Equipment source-review +0 both; SE +0. Words 6,926→7,049; digit sequence unchanged. No false logical or visual PASS.
+
+**Commentary:** The closing words “someone died; it mattered” grant standing without pretending to identify the mourner. The handling instructions now honor that distinction and the sub-minute incident record. A crystalline object is an intentional sorrow form, not an incomplete humanoid; the remaining problem is its incompatible claims about reach and activation, not its lack of a face.
+
+Batch154 OPEN 1/5; No change 0/1. Individual gate/verified push follows; no155/merge.
+
 ## Batch154 — OPEN 0/5; improve the documents
 
 Owner “p + always fixwd/make the docs batter” authorizes154only and reinforces active source-supported improvement of each whole dossier, not an issues-only audit. Fresh255pending/102cue candidates; fixed Forgotten TearO-Iα-709 → Debt EaterC-IIIβ-014 → Debt ScaleC-IIIβ-015 → DebtorC-IIIγ-061 → RejectorC-IIIγ-063. Complete original/exact sources/history and complete final reading, five actual checks, individual Commentary/gate/verified push. Three cumulative No change triggers5→7→10; no forced edits or invented canon.
