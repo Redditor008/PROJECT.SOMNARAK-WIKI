@@ -87,6 +87,21 @@
           "sect": "PASS"
         },
         "rendered_check": "not performed / not in scope"
+      },
+      "C-IIIγ-063": {
+        "no_change": false,
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_05_REJECTOR.md",
+        "whole_before_reread": true,
+        "whole_final_reread": true,
+        "logical_outcome": "held",
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        },
+        "rendered_check": "not performed / not in scope"
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_OPEN.json"
@@ -245,8 +260,32 @@
     {
       "designation": "C-IIIγ-063",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-063_The_Rejector_거부하는_자.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Three source-supported procedure repairs plus two formatting corrections: Appearance protocol now records actual recurrence and the worker’s within-hour memory loss instead of claiming he never repeats; both interaction methods distinguish archived separation evidence from permission for a fresh trial; removed stray trailing pipes from Escalation Notes and equipment Stat interpretation. No body, family, effect, threshold, timing or numerical change.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_05_REJECTOR.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/063_Rejector/SE-063-A__SIDE_CODEX_The_Rejector.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/063_Rejector/SE-063-B__MAW-W_The_Denial_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/063_Rejector/SE-063-C__MAW-S_The_Denial_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/063_Rejector/SE-063-D__MAW-G_The_Denial_Shield.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIIγ-081",

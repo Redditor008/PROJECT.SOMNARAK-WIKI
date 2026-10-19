@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch154 unit 5 — The Rejector `C-IIIγ-063`
+
+[[SE-C-IIIγ-063_The_Rejector_거부하는_자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-063_The_Rejector_%EA%B1%B0%EB%B6%80%ED%95%98%EB%8A%94_%EC%9E%90.md "SE-C-IIIγ-063_The_Rejector_거부하는_자.md")]
+
+**What changed:** Three source-supported procedure repairs plus two formatting corrections: Appearance protocol now records actual recurrence and the worker’s within-hour memory loss instead of claiming he never repeats; both interaction methods distinguish archived separation evidence from permission for a fresh trial; removed stray trailing pipes from Escalation Notes and equipment Stat interpretation. No body, family, effect, threshold, timing or numerical change.
+
+Complete original, exact sources/history and final logical readings after five actual validators recorded in `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_05_REJECTOR.md`. Whole-design **HELD**: Family identity remains contradictory: Origin/rows/Registrum father/brother/mother vs Tale grandfather/father/son; Debtor file likewise differs. This prevents a supported origin-to-current-identity account; no family member is silently renamed. Equipment source-review +0 both; SE +0. Words 8,047→8,115; digit sequence unchanged. No false logical or visual PASS.
+
+**Commentary:** The in-room record is necessary because the observer may lose the memory, not because the words never recur. That distinction now makes the procedure accurate. Likewise, preserving an archived trial is not permission to repeat it; acknowledging the control limitation is better than telling a Warden to manufacture one.
+
+Batch154 OPEN 5/5; No change 0/5. Individual gate/verified push follows; no155/merge.
+
 ## Batch154 unit 4 — The Debtor `C-IIIγ-061`
 
 [[SE-C-IIIγ-061_The_Debtor_빚진_자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-061_The_Debtor_%EB%B9%9A%EC%A7%84_%EC%9E%90.md "SE-C-IIIγ-061_The_Debtor_빚진_자.md")]
