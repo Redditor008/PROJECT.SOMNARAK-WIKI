@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Identification first, and it is read in the hands: the Eater has them, and it has no mouth at all — height alone is not diagnostic in the Collector district, where half the registered holdings are tall. The approach is confirmed, the roster is ordered by balance before anybody approaches, and the painted radius is checked against the last watch.
+1. **Tension:** Identification first, and it is read in the hands: the Eater has oversized, pale hands, and it has no mouth at all. Height alone is not diagnostic: the identification record lists two other small humanoid subjects in the Collector district, neither mouthless. Confirm the hands and absence of a mouth together rather than identifying it merely as the small figure. The approach is confirmed, the roster is ordered by balance before anybody approaches, and the painted radius is checked against the last watch.
 2. **Clash:** Five turns, worked from outside the painted radius. No hand enters the line at any point, and the worker with the largest outstanding balance stands furthest back by roster rule.
 3. **Resolution:** **Provide a specific amount of Echoes for absorption. Once fed, the fog dissipates**. The condition is met when the amount has been named, counted out and absorbed, and the white fog has gone down — and the file's own warning is that the amount is a figure and not a gesture: an approximation offered to it is read as an unsettled account, and the room gets worse rather than better.
 
@@ -225,7 +225,7 @@ The facets cloud in concentric geometry before the needle-thin discharge. No kin
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a scale-pendant of Void Han-glass, near-translucent and all but colourless, warm in the palm; it is cast as a balance beam and it stays level near a settled room, which is the nearest thing this set has to an instrument.
+**Appearance:** a scale-pendant of Void Han-glass, near-translucent and all but colourless, warm in the palm; it is cast as a balance beam and it stays level near a settled room, which is the nearest thing this set has to an instrument. This Debt Scale is the Debt Eater's Stigma, not the separately registered Object with the same name; its measurements and contact limits below belong to the pendant.
 
 *Measure Before Payment* weighs one obligation once per day, showing whether payment would reduce the burden or move it. It reads what is carried, not what is fair. The measured debt weighs on the bearer for one minute; repetition can make another person’s obligation feel like their own. Keep the pendant off the person measured, since contact spoils the reading.
 

@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch154 unit 2 — The Debt Eater `C-IIIβ-014`
+
+[[SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-014_The_Debt_Eater_%EB%B9%9A%EC%9D%84_%EB%A8%B9%EB%8A%94_%EC%9E%90.md "SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md")]
+
+**What changed:** Two source-supported clarifications: Battle Phases now identifies the oversized hands and mouthless body using the existing two-other-small-subjects comparison, rather than an irrelevant claim that half the holdings are tall; Stigma Appearance explicitly distinguishes this set pendant from the separately registered Debt Scale Object. No changed anatomy, attack, stat, threshold, range, form chronology or permission.
+
+Complete original, exact sources/history and final logical readings after five actual validators recorded in `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_02_DEBT_EATER.md`. Whole-design **HELD**: Mouthless palm-only/contact-only body and claim of no physical injury still conflict with literal bite/opens-wide/chunk-consumed attacks, area-wide erosion and ledger-spread effects; no transition or spatial-channel account reconciles them. Equipment source-review +0 both; SE +0. Words 8,192→8,243; digit sequence unchanged. No false logical or visual PASS.
+
+**Commentary:** This file’s strongest evidence is its refusal to equate relief with release. The new identity sentence helps readers avoid applying a separate Object’s rules to the tiny pendant, while the identification correction makes the actual mouthless, oversized-handed body useful at the door. Neither clarity repair authorizes erasing the harder conflicts in the record.
+
+Batch154 OPEN 2/5; No change 0/2. Individual gate/verified push follows; no155/merge.
+
 ## Batch154 unit 1 — Forgotten Tear `O-Iα-709`
 
 [[SE-O-Iα-709_Forgotten_Tear_잊혀진_눈물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-709_Forgotten_Tear_%EC%9E%8A%ED%98%80%EC%A7%84_%EB%88%88%EB%AC%BC.md "SE-O-Iα-709_Forgotten_Tear_잊혀진_눈물.md")]
