@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IVδ-005": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B159_02_SMOTHERING_MOTHER.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B159_OPEN.json"
@@ -2435,8 +2447,32 @@
     {
       "designation": "N-IVδ-005",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Six replacements: condition row, Battle Resolution and Final Observation now use the already-recorded Presumption Return reading rather than impossible proof-of-peace; generic temperature-swing activation replaced by the fixed heat and actual reach observations; duplicate title word removed; inactive/fixed-entity fragment replaced by stable gauge is not inactivity.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B159_02_SMOTHERING_MOTHER.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-A__SIDE_CODEX_The_Smothering_Mother.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-B__MAW-W_The_Embrace_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-C__MAW-S_The_Embrace_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-D__MAW-G_The_Embrace.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IVδ-157",

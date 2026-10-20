@@ -2,11 +2,23 @@
   "number": 159,
   "status": "OPEN",
   "required": 5,
-  "completed": 1,
+  "completed": 2,
   "no_change": 0,
   "reviews": {
     "N-IIβ-778": {
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B159_01_WELL_OF_UNFINISHED_WORDS.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "N-IVδ-005": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B159_02_SMOTHERING_MOTHER.md",
       "no_change": false,
       "whole_final_reread": true,
       "checks": {
