@@ -1,0 +1,63 @@
+{
+  "batch": 156,
+  "base": "ac6bdf019ebbd957cbda03e212a39cfe37938bae",
+  "pending": 245,
+  "candidates": 92,
+  "pattern": "changes? shape|shifts? between.*forms|became (?:a|an|the) ",
+  "selection": "Pending only; exclude exactly the level-two M.A.W. Equipment section, preserving later sections. Rank descending matching-line count, then full designation. Cues prioritize reading, not defects.",
+  "queue": [
+    {
+      "designation": "C-IVγ-180",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-180_Labyrinth_of_Stolen_Faces_기억의_미로.md",
+      "signals": 2,
+      "evidence": [
+        "Beneath Old Lament, the lost memories gathered, and the gathering became a labyrinth, and the labyrinth cannot tell you which of your past is true.",
+        "**Operational interpretation:** Read this as a structure that is written by its visitors rather than as a hostile place. Every figure here follows from what personnel remembered out loud. The percentage is the whole mechanism; there is no counter to exhaust, and an unentered maze does not change shape."
+      ],
+      "sha256": "3e07b67b81756780ad06d69b81f9b1f14155c6ef7bdb790932f1f4b38c838eb1"
+    },
+    {
+      "designation": "C-IVγ-946",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-946_Blackened_Angel_검어진_천사.md",
+      "signals": 2,
+      "evidence": [
+        "- **Expanded origin context:** On the last night, Kangmin came with one final wicked wish. The angel, black nearly through, tried to refuse and could not — so it did the only thing left to it: its face became a look no mind could hold, and Kangmin, who had wished so much harm, went quite mad from the sight of it, and was taken away raving. The angel stood alone in its alcove, no longer golden, weeping black — and something in it that had trusted the wishes of people was simply gone. It still grants wishes to those who dare to ask. It cannot refuse. But it weeps only black now, and watches the wisher, and there is a look behind its closed eyes that was not there when it was gold.",
+        "On the last night, Kangmin came with one final wicked wish. The angel, black nearly through, tried to refuse, and could not — and so it did the only thing left that it could do. Its face changed. It became a look that no mind was made to hold, a look made of every cruelty it had ever been forced to grant, and Kangmin, who had wished so much harm on so many people, looked up into that face and went quite, quite mad. They found him in the alcove at dawn, raving, and they took him away, and he never spoke a sane sentence again."
+      ],
+      "sha256": "a4e59b344d1fb1a6ae2486ce1c18151e02d3e801e7a9d01af67e770f68efa1b9"
+    },
+    {
+      "designation": "C-IVδ-140",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-140_Gavel_철의_판관.md",
+      "signals": 2,
+      "evidence": [
+        "- **The Event:** Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person.",
+        "The courts judged without listening, and the unlistening, rigid and certain, became a judge who still does not listen."
+      ],
+      "sha256": "a5cd7e57cc58e443101c98e8c8e4b048015177c08040b86a1416b27ac4d3c0a6"
+    },
+    {
+      "designation": "C-IVδ-255",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-255_Rising_Wall_솟아오른_벽.md",
+      "signals": 2,
+      "evidence": [
+        "- **The Event:** A citizen waited for a love that never answered; the waiting became a rising wall.",
+        "Rising Wall is that wall. It carries a Subject-Weight manifestation in the Lament element: the figure of a one-sided remembering so heavy and so un-received that it became a barrier between the one who remembered and the one who forgot. It rises still — because she has not stopped remembering and he has not started, and the asymmetry, uncorrected, builds the wall higher with every passing year."
+      ],
+      "sha256": "075991e5c51a25bcda9df2ed9d1059dcf5af55644e9c3952e1c5deec3007962c"
+    },
+    {
+      "designation": "C-IVδ-767",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-767_Swallow_번져가는_그림자.md",
+      "signals": 2,
+      "evidence": [
+        "- **Expanded origin context:** Bereavement leave is granted by degree of relationship — spouse, parent, child, sibling — and by nothing else. The schedule exists because the alternative was tried: until Year 4186 leave was discretionary, and discretion meant that a worker had to narrate a relationship convincingly to a supervisor who then priced it. Two officers decided identical facts differently in the same month; one refusal was reversed only when the applicant produced letters. Grief became a thing you proved and performed, and the schedule ended that in a single line. What the schedule cannot do is make the unrecognised losses stop happening. The friend of forty years, the colleague, the neighbour's child, the partner nobody registered: 1,900 applications outside the schedule were refused last year, correctly, and the people who made them went to the memorial under the Alpha Tree, because it is open and it asks nothing.",
+        "A memorial stood beneath the Alpha Tree, and the visitors who came to mourn it left their grief behind, and the grief, gathering, became a shadow that spreads."
+      ],
+      "sha256": "b5bb4345958735157406a589ffad8d991260bb52133689c522100be8688b50a9"
+    }
+  ],
+  "authorization": "Owner p after Batch155 closure authorizes Batch156 only.",
+  "repair_direction": "Actively improve the complete documents using exact sources under R-33. No invented resolutions, forced edits, duplicate equipment credit or unsupported SE completion.",
+  "recovery": "All2397remote-tracked working files byte-identical toac6bdf0; mixed reset repaired HEAD/index only, no working-file overwrite. Clean before opening."
+}

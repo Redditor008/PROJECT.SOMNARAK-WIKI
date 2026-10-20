@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch156 — OPEN 0/5
+
+Owner p after Batch155 authorizes Batch156 only. Fresh pending-only screen:245dossiers,92cue candidates. Frozen first five: Labyrinth of Stolen Faces C-IVγ-180; Blackened Angel C-IVγ-946; Gavel C-IVδ-140; Rising Wall C-IVδ-255; Swallow C-IVδ-767. Cues prioritize reading rather than diagnose defects. Full original/exact-source/history reading, supported improvements, five actual validators, full final reading and individual Commentary/gate/verified push required. Three cumulative No change dossiers trigger5→7→10. Pending is not No change.
+
+Opening evidence: `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_OPEN.json`. All2397remote-tracked working files matchedac6bdf0 before metadata-only recovery. No working document overwritten. Independent counters unchanged: ALL Types248/301,Weapon248/287,SE12/301. No157or merge. PR14OPENdrafttoNON-WIKI. Batch301awaits eight owner bodies in one4+4operation, generate/validate before copy.
+
 ## Batch155 — CLOSED 5/5; five dossiers improved
 
 All five fresh reviews made source-supported document improvements; all five whole designs remain HELD. No change0/5; no extension. Exactly Laughing Mask adds one new complete equipment-set review and one exact Weapon-pair review. Counters: ALL M.A.W. Types Appearance per SE248/301(82.39%),53/301remain; ALL M.A.W.-W Appearance per SE248/287(86.41%),39/287remain; SE Appearance Fix12/301(3.99%),289/301remain. Equipment coverage includes source holds, not completed artwork.

@@ -17,107 +17,18 @@
     }
   },
   "active_batch": {
-    "number": 155,
-    "status": "CLOSED",
+    "number": 156,
+    "status": "OPEN",
     "required": 5,
     "queue": [
-      "C-IIIγ-195",
-      "C-IIIγ-373",
-      "C-IIβ-101",
-      "C-IIβ-210",
-      "C-IIβ-290"
+      "C-IVγ-180",
+      "C-IVγ-946",
+      "C-IVδ-140",
+      "C-IVδ-255",
+      "C-IVδ-767"
     ],
-    "reviewed": {
-      "C-IIIγ-195": {
-        "no_change": false,
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_01_LEARNED_YOUR_FACE.md",
-        "whole_before_reread": true,
-        "whole_final_reread": true,
-        "logical_outcome": "held",
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        },
-        "rendered_check": "not performed / not in scope"
-      },
-      "C-IIIγ-373": {
-        "no_change": false,
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_02_SPREADING_WELL.md",
-        "whole_before_reread": true,
-        "whole_final_reread": true,
-        "logical_outcome": "held",
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        },
-        "rendered_check": "not performed / not in scope"
-      },
-      "C-IIβ-101": {
-        "no_change": false,
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_03_EMBERLING.md",
-        "whole_before_reread": true,
-        "whole_final_reread": true,
-        "logical_outcome": "held",
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        },
-        "rendered_check": "not performed / not in scope"
-      },
-      "C-IIβ-210": {
-        "no_change": false,
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_04_LAUGHING_MASK.md",
-        "whole_before_reread": true,
-        "whole_final_reread": true,
-        "logical_outcome": "held",
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        },
-        "rendered_check": "not performed / not in scope"
-      },
-      "C-IIβ-290": {
-        "no_change": false,
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_05_BROKEN_COMPASS.md",
-        "whole_before_reread": true,
-        "whole_final_reread": true,
-        "logical_outcome": "held",
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        },
-        "rendered_check": "not performed / not in scope"
-      }
-    },
-    "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_OPEN.json",
-    "closure_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_CLOSE.json",
-    "no_change": 0,
-    "changed_primaries": 5,
-    "se_credit": 0,
-    "all_types_credit": 1,
-    "weapon_credit": 1,
-    "individual_pushes": {
-      "C-IIIγ-195": "fc68fc7a2ba7ef3df6993fa0d5d1812194443cd9",
-      "C-IIIγ-373": "c564d87cd3b08ce95167ce311f4f07ab4bcf607e",
-      "C-IIβ-101": "3dc5c4b1098befab4b8ed477f9e6f16429fd6e2c",
-      "C-IIβ-210": "8919df17c06394bc23b9d369ef4a19a7f1e5417f",
-      "C-IIβ-290": "c396069b8bc7a15615ea15698437a886961c7302"
-    }
+    "reviewed": {},
+    "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_OPEN.json"
   },
   "dossiers": [
     {

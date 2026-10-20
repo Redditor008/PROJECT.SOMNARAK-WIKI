@@ -309,3 +309,9 @@ Changes: Learned Your Face grade/privacy/identification; Spreading Well rim/reac
 Closing audit:25fresh validators PASS,10ledger tests PASS,couples0/301,557candidate comparator differences. Every digit sequence, numerical equipment value and all301classification Physical Form rows unchanged;296unselected primaries and fingerprinted sources unchanged. Words38,861→39,105(+244). No156or merge; PR14OPENdrafttoNON-WIKI. No artwork/browser/live-site check. Batch301remains blocked on eight owner bodies, one4+4operation, generate/validate before copy.
 
 [Readable close](SE_APPEARANCE_REVIEWS/B155_CLOSE.md) · [Raw evidence](SE_APPEARANCE_REVIEWS/B155_CLOSE.json).
+
+## Batch156 — OPEN 0/5
+
+Owner p after Batch155 authorizes Batch156 only. Fresh pending-only screen:245dossiers,92cue candidates. Frozen first five: Labyrinth of Stolen Faces C-IVγ-180; Blackened Angel C-IVγ-946; Gavel C-IVδ-140; Rising Wall C-IVδ-255; Swallow C-IVδ-767. Cues prioritize reading rather than diagnose defects. Full original/exact-source/history reading, supported improvements, five actual validators, full final reading and individual Commentary/gate/verified push required. Three cumulative No change dossiers trigger5→7→10. Pending is not No change.
+
+Opening evidence: `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_OPEN.json`. All2397remote-tracked working files matchedac6bdf0 before metadata-only recovery. No working document overwritten. Independent counters unchanged: ALL Types248/301,Weapon248/287,SE12/301. No157or merge. PR14OPENdrafttoNON-WIKI. Batch301awaits eight owner bodies in one4+4operation, generate/validate before copy.
