@@ -2,7 +2,7 @@
   "number": 157,
   "status": "OPEN",
   "required": 5,
-  "completed": 2,
+  "completed": 3,
   "no_change": 0,
   "reviews": {
     "C-IVδ-869": {
@@ -19,6 +19,18 @@
     },
     "C-Iα-071": {
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_02_KIND_HEALER.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "C-Iα-247": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_03_TORN_FLOWER.md",
       "no_change": false,
       "whole_final_reread": true,
       "checks": {

@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A figure shaped like a torn flower — true soft petals split down the center, weeping from the tear, growing in the cracks between old buildings. Its petals are warm and give like flesh; fever-cold at the split, it smells of char and crushed bloom. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — reaches from its crack during ordinary contact; on breach it walks along cracks toward damaged memorials, shedding spore without pursuing personnel. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -116,10 +116,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A figure shaped like a torn flower, weeping from its split petals. It appears in cracks between old buildings. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. The Torn Flower file carries the series rather than a single reading. |
+| **Position / movement** | During ordinary contact, record its reach and lean from the crack. On a recorded breach it walks along old mortar, shedding spore; record the route separately from the tear-position series. |
 | **Material / signature** | Grudge. Crimson light along the split, petals warm and yielding like flesh, fever-cold at the tear itself, char and crushed bloom. |
 | **Distinctive markers** | The measured position of the tear, the reach without approach, and the small figure at the bloom's centre that does not grasp. |
-| **Identification** | If it has reached and not stepped, it is this one. If it has stepped, it is not. |
+| **Identification** | Identify the split bloom, crimson tear-light and central reaching figure without contact. A step is a recorded escalation warning, not proof of a different entity; follow the breach protocol. |
 
 **Appearance protocol:** Tear position from the crown in millimetres, reach in centimetres, weeping rate, and the state of the crack. Four readings, none of them requiring contact.
 
@@ -181,7 +181,7 @@ A stable gauge is not a safe encounter, and on this holding the gauge is stable 
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
 
-**Ability:** Heals minor wounds through contact.
+**Ability:** The flat heals one minor current wound; the edge deals Grudge pressure. It must not be used to heal the source tear, a memorial scar, or a wound the bearer needs hidden: the linked Sword record says the blade cuts instead.
 
 **Cost:** The wielder's touch harms people they love.
 
@@ -308,7 +308,7 @@ The petals are beautiful until you see the split. Crimson light burns along the 
 
 ### Interaction Pattern
 
-On the shelf beside it stand the 3 records it has been read with — The Sorrow Flower, The Garden of Thorns and The Orphaned Bell. None of the three stands among them as neither ally nor rival; each was filed as a resonance candidate and kept at that. When the group is run together the watch reports a single row per run — what shifted in the tear, the reach, the spore fall, the gauge, or the containment, or that nothing shifted — and the note above the page is plain that a family likeness is a reason to look and never a result. The record's own distinction is worth carrying forward: the Sorrow Flower is a thing that grew and was let alone, this one is a thing that was finished and not seen.
+On the shelf beside it stand the 3 records it has been read with — The Sorrow Flower, The Garden of Thorns and The Orphaned Bell. None of the three is treated as an ally or a rival; each was filed as a resonance candidate and kept at that. When the group is run together the watch reports a single row per run — what shifted in the tear, the reach, the spore fall, the gauge, or the containment, or that nothing shifted — and the note above the page is plain that a family likeness is a reason to look and never a result. The record's own distinction is worth carrying forward: the Sorrow Flower is a thing that grew and was let alone, this one is a thing that was finished and not seen.
 
 **Interaction method:** Tear and reach measured on this holding before, during and after, by a worker who takes no part in handling the other party. Sweepings are weighed separately for each pairing and the crack is checked for spore the following day.
 
