@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch155 unit 5 — Broken Compass `C-IIβ-290`
+
+[[SE-C-IIβ-290_Broken_Compass_부서진_나침반](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-290_Broken_Compass_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%82%98%EC%B9%A8%EB%B0%98.md "SE-C-IIβ-290_Broken_Compass_부서진_나침반.md")]
+
+**What changed:** Four supported repairs: completed the clipped activation warning; normalized Weapon Appearance label; initial observation checks concrete identity before timing; activation flavor no longer contains a broken Tool Use Profile fragment or implies a Work instruction to lift the compass.
+
+**Commentary:** A warning that ends at can be av fails at the point where it should tell the reader what to avoid. Repair the warning and distinguish observation from activation, while leaving the incompatible discharge histories and weapon identity visible.
+
+Complete original, exact sources/history and complete final reading after five actual validators are recorded in `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_05_BROKEN_COMPASS.md`. Whole design HELD: Never-settled needle/observed slowings versus two unauthorised historical settled bearings and Attack Wrong Way settling; class single-use consumption versus surviving historical use and A–D husk extraction, while primary extraction takes casing residue from unspent object. Whole discharge/return/source-state history remains unresolved. ALL Types +0; Weapon +0; SE completion +0. Words 7,669→7,668; digits unchanged. OPEN 5/5; No change 0/5. Individual gate/verified push follows. No156 or merge.
+
 ## Batch155 unit 4 — Laughing Mask `C-IIβ-210`
 
 [[SE-C-IIβ-210_Laughing_Mask_웃는_가면](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-210_Laughing_Mask_%EC%9B%83%EB%8A%94_%EA%B0%80%EB%A9%B4.md "SE-C-IIβ-210_Laughing_Mask_웃는_가면.md")]
