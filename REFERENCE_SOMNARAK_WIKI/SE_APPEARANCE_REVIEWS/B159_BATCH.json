@@ -2,7 +2,7 @@
   "number": 159,
   "status": "OPEN",
   "required": 5,
-  "completed": 4,
+  "completed": 5,
   "no_change": 0,
   "reviews": {
     "N-IIβ-778": {
@@ -43,6 +43,18 @@
     },
     "N-IVδ-517": {
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B159_04_BROKEN_TEAR.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "N-IVδ-901": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B159_05_MEWGICAL_GIRL.md",
       "no_change": false,
       "whole_final_reread": true,
       "checks": {
