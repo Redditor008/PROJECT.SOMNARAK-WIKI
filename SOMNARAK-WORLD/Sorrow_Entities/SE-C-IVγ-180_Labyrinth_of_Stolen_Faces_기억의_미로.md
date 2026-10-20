@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | On Labyrinth of Stolen Faces: maintain a memory anchor and limit exploration time. The valid Work Types carry the cycle; the condition decides it. |
+| **Recommended response** | Maintain a memory anchor and limit exploration time. Recover the entrant on the handler’s line rather than asking them to navigate back from memory. |
 
 ### Operational Notes
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A shifting labyrinth made from crystallized memories. Its walls change when visitors remember or forget. |
-| **Position / movement** | Stationary — a place or zone; spreads rather than moves. Recorded at every Labyrinth of Stolen Faces cycle against the previous reading. |
+| **Position / movement** | The entrance stays fixed beneath Old Lament. Interior walls and exits rearrange with recall or forgetting; record corridor counts from the entrance rather than treating a changed route as movement of the entrance. |
 | **Material / signature** | The walls are translucent and carry half-scenes rather than a colour; record what the scene showed, who was standing in the corridor when it appeared, and whether it was still showing at the next count. |
 | **Distinctive markers** | Identify it by the walls and by the tether discipline around them: several structures are catalogued beneath Old Lament and this is the one whose walls hold faces and rearrange on an act of recall. Recount the corridors from the anchor rather than from memory before anyone confirms the designation. |
 | **Identification** | Verify against the designation before contact. More than one undercroft record stores memory; this is the one whose floor plan is written by whoever is standing in it, and the one that must never be navigated from recall. |

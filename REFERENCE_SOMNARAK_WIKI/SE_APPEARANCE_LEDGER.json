@@ -27,7 +27,20 @@
       "C-IVδ-255",
       "C-IVδ-767"
     ],
-    "reviewed": {},
+    "reviewed": {
+      "C-IVγ-180": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_01_LABYRINTH_OF_STOLEN_FACES.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_OPEN.json"
   },
   "dossiers": [
@@ -932,8 +945,31 @@
     {
       "designation": "C-IVγ-180",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-180_Labyrinth_of_Stolen_Faces_기억의_미로.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Not yet reviewed in the independent SE appearance pass.",
+      "batch": 156,
+      "outcome": "source hold",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_01_LABYRINTH_OF_STOLEN_FACES.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1018_Labyrinth_of_Stolen_Faces/SE-1018-B__MAW-W_The_Maze_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1018_Labyrinth_of_Stolen_Faces/SE-1018-A__SIDE_CODEX_Labyrinth_of_Stolen_Faces.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1018_Labyrinth_of_Stolen_Faces/SE-1018-C__MAW-S_The_Maze_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1018_Labyrinth_of_Stolen_Faces/SE-1018-D__MAW-G_The_Maze_Key.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVγ-205",
