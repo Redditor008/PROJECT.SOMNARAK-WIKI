@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch155 unit 4 — Laughing Mask `C-IIβ-210`
+
+[[SE-C-IIβ-210_Laughing_Mask_웃는_가면](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-210_Laughing_Mask_%EC%9B%83%EB%8A%94_%EA%B0%80%EB%A9%B4.md "SE-C-IIβ-210_Laughing_Mask_웃는_가면.md")]
+
+**What changed:** Five supported replacements: β equipment grade; non-wearing identification; Stigma charm named in removal cost; +1Composure specified; Use Notes add Empty Ovation/Unscripted Pause, protected memory, identity-fact rear removal, named remover and non-morale restriction.
+
+**Commentary:** The source mask and its equipment charm must not be interchangeable instructions, especially where wearing the source is prohibited. A named removal partner is a safeguard, not evidence that a convincing laugh means the wearer is well.
+
+Complete original, exact sources/history and complete final reading after five actual validators are recorded in `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_04_LAUGHING_MASK.md`. Whole design HELD: Source never moved since4228 and no worn observation because nobody permitted versus four worn peaks/removals/overruns and itemC activated source response: no coherent historical/current authorization and location crosswalk. Do not convert source-wearing ban into an approved use. ALL Types +1; Weapon +1; SE completion +0. Words 6,079→6,288; digits unchanged. OPEN 4/5; No change 0/4. Individual gate/verified push follows. No156 or merge.
+
 ## Batch155 unit 3 — Emberling `C-IIβ-101`
 
 [[SE-C-IIβ-101_Emberling_embers_의_아이](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-101_Emberling_embers_%EC%9D%98_%EC%95%84%EC%9D%B4.md "SE-C-IIβ-101_Emberling_embers_의_아이.md")]
