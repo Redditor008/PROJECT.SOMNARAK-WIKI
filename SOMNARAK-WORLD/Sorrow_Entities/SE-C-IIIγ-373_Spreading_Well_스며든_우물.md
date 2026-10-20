@@ -99,7 +99,7 @@
 - Unresolved, nothing breaks out. The channels simply reach further, and the reaching is reported to the facility by the districts the water arrives in.
 
 ## Appearance
-**Physical Form:** A well whose rim spreads across the ground in thin channels of blue sorrow. Its water reaches places far from the opening.
+**Physical Form:** A fixed stone rim with thin channels of blue sorrow spreading across the ground. Its water reaches places far from the opening.
 
 **Notable Features:** It carries grief along the ground, sings beneath the soil, runs uphill where the sorrow is, and ends at places and households that have never touched the Desolate.
 
@@ -107,7 +107,7 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Lament
-- **Primary marker:** A well whose rim spreads across the ground in thin channels of blue sorrow. Its water reaches places far from the opening.
+- **Primary marker:** A fixed stone rim with thin channels of blue sorrow spreading across the ground. Its water reaches places far from the opening.
 - **Position / movement:** The rim is fixed; the channels extend. Record the stake line, every new channel end, and whether the end is a memorial or an occupied address.
 - **Element signature:** Lament
 - **Registered location:** The Desolate, near The Scar
@@ -116,13 +116,13 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A well whose rim spreads across the ground in thin channels of blue sorrow. Its water reaches places far from the opening. |
+| **Form** | A fixed stone rim with thin channels of blue sorrow spreading across the ground. Its water reaches places far from the opening. |
 | **Position / movement** | A fixed stone rim with a spreading network. The water weeps rather than flows, moves uphill along the sorrow rather than the gradient, and has never withdrawn from any ground it has reached. |
 | **Material / signature** | Lament. Damp salt-cold stone, thin branching channels of blue sorrow carrying no reflection, faces beneath the surface, and the smell of cold rain on old cloth. |
 | **Distinctive markers** | Channels crossing dry dust toward ground that should be dry, water running uphill, the reflectionless surface, and the low sound beneath the soil audible to anyone standing over a channel. |
 | **Identification** | Confirm before work: designation C-IIIγ-373 `[LP]`, O-Relic (Offertorium) tool class, Fragment (III) coherence, Major (γ) potency, Place-Lament manifestation, the Desolate near the Scar. Seepage without channels, without the sound, and with a reflection is groundwater. |
 
-**Appearance protocol:** Record the stake line against every previous one, the number of live channels at the rim, the furthest traced end, any new end and what stands at it, the sound along each channel walked, and the rim sounding. The water's reach is the measurement here; the rim has nothing to report.
+**Appearance protocol:** Record the stake line against every previous one, the number of live channels at the rim, the furthest traced end, any new end and what stands at it, the sound along each channel walked, and the rim sounding. Measure the water's reach separately from the fixed stone rim; retain the rim sounding and seep reading even when the depth is unchanged.
 
 ## Origin
 - **Formation:** The Well formed from sorrow that refused to remain in one place.
@@ -237,7 +237,7 @@ Escalation here is reach. Record the stake line, every new channel end with what
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Wards the Mind — emotional stability and willpower — against Lament pressure and against nothing else; the shroud was cut for one network's kind of delivery and the record shows no other use for it.
+**Ability:** Wards the Mind — emotional stability and willpower — against Lament pressure. The resistance table also records Weight protection; this network-specific use account does not replace those separate resistance values.
 
 **Cost:** the wearer goes numb to minor joys before noticing, and the second worker is the one who reads it — on a set issued one rotation at a time, the numbness is entered whether or not the wearer agrees.
 

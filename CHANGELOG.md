@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch155 unit 2 — Spreading Well `C-IIIγ-373`
+
+[[SE-C-IIIγ-373_Spreading_Well_스며든_우물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-373_Spreading_Well_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%9A%B0%EB%AC%BC.md "SE-C-IIIγ-373_Spreading_Well_스며든_우물.md")]
+
+**What changed:** Five supported repairs: three Appearance markers distinguish fixed rim from spreading channels; the Appearance protocol retains rim sounding and seep/depth observations; Suit prose no longer denies the Weight protection recorded in its table.
+
+**Commentary:** A fixed rim and an expanding network can coexist. The description should distinguish the vessel from the reach rather than treating stationary as a promise that the water cannot arrive elsewhere.
+
+Complete original, exact sources/history and complete final reading after five actual validators are recorded in `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_02_SPREADING_WELL.md`. Whole design HELD: Classification Physical Form says a rim that will not stay put while operational notes, Appearance movement and Tale network describe a fixed rim/extending channels. Appearance markers now state the explicit operational distinction; the remaining classification wording is not complete whole-design certification. Both equipment counters +0; SE completion +0. Words 8,235→8,240; digits unchanged. OPEN 2/5; No change 0/2. Individual gate/verified push follows. No156 or merge.
+
 ## Batch155 unit 1 — Learned Your Face `C-IIIγ-195`
 
 [[SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-195_Learned_Your_Face_%EC%8A%AC%ED%94%94%EC%9D%98_%EA%B1%B0%EC%9A%B8.md "SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울.md")]
