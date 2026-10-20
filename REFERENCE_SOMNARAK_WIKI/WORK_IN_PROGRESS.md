@@ -1,5 +1,15 @@
 # Work In Progress
 
+## Batch157 — OPEN 0/5; WIP and CHANGELOG maintained together
+
+Owner repeated p authorizes Batch157 only, not two batches. The owner also requests continuing WIP and CHANGELOG updates: both accompany each completed unit and closure, with source evidence, unresolved holds, actual checks and verified pushes. Batch156 and its five individual units already contain both records.
+
+Fresh pending-only screen:240dossiers,87cue-bearing candidates. Exclude exactly M.A.W. Equipment; rank matching-line count descending, then full designation. Frozen order: Rising Well C-IVδ-869, Kind Healer C-Iα-071, Torn Flower C-Iα-247, Mirror of Rising C-Iα-392, Absent Landmark C-Iα-863. Each has two cues; cues prioritize reading, not defects. All five are pending, not No change. Minimum5; cumulative3Nochange triggers5→7→10.
+
+Recovered stale HEAD/index after proving all2406remote-tracked working files byte-identical to50d2a18; metadata-only mixed reset, no working-file overwrite. Exact selected originals frozen. Evidence: `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_OPEN.json`. Whole-file original/exact-sources/history/final readings, supported document improvements and independent Commentary required. No invented design resolution, automatic SE credit, artwork, preview,158or merge. Batch301still blocked on owner eight bodies/one4+4/generatevalidatebeforecopy.
+
+Independent counters unchanged: ALL M.A.W. Types Appearance per SE248/301(82.39%),53/301remain; ALL M.A.W.-W248/287(86.41%),39/287remain; SE Appearance Fix12/301(3.99%),289/301remain.
+
 ## Batch156 — CLOSED 5/5; five dossiers improved
 
 Five complete fresh reviews, each original/exact-source/history/final read with five actual checks, Commentary and an individual verified push. All five whole designs remain HELD; SE+0 and both equipment+0 because all exact pairs were previously covered. No change0/5; no extension.

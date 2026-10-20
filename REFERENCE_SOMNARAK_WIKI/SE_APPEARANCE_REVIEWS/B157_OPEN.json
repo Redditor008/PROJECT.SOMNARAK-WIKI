@@ -1,0 +1,67 @@
+{
+  "batch": 157,
+  "base": "50d2a18c3fe647d9b9345a49bcfc20667c9c62ef",
+  "pending": 240,
+  "candidates": 87,
+  "pattern": "changes? shape|shifts? between.*forms|became (?:a|an|the) ",
+  "selection": "Pending only; exclude exactly the level-two M.A.W. Equipment section, preserving later sections. Rank descending matching-line count, then full designation. Cues prioritize reading, not defects.",
+  "queue": [
+    {
+      "designation": "C-IVδ-869",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-869_Rising_Well_솟아오른_우물.md",
+      "signals": 2,
+      "evidence": [
+        "- **Formation:** The Well formed from rage buried so deeply that it became an inner landscape.",
+        "They buried the rage after the massacre, and the buried rage, generations later, rose inside the minds of their descendants, and the rising became a well."
+      ],
+      "sha256": "d94de956d212c2a53506ed291eaebcd6e2021a21b784266058375a10ec650a7b"
+    },
+    {
+      "designation": "C-Iα-071",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md",
+      "signals": 2,
+      "evidence": [
+        "She walked Zone B tending the wounded, and she could not save them all, and the ones she lost she carried, and the carrying became a figure that still heals and still cannot heal itself.",
+        "She died after a lifetime of this. Old, exhausted, carrying the weight of every person she had failed to reach. And the compassion, which had driven her to walk Zone B for a lifetime, and the sorrow, which had accumulated from every citizen she could not save — the two together sank into the Weeping and became a figure."
+      ],
+      "sha256": "337d58e3faaa2563ff18ff9772c09055909698894e38f8ec02ef47a4e021526f"
+    },
+    {
+      "designation": "C-Iα-247",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-247_Torn_Flower_찢어진_꽃.md",
+      "signals": 2,
+      "evidence": [
+        "The mourner did not return in time, and the flower she had planted was torn from the garden before she could see it bloom, and the torn bloom became a figure.",
+        "> *“Beauty damaged before it could bloom fully. The torn bloom became a figure.”* — Citizen, Echo Gardens"
+      ],
+      "sha256": "2f634d8f4dba2529363f769c0385d8cfff4548751baf6f6bc2d2a12e3990691d"
+    },
+    {
+      "designation": "C-Iα-392",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-392_Mirror_of_Rising_솟아오른_거울.md",
+      "signals": 2,
+      "evidence": [
+        "The district forgot its own name, and the name, forgotten by everyone, became a mirror that rises, looking for a face to belong to.",
+        "> *“Identity erased at the scale of a community. The accumulated selfhood, forgotten, became a mirror.”* — Keeper, Archive"
+      ],
+      "sha256": "6a1b358675f99bc46557a59274839a1bcece4f845119542fe1048e98d0ca50b0"
+    },
+    {
+      "designation": "C-Iα-863",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-863_Absent_Landmark_가라앉은_탑.md",
+      "signals": 2,
+      "evidence": [
+        "- **Formation:** The Tower formed from a structure that became a person only after it was lost.",
+        "The tower fell, and the city cleared the rubble, and the district, which had looked at the tower every day of its life, kept looking for it, and the looking became a presence."
+      ],
+      "sha256": "9bb0272f27fd3d9c783affbbdc66219ab9deb7f22a7650006689fe54cc083958"
+    }
+  ],
+  "authorization": "Owner pp + wip and changelog always updated rightp + wip and changelog always updated right, after Batch156. Repeated p authorizes one next batch only:157. WIP and CHANGELOG maintained with every unit and closure.",
+  "repair_direction": "Actively improve the complete documents using exact sources under R-33. No invented resolutions, forced edits, duplicate equipment credit or unsupported SE completion.",
+  "recovery": {
+    "ref": "50d2a18c3fe647d9b9345a49bcfc20667c9c62ef",
+    "checked": 2406,
+    "differences": []
+  }
+}
