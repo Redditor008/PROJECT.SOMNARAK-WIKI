@@ -1,0 +1,62 @@
+{
+  "batch": 158,
+  "base": "98e993958b8f3e99daf2ccaba294830eaa7bc90d",
+  "pending": 235,
+  "candidates": 82,
+  "pattern": "changes? shape|shifts? between.*forms|became (?:a|an|the) ",
+  "selection": "Pending only; exclude exactly level-two M.A.W. Equipment, retaining later sections. Descending matching-line count then full designation; reading priority, not defects.",
+  "queue": [
+    {
+      "designation": "C-Vδ-265",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-265_Forgotten_God_잊혀진_신.md",
+      "signals": 2,
+      "evidence": [
+        "- **Expanded origin context:** The archive cross-references this entity's sorrow with SECTOR-A-01, beneath the Alpha Tree — the same Han density, the same All four signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Subject is not going anywhere.",
+        "The city replaced the God. As Somnarak grew — as the Veil was drawn, as the Collectors tracked sorrow, as the R.D. contained it, as the Consolihan became the annual release — the citizens stopped praying. Not suddenly. Gradually. The God became unnecessary. The city had systems for sorrow now, and systems are more reliable than a deity that only listens and never relieves. The citizens did not reject the God. They stopped needing it. And the God, unneeded, slept."
+      ],
+      "sha256": "f33ba595dac6c6aeea4bc97948fad87b32c470956c07450cc893f202b4504173"
+    },
+    {
+      "designation": "N-IIIβ-160",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-160_The_Debt_Chain_빚의_사슬.md",
+      "signals": 2,
+      "evidence": [
+        "The ledgers multiplied until they could not be stored, and the obligations, crystallizing link by link, became a chain that no one can lift.",
+        "> *“The obligations, crystallized link by link, became a chain too heavy to lift.”* — Keeper, Archive"
+      ],
+      "sha256": "e6c009b3506a8c50682e8357d31b13c0cd6f6c8cd79c264d2a0d379d5110b172"
+    },
+    {
+      "designation": "N-IIIγ-407",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md",
+      "signals": 2,
+      "evidence": [
+        "A memory was removed from a child's mind, and the place the memory pointed to refused to vanish, and the place, lingering, became a guardian of the gap the removal left behind.",
+        "The place the memory pointed to, however, did not vanish. The memory was removed from the child's mind, but the place itself — the location, the physical site that the memory had described — persisted, and the persistence, in the absence of the memory that referenced it, became a thing. Fading Whisper is Subject-Grudge, Void-element: the figure of a place that exists in the world but not in the mind of the one who was meant to remember it, lingering, fading, guarding the gap the removal left."
+      ],
+      "sha256": "54f90b1c7817f013d766715ee7c1ae8915e6de0513885fad1a04468cfc0aced2"
+    },
+    {
+      "designation": "N-IIIγ-409",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-409_Floating_Pillar_떠다니는_기둥.md",
+      "signals": 2,
+      "evidence": [
+        "She leaned on a protector who was never truly there, and when she discovered the absence, the absence became a pillar that floats, supporting nothing.",
+        "The resolution is short. It adopts the Mask Market floor, at the plane of the two marks, as a **local datum** for all elevations recorded in Zone C, and directs that heights in the zone be certified against it. The effect was immediate and entirely as intended: the holding's file became certifiable, the position series became a compliant record, and the thirty-one millimetres stopped being anybody's problem, because a datum is true by definition and cannot be out by anything."
+      ],
+      "sha256": "415d3d0a81d893c0dd6558dd821379daed5a713e9b020527a35d96d5f603240a"
+    },
+    {
+      "designation": "N-IIIγ-628",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-628_Flowing_Seed_흐르는_씨앗.md",
+      "signals": 2,
+      "evidence": [
+        "> *“No single generation could contain it: the grief flowed from parent to child, refusing to settle into any one grave, gathering weight as it went until it became a wandering hollow in its own right.”*",
+        "A soldier's unhonoured anger passed through a Sorrow Seed and became an emptiness that moves, and the commissioning material holds the honours file that was never completed — the citation drafted, the recommendation, and the note recording that the matter was not proceeded with. No reason is given in the note. The file prints it as it stands and the archivist adds that the absence of a reason is the document's whole content. The honours file is held unsealed and may be read by any Warden on the posting without application, which is not the case for most commissioning material in the wing and was decided deliberately when the holding opened. The decision is recorded in a single line in the establishment minute and has not been revisited at any review since."
+      ],
+      "sha256": "e1860d3b63bacd3bca61672e06d8fa454bc16f344d4fa2bf4e41488d2de6c42f"
+    }
+  ],
+  "authorization": "Owner p after Batch157 close authorizes Batch158 only. Maintain WIP and CHANGELOG per completed unit and closure.",
+  "repair_direction": "Improve complete documents where supported; do not invent a resolution, force changes, duplicate source coverage or certify held whole designs."
+}
