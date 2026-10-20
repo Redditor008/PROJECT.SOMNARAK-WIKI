@@ -27,7 +27,20 @@
       "N-IIIγ-409",
       "N-IIIγ-628"
     ],
-    "reviewed": {},
+    "reviewed": {
+      "C-Vδ-265": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B158_01_FORGOTTEN_GOD.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B158_OPEN.json"
   },
   "dossiers": [
@@ -1731,8 +1744,29 @@
     {
       "designation": "C-Vδ-265",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-265_Forgotten_God_잊혀진_신.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Movement and breach announcement now label waking travel and targeting as unwitnessed contingency. Material/signature instructions retain the posture/light/lamp records required by Appearance instead of ordering only an interval. Stat interpretation distinguishes simulation ratings from custodial measurements rather than denying other numbers exist. Final Observation no longer erases the four ordinary-speech incidents by claiming nobody has spoken.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B158_01_FORGOTTEN_GOD.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-265-A__SIDE_CODEX_Sornos.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Vδ-290",
