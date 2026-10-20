@@ -208,7 +208,7 @@ The bands are set squared and overlapped so the weight sits on the shoulders rat
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Turns Grudge aside from the body, which is the only damage this entity delivers. The plate is what allows a worker to stand under the sealed face for the length of a submission.
+**Ability:** Turns Grudge pressure aside from the body, protecting physical form and structural integrity. The plate supports a worker standing under the sealed face for a submission; its resistance is not resistance to the verdict itself, which the encounter record distinguishes from pressure.
 
 **Cost:** Reflexes dull, and the wearer becomes slow to withdraw a statement — which in this chamber costs more than the slowness itself.
 
@@ -302,7 +302,7 @@ Iron footsteps cross the floor. The Judge turns its sealed face toward you, and 
 
 
 
-**At first contact:** The Subject-Body does not announce itself with sound or movement. It arrives as a sensation — Grudge settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A humanoid judge forged from black iron, with a sealed face and a crimson scale embedded in its chest.
+**At first contact:** Confirm the black-iron humanoid by the sealed face and the crimson balance embedded in its chest. The hot-iron smell and the impulse to explain yourself are recorded separately from the scale’s pan position. Do not supply an expression for the featureless plate; write and seal each worker’s account before discussing what the Judge appeared to find.
 
 **With continued exposure:** The chamber stops feeling like a room and starts feeling like a hearing. The sealed face is heavy in a way that is not about weight; the impulse to explain yourself arrives on a delay of a few minutes and then arrives constantly; and the accounts workers write after the shift begin to read as statements rather than as observations. Nothing in the chamber confirms any of it, which is why the sealed-account procedure exists.
 
