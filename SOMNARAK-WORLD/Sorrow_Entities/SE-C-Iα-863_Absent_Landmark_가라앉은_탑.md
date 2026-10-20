@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A humanoid figure in the shape of a tower, half-submerged in the ground as though it sank while still standing, its body ringed with empty windows looking out on nothing. Bloodless-cold, it smells of ash; from its buried floors a faint light still climbs. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — follows the line of the old street, including through the corridors built across it; it walks to the former corner rather than pursuing personnel. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -117,7 +117,7 @@
 |---|---|
 | **Form** | A humanoid tower-shaped figure, half-submerged in the ground and surrounded by empty windows. |
 | **Position / movement** | Walks the line of the old street only; exposed height above grade varies between eleven metres and one and a half. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Material / signature** | Void. Bloodless-cold with a smell of ash; a faint light climbs from the buried floors. Match the unchanged empty-window pattern separately from the changing exposed height. |
 | **Distinctive markers** | Identify it by the windows. It is a tower-shaped figure standing in the ground as though it sank upright, ringed with windows that have no rooms behind them, and a faint light climbs from the buried floors. The height varies between observations; the window pattern does not and is the reliable marker. |
 | **Identification** | Match what you see to the file before you act; the reliable marker is the ring of windows with no rooms behind them, since the height varies between observations. |
 
@@ -273,7 +273,7 @@ A bearer beginning to tell the tower’s event as their own history has reached 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Absent Landmark (C-Iα-863 [VS]) is carried as a Subject-Body manifestation, element Void: a tower that came down at a junction in Old Lament, cleared inside a fortnight, and entered in the record eleven years after the map edition that still drew the junction correctly. Held at Zone B, Old Lament. Under threat it sinks. The height is what the watch reads; the ring of windows is what the watch matches. and was cleared inside a fortnight, and first recorded eleven years after the map edition that drew the junction correctly. Held at Zone B, Old Lament. It sinks when threatened; the height is the reading and the window pattern is the marker.
+Absent Landmark (C-Iα-863 [VS]) is carried as a Subject-Body manifestation, element Void: a tower that came down at a junction in Old Lament, cleared inside a fortnight, and entered in the record eleven years after the map edition that still drew the junction correctly. Held at Zone B, Old Lament. Under threat it sinks. The height is what the watch reads; the ring of windows is what the watch matches.
 
 **Entry 2 — <District Print Return: Forty-Four Items, Nine Naming the Tower>**
 Printed items issued for the district in 4238 that cover the junction: forty-four. Naming the former tower in any form — Old Tower corner, the tower stop, the tower junction: nine. Showing the junction accurately with four streets and nothing else: thirty-five. Exposed height at the first measurement of the year: seven point one metres. At the last: four point two. The only sustained rise followed the tram timetable reissue, in which a clerk restored the stop name without authority and was reprimanded for it in writing. The reprimand is in the file. So is the timetable.
@@ -312,14 +312,14 @@ A tower-shaped figure rises from the street and looks down through windows with 
 
 ### Interaction Pattern
 
-The archive shelves three other holdings beside this one, and none of them is an ally. The Vanished Tower preserves absent architecture; Breach failed as a structure rather than as an argument; The Whispering Gallery carries the memories of its former occupants; and the Broken Clocktower has twice been logged rising in the same week, both of them sinking again by morning. Four relations, measured on one variable — height against the bay datum — and entered with the week's print return beside them, because on this holding a rise is evidence of printing before it is evidence of company.
+The archive shelves four other holdings beside this one, and none of them is an ally. The Vanished Tower preserves absent architecture; Breach failed as a structure rather than as an argument; The Whispering Gallery carries the memories of its former occupants; and the Broken Clocktower has twice been logged rising in the same week, both of them sinking again by morning. Four relations, measured on one variable — height against the bay datum — and entered with the week's print return beside them, because on this holding a rise is evidence of printing before it is evidence of company.
 
 **Interaction method:** Document it alone first, with the district's printed matter alongside, since that is the variable. In shared conditions log the height before and after; with the Broken Clocktower both rise and both sink again by morning, and the holding records that the two have never been observed at height on the same day twice.
 
 
 ### Entity Interaction Record
 
-It is filed with the Old Lament records of things the district still orients by, and the three rows below are the archive's whole stock for this holding. None of them is an alliance; each is a structure the city removed and kept using, and each recognises the others as that and nothing more. In proximity this one rises slightly and sinks again inside the day, which the file reads as the second structure's presence doing what a named item of print does and no more than that.
+It is filed with the Old Lament records of things the district still orients by, and the three rows below are the entries detailed in this section. None of them is an alliance; each is a structure the city removed and kept using, and each recognises the others as that and nothing more. In proximity this one rises slightly and sinks again inside the day, which the file reads as the second structure's presence doing what a named item of print does and no more than that.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|

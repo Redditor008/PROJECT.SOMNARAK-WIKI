@@ -2,7 +2,7 @@
   "number": 157,
   "status": "OPEN",
   "required": 5,
-  "completed": 4,
+  "completed": 5,
   "no_change": 0,
   "reviews": {
     "C-IVδ-869": {
@@ -43,6 +43,18 @@
     },
     "C-Iα-392": {
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_04_MIRROR_OF_RISING.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "C-Iα-863": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_05_ABSENT_LANDMARK.md",
       "no_change": false,
       "whole_final_reread": true,
       "checks": {

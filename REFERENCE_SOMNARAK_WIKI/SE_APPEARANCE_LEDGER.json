@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Iα-863": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_05_ABSENT_LANDMARK.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_OPEN.json"
@@ -1652,8 +1664,32 @@
     {
       "designation": "C-Iα-863",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-863_Absent_Landmark_가라앉은_탑.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Movement now describes the documented old-street route and no target, not pursuit. Replaced generic material/signature prompts with existing cold, ash, climbing light and stable-window observations. Removed the duplicated trailing half of Story Entry1. Corrected the four-record interaction introduction and distinguished its three detailed rows from the additional Clocktower account.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_05_ABSENT_LANDMARK.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/863_Absent_Landmark/SE-863-A__SIDE_CODEX_Absent_Landmark.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/863_Absent_Landmark/SE-863-B__MAW-W_The_Empty_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/863_Absent_Landmark/SE-863-C__MAW-S_The_Empty_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/863_Absent_Landmark/SE-863-D__MAW-G_The_Empty_Window.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Iα-869",
