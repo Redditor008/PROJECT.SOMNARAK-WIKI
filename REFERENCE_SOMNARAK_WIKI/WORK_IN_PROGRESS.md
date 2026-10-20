@@ -1,5 +1,15 @@
 # Work In Progress
 
+## Batch155 — CLOSED 5/5; five dossiers improved
+
+All five fresh reviews made source-supported document improvements; all five whole designs remain HELD. No change0/5; no extension. Exactly Laughing Mask adds one new complete equipment-set review and one exact Weapon-pair review. Counters: ALL M.A.W. Types Appearance per SE248/301(82.39%),53/301remain; ALL M.A.W.-W Appearance per SE248/287(86.41%),39/287remain; SE Appearance Fix12/301(3.99%),289/301remain. Equipment coverage includes source holds, not completed artwork.
+
+Changes: Learned Your Face grade/privacy/identification; Spreading Well rim/reach/protocol/resistance prose; Emberling current Work/identification/brightness labels; Laughing Mask grade/Composure/set safeguards; Broken Compass clipped warning/identification/activation fragment/Appearance label. Each individual review has Commentary, sources, complete readings, five actual checks, commit and verified push.
+
+Closing audit:25fresh validators PASS,10ledger tests PASS,couples0/301,557candidate comparator differences. Every digit sequence, numerical equipment value and all301classification Physical Form rows unchanged;296unselected primaries and fingerprinted sources unchanged. Words38,861→39,105(+244). No156or merge; PR14OPENdrafttoNON-WIKI. No artwork/browser/live-site check. Batch301remains blocked on eight owner bodies, one4+4operation, generate/validate before copy.
+
+[Readable close](SE_APPEARANCE_REVIEWS/B155_CLOSE.md) · [Raw evidence](SE_APPEARANCE_REVIEWS/B155_CLOSE.json).
+
 ## Batch155 unit 5 — Broken Compass `C-IIβ-290`
 
 [[SE-C-IIβ-290_Broken_Compass_부서진_나침반](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-290_Broken_Compass_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%82%98%EC%B9%A8%EB%B0%98.md "SE-C-IIβ-290_Broken_Compass_부서진_나침반.md")]
@@ -50,7 +60,7 @@ Complete original, exact sources/history and complete final reading after five a
 
 Complete original, exact sources/history and complete final reading after five actual validators are recorded in `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_01_LEARNED_YOUR_FACE.md`. Whole design HELD: Current fixed Object/Place versus departing reflection/doppelganger and shattering Ultimate: conditional manifestation, spatial extent and return to the mounted object are not fully specified; no invented body or breach permission. Both equipment counters +0; SE completion +0. Words 8,371→8,351; digits unchanged. OPEN 1/5; No change 0/1. Individual gate/verified push follows. No156 or merge.
 
-## Batch155 — OPEN 0/5
+## Batch155 — opening record (0/5 at opening)
 
 Owner p after Batch154 authorizes this next batch only. The fresh screen finds 97 cue candidates among 250 pending dossiers. Fixed first five: Learned Your Face C-IIIγ-195, Spreading Well C-IIIγ-373, Emberling C-IIβ-101, Laughing Mask C-IIβ-210, Broken Compass C-IIβ-290. Full original/exact-source/history and final reading, supported improvements, five actual validators, individual Commentary and verified push are required. Three cumulative No change reviews trigger 5→7→10; no forced edits.
 

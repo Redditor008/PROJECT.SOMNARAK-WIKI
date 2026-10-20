@@ -299,3 +299,13 @@ Batch155 unit 3: Emberling — HELD. Three supported repairs: Work summary state
 Batch155 unit 4: Laughing Mask — HELD. Five supported replacements: β equipment grade; non-wearing identification; Stigma charm named in removal cost; +1Composure specified; Use Notes add Empty Ovation/Unscripted Pause, protected memory, identity-fact rear removal, named remover and non-morale restriction. [Evidence](SE_APPEARANCE_REVIEWS/B155_04_LAUGHING_MASK.md). OPEN 4/5; No change 0/4. ALL Types +1; Weapon +1; SE +0; gate/push follows.
 
 Batch155 unit 5: Broken Compass — HELD. Four supported repairs: completed the clipped activation warning; normalized Weapon Appearance label; initial observation checks concrete identity before timing; activation flavor no longer contains a broken Tool Use Profile fragment or implies a Work instruction to lift the compass. [Evidence](SE_APPEARANCE_REVIEWS/B155_05_BROKEN_COMPASS.md). OPEN 5/5; No change 0/5. ALL Types +0; Weapon +0; SE +0; gate/push follows.
+
+## Batch155 — CLOSED 5/5; five dossiers improved
+
+All five fresh reviews made source-supported document improvements; all five whole designs remain HELD. No change0/5; no extension. Exactly Laughing Mask adds one new complete equipment-set review and one exact Weapon-pair review. Counters: ALL M.A.W. Types Appearance per SE248/301(82.39%),53/301remain; ALL M.A.W.-W Appearance per SE248/287(86.41%),39/287remain; SE Appearance Fix12/301(3.99%),289/301remain. Equipment coverage includes source holds, not completed artwork.
+
+Changes: Learned Your Face grade/privacy/identification; Spreading Well rim/reach/protocol/resistance prose; Emberling current Work/identification/brightness labels; Laughing Mask grade/Composure/set safeguards; Broken Compass clipped warning/identification/activation fragment/Appearance label. Each individual review has Commentary, sources, complete readings, five actual checks, commit and verified push.
+
+Closing audit:25fresh validators PASS,10ledger tests PASS,couples0/301,557candidate comparator differences. Every digit sequence, numerical equipment value and all301classification Physical Form rows unchanged;296unselected primaries and fingerprinted sources unchanged. Words38,861→39,105(+244). No156or merge; PR14OPENdrafttoNON-WIKI. No artwork/browser/live-site check. Batch301remains blocked on eight owner bodies, one4+4operation, generate/validate before copy.
+
+[Readable close](SE_APPEARANCE_REVIEWS/B155_CLOSE.md) · [Raw evidence](SE_APPEARANCE_REVIEWS/B155_CLOSE.json).

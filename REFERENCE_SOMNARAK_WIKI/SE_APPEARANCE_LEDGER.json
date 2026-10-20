@@ -18,7 +18,7 @@
   },
   "active_batch": {
     "number": 155,
-    "status": "OPEN",
+    "status": "CLOSED",
     "required": 5,
     "queue": [
       "C-IIIγ-195",
@@ -104,7 +104,20 @@
         "rendered_check": "not performed / not in scope"
       }
     },
-    "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_OPEN.json"
+    "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_OPEN.json",
+    "closure_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_CLOSE.json",
+    "no_change": 0,
+    "changed_primaries": 5,
+    "se_credit": 0,
+    "all_types_credit": 1,
+    "weapon_credit": 1,
+    "individual_pushes": {
+      "C-IIIγ-195": "fc68fc7a2ba7ef3df6993fa0d5d1812194443cd9",
+      "C-IIIγ-373": "c564d87cd3b08ce95167ce311f4f07ab4bcf607e",
+      "C-IIβ-101": "3dc5c4b1098befab4b8ed477f9e6f16429fd6e2c",
+      "C-IIβ-210": "8919df17c06394bc23b9d369ef4a19a7f1e5417f",
+      "C-IIβ-290": "c396069b8bc7a15615ea15698437a886961c7302"
+    }
   },
   "dossiers": [
     {
@@ -3319,6 +3332,11 @@
       "number": 154,
       "status": "CLOSED",
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_BATCH.json"
+    },
+    {
+      "number": 155,
+      "status": "CLOSED",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_BATCH.json"
     }
   ],
   "equipment_reviews": [
