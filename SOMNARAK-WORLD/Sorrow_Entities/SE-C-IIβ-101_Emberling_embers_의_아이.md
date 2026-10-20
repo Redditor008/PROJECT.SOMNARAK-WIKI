@@ -70,7 +70,7 @@
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan, Viderehan, and Ferrehan; Pugnahan was attempted historically but is now prohibited |
 | **Battlefield** | SECTOR-D-02, Echo Gardens — contained |
 | **Resolution Condition** | Sit beside it, share warmth, and offer comfort. Do not chase or seize the ember |
 
@@ -124,7 +124,7 @@
 | **Distinctive markers** | Light without heat; a slow cautious gait that avoids open ground; and one ember carried in both hands that has never gone out, including through the coldest night the holding has recorded. |
 | **Identification** | Confirm designation `C-IIβ-101 [LS]`, Echo (II) coherence, Moderate (β) potency, Subject-Body manifestation, Lament element, SECTOR-D-02. Two other Gardens holdings present as small figures in poor light and neither carries anything; the carried ember is the identifying mark and is confirmed before approach. |
 
-**Appearance protocol:** Log size against the outline card, position on the Gardens grid, stance, brightness against the lamp scale, and the ember confirmed present in both hands. Brightness is the gauge-leading indicator here and is taken first. Write concretely: the entity has measurable features and none of the field words for 'unsettling' belong in the log.
+**Appearance protocol:** Log size against the outline card, position on the Gardens grid, stance, brightness against the lamp scale, and the ember confirmed present in both hands. Brightness is the gauge-leading indicator here and is taken first. Write concretely: the entity has measurable features and none of the field words for 'unsettling' belong in the log. Record body brightness and the carried ember's dimming-series reading separately, naming which light each entry measures. The file associates brightening with escalation and with successful attendance; a brighter reading without its source is not a single operational verdict.
 
 ## Origin
 - **Formation:** The Child formed from a forgotten fairy tale about a girl carrying embers through the cold while searching for warmth no one could give.
@@ -281,7 +281,7 @@ The Brooch’s memory companion checks one chosen happy memory after activation,
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Emberling as a Subject with Subject-Body manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-D-02, Echo Gardens — contained. |
+| **Initial exposure** | The observer identifies Emberling as a Subject with Subject-Body manifestation. Confirm the carried ember and the slow, cautious gait that avoids open ground before approach; Lament signature and SECTOR-D-02, Echo Gardens — contained, complete the registration check. |
 | **Sustained observation** | Confirms the three constants: it seeks warmth and cannot make any, personnel near it feel cold regardless of the glow, and it settles for anybody who sits without asking anything of it. Keep the emotional effect and the brightness in separate columns — they move on different clocks and conflating them cost the file two years of usable series. |
 | **Activation or escalation** | Record brightness first, then grid position, then distance of approach, then the gauge. The entity will not change shape or speed; everything observable at this stage is light and distance. |
 | **Post-contact review** | Note what changed in the entity, in the room and in yourself, what held, and what was hardest to name. A report on this holding is incomplete if it logs the hazard and omits that the most effective containment measure available is a person sitting down, and that the facility has never found a way to require it. |

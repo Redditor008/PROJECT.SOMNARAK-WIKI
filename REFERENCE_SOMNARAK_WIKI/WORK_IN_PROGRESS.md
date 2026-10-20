@@ -1,5 +1,15 @@
 # Work In Progress
 
+## Batch155 unit 3 — Emberling `C-IIβ-101`
+
+[[SE-C-IIβ-101_Emberling_embers_의_아이](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-101_Emberling_embers_%EC%9D%98_%EC%95%84%EC%9D%B4.md "SE-C-IIβ-101_Emberling_embers_의_아이.md")]
+
+**What changed:** Three supported repairs: Work summary states Pugnahan is historical and prohibited; initial observation names carried ember and cautious gait; Appearance protocol labels body versus carried-ember light instead of giving an unqualified brightness verdict.
+
+**Commentary:** Brighter cannot be a single operational verdict when the same file uses it for escalation and for successful attendance. Label the measured light first; doing that is useful even while the underlying discrepancy remains open.
+
+Complete original, exact sources/history and complete final reading after five actual validators are recorded in `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_03_EMBERLING.md`. Whole design HELD: Ember brightness/body brightness/held ember: labelling readings reduces ambiguity but the body escalation, successful dimming/recovery, resolution brightness falls and final observation language do not yet form a complete measurement crosswalk. Both equipment counters +0; SE completion +0. Words 8,507→8,558; digits unchanged. OPEN 3/5; No change 0/3. Individual gate/verified push follows. No156 or merge.
+
 ## Batch155 unit 2 — Spreading Well `C-IIIγ-373`
 
 [[SE-C-IIIγ-373_Spreading_Well_스며든_우물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-373_Spreading_Well_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%9A%B0%EB%AC%BC.md "SE-C-IIIγ-373_Spreading_Well_스며든_우물.md")]

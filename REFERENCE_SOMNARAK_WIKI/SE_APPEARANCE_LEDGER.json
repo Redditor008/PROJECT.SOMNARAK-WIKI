@@ -57,6 +57,21 @@
           "sect": "PASS"
         },
         "rendered_check": "not performed / not in scope"
+      },
+      "C-IIβ-101": {
+        "no_change": false,
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_03_EMBERLING.md",
+        "whole_before_reread": true,
+        "whole_final_reread": true,
+        "logical_outcome": "held",
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        },
+        "rendered_check": "not performed / not in scope"
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_OPEN.json"
@@ -591,8 +606,32 @@
     {
       "designation": "C-IIβ-101",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-101_Emberling_embers_의_아이.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Three supported repairs: Work summary states Pugnahan is historical and prohibited; initial observation names carried ember and cautious gait; Appearance protocol labels body versus carried-ember light instead of giving an unqualified brightness verdict.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_03_EMBERLING.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/101_Emberling/SE-101-A__SIDE_CODEX_Emberling.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/101_Emberling/SE-101-B__MAW-W_The_Ember_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/101_Emberling/SE-101-C__MAW-S_The_Ember_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/101_Emberling/SE-101-D__MAW-G_The_Ember_Cloak.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIβ-102",
