@@ -8,8 +8,8 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 
 | Workstream | Completed | Coverage | Remaining |
 |---|---:|---:|---:|
-| ALL M.A.W. Types Appearance per SE — source-review coverage | 247 / 301 | 82.06% | 54 / 301 |
-| ALL M.A.W.-W Appearance per SE — source-review coverage | 247 / 287 | 86.06% | 40 / 287 |
+| ALL M.A.W. Types Appearance per SE — source-review coverage | 248 / 301 | 82.39% | 53 / 301 |
+| ALL M.A.W.-W Appearance per SE — source-review coverage | 248 / 287 | 86.41% | 39 / 287 |
 | SE Appearance Fix — independent written-design pass | 12 / 301 | 3.99% | 289 / 301 |
 
 These are coverage counters, **not promises that every held discrepancy is repaired**. The first two retain their historical criteria and explicit source holds. The new counter starts at zero; old equipment reviews, general prose fixes, shape screening and the R-32 clarification are not backfilled as SE appearance completions.
@@ -445,3 +445,9 @@ Movement now describes the documented old-street route and no target, not pursui
 **Commentary:** The tower works because nobody had to die for its absence to matter. The map notation is a modest, believable response: acknowledge what people still turn toward without pretending the building is there.
 
 **Progress:** Batch157OPEN5/5; No change0/5. Whole-designHELD/+0SE; equipmentboth+0. Types248/301(82.39%),53/301remain; Weapon248/287(86.41%),39/287remain; SE12/301(3.99%),289/301remain. Cumulative3Nochange triggers5→7→10; no158/merge/visual claims. WIP and CHANGELOG updated together in this unit.
+
+## Batch157 — CLOSED 5/5
+
+**Batch157 closure (2026-10-21): CLOSED 5/5, No change 0/5, all five whole designs HELD.** Twenty supported replacements across Rising Well, Kind Healer, Torn Flower, Mirror of Rising and Absent Landmark; LC_ALL=C words 37,970→38,060 (+90). Fresh closure checks 25/25 and ledger tests 10/10 PASS; every digit, all 301 classification Physical Form rows, all fingerprinted sources and all 296 unselected primary files preserved. Each unit was separately gated and push-verified with both logs; both logs updated again here. Full per-unit changes, Commentary, unresolved whole-design relationships and machine evidence are in the closure records. Types248/301(82.39%;53 remain); Weapon248/287(86.41%;39 remain;14 excluded); SE12/301(3.99%;289 remain). No duplicate/retroactive credits; equipment coverage is not design/artwork completion. States8changed/4retained/52held/2blocked/235pending. Pending≠No change; no ladder expansion. No158 authorization, no merge, no rendered/live-site inspection. PR14 remains OPEN/draft/NON-WIKI; owner controls merge. Batch301 remains blocked on eight owner bodies/one4+4/generatevalidatebeforecopy.
+
+[Closure report](SE_APPEARANCE_REVIEWS/B157_CLOSE.md) · [Machine evidence](SE_APPEARANCE_REVIEWS/B157_CLOSE.json)
