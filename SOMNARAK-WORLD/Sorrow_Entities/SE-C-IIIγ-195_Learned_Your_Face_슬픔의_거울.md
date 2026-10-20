@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
+| **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | Viderehan and Ferrehan only; it is an Object/Place and an O-Relic. Ferrehan lowers the gauge, Viderehan holds it level, and every approach is logged against the learned-face count because the count is what the approach costs. |
@@ -122,7 +122,7 @@
 | **Distinctive markers** | A tall mirror that returns a grief instead of a face, in a bay whose floor is marked for people to stand with their backs to it. |
 | **Identification** | Confirm before Work or contact: designation C-IIIγ-195, Void expression, Object-Void manifestation, O-Relic tool class, the Alpha Tree bay in SECTOR-A-01. The Alpha Tree holds three mirrors and they are confused in correspondence about twice a year. |
 
-**Appearance protocol:** Take the recognition range first, from the marks, because the range is the only figure that moves. Then the surface condition, the learned-face count, the channeller's time at the glass to the second, and the reflection as the channeller reports it — in their words, if they offer them, and not at all if they do not. No worker is asked what they saw. There is no field for it and there will not be one.
+**Appearance protocol:** Take the recognition range first, from the marks, then the surface condition, the learned-face count and the channeller's time at the glass to the second. Keep the contents of the reflection out of the report: the post-contact review does not record them, and the debrief form has no field for them. No worker is asked what they saw.
 
 ## Origin
 - **Formation:** The Mirror formed from sorrow that people concealed from one another.
@@ -302,7 +302,7 @@ The set works only with company, and its rule is that seeing a sorrow's shape is
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | Confirm the frame, the bay marks and the designation before anything else; the recognition range comes off the marks first, because the range is the only figure on this holding that moves, and it moves for exactly one reason. |
+| **Initial exposure** | Confirm the frame, the bay marks and the designation before anything else; the recognition range comes off the marks first, and enter it alongside the learned-face count rather than using a new viewer to check identification. |
 | **Sustained observation** | Recognition range from the marks, surface condition, channeller time at the glass, the learned-face count, and the gauge of every adjacent holding, which moves when this one is channelled. |
 | **Activation or escalation** | Activation is a direct gaze and lasts until the viewer looks away. Escalation is the reflection gaining detail the channeller did not supply; at that point the clock-holder calls the close and the call is not discussed in the bay. |
 | **Post-contact review** | Range before and after, the learned-face count with the new name added, the channeller's gauge at 24 hours and 14 days, and the adjacent holdings' stabilisation figures. The content of the reflection is not reviewed and is not recorded. |

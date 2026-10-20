@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch155 unit 1 — Learned Your Face `C-IIIγ-195`
+
+[[SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-195_Learned_Your_Face_%EC%8A%AC%ED%94%94%EC%9D%98_%EA%B1%B0%EC%9A%B8.md "SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울.md")]
+
+**What changed:** Three supported repairs: summary M.A.W. grade restored to γ; Appearance reporting no longer invites reflection contents into the record; initial-exposure identification pairs range with learned-face count without requiring a fresh viewer.
+
+**Commentary:** A grief becoming visible is not permission to turn its contents into a report. The document’s own privacy rule should govern its recording instructions, even while its physical and operational design remains unsettled.
+
+Complete original, exact sources/history and complete final reading after five actual validators are recorded in `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_01_LEARNED_YOUR_FACE.md`. Whole design HELD: Current fixed Object/Place versus departing reflection/doppelganger and shattering Ultimate: conditional manifestation, spatial extent and return to the mounted object are not fully specified; no invented body or breach permission. Both equipment counters +0; SE completion +0. Words 8,371→8,351; digits unchanged. OPEN 1/5; No change 0/1. Individual gate/verified push follows. No156 or merge.
+
 ## Batch155 — OPEN 0/5
 
 Owner p after Batch154 authorizes this next batch only. The fresh screen finds 97 cue candidates among 250 pending dossiers. Fixed first five: Learned Your Face C-IIIγ-195, Spreading Well C-IIIγ-373, Emberling C-IIβ-101, Laughing Mask C-IIβ-210, Broken Compass C-IIβ-290. Full original/exact-source/history and final reading, supported improvements, five actual validators, individual Commentary and verified push are required. Three cumulative No change reviews trigger 5→7→10; no forced edits.
