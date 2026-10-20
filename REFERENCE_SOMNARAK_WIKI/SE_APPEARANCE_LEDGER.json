@@ -27,7 +27,20 @@
       "O-IIβ-235",
       "O-IIβ-301"
     ],
-    "reviewed": {},
+    "reviewed": {
+      "N-IVδ-902": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B160_01_REPEATED_SURVIVOR.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B160_OPEN.json"
   },
   "dossiers": [
@@ -2687,8 +2700,32 @@
     {
       "designation": "N-IVδ-902",
       "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IVδ-902_The_Repeated_Survivor_되풀이의_생존자.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Six supported repairs: Appearance protocol separates visible sequence from inferred private intent; Ferrehan is primary endurance rather than guaranteed safety; containment priority no longer treats confrontation or a barrier as permanent suppression. Equipment grade interpretation now names this δ set and its distinct costs; unknown iteration counts may be recorded honestly; broken interaction sentence repaired.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B160_01_REPEATED_SURVIVOR.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/UNK_902_The_Repeated_Survivor/UNK_902-A__SIDE_CODEX_The_Repeated_Survivor.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/UNK_902_The_Repeated_Survivor/UNK_902-B__MAW-W_The_Final_Act.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/UNK_902_The_Repeated_Survivor/UNK_902-C__MAW-S_The_Performers_Coat.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/UNK_902_The_Repeated_Survivor/UNK_902-D__MAW-G_The_Repeated_Line.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IVδ-909",

@@ -132,7 +132,7 @@
 | **Distinctive markers** | Vacant attentive eyes; addresses personnel by role; restages spaces as a stage. |
 | **Identification** | Confirm loop-aware movement and the empty "I" before any contact. |
 
-**Appearance protocol:** Record whether the entity's movements precede its intent, whether it addresses personnel by role or name, and whether the space begins to read as a stage. Do not assume the agent you recognize is the agent you knew.
+**Appearance protocol:** Record the visible sequence: the movement, any line or role assignment, and the staging change that follows. Keep the observer’s inferred anticipation separate from those observations; the agent’s private intent is not an independently readable marker. Do not assume the agent you recognize is the agent you knew.
 
 ## Origin
 
@@ -153,7 +153,7 @@
 
 ### Operational Work Notes
 
-The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-shaped absence that has lived the loop longer than any non-Echo-Core should. Work must distinguish the performer (the empty stage-presence) from the buried original (the agent who first remembered). Flerehan reaches the original but is dangerous — the grief it surfaces is the accumulated mourning of every death across every iteration. Ferrehan is the safe work: do not engage as a scene, do not accept a role, and outlast the performance. A stable gauge does not mean the entity has ended; it means the scene has paused.
+The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-shaped absence that has lived the loop longer than any non-Echo-Core should. Work must distinguish the performer (the empty stage-presence) from the buried original (the agent who first remembered). Flerehan reaches the original but is dangerous — the grief it surfaces is the accumulated mourning of every death across every iteration. Ferrehan is the primary endurance work, not a guarantee of safety: do not engage as a scene, do not accept a role, and outlast the performance. A stable gauge does not mean the entity has ended; it means the scene has paused.
 
 ## Breach Behavior
 
@@ -171,7 +171,7 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 ### Escalation Notes
 
 - **Breach type:** Escape — it breaks free and stalks the corridors on foot, arriving wherever personnel have just been rather than travelling there.
-- **Containment priority:** Physical suppression. Corridors are closed and Wardens are stood across them, and what those Wardens are containing is a body walking a route it has walked a thousand times before.
+- **Containment priority:** Protect personnel without accepting the scene’s assigned roles. Physical confrontation feeds rehearsed violence; a corridor barrier is not proof that a recurrent body has been ended. Read the response against Ferrehan and the recorded returns across iterations, not as a permanent kill condition.
 - **Sorrow Gauge on breach:** 40% the moment it walks out, then ten points a turn for as long as it stays loose — and faster if anyone in the corridor begins remembering the loop along with it.
 
 ## M.A.W. Equipment
@@ -243,7 +243,7 @@ The set is *No Role Accepted*, with the resonance *Scene Without Cast*. The Line
 | **At limit** | Duration, loss-of-self markers, involuntary speech, loop-memory intrusions. |
 | **After use** | Removal, lingering emptiness, recovery of identity, repair need and reuse authorization. Record the weapon bearer’s unexpected decision, the Coat wearer’s unscripted choice and the Line bearer’s unpredicted sentence separately. A quiet performance is not evidence that agency has returned. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. Every piece of this set trades a piece of the self for function.
+**Stat interpretation:** Grade is not safety. A δ-grade piece from this set may perform flawlessly while still eroding agency, numbing emotion or supplying unchosen speech. Every piece of this set trades a piece of the self for function.
 
 ## 관찰 기록 (Observation Log)
 
@@ -266,7 +266,7 @@ The set is *No Role Accepted*, with the resonance *Scene Without Cast*. The Line
 | **Initial exposure** | Identify the loop-aware movement (preceded intent), the role-based address, and the vacant attentive eyes. |
 | **Sustained observation** | Record iteration cues — recurring lines, repeating deaths, the staging changes that signal an impending "twist." |
 | **Activation or escalation** | Record the restaged event, the assigned roles, the curtain state, and Sorrow Gauge movement before any response. |
-| **Post-contact review** | Record which loop-variation was restaged and whether any personnel retained loop-memories afterward. The report is incomplete if it omits the iteration count. |
+| **Post-contact review** | Record which loop-variation was restaged and whether any personnel retained loop-memories afterward. Record the iteration count when established, and mark it unestablished when it is not; do not supply a guessed count to complete the report. |
 
 **Observation method:** Record the first movement that precedes intent, the first role assigned, the first recurring line, and the condition that ends the encounter. Do not take a mark.
 
@@ -321,7 +321,7 @@ The corridor narrows into a proscenium, and the agent at the far end has already
 
 ### Interaction Pattern
 
-The Repeated Survivor must be assessed against the loop, not in isolation. Record whether an interacting party retains across iterations (Echo-Cores) and how the survivor responds — deference, recognition, or staged violence. The survivor treats non-retaining personnel as cast; it treats retaining personnel as either directors or rival authors. Each interaction is a new experiment — even identical entities in identical conditions may respond differently across cycles. repeats identically — the survivor "twists the plot."
+The Repeated Survivor must be assessed against the loop, not in isolation. Record whether an interacting party retains across iterations (Echo-Cores) and how the survivor responds — deference, recognition, or staged violence. The survivor treats non-retaining personnel as cast; it treats retaining personnel as either directors or rival authors. Each interaction is a new experiment — even identical entities in identical conditions may respond differently across cycles, because the survivor "twists the plot."
 
 ### Entity Interaction Record
 
