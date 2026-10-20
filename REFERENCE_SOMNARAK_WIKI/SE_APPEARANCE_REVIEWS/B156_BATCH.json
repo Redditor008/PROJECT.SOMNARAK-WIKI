@@ -2,7 +2,7 @@
   "number": 156,
   "status": "OPEN",
   "required": 5,
-  "completed": 3,
+  "completed": 4,
   "no_change": 0,
   "reviews": {
     "C-IVγ-180": {
@@ -31,6 +31,18 @@
     },
     "C-IVδ-140": {
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_03_GAVEL.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "C-IVδ-255": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_04_RISING_WALL.md",
       "no_change": false,
       "whole_final_reread": true,
       "checks": {
