@@ -31,11 +31,11 @@
 | **Starting Sorrow Gauge** | 55–75% (it begins each cycle already heavy with old wishes) |
 | **Han-Energy yield** | 14–20 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Monitored |
-| **Activation threshold** | Any spoken wish directed at the statue |
+| **Activation threshold** | A wish — spoken or clearly thought — directed at the statue |
 | **Tool / M.A.W. grade** | γ |
 | **Vessel-Destructible** | No — a sentient relic; shattering the figure does not end it. The gold refuses to stay broken, and the sorrow simply settles elsewhere. |
 | **Han Dust Drop (Vessel Destruction)** | — (not vessel-destructible) |
-| **Recommended response** | Do not speak a wish within the Shrine. Reduce the Gauge through Viderehan and Ferrehan only; Object/Place entities do not respond to Flerehan or Pugnahan. Above all, never wish ill of another within earshot of the angel — it cannot refuse, and it remembers. |
+| **Recommended response** | Do not direct a wish at the statue, aloud or in clear thought. Viderehan observes the wish-record without lowering the Gauge; Ferrehan is the recorded decreasing response. Flerehan and Pugnahan are invalid. Name the angel’s grief and empty the dish by hand under the stated management procedure; do not ask it for relief. |
 
 ### Operational Notes
 
@@ -199,7 +199,7 @@ The gauge response is only meaningful in context. Blackened Angel is recorded as
 
 ### Escalation Notes
 
-Escalation here is produced entirely by speech. Record the words spoken, by whom, whether they were on the script, the interval to the first tear, its colour against the reference card, the dish volume before and after, and the extent of the tarnish at the base. The figure contributes nothing to the telemetry; it does not move, does not sound, and does not change except in those two respects.
+Record the words spoken, by whom, whether they were on the script, the interval to the first tear, its colour against the reference card, the dish volume before and after, and the extent of the tarnish at the base. Also preserve any reported wish clearly thought toward the statue: the activation rule is not limited to audible speech. Record whether the fixed figure’s face is resting, straining or incomprehensible, without approaching to obtain a description of the Face.
 
 **Response sequence (Blackened Angel (검어진 천사)):** Stop all speech in the room immediately, including apology and including explanation. Clear the alcove, seal the doorway, and take the dish reading from the threshold. Do not attempt to withdraw a wish; there is no recorded instance of a withdrawal having any effect and two of attempting one making it worse. Do not improvise an unlisted Work Type.
 
