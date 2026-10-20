@@ -1,0 +1,62 @@
+{
+  "batch": 159,
+  "base": "408a061a08ed478ff0a9050d75d9a512cf6ba843",
+  "pending": 230,
+  "candidates": 77,
+  "pattern": "changes? shape|shifts? between.*forms|became (?:a|an|the) ",
+  "selection": "Pending only; exclude exactly level-two M.A.W. Equipment, retaining later sections. Descending matching-line count then full designation; reading priority, not defects.",
+  "queue": [
+    {
+      "designation": "N-IIβ-778",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-778_Well_of_Unfinished_Words_솟구친_우물.md",
+      "signals": 2,
+      "evidence": [
+        "- **Expanded origin context:** The archive cross-references this entity's sorrow with Zone E, Border region — the same Han density, the same Lament signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Object/Place is not going anywhere.",
+        "They gathered to speak of the dead, and the gathering was dispersed before anyone could finish, and the unfinished words sank into the ground and became a well."
+      ],
+      "sha256": "32b526c95053feb06dc7aebf99a1597f64ba5ffc389fd0de825ef6222a37ae88"
+    },
+    {
+      "designation": "N-IVδ-005",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md",
+      "signals": 2,
+      "evidence": [
+        "> *“She could not save the child the Han took, and the failure became a terror of losing another — so her love crystallized into an embrace that will never let go, no matter who it crushes.”*",
+        "- A watch that closes unresolved does not simply stop; it changes shape. She runs the breach pattern the file records, and the sorrow nothing pacified takes the loud way out that a finished watch would have spared."
+      ],
+      "sha256": "45949dccfe44d56ef5ca48f5d7c52b0b62b7b1b7ff33b14712359978f5822455"
+    },
+    {
+      "designation": "N-IVδ-489",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-489_Forgotten_Silence_잊혀진_침묵.md",
+      "signals": 2,
+      "evidence": [
+        "The citizens suppressed difficult truths for so long that they forgot they were suppressing, and the silence, forgotten even by those who created it, became invisible, and the invisible became an entity.",
+        "> *“The silence, forgotten even by those who created it, became the air they breathe.”* — Citizen, Zone C"
+      ],
+      "sha256": "be3b81fd04002a4a2f01a20c762aff4323f883d205838dbc6c688907a74c7842"
+    },
+    {
+      "designation": "N-IVδ-517",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-517_Broken_Tear_부서진_눈물.md",
+      "signals": 2,
+      "evidence": [
+        "- **The Event:** A mourner died before finishing a lament; the final tear became a broken dream figure.",
+        "Broken Tear is Subject-Dream, Lament-element: the figure of a grief that outlived the mourner — the tear that became a being, the lament that separated from the lamenter and continued independently, crying without the person who cried. The Tear does not mourn a specific loss. It mourns — the way the mourner mourned, past reason, past recovery, past the point where mourning is an act and into the territory where mourning is a condition. The Tear carries the accumulated, uncompleted sorrow of a lifetime of weeping, separated from the weeper, walking, crying, without the body that produced it."
+      ],
+      "sha256": "837cf06f44049b820865a96eed73cdec80eeb91b35c55a6fb0d16da2e7c609e1"
+    },
+    {
+      "designation": "N-IVδ-901",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IVδ-901_The_Mewgical_Girl_야옹_마법소녀.md",
+      "signals": 2,
+      "evidence": [
+        "- **The Event:** Mimi and Shu Shu became joined through the same magical core. The body could not move without a soul; the soul could not affect the physical world without a body. Their incompatibility became a permanent two-person existence.",
+        "They still argue. They still interrupt each other's songs. Mimi calls Shu Shu paranoid; Shu Shu calls Mimi naive, and then protects her anyway. But when the staff rises and both voices speak the transformation words, the body moves as one — not because they became the same person, but because they finally admitted that neither could save the other alone. The Mewgical Girl is the city's wish wearing a painted smile and a real fury, and she is, against every odds, still trying."
+      ],
+      "sha256": "f781b8c259288d94cdd1d28ea22039b85665b024982d51e34842f34fa649de9e"
+    }
+  ],
+  "authorization": "Owner p after Batch158 close authorizes Batch159 only. Maintain WIP and CHANGELOG per completed unit and closure.",
+  "repair_direction": "Improve complete documents where supported; do not invent a resolution, force changes, duplicate source coverage or certify held whole designs."
+}

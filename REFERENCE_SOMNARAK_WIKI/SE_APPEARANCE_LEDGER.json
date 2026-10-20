@@ -17,80 +17,18 @@
     }
   },
   "active_batch": {
-    "number": 158,
-    "status": "CLOSED",
+    "number": 159,
+    "status": "OPEN",
     "required": 5,
     "queue": [
-      "C-Vδ-265",
-      "N-IIIβ-160",
-      "N-IIIγ-407",
-      "N-IIIγ-409",
-      "N-IIIγ-628"
+      "N-IIβ-778",
+      "N-IVδ-005",
+      "N-IVδ-489",
+      "N-IVδ-517",
+      "N-IVδ-901"
     ],
-    "reviewed": {
-      "C-Vδ-265": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B158_01_FORGOTTEN_GOD.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "N-IIIβ-160": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B158_02_DEBT_CHAIN.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "N-IIIγ-407": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B158_03_FADING_WHISPER.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "N-IIIγ-409": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B158_04_FLOATING_PILLAR.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "N-IIIγ-628": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B158_05_FLOWING_SEED.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      }
-    },
-    "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B158_OPEN.json",
-    "close_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B158_CLOSE.json"
+    "reviewed": {},
+    "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B159_OPEN.json"
   },
   "dossiers": [
     {
