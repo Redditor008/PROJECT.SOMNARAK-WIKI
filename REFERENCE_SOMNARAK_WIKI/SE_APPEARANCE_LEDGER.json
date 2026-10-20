@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Iα-392": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_04_MIRROR_OF_RISING.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_OPEN.json"
@@ -1586,8 +1598,32 @@
     {
       "designation": "C-Iα-392",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-392_Mirror_of_Rising_솟아오른_거울.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Repaired the broken Entity Type sentence while retaining modelled-only zone corruption and observed heaviness. Appearance protocol no longer dismisses the reflection interval, frame inspection and strike-list records required elsewhere. Field return logs removal and lingering fatigue instead of prescribing extra Mantle wear until a post-removal cost ends.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_04_MIRROR_OF_RISING.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-392-A__SIDE_CODEX_Mirror_of_Rising.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-392-B__MAW-W_The_Rising_Hammer.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-392-C__MAW-S_The_Rising_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-392-D__MAW-G_The_Rising_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Iα-622",

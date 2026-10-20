@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-392 [O]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; modelled. what is measured is heaviness in the room on high readings — workers report the walk to the scale as uphill —  |
+| **Entity Type** | **Subject** — Non-breaching; zone corruption is modelled, not observed. High readings produce reported heaviness: workers describe the walk to the scale as uphill. |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -124,7 +124,7 @@
 | **Distinctive markers** | The painted scale, the strike-list extract pinned beside it, and the two-to-four-second lead of the reflection over the figure. |
 | **Identification** | This evening's reading against yesterday's and against the same date last year. A single reading identifies nothing. |
 
-**Appearance protocol:** At eighteen hundred, standing square to the wall, read the lower edge of the glass against the painted scale and enter the figure to the centimetre. Two workers read independently and both figures are entered; where they differ by more than three centimetres both are kept and neither is averaged. Nothing else about the appearance is required and nothing else has ever been useful.
+**Appearance protocol:** At eighteen hundred, standing square to the wall, read the lower edge of the glass against the painted scale and enter the figure to the centimetre. Two workers read independently and both figures are entered; where they differ by more than three centimetres both are kept and neither is averaged. Keep the reflection interval, monthly frame inspection and strike-list extract beside the height series; an invented name for the face is not a reading.
 
 ## Origin
 - **Formation:** It formed in the old record hall of the Mask Market in the months after an amalgamation, in a disused surface that had hung there since before the merge. No moment of formation was observed.
@@ -238,7 +238,7 @@ The set is built around going quietly to a record that is hard to reach, carryin
 | **Before use** | Wielder, piece, the evening's reading, and the specific strike-list entry the work concerns. Work on this holding is not authorised without a named ward in the authorisation. |
 | **During use** | Time, the figure read off the scale by each of the two readers, and whether the wielder was asked for the face's name by anybody present. The last field was added in Year 4232 and has been answered yes eleven times. |
 | **At limit** | Watch length, the next evening's reading, and whether the glass moved during the watch, which it has not in nineteen years except on the night it was struck. |
-| **After use** | Mantle kept on for six hours or until the fatigue lifts, frame inspected, scale checked against the plate, and the reading entered in the gazetteer office's copy as well as the Market's. Both copies are kept because they have differed twice. |
+| **After use** | Mantle removal time and the fatigue persisting afterwards logged, frame inspected, scale checked against the plate, and the reading entered in the gazetteer office's copy as well as the Market's. Both copies are kept because they have differed twice. |
 
 **Stat interpretation:** The Weapon and Suit are β; the Stigma is α in the primary, linked item, and Registry, while the Master Codex table and Entry 348 say β. The Side page does not state the Stigma grade, so the `β · β` overview remains a set-grade hold; the three profiles are not described as uniformly β. Against people the set costs a day of borrowed anger, six hours of fatigue, and — for the charm — a permanent half-step, which has ended two people's response careers. The establishment has a column for the fatigue.
 **Full-set source review (2026-10-11):** Reviewed the `β · β` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-392-A` (`C-Iα-392 [O]`, set `4/4`), items `SE-392-B/C/D` (`MAW-W/S/G-392-01`), Registry rows 651–654, Master Codex table/Entries 346–348, Tale 116, and archetype `MAW-W-392`. Every primary review section is present. The Side set page has no standalone Appearance section; all three linked items have Appearance sections, and none has a separately labelled transition block. The Master entries provide no item Appearance or full combat profile; the repository has Weapon archetypes but no Suit/Stigma archetype catalog. The Weapon's Weight 5–9, speed 2, range 2, max 4, and 25-Echo profile agrees with the Side/item; the Suit values and cost align. The Stigma's Head slot, 5% acquisition, and +1 Resolve are supported by the primary/Side/item; the effect now names Resolve. The Stigma's grade dispute is not silently resolved: the primary, linked item, and Registry give the Stigma α, while Master table/Entry 348 give β; the Side page does not state its grade.
