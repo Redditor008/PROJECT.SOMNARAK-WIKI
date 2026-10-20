@@ -2,7 +2,7 @@
   "number": 156,
   "status": "OPEN",
   "required": 5,
-  "completed": 4,
+  "completed": 5,
   "no_change": 0,
   "reviews": {
     "C-IVγ-180": {
@@ -43,6 +43,18 @@
     },
     "C-IVδ-255": {
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_04_RISING_WALL.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "C-IVδ-767": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_05_SWALLOW.md",
       "no_change": false,
       "whole_final_reread": true,
       "checks": {

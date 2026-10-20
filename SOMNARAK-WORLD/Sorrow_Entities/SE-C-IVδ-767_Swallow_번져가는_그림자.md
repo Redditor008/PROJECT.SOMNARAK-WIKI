@@ -119,7 +119,7 @@
 | **Position / movement** | Fixed source, moving edge; the chalk bands on the floor are the record of every edge it has had. |
 | **Material / signature** | Lament. Cold rain and damp, a drop in light with no drop in output, and detail going soft at a distance you can measure. |
 | **Distinctive markers** | No outline, no source, no response to illumination, and a floor marked in sixty-one years of chalk. |
-| **Identification** | If raising the lights changes nothing at all, it is this one. Nothing else beneath the Alpha Tree behaves that way. |
+| **Identification** | At the established fixed light level, confirm sourceless dimming, softened detail and the recorded chalk bands against the designation. Do not raise the lights to test identity: the recorded trials changed neither gloom nor boundary and increased disorientation. |
 
 **Appearance protocol:** Chalk the edge at the close of every shift and leave the previous mark where it is. Photograph the bands monthly against the fixed survey points. Record the light level at the four fixtures, the depth of the dimming at the centre, and the width of the fade at the edge, which is where the judgement lies. Do not wash the floor and do not resurface it.
 
@@ -173,7 +173,7 @@ The escalation reads differently from a stock containment event, and the watch l
 | **Manifestation** | Place-Grudge |
 | **Primary effect** | Misattributed mourning: real grief, accurately felt, fastened to the wrong person or to nobody at all. |
 | **Duration / rate** | Indefinite. The effect on a worker resolves in days to weeks; the area's extent resolves on nothing. |
-| **Risk** | Critical (δ) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Critical (δ) Object/Place producing Lament pressure. A worker may carry another person’s grief as their own without recognising the change; exit screening tests attribution, not whether the worker reports feeling distressed. |
 | **Management** | The attributed line in the shift log, and the standing undertaking that it is never used as evidence of anything. |
 
 **Activation reporting order:** chalk band against the last three → light level at the fixtures → extent of the dimming → personnel inside the edge and for how long → attribution screens outstanding → anything set down and not recovered. Viderehan and Ferrehan only; there is nothing here to confront and nothing that answers tears.
@@ -320,7 +320,7 @@ Light disappears at the edges of the room. A shadow spreads over the floor and c
 
 **When the entity activates:** Activation reshapes the room. The Lament that was atmospheric becomes directed — aimed, purposeful, alive in a way the containment protocols anticipated but never fully contain.
 
-**After departure:** Departure is not relief. The Place-Grudge is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** Leaving the affected area does not make it contained. Swallow remains in custody without control, and the worker can carry a grief that feels like their own. A counsellor asks who they are grieving for and how they know; departure does not replace that attribution screen or close an unresolved one.
 
 ### Interaction Pattern
 

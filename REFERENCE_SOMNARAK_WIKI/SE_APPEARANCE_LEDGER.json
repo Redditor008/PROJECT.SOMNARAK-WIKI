@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVδ-767": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_05_SWALLOW.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_OPEN.json"
@@ -1300,8 +1312,31 @@
     {
       "designation": "C-IVδ-767",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-767_Swallow_번져가는_그림자.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Not yet reviewed in the independent SE appearance pass.",
+      "batch": 156,
+      "outcome": "source hold",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_05_SWALLOW.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/767_Swallow/SE-767-A__SIDE_CODEX_Swallow.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/767_Swallow/SE-767-B__MAW-W_The_Fading_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/767_Swallow/SE-767-C__MAW-S_The_Fading_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/767_Swallow/SE-767-D__MAW-G_The_Fading_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-823",
