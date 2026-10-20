@@ -365,3 +365,13 @@ Opening evidence: `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_OPEN.json`
 **Commentary:** Keeping the light fixed makes the gloom an observed condition rather than a puzzle someone must solve by spending more power. The attributed line matters because it lets a loss be named without turning the mourner’s account into another application to be judged.
 
 **Counters/progress:** Equipment both+0; SE+0,HELD. Batch156OPEN5/5. Pending≠Nochange; cumulative three Nochange triggers5→7→10. Written-design only; no artwork/preview/deployment/157/merge.
+
+## Batch156 — CLOSED 5/5; five dossiers improved
+
+Five complete fresh reviews, each original/exact-source/history/final read with five actual checks, Commentary and an individual verified push. All five whole designs remain HELD; SE+0 and both equipment+0 because all exact pairs were previously covered. No change0/5; no extension.
+
+Changes: Labyrinth grade/fixed-entrance geometry/tether recovery; Blackened Angel thought-trigger/observation response/Face recording; Gavel concrete contact/pressure-versus-verdict protection; Rising Wall grade/broken identification/protocol/italic closure; Swallow fixed-light identity/custody/attribution risk. Fifteen exact replacements, digits and all301classification Physical Form rows unchanged. Words41,638→41,759(+121), LC_ALL=Cwc.
+
+Closing25fresh validators PASS;10ledger tests PASS;couples0/301;557comparator candidates, not automatic defects.296unselected primaries and all fingerprinted sources unchanged. Full frozen92candidate ranking reproduced from245pending. Counters: ALL M.A.W. Types Appearance per SE248/301(82.39%),53/301remain; ALL M.A.W.-W248/287(86.41%),39/287remain; SE12/301(3.99%),289/301remain. States8changed/4retained/47held/2blocked/240pending.
+
+[Readable close](SE_APPEARANCE_REVIEWS/B156_CLOSE.md) and [raw evidence](SE_APPEARANCE_REVIEWS/B156_CLOSE.json). PR14OPENdrafttoNON-WIKI; owner controls merge. No157/artwork/preview/deployment. Batch301still waits for eight owner bodies/one4+4/generatevalidatebeforecopy. Final standalone report corrects earlier abbreviated progress note’s missing hash and explicit named counters.
