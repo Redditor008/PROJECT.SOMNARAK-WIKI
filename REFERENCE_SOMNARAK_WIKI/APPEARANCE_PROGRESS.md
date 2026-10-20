@@ -8,8 +8,8 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 
 | Workstream | Completed | Coverage | Remaining |
 |---|---:|---:|---:|
-| ALL M.A.W. Types Appearance per SE — source-review coverage | 248 / 301 | 82.39% | 53 / 301 |
-| ALL M.A.W.-W Appearance per SE — source-review coverage | 248 / 287 | 86.41% | 39 / 287 |
+| ALL M.A.W. Types Appearance per SE — source-review coverage | 249 / 301 | 82.72% | 52 / 301 |
+| ALL M.A.W.-W Appearance per SE — source-review coverage | 249 / 287 | 86.76% | 38 / 287 |
 | SE Appearance Fix — independent written-design pass | 12 / 301 | 3.99% | 289 / 301 |
 
 These are coverage counters, **not promises that every held discrepancy is repaired**. The first two retain their historical criteria and explicit source holds. The new counter starts at zero; old equipment reviews, general prose fixes, shape screening and the R-32 clarification are not backfilled as SE appearance completions.
@@ -585,3 +585,9 @@ Seven supported repairs: alert and movement follow on-foot unspoken-wish pursuit
 **Commentary:** The joke works because healing and threat can come from the same smile without making either voice disposable. The separate bearer voice matters too: equipment care must not turn the human operator into an unacknowledged third performance. Soot is a consequence for the doll, not a guarantee of safety for the person she just healed and hurt.
 
 **Progress:** Batch159OPEN5/5; No change0/5. Whole-designHELD/+0SE; equipmentTypes+1/Weapon+1, fresh exactUNK901 pair not Duri901. Types249/301(82.72%),52/301remain; Weapon249/287(86.76%),38/287remain; SE12/301(3.99%),289/301remain. Cumulative3Nochange triggers5→7→10; no160/merge/visual claims. WIP and CHANGELOG updated together in this unit.
+
+## Batch159 — CLOSED 5/5
+
+**Batch159 closure (2026-10-21): CLOSED 5/5; No change 0/5; all five whole designs HELD.** Well of Unfinished Words, Smothering Mother, Forgotten Silence, Broken Tear and The Mewgical Girl each received supported repairs, a complete final reread, individual Commentary, both-log updates and an individually gated, verified push. Exactly 29 replacements; LC_ALL=C words 38,771→38,952 (+181). Fresh closure validators 25/25 accepted, ledger tests 10/10 PASS; Mewgical verify’s two original deliberate dialogue-ellipsis flags explicitly retained, not falsely reported as seam[]. Every digit sequence, all 301 classification Physical Form rows, all fingerprinted sources and all 296 unselected primaries preserved. Fresh exact UNK-901 source review adds +1 Types/+1 Weapon, not Duri’s Heart’s unrelated 901; the other four pairs were already counted. SE completion +0. Current counters: Types249/301 (82.72%;52 remain); Weapon249/287 (86.76%;38 remain;14 excluded); SE12/301 (3.99%;289 remain). States8changed/4retained/62held/2blocked/225pending. Equipment coverage is not design/artwork completion. Pending≠No change; no ladder expansion. Both WIP and CHANGELOG updated again at closure. No Batch160 authorization, merge, deployment or rendered/live-site inspection. PR14 remains OPEN/draft/NON-WIKI; owner controls merge. Batch301 remains blocked on eight owner bodies/one4+4/generatevalidatebeforecopy.
+
+[Closure report](SE_APPEARANCE_REVIEWS/B159_CLOSE.md) · [Machine evidence](SE_APPEARANCE_REVIEWS/B159_CLOSE.json)
