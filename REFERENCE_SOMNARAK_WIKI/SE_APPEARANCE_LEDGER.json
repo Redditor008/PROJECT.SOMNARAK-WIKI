@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Iα-071": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_02_KIND_HEALER.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_OPEN.json"
@@ -1454,8 +1466,32 @@
     {
       "designation": "C-Iα-071",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Identification uses established visible form and warns that apparent absence of injury is not safety. Breach announcement now says injured-directed walking and nonviolent return, as the dossier’s explicit correction and disposition already require, instead of indiscriminate hunting. Corrected Not→None in the interaction introduction.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_02_KIND_HEALER.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/071_Kind_Healer/SE-071-A__SIDE_CODEX_The_Kind_Healer.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/071_Kind_Healer/SE-071-B__MAW-W_The_Gentle_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/071_Kind_Healer/SE-071-C__MAW-S_The_Gentle_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/071_Kind_Healer/SE-071-D__MAW-G_The_Gentle_Touch.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Iα-114",
