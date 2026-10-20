@@ -283,3 +283,9 @@ All five whole designs remain HELD. Independent counters are unchanged: ALL M.A.
 All five original/exact-source/history/final readings, five actual validators per unit and individual verified pushes are recorded. Closing reran all 25 checks; ten ledger tests passed; couples 0/301; comparator inspected 301/292/287/861 with 557 candidate findings, not defect verdicts. Digits, all 301 classification Physical Form rows, equipment statistics, all sources and 296 unselected primaries unchanged. Declared equipment prose exceptions are explicit. Total words 38,283→38,736 (+453). No change 0/5; no ladder extension.
 
 [Readable report](SE_APPEARANCE_REVIEWS/B154_CLOSE.md) and [raw evidence](SE_APPEARANCE_REVIEWS/B154_CLOSE.json) under REFERENCE_SOMNARAK_WIKI. No155 or merge. PR14 OPEN draft to NON-WIKI. Batch301 remains blocked on eight owner bodies, one4+4, generation/validation before copy. Closure gate/verified push follows.
+
+## Batch155 — OPEN 0/5
+
+Owner p after Batch154 authorizes this next batch only. The fresh screen finds 97 cue candidates among 250 pending dossiers. Fixed first five: Learned Your Face C-IIIγ-195, Spreading Well C-IIIγ-373, Emberling C-IIβ-101, Laughing Mask C-IIβ-210, Broken Compass C-IIβ-290. Full original/exact-source/history and final reading, supported improvements, five actual validators, individual Commentary and verified push are required. Three cumulative No change reviews trigger 5→7→10; no forced edits.
+
+Opening evidence: `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_OPEN.json`. All2388remote-tracked files matched75ae73e before metadata-only recovery; no document rewritten. Independent counters unchanged: ALL Types247/301, Weapon247/287, SE12/301. No Batch156 or merge. PR14 OPEN draft to NON-WIKI. Batch301 awaits eight owner bodies in one4+4operation, generation/validation before copy.

@@ -1,5 +1,11 @@
 # Work In Progress
 
+## Batch155 — OPEN 0/5
+
+Owner p after Batch154 authorizes this next batch only. The fresh screen finds 97 cue candidates among 250 pending dossiers. Fixed first five: Learned Your Face C-IIIγ-195, Spreading Well C-IIIγ-373, Emberling C-IIβ-101, Laughing Mask C-IIβ-210, Broken Compass C-IIβ-290. Full original/exact-source/history and final reading, supported improvements, five actual validators, individual Commentary and verified push are required. Three cumulative No change reviews trigger 5→7→10; no forced edits.
+
+Opening evidence: `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_OPEN.json`. All2388remote-tracked files matched75ae73e before metadata-only recovery; no document rewritten. Independent counters unchanged: ALL Types247/301, Weapon247/287, SE12/301. No Batch156 or merge. PR14 OPEN draft to NON-WIKI. Batch301 awaits eight owner bodies in one4+4operation, generation/validation before copy.
+
 ## Batch154 — CLOSED 5/5; five documents improved
 
 The owner’s “p + always fixwd/make the docs batter” is implemented as a standing source-supported improvement reminder in R-33. All five complete reviews produced useful primary-document corrections, not only hold reports.
