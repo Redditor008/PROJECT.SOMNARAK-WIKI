@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A dreamlike figure formed from luminous silence — an outline that glows faintly, with no face that memory can hold. Salt-damp, it smells of cold rain; the quiet of a person the world forgot, made briefly visible. |
-| **Movement** | Stationary — a body or drop of liquid. |
+| **Movement** | Stationary — the luminous figure holds its position; the quiet can spread beyond it. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -148,7 +148,7 @@ Read the gauge only beside the room: this entity's response depends on element, 
 **Reading the response:** A brighter outline with a falling gauge means the exchange happened, and it also means the worker is now carrying one fewer unsaid thing — the reading and the cost are the same event on this file. Withdrawal into dream-space is not a failed technique: it is the room declining a worker who came with nothing to offer, and it should be logged as an empty cycle rather than as resistance. A climbing gauge means somebody in the chamber has been made to speak.
 ## Breach Behavior
 
-> *"Forgotten Silence has broken free. Hunts personnel indiscriminately."*
+> *"Forgotten Silence: the figure remains in place; the quiet is spreading beyond the chamber."*
 
 | Field | Detail |
 |---|---|
@@ -220,7 +220,7 @@ The lens is not manufactured and cannot be requested: it condenses after an exch
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 to work against the entity itself, the largest bonus in this wing and useless beyond this chamber.
+**Effect:** +3 Clarity while working the source entity. The bonus does not make another person's withheld words available to the bearer.
 
 **Ability:** Reveals the emotional meaning behind silence.
 
@@ -245,7 +245,7 @@ The set answers to one rule wherever it is used: a truth is named by its owner a
 | **At limit** | The limit is the flattening: the first mouthful of something hot, a joke landing — none of it arrives, and the bearer does not notice the absence until somebody else does. A lens-holder who begins paraphrasing other people's silences reaches the same limit by a different road, and both calls are taken by the second worker and stand against the bearer's. On a Forgotten Silence piece the use ends there whatever the bearer says. |
 | **After use** | Take the piece back and set the baseline against the person: has the flatness outlasted the rotation, and is the bearer still holding something they have not said? The sealed envelope is opened by the second person rather than the wielder. The answer is entered whether or not the bearer agrees, and where nothing has been said in either direction the piece is not reissued to them. |
 
-**Stat interpretation:** Performance and cost run on separate axes and do not correlate. δ measures what the silence can do to a team that arrives carrying things. It does not measure the lens, which costs almost nothing in Echoes and makes every unspoken thing in a room legible to the wearer, including the ones addressed to them.
+**Stat interpretation:** Performance and cost run on separate axes and do not correlate. δ measures what the silence can do to a team that arrives carrying things. The Lens reads emotional pressure, not the words a silence would contain. Record intensity, direction and duration without paraphrase; its questions create no right to an answer.
 
 ## 관찰 기록 (Observation Log)
 
@@ -296,7 +296,7 @@ Bring something of your own. Observers who enter this chamber carrying nothing u
 
 | Say the withheld truth in your own voice and leave every other person in the room free to keep theirs. | Draw it out of the person beside you, however gently: the room brightens on somebody else's pain, the gauge climbs, and the file records that a truth was taken rather than offered. |
 |---|---|
-| The outline brightens a step and the worker walks out carrying one fewer unsaid thing — the exchange took, and the file gains an hour of it. | The figure withdraws into dream-space without hostility, having been given nothing it could meet, and the watch closes as an empty cycle rather than a failed one. |
+| The outline brightens a step and the worker walks out carrying one fewer unsaid thing — the exchange took, and the file gains an hour of it. | The gauge climbs because somebody was made to speak. Record the coercion and the affected person's account; do not file it as the empty cycle of a worker who brought nothing. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -309,7 +309,7 @@ Sound drains from the room, but understanding gathers. The figure glows where no
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Dream becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 
-**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Lament becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Dream was waiting; now it moves.
+**When the entity activates:** The outline brightens without a new arrival. The figure remains in place; any widening of the quiet is logged as field spread, not travel or pursuit.
 
 **After departure:** Leaving the chamber does not end the exchange: the flatness travels out with the worker, and so does the sensation of a room whose sound arrives from further off than the corridor allows. The Subject-Dream stays contained; what it took walks home, and the file books the follow-up against the person rather than against the shift.
 
