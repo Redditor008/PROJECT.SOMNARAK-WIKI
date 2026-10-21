@@ -1,5 +1,7 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
+**Latest: Batch170 OPEN0/5.** Owner p after CLOSED169 authorizes170 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains. [Opening evidence](SE_APPEARANCE_REVIEWS/B170_OPEN.json). No new credit.
+
 **Latest batch: Batch169 CLOSED 5 / 5.** 48 supported replacements, five HELD whole designs, No change0/5; no new equipment/SE credits. [Closure evidence](SE_APPEARANCE_REVIEWS/B169_CLOSE.json). No170/merge/deployment.
 
 

@@ -1,4 +1,12 @@
 # Work In Progress
+## Batch170 — OPEN0/5
+
+Owner p after CLOSED169 authorizes170 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains.
+
+Frozen order: N-IVδ-927(5548words), C-IVδ-922(5601words), N-IIβ-993(5861words), O-IIβ-378(5971words), C-IIIγ-913(6078words). Ten originals/hashes saved, firstfive selected/fivereserved. Complete source/body/action/equipment review and original/final readings, five actual checks, Commentary and individual verified pushes required. R18 predeclare per unit; R33 technicalPASS≠logical completion; donor/gear silhouettes may differ, same-item conflicts require evidence. Pending not No change; no forced edits or premature close.
+
+Counters unchanged: Types255/30184.72%(46remain),Weapon255/28788.85%(32remain),SE16/3015.32%(285remain). Ledger12changed/4retained/108held/2blocked/175pending. No171/merge/artwork/deployment.301blocked eight owner bodies/one4+4/generatevalidatebeforecopy. Restoration matched2525remote blobs before metadata-only alignment. Four baseline linters PASS.
+
 
 ## Batch169 — CLOSED5/5: 48 supported replacements, five whole-design holds
 

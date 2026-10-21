@@ -1,0 +1,72 @@
+{
+  "batch": 170,
+  "base": "f0e2736fb6001cfb1e380d84d7c1049583a62c64",
+  "authorization": "Owner p after CLOSED169 authorizes170 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains.",
+  "pending": 175,
+  "selection": "Fresh pending-only shortest LC_ALL=C wc-w order; designation tie break; not defect ranking.",
+  "queue": [
+    {
+      "designation": "N-IVδ-927",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md",
+      "words": 5548,
+      "sha256": "e894e83fd01c2d34a0e885367a387d9615a8e0115aee2fa17687b1ec44b75ac9"
+    },
+    {
+      "designation": "C-IVδ-922",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-922_Miasma_우는_안개.md",
+      "words": 5601,
+      "sha256": "9ae69951fabcaafa8f6300bb0a88ca0bad741c07cfe33188986f9b61fbb83ce3"
+    },
+    {
+      "designation": "N-IIβ-993",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-993_Survivors_Span_무너진_다리.md",
+      "words": 5861,
+      "sha256": "f062314e8dd2f62b87d07abdaaa094f60a1ecd0d991136f521836892b11981a3"
+    },
+    {
+      "designation": "O-IIβ-378",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-378_Drowned_Echo_침몰한_메아리.md",
+      "words": 5971,
+      "sha256": "479387bb51b0249f722359b24eafbb2771dcc6e6bcfffc6d5fb14831dc991075"
+    },
+    {
+      "designation": "C-IIIγ-913",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-913_Backward_Hour_카운트다운_시계.md",
+      "words": 6078,
+      "sha256": "96b5440f2a0ae7f398fc8ce7654e6adfbed91ee1365180a7eb71ae745689a4f4"
+    }
+  ],
+  "reserves": [
+    {
+      "designation": "C-IIIγ-912",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md",
+      "words": 6108,
+      "sha256": "ee4326ffdb55775322007487a012c156059a80c98d8c663a891ba86120ddf782"
+    },
+    {
+      "designation": "O-Iα-453",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-453_Floating_Fragment_떠다니는_파편.md",
+      "words": 6150,
+      "sha256": "14d4484455c44950bf5b2d6f795a95556fcdb5363fc07271980d09cbb9fbe360"
+    },
+    {
+      "designation": "N-IIIβ-247",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IIIβ-247_The_Undelivered_Thanks_전하지_못한_감사.md",
+      "words": 6195,
+      "sha256": "9c57ed47f2d96b24ef0288170d7bdb21d25eb97ed124d18cad7a829182664253"
+    },
+    {
+      "designation": "C-IIIγ-928",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-928_Lethe_혼란의_독기.md",
+      "words": 6231,
+      "sha256": "5a392edce147cb64c86abfc9360d6ebceb7d26af694bfeed3aceffbde3ebd158"
+    },
+    {
+      "designation": "C-Iβ-071b",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md",
+      "words": 6233,
+      "sha256": "30da933ca6164d82c0cd6ceeff79ef0a63257f4bfd0991d831ae77195d8fce38"
+    }
+  ],
+  "restoration": "All2525remote blobs matched working files before mixed reset aligned oldHEAD/index to f0e2736; no file overwritten."
+}
