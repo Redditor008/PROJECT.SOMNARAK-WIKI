@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIIγ-033": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_03_GUARDING_BIRD.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_OPEN.json"
@@ -233,8 +245,32 @@
     {
       "designation": "C-IIIγ-033",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Eleven repairs: movement and StoryLog now distinguish held posts and recorded repositioning from generic roaming or universal flight. Removed prohibited Pugnahan from valid work and corrected the misleading all-work-available sentence. Resolution now includes the documented duty-ended clause. Consequences, UseNotes and AtLimit separate all three costs, conditional protection and explicit relief. Grade no longer certifies extraction stability. Corrected the relation count/trio claim and the assertion that departure is unsupported.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_03_GUARDING_BIRD.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/033_Guarding_Bird/SE-033-A__SIDE_CODEX_The_Guarding_Bird.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/033_Guarding_Bird/SE-033-B__MAW-W_The_Guardian_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/033_Guarding_Bird/SE-033-C__MAW-S_The_Guardian_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/033_Guarding_Bird/SE-033-D__MAW-G_The_Guardian_Wing.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIIγ-044",
@@ -4160,6 +4196,14 @@
       "batch": 161,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B161_03_ERRANT.md",
       "history_proof": "Fresh independent exactSE631A–D/fullset and SE631B/MAW-W-631-01 review; no earlier sourcecoverage disposition found in current/archived logs or ledger. Managementclause cleanup was not an equipmentpaircomparison. Earn +1Types/+1Weapon/+0SE; no newbodycompletion inferred.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "C-IIIγ-033",
+      "batch": 162,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_03_GUARDING_BIRD.md",
+      "history_proof": "No prior independent exactSE033B/MAW-W-033-01 or full-set review found in current/archived logs; no equipment_reviews row. Batch113 read033C only to test Convergence assembly, not033A–D or Weapon coverage. R29/post prose/disposition repairs are not exact equipment comparison. Fresh +1Types/+1Weapon; no body/SE completion credit.",
       "all_types_credit": true,
       "weapon_credit": true
     }
