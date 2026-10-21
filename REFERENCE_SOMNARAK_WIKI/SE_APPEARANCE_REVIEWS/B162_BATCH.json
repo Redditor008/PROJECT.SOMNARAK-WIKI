@@ -2,7 +2,7 @@
   "batch": 162,
   "status": "OPEN",
   "required": 5,
-  "completed": 0,
+  "completed": 1,
   "no_change": 0,
   "queue": [
     {
@@ -98,5 +98,18 @@
       "sha256": "5eb4b2fa868375f80f7089ce869f4ecd7d52d0c5a7b7d6fbf28d401f00717eed"
     }
   ],
-  "reviews": {}
+  "reviews": {
+    "C-IIIγ-031": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_01_OBSERVING_BIRD.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    }
+  }
 }

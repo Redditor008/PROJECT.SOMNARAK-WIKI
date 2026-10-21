@@ -95,7 +95,7 @@
 - A failed resistance carries the perch’s pressure straight into the worker’s own head, and **Clarity** is what pays for it; the gauge climbs while the worker is still in the room.
 - Time past the recommended cycle is not free: every further minute pushes identity drift, cognitive Fracture and the destabilisation of the immediate surroundings faster than the minute before it did.
 - The equipment section records what the M.A.W. takes, and the field returns agree with it in every instance. Nothing is drawn from this edge for nothing.
-- With the resolution condition unmet, the Bird returns to the destructive protocol: peace withheld, the grief reaches for its own release rather than waiting to be looked at.
+- An unfinished watch leaves its condition unmet. If the Bird leaves containment, its recorded response is a fixed-pattern survey ended by the disclosure sweep; do not substitute a destructive hunt for that account.
 
 ## Appearance
 **Primary Form:** A lean bird of true flesh and feather, roughly eagle-sized, plumage the colour of deep water and permanently damp, as though it had been weeping in flight. Set into the plumage, in no arrangement anyone has been able to describe as a pattern, are exactly one hundred and forty-four eyes. It does not speak and has never struck anybody. It dives, and the dive is a manoeuvre for seeing better.
@@ -150,7 +150,7 @@
 
 The register carries the Bird as Subject-Body, expressing Lament, held at SECTOR-B-01 with the Three Birds. Ferrehan and Flerehan bring the gauge down between them; the other two Types hold it level. Nothing on those rows needs a remark. What does need one stands in the three sections below, and none of it is about the bird — the behaviour has not changed once in sixty-one years.
 
-**Reading the response:** A decrease means the watch was completed and nothing was concealed during it. A level gauge means the work neither helped nor harmed, which on this holding is the ordinary result. There is no recorded instance of the gauge rising under any Work Type correctly performed, and the file notes that this makes the Observing Bird the least dangerous Major-potency holding in the wing by a wide margin.
+**Reading the response:** A decrease means the watch was completed and nothing was concealed during it. A level gauge is the recorded Work response, not evidence that the worker incurred no cost. Keep the counselling and exposure records alongside it. There is no recorded instance of the gauge rising under any Work Type correctly performed, and the file notes that this makes the Observing Bird the least dangerous Major-potency holding in the wing by a wide margin.
 ## Breach Behavior
 
 > *"The Observing Bird has left the chamber. It flies the sector in a fixed survey pattern; complete the outstanding disclosure sheets."*
@@ -229,7 +229,9 @@ The register carries the Bird as Subject-Body, expressing Lament, held at SECTOR
 
 ### M.A.W. Use Notes
 
-Everything issued against this holding is a piece of unwanted accuracy rather than a weapon. The stated benefit is sharpest against concealment. The price is written in its own column and never varies: a bearer loses the ability to stop noticing, and every long-standing bearer has called it the worst of the available prices while not one of them has called it unfair.
+The set preserves unwanted accuracy, but its pieces do not charge one invariant price. The local Weapon records unwept grief and involuntary weeping; its exact item page instead describes a Witness Requiem whose named, verified act cannot be embellished and whose bearer relives it in sleep pending independent confirmation or evidence against it. That blade account is not a documented transformation of the ocular implant.
+
+For the Shroud, keep the local loss of minor joys on the welfare record alongside the exact item’s retained traumatic memory, required debrief and rest cycle; protection delays collapse rather than erasing grief. Rest the cloth in its sealed case between activations. For the Eye, the exact item’s mental fixation lasts until the observation enters a formal record. The image preserves what was witnessed, not its explanation or a complete judgement. These distinct limits do not authorize a bearer to treat suspicion as fact.
 
 ### Field Use Record
 
@@ -240,7 +242,7 @@ Everything issued against this holding is a piece of unwanted accuracy rather th
 | **At limit** | The bearer's account of their own week has begun to fold back on itself, or the eye count on them has stopped changing. Either sign ends the use; who called it — the bearer or the second observer — is entered with the hour. |
 | **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, and a note of anything the bearer disclosed in the following week that they had not disclosed before. |
 
-**Stat interpretation:** The grade describes pressure, not harm. This holding has injured nobody in sixty-one years and is graded Major because of what it does to a facility rather than to a person: it makes concealment physically uncomfortable in a building that runs on a certain amount of it.
+**Stat interpretation:** The grade describes pressure, not harm. The local account records no injury in sixty-one years and explains the Major grade through institutional exposure. That account is not a guarantee against psychological harm: short-watch limits, counselling and the distinct equipment costs still apply. The combat and linked-source attack claims remain separate evidence that this account does not settle.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
@@ -262,7 +264,7 @@ Everything issued against this holding is a piece of unwanted accuracy rather th
 |---|---|
 | **Initial exposure** | The observer identifies the holding by eye count, damp plumage and the cold-rain smell, and confirms the designation against the other two Birds before entering. First watches are rostered with a second observer present in every case. |
 | **Sustained observation** | Continued watching confirms the pattern: the eyes redistribute, the gauge holds or falls, and nothing else occurs. Personnel must distinguish the Bird's effect from their own response to being seen; the counsellors record that almost every difficulty reported on this holding is the second thing and not the first. |
-| **Activation or escalation** | The team records the bearing of the eyes, the moment attention leaves the worker, distance, duration and gauge movement before applying any response. On this holding the response procedure is a paper exercise and the team is told so in advance. |
+| **Activation or escalation** | The team records the bearing of the eyes, the moment attention leaves the worker, distance, duration and gauge movement before applying any response. On this holding the disclosure sweep is an operational response. Keep the paper record, eye bearings and worker welfare together; completing a form is not proof that exposure was harmless. |
 | **Post-contact review** | Enter what shifted, what held, and the detail the observer could not get onto the page. On this file the sheet is incomplete if it carries only the feeling of being seen: the Bird is holding something on somebody's behalf, and nothing has ever relieved it of the charge. |
 
 **Observation method:** Log the eye count with its bearing, whatever sensation is reported first, any measurable change in the chamber — there is rarely one — and the condition the encounter ended under, which is the completion of the watch rather than any settling of the Bird. Nothing here needs settling.
@@ -291,7 +293,7 @@ A lean, damp, deep-water-coloured bird bearing exactly one hundred and forty-fou
 
 | Look at the Bird, take the gaze, and hold it for the length of the watch — the eye count kept, the sheet filed before entry, nothing represented that is not so. | Substitute your own judgement, as the record shows people doing: turn the head, work past the perch and file it afterwards, or tell the Bird something that is merely convenient. |
 |---|---|
-| The watch runs its full length, the eyes stay open, the count goes into the day book unchanged, and the entry closes with the holding recorded whole. | The gaze is broken and the room goes tight; the gauge climbs and the day book shuts with the holding turned away and the disclosure sheet still unwritten. |
+| The watch runs its full length, the eyes stay open, the count goes into the day book unchanged, and the entry closes with the holding recorded whole. | The watch is unfinished or the disclosure sheet remains unwritten. Record the actual eye bearings and gauge rather than assigning an automatic increase to every turn of the head; looking away is permitted but does not complete the watch. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -306,7 +308,7 @@ The eyes find you before the shape does — one on your face, one on your hands,
 
 **When the entity activates:** no cry comes out of it and no posture changes. The Weighting Bird calls and the Guarding Bird postures; this one changes where it is looking, and because it gives no vocal warning the eye count is the only signal that the margin has moved. Two ignored conditions are the margin here. What activation looks like from the floor is the redistribution — the eyes turning to the entrance together, or to you, and on Pugnahan the count on the worker rising by one and no other change at all.
 
-**After departure:** The door seals and the pressure comes down. Nothing stays in the suit fibres. What stays is the fact of having been looked at in full by something that will never be asked about it; that is the grief the Bird was crystallised out of, and the reason the watch is finished by looking back rather than by looking away. A completed session ends with the eye count holding, and the head of the file states the condition without abbreviation: look at the Bird and accept its gaze.
+**After departure:** The watch ends and the handover is recorded. Do not infer recovery from a sealed door: the Shroud’s local flatness can persist into the next morning, and the exact item requires debrief and rest after removal. What stays is the fact of having been looked at in full by something that will never be asked about it; that is the grief the Bird was crystallised out of, and the reason the watch is finished by looking back rather than by looking away. A completed session ends with the eye count holding, and the head of the file states the condition without abbreviation: look at the Bird and accept its gaze.
 
 ### Interaction Pattern
 
