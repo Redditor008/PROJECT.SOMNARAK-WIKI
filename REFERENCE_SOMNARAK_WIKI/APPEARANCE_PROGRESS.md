@@ -1,8 +1,8 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch173 OPEN5/5.** Owner p authorizes173 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B173_OPEN.json). No174/merge/art/deployment.
+**Latest: Batch173 CLOSED5/5.**41supported repairs, fiveHELD, No change0/5. Equipmentcoverage+3Types/+3Weapon;SE+0. [Batch report](SE_APPEARANCE_REVIEWS/B173_CLOSE.md). No174/merge/art/deployment.
 
-**Latest: Batch172 CLOSED5/5.**47supported replacements, five HELD, No change0/5. Equipmentcoverage+2Types/+2Weapon; SE+0. [Batch report](SE_APPEARANCE_REVIEWS/B172_CLOSE.md). No173/merge/deployment.
+**Previous: Batch172 CLOSED5/5.**47supported replacements, five HELD, No change0/5. Equipmentcoverage+2Types/+2Weapon; SE+0. [Batch report](SE_APPEARANCE_REVIEWS/B172_CLOSE.md). No173/merge/deployment.
 
 **Previous: Batch171 CLOSED5/5.**46supported replacements, fiveHELD, No change0/5. Equipmentcoverage+2Types/+1Weapon, SE+0. [Batch report](SE_APPEARANCE_REVIEWS/B171_CLOSE.md). No172/merge/deployment.
 
@@ -19,8 +19,8 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 
 | Workstream | Completed | Coverage | Remaining |
 |---|---:|---:|---:|
-| ALL M.A.W. Types Appearance per SE — source-review coverage | 260 / 301 | 86.38% | 41 / 301 |
-| ALL M.A.W.-W Appearance per SE — source-review coverage | 259 / 287 | 90.24% | 28 / 287 |
+| ALL M.A.W. Types Appearance per SE — source-review coverage | 263 / 301 | 87.38% | 38 / 301 |
+| ALL M.A.W.-W Appearance per SE — source-review coverage | 262 / 287 | 91.29% | 25 / 287 |
 | SE Appearance Fix — independent written-design pass | 16 / 301 | 5.32% | 285 / 301 |
 
 These are coverage counters, **not promises that every held discrepancy is repaired**. The first two retain their historical criteria and explicit source holds. The new counter starts at zero; old equipment reviews, general prose fixes, shape screening and the R-32 clarification are not backfilled as SE appearance completions.
@@ -1331,3 +1331,21 @@ CLOSED5/5;48replacements, fiveHELD whole designs, No change0/5. 26,608→28,257w
 ### Batch173 unit5 — OPEN5/5
 
 [Weight of Silence evidence](SE_APPEARANCE_REVIEWS/B173_05_WEIGHT_SILENCE.md): HELD, 6supported repairs, full final reading and five actual checks. No change0/5.
+
+## Batch173 CLOSED5/5 — 2026-10-22
+
+41 supported repairs (R18:17batch-short/24careful-detail), LC_ALL=C words31,987→34,361 (+2,374). Five whole designs HELD; No change0/5. Five separate unit gates, commits and PUSH VERIFIED results.25 fresh closing checks/54tests/four independent audits PASS.296unselected/5reserves/301PhysicalFormrows, all Tale bytes and digit sequences, fingerprinted sources unchanged. Exact replacements reconstruct final and commit blobs match. TechnicalPASS is not whole-design completion.
+
+Three independent counters: ALL M.A.W. Types Appearance per SE263/301(87.38%),38remain; ALL M.A.W.-W Appearance per SE262/287(91.29%),25remain; SE Appearance Fix16/301(5.32%),285remain. +3/+3 only250/922/967;683B116 and285B107 alreadycredited.12changed/4retained/128held/2blocked/155pending. Coverage includes holds, not artwork.
+
+| Dossier | Repairs short/careful | Words before→after | Checks / design | Commit / push |
+|---|---:|---:|---|---|
+| [The_Extinguished](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-IV%CE%B3-250_The_Extinguished_%EA%BA%BC%EC%A7%84_%EC%9E%90.md "SE-N-IVγ-250_The_Extinguished_꺼진_자.md") | 7/5 | 6343→6943 | Five PASS; HELD | [f298e4a2](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/f298e4a270ded7421e0eb7ec32c6a387b75d7992) PUSH VERIFIED |
+| [Swallowed_Fury](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-683_Swallowed_Fury_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%88%88%EB%AC%BC.md "SE-C-Iα-683_Swallowed_Fury_사라진_눈물.md") | 3/4 | 6359→6849 | Five PASS; HELD | [008cdce5](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/008cdce5b9b2420f985fcde7e25ec737dcd2fdec) PUSH VERIFIED |
+| [Door_to_Nowhere](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-922_Door_to_Nowhere_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%AC%B8.md "SE-O-IIβ-922_Door_to_Nowhere_솟아오른_문.md") | 3/6 | 6392→6804 | Five PASS; HELD | [618b0a68](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/618b0a68afd2bbb56d17d037a102f1c224f91bdc) PUSH VERIFIED |
+| [Pandoras_Jar](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-967_Pandoras_Jar_%EC%82%AC%EB%9D%BC%EC%A7%84_%EC%9C%A0%EB%AC%BC.md "SE-N-IVδ-967_Pandoras_Jar_사라진_유물.md") | 2/5 | 6445→6880 | Five PASS; HELD | [3e524e8e](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/3e524e8e8ab3971a9e99a437fce25b69c96de15e) PUSH VERIFIED |
+| [Weight_of_Silence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B1-285_Weight_of_Silence_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EB%AC%B4%EA%B2%8C.md "SE-N-IIα-285_Weight_of_Silence_침묵의_무게.md") | 2/4 | 6448→6885 | Five PASS; HELD | [1c227d79](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/1c227d79ced7b254adbaba8dfe72078439ee5d25) PUSH VERIFIED |
+
+[Closure evidence](SE_APPEARANCE_REVIEWS/B173_CLOSE.json)
+
+No change0/5: no extension beyondfive; these full bespoke narratives and interaction/Watch/Apex records are not a simple cohort. Selection was frozen fresh-pending shortest LC_ALL=C words/designation tie, not defect ranking. Owner p173 exhausted;174 requires a new authorization. PR14 remains OPENdraft→NON-WIKI, owner controls merge; none performed. No artwork/deployment. Later full recheck remains available. Batch301 still blocked on eight owner bodies, one4+4operation, generate/validate beforewiki copy.

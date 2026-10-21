@@ -82,3 +82,7 @@ CLOSED5/5 after five complete original/source/final reviews and individually ver
 ## Batch172 application — 2026-10-21
 
 CLOSED5/5 after five complete original/source/final reviews and individually verified unit pushes. No change0/5 does not trigger the cumulative three-dossier5→7→10extension.47supported repairs (11short/36careful) leave five whole designs HELD.25fresh closingvalidatorruns PASS,54testsPASS, no warning waiver. Equipment+2Types/+2Weapon is not SE/art credit. p172exhausted;no173/merge/deployment. [Closure](../SE_APPEARANCE_REVIEWS/B172_CLOSE.md). Later full recheck and301owner-body blocker retained.
+
+## Batch173 application — 2026-10-22
+
+CLOSED5/5 after whole original/source/final readings and individually verified unit pushes. No change0/5 doesnottrigger cumulative-three5→7→10extension.41supported repairs17short/24careful leavefiveHELD.25fresh closingchecks/54tests/fourauditsPASS. Newcoverage+3Types/+3Weapon is notSE/artcompletion. p173exhausted;no174/merge/deployment. [Closure](../SE_APPEARANCE_REVIEWS/B173_CLOSE.md). Laterfullrecheck and301eightownerbodies/one4+4/generatevalidatebeforecopyblocker retained.

@@ -148,3 +148,7 @@
   "table_link": "[The_Extinguished](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-IV%CE%B3-250_The_Extinguished_%EA%BA%BC%EC%A7%84_%EC%9E%90.md \"SE-N-IVγ-250_The_Extinguished_꺼진_자.md\")"
 }
 ```
+
+## Final push receipt
+
+[f298e4a270ded7421e0eb7ec32c6a387b75d7992](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/f298e4a270ded7421e0eb7ec32c6a387b75d7992) — PUSH VERIFIED; commit blob still matches reviewed final, reachable from origin at closure. Five fresh closing checks PASS. [Batch closure](B173_CLOSE.md).

@@ -136,3 +136,7 @@
   "table_link": "[Pandoras_Jar](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-967_Pandoras_Jar_%EC%82%AC%EB%9D%BC%EC%A7%84_%EC%9C%A0%EB%AC%BC.md \"SE-N-IVδ-967_Pandoras_Jar_사라진_유물.md\")"
 }
 ```
+
+## Final push receipt
+
+[3e524e8e8ab3971a9e99a437fce25b69c96de15e](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/3e524e8e8ab3971a9e99a437fce25b69c96de15e) — PUSH VERIFIED; commit blob still matches reviewed final, reachable from origin at closure. Five fresh closing checks PASS. [Batch closure](B173_CLOSE.md).

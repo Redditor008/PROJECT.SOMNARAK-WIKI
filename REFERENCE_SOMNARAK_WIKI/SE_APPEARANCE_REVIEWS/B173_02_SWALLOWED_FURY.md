@@ -134,3 +134,7 @@
   "table_link": "[Swallowed_Fury](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-683_Swallowed_Fury_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%88%88%EB%AC%BC.md \"SE-C-Iα-683_Swallowed_Fury_사라진_눈물.md\")"
 }
 ```
+
+## Final push receipt
+
+[008cdce5b9b2420f985fcde7e25ec737dcd2fdec](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/008cdce5b9b2420f985fcde7e25ec737dcd2fdec) — PUSH VERIFIED; commit blob still matches reviewed final, reachable from origin at closure. Five fresh closing checks PASS. [Batch closure](B173_CLOSE.md).

@@ -140,3 +140,7 @@
   "table_link": "[Door_to_Nowhere](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-922_Door_to_Nowhere_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%AC%B8.md \"SE-O-IIβ-922_Door_to_Nowhere_솟아오른_문.md\")"
 }
 ```
+
+## Final push receipt
+
+[618b0a68afd2bbb56d17d037a102f1c224f91bdc](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/618b0a68afd2bbb56d17d037a102f1c224f91bdc) — PUSH VERIFIED; commit blob still matches reviewed final, reachable from origin at closure. Five fresh closing checks PASS. [Batch closure](B173_CLOSE.md).
