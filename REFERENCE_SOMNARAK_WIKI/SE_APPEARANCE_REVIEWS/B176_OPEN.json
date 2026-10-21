@@ -1,0 +1,71 @@
+{
+  "batch": 176,
+  "base": "c458e26d42e1c2927b1b58f28c458ad53de04bec",
+  "authorization": "Owner p after CLOSED175 authorizes Batch176 only. Minimum5; three cumulative No change extends5→7→10. Later full recheck preserved.",
+  "selection": "Fresh pending-only shortest LC_ALL=C wc-w, designation-byte ties; not a defect ranking.",
+  "pending": 145,
+  "queue": [
+    {
+      "designation": "C-IIβ-240",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-240_Holdout_사라진_잔해.md",
+      "words": 6589,
+      "sha256": "266fa64b95ccdb0338d98ee781ca10a4b8d9fec496045fbeade6892436de70f1"
+    },
+    {
+      "designation": "C-IIIγ-904",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-904_Thinking_Engine_생각하는_기계.md",
+      "words": 6612,
+      "sha256": "a53c5c6b317e4a42068d8dbafe40cf6eccfe143214d327a3913c1c9dea62dd63"
+    },
+    {
+      "designation": "N-Iα-686",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-686_Torn_Window_찢어진_창.md",
+      "words": 6658,
+      "sha256": "e93c8da4b6706bb8f0ce128a76ec0e19c3da4b1278ffbbab4b0894733a80268b"
+    },
+    {
+      "designation": "C-IIβ-782",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-782_Flotsam_번져가는_유물.md",
+      "words": 6712,
+      "sha256": "f2c1c8ba66cf4b4fcd09293a58442a5dc81daa37fddc00c85662f841dc9b9785"
+    },
+    {
+      "designation": "N-Iα-905",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-905_Lacrima_영혼의_그릇.md",
+      "words": 6774,
+      "sha256": "e53644c343ebbe86ef18f94a5266e326a4d0a17a69f57fabaf4e6c7addbc428e"
+    }
+  ],
+  "reserves": [
+    {
+      "designation": "N-IVδ-606",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-606_Banyan_가라앉은_나무.md",
+      "words": 6816,
+      "sha256": "5afd18a5030b6842436b8bd1d3b557b4d2af90a08e3a458e147fccdfacc8d5f9"
+    },
+    {
+      "designation": "C-IIβ-250",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-250_Memory_Rain_기억의_비.md",
+      "words": 6831,
+      "sha256": "2d882a26f28e41b5c1cfdf6bcd9ee9a5fa733d51a52bade349aba4ec32388baf"
+    },
+    {
+      "designation": "O-Iα-643",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-643_Frozen_Mirror_얼어붙은_거울.md",
+      "words": 6844,
+      "sha256": "039a5cda44aa4feaab5055e80e7c025181b847bfb43c90bcef7075e8876d8789"
+    },
+    {
+      "designation": "C-IVδ-915",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-915_Endless_Shift_끝없는_교대.md",
+      "words": 6845,
+      "sha256": "fd34de3498486dc361827a634f8beaf0059d92664709bb7311be2c3acd3c1bcc"
+    },
+    {
+      "designation": "C-IIIγ-115",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-115_Remembrance_기억의_우물.md",
+      "words": 6875,
+      "sha256": "556bb37fe4a382271d01110b6e626c934a82a4cafc2ace4740270f7ee0998144"
+    }
+  ]
+}
