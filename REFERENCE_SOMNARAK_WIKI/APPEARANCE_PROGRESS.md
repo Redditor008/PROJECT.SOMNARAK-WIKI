@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest batch: Batch165 OPEN 4 / 5.** Frozen shortest-pending cohort includes four Unknown dossiers and Apostle Maker; no credits earned by opening. The previous batch was Batch164 CLOSED 5 / 5. No change 0 / 5. Four HELD designs; Masked Dancer gains one written-design completion. Broken Mirror adds one fresh exact-set review to each equipment stream. [Full closure and all five receipts](SE_APPEARANCE_REVIEWS/B164_CLOSE.md). Earlier OPEN164 checkpoints below are historical, not the current status. No165 authorization.
+**Latest batch: Batch165 OPEN 5 / 5.** Frozen shortest-pending cohort includes four Unknown dossiers and Apostle Maker; no credits earned by opening. The previous batch was Batch164 CLOSED 5 / 5. No change 0 / 5. Four HELD designs; Masked Dancer gains one written-design completion. Broken Mirror adds one fresh exact-set review to each equipment stream. [Full closure and all five receipts](SE_APPEARANCE_REVIEWS/B164_CLOSE.md). Earlier OPEN164 checkpoints below are historical, not the current status. No165 authorization.
 
 Owner direction, 2026-10-18: start a new X/X for SE appearance fixes and name the older counters by their M.A.W. scope.
 
@@ -966,3 +966,7 @@ All five are pending, not No change. Complete original/exact-source/history and 
 ### Batch165 unit4 — OPEN4/5
 
 [The Unbroken Pledge evidence](SE_APPEARANCE_REVIEWS/B165_04_UNBROKEN_PLEDGE.md): CHANGED, 5repairs, five checks and complete final read. No change0/4; source-review counters255/301and255/287, independentSE16/301. Pending is not No change; later full recheck retained.
+
+### Batch165 unit5 — OPEN5/5
+
+[Apostle Maker evidence](SE_APPEARANCE_REVIEWS/B165_05_APOSTLE_MAKER.md): HELD, 4repairs, five checks and complete final read. No change0/5; source-review counters255/301and255/287, independentSE16/301. Pending is not No change; later full recheck retained.

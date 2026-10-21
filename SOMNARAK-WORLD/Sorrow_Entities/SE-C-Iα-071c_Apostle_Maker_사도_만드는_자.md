@@ -88,6 +88,14 @@
 
 ## Appearance
 
+**Stage scope:** This is the chain's commanding, converting stage, not the original small healer with a brighter palette. Compare the white-and-gold cloak, steady radiant hands, conviction-bright eyes, purposeful walking and developing wings with the earlier Kind Healer and Blessing Giver records. The change is an explicitly named progression of the same chain; do not require its earlier and later silhouettes to be identical or invent another healer to explain them.
+
+**Body and conditional wings:** Keep the upright body distinct from the wings and from the marked personnel who respond to her. The classification describes forming light-wings; battle and observation records describe their increasing solidity as conversion advances. The projected light and later feathered construction are supported stages, not interchangeable permanent materials. Neither the radiant outline nor the wings establish routine flight: the breach record gives purposeful movement, while the final instant appearance beside the recipient is a separate apotheosis report, not a general travel speed.
+
+**Measurement and state limits:** Record body height, conversion count, wing solidity and each observed colour reading together. The wing-span and shoulder-to-tip measurements below do not use the same endpoints; no corrected dimension is established here. Colour can shift again before completion, so an eleventh-conversion reading is not proof that a branch is fixed. The file also differs between city-scale sorrow and the last recipient's choice as the deciding condition. Keep that unresolved rather than treating wing colour as permission to force conversion.
+
+**Chain and equipment boundary:** The Voice, Wings and Brand are conditional equipment profiles requiring an unachieved suppression, not the body's throat, worn physical wings or proof of a safe issue to personnel. The prior stage's Gentle set is not this stage's extracted set. Earlier chain records and the related Side Codex do not yet supply a chronology joining this active converting account to the completed Hand of Hope outcome.
+
 **Primary Form:** Apostle Maker is approximately 2.2 meters tall — significantly larger than the Kind Healer's original 1.5m form. Her body radiates golden light from within, giving her an ethereal, divine quality. Her movements are deliberate, confident, almost ceremonial — she does not hurry because the chain's completion is inevitable.
 
 **The Wings:** The most dramatic change from Stage 2. The Blessing Giver's faint light-traces at the shoulders have become full wing-constructs: five meters across, made of compressed proto-Hope energy. They are visible to everyone — not just the marked. In the final stages before transformation, the wings begin to change color based on the chain's direction: shifting toward gold (Hope) or violet (Sorrow). This color shift is the R.D.'s primary indicator of which Stage 4 outcome is approaching.
@@ -111,7 +119,7 @@
 | **Flerehan** (Tears) | Apostle Maker does not respond to tears — she is beyond comforting. Flerehan may slow the conversion rate slightly. | Slight decrease (conversion rate reduced) |
 | **Pugnahan** (Confrontation) | Confrontation is met with Divine Command — the entity speaks, and marked personnel obey. Unmarked personnel face the entity's full attention. | Increase (conversions accelerate) |
 | **Viderehan** (Observation) | Observation reveals the conversion count, the wing color (indicating chain direction), and the location of all marked personnel. | Stable |
-| **Ferrehan** (Endurance) | Enduring the Apostle Maker's presence without acting is the only non-confrontational option. Each turn endured without triggering conversion allows one more turn of monitoring. | Stable |
+| **Ferrehan** (Endurance) | Enduring the Apostle Maker's presence without acting avoids confrontation; Viderehan separately records the count and wing colour. Each turn endured without triggering conversion allows one more turn of monitoring. | Stable |
 
 ### Operational Work Notes
 
@@ -142,7 +150,7 @@ Apostle Maker cannot be contained by normal means once activated. The entity mov
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** Apostle Maker's M.A.W. is only obtainable if the entity is suppressed before Stage 4 — an event that has never occurred.
+> **Materialized Agony Wear (M.A.W.):** Apostle Maker's M.A.W. is only obtainable if the entity is suppressed before Stage 4 — an event that has never occurred. The listed pieces are conditional profiles, not an extracted inventory. No issue, field-use success or demonstrated safe command follows from these descriptions.
 
 ### M.A.W. Weapon — The Voice
 
@@ -181,7 +189,7 @@ Apostle Maker cannot be contained by normal means once activated. The entity mov
 | **Initial manifestation** | Apostle Maker has emerged. Wings of light are visible. The entity is moving toward the marked. | Document the conversion count, the wing color, and the location of all twelve marked personnel. |
 | **3 conversions observed** | The wings are solidifying. The color is shifting — gold/violet ratio indicates chain direction. The converted move with new purpose. | Enter every conversion as it happens, with the wing colour read and written down every hour. |
 | **8 conversions observed** | The entity's voice has manifest. It speaks — and the converted obey. The chain is nearly complete. | Identify the twelfth marked individual. Determine if suppression is still possible. |
-| **Eleventh conversion** | One remains. The entity's wings are fully solid. The color is set — gold for Hope, violet for Mourning. The transformation is imminent. | Record the final wing color. Prepare for Stage 4. |
+| **Eleventh conversion** | One remains. The entity's wings are fully solid. The color is read — gold for Hope, violet for Mourning — but may still shift before completion. The transformation is imminent. | Record the final wing color. Prepare for Stage 4. |
 
 ## 이야기 보고 (Story Log) — Observation Entries
 

@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIγ-071c": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B165_05_APOSTLE_MAKER.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Owner p after CLOSED164 authorizes this next batch only; always five minimum, cumulative three No change triggers5→7→10; later full recheck/fix permission retained."
@@ -1267,8 +1279,29 @@
     {
       "designation": "C-IIγ-071c",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: named transformation supports the nonidentical early/later body and conditional wing solidity, but span, trigger/branch authority and current-era chain chronology remain unresolved. Improvements do not earn written-design completion or extra equipment credit. No replacement body, flight state or numerical normalization invented.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B165_05_APOSTLE_MAKER.md",
+      "sources": [
+        "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/071_Kind_Healer/SE-071-A__SIDE_CODEX_The_Kind_Healer.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITIES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_02_KIND_HEALER.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVβ-041",

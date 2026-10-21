@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch165 / unit5 — Apostle Maker `C-IIγ-071c`
+
+[[SE-C-Iα-071c_Apostle_Maker_사도_만드는_자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-071c_Apostle_Maker_%EC%82%AC%EB%8F%84_%EB%A7%8C%EB%93%9C%EB%8A%94_%EC%9E%90.md "SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md")]
+
+**What changed:** Four repairs add an Appearance stage/body/wing/measurement/chronology/equipment boundary; change eleventh-conversion colour from permanently set to a reading that may shift; make Ferrehan one nonconfrontational approach rather than contradicting stable observation; mark all never-extracted equipment conditional rather than an issued inventory.
+
+**Sources/history:** Complete353-line BlessingGiver source and99-line SE071A read: full chain thresholds, identity and outcome evidence, not a second unit or credit. Target has no exact071cA–D set; base071A explicitly names GentleRequiem/GentleShroud/GentleTouch alpha, not Voice/Wings/Brand gamma. Related B–D are not target equipment and are not claimed freshly reviewed. MasterEntities Chain1 full subsection, EntityCodex159/427 and conversionguideProtocol02 read as conflicting cross-source examples. B157unit2 full receipt and both historical logs preserve prior KindHealer/SE071 coverage, not approval of this stage. B41unit1 144d717 was parity/FinalObservation work, not this whole-design review. Catalog filename C-Ialpha071c versus progressed C-IIgamma071c is documented and retained. Equipment+0/+0: no exact stage-specific set or new pair, and no speculative primary-only coverage increment.
+
+**Final logical outcome:** HELD: named transformation supports the nonidentical early/later body and conditional wing solidity, but span, trigger/branch authority and current-era chain chronology remain unresolved. Improvements do not earn written-design completion or extra equipment credit. No replacement body, flight state or numerical normalization invented.
+
+**Holds:** Wing width five metres across versus five metres shoulder-to-tip lacks matched endpoints; no numerical change or inferred spread multiplier. Stage3 begins after twelve blessings in Origin/BlessingGiver versus begins a twelve-person sequence in chain table; final branch tied to city sorrow versus recipient choice, with no actual resolution crosswalk. This active converting account versus SideA current completedHandofHope lacks chronology; MasterEntities RankIII and broader PatientMartyr/C-Vomega071c examples differ from current C-IIgamma071c. No reset, duplicate healer or new transformation invented. Suppression is never tried; equipment remains conditional, with no exact external stage-specific pair or safe issue/field-use claim. Awe of unmarked observers and marked command compulsion are different scopes, not blanket voluntary obedience.
+
+**Commentary:** This is the point where care becomes certainty and certainty removes refusal. That is stronger than simply making the healer larger and more radiant. The remaining uncertainty over who decides the final branch matters, because it determines whether the last person still has a meaningful choice.
+
+**Checks and evidence:** Five actual validators PASS; whole original and final read, 4supported replacements, LC_ALL=C words3949→4288. Receipt `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B165_05_APOSTLE_MAKER.md` records raw checks, hashes and visual limits.
+
+**Progress:** OPEN5/5, No change0/5. Types255/30184.72%,46/301remain; Weapon255/28788.85%,32/287remain; SE16/3015.32%,285/301remain. No duplicated equipment/body credit. Both logs travel in the individual gate/push. Pending units are not No change; no close below five or earned rung, no166/merge/art/deployment,301ownerblocked. Later full check/fix backlog preserved.
+
 ## Batch165 / unit4 — The Unbroken Pledge `N-IIIβ-1056`
 
 [[SE-N-IIIβ-1056_The_Unbroken_Pledge_깨어지지_않은_서약](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-III%CE%B2-1056_The_Unbroken_Pledge_%EA%B9%A8%EC%96%B4%EC%A7%80%EC%A7%80_%EC%95%8A%EC%9D%80_%EC%84%9C%EC%95%BD.md "SE-N-IIIβ-1056_The_Unbroken_Pledge_깨어지지_않은_서약.md")]
