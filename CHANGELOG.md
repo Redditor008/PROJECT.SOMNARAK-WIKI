@@ -8,6 +8,31 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch170 unit4 — Drowned Echo `O-IIβ-378`
+
+[[SE-O-IIβ-378_Drowned_Echo_침몰한_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-378_Drowned_Echo_%EC%B9%A8%EB%AA%B0%ED%95%9C_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-O-IIβ-378_Drowned_Echo_침몰한_메아리.md")]
+
+**Original/source review and predeclared R18 scope:** Whole409-line original, exact378A–D and relevant Master/history fully read. Outside sorrow of unheard drowners→SubjectMind nonbody/currentdrytunnel→perceiveddepth/pressure/circuit→calls/names/calmacknowledgment→breachlivecallrisk→derivedgear. Predeclared R18 0batch-short/11careful-detail: nonphysicalmovement/speedqualification, remove onlywatch contradiction, Workrecommendation exactFlere/decrease Videre/stable, aircheckedTension, concrete nonbody listener/circuit profile, blue dryline Shroud/airanchor care, onevoiceBell/twocolumncare, nonvisualfirstcontact and specificregistryhandling. No change to disputed interval data, numeric values, Tale or actiondamage.
+
+**Sources/history:** B109unit2 b48bc8acacd181eebaa7c1db70aa36db17e85530 alreadyfullset/exactWeaponcredited; fulldatedsourceparagraph and B109 completehistory read, B54unit3 prose-only note read. ExactA Fathom fulldesignation links primary; Bdivingbell despitebladeintro held; CblueHanSilkdryline, DhotblueTailonevoice read. CSV647–650, W378Shortlongsword, MasterMAW634–636/Entity581/Tale212, disposition386Neutralconditional read. New review+0/+0.
+
+**What changed:** Distinguish felt submerged presence from an unseen physical swimmer and current dry tunnel from historical water. Qualify unanchored speed, preserve bottles and air/voice checks, correctly include decreasing Flerehan while Viderehan remains Stable. Supply precise Shroud dry-line binding/care and Bell single-call/two-column limits. Replace generic registry and visual-firstcontact instructions with calm operator/log practice.
+
+**Final whole-file reasoning:** HELD: no physical sourcebody is supported or needed. Present dry-air checks, subjective acoustic record, circuit reception and independently shaped equipment can be stated clearly, but originreceipt, intervalpolarity and sameitemWeapon state remain genuinely unresolved. Zero newcoverage/designcredits.
+
+**Holds / later recheck:**
+- Callintervaldirections conflict: successfulacknowledgment lengthens but ignores also lengthens; Observations links lengthening to unacknowledgedcalls, interactionHollowpreamble shortens vs tablelengthens, SunkenBridge shortens calledimprovement; eleven–forty vsfour–nineteen baselines notmapped. No preferred direction invented.
+- Origin says surfaceboard listened but withheldacknowledgment versus Tale/testimonycallsneverreachedsurface; cannot normalize by historical/current state alone.
+- Transformcircuit exposure versus unacknowledgedcycleneverbreaches; operatoronly versus tunnel listeners; pressureinstrumentreading versus noinstrumentrecord and semanticpressure versus individuallynamedvoices remain source/observation scope questions.
+- Primarywatercolumn/physicalwounds versus no waterbody/vessel; 1.45m/s left explicitly unmapped, not converted to real velocity.
+- PrimaryDelugeLongsword versus Bdivingbell/introblade and cost/pressureseparation differences; Shroudsecondaryvoiceeffect versus exactjoycost; BellTailversusgenericcategory and sourceboon scope held. Derivedsolid equipment itself is not a body conflict.
+
+**Commentary:** The most important distinction is between acknowledging a person and promising rescue. The source allows an honest answer to be merciful without changing the past. I kept that idea visible in the Bell log and preserved the contradictory timing records instead of making a false safety rule from one of them.
+
+**Checks and integrity:** Five actual verify/tpl/sectfile/wikistd/sect PASS, full final read after checks, final hash matches. 11 exact replacements; LC_ALL=C words5971→6482. Source hashes and unchanged digit streams retained. Detailed evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_04_DROWNED_ECHO.md`. Gate/push follows. Written-design review, not artwork/render/browser/game/live-site inspection. Equipment+0/+0;SE+0, no duplicate/retroactive/body/art credits.
+
+**Progress:** OPEN4/5, No change0/4. Three counters Types256/301=85.05%(45remain),Weapon256/287=89.20%(31remain),SE16/301=5.32%(285remain). No171/merge/deployment/artwork. Later full recheck and301eight-owner-body/one4+4/generate-before-copy blocker retained.
+
 ## Batch170 unit3 — Survivor's Span `N-IIβ-993`
 
 [[SE-N-IIβ-993_Survivors_Span_무너진_다리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-993_Survivors_Span_%EB%AC%B4%EB%84%88%EC%A7%84_%EB%8B%A4%EB%A6%AC.md "SE-N-IIβ-993_Survivors_Span_무너진_다리.md")]
