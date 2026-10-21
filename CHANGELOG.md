@@ -8,6 +8,32 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch167 unit1 — Dead Air `N-IIIγ-929`
+
+[[SE-N-IIIγ-929_Dead_Air_유령의_압력](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md "SE-N-IIIγ-929_Dead_Air_유령의_압력.md")]
+
+**Original full review / supported scope:** Complete343-line primary and exact929A–D read. Hazard-Spirit and narrow particular grief are represented by subjective pressure in empty rooms, not an organic ghost; Whole chain includes fixed/barometric extent, recognition versus inference, six-hour watches and blank controls, adjacent-room expansion, generic combat, derived chair/oilcloth/calibration gear, paper-only pairings and Warden Record. Supported scope: non-corporeal label, expansion gloss, risk role, measurement distinction, Gauge-versus-extent and concrete witness/gear organisation.
+
+**Sources and history:** Exact929A–D and registry1075–1078, archetype388 and disposition340 read. Primary/B γWeight14–25 Normal2 Short2 4/25 align; C L/G/V/W1/1/1.2/.3 4/20; DHead5%+1sourcework align. B headache differs primary unsolicited weight estimates; archetype MaulHead Room conflicts same Weapon blade Short. No dedicated Master exact-name match. Archived B43unit9 71d2695, B48unit6 quote and B50unit10 prose entries read; they do not establish unique equipment credit. No fresh eligibility proof, so +0/+0 conservatively withheld, not asserted already counted.
+
+**Changes:** Six repairs clarify non-corporeal pressure rather than Organic body, actual room expansion rather than transformed figure, Major rather than Sovereign role, measured atmosphere versus estimated contact, gauge relief versus room recovery, and concrete witness/extent/material-derived-equipment distinctions.
+
+**Complete final review:** HELD: source is explicitly non-corporeal and subjective contact is separated from measured atmosphere, with actual spatial expansion retained. Combat/vessel/silence and exact same-item claims still prevent whole-design completion. A solid derived Weapon is not itself a donor-body conflict. Complete final primary reread in document order after five actual validators; hash matches the recorded version.
+
+**Holds / later recheck:**
+
+- VesselDestructibleYes/drop versus no physical target remains; no vessel or destruction invented.
+- Generic targeted attacks/provocation/cornering and Ultimate above65 versus it-does-not-act, never above60 and no injury record remain unjoined.
+- Operational silence/loss-of-voices/physical-line signals versus lack of entity sound and barometer-based watch procedure; turn-based drain versus per-room Gauge escalation unresolved.
+- Primary BladeShort versus archetype MaulHeadRoom; B headache versus primary weight estimates; external broadcast/transmission origin metaphors and bearer-as-new-site are not demonstrated source anatomy or source history.
+- Final reread also retains two blank watches versus one-third blank series, and each entry carrying estimates versus deliberately blank controls; population/scope needs clarification, not invented recounted data.
+
+**Commentary:** The blank forms are the strongest design detail: preserving them keeps expectation from becoming false proof of a haunting. The familiar estimated weight is moving precisely because recognition remains unproven.
+
+**Evidence:** `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B167_01_DEAD_AIR.md`. 6 supported replacements; LC_ALL=C wc -w4749→4973. Verify/tpl/sectfile/wikistd/sect PASS; raw checks and before/final/source fingerprints in receipt. Written-design review only; no illustration, rendered page, browser, game or deployed-site checked. Equipment +0/+0; written-design +0; no duplicate equipment/body/art credit.
+
+**Batch:** OPEN1/5, No change0/1. Counters remain255/30184.72%(46remaining),255/28788.85%(32remaining),16/3015.32%(285remaining) unless independent completed design is explicitly recorded. Mandatory individual gate/push follows. No close below required rung; no168/merge/deployment;301owner-eight-body one4+4/generate-before-copy blocker and later full recheck remain.
+
 ## Batch167 OPEN — five frozen fresh reviews
 
 Owner p after CLOSED166 authorizes167 only. Queue: Dead Air929, Unwaking Block908, Once Upon920, Never Discharged911, Weighted Silence924. Original snapshots and five reserves frozen in B167_OPEN.json. No reviews or credits at opening. Three independent counters remain255/30184.72%(46remaining),255/28788.85%(32remaining),16/3015.32%(285remaining). Minimum five; cumulative No change ladder5→7→10 retained. Complete original/exact-source/history/final reads, source-supported improvements, individual Commentary, five validators and one verified push per unit. No167 closure below required rung; no168/merge/deployment. Later-fix backlog and301eight-owner-body one4+4/generate-before-copy blocker retained.

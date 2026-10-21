@@ -1,0 +1,119 @@
+# Batch167 evidence
+
+## Batch167 unit1 — Dead Air `N-IIIγ-929`
+
+[[SE-N-IIIγ-929_Dead_Air_유령의_압력](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md "SE-N-IIIγ-929_Dead_Air_유령의_압력.md")]
+
+**Original full review / supported scope:** Complete343-line primary and exact929A–D read. Hazard-Spirit and narrow particular grief are represented by subjective pressure in empty rooms, not an organic ghost; Whole chain includes fixed/barometric extent, recognition versus inference, six-hour watches and blank controls, adjacent-room expansion, generic combat, derived chair/oilcloth/calibration gear, paper-only pairings and Warden Record. Supported scope: non-corporeal label, expansion gloss, risk role, measurement distinction, Gauge-versus-extent and concrete witness/gear organisation.
+
+**Sources and history:** Exact929A–D and registry1075–1078, archetype388 and disposition340 read. Primary/B γWeight14–25 Normal2 Short2 4/25 align; C L/G/V/W1/1/1.2/.3 4/20; DHead5%+1sourcework align. B headache differs primary unsolicited weight estimates; archetype MaulHead Room conflicts same Weapon blade Short. No dedicated Master exact-name match. Archived B43unit9 71d2695, B48unit6 quote and B50unit10 prose entries read; they do not establish unique equipment credit. No fresh eligibility proof, so +0/+0 conservatively withheld, not asserted already counted.
+
+**Changes:** Six repairs clarify non-corporeal pressure rather than Organic body, actual room expansion rather than transformed figure, Major rather than Sovereign role, measured atmosphere versus estimated contact, gauge relief versus room recovery, and concrete witness/extent/material-derived-equipment distinctions.
+
+**Complete final review:** HELD: source is explicitly non-corporeal and subjective contact is separated from measured atmosphere, with actual spatial expansion retained. Combat/vessel/silence and exact same-item claims still prevent whole-design completion. A solid derived Weapon is not itself a donor-body conflict. Complete final primary reread in document order after five actual validators; hash matches the recorded version.
+
+**Holds / later recheck:**
+
+- VesselDestructibleYes/drop versus no physical target remains; no vessel or destruction invented.
+- Generic targeted attacks/provocation/cornering and Ultimate above65 versus it-does-not-act, never above60 and no injury record remain unjoined.
+- Operational silence/loss-of-voices/physical-line signals versus lack of entity sound and barometer-based watch procedure; turn-based drain versus per-room Gauge escalation unresolved.
+- Primary BladeShort versus archetype MaulHeadRoom; B headache versus primary weight estimates; external broadcast/transmission origin metaphors and bearer-as-new-site are not demonstrated source anatomy or source history.
+- Final reread also retains two blank watches versus one-third blank series, and each entry carrying estimates versus deliberately blank controls; population/scope needs clarification, not invented recounted data.
+
+**Commentary:** The blank forms are the strongest design detail: preserving them keeps expectation from becoming false proof of a haunting. The familiar estimated weight is moving precisely because recognition remains unproven.
+
+**Evidence:** `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B167_01_DEAD_AIR.md`. 6 supported replacements; LC_ALL=C wc -w4749→4973. Verify/tpl/sectfile/wikistd/sect PASS; raw checks and before/final/source fingerprints in receipt. Written-design review only; no illustration, rendered page, browser, game or deployed-site checked. Equipment +0/+0; written-design +0; no duplicate equipment/body/art credit.
+
+**Batch:** OPEN1/5, No change0/1. Counters remain255/30184.72%(46remaining),255/28788.85%(32remaining),16/3015.32%(285remaining) unless independent completed design is explicitly recorded. Mandatory individual gate/push follows. No close below required rung; no168/merge/deployment;301owner-eight-body one4+4/generate-before-copy blocker and later full recheck remain.
+
+## Fingerprints and actual outputs
+
+```json
+{
+  "designation": "N-IIIγ-929",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-929_Dead_Air_유령의_압력.md",
+  "words": 4749,
+  "sha256": "0d78e19af25e62143fa9836eb4dd8f7c4f3be26e203074d12d0f1e5d4e34c70a",
+  "name": "Dead Air",
+  "unit": 1,
+  "status": "held",
+  "receipt": "B167_01_DEAD_AIR.md",
+  "repairs": [
+    [
+      "**Hazard** — Can breach via Transform",
+      "**Hazard** — Recorded breach is expansion into adjoining rooms; no transformed body is documented"
+    ],
+    [
+      "| **Physical Form** | Organic — A barometric anomaly",
+      "| **Physical Form** | Non-corporeal pressure anomaly — A barometric anomaly"
+    ],
+    [
+      "| **Threat Role** | Sovereign encounter |",
+      "| **Threat Role** | Major pressure hazard; not a Sovereign classification |"
+    ],
+    [
+      "- The volume carries no sound and is not a vacuum; instruments confirm pressure while registering nothing.",
+      "- The barometer records atmospheric pressure. The lean, bearing and apparent mass are subjective entries, not instrument readings; no figure or sound has been reported. Lack of an apparition is not evidence of a vacuum or of a measured dead body."
+    ],
+    [
+      "- Work reduces its extent for a shift. The silence is unchanged, and no session has produced a sound within it.",
+      "- Completed watches reduce the gauge even when the form is blank. The recorded boundary changes were entered on the plan, not reversed by Work; gauge relief must not be described as demonstrated recovery of rooms."
+    ],
+    [
+      "## Appearance\n\n",
+      "## Appearance\n\n**Presence without a figure:** The holding occupies rooms as a reported lean, not as a visible organic person. A bearing is the direction a Warden feels the contact from; an apparent mass is an estimate, not the weight of a recovered body. Recognition of somebody known does not establish an apparition or an anatomical outline. Keep the empty-room observation and the uncertainty of the testimony together.\n\n**Extent and observation:** The registered anomaly is fixed; the recorded expansions take adjoining rooms through shared walls. Neither episode establishes a travelling spirit or a rule that exterior walls can never be crossed. The barometer and municipal comparison series measure atmosphere, while the form records impressions. Their loose relationship supplies no demonstrated contact predictor.\n\n**Derived equipment:** The chair rail, barometer oilcloth and calibration weight identify material sources for the Edge, Veil and Token. Their solidity, glow and wearable form do not give the donor a physical body. Directional heaviness and unchanged measured item mass are separate equipment observations, not dimensions of an unseen person.\n\n"
+    ]
+  ],
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/929_Dead_Air/SE-929-A__SIDE_CODEX_Dead_Air.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/929_Dead_Air/SE-929-B__MAW-W_Dead_Air_s_Edge.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/929_Dead_Air/SE-929-C__MAW-S_Dead_Air_s_Veil.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/929_Dead_Air/SE-929-D__MAW-G_Dead_Air_s_Token.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "reasoning": "Complete343-line primary and exact929A–D read. Hazard-Spirit and narrow particular grief are represented by subjective pressure in empty rooms, not an organic ghost; Whole chain includes fixed/barometric extent, recognition versus inference, six-hour watches and blank controls, adjacent-room expansion, generic combat, derived chair/oilcloth/calibration gear, paper-only pairings and Warden Record. Supported scope: non-corporeal label, expansion gloss, risk role, measurement distinction, Gauge-versus-extent and concrete witness/gear organisation.",
+  "history": "Exact929A–D and registry1075–1078, archetype388 and disposition340 read. Primary/B γWeight14–25 Normal2 Short2 4/25 align; C L/G/V/W1/1/1.2/.3 4/20; DHead5%+1sourcework align. B headache differs primary unsolicited weight estimates; archetype MaulHead Room conflicts same Weapon blade Short. No dedicated Master exact-name match. Archived B43unit9 71d2695, B48unit6 quote and B50unit10 prose entries read; they do not establish unique equipment credit. No fresh eligibility proof, so +0/+0 conservatively withheld, not asserted already counted.",
+  "summary": "Six repairs clarify non-corporeal pressure rather than Organic body, actual room expansion rather than transformed figure, Major rather than Sovereign role, measured atmosphere versus estimated contact, gauge relief versus room recovery, and concrete witness/extent/material-derived-equipment distinctions.",
+  "holds": [
+    "VesselDestructibleYes/drop versus no physical target remains; no vessel or destruction invented.",
+    "Generic targeted attacks/provocation/cornering and Ultimate above65 versus it-does-not-act, never above60 and no injury record remain unjoined.",
+    "Operational silence/loss-of-voices/physical-line signals versus lack of entity sound and barometer-based watch procedure; turn-based drain versus per-room Gauge escalation unresolved.",
+    "Primary BladeShort versus archetype MaulHeadRoom; B headache versus primary weight estimates; external broadcast/transmission origin metaphors and bearer-as-new-site are not demonstrated source anatomy or source history.",
+    "Final reread also retains two blank watches versus one-third blank series, and each entry carrying estimates versus deliberately blank controls; population/scope needs clarification, not invented recounted data."
+  ],
+  "final_reasoning": "HELD: source is explicitly non-corporeal and subjective contact is separated from measured atmosphere, with actual spatial expansion retained. Combat/vessel/silence and exact same-item claims still prevent whole-design completion. A solid derived Weapon is not itself a donor-body conflict.",
+  "commentary": "The blank forms are the strongest design detail: preserving them keeps expectation from becoming false proof of a haunting. The familiar estimated weight is moving precisely because recognition remains unproven.",
+  "final_sha": "886ed0675fd9cc3344ff179aafeb5555ef289521da508359f799de866aa66201",
+  "before_words": 4749,
+  "after_words": 4973,
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/929_Dead_Air/SE-929-A__SIDE_CODEX_Dead_Air.md": "fc3d64532992680c232dd841f6d2e869ee93af40e240f69f5c9896be2bced4a2",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/929_Dead_Air/SE-929-B__MAW-W_Dead_Air_s_Edge.md": "7c15a494cc710060280b631314d340c6828d55052171d0cd923ed722e88e0ee1",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/929_Dead_Air/SE-929-C__MAW-S_Dead_Air_s_Veil.md": "a1790cf923efdc8059d4fdc59dc5268364290d03dcaf3bf306dbfb1b1d9ea7b3",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/929_Dead_Air/SE-929-D__MAW-G_Dead_Air_s_Token.md": "491d6d4bed3a0307803c01e0f01dd7ee202dce4d5e9ef8ca5fec86400f330abc",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "checks": {
+    "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+    "tpl": "RESIDUE 0  SE-N-IIIγ-929_Dead_Air_유령의_압력.md\n",
+    "sectfile": " 0.037  clean   134 grams  Breach Behavior\n 0.015  clean   136 grams  Operational Parameters\n 0.009  clean   336 grams  M.A.W. Equipment\n 0.005  clean   419 grams  Combat Record\n 0.000  clean   392 grams  상호작용 (Entity Interactions)\n 0.000  clean   358 grams  Appearance\n 0.000  clean   280 grams  Warden Record\n 0.000  clean   219 grams  이야기 보고 (Story Log)\n 0.000  clean   213 grams  이야기 (Narratio)\n 0.000  clean   162 grams  기록 (Registrum)\n 0.000  clean   153 grams  감각 묘사 (Flavor Text)\n 0.000  clean   140 grams  Origin\n 0.000  clean    96 grams  관찰 기록 (Observation Log)\n 0.000  clean    54 grams  Behavior\n 0.000  clean    47 grams  증언 (Testimonium)\n 0.000  clean    40 grams  최종 관찰 (Final Observation)\n 0.000  clean    36 grams  SECC Classification\n 0.000  clean    23 grams  Trivia\n 0.000  clean    20 grams  (preamble)\n0 section(s) over 0.05\n",
+    "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+    "sect": "fraction 0.00373948270489249\nPASS\n"
+  },
+  "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B167_01_DEAD_AIR.md",
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-N-IIIγ-929_Dead_Air_유령의_압력](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md \"SE-N-IIIγ-929_Dead_Air_유령의_압력.md\")]",
+  "table_link": "[Dead_Air](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md \"SE-N-IIIγ-929_Dead_Air_유령의_압력.md\")"
+}
+```

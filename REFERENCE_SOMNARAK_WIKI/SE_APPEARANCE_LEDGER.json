@@ -27,7 +27,20 @@
       "O-IIβ-911",
       "O-IIIγ-924"
     ],
-    "reviewed": {},
+    "reviewed": {
+      "N-IIIγ-929": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B167_01_DEAD_AIR.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    },
     "authorization": "Owner p after CLOSED166 authorizes Batch167 only; minimum five; cumulative three No change triggers5→7→10; later full recheck retained."
   },
   "dossiers": [
@@ -2555,8 +2568,29 @@
     {
       "designation": "N-IIIγ-929",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-929_Dead_Air_유령의_압력.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: source is explicitly non-corporeal and subjective contact is separated from measured atmosphere, with actual spatial expansion retained. Combat/vessel/silence and exact same-item claims still prevent whole-design completion. A solid derived Weapon is not itself a donor-body conflict.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B167_01_DEAD_AIR.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/929_Dead_Air/SE-929-A__SIDE_CODEX_Dead_Air.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/929_Dead_Air/SE-929-B__MAW-W_Dead_Air_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/929_Dead_Air/SE-929-C__MAW-S_Dead_Air_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/929_Dead_Air/SE-929-D__MAW-G_Dead_Air_s_Token.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIIγ-954",
