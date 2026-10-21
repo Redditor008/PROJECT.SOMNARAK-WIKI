@@ -27,7 +27,20 @@
       "N-IVδ-967",
       "N-IIα-285"
     ],
-    "reviewed": {},
+    "reviewed": {
+      "N-IVγ-250": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_01_EXTINGUISHED.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    },
     "authorization": "Latest owner p after CLOSED172 authorizes173 only. Minimumfive; cumulative three No change extends5→7→10. Later full recheck retained."
   },
   "dossiers": [
@@ -3305,8 +3318,31 @@
     {
       "designation": "N-IVγ-250",
       "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IVγ-250_The_Extinguished_꺼진_자.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: Bearer-shaped afterimage is directly supported, not an assumed human shape from sorrow alone. Limited instruction/care repairs do not resolve actual target, work-policy, closure and bearer-cost relationships. Equipment+1/+1; SE+0.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_01_EXTINGUISHED.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/UNK_250_The_Extinguished/UNK_250-A__SIDE_CODEX_The_Extinguished.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/UNK_250_The_Extinguished/UNK_250-B__MAW-W_The_Spent_Wick.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/UNK_250_The_Extinguished/UNK_250-C__MAW-S_Cinder_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/UNK_250_The_Extinguished/UNK_250-D__MAW-G_The_Ash_Pin.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/README.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IVδ-005",
@@ -5891,6 +5927,14 @@
       "batch": 172,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_04_FALLOW.md",
       "history_proof": "CSV727–730, archetype240LongChronometer with249historicalsickleparity note, Entity608/Tale238full13321–13378, MAW712–714tables752–754/detail8723–8754 and disposition363Neutral read. CompleteexactA mobileSubject/ObjectGrudgeIRelic; unplantedFerrehanecho; B3–6/2/2Single5/15; C.4/1/1.6/.8max5/10; DTail5%+1Clarity. Current/archivedWIP/CHANGELOG exactdesignation/title/item searches: B61unit6 da67025 is Toolprofileoverlapprose, B72comparison is other851, bulkAppearance/SVGparity isart/editorialnotprimary/exactsource disposition; no prior independentreview found. Fresh+1Types/+1Weapon. Primarygit10cd20a.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "N-IVγ-250",
+      "batch": 173,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_01_EXTINGUISHED.md",
+      "history_proof": "CSV1147–1150 exactUNKnamespace; Entity645, disposition429Negative read. Exact MasterMAW/Tale/archetype title/code searches no matchingstandaloneentry; similarlynamed763Shroud excluded. FullcurrentWIP7000–7032 generalcomparison reconciliation is setcountrepair, not an independentlycounted full/exactWeapon disposition; B56unit3 42bbff6 R29condition/series and prosehistory are notcomparativecredits. No earlier full source disposition found in all WIP/CHANGELOG volumes or ledger. Fresh+1Types/+1Weapon. Primarygit10cd20a. Bβ5–9Normal2Short2Single4/25; C1/.3/1.4/.8max4/20; DHead5%+1Composure agree; no absentprimaryweaponstat backfill required.",
       "all_types_credit": true,
       "weapon_credit": true
     }

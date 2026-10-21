@@ -1,4 +1,27 @@
 # Work In Progress
+## Batch173 unit1 — The Extinguished `N-IVγ-250`
+
+[[SE-N-IVγ-250_The_Extinguished_꺼진_자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-IV%CE%B3-250_The_Extinguished_%EA%BA%BC%EC%A7%84_%EC%9E%90.md "SE-N-IVγ-250_The_Extinguished_꺼진_자.md")]
+
+**Original/source review and R18 predeclared scope:** Complete384-line original and exactUNK250A–D/README read. InnerlostHope→SubjectBody/IVγ→districtgrief/Beareroutline/sealedidentity→gold/crimson/frost/char→roomversusround and selectiveHopeapproach→screening/Ferrehan/word/frost/streets→GentleFlame/BurningHope/Handsituation→derivedβWick/Mantle/Pin traced. R18predeclared7short/5careful: ownmovement, actualmethod, normaldoor/selectivetarget, no forcedPugnahan, body/itemgrade separation, bespokevisualidentity/care. Body and derived item neednotshare shape.
+
+**Sources/history:** CSV1147–1150 exactUNKnamespace; Entity645, disposition429Negative read. Exact MasterMAW/Tale/archetype title/code searches no matchingstandaloneentry; similarlynamed763Shroud excluded. FullcurrentWIP7000–7032 generalcomparison reconciliation is setcountrepair, not an independentlycounted full/exactWeapon disposition; B56unit3 42bbff6 R29condition/series and prosehistory are notcomparativecredits. No earlier full source disposition found in all WIP/CHANGELOG volumes or ledger. Fresh+1Types/+1Weapon. Primarygit10cd20a. Bβ5–9Normal2Short2Single4/25; C1/.3/1.4/.8max4/20; DHead5%+1Composure agree; no absentprimaryweaponstat backfill required.
+
+**What changed:** Remove indiscriminate-hunt/shattered-cell/forced-Pugnahan shorthand using the file’s actual selective targeting and open-door record. Copy actual round and word/frost/gold observation instructions into quick fields. Distinguish γsource from βgear and add concrete identity and three item-specific care records.
+
+**Final whole-file assessment:** HELD: Bearer-shaped afterimage is directly supported, not an assumed human shape from sorrow alone. Limited instruction/care repairs do not resolve actual target, work-policy, closure and bearer-cost relationships. Equipment+1/+1; SE+0.
+
+**Holds / later recheck:**
+- OnlyHopeengagement versus answerersfollowedhome and nonspecificnearbydamage needs actualperson/pressure scope. No humanappearance-based targetpermission.
+- HonestFlerehanstable in A/table versus everyattemptescalated in operationalrecord; soleeffectiveFerrehan versus four validmethods and confidentBearer/Sooahexception versus blanketrosterban remain evidentiary policy limits.
+- No closingstate/noacknowledgment versus bow-andwithdraw FinalObservation; normal room/round supported, but claims of solebreach versus evolvinground and date/cause of extension need event crosswalk.
+- FiveFerrehanfloors61 versus Handlowfifties is explicitly differentpairedcondition, not contradiction by itself; no restoredHope or permanentcure claimed.
+- Onecompletedextraction/three registeredforms and distinctbestowal allowed, but sharedpermanentencouragementloss versus piece-specificfear/comfort/Pinrelease requires bearer/piece/state scope; abandonedfailedpiece untouched.
+
+**Commentary:** The tired figure asking a polite question works better than an indiscriminate hunter. I read its sealed identity as an unresolved ethical risk, not a puzzle whose answer the reviewer should supply. The district’s relief was real, which makes the failed dependency more difficult than simple ingratitude.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 12 exact replacements (7batch-short/5careful-detail); LC_ALL=C words6343→6943. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_01_EXTINGUISHED.md`. Equipment+1/+1;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No174/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch173 — OPEN0/5 (2026-10-22)
 
 Latest owner p after CLOSED172 authorizes173 only. Minimumfive; cumulative three No change extends5→7→10. Later full recheck retained.

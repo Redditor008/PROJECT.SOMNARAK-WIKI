@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch173 OPEN0/5.** Owner p authorizes173 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B173_OPEN.json). No174/merge/art/deployment.
+**Latest: Batch173 OPEN1/5.** Owner p authorizes173 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B173_OPEN.json). No174/merge/art/deployment.
 
 **Latest: Batch172 CLOSED5/5.**47supported replacements, five HELD, No change0/5. Equipmentcoverage+2Types/+2Weapon; SE+0. [Batch report](SE_APPEARANCE_REVIEWS/B172_CLOSE.md). No173/merge/deployment.
 
@@ -1311,3 +1311,7 @@ CLOSED5/5;48replacements, fiveHELD whole designs, No change0/5. 26,608→28,257w
 **Batch172 closure (2026-10-21): CLOSED5/5 reviews; No change0/5.** 47supported replacements (11batch-short/36careful-detail). C-locale words31,352→33,767(+2,415). Five whole written designs HELD, not five completed appearance fixes.25fresh closingvalidatorruns PASS without waivers;54testsPASS;fourfreshpreclosingauditsPASS.296unselected/fivereserves/digits/allfiveprimaryTales/fingerprinted sources unchanged.47exactoperationsreconstructfinals;all11shortrepairsgrow.300PhysicalFormrows unchanged;921retainsOrganiccategory with non-occupant qualifier. Five individually verified unit commits. Fresh777/554equipmentreviews+2Types/+2Weapon;921/233/622alreadycounted. Counters260/30186.38%(41remain),259/28790.24%(28remain),16/3015.32%(285remain). Ledger12changed/4retained/123held/2blocked/160pending. Laterfullrecheckretained;p172spent,no173/merge/deployment/artwork.301eight-owner-body/one4+4/generatevalidatebeforecopy blocker unchanged.
 
 [Full report](SE_APPEARANCE_REVIEWS/B172_CLOSE.md).
+
+### Batch173 unit1 — OPEN1/5
+
+[The Extinguished evidence](SE_APPEARANCE_REVIEWS/B173_01_EXTINGUISHED.md): HELD, 12supported repairs, full final reading and five actual checks. No change0/1.

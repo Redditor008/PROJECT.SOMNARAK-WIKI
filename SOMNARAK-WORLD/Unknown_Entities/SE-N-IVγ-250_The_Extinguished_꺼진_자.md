@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A humanoid figure that was clearly once bright — the afterimage of a Hope Bearer, its edges still faintly gold, its core gone cold and crimson where the hope burned out. Fever-cold, it smells of char; a light that failed, walking. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Walking, upright, at a tired pace, on a fixed round of the shelter and four streets. Record whether it is on the round or in the inner room; the round is the escalated state. |
 | **Location** | A decommissioned Dawn shelter, outer Zone D; drifts the district it once lit |
 | **R.D. Comprehension Level** | 3 — Elevated |
 
@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 12–16 per cycle, and only from Ferrehan. No other Work Type has produced a yield here, because no other Work Type has produced a completed cycle. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
 | **Activation threshold** | 2 |
-| **Tool / M.A.W. grade** | β · — |
+| **Tool / M.A.W. grade** | β — Weapon, Suit and Stigma |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | Ferrehan, held, by a worker carrying no Hope signature of any kind. The entity must be allowed to ask its question and receive no promise in reply. Flerehan reads to it as a second Bearer offering to take the weight and has escalated every time it has been attempted. |
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 65–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Ferrehan, held, by a worker carrying no Hope signature of any kind. The entity must be allowed to ask its question and receive no promise in reply. Flerehan reads to it as a second Bearer offering to take the weight and has escalated every time it has been attempted. |
 | **Battlefield** | A decommissioned Dawn shelter, outer Zone D; drifts the district it once lit |
 | **Resolution Condition** | Sustained Ferrehan — a light that does not flinch and does not promise forever |
 
@@ -97,6 +97,9 @@
 - An unresolved cycle sends it out on the round. It does not attack the district — it knocks, asks, and moves on — and the Zone D office regards that as worse, because the district has begun answering.
 
 ## Appearance
+
+**A spent light, not an indiscriminate hunter:** The tired upright shape, faint gold extremities and cold crimson-black centre belong to a sorrow wearing the stationed Bearer’s outline. The district’s return of grief is the formation event; resemblance does not unseal her personal identity or establish what would happen if she were named. Frost and char mark where it has paused, while brightening gold precedes the round. Keep the room-versus-round observation beside the gold reading: neither a brighter edge nor a recognisable human shape makes the figure a restored Hope Bearer. The screening rule concerns the observer’s carried signature, not whether they look brave.
+
 **Primary Form:** A humanoid figure that was clearly once bright — the afterimage of a Hope Bearer, edges still faintly gold, core gone cold and crimson.
 
 **Notable Features:**
@@ -123,7 +126,7 @@
 | **Distinctive markers** | Gold at the edges, crimson and cold at the core, frost where it has stood, and the smell of char in a building that has not burned. It leaves a visible outline on any wall it leans against for more than a minute. |
 | **Identification** | It is the only Grudge entity in the registry that will not approach a hopeless person. If it ignores the team entirely, the team is correctly composed. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as "strange" or "anomalous."
+**Appearance protocol:** Listen to the word. *Again?* asked once an hour is a settled entity; asked at the door, repeatedly, while the worker is still arriving, it is already escalating and the cycle should not begin. The frost is the second instrument: measure its depth on the inner door frame at the start and end of every cycle, because it thins across a good month and thickens across a bad one, and it has never once disagreed with the gauge trend over four weeks. Watch the gold, measure the frost, count the streets. Three instruments, all of them visible from outside the building, and between them they have predicted every escalation this file records.
 
 ## Origin
 - **Formation:** A Hope Bearer was stationed in outer Zone D for three years, holding the district's sorrow; overused, the Bearer burned out, and the hope died.
@@ -149,12 +152,12 @@ The table's governing fact is that this entity's responses are keyed to the work
 **Reading the response:** Listen to the word. *Again?* asked once an hour is a settled entity; asked at the door, repeatedly, while the worker is still arriving, it is already escalating and the cycle should not begin. The frost is the second instrument: measure its depth on the inner door frame at the start and end of every cycle, because it thins across a good month and thickens across a bad one, and it has never once disagreed with the gauge trend over four weeks.
 ## Breach Behavior
 
-> *"Extinguished has broken free. Hunts personnel indiscriminately."*
+> *"Whoever in the room carries a Hope signature, regardless of distance, and nobody at all if no one does. In the one breach on file it crossed two occupied rooms without acknowledging anyone in them."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | The Extinguished shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
+| **Movement** | **Breach type:** Escape, on foot, through a door it opens normally. The shelter is decommissioned and unsealed; what holds it there is the absence of anything worth leaving for, and that is the whole of the containment. Whoever in the room carries a Hope signature, regardless of distance, and nobody at all if no one does. In the one breach on file it crossed two occupied rooms without acknowledging anyone in them. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | Whoever in the room carries a Hope signature, regardless of distance, and nobody at all if no one does. In the one breach on file it crossed two occupied rooms without acknowledging anyone in them. |
@@ -163,7 +166,7 @@ The table's governing fact is that this entity's responses are keyed to the work
 ### Escalation Notes
 
 - **Breach type:** Escape, on foot, through a door it opens normally. The shelter is decommissioned and unsealed; what holds it there is the absence of anything worth leaving for, and that is the whole of the containment.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
+- **Containment priority:** Ferrehan, held, by a worker carrying no Hope signature of any kind. The entity must be allowed to ask its question and receive no promise in reply. Flerehan reads to it as a second Bearer offering to take the weight and has escalated every time it has been attempted.
 - **Sorrow Gauge on breach:** Leaves at about 65% and climbs roughly four points per street added. The single breach on record peaked at 81% at the fourth street and fell on its own when the entity reached the end of the Bearer's old round and turned back.
 
 ## M.A.W. Equipment
@@ -176,6 +179,8 @@ The table's governing fact is that this entity's responses are keyed to the work
 
 **Ability:** Deals Grudge damage; strikes deal extra damage to entities that rely on Hope or light. Against sorrow it cuts clean; against hope it devours.
 **Cost:** The wielder begins to fear their own hope will burn out; prolonged use induces dependency-anxiety.
+
+**Wick custody:** Record whether a stroke met hostile cold-burn or consumed a support field; the lamp incident does not authorise pre-emptive attacks on help. Every light seeming temporary is a corrosion warning, not target identification. The item is stored beside an extinguished lamp whose ending was witnessed. Before sheathing, the support team states what ends and what remains; that bounded account does not promise permanent relief or recover the abandoned extraction.
 
 ### M.A.W. Suit — Cinder Mantle
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
@@ -190,6 +195,8 @@ The table's governing fact is that this entity's responses are keyed to the work
 **Ability:** Grants resistance to Grudge and the cold-burn; lets the wearer endure near a burned-out Hope without flinching.
 **Cost:** The wearer cannot accept comfort while wearing it; insincere Flerehan rebounds as cold-burn.
 
+**Mantle removal:** The Matron’s Blanket account retains the rejection of even honest rest until fear of needing it was admitted. Cool the Mantle in a room with a posted support schedule. Its collar is opened with one honest, time-bounded offer accepted by the wearer; isolation feeling safer is a warning, not evidence that comfort is unnecessary. Keep this removal check separate from the longer encouragement follow-up.
+
 ### M.A.W. Stigma — The Ash Pin
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 **Appearance:** A hairpin of frosted crystal that spells, in Old Somnarak, a single word: again?
@@ -201,6 +208,8 @@ The table's governing fact is that this entity's responses are keyed to the work
 **Cost:** The bearer hears 'again?' whispered whenever they reach for hope, until the fear is spoken aloud.
 
 *No direct Stigma offer has been recorded from the entity. The Ash Pin is nevertheless the 5% Head Stigma in the M.A.W. set, with a +1 Composure work effect; it is conferred at the end of a cycle, not requested from the source.*
+
+**Pin and capacity:** Before another shift, record fear, remaining capacity, relief staff and an end time. The White Flame Check allowed rotation because the fear was named, not because the Pin made the bearer immune to burnout. Removal requires speaking to someone able to share the risk rather than deny it. The work bonus does not waive Hope screening, and no direct source offer should be invented to explain a cycle-end award.
 
 ### M.A.W. Use Notes
 
@@ -217,7 +226,7 @@ One extraction succeeded from a figure that had been a Hope Bearer, and the M.A.
 | **At limit** | Whether the bearer can still be encouraged. The test is a direct one and is administered by someone they trust: good news is delivered and the response is timed. Beyond four seconds of flat acknowledgement the deployment ends. |
 | **After use** | The encouragement test again at one week and one month. The sole bearer failed both and has remained in service by her own request; the Initiative's dependency doctrine cites her file by number in its opening paragraph. |
 
-**Stat interpretation:** The γ grade is a measure of how much of a three-year Bearer's output is still in the object, which is most of it. Nothing in the rating speaks to the exchange, and the Zone D office has asked for an additional field on the Armoury form — what the piece takes that cannot be given back — three times without success.
+**Stat interpretation:** The source is γ; the Wick, Mantle and Pin are β equipment. Do not use the source potency as their item grade or treat a grade as a measurement of the Bearer’s remaining life. The file’s three-year history explains the pressure but does not quantify how much of her output survives in a piece. Nothing in the rating speaks to the exchange, and the Zone D office has asked for an additional field on the Armoury form — what the piece takes that cannot be given back — three times without success.
 
 ## 관찰 기록 (Observation Log)
 
