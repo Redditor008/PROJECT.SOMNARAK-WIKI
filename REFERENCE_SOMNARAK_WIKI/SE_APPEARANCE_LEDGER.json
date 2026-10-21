@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-IIIγ-916": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_02_ALLHALLOW.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Owner p after CLOSED167 authorizes168 only; minimum five, cumulative three No change triggers5→7→10; later full recheck retained."
@@ -3643,8 +3655,31 @@
     {
       "designation": "O-IIIγ-916",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-916_Allhallow_유령의_시간.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: static event versus moving apparitions is now explicit, observed intangibility/recognition uncertainty remains intact, no approach is authorized and records are reconciled without normalization. Material vessel, targeting-combat and gauge-state relationships still lack source resolution. Derived gear differences from walkers alone are not a hold.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_02_ALLHALLOW.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1042_Hour_the_Dead_Walk/SE-1042-A__SIDE_CODEX_Hour_the_Dead_Walk.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1042_Hour_the_Dead_Walk/SE-1042-B__MAW-W_Hour_the_Dead_Walk_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1042_Hour_the_Dead_Walk/SE-1042-C__MAW-S_Hour_the_Dead_Walk_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1042_Hour_the_Dead_Walk/SE-1042-D__MAW-G_Hour_the_Dead_Walk_s_Token.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IIIγ-920",

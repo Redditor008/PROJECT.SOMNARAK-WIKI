@@ -8,6 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch168 unit2 — Allhallow `O-IIIγ-916`
+
+[[SE-O-IIIγ-916_Allhallow_유령의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-916_Allhallow_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-O-IIIγ-916_Allhallow_유령의_시간.md")]
+
+**Original whole review and supported scope:** Complete344-line original read: Time-Phantasmal hour fixed at border, dead-like figures walk silently and pass objects without disturbance, not confirmed dead identities. Lament border grief predates dated record; precursor search closed without findings. No approach/contact: dual independent counts and no corrections, differences retained. Trace includes route extensions, recognition/exposure costs, no-shortening resolution, paper-only interactions and apparatus-derived gear. Scope fixes header Transform, stationary-versus-procession ambiguity, Sovereign role, suppression directive and no-reconciliation row; adds concrete state/observability/gear anatomy distinctions plus two exact item-cost notes.
+
+**Exact sources/history:** Full1042A–D read with Source O-IIIγ-916, not numerical-prefix inference; Registry330–333 partial, archetype442 SolarRefractionMonocle Close has no crosswalk, disposition346. Entity359 awaits codex row; Master searches no exact row/Tale. B95unit3 85dd8742 source review already counted set/Weapon and held titles/missing event; B43unit1 archived interactions/condition and B49unit5 generic cleanup are not body evidence. Weapon Lament14–23 Normal2 Short2 4/25; Suit .3/1/1.2/.8 4/20; DHead5%+1 agree. Bheadache and primary compulsive counting preserved as separate reports, no unsupported mutually-exclusive verdict. Unknown source event stays unknown. No duplicate coverage credits.
+
+**Changes:** Eight repairs distinguish fixed hour from walking figures/route expansion, replace Sovereign and physical suppression language, repair reconciliation claim, add concrete phantasmal observability and apparatus profile, and preserve separate Edge headache/counting costs plus Token dreams-of-grief cost.
+
+**Final logical result:** HELD: static event versus moving apparitions is now explicit, observed intangibility/recognition uncertainty remains intact, no approach is authorized and records are reconciled without normalization. Material vessel, targeting-combat and gauge-state relationships still lack source resolution. Derived gear differences from walkers alone are not a hold. Complete final primary reread in document order after actual validation, hash matches.
+
+**Holds / later recheck:**
+
+- Vessel destruction/drop has no established tangible vessel; no unrecorded physical target invented.
+- Combat targeted/provoked/cornered attack triggers and burst collapse lack observed state bridge to no contact/no walker acknowledgment/no injury.
+- Gauge60 unchanged eleven years versus dual-count Work decreases and per-turn escalation need distinct field scopes. Titles Allhallow versus Hour the Dead Walk remain held; no item Appearance bridges the optical1042 archetype to the blade.
+
+**Commentary:** The strongest choice is refusing to ask whom a Warden recognized. It protects a personal grief from becoming manufactured evidence. Two honest counts that disagree are more unsettling than an invented correct total.
+
+**Checks and evidence:** `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_02_ALLHALLOW.md`. 8 supported replacements; LC_ALL=C wc -w4963→5302. All five validators PASS, raw outputs and original/final/source hashes in receipt. Written-design review only: no illustration, rendered page, browser, game or deployed site inspected. Equipment+0/+0, SE+0; no duplicate/retroactive/body/art credits.
+
+**Progress:** OPEN2/5, No change0/2. Types255/30184.72%(46/301remain);Weapon255/28788.85%(32/287remain);SE16/3015.32%(285/301remain). Individual gate/push follows. Minimum five/cumulative No change ladder retained. No169/merge/deployment;301owner-eight-body one4+4/generate-before-copy and later full recheck retained.
+
 ## Batch168 unit1 — Dawn That Forgot `N-IIIγ-917`
 
 [[SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-917_Dawn_That_Forgot_%EC%9E%A0%EB%93%9C%EB%8A%94_%EC%83%88%EB%B2%BD.md "SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md")]
