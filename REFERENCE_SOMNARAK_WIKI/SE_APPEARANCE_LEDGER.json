@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIIγ-921": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_02_CRACKED_FLESH.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Owner p after CLOSED171 authorizes172 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains."
@@ -840,8 +852,30 @@
     {
       "designation": "C-IIIγ-921",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: place hazard is a coherent nonhumanoid design without a hidden occupant, but the actual timing, print-identity, location/area and same-item form/range accounts still need evidence. No essential relationship silently cleared; SE+0, equipment+0/+0.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_02_CRACKED_FLESH.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-A__SIDE_CODEX_Cracked_Flesh.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-B__MAW-W_Cracked_Flesh_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-C__MAW-S_Cracked_Flesh_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-D__MAW-G_Cracked_Flesh_s_Token.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIIγ-928",

@@ -8,6 +8,34 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch172 unit2 — Cracked Flesh `C-IIIγ-921`
+
+[[SE-C-IIIγ-921_Cracked_Flesh_균열의_들판](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-921_Cracked_Flesh_%EA%B7%A0%EC%97%B4%EC%9D%98_%EB%93%A4%ED%8C%90.md "SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md")]
+
+**Original/source review and predeclared R18 scope:** Whole412-line primary read, complete exact921A–D read (C/D reread after broad output truncated); fullB134unit4 in both logs. R18predeclared3batch-short/6careful-detail: same-file no-vessel, clock-holder exit and nonambulatory expansion copies; registeredOrganic clarification, concrete field/surface/uncertainprint profile, separate costs, consent-aware return, records-only interactions and no equipment dwell extension. City/Grudge/HazardBody→uncorroboratedtaking/unknownformation→ordinaryground/secondaryprints→fixedexpansion→dwell/timing/privacy/training→derivedSpikeTendril/Hauberk/Stigma traced.
+
+**Sources/history:** B134unit4 a355579f alreadycompleteprimary/exactA–D review; B76 fae0d74 exactSE921B/MAW-W921-01 disposition, both logs and cumulativelists. No duplicate credits. CSV1043–1046, archetype380Long, disposition318Neutral; MasterMAW andTale exactcode/title searches no match; Entity359 explicitawaitingcodexrow, no substitute. FullA formalShort14–19/2/2Single4/25, C1/.3/1.2/.8max4/20,DHead5%+1 agree shortprofile; primaryTendrilMedium9–15/3/3 remains distinctdocumentedgrasp-unfurling. Primarygit a355579f/10cd20a.
+
+**What changed:** Copy actual non-vessel/withdrawal/expansion instructions into misleading quick fields. Clarify Organic is a category, not a hidden creature; distinguish cordon and printed evidence from anatomy. Remove equipment-based permission to overstay, distinguish three item costs, preserve consent at return and keep comparisons closed to co-presence.
+
+**Final whole-file reasoning:** HELD: place hazard is a coherent nonhumanoid design without a hidden occupant, but the actual timing, print-identity, location/area and same-item form/range accounts still need evidence. No essential relationship silently cleared; SE+0, equipment+0/+0.
+
+**Holds / later recheck:**
+- Three-minute onset versus combatfewseconds/ninetyseconds; no invented stages or equipment exemption.
+- ZoneB versus StoryZoneC, groundnochange/no visibleeffect versus permanentfieldprints and warmsensation; taking/formation unrecorded cannot be invented.
+- Printidentifiesperson versus ninetythree stablegridpatterns sharedacrossdifferentpeople; need observedidentitymapping.
+- No arearetreat versus fortyone returnedmetres: quiet certification maymeasureinactivity but no explicit area-state bridge; retainannualsurvey and outward-only claims. Gaugebehaviours need mapping to suppression, not deletion.
+- SameSuitveil versus apronaut/mail and Stigmairontoken versus porcelainmark require item-stateevidence; derivedgear/grounddifference alone is not a hold. Longarchetype versus two formalranges and sourceonlyShort lacks crossrecord coverage.
+- Vessel-destruction dust parameter remains a simulation field with no actual vessel or supported extraction/destruction procedure; not treated as permission to dig.
+
+**Commentary:** The disturbing visual is the ordinary field and the permanent line discovered later, not a flesh creature invented to match the title. The privacy rule is worth keeping even where it obstructs compensation: making the photograph easier for the institution to use is not a design repair.
+
+**Checks and integrity:** Five actual verify/tpl/sectfile/wikistd/sect PASS, full final read after checks, final hash matches. 9 exact replacements; LC_ALL=C words6249→6576. Source hashes and unchanged digit streams retained. Detailed evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_02_CRACKED_FLESH.md`. Gate/push follows. Written-design review, not artwork/render/browser/game/live-site inspection. Equipment+0/+0;SE+0, no duplicate/retroactive/body/art credits.
+
+**Validation disclosures:** None.
+
+**Progress:** OPEN2/5, No change0/2. Three counters Types259/301=86.05%(42remain),Weapon258/287=89.90%(29remain),SE16/301=5.32%(285remain). No173/merge/deployment/artwork. Later full recheck and301eight-owner-body/one4+4/generate-before-copy blocker retained.
+
 ## Batch172 unit1 — Last Fruit `C-IIβ-777`
 
 [[SE-C-IIβ-777_Last_Fruit_타오르는_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-777_Last_Fruit_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EC%97%B4%EB%A7%A4.md "SE-C-IIβ-777_Last_Fruit_타오르는_열매.md")]

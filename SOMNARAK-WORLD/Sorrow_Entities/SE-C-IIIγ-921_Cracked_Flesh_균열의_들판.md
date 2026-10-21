@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Hazard-Body |
-| **Physical Form** | Organic — A zone of ground in Zone B where anyone who stands for more than three minutes develops hairline cracks across their skin — painless at first, then deepening, as if the body were porcelain under pressure. |
+| **Physical Form** | Organic is the registered form category, not an occupant or a creature made of flesh. The visible site is ordinary ground; its injury appears on exposed surfaces. A zone of ground in Zone B where anyone who stands for more than three minutes develops hairline cracks across their skin — painless at first, then deepening, as if the body were porcelain under pressure. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-921, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -32,7 +32,7 @@
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · γ |
-| **Vessel-Destructible** | Yes |
+| **Vessel-Destructible** | There is no vessel and no occupant. The hazard is a property of a measured area of ground, and it presents on stone, timber, cloth and skin in exactly the same way. |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
 | **Recommended response** | Walk the field without stopping, map the fracture pattern, and measure the perimeter against the last traverse. Viderehan and Ferrehan only. Nobody stands still on it. |
 
@@ -73,7 +73,7 @@
 | **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-921 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | The full working party off the affected ground inside the threshold, confirmed by the clock-holder rather than by the party. |
 
 ### Combat Actions
 
@@ -94,9 +94,14 @@
 
 - A worker who cannot hold stops moving. They do not panic and they do not freeze in fear; they simply stand, aware of the time, and give sound reasons afterwards for why standing still had seemed reasonable.
 - Exposure layers across a career rather than within a shift. The marks do not fade, successive presentations interlock with earlier ones, and the cumulative figure is the only clinically meaningful number this holding produces.
-- The Cracked Flesh equipment lets the bearer work the affected ground past the threshold and charges them in the same currency the ground does, at a rate recorded in the equipment section and paid on the skin.
+- The equipment section records skin presentation during wear as well as separate item costs. It does not authorise standing past the dwell threshold: protective cloth has been tested and does not change the contact rule. A resistance rating and a completed work cycle are neither a new dwell allowance nor clearance to return. The clock-holder’s withdrawal call remains binding on an equipped party.
 
 ## Appearance
+
+**Read the cordon, not a creature:** The ordinary grass and compacted ground do not announce the affected perimeter. Paint and pegs are survey marks maintained by the team, not anatomy, and a line can become obsolete during a watch. Nothing walks out when the affected area widens. The readable fracture figures belong to the field’s record on surfaces and people; they are not an approaching body.
+
+**Keep the pattern’s owner undecided:** The square-metre survey finds a repeatable figure on different subjects, cloth and stone at the same location. That does not establish whose hand a convincing print resembles, what lies underground, or who took the common ground. The district’s taking story remains an uncorroborated account. A painless line can be a permanent injury without becoming a portrait of its wearer or evidence that the wearer consented to its use.
+
 
 **Primary Form:** A zone of ground in Zone B where anyone who stands for more than three minutes develops hairline cracks across their skin — painless at first, then deepening, as if the body were porcelain under pressure.
 
@@ -146,7 +151,7 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 
 ## Breach Behavior
 
-> *"Cracked Flesh has broken free. The grudge body spreads."*
+> *"Nothing moves and nothing is released. The affected area extends past the painted line, so that ground which was safe at the start of the watch is not safe at the end of it, and the line is repainted outward."*
 
 | Field | Detail |
 |---|---|
@@ -225,7 +230,7 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 
 ### M.A.W. Use Notes
 
-Each Cracked Flesh piece is an extension of the ground rather than ordinary equipment. The grade describes the effect on entities; the cost is separate, identical across the three, and permanent — the bearer's presentation deepens for as long as the piece is worn and does not recede when it is returned.
+The set is derived from this Hazard-Body pattern, not proof of an occupant under the field. Its marrow, mail and fault-line categories need not reproduce the size or substance of bare ground. The primary records permanent skin presentation during wear; the item records additionally distinguish the Weapon’s emotional numbness, the Suit’s bodily tension and the Stigma’s sharpening of old injuries and resentments. Record these costs separately. Returning a piece is not evidence that a print has receded or that the infirmary has cleared the bearer.
 
 ### Field Use Record
 
@@ -234,7 +239,7 @@ Each Cracked Flesh piece is an extension of the ground rather than ordinary equi
 | **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, current presentation photographed against the scale, cumulative exposure cleared by the infirmary, and the named clock-holder for the watch. |
 | **During use** | Entry and exit times, dwell intervals called at thirty seconds, boundary condition, first cost paid, and any new presentation noticed by anybody on the party. |
 | **At limit** | The operator has begun standing still without noticing. The second warden watches the feet rather than the worker and calls it on the feet. |
-| **After use** | Exit confirmed by the clock-holder, presentation re-photographed against the scale, infirmary notified, cooldown, boundary repainted if it moved, reuse authorisation. |
+| **After use** | Exit confirmed by the clock-holder; presentation re-photographed against the scale under the existing consent rule; infirmary notified; boundary repainted if it moved; reuse authorisation recorded. Rest does not close a print. Send the facility the clearance answer, not the underlying dose history or photographs without the worker’s written consent. |
 
 ## 관찰 기록 (Observation Log)
 
@@ -284,7 +289,7 @@ Nothing arrives. The field is ordinary: grass over compacted ground, a painted l
 
 ## 상호작용 (Entity Interactions)
 
-This holding has been compared on paper and nowhere else. The hazard has no occupant, keeps no gauge of its own and does nothing at any time, so there is nothing here to bring alongside anything: the relationships below were drawn by the pattern survey, which reads the ground's marks against other holdings' records rather than testing them in the field. Every row is cross-flagged and every row is closed to co-presence.
+These are comparisons of records, not encounters staged on the field. There is no occupant to introduce to another entity; the hazard acts through dwell and expansion rather than an agent’s intention. The operational gauge is not a warning of skin presentation. The pattern survey places the ground’s marks beside other holdings’ records without bringing those holdings here. Every row remains cross-flagged and closed to co-presence; an arithmetic or filing resemblance supplies no shared cause.
 
 **Interaction method:** Take the field's own baseline first — threshold, rate of expansion, the painted boundary at its current line — before any comparison is entered. Then set the other record's series beside it, note the first point at which they diverge, its range, what set it off, and whether either changed in the reading. Re-verify each quarter and keep both columns separate.
 
