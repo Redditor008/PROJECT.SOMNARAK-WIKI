@@ -124,3 +124,7 @@
   "table_link": "[Memory_Rain](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-250_Memory_Rain_%EA%B8%B0%EC%96%B5%EC%9D%98_%EB%B9%84.md \"SE-C-IIβ-250_Memory_Rain_기억의_비.md\")"
 }
 ```
+
+## Verified push and final closure
+
+[e4c06f746b846d5307c998cf73247283284c5c4d](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/e4c06f746b846d5307c998cf73247283284c5c4d) — PUSH VERIFIED. Final whole-file reading hash matches reachable individual commit blob. Five fresh closing checks PASS. [Full report](B177_CLOSE.md). Whole design remains HELD; equipment increments+0/+0, SE+0.

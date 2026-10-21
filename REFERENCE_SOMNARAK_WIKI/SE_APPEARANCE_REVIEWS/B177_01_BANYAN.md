@@ -128,3 +128,7 @@
   "table_link": "[Banyan](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-606_Banyan_%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80_%EB%82%98%EB%AC%B4.md \"SE-N-IVδ-606_Banyan_가라앉은_나무.md\")"
 }
 ```
+
+## Verified push and final closure
+
+[4f5b43c9eb3ed90aea758b55418be8736c0a3e2c](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/4f5b43c9eb3ed90aea758b55418be8736c0a3e2c) — PUSH VERIFIED. Final whole-file reading hash matches reachable individual commit blob. Five fresh closing checks PASS. [Full report](B177_CLOSE.md). Whole design remains HELD; equipment increments+0/+0, SE+0.

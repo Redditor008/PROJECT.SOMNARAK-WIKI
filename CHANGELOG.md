@@ -8,6 +8,33 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch177 CLOSED 5/5 — 2026-10-22
+
+Five complete primary/source/final reviews finished in the frozen order. All five whole written designs remain HELD. This closes five reviews, not five completed appearance fixes. No change: 0/5.
+
+30 supported repairs: 17 batch-short and 13 individually authored careful-detail. LC_ALL=C words34,211→35,783 (+1,572). Each unit has five actual checks, full final reading, evidence, independent Commentary, WIP/CHANGELOG updates and a separate verified push.
+
+Three independent counters:
+- **ALL M.A.W. Types Appearance per SE — source-review coverage:** 267/301 (88.70%); 34/301 remain.
+- **ALL M.A.W.-W Appearance per SE — source-review coverage:** 266/287 (92.68%); 21/287 remain. Fourteen dossiers are outside the paired denominator.
+- **SE Appearance Fix — independent written-design pass:** 18/301 (5.98%); 283/301 remain.
+
+Batch increments: +1 Types, +1 Weapon (Frozen Mirror only), +0 SE. Equipment coverage includes source holds, not finished artwork. Ledger:14 changed,4 retained,146 held,2 blocked,135 pending. Paused025/scope-unconfirmed062 earn no credit; non-SE Book remains outside the corpus.
+
+Fresh closing checks25/25 PASS; all54 tests and four archive-wide audits PASS. Exact30-replacement reconstruction matches all five final hashes and individual commit blobs. The296 unselected dossiers, five reserves, digit sequences, primary Tales and fingerprinted sources remain unchanged. All301 Physical Form rows are byte-identical.
+
+| Dossier | Repairs short/careful | Words | Checks / design | Commit / push |
+|---|---:|---:|---|---|
+| [Banyan](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-606_Banyan_%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80_%EB%82%98%EB%AC%B4.md "SE-N-IVδ-606_Banyan_가라앉은_나무.md") `N-IVδ-606` | 4/2 | 6816→7100 | Five PASS; HELD | [4f5b43c9](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/4f5b43c9eb3ed90aea758b55418be8736c0a3e2c) PUSH VERIFIED |
+| [Memory_Rain](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-250_Memory_Rain_%EA%B8%B0%EC%96%B5%EC%9D%98_%EB%B9%84.md "SE-C-IIβ-250_Memory_Rain_기억의_비.md") `C-IIβ-250` | 3/2 | 6831→7139 | Five PASS; HELD | [e4c06f74](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/e4c06f746b846d5307c998cf73247283284c5c4d) PUSH VERIFIED |
+| [Frozen_Mirror](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-643_Frozen_Mirror_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EA%B1%B0%EC%9A%B8.md "SE-O-Iα-643_Frozen_Mirror_얼어붙은_거울.md") `O-Iα-643` | 4/3 | 6844→7137 | Five PASS; HELD | [63a3c45d](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/63a3c45dfe1493e082ff1d04f24f35db6c483cc5) PUSH VERIFIED |
+| [Endless_Shift](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-915_Endless_Shift_%EB%81%9D%EC%97%86%EB%8A%94_%EA%B5%90%EB%8C%80.md "SE-C-IVδ-915_Endless_Shift_끝없는_교대.md") `C-IVδ-915` | 3/3 | 6845→7155 | Five PASS; HELD | [c1280388](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/c1280388d739a46d6a35f81879736532c5dc8fa9) PUSH VERIFIED |
+| [Remembrance](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-115_Remembrance_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%9A%B0%EB%AC%BC.md "SE-C-IIIγ-115_Remembrance_기억의_우물.md") `C-IIIγ-115` | 3/3 | 6875→7252 | Five PASS; HELD | [5c469239](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/5c469239886ca29050ba7ba073ce82359e503cc3) PUSH VERIFIED |
+
+[Full findings and Commentary](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_CLOSE.md) · [Raw evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_CLOSE.json)
+
+Selection: fresh pending-only shortest LC_ALL=C word count, designation-byte ties, not a defect ranking. Queue606→250→643→915→115, no substitutions. Owner p177 discharged after five complete reviews. No change0/5 does not trigger5→7→10. These long full-record dossiers do not earn a simple-cohort extension. Batch178, merge, artwork and deployment are not authorised. PR14 remains OPEN/draft to NON-WIKI; owner controls merge. Batch301 remains blocked on eight owner-supplied bodies, one4+4 operation, generate/validate before wiki copy. Later full rechecks and supported fixes remain available.
+
 ## Batch177 unit5 — Remembrance `C-IIIγ-115`
 
 [[SE-C-IIIγ-115_Remembrance_기억의_우물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-115_Remembrance_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%9A%B0%EB%AC%BC.md "SE-C-IIIγ-115_Remembrance_기억의_우물.md")]

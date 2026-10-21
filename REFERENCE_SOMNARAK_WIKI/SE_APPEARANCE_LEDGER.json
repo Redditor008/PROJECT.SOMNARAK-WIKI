@@ -18,7 +18,7 @@
   },
   "active_batch": {
     "number": 177,
-    "status": "OPEN",
+    "status": "CLOSED",
     "required": 5,
     "queue": [
       "N-IVδ-606",
@@ -89,7 +89,8 @@
         }
       }
     },
-    "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_OPEN.json"
+    "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_OPEN.json",
+    "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_CLOSE.json"
   },
   "dossiers": [
     {
