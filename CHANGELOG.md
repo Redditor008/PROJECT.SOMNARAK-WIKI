@@ -8,6 +8,33 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch171 unit3 — The Undelivered Thanks `N-IIIβ-247`
+
+[[SE-N-IIIβ-247_The_Undelivered_Thanks_전하지_못한_감사](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-III%CE%B2-247_The_Undelivered_Thanks_%EC%A0%84%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EA%B0%90%EC%82%AC.md "SE-N-IIIβ-247_The_Undelivered_Thanks_전하지_못한_감사.md")]
+
+**Original/source review and predeclared R18 scope:** Full369-line primary, exactUNK247A–D including forbiddenB–D incidents/corrosion and README fully read. Inner gratitude/Weight→SubjectPhantasmal→Iseulia/Bearers/unreceivedthanks→coldtranslucentcommoner/warmstones→route/bow/Handconditionalstraightening→voluntary Work versusforce→theorizedenvelope/coat/stone distinct from actualcommoner traced. R18 predeclared3batch-short/9careful-detail: two Movement copies from own Detail and priority copied from own Phase; nine authored type/material/identification/protocol/profile/deployment/activation/Work-scope/sourceauthority repairs.
+
+**Sources/history:** ExactUNK247Side 1/1/READMEprohibition checked against presentB–D4/4 and CSV1139–1142. Side-only theoreticalW5–9/1/4AoE4/25,C.8/1/1.2/.4max4/20,DHand5%+1Resolve not imported into primary. B envelope versus sediment-scroll/mineralcylinder, C glowingcoat versus linenmail/indigofeltchain, D goldstone versus darkriverpebble: no authorizedform bridge. MasterEntity643 correctUnknownpath; no exactMAW/Tale entry; MasterWarmStone315belongsKindEcho αLament, not thisβWeight theory. Archetype164W247UnopenedBloomSword belongs separate mainSE notUNK. Disposition356Neutral. Exactname/SECC/UNK/title CHANGELOGhistory searched: B67unit5 bow/overdue reauthor, not fullset/exactpair review; primarygit10cd20a administrative only. Fresh permitted/forbidden all-type appearance disposition earns +1Types only. No current authorized pairedWeapon: +0/287, no retroactive or manufactured-use credit.
+
+**What changed:** Use the documented route in both Movement rows and remove the forceful corridor-blocking order. Separate the cold humanlike figure from a theoretical crystal Letter, describe the Hand’s actual conditional straightening, repair the Appearance protocol, preserve stone acceptance versus delivery, and replace generic equipment-deployment instructions with a visible ban.
+
+**Final whole-file reasoning:** HELD: the source explicitly supports a human-shaped bearer of gratitude and conditional straightening in the Hand’s field. The appearance does not need arbitrary nonhuman conversion. Route, cold/warm distinction and extraction ban are clearer; incompatible deployment authority, action scope and stone accounting remain. +1 all-type source-review coverage, +0Weapon/+0SE.
+
+**Holds / later recheck:**
+- Organic/half-flesh presentation versus material fields repaired, but unspecified Transform/Escape and damagingbow/anniversarymulti-target action versus nonviolent/respectfulrefusal need supplied state/action mapping. PriorB67bow/overdue content retained, not silently erased.
+- Alwaysmidbow versus Handstraightening has actual conditional evidence, not an automaticcontradiction. Alwaysbowacknowledgment/everyone/onlydeadthresholds and firstcontactdockemptyberth need behaviour-condition scope.
+- Eleven delivered/placed versus elevenincirculation/stillheld; accepted→carried→delivered distinctions now explicit but no invented newcounts or redistribution. Fourcoldfailures and warmthyearlimit/longcarriers need coherent datedaccount.
+- Header4238/firstobserved4238 versus sixyearmonitoring, nineyearsearch/firststorm formation and Sideincident saysIseuliacarriedstonebeforeformation stillunresolved chronology.
+- PrimaryandSide/READMEnoauthorizedset versus actualBCD4/4deploymentincidents andCSVcodes; envelope/scroll/cylinder, coat/mail andgoldstone/riverpebble variants not presumed transforms. Source-only numbers not imported. No authorizedWeapon coverage credit.
+
+**Commentary:** The thanks should remain an errand rather than a weapon inventory. A stone accepted willingly is a responsibility; that is not the same as a Stigma reward. The figure standing upright in the Hand’s field is especially useful evidence because relief can be visible while the underlying delivery still has not happened.
+
+**Checks and integrity:** Five actual verify/tpl/sectfile/wikistd/sect PASS, full final read after checks, final hash matches. 12 exact replacements; LC_ALL=C words6195→6638. Source hashes and unchanged digit streams retained. Detailed evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B171_03_UNDELIVERED_THANKS.md`. Gate/push follows. Written-design review, not artwork/render/browser/game/live-site inspection. Equipment+1/+0;SE+0, no duplicate/retroactive/body/art credits.
+
+**Validation disclosures:** First verify strict-wrapper assertion flagged seam [..] in unchanged Iseulia counseling quotation “It just... stayed.” The attempted join correction asserted before writing because no doubled full stop exists. Actual verify: RESIDUAL0/pipeTrue/dupes[], one existing legitimate ellipsis. Wrapper permits only this original-matching single quoted ellipsis for247; validator code and owner quote remain unchanged. No failed attempt described as clean PASS.
+
+**Progress:** OPEN3/5, No change0/3. Three counters Types257/301=85.38%(44remain),Weapon256/287=89.20%(31remain),SE16/301=5.32%(285remain). No172/merge/deployment/artwork. Later full recheck and301eight-owner-body/one4+4/generate-before-copy blocker retained.
+
 ## Batch171 unit2 — Floating Fragment `O-Iα-453`
 
 [[SE-O-Iα-453_Floating_Fragment_떠다니는_파편](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-453_Floating_Fragment_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%ED%8C%8C%ED%8E%B8.md "SE-O-Iα-453_Floating_Fragment_떠다니는_파편.md")]

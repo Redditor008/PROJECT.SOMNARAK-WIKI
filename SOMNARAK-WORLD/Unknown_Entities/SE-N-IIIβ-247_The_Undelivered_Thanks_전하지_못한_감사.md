@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-247 [WS]` |
-| **Entity Type** | **Subject** — Drifts the old Dawn routes; can breach via Transform, only bow and wander |
+| **Entity Type** | **Subject** — Bowed route-walker carrying crystallized gratitude; the Hand’s temporary straightening does not deliver the stones |
 | **Coherence** | Fragment (III) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Organic — A translucent human figure, slight and perpetually mid-bow, wearing the faded coat of a Zone D commoner — half-flesh, half-light, frozen in a gratitude it never managed to speak. Lead-cold, it smells of wet stone; it bows to everyone, and the thanks never arrives. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Walks the old Dawn Initiative routes at the pace of someone carrying too much; stops and bows at thresholds. |
 | **Location** | Old Dawn Initiative routes; most seen near the Lantern's dock and the Echo Gardens, Zone D |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -97,6 +97,13 @@
 - An unresolved cycle ends with the figure walking back to the dock to begin again. That is the entirety of its failure state, and it has performed it an estimated nine thousand times.
 
 ## Appearance
+
+**One unfinished gesture:** A slight translucent commoner walks the old Dawn routes under a satchel of warm-gold stones. Half-flesh and half-light describes the observed figure; lead-cold describes the approach, not the stones. The faded coat and unfinished bow connect a public errand to gratitude that has outlived its intended recipient. There is no need to replace this person-shaped remainder with an armoured debtor or an extracted weapon.
+
+**Posture has a documented condition:** The usual bow can deepen when a stone is accepted. In the Hand of Hope’s field the figure has stood visibly upright and then returned to the bow after leaving. That is an observed temporary relation, not proof the satchel was emptied or that the Hand transformed gratitude. Record stance, satchel reading and return separately; a straighter outline does not certify that the thanks reached anyone.
+
+**Stone, carrier and recipient:** Acceptance, continuing to carry, and actual delivery are distinct entries. A voluntarily received warm stone is not a Stigma: the equipment section explicitly denies any recorded grant. Record a cold stone as a failed delivery, not as a new equipment state. The warm stones against the cold commoner identify this route; the written dispute over how many are delivered or still circulating must not be solved by silently making them the same stage.
+
 **Primary Form:** A translucent human figure, slight, perpetually mid-bow, wearing the faded coat of a Zone D commoner.
 
 **Notable Features:**
@@ -119,11 +126,11 @@
 |---|---|
 | **Form** | A translucent human figure, slight, perpetually mid-bow, wearing the faded coat of a Zone D commoner. |
 | **Position / movement** | Walks the old Dawn Initiative routes at the pace of someone carrying too much; stops and bows at thresholds. |
-| **Material / signature** | Weight elemental presentation; the warm-gold stones are the only warmth; the body is cold Han-crystal. |
+| **Material / signature** | A cold, translucent commoner in a faded coat, smelling of wet stone; the stones in chest and satchel supply the warm-gold light. Cold Han-crystal describes the proposed Letter, not an established material for this half-flesh, half-light figure. |
 | **Distinctive markers** | The bow, which never completes, and the satchel of stones that are warm to the touch while the figure itself is lead-cold. The temperature difference is the identification: nothing else in Zone D is cold and carrying something warm. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Identification** | Confirm the cold translucent figure, faded commoner’s coat, unfinished bow and warm stones against the designation and route register before contact. Record whether the figure stops at a threshold rather than identifying it by the feeling of indebtedness alone. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as "strange" or "anomalous."
+**Appearance protocol:** Photograph the satchel against the marked post, count the bows and log the doors and letters encountered. Keep the figure’s posture separate from the stone’s warmth, acceptance and destination. A deeper bow follows an accepted stone; a pause with an unplaceable letter preceded the recorded spikes. Do not infer a body transformation from a Gauge change or mistake temporary relief under the Hand for a delivered thanks.
 
 ## Origin
 - **Formation:** The Thanks formed from gratitude that outlived its recipient — thanks addressed to Hope Bearers who had already given their years or lives.
@@ -144,7 +151,7 @@
 
 ### Operational Work Notes
 
-The table records which Work Types calm it and omits the only variable that has ever mattered, which is whether the worker took a stone. Paired sessions make this plain: the same Ferrehan cycle, performed by two wardens on consecutive days, moved the gauge four points for the one who declined and nineteen for the one who accepted. The Zone D office has asked for a stone column to be added to the form.
+The table records which Work Types calm it and omits whether the worker took a stone, the variable the paired sessions directly compare. The comparison does not show that declining leaves every reading unchanged or that accepting already counts as final delivery. Paired sessions make this plain: the same Ferrehan cycle, performed by two wardens on consecutive days, moved the gauge four points for the one who declined and nineteen for the one who accepted. The Zone D office has asked for a stone column to be added to the form.
 
 **Reading the response:** Watch the bow. It deepens slightly when a stone is accepted and holds the deeper angle for the rest of the route, and that is the only acknowledgement this entity gives. Measure the satchel — the Gardens office photographs it against a marked post at the end of every route — and record whether any stone went cold, because a cold stone is a delivery that failed and the file has four of them.
 ## Breach Behavior
@@ -154,7 +161,7 @@ The table records which Work Types calm it and omits the only variable that has 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Walks the old Dawn Initiative routes at the pace of someone carrying too much; stops and bows at thresholds. |
 | **Effect** | It bows, and the bow is the attack. A weight settles on the chest of whoever it is facing and does not lift while it is still bowing; every worker who has stood in front of one describes the same thing, which is being thanked by something that will not stop. |
 | **Secondary Effect** | What is owed goes stale where it stands. Any debt or obligation carried by a person inside the radius starts to read as overdue, whatever term was actually agreed, and the reading does not correct itself once the radius closes. |
 | **First Target** | The nearest personnel. |
@@ -163,7 +170,7 @@ The table records which Work Types calm it and omits the only variable that has 
 ### Escalation Notes
 
 - **Breach type:** Escape — physically escapes and roams.
-- **Containment priority:** Physical suppression — block corridors, deploy Wardens.
+- **Containment priority:** take a stone, carry it to a living person who can be thanked, and speak the thanks aloud; never confront the figure and never extract.
 - **Sorrow Gauge:** Starts 40%, +10%/turn.
 
 ## M.A.W. Equipment
@@ -197,7 +204,7 @@ The table records which Work Types calm it and omits the only variable that has 
 
 There is no M.A.W. set for this entity. Director Majin's order stands unamended and is quoted here in its entirety, as the Armoury's form requires an entry in this field: *Nothing is to be taken from it.* The single attempt that preceded the order is recorded below it, and the cold stone is kept in the Gardens office in a drawer, unlabelled, because nobody has been able to decide what to write on the label.
 
-**Deployment record:** Before use, record operator, time, location, Sorrow Gauge, and emotional condition. During use, record visual feedback, changes in the operator, and whether the equipment begins expressing the entity's voice or behavior. After removal, record lingering sensations, memory changes, injuries, and recovery time. M.A.W. extraction does not neutralize the source entity.
+**Deployment record:** Not applicable to equipment use: none of the theorized pieces is authorized for extraction or deployment. Record the accompanied route instead — worker, time, location, Gauge, willingness to receive a stone, its warmth and destination, and any later effect on the carrier. Do not treat a stone accepted during Ferrehan as an issued piece, and do not turn a blank Armoury field into permission to test a theory. The existing monthly carrier checks remain in force.
 
 ### Field Use Record
 
@@ -207,6 +214,8 @@ There is no M.A.W. set for this entity. Director Majin's order stands unamended 
 | **During use** | Not applicable. What is logged instead, every route, is the stone: whether one was offered, whether it was accepted, and the name of the person it was eventually given to. |
 | **At limit** | Not applicable. The equivalent limit for this route is the list: a worker who has begun writing one is moved to another assignment at the end of the month. |
 | **After use** | Not applicable. Workers carrying an undelivered stone are checked monthly for as long as they hold it, and three of the eleven have now held theirs for more than two years. |
+
+**Source-authority warning:** The Side Codex and registry overview retain the extraction ban and the Side-only exception. Individual item histories also exist in the folder, but their deployment stories and different object descriptions do not lift that order. Keep those records for reconciliation; do not import their maintenance or removal instructions as an operating procedure for the commoner or its willingly accepted stones.
 
 **Stat interpretation:** The β grade on the extraction line is theoretical and has never been tested, which is the point of the ban. The Armoury's note reads that a grade describes what can be taken and says nothing about whether it should be, and that this entity is the reason that sentence is now printed on the form.
 
@@ -267,7 +276,7 @@ A faint warmth at the hip, as if you've forgotten you're carrying something. The
 
 **With continued exposure:** With time the Subject-Phantasmal becomes less a presence and more a climate — the Weight is no longer an event but an environment, something you exist inside rather than encounter.
 
-**When the entity activates:** Activation is the moment the Subject-Phantasmal stops being managed and starts being itself. The Weight spikes, the protocols engage, and the containment zone becomes the entity's territory.
+**When the entity activates:** Watch the route pause at a door with a letter the figure cannot place. Log the addressee where legible, posture and pace afterward rather than declaring the public street a newly claimed containment zone. The recorded letter-associated spikes do not by themselves establish a pursuit body or authorize blocking the route by force.
 
 **After departure:** You remember somebody. It is specific, it is accurate, and it arrives with the name — a teacher, a neighbour, the person who carried something for you once. Workers off this route are given a day before their next assignment for no operational reason, and the Gardens office has never been asked to justify it.
 

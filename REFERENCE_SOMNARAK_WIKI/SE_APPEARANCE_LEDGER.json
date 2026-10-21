@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IIIβ-247": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B171_03_UNDELIVERED_THANKS.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Owner p after CLOSED170 authorizes171 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains."
@@ -2490,8 +2502,33 @@
     {
       "designation": "N-IIIβ-247",
       "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IIIβ-247_The_Undelivered_Thanks_전하지_못한_감사.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: the source explicitly supports a human-shaped bearer of gratitude and conditional straightening in the Hand’s field. The appearance does not need arbitrary nonhuman conversion. Route, cold/warm distinction and extraction ban are clearer; incompatible deployment authority, action scope and stone accounting remain. +1 all-type source-review coverage, +0Weapon/+0SE.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B171_03_UNDELIVERED_THANKS.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/UNK_247_The_Undelivered_Thanks/UNK_247-A__SIDE_CODEX_The_Undelivered_Thanks.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/UNK_247_The_Undelivered_Thanks/UNK_247-B__MAW-W_The_Undelivered_Letter.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/UNK_247_The_Undelivered_Thanks/UNK_247-C__MAW-S_Gratitude_Mail.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/UNK_247_The_Undelivered_Thanks/UNK_247-D__MAW-G_The_Warm_Stone.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_UNK_247_to_903/README.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIIβ-941",
@@ -5543,6 +5580,14 @@
       "history_proof": "Fresh exact993source pair/fullset review. Complete CHANGELOG/WIP designation/title/MAW-W-993/993B history search finds only ordinary62substitution prose-personalization entry4859→5966 and management formatting, not earlier equipmentcoverage; equipment_reviews has no993. Prior prose is not legacy credit. FullA/B/C/D read, CSV1131–1134, W993MediumOrrery vs primary/BSHORT2, Masterindex514Orrery/detailBridgeMaul, Entity540andTale172 read; disposition353Neutralinbound/laterstaircondition preserved. Pathhistory10cd20a only. Thus new +1Types/+1Weapon, no SE/body/art credit.",
       "all_types_credit": true,
       "weapon_credit": true
+    },
+    {
+      "designation": "N-IIIβ-247",
+      "batch": 171,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B171_03_UNDELIVERED_THANKS.md",
+      "history_proof": "ExactUNK247Side 1/1/READMEprohibition checked against presentB–D4/4 and CSV1139–1142. Side-only theoreticalW5–9/1/4AoE4/25,C.8/1/1.2/.4max4/20,DHand5%+1Resolve not imported into primary. B envelope versus sediment-scroll/mineralcylinder, C glowingcoat versus linenmail/indigofeltchain, D goldstone versus darkriverpebble: no authorizedform bridge. MasterEntity643 correctUnknownpath; no exactMAW/Tale entry; MasterWarmStone315belongsKindEcho αLament, not thisβWeight theory. Archetype164W247UnopenedBloomSword belongs separate mainSE notUNK. Disposition356Neutral. Exactname/SECC/UNK/title CHANGELOGhistory searched: B67unit5 bow/overdue reauthor, not fullset/exactpair review; primarygit10cd20a administrative only. Fresh permitted/forbidden all-type appearance disposition earns +1Types only. No current authorized pairedWeapon: +0/287, no retroactive or manufactured-use credit.",
+      "all_types_credit": true,
+      "weapon_credit": false
     }
   ]
 }
