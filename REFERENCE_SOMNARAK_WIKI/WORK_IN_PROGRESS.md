@@ -1,4 +1,28 @@
 # Work In Progress
+## Batch174 unit2 — Chain of Memories `N-IIIβ-200`
+
+[[SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-200_Chain_of_Memories_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%82%AC%EC%8A%AC.md "SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md")]
+
+**Original/source review and R18 predeclared scope:** Full441-line original→exact1020A–D/README→Master412–414/Tale138→source/nonbreach/indumentum/crystal-chain/growthandwarmfacelessoldend→posture/tension/touch+name→wearunwind/permanentexchange→count/order/interactions→three derivedpieces traced. R18predeclared4short/7careful. Repairs keep stationaryobject and observed arrangementchanges distinct, remove broken Appearanceprotocol and genericPeople/ID, separate sourcewear timeline from extractedpieceuse, and stop claiming every holder knows the unidentified face.
+
+**Sources/history:** Exact1020 hasN-IIIβ-200, notunrelatedSE200 source suffix or O-IIβ-467MemoryChain reviewed110/161. CSV242–245; archetype420; Entity505; Master452–454/5418–5450; completeTale1387783–7835; disposition352Neutral; WIP7910–7930 seventyreplacements oldprosepass, notexactMAW-W-1020-01/fullsetdisposition. Current and archivedWIP/CHANGELOG identity/1020/MemoryMaul history checked; noequipmentrow forsourceN-IIIβ-200. Fresh+1Types/+1Weapon. βWeight5–9/2/2ShortSingle100,4/25; C1/1/1.5/.5,4/20; DHead5%workingbonus numericalagreement. WeaponBcontainsnoAppearance; RoomfuneralDao archetype vsprimaryShortflail isnotdonor/equipmentdifference.
+
+**What changed:** Eleven supported repairs: exactmovement/βgrade, householdPeople and objectID; count/temperature/image/arrangement protocol and bodyprofile; relic-versus-gear deployment and field record; unidentifiedowner warning; source-led Weapon/Mantle custody and additionalcostdocumentation.
+
+**Final whole-file assessment:** HELD — technicalpass and equipmentcoverage do notresolve exactA transforming-capability versus explicitprimarynonbreachingstate or final-observation permission. +1Types/+1Weapon/+0SE. No inventedbody or erasedhistoricalEcho record.
+
+**Holds / later recheck:**
+- Essential state hold: exact1020A saysCanbreachviaTransform while primary explicitlynonbreachingactivationonly and observedneverpursued. No transformationtrigger/form record establishes both states; do not inventamobilechainstage.
+- OrdinaryWork says orderunchanged, while InheritedDebt pairingreorders; distinctconditionalinteraction explains difference, notautomaticbodyconflict. Foundcoiled aftergrowth doesnotprovewitnessedselfmovement. Reliefofcontact versus permanentexchange differentiated, notclaimedidenticalduration.
+- Weapon sameitemprimaryflail, MasterBLUNTMaul and archetypeRoomcurvedFuneralDao withno Appearance inB. KeepShortcore values, holdsameitemgeometry/rangetaxonomy; donotresolvebyclaiming sourcechainneedsto looklikegear.
+- SourceDgenericworking+1 vsprimarycount-onlyResolve; sourceCfatigue vsprimarydreamcost; Bage/heaviness vsprimaryorderloss preserved separately; benefits canbeadditional, notautomaticallyexclusive. Historical EchoIIRegistrum explicitlypreservedwith4229 re-survey note; currentFragmentIIIoperationalclassification unchanged.
+- FinalObservation speechchoiceagainststandingnonamingrule and neutral/stablefailurecellwithgaugeclimbs needsobservedauthorisedcontext; noautomaticallyinventedexception. Combat touch/pullhazards do notdemonstrateownerconnectionwithonlyone triggerhalf. Laterfullrecheck retained.
+- Whole-file reread also retains a real end/image ambiguity: Material says newest visible/oldest faceless, but escalation says38of41 additions faceless atsameend and Weaver addsfaceless atfarend. Do notassign a manufactured end-switch chronology. Sourceprofileaddition repeats visual Materialbaseline, not claim everynewadditionvisible. InteractionPattern sayslengthonly despiteorder/imagechanges, and FullUnraveling allfaces versusblanklinkbaseline needsconditional evidence. These remainwhole-design holds.
+
+**Commentary:** A catalogue that preserves the last copy of household names is more interesting than a generic haunted chain. I kept the warm faceless end as preserved feeling rather than empty data. Naming can rescue history and harm its witness; the file still needs evidence for when that otherwise-forbidden gesture is authorised.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 11 exact replacements (4batch-short/7careful-detail); LC_ALL=C words6496→7040. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_02_CHAIN_OF_MEMORIES.md`. Equipment+1/+1;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No175/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch174 unit1 — Uprooted `O-IIIγ-959`
 
 [[SE-O-IIIγ-959_Uprooted_솟아오른_뿌리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-959_Uprooted_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%BF%8C%EB%A6%AC.md "SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md")]
