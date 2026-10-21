@@ -1,0 +1,40 @@
+{
+  "batch": 168,
+  "status": "OPEN",
+  "required": 5,
+  "completed": 0,
+  "no_change": 0,
+  "queue": [
+    {
+      "designation": "N-IIIγ-917",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md",
+      "words": 4924,
+      "sha256": "ffd92f2f80889ba455217dcb0c4f8660dd9ae88ddab1c39f6b4dfa867c6b35a7"
+    },
+    {
+      "designation": "O-IIIγ-916",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-916_Allhallow_유령의_시간.md",
+      "words": 4963,
+      "sha256": "436ef589fa90f59c562b0faf65547c9dd179b301d46a8f8f6e7315b1830f2c1a"
+    },
+    {
+      "designation": "C-IIIβ-072",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md",
+      "words": 5086,
+      "sha256": "5ea8c5b6812dd6e670b2d77ea642c993cb9cc2dd40c6d37bb0a0f57f76b95919"
+    },
+    {
+      "designation": "O-IVδ-515",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기.md",
+      "words": 5091,
+      "sha256": "c790b05e41b221bb023880b91db94e666cd2d325e7510966c66d70fc1003df25"
+    },
+    {
+      "designation": "O-IIβ-914",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-914_Amnesia_잊혀진_일분.md",
+      "words": 5131,
+      "sha256": "4ecf45d30014df0f2aad9666878b362090966a6add09bdb6024466ba9f76578b"
+    }
+  ],
+  "units": []
+}

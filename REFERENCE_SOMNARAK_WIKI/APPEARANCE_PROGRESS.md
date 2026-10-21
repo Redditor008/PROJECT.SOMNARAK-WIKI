@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest batch: Batch167 CLOSED 5 / 5 reviews.** Thirty-three supported repairs; all five written designs remain HELD, with no completion or equipment credits. No change0/5 does not trigger extension. [Closure and five receipts](SE_APPEARANCE_REVIEWS/B167_CLOSE.md). Counters remain255/301,255/287 and16/301. Earlier OPEN167/unit snapshots are historical. No168, merge or deployment authorized.
+**Latest batch: Batch168 OPEN 0 / 5.** Fresh pending-only cohort frozen. Previous167 CLOSED5/5. No new review or credit at opening; no169/merge/deployment.
 
 Owner direction, 2026-10-18: start a new X/X for SE appearance fixes and name the older counters by their M.A.W. scope.
 

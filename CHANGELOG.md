@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch168 OPEN — five fresh pending reviews
+
+Owner p after CLOSED167 authorizes168 only. Frozen order: Dawn That Forgot917, Allhallow916, Fathers Broken Bond072, Last Warmth of Forty-Two515, Amnesia914. Five reserves/original hashes and LC_ALL=C shortest ranking in B168_OPEN.json. No review or credit at opening. Counters255/30184.72%(46remaining),255/28788.85%(32remaining),16/3015.32%(285remaining). Complete whole original/exact-source/history/final readings, supported improvements, individual Commentary/five validators and one verified push per unit. Minimum five, cumulative No change ladder5→7→10 retained; pending is not No change. No169/merge/deployment. Later recheck and301owner-eight-body one4+4/generate-before-copy blocker retained.
+
+Recovery: restored files matched every blob in remote63cfac4 before local HEAD/index alignment on the same branch. No file discarded or owner patch applied/deleted; no force push. PR14 OPEN draft/baseNON-WIKI.
+
 ## Batch167 CLOSED — five full reviews and thirty-three supported repairs
 
 **CLOSED 5 / 5 reviews; all five designs remain HELD.** Every complete original, exact A–D set and complete final primary was read. All five units passed actual validation and were individually pushed. This closes the authorized review batch, not the unresolved whole-design relationships. No change is 0 / 5. All five have substantial narrative and interaction records; no cumulative-three or simple-cohort extension is triggered. No168, merge, artwork or deployment is authorized.
