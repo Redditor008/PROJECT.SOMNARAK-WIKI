@@ -8,6 +8,29 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch174 unit3 — Ninety Seconds `C-IVδ-918`
+
+[[SE-C-IVδ-918_Ninety_Seconds_반복되는_생각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-918_Ninety_Seconds_%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94_%EC%83%9D%EA%B0%81.md "SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md")]
+
+**Original/source review and R18 predeclared scope:** Complete408-line original/exact918A–D/README read. CityVoid/TimeMind→gradualpressure/noidentifiedincident→nonphysicalfixedpaint-markedradius→entry/repeatedpersonalworstthought→validViderehanFerrehan→passcount/contentfreephysicalexit→exceptionalMindCollapse→paper-onlyinteractions→derivedblade/veil/token traced. R18predeclared3short/6careful. Equipment canhavevisiblebodywithoutmakingdonorphysical. Repairs do notinventmaterialbreach or coerciveprivatecontentcollection.
+
+**Sources/history:** B144unit2 acdab076 previouslycompleteexact918A–D/sourcefullset/Weapon review readcurrentWIP3885–3905 and B144closure3730 context. +0/+0 repeatcredits. Freshregistry1031–1034/archetype377/disposition334fullrow; exactMasterMAW/Tale/Entitysearch has no dedicated918entry (Entity359pendingindex only). No same-numberClocksubstituted. OriginalB42condition/interaction,B46quote,B68Resistanceprose notnewcredits. δVoid11–16/2Normal/2ShortSingle100%,4/25; C1/1/.3/.8,4/20; DHead5%+1sourcework retained.
+
+**What changed:** Nine supported replacements: movement from exact fixed-radius profile, extraction wording splitWeapon/SuitversusStigmaissue, recognitionwithoutbody, body/clock/subjectivepass distinction, Singleweapon scope and attribution, Veil care, missingTokenword/facecost, separatepieceversussetcosts, exitversusretrospectiveflagquestion.
+
+**Final whole-file assessment:** HELD — nine supportedrepairs improvebodiless account and equipmentcare; transformation/generalisation scope andrecordcohorts remainunresolved. TechnicalPASS≠logicalcompletion. Already-reviewed exact918pair earns+0Types/+0Weapon/+0SE.
+
+**Holds / later recheck:**
+- Normal fixedradius and lackofmaterialbody do notautomaticallyconflict with exceptional sectorwideMindCollapse. However genericExpansionmovementcorruptingeverything/radiatingeffect versus absolute nothingcomesout, plus Transformlabel without documentednewstate remainunclearlyscoped. Do notinvent breachbody or erase exceptionaloccurrence.
+- Sameitemequipment: archetypeCloseTimerDial vsprimary/BnearcolourlessShortblade; Dstone vsprimaryglasstoken. Keepgeometryhold, notdonor/derivedshapehold. SourceBNotRecordedeventimagery notevidenceofsecretincident.
+- A/genericsetresolutionGaugeuntilcontained versus actualpersonexits/contentfreequestion. NoInstrumentreadout vs operationalGauge/513HP and vessel/dust mechanics arelabelledsimulation; no newvisiblemeter invented.
+- 19yearrecord versus28year/32yearadministrativeprogression,211cycles/202firstexits/9failures versus311repeatreturns/22workers,19neededsecond vs9failure scopes remainunproved. Long-pass failure and thought-contentquestion maybothoccur butnotclaimedexclusivecause.
+- Counter3 versus60%activation and65%exceptionthreshold retained distinctly, no inventedcounterdecrement. Retrospectiveflagprivacyproblem and missingexitquestionreservation remedy remainseparate; no externallegalclaim or unapprovedremedy. Latercomplete recheck retained.
+
+**Commentary:** I would keep this entity visually empty: the timed object is the interval, while the experience belongs to a person the facility has no right to transcribe. Separating the exit question from the change flag matters because a successful rescue must not be represented as permission for later personnel surveillance.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 9 exact replacements (3batch-short/6careful-detail); LC_ALL=C words6503→7037. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_03_NINETY_SECONDS.md`. Equipment+0/+0;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No175/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch174 unit2 — Chain of Memories `N-IIIβ-200`
 
 [[SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-200_Chain_of_Memories_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%82%AC%EC%8A%AC.md "SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md")]

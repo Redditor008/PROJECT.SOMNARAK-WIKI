@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch174 OPEN2/5.** Owner p authorizes174 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B174_OPEN.json). No175/merge/art/deployment.
+**Latest: Batch174 OPEN3/5.** Owner p authorizes174 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B174_OPEN.json). No175/merge/art/deployment.
 
 **Previous: Batch173 CLOSED5/5.**41supported repairs, fiveHELD, No change0/5. Equipmentcoverage+3Types/+3Weapon;SE+0. [Batch report](SE_APPEARANCE_REVIEWS/B173_CLOSE.md). No174/merge/art/deployment.
 
@@ -1359,3 +1359,7 @@ No change0/5: no extension beyondfive; these full bespoke narratives and interac
 ### Batch174 unit2 — OPEN2/5
 
 [Chain of Memories evidence](SE_APPEARANCE_REVIEWS/B174_02_CHAIN_OF_MEMORIES.md): HELD, 11supported repairs, full final reading and five actual checks. No change0/2.
+
+### Batch174 unit3 — OPEN3/5
+
+[Ninety Seconds evidence](SE_APPEARANCE_REVIEWS/B174_03_NINETY_SECONDS.md): HELD, 9supported repairs, full final reading and five actual checks. No change0/3.

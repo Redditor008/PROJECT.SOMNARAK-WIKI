@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Time-Mind |
 | **Physical Form** | Non-physical — A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever had — loops, and each iteration feels longer than the last. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement** | A fixed radius at the registered sector, marked at floor level and at head height. It does not move. The second marking was added after a worker leaned across the boundary while remaining clear of it on the floor plan. |
 | **Location** | SECTOR-C-918, contained |
 | **R.D. Comprehension Level** | 4 — Deep |
 
@@ -42,7 +42,7 @@
 - A cycle reduces the number of passes. It does not break the repetition, and the span itself has never varied.
 - Three ignored conditions escalate it. Contact runs through the mind register, so escalation presents as crews acting on decisions they have not yet made.
 - Instructions are issued once, in writing, and are not repeated inside the span regardless of what is requested.
-- Extraction is separately authorised and is timed like everything else here: both pieces were cut inside a single pass, which is the only window in which the boundary is stable.
+- Extraction is separately authorised and is timed like everything else here: the Weapon and Suit extraction was inside a single pass. The Token is separately recorded as a Stigma issued to an extraction team member. The signed boundary check remains required; extraction is not a reason to omit either marking.
 
 ## Combat Record
 ### Core Stat Line
@@ -98,11 +98,14 @@
 
 ## Appearance
 
+**Interval, not apparition:** The pressure accumulated into repeating time, not into the people who experience it. Paint and signatures mark where entry occurs; they are facility objects, not the interval’s skin. No face, limbs, light, audible rhythm or measurable material is reported inside. What changes across passes is the worker’s account of duration and detail. Keep that account separate from the clocked span, which does not lengthen. The sector-wide Mind Collapse is recorded as an exceptional generalisation; it must not be illustrated as a creature walking out of an otherwise fixed radius or silently folded into the ordinary boundary survey.
+
+
 **Primary Form:** A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever had — loops, and each iteration feels longer than the last.
 
 **Notable Features:**
 - Expresses Void pressure in a mind register.
-- The time form is unmistakable — this is a mind entity, not a general one.
+- Identification is the surveyed interval and its repeated personal thought, not a visible time-body. Floor and head-height markings prevent different kinds of accidental entry; neither is a material boundary of the entity.
 - Confirm the floor marking and the head-height marking, both, and the signed check for the shift. There is nothing to see, nothing to hear and nothing on any instrument. The radius is identified by paint and by signature and by nothing else.
 
 **Identification Profile**
@@ -175,6 +178,8 @@ Ninety Seconds is a Time holding with Time-Mind manifestation and Void expressio
 **Ability:** Void against the Mind. Struck targets return to the beginning of whatever they were thinking about, once, and describe the effect afterwards as being gently interrupted by themselves.
 **Cost:** The wielder experiences emotional numbness toward the source entity's element with each use.
 
+**Edge handling:** The near-colourless blade is extracted equipment, not a solid part found inside the empty radius. Its attack pattern is Single, and the thought interruption belongs to the struck target; the source interval’s repeated passes are not additional weapon strikes. Watch the user’s emotional numbness and attribution before cleaning or resting the Edge. A witness-led relinquishment names the source holding without inventing the unrecorded formation event or soliciting the bearer’s worst thought. Record that attribution limit with the shutdown rather than fill the missing history with private content.
+
 ### M.A.W. Suit — Ninety Seconds's Veil
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
@@ -185,6 +190,8 @@ Ninety Seconds is a Time holding with Time-Mind manifestation and Void expressio
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Bearer cost:** Even the wearer has trouble keeping themself present in mind while the veil is worn; the protection makes a person harder to hold in memory.
 **Ability:** Grants resistance to Void damage, protecting against the mind register of sorrow.
+
+**Veil handling:** The extra hem stitch is an equipment marker, not an extra second in the source interval. Keep the wearer’s difficulty being remembered, including by themselves, separate from the blade user’s numbness. Record who donned and relinquished the Veil so that a lapse does not erase the issue from the return. Review attribution before the garment is cleaned or rested. A witness can identify the holding during relinquishment without asking what thought appeared; neither protection nor removal refunds the recorded cost.
 
 ### M.A.W. Stigma — Ninety Seconds's Token
 
@@ -197,9 +204,11 @@ Ninety Seconds is a Time holding with Time-Mind manifestation and Void expressio
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
 *Four in nineteen years, in every case to an extraction team member who left on the first exit question rather than the second. Nineteen workers have needed the second; none has been given anything and the file is explicit that needing it is ordinary.*
 
+**Token cost:** After invocation, the bearer can lose a familiar word or face for a few seconds. Preserve the occurrence and duration as an item-cost record without writing down the source thought. The token’s warmth is an equipment observation, not an instrument for sensing the invisible boundary. Attribution review precedes cleaning or resting; witness-led relinquishment is recorded without manufacturing a formation event to satisfy the missing source-history field. The extraction team’s observed award pattern is not a reason to pressure a worker to refuse a needed second question.
+
 ### M.A.W. Use Notes
 
-Each Ninety Seconds piece is an extension of a thought nobody chose to have, rather than ordinary equipment. The grade describes extraction stability. The cost is separate and is always the same: the bearer's own worst thought becomes available to them at will, which several bearers have described as useful and which the counsellors class as the gravest cost on any holding in the wing.
+Each Ninety Seconds piece is an extension of a thought nobody chose to have, rather than ordinary equipment. The grade describes extraction stability. The set-level cost is that the bearer’s own worst thought becomes available at will, described as useful by several bearers and classed as grave by the counsellors. That account does not replace the separate piece costs: the Edge’s numbness, the Veil’s loss of remembered presence, and the Token’s brief word or face lapse. Record the issued piece and the cost actually observed rather than call all three effects interchangeable.
 
 ### Field Use Record
 
@@ -343,6 +352,8 @@ The chamber's operative protocol is the shortest in the holding and is deliberat
 ### The Marking Check
 
 The shift's first act is the boundary check and the check is done by two people walking the markings in opposite directions until they meet, which guarantees that every segment is seen by somebody approaching it from each side. The method was proposed by a watch member who had noticed that a single walker reads a faded line differently depending on their direction of travel. It adds a few minutes to the shift. It was adopted the week it was proposed and has not been altered since, and the proposer is credited by name in the procedure's heading.
+
+**Exit and return questions:** The agreed content-free question at extraction gets the worker out of the repeating thought. The later same-as-last-time comparison is a separate staffing-return measure; it can reveal a change without revealing the thought itself. Keep the two records and their purposes distinct. Physical extraction, the answered exit question and paid stand-down are not consent to a change flag. The disputed return field remains in the record as an outstanding objection, not a remedy already adopted.
 
 ### One Question
 

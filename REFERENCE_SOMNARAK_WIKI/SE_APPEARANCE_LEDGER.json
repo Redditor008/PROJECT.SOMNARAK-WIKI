@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVδ-918": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_03_NINETY_SECONDS.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Latest owner p after CLOSED173 authorizes174 only; at least five whole reviews; cumulative three No change extends5→7→10; later full recheck retained."
@@ -1901,8 +1913,30 @@
     {
       "designation": "C-IVδ-918",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD — nine supportedrepairs improvebodiless account and equipmentcare; transformation/generalisation scope andrecordcohorts remainunresolved. TechnicalPASS≠logicalcompletion. Already-reviewed exact918pair earns+0Types/+0Weapon/+0SE.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_03_NINETY_SECONDS.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/918_Ninety_Seconds/SE-918-A__SIDE_CODEX_Ninety_Seconds.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/918_Ninety_Seconds/SE-918-B__MAW-W_Ninety_Seconds_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/918_Ninety_Seconds/SE-918-C__MAW-S_Ninety_Seconds_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/918_Ninety_Seconds/SE-918-D__MAW-G_Ninety_Seconds_s_Token.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-922",
