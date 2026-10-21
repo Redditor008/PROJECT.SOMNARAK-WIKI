@@ -8,6 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch171 unit4 — category-position follow-up
+
+Closure cross-check against EntityCodex physical categories caught the descriptive “Non-bodily hazard” occupying the category position. Same predeclared careful PhysicalForm repair now keeps the registered Non-Organic category and the supported nonbodily qualifier. No anatomy or values changed. Follow-up is one unit4 correction, not sixth review or new credit. Fresh five actual checks PASS and full418-line final reread after checks. Finalwords 6690, SHA256 a4df341d2e742d08c5b9ee09362e7c478224f9885b31335652f54d67e110c363. [Superseding evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B171_04_LETHE.md). Original174fca31 push remains recorded; this correction has its own gate. OPEN5/5, Nochange0/5; no additional credit.
+
 ## Batch171 unit5 — Blessing Giver `C-Iβ-071b`
 
 [[SE-C-Iα-071b_Blessing_Giver_축복_주는_자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-071b_Blessing_Giver_%EC%B6%95%EB%B3%B5_%EC%A3%BC%EB%8A%94_%EC%9E%90.md "SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md")]

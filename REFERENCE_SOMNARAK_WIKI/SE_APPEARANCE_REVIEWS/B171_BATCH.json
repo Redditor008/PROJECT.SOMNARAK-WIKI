@@ -386,7 +386,7 @@
         ],
         [
           "| **Physical Form** | Organic — An invisible gas,",
-          "| **Physical Form** | Non-bodily hazard — An invisible gas,"
+          "| **Physical Form** | Non-Organic — Non-bodily hazard; an invisible gas,"
         ],
         [
           "| **Threat Role** | Sovereign encounter |",
@@ -437,9 +437,9 @@
       ],
       "result": "HELD: invisible air is an Abstract/nonbodily design, not a missing humanoid illustration. Pooling and explicit boundary extension support the source presentation; gear materialization does not need the same silhouette. Conflicting clearance/withdrawal policy, vessel/actions, timing and same-item archetype still prevent whole-file certification. No new credits.",
       "commentary": "The most important visible things are a chalk line and the outside reader’s marked page. Removing a fictitious bodily target makes that restraint clearer. The administrative decision to keep a person exposed for usable speech should remain legible as a dispute, not be disguised as the correct withdrawal protocol.",
-      "final_sha": "84781289eaf38f0fc881a0d6d4ee0631cba19eb75de04fc8fb25e27f861610ea",
+      "final_sha": "a4df341d2e742d08c5b9ee09362e7c478224f9885b31335652f54d67e110c363",
       "before_words": 6231,
-      "after_words": 6689,
+      "after_words": 6690,
       "source_hashes": {
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/928_Lethe/SE-928-A__SIDE_CODEX_Lethe.md": "cbacd8b6942243b2e579d3c9c0faf8e986fe7c59f7f00e1c0cc7b58ea8497709",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/928_Lethe/SE-928-B__MAW-W_Lethe_s_Edge.md": "9e3e2ade732f8e4f0611b8f722c5dac99123bdf33dd47f5ca0dee90a3404952b",
@@ -456,7 +456,7 @@
       "outputs": {
         "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
         "tpl": "RESIDUE 0  SE-C-IIIγ-928_Lethe_혼란의_독기.md",
-        "sectfile": "0.014  clean   148 grams  Breach Behavior\n 0.008  clean  1299 grams  Warden Record\n 0.007  clean   409 grams  M.A.W. Equipment\n 0.004  clean   250 grams  기록 (Registrum)\n 0.004  clean   512 grams  Combat Record\n 0.000  clean   407 grams  Appearance\n 0.000  clean   377 grams  상호작용 (Entity Interactions)\n 0.000  clean   237 grams  이야기 보고 (Story Log)\n 0.000  clean   234 grams  이야기 (Narratio)\n 0.000  clean   206 grams  Origin\n 0.000  clean   203 grams  Operational Parameters\n 0.000  clean   134 grams  감각 묘사 (Flavor Text)\n 0.000  clean    99 grams  증언 (Testimonium)\n 0.000  clean    85 grams  관찰 기록 (Observation Log)\n 0.000  clean    49 grams  Trivia\n 0.000  clean    47 grams  Behavior\n 0.000  clean    33 grams  최종 관찰 (Final Observation)\n 0.000  clean    33 grams  SECC Classification\n 0.000  clean    21 grams  (preamble)\n0 section(s) over 0.05",
+        "sectfile": "0.014  clean   148 grams  Breach Behavior\n 0.008  clean  1299 grams  Warden Record\n 0.007  clean   409 grams  M.A.W. Equipment\n 0.004  clean   250 grams  기록 (Registrum)\n 0.004  clean   512 grams  Combat Record\n 0.000  clean   407 grams  Appearance\n 0.000  clean   377 grams  상호작용 (Entity Interactions)\n 0.000  clean   237 grams  이야기 보고 (Story Log)\n 0.000  clean   234 grams  이야기 (Narratio)\n 0.000  clean   206 grams  Origin\n 0.000  clean   203 grams  Operational Parameters\n 0.000  clean   134 grams  감각 묘사 (Flavor Text)\n 0.000  clean    99 grams  증언 (Testimonium)\n 0.000  clean    85 grams  관찰 기록 (Observation Log)\n 0.000  clean    49 grams  Trivia\n 0.000  clean    47 grams  Behavior\n 0.000  clean    35 grams  SECC Classification\n 0.000  clean    33 grams  최종 관찰 (Final Observation)\n 0.000  clean    21 grams  (preamble)\n0 section(s) over 0.05",
         "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
         "sect": "85   2  | { *The Mind Collapse* [**Ultimate**] } | \"Every form filed in the wing that hour contains the same class of error.\" | [The inver\n  170   2  - **Sorrow Gauge on breach:** Opens at 30% and rises 10% per level reached as it fills upward, so the gauge tracks the ceiling and\n  223   3  **Effect:** +1 to the working stat on this holding's cycles. The token's face carries a word the bearer can read and cannot afterw\n  339   1  - Viderehan and Ferrehan are the valid Work Types. Both lower the gauge; neither restores anything that was lost, and nothing on r\n  407  10  The minute records the objection as **correct in all three parts**. It records that a remedy was designed in the fifteenth year an\nGENERIC 0.004  (18 shared shingles)  SE-C-IIIγ-928_Lethe_혼란의_독기.md"
       },
@@ -470,7 +470,9 @@
         "se": 0
       },
       "link": "[[SE-C-IIIγ-928_Lethe_혼란의_독기](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-928_Lethe_%ED%98%BC%EB%9E%80%EC%9D%98_%EB%8F%85%EA%B8%B0.md \"SE-C-IIIγ-928_Lethe_혼란의_독기.md\")]",
-      "table_link": "[Lethe](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-928_Lethe_%ED%98%BC%EB%9E%80%EC%9D%98_%EB%8F%85%EA%B8%B0.md \"SE-C-IIIγ-928_Lethe_혼란의_독기.md\")"
+      "table_link": "[Lethe](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-928_Lethe_%ED%98%BC%EB%9E%80%EC%9D%98_%EB%8F%85%EA%B8%B0.md \"SE-C-IIIγ-928_Lethe_혼란의_독기.md\")",
+      "unit4_initial_push": "174fca31e0e239dc14c0f9d731407298af293c5a",
+      "postunit_correction": "Closure cross-check against EntityCodex physical categories caught the descriptive “Non-bodily hazard” occupying the category position. Same predeclared careful PhysicalForm repair now keeps the registered Non-Organic category and the supported nonbodily qualifier. No anatomy or values changed. Follow-up is one unit4 correction, not sixth review or new credit."
     },
     {
       "designation": "C-Iβ-071b",
