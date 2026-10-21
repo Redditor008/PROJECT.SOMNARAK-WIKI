@@ -1,4 +1,14 @@
 # Work In Progress
+**Batch171 closure (2026-10-21): CLOSED5/5 reviews; No change0/5.** 46 supported replacements (7batch-short/39careful-detail), C-locale words30,917→33,085(+2,168); five whole written designs HELD.25fresh closurevalidatorruns accepted,54testsPASS;247verifyretains one originalquotedellipsis seam warning, not a prose splice and not clean seam[]. Four otherseam[]; allresiduals0,tpl0,sectionthresholdsmet,wikistdTrue.296unselected/fivereserves/digits/allfiveTales/sourcehashes unchanged;46operationsreconstructfinals.300PhysicalFormrows unchanged except928nonbodilyNonOrganicqualification. Five individually verified unit pushes plus928category-position correction; no sixth review. Fresh247forbidden-theory disposition +1Types/+0Weapon;071bexact1007review+1Types/+1Weapon; otherthree not recounted;SE+0. Counters258/30185.71%(43remain),257/28789.55%(30remain),16/3015.32%(285remain). Ledger12changed/4retained/118held/2blocked/165pending. Laterfullrecheck retained;p171spent,no172/merge/deployment/artwork.301eight-owner-body/one4+4/generatevalidatebeforecopy blocker unchanged.
+
+[Detailed batch report](SE_APPEARANCE_REVIEWS/B171_CLOSE.md) · [Machine audit](SE_APPEARANCE_REVIEWS/B171_CLOSE.json)
+
+- [Eleven Fifty-Nine](SE_APPEARANCE_REVIEWS/B171_01_ELEVEN_FIFTY_NINE.md): HELD, 8replacements; verified`7955388d6dd8739fa3daec238e076553e85f08c4`.
+- [Floating Fragment](SE_APPEARANCE_REVIEWS/B171_02_FLOATING_FRAGMENT.md): HELD, 10replacements; verified`8cb23ec4541b0a807f0a44a14c30f48e809db927`.
+- [The Undelivered Thanks](SE_APPEARANCE_REVIEWS/B171_03_UNDELIVERED_THANKS.md): HELD, 12replacements; verified`0fc4bef23434375d866da0ef4fc0a7b7c2cfdfe3`.
+- [Lethe](SE_APPEARANCE_REVIEWS/B171_04_LETHE.md): HELD, 9replacements; verified`7f1844e18699184e6887d3a835d2d8415aa3dd2f`.
+- [Blessing Giver](SE_APPEARANCE_REVIEWS/B171_05_BLESSING_GIVER.md): HELD, 7replacements; verified`e3e91dc816a46a8d2ddf4973917c52af60ffad48`.
+
 ## Batch171 unit4 — category-position follow-up
 
 Closure cross-check against EntityCodex physical categories caught the descriptive “Non-bodily hazard” occupying the category position. Same predeclared careful PhysicalForm repair now keeps the registered Non-Organic category and the supported nonbodily qualifier. No anatomy or values changed. Follow-up is one unit4 correction, not sixth review or new credit. Fresh five actual checks PASS and full418-line final reread after checks. Finalwords 6690, SHA256 a4df341d2e742d08c5b9ee09362e7c478224f9885b31335652f54d67e110c363. [Superseding evidence](SE_APPEARANCE_REVIEWS/B171_04_LETHE.md). Original174fca31 push remains recorded; this correction has its own gate. OPEN5/5, Nochange0/5; no additional credit.

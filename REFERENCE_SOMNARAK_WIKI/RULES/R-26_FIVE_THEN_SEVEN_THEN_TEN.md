@@ -74,3 +74,7 @@ CLOSED5/5 after whole originals/exact sources/finals and five individually verif
 ## Batch170 application — 2026-10-21
 
 CLOSED5/5 completed reviews after five individually gated/verified pushes, whole original/source/final readings,25fresh closure validators and54testsPASS. No change0/5 does not trigger three-dossier extension. Full bespoke narratives/interactions are not a simple cohort.61supported repairs leave five whole designs HELD; fresh993equipment coverage+1/+1 does not confer SE/art completion. p170only;no171/merge/deployment. [Closure evidence](../SE_APPEARANCE_REVIEWS/B170_CLOSE.md). Later full recheck and301eight-owner-body blocker retained.
+
+## Batch171 application — 2026-10-21
+
+CLOSED5/5 after five complete original/source/final reviews and individually verified unit pushes;928category correction separate, not sixth review. No change0/5 does not trigger the cumulative three-dossier extension.46supported repairs (7short/39careful) leave five whole designs HELD.25fresh closurevalidatorruns accepted with247unchangedquotedellipsiswarning retained,54testsPASS. Equipment+2Types/+1Weapon is not SE/art credit. p171exhausted;no172/merge/deployment. [Closure](../SE_APPEARANCE_REVIEWS/B171_CLOSE.md). Later full recheck and301owner-body blocker retained.

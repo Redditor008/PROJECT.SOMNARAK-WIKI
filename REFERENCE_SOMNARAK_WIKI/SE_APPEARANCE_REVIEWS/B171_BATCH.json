@@ -1,6 +1,6 @@
 {
   "batch": 171,
-  "status": "OPEN",
+  "status": "CLOSED",
   "required": 5,
   "completed": 5,
   "no_change": 0,
@@ -133,7 +133,13 @@
         "se": 0
       },
       "link": "[[SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-912_Eleven_Fifty-Nine_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%8B%9C%EA%B0%84.md \"SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md\")]",
-      "table_link": "[Eleven_Fifty-Nine](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-912_Eleven_Fifty-Nine_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%8B%9C%EA%B0%84.md \"SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md\")"
+      "table_link": "[Eleven_Fifty-Nine](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-912_Eleven_Fifty-Nine_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%8B%9C%EA%B0%84.md \"SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md\")",
+      "commit": "7955388d6dd8739fa3daec238e076553e85f08c4",
+      "push_verified": true,
+      "r18": {
+        "batch_short": 1,
+        "careful_detail": 7
+      }
     },
     {
       "designation": "O-Iα-453",
@@ -242,7 +248,13 @@
         "se": 0
       },
       "link": "[[SE-O-Iα-453_Floating_Fragment_떠다니는_파편](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-453_Floating_Fragment_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%ED%8C%8C%ED%8E%B8.md \"SE-O-Iα-453_Floating_Fragment_떠다니는_파편.md\")]",
-      "table_link": "[Floating_Fragment](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-453_Floating_Fragment_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%ED%8C%8C%ED%8E%B8.md \"SE-O-Iα-453_Floating_Fragment_떠다니는_파편.md\")"
+      "table_link": "[Floating_Fragment](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-453_Floating_Fragment_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%ED%8C%8C%ED%8E%B8.md \"SE-O-Iα-453_Floating_Fragment_떠다니는_파편.md\")",
+      "commit": "8cb23ec4541b0a807f0a44a14c30f48e809db927",
+      "push_verified": true,
+      "r18": {
+        "batch_short": 2,
+        "careful_detail": 8
+      }
     },
     {
       "designation": "N-IIIβ-247",
@@ -364,7 +376,13 @@
         "se": 0
       },
       "link": "[[SE-N-IIIβ-247_The_Undelivered_Thanks_전하지_못한_감사](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-III%CE%B2-247_The_Undelivered_Thanks_%EC%A0%84%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EA%B0%90%EC%82%AC.md \"SE-N-IIIβ-247_The_Undelivered_Thanks_전하지_못한_감사.md\")]",
-      "table_link": "[The_Undelivered_Thanks](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-III%CE%B2-247_The_Undelivered_Thanks_%EC%A0%84%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EA%B0%90%EC%82%AC.md \"SE-N-IIIβ-247_The_Undelivered_Thanks_전하지_못한_감사.md\")"
+      "table_link": "[The_Undelivered_Thanks](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-III%CE%B2-247_The_Undelivered_Thanks_%EC%A0%84%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EA%B0%90%EC%82%AC.md \"SE-N-IIIβ-247_The_Undelivered_Thanks_전하지_못한_감사.md\")",
+      "commit": "0fc4bef23434375d866da0ef4fc0a7b7c2cfdfe3",
+      "push_verified": true,
+      "r18": {
+        "batch_short": 3,
+        "careful_detail": 9
+      }
     },
     {
       "designation": "C-IIIγ-928",
@@ -472,7 +490,13 @@
       "link": "[[SE-C-IIIγ-928_Lethe_혼란의_독기](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-928_Lethe_%ED%98%BC%EB%9E%80%EC%9D%98_%EB%8F%85%EA%B8%B0.md \"SE-C-IIIγ-928_Lethe_혼란의_독기.md\")]",
       "table_link": "[Lethe](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-928_Lethe_%ED%98%BC%EB%9E%80%EC%9D%98_%EB%8F%85%EA%B8%B0.md \"SE-C-IIIγ-928_Lethe_혼란의_독기.md\")",
       "unit4_initial_push": "174fca31e0e239dc14c0f9d731407298af293c5a",
-      "postunit_correction": "Closure cross-check against EntityCodex physical categories caught the descriptive “Non-bodily hazard” occupying the category position. Same predeclared careful PhysicalForm repair now keeps the registered Non-Organic category and the supported nonbodily qualifier. No anatomy or values changed. Follow-up is one unit4 correction, not sixth review or new credit."
+      "postunit_correction": "Closure cross-check against EntityCodex physical categories caught the descriptive “Non-bodily hazard” occupying the category position. Same predeclared careful PhysicalForm repair now keeps the registered Non-Organic category and the supported nonbodily qualifier. No anatomy or values changed. Follow-up is one unit4 correction, not sixth review or new credit.",
+      "commit": "7f1844e18699184e6887d3a835d2d8415aa3dd2f",
+      "push_verified": true,
+      "r18": {
+        "batch_short": 1,
+        "careful_detail": 8
+      }
     },
     {
       "designation": "C-Iβ-071b",
@@ -571,7 +595,14 @@
         "se": 0
       },
       "link": "[[SE-C-Iα-071b_Blessing_Giver_축복_주는_자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-071b_Blessing_Giver_%EC%B6%95%EB%B3%B5_%EC%A3%BC%EB%8A%94_%EC%9E%90.md \"SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md\")]",
-      "table_link": "[Blessing_Giver](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-071b_Blessing_Giver_%EC%B6%95%EB%B3%B5_%EC%A3%BC%EB%8A%94_%EC%9E%90.md \"SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md\")"
+      "table_link": "[Blessing_Giver](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-071b_Blessing_Giver_%EC%B6%95%EB%B3%B5_%EC%A3%BC%EB%8A%94_%EC%9E%90.md \"SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md\")",
+      "commit": "e3e91dc816a46a8d2ddf4973917c52af60ffad48",
+      "push_verified": true,
+      "r18": {
+        "batch_short": 0,
+        "careful_detail": 7
+      }
     }
-  ]
+  ],
+  "closure": "B171_CLOSE.json"
 }

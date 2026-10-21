@@ -1,8 +1,8 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch171 OPEN5/5.** Owner p after CLOSED170 authorizes171 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains. [Opening evidence](SE_APPEARANCE_REVIEWS/B171_OPEN.json). No new credit.
+**Latest: Batch171 CLOSED5/5.**46supported replacements, fiveHELD, No change0/5. Equipmentcoverage+2Types/+1Weapon, SE+0. [Batch report](SE_APPEARANCE_REVIEWS/B171_CLOSE.md). No172/merge/deployment.
 
-**Latest: Batch170 CLOSED5/5.**61supported repairs, five HELD, No change0/5; fresh993equipment review+1/+1, SE+0. [Batch report](SE_APPEARANCE_REVIEWS/B170_CLOSE.md). No171/merge/deployment.
+**Previous: Batch170 CLOSED5/5.**61supported repairs, five HELD, No change0/5; fresh993equipment review+1/+1, SE+0. [Batch report](SE_APPEARANCE_REVIEWS/B170_CLOSE.md). No171/merge/deployment.
 
 **Previous batch: Batch169 CLOSED 5 / 5.** 48 supported replacements, five HELD whole designs, No change0/5; no new equipment/SE credits. [Closure evidence](SE_APPEARANCE_REVIEWS/B169_CLOSE.json). Historical169authorization ended;170subsequentlyauthorized.
 
@@ -15,8 +15,8 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 
 | Workstream | Completed | Coverage | Remaining |
 |---|---:|---:|---:|
-| ALL M.A.W. Types Appearance per SE — source-review coverage | 256 / 301 | 85.05% | 45 / 301 |
-| ALL M.A.W.-W Appearance per SE — source-review coverage | 256 / 287 | 89.20% | 31 / 287 |
+| ALL M.A.W. Types Appearance per SE — source-review coverage | 258 / 301 | 85.71% | 43 / 301 |
+| ALL M.A.W.-W Appearance per SE — source-review coverage | 257 / 287 | 89.55% | 30 / 287 |
 | SE Appearance Fix — independent written-design pass | 16 / 301 | 5.32% | 285 / 301 |
 
 These are coverage counters, **not promises that every held discrepancy is repaired**. The first two retain their historical criteria and explicit source holds. The new counter starts at zero; old equipment reviews, general prose fixes, shape screening and the R-32 clarification are not backfilled as SE appearance completions.
@@ -1275,3 +1275,9 @@ CLOSED5/5;48replacements, fiveHELD whole designs, No change0/5. 26,608→28,257w
 ### Batch171 unit5 — OPEN5/5
 
 [Blessing Giver evidence](SE_APPEARANCE_REVIEWS/B171_05_BLESSING_GIVER.md): HELD, 7 supported replacements, five actual checks and full final reading. No change0/5. No credits inferred.
+
+## Batch171 — CLOSED5/5
+
+**Batch171 closure (2026-10-21): CLOSED5/5 reviews; No change0/5.** 46 supported replacements (7batch-short/39careful-detail), C-locale words30,917→33,085(+2,168); five whole written designs HELD.25fresh closurevalidatorruns accepted,54testsPASS;247verifyretains one originalquotedellipsis seam warning, not a prose splice and not clean seam[]. Four otherseam[]; allresiduals0,tpl0,sectionthresholdsmet,wikistdTrue.296unselected/fivereserves/digits/allfiveTales/sourcehashes unchanged;46operationsreconstructfinals.300PhysicalFormrows unchanged except928nonbodilyNonOrganicqualification. Five individually verified unit pushes plus928category-position correction; no sixth review. Fresh247forbidden-theory disposition +1Types/+0Weapon;071bexact1007review+1Types/+1Weapon; otherthree not recounted;SE+0. Counters258/30185.71%(43remain),257/28789.55%(30remain),16/3015.32%(285remain). Ledger12changed/4retained/118held/2blocked/165pending. Laterfullrecheck retained;p171spent,no172/merge/deployment/artwork.301eight-owner-body/one4+4/generatevalidatebeforecopy blocker unchanged.
+
+[Full report](SE_APPEARANCE_REVIEWS/B171_CLOSE.md).
