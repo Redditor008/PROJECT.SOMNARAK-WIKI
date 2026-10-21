@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-453 [LS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — A drifting ember carrying an interrupted cry; escalation widens the audible street radius |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A small burning fragment that floats at shoulder height, flickering between a coal and the outline of a crying figure. Fever-warm, it smells of cold rain and char; a piece of someone, still warm, drifting. |
-| **Movement** | Stationary — a body or drop of liquid. |
+| **Movement** | It floats at shoulder height and keeps that height over stairs, which is the detail that unsettles people most. Record its drift along the arcade, the distance at which the crying becomes audible, and whether it followed any individual; it has followed registry staff on eleven of the last fourteen occasions. |
 | **Location** | Zone C, Collector's Row |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -97,6 +97,13 @@
 - An unresolved session is not a crisis; it is a higher opening reading next time. The failure mode of this holding is bureaucratic and slow, and it runs through the registry office rather than through the street.
 
 ## Appearance
+
+**Detached expression:** The mourner was taken; the remaining subject is a coal-sized, fever-warm fragment at shoulder height. Its intermittent crying outline is an observed flicker, not a recovered person standing in the Row. The cold-rain and char smell accompanies a sound that cannot reach its ending. Neither the outline nor the human origin makes this a full human body.
+
+**Motion and witness:** The ember drifts along the rebuilt arcade, follows people and circles a still listener. Mark the audible edge before entering, then record drift, duration as an outline, warmth and registry activity separately. The coal photographs and the witnessed outline are different kinds of evidence: the failed outline photographs do not erase what observers describe. Do not touch the fragment to obtain a better image; the contact record includes extraction as well as attempts to silence it.
+
+**Different radius, not a new donor anatomy:** The doorway copies at escalation and the audible extension through partitions belong beside the usual single street ember. They support a changed distribution of the cry, not an invented transformation into the missing mourner. The interrupted public mourning explains the design relation without deciding who she was or why an administrative file changes its reach.
+
 **Primary Form:** A small burning fragment that floats at shoulder height, sometimes forming the outline of a crying figure.
 
 **Notable Features:** Its fire produces the sound of centuries-old crying, and it glows near forgotten grief.
@@ -115,7 +122,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A small burning fragment that floats at shoulder height, sometimes forming the outline of a crying figure. |
-| **Position / movement** | Primary Form: A small burning fragment that floats at shoulder height, sometimes forming the outline of a crying figure. |
+| **Position / movement** | It floats at shoulder height and keeps that height over stairs, which is the detail that unsettles people most. Record its drift along the arcade, the distance at which the crying becomes audible, and whether it followed any individual; it has followed registry staff on eleven of the last fourteen occasions. |
 | **Material / signature** | A coal-sized ember at shoulder height, flickering between a burning fragment and the outline of a crying figure, smelling of cold rain and char. Record the audible radius in metres and every registry action taken in the district that week. |
 | **Distinctive markers** | Shoulder height, always, in a street with an uneven camber; it holds the height of a standing person rather than a height above the ground, and the surveyors have measured that twice to be sure. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; more than one Row record concerns somebody who was taken, and this is the one that requires the file to stay open. |
@@ -142,12 +149,12 @@
 
 ### Operational Work Notes
 
-The Work Type table describes an hour in a street and misses the whole mechanism, which sits in an office four roads away. Across eleven years the gauge has moved with the registry and with nothing else: ten points up per file concluded, ten down per file re-opened, measured 38 times. Two of this holding's recorded suppressions were achieved by a clerk with a pen and nobody at the site at all.
+The Work Type table describes an hour in a street and misses the whole mechanism, which sits in an office four roads away. Across eleven years the registry effect has been measured apart from street work: ten points up per file concluded, ten down per file re-opened, measured 38 times. The local Work responses remain relevant; these office changes explain why an otherwise completed listening session can leave a higher reading. Two of this holding's recorded suppressions were achieved by a clerk with a pen and nobody at the site at all.
 
 **Reading the response:** A falling reading means somebody listened to the cry without trying to place it or stop it. Stability under Viderehan is correct. The reading rises when the voice is identified, when the sound is suppressed by any means, and when a file concerning the raids is marked concluded anywhere in the district.
 ## Breach Behavior
 
-> *"Floating Fragment has broken free. Hunts personnel indiscriminately."*
+> *"Floating Fragment’s cry has reached beyond its marked street radius. Clear the public, keep one listener in place and contact the registry; do not guess a name or try to silence it."*
 
 | Field | Detail |
 |---|---|
@@ -234,6 +241,8 @@ Both pieces came out of a sound, which the Armoury's ledger treats as the most i
 | **At limit** | The wielder answers the cry. Both over-runs reached that point; in one case the wielder used a name, and the registry had no such person. |
 | **After use** | Return the piece and ask a colleague — not the wielder — whether the wielder has been finishing their sentences. The Armoury has stood one wielder down on an answer the wielder disagreed with. |
 
+**Return care and attribution:** Naming the source event for the equipment is not naming the missing mourner. Keep the interrupted raid cry as the source, with her identity unresolved. The exact Shroud record also warns of numbness to small joys; log that alongside the primary's loss of response to others' distress, not as an explanation that cancels either cost. Watch for first-person ownership of the event and a repeated source response outside contact. A named witness states the source title and event while the bearer relinquishes the piece; record the trigger, response, cost and unresolved detail before cleaning or rest. The procedure preserves attribution, not an ending for the cry or a refund of what the bearer paid.
+
 **Stat interpretation:** An α-grade set whose output is trivial and whose cost is social and invisible to the person paying it. Authorise on the colleague's answer, not on the grade, and re-ask it monthly.
 
 **Full-set source review (2026-10-12):** Reviewed the grade overview and every local M.A.W. claim, including both visual descriptions, Use Notes, Field Use Record, the Stigma-bestowal history, and Stat interpretation, against exact set `SE-1035-A` for `O-Iα-453 [LS]` (Side title *Keen*), items `SE-1035-B/C/D`, Registry rows 302–305, Master M.A.W. rows/details 709–711, Entity Codex row 607, Tale 237, and archetype rows `MAW-W-453` and `MAW-W-1035`. The blank overview is now `— · α`, supported by all three local/Side/item pieces and the Master table; no Tool type is supplied. Local Weapon numerics agree with Side/item B (Lament 3–6, Normal 2, Short 2, max 5, 15 Echoes), but local *The Lamentation Sabre* differs from Side/item B and detailed Entry 709 *The Crying Requiem*, while the Master table keeps the local title. `MAW-W-453` is a blue-mist cavalry sabre / Medium, unlike the local planisphere appearance and Short band; linked-code `MAW-W-1035` is a Spore-Burst Cloud Projector / Long. The primary Suit's cavalry-sabre appearance sits under *The Crying Shroud*; Master row 710 classifies that entry as Vestments & Outerwear, but Side/item C has no Appearance crosswalk. Preserve both primary forms rather than moving either. Suit values align; local/Side/item Stigma Tail / 5% / `+1` aligns, while generic Registry Accessory/5% and Master row 711's Pendants & Chokers do not establish the slot. The local Use Notes say “both pieces” came from a sound and discuss the sabre and charm, although the set has three pieces; the nine-Stigma/three-identification account remains separate from the item's 5% offer field. The same local *Lamentation Sabre* planisphere and Suit-sabre form recur in Forgotten Shadow, but its exact sibling source `N-IIβ-453` belongs to `SE-453` Spoor / *Shadow Requiem* (`MAW-W-453-01`, Lament 5–9); this selected `SE-1035` item is *The Crying Requiem* (`MAW-W-1035-01`, Lament 3–6). The separate records provide no shared-item crosswalk. No disputed name, form, slot, chance, or history was normalized; only the supported overview grade changed.
@@ -294,11 +303,11 @@ A small ember floats in the corridor. It is beautiful until the sound begins: so
 
 
 
-**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: A small burning fragment that floats at shoulder height, sometimes forming the outline of a crying figure. The first sensation is always Lament — unmistakable, specific, impossible to mistake for anything else in the city.
+**At first contact:** Cold rain and char accompany the small warm ember at shoulder height. Then the interrupted cry makes the listener want to answer. Check the designation and audible radius before entry: the Row has other burning records, and neither a beautiful glow nor an urge to help identifies this one by itself. The outline flickers; the coal is what the attempted photographs retained.
 
 **With continued exposure:** The Subject-Grudge settles into a presence you learn to hold — not comfortably, but recognisably. The Lament pressure stops being an assault and becomes a climate: something you move within rather than against.
 
-**When the entity activates:** Activation feels like the room remembering something it had been forced to forget. The Lament surges, the Subject-Grudge sharpens, and for a moment the containment zone is not a cell but the original wound, reopened.
+**When the entity activates:** Listen from the marked street edge for the cry at a doorway beyond the previous radius. The holding is not a cell; partitions did not stop it. Log the registry closures and re-openings alongside the new audible edge, without mistaking a larger area of crying for permission to catch the coal.
 
 **After departure:** You check on somebody. Workers coming off this holding telephone family, call at an address, or look up a name, and the Row station has recorded the pattern for eleven years without once calling it an effect requiring treatment.
 
@@ -354,7 +363,7 @@ Some sorrows mourn a loss. Floating Fragment mourns the interruption — the cry
 **Threat Assessment:** Minor. Eleven years, 211 sessions, four grabs, fourteen strikes, no fatalities and no lasting injury — against a district where 44 files are still open and a sound in the street that will not let anybody write them off.
 **Containment & Handling Procedures:**
 - Listen for the session; do not name anybody; the clock ends it, not the cry.
-- Standard R.D. containment protocols apply.
+- Pace the audible edge before diverting traffic; state the session end time before entry. Leave without naming the voice, and obtain the registry changes separately rather than waiting for the interrupted sound to finish.
 - The radius grows when files are closed administratively; it shrinks when they are re-opened.
 **Observation Notes:**
 - One mourner of Collector's Row, taken mid-cry in a raid, never recovered and never declared.

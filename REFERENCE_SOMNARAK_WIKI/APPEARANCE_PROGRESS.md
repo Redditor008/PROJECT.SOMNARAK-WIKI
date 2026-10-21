@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch171 OPEN1/5.** Owner p after CLOSED170 authorizes171 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains. [Opening evidence](SE_APPEARANCE_REVIEWS/B171_OPEN.json). No new credit.
+**Latest: Batch171 OPEN2/5.** Owner p after CLOSED170 authorizes171 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains. [Opening evidence](SE_APPEARANCE_REVIEWS/B171_OPEN.json). No new credit.
 
 **Latest: Batch170 CLOSED5/5.**61supported repairs, five HELD, No change0/5; fresh993equipment review+1/+1, SE+0. [Batch report](SE_APPEARANCE_REVIEWS/B170_CLOSE.md). No171/merge/deployment.
 
@@ -1259,3 +1259,7 @@ CLOSED5/5;48replacements, fiveHELD whole designs, No change0/5. 26,608→28,257w
 ### Batch171 unit1 — OPEN1/5
 
 [Eleven Fifty-Nine evidence](SE_APPEARANCE_REVIEWS/B171_01_ELEVEN_FIFTY_NINE.md): HELD, 8 supported replacements, five actual checks and full final reading. No change0/1. No credits inferred.
+
+### Batch171 unit2 — OPEN2/5
+
+[Floating Fragment evidence](SE_APPEARANCE_REVIEWS/B171_02_FLOATING_FRAGMENT.md): HELD, 10 supported replacements, five actual checks and full final reading. No change0/2. No credits inferred.

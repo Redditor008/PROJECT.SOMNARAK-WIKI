@@ -1,4 +1,29 @@
 # Work In Progress
+## Batch171 unit2 — Floating Fragment `O-Iα-453`
+
+[[SE-O-Iα-453_Floating_Fragment_떠다니는_파편](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-453_Floating_Fragment_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%ED%8C%8C%ED%8E%B8.md "SE-O-Iα-453_Floating_Fragment_떠다니는_파편.md")]
+
+**Original/source review and predeclared R18 scope:** Entire392-line original, exact1035A–D and relevant Master/registry/history read. Outside sorrow→Subject-Grudge/Lament→interrupted mournerscry→coal/cryingoutline at shoulderheight→drift/follow/orbit→listening/sessionclock/administrative changes→doorway escalation→derived portable set traced. R18 predeclared2batch-short/8careful-detail: both Movement cells copy own completeIdentification movement; eight authored type, profile, breachnotice, streetactivation, firstcontact, registry-versusWork scope, practicalhandling and equipmentreturn repairs. No anatomical invention.
+
+**Sources/history:** Prior full B104 unit4 afb3498b, CHANGELOG5830–5836 and fivepathhistory checked; both equipmentcredits already earned, no duplicates. Selected O-Iα-453→SE1035Keen not N-IIβ-453→SE453Spoor/ShadowRequiem. CSV302–305; archetypes220W453blueMistSabreMedium/435W1035SporeCloudLong; disposition388; MasterMAWtable709–711/details8690–8722; Entity607; Tale237 complete13265–13313. BαLament3–6 Normal2 Short2 max5/15; C.4/1/1.6/.8 max5/10; DTail5%+1. SourceCdoesnotprovidephysicalAppearance bridge.
+
+**What changed:** Replace stationary/body-liquid stock with the actual height-preserving drift in both Movement fields. Give coal, crying outline and doorway spread a source-led profile; remove indiscriminate-hunt and cell-activation instructions, correct registry-only overstatement, and distinguish source-event attribution from forbidden voice identification.
+
+**Final whole-file reasoning:** HELD: coal and crying-outline alternation is explicitly witnessed, and doorway distribution has a documented escalation condition; neither requires humanoid redesign. The gear is allowed to differ from the ember, but mutually incompatible same-item labels/forms and unresolved recording/target scope remain. No new equipment or SE credits.
+
+**Holds / later recheck:**
+- LocalWeapon LamentationSabre/planisphere versus exactCryingRequiem and W453sabre/W1035sporeprojector/range: no itemidentity/state bridge. SuitCryingShroud remains cavalry-sabre description versus Masterouterwear; no sourceAppearance to replace safely.
+- Sound unrecordable in breach versus elevenyearswaveformcomparisons and interactionrecordings; no supplied recording-state exemption.
+- Mostrecentfilehandler versus lastclosedsigner targeting without explicit priority; physicalcatchability/extraction versus nothingtostrike qualification needs scoped evidence, not assumed invulnerability.
+- Threepiece set versus bothpieces/twoextracted history; set interrupted-sentence toll versus exactindividual costs, missing maxima/bonusstat specificity not guessed.
+- Registry61/44raidweek versus412/31raidfiles is retained as differently scoped evidence, not called an automatic contradiction; centuriesoldcry versus elevenyear monitoring doesnot require same start date. Remaining source chronology and casestatus mapping requires review before complete certification.
+
+**Commentary:** The street should keep doing business around a small unfinished sound. Its menace comes from kindly naming it and administratively finishing a file, not from an invented monster that chases everyone. Keeping those two temptations separate makes the work and the sorrow agree.
+
+**Checks and integrity:** Five actual verify/tpl/sectfile/wikistd/sect PASS, full final read after checks, final hash matches. 10 exact replacements; LC_ALL=C words6150→6655. Source hashes and unchanged digit streams retained. Detailed evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B171_02_FLOATING_FRAGMENT.md`. Gate/push follows. Written-design review, not artwork/render/browser/game/live-site inspection. Equipment+0/+0;SE+0, no duplicate/retroactive/body/art credits.
+
+**Progress:** OPEN2/5, No change0/2. Three counters Types256/301=85.05%(45remain),Weapon256/287=89.20%(31remain),SE16/301=5.32%(285remain). No172/merge/deployment/artwork. Later full recheck and301eight-owner-body/one4+4/generate-before-copy blocker retained.
+
 ## Batch171 unit1 — Eleven Fifty-Nine `C-IIIγ-912`
 
 [[SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-912_Eleven_Fifty-Nine_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md")]
