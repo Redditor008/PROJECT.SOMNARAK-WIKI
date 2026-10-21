@@ -8,6 +8,29 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch177 unit5 — Remembrance `C-IIIγ-115`
+
+[[SE-C-IIIγ-115_Remembrance_기억의_우물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-115_Remembrance_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%9A%B0%EB%AC%BC.md "SE-C-IIIγ-115_Remembrance_기억의_우물.md")]
+
+**Original/source review and R18 predeclared scope:** Complete471line primary, exact115A–D/README, Master52–54/table92–94/detail1388–1419, fullTale18/999–1056, Entity382/CSV354–357/archetype100/R19Neutral203 and B89unit3/history/Personalize144 read. Trace ObjectPlaceORelic→PlaceVoid→unclaimedcitymemory beneathArchive→stone/Hancrystalshaft/liquidmemory/pastnotface→fixedrim/level→pairroles/probe/look/Work→memorycost/overflow/threshold→ServiceLeaf rights/recordpolicy/interactions/allgear. R18 predeclared3short owncontact/activationlog/interactiontable and3careful shaft/custody/observation-role organisation.
+
+**Sources/history:** B89unit3 3779074a exactWeapon already credited; legacycombinedTypesbaseline preserved, no retroactive credit. B75Origin cleanup not new Weapon. ExactC-IIIγ-115VP→SE115Remembrance; not O-IVδ115BrokenFragment/formal1011 or WeightAllOwed. B89Side retains Reel title with explicit Lens rest/active/history conflict. Primary7–12/3/3/Skewer100/70/50max3/40; suit1.2/.8/.3/1.1max3/35; DHead4%+2namedcheck agree; CSVAccessory5%generic held. Apressure18–41 vs primary15–34 retained; sourceCwho-writescollar conflict retained.
+
+**What changed:** Six supported repairs replace generic landscape/activation flavor with actual timed recollection and bronze-probe signs, correct the interaction summary using its own table, and clarify shaft organisation, witness roles and equipment custody limits.
+
+**Final whole-file assessment:** HELD: six supported improvements but surface/action, observer permissions, level causality and same-item identity still need authoritative relationships. +0/+0/+0.
+
+**Holds / later recheck:**
+- Warmbloodsurface versus Physicalcool/numb; stillnomovementabsolutes versus SurfaceRipple/attackrises/probeThickening/overflow; conditions support some differences but not all invariantclaims. Memory-image≠newbody; no humanoid invented.
+- SourceAthrownobjectsprohibited versus identificationstonedrop closedcover; ordinaryclosedwatch versus openFerrehan/viewing/probe/onlyinspection; partner clockonly versus transcript/neverlook versus supervisedviewer need supported roles and scope.
+- Probereleasecloses versus improperreleasevents threefloors/unattendedminute;75%threshold versus65%overflow; no guessed two-stage shutoff. Level11cmnineyears/7,11,16series versus fixed16regardless and neverfall versus exceptionalpairing unassigned; owninteractionsummary now separates tablefacts.
+- Archivebacklogmatched versus WardenRecord expresslydoesnotmatch intake insteadServiceLeafmissing; remain unresolved causalaccounts.1702/1203/499/402/61/12 retained with no inferred remainder; safeServiceLeafdatesonly versus equipmentpersonalFactcustody maintenance and privatecollar author permit no public personnel index.
+- Reel8physicalshardattacks versus nothingstrikes/closingchannelshock/accuratememoryinjury and linkedLensrest/active; no invented lensreeltransition. Flaskwarmliquid versus linkedcoldHanGlassmovinglight/sidechain with Headslot; check+2unnamed not fabricatedComposure. Allpieceexchange versus eachcost independently held. A18–41/primary15–34 pressure and TaleLow/15mindescent versus explicitnoDescent not normalized. R19NeutralWeavertakesrimresidue versus “givesnothing” remains benefit-scopequestion, not provenescapeassistance.
+
+**Commentary:** The Service Leaf is compelling because the anti-blacklisting rule is justified and still leaves the short-served unremembered. The four discarded records should remain visible: careful work can be unreliable here. A useful memory is not automatically an owned memory, and the custody limits keep that distinction from becoming decoration.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 6 exact replacements (3batch-short/3careful-detail); LC_ALL=C words6875→7252. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_05_REMEMBRANCE.md`. Equipment+0/+0;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No178/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch177 unit4 — Endless Shift `C-IVδ-915`
 
 [[SE-C-IVδ-915_Endless_Shift_끝없는_교대](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-915_Endless_Shift_%EB%81%9D%EC%97%86%EB%8A%94_%EA%B5%90%EB%8C%80.md "SE-C-IVδ-915_Endless_Shift_끝없는_교대.md")]
