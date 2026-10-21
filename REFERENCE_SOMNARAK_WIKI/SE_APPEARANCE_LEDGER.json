@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIβ-099": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_05_MASKED_DANCER.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Owner P requested appearance research before164; latest p continues164 and permits a later full checking/fixing pass after this pass finishes. No165 authorization or automatic old-hold clearance."
@@ -942,8 +954,33 @@
     {
       "designation": "C-IIβ-099",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "changed",
+      "note": "Source-supported written-design completion: collective denied movement→living mobile SubjectBody→ordinary repeated choreography/observed same-mask voluntary pause→same-body observer-following Escape is now explicit. Camera-only present versus earlier person-present observation has a supported ordering, without a fabricated date or authority. Equipment same-item holds stay independent; donor-versus-item silhouette differences no longer cause an unjustified source-body hold. This is one fresh SE written-design credit, not art, resolution of all gear records or retroactive old-body credit.",
+      "outcome": "source-supported repair",
+      "whole_before_reread": true,
+      "logical_review": true,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_05_MASKED_DANCER.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-A__SIDE_CODEX_The_Masked_Dancer.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-B__MAW-W_The_Dancing_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-C__MAW-S_The_Dancing_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-D__MAW-G_The_Dancing_Mask.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_PERSONALIZE_PROGRESS.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIβ-100",

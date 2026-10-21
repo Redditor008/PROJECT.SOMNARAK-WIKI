@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Organic — A graceful humanoid of true flesh and bone, dancing without pause in precise, tireless steps, face hidden behind a beautiful smiling mask fused to the skin. The body beneath is fever-hot and fluid; the real face is unknown. It smells of char and old smoke. |
+| **Physical Form** | Organic — A graceful humanoid of true flesh and bone, ordinarily dancing in precise repeated steps, with shared-performance pauses documented below; its face is hidden behind a smiling mask fused to the skin. The body beneath is fever-hot and fluid; the real face is unknown. It smells of char and old smoke. |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
 | **Location** | SECTOR-C-01, Mask Market — contained |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25 per cent against Grudge pressure and 15 against everything else — low figures for a β band, and deliberate: the Dancer does not attack, it performs, so what a crew resists is its own willingness to keep watching. The gauge opens at 436 points and trips at 60 per cent, and the file allows 5 turns before the tempo is past the working figure. |
+| **Resistance** | 25 per cent against Grudge pressure and 15 against everything else — low figures for a β band, and deliberate: ordinary watching is pressured through the performance, while interruption and cornering have their own physical attack entries. Do not brief those conditional cutting blows as harmless spectatorship. A crew also resists its own willingness to keep watching. The gauge opens at 436 points and trips at 60 per cent, and the file allows 5 turns before the tempo is past the working figure. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 436/436 |
 | **Han Pressure [ATK]** | 8–19 per hit · Grudge |
@@ -70,7 +70,7 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan, Viderehan and Ferrehan are the recorded non-confrontational approaches; Pugnahan is prohibited. Current camera-only closure prevents the person-present gauge-lowering cycles described below. |
 | **Battlefield** | SECTOR-C-01, Mask Market — contained |
 | **Resolution Condition** | Match its rhythm and share the performance; do not command it to stop |
 
@@ -86,6 +86,8 @@
 
 ### Battle Phases
 
+**Historical procedure, not current access permission:** The rail and shared-performance instructions below preserve the former method and its results. The later floor closure removed person-present work; no cycle has been run since. They do not authorize a crew or a civilian troupe to re-enter or imitate the recorded visits.
+
 1. **Tension:** Confirmation rests on the step sequence and the crack beneath the smile, and never on the mask — the Mask Market holds a great many smiling masks and two of them are on other holdings. The rail position and the withdrawal are set before the cycle opens, and nobody stands on the floor to identify anything.
 2. **Clash:** Five turns, worked from the rail. Nobody steps onto the floor, nobody keeps time, and the transcriber works from the fixed camera rather than from the room.
 3. **Resolution:** The cycle closes when the crew has matched the rhythm and taken part in the performance without ever ordering it to stop. The file's own evidence for the condition is one entry long and it is a stoppage: 11 members of the district troupe danced with it on a fixed date, in the seventh year, and it stopped — 8 of the 11 recorded stoppages in the whole operation are those visits, and the gauge fell 6 to 9 points each time and stayed down for a month or more.
@@ -98,7 +100,7 @@
 - Unresolved, it leaves the chamber: an Escape breach, following whoever has watched longest rather than hunting at random, and ending when the line of sight is broken.
 
 ## Appearance
-**Primary Form:** A graceful humanoid wearing a beautiful smiling mask. It dances continuously, with precise and tireless movement.
+**Primary Form:** A graceful humanoid of living flesh beneath a smiling porcelain mask fused to the skin. Precise repeated dancing is its ordinary presentation, not proof of an inability to pause: shared-performance stoppages are recorded below. The mask's smile is not consent or pleasure.
 
 **Notable Features:**
 - A single tear emerges from beneath the mask on rare occasions, logged with time and circumstance; the log runs to forty-one entries.
@@ -109,25 +111,35 @@
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
-- **Primary marker:** A graceful humanoid wearing a beautiful smiling mask. It dances continuously, with precise and tireless movement.
+- **Primary marker:** A living humanoid beneath a smiling fused porcelain mask, normally repeating precise steps; shared-performance pauses retain the same mask and body.
 - **Position / movement:** On the market floor, dancing. Record the step reached, the tempo in steps per minute, the distance from the rail, and the state of the mask.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-C-01, Mask Market — contained
+
+### Supported States and Observation Limits
+
+The originators were people denied movement; the resulting Subject-Body is not one identified patient restored to health. Its living, fever-hot human outline is supported by the source, not inferred solely from human sorrow. The fused smiling mask remains part of that outline in ordinary performance, a partnered pause and Escape. No transformed pursuit anatomy is recorded.
+
+Ordinary repetition is not literal uninterrupted motion under every condition. The troupe visits stopped it; the extraction record separately describes a voluntary breath-long pause, and Chosen Intermission records a bow with the mask unchanged before resumption after the bearer leaves. Keep those conditions attached to those observations. The Tale and quoted never-stop descriptions express the continuing burden but cannot replace the operational stoppage record. A pause does not prove permanent release or permission to force a stop.
+
+Escape moves this same body out of the floor along the watching audience. The rhythm left in personnel is an aftereffect, not the body itself travelling inside them. The extracted glove, robe and shard are equipment, not additional source bodies; their distinct resting and active records require item-specific evidence, not a matching donor silhouette.
+
+The rail watch, its tear entries and the troupe visits precede the current camera-only closure. The camera cannot inspect beneath the mask: no newly logged tear is not evidence that tears ceased. Retain the older close observations as older observations, and distinguish ordinary slowing, an observed voluntary pause, a breach ending when sightlines break, and permanent rest, which has not been established.
 
 ### Detailed Appearance Profile
 
 | Field | Detail |
 |---|---|
-| **Form** | A graceful humanoid wearing a beautiful smiling mask. It dances continuously, with precise and tireless movement. |
-| **Position / movement** | Continuous movement across the market floor. Record tempo, the step reached at session open and close, distance from the rail, and any approach toward an observer. |
+| **Form** | A living humanoid beneath a smiling fused porcelain mask; fever-hot flesh and a cracked jaw join distinguish the source from a free-standing mask. Ordinary precise dancing and recorded partnered pauses belong to the same body. |
+| **Position / movement** | Usually dancing across the market floor; an Escape follows an observer through occupied corridors. Partnered stoppages are separate observations, not a new body. Under current closure, use the fixed camera and mark any historical rail distance as historical. |
 | **Material / signature** | Grudge. Live flesh, fever-hot and fluid under the robe, smelling of char and old smoke; the mask is porcelain and the join at the jaw is cracked. |
-| **Distinctive markers** | A smiling porcelain mask fused at the skin, precise unbroken movement, and a crack beneath the smile that has widened measurably after every forced performance. |
+| **Distinctive markers** | A smiling porcelain mask fused at the skin, precise repeated movement, and a crack beneath the smile that has widened measurably after every forced performance. Record a pause as a pause rather than omitting it to preserve an absolute description. |
 | **Identification** | Confirm before Work or contact: designation C-IIβ-099 `[GS]`, Grudge expression, Subject-Body manifestation, SECTOR-C-01 in the Mask Market. The mask is not sufficient identification in a market full of masks; the step sequence is. |
 
-**Appearance protocol:** Record tempo, the step reached, distance from the rail, the crack measurement, and any tear with its time and circumstance. Do not describe the dance as beautiful in the field record; the word has been struck from three reports and the reason is in the file. Do not write *strange* or *anomalous* either; it is hot, precise, smiling and cracked, and those are the fields.
+**Appearance protocol:** Record tempo, the step reached, the crack measurement where visible, and the observation method. Rail distance and the tear log are historical under current camera-only closure; the camera cannot establish a new under-mask tear finding. Do not describe the dance as beautiful in the field record; the word has been struck from three reports and the reason is in the file. Do not write *strange* or *anomalous* either; it is hot, precise, smiling and cracked, and those are the fields.
 
 ## Origin
-- **Formation:** The Dancer formed from those who wanted to dance but could not.
+- **Formation:** The Dancer formed from denied movement — walking, leaving, rising, as well as dancing — among those whose bodies or circumstances held them still.
 - **The Sorrow:** The grief of the paralyzed, imprisoned, sick, and sorrow-bound—people whose bodies or lives denied them movement.
 - **The Event:** Their unfulfilled wish to move crystallized into a dancer that performs for them forever.
 - **The People:** The paralysed, the confined, the long-ill and the sorrow-bound of the Mask Market district, and the Masked Troupe that performed for them.
@@ -151,12 +163,12 @@
 
 ### Operational Work Notes
 
-The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Grudge expression, held at SECTOR-C-01 in the Mask Market. Being a Subject, it leaves all four Work Types open; Pugnahan is prohibited anyway, having lifted gauge and tempo together on every occasion logged. Flerehan and Ferrehan bring the gauge down, Ferrehan most reliably and at the largest bill in staff hours.
+The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Grudge expression, held at SECTOR-C-01 in the Mask Market. Subject classification does not make every Work Type permissible: Pugnahan is prohibited, having lifted gauge and tempo together on every occasion logged. The recorded Flerehan and Ferrehan cycles brought the gauge down, Ferrehan most reliably and at the largest bill in staff hours. Both need a person present; neither is currently being run under the camera-only closure. Their documented benefit is not a present floor-access authorization.
 
 **Reading the response:** Read it in the tempo and in the worker. A falling gauge presents as steps per minute dropping and the sequence lengthening; a rising one presents as acceleration. The other indicator is in the observer: a Warden who has stopped finding the duration difficult has been on the rail too long, and that is a finding about the Warden rather than the holding.
 ## Breach Behavior
 
-> *"The Masked Dancer has broken free. Hunts personnel indiscriminately."*
+> *"The Masked Dancer has broken free. It follows the longest-watching observer; clear the audience and break line of sight."*
 
 | Field | Detail |
 |---|---|
@@ -244,7 +256,11 @@ The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Gr
 
 ### M.A.W. Use Notes
 
-What is cut from the Dancer is not gear in any ordinary sense: a piece works by joining in whatever happens beside it. The toll is the one recorded above — old injuries aching, bruising in the same lines on prolonged use — and it is charged whether the work was performed correctly or not, which the armoury prints on the issue slip in those words.
+Borrowed Motion requires a chosen endpoint and a partner with real authority to give the stop cue. The Weapon charges old injuries and bruising even during correct use; the Suit dulls retreat and rest reflexes; the Stigma makes stillness difficult. The Weapon's price is not the single cost of all pieces, and endurance is not permission to keep going.
+
+Chosen Intermission accepts the partner's spoken cue after a task-defined movement sequence. It releases accumulated joint Grudge and permits disengagement, but locks the pieces until real rest and a joint return-to-duty decision. That item condition does not reopen the source floor or guarantee a permanent end to its dance.
+
+The exact items retain disputed Fang, Plate and Mask physical instructions. A guard grip, shin-link release or tail-thread removal must be tied to the actual verified item assembly, not silently applied to a spectral glove, silk robe or cheek shard. Shared partner and endpoint requirements do not resolve those form conflicts. Do not snatch a weapon mid-stride, service a suit while its bearer paces, or cut the Stigma thread as a shortcut to rest; the item records each describe a separate failure from those actions. The existing Cross-Source Review remains in force.
 
 ### M.A.W. Cross-Source Review — Batch 111
 
@@ -256,10 +272,10 @@ What is cut from the Dancer is not gear in any ordinary sense: a piece works by 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the gauge, and one pre-check written by a second person: which of the bearer's old injuries ache, and whether they can stand still for a full minute. The second question exists only on this set. |
-| **During use** | The charge shows as tempo arriving in the bearer's own body: the old aches come on a regular beat, and the minute-stop test fails before the gauge moves. The hour goes into the log from the second worker's hand, never the bearer's. |
-| **At limit** | The wearer's reflexes dull, as if armored by resentment, without remission. On a The Masked Dancer piece the use ends there whatever the wielder says. |
-| **After use** | Take the piece back and set the pre-check against the person: are the old injuries back on the weather's schedule, and can they stand still a full minute? Where the second answer is no, the piece stays in stores and the bearer comes off rail duty for the fortnight. |
+| **Before use** | Wielder, verified piece assembly, gauge, chosen task endpoint, nominated stop-cue partner and agreed rest interval. A second person records which old injuries ache and whether the bearer can stand still for a full minute. Unresolved item identity is not permission to improvise a grip or removal method. |
+| **During use** | Log the actual piece's cost: Weapon aches and bruising, Suit retreat/rest reflex, or Stigma pacing and inability to be still. Record ignored cues and the endpoint from the partner's hand; a reassuring gauge does not overrule them. |
+| **At limit** | End at the declared endpoint or registered partner cue, not only after dulled reflexes appear. That reflex sign belongs to the Suit; Stigma compulsion and Weapon continuation have their own warnings. Use only the shutdown procedure for the verified assembly. |
+| **After use** | Confirm safe partner-led removal without snatching mid-stride or cutting a thread. Compare the person with the pre-check: are the old injuries back on the weather's schedule, and can they stand still a full minute? Where the second answer is no, the piece stays in stores and the bearer comes off rail duty for the fortnight. Full-set release requires real rest and the joint return decision, not a movement drill. |
 
 **Stat interpretation:** Grade records output and says nothing about cost: a β piece from this source can perform perfectly for months and still leave its bearer unable to be still, with the whole of the damage attaching to stopping rather than to doing. Read the cost column first, and read a bearer's restlessness as the finding rather than as a complaint.
 ## 관찰 기록 (Observation Log)
@@ -286,7 +302,7 @@ What is cut from the Dancer is not gear in any ordinary sense: a piece works by 
 | **Activation or escalation** | Escalation is tempo. Above the set figure, or on any approach toward the rail, the session closes and the floor is cleared; the threshold is numeric and the rail lead applies it. |
 | **Post-contact review** | Tempo and step at open and close, gauge, total observer minutes per person, and a check at seven days for the workers' own restlessness — specifically whether rest periods are being used. |
 
-**Observation method:** Watch from the rail, in rotation, with observer minutes capped per person and logged by name. Record tempo, step, crack, gauge and the condition that ended the session. The form here is the sorrow and not a strategy: a performance owed to people who could not move, by a body that no longer has the standing to stop.
+**Observation method:** The former rail watch used rotations and named observer-minute limits. Current monitoring is by fixed camera only; no person-present cycle is authorized by this legacy method. Record tempo, step, visible crack and gauge with the camera limits noted, without manufacturing a new under-mask tear observation. The form here is the sorrow and not a strategy: a performance owed to people who could not move, by a body that no longer has the standing to stop.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -308,7 +324,7 @@ The Dancer does not stop, and the body beneath the mask is fever-hot to the touc
 
 ## 최종 관찰 (Final Observation)
 
-> Two ways to close a watch at the Mask Market floor, and the file prices them months apart: one ends with the performance shared and the recorder still able to stand still, the other ends with an order given.
+> Two recorded ways to close the former rail watch, not permission to reopen the floor: one shared the performance, while the other gave an order. Current camera-only closure has suspended the person-present approaches.
 
 | Match the rhythm from the rail, take part in the performance in rotation, and never give the order to stop — the condition as written, with the observer minutes capped and logged by name. | Answer it with Pugnahan, or tell it to stop: reasonable, available, and on the file it raises the gauge, widens the crack and puts the room one order further from the only thing that has ever paused it. |
 |---|---|
@@ -333,7 +349,7 @@ The mask smiles first and the body follows it. Every step is fine enough to make
 
 This file is read against whatever else in the Mask Market performs, wears a face, or stands in for one. Each row below was watched, filed, and left open; all four were worked from the rail, with observer minutes capped and each transcriber logged by name.
 
-**Interaction method:** Baseline each party alone across several sessions before any pairing, with tempo, gauge and observer minutes logged throughout. Record the onset of any shared change with its range, duration, trigger, both gauges and whatever persists after separation, and re-verify every cycle.
+**Interaction method:** The staged contacts below belong to the person-present record before closure. They authorize no new pairing on the closed floor. The former method baselined each party alone with tempo, gauge and observer minutes logged throughout. Record the onset of any shared change with its range, duration, trigger, both gauges and whatever persists after separation, and re-verify every cycle.
 
 
 ### Entity Interaction Record
@@ -401,7 +417,7 @@ Some sorrows are about what was lost. The Masked Dancer is about what was wanted
 
 ### It Does Not Stop
 
-The dancer moves continuously with precision that does not degrade, and the Warden's log records duration rather than quality, there being no variation in quality to record. The figure has not rested in the whole of the containment's operation. The file states this as an observation and declines to call it tireless, the word having been removed from an earlier draft as an interpretation.
+The dancer moves continuously with precision that does not degrade, and the Warden's log records duration rather than quality, there being no variation in quality to record. The record establishes an ongoing burden and specific shared-performance stoppages, not an absence of every pause. It declines to call the body tireless: duration, the stoppage condition and the resumption are observations; inexhaustibility is not.
 
 ### Faster Under Confrontation
 

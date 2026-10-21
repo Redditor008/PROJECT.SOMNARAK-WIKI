@@ -10,7 +10,7 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 |---|---:|---:|---:|
 | ALL M.A.W. Types Appearance per SE — source-review coverage | 255 / 301 | 84.72% | 46 / 301 |
 | ALL M.A.W.-W Appearance per SE — source-review coverage | 255 / 287 | 88.85% | 32 / 287 |
-| SE Appearance Fix — independent written-design pass | 12 / 301 | 3.99% | 289 / 301 |
+| SE Appearance Fix — independent written-design pass | 13 / 301 | 4.32% | 288 / 301 |
 
 These are coverage counters, **not promises that every held discrepancy is repaired**. The first two retain their historical criteria and explicit source holds. The new counter starts at zero; old equipment reviews, general prose fixes, shape screening and the R-32 clarification are not backfilled as SE appearance completions.
 
@@ -879,3 +879,7 @@ Owner's research-first P and latest continuation authorize this batch. Fresh pen
 ### Batch164 unit4 — OPEN 4 / 5
 
 [Weeping Statue evidence](SE_APPEARANCE_REVIEWS/B164_04_WEEPING_STATUE.md):6repairs, five checks PASS/fullfinalreread; HELD, no duplicate equipment or body credit. No change0/4; Types255/301, Weapon255/287, SE12/301. Independent fresh equipment credits follow the evidence history; no duplicate or retrospective claim. Five completed reviews required; later full recheck issues remain visible.
+
+### Batch164 unit5 — OPEN 5 / 5
+
+[The Masked Dancer evidence](SE_APPEARANCE_REVIEWS/B164_05_MASKED_DANCER.md):24repairs, five checks PASS/fullfinalreread; CHANGED, no duplicate equipment or body credit. No change0/5; Types255/301, Weapon255/287, SE13/301. Independent fresh equipment credits follow the evidence history; no duplicate or retrospective claim. Five completed reviews required; later full recheck issues remain visible.
