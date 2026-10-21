@@ -8,6 +8,29 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch174 unit5 — Risus `C-Iα-150`
+
+[[SE-C-Iα-150_Risus_웃음의_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-150_Risus_%EC%9B%83%EC%9D%8C%EC%9D%98_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-C-Iα-150_Risus_웃음의_메아리.md")]
+
+**Original/source review and R18 predeclared scope:** Complete413-lineoriginal/180A103B101C98D/README and fullMasterTale/history read. CityResidueLament→joyoutlivedvanishedCommonscommunity→bodilessnonvibratingaudibleloop/notpastpersonbody→ambientdrift/accessperimeter/expansionnotescape→ViderehanstableFerrehandecrease/noFlerehanPugnahan→sharedlaughtercontribution/voices→Choir/Healer/Silenceseparatetimings→releasedecho/blade/shroud/twopersonBell traced. R18predeclare4short/7careful. Subject-Lament is explicitlyambientObject/Place inexactA; labeldoesnotrequirehumanoidbody. Unknowncausesofvanishingnotinvented.
+
+**Sources/history:** PriorB120u3 17b5156 fullthreepiece/exactB review readWIP6445–6465/CHANGELOG6208, notnewcoverage. +0Types/+0Weapon. B17 old8dirtysection/47sites/fullclassificationR01 repair inVOL02 650–670 read, notbodycompletioncredit. ExactCSV394–397/archetype110MediumChimeBlade/disposition401quotedoldone-listenersourceinference; Entity474EchoOfLaughteralias, Master322–324table362–364/details4426–4458, completeTale1086106–6160 historicalIVγPlaceLament/Level3/Flerehan versus currentIαSubjectLament/Level1/twovalidWork. NumericcoreA3–10source vsprimary3–9 pressure notnormalised; gearαLament3–6/2Normal/2Short/Single100%,5/15; C.4/1/1.6/.8,5/10; DTail5%+1 align.
+
+**What changed:** Eleven supportedrepairs replace genericmaterial and creaturedrift with bodilesslistening/pairedsurveys, remove impossibleinstrumentboundary, separateweaponsinglecoverage fromambientmulti-personloop, specifyordinarycyclevolumeversuswithin-turnstablevolume, useactualexpansiontrigger ratherthanintentionalremembering, carrythreepiecescare/rejection/shutdown, andremoveSilence-onlytimingclaimcontradictedbyChoirrow.
+
+**Final whole-file assessment:** CHANGED — completed coherent written-design pass for an ambient bodilessObject/Place sound. Origin, arrival/turn, no-vibration, drift, conditionalexpansion, twoWorkresponses, multi-personcontact and derivedequipment now have supportedrelations without inventing body or intent. Remainingequipmenttrigger/taxonomy and censusprecision areexplicitlater-fix limits, notessentialsourceformconflicts. +0Types/+0Weapon/+1SE. Notfinalperfection orartcompletion.
+
+**Holds / later recheck:**
+- Equipment-onlyholds: archetypeMedium vs Short2; MasterStigmaRingsHandSeals versus tinyTailBell; CSVCombatVariable/Multiplier metadata incomplete. No donor/equipmentshape conflict inferred.
+- BellStatInterpretationsaysringswheneverwearerlaughs anywhere, whereas exactDrequireswillingtwo-personhold andcorrosiontoneonlyinhead. Newcareparagraphdoesnotinvent a normalexception or erase oldclaim; sameitemtrigger/context later-fix hold.
+- SourceApressure3–10 vsprimary3–9; historicMasterTaleIVγPlaceLament/Level3/Flerehan preserved, currentheader/exactA IαObjectPlaceSubjectLament and validWork govern thisreview. No retronegative bodycredit orcanonrewrite.
+- Voicecensus40–60includes11 versus40–60plus11 and facenames unknown keptas unresolvedcohortprecision, notinventednewbody or assumedelevennewvoices. Loopcontributions areobserved; audiblesize/membership uncertaintydoesnot requireanunknownentityform.
+- No claimofvanishingcause: TaleHan/Collectors/attrition alternatives retained. Sourceaudio-not-captured versus protectedderivedaudibleequipment isnotcontradiction. Genericcombatcuttingwave treatedascomposurepressure, notproofphysicalwavevibration. Laterwhole-record/stat/indexrecheck retained.
+
+**Commentary:** Risus works best when joy stays genuine: the grief belongs to hearing it after its makers are gone, not to discovering that the laughter was secretly evil. I kept the Commons empty and the paired listening intact. The blade, cloth and Bell should carry that relationship without making a vanished community into a collectible recording.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 11 exact replacements (4batch-short/7careful-detail); LC_ALL=C words6557→7113. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_05_RISUS.md`. Equipment+0/+0;SE+1. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No175/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch174 unit4 — Mirror of Broken `N-IIIγ-127`
 
 [[SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-127_Mirror_of_Broken_%EB%B6%80%EC%84%9C%EC%A7%84_%EA%B1%B0%EC%9A%B8.md "SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울.md")]
