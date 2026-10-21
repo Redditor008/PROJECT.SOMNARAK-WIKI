@@ -875,3 +875,7 @@ Owner's research-first P and latest continuation authorize this batch. Fresh pen
 ### Batch164 unit3 — OPEN 3 / 5
 
 [Broken Mirror evidence](SE_APPEARANCE_REVIEWS/B164_03_BROKEN_MIRROR.md):6repairs, five checks PASS/fullfinalreread; HELD, no duplicate equipment or body credit. No change0/3; Types255/301, Weapon255/287, SE12/301. Independent fresh equipment credits follow the evidence history; no duplicate or retrospective claim. Five completed reviews required; later full recheck issues remain visible.
+
+### Batch164 unit4 — OPEN 4 / 5
+
+[Weeping Statue evidence](SE_APPEARANCE_REVIEWS/B164_04_WEEPING_STATUE.md):6repairs, five checks PASS/fullfinalreread; HELD, no duplicate equipment or body credit. No change0/4; Types255/301, Weapon255/287, SE12/301. Independent fresh equipment credits follow the evidence history; no duplicate or retrospective claim. Five completed reviews required; later full recheck issues remain visible.

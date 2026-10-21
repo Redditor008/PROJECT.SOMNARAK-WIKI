@@ -102,7 +102,7 @@
 
 **Notable Features:**
 - Tears crystallize into small Echoes.
-- It does not move or speak.
+- It does not leave the pedestal or speak. Recorded deepening of the bow and grief-dependent facial changes are distinct from locomotion.
 - Its face changes subtly according to the grief being observed.
 
 **Identification Profile**
@@ -114,12 +114,20 @@
 - **Element signature:** Lament
 - **Registered location:** SECTOR-D-02, Echo Gardens — contained
 
+### Formation and Conditional Appearance
+
+The source is the city's accumulated uncried grief crystallized into a citizen-shaped statue, not an identified citizen transformed bodily into stone. Its Subject classification permits the recorded Work responses; its non-organic material and fixed pedestal do not make it an Object by default.
+
+Keep three observations separate: the bowed stone body at its pedestal, its grief-dependent face and deeper head angle, and the liquid pool with hardened tears at the feet. The face is deliberately not a stable recognition marker. A changing expression or bow need not mean departure from the pedestal; the advancing stain line is the pool's footprint, not the body's stride.
+
+The Heavy Hand and Cracking combat entries remain beside the records of an inert Pugnahan response and an undamaged source. No ordinary moving or shattered body has been established by that juxtaposition alone. Do not explain the conflict away by inventing a breach form.
+
 ### Detailed Appearance Profile
 
 | Field | Detail |
 |---|---|
 | **Form** | A genderless humanoid statue of dark Han-crystal. It weeps continuously, producing solidified tears that gather at its feet. |
-| **Position / movement** | Fixed on the pedestal; it has never moved, leaned, or turned. The pool at its feet advances and never retreats, so the stain line on the Gardens floor is a cumulative record of every expansion since the holding opened. |
+| **Position / movement** | Fixed on the pedestal, with no recorded departure. Escalation can deepen the bow against the head-angle mark; the carved face also changes subtly with the grief before it. The pool advances without retreat, and its stain line records cumulative spatial expansion rather than a route walked by the statue. |
 | **Material / signature** | Dark Han-crystal, warm along the tear tracks and cold elsewhere, salt-damp, smelling of cold rain. Lament expression. The hardened tears assay as circulating Echoes and cannot be told from them by any test the Mint has. |
 | **Distinctive markers** | Continuous weeping; tears hardening at the feet into small Echo-stones; a face whose features shift slightly according to whoever is in front of it; and the advancing stain line, which is measured each cycle. |
 | **Identification** | Confirm designation `C-IIβ-055 [LS]`, Echo (II) coherence, Moderate (β) potency, Subject-Lament manifestation, Lament element, SECTOR-D-02. Two other Echo Gardens holdings produce crystal; neither produces currency, and the distinction is checked at the Mint and not by eye. |
@@ -242,6 +250,10 @@ The reviewed Side/item records give distinct costs: the bearer's tears become ph
 
 The full set follows *Tears Given Room*: hold a memorial where every participant may leave, speak, or remain silent freely. The tears form one stable Echo without raising the Gauge, while the bearer carries the memorial's strongest unspoken grief until dawn.
 
+These are derived pieces, not portable statues. Travertine, mourning silk and the obsidian earring express the source without requiring the same outline as the bowed stone body. The Weapon's Crying Edge requires honestly acknowledged grief: performative sorrow supplies no power, and using another person's grief without consent sends the pressure back to the bearer. That limit applies before a strike, not only after the wrist ribbon tightens.
+
+The Suit's exact record protects against grief becoming immobilizing; its benefit is not emotional emptiness. The Earring's Tears as Record produces a stable fragment from a genuine tear. It records emotion, not a complete memory, and cannot prove every detail of an event. Neither the Mint's currency assay nor the local visual-flash claim establishes that missing evidentiary power.
+
 ### Field Use Record
 
 | Stage | Required record |
@@ -258,7 +270,7 @@ The full set follows *Tears Given Room*: hold a memorial where every participant
 **R.D. Comprehension Level:** 1 — Initial
 
 **Key Observations:**
-- It has never attempted to event, and the record is unusual in being able to say so of sixty-one years. Only the pool expands.
+- It has never attempted to breach, and the record is unusual in being able to say so of sixty-one years. Only the pool expands.
 - Each hardened tear carries its own signature, no two alike in the collected series, and the signatures do not repeat across sixty-one years of collection.
 - Personnel who sit a full cycle report being more easily moved for some weeks afterwards. The effect is consistent, is regarded by the Keepers as the single benign finding in the wing, and has never been studied, because studying it would require withholding the sitting from a control group.
 - Public visitors commonly leave without speaking to anybody, including the people they arrived with, and come back. The return rate is the highest of any accessible holding in the city.
@@ -274,7 +286,7 @@ The full set follows *Tears Given Room*: hold a memorial where every participant
 |---|---|
 | **Initial exposure** | The observer identifies Weeping Statue as a Subject with Subject-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-D-02, Echo Gardens — contained. |
 | **Sustained observation** | Confirms the holding's three constants: the tears harden into Echo-stones at the feet, activity rises through a Sorrow Tide, and the flow slows for whoever weeps beside it without trying to stop it. Keep the emotional effect and the measured flow in separate columns; they do not move together and conflating them has ruined whole seasons of the series. |
-| **Activation or escalation** | Record the pool edge first, then the posture of the head against the pedestal mark, then the gauge, then the keening onset. The statue itself will not change; everything observable at this stage is on the floor. |
+| **Activation or escalation** | Record the pool edge first, then the posture of the head against the pedestal mark, then the gauge, then the keening onset. Keep that conditional head-angle change distinct from the advancing pool and from locomotion; the floor is not the only observable part of the event. |
 | **Post-contact review** | Note what altered, what persisted, and what the observer could not put into words — all three are data. A report on this holding is incomplete if it records only the hazard and omits that the thing produces, at no charge, the only public consolation in Zone D, and that this is also what pays for it. |
 
 **Observation method:** Flow rate against the notch gauge, pool edge against the floor scale, head angle against the pedestal mark, collection weight at the schedule, and the visitor count for the day. The last is part of the observation record and not an administrative figure, for the reason set out below.
