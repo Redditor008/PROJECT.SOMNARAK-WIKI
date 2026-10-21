@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch167 OPEN — five frozen fresh reviews
+
+Owner p after CLOSED166 authorizes167 only. Queue: Dead Air929, Unwaking Block908, Once Upon920, Never Discharged911, Weighted Silence924. Original snapshots and five reserves frozen in B167_OPEN.json. No reviews or credits at opening. Three independent counters remain255/30184.72%(46remaining),255/28788.85%(32remaining),16/3015.32%(285remaining). Minimum five; cumulative No change ladder5→7→10 retained. Complete original/exact-source/history/final reads, source-supported improvements, individual Commentary, five validators and one verified push per unit. No167 closure below required rung; no168/merge/deployment. Later-fix backlog and301eight-owner-body one4+4/generate-before-copy blocker retained.
+
+Recovery: restored workspace blob-by-blob matched last verified remote796cf48; fetched the same session branch and aligned only local HEAD/index with mixed reset, retaining all files and owner patches. Clean tree confirmed before167 opening. No history lost or force push.
+
 ## Batch166 CLOSED — five complete reviews, twenty-six supported repairs
 
 **CLOSED 5 / 5 reviews; all five designs remain HELD.** This closes the authorized review batch, not their unresolved appearance/design relationships. All originals and complete final dossiers were read and individually validated/pushed. No change is 0 / 5; no cumulative-three extension is triggered. Each dossier has substantive bespoke narrative and interaction records. No167, merge, artwork or deployment is authorized.

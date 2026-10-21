@@ -17,79 +17,18 @@
     }
   },
   "active_batch": {
-    "number": 166,
-    "status": "CLOSED",
+    "number": 167,
+    "status": "OPEN",
     "required": 5,
     "queue": [
-      "C-Iα-114",
-      "O-IIIγ-412",
-      "N-IIβ-319",
-      "C-Iα-900",
-      "N-IIβ-919"
+      "N-IIIγ-929",
+      "N-IIIγ-908",
+      "O-IIIγ-920",
+      "O-IIβ-911",
+      "O-IIIγ-924"
     ],
-    "reviewed": {
-      "C-Iα-114": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_01_LETTER.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "O-IIIγ-412": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_02_WEDGE.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "N-IIβ-319": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_03_MAGISTRATE.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-Iα-900": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_04_VELLUM.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "N-IIβ-919": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_05_PASSING_BELL.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      }
-    },
-    "authorization": "Owner p after CLOSED165 authorizes Batch166 only; minimum five, cumulative three No change triggers5→7→10; later full recheck retained."
+    "reviewed": {},
+    "authorization": "Owner p after CLOSED166 authorizes Batch167 only; minimum five; cumulative three No change triggers5→7→10; later full recheck retained."
   },
   "dossiers": [
     {
@@ -4587,6 +4526,81 @@
       "number": 163,
       "status": "CLOSED",
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_BATCH.json"
+    },
+    {
+      "number": 166,
+      "status": "CLOSED",
+      "required": 5,
+      "queue": [
+        "C-Iα-114",
+        "O-IIIγ-412",
+        "N-IIβ-319",
+        "C-Iα-900",
+        "N-IIβ-919"
+      ],
+      "reviewed": {
+        "C-Iα-114": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_01_LETTER.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "O-IIIγ-412": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_02_WEDGE.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "N-IIβ-319": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_03_MAGISTRATE.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "C-Iα-900": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_04_VELLUM.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "N-IIβ-919": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_05_PASSING_BELL.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        }
+      },
+      "authorization": "Owner p after CLOSED165 authorizes Batch166 only; minimum five, cumulative three No change triggers5→7→10; later full recheck retained."
     }
   ],
   "equipment_reviews": [
