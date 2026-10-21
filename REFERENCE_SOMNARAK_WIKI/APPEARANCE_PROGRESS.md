@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest batch: Batch166 OPEN 5 / 5.** Fresh shortest-pending five-dossier cohort. Previous Batch165 is CLOSED 5 / 5. No new review or credit at opening. No167, merge or deployment authorized.
+**Latest batch: Batch166 CLOSED 5 / 5 reviews.** Twenty-six supported repairs; all five written designs remain HELD, with no completion or equipment credits. No change0/5 does not trigger extension. [Closure and all five receipts](SE_APPEARANCE_REVIEWS/B166_CLOSE.md). Counters remain255/301,255/287 and16/301. Earlier OPEN166/unit snapshots below are historical. No167, merge or deployment authorized.
 
 Owner direction, 2026-10-18: start a new X/X for SE appearance fixes and name the older counters by their M.A.W. scope.
 
@@ -1148,3 +1148,7 @@ Counters unchanged: Types 255 / 301 (84.72%; 46 / 301 remain); Weapon 255 / 287 
 ### Batch166 unit5 — OPEN5/5
 
 [Passing Bell evidence](SE_APPEARANCE_REVIEWS/B166_05_PASSING_BELL.md): HELD, 7repairs, five checks and complete final read. No change0/5; source-review counters255/301and255/287, independentSE16/301. Pending is not No change; later full recheck retained.
+
+## Batch166 CLOSED 5 / 5
+
+26 repairs, five HELD, No change0/5. 25 fresh closure validators and54 repository tests PASS;296 unselected primaries and five reserves unchanged;300 Physical Form rows preserved,919 non-corporeal label qualified from explicit source evidence. [Evidence, Commentary and exact checks](SE_APPEARANCE_REVIEWS/B166_CLOSE.md). No167 authorized.

@@ -54,3 +54,7 @@ The filename remains `R-26_FIVE_THEN_SEVEN_THEN_TEN.md` because other files refe
 ## Batch165 application — 2026-10-21
 
 Closed at 5 / 5 after all five individual verified pushes, complete original/final readings and 25 fresh closure validators. No change is 0 / 5, so the three-dossier extension trigger is not met. All five have full interaction records and substantive bespoke narratives; the older simple-cohort test does not call for expansion. Three written-design completions and two held designs are distinct from the five completed reviews. The owner's p authorized Batch165 only; no166, merge or deployment. See [closure evidence](../SE_APPEARANCE_REVIEWS/B165_CLOSE.md). Later full recheck and Batch301's eight-body blocker remain.
+
+## Batch166 application — 2026-10-21
+
+CLOSED5/5 reviews after five individually verified pushes and whole original/final reads;25 fresh closure validators and54 tests PASS. No change0/5 does not meet the cumulative-three extension trigger. All five contain substantial bespoke narrative and interaction records, not a simple cohort. Twenty-six supported repairs do not clear the five unresolved designs or earn body/equipment credit. Owner p authorizes166 only, no167/merge/deployment. [Closure evidence](../SE_APPEARANCE_REVIEWS/B166_CLOSE.md). Later recheck and301owner-eight-body blocker retained.

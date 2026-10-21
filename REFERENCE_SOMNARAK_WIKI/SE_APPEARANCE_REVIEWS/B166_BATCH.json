@@ -1,6 +1,6 @@
 {
   "batch": 166,
-  "status": "OPEN",
+  "status": "CLOSED",
   "required": 5,
   "completed": 5,
   "no_change": 0,
@@ -151,7 +151,9 @@
       },
       "no_change": false,
       "link": "[[SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-114_A_Letter_Never_Sent_%EB%B6%80%EC%B9%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%ED%8E%B8%EC%A7%80.md \"SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md\")]",
-      "table_link": "[A_Letter_Never_Sent](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-114_A_Letter_Never_Sent_%EB%B6%80%EC%B9%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%ED%8E%B8%EC%A7%80.md \"SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md\")"
+      "table_link": "[A_Letter_Never_Sent](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-114_A_Letter_Never_Sent_%EB%B6%80%EC%B9%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%ED%8E%B8%EC%A7%80.md \"SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md\")",
+      "unit_commit": "d006b9b040b9ad8629fde879aacb7cec34736e41",
+      "push": "PUSH VERIFIED"
     },
     {
       "designation": "O-IIIγ-412",
@@ -220,7 +222,9 @@
       },
       "no_change": false,
       "link": "[[SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-412_The_Wedge_That_Held_%EB%81%9D%EB%81%9D%EB%82%B4_%EB%B2%84%ED%8B%B4_%EC%90%90%EA%B8%B0.md \"SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md\")]",
-      "table_link": "[The_Wedge_That_Held](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-412_The_Wedge_That_Held_%EB%81%9D%EB%81%9D%EB%82%B4_%EB%B2%84%ED%8B%B4_%EC%90%90%EA%B8%B0.md \"SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md\")"
+      "table_link": "[The_Wedge_That_Held](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-412_The_Wedge_That_Held_%EB%81%9D%EB%81%9D%EB%82%B4_%EB%B2%84%ED%8B%B4_%EC%90%90%EA%B8%B0.md \"SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md\")",
+      "unit_commit": "9f484e1a67eb97837a1b9e96091fcce0f99a2b2c",
+      "push": "PUSH VERIFIED"
     },
     {
       "designation": "N-IIβ-319",
@@ -293,7 +297,9 @@
       },
       "no_change": false,
       "link": "[[SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-319_The_Magistrates_Strike-Through_%ED%8C%90%EA%B4%80%EC%9D%98_%EC%B7%A8%EC%86%8C%EC%84%A0.md \"SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선.md\")]",
-      "table_link": "[The_Magistrates_Strike-Through](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-319_The_Magistrates_Strike-Through_%ED%8C%90%EA%B4%80%EC%9D%98_%EC%B7%A8%EC%86%8C%EC%84%A0.md \"SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선.md\")"
+      "table_link": "[The_Magistrates_Strike-Through](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-319_The_Magistrates_Strike-Through_%ED%8C%90%EA%B4%80%EC%9D%98_%EC%B7%A8%EC%86%8C%EC%84%A0.md \"SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선.md\")",
+      "unit_commit": "5863b54f9fc8abbd5c34109b43b802a6c3c345d9",
+      "push": "PUSH VERIFIED"
     },
     {
       "designation": "C-Iα-900",
@@ -378,7 +384,9 @@
       },
       "no_change": false,
       "link": "[[SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-900_Vellum_Man_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%B4%EC%95%BC%EA%B8%B0%EA%BE%BC.md \"SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼.md\")]",
-      "table_link": "[Vellum_Man](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-900_Vellum_Man_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%B4%EC%95%BC%EA%B8%B0%EA%BE%BC.md \"SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼.md\")"
+      "table_link": "[Vellum_Man](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-900_Vellum_Man_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%B4%EC%95%BC%EA%B8%B0%EA%BE%BC.md \"SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼.md\")",
+      "unit_commit": "ea779b92c6c0aefd7874a1109d31b063bf5825cc",
+      "push": "PUSH VERIFIED"
     },
     {
       "designation": "N-IIβ-919",
@@ -471,7 +479,11 @@
       },
       "no_change": false,
       "link": "[[SE-N-IIβ-919_Passing_Bell_조상의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-919_Passing_Bell_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%8B%9C%EA%B0%84.md \"SE-N-IIβ-919_Passing_Bell_조상의_시간.md\")]",
-      "table_link": "[Passing_Bell](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-919_Passing_Bell_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%8B%9C%EA%B0%84.md \"SE-N-IIβ-919_Passing_Bell_조상의_시간.md\")"
+      "table_link": "[Passing_Bell](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-919_Passing_Bell_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%8B%9C%EA%B0%84.md \"SE-N-IIβ-919_Passing_Bell_조상의_시간.md\")",
+      "unit_commit": "e336074913a570116105b8b16521837c4672c4ea",
+      "push": "PUSH VERIFIED"
     }
-  ]
+  ],
+  "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_CLOSE.md",
+  "closure_json": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_CLOSE.json"
 }
