@@ -8,6 +8,31 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch170 unit3 — Survivor's Span `N-IIβ-993`
+
+[[SE-N-IIβ-993_Survivors_Span_무너진_다리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-993_Survivors_Span_%EB%AC%B4%EB%84%88%EC%A7%84_%EB%8B%A4%EB%A6%AC.md "SE-N-IIβ-993_Survivors_Span_무너진_다리.md")]
+
+**Original/source review and predeclared R18 scope:** Full407-line original and full993A–D read, MasterMAW514–516/Entity540/Tale172 and source history. Trace survivor guilt→explicitSubjectmanunderwreck→lane/drip/shouldercarry→loop/breach→pairedWork/names/authorizedrecovery→derivedgear. Predeclared R18 0batch-short/13careful-detail: supported βoverview, conditionalmovement, two broken identification/protocol seams, concrete bearer/burden/current-vsTale appearance, bridge-place breach quote/movement, source-based response instead offorcedPugnahan, nonexclusiveColossusclaim, ZoneB/moderate/currentWork registry and itemcare/cost distinction. No transform invented.
+
+**Sources/history:** Fresh exact993source pair/fullset review. Complete CHANGELOG/WIP designation/title/MAW-W-993/993B history search finds only ordinary62substitution prose-personalization entry4859→5966 and management formatting, not earlier equipmentcoverage; equipment_reviews has no993. Prior prose is not legacy credit. FullA/B/C/D read, CSV1131–1134, W993MediumOrrery vs primary/BSHORT2, Masterindex514Orrery/detailBridgeMaul, Entity540andTale172 read; disposition353Neutralinbound/laterstaircondition preserved. Pathhistory10cd20a only. Thus new +1Types/+1Weapon, no SE/body/art credit.
+
+**What changed:** Fill supported βgrade; distinguish man-like moving Subject from the broken roadway he carries, lane/drip/shoulder signs and nonroutine forced drops. Replace crossing-a-bridge breach instructions with the recorded walking load and names response. Repair broken protocol prose, current ZoneB/moderate registry and set-down exclusivity; retain source-specific itemcost/attribution care without declaring Orrery/hammer equivalence.
+
+**Final whole-file reasoning:** HELD: explicit ordinary-man frame is supported by this story, not imposed by a human-sorrow rule. Carried stone burden and compact derived model may differ legitimately. Same-item hammer/Orrery claims, fixedrange/mobile series, load measurement and casualty ability still require evidence. New equipment coverage records the complete review, not design completion.
+
+**Holds / later recheck:**
+- Primary and MasterTale immobilefarshore versus presentloop/unchangedfixedmap Watch; historicaltheme may differ but no dated transition invented. Loopwidening/noexits versus twobreaches/fixedrange; constantload versus addedcorridorceiling; sensorweight versus unmeasurabletraffic/Triviaweightless.
+- Natural set-down onceinfive versus only Colossusclaim narrowed for that co-location, but no universal timing guarantee; loop1.2m/s versus stat1.45 and map/nineteen-year/Y4206/Y4238 chronology remain unresolved.
+- Standing on crossableBridge action rows versus Subjectcarriedwreck, safeunderwreckFerrehan versus threeworkerspulledout and particular blame-versusinnocence wording require action/state scope.
+- Orreryprimary/Bappearance versus hammerAbility/Cost, Maulbinding/Masterdetail and W993Medium vs Short2 have no documentedmode. Bheaviness/aging versus cannotsetdowncost remain distinct.
+- CharmlocalteamResolve/excludingbearer and fatalsharedcasualty guarantee versus D+1sourceworkboon; roadfragmentphysicalform notspecifiedinD; genericAccessory/Head and eligibility/history not normalized.
+
+**Commentary:** Here a human-like bearer is actually warranted: the inquiry cleared a man who cannot stop carrying its verdict. The painted lane line and payroll-order names make that burden specific. I kept the investigation open rather than turning the dossier into a generic monster or declaring guilt deserved.
+
+**Checks and integrity:** Five actual verify/tpl/sectfile/wikistd/sect PASS, full final read after checks, final hash matches. 13 exact replacements; LC_ALL=C words5861→6319. Source hashes and unchanged digit streams retained. Detailed evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_03_SURVIVORS_SPAN.md`. Gate/push follows. Written-design review, not artwork/render/browser/game/live-site inspection. Equipment+1/+1;SE+0, no duplicate/retroactive/body/art credits.
+
+**Progress:** OPEN3/5, No change0/3. Three counters Types256/301=85.05%(45remain),Weapon256/287=89.20%(31remain),SE16/301=5.32%(285remain). No171/merge/deployment/artwork. Later full recheck and301eight-owner-body/one4+4/generate-before-copy blocker retained.
+
 ## Batch170 unit2 — Miasma `C-IVδ-922`
 
 [[SE-C-IVδ-922_Miasma_우는_안개](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-922_Miasma_%EC%9A%B0%EB%8A%94_%EC%95%88%EA%B0%9C.md "SE-C-IVδ-922_Miasma_우는_안개.md")]

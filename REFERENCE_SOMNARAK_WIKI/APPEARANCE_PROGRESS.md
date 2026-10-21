@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch170 OPEN2/5.** Owner p after CLOSED169 authorizes170 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains. [Opening evidence](SE_APPEARANCE_REVIEWS/B170_OPEN.json). No new credit.
+**Latest: Batch170 OPEN3/5.** Owner p after CLOSED169 authorizes170 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains. [Opening evidence](SE_APPEARANCE_REVIEWS/B170_OPEN.json). No new credit.
 
 **Latest batch: Batch169 CLOSED 5 / 5.** 48 supported replacements, five HELD whole designs, No change0/5; no new equipment/SE credits. [Closure evidence](SE_APPEARANCE_REVIEWS/B169_CLOSE.json). No170/merge/deployment.
 
@@ -1235,3 +1235,7 @@ CLOSED5/5;48replacements, fiveHELD whole designs, No change0/5. 26,608→28,257w
 ### Batch170 unit2 — OPEN2/5
 
 [Miasma evidence](SE_APPEARANCE_REVIEWS/B170_02_MIASMA.md): HELD, 12 supported replacements, five actual checks and full final reading. No change0/2. No credits inferred.
+
+### Batch170 unit3 — OPEN3/5
+
+[Survivor's Span evidence](SE_APPEARANCE_REVIEWS/B170_03_SURVIVORS_SPAN.md): HELD, 13 supported replacements, five actual checks and full final reading. No change0/3. No credits inferred.

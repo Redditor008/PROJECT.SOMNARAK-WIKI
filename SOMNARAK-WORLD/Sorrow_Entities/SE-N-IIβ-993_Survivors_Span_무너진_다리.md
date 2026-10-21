@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A weeping figure shaped like a collapsed bridge — a body of cracked stone and twisted span draped across its shoulders, weeping as it walks under the weight. Lead-cold, it smells of wet stone; it carries a crossing that failed, and cannot set it down. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — walks upright on its watched tunnel loop; breaches have followed the heaviest carried load. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
 | **Recommended response** | Flerehan, worked by two people rather than one. The gauge falls when the burden is visibly divided and does not fall when it is merely witnessed — a single worker weeping alone has never moved it more than three points. Open with the names and keep the list in hand; the Span has corrected a misread name twice. |
@@ -98,6 +98,13 @@
 - An unresolved cycle leaves the Span walking. It does not hide and it does not hunt; it paces the tunnel loop at roughly 1.2 m/s until the next team arrives, and the loop has widened by about forty metres a year since the file opened.
 
 ## Appearance
+
+**Bearer and burden:** The current tunnel record shows an ordinary man-sized frame under a much wider broken roadway. Cracked span-stone, twisted reinforcement and the unbroken painted lane line identify what it carries. The weeping figure is the Subject, not a usable crossing; the bridge wreck is its burden. Current tunnel observations do not establish a safe crossing over the figure; the crossing-based action rows remain unreconciled. Its clear tears and dripping sound do not leave a trailing puddle.
+
+**Posture changes are the warning:** Follow the shoulders rather than inventing a new breach anatomy. The watched loop, the single-shoulder slip, the dropped wreck after a confrontation and the seated voluntary set-down are distinct recorded conditions. A forced drop is a recovery hazard, not a successful calming cycle. The carried wreck and the invisible traffic must also be kept separate: a stone wreck is visible, while the extra load is described through strain and conflicting measurement claims.
+
+**The crossing in the Tale:** The far-shore survivor supplies the sorrow of having lived; the present loop supplies the observed moving silhouette. The record does not date a transformation from one posture into the other, and its own fixed-range watch claims still need reconciliation. Neither an Orrery nor a shoulder harness is evidence of another source-body form.
+
 **Primary Form:** A weeping figure shaped like a collapsed bridge, carrying broken spans across its shoulders.
 
 **Notable Features:** It waits beneath tunnels, bears invisible traffic, and cries for those unable to cross.
@@ -119,9 +126,9 @@
 | **Position / movement** | Walking the tunnel loop clockwise at about 1.2 m/s, never pausing at the same place twice in a shift except the junction where the Low Crossing's approach used to begin. |
 | **Material / signature** | Cracked span-stone and twisted reinforcement, lead-cold, smelling of wet stone and of the tunnel's own water. It drips continuously and the water is never found on the floor behind it. |
 | **Distinctive markers** | The road surface across its shoulders still carries its painted lane line, unbroken, which is how the Low Crossing was identified from the wreck it carries. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | Confirm the carried lane-marked wreck, the waterless drip and the shoulder position. Read the lost names in payroll order before the junction approach; neither a bridge-shaped weapon nor a guilt response alone identifies the Subject. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the junction, both- or single-shoulder carry, lane-line orientation and any slide of the wreck. Take the posture before the Gauge trend: the recorded lag has hidden a slide, and a falling reading is not clearance to stand under the roadway. Keep the name list available without raising the lamps toward the figure.
 
 ## Origin
 - **Formation:** The entity formed from a bridge collapse remembered by one survivor.
@@ -148,12 +155,12 @@ The table's one surprise is Pugnahan, which raises the gauge and is still occasi
 **Reading the response:** The reading that matters is not the gauge but the carry. Both shoulders means the cycle is holding; one shoulder means the Span is tiring and the wreck may come down inside four minutes; the wreck set down and the Span seated means the cycle has succeeded and the team should leave without speaking further. The gauge lags all three signs by two to three minutes and has twice reported a falling trend while the wreck was already sliding.
 ## Breach Behavior
 
-> *"Collapsed Bridge has broken free. Collapses under anyone who crosses."*
+> *"Survivor's Span has left the loop. Watch the carried wreck and read the names; the upper corridors were not rated for that load."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Survivor's Span tears loose and pursues personnel with deliberate steps. It collapses under anyone who crosses. |
+| **Movement** | The Span leaves its monitored loop with deliberate steps toward the heaviest carried load. Its recorded danger is the wreck and the structure accumulated along the route, not a bridge surface offered for crossing. |
 | **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
 | **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
 | **First Target** | Whoever is carrying the most — literally. It goes to the member of the team with the heaviest pack before it goes to the nearest, and in the two breaches on file it walked past three people to reach a Warden with a stretcher. |
@@ -162,7 +169,7 @@ The table's one surprise is Pugnahan, which raises the gauge and is still occasi
 ### Escalation Notes
 
 - **Breach type:** Escape, and the slowest escape in the registry. Both breaches were discovered by the sound of the drip in an upper corridor, hours after the Span had left the loop, and both were ended by a Warden reading the names aloud in a stairwell.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
+- **Containment priority:** Keep personnel out of the loaded route and have the Warden read the names, the response that ended both recorded breaches. Do not use a forced recovery drop as routine containment: Pugnahan raises the Gauge and still requires the Zone B lead’s written authorization for recovery.
 - **Sorrow Gauge on breach:** It leaves the loop at 40% and the figure barely moves afterward — 44% at the end of the longer breach, nine hours in. The danger of a Span breach is structural load in corridors never rated for it, not gauge escalation.
 
 ## M.A.W. Equipment
@@ -235,6 +242,8 @@ The Span's set is the only one in the Zone B armoury that is explicitly issued a
 | **After use** | The recitation test at one hour: the bearer is asked for the thirty-one and the order is checked against payroll. A bearer who produces names they were never issued is referred to Zone B medical the same shift. |
 
 **Stat interpretation:** Read this set's numbers as a floor rather than a rating. Nothing here hits hard and nothing here breaks; the harness is the most survivable β suit in the Zone B inventory by a wide margin, and that is precisely the risk, because it keeps bearers in rooms they should have left.
+
+**Item records and attribution:** The exact Weapon record supports the Orrery's miniature and floating keystone but still calls it the Bridge Maul in its binding and care text. It records heaviness and slight aging, not the primary hammer's refusal to be set down. Keep both accounts open; a changed title is not a documented transformation. The Brace and Charm separately warn against taking the survivor's story as autobiography. Before maintenance retain the bearer, trigger, response, cost and unresolved detail; a named witness states the source and event during relinquishment. Sharing the names honours the dead without accepting that survival proves personal fault. The Charm's exact record grants a source-work boon; it does not certify the local fatal shared-casualty claim as protection.
 
 ## 관찰 기록 (Observation Log)
 
@@ -315,7 +324,7 @@ The three entries below are the full interaction record for nineteen years, whic
 |---|---|---|---|
 | **The Sunken Bridge** | Both preserve failed crossings. | They walk the loop in step for as long as they can hear each other and neither carries less for it. Nothing spreads beyond the two — the corridor gauges stayed flat through all three co-locations — and the Span resumes its own pace within a minute of separation. | The step interval, and whether either set the wreck down. |
 | **The Rising Bridge** | Remembers the road before its collapse. | The lane line on the Span's shoulders reads unbroken and continuous while the Rising Bridge is present, and the Span walks faster. Seven of the thirty-one names were recovered during these two hours, from signage the Rising Bridge restored. The effect ends at separation and the names remain. | Which signage resolved, and the names taken from it. |
-| **The Grieving Colossus** | Pauses and shares its burden. | The only occasion on which the Span has set the wreck down without being struck. It stood unburdened for eleven minutes beside the Colossus, picked the wreck up again unprompted, and resumed the loop. The gauge fell nine points and stayed down for two shifts. | The duration unburdened, and the gauge trend across the following week. |
+| **The Grieving Colossus** | Pauses and shares its burden. | This co-location produced a voluntary set-down, distinct from a forced recovery drop. It stood unburdened for eleven minutes beside the Colossus, picked the wreck up again unprompted, and resumed the loop. The gauge fell nine points and stayed down for two shifts. | The duration unburdened, and the gauge trend across the following week. |
 
 **Interaction procedure:** Record the carry before, during and after, timed to the second, and record whether the Span resumed the loop at the same junction it left. Everything else this file has learned from co-location came from those two observations.
 
@@ -349,11 +358,11 @@ Some sorrows mourn the dead. Survivor's Span mourns the living — the survivor 
 
 **Classification:** Sorrow Entity — `N-IIβ-993 [WS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Subject-Lament manifestation
 **Common Name:** Survivor's Span
-**Containment Status:** Contained — Zone D
+**Containment Status:** Monitored — Zone B, deep tunnels
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Low. A survivor stands on the far shore, carrying those who fell. Effect: proximity induces survivor’s guilt.
+**Threat Assessment:** Moderate. The watched Subject carries the failed crossing through the tunnels; guilt exposure and structural load both matter. The historical far-shore image is not a low-risk clearance for its present route.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type.
+- Use shared-weight Ferrehan or paired Flerehan under the recorded Work plan; neither witnessing alone nor assigning blame replaces taking a share. Recovery by Pugnahan needs its own written permission.
 - Do not argue with the guilt; it is structural.
 **Observation Notes:**
 - A tunnel bridge failed; one survivor carries the weight of all who fell.

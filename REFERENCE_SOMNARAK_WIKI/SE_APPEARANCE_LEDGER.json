@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IIβ-993": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_03_SURVIVORS_SPAN.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Owner p after CLOSED169 authorizes170 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains."
@@ -3054,8 +3066,32 @@
     {
       "designation": "N-IIβ-993",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-993_Survivors_Span_무너진_다리.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: explicit ordinary-man frame is supported by this story, not imposed by a human-sorrow rule. Carried stone burden and compact derived model may differ legitimately. Same-item hammer/Orrery claims, fixedrange/mobile series, load measurement and casualty ability still require evidence. New equipment coverage records the complete review, not design completion.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_03_SURVIVORS_SPAN.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/993_Survivor_s_Span/SE-993-A__SIDE_CODEX_Survivor_s_Span.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/993_Survivor_s_Span/SE-993-B__MAW-W_The_Bridge_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/993_Survivor_s_Span/SE-993-C__MAW-S_The_Bridge_Brace.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/993_Survivor_s_Span/SE-993-D__MAW-G_The_Bridge_Charm.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIγ-903",
@@ -5341,6 +5377,14 @@
       "batch": 164,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_03_BROKEN_MIRROR.md",
       "history_proof": "Identity: numeric081 set is Hollow Saint C-IIIγ-081, NOT this source. Exact1009A–D explicitly name C-IIα-081 [VO] and match Reflection Lens/Veil/Shard; all four fully read. Master100–102 inventory/detail, Entity398, complete Tale34, CSV198–201, archetype409 and disposition296 read. Fresh exactSE-1009-B/MAW-W-1009-01/HonestReflection/ReflectionLens/full-designation search across all six current/archived WIP+CHANGELOG, reference Markdown, all-ref commit subjects and independent ledger found no earlier comparative source review. ArchivedB56unit7 d986423 is R29series retained7703words, not equipment comparison. HollowSaint SE081B/B86/B120 is a different full identity and cannot confer this credit. This fresh whole-primary/exact-set comparison earns+1Types/+1Weapon, no body backfill.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "N-IIβ-993",
+      "batch": 170,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_03_SURVIVORS_SPAN.md",
+      "history_proof": "Fresh exact993source pair/fullset review. Complete CHANGELOG/WIP designation/title/MAW-W-993/993B history search finds only ordinary62substitution prose-personalization entry4859→5966 and management formatting, not earlier equipmentcoverage; equipment_reviews has no993. Prior prose is not legacy credit. FullA/B/C/D read, CSV1131–1134, W993MediumOrrery vs primary/BSHORT2, Masterindex514Orrery/detailBridgeMaul, Entity540andTale172 read; disposition353Neutralinbound/laterstaircondition preserved. Pathhistory10cd20a only. Thus new +1Types/+1Weapon, no SE/body/art credit.",
       "all_types_credit": true,
       "weapon_credit": true
     }
