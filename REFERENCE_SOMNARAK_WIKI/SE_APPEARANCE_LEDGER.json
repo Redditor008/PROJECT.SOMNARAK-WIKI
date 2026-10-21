@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-Iα-631": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B161_03_ERRANT.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B161_OPEN.json"
@@ -3625,8 +3637,32 @@
     {
       "designation": "O-Iα-631",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-631_Errant_사라진_뿌리.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Eight repairs: replaced generic crawl/prowl/pursuit with documented surfacing/sinking and downwardbreach in classification, Consequences and BreachMovement; filled αequipmentoverview. Named supported +1Resolve Charm bonus. Final Observation now requires present belonging without denial of past and uses observed reaching instead of misclassifying StablePugnahan retraction as escalatingfailure. UseNotes separate piece-specific binding, consent, tolls, expiredanchor and voluntaryexit from local universalhold/quartersreport.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B161_03_ERRANT.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-631-A__SIDE_CODEX_Errant.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-631-B__MAW-W_The_Rootless_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-631-C__MAW-S_The_Rootless_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-631-D__MAW-G_The_Rootless_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-Iα-643",
@@ -4027,6 +4063,14 @@
       "batch": 161,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B161_02_GRASP.md",
       "history_proof": "Fresh exactSE762A–D/fullset and SE762B/MAW-W-762-01 comparison, no prior independent ledgerrow; current and both archived WIP/CHANGELOG hits concern management-clause cleanup, family-shape survey or disposition, not comparativeequipmentreview. Prior same-sorrow mentions in IAloneCrossedSE106 are not this pair. Earn +1Types/+1Weapon, SE0; no retroactive credit.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "O-Iα-631",
+      "batch": 161,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B161_03_ERRANT.md",
+      "history_proof": "Fresh independent exactSE631A–D/fullset and SE631B/MAW-W-631-01 review; no earlier sourcecoverage disposition found in current/archived logs or ledger. Managementclause cleanup was not an equipmentpaircomparison. Earn +1Types/+1Weapon/+0SE; no newbodycompletion inferred.",
       "all_types_credit": true,
       "weapon_credit": true
     }

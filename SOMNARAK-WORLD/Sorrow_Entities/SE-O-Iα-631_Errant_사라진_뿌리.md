@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A ghostly root-creature built of pale trailing roots, lower half fading, upper reaching with root-fingers — a grasping beast of root. Lead-cold, it smells of wet stone. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Surfaces through floors, reaches, then sinks again. The recorded breaches descend through floors; ordinary crawling, walking and pursuit are not established by those records. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 10–14 per cycle, flat across nine years and unaffected by anything the wing has tried: Work Type, time of day, the fade line, the number of people in the room. It is the most boring column in the file and the only one that has never once surprised anybody. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · α (Minor) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
 | **Recommended response** | Name the place you live now, out loud, and stay. Ferrehan and Flerehan both work and both reduce to that; what fails, reliably and sharply, is any attempt to speak to the root about where it came from. |
@@ -94,7 +94,7 @@
 - The failure here is a worker who answers the wrong question. Asked where they live, they say where they are from; the root reaches for them within the minute, every time, in all eleven logged instances. The wing considers this the single most reproducible result in the holding's record.
 - Extended contact invites the full manifestation, which at this potency is less dramatic than it is persistent: the root takes hold of the worker rather than the floor, and the hold registers as a slow conviction that the worker does not really live where they live.
 - Every M.A.W. activation extracts a real price — recollection, sensation, years — catalogued in the equipment file and paid in the field. From this source the charge is made in attachment: wielders find their own address, their own neighbourhood, their own history increasingly difficult to feel strongly about.
-- Without resolution the entity escapes and roams, which is the breach type on the classification. It sinks through floors and surfaces elsewhere, and it does not travel toward any exit; the pattern across every recorded escape is a slow circuit of rooms, reaching, in no order anyone has been able to map.
+- Without resolution the entity can escape downward through floors. Both recorded breaches ended with it motionless in an unpacked storage room in the sub-levels; they do not establish a roaming circuit or a hunt toward an exit.
 
 ## Appearance
 **Physical Form:** A ghostly root-creature of pale trailing roots, lower half fading, upper reaching with root-fingers. **Movement:** It waits, then grasps; it sinks through floors to reappear elsewhere.
@@ -152,7 +152,7 @@ The table is accurate and incomplete in a way the wing has stopped trying to fix
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Errant bursts free and crawls or slithers in search of prey. It grasps at ankles, dragging personnel down. |
+| **Movement** | Errant descends through floors rather than hunting along corridors. Its reaching and downward drag remain hazards; record the affected floor and the lowest unoccupied storage level. |
 | **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
 | **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
 | **First Target** | The person in the room who has been posted to this facility for the shortest time, in 34 of 37 logged reaches. The three exceptions were all workers who had transferred in from another district that month and whose posting length, on paper, was long. |
@@ -217,7 +217,7 @@ Weighing nearly eighteen pounds, the cleaver relies on pure downward kinetic mas
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat on this holding's cycles and nothing elsewhere, which on a piece cut from a thing that never attached to anything the Armoury considers thematically unsurprising and operationally annoying
+**Effect:** +1 Resolve while working Errant, and nothing elsewhere; the bonus does not designate a rightful home or make an anchor permanent.
 
 **Ability:** Prevents forced displacement and spatial confusion.
 
@@ -227,7 +227,7 @@ Weighing nearly eighteen pounds, the cleaver relies on pure downward kinetic mas
 
 ### M.A.W. Use Notes
 
-Three pieces exist, all cut from the same reach in Year 4,230, and the Armoury's review of them is two sentences long: they hold well to whatever they are first fitted to and then they stop, and the cost is that the wielder stops unpacking. The set is still issued, under a standing condition that no wielder holds a piece for more than one rotation and that quarters are inspected at the end of it. Four inspections have been failed.
+The local review records three pieces cut from the same reach in Year 4,230, their temporary hold, and a failure to unpack. Those observations are not a shared cost specification. The disputed Weapon source requires a chosen current anchor and its holder’s consent, charges increasing mass and slight aging, and forbids use as a stake to make that anchor permanent. The Mantle bears displacement Weight for named people, task and duration; fatigue and difficult rest are recorded costs, and its threads seeking floor cracks signal an expired anchor. The Charm blocks forced displacement, not chosen departure or all current danger; it charges the felt loss of former places and must not be stacked. A companion asks for release rather than orders it. The local one-rotation issue limit and end-of-rotation quarters inspections remain; four inspections have failed. Neither those inspections nor the set can choose where someone belongs.
 
 ### Field Use Record
 
@@ -284,9 +284,9 @@ The Mask Market traders know it is down there and have for years. They do not wa
 
 > The choice comes when the root reaches and the question is asked. It is asked of whoever has been posted here the shortest time, it is always the same question, and the wing does not brief new workers on it in advance.
 
-| Say where you live now, and stay where you are standing. | Say where you are from, and feel yourself want to leave. |
+| Name a present belonging without denying the past, and stay where you are standing. | Offer an old address as the answer to where you live now. |
 |---|---|
-| Reaches gently and steadies. The sorrow is borne; Errant is fully recorded. | Retracts into the floor. The gauge climbs and Errant withdraws without revelation. |
+| Reaches gently and steadies. The sorrow is borne; Errant is fully recorded. | The root reaches toward the worker; the old address has not supplied a present anchor, and the observation fails. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
