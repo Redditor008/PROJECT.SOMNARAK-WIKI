@@ -1,0 +1,72 @@
+{
+  "batch": 171,
+  "base": "54809a74ac42470cbd19cbbed0927a3a184d5d43",
+  "authorization": "Owner p after CLOSED170 authorizes171 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains.",
+  "pending": 170,
+  "selection": "Fresh pending-only shortest LC_ALL=C wc-w order; designation tie break; not defect ranking.",
+  "queue": [
+    {
+      "designation": "C-IIIγ-912",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md",
+      "words": 6108,
+      "sha256": "ee4326ffdb55775322007487a012c156059a80c98d8c663a891ba86120ddf782"
+    },
+    {
+      "designation": "O-Iα-453",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-453_Floating_Fragment_떠다니는_파편.md",
+      "words": 6150,
+      "sha256": "14d4484455c44950bf5b2d6f795a95556fcdb5363fc07271980d09cbb9fbe360"
+    },
+    {
+      "designation": "N-IIIβ-247",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IIIβ-247_The_Undelivered_Thanks_전하지_못한_감사.md",
+      "words": 6195,
+      "sha256": "9c57ed47f2d96b24ef0288170d7bdb21d25eb97ed124d18cad7a829182664253"
+    },
+    {
+      "designation": "C-IIIγ-928",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-928_Lethe_혼란의_독기.md",
+      "words": 6231,
+      "sha256": "5a392edce147cb64c86abfc9360d6ebceb7d26af694bfeed3aceffbde3ebd158"
+    },
+    {
+      "designation": "C-Iβ-071b",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md",
+      "words": 6233,
+      "sha256": "30da933ca6164d82c0cd6ceeff79ef0a63257f4bfd0991d831ae77195d8fce38"
+    }
+  ],
+  "reserves": [
+    {
+      "designation": "C-IIβ-777",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-777_Last_Fruit_타오르는_열매.md",
+      "words": 6246,
+      "sha256": "52695495e62658e96bb56dfb1474a4ca75cc502569180f5099bb6b5c18c84429"
+    },
+    {
+      "designation": "C-IIIγ-921",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md",
+      "words": 6249,
+      "sha256": "cd6d65dc7b4f0921bf954a363e45bc8afd70c9e621da20415fd33113f9e19392"
+    },
+    {
+      "designation": "O-IIIγ-233",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼.md",
+      "words": 6257,
+      "sha256": "2f3c13ccff90d525f9597a424db71dd73215a59b1c18705ffd268df1d4f13238"
+    },
+    {
+      "designation": "O-Iα-554",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-554_Fallow_녹슨_씨앗.md",
+      "words": 6290,
+      "sha256": "71c209686dcbb7ef4fa63a7dd80b72d9624c025c36fcce5013085b3042bf994b"
+    },
+    {
+      "designation": "C-Iα-622",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-622_Vanished_Tree_사라진_나무.md",
+      "words": 6310,
+      "sha256": "ce18398cf1661f184b693cfb7ce02720a27d33a2c4f655d3b66e99cd8e2e3001"
+    }
+  ],
+  "restoration": "Clean checkout matched verified170closure54809a74; no recovery needed."
+}

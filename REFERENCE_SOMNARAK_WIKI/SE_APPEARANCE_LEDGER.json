@@ -17,80 +17,18 @@
     }
   },
   "active_batch": {
-    "number": 170,
-    "status": "CLOSED",
+    "number": 171,
+    "status": "OPEN",
     "required": 5,
     "queue": [
-      "N-IVδ-927",
-      "C-IVδ-922",
-      "N-IIβ-993",
-      "O-IIβ-378",
-      "C-IIIγ-913"
+      "C-IIIγ-912",
+      "O-Iα-453",
+      "N-IIIβ-247",
+      "C-IIIγ-928",
+      "C-Iβ-071b"
     ],
-    "reviewed": {
-      "N-IVδ-927": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_01_DREAMING_PLAGUE.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IVδ-922": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_02_MIASMA.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "N-IIβ-993": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_03_SURVIVORS_SPAN.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "O-IIβ-378": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_04_DROWNED_ECHO.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IIIγ-913": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_05_BACKWARD_HOUR.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      }
-    },
-    "authorization": "Owner p after CLOSED169 authorizes170 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains.",
-    "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_CLOSE.json"
+    "reviewed": {},
+    "authorization": "Owner p after CLOSED170 authorizes171 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains."
   },
   "dossiers": [
     {
@@ -5328,6 +5266,82 @@
       },
       "authorization": "Owner p after CLOSED168 authorizes169 only. Minimum five, cumulative three No change5→7→10; later full recheck retained.",
       "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B169_CLOSE.json"
+    },
+    {
+      "number": 170,
+      "status": "CLOSED",
+      "required": 5,
+      "queue": [
+        "N-IVδ-927",
+        "C-IVδ-922",
+        "N-IIβ-993",
+        "O-IIβ-378",
+        "C-IIIγ-913"
+      ],
+      "reviewed": {
+        "N-IVδ-927": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_01_DREAMING_PLAGUE.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "C-IVδ-922": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_02_MIASMA.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "N-IIβ-993": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_03_SURVIVORS_SPAN.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "O-IIβ-378": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_04_DROWNED_ECHO.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "C-IIIγ-913": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_05_BACKWARD_HOUR.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        }
+      },
+      "authorization": "Owner p after CLOSED169 authorizes170 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains.",
+      "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_CLOSE.json"
     }
   ],
   "equipment_reviews": [

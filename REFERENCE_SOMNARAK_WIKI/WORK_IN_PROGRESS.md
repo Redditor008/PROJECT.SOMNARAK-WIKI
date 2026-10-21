@@ -1,4 +1,12 @@
 # Work In Progress
+## Batch171 — OPEN0/5
+
+Owner p after CLOSED170 authorizes171 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains.
+
+Frozen order: C-IIIγ-912(6108words), O-Iα-453(6150words), N-IIIβ-247(6195words), C-IIIγ-928(6231words), C-Iβ-071b(6233words). Ten originals/hashes saved, firstfive selected/fivereserved. Complete source/body/action/equipment review and original/final readings, five actual checks, Commentary and individual verified pushes required. R18 predeclare per unit; R33 technicalPASS≠logical completion; donor/gear silhouettes may differ, same-item conflicts require evidence. Pending not No change; no forced edits or premature close.
+
+Counters unchanged: Types256/30185.05%(45remain),Weapon256/28789.20%(31remain),SE16/3015.32%(285remain). Ledger12changed/4retained/113held/2blocked/170pending. No172/merge/artwork/deployment.301blocked eight owner bodies/one4+4/generatevalidatebeforecopy. Clean checkout matched170closure54809a74. Four baseline linters PASS.
+
 **Batch170 closure (2026-10-21): CLOSED5/5 reviews; No change0/5.** 61 supported replacements, words29,059→31,185(+2,126); allfive written designs HELD.25fresh actual closure validators and54tests PASS; full originals/exactA–D/relevantMaster/history/finals read, individual receipts and verified pushes.296unselected/fivereserves/sourcehashes/digits/allfiveTales unchanged;61operations reconstruct finals,300PhysicalFormrows unchanged except927state-notorganic qualification. Fresh993exactsource review +1Types/+1Weapon; otherfour not recounted;SE+0. Three counters256/30185.05%(45remain),256/28789.20%(31remain),16/3015.32%(285remain). Ledger12changed/4retained/113held/2blocked/170pending. Parallel closurecheck resource SIGKILL disclosed; all25sequential rerun PASS, no exception. Source/gear silhouettes independently evaluated; no invented bodies/transforms. Later full recheck retained. p170spent, no171/merge/deployment/artwork.301eight-owner-body/one4+4/generatevalidatebeforecopy blocker persists.
 
 [Detailed batch report](SE_APPEARANCE_REVIEWS/B170_CLOSE.md) · [Machine audit](SE_APPEARANCE_REVIEWS/B170_CLOSE.json)
