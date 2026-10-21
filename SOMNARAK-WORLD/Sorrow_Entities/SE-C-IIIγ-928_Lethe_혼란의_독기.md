@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-928 [VH]` |
-| **Entity Type** | **Hazard** — Can breach via Transform |
+| **Entity Type** | **Hazard** — An affected air volume pools in sublevels and can extend upward; no mobile occupant or travelling body is recorded |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Hazard-Mind |
-| **Physical Form** | Organic — An invisible gas, heavier than air, that settles through the lower levels of Zone C and causes progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Physical Form** | Non-bodily hazard — An invisible gas, heavier than air, that settles through the lower levels of Zone C and causes progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination. |
+| **Movement** | Fixed below, variable above. It pools in the lowest available volume and rises as it accumulates; the recorded ceiling has risen by just under two metres across nineteen years. |
 | **Location** | SECTOR-C-928, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -66,7 +66,7 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Major cognitive exposure; the external reader, not the affected operator, judges withdrawal |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
@@ -88,7 +88,7 @@
 
 1. **Tension:** The level is confirmed, the external reader takes position at the stair with the error sheet, and the operator goes down with a task that has a known right answer. The task is always one with a known right answer; that is how the sheet works.
 2. **Clash:** Four turns, observation and endurance only, with the passage read at each turn boundary and a nominated reader outside the volume following the text and marking errors.
-3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the party out of the volume with no uncorrected error on the page, confirmed by the external reader. It closes against the documented suppression condition: **The party out of the volume with no uncorrected error on the page, confirmed by the external reader**.
+3. **Resolution:** The external reader calls withdrawal from the error sheet, and the operator leaves without arguing for another correction. Recorded suppression condition: **Come up when the reader calls, mid-sentence, without arguing**. Record exit and every uncorrected discrepancy; an error is evidence for the call, not a reason to stay inside until the page is perfect. The repeated form condition, **The party out of the volume with no uncorrected error on the page, confirmed by the external reader**, remains a closure check to reconcile with the retained discrepancies and infirmary record, not permission for the affected operator to overrule withdrawal. Neither a completed page nor leaving the volume is proof that lost memory has returned.
 
 ### Consequences
 
@@ -98,11 +98,17 @@
 
 ## Appearance
 
+**An invisible volume, not a mourner:** The sublevel air has no distinct colour, smell, temperature or sound, and sampled air is ordinary on analysis. The measured floor and ceiling locate the holding; they do not outline a hidden creature. The chalk mark and reading station are human apparatus. Lost words and inverted meaning identify exposure through a person, not the appearance of an occupant inside the air.
+
+**A moving boundary without pursuit:** The lower boundary is the available floor and the upper boundary is measured by the watch. Pooling, accumulation and an upward extension explain why elevation matters. A closed stair door has delayed the rise and a sealed floor has not been crossed in the record; neither finding makes a door the source vessel. Keep the competing thinning and ventilation claims for reconciliation rather than converting them into a visible gas cloud.
+
+**Read from outside:** The operator carries a pre-signed objective and reads a fixed passage while the nominated outside reader follows the known text and marks errors. Familiarity and confidence are not a clear-air test. Withdrawal records the reader's decision and the remaining discrepancies; it does not restore a lost name. Glass blade, Veil and Token are materialized equipment with their own costs, not physical pieces of a giant or an invisible human body.
+
 **Primary Form:** An invisible gas, heavier than air, that settles through the lower levels of Zone C and causes progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination.
 
 **Notable Features:**
 - Expresses Void as a graded deletion of language: misplaced words at the first stage, inverted meaning at the second, memory indistinguishable from invention at the third.
-- Nothing is visible, audible or detectable. No instrument the facility owns registers the volume; the only detector is a person reading a known text aloud while someone outside follows it.
+- The volume has no visible or audible marker, and no facility instrument registers it directly. Detection is by effect: a person reads a known text aloud while someone outside follows it and marks errors. The evidence is the reading discrepancy, not a coloured edge or a bodily outline.
 - Confirm the designation C-IIIγ-928 `[VH]`, the current ceiling measurement, and the reader's station before any entry. Entry without an external reader is prohibited absolutely.
 
 **Identification Profile**
@@ -139,7 +145,7 @@ What does not vary is the shape of the incident that prompts the rewrite: nobody
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; observed from outside with a reader inside, the stage boundaries fall at reproducible dwell times. | Decrease |
+| **Viderehan** (Observation) | Permits study through the operator’s passage read inside and the nominated reader’s scoring outside; the stage boundaries fall at reproducible dwell times. The two positions and their different jobs are recorded before entry. | Decrease |
 | **Ferrehan** (Endurance) | Recognises patience; the volume thins around a party that completes a full cycle without shortening or extending it. | Decrease |
 
 ### Operational Work Notes
@@ -234,6 +240,9 @@ Each Lethe piece is an extension of the volume rather than ordinary equipment. T
 | **During use** | Entry time, ceiling measurement, errors marked by the reader with timestamps, stage reached, first cost, and any conflict between a spoken instruction and the carried page. |
 | **At limit** | The point at which the operator's errors stop being corrected by the operator. The reader calls it; the operator has never called it in 211 cycles and the file does not treat that as a failing. |
 | **After use** | Exit confirmed by the reader, repeat reading scored against baseline, discrepancies listed by word, infirmary notified, cooldown, reuse authorisation. |
+
+**Relinquishment and attribution:** Log the Edge's dominant-hand fatigue, the Veil's difficulty being remembered and the Token's brief lost word or face separately from the source's lasting gaps. Another witness keeps the record where the bearer cannot audit it. Before cleaning or rest, retain bearer, trigger, source response, cost and unresolved detail for attribution review. The witness states the source title during relinquishment and records the originating event as unrecorded; do not invent an autobiographical event to satisfy the form. First-person ownership and recurrence outside contact are item warnings, not grounds to abandon the external reader or to promise restored memory after removal.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced

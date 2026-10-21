@@ -8,6 +8,33 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch171 unit4 — Lethe `C-IIIγ-928`
+
+[[SE-C-IIIγ-928_Lethe_혼란의_독기](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-928_Lethe_%ED%98%BC%EB%9E%80%EC%9D%98_%EB%8F%85%EA%B8%B0.md "SE-C-IIIγ-928_Lethe_혼란의_독기.md")]
+
+**Original/source review and predeclared R18 scope:** Full409-line original and exact928A–D read, relevant registry/Master/history reviewed. CityVoid→HazardMind→no recoveredformation/Taleexplicitabsence→invisibleair/readingerrors→elevation/pooling→externalreader/withdrawal→paperonlyinteractions→materializedblade/veil/token traced. R18predeclared1batch-short/8careful-detail: Movement copies own complete Detail; type, nonbodilyPhysicalForm, Majorrole, profile, effectdetection, withdrawal-before-perfectpage, readerroles and itemattributioncare authored separately. No new origin/anatomy/ventilation state or imported statistic.
+
+**Sources/history:** Complete B140u1 andclosure history read: exactA–D/fullSEandWeapon already credited; prior B43e7dba9f/B489e4b1c3 were not credited as sourcepair. Currentpathgit10cd20a administrative only. CSV1071–1074; archetype387HammerHeadRoom versus EdgeglassbladeShort; disposition319Neutralpaperonly. MasterEntity359awaitingrow, fullMAW/Tales exactname/code searches noentry. BγVoid14–22 Normal2 Short2 Single100%4/25; C1/1/.3/.8max4/20; DHead5%+1unnamedsourcestat agree. FormationNotrecorded inA–D retained, no river/swimmer autobiography madecanon. +0Types/+0Weapon.
+
+**What changed:** Describe a nonbodily air hazard detected through speech, not organic anatomy or a Sovereign. Copy actual pooling/rising Movement, distinguish the inside operator from outside reader, prevent a perfect-page condition overruling withdrawal, and add source-specific item costs/attribution without claiming recovery.
+
+**Final whole-file reasoning:** HELD: invisible air is an Abstract/nonbodily design, not a missing humanoid illustration. Pooling and explicit boundary extension support the source presentation; gear materialization does not need the same silhouette. Conflicting clearance/withdrawal policy, vessel/actions, timing and same-item archetype still prevent whole-file certification. No new credits.
+
+**Holds / later recheck:**
+- No-vessel record versus VesselDestructible/dust and uncoupling/opening/stabilizing item actions requires target/state mapping; no invented vessel.
+- Thins underWork/ventilationreliablyreverses ceiling versus neverthinned andonlytwounpromptedwithdrawals; Gaugeonlyelevation versusWork/turngrowth not normalized.
+- Firstmarkederrorwithdrawal versus secondstage administrative extension is an explicit policy conflict; record the documentary exploitation, not an invented safe dwell. Form closure noerrors versus retentionoferrors remains marked, cannot certifyperfectrecovery.
+- No operatornoticesfirsterror versus fourStigmabearersdid; Dtemporaryinvocationcost can differ from source lastingloss, but allocation history/measurement and unknownworkedstat need evidence.
+- Nineteenyears/two-metres/ninelevels/fifteenyearremedy/ninesubsequentannualminutes cannot be reconciled by guessing dates. ArchetypeHammerHeadRoom versus glassBladeShort remains sameitemform/band hold.
+
+**Commentary:** The most important visible things are a chalk line and the outside reader’s marked page. Removing a fictitious bodily target makes that restraint clearer. The administrative decision to keep a person exposed for usable speech should remain legible as a dispute, not be disguised as the correct withdrawal protocol.
+
+**Checks and integrity:** Five actual verify/tpl/sectfile/wikistd/sect PASS, full final read after checks, final hash matches. 9 exact replacements; LC_ALL=C words6231→6689. Source hashes and unchanged digit streams retained. Detailed evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B171_04_LETHE.md`. Gate/push follows. Written-design review, not artwork/render/browser/game/live-site inspection. Equipment+0/+0;SE+0, no duplicate/retroactive/body/art credits.
+
+**Validation disclosures:** First wikistd reported conditionFalse because the authored Resolution had lost the parseable suppression-condition label. Restored that label with this primary’s own FinalObservation reader-call sentence; remaining perfect-page condition stays explicitly unresolved. Rechecked without weakening validators. Final read also required a blank between the FieldUse table and the care paragraph; included in the same replacement, followed by fresh checks and full reread.
+
+**Progress:** OPEN4/5, No change0/4. Three counters Types257/301=85.38%(44remain),Weapon256/287=89.20%(31remain),SE16/301=5.32%(285remain). No172/merge/deployment/artwork. Later full recheck and301eight-owner-body/one4+4/generate-before-copy blocker retained.
+
 ## Batch171 unit3 — The Undelivered Thanks `N-IIIβ-247`
 
 [[SE-N-IIIβ-247_The_Undelivered_Thanks_전하지_못한_감사](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-III%CE%B2-247_The_Undelivered_Thanks_%EC%A0%84%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EA%B0%90%EC%82%AC.md "SE-N-IIIβ-247_The_Undelivered_Thanks_전하지_못한_감사.md")]
