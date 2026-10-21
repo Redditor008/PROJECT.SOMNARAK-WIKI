@@ -18,7 +18,7 @@
   },
   "active_batch": {
     "number": 175,
-    "status": "OPEN",
+    "status": "CLOSED",
     "required": 5,
     "queue": [
       "N-IIβ-903",
@@ -89,7 +89,8 @@
         }
       }
     },
-    "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B175_OPEN.json"
+    "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B175_OPEN.json",
+    "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B175_CLOSE.json"
   },
   "dossiers": [
     {

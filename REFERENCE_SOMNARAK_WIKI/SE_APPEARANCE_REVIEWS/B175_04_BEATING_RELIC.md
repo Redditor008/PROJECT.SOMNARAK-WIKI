@@ -140,3 +140,7 @@
   "table_link": "[Beating_Relic](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-902_Beating_Relic_%EA%B3%A0%EB%8F%99%EC%B9%98%EB%8A%94_%EC%9C%A0%EB%AC%BC.md \"SE-C-IIIγ-902_Beating_Relic_고동치는_유물.md\")"
 }
 ```
+
+## Verified push and final closure
+
+[9f794fde5a05a73ba6f1e300ffb36b126b013668](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/9f794fde5a05a73ba6f1e300ffb36b126b013668) — PUSH VERIFIED. Final reread hash matches this commit blob; commit is reachable from verified origin. Five fresh closing checks PASS. [Full report](B175_CLOSE.md). Whole design remains HELD, no duplicate equipment credit and no SE completion credit.

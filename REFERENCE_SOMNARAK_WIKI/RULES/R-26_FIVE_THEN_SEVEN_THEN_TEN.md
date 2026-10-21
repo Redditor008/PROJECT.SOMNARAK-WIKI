@@ -90,3 +90,7 @@ CLOSED5/5 after whole original/source/final readings and individually verified u
 ## Batch174 application — 2026-10-22
 
 CLOSED5/5 after complete original, source and final readings and individual validated pushes. No change0/5 does not trigger the cumulative-three extension. There are58 supported repairs:25 batch-short/33 careful-detail. Uprooted and Risus complete the independent written-design pass; three others remain held. Fresh closing checks25/25,54 tests and four audits PASS. Equipment coverage +2 Types/+2 Weapon; SE +2, not artwork credit. Owner p174 exhausted; no175/merge/deployment. [Report](../SE_APPEARANCE_REVIEWS/B174_CLOSE.md). Later recheck and Batch301’s eight-owner-body/one4+4/generate-validate-before-copy blocker remain.
+
+## Batch175 application — 2026-10-22
+
+CLOSED5/5 after complete original, exact source and final readings and individual validated pushes. No change0/5 does not trigger5→7→10. There are49 supported repairs:23 batch-short/26 careful-detail. All five whole designs remain HELD; +0 Types/+0 Weapon/+0 SE. Fresh25 closing checks,54 tests and four audits PASS. Owner p175 exhausted; no176/merge/deployment. [Report](../SE_APPEARANCE_REVIEWS/B175_CLOSE.md). Later recheck and Batch301 eight-owner-body/one4+4/generate-validate-before-copy blocker remain.

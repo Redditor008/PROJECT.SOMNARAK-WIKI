@@ -1,4 +1,31 @@
 # Work In Progress
+## Batch175 CLOSED 5/5 — 2026-10-22
+
+Five fresh complete primary/source/final reviews are finished in the frozen order. All five written designs remain HELD. This is a completed review batch, not five completed appearance fixes. No change: 0/5.
+
+49 supported replacements: 23 batch-short and 26 careful-detail, predeclared before editing. LC_ALL=C words: 32,837 → 35,300 (+2,463). Every unit was individually validated, committed and push-verified. WIP and CHANGELOG were updated after each unit and at closure.
+
+Three independent counters:
+- **ALL M.A.W. Types Appearance per SE — source-review coverage:** 265/301 (88.04%); 36/301 remain.
+- **ALL M.A.W.-W Appearance per SE — source-review coverage:** 264/287 (91.99%); 23/287 remain. Fourteen dossiers are outside the paired denominator.
+- **SE Appearance Fix — independent written-design pass:** 18/301 (5.98%); 283/301 remain.
+
+Batch increments: +0 Types, +0 Weapon, +0 SE. Equipment coverage includes holds and is not artwork coverage. Ledger: 14 changed, 4 retained, 136 held, 2 blocked, 145 pending.
+
+Fresh closing checks passed25/25, all54 tests and four archive-wide audits PASS. The296 unselected dossiers, five reserves, digit sequences, primary Tales and fingerprinted sources are unchanged. Three supported classification Physical Form edits are recorded; the other298 rows are unchanged. Exact reconstruction and five distinct, reachable individual commit blobs match the final readings.
+
+| Dossier | Repairs short/careful | Words | Checks / design | Commit / push |
+|---|---:|---:|---|---|
+| [Glass_Elsewhere](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-903_Glass_Elsewhere_%ED%99%98%EC%98%81%EC%9D%98_%EA%B1%B0%EC%9A%B8.md "SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md") `N-IIβ-903` | 5/8 | 6557→7043 | Five PASS; HELD | [39bd6236](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/39bd62367a43f6c205186ea210fcd81e8145afcb) PUSH VERIFIED |
+| [Tower_Erased_Overnight](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-677_Tower_Erased_Overnight_%EC%82%AC%EB%9D%BC%EC%A7%84_%ED%83%91.md "SE-O-IIβ-677_Tower_Erased_Overnight_사라진_탑.md") `O-IIβ-677` | 3/4 | 6560→7023 | Five PASS; HELD | [4ce94910](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/4ce949101d9081743463eaae431c632fa7e91121) PUSH VERIFIED |
+| [Panopticon](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-235_Panopticon_%EB%B2%BD_%EC%86%8D%EC%9D%98_%EA%B0%90%EC%8B%9C%EC%9E%90.md "SE-C-IIβ-235_Panopticon_벽_속의_감시자.md") `C-IIβ-235` | 4/5 | 6564→7045 | Five PASS; HELD | [4d2cdf2e](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/4d2cdf2e1e9a6dfa8d6d85dc75a7802866f250af) PUSH VERIFIED |
+| [Beating_Relic](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-902_Beating_Relic_%EA%B3%A0%EB%8F%99%EC%B9%98%EB%8A%94_%EC%9C%A0%EB%AC%BC.md "SE-C-IIIγ-902_Beating_Relic_고동치는_유물.md") `C-IIIγ-902` | 5/5 | 6569→7044 | Five PASS; HELD | [9f794fde](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/9f794fde5a05a73ba6f1e300ffb36b126b013668) PUSH VERIFIED |
+| [Labyrinth_of_the_Unfinished_Mind](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-909_Labyrinth_of_the_Unfinished_Mind_%EC%83%9D%EA%B0%81%EC%9D%98_%EB%AF%B8%EB%A1%9C.md "SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로.md") `C-IVδ-909` | 6/4 | 6587→7145 | Five PASS; HELD | [80da82c8](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/80da82c819f7f8450731e8ae4c9659d2655da1c9) PUSH VERIFIED |
+
+[Full findings and Commentary](SE_APPEARANCE_REVIEWS/B175_CLOSE.md) · [Raw evidence](SE_APPEARANCE_REVIEWS/B175_CLOSE.json)
+
+Selection was fresh pending-only shortest LC_ALL=C word count with designation-byte tie-break, not a defect ranking. No substitution. No change0/5 does not trigger the cumulative-three ladder. Owner p175 discharged at five complete reviews. No change0/5 does not trigger5→7→10. No176, merge, artwork or deployment. PR14 OPEN/draft to NON-WIKI, owner-controlled merge. Batch301 remains blocked on eight owner-supplied bodies, one4+4 operation, generate/validate before wiki copy. Later full rechecking and supported fixes remain available.
+
 ## Batch175 unit5 — Labyrinth of the Unfinished Mind `C-IVδ-909`
 
 [[SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-909_Labyrinth_of_the_Unfinished_Mind_%EC%83%9D%EA%B0%81%EC%9D%98_%EB%AF%B8%EB%A1%9C.md "SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로.md")]

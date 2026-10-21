@@ -144,3 +144,7 @@
   "table_link": "[Panopticon](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-235_Panopticon_%EB%B2%BD_%EC%86%8D%EC%9D%98_%EA%B0%90%EC%8B%9C%EC%9E%90.md \"SE-C-IIβ-235_Panopticon_벽_속의_감시자.md\")"
 }
 ```
+
+## Verified push and final closure
+
+[4d2cdf2e1e9a6dfa8d6d85dc75a7802866f250af](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/4d2cdf2e1e9a6dfa8d6d85dc75a7802866f250af) — PUSH VERIFIED. Final reread hash matches this commit blob; commit is reachable from verified origin. Five fresh closing checks PASS. [Full report](B175_CLOSE.md). Whole design remains HELD, no duplicate equipment credit and no SE completion credit.

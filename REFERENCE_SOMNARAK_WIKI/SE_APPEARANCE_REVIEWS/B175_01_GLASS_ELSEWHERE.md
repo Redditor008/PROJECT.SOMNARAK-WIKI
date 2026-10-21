@@ -150,3 +150,7 @@
   "table_link": "[Glass_Elsewhere](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-903_Glass_Elsewhere_%ED%99%98%EC%98%81%EC%9D%98_%EA%B1%B0%EC%9A%B8.md \"SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md\")"
 }
 ```
+
+## Verified push and final closure
+
+[39bd62367a43f6c205186ea210fcd81e8145afcb](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/39bd62367a43f6c205186ea210fcd81e8145afcb) — PUSH VERIFIED. Final reread hash matches this commit blob; commit is reachable from verified origin. Five fresh closing checks PASS. [Full report](B175_CLOSE.md). Whole design remains HELD, no duplicate equipment credit and no SE completion credit.

@@ -1,6 +1,6 @@
 {
   "batch": 175,
-  "status": "OPEN",
+  "status": "CLOSED",
   "required": 5,
   "completed": 5,
   "no_change": 0,
@@ -126,7 +126,9 @@
         "se": 0
       },
       "link": "[[SE-N-IIβ-903_Glass_Elsewhere_환영의_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-903_Glass_Elsewhere_%ED%99%98%EC%98%81%EC%9D%98_%EA%B1%B0%EC%9A%B8.md \"SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md\")]",
-      "table_link": "[Glass_Elsewhere](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-903_Glass_Elsewhere_%ED%99%98%EC%98%81%EC%9D%98_%EA%B1%B0%EC%9A%B8.md \"SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md\")"
+      "table_link": "[Glass_Elsewhere](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-903_Glass_Elsewhere_%ED%99%98%EC%98%81%EC%9D%98_%EA%B1%B0%EC%9A%B8.md \"SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md\")",
+      "commit": "39bd62367a43f6c205186ea210fcd81e8145afcb",
+      "push": "PUSH VERIFIED"
     },
     {
       "designation": "O-IIβ-677",
@@ -231,7 +233,9 @@
         "se": 0
       },
       "link": "[[SE-O-IIβ-677_Tower_Erased_Overnight_사라진_탑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-677_Tower_Erased_Overnight_%EC%82%AC%EB%9D%BC%EC%A7%84_%ED%83%91.md \"SE-O-IIβ-677_Tower_Erased_Overnight_사라진_탑.md\")]",
-      "table_link": "[Tower_Erased_Overnight](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-677_Tower_Erased_Overnight_%EC%82%AC%EB%9D%BC%EC%A7%84_%ED%83%91.md \"SE-O-IIβ-677_Tower_Erased_Overnight_사라진_탑.md\")"
+      "table_link": "[Tower_Erased_Overnight](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-677_Tower_Erased_Overnight_%EC%82%AC%EB%9D%BC%EC%A7%84_%ED%83%91.md \"SE-O-IIβ-677_Tower_Erased_Overnight_사라진_탑.md\")",
+      "commit": "4ce949101d9081743463eaae431c632fa7e91121",
+      "push": "PUSH VERIFIED"
     },
     {
       "designation": "C-IIβ-235",
@@ -346,7 +350,9 @@
         "se": 0
       },
       "link": "[[SE-C-IIβ-235_Panopticon_벽_속의_감시자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-235_Panopticon_%EB%B2%BD_%EC%86%8D%EC%9D%98_%EA%B0%90%EC%8B%9C%EC%9E%90.md \"SE-C-IIβ-235_Panopticon_벽_속의_감시자.md\")]",
-      "table_link": "[Panopticon](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-235_Panopticon_%EB%B2%BD_%EC%86%8D%EC%9D%98_%EA%B0%90%EC%8B%9C%EC%9E%90.md \"SE-C-IIβ-235_Panopticon_벽_속의_감시자.md\")"
+      "table_link": "[Panopticon](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-235_Panopticon_%EB%B2%BD_%EC%86%8D%EC%9D%98_%EA%B0%90%EC%8B%9C%EC%9E%90.md \"SE-C-IIβ-235_Panopticon_벽_속의_감시자.md\")",
+      "commit": "4d2cdf2e1e9a6dfa8d6d85dc75a7802866f250af",
+      "push": "PUSH VERIFIED"
     },
     {
       "designation": "C-IIIγ-902",
@@ -458,7 +464,9 @@
         "se": 0
       },
       "link": "[[SE-C-IIIγ-902_Beating_Relic_고동치는_유물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-902_Beating_Relic_%EA%B3%A0%EB%8F%99%EC%B9%98%EB%8A%94_%EC%9C%A0%EB%AC%BC.md \"SE-C-IIIγ-902_Beating_Relic_고동치는_유물.md\")]",
-      "table_link": "[Beating_Relic](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-902_Beating_Relic_%EA%B3%A0%EB%8F%99%EC%B9%98%EB%8A%94_%EC%9C%A0%EB%AC%BC.md \"SE-C-IIIγ-902_Beating_Relic_고동치는_유물.md\")"
+      "table_link": "[Beating_Relic](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-902_Beating_Relic_%EA%B3%A0%EB%8F%99%EC%B9%98%EB%8A%94_%EC%9C%A0%EB%AC%BC.md \"SE-C-IIIγ-902_Beating_Relic_고동치는_유물.md\")",
+      "commit": "9f794fde5a05a73ba6f1e300ffb36b126b013668",
+      "push": "PUSH VERIFIED"
     },
     {
       "designation": "C-IVδ-909",
@@ -577,7 +585,10 @@
         "se": 0
       },
       "link": "[[SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-909_Labyrinth_of_the_Unfinished_Mind_%EC%83%9D%EA%B0%81%EC%9D%98_%EB%AF%B8%EB%A1%9C.md \"SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로.md\")]",
-      "table_link": "[Labyrinth_of_the_Unfinished_Mind](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-909_Labyrinth_of_the_Unfinished_Mind_%EC%83%9D%EA%B0%81%EC%9D%98_%EB%AF%B8%EB%A1%9C.md \"SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로.md\")"
+      "table_link": "[Labyrinth_of_the_Unfinished_Mind](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-909_Labyrinth_of_the_Unfinished_Mind_%EC%83%9D%EA%B0%81%EC%9D%98_%EB%AF%B8%EB%A1%9C.md \"SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로.md\")",
+      "commit": "80da82c819f7f8450731e8ae4c9659d2655da1c9",
+      "push": "PUSH VERIFIED"
     }
-  ]
+  ],
+  "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B175_CLOSE.json"
 }

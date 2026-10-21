@@ -132,3 +132,7 @@
   "table_link": "[Tower_Erased_Overnight](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-677_Tower_Erased_Overnight_%EC%82%AC%EB%9D%BC%EC%A7%84_%ED%83%91.md \"SE-O-IIβ-677_Tower_Erased_Overnight_사라진_탑.md\")"
 }
 ```
+
+## Verified push and final closure
+
+[4ce949101d9081743463eaae431c632fa7e91121](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/4ce949101d9081743463eaae431c632fa7e91121) — PUSH VERIFIED. Final reread hash matches this commit blob; commit is reachable from verified origin. Five fresh closing checks PASS. [Full report](B175_CLOSE.md). Whole design remains HELD, no duplicate equipment credit and no SE completion credit.
