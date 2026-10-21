@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest batch: Batch166 OPEN 3 / 5.** Fresh shortest-pending five-dossier cohort. Previous Batch165 is CLOSED 5 / 5. No new review or credit at opening. No167, merge or deployment authorized.
+**Latest batch: Batch166 OPEN 4 / 5.** Fresh shortest-pending five-dossier cohort. Previous Batch165 is CLOSED 5 / 5. No new review or credit at opening. No167, merge or deployment authorized.
 
 Owner direction, 2026-10-18: start a new X/X for SE appearance fixes and name the older counters by their M.A.W. scope.
 
@@ -1140,3 +1140,7 @@ Counters unchanged: Types 255 / 301 (84.72%; 46 / 301 remain); Weapon 255 / 287 
 ### Batch166 unit3 — OPEN3/5
 
 [The Magistrate's Strike-Through evidence](SE_APPEARANCE_REVIEWS/B166_03_MAGISTRATE.md): HELD, 5repairs, five checks and complete final read. No change0/3; source-review counters255/301and255/287, independentSE16/301. Pending is not No change; later full recheck retained.
+
+### Batch166 unit4 — OPEN4/5
+
+[Vellum Man evidence](SE_APPEARANCE_REVIEWS/B166_04_VELLUM.md): HELD, 5repairs, five checks and complete final read. No change0/4; source-review counters255/301and255/287, independentSE16/301. Pending is not No change; later full recheck retained.

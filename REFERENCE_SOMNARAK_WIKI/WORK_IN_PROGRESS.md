@@ -1,5 +1,24 @@
 # Work In Progress
 
+## Batch166 / unit4 — Vellum Man `C-Iα-900`
+
+[[SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-900_Vellum_Man_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%B4%EC%95%BC%EA%B8%B0%EA%BE%BC.md "SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼.md")]
+
+**What changed:** Five repairs replace unsupported Transform escape gloss, correct Sovereign threat-role language, restore four supported work types, replace hunting-influence movement with two actual walking escape accounts and add manuscript/page/body/reader/equipment boundaries.
+
+**Sources/history:** Full exact900A–D read, registry959–962 and archetype353 matched MAW-W-900-01. Primary/B αLament8–19,Normal2,Short2,Single100%,4/25 align; C L/G/V/W0.3/1/1.2/0.8,4/20; DHead5%+1 sourcework agree apart from primary location-limited qualification. Archetype Medium scroll blade differs from primary Short folded-page blade, same item needs hold. Master900 lacks dedicated row; sourceTrace explicitly NotRecorded, no separate named historical event imported. Current main-log prose history examined: earlier body prose improvements not certification. Unique prior-equipment credit not demonstrated by the available history audit; +0/+0 withheld conservatively rather than pretending a fresh unique pair is proved.
+
+**Final logical outcome:** HELD: supported manuscript silhouette and two walking escapes now replace misleading transformation/hunt classification wording. Source action, reading method and page-extraction record still prevent whole-file logical completion; derived equipment difference alone is not the reason.
+
+**Holds:** Primary Pugnahan stops pages with no force versus A/B meets force with equal force and source-trace histories. Instrument transcription versus no instrument ever worked/direct facing-page reading; reading completion/page/tale gauge statements and same-reader versus whoever-next appendix remain unjoined. Eleven unique tales still checked versus eleven lost by extraction; two cut equipment pieces versus all-three-pages/three-pieces count needs provenance, not a replacement body. Same Weapon Short folded-page blade versus Medium scroll archetype remains; no new equipment credit without unique-history proof. Final reread retains Transformation label in SideA and pursuit gloss in classification versus two desk walks; page/tale completion and thirty-minute shift continuation still differ in untouched passages.
+
+**Commentary:** The Archive treating a lost page as an irreversible loss is more interesting than a dangerous book monster. A thirty-minute shift that stops mid-story makes preservation and personal safety pull in opposite directions.
+
+**Checks and evidence:** Five actual validators PASS; whole original and final read, 5supported replacements, LC_ALL=C words4669→4953. Receipt `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_04_VELLUM.md` records raw checks, hashes and visual limits.
+
+**Progress:** OPEN4/5, No change0/4. Types255/30184.72%,46/301remain; Weapon255/28788.85%,32/287remain; SE16/3015.32%,285/301remain. No duplicated equipment/body credit. Both logs travel in the individual gate/push. Pending units are not No change; no close below five or earned rung, no167/merge/art/deployment,301ownerblocked. Later full check/fix backlog preserved.
+
+
 ## Batch166 / unit3 — The Magistrate's Strike-Through `N-IIβ-319`
 
 [[SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-319_The_Magistrates_Strike-Through_%ED%8C%90%EA%B4%80%EC%9D%98_%EC%B7%A8%EC%86%8C%EC%84%A0.md "SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선.md")]
