@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A dreamlike figure assembled from broken mirror shards fused with black weight-crystal, each shard reflecting a different self — a body made of every person the viewer has been. Lead-cold and sharp, it smells of wet stone; never the same shape twice. |
-| **Movement** | Stationary — a discrete object. |
+| **Movement** | Fixed to the Gate vicinity: the shard arrangement returns after disturbance and the affected dreams enlarge within the zone. No travel beyond the pattern is recorded. |
 | **Location** | Zone E, Exile's Gate vicinity |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -70,9 +70,9 @@
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan and Ferrehan reduce the Gauge; Viderehan is record-only and stable. Pugnahan fractures the dream into hostile reflections and is prohibited. |
 | **Battlefield** | Zone E, Exile's Gate vicinity |
-| **Resolution Condition** | Establish a present identity without denying the former one |
+| **Resolution Condition** | Name a person one used to be without rejecting that former self or defending the present one; the recorded Gauge fall follows that naming, not a contest over which identity is real. |
 
 ### Combat Actions
 
@@ -98,6 +98,9 @@
 - An unworked week adds shards. The count has risen from nine to sixty-one in nine years, each arrival overnight, each piece reflecting a different age of the same unidentified person.
 
 ## Appearance
+
+**What the count belongs to:** The dream figure carries earlier selves, not the exile who survived beyond the Gate. Do not turn its human source into an identified current watch member. Keep the floor shard inventory, the arrangement photograph and the count of faces in a volunteered dream account in separate fields. A changing dream assembly is not proof that a shard was added to the ground, and a rise in the inventory is not permission to describe a dreamer’s face. The brief whole-mirror reassembly follows spoken denial; the ordinary arrangement and the dream figure must not be illustrated as an undocumented person walking away from the Gate.
+
 **Primary Form:** A figure that holds together without ever settling — broken mirror fused into black weight-crystal, every shard carrying a different version of whoever is in front of it. **Shape:** never twice the same, and never once the shape of the viewer.
 
 **Notable Features:** It watches and does nothing else, it is met in the dreams of exiles rather than in the chamber, and every self it shows is one somebody stopped being in order to get through the Gate.
@@ -186,7 +189,7 @@ Each facet reflects a different perspective of the surrounding room at impossibl
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** The multiplier applies to the strike and to each Tick separately, and the prism must be held by the same bearer throughout an engagement; three bearers in sequence produced three incompatible after-action accounts of the same minute.
+**Damage Application:** Apply the stated Skewer falloff to direct Weight impact; no separate Tick amount is specified. Keep the prism with the same bearer throughout an engagement and record that custody rather than combine incompatible accounts; three bearers in sequence produced three incompatible after-action accounts of the same minute. A differing memory of the minute is a bearer-cost observation, not a new attack target.
 
 **Ability:** Weight against the Han. Struck targets spend the following hours certain that an earlier version of themselves was the real one, which all fourteen described as neither pleasant nor distressing.
 
@@ -210,6 +213,8 @@ Each facet reflects a different perspective of the surrounding room at impossibl
 
 **Cost:** A constant low fatigue, and the habit of correcting other people's accounts of their own pasts.
 
+**Mantle grounding:** Select the grounding partner and exit route before entering Dream pressure. The mirrored black seams can hold separate silhouettes while the garment’s weight is distributed over the shoulders. A present choice and the partner’s exit cue open them against a direct surge; self-suppression instead closes the seams and loses the protection. After use, debrief beside non-facing mirrors and fold the garment between them. For shutdown the partner opens the centre seam, states the route and removes it from both shoulders; cutting a seam releases a Weight echo into the nearest reflection.
+
 ### M.A.W. Stigma — The Broken Reflection
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
@@ -226,6 +231,8 @@ Each facet reflects a different perspective of the surrounding room at impossibl
 
 *Nine reflections exist. Each was cut from a shard that had stopped returning a face, and each is issued with the standing order that its bearer never describe what they see in it to anybody, including a counsellor.*
 
+**Reflection grounding:** The bearer chooses a partner who will not demand a permanent self-definition inside the pressure field. Permit conflicting histories without ordering a seam shut or smashing the tile. After the current-self check and safe exit confirmation, the partner covers the seams with the black sleeve before removal. Store the tile face-down until the next approved check. Neither the anchor effect nor the debrief proves which former identity was correct or restores an abandoned life. Log the check and the cost without transcribing what the tile showed.
+
 ### M.A.W. Use Notes
 
 Every piece is a fragment of somebody's earlier self, and the set lends that to its wielder for a day. The benefit is real and limited: a clear sight of who you were, once, in detail. The cost is that by the next evening the wielder cannot sort their own memories by decade, and two of the three have had to be shown their own service record to settle an argument about where they were posted.
@@ -234,10 +241,10 @@ Every piece is a fragment of somebody's earlier self, and the set lends that to 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the shard count, and a dated list of three things the wielder did more than ten years ago. Sealed. |
-| **During use** | Every recollection the wielder reports, written down with the age they assign to it. The ages are the reading. |
-| **At limit** | The wielder assigns two incompatible dates to the same memory and does not notice. Three rotations; all three. |
-| **After use** | Open the sealed list and ask for the dates. The Armoury keeps the discrepancy and does not correct the wielder, which is a decision it has recorded in full. |
+| **Before use** | Wielder, piece, partner, exit route and separately identified shard and face counts. Keep the sealed dated baseline for chronology comparison without describing the faces in it. |
+| **During use** | Whether a volunteered account misplaces an age or date, whether it came from Dream exposure or the issued piece, and whether the partner interrupted. Record the discrepancy and volunteering, not every recollection or face content. |
+| **At limit** | Incompatible dates assigned to one memory, self-punitive use, or seams closing under a forced choice require the partner’s interruption and a safe exit. The observed three rotations remain the comparison record, not a demand for a dreamer to confess. |
+| **After use** | Compare dated baseline answers without copying the Reflection’s contents. Keep the discrepancy, the fact of debrief and any refusal to volunteer. The standing no-description order is not waived by an equipment issue. |
 
 **Stat interpretation:** The grade measures extraction stability. This set costs a person their chronology for a day or two and the only detector is a sealed list of dated facts; authorise on that.
 ## 관찰 기록 (Observation Log)
@@ -355,7 +362,7 @@ Some sorrows mourn a home. Mirror of Broken mourns a self — the identity shatt
 **Common Name:** Mirror of Broken
 **Containment Status:** Contained — Zone E, within sight of the Exile's Gate
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It never acts and it cannot be sealed out, because the way in is sleep; a event takes a whole section's dreamers at once. Effect: the vertigo of a self that was changed in order to get through.
+**Threat Assessment:** Major (γ). The documented zone event reaches a whole section’s dreamers without the figure pursuing anyone; sealing a wall does not remove the sleep exposure. Effect: the vertigo of a self changed in order to get through. Wake affected personnel and preserve the distinction between a shard count and a dreamer’s face count.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type and Ferrehan the alternate; Viderehan is run for the record and Pugnahan is prohibited, there being nothing to confront but glass.
 - Do not attempt to reassemble the shards, and do not describe what any of them showed. Both prohibitions are standing orders with reasons attached.

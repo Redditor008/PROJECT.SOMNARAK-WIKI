@@ -8,6 +8,29 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch174 unit4 — Mirror of Broken `N-IIIγ-127`
+
+[[SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-127_Mirror_of_Broken_%EB%B6%80%EC%84%9C%EC%A7%84_%EA%B1%B0%EC%9A%B8.md "SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울.md")]
+
+**Original/source review and R18 predeclared scope:** Complete429-line original/exactA183/B105/C101/D98/README, Master/Tale/historyread. InnerWeightSubjectDream→unnamedexileidentityleftbehind/Tale→variablemirrorblackcrystalfigureversusphysicalshardfield→sleep-onlyzoneevent/noexternaltravel→acknowledgewithoutrealselfranking/Workprohibition→shardvsfaceinventories→partner-boundderivedSkewer/Mantle/Reflection traced. R18predeclared4short/5careful. Preserve genuine visual/mode ambiguity instead ofinventingwaking-to-dream transformation.
+
+**Sources/history:** Exact127A–D all4/4. CSV374–377, archetype105RoomPrism, disposition224Neutral; Entity506BrokenMirroralias; Master415–417table455–457/details5451–5483; fullTale1397836–7888 historicalEchoII/Moderate/LowvsprimaryIIIγ preserved. B910f8ad16d independentexactWeapontitle/formhold currentWIP7510–7532 and CHANGELOG6422–6425 read; B56series40736ff VOL02 125–154 notnewequipmentcredit. +0/+0 conservatively no duplicate all-types/sourceWeaponcoverage. Primary/A/BγWeight7–12/Fast3/Medium3/Skewer3/10070 50,max3/40; C1/1/1.5/.5,max3/35; DHead4%+2 align, CSVgeneric5%notrewritten.
+
+**What changed:** Nine supportedrepairs: replaceObjectmovementshorthand; prohibitPugnahan inquicktable; resolutionmatchesactualnamingnotdefence; sleeperzone threatandtwoinventories; Appearancebody/source/measurementdistinction; directSkewerno unsupportedTick; MantleandReflectionpartner/care/shutdown; FieldUseprivacywithoutforcedcontenttranscription.
+
+**Final whole-file assessment:** HELD — repairs remove actual shorthand/Work/privacy/Tickproblems; essentialsleep-versusphysicalcontact scope and itemmaul/prism geometry remainopen. No duplicateequipmentcredit; +0Types/+0Weapon/+0SE. Laterwhole-file recheck retained.
+
+**Holds / later recheck:**
+- Essential modes unresolved: primarysaysonlydreams/invisibletoinstruments/neveractsonwaking yetphotographedandsharpphysicalfloorfield pluswakingminutecontact/crushattacks. Do notinvent a lucid-exposure mode. Existingdreamfigure andfloorpieces canberelated butthecausalbridge/scope notestablished.
+- SamecurrentitemB explicitlyRestingMaul/Activeblackimpactpaths/maul-headcradle against heading/AppearancePrism andarchetypeRoom versusMedium3. Filenamealone notconflict; actualofficialformtable andshutdownare. No maul-to-prismtransition manufactured.
+- SourceDdarkcoolthree-seamtile versusprimarywarmneargrief/singleage canbeconditional marker, notautomaticconflict; mandatorysame-daywrittenrecollection versusabsolute no-description remainsunresolved inprimaryStigmaEffect despiteFieldUsemorecarefulprivacy. No newpermissioninvented.
+- Interactionopener saysEmptyMaskremovedpiece, actualtablerisesfacecount; differentcounttypes mayexplain butnotproved. Face4/7/11versusphysical9→61 arenotautomaticallysamecounter. Headerformer selfimagesversusunidentifiedsamepersongroundpieces andneverviewerform scopesneedrecords.
+- Recorddetail retainedhistoricalEchoIIβLow note nowmatchesMasterTale history butcurrentprimaryRegistrumIIIγMajor; no erasethistoricalrecord. NormalfixedGateversuszoneenlargement doesnotrequiresphysicalescape; 2/75/65 thresholds andoneevent14faces keptdistinct.
+
+**Commentary:** The strongest design is not a mirror that exposes a false self; it is a record that cannot hold several true selves at once. I kept that distinction and the source exile unnamed. Counting faces should reveal the institution’s blind spot, not become an excuse to archive a dreamer’s interior.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 9 exact replacements (4batch-short/5careful-detail); LC_ALL=C words6534→6967. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_04_MIRROR_OF_BROKEN.md`. Equipment+0/+0;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No175/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch174 unit3 — Ninety Seconds `C-IVδ-918`
 
 [[SE-C-IVδ-918_Ninety_Seconds_반복되는_생각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-918_Ninety_Seconds_%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94_%EC%83%9D%EA%B0%81.md "SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md")]
