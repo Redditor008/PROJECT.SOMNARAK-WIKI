@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch175 OPEN2/5.** Owner p authorizes175 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B175_OPEN.json). No176/merge/art/deployment.
+**Latest: Batch175 OPEN3/5.** Owner p authorizes175 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B175_OPEN.json). No176/merge/art/deployment.
 
 **Previous: Batch174 CLOSED5/5.** Two completed written designs and three held; 58 supported repairs. Equipment coverage +2 Types/+2 Weapon; SE +2. [Full report](SE_APPEARANCE_REVIEWS/B174_CLOSE.md). No175/merge/art/deployment.
 
@@ -1412,3 +1412,7 @@ No Batch175 is authorized. PR14 remains OPEN and draft against NON-WIKI; the own
 ### Batch175 unit2 — OPEN2/5
 
 [Tower Erased Overnight evidence](SE_APPEARANCE_REVIEWS/B175_02_TOWER_ERASED_OVERNIGHT.md): HELD, 7supported repairs, full final reading and five actual checks. No change0/2.
+
+### Batch175 unit3 — OPEN3/5
+
+[Panopticon evidence](SE_APPEARANCE_REVIEWS/B175_03_PANOPTICON.md): HELD, 9supported repairs, full final reading and five actual checks. No change0/3.

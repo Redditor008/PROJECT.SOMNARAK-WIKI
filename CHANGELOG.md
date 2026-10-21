@@ -8,6 +8,31 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch175 unit3 — Panopticon `C-IIβ-235`
+
+[[SE-C-IIβ-235_Panopticon_벽_속의_감시자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-235_Panopticon_%EB%B2%BD_%EC%86%8D%EC%9D%98_%EA%B0%90%EC%8B%9C%EC%9E%90.md "SE-C-IIβ-235_Panopticon_벽_속의_감시자.md")]
+
+**Original/source review and R18 predeclared scope:** Full434-line original, complete exact235A–D/README read with prefix collision control; Master139–141/table179–181 anddetail2404–2436, Entity411, entireTale47/2647–2702 read. City observation without intervention → Subject-Phantasmal, nonorganic distributed wall eyes → ordinary open eyes/Flerehan collective blink/acceptance-only observer figure → fixed mapped fabric and Corrupt expansion → all4Works and nonintervention law → names/reaches/swallowing and interactions → three separately derived pieces traced. R18 predeclared4short/5careful before edits. Full final read after five actual checks.
+
+**Sources/history:** Primary full-set source-review paragraph and Batch106unit3 ed2888a3 plus Batch106 exact-join evidence read in CHANGELOG. Already credited fullset and exactSE235B/MAW-W-235-01; +0/+0. A assigns C-IIβ235; O-IIβ235 Myrmidon is formal1021, never swapped. CSV518–521, archetype160 Instant reliquary, disposition221, Master entries139–141. A/B βVoid5–9,2/2,Single100%,4/25; C1.2/.8/.3/1.1,4/20; DHead5%+1Composure align. Historical all-ref primary10cd20a is consolidated, not a claimed accessible old commit body.
+
+**What changed:** Nine repairs complete the cut-off Subject classification, scope the blink exception, correct the unsupported widened/receded interaction summary, replace the fictional containment-unit origin expansion, distinguish distributed eyes from the conditional watcher, and add separate urn, Veil and Stigma custody.
+
+**Final whole-file assessment:** HELD: useful distribution, blink, origin and interaction repairs do not establish one supported account of movement, action/authority, extraction and same-item identity. +0 Types/+0 Weapon/+0 SE.
+
+**Holds / later recheck:**
+- Subject need not be humanoid; conditional translucent watcher is supported, and donor/derived silhouettes may differ. But fixed never-moving fabric versus speed1.45 lacks a measured subject; no figure speed assigned.
+- Whole action hold: never acts/no consequence versus hand reaches, takes hold and swallows workers; no-help theme is not a proven account of these attacks. Silence/no reaction and only collective movement versus names/reaches remain unscoped.
+- Same-item conflict: local porcelain Torn Spirit-Urn versus A/B/CSV/Master short-handled Han-glass Weapon Lens; archetypeInstant versus Short2, pacification versus danger-only target and Tickdamage have no bridge. Weapon Lens and Stigma Lens are separate records despite shared title.
+- A extraction residue after intervention/no wall cut versus local plaster extraction; source full-set/action requirement and authority to intervene versus Standing Hand prohibition unresolved. Do not grant emergency stoppage permission by equipment.
+- Source eye closure after acknowledgment/action, primary new/closed positions, absolute no closure and collective blink need scopes. A named-responder playback versus primary never tells anybody and WeightingBird use remains substantive, not absence of descriptive detail.
+- Source Veil protection declared-intervention-only versus local full-round/namecalling claim; local names-column never empty versus asserted protection is unscoped. Stigma firstacknowledgment versus A/D acknowledgment+action bestowals held.
+- Tale47 retains ZoneD/mobile/Low/Viderehan-primary against current ZoneB/fixed/Moderate/Flerehan-primary; current RegistryTrivia refers to already corrected local errors as uncorrected. Do not rewrite source history.
+
+**Commentary:** The soundest idea here is not an evil camera but a competent witness with no power to help. The Standing Hand makes that restraint costly without pretending the old inspectors were innocent. I find the literal grabbing harder to fit than the watching, and would not hide that tension behind the word phantasmal.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 9 exact replacements (4batch-short/5careful-detail); LC_ALL=C words6564→7045. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B175_03_PANOPTICON.md`. Equipment+0/+0;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No176/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch175 unit2 — Tower Erased Overnight `O-IIβ-677`
 
 [[SE-O-IIβ-677_Tower_Erased_Overnight_사라진_탑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-677_Tower_Erased_Overnight_%EC%82%AC%EB%9D%BC%EC%A7%84_%ED%83%91.md "SE-O-IIβ-677_Tower_Erased_Overnight_사라진_탑.md")]
