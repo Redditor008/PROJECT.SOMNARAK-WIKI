@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIIγ-948": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_02_FOAM_FLOOD.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Owner P requested appearance research before164; latest p continues164 and permits a later full checking/fixing pass after this pass finishes. No165 authorization or automatic old-hold clearance."
@@ -788,8 +800,26 @@
     {
       "designation": "C-IIIγ-948",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-948_Foam_Flood.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Supported safety and body/action repairs do not settle fish-reference behavior, source activation terminology or the long-term brightness account. HELD for these essential relationships, not because wearable equipment differs from a carving.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_02_FOAM_FLOOD.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/948_Foam_Flood/SE-948-A__SIDE_CODEX_Foam_Flood.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/948_Foam_Flood/SE-948-B__MAW-W_The_Skyward_Spear.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/948_Foam_Flood/SE-948-C__MAW-S_The_Glider_s_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/948_Foam_Flood/SE-948-D__MAW-G_The_Glowing_Eye.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIα-062",

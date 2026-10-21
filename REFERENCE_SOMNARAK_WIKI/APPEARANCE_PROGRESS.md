@@ -867,3 +867,7 @@ Owner's research-first P and latest continuation authorize this batch. Fresh pen
 ### Batch164 unit1 — OPEN 1 / 5
 
 [Devouring Bloom evidence](SE_APPEARANCE_REVIEWS/B164_01_DEVOURING_BLOOM.md):18supported repairs, allfive checks PASS/fullfinal reread, HELD/no bodycredit. Donor-to-equipment differences are not held by themselves; real source Work/threat conflicts remain. Prior116 exact equipment comparison adds no duplicate credit. No change0/1;948FoamFlood/C-IIα081BrokenMirror/055WeepingStatue/099MaskedDancer remain pending. Owner-approved later full recheck retains the issues; no early close or new batch. All three cumulative counters unchanged.
+
+### Batch164 unit2 — OPEN 2 / 5
+
+[The Foam Flood evidence](SE_APPEARANCE_REVIEWS/B164_02_FOAM_FLOOD.md):12repairs, five checks PASS/fullfinalreread; HELD, no duplicate equipment or body credit. No change0/2; cumulative counters unchanged. Five completed reviews required; later full recheck issues remain visible.
