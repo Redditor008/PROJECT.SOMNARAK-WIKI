@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-919 [WT]` |
-| **Entity Type** | **Time** — Can breach via Transform |
+| **Entity Type** | **Time** — The recorded breach is an overrun and expansion of the hour, not a transformed body |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Time-Spirit |
-| **Physical Form** | Organic — An hour, once per cycle, during which the voices of the dead become audible in Zone A. They do not speak to the living — they speak to each other, and what they say is always a warning that the living cannot decipher in time. |
+| **Physical Form** | Non-corporeal temporal event — An hour, once per cycle, during which the voices of the dead become audible in Zone A. They do not speak to the living — they speak to each other, and what they say is always a warning that the living cannot decipher in time. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-N-919, contained |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -38,11 +38,11 @@
 
 ### Operational Notes
 
-- Threshold 3, but the gauge can only move during the hour itself; the remainder of the cycle is inert regardless of activity in Zone A.
+- Threshold 3 identifies the recurring-hour record, not a demonstrated physical switch. Gauge relief is recorded when warnings are copied afterward, not during the hour; the delayed-copying test in the Work Notes must not be replaced by a claim that all gauge movement is confined to the hour.
 - Pressure combines weight and spirit. Personnel report it as fatigue in the legs and a reluctance to speak, persisting until the hour closes.
 - The entity is an hour rather than a body. Containment is scheduling: the hour arrives once per cycle and cannot be moved, shortened, or skipped.
 - The dead speak to each other, not to the living. Personnel who answer are recorded as having answered, and are not reassigned to the hour.
-- Yield is bounded by the hour's duration, which makes this the only row in its class with a fixed daily ceiling.
+- Yield is bounded by the hour's duration, which makes this the only row in its class with a yield ceiling bounded by the recorded hour, not proof of a daily recurrence.
 
 ## Combat Record
 ### Core Stat Line
@@ -66,7 +66,7 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Moderate temporal/transcription hazard; not a Sovereign classification |
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
@@ -97,6 +97,14 @@
 - The half-second pause before answering, which lengthens with carry and has never fully returned to baseline in either wielder.
 
 ## Appearance
+
+**No visible body:** This Time-Spirit manifestation is the recurring interval of heard conversation, not an organic speaker, a physical bell or the room itself. Nothing is visible and no instrument has captured the sound. The chairs, books and sector boundary organise the witness procedure; none is the entity's hidden anatomy.
+
+**Ordinary and expanded extent:** In the ordinary record the voices remain within the sector. The one overrun carried that conversation into the corridors without an approaching body or new visual form. The regular closing description must be read beside that explicit exception, not used to erase it or invent routine mobile spirits. The voices ordinarily address each other; the surname responses are separately recorded after a living person speaks first.
+
+**What a witness can record:** Identify recurring voice numbers, opening/closing, the actual boundary of audibility and the two unreconciled transcripts. A sense of extra people in the room is not a count of bodies. Copying warnings is the demonstrated gauge-relief condition; it is not proof that the warnings can be interpreted in time or used as forecasts.
+
+**Derived equipment:** The heavy blade, still veil and dated token are materialised equipment forms, not proof of an organic vessel or a portable physical source. The no-visible-body record and a wearable item can both be true. Their source-trace corrosion/manifestation-through-bearer claims remain separate from the one observed temporal overrun.
 
 **Primary Form:** An hour, once per cycle, during which the voices of the dead become audible in Zone A. They do not speak to the living — they speak to each other, and what they say is always a warning that the living cannot decipher in time.
 
@@ -157,7 +165,7 @@ Both usable Work Types lower the gauge and neither does so during the hour. The 
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** Maintain the no-speaking rule, record the overrun and copy the warnings under the established procedure. The only recorded expansion ended without intervention; no physical target or successful physical suppression is documented.
 - **Sorrow Gauge on breach:** 40% rising 10% a cycle. The Year 4,232 overrun is the only breach on file and it ended without intervention, as the hour always does, mid-sentence.
 
 ## M.A.W. Equipment

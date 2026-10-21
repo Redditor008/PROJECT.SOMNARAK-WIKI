@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch166 / unit5 — Passing Bell `N-IIβ-919`
+
+[[SE-N-IIβ-919_Passing_Bell_조상의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-919_Passing_Bell_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-N-IIβ-919_Passing_Bell_조상의_시간.md")]
+
+**What changed:** Seven repairs replace Organic with non-corporeal temporal event, replace unsupported Transform escape gloss, correct Sovereign encounter role, remove unsupported physical-suppression instruction, align relief timing with delayed copying, remove unsupported daily recurrence and add concrete temporal/voice/witness/equipment distinctions.
+
+**Sources/history:** Complete919A–D, registry1035–1038 crosswalk and archetype378 BellWithCrack Long read. Primary/B βWeight11–16,Normal2,Short2,Single100%,4/25 align; C L/G/V/W1/1/1.2/0.3,4/20; DHead5%+1 sourcework align. Same Weapon Short blade versus Long cracked-bell archetype remains a real same-item conflict. Main/master exact-name search and archived B42unit7 470a99f/B47unit8 f41e131 prose/quote history read; these are not full appearance or unique equipment coverage evidence. +0/+0 conservatively withheld pending history eligibility confirmation; no claim that new exact pair is proved unique.
+
+**Final logical outcome:** HELD: the written source is now explicitly a non-corporeal audible interval and the only breach a temporal expansion, with unsupported physical suppression removed. Vessel, exact temporal trigger, transcript sequence and source/equipment conflicts remain. No derived-item/body mismatch is used as a hold.
+
+**Holds:** VesselDestructibleYes versus explicitly no physical component remains unresolved; no physical suppression success, vessel or portable source invented. Hour cannot be shortened/skipped and always closes at one hour versus one three-hour overrun; the exception is recorded, but exact trigger/cycle3/Gauge60/65 scopes remain unjoined. Warnings copied after books sealed unread lacks a documented copy/handling sequence. Small definite commissioning group versus unnamed ordinary dead needs exact origin provenance. Same Weapon Short blade versus Long cracked-bell archetype; source manifestation-through-bearer and equipment recovery claims not confirmed by source overrun. No source-credit eligibility assumed. Final reread retains RecommendedResponse relief-during-hour wording versus WorkNotes post-copy relief, and corrupts-everything expansion gloss versus no approach and limited voice contacts. These remain explicit later-fix work, not cleared by Appearance.
+
+**Commentary:** The loneliness of hearing people who are comfortable with one another and unaware of you is unusually effective. Keeping the warnings too late to use protects that sorrow from becoming a convenient prediction machine.
+
+**Checks and evidence:** Five actual validators PASS; whole original and final read, 7supported replacements, LC_ALL=C words4707→5010. Receipt `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_05_PASSING_BELL.md` records raw checks, hashes and visual limits.
+
+**Progress:** OPEN5/5, No change0/5. Types255/30184.72%,46/301remain; Weapon255/28788.85%,32/287remain; SE16/3015.32%,285/301remain. No duplicated equipment/body credit. Both logs travel in the individual gate/push. Pending units are not No change; no close below five or earned rung, no167/merge/art/deployment,301ownerblocked. Later full check/fix backlog preserved.
+
 ## Batch166 / unit4 — Vellum Man `C-Iα-900`
 
 [[SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-900_Vellum_Man_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%B4%EC%95%BC%EA%B8%B0%EA%BE%BC.md "SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼.md")]
