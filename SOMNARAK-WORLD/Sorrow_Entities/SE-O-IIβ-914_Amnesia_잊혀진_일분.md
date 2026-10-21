@@ -97,7 +97,7 @@
 
 ## Appearance
 
-**A timed absence, not an invisible body:** There is no source silhouette, voice or skin to describe. During the ordinary minute, affected people keep walking, writing or holding a door, yet cannot account for their name, face or intention afterward. Their continuing bodies are subjects within the effect, not the entity's anatomy. No human origin has been established; the unrecorded event is not filled by inventing a forgotten victim.
+**A timed absence, not an invisible body:** There is no source silhouette, voice or skin to describe. During the ordinary minute, affected people keep walking, writing or holding a door, yet lose access to their name, face and immediate intention during the interval. Their continuing bodies are subjects within the effect, not the entity's anatomy. No human origin has been established; the unrecorded event is not filled by inventing a forgotten victim.
 
 **The visible holding and its changing extent:** The line, chair, clocks, collection rack and name board are objects at the site. The chair predates recognition and is a prohibited anomalous position, not a demonstrated destructible source vessel. A boundary survey records the affected radius growing from its earlier extent without the epicentre moving. Clock agreement and the gauge are recorded readings; neither supplies a visible material body for the minute.
 

@@ -8,6 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch168 unit5 same-unit correction — Amnesia
+
+Corrected newly authored Appearance wording to loss of access during the interval, preserving complete direct recovery separately from permanent equipment costs. Repeated all five validators and complete351-line final reread; updated exact recipe/final SHA evidence. The compressed no-inside-since4228 hold is superseded: outside Work and interior entry incidents are different scopes, not a proved contradiction. Remaining timing/vessel/item holds unchanged. No extra unit or credit; OPEN5/5, No change0/5. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_05_AMNESIA.md).
+
 ## Batch168 unit5 — Amnesia `O-IIβ-914`
 
 [[SE-O-IIβ-914_Amnesia_잊혀진_일분](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-914_Amnesia_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%BC%EB%B6%84.md "SE-O-IIβ-914_Amnesia_잊혀진_일분.md")]
