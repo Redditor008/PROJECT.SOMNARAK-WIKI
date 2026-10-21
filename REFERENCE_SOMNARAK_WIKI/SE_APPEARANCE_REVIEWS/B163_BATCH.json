@@ -2,7 +2,7 @@
   "batch": 163,
   "status": "OPEN",
   "required": 5,
-  "completed": 0,
+  "completed": 1,
   "no_change": 0,
   "queue": [
     {
@@ -98,5 +98,18 @@
       "sha256": "3a1b603d1d7014ec4bfd52e282e7beafe8a32df88c3f95e7805ecb64a6a1f46c"
     }
   ],
-  "reviews": {}
+  "reviews": {
+    "C-IIIγ-145": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_01_BRIAR.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    }
+  }
 }
