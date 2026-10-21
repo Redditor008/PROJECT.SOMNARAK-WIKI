@@ -17,81 +17,18 @@
     }
   },
   "active_batch": {
-    "number": 163,
-    "status": "CLOSED",
+    "number": 164,
+    "status": "OPEN",
     "required": 5,
     "queue": [
-      "C-IIIγ-145",
-      "C-IIIγ-190",
-      "C-IIIγ-248",
-      "C-IIIγ-649",
-      "C-IIIγ-891"
+      "C-IIIγ-916",
+      "C-IIIγ-948",
+      "C-IIα-081",
+      "C-IIβ-055",
+      "C-IIβ-099"
     ],
-    "reviewed": {
-      "C-IIIγ-145": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_01_BRIAR.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IIIγ-190": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_02_RAGE_STATUE.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IIIγ-248": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_03_UNCONSOLED.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IIIγ-649": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_04_SUNKEN_PILLAR.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IIIγ-891": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_05_SCREAMING_MASONRY.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      }
-    },
-    "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_OPEN.json",
-    "closed": "2026-10-21",
-    "close_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_CLOSE.json"
+    "reviewed": {},
+    "authorization": "Owner P requested appearance research before164; latest p continues164 and permits a later full checking/fixing pass after this pass finishes. No165 authorization or automatic old-hold clearance."
   },
   "dossiers": [
     {

@@ -1,0 +1,122 @@
+{
+  "batch": 164,
+  "status": "OPEN",
+  "required": 5,
+  "completed": 0,
+  "no_change": 0,
+  "queue": [
+    {
+      "designation": "C-IIIγ-916",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃.md",
+      "signals": 1,
+      "evidence": [
+        "Some sorrows are meant to pass. Devouring Bloom is a sorrow that, crystallized by love and the Han, refused to pass — and grew, and grew, until the mourning itself became a monument no one could bring themselves to cut down."
+      ],
+      "lines": 498,
+      "words": 7975,
+      "sha256": "2b433d160f9cc93387b355c9a094d66d705aefb3903f4b2059efa2ea82330f31"
+    },
+    {
+      "designation": "C-IIIγ-948",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-948_Foam_Flood.md",
+      "signals": 1,
+      "evidence": [
+        "A traveller who slept beside the carving walked to the top of the bank at dawn and stepped off it certain he could fly, and the sealing of the bed followed within the day. The traveller is named in the file and his belongings are listed. The inventory is short. It is reproduced in full on the grounds that a list of what a man was carrying is the nearest thing the record has to an account of who he was. The Vault door is opened by two Keepers together and neither is permitted to enter alone, a rule that predates the written protocol and was in force as custom for some years before anyone set it down. The file records both the custom and the date it became an instruction."
+      ],
+      "lines": 505,
+      "words": 9230,
+      "sha256": "221ec45e8a941d77c5ff19034aad8ede21ef22d8c85adf9fc87848c2eed1b64c"
+    },
+    {
+      "designation": "C-IIα-081",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIα-081_Broken_Mirror_거울의_조각.md",
+      "signals": 1,
+      "evidence": [
+        "Some truths the citizens asked the Keepers to seal away, because they could not live with them. And the sealed truths, pressed too long against the vault, cracked it, and became a mirror."
+      ],
+      "lines": 501,
+      "words": 7703,
+      "sha256": "aed9afd0e4cf81a62f4742493a1d0f3a544e60bafcefd0bb257f192cc55cf93f"
+    },
+    {
+      "designation": "C-IIβ-055",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-055_Weeping_Statue_우는_조상.md",
+      "signals": 1,
+      "evidence": [
+        "The citizens were taught to be useful, and the usefulness left no room for tears, and the uncried tears became a statue that weeps for them."
+      ],
+      "lines": 469,
+      "words": 8027,
+      "sha256": "376b40626e8189af57d3d7ef28f138ffebb78b159c89dc7aa43f725e91db0e84"
+    },
+    {
+      "designation": "C-IIβ-099",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md",
+      "signals": 1,
+      "evidence": [
+        "They could not move, and the wanting to move became a dancer that moves for them, forever."
+      ],
+      "lines": 486,
+      "words": 8040,
+      "sha256": "3a1b603d1d7014ec4bfd52e282e7beafe8a32df88c3f95e7805ecb64a6a1f46c"
+    }
+  ],
+  "reserves": [
+    {
+      "designation": "C-IIβ-135",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-135_Rem_꿈의_조각.md",
+      "signals": 1,
+      "evidence": [
+        "No record here may state what a person intends. Records state what has been done; an entry describing a plan, a hope or a thing somebody is working toward is struck out by the receiving clerk. The rule was earned. Aspiration files were kept once and they were used: a stated ambition became an expectation and then a standard, failure against it became a mark, and workers were refused posts on the strength of something they had wanted eleven years earlier. Worse, the files were read for loyalty — a man who hoped to leave was a man already half gone. Nobody proposes bringing them back and this file does not."
+      ],
+      "lines": 476,
+      "words": 7765,
+      "sha256": "7d1d370d0d62f898a3d70329bd20d24fd317cc3f6a0c62f3302655318931067f"
+    },
+    {
+      "designation": "C-IIβ-170",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-170_Unrung_침묵의_종.md",
+      "signals": 1,
+      "evidence": [
+        "The cruelest thing about the Unrung is that it was built in good faith. Someone designed it to save lives. And then, in the one moment that mattered, the good faith failed, and the bell that should have been a mercy became the shape of a mercy that did not arrive."
+      ],
+      "lines": 493,
+      "words": 9358,
+      "sha256": "ef41f2ddfec44085394d47e4edb07bc676b34f88928e563a1e1f815880ba962e"
+    },
+    {
+      "designation": "C-IIβ-235",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-235_Panopticon_벽_속의_감시자.md",
+      "signals": 1,
+      "evidence": [
+        "The Wardens are the city's observers. They patrol. They record. They log every danger, every Fracture-risk, every unstable citizen, every gathering the Council might want to know about. The Wardens are thorough. And the Wardens, by long standing order, do not intervene. They watch. They document. They file. The prevention of the dangers they record is someone else's responsibility — usually no one's — and the Wardens, over generations, became a vast network of eyes that saw everything and stopped nothing."
+      ],
+      "lines": 433,
+      "words": 6667,
+      "sha256": "5fb9633341d6432a656c45dfbced8e34fcd3082068e0d7a10f926d4d28ffdb5a"
+    },
+    {
+      "designation": "C-IIβ-777",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-777_Last_Fruit_타오르는_열매.md",
+      "signals": 1,
+      "evidence": [
+        "> *“A child was told his hunger was a crime. The hunger became the Last Fruit.”* — Elder, Zone B"
+      ],
+      "lines": 433,
+      "words": 6353,
+      "sha256": "52695495e62658e96bb56dfb1474a4ca75cc502569180f5099bb6b5c18c84429"
+    },
+    {
+      "designation": "C-IIβ-947",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-947_Soot_Fry.md",
+      "signals": 1,
+      "evidence": [
+        "| You speak the want the fish sealed away and cannot reach. The great black eye breaks its watch on the water and lifts, for a moment, toward the sky. The silhouette stills, then softens, and the puddle goes gently calm. You understand what you are permitted to — that this fish is hungry for a thing it has forgotten, and that the forgetting is a mercy. The Soot Fry is fully recorded. | You reach for the small, easy shape. The puddle erupts — the 2.2 m body, the unhinging jaw, the black water with no floor. You are taken before your hand closes. The fish feeds, and is emptier than before, and drifts on. The encounter ends without a record, because you became the record. |"
+      ],
+      "lines": 475,
+      "words": 8303,
+      "sha256": "473788f405dc40cee86c28b690f163af335aff0bc5b9ed25de64d9d59b475ec9"
+    }
+  ],
+  "units": []
+}
