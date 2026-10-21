@@ -8,6 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch173 unit2 — Swallowed Fury `C-Iα-683`
+
+[[SE-C-Iα-683_Swallowed_Fury_사라진_눈물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-683_Swallowed_Fury_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%88%88%EB%AC%BC.md "SE-C-Iα-683_Swallowed_Fury_사라진_눈물.md")]
+
+**Original/source review and R18 predeclared scope:** Complete393-line original, exactA–D/README read; CityGrudge/ResidueSubjectPhantasmal→suppressedtear/loss/safetyorder→burningtear/char/crimsonmark/notliquid→nontraversingappearances→attendance/interruptioncount→Flerehan/Ferrehan versus Pugnahan→right-ending/forcedcomfort→supervisor/safegriefroom→three derivedmetalpieces traced. R18predeclared3short/4careful. No forcedhumanoid or sharedsource/itembody.
+
+**Sources/history:** PriorBatch116unit4 835b867 alreadycredits exact683B pair and full set, WIP6374–6403; no newcredits. B7de321c3 section/prose repairs; B52 personalization and B14weaponart are not newreviewcredits. CSV811–814 genericAccessory versus Tail held; Masterindex352–354/392–394 and4756–4786 allread. Entity484 TheVanishedTear; fullTale1186657–6720 preserves supersededlevel/Pugnahan contrastednotcopied. Archetype275 throatbulgerecurve compatible narrowfang; personalization506–520 read. Disposition398Neutral unchanged. α3–6/2/2Single1,max5/15; Suit1/.4/1.8/1.2,max5/10; EmberTail5%+1 match exactsources.
+
+**What changed:** Replace walking and corrosive-corridor shorthand with actual discontinuous attendance-keyed appearance. Replace undifferentiated Work menu with its actual response split. Tie the burning nonliquid tear to denied grief, and give Fang/Plate/Ember individual visual, incident, corrosion and shutdown records.
+
+**Final whole-file assessment:** HELD: Nonhumanoid burning tear and discontinuous phantasmal movement are supported. Target/closure/cost/state relationships still need evidence despite repairs and technical PASS. Alreadycredited fullset/Weapon; SE+0.
+
+**Holds / later recheck:**
+- No increaseinforce/briefvisibility versus physicalcracking/lastingmark and destructivecombat needs actualstate/measurement distinction; no invented transformation.
+- Presence prevents everyone crying versus uninterruptedweeping required to close: safecontact/timing scope not established by the file.
+- Primarygeneric bodydamage and one designatedperson versus BExpressionCut/coerciveorder and personstrikebacklash; source-record added but conflicting ability retained for evidence.
+- Allthreepiecesmakeoperatorunabletocry versus Embercannotconcealgrief and setconcealmentimpossible; pieces/cycle/delayedcost scope unresolved.
+- Markbrief versus dayfade, never twiceper shift versus recordeddoubles, noheat/fevercold versus burning/heat need trace/time/event qualification. Safetyorder remainsvalid; productivityTale and exactsafetyincident not silently equated.
+- Tail5%item versus genericRegistryAccessory; primaryeligiblecriedwithoutapology versus Drandomsuccessfulwork is an eligibility gap, not a fabricated deterministicgrant.
+
+**Commentary:** The strongest detail is that a correct safety instruction can still summon the entity. I would keep that discomfort rather than blame a supervisor or require crying beside molten stock. The nearby grief room makes the institution responsible for an alternative, while the three items show different dangers of making feeling visible.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 7 exact replacements (3batch-short/4careful-detail); LC_ALL=C words6359→6849. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_02_SWALLOWED_FURY.md`. Equipment+0/+0;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No174/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch173 unit1 — The Extinguished `N-IVγ-250`
 
 [[SE-N-IVγ-250_The_Extinguished_꺼진_자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-IV%CE%B3-250_The_Extinguished_%EA%BA%BC%EC%A7%84_%EC%9E%90.md "SE-N-IVγ-250_The_Extinguished_꺼진_자.md")]

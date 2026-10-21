@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Iα-683": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_02_SWALLOWED_FURY.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Latest owner p after CLOSED172 authorizes173 only. Minimumfive; cumulative three No change extends5→7→10. Later full recheck retained."
@@ -2231,8 +2243,33 @@
     {
       "designation": "C-Iα-683",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-683_Swallowed_Fury_사라진_눈물.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: Nonhumanoid burning tear and discontinuous phantasmal movement are supported. Target/closure/cost/state relationships still need evidence despite repairs and technical PASS. Alreadycredited fullset/Weapon; SE+0.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_02_SWALLOWED_FURY.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-683-A__SIDE_CODEX_Swallowed_Fury.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-683-B__MAW-W_Swallowed_Furys_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-683-C__MAW-S_Swallowed_Furys_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-683-D__MAW-G_Swallowed_Furys_Ember.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_PERSONALIZE_PROGRESS.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Iα-723",
