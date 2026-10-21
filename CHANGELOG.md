@@ -8,6 +8,31 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch168 unit1 — Dawn That Forgot `N-IIIγ-917`
+
+[[SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-917_Dawn_That_Forgot_%EC%9E%A0%EB%93%9C%EB%8A%94_%EC%83%88%EB%B2%BD.md "SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md")]
+
+**Original whole review and supported scope:** Complete357-line primary and exact917A–D read. Time-Dream is daylight without waking, no source form/figure/voice, not Organic anatomy. Whole chain includes recognized ambient history, residents versus phenomenon, lit fixed territory/widenings between episodes, onset/shutter timing, perimeter Work, stalled-clock combat versus sunrise, exposure privacy, paper-only comparisons and apparatus-derived gear. Scope: temporal label/actual expansion/Major risk; replace missing-night/restored-interval claims with delayed waking; measurable times versus uninstrumented dream state; repair comparison confidentiality; concrete observer/extent/gear organisation.
+
+**Exact sources/history:** Exact917A–D, registry1027–1030, archetype376 and disposition345 read; no dedicated Master exact-name entry established. Primary/B γVoid14–25 Normal2 Short2 4/25; C L/G/V/W1/1/.3/.8 4/20; DHead5%+1 align. Same Weapon DawnHorizonLens Instant versus Short glassblade remains. B numbness versus primary week delayed-waking already explicit in Edge exposure account, not invented equivalent. B135unit4 cf1859d72b95526dbf45d004e01f0b58a94b7065 full evidence/history paragraph read: prior exact Weapon increment to204/287 and FullSE194/301. Prior coverage is not fresh SE body completion. Archived B45unit3 and B59unit8 also inspected. Equipment+0/+0, no duplication.
+
+**Changes:** Nine repairs identify temporal phenomenon/street expansion, correct Major versus Sovereign, distinguish delayed waking from missing/restored night, qualify measurable times versus dream state, remove two demands for private exposure figures and add daylight/sleeper/observer/gear distinctions.
+
+**Final logical result:** HELD: temporal/non-body organisation, observed extent, delayed waking and private fitness handling are explicit. Vessel, combat-time and gauge/history conflicts still prevent whole-file logical completion. Gear need not share dawn/district silhouette. Complete final primary reread in document order after actual validation, hash matches.
+
+**Holds / later recheck:**
+
+- VesselDestructibleYes/drop versus no source form/body remains; no physical vessel invented.
+- Stalled pre-dawn clock/missing-hour combat and horizon-wide Ultimate versus daylight on schedule and three geographic widenings need state evidence.
+- Gauge70 unchanged nine years versus successful watches lowerGauge; exposure/episode/shift timing scopes and mean-time final-success wording remain.
+- Comparison claims neither file entered despite four local entries. Same Weapon Instant lens versus Shortblade and bearer-as-new-site corrosion remain separate source issues.
+
+**Commentary:** The loss is ordinary lateness rather than theatrical terror, which makes the district adapting its early shift convincing. The confidential exposure ledger gives watchers a cost without turning their medical history into facility property.
+
+**Checks and evidence:** `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_01_DAWN_THAT_FORGOT.md`. 9 supported replacements; LC_ALL=C wc -w4924→5176. All five validators PASS, raw outputs and original/final/source hashes in receipt. Written-design review only: no illustration, rendered page, browser, game or deployed site inspected. Equipment+0/+0, SE+0; no duplicate/retroactive/body/art credits.
+
+**Progress:** OPEN1/5, No change0/1. Types255/30184.72%(46/301remain);Weapon255/28788.85%(32/287remain);SE16/3015.32%(285/301remain). Individual gate/push follows. Minimum five/cumulative No change ladder retained. No169/merge/deployment;301owner-eight-body one4+4/generate-before-copy and later full recheck retained.
+
 ## Batch168 OPEN — five fresh pending reviews
 
 Owner p after CLOSED167 authorizes168 only. Frozen order: Dawn That Forgot917, Allhallow916, Fathers Broken Bond072, Last Warmth of Forty-Two515, Amnesia914. Five reserves/original hashes and LC_ALL=C shortest ranking in B168_OPEN.json. No review or credit at opening. Counters255/30184.72%(46remaining),255/28788.85%(32remaining),16/3015.32%(285remaining). Complete whole original/exact-source/history/final readings, supported improvements, individual Commentary/five validators and one verified push per unit. Minimum five, cumulative No change ladder5→7→10 retained; pending is not No change. No169/merge/deployment. Later recheck and301owner-eight-body one4+4/generate-before-copy blocker retained.

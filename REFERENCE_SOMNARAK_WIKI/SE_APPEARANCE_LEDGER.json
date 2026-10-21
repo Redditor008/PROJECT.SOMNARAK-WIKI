@@ -27,7 +27,20 @@
       "O-IVδ-515",
       "O-IIβ-914"
     ],
-    "reviewed": {},
+    "reviewed": {
+      "N-IIIγ-917": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_01_DAWN_THAT_FORGOT.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    },
     "authorization": "Owner p after CLOSED167 authorizes168 only; minimum five, cumulative three No change triggers5→7→10; later full recheck retained."
   },
   "dossiers": [
@@ -2570,8 +2583,29 @@
     {
       "designation": "N-IIIγ-917",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: temporal/non-body organisation, observed extent, delayed waking and private fitness handling are explicit. Vessel, combat-time and gauge/history conflicts still prevent whole-file logical completion. Gear need not share dawn/district silhouette.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_01_DAWN_THAT_FORGOT.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-A__SIDE_CODEX_Dawn_That_Forgot.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-B__MAW-W_Dawn_That_Forgot_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-C__MAW-S_Dawn_That_Forgot_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-D__MAW-G_Dawn_That_Forgot_s_Token.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIIγ-929",
