@@ -8,6 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch173 unit3 — Door to Nowhere `O-IIβ-922`
+
+[[SE-O-IIβ-922_Door_to_Nowhere_솟아오른_문](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-922_Door_to_Nowhere_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%AC%B8.md "SE-O-IIβ-922_Door_to_Nowhere_솟아오른_문.md")]
+
+**Original/source review and R18 predeclared scope:** Full445-line original, fullA–D and folderREADME read. OutsideGrudge/EchoObjectWeight/I-Relic→lawfullockdown/visibleunreachablethreshold→freewalllessheavydoor/redframe/char→risingfloor/handle→choiceshown/memoryoverrun versus unopenedwork→currentheight/orderledger→pairedcost→δstaff/harness/handlecharm traced. R18predeclared3short/6careful. Derivedpolearm neednotresemble source door.
+
+**Sources/history:** ExactO-IIβ-922[O]→SE922A–D; notMiasmaC-IVδ-922→SE1043. Full Master652–654index692–694/details8063–8094, Entity587, fullTale21812195–12254, CSV1047–1050, archetype381Short, disposition383Neutral read. B105 comparison table specifically distinguishes this source fromMiasma but didnotreviewselected922fullset; earlierWIPvol01 152–160 andCHANGELOGvol02 1927 are ownseriesrestatements. No full/exactWeaponreview found, so fresh+1/+1. δ10–15/3Fast/3MediumSkewer2/50; Suit1/.4/1.8/1.2,2/45; CharmTail4%+3 match. Shortarchetype vs Mediumstat retained; Fanglegacyfilename/SideMasterdetailtitle doesnotnegate matching oakstaff Appearance.
+
+**What changed:** Repair stationary-device shorthand and two stale two-piece counts. Distinguish βsource from δequipment in overview/interpretation. Add concrete wall-less threshold versus historical exit relation, missing source-supported Skewer/falloff, and separate Shield/Charm attribution and shutdown notes.
+
+**Final whole-file assessment:** HELD: Object-Weight free-standing door and rising emergence fit the originating inaccessible threshold; derived staff/harness/charm are legitimate distinct forms. Tool mount, height history, activation and resolution relationships remain unresolved. Newsourcecoverage+1/+1, SE+0.
+
+**Holds / later recheck:**
+- Ambientfloor-door versus onlymountedonbearer/closedboundary I-Relic rule needs a source/tool mode crosswalk; not invented by deriving equipment.
+- Heightneverfalls/staircase2.1→2.6 versus Readingfallinghandle and yeardata104→261cm; event/chart readings not reconciled.
+- Nohandleopenpermission/alwaysobeyed versus fourcontacts/activationrecords, openingversusunopenedwithdrawal/vanish conditions require actualtiming not automaticcontradiction.
+- FullAscentfourcontacts/ceilingandpropagation harm versus treatingasexitonlyharm; currentTransformrole versus unresolvedappearancedoesnotbreach needs state/incident scope.
+- Nativewithdrawal withnobodyending versus Sidebelow25%resolution and binding; threshold/condition cannotbe invented.
+- Shield/Charm same genericcost/sitecorrosion versus primaryshareddoorwaytoll; item/body/Mastertypes and RegistrygenericAccessory5% vs itemTail4% retained; unnamed+3stat not guessed. Interactionninecounts includeplannedabortedExile session; not silently treatedascompleted.
+
+**Commentary:** I like that the lockdown can be lawful and still have an alternative worth recording. The door does not have to prove the order cruel to make its cost visible. The staff’s boundary function is a useful inversion, provided it is not mistaken for permission to open the source or erase the resident’s loss.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 9 exact replacements (3batch-short/6careful-detail); LC_ALL=C words6392→6804. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_03_DOOR_NOWHERE.md`. Equipment+1/+1;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No174/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch173 unit2 — Swallowed Fury `C-Iα-683`
 
 [[SE-C-Iα-683_Swallowed_Fury_사라진_눈물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-683_Swallowed_Fury_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%88%88%EB%AC%BC.md "SE-C-Iα-683_Swallowed_Fury_사라진_눈물.md")]

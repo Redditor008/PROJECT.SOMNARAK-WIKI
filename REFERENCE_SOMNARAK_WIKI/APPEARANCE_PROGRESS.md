@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch173 OPEN2/5.** Owner p authorizes173 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B173_OPEN.json). No174/merge/art/deployment.
+**Latest: Batch173 OPEN3/5.** Owner p authorizes173 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B173_OPEN.json). No174/merge/art/deployment.
 
 **Latest: Batch172 CLOSED5/5.**47supported replacements, five HELD, No change0/5. Equipmentcoverage+2Types/+2Weapon; SE+0. [Batch report](SE_APPEARANCE_REVIEWS/B172_CLOSE.md). No173/merge/deployment.
 
@@ -1319,3 +1319,7 @@ CLOSED5/5;48replacements, fiveHELD whole designs, No change0/5. 26,608→28,257w
 ### Batch173 unit2 — OPEN2/5
 
 [Swallowed Fury evidence](SE_APPEARANCE_REVIEWS/B173_02_SWALLOWED_FURY.md): HELD, 7supported repairs, full final reading and five actual checks. No change0/2.
+
+### Batch173 unit3 — OPEN3/5
+
+[Door to Nowhere evidence](SE_APPEARANCE_REVIEWS/B173_03_DOOR_NOWHERE.md): HELD, 9supported repairs, full final reading and five actual checks. No change0/3.
