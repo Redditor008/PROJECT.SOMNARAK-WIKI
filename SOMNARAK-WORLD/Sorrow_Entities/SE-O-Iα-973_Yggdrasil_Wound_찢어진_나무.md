@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Mind |
 | **Physical Form** | Mixed — A tree-beast split crown-to-root, each half a lurching creature of pale wood dragging itself on half a root-system, the tear between them glowing. Bloodless-warm, it smells of ash; two halves of one creature, crawling. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Non-Breach: no spatial movement. Breaching: the two halves crawl apart on separate half-root systems; this does not describe ordinary movement of the contained presence. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -122,7 +122,7 @@
 
 ### Appearance States
 
-This entity is recorded in two distinct states, and the SECC Classification above describes only the first of them. The difference is a working one and not a matter of description: the state determines what can be perceived, by whom, and with what instruments, and a report that does not declare which state it was taken in cannot be compared against any other.
+This file records two distinct states. The classification’s no-vessel entry belongs to the Non-Breach account, while its pale-wood tree-beast description belongs to the Breaching account; the table above must not be treated as a uniform description of either state. The state determines what can be perceived, by whom, and with what instruments. Declare it on every report before comparing observations.
 
 | Field | Non-Breach Appearance | Breaching Appearance |
 |---|---|---|
@@ -177,7 +177,7 @@ The table above is one input among several, and in the deep tunnels it is the SE
 
 - **Breach type:** Escape — the entity crosses from the Non-Breach Appearance into the Breaching Appearance and roams the facility in physical form.
 - **Non-breach mechanics retained in breach:** The state change adds a body; it removes nothing. The perception gate still applies, so a breached Tree is invisible to anyone without an unresolved memory conflict and those personnel will report collapsing floors with no cause attached. Warmth remains indexed to denial and remains the fastest indicator available. The cleft remains the state reading. Grounding partners still cannot see what they are grounding against, and the two-account rule still governs every statement taken afterwards. A response team that treats the breach as an ordinary structural emergency will be working from the reports of the people least able to perceive it.
-- **Containment priority:** The standard response cannot be executed here and personnel should be told why rather than left to discover it. Pugnahan is a logged gauge increase that drives the split through the worker's thoughts. More fundamentally, Wardens selected for steadiness are precisely the personnel least likely to be able to perceive this entity, and several logged responses consist of a stable detail standing in a tunnel seeing nothing while an affected colleague deteriorates beside them. Ground the affected worker, keep both of their accounts on the record, and do not seal the tunnel — there is nothing in it to seal in.
+- **Containment priority:** The standard response cannot be executed here and personnel should be told why rather than left to discover it. Pugnahan is a logged gauge increase that drives the split through the worker's thoughts. More fundamentally, Wardens selected for steadiness are precisely the personnel least likely to be able to perceive this entity, and several logged responses consist of a stable detail standing in a tunnel seeing nothing while an affected colleague deteriorates beside them. Ground the affected worker and keep both accounts on the record. A breaching Tree can occupy space and damage the tunnel while remaining unseen by the grounding detail; absence from their sight is not an empty-tunnel finding. Sealing alone is not the recorded suppression condition.
 - **Sorrow Gauge on breach:** Indexed to denial. Rises 10% each time a memory is contradicted, overruled or withdrawn in its presence — including a worker correcting their own earlier account under pressure — and the warmth rises measurably with it. Falls 10% each time two incompatible accounts are both written down and neither is struck out. Silence holds it level. Reconciliation does not count as resolution and has never lowered it.
 
 ## M.A.W. Equipment
@@ -190,7 +190,7 @@ The table above is one input among several, and in the deep tunnels it is the SE
 
 Appearance : A spherical censer carved from a hollowed ironwood tree burl, bound with brass hoops and suspended from a dark cord, burning amber resin extracted from sorrow-blighted weeping willows.
 
-The burning resin produces a warm, viscous smoke that clings to surfaces and coats airborne particles. Breathing the vapor numbs physical pain and bolsters an Specialist's psychic resolve.
+The burning resin produces a warm, viscous smoke that clings to surfaces and coats airborne particles. Breathing the vapor numbs physical pain and bolsters a Specialist's psychic resolve.
 
 **Damage:** Void 3–6
 **Speed:** 2 (Normal)
@@ -254,10 +254,10 @@ Two rules govern issuing. The first is attribution: a piece opens the hazard onl
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Yggdrasil Wound's known toll: memories go in halves rather than whole. The wielder keeps the room and loses who was in it, keeps the decision and loses the argument that produced it. Opened at the end of the rotation, not before, and only after the response has been attributed to Yggdrasil Wound and entered under the piece's own name. |
-| **During use** | Watch for Yggdrasil Wound's toll — memories go in halves rather than whole. The wielder keeps the room and loses who was in it, keeps the decision and loses the argument that produced it — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Yggdrasil Wound's known toll: memories go in halves rather than whole. The wielder keeps the room and loses who was in it, keeps the decision and loses the argument that produced it. Opened at the end of the rotation, not before, and only after the response has been attributed to Yggdrasil Wound and entered under the piece's own name. That halved-memory baseline is the local censer record, not a shared toll specification: record the Veil’s self-account and the Root’s simultaneous pain separately. |
+| **During use** | Record each piece’s toll and the hour first seen rather than first reported: the local censer’s halved memories, the Veil wearer’s altered self-account, or the Root bearer’s simultaneous pain from both memories. Keep source attribution and the grounding partner’s account alongside the operator’s. |
 | **At limit** | The veil preserves the self by keeping two copies of it. Wearers report no distress and describe the sensation precisely and repeatedly as being one of two, and the wielder has stopped reporting it — the usual end point for a Yggdrasil Wound piece. The observer calls the limit. |
-| **After use** | Piece returned; re-assess a week later, because what Yggdrasil Wound takes (the veil preserves the self by keeping two copies of it. Wearers report no distress and describe the sensation precisely and repeatedly as being one o) does not present on the day. Where a piece is closed on the set's own clause, the named witness, the source title and event as stated, and the unrefunded cost are entered with the return, and the record stands in full. |
+| **After use** | Piece returned; re-assess a week later rather than assuming the day’s lack of distress is recovery. Record memory losses, altered self-account and the pain of both memories under the piece that produced them; do not collapse all costs into the Veil’s local two-copy description. Where a piece is closed on the set’s own clause, enter the named witness, the source title and event as stated, and the unrefunded cost with the return. The record stands in full. |
 
 **Stat interpretation:** The α grades are low and accurate. What no column records is that this set's costs are all paid in coherence rather than capability — the wearer performs perfectly well, by every measure the facility takes, as two people. Read the Cost lines as the specification and take the grounding partner's account over the wearer's.
 
@@ -327,7 +327,7 @@ A tree grows behind your eyes. Its trunk is split, its roots hold two different 
 
 ### Interaction Pattern
 
-The Tree is worked within reach of three other files — The Torn Trace, The Hollow Tree and The Memory Well — and this one signs no treaty and keeps no feud with any of them; each is an open question the archive has never managed to close. Should a pairing ever be run, the log takes what shifted in the sound and on the dials, how the gauge and containment ended up, and its starting distance, its duration, and what touched it off.
+The relation records below concern The Torn Trace, The Hollow Tree and The Memory Well. They are not merely proposed pairings: observer overlap and warmth changes are recorded, and the Memory Well session permanently widened the cleft. That last pairing is prohibited and must not be proposed again under a general interaction protocol. Keep observer reports separate, with state, duration, gauge, cleft readings and the conditions of each recorded encounter.
 
 **Interaction method:** Establish the solo baseline with the same observers each cycle wherever possible, because a change in who can perceive the Tree is a change in the instrument rather than in the entity, and the two are easy to confuse. When a second holding is introduced, log the separation, the duration, the gauge movement, the cleft width, and the question specific to this entity: whether the other presence appears on one side of the split or on both. A presence that registers on only one half has been recorded twice and in both cases the observers disagreed about which half, which is itself the characteristic result and is preserved rather than adjudicated.
 
@@ -378,7 +378,7 @@ Some sorrows mourn a loss. This one mourns the tearing — a mind split open by 
 **Containment & Handling Procedures:**
 - Flerehan closes the cleft slightly and is the nearest thing to treatment permitted here; Ferrehan holds the worker between both memories without asking them to choose. Pugnahan is prohibited, demanding as it does a single account.
 - No door is relevant. The measures are the perception roster, the grounding-partner rule, and the standing instruction that both accounts stay on the record and neither is struck.
-- At count zero it acquires wood, weight and roots, and the transition has never reversed. Do not seal the tunnel; there is nothing in it to seal in.
+- At count zero it acquires wood, weight and roots, and the transition has never reversed. Keep the state on the response record: personnel unable to see the entity can still encounter its physical damage; sealing alone does not satisfy the grounding condition.
 **Observation Notes:**
 - Formed from one tunnel worker who survived a collapse that took everyone else, kept a single memory of it, and gave two mutually exclusive accounts of that memory, both of which remain on his file because nothing on a file is ever removed.
 - Cleft width at crown: 11, 17, 24 centimetres across the three annual returns. Warmth indexed to denial throughout; the roster of those who can perceive it turns over by roughly a third a year.
@@ -389,7 +389,7 @@ Some sorrows mourn a loss. This one mourns the tearing — a mind split open by 
 
 ### Registry Addendum
 
-**Operational interpretation:** Two descriptions in this file appear to disagree and do not. The classification records the Tree as incorporeal with no vessel, perceived mentally rather than physically; the breach record describes it rampaging on its limbs, crashing through walls and extending roots through the floor. Both are accurate, and they are accurate at different times — the Appearance States table above sets out the Non-Breach and Breaching forms as a single mechanic with two readings rather than as a contradiction to be argued over. Personnel should take three consequences from that. The classification table describes the contained state only, and is not a description of what a response team will meet. The state change is one-way on the current record, so the Non-Breach protocols are preparation and not a fallback. And the perception gate survives the transition, which means a breach here produces two incompatible but equally honest accounts from the same corridor — one of an entity, one of a building failing. Both are filed, as they are for every other reading taken against this holding, and the disagreement between them is not an error to be resolved on the way back.
+**Operational interpretation:** Read the recorded states separately. The no-vessel and mental-presence claims describe Non-Breach, while the pale-wood form, limbs, damaged walls and floor roots describe Breaching. The classification currently contains fields from both accounts, so its heading alone cannot declare the state of an observation. The Appearance States table records the intended distinction; it is not permission to treat every unqualified statement elsewhere as state-resolved. Personnel should take three consequences from that. The no-vessel entry cannot describe what a response team meets after physical breach, and the tree-beast form cannot be read back as an ordinary contained body. The state change is one-way on the current record, so the Non-Breach protocols are preparation and not a fallback. And the perception gate survives the transition, which means a breach here produces two incompatible but equally honest accounts from the same corridor — one of an entity, one of a building failing. Both are filed, as they are for every other reading taken against this holding, and the disagreement between them is not an error to be resolved on the way back.
 
 **Review requirement:** After any incident, verify the gauge, the activation count, the cleft width and the personnel exposure log — and review the perception roster against the previous one. A worker newly able to perceive the Tree, and a worker who has stopped being able to, are both findings, and the second is not automatically good news; it may mean a conflict has been resolved, or it may mean it has been buried. Neither conclusion is drawn from the roster alone and neither is recorded as a performance matter.
 ## Statement Record
