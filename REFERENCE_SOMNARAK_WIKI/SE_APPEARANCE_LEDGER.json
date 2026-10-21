@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVδ-909": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B175_05_LABYRINTH_UNFINISHED_MIND.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B175_OPEN.json"
@@ -1960,8 +1972,33 @@
     {
       "designation": "C-IVδ-909",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: stone form and fixed doorway are supported, but internal route/survey model, reach, staffing and same-item equipment form remain unresolved. +0 Types/+0 Weapon/+0 SE.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B175_05_LABYRINTH_UNFINISHED_MIND.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1039_Labyrinth_of_the_Unfinished_Mind/SE-1039-A__SIDE_CODEX_Labyrinth_of_the_Unfinished_Mind.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1039_Labyrinth_of_the_Unfinished_Mind/SE-1039-B__MAW-W_Labyrinth_of_the_Unfinished_Mind_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1039_Labyrinth_of_the_Unfinished_Mind/SE-1039-C__MAW-S_Labyrinth_of_the_Unfinished_Mind_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1039_Labyrinth_of_the_Unfinished_Mind/SE-1039-D__MAW-G_Labyrinth_of_the_Unfinished_Mind_s_Token.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/README.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-915",
