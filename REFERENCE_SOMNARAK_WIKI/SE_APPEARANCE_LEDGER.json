@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-IIIγ-920": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B167_03_ONCE_UPON.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Owner p after CLOSED166 authorizes Batch167 only; minimum five; cumulative three No change triggers5→7→10; later full recheck retained."
@@ -3640,8 +3652,29 @@
     {
       "designation": "O-IIIγ-920",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-920_Once_Upon_이야기의_시간.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: the interval, untouchable visual/audio manifestations, fixed extent and exceptional simultaneous presentation are now explicit and unsupported suppression removed. Vessel and register-source relationships still prevent whole-file logical completion; equipment-only differences are tracked separately, not used to demand a donor silhouette.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B167_03_ONCE_UPON.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/920_Once_Upon/SE-920-A__SIDE_CODEX_Once_Upon.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/920_Once_Upon/SE-920-B__MAW-W_Once_Upon_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/920_Once_Upon/SE-920-C__MAW-S_Once_Upon_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/920_Once_Upon/SE-920-D__MAW-G_Once_Upon_s_Token.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IIIγ-924",
