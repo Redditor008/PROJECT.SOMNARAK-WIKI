@@ -58,3 +58,7 @@ Closed at 5 / 5 after all five individual verified pushes, complete original/fin
 ## Batch166 application — 2026-10-21
 
 CLOSED5/5 reviews after five individually verified pushes and whole original/final reads;25 fresh closure validators and54 tests PASS. No change0/5 does not meet the cumulative-three extension trigger. All five contain substantial bespoke narrative and interaction records, not a simple cohort. Twenty-six supported repairs do not clear the five unresolved designs or earn body/equipment credit. Owner p authorizes166 only, no167/merge/deployment. [Closure evidence](../SE_APPEARANCE_REVIEWS/B166_CLOSE.md). Later recheck and301owner-eight-body blocker retained.
+
+## Batch167 application — 2026-10-21
+
+CLOSED5/5 reviews after whole original/exact-source/final reads and five individual verified pushes. No change0/5 does not trigger cumulative-three extension; all five have substantial narratives and interaction records, not a simple cohort. Thirty-three supported repairs leave five whole-design holds, earning no independent appearance completion or inferred equipment credit.25fresh validators and54tests PASS. Owner p authorizes167 only; no168/merge/deployment. [Closure evidence](../SE_APPEARANCE_REVIEWS/B167_CLOSE.md). Later full recheck and301eight-owner-body blocker retained.

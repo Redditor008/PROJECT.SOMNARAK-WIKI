@@ -1,6 +1,6 @@
 {
   "batch": 167,
-  "status": "OPEN",
+  "status": "CLOSED",
   "required": 5,
   "completed": 5,
   "no_change": 0,
@@ -122,7 +122,9 @@
         "se": 0
       },
       "link": "[[SE-N-IIIγ-929_Dead_Air_유령의_압력](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md \"SE-N-IIIγ-929_Dead_Air_유령의_압력.md\")]",
-      "table_link": "[Dead_Air](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md \"SE-N-IIIγ-929_Dead_Air_유령의_압력.md\")"
+      "table_link": "[Dead_Air](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md \"SE-N-IIIγ-929_Dead_Air_유령의_압력.md\")",
+      "unit_commit": "e523bfe012b8e7e7a36ef2f57a33c671d34f4e90",
+      "push": "PUSH VERIFIED"
     },
     {
       "designation": "N-IIIγ-908",
@@ -209,7 +211,9 @@
         "se": 0
       },
       "link": "[[SE-N-IIIγ-908_Unwaking_Block_잠드는_구역](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-908_Unwaking_Block_%EC%9E%A0%EB%93%9C%EB%8A%94_%EA%B5%AC%EC%97%AD.md \"SE-N-IIIγ-908_Unwaking_Block_잠드는_구역.md\")]",
-      "table_link": "[Unwaking_Block](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-908_Unwaking_Block_%EC%9E%A0%EB%93%9C%EB%8A%94_%EA%B5%AC%EC%97%AD.md \"SE-N-IIIγ-908_Unwaking_Block_잠드는_구역.md\")"
+      "table_link": "[Unwaking_Block](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-908_Unwaking_Block_%EC%9E%A0%EB%93%9C%EB%8A%94_%EA%B5%AC%EC%97%AD.md \"SE-N-IIIγ-908_Unwaking_Block_잠드는_구역.md\")",
+      "unit_commit": "b1f008dea5a4d653d7c3550d5c6f4dc7161114e7",
+      "push": "PUSH VERIFIED"
     },
     {
       "designation": "O-IIIγ-920",
@@ -299,7 +303,9 @@
         "se": 0
       },
       "link": "[[SE-O-IIIγ-920_Once_Upon_이야기의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-920_Once_Upon_%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98_%EC%8B%9C%EA%B0%84.md \"SE-O-IIIγ-920_Once_Upon_이야기의_시간.md\")]",
-      "table_link": "[Once_Upon](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-920_Once_Upon_%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98_%EC%8B%9C%EA%B0%84.md \"SE-O-IIIγ-920_Once_Upon_이야기의_시간.md\")"
+      "table_link": "[Once_Upon](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-920_Once_Upon_%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98_%EC%8B%9C%EA%B0%84.md \"SE-O-IIIγ-920_Once_Upon_이야기의_시간.md\")",
+      "unit_commit": "4e86ffb4aa7d6e0869aa0ff4232d1f422c83a71d",
+      "push": "PUSH VERIFIED"
     },
     {
       "designation": "O-IIβ-911",
@@ -394,7 +400,9 @@
         "se": 0
       },
       "link": "[[SE-O-IIβ-911_Never_Discharged_영원한_환자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-911_Never_Discharged_%EC%98%81%EC%9B%90%ED%95%9C_%ED%99%98%EC%9E%90.md \"SE-O-IIβ-911_Never_Discharged_영원한_환자.md\")]",
-      "table_link": "[Never_Discharged](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-911_Never_Discharged_%EC%98%81%EC%9B%90%ED%95%9C_%ED%99%98%EC%9E%90.md \"SE-O-IIβ-911_Never_Discharged_영원한_환자.md\")"
+      "table_link": "[Never_Discharged](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-911_Never_Discharged_%EC%98%81%EC%9B%90%ED%95%9C_%ED%99%98%EC%9E%90.md \"SE-O-IIβ-911_Never_Discharged_영원한_환자.md\")",
+      "unit_commit": "a4dcd284c98bcd3bf456a04838acfccaf2ed4ed7",
+      "push": "PUSH VERIFIED"
     },
     {
       "designation": "O-IIIγ-924",
@@ -480,7 +488,11 @@
         "se": 0
       },
       "link": "[[SE-O-IIIγ-924_Weighted_Silence_침묵의_구역](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-924_Weighted_Silence_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EA%B5%AC%EC%97%AD.md \"SE-O-IIIγ-924_Weighted_Silence_침묵의_구역.md\")]",
-      "table_link": "[Weighted_Silence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-924_Weighted_Silence_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EA%B5%AC%EC%97%AD.md \"SE-O-IIIγ-924_Weighted_Silence_침묵의_구역.md\")"
+      "table_link": "[Weighted_Silence](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-924_Weighted_Silence_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EA%B5%AC%EC%97%AD.md \"SE-O-IIIγ-924_Weighted_Silence_침묵의_구역.md\")",
+      "unit_commit": "0f363f7fb8052ba3eb063473e046644eff693224",
+      "push": "PUSH VERIFIED"
     }
-  ]
+  ],
+  "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B167_CLOSE.md",
+  "closure_json": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B167_CLOSE.json"
 }
