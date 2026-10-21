@@ -8,6 +8,31 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch167 unit5 — Weighted Silence `O-IIIγ-924`
+
+[[SE-O-IIIγ-924_Weighted_Silence_침묵의_구역](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-924_Weighted_Silence_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EA%B5%AC%EC%97%AD.md "SE-O-IIIγ-924_Weighted_Silence_침묵의_구역.md")]
+
+**Original full review / supported scope:** Complete363-line primary and exact924A–D read. Hazard-Void is absence of sound in a radius, not a visible body/materialsphere; survey markers identify extent rather than source anatomy. Origin is responders/paired-specificity reports rather than invented grief biography. Whole chain includes abrupt edge/subjective centre-weight, time/slate unreliability, outside survey Work, inconsistent expansion/history, generic attacks, apparatus-derived pieces, borrowed hand signals and paper-only comparisons. Scope: actual breach category, Major risk, radius not across, no universal loss/recovery claim, Gauge directions and detailed absence/apparatus/witness organisation.
+
+**Sources and history:** Exact924A–D, registry1055–1058, archetype383 and disposition339 read. Primary/B γVoid14–20 Normal2 Short2 Single100%4/25; C L/G/V/W1/1/.3/.8 4/20; DHead5%+1 align. Same Weapon SilenceLens Instant archetype versus Short trembling glass blade remains. Suit cost and D word/face-loss align; neither requires donor materialbody. No dedicated Master exact-name match. Archived B48unit3 quote/R29 closure and B49unit2 prose history read; these do not prove unique equipment-review eligibility. +0/+0 withheld conservatively, not asserted duplicate.
+
+**Changes:** Six repairs qualify unsupported Transform gloss to recorded breach category, correct Major versus Sovereign role, fix fifty-across to fifty-radius, distinguish item inactivity/loss/recovery, separate overdue-survey escalation from completed-Work relief and add concrete absence/edge/apparatus/witness/derived-set organisation.
+
+**Complete final review:** HELD: absence, ordinary radius, abrupt edge and witness/apparatus organisation are explicit; radius and loss/recovery summaries are repaired. The competing boundary-event/history and action/physical-vessel accounts still prevent a supported whole-file design. Equipment solidity or changed silhouette alone is not a source-body conflict. Complete final primary reread in document order after five actual validators; hash matches the recorded version.
+
+**Holds / later recheck:**
+
+- One actual50→53 expansion versus never moved/no gap/survey failed rather than circle changed; Y4247 versus Y4239–4255 and sixteen-years-since wording need exact history, not invented reset.
+- Generic pressing/cornered/Ultimate65 and VesselDestructible versus no material/no attacks/no pressure and highestGauge50 remain unjoined.
+- Outside-only resolution versus returning over line, inside readings versus no verifiable interior reading and whether radio relay loss/recovery is functional versus material need scope. No universal retrieval/loss assumption.
+- Same Weapon SilenceLens Instant archetype versus Short glass blade. Cowl makes no self-rustle versus nearby observers hearing cloth needs item-specific acoustic scope; donor absence and bearer-as-new-site corrosion remain separate records.
+
+**Commentary:** The second report being more specific rather than more truthful is the best discipline in the file. Keeping both versions makes failed description part of the evidence instead of replacing it with a tidy success story.
+
+**Evidence:** `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B167_05_WEIGHTED_SILENCE.md`. 6 supported replacements; LC_ALL=C wc -w4872→5097. Verify/tpl/sectfile/wikistd/sect PASS; raw checks and before/final/source fingerprints in receipt. Written-design review only; no illustration, rendered page, browser, game or deployed-site checked. Equipment +0/+0; written-design +0; no duplicate equipment/body/art credit.
+
+**Batch:** OPEN5/5, No change0/5. Counters remain255/30184.72%(46remaining),255/28788.85%(32remaining),16/3015.32%(285remaining) unless independent completed design is explicitly recorded. Mandatory individual gate/push follows. No close below required rung; no168/merge/deployment;301owner-eight-body one4+4/generate-before-copy blocker and later full recheck remain.
+
 ## Batch167 unit4 — Never Discharged `O-IIβ-911`
 
 [[SE-O-IIβ-911_Never_Discharged_영원한_환자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-911_Never_Discharged_%EC%98%81%EC%9B%90%ED%95%9C_%ED%99%98%EC%9E%90.md "SE-O-IIβ-911_Never_Discharged_영원한_환자.md")]

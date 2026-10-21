@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-924 [VH]` |
-| **Entity Type** | **Hazard** — Can breach via Transform |
+| **Entity Type** | **Hazard** — Expansion is the recorded breach category; no transformed body is documented |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -39,7 +39,7 @@
 ### Operational Notes
 
 - A cycle that finishes lowers the reading and nothing besides: on the record so far, no session has changed the circle, weakened it, or drawn it in by any distance.
-- The file holds exactly one escalation: the survey skipped in Y4247, and the markers read the same on the day the series resumed. Nothing here has ever moved the gauge except the length of time the edge went unmeasured.
+- The file holds exactly one escalation: the survey skipped in Y4247, and the markers read the same on the day the series resumed. Overdue-survey escalation and gauge relief on completed boundary Work are different directions of change; neither establishes physical suppression or a measured interior mechanism.
 - Han-Energy comes out of the sighting hours and is entered against the exposure the boundary watch took to earn them.
 - Extraction happens at the line, with the piece drawn outward across it. Twice a piece went the other way: nothing was destroyed and nothing was recovered — the slate inventory taken ninety seconds later simply had one fewer entry.
 
@@ -65,7 +65,7 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Major absence/boundary hazard; not a Sovereign classification |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
@@ -96,6 +96,12 @@
 - Taken past the markers, a piece of the set goes quiet and picks up again at the line. The price sits in that interval — the bearer spends it unarmed and, by every account, does not notice until they are outside.
 
 ## Appearance
+
+**An absence with an edge:** The holding is not a dark sphere, a silent figure or a material wall. Its visible apparatus is the boundary chain, posts and survey line in the Desolate; those mark the absence rather than forming the entity's anatomy. A stone crossing the line ceases to sound without a reported visible transformation. The ordinary scale is the stated radius, not the same distance measured across the whole circle.
+
+**Witness and instrument limits:** The boundary is abrupt. A feeling that the silence is heavier toward the centre is a reported impression, not an instrument-confirmed density or gradient. Clock estimates and writing made inside are explicitly unreliable; the outside watch and paired debriefs preserve that limit. Weight, texture and intent describe the witnesses' experience, not recovered flesh or material.
+
+**Apparatus and derived set:** The survey-rod blade, sighting-cloth cowl and chain-link Token are materialised equipment with their own effects. A trembling glass edge, missing inventory entry or remembered direction does not supply a body for the donor absence. Keep the cowl's wearer-specific hearing effect distinct from the whole field's absence of sound, and distinguish item inactivity from item loss.
 
 **Primary Form:** A 50-metre radius in the Desolate where sound does not exist — not muted, not dampened, but absent. Personnel who enter report that the silence has weight, texture, and intent.
 
@@ -221,7 +227,7 @@ Nothing at this holding presses on a worker; what it removes is an instrument. B
 
 ### M.A.W. Use Notes
 
-Every piece of this set comes off the markers, not the entity: the Edge from a survey rod, the Veil from the sighting cloth, the Token from a link of the boundary chain. Nothing here was cut from inside the circle, because nothing taken past the line has ever come back out.
+Every piece of this set comes off the markers, not the entity: the Edge from a survey rod, the Veil from the sighting cloth, the Token from a link of the boundary chain. The material sources are boundary apparatus, not material cut from the circle. Read temporary loss-of-function reports separately from missing-item inventory: neither establishes that every crossing destroys an item or that every item can be recovered.
 
 ### Field Use Record
 
@@ -298,7 +304,7 @@ The circle contains nothing. The file will not let that soften into a figure of 
 
 The manual chapter produced here runs three pages and most of it concerns writing: slates taken in, slates brought out, blank slates recovered and filed anyway as data, the clock held by somebody standing beyond the markers. It is a chapter about paperwork because paperwork is what the circle consumes.
 
-Nothing here rages and nothing weeps; the file has never needed a verb for what it does. It is fifty metres across and it is quiet, and seventeen separate surveys agree it is precisely as quiet and precisely as wide as the year it was first written down.
+Nothing here rages and nothing weeps; the file has never needed a verb for what it does. It has a fifty-metre radius and it is quiet, and seventeen separate surveys agree it is precisely as quiet and precisely as wide as the year it was first written down.
 
 ## 증언 (Testimonium) — The Testimony
 
