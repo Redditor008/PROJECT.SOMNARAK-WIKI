@@ -27,7 +27,20 @@
       "C-IIIγ-928",
       "C-Iβ-071b"
     ],
-    "reviewed": {},
+    "reviewed": {
+      "C-IIIγ-912": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B171_01_ELEVEN_FIFTY_NINE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    },
     "authorization": "Owner p after CLOSED170 authorizes171 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains."
   },
   "dossiers": [
@@ -744,8 +757,30 @@
     {
       "designation": "C-IIIγ-912",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: a district interval can be represented through witnesses and apparatus without a humanoid, and high-Gauge duration exceptions do not require a new silhouette. Remaining permission, timing and source-action mappings prevent whole-file certification. Equipment coverage already counted; no SE/art credit.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B171_01_ELEVEN_FIFTY_NINE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/912_Eleven_Fifty_Nine/SE-912-A__SIDE_CODEX_Eleven_Fifty_Nine.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/912_Eleven_Fifty_Nine/SE-912-B__MAW-W_Eleven_Fifty_Nine_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/912_Eleven_Fifty_Nine/SE-912-C__MAW-S_Eleven_Fifty_Nine_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/912_Eleven_Fifty_Nine/SE-912-D__MAW-G_Eleven_Fifty_Nine_s_Token.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIIγ-913",

@@ -1,4 +1,29 @@
 # Work In Progress
+## Batch171 unit1 — Eleven Fifty-Nine `C-IIIγ-912`
+
+[[SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-912_Eleven_Fifty-Nine_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md")]
+
+**Original/source review and predeclared R18 scope:** Full390-line original and exact912A–D read. City sorrow→bodiless TimeLament→publicclock versus externalclocks→simultaneous district grief and independent suppliedmemories→normal and explicit highGauge extended nights→stationary Work/roster/notes→portable derived set traced. R18 predeclared1batch-short/7careful-detail: own Recommendedresponse copied into ResolutionCondition; authored type, riskrole, visibleapparatus signature, three-subject profile, roster preparation, station-position instruction and itemcare. Conditional extended timing is documented, not an invented alternate body.
+
+**Sources/history:** B144unit3 130dbc5ead805aa7c470d792045fdbb8c6528ca0 complete history read, alreadyfullset/exactWeaponcredited; B1442shortmovement/notice preserved. ExactA–D4/4; CSV1007–1010, W912ClockFaceClose versus bladeShort2, disposition316Neutral. Master exactname/designation search no dedicatedMAW/Tale entry; Entity359awaitingrow. A/BγLament14–25 Normal2 Short2 Single100%4/25, C.3/1/1.2/.8 4/20, DHead5%+1 agree; sourceunknownformation preserved. Newreview+0/+0.
+
+**What changed:** Make the interval, visible clock marker, private grief accounts and derived objects distinct. Replace Sovereign/Transform shortcuts, repair preparation/station instructions, and put actual notification/outlasting into the Resolution row. Add source-specific costs, attribution and return care without inventing whose children the district remembers.
+
+**Final whole-file reasoning:** HELD: a district interval can be represented through witnesses and apparatus without a humanoid, and high-Gauge duration exceptions do not require a new silhouette. Remaining permission, timing and source-action mappings prevent whole-file certification. Equipment coverage already counted; no SE/art credit.
+
+**Holds / later recheck:**
+- Physical vessel/dust versus nonbody interval; A–D reduceGauge/isolate/interrupt versus primary unshortenable hour needs act/state mapping.
+- Ordinary609/611 and explicittwo0520highGauge exceptions are supported conditional durations, not an automatic body conflict; remaining always0400/nevervaried instructions and council notification timings still need coordinated scope.
+- Everypersonincludingasleep versus awake-only action scope; observerroster/independentnotebooks versus multipleobserverconvergence sampling not presumed same experiment.
+- Ownextraction outsidehour versus standardfacility0300operatingwindow; no invented exemption or cancellation. Chronology nineteenyears/sixyearstudy/operatingwindowtwelfthyear/fourthyear amendmentelevenreturns remains.
+- Primarypalecrystalblade versus clockfaceClose archetype; Cminutecost wording versus hour exposure and Bmidnightimagery versus namedclock/time distinction not silently normalized; Dsourceworkboon versus dutywindow not replaced.
+
+**Commentary:** The visible stopped dial works best as a marker, not as a creature. The untraced children are disturbing precisely because the archive is intact. Keeping their images separate from a manufactured founding disaster preserves the point of the investigation.
+
+**Checks and integrity:** Five actual verify/tpl/sectfile/wikistd/sect PASS, full final read after checks, final hash matches. 8 exact replacements; LC_ALL=C words6108→6491. Source hashes and unchanged digit streams retained. Detailed evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B171_01_ELEVEN_FIFTY_NINE.md`. Gate/push follows. Written-design review, not artwork/render/browser/game/live-site inspection. Equipment+0/+0;SE+0, no duplicate/retroactive/body/art credits.
+
+**Progress:** OPEN1/5, No change0/1. Three counters Types256/301=85.05%(45remain),Weapon256/287=89.20%(31remain),SE16/301=5.32%(285remain). No172/merge/deployment/artwork. Later full recheck and301eight-owner-body/one4+4/generate-before-copy blocker retained.
+
 ## Batch171 — OPEN0/5
 
 Owner p after CLOSED170 authorizes171 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains.

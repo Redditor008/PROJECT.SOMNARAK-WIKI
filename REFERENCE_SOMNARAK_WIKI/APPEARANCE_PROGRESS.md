@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch171 OPEN0/5.** Owner p after CLOSED170 authorizes171 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains. [Opening evidence](SE_APPEARANCE_REVIEWS/B171_OPEN.json). No new credit.
+**Latest: Batch171 OPEN1/5.** Owner p after CLOSED170 authorizes171 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains. [Opening evidence](SE_APPEARANCE_REVIEWS/B171_OPEN.json). No new credit.
 
 **Latest: Batch170 CLOSED5/5.**61supported repairs, five HELD, No change0/5; fresh993equipment review+1/+1, SE+0. [Batch report](SE_APPEARANCE_REVIEWS/B170_CLOSE.md). No171/merge/deployment.
 
@@ -1255,3 +1255,7 @@ CLOSED5/5;48replacements, fiveHELD whole designs, No change0/5. 26,608→28,257w
 **Batch170 closure (2026-10-21): CLOSED5/5 reviews; No change0/5.** 61 supported replacements, words29,059→31,185(+2,126); allfive written designs HELD.25fresh actual closure validators and54tests PASS; full originals/exactA–D/relevantMaster/history/finals read, individual receipts and verified pushes.296unselected/fivereserves/sourcehashes/digits/allfiveTales unchanged;61operations reconstruct finals,300PhysicalFormrows unchanged except927state-notorganic qualification. Fresh993exactsource review +1Types/+1Weapon; otherfour not recounted;SE+0. Three counters256/30185.05%(45remain),256/28789.20%(31remain),16/3015.32%(285remain). Ledger12changed/4retained/113held/2blocked/170pending. Parallel closurecheck resource SIGKILL disclosed; all25sequential rerun PASS, no exception. Source/gear silhouettes independently evaluated; no invented bodies/transforms. Later full recheck retained. p170spent, no171/merge/deployment/artwork.301eight-owner-body/one4+4/generatevalidatebeforecopy blocker persists.
 
 [Full report](SE_APPEARANCE_REVIEWS/B170_CLOSE.md).
+
+### Batch171 unit1 — OPEN1/5
+
+[Eleven Fifty-Nine evidence](SE_APPEARANCE_REVIEWS/B171_01_ELEVEN_FIFTY_NINE.md): HELD, 8 supported replacements, five actual checks and full final reading. No change0/1. No credits inferred.
