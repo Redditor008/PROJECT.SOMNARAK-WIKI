@@ -1,4 +1,29 @@
 # Work In Progress
+## Batch170 unit2 — Miasma `C-IVδ-922`
+
+[[SE-C-IVδ-922_Miasma_우는_안개](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-922_Miasma_%EC%9A%B0%EB%8A%94_%EC%95%88%EA%B0%9C.md "SE-C-IVδ-922_Miasma_우는_안개.md")]
+
+**Original/source review and predeclared R18 scope:** Full381-line primary and exact1043A–D read; full primary appearance/rolling route/nofigures/physicalpeople/Work/clearance/equipment chain examined. Predeclared R18 0batch-short/12careful-detail: mobilefog versus fixedposts/type/speed, δrole, malformed Tension, cordonClash/suppression, repeatedabilityword, unpromissory FinalObservation, visible/timeddwell interaction comparison, concrete bank/recollection/route/derivedgear profile and exactitem attribution/care. No new founding grief, particulate substance or creature supplied.
+
+**Sources/history:** B105unit4 013c42bf/e7040684 alreadyexactWeapon/fullsetcredited; full primary dated source-review paragraph and complete B105 source/collision history read. Actual CSV334–337, W1043pincers and W922staff, disposition342, Mastertable652/detailEntry652 confirmed separateDoor designation; Entity359awaiting row, exact Master/Tale search no922Miasmaentry. B43unit8/B46unit6 full histories read; B60unit5 bank-specific action rewrite retained. SourceAunknown subject/event preserved.
+
+**What changed:** Make header motion match the photographed rolling bank and keep fixed junction posts distinct. Replace malformed Tension and physical suppression with actual open-door, overlapping-spotter Work. Remove forty-second promise and invisible/subjective-dwell comparison. Describe memory particulars as worker experience, not fog anatomy; add exact Suit/Token attribution and maintenance requirements without solving the unrelated staff identity.
+
+**Final whole-file reasoning:** HELD: a rolling non-organic fog is coherent with City sorrow and no hidden body; derived solid equipment need not resemble it. Actual vessel, work-duration, Weapon identity/cost and Token provenance claims still prevent whole-file completion. Supported motion, instructions and recollection distinctions can ship independently.
+
+**Holds / later recheck:**
+- No vessel versus VesselDestructible/dust; no physical injury versus action damage requires a defined measurement scope.
+- Work thins volume/neverdisperses versus natural arrival/dwellcannotaccelerate; pipegrouting changes coverage/Gauge but is not assumed to alter fogdwell.
+- Primary oak Threshold Ward-Staff versus exact1043Edge/chitinpincer archetype and dominant-handfatigue versus primaryfirstuseweeping; SE922Door is not this922Miasma.
+- Token junctionlamp extraction versus unexplained postfloor recovery; CSVgenericAccessory versus exactHead. No invented two-stage creation.
+- Twospotters/fourjunction staffing may be topology not contradiction; precise schedule and within-hour reliable prevention versus imperfect weekfollowup require scope; mean2m50 versus40secondmedian preserved rather than normalized.
+
+**Commentary:** The fog is compelling because the source of its grief remains somebody else. Fixed posts and the cost of uninterrupted relief make its route concrete. I kept the supervisor-authored clearance rule and the frank uncertainty about follow-up rather than manufacturing a visible mourner.
+
+**Checks and integrity:** Five actual verify/tpl/sectfile/wikistd/sect PASS, full final read after checks, final hash matches. 12 exact replacements; LC_ALL=C words5601→6007. Source hashes and unchanged digit streams retained. Detailed evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_02_MIASMA.md`. Gate/push follows. Written-design review, not artwork/render/browser/game/live-site inspection. Equipment+0/+0;SE+0, no duplicate/retroactive/body/art credits.
+
+**Progress:** OPEN2/5, No change0/2. Three counters Types255/30184.72%(46remain),Weapon255/28788.85%(32remain),SE16/3015.32%(285remain). No171/merge/deployment/artwork. Later full recheck and301eight-owner-body/one4+4/generate-before-copy blocker retained.
+
 ## Batch170 unit1 — Dreaming Plague `N-IVδ-927`
 
 [[SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-927_Dreaming_Plague_%EA%BF%88%EC%9D%98_%EC%A0%84%EC%97%BC%EB%B3%91.md "SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md")]
