@@ -8,6 +8,33 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch171 unit5 — Blessing Giver `C-Iβ-071b`
+
+[[SE-C-Iα-071b_Blessing_Giver_축복_주는_자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-071b_Blessing_Giver_%EC%B6%95%EB%B3%B5_%EC%A3%BC%EB%8A%94_%EC%9E%90.md "SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md")]
+
+**Original/source review and predeclared R18 scope:** Entire353-line primary and exact1007A–D read. CityLament/protoHope→SubjectLament/KindHealergrief→Stage1passive toStage2active→tallerstraightenedfigure/grey-to-whiteclothes/goldhands→unmarked approach/route/stride→countedblessing/interruption→explicitStage3andHopeMourningbranches→derivedfocus/cloak/Mark traced. R18predeclared0batch-short/7careful-detail: type, stage-and-apparatusAppearance, interruptedcycle scope, piece-specificUseNotes, separatedbefore/aftertallies and sourceattributioncare. No perSEfour-form quota or invented transition.
+
+**Sources/history:** Identity preserved: fileDocumentIDC-Iα-071b, headerC-Iβ-071b and exactSE1007SourceSECC C-Iβ-071b. ArchivedWIPvol01:67explicitlyintentionalfilename/designationdifference; entireB9u1:900–918andarchived/currentlogssearched. B9 3005d6a prose/growth, not exactset review; KindHealerB117/157 reviewsSE071 not this1007pair. No prior exact1007A–D/sourcepair disposition found: fresh+1Types/+1Weapon. CSV190–193, W1007:407obsidiantriangularstilettoShort versushandfocus/Close, disposition425Negativeconversion. Entity35/159/359/491 contradictorylegacyPatientMartyrgrades and currentrow; no exactdedicatedMAW/Talesentry found. BβLament3–6 Slow1 Close1 Single100%max5/25 source-onlynotimported; C.4/1/1.6/.8max5/20valuesagree; DHand5%+1unnamedstat/15HPand12healingsagree, genericCSVAccessorycannotsetplacement. B/C/DdonotsupplyphysicalAppearance to override primary.
+
+**What changed:** Explain the actual healer-stage body changes and invisible Clock without inventing anatomy. Separate source blessings, the focus’s residual warmth, the Cloak’s comfort toll and unmarked colleague healing. Replace misleading universal everytouchmarks language and keep equipment tally distinct from source roster before/after issue.
+
+**Final whole-file reasoning:** HELD: different healer stages and conditional wings/terminal light are actual documented chronology, not grounds for a new arbitrary body. The current taller figure and reaching hands fit the Tale. Policy/action conflicts, stage arithmetic, targeting and same-item focus/stiletto identity still block whole-file completion. Fresh independent equipment coverage+1/+1, SE+0.
+
+**Holds / later recheck:**
+- Threeuneventful interruptions/StateChangerow versus RefusedBlessingautomaticdamage; no universal safeinterruption or punitive rule invented. Currentstanding suppressionrecommendationbefore12 versus chainminute do-not-stop/eleventhdebate, authority and actualteninterruption still need policy scope.
+- Stage3starts attwelve versus tabletwelvepersonsequencestartsStage3/final4atwelfth; bodywingpretransformationateleven is explicitlyconditional, not a baselinebodydefect. TerminalHope/Mourning are distinct sourced outcomes, not same-stateconflict.
+- Shefollowsunmarked/ignoresmarked versus markedwalkedtoward; hands-watcher versus stride-instead-of-hands instruction needs coordinated attention scope. Bellpause table versus noobservedcontact remains unconfirmed, no trial invented.
+- Currentβdesignation versus intentionalαfilename/catalognamespace preserved; widerEntityCodexPatientMartyrCIIIγ071b example not silentlymapped toBlessingGiver. SourcegenericGaugebelow25 versus count-driven chain lacks target/action mapping.
+- GentleHandfocus/healing versusW1007obsidianstiletto/Short and SideBdamagingClose profile: no state bridge; source-only numbers not copied. Dbenefitunknownstat/Handchance versus unspecifiedprimary, exactwristversusHandnot normalized. Personal12healing transformation and originaluniversalsetmark sentence nowseparatedbutno definitiveitemaftermathinvented.
+
+**Commentary:** The useful change is that kindness now approaches you. Her human silhouette is justified by the actual stage history, while the comforting gold does not prove a benevolent outcome. The log must not turn a colleague healed without a mark into another recruited person just because both records contain a count.
+
+**Checks and integrity:** Five actual verify/tpl/sectfile/wikistd/sect PASS, full final read after checks, final hash matches. 7 exact replacements; LC_ALL=C words6233→6611. Source hashes and unchanged digit streams retained. Detailed evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B171_05_BLESSING_GIVER.md`. Gate/push follows. Written-design review, not artwork/render/browser/game/live-site inspection. Equipment+1/+1;SE+0, no duplicate/retroactive/body/art credits.
+
+**Validation disclosures:** None.
+
+**Progress:** OPEN5/5, No change0/5. Three counters Types258/301=85.71%(43remain),Weapon257/287=89.55%(30remain),SE16/301=5.32%(285remain). No172/merge/deployment/artwork. Later full recheck and301eight-owner-body/one4+4/generate-before-copy blocker retained.
+
 ## Batch171 unit4 — Lethe `C-IIIγ-928`
 
 [[SE-C-IIIγ-928_Lethe_혼란의_독기](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-928_Lethe_%ED%98%BC%EB%9E%80%EC%9D%98_%EB%8F%85%EA%B8%B0.md "SE-C-IIIγ-928_Lethe_혼란의_독기.md")]

@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Iβ-071b": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B171_05_BLESSING_GIVER.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Owner p after CLOSED170 authorizes171 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains."
@@ -2306,8 +2318,32 @@
     {
       "designation": "C-Iβ-071b",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: different healer stages and conditional wings/terminal light are actual documented chronology, not grounds for a new arbitrary body. The current taller figure and reaching hands fit the Tale. Policy/action conflicts, stage arithmetic, targeting and same-item focus/stiletto identity still block whole-file completion. Fresh independent equipment coverage+1/+1, SE+0.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B171_05_BLESSING_GIVER.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1007_Giver_of_Blessing/SE-1007-A__SIDE_CODEX_Giver_of_Blessing.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1007_Giver_of_Blessing/SE-1007-B__MAW-W_The_Gentle_Hand.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1007_Giver_of_Blessing/SE-1007-C__MAW-S_The_Brightened_Cloak.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1007_Giver_of_Blessing/SE-1007-D__MAW-G_The_Mark.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Vγ-225",
@@ -5624,6 +5660,14 @@
       "history_proof": "ExactUNK247Side 1/1/READMEprohibition checked against presentB–D4/4 and CSV1139–1142. Side-only theoreticalW5–9/1/4AoE4/25,C.8/1/1.2/.4max4/20,DHand5%+1Resolve not imported into primary. B envelope versus sediment-scroll/mineralcylinder, C glowingcoat versus linenmail/indigofeltchain, D goldstone versus darkriverpebble: no authorizedform bridge. MasterEntity643 correctUnknownpath; no exactMAW/Tale entry; MasterWarmStone315belongsKindEcho αLament, not thisβWeight theory. Archetype164W247UnopenedBloomSword belongs separate mainSE notUNK. Disposition356Neutral. Exactname/SECC/UNK/title CHANGELOGhistory searched: B67unit5 bow/overdue reauthor, not fullset/exactpair review; primarygit10cd20a administrative only. Fresh permitted/forbidden all-type appearance disposition earns +1Types only. No current authorized pairedWeapon: +0/287, no retroactive or manufactured-use credit.",
       "all_types_credit": true,
       "weapon_credit": false
+    },
+    {
+      "designation": "C-Iβ-071b",
+      "batch": 171,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B171_05_BLESSING_GIVER.md",
+      "history_proof": "Identity preserved: fileDocumentIDC-Iα-071b, headerC-Iβ-071b and exactSE1007SourceSECC C-Iβ-071b. ArchivedWIPvol01:67explicitlyintentionalfilename/designationdifference; entireB9u1:900–918andarchived/currentlogssearched. B9 3005d6a prose/growth, not exactset review; KindHealerB117/157 reviewsSE071 not this1007pair. No prior exact1007A–D/sourcepair disposition found: fresh+1Types/+1Weapon. CSV190–193, W1007:407obsidiantriangularstilettoShort versushandfocus/Close, disposition425Negativeconversion. Entity35/159/359/491 contradictorylegacyPatientMartyrgrades and currentrow; no exactdedicatedMAW/Talesentry found. BβLament3–6 Slow1 Close1 Single100%max5/25 source-onlynotimported; C.4/1/1.6/.8max5/20valuesagree; DHand5%+1unnamedstat/15HPand12healingsagree, genericCSVAccessorycannotsetplacement. B/C/DdonotsupplyphysicalAppearance to override primary.",
+      "all_types_credit": true,
+      "weapon_credit": true
     }
   ]
 }
