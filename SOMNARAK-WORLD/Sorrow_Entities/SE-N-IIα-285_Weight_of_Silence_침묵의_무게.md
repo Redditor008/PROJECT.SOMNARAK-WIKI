@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Weight |
 | **Physical Form** | Non-Organic — An invisible pressure with no body of its own, seen only as a dark outline bleeding out from people who have stopped speaking. Lead-cold, it smells of wet stone; nothing to strike — only the quiet, growing heavier around the silent. |
-| **Movement** | Mobile — drifts or flows through the area. |
+| **Movement** | Ambient and mobile. It does not occupy a place; it occupies whoever in the Commons is holding something back, and it moves when they do. |
 | **Location** | Zone D, Mantle Commons — ambient |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -70,7 +70,7 @@
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan where speech and tears come together; Ferrehan to hold the watch. All four Work Types are available against a Subject and Pugnahan is barred here by standing order, not by class. |
 | **Battlefield** | Zone D, Mantle Commons — ambient |
 | **Resolution Condition** | Somebody speaks, in the room, about anything at all, without being asked for and without being asked to continue. Confession has never once lowered the gauge and the one time it was demanded the gauge doubled. |
 
@@ -98,6 +98,9 @@
 - An unattended week leaves the room quieter. The station measures it crudely and honestly — words spoken per hour by members of the public, counted by hand — and the figure has fallen in every week the chair went unfilled.
 
 ## Appearance
+
+**An edge, not another person:** The visible contour stands off an affected person; it is not a second body walking beside them. Household grief became ambient pressure after the house came down, so the Commons and its changing attendance matter more than an outline of the former house. Use another observer’s count because the carrier cannot see their own edge. Doorway glow records a departure, not consent to detain the person or require their story. Ordinary conversation may clear outlines without revealing the protected matter; the appearance record therefore counts presence and release without filling in what was withheld.
+
 **Primary Form:** An invisible pressure that appears as a dark outline around people who have stopped speaking.
 
 **Notable Features:** The outline is visible to everybody except the person wearing it. It glows faintly when an outlined person moves to leave, and leaving is never prevented.
@@ -187,6 +190,8 @@ Striking the outer rim with an Specialist's fist produces no audible sound wave,
 
 **Cost:** The wielder speaks less. The Armoury counts words at issue and at return and the reduction has run between a fifth and a half.
 
+**Separate weapon records:** The local clapperless bronze bell and its pressure wave remain the Memorial-Bell description. The linked Silence Maul instead has a mouth-shaped recess, takes one offered word and grounds after acting on an obstruction; the field word was “door,” not a request for the surrounding account. Its confession-strike and loaded-assumption warnings belong to that Maul record. Do not fit a recess to the bell, transfer the Maul’s Single pattern to its wave, or use equal core values as a transformation account. The source has no body to strike, which does not prevent extracted equipment having a physical form.
+
 ### M.A.W. Suit — The Silence Mantle
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Weight
@@ -205,6 +210,8 @@ Striking the outer rim with an Specialist's fist produces no audible sound wave,
 
 **Cost:** A constant low fatigue, and the habit of letting other people finish first — always, including when they are wrong.
 
+**Optional quiet:** The matte black Han-weave mantle leaves the mouth uncovered. Its linked field account reduced pressure before the silent group’s first word; protection is not conditional on making the wearer talk. Keep a listener and a private exit available. A closed exit until speech is given, praise of silence that makes speech disloyal, or the wearer disappearing from shared attention are failure warnings. Hang it in a room with an open exit and no questions, cleared after somebody enters and leaves without explanation. The wearer removes it personally unless help is requested; fatigue does not grant another person control of that choice.
+
 ### M.A.W. Stigma — The Silence Weight
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Weight
@@ -220,6 +227,8 @@ Striking the outer rim with an Specialist's fist produces no audible sound wave,
 **Cost:** The wearer feels every unspoken word nearby.
 
 *Twenty-two weights exist and nineteen were granted after cycles in which the Warden spoke first. The file records the pattern and declines to call it a rule.*
+
+**Presence without content:** The Silence Weight’s sensed burden is pressure, not access to a private sentence. Record location, intensity and consent status without guessing what the person withheld. Every pause seeming like crisis, pressure being reported as testimony, and ordinary community sound becoming intolerable are corrosion warnings. After work, spend equal time with ordinary chosen sound. Emergency release leaves the group’s private boundary and restores external sound gradually; none of the imagined content is spoken. Its source-work bonus and the pattern of Warden-first awards do not make a response compulsory.
 
 ### M.A.W. Use Notes
 

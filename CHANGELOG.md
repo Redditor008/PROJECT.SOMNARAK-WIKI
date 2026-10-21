@@ -8,6 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch173 unit5 — Weight of Silence `N-IIα-285`
+
+[[SE-N-IIα-285_Weight_of_Silence_침묵의_무게](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B1-285_Weight_of_Silence_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EB%AC%B4%EA%B2%8C.md "SE-N-IIα-285_Weight_of_Silence_침묵의_무게.md")]
+
+**Original/source review and R18 predeclared scope:** Whole431-line original and exactA–D/README read. InnerWeight/EchoSubjectWeight/incorporeal→fiveprotectivehouseholdsilences→ambientCommons darkthirdpartyedge/leadcold/wetstone→personcarriedmovement/doorwayglow→count/consent/unforcedspeech→transformspreading/forcedconfession→institutionalreply/debrief/hazardnote→derivedbell-vs-maul/mantle/token traced. R18predeclared2short/4careful. Nonorganicbodylesssource doesnotrequirebody-shapedgear; no forcedhumanoid, massclearance or guessedconfession.
+
+**Sources/history:** PriorB107unit5cb013b39 whole/exactBsourcecoverage and primaryfullreviewparagraph explicitlyverify alreadycredited, so no duplicateTypes/Weaponcredits. Exact285 notWeightedSilence924. Master463–465index503–505/details5979–6010; Entity522; fullTale1558694–8749 preservesβ/ZoneC/Level2; CSV575–578; archetype181Bell/Room; disposition197Neutral; personalization409–415Maul read. α3–6/2/2,5/15 core agrees but Bellwavevs MaulSingle/100not normalized. Suit1/1/1.5/.5,5/10; StigmaHead5%+1Resolve exact agrees except primarybeltwear. B107fullWIP6706–6758 andCHANGELOG6194–6195 checked.
+
+**What changed:** Replace vague flow with person-carried ambient movement and make standing Pugnahan prohibition explicit in quick Work field. Explain third-party outline and door-glow/consent relation. Keep Bell/Maul evidence separate and add exact Mantle optional-quiet and Stigma non-content care/release.
+
+**Final whole-file assessment:** HELD: Coherent nonhumanoid, incorporeal outline relationship is strengthened without needing extra anatomy. Actual same-assignedWeapon identity and other operational/slot/evidence scopes remain unresolved. Equipment alreadycredited, SE+0.
+
+**Holds / later recheck:**
+- LocalbronzeclapperlessBell/wave and Mastertable/archetypeBell versus exactBsteelmouthrecessMaul/Single and MasterdetailMaul remain sameassignedWeapon conflict; no formtransition invented.
+- Non-strikingambientSubject versus thrownword/bluntwound combat requires attackoutput/forcible-release scope; ninekindlyquestions versus oneconfessiondemand maybe distinctevents but no crosswalk.
+- Headtoken in A/D/Slot versus beltwornEffect sameitemneeds wearing/manifestationscope; no moving slot to fit prose.
+- Sourcespeech-afterhousehold versus consultation/debriefdrivers are currentinstitutionalcorrelations, not automaticorigincontradiction; however absolute nooutwardrecord versus authorizedhazardnote and retrospectiveidentification needs boundary/exception evidence.
+- Intro two loweredwordcountone noise raised versus interactionrowsrisestablefalloutlinecounts: measures and actualpairwise outcomes need separation.
+- TaleβZoneCLevel2 versus currentαZoneDLevel1 retains sourcehistory conflict; differinglocations/statesnot clearedby analogy; universal speechloss versus individualpiececosts remain reviewable.
+
+**Commentary:** The outline being invisible to its carrier makes the second observer useful without authorising interrogation. Optional quiet is the important design choice: relief can begin before a word. I would keep the engineer’s unanswered request visible too; confidentiality is not a complete reporting system, but that does not make forced disclosure a remedy.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 6 exact replacements (2batch-short/4careful-detail); LC_ALL=C words6448→6885. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_05_WEIGHT_SILENCE.md`. Equipment+0/+0;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No174/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch173 unit4 — Pandora’s Jar `N-IVδ-967`
 
 [[SE-N-IVδ-967_Pandoras_Jar_사라진_유물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-967_Pandoras_Jar_%EC%82%AC%EB%9D%BC%EC%A7%84_%EC%9C%A0%EB%AC%BC.md "SE-N-IVδ-967_Pandoras_Jar_사라진_유물.md")]

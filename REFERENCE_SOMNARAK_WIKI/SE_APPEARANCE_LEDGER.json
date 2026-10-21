@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IIα-285": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_05_WEIGHT_SILENCE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Latest owner p after CLOSED172 authorizes173 only. Minimumfive; cumulative three No change extends5→7→10. Later full recheck retained."
@@ -2991,8 +3003,33 @@
     {
       "designation": "N-IIα-285",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIα-285_Weight_of_Silence_침묵의_무게.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: Coherent nonhumanoid, incorporeal outline relationship is strengthened without needing extra anatomy. Actual same-assignedWeapon identity and other operational/slot/evidence scopes remain unresolved. Equipment alreadycredited, SE+0.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_05_WEIGHT_SILENCE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-285-A__SIDE_CODEX_Weight_of_Silence.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-285-B__MAW-W_The_Silence_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-285-C__MAW-S_The_Silence_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-285-D__MAW-G_The_Silence_Weight.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_PERSONALIZE_PROGRESS.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIβ-033",

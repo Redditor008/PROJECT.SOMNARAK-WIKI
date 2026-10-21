@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch173 OPEN4/5.** Owner p authorizes173 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B173_OPEN.json). No174/merge/art/deployment.
+**Latest: Batch173 OPEN5/5.** Owner p authorizes173 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B173_OPEN.json). No174/merge/art/deployment.
 
 **Latest: Batch172 CLOSED5/5.**47supported replacements, five HELD, No change0/5. Equipmentcoverage+2Types/+2Weapon; SE+0. [Batch report](SE_APPEARANCE_REVIEWS/B172_CLOSE.md). No173/merge/deployment.
 
@@ -1327,3 +1327,7 @@ CLOSED5/5;48replacements, fiveHELD whole designs, No change0/5. 26,608→28,257w
 ### Batch173 unit4 — OPEN4/5
 
 [Pandora’s Jar evidence](SE_APPEARANCE_REVIEWS/B173_04_PANDORAS_JAR.md): HELD, 7supported repairs, full final reading and five actual checks. No change0/4.
+
+### Batch173 unit5 — OPEN5/5
+
+[Weight of Silence evidence](SE_APPEARANCE_REVIEWS/B173_05_WEIGHT_SILENCE.md): HELD, 6supported repairs, full final reading and five actual checks. No change0/5.
