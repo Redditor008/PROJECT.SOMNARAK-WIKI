@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A humanoid shaped from a single burning fruit — a bright red core at its center, a skin that chars and chars but is never consumed. Embers drift from it; the flesh is warm and gives slightly, like fruit. Fever-hot, it smells of char and overripe sweetness. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | It drags itself on four smouldering root-limbs toward whatever has most recently been refused to somebody, not toward the nearest person. Bearing, not distance, is the reading that matters. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -70,7 +70,7 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan first, Ferrehan to hold. Viderehan is stable and safe. Pugnahan is barred: the table records it as an Increase and the bar has a written reason. |
 | **Battlefield** | Zone C, Mask Market |
 | **Resolution Condition** | Name the desire; do not promise to fulfill it |
 
@@ -98,6 +98,11 @@
 - An unworked week adds fruit. The stand carried nine at first survey and carries thirty-one now, and the count has never gone down except after a naming.
 
 ## Appearance
+
+**Rind, core and direction:** Cracked crimson rind, the glowing seed-mouth, char and overripe sweetness are the concrete markers shared by the moving-body records. The concealed observer grades the core and logs the bearing before approaching; the bearing follows a refusal rather than the nearest passer-by. Do not read a red glow as permission to handle the reachable fruit. The household’s preserved reason for keeping its last fruit does not make the child’s wanting an offence.
+
+**Accounts still to join:** The file also describes an upright figure, a root-limbed beast and an unmoved fruit-bearing stand. The breach explicitly leaves the stand, but no account here establishes how all those anatomical and stationary claims join. Retain them as separate claims pending evidence; do not invent a tree turning into a person or make the four root-limbs into ordinary walking legs. Derived Fang, harness and charm are equipment, not proof of what the source body is made of or which part was detached.
+
 **Primary Form:** A hunched, seed-crusted beast born of a single charring fruit — its body a cracked crimson rind split to show a glowing seed-mouth, dragging itself on four charred root-limbs that smolder without burning away.
 
 **Material and Surface:** Cracked fruit-rind over a bright red core; the skin chars and flakes but never consumes, shedding sparks shaped like seeds.
@@ -147,7 +152,7 @@
 
 ### Operational Work Notes
 
-All four Work Types are available and what the table cannot hold is the only thing that matters: whether anybody said out loud what the person at the stand wanted. The fruit count answers to that and to the Market's hardship allocation, and to nothing else in nine years of readings.
+The response table retains Pugnahan to document why it is barred; an Increase entry is not permission to perform it. The working team uses Flerehan, Ferrehan and observation as specified above, and records whether anybody named the person’s want without promising fulfilment. That record is separate from the fruit count and core grade. The fruit count answers to that and to the Market's hardship allocation, and to nothing else in nine years of readings.
 
 **Reading the response:** A falling reading means a want was named plainly in front of the person who had it. It rises on promises, on the hardship list being shortened, and — four times — on an application being refused in writing elsewhere in the district.
 ## Breach Behavior
@@ -230,7 +235,7 @@ All four Work Types are available and what the table cannot hold is the only thi
 
 ### M.A.W. Use Notes
 
-Every piece came off a tree that bears fruit nobody is allowed to take, and the set removes wanting from its wielder. That is not peace; it is the absence of a thing people use to steer by. Three wielders, all three competent, all three noticed by colleagues before themselves — one had not drawn his rations in nine days and had no explanation for it.
+The pieces materialize Last Fruit’s archetype; their existence does not establish that an ordinary tree was cut up or its fruit harvested. The primary records a set-wide loss of wanting, while the individual item records retain different bodily costs. Keep those costs beside the appetite record rather than calling every response the same absence. That is not peace; it is the absence of a thing people use to steer by. Three wielders, all three competent, all three noticed by colleagues before themselves — one had not drawn his rations in nine days and had no explanation for it.
 
 ### Field Use Record
 
@@ -240,6 +245,8 @@ Every piece came off a tree that bears fruit nobody is allowed to take, and the 
 | **During use** | Anything the wielder declines without a reason — a meal, a rest day, an offer of help. The column fills faster than the Armoury expected. |
 | **At limit** | The wielder cannot name anything they want. The question is asked daily and the answer is never evasive; it is simply empty. |
 | **After use** | Open the sealed list and read it back. Two of three agreed the items had once been true and could not say when that had stopped. |
+
+**Care before reissue:** Check old-wound pain and bruising for the Fang, dulled reflexes for the Plate, and denied desire felt as heat for the Seed. Keep those checks alongside the sealed list of wants. First-person ownership of the child’s event and recurrence of an item response outside contact are warnings, not a cure for shame. Before cleaning or rest, review bearer, trigger, response, cost and unresolved detail. A named witness states the source event while the bearer relinquishes the piece; the handover preserves attribution and does not refund its cost.
 
 **Stat interpretation:** The grade measures extraction stability. This set takes appetite — for food, for rest, for anything — and no rating column exists for that; the sealed list is the authorisation.
 ## 관찰 기록 (Observation Log)

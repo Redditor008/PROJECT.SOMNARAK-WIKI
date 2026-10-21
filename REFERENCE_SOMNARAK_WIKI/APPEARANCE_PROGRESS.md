@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch172 OPEN0/5.** Owner p after CLOSED171 authorizes172 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains. [Opening evidence](SE_APPEARANCE_REVIEWS/B172_OPEN.json). No new credit.
+**Latest: Batch172 OPEN1/5.** Owner p after CLOSED171 authorizes172 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains. [Opening evidence](SE_APPEARANCE_REVIEWS/B172_OPEN.json). No new credit.
 
 **Latest: Batch171 CLOSED5/5.**46supported replacements, fiveHELD, No change0/5. Equipmentcoverage+2Types/+1Weapon, SE+0. [Batch report](SE_APPEARANCE_REVIEWS/B171_CLOSE.md). No172/merge/deployment.
 
@@ -1283,3 +1283,7 @@ CLOSED5/5;48replacements, fiveHELD whole designs, No change0/5. 26,608→28,257w
 **Batch171 closure (2026-10-21): CLOSED5/5 reviews; No change0/5.** 46 supported replacements (7batch-short/39careful-detail), C-locale words30,917→33,085(+2,168); five whole written designs HELD.25fresh closurevalidatorruns accepted,54testsPASS;247verifyretains one originalquotedellipsis seam warning, not a prose splice and not clean seam[]. Four otherseam[]; allresiduals0,tpl0,sectionthresholdsmet,wikistdTrue.296unselected/fivereserves/digits/allfiveTales/sourcehashes unchanged;46operationsreconstructfinals.300PhysicalFormrows unchanged except928nonbodilyNonOrganicqualification. Five individually verified unit pushes plus928category-position correction; no sixth review. Fresh247forbidden-theory disposition +1Types/+0Weapon;071bexact1007review+1Types/+1Weapon; otherthree not recounted;SE+0. Counters258/30185.71%(43remain),257/28789.55%(30remain),16/3015.32%(285remain). Ledger12changed/4retained/118held/2blocked/165pending. Laterfullrecheck retained;p171spent,no172/merge/deployment/artwork.301eight-owner-body/one4+4/generatevalidatebeforecopy blocker unchanged.
 
 [Full report](SE_APPEARANCE_REVIEWS/B171_CLOSE.md).
+
+### Batch172 unit1 — OPEN1/5
+
+[Last Fruit evidence](SE_APPEARANCE_REVIEWS/B172_01_LAST_FRUIT.md): HELD, 6 supported replacements, five actual checks and full final reading. No change0/1. No credits inferred.

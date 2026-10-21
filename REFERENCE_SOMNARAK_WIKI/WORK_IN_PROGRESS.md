@@ -1,4 +1,31 @@
 # Work In Progress
+## Batch172 unit1 — Last Fruit `C-IIβ-777`
+
+[[SE-C-IIβ-777_Last_Fruit_타오르는_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-777_Last_Fruit_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EC%97%B4%EB%A7%A4.md "SE-C-IIβ-777_Last_Fruit_타오르는_열매.md")]
+
+**Original/source review and predeclared R18 scope:** Full434-line original read; exact777A–D complete including appearance/history/care. Cityshamedwant→SubjectBody/Grudge→child/domestic inventory/Tale→rind/core/seedmouth and competing humanoid/beast/stand claims→denialbearing→cover/coregrading/forbiddenPugnahan→sparks/reach/fruitcounts→derivedFang/Plate/Seed traced. R18predeclared2batch-short/4careful-detail: own complete movement and Recommendedresponse copied; bespoke visual-evidence profile, Workpermission clarification, provenance and specificcare authored. No fabricated body-state bridge.
+
+**Sources/history:** CSV867–870; W777:318seedSocketFangShort supports primaryFang, Mastertable178ReliquaryCenserBell differs; fullMAW178–180detail2833–2865 and Entity424/Tale60:3395–3455 read. ExactA/BβGrudge5–9 Normal2 Short2 Single100%4/25; C1/.4/1.8/1.2 max4/20; DTail5%+1sourcework agree, CSVgenericAccessory held. Full current/archivedWIP/CHANGELOG code/title/item searches: no earlier exactsource disposition; bulk Appearancebatch15 andSVGbatch15 are editorial/art history, not primary/exactpair review. Gitprimary10cd20a administrative. Fresh+1Types/+1Weapon; no art/body/retroactivecredit.
+
+**What changed:** Remove upright-pursuit shorthand and formal authorization of barred Pugnahan using this file’s own complete instructions. Add concrete rind/core/bearing identification without concealing competing body accounts. Replace literal-tree extraction claim with source materialization and add separate item-cost/return checks.
+
+**Final whole-file reasoning:** HELD: detailed sensory and direction evidence is usable, and derived equipment need not share the donor silhouette. Essential competing source-body, spark and fruit-account relationships remain unjoined. Useful Workpermission/provenance/care repairs ship; +1/+1equipmentcoverage, SE+0.
+
+**Holds / later recheck:**
+- Humanoid/header versus fourrootlimbPrimary versus rootedunmovedstand needs actual subject/state mapping. Breachdeparture is explicit, but doesnotprove all anatomy interchangeable.
+- Oneunchangedfruit versus nine→thirtyone/cyclesremoveonefour; cannotpick versus two picks/twogrants aftertaking need act/state chronology.
+- Sparksneverland exceptSeedinteraction versus barrierignition/sweeps/Watchcollectedsparks; no invented germination or timedphase. Nearestrefusal versus strongestunspokenwant priorities remain.
+- PrimaryMaskMarkethousehold/mother/goodreason versus TaleZoneBneighbor/censure cannot be harmonized by inventing kinship or a move. HappyMasktwogrades versus4→5 retained.
+- SourceFangdamagecut/body versus localscorchonly, MasterReliquary versus primary/archetypeblade remain sameitemholds. Tail/+1unnamedsourcestat and grant/extraction histories retained without inventedstat orchance.
+
+**Commentary:** The child’s wish is not the wrongdoing. Keeping the legitimate reason for refusal alongside the harmful lesson avoids replacing the story with cruel parents. Operationally, naming a want must not quietly become permission to promise it or to provoke the barred response.
+
+**Checks and integrity:** Five actual verify/tpl/sectfile/wikistd/sect PASS, full final read after checks, final hash matches. 6 exact replacements; LC_ALL=C words6246→6595. Source hashes and unchanged digit streams retained. Detailed evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_01_LAST_FRUIT.md`. Gate/push follows. Written-design review, not artwork/render/browser/game/live-site inspection. Equipment+1/+1;SE+0, no duplicate/retroactive/body/art credits.
+
+**Validation disclosures:** None.
+
+**Progress:** OPEN1/5, No change0/1. Three counters Types259/301=86.05%(42remain),Weapon258/287=89.90%(29remain),SE16/301=5.32%(285remain). No173/merge/deployment/artwork. Later full recheck and301eight-owner-body/one4+4/generate-before-copy blocker retained.
+
 ## Batch172 — OPEN0/5
 
 Owner p after CLOSED171 authorizes172 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains.
