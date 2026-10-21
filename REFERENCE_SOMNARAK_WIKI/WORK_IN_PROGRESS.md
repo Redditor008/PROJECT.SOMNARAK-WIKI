@@ -1,4 +1,14 @@
 # Work In Progress
+**Batch170 closure (2026-10-21): CLOSED5/5 reviews; No change0/5.** 61 supported replacements, words29,059→31,185(+2,126); allfive written designs HELD.25fresh actual closure validators and54tests PASS; full originals/exactA–D/relevantMaster/history/finals read, individual receipts and verified pushes.296unselected/fivereserves/sourcehashes/digits/allfiveTales unchanged;61operations reconstruct finals,300PhysicalFormrows unchanged except927state-notorganic qualification. Fresh993exactsource review +1Types/+1Weapon; otherfour not recounted;SE+0. Three counters256/30185.05%(45remain),256/28789.20%(31remain),16/3015.32%(285remain). Ledger12changed/4retained/113held/2blocked/170pending. Parallel closurecheck resource SIGKILL disclosed; all25sequential rerun PASS, no exception. Source/gear silhouettes independently evaluated; no invented bodies/transforms. Later full recheck retained. p170spent, no171/merge/deployment/artwork.301eight-owner-body/one4+4/generatevalidatebeforecopy blocker persists.
+
+[Detailed batch report](SE_APPEARANCE_REVIEWS/B170_CLOSE.md) · [Machine audit](SE_APPEARANCE_REVIEWS/B170_CLOSE.json)
+
+- [Dreaming Plague](SE_APPEARANCE_REVIEWS/B170_01_DREAMING_PLAGUE.md): HELD, 14repairs, verified`3b1f5b3c94f9339e910fd6cadbf73ade111ad19d`.
+- [Miasma](SE_APPEARANCE_REVIEWS/B170_02_MIASMA.md): HELD, 12repairs, verified`61a6267a60fb25d4ad4b4840b1e90b0f7a35045c`.
+- [Survivor's Span](SE_APPEARANCE_REVIEWS/B170_03_SURVIVORS_SPAN.md): HELD, 13repairs, verified`de282cac15aed5b8de76fb08109a7e98f6780374`.
+- [Drowned Echo](SE_APPEARANCE_REVIEWS/B170_04_DROWNED_ECHO.md): HELD, 11repairs, verified`5d70d67147790ec918c7916a86cc1e82b4a43df0`.
+- [Backward Hour](SE_APPEARANCE_REVIEWS/B170_05_BACKWARD_HOUR.md): HELD, 11repairs, verified`9a8a82e8352304e47584fe7a0d447439931a2c18`.
+
 ## Batch170 unit5 — Backward Hour `C-IIIγ-913`
 
 [[SE-C-IIIγ-913_Backward_Hour_카운트다운_시계](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-913_Backward_Hour_%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4_%EC%8B%9C%EA%B3%84.md "SE-C-IIIγ-913_Backward_Hour_카운트다운_시계.md")]

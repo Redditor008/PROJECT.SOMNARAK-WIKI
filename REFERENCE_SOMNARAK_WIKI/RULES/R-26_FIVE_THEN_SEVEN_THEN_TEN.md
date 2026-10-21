@@ -70,3 +70,7 @@ CLOSED5/5 after whole original/source/final reads and individually verified revi
 ## Batch169 application — 2026-10-21
 
 CLOSED5/5 after whole originals/exact sources/finals and five individually verified pushes. No change0/5 does not trigger cumulative-three extension; full Watch/Apex/interaction records and substantial bespoke narratives are not a simple cohort.48supported replacements leave five written designs HELD, with no independent body or inferred equipment credits.25fresh actual validators/54testsPASS. KindEcho section/ellipsis correction stays within unit5, no extra review. Owner p authorizes169 only;no170/merge/deployment/artwork. [Closure evidence](../SE_APPEARANCE_REVIEWS/B169_CLOSE.md). Later full recheck and301eight-owner-body/one4+4/generate-before-copy blocker retained.
+
+## Batch170 application — 2026-10-21
+
+CLOSED5/5 completed reviews after five individually gated/verified pushes, whole original/source/final readings,25fresh closure validators and54testsPASS. No change0/5 does not trigger three-dossier extension. Full bespoke narratives/interactions are not a simple cohort.61supported repairs leave five whole designs HELD; fresh993equipment coverage+1/+1 does not confer SE/art completion. p170only;no171/merge/deployment. [Closure evidence](../SE_APPEARANCE_REVIEWS/B170_CLOSE.md). Later full recheck and301eight-owner-body blocker retained.

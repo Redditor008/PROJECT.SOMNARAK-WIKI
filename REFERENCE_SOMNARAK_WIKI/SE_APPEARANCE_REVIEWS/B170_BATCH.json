@@ -1,6 +1,6 @@
 {
   "batch": 170,
-  "status": "OPEN",
+  "status": "CLOSED",
   "required": 5,
   "completed": 5,
   "no_change": 0,
@@ -156,7 +156,9 @@
         "se": 0
       },
       "link": "[[SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-927_Dreaming_Plague_%EA%BF%88%EC%9D%98_%EC%A0%84%EC%97%BC%EB%B3%91.md \"SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md\")]",
-      "table_link": "[Dreaming_Plague](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-927_Dreaming_Plague_%EA%BF%88%EC%9D%98_%EC%A0%84%EC%97%BC%EB%B3%91.md \"SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md\")"
+      "table_link": "[Dreaming_Plague](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-927_Dreaming_Plague_%EA%BF%88%EC%9D%98_%EC%A0%84%EC%97%BC%EB%B3%91.md \"SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md\")",
+      "commit": "3b1f5b3c94f9339e910fd6cadbf73ade111ad19d",
+      "push_verified": true
     },
     {
       "designation": "C-IVδ-922",
@@ -269,7 +271,9 @@
         "se": 0
       },
       "link": "[[SE-C-IVδ-922_Miasma_우는_안개](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-922_Miasma_%EC%9A%B0%EB%8A%94_%EC%95%88%EA%B0%9C.md \"SE-C-IVδ-922_Miasma_우는_안개.md\")]",
-      "table_link": "[Miasma](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-922_Miasma_%EC%9A%B0%EB%8A%94_%EC%95%88%EA%B0%9C.md \"SE-C-IVδ-922_Miasma_우는_안개.md\")"
+      "table_link": "[Miasma](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-922_Miasma_%EC%9A%B0%EB%8A%94_%EC%95%88%EA%B0%9C.md \"SE-C-IVδ-922_Miasma_우는_안개.md\")",
+      "commit": "61a6267a60fb25d4ad4b4840b1e90b0f7a35045c",
+      "push_verified": true
     },
     {
       "designation": "N-IIβ-993",
@@ -393,7 +397,9 @@
         "se": 0
       },
       "link": "[[SE-N-IIβ-993_Survivors_Span_무너진_다리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-993_Survivors_Span_%EB%AC%B4%EB%84%88%EC%A7%84_%EB%8B%A4%EB%A6%AC.md \"SE-N-IIβ-993_Survivors_Span_무너진_다리.md\")]",
-      "table_link": "[Survivors_Span](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-993_Survivors_Span_%EB%AC%B4%EB%84%88%EC%A7%84_%EB%8B%A4%EB%A6%AC.md \"SE-N-IIβ-993_Survivors_Span_무너진_다리.md\")"
+      "table_link": "[Survivors_Span](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-993_Survivors_Span_%EB%AC%B4%EB%84%88%EC%A7%84_%EB%8B%A4%EB%A6%AC.md \"SE-N-IIβ-993_Survivors_Span_무너진_다리.md\")",
+      "commit": "de282cac15aed5b8de76fb08109a7e98f6780374",
+      "push_verified": true
     },
     {
       "designation": "O-IIβ-378",
@@ -506,7 +512,9 @@
         "se": 0
       },
       "link": "[[SE-O-IIβ-378_Drowned_Echo_침몰한_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-378_Drowned_Echo_%EC%B9%A8%EB%AA%B0%ED%95%9C_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-O-IIβ-378_Drowned_Echo_침몰한_메아리.md\")]",
-      "table_link": "[Drowned_Echo](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-378_Drowned_Echo_%EC%B9%A8%EB%AA%B0%ED%95%9C_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-O-IIβ-378_Drowned_Echo_침몰한_메아리.md\")"
+      "table_link": "[Drowned_Echo](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-378_Drowned_Echo_%EC%B9%A8%EB%AA%B0%ED%95%9C_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-O-IIβ-378_Drowned_Echo_침몰한_메아리.md\")",
+      "commit": "5d70d67147790ec918c7916a86cc1e82b4a43df0",
+      "push_verified": true
     },
     {
       "designation": "C-IIIγ-913",
@@ -616,7 +624,10 @@
         "se": 0
       },
       "link": "[[SE-C-IIIγ-913_Backward_Hour_카운트다운_시계](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-913_Backward_Hour_%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4_%EC%8B%9C%EA%B3%84.md \"SE-C-IIIγ-913_Backward_Hour_카운트다운_시계.md\")]",
-      "table_link": "[Backward_Hour](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-913_Backward_Hour_%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4_%EC%8B%9C%EA%B3%84.md \"SE-C-IIIγ-913_Backward_Hour_카운트다운_시계.md\")"
+      "table_link": "[Backward_Hour](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-913_Backward_Hour_%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4_%EC%8B%9C%EA%B3%84.md \"SE-C-IIIγ-913_Backward_Hour_카운트다운_시계.md\")",
+      "commit": "9a8a82e8352304e47584fe7a0d447439931a2c18",
+      "push_verified": true
     }
-  ]
+  ],
+  "closure": "B170_CLOSE.json"
 }
