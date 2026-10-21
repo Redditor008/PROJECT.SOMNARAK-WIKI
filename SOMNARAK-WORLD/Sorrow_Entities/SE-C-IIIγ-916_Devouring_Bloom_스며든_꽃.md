@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | γ · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | All four Work Types are valid; it is a Subject and is worked as one. Viderehan and Ferrehan lower or hold the gauge; Flerehan is permitted at the growth front only, and the section is walked with a tunnel engineer rather than alone; Pugnahan raises it and breaks petals, and every petal handled is entered by name. |
+| **Recommended response** | All four Work Types have recorded responses in this Subject. Viderehan and Ferrehan lower or hold the gauge; Flerehan is permitted at the growth front only, and the section is walked with a tunnel engineer rather than alone. Pugnahan raises the gauge and breaks petals and is barred by standing order; every petal handled is entered by name. |
 
 ### Operational Notes
 
@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | No measured travel speed is supplied. Root-leg hauling and the independently surveyed growth front are separate movements; the bloom is not a fixed device. |
 | **Resistance** | 35% against Weight pressure; 25% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 607/607 |
@@ -70,7 +70,7 @@
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types** | Viderehan and Ferrehan; Flerehan only at the growth front. Pugnahan has a recorded adverse response but is barred by standing order. |
 | **Battlefield** | Zone B, deep tunnels |
 | **Resolution Condition** | Witness the memories and prevent unauthorized petal collection |
 
@@ -100,7 +100,9 @@
 ## Appearance
 **Physical Form:** A giant carnivorous bloom the size of a cart, petals of black crystal that snap like a mouth, dragging itself on thick root-legs. **Movement:** It hauls itself toward prey on root-legs, then roots in place to feed.
 
-**Notable Features:** It grows from accumulated grief, carries secrets in its petals, and spreads without visible roots.
+**Notable Features:** It grows from accumulated grief and carries losses in its petals. The main bloom hauls itself on visible root-legs; map the petals spreading through floor and wall stone separately rather than treating those legs as the growth front.
+
+Rooting to feed and hauling toward prey are recorded actions of the same bloom. The escape account retains that root-legged body while spores travel ahead of it; it does not supply a separate breach anatomy or make the spore range the body’s reach.
 
 **Identification Profile**
 
@@ -119,7 +121,7 @@
 | **Position / movement** | Mobile — hauls itself on root-legs, then roots to feed. Record root-leg positions against the cut wall marks and the growth front against its own marks; the plant and its spread do not advance together. |
 | **Material / signature** | Weight. Dense black crystal petals, lead-heavy, smelling of wet stone and rot, with further petals pushed through floor and wall stone hard enough to crack it. |
 | **Distinctive markers** | Petals heavy enough to crack the stone they emerge from, and a bloom that closes on whatever is nearest rather than on whatever moves. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Identification** | Confirm the designation, the cart-sized snapping bloom and its root-leg positions before approaching. Record the spreading petals and the structural survey as well; a location marker alone does not establish where the body now stands. |
 
 **Appearance protocol:** Mark the growth front first, against the cut wall marks and not against an instrument reading — the marks survive a collapse and the instruments do not. Then the root-leg positions, the number of open petals, whether the bloom is rooted or hauling, and the condition of the floor within two metres of the front. Weigh nothing and lift nothing. Record the engineers' figures beside your own and do not reconcile them; where the two disagree, both stand. Describe what you see specifically; *unusual* is not a field-report word.
 
@@ -163,7 +165,7 @@ Devouring Bloom is a Subject with Object-Weight manifestation and Weight express
 | **Use Mode** | **Channeled / sustained use** |
 | **Activation** | The operator opens a sustained channel at the growth front and must hold contact for the effect to persist; contact is made through the fabric of the tunnel and never with a petal directly. |
 | **Primary Effect** | Floors become heavy and passages narrow around the channelled area, which is used defensively to slow a pursuit rather than offensively. |
-| **Duration** | While the channel is maintained; interruption ends the effect. |
+| **Duration** | The active effect lasts while contact is maintained. Interruption ends that effect, not the duty to close the channel deliberately and record residue. |
 | **Termination / Return** | The operator closes the channel by intent; a channel abandoned does not end cleanly, and the residue compounds. |
 | **Risk** | The operator's own kit gains weight they do not notice until they try to climb out; three of the four recorded shaft-head incidents involved an operator who had channelled within the preceding hour. |
 
@@ -176,7 +178,7 @@ Devouring Bloom is a Subject with Object-Weight manifestation and Weight express
 | 10 seconds | Devouring Bloom waits in silence — an unyielding manifestation of accumulated sorrow — until a current is opened through it. | When the relic is channeled, it activates: floors become heavy and passages narrow. |
 | 1 minute | It crystallized from an unvoiced grief buried beneath the municipal foundations. | The effect persists (while the channel is maintained; interruption ends the effect), strengthening the longer the channel is held. |
 | 2 minutes | Once channeled, the Weight flows both ways: the bearer feeds the relic as it feeds them, and floors become heavy and passages narrow. | Misuse increases emotional strain and may destabilize the operator. |
-| 3 minutes | The longer it is held, the heavier the world grows around it. | A channel abandoned mid-use does not close on its own; the residue compounds until it is ended deliberately. |
+| 3 minutes | The longer it is held, the heavier the world grows around it. | Loss of contact ends the active effect, but an abandoned channel is not a clean closure: the residue still requires deliberate termination and review. |
 | 3:20 seconds | What passes through does not all return; the relic is fuller afterwards, and the bearer is less. |  |
 
 ### Escalation Notes
@@ -193,7 +195,7 @@ Escalation here is advance and load. Record the front at onset and at close agai
 | **Trigger** | New grief deposited without release. |
 | **Manifestation** | Object-Weight |
 | **Primary effect** | Floors become heavy and passages narrow. |
-| **Duration / rate** | While the channel is maintained; interruption ends the effect. |
+| **Duration / rate** | Sustained contact maintains the active effect; interrupted contact does not certify that the channel is cleanly closed or its residue cleared. |
 | **Risk** | Major (γ) Subject producing Weight pressure; the structure takes load it was not built for, and personnel who handle a petal carry the longing out with them. |
 | **Management** | Witness the memories and prevent unauthorized petal collection. |
 
@@ -277,18 +279,24 @@ Escalation here is advance and load. Record the front at onset and at close agai
 
 ### M.A.W. Use Notes
 
-All three pieces are made of the same crystal as the petals and behave the same way: they keep what is given to them, they are heavier than they look, and they do not give anything back. The listed benefit holds inside the intended pattern, and the cost outside it is paid in the capacity to let go of things. No protocol produces a Stigma here.
+The local appearances describe Han-steel for the Maul and Key and Han-weave for the Mantle; calling every piece petal crystal erases those distinctions. These are derived items, not the cart-sized bloom made portable. Their common source does not give them identical materials, costs or actions. No protocol produces a Stigma here.
+
+Read the costs separately even during intended use: progressive heaviness and slight aging with prolonged Maul use, constant fatigue with the Mantle, and faster aging with each use of the healing Key. The local record of keeping memorial objects remains an additional concern, not the universal toll that replaces those costs. A restorative Key does not restore the lives or event from which the set arose.
+
+The exact Side and item records bind each bearer to the tunnel-workers’ memorial event and to witnessing the memories without unauthorized petal collection. Source Kept Distinct does not heal the originating event; full-set resonance ends when that resolution is met. First-person retelling of the event is the first recorded corrosion sign, followed by a source response outside contact and ultimately the bearer becoming its new site. Violating the limit reverses the item’s benefit and raises the source Gauge. A named witness states the source title and event while the bearer relinquishes the actual piece; attribution review precedes cleaning or rest, and shutdown does not refund the cost.
+
+The source-trace still calls this an Object/Place source with unavailable Flerehan and Pugnahan, unlike the current primary Subject record. Preserve that disagreement rather than deriving Work permission from equipment binding. The present tool-channel record is separate from the Maul, Mantle and Key; its surrounding structural load is not an effect promised for every item.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, grade, gauge, state, condition of the piece, the objective, and confirmation that the wielder is not carrying anything taken from the tunnels. The last field is checked by a second person at the shaft head. |
-| **During use** | Activation time, effect strength, the area held, the load added to the surrounding structure, and the first cost noticed by anybody else present. |
-| **At limit** | Duration, activations, attribute movement, rejection signs, and whether the wielder has begun refusing to hand things over at the end of a task — the last of those being the limit the armoury treats as this set's own, since it is also the shape of every dispute filed against it. |
-| **After use** | Removal, injuries, lingering effects, cooldown, repair need, reuse authorisation, and a search of the wielder's kit conducted with their consent and in their presence. |
+| **Before use** | Wielder, actual piece, grade, gauge, condition, objective and attribution to the tunnel-workers’ memorial event. Check the source binding and confirm that the bearer carries nothing taken from the tunnels; a second person checks that field at the shaft head. |
+| **During use** | Activation time and the actual piece’s effect, its own fatigue, heaviness or aging cost, and who first notices it. Record structural load when the separate channel is used; do not assume every M.A.W. piece narrows the tunnel. First-person source memories require review even if the equipment remains intact. |
+| **At limit** | Duration, activations, attribute movement and the first source-binding or corrosion failure. Do not wait for a property dispute or the bearer becoming the manifestation’s new site. Refusal to hand objects back remains a local warning alongside, not instead of, the item’s own signs. |
+| **After use** | Record the named witness’s attribution and the bearer’s relinquishment of the piece, injuries, lingering costs and reuse authorisation. Attribution review comes before cleaning or rest; ending use does not refund aging or other costs. Keep the consent-based kit search in the bearer’s presence, without treating recovered property as proof that corrosion has ended. |
 
-**Stat interpretation:** Grade states the load a piece can carry and nothing about what it keeps. This set has never failed structurally and has produced more property disputes than any other in the armoury, all of them over objects the wielder could not explain holding on to. Read both columns and authorise on the second: here the stat line is a capacity and the cost column is a behaviour, and the behaviour is re-tested at every return.
+**Stat interpretation:** Grade states the load a piece can carry and nothing about what it keeps. This set has never failed structurally and has produced more property disputes than any other in the armoury, all of them over objects the wielder could not explain holding on to. Read capacity and each piece’s cost together. Structural survival is not a guarantee against fatigue, aging or autobiographical corrosion; review those signs during use rather than waiting for a return or a property dispute.
 
 ## 관찰 기록 (Observation Log)
 
@@ -317,7 +325,7 @@ All three pieces are made of the same crystal as the petals and behave the same 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Devouring Bloom (C-IIIγ-916 [N]) is an Object-Weight manifestation expressing Weight, formed from sorrow preserved as weight and fed by grief deposited without release. Held at Zone B in the deep tunnels, where it is read as a front rather than as a body: the petals push through the floor and the walls behind it and grow toward memorial objects, and the front is reported against cut wall marks twice over, by the Warden and by the engineer, and the 2 series are filed unreconciled.
+Devouring Bloom (C-IIIγ-916 [N]) is an Object-Weight manifestation expressing Weight, formed from sorrow preserved as weight and fed by grief deposited without release. Held at Zone B in the deep tunnels, its body position and growth front are recorded separately: the bloom hauls on root-legs, while petals push through the floor and walls behind it toward memorial objects. The front is reported against cut wall marks by the Warden and independently by the engineer, and the 2 series are filed unreconciled.
 
 **Entry 2 — <Heavier After the Tunnels>**
 It becomes heavier after tunnel deaths.
@@ -328,7 +336,7 @@ The burden of carrying grief until it becomes beautiful but impossible to move.
 **Entry 4 — <Sorrow in Each Petal>**
 Work response — Viderehan: Reveals the sorrow attached to each petal. (Stable); Ferrehan: Tests whether the worker can bear its growing weight. (Decrease). Personnel report longing after exposure.
 
-**Entry 5 — <The Architect Who Built>**
+**Entry 5 — <The Paired Front Readings>**
 What the file keeps here is not a story but a pair of series. In 9 years the section has produced only a few hundred usable front readings, taken against the cut marks by a Warden and independently by a tunnel engineer, and the 2 have never been reconciled — the divergence is kept rather than smoothed, because the section's position is that a single paired reading cannot be attributed to anything. The one figure that has never diverged is weight: a petal handled at the front weighs what the person it remembered weighed, and the engineers' scale has confirmed it every time it has been asked.
 
 ## 최종 관찰 (Final Observation)
@@ -337,7 +345,7 @@ What the file keeps here is not a story but a pair of series. In 9 years the sec
 
 | Witness the memories and prevent unauthorized petal collection — as written, without improvising. | Try Pugnahan instead, which is the one response this holding has never tolerated. |
 |---|---|
-| Tests whether the worker can bear its growing weight. The sorrow is borne; Devouring Bloom is fully recorded. | Reveals the sorrow attached to each petal. The gauge climbs and Devouring Bloom withdraws without revelation. |
+| Tests whether the worker can bear its growing weight. The sorrow is borne; Devouring Bloom is fully recorded. | Pugnahan cracks the petals; the fragments retain their weight, the bloom closes and the front accelerates. The adverse response is not a new permission to confront it. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -485,7 +493,7 @@ The engineers' objection is minuted at every annual review. The penalty has remo
 
 ### Registry Trivia
 
-- **Classification detail:** Devouring Bloom is an Object/Place with Fragment (III) coherence and Major (γ) potency.
+- **Classification detail:** Devouring Bloom is a Subject with Object-Weight manifestation, Fragment (III) coherence and Major (γ) potency; the older Object/Place work restriction remains a source disagreement, not the current primary classification.
 - **Field detail:** Element Weight, registered to Zone B in the deep tunnels, where containment is a front rather than a perimeter: position is read against the cut wall marks, root-legs are counted, and the floor condition within 2 metres goes into the record at every visit.
 - **Recognition detail:** Identify it by the petals in the floor and walls behind it rather than by the bloom, which is not always where it was and is not always open.
 - **Record detail:** This file should be read with the destruction notices and the engineers' survey beside it; the containment is a structural matter as much as a sorrow one, and the two are not reconciled anywhere on purpose.

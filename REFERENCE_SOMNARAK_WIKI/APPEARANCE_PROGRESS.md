@@ -863,3 +863,7 @@ Eleven repairs: movement and detailed spatial record now describe a fixed Place 
 ## Batch164 — OPEN 0 / 5
 
 Owner's research-first P and latest continuation authorize this batch. Fresh pending-only ranking:205eligible,52source-cue candidates; frozen order916DevouringBloom,948FoamFlood,C-IIα081BrokenMirror,055WeepingStatue,099MaskedDancer. See [opening evidence](SE_APPEARANCE_REVIEWS/B164_OPEN.json). No review or No change is credited at opening. Apply donor/state/equipment distinctions from the research note. Minimum five reviews and cumulative three-No-change ladder remain. Owner explicitly permits a later full recheck/fix after this pass finishes; unresolved issues remain visible rather than being silently cleared. No Batch165 authorization or automatic old credit follows.
+
+### Batch164 unit1 — OPEN 1 / 5
+
+[Devouring Bloom evidence](SE_APPEARANCE_REVIEWS/B164_01_DEVOURING_BLOOM.md):18supported repairs, allfive checks PASS/fullfinal reread, HELD/no bodycredit. Donor-to-equipment differences are not held by themselves; real source Work/threat conflicts remain. Prior116 exact equipment comparison adds no duplicate credit. No change0/1;948FoamFlood/C-IIα081BrokenMirror/055WeepingStatue/099MaskedDancer remain pending. Owner-approved later full recheck retains the issues; no early close or new batch. All three cumulative counters unchanged.

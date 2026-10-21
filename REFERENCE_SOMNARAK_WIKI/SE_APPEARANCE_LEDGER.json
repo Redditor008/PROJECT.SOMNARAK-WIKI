@@ -27,7 +27,20 @@
       "C-IIβ-055",
       "C-IIβ-099"
     ],
-    "reviewed": {},
+    "reviewed": {
+      "C-IIIγ-916": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_01_DEVOURING_BLOOM.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    },
     "authorization": "Owner P requested appearance research before164; latest p continues164 and permits a later full checking/fixing pass after this pass finishes. No165 authorization or automatic old-hold clearance."
   },
   "dossiers": [
@@ -736,8 +749,29 @@
     {
       "designation": "C-IIIγ-916",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Full combined written-design review complete; exact Work doctrine and narrative threat relationship unresolved; later recheck preserved.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_01_DEVOURING_BLOOM.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/916_Devouring_Bloom/SE-916-A__SIDE_CODEX_Devouring_Bloom.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/916_Devouring_Bloom/SE-916-B__MAW-W_Devouring_Bloom_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/916_Devouring_Bloom/SE-916-C__MAW-S_Devouring_Bloom_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/916_Devouring_Bloom/SE-916-D__MAW-G_Devouring_Bloom_Key.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIIγ-921",
