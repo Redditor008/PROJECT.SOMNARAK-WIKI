@@ -28,7 +28,7 @@ Complete final primary read in document order after actual five validators; fing
 
 **Commentary:** The strongest image is not the tall crystal but the cups stopping before anyone bleeds. The morning drill including the cook makes this a staffed, costly pass, not a decorative singing mountain. Keep that uncertainty instead of giving the squad an easy hammer solution.
 
-**Disposition:** CHANGED. Equipment +0/+0; independent written-design +1. 4 supported replacements, LC_ALL=C wc -w2929→3265. Whole final reading is not inferred from validators. Written design only: no rendered artwork, browser, preview, deployment or published site checked. Later full recheck permission retained; no fabricated transformation, numeric change, body quota or old credit. Both logs and individual gate/push mandatory. Five-review floor and cumulative No change ladder remain; no166/merge/301body permission.
+**Disposition:** CHANGED. Equipment +0/+0; independent written-design +1. 4 supported replacements, LC_ALL=C wc -w2929→3230. Whole final reading is not inferred from validators. Written design only: no rendered artwork, browser, preview, deployment or published site checked. Later full recheck permission retained; no fabricated transformation, numeric change, body quota or old credit. Both logs and individual gate/push mandatory. Five-review floor and cumulative No change ladder remain; no166/merge/301body permission.
 
 ## Fingerprints and actual checks
 
@@ -79,7 +79,7 @@ Complete final primary read in document order after actual five validators; fing
   "commentary": "The strongest image is not the tall crystal but the cups stopping before anyone bleeds. The morning drill including the cook makes this a staffed, costly pass, not a decorative singing mountain. Keep that uncertainty instead of giving the squad an easy hammer solution.",
   "final_sha": "df5cc111e9eee2ff48d3ea239437bbd1e68975219cac52d2a55e41a930433a06",
   "before_words": 2929,
-  "after_words": 3265,
+  "after_words": 3230,
   "source_hashes": {
     "SOMNARAK-WORLD/Unknown_Entities/SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자.md": "8607750a2835db62a6f034a708045dc371f21cc890501f3937341702aacbe95d",
     "SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/CANON_TIMELINE.md": "cb7bf669d6dc3b678fd03b8023b783fee958b4260ddec774e05ec746fe32385d",

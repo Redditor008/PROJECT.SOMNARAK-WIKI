@@ -1009,7 +1009,7 @@ Four repairs identify the spire as the boring/surfacing body and hovering as its
 
 **Commentary:** The strongest image is not the tall crystal but the cups stopping before anyone bleeds. The morning drill including the cook makes this a staffed, costly pass, not a decorative singing mountain. Keep that uncertainty instead of giving the squad an easy hammer solution.
 
-**Evidence and individual push:** [B165_02_SINGING_NEEDLE.md](SE_APPEARANCE_REVIEWS/B165_02_SINGING_NEEDLE.md); `ed68abb37ad23d5d3cdbb829364ffb772f8c1cd2` — PUSH VERIFIED. 4 supported replacements; LC_ALL=C wc -w 2,929 → 3,265. Full final reading followed actual validation.
+**Evidence and individual push:** [B165_02_SINGING_NEEDLE.md](SE_APPEARANCE_REVIEWS/B165_02_SINGING_NEEDLE.md); `ed68abb37ad23d5d3cdbb829364ffb772f8c1cd2` — PUSH VERIFIED. 4 supported replacements; LC_ALL=C wc -w 2,929 → 3,230. Full final reading followed actual validation.
 
 #### 3. The Ancestral Guilt — `N-Vω-1055`
 
@@ -1104,6 +1104,7 @@ Status totals: 12 changed, 4 retained, 88 held, 2 blocked and 195 pending, summi
 - Source fingerprints capture their unit-time versions. Mutable WIP/CHANGELOG were subsequently extended; their fingerprints are not a claim that append-only logs remained frozen.
 - Fifty-four repository unit tests PASS. The first closure audit encountered Git's quoted non-ASCII path output; switching to NUL-delimited paths fixed the harness. The full audit was rerun successfully. An unsupported “mountain-sized” phrase in Needle's draft was removed before its final reread and individual push.
 - Closure gate initially refused copied receipt links that were relative to the review folder rather than each log. Corrected WIP, CHANGELOG and progress to their own relative link roots, removed an extra EOF blank line and reran validation; the refusal created no commit.
+- Final audit recalculated Needle's word count with required LC_ALL=C: 2,929 → 3,230. An intermediate default-locale recount had incorrectly reported 3,265; corrected that metadata in the receipt, batch record, closure and both logs. Primary text and all hashes are unchanged.
 - Complete final primary reading followed validation for every unit. Technical PASS alone was not used as logical completion.
 - Both WIP and CHANGELOG carry every unit and this closure. Current progress lead is repaired so it no longer carries the stale Batch164 summary or “No165 authorization” text.
 - No illustration, browser, rendered page, running preview or published site was inspected. No deployment, merge, new body generation or numeric normalization occurred.
