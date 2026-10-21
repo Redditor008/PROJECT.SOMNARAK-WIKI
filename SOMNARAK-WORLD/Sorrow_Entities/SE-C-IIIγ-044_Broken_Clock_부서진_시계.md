@@ -43,7 +43,7 @@
 - A completed cycle quiets the movement for a shift. It repairs nothing, and the attempt to repair it is prohibited rather than merely discouraged.
 - Viderehan and Ferrehan are the valid approaches, this being an object; nothing anybody has tried has altered the hands, including the two authorised interventions on file.
 - No breach counter: it expands rather than escapes. The distortion reaches outward from the storage bay along the Alpha Tree root lines, and three expansion events are recorded; nothing has ever left the bay.
-- Extraction runs under its own authorisation and does not alter the movement. The implement goes on keeping its own wrong time throughout, which crews are warned about because the discrepancy is unsettling rather than dangerous.
+- Extraction runs under its own authorisation and does not alter the movement. The implement goes on keeping its own wrong time throughout, which crews are warned about because the discrepancy does not certify a safe exposure. Keep extraction timing separate from the source’s medical ageing, sequence loss and expansion risks.
 
 ## Combat Record
 ### Core Stat Line
@@ -73,7 +73,7 @@
 | **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, Alpha Tree deep storage — contained |
-| **Resolution Condition** | Two things must hold at once, and they must hold in order: the gauge has to come in under 25%, and it has to get there on the outside clock rather than on anyone's sense of how long the sitting has run. Nothing else has ever moved it; the two Work Types that answer are Viderehan and Ferrehan, and no sitting on file has been closed against a reading taken from inside the line. |
+| **Resolution Condition** | Two things must hold at once, and they must hold in order: the gauge has to come in under 25%, and it has to get there on the outside clock rather than on anyone's sense of how long the sitting has run. Ferrehan is the recorded gauge-lowering Work Type; Viderehan provides observation while holding the gauge stable. Neither permits closing a sitting against a reading taken from inside the line. |
 
 ### Combat Actions
 
@@ -153,9 +153,9 @@
 
 ### Operational Work Notes
 
-Broken Clock is a Fragment (III) Object of Major (γ) potency, Object-Weight manifestation, Weight expression, in Alpha Tree deep storage. Flerehan and Pugnahan are N/A because an object cannot be grieved with or fought. A stable gauge is not a safe cycle here: Viderehan holds the needle level while the worker spends an unknown quantity of their own life inside the line.
+Broken Clock is a Fragment (III) Object of Major (γ) potency, Object-Weight manifestation, Weight expression, in Alpha Tree deep storage. Flerehan and Pugnahan are N/A as Work Types. Physical striking, winding or pushing can still provoke the recorded mechanical responses; that does not make confrontation a valid Work Type. A stable gauge is not a safe cycle here: Viderehan holds the needle level while the worker spends an unknown quantity of their own life inside the line.
 
-**Reading the response:** Read the face series against the outside clock and nothing else. A falling gauge presents as stops lengthening and reversals becoming rarer; a rising one presents as the chalked line no longer matching the field, which is checked with the probe rather than assumed. No sensation inside the radius is admissible as an indicator.
+**Reading the response:** Read the face series against the outside clock and nothing else. A falling gauge presents as stops lengthening and reversals becoming rarer; a rising one presents as the chalked line no longer matching the field, which is checked with the probe rather than assumed. An inside sensation cannot authorise the interval or replace the outside clock and boundary probe. Preserve the worker’s estimate separately for the exposure ledger and medical review.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -292,9 +292,9 @@ Every Escapement piece is the holding's condition carried in metal rather than o
 | **Before use** | Operator name, grade, current gauge, psychological assessment, equipment condition, mission objective, lifetime inside-interval total, and the name of the second person holding the outside clock. |
 | **During use** | Activation time by the outside clock, every reading given and acknowledged, face readings and directions, stop durations, boundary probe results, and the operator's own estimate of elapsed time. |
 | **At limit** | Outside duration, inside estimate, activations, attribute change, rejection signs, final boundary, and whether any acknowledgment was late. |
-| **After use** | Detachment outside the line, injuries, disorientation, cooldown, equipment condition, reuse authorisation, and the inside-interval total updated and countersigned by the second person. |
+| **After use** | Piece-specific cessation outside the line, injuries, disorientation, cooldown, equipment condition, reuse authorisation, and the inside-interval total countersigned by the second person. The embedded Wheel is not detached from bone under a generic equipment-return instruction; preserve its unresolved removal requirement. |
 
-**Stat interpretation:** The grade describes the effect on entities and not the cost to the bearer, which is listed separately and is the larger figure here. On this holding the cost is lived time that no record of the facility's will ever show, and the ledger's inside-interval column exists because somebody insisted it should at least be written down.
+**Stat interpretation:** The grade does not measure a bearer’s lost lifetime or certify recovery. Keep the piece’s effect, physical toll and source-binding cost separately. The bay’s voluntary ledger records lived time and medical evidence supports ageing; the official service account does not credit that time. Its exclusion is not proof that no record or injury exists.
 
 ## 관찰 기록 (Observation Log)
 
@@ -315,7 +315,7 @@ Every Escapement piece is the holding's condition carried in metal rather than o
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer enters the holding as an Object/Place carrying Object-Weight manifestation. Its signature is Weight, and the markers that hold are the uncountable tick and the chalked line, at SECTOR-A-01 in the deep storage under the Alpha Tree. |
+| **Initial exposure** | Confirm the holding as an Object/Place with Object-Weight manifestation, not the observer as that object. Record its Weight signature, uncountable tick and chalked boundary at SECTOR-A-01 under the Alpha Tree; a named observer enters only under the crossing authorisation. |
 | **Sustained observation** | Face readings and directions at fixed outside intervals, stop durations, tick behaviour, boundary probe, gauge, acknowledgments given and received, and the inside interval estimated by the worker for comparison with the clock. |
 | **Activation or escalation** | Escalation is recorded when the probe finds the field outside the chalked line. The line is re-chalked immediately, the previous line is left visible, and the series of lines is the containment's only record of how this holding has grown. |
 | **Post-contact review** | The boundary before and after, the face series, how long each stop lasted, the gauge, the outside duration set against the inside estimate, and a 7-day check on every worker for sequence errors in how they describe ordinary days. |
@@ -346,7 +346,7 @@ The archive cross-references this entity with its registered location — the so
 
 | Work it the sheet's way — Viderehan and Ferrehan, Tool protocol certified, 2 workers on the outside clock, the 10-minute limit and the boundary held. | Break off the clause for good reasons, which is how the record shows people come unstuck here. |
 |---|---|
-| It answers the way its record says it will; the sorrow is carried and the Clock is recorded whole. | It resists the wrong approach and the pressure keeps climbing; the reading rises and the Clock goes unrecorded. |
+| It answers the way its record says it will; the sorrow is carried and the Clock is recorded whole. | The interval cannot be validated from the party’s estimate. A missed acknowledgement requires withdrawal; record the actual gauge, boundary and worker exposure rather than assuming every failure automatically raises the reading. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -365,7 +365,7 @@ Time stretches inside your bones. Your heartbeat races while your body seems sti
 
 ### Interaction Pattern
 
-The Clock is read next to the other holdings that hold an hour or shed one, and the pairings listed below are what the archive has actually sat still for. None of them is settled. All 5 were watched from outside the line, and that is not a preference: the interval is the thing the Clock alters, so a reading taken inside the line cannot be entered at all.
+The Clock is read next to the other holdings that hold an hour or shed one, and the pairings listed below are what the archive has actually sat still for. None of them is settled. All 5 were watched from outside the line, and that is not a preference: the interval is the thing the Clock alters, so an instrument reading inside the line cannot time the sitting. Keep such readings and the worker’s estimate as attributed exposure evidence, never as the outside duration.
 
 **Interaction method:** Each party is measured on its own first, across several cycles, on its own figures — the face series, the length of the stops, the boundary, the gauge. Only then are the two watched together. When something shifts in both, the entry carries the range, how long it held, what started it, the gauge on each side, and what is still different once they are apart. Every cycle starts from a fresh baseline; nothing is carried over from the sitting before it.
 
@@ -441,7 +441,7 @@ Time distorts within a measured distance of the face and does not beyond it, and
 
 ### Hands Without Pattern
 
-The movement of the hands forward, backward, and to a stop has been logged continuously since the containment opened and has yielded no sequence, no period, and no correlation with anything the facility measures. The series is maintained anyway. The standing instruction notes that the absence of a pattern is the finding, that a finding of this kind is only credible if the observation is unbroken, and that an interrupted log would leave the next Warden unable to say whether the pattern had been missed or had never existed.
+The movement of the hands forward, backward, and to a stop has been logged continuously since containment opened and has yielded no reliable sequence or period. The interaction series does record more frequent reversals and shorter stops during a Tide; that association does not turn the face into a clock or establish a field expansion. The series is maintained anyway. The standing instruction notes that the absence of a pattern is the finding, that a finding of this kind is only credible if the observation is unbroken, and that an interrupted log would leave the next Warden unable to say whether the pattern had been missed or had never existed.
 
 ### Anchored to the Loop
 
