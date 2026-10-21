@@ -1,0 +1,151 @@
+# Batch170 individual evidence
+
+## Batch170 unit1 — Dreaming Plague `N-IVδ-927`
+
+[[SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-927_Dreaming_Plague_%EA%BF%88%EC%9D%98_%EC%A0%84%EC%97%BC%EB%B3%91.md "SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md")]
+
+**Original/source review and predeclared R18 scope:** Whole385-line original and exact927A–D read. InnerVoid Hazard-Dream is shared sleep-state, normally breathing affected people and reported dream geography; no organic sourcebody or visible approaching pursuer. Whole chain covers recognition/history, firstsleep/contact/transport expansion, cordon Work/natural waking, isolated accounts/ordinal distance, paper interactions and staging-point derived gear. Predeclared R18:0batch-short/14careful-detail, independently authored: nonbody/type/role, five touch-versus-proximity summaries, no-contact Clash/priority, nonpromissory timing, account agreement, one air-trigger copyedit removing known substring seam without changing its held claim, concrete multi-subject profile.
+
+**Sources/history:** Exact927A–D complete; primary/A–B δVoid11–20 Normal2 Short2 Single100%4/25 agree; Suit1/1/.3/.8 4/20; DHead5%+1. CSV1067–1070 partial, archetype386 StaffCrystalLong versus bladeShort, disposition341Neutral; Entity359awaitingrow. ExactMasterMAW/Tale searches show no dedicated entry. B133unit1cbfb483 fullsource/hold/history paragraph and B44unit9/B48unit4/B61unit3 prose histories read; priorfullset/exactWeapon alreadycredited0/0. Original B133 known breathe-the-same substring falsepositive retained historically; current copyedit does not change shared-air claim. No borrowed neighboringdream source.
+
+**What changed:** Clarify non-bodily dream versus sleepers and reports; replace proximity summaries with recorded touch transmission. Remove physical-suppression/early-waking implications, describe cordon Work, correct differing-account comparison and distinguish carried expansion from walking. Air-trigger wording changes only grammar, not its unresolved route claim.
+
+**Final whole-file reasoning:** HELD: common reported city/sleeper/no-touch relationship and derived gear distinction are supported, and useful independent instructions now match the cordon. First-sleeper/airflow state and actual vessel/action/item provenance remain essential unresolved claims. No human precursor, visible dreammonster or owner-permission exception supplied.
+
+**Holds / later recheck:**
+- Touch-only series versus airborne/voice combat and unprompted firstsleep; repeated routine touch statements are repaired, but no new first-sleeper or air mechanism invented.
+- VesselDestructible/dust versus state not sourcebody; no harm/physicaleffects versus attacks and alteredidentity; turndrain versus persleeper Gauge and naturalwaking versus genericitem interruption remain unmapped.
+- PrimaryEdge nextnightdistrictdream versus Bpersistentheadache and StaffCrystalLong versus bladeShort; Token lamp-lens extraction versus sleeper palm recovery remain same-item provenance/ability conflicts.
+- Twoexpansions/twochain events versus onechain/nochainsince, Y4231series/seventeenyears/Y4255 chronology unresolved; ordinaldistance not converted to metres.
+
+**Commentary:** The rest declaration works because staff are allowed to admit fatigue without punishment. I find the approaching sound stronger as an unexplained series than as a creature. The rule against carrying a colleague gives the abstract dream a concrete human cost without needing an organic body.
+
+**Checks and integrity:** Five actual verify/tpl/sectfile/wikistd/sect PASS, full final read after checks, final hash matches. 14 exact replacements; LC_ALL=C words5548→5863. Source hashes and unchanged digit streams retained. Detailed evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_01_DREAMING_PLAGUE.md`. Gate/push follows. Written-design review, not artwork/render/browser/game/live-site inspection. Equipment+0/+0;SE+0, no duplicate/retroactive/body/art credits.
+
+**Progress:** OPEN1/5, No change0/1. Three counters Types255/30184.72%(46remain),Weapon255/28788.85%(32remain),SE16/3015.32%(285remain). No171/merge/deployment/artwork. Later full recheck and301eight-owner-body/one4+4/generate-before-copy blocker retained.
+
+## Exact replacements, fingerprints and actual outputs
+
+```json
+{
+  "designation": "N-IVδ-927",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md",
+  "words": 5548,
+  "sha256": "e894e83fd01c2d34a0e885367a387d9615a8e0115aee2fa17687b1ec44b75ac9",
+  "name": "Dreaming Plague",
+  "unit": 1,
+  "status": "held",
+  "receipt": "B170_01_DREAMING_PLAGUE.md",
+  "repairs": [
+    [
+      "**Hazard** — Can breach via Transform",
+      "**Hazard** — Dream-state transmitted by touch; recorded expansion follows a carried sleeper, not a transformed travelling body"
+    ],
+    [
+      "| **Threat Role** | Sovereign encounter |",
+      "| **Threat Role** | Critical contact-transmitted dream hazard; not a Sovereign classification |"
+    ],
+    [
+      "| **Physical Form** | Organic — A contagious dream-state that spreads through proximity in Zone D. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. |",
+      "| **Physical Form** | Organic — A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. |"
+    ],
+    [
+      "**Primary Form:** A contagious dream-state that spreads through proximity in Zone D. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer.",
+      "**Primary Form:** A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer."
+    ],
+    [
+      "- **Primary marker:** A contagious dream-state that spreads through proximity in Zone D. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer.",
+      "- **Primary marker:** A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer."
+    ],
+    [
+      "| **Form** | A contagious dream-state that spreads through proximity in Zone D. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. |",
+      "| **Form** | A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. |"
+    ],
+    [
+      "The void arrives in the dream register — not as a wave or a wall but as a shift in the texture of the air, the light, the sound. A contagious dream-state that spreads through proximity in Zone D. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. The space does not become generic or abstract; it changes in the specific way associated with void filtered through dream.",
+      "The void arrives in the dream register — not as a wave or a wall but as a shift in the texture of the air, the light, the sound. A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. The space does not become generic or abstract; it changes in the specific way associated with void filtered through dream."
+    ],
+    [
+      "| **Physical Form** | Organic —",
+      "| **Physical Form** | Non-bodily shared dream-state —"
+    ],
+    [
+      "2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dreaming Plague's recorded combat actions.",
+      "2. **Clash:** The attending crew holds the cordon without touching or moving the sleeper. Observation takes the separate account on waking; endurance is the wait outside reach. Equipment issue and return stay at the staging point, and neither Work approach has documented an early waking."
+    ],
+    [
+      "- **Containment priority:** Physical suppression required.",
+      "- **Containment priority:** Cordon and wait for unaided waking. Do not carry, shake or touch the sleeper in an attempt to suppress the dream; contact has added sleepers rather than shortened their sleep."
+    ],
+    [
+      "They wake inside the hour and the account is taken clean, before anybody has compared notes.",
+      "They wake unaided, with no guaranteed short interval, and the account is taken separately before anybody compares notes. The recorded mean and longest sleep remain the planning figures, not an inside-the-hour promise."
+    ],
+    [
+      "this one returns the sleeper with an account no two sleepers give the same way.",
+      "this one returns sleepers who independently agree on the streets and sky, while the approaching sound has its own dated distance series."
+    ],
+    [
+      "When three carriers breathe the same air.",
+      "When three carriers share the same air."
+    ],
+    [
+      "## Appearance\n\n",
+      "## Appearance\n\n**Sleeper, reported city and approaching sound:** What the attending crew sees is a normally breathing person asleep where they lay down, not an exposed organic body of the hazard. The foreign streets and wrong sky belong to separate waking accounts. They are not a second city physically built around the cordon, and the approaching sound has no recorded visible pursuer to draw. Agreement between accounts is the evidence; neither the sound's source nor the formation event has been identified.\n\n**A transmission chain is not locomotion:** Touch adds a sleeper. The mapped expansions followed a rescuer carrying one across a street; they do not show the dream walking independently. Keep the first unprompted sleep described in the expansion record distinct from person-to-person transmission rather than inventing a route that explains both. No inspection requires a second person to touch the first for confirmation.\n\n**Cordon and derived equipment:** Lamps and barriers are the crew's apparatus. The blade, hooded Veil and Token belong to a derived set, not to the sleeping person's anatomy. The Token's palm recovery occurs after waking; its lamp-lens provenance remains a separate unresolved account. A dream reported after wielding the Edge is an equipment exposure record, not proof that all ordinary contact restrictions have changed.\n\n"
+    ]
+  ],
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/927_Dreaming_Plague/SE-927-A__SIDE_CODEX_Dreaming_Plague.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/927_Dreaming_Plague/SE-927-B__MAW-W_Dreaming_Plague_s_Edge.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/927_Dreaming_Plague/SE-927-C__MAW-S_Dreaming_Plague_s_Veil.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/927_Dreaming_Plague/SE-927-D__MAW-G_Dreaming_Plague_s_Token.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
+  ],
+  "reasoning": "Whole385-line original and exact927A–D read. InnerVoid Hazard-Dream is shared sleep-state, normally breathing affected people and reported dream geography; no organic sourcebody or visible approaching pursuer. Whole chain covers recognition/history, firstsleep/contact/transport expansion, cordon Work/natural waking, isolated accounts/ordinal distance, paper interactions and staging-point derived gear. Predeclared R18:0batch-short/14careful-detail, independently authored: nonbody/type/role, five touch-versus-proximity summaries, no-contact Clash/priority, nonpromissory timing, account agreement, one air-trigger copyedit removing known substring seam without changing its held claim, concrete multi-subject profile.",
+  "history": "Exact927A–D complete; primary/A–B δVoid11–20 Normal2 Short2 Single100%4/25 agree; Suit1/1/.3/.8 4/20; DHead5%+1. CSV1067–1070 partial, archetype386 StaffCrystalLong versus bladeShort, disposition341Neutral; Entity359awaitingrow. ExactMasterMAW/Tale searches show no dedicated entry. B133unit1cbfb483 fullsource/hold/history paragraph and B44unit9/B48unit4/B61unit3 prose histories read; priorfullset/exactWeapon alreadycredited0/0. Original B133 known breathe-the-same substring falsepositive retained historically; current copyedit does not change shared-air claim. No borrowed neighboringdream source.",
+  "summary": "Clarify non-bodily dream versus sleepers and reports; replace proximity summaries with recorded touch transmission. Remove physical-suppression/early-waking implications, describe cordon Work, correct differing-account comparison and distinguish carried expansion from walking. Air-trigger wording changes only grammar, not its unresolved route claim.",
+  "holds": [
+    "Touch-only series versus airborne/voice combat and unprompted firstsleep; repeated routine touch statements are repaired, but no new first-sleeper or air mechanism invented.",
+    "VesselDestructible/dust versus state not sourcebody; no harm/physicaleffects versus attacks and alteredidentity; turndrain versus persleeper Gauge and naturalwaking versus genericitem interruption remain unmapped.",
+    "PrimaryEdge nextnightdistrictdream versus Bpersistentheadache and StaffCrystalLong versus bladeShort; Token lamp-lens extraction versus sleeper palm recovery remain same-item provenance/ability conflicts.",
+    "Twoexpansions/twochain events versus onechain/nochainsince, Y4231series/seventeenyears/Y4255 chronology unresolved; ordinaldistance not converted to metres."
+  ],
+  "result": "HELD: common reported city/sleeper/no-touch relationship and derived gear distinction are supported, and useful independent instructions now match the cordon. First-sleeper/airflow state and actual vessel/action/item provenance remain essential unresolved claims. No human precursor, visible dreammonster or owner-permission exception supplied.",
+  "commentary": "The rest declaration works because staff are allowed to admit fatigue without punishment. I find the approaching sound stronger as an unexplained series than as a creature. The rule against carrying a colleague gives the abstract dream a concrete human cost without needing an organic body.",
+  "final_sha": "f74ef0befa37936e23b8367607fe5d890f02d7d78aa11cbc3b3eb9e10b358361",
+  "before_words": 5548,
+  "after_words": 5863,
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/927_Dreaming_Plague/SE-927-A__SIDE_CODEX_Dreaming_Plague.md": "99274da02e8960f94220df9cdc7a6ef5e793b838217d95cdc9656e41c896f3b3",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/927_Dreaming_Plague/SE-927-B__MAW-W_Dreaming_Plague_s_Edge.md": "984e62fbfec7ea6d98c34fb6a864595935fbf762487e03f302695029e905419a",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/927_Dreaming_Plague/SE-927-C__MAW-S_Dreaming_Plague_s_Veil.md": "b306f52ac62228d8426d1e3067df6f5c6b92ca5688a7dae0a73a2ef7d0eefa4e",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/927_Dreaming_Plague/SE-927-D__MAW-G_Dreaming_Plague_s_Token.md": "a7b2b14b94767aa784aa49b2d542ddf4396efe3e2e9825640e2142d8145e8aac",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d"
+  },
+  "outputs": {
+    "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+    "tpl": "RESIDUE 0  SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md",
+    "sectfile": "0.038  clean   131 grams  Breach Behavior\n 0.019  clean   108 grams  Operational Parameters\n 0.017  clean   597 grams  M.A.W. Equipment\n 0.004  clean   490 grams  Combat Record\n 0.000  clean   708 grams  Apex Record\n 0.000  clean   390 grams  Appearance\n 0.000  clean   342 grams  상호작용 (Entity Interactions)\n 0.000  clean   204 grams  감각 묘사 (Flavor Text)\n 0.000  clean   199 grams  이야기 보고 (Story Log)\n 0.000  clean   177 grams  이야기 (Narratio)\n 0.000  clean   159 grams  Origin\n 0.000  clean   138 grams  기록 (Registrum)\n 0.000  clean    98 grams  관찰 기록 (Observation Log)\n 0.000  clean    72 grams  증언 (Testimonium)\n 0.000  clean    62 grams  최종 관찰 (Final Observation)\n 0.000  clean    58 grams  SECC Classification\n 0.000  clean    55 grams  Behavior\n 0.000  clean    34 grams  Trivia\n 0.000  clean    19 grams  (preamble)\n0 section(s) over 0.05",
+    "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+    "sect": "31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 30% against Void pressure; 21% against other pressure types |\n   92   1  3. **Resolution:** The sleeper sits up. The attending crew takes their account before anyone speaks to them about it, in a separat\n  164   3  | **Escalation** | Each turn the entity is free, its pressure grows; Void drain increases by 5 per turn until suppressed. |\n  169   2  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per additional sleeper rather than per turn. The largest chain recorded i\n  179   2  **Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, that quivers when raised.\n  196   5  **Edge attribution:** The individual Weapon record requires attribution review before cleaning or rest, retaining bearer, trigger,\n  202   2  **Appearance:** a hooded weave of Void Han-gossamer, near-translucent and almost colourless, cut without fastenings of any kind so\n  222   2  **Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.\n  226   1  **Effect:** +1 stat bonus when working the source entity.\nGENERIC 0.005  (21 shared shingles)  SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md"
+  },
+  "disclosure": "Final reading caught custody wording overly broad: issue/return at staging, not a claim gear cannot be carried by named operator. Corrected same-unit before record; no new replacement count or credit. Initial unique-match assert rejected repair ordering before write; reordered prefix replacement after anchored lines.",
+  "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_01_DREAMING_PLAGUE.md",
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-927_Dreaming_Plague_%EA%BF%88%EC%9D%98_%EC%A0%84%EC%97%BC%EB%B3%91.md \"SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md\")]",
+  "table_link": "[Dreaming_Plague](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-927_Dreaming_Plague_%EA%BF%88%EC%9D%98_%EC%A0%84%EC%97%BC%EB%B3%91.md \"SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md\")"
+}
+```

@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch170 OPEN0/5.** Owner p after CLOSED169 authorizes170 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains. [Opening evidence](SE_APPEARANCE_REVIEWS/B170_OPEN.json). No new credit.
+**Latest: Batch170 OPEN1/5.** Owner p after CLOSED169 authorizes170 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains. [Opening evidence](SE_APPEARANCE_REVIEWS/B170_OPEN.json). No new credit.
 
 **Latest batch: Batch169 CLOSED 5 / 5.** 48 supported replacements, five HELD whole designs, No change0/5; no new equipment/SE credits. [Closure evidence](SE_APPEARANCE_REVIEWS/B169_CLOSE.json). No170/merge/deployment.
 
@@ -1227,3 +1227,7 @@ CLOSED5/5; all details and Commentary in [closure](SE_APPEARANCE_REVIEWS/B168_CL
 ## Batch169 current close
 
 CLOSED5/5;48replacements, fiveHELD whole designs, No change0/5. 26,608→28,257words(+1,649);25fresh actual validators54testsPASS. Three counters255/301,255/287,16/301 unchanged. Ledger12changed/4retained/108held/2blocked/175pending; technicalPASS is not logical completion. Five individual verified pushes and exact-source/digit/Tale/corpus audit in [complete report](SE_APPEARANCE_REVIEWS/B169_CLOSE.md). Earlier OPEN snapshots historical; no170authorized.301eightownerbodies/one4+4/generatebeforecopy retained.
+
+### Batch170 unit1 — OPEN1/5
+
+[Dreaming Plague evidence](SE_APPEARANCE_REVIEWS/B170_01_DREAMING_PLAGUE.md): HELD, 14 supported replacements, five actual checks and full final reading. No change0/1. No credits inferred.

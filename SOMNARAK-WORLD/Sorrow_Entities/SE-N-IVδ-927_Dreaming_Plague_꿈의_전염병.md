@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-927 [VH]` |
-| **Entity Type** | **Hazard** — Can breach via Transform |
+| **Entity Type** | **Hazard** — Dream-state transmitted by touch; recorded expansion follows a carried sleeper, not a transformed travelling body |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Hazard-Dream |
-| **Physical Form** | Organic — A contagious dream-state that spreads through proximity in Zone D. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. |
+| **Physical Form** | Non-bodily shared dream-state — A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-N-927, contained |
 | **R.D. Comprehension Level** | 4 — Deep |
@@ -66,7 +66,7 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Critical contact-transmitted dream hazard; not a Sovereign classification |
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
@@ -80,7 +80,7 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The Incubation* [**Debuff**] } | "No one catches it on purpose. The morning simply arrives with a symptom that answers to someone else's name." | [The infection plants its first sign and waits for the carrier to breathe on a neighbour.] | *The mark multiplies through ordinary contact; the Gauge rises each round it goes unnoticed.* **[9 Void DMG [Void]]** | When a sleeper's dream is first borrowed. |
-| { *The Coughing Choir* [**Attack**] } | "One throat starts it, and by evening the street is singing a note none of them were taught." | [Every infected voice picks up the same pattern and passes it along in unison.] | *Void damage reaches everyone within earshot; each new carrier feeds the Gauge.* **[16 Void DMG [Void] (AoE)]** | When three carriers breathe the same air. |
+| { *The Coughing Choir* [**Attack**] } | "One throat starts it, and by evening the street is singing a note none of them were taught." | [Every infected voice picks up the same pattern and passes it along in unison.] | *Void damage reaches everyone within earshot; each new carrier feeds the Gauge.* **[16 Void DMG [Void] (AoE)]** | When three carriers share the same air. |
 | { *The Fever Dream* [**Attack**] } | "Your dream walks in before you do, and it is wearing a face you have not met." | [The plague lays its own dream over the sleeper's and walks the sleeper through it.] | *The target spends their next action inside the borrowed dream while the Gauge climbs.* **[26 Void DMG [Void]]** | When the carrier is exhausted or handled carelessly. |
 | { *The Brightening* [**Ultimate**] } | "The district wakes up cured. Every one of them is somebody else now." | [The plague lets go in a single morning and keeps everything it learned from the people it touched.] | *All personnel lose the day above; recoveries taken inside the radius fail together.* **[22 Void DMG [Void] (AoE, x2 turns)]** | When the Gauge reaches its registered ceiling. |
 
@@ -88,7 +88,7 @@
 ### Battle Phases
 
 1. **Tension:** The team identifies Dreaming Plague by the agreement. Independent sleepers describe the same streets in the same order, and the counsellors’ standing note records that this is the most troubling feature of the file precisely because dreams do not ordinarily agree. The team confirms the approach and takes position before anything else is attempted.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dreaming Plague's recorded combat actions.
+2. **Clash:** The attending crew holds the cordon without touching or moving the sleeper. Observation takes the separate account on waking; endurance is the wait outside reach. Equipment issue and return stay at the staging point, and neither Work approach has documented an early waking.
 3. **Resolution:** The sleeper sits up. The attending crew takes their account before anyone speaks to them about it, in a separate place from any other sleeper, and the barriers go back on the rack. The district reopens the moment the account is signed. It closes against the documented suppression condition: **The sleeper wakes on their own and the cordon is lifted by the person who set it**.
 
 ### Consequences
@@ -99,7 +99,13 @@
 
 ## Appearance
 
-**Primary Form:** A contagious dream-state that spreads through proximity in Zone D. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer.
+**Sleeper, reported city and approaching sound:** What the attending crew sees is a normally breathing person asleep where they lay down, not an exposed organic body of the hazard. The foreign streets and wrong sky belong to separate waking accounts. They are not a second city physically built around the cordon, and the approaching sound has no recorded visible pursuer to draw. Agreement between accounts is the evidence; neither the sound's source nor the formation event has been identified.
+
+**A transmission chain is not locomotion:** Touch adds a sleeper. The mapped expansions followed a rescuer carrying one across a street; they do not show the dream walking independently. Keep the first unprompted sleep described in the expansion record distinct from person-to-person transmission rather than inventing a route that explains both. No inspection requires a second person to touch the first for confirmation.
+
+**Cordon and derived equipment:** Lamps and barriers are the crew's apparatus. The blade, hooded Veil and Token belong to a derived set, not to the sleeping person's anatomy. The Token's palm recovery occurs after waking; its lamp-lens provenance remains a separate unresolved account. A dream reported after wielding the Edge is an equipment exposure record, not proof that all ordinary contact restrictions have changed.
+
+**Primary Form:** A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer.
 
 **Notable Features:**
 - Expresses Void pressure in a dream register.
@@ -109,7 +115,7 @@
 **Identification Profile**
 - **Entity Type:** Hazard
 - **Manifestation:** Hazard-Dream
-- **Primary marker:** A contagious dream-state that spreads through proximity in Zone D. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer.
+- **Primary marker:** A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer.
 - **Element signature:** Void
 - **Registered location:** SECTOR-N-927
 
@@ -118,7 +124,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A contagious dream-state that spreads through proximity in Zone D. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. |
+| **Form** | A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. |
 | **Position / movement** | The holding does not move; the dream does, and only along contact. One sleeper becomes two when somebody touches them, and has never become two by any other route in the whole of the series. |
 | **Material / signature** | A city that is not Somnarak, a sky that is not the sky, and a sound that is getting closer. Those three elements appear in every account the wing holds, taken separately, from witnesses who had not spoken to one another. |
 | **Distinctive markers** | The agreement. Independent sleepers describe the same streets in the same order, and the counsellors’ standing note records that this is the most troubling feature of the file precisely because dreams do not ordinarily agree. |
@@ -159,7 +165,7 @@ There is no pressure on the body here at all. Both valid approaches are performe
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** Cordon and wait for unaided waking. Do not carry, shake or touch the sleeper in an attempt to suppress the dream; contact has added sleepers rather than shortened their sleep.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per additional sleeper rather than per turn. The largest chain recorded is six, in Y4232, before the rule; every chain since the rule has been one.
 
 ## M.A.W. Equipment
@@ -270,12 +276,12 @@ The Dreaming Plague set is made from the cordon: the Edge from a marker-lamp sta
 
 | Hold the line — cordon the sleeper and wait them out. | Reach for them — get your colleague off the ground. |
 |---|---|
-| They wake inside the hour and the account is taken clean, before anybody has compared notes. | Now there are two of them, and the second one is you, and somebody else is standing over you deciding what to do. |
+| They wake unaided, with no guaranteed short interval, and the account is taken separately before anybody compares notes. The recorded mean and longest sleep remain the planning figures, not an inside-the-hour promise. | Now there are two of them, and the second one is you, and somebody else is standing over you deciding what to do. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-The void arrives in the dream register — not as a wave or a wall but as a shift in the texture of the air, the light, the sound. A contagious dream-state that spreads through proximity in Zone D. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. The space does not become generic or abstract; it changes in the specific way associated with void filtered through dream.
+The void arrives in the dream register — not as a wave or a wall but as a shift in the texture of the air, the light, the sound. A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. The space does not become generic or abstract; it changes in the specific way associated with void filtered through dream.
 
 **At first contact:** Somebody lies down in the street with no warning at all, and the first thing anyone does is reach for them, and the first thing anyone has to learn here is not to.
 
@@ -294,7 +300,7 @@ This holding shares its register with three others: a zone that swallows sound, 
 | Which record is set beside it | What the two share on the page | What the account entered | What the series keeps |
 |---|---|---|---|
 | **Weighted Silence** `O-IIIγ-924` | Both file under sound withheld or lost. That record's pressure is an absence everyone walks through; this one travels by touch and nothing else, and neither has ever moved on proximity. | Nothing was run. The appendix grouped the two on the quiet, and the review left the entry as an arrangement. | That the grouping is a filing line, entered as such on each repetition. |
-| **Dawn That Forgot** `N-IIIγ-917` | Both end on a waking whose hour nobody chooses. That record's light takes the memory of the night; this one returns the sleeper with an account no two sleepers give the same way. | The waking series were laid side by side once and agreed on length alone. | That the two are kept for the shape of the interval, noted as shape and not as a link. |
+| **Dawn That Forgot** `N-IIIγ-917` | Both end on a waking whose hour nobody chooses. That record's light takes the memory of the night; this one returns sleepers who independently agree on the streets and sky, while the approaching sound has its own dated distance series. | The waking series were laid side by side once and agreed on length alone. | That the two are kept for the shape of the interval, noted as shape and not as a link. |
 | **Lacrima** `N-Iα-905` | Both hold what a person cannot carry out of the room — that record a vessel, this one a sleeper who must not be lifted. | One review entry; the distance series parted at the first mark and stayed parted. | That the parting stands as the entry, carried un-smoothed in the review's numbers. |
 
 **Interaction procedure:** No co-presence is authorised on this cordon. Comparison is done on paper at the stand-down review with the account and the distance reading entered first and the other record's series set beside them unchanged; parting, depth, trigger and both readings go in the margin.

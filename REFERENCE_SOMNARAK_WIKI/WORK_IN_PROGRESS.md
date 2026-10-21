@@ -1,4 +1,28 @@
 # Work In Progress
+## Batch170 unit1 — Dreaming Plague `N-IVδ-927`
+
+[[SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-927_Dreaming_Plague_%EA%BF%88%EC%9D%98_%EC%A0%84%EC%97%BC%EB%B3%91.md "SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md")]
+
+**Original/source review and predeclared R18 scope:** Whole385-line original and exact927A–D read. InnerVoid Hazard-Dream is shared sleep-state, normally breathing affected people and reported dream geography; no organic sourcebody or visible approaching pursuer. Whole chain covers recognition/history, firstsleep/contact/transport expansion, cordon Work/natural waking, isolated accounts/ordinal distance, paper interactions and staging-point derived gear. Predeclared R18:0batch-short/14careful-detail, independently authored: nonbody/type/role, five touch-versus-proximity summaries, no-contact Clash/priority, nonpromissory timing, account agreement, one air-trigger copyedit removing known substring seam without changing its held claim, concrete multi-subject profile.
+
+**Sources/history:** Exact927A–D complete; primary/A–B δVoid11–20 Normal2 Short2 Single100%4/25 agree; Suit1/1/.3/.8 4/20; DHead5%+1. CSV1067–1070 partial, archetype386 StaffCrystalLong versus bladeShort, disposition341Neutral; Entity359awaitingrow. ExactMasterMAW/Tale searches show no dedicated entry. B133unit1cbfb483 fullsource/hold/history paragraph and B44unit9/B48unit4/B61unit3 prose histories read; priorfullset/exactWeapon alreadycredited0/0. Original B133 known breathe-the-same substring falsepositive retained historically; current copyedit does not change shared-air claim. No borrowed neighboringdream source.
+
+**What changed:** Clarify non-bodily dream versus sleepers and reports; replace proximity summaries with recorded touch transmission. Remove physical-suppression/early-waking implications, describe cordon Work, correct differing-account comparison and distinguish carried expansion from walking. Air-trigger wording changes only grammar, not its unresolved route claim.
+
+**Final whole-file reasoning:** HELD: common reported city/sleeper/no-touch relationship and derived gear distinction are supported, and useful independent instructions now match the cordon. First-sleeper/airflow state and actual vessel/action/item provenance remain essential unresolved claims. No human precursor, visible dreammonster or owner-permission exception supplied.
+
+**Holds / later recheck:**
+- Touch-only series versus airborne/voice combat and unprompted firstsleep; repeated routine touch statements are repaired, but no new first-sleeper or air mechanism invented.
+- VesselDestructible/dust versus state not sourcebody; no harm/physicaleffects versus attacks and alteredidentity; turndrain versus persleeper Gauge and naturalwaking versus genericitem interruption remain unmapped.
+- PrimaryEdge nextnightdistrictdream versus Bpersistentheadache and StaffCrystalLong versus bladeShort; Token lamp-lens extraction versus sleeper palm recovery remain same-item provenance/ability conflicts.
+- Twoexpansions/twochain events versus onechain/nochainsince, Y4231series/seventeenyears/Y4255 chronology unresolved; ordinaldistance not converted to metres.
+
+**Commentary:** The rest declaration works because staff are allowed to admit fatigue without punishment. I find the approaching sound stronger as an unexplained series than as a creature. The rule against carrying a colleague gives the abstract dream a concrete human cost without needing an organic body.
+
+**Checks and integrity:** Five actual verify/tpl/sectfile/wikistd/sect PASS, full final read after checks, final hash matches. 14 exact replacements; LC_ALL=C words5548→5863. Source hashes and unchanged digit streams retained. Detailed evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_01_DREAMING_PLAGUE.md`. Gate/push follows. Written-design review, not artwork/render/browser/game/live-site inspection. Equipment+0/+0;SE+0, no duplicate/retroactive/body/art credits.
+
+**Progress:** OPEN1/5, No change0/1. Three counters Types255/30184.72%(46remain),Weapon255/28788.85%(32remain),SE16/3015.32%(285remain). No171/merge/deployment/artwork. Later full recheck and301eight-owner-body/one4+4/generate-before-copy blocker retained.
+
 ## Batch170 — OPEN0/5
 
 Owner p after CLOSED169 authorizes170 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains.
