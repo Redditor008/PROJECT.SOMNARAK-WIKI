@@ -1,4 +1,27 @@
 # Work In Progress
+## Batch176 unit1 — Holdout `C-IIβ-240`
+
+[[SE-C-IIβ-240_Holdout_사라진_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-240_Holdout_%EC%82%AC%EB%9D%BC%EC%A7%84_%EC%9E%94%ED%95%B4.md "SE-C-IIβ-240_Holdout_사라진_잔해.md")]
+
+**Original/source review and R18 predeclared scope:** Complete451-line original read. Exact240A–D and README complete; Master142–144/table182–184/detail2437–2469, Entity412 and completeTale48/2703–2764 read. City lawful demolition without resident voice → Object/Place, Place-Weight → vault footprint/load and mixed grey stone/deadwood/bone walls under deliberate remembering → historical destruction/returningstones/current resolved rooms/conditionalFullReturn → no outward locomotion but phantom doorways/zoneeffect → ViderehanStable/FerrehanDecrease, named memorial/no replica → three actual relations and separately derived gear traced. R18 predeclared5short/4careful, full final reread after five actual checks.
+
+**Sources/history:** Existing full-set primary paragraph and Batch106unit5 d244730a/current exact-join close read. Fullset/exactSE240B/MAW-W-240-01 already credited. Formal240 is Holdout; Solace1022 and ThreeFortySeven1023 not substituted. CSV526–529, archetype162 Long arming sword, disposition207 Neutral examined. A/BβGrudge5–9,2/2,Single100%,4/25; C1/.4/1.8/1.2,4/20; DTail5%+1Resilience agree. Tale48 obsoletePugnahan is explicitly corrected by current primary, not imported. No source rewrite or duplicate credit.
+
+**What changed:** Nine supported repairs clarify fixed footprint and phantom extension, correct the false interaction and no-event summaries, separate ordinary silence from noisy full return, remove the false no-touch rationale, and add concrete appearance plus distinct blade, Plate and Charm custody.
+
+**Final whole-file assessment:** HELD: fixed remembered architecture is supported, but same-state material/visibility, activation and equipment identity/permission relationships remain unresolved. +0 Types/+0 Weapon/+0 SE.
+
+**Holds / later recheck:**
+- Abstract Place and remember-to-resolve walls fit the loss; human origin does not require a humanoid. But persistent photographed31returnedstones/immovablecranestone versus unqualifiednoidentifiablemass/no physicalremains/eye seesnothing lack a clear same-state/material scope. No invented dematerialisation cycle.
+- Same-item equipment: silvered MercyBroadsword versus darkHanironRuinFang, Short2 versus archetypeLong; no form/chronologybridge. Charm coolcornerstone/date/demolitionschedule versus warmhinge/corroboratedboundary are not resolved by matching slot and bonus.
+- All-local noresidue/open extraction versus A/B survivor-map overlap and C memorial condensation remain distinct permissions; excludedformer-resident staffing versus source former-resident bestowal lacks setting/role scope. Do not invent an exemption or compel a survivor watch.
+- Normal return-in-place versus zonewide65%event and header decisiontrigger/60% lack full mapping. Manifested masonry/physicalphantom wound versus noise-and-air injuries, memory-dependent disappearance versus lengthening persistence, and structural platesoundness should not be flattened into a safety guarantee.
+- Current Event relation versus sourceA/Breach and index rationale is explicit identity hold; no renaming counterpart by analogy. R19Neutral retained, actual source suppression of Event is not anotherentityrelease. Dissent-file lawfulwrittenstatement does not retroactively create consultation. Historical error note about uncorrectedPugnahan now refers to correctedcurrentRegistrum; keep later-fix backlog.
+
+**Commentary:** The room loss is strongest when the engineering assessment really was right. It leaves the question of being heard intact instead of turning the engineers into convenient villains. I would preserve the eight forgotten rooms as a loss inside the memorial, not fill them with a more complete imagined building.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 9 exact replacements (5batch-short/4careful-detail); LC_ALL=C words6589→7108. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_01_HOLDOUT.md`. Equipment+0/+0;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No177/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch176 OPEN0/5 — 2026-10-22
 
 Owner p after CLOSED175 authorizes176 only. Fresh145pending queue frozen by LC_ALL=C word count and designation-byte tie break, not defect ranking. Five complete primary/exact-source/history reviews and whole final reread after actual five checks required; individual gate/push and Commentary, no forced repairs or imagined resolutions. Three cumulative No change extends5→7→10. No177/merge/artwork/deployment. Batch301 eight owner bodies/one4+4/generatevalidatebeforecopy remains blocked. Later full recheck remains available.

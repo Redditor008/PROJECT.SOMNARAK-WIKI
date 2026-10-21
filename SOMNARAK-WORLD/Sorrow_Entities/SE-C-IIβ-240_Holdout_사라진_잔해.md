@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Mixed — A stand of broken walls that should not be there: rough grey stone fused with the blackened grain of long-dead timber and, here and there, the calcium gleam of old bone set into the mortar. The walls resolve only when someone actively remembers the building that once stood; forgotten, they haze back into dust. The stone is cold, but the dead wood still seems to bleed a sap that is not sap. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement** | Fixed footprint in the Alpha Tree vault. Stones return into the old survey’s positions rather than travel out of the outline; remembered rooms resolve and fade there. Phantom doorways in adjoining corridors are recorded separately from the footprint. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** The team counts the stones present in the footprint, photographs the arrangement, and confirms against the last count. Nobody stands inside the outline while the count is being taken.
-2. **Clash:** Viderehan is a Warden standing in the vault and deliberately remembering the building until the walls resolve; Ferrehan is staying in the resolved rooms for the interval. Plate load is read throughout. Nothing is touched, because there is nothing there to touch.
+2. **Clash:** Viderehan is a Warden standing in the vault and deliberately remembering the building until the walls resolve; Ferrehan is staying in the resolved rooms for the interval. Plate load is read throughout. Do not touch or try to shift the resolved fabric. Its appearance under remembering is not permission to test the walls as ordinary masonry; the separate crane attempt failed to lift a returned stone. Keep plate readings independent of what the watcher sees.
 3. **Resolution:** The structure is memorialised — named aloud, with what it was for — and nothing is proposed for the ground. 188 cycles; the stone count has fallen by one or two after a memorial reading and has never fallen for any other reason.
 
 ### Consequences
@@ -98,9 +98,12 @@
 - An unworked quarter adds stones. The footprint held four at first survey and holds thirty-one now, each arriving overnight, each in the position the original survey gives for it.
 
 ## Appearance
+
+**Footprint, rooms and return:** The remembered tenement is not a survivor standing in the vault. Its present organisation is an outline, returning stones and walls that resolve under active remembering, with grey stone, dead black timber and old bone-flecked mortar when visible. Record a room’s order of appearance and persistence separately from load on the plates. A transient full reconstruction and collapse follows a proposed replacement; that is not the normal remembered room and is not an invitation to make a replica. The old survey locates stones; it does not prove a new wall load-bearing. Keep adjoining phantom doorways on their own plan layer, and do not treat the derived harness or blade as material salvaged from the original demolition.
+
 **Physical Form:** A stand of broken walls that are not there until somebody remembers them. **Material:** grey stone fused with dead timber, with old bone set in the mortar.
 
-**Notable Features:** It weighs something no instrument can find a body for, it has never made a sound, and near it every absent thing feels as though it went last week.
+**Notable Features:** Plate load without an independently identified mass; remembered grey walls, timber and bone-flecked mortar; and a sense that absent things were recently lost. Ordinary silence is not a guarantee during Full Return: that record attributes injuries to noise and air, not to stones remaining on a person.
 
 **Identification Profile**
 
@@ -204,6 +207,8 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Cost:** Old wounds ache, and the wielder's quarters fill with things that should have gone.
 
+**Broadsword custody:** Its local silvered arming-sword form is not established as another state of the separately linked Ruin Fang. Retain the selected-target limit and log old-wound ache, accumulating possessions and the stores clerk’s observations before return. The sealed inventory belongs to the bearer’s review, not a test of whether they will surrender their history. Do not assign the Fang’s absent-boundary cutting, wet-edge cleaning or memorial shutdown to this sword merely because the numerical profiles agree. The corroborated-map requirement remains evidence in the Fang record, not permission to carve the remembered room.
+
 ### M.A.W. Suit — The Ruin Plate
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
@@ -222,6 +227,8 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Cost:** The wearer experiences the collapse stored in the plate.
 
+**Plate care:** Absorbing structural shock postpones its price; it does not erase the collapse. Keep the harness outside the marked room and record each stored impact against corroborated collapse evidence. Release stored shock only into the external test frame, without supplying an imagined sound or missing impact. For removal the wearer lies flat outside the footprint while a partner releases the plates in reverse collapse order. A missing or disputed room is not a place to install the wearer as a replacement wall, even when the plates match surviving masonry profiles.
+
 ### M.A.W. Stigma — The Ruin Charm
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
@@ -237,6 +244,8 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 **Cost:** The bearer's temper shortens.
 
 *Five charms exist. Four went to Wardens who held the top floor in mind for a full interval; the fifth to the Warden who first noticed that the plates read higher when fewer rooms resolve.*
+
+**Charm record and care:** The local cool cornerstone and the linked warm broken-hinge description remain different same-item accounts, not a demonstrated heating or reshaping cycle. Keep the demolition-schedule test distinct from the linked effect that marks a corroborated absent boundary. Preserve agreement, conflict and absence on independent sketches; do not turn a disputed room into a confident mark. Record shortened temper at justified destruction as a cost rather than proof that a witness or engineer is lying. The linked release leaves disputed geometry unmarked, without rebuilding or completing the missing room.
 
 ### M.A.W. Use Notes
 
@@ -322,7 +331,7 @@ A room appears around you, broken but still warm. You see a wall fall, a chair l
 
 ### Interaction Pattern
 
-Three relations, all of them things the city took down, and all measured on the stone count. Two added stones. The third — Breach, which is a hole in a wall that will not close — took one away, and the vault has never been able to repeat it.
+Three separate returns are recorded below: the Vanished Tower comparison changed neither load and exchanged no rooms; Event was held at the vault threshold while a Warden remembered; the Hollow Architect doubled the plate load and briefly raised rooms that did not persist. None of those returns establishes two stone additions or a stone removed by Breach. Keep load, rooms and stone count as different readings.
 
 **Interaction method:** Plate load and room count before, during and after, taken by a Warden who is not the one doing the remembering, so that the figures are not kept by the instrument.
 
@@ -375,7 +384,7 @@ Holdout is that memory. It lives in the vault — a building made of nothing but
 **Common Name:** Holdout
 **Containment Status:** Contained — Alpha Tree vault, Zone A
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β). No event on record, though the Transform route remains open on paper. Phantom-room perception in personnel, rising vault load, and Grudge pressure sufficient to unsettle adjacent holdings.
+**Threat Assessment:** Moderate (β), with manifestation in place rather than escape. The file records Full Returns after written rebuilding proposals and a zone-wide return during a clearance announcement, so “no event” is not a safe summary. Track phantom-room perception, rising vault load and pressure on neighbouring holdings separately from whether anything leaves the footprint.
 **Containment & Handling Procedures:**
 - Keep the vault shielded and the plates calibrated. The shielding is for the neighbours, not for this holding, which has never tried to leave.
 - Viderehan and Ferrehan are the valid Work Types. Pugnahan is unavailable against a Place; the earlier entry naming it was an error and is recorded here rather than deleted.
