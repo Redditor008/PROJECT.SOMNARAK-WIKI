@@ -1,4 +1,28 @@
 # Work In Progress
+## Batch175 unit4 — Beating Relic `C-IIIγ-902`
+
+[[SE-C-IIIγ-902_Beating_Relic_고동치는_유물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-902_Beating_Relic_%EA%B3%A0%EB%8F%99%EC%B9%98%EB%8A%94_%EC%9C%A0%EB%AC%BC.md "SE-C-IIIγ-902_Beating_Relic_고동치는_유물.md")]
+
+**Original/source review and R18 predeclared scope:** Whole423-line original and exact902A–D/README read. Full Master MAW/Tale identity searches have no dedicated entry; Entity359 lists pending. City Battle Pits injustice → human fist petrifies to warm amber/crimson-veined fist-sized Object-Body → intrinsic beat before grip, crimson brightening under bare grip → human-carried not self-locomoting → handler pulse/tempo/counting/sixty-second exposure and retained case → Viderehan/Ferrehan and allocation-page acknowledgment → documentary interaction appendix and three derived pieces. R18 predeclared5short/5careful; full final read after checks.
+
+**Sources/history:** Own complete full-set review paragraph and current CHANGELOG Batch100unit5 3a437530/close/history read; fullset/exactSE902B/MAW-W-902-01 already credited. UnknownN-IVδ902RepeatedSurvivor is UNK902, not this γGrudge object. CSV967–970, archetype355 Close knuckle-fist blade and disposition314 checked. A/BγGrudge14–22,2/2,Single100%,4/25; C1/.3/1.2/.8,4/20; DHead5%+1unnamedsourcework align. No invented named stat or duplicate credit.
+
+**What changed:** Ten repairs distinguish petrified origin from present stone and human carrying from self-motion, remove mounting permission and assumed plinth return, separate tempo and pulse measurements, add a concrete state profile, and add piece-specific custody with the omitted Token injury/resentment cost.
+
+**Final whole-file assessment:** HELD: petrified form and carrying are supported and better stated, but tempo/coupling, sensory extent and activation scopes prevent a completed whole-design pass. +0 Types/+0 Weapon/+0 SE.
+
+**Holds / later recheck:**
+- Petrification is explicitly narrated; human precursor versus stone source and derived blade/cloth/coin are not automatic silhouette conflicts. Goru’s Warden/service account versus tale organiser/antiWarden account is held as recorded competing riot histories, not filled with a made-up career.
+- Essential rate/action scope: origin/tale says relic matches then exceeds handler pulse; detailed current handling says handler rises to meet independent relic tempo, while apparent pace changes and does-not-vary statements coexist. Separate counting repair does not establish a one-direction coupling model.
+- Beat audible in plinth/table/floor versus cannot be heard beyond plinth; no invented cutoff or sound radius. Four retained cases/longestnine days versus pulse settleswithinhour needs case scope, not rewriting all recovery history.
+- A Transform versus primary activation-only remains a classification/event scope, not evidence for a new mobile monster. Three ignoredconditions/60/65% and precontact attention effect versus baregrip/glovesnothing remain unscoped without new triggers.
+- Equipment identity: primary single-edge blade versus archetype finger-grooved knuckle-fist/Close, with local/A/BShort2; B uses blade too, so discrepancy is genuine same-item evidence not donor silhouette. Head is explicit, Registry Accessory generic is not an essential slot conflict.
+- Source event Notrecorded versus local detailed Goru history is provenance gap, not proof origin is missing. Do not invent named-event shutdown content. Allocationpage nine trials including blankcontrols/roughlyeachwatch/no longer than cycle claims remain scoped evidence questions; only written acknowledgment settles longer, not proof of legal remedy.
+
+**Commentary:** The stone does not need to become a person for the grievance to feel personal. The allocation page is its sharpest detail: evidence works when used to quiet Goru, yet is withheld from the people who might use it to answer him. I would keep that institutional choice stronger than the generic rage vocabulary.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 10 exact replacements (5batch-short/5careful-detail); LC_ALL=C words6569→7044. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B175_04_BEATING_RELIC.md`. Equipment+0/+0;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No176/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch175 unit3 — Panopticon `C-IIβ-235`
 
 [[SE-C-IIβ-235_Panopticon_벽_속의_감시자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-235_Panopticon_%EB%B2%BD_%EC%86%8D%EC%9D%98_%EA%B0%90%EC%8B%9C%EC%9E%90.md "SE-C-IIβ-235_Panopticon_벽_속의_감시자.md")]

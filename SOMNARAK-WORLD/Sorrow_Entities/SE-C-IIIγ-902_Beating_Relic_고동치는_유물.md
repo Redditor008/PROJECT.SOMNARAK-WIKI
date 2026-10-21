@@ -14,8 +14,8 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Body |
-| **Physical Form** | Organic — A fist-sized stone carved in the shape of a clenched hand, threaded with veins of dried Grudge Han-crystal. It beats like a heart when held — faster when held by someone who is angry. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Physical Form** | Petrified organic origin — Goru’s hand became the fist-sized stone, carved as a clenched hand and threaded with dried Grudge Han-crystal. Its present visible material is warm stone and crystal, not an exposed beating heart. The heartlike beat accelerates with an angry handler. |
+| **Movement** | Incapable of moving itself on the plinth; carried in a handler’s hand when authorised. Its beat transmits through the support and can remain in a handler after release, but neither effect is the stone walking or spreading itself. |
 | **Location** | SECTOR-C-902, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -39,7 +39,7 @@
 
 ### Operational Notes
 
-- It keeps a rhythm of its own that has never matched a pulse taken from anybody in the room, including the pulse of whoever is holding it at the time.
+- Count the relic’s own rhythm and the handler’s pulse separately. A matching rate is the withdrawal condition, not a normal reading to assume or a reason to substitute one count for the other; the handler may retain the tempo after release. The two named readings matter even when the beats sound like one.
 - A completed cycle slows the beat by a measurable margin. It has never stopped it, and the tempo returns to its own baseline within the hour.
 - Three ignored conditions escalate it, and contact is through the body register, so the first sign is physical: rate, grip, breath. Nobody has ever reported the emotional change before the physical one.
 - Any handler whose own pulse is observed to match the relic is withdrawn at once, is not returned to the rotation that shift, and is checked again at seven days. The check is not discretionary and the reason for it is in the escalation section.
@@ -98,6 +98,9 @@
 - The Relic equipment lends the bearer Goru's certainty and charges them the ability to let anything go. The cost is listed in the equipment section and is paid in full every time.
 
 ## Appearance
+
+**Stone and embodied tempo:** The earlier human fist is the formation account; the present object is fist-sized dark amber stone, carved in the clenched shape and threaded with dried crystal veins. Warmth and a beat can be detected through the plinth before grip. Bare contact brightens the veins to crimson and brings heat and cardiovascular effects into the handler. That is not an independent limb moving off its support: a person lifts and returns the stone. Keep the source tempo, the handler’s pulse and any retained-tempo case separate, including the figures at release. The derived blade, cloth veil and nonbeating coin are not successive bodies of the source hand.
+
 
 **Primary Form:** A fist-sized stone carved in the shape of a clenched hand, threaded with veins of dried Grudge Han-crystal. It beats like a heart when held — faster when held by someone who is angry.
 
@@ -160,7 +163,7 @@ Beating Relic is an Object of Fragment (III) coherence — Object-Body manifesta
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode** | **Equippable in the bare hand only; cannot be mounted, rigged, or left gripping anything.** |
 | **Activation** | Bare-handed grip; gloved contact produces nothing. |
 | **Primary Effect** | Pulse and resentment synchronised: +20% melee kinetic force and Grudge resistance, with continuous heart acceleration and transfer of the originating fury into the bearer's reasoning. |
 | **Duration** | While held bare-handed, until released onto the plinth. |
@@ -180,9 +183,9 @@ Beating Relic is an Object of Fragment (III) coherence — Object-Body manifesta
 
 ### Escalation Notes
 
-Escalation here is transfer. The relic does not leave the plinth, has never left the plinth, and cannot. What leaves is the tempo, in a handler whose pulse keeps it after release — four cases, all four resolved, the longest at nine days — and a handler walking out of the bay with the rhythm is the entire containment-event behaviour of this entity. Record the handler's rate at release, at the hour, and at the seven-day check.
+Escalation here is transfer. The relic cannot leave the plinth under its own power, but authorised handling does lift it into a bare hand. The retained-tempo event is not a travelling stone: what leaves after return is the tempo, in a handler whose pulse keeps it after release — four cases, all four resolved, the longest at nine days — and a handler walking out of the bay with the rhythm is the entire containment-event behaviour of this entity. Record the handler's rate at release, at the hour, and at the seven-day check.
 
-**Response sequence:** Confirm the relic is on the plinth, which it will be, then treat the handler: rate, breath, grip, and the content of whatever they are certain about. Clear the bay of anyone else who has handled it this month, and apply the recorded condition. No unlisted Work Type has ever been improvised here and none is available.
+**Response sequence:** Confirm by inspection that the relic has been returned to the plinth; do not assume a return from the handler’s account. Then treat the handler: rate, breath, grip, and the content of whatever they are certain about. Clear the bay of anyone else who has handled it this month, and apply the recorded condition. No unlisted Work Type has ever been improvised here and none is available.
 
 ### Detailed Activation Record
 
@@ -210,6 +213,8 @@ Escalation here is transfer. The relic does not leave the plinth, has never left
 **Ability:** Channels grudge at the body register in each strike: the edge goes for the target's grief before it goes for the target, and the wound it leaves is one a physician cannot find.
 **Cost:** Each use takes a few minutes of the wielder’s memory with it — mild, cumulative, and recorded by the Armoury against the bearer rather than the blade.
 
+**Edge custody:** The Han-iron blade is issued equipment, not authorisation to carry the source stone as a weapon. Its linked Single pattern resolves against the selected target; the relic’s room-wide discharge is not extra coverage for the Edge. Record minutes lost and any first-person claim to Goru’s event before cleaning or resting it. A named witness attends relinquishment, keeping the local Battle Pits account distinct from the source item’s unrecorded event field. Do not fill that field from the bearer’s newly acquired certainty; return preserves the record and does not restore the missing memory.
+
 ### M.A.W. Suit — Beating Relic's Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
@@ -221,6 +226,8 @@ Escalation here is transfer. The relic does not leave the plinth, has never left
 **Bearer cost:** The mantle makes every affront physical: the bearer holds each slight in their body, moves more stiffly, and feels anger arrive before thought.
 **Ability:** Grants resistance to Grudge damage, shielding the body register of sorrow — what the relic spends is spent against the body first, and the veil is cut for that order of attack.
 
+**Veil custody:** The warm cloth’s coldness on skin is the local equipment sign, not cooling of the source fist or proof that the grievance has settled. Record stiffness, bodily slight and anger preceding thought even while the Grudge rating protects the wearer. Review the wearer’s attribution before cleaning or resting the Veil, with a named witness present for relinquishment. A conviction that the affront is accurate does not cancel the cost, and no resistance rating extends bare-handed handling time or removes the separate authorisation for extraction.
+
 ### M.A.W. Stigma — Beating Relic's Token
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Grudge
@@ -231,6 +238,8 @@ Escalation here is transfer. The relic does not leave the plinth, has never left
 **Effect:** +1 stat bonus when working the source entity; the token is warm at all times and does not beat.
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
 *The Token is neither manufactured nor requisitioned. It has gone out three times, in each case to a Warden who released the relic at the protocol time while in the middle of making a point.*
+
+**Token cost and custody:** Use sharpens old injuries and old resentments; log both rather than record only the warm coin and source-work bonus. The token does not beat, so neither its warmth nor the bearer’s certainty is a substitute for the separately counted source tempo. Review attribution before cleaning or resting it. A named witness attends relinquishment without treating a first-person account of the Pits as recovered history. Continued autobiographical identification is a corrosion sign, not evidence that the bearer has become Goru, and no return refunds the cost.
 
 ### M.A.W. Use Notes
 
