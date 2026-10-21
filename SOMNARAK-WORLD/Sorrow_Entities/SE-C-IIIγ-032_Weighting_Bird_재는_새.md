@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A heavy, dark-crimson bird of true flesh and feather — plumage the red of old anger, talons overgrown, its body radiating a dry, feverish heat. It dives from above and presses its mark into the target. The air around it carries the smell of char and old smoke; it is unmistakably alive, and unmistakably furious. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Mobile — walks laboriously from its reinforced perch and stops at a clear sightline. At breach its increased mass limits flight to a few metres; no pursuit is recorded. |
 | **Location** | SECTOR-B-01, contained with the Three Birds |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -95,7 +95,7 @@
 - When resistance fails the sorrow runs straight into the worker: **Resilience** is broken down in the doing, and the gauge is fed off the same failure.
 - Time at the scale deepens the wound: the Bird's sorrow comes through the containment protocol the way water comes through plaster, and what it leaves behind is emotional, bodily and identitary breakdown that does not wash out.
 - No draw on the set is free: the somatic, psychological and mnemonic price is fixed in the equipment record and collected on every use.
-- A watch that fails to resolve fires the breach protocol: the gauge runs to its ceiling, the fail-safes give way, and the sorrow comes out through the corridors.
+- An unresolved watch does not establish an automatic gauge ceiling. In the recorded escape events the Bird walks out and waits; voluntary weighings add mass to a floor without the chamber’s load plate. Clear attendance and check the structure rather than treating it as a pursuing attacker.
 
 ## Appearance
 **Primary Form:** A heavy, dark-crimson bird of true flesh and feather, roughly eagle-sized, plumage the red of old anger and talons long overgrown. It radiates a dry feverish heat and smells of char and old smoke. In place of eyes it carries two small balance scales, each with two pans, which move continuously and are never still for more than a second at a time.
@@ -148,7 +148,7 @@ The register files the Bird as Subject-Body, expressing Grudge, at SECTOR-B-01 w
 **Reading the response:** Read the plate, not the gauge. A decrease means the watch was completed without a request being made of it. An increase means somebody asked. The file records, without comment, that the gauge has risen on this holding four hundred and ten times and that every one of those was a member of staff choosing to stand in front of it.
 ## Breach Behavior
 
-> *"Weighting Bird has broken free. Dives at personnel."*
+> *"Weighting Bird has left the chamber and stopped in the corridor. Keep the attendance line enforced and confirm the floor loading."*
 
 | Field | Detail |
 |---|---|
@@ -234,7 +234,9 @@ The delicate brass needle tilts continuously between the two pans in response to
 
 ### M.A.W. Use Notes
 
-The set is built out of comparison and nothing else, and no piece of it is ordinary equipment. The stated benefit is sharpest against Grudge. The price is in its own column and never changes: a bearer begins ranking people without meaning to and ranking them accurately, and every report says the same thing — that the ranking is correct, and that this is precisely the trouble with it.
+The set concerns comparison, not proof of moral worth. Its pieces do not share one price. The Weapon’s exact item requires the bearer to name a specific act and follows knowing responsibility, not innocence; a false account returns pain to the bearer. Each strike carries the burden and uncertainty of passing judgement, separately from the local firearm’s recoil and increasing trigger resistance.
+
+The exact Suit item describes dulled reflexes and resistance to revising a first judgement; retain those costs alongside the local coat’s accumulating weight without calling them the same effect. The Stigma’s exact item compares current sorrow loads, not moral worth, historical cause or future consequence. Its bearer feels both loads and can mistake the heavier for the more important. That is distinct from the local needle’s physical prickling. In the full-set witness resonance, another judgement must wait until someone else reviews the first record. A comparison alone does not establish fault.
 
 ### Field Use Record
 
@@ -298,7 +300,7 @@ A dark-crimson bird of flesh and feather with two working balance scales in plac
 
 | Let the judgment stand and admit the weight — the clause, kept exactly. | Reach for Pugnahan, the one approach the table records as raising the gauge on every attempt. |
 |---|---|
-| It answers the way its record says it will; the sorrow is named and the Bird is recorded whole. | It resists the wrong approach and the pressure keeps building; the reading climbs and the Bird goes unrecorded. |
+| It answers the way its record says it will; the sorrow is named and the Bird is recorded whole. | Aggression is weighed as additional culpability rather than answered by retaliation. The gauge rises under Pugnahan; record the added load and the unfinished watch without inventing an attack. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -319,7 +321,7 @@ A silence presses against your ears. The Bird turns its scale-eyes toward you, a
 
 The Bird is never met alone. Five holdings answer somewhere inside its range — The Hollow Choir, The Forgotten Soldier, The Orphaned Bell, The Observing Bird and The Guarding Bird — and each of those answers is logged as an echo of the same weighing rather than a pact or a feud. A paired watch must set down which reading shifted once the second holding stood present: the sound in the corridor, the weight of the air, the cold on the scale-pans, the pull of memory, the needle, or how firmly the binding held, each with the span it survived and the first sign of the change.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish each holding’s solo baseline before a paired watch. Record the plate reading, attendance, scale movement, distance, duration, trigger and both gauges, then any effect remaining after separation. Keep the contents of personal comparisons out of the watch log. A prior meeting does not guarantee safety after a Han-storm, Sorrow Tide, breach, Ordeal or transformation event; recheck the conditions rather than assuming a permanent alliance.
 
 
 ### Entity Interaction Record
@@ -368,9 +370,9 @@ Some sorrows are suffered. Weighting Bird's sorrow is inflicted — gently, nece
 **Common Name:** Weighting Bird
 **Containment Status:** Contained — SECTOR-B-01 with the Three Birds, Zone B; 3 escape events in 61 years, none of them involving pursuit or injury
 **Comprehension Level:** 2 — Basic. The mechanism, the consistency and the mass behaviour are characterised. What the comparison is a comparison *of*, in any sense a person could act on, is not, and the opinion below is the nearest thing the file has to an answer.
-**Threat Assessment:** Moderate. It does not attack, does not pursue, and does not weigh the unwilling. It is slower and heavier than its siblings and becomes heavier still. The grading is for the structure it stands on and for what the facility has done with its output, not for any risk to the person in front of it.
+**Threat Assessment:** Moderate. It does not attack, does not pursue, and does not weigh the unwilling. It is slower and heavier than its siblings and becomes heavier still. The grading includes structural loading and the facility’s use of the output. The absence of a recorded strike does not remove the worker’s burden, the comparison’s lasting effects or the risk from an overloaded floor.
 **Containment & Handling Procedures:**
-- Pugnahan and Ferrehan are valid Work Types.
+- Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan raises it. Pugnahan is a recorded response, not the recommended way to reduce the load.
 - The Bird is gravest near personnel in positions of authority.
 - Maintain Three Birds proximity.
 **Observation Notes:**

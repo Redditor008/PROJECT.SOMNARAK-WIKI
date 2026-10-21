@@ -2,7 +2,7 @@
   "batch": 162,
   "status": "OPEN",
   "required": 5,
-  "completed": 1,
+  "completed": 2,
   "no_change": 0,
   "queue": [
     {
@@ -101,6 +101,18 @@
   "reviews": {
     "C-IIIγ-031": {
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_01_OBSERVING_BIRD.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "C-IIIγ-032": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_02_WEIGHTING_BIRD.md",
       "no_change": false,
       "whole_final_reread": true,
       "checks": {
