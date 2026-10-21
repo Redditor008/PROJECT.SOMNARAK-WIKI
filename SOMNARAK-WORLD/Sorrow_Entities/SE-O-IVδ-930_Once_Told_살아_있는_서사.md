@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-930 [LH]` |
-| **Entity Type** | **Hazard** — Can breach via Transform |
+| **Entity Type** | **Hazard** — Speech-conditioned manifestations at a fixed sector; the recorded breach repeats the utterance log, not a bodily transformation |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -65,7 +65,7 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Critical tale-manifestation hazard; not a Sovereign classification |
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
@@ -96,6 +96,12 @@
 - Accounts given while carrying a piece are believed over the accounts of people who were there; two reports have had to be re-taken from other witnesses.
 
 ## Appearance
+
+**Ground, effects and the described figure:** The source is a stretch of Desolate ground where spoken descriptions acquire physical consequences, not a storyteller's humanoid body. The inventory contains different kinds of evidence: cuts in a living tree, cold air, flowers rooted in otherwise dead soil and a described human figure. Claw marks do not by themselves establish a complete wolf standing beside the tree. The figure answers a name, but the file explicitly does not know what he is; resemblance is not proof of resurrection.
+
+**What stays, and what moves:** Photographs locate standing manifestations where they arrived. The source remains fixed to the sector; a new manifestation is not the ground pursuing a speaker. Bark growth around old marks is different from the marks deepening or healing. The record's broad permanence claims and the day-long cold report must remain distinguishable rather than supplying an invented reset.
+
+**Silence and derived items:** Pegs, cameras and written plans are the party's apparatus, not body parts of the hazard. The blade, stitched Veil and inscribed Token are derived equipment; authoritative-sounding bearer reports are not additional physical manifestations. No spoken inspection, reading of the Token's word or description of a person is authorized by an appearance check.
 
 **Primary Form:** A phenomenon in the deep Desolate where stories told aloud begin to physically manifest — a campfire tale about a wolf produces claw marks on the nearest tree; a ghost story drops the temperature by ten degrees; a love story makes flowers bloom in dead soil.
 
@@ -140,7 +146,7 @@
 
 ### Operational Work Notes
 
-The Lament pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Hazard-Tale manifestation means the tale register is the primary channel of contact.
+Observation is the silent inventory walk and photographic comparison; endurance is keeping the whole watch without speaking. A lower gauge does not erase a claw mark or establish that a description is safe. Close the cycle against what was already present, and record the result on paper rather than describing the task aloud.
 
 ## Breach Behavior
 
@@ -149,14 +155,14 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |
-| **Movement** | The entity's tale influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Lament pressure radiates — the tale register makes it personal, targeted, unavoidable. |
+| **Movement** | The recorded breach brings the utterance log into simultaneous manifestation across the sector. It supplies no surveyed outward boundary or universal object-corruption record. |
+| **Effect** | Ordinary response follows the speaker and spoken content; silent bystanders have not been selected in those incidents. The simultaneous recurrence has its own area-effect record and is not evidence of a pursuing body. |
 | **First Target** | Whoever spoke. It has never responded to a person who stayed silent, in eleven years, including people standing beside a speaker. |
 | **Escalation** | +5 Lament drain per cycle while a manifestation is forming. It stops when the thing described has arrived; the sector does not keep escalating, it simply finishes the sentence. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** Keep the party silent, use the agreed written plan and leave without adding to the inventory. Physical suppression has no recorded success; the documented removal attempts did not clear the standing manifestations.
 - **Sorrow Gauge on breach:** 40% rising 10% a cycle. The Year 4,234 simultaneity is the only breach and it ended by itself after nine minutes.
 
 ## M.A.W. Equipment
@@ -195,6 +201,8 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 **Ability:** A fragment of the entity's tale sorrow, crystallized into wearable form.
 *Two Stigmas in eleven years, both after cycles in which a party completed four hours inside the boundary without a word spoken. The station notes it and makes nothing of it.*
 
+**Token bearer cost:** The linked Stigma records dreams in tears from the source sorrow and waking with another person's grief. Record that aftermath separately from the silent-work bonus and the credibility effect of carrying equipment. The word cut into the Token remains unread aloud; a gift is not an exception to the sector's speech rule.
+
 ### M.A.W. Use Notes
 
 The set's property is the sector's: what the wielder says becomes more true than it was. Not manifestation — nothing appears — but accounts given while carrying a piece are believed, acted on, and remembered as authoritative by everyone who hears them, including people who were present and saw otherwise. Two wielders' reports have had to be withdrawn and re-taken from other witnesses, and in both cases the other witnesses had already begun to doubt themselves.
@@ -204,7 +212,7 @@ The set's property is the sector's: what the wielder says becomes more true than
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, and the name of the person who will take the independent written account afterward. That person does not enter the sector. |
-| **During use** | Everything the wielder says about the engagement, written down by somebody else as it is said, before anybody has agreed on what happened. |
+| **During use** | Inside the sector, keep the engagement record in writing without eliciting speech. Outside it, preserve any account the wielder gives before agreement forms; the independent witness writes their own account first, rather than copying a convincing version. |
 | **At limit** | Two witnesses change their account to match the wielder's. That is the threshold, it is measured in other people, and both recorded instances were caught by a warden who had written hers down first. |
 | **After use** | Take every other witness's account separately and in writing before the wielder speaks again. The Armoury's note is that this costs an hour and has twice been the only thing standing between the record and a false one. |
 
@@ -263,7 +271,7 @@ The party files out and the inventory is walked against the last one: twenty man
 | What the inventory counts | How the pairing has run | What the shelf entered | What the check retains |
 |---|---|---|---|
 | **Sky of Borrowed Faces** `O-IIIγ-926` | Filed together on surfaces that carry an absent person. That record logs by surface and never by face; this one photographs what is there and asks nothing about who is wearing it. | One review entry; the surface count and the inventory were compared and parted from the first mark. | That the parting is the finding, kept as the review wrote it. |
-| **Once Upon** `O-IIIγ-920` | Grouped on narration inside an hour. That record moves a gauge as names are said aloud; this one would not move for anything said, the inventory being the only success condition it has. | The naming series and the inventory count were laid side by side once and agreed on nothing. | That the two are filed for the shape of the telling and not for a link, noted beside the row. |
+| **Once Upon** `O-IIIγ-920` | Grouped on narration inside an hour. That record moves a gauge as names are said aloud; speech here can raise the gauge and add to the inventory, while a successful silent cycle adds nothing to that inventory. | The naming series and the inventory count were laid side by side once and agreed on nothing. | That the two are filed for the shape of the telling and not for a link, noted beside the row. |
 | **Miasma** `C-IVδ-922` | Grouped on a grief that is not the witness's own. That record's bank weeps somebody else's tears; here the story is somebody else's too and it photographs the same either way. | Nothing was run. The appendix listed the two together for the review's eye only. | That the pairing rests on a classification line, entered on each repetition as a filing and not a finding. |
 
 **Interaction procedure:** Nothing is shelved in company with this holding. The comparison happens on paper at the annual review, with the inventory re-read first and the other record's series set beside it untouched; parting, range, cause and both readings are written into the margin.

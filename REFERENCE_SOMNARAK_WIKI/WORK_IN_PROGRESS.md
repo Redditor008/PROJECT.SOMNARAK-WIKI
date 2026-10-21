@@ -1,5 +1,30 @@
 # Work In Progress
 
+## Batch169 unit2 — Once Told `O-IVδ-930`
+
+[[SE-O-IVδ-930_Once_Told_살아_있는_서사](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-930_Once_Told_%EC%82%B4%EC%95%84_%EC%9E%88%EB%8A%94_%EC%84%9C%EC%82%AC.md "SE-O-IVδ-930_Once_Told_살아_있는_서사.md")]
+
+**Original whole review / scope:** Complete357-line original and exact930A–D read. Hazard-Tale is fixed open ground rendering speech, OutsideLament origin unknown and recognized from ambient logs; source is not products or described dead friend. Whole chain includes physical marks/cold/flowers/figure, ordinary speaker response and simultaneous recurrence, persistent inventory versus daylimited cold/tree growth, silent four-hour Work, extraction written plan, paper comparisons and gear credibility versus materialization. Predeclared R18:0batch-short/10careful-detail; header/role, concrete profile, unsupported breach pursuit/corruption and physical suppression, specific Work, speech-safe FieldUse, Token cost and misleading comparison.
+
+**Exact sources/history:** Exact930A–D SourceO-IVδ-930, registry1079–1082 partial; archetype389 RendingMarrowTalons Close versus local/Bblade Short; disposition414 and Entity359 awaiting row. Master exact searches no dedicated entry/Tale. B43unit6 full interactions/condition paragraph, B46unit8 quote and B47unit5 personalization located/read; exact-primary git baseline10cd20a only. Local/A–D numerical profiles Lament11–18 Normal2 Short2 4/25; Suit .3/1/1.2/.8 4/20; DHead5%+1 agree. Unknown event is not the surveyed227telling; primarytarget descriptive ability versus Bgrief cutting retained. No new unique equipment credit established, conservative0/0.
+
+**Changes:** Ten repairs distinguish source ground from story products and derived gear, correct Critical role/body-transform claim, replace unsupported pursuit/corruption/suppression with recorded recurrence and silence, give concrete Work notes, make FieldUse speech-safe, add Token grief-dream cost and correct the comparison claiming speech cannot move readings.
+
+**Final logical result:** HELD: grounded witness distinctions and fixed source versus products are explicit; silence now governs FieldUse without new speech exception. Persistence, speech permissions, product provenance, physical vessel and same-item behavior still prevent whole-file completion. No person-body or resurrection inferred. Complete final primary reread in document order after validation; final hash matches.
+
+**Holds / later recheck:**
+- Absolute silence/no descriptions of people versus Apex operational speech/number-recitation margin and inspection speech remain inconsistent; no silent-shutdown substitute invented for A–D spoken naming.
+- Twenty permanent manifestations/no fading versus nine-degree day-long cold and varying-period residue; fourtellings versus20products versus61cycles and repeated recurrence lack itemized provenance.
+- VesselDestructible/drop versus no source object; direct noresponse to silent bystanders versus area-damage field needs state/simulation scope.
+- SameWeapon local descriptive recall versus Bgriefcutting/archetypeTalons and source-linked new-bearer-site corrosion versus fixed source remain; gear/body silhouette difference alone is valid. Origin restrictive log privacy/refused sealing and Apex consent access have unresolved authority scopes.
+
+**Commentary:** The ordinary freezing remark is the best safety example: it makes the danger language itself, not theatrical storytelling. The described friend should stay an unanswered identity problem. A persuasive report becoming trusted is also a useful equipment cost only while it stays separate from the ground making things real.
+
+**Checks/evidence:** `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B169_02_ONCE_TOLD.md`. 10 supported replacements; LC_ALL=C wc-w5177→5544. Five actual validators PASS; raw outputs and original/final/source hashes in receipt. Written-design logical review only; no artwork, render, browser, game, preview or published-site inspection. Equipment+0/+0;SE+0. No duplicate, retroactive or artwork credits.
+
+**Progress:** OPEN2/5, No change0/2; Types255/30184.72%(46remain),Weapon255/28788.85%(32remain),SE16/3015.32%(285remain). Gate/push follows. No170/merge/deployment;301eight-owner-body one4+4/generate-before-copy and later full recheck retained.
+
+
 ## Batch169 unit1 — Moktak `N-IIβ-910`
 
 [[SE-N-IIβ-910_Moktak_조상의_전당](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-910_Moktak_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%A0%84%EB%8B%B9.md "SE-N-IIβ-910_Moktak_조상의_전당.md")]
