@@ -1,4 +1,30 @@
 # Work In Progress
+## Batch170 unit5 — Backward Hour `C-IIIγ-913`
+
+[[SE-C-IIIγ-913_Backward_Hour_카운트다운_시계](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-913_Backward_Hour_%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4_%EC%8B%9C%EA%B3%84.md "SE-C-IIIγ-913_Backward_Hour_카운트다운_시계.md")]
+
+**Original/source review and predeclared R18 scope:** Whole407-line original and complete913A–D read; designation TimeGrudge City sorrow no body, fixed district versus movable rategradient, historicmaintenance/revocationcontrols, Workbuysinteroccurrencegap not shorter event, clocks/equipment/permissions/countlog traced. Predeclared R18 0batch-short/11careful-detail: type/motion/majorrole, privatehighraterecord, concrete source/instruments/set distinction, visibleeffect versus nobodysignature, doubledbreachquote, storyduration, unguaranteed permissions in FinalObservation, exactcare/attribution and correlatedseverityTrivia. B138management correction preserved intact; no new date/body/clockexemption.
+
+**Sources/history:** B138unit3 fed21bb5d65696e6a53d285931f52b1f83c78505 alreadyexactWeapon/fullsetcredited. FullindividualB138entryand B43u7 history read: false count-as-suppression insertion then realManagementrepair, historicalearlygatefailure disclosed; not repeated. B70u5 UseNotes prose retained. ActualCSV1011–1014, W913Shorthourglass, disposition317Neutral, Entity359pendingrow; exactMasterMAW/Tale search no dedicatedentry. A/Bγ14–21,Normal2,Short2,Singleone100%,4/25 align; C1/.3/1.2/.8,4/20; DHead5%+1 align. Aformationunknown. Newreview0/0.
+
+**What changed:** Describe a non-bodily period through reversed mechanisms and a changing rate map, not a clock-creature or moving source. Correct Sovereign/Transform/fixedposition shortcuts, keep high-rate observations private and separate twelve-hour duration from internal countdown. Remove permissions-intact guarantee and false nothingcorrelates Trivia. Preserve interval-management correction and add specific itemcost/attribution care.
+
+**Final whole-file reasoning:** HELD: a period and the machinery showing it are now distinguished, and the dangerous spoken-rate instruction is corrected from the same file. Sourceunknownformation, referenceclock, state-specificGauge/cycle mapping and same-item archetype still need evidence. Temporal theme does not require human silhouette or a giant clock donor; equipment coverage was already counted.
+
+**Holds / later recheck:**
+- No physical vessel versus VesselDestructible/dust; generic A–D containment/severing not mapped to no suppression/currentoccurrencefixedtwelvehours.
+- Referenceclock exception to everytimepiece reversal is not explained; no invented outsidezone/timestamp immunity.
+- WorklowerGauge versus identical breachcurve/fullwatchornobody; rotation withinshift versus sameworkerfulltwelvehours; countdownlengthened byargument versus fixedoccurrence duration need scope.
+- 211nineyear occurrence count versus61fixednetwork; fourteenyearscheme/fifteenthwithdrawal/sixthreinstatement chronology unresolved.
+- PrimaryEdgeblade/pommel vs hourglassarchetype; localitemexpirycertainty ability versus genericBresentmentstrike; sourceunclearformation vsbinding autobiographicalhistory, Token8grantsconditional vs5% not normalized.
+- Lapses/renewablewarrants and inflictedmentalpressure versus nonviolence/noinjury may have distinct meanings; not automatically labelled a changed physical form. Permissions-intact outcome is now explicitly not guaranteed.
+
+**Commentary:** This one is strongest where the records agree that lawful withdrawal can still create grief. The fixed-point map shows that idea without a monster face. I preserved the legal argument and the facility’s outstanding warrants, while removing a claim that silence could guarantee everybody’s permissions.
+
+**Checks and integrity:** Five actual verify/tpl/sectfile/wikistd/sect PASS, full final read after checks, final hash matches. 11 exact replacements; LC_ALL=C words6078→6514. Source hashes and unchanged digit streams retained. Detailed evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B170_05_BACKWARD_HOUR.md`. Gate/push follows. Written-design review, not artwork/render/browser/game/live-site inspection. Equipment+0/+0;SE+0, no duplicate/retroactive/body/art credits.
+
+**Progress:** OPEN5/5, No change0/5. Three counters Types256/301=85.05%(45remain),Weapon256/287=89.20%(31remain),SE16/301=5.32%(285remain). No171/merge/deployment/artwork. Later full recheck and301eight-owner-body/one4+4/generate-before-copy blocker retained.
+
 ## Batch170 unit4 — Drowned Echo `O-IIβ-378`
 
 [[SE-O-IIβ-378_Drowned_Echo_침몰한_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-378_Drowned_Echo_%EC%B9%A8%EB%AA%B0%ED%95%9C_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-O-IIβ-378_Drowned_Echo_침몰한_메아리.md")]

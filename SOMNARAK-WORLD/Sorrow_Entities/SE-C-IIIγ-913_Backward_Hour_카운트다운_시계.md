@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-913 [GT]` |
-| **Entity Type** | **Time** — Can breach via Transform |
+| **Entity Type** | **Time** — A recurring district-wide period; recorded expansion raises reversal rates, not a travelling or transformed body |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Time-Grudge |
 | **Physical Form** | Non-Organic — A 12-hour period that recurs irregularly in Zone B, during which every clock in the district counts backward and the anger of every citizen intensifies proportionally to the speed of the reversal. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement** | No source position or travelling body. Fixed-point clocks measure a district-wide occurrence with a changing street-by-street rate distribution. |
 | **Location** | SECTOR-C-913, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -66,7 +66,7 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Major district-wide temporal and Grudge exposure |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** The bay arrives with the sealed reference clock, confirms the rate against it, and establishes which permissions are held by people in the room. The second part takes longer than the first and is the part that matters.
-2. **Clash:** Four turns, observation and endurance only, conducted from the fixed reading points rather than from any position relative to the entity, which has no position. Rates are called in at each turn.
+2. **Clash:** Four turns, observation and endurance only, conducted from the fixed reading points rather than from any position relative to the entity, which has no position. Rates are recorded at each turn without announcing the high-rate reading. Keep that figure private until the occurrence ends, as the count-trigger and Token record require; a need to report is not permission to speak it into the room.
 3. **Resolution:** The cycle ends on management or on the twelfth hour, whichever comes first, and it is always the twelfth hour. The documented condition is readings taken, presence deployed by rate, and the clocks reconciled afterwards.
 
 Management: No suppression is possible. Record the start, deploy presence to the highest-rate points and nowhere else, stand Wardens down at the end, and reconcile every clock in the district before the next shift.
@@ -99,6 +99,12 @@ Management: No suppression is possible. Record the start, deploy presence to the
 - The Backward Hour equipment lends the bearer the capacity to work inside a street that is turning on itself, and charges them the ability to let a thing go once it has been taken back.
 
 ## Appearance
+
+**The timepieces show the occurrence:** There is no central clock-body standing at the sector marker. The observed hands, counters and escapements are district instruments running in reverse, including sealed or unpowered examples; their changing readings make the otherwise non-bodily Time legible. Keep the sealed comparison clock, the fixed-point network and the portable Token distinct rather than treating every pictured dial as one source object. The record has not established how the reference remains useful while district clocks reverse.
+
+**A rate map is not a silhouette:** Fast and slow streets share the same period. The graded anger is an effect on citizens, not a face or visible aura of the entity. Higher rates and more streets entering the dangerous band are its recorded expansion; no walking, flying or humanoid breach form is supplied. Historic maintenance complaints explain how recognition lagged behind the phenomenon, not a dated birth or a precursor creature.
+
+**Objects separated from a period:** A blade with a clock pommel, an oil-scented Veil and a reversing Token are the portable set's local forms. A temporal donor need not have their outlines. The Edge's hourglass archetype remains a same-item question, while the Token's changing hand is an equipment indicator rather than an orbiting source body.
 
 **Primary Form:** A 12-hour period that recurs irregularly in Zone B, during which every clock in the district counts backward and the anger of every citizen intensifies proportionally to the speed of the reversal.
 
@@ -121,7 +127,7 @@ Management: No suppression is possible. Record the start, deploy presence to the
 |---|---|
 | **Form** | A 12-hour period that recurs irregularly in Zone B, during which every clock in the district counts backward and the anger of every citizen intensifies proportionally to the speed of the reversal. |
 | **Position / movement** | It has no position. The record is anchored at SECTOR-C-913; the occurrence covers Zone B entire, for twelve hours, at intervals nobody has been able to predict. |
-| **Material / signature** | Grudge. No visible or audible signature at all. What marks it is mechanical: hands, counters and escapements running in reverse at locally different speeds, and a district-wide rise in anger tracking those speeds. |
+| **Material / signature** | Grudge, with no independent visible body or audible announcement. Its effects are visible in the mechanisms: hands, counters and escapements running in reverse at locally different speeds, and a district-wide rise in anger tracking those speeds. |
 | **Distinctive markers** | Reversal at differing local rates; anger proportional to the local rate; the complete absence of effect outside Zone B; and the twelve-hour duration, which has never once varied. |
 | **Identification** | Confirm: designation C-IIIγ-913 `[GT]`, Fragment (III) coherence, Major (γ) potency, Time-Grudge manifestation, Grudge element, Zone B. Uniform reversal everywhere at one rate would be something else and has never been observed here. |
 
@@ -148,7 +154,7 @@ Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manife
 
 ## Breach Behavior
 
-> *"Backward Hour has broken free. The grudge grudge spreads."*
+> *"Backward Hour: the dangerous-rate band has reached more streets. Keep reading the fixed points; nothing is walking out of the sector."*
 
 | Field | Detail |
 |---|---|
@@ -234,6 +240,8 @@ The three pieces are not issued equipment, and the file is not being pedantic ab
 | **During use** | Reversal rate at the assigned point each hour, local incident count, anger reports, first cost paid, and the time the rate entered or left the dangerous band. |
 | **At limit** | The operator has begun litigating a revocation aloud during the occurrence — arguing the warrant, naming the clause — which lengthens the count in every recorded instance. |
 | **After use** | Stand-down at the twelfth hour, injuries, lingering effects, cooldown, clocks reconciled across the district, readings filed unsummarised against the fixed-point series. |
+**Three costs, not a repaired past:** The Edge's memory fragmentation, the Veil's bodily rigidity and the Token's sharpened old injuries are item costs; the longer argument over revocation in the set log remains another reported toll. Each individual record additionally warns against adopting the source history as one's own. Keep the formation event unrecorded rather than filling it with the bearer’s latest grievance. Before cleaning or rest, retain bearer, trigger, response, cost and unresolved detail for attribution review. The named-witness relinquishment procedure does not authorize announcing a high-rate number, and it refunds none of the cost. Its containment/severing language remains unmapped to an occurrence which the primary says cannot be shortened.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
@@ -251,7 +259,7 @@ The three pieces are not issued equipment, and the file is not being pedantic ab
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** An hour, irregular, during which every timepiece in the sector runs backward together and a permission belonging to somebody in the room reaches the end of its count.
+**Entry 1 — Containment Description** An irregularly recurring twelve-hour period in which timepieces across Zone B run backward at different local rates. Keep the fixed-point readings and the revocable-permission list together; a high-rate count is a recorded event within the occurrence, not the duration of the whole holding.
 
 **Entry 2 — Field Log** The first occurrence was logged as a fault in the sector's clock loom. The second was logged the same way. The third was recognised when a warrant lapsed at the exact moment the hands came back round, and the clerk who noticed wrote both times in the margin.
 
@@ -265,7 +273,7 @@ The three pieces are not issued equipment, and the file is not being pedantic ab
 
 | Hold the reading, say nothing, and let the count finish. | Say the number out loud so that the room knows how long is left. |
 |---|---|
-| The clocks turn round, the sector's permissions are intact, and nobody counted. | A colleague counts to zero in your hearing and loses something they were entitled to. |
+| The clocks turn round at the end of the occurrence. Record whether a count occurred and which permissions remain; keeping the reading private avoids the documented announcement trigger but is not evidence that every authorisation in the sector is guaranteed intact. | A colleague counts to zero in your hearing and loses something they were entitled to. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -398,7 +406,7 @@ The minute records the objection as **correct in all three parts**. It records t
 ## Trivia
 
 - One of the first catalogued **Time-Grudge** entities in Somnarak, and the only holding in the wing whose watch is a measuring network rather than a post.
-- It is the only entity in the register whose severity varies by street while its cause varies by nothing anybody can find.
+- Street severity tracks recorded withdrawals of permissions, while the next occurrence’s reversal-rate distribution remains unpredicted. The correlation is not a forecast or a dated formation event.
 - The Grudge here arrives with a case attached. Personnel describe standard grudge as hostility and this as being suddenly and accurately able to argue.
 
 ## Document Information
