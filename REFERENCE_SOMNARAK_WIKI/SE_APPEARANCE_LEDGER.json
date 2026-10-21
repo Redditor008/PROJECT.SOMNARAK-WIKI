@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIIγ-120": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_05_REDCAGE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_OPEN.json"
@@ -437,8 +449,32 @@
     {
       "designation": "C-IIIγ-120",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-120_Redcage_분노의_감옥.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Fourteen repairs: fixed expansion no longer implies travel after activation; removed infallible-protection/never-failed/grade guarantees. SourceI-Relic is explicitly distinguished from released echoes in UseMode, return and OperationalRule: unresolved timedwearer rows no longer authorise wearing the original cage. ThreatAssessment and Entry5 no longer equate recollection with harmlessness or disciplinaryhistory with a legalverdict. Finalfailure now withdraws worker rather than fixedframe. UseNotes separate conditionalpiecebenefits and expectedinjury logging. Weapon release requires knownrecipient/safe route/accountable authority; didnotredesignFang/Censer. A closedexit records failure rather than automatically endedpressure, and routineCharmfollowup cannot delay its actual emergencyclasp/route/partner shutdown.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_05_REDCAGE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-A__SIDE_CODEX_Redcage.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-B__MAW-W_The_Cage_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-C__MAW-S_The_Cage_Shield.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-D__MAW-G_The_Cage_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIIγ-140",
