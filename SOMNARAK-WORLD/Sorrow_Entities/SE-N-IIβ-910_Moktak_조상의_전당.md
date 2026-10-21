@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-910 [WP]` |
-| **Entity Type** | **Place** — Can breach via Transform |
+| **Entity Type** | **Place** — Recorded breach expands the seating beyond the room, not a transformed travelling body |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Spirit |
-| **Physical Form** | Organic — A ceremonial hall in Zone A where the city’s founding families once gathered. The hall is empty — except at dusk, when translucent figures appear in the seats and resume conversations that ended centuries ago. |
+| **Physical Form** | Architectural place with translucent occupants — A ceremonial hall in Zone A where the city’s founding families once gathered. The hall is empty — except at dusk, when translucent figures appear in the seats and resume conversations that ended centuries ago. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-N-910, contained |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -66,7 +66,7 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Moderate place/spirit hazard; not a Sovereign classification |
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
@@ -98,6 +98,12 @@
 
 ## Appearance
 
+**A room and its recurring occupants:** Moktak is the ceremonial hall and its seating-bound meeting, not an organic ancestor enlarged into architecture. The household dispute belongs to the history of the place. At dusk, carved chair backs remain readable through the seated translucent figures; the same room is an ordinary maintained building outside the interval. No new flesh, skeleton or travelling figure is documented.
+
+**Order rather than pursuit:** The occupants sit and rise in sequence without crossing the floor toward the door. Chest pressure at the threshold is not a visible body there, and the conversation does not carry beyond it. Expansion adds chairs into the corridor; it changes the meeting's extent rather than making the building walk. The competing counts and attendance instructions elsewhere in this file remain unresolved, not extra bodies to draw.
+
+**Derived pieces and custody:** Mallet, overrobe and seat-marker are equipment records, not detachable anatomy of an apparition. Their supported material details do not establish a new source form or permission to use them inside the occupied hall. The wooden room furnishings and its returning participants must remain distinguishable from the worker and the gear carried after the sitting.
+
 **Primary Form:** A ceremonial hall in Zone A where the city’s founding families once gathered. The hall is empty — except at dusk, when translucent figures appear in the seats and resume conversations that ended centuries ago.
 
 **Notable Features:**
@@ -118,7 +124,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A ceremonial hall in Zone A where the city’s founding families once gathered. The hall is empty — except at dusk, when translucent figures appear in the seats and resume conversations that ended centuries ago. |
-| **Position / movement** | Fixed to the building and, more narrowly, to the seating. The figures do not cross the floor, do not approach the door, and have never been recorded standing; movement within the hall is confined to the act of sitting down and the act of rising. |
+| **Position / movement** | Fixed to the building and, more narrowly, to the seating. The figures do not cross the floor, do not approach the door, and remain seated until the closing order; movement within the hall is confined to the act of sitting down and the act of rising. |
 | **Material / signature** | Translucent to the degree that the carved backs of the seats remain readable through the occupants. No sound carries past the threshold, and the weight is felt in the chest at the doorway before anything is visible from it. |
 | **Distinctive markers** | The seating. Forty-four carved chairs in nine groups, each group a household, worn unevenly — the front two groups polished smooth, the back three barely marked. The wear matches the order of precedence and is the only physical trace the dusk interval leaves. |
 | **Identification** | Count the occupied seats against the hall plan in the folder. Forty-four seats, the same positions every evening, in the founding families’ order of precedence — a match confirms Moktak and rules out the two other Zone A halls on the register. |
@@ -158,7 +164,7 @@ The weight is real and measurable and it is also, in the strict sense, none of t
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** No physical suppression is documented. Retain the district's non-entry order and count against the plan; the attendance instructions elsewhere require review before they can authorize entry during the dusk interval.
 - **Sorrow Gauge on breach:** Opens at 40% and climbs 10% each evening the hall is left unattended, not each turn — the only clock Moktak keeps is dusk, and an unattended week has been logged at 40, 50, 60, 70, 80, 90 and then flat.
 
 ## M.A.W. Equipment
@@ -185,6 +191,8 @@ The weight is real and measurable and it is also, in the strict sense, none of t
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Ability:** The wearer is read by the hall as attending rather than intruding. Seats are not added for a robed worker and the closing order skips them, which is the only known method of sitting a full interval without accruing a place in it. The robe does not reduce Weight damage taken outside the hall.
 
+**Veil bearer cost:** The linked Suit records constant low fatigue, as though the hall's burden rests on the shoulders. Record that cost separately from its local seating-status claim and asymmetric warmth. Wearing it does not itself override the file's non-entry order or establish that equipment use inside the hall has been authorized.
+
 ### M.A.W. Stigma — Moktak's Token
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
@@ -195,6 +203,8 @@ The weight is real and measurable and it is also, in the strict sense, none of t
 **Effect:** +1 Resolve while the bearer is seated and nothing at all while they are standing. The marker is the only piece in the Moktak set whose benefit can be measured on a worker outside the hall.
 **Ability:** The bearer is counted. In any room with a fixed seating arrangement they are assigned a place without asking and are never the one left standing; in a room with no arrangement the Stigma does nothing. Nine of the eleven recovered markers carry a number from the front eight groups.
 *A Token appears on a seat, not on a person. It is found after the hour, on the chair the worker occupied, and the Warden who lifts it records which household’s group the seat belongs to — the back three groups have never produced one.*
+
+**Token bearer cost:** The linked Stigma records an invisible load that grows heavier near unresolved debt. This is a bearer effect, not evidence that the source hall has moved or that a household has acknowledged the wearer. Keep that cost distinct from the marker's local seating benefit and from the still-disputed material provenance.
 
 ### M.A.W. Use Notes
 
@@ -272,7 +282,7 @@ The hall has never been worked with another holding standing in it, and the clos
 
 ## 이야기 (Narratio) — The Tale
 
-The sector-n-910, contained remembers what the city tries to forget. Moktak began there — not with a scream or a death, but with the slow accumulation of weight sorrow until the Han could no longer hold it and something new crystallized in the space between one moment and the next.
+The ceremonial hall at SECTOR-N-910 remembers what the city tries to forget. Moktak began there — not with a scream or a death, but with the slow accumulation of weight sorrow until the Han could no longer hold it and something new crystallized in the space between one moment and the next.
 
 The spirit sorrow that birthed Moktak is specific. It is not the general weight grief that saturates Somnarak — that ambient, city-wide ache that every citizen carries. This is a particular grief, a particular wound, crystallized into a place form because the spirit register was the only shape it could take. Space was the vessel; spirit was the content; weight was the pressure.
 

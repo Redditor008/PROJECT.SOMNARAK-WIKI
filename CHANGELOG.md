@@ -8,6 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch169 unit1 — Moktak `N-IIβ-910`
+
+[[SE-N-IIβ-910_Moktak_조상의_전당](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-910_Moktak_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%A0%84%EB%8B%B9.md "SE-N-IIβ-910_Moktak_조상의_전당.md")]
+
+**Original whole review / scope:** Complete343-line original/exact910A–D read. Place-Spirit is maintained architecture and dusk occupants, InnerWeight from one household seating dispute; not Organic donor anatomy. Whole chain: carvings visible through occupants, fixed floor/sequence versus corridor seating expansion, dusk Work, named-worker attacks versus unresponsive conversation, nonentry policy versus attendance, after-hour extraction/gear. Predeclared R18:0 batch-short/9 careful-detail; qualify architecture/expansion/Moderate role, sitting/rising phrasing, unsupported physical-suppression instruction, garbled Tale opener, concrete witnessed profile and two exact bearer-cost notes.
+
+**Exact sources/history:** Registry999–1002 partial; archetype363 WoodenFishTempleBlock Long versus local mallet Short and Bblade wording; disposition338 and Entity359 awaiting row read. Master exact-title/designation searches establish no dedicated entry. B42unit6 complete interactions/condition paragraph, B45unit10 quote and B47unit10 personalization histories read; exact-primary git history baseline10cd20a only. Stats primary/A–D align Weight11–17 Normal2 Short2 4/25; Suit1/1/1.2/.3 4/20; DHead5%+1 though local seatedResolve-only effect differs. Unknown Side formation event preserved. No fresh unique equipment credit established: conservative0/0, not proof of duplication.
+
+**Changes:** Nine repairs clarify architectural place/translucent participants, seating expansion and Moderate role; correct sitting/rising and garbled Tale opening; reject undocumented physical suppression without inventing entry permission; add concrete witnessed profile and exact Veil fatigue/Token load costs.
+
+**Final logical result:** HELD: supported architectural/non-body organisation, dusk/corridor extent and derived bearer effects are explicit. Entry permissions, source responsiveness, count/state relationships and same-item provenance still prevent whole-design completion. Gear is not required to share a hall or apparition silhouette. Complete final primary reread in document order after validation; final hash matches.
+
+**Holds / later recheck:**
+- Current district non-entry order versus required attendance/sitting and claimed in-hall Suit use has no permission history; no new exception invented. Named-worker/pause attacks conflict with never-admitted/unresponsive living participant record.
+- Forty-four seats versus forty-one figures/extra chair; expansion44→51→63 versus single+one, onechairperinterval versus stable count; flat30%pressure versus40%+10 readings lack field scope.
+- Mallet striker versus seatrail, Bblade/Long templeblock and brassToken versus woodenbackarm are same-item provenance/form conflicts, not donor/gear silhouette mismatch. Suit outside resistance/seating ability and Stigma seatedResolve versus sourcework bonus remain held.
+- Four-thousand intervals/first4238/expansion4231/lastcomparison4250/document4232+1778 remain unreconciled; private disputes not expanded into invented civic story.
+
+**Commentary:** The chairs worn unevenly by precedence are a strong visual record of this small, specific sorrow. Keeping the roof contract beside a thin folder makes the hall believable. I would preserve that narrowness rather than turn its unfinished meeting into a general ancestral tribunal.
+
+**Checks/evidence:** `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B169_01_MOKTAK.md`. 9 supported replacements; LC_ALL=C wc-w5175→5521. Five actual validators PASS; raw outputs and original/final/source hashes in receipt. Written-design logical review only; no artwork, render, browser, game, preview or published-site inspection. Equipment+0/+0;SE+0. No duplicate, retroactive or artwork credits.
+
+**Progress:** OPEN1/5, No change0/1; Types255/30184.72%(46remain),Weapon255/28788.85%(32remain),SE16/3015.32%(285remain). Gate/push follows. No170/merge/deployment;301eight-owner-body one4+4/generate-before-copy and later full recheck retained.
+
 ## Batch169 — OPEN0/5
 
 Owner p after CLOSED168 authorizes169 only. Minimum five, cumulative three No change5→7→10; later full recheck retained. Frozen shortest pending order: Moktak910, OnceTold930, MusicBoxOfAgony903, HatredAbove923, KindEcho000. Opening180pending; originals/hashes/five reserves in B169_OPEN.json. Complete whole original/exact-source/history/final reads, supported repairs, individual five validators/Commentary and verified pushes required. No review/credit at opening. Counters Types255/30184.72%(46remain),Weapon255/28788.85%(32remain),SE16/3015.32%(285remain). No170/merge/deployment;301owner8bodies one4+4/generate-before-copy and later recheck retained. Restoration compared all2516 remote blobs before safely aligning HEAD/index without changing files. PR14OPENdraft→NON-WIKI.

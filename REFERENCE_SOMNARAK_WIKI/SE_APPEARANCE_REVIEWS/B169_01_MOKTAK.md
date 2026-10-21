@@ -1,0 +1,130 @@
+# Batch169 evidence
+
+## Batch169 unit1 — Moktak `N-IIβ-910`
+
+[[SE-N-IIβ-910_Moktak_조상의_전당](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-910_Moktak_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%A0%84%EB%8B%B9.md "SE-N-IIβ-910_Moktak_조상의_전당.md")]
+
+**Original whole review / scope:** Complete343-line original/exact910A–D read. Place-Spirit is maintained architecture and dusk occupants, InnerWeight from one household seating dispute; not Organic donor anatomy. Whole chain: carvings visible through occupants, fixed floor/sequence versus corridor seating expansion, dusk Work, named-worker attacks versus unresponsive conversation, nonentry policy versus attendance, after-hour extraction/gear. Predeclared R18:0 batch-short/9 careful-detail; qualify architecture/expansion/Moderate role, sitting/rising phrasing, unsupported physical-suppression instruction, garbled Tale opener, concrete witnessed profile and two exact bearer-cost notes.
+
+**Exact sources/history:** Registry999–1002 partial; archetype363 WoodenFishTempleBlock Long versus local mallet Short and Bblade wording; disposition338 and Entity359 awaiting row read. Master exact-title/designation searches establish no dedicated entry. B42unit6 complete interactions/condition paragraph, B45unit10 quote and B47unit10 personalization histories read; exact-primary git history baseline10cd20a only. Stats primary/A–D align Weight11–17 Normal2 Short2 4/25; Suit1/1/1.2/.3 4/20; DHead5%+1 though local seatedResolve-only effect differs. Unknown Side formation event preserved. No fresh unique equipment credit established: conservative0/0, not proof of duplication.
+
+**Changes:** Nine repairs clarify architectural place/translucent participants, seating expansion and Moderate role; correct sitting/rising and garbled Tale opening; reject undocumented physical suppression without inventing entry permission; add concrete witnessed profile and exact Veil fatigue/Token load costs.
+
+**Final logical result:** HELD: supported architectural/non-body organisation, dusk/corridor extent and derived bearer effects are explicit. Entry permissions, source responsiveness, count/state relationships and same-item provenance still prevent whole-design completion. Gear is not required to share a hall or apparition silhouette. Complete final primary reread in document order after validation; final hash matches.
+
+**Holds / later recheck:**
+- Current district non-entry order versus required attendance/sitting and claimed in-hall Suit use has no permission history; no new exception invented. Named-worker/pause attacks conflict with never-admitted/unresponsive living participant record.
+- Forty-four seats versus forty-one figures/extra chair; expansion44→51→63 versus single+one, onechairperinterval versus stable count; flat30%pressure versus40%+10 readings lack field scope.
+- Mallet striker versus seatrail, Bblade/Long templeblock and brassToken versus woodenbackarm are same-item provenance/form conflicts, not donor/gear silhouette mismatch. Suit outside resistance/seating ability and Stigma seatedResolve versus sourcework bonus remain held.
+- Four-thousand intervals/first4238/expansion4231/lastcomparison4250/document4232+1778 remain unreconciled; private disputes not expanded into invented civic story.
+
+**Commentary:** The chairs worn unevenly by precedence are a strong visual record of this small, specific sorrow. Keeping the roof contract beside a thin folder makes the hall believable. I would preserve that narrowness rather than turn its unfinished meeting into a general ancestral tribunal.
+
+**Checks/evidence:** `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B169_01_MOKTAK.md`. 9 supported replacements; LC_ALL=C wc-w5175→5521. Five actual validators PASS; raw outputs and original/final/source hashes in receipt. Written-design logical review only; no artwork, render, browser, game, preview or published-site inspection. Equipment+0/+0;SE+0. No duplicate, retroactive or artwork credits.
+
+**Progress:** OPEN1/5, No change0/1; Types255/30184.72%(46remain),Weapon255/28788.85%(32remain),SE16/3015.32%(285remain). Gate/push follows. No170/merge/deployment;301eight-owner-body one4+4/generate-before-copy and later full recheck retained.
+
+## Fingerprints and actual checks
+
+```json
+{
+  "designation": "N-IIβ-910",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-910_Moktak_조상의_전당.md",
+  "words": 5175,
+  "sha256": "2807c7d668545c76c6fcf0980666e1fd8b7b4063b66f4686d710245b38d4940e",
+  "name": "Moktak",
+  "unit": 1,
+  "status": "held",
+  "receipt": "B169_01_MOKTAK.md",
+  "repairs": [
+    [
+      "**Place** — Can breach via Transform",
+      "**Place** — Recorded breach expands the seating beyond the room, not a transformed travelling body"
+    ],
+    [
+      "| **Physical Form** | Organic — A ceremonial hall",
+      "| **Physical Form** | Architectural place with translucent occupants — A ceremonial hall"
+    ],
+    [
+      "| **Threat Role** | Sovereign encounter |",
+      "| **Threat Role** | Moderate place/spirit hazard; not a Sovereign classification |"
+    ],
+    [
+      "and have never been recorded standing; movement within the hall is confined",
+      "and remain seated until the closing order; movement within the hall is confined"
+    ],
+    [
+      "- **Containment priority:** Physical suppression required.",
+      "- **Containment priority:** No physical suppression is documented. Retain the district's non-entry order and count against the plan; the attendance instructions elsewhere require review before they can authorize entry during the dusk interval."
+    ],
+    [
+      "The sector-n-910, contained remembers what the city tries to forget.",
+      "The ceremonial hall at SECTOR-N-910 remembers what the city tries to forget."
+    ],
+    [
+      "## Appearance\n\n",
+      "## Appearance\n\n**A room and its recurring occupants:** Moktak is the ceremonial hall and its seating-bound meeting, not an organic ancestor enlarged into architecture. The household dispute belongs to the history of the place. At dusk, carved chair backs remain readable through the seated translucent figures; the same room is an ordinary maintained building outside the interval. No new flesh, skeleton or travelling figure is documented.\n\n**Order rather than pursuit:** The occupants sit and rise in sequence without crossing the floor toward the door. Chest pressure at the threshold is not a visible body there, and the conversation does not carry beyond it. Expansion adds chairs into the corridor; it changes the meeting's extent rather than making the building walk. The competing counts and attendance instructions elsewhere in this file remain unresolved, not extra bodies to draw.\n\n**Derived pieces and custody:** Mallet, overrobe and seat-marker are equipment records, not detachable anatomy of an apparition. Their supported material details do not establish a new source form or permission to use them inside the occupied hall. The wooden room furnishings and its returning participants must remain distinguishable from the worker and the gear carried after the sitting.\n\n"
+    ],
+    [
+      "### M.A.W. Stigma — Moktak's Token",
+      "**Veil bearer cost:** The linked Suit records constant low fatigue, as though the hall's burden rests on the shoulders. Record that cost separately from its local seating-status claim and asymmetric warmth. Wearing it does not itself override the file's non-entry order or establish that equipment use inside the hall has been authorized.\n\n### M.A.W. Stigma — Moktak's Token"
+    ],
+    [
+      "### M.A.W. Use Notes",
+      "**Token bearer cost:** The linked Stigma records an invisible load that grows heavier near unresolved debt. This is a bearer effect, not evidence that the source hall has moved or that a household has acknowledged the wearer. Keep that cost distinct from the marker's local seating benefit and from the still-disputed material provenance.\n\n### M.A.W. Use Notes"
+    ]
+  ],
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/910_Moktak/SE-910-A__SIDE_CODEX_Moktak.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/910_Moktak/SE-910-B__MAW-W_Moktak_s_Edge.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/910_Moktak/SE-910-C__MAW-S_Moktak_s_Veil.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/910_Moktak/SE-910-D__MAW-G_Moktak_s_Token.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
+  ],
+  "reasoning": "Complete343-line original/exact910A–D read. Place-Spirit is maintained architecture and dusk occupants, InnerWeight from one household seating dispute; not Organic donor anatomy. Whole chain: carvings visible through occupants, fixed floor/sequence versus corridor seating expansion, dusk Work, named-worker attacks versus unresponsive conversation, nonentry policy versus attendance, after-hour extraction/gear. Predeclared R18:0 batch-short/9 careful-detail; qualify architecture/expansion/Moderate role, sitting/rising phrasing, unsupported physical-suppression instruction, garbled Tale opener, concrete witnessed profile and two exact bearer-cost notes.",
+  "history": "Registry999–1002 partial; archetype363 WoodenFishTempleBlock Long versus local mallet Short and Bblade wording; disposition338 and Entity359 awaiting row read. Master exact-title/designation searches establish no dedicated entry. B42unit6 complete interactions/condition paragraph, B45unit10 quote and B47unit10 personalization histories read; exact-primary git history baseline10cd20a only. Stats primary/A–D align Weight11–17 Normal2 Short2 4/25; Suit1/1/1.2/.3 4/20; DHead5%+1 though local seatedResolve-only effect differs. Unknown Side formation event preserved. No fresh unique equipment credit established: conservative0/0, not proof of duplication.",
+  "summary": "Nine repairs clarify architectural place/translucent participants, seating expansion and Moderate role; correct sitting/rising and garbled Tale opening; reject undocumented physical suppression without inventing entry permission; add concrete witnessed profile and exact Veil fatigue/Token load costs.",
+  "holds": [
+    "Current district non-entry order versus required attendance/sitting and claimed in-hall Suit use has no permission history; no new exception invented. Named-worker/pause attacks conflict with never-admitted/unresponsive living participant record.",
+    "Forty-four seats versus forty-one figures/extra chair; expansion44→51→63 versus single+one, onechairperinterval versus stable count; flat30%pressure versus40%+10 readings lack field scope.",
+    "Mallet striker versus seatrail, Bblade/Long templeblock and brassToken versus woodenbackarm are same-item provenance/form conflicts, not donor/gear silhouette mismatch. Suit outside resistance/seating ability and Stigma seatedResolve versus sourcework bonus remain held.",
+    "Four-thousand intervals/first4238/expansion4231/lastcomparison4250/document4232+1778 remain unreconciled; private disputes not expanded into invented civic story."
+  ],
+  "final_reasoning": "HELD: supported architectural/non-body organisation, dusk/corridor extent and derived bearer effects are explicit. Entry permissions, source responsiveness, count/state relationships and same-item provenance still prevent whole-design completion. Gear is not required to share a hall or apparition silhouette.",
+  "commentary": "The chairs worn unevenly by precedence are a strong visual record of this small, specific sorrow. Keeping the roof contract beside a thin folder makes the hall believable. I would preserve that narrowness rather than turn its unfinished meeting into a general ancestral tribunal.",
+  "final_sha": "44d844652492e78af70908d0a3923f6fbf3321645af22eef0c2b46252d952073",
+  "before_words": 5175,
+  "after_words": 5521,
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/910_Moktak/SE-910-A__SIDE_CODEX_Moktak.md": "d7fb3f80a09779c982ca4c91c580edc60fd66ba2b0b42e39a8991191abdadc52",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/910_Moktak/SE-910-B__MAW-W_Moktak_s_Edge.md": "040be02cc802fa644495afe74a66359523ef1ac5e3b32a2f13ad916874561add",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/910_Moktak/SE-910-C__MAW-S_Moktak_s_Veil.md": "e0984b6844e8c49f52af5529fe45b5a86f663f69fc610c3e199bdbc386603f5a",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/910_Moktak/SE-910-D__MAW-G_Moktak_s_Token.md": "c3415b7646874e2364d11deacabb91ee476bb03131d395425327948997cd6426",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d"
+  },
+  "checks": {
+    "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+    "tpl": "RESIDUE 0  SE-N-IIβ-910_Moktak_조상의_전당.md\n",
+    "sectfile": " 0.018  clean   109 grams  Operational Parameters\n 0.005  clean   637 grams  Combat Record\n 0.000  clean   634 grams  M.A.W. Equipment\n 0.000  clean   415 grams  Appearance\n 0.000  clean   308 grams  상호작용 (Entity Interactions)\n 0.000  clean   220 grams  기록 (Registrum)\n 0.000  clean   208 grams  Watch Record\n 0.000  clean   202 grams  이야기 보고 (Story Log)\n 0.000  clean   198 grams  이야기 (Narratio)\n 0.000  clean   166 grams  Breach Behavior\n 0.000  clean   165 grams  Origin\n 0.000  clean   156 grams  감각 묘사 (Flavor Text)\n 0.000  clean   112 grams  관찰 기록 (Observation Log)\n 0.000  clean    96 grams  증언 (Testimonium)\n 0.000  clean    61 grams  Behavior\n 0.000  clean    59 grams  최종 관찰 (Final Observation)\n 0.000  clean    48 grams  Trivia\n 0.000  clean    35 grams  SECC Classification\n 0.000  THIN     10 grams  (preamble)\n0 section(s) over 0.05\n",
+    "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+    "sect": "fraction 0.0013217023526301878\nPASS\n"
+  },
+  "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B169_01_MOKTAK.md",
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-N-IIβ-910_Moktak_조상의_전당](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-910_Moktak_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%A0%84%EB%8B%B9.md \"SE-N-IIβ-910_Moktak_조상의_전당.md\")]",
+  "table_link": "[Moktak](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-910_Moktak_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%A0%84%EB%8B%B9.md \"SE-N-IIβ-910_Moktak_조상의_전당.md\")"
+}
+```

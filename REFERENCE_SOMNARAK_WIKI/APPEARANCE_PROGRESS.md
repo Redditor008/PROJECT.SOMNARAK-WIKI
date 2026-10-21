@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest batch: Batch169 OPEN 0 / 5.** Frozen pending cohort; historical168CLOSED5/5. No new review/credit at opening; no170/merge/deployment.
+**Latest batch: Batch169 OPEN 1 / 5.** Frozen pending cohort; historical168CLOSED5/5. No new review/credit at opening; no170/merge/deployment.
 
 
 Owner direction, 2026-10-18: start a new X/X for SE appearance fixes and name the older counters by their M.A.W. scope.
@@ -1201,3 +1201,7 @@ Counters unchanged: Types 255 / 301 (84.72%; 46 / 301 remain); Weapon 255 / 287 
 ## Batch168 close
 
 CLOSED5/5; all details and Commentary in [closure](SE_APPEARANCE_REVIEWS/B168_CLOSE.md).46 repairs, five held, No change0/5. Counters255/301,255/287,16/301 unchanged. No169.
+
+### Batch169 unit1 — OPEN1/5
+
+[Moktak evidence](SE_APPEARANCE_REVIEWS/B169_01_MOKTAK.md): HELD, 9 repairs, complete original/final reads and five validators PASS. No change0/1;SE16/301. No170 authorized.
