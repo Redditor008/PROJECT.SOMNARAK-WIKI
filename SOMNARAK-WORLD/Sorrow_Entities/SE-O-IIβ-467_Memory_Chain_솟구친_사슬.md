@@ -39,7 +39,7 @@
 ### Operational Notes
 
 - A successful cycle loosens the links and gentles the voice for a while. Nothing is returned by it: the memories stay in the chain, the people they belong to are still scattered or dead, and the next cycle opens on the same roll of recollections in the same order.
-- The listed threshold of 3 is a count and it runs down — each failed or refused cycle takes one from it, and the third brings the entity to zero. It is also the only activation reading this file carries; the core stat line records no gauge figure for this holding, so there is no percentage to fall back on and the count must be tracked deliberately rather than inferred from a dial.
+- The listed threshold of 3 is a count and it runs down — each failed or refused cycle takes one from it, and the third brings the entity to zero. The core stat line separately records a gauge activation condition. Keep that reading and the failure count on the sheet; a dial is not a substitute for counting refused or failed cycles.
 - The 12–18 Han-Energy yield is ordinary for the band and the exposure is not. What this holding costs is specific and slow: workers come away holding recollections that are detailed, affectionate, and not theirs, and the condition is not visible in any post-cycle check that asks about distress.
 - M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. A piece taken from this source is a link taken out of a chain that is made of other people's shared past, and the equipment file records what each piece keeps of that.
 
@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** The team establishes which direction the voice is travelling and times one full traverse end to end before anything else; the transit time is constant and everything afterwards is measured against it. Positions are taken so that no two workers who share a history stand on the same link.
+1. **Tension:** The team establishes which direction the voice is travelling and times one full traverse end to end before anything else; the measured transit is that day’s baseline, not a guarantee that every later pass will take as long. Positions are taken so that no two workers who share a history stand on the same link.
 2. **Clash:** The team works Flerehan and Ferrehan along the chain while the voice moves, and names what it hears: which link spoke, what it said, and whose memory it is if that can be established. Gauge movement is read per traverse rather than per turn, because the traverse is the only clock this entity keeps.
 3. **Resolution:** A memory is matched to a correspondent and the name is said at the moment that link speaks. Nineteen returns have been made in eleven years, each to one of the six names in the letters, and after each one the transit has run measurably shorter for a fortnight before settling back.
 
@@ -97,7 +97,7 @@
 - An unresolved encounter does not end; it transforms, which is the breach type on the classification. The chain stops moving link to link and spreads at once, binding and dragging, and what it binds personnel with during the breach is still the thing it binds with at rest — a shared memory, held between two people, used as a rope.
 
 ## Appearance
-**Primary Form:** An invisible chain heard as a voice moving from link to link through the air. When visible, it appears as blue spirit-light.
+**Primary Form:** An ordinarily invisible chain heard as a voice moving from link to link through the air. The rare visible account describes pale wet crystal in blue spirit-light; visibility has no established trigger.
 
 **Notable Features:** It binds memories rather than bodies and waits beside people who have forgotten shared history.
 
@@ -105,8 +105,8 @@
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Spirit
-- **Primary marker:** An invisible chain heard as a voice moving from link to link through the air. When visible, it appears as blue spirit-light.
-- **Position / movement:** No posture to record and no station; log the direction of travel along the links, the transit time end to end, and the inferred length — marked as an inference every time it is written down.
+- **Primary marker:** An ordinarily invisible chain heard as a voice moving link to link; rare visible records describe pale wet crystal in blue spirit-light.
+- **Position / movement:** A fixed line in the registered Gardens area; it is the voice that travels link to link, while a breach can lengthen the line. Log direction, transit time and inferred length, always marking the last as an inference.
 - **Element signature:** Lament
 - **Registered location:** Zone D, Echo Gardens
 
@@ -114,8 +114,8 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | An invisible chain heard as a voice moving from link to link through the air. When visible, it appears as blue spirit-light. |
-| **Position / movement** | No posture to record and no station; log the direction of travel along the links, the transit time end to end, and the inferred length — marked as an inference every time it is written down. |
+| **Form** | An ordinarily invisible chain heard as a voice moving link to link; rare visible records describe pale wet crystal in blue spirit-light, with no established visibility trigger. |
+| **Position / movement** | The voice travels along a fixed line; the chain’s spatial extension is logged separately from that audible transit. Record direction, measured transit time and inferred length, marking the last as an inference. |
 | **Material / signature** | A voice travelling along a fixed line in the air, one word per link, in one direction, at a constant rate. Visible perhaps once in twenty cycles as pale wet crystal. Record the transit time to the half-second and the order of the words. |
 | **Distinctive markers** | The interval. Several things in the Echo Gardens speak without a body; this is the one whose voice moves at an even rate along one axis and never doubles back, and the evenness is audible without a clock. |
 | **Identification** | The designation is the first filter and the ear is the second, since the eye will usually have nothing to contribute. Confirm the designation, the manifestation and the recorded transit time agree before approaching. |
@@ -227,7 +227,7 @@ Cranking the handle discharges a continuous rolling stream of heavy lead slugs w
 
 ### M.A.W. Use Notes
 
-A piece taken from here is a link lifted out of a thing made of other people's shared past, and each piece keeps a share of it. Worn inside its pattern the shroud holds the memories off; worn past it, the protection inverts and the wearer begins receiving them instead — not as pressure but as recollection, detailed and ordinary, of afternoons they did not have. Two wielders have reached that point and both were able to describe a room in the Echo Gardens as it stood before the exile.
+The Shroud preserves distinct participants during shared recall; it does not screen out the memories themselves. Its wet links are removable, and each identity line is dried separately after return. The local overrun report concerns failed separation: two wielders described recollections of a room in the Gardens before the exile. That report is not evidence that ordinary wear blocks all borrowed recollection. The Link requires both participants’ consent, named owners, a duration and a return point; neither friendship nor shared grief is permission. Its brief sharing charges both people the attached grief and must not become a retained copy. The disputed Weapon source records cutting unauthorized binding without erasing shared history, with grief paid by the wielder; its source form remains held against the local gun. No piece makes another person’s past the bearer’s property.
 
 ### Field Use Record
 
@@ -238,7 +238,7 @@ A piece taken from here is a link lifted out of a thing made of other people's s
 | **At limit** | The wielder describes a place in the Gardens that is no longer there, in the present tense. Both over-runs reached this point and both were ended on it. |
 | **After use** | Open the sealed list and compare. A name the wielder did not know before is logged to the counsellor and not to the line supervisor — a wing that treated it as unreliability would simply stop being told. |
 
-**Stat interpretation:** The grade describes extraction stability and says nothing about human safety. A well-graded piece from this source can still hand its bearer a decade of somebody else's friendships, which no rating system has a column for. Read both sides of the entry and authorise on the cost.
+**Stat interpretation:** Grade describes output, not a guarantee of extraction stability or human safety. A well-graded piece from this source can still hand its bearer a decade of somebody else's friendships, which no rating system has a column for. Read both sides of the entry and authorise on the cost.
 
 **Full-set source review (2026-10-13):** Audited every local M.A.W. claim against exact Side A `SE-467-A` (`O-IIβ-467 [LS]`, `4/4`), B/C/D, Registry rows 687–690, Master M.A.W. table/details 637–639, Entity Codex row 582 / Tale 213, and `MAW-W-467`. The overview grade is now `— · β`; item D supports `+1 Clarity`, and the two-piece Registrum note now reflects all three M.A.W. pieces. Exact item C supports the blue Han-silk identity lines and removable wet links; six marks and a damp hem remain local details. Stigma appearance and effect now name the deep-blue Tail link and `+1 Clarity`; the shared-memory ability includes item D's consent condition. Hold local/table/archetype *Soaking Chain-Gun* vs linked B/Master Entry 637 *Soaking Requiem* blade: Lament 5–9 / Speed 2 / Range 2 / Single / max 4 / 25 Echoes align, but no transition maps the forms. Archetype Medium remains distinct from item Range 2 Short. Master Rings/Hand Seals taxonomy conflicts with the linked Tail; Registry Accessory / 5% is generic, while the local and exact Side Tail / 5% agree. The shroud overrun inversion remains a local claim, not normalized across sources. No linked evidence changed. First exact-pair Weapon disposition: `SE-467-B` (`MAW-W-467-01`).
 

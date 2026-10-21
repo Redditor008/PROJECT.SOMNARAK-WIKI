@@ -27,7 +27,20 @@
       "O-Iα-973",
       "C-IIIβ-275"
     ],
-    "reviewed": {},
+    "reviewed": {
+      "O-IIβ-467": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B161_01_MEMORY_CHAIN.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B161_OPEN.json"
   },
   "dossiers": [
@@ -3191,8 +3204,32 @@
     {
       "designation": "O-IIβ-467",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-467_Memory_Chain_솟구친_사슬.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Nine repairs: restored the recorded gauge condition alongside the separate failure-count instruction; treated measured transit as a baseline rather than an invariant; distinguished voice travel and line extension in both movement profiles. Three Appearance summaries now retain the pale-wet-crystal account as well as blue spirit-light without inventing a trigger. Use Notes now preserve identity rather than claim the Shroud blocks memories, and record the distinct Weapon/Link consent, cost and return duties; grade no longer certifies extraction stability.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B161_01_MEMORY_CHAIN.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-467-A__SIDE_CODEX_Memory_Chain.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-467-B__MAW-W_The_Soaking_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-467-C__MAW-S_The_Soaking_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-467-D__MAW-G_The_Soaking_Link.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IIβ-677",
