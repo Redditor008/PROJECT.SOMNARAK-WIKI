@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A tree-beast forever half-fading, trunk and branch-arms blinking in and out as it lurches on vanishing root-legs — a ghost-creature of pale wood. Fever-cold, it smells of char. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | It lurches a few metres along the old canopy line on root-legs that are not there for most of each step. It has never left the plot it grew on and the plot is not on any current map. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -70,7 +70,7 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan: Branches return while an account of the place is read aloud, and go again when the reading stops. Viderehan: Streets, plots and doorways of the settlement, visible to whoever is actively looking for them. Ferrehan: Holding the edge of the shade for a full session while the figure thins, without stepping in and without calling it back. Pugnahan: Barred. It burns along the roots and the outline is larger at the next stake, every time it has been tried. |
 | **Battlefield** | Zone E, Border region |
 | **Resolution Condition** | Something that stood there is named aloud at the edge of the shade by somebody who was told it by a person who lived there. The outline has never contracted; on four occasions it has stopped growing for a season. |
 
@@ -98,6 +98,11 @@
 - An unworked season lowers the visible seconds. The count has fallen from nineteen to four in nine years, and the station's position is that this holding is not escalating — it is going out.
 
 ## Appearance
+
+**Shade before wood:** The lasting marker is the sun-independent outline, with cold at its edge and char on the air. Pale trunk, branch-arms and root-legs are intermittently seen there; an observer’s empty view is not evidence that a colleague’s sighting was false. Keep visible seconds for each observer beside the measured shade area. The figure going faint and the ground’s outline widening are different readings, not opposite conclusions from a single gauge.
+
+**The brief return is not restored ground:** Full Return records a whole tree appearing briefly around a driven stake. That conditional appearance is not proof that the lost street or floor can now carry a person. The fading root-legged figure, the shade and an erased settlement route must remain distinct in a drawing or field description. This sorrow is about a place removed from the record; it does not require a human silhouette, an occupant hiding above the shade, or a tree physically rebuilt from the map.
+
 **Physical Form:** A tree-beast forever half-fading, trunk and branch-arms blinking in and out as it lurches on vanishing root-legs. **Movement:** It lurches unsteadily, parts of it winking out as it goes.
 
 **Notable Features:** It becomes visible to anybody actively looking for the settlement and to nobody else. It carries street layouts no surviving map holds, and it is clearest in the presence of an old sheet.
@@ -185,6 +190,8 @@ The table applies and the number the station keeps is visible seconds per pass, 
 
 **Cost:** Old wounds ache, and documents the wielder has handled go astray — not destroyed, simply never found again.
 
+**Fang target and care:** The linked Fang distinguishes an active erasing mechanism from a finished loss; the local photographed-target effect does not establish that distinction by itself. In the item record, striking empty ground to keep a revealed road present injured the bearer. Its maintenance uses decommissioned seal material and a blank contemporary map without drawing the missing roads onto it. Shutdown states what is proven and what is gone while the blade is laid outside the phantom shadow, reopening an old wound rather than refunding the cost. None of this is permission to strike the Tree or backfill a new attack pattern.
+
 ### M.A.W. Suit — Vanished Tree Plate
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
@@ -199,9 +206,11 @@ The table applies and the number the station keeps is visible seconds per pass, 
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Resistance to Grudge against the Body, and the reason a warden can stand inside the old canopy line during a Return rather than being counted among the people in it.
+**Ability:** Resistance to Grudge against the Body. The linked Shadow Stand supports a recorder’s body but does not make an erased floor load-bearing. A report of protection during Return is not an entry authorisation: the holding’s ordinary work instruction remains outside the shade, without trying to hold the Tree in place.
 
 **Cost:** Reflexes dull, and the wearer's name stops appearing on circulation lists it used to be on.
+
+**Plate return:** Keep the carrying medium distinct from a containment stake. Assemble the plates on current stone with a deliberate gap, and do not replace a vanished part without physical verification. Refusing to leave an incomplete entry is a warning, not dedication. To shut down the linked harness, close the field note and name a present landmark, opening it from the missing-plate side; never pull a wearer toward the hollow ring or brace phantom architecture to keep the record open.
 
 ### M.A.W. Stigma — Vanished Tree Pendant
 
@@ -211,7 +220,7 @@ The table applies and the number the station keeps is visible seconds per pass, 
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 Resilience while working this holding. The pendant is cut from a stake replaced at the outline and carries the date it was drawn, which is the only thing about this holding that is allowed to be a keepsake.
+**Effect:** +1 Resilience while working this holding. The local account describes a dated pendant cut from a replaced stake; the individual Pendant records unforced bestowal and says it cannot be manufactured. Keep the dated stake account attributable rather than treating it as a recipe or as proof that an award can be forced by replacing a marker.
 
 **Ability:** Reveals erased routes and settlements.
 
@@ -219,9 +228,11 @@ The table applies and the number the station keeps is visible seconds per pass, 
 
 *Nine pendants exist. Each was granted after a session in which the Warden recorded the shade as larger than the previous stake and said so, which has not always been the comfortable thing to write.*
 
+**Pendant record, not navigation:** Put a revealed course on a removable historical layer, dated with uncertainty and current obstructions, stored apart from live charts. The route once crossing a clinic was real without being a safe passage through its walls. Do not stack another Pendant to recover a clearer road. Emergency removal keeps a current-site resident naming present landmarks while the archive layer closes; the temporary inability to recognise old maps remains a cost to record. A local leaf-shaped keepsake is not permission to paint the old route onto an occupied floor.
+
 ### M.A.W. Use Notes
 
-Every piece comes off something the maps have stopped admitting, and the set extends that to its wielder's paperwork: forms go missing, names drop off lists, photographs come out wrong. Nobody is harmed and nothing can be proved. Three wielders; the Border station's file room has a drawer of what it could reconstruct, and the Armoury's note is that this is the only set whose cost is borne by an office rather than a body.
+The set materializes a witness to erased ground; it is not evidence that the fading trunk was cut up. Its local paperwork costs remain concrete: forms go missing, names drop off lists and photographs come out wrong. Those losses do not replace the Fang’s aching wounds and route-shaped bruises, the Plate’s dulled reflexes or the Pendant’s impossible-restoration grief. Three wielders are recorded, and the Border station retains what its file room could reconstruct. Keep the documentary and bodily costs together instead of calling the set harmless or assigning its entire price to an office.
 
 ### Field Use Record
 
@@ -304,7 +315,7 @@ There is no tree. There are stakes in a field, six hundred and ninety square met
 
 ### Interaction Pattern
 
-Three relations, all of them trees the border lost, and all measured on visible seconds. Two lowered the count. The Returning Tree is the only presence that has ever raised it without a reading.
+The three rows do not measure the same thing. Forgotten Tree compares outline growth, Returning Tree changes who can see the figure, and Whispering Walls returns street names with the shade area unchanged. Keep area, visibility and information in separate columns; none of those results establishes a common cause or allows a remembered street to replace a current survey. Returning Tree’s whole-party visibility is an observed condition, not a correction of colleagues who could not see it alone.
 
 **Interaction method:** Stake both outlines on the same sheet, measure both areas in the same session, and record which members of the party can see which figure. Visibility differs by person here and that difference is data.
 

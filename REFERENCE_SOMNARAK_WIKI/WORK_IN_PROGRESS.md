@@ -1,4 +1,32 @@
 # Work In Progress
+## Batch172 unit5 — Vanished Tree `C-Iα-622`
+
+[[SE-C-Iα-622_Vanished_Tree_사라진_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-622_Vanished_Tree_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%82%98%EB%AC%B4.md "SE-C-Iα-622_Vanished_Tree_사라진_나무.md")]
+
+**Original/source review and predeclared R18 scope:** Whole411-line original and exact622A–D complete, fullB100history, Master349–351table389–391/detail4723–4754, Entity483/fullTale117:6613–6664, CSV771–774/archetype258/disposition199 read. R18predeclared2batch-short/8careful-detail: own canopyline movement and completeWorkresponses replacegenericmenu/permission; new shade/conditionalreturn profile, bodily/documentarycosts, Fangcare, Plateabilityandreturn, Pendantscopeandreturn, actualinteractionreadings. Citylawfulclearance/unrecordedplace→SubjectLament/Grudge/Residue→paleepisodictree/sunlessshade→localrootlegs and movingoutline→accounts/stakes/visibility→derivedFang/Plate/Pendant traced.
+
+**Sources/history:** B100unit1 2f5bf105 alreadycompleteprimary/exactSE622B/MAW-W622-01 sourcepass; bothlogs fullbatch100historyplusprimarydatedreview read, no duplicate+Types/+Weapon. A explicitSubject/SubjectLament I/αZoneE with conditionalFullReturn and branchesblink; exact3–6/2/2Single5/15, C1/.4/1.8/1.2max5/10, DTail5%+1Resilience. No suffixborrow from622MasterScarWalker/168VestigeCenser. Primarygit10cd20a onlyclonedhistory.
+
+**What changed:** Replace generic animal-motion menu and misleading Workauthorisation with this file’s own canopy-line and barred-Pugnahan responses. Add shade/observer/brief-Return identification, separate bodily and documentary costs, constrain Plate protection to non-load-bearing ground, and add actual item-specific return care. Preserve unresolved stake-made versus bestowed Pendant provenance. Replace invented shared visible-seconds interaction summary with the rows’ actual area, visibility and information measures.
+
+**Final whole-file reasoning:** HELD: nonhuman tree/phantomshade and documented FullReturn/observer visibility are valid conditional design evidence, not automatic contradictions. Essential source-erasure history, work/marker conditions and same-item effects/provenance still lack a defensible crosswalk. Equipment+0/+0; SE+0.
+
+**Holds / later recheck:**
+- Inside/outside/onplotreading, stakeeverytime versus stakingtriggersFullReturn and successfulchoiceleavesstakebag need event/location scope; not silently remapped to safemarkerposition.
+- SubjectLamenttree/phantomshade distinction supported, but neverfoundbody claims versus specificlurch/FullReturn and neverleftplot versus wanderingoldstreets need observation-scope evidence. No pursuinghumanoid added.
+- Currentlawfulresettlement/nofalsemap/noHan-treatment versus Side/externalTaleactiveerasures/mapscrubseal/treatment. Exactdesignationjoin doesnot prove sourceaccounts compatible. ExternalTaleIVγ/DesolateLevel2 remains comparedto Iα/ZoneELevel1, untouched.
+- Readingcopiedaccountnoproduction versus annualcopiedbook/privateaccountsread; mandatorygriefreading versus consent/assignmentlimits, shadeonlygrows versus shorttermthins, Returnplanting and eventcauses unresolved.
+- Fangbody/photo versus exactactiveErasureCut, PRIMALindex versus mapmirrorHaniron; Mediumindex versus Shortformal remain. No duplicatedSinglecoverage from item-onlydata.
+- Localmakerstamp-onlyPlate versus flickeringmissingkneeharness and datedstakecutleafPendant versus blankHanironunforcedbestowal need same-itemappearance/provenance mapping; notdonorsilhouetteconformity.
+
+**Commentary:** Accurate paperwork can erase a place without anyone falsifying it. The strongest design choice is the shade that does not obey the sun while honest witnesses disagree about the tree. I would not fix that by forcing residents back onto a prohibited work party or treating their voluntary testimony as a corrected navigation map.
+
+**Checks and integrity:** Five actual verify/tpl/sectfile/wikistd/sect PASS, full final read after checks, final hash matches. 10 exact replacements; LC_ALL=C words6310→6948. Source hashes and unchanged digit streams retained. Detailed evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_05_VANISHED_TREE.md`. Gate/push follows. Written-design review, not artwork/render/browser/game/live-site inspection. Equipment+0/+0;SE+0, no duplicate/retroactive/body/art credits.
+
+**Validation disclosures:** None.
+
+**Progress:** OPEN5/5, No change0/5. Three counters Types260/301=86.38%(41remain),Weapon259/287=90.24%(28remain),SE16/301=5.32%(285remain). No173/merge/deployment/artwork. Later full recheck and301eight-owner-body/one4+4/generate-before-copy blocker retained.
+
 ## Batch172 unit4 — Fallow `O-Iα-554`
 
 [[SE-O-Iα-554_Fallow_녹슨_씨앗](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-554_Fallow_%EB%85%B9%EC%8A%A8_%EC%94%A8%EC%95%97.md "SE-O-Iα-554_Fallow_녹슨_씨앗.md")]
