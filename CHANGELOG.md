@@ -8,6 +8,29 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch175 unit2 — Tower Erased Overnight `O-IIβ-677`
+
+[[SE-O-IIβ-677_Tower_Erased_Overnight_사라진_탑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-677_Tower_Erased_Overnight_%EC%82%AC%EB%9D%BC%EC%A7%84_%ED%83%91.md "SE-O-IIβ-677_Tower_Erased_Overnight_사라진_탑.md")]
+
+**Original/source review and R18 predeclared scope:** Full original423-line primary, complete exact677A–D and README, Master640–642/detail7931–7963, Entity583, entireTale21411969–12025 read. Outside erasure/unfinished farewells → Object/Place, Place-Void, not elementalVoid → normal fixed bounded absence with dense cold air/char/shadow → memory heights separate from plans and sighted volume → felt floors/peg-triggered temporary occupied return/Tide lean → two valid Works and blank-preserving memorial → three supervised inbound record relations and three derived pieces. Predeclared3batch-short/4careful-detail before editing; final full reading after actual checks.
+
+**Sources/history:** Batch140unit5 21b8dda5 read in current CHANGELOG4684 onward; exact set/pair already credited, +0/+0. CSV807–810, archetype274, disposition360 and own A/B/C/D joins checked. A/B βGrudge5–9,2/2,Single4/25 and C1/.4/1.8/1.2,4/20 align; A/D Tail5%+1Resilience differs from local unspecified working stat. No new independent credit and no source/registry rewrite.
+
+**What changed:** Seven repairs distinguish fixed absence from expansion and brief return, clarify Stable Viderehan versus decreasing Ferrehan, remove the unsafe unconditional nil-street threat claim, and add condition-specific appearance plus separate Orrery, Plate and Floor custody.
+
+**Final whole-file assessment:** HELD: normal and temporary architecture are distinguishable, but same-site survey/activation scopes and same-item equipment identity are unresolved. Supported repairs ship; +0 Types/+0 Weapon/+0 SE.
+
+**Holds / later recheck:**
+- Normal absence versus conditional full return is evidenced, not a demand for a humanoid or proof of inconsistent silhouette. Essential unresolved record scopes remain: visibly/physically measurable lean and straight surveyed neighbours are both asserted; no invented optical/structural transition.
+- Same equipment subject: local/archetype/Mastertable bronze Spire-Orrery versus A/B/CSV/Masterdetail crimson Fang lacks timing/identity crosswalk; Medium versus Short also held. Distinct donor/derived silhouettes are not the issue.
+- Current peg-only activation count and no street incidents versus source fabricated-sentence floor crush, broken wrist, supporting stair and fabricated ending are not assigned fictional dates. New erasure trigger and60/65% conditions do not have a complete crosswalk.
+- Floor ordinary off-street warmth versus reveal ability; source +1Resilience versus unnamed working stat; local afterwatch bestowals versus source random successful work require scope. Source protection is not permission to fill panel or support phantom building.
+- All sixty-one/forty-four/seventeen and schedule-forty statements retained. Walls credited material versus claim all seventeen entries came from outside people is an unresolved provenance statement; do not overwrite list or invent speech.
+
+**Commentary:** The empty second column is the memorial, not a prompt for a better writer to finish the residents’ sentences. I like the continuing civic cost of keeping the plot empty. The miniature tower could make a strong derived weapon, but its present record cannot simply erase the Fang and its injured witnesses.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 7 exact replacements (3batch-short/4careful-detail); LC_ALL=C words6560→7023. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B175_02_TOWER_ERASED_OVERNIGHT.md`. Equipment+0/+0;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No176/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch175 unit1 — Glass Elsewhere `N-IIβ-903`
 
 [[SE-N-IIβ-903_Glass_Elsewhere_환영의_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-903_Glass_Elsewhere_%ED%99%98%EC%98%81%EC%9D%98_%EA%B1%B0%EC%9A%B8.md "SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md")]
