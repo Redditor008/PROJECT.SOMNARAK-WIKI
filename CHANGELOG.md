@@ -8,6 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch176 unit4 — Flotsam `C-IIβ-782`
+
+[[SE-C-IIβ-782_Flotsam_번져가는_유물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-782_Flotsam_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%9C%A0%EB%AC%BC.md "SE-C-IIβ-782_Flotsam_번져가는_유물.md")]
+
+**Original/source review and R18 predeclared scope:** Complete454line primary/exact782A–D/README read. Master181–183/table221–223/detail2866–2898; Entity425 and fullTale61/3451–3508 read; CSV879–882/archetype321/disposition290 checked. Subject→SubjectWeight→fourgenerationtreasuredobject withoutfunction→currentdistributedredheatoutline aroundordinaryintactobjects, not human skin/centralbody→carrier/association extent/floorload→allfour validWork butPugnahanprohibited→conditionaltransforminplace/handlingchannel→inventory/equipment/threeinteractions traced. Predeclared5short/5careful before edit; each detail composed separately for this subject.
+
+**Sources/history:** All-ref primary/exactset history only10cd20a. Exactdesignation/SE782B/MAWW782/FadingFang/name search across current CHANGELOG and current/two archivedWIP found broadprose/artworkonly, no completed exact-pair/fullsetsource disposition; no primary fullset marker or equipmentledger row. Therefore +1Types/+1Weapon, independently of SE hold. Exactformal782 is Flotsam/FadingRelic; sourceC-IIβ-782GS and linkedMaster match, not other entry782. A/B βGrudge5–9/Normal2/Short2/Single100%max4/25; C1/.4/1.8/1.2max4/20; DTail5%+1sourcework agree. ArchetypeShort agrees but straightpatinablade versuslocalcurved noformbridge. MasterLow/ZoneC/Viderehanprimary historically superseded explicitly by currentModerate/ZoneB/FlerehanFerrehan, not majoritymapped.
+
+**What changed:** Ten repairs complete classification, remove duplicated grade, explain distributed non-body organisation, flag incompatible Library interaction results, correct harmless-contact summary, and add distinct Fang/Plate/Ember custody plus honest uncertain-use recording.
+
+**Final whole-file assessment:** HELD whole written design: source-supported distributed heat/outline improved, but motion, injury and count/interaction scope remain unresolved. New independent equipment review +1 Types/+1 Weapon; SE+0.
+
+**Holds / later recheck:**
+- Subject without central humanoid/body is valid; originhouseholdobject and distributedcurrentstate do not require same silhouette. Essential motion remains fixed/nonpursuing/noindependentposition versus Speed1.45m/s without documented referent. No speed redesign or invented movingstage.
+- Heat+no materialdamage fit; handling-onlyinjury/noinjuries claim repaired to separate logs, but EverythingFades anyoneworkingstores versus entirelyonlyholders and solidstrikes/vesseldestructible versus nothingcanbestruck lack action/state scope.
+- Outline611/FullExtinguish611permanentloss versus318objects/112known+206lost and outlineaslow4/high61 have no clear sample/datedcohort relation.41stillknown versus alloutlinednobodycanexplain also unresolved. No numeric reconciliation or forced accounting.
+- Library11recoveries in intro/factionclaim versus table206negative/bothco-presences/refusedretest remain explicit; R19Neutral matches actual table, not proof that positiveaccount can be erased. Jarflat/Marketownersnotuses not negative suppression or source assistance.
+- Header nonbreachtransforminplace current versus Acanbreach not inventedescape; eventthreeconditions/60/65/open45+10 drop lacks mapped threshold authority. FourvalidSubjectWork retained, Pugnahanauthorisedstatus prohibited separate from valid effect.
+- Source no graspableflame versus heldRelic/struckRelic trigger words may mean carrier but not expressly mapped. Weapon curvedsingleedgeform versus straighthorizontalpatina/burnhole index sameitem held, not donor/equipment conflict. Primary ordinaryskillloss/commonpurposecost versus linkedphysicalcost not silently substituted. Inventory guesses outcome now preserves uncertainty, not automatic factualverification or restoreduse.
+
+**Commentary:** An heirloom can be carefully loved and still lose the only knowledge that made it useful. The heritage officer who wants to grant protection but cannot list an unexplained object gives that loss a credible institutional edge. The rememberers are the scarce resource here; turning their uncertain answers into confident labels would repeat the original forgetting.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 10 exact replacements (5batch-short/5careful-detail); LC_ALL=C words6712→7299. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_04_FLOTSAM.md`. Equipment+1/+1;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No177/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch176 unit3 — Torn Window `N-Iα-686`
 
 [[SE-N-Iα-686_Torn_Window_찢어진_창](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-686_Torn_Window_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%B0%BD.md "SE-N-Iα-686_Torn_Window_찢어진_창.md")]

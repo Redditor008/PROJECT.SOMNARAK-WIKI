@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch176 OPEN3/5.** Owner p authorizes176 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B176_OPEN.json). No177/merge/art/deployment.
+**Latest: Batch176 OPEN4/5.** Owner p authorizes176 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B176_OPEN.json). No177/merge/art/deployment.
 
 **Previous: Batch175 CLOSED5/5.** Five HELD whole designs;49 supported repairs. No new Types/Weapon/SE credits. [Full report](SE_APPEARANCE_REVIEWS/B175_CLOSE.md). No176/merge/art/deployment.
 
@@ -25,8 +25,8 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 
 | Workstream | Completed | Coverage | Remaining |
 |---|---:|---:|---:|
-| ALL M.A.W. Types Appearance per SE — source-review coverage | 265 / 301 | 88.04% | 36 / 301 |
-| ALL M.A.W.-W Appearance per SE — source-review coverage | 264 / 287 | 91.99% | 23 / 287 |
+| ALL M.A.W. Types Appearance per SE — source-review coverage | 266 / 301 | 88.37% | 35 / 301 |
+| ALL M.A.W.-W Appearance per SE — source-review coverage | 265 / 287 | 92.33% | 22 / 287 |
 | SE Appearance Fix — independent written-design pass | 18 / 301 | 5.98% | 283 / 301 |
 
 These are coverage counters, **not promises that every held discrepancy is repaired**. The first two retain their historical criteria and explicit source holds. The new counter starts at zero; old equipment reviews, general prose fixes, shape screening and the R-32 clarification are not backfilled as SE appearance completions.
@@ -1465,3 +1465,7 @@ Selection was fresh pending-only shortest LC_ALL=C word count with designation-b
 ### Batch176 unit3 — OPEN3/5
 
 [Torn Window evidence](SE_APPEARANCE_REVIEWS/B176_03_TORN_WINDOW.md): HELD, 10supported repairs, full final reading and five actual checks. No change0/3.
+
+### Batch176 unit4 — OPEN4/5
+
+[Flotsam evidence](SE_APPEARANCE_REVIEWS/B176_04_FLOTSAM.md): HELD, 10supported repairs, full final reading and five actual checks. No change0/4.

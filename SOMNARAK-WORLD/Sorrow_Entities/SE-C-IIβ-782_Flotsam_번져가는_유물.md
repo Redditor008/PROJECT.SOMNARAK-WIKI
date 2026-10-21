@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-782 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; everything stored in the affected volume becomes heavy and anonymous. workers can lift the objects and cannot say what a |
+| **Entity Type** | **Subject** — Non-breaching transformation in place: everything stored in the affected volume becomes heavy and anonymous. Workers can lift the objects and cannot say what any of them are for; the condition does not pursue personnel. |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Weight |
 | **Physical Form** | Non-Organic — Less a body than a burning pressure, shaped like a relic carried just beneath the skin — visible only as a red outline flaring around objects fading from memory. Nothing solid to grasp; only heat and glow. Fever-hot, it smells of char and old smoke. |
-| **Movement** | Stationary — a place or zone; spreads rather than moves. |
+| **Movement** | Distributed across outlined objects, with no position of its own. It spreads through associated stored items and does not pursue workers; carrying an outlined object away does not remove its outline or establish an independent travelling body. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 12–18 per cycle, worked across the stored material of Old Lament rather than at a point. A cycle is one full inventory pass of the outlined objects, which at 611 items takes most of a shift. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | β (Moderate) · β (Moderate) — the Fading Fang, Plate and Ember are all graded to the holding. |
+| **Tool / M.A.W. grade** | β (Moderate) — the Fading Fang, Plate and Ember are each graded to the holding; this is the equipment grade, not a second rating or an assigned Relic use class. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
 | **Recommended response** | Name the use of the outlined object aloud, from the inventory, before any Work. Flerehan and Ferrehan lower the gauge; Pugnahan spreads the heat. This is a Subject and all four Work Types are valid. |
@@ -123,6 +123,8 @@
 
 **Appearance protocol:** Survey the objects, not the entity. List every item currently outlined, every item that has lost the outline since the last survey, and — the field that matters — every item whose use could still be stated by somebody in the room, with their name against it.
 
+**Outline rather than vessel:** The treasured household object in the Tale supplies the sorrow’s origin, not an identified central body hidden among the racks. Presently the visible organisation is a red edge around multiple ordinary objects, with heat and the smell of old char but no scorched material or independent graspable mass. “Beneath the skin” describes the pressure’s apparent closeness, not documented human anatomy. Observe the outline directly and photograph the inventory and carrier objects separately; a photograph of an unmarked tool cannot disprove the edge a witness reports. Track floor load independently of outline count, and do not infer a travelling flame creature from an associated item becoming affected.
+
 ## Origin
 - **Formation:** The Relic formed from a treasured object becoming meaningless over time.
 - **The Sorrow:** The grief of being used, loved, and then forgotten.
@@ -190,6 +192,8 @@ Flotsam is an Echo (II) Subject with Subject-Weight manifestation and Grudge exp
 
 **Cost:** Old wounds ache, and the wielder forgets what their own equipment is for — briefly, and then not briefly.
 
+**Fang custody:** Keep direct and Tick applications separate within the selected-target coverage; the source’s spread through shelves is not extra targets for the blade. Before rest or cleaning, attribute the household’s lost purpose and record old-wound ache, faint bruising from the linked item, and any use the bearer can no longer state. Correct operation is not proof that the equipment-cost has stopped: the over-runs kept using their pieces after losing that explanation. If the bearer adopts the household history as their own, a named witness states source and event while receiving the Fang. Its local curved form and the index’s straight patina-banded form remain unreconciled; no reshaping is documented.
+
 ### M.A.W. Suit — The Fading Plate
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
@@ -208,6 +212,8 @@ Flotsam is an Echo (II) Subject with Subject-Weight manifestation and Grudge exp
 
 **Cost:** Reflexes dull, and the wearer stops labelling things — their own kit, their own files — because it stops seeming necessary.
 
+**Plate care:** The unmatched stores tag identifies this harness; do not supply a plausible missing inventory number to make the record appear complete. Seal the wearer’s own explanations of their kit before deployment, and have the partner track omitted labels as well as dulling reflexes. Grudge resistance can help a pass continue without recovering knowledge already lost. Review source attribution before resting the Plate, and use the named-witness relinquishment if the lost household is becoming the wearer’s own account. Keep the off-site use-description intact; storing its only copy in the affected volume would place the countermeasure among what the holding consumes.
+
 ### M.A.W. Stigma — The Fading Ember
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
@@ -223,6 +229,8 @@ Flotsam is an Echo (II) Subject with Subject-Weight manifestation and Grudge exp
 **Cost:** The wearer feels the object's entire chain of owners.
 
 *Two in nine years, in both cases to a Warden who correctly named the use of an object nobody else in the room could place — once a surveyor's level, once a child's shoe last. Both names were checked against the makers' records and both were right.*
+
+**Ember limit:** Preserve the history of the selected object, not the entire store by implication. Record its stated use separately from its chain of owners: the Market Stall supplied names without retracting an outline, so provenance alone is not a recovered function. Warmth near a known use helps identify this charm, but is not an independent maker’s record. Log the chain felt by the bearer without granting ownership of it, and retain unresolved links in the custody record. A witness receives the piece if the history becomes autobiographical; ending resonance does not refund the knowledge-cost or restore an undocumented use.
 
 ### M.A.W. Use Notes
 
@@ -288,6 +296,8 @@ The store's oldest keeper retired in Year 4,234 after fifty-one years. The week 
 | The outline brightens and reveals former owners. The sorrow is named; Flotsam is fully recorded. | Heat spreads across nearby objects. The gauge climbs and Flotsam withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
+**Inventory caution:** The successful choice values a person’s offered recollection over an empty field; it does not turn a guess into verified function. Preserve the speaker’s name, their actual words and their uncertainty, then keep any makers’ record or observed outline response alongside it. The known-use description and the later measurement-only description have different demonstrated results. Do not convert dimensions into an invented purpose, or list a useful-sounding explanation as a recovered use simply to satisfy the heritage scheme. The object can remain loved, present and unidentified without the record manufacturing the understanding it has lost.
+
 ## 감각 묘사 (Flavor Text)
 
 An old object glows red beneath a layer of dust. You touch it and feel every hand that once held it. The history burns away in order: face, name, purpose. You can save the object by remembering it, but memory is not ownership. The Relic knows the difference.
@@ -304,7 +314,7 @@ An old object glows red beneath a layer of dust. You touch it and feel every han
 
 ### Interaction Pattern
 
-This holding is read against the other things in the wing that take hold of objects, and all three relations are measured the same way: the count of outlined items that still have a stated use. Two lowered it. The Burning Library — the pairing everybody asks about — raised it by eleven in one afternoon and has not been repeated.
+Compare named uses separately from outlined objects. The table records flat Jar co-presences, owners supplied without outline retraction by the Market Stall, and Library trials recovering no uses. The separate claim of eleven checked Library recoveries is not reconciled with those negative trials here; do not present either as a demonstrated net countermeasure or combine them into an invented successful session.
 
 **Interaction method:** Baseline each party alone across several sessions, photograph the outline list immediately before and after, and count named uses rather than objects. The photographs matter: the outline does not appear on them, so the list is the only record of what was outlined on the day.
 
@@ -355,7 +365,7 @@ Some sorrows are about being forgotten. Flotsam is about being remembered wrong 
 **Common Name:** Flotsam
 **Containment Status:** Contained — Old Lament, Zone B. The Zone C entry in earlier revisions is an error and is corrected here.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β). It damages nothing material and takes the use of everything it reaches, permanently and in a fixed order: other people's tools first, then the holder's own. 611 items outlined, 41 with a use still stated, no injuries and no fatalities in nine years.
+**Threat Assessment:** Moderate (β). Intact material is not evidence of harmless contact: the action record assigns Grudge pressure to handling and loss of use. 611 items are listed as outlined, 41 with a use still stated; the file reports no fatalities in nine years. Keep recorded personnel injury separate from equipment-induced loss of skill and from an object’s permanent loss of a known purpose.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan are the authorised approaches; Viderehan is permitted and shows the loss happening without slowing it; Pugnahan is prohibited. The earlier entry naming Viderehan as primary is an error and is corrected here.
 - The fading is slow, irreversible, and reversible only in the narrow sense that a use still known to somebody can be said aloud and the outline will retract.
