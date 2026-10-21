@@ -1,4 +1,27 @@
 # Work In Progress
+## Batch177 unit1 — Banyan `N-IVδ-606`
+
+[[SE-N-IVδ-606_Banyan_가라앉은_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-606_Banyan_%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80_%EB%82%98%EB%AC%B4.md "SE-N-IVδ-606_Banyan_가라앉은_나무.md")]
+
+**Original/source review and R18 predeclared scope:** Complete458-line original, exact606A–D/README, Master544–546/table584–586/detail6875–6906, fullTale182/10163–10220, Entity550, CSV755–758/archetype247/disposition395/B140unit2 read. Trace Subject/exceptional VF-only→PlaceGrudge/Lament→buriedprivatepapers→waterloggedtreebeast beneathcrystal/reflectedbranch-arms/weepingface→subfloor spread/depth versus stationaryspeed→readings/Work/publicpermissions→descent/flood/breach/cutting→observations/interactions/allgear. R18 predeclared4short/2careful; each detail individually authored. Full final reading after actual five checks required.
+
+**Sources/history:** Prior completed equipment review B140unit2 b7ef951 already counted; no duplicate Types/Weapon. Exact606 SunkenTree/Banyan joined by N-IVδ-606LP; not Masterentry606 BrokenRuin. A/B δLament10–15/3Fast/3Medium/Skewer100/70/50max2/50 agree; C.4/1/1.6/.8max2/45; DTail4%+3Clarity versus genericCSVAccessory5% retained. Sources unchanged. MasterindexHarpoon and detailRequiem are unresolved sameitem, not proof of donor transformation.
+
+**What changed:** Six repairs restore meaningful granted-piece overview, align activation manifestation with SECC/Tale, correct the monotone-depth summary, carry resident/withdrawal limits into quick handling, and add concrete subfloor and linked-equipment limits.
+
+**Final whole-file assessment:** HELD: six source-supported improvements, but emergence/cutting/visibility and disclosure permissions still lack a coherent supported scope. +0 Types/+0 Weapon/+0 SE.
+
+**Holds / later recheck:**
+- Subject/PlaceGrudge explicit retained by exactA/README although operationalObjectPlaceVFonly and TriviaObjectPlace; not blindly recategorized. Tree-beast is valid nonhuman sorrow, but no-surfacing/directonlyfloor versus limbssurface/Apexrootentanglement and their visibility lack supported same-state scope.
+- No-rootcut/two proposals/nobodyproposed versus stagedcutting/extraction injuries, safeabovecrystal versus FullDescent/floodallMarket, stationaryspeed versus subfloorcreature and alwaysdownward versus netrise remain essential action/spatial conflicts. Do not invent a separate emergency form.
+- PublicoccupiedMarket reading/residentlimits versus exactAprivatequietroom/removeaudience/ownerconsent resonance; anonymousmanifest versus stableextractionnamedowner; no livingnames and withdrawal are retained but no guessed consent exemption.
+- Physicalpapersunrecoverablebelowfloor versus actualreadings,1106/1104/burialmanifest1100,188increments4–11cm versus net.5m and estimatesversusfixedmeasurements not reconciled by guessed samples. Privacy/discretion difference explicitconflict in additiveinterpretation and Work notes.
+- Sameitem HarpoonGun/steelrope versus reflectedHancrystalRequiem; sourceRootcurlcrystal/reflection versus suspendedcharm; primaryShroudpale/damp versus coolbluebranchseam not automaticallyconflict but detailedsourceauthority distinct. R19othercontainmentnotreached versus Maskcontact is not itself suppression benefit. Neutral retained with evidence hold, no artwork credit.
+
+**Commentary:** The buried papers make the Market’s polished surface feel earned. A reading can be effective without being rightful, which makes the resident’s control over disclosure essential. The private-disclosure record deserves preservation as a real disagreement, not an excuse to publish every confession.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 6 exact replacements (4batch-short/2careful-detail); LC_ALL=C words6816→7100. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_01_BANYAN.md`. Equipment+0/+0;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No178/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch177 OPEN0/5 — 2026-10-22
 
 Owner p after CLOSED176 authorizes177 only. Fresh pending-only shortest LC_ALL=C word count, designation-byte ties;140pending. Frozen queue: N-IVδ-606 (6816 words), C-IIβ-250 (6831 words), O-Iα-643 (6844 words), C-IVδ-915 (6845 words), C-IIIγ-115 (6875 words).

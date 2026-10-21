@@ -2,7 +2,109 @@
   "batch": 177,
   "status": "OPEN",
   "required": 5,
-  "completed": 0,
+  "completed": 1,
   "no_change": 0,
-  "units": []
+  "units": [
+    {
+      "designation": "N-IVδ-606",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-606_Banyan_가라앉은_나무.md",
+      "words": 6816,
+      "sha256": "5afd18a5030b6842436b8bd1d3b557b4d2af90a08e3a458e147fccdfacc8d5f9",
+      "name": "Banyan",
+      "unit": 1,
+      "status": "held",
+      "receipt": "B177_01_BANYAN.md",
+      "type_credit": 0,
+      "weapon_credit": 0,
+      "reasoning": "Complete458-line original, exact606A–D/README, Master544–546/table584–586/detail6875–6906, fullTale182/10163–10220, Entity550, CSV755–758/archetype247/disposition395/B140unit2 read. Trace Subject/exceptional VF-only→PlaceGrudge/Lament→buriedprivatepapers→waterloggedtreebeast beneathcrystal/reflectedbranch-arms/weepingface→subfloor spread/depth versus stationaryspeed→readings/Work/publicpermissions→descent/flood/breach/cutting→observations/interactions/allgear. R18 predeclared4short/2careful; each detail individually authored. Full final reading after actual five checks required.",
+      "history": "Prior completed equipment review B140unit2 b7ef951 already counted; no duplicate Types/Weapon. Exact606 SunkenTree/Banyan joined by N-IVδ-606LP; not Masterentry606 BrokenRuin. A/B δLament10–15/3Fast/3Medium/Skewer100/70/50max2/50 agree; C.4/1/1.6/.8max2/45; DTail4%+3Clarity versus genericCSVAccessory5% retained. Sources unchanged. MasterindexHarpoon and detailRequiem are unresolved sameitem, not proof of donor transformation.",
+      "summary": "Six repairs restore meaningful granted-piece overview, align activation manifestation with SECC/Tale, correct the monotone-depth summary, carry resident/withdrawal limits into quick handling, and add concrete subfloor and linked-equipment limits.",
+      "holds": [
+        "Subject/PlaceGrudge explicit retained by exactA/README although operationalObjectPlaceVFonly and TriviaObjectPlace; not blindly recategorized. Tree-beast is valid nonhuman sorrow, but no-surfacing/directonlyfloor versus limbssurface/Apexrootentanglement and their visibility lack supported same-state scope.",
+        "No-rootcut/two proposals/nobodyproposed versus stagedcutting/extraction injuries, safeabovecrystal versus FullDescent/floodallMarket, stationaryspeed versus subfloorcreature and alwaysdownward versus netrise remain essential action/spatial conflicts. Do not invent a separate emergency form.",
+        "PublicoccupiedMarket reading/residentlimits versus exactAprivatequietroom/removeaudience/ownerconsent resonance; anonymousmanifest versus stableextractionnamedowner; no livingnames and withdrawal are retained but no guessed consent exemption.",
+        "Physicalpapersunrecoverablebelowfloor versus actualreadings,1106/1104/burialmanifest1100,188increments4–11cm versus net.5m and estimatesversusfixedmeasurements not reconciled by guessed samples. Privacy/discretion difference explicitconflict in additiveinterpretation and Work notes.",
+        "Sameitem HarpoonGun/steelrope versus reflectedHancrystalRequiem; sourceRootcurlcrystal/reflection versus suspendedcharm; primaryShroudpale/damp versus coolbluebranchseam not automaticallyconflict but detailedsourceauthority distinct. R19othercontainmentnotreached versus Maskcontact is not itself suppression benefit. Neutral retained with evidence hold, no artwork credit."
+      ],
+      "result": "HELD: six source-supported improvements, but emergence/cutting/visibility and disclosure permissions still lack a coherent supported scope. +0 Types/+0 Weapon/+0 SE.",
+      "commentary": "The buried papers make the Market’s polished surface feel earned. A reading can be effective without being rightful, which makes the resident’s control over disclosure essential. The private-disclosure record deserves preservation as a real disagreement, not an excuse to publish every confession.",
+      "repairs": [
+        [
+          "| **Tool / M.A.W. grade** | — · δ |",
+          "| **Tool / M.A.W. grade** | Granted pieces · δ — Sunken Harpoon-Gun, Sunken Shroud and Sunken Root, each graded Critical. |"
+        ],
+        [
+          "| **Manifestation** | Place-Lament|",
+          "| **Manifestation** | Place-Grudge, expressing Lament as in the SECC classification and Tale. |"
+        ],
+        [
+          "Both figures only grow.",
+          "Keep spread separate from depth: the readings record the mass rising after public readings as well as sinking in unworked quarters. Neither a wider footprint nor a lower gauge alone establishes the depth direction."
+        ],
+        [
+          "Stand on the crystal, read one entry from the buried record aloud, in trading hours, with people present. Viderehan and Ferrehan only. The roots are not disturbed and nothing is dug.",
+          "Follow the Director’s limits before a public reading: a Market resident reads, never facility staff; exclude documents naming a living person and honour family withdrawal. Viderehan and Ferrehan only, with traders present in trading hours. Do not identify anonymous authors, disturb the roots or dig beneath the crystal."
+        ],
+        [
+          "## Origin\n",
+          "**Subfloor organisation:** Identify the waterlogged tree-beast by branch-arms and the weeping face against the crystal, not by a trader or mask above it. Its apparent space includes the underside of the Market and the reflected tree across the aisle; that image is not a second rooted body. Keep each visible face or branch position beside the depth series and floor-load estimate. The file disagrees about limbs crossing the floor and about direct versus reflected visibility, so neither an empty direct view nor a photographed reflection authorises opening a panel. Public readings can raise the recorded mass without establishing that it can safely emerge into the stalls.\n\n## Origin\n"
+        ],
+        [
+          "### M.A.W. Use Notes\n",
+          "**Linked-set limits:** The Sunken Requiem’s reflected Han-crystal blade is not a demonstrated state of the pneumatic Harpoon-Gun. Its consent-dependent second pierce, reflected-edge maintenance and owner-led shutdown belong to that linked blade record, not a newly proven mechanism of the gun. The Shroud’s chosen witnesses and Root’s reflected patterns likewise do not authorise public diagnosis: the Root shows pressure and relationship, not the content of a grief. Its linked bonus is Clarity during Banyan work. Record tears, dulled pleasures and failed false expressions separately from the local set-wide withdrawal from personal disclosure. The source’s private-room resonance remains distinct from the public-reading condition; do not combine them into a compelled confession.\n\n### M.A.W. Use Notes\n"
+        ]
+      ],
+      "split": [
+        4,
+        2
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-606-A__SIDE_CODEX_Banyan.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-606-B__MAW-W_The_Sunken_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-606-C__MAW-S_The_Sunken_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-606-D__MAW-G_The_Sunken_Root.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/README.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-606-A__SIDE_CODEX_Banyan.md": "06da38be43f02acf682dd83ccdb0bd135c05e30f030bfe373d55dcb3fdd1fa34",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-606-B__MAW-W_The_Sunken_Requiem.md": "c10e955091661962bd8e58d40a2bc759ab5b33d995d71f79e6686f177152930b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-606-C__MAW-S_The_Sunken_Shroud.md": "b8834aa2f9dff9e7f27c5723cdb3ee4b3573bfee3e5d2351df0aa723231cf29d",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-606-D__MAW-G_The_Sunken_Root.md": "560fe7e24403cdd61118bb0714d1b1cf605bb83079c006cf2d9cbef88ccf00fe",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/README.md": "206283b51a719b0a6a2a2f37a9b96c7c194a7c8215146a46c72326000dc11c37",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d"
+      },
+      "final_sha": "09c81383ec389bbaecec8cd4b17ed733bdb1ee3f93f04f98f74c29db116cda20",
+      "before_words": 6816,
+      "after_words": 7100,
+      "outputs": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+        "tpl": "RESIDUE 0  SE-N-IVδ-606_Banyan_가라앉은_나무.md",
+        "sectfile": "0.018  clean   166 grams  Breach Behavior\n 0.014  clean   420 grams  Appearance\n 0.013  clean   553 grams  M.A.W. Equipment\n 0.004  clean   461 grams  감각 묘사 (Flavor Text)\n 0.004  clean   475 grams  Combat Record\n 0.000  clean   705 grams  Apex Record\n 0.000  clean   409 grams  이야기 보고 (Story Log)\n 0.000  clean   373 grams  이야기 (Narratio)\n 0.000  clean   284 grams  기록 (Registrum)\n 0.000  clean   204 grams  관찰 기록 (Observation Log)\n 0.000  clean   160 grams  Operational Parameters\n 0.000  clean   156 grams  Expansion Behavior\n 0.000  clean   154 grams  Origin\n 0.000  clean   118 grams  Trivia\n 0.000  clean   102 grams  Behavior\n 0.000  clean    55 grams  최종 관찰 (Final Observation)\n 0.000  clean    54 grams  증언 (Testimonium)\n 0.000  clean    33 grams  SECC Classification\n 0.000  clean    28 grams  (preamble)\n0 section(s) over 0.05",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+        "sect": "85   2  | { *The Drowned Grove* [**Ultimate**] } | \"Water comes up through the crystal across the whole Market and it is not water.\" | [Th\n  122   6  | **Identification** | Verify these observations against the SECC code before work or contact begins; this district holds more tha\n  198   3  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each document removed from public display anywhere in the district wh\n  219   1  **Target Coverage:** A line of up to three — in practice a row of people standing over the same stretch of root, which on this flo\n  241   5  **Ability:** Turns Lament aside from the mind, which is the only pressure here. What it buys is a full session on the crystal with\n  243   1  **Cost:** The wearer goes numb to small pleasures and finds the Market's noise — which is mostly cheerful — hard to be in. Two of \n  354   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.004  (20 shared shingles)  SE-N-IVδ-606_Banyan_가라앉은_나무.md"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_01_BANYAN.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IVδ-606_Banyan_가라앉은_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-606_Banyan_%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80_%EB%82%98%EB%AC%B4.md \"SE-N-IVδ-606_Banyan_가라앉은_나무.md\")]",
+      "table_link": "[Banyan](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-606_Banyan_%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80_%EB%82%98%EB%AC%B4.md \"SE-N-IVδ-606_Banyan_가라앉은_나무.md\")"
+    }
+  ]
 }

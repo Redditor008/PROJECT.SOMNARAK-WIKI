@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 20–28 per cycle, drawn through the Market floor with the traders working above it. The district takes a share, which is written into the Market's charter and is the only arrangement of its kind in the registry. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · δ |
+| **Tool / M.A.W. grade** | Granted pieces · δ — Sunken Harpoon-Gun, Sunken Shroud and Sunken Root, each graded Critical. |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Stand on the crystal, read one entry from the buried record aloud, in trading hours, with people present. Viderehan and Ferrehan only. The roots are not disturbed and nothing is dug. |
+| **Recommended response** | Follow the Director’s limits before a public reading: a Market resident reads, never facility staff; exclude documents naming a living person and honour family withdrawal. Viderehan and Ferrehan only, with traders present in trading hours. Do not identify anonymous authors, disturb the roots or dig beneath the crystal. |
 
 ### Operational Notes
 
@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Place-Grudge
 - **Primary marker:** A tree submerged beneath the floor of the Mask Market, visible through translucent crystal and reflections. Its branches rise into rooms that do not contain it.
-- **Position / movement:** It moves, but only downward and sideways beneath the floor; in thirty years it has not come up through the crystal and the file does not assume it cannot. Record the depth of the root mass against the Market datum and the area of floor it underlies. Both figures only grow.
+- **Position / movement:** It moves, but only downward and sideways beneath the floor; in thirty years it has not come up through the crystal and the file does not assume it cannot. Record the depth of the root mass against the Market datum and the area of floor it underlies. Keep spread separate from depth: the readings record the mass rising after public readings as well as sinking in unworked quarters. Neither a wider footprint nor a lower gauge alone establishes the depth direction.
 - **Element signature:** Lament
 - **Registered location:** Zone C, Mask Market
 
@@ -122,6 +122,8 @@
 | **Identification** | Verify these observations against the SECC code before work or contact begins; this district holds more than one record beneath the floor, and this is the one that must not be sealed. |
 
 **Appearance protocol:** There is nothing above the floor to measure, so the entry is taken through the crystal: the depth of the root mass, the area it underlies, and the position of the weeping face, which is usually beneath the south arcade and has been found beneath occupied stalls four times. Photograph through the floor; do not lift a panel to get a better view.
+
+**Subfloor organisation:** Identify the waterlogged tree-beast by branch-arms and the weeping face against the crystal, not by a trader or mask above it. Its apparent space includes the underside of the Market and the reflected tree across the aisle; that image is not a second rooted body. Keep each visible face or branch position beside the depth series and floor-load estimate. The file disagrees about limbs crossing the floor and about direct versus reflected visibility, so neither an empty direct view nor a photographed reflection authorises opening a panel. Public readings can raise the recorded mass without establishing that it can safely emerge into the stalls.
 
 ## Origin
 - **Formation:** The Tree formed from sorrow deliberately buried beneath performance and masks.
@@ -169,7 +171,7 @@ Escalation is downward growth. Record the depth at eleven points, the entry read
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | New grief concealed behind a social mask. |
-| **Manifestation** | Place-Lament|
+| **Manifestation** | Place-Grudge, expressing Lament as in the SECC classification and Tale. |
 | **Primary effect** | Hidden sorrow appears in masks and public performances. |
 | **Duration / rate** | Slow, through floors and reflective surfaces. |
 | **Risk** | Critical (δ), carried for the floor loss and the flood rather than for any pursuit. Eleven years, four metres of floor, no fatalities, and no injury to anybody who stayed above the crystal. |
@@ -255,6 +257,8 @@ Compressed gas cylinders discharge the harpoon with bone-crushing force up to th
 **Cost:** The wearer becomes unable to maintain a false expression.
 
 *Nine in eleven years, every one to a worker who read something true aloud on the floor with traders listening. None has gone to anybody who read to an empty aisle, and 41 cycles were worked that way.*
+
+**Linked-set limits:** The Sunken Requiem’s reflected Han-crystal blade is not a demonstrated state of the pneumatic Harpoon-Gun. Its consent-dependent second pierce, reflected-edge maintenance and owner-led shutdown belong to that linked blade record, not a newly proven mechanism of the gun. The Shroud’s chosen witnesses and Root’s reflected patterns likewise do not authorise public diagnosis: the Root shows pressure and relationship, not the content of a grief. Its linked bonus is Clarity during Banyan work. Record tears, dulled pleasures and failed false expressions separately from the local set-wide withdrawal from personal disclosure. The source’s private-room resonance remains distinct from the public-reading condition; do not combine them into a compelled confession.
 
 ### M.A.W. Use Notes
 

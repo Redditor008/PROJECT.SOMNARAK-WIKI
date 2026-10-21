@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch177 OPEN0/5.** Owner p authorizes177 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B177_OPEN.json). No178/merge/art/deployment.
+**Latest: Batch177 OPEN1/5.** Owner p authorizes177 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B177_OPEN.json). No178/merge/art/deployment.
 
 **Previous: Batch176 CLOSED5/5.** Five HELD whole designs;45 supported repairs. Equipment coverage+1 Types/+1 Weapon; SE+0. [Full report](SE_APPEARANCE_REVIEWS/B176_CLOSE.md). No177/merge/art/deployment.
 
@@ -1502,3 +1502,7 @@ Fresh closing checks25/25 PASS; all54 tests and four archive-wide audits PASS. E
 [Full evidence](SE_APPEARANCE_REVIEWS/B176_CLOSE.json)
 
 Selection: fresh pending-only shortest LC_ALL=C word count, designation-byte ties, not a defect ranking. Queue240→904→686→782→905, no substitutions. Owner p176 discharged after five complete reviews. No change0/5 does not trigger5→7→10. Batch177, merge, artwork and deployment are not authorised. PR14 remains OPEN/draft to NON-WIKI; owner controls merge. Batch301 remains blocked on eight owner-supplied bodies, one4+4 operation, generate/validate before wiki copy. Later full rechecks and supported fixes remain available.
+
+### Batch177 unit1 — OPEN1/5
+
+[Banyan evidence](SE_APPEARANCE_REVIEWS/B177_01_BANYAN.md): HELD, 6supported repairs, full final reading and five actual checks. No change0/1.
