@@ -8,6 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch176 unit2 — Thinking Engine `C-IIIγ-904`
+
+[[SE-C-IIIγ-904_Thinking_Engine_생각하는_기계](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-904_Thinking_Engine_%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94_%EA%B8%B0%EA%B3%84.md "SE-C-IIIγ-904_Thinking_Engine_생각하는_기계.md")]
+
+**Original/source review and R18 predeclared scope:** Complete435-line primary and exact904A–D/README read, CSV975–978/archetype357/disposition315 and B141unit3 reread. TypeObject/O-Relic→ObjectMind→Seol’s overwhelmed research and built apparatus/Tale→historical fed mechanism/current desk-sized warm brassHancrystal/trackinglens/unpoweredgears/tray→fixed housing versus extended processing→two decreasing valid WorkTypes/coveredseals/channel benefit/vent/three interactions and all gear traced. R18 predeclared4short/4careful; careful paragraphs individually authored for this dossier, no common replacement.
+
+**Sources/history:** B141unit3 exact review already credited Types/Weapon; 9b2c5b8 tray safety repair in primary history (baseline10cd20a). ExactMaster designation/Korean/title/item search gives no dedicatedMAW/Tale; EntityCodex359 lists pending row. No invented Master record. A/B γLament14–19/Normal2/Short2/max4/25Single100%; primary stats agree but compact primary lacked coverage fields. A/C.3/1/1.2/.8max4/20; A/DHead5%+1sourcework agree. CSV sparse Variable/Accessory is not authority to replace exact values. ArchetypeMedium/GearToothed held against Short/palecrystal. README formal904 ThinkingEngine not nearby Clock912 or Lacrima905.
+
+**What changed:** Eight repairs replace the misleading organic-body label with constructed apparatus, clarify lens-versus-processing movement, correct the false handler exemption and never-input claim, and add distinct construction/extension, blade, Veil and Token custody accounts.
+
+**Final whole-file assessment:** HELD: supported constructed form is now clearer, but body-vs-mind/channel target scope, activation and same-item blade relationships remain unresolved. Existing equipment coverage retained; +0/+0/+0.
+
+**Holds / later recheck:**
+- ObjectMind and nonhuman apparatus are coherent; no human-to-machine transformation required. Registered Transform remains without a described transformed body, while explicit event is processingExpansion. No new form invented; shape alone is not the hold.
+- Main essential relationship: onlyMind/noBodyTelemetry/neverharmedbody versus abandonedchannel heavy sector damage and chestweight, and idle-person immunity versus readers/namedstaff effects require event/channel scope not presently established. Body label repaired, damage scope not invented.
+- O-Relic pressure benefit to adjacent holdings conflicts with disposition315 noassists/noentitypairing; do not infer no benefit from three documented negative/refused comparisons or rewrite index. Exact gauge-threeconditions/60/65/event35+10 relationship still needs evidence.
+- Read ban versus authorised audit is not automatic conflict; separate authority is explicit. Universal neverasked/neverproducedonrequest versus Specialistrecalculate and handlerquestion testimonials remains unresolved. Safe ordinary packet handling does not justify systematic personnel reading.
+- Palecrystal singleedge/Short2 versus gearslab/Medium same-item description not reconciled. D dream-tears plus primary common certainty-cost now both tracked, but no unsupported mutual exclusion or removal cure. Claim token coldquiet proves engine notworking on bearer contradicted by remote namedstaff sheets.
+- Never-acted-on catalogue versus aggregate establishment use is an explicitly admitted institutional exception/objection, not a typo to erase. Namednine sealed versus thousandsread/fortyone open may describe different cohorts; preserve sample ambiguity rather than force arithmetic. Interaction nosecondholding prohibition versus historical flatco-presences needs permission/time scope; exact source placeholders do not erase Seol.
+
+**Commentary:** The tray is the crucial piece of anatomy: it turns an unknowable prediction into a paper someone must collect, seal or misuse. The better-staffed bays make the institutional bargain harder to dismiss. Seol should remain the person the mechanism failed to spare, not an excuse to draw a human under the housing.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 8 exact replacements (4batch-short/4careful-detail); LC_ALL=C words6612→7115. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_02_THINKING_ENGINE.md`. Equipment+0/+0;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No177/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch176 unit1 — Holdout `C-IIβ-240`
 
 [[SE-C-IIβ-240_Holdout_사라진_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-240_Holdout_%EC%82%AC%EB%9D%BC%EC%A7%84_%EC%9E%94%ED%95%B4.md "SE-C-IIβ-240_Holdout_사라진_잔해.md")]
