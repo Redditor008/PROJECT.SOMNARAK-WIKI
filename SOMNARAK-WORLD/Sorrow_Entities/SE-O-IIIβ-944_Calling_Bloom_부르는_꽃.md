@@ -118,8 +118,8 @@
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Tale
-- **Primary marker:** A small barefoot child with a single blue-eyed bloom growing from her crown.
-- **Position / movement:** Wanders without rest, pausing to call a name; glides on trailing roots.
+- **Primary marker:** A small barefoot child with a single blue bloom and its dark watching eye growing from her crown.
+- **Position / movement:** Wanders without rest, pausing to call a name; glides with roots trailing clear of the earth.
 - **Element signature:** Lament — the wood hushes and mist pools where she walks.
 - **Registered location:** The Muttering Wood, beyond SECTOR-E-02
 
@@ -128,7 +128,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | Wheat-sheaf-height child in an oversized grey dress; a fist-sized blue bloom with one eye crowns her head. |
-| **Position / movement** | Endless wandering toward voices; glides on roots that do not touch the ground; pauses to call. |
+| **Position / movement** | Endless wandering toward voices; glides with roots trailing clear of the ground; pauses to call. |
 | **Material / signature** | Birch-grey skin, rotted cloth, one living luminescent bloom; Lament; an unnatural wood-silence and pooling mist. |
 | **Distinctive markers** | The watching eye in the bloom; the voice that comes from the trees, not the child; the never-grounded roots. |
 | **Identification** | Distinguish from other forest or Lament entities by the crown-bloom with its single eye and the tell-tale mimicked voice that calls from everywhere at once — she is the only entity that speaks in a voice she has stolen. |
@@ -173,8 +173,8 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 
 ### Escalation Notes
 
-- **Breach type:** Escape — she leaves the cell with no violence in mind, which is exactly the difficulty: a searcher is harder to turn back than an attacker.
-- **Containment priority:** Answer the call rather than the breach. A volunteer trained in Flerehan meets her, accepts the embrace without stepping away, and stays until the Gauge falls on its own.
+- **Breach type:** Escape — she leaves the managed wood seeking contact rather than acting as a deliberate attacker. The absence of hostile intent does not make the embrace safe.
+- **Containment priority:** Name the child, not the mimicked speaker, and follow the recorded route toward the wood’s edge. Do not answer the stolen voice or use an embrace as the procedure: the breach record states that contact dissolves the person she holds, and the bloom’s touch prohibition remains in force.
 - **Sorrow Gauge on breach:** Opens at 50%; while the call goes unanswered it climbs 10 points a turn, and the shape it climbs toward is *One With the Bloom*.
 
 ## M.A.W. Equipment
@@ -236,16 +236,16 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Calling Bloom and carries what Calling Bloom carries: the wielder is visited, unbidden, by the faces of everyone they failed to comfort. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+Every piece carries Calling Bloom’s source sorrow, but its toll must be recorded by item: the Vine brings unbidden faces of those the wielder failed to comfort, the Mantle makes parting difficult, and the Petal leaves the bearer feeling watched. First-person ownership of Nari’s event is a shared attribution failure, not a substitute for those separate costs. The grade describes extraction stability, not safety.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Calling Bloom's known toll: the wielder is visited, unbidden, by the faces of everyone they failed to comfort. Opened at the end of the rotation, not before. |
-| **During use** | The first sign that Calling Bloom is charging: the wielder is visited, unbidden, by the faces of everyone they failed to comfort. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up, without remission. On a Calling Bloom piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece and check the sealed baseline: has Calling Bloom's cost — the wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Record the selected piece and gauge at issue. Keep a baseline for its own toll: unbidden faces for the Vine, difficulty ending contact for the Mantle, or feeling watched for the Petal; retain the source attribution separately from the bearer’s history. |
+| **During use** | Log the selected piece’s response and cost with the hour, retaining both the bearer’s account and the second worker’s observations. A Petal warning is not proof that an unmarked voice is genuine; record the actual trigger rather than requiring the Vine’s faces from every piece. |
+| **At limit** | The Mantle’s inability to part is a cost, not consent to extend a rotation. For every piece, log first-person claims to Nari’s event or a source response recurring outside contact as failure or escalation; keep the selected item’s distinct toll in the limit review. |
+| **After use** | Compare the selected piece’s toll with its baseline and preserve any disagreement between bearer and observer. Attribution review precedes cleaning or rest; a named witness states the source title and event while the bearer relinquishes the item. The record remains and the cost is not refunded. |
 
 **Stat interpretation:** Ratings describe field performance, not safety. The Murmur Vine performs reliably yet can leave the wielder answering voices that are not there for days afterward.
 
