@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest batch: Batch166 OPEN 0 / 5.** Fresh shortest-pending five-dossier cohort. Previous Batch165 is CLOSED 5 / 5. No new review or credit at opening. No167, merge or deployment authorized.
+**Latest batch: Batch166 OPEN 1 / 5.** Fresh shortest-pending five-dossier cohort. Previous Batch165 is CLOSED 5 / 5. No new review or credit at opening. No167, merge or deployment authorized.
 
 Owner direction, 2026-10-18: start a new X/X for SE appearance fixes and name the older counters by their M.A.W. scope.
 
@@ -1128,3 +1128,7 @@ Fresh shortest-pending cohort, ranked with required LC_ALL=C word counts:
 No unit is reviewed by opening. Each needs complete original/exact-source/history review, bounded supported improvements, five actual checks, full final reading, individual Commentary, both logs and verified push. No change is 0 / 0; pending is not No change.
 
 Counters unchanged: Types 255 / 301 (84.72%; 46 / 301 remain); Weapon 255 / 287 (88.85%; 32 / 287 remain); SE 16 / 301 (5.32%; 285 / 301 remain). No167, merge or deployment. Batch301 eight-owner-body/one4+4/generate-validate-before-copy blocker remains.
+
+### Batch166 unit1 — OPEN1/5
+
+[A Letter Never Sent evidence](SE_APPEARANCE_REVIEWS/B166_01_LETTER.md): HELD, 5repairs, five checks and complete final read. No change0/1; source-review counters255/301and255/287, independentSE16/301. Pending is not No change; later full recheck retained.

@@ -96,6 +96,12 @@ Failure to maintain stasis allows the wax to fracture prematurely, venting local
 
 ## Appearance
 
+**Object and origin:** The soot-darkened pulp envelope and indigo seal are the current object. Seok-Won and Min-Seo belong to its origin, not earlier bodies that must share its silhouette. The stationary classification permits trembling paper and a local frost pattern; neither turns the plinth, room or projected railway shape into a roaming body.
+
+**Before and after opening:** Record paper creases, wax integrity, frost pattern and temperature without lifting the flap or reading the script. The explicit discharge consumes the envelope into grey ash. Its restorative chime and momentary sense of a hand are effects, not a surviving humanoid form or a new reusable envelope.
+
+**Unresolved temperature record:** The surface is described as invariant elsewhere, while the Bell interaction uses a lower-temperature condition. Record the surface and local-air readings separately; no supported thermal transition or revised value is established here. A track or bridge outline in frost is a local pattern, not the envelope changing into that structure.
+
 **Physical Form:** A standard municipal transit dispatch envelope folded from coarse grey pulp paper, blackened along the fold lines by flash-fire soot and sealed with dark indigo wax bearing the seal of the Sector-A-04 Line Archive Bureau. A faint rime of Lament Han-frost coats the surface, dropping local temperature by three degrees. The envelope trembles faintly whenever an operative carrying an unvoiced apology enters the chamber.
 
 **Notable Features:**
@@ -157,17 +163,19 @@ Personnel assigned to Viderehan must avoid reading the faded brush script on the
 | **Activation** | Breaking the indigo crystal wax seal and opening the envelope flap. |
 | **Primary Effect** | The letter burns in a heatless deep blue flash, discharging a restorative acoustic chime that instantly cures Panic, clears mental terror, and grants +15 Composure to all allies within Range Band 3. |
 | **Duration** | Instantaneous discharge; effect lasts for 1 full combat phase (6 turns). |
-| **Termination / Return** | The relic is completely consumed by its discharge; what remains is an inert mineral or metal husk emptied of sorrow. |
+| **Termination / Return** | The relic is completely consumed by its discharge; what remains is the grey ash specified for this envelope, with no repeat discharge available. |
 | **Risk** | The letter is permanently consumed into grey ash; the user experiences a poignant ache of bereavement. |
 
 **Operational Rule:** A single-use relic is spent, not stored. Once the discharge trigger is engaged, the process cannot be halted, reversed, or refunded.
 
 ### Log and Method
 
+**Single-use boundary:** The numbered rows below describe protocol and consequences, not repeated discharges of the same envelope. The seal remains unbroken in the vault record. Opening spends the object; these rows do not establish replacement copies, a reset or a surviving readable letter.
+
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 1 Use | The envelope has stayed in the vault’s keeping with its seal unbroken, so everything the letter carries is still folded inside it. Nothing leaves until somebody makes up their mind to open it, and making up that mind is the trigger. | The trigger is breaking the indigo crystal wax seal and lifting the envelope flap. Once the seal is broken the discharge is instantaneous, cannot be reversed, and reaches across the battlefield. |
-| 3 Uses | The crystal in this relic formed around a weight that could not be carried — knowing the person you wronged would die convinced you had never cared. The record sets it in the great subsidence of year 4,112 in sector-a-04, where the lower foundational struts sheared during the sub-rail evacuation. It answers to a commitment with nothing kept back. | The discharge runs to completion. The letter burns in a deep blue flash that gives off no heat and puts out a restorative chime: Panic is cured where it stands, mental terror clears, and every ally inside Range Band 3 gains +15 Composure. Hostile entities within that range are disrupted and stripped of their element. |
+| 1 Use | The envelope has stayed in the vault’s keeping with its seal unbroken, so everything the letter carries is still folded inside it. Nothing leaves until somebody makes up their mind to open it, and deciding to open it is not itself the physical trigger. The seal must be broken and the flap lifted. | The trigger is breaking the indigo crystal wax seal and lifting the envelope flap. Once the seal is broken the discharge is instantaneous, cannot be reversed, and reaches across the battlefield. |
+| 3 Uses | The crystal in this relic formed around a weight that could not be carried — knowing the person you wronged would die convinced you had never cared. The record sets it in the great subsidence of year 4,112 in sector-a-04, where the lower foundational struts sheared during the sub-rail evacuation. It answers to a commitment with nothing kept back. | The discharge runs to completion. The letter burns in a deep blue flash that gives off no heat and puts out a restorative chime: Panic is cured where it stands, mental terror clears, and every ally inside Range Band 3 gains +15 Composure. This row does not establish an additional effect on hostile entities: the repeated primary-effect specification records allied panic relief and Composure restoration, not removal of an enemy's element. |
 | 5 Uses | Grief of this size had one way left to be finished, and that was to be burned out in a single sitting. After the letter has handed everything over, asking anything further of it gets no answer at all. | What survives is inert: the seal shatters, or the mineral goes dull and powdery. It will not take repair, it will not take rekindling, and no further extraction is available from it. |
 | 7 Uses | A thing that gives itself away so the living go on is not free of cost, and what it costs is bereavement. To be inside the vault when the letter burns out is to take over a sorrow that never reached the person it was addressed to. | The operative who broke the seal carries a severe trauma out of the activation. For this relic the record is particular: the letter is consumed permanently into grey ash, and the user is left holding a poignant ache of bereavement. |
 

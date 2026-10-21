@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch166 / unit1 — A Letter Never Sent `C-Iα-114`
+
+[[SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-114_A_Letter_Never_Sent_%EB%B6%80%EC%B9%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%ED%8E%B8%EC%A7%80.md "SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md")]
+
+**What changed:** Five repairs add envelope/origin/frost/discharge boundaries, replace generic mineral/metal aftermath with specified grey ash, require physical seal-and-flap activation rather than mere decision, reject an unsupported hostile element-stripping extension, and distinguish protocol rows from repeated uses.
+
+**Sources/history:** Exact title/designation/item searches: no externalA–D, CSV or archetype set; this is an explicit primary-only docket. MasterEntity473 exact envelope/unsealing/panic/+15Composure row read; no imported numeric114 equipment. Both logs B59unit3 and B64unit4 ccf6088 record prose/structure changes, not whole-design completion. No new exact Weapon pair established; conservative equipment+0/+0 and no inherited body credit.
+
+**Final logical outcome:** HELD: intact envelope and ash endpoint are clearer, but thermal state, activation authority and extraction chronology still lack supported crosswalks. Technical PASS does not complete the written design.
+
+**Holds:** Invariant surface temperature versus Bell lower-temperature interaction needs actual conditions or measurement scope. Seal never broken and post-discharge extraction/field-use notes lack an explicit item-availability chronology. Derived gear shapes themselves need not duplicate the envelope. Gauge70 activation,60 premature fracture and physical seal trigger remain differently presented; no invented authority or reset. Addressee untraced versus named daughter and relative eighty-year/centuries chronology remain for later source check. Final reading also retains read-once/FinalObservation invitation versus paper burning before pages unfold; generic fifth protocol row mineral/seal aftermath and no-further-extraction versus M.A.W. residue extraction remain unresolved.
+
+**Commentary:** The father turning back for a letter while both people miss the train is the strongest part. The sealed object should keep that irreversible urgency; treating it as a repeatedly usable comfort item would weaken it.
+
+**Checks and evidence:** Five actual validators PASS; whole original and final read, 5supported replacements, LC_ALL=C words4494→4725. Receipt `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_01_LETTER.md` records raw checks, hashes and visual limits.
+
+**Progress:** OPEN1/5, No change0/1. Types255/30184.72%,46/301remain; Weapon255/28788.85%,32/287remain; SE16/3015.32%,285/301remain. No duplicated equipment/body credit. Both logs travel in the individual gate/push. Pending units are not No change; no close below five or earned rung, no167/merge/art/deployment,301ownerblocked. Later full check/fix backlog preserved.
+
 ## Batch166 OPEN — 0 / 5
 
 Owner p after CLOSED165 authorizes Batch166 only; minimum five, cumulative three No change triggers5→7→10; later full recheck retained.

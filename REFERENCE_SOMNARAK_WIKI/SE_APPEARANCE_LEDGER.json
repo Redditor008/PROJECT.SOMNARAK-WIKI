@@ -27,7 +27,20 @@
       "C-Iα-900",
       "N-IIβ-919"
     ],
-    "reviewed": {},
+    "reviewed": {
+      "C-Iα-114": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_01_LETTER.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    },
     "authorization": "Owner p after CLOSED165 authorizes Batch166 only; minimum five, cumulative three No change triggers5→7→10; later full recheck retained."
   },
   "dossiers": [
@@ -1862,8 +1875,24 @@
     {
       "designation": "C-Iα-114",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: intact envelope and ash endpoint are clearer, but thermal state, activation authority and extraction chronology still lack supported crosswalks. Technical PASS does not complete the written design.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_01_LETTER.md",
+      "sources": [
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Iα-150",
