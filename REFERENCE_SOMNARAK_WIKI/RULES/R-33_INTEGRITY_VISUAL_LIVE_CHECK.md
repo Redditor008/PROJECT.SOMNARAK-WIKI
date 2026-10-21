@@ -59,3 +59,9 @@ Minimum five completed reviews per ordinary authorized batch; three cumulative w
 ## Owner reminder — improve the documents, 2026-10-20
 
 The owner says “p + always fixwd/make the docs batter”. Actively seek and make source-supported improvements throughout each complete dossier, not just document a hold. An unresolved Appearance relationship does not prevent a separate, evidenced repair to a broken sentence, misleading instruction or inconsistent summary. Explain what became clearer or more accurate. Do not manufacture edits, invent facts or delete conflicting evidence merely to report progress; justified No change remains available after full review. Whole-design holds still earn no completed SE Appearance Fix credit. The reminder authorizes Batch154 only under the existing five-minimum and cumulative No-change ladder; it does not authorize later batches, merging, artwork or deployment.
+
+## Research application — donor bodies are not derived equipment, 2026-10-21
+
+The owner's Batch164 preparation request prompted the [contained/event/equipment comparison](../SE_APPEARANCE_REVIEWS/B164_APPEARANCE_RESEARCH.md). Read its subject/state/provenance checklist when deciding whether a difference is actually a conflict. This applies the existing rule; it does not replace the whole-document evidence requirements.
+
+A donor and an explicitly derived M.A.W. item need not share silhouette, scale or anatomy. Use the exact records to establish derivation; do not demand that a wearable item be the donor's original body. A same-body state change needs its supported condition, while two conflicting same-item/same-state descriptions cannot be reconciled by inventing a transformation. Incidental unknown details are not automatically essential contradictions. Preserve actual conflicts and permissions, do not clear prior holds from analogy alone, and award no review/body/artwork credit for research examples.
