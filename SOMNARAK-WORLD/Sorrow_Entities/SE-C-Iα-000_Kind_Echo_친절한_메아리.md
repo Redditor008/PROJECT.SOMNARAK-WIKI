@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A small, softly rounded figure the size of a curled child, warm to the touch like living skin rather than cold stone. Beneath a thin, pliant surface — faintly translucent, the color of pale dawn — a gentle blue luminescence pulses like a heartbeat. It is not carved or crystalline; it feels, unsettlingly, like holding something alive that has chosen to be still. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement** | Local slow drift and leaning toward personnel; not a structure, a walking child or a pursuing body. |
 | **Location** | SECTOR-D-01, The Forge District — Training Containment Unit |
 | **R.D. Comprehension Level** | 4 — Mastered (training entity; fully understood) |
 
@@ -39,9 +39,9 @@
 ### Operational Notes
 
 - Kind Echo is the designated training entity for all new personnel, and the gentleness is genuine rather than a containment artefact.
-- All four Work Types are equally effective. The entity responds the same way to any approach and forgives procedural error.
+- All four Work Types are valid and receive a gentle response. Observation records a stable gauge where the other approaches record a decrease; equal training suitability does not mean identical gauge movement.
 - A successful cycle settles it. Nothing on record has transformed the Echo, and the training value depends on that stability.
-- The activation threshold is high enough that it has rarely been approached. A event here is the Echo waiting outside its door.
+- The activation threshold is high enough that it has rarely been approached. An event here is described as the Echo waiting outside its door; that training description does not document a transformed body.
 - Trainees' emotional responses are recorded; some find the gentleness moving, and that reaction is data rather than a disqualification.
 - Extraction is a separate risk event and is not demonstrated as part of routine training.
 
@@ -99,6 +99,12 @@
 
 ## Appearance
 
+**A rounded imprint, not an identified child:** The common visual record is small scale, a softly rounded or curled outline, pale blue light, warmth and a pleasant hum. It has no clear face or limbs to assign to a settler. The sorrow comes from people comforting one another; that collective origin does not establish a human precursor whose anatomy the current figure must repeat. A lean toward company and a brighter glow are the contact signs, not a facial expression supplied by the observer.
+
+**Local drift and field reach:** The figure barely leaves its containment spot and does not walk. Drift toward an entering worker is different from the structure/location label and from a field affecting the room. The disputed waiting-at-the-door and cold-zone event records are not evidence of a new travelling monster or an authorized reason to frighten the training subject.
+
+**Material uncertainty remains visible in the file:** The classification describes a pliant, skin-warm surface and expressly denies crystal; the detailed training descriptions call the figure warm Han-crystal. No dated state change resolves those descriptions. Preserve the shared outline, glow and warmth without inventing a shell, melted stage or hidden child to make both materials true. The separate Warm Stone and Vest are equipment, not a material test of the source body.
+
 **Primary Form:** A small, soft, rounded figure — approximately 60 cm tall — made of pale blue Han-crystal that glows faintly, like a nightlight. Its shape is indistinct, suggesting a seated or curled figure with no clear limbs or face. It radiates warmth despite being made of sorrow.
 
 **Material and Surface:** Pale blue, translucent, smooth. The crystal is warm to the touch — not Han-cold, but comfort-warm. It pulses gently, once every few seconds, like breathing.
@@ -128,7 +134,7 @@
 | **Position / movement** | Stationary or barely drifting; leans toward entering personnel. |
 | **Material / signature** | Warm, smooth, translucent; faint pleasant hum; glow brightens near people. |
 | **Distinctive markers** | Warm to the touch (unique); pleasant hum (not weeping); zero designation. |
-| **Identification** | The warm blue glow and the hum are unmistakable — no other entity feels safe to approach. |
+| **Identification** | Identify the warm blue glow, rounded outline, pleasant hum and slight drift in the registered Training Unit together. A feeling of safety is not identification, and warmth alone is not clearance to approach an unfamiliar holding. |
 
 **Appearance protocol:** Record glow brightness, hum frequency, and drift direction. Note: this entity is the only one where personnel are encouraged to touch it (for training desensitization). It is warm.
 
@@ -240,7 +246,7 @@ The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. a
 
 **Stat interpretation:** The Training M.A.W. is the baseline. All other equipment is compared to it. "How much better than Training?" is the standard R.D. question when evaluating new M.A.W.
 
-**Full-set source review (2026-10-12):** Reviewed the α overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against Side `SE-1001-A` (`C-Iα-000 [LS]`, `4/4`), items `SE-1001-B/C/D`, Registry rows 166–169, Master M.A.W. entries 313–315, Entity Codex row 470, Tale 105, and archetype `MAW-W-1001`. Side A has no standalone Appearance heading; none of the three item pages has an Appearance section or transition record. Hold the Weapon identity/form: the primary title and carbine appearance, plus Master table row 313 / GUN class, say *Pneumatic Training Carbine*; the local ability text calls it a baton, while Side/item B and detailed Entry 313 say *Standard Training Baton*. Archetype `MAW-W-1001` also names a baton but describes a training bell and Long band. No linked appearance or crosswalk resolves these forms. Weapon numeric profile/cost/maximum and Suit resistances/cost/maximum agree across primary, Side, and items. Warm Stone Tail / `5%` / `+1` working-source bonus agrees with Side/item and Registry; its separate `+2 Composure, +2 Resolve while carried` ability is also in the item and Master detail. The primary, Master record, and Tale additionally say the Stigma is granted at near-100% during training, with no definition reconciling that statement to the recorded `5%` acquisition chance. Keep those claims distinct; no value was normalized.
+**Full-set source review (2026-10-12):** Training-set comparison keeps the α carbine heading beside the baton ability and checks the Vest and Warm Stone independently. The issue bench, carrying claims and source histories were compared with Side `SE-1001-A` (`C-Iα-000 [LS]`, `4/4`), items `SE-1001-B/C/D`, Registry rows 166–169, Master M.A.W. entries 313–315, Entity Codex row 470, Tale 105, and archetype `MAW-W-1001`. Side A has no standalone Appearance heading; none of the three item pages has an Appearance section or transition record. Hold the Weapon identity/form: the primary title and carbine appearance, plus Master table row 313 / GUN class, say *Pneumatic Training Carbine*; the local ability text calls it a baton, while Side/item B and detailed Entry 313 say *Standard Training Baton*. Archetype `MAW-W-1001` also names a baton but describes a training bell and Long band. No linked appearance or crosswalk resolves these forms. Weapon numeric profile/cost/maximum and Suit resistances/cost/maximum agree across primary, Side, and items. Warm Stone Tail / `5%` / `+1` working-source bonus agrees with Side/item and Registry; its separate `+2 Composure, +2 Resolve while carried` ability is also in the item and Master detail. The primary, Master record, and Tale additionally say the Stigma is granted at near-100% during training, with no definition reconciling that statement to the recorded `5%` acquisition chance. Keep those claims distinct; no value was normalized.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Mastered (training entity; fully understood)
@@ -260,7 +266,7 @@ The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. a
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The trainee identifies the entity as a small, warm, blue glow. The first reliable markers are the warmth and the hum. |
-| **Sustained observation** | Continued observation confirms total docility. The entity responds identically to all Work Types. Personnel distinguish the entity's emotional effect (pleasant melancholy) from any physical threat (none). |
+| **Sustained observation** | Continued observation records the gentle response across all valid Work Types, without treating observation's stable gauge as the same change as the others' decrease. Pleasant melancholy is the reported emotional effect; it does not supply a hostile body or erase an anomalous reading that must be logged. |
 | **Activation or escalation** | The entity does not activate. The trainee records the (extremely unlikely) event scenario: it sits outside its door. |
 | **Post-contact review** | The trainee records their emotional response and whether they retained the Warm Stone Stigma. Most do. |
 
@@ -287,7 +293,7 @@ We do not know why the first settlers' kindness crystallized into an entity. Mos
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the trainee at the climax of their first training session. One path completes the training; the other... also completes the training.
+> A choice presented to the trainee at the climax of their first training session. One path completes the training; the other also completes it — the Echo does not fail a trainee for leaving early.
 
 | Perform all four Work Types — complete the full training cycle. | Leave early — skip one Work Type and exit. |
 |---|---|
@@ -316,7 +322,7 @@ The containment unit is warm. Not Han-warm — comfort-warm. A soft blue glow fi
 
 ### Interaction Pattern
 
-Kind Echo does not interact meaningfully with other entities — it is too low-coherence to resonate. Its primary "interaction" is with personnel: it responds to all approaches with the same gentle warmth. Observe it alongside any entity to establish a baseline of "what a non-threatening sorrow feels like."
+Personnel training is the primary comparison baseline. The Bell record nevertheless includes a brief dimming and recovery, so low coherence must not be used to erase that response. A familiar, gentle control is not clearance to place an arbitrary second holding beside a trainee; compare the separate records without assuming their risks are equal.
 
 ### Entity Interaction Record
 
@@ -325,10 +331,10 @@ Kind Echo must be assessed as a training baseline, not as a combat entity. Its i
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | **All Training Personnel** | Responds gently to all Work Types. | Establishes baseline Work Type response for trainees. | Record trainee name, Work Types performed, emotional response. |
-| **The Orphaned Bell** | Dims at the Bell's toll, then brightens. | Confirms shared Lament origin; no operational impact. | Record proximity, timing. |
+| **The Orphaned Bell** | Dims at the Bell's toll, then brightens. | Records brief dimming and recovery with no operational impact; response to a Lament toll does not by itself establish the same formation event. | Record proximity, timing. |
 | **The Maw** | No interaction (the Maw does not notice it). | None — the Training Unit is outside the Maw's range of interest. | N/A. |
 
-**Interaction procedure:** Use the Kind Echo as the control in any entity comparison study. Its responses are the baseline for "docile, non-threatening sorrow."
+**Interaction procedure:** Use the recorded training responses as the docility baseline, keeping each Work Type and gauge result distinct. This comparison does not authorize co-presence with every other entity or expose trainees to a second holding merely to confirm the Echo's gentleness.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -389,7 +395,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. Kind Echo is the R.D.'s training standard and baseline entity. It is fully mastered (Comprehension Level 4) and has been for millennia. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record. — if the entity ever shows hostility, coldness, or escalation — personnel must preserve the contradiction as evidence and alert the Director immediately, because it would mean the sorrow of the first kindness has changed, and that would be the most alarming observation in the history of the R.D.
+**Operational interpretation:** Comprehension Level 4 records the mastered training response, not a resolved material crosswalk. Read local drift and equipment records separately. The familiar warm glow is a baseline, not permission to ignore a different observation. If coldness, hostility or escalation appears, preserve the measured deviation and alert the Director; do not provoke it again as a demonstration. The annual review compares warmth, hum and Work Type response, while the material and event discrepancies in this file remain open questions rather than an invented transformation.
 
 **Review requirement:** Recheck the entity's warmth, hum frequency, and Work Type response annually. The review is a formality — the entity has not changed in 4,000 years — but the R.D. performs it anyway, because the day the Kind Echo stops being kind is the day the city has truly lost something it cannot replace.
 

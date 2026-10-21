@@ -1,5 +1,31 @@
 # Work In Progress
 
+## Batch169 unit5 — Kind Echo `C-Iα-000`
+
+[[SE-C-Iα-000_Kind_Echo_친절한_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-000_Kind_Echo_%EC%B9%9C%EC%A0%88%ED%95%9C_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-C-Iα-000_Kind_Echo_친절한_메아리.md")]
+
+**Original whole review / scope:** Complete424-line original/exact1001A–D read. CityLament Subject/Residue collectivekindness: smallroundedcurledbluefigure withhum/warmth, faceless/limbless outline/localdrift; no identified humanprecursor. Pliant noncrystalPhysicalForm versus crystal Appearance sameapparentstate is genuine unresolved material conflict; not gear/donor silhouette objection. Whole chain includes firstsettlers/historicaldiscovery, traineecontact and motion, fourwork safe versus StableViderehan, coldcorruption versus noevents/waitsoutside, actualBellresponse/paperbaseline and separateequipmentidentities. Predeclared R18:0batch-short/10careful-detail: movement, malformedAn-event, WorkNotes and observation response distinction, concrete neutralmaterial profile, safeidentification, two comparison-procedure restrictions, Bell effect and malformed Registry interpretation. Supplemental predeclaration before edit: one careful-detail rewording of the copied historical-audit introduction, identified by sectfile actual failure at0.056 in Equipment/sect28sharedshingles on audit line. No padding or changed thresholds; reauthor that actual shared sentence, retain all old evidence/numbers/holds. Additional predeclared careful-detail punctuation/clarity repair: replace the legacy three-dot FinalObservation lead with its own explicit no-failure-for-leaving meaning; verify flags the literal dots as a seam, not proof of a content fragment.
+
+**Exact sources/history:** Full1001A–D read; sourceC-Iα-000 resolveszerocollision, not just1001serial or UNK247sameWarmStonename. Registry166–169, archetypes402Baton/BellLong and444CarbineShort; Entity470 plus serial35/Spirit119, disposition172 and neighboring944/946 rows read. MasterMAW353–355(table313–315) and4327–4358(full3entries) read; Tale1055926–5992fullread. PriorB101unit2a804547c sourcepair review fullcoverage/exactWeapon alreadycredited,0/0now. B56unit4condition/prosehistory read. Primary/A–BαLament3–6 Normal2 Short2 5/15 align; Suit .4/1/1.6/.8 5/10 and DTail5%+1sourcework plus near100%/+2carried ability align as conflicting probability claims, not corrected. Exactprimarygit baseline10cd20a only. Separately read515PhysicalForm warmquartzline to test globalwarm-uniqueness claim, not a new515whole-review credit.
+
+**Changes:** Twelve repairs replace structure/location movement with local drift, correct event grammar, distinguish valid gentle Work from identical gauge effects, add neutral-material silhouette/state reasoning, replace subjective safety identification, bound comparison permissions, preserve Bell response without asserting shared formation and repair Registry interpretation without inventing a material transition. Reword the shared historical-audit introduction after actual section failure, without changing its source claims. Replace the legacy three-dot training-choice lead with explicit no-failure wording.
+
+**Final logical result:** HELD: common rounded glow/local drift and collective-kindness origin are explicit without forced human anatomy or a new crystal/skin transition. Genuine same-state material, event/harm, history and equipment-identity relationships remain unresolved; technical PASS is not whole-design completion. WarmStone/carbine/vest may differ from the source, but alternative same-weapon records require actual evidence. Complete final primary reread in document order after validation; final hash matches.
+
+**Holds / later recheck:**
+- Pliant living-skin/notcrystal MixedPhysicalForm versus warmHancrystal repeatedAppearance/Viderehan/Story; no dated transformation or state evidence chooses either.
+- Nonbreach/hypotheticaldoorwaiting/noactivation/zerorisk versus ownzonecorruption/coldgrief/keening and 65/80/40 activation series; routineallvalidwork versus eventtwo-only needs documentedstate scope.
+- Nohurt/no failedworkconsequence versus damagingcombat and unsuccessfulworktrigger, initial2–5 versus14–22/24–36, rarity and stability not an invented exemption; four-thousandbeforefound versusfour-thousandcontainment/4202founding chronology unresolved.
+- Carbine/Baton/Bell same-item identity and Short/Long; Stigma5% versus near100%, no repeatedsourceorbodycredit. Distinctgear scale alone is permitted.
+- Risk-eventextraction/no trainingdemonstration versus finalriskfreeextraction; globalwarmthuniqueness contradicted by515warmquartz record, cannot be relied on for identity. PeripheralCallingBloom/BlackenedAngel calmresponses versus nointeractions shorthand remain sourcecrosswalk followup; no trial authorization inferred.
+
+**Commentary:** The lean toward an afraid trainee carries the idea better than calling every other sorrow cold or dangerous. I would preserve its lack of a face: the first settlers’ kindness can leave a rounded presence without becoming a named child. The material dispute matters because touch is central to the training scene; it should not be solved by inventing a skin over crystal.
+
+**Checks/evidence:** `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B169_05_KIND_ECHO.md`. 12 supported replacements; LC_ALL=C wc-w5519→5834. Five actual validators PASS; raw outputs and original/final/source hashes in receipt. Written-design logical review only; no artwork, render, browser, game, preview or published-site inspection. Equipment+0/+0;SE+0. No duplicate, retroactive or artwork credits.
+
+**Progress:** OPEN5/5, No change0/5; Types255/30184.72%(46remain),Weapon255/28788.85%(32remain),SE16/3015.32%(285remain). Gate/push follows. No170/merge/deployment;301eight-owner-body one4+4/generate-before-copy and later full recheck retained.
+
+
 ## Batch169 unit4 — Hatred Above `C-IVδ-923`
 
 [[SE-C-IVδ-923_Hatred_Above_분노의_폭풍](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-923_Hatred_Above_%EB%B6%84%EB%85%B8%EC%9D%98_%ED%8F%AD%ED%92%8D.md "SE-C-IVδ-923_Hatred_Above_분노의_폭풍.md")]

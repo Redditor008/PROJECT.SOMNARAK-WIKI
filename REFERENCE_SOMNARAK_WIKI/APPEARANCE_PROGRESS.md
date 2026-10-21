@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest batch: Batch169 OPEN 4 / 5.** Frozen pending cohort; historical168CLOSED5/5. No new review/credit at opening; no170/merge/deployment.
+**Latest batch: Batch169 OPEN 5 / 5.** Frozen pending cohort; historical168CLOSED5/5. No new review/credit at opening; no170/merge/deployment.
 
 
 Owner direction, 2026-10-18: start a new X/X for SE appearance fixes and name the older counters by their M.A.W. scope.
@@ -1217,3 +1217,7 @@ CLOSED5/5; all details and Commentary in [closure](SE_APPEARANCE_REVIEWS/B168_CL
 ### Batch169 unit4 — OPEN4/5
 
 [Hatred Above evidence](SE_APPEARANCE_REVIEWS/B169_04_HATRED_ABOVE.md): HELD, 9 repairs, complete original/final reads and five validators PASS. No change0/4;SE16/301. No170 authorized.
+
+### Batch169 unit5 — OPEN5/5
+
+[Kind Echo evidence](SE_APPEARANCE_REVIEWS/B169_05_KIND_ECHO.md): HELD, 12 repairs, complete original/final reads and five validators PASS. No change0/5;SE16/301. No170 authorized.
