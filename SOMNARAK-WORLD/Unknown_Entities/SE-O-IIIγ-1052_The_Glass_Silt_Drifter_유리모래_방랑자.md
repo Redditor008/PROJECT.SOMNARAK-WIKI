@@ -34,14 +34,14 @@
 | **Tool / M.A.W. grade** | Grade γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop** | 150 kg–250 kg vitrified red sand |
-| **Recommended response** | Pugnahan (shattering outer carapace) followed by Ferrehan (enduring thermal wake); Flerehan is ineffective. |
+| **Recommended response** | The standing convoy order is non-engagement: keep the copper chain live, throttle down and let it fall back. The separate carapace-shattering advice and boarding-fracture procedure below are not permission to ignore that order; their authority remains unresolved. Flerehan is recorded as ineffective. |
 
 ### Operational Notes
 
 - The Glass Silt Drifter targets heavy steam-crawler furnaces and reinforced basalt caterpillar treads traversing the Sea of Glass.
 - Its footsteps leave behind razor-sharp obsidian caltrops on the glass surface that shear through iron-rimmed crawler treads and vulcanized seal-gaskets.
 - Operatives engaging the entity must wear thermal blast aprons; shattered glass fragments detonate into incandescent Grudge sparks upon kinetic impact.
-- Dispatching the entity with hydraulic weapons shatters its shell into harmless black pebbles that can be harvested for workshop optics.
+- The hydraulic-dispatch account describes black pebbles recovered afterward for workshop optics. Do not treat that aftermath as a safety assurance for the active shell: live fragments are separately recorded detonating on impact, and routine convoy engagement and fragment bounties are forbidden.
 
 ## Combat Record
 ### Core Stat Line
@@ -78,6 +78,16 @@ Direct skirmishes reveal that the drifter is composed of slagged armor from the 
 
 ### Level 3 — Studied Field Telemetry
 Caravan vanguards observe that the entity possesses no hostility toward pedestrians on foot; it only pursues roaring steam engines and heavy tracked convoys. The entity mistake the rhythmic pounding of steam pistons for the frantic heartbeat of running companions who never reached safety.
+
+## Appearance — Construct, Images and Range
+
+The towering, emaciated biped is fused volcanic glass, obsidian flakes and copper slag, not a living courier inside armour. Its visible chest turbine carries spinning red sand. Running messengers belong to the formation history; no surviving human anatomy or earlier walking-human state is documented for this construct.
+
+The known physical route stays within the vitrified corridor. The shell can shed caltrops and vent silica; neither those deposits nor the mirror images are additional wandering bodies. Fused Mirage lists decoys around the source, not a replacement of its chest or limbs. Distinguish the observed red shimmer from an independently confirmed body count.
+
+Record the outline, fused materials, chest rotation, actual ground surface and separation from the engine. The numerical sand-speed entry and the ramming action require comparison with the escort record, which reports no off-glass sighting and describes matching rather than closing. Do not invent a sand expedition or a special pursuit form to bridge those accounts.
+
+The Courier's Edge and Slag Mantle are derived shell pieces, not scaled copies or alternative bodies of the Drifter. Their different proportions do not by themselves contradict the source. The turbine is explicitly outside the recorded extraction process.
 
 ## Origin & Formation
 

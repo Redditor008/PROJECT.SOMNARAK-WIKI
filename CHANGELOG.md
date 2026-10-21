@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch165 / unit1 — The Glass Silt Drifter `O-IIIγ-1052`
+
+[[SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-O-III%CE%B3-1052_The_Glass_Silt_Drifter_%EC%9C%A0%EB%A6%AC%EB%AA%A8%EB%9E%98_%EB%B0%A9%EB%9E%91%EC%9E%90.md "SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자.md")]
+
+**What changed:** Three repairs add an Appearance section separating slag biped, courier origin, shed fragments, mirror images and shell-derived equipment. Recommended response now preserves the standing non-engagement order rather than endorsing carapace shattering. Recovered black pebbles no longer imply that live impact-active shards are harmless.
+
+**Sources/history:** B114unit2 f234c760a439991c0bafc4393f578b4488feec1f in both logs already full-source reviewed this primary-only set; +0Types/+0Weapon. Fresh exact1052/title/weapon searches found no externalA–D, Registry/Masterequipment, Entity/Tale or archetype record. Timeline198 records Outside frontier discovery, not a body specification. Complete SingingNeedle207-line counterpart read: same two early40km fallbacks, faint tone/cups turning/no song or stall, no causal claim. Disposition remains Neutral. No Stigma fabricated.
+
+**Final logical outcome:** HELD: the nonhuman construct design itself is supported and its field/images/equipment are distinguished, but physical pursuit/ramming and safe response remain mutually unqualified. No appearance credit until that action relationship is supported.
+
+**Holds:** No off-glass sighting and matching-speed escort account versus sand-speed and direct ramming/charging record need actual conditions, not a fabricated state. Non-engagement/throttle-only convoy order versus recommended shattering and mandatory nitrogen boarding response lack an authority crosswalk; hardware recovery is not engagement permission. Needle overlap is two observations, not proof that its acoustic song repels the Drifter. Pieces remain primary-only; no exact external Weapon pair or missing Stigma inferred.
+
+**Commentary:** The sealed cylinders give this creature a purpose without making its body a literal messenger. I like that the caravans protect both the road and the unread messages. A bounty for fragments would erase that distinction, so the no-bounty order matters.
+
+**Checks and evidence:** Five actual validators PASS; whole original and final read, 3supported replacements, LC_ALL=C words2482→2732. Receipt `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B165_01_GLASS_SILT_DRIFTER.md` records raw checks, hashes and visual limits.
+
+**Progress:** OPEN1/5, No change0/1. Types255/30184.72%,46/301remain; Weapon255/28788.85%,32/287remain; SE13/3014.32%,288/301remain. No duplicated equipment/body credit. Both logs travel in the individual gate/push. Pending units are not No change; no close below five or earned rung, no166/merge/art/deployment,301ownerblocked. Later full check/fix backlog preserved.
+
 ## Batch165 opening — OPEN 0 / 5
 
 Owner p after CLOSED164 authorizes this next batch only; always five minimum, cumulative three No change triggers5→7→10; later full recheck/fix permission retained.

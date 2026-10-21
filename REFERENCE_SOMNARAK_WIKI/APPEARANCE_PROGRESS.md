@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest batch: Batch165 OPEN 0 / 5.** Frozen shortest-pending cohort includes four Unknown dossiers and Apostle Maker; no credits earned by opening. The previous batch was Batch164 CLOSED 5 / 5. No change 0 / 5. Four HELD designs; Masked Dancer gains one written-design completion. Broken Mirror adds one fresh exact-set review to each equipment stream. [Full closure and all five receipts](SE_APPEARANCE_REVIEWS/B164_CLOSE.md). Earlier OPEN164 checkpoints below are historical, not the current status. No165 authorization.
+**Latest batch: Batch165 OPEN 1 / 5.** Frozen shortest-pending cohort includes four Unknown dossiers and Apostle Maker; no credits earned by opening. The previous batch was Batch164 CLOSED 5 / 5. No change 0 / 5. Four HELD designs; Masked Dancer gains one written-design completion. Broken Mirror adds one fresh exact-set review to each equipment stream. [Full closure and all five receipts](SE_APPEARANCE_REVIEWS/B164_CLOSE.md). Earlier OPEN164 checkpoints below are historical, not the current status. No165 authorization.
 
 Owner direction, 2026-10-18: start a new X/X for SE appearance fixes and name the older counters by their M.A.W. scope.
 
@@ -950,3 +950,7 @@ Frozen queue:
 5. `C-IIγ-071c` — `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md`
 
 All five are pending, not No change. Complete original/exact-source/history and final reading after five actual validators; separate Commentary, both logs, individual gate and verified push. No owner bodies fabricated; Batch301 eight-body/one4+4/generatevalidatebeforecopy block and owner-controlled merge unchanged. No166 authorization. Opening changes no equipment/body credits:255/301 Types,255/287Weapon,13/301SE.
+
+### Batch165 unit1 — OPEN1/5
+
+[The Glass Silt Drifter evidence](SE_APPEARANCE_REVIEWS/B165_01_GLASS_SILT_DRIFTER.md): HELD, 3repairs, five checks and complete final read. No change0/1; source-review counters255/301and255/287, independentSE13/301. Pending is not No change; later full recheck retained.
