@@ -8,6 +8,34 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch172 unit4 — Fallow `O-Iα-554`
+
+[[SE-O-Iα-554_Fallow_녹슨_씨앗](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-554_Fallow_%EB%85%B9%EC%8A%A8_%EC%94%A8%EC%95%97.md "SE-O-Iα-554_Fallow_녹슨_씨앗.md")]
+
+**Original/source review and predeclared R18 scope:** Full448-line primary and exact554A–D completely read. R18predeclared4batch-short/7careful-detail: copy thisfileactualmovement twice, replace alienFragment/Sovereign identification with itsownRecognition/Recorddetails, splice three localαgrades into overview; individually author source/trail profile, projected-versus-worn activation scope, exactCoreClarity with localcondition retained, three attributableitemcare paragraphs and two-piece mass-report scope. Outsidebrokenpromise→Residue/Minor/Lament/ObjectGrudge/mobileSubject/IRelic→rustseed/creepers/bluepits→winddrift/staticground→rain/Work/plantingprohibition→derivedclock/sickle/Shroud/Core traced.
+
+**Sources/history:** CSV727–730, archetype240LongChronometer with249historicalsickleparity note, Entity608/Tale238full13321–13378, MAW712–714tables752–754/detail8723–8754 and disposition363Neutral read. CompleteexactA mobileSubject/ObjectGrudgeIRelic; unplantedFerrehanecho; B3–6/2/2Single5/15; C.4/1/1.6/.8max5/10; DTail5%+1Clarity. Current/archivedWIP/CHANGELOG exactdesignation/title/item searches: B61unit6 da67025 is Toolprofileoverlapprose, B72comparison is other851, bulkAppearance/SVGparity isart/editorialnotprimary/exactsource disposition; no prior independentreview found. Fresh+1Types/+1Weapon. Primarygit10cd20a.
+
+**What changed:** Replace fixed-object speed and generic crawling/pursuit menu with actual wind-drift/trail movement; replace wrong coherence comparison with field markers; record αequipmentgrade. Add seed-versus-trail appearance and explicit unperformed/prohibited planting scope. Name CoreClarity without deleting the local obligation qualification, add separately attributable sickle/Shroud/Core care, and stop treating the two-piece mass projection as a universal three-piece guarantee.
+
+**Final whole-file reasoning:** HELD: nonhumanoid seed/trail design follows the sincere broken promise without requiring a humanoid donor. Mobile/source-object/relic/activation relationships and actual same-item clock/sickle and material accounts remain unresolved. Useful source-specific improvements ship; equipment+1/+1, SE+0.
+
+**Holds / later recheck:**
+- MobileSubject/ObjectGrudgeIRelic versus ObjectPlacework and soilactivationObjectLament versus skin-onlyoperation: sourceA itselfholdsdualcategory but no transformation joinsalloperationalstates. No inventedrewriting ofType/Manifestation.
+- Rootcreature/crawling versus windrolling/neverchangesdirection versus rampagingthroughwalls/personnel; outdoorneverfacility versus indoorcorridor/toolrecords remain.
+- No retreat/no ratefall versus creeperretraction/temperatureauthority; rainonly versus Tide/Stormexpansion; projectedgrowth versus assertedworntrials needs source-state mapping.
+- Chronometer/timebubble versus linkedRequiemsickle; Shortformal versus Longindex; Singlefalloff versus floorplate reducedshare/corrosiontick no magnitude.
+- OrangewovencreeperShroud versus blueHansilk; coldpittedCorefragment versus warmblueemptycentre; threepieces versus two massreports and registeredbrooch/Tail remain.
+- Primarysharedoutstandingobligation benefit condition versus exactpiecefunctions, scopeonlyCoreworkClaritycondition, minorjoy versus deteriorationcost, artifact nofinish versus A<25resolution need evidence. No automatic centuryservicecredit.
+
+**Commentary:** The promise was sincere and still failed; making the traveller malicious would weaken the seed’s waiting. I especially kept departure from the temporary shelter legitimate: the Core’s memory of abandonment must not become a moral instruction that makes people stay forever.
+
+**Checks and integrity:** Five actual verify/tpl/sectfile/wikistd/sect PASS, full final read after checks, final hash matches. 11 exact replacements; LC_ALL=C words6290→6853. Source hashes and unchanged digit streams retained. Detailed evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_04_FALLOW.md`. Gate/push follows. Written-design review, not artwork/render/browser/game/live-site inspection. Equipment+1/+1;SE+0, no duplicate/retroactive/body/art credits.
+
+**Validation disclosures:** None.
+
+**Progress:** OPEN4/5, No change0/4. Three counters Types260/301=86.38%(41remain),Weapon259/287=90.24%(28remain),SE16/301=5.32%(285remain). No173/merge/deployment/artwork. Later full recheck and301eight-owner-body/one4+4/generate-before-copy blocker retained.
+
 ## Batch172 unit3 — Forgotten Soul `O-IIIγ-233`
 
 [[SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-233_Forgotten_Soul_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%98%81%ED%98%BC.md "SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼.md")]

@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch172 OPEN3/5.** Owner p after CLOSED171 authorizes172 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains. [Opening evidence](SE_APPEARANCE_REVIEWS/B172_OPEN.json). No new credit.
+**Latest: Batch172 OPEN4/5.** Owner p after CLOSED171 authorizes172 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains. [Opening evidence](SE_APPEARANCE_REVIEWS/B172_OPEN.json). No new credit.
 
 **Latest: Batch171 CLOSED5/5.**46supported replacements, fiveHELD, No change0/5. Equipmentcoverage+2Types/+1Weapon, SE+0. [Batch report](SE_APPEARANCE_REVIEWS/B171_CLOSE.md). No172/merge/deployment.
 
@@ -1295,3 +1295,7 @@ CLOSED5/5;48replacements, fiveHELD whole designs, No change0/5. 26,608→28,257w
 ### Batch172 unit3 — OPEN3/5
 
 [Forgotten Soul evidence](SE_APPEARANCE_REVIEWS/B172_03_FORGOTTEN_SOUL.md): HELD, 11 supported replacements, five actual checks and full final reading. No change0/3. No credits inferred.
+
+### Batch172 unit4 — OPEN4/5
+
+[Fallow evidence](SE_APPEARANCE_REVIEWS/B172_04_FALLOW.md): HELD, 11 supported replacements, five actual checks and full final reading. No change0/4. No credits inferred.

@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-Iα-554": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_04_FALLOW.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Owner p after CLOSED171 authorizes172 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains."
@@ -4808,8 +4820,32 @@
     {
       "designation": "O-Iα-554",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-554_Fallow_녹슨_씨앗.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: nonhumanoid seed/trail design follows the sincere broken promise without requiring a humanoid donor. Mobile/source-object/relic/activation relationships and actual same-item clock/sickle and material accounts remain unresolved. Useful source-specific improvements ship; equipment+1/+1, SE+0.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_04_FALLOW.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_525_to_559/SE-554-A__SIDE_CODEX_Fallow.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_525_to_559/SE-554-B__MAW-W_Fallow_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_525_to_559/SE-554-C__MAW-S_Fallow_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_525_to_559/SE-554-D__MAW-G_Fallow_Core.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-Iα-631",
@@ -5796,6 +5832,14 @@
       "batch": 172,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_01_LAST_FRUIT.md",
       "history_proof": "CSV867–870; W777:318seedSocketFangShort supports primaryFang, Mastertable178ReliquaryCenserBell differs; fullMAW178–180detail2833–2865 and Entity424/Tale60:3395–3455 read. ExactA/BβGrudge5–9 Normal2 Short2 Single100%4/25; C1/.4/1.8/1.2 max4/20; DTail5%+1sourcework agree, CSVgenericAccessory held. Full current/archivedWIP/CHANGELOG code/title/item searches: no earlier exactsource disposition; bulk Appearancebatch15 andSVGbatch15 are editorial/art history, not primary/exactpair review. Gitprimary10cd20a administrative. Fresh+1Types/+1Weapon; no art/body/retroactivecredit.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "O-Iα-554",
+      "batch": 172,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_04_FALLOW.md",
+      "history_proof": "CSV727–730, archetype240LongChronometer with249historicalsickleparity note, Entity608/Tale238full13321–13378, MAW712–714tables752–754/detail8723–8754 and disposition363Neutral read. CompleteexactA mobileSubject/ObjectGrudgeIRelic; unplantedFerrehanecho; B3–6/2/2Single5/15; C.4/1/1.6/.8max5/10; DTail5%+1Clarity. Current/archivedWIP/CHANGELOG exactdesignation/title/item searches: B61unit6 da67025 is Toolprofileoverlapprose, B72comparison is other851, bulkAppearance/SVGparity isart/editorialnotprimary/exactsource disposition; no prior independentreview found. Fresh+1Types/+1Weapon. Primarygit10cd20a.",
       "all_types_credit": true,
       "weapon_credit": true
     }

@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Mixed — A corroded seed cracked into a bristling creature of rusted root-spines and orange creepers, rolling and crawling across the Desolate. Fever-cold, it smells of char and wet iron. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Fallow rolls and crawls, trailing orange creepers. It holds no fixed position and is tracked by the corroded line it leaves. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 10–14 per cycle, and every cycle costs the survey office one iron stake. The stakes are driven at the creeper's leading edge, read for corrosion depth, and discarded; eleven years of them are kept in a crate at the Desolate station, in order, as the holding's primary series. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | M.A.W. Weapon, Suit and Stigma: α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
 | **Recommended response** | Drive a stake, read the depth, measure the blighted ground, and leave without planting anything. Viderehan and Ferrehan only. The entire management of this holding is the refusal of the one thing it is waiting for. |
@@ -50,7 +50,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | Fallow rolls and crawls, trailing orange creepers. It holds no fixed position and is tracked by the corroded line it leaves. |
 | **Resistance** | 15% against Lament. Physical resistance is meaningless here for a reason the crate demonstrates: anything iron brought within the creeper line corrodes, and the rate is the measurement, so nothing has ever been swung at it twice. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |
@@ -97,6 +97,11 @@
 - If the engagement is not resolved the creepers root and the blighted ground widens permanently; no method of reversing established corrosion has been recorded.
 
 ## Appearance
+
+**A small source with a larger trace:** The casing is corroded and pitted, bristling with root-spines; blue liquid stands in the pits and orange creepers mark where it has passed. The cold and wet-iron smell belong beside the visible trail, but smell alone cannot locate the moving seed: it remains in ground already blighted. Measure the leading edge independently of the casing. Barely moving during a visit does not make a fixed object of a seed that drifts across a season.
+
+**Waiting is not a planting instruction:** The traveller’s sincere promise supplies the sorrow, not a recovered gardener who can now complete it. The seed’s mobility does not make the abandoned ground mobile with it, and the equipment’s shelter is not the missing garden. Keep the root-spined Subject record, Object-Grudge catalogue and I-Relic handling claims visible together; their shared title does not supply an observed conversion between a field creature, a wearable relic and projected germination.
+
 **Physical Form:** A corroded seed cracked into a bristling creature of rusted root-spines and orange creepers. **Movement:** It rolls and crawls across the Desolate on its spines.
 
 **Notable Features:** It is old but not ancient, grows only in abandoned soil, and rusts anything that tries to force it open.
@@ -118,7 +123,7 @@
 | **Position / movement** | It rolls. Wind-driven across the Desolate at up to two kilometres in a season, with the creeper trail left behind it and the blight staying where the creepers were; the holding moves and its damage does not. |
 | **Material / signature** | A corroded casing the size of two fists, orange creepers, rusted spines, fever-cold air and a smell of char and wet iron. Record the stake's corrosion depth in millimetres and the blighted area in square metres; those two numbers are the file. |
 | **Distinctive markers** | The orange trail arrives before the seed does. Several Desolate seed-forms carry rust colouring; this is the one whose trail is visible from a hundred metres and whose approach is felt as cold rather than heat. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Identification** | Fallow is identified by the orange creeper trail and the fever-cold air before the seed itself is visible; the spines resolve last. Fallow is catalogued among Desolate seed-forms, several of which share the rust colouring. Corrosion depth and creeper habit distinguish it from the others. |
 
 **Appearance protocol:** Log the corrosion depth on each root-spine, the extent and direction of the creeper trail, and the temperature differential — Fallow reads as fever-cold against ambient air and the gradient is measurable at two metres. Record the smell of char and wet iron separately, noting strength rather than presence, because the smell persists in blighted ground after the entity has moved on and will otherwise be mistaken for a current reading.
 
@@ -146,6 +151,9 @@ The table lists two usable Work Types and the survey office has never been able 
 
 **Reading the response:** Success is read from the root-spines settling rather than from any change in the seed, which is unaltered by every cycle on record. A worker who expects visible progress in the seed itself will report failure on a successful cycle. The reliable indicators are the rate of creeper advance, which slows before it reverses, and the ambient temperature, which returns toward normal from the outer edge inward. Both lag the actual response by several minutes, so a cycle is not closed at the first sign of settling but at the second consecutive reading that confirms it. Where the two indicators disagree, temperature is treated as authoritative, because creeper advance can continue mechanically after the entity has disengaged.
 ## Activation Behavior
+
+**Projected planting, not a performed trial:** The sustained observation record says that planting in sorrow-rich ground has not been done and is prohibited. Read the following growth and absorption effects as the recorded projection, not a successful survey method. The wearable I-Relic account below also claims skin-dependent operation; no observed transition here establishes that as the same condition as planting in soil. Preserve that discrepancy without equipping the source to test it, and do not confuse wearing derived M.A.W. with wearing the seed itself.
+
 
 **Activation Trigger:** Planting the Seed in sorrow-rich soil.
 
@@ -244,6 +252,8 @@ The chronometer ticks with loud, rhythmic mechanical clicks that echo through si
 
 **Cost:** The wielder begins keeping appointments no one made, and reports reluctance to leave a post once taken.
 
+**Weapon account boundary:** The linked Requiem is a root-grained crystal sickle that removes detached invasive growth without cutting the seed; its care leaves the grain unpolished. That is a different implement from the Chronometer described here. Matching damage and cost do not establish a clock-to-sickle transformation, a time-bubble range or a corrosion-tick falloff. Retain the two accounts for adjudication; neither authorises striking or opening Fallow’s casing.
+
 ### M.A.W. Suit — Fallow Shroud
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
@@ -262,6 +272,8 @@ The chronometer ticks with loud, rhythmic mechanical clicks that echo through si
 
 **Cost:** The wearer stops noticing deterioration — in equipment, in quarters, and in themselves.
 
+**Shroud inspection:** The individual record’s blue Han-silk and wearer-line roots differ from the local orange woven-creeper description. Keep the inspections attributable: its card calls for storage away from soil, water and growing light, checking the wearer line and retiring it for reweaving if rust crosses that boundary. Dulled joy must not be praised as patience. Neither the resistance nor a feeling of endurance makes tending the source acceptable.
+
 ### M.A.W. Stigma — Fallow Core
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
@@ -270,13 +282,15 @@ The chronometer ticks with loud, rhythmic mechanical clicks that echo through si
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to work performed on Fallow, granted only while the wearer carries an unfulfilled obligation on record
+**Effect:** +1 Clarity during work on Fallow. The local record additionally conditions the benefit on an unfulfilled obligation; the individual Core card names Clarity without that qualification. Keep the condition beside the award rather than extending it to a stat of the operator’s choosing or treating an invented obligation as a route to acquisition.
 
 **Ability:** Grows a small shelter from local sorrow.
 
 **Cost:** The shelter remembers everyone who abandoned it.
 
 *Fallow grants its stigma to workers who complete a cycle without disturbing the seed. It cannot be manufactured, and no worker has received it twice.*
+
+**Core departure:** Its small shelter is temporary cover outside the source path, not a place to plant Fallow or begin a settlement. Dismantle it deliberately and record each departure. The shelter’s memory of leaving is a cost, not an obligation for its occupants to stay; waiting for cover to decay is not the recorded care. Keep the local cold pitted fragment and the individual warm blue tail-core as distinct appearance claims until their relation is evidenced.
 
 ### M.A.W. Use Notes
 
@@ -289,7 +303,7 @@ Each M.A.W. piece taken from Fallow is a fragment of a thing left waiting, and b
 | **Before use** | Wielder, piece, and a full inventory of every iron item on their person. The inventory is counted out and counted back; four items have been lost to corrosion mid-engagement and the Armoury would rather know in advance. |
 | **During use** | Rust appearing on anything the wielder is carrying, with the time it was first seen. The set gives no other visible signal. |
 | **At limit** | The wielder begins tidying. Straightening equipment, clearing ground, brushing dust off the shroud — the same horticultural reflex the survey sheets record at the seed itself, and the same instruction follows: stop, hand the piece over, go back. |
-| **After use** | Return the piece, weigh it, and compare with the issue weight. Both pieces have lost mass steadily since extraction — about a gram a year — and the Armoury's projection is that the set has roughly a century left. |
+| **After use** | Return the identified piece, weigh it and compare with its issue weight. The inherited mass-loss report covers two unnamed pieces within this three-piece list: about a gram a year, with a projection of roughly a century remaining. Preserve which pieces were actually weighed; do not extend the projection to the bestowed Core or treat mass alone as clearance of rust crossing a wearer line. |
 
 **Stat interpretation:** The α rating is taken from a single exchange and this set does not work in single exchanges; its effect accrues, like the corrosion it comes from, and a figure read off one clash will understate it by a wide margin. The Armoury's advice is to rate the engagement by the equipment ledger afterward rather than by the damage log during.
 ## 관찰 기록 (Observation Log)
