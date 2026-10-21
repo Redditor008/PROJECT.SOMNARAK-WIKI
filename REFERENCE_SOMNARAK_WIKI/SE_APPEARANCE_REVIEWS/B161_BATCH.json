@@ -2,7 +2,7 @@
   "number": 161,
   "status": "OPEN",
   "required": 5,
-  "completed": 4,
+  "completed": 5,
   "no_change": 0,
   "reviews": {
     "O-IIβ-467": {
@@ -43,6 +43,18 @@
     },
     "O-Iα-973": {
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B161_04_YGGDRASIL_WOUND.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "C-IIIβ-275": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B161_05_CRUCIBLE.md",
       "no_change": false,
       "whole_final_reread": true,
       "checks": {
