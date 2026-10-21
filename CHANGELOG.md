@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch173 — OPEN0/5 (2026-10-22)
+
+Latest owner p after CLOSED172 authorizes173 only. Minimumfive; cumulative three No change extends5→7→10. Later full recheck retained.
+
+Fresh pending-only shortest LC_ALL=C wc-w, designation tie-break; not a defect ranking. Frozen order: N-IVγ-250(6343words), C-Iα-683(6359words), O-IIβ-922(6392words), N-IVδ-967(6445words), N-IIα-285(6448words). Ten originals saved, five reserves untouched. Whole original/exact A–D/relevant Master/Tale/history/final readings, predeclared R18 repairs, five actual checks and individual verified pushes required. R33 logical completion is independent of technical PASS; donor and gear need not share silhouette.
+
+Restored HEAD10cd20a with working tree exactly matching already-pushed172closure764066f. syncbranch safely matched pushed tree and advanced392commits; no unpushed work lost. Four baseline audits PASS. Counters260/30186.38%(41remain),259/28790.24%(28remain),16/3015.32%(285remain). Ledger12changed/4retained/123held/2blocked/160pending. No174/merge/art/deployment.301blocked eight owner bodies/one4+4/generatevalidatebeforecopy.
+
 **Batch172 closure (2026-10-21): CLOSED5/5 reviews; No change0/5.** 47supported replacements (11batch-short/36careful-detail). C-locale words31,352→33,767(+2,415). Five whole written designs HELD, not five completed appearance fixes.25fresh closingvalidatorruns PASS without waivers;54testsPASS;fourfreshpreclosingauditsPASS.296unselected/fivereserves/digits/allfiveprimaryTales/fingerprinted sources unchanged.47exactoperationsreconstructfinals;all11shortrepairsgrow.300PhysicalFormrows unchanged;921retainsOrganiccategory with non-occupant qualifier. Five individually verified unit commits. Fresh777/554equipmentreviews+2Types/+2Weapon;921/233/622alreadycounted. Counters260/30186.38%(41remain),259/28790.24%(28remain),16/3015.32%(285remain). Ledger12changed/4retained/123held/2blocked/160pending. Laterfullrecheckretained;p172spent,no173/merge/deployment/artwork.301eight-owner-body/one4+4/generatevalidatebeforecopy blocker unchanged.
 
 [Detailed batch report](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_CLOSE.md) · [Machine audit](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_CLOSE.json)

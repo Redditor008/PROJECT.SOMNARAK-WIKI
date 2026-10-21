@@ -1,0 +1,72 @@
+{
+  "batch": 173,
+  "base": "764066f8780454ca642b4de332555ee06570f30a",
+  "authorization": "Latest owner p after CLOSED172 authorizes173 only. Minimumfive; cumulative three No change extends5→7→10. Later full recheck retained.",
+  "selection": "Fresh pending-only shortest LC_ALL=C wc-w, designation tie-break; not a defect ranking.",
+  "pending": 160,
+  "queue": [
+    {
+      "designation": "N-IVγ-250",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IVγ-250_The_Extinguished_꺼진_자.md",
+      "words": 6343,
+      "sha256": "238ead2603d127f0eb43065aea17138096413efd5b03d987c38d76f06de770f1"
+    },
+    {
+      "designation": "C-Iα-683",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-683_Swallowed_Fury_사라진_눈물.md",
+      "words": 6359,
+      "sha256": "b75ea1a666ebfd90462008e7bfe16681445e7b92b3d0751ece7fa01bf8b74d84"
+    },
+    {
+      "designation": "O-IIβ-922",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-922_Door_to_Nowhere_솟아오른_문.md",
+      "words": 6392,
+      "sha256": "1c8240731f7e99f53beda3e489ed95183923389536d72e0b02248a9576c4d941"
+    },
+    {
+      "designation": "N-IVδ-967",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-967_Pandoras_Jar_사라진_유물.md",
+      "words": 6445,
+      "sha256": "3f171c46990cfbc705e54c9c22c4efb73a33a756f826ba93c026a088d0682954"
+    },
+    {
+      "designation": "N-IIα-285",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIα-285_Weight_of_Silence_침묵의_무게.md",
+      "words": 6448,
+      "sha256": "16e643775718a87ee7100010b729685e5de2b7df5e559e0f216e159b571bc304"
+    }
+  ],
+  "reserves": [
+    {
+      "designation": "O-IIIγ-959",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md",
+      "words": 6495,
+      "sha256": "cbacc21919677ad9b620439a8bafc2011531884799956254e6a3a5a7c554aed5"
+    },
+    {
+      "designation": "N-IIIβ-200",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md",
+      "words": 6496,
+      "sha256": "75f697b428cfacc4a87fa2f718038775822e0399c3deb13b8c570e7f95dc3005"
+    },
+    {
+      "designation": "C-IVδ-918",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md",
+      "words": 6503,
+      "sha256": "8e6e5f13321d20260e55b9dca65f8bbffa31f402864a79d86965908e67caa4a3"
+    },
+    {
+      "designation": "N-IIIγ-127",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울.md",
+      "words": 6534,
+      "sha256": "16f7db65b4d5ef97516fd39d5bf148e2d6ce43e9b9e5d33fd2e1127fdf07e7b8"
+    },
+    {
+      "designation": "C-Iα-150",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-150_Risus_웃음의_메아리.md",
+      "words": 6557,
+      "sha256": "d2a69ede0c7d60970f17f12c0be1228006d482e0427d6771786e0149f76b31ee"
+    }
+  ],
+  "restoration": "Restored HEAD10cd20a with working tree exactly matching already-pushed172closure764066f. syncbranch safely matched pushed tree and advanced392commits; no unpushed work lost."
+}

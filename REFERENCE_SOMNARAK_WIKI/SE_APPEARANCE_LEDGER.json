@@ -17,80 +17,18 @@
     }
   },
   "active_batch": {
-    "number": 172,
-    "status": "CLOSED",
+    "number": 173,
+    "status": "OPEN",
     "required": 5,
     "queue": [
-      "C-IIβ-777",
-      "C-IIIγ-921",
-      "O-IIIγ-233",
-      "O-Iα-554",
-      "C-Iα-622"
+      "N-IVγ-250",
+      "C-Iα-683",
+      "O-IIβ-922",
+      "N-IVδ-967",
+      "N-IIα-285"
     ],
-    "reviewed": {
-      "C-IIβ-777": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_01_LAST_FRUIT.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IIIγ-921": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_02_CRACKED_FLESH.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "O-IIIγ-233": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_03_FORGOTTEN_SOUL.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "O-Iα-554": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_04_FALLOW.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-Iα-622": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_05_VANISHED_TREE.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      }
-    },
-    "authorization": "Owner p after CLOSED171 authorizes172 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains.",
-    "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_CLOSE.json"
+    "reviewed": {},
+    "authorization": "Latest owner p after CLOSED172 authorizes173 only. Minimumfive; cumulative three No change extends5→7→10. Later full recheck retained."
   },
   "dossiers": [
     {
@@ -5717,6 +5655,82 @@
       },
       "authorization": "Owner p after CLOSED170 authorizes171 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains.",
       "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B171_CLOSE.json"
+    },
+    {
+      "number": 172,
+      "status": "CLOSED",
+      "required": 5,
+      "queue": [
+        "C-IIβ-777",
+        "C-IIIγ-921",
+        "O-IIIγ-233",
+        "O-Iα-554",
+        "C-Iα-622"
+      ],
+      "reviewed": {
+        "C-IIβ-777": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_01_LAST_FRUIT.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "C-IIIγ-921": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_02_CRACKED_FLESH.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "O-IIIγ-233": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_03_FORGOTTEN_SOUL.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "O-Iα-554": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_04_FALLOW.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "C-Iα-622": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_05_VANISHED_TREE.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        }
+      },
+      "authorization": "Owner p after CLOSED171 authorizes172 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains.",
+      "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_CLOSE.json"
     }
   ],
   "equipment_reviews": [
