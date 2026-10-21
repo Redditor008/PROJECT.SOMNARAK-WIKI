@@ -6,6 +6,8 @@
 
 ## The current rule
 
+**Latest owner reminder (2026-10-21): “p + always 5 per batch”.** Complete the existing batch's five frozen reviews before closing it. An individual validated push is one unit, not a completed batch. Do not restart the batch number to hide unfinished units. Five remains the ordinary minimum; the cumulative No change 5→7→10 progression below is unchanged. Batch164 closes only after all five individual reviews and the closure checks, not at its earlier1/5 checkpoint.
+
 **Latest owner reminder (2026-10-17): “Remember Nothing Should Be Below 5 + p”.** No batch may be closed below five. Earlier remainder/short-batch exceptions elsewhere in this file are not permission to bypass this reminder; obtain a fresh, specific owner decision if eligible scope is insufficient. Individual validated commits remain required, but they are units of a batch, not substitute batches. This p resumes the already-open Batch137; do not open a second batch or count pending files to satisfy the minimum. The five→seven→ten No change progression remains binding.
 
 **Start at five.** The only ordinary batch sizes are **5, 7, and 10**. The floor is five, not three. Never pad a batch, and never close one below five while five or more eligible pending dossiers remain.

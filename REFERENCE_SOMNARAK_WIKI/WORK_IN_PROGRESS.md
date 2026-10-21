@@ -1,5 +1,54 @@
 # Work In Progress
 
+## Batch164 closure — CLOSED 5 / 5 (2026-10-21)
+
+All five frozen dossier reviews are complete. 66 supported repairs; four whole-design holds and one new written-design completion (Masked Dancer). No change **0 / 5**; no earned seven/ten rung. The owner's latest “always 5 per batch” is satisfied by completed reviews, not by pending names or one-unit checkpoints. No Batch165 authorized.
+
+## Individual deliveries
+
+Each row is one complete review, not a substituted batch.
+
+| Entity | Repairs | Logical result | Checks | Commit / push |
+|---|---:|---|---|---|
+| [Devouring_Bloom](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-916_Devouring_Bloom_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EA%BD%83.md "SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃.md") `C-IIIγ-916` | 18 | HELD | Five PASS | `528a7e64` PUSH VERIFIED |
+| [Foam_Flood](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-948_Foam_Flood.md "SE-C-IIIγ-948_Foam_Flood.md") `C-IIIγ-948` | 12 | HELD | Five PASS | `eeb162d7` PUSH VERIFIED |
+| [Broken_Mirror](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B1-081_Broken_Mirror_%EA%B1%B0%EC%9A%B8%EC%9D%98_%EC%A1%B0%EA%B0%81.md "SE-C-IIα-081_Broken_Mirror_거울의_조각.md") `C-IIα-081` | 6 | HELD | Five PASS | `e654a2be` PUSH VERIFIED |
+| [Weeping_Statue](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-055_Weeping_Statue_%EC%9A%B0%EB%8A%94_%EC%A1%B0%EC%83%81.md "SE-C-IIβ-055_Weeping_Statue_우는_조상.md") `C-IIβ-055` | 6 | HELD | Five PASS | `bff4f407` PUSH VERIFIED |
+| [The_Masked_Dancer](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-099_The_Masked_Dancer_%EA%B0%80%EB%A9%B4_%EB%AC%B4%EC%9A%A9%EC%88%98.md "SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md") `C-IIβ-099` | 24 | CHANGED | Five PASS | `0b3eda05` PUSH VERIFIED |
+
+
+### Counters and exclusions
+
+Each row is a separate per-SE measure.
+
+| Workstream | Coverage | Percent | Remaining |
+|---|---:|---:|---:|
+| ALL M.A.W. Types Appearance per SE — source-review coverage | 255 / 301 | 84.72% | 46 / 301 |
+| ALL M.A.W.-W Appearance per SE — source-review coverage | 255 / 287 | 88.85% | 32 / 287 |
+| SE Appearance Fix — independent written-design pass | 13 / 301 | 4.32% | 288 / 301 |
+
+Equipment coverage includes source holds; it is not finished artwork or redesigned-set coverage. Broken Mirror's identity-resolved SE1009 set is newly reviewed, so both equipment streams gain one. Numeric081 is Hollow Saint, a different full identity; its older review cannot be borrowed. The other four sets were already covered and gain zero. Only Masked Dancer gains a fresh independent written-design completion. Its same-item equipment holds are not resolved by that body credit. The other four remain HELD for actual source/body/action issues, not a demand that every derived item have the donor's silhouette.
+
+Corpus states: 9 changed, 4 retained, 86 held, 2 blocked, 200 pending = 301. Silent Child and scope-unconfirmed Inheritor stay blocked, no legacy body backfill, no repeat Weapon credit. Research examples earn no body/art credit.
+
+### Validation and preservation
+
+- 66 supported replacements across five primaries. LC_ALL=C wc -w: 40,296 → 42,351.
+- Fresh closure checks: verify (residue, seams, pipes, duplicates), tpl (repeated-template residue), sectfile (per-section prose overlap), wikistd (dossier completeness) and sect (whole-file shared-prose fraction): **25 / 25 PASS**.
+- Whole original and final primary readings are recorded. Each full final was read after its actual validators; current final fingerprints still match. This is a substantive logical review, not a PASS inferred from booleans.
+- Every exact source fingerprint remains unchanged. All 296 unselected primaries are unchanged from opening base. All 300 other classification Physical Form rows are unchanged. Masked Dancer alone has a scoped body-summary qualification for documented pauses; no type, manifestation, material, anatomy, numeric stat, range or timing is invented.
+- Each unit updated WIP and CHANGELOG and travelled in its own gate/verified push. Closure carries both logs again. Evidence JSON retains all raw fresh-check outputs, source hashes, commits and local word counts.
+- Written-design inspection only. No generated/rendered artwork, browser, running preview, published-site verification or deployment is claimed.
+
+### Next and blockers
+
+Wait for the owner's next batch authorization. Batch165 is not opened. Preserve the later full recheck/fix backlog, including all held relationships, same-item equipment conflicts and historical chronology questions.
+
+The owner controls merging. No merge or pull-request closure is authorized here. Batch301 remains separately blocked pending eight owner-supplied bodies, one4+4 operation, and generation/validation before wiki copy. No owner file or patch upload was deleted, replaced or moved. The removed maw_slotcheck tool stays removed.
+
+Detailed content, individual Commentary and full primary/evidence links: `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_CLOSE.md`; raw fresh checks and preserved hashes: `B164_CLOSE.json`. Each individual receipt remains linked there. Closure checkpoint supersedes earlier OPEN164 unit snapshots without rewriting their history.
+
+
 **Batch164 / unit5 — The Masked Dancer `C-IIβ-099`:** [[SE-C-IIβ-099_The_Masked_Dancer_가면_무용수](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-099_The_Masked_Dancer_%EA%B0%80%EB%A9%B4_%EB%AC%B4%EC%9A%A9%EC%88%98.md "SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md")]
 
 **What changed:** Twenty-four repairs link denied movement to the living dancer, distinguish ordinary performance from documented partnered pauses and Escape, and correct indiscriminate-hunt and harmless-performance summaries. Current camera-only closure is separated from historical rail Work, appearance, pairing and Final Observation procedures. Equipment guidance now gives each piece its own cost, endpoint and partner authority, full-set rest lock, and assembly-specific safe shutdown instead of one universal injury bill. The SECC body summary and identification marker now also acknowledge the supported pauses instead of repeating literal uninterrupted motion.

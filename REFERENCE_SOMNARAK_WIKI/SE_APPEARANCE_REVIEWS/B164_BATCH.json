@@ -1,6 +1,6 @@
 {
   "batch": 164,
-  "status": "OPEN",
+  "status": "CLOSED",
   "required": 5,
   "completed": 5,
   "no_change": 0,
@@ -259,7 +259,11 @@
         "weapon": 0,
         "se": 0
       },
-      "visual_inspection": "Written-design logical review only. Artwork, rendered visual, browser/preview and published-site inspection not performed / not in scope."
+      "visual_inspection": "Written-design logical review only. Artwork, rendered visual, browser/preview and published-site inspection not performed / not in scope.",
+      "commit": "528a7e646867a081cb9db8c5f0691fac18e55d3d",
+      "name": "Devouring Bloom",
+      "table_link": "[Devouring_Bloom](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-916_Devouring_Bloom_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EA%BD%83.md \"SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃.md\")",
+      "full_link": "[[SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-916_Devouring_Bloom_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EA%BD%83.md \"SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃.md\")]"
     },
     {
       "designation": "C-IIIγ-948",
@@ -389,7 +393,10 @@
       },
       "final_read": "Complete final primary read in document order after actual five validators, including untouched sections; final fingerprint matches.",
       "visual_inspection": "Written-design logical review. No artwork, rendered visual, browser/preview or published site check performed.",
-      "link": "[[SE-C-IIIγ-948_Foam_Flood](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-948_Foam_Flood.md \"SE-C-IIIγ-948_Foam_Flood.md\")]"
+      "link": "[[SE-C-IIIγ-948_Foam_Flood](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-948_Foam_Flood.md \"SE-C-IIIγ-948_Foam_Flood.md\")]",
+      "commit": "eeb162d70aac28109aeace28f6b48c05dd609c05",
+      "table_link": "[Foam_Flood](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-948_Foam_Flood.md \"SE-C-IIIγ-948_Foam_Flood.md\")",
+      "full_link": "[[SE-C-IIIγ-948_Foam_Flood](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-948_Foam_Flood.md \"SE-C-IIIγ-948_Foam_Flood.md\")]"
     },
     {
       "designation": "C-IIα-081",
@@ -506,7 +513,10 @@
         "weapon": 255,
         "se": 12
       },
-      "link": "[[SE-C-IIα-081_Broken_Mirror_거울의_조각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B1-081_Broken_Mirror_%EA%B1%B0%EC%9A%B8%EC%9D%98_%EC%A1%B0%EA%B0%81.md \"SE-C-IIα-081_Broken_Mirror_거울의_조각.md\")]"
+      "link": "[[SE-C-IIα-081_Broken_Mirror_거울의_조각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B1-081_Broken_Mirror_%EA%B1%B0%EC%9A%B8%EC%9D%98_%EC%A1%B0%EA%B0%81.md \"SE-C-IIα-081_Broken_Mirror_거울의_조각.md\")]",
+      "commit": "e654a2be7aaae6f8674a3200df74dbf28870caf3",
+      "table_link": "[Broken_Mirror](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B1-081_Broken_Mirror_%EA%B1%B0%EC%9A%B8%EC%9D%98_%EC%A1%B0%EA%B0%81.md \"SE-C-IIα-081_Broken_Mirror_거울의_조각.md\")",
+      "full_link": "[[SE-C-IIα-081_Broken_Mirror_거울의_조각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B1-081_Broken_Mirror_%EA%B1%B0%EC%9A%B8%EC%9D%98_%EC%A1%B0%EA%B0%81.md \"SE-C-IIα-081_Broken_Mirror_거울의_조각.md\")]"
     },
     {
       "designation": "C-IIβ-055",
@@ -623,7 +633,10 @@
         "weapon": 255,
         "se": 12
       },
-      "link": "[[SE-C-IIβ-055_Weeping_Statue_우는_조상](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-055_Weeping_Statue_%EC%9A%B0%EB%8A%94_%EC%A1%B0%EC%83%81.md \"SE-C-IIβ-055_Weeping_Statue_우는_조상.md\")]"
+      "link": "[[SE-C-IIβ-055_Weeping_Statue_우는_조상](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-055_Weeping_Statue_%EC%9A%B0%EB%8A%94_%EC%A1%B0%EC%83%81.md \"SE-C-IIβ-055_Weeping_Statue_우는_조상.md\")]",
+      "commit": "bff4f407eb7af57ea6bd17741f30f18070cd6cea",
+      "table_link": "[Weeping_Statue](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-055_Weeping_Statue_%EC%9A%B0%EB%8A%94_%EC%A1%B0%EC%83%81.md \"SE-C-IIβ-055_Weeping_Statue_우는_조상.md\")",
+      "full_link": "[[SE-C-IIβ-055_Weeping_Statue_우는_조상](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-055_Weeping_Statue_%EC%9A%B0%EB%8A%94_%EC%A1%B0%EC%83%81.md \"SE-C-IIβ-055_Weeping_Statue_우는_조상.md\")]"
     },
     {
       "designation": "C-IIβ-099",
@@ -815,7 +828,13 @@
         "weapon": 255,
         "se": 13
       },
-      "link": "[[SE-C-IIβ-099_The_Masked_Dancer_가면_무용수](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-099_The_Masked_Dancer_%EA%B0%80%EB%A9%B4_%EB%AC%B4%EC%9A%A9%EC%88%98.md \"SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md\")]"
+      "link": "[[SE-C-IIβ-099_The_Masked_Dancer_가면_무용수](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-099_The_Masked_Dancer_%EA%B0%80%EB%A9%B4_%EB%AC%B4%EC%9A%A9%EC%88%98.md \"SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md\")]",
+      "commit": "0b3eda0511d12968a4363322fc6f8ba56fa970c3",
+      "table_link": "[The_Masked_Dancer](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-099_The_Masked_Dancer_%EA%B0%80%EB%A9%B4_%EB%AC%B4%EC%9A%A9%EC%88%98.md \"SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md\")",
+      "full_link": "[[SE-C-IIβ-099_The_Masked_Dancer_가면_무용수](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-099_The_Masked_Dancer_%EA%B0%80%EB%A9%B4_%EB%AC%B4%EC%9A%A9%EC%88%98.md \"SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md\")]"
     }
-  ]
+  ],
+  "closure_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_CLOSE.md",
+  "closure_checks": "25/25 PASS",
+  "rung_decision": "Close at five: zero completed No change dossiers, so no earned seven/ten rung. Five long full dossiers with substantive source/Work/state histories; no simplicity expansion."
 }

@@ -18,7 +18,7 @@
   },
   "active_batch": {
     "number": 164,
-    "status": "OPEN",
+    "status": "CLOSED",
     "required": 5,
     "queue": [
       "C-IIIγ-916",
@@ -89,7 +89,10 @@
         }
       }
     },
-    "authorization": "Owner P requested appearance research before164; latest p continues164 and permits a later full checking/fixing pass after this pass finishes. No165 authorization or automatic old-hold clearance."
+    "authorization": "Owner P requested appearance research before164; latest p continues164 and permits a later full checking/fixing pass after this pass finishes. No165 authorization or automatic old-hold clearance.",
+    "closure_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_CLOSE.md",
+    "no_change": 0,
+    "rung_decision": "Close at five: zero completed No change dossiers, so no earned seven/ten rung. Five long full dossiers with substantive source/Work/state histories; no simplicity expansion."
   },
   "dossiers": [
     {
