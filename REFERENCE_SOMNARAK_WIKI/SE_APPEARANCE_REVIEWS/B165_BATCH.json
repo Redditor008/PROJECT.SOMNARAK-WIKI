@@ -1,0 +1,82 @@
+{
+  "batch": 165,
+  "status": "OPEN",
+  "required": 5,
+  "completed": 0,
+  "no_change": 0,
+  "queue": [
+    {
+      "designation": "O-IIIγ-1052",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자.md",
+      "words": 2521,
+      "lines": 208,
+      "sha256": "4cc292684b77b6660007a1e9ed58cf90ea385e5f9e07b5256c93174e9f87f326"
+    },
+    {
+      "designation": "O-IVγ-1053",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘.md",
+      "words": 2962,
+      "lines": 206,
+      "sha256": "836b39a0598bdf066f11b5a2e7c450964e3e6f5caef253676170b2f6037e5e41"
+    },
+    {
+      "designation": "N-Vω-1055",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-Vω-1055_The_Ancestral_Guilt_조상의_원죄.md",
+      "words": 3158,
+      "lines": 206,
+      "sha256": "71aae71a03dc7899b6fe0e5d665d46b6d9338ac472142c9757c21adf6135e30b"
+    },
+    {
+      "designation": "N-IIIβ-1056",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IIIβ-1056_The_Unbroken_Pledge_깨어지지_않은_서약.md",
+      "words": 3546,
+      "lines": 212,
+      "sha256": "b8ae05da9aa0fd663d7cd0fd48ed07ff905b6d8977da06bcc060eb362b1fbd20"
+    },
+    {
+      "designation": "C-IIγ-071c",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md",
+      "words": 4092,
+      "lines": 278,
+      "sha256": "95761b1b8b9c61c486692d63386852a577d90653b68929e969d17f7eff424c3c"
+    }
+  ],
+  "reserves": [
+    {
+      "designation": "C-Iα-114",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md",
+      "words": 4577,
+      "lines": 388,
+      "sha256": "6f767a1dcd8cbbcc1216b3d75814417798391659f0fbdd9f73831a20b42ddf8f"
+    },
+    {
+      "designation": "O-IIIγ-412",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md",
+      "words": 4584,
+      "lines": 403,
+      "sha256": "1e60e6dd238d9aae19050a503c85e8d9cda8c673e7235e3307554cd5845578f1"
+    },
+    {
+      "designation": "N-IIβ-319",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선.md",
+      "words": 4647,
+      "lines": 404,
+      "sha256": "cbd6f544ca466350943e881e1db886f3c18bc3ec8aadb2ebfd4dec1214a58083"
+    },
+    {
+      "designation": "C-Iα-900",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼.md",
+      "words": 4749,
+      "lines": 346,
+      "sha256": "f6dea49b8eed0fc0e962a5acb4b7f43c53473124979ae1f06b4176bc8630252b"
+    },
+    {
+      "designation": "N-IIβ-919",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-919_Passing_Bell_조상의_시간.md",
+      "words": 4797,
+      "lines": 364,
+      "sha256": "b99c3324a6fc5d6c939686127202766ebc33f95899a8b7e35353f44dc2010fe8"
+    }
+  ],
+  "units": []
+}

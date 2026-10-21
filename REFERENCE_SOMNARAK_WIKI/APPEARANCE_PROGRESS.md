@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest batch: Batch164 CLOSED 5 / 5.** No change 0 / 5. Four HELD designs; Masked Dancer gains one written-design completion. Broken Mirror adds one fresh exact-set review to each equipment stream. [Full closure and all five receipts](SE_APPEARANCE_REVIEWS/B164_CLOSE.md). Earlier OPEN164 checkpoints below are historical, not the current status. No165 authorization.
+**Latest batch: Batch165 OPEN 0 / 5.** Frozen shortest-pending cohort includes four Unknown dossiers and Apostle Maker; no credits earned by opening. The previous batch was Batch164 CLOSED 5 / 5. No change 0 / 5. Four HELD designs; Masked Dancer gains one written-design completion. Broken Mirror adds one fresh exact-set review to each equipment stream. [Full closure and all five receipts](SE_APPEARANCE_REVIEWS/B164_CLOSE.md). Earlier OPEN164 checkpoints below are historical, not the current status. No165 authorization.
 
 Owner direction, 2026-10-18: start a new X/X for SE appearance fixes and name the older counters by their M.A.W. scope.
 
@@ -935,3 +935,18 @@ Wait for the owner's next batch authorization. Batch165 is not opened. Preserve 
 The owner controls merging. No merge or pull-request closure is authorized here. Batch301 remains separately blocked pending eight owner-supplied bodies, one4+4 operation, and generation/validation before wiki copy. No owner file or patch upload was deleted, replaced or moved. The removed maw_slotcheck tool stays removed.
 
 Detailed content, individual Commentary and full primary/evidence links: `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_CLOSE.md`; raw fresh checks and preserved hashes: `B164_CLOSE.json`. Each individual receipt remains linked there. Closure checkpoint supersedes earlier OPEN164 unit snapshots without rewriting their history.
+
+## Batch165 opening — OPEN 0 / 5
+
+Owner p after CLOSED164 authorizes this next batch only; always five minimum, cumulative three No change triggers5→7→10; later full recheck/fix permission retained.
+
+Fresh pending-only shortest-first whole-dossier cohort across both canonical wings; full designation tie-break. The previous became-a cue screen mostly flags narrative or administrative metaphors, not actual form transitions. Length selects manageable full reviews, not defects or predetermined changes. Includes Unknown entities in the fixed301 denominator. No old-held files selected.
+
+Frozen queue:
+1. `O-IIIγ-1052` — `SOMNARAK-WORLD/Unknown_Entities/SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자.md`
+2. `O-IVγ-1053` — `SOMNARAK-WORLD/Unknown_Entities/SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘.md`
+3. `N-Vω-1055` — `SOMNARAK-WORLD/Unknown_Entities/SE-N-Vω-1055_The_Ancestral_Guilt_조상의_원죄.md`
+4. `N-IIIβ-1056` — `SOMNARAK-WORLD/Unknown_Entities/SE-N-IIIβ-1056_The_Unbroken_Pledge_깨어지지_않은_서약.md`
+5. `C-IIγ-071c` — `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md`
+
+All five are pending, not No change. Complete original/exact-source/history and final reading after five actual validators; separate Commentary, both logs, individual gate and verified push. No owner bodies fabricated; Batch301 eight-body/one4+4/generatevalidatebeforecopy block and owner-controlled merge unchanged. No166 authorization. Opening changes no equipment/body credits:255/301 Types,255/287Weapon,13/301SE.

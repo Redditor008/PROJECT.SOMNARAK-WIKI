@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch165 opening — OPEN 0 / 5
+
+Owner p after CLOSED164 authorizes this next batch only; always five minimum, cumulative three No change triggers5→7→10; later full recheck/fix permission retained.
+
+Fresh pending-only shortest-first whole-dossier cohort across both canonical wings; full designation tie-break. The previous became-a cue screen mostly flags narrative or administrative metaphors, not actual form transitions. Length selects manageable full reviews, not defects or predetermined changes. Includes Unknown entities in the fixed301 denominator. No old-held files selected.
+
+Frozen queue:
+1. `O-IIIγ-1052` — `SOMNARAK-WORLD/Unknown_Entities/SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자.md`
+2. `O-IVγ-1053` — `SOMNARAK-WORLD/Unknown_Entities/SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘.md`
+3. `N-Vω-1055` — `SOMNARAK-WORLD/Unknown_Entities/SE-N-Vω-1055_The_Ancestral_Guilt_조상의_원죄.md`
+4. `N-IIIβ-1056` — `SOMNARAK-WORLD/Unknown_Entities/SE-N-IIIβ-1056_The_Unbroken_Pledge_깨어지지_않은_서약.md`
+5. `C-IIγ-071c` — `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md`
+
+All five are pending, not No change. Complete original/exact-source/history and final reading after five actual validators; separate Commentary, both logs, individual gate and verified push. No owner bodies fabricated; Batch301 eight-body/one4+4/generatevalidatebeforecopy block and owner-controlled merge unchanged. No166 authorization. Opening changes no equipment/body credits:255/301 Types,255/287Weapon,13/301SE.
+
 ## Batch164 closure — CLOSED 5 / 5 (2026-10-21)
 
 All five frozen dossier reviews are complete. 66 supported repairs; four whole-design holds and one new written-design completion (Masked Dancer). No change **0 / 5**; no earned seven/ten rung. The owner's latest “always 5 per batch” is satisfied by completed reviews, not by pending names or one-unit checkpoints. No Batch165 authorized.

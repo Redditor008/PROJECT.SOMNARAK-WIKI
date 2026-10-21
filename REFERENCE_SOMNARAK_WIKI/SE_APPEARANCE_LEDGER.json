@@ -17,82 +17,18 @@
     }
   },
   "active_batch": {
-    "number": 164,
-    "status": "CLOSED",
+    "number": 165,
+    "status": "OPEN",
     "required": 5,
     "queue": [
-      "C-IIIγ-916",
-      "C-IIIγ-948",
-      "C-IIα-081",
-      "C-IIβ-055",
-      "C-IIβ-099"
+      "O-IIIγ-1052",
+      "O-IVγ-1053",
+      "N-Vω-1055",
+      "N-IIIβ-1056",
+      "C-IIγ-071c"
     ],
-    "reviewed": {
-      "C-IIIγ-916": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_01_DEVOURING_BLOOM.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IIIγ-948": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_02_FOAM_FLOOD.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IIα-081": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_03_BROKEN_MIRROR.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IIβ-055": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_04_WEEPING_STATUE.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IIβ-099": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_05_MASKED_DANCER.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      }
-    },
-    "authorization": "Owner P requested appearance research before164; latest p continues164 and permits a later full checking/fixing pass after this pass finishes. No165 authorization or automatic old-hold clearance.",
-    "closure_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_CLOSE.md",
-    "no_change": 0,
-    "rung_decision": "Close at five: zero completed No change dossiers, so no earned seven/ten rung. Five long full dossiers with substantive source/Work/state histories; no simplicity expansion."
+    "reviewed": {},
+    "authorization": "Owner p after CLOSED164 authorizes this next batch only; always five minimum, cumulative three No change triggers5→7→10; later full recheck/fix permission retained."
   },
   "dossiers": [
     {
