@@ -1,6 +1,6 @@
 {
   "batch": 163,
-  "status": "OPEN",
+  "status": "CLOSED",
   "required": 5,
   "completed": 5,
   "no_change": 0,
@@ -159,5 +159,6 @@
         "sect": "PASS"
       }
     }
-  }
+  },
+  "close_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_CLOSE.json"
 }
