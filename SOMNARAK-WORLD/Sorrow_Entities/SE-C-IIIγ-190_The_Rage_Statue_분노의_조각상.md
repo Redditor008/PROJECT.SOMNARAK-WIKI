@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-190 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; resilience burns off everyone inside the corrupted zone, fastest for those nearest the raised fist, and continues while  |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; resilience burns off everyone inside the corrupted zone, fastest for those nearest the raised fist, and continues while the wrong goes unnamed. |
 | **Coherence** | Fragment (III) — Furious and frozen |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A colossal figure frozen mid-strike, fist raised and jaw locked; its outer skin is grey pitted stone cracked in long fissures through which something dark and organic pulses, as if flesh were trying to break out of the rock. The stone is warm. Stare long enough and the raised fist seems to tremble — a blow held for centuries. |
-| **Movement** | Stationary — an artwork. |
+| **Movement** | Remains in the chamber; posture changes are found between watches, not witnessed as locomotion. The corrupted zone expands around the figure rather than the figure pursuing personnel. |
 | **Location** | SECTOR-B-01, Zone B |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -70,7 +70,7 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan, Viderehan and Ferrehan; Pugnahan has a recorded response but is prohibited. |
 | **Battlefield** | SECTOR-B-01, Zone B |
 | **Resolution Condition** | Do not attempt to force the fist down; name the wrong |
 
@@ -88,7 +88,7 @@
 
 1. **Tension:** Identification runs on the fissures and the warmth, never on posture — the reference plates exist precisely because posture is not diagnostic here. The designation is confirmed against the classification table, the approach is set, and the positions are taken before anything else is attempted.
 2. **Clash:** Six turns, worked from outside the five-metre line. The wrong is named aloud at the opening of every turn whether or not the gauge has moved, which is procedure and not ritual.
-3. **Resolution:** The watch ends in containment, in management, or in retreat, or on the list's own suppression condition: **Do not attempt to force the fist down; name the wrong**. The clause governs the watch: the wrong is named exactly as the list gives it, the fist is left where it has always been, and nothing on this ground is forced.
+3. **Resolution:** The watch ends in containment, in management, or in retreat, or on the list's own suppression condition: **Do not attempt to force the fist down; name the wrong**. The clause governs the watch: the wrong is named exactly as the list gives it, the fist is not forced into a reference pose. Record its actual position and leave it unforced; posture changes remain part of the evidence.
 
 ### Consequences
 
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-The Rage Statue is a Fragment (III) Subject with Subject-Grudge manifestation and Grudge expression, held at SECTOR-B-01 in Zone B. All four Work Types are available to it because it is a Subject; Pugnahan is nonetheless prohibited, since the Behavior table shows it raising the gauge every time it has been logged. Flerehan and Ferrehan lower it; Viderehan holds it level and produced most of this file.
+The Rage Statue is a Fragment (III) Subject with Subject-Grudge manifestation and Grudge expression, held at SECTOR-B-01 in Zone B. All four Work responses are recorded for this Subject; Pugnahan is not available as an authorised approach, since the Behavior table shows it raising the gauge every time it has been logged. Flerehan and Ferrehan lower it; Viderehan holds it level and produced most of this file.
 
 **Reading the response:** Read it in the arm and in the worker's writing. A falling gauge presents as the arm dropping a few degrees and the fissure-warmth receding; a rising one presents as heat in the fist. The other indicator is the Warden's own logbook: when a watch begins producing long, precise, well-argued grievances about the roster, that watch is over.
 ## Containment Event Behavior
@@ -246,7 +246,7 @@ Each piece extends the Statue; none grants permission for personal revenge. Keep
 | **Before use** | Wielder, exact piece(s), current Gauge, baseline for known injuries, anger, and finger effects, and the present injustice with its accountability route. For full-set *Lower the Fist* use, name the witness allowed to challenge retaliation. |
 | **During use** | Time, action, and effect; distinguish the primary's *Petrified Wrath* / *Furnace Ground-Slam* from the linked Brand's *Held Strike*. Record heat buildup and the required vent pause separately from item B's aching-old-wounds / immediate-anger cost; also keep the Suit's hot-thought and retaliation-confusion reports and the Stigma's finger-stiffness and shortened-temper reports distinct. |
 | **At limit** | Stop when the accountable route is cleared and the response is recorded; after two consecutive primary special slams, require the one-turn heat vent, and shut down if the Brand's closed red ridge appears or anger shifts toward personal revenge or a new target. For *Lower the Fist*, track the suppressed-blow burden until the response is entered; do not extend it to an unrelated grievance. |
-| **After use** | The witness records the remedy and stop point, returns each piece, and checks its distinct aftereffect. Where the Stigma records differ, preserve both primary finger-stiffness and Side/item shortened-temper reports rather than merging them into one set-wide cost. |
+| **After use** | The witness records the remedy and stop point and checks each piece’s distinct aftereffect. Maintain the Brand against present harm and remedy, not a list of enemies. The exact Stigma record calls for witness covering after action; its fused-knuckle appearance is not permission to peel stone from the hand. The Suit’s palm-seam shutdown remains unresolved against its apron-and-cuirass form rather than becoming an invented removal procedure. Preserve both finger-stiffness and shortened-temper reports without merging them into a set-wide cost. |
 
 **Stat interpretation:** The γ grade does not settle the contested Weapon profile or grant permission to retaliate. The primary records 12–19 / Slow 2 / Short 2 / Overhand Crush–Thermal Eruption; Side A and item B agree on 7–12 / Fast 3 / Medium 3 / Skewer with 100% → 70% → 50%, and no third profile adjudicates the difference. The +2 Stigma bonus is source-work only and names no specific statistic; keep the Brand, Suit, Stigma, and *Lower the Fist* costs distinct.
 ## 관찰 기록 (Observation Log)
@@ -276,7 +276,7 @@ Each piece extends the Statue; none grants permission for personal revenge. Keep
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Rage Statue's entry (C-IIIγ-190 [GS]) is filed as Subject-Grudge manifestation, Grudge expressed. The Statue formed from rage that was never allowed to act. Held at SECTOR-B-01, Zone B. It has never moved physically.
+The Rage Statue's entry (C-IIIγ-190 [GS]) is filed as Subject-Grudge manifestation, Grudge expressed. The Statue formed from rage that was never allowed to act. Held at SECTOR-B-01, Zone B. It has not been recorded leaving the chamber. Posture changes are found between watches; that record is not proof of an entirely unchanging body.
 
 **Entry 2 — <The Rage Spreads, the Statue Does Not>**
 The Statue remains fixed while its rage spreads through nearby personnel. Personnel feel anger belonging to someone unable to fight back. Its rage affects personnel who stand before it.
@@ -296,12 +296,12 @@ The statue has never completed the blow. The fissures in its stone widen by a me
 
 | Leave the fist where it has always been and name the wrong exactly as the list gives it. | Depart from the condition for good reasons — take the arm, force the fist open, correct the record first — as this file shows people doing. |
 |---|---|
-| The wrong is named exactly and the radius contracts; the entry closes with the holding recorded whole. | The arm is taken or the condition departed from; the gauge rises, and the log closes with the statue no further on than it was. |
+| The wrong is named exactly and the radius contracts; the entry closes with the holding recorded whole. | Forcing the arm is prohibited. A true naming can also fail to contract the radius when it is not the relevant wrong; record the actual gauge, naming and exposure, preserve the failed name on the list, and follow the event procedure. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-The fist is raised and will never fall. The Statue's fury fills the space where the blow should be. You feel the injustice in your own hands, though they did not commit it. The statue does not ask for violence. It asks you to understand why violence was imagined.
+The fist remains raised; the recorded blow has not arrived. That is an observation, not a guarantee about every future event. The Statue's fury fills the space where the blow should be. You feel the injustice in your own hands, though they did not commit it. The statue does not ask for violence. It asks you to understand why violence was imagined.
 
 
 
@@ -368,7 +368,7 @@ Some sorrows are spent. The Rage Statue is a sorrow that has been told, all its 
 **Common Name:** The Rage Statue
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It does not walk, but it events: four Corrupt events are on file, the gauge opens at 55%, and the zone expands outward while the wrong goes unnamed. The earlier entry describing the threat as moderate with no event, on the ground that the statue is static, is an error and is corrected here — the entity's immobility is not the same thing as its containment.
+**Threat Assessment:** Major (γ). It does not walk, but it produces containment events: four Corrupt events are on file, the gauge opens at 55%, and the zone expands outward while the wrong goes unnamed. The earlier entry describing the threat as moderate with no event, on the ground that the statue is static, is an error and is corrected here — the entity's immobility is not the same thing as its containment.
 **Containment & Handling Procedures:**
 - Pugnahan is prohibited. Flerehan and Ferrehan lower the gauge and Viderehan holds it level; the earlier entry naming Pugnahan as primary contradicts the Behavior table, which records it raising the gauge on every occasion, and is corrected here.
 - Hold the five-metre line. Grudge pressure rises steeply inside it and the floor-plate gradient is measurable from the line outward.

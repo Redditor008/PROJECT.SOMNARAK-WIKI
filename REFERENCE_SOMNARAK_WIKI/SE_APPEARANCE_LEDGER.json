@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIIγ-190": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_02_RAGE_STATUE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_OPEN.json"
@@ -497,8 +509,32 @@
     {
       "designation": "C-IIIγ-190",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-190_The_Rage_Statue_분노의_조각상.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Ten repairs: finished truncated classification trigger; movement distinguishes found posture changes and expandingzone from locomotion. Valid Work and operational summary no longer offer prohibitedPugnahan. StoryEntry immobility and Resolution no longer erase posturechanges. Finalfailure retains true-but-irrelevant naming and actual readings instead of automaticrise. Flavor no longer guarantees blowcanneverland. Corrected ThreatAssessment grammar. AfterUse adds actualcurrent-remedy care and witnesscovering without inventing removal of fusedKnuckle or palmseam on anapron.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_02_RAGE_STATUE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-A__SIDE_CODEX_The_Rage_Statue.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-B__MAW-W_The_Rage_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-C__MAW-S_The_Rage_Gauntlet.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-D__MAW-G_The_Rage_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIIγ-195",
