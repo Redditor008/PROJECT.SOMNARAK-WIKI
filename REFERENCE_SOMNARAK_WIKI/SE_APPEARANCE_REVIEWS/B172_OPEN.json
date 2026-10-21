@@ -1,0 +1,72 @@
+{
+  "batch": 172,
+  "base": "19346ff2a20e7d4790ccb49bdc7d57975fec064f",
+  "authorization": "Owner p after CLOSED171 authorizes172 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains.",
+  "pending": 165,
+  "selection": "Fresh pending-only shortest LC_ALL=C wc-w order; designation tie break; not defect ranking.",
+  "queue": [
+    {
+      "designation": "C-IIβ-777",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-777_Last_Fruit_타오르는_열매.md",
+      "words": 6246,
+      "sha256": "52695495e62658e96bb56dfb1474a4ca75cc502569180f5099bb6b5c18c84429"
+    },
+    {
+      "designation": "C-IIIγ-921",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md",
+      "words": 6249,
+      "sha256": "cd6d65dc7b4f0921bf954a363e45bc8afd70c9e621da20415fd33113f9e19392"
+    },
+    {
+      "designation": "O-IIIγ-233",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼.md",
+      "words": 6257,
+      "sha256": "2f3c13ccff90d525f9597a424db71dd73215a59b1c18705ffd268df1d4f13238"
+    },
+    {
+      "designation": "O-Iα-554",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-554_Fallow_녹슨_씨앗.md",
+      "words": 6290,
+      "sha256": "71c209686dcbb7ef4fa63a7dd80b72d9624c025c36fcce5013085b3042bf994b"
+    },
+    {
+      "designation": "C-Iα-622",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-622_Vanished_Tree_사라진_나무.md",
+      "words": 6310,
+      "sha256": "ce18398cf1661f184b693cfb7ce02720a27d33a2c4f655d3b66e99cd8e2e3001"
+    }
+  ],
+  "reserves": [
+    {
+      "designation": "N-IVγ-250",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IVγ-250_The_Extinguished_꺼진_자.md",
+      "words": 6343,
+      "sha256": "238ead2603d127f0eb43065aea17138096413efd5b03d987c38d76f06de770f1"
+    },
+    {
+      "designation": "C-Iα-683",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-683_Swallowed_Fury_사라진_눈물.md",
+      "words": 6359,
+      "sha256": "b75ea1a666ebfd90462008e7bfe16681445e7b92b3d0751ece7fa01bf8b74d84"
+    },
+    {
+      "designation": "O-IIβ-922",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-922_Door_to_Nowhere_솟아오른_문.md",
+      "words": 6392,
+      "sha256": "1c8240731f7e99f53beda3e489ed95183923389536d72e0b02248a9576c4d941"
+    },
+    {
+      "designation": "N-IVδ-967",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-967_Pandoras_Jar_사라진_유물.md",
+      "words": 6445,
+      "sha256": "3f171c46990cfbc705e54c9c22c4efb73a33a756f826ba93c026a088d0682954"
+    },
+    {
+      "designation": "N-IIα-285",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIα-285_Weight_of_Silence_침묵의_무게.md",
+      "words": 6448,
+      "sha256": "16e643775718a87ee7100010b729685e5de2b7df5e559e0f216e159b571bc304"
+    }
+  ],
+  "restoration": "Clean checkout matched verified171closure19346ff2; no recovery needed."
+}

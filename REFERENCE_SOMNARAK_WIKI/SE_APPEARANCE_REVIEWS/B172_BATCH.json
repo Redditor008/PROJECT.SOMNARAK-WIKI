@@ -1,0 +1,40 @@
+{
+  "batch": 172,
+  "status": "OPEN",
+  "required": 5,
+  "completed": 0,
+  "no_change": 0,
+  "queue": [
+    {
+      "designation": "C-IIβ-777",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-777_Last_Fruit_타오르는_열매.md",
+      "words": 6246,
+      "sha256": "52695495e62658e96bb56dfb1474a4ca75cc502569180f5099bb6b5c18c84429"
+    },
+    {
+      "designation": "C-IIIγ-921",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md",
+      "words": 6249,
+      "sha256": "cd6d65dc7b4f0921bf954a363e45bc8afd70c9e621da20415fd33113f9e19392"
+    },
+    {
+      "designation": "O-IIIγ-233",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼.md",
+      "words": 6257,
+      "sha256": "2f3c13ccff90d525f9597a424db71dd73215a59b1c18705ffd268df1d4f13238"
+    },
+    {
+      "designation": "O-Iα-554",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-554_Fallow_녹슨_씨앗.md",
+      "words": 6290,
+      "sha256": "71c209686dcbb7ef4fa63a7dd80b72d9624c025c36fcce5013085b3042bf994b"
+    },
+    {
+      "designation": "C-Iα-622",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-622_Vanished_Tree_사라진_나무.md",
+      "words": 6310,
+      "sha256": "ce18398cf1661f184b693cfb7ce02720a27d33a2c4f655d3b66e99cd8e2e3001"
+    }
+  ],
+  "units": []
+}

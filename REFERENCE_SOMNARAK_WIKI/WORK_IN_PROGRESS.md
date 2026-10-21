@@ -1,4 +1,12 @@
 # Work In Progress
+## Batch172 — OPEN0/5
+
+Owner p after CLOSED171 authorizes172 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains.
+
+Frozen order: C-IIβ-777(6246words), C-IIIγ-921(6249words), O-IIIγ-233(6257words), O-Iα-554(6290words), C-Iα-622(6310words). Ten originals/hashes saved, firstfive selected/fivereserved. Complete source/body/action/equipment review and original/final readings, five actual checks, Commentary and individual verified pushes required. R18 predeclare per unit; R33 technicalPASS≠logical completion; donor/gear silhouettes may differ, same-item conflicts require evidence. Pending not No change; no forced edits or premature close.
+
+Counters unchanged: Types258/30185.71%(43remain),Weapon257/28789.55%(30remain),SE16/3015.32%(285remain). Ledger12changed/4retained/118held/2blocked/165pending. No173/merge/artwork/deployment.301blocked eight owner bodies/one4+4/generatevalidatebeforecopy. Clean checkout matched171closure19346ff2. Four baseline linters PASS.
+
 **Batch171 closure (2026-10-21): CLOSED5/5 reviews; No change0/5.** 46 supported replacements (7batch-short/39careful-detail), C-locale words30,917→33,085(+2,168); five whole written designs HELD.25fresh closurevalidatorruns accepted,54testsPASS;247verifyretains one originalquotedellipsis seam warning, not a prose splice and not clean seam[]. Four otherseam[]; allresiduals0,tpl0,sectionthresholdsmet,wikistdTrue.296unselected/fivereserves/digits/allfiveTales/sourcehashes unchanged;46operationsreconstructfinals.300PhysicalFormrows unchanged except928nonbodilyNonOrganicqualification. Five individually verified unit pushes plus928category-position correction; no sixth review. Fresh247forbidden-theory disposition +1Types/+0Weapon;071bexact1007review+1Types/+1Weapon; otherthree not recounted;SE+0. Counters258/30185.71%(43remain),257/28789.55%(30remain),16/3015.32%(285remain). Ledger12changed/4retained/118held/2blocked/165pending. Laterfullrecheck retained;p171spent,no172/merge/deployment/artwork.301eight-owner-body/one4+4/generatevalidatebeforecopy blocker unchanged.
 
 [Detailed batch report](SE_APPEARANCE_REVIEWS/B171_CLOSE.md) · [Machine audit](SE_APPEARANCE_REVIEWS/B171_CLOSE.json)
