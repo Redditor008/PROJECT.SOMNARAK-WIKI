@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest batch: Batch167 OPEN 3 / 5.** Fresh pending-only cohort frozen. Previous166 CLOSED5/5. No new credit or review at opening. No168, merge or deployment authorized.
+**Latest batch: Batch167 OPEN 4 / 5.** Fresh pending-only cohort frozen. Previous166 CLOSED5/5. No new credit or review at opening. No168, merge or deployment authorized.
 
 Owner direction, 2026-10-18: start a new X/X for SE appearance fixes and name the older counters by their M.A.W. scope.
 
@@ -1164,3 +1164,7 @@ Counters unchanged: Types 255 / 301 (84.72%; 46 / 301 remain); Weapon 255 / 287 
 ### Batch167 unit3 — OPEN3/5
 
 [Once Upon evidence](SE_APPEARANCE_REVIEWS/B167_03_ONCE_UPON.md): HELD, 7 supported repairs and five validators PASS. Complete original/final read. No change0/3. No168 authorization.
+
+### Batch167 unit4 — OPEN4/5
+
+[Never Discharged evidence](SE_APPEARANCE_REVIEWS/B167_04_NEVER_DISCHARGED.md): HELD, 8 supported repairs and five validators PASS. Complete original/final read. No change0/4. No168 authorization.

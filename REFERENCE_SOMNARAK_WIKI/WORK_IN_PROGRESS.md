@@ -1,5 +1,32 @@
 # Work In Progress
 
+## Batch167 unit4 — Never Discharged `O-IIβ-911`
+
+[[SE-O-IIβ-911_Never_Discharged_영원한_환자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-911_Never_Discharged_%EC%98%81%EC%9B%90%ED%95%9C_%ED%99%98%EC%9E%90.md "SE-O-IIβ-911_Never_Discharged_영원한_환자.md")]
+
+**Original full review / supported scope:** Complete341-line primary and exact911A–D read. Time-Body is unfinished medical scene, not living Organic source: body-content and temporal-medium distinction is explicit in Tale. Snapshot, recurrence, window/door/clock position, subjective scream versus recorded silence, normal versus one contracted/expanded regime, second-loop Work, examinations, paper-only pairings and materialised gear traced. Scope: temporal tableau label, actual contraction/extent, Moderate rather than Sovereign, no physical suppression, qualify universal safe-corridor and fixed-interval claims, concrete scene and witness organisation.
+
+**Sources and history:** Exact911A–D, registry1003–1006, archetype364 and disposition369 read; no dedicated Master exact-name match. Primary/B βWeight11–17 Normal2 Short2 4/25; C L/G/V/W1/1/1.2/.3 4/20; DHead5%+1 align. Primary surgical Short blade versus Medium sheathed service blade archetype is same-item conflict, not a source-silhouette obligation. Archived B43unit4 f7b6f72, B46unit4 quote and B47unit3 b19127e prose history read; none proves unique equipment credit, +0/+0 conservatively withheld.
+
+**Changes:** Eight repairs identify a temporal tableau rather than Organic patient, actual contracted/extended regime, Moderate risk role, concrete normal/exceptional breach extent, outside-boundary timing rather than physical suppression, non-universal doorway safety, qualified ordinary timing and detailed scene/recurrence/equipment distinctions.
+
+**Complete final review:** HELD: the scene, living predecessor, temporal source and normal/exceptional spatial state are distinguished with unsafe universal corridor instructions corrected. Between-loop physical state, timing/exposure record and perception/history conflicts remain. Derived blade shape need not match the soldier, bay or replay. Complete final primary reread in document order after five actual validators; hash matches the recorded version.
+
+**Holds / later recheck:**
+
+- Always-frozen/untouchable tableau versus ordinary usable bay between recurrences needs exact state scope; no invented disappearance or physical access procedure. VesselDestructibleYes/dust remains unjoined to temporal scene.
+- 611 cycles/loops/work counts and one-versus-two-loop yield/relief scopes; repeated never-varied Watch/Observation language versus explicit contraction still requires further scoped correction.
+- First team hears scream versus no source shout/recorded vocal sound, eleven exposures versus prohibition breached once, two transient wounds versus identical exposure reports and no lasting effect versus months of counselling remain unresolved.
+- Same Weapon Short surgical blade versus Medium sheathed service archetype; extracted three pieces versus two Stigmas may be types/instances, not automatic conflict. Medical discharge versus source-record service/tour language and bearer-as-site need provenance, not imported source anatomy.
+- Final reread retains universal outside-doorway safety in OperationalNotes/FirstWeight/Registrum versus explicit contracted corridor boundary; the revised Breach row qualifies the regime but does not clear every older absolute summary.
+
+**Commentary:** Signing a discharge book that cannot discharge anyone is a precise act of care rather than a magical solution. The wish to open the door is convincing because it is the ordinary humane response, and the protocol asks staff not to follow it.
+
+**Evidence:** `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B167_04_NEVER_DISCHARGED.md`. 8 supported replacements; LC_ALL=C wc -w4863→5149. Verify/tpl/sectfile/wikistd/sect PASS; raw checks and before/final/source fingerprints in receipt. Written-design review only; no illustration, rendered page, browser, game or deployed-site checked. Equipment +0/+0; written-design +0; no duplicate equipment/body/art credit.
+
+**Batch:** OPEN4/5, No change0/4. Counters remain255/30184.72%(46remaining),255/28788.85%(32remaining),16/3015.32%(285remaining) unless independent completed design is explicitly recorded. Mandatory individual gate/push follows. No close below required rung; no168/merge/deployment;301owner-eight-body one4+4/generate-before-copy blocker and later full recheck remain.
+
+
 ## Batch167 unit3 — Once Upon `O-IIIγ-920`
 
 [[SE-O-IIIγ-920_Once_Upon_이야기의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-920_Once_Upon_%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-O-IIIγ-920_Once_Upon_이야기의_시간.md")]

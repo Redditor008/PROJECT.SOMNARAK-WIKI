@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-911 [WT]` |
-| **Entity Type** | **Time** — Can breach via Transform |
+| **Entity Type** | **Time** — Recorded escalation contracts the loop interval and temporarily extends its boundary |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Weight |
 | **Manifestation** | Time-Body |
-| **Physical Form** | Organic — A single moment frozen in the air of a Zone E medical bay — a soldier mid-scream, a table overturned, a light shattered. The moment repeats every 47 minutes, and anyone inside the bay when it loops experiences the scream as their own. |
+| **Physical Form** | Temporal tableau — A single moment frozen in the air of a Zone E medical bay — a soldier mid-scream, a table overturned, a light shattered. The moment repeats every 47 minutes, and anyone inside the bay when it loops experiences the scream as their own. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-O-911, contained |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -38,7 +38,7 @@
 
 ### Operational Notes
 
-- The loop has run every 47 minutes since the bay was sealed. 611 cycles have lowered the gauge and not one has altered the interval by a second, which three separate timing series have confirmed.
+- The ordinary interval is 47 minutes, confirmed by the timing series. The 611-cycle work record and its gauge relief do not erase the separately documented contraction event; the ordinary interval resumed afterward. No change in the tableau content is documented.
 - The gauge rises when somebody is inside the bay at the moment of the loop. There is no other recorded trigger and there have been eleven occasions, nine of them deliberate and two of them a door that did not latch.
 - The risk is bounded by a doorway. Outside it, in nine years, this holding has produced nothing at all; inside it, every single exposure has produced the same injury.
 - Three pieces exist and all three were taken between loops, in the 47-minute window, by a team working to a clock on the wall of the corridor. The Armoury's note records the margin they allowed themselves: eleven minutes, never less.
@@ -65,7 +65,7 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Moderate temporal/body hazard; not a Sovereign classification |
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
@@ -96,6 +96,12 @@
 - Wielders stop reporting injuries they have. Two full rotations were worked with a broken finger and a cracked rib.
 
 ## Appearance
+
+**A body shown within a moment:** The soldier, overturned table and shattered falling light make a temporal scene, not a living patient available for ordinary treatment. The recorded attempt to touch or move the table failed. The historical soldier's unresolved identity is not a reason to invent a name, a second patient or a recoverable body inside the replay. Keep the visible scene distinct from the ordinary room that contains it.
+
+**Recurrence and boundary:** The brief unfinished action and the interval between recurrences are different durations. Through the window a watcher can time the changed light and dust; inside the active boundary a witness experiences the scream as their own without a recorded vocal sound. Neither the soldier's posture nor the apparent falling light establishes locomotion out of the bay. The one contracted-interval episode changed the hazard's extent, not the soldier's anatomical form.
+
+**Work and equipment:** The corridor clock, window and discharge book organise the watch; the book does not discharge the original patient. The surgical Edge, heavy veil and blank-discharge token are derived equipment, not detachable anatomy of the tableau. Their injury-perception and injury-reporting costs need the separate examinations in the item-use record; a normal examination does not settle the patient's historical fate.
 
 **Primary Form:** A single moment frozen in the air of a Zone E medical bay — a soldier mid-scream, a table overturned, a light shattered. The moment repeats every 47 minutes, and anyone inside the bay when it loops experiences the scream as their own.
 
@@ -149,14 +155,14 @@ The table says the two available Work Types both reduce the gauge and does not s
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |
-| **Movement** | The entity's body influence expands beyond its registered area, corrupting everything it touches. |
+| **Movement** | Normally bounded by the bay doorway. The recorded contraction temporarily extended the active boundary to the first corridor junction; no travelling soldier or transformed anatomical body is documented. |
 | **Effect** | Weight pressure radiates — the body register makes it personal, targeted, unavoidable. |
 | **First Target** | Anybody inside the doorway, equally. It has never selected between two people in the bay and both occasions with two present produced identical reports. |
-| **Escalation** | +5 Weight drain per cycle while a worker remains inside. Leaving the bay ends it immediately; nothing follows anyone into the corridor and nothing ever has. |
+| **Escalation** | +5 Weight drain per cycle within the active loop boundary. The ordinary doorway limit must be read beside the recorded temporary corridor extension; leaving the bay alone cannot be claimed as a universal safe boundary. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** Keep the door shut, time the loop from outside and follow the documented boundary rather than assuming the usual corridor position is always safe. The one contraction reversed without intervention; watching the required loops is not physical suppression of the soldier or scenery.
 - **Sorrow Gauge on breach:** 40%, rising 10% a cycle, read from the corridor. The Year 4,233 contraction is the only event that has taken it past 65% and the only occasion the bay has been larger than the bay.
 
 ## M.A.W. Equipment
