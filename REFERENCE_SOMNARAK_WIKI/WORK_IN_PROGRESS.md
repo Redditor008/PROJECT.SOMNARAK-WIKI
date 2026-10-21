@@ -1,4 +1,27 @@
 # Work In Progress
+## Batch175 unit1 — Glass Elsewhere `N-IIβ-903`
+
+[[SE-N-IIβ-903_Glass_Elsewhere_환영의_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-903_Glass_Elsewhere_%ED%99%98%EC%98%81%EC%9D%98_%EA%B1%B0%EC%9A%B8.md "SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md")]
+
+**Original/source review and R18 predeclared scope:** Full 440-line original and exact903A–D/README read. Inner Void/Object-Phantasmal/Offertorium → unrecorded formation, classified study rather than invented lost-person origin → standing taller-than-person plain-frame mirror with constant ripple → images of demolished rooms/Fractured faces, not chamber occupants → viewer-only channel and nonviewing clock-holder → valid two Works, closing at ninety → propagation onto other glass without source relocation → study control/paper comparison and three derived pieces traced. R18 predeclared5 batch-short/8 careful-detail. Final entire file reread after checks; technical PASS is separate from logical completion.
+
+**Sources/history:** Prior full/exactWeapon review Batch142 unit3 0fe0d268 read in CHANGELOG4345–4365. No duplicate Types/Weapon credit. CSV971–974, archetype356 Long angular shard versus Short blade, disposition335 Neutral examined. Exact Master MAW/Tale searches have no dedicated903 entry; Entity359 awaits entry; MusicBox N-IIγ-903 is not this βmirror. βVoid11–19/Normal2/Short2/Single100%,4/25; C1/1/.3/.8,4/20; DHead5%+1sourcework align. No source or registry edits.
+
+**What changed:** Thirteen supported repairs specify fixed frame versus expanding image volume, replace false broken-free warning, make activation effect the actual view, replace generic revelation prose, add separate Single-strike, Veil and Token custody with missing Token lapse cost; distinguish physical pane from resistance parameter, enforce ninety-second yield, separate privacy and exposure controls, record actual counselling failure and correct the interaction preamble that denied its faces.
+
+**Final whole-file assessment:** HELD: supported pane/image distinction and equipment repairs do not resolve the whole-file permission and viewing-timeline relationships. +0 Types/+0 Weapon/+0 SE. No invented transformation or private identity disclosure.
+
+**Holds / later recheck:**
+- The body/image/spread account is supported; Transform terminology alone is not proof of a walking breach form. No missing formation event is automatically an essential shape contradiction.
+- Whole action/permission hold: absolute no face-description or exception rule versus approved convergence study taking face descriptions remains unscoped; do not invent research permission overriding the standing rule. Category-only routine logging versus blind descriptions needs an explicit historical/procedural relationship.
+- Two-minute Method versus ninety-second closure, recognised-lost figure versus control showing faces not furnished by viewer need scopes. Back-turned figure not an earlier source-body stage.
+- Equipment-only holds: archetype Long shard versus Short blade; no body-to-blade silhouette requirement. Token door-number versus no identifying household permission stays undecided. Named-event shutdown cannot be fulfilled by inventing unrecorded history.
+- Prebooked counselling requirement remains operationally unmet in the stated four-day waits/unfunded posts; nineteen-year series versus thirty-one/four later reviews preserved without invented cohort mapping. No injury claim not a guarantee of no psychological cost.
+
+**Commentary:** The evidence can improve without giving families a usable answer, and that is the strongest part of this mirror. I would keep the clock-holder looking away: the refusal is a human action, not a technical shutter effect. The study still needs an honest account of its exception to the rule.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 13 exact replacements (5batch-short/8careful-detail); LC_ALL=C words6557→7043. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B175_01_GLASS_ELSEWHERE.md`. Equipment+0/+0;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No176/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch175 OPEN0/5 — 2026-10-22
 
 Owner p after CLOSED174 authorizes175 only. Five complete primary/exact-source/final reviews, supported repairs and individual validated pushes are required. Three cumulative No change results extend5→7→10; pending is not No change. Selection is fresh pending-only shortest LC_ALL=C words, designation tie-break, not a defect ranking.

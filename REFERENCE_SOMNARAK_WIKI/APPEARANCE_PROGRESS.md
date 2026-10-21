@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch175 OPEN0/5.** Owner p authorizes175 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B175_OPEN.json). No176/merge/art/deployment.
+**Latest: Batch175 OPEN1/5.** Owner p authorizes175 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B175_OPEN.json). No176/merge/art/deployment.
 
 **Previous: Batch174 CLOSED5/5.** Two completed written designs and three held; 58 supported repairs. Equipment coverage +2 Types/+2 Weapon; SE +2. [Full report](SE_APPEARANCE_REVIEWS/B174_CLOSE.md). No175/merge/art/deployment.
 
@@ -1404,3 +1404,7 @@ The five individually pushed reviews:
 The owner’s p authorized Batch174 only. Selection was fresh pending-only shortest LC_ALL=C word count, with designation ties; it was not a defect ranking. The frozen order was followed without substitution. No change0/5 does not trigger the cumulative-three 5→7→10 extension.
 
 No Batch175 is authorized. PR14 remains OPEN and draft against NON-WIKI; the owner controls merging. No merge or deployment was performed. Batch301 is still blocked on eight owner-supplied bodies, one4+4 operation, with generation and validation before wiki copy. Later complete rechecking and supported fixes remain available.
+
+### Batch175 unit1 — OPEN1/5
+
+[Glass Elsewhere evidence](SE_APPEARANCE_REVIEWS/B175_01_GLASS_ELSEWHERE.md): HELD, 13supported repairs, full final reading and five actual checks. No change0/1.
