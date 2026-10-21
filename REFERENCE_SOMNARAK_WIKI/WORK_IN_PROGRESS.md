@@ -1,4 +1,29 @@
 # Work In Progress
+## Batch176 unit5 — Lacrima `N-Iα-905`
+
+[[SE-N-Iα-905_Lacrima_영혼의_그릇](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-905_Lacrima_%EC%98%81%ED%98%BC%EC%9D%98_%EA%B7%B8%EB%A6%87.md "SE-N-Iα-905_Lacrima_영혼의_그릇.md")]
+
+**Original/source review and R18 predeclared scope:** Complete431line primary and exact905A–D complete read; shared900–930README already read in this batch, unchanged. CSV979–982/archetype358/disposition164, priorB143unit1fullcontext and currentpersonalization543–545 read. Object/I-Relic→ObjectSpiritVoid→lawfulhistoricretention vs postmortemrevocableconsent/Tale earlierordinaryswabjar→presentordinaryunglazedclay on plinth/gap/light/pleading→conditionalcorridorreachnotlocomotion→two validdecreasingWork/separategapretentionregister→expansion/manualreseat/notificationportableclaim→independentlisteners/papercomparisons/allgear traced. R18 predeclared3short/5careful before primary edits.
+
+**Sources/history:** B143unit1/5606596 already exact Types/Weapon credit; source-placeholders and previousholds read, no duplicate. EntityCodex359awaits905row; exacttitle/designation/Korean and item-code Mastersearch lacks dedicatedMAW/Tale; LacrimaLiquidSorrowglyph unrelated and not substitute. A/B αVoid8–16/Normal2/Short2/Single100%max4/25; C1/1/.3/.8max4/20; DHead5%+1sourcework agree. CSVVariable/Accessory generic not override. Same-item bladevswrappedDroplet archetype/earlierpersonalization remains hold, no art inspected/modified. EarlierB46quote/B59prose not credit duplicated; primaryallrefbaseline10cd20a plus5606596.
+
+**What changed:** Eight repairs replace the unsupported organic-body label, specify stationary gap/light expansion, separate the three equipment costs and add concrete vessel-history, Edge, Veil, Token and retention-evidence guidance.
+
+**Final whole-file assessment:** HELD whole written design: clay-vessel/expansion and piece costs improved, but fixed-versus-carried identity, gap/control and listening permissions remain unresolved. +0 Types/+0 Weapon/+0 SE.
+
+**Holds / later recheck:**
+- Essential placement/handling: unmovedplinth61years versus carriedfamily-notificationduty/mountedI-Relic/removeafteruse lacks a documentedportableform or distinctitemreferent. No movablejar or miniaturesoul-body invented. RegisteredTransform versus documentedExpansion not proof of a new body.
+- Gapanswersonlyretentionregister/neitherWorkmovesit versus handreseatclosesallthree and handling/ignoredreadings triggers lacks baseline/event/time scope. Counterthree/60/65/event40+10 not mapped. Decayonlyregister versus manualtermination not erased by lower gauge.
+- Noharm/noinjuryatanygap versus namedVoidDMG/use5per15seconds/drain has no stated damage-vs-documentary-pressure mapping. Bodilyinjury not assumed from everyspiritualdamage field; condition/reportedoutcome still not established.
+- Sixtyoneyearwatch/fortyyearuse not automaticallycontradictorysubperiods; no invention needed. Mainhearingrolehold is twoindependenttranscribers versus corroboratingTokenholder maynottranscribe, and continuousvoicebarelywords versus targetderivedclearword are separate subject/equipment, not automatic conflict.
+- Primary absenceofdeath/event versus sourceBtear/CmournerDredacted are imagery not missingoriginatorproof. Exactsourcebinding asks nameeventnotrecorded, while currentTaleexplicitnoeventfinding; do not invent a name or assertion thatresearchestablished otherwise.
+- 54bodiesreleased versus54familiesyesretention/Trivia familiesreleased versusseventeenno-kin could be different decisions but chronology/authority link not documented. Preservefigures/proxyabsence. Papercomparisons no co-presence; NeutralR19 retained, ethicallegalwelfarecost notautomaticnegativeentitysuppression.
+- Same-item singleblade vswrappedtear index/visual remains unresolved; sharedprimarycost wording now separated to pieceprofiles, no costrefund/totalmemorycure claimed. SourceDScopecrystallizedspirit versus localcoldwordwarning not merged into omniscient wordrecognition.
+
+**Commentary:** The ordinary swab jar keeps the file from turning into an ornate prison for an invented ghost. The seventeen make a well-intended rule genuinely difficult: the record admits whom it cannot release. I would keep that admission legible rather than solve it with a proxy the source explicitly refuses.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 8 exact replacements (3batch-short/5careful-detail); LC_ALL=C words6774→7378. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_05_LACRIMA.md`. Equipment+0/+0;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No177/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch176 unit4 — Flotsam `C-IIβ-782`
 
 [[SE-C-IIβ-782_Flotsam_번져가는_유물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-782_Flotsam_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%9C%A0%EB%AC%BC.md "SE-C-IIβ-782_Flotsam_번져가는_유물.md")]

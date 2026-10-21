@@ -14,8 +14,8 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Object-Spirit |
-| **Physical Form** | Organic — A small clay jar, unremarkable except for the faint light that leaks from beneath its lid and the voice — barely audible, always pleading — that emanates from within. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Physical Form** | Fired-clay vessel — A small unglazed domestic jar with no maker’s mark, a lid that will not seat, faint light below the rim and barely audible pleading from within. The analysis identifies ordinary clay, not an organic body inside or beneath the vessel. |
+| **Movement** | Fixed on its plinth. Recorded expansions widen the lid gap and extend light and the audible radius along the access corridor; they do not move the jar or release a figure from it. The source has not been relocated during the recorded watch. |
 | **Location** | SECTOR-N-905, contained |
 | **R.D. Comprehension Level** | 1 — Trace |
 
@@ -123,6 +123,8 @@
 | **Material / signature** | Fired clay, unglazed, no maker's mark, consistent with ordinary domestic ware of the period. It has been analysed four times and found to be a jar. |
 | **Distinctive markers** | The four marked rim points, scored into the clay in the holding's first year; the light from the gap, which does not vary with the room; the voice, which does not vary with anything measured so far except the gap. |
 | **Identification** | Lid gap against the last reading. The vessel is visually identical across its whole recorded range. |
+
+**Vessel, gap and voice:** The earlier swab jar and the present anomalous vessel are linked in the Tale by the same receiving-room cupboard. Nothing establishes a human predecessor, a miniature captive body, or a visible soul leaving the jar. The identifying organisation stays ordinary domestic clay, scored rim points and a lid sitting slightly proud; the anomalous light and pleading come from that gap. Record the expansion’s longer corridor reach without enlarging the vessel into another silhouette. The registered Transform heading is not evidence for a walking or opened form. A smaller session gauge, a narrower measured gap and a corroborated word remain different findings, not interchangeable signs that the jar has been emptied.
 
 ## Origin
 
@@ -242,6 +244,8 @@ Nothing escalates at SECTOR-N-905. In sixty-one years the jar has not moved, not
 
 **Cost:** A headache that lasts about a day, and the wielder's own name sounding slightly wrong to them for the length of it.
 
+**Edge custody:** The one clear word belongs to this derived weapon’s target effect, not to a newly corroborated transcript from the source jar. Keep the continuing-pleading Tick’s duration separate from the direct strike and retain the selected-target limit; the corridor’s audible radius is not blade spread. Record the bearer’s headache and altered sense of their own name before rest or cleaning. The linked item requires attribution review and named-witness relinquishment if source sorrow becomes autobiographical. Its missing event is not completed by inventing a dead mourner. The local single edge and the index’s wrapped-droplet silhouette remain different same-item accounts without a demonstrated reshaping.
+
 ### M.A.W. Suit — Lacrima's Veil
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
@@ -260,6 +264,8 @@ Nothing escalates at SECTOR-N-905. In sixty-one years the jar has not moved, not
 
 **Cost:** The wearer is difficult to remember while it is worn. Colleagues walk past them. It ends when the veil comes off and nobody has reported it lasting.
 
+**Veil care:** A near-colourless garment that shifts with its wearer is not an emitted body from the jar. Keep the second listener identified in the session record while the Veil makes that person easy to overlook; forgetting the worker does not invalidate a blank sheet or make the first listener’s longer one correct. Track the source-linked self-forgetting separately from colleagues walking past. The local ordinary cost ends on removal, but the linked attribution failure still requires a witness to receive the piece. Its resistance is not permission to merge transcripts or to substitute a protected listener’s certainty for agreement.
+
 ### M.A.W. Stigma — Lacrima's Token
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
@@ -276,9 +282,11 @@ Nothing escalates at SECTOR-N-905. In sixty-one years the jar has not moved, not
 
 *The token has been granted seven times. Each recipient had, in the preceding quarter, recorded that they could make nothing out, on a day when the first listener had filed a transcript. The holding records the pattern and has twice refused to let it be described as a reward for honesty, on the ground that a worker performing deafness to earn a token is the same failure wearing better clothes.*
 
+**Token follow-up:** Cold against the skin warns of a supplied word in the local account; it does not identify the speaker or answer what the plea requests. Preserve a lapse of a familiar face or word with its duration instead of calling it too brief to matter. The local corroborator-who-does-not-transcribe instruction still needs reconciliation with the standing independent-transcription procedure; neither Head placement nor the award pattern grants an exception by itself. Do not train workers to perform deafness to earn the Token. Review attribution before resting it, and have the named witness receive it if the loss is being claimed as the bearer’s own source history.
+
 ### M.A.W. Use Notes
 
-Each piece is drawn from the holding itself, not bought as ordinary equipment, and the three of them take the same thing: a headache, a word, a face, always small and always gone before it is missed. The grade measures extraction stability against entities and says nothing about that. The wing's note is that a set drawn from a jar nobody will open could hardly have been expected to give anything back.
+Each piece is drawn from the holding, not bought as ordinary equipment, and its cost must be logged by piece rather than called identical across the set. Edge leaves a headache and the bearer’s name sounding wrong; Veil makes its wearer difficult to remember while worn; Token briefly removes a familiar word or face. The grade measures extraction stability, not the seriousness of those losses. Record the actual duration and what the bearer missed, even when the loss later passes. The wing's note is that a set drawn from a jar nobody will open could hardly have been expected to give anything back.
 
 ### Field Use Record
 
@@ -323,6 +331,8 @@ The objection is the seventeen. A consent taken afterwards requires somebody to 
 I have no answer. I have not tried to construct one and I will not have one written for the file. We have made no provision, we have appointed no proxy, and every proposal to appoint one has foundered on the same objection, which is that a proxy consent is a consent given by somebody who was not asked, and that is the thing the rule exists to forbid.
 
 The ground is the gauge. Seventy-one retentions in eleven weeks took the gap to three point one millimetres, the widest figure in sixty-one years. Fifty-four releases took it to one tenth, the narrowest. The seventeen are why it has never reached zero, and the file should say so in those words.
+
+**Retention evidence:** Keep a decision made after death separate from an engagement signature, and keep a family’s yes to retention separate from a release already carried out. Neither can be inferred from the other or from a favourable lid reading. Preserve the named cases, the decision’s date, the stated retention period and any withdrawal alongside the rim series. The seventeen without traceable next of kin are not missing names to replace with a convenient proxy; the Director expressly records that no such authority has been appointed. A successful listening session does not supply it, and completing the transcript cannot count as consent.
 
 ## 최종 관찰 (Final Observation)
 
