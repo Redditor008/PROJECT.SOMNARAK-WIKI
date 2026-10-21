@@ -138,3 +138,13 @@
   "table_link": "[Mirror_of_Broken](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-127_Mirror_of_Broken_%EB%B6%80%EC%84%9C%EC%A7%84_%EA%B1%B0%EC%9A%B8.md \"SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울.md\")"
 }
 ```
+
+## Final push and closure receipt
+
+[69f6004e9694f2c065a277b41590706c1e9f623f](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/69f6004e9694f2c065a277b41590706c1e9f623f) — PUSH VERIFIED. The commit blob matches the final full reread and remains reachable from origin. Five fresh closing checks PASS. [Full batch report](B174_CLOSE.md) includes all later-fix holds.
+
+- Essential modes unresolved: primarysaysonlydreams/invisibletoinstruments/neveractsonwaking yetphotographedandsharpphysicalfloorfield pluswakingminutecontact/crushattacks. Do notinvent a lucid-exposure mode. Existingdreamfigure andfloorpieces canberelated butthecausalbridge/scope notestablished.
+- SamecurrentitemB explicitlyRestingMaul/Activeblackimpactpaths/maul-headcradle against heading/AppearancePrism andarchetypeRoom versusMedium3. Filenamealone notconflict; actualofficialformtable andshutdownare. No maul-to-prismtransition manufactured.
+- SourceDdarkcoolthree-seamtile versusprimarywarmneargrief/singleage canbeconditional marker, notautomaticconflict; mandatorysame-daywrittenrecollection versusabsolute no-description remainsunresolved inprimaryStigmaEffect despiteFieldUsemorecarefulprivacy. No newpermissioninvented.
+- Interactionopener saysEmptyMaskremovedpiece, actualtablerisesfacecount; differentcounttypes mayexplain butnotproved. Face4/7/11versusphysical9→61 arenotautomaticallysamecounter. Headerformer selfimagesversusunidentifiedsamepersongroundpieces andneverviewerform scopesneedrecords.
+- Recorddetail retainedhistoricalEchoIIβLow note nowmatchesMasterTale history butcurrentprimaryRegistrumIIIγMajor; no erasethistoricalrecord. NormalfixedGateversuszoneenlargement doesnotrequiresphysicalescape; 2/75/65 thresholds andoneevent14faces keptdistinct.

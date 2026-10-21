@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch174 OPEN5/5.** Owner p authorizes174 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B174_OPEN.json). No175/merge/art/deployment.
+**Latest: Batch174 CLOSED5/5.** Two completed written designs and three held; 58 supported repairs. Equipment coverage +2 Types/+2 Weapon; SE +2. [Full report](SE_APPEARANCE_REVIEWS/B174_CLOSE.md). No175/merge/art/deployment.
 
 **Previous: Batch173 CLOSED5/5.**41supported repairs, fiveHELD, No change0/5. Equipmentcoverage+3Types/+3Weapon;SE+0. [Batch report](SE_APPEARANCE_REVIEWS/B173_CLOSE.md). No174/merge/art/deployment.
 
@@ -21,9 +21,9 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 
 | Workstream | Completed | Coverage | Remaining |
 |---|---:|---:|---:|
-| ALL M.A.W. Types Appearance per SE — source-review coverage | 263 / 301 | 87.38% | 38 / 301 |
-| ALL M.A.W.-W Appearance per SE — source-review coverage | 262 / 287 | 91.29% | 25 / 287 |
-| SE Appearance Fix — independent written-design pass | 16 / 301 | 5.32% | 285 / 301 |
+| ALL M.A.W. Types Appearance per SE — source-review coverage | 265 / 301 | 88.04% | 36 / 301 |
+| ALL M.A.W.-W Appearance per SE — source-review coverage | 264 / 287 | 91.99% | 23 / 287 |
+| SE Appearance Fix — independent written-design pass | 18 / 301 | 5.98% | 283 / 301 |
 
 These are coverage counters, **not promises that every held discrepancy is repaired**. The first two retain their historical criteria and explicit source holds. The new counter starts at zero; old equipment reviews, general prose fixes, shape screening and the R-32 clarification are not backfilled as SE appearance completions.
 
@@ -1371,3 +1371,34 @@ No change0/5: no extension beyondfive; these full bespoke narratives and interac
 ### Batch174 unit5 — OPEN5/5
 
 [Risus evidence](SE_APPEARANCE_REVIEWS/B174_05_RISUS.md): CHANGED, 11supported repairs, full final reading and five actual checks. No change0/5.
+
+## Batch174 CLOSED 5/5 — 2026-10-22
+
+Five complete primary/source/final reviews are finished. Uprooted and Risus complete the independent written-design pass; the other three remain held. No change: 0/5.
+
+There are 58 supported replacements: 25 batch-short and 33 careful-detail, declared before the relevant edits. LC_ALL=C words: 32,585 → 35,307 (+2,722). Every dossier was individually validated, committed and push-verified. Both WIP and CHANGELOG were updated after every unit.
+
+The three independent counters are:
+- **ALL M.A.W. Types Appearance per SE:** 265/301 (88.04%); 36/301 remain.
+- **ALL M.A.W.-W Appearance per SE:** 264/287 (91.99%); 23/287 remain. Fourteen dossiers remain outside paired scope.
+- **SE Appearance Fix:** 18/301 (5.98%); 283/301 remain.
+
+This batch adds +2 Types, +2 Weapon and +2 SE completions. Equipment coverage includes explicit holds; it is not artwork completion. States: 14 changed, 4 retained, 131 held, 2 blocked, 150 pending.
+
+Fresh closure checks passed 25/25. All 54 tests and four archive-wide audits passed. The 296 unselected dossiers, five reserves, all 301 classification Physical Form rows, source fingerprints, digit sequences and primary Tales are unchanged. All replacements reconstruct the reviewed final files and match their individual commit blobs.
+
+The five individually pushed reviews:
+
+| Dossier | Repairs short/careful | Words | Checks / design | Commit / push |
+|---|---:|---:|---|---|
+| [Uprooted](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-959_Uprooted_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%BF%8C%EB%A6%AC.md "SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md") `O-IIIγ-959` | 10/8 | 6495→7150 | Five PASS; CHANGED | [0ebd5fe8](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/0ebd5fe875e488767276906a05bc4101937a5eaf) PUSH VERIFIED |
+| [Chain_of_Memories](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-200_Chain_of_Memories_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%82%AC%EC%8A%AC.md "SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md") `N-IIIβ-200` | 4/7 | 6496→7040 | Five PASS; HELD | [c2e0cd2d](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/c2e0cd2d7495b5b636d1235fbb103379018f3725) PUSH VERIFIED |
+| [Ninety_Seconds](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-918_Ninety_Seconds_%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94_%EC%83%9D%EA%B0%81.md "SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md") `C-IVδ-918` | 3/6 | 6503→7037 | Five PASS; HELD | [3ffc0ca6](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/3ffc0ca6de2e49c68313ce7da8f727e6257db764) PUSH VERIFIED |
+| [Mirror_of_Broken](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-127_Mirror_of_Broken_%EB%B6%80%EC%84%9C%EC%A7%84_%EA%B1%B0%EC%9A%B8.md "SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울.md") `N-IIIγ-127` | 4/5 | 6534→6967 | Five PASS; HELD | [69f6004e](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/69f6004e9694f2c065a277b41590706c1e9f623f) PUSH VERIFIED |
+| [Risus](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-150_Risus_%EC%9B%83%EC%9D%8C%EC%9D%98_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-C-Iα-150_Risus_웃음의_메아리.md") `C-Iα-150` | 4/7 | 6557→7113 | Five PASS; CHANGED | [4452575c](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/4452575cf7992bd6cf020c40dab7259ed69ea8aa) PUSH VERIFIED |
+
+[Full evidence](SE_APPEARANCE_REVIEWS/B174_CLOSE.json)
+
+The owner’s p authorized Batch174 only. Selection was fresh pending-only shortest LC_ALL=C word count, with designation ties; it was not a defect ranking. The frozen order was followed without substitution. No change0/5 does not trigger the cumulative-three 5→7→10 extension.
+
+No Batch175 is authorized. PR14 remains OPEN and draft against NON-WIKI; the owner controls merging. No merge or deployment was performed. Batch301 is still blocked on eight owner-supplied bodies, one4+4 operation, with generation and validation before wiki copy. Later complete rechecking and supported fixes remain available.

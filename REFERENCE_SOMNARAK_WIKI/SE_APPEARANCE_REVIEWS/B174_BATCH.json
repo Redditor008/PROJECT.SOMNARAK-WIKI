@@ -1,6 +1,6 @@
 {
   "batch": 174,
-  "status": "OPEN",
+  "status": "CLOSED",
   "required": 5,
   "completed": 5,
   "no_change": 0,
@@ -181,7 +181,9 @@
         "se": 1
       },
       "link": "[[SE-O-IIIγ-959_Uprooted_솟아오른_뿌리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-959_Uprooted_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%BF%8C%EB%A6%AC.md \"SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md\")]",
-      "table_link": "[Uprooted](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-959_Uprooted_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%BF%8C%EB%A6%AC.md \"SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md\")"
+      "table_link": "[Uprooted](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-959_Uprooted_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%BF%8C%EB%A6%AC.md \"SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md\")",
+      "commit": "0ebd5fe875e488767276906a05bc4101937a5eaf",
+      "push": "PUSH VERIFIED"
     },
     {
       "designation": "N-IIIβ-200",
@@ -301,7 +303,9 @@
         "se": 0
       },
       "link": "[[SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-200_Chain_of_Memories_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%82%AC%EC%8A%AC.md \"SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md\")]",
-      "table_link": "[Chain_of_Memories](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-200_Chain_of_Memories_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%82%AC%EC%8A%AC.md \"SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md\")"
+      "table_link": "[Chain_of_Memories](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-200_Chain_of_Memories_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%82%AC%EC%8A%AC.md \"SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md\")",
+      "commit": "c2e0cd2d7495b5b636d1235fbb103379018f3725",
+      "push": "PUSH VERIFIED"
     },
     {
       "designation": "C-IVδ-918",
@@ -408,7 +412,9 @@
         "se": 0
       },
       "link": "[[SE-C-IVδ-918_Ninety_Seconds_반복되는_생각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-918_Ninety_Seconds_%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94_%EC%83%9D%EA%B0%81.md \"SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md\")]",
-      "table_link": "[Ninety_Seconds](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-918_Ninety_Seconds_%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94_%EC%83%9D%EA%B0%81.md \"SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md\")"
+      "table_link": "[Ninety_Seconds](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-918_Ninety_Seconds_%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94_%EC%83%9D%EA%B0%81.md \"SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md\")",
+      "commit": "3ffc0ca6de2e49c68313ce7da8f727e6257db764",
+      "push": "PUSH VERIFIED"
     },
     {
       "designation": "N-IIIγ-127",
@@ -519,7 +525,9 @@
         "se": 0
       },
       "link": "[[SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-127_Mirror_of_Broken_%EB%B6%80%EC%84%9C%EC%A7%84_%EA%B1%B0%EC%9A%B8.md \"SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울.md\")]",
-      "table_link": "[Mirror_of_Broken](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-127_Mirror_of_Broken_%EB%B6%80%EC%84%9C%EC%A7%84_%EA%B1%B0%EC%9A%B8.md \"SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울.md\")"
+      "table_link": "[Mirror_of_Broken](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-127_Mirror_of_Broken_%EB%B6%80%EC%84%9C%EC%A7%84_%EA%B1%B0%EC%9A%B8.md \"SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울.md\")",
+      "commit": "69f6004e9694f2c065a277b41590706c1e9f623f",
+      "push": "PUSH VERIFIED"
     },
     {
       "designation": "C-Iα-150",
@@ -638,7 +646,10 @@
         "se": 1
       },
       "link": "[[SE-C-Iα-150_Risus_웃음의_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-150_Risus_%EC%9B%83%EC%9D%8C%EC%9D%98_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-C-Iα-150_Risus_웃음의_메아리.md\")]",
-      "table_link": "[Risus](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-150_Risus_%EC%9B%83%EC%9D%8C%EC%9D%98_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-C-Iα-150_Risus_웃음의_메아리.md\")"
+      "table_link": "[Risus](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-150_Risus_%EC%9B%83%EC%9D%8C%EC%9D%98_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-C-Iα-150_Risus_웃음의_메아리.md\")",
+      "commit": "4452575cf7992bd6cf020c40dab7259ed69ea8aa",
+      "push": "PUSH VERIFIED"
     }
-  ]
+  ],
+  "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_CLOSE.json"
 }

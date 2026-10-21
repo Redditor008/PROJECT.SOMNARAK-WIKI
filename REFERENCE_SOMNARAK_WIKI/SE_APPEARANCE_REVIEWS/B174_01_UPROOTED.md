@@ -172,3 +172,12 @@
   "table_link": "[Uprooted](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-959_Uprooted_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%BF%8C%EB%A6%AC.md \"SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md\")"
 }
 ```
+
+## Final push and closure receipt
+
+[0ebd5fe875e488767276906a05bc4101937a5eaf](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/0ebd5fe875e488767276906a05bc4101937a5eaf) — PUSH VERIFIED. The commit blob matches the final full reread and remains reachable from origin. Five fresh closing checks PASS. [Full batch report](B174_CLOSE.md) includes all later-fix holds.
+
+- Equipment prose calls rifle long-range while exact core/archetype sayShort; retain range2 and descriptivecomparison rather than invent newnumericrange. Requiem/Graveweed/Uprooted naming remains explicit legacy, matching riflebodynotforcedrenamed.
+- SourceD +1 workingstat unnamed; no inventednamedbonus. GenericRegistryAccessory versus Tail is metadata specificity, not proof of a newitem. Sharedsetcost doesnot erase separatelyrecordedweeping/sleep/sorrow; laterbearer/cycle recheck retained.
+- Foundations improve while intervals shorten; all sites can still beunstable. No claim offacilityculpability established. Unmapped occupied-ground escalation is a stated conditional hazard, not proof of a twentieth normalvisitedsite. Flameheightchanges under Work distinctfrom ordinary lowburn; no invented alternateform.
+- Master index calls Stigma Floating Orbs & Coronets, while primary describes seedcase and exactD fixesTail; do not invent floating mode or crown transformation. Equipment-specific taxonomy remains a later-fix hold, independent of coherent headless source design. Generic translatedEscapemetadata is nowdefinedasdeparturefromroute, notnewcellstate.

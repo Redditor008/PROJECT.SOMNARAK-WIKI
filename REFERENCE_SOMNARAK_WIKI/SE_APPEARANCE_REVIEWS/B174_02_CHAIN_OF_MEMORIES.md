@@ -148,3 +148,14 @@
   "table_link": "[Chain_of_Memories](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-200_Chain_of_Memories_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%82%AC%EC%8A%AC.md \"SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md\")"
 }
 ```
+
+## Final push and closure receipt
+
+[c2e0cd2d7495b5b636d1235fbb103379018f3725](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/c2e0cd2d7495b5b636d1235fbb103379018f3725) — PUSH VERIFIED. The commit blob matches the final full reread and remains reachable from origin. Five fresh closing checks PASS. [Full batch report](B174_CLOSE.md) includes all later-fix holds.
+
+- Essential state hold: exact1020A saysCanbreachviaTransform while primary explicitlynonbreachingactivationonly and observedneverpursued. No transformationtrigger/form record establishes both states; do not inventamobilechainstage.
+- OrdinaryWork says orderunchanged, while InheritedDebt pairingreorders; distinctconditionalinteraction explains difference, notautomaticbodyconflict. Foundcoiled aftergrowth doesnotprovewitnessedselfmovement. Reliefofcontact versus permanentexchange differentiated, notclaimedidenticalduration.
+- Weapon sameitemprimaryflail, MasterBLUNTMaul and archetypeRoomcurvedFuneralDao withno Appearance inB. KeepShortcore values, holdsameitemgeometry/rangetaxonomy; donotresolvebyclaiming sourcechainneedsto looklikegear.
+- SourceDgenericworking+1 vsprimarycount-onlyResolve; sourceCfatigue vsprimarydreamcost; Bage/heaviness vsprimaryorderloss preserved separately; benefits canbeadditional, notautomaticallyexclusive. Historical EchoIIRegistrum explicitlypreservedwith4229 re-survey note; currentFragmentIIIoperationalclassification unchanged.
+- FinalObservation speechchoiceagainststandingnonamingrule and neutral/stablefailurecellwithgaugeclimbs needsobservedauthorisedcontext; noautomaticallyinventedexception. Combat touch/pullhazards do notdemonstrateownerconnectionwithonlyone triggerhalf. Laterfullrecheck retained.
+- Whole-file reread also retains a real end/image ambiguity: Material says newest visible/oldest faceless, but escalation says38of41 additions faceless atsameend and Weaver addsfaceless atfarend. Do notassign a manufactured end-switch chronology. Sourceprofileaddition repeats visual Materialbaseline, not claim everynewadditionvisible. InteractionPattern sayslengthonly despiteorder/imagechanges, and FullUnraveling allfaces versusblanklinkbaseline needsconditional evidence. These remainwhole-design holds.

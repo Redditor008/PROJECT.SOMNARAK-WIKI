@@ -134,3 +134,13 @@
   "table_link": "[Ninety_Seconds](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-918_Ninety_Seconds_%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94_%EC%83%9D%EA%B0%81.md \"SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md\")"
 }
 ```
+
+## Final push and closure receipt
+
+[3ffc0ca6de2e49c68313ce7da8f727e6257db764](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/3ffc0ca6de2e49c68313ce7da8f727e6257db764) — PUSH VERIFIED. The commit blob matches the final full reread and remains reachable from origin. Five fresh closing checks PASS. [Full batch report](B174_CLOSE.md) includes all later-fix holds.
+
+- Normal fixedradius and lackofmaterialbody do notautomaticallyconflict with exceptional sectorwideMindCollapse. However genericExpansionmovementcorruptingeverything/radiatingeffect versus absolute nothingcomesout, plus Transformlabel without documentednewstate remainunclearlyscoped. Do notinvent breachbody or erase exceptionaloccurrence.
+- Sameitemequipment: archetypeCloseTimerDial vsprimary/BnearcolourlessShortblade; Dstone vsprimaryglasstoken. Keepgeometryhold, notdonor/derivedshapehold. SourceBNotRecordedeventimagery notevidenceofsecretincident.
+- A/genericsetresolutionGaugeuntilcontained versus actualpersonexits/contentfreequestion. NoInstrumentreadout vs operationalGauge/513HP and vessel/dust mechanics arelabelledsimulation; no newvisiblemeter invented.
+- 19yearrecord versus28year/32yearadministrativeprogression,211cycles/202firstexits/9failures versus311repeatreturns/22workers,19neededsecond vs9failure scopes remainunproved. Long-pass failure and thought-contentquestion maybothoccur butnotclaimedexclusivecause.
+- Counter3 versus60%activation and65%exceptionthreshold retained distinctly, no inventedcounterdecrement. Retrospectiveflagprivacyproblem and missingexitquestionreservation remedy remainseparate; no externallegalclaim or unapprovedremedy. Latercomplete recheck retained.

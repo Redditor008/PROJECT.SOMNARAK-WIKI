@@ -146,3 +146,13 @@
   "table_link": "[Risus](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-150_Risus_%EC%9B%83%EC%9D%8C%EC%9D%98_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-C-Iα-150_Risus_웃음의_메아리.md\")"
 }
 ```
+
+## Final push and closure receipt
+
+[4452575cf7992bd6cf020c40dab7259ed69ea8aa](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/4452575cf7992bd6cf020c40dab7259ed69ea8aa) — PUSH VERIFIED. The commit blob matches the final full reread and remains reachable from origin. Five fresh closing checks PASS. [Full batch report](B174_CLOSE.md) includes all later-fix holds.
+
+- Equipment-onlyholds: archetypeMedium vs Short2; MasterStigmaRingsHandSeals versus tinyTailBell; CSVCombatVariable/Multiplier metadata incomplete. No donor/equipmentshape conflict inferred.
+- BellStatInterpretationsaysringswheneverwearerlaughs anywhere, whereas exactDrequireswillingtwo-personhold andcorrosiontoneonlyinhead. Newcareparagraphdoesnotinvent a normalexception or erase oldclaim; sameitemtrigger/context later-fix hold.
+- SourceApressure3–10 vsprimary3–9; historicMasterTaleIVγPlaceLament/Level3/Flerehan preserved, currentheader/exactA IαObjectPlaceSubjectLament and validWork govern thisreview. No retronegative bodycredit orcanonrewrite.
+- Voicecensus40–60includes11 versus40–60plus11 and facenames unknown keptas unresolvedcohortprecision, notinventednewbody or assumedelevennewvoices. Loopcontributions areobserved; audiblesize/membership uncertaintydoesnot requireanunknownentityform.
+- No claimofvanishingcause: TaleHan/Collectors/attrition alternatives retained. Sourceaudio-not-captured versus protectedderivedaudibleequipment isnotcontradiction. Genericcombatcuttingwave treatedascomposurepressure, notproofphysicalwavevibration. Laterwhole-record/stat/indexrecheck retained.
