@@ -1,4 +1,32 @@
 # Work In Progress
+## Batch172 unit3 — Forgotten Soul `O-IIIγ-233`
+
+[[SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-233_Forgotten_Soul_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%98%81%ED%98%BC.md "SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼.md")]
+
+**Original/source review and predeclared R18 scope:** Whole409-line primary; exact233A–D complete; Master589–591tables/details7370–7402, Entity565, completeTale197:11017–11072, CSV514–517/archetype152/disposition387 read. R18predeclared0batch-short/11careful-detail. Outsideerasure→SubjectLament/Fragment→verifiedstreet/uncorroboratedCollector/reportedGallery→translucence/salt/rain/gait→ordinaryroute and explicitpauses→Work/obstruction/returns→pairedwitnessmaterialization andpiececare traced. Qualifying ordinarywalking against explicit exceptional observations is supported and not a fabricated transformation.
+
+**Sources/history:** B106unit2 cd810509 exactprimary233→Side233A SoultheLedgersLost→SE233B/MAW-W233-01 alreadycountedfullsetandWeapon; current/archivedlogs andprimaryreviewmarker read, precedingproseB56/B57notnewcredits. No+equipment. A/B7–12Fast3Medium3max3/40 agree numericwithCarbine, but exactSkewer100/70/50 not a riflecoveragecrosswalk. C L.4/G1/V1.6/W.8max3/35, DTail4%+2Claritysourcework; CSV5% held. Gitprimary10cd20a onlycurrentclonedhistory. SourceA75%routecorrupt/wallcrack comparedprimarynamesfading; no sourcedcarbine→bladeconversion.
+
+**What changed:** Qualify five perpetual-walking shorthand claims with the actual registry-drawer and activation pauses; correct never-entered-building shorthand against the explicit hall destination. Add salt/rain/gait identification and separate watch distance, route length and evidence provenance. Preserve the unidentified two-piece effect scope, describe nonbodily acquisition, and add Shroud/Thread-specific return care without turning blade care into firearm instructions.
+
+**Final whole-file reasoning:** HELD: a walking humanlike trace is supported by this erasedperson sorrow, and documented exceptional stops are not a contradictory species or new anatomy. Supported route/provenance/return repairs do not resolve same-item firearm/blade, witnesscertainty, attack and pace accounts. SE+0, equipment+0/+0.
+
+**Holds / later recheck:**
+- Carbine/gun/reloadammunition versus exactRequiemHancrystalblade/Skewer and Mastertable/detail split: no transition, no imported riflefalloff or blade shutdown credited to rifle.
+- Unspecifiedtwo-piecefading effect remains unidentified; no inferred subset or automaticmonthclearance. Tail4% versus CSV5% and Masterfloatingorbcategory retained.
+- Ordinarypace1.95/unvarying versus slowing/turnwisebreachacceleration; observedpauses real, but breachonlypause claim versus activationstop and neverchangesdirection versus turn require further exact event scope.
+- Aresonancefaceheldforroute versus endlesslychangingface needs recordedresonance-qualified identification; no confirmed recoveredface or full biography.
+- Galleryclaimsverifiedfragments versus Unknownoccupation/relationships/allfragmentsonecitizen and methodhasnevermatched; commissioning11lines versus11sentences not conflated. Taleassertedfriends/Veilmechanism versus archivesunconfirmeddeletion retained as sourceattributionneeds.
+- Primaryneverattacksunlessobstructed versus addressed/contact/namefulllifetransfer triggers; no new attackpermission. Week10points versus perperson10%, abandonedcircuit/wardclosure thresholds retain separate parameters.
+
+**Commentary:** Admitting not knowing is the concrete act of care here. A nicer name would still be an invention. The empty numbered line can recognise someone without pretending to recover them, which is why I kept the Gallery fragments and the commissioning leaf distinct rather than using either as an easy solution.
+
+**Checks and integrity:** Five actual verify/tpl/sectfile/wikistd/sect PASS, full final read after checks, final hash matches. 11 exact replacements; LC_ALL=C words6257→6795. Source hashes and unchanged digit streams retained. Detailed evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_03_FORGOTTEN_SOUL.md`. Gate/push follows. Written-design review, not artwork/render/browser/game/live-site inspection. Equipment+0/+0;SE+0, no duplicate/retroactive/body/art credits.
+
+**Validation disclosures:** None.
+
+**Progress:** OPEN3/5, No change0/3. Three counters Types259/301=86.05%(42remain),Weapon258/287=89.90%(29remain),SE16/301=5.32%(285remain). No173/merge/deployment/artwork. Later full recheck and301eight-owner-body/one4+4/generate-before-copy blocker retained.
+
 ## Batch172 unit2 — Cracked Flesh `C-IIIγ-921`
 
 [[SE-C-IIIγ-921_Cracked_Flesh_균열의_들판](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-921_Cracked_Flesh_%EA%B7%A0%EC%97%B4%EC%9D%98_%EB%93%A4%ED%8C%90.md "SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md")]
