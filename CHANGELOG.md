@@ -8,6 +8,32 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch167 unit2 — Unwaking Block `N-IIIγ-908`
+
+[[SE-N-IIIγ-908_Unwaking_Block_잠드는_구역](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-908_Unwaking_Block_%EC%9E%A0%EB%93%9C%EB%8A%94_%EA%B5%AC%EC%97%AD.md "SE-N-IIIγ-908_Unwaking_Block_잠드는_구역.md")]
+
+**Original full review / supported scope:** Complete363-line primary and exact908A–D read. Place-Dream is anomalous architecture around living sleepers, not Organic anatomy. Building immobility, shifting survey routes and annexing door are distinct spatial conditions. Sorrow is custodial continuing sleep and irreversible domestic loss, with district nurses/families distinct from survey party. Trace includes clock-called Work/Gauge, generic physical suppression/targeted combat, plans, paper-only pairings, resident history and derived rod/lining/plate gear. Scope: actual architectural label, annexation rather than unqualified Transform, risk role, successful session condition, no demonstrated physical suppression, concrete domestic/spatial/witness organisation.
+
+**Sources and history:** Exact908A–D, registry991–994, archetype361 and disposition344 read; no dedicated Master exact-name match found. Primary/B γLament14–19 Normal2 Short2 Single100%4/25; C L/G/V/W.3/1/1.2/.8 4/20; DHead5%+1 align. Same Weapon Short sleeping-isometric-block archetype versus primary crystal blade and B headache versus primary two nights heavy sleep remain. Archived B36unit2 0287db5, B45unit8 quote and B49unit7 prose history read, not unique equipment-review proof. +0/+0 conservatively withheld rather than inferred duplicated or unique.
+
+**Changes:** Six repairs identify architectural rather than Organic form, actual connecting-door annexation, Major rather than Sovereign role, successful timed-session rather than unsupported onset claim, mapping rather than unsupported physical suppression, and detailed domestic/occupant/route/equipment distinctions.
+
+**Complete final review:** HELD: supported architectural form, moving interior versus fixed block and door-annexation are now concrete. Resident count/chronology, combat/containment and same-item source claims remain unresolved. No hold is based merely on a portable item differing from its place donor. Complete final primary reread in document order after five actual validators; hash matches the recorded version.
+
+**Holds / later recheck:**
+
+- 212 original sleepers all same night versus nine annexed people now part of212 versus nine joined212 needs population/chronology evidence; no count normalized.
+- Generic attacking/cornered/unfed combat and VesselDestructible versus custodial holding around living residents and no harm; no successful destruction/suppression claim invented.
+- Per-turn drain and threshold3/60/65 versus per-building Gauge and return after twice mapping remain unjoined.
+- Same Weapon crystal blade versus sleeping-block archetype and B headache versus primary two-night sleep; bearer-as-new-site is not ordinary architectural movement. Token recovery in a one-plan-only room can coexist with a plate taken from a planned door: no separate conflict asserted without proof of a prior-plan requirement.
+- Final reread retains RecommendedResponse completed-plan wording versus mandated half-drawn exit and clean-return Gauge relief. District sleepers versus facility gear remain separate; no waking remedy inferred.
+
+**Commentary:** The district nurses and accompanied family visits stop this becoming an empty haunted-house map. Leaving the best plan unfinished when called is the right expression of care under an unreliable space.
+
+**Evidence:** `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B167_02_UNWAKING_BLOCK.md`. 6 supported replacements; LC_ALL=C wc -w4767→5036. Verify/tpl/sectfile/wikistd/sect PASS; raw checks and before/final/source fingerprints in receipt. Written-design review only; no illustration, rendered page, browser, game or deployed-site checked. Equipment +0/+0; written-design +0; no duplicate equipment/body/art credit.
+
+**Batch:** OPEN2/5, No change0/2. Counters remain255/30184.72%(46remaining),255/28788.85%(32remaining),16/3015.32%(285remaining) unless independent completed design is explicitly recorded. Mandatory individual gate/push follows. No close below required rung; no168/merge/deployment;301owner-eight-body one4+4/generate-before-copy blocker and later full recheck remain.
+
 ## Batch167 unit1 — Dead Air `N-IIIγ-929`
 
 [[SE-N-IIIγ-929_Dead_Air_유령의_압력](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md "SE-N-IIIγ-929_Dead_Air_유령의_압력.md")]
