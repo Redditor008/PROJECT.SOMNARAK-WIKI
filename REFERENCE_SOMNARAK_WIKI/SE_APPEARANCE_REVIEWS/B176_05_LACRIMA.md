@@ -138,3 +138,7 @@
   "table_link": "[Lacrima](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-905_Lacrima_%EC%98%81%ED%98%BC%EC%9D%98_%EA%B7%B8%EB%A6%87.md \"SE-N-Iα-905_Lacrima_영혼의_그릇.md\")"
 }
 ```
+
+## Verified push and final closure
+
+[e29030738996739b2de094ee36bbaa1b7ec0043e](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/e29030738996739b2de094ee36bbaa1b7ec0043e) — PUSH VERIFIED. Final whole-file reading hash matches reachable individual commit blob. Five fresh closing checks PASS. [Full report](B176_CLOSE.md). Whole design remains HELD; equipment increments+0/+0, SE+0.

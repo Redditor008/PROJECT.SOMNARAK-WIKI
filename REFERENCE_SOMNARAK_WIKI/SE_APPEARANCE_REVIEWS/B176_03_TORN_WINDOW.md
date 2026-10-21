@@ -146,3 +146,7 @@
   "table_link": "[Torn_Window](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-686_Torn_Window_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%B0%BD.md \"SE-N-Iα-686_Torn_Window_찢어진_창.md\")"
 }
 ```
+
+## Verified push and final closure
+
+[1cf21e0ea9f3abdfa2e7e74e8897fc97398686f4](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/1cf21e0ea9f3abdfa2e7e74e8897fc97398686f4) — PUSH VERIFIED. Final whole-file reading hash matches reachable individual commit blob. Five fresh closing checks PASS. [Full report](B176_CLOSE.md). Whole design remains HELD; equipment increments+0/+0, SE+0.

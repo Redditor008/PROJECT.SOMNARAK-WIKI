@@ -146,3 +146,7 @@
   "table_link": "[Flotsam](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-782_Flotsam_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%9C%A0%EB%AC%BC.md \"SE-C-IIβ-782_Flotsam_번져가는_유물.md\")"
 }
 ```
+
+## Verified push and final closure
+
+[e269619f35786568fb584b86fd0ed8a709d2bfd7](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/e269619f35786568fb584b86fd0ed8a709d2bfd7) — PUSH VERIFIED. Final whole-file reading hash matches reachable individual commit blob. Five fresh closing checks PASS. [Full report](B176_CLOSE.md). Whole design remains HELD; equipment increments+1/+1, SE+0.

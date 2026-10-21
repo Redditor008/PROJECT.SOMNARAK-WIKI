@@ -140,3 +140,7 @@
   "table_link": "[Holdout](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-240_Holdout_%EC%82%AC%EB%9D%BC%EC%A7%84_%EC%9E%94%ED%95%B4.md \"SE-C-IIβ-240_Holdout_사라진_잔해.md\")"
 }
 ```
+
+## Verified push and final closure
+
+[d7a5574594d04c5bc54478405f13be079b46ae9d](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/d7a5574594d04c5bc54478405f13be079b46ae9d) — PUSH VERIFIED. Final whole-file reading hash matches reachable individual commit blob. Five fresh closing checks PASS. [Full report](B176_CLOSE.md). Whole design remains HELD; equipment increments+0/+0, SE+0.

@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch176 OPEN5/5.** Owner p authorizes176 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B176_OPEN.json). No177/merge/art/deployment.
+**Latest: Batch176 CLOSED5/5.** Five HELD whole designs;45 supported repairs. Equipment coverage+1 Types/+1 Weapon; SE+0. [Full report](SE_APPEARANCE_REVIEWS/B176_CLOSE.md). No177/merge/art/deployment.
 
 **Previous: Batch175 CLOSED5/5.** Five HELD whole designs;49 supported repairs. No new Types/Weapon/SE credits. [Full report](SE_APPEARANCE_REVIEWS/B175_CLOSE.md). No176/merge/art/deployment.
 
@@ -1473,3 +1473,30 @@ Selection was fresh pending-only shortest LC_ALL=C word count with designation-b
 ### Batch176 unit5 — OPEN5/5
 
 [Lacrima evidence](SE_APPEARANCE_REVIEWS/B176_05_LACRIMA.md): HELD, 8supported repairs, full final reading and five actual checks. No change0/5.
+
+## Batch176 CLOSED 5/5 — 2026-10-22
+
+Five fresh complete primary/source/final reviews are finished in the frozen order. All five whole written designs remain HELD. This closes the review batch, not five completed appearance fixes. No change: 0/5.
+
+45 supported repairs: 23 batch-short and 22 individually authored careful-detail. LC_ALL=C words33,345→36,077 (+2,732). Every unit has five actual checks, full final reading, evidence, independent Commentary, WIP/CHANGELOG updates and a separate verified push.
+
+Three independent counters:
+- **ALL M.A.W. Types Appearance per SE — source-review coverage:** 266/301 (88.37%); 35/301 remain.
+- **ALL M.A.W.-W Appearance per SE — source-review coverage:** 265/287 (92.33%); 22/287 remain. Fourteen dossiers are outside the paired denominator.
+- **SE Appearance Fix — independent written-design pass:** 18/301 (5.98%); 283/301 remain.
+
+Batch increments: +1 Types, +1 Weapon (Flotsam only), +0 SE. Equipment coverage includes unresolved source holds, not finished artwork. Ledger:14 changed,4 retained,141 held,2 blocked,140 pending. Paused025/scope-unconfirmed062 stay excluded from credits; non-SE Book remains outside the corpus.
+
+Fresh closing checks25/25 PASS; all54 tests and four archive-wide audits PASS. Exact45-replacement reconstruction matches all five final hashes and individual commit blobs. The296 unselected dossiers, five reserves, digit sequences, primary Tales and fingerprinted sources remain unchanged. Two supported Physical Form rows changed; other299 rows remain byte-identical.
+
+| Dossier | Repairs short/careful | Words | Checks / design | Commit / push |
+|---|---:|---:|---|---|
+| [Holdout](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-240_Holdout_%EC%82%AC%EB%9D%BC%EC%A7%84_%EC%9E%94%ED%95%B4.md "SE-C-IIβ-240_Holdout_사라진_잔해.md") `C-IIβ-240` | 5/4 | 6589→7108 | Five PASS; HELD | [d7a55745](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/d7a5574594d04c5bc54478405f13be079b46ae9d) PUSH VERIFIED |
+| [Thinking_Engine](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-904_Thinking_Engine_%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94_%EA%B8%B0%EA%B3%84.md "SE-C-IIIγ-904_Thinking_Engine_생각하는_기계.md") `C-IIIγ-904` | 4/4 | 6612→7115 | Five PASS; HELD | [f4c56cc3](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/f4c56cc30292e11e9faffbdf550181b8977fe15c) PUSH VERIFIED |
+| [Torn_Window](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-686_Torn_Window_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%B0%BD.md "SE-N-Iα-686_Torn_Window_찢어진_창.md") `N-Iα-686` | 6/4 | 6658→7177 | Five PASS; HELD | [1cf21e0e](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/1cf21e0ea9f3abdfa2e7e74e8897fc97398686f4) PUSH VERIFIED |
+| [Flotsam](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-782_Flotsam_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%9C%A0%EB%AC%BC.md "SE-C-IIβ-782_Flotsam_번져가는_유물.md") `C-IIβ-782` | 5/5 | 6712→7299 | Five PASS; HELD | [e269619f](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/e269619f35786568fb584b86fd0ed8a709d2bfd7) PUSH VERIFIED |
+| [Lacrima](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-905_Lacrima_%EC%98%81%ED%98%BC%EC%9D%98_%EA%B7%B8%EB%A6%87.md "SE-N-Iα-905_Lacrima_영혼의_그릇.md") `N-Iα-905` | 3/5 | 6774→7378 | Five PASS; HELD | [e2903073](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/e29030738996739b2de094ee36bbaa1b7ec0043e) PUSH VERIFIED |
+
+[Full evidence](SE_APPEARANCE_REVIEWS/B176_CLOSE.json)
+
+Selection: fresh pending-only shortest LC_ALL=C word count, designation-byte ties, not a defect ranking. Queue240→904→686→782→905, no substitutions. Owner p176 discharged after five complete reviews. No change0/5 does not trigger5→7→10. Batch177, merge, artwork and deployment are not authorised. PR14 remains OPEN/draft to NON-WIKI; owner controls merge. Batch301 remains blocked on eight owner-supplied bodies, one4+4 operation, generate/validate before wiki copy. Later full rechecks and supported fixes remain available.
