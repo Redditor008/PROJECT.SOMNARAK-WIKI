@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+**Batch172 closure (2026-10-21): CLOSED5/5 reviews; No change0/5.** 47supported replacements (11batch-short/36careful-detail). C-locale words31,352→33,767(+2,415). Five whole written designs HELD, not five completed appearance fixes.25fresh closingvalidatorruns PASS without waivers;54testsPASS;fourfreshpreclosingauditsPASS.296unselected/fivereserves/digits/allfiveprimaryTales/fingerprinted sources unchanged.47exactoperationsreconstructfinals;all11shortrepairsgrow.300PhysicalFormrows unchanged;921retainsOrganiccategory with non-occupant qualifier. Five individually verified unit commits. Fresh777/554equipmentreviews+2Types/+2Weapon;921/233/622alreadycounted. Counters260/30186.38%(41remain),259/28790.24%(28remain),16/3015.32%(285remain). Ledger12changed/4retained/123held/2blocked/160pending. Laterfullrecheckretained;p172spent,no173/merge/deployment/artwork.301eight-owner-body/one4+4/generatevalidatebeforecopy blocker unchanged.
+
+[Detailed batch report](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_CLOSE.md) · [Machine audit](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_CLOSE.json)
+
+- [Last Fruit](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_01_LAST_FRUIT.md): HELD, 6replacements; verified`46bd526e0cc9b592a39ad2d34e3151e08e731898`.
+- [Cracked Flesh](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_02_CRACKED_FLESH.md): HELD, 9replacements; verified`46289e6710e2c51d6b1ae918cac01c7eda352e52`.
+- [Forgotten Soul](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_03_FORGOTTEN_SOUL.md): HELD, 11replacements; verified`427e3531fc565f30228f89dd9a29b2110038d10f`.
+- [Fallow](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_04_FALLOW.md): HELD, 11replacements; verified`7de76a91867b9364edd646172b026f6d3548236e`.
+- [Vanished Tree](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_05_VANISHED_TREE.md): HELD, 10replacements; verified`9e235bccb079da7cdcd9dfe761ee1450f213450c`.
+
 ## Batch172 unit5 — Vanished Tree `C-Iα-622`
 
 [[SE-C-Iα-622_Vanished_Tree_사라진_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-622_Vanished_Tree_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%82%98%EB%AC%B4.md "SE-C-Iα-622_Vanished_Tree_사라진_나무.md")]

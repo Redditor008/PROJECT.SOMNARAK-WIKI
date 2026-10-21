@@ -18,7 +18,7 @@
   },
   "active_batch": {
     "number": 172,
-    "status": "OPEN",
+    "status": "CLOSED",
     "required": 5,
     "queue": [
       "C-IIβ-777",
@@ -89,7 +89,8 @@
         }
       }
     },
-    "authorization": "Owner p after CLOSED171 authorizes172 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains."
+    "authorization": "Owner p after CLOSED171 authorizes172 only; at least five reviews, cumulative three No change5→7→10; later full recheck remains.",
+    "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_CLOSE.json"
   },
   "dossiers": [
     {

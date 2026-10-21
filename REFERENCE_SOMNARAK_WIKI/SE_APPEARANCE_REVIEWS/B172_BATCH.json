@@ -1,6 +1,6 @@
 {
   "batch": 172,
-  "status": "OPEN",
+  "status": "CLOSED",
   "required": 5,
   "completed": 5,
   "no_change": 0,
@@ -130,7 +130,13 @@
         "se": 0
       },
       "link": "[[SE-C-IIβ-777_Last_Fruit_타오르는_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-777_Last_Fruit_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EC%97%B4%EB%A7%A4.md \"SE-C-IIβ-777_Last_Fruit_타오르는_열매.md\")]",
-      "table_link": "[Last_Fruit](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-777_Last_Fruit_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EC%97%B4%EB%A7%A4.md \"SE-C-IIβ-777_Last_Fruit_타오르는_열매.md\")"
+      "table_link": "[Last_Fruit](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-777_Last_Fruit_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EC%97%B4%EB%A7%A4.md \"SE-C-IIβ-777_Last_Fruit_타오르는_열매.md\")",
+      "commit": "46bd526e0cc9b592a39ad2d34e3151e08e731898",
+      "push_verified": true,
+      "r18": {
+        "batch_short": 2,
+        "careful_detail": 4
+      }
     },
     {
       "designation": "C-IIIγ-921",
@@ -234,7 +240,13 @@
         "se": 0
       },
       "link": "[[SE-C-IIIγ-921_Cracked_Flesh_균열의_들판](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-921_Cracked_Flesh_%EA%B7%A0%EC%97%B4%EC%9D%98_%EB%93%A4%ED%8C%90.md \"SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md\")]",
-      "table_link": "[Cracked_Flesh](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-921_Cracked_Flesh_%EA%B7%A0%EC%97%B4%EC%9D%98_%EB%93%A4%ED%8C%90.md \"SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md\")"
+      "table_link": "[Cracked_Flesh](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-921_Cracked_Flesh_%EA%B7%A0%EC%97%B4%EC%9D%98_%EB%93%A4%ED%8C%90.md \"SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md\")",
+      "commit": "46289e6710e2c51d6b1ae918cac01c7eda352e52",
+      "push_verified": true,
+      "r18": {
+        "batch_short": 3,
+        "careful_detail": 6
+      }
     },
     {
       "designation": "O-IIIγ-233",
@@ -350,7 +362,13 @@
         "se": 0
       },
       "link": "[[SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-233_Forgotten_Soul_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%98%81%ED%98%BC.md \"SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼.md\")]",
-      "table_link": "[Forgotten_Soul](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-233_Forgotten_Soul_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%98%81%ED%98%BC.md \"SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼.md\")"
+      "table_link": "[Forgotten_Soul](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-233_Forgotten_Soul_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%98%81%ED%98%BC.md \"SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼.md\")",
+      "commit": "427e3531fc565f30228f89dd9a29b2110038d10f",
+      "push_verified": true,
+      "r18": {
+        "batch_short": 0,
+        "careful_detail": 11
+      }
     },
     {
       "designation": "O-Iα-554",
@@ -466,7 +484,13 @@
         "se": 0
       },
       "link": "[[SE-O-Iα-554_Fallow_녹슨_씨앗](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-554_Fallow_%EB%85%B9%EC%8A%A8_%EC%94%A8%EC%95%97.md \"SE-O-Iα-554_Fallow_녹슨_씨앗.md\")]",
-      "table_link": "[Fallow](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-554_Fallow_%EB%85%B9%EC%8A%A8_%EC%94%A8%EC%95%97.md \"SE-O-Iα-554_Fallow_녹슨_씨앗.md\")"
+      "table_link": "[Fallow](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-554_Fallow_%EB%85%B9%EC%8A%A8_%EC%94%A8%EC%95%97.md \"SE-O-Iα-554_Fallow_녹슨_씨앗.md\")",
+      "commit": "7de76a91867b9364edd646172b026f6d3548236e",
+      "push_verified": true,
+      "r18": {
+        "batch_short": 4,
+        "careful_detail": 7
+      }
     },
     {
       "designation": "C-Iα-622",
@@ -578,7 +602,14 @@
         "se": 0
       },
       "link": "[[SE-C-Iα-622_Vanished_Tree_사라진_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-622_Vanished_Tree_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%82%98%EB%AC%B4.md \"SE-C-Iα-622_Vanished_Tree_사라진_나무.md\")]",
-      "table_link": "[Vanished_Tree](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-622_Vanished_Tree_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%82%98%EB%AC%B4.md \"SE-C-Iα-622_Vanished_Tree_사라진_나무.md\")"
+      "table_link": "[Vanished_Tree](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-622_Vanished_Tree_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%82%98%EB%AC%B4.md \"SE-C-Iα-622_Vanished_Tree_사라진_나무.md\")",
+      "commit": "9e235bccb079da7cdcd9dfe761ee1450f213450c",
+      "push_verified": true,
+      "r18": {
+        "batch_short": 2,
+        "careful_detail": 8
+      }
     }
-  ]
+  ],
+  "closure": "B172_CLOSE.json"
 }
