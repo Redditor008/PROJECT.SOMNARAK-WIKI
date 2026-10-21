@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-Iα-643": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_03_FROZEN_MIRROR.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_OPEN.json"
@@ -5411,8 +5423,33 @@
     {
       "designation": "O-Iα-643",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-643_Frozen_Mirror_얼어붙은_거울.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: seven supported repairs and fresh independent equipment coverage, but gaze/angle, current reflection and same-item material histories still need evidence. +1 Types/+1 Weapon/+0 SE.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_03_FROZEN_MIRROR.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-643-A__SIDE_CODEX_Vanity.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-643-B__MAW-W_The_Frozen_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-643-C__MAW-S_The_Frozen_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-643-D__MAW-G_The_Frozen_Reflection.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/README.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-Iα-709",
@@ -6799,6 +6836,14 @@
       "batch": 176,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_04_FLOTSAM.md",
       "history_proof": "All-ref primary/exactset history only10cd20a. Exactdesignation/SE782B/MAWW782/FadingFang/name search across current CHANGELOG and current/two archivedWIP found broadprose/artworkonly, no completed exact-pair/fullsetsource disposition; no primary fullset marker or equipmentledger row. Therefore +1Types/+1Weapon, independently of SE hold. Exactformal782 is Flotsam/FadingRelic; sourceC-IIβ-782GS and linkedMaster match, not other entry782. A/B βGrudge5–9/Normal2/Short2/Single100%max4/25; C1/.4/1.8/1.2max4/20; DTail5%+1sourcework agree. ArchetypeShort agrees but straightpatinablade versuslocalcurved noformbridge. MasterLow/ZoneC/Viderehanprimary historically superseded explicitly by currentModerate/ZoneB/FlerehanFerrehan, not majoritymapped.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "O-Iα-643",
+      "batch": 177,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_03_FROZEN_MIRROR.md",
+      "history_proof": "Fresh exact-pair review: current and both archived WIP, CHANGELOG, MAWPersonalize searched designation643/Vanity/FrozenMirror/FrozenFang/Stiletto/FrozenReflection/exactB/MAWW643. Hits concern illustrations, shared prosecleanup or Apnea159’s explicitly separate FrozenFang; none a source-led643pair disposition. All-ref primarylog10cd20a only. Ledger absence alone not used as proof against legacy240/239; records show no prior pair review. +1 Types/+1 Weapon only, not artwork. ExactA O-Iα-643GO joins Vanity/FrozenMirror; Master718 not entry643BrokenDoor; no borrowing159. A/BαGrudge3–6/2/2Single5/15; C1/.4/1.8/1.2max5/10; DTail5%+1Resilience. GenericCSVAccessory separate.",
       "all_types_credit": true,
       "weapon_credit": true
     }

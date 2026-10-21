@@ -1,4 +1,27 @@
 # Work In Progress
+## Batch177 unit3 — Frozen Mirror `O-Iα-643`
+
+[[SE-O-Iα-643_Frozen_Mirror_얼어붙은_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-643_Frozen_Mirror_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EA%B1%B0%EC%9A%B8.md "SE-O-Iα-643_Frozen_Mirror_얼어붙은_거울.md")]
+
+**Original/source review and R18 predeclared scope:** Complete427line primary/exact643A–D/README/Mastertable718–720/detail8789–8820/fullTale24013435–13492/Entity610/CSV791–794/archetype263/R19Neutral361 read. Trace ObjectPlaceIrelic→ObjectLamentGrudge→travellermirrorlosingrecognition→singlefacelessredblackplate→currentdrift/facing→gaze/shorterwearlog/VF→cracks/transform/reflectionfield→sealedstatementrights/interactions/threegear and costs. R18 predeclared4short own grades/drift/tooltime/prohibition,3careful plateorganisation/namedbonus+interpretation/gearlimits.
+
+**Sources/history:** Fresh exact-pair review: current and both archived WIP, CHANGELOG, MAWPersonalize searched designation643/Vanity/FrozenMirror/FrozenFang/Stiletto/FrozenReflection/exactB/MAWW643. Hits concern illustrations, shared prosecleanup or Apnea159’s explicitly separate FrozenFang; none a source-led643pair disposition. All-ref primarylog10cd20a only. Ledger absence alone not used as proof against legacy240/239; records show no prior pair review. +1 Types/+1 Weapon only, not artwork. ExactA O-Iα-643GO joins Vanity/FrozenMirror; Master718 not entry643BrokenDoor; no borrowing159. A/BαGrudge3–6/2/2Single5/15; C1/.4/1.8/1.2max5/10; DTail5%+1Resilience. GenericCSVAccessory separate.
+
+**What changed:** Seven repairs restore α overview, describe passive current drift, remove the false effect-free four-minute guarantee, bring the assessment prohibition forward, name +1 Resilience, and add plate/gaze and independent equipment-cost organisation.
+
+**Final whole-file assessment:** HELD: seven supported repairs and fresh independent equipment coverage, but gaze/angle, current reflection and same-item material histories still need evidence. +1 Types/+1 Weapon/+0 SE.
+
+**Holds / later recheck:**
+- View squareon in recommendation/Story/Flavor/Registry versus Observationoffnormal markedangle; no invented safeangle crosswalk. Gazeactivatesuntilaway versus toolonlywhilecarried/shardhandover and 45%threshold; resolutionvoluntarylookaway+namedanger versus below25%/debrief need scope.
+- Facelesscurrentplate/noaccount returnedface versus combatselfimage/frozenreflection/jawcrack; Talechronology supports lost earlierfaces, not arbitrary new presentform. DriftStationary fixedobject corrected in Movement but combatN/A remains displacement/activationmeasure distinction.
+- Cracks onlychangeovernight versus duringgazeShatterFreeze and duringWrathFlame; specialWrathFlame condition is supported, but gaze/nochange absolutes remain. Noinjuryunderfour versus shorterwearGrudgelog safety cannot be dismissed. PermafrosttwoDesolate fieldaffectsothers versus vieweronly appliesShatterFreeze, not blanket noAoE.
+- CleariceStiletto versus HanironFang; physical8inch versus archetypeInstantnotnumericShort; primaryPlatefacelessfaceinward versus linkedfaces/attribution and MasterLivingChitin; primarypalmsizedwarmreflectionlessShard versus mirrorHanironTailtile. Derivedgear can differ from donor but these sameitem histories require authority.
+- Whole-set allshardsaccurateotheranger versus item-specificinjury/reflex/ownershiptolls; tool10second38/41correct not proof perfect attribution or disciplinary authority. Current benefit+10%/emotionreadout versus R19Neutral wording releasesnothing retains scopequestion, not automatichelpotherentity.
+
+**Commentary:** The sealed sheet is more frightening than the ice: an accurate instrument can still become an unjust institution. The refusal to hand those statements to supervisors makes the holding’s restraint concrete. Naming another person is not the same as establishing their intent, and the equipment is strongest when it preserves that distinction.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 7 exact replacements (4batch-short/3careful-detail); LC_ALL=C words6844→7137. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_03_FROZEN_MIRROR.md`. Equipment+1/+1;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No178/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch177 unit2 — Memory Rain `C-IIβ-250`
 
 [[SE-C-IIβ-250_Memory_Rain_기억의_비](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-250_Memory_Rain_%EA%B8%B0%EC%96%B5%EC%9D%98_%EB%B9%84.md "SE-C-IIβ-250_Memory_Rain_기억의_비.md")]
