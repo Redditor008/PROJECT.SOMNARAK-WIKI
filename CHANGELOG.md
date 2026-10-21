@@ -8,6 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch169 — CLOSED5/5: 48 supported replacements, five whole-design holds
+
+Owner p after168 discharged;169only. No change0/5, so no7/10extension. Fresh shortest-pending queue910/930/903Unknown/923/000 completed without substitutes. All five entire originals, exact A–D (UNK903 and1001identity-resolved), registry/Master/history and entire finals read. Full reasoning, exact replacements, hashes, source crosswalks, holds, independent Commentary and tool outputs in five receipts.
+
+| Dossier | Replacements | LC_ALL=C words | Whole-design result | Individually verified push |
+|---|---:|---:|---|---|
+| [Moktak](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-910_Moktak_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%A0%84%EB%8B%B9.md "SE-N-IIβ-910_Moktak_조상의_전당.md") `N-IIβ-910` | 9 | 5175→5521 | HELD;newSE+0 | `62c3c1fbdd9d2992bea9dfd7d59f5400d454e38b` |
+| [Once_Told](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-930_Once_Told_%EC%82%B4%EC%95%84_%EC%9E%88%EB%8A%94_%EC%84%9C%EC%82%AC.md "SE-O-IVδ-930_Once_Told_살아_있는_서사.md") `O-IVδ-930` | 10 | 5177→5544 | HELD;newSE+0 | `4a3fc1f25da96a068b2a73c338d860f0bd8ade70` |
+| [The_Music_Box_of_Agony](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-II%CE%B3-903_The_Music_Box_of_Agony_%EA%B3%A0%ED%86%B5%EC%9D%98_%EC%98%A4%EB%A5%B4%EA%B3%A8.md "SE-N-IIγ-903_The_Music_Box_of_Agony_고통의_오르골.md") `N-IIγ-903` | 8 | 5265→5589 | HELD;newSE+0 | `5451459483f002538b74b100816f9f85d2dd649a` |
+| [Hatred_Above](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-923_Hatred_Above_%EB%B6%84%EB%85%B8%EC%9D%98_%ED%8F%AD%ED%92%8D.md "SE-C-IVδ-923_Hatred_Above_분노의_폭풍.md") `C-IVδ-923` | 9 | 5472→5769 | HELD;newSE+0 | `06e630e8d5cb443d96c995d6db335670bf5ec4d8` |
+| [Kind_Echo](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-000_Kind_Echo_%EC%B9%9C%EC%A0%88%ED%95%9C_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-C-Iα-000_Kind_Echo_친절한_메아리.md") `C-Iα-000` | 12 | 5519→5834 | HELD;newSE+0 | `eb90cd319d3ae2131d1de897cc3d0cf0511dc56d` |
+
+**Scope/evidence:** Moktak becomes architectural/translucent rather than Organic, fixed seating expansion and exact fatigue/load costs; OnceTold separates open ground, speech products and credibility gear with silence-safe field records; UnknownMusicBox separates device/effigy/original listener and incidental resonance, preserves full song/Tale; HatredAbove separates unseen overhead source/artificial floor light/footprint expansion, outside Work and mean-versus-maximum incident timing; KindEcho distinguishes local drift/collective kindness from a named child, stable observation from decrease and source material uncertainty from gear. No invented transformation, resurrection, human body, extraction event or access exception. Explicit Hatred two-technician maintenance exception is documented, not automatically a contradiction.
+
+**Holds:** Each receipt retains later-fix backlog. Entry permissions/counts/item provenance910; speech/persistence/product provenance930; continuous play/lid/winding/exposure/chronology903; vessel/combat/gauge/item provenance923; same-state skin/crystal/event/harm/history/gear identity000. Derived gear may differ from donor silhouette: not itself a conflict. More serious same-subject/same-state disagreements remain HELD; checks do not override them.
+
+**Fresh verification:** 25 actual verify/tpl/sectfile/wikistd/sect calls PASS after all edits;54testsPASS. All301NUL-enumerated corpus paths match ledger;296unselected/fivereserves and exact source hashes unchanged;48replacements reconstruct final texts exactly, digit streams unchanged;300PhysicalFormrows unchanged,910alone architecturalqualification; MusicBoxTale byte-identical. Individually pushed primary blobs equal final hashes. Total26,608→28,257words(+1,649). Closure evidence [JSON](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B169_CLOSE.json) and [report](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B169_CLOSE.md). No artwork/render/game/browser/live-site inspection claimed.
+
+**Validation disclosure:** KindEcho draft first failed a numeric-preservation assert before primary write; Level4 restored. Actual sectfile then found historicalauditframe0.056; sharedintro reworded without changed source claims or padding. verify flagged legacy rhetoric ellipsis; clarified its two-success meaning. Final full read followed five fresh passes. No failed gate ignored.
+
+**Three independent counters:** ALL M.A.W.TypesAppearanceperSE255/30184.72%(46remain);Weapon255/28788.85%(32remain);SEAppearanceFix16/3015.32%(285remain). No duplicate/retroactive/body/art credits. Ledger12changed/4retained/108held/2blocked/175pending. Equipment coverage is not resolved conflict or art completion.
+
+No170authorized; owner controls PR14merge, no merge/deployment/artwork. Batch301blocked on eight owner-supplied bodies, one4+4 operation, generate/validate before wiki copy. Later full recheck remains authorized as backlog, not a claim of final perfection.
+
 ## Batch169 unit5 — Kind Echo `C-Iα-000`
 
 [[SE-C-Iα-000_Kind_Echo_친절한_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-000_Kind_Echo_%EC%B9%9C%EC%A0%88%ED%95%9C_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-C-Iα-000_Kind_Echo_친절한_메아리.md")]

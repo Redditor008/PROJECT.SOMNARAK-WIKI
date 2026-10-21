@@ -1,6 +1,6 @@
 {
   "batch": 169,
-  "status": "OPEN",
+  "status": "CLOSED",
   "required": 5,
   "completed": 5,
   "no_change": 0,
@@ -558,5 +558,6 @@
       "link": "[[SE-C-Iα-000_Kind_Echo_친절한_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-000_Kind_Echo_%EC%B9%9C%EC%A0%88%ED%95%9C_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-C-Iα-000_Kind_Echo_친절한_메아리.md\")]",
       "table_link": "[Kind_Echo](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-000_Kind_Echo_%EC%B9%9C%EC%A0%88%ED%95%9C_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-C-Iα-000_Kind_Echo_친절한_메아리.md\")"
     }
-  ]
+  ],
+  "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B169_CLOSE.json"
 }

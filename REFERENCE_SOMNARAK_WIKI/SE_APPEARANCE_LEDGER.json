@@ -18,7 +18,7 @@
   },
   "active_batch": {
     "number": 169,
-    "status": "OPEN",
+    "status": "CLOSED",
     "required": 5,
     "queue": [
       "N-IIβ-910",
@@ -89,7 +89,8 @@
         }
       }
     },
-    "authorization": "Owner p after CLOSED168 authorizes169 only. Minimum five, cumulative three No change5→7→10; later full recheck retained."
+    "authorization": "Owner p after CLOSED168 authorizes169 only. Minimum five, cumulative three No change5→7→10; later full recheck retained.",
+    "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B169_CLOSE.json"
   },
   "dossiers": [
     {

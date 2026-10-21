@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest batch: Batch169 OPEN 5 / 5.** Frozen pending cohort; historical168CLOSED5/5. No new review/credit at opening; no170/merge/deployment.
+**Latest batch: Batch169 CLOSED 5 / 5.** 48 supported replacements, five HELD whole designs, No change0/5; no new equipment/SE credits. [Closure evidence](SE_APPEARANCE_REVIEWS/B169_CLOSE.json). No170/merge/deployment.
 
 
 Owner direction, 2026-10-18: start a new X/X for SE appearance fixes and name the older counters by their M.A.W. scope.
@@ -1221,3 +1221,7 @@ CLOSED5/5; all details and Commentary in [closure](SE_APPEARANCE_REVIEWS/B168_CL
 ### Batch169 unit5 — OPEN5/5
 
 [Kind Echo evidence](SE_APPEARANCE_REVIEWS/B169_05_KIND_ECHO.md): HELD, 12 repairs, complete original/final reads and five validators PASS. No change0/5;SE16/301. No170 authorized.
+
+## Batch169 current close
+
+CLOSED5/5;48replacements, fiveHELD whole designs, No change0/5. 26,608→28,257words(+1,649);25fresh actual validators54testsPASS. Three counters255/301,255/287,16/301 unchanged. Ledger12changed/4retained/108held/2blocked/175pending; technicalPASS is not logical completion. Five individual verified pushes and exact-source/digit/Tale/corpus audit in [complete report](SE_APPEARANCE_REVIEWS/B169_CLOSE.md). Earlier OPEN snapshots historical; no170authorized.301eightownerbodies/one4+4/generatebeforecopy retained.
