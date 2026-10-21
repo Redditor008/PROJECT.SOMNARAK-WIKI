@@ -228,3 +228,13 @@ This refines the older Full-SE/Weapon-only label wording above without rewriting
 ## Amendment, 2026-10-18 — equipment-first or combined batches
 
 Owner permits completing the older appearance stream first or reviewing equipment and SE bodies in the same batch, even if execution takes longer. Work in separate, focused Bash calls; do not place the entire batch in one giant command. Preserve independent counters, per-dossier evidence, prior-credit exclusions, individual Commentary, validation and individual pushes. A combined batch counts freshly completed dossier reviews, not inherited body credits. No permission to force edits, convert a source hold into a resolution claim, or skip5→7→10 follows from combining the workflow.
+
+
+## Amendment, 2026-10-21 — detailed reports follow the final command
+
+**Direct owner instruction:** Write what belongs in the chatroom at the end, after Bash, exploration and other commands finish, before ending the turn. Text and links must not be skipped or collapsed among tool activity.
+
+21. **Keep the substantive report together at the end.** Continue validating, logging and pushing each small unit separately, but collect its changes, Commentary, unresolved holds, checks, push results and links for one final readable report after the last tool call. Do not interleave the detailed unit reports with later commands.
+22. **Links remain visible with the report.** Put the linked per-dossier table, full dossier links, evidence links and all three independent counters in the final message. Opening a report file supplements rather than replaces this text. A brief initial acknowledgement or an essential blocker/question is allowed; it is not the detailed report. If further tool work becomes necessary, deliver the complete report again after that work.
+
+This changes report placement, not the per-unit gate/push requirement, minimum-five rule, No change ladder or owner-controlled merge.
