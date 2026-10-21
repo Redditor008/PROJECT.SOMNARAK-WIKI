@@ -27,7 +27,20 @@
       "N-IIIγ-127",
       "C-Iα-150"
     ],
-    "reviewed": {},
+    "reviewed": {
+      "O-IIIγ-959": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_01_UPROOTED.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    },
     "authorization": "Latest owner p after CLOSED173 authorizes174 only; at least five whole reviews; cumulative three No change extends5→7→10; later full recheck retained."
   },
   "dossiers": [
@@ -4207,8 +4220,32 @@
     {
       "designation": "O-IIIγ-959",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "changed",
+      "note": "CHANGED — completed independent written-design pass. Same root-body, ordinary travel, triggered canopy, route departures and separate temporary buildings now have supported conditions in the whole file. Human-sorrow doesnotforcehumanoid, and αderivedgearneednotshare serpent shape. Remaining equipmentrange/naming/stat limits do not prevent a coherent source-body account. Types+1/Weapon+1/SE+1; not artwork completion.",
+      "outcome": "source-supported repair",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_01_UPROOTED.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/959_Uprooted/SE-959-A__SIDE_CODEX_Uprooted.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/959_Uprooted/SE-959-B__MAW-W_Uprooted_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/959_Uprooted/SE-959-C__MAW-S_Uprooted_Shield.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/959_Uprooted/SE-959-D__MAW-G_Uprooted_Charm.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IIIδ-011",
@@ -6113,6 +6150,14 @@
       "batch": 173,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_04_PANDORAS_JAR.md",
       "history_proof": "FullMaster562–564index602–604/details7073–7104, Entity556, completeTale18810505–10563, CSV1119–1122, archetype447Medium, disposition378Neutral read. EarlierB56unit10 2cde667 is seriesrestatement6555→6555, not full/exactWeaponcoverage; B20itemexpansion/Bmaulartvariety not primarydisposition. LegacyTheRelicMaul retained inA/filename/Masterdetail; matchingBbody/heading/primary/archetypecleaver. Priorartvesselhead/spikedstopper533 historicaldistinctitemdesign not a source-body requirement or priorcredit; fresh+1/+1. δ10–15/3/3Skewer2/50; Suit1/1/1.5/.5,2/45; Head4%+3 matches itemset; Registrygeneric5%conflict retained.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "O-IIIγ-959",
+      "batch": 174,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_01_UPROOTED.md",
+      "history_proof": "Fresh exactSE959 set, not631UprootedGreatCleaver. FullMaster619–621index659–661/details7700–7731, Entity576 and completeTale20711577–11633 Graveweed name; CSV1111–1114; archetype397Shortrifle, disposition373Neutral read. WIP7990–8010/CHANGELOGvol02 1947–1960 record oldR29 one-sectioncleanup, B20itemAppearance expansion not individualwhole/sourceWeapon disposition. Master621FloatingOrbs&Coronets conflicts with specific seedcase/Tail, preserved as equipmenttaxonomyhold.  No earlier full/exactBcredit found across all WIP/CHANGELOGvolumes and ledger; +1Types/+1Weapon. α3–6/2Normal/2ShortSingle100%,5/15; Suit.4/1/1.6/.8,5/10; Tail5%+1unnamedstat align. Sourceγneednotshare derivedαgrade.",
       "all_types_credit": true,
       "weapon_credit": true
     }

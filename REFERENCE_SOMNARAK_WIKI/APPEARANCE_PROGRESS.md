@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch174 OPEN0/5.** Owner p authorizes174 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B174_OPEN.json). No175/merge/art/deployment.
+**Latest: Batch174 OPEN1/5.** Owner p authorizes174 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B174_OPEN.json). No175/merge/art/deployment.
 
 **Previous: Batch173 CLOSED5/5.**41supported repairs, fiveHELD, No change0/5. Equipmentcoverage+3Types/+3Weapon;SE+0. [Batch report](SE_APPEARANCE_REVIEWS/B173_CLOSE.md). No174/merge/art/deployment.
 
@@ -1351,3 +1351,7 @@ Three independent counters: ALL M.A.W. Types Appearance per SE263/301(87.38%),38
 [Closure evidence](SE_APPEARANCE_REVIEWS/B173_CLOSE.json)
 
 No change0/5: no extension beyondfive; these full bespoke narratives and interaction/Watch/Apex records are not a simple cohort. Selection was frozen fresh-pending shortest LC_ALL=C words/designation tie, not defect ranking. Owner p173 exhausted;174 requires a new authorization. PR14 remains OPENdraft→NON-WIKI, owner controls merge; none performed. No artwork/deployment. Later full recheck remains available. Batch301 still blocked on eight owner bodies, one4+4operation, generate/validate beforewiki copy.
+
+### Batch174 unit1 — OPEN1/5
+
+[Uprooted evidence](SE_APPEARANCE_REVIEWS/B174_01_UPROOTED.md): CHANGED, 18supported repairs, full final reading and five actual checks. No change0/1.
