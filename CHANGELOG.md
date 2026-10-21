@@ -8,6 +8,29 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch177 unit4 — Endless Shift `C-IVδ-915`
+
+[[SE-C-IVδ-915_Endless_Shift_끝없는_교대](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-915_Endless_Shift_%EB%81%9D%EC%97%86%EB%8A%94_%EA%B5%90%EB%8C%80.md "SE-C-IVδ-915_Endless_Shift_끝없는_교대.md")]
+
+**Original/source review and R18 predeclared scope:** Complete404line original including fullApexlaw/406toolpair/throughput/workerletters, exact1041A–D read (D separately completed after combinedoutputtruncation), relevant READMEidentitymap1041, CSV326–329/archetypeW1041/R19Neutral333, Master/Tale exactsearch absence and Entity359 tabulation, B105unit3/history/B42 read. Trace Time→TimeWeight→unrecordedlabour→ordinaryfixedforge/paintedline→ratio/subjectivehours/physicalwear→VF/relief/extractioncrew→entrypressure/threshold/spread→papercomparisons/no co-presence/independentsetcosts. R18 predeclared3short (marker/physicalsuppression/FlavorfromownApex and record),3careful temporalfootprint/equipment/activationcue distinctions.
+
+**Sources/history:** B105unit3 86455608 already credited exact1041, no duplicate Types/Weapon. Not SE915O-IIIγCorrosionDream or its Cutlass/RustedLens Master616; exactC-IVδ-915WT→SE1041 named inA/B/C/D. No dedicated MasterMAW/Tale915 or1041; Entity359 explicitly awaitingrow. B42originalhistory and all-refprimary10cd20a retained. δWeight11–19/2Normal/2Short/Single4/25; C1/1/1.2/.3max4/20; DHead5%+1unnamedstat, no invented namedbonus.
+
+**What changed:** Six supported repairs replace generic Weight markers and flavor, remove inappropriate physical-suppression advice, distinguish an invisible activation cue from no activation, and clarify temporal extent plus independent equipment costs.
+
+**Final whole-file assessment:** HELD: six supported improvements, fixed temporal field is a valid non-creature manifestation, but Work/time/threshold/vessel and equipment identity remain essential holds. +0/+0/+0.
+
+**Holds / later recheck:**
+- TimeSECCTransform versus BreachExpansion,3ignoredconditions versus gauge60/65%, vesselYes/~dust versus noobjecttostrike; no forgeobject selected as vessel. Adjacentsectorexpansion cannot be silently dismissed by fixedpaintedline.
+- Bothworkshortenssubjectivespan in Operational/Behavior versus neither ever in KeyObservation/Registry; self-relief/nohandover versus documenteddoorhandover ninefailures; no guessed earlier/later policy.
+- Elapsedonehour/4–9subjective versus3–11ratio/4hourclock9houraccount and 472/611 series unchanged. Fifty-oneholdingyears versus46+11toolseries/49+five/50+elevenminutes remain raw chronology, no invented cohorts.
+- Timespokeninside prohibited versus DuringUseintervalselfreport and boundaryreadaloud; outsidequestion scope unproven. Permanentsettimeloss versus piece-specificfatigue/sourceautobiography, fatigueoutsideonly versus entryexhaustion need scope.
+- SameitemlocalCorrosionCutlass28inchversus exactEdge/archetypeprojectorLong and numericRange2Short; no standaloneAppearance in1041B/C/D. SourceA Notrecorded event and witness naming cannot be filled with borrowedtravellerstory. R19Neutralotherentitiespaperonly retained; throughputfacilitybenefit doesnot prove freed/suppressedotherentity.
+
+**Commentary:** The unused-tool control makes the extra labour real without needing a spectacular time-body. The harder horror is that better individual safeguards can coexist with many more people exposed. Preserving the commander’s objection and the carried-forward conversion proposal matters more than making the forge look monstrous.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 6 exact replacements (3batch-short/3careful-detail); LC_ALL=C words6845→7155. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_04_ENDLESS_SHIFT.md`. Equipment+0/+0;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No178/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch177 unit3 — Frozen Mirror `O-Iα-643`
 
 [[SE-O-Iα-643_Frozen_Mirror_얼어붙은_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-643_Frozen_Mirror_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EA%B1%B0%EC%9A%B8.md "SE-O-Iα-643_Frozen_Mirror_얼어붙은_거울.md")]
