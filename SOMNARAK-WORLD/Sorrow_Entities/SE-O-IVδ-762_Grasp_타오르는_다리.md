@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A humanoid whose body arches like a burning bridge of crystal, weeping warm tears that fall across the Desolate as it stands. Fever-warm, it smells of cold rain and char; a crossing on fire, shaped like a person. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Holds position over the gap it occupies; breach records place it at successive Desolate gaps. Those relocations do not establish upright walking or pursuit. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 20–28 per cycle, worked from the near lip of a gap by a team on a rope line. The Desolate station's return notes that the figure is high and that the holding has never been worked by anybody who was not already walking the long way round. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
 | **Recommended response** | Stand on the near side, read the caravan roll aloud — all of it, including the four names nobody claimed — and say out loud that nobody is going to cross. Flerehan and Ferrehan both lower the gauge; Pugnahan raises it and is prohibited. |
@@ -39,8 +39,8 @@
 ### Operational Notes
 
 - A successful cycle lowers the gauge and quiets the calling; it does not reach anybody on the far side, and the figure reforms over the same gap with the same roll of names.
-- The condition that moves this holding toward a breach is not gauge drift but reply: an answer given to the voice, or a rescue promised within hearing of it, moves the count at once and the threshold here is one.
-- The 20–28 Han-Energy yield is drawn from a Critical-grade figure that holds a conversation, and the exposure it costs is social rather than physical. Budget recovery for personnel who have heard their own names in it, not for an injury that will never present.
+- Reply is a recorded breach hazard: an answer given to the voice, or a rescue promised within hearing of it, moves the count at once and the threshold here is one. Track the core stat line’s separate gauge condition as well; the count does not erase it.
+- The 20–28 Han-Energy yield is drawn from a Critical-grade figure that holds a conversation. Budget recovery for personnel who have heard their own names in it; an absence of immediate injury does not remove the danger of a crossing attempt.
 - M.A.W. extraction here strips equipment from a rescuer, and the Crown's recorded cost is the rage of every failed rescue. Authorise it as its own event, with its own briefing, never as a reward attached to a good cycle.
 
 ## Combat Record
@@ -94,7 +94,7 @@
 - The failure here is a plan. Not panic and not collapse — a worked-out, sequenced, resourced plan to get across, produced by a competent person who has been in earshot too long.
 - The longer the exposure, the deeper the wound, and the wound presents as competence. Those who stay in earshot stop hearing a stranger's voice and begin hearing one that knows them; judgement goes first, so the worker does not panic but instead produces a plan to cross, and the plan is coherent.
 - The M.A.W. is never costless. The Requiem weeps through its wielder, the Shroud takes the small pleasures, and the Crown hands over a rage belonging to a rescue the wearer never attended. All three costs are codified in the equipment file and all three are charged on every use.
-- Failure to reach the resolution condition ends the cycle with the figure unsoftened and the calling louder, and what escapes is a bridge-shape moving through corridors that collapses under anybody who steps onto it.
+- Failure to reach the resolution condition ends the cycle with the figure unsoftened and the calling louder. Recorded breaches relocate it to another Desolate gap, not a facility corridor; the prohibition on crossing remains even when a span can bear weight.
 
 ## Appearance
 **Primary Form:** A humanoid bridge of burning crystal, weeping warm tears across the Desolate.
@@ -152,7 +152,7 @@ The table's useful row is Flerehan, which is unusual on a δ-grade holding and w
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Grasp shatters containment and hunts through the facility. It collapses under anyone who crosses. |
+| **Movement** | Grasp is recorded relocating to another gap in the Desolate, including former gaps since filled in. No recorded position is inside a structure; do not turn those relocations into a facility pursuit route. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
 | **First Target** | Whoever has the longest service. Across eleven incidents the voice has gone to the most experienced person present every time, which the station treats as the single most dangerous fact in this file. |
@@ -225,7 +225,7 @@ The table's useful row is Flerehan, which is unusual on a δ-grade holding and w
 
 ### M.A.W. Use Notes
 
-Every piece in this set carries the same conviction, which is that somebody is calling and has not been answered. Inside the pattern it presents as alertness and is useful. Outside it, wielders go toward sounds — down corridors, out of buildings, across open ground — and give coherent reasons afterward. Three wielders in nine years and all three were recovered somewhere they had no business being; none of them had run, and all three were walking at an ordinary pace when they were found.
+Each piece binds through the named source event and its limit: do not promise rescue; acknowledge the limits of one person. The Weapon charges unwept grief and involuntary weeping, the Suit source records numb minor joys, and the Crown charges the rage of failed rescue for its minor-wound healing. Continued use can make the source event feel autobiographical; first-person claims, repeated source responses outside contact and the bearer becoming a new site are corrosion signs, not rescue permissions. The local record also follows operators toward sounds — down corridors, out of buildings, across open ground — with coherent reasons afterward. Three wielders in nine years were recovered somewhere they had no business being; none had run, and all three were walking at an ordinary pace when found. The set cannot heal the originating event.
 
 ### Field Use Record
 
@@ -234,7 +234,7 @@ Every piece in this set carries the same conviction, which is that somebody is c
 | **Before use** | Wielder, piece, gap width, and a rope line clipped to a fixed anchor on the near side. The line is not a safety measure against falling; it is there because the wielder may walk. |
 | **During use** | Every time the wielder turns toward a sound, with the direction and whether a sound was audible to anybody else. The second column has been empty on all three incidents. |
 | **At limit** | The wielder explains where they are going. Calmly, with reasons. All three gave reasons and two of them were operationally sound. |
-| **After use** | Return the piece, check the line's tension log, and ask the wielder to describe the last sound they heard. The three stand-downs all turned on that answer rather than on anything the wielder volunteered. |
+| **After use** | Return the piece, check the line's tension log, and ask the wielder to describe the last sound they heard. The three stand-downs all turned on that answer rather than on anything the wielder volunteered. Record the piece-specific cost and any first-person source claim; a named witness states the source title and event while the bearer relinquishes the item. Attribution review precedes cleaning or rest, and shutdown does not refund the cost. |
 
 **Stat interpretation:** The grade describes pressure delivered to entities and says nothing about what the piece does to the person carrying it. For this set the operator column is the dangerous one: a γ rating sits beside weeping, numbness, and a borrowed rage. Read both columns before authorising, and authorise on the second.
 ## 관찰 기록 (Observation Log)

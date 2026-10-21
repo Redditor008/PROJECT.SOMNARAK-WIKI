@@ -2,11 +2,23 @@
   "number": 161,
   "status": "OPEN",
   "required": 5,
-  "completed": 1,
+  "completed": 2,
   "no_change": 0,
   "reviews": {
     "O-IIβ-467": {
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B161_01_MEMORY_CHAIN.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "O-IVδ-762": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B161_02_GRASP.md",
       "no_change": false,
       "whole_final_reread": true,
       "checks": {
