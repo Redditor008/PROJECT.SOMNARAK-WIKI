@@ -8,6 +8,31 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch169 unit3 — The Music Box of Agony `N-IIγ-903`
+
+[[SE-N-IIγ-903_The_Music_Box_of_Agony_고통의_오르골](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-II%CE%B3-903_The_Music_Box_of_Agony_%EA%B3%A0%ED%86%B5%EC%9D%98_%EC%98%A4%EB%A5%B4%EA%B3%A8.md "SE-N-IIγ-903_The_Music_Box_of_Agony_고통의_오르골.md")]
+
+**Original whole review / scope:** Complete415-line original and identity-resolved UNK903A–D read. InnerVoid Object-Void from failed comfort; ordinary25×15box, weepingposteffigy, unassignedvoice, independently fadedlistener. Whole chain includes lyrics/Tale unchanged, lid/recitation conditional rotation and listenerfade, vault range versus corridor/song reproduction and harmonic amplification, selfnameFerrehan, joint-playprohibition and equipment-sound/name costs. Predeclared R18:0batch-short/8careful-detail including two copyediting/instructional repairs; no numbers or lyrics changed.
+
+**Exact sources/history:** UNK903A–D full canonicalsourcefieldchecks/incidents/corrosion/care/footer read. Registry1163–1166, Entity644, disposition426, UnknownREADME full read. SE903βGlassElsewhere directory and archetype356 rejected as wrong identity; no dedicated MusicBox archetype/MasterMAW/Tale exact-title hit. B137full primary/pair historical entry read: prior exactweapon+1/fullset, so0/0 now, not retroactive credit. B40unit2 whole paragraph event-heading/combat/final repaired, no new sourcebody. LocalSource Suit .8/1/.3/1.1,max3/35; DHead4%+2Clarity agree; CSV5%Accessory mismatch held. Bonly7–12/3/4AoE3/40 100/70/50 not imported into primary. Exact-primary git baseline10cd20a only.
+
+**Changes:** Eight repairs separate physical box, rotating effigy, original listener and acoustic reach; replace unsupported Transform implication, make identification archival-first, forbid joint-play observation, preserve chance bestowal while removing a broken fragment, correct Suit grammar and record its exact-source closing-name failure separately.
+
+**Final logical result:** HELD: device/effigy/listener/acoustic projection and derived equipment now read separately, without a humanoid precursor, sourcebody expansion or lyric alteration. Actual playback/lid/winding state, exposure chronology and simulation scope remain unresolved. TinyCrier resemblance is permitted; not required identical donor silhouette. Complete final primary reread in document order after validation; final hash matches.
+
+**Holds / later recheck:**
+- Continuous/never-stopped play versus lidclosure stopsduration/autoclosure, no winding versus winds-itself/key language, centuriesepigraph versus yearsfoundplaying remain unproven state/history crosswalks.
+- No attack/no directviolence versus aimed wrongnotes/painreceptors and finalperformance at silencing need simulation/fieldscope, not an invented breach-body.
+- Neverthirdrecitation versus conditional supportedthirdcounselling/observational allowances; bysecondnames versus bythirdnames/face erosion and completesfade versus thirdbegins timing require evidence.
+- UNKREADME bindingpostRD macrochronology/90secondcap and psychicLament shorthand versus primary4220 and Voididentity remain; do not overwrite macrocanon or lyrics. Originaloccupant/doll provenance remains unknown.
+- CSV5%Accessory versus sourceHead4%; BsourceonlyAoE and fullset/closingnote rescue versus weaponbrieflyerasesidentity retained as distinct sourced records, not universalhealing.
+
+**Commentary:** The box is effective because it remains an ordinary small comfort object. The name check is more personal than a large combat threshold, and the suit muffling that name is a precise equipment failure. Keeping the first occupant separate preserves the disturbing fact that safer new work has not proved that the first listener can be recovered.
+
+**Checks/evidence:** `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B169_03_MUSIC_BOX_OF_AGONY.md`. 8 supported replacements; LC_ALL=C wc-w5265→5589. Five actual validators PASS; raw outputs and original/final/source hashes in receipt. Written-design logical review only; no artwork, render, browser, game, preview or published-site inspection. Equipment+0/+0;SE+0. No duplicate, retroactive or artwork credits.
+
+**Progress:** OPEN3/5, No change0/3; Types255/30184.72%(46remain),Weapon255/28788.85%(32remain),SE16/3015.32%(285remain). Gate/push follows. No170/merge/deployment;301eight-owner-body one4+4/generate-before-copy and later full recheck retained.
+
 ## Batch169 unit2 — Once Told `O-IVδ-930`
 
 [[SE-O-IVδ-930_Once_Told_살아_있는_서사](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-930_Once_Told_%EC%82%B4%EC%95%84_%EC%9E%88%EB%8A%94_%EC%84%9C%EC%82%AC.md "SE-O-IVδ-930_Once_Told_살아_있는_서사.md")]
