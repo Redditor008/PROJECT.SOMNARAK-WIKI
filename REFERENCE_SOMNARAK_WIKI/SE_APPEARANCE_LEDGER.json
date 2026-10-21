@@ -18,7 +18,7 @@
   },
   "active_batch": {
     "number": 161,
-    "status": "OPEN",
+    "status": "CLOSED",
     "required": 5,
     "queue": [
       "O-IIβ-467",
@@ -89,7 +89,8 @@
         }
       }
     },
-    "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B161_OPEN.json"
+    "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B161_OPEN.json",
+    "close_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B161_CLOSE.json"
   },
   "dossiers": [
     {
@@ -4047,6 +4048,11 @@
       "number": 160,
       "status": "CLOSED",
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B160_BATCH.json"
+    },
+    {
+      "number": 161,
+      "status": "CLOSED",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B161_BATCH.json"
     }
   ],
   "equipment_reviews": [
