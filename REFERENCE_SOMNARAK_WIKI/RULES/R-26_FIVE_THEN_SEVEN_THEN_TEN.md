@@ -50,3 +50,7 @@ A dossier is **not** simple when it carries a full Interaction Record, a bespoke
 The earlier versions opened at three or five and used a 3 → 5 → 7 → 10 ladder. The 2026-10-08 version made three the absolute floor. The owner’s 2026-10-15 direction supersedes both: start at five and do not close below five unless an explicit batch-specific authorization applies or fewer than five eligible pending dossiers remain. The earlier directions remain recorded above as history, not as current policy.
 
 The filename remains `R-26_FIVE_THEN_SEVEN_THEN_TEN.md` because other files reference it. The later 2026-10-16 owner clarification above supersedes simplicity-only stopping for batches with at least three completed No change dossiers. Five is the floor; ten is the ceiling.
+
+## Batch165 application — 2026-10-21
+
+Closed at 5 / 5 after all five individual verified pushes, complete original/final readings and 25 fresh closure validators. No change is 0 / 5, so the three-dossier extension trigger is not met. All five have full interaction records and substantive bespoke narratives; the older simple-cohort test does not call for expansion. Three written-design completions and two held designs are distinct from the five completed reviews. The owner's p authorized Batch165 only; no166, merge or deployment. See [closure evidence](../SE_APPEARANCE_REVIEWS/B165_CLOSE.md). Later full recheck and Batch301's eight-body blocker remain.
