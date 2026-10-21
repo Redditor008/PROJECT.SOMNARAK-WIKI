@@ -39,9 +39,9 @@
 ### Operational Notes
 
 - It moves. Nine years of survey have never put it twice in the same place, and the longest single displacement on record is 310 metres in a season.
-- A cycle settles it for a shift and changes nothing else: it does not hold position afterwards and the exposed height is unaffected by any work done on it.
+- An approved Viderehan or Ferrehan cycle settles it for a shift, not permanently; continue position and exposed-height surveys. This is not permission to strike or probe it, which the record associates with further sinking.
 - Viderehan and Ferrehan are both logged against it, and Ferrehan is the only one that moves the gauge; the restriction to two Work Types is correct on this holding rather than inherited.
-- There is no breach counter. Log bearing and distance from the last fixed survey station at every contact, because position is the only variable here that reliably changes.
+- There is no breach counter. Log bearing and distance from the last fixed survey station at every contact, and keep exposed height and the independent face comparisons beside it. Position is not the only variable; the record also preserves descent and confirmed pattern alterations.
 - Extraction is separately authorised and has never been granted. The holding's containment condition forbids excavation, which rules out every extraction method yet proposed.
 
 ## Combat Record
@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | No travel speed is measured here. The Pillar migrates beneath the ground while its exposed height falls; survey displacement and height separately rather than treating the Place as a fixed device. |
 | **Resistance** | 35% against Void pressure; 25% against everything else. Nothing is rated against the subsidence itself, which is not an attack the Pillar makes: it has been going down for a long time and the ground around it has been going down with it, so the percentages describe what a worker takes away from standing near a thing that is already gone. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 580/580 |
@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** The marker is read before anything else, and it is read in the absences rather than in the mass: carving-shaped gaps in the ring where the stone should have something in it. Position is not usable as an indicator — it differs every time anybody looks, which is itself the survey's first entry — and the ring radius is walked and recorded before the cycle opens.
+1. **Tension:** The marker is read before anything else, and it is read in the absences rather than in the mass: carving-shaped gaps in the ring where the stone should have something in it. Position is not usable as an indicator — it differs every time anybody looks, which is itself the survey's first entry — and the ring is mapped from the current survey line and individually taken traveller accounts before the cycle opens. Do not infer a safe crossing from an old marker.
 2. **Clash:** Seven turns, worked from the survey line at twenty metres. Nothing is dug, nothing is probed, and the exposed face is photographed before the first turn and after the last.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Distinguish possibility from memory; do not excavate**. The condition is met when the workers have named what they can see and refused to reach into what they almost remember; a cycle that ends with anybody led into the past tense at debrief is filed as the ring having been sounded, whatever was found.
 
@@ -94,7 +94,7 @@
 
 - The failure here is misreading. The worker treats the absences as damage, starts looking for what was removed, and the search has no end because nothing was removed.
 - Long exposure produces grief for people who never existed, which the counsellors report is indistinguishable in presentation from bereavement and does not respond to being told the difference.
-- The Missing equipment lends the wearer the pillar's patience and takes a plan the wearer had. Every wielder's debrief has recorded an intention quietly abandoned.
+- The local debriefs record abandoned intentions. Do not turn that observation into a universal item price: the Lens takes a nameless memory, the Column exposes the bearer to unrealized futures, and the Charm costs a word. None grants permission to excavate.
 - Unresolved, it expands rather than escapes: travellers for some distance around begin seeing foundations, streets and households that were never built.
 
 ## Appearance
@@ -233,18 +233,18 @@ Escalation here is the ring, not the stone. Record the first trigger, the displa
 
 ### M.A.W. Use Notes
 
-All three pieces are cut from the Pillar's absence rather than its stone. Side A gives a set-level small-memory toll; exact items B/C/D specify item-specific costs: the Lens takes a nameless memory, the Column makes its wearer feel futures that did not occur, and the Charm costs an occasional lost word. The one-rotation issue limit and bearer ledger are local Armoury practice, not a shared item-cost formula. Grade records extraction stability, not human safety.
+The linked set records formation after mapping the visible capital and marking the buried portion unobserved, not excavating stone. The local file says extraction has never been authorised; the existence of these item records does not grant removal permission at this site. Side A gives a set-level small-memory toll; exact items B/C/D specify item-specific costs: the Lens takes a nameless memory, the Column makes its wearer feel futures that did not occur, and the Charm costs an occasional lost word. The one-rotation issue limit and bearer ledger are local Armoury practice, not a shared item-cost formula. Grade does not certify extraction stability or human safety; neither the local excavation prohibition nor the exact items’ corrosion is waived.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline kept by a second person: name something small the bearer did last week — a meal, a room, a walk. The charge on this set takes pieces of a week that nobody was holding on purpose, and the sheet is the only way the return can be measured. |
-| **During use** | The charge presents as gaps rather than as pain: the bearer corrects themselves mid-sentence about a room that has no door or a day they cannot account for. The second worker logs the hour of the first correction; the bearer's own account is taken afterwards and never used to fill the gap. |
-| **At limit** | The limit reads as futures: every path the bearer did not take arrives as something they can feel, and the loss of the little ones stops being reported at all. On a Sunken Pillar piece the use ends there, and the observer calls it rather than the bearer. |
-| **After use** | The piece comes back and the bearer is re-assessed a week later, because this charge does not present on the day: the same second worker asks for the small week again and compares it to the sheet, and where the week has holes the piece is not reissued to that bearer. |
+| **Before use** | Wielder, exact piece, current survey and a second person’s baseline. Keep a small-week memory baseline for the Lens, whose binding separately requires a true memory and an unrealized hope. Check the Column’s hollow base above surveyed present ground; for the Charm, baseline words and the memory/possibility/unknown labels. A week’s memory loss is not every piece’s individual cost. |
+| **During use** | The second worker logs first changes without filling a gap by guessing. For the Lens, record claims and evidence status, especially an edge appearing around a true memory. For the Column, watch glass descending below the knees or imagined floors treated as support. For the Charm, note invented dates and word gaps around uncertainty. Keep ordinary item costs distinct from worsening corrosion. |
+| **At limit** | Stop on the actual piece’s failure signs rather than waiting for the Column’s burden on every bearer. Lens shutdown names present coordinates while the wielder admits uncertainty; its seal lasts for the source’s specified interval. Column shutdown defines present ground with survey markers while the wearer steps backward without looking down. For the Charm, demonstrate possible, remembered and unknown with examples before its clasp is lifted. Full-set Uninscribed Future mourns a shared possibility without ancestry; its small-memory toll does not replace the individual costs. |
+| **After use** | Review on return and again a week later, not only after a delay: changes may already have appeared during use. Compare the Lens’s week with the independent sheet; holes bar reissue to that bearer. Keep removed claims and evidence status without inventing missing details; corrected attribution does not restore a lost memory. Measure the Column’s hollow base and never fill it with soil; review the Charm’s labels after sleep and never guess a missing word. |
 
-**Stat interpretation:** Grade describes extraction stability, not human safety. The Lens's local week-baseline records nameless memory loss; item C names the Column's burden as unrealized futures, and item D names the Charm's as an occasional lost word. Authorise by the exact item cost, not its grade; the one-rotation issue limit is local Armoury policy.
+**Stat interpretation:** Grade certifies neither the safety of extraction nor the bearer’s recovery. The Lens's local week-baseline records nameless memory loss; item C names the Column's burden as unrealized futures, and item D names the Charm's as an occasional lost word. Authorise by the exact item cost, not its grade; the one-rotation issue limit is local Armoury policy.
 
 **Full-set source review (2026-10-13):** Audited the γ/γ overview, all three M.A.W. blocks, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side A `SE-649-A` (`C-IIIγ-649 [VP]`, `4/4`), items `SE-649-B/C/D`, Registry rows 795–798, Master M.A.W. table/Entries 88–90, Entity Codex row 394 / Tale 30, and `MAW-W-649`. The Side-Codex set name *Unborn Monument* is joined by the explicit designation and linked ID; the primary name *Sunken Pillar* remains. Item B supports the Possibility Cut, and item B plus `MAW-W-649` support the rimless claim-edge disc; item B's Skewer / 100%→70%→50% profile is not stated locally and was not backfilled. Range 3 remains the exact item range; archetype class Close is a separate label. Item C supports the hollow base and surveyed-ground binding; its resistances, max, and cost align. Item D supports Head, 4%, `+2 Composure`, and memory/possibility/unknown marking; Registry's generic 5% and Master accessory taxonomy do not override it. Side A's set-level memory toll and the item-specific B/C/D costs are kept at separate scopes. The primary's Warden-count/proximity details remain local. The Master entries are generic summaries; they do not resolve the item-level effects. No linked evidence changed. First source-led disposition for exact pair `SE-649-B` (`MAW-W-649-01`).
 
@@ -286,7 +286,7 @@ The grief of missing possibilities mistaken for lost memories.
 **Entry 4 — <What Never Came>**
 Work response — Viderehan: Shows the lives and structures that never came. (Stable); Ferrehan: Tests whether the worker can mourn possibility without calling it history. (Decrease). Personnel report fear when they see a life that never existed.
 
-**Entry 5 — <The Soldier Who Died Forgotten>**
+**Entry 5 — <The Subscription Written Forward>**
 What the wing keeps instead of a story is the paperwork: a subscription list carrying 94 households and not one descendant, a dedication record with the carving left blank on purpose, and a perpetuity opinion filed by people who expected somebody to collect. The settlement ended without an event anybody wrote down. Everything the file knows about the pillar's grief comes off those three documents, and they were written forward.
 
 ## 최종 관찰 (Final Observation)
@@ -295,7 +295,7 @@ What the wing keeps instead of a story is the paperwork: a subscription list car
 
 | Distinguish possibility from memory, and do not excavate — survey what is there, name it, and stop. | Reach into the ring for what could have been: the ground reads as plan within a minute, the gauge climbs, and the survey closes with the digging prohibition written up as a finding rather than obeyed. |
 |---|---|
-| Tests whether the worker can mourn possibility without calling it history. The sorrow is seen clearly; Sunken Pillar is fully recorded. | Shows the lives and structures that never came. The gauge climbs and Sunken Pillar withdraws without revelation. |
+| Tests whether the worker can mourn possibility without calling it history. The sorrow is seen clearly; Sunken Pillar is fully recorded. | Seeing unbuilt lives is also a recorded Viderehan result and does not itself prove failure. If the worker treats possibility as recovered history or attempts excavation, stop the survey and record the actual gauge, position, height and exposure; do not assume withdrawal or erase the images from the record. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

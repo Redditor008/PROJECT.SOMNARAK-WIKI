@@ -2,7 +2,7 @@
   "batch": 163,
   "status": "OPEN",
   "required": 5,
-  "completed": 3,
+  "completed": 4,
   "no_change": 0,
   "queue": [
     {
@@ -125,6 +125,18 @@
     },
     "C-IIIγ-248": {
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_03_UNCONSOLED.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "C-IIIγ-649": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_04_SUNKEN_PILLAR.md",
       "no_change": false,
       "whole_final_reread": true,
       "checks": {

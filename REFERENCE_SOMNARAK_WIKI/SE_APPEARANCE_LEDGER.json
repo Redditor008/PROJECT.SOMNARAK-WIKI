@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIIγ-649": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_04_SUNKEN_PILLAR.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_OPEN.json"
@@ -689,8 +701,32 @@
     {
       "designation": "C-IIIγ-649",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-649_Sunken_Pillar_가라앉은_기둥.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Fourteen repairs: removed fixeddeviceSpeed; approvedcycle no longer denies physicalsinking; position no longer onlyvariable. Ringmapping not requiredwalkingonassumedmarker. Localabandonedplans not universalequipmentcost. UseNotes distinguishes sourcedformation from localdeniedextraction and removes gradestability warranty. All four FieldUse stages now piece-specific baseline/corrosion/shutdown/care, fullset conditional mourning and immediateplusweekreview. Statinterpretation no stabilitywarranty. StoryEntry5 title matches subscription rather than straySoldier. Finalfailure no longer labelsViderehanvisions automaticfailure or inventsretreat.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_04_SUNKEN_PILLAR.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-649-A__SIDE_CODEX_Unborn_Monument.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-649-B__MAW-W_The_Missing_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-649-C__MAW-S_The_Missing_Column.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-649-D__MAW-G_The_Missing_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIIγ-891",
