@@ -8,6 +8,31 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch168 unit5 — Amnesia `O-IIβ-914`
+
+[[SE-O-IIβ-914_Amnesia_잊혀진_일분](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-914_Amnesia_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%BC%EB%B6%84.md "SE-O-IIβ-914_Amnesia_잊혀진_일분.md")]
+
+**Original whole review and supported scope:** Complete345-line original read, all exact914A–D and relevant shared rows/history. Time-Void is nonbodily loss of self in a fixed radius, not victims as anatomy or chair as donor vessel. No human/event identified; the recognition corrected ambient filing. Whole chain includes nominal minute versus chair/Tide exceptions, apparatus/three clocks/gauge, permanent radius expansion by naming, line-only Work/roll call, gear carry costs separate from direct recovery, paper-only comparisons. Scope fixes transformation/Sovereign labels, unqualified timing/no-readings and unchanged-radius claims, doubled quote, blanket-corruption/targeting rows, physical suppression directive and Allhallow reconciliation; concrete state/extent/gear account.
+
+**Exact sources/history:** Full914A–D exactO-IIβ-914: Btitle/Pike appearance matches primary though A/Bbody still AmnesiaEdge; βVoid11–22 Normal2 Short2 Single100%,4/25; C1/1/.3/.8,4/20; DHead5%+1. Registry1015–1018 partial; archetype374 same-title Long conflicts with exactShort but Master613 explicitly belongs to separate O-IIIγ-914 Driftglass γLament. Inspected1040 source-designation fields only to exclude other source; no full1040 read claimed. Entity359 awaits row; disposition362 no-harm/radius record. B43unit5 full archived interactions/condition paragraph and B67unit2 testimony/trivia read, B45unit2 quote search. git exact-primary only baseline10cd20a. No unique additional coverage proven, conservative0/0; do not borrow Driftglass credits or body.
+
+**Changes:** Eleven repairs distinguish temporal identity-loss phenomenon/apparatus, ordinary minute and exceptional durations, expanding radius at fixed epicentre, readable clocks/gauge without visible body, uniform rather than selected effects, no physical suppression and proper independent-tally reconciliation.
+
+**Final logical result:** HELD: explicit nonbodily identity loss, fixed epicentre/growing radius, ordinary timing versus exceptions, apparatus and recovery-versus-equipment costs are improved. Remaining vessel, timing, entry chronology and item behavior conflicts prevent whole-file completion; no anatomy inference from gear and no human origin invented. Complete final primary reread in document order after actual validation, hash matches.
+
+**Holds / later recheck:**
+
+- VesselDestructible/drop still lacks a physical source target; chair is not proved to be the vessel.
+- Universal normal timing statements remain elsewhere against chair/Tide exceptions; onset/no warning versus1158 warning and clock elapsed-time account require exact state reconciliation.
+- Current no-inside-since4228 versus4230 witness/four entries and61-minute/eleven-year chronology remain unresolved. Noninjury record versus damaging action values lacks explicit conversion.
+- Source title Edge/Pike and local selective-intention ability versus Bgrief-cutting, Short versus Long archetype and new-bearer-site corrosion versus fixed epicentre lack a shared-state bridge; MasterDriftglass is another designation.
+
+**Commentary:** The kindness that makes the boundary grow is the important cruelty here. The board and grease pencil give that problem a practical shape without painting an invisible monster. I kept the difference between waiting out the minute and helping people recover afterward.
+
+**Checks and evidence:** `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_05_AMNESIA.md`. 11 supported replacements; LC_ALL=C wc -w5131→5466. All five validators PASS, raw outputs and original/final/source hashes in receipt. Written-design review only: no illustration, rendered page, browser, game or deployed site inspected. Equipment+0/+0, SE+0; no duplicate/retroactive/body/art credits.
+
+**Progress:** OPEN5/5, No change0/5. Types255/30184.72%(46/301remain);Weapon255/28788.85%(32/287remain);SE16/3015.32%(285/301remain). Individual gate/push follows. Minimum five/cumulative No change ladder retained. No169/merge/deployment;301owner-eight-body one4+4/generate-before-copy and later full recheck retained.
+
 ## Batch168 unit4 — The Last Warmth of Forty-Two `O-IVδ-515`
 
 [[SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-515_The_Last_Warmth_of_Forty-Two_%EB%A7%88%ED%9D%94%EB%91%98%EC%9D%98_%EB%A7%88%EC%A7%80%EB%A7%89_%EC%98%A8%EA%B8%B0.md "SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기.md")]

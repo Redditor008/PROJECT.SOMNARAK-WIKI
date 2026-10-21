@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-IIβ-914": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_05_AMNESIA.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Owner p after CLOSED167 authorizes168 only; minimum five, cumulative three No change triggers5→7→10; later full recheck retained."
@@ -4001,8 +4013,31 @@
     {
       "designation": "O-IIβ-914",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-914_Amnesia_잊혀진_일분.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: explicit nonbodily identity loss, fixed epicentre/growing radius, ordinary timing versus exceptions, apparatus and recovery-versus-equipment costs are improved. Remaining vessel, timing, entry chronology and item behavior conflicts prevent whole-file completion; no anatomy inference from gear and no human origin invented.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_05_AMNESIA.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/914_Amnesia/SE-914-A__SIDE_CODEX_Amnesia.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/914_Amnesia/SE-914-B__MAW-W_Amnesia_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/914_Amnesia/SE-914-C__MAW-S_Amnesia_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/914_Amnesia/SE-914-D__MAW-G_Amnesia_s_Token.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IIβ-922",
