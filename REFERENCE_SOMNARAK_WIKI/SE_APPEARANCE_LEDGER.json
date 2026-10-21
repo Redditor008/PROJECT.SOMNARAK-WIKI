@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IVδ-967": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_04_PANDORAS_JAR.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Latest owner p after CLOSED172 authorizes173 only. Minimumfive; cumulative three No change extends5→7→10. Later full recheck retained."
@@ -3746,8 +3758,33 @@
     {
       "designation": "N-IVδ-967",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-967_Pandoras_Jar_사라진_유물.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: The recorded humanoid bearing an absent object and legitimate distinct equipment have supported descriptive repairs, but body/fragment evidence, community identity and baseline/history conflict across the full file. FreshTypes/Weapon+1/+1,SE+0.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_04_PANDORAS_JAR.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/967_Pandora_s_Jar/SE-967-A__SIDE_CODEX_Pandora_s_Jar.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/967_Pandora_s_Jar/SE-967-B__MAW-W_The_Relic_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/967_Pandora_s_Jar/SE-967-C__MAW-S_The_Relic_Burden.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/967_Pandora_s_Jar/SE-967-D__MAW-G_The_Relic_Charm.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_PERSONALIZE_PROGRESS.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-Iα-025",
@@ -6016,6 +6053,14 @@
       "batch": 173,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_03_DOOR_NOWHERE.md",
       "history_proof": "ExactO-IIβ-922[O]→SE922A–D; notMiasmaC-IVδ-922→SE1043. Full Master652–654index692–694/details8063–8094, Entity587, fullTale21812195–12254, CSV1047–1050, archetype381Short, disposition383Neutral read. B105 comparison table specifically distinguishes this source fromMiasma but didnotreviewselected922fullset; earlierWIPvol01 152–160 andCHANGELOGvol02 1927 are ownseriesrestatements. No full/exactWeaponreview found, so fresh+1/+1. δ10–15/3Fast/3MediumSkewer2/50; Suit1/.4/1.8/1.2,2/45; CharmTail4%+3 match. Shortarchetype vs Mediumstat retained; Fanglegacyfilename/SideMasterdetailtitle doesnotnegate matching oakstaff Appearance.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "N-IVδ-967",
+      "batch": 173,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_04_PANDORAS_JAR.md",
+      "history_proof": "FullMaster562–564index602–604/details7073–7104, Entity556, completeTale18810505–10563, CSV1119–1122, archetype447Medium, disposition378Neutral read. EarlierB56unit10 2cde667 is seriesrestatement6555→6555, not full/exactWeaponcoverage; B20itemexpansion/Bmaulartvariety not primarydisposition. LegacyTheRelicMaul retained inA/filename/Masterdetail; matchingBbody/heading/primary/archetypecleaver. Priorartvesselhead/spikedstopper533 historicaldistinctitemdesign not a source-body requirement or priorcredit; fresh+1/+1. δ10–15/3/3Skewer2/50; Suit1/1/1.5/.5,2/45; Head4%+3 matches itemset; Registrygeneric5%conflict retained.",
       "all_types_credit": true,
       "weapon_credit": true
     }

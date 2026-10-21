@@ -8,6 +8,31 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch173 unit4 — Pandora’s Jar `N-IVδ-967`
+
+[[SE-N-IVδ-967_Pandoras_Jar_사라진_유물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-967_Pandoras_Jar_%EC%82%AC%EB%9D%BC%EC%A7%84_%EC%9C%A0%EB%AC%BC.md "SE-N-IVδ-967_Pandoras_Jar_사라진_유물.md")]
+
+**Original/source review and R18 predeclared scope:** Complete426-line original/full967A–D/README read; InnerWeight/IVδSubjectGrudge→lostidentityrelic/retentiondeletion→burninghumanoid/emptycuppedhands/thermalmarkers→unfixedDesolatemovement/archivevisit→descriptivewitnessversusexpertguess→registerbaseline/cycle→Apexcommunity/fragments/surfaces→δderivedcleaver/mantle/charm traced. R18predeclared2short/5careful; no sourceform forcedfrom titleJar or derivative.
+
+**Sources/history:** FullMaster562–564index602–604/details7073–7104, Entity556, completeTale18810505–10563, CSV1119–1122, archetype447Medium, disposition378Neutral read. EarlierB56unit10 2cde667 is seriesrestatement6555→6555, not full/exactWeaponcoverage; B20itemexpansion/Bmaulartvariety not primarydisposition. LegacyTheRelicMaul retained inA/filename/Masterdetail; matchingBbody/heading/primary/archetypecleaver. Priorartvesselhead/spikedstopper533 historicaldistinctitemdesign not a source-body requirement or priorcredit; fresh+1/+1. δ10–15/3/3Skewer2/50; Suit1/1/1.5/.5,2/45; Head4%+3 matches itemset; Registrygeneric5%conflict retained.
+
+**What changed:** Use actual Desolate thermometry/no-fixed-route movement, and replace generic handling pointer with the recorded loss-description method. Fill δequipmentgrade. Distinguish humanoid bearer/emptyhands from unidentifiedartifact and derivedgear. Add missing Skewer/falloff plus independent cleaver, mantle and Charm care.
+
+**Final whole-file assessment:** HELD: The recorded humanoid bearing an absent object and legitimate distinct equipment have supported descriptive repairs, but body/fragment evidence, community identity and baseline/history conflict across the full file. FreshTypes/Weapon+1/+1,SE+0.
+
+**Holds / later recheck:**
+- Bodycarryingphotographedfragments versus emptyhands/nothing/heat-only source records: actualstate/visibility evidence missing; cannot call all fragments recovered objects or invent disappearance cycle.
+- Noash/fire/photographicblankmarks versus coldash/fire and extensivelyphotographedfragments require object/trace/state discrimination; surface-loss/burnmeasure versus no thermalmark; not all differences automatically sameobject conflict.
+- Unestablishedunnamedpeople/noevidence versus Apexidentifiedextantassociation/annualletters is direct source identity clash, not missingoptional anatomy.
+- Lawfulroutineweeding/noactwrong versus deliberatecompleteddeletion/knownconduct needs recordhistory; no rewriting Tale to make it fit.
+- RecommendedonlyViderehan/Ferrehan versus supportedFlerehanrecognition; current generalfourmenu cannotgrantunsafePugnahan; Work/policycondition unresolved.
+- Ambientbaseline never recovers versus breachambient/Year41degrees, baseline11total versus10perschedule and degreeperitem; thermal/chartscope unresolved.
+- Universaldescriptionloss versus piece-specificaging/loss/slowing/sitecorrosion remains mixedcostscope; RegistryAccessory5% vs Head4%, +3statunnamed; maullegacy/correctcleaverform noted without renaming.
+
+**Commentary:** The gap in the register is more persuasive than guessing the treasure. I would keep the community’s right not to visit, but cannot present its correspondence as established alongside a claim that the people cannot be shown to exist. That needs a source decision, not a new shape or a more confident name.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 7 exact replacements (2batch-short/5careful-detail); LC_ALL=C words6445→6880. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_04_PANDORAS_JAR.md`. Equipment+1/+1;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No174/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch173 unit3 — Door to Nowhere `O-IIβ-922`
 
 [[SE-O-IIβ-922_Door_to_Nowhere_솟아오른_문](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-922_Door_to_Nowhere_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%AC%B8.md "SE-O-IIβ-922_Door_to_Nowhere_솟아오른_문.md")]
