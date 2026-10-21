@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIIβ-072": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_03_FATHERS_BROKEN_BOND.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Owner p after CLOSED167 authorizes168 only; minimum five, cumulative three No change triggers5→7→10; later full recheck retained."
@@ -131,8 +143,28 @@
     {
       "designation": "C-IIIβ-072",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: fixed tally design, changing mass, original acid damage, seep versus one-use fracture and inert residues now align more clearly. Historical/current object continuity and repeated-use provenance remain unresolved, so no SE completion. Integrated gear need not match source scale or shape, and absence of externalA–D alone is not a body defect.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_03_FATHERS_BROKEN_BOND.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/README.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIIβ-275",

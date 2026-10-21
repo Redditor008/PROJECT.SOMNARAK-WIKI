@@ -8,6 +8,31 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch168 unit3 — Father's Broken Bond `C-IIIβ-072`
+
+[[SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-072_Fathers_Broken_Bond_%EC%95%84%EB%B2%84%EC%A7%80%EC%9D%98_%EB%B6%80%EB%9F%AC%EC%A7%84_%EC%B0%A8%EC%9A%A9%ED%8C%A8.md "SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md")]
+
+**Original whole review and supported scope:** Complete404-line original read including integrated Weapon/Suit/Stigma and all activation/log/observation/Tale/Warden text. City grief of inherited indenture is expressed by acid-scarred brass tally, not donor anatomy. Whole chain includes historical boot break versus manual present trigger, varying weight without growing, single irreversible implosion/inert residue, Work lifting safety, contradictory mounted/no-hazard account, distinct equipment and neighboring debt resonances. Scope repairs current-state observability, impossible constant/no-hazard mass account, no-seep line, ball/head shape, overbroad debt cancellation, claim directive, evidence-custody phrasing and spent-shard extraction claim.
+
+**Exact sources/history:** No external exact072A–D: full Codex README integrated A-Relic exception explicitly names072 and515; all three embedded equipment blocks read, no absent Side bodies invented. Exact code/title/Flail/Suit/Stigma searches of Registry, archetypes and Master M.A.W. found no matching rows. Entity368 corroborates brass tally/purge; disposition122 misattributes stabilizing row to DebtScale although primary DebtScale accelerates20% and DebtEater stabilizes: shared row retained as a cross-source hold. B59unit2 filing-note and B65unit7 full Log/Method cleanup inspected; git primary history baseline10cd20a only. No new uniquely creditable equipment-source disposition proven, conservative+0/+0.
+
+**Changes:** Eight repairs add object/history/extent/release profile, reject spent-shard extraction, narrow debt clearance to combat effects, correct expense-claim instruction and no-seep claim, preserve shards as evidence, keep octagonal flail head and replace the no-variation/no-hazard Warden account with recorded load-cell/handling conditions.
+
+**Final logical result:** HELD: fixed tally design, changing mass, original acid damage, seep versus one-use fracture and inert residues now align more clearly. Historical/current object continuity and repeated-use provenance remain unresolved, so no SE completion. Integrated gear need not match source scale or shape, and absence of externalA–D alone is not a body defect. Complete final primary reread in document order after actual validation, hash matches.
+
+**Holds / later recheck:**
+
+- Historical snapped halves/cannot-weld and unspent whole tablet lack an explicit state bridge; no rebuilding, regeneration or second use invented.
+- Use-count labels3/5/7 versus single-use relic and theoretical/actual discharge testimony lack instance/simulation provenance.
+- Immediate execution in Tale versus sentencing court transcript, and sister Eun-Ji quoting taking Eun-Ji remain unresolved testimony/history.
+- Local mass/strength/anomalous-density measures and emergency thresholds retain original numbers; no normalization. Shared disposition DebtScale stabilization contradicts primary accelerating scale row.
+
+**Commentary:** The tiny tally with an impossible load is the right shape for inherited debt: bureaucracy made liftable, and then almost impossible to lift. Keeping the acid scars matters more than adding a humanoid avenger. The refusal should remain costly and singular, not become a renewable resource.
+
+**Checks and evidence:** `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_03_FATHERS_BROKEN_BOND.md`. 8 supported replacements; LC_ALL=C wc -w5086→5313. All five validators PASS, raw outputs and original/final/source hashes in receipt. Written-design review only: no illustration, rendered page, browser, game or deployed site inspected. Equipment+0/+0, SE+0; no duplicate/retroactive/body/art credits.
+
+**Progress:** OPEN3/5, No change0/3. Types255/30184.72%(46/301remain);Weapon255/28788.85%(32/287remain);SE16/3015.32%(285/301remain). Individual gate/push follows. Minimum five/cumulative No change ladder retained. No169/merge/deployment;301owner-eight-body one4+4/generate-before-copy and later full recheck retained.
+
 ## Batch168 unit2 — Allhallow `O-IIIγ-916`
 
 [[SE-O-IIIγ-916_Allhallow_유령의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-916_Allhallow_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-O-IIIγ-916_Allhallow_유령의_시간.md")]
