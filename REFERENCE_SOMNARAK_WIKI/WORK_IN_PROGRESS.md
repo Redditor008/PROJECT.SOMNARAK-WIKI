@@ -1,5 +1,24 @@
 # Work In Progress
 
+## Batch166 / unit3 — The Magistrate's Strike-Through `N-IIβ-319`
+
+[[SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-319_The_Magistrates_Strike-Through_%ED%8C%90%EA%B4%80%EC%9D%98_%EC%B7%A8%EC%86%8C%EC%84%A0.md "SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선.md")]
+
+**What changed:** Five repairs replace generic returned husk with powder boundary, restrict extra hostile-effect wording to line crossing, explain made-flesh as mineral manifestation, correct routine final-observation framing and add implement/mark/ward/origin/equipment distinctions.
+
+**Sources/history:** Exact319/title/NullifyingStylus search found no externalA–D set; cross-reference note explicitly holds all three profiles in primary. MasterEntity and disposition exact rows read. Both earlier B59 shared docket work and B64 Letter side-effect are prose/structure history, not this whole-design completion. No exact Weapon pair or extra all-types credit inferred.
+
+**Final logical outcome:** HELD: concrete mineral/mark/ward identification and powder endpoint are clearer, but full activation and protection scope remain unresolved. Acoustic attenuation and subjective heaviness are not manufactured body conflicts.
+
+**Holds:** Gauge-based activation versus physical circle completion remains unqualified; ordinary arc monitoring and no-half-circle clause still need authority/context clarification. Broad absolute immunity from guilt/harm in Tale/Consequence versus specific Void/panic/mind-erosion protection lacks a supported damage-scope crosswalk. Post-use no-extraction rule versus derived equipment availability has no item-resolved chronology. No synthetic replacement or repeated activation invented.
+
+**Commentary:** Keeping Baek-Hyeon's earlier sentences in the file prevents his final act from becoming a clean absolution. Putting the eighty-two names first makes the record honour what he saved rather than only praising the man.
+
+**Checks and evidence:** Five actual validators PASS; whole original and final read, 5supported replacements, LC_ALL=C words4562→4832. Receipt `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_03_MAGISTRATE.md` records raw checks, hashes and visual limits.
+
+**Progress:** OPEN3/5, No change0/3. Types255/30184.72%,46/301remain; Weapon255/28788.85%,32/287remain; SE16/3015.32%,285/301remain. No duplicated equipment/body credit. Both logs travel in the individual gate/push. Pending units are not No change; no close below five or earned rung, no167/merge/art/deployment,301ownerblocked. Later full check/fix backlog preserved.
+
+
 ## Batch166 / unit2 — The Wedge That Held `O-IIIγ-412`
 
 [[SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-412_The_Wedge_That_Held_%EB%81%9D%EB%81%9D%EB%82%B4_%EB%B2%84%ED%8B%B4_%EC%90%90%EA%B8%B0.md "SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md")]
