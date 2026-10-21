@@ -8,6 +8,29 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch177 unit2 — Memory Rain `C-IIβ-250`
+
+[[SE-C-IIβ-250_Memory_Rain_기억의_비](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-250_Memory_Rain_%EA%B8%B0%EC%96%B5%EC%9D%98_%EB%B9%84.md "SE-C-IIβ-250_Memory_Rain_기억의_비.md")]
+
+**Original/source review and R18 predeclared scope:** Complete457line original, all exact250A–D, Mastertable148–150/detail2503–2534, fullTale50/2820–2879, Entity414/CSV542–545/archetype166&295/disposition252/B107unit1 and B30 history read. Trace ObjectPlace/nonbreach→PlaceLament→collectiveWeepingoverload→glassybeads/fragmentcontents→fixedweather/driftingdrops/spreadingfall→VF/clock/anchors→physicalneedle/Deluge versus harmlessrecord→observer/contentrights/threegear/provenance. R18 predeclared3short (movement from PhysicalForm/extent; origin from ownTale/Watch; firstcontact from ownPhysical/Observation) and2careful individually authored form/gear organisation.
+
+**Sources/history:** B107unit1 c4e63c80 already counted fullTypes and exactWeapon; no duplicate credit. SE250MemoryRainA join, not UNK250Extinguished, deferredRestlessGap/DebtCollector or separateSE260Requiem. All-ref primary history shows10cd20a; earlierwork retained by actualarchivedlogs and ownsource-review paragraph. B107numeric5–9/2/2Single4/25, suit.4/1/1.6/.8/4/20, Tail5%+1Clarity match. Archet166gun and295shortsword bothexist, not a sourceauthority vote.
+
+**What changed:** Five supported repairs replace generic origin and first-contact prose with the city-overflow/clear-sky/clock record, distinguish fixed weather from drifting droplets, and add concrete distributed-form and piece-specific handling limits.
+
+**Final whole-file assessment:** HELD: five supported improvements, but collection/provenance, harm and recurrence relationships remain unresolved. Nonhuman weather is valid city sorrow; no body invented. +0/+0/+0.
+
+**Holds / later recheck:**
+- Harmless/noFractures/noentitlement versus sharpneedle/physicalwound/ATK/Fracture/bodyerosion remain same-state harm issue, not cleared by damage being a simulation; current file claims actual consequence. No invented harmful emergency form.
+- Collectcarefully/anchors in Resolution/Final/A versus local collectnothing/noArchive/noContents and sealedoldcontainer; sourceCrecorder/Archiveprocessing and AreturntoArchive versus primaryprohibition. No new transfer permission or forced content disclosure.
+- Contactdissolution/no preservation versus hourlonggroundcrystals/standingwaterextraction/foursecondUmbrella and sourcecataloguedcrystal must have supported handling scope. SourceDcharmself-fact versus primarysmallcrystalwarming are compatible adaptations unless scope conflicts; self-fact not newbody.
+- Periodneverchanges versus longerinterval successfulwork and constantvolume versus Tide/intensity/FullDeluge/spread; do not normalize by secretly equating all period/volume baselines. Fixedzone and downward beadmotion are compatible, not a hold.
+- HandCannonbronzephosphorlantern versus HancrystalshortRequiem; MasterLivingChitin versus silkcanopy; borrowedgriefthroughweapon versus setallpaidinsleep remains costscopehold. Numericcorealignment not silhouette proof. R19Neutral retained: Lakelevelrise not established escapehelp; SingingStone outputs unmatched.
+
+**Commentary:** The municipal gauge and the missing contents field make this weather persuasive. The strongest tension is that both the clean examinations and the workers’ disorientation can be true; turning one into proof that the other is false would erase the story. The short-shift remedy is compassionate precisely because it remains precarious.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 5 exact replacements (3batch-short/2careful-detail); LC_ALL=C words6831→7139. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_02_MEMORY_RAIN.md`. Equipment+0/+0;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No178/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch177 unit1 — Banyan `N-IVδ-606`
 
 [[SE-N-IVδ-606_Banyan_가라앉은_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-606_Banyan_%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80_%EB%82%98%EB%AC%B4.md "SE-N-IVδ-606_Banyan_가라앉은_나무.md")]

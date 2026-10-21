@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch177 OPEN1/5.** Owner p authorizes177 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B177_OPEN.json). No178/merge/art/deployment.
+**Latest: Batch177 OPEN2/5.** Owner p authorizes177 only. [Opening evidence](SE_APPEARANCE_REVIEWS/B177_OPEN.json). No178/merge/art/deployment.
 
 **Previous: Batch176 CLOSED5/5.** Five HELD whole designs;45 supported repairs. Equipment coverage+1 Types/+1 Weapon; SE+0. [Full report](SE_APPEARANCE_REVIEWS/B176_CLOSE.md). No177/merge/art/deployment.
 
@@ -1506,3 +1506,7 @@ Selection: fresh pending-only shortest LC_ALL=C word count, designation-byte tie
 ### Batch177 unit1 — OPEN1/5
 
 [Banyan evidence](SE_APPEARANCE_REVIEWS/B177_01_BANYAN.md): HELD, 6supported repairs, full final reading and five actual checks. No change0/1.
+
+### Batch177 unit2 — OPEN2/5
+
+[Memory Rain evidence](SE_APPEARANCE_REVIEWS/B177_02_MEMORY_RAIN.md): HELD, 5supported repairs, full final reading and five actual checks. No change0/2.
