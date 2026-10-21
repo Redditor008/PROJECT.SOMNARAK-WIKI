@@ -41,7 +41,7 @@
 - A successful cycle steadies the flame and stops the melting for a while. It restores nothing: the fire that saved the traveler is still decades out, the memory of it is still going soft, and the figure reforms with whatever face the next worker brings into the room.
 - The listed threshold of 3 is a count and it runs down, one for each failed or refused cycle, with the third bringing the entity to zero. Track it on the sheet rather than by feel: this holding gives almost no warning in the room, because the sign of a cycle going wrong here is the worker becoming comfortable.
 - The 12–18 Han-Energy yield is standard for the band and the risk is not distributed evenly across the people who earn it. Workers who arrive carrying a recent loss draw the same yield at several times the exposure, because the figure's face is assembled out of whatever grief is brought through the door.
-- Extraction of M.A.W. here is its own authorised event and is never attached to a good cycle as a reward. What comes out is a fragment of a comfort that went wrong, and the whole set keeps that character: every piece gives something genuinely warm at the moment of use and presents the bill afterwards.
+- Extraction of M.A.W. here is its own authorised event and is never attached to a good cycle as a reward. What comes out is a fragment of a comfort that went wrong. The pieces do not all provide warmth: separation, protection and brief emotional comfort have distinct functions and distinct costs, recorded in the equipment file.
 
 ## Combat Record
 ### Core Stat Line
@@ -147,7 +147,7 @@ Feu Follet is a Subject with Subject-Mind manifestation and Lament expression, h
 **Reading the response:** Read it in the melt rate and in the team, and weight the team heavily. A falling gauge presents as firming — the lower edge holding, the beat slowing to its recorded rhythm, the cold receding to the instrument reading. The entity is quieter and it is not resolved; it is a memory of comfort and nothing in a work cycle gives it the thing it is a memory of. A rising gauge presents as warmth. The room becomes pleasant, the figure becomes someone the worker is glad to see, and the melting accelerates while everybody present reports feeling better than when they came in. That combination is the reading and it is the only one that matters on this holding. Unusual responses precede breaches here reliably, and the most reliable of all is a team that has stopped using its anchors because the room no longer seems to need them.
 ## Breach Behavior
 
-> *"Feu Follet has broken free. Ignites personnel with sorrow-fire."*
+> *"Feu Follet’s Corrupt field is spreading through masks and minds. The core remains in place; anchor in present sensations."*
 
 | Field | Detail |
 |---|---|
@@ -195,7 +195,7 @@ Thrusting the brand-head into hostile entities sears deep third-degree burns int
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** A wrapping shroud of blue Lament Han-silk with cold flame patterns outside and one current-temperature thread running inside. Its outer cold and inner thread must be recorded separately; the source gives no physical heat.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -227,16 +227,16 @@ Thrusting the brand-head into hostile entities sears deep third-degree burns int
 
 ### M.A.W. Use Notes
 
-Every piece in this set gives something genuinely warm and charges for it afterwards, which is the character of the source and not a defect in the extraction. Forced outside its pattern the cost scales with the violation and presents as warmth with no source and the sense of being in good company while alone. What the set takes, in the end, is the capacity to be comforted by anything smaller than itself. The Stigma is the entity's prerogative and no quantity of correct procedure obliges it.
+Read the pieces separately. The disputed Weapon is credited with separating remembered comfort from present sensation; it must not erase the memory of rescue, and its wielder pays in grief and involuntary weeping. The Shroud preserves identity while comfort changes, at the cost of numb minor joys and, with prolonged wear, suspicion of all comfort. The Ember supplies brief emotional warmth without physical heat and takes a small memory as that warmth fades. It is not proof of present safety. Do not combine these costs into a shared warmth grant or keep using a piece to perfect a memory. Repeated use can dissolve sensory boundaries, turn protection into permanent winter, or make distress a reason to spend another memory. The Stigma is the entity's prerogative and no quantity of correct procedure obliges it.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, grade, gauge, the condition of the piece, the objective, and the anchors nominated for the session. The operator's own account of their state is recorded and is not the authorising field. |
-| **During use** | Activation time, effect strength, the area held, the anchor interval actually achieved, and the first cost noticed by somebody other than the wielder. |
+| **During use** | Activation time, effect strength, the area held, the anchor interval actually achieved, and the first cost noticed by somebody other than the wielder. Distinguish Weapon grief or lost sensory boundaries, Shroud numbness, and Ember warmth fading with a memory lost. |
 | **At limit** | Duration, activations, attribute movement, rejection signs, and whether the wielder has described the session as pleasant. |
-| **After use** | Removal, injuries, lingering effects, cooldown, repair need, reuse authorisation, and any face reported — which goes to the counsellor and not to the line supervisor. |
+| **After use** | Removal, injuries, lingering effects, cooldown, repair need, reuse authorisation, and any face reported — which goes to the counsellor and not to the line supervisor. The Shroud’s removal partner confirms present temperature and location; Ember care records the memory lost without inventing a replacement story. |
 
 **Stat interpretation:** The grade states how hard a piece hits and nothing about what it takes, and on this set the relationship runs the wrong way: the β ratings are unremarkable and the costs are among the quietest and most durable in the wing. A low-rated piece can carry a severe psychological price. Read both columns, authorise on the second, and ask who is carrying it.
 
@@ -269,7 +269,7 @@ Every piece in this set gives something genuinely warm and charges for it afterw
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Feu Follet (O-IIβ-301 [LS]) is a Subject-Mind manifestation expressing Lament, held at the Mask Market in Zone C. It formed out of one Desolate survivor's memory of warmth after everybody else was gone, and it arrives in the minds of people wearing masks — a face they recognise, a fire that was never lit.
+Feu Follet (O-IIβ-301 [LS]) is a Subject-Mind manifestation expressing Lament, held at the Mask Market in Zone C. It formed out of one Desolate survivor's memory of warmth after everybody else was gone, and it arrives in the minds of people wearing masks — a face they recognise, a remembered fire that is not evidence of present heat.
 
 **Entry 2 — <Excerpt from Mask Market Patrol Log, Year 4238>**
 Spreads through masks, reflections, and consciousness. Personnel confuse remembered comfort with present safety. It is calmer when its source is accepted as imperfect.
@@ -302,7 +302,7 @@ A flame burns behind your eyes. It shows a hand, a shelter, a moment when fear s
 
 **With continued exposure:** The room improves. It becomes a place somebody lived in, the cold stops being noticeable, and the worker's account of their own loss becomes fluent and slightly wrong — smoother in the telling each time, with the hard parts rounded off.
 
-**When the entity activates:** The melt rate climbs and nothing else does. There is no spike to feel, which is why the gauge and the melt edge are read off instruments while everybody in the room is reporting that they are fine.
+**When the entity activates:** The melt rate climbs while the room may still feel pleasant. Comfort is not a gauge reading: the team checks the gauge and melt edge rather than treating the absence of a felt spike as safety.
 
 **After departure:** The grief comes later, and it is for the figure rather than for the person it was wearing. Adjacent personnel report pleasant dreams of company, waking warm, and a reluctance to leave their quarters; the pleasantness is why those reports are collected.
 
@@ -385,7 +385,7 @@ The fire gives no heat and this is confirmed by the absence of any thermal readi
 
 ### It Dissolves When Faced
 
-Direct confrontation ends the manifestation and the standing order treats that as nothing gained. The perception stops, the figure goes out and the room empties, while the core's beat rate, the ring diameter and the melt rate run on through the whole episode without deviation — which is the reading that settles the question. Nothing was suppressed; the worker simply stopped being able to see it. Briefing teaches the method as a withdrawal aid and enters it under withdrawal, never under suppression, because two of the three Corrupt breaches on this holding opened with a team reporting that they had faced it down and it had gone out. The perception stops, the figure goes out, the room empties — and the core's beat rate, ring diameter and melt rate continue through the whole episode without deviation, which is the measurement that settles it. Nothing has been suppressed; the worker has merely stopped being able to see what is still there. The method is taught at briefing as a withdrawal aid and enters as withdrawal, never as a suppression, because two Corrupt breaches in three began with a team reporting that they had faced it down and it had gone out.
+Direct confrontation ends the manifestation and the standing order treats that as nothing gained. The perception stops, the figure goes out and the room empties, while the core's beat rate, the ring diameter and the melt rate run on through the whole episode without deviation — which is the reading that settles the question. Nothing was suppressed; the worker simply stopped being able to see it. Briefing teaches the method as a withdrawal aid and enters it under withdrawal, never under suppression, because two of the three Corrupt breaches on this holding opened with a team reporting that they had faced it down and it had gone out. The distinction is between ending a perception and suppressing the holding; withdrawal records must not collapse the two.
 
 ### A Fire That Saved Someone
 
@@ -435,7 +435,7 @@ Workforce planning's objection is minuted and read at every annual review. An un
 - **Classification detail:** Subject, Echo (II) coherence, Moderate (β) potency: a Mind-type holding that presents as warmth and cannot be measured by the face it is wearing.
 - **Field detail:** Lament is its element and the Mask Market in Zone C is its registered ground — held there among the stalls, in the minds of mask-wearers.
 - **Recognition detail:** Identify it by the core and never by the face. The face is different for every witness and belongs to them; the pale blue heart-beat of fire inside charred metal is the same in every account on file.
-- **Record detail:** Flame-form holdings are common in the archive and three sit in the Mask Market alone, so confirm the designation before a cycle is booked: the instructions diverge exactly where this one is unusual — whether the holding may be confronted at all, and here the answer is no.
+- **Record detail:** Flame-form holdings are common in the archive and three sit in the Mask Market alone, so confirm the designation before a cycle is booked: the instructions diverge exactly where this one is unusual — whether confrontation counts as suppression. Here it does not; the briefing permits it only as a withdrawal aid.
 - **Containment detail:** Containment holds a core that was never going anywhere. The entity is perceived inside consciousness, so the seal governs who may enter and not what reaches them: adjacent personnel report pleasant dreams of company, waking warm, and a reluctance to leave their quarters. Those reports are filed with the holding, and the pleasantness of them is the reason they are collected.
 ## Document Information
 
