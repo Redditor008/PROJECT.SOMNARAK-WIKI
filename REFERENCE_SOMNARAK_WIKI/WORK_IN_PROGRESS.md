@@ -1,5 +1,24 @@
 # Work In Progress
 
+## Batch165 / unit4 — The Unbroken Pledge `N-IIIβ-1056`
+
+[[SE-N-IIIβ-1056_The_Unbroken_Pledge_깨어지지_않은_서약](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-III%CE%B2-1056_The_Unbroken_Pledge_%EA%B9%A8%EC%96%B4%EC%A7%80%EC%A7%80_%EC%95%8A%EC%9D%80_%EC%84%9C%EC%95%BD.md "SE-N-IIIβ-1056_The_Unbroken_Pledge_깨어지지_않은_서약.md")]
+
+**What changed:** Five repairs add registration and observed slack to the burial instruction; specify bearer rather than generic target in both neck-tightening moves; preserve one-turn book and larger Min-Seok release without an absolute one-turn promise; add Appearance linking tethered cord, bitten coin, survivor history, conditional internal fibres, projected comrade, defensive field and released-cord equipment.
+
+**Sources/history:** B113unit5 a6b19e3 already primary-only Types coverage/no exact Weapon pair. Fresh exact1056/title/SurvivingHalf/Collar search found no external SideA–D set; primary cross-source note remains accurate and unworked third cord is not an inferred item. DispositionNeutral remains worker-only conditional benefit. ForgottenSoldier/BrokenPromise interactions are explicitly never-contact and untried-projection rules, not imported equipment or body sources.
+
+**Final logical outcome:** CHANGED: the entire written body/action chain is supported as a tethered, bearer-directed cord with projected/field effects, not an independent soldier. Revised release guidance follows the recorded name-entry event and does not overwrite variable response or failed treatment. Material, measured length, orientation, motion, constriction thresholds and derived gear remain intact.
+
+**Holds:** The cut bearer remains unable to use voice-based treatment. No invented cure, transfer or regrowth. Office service-cannot-be-confirmed replies are possible sealed-schedule links, not confirmed identities or permission to solicit forbidden names. BrokenPromise contact remains prohibited and untested. Exact cause and generality of differing release counts remain unproven; the instruction no longer guarantees a fixed decrement or a response to any summary. No exact external Weapon pair.
+
+**Commentary:** The twenty-two minutes spent fetching the register turn this from a generic guilt curse into something specifically municipal. The city has to accept the name before the cord lets go. The third unworked cord in the safe is more convincing than inventing a third piece of gear.
+
+**Checks and evidence:** Five actual validators PASS; whole original and final read, 5supported replacements, LC_ALL=C words3511→3894. Receipt `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B165_04_UNBROKEN_PLEDGE.md` records raw checks, hashes and visual limits.
+
+**Progress:** OPEN4/5, No change0/4. Types255/30184.72%,46/301remain; Weapon255/28788.85%,32/287remain; SE16/3015.32%,285/301remain. No duplicated equipment/body credit. Both logs travel in the individual gate/push. Pending units are not No change; no close below five or earned rung, no166/merge/art/deployment,301ownerblocked. Later full check/fix backlog preserved.
+
+
 ## Batch165 / unit3 — The Ancestral Guilt `N-Vω-1055`
 
 [[SE-N-Vω-1055_The_Ancestral_Guilt_조상의_원죄](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-V%CF%89-1055_The_Ancestral_Guilt_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%9B%90%EC%A3%84.md "SE-N-Vω-1055_The_Ancestral_Guilt_조상의_원죄.md")]
