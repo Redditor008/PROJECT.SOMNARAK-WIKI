@@ -8,6 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch169 unit4 — Hatred Above `C-IVδ-923`
+
+[[SE-C-IVδ-923_Hatred_Above_분노의_폭풍](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-923_Hatred_Above_%EB%B6%84%EB%85%B8%EC%9D%98_%ED%8F%AD%ED%92%8D.md "SE-C-IVδ-923_Hatred_Above_분노의_폭풍.md")]
+
+**Original whole review / scope:** Complete370-line original/exact923A–D read. CityGrudge Hazard is invisible fixedoverhead influence, not a cloud/worker/humanoid; angry subject targets nearestotherperson. Full chain includes unknown firstorigin versus datedincident, litfloorartificialcue, sideinstruments, delayedfury/crossing, wideninggeometry, outsidelineWork, unrecordedwords/privacy, derivedmarkinggear distinctpiececosts. Predeclared R18:0batch-short/9careful-detail; qualify fixedExpansion/Criticalrole, durationmean notupperbound, malformedTension, outsideWorkClash, concrete profile, noninterrogativeidentification, separationpriority andperimetersensors.
+
+**Exact sources/history:** Full923A–D sourcehistory/binding/failure/care read; Registry1051–1054, archetype382ChainLinkBladeMedium versus local/BsingleedgeShort, disposition343Neutral read-only comparators; Entity359awaitingrow/no dedicated exactMasterequipment orTale. B128unit2 whole evidence/holds/history read, earlier39a38df15eca646695a349348295c7fe117aaecb exactpair credited, no repeat0/0. B48unit2 fullquote/parity/interaction paragraph and B66combat/testimony history read. Source/localδGrudge11–22 Normal2 Short2 Single100%4/25;Suit1/.3/1.2/.8 4/20; DHead5%+1 align. Do not retrofit unknown-event source naming or source-body relocation into crossing record.
+
+**Changes:** Nine repairs clarify invisible fixed source/artificial lighting/widened footprint and independent gear; correct Critical role, duration mean versus maximum, malformed approach, outside-work versus equipment crossing, unsafe interrogative identification, physical-suppression directive and internal-sensor wording.
+
+**Final logical result:** HELD: the primary now supports invisible fixed source, artificial identification, changed footprint and outside-line Work without a monster or damaging body intervention. Mean versus maximum duration is repaired from its own record. Explicitly timed two-technician fixture maintenance is an actual documented exception, not automatically a conflict with ordinary singly-crossing; paired transfer and compulsory reconciliation are not inferred. Vessel/combat scope, gauge crosswalk and same-item provenance remain unresolved. Complete final primary reread in document order after validation; final hash matches.
+
+**Holds / later recheck:**
+- VesselDestructible/dust versus unseen unreachable atmosphere and no sourceobject; aimed combat/provokedstarved/cornered triggers versus manufactured workeranger have no documented encounter-state bridge.
+- Turnwise growing drain versus stale-metre gauge40/10/70 and intervalkept decreases remain distinct unmapped measures; no new survey boundary or suppression mode invented.
+- Token extractedfromcoldlamp togetherY4244 versus recurring foundbeyondline/bestowal; localstanchionbladeShort versus archetypeChainLinkMedium remain same-item provenance/range holds.
+- Recordedshoutedwords prohibited while battleflavordialogue and rememberedindividualspeech are illustrative; sourceunknown-event spokenbinding/shutdown must not become demandedworkerconfession. Not declared resolved merely by checks.
+
+**Commentary:** The cold light on a worker’s own hands is a stronger visual anchor than a visible storm. Separation without answering, and refusing to archive involuntary words, make the hazard specific. The maintenance exception is useful precisely because it is documented rather than invented to make the general crossing rule convenient.
+
+**Checks/evidence:** `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B169_04_HATRED_ABOVE.md`. 9 supported replacements; LC_ALL=C wc-w5472→5769. Five actual validators PASS; raw outputs and original/final/source hashes in receipt. Written-design logical review only; no artwork, render, browser, game, preview or published-site inspection. Equipment+0/+0;SE+0. No duplicate, retroactive or artwork credits.
+
+**Progress:** OPEN4/5, No change0/4; Types255/30184.72%(46remain),Weapon255/28788.85%(32remain),SE16/3015.32%(285remain). Gate/push follows. No170/merge/deployment;301eight-owner-body one4+4/generate-before-copy and later full recheck retained.
+
 ## Batch169 unit3 — The Music Box of Agony `N-IIγ-903`
 
 [[SE-N-IIγ-903_The_Music_Box_of_Agony_고통의_오르골](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-II%CE%B3-903_The_Music_Box_of_Agony_%EA%B3%A0%ED%86%B5%EC%9D%98_%EC%98%A4%EB%A5%B4%EA%B3%A8.md "SE-N-IIγ-903_The_Music_Box_of_Agony_고통의_오르골.md")]

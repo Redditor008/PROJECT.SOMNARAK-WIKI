@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVδ-923": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B169_04_HATRED_ABOVE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Owner p after CLOSED168 authorizes169 only. Minimum five, cumulative three No change5→7→10; later full recheck retained."
@@ -1811,8 +1823,30 @@
     {
       "designation": "C-IVδ-923",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-923_Hatred_Above_분노의_폭풍.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: the primary now supports invisible fixed source, artificial identification, changed footprint and outside-line Work without a monster or damaging body intervention. Mean versus maximum duration is repaired from its own record. Explicitly timed two-technician fixture maintenance is an actual documented exception, not automatically a conflict with ordinary singly-crossing; paired transfer and compulsory reconciliation are not inferred. Vessel/combat scope, gauge crosswalk and same-item provenance remain unresolved.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B169_04_HATRED_ABOVE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/923_Hatred_Above/SE-923-A__SIDE_CODEX_Hatred_Above.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/923_Hatred_Above/SE-923-B__MAW-W_Hatred_Above_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/923_Hatred_Above/SE-923-C__MAW-S_Hatred_Above_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/923_Hatred_Above/SE-923-D__MAW-G_Hatred_Above_s_Token.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-976",
