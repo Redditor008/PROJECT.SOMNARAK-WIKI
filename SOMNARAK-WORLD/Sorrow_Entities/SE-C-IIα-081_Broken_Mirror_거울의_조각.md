@@ -39,7 +39,7 @@
 
 ### Operational Notes
 
-- The break pattern is fixed in the sense that nothing already cracked ever heals. Nineteen new cracks have appeared since it entered the Archive, each dateable to within six days.
+- The existing cracks do not heal; that does not make the pattern unchanging. Nineteen new cracks have appeared since it entered the Archive, each dateable to within six days.
 - Work settles the surface for a shift. No cycle has altered the break, and what the glass shows does not depend on the gauge at all.
 - Only Viderehan and Ferrehan apply. Both have been tested at length — this is a Mastered holding — and the restriction is correct here rather than copied from a template.
 - There is no breach counter. The affected radius grows inside the Archive and its edge is remeasured from the case at every session; it has reached the second stack twice.
@@ -115,12 +115,20 @@
 - **Element signature:** Void
 - **Registered location:** SECTOR-A-01, Alpha Tree Archive — contained
 
+### Appearance States and Source Boundaries
+
+The sealed memories belong to the formation history, not to an earlier walking body. The vault failed and its contents crystallized into the dark mirror; the present holding is the fractured crystal and corroded frame in its shallow case. No human anatomy is implied by the citizens whose memories formed it.
+
+A face at different ages, or a fracture across that face, belongs to the viewer's projection. New cracks in the crystal are separately traced against the overlay. Neither a widening radius nor fragmentation propagating to other reflective surfaces is evidence that the case has walked into the stacks.
+
+The struck-triggered Flying Glass action does describe a departing shard, whereas the surveyed count and fixed-position summaries do not record a loss. Keep the action and the count together as an unresolved physical-accounting question; do not supply an undocumented return or call it ordinary case locomotion. The Reflection Lens, Veil and Shard are derived pieces, not alternate bodies of the source. Their different sizes and materials need no invented transformation between them.
+
 ### Detailed Appearance Profile
 
 | Field | Detail |
 |---|---|
 | **Form** | A cracked ancient mirror made from dark Han-crystal. It reflects not the present but a memory the viewer has forgotten or suppressed. |
-| **Position / movement** | Fixed in its case; only the radius moves. Record the radius edge measured from the case, the crack overlay, and the glass angle at open and close. |
+| **Position / movement** | Normally fixed in its case; activation expands the radius and alters reflections, not the case position. Record the radius edge, crack overlay and glass angle, and retain any Flying Glass event separately with the physical shard count. |
 | **Material / signature** | Void. Dark Han-crystal, bloodless-cold and giving back no warmth whatever the room does, in a corroded frame; the flat smell of ash within about two metres. |
 | **Distinctive markers** | A faceted break across dark crystal, a corroded frame that sheds residue, and a reflection that is never the room. |
 | **Identification** | A hundred and eighty-eight pieces of mirror in a shallow tray, angled away from the room, every piece showing a different age of whoever is in front of it. The count is the identification and it is checked at the start of every session. |
@@ -267,16 +275,20 @@ Escalation here is radius and recurrence, not force. Record the first trigger, t
 
 ### M.A.W. Use Notes
 
-Every piece shows somebody a period they arranged to lose, and the set does the same to its wielder at a rate the Armoury cannot control. The benefit is precision — wielders recall removed material accurately, and eleven namings have been verified against the Keepers' own clerks. The cost is that they stop being able to tell which of their memories were removed and which were simply forgotten, and that distinction is the thing the erasure service sold.
+The pieces share the source's concern with recovered history, not a single identical effect. The Lens takes small, nameless memories while striking; the Veil protects against Void while leaving the wearer faintly absent to themselves; the Shard exposes other people's hidden pain. Confusing those costs with one universal projection conceals what actually needs to be watched.
+
+The local Lens reports include eleven verified clerk namings, but that is not a guarantee that every source projection is true. Keep those checks apart from the verification file's incorrect and unresolved viewings. Equipment performance cannot make the source fit to decide a clearance application.
+
+The exact Reflection set identifies this source by designation under the title Honest Reflection. Its event-attribution and first-person corrosion warnings are relevant to bearer records, but its gauge-based binding limit does not establish an explanation for the local one-viewing, consent and detachment procedure. Preserve that procedural disagreement rather than treating the item set as permission for extra viewings. Care follows attribution review; a named witness states the source title and event while the bearer relinquishes the actual item. Shutdown does not restore the memories paid for use.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, the shard count, and a copy of the wielder's own entry in the Keepers' erasure register if they have one, sealed and not opened unless they ask. |
-| **During use** | Everything the wielder recalls that the register lists as removed, transcribed verbatim by the second worker. |
+| **During use** | Record the actual piece and its specific cost alongside everything recalled from the removed register, transcribed verbatim by the second worker. Mark a first-person claim to the vault-failure event separately from a memory of the bearer's own life. |
 | **At limit** | The wielder asks to see their own register entry. Two rotations reached it; both requests were refused at the time and granted a fortnight later, which the Armoury's note describes as the least satisfactory procedure it operates. |
-| **After use** | Seal the transcript with the wielder's own consent recorded on the outside, and offer it to them annually thereafter. Of eleven such transcripts, three have been collected. |
+| **After use** | Record witnessed relinquishment, lingering cost and attribution review before cleaning or rest. Preserve consent: seal the transcript with the wielder's own consent recorded on the outside, and offer it to them annually thereafter. Of eleven such transcripts, three have been collected. |
 
 **Stat interpretation:** The grade measures extraction stability. This set hands people back what they paid to be rid of, accurately, and no rating column holds that; authorise on the sealed register entry and on whether the wielder has one.
 

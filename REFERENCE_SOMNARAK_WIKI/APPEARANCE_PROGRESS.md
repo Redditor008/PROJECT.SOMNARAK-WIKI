@@ -8,8 +8,8 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 
 | Workstream | Completed | Coverage | Remaining |
 |---|---:|---:|---:|
-| ALL M.A.W. Types Appearance per SE — source-review coverage | 254 / 301 | 84.39% | 47 / 301 |
-| ALL M.A.W.-W Appearance per SE — source-review coverage | 254 / 287 | 88.50% | 33 / 287 |
+| ALL M.A.W. Types Appearance per SE — source-review coverage | 255 / 301 | 84.72% | 46 / 301 |
+| ALL M.A.W.-W Appearance per SE — source-review coverage | 255 / 287 | 88.85% | 32 / 287 |
 | SE Appearance Fix — independent written-design pass | 12 / 301 | 3.99% | 289 / 301 |
 
 These are coverage counters, **not promises that every held discrepancy is repaired**. The first two retain their historical criteria and explicit source holds. The new counter starts at zero; old equipment reviews, general prose fixes, shape screening and the R-32 clarification are not backfilled as SE appearance completions.
@@ -871,3 +871,7 @@ Owner's research-first P and latest continuation authorize this batch. Fresh pen
 ### Batch164 unit2 — OPEN 2 / 5
 
 [The Foam Flood evidence](SE_APPEARANCE_REVIEWS/B164_02_FOAM_FLOOD.md):12repairs, five checks PASS/fullfinalreread; HELD, no duplicate equipment or body credit. No change0/2; cumulative counters unchanged. Five completed reviews required; later full recheck issues remain visible.
+
+### Batch164 unit3 — OPEN 3 / 5
+
+[Broken Mirror evidence](SE_APPEARANCE_REVIEWS/B164_03_BROKEN_MIRROR.md):6repairs, five checks PASS/fullfinalreread; HELD, no duplicate equipment or body credit. No change0/3; Types255/301, Weapon255/287, SE12/301. Independent fresh equipment credits follow the evidence history; no duplicate or retrospective claim. Five completed reviews required; later full recheck issues remain visible.

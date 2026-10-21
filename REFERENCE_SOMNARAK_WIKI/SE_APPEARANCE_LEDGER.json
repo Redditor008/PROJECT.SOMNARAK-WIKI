@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIα-081": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_03_BROKEN_MIRROR.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Owner P requested appearance research before164; latest p continues164 and permits a later full checking/fixing pass after this pass finishes. No165 authorization or automatic old-hold clearance."
@@ -830,8 +842,29 @@
     {
       "designation": "C-IIα-081",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIα-081_Broken_Mirror_거울의_조각.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Formation-to-current shape is coherent without humanoid anatomy or item silhouette matching, but shard-flight/count, damageability and mounting/termination relationships still prevent an honest whole-design pass. HELD for those evidence gaps, not merely for equipment derivation.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_03_BROKEN_MIRROR.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1009_Honest_Reflection/SE-1009-A__SIDE_CODEX_Honest_Reflection.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1009_Honest_Reflection/SE-1009-B__MAW-W_The_Reflection_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1009_Honest_Reflection/SE-1009-C__MAW-S_The_Reflection_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1009_Honest_Reflection/SE-1009-D__MAW-G_The_Reflection_Shard.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIβ-048",
@@ -4417,6 +4450,14 @@
       "batch": 163,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_03_UNCONSOLED.md",
       "history_proof": "Fresh exact248A–D and MAW-W-UNK-248-01 comparison; no prior full-set or Weapon comparison found in all current/archivedlogs or durable equipment ledger. PriorR28/reclassification, R29condition and prose/disposition only. +1Types/+1Weapon; zeroSE completion.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "C-IIα-081",
+      "batch": 164,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_03_BROKEN_MIRROR.md",
+      "history_proof": "Identity: numeric081 set is Hollow Saint C-IIIγ-081, NOT this source. Exact1009A–D explicitly name C-IIα-081 [VO] and match Reflection Lens/Veil/Shard; all four fully read. Master100–102 inventory/detail, Entity398, complete Tale34, CSV198–201, archetype409 and disposition296 read. Fresh exactSE-1009-B/MAW-W-1009-01/HonestReflection/ReflectionLens/full-designation search across all six current/archived WIP+CHANGELOG, reference Markdown, all-ref commit subjects and independent ledger found no earlier comparative source review. ArchivedB56unit7 d986423 is R29series retained7703words, not equipment comparison. HollowSaint SE081B/B86/B120 is a different full identity and cannot confer this credit. This fresh whole-primary/exact-set comparison earns+1Types/+1Weapon, no body backfill.",
       "all_types_credit": true,
       "weapon_credit": true
     }
