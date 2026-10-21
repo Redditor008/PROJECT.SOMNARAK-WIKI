@@ -1,6 +1,6 @@
 {
   "batch": 168,
-  "status": "OPEN",
+  "status": "CLOSED",
   "required": 5,
   "completed": 5,
   "no_change": 0,
@@ -133,7 +133,8 @@
         "se": 0
       },
       "link": "[[SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-917_Dawn_That_Forgot_%EC%9E%A0%EB%93%9C%EB%8A%94_%EC%83%88%EB%B2%BD.md \"SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md\")]",
-      "table_link": "[Dawn_That_Forgot](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-917_Dawn_That_Forgot_%EC%9E%A0%EB%93%9C%EB%8A%94_%EC%83%88%EB%B2%BD.md \"SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md\")"
+      "table_link": "[Dawn_That_Forgot](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-917_Dawn_That_Forgot_%EC%9E%A0%EB%93%9C%EB%8A%94_%EC%83%88%EB%B2%BD.md \"SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md\")",
+      "unit_commit": "2652e0577bfe90c084e7a0f29555e38855f148c0"
     },
     {
       "designation": "O-IIIγ-916",
@@ -230,7 +231,8 @@
         "se": 0
       },
       "link": "[[SE-O-IIIγ-916_Allhallow_유령의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-916_Allhallow_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%8B%9C%EA%B0%84.md \"SE-O-IIIγ-916_Allhallow_유령의_시간.md\")]",
-      "table_link": "[Allhallow](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-916_Allhallow_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%8B%9C%EA%B0%84.md \"SE-O-IIIγ-916_Allhallow_유령의_시간.md\")"
+      "table_link": "[Allhallow](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-916_Allhallow_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%8B%9C%EA%B0%84.md \"SE-O-IIIγ-916_Allhallow_유령의_시간.md\")",
+      "unit_commit": "7b0351f1f7d2457e26eff24f32dae8a3f8fe2a11"
     },
     {
       "designation": "C-IIIβ-072",
@@ -322,7 +324,8 @@
         "se": 0
       },
       "link": "[[SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-072_Fathers_Broken_Bond_%EC%95%84%EB%B2%84%EC%A7%80%EC%9D%98_%EB%B6%80%EB%9F%AC%EC%A7%84_%EC%B0%A8%EC%9A%A9%ED%8C%A8.md \"SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md\")]",
-      "table_link": "[Fathers_Broken_Bond](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-072_Fathers_Broken_Bond_%EC%95%84%EB%B2%84%EC%A7%80%EC%9D%98_%EB%B6%80%EB%9F%AC%EC%A7%84_%EC%B0%A8%EC%9A%A9%ED%8C%A8.md \"SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md\")"
+      "table_link": "[Fathers_Broken_Bond](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-072_Fathers_Broken_Bond_%EC%95%84%EB%B2%84%EC%A7%80%EC%9D%98_%EB%B6%80%EB%9F%AC%EC%A7%84_%EC%B0%A8%EC%9A%A9%ED%8C%A8.md \"SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md\")",
+      "unit_commit": "00aeb1eff304ef3840cd5137e5a31a2fe81fa7fe"
     },
     {
       "designation": "O-IVδ-515",
@@ -422,7 +425,8 @@
         "se": 0
       },
       "link": "[[SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-515_The_Last_Warmth_of_Forty-Two_%EB%A7%88%ED%9D%94%EB%91%98%EC%9D%98_%EB%A7%88%EC%A7%80%EB%A7%89_%EC%98%A8%EA%B8%B0.md \"SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기.md\")]",
-      "table_link": "[The_Last_Warmth_of_Forty-Two](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-515_The_Last_Warmth_of_Forty-Two_%EB%A7%88%ED%9D%94%EB%91%98%EC%9D%98_%EB%A7%88%EC%A7%80%EB%A7%89_%EC%98%A8%EA%B8%B0.md \"SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기.md\")"
+      "table_link": "[The_Last_Warmth_of_Forty-Two](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-515_The_Last_Warmth_of_Forty-Two_%EB%A7%88%ED%9D%94%EB%91%98%EC%9D%98_%EB%A7%88%EC%A7%80%EB%A7%89_%EC%98%A8%EA%B8%B0.md \"SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기.md\")",
+      "unit_commit": "46155b71560220844835661e00439d0a7ba64bbe"
     },
     {
       "designation": "O-IIβ-914",
@@ -532,7 +536,21 @@
         "se": 0
       },
       "link": "[[SE-O-IIβ-914_Amnesia_잊혀진_일분](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-914_Amnesia_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%BC%EB%B6%84.md \"SE-O-IIβ-914_Amnesia_잊혀진_일분.md\")]",
-      "table_link": "[Amnesia](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-914_Amnesia_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%BC%EB%B6%84.md \"SE-O-IIβ-914_Amnesia_잊혀진_일분.md\")"
+      "table_link": "[Amnesia](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-914_Amnesia_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%BC%EB%B6%84.md \"SE-O-IIβ-914_Amnesia_잊혀진_일분.md\")",
+      "unit_commit": "f0dbbb49c7d96480aa1e0069edef148717fafcd0",
+      "initial_unit_commit": "3640c446fa67c719d95b568c9207322310ad8a81"
     }
-  ]
+  ],
+  "closure": "B168_CLOSE.md",
+  "checks": "25 fresh validators and54 tests PASS",
+  "words": [
+    25195,
+    26779
+  ],
+  "repairs": 46,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  }
 }

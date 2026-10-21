@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch168 — CLOSED5/5; five repaired designs HELD
+
+Owner p after CLOSED167 discharged for168 only.46 supported repairs; LC_ALL=C wc-w25,195→26,779. Whole original/exact-source/history/final readings and individual verified pushes complete. No change0/5 does not trigger5→7→10; full interactions/bespoke records are not simple.25fresh validators and54tests PASS. All296 unselected dossiers/five reserves/source fingerprints unchanged;300 PhysicalForm rows unchanged and917's nonbodily temporal qualification documented. Original digit streams unchanged.515 stock-prefix failure fixed before push;914 same-unit correction/rechecks/full reread disclosed, no extra unit/credit. Five HELD reviews do not earn SE completions. Types255/30184.72%(46remain);Weapon255/28788.85%(32remain);SE16/3015.32%(285remain). Ledger12changed/4retained/103held/2blocked/180pending. No169/merge/deployment;PR14OPENdraft→NON-WIKI;301owner8bodies one4+4/generate-before-copy and later full recheck retained.
+
+[Detailed per-dossier content, Commentary, holds, linked table and checks](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_CLOSE.md) · [Raw closure evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_CLOSE.json).
+
 ## Batch168 unit5 same-unit correction — Amnesia
 
 Corrected newly authored Appearance wording to loss of access during the interval, preserving complete direct recovery separately from permanent equipment costs. Repeated all five validators and complete351-line final reread; updated exact recipe/final SHA evidence. The compressed no-inside-since4228 hold is superseded: outside Work and interior entry incidents are different scopes, not a proved contradiction. Remaining timing/vessel/item holds unchanged. No extra unit or credit; OPEN5/5, No change0/5. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_05_AMNESIA.md).

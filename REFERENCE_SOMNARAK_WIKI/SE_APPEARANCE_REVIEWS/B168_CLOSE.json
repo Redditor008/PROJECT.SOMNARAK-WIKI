@@ -1,0 +1,227 @@
+{
+  "base": "63cfac40eab0c6f832a4ccf48d2356bfbdf3dda5",
+  "preclosure": "f0dbbb49c7d96480aa1e0069edef148717fafcd0",
+  "units": [
+    {
+      "designation": "N-IIIγ-917",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md",
+      "receipt": "B168_01_DAWN_THAT_FORGOT.md",
+      "name": "Dawn That Forgot",
+      "unit_commit": "2652e0577bfe90c084e7a0f29555e38855f148c0",
+      "words": [
+        4924,
+        5176
+      ],
+      "repairs": 9,
+      "sha256": "cb812ba2f94a3124d92b1556966465861490963b807dc8506663b804c59ff6cc",
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md\n",
+        "sectfile": " 0.040  clean   124 grams  Breach Behavior\n 0.017  clean   119 grams  Operational Parameters\n 0.009  clean   564 grams  M.A.W. Equipment\n 0.004  clean   479 grams  Combat Record\n 0.000  clean   364 grams  Appearance\n 0.000  clean   331 grams  상호작용 (Entity Interactions)\n 0.000  clean   285 grams  Warden Record\n 0.000  clean   209 grams  이야기 보고 (Story Log)\n 0.000  clean   171 grams  감각 묘사 (Flavor Text)\n 0.000  clean   153 grams  기록 (Registrum)\n 0.000  clean   132 grams  이야기 (Narratio)\n 0.000  clean   123 grams  Origin\n 0.000  clean   111 grams  관찰 기록 (Observation Log)\n 0.000  clean    67 grams  Behavior\n 0.000  clean    47 grams  최종 관찰 (Final Observation)\n 0.000  clean    39 grams  증언 (Testimonium)\n 0.000  clean    36 grams  Trivia\n 0.000  clean    35 grams  SECC Classification\n 0.000  THIN     10 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "fraction 0.004278728606356968\nPASS\n"
+      },
+      "sources": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-A__SIDE_CODEX_Dawn_That_Forgot.md": "b563c6fb4b358a2d19b804498a36f04d14675aac78c0158f1df7d39da2b03da0",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-B__MAW-W_Dawn_That_Forgot_s_Edge.md": "d1c179e20c3a652c58715654a3b380de1833a5dfabc47e00be1d5ba4b9564c25",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-C__MAW-S_Dawn_That_Forgot_s_Veil.md": "b6e1cd142ca65a0d0420d7f01d573e2e94389d2c8d4b7adbfd5490d63c241474",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-D__MAW-G_Dawn_That_Forgot_s_Token.md": "b7f3391502efef1e59737bcca0e5cd3c8772f06b697b93c905c311f67f5a2462",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "holds": [
+        "VesselDestructibleYes/drop versus no source form/body remains; no physical vessel invented.",
+        "Stalled pre-dawn clock/missing-hour combat and horizon-wide Ultimate versus daylight on schedule and three geographic widenings need state evidence.",
+        "Gauge70 unchanged nine years versus successful watches lowerGauge; exposure/episode/shift timing scopes and mean-time final-success wording remain.",
+        "Comparison claims neither file entered despite four local entries. Same Weapon Instant lens versus Shortblade and bearer-as-new-site corrosion remain separate source issues."
+      ],
+      "commentary": "The loss is ordinary lateness rather than theatrical terror, which makes the district adapting its early shift convincing. The confidential exposure ledger gives watchers a cost without turning their medical history into facility property.",
+      "numeric_sequence_unchanged": true,
+      "exact_recipe_reconstruction": true
+    },
+    {
+      "designation": "O-IIIγ-916",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-916_Allhallow_유령의_시간.md",
+      "receipt": "B168_02_ALLHALLOW.md",
+      "name": "Allhallow",
+      "unit_commit": "7b0351f1f7d2457e26eff24f32dae8a3f8fe2a11",
+      "words": [
+        4963,
+        5302
+      ],
+      "repairs": 8,
+      "sha256": "60e3f988c45ae3cf915e0512db58835befa9664c7301b6e3aec702738d913a4b",
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-O-IIIγ-916_Allhallow_유령의_시간.md\n",
+        "sectfile": " 0.033  clean   150 grams  Breach Behavior\n 0.029  clean   381 grams  Combat Record\n 0.017  clean   116 grams  Operational Parameters\n 0.012  clean   678 grams  M.A.W. Equipment\n 0.000  clean   384 grams  Appearance\n 0.000  clean   359 grams  상호작용 (Entity Interactions)\n 0.000  clean   288 grams  Warden Record\n 0.000  clean   222 grams  이야기 보고 (Story Log)\n 0.000  clean   182 grams  기록 (Registrum)\n 0.000  clean   159 grams  이야기 (Narratio)\n 0.000  clean   157 grams  감각 묘사 (Flavor Text)\n 0.000  clean   128 grams  Origin\n 0.000  clean    98 grams  관찰 기록 (Observation Log)\n 0.000  clean    88 grams  증언 (Testimonium)\n 0.000  clean    61 grams  Trivia\n 0.000  clean    52 grams  Behavior\n 0.000  clean    47 grams  최종 관찰 (Final Observation)\n 0.000  clean    36 grams  SECC Classification\n 0.000  THIN     11 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "fraction 0.0073425585992657446\nPASS\n"
+      },
+      "sources": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1042_Hour_the_Dead_Walk/SE-1042-A__SIDE_CODEX_Hour_the_Dead_Walk.md": "955bf24d8945ee31475215c6643f46a9d415a388681486d07a0b60d6a9753c29",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1042_Hour_the_Dead_Walk/SE-1042-B__MAW-W_Hour_the_Dead_Walk_s_Edge.md": "b8b8c7dfbbab1cb5e7dbc9e8f94ed1a79b2e3e1ce0a5b670791b3e68cb10f1a8",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1042_Hour_the_Dead_Walk/SE-1042-C__MAW-S_Hour_the_Dead_Walk_s_Veil.md": "f1d9840b865c029c89a71d1e3454be8939b640e1b0b476576a288afa8a166bf1",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1042_Hour_the_Dead_Walk/SE-1042-D__MAW-G_Hour_the_Dead_Walk_s_Token.md": "739c953f8e7b3c16beb7f8f582c3bdf65289db49578768c12717e9228257ee4e",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98"
+      },
+      "holds": [
+        "Vessel destruction/drop has no established tangible vessel; no unrecorded physical target invented.",
+        "Combat targeted/provoked/cornered attack triggers and burst collapse lack observed state bridge to no contact/no walker acknowledgment/no injury.",
+        "Gauge60 unchanged eleven years versus dual-count Work decreases and per-turn escalation need distinct field scopes. Titles Allhallow versus Hour the Dead Walk remain held; no item Appearance bridges the optical1042 archetype to the blade."
+      ],
+      "commentary": "The strongest choice is refusing to ask whom a Warden recognized. It protects a personal grief from becoming manufactured evidence. Two honest counts that disagree are more unsettling than an invented correct total.",
+      "numeric_sequence_unchanged": true,
+      "exact_recipe_reconstruction": true
+    },
+    {
+      "designation": "C-IIIβ-072",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md",
+      "receipt": "B168_03_FATHERS_BROKEN_BOND.md",
+      "name": "Father's Broken Bond",
+      "unit_commit": "00aeb1eff304ef3840cd5137e5a31a2fe81fa7fe",
+      "words": [
+        5086,
+        5313
+      ],
+      "repairs": 8,
+      "sha256": "f6cc7064f43b5f2ef89d99cf987b9f03f0ede38dbd72829a4cb385363f25775d",
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md\n",
+        "sectfile": " 0.010  clean    96 grams  Operational Parameters\n 0.003  clean   301 grams  Combat Record\n 0.000  clean   904 grams  Activation Behavior\n 0.000  clean   290 grams  Warden Record\n 0.000  clean   280 grams  Appearance\n 0.000  clean   233 grams  이야기 (Narratio)\n 0.000  clean   224 grams  감각 묘사 (Flavor Text)\n 0.000  clean   198 grams  M.A.W. Equipment\n 0.000  clean   154 grams  이야기 보고 (Story Log)\n 0.000  clean   136 grams  관찰 기록 (Observation Log)\n 0.000  clean    98 grams  증언 (Testimonium)\n 0.000  clean    98 grams  Trivia\n 0.000  clean    75 grams  최종 관찰 (Final Observation)\n 0.000  clean    59 grams  SECC Classification\n 0.000  clean    48 grams  Origin\n 0.000  clean    46 grams  기록 (Registrum)\n 0.000  clean    22 grams  Behavior\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "fraction 0.0006230529595015577\nPASS\n"
+      },
+      "sources": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/README.md": "661bf9b709fcc7957383447dea263b5a02e6ec7e8a49012074323e75bf3666ab",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98"
+      },
+      "holds": [
+        "Historical snapped halves/cannot-weld and unspent whole tablet lack an explicit state bridge; no rebuilding, regeneration or second use invented.",
+        "Use-count labels3/5/7 versus single-use relic and theoretical/actual discharge testimony lack instance/simulation provenance.",
+        "Immediate execution in Tale versus sentencing court transcript, and sister Eun-Ji quoting taking Eun-Ji remain unresolved testimony/history.",
+        "Local mass/strength/anomalous-density measures and emergency thresholds retain original numbers; no normalization. Shared disposition DebtScale stabilization contradicts primary accelerating scale row."
+      ],
+      "commentary": "The tiny tally with an impossible load is the right shape for inherited debt: bureaucracy made liftable, and then almost impossible to lift. Keeping the acid scars matters more than adding a humanoid avenger. The refusal should remain costly and singular, not become a renewable resource.",
+      "numeric_sequence_unchanged": true,
+      "exact_recipe_reconstruction": true
+    },
+    {
+      "designation": "O-IVδ-515",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기.md",
+      "receipt": "B168_04_LAST_WARMTH_OF_FORTY_TWO.md",
+      "name": "The Last Warmth of Forty-Two",
+      "unit_commit": "46155b71560220844835661e00439d0a7ba64bbe",
+      "words": [
+        5091,
+        5519
+      ],
+      "repairs": 10,
+      "sha256": "71cc582217a285637227bf4b1f94eda054783a525edd86943087bd0e6eb218c5",
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기.md\n",
+        "sectfile": " 0.011  clean    94 grams  Operational Parameters\n 0.004  clean   240 grams  Combat Record\n 0.000  clean   712 grams  Apex Record\n 0.000  clean   483 grams  Activation Behavior\n 0.000  clean   320 grams  Appearance\n 0.000  clean   291 grams  M.A.W. Equipment\n 0.000  clean   244 grams  이야기 (Narratio)\n 0.000  clean   231 grams  감각 묘사 (Flavor Text)\n 0.000  clean   166 grams  이야기 보고 (Story Log)\n 0.000  clean   130 grams  관찰 기록 (Observation Log)\n 0.000  clean   106 grams  증언 (Testimonium)\n 0.000  clean    95 grams  Trivia\n 0.000  clean    87 grams  최종 관찰 (Final Observation)\n 0.000  clean    74 grams  SECC Classification\n 0.000  clean    48 grams  기록 (Registrum)\n 0.000  clean    45 grams  Origin\n 0.000  clean    23 grams  Behavior\n 0.000  clean    12 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "fraction 0.0006053268765133172\nPASS\n"
+      },
+      "sources": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/README.md": "661bf9b709fcc7957383447dea263b5a02e6ec7e8a49012074323e75bf3666ab",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98"
+      },
+      "holds": [
+        "Formation4188 plus seventy-year salvage delay exceeds document4238; no altered year or invented later edition.",
+        "Single-use vial versus3/5/7 Use headings and operational testimony lack instance or simulation provenance.",
+        "Uncontrolled rupture freezes all life versus hostile-only controlled stasis, gauge-triggered vent/impact trigger and never-disturb seal versus authorized destructive deployment require explicit scope/state evidence.",
+        "Source custody/no-ceremony names versus eventual full military-honors interment can concern different states, not automatic contradiction; transient crystals versus perpetual vapor can coexist, and equipment silhouette/scale differs legitimately."
+      ],
+      "commentary": "A warm medicine bottle is more affecting than an ice giant here. The orange webbing and practical words before the farewells keep the forty-two people present without reducing them to faces on a weapon. I kept that intimacy while separating custody from expenditure.",
+      "numeric_sequence_unchanged": true,
+      "exact_recipe_reconstruction": true
+    },
+    {
+      "designation": "O-IIβ-914",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-914_Amnesia_잊혀진_일분.md",
+      "receipt": "B168_05_AMNESIA.md",
+      "name": "Amnesia",
+      "unit_commit": "f0dbbb49c7d96480aa1e0069edef148717fafcd0",
+      "words": [
+        5131,
+        5469
+      ],
+      "repairs": 11,
+      "sha256": "b1b6ab2eb47cbc18f38417b8b09864595b66d3b7f9989d14cfc67f5e478d40b8",
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-O-IIβ-914_Amnesia_잊혀진_일분.md\n",
+        "sectfile": " 0.006  clean   479 grams  M.A.W. Equipment\n 0.004  clean   519 grams  Combat Record\n 0.000  clean   398 grams  Appearance\n 0.000  clean   353 grams  상호작용 (Entity Interactions)\n 0.000  clean   236 grams  이야기 보고 (Story Log)\n 0.000  clean   228 grams  Watch Record\n 0.000  clean   224 grams  기록 (Registrum)\n 0.000  clean   219 grams  Operational Parameters\n 0.000  clean   190 grams  감각 묘사 (Flavor Text)\n 0.000  clean   168 grams  Origin\n 0.000  clean   161 grams  이야기 (Narratio)\n 0.000  clean   149 grams  Breach Behavior\n 0.000  clean    96 grams  증언 (Testimonium)\n 0.000  clean    92 grams  관찰 기록 (Observation Log)\n 0.000  clean    67 grams  Trivia\n 0.000  clean    54 grams  Behavior\n 0.000  clean    35 grams  최종 관찰 (Final Observation)\n 0.000  clean    31 grams  SECC Classification\n 0.000  clean    13 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "fraction 0.0013679890560875513\nPASS\n"
+      },
+      "sources": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/914_Amnesia/SE-914-A__SIDE_CODEX_Amnesia.md": "d1ebb1c80344b8cf66e6197389e5e79659cb9a1d67a05a6867b5062f58835fb6",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/914_Amnesia/SE-914-B__MAW-W_Amnesia_s_Edge.md": "9e2d502c1599fa3c4dbb57abbc1c0106679189f78b5e50513a5cc2e74e56f0b8",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/914_Amnesia/SE-914-C__MAW-S_Amnesia_s_Veil.md": "cda592c1bb8cf0f3694a88ee295f4a7eb9ffd46d3f7bf7bf0e88e5cf4d65b6ea",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/914_Amnesia/SE-914-D__MAW-G_Amnesia_s_Token.md": "1be3b20a0bf790619d469f2c81cea3fee016f4b3e2ec0bc7089df7c45cccbd22",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98"
+      },
+      "holds": [
+        "VesselDestructible/drop still lacks a physical source target; chair is not proved to be the vessel.",
+        "Universal normal timing statements remain elsewhere against chair/Tide exceptions; onset/no warning versus1158 warning and clock elapsed-time account require exact state reconciliation.",
+        "Work-from-outside since4228 and the4230 interior witness must be read as distinct scopes, not assumed contradictory; entry incidents are not proof of authorized inside Work. The61-minute/eleven-year chronology and noninjury record versus damaging action values still lack explicit conversion.",
+        "Source title Edge/Pike and local selective-intention ability versus Bgrief-cutting, Short versus Long archetype and new-bearer-site corrosion versus fixed epicentre lack a shared-state bridge; MasterDriftglass is another designation."
+      ],
+      "commentary": "The kindness that makes the boundary grow is the important cruelty here. The board and grease pencil give that problem a practical shape without painting an invisible monster. I kept the difference between waiting out the minute and helping people recover afterward.",
+      "numeric_sequence_unchanged": true,
+      "exact_recipe_reconstruction": true
+    }
+  ],
+  "corpus_nul_enumerated": 301,
+  "unselected_unchanged": 296,
+  "reserves_unchanged": 5,
+  "physical_form_rows_unchanged": 300,
+  "physical_form_qualification": [
+    "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md"
+  ],
+  "source_hashes_unchanged": true,
+  "total_repairs": 46,
+  "words": [
+    25195,
+    26779
+  ],
+  "statuses": {
+    "held": 103,
+    "pending": 180,
+    "blocked": 2,
+    "changed": 12,
+    "retained": 4
+  },
+  "tests": "54 PASS; unittest discover tools/tests -q",
+  "fresh_checks": 25,
+  "disclosure": "515 initial RESIDUAL1 Monitor-the caught and fixed before push;914 same-unit interval recovery wording corrected at f0dbbb49c7d96480aa1e0069edef148717fafcd0 with new five checks/full final reread. No extra unit or credits.",
+  "pr": {
+    "number": 14,
+    "state": "OPEN",
+    "draft": true,
+    "base": "NON-WIKI"
+  },
+  "authorization": "168 only; no169, merge, artwork or deployment.301 owner8bodies one4+4/generate-validate-before-copy and later recheck retained."
+}
