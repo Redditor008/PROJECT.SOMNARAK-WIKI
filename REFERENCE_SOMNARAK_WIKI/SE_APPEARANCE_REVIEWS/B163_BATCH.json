@@ -2,7 +2,7 @@
   "batch": 163,
   "status": "OPEN",
   "required": 5,
-  "completed": 2,
+  "completed": 3,
   "no_change": 0,
   "queue": [
     {
@@ -113,6 +113,18 @@
     },
     "C-IIIγ-190": {
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_02_RAGE_STATUE.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "C-IIIγ-248": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_03_UNCONSOLED.md",
       "no_change": false,
       "whole_final_reread": true,
       "checks": {

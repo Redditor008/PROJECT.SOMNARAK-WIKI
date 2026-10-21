@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Organic — A translucent elder, sexless with age, in the rough Han-woven robes of the city's earliest settlers — half-flesh, half-light, slow-moving or seated, the face permanently wet with weeping. Salt-damp and faintly warm, it smells of cold rain on old cloth; no comfort has ever reached it. |
-| **Movement** | Stationary — a body or drop of liquid. |
+| **Movement** | Seated or slow-walking, with a surveyed drift toward the Alpha Tree’s roots. During recorded corruption it stays seated while damp expands into the quarter; body position and event radius are separate measurements. |
 | **Location** | The Old Lament, Zone B; drifts toward the Alpha Tree's roots |
 | **R.D. Comprehension Level** | 3 — Elevated |
 
@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 14–18 per cycle, with no recorded failure in four years — the steadiest return of any γ on the Zone B ledger. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
 | **Activation threshold** | 2 |
-| **Tool / M.A.W. grade** | γ · — |
+| **Tool / M.A.W. grade** | γ · γ — the exact Side and all three item records grade the set. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | Flerehan, spoken rather than felt. The worker names their own oldest loss aloud and the Unconsoled weeps alongside it; the gauge falls while the sentence is being said and stops falling when the worker stops talking. Silent sympathy has never moved it. Pugnahan has never been attempted and the Old Lament standing order forbids it on structural grounds. |
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 60–75% |
 | **Difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan is the primary approach; Viderehan and Ferrehan have recorded responses. Pugnahan is forbidden and has never been attempted under the local record; its descriptive response is not a test authorization. |
 | **Battlefield** | The Old Lament, Zone B; drifts toward the Alpha Tree's roots |
 | **Resolution Condition** | Share the grief aloud (Flerehan); it never empties, only lightens |
 
@@ -92,9 +92,9 @@
 ### Consequences
 
 - A worker who loses the thread here does not break down; they go quiet and stay. Two of the four recorded cases were found still seated on the stool at shift change, dry-eyed, unable to say how long they had been there and unwilling to leave.
-- Length of exposure matters less than frequency. The Old Lament caps workers at one cycle a fortnight, not because a long cycle is dangerous but because the fifth consecutive weekly cycle has twice produced a worker who began describing the founding settler's death in the first person.
+- Length of exposure matters less than frequency. The Old Lament caps workers at one cycle a fortnight, because frequency has a documented cost, not because a long cycle has been proved safe: the fifth consecutive weekly cycle has twice produced a worker who began describing the founding settler's death in the first person.
 - The three extracted pieces all take the same price and the registry states it plainly: the bearer loses the ability to be comforted about one specific loss of their own, permanently and of the entity's choosing. Two bearers describe this as a relief. The Archive regards that as the most alarming line in the file.
-- An unresolved cycle produces nothing at all. The Unconsoled does not pursue, escalate or follow; it goes on weeping in the same posture and the gauge returns to its floor within a day. It is the only γ in the registry whose worst case is that nothing happens.
+- An unresolved cycle need not produce pursuit: the ordinary record describes continued weeping and a return to the gauge floor within a day. That is not a worst-case safety guarantee. The recorded corruption reaches the occupied quarter, and withdrawal, exposure review and drift surveys remain necessary even when there is no retaliation.
 
 ## Appearance
 **Primary Form:** A translucent elder, sexless with age, seated or slow-walking, face permanently wet, in the rough Han-woven robes of the earliest settlers.
@@ -120,9 +120,9 @@
 | **Position / movement** | Seated or slow-walking the Old Lament toward the Alpha Tree's roots. |
 | **Material / signature** | Pale blue Han-crystal through which gold hope-light refracts unchanged; tears evaporate before touching the ground. |
 | **Distinctive markers** | Settler's robes of a weave that has not been made for four thousand years, a face wet at all times, and no sound of any kind. The silence is the identifier: everything else in the Old Lament echoes. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Identification** | Confirm the registered designation, Lament expression, Subject-Phantasmal manifestation and the Old Lament position/bearing before Work. Identify the elder and settler’s robes alongside sound, damp and drift readings; a quiet figure alone is not sufficient. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as "strange" or "anomalous."
+**Appearance protocol:** Record posture, robe and tear appearance, drift bearing and distance, sound and the founding wall’s damp front. Compare them with the preceding watch. Movement toward the roots is not automatically an attack, and spreading damp is not the elder walking out. Keep a heard personal memory distinct from sound measured at the entity.
 
 ## Origin
 - **Formation:** The grief of the city's first death — the settler who sank into the Han to become the foundation; ambient for four thousand years.
@@ -161,7 +161,7 @@ The table should be read with the floor in mind. This entity's gauge has a botto
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corrupt, in the narrow sense that the district reverts rather than warps — the quarter goes back to being what it was before the Hand of Hope opened. Nothing is damaged and nothing is changed; it is simply heavy again.
+- **Event type (non-breach):** Corrupt, in the narrow sense that the district reverts rather than warps — the quarter goes back to being what it was before the Hand of Hope opened. No structural damage is reported in these events, but damp, district-wide stilling and altered sound are effects, not proof that nothing changes or nobody needs help.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
 - **Sorrow Gauge on event:** Begins at the floor and climbs about two points an hour to a ceiling near 80%, where it stops without intervention. Both expansions ended on their own, one after nine hours and one after thirty-one.
 
@@ -198,7 +198,7 @@ The table should be read with the floor in mind. This entity's gauge has a botto
 
 ### M.A.W. Use Notes
 
-Three pieces have been extracted from the Unconsoled in four years and each required a separate overruling of the Archive's standing objection. The set does not make a bearer stronger; it makes a bearer unconsolable in one specific place, and in exchange nothing in that place can reach them. The Stigma is not granted at random here — all three issuances followed a cycle in which the worker named a loss the Old Lament office had not heard before.
+Three pieces have been extracted from the Unconsoled in four years and each required a separate overruling of the Archive's standing objection. The local record says each bearer permanently loses consolation about a particular loss. That cost is not invulnerability: keep the blade’s involuntary weeping and surfaced grief, the Shroud’s permanent thread and aging, and the Tear’s borrowed grief after removal separately. The exact Side’s Load-Bearing Grief resonance admits another person’s oldest grief, keeps both mourners standing and cuts pressure from isolation; it halves a shared burden for one cycle without removing the foundation. The Stigma is not granted at random here — all three issuances followed a cycle in which the worker named a loss the Old Lament office had not heard before.
 
 **Deployment record:** Before use, record operator, time, location, Sorrow Gauge, and emotional condition. During use, record visual feedback, changes in the operator, and whether the equipment begins expressing the entity's voice or behavior. After removal, record lingering sensations, memory changes, injuries, and recovery time. M.A.W. extraction does not neutralize the source entity.
 
@@ -207,11 +207,11 @@ Three pieces have been extracted from the Unconsoled in four years and each requ
 | Stage | Required record |
 |---|---|
 | **Before use** | Which loss of their own the bearer has named, and to whom. The Old Lament keeps the register sealed and consults it only to prevent a second bearer naming the same loss, which has been attempted once and refused. |
-| **During use** | Whether the bearer's own weeping has synchronised with the piece, the ambient sound level in decibels, and anything the bearer says about the founding settler without being asked. |
-| **At limit** | Whether the bearer still refers to their named loss in the first person. A shift to the third person is the documented end-point and is irreversible; the piece is recovered and the bearer is retired from Old Lament duty. |
-| **After use** | The consolation test at one week: the bearer is offered ordinary comfort about their named loss by someone they trust, and the response is recorded verbatim. All three bearers failed this test and all three had expected to. |
+| **During use** | Exact piece, effect and cost, alongside ambient sound and unprompted founding memories. For the blade, note tears continuing after sheathing or solitary-mourner target fixation; for the Shroud, a hem rooting into stone or rest felt as abandonment; for the Tear, loss of attribution or widening beyond the agreed grief and release time. Do not treat synchronized weeping as a universal equipment safety signal. |
+| **At limit** | Record whether the bearer still speaks of the named loss in the first person; the local third-person endpoint is irreversible and retires the bearer from Old Lament duty. Do not wait for it to apply item shutdown. A second mourner receives the blade bearer’s testimony and closes the edge; two staff lift the Shroud hem as its wearer names a living support. For the Tear, both mourners confirm the burden returns to neither person alone. |
+| **After use** | Review on return as well as at the consolation test at one week; the later test does not delay care for continuing tears, aging, memory intrusion or borrowed grief. Record the response to trusted comfort verbatim. All three bearers failed this test and all three had expected to. Rinse the blade with clean water while a witnessed grief is spoken; air the Shroud above, never on, Alpha-root stone; keep one grief, owner and release time in the Tear’s ledger. |
 
-**Stat interpretation:** The γ grade here describes how stably the foundation grief holds its shape once removed, which is very stably — none of the three pieces has degraded at all. It says nothing about the bearer, and the Old Lament file would rather it were graded on the bearer, which is a change the Armoury has declined four times.
+**Stat interpretation:** The γ grade does not certify permanent stability or bearer safety. None of the three pieces is reported to have degraded, but that record is not a guarantee against the exact items’ corrosion; and the Old Lament file would rather it were graded on the bearer, which is a change the Armoury has declined four times.
 
 ## 관찰 기록 (Observation Log)
 
@@ -233,7 +233,7 @@ Three pieces have been extracted from the Unconsoled in four years and each requ
 | **Activation or escalation** | The precursor is the stone. The Old Lament's founding wall darkens from the base upward between forty minutes and two hours before an expansion, and that is the only forewarning either recorded expansion gave. Photograph the wall at the start of every shift. |
 | **Post-contact review** | The review records the loss the worker named and how they slept afterward. The second question is in the form because of a civilian pattern the district noticed first: people who share a grief with it sleep better for about a month. The Old Lament has never found the mechanism and reports the effect anyway. |
 
-**Observation method:** Measure sound and damp, and write down what was said. Nothing else about this entity has ever changed between one observation and the next — the posture, the robes, the weeping and the silence are the same in the first record as in the most recent.
+**Observation method:** Measure sound and damp, and write down what was said. Keep the recurrent posture and robes beside the surveyed drift and any change in weeping’s timing. The Bell result is a measured exception to an otherwise quiet quarter, not grounds to erase the silent baseline or omit the gauge.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -266,7 +266,7 @@ Reclassification proposed and denied: the grief cannot be filed under any existi
 A pressure behind the eyes — the specific ache of a grief you thought you'd finished grieving. The air tastes of old stone and salt.
 
 
-**At first contact:** The quarter goes quiet about thirty paces out, and the quiet is the first thing you meet. Then a seated elder in a weave nobody makes any more, half-light and half-flesh, with a face that has been wet for four thousand years. It does not look up. It has never once looked up.
+**At first contact:** The quarter goes quiet about thirty paces out, and the quiet is the first thing you meet. Then a seated elder in a weave nobody makes any more, half-light and half-flesh, with a wet face. The grief is four thousand years old; the Tale dates its visible elder shape to the Hand’s opening, not to the first death. It does not look up. It has never once looked up.
 
 **With continued exposure:** You start wanting to fix it, and the wanting is the hazard. Every worker reports the impulse and the file states the finding plainly: comfort is the one input that raises this gauge. The work is to sit at the same height and grieve beside it without offering anything.
 
@@ -276,9 +276,9 @@ A pressure behind the eyes — the specific ache of a grief you thought you'd fi
 
 ### Interaction Pattern
 
-All four of the Unconsoled's recorded relationships are refusals of one kind or another: light that will not enter it, routes that go around it, a bell that matches it, and a judgement that was never passed. In none of the four does the Unconsoled act. It is acted upon, or it is navigated, and the entity's complete lack of outward effect is the most consistent finding in the file.
+All four of the Unconsoled's recorded relationships are refusals of one kind or another: light that will not enter it, routes that go around it, a bell that matches it, and a judgement that was never passed. Do not turn these different records into a universal null. The Bell pairing changes the weeping’s interval and lowers the Unconsoled’s gauge; the Dawn entry explicitly records no current contact. The routing and light observations retain their own scopes.
 
-**Interaction method:** Measure what the other entity does, because the Unconsoled will do nothing. Record the light's path, the Bell's interval, the gauge of the other party, and the ambient sound level; the Unconsoled's own readings have been identical across every co-location on file.
+**Interaction method:** Measure both parties rather than assuming the Unconsoled never changes. Record the light’s path, the Bell’s interval, both gauges, sound, damp and drift, with before/after readings and any persistence after separation. Keep the Dawn’s standing counterfactual note distinct from a co-location observation.
 
 ### Entity Interaction Record
 
