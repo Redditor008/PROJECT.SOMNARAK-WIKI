@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-IIIγ-559": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B160_03_BROKEN_RUIN.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B160_OPEN.json"
@@ -2982,8 +2994,32 @@
     {
       "designation": "O-IIIγ-559",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-559_Broken_Ruin_부서진_잔해.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Eight repairs: Movement and the two appearance movement summaries now distinguish waiting from recorded walks and remove unsupported pursuit; breach alert/movement follow the two conversational returns rather than guaranteeing collapse. Appearance explicitly separates Total Subsidence’s bodily reassembly from forbidden settlement reconstruction. Filled source-supported γ M.A.W. grade and named the source-supported +2 Clarity without changing figures.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B160_03_BROKEN_RUIN.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_525_to_559/SE-559-A__SIDE_CODEX_Souvenir.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_525_to_559/SE-559-B__MAW-W_The_Ruin_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_525_to_559/SE-559-C__MAW-S_The_Ruin_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_525_to_559/SE-559-D__MAW-G_The_Ruin_Fragment.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IIIγ-617",
@@ -3886,6 +3922,14 @@
       "batch": 159,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B159_05_MEWGICAL_GIRL.md",
       "history_proof": "No prior source-led fullset/exactUNK-901-B/MAW-W-UNK-901-01 disposition found. ArchivedBatch9unit2 f5c779e isprose/section/conditionrepair, notindependent fullset orWeaponcomparativecoverage. No equipmentreviewledgerrow forN-IVδ-901; C-IIβ-901/SE-901-B/Duri’s Heart isdistinct and mustnotbeimported. Thisunit earns fresh +1Types/+1Weapon with completeA–D/currentprimarycomparison, +0SE because unresolvedwhole-designrelationships.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "O-IIIγ-559",
+      "batch": 160,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B160_03_BROKEN_RUIN.md",
+      "history_proof": "No prior independent equipment-ledger row for O-IIIγ-559; current/archived WIP/CHANGELOG exact SE-559-B/MAW-W-559-01 and full-title/Souvenir history finds no completed comparative review. Batch35unit4 67f2241 is Final Observation/prose work, not equipment source coverage. This complete exact-set review earns +1Types/+1Weapon, while unresolved written-design relationships earn +0SE.",
       "all_types_credit": true,
       "weapon_credit": true
     }
