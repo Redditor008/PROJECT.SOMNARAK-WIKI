@@ -1,6 +1,7 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest batch: Batch168 CLOSED 5 / 5.**46 supported repairs; five designs HELD, No change0/5.25fresh validators/54tests PASS. [Closure evidence](SE_APPEARANCE_REVIEWS/B168_CLOSE.md). No169/merge/deployment authorized.
+**Latest batch: Batch169 OPEN 0 / 5.** Frozen pending cohort; historical168CLOSED5/5. No new review/credit at opening; no170/merge/deployment.
+
 
 Owner direction, 2026-10-18: start a new X/X for SE appearance fixes and name the older counters by their M.A.W. scope.
 

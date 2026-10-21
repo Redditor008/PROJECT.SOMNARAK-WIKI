@@ -8,6 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch169 — OPEN0/5
+
+Owner p after CLOSED168 authorizes169 only. Minimum five, cumulative three No change5→7→10; later full recheck retained. Frozen shortest pending order: Moktak910, OnceTold930, MusicBoxOfAgony903, HatredAbove923, KindEcho000. Opening180pending; originals/hashes/five reserves in B169_OPEN.json. Complete whole original/exact-source/history/final reads, supported repairs, individual five validators/Commentary and verified pushes required. No review/credit at opening. Counters Types255/30184.72%(46remain),Weapon255/28788.85%(32remain),SE16/3015.32%(285remain). No170/merge/deployment;301owner8bodies one4+4/generate-before-copy and later recheck retained. Restoration compared all2516 remote blobs before safely aligning HEAD/index without changing files. PR14OPENdraft→NON-WIKI.
+
 ## Batch168 — CLOSED5/5; five repaired designs HELD
 
 Owner p after CLOSED167 discharged for168 only.46 supported repairs; LC_ALL=C wc-w25,195→26,779. Whole original/exact-source/history/final readings and individual verified pushes complete. No change0/5 does not trigger5→7→10; full interactions/bespoke records are not simple.25fresh validators and54tests PASS. All296 unselected dossiers/five reserves/source fingerprints unchanged;300 PhysicalForm rows unchanged and917's nonbodily temporal qualification documented. Original digit streams unchanged.515 stock-prefix failure fixed before push;914 same-unit correction/rechecks/full reread disclosed, no extra unit/credit. Five HELD reviews do not earn SE completions. Types255/30184.72%(46remain);Weapon255/28788.85%(32remain);SE16/3015.32%(285remain). Ledger12changed/4retained/103held/2blocked/180pending. No169/merge/deployment;PR14OPENdraft→NON-WIKI;301owner8bodies one4+4/generate-before-copy and later full recheck retained.
