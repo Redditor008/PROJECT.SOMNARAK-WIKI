@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest batch: Batch165 OPEN 1 / 5.** Frozen shortest-pending cohort includes four Unknown dossiers and Apostle Maker; no credits earned by opening. The previous batch was Batch164 CLOSED 5 / 5. No change 0 / 5. Four HELD designs; Masked Dancer gains one written-design completion. Broken Mirror adds one fresh exact-set review to each equipment stream. [Full closure and all five receipts](SE_APPEARANCE_REVIEWS/B164_CLOSE.md). Earlier OPEN164 checkpoints below are historical, not the current status. No165 authorization.
+**Latest batch: Batch165 OPEN 2 / 5.** Frozen shortest-pending cohort includes four Unknown dossiers and Apostle Maker; no credits earned by opening. The previous batch was Batch164 CLOSED 5 / 5. No change 0 / 5. Four HELD designs; Masked Dancer gains one written-design completion. Broken Mirror adds one fresh exact-set review to each equipment stream. [Full closure and all five receipts](SE_APPEARANCE_REVIEWS/B164_CLOSE.md). Earlier OPEN164 checkpoints below are historical, not the current status. No165 authorization.
 
 Owner direction, 2026-10-18: start a new X/X for SE appearance fixes and name the older counters by their M.A.W. scope.
 
@@ -12,7 +12,7 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 |---|---:|---:|---:|
 | ALL M.A.W. Types Appearance per SE — source-review coverage | 255 / 301 | 84.72% | 46 / 301 |
 | ALL M.A.W.-W Appearance per SE — source-review coverage | 255 / 287 | 88.85% | 32 / 287 |
-| SE Appearance Fix — independent written-design pass | 13 / 301 | 4.32% | 288 / 301 |
+| SE Appearance Fix — independent written-design pass | 14 / 301 | 4.65% | 287 / 301 |
 
 These are coverage counters, **not promises that every held discrepancy is repaired**. The first two retain their historical criteria and explicit source holds. The new counter starts at zero; old equipment reviews, general prose fixes, shape screening and the R-32 clarification are not backfilled as SE appearance completions.
 
@@ -913,7 +913,7 @@ Each row is a separate per-SE measure.
 |---|---:|---:|---:|
 | ALL M.A.W. Types Appearance per SE — source-review coverage | 255 / 301 | 84.72% | 46 / 301 |
 | ALL M.A.W.-W Appearance per SE — source-review coverage | 255 / 287 | 88.85% | 32 / 287 |
-| SE Appearance Fix — independent written-design pass | 13 / 301 | 4.32% | 288 / 301 |
+| SE Appearance Fix — independent written-design pass | 14 / 301 | 4.65% | 287 / 301 |
 
 Equipment coverage includes source holds; it is not finished artwork or redesigned-set coverage. Broken Mirror's identity-resolved SE1009 set is newly reviewed, so both equipment streams gain one. Numeric081 is Hollow Saint, a different full identity; its older review cannot be borrowed. The other four sets were already covered and gain zero. Only Masked Dancer gains a fresh independent written-design completion. Its same-item equipment holds are not resolved by that body credit. The other four remain HELD for actual source/body/action issues, not a demand that every derived item have the donor's silhouette.
 
@@ -954,3 +954,7 @@ All five are pending, not No change. Complete original/exact-source/history and 
 ### Batch165 unit1 — OPEN1/5
 
 [The Glass Silt Drifter evidence](SE_APPEARANCE_REVIEWS/B165_01_GLASS_SILT_DRIFTER.md): HELD, 3repairs, five checks and complete final read. No change0/1; source-review counters255/301and255/287, independentSE13/301. Pending is not No change; later full recheck retained.
+
+### Batch165 unit2 — OPEN2/5
+
+[The Singing Needle evidence](SE_APPEARANCE_REVIEWS/B165_02_SINGING_NEEDLE.md): CHANGED, 4repairs, five checks and complete final read. No change0/2; source-review counters255/301and255/287, independentSE14/301. Pending is not No change; later full recheck retained.

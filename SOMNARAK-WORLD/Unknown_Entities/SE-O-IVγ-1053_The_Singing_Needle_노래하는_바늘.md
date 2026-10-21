@@ -14,7 +14,7 @@
 | **Element** | Void / Lament |
 | **Manifestation** | Subject-Acoustic / Crystal Shear |
 | **Physical Form** | Slender Crystalline Spire — A twelve-meter column of faceted blue-white crystal that moves by shearing through bedrock. Around its apex hover dozens of floating acoustic needles that rotate at violent velocities, producing an ear-piercing whistle across piercing crystalline registers. |
-| **Movement** | Hovering / Sub-Bedrock Boring (1.8 m/s). |
+| **Movement** | The spire bores beneath bedrock and surfaces to sing (1.8 m/s); the needles hover around its apex. No free-flying spire is recorded. |
 | **Location** | The Crystal Peaks (Northern Ridge Border) |
 | **R.D. Comprehension Level** | 3 — Mountain Pass Telemetry |
 
@@ -40,7 +40,7 @@
 
 - The Singing Needle roosts on the razor-sharp ridges of the Crystal Peaks, acting as a natural acoustic amplifier for northern mountain winds.
 - Hearing its song without sound-deadening cranial seals induces instant tympanic rupture, followed by rapid Composure hemorrhage and spatial disorientation.
-- It is highly vulnerable to heavy blunt kinetic weapons (Mauls, Hydraulic Hammers) that shatter its crystal harmonic alignment.
+- Heavy blunt impact is projected to shatter its crystal harmonic alignment from tests on fragments. No maul has reached the base node and no such strike has been tried on the spire; this is not established whole-body vulnerability or permission to approach it.
 
 ## Combat Record
 ### Core Stat Line
@@ -78,6 +78,16 @@ Expedition teams equipped with piezoelectric sensors determine that the sound em
 ### Level 3 — Studied Field Telemetry
 Acoustic dampening tests demonstrate that when an operative sings an inverted counter-phase pitch, the rotating needle halo destabilizes, causing individual shards to clatter harmlessly against the stone.
 
+## Appearance — Spire, Halo and Acoustic Event
+
+The blue-white faceted column is the body that shears into the ridge. Its rotating apex halo is an acoustic needle arrangement, explicitly without a fixed form available for extraction; it is not a second walking creature or a detachable conventional crown. Hovering describes the needles, while the observed spire bores and surfaces within the Crystal Peaks. No airborne transit beyond the ridge is documented.
+
+The splitting crust in the formation account explains the tuning-spire manifestation without a human throat or humanoid precursor. Wind collapse, molar vibration, stalled cups and diaphragm damage identify its song; sound and those consequences do not require a newly transformed body. Record visible column and halo separately from instrument readings. Wind-driven activation and approach distance are different logged conditions, not evidence of two different spires.
+
+Counter-phase attempts destabilise the halo, not the spire's base. The recorded failures prevent a general immunity claim. Equally, the fragment-based blunt-impact proposal is not an observed destruction of the body. Combat-table action descriptions must not erase the field return's explicit distinction between fragment tests and an untried base-node strike.
+
+The Inverse Fork and Shear Mantle are worked from shed base crystal. Unequal maul tines and thumb-length scales need not duplicate the column or halo. Their silence and hearing effects belong to the equipment and wearer, not a claim that the spire adopts those wearable forms.
+
 ## Origin & Formation
 
 - **Formation:** Formed during the Great Tectonic Uplift, when ancient Han-veins broke through the planetary crust at supersonic speeds. The shrieking rock trapped the acoustic agony of the splitting crust, crystallizing into self-perpetuating tuning spires.
@@ -87,7 +97,7 @@ Acoustic dampening tests demonstrate that when an operative sings an inverted co
 
 1. **Acoustic Deadening:** Operatives patrolling the Crystal Passes must wear pressurized brass helm baffles insulated with grease and compressed sheep wool.
 2. **Frequency Disruption:** If the needle begins its harmonic crescendo, wardens must fire blank concussive mortars into adjacent rock walls to create discordant reverberations, shattering the needle's acoustic resonance loop.
-3. **Bludgeon Impact Neutralization:** Field squads should deploy heavy pneumatic breakers or mauls to target the base crystal node where bedrock anchoring occurs.
+3. **Bludgeon Impact Neutralization — Untried Proposal:** The base crystal node is the proposed target for heavy pneumatic breakers or mauls, not a demonstrated safe engagement. The field return below records the inaccessible climb and kit burden; retain the ridge-crossing limits rather than treating fragment tests as a successful attack on the spire.
 
 Management: cross the northern ridge only below 40 knots, under baffled helms and beyond 100 metres of the ridge line, and the moment the anemometer cups stop, sing one syllable on the note that quiets the molars.
 

@@ -1,5 +1,24 @@
 # Work In Progress
 
+## Batch165 / unit2 — The Singing Needle `O-IVγ-1053`
+
+[[SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-O-IV%CE%B3-1053_The_Singing_Needle_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%B0%94%EB%8A%98.md "SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘.md")]
+
+**What changed:** Four repairs identify the spire as the boring/surfacing body and hovering as its halo; replace proven blunt vulnerability with fragment-based projection; mark pneumatic base assault untried; add complete Appearance linking geological sorrow, column, acoustic halo, observable song, failed counter-phase attempts and worked base-crystal equipment.
+
+**Sources/history:** B114unit3 9ece83ccfb26e680daf02d535d2161ea465d509a already primary-only Types/Weapon source review, +0/+0. Exact1053/title/InverseFork search found no externalA–D equipment or separate Tale/body record; numeric077 SingingNeedle registry hit is MemoryThief, excluded. Full Drifter counterpart read at unit1 and source hashes preserve that version. Timeline198 frontier discovery and dispositionNeutral do not add new anatomy.
+
+**Final logical outcome:** CHANGED: whole written design is coherent after disambiguating the halo from column motion and preserving the explicit boundary between tested fragments and untried body attack. Instruments, wind/proximity conditions, normal/subsurface/surfaced song state, combat methods and equipment are traceable without a new form. The retained experimental uncertainty is not a contradictory body requirement.
+
+**Holds:** Blunt impact against the complete spire remains untried; no extra vulnerability or clearance asserted. Drifter early fallback remains unexplained, with faint tone/no song/no stall. Do not infer acoustic repulsion. No exact external A–D set or artwork inspected; previous primary-only source credits are not awarded again.
+
+**Commentary:** The strongest image is not the tall crystal but the cups stopping before anyone bleeds. The morning drill including the cook makes this a staffed, costly pass, not a decorative singing mountain. Keep that uncertainty instead of giving the squad an easy hammer solution.
+
+**Checks and evidence:** Five actual validators PASS; whole original and final read, 4supported replacements, LC_ALL=C words2929→3265. Receipt `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B165_02_SINGING_NEEDLE.md` records raw checks, hashes and visual limits.
+
+**Progress:** OPEN2/5, No change0/2. Types255/30184.72%,46/301remain; Weapon255/28788.85%,32/287remain; SE14/3014.65%,287/301remain. No duplicated equipment/body credit. Both logs travel in the individual gate/push. Pending units are not No change; no close below five or earned rung, no166/merge/art/deployment,301ownerblocked. Later full check/fix backlog preserved.
+
+
 ## Batch165 / unit1 — The Glass Silt Drifter `O-IIIγ-1052`
 
 [[SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-O-III%CE%B3-1052_The_Glass_Silt_Drifter_%EC%9C%A0%EB%A6%AC%EB%AA%A8%EB%9E%98_%EB%B0%A9%EB%9E%91%EC%9E%90.md "SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자.md")]
