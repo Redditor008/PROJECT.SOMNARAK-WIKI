@@ -95,6 +95,14 @@ Set off early, it vents a magma shockwave through the armory and takes the pilla
 
 ## Appearance
 
+**The tool and the sacrifice:** Identify the four-sided iron wedge by its beaten head, original greasy hemp wrapping and chiseled apprentice codes. Kang Il-Joo is the named maker in the formation history, not a human body enclosed inside the iron. The railway-tool outline and thermal Grudge expression preserve the act of holding the fault closed without requiring a humanoid shape.
+
+**Motion and endpoint:** Pulses through the floor, a twitch under rough handling and heat shimmer are not autonomous travel. The full discharge requires the driving strike described in the activation profile and ends in inert slag; the earlier repeated hammer blows belong to the forging and rescue history, not evidence that the completed relic can be discharged repeatedly. Do not infer a reusable wedge from a minor dropped-object shockwave.
+
+**What to separate in the watch:** Record the core and surface temperatures separately, with the Gauge and nearby holding. An interaction-related rise toward melting is not the ordinary surface band. A widening that settles back to black iron is not evidence of return after the full destructive discharge. The general rising-Gauge/failure note and explicit driving trigger still need an operational crosswalk; nothing here authorizes impact testing.
+
+**Derived equipment:** The Retaining Maul, Smelter's Apron and Eighteen Brands are separate equipment forms expressing the sacrifice. The maul need not be a miniature wedge, and the brands are not extra carved faces or limbs on the source. The residue/old-working account does not by itself establish a second live wedge or a reset.
+
 **Physical Form:** A seventeen-inch four-sided railway wedge hand-beaten from porous volcanic black iron, reclaimed from the lower basalt drainage culvert of Old Cheonbulok. Wrapped tightly in fraying hemp work-rags soaked in machine grease and human sweat, the wedge radiates fever-dry heat. Along its beaten flats, eighteen distinct apprentice serial codes are carved into the iron with a cold chisel. Grudge Han-veins throb within the metal like boiling arteries.
 
 **Notable Features:**
@@ -107,7 +115,7 @@ Set off early, it vents a magma shockwave through the armory and takes the pilla
 | Attribute | Detailed Observation |
 |---|---|
 | **Alloy Composition** | 78% porous volcanic iron, 14% basalt flux, 8% carbonized bone ash. |
-| **Surface Markings** | Eighteen four-digit apprentice apprentice codes gouged along the lateral flats. |
+| **Surface Markings** | Eighteen four-digit apprentice codes gouged along the lateral flats. |
 | **Thermal Output** | Surface hovers between 85°C and 140°C depending on Sorrow Gauge. |
 | **Weight** | 18.4 kg, balanced forward toward the driving bevel. |
 
@@ -156,7 +164,7 @@ Ferrehan here is worked in heat-resistant leather and nothing else. Show the iro
 | **Activation** | Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram). |
 | **Primary Effect** | Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. |
 | **Duration** | Instantaneous tectonic burst; armor fracture debuff persists for the duration of the combat encounter. |
-| **Termination / Return** | The relic is completely consumed by its discharge; what remains is an inert mineral or metal husk emptied of sorrow. |
+| **Termination / Return** | The relic is completely consumed by its discharge; what remains is the inert slag specified for this wedge, not a reusable iron tool. |
 | **Risk** | The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |
 
 **Operational Rule:** A single-use relic is spent, not stored. Once the discharge trigger is engaged, the process cannot be halted, reversed, or refunded.
@@ -166,7 +174,7 @@ Ferrehan here is worked in heat-resistant leather and nothing else. Show the iro
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 1 Use | The Wedge That Held sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram).) initiates an instantaneous, irreversible discharge across the battlefield. |
-| 3 Uses | Crystallized from the fury of being abandoned by superiors and choosing self-immolation over surrender. during the great basalt rupture of year 4,185 in old cheonbulok, where supervisors welded shut the blast flues; the relic answers only to complete commitment. | The full discharge completes: Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. All hostile entities in range suffer devastating disruption and elemental debuffs. |
+| 3 Uses | Crystallized from the fury of being abandoned by superiors and choosing self-immolation over surrender. during the great basalt rupture of year 4,185 in old cheonbulok, where supervisors welded shut the blast flues; the relic answers only to complete commitment. | The full discharge completes: Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. Do not add an unspecified elemental debuff to that effect: the recorded discharge specifies armor fracture, Grudge damage and knockdown. |
 | 5 Uses | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |
 | 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |
 

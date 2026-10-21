@@ -1,5 +1,24 @@
 # Work In Progress
 
+## Batch166 / unit2 — The Wedge That Held `O-IIIγ-412`
+
+[[SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-412_The_Wedge_That_Held_%EB%81%9D%EB%81%9D%EB%82%B4_%EB%B2%84%ED%8B%B4_%EC%90%90%EA%B8%B0.md "SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md")]
+
+**What changed:** Four supported repairs remove duplicate apprentice, replace generic mineral/metal husk with wedge-specific inert slag, remove unspecified elemental-debuff extension and add concrete identification separating making, local pulses, full consumption and derived equipment.
+
+**Sources/history:** Exact412/title/RetainingMaul search found no externalA–D. Primary shelf note explicitly keeps three equipment profiles in this single dossier. Current Negative disposition rests on destabilising Door/Wall interactions, with Crucible conditional benefit retained. Master codex exact title search used for identification, not an invented separate body or equipment source. Earlier prose/parity history is not appearance completion. No exact external pair established; equipment+0/+0 conservatively retained.
+
+**Final logical outcome:** HELD: source tool and final slag form are clearer and no humanoid requirement is imposed. Unqualified activation/settling and equipment availability prevent a complete whole-file action account. Conditional core/surface/interaction heat differences are not used as artificial holds.
+
+**Holds:** General Gauge/failure deployment clauses versus explicit heavy driving strike lack a documented authority/trigger crosswalk. Repeated widening/return-to-black-iron account versus destructive discharge has no event-resolved chronology; no reset invented. Post-discharge no-extraction statement versus residue/old-working M.A.W. source remains without item-specific availability; no new source coverage or Weapon pair inferred.
+
+**Commentary:** Naming the supervisors alongside the apprentices makes the commissioning choices part of the tragedy. The battered tool works because it held something up before becoming a weapon that breaks things apart.
+
+**Checks and evidence:** Five actual validators PASS; whole original and final read, 4supported replacements, LC_ALL=C words4498→4757. Receipt `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_02_WEDGE.md` records raw checks, hashes and visual limits.
+
+**Progress:** OPEN2/5, No change0/2. Types255/30184.72%,46/301remain; Weapon255/28788.85%,32/287remain; SE16/3015.32%,285/301remain. No duplicated equipment/body credit. Both logs travel in the individual gate/push. Pending units are not No change; no close below five or earned rung, no167/merge/art/deployment,301ownerblocked. Later full check/fix backlog preserved.
+
+
 ## Batch166 / unit1 — A Letter Never Sent `C-Iα-114`
 
 [[SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-114_A_Letter_Never_Sent_%EB%B6%80%EC%B9%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%ED%8E%B8%EC%A7%80.md "SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md")]

@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-IIIγ-412": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_02_WEDGE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "authorization": "Owner p after CLOSED165 authorizes Batch166 only; minimum five, cumulative three No change triggers5→7→10; later full recheck retained."
@@ -3392,8 +3404,24 @@
     {
       "designation": "O-IIIγ-412",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD: source tool and final slag form are clearer and no humanoid requirement is imposed. Unqualified activation/settling and equipment availability prevent a complete whole-file action account. Conditional core/surface/interaction heat differences are not used as artificial holds.",
+      "outcome": "unresolved whole-file logical relationship",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_02_WEDGE.md",
+      "sources": [
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_review": false,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IIIγ-476",
