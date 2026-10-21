@@ -8,6 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch176 unit3 — Torn Window `N-Iα-686`
+
+[[SE-N-Iα-686_Torn_Window_찢어진_창](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-686_Torn_Window_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%B0%BD.md "SE-N-Iα-686_Torn_Window_찢어진_창.md")]
+
+**Original/source review and R18 predeclared scope:** Complete429line primary/exact686A–D/README read; Master580–582/table620–622/detail7271–7303 and completeTale194/10845–10897, Entity562, CSV815–818/archetype276/disposition384/B100unit3 history read. TypeObjectPlace/I-Relic→ObjectLamentGrudge→generations touching/leaving layereddepartures/Tale nonphysicaltear→presentcrackedredblackcoldfixedpane/hands/no transmittedlight/borrowedroom→failedremovals vs mountedclaim→ViderehanStable/FerrehanDecrease/walks→touch/strike/Tide/viewtermination→three relations and gear traced. Predeclared6short/4careful; separate current-source, image and equipment states, no humanoid needed.
+
+**Sources/history:** B100unit3/065ba22c and fullset2026-10-12 already credit exact pair/alltypes; no duplicate. Formal686 WindowofaThousandGoodbyes is joined by exact N-Iα-686, not MAWmasterentry686 RestingVeil895. Primary/archetypeShort supports localshort. A/B αGrudge3–6,2/2Singlemax5/15; C L/G/V/W1/.4/1.8/1.2max5/10; D Tail5%+1Resilience agree. Master weapon indexSabre/detailFang and SourceBcrimsonFang versus localsteelgreenSabre remain held. Other sources fingerprinted unchanged.
+
+**What changed:** Ten supported repairs clarify fixed pane and nonphysical Tale tearing, replace unsafe unmount/touch permission, distinguish gauge from disputed counts, recognise recovered partial names, and add separate Sabre/Fang, Plate and Shard handling.
+
+**Final whole-file assessment:** HELD: supported fixed window/conditional borrowed view improved, but counts, mounted-source identity, action/termination and same-item gear relationships remain unresolved; +0 Types/+0 Weapon/+0 SE.
+
+**Holds / later recheck:**
+- Essential non-body relationship: fixedneverrecoveredpane/failedremovals versus equippablemountedbearer and cycleunmount lacked portable-state evidence; operational instructions now explicitly defer the unsupported mounting claim, but source I-Relicuseidentity remains for later resolution. No transformation invented.
+- Handcount41firstnow/fourlater/fixedphotographs/nineyearsneverfalls conflicts with first906 and year1182→1141/elevenfallingweeks; distinct cohorts/timing not established. No digit edits or arithmetic reconciliation. Walking-gauge relation is preserved separately, not accepted as proof of which count is right.
+- Neverhostile/noinjurybeyondbruise versus GlassToothcut/FullSmash24–36/Tide12–20 plus crackedneverchanges versus inwardfail/wholeanhour needs event/state/damage scope. Absence of fatalities does not clear these.
+- Onlysecondpersonname/dateends versus gearBroom/ownerlookaway and Ccover/backward; ordinaryview versus emergencygear could differ but evidence does not establish exclusive scope. Primary duringuse secondworkerdoesnotinterrupt versus required termination remains explicit permission hold.
+- BladeSameitemSabresteelgreenglass/localpalmmark vs crimsonHanironFang/attributedphantomhand. Plate localbackcrystalpanel versus breathingcrimsonHaniron and two-piececut claim/threeitemset; D cutshardversus cannotmanufacturebestowal unresolved. Source cold/warmderivedshard alone not a conflict.
+- Local three versus four filedborrowedshifts and both walkers versus onewalker/oneglasswatch cannot be normalized by guessed samples/staffing. Mirror prose samepanefacesversus tableownobserversfaces not a supported transferredhand image. R19Neutral records noassistance; Walls identifyingnames is incoming information not evidence of suppression by Window.
+
+**Commentary:** The tired hand is better than a villain: the mistake is an ordinary need to lean on something. Paying someone to keep walking an otherwise useless length gives that sorrow a concrete answer. The hand count must be reliable for that answer to work; smoothing the competing series into one would hide the cost of the review.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 10 exact replacements (6batch-short/4careful-detail); LC_ALL=C words6658→7177. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_03_TORN_WINDOW.md`. Equipment+0/+0;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No177/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch176 unit2 — Thinking Engine `C-IIIγ-904`
 
 [[SE-C-IIIγ-904_Thinking_Engine_생각하는_기계](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-904_Thinking_Engine_%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94_%EA%B8%B0%EA%B3%84.md "SE-C-IIIγ-904_Thinking_Engine_생각하는_기계.md")]

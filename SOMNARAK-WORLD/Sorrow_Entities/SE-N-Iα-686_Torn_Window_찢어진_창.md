@@ -15,7 +15,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — A cracked window of red-black crystal in a tunnel wall, its broken pane reflecting hands rather than faces — reaching hands pressed from the other side. Fever-cold, it smells of char; something on the far side wants through. |
-| **Movement** | Stationary — a device (internal parts may move). |
+| **Movement** | Fixed red-black pane in the tunnel wall at chest height; two removal attempts left it in place. The room shown and reflected hands are not moving machinery, and the Tide reflection on other panes is not relocation of this window. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -87,8 +87,8 @@
 ### Battle Phases
 
 1. **Tension:** Two workers reach the window by the maintained route, confirm the count against the last sheet, and agree which of them will walk the length and which will stay at the glass. Neither of them has a free hand; both carry the lamp and the sheet deliberately.
-2. **Clash:** There is nothing to fight. The team counts the hands in the pane, works Viderehan and Ferrehan only, and leaves the glass untouched unless the touch is logged with a name. Flerehan and Pugnahan are not merely invalid here; the two attempts on record each added a hand and neither removed one.
-3. **Resolution:** The cycle ends when the count is taken twice and agrees, the patrol sheet for the disused lengths is attached, and the relic is unmounted. There is no suppression step and none has ever been authorised, the entity having no breach counter and no recorded hostile act.
+2. **Clash:** Do not fight the pane. The team counts hands, works Viderehan and Ferrehan only and leaves the glass untouched. Logging the name of an accidental toucher is required incident evidence, not permission to add another hand or repeat the contact. Flerehan and Pugnahan are not merely invalid here; the two attempts on record each added a hand and neither removed one.
+3. **Resolution:** End the viewing with a second person saying the viewer’s name and the current date. Compare the two counts and attach the patrol sheet for the disused lengths; the fixed pane is not unmounted as an encounter-ending step. There is no authorised suppression step or breach counter, but a touch, strike or held gaze still has recorded consequences.
 
 ### Consequences
 
@@ -123,6 +123,8 @@
 
 **Appearance protocol:** Photograph the pane square-on at a fixed distance and count the hands against the previous plate; the count is the record and takes two people, because single counts have differed by as much as nine. Log the crack pattern, which has not altered, and the room visible beyond, by length number where it can be identified.
 
+**Pane, view and history:** The Tale’s tearing is the burden of departures, not a report that the original glass physically split during formation. Present inspection nevertheless identifies a cracked red-black pane: fever-cold, smelling of char, with reflected hands rather than the observer’s face. A borrowed working room is a view held by that pane, not an open route to its occupants. The fixed wall setting, failed removals and absence of transmitted lamp light matter as much as the apparent depth. A strike’s inward failure and the Tide’s reflections elsewhere are separately triggered records; neither warrants carrying a loose pane or assuming that an ordinary inspection is a passage through it.
+
 ## Origin
 - **Formation:** The Window formed from a view destroyed by repeated hands and memories.
 - **The Sorrow:** The grief of seeing the same place through too many losses.
@@ -146,7 +148,7 @@
 
 The Work Type table holds steady here and the patrol sheet does not. The gauge tracks one variable: whether the length shown at the last cycle was walked. Walked, it opens where it closed; unwalked, four to six points higher, every time across 118 cycles. The window is not asking to be looked at. It is asking for the tunnel to still be in use.
 
-**Reading the response:** A falling count means a disused length was walked and logged that week. Stability under Viderehan is correct and is the usual result. The count rises when a length is struck off the round, when an unlogged hand touches the glass, and it has never once risen during a viewing conducted properly.
+**Reading the response:** Viderehan is Stable and Ferrehan is Decrease in the Work table; keep those gauge readings separate from photographed hands. A lower gauge does not by itself establish a falling hand count. The file’s hand-count series disagree and need their own comparison, not substitution of a gauge result. Keep walking and logging the shown length even when a viewing leaves the photographed count unchanged.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -173,7 +175,7 @@ The Work Type table holds steady here and the patrol sheet does not. The gauge t
 | **Termination / Return** | A second person ends the viewing by saying the viewer's name and the current date. Nothing else has ever worked; the viewer cannot end it themselves and has never, in nine years, tried to. |
 | **Risk** | The viewer may file a shift they never worked; four have. |
 
-**Operational Rule:** The relic functions only while mounted on the bearer and cannot be carried out of the tunnel network; beyond the last worked length it shows nothing at all. It cannot replace the patrol round, and the holding's standing warning is that it was twice treated as a substitute for one.
+**Operational Rule:** The present pane remains in its tunnel wall; the two attempted removals did not relocate it. The I-Relic mounting account supplies no successful removal or portable state, so do not use that instruction to carry the source window on a bearer. Viewing cannot replace the patrol round: the holding’s standing warning is that it was twice treated as a substitute for walking. Keep any claimed limit beyond the last worked length separate from proof of source portability.
 
 ### Log and Method
 
@@ -224,6 +226,8 @@ The glass-edged blade delivers devastating lacerating wounds with minimal cuttin
 
 **Cost:** Old injuries ache — specifically ones the wielder got at work, and in the order they got them.
 
+**Sabre and linked Fang:** The steel-and-green-glass sabre is not a documented new state of the crimson Han-iron Fang. Keep the local palm-shaped bruise and work-injury ache apart from the linked Fang’s attributed phantom-grip cut. That record names a single-target pattern, not an attack across every hand in the source glass. Log a hand’s attribution before the Fang’s cleaning; an unattributed cut transfers the farewell rather than harmlessly missing. Its witness names room and owner as the viewer looks away. This is linked-item custody, not authority to slash the pane or assurance that the local sabre can release a viewing.
+
 ### M.A.W. Suit — Torn Window Plate
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
@@ -242,6 +246,8 @@ The glass-edged blade delivers devastating lacerating wounds with minimal cuttin
 
 **Cost:** Reflexes dull, and the wearer stops turning round when somebody comes up behind them.
 
+**Plate care:** Record the wearer’s current location outside all windows before inspection. A corridor seen behind the back panel does not establish that the wearer has entered that past corridor. Monitor dulled reflexes and failure to turn toward a person approaching from behind; protection against Grudge is not protection against mistaken ownership of the room. The linked harness’s locked stride requires acknowledgment of the remembered room’s occupant, not an extra forward step. Its external monitor covers the pane and guides the wearer backward. Keep that account distinct from the fixed source’s name-and-date termination, and retain the sealed roster for the later comparison.
+
 ### M.A.W. Stigma — Torn Window Shard
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
@@ -257,6 +263,8 @@ The glass-edged blade delivers devastating lacerating wounds with minimal cuttin
 **Cost:** The wearer feels every hand that ever touched it.
 
 *Six Stigmas in nine years and every one of them went to a worker who had walked a disused length that nobody had any reason to walk. Not one has ever been given for anything done at the glass. The tunnel office treats this as the holding's clearest statement about itself.*
+
+**Shard provenance:** The awarded shard’s warmth is not the source pane’s fever-cold, and neither requires an invented heating cycle: derived equipment need not retain the source’s temperature. But the local cut-from-edge account and linked unmanufacturable bestowal remain different production claims. Record each felt hand in order, leaving unknown owners unknown rather than completing a chain to open the clasp. The linked removal names the last attributed holder. Feeling a room’s grief does not prove it was the bearer’s home; the kitchen incident preserves the grief while correcting ownership. Keep borrowed hand histories beside the worker’s own sealed roster, not inside it as another shift worked.
 
 ### M.A.W. Use Notes
 
@@ -399,7 +407,7 @@ Some sorrows are about a view. Torn Window is about the departures layered on th
 - Two pieces from the cracked edge, eleven shards rejected for carrying a hand; wielders file other people's shifts.
 **Cross-References:** The Broken Mirror, The Whispering Walls (eleven names recovered), The Torn Trace (closed), the lower network patrol sheet, and the eleven rejected shards in the Armoury ledger.
 **Faction Involvement:** SED (C-territory exploration)
-**Originator:** Four generations of tunnel crews, unnamed, counted rather than listed. The hands in the pane are the only roll that exists and the archive has entered the count, not a list of names, in the originator field for that reason.
+**Originator:** Four generations of tunnel crews, initially counted rather than individually listed in this record. The later Whispering Walls sessions supplied first names and crew numbers checked against old rosters. Preserve those partial identifications alongside the hand count; they do not provide a complete owner for every hand or erase the unnamed crews.
 
 ### Registry Addendum
 
