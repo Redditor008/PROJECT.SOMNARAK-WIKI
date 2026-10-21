@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch175 OPEN0/5 — 2026-10-22
+
+Owner p after CLOSED174 authorizes175 only. Five complete primary/exact-source/final reviews, supported repairs and individual validated pushes are required. Three cumulative No change results extend5→7→10; pending is not No change. Selection is fresh pending-only shortest LC_ALL=C words, designation tie-break, not a defect ranking.
+
+Frozen queue: N-IIβ-903 (6557 words), O-IIβ-677 (6560 words), C-IIβ-235 (6564 words), C-IIIγ-902 (6569 words), C-IVδ-909 (6587 words).
+
+R33 whole-design review and independent equipment/SE counters apply. WIP and CHANGELOG update per unit and closure. No176/merge/artwork/deployment. Later full recheck remains available. Batch301 remains blocked on eight owner bodies, one4+4 operation, generate/validate before wiki copy.
+
 ## Batch174 CLOSED 5/5 — 2026-10-22
 
 Five complete primary/source/final reviews are finished. Uprooted and Risus complete the independent written-design pass; the other three remain held. No change: 0/5.

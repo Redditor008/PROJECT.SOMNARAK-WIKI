@@ -17,80 +17,18 @@
     }
   },
   "active_batch": {
-    "number": 174,
-    "status": "CLOSED",
+    "number": 175,
+    "status": "OPEN",
     "required": 5,
     "queue": [
-      "O-IIIγ-959",
-      "N-IIIβ-200",
-      "C-IVδ-918",
-      "N-IIIγ-127",
-      "C-Iα-150"
+      "N-IIβ-903",
+      "O-IIβ-677",
+      "C-IIβ-235",
+      "C-IIIγ-902",
+      "C-IVδ-909"
     ],
-    "reviewed": {
-      "O-IIIγ-959": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_01_UPROOTED.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "N-IIIβ-200": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_02_CHAIN_OF_MEMORIES.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IVδ-918": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_03_NINETY_SECONDS.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "N-IIIγ-127": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_04_MIRROR_OF_BROKEN.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-Iα-150": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_05_RISUS.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      }
-    },
-    "authorization": "Latest owner p after CLOSED173 authorizes174 only; at least five whole reviews; cumulative three No change extends5→7→10; later full recheck retained.",
-    "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_CLOSE.json"
+    "reviewed": {},
+    "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B175_OPEN.json"
   },
   "dossiers": [
     {
@@ -6109,6 +6047,82 @@
       },
       "authorization": "Latest owner p after CLOSED172 authorizes173 only. Minimumfive; cumulative three No change extends5→7→10. Later full recheck retained.",
       "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_CLOSE.json"
+    },
+    {
+      "number": 174,
+      "status": "CLOSED",
+      "required": 5,
+      "queue": [
+        "O-IIIγ-959",
+        "N-IIIβ-200",
+        "C-IVδ-918",
+        "N-IIIγ-127",
+        "C-Iα-150"
+      ],
+      "reviewed": {
+        "O-IIIγ-959": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_01_UPROOTED.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "N-IIIβ-200": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_02_CHAIN_OF_MEMORIES.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "C-IVδ-918": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_03_NINETY_SECONDS.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "N-IIIγ-127": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_04_MIRROR_OF_BROKEN.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "C-Iα-150": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_05_RISUS.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        }
+      },
+      "authorization": "Latest owner p after CLOSED173 authorizes174 only; at least five whole reviews; cumulative three No change extends5→7→10; later full recheck retained.",
+      "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_CLOSE.json"
     }
   ],
   "equipment_reviews": [
