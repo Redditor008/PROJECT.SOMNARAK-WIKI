@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch177 OPEN0/5 — 2026-10-22
+
+Owner p after CLOSED176 authorizes177 only. Fresh pending-only shortest LC_ALL=C word count, designation-byte ties;140pending. Frozen queue: N-IVδ-606 (6816 words), C-IIβ-250 (6831 words), O-Iα-643 (6844 words), C-IVδ-915 (6845 words), C-IIIγ-115 (6875 words).
+
+Complete whole-primary/exactA–D/registry/Master/Tale/history and full final reading after actual five checks are required. Trace supported design states and permissions; donor and derived equipment may differ. Predeclare R18 short/careful scope, preserve real conflicts, no forced edits. Each unit gets evidence, Commentary, WIP/CHANGELOG and a separate validated push. Three cumulative No change extends5→7→10; pending is not No change. No178/merge/art/deployment. Batch301 eight owner bodies/one4+4/generatevalidatebeforecopy remains blocked. Counters266/301 Types,265/287 Weapon,18/301 SE; no opening credit.
+
 ## Batch176 CLOSED 5/5 — 2026-10-22
 
 Five fresh complete primary/source/final reviews are finished in the frozen order. All five whole written designs remain HELD. This closes the review batch, not five completed appearance fixes. No change: 0/5.

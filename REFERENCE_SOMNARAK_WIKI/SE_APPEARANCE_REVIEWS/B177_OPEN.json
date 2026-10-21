@@ -1,0 +1,71 @@
+{
+  "batch": 177,
+  "base": "96794cbe5c791ee959fad6f02d47215016d6fb1e",
+  "authorization": "Owner p after CLOSED176 authorizes Batch177 only. Minimum5; cumulative three No change extends same batch5→7→10. Later full recheck preserved.",
+  "selection": "Fresh pending-only shortest LC_ALL=C wc-w, designation-byte ties; not a defect ranking.",
+  "pending": 140,
+  "queue": [
+    {
+      "designation": "N-IVδ-606",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-606_Banyan_가라앉은_나무.md",
+      "words": 6816,
+      "sha256": "5afd18a5030b6842436b8bd1d3b557b4d2af90a08e3a458e147fccdfacc8d5f9"
+    },
+    {
+      "designation": "C-IIβ-250",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-250_Memory_Rain_기억의_비.md",
+      "words": 6831,
+      "sha256": "2d882a26f28e41b5c1cfdf6bcd9ee9a5fa733d51a52bade349aba4ec32388baf"
+    },
+    {
+      "designation": "O-Iα-643",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-643_Frozen_Mirror_얼어붙은_거울.md",
+      "words": 6844,
+      "sha256": "039a5cda44aa4feaab5055e80e7c025181b847bfb43c90bcef7075e8876d8789"
+    },
+    {
+      "designation": "C-IVδ-915",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-915_Endless_Shift_끝없는_교대.md",
+      "words": 6845,
+      "sha256": "fd34de3498486dc361827a634f8beaf0059d92664709bb7311be2c3acd3c1bcc"
+    },
+    {
+      "designation": "C-IIIγ-115",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-115_Remembrance_기억의_우물.md",
+      "words": 6875,
+      "sha256": "556bb37fe4a382271d01110b6e626c934a82a4cafc2ace4740270f7ee0998144"
+    }
+  ],
+  "reserves": [
+    {
+      "designation": "N-IIIγ-283",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽.md",
+      "words": 6921,
+      "sha256": "7ec0e93f4568c602b7a08caf12a498be8187098072ecccf4a0d8962a118c6995"
+    },
+    {
+      "designation": "N-IIIγ-589",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-589_Nemo_돌아온_영혼.md",
+      "words": 6928,
+      "sha256": "782acf4a157ae1f45673691ffc4f5a4902bd2144d10405d8426d9cf1cef4855c"
+    },
+    {
+      "designation": "N-IIIβ-941",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md",
+      "words": 6982,
+      "sha256": "9fb6664b0d08656dc6cb28f34398e9f93512da2be4d925cfdd0d1205ceecc4e4"
+    },
+    {
+      "designation": "C-Iα-723",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄.md",
+      "words": 7003,
+      "sha256": "170ff23b2cafd745b8a41d53dda49d6e824c2ea99df769762650c778334373aa"
+    },
+    {
+      "designation": "C-IIβ-901",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-901_Duri's_Heart_보존된_심장.md",
+      "words": 7005,
+      "sha256": "d18470d7b3611f61bfb6c157b8d6f5fc0c952eeae7e844e787c2b133dcdaadae"
+    }
+  ]
+}

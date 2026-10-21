@@ -17,80 +17,18 @@
     }
   },
   "active_batch": {
-    "number": 176,
-    "status": "CLOSED",
+    "number": 177,
+    "status": "OPEN",
     "required": 5,
     "queue": [
-      "C-IIβ-240",
-      "C-IIIγ-904",
-      "N-Iα-686",
-      "C-IIβ-782",
-      "N-Iα-905"
+      "N-IVδ-606",
+      "C-IIβ-250",
+      "O-Iα-643",
+      "C-IVδ-915",
+      "C-IIIγ-115"
     ],
-    "reviewed": {
-      "C-IIβ-240": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_01_HOLDOUT.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IIIγ-904": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_02_THINKING_ENGINE.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "N-Iα-686": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_03_TORN_WINDOW.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IIβ-782": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_04_FLOTSAM.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "N-Iα-905": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_05_LACRIMA.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      }
-    },
-    "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_OPEN.json",
-    "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_CLOSE.json"
+    "reviewed": {},
+    "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_OPEN.json"
   },
   "dossiers": [
     {
@@ -6502,6 +6440,82 @@
       },
       "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B175_OPEN.json",
       "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B175_CLOSE.json"
+    },
+    {
+      "number": 176,
+      "status": "CLOSED",
+      "required": 5,
+      "queue": [
+        "C-IIβ-240",
+        "C-IIIγ-904",
+        "N-Iα-686",
+        "C-IIβ-782",
+        "N-Iα-905"
+      ],
+      "reviewed": {
+        "C-IIβ-240": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_01_HOLDOUT.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "C-IIIγ-904": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_02_THINKING_ENGINE.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "N-Iα-686": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_03_TORN_WINDOW.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "C-IIβ-782": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_04_FLOTSAM.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        },
+        "N-Iα-905": {
+          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_05_LACRIMA.md",
+          "no_change": false,
+          "whole_final_reread": true,
+          "checks": {
+            "verify": "PASS",
+            "tpl": "PASS",
+            "sectfile": "PASS",
+            "wikistd": "PASS",
+            "sect": "PASS"
+          }
+        }
+      },
+      "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_OPEN.json",
+      "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_CLOSE.json"
     }
   ],
   "equipment_reviews": [
