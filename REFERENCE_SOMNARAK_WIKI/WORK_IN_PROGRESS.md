@@ -1,5 +1,24 @@
 # Work In Progress
 
+## Batch165 / unit3 — The Ancestral Guilt `N-Vω-1055`
+
+[[SE-N-Vω-1055_The_Ancestral_Guilt_조상의_원죄](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-V%CF%89-1055_The_Ancestral_Guilt_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%9B%90%EC%A3%84.md "SE-N-Vω-1055_The_Ancestral_Guilt_조상의_원죄.md")]
+
+**What changed:** Four supported repairs replace absolute inescapability with acknowledgement-sensitive pressure; correct wielder wording to exposed person because no gear exists; qualify repeated mass doubling as a precautionary model after one accidental tear; add Appearance separating ledger phantom, visitor script, slag, limited eyewitness height/count reports, modelled combat and entirely theoretical M.A.W.
+
+**Sources/history:** B114unit1 1bac7a9f0616e996eea324891189a17211a2a6a9 already reviewed this full primary and recorded no extracted piece/no exact external A–D or Weapon crosswalk, +0Types/+0Weapon. Fresh exact1055/name search found only primary and unrelated ForeclosureSeal move/CantoProjection labels, not equipment. InheritedDebt019 is a separate entity with its own set; this review does not import it. Current Negative disposition covers vault-scale harm. Both historical logs reread for the exact unit.
+
+**Final logical outcome:** CHANGED: source-attributed dimensions and count reports remain qualified, and the ledger construct's origin, creeping/audit movement, script effects, acknowledged relief, cutting hazard and modelled combat now distinguish observations from projections. No new transformation is needed. Explicitly theoretical equipment is not a written-body defect or extraction completion.
+
+**Holds:** No suppression, repeated tearing, mass reconciliation of the purge or gear extraction is claimed; those remain untried. The classification height and paired hands are preserved; Jin-Soo's height and short hand/pen reports are not silently converted into measurements. Future measured census belongs in the later recheck backlog. InheritedDebt overlap is four people's postings, not co-location, immunity caused by either entity, or shared equipment. No Weapon pair credit. Disposition index retains an older absolute mass-growth quotation and modelled-sector-harm language; refresh its evidence wording in the later source recheck, without silently changing Negative classification here.
+
+**Commentary:** The page in the trainee's fist and the Bureau refusing to read its own purge are the sharpest details. The sorrow is inherited bookkeeping made physical, not merely a huge clerk. Protecting that distinction also keeps the blank coat a disturbing theory rather than a conveniently tested escape route.
+
+**Checks and evidence:** Five actual validators PASS; whole original and final read, 4supported replacements, LC_ALL=C words3125→3471. Receipt `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B165_03_ANCESTRAL_GUILT.md` records raw checks, hashes and visual limits.
+
+**Progress:** OPEN3/5, No change0/3. Types255/30184.72%,46/301remain; Weapon255/28788.85%,32/287remain; SE15/3014.98%,286/301remain. No duplicated equipment/body credit. Both logs travel in the individual gate/push. Pending units are not No change; no close below five or earned rung, no166/merge/art/deployment,301ownerblocked. Later full check/fix backlog preserved.
+
+
 ## Batch165 / unit2 — The Singing Needle `O-IVγ-1053`
 
 [[SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-O-IV%CE%B3-1053_The_Singing_Needle_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%B0%94%EB%8A%98.md "SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘.md")]

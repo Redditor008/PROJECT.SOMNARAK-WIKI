@@ -38,9 +38,9 @@
 
 ### Operational Notes
 
-- The Ancestral Guilt embodies the metaphysical truth of Somnarak municipal society: debt is hereditary, spiritual, and inescapable.
+- The Ancestral Guilt embodies the municipal burden of hereditary debt. Its crushing pressure is not inescapable in every interaction: the studied acknowledgement response lowers it, while the underlying obligations and archived records remain.
 - Entering the presence of this entity causes an operative's ancestral lineage to be scanned against four centuries of unpaid loans, broken promises, and unatoned crimes.
-- The wielder feels an agonizing physical gravity proportionate to their family's cumulative debt: knees buckle, ribs crack, and ink seeps from pores.
+- A person in the vault feels an agonizing physical gravity proportionate to their family's cumulative debt: knees buckle, ribs crack, and ink seeps from pores. This is exposure to the entity, not use of an extracted M.A.W. piece; none exists.
 - Only operatives who have formally severed all family ties or paid off their lineage's debt mark can look directly upon the entity without suffering instant Posture break.
 
 ## Combat Record
@@ -79,6 +79,18 @@ The entity materialized when the Collector Bureau attempted to purge 120,000 del
 ### Level 3 — Studied Telemetry
 Interviews with affected personnel reveal that the entity does not demand money; it demands acknowledgement. When an operative formally names their ancestor's fault and promises to carry the memory without deceit, the entity folds its hands and lowers its crushing pressure by 80%.
 
+## Appearance — Ledger Body, Script and Testimony
+
+The classification describes a colossal ledger phantom with paired ink-stained hands. It is a paper-and-contract scribe construct, not a human ancestor inside a costume. The inherited shame and failed record purge account for its material and behaviour; neither requires a flesh body before the ledger form. Its documented event is an audit expansion in the vault, not an escape into the city.
+
+Separate the creeping paper and following body from script on the walls and a visitor's arm. That script identifies exposure and lineage; it does not turn the visitor into the scribe. Likewise petrified ink slag is deposited material that has been removed, not a captured copy or proof of a destructible legal vessel.
+
+The classification's height and paired-hand description are not new measurements from Jin-Soo's account. His thirty-foot recollection remains attributed eyewitness testimony; the shorter references to thirty hands and pens in action and sensory reports do not establish a second complete limb census. Retain those source distinctions rather than inventing growth, amputations or a changing hand count to reconcile them. A confirmed measurement or full count would need its own record.
+
+The Combat Record is explicitly a model, not footage of a fought suppression or a witnessed transformation of the vault into a new body. The one accidental tear supports the no-cutting rule without proving repeated exponential growth. Acknowledgement can lower pressure without erasing the paper, the debt or the need for timed clearance.
+
+The Foreclosure Seal and Severed Line are theoretical equipment profiles only. The maul and blank coat need not reproduce the scribe's silhouette; neither has been extracted, issued or worn. Descent logs, wash-down lines and recovery intervals describe keepers exposed to the vault, not field tests of either item.
+
 ## Origin & Formation
 
 - **Formation:** Crystallized from the collective shame and despair of four centuries of lower-tier citizens who died before clearing their municipal debt, knowing their children would inherit the iron collar of civic indenture.
@@ -88,7 +100,7 @@ Interviews with affected personnel reveal that the entity does not demand money;
 
 1. **Genealogical Sanitization:** Operatives assigned to the Deep Vault must have their family ledgers reviewed and cleared by Chief of Staff Yeong prior to descent.
 2. **Ink Repellent:** Keepers must wear lead-aproned protective suits treated with paraffin oil to prevent the entity's phantom ink from soaking into skin.
-3. **No Contract Severing:** Do not attempt to burn or shred the entity's scrolls with fire; each destroyed document doubles the entity's kinetic mass.
+3. **No Contract Severing:** Do not burn, tear or shred the entity's scrolls. The single recorded accidental tear doubled the measured loading; repeated doubling is the precautionary model, not a sequence of tested destructions. Removing deposited ink slag is separately recorded without that increase.
 
 Management: nobody goes down without the Chief of Staff's clearance and a leaded apron, nothing in the vault is burned or torn, and a keeper who feels the weight names the fault aloud instead of pushing against it.
 
