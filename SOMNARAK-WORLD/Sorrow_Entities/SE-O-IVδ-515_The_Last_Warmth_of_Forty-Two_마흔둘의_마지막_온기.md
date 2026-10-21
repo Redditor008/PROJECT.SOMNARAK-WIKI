@@ -40,9 +40,9 @@
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Last Warmth of Forty-Two.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- Inspect the collar and glass against their intact condition. The record distinguishes impact, outer frost and vented gas; a rising reading does not establish safe, controlled deployment or an unrecorded spatial expansion.
 - Single-use A-Relics are designed to be deployed during catastrophic squad crises; their activation is irreversible.
-- M.A.W. extraction is derived from the residue left behind after controlled route termination or historical husk crystallization.
+- The integrated M.A.W. profiles do not authorize harvesting the expended vial. Its activation record declares the remains inert and forbids extracting them again; the quartz sand and webbing have a memorial destination.
 
 ## Combat Record
 ### Core Stat Line
@@ -77,7 +77,7 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| {{ *The Warm Rim* [**Debuff**] }} | "The silver solder hums with body temperature despite sub-zero ambient cold." | [The contrast between warmth and frost shakes the operator's senses.] | *Target loses 10 Clarity.* | When picked up from cold storage. |
+| {{ *The Warm Rim* [**Debuff**] }} | "The lead-tin solder hums with body temperature despite sub-zero ambient cold." | [The contrast between warmth and frost shakes the operator's senses.] | *Target loses 10 Clarity.* | When picked up from cold storage. |
 | {{ *Forty-Two Whispers* [**Debuff**] }} | "Multiple quiet voices murmur simultaneously from inside the quartz." | [Personnel hear beloved voices calling farewell from across great distances.] | *Target suffers -12 Composure.* | When held near the ear. |
 | {{ *Frost Bloom* [**Attack**] }} | "A sudden rime of blue frost races across the outer glass cylinder." | [The floor around the plinth drops thirty degrees in three seconds.] | *Inflicts 18 Lament damage to nearby units.* | When handled without thermal gloves. |
 | {{ *Trapped Exhalation* [**Attack**] }} | "The vapor inside swirls into the fleeting silhouette of forty-two faces." | [Observers feel an overwhelming wave of shared, loving grief.] | *Sorrow Gauge surges 15%.* | When the vial is jostled. |
@@ -94,6 +94,12 @@
 Premature rupture releases an uncontrolled flash-freeze wave that petrifies all life within thirty meters. Controlled shatter-strike freezes sovereign nightmares in absolute stasis, allowing the squad to regroup.
 
 ## Appearance
+
+**A vessel for a collective farewell:** The source remains the slender quartz medicine vial, its badge-stamped lead-tin collar and frayed orange webbing, not a fused body made from the outriders. Their names, whispered layers and brief facial profiles locate the collective presence inside an object. The vial can be carried in its supporting cradle; circulation inside the glass is not the source walking or expanding across the cache.
+
+**Contained motion, not a second body:** Pale blue vapor keeps circulating rather than settling against the wall. High-speed images record fleeting crystals and facial profiles; those transient patterns are not a permanent frozen face, a settled sediment or a separate scout emerging from the glass. The routine warmth is the baseline, not by itself proof that the seal has begun to fail. Outer frost, a damaged collar and vented gas have their own contact or rupture conditions in the record.
+
+**Custody and irreversible release:** Support the glass from beneath rather than taking its weight on the fragile original wrap. The collar is not a sampling port. A shatter-strike releases the acoustic blizzard and spends the vial; quartz sand and webbing remnants are memorial remains, not a refillable container. The derived Lance, Parka and throat Badge have independent equipment forms and bearer costs, not new anatomical states of the bottle.
 
 **Physical Form:** A slender cylindrical vial of hand-blown leaded quartz glass, sealed at the collar with melted lead solder and wrapped in fraying orange surveyor's emergency webbing. Inside, a swirling vapor of pale blue condensation moves in perpetual circular suspension without settling into frost or liquid. Despite ambient sub-zero temperatures, the quartz remains warm to human touch (36.5°C), vibrating with a quiet, multi-voiced whisper that sounds like dozens of people talking softly around a campfire.
 
@@ -172,9 +178,9 @@ Operatives assigned to Ferrehan must possess high Composure ratings. Hearing for
 
 ### Escalation Notes
 
-Escalation here has one shape and is not the standard breach event: the cradle begins to warm on its own. The watch enters the first trigger, the change visible in the Object-Lament form, the distance at which the effect starts, and the line where the resonance settles. Lament is the element and the Frozen Depths Cache at SECTOR-O-09 the post, so emotional and behavioural indicators go in beside the physical telemetry.
+Warmth alone is not an escalation signal: the vial remains warm across ambient conditions. Record changes to the collar, glass and vapor against that baseline rather than treating the normal warm cradle as a new breach. The watch enters the first trigger, the change visible in the Object-Lament form, the distance at which the effect starts, and the line where the resonance settles. Lament is the element and the Frozen Depths Cache at SECTOR-O-09 the post, so emotional and behavioural indicators go in beside the physical telemetry.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Keep unshielded personnel clear and establish whether the glass and original collar remain intact. For intact custody, support the vial beneath, preserve the original webbing and return it to its heated cradle; do not cut, drill or sample the seal. A hair-fracture or vent is a rupture hazard, not permission to handle it for analysis. Authorized deployment is the deliberate single shatter-strike under the recorded encounter restriction. After discharge, account for the quartz sand and webbing for memorial interment and provide the operator's recorded grief care; do not refill, repair or extract the remains. Viderehan and Ferrehan remain the only Work Types.
 
 ### Detailed Activation Record
 
@@ -251,10 +257,10 @@ Equipment derived from this relic embodies supreme collective solidarity. It bec
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator emotional resilience audit, suit thermal insulation check, quartz crystal clarity. |
-| **During use** | Ambient frost radius, target stasis duration, squad vocal cadence monitoring. |
-| **At limit** | Operator core body temperature, crying duration, crystal stress fractures. |
-| **After use** | Psychological grief debrief, thermal chamber re-warming, medical tear-duct examination. |
+| **Before use** | Operator emotional resilience audit, suit insulation and quartz clarity; inspect the Lance and support the relic beneath rather than by its webbing. Record squad separation separately from the vial's custody state. |
+| **During use** | Ambient frost radius, target stasis duration and squad vocal cadence; distinguish Lance frost breath, Parka fear of separation and Badge parting-tears from the vial's quiet chorus. Do not infer that gear use has shattered or refilled the source. |
+| **At limit** | Operator core temperature, crying duration and crystal stress; note the Parka shield condition separately from the source's one-use discharge. The Badge's warming protection is not permission to open the collar or rough-handle the vial. |
+| **After use** | Psychological grief debrief, thermal re-warming and tear-duct examination. Record which equipment cost followed use, separately from grief after source deployment; spent source remains go to the Memorial Wall, not the equipment service bench. |
 
 ## 관찰 기록 (Observation Log)
 

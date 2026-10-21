@@ -1,5 +1,31 @@
 # Work In Progress
 
+## Batch168 unit4 — The Last Warmth of Forty-Two `O-IVδ-515`
+
+[[SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-515_The_Last_Warmth_of_Forty-Two_%EB%A7%88%ED%9D%94%EB%91%98%EC%9D%98_%EB%A7%88%EC%A7%80%EB%A7%89_%EC%98%A8%EA%B8%B0.md "SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기.md")]
+
+**Original whole review and supported scope:** Complete416-line original and embedded gear read: Object-Lament of collective solidarity, slender warm quartz vial and original lead-tin badge seal/webbing, internally circulating vapor not organic people-body. Whole chain includes glacier event, sensory chorus/transient microcrystals, carried stationary artifact, handling from beneath, Work/gloves/short rotation, hair-fracture/controlled shatter and inert memorial remains, gear costs and neighbor interactions. Scope distinguishes baseline warmth from escalation, original collar versus silver, contained motion/source state and derived gear; rejects repeated residue extraction and gives exact-state response and piece-specific FieldUse.
+
+**Exact sources/history:** Full Codex README names515 integrated A-Relic; no external exactA–D. Exact Source/title/Lance/Parka/Badge searches of Registry/archetype/Master found no matching equipment rows. Entity593 corroborates warm-vial/final-breath origin and2-turn stasis; disposition128 matches FrozenShard stabilization. B37unit8 archived final-observation/structure cleanup read and B65 zero-couple claim inspected: the latter says515 cleared without being edited, not a source disposition. git primary only baseline10cd20a. No equipment uniqueness credit proven, conservative+0/+0. First validator pass caught newly authored Monitor-the stock prefix (RESIDUAL1); replaced with Inspect-the, unchanged meaning, then all five rerun. No failing draft pushed.
+
+**Changes:** Ten repairs add specific vessel/chorus/transient-profile/custody/release distinctions; correct silver to lead-tin; remove generic expansion and spent-husk extraction claims; identify ordinary warmth as baseline; replace generic response with intact/ruptured/spent handling; individualize all four FieldUse stages by piece cost and memorial destination.
+
+**Final logical result:** HELD: warm intact vial versus internally moving chorus/conditional rupture and spent memorial remains are explicit, no source locomotion or donor anatomy invented. Chronology, repeat-use provenance and release targeting/authorization still prevent whole-file completion; no new equipment credit or body credit. Complete final primary reread in document order after actual validation, hash matches.
+
+**Holds / later recheck:**
+
+- Formation4188 plus seventy-year salvage delay exceeds document4238; no altered year or invented later edition.
+- Single-use vial versus3/5/7 Use headings and operational testimony lack instance or simulation provenance.
+- Uncontrolled rupture freezes all life versus hostile-only controlled stasis, gauge-triggered vent/impact trigger and never-disturb seal versus authorized destructive deployment require explicit scope/state evidence.
+- Source custody/no-ceremony names versus eventual full military-honors interment can concern different states, not automatic contradiction; transient crystals versus perpetual vapor can coexist, and equipment silhouette/scale differs legitimately.
+
+**Commentary:** A warm medicine bottle is more affecting than an ice giant here. The orange webbing and practical words before the farewells keep the forty-two people present without reducing them to faces on a weapon. I kept that intimacy while separating custody from expenditure.
+
+**Checks and evidence:** `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_04_LAST_WARMTH_OF_FORTY_TWO.md`. 10 supported replacements; LC_ALL=C wc -w5091→5519. All five validators PASS, raw outputs and original/final/source hashes in receipt. Written-design review only: no illustration, rendered page, browser, game or deployed site inspected. Equipment+0/+0, SE+0; no duplicate/retroactive/body/art credits.
+
+**Progress:** OPEN4/5, No change0/4. Types255/30184.72%(46/301remain);Weapon255/28788.85%(32/287remain);SE16/3015.32%(285/301remain). Individual gate/push follows. Minimum five/cumulative No change ladder retained. No169/merge/deployment;301owner-eight-body one4+4/generate-before-copy and later full recheck retained.
+
+
 ## Batch168 unit3 — Father's Broken Bond `C-IIIβ-072`
 
 [[SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-072_Fathers_Broken_Bond_%EC%95%84%EB%B2%84%EC%A7%80%EC%9D%98_%EB%B6%80%EB%9F%AC%EC%A7%84_%EC%B0%A8%EC%9A%A9%ED%8C%A8.md "SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md")]

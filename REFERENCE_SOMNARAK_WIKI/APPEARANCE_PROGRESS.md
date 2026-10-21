@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest batch: Batch168 OPEN 3 / 5.** Fresh pending-only cohort frozen. Previous167 CLOSED5/5. No new review or credit at opening; no169/merge/deployment.
+**Latest batch: Batch168 OPEN 4 / 5.** Fresh pending-only cohort frozen. Previous167 CLOSED5/5. No new review or credit at opening; no169/merge/deployment.
 
 Owner direction, 2026-10-18: start a new X/X for SE appearance fixes and name the older counters by their M.A.W. scope.
 
@@ -1188,3 +1188,7 @@ Counters unchanged: Types 255 / 301 (84.72%; 46 / 301 remain); Weapon 255 / 287 
 ### Batch168 unit3 — OPEN3/5
 
 [Father's Broken Bond evidence](SE_APPEARANCE_REVIEWS/B168_03_FATHERS_BROKEN_BOND.md): HELD, 8 repairs, whole original/final read and five actual validators PASS. No change0/3; SE16/301. No169 authorized.
+
+### Batch168 unit4 — OPEN4/5
+
+[The Last Warmth of Forty-Two evidence](SE_APPEARANCE_REVIEWS/B168_04_LAST_WARMTH_OF_FORTY_TWO.md): HELD, 10 repairs, whole original/final read and five actual validators PASS. No change0/4; SE16/301. No169 authorized.
