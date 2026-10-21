@@ -1,0 +1,71 @@
+{
+  "batch": 174,
+  "base": "6d29b05f79e27ba86448b08640aadc3053ade296",
+  "authorization": "Latest owner p after CLOSED173 authorizes174 only; at least five whole reviews; cumulative three No change extends5→7→10; later full recheck retained.",
+  "selection": "Fresh pending-only shortest LC_ALL=C wc-w; designation tie-break; not a defect ranking.",
+  "pending": 155,
+  "queue": [
+    {
+      "designation": "O-IIIγ-959",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md",
+      "words": 6495,
+      "sha256": "cbacc21919677ad9b620439a8bafc2011531884799956254e6a3a5a7c554aed5"
+    },
+    {
+      "designation": "N-IIIβ-200",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md",
+      "words": 6496,
+      "sha256": "75f697b428cfacc4a87fa2f718038775822e0399c3deb13b8c570e7f95dc3005"
+    },
+    {
+      "designation": "C-IVδ-918",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md",
+      "words": 6503,
+      "sha256": "8e6e5f13321d20260e55b9dca65f8bbffa31f402864a79d86965908e67caa4a3"
+    },
+    {
+      "designation": "N-IIIγ-127",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울.md",
+      "words": 6534,
+      "sha256": "16f7db65b4d5ef97516fd39d5bf148e2d6ce43e9b9e5d33fd2e1127fdf07e7b8"
+    },
+    {
+      "designation": "C-Iα-150",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-150_Risus_웃음의_메아리.md",
+      "words": 6557,
+      "sha256": "d2a69ede0c7d60970f17f12c0be1228006d482e0427d6771786e0149f76b31ee"
+    }
+  ],
+  "reserves": [
+    {
+      "designation": "N-IIβ-903",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md",
+      "words": 6557,
+      "sha256": "50918075450c6c41e7e9ef02a47674085c4e6c63f4db9444fd8684bc6e8be86f"
+    },
+    {
+      "designation": "O-IIβ-677",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-677_Tower_Erased_Overnight_사라진_탑.md",
+      "words": 6560,
+      "sha256": "9c25b532820621f0631eb3312fbbc774372ff314148d3527e3d7113b755594c3"
+    },
+    {
+      "designation": "C-IIβ-235",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-235_Panopticon_벽_속의_감시자.md",
+      "words": 6564,
+      "sha256": "5fb9633341d6432a656c45dfbced8e34fcd3082068e0d7a10f926d4d28ffdb5a"
+    },
+    {
+      "designation": "C-IIIγ-902",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-902_Beating_Relic_고동치는_유물.md",
+      "words": 6569,
+      "sha256": "64fd594cbae7f8f13058dc7946f570ef9d11fc86083e5c3d9a9cdb3eaee82037"
+    },
+    {
+      "designation": "C-IVδ-909",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로.md",
+      "words": 6587,
+      "sha256": "fa6993a92e89e6448cd4fca154d9158db92e26f60242aa9b5eaedf43bd935150"
+    }
+  ]
+}

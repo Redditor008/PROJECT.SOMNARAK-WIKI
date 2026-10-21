@@ -1,0 +1,40 @@
+{
+  "batch": 174,
+  "status": "OPEN",
+  "required": 5,
+  "completed": 0,
+  "no_change": 0,
+  "queue": [
+    {
+      "designation": "O-IIIγ-959",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md",
+      "words": 6495,
+      "sha256": "cbacc21919677ad9b620439a8bafc2011531884799956254e6a3a5a7c554aed5"
+    },
+    {
+      "designation": "N-IIIβ-200",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md",
+      "words": 6496,
+      "sha256": "75f697b428cfacc4a87fa2f718038775822e0399c3deb13b8c570e7f95dc3005"
+    },
+    {
+      "designation": "C-IVδ-918",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md",
+      "words": 6503,
+      "sha256": "8e6e5f13321d20260e55b9dca65f8bbffa31f402864a79d86965908e67caa4a3"
+    },
+    {
+      "designation": "N-IIIγ-127",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울.md",
+      "words": 6534,
+      "sha256": "16f7db65b4d5ef97516fd39d5bf148e2d6ce43e9b9e5d33fd2e1127fdf07e7b8"
+    },
+    {
+      "designation": "C-Iα-150",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-150_Risus_웃음의_메아리.md",
+      "words": 6557,
+      "sha256": "d2a69ede0c7d60970f17f12c0be1228006d482e0427d6771786e0149f76b31ee"
+    }
+  ],
+  "units": []
+}

@@ -1,4 +1,8 @@
 # Work In Progress
+## Batch174 OPEN0/5 — 2026-10-22
+
+Latest owner p after CLOSED173 authorizes174 only; at least five whole reviews; cumulative three No change extends5→7→10; later full recheck retained. Fresh pending-only shortest LC_ALL=C wc-w; designation tie-break; not a defect ranking. Frozen order: O-IIIγ-959 (6495 words), N-IIIβ-200 (6496 words), C-IVδ-918 (6503 words), N-IIIγ-127 (6534 words), C-Iα-150 (6557 words). Ten originals saved, five reserves untouched. Complete original/exact A–D/relevant Master/Tale/history/final readings; R18 predeclared supported repairs; actual verify/tpl/sectfile/wikistd/sect and individual gates/pushes. R33 logical completion is independent of technical PASS. No175/merge/artwork/deployment; Batch301 eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
 ## Batch173 CLOSED5/5 — 2026-10-22
 
 41 supported repairs (R18:17batch-short/24careful-detail), LC_ALL=C words31,987→34,361 (+2,374). Five whole designs HELD; No change0/5. Five separate unit gates, commits and PUSH VERIFIED results.25 fresh closing checks/54tests/four independent audits PASS.296unselected/5reserves/301PhysicalFormrows, all Tale bytes and digit sequences, fingerprinted sources unchanged. Exact replacements reconstruct final and commit blobs match. TechnicalPASS is not whole-design completion.
