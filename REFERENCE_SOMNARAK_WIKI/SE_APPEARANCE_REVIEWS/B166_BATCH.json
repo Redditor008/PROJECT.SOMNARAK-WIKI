@@ -1,0 +1,82 @@
+{
+  "batch": 166,
+  "status": "OPEN",
+  "required": 5,
+  "completed": 0,
+  "no_change": 0,
+  "queue": [
+    {
+      "designation": "C-Iα-114",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md",
+      "words": 4494,
+      "lines": 388,
+      "sha256": "6f767a1dcd8cbbcc1216b3d75814417798391659f0fbdd9f73831a20b42ddf8f"
+    },
+    {
+      "designation": "O-IIIγ-412",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md",
+      "words": 4498,
+      "lines": 403,
+      "sha256": "1e60e6dd238d9aae19050a503c85e8d9cda8c673e7235e3307554cd5845578f1"
+    },
+    {
+      "designation": "N-IIβ-319",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선.md",
+      "words": 4562,
+      "lines": 404,
+      "sha256": "cbd6f544ca466350943e881e1db886f3c18bc3ec8aadb2ebfd4dec1214a58083"
+    },
+    {
+      "designation": "C-Iα-900",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼.md",
+      "words": 4669,
+      "lines": 346,
+      "sha256": "f6dea49b8eed0fc0e962a5acb4b7f43c53473124979ae1f06b4176bc8630252b"
+    },
+    {
+      "designation": "N-IIβ-919",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-919_Passing_Bell_조상의_시간.md",
+      "words": 4707,
+      "lines": 364,
+      "sha256": "b99c3324a6fc5d6c939686127202766ebc33f95899a8b7e35353f44dc2010fe8"
+    }
+  ],
+  "reserves": [
+    {
+      "designation": "N-IIIγ-929",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-929_Dead_Air_유령의_압력.md",
+      "words": 4749,
+      "lines": 342,
+      "sha256": "0d78e19af25e62143fa9836eb4dd8f7c4f3be26e203074d12d0f1e5d4e34c70a"
+    },
+    {
+      "designation": "N-IIIγ-908",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-908_Unwaking_Block_잠드는_구역.md",
+      "words": 4767,
+      "lines": 362,
+      "sha256": "5144f6a151da5036674d393d63389b079bbb187517e29efa0f58591fd0750617"
+    },
+    {
+      "designation": "O-IIIγ-920",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-920_Once_Upon_이야기의_시간.md",
+      "words": 4848,
+      "lines": 340,
+      "sha256": "4735349b218da67c5e0033d43a19619c07839b0de30bb95ac22b105e19dd3507"
+    },
+    {
+      "designation": "O-IIβ-911",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-911_Never_Discharged_영원한_환자.md",
+      "words": 4863,
+      "lines": 340,
+      "sha256": "0109c4ef2caf7adf543adfc990c1b48e7ccb817e8249354511f5bf317e92073f"
+    },
+    {
+      "designation": "O-IIIγ-924",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-924_Weighted_Silence_침묵의_구역.md",
+      "words": 4872,
+      "lines": 362,
+      "sha256": "008073ae9eb7f2974848dfe9a3dfcc74bc3c106cd463bee220e598f6f9258cc5"
+    }
+  ],
+  "units": []
+}

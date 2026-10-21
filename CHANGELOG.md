@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch166 OPEN — 0 / 5
+
+Owner p after CLOSED165 authorizes Batch166 only; minimum five, cumulative three No change triggers5→7→10; later full recheck retained.
+
+Fresh shortest-pending cohort, ranked with required LC_ALL=C word counts:
+
+1. `C-Iα-114` — `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md` (4,494 words).
+2. `O-IIIγ-412` — `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md` (4,498 words).
+3. `N-IIβ-319` — `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선.md` (4,562 words).
+4. `C-Iα-900` — `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼.md` (4,669 words).
+5. `N-IIβ-919` — `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-919_Passing_Bell_조상의_시간.md` (4,707 words).
+
+No unit is reviewed by opening. Each needs complete original/exact-source/history review, bounded supported improvements, five actual checks, full final reading, individual Commentary, both logs and verified push. No change is 0 / 0; pending is not No change.
+
+Counters unchanged: Types 255 / 301 (84.72%; 46 / 301 remain); Weapon 255 / 287 (88.85%; 32 / 287 remain); SE 16 / 301 (5.32%; 285 / 301 remain). No167, merge or deployment. Batch301 eight-owner-body/one4+4/generate-validate-before-copy blocker remains.
+
 ## Batch165 CLOSED — five complete reviews, three written-design completions
 
 **Result:** CLOSED 5 / 5. All five original dossiers and complete final versions were read, validated and individually pushed. There are three CHANGED designs and two HELD designs. No change is 0 / 5. This is a written-design review, not an artwork or deployment completion.

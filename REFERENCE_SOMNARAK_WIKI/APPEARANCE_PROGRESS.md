@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest batch: Batch165 CLOSED 5 / 5.** Twenty supported repairs across five whole-dossier reviews. Needle, Guilt and Pledge gain three independent written-design completions; Drifter and Apostle Maker remain HELD. No change 0 / 5 does not trigger extension. [Closure, sources and all five receipts](SE_APPEARANCE_REVIEWS/B165_CLOSE.md). Equipment counters stay 255 / 301 and 255 / 287; SE reaches 16 / 301. Earlier OPEN165 and CLOSED164 entries below are historical checkpoints. No Batch166 authorization, merge or deployment.
+**Latest batch: Batch166 OPEN 0 / 5.** Fresh shortest-pending five-dossier cohort. Previous Batch165 is CLOSED 5 / 5. No new review or credit at opening. No167, merge or deployment authorized.
 
 Owner direction, 2026-10-18: start a new X/X for SE appearance fixes and name the older counters by their M.A.W. scope.
 
@@ -1112,3 +1112,19 @@ Status totals: 12 changed, 4 retained, 88 held, 2 blocked and 195 pending, summi
 - Batch301 remains blocked on eight owner-supplied bodies and its separate one4+4 operation. Generation and validation must precede any wiki copy.
 
 Closure metadata is shipped in a separate gate after the five individually verified pushes. The closure commit is identified by this file's history and the final chat report, not a self-referential embedded commit hash. PR14 remains owner-controlled; this closed batch is not a merged PR. No166 is opened.
+
+## Batch166 OPEN — 0 / 5
+
+Owner p after CLOSED165 authorizes Batch166 only; minimum five, cumulative three No change triggers5→7→10; later full recheck retained.
+
+Fresh shortest-pending cohort, ranked with required LC_ALL=C word counts:
+
+1. `C-Iα-114` — `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md` (4,494 words).
+2. `O-IIIγ-412` — `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md` (4,498 words).
+3. `N-IIβ-319` — `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선.md` (4,562 words).
+4. `C-Iα-900` — `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼.md` (4,669 words).
+5. `N-IIβ-919` — `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-919_Passing_Bell_조상의_시간.md` (4,707 words).
+
+No unit is reviewed by opening. Each needs complete original/exact-source/history review, bounded supported improvements, five actual checks, full final reading, individual Commentary, both logs and verified push. No change is 0 / 0; pending is not No change.
+
+Counters unchanged: Types 255 / 301 (84.72%; 46 / 301 remain); Weapon 255 / 287 (88.85%; 32 / 287 remain); SE 16 / 301 (5.32%; 285 / 301 remain). No167, merge or deployment. Batch301 eight-owner-body/one4+4/generate-validate-before-copy blocker remains.
