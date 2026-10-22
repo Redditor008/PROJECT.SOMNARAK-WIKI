@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-102 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on none. being inside the field is sufficient and nothing need be done at all |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; no trigger is required. Being inside the field is sufficient and nothing need be done at all |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats melting, never melting |
 | **Potency** | Moderate (β) |
@@ -94,9 +94,9 @@
 ### Consequences
 
 - A worker who cannot hold the sitting becomes a conduit: the pressure moves through them instead of stopping, **Clarity** erodes, and what they carry back into the case is the visitor's own unwept grief rather than the entity's. The second Warden's read ends the watch, and rotation is set at thirty minutes for Wardens on duty — a limit that applies to the post and expressly not to anybody on the bench.
-- - Duration is what does the work on a sitter. A short cycle beside the case can be stood up from; a long one dissolves the emotional, the physical, the identity and finally the room, and the watch record holds no session past the limit that ended well.
-- - Every M.A.W. activation takes its own debit from the bearer — composure, private memory, bodily reserve — and none of it fits the grade-ledger columns, which is why the case’s file keeps the count by hand instead.
-- - Nothing here resolves itself. Left alone, the sorrow turns back into its own zone and sets off the escalation entries already standing in Frozen Tear’s dossier.
+- Duration is what does the work on a sitter. A short cycle beside the case can be stood up from; a long one dissolves the emotional, the physical, the identity and finally the room, and the watch record holds no session past the limit that ended well.
+- Every M.A.W. activation takes its own debit from the bearer — composure, private memory, bodily reserve — and none of it fits the grade-ledger columns, which is why the case’s file keeps the count by hand instead.
+- Nothing here resolves itself. Left alone, the sorrow turns back into its own zone and sets off the escalation entries already standing in Frozen Tear’s dossier.
 
 ## Appearance
 **Physical Form:** A single tear frozen into dark blue crystal, about the size of a fist. **Temperature:** warm to the hand through cloth, with no heat source any instrument can find.
@@ -264,6 +264,12 @@ The escalation here is not an event at all; it is a measurement that keeps comin
 
 A piece cut from Frozen Tear is not ordinary equipment; it works by being part of the thing it is used near, and the charge is therefore the same as the holding's own and is paid whether the use was correct or not. The three pieces run the toll the file records elsewhere: the mirror, the gown and the brooch all draw on the one frozen tear, and none of them was made from the case it sits in — the material comes from the field edge, under separate authority, and never from the tear itself.
 
+The Armoury files the three pieces together as *Icedrop — Witnessed Form*. The Gown’s numbness to small joys and the Brooch’s easier tears are not interchangeable costs. A bearer recounting the originator’s loss in first person marks an attribution failure: record that distinction before cleaning or resting the returned piece. An effect repeating away from the source also belongs in the equipment return, not in a reconstruction of the unnamed mourner’s identity.
+
+At shutdown a named witness identifies Frozen Tear and the event of the tear that froze before falling while the bearer relinquishes the piece. The loss already paid is not refunded. This return concerns the Mirror, Gown or Brooch; it is not an instruction to lift the original tear. Keep the field-edge extraction authority and the case’s no-contact prohibition separate.
+
+The equipment baseline is held by another worker because it concerns the person carrying a piece. It grants no authority to take a bench visitor’s name, describe their distress or turn a sitting into a referral. The thirty-minute watch rotation is not a time limit for that visitor; a return record must not quietly make it one.
+
 ### Field Use Record
 
 | Stage | Required record |
@@ -306,10 +312,9 @@ Frozen Tear (C-IIβ-102 [LO]) is logged as an Object-Lament manifestation expres
 
 **Entry 2 — <Gardens Field Survey, Year 4238>**
 Field edge marked at 7.2 metres, against 5.6 and 4.1 in the two preceding surveys. Glow unchanged against the card. Warmth unchanged. Form unchanged against the opening drawing. No authorised worker has touched it in the whole of the record.
-No authorized worker has touched it.
 
 **Entry 3 — <Works Office Correspondence>**
-The office confirms that no worker may be stood down, reassigned or sent home on account of their emotional state; that fitness for duty is determined by measured work alone; and that a supervisor who acts on a worker's demeanour is in event whatever their motive.
+The office confirms that no worker may be stood down, reassigned or sent home on account of their emotional state; that fitness for duty is determined by measured work alone; and that a supervisor who acts on a worker's demeanour breaches standing instruction whatever their motive.
 The grief of someone unable to cry despite having lost everything.
 
 **Entry 4 — <Containment Notice>**
@@ -337,7 +342,7 @@ The Tear is smaller than a raindrop and looks like a jewel. You sit beside it an
 
 **With continued exposure:** Sustained contact reveals the entity's rhythm — the Lament pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: None required; proximity is sufficient. Effect: Creates a quiet field where emotional distress can be acknowledged. Duration: Until the visitor leaves. Risk: Direct touch may overwhelm the visitor with the original grief. Tool Use Profile — I-Relic Operational Rule: The. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** No gesture opens the field. Inside its radius, a grief the visitor already carries can be present without being corrected or explained. The warmth and light stay as they were; the watch checks them against the cloth and night card rather than treating a sitter’s tears as an instrument reading. Nothing at the bench is entered in that record. The warning belongs at the case: the field permits grief at a distance, but contact delivers the originator’s whole loss.
 
 **After departure:** Nothing follows the watcher out of a Frozen Tear shift except the shift itself, which is the anomaly in this wing. Personnel who work the holding report the same change afterwards and the file records it plainly because it is relevant: they sit with people longer, they ask fewer questions, and several report weeping for the first time in years. The Gardens are not held to cause that; they are held to permit it, which here is a different thing and the whole of the matter. What does follow people out is the bench's absence everywhere else — the arrangement is written for this holding and no other, and three applications for a second one in the Forge District have been refused for want of data.
 
@@ -431,7 +436,7 @@ It gives a small steady light that is easiest to see at night, and the night wat
 
 Three of this holding's four readings have never moved: the glow against the night card, the warmth through cloth, the outline against the opening drawing. The fourth is the field edge, pegged at every session, and it stands at 7.2 metres after 5.6 and 4.1. Set against the Gardens' visitor numbers, the Consolihan calendar and the ward's own grief returns it matches nothing. It matches the number of workers who were seen weeping at their posts in the year and were, entirely correctly, left alone.
 
-No worker at this Company may be stood down on account of their state. Fitness is determined by measured work — errors, test results, the output of the post — and a supervisor who removes somebody from duty because they seem upset is in event of standing instruction whatever they meant by it. The rule was made for cause and the cause is on the record in detail. *He seemed in no condition* cost a woman in the dye house eleven weeks' pay and a permanent reputation; the removals fell overwhelmingly on the recently bereaved, who were then unable to afford the burial; and judging a man by his demeanour turned out, when the figures were run, to mean judging him by whether his face was easy to read. Nobody wants it back and this file does not argue for it.
+No worker at this Company may be stood down on account of their state. Fitness is determined by measured work — errors, test results, the output of the post — and a supervisor who removes somebody from duty because they seem upset breaches standing instruction whatever they meant by it. The rule was made for cause and the cause is on the record in detail. *He seemed in no condition* cost a woman in the dye house eleven weeks' pay and a permanent reputation; the removals fell overwhelmingly on the recently bereaved, who were then unable to afford the burial; and judging a man by his demeanour turned out, when the figures were run, to mean judging him by whether his face was easy to read. Nobody wants it back and this file does not argue for it.
 
 Its consequence is that visible distress now produces no response of any kind, because every available response would be an act taken on demeanour. A man may weep at his bench for a week and nobody may ask, offer, reassign or refer; to do so is to have judged him. Help arrives when the work fails, which is to say after the damage, and the Company is quite correct that the alternative was worse. The thing in the Echo Gardens is a tear that did not fall, and its field of permission has widened by three metres in three years.
 
@@ -461,7 +466,7 @@ Someone who had lost everything found they could not cry and the single tear fro
 - **Classification detail:** Frozen Tear files as an Object/Place; its coherence is Echo (II) — Repeats melting, never melting — and its Moderate (β) potency, and there is no breach counter: the activation trigger is proximity, being inside the field is sufficient, and nothing need be done at all.
 - **Field detail:** Element Lament, registered to SECTOR-D-02, Echo Gardens, on open memorial display. The case is kept at ambient and has never been heated; the warmth is checked by hand through a cloth at every watch against a reading that has been the same for thirty years.
 - **Recognition detail:** A fist-sized tear of dark blue crystal, warm rather than cold, faintly lit, suspended and still, smelling of cold rain on old cloth.
-- **Record detail:** The Registrum named Flerehan as the only valid Work Type for an Object that cannot be worked through Flerehan at all, and claimed the glow tracks collective grief against three unvarying night series; both corrected. The M.A.W. grade was blank against β pieces, and the I-Relic profile describes equipping an object nobody has ever touched — recorded here as theoretical.
+- **Record detail:** The I-Relic carrying profile is theoretical, not an authorised trial. The verified series is taken at the case and field edge: three constants and one changing radius. The two unauthorised contact accounts remain in the sealed counselling series; neither makes contact a valid Work Type or permits the next Warden to reproduce it.
 - **Containment detail:** Containment here is a prohibition and an arrangement rather than a seal. Nobody touches it, under any authority, and that refusal is what holds it; the bench inside the field is authorised, unpaid in nothing but working hours, unrecorded, and unwatched by the Warden on duty, who is forbidden to write anything about it. The field edge is the containment reading and the only figure here that moves.
 ## Document Information
 

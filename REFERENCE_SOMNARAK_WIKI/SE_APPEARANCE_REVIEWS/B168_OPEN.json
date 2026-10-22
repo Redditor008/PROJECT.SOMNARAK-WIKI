@@ -1,0 +1,71 @@
+{
+  "batch": 168,
+  "base": "63cfac40eab0c6f832a4ccf48d2356bfbdf3dda5",
+  "authorization": "Owner p after CLOSED167 authorizes168 only; minimum five, cumulative three No change triggers5→7→10; later full recheck retained.",
+  "pending": 185,
+  "selection": "Fresh pending-only shortest LC_ALL=C wc -w, designation tie-break; length is not a defect or predetermined outcome.",
+  "queue": [
+    {
+      "designation": "N-IIIγ-917",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md",
+      "words": 4924,
+      "sha256": "ffd92f2f80889ba455217dcb0c4f8660dd9ae88ddab1c39f6b4dfa867c6b35a7"
+    },
+    {
+      "designation": "O-IIIγ-916",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-916_Allhallow_유령의_시간.md",
+      "words": 4963,
+      "sha256": "436ef589fa90f59c562b0faf65547c9dd179b301d46a8f8f6e7315b1830f2c1a"
+    },
+    {
+      "designation": "C-IIIβ-072",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md",
+      "words": 5086,
+      "sha256": "5ea8c5b6812dd6e670b2d77ea642c993cb9cc2dd40c6d37bb0a0f57f76b95919"
+    },
+    {
+      "designation": "O-IVδ-515",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기.md",
+      "words": 5091,
+      "sha256": "c790b05e41b221bb023880b91db94e666cd2d325e7510966c66d70fc1003df25"
+    },
+    {
+      "designation": "O-IIβ-914",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-914_Amnesia_잊혀진_일분.md",
+      "words": 5131,
+      "sha256": "4ecf45d30014df0f2aad9666878b362090966a6add09bdb6024466ba9f76578b"
+    }
+  ],
+  "reserves": [
+    {
+      "designation": "N-IIβ-910",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-910_Moktak_조상의_전당.md",
+      "words": 5175,
+      "sha256": "2807c7d668545c76c6fcf0980666e1fd8b7b4063b66f4686d710245b38d4940e"
+    },
+    {
+      "designation": "O-IVδ-930",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-930_Once_Told_살아_있는_서사.md",
+      "words": 5177,
+      "sha256": "e9c4a353e1f087cb350709deafee3083447d265b1af335884e88bef0040b3e96"
+    },
+    {
+      "designation": "N-IIγ-903",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IIγ-903_The_Music_Box_of_Agony_고통의_오르골.md",
+      "words": 5265,
+      "sha256": "90092cfebf97de09351ad0e4242047844e5cf7f2a93db36bbbd156716ac08156"
+    },
+    {
+      "designation": "C-IVδ-923",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-923_Hatred_Above_분노의_폭풍.md",
+      "words": 5472,
+      "sha256": "8adf7cce0c63be4e35644506d664d211e68571dd5735bc85e7c551ffbd8105b0"
+    },
+    {
+      "designation": "C-Iα-000",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-000_Kind_Echo_친절한_메아리.md",
+      "words": 5519,
+      "sha256": "a036068eba1c7956d18ad0833cbb9fa3992cc85064429593051d93ffde7800f9"
+    }
+  ]
+}

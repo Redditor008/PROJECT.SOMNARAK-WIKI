@@ -1,0 +1,67 @@
+{
+  "batch": 152,
+  "base": "fcbfbb3659f94944d7f381964294d531136c42c1",
+  "pending": 265,
+  "candidates": 111,
+  "pattern": "changes? shape|shifts? between.*forms|became (?:a|an|the) ",
+  "selection": "Pending-only; equipment block excluded. Descending matching-line count, ties by full designation. Reading cues, not defect findings. No substitutions.",
+  "queue": [
+    {
+      "designation": "C-IVδ-251",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-C-IVδ-251_The_Unspoken_Line_그어진_선.md",
+      "signals": 3,
+      "evidence": [
+        "| **Entity Type** | **Object / Place** — A junction that became an entity; can breach via Transform, only widen |",
+        "| **Manifestation** | Object / Place — A junction that became an entity; can breach via Transform, only widen · Void. The entity expresses its expansion through the behavior recorded below rather than through a generic attack pattern. |",
+        "They stopped crossing. Not all at once. The tea came less often. The sign went unlit one night, then a week, then a season. Their children, grown, stopped visiting the fountain. The fountain went dry. Within five years, the junction belonged to two streets that did not speak, and the silence between them — dense, structural, fed by forty years of love that no longer had a bridge — stood up on its own and became the line."
+      ],
+      "sha256": "ab146c673ff59cee9ad44ec844f3fc250981c4b524a3db08b75ac4a26cadc343"
+    },
+    {
+      "designation": "C-IVδ-976",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-976_Willing_Chains_스며든_사슬.md",
+      "signals": 3,
+      "evidence": [
+        "- **The Event:** A district was bound by debt and duty until the obligations became a living chain.",
+        "The district was bound together by debt and duty, and the binding, meant to hold them, became a chain that holds them still.",
+        "Willing Chains is that imprisoned binding. Subject-Grudge, Void-element: the figure of obligations that became a living chain — the debts and duties that were meant to hold a community together, transformed by the city's formalization into bonds that no longer serve the bound. The Chain does not protect. It holds — link by link, spreading from citizen to citizen, binding each to the next in a web of obligation that none can escape."
+      ],
+      "sha256": "2c1820f98a2ca3a1cb92efc4772d25f29a05dfee66d5963e7c054e0f17f787e8"
+    },
+    {
+      "designation": "C-Vδ-949",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-949_Stormscale_Sovereign.md",
+      "signals": 3,
+      "evidence": [
+        "- **The Event:** The little fish, having eaten the dragon-stone, caused a rain that would not stop for a hundred years. Drowning in the guilt of it, the fish wished — not to fly, not to soar, but for the rain to end, for the sake of everyone drowning. A beam of light answered. The fish became the Sovereign — soot and foam, sky and river, vast and majestic — rose into the raining sky, and called the hundred-year rain back into the clouds. And then, because it was imperfect, it fell back into a small fish, and the memory sealed, and the hunger remained.",
+        "[Year lost to the flood.] The small fish consumed the dragon-stone. The river began to rain and did not stop for a hundred years. In the drowning, the fish wished — for the first time in a thousand years of wishing — for something other than itself: it wished for the rain to end. A beam of light answered. The fish became a great dragon, soot and foam, sky and river, and it rose and called the rain home. The form held for the length of the wish. Then, imperfect, it fell back into a small fish, and the memory sealed, and the hunger remained. The stone settled back to a carving. The river dried. The three have been three ever since.",
+        "The sky, which had ignored a thousand years of wishing to fly, answered at once. A beam of light came down and touched the little fish, and the fish — which had eaten a dragon and wished, for once, for something other than flight — was transformed. It became the Sovereign: a great flood dragon, black and white, vast and majestic, the fish and the stone at last made one. The dark half was the river it had lived in; the light half was the stone it had consumed; one eye was black and one eye glowed. And the Sovereign rose into the raining sky, and it called the hundred-year rain back into the clouds, and the flood ended, and the river was a river again."
+      ],
+      "sha256": "a15f9e527692422873fe314ca9e0cce71a06fc8b278a331f7ce4bcdf53705cad"
+    },
+    {
+      "designation": "N-IIIγ-308",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-308_Soaking_Shadow_솟구친_그림자.md",
+      "signals": 3,
+      "evidence": [
+        "The Alpha Tree vault was a repository — a sealed chamber beneath the tree, used by the Keepers and the officials for storage. But storage, in Somnarak, takes many forms, and the vault, over the years, became a dumping ground for the city's suppressed grievances — the angers too dangerous to express, the resentments too destabilizing to carry openly, the furies that the Veil mutes but cannot eliminate. The citizens, and the officials, brought their anger to the vault the way mourners bring tears to the Gardens: to deposit it, to set it down, to hide the fury in a place where it would not, they hoped, cause damage.",
+        "> *“Decades of hidden grievances, pressurized, became a shadow that holds what others set down.”* — Warden, Alpha Tree",
+        "Nobody at this Company may refuse assigned work on grounds of conscience. The work is done as ordered; an objection may be written afterwards and it changes nothing about the order. The rule is not cruelty and the file sets out why it exists. When conscience was a ground for refusal, foremen learned to assign the foul work to the men they considered to have none, and the exemption became a map of who was favoured. Refusals were granted to the well-liked and treated as insubordination in everybody else, and the discipline figures from those decades are in the second volume and are indefensible. The present rule applies to every person equally, which is the whole of its merit and is not nothing."
+      ],
+      "sha256": "4cc166deb70a31997676de2b009798f6816f7977b991d2d9ecd6e2fc7c628025"
+    },
+    {
+      "designation": "N-IIβ-689",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽.md",
+      "signals": 3,
+      "evidence": [
+        "But the masks accumulated. Over years, over decades, the artisan had made and worn so many faces that the original — the face beneath the masks, the unperformed self, the person he was when no room demanded a specific presentation — had been covered so thoroughly it could no longer be found. The masks, layered, had become the face. And when the artisan, one evening, tried to remove them all — to find, at last, the person beneath — there was nothing beneath. The masks had consumed the original. The face was gone. Only the masks remained, and the masks, without a face to attach to, became a Wall.",
+        "Some sorrows are about hiding. Face Beneath Masks is about the hiding that becomes the self — the masks that became the face, the performances that consumed the performer, the artisan who made a face for every occasion and found, when the occasions ended, that no face remained.",
+        "> *“The masks, layered, became the wall. The wall spreads because the emptiness is contagious.”* — Containment Lead, R.D."
+      ],
+      "sha256": "04fa94c62ae38044876c7019a8bd29a967a3091b15c66b9449f2bc61d0ddcacb"
+    }
+  ],
+  "rule": "R33 complete original/exactsources/history and final logical reread after five actual checks; unresolved whole logic held.",
+  "authorization": "Owner p authorizes152only. Minimum5; cumulative3Nochange triggers5→7→10. No153 or merge."
+}

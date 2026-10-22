@@ -1,0 +1,170 @@
+{
+  "designation": "N-IIIγ-589",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-589_Nemo_돌아온_영혼.md",
+  "words": 6928,
+  "sha256": "782acf4a157ae1f45673691ffc4f5a4902bd2144d10405d8426d9cf1cef4855c",
+  "unit": 2,
+  "name": "Nemo",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_02_NEMO.md",
+  "before_words": 6928,
+  "after_words": 7249,
+  "base": "a53944d1dccb7dcbdf4eff432b4d360e04d9fd3d",
+  "final_sha256": "545c44aef43cedc0fbd50f14eae4be683774ba53b59e7278fc7e8400b47e8a93",
+  "summary": "Ten supported repairs separate the stationary figure from its tears and spreading corruption, preserve the two unmapped Sorrow Gate returns, replace generic silent/time-distortion/moving-force claims with recorded observations, distinguish all three equipment costs, and name the Charm bonus as +1 Clarity from exact A/D.",
+  "commentary": "The tear-name list is convincing because the watch can preserve a person on paper and still fail to answer them. I find the different face descriptions more effective than a single official portrait: recognition cannot be reduced to agreement about a face. The Answered Return remains disturbing because proper procedure and a genuine welcome do not guarantee safety.",
+  "holds": [
+    "Exact Side A still orders spoken tear-names and pursuit through walls; primary explicitly retracts name-speaking and records stationary non-breaching corruption. It also orders sealing where primary records sealing prolonging an event. These are essential incompatible actions/permissions, not incidental unknown anatomy.",
+    "Combat Reappearance/Cold Hand/Full Revenant/Army of Returns describe walking dead, contact, repeated deaths and multiple resurrected souls. No current or conditional state sequence supports them against never-approaches/never-touches/no-injury and the living-returner origin. Speed1.95, Vessel-Destructible and dust profile remain unaltered, not explanations.",
+    "Continuous presence,75%/name-back combat activation,65% Ultimate and40% event-start need their actual event scopes. Operational Notes says crew naming preceded every excursion and nothing else, while the Containment Notice records speaking a tear-name as a reliable cause; both observations remain.",
+    "Summary identification now preserves the two Sorrow Gate exceptions without amending the map. Older only-mapped language remains in Observation/Identification prose and the Warden map account; the file gives no reason for excluding those two returns from its otherwise complete map. A mapped ordinary form versus a rare recorded exception need not be an invented new transformation.",
+    "Primary Blade lights on drawing; exact B lights only against living tissue, later only for a patient-addressed accepted name. Healing a derived item need not share donor anatomy, but the same blade activation conditions need supported scope. Linked repeated-name extraction cannot be generalized into permission to recite source tear-names.",
+    "Primary Charm senses whether a person is registered, while exact D explicitly cannot certify historical record and only attributes a carried name to a return. Tail5%/+1Clarity/β agree; Registry genericAccessory does not change the exact slot. Five-given-after-unspoken-cycle account stays distinct from A/B/D spoken-name origins.",
+    "Side A full resonance includes departure through a threshold and doorway multiplication; B second-patient/name-loss, C false-familiarity face takeover and D register overwriting are documented equipment/set conditions, not permission to rewrite the source non-breach account. Patient/returner names and source tear-names must retain their subjects and contexts.",
+    "Tale149 retains I/α/Low/OldLament and family-homecoming detail while current primaryIII/γ/AlphaTree frames its surviving evidence as family-free enquiry correspondence. Earlier living human versus current translucent figure can be origin succession; the conflicting current classification and evidence claims still need provenance, not a fabricated timeline.",
+    "Story Entry2 Year4238 says311presentations/noneanswered, versus the Year4237 Answered Return operation and Registrum mandatory-current-desk rule. No explicit suspension/reversion dates explain the apparently ongoing nil tally. Preserve the data rather than adjusting the quarters.",
+    "After-departure door-sealing language remains against the closing no-seal containment description; generic severe bodily/identity harms and blanket private-memory/stamina costs exceed the specific no-injury and separate piece-cost records. No generic paragraph is treated as proof of an unrecorded source form or mechanism.",
+    "Trivia says no tear-name was ever spoken back and also records a partial attempt. The explicit partial-attempt history remains visible; no second invented experiment or silent removal of the contradiction."
+  ],
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-A__SIDE_CODEX_Nemo.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-B__MAW-W_Nemos_Blade.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-C__MAW-S_Nemos_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-D__MAW-G_Nemos_Charm.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/README.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-A__SIDE_CODEX_Nemo.md": "f340493105520dd0ff91ad69b90cdee3f140112623a6171c0e5975517c7da863",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-B__MAW-W_Nemos_Blade.md": "c78e184c601ea568e088ce6169333b203efab4d852da6e5dd259e53177f1fd6b",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-C__MAW-S_Nemos_Shroud.md": "3c8d59467bef12656556bcbbb264470e2679fca4bcbeef50f9b7b290bcb11ec0",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-D__MAW-G_Nemos_Charm.md": "7d6fdb568788fd7ff0e05f761a7c6555340b01ff688b1e203cbe2ecb896a81b2",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/README.md": "206283b51a719b0a6a2a2f37a9b96c7c194a7c8215146a46c72326000dc11c37",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "repairs": [
+    {
+      "kind": "short",
+      "old": "| **Movement** | Stationary — a body or drop of liquid. |",
+      "new": "| **Movement** | Stationary figure at a return-site; disappearance and reappearance are logged as returns, not travel. During corruption the zone widens while the figure stays where it returned. |",
+      "evidence": "Identification Profile, Containment Event Movement and Warden It Cannot Stay Gone describe the figure rather than misclassifying the tear as the body."
+    },
+    {
+      "kind": "short",
+      "old": "| **Identification** | Subject-Lament at a mapped site. If the figure is anywhere else, it is not this file. |",
+      "new": "| **Identification** | Subject-Lament, ordinarily at a mapped loss-site. Preserve the two recorded Sorrow Gate threshold returns as exceptions: the interaction record says that threshold is not mapped and that the map was not amended. An unmapped return alone does not rule out Nemo. |",
+      "evidence": "Entity Interaction Record Sorrow Gate explicitly records two exceptions; do not invent a new mapped site or deny the observed returns."
+    },
+    {
+      "kind": "short",
+      "old": "**At first contact:** The Subject-Lament does not announce itself with sound or movement. It arrives as a sensation — Lament settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A translucent figure that returns whenever its tears fall. Each tear carries a name.",
+      "new": "**At first contact:** At a return, record the translucent figure and the names legible in its falling tears, not a face agreed in advance. Keep your own face description beside the others even when they differ. The file also records audible weeping through the corridor during corruption; the ordinary return is not evidence that the entity can never be heard. Read and write the tear-names without speaking them back.",
+      "evidence": "Appearance protocol, Battle Tension/Clash, Event Effect and name-handling restrictions support visible and audible markers without treating the figure as silent."
+    },
+    {
+      "kind": "short",
+      "old": "**With continued exposure:** Time stretches in the containment zone. The Subject-Lament becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.",
+      "new": "**With continued exposure:** The watch measures the interval to the next return and the names written during the cycle; it has found no period in those intervals. The name count runs with the gate desk tally, not with time apparently slowing at the Tree. Keep site, interval, count and each observer's face description separate. A longer watch has not changed the count, and the correspondence between two ledgers is not proof of its cause.",
+      "evidence": "Observation Log/Progression, Tale and Warden Record tested interval/site/staffing; no measured temporal distortion supports the old generic claim."
+    },
+    {
+      "kind": "short",
+      "old": "**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Lament becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Lament was waiting; now it moves.",
+      "new": "**When the entity activates:** The recorded corruption widens through the zone while the figure stays where it returned; audible weeping carries the names into the corridor. Clear the corridor and send one worker to acknowledge that they can hear it, without reciting the names. Do not replace this speech response with sealing alone: the second event lasted longer when sealed. The moving revenant attacks elsewhere in the file remain unreconciled with this stationary account.",
+      "evidence": "Containment Event Behavior and Escalation Notes explicitly contradict moving activation and distinguish acknowledgment from reciting names."
+    },
+    {
+      "kind": "careful",
+      "old": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, the day's reading, and a baseline entered on the issue sheet and left in another worker's hands. The cost on this set is that nothing the bearer feels while the piece is drawn is their own, which is the very reason the baseline cannot sit with the bearer. |\n| **During use** | Charging shows in the bearer before anything else: nothing they feel while the piece is drawn belongs to them. The second worker logs the hour, and the bearer's own account is taken afterwards and kept apart from it. |\n| **At limit** | The toll runs without pause: small pleasures stop registering, and wearers tend to notice it first in food. Here the observer's call overrides the bearer's, and the observer's is the one entered. |\n| **After use** | Return the piece, then put the question to a colleague rather than to the bearer: whether the small pleasures have come back, food included. |",
+      "new": "| Stage | Required record |\n|---|---|\n| **Before use** | Name the bearer and the piece. The medic's Blade needs an emotional baseline held by another worker; the long-watch Shroud needs a record of small pleasures still felt; the granted Charm needs a sleep record. None substitutes for the others. |\n| **During use** | Track borrowed feeling while the Blade is drawn and dulling pleasure while the Shroud is worn. For the Charm, retain the sleep observation rather than requiring the bearer to notice tears while awake. Record who observed the change, separately from what the bearer reports. |\n| **At limit** | Name the piece whose cost has appeared. The Blade's missing personal feeling and the Shroud's loss of pleasure are not a single shared symptom; the Charm's waking ignorance of sleep-weeping requires the outside observer. Do not search a register to test its reported sensing ability. |\n| **After use** | The Blade releases feeling when put down; keep the observer present for that return. Check whether the Shroud wearer's small pleasures register again and retain the Charm's sleep record. The Charm is given, not issued: copying a Weapon hand-in rule does not establish its removal or recovery procedure. |",
+      "evidence": "The old table applied Blade emotional displacement and Suit pleasure loss to the entire set. Local individual costs/Use Notes support distinct observation; no dream-recovery or Charm-removal mechanism is invented."
+    },
+    {
+      "kind": "careful",
+      "old": "**Appearance protocol:** Log the site, the interval since the last return, the number of names read, and your own description of the face. The descriptions are retained precisely because they never agree.",
+      "new": "**Appearance protocol:** Log the site, the interval since the last return, the number of names read, and your own description of the face. The descriptions are retained precisely because they never agree.\n\n**Figure, tear and return:** The half-flesh, half-light figure is the Subject; a named tear is not a second classification for its body. Permanent presence with intermittent visibility is the watch's account, not a claim that a visible person walks between the sites. The visible tears carry names, while the face remains observer-dependent. The living exile in the origin is not a documented resurrected corpse or an army of new bodies. Likewise, the Blade, Shroud and Charm are separately materialized pieces with their own bearers, not parts of a figure physically removed from the Tree. The combat table's resurrection and contact claims still need their own supported relationship to this record.",
+      "evidence": "Whole primary and Side A set emergence support subject/tear/visibility/derived-item separation; earlier human origin is not proof of repeated death or an invented transformation."
+    },
+    {
+      "kind": "careful",
+      "old": "**Effect:** +1 to the bearer's work on this holding, and the Armoury's sheets record no measured difference on any other ground.",
+      "new": "**Effect:** +1 Clarity while working Nemo; Side A and the exact Charm record name this bonus. The Armoury's sheets record no measured difference on other ground.",
+      "evidence": "Exact Side A set card and SE589D Bonus both specify Clarity. Preserve +1, conditional source-work scope and all other Stigma claims; this is external-source-supported authored clarification, not batch-short."
+    },
+    {
+      "kind": "short",
+      "old": "| **Position / movement** | Stationary — a body or drop of liquid. Recorded at every Nemo cycle against the previous reading. |",
+      "new": "| **Position / movement** | The visible figure remains at its return-site; the watch logs disappearance and reappearance rather than a route travelled between them. Corruption spreads through the surrounding zone, not by pursuit. Compare the site and interval with the previous return. |",
+      "evidence": "Identification Profile and Containment Event Movement also correct the duplicate detail-table liquid-body summary."
+    },
+    {
+      "kind": "short",
+      "old": "| **Distinctive markers** | Tears with names legible in them, and the fact that it is standing at a mapped loss-site and nowhere else. |",
+      "new": "| **Distinctive markers** | Legible names in the tears and a translucent figure at an ordinarily mapped loss-site. The two Sorrow Gate threshold returns are preserved in the interaction record without adding that threshold to the map; keep the exception beside the usual marker. |",
+      "evidence": "Sorrow Gate interaction explicitly defeats the duplicate universal nowhere-else claim; preserve the unamended map and rare returns together."
+    }
+  ],
+  "split": [
+    7,
+    3
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-N-IIIγ-589_Nemo_돌아온_영혼.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.022  clean   138 grams  Operational Parameters\n 0.021  clean   533 grams  Combat Record\n 0.004  clean   702 grams  감각 묘사 (Flavor Text)\n 0.002  clean   415 grams  M.A.W. Equipment\n 0.000  clean   780 grams  Warden Record\n 0.000  clean   372 grams  기록 (Registrum)\n 0.000  clean   354 grams  이야기 (Narratio)\n 0.000  clean   341 grams  Appearance\n 0.000  clean   303 grams  이야기 보고 (Story Log)\n 0.000  clean   238 grams  관찰 기록 (Observation Log)\n 0.000  clean   176 grams  Trivia\n 0.000  clean   168 grams  최종 관찰 (Final Observation)\n 0.000  clean   132 grams  Origin\n 0.000  clean   131 grams  Containment Event Behavior\n 0.000  clean   120 grams  증언 (Testimonium)\n 0.000  clean    97 grams  Behavior\n 0.000  clean    37 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   3  | **Han-Energy yield** | 16–22 per successful work cycle, taken off the names read and written into the watch book, never off the \n   84   4  | { *The Full Revenant* [**Attack**] } | \"The soul fully materializes — every death, every return, every refusal to stay gone — co\n   85   7  | { *The Army of Returns* [**Ultimate**] } | \"Every soul that was ever laid to rest returns — and the weight of every death crushe\n  199   1  **Appearance:** a wrapping shroud of Lament Han-silk with a faint cold sheen across it, that goes cold the moment it is worn close\n  307   1  **After departure:** The door seals and the pressure comes down, but the watch leaves something behind: Lament in the suit fibres,\n  320   2  | Nemo's neighbour | How the pairing has run | What the watch noted | What the entry carries |\nGENERIC 0.004  (18 shared shingles)  SE-N-IIIγ-589_Nemo_돌아온_영혼.md\n",
+      "stderr": ""
+    }
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "history": "Batch137 unit1 9c9308aaa52ade8e6a19eceb36b90d9947fa3b67 already credited full-source review and exactSE589B Weapon. Baseline carries those credits; absence from the newer equipment_reviews array is not evidence of uncredited work. EarlierB33/24da91d andB50/6070818 prose cleanup is not a new body review. No duplicate, retroactive or artwork credit.",
+  "reasoning": "Subject/Subject-Lament, translucent half-flesh/half-light figure and named falling tears fit the grief of an unacknowledged living return. The observer-dependent face is a retained finding, not a required portrait correction. Stationary presence during an outward corruption event can coexist with disappearance/reappearance at different recorded sites; no pursuit path or teleport mechanism is invented. Ordinary mapped returns and two explicit Sorrow Gate exceptions are distinct observations, not automatic body contradictions. A separately stabilized healing Blade, wearable Shroud and bestowed Charm need not resemble the donor body. Complete action-chain review still finds essential same-source Work and combat conflicts, particularly name-speaking, pursuit, touch and return/death claims. R19 Neutral retained: Prince affects Nemo count, Name comparison informational, Gate unresponsive; none establishes assistance/suppression. HELD; +0 independent SE completion.",
+  "followup_scope": "During first half of post-check rereading, two duplicate summary rows still contradicted the repaired movement/identification guidance. Both additional batch-short corrections declared before editing; full validation and final rereading restarted.",
+  "reading": {
+    "before_lines": 424,
+    "before_bytes": 41115,
+    "final_lines": 426,
+    "final_bytes": 43239,
+    "final_read": "Complete lines1–215 then216–426 after all five re-run validators; no subsequent primary edits."
+  },
+  "link": "[[SE-N-IIIγ-589_Nemo_돌아온_영혼](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-589_Nemo_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%98%81%ED%98%BC.md \"SE-N-IIIγ-589_Nemo_돌아온_영혼.md\")]",
+  "table_link": "[Nemo](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-589_Nemo_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%98%81%ED%98%BC.md \"SE-N-IIIγ-589_Nemo_돌아온_영혼.md\")",
+  "commit": "ec7b7f0319c391dd19243b72734f3d613f5457ca",
+  "push": "VERIFIED"
+}

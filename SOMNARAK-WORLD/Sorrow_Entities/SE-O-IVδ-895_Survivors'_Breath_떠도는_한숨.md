@@ -106,7 +106,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Spirit
 - **Primary marker:** An ethereal breath moving through the Old Lament as a voice without a body. It appears as a pale trail in cold air.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Track the bodyless Subject by its cold-air trail, temperature gradient, direction of drift and rooms crossed; it has no bodily posture to record.
 - **Element signature:** Void
 - **Registered location:** Zone B, Old Lament
 
@@ -121,6 +121,14 @@
 | **Identification** | Check the designation against the sighting before contact: `O-IVδ-895` and the Subject-Spirit manifestation, against a trail that only appears in cold air and a sound closer to relief than to grief. The Old Lament holds several Void presences described as breath, sighing or cold air, and colour, thickness and direction of drift do not separate them; the temperature gradient and the designation do. |
 
 **Appearance protocol:** There is no form to describe — the entity is a voice with no body, visible only as a trail hanging where the air is coldest. The protocol is therefore environmental. Record the temperature gradient along the trail, the rooms it has crossed and the order it crossed them in, the time taken between them, and whether the trail persisted after the sound stopped. Log the sound itself with particular care and resist the obvious word: the record states that it is closer to relief than to sadness, and observers who write that it sounded mournful have substituted the expected reading for the one in front of them. Note also what it did not enter. Its route through a building is as informative as its presence in any part of it.
+
+### The sigh, its trail and the people it crosses
+
+The Subject-Spirit is a wandering presence, not the physical population named in the Tale and not an undiscovered speaker behind the voice. Its collective origin supports the detached exhalation; it does not supply a face, lungs or a single deceased owner. The pale trail is conditional visibility in cold air. A warm-season gap in sightings therefore cannot establish departure or dormancy; the Apex Record explicitly separates the seasonal observation curve from movement.
+
+The ordinary drift crosses occupied rooms without making occupants carriers. Keep the breath's route, the personnel's own breathing and their later exhaustion as separate records, as the Observation Log does. The thickened, stopped trail and loss of corridor definition at activation are environmental and spatial reports, not evidence that flesh or a solid vessel has appeared. The conflict between hunting language and the untargeted passage account remains unresolved; neither gives an observer a humanoid pursuit form to draw.
+
+Extraction yields equipment, not a recovered source body. The bone awl, draped Veil and warm head-band token belong to bearers. A veil over someone's head does not make the Sigh a veiled person, and the equipment's first-person corrosion warning does not establish a witnessed source transformation. The source trail leaves no collectable deposit; its cold signature and the extracted pieces' materials must not be collapsed into one physical substance.
 
 ## Origin
 - **Formation:** The Sigh formed from exhaustion that could not become rest.

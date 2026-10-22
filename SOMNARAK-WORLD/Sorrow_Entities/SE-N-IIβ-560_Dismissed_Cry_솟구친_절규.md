@@ -230,6 +230,8 @@ The interior contains the preserved breath and final unuttered declarations of c
 
 **Cost:** The wielder hears their own anger as an external voice.
 
+**Protest and retaliation:** The individual Weapon account distinguishes receiving a protest from finding it true. Its warning signs are a bearer treating every objection as suppression and an external copy of their voice issuing attack instructions. Log those instructions as the bearer’s cost, not as words recovered from the original witness. The item’s blade-specific grounding procedure is not an urn handling instruction. Preserve the words actually received without adding the injustice the primary says cannot be recovered; making the message arrive does not confer a verdict on it.
+
 ### M.A.W. Suit — The Scream Plate
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
@@ -248,6 +250,8 @@ The interior contains the preserved breath and final unuttered declarations of c
 
 **Cost:** Reflexes dull and the wearer becomes slow to answer, which in a chamber that punishes raised voices is closer to an advantage than the grading suggests.
 
+**Plate cooling:** The Suit record calls for each plate to cool around an empty center without speech. Test hinge delays against neutral movement, not an argument staged to provoke them. Delays occurring only while another person speaks and a judgment that anger is irrational before its object is recorded are different warning signs. The item’s shutdown claim that the message has arrived must be true; it is not a phrase to repeat until the clasp opens. A silent wearer preparing a rebuttal has not completed reception merely by remaining quiet.
+
 ### M.A.W. Stigma — The Scream Charm
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
@@ -261,6 +265,8 @@ The interior contains the preserved breath and final unuttered declarations of c
 **Ability:** The charm makes the wearer audible. Objections raised while wearing it are heard out rather than talked over, once, by whoever is in the room — which is precisely what the original scream never got.
 
 **Cost:** The bearer's temper shortens.
+
+**Charm wording:** After use, the Stigma’s care record requires the received statement exactly on one sheet and the bearer’s reaction on another, kept apart until it cools. Irritation at requests for exact wording is an early sign; omitted phrases returning during sleep are a later one. Do not smooth a forceful verb into a harmless replacement or label the bearer’s own reaction as the speaker’s testimony. The item warns that forced removal before receipt transfers the stored protest to the remover. Neither its pause nor the primary’s audibility effect licenses speaking over the complainant.
 
 *The charm is not manufactured. Dismissed Cry gives one to a worker who wrote the grievance down with a name on it, and has given none to a worker who closed the session by logging a disturbance.*
 

@@ -1,0 +1,61 @@
+{
+  "batch": 161,
+  "base": "29a11faf76930f43a2869d68cc21a126ecd6bee8",
+  "pending": 220,
+  "candidates": 67,
+  "pattern": "changes? shape|shifts? between.*forms|became (?:a|an|the) ",
+  "selection": "Pending only; exclude exactly level-two M.A.W. Equipment, retaining later sections. Descending matching-line count then full designation; reading priority, not defects.",
+  "queue": [
+    {
+      "designation": "O-IIβ-467",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-467_Memory_Chain_솟구친_사슬.md",
+      "signals": 2,
+      "evidence": [
+        "They traded memories. To stay connected across the separation, the members shared — through messages, through intermediaries, through whatever channels the city allowed — the memories they held of each other. One member sent the memory of a shared meal. Another sent the memory of a conversation. The memories, traded across the separation, became the group's new bond — not physical proximity but shared remembrance, the connection sustained not by presence but by the faithful exchange of recollections that proved the group had existed and that the members, however scattered, still held each other in mind.",
+        "The memories gathered. The traded recollections, passed back and forth across the separation, accumulated — each memory a link, each link connecting one member to another through the shared act of remembering. And the accumulated links, dense enough to crystallize, became a chain. Memory Chain is Subject-Spirit, Lament-element: the figure of connections preserved through memory after physical bonds were lost — the group's relationship, sustained by the trading of recollections, crystallized into a speaking chain that holds every member's memories and that speaks, for all of them, the connection the exile tried to sever."
+      ],
+      "sha256": "5bf94520444a919a1afe08ecee399927c0f3674c1e60873e4ebaf5e1a3bef25d"
+    },
+    {
+      "designation": "O-IVδ-762",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-762_Grasp_타오르는_다리.md",
+      "signals": 2,
+      "evidence": [
+        "- **The Event:** A Han-storm consumed a bridge; a rescuer continued calling across the gap until the calls became a burning figure.",
+        "The storm consumed the bridge while the rescuer was still calling across the gap, and the calls, unanswered, kindled, and the kindled calls became a figure of flame that still reaches for hands that are gone."
+      ],
+      "sha256": "895bcb7e104ac5ac28476ff97127590c34ba8cdbd1d92bd55ccc945c6d67853b"
+    },
+    {
+      "designation": "O-Iα-631",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-631_Errant_사라진_뿌리.md",
+      "signals": 2,
+      "evidence": [
+        "- **The Event:** A family was displaced before their new home could become theirs; the unfinished belonging became a wandering root.",
+        "The family was displaced before their new home could become theirs, and the unfinished belonging, denied its rooting, pulled free of the earth and became a wandering root that searches for any ground that will hold it."
+      ],
+      "sha256": "c8c4d61ab81bf66d04793cdbd0a517b9f6cf86e8028fef2d9da4e6e7e5f4394e"
+    },
+    {
+      "designation": "O-Iα-973",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-973_Yggdrasil_Wound_찢어진_나무.md",
+      "signals": 2,
+      "evidence": [
+        "The tunnel worker lost everyone in the collapse, and the single memory he preserved — the one fragment his mind saved from the destruction — tore his identity in half, and the tearing, given shape, became a tree of absence that grows from the wound.",
+        "One memory survived. A single fragment — one face, one name, one moment — kept by chance, or by the mind's last act of triage, the one piece of the past that was not taken. Alone in the gap, that fragment became the wound. Subject-Mind, Void-element: a mind divided by loss, the self split around the recollection it kept, a single piece so large against the surrounding emptiness that it tore the person in two."
+      ],
+      "sha256": "cd1b751064e4a74d47833d66dbcc42c2198945c3cf8a8a46e9e7c1f2b6913a14"
+    },
+    {
+      "designation": "C-IIIβ-275",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-275_Crucible_분노의_용광로.md",
+      "signals": 1,
+      "evidence": [
+        "| 30 Seconds | The conduit widens, and what comes up it is four generations of the same arrangement — workers shaping the city's unsaid fury into stock, until the hearth stopped being a tool and became a holding. | The aura reaches Range Band 2; units inside the working volume keep their elemental defence while the channeler holds focus, and composure is what pays for it. |"
+      ],
+      "sha256": "4bca8963763dc22f8dcb3fbe965950a98335a0d87cf111c83d3f3223ae3bf425"
+    }
+  ],
+  "authorization": "Owner p after Batch160 close authorizes Batch161 only. Maintain WIP and CHANGELOG per completed unit and closure. Owner also requires the usual full chatroom reports: per-dossier changes, Commentary, holds, push and three independent counters with remaining totals; files do not replace chat reporting.",
+  "repair_direction": "Improve complete documents where supported; do not invent a resolution, force changes, duplicate source coverage or certify held whole designs."
+}

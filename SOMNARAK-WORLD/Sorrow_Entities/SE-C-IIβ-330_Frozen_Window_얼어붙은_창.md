@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A humanoid figure of black ice veined with burning edges — frozen flesh laced with live heat, never still, circling the Commons without rest. Where it steps, frost and scorch mark the ground together. Lead-cold and fever-hot at once, it smells of wet stone and char. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — walks upright around the Commons without recorded rest; escape is relocation on foot, not pursuit of a selected person. |
 | **Location** | Zone D, Mantle Commons |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -123,6 +123,14 @@
 
 **Appearance protocol:** Record circuit position, direction, pace, surface scene by type from the printed list, and the footprint pair. Scene content is never transcribed; the type is. Do not write *strange* or *anomalous*; it is black, burning-edged, cold, hot and moving, and those are the fields.
 
+### The waiting and the walking
+
+The present identification is the moving black-ice figure, with heat at its outline and departures in its surface. Subject-Grudge describes the refusal of the final view; Weight is the pressure it sheds. The earlier household supplies the waiting and the unanswered departure, not a requirement that the present Subject remain a piece of architecture. Side Codex A explicitly describes waiting becoming motion without arrival, and the current Record distinguishes the walking patrol from earlier descriptions of a watching window.
+
+The scene's apparent doorway is not an opening through the figure. Viderehan can show the household's earlier angle while other observations follow the worker's unfinished farewell; scene movement and circuit movement are separately recorded. The Weapon's mullion and the Suit's chest pane belong to equipment made from endpoint frost, not proof of a frame left on the current body's surface.
+
+This does not settle every physical claim. The Tale still describes glass, frame and woman becoming a figure that watches one corner, while the operational account expressly denies any pane or frame. Combat's opening, shattering window is not established as a second body. Likewise the primary's never-resting rule and stillness escalation remain in tension with the Side resonance's single stop and the Stigma bestowal's paused, stable figure; no safe stopping exception or newly timed transformation is inferred. Confining its circuit in the breach response also remains unresolved against that same stillness hazard.
+
 ## Origin
 - **Formation:** The entity formed from the refusal to accept a final view.
 - **The Sorrow:** The weight of watching someone leave and believing movement might reverse the loss.
@@ -148,7 +156,7 @@ Frozen Window is an Echo (II) Subject with Subject-Grudge manifestation and Weig
 **Reading the response:** Read it in the pace and the surface. A falling gauge presents as the circuit slowing and the scenes going quiet rather than clearing; a rising one presents as scene changes outrunning the pace. The worker-side indicator is simpler: anybody who has stopped walking has already been there too long.
 ## Breach Behavior
 
-> *"Frozen Window has broken free. Hunts personnel indiscriminately."*
+> *"Frozen Window has left the Commons. Keep its route clear; personnel are exposed where it arrives, not selected for pursuit."*
 
 | Field | Detail |
 |---|---|

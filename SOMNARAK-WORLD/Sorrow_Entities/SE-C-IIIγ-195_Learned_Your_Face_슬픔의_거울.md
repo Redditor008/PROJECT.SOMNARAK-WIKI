@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
+| **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | Viderehan and Ferrehan only; it is an Object/Place and an O-Relic. Ferrehan lowers the gauge, Viderehan holds it level, and every approach is logged against the learned-face count because the count is what the approach costs. |
@@ -122,7 +122,7 @@
 | **Distinctive markers** | A tall mirror that returns a grief instead of a face, in a bay whose floor is marked for people to stand with their backs to it. |
 | **Identification** | Confirm before Work or contact: designation C-IIIγ-195, Void expression, Object-Void manifestation, O-Relic tool class, the Alpha Tree bay in SECTOR-A-01. The Alpha Tree holds three mirrors and they are confused in correspondence about twice a year. |
 
-**Appearance protocol:** Take the recognition range first, from the marks, because the range is the only figure that moves. Then the surface condition, the learned-face count, the channeller's time at the glass to the second, and the reflection as the channeller reports it — in their words, if they offer them, and not at all if they do not. No worker is asked what they saw. There is no field for it and there will not be one.
+**Appearance protocol:** Take the recognition range first, from the marks, then the surface condition, the learned-face count and the channeller's time at the glass to the second. Keep the contents of the reflection out of the report: the post-contact review does not record them, and the debrief form has no field for them. No worker is asked what they saw.
 
 ## Origin
 - **Formation:** The Mirror formed from sorrow that people concealed from one another.
@@ -213,6 +213,8 @@ Escalation here is range and clarity, not force. Record the trigger, the first c
 
 **Appearance:** a lens-ground disc cut from the mirror's own crystal — pale-black at the core, near-translucent at the rim, and beading Han along it when it is pointed at somebody who is keeping something back.
 
+Nothing about it invites a second glance: its face holds the room dimly the way a mirror does at dusk, and it clouds to full opacity the moment somebody tries to use it to pry. It binds only with a mirror witness, refuses any use aimed at exposing another person's sorrow, and the companion shutters the reflecting face to end every use.
+
 **Damage:** Void 7–12
 **Speed:** 3 (Fast)
 **Range:** 3 (Medium)
@@ -234,6 +236,8 @@ Escalation here is range and clarity, not force. Record the trigger, the first c
 
 **Appearance:** a hooded veil spun from Void Han-gossamer, colourless enough to read as a shadow, cold off the Alpha Tree bay and thick at the hood so that the wearer's own voice comes back muffled.
 
+Worn, it reads as a thin silver-grey film over ordinary clothing, and from certain angles the fabric returns a faint image of whoever stands beside the wearer — the companion thread made visible. It binds only to a named witness who can stop the exposure, and the fitting rule is absolute: the collar fades when the bearer refuses companionship, and a threadless veil is sealed.
+
 **Resistances:**
 - Lament: 1.2 (Weak)
 - Grudge: 0.8 (Warded)
@@ -252,6 +256,8 @@ Escalation here is range and clarity, not force. Record the trigger, the first c
 
 **Appearance:** a lens-pendant cut from the same pale-black crystal, colourless where it is thin, warm against the chest and warmer still against somebody who is not saying what they are carrying.
 
+Ground fine enough that looking through it feels like looking slightly deeper than the surface of things, it is bestowed only after a viewer shares one private grief with a companion voluntarily, and it binds under an empathy witness. Pointed at a person without consent it simply warms and shows nothing, and the witness covers it after every use.
+
 **Slot:** Head
 **Acquisition Probability:** 4%
 **Effect:** +2 stat bonus while working Learned Your Face in the Alpha Tree bay.
@@ -266,14 +272,18 @@ Escalation here is range and clarity, not force. Record the trigger, the first c
 
 These pieces are Learned Your Face in miniature, and the miniature carries the same condition: the benefit is printed above, the subtraction is permanent and unremarkable, and the ledger enters it against the wielder rather than against the piece. The principle is the bay's own — the reading is paid for by whoever asks for it.
 
+Each piece takes its own price. The Lens takes a small nameless memory with every drawing, and a companion debrief is mandatory after it; the Veil takes presence, with the wearer feeling slightly missing to themself for as long as it is worn; and the Stigma takes the reading itself, because the bearer experiences the observed sorrow as personal, intensely enough that a separate debrief is standard procedure.
+
+The set works only with company, and its rule is that seeing a sorrow's shape is not permission to declare it solved or to force sharing. The Lens separates a target from an identity overload caused by reflected grief and cannot reveal a secret or prove that a grief belongs to anyone; the correct outcome of a reading is an offered support option and never a declaration of understanding. Three closures belong on the record with the issue: the companion shutters the reflecting face at the end of every use, the witness unfastens the veil at the first loss-of-self sign rather than the wearer, and a pendant that has grown heavy from too many observed sorrows unreturned is rested before it is issued again — breaking one spreads the last observed grief into its bearer's own senses.
+
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline of what the wielder can still name unprompted; the cost on file for this set is the small, nameless kind, and it is paid from the first swing. |
+| **Before use** | Wielder, piece, and a dated baseline of what the wielder can still name unprompted; the cost on file for this set is the small, nameless kind, and it is paid from the first swing. A mirror witness is named before anything is drawn, and the consent, the purpose and the empathy debrief are recorded together, because this set binds only under an empathy witness. |
 | **During use** | The first sign is a gap where a name or a face used to sit; the second worker enters the hour it appears rather than the hour it is reported, and never asks the wielder what went. |
 | **At limit** | The absence arrives and does not lift; on a Learned Your Face piece the rotation ends at the bay door, whatever the wielder says about being able to continue. |
-| **After use** | Return the piece and open the sealed baseline from before the rotation: if the absence outlasted the wear, the answer goes into the ledger whether or not the wielder agrees, and the piece stays in the armoury until the count is reconciled. |
+| **After use** | Return the piece and open the sealed baseline from before the rotation: if the absence outlasted the wear, the answer goes into the ledger whether or not the wielder agrees, and the piece stays in the armoury until the count is reconciled. The companion shutters the reflecting face to close the use, and the witness unfastens the veil at the first loss-of-self sign rather than leaving it to the wearer. |
 
 **Stat interpretation:** The grade describes extraction stability and says nothing about the toll: on this set the cost is permanent and unremarkable at once, and a channeller can carry a γ piece for years without being able to name the week it began subtracting. The ledger's own observation is that the pieces do not warn; they take, and they take the unremarkable things first.
 ## 관찰 기록 (Observation Log)
@@ -292,7 +302,7 @@ These pieces are Learned Your Face in miniature, and the miniature carries the s
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | Confirm the frame, the bay marks and the designation before anything else; the recognition range comes off the marks first, because the range is the only figure on this holding that moves, and it moves for exactly one reason. |
+| **Initial exposure** | Confirm the frame, the bay marks and the designation before anything else; the recognition range comes off the marks first, and enter it alongside the learned-face count rather than using a new viewer to check identification. |
 | **Sustained observation** | Recognition range from the marks, surface condition, channeller time at the glass, the learned-face count, and the gauge of every adjacent holding, which moves when this one is channelled. |
 | **Activation or escalation** | Activation is a direct gaze and lasts until the viewer looks away. Escalation is the reflection gaining detail the channeller did not supply; at that point the clock-holder calls the close and the call is not discussed in the bay. |
 | **Post-contact review** | Range before and after, the learned-face count with the new name added, the channeller's gauge at 24 hours and 14 days, and the adjacent holdings' stabilisation figures. The content of the reflection is not reviewed and is not recorded. |

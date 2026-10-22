@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A pale, bone-white bird of true flesh and feather — almost translucent, its plumage colourless, its eyes hollow and absorbing. It dives from above and shields what it has chosen to guard, marking the protected. It is bloodless and cold to the touch; near it, the flat smell of ash, and a silence that thickens. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Holds a marked post with shield-like wings. Recorded movement includes walking out to another post in breach and following a sharply withdrawing sheltered worker; this is not a patrol or routine flight circuit. |
 | **Location** | SECTOR-B-01, contained with the Three Birds |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -70,9 +70,9 @@
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan, Viderehan, and Ferrehan; Pugnahan is prohibited despite its recorded response. |
 | **Battlefield** | SECTOR-B-01, contained with the Three Birds |
-| **Resolution Condition** | Thank the Bird and acknowledge that protection has been received |
+| **Resolution Condition** | Thank the Bird and acknowledge that protection has been received; also state that what it guards no longer needs guarding. |
 
 ### Combat Actions
 
@@ -94,7 +94,7 @@
 
 - The failure here is passing. Every strike on file was to somebody who had decided the Bird was decorative, and the station's note is that it is not aggressive — it is on duty.
 - Past about an hour the warden begins guarding something themselves — standing in doorways, holding positions nobody asked them to hold — and the second warden's only task is to notice where their colleague is standing.
-- The set's price is small nameless memories, and specifically the ones about being relieved: wielders lose their recollection of handovers and come to believe their posts were never covered.
+- The local Lens records lost handover memories, the Veil records self-absence and reluctance to leave, and the Wing keeps its bearer beside an endangered ally. Log each piece separately; these are not one universal memory toll.
 - An unworked month widens the grey. The drained stretch around the roost is measured monthly and has grown from four metres to eleven; it has never been recorded contracting.
 
 ## Appearance
@@ -146,7 +146,7 @@
 
 ### Operational Work Notes
 
-All four Work Types are available and Pugnahan is prohibited rather than ineffective — the one strike on record produced no retaliation and cost the facility a Warden. What the station tracks instead is whether the thanking included the second clause, and the gauge has answered to that and to nothing else across 211 cycles.
+All Work responses are recorded, but Pugnahan is prohibited rather than available for routine work or merely ineffective — the one strike on record produced no retaliation and cost the facility a Warden. What the station tracks instead is whether the thanking included the second clause, and the gauge has answered to that and to nothing else across 211 cycles.
 
 **Reading the response:** A falling gauge means somebody told it the duty was over and meant it. It rises when the post behind the doorway is re-established on paper, which has happened twice, both times administratively and neither time deliberately.
 ## Breach Behavior
@@ -229,7 +229,11 @@ All four Work Types are available and Pugnahan is prohibited rather than ineffec
 
 ### M.A.W. Use Notes
 
-Every piece comes off something that stayed at its post after the post was abolished, and the set does the same to its wielder: they cannot leave until relieved, and they lose the memory of ever having been. Three wielders; two were found still at stations that had been stood down, both entirely calm, both certain nobody had come.
+The set concerns protection that can outlive its purpose, but the pieces do not impose one shared handover amnesia. Three wielders are in the local return record; two remained at stood-down stations, calm and certain nobody had come. Keep that observation without treating it as every piece’s only cost.
+
+The exact Lens defines a threshold without judging whether the line is fair. Its cost turns attention away from people outside until the bearer consciously releases the boundary; the evacuation history records civilians excluded as well as pursuers stopped. Retain that limit alongside the local lost-handover cost and door-viewing account. The exact Veil redirects limited Void pressure toward its wearer; leaving abruptly breaks its mark, and a safe handover cools the thread. Its self-absence and attachment are not proof that the protected person still needs shelter.
+
+The exact Wing intercepts one attack for a chosen nearby ally in an encounter, not unlimited harm for everyone. It reads danger broadly and leaves the bearer carrying that ally’s fear, so a tactical retreat order alone may not release it. In the set’s relief resonance, protection passes only when the bearer explicitly accepts another responder’s relief; the original protector’s fear remains a cost, not a reason to refuse handover.
 
 ### Field Use Record
 
@@ -237,10 +241,10 @@ Every piece comes off something that stayed at its post after the post was aboli
 |---|---|
 | **Before use** | Wielder, piece, the grey measurement, and a written handover plan naming who relieves them and at what hour. Given to the relief, not to the wielder. |
 | **During use** | Every doorway the wielder stops in, with the time. The pattern is unmistakable by the third hour. |
-| **At limit** | The wielder will not leave without being physically replaced. Twice; both times the relief had been standing beside them for some minutes. |
+| **At limit** | The local record contains twice-observed refusal to leave even with the relief beside the bearer. Record the piece and the handover actually accepted; the Lens also requires conscious boundary release, while the Wing’s broadly read danger cannot be assumed ended merely because someone has arrived. |
 | **After use** | Ask the wielder who relieved them. Neither of the two could answer, and both accepted the written plan as evidence without recognising the handover. |
 
-**Stat interpretation:** The grade measures extraction stability. This set produces people who cannot be relieved, which is invisible on any rating and obvious on a duty roster; authorise on the handover plan.
+**Stat interpretation:** The grade does not certify extraction stability, a safe release or recovery. This set produces people who cannot be relieved, which is invisible on any rating and obvious on a duty roster; authorise on the handover plan.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced. The holding is thoroughly understood and the grade reflects it: the post is predictable, the responses repeat, the one aggression in the record has a documented cause. What the grade does not cover is why the area grows.
@@ -274,7 +278,7 @@ Every piece comes off something that stayed at its post after the post was aboli
 The Guarding Bird stands in a doorway at SECTOR-B-01 with its wings half-open, in a stretch of corridor that has gone grey around it. It is guarding a room whose contents were removed eleven years ago and whose post was abolished the same week. Nobody has told it that in a way it has accepted.
 
 **Entry 2 — <Never Abandoned a Post>**
-Flies through the facility protecting everything it identifies as vulnerable. Personnel feel protected but trapped by its guardianship. It has never abandoned a post, even when the protected object no longer exists.
+The recorded breach movement is to another chosen post, not flight through the facility seeking everyone vulnerable. Personnel can be protected and trapped beneath its wings. It has never abandoned a post merely because the protected object is gone; recorded relinquishment and relief remain distinct.
 
 **Entry 3 — <Defending What Was Gone>**
 The grief of defenders who fought for something already gone.
@@ -310,7 +314,7 @@ A wing passes over you like a roof. The air beneath it is still, quiet, and safe
 
 ### Interaction Pattern
 
-Five relations, four of them the other Birds, and all measured on the grey. The Observing Bird's presence is the only thing on record that has ever stopped it spreading for a month.
+Five relations are listed below, including the two sibling Birds. Record their effects separately: the Bell pauses the wings, the Choir changes the facing, and the Mother can join a restrictive boundary. The facility-wide calming effect requires the full trio, not the Observing Bird alone or either sibling pair.
 
 **Interaction method:** Work this one by position. Record where the other entity settles relative to the marked post, whether the Bird turns to face it, whether the post area changes while they are together, and whether anybody inside the line can leave unaided. The pairings that matter here are the other two Birds, and the trio is not the sum of the pairs.
 
@@ -375,7 +379,7 @@ Some sorrows mourn what was lost. The Guarding Bird mourns the duty that would n
 
 ### Registry Addendum
 
-**Operational interpretation:** The room behind the doorway was emptied eleven years ago and the post abolished the same week, by a memorandum nobody delivered to the corridor. The Bird is still on duty. The gauge falls only when a Warden says the second clause — that the thing it guards no longer needs guarding — and the station spent a year saying the first clause alone before it worked that out. The grey has gone from four metres to eleven. Nothing in the file suggests the Bird will leave, and the station has stopped framing that as the objective.
+**Operational interpretation:** The room behind the doorway was emptied eleven years ago and the post abolished the same week, by a memorandum nobody delivered to the corridor. The Bird is still on duty. The gauge falls only when a Warden says the second clause — that the thing it guards no longer needs guarding — and the station spent a year saying the first clause alone before it worked that out. The grey has gone from four metres to eleven. Ordinary work does not make relocation the objective. Keep the recorded breach departures and relinquished posts separate from the current doorway watch; the continued posture is not evidence that departure is impossible.
 
 **Review requirement:** After every cycle: the grey measured at four bearings, the thanking recorded with both clauses, any strike with the two prior warnings logged, and any paperwork anywhere in the facility that re-establishes a post behind that doorway. The last field is checked quarterly against the establishment schedule.
 ## Warden Record

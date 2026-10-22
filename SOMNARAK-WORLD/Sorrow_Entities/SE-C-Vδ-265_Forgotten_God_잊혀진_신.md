@@ -14,7 +14,7 @@
 | **Element** | All four — Lament, Grudge, Void, Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A massive humanoid sleeping in the sealed vault beneath the Alpha Tree, its body built from every sorrow at once — flesh threaded with crystal, fire, ash, and stone, shifting hue as each surfaces. Warm and cold by turns, it smells of rain, char, ash, and wet stone together. It has never woken; some say the city was built to keep it asleep. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Observed asleep in the sealed vault. Walking after seal failure is a contingency profile, not witnessed movement or pursuit. |
 | **Location** | SECTOR-A-01, beneath the Alpha Tree — sealed |
 | **R.D. Comprehension Level** | 4 — Mastered |
 
@@ -121,7 +121,7 @@
 |---|---|
 | **Form** | Forgotten God is a massive humanoid figure sleeping in the sealed vault beneath the Alpha Tree. Its body is built from layered Han-crystal rather than flesh. |
 | **Position / movement** | The figure remains motionless with its hands folded against its body and its head lowered as if listening to a prayer spoken thousands of years ago. |
-| **Material / signature** | All four elements at once, which is the identifying fact: no other holding in the registry presents Lament, Grudge, Void and Weight together. Record the breathing interval from the gallery and nothing else; no instrument is lowered to the floor. |
+| **Material / signature** | All four elements at once, which is the identifying fact: no other holding in the registry presents Lament, Grudge, Void and Weight together. Record the breathing interval from the gallery alongside the posture, light and lamp observations required below; no instrument is lowered to the floor. |
 | **Distinctive markers** | The face is human in outline but too still to read as living. The air around the God trembles without sound. |
 | **Identification** | A sleeping shape too large for the vault that contains it, registering on all four elemental scales simultaneously. Confirmation is the four-way reading and takes nine seconds. |
 
@@ -152,7 +152,7 @@ No Work Type has been applied in nineteen years. The table is inherited from the
 **Reading the response:** Nothing is worked, so nothing is read in the usual sense. The interval is logged twice a cycle; it has been 41 seconds on every log since the vault was sealed, and the four occasions it changed were all after somebody spoke on the gallery.
 ## Breach Behavior
 
-> *"Forgotten God has broken free. Hunts personnel indiscriminately."*
+> *"Seal failure is a contingency, not a recorded escape. No waking movement or target has been established."*
 
 | Field | Detail |
 |---|---|
@@ -238,7 +238,7 @@ The three pieces come from a thing that received grief for a living, and they ke
 | **At limit** | The interval departs from 41 seconds. The gallery is cleared on that alone and has been four times. |
 | **After use** | Log the two intervals and ask each of the three, separately, what holding they have just worked. Six of the nineteen staff can now answer without prompting; the figure is reported quarterly. |
 
-**Stat interpretation:** Nothing here is graded against observation. The only numbers in this file are 41 seconds, three posts, and six people who remember what is in the vault.
+**Stat interpretation:** Simulation ratings are not observations of waking behavior. Gallery custody instead tracks the 41-second breathing interval, three posts, and six people who remember what is in the vault; the other numerical profiles do not authorize contact or extraction.
 
 ## 관찰 기록 (Observation Log)
 
@@ -285,7 +285,7 @@ The archive cross-references this entity with its registered location — the so
 
 > The choice is on the gallery, in the quiet, when the obvious human thing is to say something to it.
 
-| Log the interval and say nothing at all. | Say something — anything — to the thing nobody has spoken to in nineteen years. |
+| Log the interval and say nothing at all. | Say something — anything — directly to the sleeping figure, contrary to the sealed-observation rule. |
 |---|---|
 | Dreams of ancient prayers become gentler. The sorrow is witnessed; Forgotten God is fully recorded. | The vault fills with divine pressure. The gauge climbs and Forgotten God withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -95,7 +95,7 @@
 
 - Personnel who remain inside a showing past their turn lose Clarity quietly rather than suddenly. The reverie returns +20 Composure on waking and takes something unmeasured out of the return, and the two Wardens who had to be carried off the drift both reported afterwards that they had understood where they were and chosen not to move.
 - Extended contact risks Rem’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
+- Every piece in this set is drawn from the same shard and carries the same cost in the column beside it: microsleep while resting, for the shroud; faint violet reflections in mirrors, for the orb; cognitive drain while the cage is held, for the prisms. The grade records only how cleanly the archetype came off Rem. It does not measure what the wearer pays, and the set is issued one rotation at a time for that reason.
 - Without timely resolution, Rem defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
 
 ## Appearance
@@ -334,7 +334,7 @@ The archive holds four hundred and eleven observation sheets for this holding an
 
 | Do the thing on file: sheets collected before anybody speaks, one observer at a time, no contact without written authority, and a return that leaves the shard exactly where it hangs. | Do the obvious, decent thing instead: compare accounts at the drift edge, and feed Rem. |
 |---|---|
-| Makes the worker remain inside a repeating dream image. The sorrow is witnessed; Rem is fully recorded. | Reveals the dream's incomplete structure. The gauge climbs and Rem withdraws without revelation. |
+| Sheets collected before conferring. Nothing is healed by it: the shard hangs where it hung, the dream keeps its unfinished middle, and the watch writes the return up as a watch that stopped short for another year. | Two matching sheets halt the watch and clear the Gates approach until the drift has stood empty for a full cycle. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

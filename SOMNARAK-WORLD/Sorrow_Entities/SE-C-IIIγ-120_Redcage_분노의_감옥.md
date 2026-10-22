@@ -95,7 +95,7 @@
 
 - A worker who cannot hold against it becomes furious, and the fury is coherent rather than wild — it attaches to a real grievance the worker already had, argues it well, and does not feel like contamination from the inside.
 - The long-exposure effect is specific and is the reason sessions are capped: the worker becomes convinced that they are confined. It arrives in open ground, in corridors, outdoors, anywhere, and it does not present as fear but as grievance at being held.
-- The set charges in the same currency it pays out. Wielders gain protection that does not fail, and lose the ability to be anywhere without noticing the exits; the armoury's standing note is that this one is never issued to anybody currently subject to a disciplinary process, their own or somebody else's.
+- The set charges in the same currency it pays out. Its protection is conditional on an open, accountable release route, not infallible; wielders can become unable to stop checking exits. The armoury’s rule against issue during a live disciplinary process is a local precaution, not a finding of guilt or a guarantee against confinement pressure.
 - Unresolved, it does not break out. It gets bigger. The frame takes more floor, the marks are cut further out, and Zone B has less room in it than it did — which is the whole of the escalation and the only thing the holding has ever done.
 
 ## Appearance
@@ -108,7 +108,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
 - **Primary marker:** A large cage made from dark red crystallized rage. It is empty, but the bars pulse like a heartbeat.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** The frame remains fixed at its marks; activation releases pressure and expansion takes more floor outward. Neither is travel or a prisoner escaping.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-B-01, Zone B
 
@@ -167,14 +167,14 @@ Redcage is an Object/Place with Object-Grudge manifestation and Grudge expressio
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode** | The original I-Relic is not worn, carried or issued. Released echoes form the separately recorded M.A.W. pieces; the frame remains in containment. |
 | **Activation** | Touching or attempting to open the Cage. |
 | **Primary Effect** | Releases a wave of anger and memories of unjust imprisonment. |
 | **Duration** | Until the attempt stops and the injustice is acknowledged aloud; the object has no door and cannot be shut. |
-| **Termination / Return** | The piece comes off when the wearer's count stops agreeing with the second worker's, and the second worker does the removal. Detaching it early is safe and reports as a cost; forcing it off a wearer who has stopped answering is entered as a discharge. |
+| **Termination / Return** | The local wearer record calls for a second worker when counts diverge and records costs or discharge on removal. It does not identify a removable part of the original cage or authorise taking the frame off anybody. Keep that wearer report separate from source activation, which ends only on the recorded stop-and-acknowledgement condition. |
 | **Risk** | The user may become convinced they are imprisoned even in open space. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The original cage is not wearable equipment: the exact Side record distinguishes it from released Grudge echoes and forbids wearing or issuing the cage itself. The timed wearer rows below do not identify which released piece was used; preserve them as an unresolved wearer record, not instructions to carry the source. They cannot replace scheduled Viderehan or Ferrehan.
 
 ### Log and Method
 
@@ -230,11 +230,15 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Cost:** The bearer's old injuries ache in the order they were received, and the chain leaves a bruise across the palm that the armoury has learned to expect. Prolonged use leaves both, and the file records the pairing rather than treating either as a complaint.
 
+**Release discipline:** The exact Weapon record requires a known person to be released, a real safe route and an authority or support group ready to receive them. It cannot determine legal innocence or turn retaliation into liberation. Without a safe route it refuses the release and returns pressure to the bearer; every claimed release remains subject to external review. Keep that limit without pretending the unresolved Fang and Censer descriptions document a transformation.
+
 ### M.A.W. Suit — The Cage Shield
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
 
 **Appearance:** a shield-backed harness of Grudge Han-iron, dark and faintly warm, that tightens a notch while the wearer is being argued with and slackens when the argument stops. The armoury has measured the notch and has no explanation for it on file.
+
+Its case carries one condition in the wearer's own hand: the plate may never be used to block an exit from somebody who has a right to leave, and before every issue the route is drawn on the case and checked against the actual site by a release observer rather than against the drawing. Used to pen people in, the grid turns inward and the wearer feels every unjust confinement the source is carrying until the route is reopened; the overload condition is the grid forming with no visible gap, which the armoury enters as a fault in the bearer and not in the plate. Deployed to grade it catches one rage-based strike and puts it into unoccupied ground, and it is not signed back in until the exit is confirmed still open.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -254,6 +258,8 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Appearance:** a small charm of Grudge Han-iron that weighs more than its size accounts for, and grows heavier in a room where somebody is being blamed for something they did not do. The weight returns to its resting figure within an hour of leaving the room.
 
+It is issued with a partner and never alone: a candidate accepts an oversight partner who can reject a use motivated by retaliation, and the charm comes off when that partner unhooks it — after the barrier report carries a concrete follow-up rather than a promise of one. It is read one barrier at a time, and a second charm on the same bearer produces two conflicting bars, neither of them reliable. What it will not do is what the wing keeps asking of it: it cannot establish legal guilt, prove intent, or let a bearer override a restriction they merely dislike, and its hidden cost is that the bearer's anger sharpens in proportion to how plainly the barrier shows.
+
 **Slot:** Tail
 **Acquisition Probability:** 4%
 **Effect:** +2 to the working stat against Redcage, and for as long as the charm is worn the bearer can hold a grievance in mind without needing to say it aloud. Bearers report that the second half is what they miss when the piece goes back.
@@ -266,18 +272,22 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 ### M.A.W. Use Notes
 
-All three pieces are made of the same thing the bars are made of, and they behave like it: they shield absolutely, they do not yield, and they will not let the wearer forget an injury. The listed benefit is real and the cost is that grievance becomes easier to hold and harder to put down. Forcing a piece against its design raises the cost rather than breaking the piece. No protocol produces a Stigma here.
+The pieces form from released Grudge echoes, not pried bars or a wearable version of the original cage. Their benefits are conditional: the Shield requires an open exit, the Weapon requires a real release route and an accountable receiving authority, and the Charm reveals a barrier rather than guilt. Grievance becomes easier to hold and harder to put down; misuse can close the grid or turn pressure inward rather than provide absolute protection. No extraction protocol guarantees a Stigma.
+
+Each piece keeps its own account of that grievance. The censer takes the body first: old injuries ache in the order they were received, and the chain leaves a bruise across the palm. Log that injury and the old-wound pain separately; an expected toll is not an unrecorded or harmless one. The shield takes the wearer's sense of the room — the first sentence in which somebody describes a room as smaller than it measures is the limit and is entered as one. The charm takes the temper, and the oversight partner exists because that cost arrives before the bearer notices it.
+
+The set is extracted rather than issued. A worker finishes Viderehan without touching the bars, then names a documented injustice and the limit of the current record; if the cage's pulse slows without anyone attempting to open it, one crimson echo may form beyond the outer bar, and pried fragments are not M.A.W. Worn complete, the resonance is called the Open Bar and it runs on three things at once — a real barrier, a safe route out, and somebody besides the bearer who can acknowledge the harm. Its cost is that every injustice named through the set stays emotionally present until a follow-up action rather than a report is entered, and retaliatory use locks the set into a closed-bar state. The source reaction it draws is a single bar slowing and not vanishing, which the file states plainly, because acknowledgment is not erasure.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, grade, gauge, state, condition of the piece, the objective, and whether the wielder is party to any live grievance, complaint or disciplinary matter. The last field is a bar to issue, not a note. |
-| **During use** | Activation time, effect strength, the area protected, who was inside it, and the first cost noticed by anybody other than the wielder. |
-| **At limit** | Hours worn, activations, the wearer's own count against the second worker's, and the first sentence in which the wearer describes a room as smaller than it measures. That sentence is the limit and is entered as one. |
-| **After use** | Removal, injuries, and whether the wearer left the room without checking the door. The last field has been recorded at every issue since the set was struck, and the armoury reads it before any other. |
+| **Before use** | Wielder, grade, gauge, state, condition of the piece, the objective, and whether the wielder is party to any live grievance, complaint or disciplinary matter. The last field is a bar to issue, not a note. On the shield and the charm the release route is drawn on the case and checked against the site by a release observer, and the oversight partner's name is entered with it. |
+| **During use** | Activation time, effect strength, the area protected, who was inside it, and the first cost noticed by anybody other than the wielder. Whether the route stayed open is logged at the same interval, and a route that closes mid-use is entered as a failure of safe deployment, whoever closed it. Do not assume the pressure ended: the Shield can turn force back through the harness until the route is reopened or its observer applies the recorded shutdown. |
+| **At limit** | Hours worn, activations, the wearer's own count against the second worker's, and the first sentence in which the wearer describes a room as smaller than it measures. That sentence is the limit and is entered as one. A charm bearer's temper is the second limit and is called by the oversight partner rather than by the bearer, and the partner's call does not require the bearer's agreement. |
+| **After use** | Removal, injuries, and whether the wearer left the room without checking the door. The last field has been recorded at every issue since the set was struck, and the armoury reads it before any other. The barrier report is closed with a follow-up action and not with an intention, and routine Charm return follows that recorded action and partner review. This does not postpone its emergency shutdown: the partner closes the case clasp over the bars, states the release route and removes the Charm under its individual record. |
 
-**Stat interpretation:** Grade states how hard a piece works and nothing about what it does to the person wearing it. This set performs well and has never failed in the field; the armoury's objection to it is that everybody who has carried it for a season has become harder to settle an argument with. Read both columns and authorise on the second.
+**Stat interpretation:** Grade does not guarantee an open route, faultless protection or a safe bearer. Authorise against each piece’s release, oversight and shutdown conditions as well as its effect. The armoury records harder-to-settle arguments after a season of use; that cost remains alongside the documented recoil and closed-grid failures, not behind a claim that the set has never failed.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -317,7 +327,7 @@ The fury of being trapped by a system that refuses to admit error.
 Work response — Viderehan: Reveals the injustices that formed each bar. (Stable); Ferrehan: Tests whether the worker can remain near rage without feeding it. (Decrease). It becomes hotter during Collector disputes.
 
 **Entry 5 — <A Symbol Among Personnel>**
-The cage has no door, and that is the whole of it: it was not built to hold anything, it was built by people who had been held. What it releases is not an attack but a recollection — the patient, exact anger of a sentence nobody deserved — and it borrows the nearest person's own memory of being wrongly accused in order to deliver it. Staff with a disciplinary history are not posted here. Not because they are at greater risk, but because the entity is accurate.
+The cage has no door, and that is the whole of it: it was not built to hold anything, it was built by people who had been held. Its activation carries recollection and anger that can attach to a nearby worker’s grievance. That does not make the pressure harmless or the grievance a verdict. The local exclusion of staff with disciplinary history is a posting rule, not evidence that every charge against them was wrong or that the entity can establish legal guilt.
 
 ## 최종 관찰 (Final Observation)
 
@@ -325,7 +335,7 @@ The cage has no door, and that is the whole of it: it was not built to hold anyt
 
 | Do the thing on file: Viderehan and Ferrehan only, worked from outside the bars, with the count taken twice by two people. | Answer it — make the case, in the room, at the bars, where the argument will be heard and agreed with. |
 |---|---|
-| Tests whether the worker can remain near rage without feeding it. The sorrow is named; Redcage is fully recorded. | Reveals the injustices that formed each bar. The gauge climbs and Redcage withdraws without revelation. |
+| Tests whether the worker can remain near rage without feeding it. The sorrow is named; Redcage is fully recorded. | The worker’s argument feeds the recorded rise in pressure and gauge. Withdraw the worker under the response procedure; the frame does not retreat, and a failed session is not proof that every bar’s source has been identified. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -393,7 +403,7 @@ Some sorrows mourn freedom lost. Redcage mourns the particular freedom of being 
 **Common Name:** Redcage
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). An empty frame that has never harmed anybody physically. Proximity produces articulate fury, long exposure produces a conviction of being confined, and the object's only action is to take more floor.
+**Threat Assessment:** Major (γ). An empty frame with articulate fury, a lasting conviction of confinement on long exposure, and outward growth. The no-physical-injury claim elsewhere in the archive is not a safety guarantee against the pressure and combat responses in this file; physical entry, bar-strike and collapse accounts still require reconciliation with the doorless fixed frame.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan only; the older entry naming Pugnahan is an error and should not be relied on. The object is not confronted.
 - Do not enter the Cage. The bars carry the rage of the wrongly imprisoned.

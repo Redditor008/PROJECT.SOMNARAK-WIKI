@@ -1,0 +1,72 @@
+{
+  "batch": 169,
+  "base": "57b9e5112c10590cb7cb05c6f837ad833ec70813",
+  "authorization": "Owner p after CLOSED168 authorizes169 only. Minimum five, cumulative three No change5→7→10; later full recheck retained.",
+  "pending": 180,
+  "selection": "Fresh pending-only shortest LC_ALL=C wc-w order, designation tie-break; length is not a defect or predetermined outcome.",
+  "queue": [
+    {
+      "designation": "N-IIβ-910",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-910_Moktak_조상의_전당.md",
+      "words": 5175,
+      "sha256": "2807c7d668545c76c6fcf0980666e1fd8b7b4063b66f4686d710245b38d4940e"
+    },
+    {
+      "designation": "O-IVδ-930",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-930_Once_Told_살아_있는_서사.md",
+      "words": 5177,
+      "sha256": "e9c4a353e1f087cb350709deafee3083447d265b1af335884e88bef0040b3e96"
+    },
+    {
+      "designation": "N-IIγ-903",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IIγ-903_The_Music_Box_of_Agony_고통의_오르골.md",
+      "words": 5265,
+      "sha256": "90092cfebf97de09351ad0e4242047844e5cf7f2a93db36bbbd156716ac08156"
+    },
+    {
+      "designation": "C-IVδ-923",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-923_Hatred_Above_분노의_폭풍.md",
+      "words": 5472,
+      "sha256": "8adf7cce0c63be4e35644506d664d211e68571dd5735bc85e7c551ffbd8105b0"
+    },
+    {
+      "designation": "C-Iα-000",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-000_Kind_Echo_친절한_메아리.md",
+      "words": 5519,
+      "sha256": "a036068eba1c7956d18ad0833cbb9fa3992cc85064429593051d93ffde7800f9"
+    }
+  ],
+  "reserves": [
+    {
+      "designation": "N-IVδ-927",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md",
+      "words": 5548,
+      "sha256": "e894e83fd01c2d34a0e885367a387d9615a8e0115aee2fa17687b1ec44b75ac9"
+    },
+    {
+      "designation": "C-IVδ-922",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-922_Miasma_우는_안개.md",
+      "words": 5601,
+      "sha256": "9ae69951fabcaafa8f6300bb0a88ca0bad741c07cfe33188986f9b61fbb83ce3"
+    },
+    {
+      "designation": "N-IIβ-993",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-993_Survivors_Span_무너진_다리.md",
+      "words": 5861,
+      "sha256": "f062314e8dd2f62b87d07abdaaa094f60a1ecd0d991136f521836892b11981a3"
+    },
+    {
+      "designation": "O-IIβ-378",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-378_Drowned_Echo_침몰한_메아리.md",
+      "words": 5971,
+      "sha256": "479387bb51b0249f722359b24eafbb2771dcc6e6bcfffc6d5fb14831dc991075"
+    },
+    {
+      "designation": "C-IIIγ-913",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-913_Backward_Hour_카운트다운_시계.md",
+      "words": 6078,
+      "sha256": "96b5440f2a0ae7f398fc8ce7654e6adfbed91ee1365180a7eb71ae745689a4f4"
+    }
+  ],
+  "restoration": "All2516 remote tracked blobs matched working tree before mixed-reset aligned old10cd20a HEAD/index with57b9e51; working files untouched."
+}

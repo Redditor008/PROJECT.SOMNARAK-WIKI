@@ -1,0 +1,556 @@
+{
+  "batch": 168,
+  "status": "CLOSED",
+  "required": 5,
+  "completed": 5,
+  "no_change": 0,
+  "queue": [
+    {
+      "designation": "N-IIIγ-917",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md",
+      "words": 4924,
+      "sha256": "ffd92f2f80889ba455217dcb0c4f8660dd9ae88ddab1c39f6b4dfa867c6b35a7"
+    },
+    {
+      "designation": "O-IIIγ-916",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-916_Allhallow_유령의_시간.md",
+      "words": 4963,
+      "sha256": "436ef589fa90f59c562b0faf65547c9dd179b301d46a8f8f6e7315b1830f2c1a"
+    },
+    {
+      "designation": "C-IIIβ-072",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md",
+      "words": 5086,
+      "sha256": "5ea8c5b6812dd6e670b2d77ea642c993cb9cc2dd40c6d37bb0a0f57f76b95919"
+    },
+    {
+      "designation": "O-IVδ-515",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기.md",
+      "words": 5091,
+      "sha256": "c790b05e41b221bb023880b91db94e666cd2d325e7510966c66d70fc1003df25"
+    },
+    {
+      "designation": "O-IIβ-914",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-914_Amnesia_잊혀진_일분.md",
+      "words": 5131,
+      "sha256": "4ecf45d30014df0f2aad9666878b362090966a6add09bdb6024466ba9f76578b"
+    }
+  ],
+  "units": [
+    {
+      "designation": "N-IIIγ-917",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md",
+      "words": 4924,
+      "sha256": "ffd92f2f80889ba455217dcb0c4f8660dd9ae88ddab1c39f6b4dfa867c6b35a7",
+      "name": "Dawn That Forgot",
+      "unit": 1,
+      "status": "held",
+      "receipt": "B168_01_DAWN_THAT_FORGOT.md",
+      "repairs": [
+        [
+          "**Time** — Can breach via Transform",
+          "**Time** — Recorded expansion takes neighbouring streets between episodes; no transformed body is documented"
+        ],
+        [
+          "| **Physical Form** | Organic — A dawn",
+          "| **Physical Form** | Temporal phenomenon — A dawn"
+        ],
+        [
+          "| **Threat Role** | Sovereign encounter |",
+          "| **Threat Role** | Major temporal/dream hazard; not a Sovereign classification |"
+        ],
+        [
+          "- The morning arrives without the night preceding it, and the facility log records no interval between the two.",
+          "- The sun rises and the district remains unable to wake. The observed delay is after sunrise; the record does not establish that the preceding night vanished."
+        ],
+        [
+          "- A cycle restores part of the interval. The gap recurs, and no session has produced a complete night.",
+          "- Completing the perimeter watch lowers the gauge without shortening an episode. It does not restore a missing night or recover part of the delay; recorded waking times remain separate from gauge relief."
+        ],
+        [
+          "Nothing here is measurable and the file says so in its first line.",
+          "Sunrise and shutter times are recorded from the post, but no instrument measures the condition inside the sleepers. Timing an episode is not a direct measurement of the dream state."
+        ],
+        [
+          "infirmary's running exposure totals, which the post itself has never been shown.",
+          "infirmary's fitness judgments, with no confidential exposure figures disclosed to the post."
+        ],
+        [
+          "with the shutter times and the exposure total entered first and the other record's series set beside them unchanged; parting,",
+          "with the shutter times and the infirmary's fitness judgment entered first, without the confidential total, and the other record's series set beside them unchanged; parting,"
+        ],
+        [
+          "## Appearance\n\n",
+          "## Appearance\n\n**A morning, not an organic sleeper:** The phenomenon is the mismatch between a lit district and its residents' inability to wake. Sleepers are people within its extent, not anatomy assembled into a source body. From the post, streetlamps switch off and daylight reaches streets with no traffic, open shutters or figures at windows. Residents' awareness of morning comes from their accounts afterward; an observer outside does not see inside their dreams.\n\n**Extent and sequence:** The usual event begins at local sunrise and ends when the district opens its eyes. Whole streets have been added between episodes; this changes affected territory, rather than a sun, figure or sleeping body travelling along the boundary. Timing the first or last shutter does not imply every episode has the mean duration.\n\n**Witness tools and derived equipment:** The clock times the watch while the marker locates its perimeter. Neither supplies a physical vessel for the dawn. The marker-derived Edge, issue-cloak Veil and clock-brass Token have separate bearer effects; a brief word lapse or delayed waking after gear use is not a new district-wide episode. The post keeps timing records and a fitness judgment, not the infirmary's confidential cumulative figure.\n\n"
+        ]
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-A__SIDE_CODEX_Dawn_That_Forgot.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-B__MAW-W_Dawn_That_Forgot_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-C__MAW-S_Dawn_That_Forgot_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-D__MAW-G_Dawn_That_Forgot_s_Token.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "reasoning": "Complete357-line primary and exact917A–D read. Time-Dream is daylight without waking, no source form/figure/voice, not Organic anatomy. Whole chain includes recognized ambient history, residents versus phenomenon, lit fixed territory/widenings between episodes, onset/shutter timing, perimeter Work, stalled-clock combat versus sunrise, exposure privacy, paper-only comparisons and apparatus-derived gear. Scope: temporal label/actual expansion/Major risk; replace missing-night/restored-interval claims with delayed waking; measurable times versus uninstrumented dream state; repair comparison confidentiality; concrete observer/extent/gear organisation.",
+      "history": "Exact917A–D, registry1027–1030, archetype376 and disposition345 read; no dedicated Master exact-name entry established. Primary/B γVoid14–25 Normal2 Short2 4/25; C L/G/V/W1/1/.3/.8 4/20; DHead5%+1 align. Same Weapon DawnHorizonLens Instant versus Short glassblade remains. B numbness versus primary week delayed-waking already explicit in Edge exposure account, not invented equivalent. B135unit4 cf1859d72b95526dbf45d004e01f0b58a94b7065 full evidence/history paragraph read: prior exact Weapon increment to204/287 and FullSE194/301. Prior coverage is not fresh SE body completion. Archived B45unit3 and B59unit8 also inspected. Equipment+0/+0, no duplication.",
+      "summary": "Nine repairs identify temporal phenomenon/street expansion, correct Major versus Sovereign, distinguish delayed waking from missing/restored night, qualify measurable times versus dream state, remove two demands for private exposure figures and add daylight/sleeper/observer/gear distinctions.",
+      "holds": [
+        "VesselDestructibleYes/drop versus no source form/body remains; no physical vessel invented.",
+        "Stalled pre-dawn clock/missing-hour combat and horizon-wide Ultimate versus daylight on schedule and three geographic widenings need state evidence.",
+        "Gauge70 unchanged nine years versus successful watches lowerGauge; exposure/episode/shift timing scopes and mean-time final-success wording remain.",
+        "Comparison claims neither file entered despite four local entries. Same Weapon Instant lens versus Shortblade and bearer-as-new-site corrosion remain separate source issues."
+      ],
+      "final_reasoning": "HELD: temporal/non-body organisation, observed extent, delayed waking and private fitness handling are explicit. Vessel, combat-time and gauge/history conflicts still prevent whole-file logical completion. Gear need not share dawn/district silhouette.",
+      "commentary": "The loss is ordinary lateness rather than theatrical terror, which makes the district adapting its early shift convincing. The confidential exposure ledger gives watchers a cost without turning their medical history into facility property.",
+      "final_sha": "cb812ba2f94a3124d92b1556966465861490963b807dc8506663b804c59ff6cc",
+      "before_words": 4924,
+      "after_words": 5176,
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-A__SIDE_CODEX_Dawn_That_Forgot.md": "b563c6fb4b358a2d19b804498a36f04d14675aac78c0158f1df7d39da2b03da0",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-B__MAW-W_Dawn_That_Forgot_s_Edge.md": "d1c179e20c3a652c58715654a3b380de1833a5dfabc47e00be1d5ba4b9564c25",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-C__MAW-S_Dawn_That_Forgot_s_Veil.md": "b6e1cd142ca65a0d0420d7f01d573e2e94389d2c8d4b7adbfd5490d63c241474",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/917_Dawn_That_Forgot/SE-917-D__MAW-G_Dawn_That_Forgot_s_Token.md": "b7f3391502efef1e59737bcca0e5cd3c8772f06b697b93c905c311f67f5a2462",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md\n",
+        "sectfile": " 0.040  clean   124 grams  Breach Behavior\n 0.017  clean   119 grams  Operational Parameters\n 0.009  clean   564 grams  M.A.W. Equipment\n 0.004  clean   479 grams  Combat Record\n 0.000  clean   364 grams  Appearance\n 0.000  clean   331 grams  상호작용 (Entity Interactions)\n 0.000  clean   285 grams  Warden Record\n 0.000  clean   209 grams  이야기 보고 (Story Log)\n 0.000  clean   171 grams  감각 묘사 (Flavor Text)\n 0.000  clean   153 grams  기록 (Registrum)\n 0.000  clean   132 grams  이야기 (Narratio)\n 0.000  clean   123 grams  Origin\n 0.000  clean   111 grams  관찰 기록 (Observation Log)\n 0.000  clean    67 grams  Behavior\n 0.000  clean    47 grams  최종 관찰 (Final Observation)\n 0.000  clean    39 grams  증언 (Testimonium)\n 0.000  clean    36 grams  Trivia\n 0.000  clean    35 grams  SECC Classification\n 0.000  THIN     10 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "fraction 0.004278728606356968\nPASS\n"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_01_DAWN_THAT_FORGOT.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-917_Dawn_That_Forgot_%EC%9E%A0%EB%93%9C%EB%8A%94_%EC%83%88%EB%B2%BD.md \"SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md\")]",
+      "table_link": "[Dawn_That_Forgot](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-917_Dawn_That_Forgot_%EC%9E%A0%EB%93%9C%EB%8A%94_%EC%83%88%EB%B2%BD.md \"SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md\")",
+      "unit_commit": "2652e0577bfe90c084e7a0f29555e38855f148c0"
+    },
+    {
+      "designation": "O-IIIγ-916",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-916_Allhallow_유령의_시간.md",
+      "words": 4963,
+      "sha256": "436ef589fa90f59c562b0faf65547c9dd179b301d46a8f8f6e7315b1830f2c1a",
+      "name": "Allhallow",
+      "unit": 2,
+      "status": "held",
+      "receipt": "B168_02_ALLHALLOW.md",
+      "repairs": [
+        [
+          "**Time** — Can breach via Transform",
+          "**Time** — Recorded breach lengthens the walked line; no body transformation is documented"
+        ],
+        [
+          "Stationary — a fixed position; spreads rather than moves.",
+          "Fixed border event — the figures walk the perimeter; expansion lengthens their route rather than moving the hour to a new site."
+        ],
+        [
+          "| **Threat Role** | Sovereign encounter |",
+          "| **Threat Role** | Major phantasmal/time hazard; not a Sovereign classification |"
+        ],
+        [
+          "- **Containment priority:** Physical suppression required.",
+          "- **Containment priority:** Keep both posts behind the marked line, count independently for the whole hour, then reconcile without averaging or correcting either total. Do not approach the walkers or attempt physical suppression."
+        ],
+        [
+          "this one keeps two sheets and will not reconcile them.",
+          "this one reconciles two independent sheets after the hour without averaging or correcting either total."
+        ],
+        [
+          "## Appearance\n\n",
+          "## Appearance\n\n**What walks, and what remains fixed:** Allhallow is the border hour and its silent procession, not a single walking corpse with a hidden organic body. The figures keep a steady walking pace along the surveyed perimeter; the holding remains at that line. Recorded extensions add route into the Desolate rather than a crowd advancing toward inhabited ground.\n\n**Visible but not tangible:** Cameras record the column, but feet leave dust and standing water undisturbed. Objects left on the route remain where they were as the walkers pass through. These observations do not authorize a person to test bodily contact: the no-approach rule still stands. The near column has readable faces, yet believing a face familiar is grounds to rotate the counter, not evidence identifying a dead person.\n\n**Onset, end and counting apparatus:** No precursor is known; the first figure marks onset and the last vanishes at the end of the hour. Marker posts, tally plates and counting-cloaks belong to the watchers' apparatus. The derived blade, cloak and coin-token need not reproduce a walker's shape, and using them does not shorten the procession or license entry.\n\n"
+        ],
+        [
+          "### M.A.W. Suit — Allhallow's Veil",
+          "**Edge cost distinction:** The linked Weapon records a persistent low-grade headache with each use. This holding separately records involuntary counting afterward; neither observation is proof of the other. Keep both with the bearer record rather than rewriting the unknown formation event or treating the blade as permission to strike a walker.\n\n### M.A.W. Suit — Allhallow's Veil"
+        ],
+        [
+          "### M.A.W. Use Notes",
+          "**Token bearer limit:** The linked Stigma records dreams in tears from the source sorrow and waking with another person's grief. That bearer cost is distinct from finding a token after close tallies, and a source-work bonus does not establish the identity of a face in the column.\n\n### M.A.W. Use Notes"
+        ]
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1042_Hour_the_Dead_Walk/SE-1042-A__SIDE_CODEX_Hour_the_Dead_Walk.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1042_Hour_the_Dead_Walk/SE-1042-B__MAW-W_Hour_the_Dead_Walk_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1042_Hour_the_Dead_Walk/SE-1042-C__MAW-S_Hour_the_Dead_Walk_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1042_Hour_the_Dead_Walk/SE-1042-D__MAW-G_Hour_the_Dead_Walk_s_Token.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md"
+      ],
+      "reasoning": "Complete344-line original read: Time-Phantasmal hour fixed at border, dead-like figures walk silently and pass objects without disturbance, not confirmed dead identities. Lament border grief predates dated record; precursor search closed without findings. No approach/contact: dual independent counts and no corrections, differences retained. Trace includes route extensions, recognition/exposure costs, no-shortening resolution, paper-only interactions and apparatus-derived gear. Scope fixes header Transform, stationary-versus-procession ambiguity, Sovereign role, suppression directive and no-reconciliation row; adds concrete state/observability/gear anatomy distinctions plus two exact item-cost notes.",
+      "history": "Full1042A–D read with Source O-IIIγ-916, not numerical-prefix inference; Registry330–333 partial, archetype442 SolarRefractionMonocle Close has no crosswalk, disposition346. Entity359 awaits codex row; Master searches no exact row/Tale. B95unit3 85dd8742 source review already counted set/Weapon and held titles/missing event; B43unit1 archived interactions/condition and B49unit5 generic cleanup are not body evidence. Weapon Lament14–23 Normal2 Short2 4/25; Suit .3/1/1.2/.8 4/20; DHead5%+1 agree. Bheadache and primary compulsive counting preserved as separate reports, no unsupported mutually-exclusive verdict. Unknown source event stays unknown. No duplicate coverage credits.",
+      "summary": "Eight repairs distinguish fixed hour from walking figures/route expansion, replace Sovereign and physical suppression language, repair reconciliation claim, add concrete phantasmal observability and apparatus profile, and preserve separate Edge headache/counting costs plus Token dreams-of-grief cost.",
+      "holds": [
+        "Vessel destruction/drop has no established tangible vessel; no unrecorded physical target invented.",
+        "Combat targeted/provoked/cornered attack triggers and burst collapse lack observed state bridge to no contact/no walker acknowledgment/no injury.",
+        "Gauge60 unchanged eleven years versus dual-count Work decreases and per-turn escalation need distinct field scopes. Titles Allhallow versus Hour the Dead Walk remain held; no item Appearance bridges the optical1042 archetype to the blade."
+      ],
+      "final_reasoning": "HELD: static event versus moving apparitions is now explicit, observed intangibility/recognition uncertainty remains intact, no approach is authorized and records are reconciled without normalization. Material vessel, targeting-combat and gauge-state relationships still lack source resolution. Derived gear differences from walkers alone are not a hold.",
+      "commentary": "The strongest choice is refusing to ask whom a Warden recognized. It protects a personal grief from becoming manufactured evidence. Two honest counts that disagree are more unsettling than an invented correct total.",
+      "final_sha": "60e3f988c45ae3cf915e0512db58835befa9664c7301b6e3aec702738d913a4b",
+      "before_words": 4963,
+      "after_words": 5302,
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1042_Hour_the_Dead_Walk/SE-1042-A__SIDE_CODEX_Hour_the_Dead_Walk.md": "955bf24d8945ee31475215c6643f46a9d415a388681486d07a0b60d6a9753c29",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1042_Hour_the_Dead_Walk/SE-1042-B__MAW-W_Hour_the_Dead_Walk_s_Edge.md": "b8b8c7dfbbab1cb5e7dbc9e8f94ed1a79b2e3e1ce0a5b670791b3e68cb10f1a8",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1042_Hour_the_Dead_Walk/SE-1042-C__MAW-S_Hour_the_Dead_Walk_s_Veil.md": "f1d9840b865c029c89a71d1e3454be8939b640e1b0b476576a288afa8a166bf1",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1042_Hour_the_Dead_Walk/SE-1042-D__MAW-G_Hour_the_Dead_Walk_s_Token.md": "739c953f8e7b3c16beb7f8f582c3bdf65289db49578768c12717e9228257ee4e",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98"
+      },
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-O-IIIγ-916_Allhallow_유령의_시간.md\n",
+        "sectfile": " 0.033  clean   150 grams  Breach Behavior\n 0.029  clean   381 grams  Combat Record\n 0.017  clean   116 grams  Operational Parameters\n 0.012  clean   678 grams  M.A.W. Equipment\n 0.000  clean   384 grams  Appearance\n 0.000  clean   359 grams  상호작용 (Entity Interactions)\n 0.000  clean   288 grams  Warden Record\n 0.000  clean   222 grams  이야기 보고 (Story Log)\n 0.000  clean   182 grams  기록 (Registrum)\n 0.000  clean   159 grams  이야기 (Narratio)\n 0.000  clean   157 grams  감각 묘사 (Flavor Text)\n 0.000  clean   128 grams  Origin\n 0.000  clean    98 grams  관찰 기록 (Observation Log)\n 0.000  clean    88 grams  증언 (Testimonium)\n 0.000  clean    61 grams  Trivia\n 0.000  clean    52 grams  Behavior\n 0.000  clean    47 grams  최종 관찰 (Final Observation)\n 0.000  clean    36 grams  SECC Classification\n 0.000  THIN     11 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "fraction 0.0073425585992657446\nPASS\n"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_02_ALLHALLOW.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IIIγ-916_Allhallow_유령의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-916_Allhallow_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%8B%9C%EA%B0%84.md \"SE-O-IIIγ-916_Allhallow_유령의_시간.md\")]",
+      "table_link": "[Allhallow](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-916_Allhallow_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%8B%9C%EA%B0%84.md \"SE-O-IIIγ-916_Allhallow_유령의_시간.md\")",
+      "unit_commit": "7b0351f1f7d2457e26eff24f32dae8a3f8fe2a11"
+    },
+    {
+      "designation": "C-IIIβ-072",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md",
+      "words": 5086,
+      "sha256": "5ea8c5b6812dd6e670b2d77ea642c993cb9cc2dd40c6d37bb0a0f57f76b95919",
+      "name": "Father's Broken Bond",
+      "unit": 3,
+      "status": "held",
+      "receipt": "B168_03_FATHERS_BROKEN_BOND.md",
+      "repairs": [
+        [
+          "## Appearance\n\n",
+          "## Appearance\n\n**The burden is an object:** The source is a palm-sized, octagonal brass indenture tally, not the diver, his son or an anthropomorphic debt collector. Its legible seal, acid pitting, perimeter tally-notches and exposed dark core locate the family history on the metal itself. Tarnish and solvent burns are original evidence, not damage to be polished away.\n\n**Weight without growth:** The load-cell accounts record changing mass without expansion of the tablet. A heavier reading is not a larger silhouette or locomotion; the stationary object loads its support and endangers a handler. Oily black seep at the score is distinct from the release: authorized activation requires the deliberate fracture, followed by an implosion and blackened, inert brass shards.\n\n**Historical break and derived pieces:** Han-Sol's boot-stamped break belongs to the archive event; the operational trigger is a deliberate two-handed snap. The file does not document how its historical broken halves relate to the currently usable whole tablet, so no restoration is inferred. The Flail's chained tally-head, rubber diving coat and neck-worn half are derived equipment, not proof that the source grew a body or that spent shards can be harvested again.\n\n"
+        ],
+        [
+          "- M.A.W. extraction is derived from the residue left behind after controlled route termination or historical husk crystallisation.",
+          "- The integrated M.A.W. specifications do not authorize extraction from spent shards. The discharge record calls that residue inert and forbids extracting it again; no repeat harvest or restoration route is established here."
+        ],
+        [
+          "| **Resolution Condition** | The tablet is snapped along its pre-scored fracture seam, obliterating all active debt burdens |",
+          "| **Resolution Condition** | The tablet is snapped along its pre-scored fracture seam, purging the squad's battle debt marks, binds and speed penalties; this is not a legal cancellation of every municipal loan |"
+        ],
+        [
+          "File the claim, keep both hands bare, and snap the seam only to lift a burden that will not wait",
+          "Check the operator's debt record, keep both hands bare, and snap the seam only to lift a burden that will not wait"
+        ],
+        [
+          "Nothing seeps from it, nothing warms, and the tally faces oxidise at the rate Viderehan records rather than at any rate the vault can explain.",
+          "The score carries the oily black seep described in the appearance record; that is a surface sign, not an activated purge. The tally faces oxidise at the rate Viderehan records rather than at any rate the vault can explain."
+        ],
+        [
+          "and the shards are catalogued rather than kept, because the husk is inert and there is no second use in it.",
+          "and the shards are catalogued as inert evidence rather than retained for reuse, because the husk is inert and there is no second use in it."
+        ],
+        [
+          "the heavy brass ball crushes armor",
+          "the heavy octagonal brass tally-head crushes armor"
+        ],
+        [
+          "The tablet weighs more than brass of its dimensions can weigh, by a margin that has been measured repeatedly and has never varied. It is not lifted. The mount it rests in was built around it rather than under it, the fitting was done in place, and the Warden's handling instruction consists of a single line stating that the object is to be left where it is. No reason of hazard is given because none has been established. The file's note says only that the tablet is heavy in a way the facility cannot account for and that moving an unaccountable thing is a decision requiring a better reason than tidiness.",
+          "The tablet weighs more than ordinary brass of its dimensions. Its load-cell record varies across the municipal shift without volumetric expansion; handlers with debt can triple that mass within seconds. These are documented hazards, not unexplained housekeeping objections. The mount was fitted in place around the object. Leave it mounted for routine custody rather than moving it for tidiness. The Ferrehan lifting test and deliberate emergency fracture have their own recorded conditions; neither is blanket permission to handle it, and the clean-financial-records rule remains in force. No successful weighing repairs the bond or makes the post-discharge shards usable."
+        ]
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/README.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md"
+      ],
+      "reasoning": "Complete404-line original read including integrated Weapon/Suit/Stigma and all activation/log/observation/Tale/Warden text. City grief of inherited indenture is expressed by acid-scarred brass tally, not donor anatomy. Whole chain includes historical boot break versus manual present trigger, varying weight without growing, single irreversible implosion/inert residue, Work lifting safety, contradictory mounted/no-hazard account, distinct equipment and neighboring debt resonances. Scope repairs current-state observability, impossible constant/no-hazard mass account, no-seep line, ball/head shape, overbroad debt cancellation, claim directive, evidence-custody phrasing and spent-shard extraction claim.",
+      "history": "No external exact072A–D: full Codex README integrated A-Relic exception explicitly names072 and515; all three embedded equipment blocks read, no absent Side bodies invented. Exact code/title/Flail/Suit/Stigma searches of Registry, archetypes and Master M.A.W. found no matching rows. Entity368 corroborates brass tally/purge; disposition122 misattributes stabilizing row to DebtScale although primary DebtScale accelerates20% and DebtEater stabilizes: shared row retained as a cross-source hold. B59unit2 filing-note and B65unit7 full Log/Method cleanup inspected; git primary history baseline10cd20a only. No new uniquely creditable equipment-source disposition proven, conservative+0/+0.",
+      "summary": "Eight repairs add object/history/extent/release profile, reject spent-shard extraction, narrow debt clearance to combat effects, correct expense-claim instruction and no-seep claim, preserve shards as evidence, keep octagonal flail head and replace the no-variation/no-hazard Warden account with recorded load-cell/handling conditions.",
+      "holds": [
+        "Historical snapped halves/cannot-weld and unspent whole tablet lack an explicit state bridge; no rebuilding, regeneration or second use invented.",
+        "Use-count labels3/5/7 versus single-use relic and theoretical/actual discharge testimony lack instance/simulation provenance.",
+        "Immediate execution in Tale versus sentencing court transcript, and sister Eun-Ji quoting taking Eun-Ji remain unresolved testimony/history.",
+        "Local mass/strength/anomalous-density measures and emergency thresholds retain original numbers; no normalization. Shared disposition DebtScale stabilization contradicts primary accelerating scale row."
+      ],
+      "final_reasoning": "HELD: fixed tally design, changing mass, original acid damage, seep versus one-use fracture and inert residues now align more clearly. Historical/current object continuity and repeated-use provenance remain unresolved, so no SE completion. Integrated gear need not match source scale or shape, and absence of externalA–D alone is not a body defect.",
+      "commentary": "The tiny tally with an impossible load is the right shape for inherited debt: bureaucracy made liftable, and then almost impossible to lift. Keeping the acid scars matters more than adding a humanoid avenger. The refusal should remain costly and singular, not become a renewable resource.",
+      "final_sha": "f6cc7064f43b5f2ef89d99cf987b9f03f0ede38dbd72829a4cb385363f25775d",
+      "before_words": 5086,
+      "after_words": 5313,
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/README.md": "661bf9b709fcc7957383447dea263b5a02e6ec7e8a49012074323e75bf3666ab",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98"
+      },
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md\n",
+        "sectfile": " 0.010  clean    96 grams  Operational Parameters\n 0.003  clean   301 grams  Combat Record\n 0.000  clean   904 grams  Activation Behavior\n 0.000  clean   290 grams  Warden Record\n 0.000  clean   280 grams  Appearance\n 0.000  clean   233 grams  이야기 (Narratio)\n 0.000  clean   224 grams  감각 묘사 (Flavor Text)\n 0.000  clean   198 grams  M.A.W. Equipment\n 0.000  clean   154 grams  이야기 보고 (Story Log)\n 0.000  clean   136 grams  관찰 기록 (Observation Log)\n 0.000  clean    98 grams  증언 (Testimonium)\n 0.000  clean    98 grams  Trivia\n 0.000  clean    75 grams  최종 관찰 (Final Observation)\n 0.000  clean    59 grams  SECC Classification\n 0.000  clean    48 grams  Origin\n 0.000  clean    46 grams  기록 (Registrum)\n 0.000  clean    22 grams  Behavior\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "fraction 0.0006230529595015577\nPASS\n"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_03_FATHERS_BROKEN_BOND.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-072_Fathers_Broken_Bond_%EC%95%84%EB%B2%84%EC%A7%80%EC%9D%98_%EB%B6%80%EB%9F%AC%EC%A7%84_%EC%B0%A8%EC%9A%A9%ED%8C%A8.md \"SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md\")]",
+      "table_link": "[Fathers_Broken_Bond](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-072_Fathers_Broken_Bond_%EC%95%84%EB%B2%84%EC%A7%80%EC%9D%98_%EB%B6%80%EB%9F%AC%EC%A7%84_%EC%B0%A8%EC%9A%A9%ED%8C%A8.md \"SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md\")",
+      "unit_commit": "00aeb1eff304ef3840cd5137e5a31a2fe81fa7fe"
+    },
+    {
+      "designation": "O-IVδ-515",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기.md",
+      "words": 5091,
+      "sha256": "c790b05e41b221bb023880b91db94e666cd2d325e7510966c66d70fc1003df25",
+      "name": "The Last Warmth of Forty-Two",
+      "unit": 4,
+      "status": "held",
+      "receipt": "B168_04_LAST_WARMTH_OF_FORTY_TWO.md",
+      "repairs": [
+        [
+          "## Appearance\n\n",
+          "## Appearance\n\n**A vessel for a collective farewell:** The source remains the slender quartz medicine vial, its badge-stamped lead-tin collar and frayed orange webbing, not a fused body made from the outriders. Their names, whispered layers and brief facial profiles locate the collective presence inside an object. The vial can be carried in its supporting cradle; circulation inside the glass is not the source walking or expanding across the cache.\n\n**Contained motion, not a second body:** Pale blue vapor keeps circulating rather than settling against the wall. High-speed images record fleeting crystals and facial profiles; those transient patterns are not a permanent frozen face, a settled sediment or a separate scout emerging from the glass. The routine warmth is the baseline, not by itself proof that the seal has begun to fail. Outer frost, a damaged collar and vented gas have their own contact or rupture conditions in the record.\n\n**Custody and irreversible release:** Support the glass from beneath rather than taking its weight on the fragile original wrap. The collar is not a sampling port. A shatter-strike releases the acoustic blizzard and spends the vial; quartz sand and webbing remnants are memorial remains, not a refillable container. The derived Lance, Parka and throat Badge have independent equipment forms and bearer costs, not new anatomical states of the bottle.\n\n"
+        ],
+        [
+          "The silver solder hums with body temperature",
+          "The lead-tin solder hums with body temperature"
+        ],
+        [
+          "- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.",
+          "- Inspect the collar and glass against their intact condition. The record distinguishes impact, outer frost and vented gas; a rising reading does not establish safe, controlled deployment or an unrecorded spatial expansion."
+        ],
+        [
+          "- M.A.W. extraction is derived from the residue left behind after controlled route termination or historical husk crystallization.",
+          "- The integrated M.A.W. profiles do not authorize harvesting the expended vial. Its activation record declares the remains inert and forbids extracting them again; the quartz sand and webbing have a memorial destination."
+        ],
+        [
+          "Escalation here has one shape and is not the standard breach event: the cradle begins to warm on its own.",
+          "Warmth alone is not an escalation signal: the vial remains warm across ambient conditions. Record changes to the collar, glass and vapor against that baseline rather than treating the normal warm cradle as a new breach."
+        ],
+        [
+          "**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.",
+          "**Response sequence:** Keep unshielded personnel clear and establish whether the glass and original collar remain intact. For intact custody, support the vial beneath, preserve the original webbing and return it to its heated cradle; do not cut, drill or sample the seal. A hair-fracture or vent is a rupture hazard, not permission to handle it for analysis. Authorized deployment is the deliberate single shatter-strike under the recorded encounter restriction. After discharge, account for the quartz sand and webbing for memorial interment and provide the operator's recorded grief care; do not refill, repair or extract the remains. Viderehan and Ferrehan remain the only Work Types."
+        ],
+        [
+          "Operator emotional resilience audit, suit thermal insulation check, quartz crystal clarity.",
+          "Operator emotional resilience audit, suit insulation and quartz clarity; inspect the Lance and support the relic beneath rather than by its webbing. Record squad separation separately from the vial's custody state."
+        ],
+        [
+          "Ambient frost radius, target stasis duration, squad vocal cadence monitoring.",
+          "Ambient frost radius, target stasis duration and squad vocal cadence; distinguish Lance frost breath, Parka fear of separation and Badge parting-tears from the vial's quiet chorus. Do not infer that gear use has shattered or refilled the source."
+        ],
+        [
+          "Operator core body temperature, crying duration, crystal stress fractures.",
+          "Operator core temperature, crying duration and crystal stress; note the Parka shield condition separately from the source's one-use discharge. The Badge's warming protection is not permission to open the collar or rough-handle the vial."
+        ],
+        [
+          "Psychological grief debrief, thermal chamber re-warming, medical tear-duct examination.",
+          "Psychological grief debrief, thermal re-warming and tear-duct examination. Record which equipment cost followed use, separately from grief after source deployment; spent source remains go to the Memorial Wall, not the equipment service bench."
+        ]
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/README.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md"
+      ],
+      "reasoning": "Complete416-line original and embedded gear read: Object-Lament of collective solidarity, slender warm quartz vial and original lead-tin badge seal/webbing, internally circulating vapor not organic people-body. Whole chain includes glacier event, sensory chorus/transient microcrystals, carried stationary artifact, handling from beneath, Work/gloves/short rotation, hair-fracture/controlled shatter and inert memorial remains, gear costs and neighbor interactions. Scope distinguishes baseline warmth from escalation, original collar versus silver, contained motion/source state and derived gear; rejects repeated residue extraction and gives exact-state response and piece-specific FieldUse.",
+      "history": "Full Codex README names515 integrated A-Relic; no external exactA–D. Exact Source/title/Lance/Parka/Badge searches of Registry/archetype/Master found no matching equipment rows. Entity593 corroborates warm-vial/final-breath origin and2-turn stasis; disposition128 matches FrozenShard stabilization. B37unit8 archived final-observation/structure cleanup read and B65 zero-couple claim inspected: the latter says515 cleared without being edited, not a source disposition. git primary only baseline10cd20a. No equipment uniqueness credit proven, conservative+0/+0. First validator pass caught newly authored Monitor-the stock prefix (RESIDUAL1); replaced with Inspect-the, unchanged meaning, then all five rerun. No failing draft pushed.",
+      "summary": "Ten repairs add specific vessel/chorus/transient-profile/custody/release distinctions; correct silver to lead-tin; remove generic expansion and spent-husk extraction claims; identify ordinary warmth as baseline; replace generic response with intact/ruptured/spent handling; individualize all four FieldUse stages by piece cost and memorial destination.",
+      "holds": [
+        "Formation4188 plus seventy-year salvage delay exceeds document4238; no altered year or invented later edition.",
+        "Single-use vial versus3/5/7 Use headings and operational testimony lack instance or simulation provenance.",
+        "Uncontrolled rupture freezes all life versus hostile-only controlled stasis, gauge-triggered vent/impact trigger and never-disturb seal versus authorized destructive deployment require explicit scope/state evidence.",
+        "Source custody/no-ceremony names versus eventual full military-honors interment can concern different states, not automatic contradiction; transient crystals versus perpetual vapor can coexist, and equipment silhouette/scale differs legitimately."
+      ],
+      "final_reasoning": "HELD: warm intact vial versus internally moving chorus/conditional rupture and spent memorial remains are explicit, no source locomotion or donor anatomy invented. Chronology, repeat-use provenance and release targeting/authorization still prevent whole-file completion; no new equipment credit or body credit.",
+      "commentary": "A warm medicine bottle is more affecting than an ice giant here. The orange webbing and practical words before the farewells keep the forty-two people present without reducing them to faces on a weapon. I kept that intimacy while separating custody from expenditure.",
+      "final_sha": "71cc582217a285637227bf4b1f94eda054783a525edd86943087bd0e6eb218c5",
+      "before_words": 5091,
+      "after_words": 5519,
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/README.md": "661bf9b709fcc7957383447dea263b5a02e6ec7e8a49012074323e75bf3666ab",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98"
+      },
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기.md\n",
+        "sectfile": " 0.011  clean    94 grams  Operational Parameters\n 0.004  clean   240 grams  Combat Record\n 0.000  clean   712 grams  Apex Record\n 0.000  clean   483 grams  Activation Behavior\n 0.000  clean   320 grams  Appearance\n 0.000  clean   291 grams  M.A.W. Equipment\n 0.000  clean   244 grams  이야기 (Narratio)\n 0.000  clean   231 grams  감각 묘사 (Flavor Text)\n 0.000  clean   166 grams  이야기 보고 (Story Log)\n 0.000  clean   130 grams  관찰 기록 (Observation Log)\n 0.000  clean   106 grams  증언 (Testimonium)\n 0.000  clean    95 grams  Trivia\n 0.000  clean    87 grams  최종 관찰 (Final Observation)\n 0.000  clean    74 grams  SECC Classification\n 0.000  clean    48 grams  기록 (Registrum)\n 0.000  clean    45 grams  Origin\n 0.000  clean    23 grams  Behavior\n 0.000  clean    12 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "fraction 0.0006053268765133172\nPASS\n"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_04_LAST_WARMTH_OF_FORTY_TWO.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-515_The_Last_Warmth_of_Forty-Two_%EB%A7%88%ED%9D%94%EB%91%98%EC%9D%98_%EB%A7%88%EC%A7%80%EB%A7%89_%EC%98%A8%EA%B8%B0.md \"SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기.md\")]",
+      "table_link": "[The_Last_Warmth_of_Forty-Two](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-515_The_Last_Warmth_of_Forty-Two_%EB%A7%88%ED%9D%94%EB%91%98%EC%9D%98_%EB%A7%88%EC%A7%80%EB%A7%89_%EC%98%A8%EA%B8%B0.md \"SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기.md\")",
+      "unit_commit": "46155b71560220844835661e00439d0a7ba64bbe"
+    },
+    {
+      "designation": "O-IIβ-914",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-914_Amnesia_잊혀진_일분.md",
+      "words": 5131,
+      "sha256": "4ecf45d30014df0f2aad9666878b362090966a6add09bdb6024466ba9f76578b",
+      "name": "Amnesia",
+      "unit": 5,
+      "status": "held",
+      "receipt": "B168_05_AMNESIA.md",
+      "repairs": [
+        [
+          "**Time** — Can breach via Transform",
+          "**Time** — Breach expands the affected radius; no body transformation is recorded"
+        ],
+        [
+          "| **Threat Role** | Sovereign encounter |",
+          "| **Threat Role** | Moderate temporal/identity hazard; not a Sovereign classification |"
+        ],
+        [
+          "- A cycle lowers the gauge and shortens nothing. The minute has run 61 times in eleven years and has been between 1159 and 1200 on every one of them, to the second, by three independent clocks that do not otherwise agree.",
+          "- A cycle lowers the gauge and shortens nothing. The series contains 61 occurrences in eleven years, ordinarily between 1159 and 1200 by three independent clocks that do not otherwise agree. The chair incident and Sorrow Tide duration are recorded exceptions, not evidence that Work can shorten an occurrence."
+        ],
+        [
+          "## Appearance\n\n",
+          "## Appearance\n\n**A timed absence, not an invisible body:** There is no source silhouette, voice or skin to describe. During the ordinary minute, affected people keep walking, writing or holding a door, yet lose access to their name, face and immediate intention during the interval. Their continuing bodies are subjects within the effect, not the entity's anatomy. No human origin has been established; the unrecorded event is not filled by inventing a forgotten victim.\n\n**The visible holding and its changing extent:** The line, chair, clocks, collection rack and name board are objects at the site. The chair predates recognition and is a prohibited anomalous position, not a demonstrated destructible source vessel. A boundary survey records the affected radius growing from its earlier extent without the epicentre moving. Clock agreement and the gauge are recorded readings; neither supplies a visible material body for the minute.\n\n**Ordinary timing, exceptions and equipment:** The usual end is followed by the roll call; completing that roll is not the instant the minute itself ends. The chair and Sorrow Tide accounts preserve exceptional durations rather than a new bodily form. The sea-pike, near-colourless Veil and etched glass Token are derived pieces. Permanent intention loss in their wielders is recorded separately from the complete recovery reported after direct exposure, and no gear use licenses entry or proves a human formation event.\n\n"
+        ],
+        [
+          "Nothing visible, nothing audible, no temperature change and no instrument reading of any kind.",
+          "No visible body, audible source or temperature change. The clocks and gauge do produce readings; neither is a direct picture of the identity loss."
+        ],
+        [
+          "Amnesia has broken free. The void void spreads.",
+          "Amnesia has broken free. The nameless minute takes a wider radius."
+        ],
+        [
+          "The entity's void influence expands beyond its registered area, corrupting everything it touches.",
+          "The affected radius expands outward from the same epicentre. Survey its edge after the occurrence; the record does not establish damage to every object within it."
+        ],
+        [
+          "Void pressure radiates — the void register makes it personal, targeted, unavoidable.",
+          "Identity loss affects everyone inside the radius without selection. Being told a name during the minute does not restore it and has permanently widened the affected area."
+        ],
+        [
+          "- **Containment priority:** Physical suppression required.",
+          "- **Containment priority:** Remain outside the surveyed line, do not tell anyone inside who they are during the minute, then complete the roll call and survey. Do not cross the line or strike the chair as an improvised suppression step."
+        ],
+        [
+          "The radius has not changed.",
+          "The radius has grown permanently across the recorded series; compare each survey with the preceding one rather than treating the current line as its original extent."
+        ],
+        [
+          "That record keeps two tallies and refuses to reconcile them;",
+          "That record reconciles two independent tallies without averaging or correcting them;"
+        ]
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/914_Amnesia/SE-914-A__SIDE_CODEX_Amnesia.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/914_Amnesia/SE-914-B__MAW-W_Amnesia_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/914_Amnesia/SE-914-C__MAW-S_Amnesia_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/914_Amnesia/SE-914-D__MAW-G_Amnesia_s_Token.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md"
+      ],
+      "reasoning": "Complete345-line original read, all exact914A–D and relevant shared rows/history. Time-Void is nonbodily loss of self in a fixed radius, not victims as anatomy or chair as donor vessel. No human/event identified; the recognition corrected ambient filing. Whole chain includes nominal minute versus chair/Tide exceptions, apparatus/three clocks/gauge, permanent radius expansion by naming, line-only Work/roll call, gear carry costs separate from direct recovery, paper-only comparisons. Scope fixes transformation/Sovereign labels, unqualified timing/no-readings and unchanged-radius claims, doubled quote, blanket-corruption/targeting rows, physical suppression directive and Allhallow reconciliation; concrete state/extent/gear account.",
+      "history": "Full914A–D exactO-IIβ-914: Btitle/Pike appearance matches primary though A/Bbody still AmnesiaEdge; βVoid11–22 Normal2 Short2 Single100%,4/25; C1/1/.3/.8,4/20; DHead5%+1. Registry1015–1018 partial; archetype374 same-title Long conflicts with exactShort but Master613 explicitly belongs to separate O-IIIγ-914 Driftglass γLament. Inspected1040 source-designation fields only to exclude other source; no full1040 read claimed. Entity359 awaits row; disposition362 no-harm/radius record. B43unit5 full archived interactions/condition paragraph and B67unit2 testimony/trivia read, B45unit2 quote search. git exact-primary only baseline10cd20a. No unique additional coverage proven, conservative0/0; do not borrow Driftglass credits or body. Closure reread caught an ambiguous newly authored afterward in the Appearance access-loss sentence; corrected to during-the-interval, preserving complete direct recovery separately from gear costs. Same-unit correction earns no extra review or credit.",
+      "summary": "Eleven repairs distinguish temporal identity-loss phenomenon/apparatus, ordinary minute and exceptional durations, expanding radius at fixed epicentre, readable clocks/gauge without visible body, uniform rather than selected effects, no physical suppression and proper independent-tally reconciliation.",
+      "holds": [
+        "VesselDestructible/drop still lacks a physical source target; chair is not proved to be the vessel.",
+        "Universal normal timing statements remain elsewhere against chair/Tide exceptions; onset/no warning versus1158 warning and clock elapsed-time account require exact state reconciliation.",
+        "Work-from-outside since4228 and the4230 interior witness must be read as distinct scopes, not assumed contradictory; entry incidents are not proof of authorized inside Work. The61-minute/eleven-year chronology and noninjury record versus damaging action values still lack explicit conversion.",
+        "Source title Edge/Pike and local selective-intention ability versus Bgrief-cutting, Short versus Long archetype and new-bearer-site corrosion versus fixed epicentre lack a shared-state bridge; MasterDriftglass is another designation."
+      ],
+      "final_reasoning": "HELD: explicit nonbodily identity loss, fixed epicentre/growing radius, ordinary timing versus exceptions, apparatus and recovery-versus-equipment costs are improved. Remaining vessel, timing, entry chronology and item behavior conflicts prevent whole-file completion; no anatomy inference from gear and no human origin invented.",
+      "commentary": "The kindness that makes the boundary grow is the important cruelty here. The board and grease pencil give that problem a practical shape without painting an invisible monster. I kept the difference between waiting out the minute and helping people recover afterward.",
+      "final_sha": "b1b6ab2eb47cbc18f38417b8b09864595b66d3b7f9989d14cfc67f5e478d40b8",
+      "before_words": 5131,
+      "after_words": 5469,
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/914_Amnesia/SE-914-A__SIDE_CODEX_Amnesia.md": "d1ebb1c80344b8cf66e6197389e5e79659cb9a1d67a05a6867b5062f58835fb6",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/914_Amnesia/SE-914-B__MAW-W_Amnesia_s_Edge.md": "9e2d502c1599fa3c4dbb57abbc1c0106679189f78b5e50513a5cc2e74e56f0b8",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/914_Amnesia/SE-914-C__MAW-S_Amnesia_s_Veil.md": "cda592c1bb8cf0f3694a88ee295f4a7eb9ffd46d3f7bf7bf0e88e5cf4d65b6ea",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/914_Amnesia/SE-914-D__MAW-G_Amnesia_s_Token.md": "1be3b20a0bf790619d469f2c81cea3fee016f4b3e2ec0bc7089df7c45cccbd22",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98"
+      },
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-O-IIβ-914_Amnesia_잊혀진_일분.md\n",
+        "sectfile": " 0.006  clean   479 grams  M.A.W. Equipment\n 0.004  clean   519 grams  Combat Record\n 0.000  clean   398 grams  Appearance\n 0.000  clean   353 grams  상호작용 (Entity Interactions)\n 0.000  clean   236 grams  이야기 보고 (Story Log)\n 0.000  clean   228 grams  Watch Record\n 0.000  clean   224 grams  기록 (Registrum)\n 0.000  clean   219 grams  Operational Parameters\n 0.000  clean   190 grams  감각 묘사 (Flavor Text)\n 0.000  clean   168 grams  Origin\n 0.000  clean   161 grams  이야기 (Narratio)\n 0.000  clean   149 grams  Breach Behavior\n 0.000  clean    96 grams  증언 (Testimonium)\n 0.000  clean    92 grams  관찰 기록 (Observation Log)\n 0.000  clean    67 grams  Trivia\n 0.000  clean    54 grams  Behavior\n 0.000  clean    35 grams  최종 관찰 (Final Observation)\n 0.000  clean    31 grams  SECC Classification\n 0.000  clean    13 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "fraction 0.0013679890560875513\nPASS\n"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B168_05_AMNESIA.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IIβ-914_Amnesia_잊혀진_일분](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-914_Amnesia_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%BC%EB%B6%84.md \"SE-O-IIβ-914_Amnesia_잊혀진_일분.md\")]",
+      "table_link": "[Amnesia](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-914_Amnesia_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%BC%EB%B6%84.md \"SE-O-IIβ-914_Amnesia_잊혀진_일분.md\")",
+      "unit_commit": "f0dbbb49c7d96480aa1e0069edef148717fafcd0",
+      "initial_unit_commit": "3640c446fa67c719d95b568c9207322310ad8a81"
+    }
+  ],
+  "closure": "B168_CLOSE.md",
+  "checks": "25 fresh validators and54 tests PASS",
+  "words": [
+    25195,
+    26779
+  ],
+  "repairs": 46,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  }
+}

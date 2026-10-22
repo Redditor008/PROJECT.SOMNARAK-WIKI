@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Mind |
 | **Physical Form** | Non-Organic — A submerged presence inside consciousness — perceived as a voice beneath dark water, calling from far below. Salt-cold, it smells of cold rain; no body, only the slow muffled cry rising from the deep. |
-| **Movement** | Mobile — drifts or flows through the area. |
+| **Movement** | No visible travelling body. Calls are located by the listener and, during breach, by reception on the tunnel communication circuit. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Time the interval, say the thirty-one names, and acknowledge each call aloud as it arrives — *heard* is the word the station uses. Viderehan and Ferrehan only. Nobody raises their voice. |
+| **Recommended response** | Time the interval, say the thirty-one names, and acknowledge each call aloud as it arrives — *heard* is the word the station uses. Use calm acknowledgment and Ferrehan with the voice and air anchors; Flerehan is also a recorded decreasing response. Viderehan is Stable, not a substitute promise to lower the Gauge. Pugnahan raises it. Nobody raises their voice. |
 
 ### Operational Notes
 
@@ -50,8 +50,8 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Lament. There is nothing present to resist — no water, no figure, no instrument reading — and the only physical equipment this holding requires is a watch. |
+| **Speed** | 1.45 m/s — listed parameter without an observed body or measured traversal to attach it to; do not use it to plot a swimmer’s route |
+| **Resistance** | 25% against Lament. There is nothing present to resist — no water, no figure, no instrument reading — and no bodily target is supplied by this resistance percentage. Carry the watch and the prescribed air bottles; the absence of physical floodwater does not cancel the breathing protocol. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Han Pressure [ATK]** | 10–23 per hit · Lament |
@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** The party reaches the lower cut, starts the watch, and waits for the first call. Nothing is set up and nothing is deployed; the preparation is that everybody has read the shift list and can pronounce all thirty-one names.
+1. **Tension:** At the dry lower cut, check current air and the external voice anchor, carry the prescribed bottles and start the watch. Read the shift list beforehand so every name can be pronounced. These present-day checks are not a deployment of rescue equipment against the historical flood.
 2. **Clash:** The work is answering. Flerehan is saying aloud that the call was heard and lowers the reading; Ferrehan is staying on the slate until the cry's interval lengthens; Pugnahan is shouting back into the memory and raises it. Nothing is promised. The one forbidden act is to answer with a rescue the team does not intend to attempt.
 3. **Resolution:** Every call heard during the cycle is acknowledged aloud and the names are read. The gauge falls with the count of acknowledgements, one point each, which is the plainest arithmetic in the archive and the reason the cycle length is set by the tunnel log rather than by the clock.
 
@@ -97,6 +97,13 @@
 - An unacknowledged cycle does not breach. The interval lengthens by a second or two and the next cycle opens higher, and the lengthening has never reversed.
 
 ## Appearance
+
+**No swimmer beneath the floor:** The Subject-Mind is experienced as a cry below dark water, in a tunnel whose present air and clothing remain dry. Its depth is perceived, not a measured waterline or the position of a hidden human body. The historical drowning supplies the sorrow; no additional drowned figure, swimming anatomy or visible flood is required for the current presence. Describe what the listener experiences without turning it into a camera view.
+
+**Calls, circuit and memory:** Pressure readings are retained separately from the unrecordable voice. A slate preserves the listener's timing and account, not a captured audio track. Nearby living speech can acquire the submerged quality; that change does not make those speakers new source bodies. During breach the circuit carries the cry to reception points, not a stream of actual water along the cable. The changing interval remains a disputed indicator in this file, not a visual size or a settled safety test.
+
+**Derived objects:** The longsword, Shroud and Bell are equipment with visible surfaces of their own. Their solidity is compatible with an incorporeal donor. The longsword and the exact Requiem's diving-bell outline still lack a same-item transition; neither object supplies missing source anatomy.
+
 **Primary Form:** A submerged presence in consciousness, perceived as a voice beneath dark water. It has no physical body.
 
 **Notable Features:** It communicates through pressure, carries drowned memories, and makes spoken words feel underwater.
@@ -190,7 +197,7 @@ Cold seawater constantly sweats from the fuller grooves, pooling along the quill
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a shroud that hangs heavy as though wet and is dry to the touch, and that moves slightly out of time with the wearer.
+**Appearance:** a shroud that hangs heavy as though wet and is dry to the touch, and that moves slightly out of time with the wearer. Its individual record identifies blue Han-silk with a dry breath line; the remembered water is not an instruction to soak that line.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -203,6 +210,8 @@ Cold seawater constantly sweats from the fuller grooves, pooling along the quill
 **Ability:** Turns Lament aside from the mind, which is the only register this holding occupies. What it buys is the hour it takes for the interval to be measured properly, and nothing else; it does not make the voices easier to hear.
 
 **Cost:** The wearer goes numb to minor joys, and hears their own speech as if it were coming from the next room.
+
+**Shroud anchor and care:** Bind only with an external voice anchor and a current air check. Inspect the dry breath line before wear, then dry the piece in open air while a partner confirms the wearer's present breathing rhythm. The recorded failures are treating memory as physical water, an anchor who shouts, and following an unreachable call. Resistance is not permission to enter the remembered inundation or dispense with the partner.
 
 ### M.A.W. Stigma — The Drowned Bell
 
@@ -219,6 +228,8 @@ Cold seawater constantly sweats from the fuller grooves, pooling along the quill
 **Cost:** The wearer hears calls from people who cannot be reached.
 
 *The stigma is not manufactured. It is given to a Warden who answered the call without offering anything, and has never been given to one who told it that help was on the way.*
+
+**Bell channel and care:** The individual Stigma record makes it a hot-blue Tail bell carrying one voice as pressure through submerged or sealed space. Keep two entries: the call acknowledged and the call for which no action was possible. Unreachable voices must not drown out current speakers. Its channel is not a license to shout into the memory or promise every caller rescue. The silent clapperless object and the reported hearing are logged separately; a perceived ring does not supply a recovered audio recording.
 
 ### M.A.W. Use Notes
 
@@ -293,7 +304,7 @@ Your ears fill with water though your clothes remain dry. A voice speaks beneath
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Lament pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Mind resolve into something you can name. A submerged presence in consciousness, perceived as a voice beneath dark water. It has no physical body.
+**At first contact:** The tunnel remains dry and there is no figure for the eyes to resolve. The call feels below you and under water; the pressure and the altered quality of nearby speech are the reported signs. Write the first interval on the slate without describing an unseen body as if it had been observed.
 
 **With continued exposure:** You start to tell them apart. By the third cycle the voices are individuals, and by the tenth a Warden can say which of the thirty-one is calling; the station regards that as competence and schedules around it, because a party that cannot tell them apart cannot acknowledge them properly.
 
@@ -352,9 +363,9 @@ Some sorrows mourn the drowned. Drowned Echo mourns the calling — the voices t
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. Nine years, 188 cycles, four chorus events, fourteen strikes, no fatalities and no lasting injury — against thirty-one people who called from under the city and an interval that has grown from eleven seconds to forty.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Check current air and keep the voice anchor calm; use the slate for operational messages when living speech starts to sound submerged.
+- Keep a named operator at the board. Log and acknowledge every call, including a call for which no rescue will be attempted.
+- Do not clear the comms room or close the circuit to stop the cry; preserve both the live-call record and the entity interval so one is not discarded as the other.
 **Observation Notes:**
 - See Origin section for formation and event details.
 - See Combat Record for engagement history.

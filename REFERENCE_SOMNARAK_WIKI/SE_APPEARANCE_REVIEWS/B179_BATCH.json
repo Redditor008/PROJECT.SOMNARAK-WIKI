@@ -1,0 +1,176 @@
+{
+  "batch": 179,
+  "status": "OPEN",
+  "required": 5,
+  "completed": 1,
+  "no_change": 0,
+  "units": [
+    {
+      "designation": "N-Iα-519",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗.md",
+      "words": 7027,
+      "sha256": "ace77a9eed469130187adbf6bab1218d7f3cee380b8a4e12646c19dca52149b2",
+      "unit": 1,
+      "name": "Mourning a Life I Never Lived",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_01_MOURNING_A_LIFE_I_NEVER_LIVED.md",
+      "before_words": 7027,
+      "after_words": 7350,
+      "base": "3c23fb5dc9762622e6fba1ff350f729056ef6395",
+      "final_sha256": "b7051e63a758d2f3bcc7b281b4b03adb9890796f3b6beea3320cdeebb6a82663",
+      "summary": "Nine supported repairs replace unspecified creature gaits with documented low tendril flow, restore movement information in two pasted-form fields, align activation with Place-Grudge, distinguish floor exposure from unrecorded planting inside personnel, replace generic landscape/surge claims with measured intention-driven growth and its conditional actions, explain the source-body boundary, and separate all three equipment costs in field records.",
+      "commentary": "The low root-star makes the imagined life tangible without giving the mourner a substitute human body. I find the hard sentence at withdrawal effective because it can be true without making the grief false. The roster-office response is especially sharp: an institution can keep a future open as carelessly as a person can.",
+      "reasoning": "Subject, ResidueI and Minorα with Place-Grudge/Void are expressly joined by the exact Side A; unusual labels alone do not justify reclassification. The supported design is a seed-shaped absence plus a low dark root-star net, ash-smelling and bloodless-cold, visibly flowing along floors without a stem/leaf. No whole-body transformation from the citizen is stated: the Tale says her grief sank into the ground and crystallized. Earlier imagined partner/home/child are contents of a plan, not missing limbs to reconstruct in the source. The physical/abstract mixed organisation and simple spreading motif are valid nonhumanoid sorrow. Standard observations measure edge extent, with rare recorded retreat on naming absence, while combat gives actual release/germination/forced-bloom/Garden triggers. Those named conditional actions are preserved, not assumed ordinary botany. Core fixed-position/noSpeed and mobile floor-creature accounts still need supported scope. Influence through memory and plans is not automatically the same event as erasing literal flooring or taking memories. The low source does not have to look like its derived Glaive, Veil or head-seed; that is not why the same-Weapon Glaive/Lens conflict remains held. Neutral under R19 retained: two pairings are documentary and MemoryWell joint encounter has flat gauges, not shown aid/suppression. The final whole-design outcome is HELD, not independently completed.",
+      "history": "B124 unit1 402d01ecf52512f016240161fa30a13e2984c6bc and evidence follow-up b9907383c40dc41ed4659cb1b6afa7581b3c4f99 already credited the full exact set and SE519B/MAW-W519-01 Weapon pair. Current WIP B124 opening/pair-history/unit1 evidence reread; exact commit hashes expanded. The empty newer equipment_reviews array entry is not fresh coverage. +0Types/+0Weapon/+0SE. B124 corrections keeping unidentified losses unidentified and avoiding invented severity order remain intact.",
+      "holds": [
+        "Physical Form/Appearance/Breach describe a mobile low floor-creature and leaving the vault; CoreSpeed says fixed object, with operational EntityRole/Work/Trivia calling it Object/Place while header and exactA say Subject. ExactA expressly supports Subject/Place-Grudge and two WorkTypes, so this is not an automatic type-label repair. The relation between rooted extent, active edge and whole-body relocation remains unestablished. No rooted/detached phase or invented state change added.",
+        "Ordinary floor is cleaner beneath tendrils and the whole tale/observation is root-shaped absence without a physical plant; CombatSproutingNothing/Bloom/Garden explicitly erase floor/portions and scatter germinating seeds. These are documented conditional actions, not automatically ordinary plants or imaginary damage. Their relation to the vault floor and remaining edge is not supplied; no reversible floor-restoration or harvesting mode invented.",
+        "DetailedActivation says memories intact and no drain, while BreachEffect/Secondary erase identity/names/faces and CombatBloom thins an account. State-specific differences may be valid, but their permissions and retained thresholds must not be flattened into universally harmless revelation or universal amnesia. Flavor says source takes nothing; Weapon and Stigma have real separate costs. No donor-cost equivalence assumed.",
+        "Source baseline time-in-vault costs nothing and30shift no-spoken-intention growth=nil coexist with RegistryTrivia growth in empty sealed vault from work elsewhere and Review unassignedinstitutionalwork. That may be an institutional extension, but no scope rule says when unspoken external intentions contribute. Gauge45%, Garden65%, no breachcounter and drain+5/Gauge+10 per spokenplan are distinct unchanged fields, not merged into one invented trigger.",
+        "SECC/Story/SideA and primary field detail locate AlphaTreeVaultZoneA andComprehension1; primaryRegistrum and standaloneTale193 say ZoneD/Comprehension2. No transfer date or knowledge-stage chronology resolves them. SpreadingSeed is joined by exactN-Iα-519 identity, not assumed a separate source, and no false numeric519 crosscredit.",
+        "Primary and Master index identify SowingGlaive/crescent polearm; exactA/B/CSV and Masterdetail identify EmptyLens/paleHan-glass lens. SameWeapon has no form/mode crosswalk. PrimaryShort2 versus Instantarchetype unresolved. Primary broadblade sweepingcrowds versus Single/one designatedtarget/one-hit application remains an unscoped appearance/action claim; no AoE or multiple-target mode added.",
+        "Glaive causes doubt about genuine remembered events and loses small namelessmemories; exactLens removes only a false-memory claim and spends one namelesspersonalpossibility. Existing B124 purpose/issued-effect distinction is preserved, not converted into proof of recovered false history. A realmemory misclassified is expressly a failure. Victim doubt is not verification.",
+        "MasterSuit bucket LivingChitin/Carapace versus matched primary/itemHan-gossamer Veil has no construction crosswalk. Root-weave/presentidentityline can be details of a veil, not another donor anatomy; pale versus colourless descriptions alone need not hold it. PrimarycoldVeil and warmidentityline may concern different parts; do not invent thermal mechanism. StigmaHead5%+1Composure matches exactA/D; no repeat bonus repair needed.",
+        "The source says a future never happened; the exposed researcher says it never could have been possible, while the exactSeed checks real appointments/deposits/persons and preserves ambiguity. Nonoccurrence does not prove impossibility. The withheld sourceplan must not be reconstructed or supplied to vaultstaff; existing printed generic Tale examples are not proof of private original contents. No guessed biography or binary verdict added."
+      ],
+      "split": [
+        7,
+        2
+      ],
+      "repairs": [
+        {
+          "kind": "short",
+          "old": "| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |",
+          "new": "| **Movement** | Mobile — the low net flows across floors on its root-tendrils. Track the edge against the vault markings; the documented reach stays low, rather than walking upright or rising into a stem. |",
+          "evidence": "Appearance PhysicalForm/Movement and protocol, BreachMovement and ObservationInitial explicitly low flowing net; remove list of unevidenced alternative gaits without changing Physical Form."
+        },
+        {
+          "kind": "short",
+          "old": "- **Position / movement:** Physical Form: A small seed-shaped absence that spreads through the floor as a dark root pattern.",
+          "new": "- **Position / movement:** The root-tendril net spreads and flows across floor surfaces, remaining below ankle height. Record its widest extent and the edge against the vault markings, not a duplicated form label.",
+          "evidence": "Appearance firstline/protocol and Observation Initial already specify tendril-flow, extent, lowheight; repair position field pasted fromForm."
+        },
+        {
+          "kind": "short",
+          "old": "| **Position / movement** | Physical Form: A small seed-shaped absence that spreads through the floor as a dark root pattern. |",
+          "new": "| **Position / movement** | A low net of tendrils flowing across the floor; measure its widest extent against the vault markings and record whether the edge advanced or retreated during the watch. No stem or leaf marks an upright position. |",
+          "evidence": "Appearanceprotocol plus Observationmethod and StoryEntry3 include both advance and actual rare retreat; no new gait or invented regression cycle."
+        },
+        {
+          "kind": "short",
+          "old": "| **Manifestation** | Place-Void|",
+          "new": "| **Manifestation** | Place-Grudge, expressing Void as recorded in the SECC classification, Story Entry and Tale. |",
+          "evidence": "SECC/StoryEntry1/primaryTale and exactSideA explicitly PlaceGrudge, with Void as Element; correct the activation summary rather than reclassifySubject."
+        },
+        {
+          "kind": "short",
+          "old": "> *\"Mourning a Life I Never Lived has broken free. Plants itself in personnel, growing within.\"*",
+          "new": "> *\"Mourning a Life I Never Lived has extended beyond the vault. The low net crosses the corridor floor; personnel are exposed by standing within its extent. Record the edge and the unfinished plans, not an unrecorded planting inside a body.\"*",
+          "evidence": "BreachMovement says net flows acrossfloor/doesnotriseorstrike/standingextent; no intrabody seed state given. Distinguish person effects from physical planting, no surgical mode."
+        },
+        {
+          "kind": "short",
+          "old": "**With continued exposure:** Prolonged exposure turns the containment zone into a landscape. The Void has topography here — ridges of pressure, valleys of absence, a geography only the Place-Grudge could have made.",
+          "new": "**With continued exposure:** The measured change follows unfinished intentions, not time in the vault. A handover can lengthen the net without a work cycle taking place; compare the tape with what the shift said it meant to do. A quiet hour is not a full-shift baseline, and an imagined landscape is not a measured change in the floor.",
+          "evidence": "CombatConsequences,30shift StoryEntry2 and Interactionmethod establish intention notclock/noWorkneeded/fullshift control; replace generic unmeasured terrain claim, preserve individual visions."
+        },
+        {
+          "kind": "short",
+          "old": "**When the entity activates:** The Gauge crosses the line and the Place-Grudge remembers what it is. The Void surges — not as an attack but as a statement, a declaration that this sorrow will not be quieted.",
+          "new": "**When the entity activates:** Record what unfinished intention was spoken, by whom, and where the edge reached against the vault markings. Growth is entered as an extent, not a declaration. A Seed release, germination, volley or forced bloom has its own listed trigger; a Gauge reading alone does not establish which action occurred.",
+          "evidence": "DetailedActivationreportingorder/StoryEntry2/control and CombatActions distinct listedtriggers; replace generic universallynonattack surge without erasing documented conditional actions."
+        },
+        {
+          "kind": "careful",
+          "old": "**Notable Features:** It reveals empty spaces rather than filling them and grows without producing a plant.",
+          "new": "**Notable Features:** It reveals empty spaces rather than filling them and grows without producing a plant.\n\n**Reading the net:** The low root-star shape is the current form, not a miniature person living the citizen's unrealised life. The Tale gives grief a seed-shaped absence in the ground; it does not say the mourner's body became the creature. Follow the visible tendrils, the seed-shaped absence and the floor beneath them as separate observations. The ordinary account has no stem or leaf, while the combat list separately describes germination, holes and a forced Void bloom; those named actions do not establish an ordinary flowering plant. The file also calls the source mobile and calls its combat position fixed. Neither a moving edge nor a growing affected extent alone settles whether the whole form relocates. Keep that relationship open instead of inventing a rooted phase, a detached body or a transformation between them.",
+          "evidence": "Whole chain SECC current mixed lowcreature/PlaceGrudge, origingriefcrystallization nothumantransformation, ordinarynostemleaf, conditionalCombat, fixedSpeedcontradiction. Concrete subject/state boundary; no additional anatomy, scale, mode or permissions."
+        },
+        {
+          "kind": "careful",
+          "old": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, the day's reading, and a written baseline of the wielder's own plans for the month, held by somebody else and not shown to them — on this set the cost falls on the reliability of that list rather than on the memory of it. |\n| **During use** | Watch for the toll's first sign — the wielder losing small nameless memories without noticing — and enter the hour the second worker first sees it rather than the hour the wielder first mentions it, which on every record kept so far has been never. |\n| **At limit** | The wielder stops noticing the toll, and the report they write reads as the work of somebody slightly less present than the person who began the shift. Every stand-down on this set has been called by the second worker on that reading. |\n| **After use** | Return the piece and put the question to a colleague rather than to the wielder: is the absence still showing? The answer is entered whether or not the wielder agrees, and on this set the disagreement itself has been entered twice. The seed’s pre-use outline is retained as evidence of the future spent; the weapon’s memory loss is entered only to the extent the second worker can evidence it against the baseline. An unidentified loss stays unidentified rather than receiving an invented outline or borrowed content. |",
+          "new": "| Stage | Required record |\n|---|---|\n| **Before use** | Name the wielder and piece, take the day's reading, and leave the written plan baseline with the second worker rather than the bearer. Keep its scope clear: the Glaive's nameless memory loss may be evidenced against that baseline, the Veil's cost is feeling absent to oneself, and the Seed spends one imagined future whose outline is recorded before use. Do not circulate the source citizen's withheld plan to fill a gap in the bearer's record. |\n| **During use** | For the Glaive, enter the second worker's first evidence of an unnoticed memory loss; a target's doubt is not proof that an event was imaginary. For the Veil, record greetings felt to belong to somebody else and inspect the present identity line before imagined roots. For the Seed, compare the spent future with its pre-use outline without forcing ambiguous evidence into a verdict. |\n| **At limit** | The second worker's stand-down call does not depend on the bearer noticing a cost. Record which piece was used and the actual sign: an evidenced memory loss, a weakened sense of present identity, or the Seed's spent possibility and its recorded failure signs. An unidentified loss remains unidentified; do not reconstruct a missing future or rank the Veil's failures by an invented severity ladder. |\n| **After use** | Ask the colleague whether the absence still shows and retain the answer even if the bearer disagrees. Keep the Seed's outline as evidence of the future spent, the Glaive's losses only to the extent evidenced, and the Veil's present-identity inspection separately. Issued equipment and a granted head-seed do not share an assumed return or removal procedure. No invented outline, borrowed memory or replacement fantasy closes an unresolved entry. |",
+          "evidence": "Exact519B memory/possibility cost distinction and documentedGlaive ambiguity, Cidentityinspection/cost, Dpreoutline/uncertainty/failure. Prior table wrongly applied weapon unnoticedmemories to every piece and allissuedreturn; preserve baselinewithsecondworker/noinventedlostoutline/B124followupconstraints."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.025  clean    81 grams  최종 관찰 (Final Observation)\n 0.020  clean   150 grams  기록 (Registrum)\n 0.015  clean   194 grams  Trivia\n 0.015  clean   132 grams  Operational Parameters\n 0.013  clean   607 grams  Combat Record\n 0.003  clean   696 grams  감각 묘사 (Flavor Text)\n 0.003  clean  1078 grams  M.A.W. Equipment\n 0.000  clean   400 grams  Appearance\n 0.000  clean   377 grams  이야기 (Narratio)\n 0.000  clean   321 grams  이야기 보고 (Story Log)\n 0.000  clean   303 grams  관찰 기록 (Observation Log)\n 0.000  clean   240 grams  Expansion Behavior\n 0.000  clean   193 grams  Breach Behavior\n 0.000  clean   180 grams  Origin\n 0.000  clean   176 grams  Behavior\n 0.000  clean    52 grams  증언 (Testimonium)\n 0.000  clean    26 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle, drawn from the edge of the net rather than from the seed, and\n   84   8  | { *The Void Garden* [**Ultimate**] } | \"The seeds cover everything, and where they bloom the world is not there anymore.\" | [The\n  222   1  **Ability:** Void damage to the soul rather than the body — to identity and to the sense of self. The glaive carries the holding's\n  244   2  **Cost:** The wearer feels faintly absent to themselves and reports it most often as other people's greetings seeming to be meant \n  325   2  > The choice at the end of a session is a sentence rather than a stroke: the worker either says plainly that what they were shown \n  357   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  412   3  **Review requirement:** Re-verify after any Sorrow Tide, after any expansion of the net, and after any roster change that leaves s\n  425   3  - **Record detail:** Check the designation before approach. More than one record in this vault involves seeds and they want opposi\nGENERIC 0.004  (23 shared shingles)  SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-A__SIDE_CODEX_Mourning_a_Life_I_Never_Lived.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-B__MAW-W_The_Empty_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-C__MAW-S_The_Empty_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-D__MAW-G_The_Empty_Seed.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-A__SIDE_CODEX_Mourning_a_Life_I_Never_Lived.md": "250da7fd2b6699acf49812f4158e82efe3e576b3e9f74c587986e614a18997a3",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-B__MAW-W_The_Empty_Lens.md": "4c226b8171b1f8687d5f2e8f00985d438492f9a9da16a321f76ce946061f7546",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-C__MAW-S_The_Empty_Veil.md": "8c4f9c8bbd2fa0cd33453df719ca18e2387a53211d6ebe7d3444336bdd5873e3",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-D__MAW-G_The_Empty_Seed.md": "829f8ab1fa4bf49148b97a6f68254007c50082a05cd6075fb9e33002063d72b5",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/README.md": "bc2786709b568403de4fd8a0454a432c3be8163facc66faf01ec07b981b49071",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-519_Mourning_a_Life_I_Never_Lived_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%94%A8%EC%95%97.md \"SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗.md\")]",
+      "table_link": "[Mourning_a_Life_I_Never_Lived](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-519_Mourning_a_Life_I_Never_Lived_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%94%A8%EC%95%97.md \"SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗.md\")",
+      "reading": {
+        "before_lines": 430,
+        "before_bytes": 41899,
+        "final_lines": 432,
+        "final_bytes": 43954
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 129,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 11
+      }
+    }
+  ],
+  "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_OPEN.json"
+}

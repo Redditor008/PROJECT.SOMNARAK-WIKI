@@ -1,0 +1,129 @@
+# Batch171 individual evidence
+
+## Batch171 unit1 — Eleven Fifty-Nine `C-IIIγ-912`
+
+[[SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-912_Eleven_Fifty-Nine_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md")]
+
+**Original/source review and predeclared R18 scope:** Full390-line original and exact912A–D read. City sorrow→bodiless TimeLament→publicclock versus externalclocks→simultaneous district grief and independent suppliedmemories→normal and explicit highGauge extended nights→stationary Work/roster/notes→portable derived set traced. R18 predeclared1batch-short/7careful-detail: own Recommendedresponse copied into ResolutionCondition; authored type, riskrole, visibleapparatus signature, three-subject profile, roster preparation, station-position instruction and itemcare. Conditional extended timing is documented, not an invented alternate body.
+
+**Sources/history:** B144unit3 130dbc5ead805aa7c470d792045fdbb8c6528ca0 complete history read, alreadyfullset/exactWeaponcredited; B1442shortmovement/notice preserved. ExactA–D4/4; CSV1007–1010, W912ClockFaceClose versus bladeShort2, disposition316Neutral. Master exactname/designation search no dedicatedMAW/Tale entry; Entity359awaitingrow. A/BγLament14–25 Normal2 Short2 Single100%4/25, C.3/1/1.2/.8 4/20, DHead5%+1 agree; sourceunknownformation preserved. Newreview+0/+0.
+
+**What changed:** Make the interval, visible clock marker, private grief accounts and derived objects distinct. Replace Sovereign/Transform shortcuts, repair preparation/station instructions, and put actual notification/outlasting into the Resolution row. Add source-specific costs, attribution and return care without inventing whose children the district remembers.
+
+**Final whole-file reasoning:** HELD: a district interval can be represented through witnesses and apparatus without a humanoid, and high-Gauge duration exceptions do not require a new silhouette. Remaining permission, timing and source-action mappings prevent whole-file certification. Equipment coverage already counted; no SE/art credit.
+
+**Holds / later recheck:**
+- Physical vessel/dust versus nonbody interval; A–D reduceGauge/isolate/interrupt versus primary unshortenable hour needs act/state mapping.
+- Ordinary609/611 and explicittwo0520highGauge exceptions are supported conditional durations, not an automatic body conflict; remaining always0400/nevervaried instructions and council notification timings still need coordinated scope.
+- Everypersonincludingasleep versus awake-only action scope; observerroster/independentnotebooks versus multipleobserverconvergence sampling not presumed same experiment.
+- Ownextraction outsidehour versus standardfacility0300operatingwindow; no invented exemption or cancellation. Chronology nineteenyears/sixyearstudy/operatingwindowtwelfthyear/fourthyear amendmentelevenreturns remains.
+- Primarypalecrystalblade versus clockfaceClose archetype; Cminutecost wording versus hour exposure and Bmidnightimagery versus namedclock/time distinction not silently normalized; Dsourceworkboon versus dutywindow not replaced.
+
+**Commentary:** The visible stopped dial works best as a marker, not as a creature. The untraced children are disturbing precisely because the archive is intact. Keeping their images separate from a manufactured founding disaster preserves the point of the investigation.
+
+**Checks and integrity:** Five actual verify/tpl/sectfile/wikistd/sect PASS, full final read after checks, final hash matches. 8 exact replacements; LC_ALL=C words6108→6491. Source hashes and unchanged digit streams retained. Detailed evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B171_01_ELEVEN_FIFTY_NINE.md`. Gate/push follows. Written-design review, not artwork/render/browser/game/live-site inspection. Equipment+0/+0;SE+0, no duplicate/retroactive/body/art credits.
+
+**Progress:** OPEN1/5, No change0/1. Three counters Types256/301=85.05%(45remain),Weapon256/287=89.20%(31remain),SE16/301=5.32%(285remain). No172/merge/deployment/artwork. Later full recheck and301eight-owner-body/one4+4/generate-before-copy blocker retained.
+
+## Exact replacements, fingerprints and actual outputs
+
+```json
+{
+  "designation": "C-IIIγ-912",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md",
+  "words": 6108,
+  "sha256": "ee4326ffdb55775322007487a012c156059a80c98d8c663a891ba86120ddf782",
+  "name": "Eleven Fifty-Nine",
+  "unit": 1,
+  "status": "held",
+  "receipt": "B171_01_ELEVEN_FIFTY_NINE.md",
+  "repairs": [
+    [
+      "**Time** — Can breach via Transform",
+      "**Time** — Simultaneous district interval; recorded breach extends the affected boundary without a travelling body"
+    ],
+    [
+      "| **Threat Role** | Sovereign encounter |",
+      "| **Threat Role** | Major shared-grief exposure, with cumulative effects on observers |"
+    ],
+    [
+      "| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |",
+      "| **Resolution Condition** | Viderehan and Ferrehan only; the entity is a Time and the other two Work Types are unavailable to it. No response shortens the hour. Notification given, and the hour sat through in place. |"
+    ],
+    [
+      "Lament. No visible, audible or thermal signature of any kind. What marks it is the Commons' public clock,",
+      "Lament, without a visible body, a source voice or a thermal outline. The visible timekeeping marker is the Commons' public clock,"
+    ],
+    [
+      "## Appearance\n\n",
+      "## Appearance\n\n**A district interval, not the clock's body:** The public dial stays at the named minute while external timepieces place the usual exposure in the small hours. Those are different readings on different apparatus, not evidence that a clock-shaped creature arrives. Observers, visitors and residents supply accounts of the grief; their shared onset is the identifying relation. No face or physical mourner appears at the sector marker.\n\n**What is remembered is not what is seen:** Water in a stairwell, an unrung bell and children belong to independently collected accounts. They are not a flood in the present street or a documented founding disaster. The intact municipal archive yielded no matching event. Keep the absent history open rather than putting children inside the clock or turning the visible dial into a memorial with an invented date.\n\n**Ordinary timing and exceptions:** The usual hour and the two extended nights in the combat record must be read separately. The latter have an explicit high-Gauge condition; they are not evidence of a new body or a travelling wave. Remaining unconditional end-time instructions need that scope resolved before the holding can be called complete. Warm crystal and a tightening Veil are derived equipment signs, not the interval acquiring anatomy.\n\n"
+    ],
+    [
+      "that check is the only preparation the hour permits.",
+      "that check does not replace the external timepiece checks at the door or the independent notebooks. The grief cannot be prevented by preparation; the roster instead avoids assigning a newly bereaved observer to the documented shared-loss trigger."
+    ],
+    [
+      "Four turns, observation and endurance only, from wherever personnel happen to be standing — there is nowhere to approach and nothing to approach it from.",
+      "Four turns, observation and endurance only, at the assigned station. There is no source body to approach; hold position rather than following another person’s grief, and keep the personal account separate from the other observers’ notebooks."
+    ],
+    [
+      "## 관찰 기록 (Observation Log)",
+      "**Attribution and return:** The individual records distinguish dominant-hand fatigue, the Veil's loss of small joys, and the Token's tearful dreams with another person's grief still present on waking. The set-wide loss of grief ownership is another recorded toll, not a reason to erase those separate costs. Before cleaning or rest, keep bearer, trigger, source response, cost and unresolved detail for attribution review. A named witness states the source and event during relinquishment; record the event as unknown instead of guessing a disaster from the shared images. None of that procedure refunds the cost or establishes that equipment can shorten the hour.\n\n## 관찰 기록 (Observation Log)"
+    ]
+  ],
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/912_Eleven_Fifty_Nine/SE-912-A__SIDE_CODEX_Eleven_Fifty_Nine.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/912_Eleven_Fifty_Nine/SE-912-B__MAW-W_Eleven_Fifty_Nine_s_Edge.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/912_Eleven_Fifty_Nine/SE-912-C__MAW-S_Eleven_Fifty_Nine_s_Veil.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/912_Eleven_Fifty_Nine/SE-912-D__MAW-G_Eleven_Fifty_Nine_s_Token.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
+  ],
+  "reasoning": "Full390-line original and exact912A–D read. City sorrow→bodiless TimeLament→publicclock versus externalclocks→simultaneous district grief and independent suppliedmemories→normal and explicit highGauge extended nights→stationary Work/roster/notes→portable derived set traced. R18 predeclared1batch-short/7careful-detail: own Recommendedresponse copied into ResolutionCondition; authored type, riskrole, visibleapparatus signature, three-subject profile, roster preparation, station-position instruction and itemcare. Conditional extended timing is documented, not an invented alternate body.",
+  "history": "B144unit3 130dbc5ead805aa7c470d792045fdbb8c6528ca0 complete history read, alreadyfullset/exactWeaponcredited; B1442shortmovement/notice preserved. ExactA–D4/4; CSV1007–1010, W912ClockFaceClose versus bladeShort2, disposition316Neutral. Master exactname/designation search no dedicatedMAW/Tale entry; Entity359awaitingrow. A/BγLament14–25 Normal2 Short2 Single100%4/25, C.3/1/1.2/.8 4/20, DHead5%+1 agree; sourceunknownformation preserved. Newreview+0/+0.",
+  "summary": "Make the interval, visible clock marker, private grief accounts and derived objects distinct. Replace Sovereign/Transform shortcuts, repair preparation/station instructions, and put actual notification/outlasting into the Resolution row. Add source-specific costs, attribution and return care without inventing whose children the district remembers.",
+  "holds": [
+    "Physical vessel/dust versus nonbody interval; A–D reduceGauge/isolate/interrupt versus primary unshortenable hour needs act/state mapping.",
+    "Ordinary609/611 and explicittwo0520highGauge exceptions are supported conditional durations, not an automatic body conflict; remaining always0400/nevervaried instructions and council notification timings still need coordinated scope.",
+    "Everypersonincludingasleep versus awake-only action scope; observerroster/independentnotebooks versus multipleobserverconvergence sampling not presumed same experiment.",
+    "Ownextraction outsidehour versus standardfacility0300operatingwindow; no invented exemption or cancellation. Chronology nineteenyears/sixyearstudy/operatingwindowtwelfthyear/fourthyear amendmentelevenreturns remains.",
+    "Primarypalecrystalblade versus clockfaceClose archetype; Cminutecost wording versus hour exposure and Bmidnightimagery versus namedclock/time distinction not silently normalized; Dsourceworkboon versus dutywindow not replaced."
+  ],
+  "result": "HELD: a district interval can be represented through witnesses and apparatus without a humanoid, and high-Gauge duration exceptions do not require a new silhouette. Remaining permission, timing and source-action mappings prevent whole-file certification. Equipment coverage already counted; no SE/art credit.",
+  "commentary": "The visible stopped dial works best as a marker, not as a creature. The untraced children are disturbing precisely because the archive is intact. Keeping their images separate from a manufactured founding disaster preserves the point of the investigation.",
+  "final_sha": "03b6757d410c64dcb6fd1a5a4ac62088ad6d499780a7c03100d25b78e41f83eb",
+  "before_words": 6108,
+  "after_words": 6491,
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/912_Eleven_Fifty_Nine/SE-912-A__SIDE_CODEX_Eleven_Fifty_Nine.md": "cafc50b9990da7f0ea26fd3fd0205f6e262380065cba5c6af9c6d6d1e53644f3",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/912_Eleven_Fifty_Nine/SE-912-B__MAW-W_Eleven_Fifty_Nine_s_Edge.md": "1399bf486b417b88f8c6f9f454a995284bae5f33496a8c8f5ca4bdea944390ce",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/912_Eleven_Fifty_Nine/SE-912-C__MAW-S_Eleven_Fifty_Nine_s_Veil.md": "edf134af58c683ce3e776e172d692d020995e15d87ed2d4e0eb249ee73b83ecd",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/912_Eleven_Fifty_Nine/SE-912-D__MAW-G_Eleven_Fifty_Nine_s_Token.md": "e4acc65cd21efebdb46fa1845f45a21227b7640673080208c697977de2ff6714",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d"
+  },
+  "outputs": {
+    "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+    "tpl": "RESIDUE 0  SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md",
+    "sectfile": "0.024  clean   246 grams  기록 (Registrum)\n 0.006  clean  1302 grams  Warden Record\n 0.000  clean   485 grams  Combat Record\n 0.000  clean   421 grams  M.A.W. Equipment\n 0.000  clean   397 grams  상호작용 (Entity Interactions)\n 0.000  clean   388 grams  Appearance\n 0.000  clean   260 grams  이야기 (Narratio)\n 0.000  clean   183 grams  Origin\n 0.000  clean   173 grams  Operational Parameters\n 0.000  clean   155 grams  이야기 보고 (Story Log)\n 0.000  clean   149 grams  Breach Behavior\n 0.000  clean   137 grams  감각 묘사 (Flavor Text)\n 0.000  clean    77 grams  관찰 기록 (Observation Log)\n 0.000  clean    48 grams  Behavior\n 0.000  clean    47 grams  Trivia\n 0.000  clean    44 grams  증언 (Testimonium)\n 0.000  clean    34 grams  SECC Classification\n 0.000  clean    32 grams  최종 관찰 (Final Observation)\n 0.000  clean    12 grams  (preamble)\n0 section(s) over 0.05",
+    "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+    "sect": "313   1  - Viderehan and Ferrehan are the valid Work Types and both lower the gauge; neither shortens the hour, which has been sixty minute\n  321   5  **Operational interpretation:** This file is read whole or not at all. The hour is simultaneous across a district, the content is \n  385   1  The objection is minuted at every annual review, raised by the bay's senior Warden and supported by the district council's observe\n  387   7  The minute records the objection as **correct in all three parts**. It records that an amendment was drafted in the fourth year — \nGENERIC 0.003  (14 shared shingles)  SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md"
+  },
+  "disclosure": "Prewrite digit-stream assertion rejected copying a second0400 into Resolution; used own existing Recommended/phase clauses without numeric duplication before any primary write.",
+  "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B171_01_ELEVEN_FIFTY_NINE.md",
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-912_Eleven_Fifty-Nine_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%8B%9C%EA%B0%84.md \"SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md\")]",
+  "table_link": "[Eleven_Fifty-Nine](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-912_Eleven_Fifty-Nine_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%8B%9C%EA%B0%84.md \"SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md\")"
+}
+```

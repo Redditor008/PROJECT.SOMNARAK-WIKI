@@ -15,7 +15,7 @@
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — A small, smooth, dark stone, warm to the touch — not crystal-cold but comfort-warm, river-worn and palm-sized. Under the right conditions it sings, a low mourning tone that seems to come from inside it. It is salt-damp and smells of cold rain on old cloth. |
-| **Movement** | Stationary — a body or drop of liquid. |
+| **Movement** | Stationary — It sits in its case on open display and does not move. |
 | **Location** | SECTOR-D-02, Echo Gardens — contained/open display |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -120,7 +120,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A small, smooth, dark stone warm to the touch. It sings under the right conditions. |
-| **Position / movement** | Stationary — a body or drop of liquid. Recorded at every Hums cycle against the previous reading. |
+| **Position / movement** | Stationary — It sits in its case on open display and does not move. Recorded at every Hums cycle against the previous reading. |
 | **Material / signature** | Lament, carried as sound rather than as substance: the stone is ordinary river-worn mineral and does not register under any instrument the wing owns. The signature to write down is therefore auditory and thermal — what was sung, in which register, and the fact that the stone ran one or two degrees warmer than the room throughout. |
 | **Distinctive markers** | Performs lullabies, work songs, love songs, and funeral songs of the dead. Sings more clearly when the air is still and sorrow is concentrated. The songs are historical records rather than random sounds. |
 | **Identification** | Check the designation `C-IIβ-048` before work or contact begins. More than one record in this archive is made of sound, and they want opposite things; this is the one that is to be learned rather than collected, and it is the one that sings to a single listener while every other sound-holding in the district addresses a room. |

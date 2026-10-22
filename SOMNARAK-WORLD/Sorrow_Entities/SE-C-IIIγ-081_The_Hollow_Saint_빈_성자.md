@@ -173,7 +173,9 @@ The Hollow Saint is a Fragment (III) Subject with Subject-Void manifestation and
 
 **Category:** MAGIC (Choral Staff / Resonant Sceptre) | **Grade:** γ | **Element:** Void
 
-**Appearance:** A fluted ritual sceptre of tarnished Han-silver, mounted with a hollow pale-glass reliquary cage containing three acoustic Void coils. When pointed down a corridor, the sceptre vibrates with the soundless benediction of The Hollow Saint, channeling a focused, long-range beam of piercing resonant Void that severs cognitive suppression and strips foreign emotional possession without physical harm.
+**Appearance:** A fluted ritual sceptre of tarnished Han-silver, mounted with a hollow pale-glass reliquary cage that holds three acoustic Void coils. It hums in the bearer's grip and goes quiet along the forearm rather than numb.
+
+Pointed down a corridor, the stave vibrates with the soundless benediction of The Hollow Saint and sends a focused beam of piercing resonant Void along the line, severing cognitive suppression and stripping foreign emotional possession with nothing burned and nothing struck.
 
 **Damage:** Void 8–14
 **Speed:** 3 (Normal)
@@ -194,7 +196,9 @@ The Hollow Saint is a Fragment (III) Subject with Subject-Void manifestation and
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and without colour, that keeps a cold line wherever it rests — across the shoulders, at the wrists — and the line is still there after the veil has been folded away for the shift. Of the three pieces in this kit, the veil alone leaves a mark anybody can point at.
+**Appearance:** A flowing veil of Void Han-gossamer, near-translucent and without colour, kept to a cold line wherever it rests. Of the three pieces in this kit, the veil alone leaves a mark anybody can point at, and the line survives the shift.
+
+The drape runs from crown to collarbone in one straight length, and the inner lining carries a faint outline of the wearer's own shape — nearly invisible in clear air, gathering a grey haze under Void pressure, and fading first when the wearer loses the boundary between self, witness and source.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -212,7 +216,9 @@ The Hollow Saint is a Fragment (III) Subject with Subject-Void manifestation and
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a tiny chalice of Void Han-glass, near-translucent and without colour, that holds a darker shade than any light in the room accounts for.
+**Appearance:** A small cup of pale grey Han glass, short and wide, with a rounded band of darkened metal around its rim and a fitted lid. It hangs from the head slot on a thin cord and rests cold against the bearer.
+
+Inside, the cup is smooth and unmarked and holds no colour at all; covered between uses, it stays that way until a willing person names a specific grief and the bearer repeats whose grief it is. An ash mark appears along the band when a use has crossed a consent boundary.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -226,16 +232,20 @@ The Hollow Saint is a Fragment (III) Subject with Subject-Void manifestation and
 
 ### M.A.W. Use Notes
 
-Nothing in this kit is ordinary issue. Each piece works by belonging partly to the holding it is carried near, so the sceptre, the veil and the chalice are kept on the Zone B line and their grade is read against the Zone B line alone. The toll is the one already on the sheet: the memories going nameless at every use, and the detachment from the physical self that excessive channeling brings. It is charged whether the use was judged right or judged wrong, and charged to the bearer rather than to the shift, and that is why the chalice is conferred on a Warden and never issued to one who asks for it.
+Nothing in this kit is ordinary issue. Each piece works by belonging partly to the holding it is carried near, so the sceptre, the veil and the chalice are kept on the Zone B line and their grade is read against the Zone B line alone. The charge falls on the bearer rather than on the shift, whether the use was judged right or judged wrong, and that is why the chalice is conferred on a Warden and never issued to one who asks for it.
+
+The three costs are not one cost recorded three times. The sceptre takes a small nameless memory at every release and, under excessive channeling, the sense of being located in one's own body. The veil leaves the wearer faintly absent from their own account of themselves — in the chamber, and missing from the telling of it. The chalice empties the bearer of the very sorrow it removes, so the feeling is gone from the bearer as well as from the person who named it.
+
+Nothing in the set heals, and nothing in it returns what has been taken. The extraction rule governs its use: the worker speaks a grief and then names one desire or memory they will keep, the Saint must release them without reaching again, and a low Gauge is not extraction consent. The full set's condition is *The Boundary Kept* — one bearer, every sorrow identified as belonging to somebody else, and none of it absorbed into the bearer's own identity. Called a cure, the set begins treating the bearer's own attachments as excess material, and immediate removal with a named-witness grounding sequence follows.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check written against the holding's recorded toll: small, nameless memories given up with every use. |
+| **Before use** | Wielder, piece, gauge, and one pre-check written against the holding's recorded toll: small, nameless memories given up with every use. The worker states aloud what remains theirs and must not be taken, and the clock-holder confirms that a welfare witness is standing by. |
 | **During use** | The charge shows as small nameless losses inside the baseline — the way to a room, a face from a season ago — and the wearer is the last person able to notice. The second worker tests the baseline aloud at the hour marks, and the bearer's own account is taken afterwards. |
 | **At limit** | The wearer has gone faintly absent from their own account, and has stopped reporting it — the usual end point for a piece out of this holding. The observer calls the limit. |
-| **After use** | Take the piece back and ask the second worker, not the bearer, whether the absence is still showing — the bearer is the last person who can tell. |
+| **After use** | Take the piece back and ask the second worker, not the bearer, whether the absence is still showing — the bearer is the last person who can tell. For the chalice, record what the removed sorrow still matters for, with the cup covered, and keep it covered until that review is filed. |
 
 **Stat interpretation:** A grade is not a safety line. A β-grade kit can perform flawlessly and still hollow out what its bearer remembers, or tie them to the source holding's grief; a low-rated piece can carry a severe personal cost. Read both columns before issue.
 ## 관찰 기록 (Observation Log)

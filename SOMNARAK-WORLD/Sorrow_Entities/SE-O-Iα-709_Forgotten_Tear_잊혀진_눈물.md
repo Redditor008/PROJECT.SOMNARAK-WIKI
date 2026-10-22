@@ -15,7 +15,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Non-Organic — A single dark tear crystallized around a small ember of anger — warm and heavy for its size, glowing faint crimson at the core. Fever-warm, it smells of char; grief forgotten by all except the anger at its heart. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement** | Stationary under its own power — a discrete crystal that sits where it is placed and is carried by its handlers, not a structure or a walking figure. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Weigh it, hold it, say aloud whose grief it is and that it was not yours, and set it down deliberately. Viderehan and Ferrehan only. The mass at the end of the cycle is the result; nothing else about the session is recorded as an outcome. |
+| **Recommended response** | Weigh it, hold it, acknowledge the dismissed death without supplying an identity for the unknown mourner, distinguish its old anger from your own, and set it down deliberately. Viderehan and Ferrehan only. The closing mass is the cycle result, not a substitute for the timed contact record or its hard stop when a living person is named; retain the supplied details and post-contact review as well. |
 
 ### Operational Notes
 
@@ -117,7 +117,7 @@
 |---|---|
 | **Form** | A single dark tear crystallized around a small ember of anger. It is warm and heavy. |
 | **Position / movement** | Sits where it is placed on the vault shelf and has never moved itself; the only variable is its mass, which changes with who is holding it and must be recorded at every contact. |
-| **Material / signature** | A dark crystallised tear with a crimson ember at the core, warm, and heavier than its size allows. Record the mass at issue, at five-minute intervals while held, and at return, against the holder's name. |
+| **Material / signature** | A dark crystallised tear with a crimson ember at the core, warm, and heavier than its size allows. Record the mass at issue, alongside the timed contact entries in Log and Method, and at return, against the holder's name. Do not wait for a five-minute interval: the named-living-person hard stop in that record already applies within the first minute. |
 | **Distinctive markers** | The ember has never been recorded as out, in nineteen years of daily vault checks, including four power failures and one flooding. |
 | **Identification** | Confirm `O-Iα-709` against the tray label before the balance is zeroed. The vault holds three crystallised residues described as tears and only this one has an ember. |
 
@@ -186,7 +186,7 @@ The Work Type table is not the instrument here and the vault stopped relying on 
 
 ### Escalation Notes
 
-Escalation is a number going up. There is no visible change in the tear at any stage — the ember does not brighten, the colour does not shift — and the balance is the only warning the vault has ever had. Record the mass at five-minute intervals, the time of any supplied detail, and the moment a living person is named.
+Escalation is a number going up. There is no visible change in the tear at any stage — the ember does not brighten, the colour does not shift — and the balance is the only warning the vault has ever had. Record the mass alongside the timed contact entries in Log and Method, the time of any supplied detail, and the moment a living person is named. A five-minute sampling interval cannot replace that record: its one-minute entry already requires ending the hold when a living person is named.
 
 **Response sequence:** There is no perimeter to establish and nothing to clear. Find out who is holding it and weigh it in their hand before you say anything to them. If the holder is angry, do not dispute the grievance — it will usually be about something real, and arguing the point moves the conversation to the merits and away from the Tear. Ask them to set it down consciously, in the phrasing used in the Tool Use Profile, and record the weight again once it is on the shelf. The difference between the two readings is the incident report.
 
@@ -267,7 +267,7 @@ Each piece remains part of the Tear, and the set has one property the grades do 
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, the opening mass, and the written answer to the opening question: are you angry about anything at present. The answer is kept and not judged. |
-| **During use** | The mass at five-minute intervals and every detail the wielder supplies that the grievance did not contain. Both go in the book unremarked at the time. |
+| **During use** | The mass alongside the timed contact entries in Log and Method, and every detail the wielder supplies that the grievance did not contain. Both go in the book; the observer does not argue over the details, but ends the hold at the existing living-name or mass limit rather than waiting five minutes for another reading. |
 | **At limit** | A living person is named, or the mass passes 30 grams. Either ends the hold; neither is negotiable. |
 | **After use** | Closing mass against opening mass, and the same question asked again a week later. Six of the nine over-run holders still held the grievance at a week; three of those six still held it at a month, and all three were taken off the vault rota. |
 

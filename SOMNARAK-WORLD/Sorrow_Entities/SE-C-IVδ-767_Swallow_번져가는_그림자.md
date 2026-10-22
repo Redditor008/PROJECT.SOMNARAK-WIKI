@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45 per cent against Lament pressure and 35 against everything else, which on a shape that cannot strike back reads as the file's usual habit of filling a slot: there is nothing here to resist except the standing still. The gauge opens at 910 and trips at 90 per cent, and the area only ever shrinks by accident. |
+| **Resistance** | 45 per cent against Lament pressure and 35 against everything else. There is no body here to strike. The gauge opens at 910 and trips at 90 per cent, and the area only ever shrinks by accident. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 29–64 per hit · Lament |
@@ -119,7 +119,7 @@
 | **Position / movement** | Fixed source, moving edge; the chalk bands on the floor are the record of every edge it has had. |
 | **Material / signature** | Lament. Cold rain and damp, a drop in light with no drop in output, and detail going soft at a distance you can measure. |
 | **Distinctive markers** | No outline, no source, no response to illumination, and a floor marked in sixty-one years of chalk. |
-| **Identification** | If raising the lights changes nothing at all, it is this one. Nothing else beneath the Alpha Tree behaves that way. |
+| **Identification** | At the established fixed light level, confirm sourceless dimming, softened detail and the recorded chalk bands against the designation. Do not raise the lights to test identity: the recorded trials changed neither gloom nor boundary and increased disorientation. |
 
 **Appearance protocol:** Chalk the edge at the close of every shift and leave the previous mark where it is. Photograph the bands monthly against the fixed survey points. Record the light level at the four fixtures, the depth of the dimming at the centre, and the width of the fade at the edge, which is where the judgement lies. Do not wash the floor and do not resurface it.
 
@@ -173,7 +173,7 @@ The escalation reads differently from a stock containment event, and the watch l
 | **Manifestation** | Place-Grudge |
 | **Primary effect** | Misattributed mourning: real grief, accurately felt, fastened to the wrong person or to nobody at all. |
 | **Duration / rate** | Indefinite. The effect on a worker resolves in days to weeks; the area's extent resolves on nothing. |
-| **Risk** | Critical (δ) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Critical (δ) Object/Place producing Lament pressure. A worker may carry another person’s grief as their own without recognising the change; exit screening tests attribution, not whether the worker reports feeling distressed. |
 | **Management** | The attributed line in the shift log, and the standing undertaking that it is never used as evidence of anything. |
 
 **Activation reporting order:** chalk band against the last three → light level at the fixtures → extent of the dimming → personnel inside the edge and for how long → attribution screens outstanding → anything set down and not recovered. Viderehan and Ferrehan only; there is nothing here to confront and nothing that answers tears.
@@ -218,7 +218,7 @@ The escalation reads differently from a stock containment event, and the watch l
 
 **Ability:** Takes one emotional surge out of the air and holds it, which is the only piece the night shift asks for by name after a bad hour on the chalk.
 
-**Cost:** The wearer feels every sorrow the Veil has absorbed.
+**Cost:** The wearer feels every sorrow the Veil has absorbed. The held surge is cargo, not a new part of the wearer’s history. Continued use can erase that distinction: the sorrow begins to sound autobiographical, and a description in first person is a corrosion sign rather than proof of ownership.
 
 ### M.A.W. Stigma — The Fading Charm
 
@@ -239,6 +239,12 @@ The escalation reads differently from a stock containment event, and the watch l
 ### M.A.W. Use Notes
 
 Each piece is Swallow's own arrangement in miniature. The gains are in the tables above; the debit is grief taken up and never cried out, with weeping on a long issue, and the Armoury enters both sides against the bearer's own ledger rather than the piece's.
+
+The three records name the set *Swallow — Witnessed Form*. Before cleaning or rest, record which piece was carried, what triggered it, the source response, the cost and what remains unattributed. Keep the Requiem’s unwept grief separate from the Veil’s accumulated sorrows and the Charm’s sleeping tears; none of those observations substitutes for the counsellor’s exit screen.
+
+The Charm’s attribution boon does not turn the worker’s attributed line into evidence. That line remains untested and uncountersigned, with no use for or against a leave claim. Put equipment condition and cost in the return record instead of adding a second judgement against the mourner’s name. A grief felt clearly can still belong to somebody the schedule does not recognise.
+
+If a piece repeats the source response away from contact, relinquish it to the named witness and preserve that observation with the last exposure time. A bearer saying “my grief” about Swallow’s history is not thereby identified as one of its original mourners. The standing week-later assessment still compares the bearer’s three named losses; returning a piece does not close that assessment.
 
 ### Field Use Record
 
@@ -277,7 +283,7 @@ Each piece is Swallow's own arrangement in miniature. The gains are in the table
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Swallow (C-IVδ-767 [LP]) is a Place-Grudge manifestation expressing Lament, held beneath the Alpha Tree in Zone A, and what it spreads is not darkness but ownership: losses move through it into people who never made them.ath the Alpha Tree in Zone A. It has injured nobody, holds nobody and blocks nothing. What it does is make a loss that belongs to somebody else feel like a memory you had misplaced.
+Swallow (C-IVδ-767 [LP]) is a Place-Grudge manifestation expressing Lament, held beneath the Alpha Tree in Zone A, and what it spreads is not darkness but ownership: losses move through it into people who never made them. It has injured nobody, holds nobody and blocks nothing. What it does is make a loss that belongs to somebody else feel like a memory you had misplaced.
 
 **Entry 2 — <Spread Ledger, Alpha Tree, Extract>**
 The edge has drawn back four times in sixty-one years. Three analysts plotted the ledger against the district's calendar of observances at the memorial above and none found a relationship that survived scrutiny; all three wrote down that they had expected to. The series that does move with it was not found by an analyst. The four reversals fall in the four quarters carrying the most attributed lines in the shift log.
@@ -314,7 +320,7 @@ Light disappears at the edges of the room. A shadow spreads over the floor and c
 
 **When the entity activates:** Activation reshapes the room. The Lament that was atmospheric becomes directed — aimed, purposeful, alive in a way the containment protocols anticipated but never fully contain.
 
-**After departure:** Departure is not relief. The Place-Grudge is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** Leaving the affected area does not make it contained. Swallow remains in custody without control, and the worker can carry a grief that feels like their own. A counsellor asks who they are grieving for and how they know; departure does not replace that attribution screen or close an unresolved one.
 
 ### Interaction Pattern
 
@@ -367,7 +373,7 @@ Some sorrows are personal. Swallow is a sorrow that lost its owner — or rather
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Critical (δ). No injuries, no pursuit, no barrier possible. The grade is an affected area that only ever shrinks by accident and a personnel effect that cannot be detected by asking the personnel.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan only. Flerehan and Pugnahan are unavailable for a Place manifestation; an earlier edition of this file named Flerehan and was wrong.
+- Viderehan and Ferrehan only. Flerehan and Pugnahan are unavailable for a Place manifestation; neither approach supplies an attribution or changes the fact that the source has no body to engage.
 - Chalk the edge each shift and leave the old marks. Hold the light at the fixed level and never raise it. Tether equipment to the crew; nothing set down here has been recovered.
 **Observation Notes:**
 - Screens last year: 214 taken, 171 closed, 43 flagged; fourteen of the flags were real people outside the schedule of degrees.

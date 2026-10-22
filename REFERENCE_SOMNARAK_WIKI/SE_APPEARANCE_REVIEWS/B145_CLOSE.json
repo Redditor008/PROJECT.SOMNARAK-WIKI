@@ -1,0 +1,470 @@
+{
+  "batch": 145,
+  "status": "CLOSED",
+  "completed": 5,
+  "required": 5,
+  "changed": 3,
+  "retained": 2,
+  "no_change_ladder": "2/5 No change <3; no7 rung opened; long individual records do not justify simplicity expansion.",
+  "authorization": "Owner new P opens145; latest p resumes145. One batch only. No146.",
+  "validation": [
+    {
+      "code": "108",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-108_Animus_떠도는_흔적.md",
+      "status": "changed",
+      "before_words": 6430,
+      "after_words": 6872,
+      "sha256": "cd883f2326752c83d414d95cabb5d136caacd00c54ce9f2fa179d25bd9677843",
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+        "tpl": "RESIDUE 0  SE-O-Iα-108_Animus_떠도는_흔적.md",
+        "sectfile": "0.012  clean   323 grams  관찰 기록 (Observation Log)\n 0.008  clean   353 grams  기록 (Registrum)\n 0.007  clean   606 grams  감각 묘사 (Flavor Text)\n 0.006  clean   499 grams  M.A.W. Equipment\n 0.000  clean   600 grams  Combat Record\n 0.000  clean   489 grams  Appearance\n 0.000  clean   385 grams  이야기 (Narratio)\n 0.000  clean   336 grams  Breach Behavior\n 0.000  clean   245 grams  Operational Parameters\n 0.000  clean   221 grams  이야기 보고 (Story Log)\n 0.000  clean   186 grams  Behavior\n 0.000  clean   182 grams  Trivia\n 0.000  clean   173 grams  Origin\n 0.000  clean    62 grams  최종 관찰 (Final Observation)\n 0.000  clean    39 grams  SECC Classification\n 0.000  clean    37 grams  증언 (Testimonium)\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+        "sect": "238   2  **Effect:** +1 to the working stat on this holding's own cycles and nothing anywhere else, which for a watch spent walking and wri\n  254   1  | **Before use** | Wielder, piece, and a sealed note naming anyone the wielder currently holds a grievance against. It is opened a\n  281   4  **Observation method:** Observe in pairs, transcribe rather than interpret, and record the first visible sign, the first emotional\n  328   2  **Interaction method:** Baseline each entity alone; a trace this faint produces nothing interpretable without a long solo series b\n  335   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  388   2  **Operational interpretation:** The suppression condition here is a prohibition rather than an action. Do not supply a false reaso\n  390   1  **Review requirement:** Every breach, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline; re-verify the gauge,\nGENERIC 0.003  (14 shared shingles)  SE-O-Iα-108_Animus_떠도는_흔적.md"
+      }
+    },
+    {
+      "code": "185",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-185_Whispering_Gallery_속삭이는_갤러리.md",
+      "status": "changed",
+      "before_words": 7415,
+      "after_words": 7712,
+      "sha256": "08cd9e1630940f81e65f34e338915171d255228cf90fb0598dd656a4854c9ce5",
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+        "tpl": "RESIDUE 0  SE-C-IIβ-185_Whispering_Gallery_속삭이는_갤러리.md",
+        "sectfile": "0.024  clean    82 grams  Operational Parameters\n 0.011  clean   544 grams  M.A.W. Equipment\n 0.009  clean   532 grams  Combat Record\n 0.005  clean   570 grams  감각 묘사 (Flavor Text)\n 0.003  clean   349 grams  기록 (Registrum)\n 0.000  clean   868 grams  Watch Record\n 0.000  clean   423 grams  Appearance\n 0.000  clean   381 grams  이야기 (Narratio)\n 0.000  clean   370 grams  이야기 보고 (Story Log)\n 0.000  clean   258 grams  Expansion Behavior\n 0.000  clean   257 grams  관찰 기록 (Observation Log)\n 0.000  clean   230 grams  Trivia\n 0.000  clean   177 grams  Origin\n 0.000  clean   171 grams  Behavior\n 0.000  clean   137 grams  최종 관찰 (Final Observation)\n 0.000  clean    40 grams  SECC Classification\n 0.000  clean    33 grams  증언 (Testimonium)\n0 section(s) over 0.05",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+        "sect": "31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 25% against Lament pressure; 15% against other pressure types — and the second figure has never been reached he\n   85   4  | { *Every Secret Told* [**Ultimate**] } | “The hall gives up everything it has ever been told, and puts no name to any of it.” | \n  202   1  **Appearance:** a slender blade of Lament Han-crystal, near-clear, holding one unvarying tone while it rests and taking a thin fil\n  210   4  **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — with the hall's own method: not a single a\n  256   1  | **Before use** | Wielder, piece, and a dated baseline struck against the hall's toll — unwept grief carried, on the file's own r\n  325   1  **After departure:** The door seals and the pressure drops, but residue clings — Lament in the suit fibres, in the memory, in the \n  338   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  380   1  - Viderehan and Ferrehan only; Flerehan and Pugnahan are not available to a Place manifestation, and an earlier edition of this fi\nGENERIC 0.003  (17 shared shingles)  SE-C-IIβ-185_Whispering_Gallery_속삭이는_갤러리.md"
+      }
+    },
+    {
+      "code": "792",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물.md",
+      "status": "retained",
+      "before_words": 8536,
+      "after_words": 8536,
+      "sha256": "1b1f9af5fffc90de89f678a3602c7de878a84938e02b3d8bdeaf1e0b4975b6d7",
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+        "tpl": "RESIDUE 0  SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물.md",
+        "sectfile": "0.018  clean   658 grams  기록 (Registrum)\n 0.013  clean   304 grams  관찰 기록 (Observation Log)\n 0.011  clean   183 grams  Trivia\n 0.007  clean   563 grams  Combat Record\n 0.005  clean   424 grams  M.A.W. Equipment\n 0.002  clean   519 grams  상호작용 (Entity Interactions)\n 0.000  clean  1449 grams  Apex Record\n 0.000  clean   374 grams  이야기 (Narratio)\n 0.000  clean   284 grams  Operational Parameters\n 0.000  clean   283 grams  Appearance\n 0.000  clean   267 grams  이야기 보고 (Story Log)\n 0.000  clean   236 grams  감각 묘사 (Flavor Text)\n 0.000  clean   224 grams  Behavior\n 0.000  clean   189 grams  Origin\n 0.000  clean   138 grams  Breach Behavior\n 0.000  clean    89 grams  최종 관찰 (Final Observation)\n 0.000  clean    53 grams  증언 (Testimonium)\n 0.000  clean    38 grams  (preamble)\n 0.000  clean    35 grams  SECC Classification\n0 section(s) over 0.05",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+        "sect": "54   1  | **Resistance** | 45% against Lament pressure; 35% against other pressure types |\n   84   3  | { *The Liquid Archive* [**Ultimate**] } | \"Every relic on the ground starts to run, and the pooled weight of old objects goes ov\n  198   1  **Appearance:** a wrapping shroud of Lament Han-silk, cold on the skin, sewn so tight that the seams vanish while it is worn.\n  226   1  *A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, which is the\n  261   4  **Observation method:** Record the first visible sign, the first emotional response and what prompted it, the first measurable env\n  318   1  **Interaction method:** Individual observation first, so that what each entity does alone is known before anything is claimed abou\n  378  12  **Operational interpretation:** The classification is the frame and this record is the picture; read the Work Type responses, the \n  458   2  - **Classification detail:** Relic of a Thousand Owners is a Subject with Entity (IV) coherence and Critical (δ) potency.\nGENERIC 0.004  (25 shared shingles)  SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물.md"
+      }
+    },
+    {
+      "code": "426",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-426_Hollowcast_찢어진_열매.md",
+      "status": "changed",
+      "before_words": 7265,
+      "after_words": 7646,
+      "sha256": "4ab2dbc4b277af0588a7e7448a23b018b5d526fa11c02510864570a98ee40b5c",
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+        "tpl": "RESIDUE 0  SE-N-IIβ-426_Hollowcast_찢어진_열매.md",
+        "sectfile": "0.021  clean   484 grams  M.A.W. Equipment\n 0.011  clean   438 grams  기록 (Registrum)\n 0.002  clean   434 grams  Combat Record\n 0.000  clean   891 grams  이야기 보고 (Story Log)\n 0.000  clean   595 grams  감각 묘사 (Flavor Text)\n 0.000  clean   400 grams  Appearance\n 0.000  clean   328 grams  관찰 기록 (Observation Log)\n 0.000  clean   323 grams  이야기 (Narratio)\n 0.000  clean   313 grams  Breach Behavior\n 0.000  clean   276 grams  Origin\n 0.000  clean   271 grams  Trivia\n 0.000  clean   213 grams  Watch Record\n 0.000  clean   152 grams  Behavior\n 0.000  clean   107 grams  최종 관찰 (Final Observation)\n 0.000  clean    89 grams  Operational Parameters\n 0.000  clean    67 grams  증언 (Testimonium)\n 0.000  clean    38 grams  SECC Classification\n 0.000  clean    28 grams  (preamble)\n0 section(s) over 0.05",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+        "sect": "85   1  | { *The Blighted Orchard* [**Ultimate**] } | \"Every tree, every fruit torn open at once, and all of it pouring rage over the fiel\n  193   6  **Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, with an edge that lights along its length as it is \n  214   5  **Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, holding a thin trace of wherever it was made.\n  232   1  **Appearance:** a bracelet of Grudge Han-iron, dark and faintly warm, sitting heavier on the wrist than its size accounts for.\n  390   3  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the welfare office and the hazard board, which\n  395   2  **Operational interpretation:** This file is read with the remedy return beside it or not at all. On its own the holding is a quie\nGENERIC 0.003  (18 shared shingles)  SE-N-IIβ-426_Hollowcast_찢어진_열매.md"
+      }
+    },
+    {
+      "code": "907",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md",
+      "status": "retained",
+      "before_words": 6491,
+      "after_words": 6491,
+      "sha256": "cef6489c0f07dc5b40a7c5128f18f8dbc345da00202f505864b7a33536ec6ed2",
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+        "tpl": "RESIDUE 0  SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md",
+        "sectfile": "0.013  clean   224 grams  기록 (Registrum)\n 0.009  clean   331 grams  M.A.W. Equipment\n 0.006  clean  1687 grams  Apex Record\n 0.000  clean   425 grams  Combat Record\n 0.000  clean   371 grams  상호작용 (Entity Interactions)\n 0.000  clean   257 grams  이야기 (Narratio)\n 0.000  clean   247 grams  이야기 보고 (Story Log)\n 0.000  clean   214 grams  Appearance\n 0.000  clean   179 grams  감각 묘사 (Flavor Text)\n 0.000  clean   177 grams  Origin\n 0.000  clean   150 grams  Operational Parameters\n 0.000  clean   121 grams  증언 (Testimonium)\n 0.000  clean    95 grams  Breach Behavior\n 0.000  clean    84 grams  관찰 기록 (Observation Log)\n 0.000  clean    56 grams  Behavior\n 0.000  clean    31 grams  SECC Classification\n 0.000  clean    30 grams  최종 관찰 (Final Observation)\n 0.000  clean    15 grams  Trivia\n 0.000  THIN      4 grams  (preamble)\n0 section(s) over 0.05",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+        "sect": "196   3  **Effect:** +1 to the working stat on this holding's cycles, which consist of standing on a line and counting\n  305   1  - Viderehan and Ferrehan are the valid Work Types; both lower the gauge and neither requires contact, which is the reason they are\n  313   2  **Operational interpretation:** The three sections below are one argument. Two respiration series are kept and deliberately not re\n  387  10  The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the forty-sixth year at\nGENERIC 0.003  (16 shared shingles)  SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md"
+      }
+    }
+  ],
+  "primary_words": {
+    "before": 36137,
+    "after": 37257,
+    "change": 1120
+  },
+  "side_A_words": {
+    "before": 666,
+    "after": 700,
+    "change": 34
+  },
+  "r18": {
+    "short": 4,
+    "careful": 2
+  },
+  "source_sha256": {
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-A__SIDE_CODEX_Animus.md": "5515ccb32cbb0f7f19b45ecc884e2be2f8098ef29efb5fa2e294e6cd3a190699",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-B__MAW-W_The_Trace_Fang.md": "ae6d6b9f9be7e206bbfcd9cfbea96cf0250ba65d83918c24f38a758bbbceb6a5",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-C__MAW-S_The_Trace_Plate.md": "11d8df292f274725c8d85eb9cd3dad6cd15e9702f8811dcf52fd0dcd017ac302",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-D__MAW-G_The_Trace_Ember.md": "ece03e0bf746aea49f2068c726ea2c5e0cafea5dee4c79cd64f2ac58f11cbad4",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/185_Whispering_Gallery/SE-185-A__SIDE_CODEX_The_Whispering_Gallery.md": "7a65a99b6b79429fa454dafe51f67b2a054b965ec60751eb2db4a436105399ca",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/185_Whispering_Gallery/SE-185-B__MAW-W_The_Gallery_Requiem.md": "a73fc442e6c070c4820e5fe7fc09553ba87906ba26a89a458893a8bea2483648",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/185_Whispering_Gallery/SE-185-C__MAW-S_The_Gallery_Shroud.md": "bf69a09334211b8e30ab63e70facccac2e4db236011f610f7508d63a41088b9d",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/185_Whispering_Gallery/SE-185-D__MAW-G_The_Gallery_Stone.md": "2562da4ed39110da833a8f92560e7c1890a830d951cbe490960758120849dfe6",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-426-A__SIDE_CODEX_Hollowcast.md": "cf89adef1863d7747330f221339351c987e87241c6d8fa9f324da5575a2ca2ee",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-426-B__MAW-W_The_Torn_Fang.md": "729f00757e47179a2651ce22af71ce8bb4df467a0bae34fdeb4f85b104ba9399",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-426-C__MAW-S_The_Torn_Plate.md": "85e9c7963a8dcf23ceeba33e5af69c637eb2841b67bc413517469f5267945002",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-426-D__MAW-G_The_Torn_Bracelet.md": "313480068146e15c4af80e99e69915b935bff54ebfd25afc0df7ebc7b403a9b9",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/792_Relic_of_a_Thousand_Owners/SE-792-A__SIDE_CODEX_Relic_of_a_Thousand_Owners.md": "8d7209226f29e13139a99caa90371be138f320d032c881ecfdcc83c9fac56a64",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/792_Relic_of_a_Thousand_Owners/SE-792-B__MAW-W_The_Flowing_Hammer.md": "3a40de395687a96eae1817301c6075b26d4b5de9c1fcdea7a3e2ac4e4aea2072",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/792_Relic_of_a_Thousand_Owners/SE-792-C__MAW-S_The_Flowing_Shroud.md": "db9c771dd5507487d6dcc101b7154a74eab73060ff6fe85e087b385fd16c8347",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/792_Relic_of_a_Thousand_Owners/SE-792-D__MAW-G_The_Flowing_Charm.md": "97131915b858233d45e9cacf3fc21a9c4b174b451d2a8bfcf863ac0bcaff2933",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/907_Breathing_Stone/SE-907-A__SIDE_CODEX_Breathing_Stone.md": "883374b25140cc6500298cba604fc00a74a44258add17f76e9494480af29ac3a",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/907_Breathing_Stone/SE-907-B__MAW-W_Breathing_Stone_s_Edge.md": "b5943f864f69c99ba8939b22a2d9447fb18cfb27c117896861b28b2d4f842b50",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/907_Breathing_Stone/SE-907-C__MAW-S_Breathing_Stone_s_Veil.md": "fc6698d00f7609e07775d923c3455735b2f1390c96c8c7473f2da3d3c45ab3f0",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/907_Breathing_Stone/SE-907-D__MAW-G_Breathing_Stone_s_Token.md": "677266e5a6395420816cf18add7a8fa5f0678dc4760eea6f01457701a7c612b8",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782"
+  },
+  "completed_dossiers": [
+    {
+      "designation": "O-Iα-108",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_01_ANIMUS.md",
+      "commit": "4fdbb67232332bf12759211af349bdd086584f10"
+    },
+    {
+      "designation": "C-IIβ-185",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_02_185.md",
+      "commit": "c8f24b213dcf134d9fb392a11a24a92cd3f05096"
+    },
+    {
+      "designation": "O-IVδ-792",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_03_792.md",
+      "commit": "47bf309b07ecb60c65c0b6e19c3856556770c667"
+    },
+    {
+      "designation": "N-IIβ-426",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_04_426.md",
+      "commit": "646a4276e7f77d42192ea0e46b570abb42ddb62b"
+    },
+    {
+      "designation": "C-IVδ-907",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_05_907.md",
+      "commit": "0cd3ed54cde248edc0366b52a6c881d4372e7b9d"
+    }
+  ],
+  "gallery_followup_commit": "247df76a04d6ffe0f9cd44012cf62fac3c7a95a6",
+  "inventory": {
+    "primary": 301,
+    "side_codices": 292,
+    "complete_sets": 287,
+    "item_pairs": 861,
+    "candidate_differences": 557
+  },
+  "couples": "0/301 files;0 section-pairs",
+  "tests": "8 independent-ledger tests PASS; full suite at gate",
+  "next_screen": {
+    "eligible_pending": 294,
+    "blocked": 2,
+    "cue_candidates": 114,
+    "top": [
+      {
+        "designation": "N-IVδ-611",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-611_Sleeping_Shard_잠든_조각.md",
+        "signals": [
+          {
+            "line": 42,
+            "text": "- Pressure is identity-class. The figure changes shape inside dreams, and workers report their own outline feeling uncertain afterward."
+          },
+          {
+            "line": 101,
+            "text": "**Primary Form:** A sleeping figure made from a large shard of pale crystal. It weeps while unconscious and changes shape inside dreams."
+          },
+          {
+            "line": 109,
+            "text": "- **Primary marker:** A sleeping figure made from a large shard of pale crystal. It weeps while unconscious and changes shape inside dreams."
+          },
+          {
+            "line": 118,
+            "text": "| **Form** | A sleeping figure made from a large shard of pale crystal. It weeps while unconscious and changes shape inside dreams. |"
+          },
+          {
+            "line": 124,
+            "text": "**Appearance protocol:** Record the body and the shard separately: the figure changes shape while it dreams and the crystal does not. Log the weeping — whether it is running, how far it travels before it stops being liquid, and at what distance from the Dream layer that happens. Scale, posture and the attitude of the curl move before anything else does."
+          },
+          {
+            "line": 129,
+            "text": "- **The Event:** An exile entered a dream to escape grief and became a sleeping crystal figure."
+          },
+          {
+            "line": 336,
+            "text": "Sleeping Shard is Subject-Lament, Void-element: the figure of a grief deliberately placed into sleep — the exile who wanted to stop feeling without losing the memory, and who achieved, through the dream, exactly that: the suspension of pain, the preservation of memory, the eternal half-state of one who chose sleep over suffering and received, from the dream, a sleep so thorough it became a crystal."
+          },
+          {
+            "line": 351,
+            "text": "> *“The choice that seemed like mercy and became a prison.”* — Mender, Dream Gates"
+          },
+          {
+            "line": 438,
+            "text": "- The body is the dream's own product and changes shape only inside the layer, which is the only evidence available that the dream is still running."
+          }
+        ]
+      },
+      {
+        "designation": "N-IVδ-641",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-641_Home_to_No_One_Who_Knew_Me_돌아온_유물.md",
+        "signals": [
+          {
+            "line": 44,
+            "text": "- Observation must record which object form it currently holds, because it shifts between them without warning and the inventory is form-dependent."
+          },
+          {
+            "line": 102,
+            "text": "**Physical Form:** A black relic that appears in the Old Lament after long absence. It glows with a crimson inner fire and shifts between object forms."
+          },
+          {
+            "line": 110,
+            "text": "- **Primary marker:** A black relic that appears in the Old Lament after long absence. It glows with a crimson inner fire and shifts between object forms."
+          },
+          {
+            "line": 119,
+            "text": "| **Form** | A black relic that appears in the Old Lament after long absence. It glows with a crimson inner fire and shifts between object forms. |"
+          },
+          {
+            "line": 125,
+            "text": "**Appearance protocol:** Record the light, not the shape. The relic shifts between object forms and holds none of them, so the identifying feature is the crimson fire inside it: log the colour, the depth at which it appears to sit within the object, whether it pulses, and the heat, which is fever-hot and reads on an instrument at a distance it should not. The form is recorded in a separate field and is marked unidentified by default, because the watch is trained on the light alone — a dozen reference images, all of different objects, all showing the same glow from within. The earlier approach of cataloguing observed forms was found to be actively misleading, with watch members looking for a shape from the list and failing to register an unlisted one. That catalogue is kept as a record of what has been seen and is marked across its face as not an identification aid."
+          },
+          {
+            "line": 239,
+            "text": "Its plates change shape when nobody is watching, and only the current-name strip across the sternum stays fixed. That strip is inspected before every other plate, and the harness is stored beside a current portrait rather than with the old owner's effects."
+          },
+          {
+            "line": 315,
+            "text": "Home to No One Who Knew Me (N-IVδ-641 [GO]) is an Object-Void manifestation expressing Grudge, held in Zone B on the Old Lament line, ambient. It appears after long absences, glows with crimson inner fire, and changes shape whenever nobody is watching it; it returns to a district that no longer remembers it, and the district fails to recognise it in turn. The condition is to record the form, cordon the street, brief the neighbours, and do nothing to the object."
+          },
+          {
+            "line": 394,
+            "text": "> *“The artifact belongs, now, nowhere. The place it belonged to became a different place.”* — Elder, Zone C"
+          },
+          {
+            "line": 427,
+            "text": "It shifts between object forms and does not hold any of them. Identification is therefore by the crimson inner light rather than by shape, and the watch is trained on the light alone: a dozen reference images, all of different objects, all showing the same glow from within. The training is deliberately built this way because the earlier approach — a catalogue of observed forms — was found to be actively misleading, with watch members looking for a shape from the list and failing to register an unlisted one. The catalogue is retained in the file as a record of what has been seen and is marked across its face as not an identification aid."
+          }
+        ]
+      },
+      {
+        "designation": "N-IVδ-909",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md",
+        "signals": [
+          {
+            "line": 127,
+            "text": "- **Formation:** The Pillar formed from responsibility that became a permanent mental structure."
+          },
+          {
+            "line": 129,
+            "text": "- **The Event:** A border worker carried family and community obligations until the mind became a sleeping pillar."
+          },
+          {
+            "line": 269,
+            "text": "Dormant Monolith (N-IVδ-909 [N]) is a Subject-Mind manifestation expressing Void, held at the Border region in Zone E. It stands for duties that never ended, and it has never fully awakened: no obligation that has been put into it has ever come back out lifted. The Pillar formed from responsibility that became a permanent mental structure. Held at Zone E, Border region. It has never fully awakened."
+          },
+          {
+            "line": 335,
+            "text": "The mind surrendered. Not to death — to sleep. The worker, unable to continue and unable to set the duties down, fell asleep standing, the way border workers sleep, and the sleep, accepting the worker along with the duties, crystallized. Dormant Monolith is Subject-Mind, Void-element: the figure of a mind that became a structure — the duties, held past the point of human capacity, turned the mind into a pillar, load-bearing, permanent, holding up the obligations no one else remembers."
+          },
+          {
+            "line": 337,
+            "text": "The Pillar sleeps because the duties require a bearer and the bearer requires rest and the only solution, in Somnarak, was the sleep that holds both — the pillar that carries and rests simultaneously, the mind that became a structure because the structure was the only way to continue carrying what could not be set down."
+          },
+          {
+            "line": 341,
+            "text": "Some sorrows are about duty. Dormant Monolith is about duty that consumed the duty-bearer — the obligations that outlived everyone who shared them, the mind that became a pillar, the worker who sleeps standing because sleeping is the only way to continue holding what no one else will hold."
+          },
+          {
+            "line": 348,
+            "text": "> *“The mind became a structure. The duties, held past human capacity, turned the carrier into a pillar.”* — Containment Lead, R.D."
+          },
+          {
+            "line": 352,
+            "text": "> *“Obligation that consumed the oblige-bearer. The mind became a load-bearing structure.”* — Elder, Zone D"
+          }
+        ]
+      },
+      {
+        "designation": "O-IIIγ-371",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-371_Protest_No_One_Remembers_사라진_침묵.md",
+        "signals": [
+          {
+            "line": 128,
+            "text": "- **The Event:** A community's protest was erased from records, speech, and memory; its silence became a presence."
+          },
+          {
+            "line": 310,
+            "text": "The three filed relations are two other absences and one held memory, and the question worth settling is whether the radius changes shape in another presence — a measurable finding in a holding that produces almost none. Silence We Forgot We Made is the only holding that has ever changed the radius's shape; The Hollow Choir is refused as a standing matter, because voices arriving here would be content arriving; and The Whispering Walls has twice sent workers back able to state a demand and a name. None of the three is settled, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal or a transformation event."
+          },
+          {
+            "line": 312,
+            "text": "**Interaction method:** Baseline each entity alone before any joint observation, and allow more sessions here than elsewhere, since nothing from a session can be re-examined afterward and a conclusion therefore has to be built from repetition rather than from review. The relations on file concern erasure, silence and removed records, so the question worth settling is whether the radius changes shape in another presence — a measurable finding in a holding that produces almost none. Log the first mutual reaction, the triggering distance, the duration, the gauge change on both sides, the operational impact, and whether separation ends it."
+          },
+          {
+            "line": 329,
+            "text": "The community protested, and the protest was erased — from the records, from the speech, from the memory — and the erasure was so complete that no one remembered there had been a protest, and the forgotten protest became a silence that haunts the place where words were dissolved."
+          },
+          {
+            "line": 335,
+            "text": "Protest No One Remembers is Subject-Spirit, Void-element: the figure of a silence so complete it became a presence — the protest erased from records, speech, and memory, the fact of the protest dissolved so thoroughly that the very absence of the protest is itself forgotten. The entity is the ghost of the erasure — the silence that haunts the square where the words were dissolved, the absence so total that it has become, paradoxically, the only remaining evidence that something was there."
+          },
+          {
+            "line": 342,
+            "text": "> *“The protest was erased from records, speech, and memory. The erasure became a presence.”* — Keeper, Archive"
+          }
+        ]
+      },
+      {
+        "designation": "C-IVδ-103",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md",
+        "signals": [
+          {
+            "line": 132,
+            "text": "- **The Event:** Generations of suppressed emotion accumulated until distance became a presence that could drain feeling from others."
+          },
+          {
+            "line": 345,
+            "text": "The city suppressed feeling for generations, and the suppression, accumulated, became a cold that drains the warmth from anyone near it."
+          },
+          {
+            "line": 353,
+            "text": "The Frozen Veil does not attack. It drains. It drifts toward the warm — toward citizens who are, despite the Veil's training, still capable of feeling — and it draws the warmth out of them, the way cold draws heat, leaving them cooled, diminished, a little more like the city the Veil has been building. The Frozen Veil is, in a sense, the Veil's own sorrow: the loneliness of a people who suppressed feeling for so long that the suppression became a presence, a cold that walks, seeking warmth to drain."
+          },
+          {
+            "line": 364,
+            "text": "> *“The Veil’s own sorrow: the loneliness of a people who suppressed feeling so long it became a presence.”* — Keeper, Archive"
+          },
+          {
+            "line": 408,
+            "text": "It crystallized from the city's collective emotional distance — generations of suppressed feeling accumulating until distance itself became a presence capable of draining it from others. The holding's counselors treat this origin as operationally relevant rather than as background, because the entity is made of the same material its workers are at risk of becoming. Screening for the file looks for a specific trajectory: a worker whose off-duty contacts thin, whose leave is spent alone, whose reports grow more efficient and less populated. The trajectory is common in this profession and is not, by itself, a finding. On this file it is treated as one, and the rotation acts on it earlier than it would anywhere else in the wing."
+          }
+        ]
+      },
+      {
+        "designation": "N-IIIγ-585",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-585_Floating_Tree_떠다니는_나무.md",
+        "signals": [
+          {
+            "line": 365,
+            "text": "The community was scattered, and the scattered, surviving, lost every place that had given them meaning, and the loss, gathered, became a tree with no roots, floating."
+          },
+          {
+            "line": 371,
+            "text": "The sense of rootlessness accumulated. Each survivor, in their separate district, carried the same loss — the missing place, the destroyed settlement, the ground that had made them a community. And the accumulated loss, shared across the scattered survivors, sank into the Weeping and became a form: a tree. Place-Weight: the Floating Tree, a tree with no roots, hovering above the ground, the physical shape of a community that survived but lost every place that gave it meaning."
+          },
+          {
+            "line": 380,
+            "text": "> *“The community was scattered. The scattered, surviving, lost every place that gave them meaning. The loss became a floating tree.”* — Keeper, Archive"
+          },
+          {
+            "line": 428,
+            "text": "This Company does not place people by their connections. Displaced persons go onto the housing roll in the order they present and are placed from it in that order; kinship, marriage, settlement of origin, friendship and shared employment are not grounds and may not be written on a placement file. A clerk who places by connection is dismissed, and the rule is right. Group placement kept whole villages tied to one works and starved them together when it shut. Worse, a kinship list in a clerk's hands became a price: placement near a mother was sold, twice at scale, and the prosecutions filled a volume. Nobody proposes going back and this file does not."
+          }
+        ]
+      },
+      {
+        "designation": "N-IIβ-270",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-270_Neglect_Learned_to_Listen_녹슨_속삭임.md",
+        "signals": [
+          {
+            "line": 351,
+            "text": "The city discarded its burdens — the broken tools, the obsolete records, the confessions no one wanted — and the discards, piled in the Old Lament, accumulated until the neglect itself became a place that listens."
+          },
+          {
+            "line": 357,
+            "text": "Neglect Learned to Listen is Place-Grudge: the figure of neglect itself — the accumulated awareness of everything the city discarded, the collective sorrow of burdens treated as refuse, the place where the thrown-away things listen. The Whisper does not speak. It listens — the way discarded things listen, the way refuse, piled long enough, begins to attend to the world that threw it away. The Old Lament, full of the city's cast-offs, became a place that hears everything — every new burden added to the pile, every tool broken and discarded, every confession whispered and ignored — because the things in the pile have, through their accumulation, developed the capacity to attend."
+          },
+          {
+            "line": 361,
+            "text": "Some sorrows are about loss. Neglect Learned to Listen is about discard — the things thrown away, the people treated as refuse, the confessions whispered into the pile, accumulated in the Old Lament until the neglect itself became a presence that listens, because even discarded things, piled deeply enough, develop the need to be heard."
+          },
+          {
+            "line": 364,
+            "text": "> *“The city’s discarded burdens accumulated until the neglect became a place that listens.”* — Keeper, Archive"
+          }
+        ]
+      },
+      {
+        "designation": "O-IIIδ-011",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md",
+        "signals": [
+          {
+            "line": 133,
+            "text": "- **Expanded origin context:** The archive cross-references this entity's sorrow with The Desolate — the same Han density, the same Grudge signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Subject is not going anywhere."
+          },
+          {
+            "line": 337,
+            "text": "The dead of the Occlusihan needed a guardian, and the rage, denied a mourner, became a walker — a figure that patrols the Scar and judges the living by the respect they show the dead."
+          },
+          {
+            "line": 341,
+            "text": "The rage became a guardian. The accumulated fury of the un-mourned dead — the anger of soldiers who fell and were never honored, whose graves were unmarked, whose sacrifice the city edited from history — needed an agent. It needed a walker — something that could patrol the Scar, that could evaluate the visitors, that could enforce, on behalf of the dead, the respect the living had denied. And the Weeping, which gives form to every accumulated thing, gave the rage a shape that fit its function: a walker. Scar Walker, Subject-Phantasmal, Grudge-element: the figure that patrols the rift, watching, evaluating, deciding whether each visitor is worthy of passage."
+          },
+          {
+            "line": 350,
+            "text": "> *“The dead of the Occlusihan needed a guardian. The rage became a walker that patrols the Scar.”* — Keeper, Archive"
+          }
+        ]
+      },
+      {
+        "designation": "O-IIγ-007",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIγ-007_Brume_안개.md",
+        "signals": [
+          {
+            "line": 310,
+            "text": "Containment records trace the crystallization to this location — the sorrow grew patient and specific until it became a presence that cannot be removed, only held."
+          },
+          {
+            "line": 357,
+            "text": "The nomads crossed the wilderness until the crossing erased their sense of return, and the erased sense, condensed by isolation, became a fog that drifts the Desolate, expecting no one."
+          },
+          {
+            "line": 361,
+            "text": "The wandering eroded. Not the bodies — the nomads could walk. The sense of return. The nomads, crossing the wilderness year after year, generation after generation, lost, gradually, the awareness that there was a place to return to. The city, visible on the horizon, became a feature of the landscape rather than a destination — a thing you walked past, not toward. The camps, temporary, became the only permanence. And the sense that the wandering could end — that there was a home, a place, a stopping point — dissolved, the way all dissolved things dissolve in the Desolate, slowly, in the isolation and the exhaustion."
+          },
+          {
+            "line": 376,
+            "text": "> *“The despair, condensed, became a fog that drifts the Desolate, expecting no one.”* — Containment Lead, R.D."
+          }
+        ]
+      },
+      {
+        "designation": "O-IVδ-895",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-895_Survivors'_Breath_떠도는_한숨.md",
+        "signals": [
+          {
+            "line": 128,
+            "text": "- **The Event:** Citizens sighed after repeated crises until the collective breath became a wandering presence."
+          },
+          {
+            "line": 330,
+            "text": "The citizens sighed after each crisis, and the sighs, accumulated, detached from the sighers and became a presence that wanders the city, carrying the exhaustion of a people who survive one day at a time without believing the next will be easier."
+          },
+          {
+            "line": 334,
+            "text": "The sighs accumulated. Each exhalation — each acceptance, each resignation, each breath that carried the weight of one-more-day-endured — sank the way all things sink in Somnarak, into the city, into the Weeping. And the accumulated sighs, dense with the collective exhaustion of a citizenry that survives without hope, detached from the individual sighers and became a presence. Survivors' Breath is Subject-Spirit, Void-element: the figure of exhaustion that could not become rest — the collective sigh of a city that survives one day at a time."
+          },
+          {
+            "line": 343,
+            "text": "> *“The citizens sighed after each crisis. The sighs, accumulated, became a presence.”* — Keeper, Archive"
+          }
+        ]
+      }
+    ],
+    "warning": "Lexical reading-order signals, not confirmed contradictions or mandatory edits. None reviewed/credited by this screen. No next batch opened."
+  },
+  "PR": {
+    "number": 14,
+    "state": "OPEN",
+    "draft": true,
+    "base": "NON-WIKI",
+    "owner_controls_merge": true
+  },
+  "administrative_correction": "51507eb was test-suite-only, not closure, despite its title. Evidence writer syntax fixed, run once, actual CLOSED5/5 validated before this gate. No history rewritten or credit duplicated."
+}

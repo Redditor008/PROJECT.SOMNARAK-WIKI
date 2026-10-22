@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-565 [D]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; depth where there is none. workers stop trusting the floor, and the ones who are drawn in are found standing over flat g |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; depth where there is none. workers stop trusting the floor, and the ones who are drawn in are found standing over flat ground, looking down. |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A ghostly figure, half-flesh and half-mist, rising from the broken mouth of a dry well, weeping for losses no one alive remembers. Its lower body dissolves into the well's dark; its tears fall back as dust. Fever-cold, it smells of char and forgotten rain. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement** | Stationary — the half-flesh, half-mist figure remains joined to the dry rim; leaning and turning there are not travel away from the opening. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -122,6 +122,14 @@
 | **Identification** | Confirm before Work or contact: designation C-IIβ-565 `[D]`, Grudge expression, Subject-Phantasmal manifestation, Echo (II) coherence, Old Lament in Zone B. |
 
 **Appearance protocol:** Record the figure's height above the rim, the reported depth from every person present separately, and the plumb reading. Report the depths as a set and never as an average; the spread between observers is the measurement that matters. Do not write *strange* or *anomalous*; she is cold, grey, soundless and waiting, and those are the fields.
+
+### The mother, the rim and the depth
+
+Subject-Phantasmal names the mother-figure joined to the opening, not a missing child recovered from it. Grudge is the recorded pressure. She can turn toward shared sorrow or lean above the rim while remaining inseparable from it; a stationary Subject need not be reclassified as a Place. The form joins the refusal to leave with the place of the loss rather than supplying a separate woman who can walk away.
+
+The Tale's earlier well held water and an uncertain shaft. Origin explicitly places the continued calling after the shaft had firmed enough to walk on; the present plumb reading and dry floor therefore need not reproduce the earlier accident. Current observers report depth that the line does not confirm. Transformation extends that disagreement across the floor, not a measured excavation or an observed journey by the figure. A blade's reflected shaft and a Lantern's failed-rescue image likewise are not evidence of a physical cavity or a surviving child.
+
+The dry-floor account does not reconcile tainted-water and geyser attacks, the Watch Record's dark-water bottom, or the speed figure with never leaving the rim. Confirmed sightings at other loss sites also lack a supplied relationship to the inseparable local figure. Side Codex A describes upward dust and its own transformation response; neither establishes a new water-bearing body, a travelling mother or a recovered voice. These remain source conflicts, not additional states certified by this profile.
 
 ## Origin
 - **Formation:** The Well formed from a mother's grief after failing to protect her child.
@@ -290,7 +298,7 @@ The search record and the missing-person file sit in the same folder and neither
 
 ## 감각 묘사 (Flavor Text)
 
-The ground opens into darkness. A figure rises from the rim, dripping with water that is not water. You look down and feel someone else searching. The Well is broken, but the question remains whole: where did they go?
+The opening looks deep despite its measured floor. A figure rises from the dry rim; her tears fall as dust, not water. You look down and feel someone else searching. The Well is broken, but the question remains whole: where did they go?
 
 
 

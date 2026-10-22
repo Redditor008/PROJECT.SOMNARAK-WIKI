@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A burning humanoid carrying fragments of an object that no longer exists — its fire crimson-black, its hands cupped around something already gone. Fever-hot and lead-cold, it smells of char and wet stone; it guards what cannot be recovered. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | It walks the Desolate and has no fixed route; it is located by heat rather than by position. Record the air temperature at one metre, which is the reading and has ranged from forty-one degrees to one hundred and nine, and record what it is carrying, which is nothing. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 20–28 per cycle, collected in the open Desolate beside a heat source that is not burning anything. The survey office bills the cycle as a thermometry run, which is what it looks like from outside. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
 | **Recommended response** | Take the temperature, bear the heat, and name something that was lost — aloud, with a description, from the facility's own destruction entries. Viderehan and Ferrehan only. |
@@ -98,6 +98,9 @@
 - An unworked cycle leaves the baseline a degree or two higher. It has risen eleven degrees in nine years that way, and no action on record has ever brought the baseline down — only the cycle temperature.
 
 ## Appearance
+
+**The bearer and the missing thing:** Keep the crimson-black figure, its cupped hands and the object claimed to occupy them as separate observations. The humanoid outline is the recorded manifestation, not an identified expedition member. A description of something destroyed can answer the sorrow without identifying the relic. Do not turn an expert’s proposed match into a recovered fragment: the brief Returned Nothing produces incompatible witness accounts and is itself a hazard. Temperature, hand position and letter-shaped absences remain useful readings even where the object has no secure description. The War-Cleaver, Burden and Charm are derived equipment, not recovered pieces that establish what the lost artifact looked like.
+
 **Primary Form:** A burning humanoid figure carrying fragments of an object that no longer exists. Its fire is crimson-black and leaves no ash.
 
 **Notable Features:** It protects the memory of a vanished relic and responds to anyone who tries to dismiss it.
@@ -183,6 +186,8 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
+**Attack pattern:** Skewer, full damage at the primary target, seventy per cent at the first pierced target and fifty per cent at the second. The cleaver’s bronze bands, lead seals and ember notches are equipment features, not a reconstruction of the vanished relic. Its source-trace records retaliatory fury; naming the lost expedition event binds the use without claiming to have lived it. First-person retelling is the corrosion warning. A named witness states the source title and event while the bearer relinquishes the weapon; attribution review precedes cleaning or rest, and shutdown does not repay the burden or aging cost.
+
 **Ability:** Weight against the Han. The target's own reserves come back lighter afterwards and they cannot say by how much, which the Armoury has measured and the targets cannot feel.
 
 **Cost:** The wielder feels progressively heavier and ages slightly, and begins to find gaps in indexes intolerable.
@@ -205,6 +210,8 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 
 **Cost:** The wearer feels every loss attached to the object.
 
+**Burden debrief:** Preserve the mantle’s undescribed shoulder patch as a marker, not a proposed outline of the relic. Its endurance benefit does not establish who owned the lost thing. Record losses felt during wear alongside the wearer’s sealed possession descriptions; feeling another loss is not the same observation as losing a description of one’s own object. If the expedition is being recounted as autobiography, the witness names the source event during relinquishment. Keep both costs on file rather than treating attribution as restoration.
+
 ### M.A.W. Stigma — The Relic Charm
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
@@ -220,6 +227,8 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 **Cost:** The bearer moves a little slower.
 
 *The stigma is not manufactured. It is given to a worker who described a destroyed record in the register rather than numbering it, and has never been given to one who told the entity the relic was a legend.*
+
+**Charm custody:** Keep each handler’s description with its attribution instead of choosing one of the incompatible shapes as the true relic. Its description-status warning checks a register; it does not supply the missing words. Preserve that distinction when comparing the slower bearer’s account with the sealed descriptions after use. The source-trace shutdown requires a named witness and relinquishment while the lost expedition event is stated. Neither a granted Charm nor a complete list of its handlers establishes the artifact’s identity or refunds an owner’s lost description.
 
 ### M.A.W. Use Notes
 
@@ -355,7 +364,7 @@ Some sorrows mourn a loss. Pandora's Jar mourns an erasure — the object gone a
 **Comprehension Level:** 2 — Basic
 **Threat Assessment (Pandora's Jar):** Critical (δ). 9 years, 94 cycles, 4 manifestations, 2 erasure events, no fatalities — and a baseline 11 degrees above ambient that no action has ever brought down.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
+- Take the temperature, bear the heat, and name something that was lost — aloud, with a description, from the facility's own destruction entries. Viderehan and Ferrehan only.
 - Standard R.D. containment protocols apply.
 - See Breach Behavior or Activation Behavior for escalation response.
 **Observation Notes:**

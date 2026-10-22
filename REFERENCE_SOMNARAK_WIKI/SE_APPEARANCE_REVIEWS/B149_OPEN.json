@@ -1,0 +1,73 @@
+{
+  "batch": 149,
+  "base": "6ad6b1a00ab8ea8229110dc98341ce8645de3b91",
+  "pending": 280,
+  "candidates": 127,
+  "pattern": "changes? shape|shifts? between.*forms|became (?:a|an|the) ",
+  "selection": "Pending only; equipment block excluded. Descending matching-line count, tie full designation. Reading cues, not defects or forced changes.",
+  "queue": [
+    {
+      "designation": "C-IIIγ-180",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-180_Owed_빚의_벽.md",
+      "signals": 4,
+      "evidence": [
+        "The debt grew until it became a wall, and the wall grew until the city could no longer see over what it owed.",
+        "Some sorrows are carried. Owed is a sorrow that, carried too long by too many, stopped being a burden and became a wall — and now blocks the very people who spent their lives trying to pay it down.",
+        "The municipality could not maintain a length it could not reach and would not carry the exposure. The facility needed access to the face for the work cycles, and access to a highway is public, which meant it was working in a place it could not control. A transfer was agreed: **the facility became the highway authority for the obstructed length**, four hundred metres of it, in exchange for exclusive access.",
+        "Eleven weeks later the facility, as the authority, made a **prohibition order** over the whole four hundred metres on grounds of danger. The order is lawful. The length is genuinely dangerous. The effect of it is that the public's right to use the road — the indefeasible right that survives the obstruction, the one thing in this file that could not be taken away by anybody — became a right that it is an offence to exercise."
+      ],
+      "sha256": "45fb0f278dfb77d4224f6eb0e89424a2c8d8d5764dec94b46b4df8139cdc944a"
+    },
+    {
+      "designation": "C-IIβ-330",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-330_Frozen_Window_얼어붙은_창.md",
+      "signals": 4,
+      "evidence": [
+        "- **The Event:** A person waited at a window for someone who never returned. Their restless grief became a moving figure.",
+        "She waited at the window, and the waiting, given nowhere to go, became a window that waits still.",
+        "> *“She waited for years. She never looked away. The waiting became the window.”* — Keeper, Archive",
+        "- The waiting became the walking; the scenes in the surface are what was being watched for."
+      ],
+      "sha256": "4cc97fdb3337cbe4564562bb46ab50b79fde1edba505bae716d433d42b7faed9"
+    },
+    {
+      "designation": "C-IIβ-565",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-565_Broken_Well_부서진_우물.md",
+      "signals": 4,
+      "evidence": [
+        "- **The Event:** A child disappeared into a Han-softened well; the mother remained beside it until the well became a figure.",
+        "Her child went down the well, and the mother, refusing to leave the place that had taken her, became the well.",
+        "Those who come near the Broken Well hear the calling — a mother's voice, faint, repeating a child's name, unanswered, unanswerable. And they feel the specific grief of searching where there is nothing to find: the love that will not leave the site of its loss, the hope that outlasts all evidence, the mother who became the place that took her child because leaving it would have been a betrayal she could not survive.",
+        "A child went into a Han-softened shaft and the mother stayed at its edge until the well itself became a figure, and the commissioning file holds the search record. It ran for some days and then stopped. The archivist's note states that the stopping was properly authorised, that the authorisation is in the folder, and that the mother was not consulted about it."
+      ],
+      "sha256": "76844337cc091acc25bd700642e199eec7d1a0898d9f2a9cb7109c2dec197a2d"
+    },
+    {
+      "designation": "C-IVω-001",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md",
+      "signals": 4,
+      "evidence": [
+        "> *“A thousand of the poorest were promised relocation — and became the foundation the city stands on.”*",
+        "- **The Event:** During the early Consolihan, the weakest and poorest citizens were told they were being relocated. The ground opened, Han consumed them slowly, and their bodies, memories, and loves became the foundation of the city.",
+        "The thousand became the foundation. The Alpha Tree stabilized — drawing on the sorrow of the consumed, the grief of a thousand dissolved citizens powering the tree that powers the city. The Council sealed the district. The Council told the citizens it was a natural disaster. The Council did not mention the Menders' warning, or their own inaction, or the seventeen minutes of screaming the Wardens counted and recorded and did not stop.",
+        "> *“A thousand citizens, consumed by the Han, became the foundation the city stands on.”* — Keeper, Archive"
+      ],
+      "sha256": "b9288a9a0090233be1c86abc349a750ae061f5bee41d1075743e858ccc02d518"
+    },
+    {
+      "designation": "N-IIIγ-585",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-585_Floating_Tree_떠다니는_나무.md",
+      "signals": 4,
+      "evidence": [
+        "The community was scattered, and the scattered, surviving, lost every place that had given them meaning, and the loss, gathered, became a tree with no roots, floating.",
+        "The sense of rootlessness accumulated. Each survivor, in their separate district, carried the same loss — the missing place, the destroyed settlement, the ground that had made them a community. And the accumulated loss, shared across the scattered survivors, sank into the Weeping and became a form: a tree. Place-Weight: the Floating Tree, a tree with no roots, hovering above the ground, the physical shape of a community that survived but lost every place that gave it meaning.",
+        "> *“The community was scattered. The scattered, surviving, lost every place that gave them meaning. The loss became a floating tree.”* — Keeper, Archive",
+        "This Company does not place people by their connections. Displaced persons go onto the housing roll in the order they present and are placed from it in that order; kinship, marriage, settlement of origin, friendship and shared employment are not grounds and may not be written on a placement file. A clerk who places by connection is dismissed, and the rule is right. Group placement kept whole villages tied to one works and starved them together when it shut. Worse, a kinship list in a clerk's hands became a price: placement near a mother was sold, twice at scale, and the prosecutions filled a volume. Nobody proposes going back and this file does not."
+      ],
+      "sha256": "ea28a66d1e1ed1c3a7ec770da6cf0bdc79d8a58302f4a444738ea4fbce082774"
+    }
+  ],
+  "rule": "R-33 Integrity Visual Live Check Rule; whole-file before/after, technical checks not logical PASS, held not completed; no rendered/preview inspection is implied or in scope.",
+  "authorization": "Owner P plus rule naming instruction authorizes149only; no150.",
+  "recovery": "174restored paths byte-identical352552f before mixed realignment; no loss."
+}

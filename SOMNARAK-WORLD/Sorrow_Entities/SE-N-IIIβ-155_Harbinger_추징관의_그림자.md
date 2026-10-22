@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-155 [WS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; every intervals shortens at once. announcements that stood at weeks stand at days, across the whole row |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; each warning interval shortens at once. Announcements that stood at weeks stand at days, across the whole Row |
 | **Coherence** | Fragment (III) — Relentless and patient |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -154,7 +154,7 @@ The gauge on this holding is a poor instrument and the wing has said so for deca
 |---|---|
 | **Event Type** | Transformation in place |
 | **Movement** | It attaches behind several subjects at once and holds station on each. It does not seep, does not fill corridors, and does not seek anybody out: it is already where the obligation is. The earlier entry describing it flooding the facility has been struck. |
-| **Effect** | Every intervals shortens at once. Announcements that stood at weeks stand at days, across the whole Row. |
+| **Effect** | Every warning interval shortens at once. Announcements that stood at weeks stand at days, across the whole Row. |
 | **Secondary Effect** | Workers can see which of their colleagues are being followed, and the colleagues cannot. |
 | **First Target** | No target. It stands behind whoever has something pending against them that nobody has said out loud. |
 | **Escalation** | Each cycle unaddressed, the intervals shorten further and the Resolve drain rises by 5. It ends when each followed subject is told what is pending. |
@@ -190,6 +190,8 @@ The gauge on this holding is a poor instrument and the wing has said so for deca
 
 **Cost:** The wielder carries weight for days and tires early; two have handed it back inside a month.
 
+**Issue control:** The Shadow Maul’s individual record requires a named financial reviewer, a verified balance and a marked uncertainty before it rises. The reviewer names a balance fact the weapon cannot override. A shadow pointing toward a person before verification suspends use; a hidden disputed field reopens review. The opaque case sleeve and the affected person’s name are the recorded shutdown, not breaking the Maul. These controls do not authorize striking Harbinger: the Row’s maul remains assigned to mirror frames and fabric, with no tested attack on the holding.
+
 ### M.A.W. Suit — The Shadow Step
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
@@ -208,6 +210,8 @@ The gauge on this holding is a poor instrument and the wing has said so for deca
 
 **Cost:** People forget the wearer was present. Three have been left off duty rosters by supervisors who had spoken to them that morning.
 
+**Return control:** The Step’s individual record assigns a partner who can locate, call and retrieve the wearer. Before concealment, both test the return call in a lit corridor and record the expected return point. A fading heel mark or a step without a shadow stops the movement; secrecy is not a reason to remain concealed. The partner calls the task, touches the heel return mark and releases the catch. Cutting both greaves loose risks an unlocatable shadow state, so the roster check after return remains necessary even when the call was answered.
+
 ### M.A.W. Stigma — The Shadow Charm
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
@@ -223,6 +227,8 @@ The gauge on this holding is a poor instrument and the wing has said so for deca
 **Cost:** The bearer slows, and stops in doorways, and is late to things they were early for.
 
 *The charm is given and never issued, and only to a worker who showed a subject their own distance series when asked. Four of them exist.*
+
+**Reading limit:** The Charm’s individual record requires an independent reviewer who may dispute its reading. Source, uncertainty and next action stay beside the displayed obligation. A pressure line is neither a lawful claim nor a collection order, and it cannot force disclosure of private circumstances. The reviewer covers the text, names the next action and unhooks the Charm; storage is face-down with the review, not beside a collection notice alone. A second Charm is unusable because it points to every obligation at once.
 
 ### M.A.W. Use Notes
 

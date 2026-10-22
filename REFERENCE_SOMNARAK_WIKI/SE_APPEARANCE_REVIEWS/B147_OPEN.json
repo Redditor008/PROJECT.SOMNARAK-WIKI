@@ -1,0 +1,190 @@
+{
+  "batch": 147,
+  "base": "fa57929b3969ef0090213b8b75cc51bfc05f8e96",
+  "pending": 290,
+  "held": 1,
+  "blocked": 2,
+  "candidates": 136,
+  "pattern": "changes? shape|shifts? between.*forms|became (?:a|an|the) ",
+  "queue": [
+    {
+      "designation": "N-IVδ-611",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-611_Sleeping_Shard_잠든_조각.md",
+      "signals": [
+        {
+          "line": 42,
+          "text": "- Pressure is identity-class. The figure changes shape inside dreams, and workers report their own outline feeling uncertain afterward."
+        },
+        {
+          "line": 101,
+          "text": "**Primary Form:** A sleeping figure made from a large shard of pale crystal. It weeps while unconscious and changes shape inside dreams."
+        },
+        {
+          "line": 109,
+          "text": "- **Primary marker:** A sleeping figure made from a large shard of pale crystal. It weeps while unconscious and changes shape inside dreams."
+        },
+        {
+          "line": 118,
+          "text": "| **Form** | A sleeping figure made from a large shard of pale crystal. It weeps while unconscious and changes shape inside dreams. |"
+        },
+        {
+          "line": 124,
+          "text": "**Appearance protocol:** Record the body and the shard separately: the figure changes shape while it dreams and the crystal does not. Log the weeping — whether it is running, how far it travels before it stops being liquid, and at what distance from the Dream layer that happens. Scale, posture and the attitude of the curl move before anything else does."
+        },
+        {
+          "line": 129,
+          "text": "- **The Event:** An exile entered a dream to escape grief and became a sleeping crystal figure."
+        },
+        {
+          "line": 336,
+          "text": "Sleeping Shard is Subject-Lament, Void-element: the figure of a grief deliberately placed into sleep — the exile who wanted to stop feeling without losing the memory, and who achieved, through the dream, exactly that: the suspension of pain, the preservation of memory, the eternal half-state of one who chose sleep over suffering and received, from the dream, a sleep so thorough it became a crystal."
+        },
+        {
+          "line": 351,
+          "text": "> *“The choice that seemed like mercy and became a prison.”* — Mender, Dream Gates"
+        },
+        {
+          "line": 438,
+          "text": "- The body is the dream's own product and changes shape only inside the layer, which is the only evidence available that the dream is still running."
+        }
+      ]
+    },
+    {
+      "designation": "N-IVδ-909",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md",
+      "signals": [
+        {
+          "line": 127,
+          "text": "- **Formation:** The Pillar formed from responsibility that became a permanent mental structure."
+        },
+        {
+          "line": 129,
+          "text": "- **The Event:** A border worker carried family and community obligations until the mind became a sleeping pillar."
+        },
+        {
+          "line": 269,
+          "text": "Dormant Monolith (N-IVδ-909 [N]) is a Subject-Mind manifestation expressing Void, held at the Border region in Zone E. It stands for duties that never ended, and it has never fully awakened: no obligation that has been put into it has ever come back out lifted. The Pillar formed from responsibility that became a permanent mental structure. Held at Zone E, Border region. It has never fully awakened."
+        },
+        {
+          "line": 335,
+          "text": "The mind surrendered. Not to death — to sleep. The worker, unable to continue and unable to set the duties down, fell asleep standing, the way border workers sleep, and the sleep, accepting the worker along with the duties, crystallized. Dormant Monolith is Subject-Mind, Void-element: the figure of a mind that became a structure — the duties, held past the point of human capacity, turned the mind into a pillar, load-bearing, permanent, holding up the obligations no one else remembers."
+        },
+        {
+          "line": 337,
+          "text": "The Pillar sleeps because the duties require a bearer and the bearer requires rest and the only solution, in Somnarak, was the sleep that holds both — the pillar that carries and rests simultaneously, the mind that became a structure because the structure was the only way to continue carrying what could not be set down."
+        },
+        {
+          "line": 341,
+          "text": "Some sorrows are about duty. Dormant Monolith is about duty that consumed the duty-bearer — the obligations that outlived everyone who shared them, the mind that became a pillar, the worker who sleeps standing because sleeping is the only way to continue holding what no one else will hold."
+        },
+        {
+          "line": 348,
+          "text": "> *“The mind became a structure. The duties, held past human capacity, turned the carrier into a pillar.”* — Containment Lead, R.D."
+        },
+        {
+          "line": 352,
+          "text": "> *“Obligation that consumed the oblige-bearer. The mind became a load-bearing structure.”* — Elder, Zone D"
+        }
+      ]
+    },
+    {
+      "designation": "N-IVδ-641",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-641_Home_to_No_One_Who_Knew_Me_돌아온_유물.md",
+      "signals": [
+        {
+          "line": 102,
+          "text": "**Physical Form:** A black relic that appears in the Old Lament after long absence. It glows with a crimson inner fire and shifts between object forms."
+        },
+        {
+          "line": 110,
+          "text": "- **Primary marker:** A black relic that appears in the Old Lament after long absence. It glows with a crimson inner fire and shifts between object forms."
+        },
+        {
+          "line": 119,
+          "text": "| **Form** | A black relic that appears in the Old Lament after long absence. It glows with a crimson inner fire and shifts between object forms. |"
+        },
+        {
+          "line": 125,
+          "text": "**Appearance protocol:** Record the light, not the shape. The relic shifts between object forms and holds none of them, so the identifying feature is the crimson fire inside it: log the colour, the depth at which it appears to sit within the object, whether it pulses, and the heat, which is fever-hot and reads on an instrument at a distance it should not. The form is recorded in a separate field and is marked unidentified by default, because the watch is trained on the light alone — a dozen reference images, all of different objects, all showing the same glow from within. The earlier approach of cataloguing observed forms was found to be actively misleading, with watch members looking for a shape from the list and failing to register an unlisted one. That catalogue is kept as a record of what has been seen and is marked across its face as not an identification aid."
+        },
+        {
+          "line": 315,
+          "text": "Home to No One Who Knew Me (N-IVδ-641 [GO]) is an Object-Void manifestation expressing Grudge, held in Zone B on the Old Lament line, ambient. It appears after long absences, glows with crimson inner fire, and changes shape whenever nobody is watching it; it returns to a district that no longer remembers it, and the district fails to recognise it in turn. The condition is to record the form, cordon the street, brief the neighbours, and do nothing to the object."
+        },
+        {
+          "line": 394,
+          "text": "> *“The artifact belongs, now, nowhere. The place it belonged to became a different place.”* — Elder, Zone C"
+        },
+        {
+          "line": 427,
+          "text": "It shifts between object forms and does not hold any of them. Identification is therefore by the crimson inner light rather than by shape, and the watch is trained on the light alone: a dozen reference images, all of different objects, all showing the same glow from within. The training is deliberately built this way because the earlier approach — a catalogue of observed forms — was found to be actively misleading, with watch members looking for a shape from the list and failing to register an unlisted one. The catalogue is retained in the file as a record of what has been seen and is marked across its face as not an identification aid."
+        }
+      ]
+    },
+    {
+      "designation": "O-IIIγ-371",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-371_Protest_No_One_Remembers_사라진_침묵.md",
+      "signals": [
+        {
+          "line": 128,
+          "text": "- **The Event:** A community's protest was erased from records, speech, and memory; its silence became a presence."
+        },
+        {
+          "line": 310,
+          "text": "The three filed relations are two other absences and one held memory, and the question worth settling is whether the radius changes shape in another presence — a measurable finding in a holding that produces almost none. Silence We Forgot We Made is the only holding that has ever changed the radius's shape; The Hollow Choir is refused as a standing matter, because voices arriving here would be content arriving; and The Whispering Walls has twice sent workers back able to state a demand and a name. None of the three is settled, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal or a transformation event."
+        },
+        {
+          "line": 312,
+          "text": "**Interaction method:** Baseline each entity alone before any joint observation, and allow more sessions here than elsewhere, since nothing from a session can be re-examined afterward and a conclusion therefore has to be built from repetition rather than from review. The relations on file concern erasure, silence and removed records, so the question worth settling is whether the radius changes shape in another presence — a measurable finding in a holding that produces almost none. Log the first mutual reaction, the triggering distance, the duration, the gauge change on both sides, the operational impact, and whether separation ends it."
+        },
+        {
+          "line": 329,
+          "text": "The community protested, and the protest was erased — from the records, from the speech, from the memory — and the erasure was so complete that no one remembered there had been a protest, and the forgotten protest became a silence that haunts the place where words were dissolved."
+        },
+        {
+          "line": 335,
+          "text": "Protest No One Remembers is Subject-Spirit, Void-element: the figure of a silence so complete it became a presence — the protest erased from records, speech, and memory, the fact of the protest dissolved so thoroughly that the very absence of the protest is itself forgotten. The entity is the ghost of the erasure — the silence that haunts the square where the words were dissolved, the absence so total that it has become, paradoxically, the only remaining evidence that something was there."
+        },
+        {
+          "line": 342,
+          "text": "> *“The protest was erased from records, speech, and memory. The erasure became a presence.”* — Keeper, Archive"
+        },
+        {
+          "line": 346,
+          "text": "> *“The silence so complete it became the ghost of the speech it replaced.”* — Containment Lead, R.D."
+        }
+      ]
+    },
+    {
+      "designation": "O-Iα-169",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-169_Atlas_녹슨_기둥.md",
+      "signals": [
+        {
+          "line": 136,
+          "text": "- **Formation:** The Pillar formed from support that became an identity."
+        },
+        {
+          "line": 291,
+          "text": "Atlas (O-Iα-169 [WP]) is carried on the register as a Place-Weight manifestation expressing Weight. The Pillar formed from support that became an identity. Held at Zone D, Forge District. It supports no visible structure yet never falls."
+        },
+        {
+          "line": 355,
+          "text": "Atlas is Place-Weight: the figure of a support that became an identity — the worker who held and was held, who braced against the collapse and was absorbed by it, who became part of the structure because the holding was so prolonged and so total that the holder and the held merged. The Pillar rusts because the incorporation was not clean — the organic and the structural fused imperfectly, and the fusion, exposed to the Han and the air, corrodes, slowly, the way all fusions corrode when the joined materials were not meant to join."
+        },
+        {
+          "line": 361,
+          "text": "Some sorrows are about sacrifice. Atlas is about the sacrifice that became the sacrificer — the worker who held and was held, who braced and was braced, rusted into the foundation, supporting, permanently, the structure that ate the person who kept it standing."
+        },
+        {
+          "line": 364,
+          "text": "> *“He held the collapsing structure so others could escape. No one came back. He became the foundation.”* — Keeper, Archive"
+        },
+        {
+          "line": 372,
+          "text": "> *“Sacrifice that became the sacrificer. The worker who held and was held.”* — Elder, Zone D"
+        }
+      ]
+    }
+  ],
+  "warning": "Lexical reading order only, not confirmed defects, silhouette census, or completed reviews. Excludes equipment text, held884, two blocked markers and eight completed bodies."
+}

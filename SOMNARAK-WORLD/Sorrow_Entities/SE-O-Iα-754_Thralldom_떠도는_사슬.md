@@ -191,6 +191,8 @@ The sword marks territorial boundaries across chamber floors. Entities crossing 
 
 **Cost:** Every injury the wielder has ever recovered from begins to ache again, and faint bruising surfaces along the lines of old breaks. Nothing new is damaged. The body is simply reminded of everything it has already been held by.
 
+**Voluntary return:** The individual Weapon record requires care to remain distinct from restraint, with an open exit preserved. Its warning progression is blurred attribution, compulsion accepted as normal, then the originating event repeated through the operator. Record source, bearer, trigger, result and unresolved uncertainty before debrief; cleaning or rest follows that review. A named witness restates the resolution while the bearer relinquishes the blade voluntarily. Taking it by force is not the shutdown described in that record, and no piece claims to resolve the Chain alone.
+
 ### M.A.W. Suit — The Wandering Plate
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
@@ -209,6 +211,8 @@ The sword marks territorial boundaries across chamber floors. Entities crossing 
 
 **Cost:** The harness answers slightly after the wearer does. Nothing is prevented, but every movement away from something becomes deliberate, and wearers report that stepping back out of a bad situation now requires a decision where it used to require none.
 
+**Working exit:** The Plate’s individual history records release only when its own wearer could leave. The open door is therefore part of that test, not a promise made by the person supervising it. Source emotion entering the wearer can make custody feel like protection, while the primary account records withdrawal becoming deliberate. Preserve both observations in debrief rather than treating compliance as consent. Its recorded emergency procedure requires voluntary relinquishment while a named witness restates the resolution; maintenance follows the debrief, with unresolved uncertainty still attached.
+
 ### M.A.W. Stigma — The Wandering Link
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
@@ -223,6 +227,8 @@ The sword marks territorial boundaries across chamber floors. Entities crossing 
 
 **Cost:** The wearer feels every bond they have left behind.
 
+**Unattached link:** The individual Stigma history distinguishes acknowledging an obligation from fastening it to a body. Its corrosion account makes the danger concrete: the single link starts seeking a second and then a third as compulsion becomes ordinary. Keep the source, bearer, trigger, result and unresolved uncertainty for debrief before rest or cleaning. A named witness restates the resolution while the bearer gives it up voluntarily. Revealing a coercive bond does not authorize replacing it with a new one, even when the bearer calls the replacement care.
+
 *The Link is given, not taken — which for this entity is the whole of the matter. It has appeared only on workers who let the Chain leave, and no procedure has ever produced one by holding on.*
 
 ### M.A.W. Use Notes
@@ -235,7 +241,7 @@ Each piece remains part of the Chain, and the set has a property the grades do n
 |---|---|
 | **Before use** | Wielder, piece and the issue-day gauge, with one pre-check written down: on pieces taken from the Chain, old injuries wake in the order they were received and faint bruising rises along the lines of the old breaks. Nothing new is being done to the body — the toll is entirely in what it remembers. |
 | **During use** | Charging shows in the bearer first: the healed injuries start aching again, oldest to newest, and bruising comes back along the old lines with nothing fresh having struck them. The second worker logs the hour, and the bearer's account is taken afterwards and kept apart from it. |
-| **At limit** | The harness answers slightly after the wearer does. Nothing is prevented, but every movement away from something becomes deliberate, and wearers repor, and the wielder has stopped reporting it — the usual end point for a Thralldom piece. The observer calls the limit. |
+| **At limit** | The harness answers slightly after the wearer does. Nothing is prevented, but every movement away from something becomes deliberate, and wearers report that stepping back out of a bad situation now requires a decision where it used to require none, and the wielder has stopped reporting it — the usual end point for a Thralldom piece. The observer calls the limit. |
 | **After use** | Return the piece, reconcile the baseline, and enter whether the toll has let go — the lag between the wearer's intention and the answer of the metal, and the way every movement away from something turned deliberate, both have to have eased. Where they have not, the piece is not reissued to that bearer. |
 
 **Stat interpretation:** The α grades are accurate and unremarkable — three to six damage, ten to fifteen Echoes, nothing concealed. What they omit is that this set's costs are all exerted on the wearer's capacity to disengage, which is not a combat statistic and does not appear on any sheet. Read the Cost lines as the specification.

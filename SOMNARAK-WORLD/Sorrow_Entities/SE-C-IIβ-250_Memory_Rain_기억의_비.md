@@ -107,7 +107,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Lament
 - **Primary marker:** Rain made from crystallized memory fragments. Each drop contains a face, voice, place, or feeling.
-- **Position / movement:** Fixed above the Gardens and spreading rather than travelling; the droplets drift downward rather than dropping. Record the extent of the fall against the Garden paths, never a direction.
+- **Position / movement:** The manifestation remains above the Echo Gardens while its falling area can widen across the paths. The tear-sized beads themselves drift downward. Record both the footprint and this local drift: stationary Place weather does not mean its droplets are motionless, and a wider fall is not a travelling creature.
 - **Element signature:** Lament
 - **Registered location:** Zone D, Echo Gardens — periodic
 
@@ -123,12 +123,14 @@
 
 **Appearance protocol:** Record the fall and not the contents. Duration, intensity against the municipal gauge, extent across the Garden paths, the clarity of the sky above it, and the interval since the last fall. What is inside the beads is not recorded at all: the fragments belong to people the facility cannot identify, no method of preserving one has ever worked, and a description written from a dissolved drop is a stranger's life summarised by somebody who held it for a second and a half. Wardens are not asked what they saw and the form has no field for it.
 
+**Distributed form:** The visible faces, hair and skin are fragments inside droplets, not evidence of people housed in a rain-body. There is no single head, torso or walking support to find above the paths: identify this Place by the spread of the fall, the individual drifting beads and their change on contact. Fallen crystals and a touched vision are different recorded outcomes, not proof that every bead survives handling. Keep the clock, intensity and footprint together; shelter and an apparently gentle fall do not establish which memories are the worker’s own.
+
 ## Origin
 - **Formation:** The Rain formed from memories too numerous for the city to hold.
 - **The Sorrow:** The weight of too many lives pressing upward until the sky had to release them.
 - **The Event:** The city's accumulated memories condensed above Zone D and began falling as crystalline rain.
 - **The People:** Nobody. The commissioning material is demographic rather than personal — registers, density figures, raw counts for the period — and the archivist's note observes that the folder contains no individual story at all, which is correct, the entity having been made by a quantity rather than by a person.
-- **Expanded origin context:** The entity's story has spread through the facility — not as official documentation, but as whispered legend. Personnel speak of it in hushed tones, sharing what they have felt, what they have seen, what they have understood. The entity has become more than a containment subject. It has become a teacher. A mirror. A reminder that behind every Sorrow Entity is a story — a story of loss, of grief, of the weight of being human in a city built on sorrow.
+- **Expanded origin context:** The commissioning folder holds registers, density figures and raw counts rather than one originator’s story. Beneath the city, the Weeping carries residues of lives as well as sorrow; above the Echo Gardens, their accumulated pressure exceeded what the ground could hold. On the first still night the stars blurred and slow blue, luminous crystals began to fall. A touched bead returns a stranger’s face, voice, place or feeling rather than the collector’s own past. The Keepers log the dates while citizens buy umbrellas that keep nothing out. This is a quantity of lives becoming periodic weather, not an identified person transformed into a rain-bearing creature. The Watch’s demographic account and the Tale’s overloaded river explain the same collective origin without making any one fragment the biography of the whole holding.
 
 ## Behavior
 
@@ -233,6 +235,8 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 *Nobody issues the Charm. It settles on whoever stands a fall from beginning to end — eleven of sixty-one falls on record, the only regularity this file has ever found, and useless to plan around.*
 
+**Linked equipment handling:** The Requiem’s suspended drop and the Umbrella’s channelled canopy adapt the rain into equipment rather than reproduce the weather’s scale. Their linked records require current identity anchors: the blade separates an invasive memory, not the host’s own past; the canopy retains caught fragments and must not be folded while loaded; the Charm restores a current self-fact without proving every other memory false. Keep the blade’s foreign grief, the canopy’s processing debt and the Charm’s sleep-tears distinct. Those linked care instructions do not settle the local prohibition on collection, content recording or Archive transfer. Nor do they establish the Requiem as a transformed Vigil Hand-Cannon: that same-item identity remains unresolved.
+
 ### M.A.W. Use Notes
 
 Every piece in this set comes out of standing water, drawn under separate authorisation, and holds what a fall left behind rather than anything cut from the holding — nothing can be cut from weather. The Umbrella slides the beads off intact, which is the closest thing to preservation anyone here has managed and lasts some four seconds. The Charm arrives on its own terms. All three are paid for in sleep.
@@ -307,7 +311,7 @@ A bead on the hand becomes a child's laugh. The next becomes a soldier's goodbye
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: Rain made from crystallized memory fragments. Each drop contains a face, voice, place, or feeling. Notable Features: It falls from clear skies, dissolves into vision on contact, and covers the Gardens in tiny memories. Identification Profile: The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Place-Lament form.
+**At first contact:** Look above the Garden paths: a clear sky, then slow glassy beads drifting at head height, each tear-sized and holding a face, a voice, a place or a feeling. They are cool and smell faintly of rain on old flowers. A bead touching skin dissolves into a brief foreign recollection without wetting the worker; beads left on the ground are recorded as crystallising. Log sky, start time, intensity and extent, not a stranger’s story. The timekeeper stays outside the fall and calls the limit; the worker beneath it cannot extend that limit, even to try again for a fragment already lost.
 
 **With continued exposure:** The longer you stay, the more specific the sorrow becomes. This is not generic Lament; it is this entity's Lament — shaped by its origin, its wound, its particular grief.
 

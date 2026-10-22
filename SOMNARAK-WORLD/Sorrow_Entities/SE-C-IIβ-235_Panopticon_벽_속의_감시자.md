@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-235 [VS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; the affected zone loses definition — colour drains, sound goes, and personnel lose confidence about which corridor they  |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. The affected zone loses definition — colour drains, sound goes, and personnel lose confidence about which corridor they are in. Nothing leaves the occupied fabric. |
 | **Coherence** | Echo (II) — Repeats watching |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Non-Organic — Not a body but eyes — embedded in walls, ceilings, and doorframes, watching, blinking. A translucent watcher-figure may coalesce only once the observer accepts being seen. The walls are bloodless-cold and smell of ash; the eyes never look away. |
+| **Physical Form** | Non-Organic — Eyes embedded in walls, ceilings and doorframes, ordinarily open and unblinking. Under Flerehan the section blinks once together; a translucent watcher-figure may coalesce only when the observer accepts being seen. Bloodless-cold walls and an ash smell mark the occupied fabric, not a body walking the rounds. |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -98,9 +98,12 @@
 - An unacknowledged watch leaves the fabric wider. The corrupted stretch has grown from four corridors to eleven in nine years and has never contracted.
 
 ## Appearance
+
+**Distribution and witnessed figure:** The ordinary design is a field of eyes in existing plaster, ceiling and doorframe, not a person concealed behind each opening. Log each position on the current plan and mark the chalk extent on the floor without covering an eye. Acceptance can make a translucent watcher visible to the particular observer; its optional description is not a compulsory anatomy survey. Keep any sighting separate from tally changes, the collective Flerehan blink, spoken names and the recorded reach or wall-opening incidents. Those incidents do not by themselves establish a walking figure or its speed. Corruption changes the occupied fabric’s extent and legibility while nothing escapes it.
+
 **Primary Form:** Eyes set into the fabric itself — plaster, ceiling, doorframes — open, steady, and turned toward whoever is in the corridor. **Figure:** a translucent watcher coalesces only for a person who has stopped trying not to be looked at.
 
-**Notable Features:** They do not blink, they do not sleep, they take in everything including what nobody would choose to be seen doing, and they return no verdict of any kind.
+**Notable Features:** Ordinarily open and unblinking, the eyes take in what nobody would choose to be seen doing and return no verdict. Flerehan produces the recorded single collective blink. New and closed positions are logged on the plan; that distribution record is not the same as an ordinary eyelid cycle.
 
 **Identification Profile**
 
@@ -128,7 +131,7 @@
 - **The Sorrow:** Not being spied on. Being seen clearly, recorded correctly, and left exactly where you were.
 - **The Event:** Generations of Old Lament rounds in which the hazard was entered in the book, in good handwriting, with the outcome added underneath afterwards.
 - **The People:** Four generations of Wardens on the Old Lament rounds, every one of whom recorded accurately what they were not permitted to stop.
-- **Expanded origin context:** The entity's containment zone has become a gathering place for certain personnel — those who seek silence, those who seek understanding, those who seek something they cannot name. They sit near the entity's containment unit, not to study it, but to simply... be near it. The R.D. has noted this behavior and classified it as "Sorrow Seeking" — the act of seeking out sorrow not to escape it, but to understand it. The entity does not encourage this behavior. It simply exists. And in its existence, it offers something the city cannot.
+- **Expanded origin context:** The commissioning books are competent and the harms are recorded in the same hand as their warnings. That is the source of the sorrow: accurate observation separated from authority to help. The Standing Hand puts an acting officer beside some observers but still requires a written note and leaves most rounds without that officer. This is an ambient stretch of Old Lament, not a chamber with a containment unit where visitors can sit in safety. A wish for company under its gaze does not remove the reach hazard or the rotation limit, and acceptance is not an instruction to remain motionless indefinitely.
 
 ## Behavior
 
@@ -192,6 +195,8 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 
 **Cost:** Small nameless memories, and specifically the unwitnessed ones — hours the wielder spent alone and can no longer produce.
 
+**Urn custody:** Keep the porcelain vessel and its collected condensation attributed to this local record; neither is an eye cut from the wall or the short-handled Weapon Lens in the separate item file. The Single strike does not turn pacification into unrecorded area coverage, and no Tick interval is supplied here. Before issue seal the bearer’s account of an unwitnessed hour; review it at return and end use when they cannot produce such an hour. Record the missing memory rather than fill it from a wall’s perspective. The separate Lens shutdown cannot be silently applied to the urn as proof of identical form or function.
+
 ### M.A.W. Suit — The Watcher's Veil
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
@@ -210,6 +215,8 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 
 **Cost:** The wearer feels faintly absent to themselves and checks mirrors more than they used to.
 
+**Veil custody:** A shared Void rating does not make observation into consent. Record the wearer’s absence and any performance freeze separately from the ability to complete the rounds. For care, hang the Veil without recording devices and let the wearer keep the undisclosed fact private rather than turn maintenance into another surveillance return. The helped person or assigned partner addresses the wearer by name, not role, for removal. The linked record’s declared-intervention condition remains attached to that record; a protective piece does not grant the observer an authority the Standing Hand rule withholds.
+
 ### M.A.W. Stigma — The Watcher's Lens
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
@@ -225,6 +232,8 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 **Cost:** The wearer cannot forget anything they observe through it.
 
 *Twelve lenses exist. Each formed at the moment a Warden acknowledged the gaze aloud for the first time, and the wing issues them without ceremony because a presentation would require an audience.*
+
+**Stigma Lens custody:** This Head-slot glass is distinct from the Weapon Lens despite the shared title. Record the structure’s viewing position and the blind areas with another witness; what a wall could see is not the whole event and does not pick a culprit. If old scenes overlay present walls, rest the Lens against an unwitnessing surface until the current room is primary again. In emergency cover the bearer’s sight with neutral cloth and move beyond the recorded structure. Do not shatter the lens: the linked failure projects its permanent scene to nearby people rather than releasing the bearer from the memory.
 
 ### M.A.W. Use Notes
 
@@ -310,7 +319,7 @@ You feel watched before you see the first eye. Then another opens in the wall, a
 
 ### Interaction Pattern
 
-Three relations, all of them things that watch, and the measure in every case is the chalk boundary. Two widened it; the third is the only presence that has ever made the fabric give ground.
+Three relations, all of them things that watch. The measured tally stays unchanged for the Observing Bird and the Weighting Bird; the former withdraws, while the latter benefits in its own gauge. The Whispering Walls pairing caused severe identity pressure and was prohibited from repetition. Do not turn those returns into a claim that the boundary widened twice and then receded.
 
 **Interaction method:** Tally before, hourly during and after, taken by the same two counters working opposite ends of the mapped frontage, with the other holding's own watch logging in parallel and acknowledgements spoken aloud throughout by every person in the section.
 

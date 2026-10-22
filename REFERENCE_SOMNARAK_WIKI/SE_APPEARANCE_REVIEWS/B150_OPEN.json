@@ -1,0 +1,73 @@
+{
+  "batch": 150,
+  "base": "5dc4fae8b45e0ab23297b60450b230feee274a02",
+  "pending": 275,
+  "candidates": 121,
+  "pattern": "changes? shape|shifts? between.*forms|became (?:a|an|the) ",
+  "selection": "Pending only; equipment block excluded. Descending matching-line count, ties by full designation. Reading cues, not defect findings. No substitutions.",
+  "queue": [
+    {
+      "designation": "N-IIβ-270",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-270_Neglect_Learned_to_Listen_녹슨_속삭임.md",
+      "signals": 4,
+      "evidence": [
+        "The city discarded its burdens — the broken tools, the obsolete records, the confessions no one wanted — and the discards, piled in the Old Lament, accumulated until the neglect itself became a place that listens.",
+        "Neglect Learned to Listen is Place-Grudge: the figure of neglect itself — the accumulated awareness of everything the city discarded, the collective sorrow of burdens treated as refuse, the place where the thrown-away things listen. The Whisper does not speak. It listens — the way discarded things listen, the way refuse, piled long enough, begins to attend to the world that threw it away. The Old Lament, full of the city's cast-offs, became a place that hears everything — every new burden added to the pile, every tool broken and discarded, every confession whispered and ignored — because the things in the pile have, through their accumulation, developed the capacity to attend.",
+        "Some sorrows are about loss. Neglect Learned to Listen is about discard — the things thrown away, the people treated as refuse, the confessions whispered into the pile, accumulated in the Old Lament until the neglect itself became a presence that listens, because even discarded things, piled deeply enough, develop the need to be heard.",
+        "> *“The city’s discarded burdens accumulated until the neglect became a place that listens.”* — Keeper, Archive"
+      ],
+      "sha256": "61a6c825be64b5e148b3bf32b699f73fdd4be874569ee9e83e6005e4b8048500"
+    },
+    {
+      "designation": "N-IVβ-019",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md",
+      "signals": 4,
+      "evidence": [
+        "The debts passed through the bloodline, and the descendants, carrying obligations they never created, could no longer tell which were their own and which were imposed, and the confusion became an entity.",
+        "The Inherited Debt is Subject-Mind, Weight-element: the figure of a self that has become indistinguishable from its obligations — the descendant who carries the ancestors' guilt, payment, and shame so thoroughly that the carrying has replaced the carrier, the debt consumed the debtor, the inherited obligation became the identity.",
+        "Some sorrows are about debt. The Inherited Debt is about the debt that became the debtor — the obligations passed through generations until the descendants could not tell where the debt ended and they began, preserved as a figure that carries, in place of a self, the accumulated weight of every obligation an ancestry bequeathed.",
+        "> *“The descendants could no longer tell their own obligations from the imposed ones. The debt became the self.”* — Keeper, Archive"
+      ],
+      "sha256": "d02acd59e222bc3266fd7f13e2c4fa9d62936abb7ac339fd8aed6330aee80ad1"
+    },
+    {
+      "designation": "O-IIIδ-011",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md",
+      "signals": 4,
+      "evidence": [
+        "- **Expanded origin context:** The archive cross-references this entity's sorrow with The Desolate — the same Han density, the same Grudge signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Subject is not going anywhere.",
+        "The dead of the Occlusihan needed a guardian, and the rage, denied a mourner, became a walker — a figure that patrols the Scar and judges the living by the respect they show the dead.",
+        "The rage became a guardian. The accumulated fury of the un-mourned dead — the anger of soldiers who fell and were never honored, whose graves were unmarked, whose sacrifice the city edited from history — needed an agent. It needed a walker — something that could patrol the Scar, that could evaluate the visitors, that could enforce, on behalf of the dead, the respect the living had denied. And the Weeping, which gives form to every accumulated thing, gave the rage a shape that fit its function: a walker. Scar Walker, Subject-Phantasmal, Grudge-element: the figure that patrols the rift, watching, evaluating, deciding whether each visitor is worthy of passage.",
+        "> *“The dead of the Occlusihan needed a guardian. The rage became a walker that patrols the Scar.”* — Keeper, Archive"
+      ],
+      "sha256": "2bc4341ea4f2e3f7dd1475a33fbaa2855f898f0454fcddd75864fbcf7a0a438c"
+    },
+    {
+      "designation": "O-IIγ-007",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIγ-007_Brume_안개.md",
+      "signals": 4,
+      "evidence": [
+        "Containment records trace the crystallization to this location — the sorrow grew patient and specific until it became a presence that cannot be removed, only held.",
+        "The nomads crossed the wilderness until the crossing erased their sense of return, and the erased sense, condensed by isolation, became a fog that drifts the Desolate, expecting no one.",
+        "The wandering eroded. Not the bodies — the nomads could walk. The sense of return. The nomads, crossing the wilderness year after year, generation after generation, lost, gradually, the awareness that there was a place to return to. The city, visible on the horizon, became a feature of the landscape rather than a destination — a thing you walked past, not toward. The camps, temporary, became the only permanence. And the sense that the wandering could end — that there was a home, a place, a stopping point — dissolved, the way all dissolved things dissolve in the Desolate, slowly, in the isolation and the exhaustion.",
+        "> *“The despair, condensed, became a fog that drifts the Desolate, expecting no one.”* — Containment Lead, R.D."
+      ],
+      "sha256": "2008c31a7c184e197ff4fbf1598f7b6ad4e800d7f5837c257a2687aa666b6166"
+    },
+    {
+      "designation": "O-IVδ-895",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-895_Survivors'_Breath_떠도는_한숨.md",
+      "signals": 4,
+      "evidence": [
+        "- **The Event:** Citizens sighed after repeated crises until the collective breath became a wandering presence.",
+        "The citizens sighed after each crisis, and the sighs, accumulated, detached from the sighers and became a presence that wanders the city, carrying the exhaustion of a people who survive one day at a time without believing the next will be easier.",
+        "The sighs accumulated. Each exhalation — each acceptance, each resignation, each breath that carried the weight of one-more-day-endured — sank the way all things sink in Somnarak, into the city, into the Weeping. And the accumulated sighs, dense with the collective exhaustion of a citizenry that survives without hope, detached from the individual sighers and became a presence. Survivors' Breath is Subject-Spirit, Void-element: the figure of exhaustion that could not become rest — the collective sigh of a city that survives one day at a time.",
+        "> *“The citizens sighed after each crisis. The sighs, accumulated, became a presence.”* — Keeper, Archive"
+      ],
+      "sha256": "9e28949928463e80b3d60ce594951e6aa29d994f320c6947e3333a5d8de67bbf"
+    }
+  ],
+  "rule": "R-33 Integrity Visual Live Check Rule. Full original/exact sources/history and full final logical reading, five actual checks, individual push. Technical PASS not logical PASS; unresolved body relationships held with zero SE completion credit.",
+  "authorization": "Owner p authorizes150only. Minimumfive; cumulative three whole-dossier No change triggers5→7→10. No151.",
+  "recovery": "186 restored changed paths byte-identical remote5dc4fae before mixed realignment. No file content removed; backup outside repository. PR14 OPEN draft intoNON-WIKI verified."
+}

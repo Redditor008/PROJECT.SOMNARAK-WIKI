@@ -1,0 +1,102 @@
+{
+  "number": 156,
+  "status": "CLOSED",
+  "required": 5,
+  "completed": 5,
+  "no_change": 0,
+  "reviews": {
+    "C-IVγ-180": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_01_LABYRINTH_OF_STOLEN_FACES.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "C-IVγ-946": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_02_BLACKENED_ANGEL.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "C-IVδ-140": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_03_GAVEL.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "C-IVδ-255": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_04_RISING_WALL.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "C-IVδ-767": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_05_SWALLOW.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    }
+  },
+  "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_CLOSE.json",
+  "units": [
+    {
+      "designation": "C-IVγ-180",
+      "commit": "68c278370b225f50289d115b319f395990f41323",
+      "push": "PUSH VERIFIED",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_01_LABYRINTH_OF_STOLEN_FACES.md"
+    },
+    {
+      "designation": "C-IVγ-946",
+      "commit": "e45ef89581c275a7fcc5d98ee54c8f5d995b2e5f",
+      "push": "PUSH VERIFIED",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_02_BLACKENED_ANGEL.md"
+    },
+    {
+      "designation": "C-IVδ-140",
+      "commit": "733b9e2f3b33a686f6e1ad2d5f14519fc55c50b9",
+      "push": "PUSH VERIFIED",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_03_GAVEL.md"
+    },
+    {
+      "designation": "C-IVδ-255",
+      "commit": "41736b6f1217df2a446c53bce133e5136d333e0c",
+      "push": "PUSH VERIFIED",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_04_RISING_WALL.md"
+    },
+    {
+      "designation": "C-IVδ-767",
+      "commit": "3e85bfd78192bc8a80df9097f785b6d7c4ae1f5e",
+      "push": "PUSH VERIFIED",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_05_SWALLOW.md"
+    }
+  ]
+}

@@ -29,7 +29,7 @@
 | **Entity role** | Object |
 | **Primary pressure** | Weight / Body pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 per cycle, measured in beats rather than minutes: a cycle is four hundred beats of the specimen, which at its own unvarying rate is a little over six minutes. |
+| **Han-Energy yield** | 12–18 per cycle, measured by four hundred specimen beats. At the documented baseline of one beat every three seconds, that count takes twenty minutes, not a little over six. The external caller records the actual count; the handler's sense of elapsed time is not the instrument. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
@@ -89,7 +89,7 @@
 
 1. **Tension:** The handler's pulse is taken and written at the door, the pulse-caller takes position outside the glass, and the count begins. The caller is a second person and never the handler; that rule is the whole of the containment.
 2. **Clash:** Four turns, observation and endurance only, conducted seated at the marked distance with the handler's pulse called aloud at each turn boundary by somebody outside the cell.
-3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the party out of the cell with the handler's pulse within eight beats of their own door reading.
+3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: four hundred beats called, the party out of the cell with the handler's pulse within four beats of their own door reading, and the glass still shut.
 
 ### Consequences
 
@@ -105,6 +105,8 @@
 - Expresses Weight as a slow steady beat and a radiating composure; one pulse every three seconds, unvaried in forty-eight years of counting.
 - A human heart in dark amber crystal. The crystal is opaque: the organ cannot be seen and its presence is established by sound, warmth, and the pulse of the amber itself.
 - Confirm the designation `C-IIβ-901 [WO]`, the cell number on Floor 5, and the beat count over a timed minute before any approach. A specimen in amber that does not beat belongs to the Keepers' collection and is not this.
+
+**What is visible and what spreads:** The witness sees the dark amber and its pulse, not an exposed organ through the opaque crystal. The heart within is identified by the recorded origin, its sound and the coupled warmth and movement of the amber. Duri in the Tale is the earlier healer; the current object is the preserved organ and its shell, not a standing human body. During the documented expansion, the influence advances while the cradle stays fixed. This does not establish the portable, equipped use described later in the I-Relic profile: no transfer or separate mounted piece is identified there. Nor does the source's stationary form require the derived blade, veil or head-slot Token to be stationary. Keep that source-versus-tool relationship open instead of using a portable Stigma to supply an unrecorded relocation.
 
 **Identification Profile**
 - **Entity Type:** Object
@@ -143,14 +145,14 @@ Duri's Heart is an Object with Object-Body manifestation and Weight expression, 
 
 ## Breach Behavior
 
-> *"Duri's Heart has broken free. The weight body spreads."*
+> *"Duri's Heart is expanding its reach. The amber remains in its cradle; the Weight radius advances on the beat. Track the people reached, not an escaping organ."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion — in discrete steps, one per beat. |
 | **Movement** | Nothing leaves the cradle. The affected radius grows by a fixed increment on each beat and holds between beats, so an expansion advances in visible steps of about forty centimetres every three seconds and can be outwalked at any point. |
 | **Effect** | Weight in the body register: a deepening composure, a slowing pulse, and a progressive unwillingness to stop working. Nobody inside the radius has ever reported discomfort, which is the hazard. |
-| **First Target** | Whoever is nearest when the beat quickens. It does not select; the radius reaches people in the order distance dictates, and distance is the only variable that has ever mattered. |
+| **First Target** | Whoever is nearest when the affected radius begins to advance. It does not select: distance determines the order people are reached, while the expansion record describes a fixed step on each beat, not a quickening organ or a chosen victim. |
 | **Escalation** | Weight drain increases by 5 per turn until suppressed. Because the advance is one step per beat and the beat is invariant, the arrival time at any point in the sector can be calculated in advance — the only holding in the wing of which that is true. |
 
 ### Escalation Notes
@@ -280,10 +282,10 @@ Each piece extends a composure that was paid for once already. The grade describ
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, door pulse, beat count over a timed minute, amber shade against the reference card, and the name of the external pulse-caller. |
-| **During use** | Contact time, pulse at fifteen-second intervals called aloud, composure onset, first cost, radius if expanding, and whether the operator has declined a prompt to stop. |
-| **At limit** | The handler's pulse no longer responds to being startled, which the caller tests once per cycle without warning and records as a yes or no. |
-| **After use** | Removal method, door pulse out, pulse at twelve hours, lingering composure, cooldown, rotation status, reuse authorisation. |
+| **Before use** | Name the operator, the piece and its grade, condition and mission. For a cell session, retain Gauge, timed specimen count, amber reference shade, door pulse and the external caller. For equipment, distinguish the Edge's memory baseline, the Veil's fatigue and pulse response, and the Token's carried load; the head-slot grant is not the whole amber specimen. |
+| **During use** | Record contact time and the existing fifteen-second pulse calls, composure onset and any refusal to stop. Enter the actual piece's cost: memory fragmentation for the Edge, low fatigue and pulse limitation for the Veil, or the Token's increasing burden near unresolved debt. Radius readings belong to a source expansion, not an assumed enlargement of the carried item. |
+| **At limit** | Retain the caller's once-per-cycle unannounced startle test and its yes-or-no record. It is not a substitute for the existing convergence stop, the separate emergency-withdrawal rule, or the closed-glass pulse-completion condition. Claiming the source event in first person is an equipment corrosion sign, not evidence that the bearer is Duri or that an uncertain item history has been recovered. |
+| **After use** | Record the removal method where one is actually documented, door pulse out, pulse at twelve hours, lingering composure, cooldown, rotation and reuse authorization. Record each item's memory, fatigue or load cost separately. Exact item care requires attribution review before cleaning or rest and named-witness relinquishment; that preserves the record, does not refund the cost and does not authorize opening the source amber or extracting tissue. |
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic

@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-912 [LT]` |
-| **Entity Type** | **Time** — Can breach via Transform |
+| **Entity Type** | **Time** — Simultaneous district interval; recorded breach extends the affected boundary without a travelling body |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Time-Lament |
 | **Physical Form** | Non-Organic — An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400, every citizen in the district experiences the same wave of grief simultaneously, as if the city itself has remembered something it tried to forget. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement** | No locomotion or point of arrival — onset is simultaneous throughout the affected district; an expanded boundary includes more people without grief travelling between them. |
 | **Location** | SECTOR-C-912, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -66,14 +66,14 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Major shared-grief exposure, with cumulative effects on observers |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-912 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | Viderehan and Ferrehan only; the entity is a Time and the other two Work Types are unavailable to it. No response shortens the hour. Notification given, and the hour sat through in place. |
 
 ### Combat Actions
 
@@ -86,8 +86,8 @@
 
 ### Battle Phases
 
-1. **Tension:** The observer is on station before 0255 with a notebook and nobody else's notebook. The roster is checked against the bereavement register first; that check is the only preparation the hour permits.
-2. **Clash:** Four turns, observation and endurance only, from wherever personnel happen to be standing — there is nowhere to approach and nothing to approach it from. Timepieces are read aloud at each turn by two people.
+1. **Tension:** The observer is on station before 0255 with a notebook and nobody else's notebook. The roster is checked against the bereavement register first; that check does not replace the external timepiece checks at the door or the independent notebooks. The grief cannot be prevented by preparation; the roster instead avoids assigning a newly bereaved observer to the documented shared-loss trigger.
+2. **Clash:** Four turns, observation and endurance only, at the assigned station. There is no source body to approach; hold position rather than following another person’s grief, and keep the personal account separate from the other observers’ notebooks. Timepieces are read aloud at each turn by two people.
 3. **Resolution:** The cycle ends on management or on 0400, whichever comes first, and it is always 0400. It closes against the documented suppression condition: **Notification given, and the hour sat through in place**. Nobody leaves the district before 0400 and nobody is told to stop grieving.
 
 ### Consequences
@@ -97,6 +97,12 @@
 - The Eleven Fifty-Nine equipment lends the bearer the capacity to stand inside a grief that belongs to everybody, and charges them the ability to tell whose grief they are in. The cost is in the equipment section.
 
 ## Appearance
+
+**A district interval, not the clock's body:** The public dial stays at the named minute while external timepieces place the usual exposure in the small hours. Those are different readings on different apparatus, not evidence that a clock-shaped creature arrives. Observers, visitors and residents supply accounts of the grief; their shared onset is the identifying relation. No face or physical mourner appears at the sector marker.
+
+**What is remembered is not what is seen:** Water in a stairwell, an unrung bell and children belong to independently collected accounts. They are not a flood in the present street or a documented founding disaster. The intact municipal archive yielded no matching event. Keep the absent history open rather than putting children inside the clock or turning the visible dial into a memorial with an invented date.
+
+**Ordinary timing and exceptions:** The usual hour and the two extended nights in the combat record must be read separately. The latter have an explicit high-Gauge condition; they are not evidence of a new body or a travelling wave. Remaining unconditional end-time instructions need that scope resolved before the holding can be called complete. Warm crystal and a tightening Veil are derived equipment signs, not the interval acquiring anatomy.
 
 **Primary Form:** An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400, every citizen in the district experiences the same wave of grief simultaneously, as if the city itself has remembered something it tried to forget.
 
@@ -119,7 +125,7 @@
 |---|---|
 | **Form** | An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400, every citizen in the district experiences the same wave of grief simultaneously, as if the city itself has remembered something it tried to forget. |
 | **Position / movement** | It has no position to move from. The record is anchored at SECTOR-C-912; the hour itself occurs across the Mantle Commons district, between 0300 and 0400 by external timepieces, once per cycle. |
-| **Material / signature** | Lament. No visible, audible or thermal signature of any kind. What marks it is the Commons' public clock, which stops at 23:59 for the duration and resumes at 0400 without having lost the hour, and from which the entity takes its common name. |
+| **Material / signature** | Lament, without a visible body, a source voice or a thermal outline. The visible timekeeping marker is the Commons' public clock, which stops at 23:59 for the duration and resumes at 0400 without having lost the hour, and from which the entity takes its common name. |
 | **Distinctive markers** | The stopped public clock reading 23:59; the simultaneous onset across the whole district; the identical content of the grief in unrelated people; and the complete absence of any effect one street past the district boundary. |
 | **Identification** | Confirm: designation C-IIIγ-912 `[LT]`, Fragment (III) coherence, Major (γ) potency, Time-Lament manifestation, Lament element, Mantle Commons. The name refers to the clock face and not to the hour of onset; the two differ and both are correct. |
 
@@ -146,7 +152,7 @@ Eleven Fifty-Nine is a Fragment (III) Time of Major (γ) potency, Time-Lament ma
 
 ## Breach Behavior
 
-> *"Eleven Fifty-Nine has broken free. The lament lament spreads."*
+> *"Eleven Fifty-Nine reaches beyond the usual district boundary. Notify the affected area and hold personnel in place; onset is simultaneous, not a travelling wave."*
 
 | Field | Detail |
 |---|---|
@@ -209,6 +215,8 @@ Each Eleven Fifty-Nine piece is an extension of this entity rather than ordinary
 | **During use** | Onset time by external timepiece, public clock reading, duration, the operator's account of the content, and any divergence from the standard content. |
 | **At limit** | The operator can no longer distinguish their own recollection from the hour's content, which the second observer tests with one question: whose is this. |
 | **After use** | Stand-down at 0400, injuries, lingering effects, cooldown, timepiece re-checked at the door, post-event record filed to the facility and the council in identical form. |
+
+**Attribution and return:** The individual records distinguish dominant-hand fatigue, the Veil's loss of small joys, and the Token's tearful dreams with another person's grief still present on waking. The set-wide loss of grief ownership is another recorded toll, not a reason to erase those separate costs. Before cleaning or rest, keep bearer, trigger, source response, cost and unresolved detail for attribution review. A named witness states the source and event during relinquishment; record the event as unknown instead of guessing a disaster from the shared images. None of that procedure refunds the cost or establishes that equipment can shorten the hour.
 
 ## 관찰 기록 (Observation Log)
 

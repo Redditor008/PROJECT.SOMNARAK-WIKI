@@ -118,6 +118,20 @@ Color may reinforce identity, but color cannot be the only difference. Distinct 
 
 ---
 
+### Subject shape diversity (owner direction, 2026-10-17)
+
+The Subject collection must represent at least **Human, Monster, Animal and Abstract** shape families. This is a collection-wide visual floor, not four required forms per entity or an equal-share quota. A crystal person, a smoke person and a burning person remain person-shaped; materials and colours alone do not establish different body plans.
+
+The owner's One Sin and Singing Machine examples also call for object-like, mechanical and composite silhouettes, not only humanoids and beasts. Track these explicitly when supported by the source. Do not force a skull/object assembly or machine-body into the human category simply because it contains human parts.
+
+See [`R-32 — Subject Shape Diversity`](RULES/R-32_SUBJECT_SHAPE_DIVERSITY.md) for shape assessment, overlapping families, invisible entities, source conflicts and canon safety. The rule does not authorize silently redesigning an existing entity or changing its SECC type to meet a visual target.
+
+
+### Integrity Visual Live Check Rule
+
+[R-33](RULES/R-33_INTEGRITY_VISUAL_LIVE_CHECK.md) requires complete before/after reading of the current dossier and exact sources, tracing classification/manifestation, Tale, body, movement and the rest of the document. Local fixes and passing scripts do not establish whole-design integrity. Actual artwork and preview work additionally requires inspection of the rendered result; written review, rendered inspection, local preview and published verification must never be conflated. Unsupported relationships stay held, with no completed SE appearance credit.
+
+
 ## 6. Shared global-chrome consistency
 
 The top bar, left sidebar, and bottom bar are deliberate shared chrome and must be identical in structure, labels, order, and resolved destinations on every public HTML route, including the 404 page and asset gallery. Relative path prefixes and accurate active states may change with route context; the underlying destinations may not.

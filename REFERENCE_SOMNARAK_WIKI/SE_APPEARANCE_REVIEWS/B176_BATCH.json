@@ -1,0 +1,584 @@
+{
+  "batch": 176,
+  "status": "CLOSED",
+  "required": 5,
+  "completed": 5,
+  "no_change": 0,
+  "units": [
+    {
+      "designation": "C-IIβ-240",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-240_Holdout_사라진_잔해.md",
+      "words": 6589,
+      "sha256": "266fa64b95ccdb0338d98ee781ca10a4b8d9fec496045fbeade6892436de70f1",
+      "name": "Holdout",
+      "unit": 1,
+      "status": "held",
+      "receipt": "B176_01_HOLDOUT.md",
+      "type_credit": 0,
+      "weapon_credit": 0,
+      "reasoning": "Complete451-line original read. Exact240A–D and README complete; Master142–144/table182–184/detail2437–2469, Entity412 and completeTale48/2703–2764 read. City lawful demolition without resident voice → Object/Place, Place-Weight → vault footprint/load and mixed grey stone/deadwood/bone walls under deliberate remembering → historical destruction/returningstones/current resolved rooms/conditionalFullReturn → no outward locomotion but phantom doorways/zoneeffect → ViderehanStable/FerrehanDecrease, named memorial/no replica → three actual relations and separately derived gear traced. R18 predeclared5short/4careful, full final reread after five actual checks.",
+      "history": "Existing full-set primary paragraph and Batch106unit5 d244730a/current exact-join close read. Fullset/exactSE240B/MAW-W-240-01 already credited. Formal240 is Holdout; Solace1022 and ThreeFortySeven1023 not substituted. CSV526–529, archetype162 Long arming sword, disposition207 Neutral examined. A/BβGrudge5–9,2/2,Single100%,4/25; C1/.4/1.8/1.2,4/20; DTail5%+1Resilience agree. Tale48 obsoletePugnahan is explicitly corrected by current primary, not imported. No source rewrite or duplicate credit.",
+      "summary": "Nine supported repairs clarify fixed footprint and phantom extension, correct the false interaction and no-event summaries, separate ordinary silence from noisy full return, remove the false no-touch rationale, and add concrete appearance plus distinct blade, Plate and Charm custody.",
+      "holds": [
+        "Abstract Place and remember-to-resolve walls fit the loss; human origin does not require a humanoid. But persistent photographed31returnedstones/immovablecranestone versus unqualifiednoidentifiablemass/no physicalremains/eye seesnothing lack a clear same-state/material scope. No invented dematerialisation cycle.",
+        "Same-item equipment: silvered MercyBroadsword versus darkHanironRuinFang, Short2 versus archetypeLong; no form/chronologybridge. Charm coolcornerstone/date/demolitionschedule versus warmhinge/corroboratedboundary are not resolved by matching slot and bonus.",
+        "All-local noresidue/open extraction versus A/B survivor-map overlap and C memorial condensation remain distinct permissions; excludedformer-resident staffing versus source former-resident bestowal lacks setting/role scope. Do not invent an exemption or compel a survivor watch.",
+        "Normal return-in-place versus zonewide65%event and header decisiontrigger/60% lack full mapping. Manifested masonry/physicalphantom wound versus noise-and-air injuries, memory-dependent disappearance versus lengthening persistence, and structural platesoundness should not be flattened into a safety guarantee.",
+        "Current Event relation versus sourceA/Breach and index rationale is explicit identity hold; no renaming counterpart by analogy. R19Neutral retained, actual source suppression of Event is not anotherentityrelease. Dissent-file lawfulwrittenstatement does not retroactively create consultation. Historical error note about uncorrectedPugnahan now refers to correctedcurrentRegistrum; keep later-fix backlog."
+      ],
+      "result": "HELD: fixed remembered architecture is supported, but same-state material/visibility, activation and equipment identity/permission relationships remain unresolved. +0 Types/+0 Weapon/+0 SE.",
+      "commentary": "The room loss is strongest when the engineering assessment really was right. It leaves the question of being heard intact instead of turning the engineers into convenient villains. I would preserve the eight forgotten rooms as a loss inside the memorial, not fill them with a more complete imagined building.",
+      "repairs": [
+        [
+          "| **Movement** | Stationary — a structure or location. |",
+          "| **Movement** | Fixed footprint in the Alpha Tree vault. Stones return into the old survey’s positions rather than travel out of the outline; remembered rooms resolve and fade there. Phantom doorways in adjoining corridors are recorded separately from the footprint. |"
+        ],
+        [
+          "Three relations, all of them things the city took down, and all measured on the stone count. Two added stones. The third — Breach, which is a hole in a wall that will not close — took one away, and the vault has never been able to repeat it.",
+          "Three separate returns are recorded below: the Vanished Tower comparison changed neither load and exchanged no rooms; Event was held at the vault threshold while a Warden remembered; the Hollow Architect doubled the plate load and briefly raised rooms that did not persist. None of those returns establishes two stone additions or a stone removed by Breach. Keep load, rooms and stone count as different readings."
+        ],
+        [
+          "**Threat Assessment:** Moderate (β). No event on record, though the Transform route remains open on paper. Phantom-room perception in personnel, rising vault load, and Grudge pressure sufficient to unsettle adjacent holdings.",
+          "**Threat Assessment:** Moderate (β), with manifestation in place rather than escape. The file records Full Returns after written rebuilding proposals and a zone-wide return during a clearance announcement, so “no event” is not a safe summary. Track phantom-room perception, rising vault load and pressure on neighbouring holdings separately from whether anything leaves the footprint."
+        ],
+        [
+          "**Notable Features:** It weighs something no instrument can find a body for, it has never made a sound, and near it every absent thing feels as though it went last week.",
+          "**Notable Features:** Plate load without an independently identified mass; remembered grey walls, timber and bone-flecked mortar; and a sense that absent things were recently lost. Ordinary silence is not a guarantee during Full Return: that record attributes injuries to noise and air, not to stones remaining on a person."
+        ],
+        [
+          "Nothing is touched, because there is nothing there to touch.",
+          "Do not touch or try to shift the resolved fabric. Its appearance under remembering is not permission to test the walls as ordinary masonry; the separate crane attempt failed to lift a returned stone. Keep plate readings independent of what the watcher sees."
+        ],
+        [
+          "## Appearance\n",
+          "## Appearance\n\n**Footprint, rooms and return:** The remembered tenement is not a survivor standing in the vault. Its present organisation is an outline, returning stones and walls that resolve under active remembering, with grey stone, dead black timber and old bone-flecked mortar when visible. Record a room’s order of appearance and persistence separately from load on the plates. A transient full reconstruction and collapse follows a proposed replacement; that is not the normal remembered room and is not an invitation to make a replica. The old survey locates stones; it does not prove a new wall load-bearing. Keep adjoining phantom doorways on their own plan layer, and do not treat the derived harness or blade as material salvaged from the original demolition.\n\n"
+        ],
+        [
+          "### M.A.W. Suit — The Ruin Plate\n",
+          "**Broadsword custody:** Its local silvered arming-sword form is not established as another state of the separately linked Ruin Fang. Retain the selected-target limit and log old-wound ache, accumulating possessions and the stores clerk’s observations before return. The sealed inventory belongs to the bearer’s review, not a test of whether they will surrender their history. Do not assign the Fang’s absent-boundary cutting, wet-edge cleaning or memorial shutdown to this sword merely because the numerical profiles agree. The corroborated-map requirement remains evidence in the Fang record, not permission to carve the remembered room.\n\n### M.A.W. Suit — The Ruin Plate\n"
+        ],
+        [
+          "### M.A.W. Stigma — The Ruin Charm\n",
+          "**Plate care:** Absorbing structural shock postpones its price; it does not erase the collapse. Keep the harness outside the marked room and record each stored impact against corroborated collapse evidence. Release stored shock only into the external test frame, without supplying an imagined sound or missing impact. For removal the wearer lies flat outside the footprint while a partner releases the plates in reverse collapse order. A missing or disputed room is not a place to install the wearer as a replacement wall, even when the plates match surviving masonry profiles.\n\n### M.A.W. Stigma — The Ruin Charm\n"
+        ],
+        [
+          "### M.A.W. Use Notes\n",
+          "**Charm record and care:** The local cool cornerstone and the linked warm broken-hinge description remain different same-item accounts, not a demonstrated heating or reshaping cycle. Keep the demolition-schedule test distinct from the linked effect that marks a corroborated absent boundary. Preserve agreement, conflict and absence on independent sketches; do not turn a disputed room into a confident mark. Record shortened temper at justified destruction as a cost rather than proof that a witness or engineer is lying. The linked release leaves disputed geometry unmarked, without rebuilding or completing the missing room.\n\n### M.A.W. Use Notes\n"
+        ]
+      ],
+      "split": [
+        5,
+        4
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-240-A__SIDE_CODEX_Holdout.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-240-B__MAW-W_The_Ruin_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-240-C__MAW-S_The_Ruin_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-240-D__MAW-G_The_Ruin_Charm.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/README.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-240-A__SIDE_CODEX_Holdout.md": "abb4094c50cc0109e68b775523e53320cac1fb14b9b397d530fb6f02763597eb",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-240-B__MAW-W_The_Ruin_Fang.md": "2ed60f0d26f9d26898693cd9eacf5ac1aad241822dba7503f0d381be7dc6bb3b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-240-C__MAW-S_The_Ruin_Plate.md": "3e5815871d8ffa46611da99876c340944d9455ad0486a519df418ce10d362521",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-240-D__MAW-G_The_Ruin_Charm.md": "7ba50a8d43a4c1921336cac00ba90ef9552a155ba4e10bd5669f7fad1f9888cd",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/README.md": "589f7bceff2b52bff260ce947616503eaf5844a4ba6f4951b6be7d248d34fe23",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d"
+      },
+      "final_sha": "b5ff9500aeca463a6ff65bda66dd0a93adb18d9016c5c48e142060562c5764ff",
+      "before_words": 6589,
+      "after_words": 7108,
+      "outputs": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+        "tpl": "RESIDUE 0  SE-C-IIβ-240_Holdout_사라진_잔해.md",
+        "sectfile": "0.024  clean   823 grams  M.A.W. Equipment\n 0.003  clean   313 grams  기록 (Registrum)\n 0.002  clean   484 grams  Combat Record\n 0.000  clean   789 grams  Watch Record\n 0.000  clean   490 grams  감각 묘사 (Flavor Text)\n 0.000  clean   372 grams  이야기 (Narratio)\n 0.000  clean   341 grams  Appearance\n 0.000  clean   218 grams  이야기 보고 (Story Log)\n 0.000  clean   213 grams  Expansion Behavior\n 0.000  clean   195 grams  관찰 기록 (Observation Log)\n 0.000  clean   148 grams  Origin\n 0.000  clean   146 grams  Operational Parameters\n 0.000  clean   117 grams  Trivia\n 0.000  clean    76 grams  Behavior\n 0.000  clean    69 grams  SECC Classification\n 0.000  clean    58 grams  최종 관찰 (Final Observation)\n 0.000  clean    56 grams  증언 (Testimonium)\n0 section(s) over 0.05",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+        "sect": "85   1  | { *Every Ruin Returns* [**Ultimate**] } | \"Every demolished thing in the zone stands up again and falls again, together.\" | [The\n  265  20  **Full-set source review (2026-10-13):** Reviewed the `Granted pieces · β` overview, every local piece, Use Notes, Field Use Recor\n  390   1  - Viderehan and Ferrehan are the valid Work Types. Pugnahan is unavailable against a Place; the earlier entry naming it was an err\nGENERIC 0.005  (22 shared shingles)  SE-C-IIβ-240_Holdout_사라진_잔해.md"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_01_HOLDOUT.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIβ-240_Holdout_사라진_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-240_Holdout_%EC%82%AC%EB%9D%BC%EC%A7%84_%EC%9E%94%ED%95%B4.md \"SE-C-IIβ-240_Holdout_사라진_잔해.md\")]",
+      "table_link": "[Holdout](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-240_Holdout_%EC%82%AC%EB%9D%BC%EC%A7%84_%EC%9E%94%ED%95%B4.md \"SE-C-IIβ-240_Holdout_사라진_잔해.md\")",
+      "commit": "d7a5574594d04c5bc54478405f13be079b46ae9d",
+      "push": "PUSH VERIFIED"
+    },
+    {
+      "designation": "C-IIIγ-904",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-904_Thinking_Engine_생각하는_기계.md",
+      "words": 6612,
+      "sha256": "a53c5c6b317e4a42068d8dbafe40cf6eccfe143214d327a3913c1c9dea62dd63",
+      "name": "Thinking Engine",
+      "unit": 2,
+      "status": "held",
+      "receipt": "B176_02_THINKING_ENGINE.md",
+      "type_credit": 0,
+      "weapon_credit": 0,
+      "reasoning": "Complete435-line primary and exact904A–D/README read, CSV975–978/archetype357/disposition315 and B141unit3 reread. TypeObject/O-Relic→ObjectMind→Seol’s overwhelmed research and built apparatus/Tale→historical fed mechanism/current desk-sized warm brassHancrystal/trackinglens/unpoweredgears/tray→fixed housing versus extended processing→two decreasing valid WorkTypes/coveredseals/channel benefit/vent/three interactions and all gear traced. R18 predeclared4short/4careful; careful paragraphs individually authored for this dossier, no common replacement.",
+      "history": "B141unit3 exact review already credited Types/Weapon; 9b2c5b8 tray safety repair in primary history (baseline10cd20a). ExactMaster designation/Korean/title/item search gives no dedicatedMAW/Tale; EntityCodex359 lists pending row. No invented Master record. A/B γLament14–19/Normal2/Short2/max4/25Single100%; primary stats agree but compact primary lacked coverage fields. A/C.3/1/1.2/.8max4/20; A/DHead5%+1sourcework agree. CSV sparse Variable/Accessory is not authority to replace exact values. ArchetypeMedium/GearToothed held against Short/palecrystal. README formal904 ThinkingEngine not nearby Clock912 or Lacrima905.",
+      "summary": "Eight repairs replace the misleading organic-body label with constructed apparatus, clarify lens-versus-processing movement, correct the false handler exemption and never-input claim, and add distinct construction/extension, blade, Veil and Token custody accounts.",
+      "holds": [
+        "ObjectMind and nonhuman apparatus are coherent; no human-to-machine transformation required. Registered Transform remains without a described transformed body, while explicit event is processingExpansion. No new form invented; shape alone is not the hold.",
+        "Main essential relationship: onlyMind/noBodyTelemetry/neverharmedbody versus abandonedchannel heavy sector damage and chestweight, and idle-person immunity versus readers/namedstaff effects require event/channel scope not presently established. Body label repaired, damage scope not invented.",
+        "O-Relic pressure benefit to adjacent holdings conflicts with disposition315 noassists/noentitypairing; do not infer no benefit from three documented negative/refused comparisons or rewrite index. Exact gauge-threeconditions/60/65/event35+10 relationship still needs evidence.",
+        "Read ban versus authorised audit is not automatic conflict; separate authority is explicit. Universal neverasked/neverproducedonrequest versus Specialistrecalculate and handlerquestion testimonials remains unresolved. Safe ordinary packet handling does not justify systematic personnel reading.",
+        "Palecrystal singleedge/Short2 versus gearslab/Medium same-item description not reconciled. D dream-tears plus primary common certainty-cost now both tracked, but no unsupported mutual exclusion or removal cure. Claim token coldquiet proves engine notworking on bearer contradicted by remote namedstaff sheets.",
+        "Never-acted-on catalogue versus aggregate establishment use is an explicitly admitted institutional exception/objection, not a typo to erase. Namednine sealed versus thousandsread/fortyone open may describe different cohorts; preserve sample ambiguity rather than force arithmetic. Interaction nosecondholding prohibition versus historical flatco-presences needs permission/time scope; exact source placeholders do not erase Seol."
+      ],
+      "result": "HELD: supported constructed form is now clearer, but body-vs-mind/channel target scope, activation and same-item blade relationships remain unresolved. Existing equipment coverage retained; +0/+0/+0.",
+      "commentary": "The tray is the crucial piece of anatomy: it turns an unknowable prediction into a paper someone must collect, seal or misuse. The better-staffed bays make the institutional bargain harder to dismiss. Seol should remain the person the mechanism failed to spare, not an excuse to draw a human under the housing.",
+      "repairs": [
+        [
+          "| **Physical Form** | Organic — A brass-and-Han-crystal apparatus the size of a writing desk, covered in dials that turn on their own, gears that grind without power, and a central lens that focuses on whoever stands before it. |",
+          "| **Physical Form** | Constructed apparatus — Writing-desk-sized brass housing veined with Han-crystal, with self-turning dials, unpowered grinding gears, a tracking central lens and a filling output tray. Seol built this mechanism; the record does not describe her body becoming it. |"
+        ],
+        [
+          "| **Movement** | Stationary — a fixed position; spreads rather than moves. |",
+          "| **Movement** | Fixed apparatus, incapable of moving itself. Lens and dials turn inside that footprint; its processing extends into nearby live calculations and alters their returns, rather than carrying the housing out of containment. |"
+        ],
+        [
+          "The register is the hazard, and it is not a hazard to the entity's handlers.",
+          "The register is a hazard to readers and handlers as well as to the people named: readers cannot give back an unrequested finding, paired workers report conclusions without reasoning, and sustained exposure damages their ability to leave a question open."
+        ],
+        [
+          "The apparatus runs without power, its gears grinding and its dials moving continuously, and no input has ever been supplied to it.",
+          "The apparatus now runs without power, its gears grinding and its dials moving continuously. This unattended output is not evidence that it never had input: Seol fed it data, patterns and predictions while building it, and the recorded completion condition places finished hand-work before its lens."
+        ],
+        [
+          "## Origin\n",
+          "**Construction and extension:** The functional parts are the identifying shape: brass casing warms toward blood heat, Han-crystal veins the housing, dials advance, the lens tracks a person and the tray makes the result into a sheet. Precise clicking and apparent scrutiny do not establish flesh beneath the brass. Seol is the named maker in the Tale, not a documented previous body. The registered Transform heading should not be used to draw a walking machine or a new humanoid: the described event extends computation while form stays put. Keep that event separate from a deliberately opened channel and its abandonment vent. A running dial is neither proof that an assessment is correct nor permission to inspect it.\n\n## Origin\n"
+        ],
+        [
+          "### M.A.W. Suit — Thinking Engine's Veil\n",
+          "**Edge custody:** Keep the selected-target strike separate from the Engine’s sector-wide record alteration; the linked item specifies a single target at full damage, not a room-wide prediction attack. Log headache, source attribution and any conclusion offered without reasons before cleaning or resting the blade. If the bearer starts describing Seol’s loss as their own, the named witness states the source and event while the bearer relinquishes the piece; shutdown does not refund the cost. The local pale-crystal single edge and the index’s gear-toothed slab have no documented exchange of form. A missing reconciliation is not permission to bolt a cog onto this blade or call its pulse a new mechanism.\n\n### M.A.W. Suit — Thinking Engine's Veil\n"
+        ],
+        [
+          "### M.A.W. Stigma — Thinking Engine's Token\n",
+          "**Veil care:** The hem’s incomplete calculation remains an identifying detail, not an unfinished task assigned to the wearer. Its Lament resistance does not authorise reading a sheet or promising immunity to the Engine’s conclusion-cost. Record quiet-moment grief and diminished small pleasures separately from the paired account of unjustified certainty; the linked grief cost lasts until removal. Preserve source attribution before resting the piece, and have the named witness receive it if first-person source recollection begins. Do not complete the calculation as an improvised channel shutdown or ask the Engine to certify the wearer’s recovery.\n\n### M.A.W. Stigma — Thinking Engine's Token\n"
+        ],
+        [
+          "### M.A.W. Use Notes\n",
+          "**Token follow-up:** Record dream-tears and waking borrowed grief from the linked Token account, even though the local token stays cold and silent. Silence identifies the piece; it cannot certify that the Engine is not computing about its bearer, since sheets also name staff who have never entered the wing. Keep the award for an unopened sheet distinct from a claim that the bearer is safe to read one. A witness preserves whose sorrow is being carried, and receives the token if that boundary fails; the subject’s finding is still not a conversation to have informally. Neither dream cost nor shared certainty-cost is cancelled by taking the token off.\n\n### M.A.W. Use Notes\n"
+        ]
+      ],
+      "split": [
+        4,
+        4
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/904_Thinking_Engine/SE-904-A__SIDE_CODEX_Thinking_Engine.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/904_Thinking_Engine/SE-904-B__MAW-W_Thinking_Engine_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/904_Thinking_Engine/SE-904-C__MAW-S_Thinking_Engine_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/904_Thinking_Engine/SE-904-D__MAW-G_Thinking_Engine_s_Token.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/904_Thinking_Engine/SE-904-A__SIDE_CODEX_Thinking_Engine.md": "3bb67b4b60085ff94cd554cc0419902afd1998dce3d82a57cbb78925b4ec8140",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/904_Thinking_Engine/SE-904-B__MAW-W_Thinking_Engine_s_Edge.md": "7341a1603830e300724c412ae17ae6568d0a593297c028520c7e0c41fc5bd009",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/904_Thinking_Engine/SE-904-C__MAW-S_Thinking_Engine_s_Veil.md": "e404f0214482ebc9bc61f249f7e321d2dc67ae1f460a4570c400bc9157bfbd01",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/904_Thinking_Engine/SE-904-D__MAW-G_Thinking_Engine_s_Token.md": "9b5d8811516e158c50ff24821b430c21a2f308bb893b7dd70e3d97609d530b33",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md": "973a8b4ee120f31c2e8a557b72bcfb09765901c6dc24af2d3fe5491bbf5118b9",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d"
+      },
+      "final_sha": "d258ec835242600facd1a57dfaf4cdc0e1651351644bdc6587abf6036485f3a2",
+      "before_words": 6612,
+      "after_words": 7115,
+      "outputs": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+        "tpl": "RESIDUE 0  SE-C-IIIγ-904_Thinking_Engine_생각하는_기계.md",
+        "sectfile": "0.011  clean   724 grams  기록 (Registrum)\n 0.007  clean   140 grams  Breach Behavior\n 0.005  clean  1291 grams  Warden Record\n 0.005  clean   610 grams  M.A.W. Equipment\n 0.000  clean   429 grams  Activation Behavior\n 0.000  clean   389 grams  Combat Record\n 0.000  clean   288 grams  Appearance\n 0.000  clean   255 grams  이야기 (Narratio)\n 0.000  clean   188 grams  Operational Parameters\n 0.000  clean   178 grams  감각 묘사 (Flavor Text)\n 0.000  clean   146 grams  이야기 보고 (Story Log)\n 0.000  clean    91 grams  Origin\n 0.000  clean    74 grams  관찰 기록 (Observation Log)\n 0.000  clean    55 grams  Behavior\n 0.000  clean    49 grams  Trivia\n 0.000  clean    44 grams  최종 관찰 (Final Observation)\n 0.000  clean    43 grams  증언 (Testimonium)\n 0.000  clean    35 grams  SECC Classification\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+        "sect": "161   1  - **Sorrow Gauge on event:** Opens at 35% and rises 10% each time a facility system returns an altered result, so the gauge is dri\n  254   3  **Effect:** +1 to the working stat on this holding's cycles, and the token is cold and silent, which is how the bearer knows the e\n  352   1  - Viderehan and Ferrehan are the valid Work Types and both lower the gauge; Viderehan is preferred because it makes the output leg\n  360   5  **Operational interpretation:** This file is read whole or not at all. The engine produces unrequested findings, 58 of 61 verified\n  368   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  432   7  The minute records the objection as **correct in all three parts**. It records that an instruction was drafted — the register to b\nGENERIC 0.004  (19 shared shingles)  SE-C-IIIγ-904_Thinking_Engine_생각하는_기계.md"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_02_THINKING_ENGINE.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIIγ-904_Thinking_Engine_생각하는_기계](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-904_Thinking_Engine_%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94_%EA%B8%B0%EA%B3%84.md \"SE-C-IIIγ-904_Thinking_Engine_생각하는_기계.md\")]",
+      "table_link": "[Thinking_Engine](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-904_Thinking_Engine_%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94_%EA%B8%B0%EA%B3%84.md \"SE-C-IIIγ-904_Thinking_Engine_생각하는_기계.md\")",
+      "commit": "f4c56cc30292e11e9faffbdf550181b8977fe15c",
+      "push": "PUSH VERIFIED"
+    },
+    {
+      "designation": "N-Iα-686",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-686_Torn_Window_찢어진_창.md",
+      "words": 6658,
+      "sha256": "e93c8da4b6706bb8f0ce128a76ec0e19c3da4b1278ffbbab4b0894733a80268b",
+      "name": "Torn Window",
+      "unit": 3,
+      "status": "held",
+      "receipt": "B176_03_TORN_WINDOW.md",
+      "type_credit": 0,
+      "weapon_credit": 0,
+      "reasoning": "Complete429line primary/exact686A–D/README read; Master580–582/table620–622/detail7271–7303 and completeTale194/10845–10897, Entity562, CSV815–818/archetype276/disposition384/B100unit3 history read. TypeObjectPlace/I-Relic→ObjectLamentGrudge→generations touching/leaving layereddepartures/Tale nonphysicaltear→presentcrackedredblackcoldfixedpane/hands/no transmittedlight/borrowedroom→failedremovals vs mountedclaim→ViderehanStable/FerrehanDecrease/walks→touch/strike/Tide/viewtermination→three relations and gear traced. Predeclared6short/4careful; separate current-source, image and equipment states, no humanoid needed.",
+      "history": "B100unit3/065ba22c and fullset2026-10-12 already credit exact pair/alltypes; no duplicate. Formal686 WindowofaThousandGoodbyes is joined by exact N-Iα-686, not MAWmasterentry686 RestingVeil895. Primary/archetypeShort supports localshort. A/B αGrudge3–6,2/2Singlemax5/15; C L/G/V/W1/.4/1.8/1.2max5/10; D Tail5%+1Resilience agree. Master weapon indexSabre/detailFang and SourceBcrimsonFang versus localsteelgreenSabre remain held. Other sources fingerprinted unchanged.",
+      "summary": "Ten supported repairs clarify fixed pane and nonphysical Tale tearing, replace unsafe unmount/touch permission, distinguish gauge from disputed counts, recognise recovered partial names, and add separate Sabre/Fang, Plate and Shard handling.",
+      "holds": [
+        "Essential non-body relationship: fixedneverrecoveredpane/failedremovals versus equippablemountedbearer and cycleunmount lacked portable-state evidence; operational instructions now explicitly defer the unsupported mounting claim, but source I-Relicuseidentity remains for later resolution. No transformation invented.",
+        "Handcount41firstnow/fourlater/fixedphotographs/nineyearsneverfalls conflicts with first906 and year1182→1141/elevenfallingweeks; distinct cohorts/timing not established. No digit edits or arithmetic reconciliation. Walking-gauge relation is preserved separately, not accepted as proof of which count is right.",
+        "Neverhostile/noinjurybeyondbruise versus GlassToothcut/FullSmash24–36/Tide12–20 plus crackedneverchanges versus inwardfail/wholeanhour needs event/state/damage scope. Absence of fatalities does not clear these.",
+        "Onlysecondpersonname/dateends versus gearBroom/ownerlookaway and Ccover/backward; ordinaryview versus emergencygear could differ but evidence does not establish exclusive scope. Primary duringuse secondworkerdoesnotinterrupt versus required termination remains explicit permission hold.",
+        "BladeSameitemSabresteelgreenglass/localpalmmark vs crimsonHanironFang/attributedphantomhand. Plate localbackcrystalpanel versus breathingcrimsonHaniron and two-piececut claim/threeitemset; D cutshardversus cannotmanufacturebestowal unresolved. Source cold/warmderivedshard alone not a conflict.",
+        "Local three versus four filedborrowedshifts and both walkers versus onewalker/oneglasswatch cannot be normalized by guessed samples/staffing. Mirror prose samepanefacesversus tableownobserversfaces not a supported transferredhand image. R19Neutral records noassistance; Walls identifyingnames is incoming information not evidence of suppression by Window."
+      ],
+      "result": "HELD: supported fixed window/conditional borrowed view improved, but counts, mounted-source identity, action/termination and same-item gear relationships remain unresolved; +0 Types/+0 Weapon/+0 SE.",
+      "commentary": "The tired hand is better than a villain: the mistake is an ordinary need to lean on something. Paying someone to keep walking an otherwise useless length gives that sorrow a concrete answer. The hand count must be reliable for that answer to work; smoothing the competing series into one would hide the cost of the review.",
+      "repairs": [
+        [
+          "| **Movement** | Stationary — a device (internal parts may move). |",
+          "| **Movement** | Fixed red-black pane in the tunnel wall at chest height; two removal attempts left it in place. The room shown and reflected hands are not moving machinery, and the Tide reflection on other panes is not relocation of this window. |"
+        ],
+        [
+          "The cycle ends when the count is taken twice and agrees, the patrol sheet for the disused lengths is attached, and the relic is unmounted. There is no suppression step and none has ever been authorised, the entity having no breach counter and no recorded hostile act.",
+          "End the viewing with a second person saying the viewer’s name and the current date. Compare the two counts and attach the patrol sheet for the disused lengths; the fixed pane is not unmounted as an encounter-ending step. There is no authorised suppression step or breach counter, but a touch, strike or held gaze still has recorded consequences."
+        ],
+        [
+          "There is nothing to fight. The team counts the hands in the pane, works Viderehan and Ferrehan only, and leaves the glass untouched unless the touch is logged with a name.",
+          "Do not fight the pane. The team counts hands, works Viderehan and Ferrehan only and leaves the glass untouched. Logging the name of an accidental toucher is required incident evidence, not permission to add another hand or repeat the contact."
+        ],
+        [
+          "**Reading the response:** A falling count means a disused length was walked and logged that week. Stability under Viderehan is correct and is the usual result. The count rises when a length is struck off the round, when an unlogged hand touches the glass, and it has never once risen during a viewing conducted properly.",
+          "**Reading the response:** Viderehan is Stable and Ferrehan is Decrease in the Work table; keep those gauge readings separate from photographed hands. A lower gauge does not by itself establish a falling hand count. The file’s hand-count series disagree and need their own comparison, not substitution of a gauge result. Keep walking and logging the shown length even when a viewing leaves the photographed count unchanged."
+        ],
+        [
+          "**Operational Rule:** The relic functions only while mounted on the bearer and cannot be carried out of the tunnel network; beyond the last worked length it shows nothing at all. It cannot replace the patrol round, and the holding's standing warning is that it was twice treated as a substitute for one.",
+          "**Operational Rule:** The present pane remains in its tunnel wall; the two attempted removals did not relocate it. The I-Relic mounting account supplies no successful removal or portable state, so do not use that instruction to carry the source window on a bearer. Viewing cannot replace the patrol round: the holding’s standing warning is that it was twice treated as a substitute for walking. Keep any claimed limit beyond the last worked length separate from proof of source portability."
+        ],
+        [
+          "**Originator:** Four generations of tunnel crews, unnamed, counted rather than listed. The hands in the pane are the only roll that exists and the archive has entered the count, not a list of names, in the originator field for that reason.",
+          "**Originator:** Four generations of tunnel crews, initially counted rather than individually listed in this record. The later Whispering Walls sessions supplied first names and crew numbers checked against old rosters. Preserve those partial identifications alongside the hand count; they do not provide a complete owner for every hand or erase the unnamed crews."
+        ],
+        [
+          "## Origin\n",
+          "**Pane, view and history:** The Tale’s tearing is the burden of departures, not a report that the original glass physically split during formation. Present inspection nevertheless identifies a cracked red-black pane: fever-cold, smelling of char, with reflected hands rather than the observer’s face. A borrowed working room is a view held by that pane, not an open route to its occupants. The fixed wall setting, failed removals and absence of transmitted lamp light matter as much as the apparent depth. A strike’s inward failure and the Tide’s reflections elsewhere are separately triggered records; neither warrants carrying a loose pane or assuming that an ordinary inspection is a passage through it.\n\n## Origin\n"
+        ],
+        [
+          "### M.A.W. Suit — Torn Window Plate\n",
+          "**Sabre and linked Fang:** The steel-and-green-glass sabre is not a documented new state of the crimson Han-iron Fang. Keep the local palm-shaped bruise and work-injury ache apart from the linked Fang’s attributed phantom-grip cut. That record names a single-target pattern, not an attack across every hand in the source glass. Log a hand’s attribution before the Fang’s cleaning; an unattributed cut transfers the farewell rather than harmlessly missing. Its witness names room and owner as the viewer looks away. This is linked-item custody, not authority to slash the pane or assurance that the local sabre can release a viewing.\n\n### M.A.W. Suit — Torn Window Plate\n"
+        ],
+        [
+          "### M.A.W. Stigma — Torn Window Shard\n",
+          "**Plate care:** Record the wearer’s current location outside all windows before inspection. A corridor seen behind the back panel does not establish that the wearer has entered that past corridor. Monitor dulled reflexes and failure to turn toward a person approaching from behind; protection against Grudge is not protection against mistaken ownership of the room. The linked harness’s locked stride requires acknowledgment of the remembered room’s occupant, not an extra forward step. Its external monitor covers the pane and guides the wearer backward. Keep that account distinct from the fixed source’s name-and-date termination, and retain the sealed roster for the later comparison.\n\n### M.A.W. Stigma — Torn Window Shard\n"
+        ],
+        [
+          "### M.A.W. Use Notes\n",
+          "**Shard provenance:** The awarded shard’s warmth is not the source pane’s fever-cold, and neither requires an invented heating cycle: derived equipment need not retain the source’s temperature. But the local cut-from-edge account and linked unmanufacturable bestowal remain different production claims. Record each felt hand in order, leaving unknown owners unknown rather than completing a chain to open the clasp. The linked removal names the last attributed holder. Feeling a room’s grief does not prove it was the bearer’s home; the kitchen incident preserves the grief while correcting ownership. Keep borrowed hand histories beside the worker’s own sealed roster, not inside it as another shift worked.\n\n### M.A.W. Use Notes\n"
+        ]
+      ],
+      "split": [
+        6,
+        4
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-686-A__SIDE_CODEX_Window_of_a_Thousand_Goodbyes.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-686-B__MAW-W_Window_of_a_Thousand_Goodbyes_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-686-C__MAW-S_Window_of_a_Thousand_Goodbyes_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-686-D__MAW-G_Window_of_a_Thousand_Goodbyes_Shard.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/README.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-686-A__SIDE_CODEX_Window_of_a_Thousand_Goodbyes.md": "18b89df67b4cc6cad0881ec42d6d8712602acb09a432924766ca34aa74531c5b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-686-B__MAW-W_Window_of_a_Thousand_Goodbyes_Fang.md": "f4343166aa57e5a3a0c3cda59113fa80c70ed6307244d80565a35981cca2dc49",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-686-C__MAW-S_Window_of_a_Thousand_Goodbyes_Plate.md": "d571912aadd5e47264a405c67843fac13d974b76d4288d08b6fe7c76a7e10b56",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-686-D__MAW-G_Window_of_a_Thousand_Goodbyes_Shard.md": "71262a13cb90afd4ba5e6e975c1f0da90956a338847cd0f5988c6b84e7e7849e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/README.md": "dbde4e0dbaa53352e3b52673d6fb0f14a7a0db2127b896e7be3bb8171fe20005",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d"
+      },
+      "final_sha": "e6d03ea890899680e1e3e6dcf3b9481627a1918e6494d32ee88a7340ff94a212",
+      "before_words": 6658,
+      "after_words": 7177,
+      "outputs": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+        "tpl": "RESIDUE 0  SE-N-Iα-686_Torn_Window_찢어진_창.md",
+        "sectfile": "0.017  clean   177 grams  Trivia\n 0.015  clean   946 grams  M.A.W. Equipment\n 0.004  clean   472 grams  감각 묘사 (Flavor Text)\n 0.002  clean   565 grams  Combat Record\n 0.000  clean   512 grams  Activation Behavior\n 0.000  clean   431 grams  이야기 보고 (Story Log)\n 0.000  clean   345 grams  이야기 (Narratio)\n 0.000  clean   332 grams  기록 (Registrum)\n 0.000  clean   327 grams  Appearance\n 0.000  clean   318 grams  관찰 기록 (Observation Log)\n 0.000  clean   171 grams  Origin\n 0.000  clean   171 grams  Operational Parameters\n 0.000  clean   118 grams  Behavior\n 0.000  clean    56 grams  최종 관찰 (Final Observation)\n 0.000  clean    54 grams  증언 (Testimonium)\n 0.000  clean    36 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+        "sect": "85   1  | { *Every Window Breaks* [**Ultimate**] } | \"Every pane in the lower network shows hands, and all of them are pressing from the f\n  284  14  **Full-set source review (2026-10-12):** Reviewed the I-Relic/M.A.W. grade overview, all three local item blocks, Use Notes, Field\n  361   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  429   3  - **Record detail:** Check the designation before approach. The archive holds other records about ground that stopped being used, \nGENERIC 0.004  (20 shared shingles)  SE-N-Iα-686_Torn_Window_찢어진_창.md"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_03_TORN_WINDOW.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-Iα-686_Torn_Window_찢어진_창](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-686_Torn_Window_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%B0%BD.md \"SE-N-Iα-686_Torn_Window_찢어진_창.md\")]",
+      "table_link": "[Torn_Window](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-686_Torn_Window_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%B0%BD.md \"SE-N-Iα-686_Torn_Window_찢어진_창.md\")",
+      "commit": "1cf21e0ea9f3abdfa2e7e74e8897fc97398686f4",
+      "push": "PUSH VERIFIED"
+    },
+    {
+      "designation": "C-IIβ-782",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-782_Flotsam_번져가는_유물.md",
+      "words": 6712,
+      "sha256": "f2c1c8ba66cf4b4fcd09293a58442a5dc81daa37fddc00c85662f841dc9b9785",
+      "name": "Flotsam",
+      "unit": 4,
+      "status": "held",
+      "receipt": "B176_04_FLOTSAM.md",
+      "type_credit": 1,
+      "weapon_credit": 1,
+      "reasoning": "Complete454line primary/exact782A–D/README read. Master181–183/table221–223/detail2866–2898; Entity425 and fullTale61/3451–3508 read; CSV879–882/archetype321/disposition290 checked. Subject→SubjectWeight→fourgenerationtreasuredobject withoutfunction→currentdistributedredheatoutline aroundordinaryintactobjects, not human skin/centralbody→carrier/association extent/floorload→allfour validWork butPugnahanprohibited→conditionaltransforminplace/handlingchannel→inventory/equipment/threeinteractions traced. Predeclared5short/5careful before edit; each detail composed separately for this subject.",
+      "history": "All-ref primary/exactset history only10cd20a. Exactdesignation/SE782B/MAWW782/FadingFang/name search across current CHANGELOG and current/two archivedWIP found broadprose/artworkonly, no completed exact-pair/fullsetsource disposition; no primary fullset marker or equipmentledger row. Therefore +1Types/+1Weapon, independently of SE hold. Exactformal782 is Flotsam/FadingRelic; sourceC-IIβ-782GS and linkedMaster match, not other entry782. A/B βGrudge5–9/Normal2/Short2/Single100%max4/25; C1/.4/1.8/1.2max4/20; DTail5%+1sourcework agree. ArchetypeShort agrees but straightpatinablade versuslocalcurved noformbridge. MasterLow/ZoneC/Viderehanprimary historically superseded explicitly by currentModerate/ZoneB/FlerehanFerrehan, not majoritymapped.",
+      "summary": "Ten repairs complete classification, remove duplicated grade, explain distributed non-body organisation, flag incompatible Library interaction results, correct harmless-contact summary, and add distinct Fang/Plate/Ember custody plus honest uncertain-use recording.",
+      "holds": [
+        "Subject without central humanoid/body is valid; originhouseholdobject and distributedcurrentstate do not require same silhouette. Essential motion remains fixed/nonpursuing/noindependentposition versus Speed1.45m/s without documented referent. No speed redesign or invented movingstage.",
+        "Heat+no materialdamage fit; handling-onlyinjury/noinjuries claim repaired to separate logs, but EverythingFades anyoneworkingstores versus entirelyonlyholders and solidstrikes/vesseldestructible versus nothingcanbestruck lack action/state scope.",
+        "Outline611/FullExtinguish611permanentloss versus318objects/112known+206lost and outlineaslow4/high61 have no clear sample/datedcohort relation.41stillknown versus alloutlinednobodycanexplain also unresolved. No numeric reconciliation or forced accounting.",
+        "Library11recoveries in intro/factionclaim versus table206negative/bothco-presences/refusedretest remain explicit; R19Neutral matches actual table, not proof that positiveaccount can be erased. Jarflat/Marketownersnotuses not negative suppression or source assistance.",
+        "Header nonbreachtransforminplace current versus Acanbreach not inventedescape; eventthreeconditions/60/65/open45+10 drop lacks mapped threshold authority. FourvalidSubjectWork retained, Pugnahanauthorisedstatus prohibited separate from valid effect.",
+        "Source no graspableflame versus heldRelic/struckRelic trigger words may mean carrier but not expressly mapped. Weapon curvedsingleedgeform versus straighthorizontalpatina/burnhole index sameitem held, not donor/equipment conflict. Primary ordinaryskillloss/commonpurposecost versus linkedphysicalcost not silently substituted. Inventory guesses outcome now preserves uncertainty, not automatic factualverification or restoreduse."
+      ],
+      "result": "HELD whole written design: source-supported distributed heat/outline improved, but motion, injury and count/interaction scope remain unresolved. New independent equipment review +1 Types/+1 Weapon; SE+0.",
+      "commentary": "An heirloom can be carefully loved and still lose the only knowledge that made it useful. The heritage officer who wants to grant protection but cannot list an unexplained object gives that loss a credible institutional edge. The rememberers are the scarce resource here; turning their uncertain answers into confident labels would repeat the original forgetting.",
+      "repairs": [
+        [
+          "| **Entity Type** | **Subject** — Non-breaching: transformation in place; everything stored in the affected volume becomes heavy and anonymous. workers can lift the objects and cannot say what a |",
+          "| **Entity Type** | **Subject** — Non-breaching transformation in place: everything stored in the affected volume becomes heavy and anonymous. Workers can lift the objects and cannot say what any of them are for; the condition does not pursue personnel. |"
+        ],
+        [
+          "| **Tool / M.A.W. grade** | β (Moderate) · β (Moderate) — the Fading Fang, Plate and Ember are all graded to the holding. |",
+          "| **Tool / M.A.W. grade** | β (Moderate) — the Fading Fang, Plate and Ember are each graded to the holding; this is the equipment grade, not a second rating or an assigned Relic use class. |"
+        ],
+        [
+          "| **Movement** | Stationary — a place or zone; spreads rather than moves. |",
+          "| **Movement** | Distributed across outlined objects, with no position of its own. It spreads through associated stored items and does not pursue workers; carrying an outlined object away does not remove its outline or establish an independent travelling body. |"
+        ],
+        [
+          "This holding is read against the other things in the wing that take hold of objects, and all three relations are measured the same way: the count of outlined items that still have a stated use. Two lowered it. The Burning Library — the pairing everybody asks about — raised it by eleven in one afternoon and has not been repeated.",
+          "Compare named uses separately from outlined objects. The table records flat Jar co-presences, owners supplied without outline retraction by the Market Stall, and Library trials recovering no uses. The separate claim of eleven checked Library recoveries is not reconciled with those negative trials here; do not present either as a demonstrated net countermeasure or combine them into an invented successful session."
+        ],
+        [
+          "**Threat Assessment:** Moderate (β). It damages nothing material and takes the use of everything it reaches, permanently and in a fixed order: other people's tools first, then the holder's own. 611 items outlined, 41 with a use still stated, no injuries and no fatalities in nine years.",
+          "**Threat Assessment:** Moderate (β). Intact material is not evidence of harmless contact: the action record assigns Grudge pressure to handling and loss of use. 611 items are listed as outlined, 41 with a use still stated; the file reports no fatalities in nine years. Keep recorded personnel injury separate from equipment-induced loss of skill and from an object’s permanent loss of a known purpose."
+        ],
+        [
+          "## Origin\n",
+          "**Outline rather than vessel:** The treasured household object in the Tale supplies the sorrow’s origin, not an identified central body hidden among the racks. Presently the visible organisation is a red edge around multiple ordinary objects, with heat and the smell of old char but no scorched material or independent graspable mass. “Beneath the skin” describes the pressure’s apparent closeness, not documented human anatomy. Observe the outline directly and photograph the inventory and carrier objects separately; a photograph of an unmarked tool cannot disprove the edge a witness reports. Track floor load independently of outline count, and do not infer a travelling flame creature from an associated item becoming affected.\n\n## Origin\n"
+        ],
+        [
+          "### M.A.W. Suit — The Fading Plate\n",
+          "**Fang custody:** Keep direct and Tick applications separate within the selected-target coverage; the source’s spread through shelves is not extra targets for the blade. Before rest or cleaning, attribute the household’s lost purpose and record old-wound ache, faint bruising from the linked item, and any use the bearer can no longer state. Correct operation is not proof that the equipment-cost has stopped: the over-runs kept using their pieces after losing that explanation. If the bearer adopts the household history as their own, a named witness states source and event while receiving the Fang. Its local curved form and the index’s straight patina-banded form remain unreconciled; no reshaping is documented.\n\n### M.A.W. Suit — The Fading Plate\n"
+        ],
+        [
+          "### M.A.W. Stigma — The Fading Ember\n",
+          "**Plate care:** The unmatched stores tag identifies this harness; do not supply a plausible missing inventory number to make the record appear complete. Seal the wearer’s own explanations of their kit before deployment, and have the partner track omitted labels as well as dulling reflexes. Grudge resistance can help a pass continue without recovering knowledge already lost. Review source attribution before resting the Plate, and use the named-witness relinquishment if the lost household is becoming the wearer’s own account. Keep the off-site use-description intact; storing its only copy in the affected volume would place the countermeasure among what the holding consumes.\n\n### M.A.W. Stigma — The Fading Ember\n"
+        ],
+        [
+          "### M.A.W. Use Notes\n",
+          "**Ember limit:** Preserve the history of the selected object, not the entire store by implication. Record its stated use separately from its chain of owners: the Market Stall supplied names without retracting an outline, so provenance alone is not a recovered function. Warmth near a known use helps identify this charm, but is not an independent maker’s record. Log the chain felt by the bearer without granting ownership of it, and retain unresolved links in the custody record. A witness receives the piece if the history becomes autobiographical; ending resonance does not refund the knowledge-cost or restore an undocumented use.\n\n### M.A.W. Use Notes\n"
+        ],
+        [
+          "## 감각 묘사 (Flavor Text)\n",
+          "**Inventory caution:** The successful choice values a person’s offered recollection over an empty field; it does not turn a guess into verified function. Preserve the speaker’s name, their actual words and their uncertainty, then keep any makers’ record or observed outline response alongside it. The known-use description and the later measurement-only description have different demonstrated results. Do not convert dimensions into an invented purpose, or list a useful-sounding explanation as a recovered use simply to satisfy the heritage scheme. The object can remain loved, present and unidentified without the record manufacturing the understanding it has lost.\n\n## 감각 묘사 (Flavor Text)\n"
+        ]
+      ],
+      "split": [
+        5,
+        5
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/782_Flotsam/SE-782-A__SIDE_CODEX_Flotsam.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/782_Flotsam/SE-782-B__MAW-W_The_Fading_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/782_Flotsam/SE-782-C__MAW-S_The_Fading_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/782_Flotsam/SE-782-D__MAW-G_The_Fading_Ember.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/README.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/782_Flotsam/SE-782-A__SIDE_CODEX_Flotsam.md": "eb9d71294a82638541240d3fb6d5b7afa19d09b485093690a1993e4610b1641e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/782_Flotsam/SE-782-B__MAW-W_The_Fading_Fang.md": "f33cb4a3c2f54ba53f3fbe5632c4e7b965b0349a3587f53774f60028399e3864",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/782_Flotsam/SE-782-C__MAW-S_The_Fading_Plate.md": "4490f942d790177a9e4bf15446f8392056613e79cccc720bb69e90881cb84ea8",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/782_Flotsam/SE-782-D__MAW-G_The_Fading_Ember.md": "71751f32bb5796967807d5af29b976a8cfeb164303b3534f0283247f19418bf8",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/README.md": "99dbee3e2f2834e3c8975ceb975686646dc1eb72d038a5efd482e004778b47e4",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d"
+      },
+      "final_sha": "682d2c83f04a092eb9904f86e199133a7d32ef9706024545ad607442da41eb98",
+      "before_words": 6712,
+      "after_words": 7299,
+      "outputs": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+        "tpl": "RESIDUE 0  SE-C-IIβ-782_Flotsam_번져가는_유물.md",
+        "sectfile": "0.006  clean  1064 grams  Watch Record\n 0.003  clean   654 grams  M.A.W. Equipment\n 0.002  clean   448 grams  Combat Record\n 0.002  clean   518 grams  감각 묘사 (Flavor Text)\n 0.000  clean   447 grams  이야기 (Narratio)\n 0.000  clean   307 grams  Appearance\n 0.000  clean   297 grams  기록 (Registrum)\n 0.000  clean   236 grams  관찰 기록 (Observation Log)\n 0.000  clean   182 grams  이야기 보고 (Story Log)\n 0.000  clean   148 grams  Operational Parameters\n 0.000  clean   145 grams  최종 관찰 (Final Observation)\n 0.000  clean   142 grams  Containment Event Behavior\n 0.000  clean   131 grams  Trivia\n 0.000  clean   118 grams  Origin\n 0.000  clean    99 grams  Behavior\n 0.000  clean    42 grams  SECC Classification\n 0.000  clean    35 grams  증언 (Testimonium)\n0 section(s) over 0.05",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+        "sect": "85   1  | { *Everything Fades* [**Ultimate**] } | \"Every stored thing in the wing dims at once and the stores become a room full of shapes\n  225   2  **Effect:** +1 to the working stat on this holding's passes, which is to say while reading an inventory aloud in a cold room\n  319   1  **Interaction method:** Baseline each party alone across several sessions, photograph the outline list immediately before and afte\n  442   6  The objection is minuted at every annual review and is raised by the welfare officer. It holds that the wing's most effective coun\nGENERIC 0.002  (10 shared shingles)  SE-C-IIβ-782_Flotsam_번져가는_유물.md"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_04_FLOTSAM.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 1,
+        "weapon": 1,
+        "se": 0
+      },
+      "link": "[[SE-C-IIβ-782_Flotsam_번져가는_유물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-782_Flotsam_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%9C%A0%EB%AC%BC.md \"SE-C-IIβ-782_Flotsam_번져가는_유물.md\")]",
+      "table_link": "[Flotsam](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-782_Flotsam_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%9C%A0%EB%AC%BC.md \"SE-C-IIβ-782_Flotsam_번져가는_유물.md\")",
+      "commit": "e269619f35786568fb584b86fd0ed8a709d2bfd7",
+      "push": "PUSH VERIFIED"
+    },
+    {
+      "designation": "N-Iα-905",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-905_Lacrima_영혼의_그릇.md",
+      "words": 6774,
+      "sha256": "e53644c343ebbe86ef18f94a5266e326a4d0a17a69f57fabaf4e6c7addbc428e",
+      "name": "Lacrima",
+      "unit": 5,
+      "status": "held",
+      "receipt": "B176_05_LACRIMA.md",
+      "type_credit": 0,
+      "weapon_credit": 0,
+      "reasoning": "Complete431line primary and exact905A–D complete read; shared900–930README already read in this batch, unchanged. CSV979–982/archetype358/disposition164, priorB143unit1fullcontext and currentpersonalization543–545 read. Object/I-Relic→ObjectSpiritVoid→lawfulhistoricretention vs postmortemrevocableconsent/Tale earlierordinaryswabjar→presentordinaryunglazedclay on plinth/gap/light/pleading→conditionalcorridorreachnotlocomotion→two validdecreasingWork/separategapretentionregister→expansion/manualreseat/notificationportableclaim→independentlisteners/papercomparisons/allgear traced. R18 predeclared3short/5careful before primary edits.",
+      "history": "B143unit1/5606596 already exact Types/Weapon credit; source-placeholders and previousholds read, no duplicate. EntityCodex359awaits905row; exacttitle/designation/Korean and item-code Mastersearch lacks dedicatedMAW/Tale; LacrimaLiquidSorrowglyph unrelated and not substitute. A/B αVoid8–16/Normal2/Short2/Single100%max4/25; C1/1/.3/.8max4/20; DHead5%+1sourcework agree. CSVVariable/Accessory generic not override. Same-item bladevswrappedDroplet archetype/earlierpersonalization remains hold, no art inspected/modified. EarlierB46quote/B59prose not credit duplicated; primaryallrefbaseline10cd20a plus5606596.",
+      "summary": "Eight repairs replace the unsupported organic-body label, specify stationary gap/light expansion, separate the three equipment costs and add concrete vessel-history, Edge, Veil, Token and retention-evidence guidance.",
+      "holds": [
+        "Essential placement/handling: unmovedplinth61years versus carriedfamily-notificationduty/mountedI-Relic/removeafteruse lacks a documentedportableform or distinctitemreferent. No movablejar or miniaturesoul-body invented. RegisteredTransform versus documentedExpansion not proof of a new body.",
+        "Gapanswersonlyretentionregister/neitherWorkmovesit versus handreseatclosesallthree and handling/ignoredreadings triggers lacks baseline/event/time scope. Counterthree/60/65/event40+10 not mapped. Decayonlyregister versus manualtermination not erased by lower gauge.",
+        "Noharm/noinjuryatanygap versus namedVoidDMG/use5per15seconds/drain has no stated damage-vs-documentary-pressure mapping. Bodilyinjury not assumed from everyspiritualdamage field; condition/reportedoutcome still not established.",
+        "Sixtyoneyearwatch/fortyyearuse not automaticallycontradictorysubperiods; no invention needed. Mainhearingrolehold is twoindependenttranscribers versus corroboratingTokenholder maynottranscribe, and continuousvoicebarelywords versus targetderivedclearword are separate subject/equipment, not automatic conflict.",
+        "Primary absenceofdeath/event versus sourceBtear/CmournerDredacted are imagery not missingoriginatorproof. Exactsourcebinding asks nameeventnotrecorded, while currentTaleexplicitnoeventfinding; do not invent a name or assertion thatresearchestablished otherwise.",
+        "54bodiesreleased versus54familiesyesretention/Trivia familiesreleased versusseventeenno-kin could be different decisions but chronology/authority link not documented. Preservefigures/proxyabsence. Papercomparisons no co-presence; NeutralR19 retained, ethicallegalwelfarecost notautomaticnegativeentitysuppression.",
+        "Same-item singleblade vswrappedtear index/visual remains unresolved; sharedprimarycost wording now separated to pieceprofiles, no costrefund/totalmemorycure claimed. SourceDScopecrystallizedspirit versus localcoldwordwarning not merged into omniscient wordrecognition."
+      ],
+      "result": "HELD whole written design: clay-vessel/expansion and piece costs improved, but fixed-versus-carried identity, gap/control and listening permissions remain unresolved. +0 Types/+0 Weapon/+0 SE.",
+      "commentary": "The ordinary swab jar keeps the file from turning into an ornate prison for an invented ghost. The seventeen make a well-intended rule genuinely difficult: the record admits whom it cannot release. I would keep that admission legible rather than solve it with a proxy the source explicitly refuses.",
+      "repairs": [
+        [
+          "| **Physical Form** | Organic — A small clay jar, unremarkable except for the faint light that leaks from beneath its lid and the voice — barely audible, always pleading — that emanates from within. |",
+          "| **Physical Form** | Fired-clay vessel — A small unglazed domestic jar with no maker’s mark, a lid that will not seat, faint light below the rim and barely audible pleading from within. The analysis identifies ordinary clay, not an organic body inside or beneath the vessel. |"
+        ],
+        [
+          "| **Movement** | Stationary — a fixed position; spreads rather than moves. |",
+          "| **Movement** | Fixed on its plinth. Recorded expansions widen the lid gap and extend light and the audible radius along the access corridor; they do not move the jar or release a figure from it. The source has not been relocated during the recorded watch. |"
+        ],
+        [
+          "Each piece is drawn from the holding itself, not bought as ordinary equipment, and the three of them take the same thing: a headache, a word, a face, always small and always gone before it is missed. The grade measures extraction stability against entities and says nothing about that.",
+          "Each piece is drawn from the holding, not bought as ordinary equipment, and its cost must be logged by piece rather than called identical across the set. Edge leaves a headache and the bearer’s name sounding wrong; Veil makes its wearer difficult to remember while worn; Token briefly removes a familiar word or face. The grade measures extraction stability, not the seriousness of those losses. Record the actual duration and what the bearer missed, even when the loss later passes."
+        ],
+        [
+          "## Origin\n",
+          "**Vessel, gap and voice:** The earlier swab jar and the present anomalous vessel are linked in the Tale by the same receiving-room cupboard. Nothing establishes a human predecessor, a miniature captive body, or a visible soul leaving the jar. The identifying organisation stays ordinary domestic clay, scored rim points and a lid sitting slightly proud; the anomalous light and pleading come from that gap. Record the expansion’s longer corridor reach without enlarging the vessel into another silhouette. The registered Transform heading is not evidence for a walking or opened form. A smaller session gauge, a narrower measured gap and a corroborated word remain different findings, not interchangeable signs that the jar has been emptied.\n\n## Origin\n"
+        ],
+        [
+          "### M.A.W. Suit — Lacrima's Veil\n",
+          "**Edge custody:** The one clear word belongs to this derived weapon’s target effect, not to a newly corroborated transcript from the source jar. Keep the continuing-pleading Tick’s duration separate from the direct strike and retain the selected-target limit; the corridor’s audible radius is not blade spread. Record the bearer’s headache and altered sense of their own name before rest or cleaning. The linked item requires attribution review and named-witness relinquishment if source sorrow becomes autobiographical. Its missing event is not completed by inventing a dead mourner. The local single edge and the index’s wrapped-droplet silhouette remain different same-item accounts without a demonstrated reshaping.\n\n### M.A.W. Suit — Lacrima's Veil\n"
+        ],
+        [
+          "### M.A.W. Stigma — Lacrima's Token\n",
+          "**Veil care:** A near-colourless garment that shifts with its wearer is not an emitted body from the jar. Keep the second listener identified in the session record while the Veil makes that person easy to overlook; forgetting the worker does not invalidate a blank sheet or make the first listener’s longer one correct. Track the source-linked self-forgetting separately from colleagues walking past. The local ordinary cost ends on removal, but the linked attribution failure still requires a witness to receive the piece. Its resistance is not permission to merge transcripts or to substitute a protected listener’s certainty for agreement.\n\n### M.A.W. Stigma — Lacrima's Token\n"
+        ],
+        [
+          "### M.A.W. Use Notes\n",
+          "**Token follow-up:** Cold against the skin warns of a supplied word in the local account; it does not identify the speaker or answer what the plea requests. Preserve a lapse of a familiar face or word with its duration instead of calling it too brief to matter. The local corroborator-who-does-not-transcribe instruction still needs reconciliation with the standing independent-transcription procedure; neither Head placement nor the award pattern grants an exception by itself. Do not train workers to perform deafness to earn the Token. Review attribution before resting it, and have the named witness receive it if the loss is being claimed as the bearer’s own source history.\n\n### M.A.W. Use Notes\n"
+        ],
+        [
+          "## 최종 관찰 (Final Observation)\n",
+          "**Retention evidence:** Keep a decision made after death separate from an engagement signature, and keep a family’s yes to retention separate from a release already carried out. Neither can be inferred from the other or from a favourable lid reading. Preserve the named cases, the decision’s date, the stated retention period and any withdrawal alongside the rim series. The seventeen without traceable next of kin are not missing names to replace with a convenient proxy; the Director expressly records that no such authority has been appointed. A successful listening session does not supply it, and completing the transcript cannot count as consent.\n\n## 최종 관찰 (Final Observation)\n"
+        ]
+      ],
+      "split": [
+        3,
+        5
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/905_Lacrima/SE-905-A__SIDE_CODEX_Lacrima.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/905_Lacrima/SE-905-B__MAW-W_Lacrima_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/905_Lacrima/SE-905-C__MAW-S_Lacrima_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/905_Lacrima/SE-905-D__MAW-G_Lacrima_s_Token.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_PERSONALIZE_PROGRESS.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/905_Lacrima/SE-905-A__SIDE_CODEX_Lacrima.md": "97aceda10ed85658d0107734460eb10fb4d7f0c3a651b493b9a36d1b237b22e9",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/905_Lacrima/SE-905-B__MAW-W_Lacrima_s_Edge.md": "d44a7403a8493d8dac3af08f8924da3c26569fcc8b3d3feb54c475a03dacebd6",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/905_Lacrima/SE-905-C__MAW-S_Lacrima_s_Veil.md": "5b32a2253dc7ade5addd3c198467949db53985acd8e108f374767709ff97259c",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/905_Lacrima/SE-905-D__MAW-G_Lacrima_s_Token.md": "d7189478013c79554191b14ce76dfba3b1dad4ca4ffefe0fd3ab7460061b5bc3",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md": "973a8b4ee120f31c2e8a557b72bcfb09765901c6dc24af2d3fe5491bbf5118b9",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "REFERENCE_SOMNARAK_WIKI/MAW_PERSONALIZE_PROGRESS.md": "7364aea671b14a2ccf59db20c2c49f5419c0c5685818fb0a2a8632afccd8d49b"
+      },
+      "final_sha": "55e7743a67f6a8ea810b4e0cf9027da73d4887efda801d34b2ffbacdf9cd9dff",
+      "before_words": 6774,
+      "after_words": 7378,
+      "outputs": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+        "tpl": "RESIDUE 0  SE-N-Iα-905_Lacrima_영혼의_그릇.md",
+        "sectfile": "0.015  clean   267 grams  기록 (Registrum)\n 0.012  clean   744 grams  M.A.W. Equipment\n 0.005  clean   422 grams  Combat Record\n 0.002  clean   485 grams  Activation Behavior\n 0.001  clean   934 grams  이야기 보고 (Story Log)\n 0.000  clean   373 grams  상호작용 (Entity Interactions)\n 0.000  clean   318 grams  이야기 (Narratio)\n 0.000  clean   303 grams  Appearance\n 0.000  clean   230 grams  Origin\n 0.000  clean   208 grams  Breach Behavior\n 0.000  clean   206 grams  감각 묘사 (Flavor Text)\n 0.000  clean   172 grams  Operational Parameters\n 0.000  clean   129 grams  관찰 기록 (Observation Log)\n 0.000  clean   106 grams  Trivia\n 0.000  clean    98 grams  증언 (Testimonium)\n 0.000  clean    96 grams  Behavior\n 0.000  clean    79 grams  최종 관찰 (Final Observation)\n 0.000  clean    39 grams  SECC Classification\n 0.000  THIN     11 grams  (preamble)\n0 section(s) over 0.05",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+        "sect": "56   1  | **Resistance** | 25% against Void pressure; 18% against other pressure types |\n   86   1  | { *The Unsealed Hour* [**Ultimate**] } | \"One minute, one person, by hand — and by then the whole corridor has heard it.\" | [The\n  171   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  230   2  **Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, that hums faintly when gripped.\n  253   6  **Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wea\n  273   2  **Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.\n  277   1  **Effect:** +1 when working this entity, and the bearer takes the second listening position rather than the first. The token's hol\n  319   1  **Entry 2 — <Retention Return: Two Hundred and Twelve Deaths, Seventy-One Retentions>** The first return under the Rule of the Fre\n  419   2  - The Rule of the Fresh Consent is a containment condition of this entity and binds the pathology wing and the personnel office.\n  427   2  **Operational interpretation:** Read this file with the retention register beside it or do not read it. Taken alone the jar is a q\nGENERIC 0.003  (19 shared shingles)  SE-N-Iα-905_Lacrima_영혼의_그릇.md"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_05_LACRIMA.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-Iα-905_Lacrima_영혼의_그릇](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-905_Lacrima_%EC%98%81%ED%98%BC%EC%9D%98_%EA%B7%B8%EB%A6%87.md \"SE-N-Iα-905_Lacrima_영혼의_그릇.md\")]",
+      "table_link": "[Lacrima](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-905_Lacrima_%EC%98%81%ED%98%BC%EC%9D%98_%EA%B7%B8%EB%A6%87.md \"SE-N-Iα-905_Lacrima_영혼의_그릇.md\")",
+      "commit": "e29030738996739b2de094ee36bbaa1b7ec0043e",
+      "push": "PUSH VERIFIED"
+    }
+  ],
+  "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B176_CLOSE.json"
+}

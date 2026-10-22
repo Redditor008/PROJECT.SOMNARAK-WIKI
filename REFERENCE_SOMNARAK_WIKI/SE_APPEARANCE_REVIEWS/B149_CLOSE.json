@@ -1,0 +1,249 @@
+{
+  "batch": 149,
+  "status": "CLOSED",
+  "reviewed": 5,
+  "required": 5,
+  "no_change": 0,
+  "changed_primaries": 5,
+  "new_se_completions": 0,
+  "new_se_held": 5,
+  "new_equipment_reviews": 0,
+  "authorization": "Owner P authorized Batch149 only and the named Integrity Visual Live Check Rule. No150 authorization.",
+  "selection": "Fresh280pending/127lexical cue candidates, four matching lines each, ties by full designation:180/330/565/Maw001/585. Reading-order screen, not defect verdict; excludes equipment blocks. No substitutions. Maw exact1003, not OrphanedBell001.",
+  "ladder": "No change0/5; below3, so no5→7 extension. Five completed reviews, not five completed SE appearance fixes.",
+  "validation": [
+    {
+      "designation": "C-IIIγ-180",
+      "name": "Owed",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-180_Owed_빚의_벽.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_01_OWED.md",
+      "commit": "060f8b83d8dc63a9115a197ec6e72b7b86b38075",
+      "push": "PUSH VERIFIED",
+      "status": "held",
+      "no_change": false,
+      "before_words": 7440,
+      "after_words": 7674,
+      "sha256": "635d35a62849b8d1e3ac9b90b000024929ca80b2e9aa25c288773f220a5a7432",
+      "short_link": "[Owed](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-180_Owed_%EB%B9%9A%EC%9D%98_%EB%B2%BD.md \"SE-C-IIIγ-180_Owed_빚의_벽.md\")",
+      "full_link": "[[SE-C-IIIγ-180_Owed_빚의_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-180_Owed_%EB%B9%9A%EC%9D%98_%EB%B2%BD.md \"SE-C-IIIγ-180_Owed_빚의_벽.md\")]",
+      "change": "Replaced unsupported device Movement with fixed location and length/height growth found between watches. Added barrier linkage tying collective sorrow/Tale to current nonhuman Place, transparent blocks remaining, echo-derived portable equipment versus intact wall, pressure route versus physical highway. Explicitly retained collapse/budding/history conflicts as unresolved.",
+      "holds": "Combat falling block/cascade/wound against no injury/no block loss/indestructibility; Side visible budding versus primary no witnessed appearance; within-year origin versus centuries Tale. Recorded-obligation trigger and Story5perfect ledger correspondence versus unrecorded majority/weak ledger correlation. No escalation wording versus expansion/Transform and75%trigger versus65%ultimate. Two-times faster settling claim with no settling in4years unchanged. Ram12–20/Slow1/Room5 versus7–12/Fast3/Medium3Skewer, ledger-maul and MasterPolearm/Long archetype no mode supplied; Hauberk/greaves versus shield harness, warm Hansteel charm versus black block, four known-household bestowals versus source generic successfulwork, unnamed+2and CSVAccessory5%versusHead4% and Side pressure18–41/CLStudied versusprimary16–37/Basic retained. Material source surface residue versus Side echo remains not normalized; set passage does not lift highway order.",
+      "commentary": "The strongest image is a clear block that still blocks the road: acknowledgment need not repair access. The legal prohibition makes the institution repeat the wall in another medium. A spectacular collapse would dilute that persistence unless its relationship were genuinely supported.",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": {
+          "exit": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "exit": 0,
+          "output": "RESIDUE 0  SE-C-IIIγ-180_Owed_빚의_벽.md\n"
+        },
+        "sectfile": {
+          "exit": 0,
+          "output": " 0.039  clean   129 grams  Trivia\n 0.026  clean   302 grams  기록 (Registrum)\n 0.016  clean   257 grams  관찰 기록 (Observation Log)\n 0.009  clean   445 grams  Combat Record\n 0.008  clean   494 grams  감각 묘사 (Flavor Text)\n 0.007  clean   557 grams  M.A.W. Equipment\n 0.000  clean  1450 grams  Warden Record\n 0.000  clean   408 grams  Appearance\n 0.000  clean   402 grams  이야기 (Narratio)\n 0.000  clean   233 grams  Expansion Behavior\n 0.000  clean   147 grams  Origin\n 0.000  clean   134 grams  Operational Parameters\n 0.000  clean   132 grams  이야기 보고 (Story Log)\n 0.000  clean   110 grams  Behavior\n 0.000  clean    78 grams  최종 관찰 (Final Observation)\n 0.000  clean    47 grams  증언 (Testimonium)\n 0.000  clean    45 grams  SECC Classification\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "exit": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "exit": 0,
+          "output": "   85   4  | { *Everyone Owes Everything* [**Ultimate**] } | \"The Wall runs outward — a brick for every person standing in the field — until \n  225   2  **Appearance:** a shield-backed harness of Weight Han-steel, matte and unnaturally heavy, that tightens near its source element.\n  246   1  **Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, warm to the touch.\n  252   1  **Effect:** +2 stat bonus when working the source entity\n  274   1  | **At limit** | Duration, activations, attribute change, rejection signs, final measurements, and whether the operator read any n\n  294   2  | **Initial exposure** | The observer identifies Owed as an Object/Place with Place-Weight manifestation. The first reliable marke\n  299   2  **Observation method:** Measure, count, photograph, notify. The form here is the sorrow and not a forecast: a city could not arriv\n  346   2  **Interaction method:** Baseline each party alone over several cycles — measurements, transparent count, gauge — before any joint \n  359   3  **Interaction procedure:** Solo baselines first, across several cycles, with measurements, transparent count and gauge established\n  395   1  - Ferrehan is the primary Work Type and the only one that lowers the gauge; Viderehan holds it level and is the only route to the \n  407   7  **Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the expansion\n  482   5  - **Field detail:** Its defining element is Weight, and its registered location is SECTOR-C-01, Collector's Row.\nGENERIC 0.005  (31 shared shingles)  SE-C-IIIγ-180_Owed_빚의_벽.md\n"
+        }
+      }
+    },
+    {
+      "designation": "C-IIβ-330",
+      "name": "Frozen Window",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-330_Frozen_Window_얼어붙은_창.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_02_FROZEN_WINDOW.md",
+      "commit": "51fe9316c4c394d837b211f67df481b8e867dbdf",
+      "push": "PUSH VERIFIED",
+      "status": "held",
+      "no_change": false,
+      "before_words": 7945,
+      "after_words": 8207,
+      "sha256": "0c925d6151acfe094cebb96b1f023a9f7d176260d52100fb70a43b37e5518eb9",
+      "short_link": "[Frozen_Window](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-330_Frozen_Window_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%B0%BD.md \"SE-C-IIβ-330_Frozen_Window_얼어붙은_창.md\")",
+      "full_link": "[[SE-C-IIβ-330_Frozen_Window_얼어붙은_창](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-330_Frozen_Window_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%B0%BD.md \"SE-C-IIβ-330_Frozen_Window_얼어붙은_창.md\")]",
+      "change": "Aligned SECCMovement and breach alert with recorded relocation rather than pursuit. Connected household waiting, mobile figure, conditional surface scenes and frost-derived equipment without a literal portal or frame on the body. Added explicit pane/never-resting/confinement conflicts, not an invented transition.",
+      "holds": "Tale absorbed woman/glass/frame/fixed-corner and oldMaster no-breach versus current no-pane/frame/walking body; combat opening/shattering window/cold gap remains no documented anatomy. Primary never-rests versus SideAresonance stop and Dbestowal palm/pause/stableposture; containing in space too small for circuit against stillness escalation. Simultaneous hot/cold measurements retained as recorded. Perturn drain versus perrelocation gauge and3conditions/60%/65%ultimate; walk pace versus slows-to-walk; per-shift cap versus not-resetatshiftboundary; no harm to nonPugnahan versus shatter attacks. Notranscribing scene content versus detailedFlerehanfarewell recognized; formermissingrecipient confirmedcannotreceive versus neverconfirmeddeath remains uncertain. Weapon7–12/Normal3/Range3/4mcone versus5–9/Measured2/Range2/Single/CircuitBreaker; archetypeMAW-W330LamentationDirk(Long)not thisPike. Suit20%frontmitigation versus30%slow/12mist/thermalclouding itemC; D8%crit versusTerminalClarity20%armorignore+3–5Weight/remoteenvironment; primaryCommons-only versus sourceDfieldtelemetry. Four unmerged seteffects, unnamed thermal-sourceW versusBfrostresidue frame/extraction location, modifier+10%itemonly, separate mental tolls unchanged.",
+      "commentary": "Waiting becoming compulsory walking is a strong inversion, not a reason to replace the figure with a window. The missing-person declarations give naming an ending a troubling public cost. I would preserve the unknowable ninth scene category rather than solve it into a secret returned-person body.",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": {
+          "exit": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "exit": 0,
+          "output": "RESIDUE 0  SE-C-IIβ-330_Frozen_Window_얼어붙은_창.md\n"
+        },
+        "sectfile": {
+          "exit": 0,
+          "output": " 0.029  clean   520 grams  Combat Record\n 0.011  clean   175 grams  Operational Parameters\n 0.011  clean  1267 grams  Watch Record\n 0.007  clean   303 grams  관찰 기록 (Observation Log)\n 0.007  clean   153 grams  Breach Behavior\n 0.006  clean   852 grams  M.A.W. Equipment\n 0.003  clean   335 grams  기록 (Registrum)\n 0.002  clean   417 grams  Appearance\n 0.002  clean   542 grams  감각 묘사 (Flavor Text)\n 0.000  clean   442 grams  이야기 (Narratio)\n 0.000  clean   246 grams  이야기 보고 (Story Log)\n 0.000  clean   167 grams  Trivia\n 0.000  clean   134 grams  Origin\n 0.000  clean   123 grams  최종 관찰 (Final Observation)\n 0.000  clean    94 grams  Behavior\n 0.000  clean    49 grams  증언 (Testimonium)\n 0.000  clean    43 grams  SECC Classification\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "exit": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "exit": 0,
+          "output": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle, and the yield does not move with what the surface is showing.\n   84   4  | { *The Full Shatter* [**Attack**] } | \"The entire window gives way — and through the gap, the cold outside pours in.\" | [The pan\n   85   6  | { *Every Window Freezes* [**Ultimate**] } | \"The frost spreads to every window — every opening — until the whole field is sealed\n   91   5  3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Allow it to comp\n  122   1  | **Identification** | Confirm before Work or contact: designation C-IIβ-330 `[WS]`, Weight expression, Subject-Grudge manifestati\n  174   1  - **Sorrow Gauge on breach:** Opens at 40% and rises ten points per relocation rather than per turn, which makes a cornered figure\n  251   2  | **At limit** | The right eye perceives the world in chilled blue tones, without remission, and the wearer has begun drafting rep\n  252   3  | **After use** | Return the piece and check the sealed baseline 7 days later, with the same question put by the same second Warde\n  277   2  **Observation method:** Walk the circuit in pairs, opposite ways, at the registered 1.45 metres per second, logging scene type fro\n  324   1  **Interaction method:** Baseline each party alone across several circuits first, at the registered pace, with scene type read from\n  373   1  - Ferrehan is the primary Work Type; Flerehan also lowers the gauge, Viderehan holds it level and Pugnahan is prohibited. Earlier \n  445  14  The objection is minuted at every annual review and is raised by the Commons' ward officer. It holds that the facility is making p\nGENERIC 0.007  (42 shared shingles)  SE-C-IIβ-330_Frozen_Window_얼어붙은_창.md\n"
+        }
+      }
+    },
+    {
+      "designation": "C-IIβ-565",
+      "name": "Broken Well",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-565_Broken_Well_부서진_우물.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_03_BROKEN_WELL.md",
+      "commit": "f7b16cbda4333c0d3ebbce9889bae97be5d39796",
+      "push": "PUSH VERIFIED",
+      "status": "held",
+      "no_change": false,
+      "before_words": 7670,
+      "after_words": 7933,
+      "sha256": "8440b3414abfa47307ef7edcc8603cc1308a32cd07589e9b0112c4a4cb40c65c",
+      "short_link": "[Broken_Well](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-565_Broken_Well_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%9A%B0%EB%AC%BC.md \"SE-C-IIβ-565_Broken_Well_부서진_우물.md\")",
+      "full_link": "[[SE-C-IIβ-565_Broken_Well_부서진_우물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-565_Broken_Well_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%9A%B0%EB%AC%BC.md \"SE-C-IIβ-565_Broken_Well_부서진_우물.md\")]",
+      "change": "Corrected stationaryMovement to motherfigure joined to rim, finished truncated EntityType sentence from exact event account, and changed present flavor from drippingwater to dust above measuredfloor. Added supported historical wetshaft/currentdryfloor bridge and distinguished imagineddepth, effectspread and equipmentimages from actualcavity/recoveredchild; recorded remaining physical conflicts.",
+      "holds": "Dryrim/dust/no water versus watergeyser/taintedultimate/darkwaterbottom; primaryfallingdust versus Sideupwarddust; stationaryinseparablerim versus1.45m/s and confirmedoutsideholdingsightings, no identity/routebridge. Nonbreachevent versus SideTransformbreach,45%+10perperson versus40%+10perturn/Resilience+5;60%/65%/3condition thresholds retained. Inertuntillean versus approach/lingeringattacks; fourreports/twotetherloads versus noeventsafterrail; railsoleintervention versus cover/handover/tether history and force-neverattempted versus Pugnahanresponse not normalized. Nine-search findings versus skippedyear6notnewsearch, counts held without invented sampling. DaughterTale versus Him/helegalrecord; everyeligiblecategoryempty versus survivingparent no chronologicalrepair. Equipment αallthree versusFanglowest-grade claim; BrokenWell/Upwell titles noalias; primarydark versus linkedcrimson, plainplateversusTrueEdgeBrace fieldhistory; primary nootheruse versus source verifiedroute rescue, Bodyfloor-giveway versus Fangcutmaterial/reflection; MasterPRIMALBio/Marrow notHaniron, sourceSingle1.0missinglocal notdefect. Accessory5%CSV versusTail5%; SideTearsDust conditional versus currentalwaysdust; blanket set aches/reflexes versus Lantern failedrescuecost unchanged.",
+      "commentary": "The visible floor that cannot end the search is more affecting than a hidden monster below it. The annual search works only when someone actually does it, which makes care substantive rather than symbolic. The compulsory handover sentence is where that care becomes troubling for the people required to perform it.",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": {
+          "exit": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "exit": 0,
+          "output": "RESIDUE 0  SE-C-IIβ-565_Broken_Well_부서진_우물.md\n"
+        },
+        "sectfile": {
+          "exit": 0,
+          "output": " 0.040  clean   746 grams  M.A.W. Equipment\n 0.017  clean   115 grams  Operational Parameters\n 0.016  clean   554 grams  감각 묘사 (Flavor Text)\n 0.010  clean  1252 grams  Watch Record\n 0.010  clean   495 grams  Combat Record\n 0.009  clean   107 grams  Behavior\n 0.008  clean   381 grams  기록 (Registrum)\n 0.006  clean   170 grams  Containment Event Behavior\n 0.002  clean   424 grams  Appearance\n 0.000  clean   452 grams  이야기 (Narratio)\n 0.000  clean   272 grams  관찰 기록 (Observation Log)\n 0.000  clean   261 grams  이야기 보고 (Story Log)\n 0.000  clean   171 grams  Trivia\n 0.000  clean   149 grams  Origin\n 0.000  clean   118 grams  최종 관찰 (Final Observation)\n 0.000  clean    44 grams  SECC Classification\n 0.000  clean    42 grams  증언 (Testimonium)\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "exit": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "exit": 0,
+          "output": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 25% against Grudge pressure; 15% against other pressure types — and the second figure has never been reached he\n   85   4  | { *Every Well Breaks* [**Ultimate**] } | “Every dry opening in Old Lament answers at once, and each one answers in her voice.” |\n  122   1  | **Identification** | Confirm before Work or contact: designation C-IIβ-565 `[D]`, Grudge expression, Subject-Phantasmal manifest\n  154   1  Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Grudge expression, fixed at the rim of a dry opening\n  174   1  - **Sorrow Gauge on event:** Opens at 45% and rises 10% per person drawn toward the depths; the draw is halted by reading the sear\n  184   3  **Appearance:** a fang-curved blade of Grudge Han-iron, dark, that sits heavy in the hand at the rail and weeps a thin film of Han\n  192   2  **Ability:** Deals Grudge damage against the Body — physical form and structural integrity — in the way this holding deals it: not\n  200   2  **Appearance:** a plated harness of Grudge Han-iron, dark, that tightens along the ribs when the wearer comes within sight of the \n  238   4  | **Before use** | Wielder, piece, gauge at issue, and a sealed baseline taken against the set's known toll — old wounds aching un\n  243   1  **Stat interpretation:** The grade records how cleanly the grief came off the holding; the cost column records what the bearer tak\n  245  18  **Full-set source review (2026-10-11):** Reviewed the Tool/M.A.W. grade overview, all three local item blocks, Use Notes, Field Us\n  315   2  This holding is read against the other things in Old Lament that hold a loss underground. Each relation below has been observed an\n  317   6  **Interaction method:** Baseline each party alone across several sessions before any paired approach, with the crew of three and s\n  330   1  **Interaction procedure:** First alone, then together, with the solo baseline as the control for every pairing; then the first sha\n  372   3  **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone); the annual search is run by the wing itself und\n  438  13  The objection is minuted at every annual review and is raised by the Wardens' representative. It holds that compelled speech of th\nGENERIC 0.011  (65 shared shingles)  SE-C-IIβ-565_Broken_Well_부서진_우물.md\n"
+        }
+      }
+    },
+    {
+      "designation": "C-IVω-001",
+      "name": "The Maw",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_04_THE_MAW.md",
+      "commit": "ea24bf8072f1872e1c344acdf7e8129532eeeebc",
+      "push": "PUSH VERIFIED",
+      "status": "held",
+      "no_change": false,
+      "before_words": 7570,
+      "after_words": 7820,
+      "sha256": "6acb7ec5ff6ff5841bdd1babd9f2bae1446b0b2459a3757e572856fb11584498",
+      "short_link": "[The_Maw](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CF%89-001_The_Maw_%EA%B5%AC%EB%9D%BC.md \"SE-C-IVω-001_The_Maw_구라.md\")",
+      "full_link": "[[SE-C-IVω-001_The_Maw_구라](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CF%89-001_The_Maw_%EA%B5%AC%EB%9D%BC.md \"SE-C-IVω-001_The_Maw_구라.md\")]",
+      "change": "Corrected DetailedActivationManifestation Place-Grudge→Place-Tale, retaining Grudgeelement. Speedrationale now distinguishes ordinarydistrict travel from registeredeventform without new speed. Added samecitizens/architecturalsubstance continuity, currentquietnotwalking and explicit origin/trigger/equipmentholds. ExistingAppearanceStates and Tale/equipment unchanged.",
+      "holds": "Deliberate sacrifice/false relocation versus warnedneglect/notsacrifice;9hourreenactmentoriginalpace versus17minutesTalescreaming no chronology assumed. Currentquiet/peace versus ongoingwhispers/voices throughout classification/behavior/flavor/interaction/roll no datingbridge; no dissipation versus peace not automaticallyremovedholding. Per-cycle/year2.3cm versus4m/streetdenialjumps; sorrowincrease/perimeter/refusal/95%threshold and twicepastshifts versusreserveddesignation/thirdrefusal conflict. No entry response versus authorizedApexentry not silencepolicyinvented. NoallfourWorkroutine inevent versusMasterallfouractivecombatvectors; prohibitionunchanged. SideA1/1extractionforbidden versus B–D4/4Grip/Shroud/Relic and localthreepieces/fourStigmas; names/formsprofiles Stiletto(Jawpattern) versusMasterDevouringJaw versusGripcleaver14–24/VerySlow1/PointBlank1/60, local22–34/Slow2/Short2/70. LocalwarmsoftPlate65and0.4/1/1.2/1.8 versusstonecloak60and0.3/.7/.7/.8; Tail3%+4unknown/forbidden versusNeck1%+3AP/turn01floor10+25%authority, CSVAccessory5%. Setnameloss versusseparatepiecehunger/burn/guilt/voicecorrosion costs retained. Do not infer a jaw-bodieddistrict or issuedcanonicalMawkit.",
+      "commentary": "Architecture is the right body for people turned into infrastructure: the setting cannot be separated from the violence. The quiet is strongest when the institution refuses to call it recovery. I would not let a jaw-themed weapon turn the district into a conventional hungry beast.",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": {
+          "exit": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "exit": 0,
+          "output": "RESIDUE 0  SE-C-IVω-001_The_Maw_구라.md\n"
+        },
+        "sectfile": {
+          "exit": 0,
+          "output": " 0.003  clean   583 grams  감각 묘사 (Flavor Text)\n 0.000  clean   745 grams  Apex Record\n 0.000  clean   743 grams  Appearance\n 0.000  clean   634 grams  이야기 (Narratio)\n 0.000  clean   563 grams  Combat Record\n 0.000  clean   459 grams  M.A.W. Equipment\n 0.000  clean   349 grams  Expansion Behavior\n 0.000  clean   286 grams  기록 (Registrum)\n 0.000  clean   236 grams  관찰 기록 (Observation Log)\n 0.000  clean   159 grams  Operational Parameters\n 0.000  clean   106 grams  Behavior\n 0.000  clean   100 grams  Trivia\n 0.000  clean    92 grams  이야기 보고 (Story Log)\n 0.000  clean    84 grams  Origin\n 0.000  clean    69 grams  SECC Classification\n 0.000  clean    60 grams  최종 관찰 (Final Observation)\n 0.000  clean    59 grams  증언 (Testimonium)\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "exit": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "exit": 0,
+          "output": "  378   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.000  (2 shared shingles)  SE-C-IVω-001_The_Maw_구라.md\n"
+        }
+      }
+    },
+    {
+      "designation": "N-IIIγ-585",
+      "name": "Floating Tree",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-585_Floating_Tree_떠다니는_나무.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_05_FLOATING_TREE.md",
+      "commit": "b129240e635d4eafcd3e01af5453aa87b6d81061",
+      "push": "PUSH VERIFIED",
+      "status": "held",
+      "no_change": false,
+      "before_words": 7570,
+      "after_words": 7949,
+      "sha256": "1f3f98ed001a8b05a8f128a1ffda8a5ab371c032e94778a3452e5940a77e5704",
+      "short_link": "[Floating_Tree](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-585_Floating_Tree_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%EB%82%98%EB%AC%B4.md \"SE-N-IIIγ-585_Floating_Tree_떠다니는_나무.md\")",
+      "full_link": "[[SE-N-IIIγ-585_Floating_Tree_떠다니는_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-585_Floating_Tree_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%EB%82%98%EB%AC%B4.md \"SE-N-IIIγ-585_Floating_Tree_떠다니는_나무.md\")]",
+      "change": "SECCMovement nowroot-firstcurrentdrift ratherthanwalking/pursuit; SpeedN/Arationale describesno measuredtravelrate ratherthanfixedobject. TwoObjectPlaceresiduesnowSubject. Appearanceordinaryrootclearance+ReturningTreestationkeepingexception andidentification nowcheckrootedreportsagainst disputedbreachratherthanrejectidentity. Added community/rootmass/shadow note preserving literalTaleanatomy discrepancy, originaccounts, uncalibratedshadow/circumstantialpairings and separateequipmentconditions.",
+      "holds": "Taleformedtreewithnoroots andMasterEntity515 versuscurrentfullhealthyroots,no growth date. Observationrootsnevertouchincludingbreach versusfloor/personnelrooteddescent/FullDescentimpact; cannotnormalizeintoconditionalmodealone. RootWhiplashes/attack versusbreachholdswithoutstriking; noanchorstakeversuspeggedshadow andtetherlanguage not universalnewban. Gauge75activation/65ultimate/40breach+10interval no inventedharmonization; slow strictlycurrentexpansionversusdeparturecircles/Returninghold/Colossuslift. Shadowarea505/402/310stableheightwithintolerance andReturnAddress318unansweredpreviousyear notequatedbysameperiod; uncalibratedshadow/peoplecountnotliteralwoodgrowth. Administrativeafterdispersal versusTalesurgedispersal, healthyrootsversuscombatdyingslowly; gainsheightaftermajordisplacements versusheightunchangedseasonaltolerance. SourceTaleI/α/Low/contained/Flerehan versusprimaryIII/γ/Major/tracked/barred; sourceheldunchanged. Main/archetype/MastertableRootPikeironwoodlivingvines versusB/CSV/MasterdetailFloatingRootHancrystalclub withoutmode;noresolvefromnumericalagreement. Suitlocalhangingcloth/soloMind/joysdulling versusCconditionalmobilegroupcanopy/otherpeopleexclusion; Stigmalocalanglelightpalmcharmshadowtracking/sleepanywhere/returntoplace versusDfloatingTailnoncontact/crystalleaflinesLivingMap/peoplewebnoland; workingstat versusA/DClarity, fourteenleafmade/seasonissue versusDentitybestowalrandom4%cannotmanufacture; CSVAccessory5%versusTail4%. All3cutfromtree/uniformplacecost versusCcondensed/Dgrantandpiececosts; Aresonancegroupcanopy notnewsourcebody.",
+      "commentary": "Healthy roots with nowhere to go make this stronger than a human-shaped refugee. Keeping the fair housing rule and its defensible anti-corruption history makes the loss institutional rather than one villain’s act. The Return Address remedy has real but insufficient value; it should not be turned into a magical recovered homeland.",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": {
+          "exit": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "exit": 0,
+          "output": "RESIDUE 0  SE-N-IIIγ-585_Floating_Tree_떠다니는_나무.md\n"
+        },
+        "sectfile": {
+          "exit": 0,
+          "output": " 0.036  clean   446 grams  Combat Record\n 0.019  clean   107 grams  Operational Parameters\n 0.011  clean   190 grams  Trivia\n 0.007  clean   821 grams  M.A.W. Equipment\n 0.004  clean   263 grams  기록 (Registrum)\n 0.001  clean   930 grams  Warden Record\n 0.000  clean   551 grams  Appearance\n 0.000  clean   511 grams  감각 묘사 (Flavor Text)\n 0.000  clean   382 grams  이야기 (Narratio)\n 0.000  clean   301 grams  이야기 보고 (Story Log)\n 0.000  clean   228 grams  Origin\n 0.000  clean   227 grams  Expansion Behavior\n 0.000  clean   190 grams  Behavior\n 0.000  clean   179 grams  관찰 기록 (Observation Log)\n 0.000  clean   133 grams  Breach Behavior\n 0.000  clean    89 grams  최종 관찰 (Final Observation)\n 0.000  clean    56 grams  증언 (Testimonium)\n 0.000  clean    27 grams  (preamble)\n 0.000  clean    26 grams  SECC Classification\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "exit": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "exit": 0,
+          "output": "   31   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 35% against Lament pressure; 25% against other pressure types |\n   84   4  | { *The Full Descent* [**Attack**] } | \"The tree gives up — drops from the sky like a falling star of grief.\" | [The Tree plummet\n   85   6  | { *The Uprooted Forest* [**Ultimate**] } | \"Every tree in the field lifts free — roots trailing, connections severed, all of the\n   91   5  3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Mark its route; \n  259   3  **Appearance:** a palm-sized charm of Lament Han-crystal, cool and faintly luminous, that takes light at an angle nothing else in \n  281   2  | **Before use** | Wielder, piece, the day's reading, and the route log opened by a second person. On this set what is measured is\n  282   1  | **During use** | Every instance is timed: the bearer naming a place they can no longer reach, with the hour. One occurrence is n\n  419   1  **Review requirement:** After any breach, Sorrow Tide, expansion, transformation attempt or unusual interaction, re-verify the rou\n  450   1  The box-keepers asked for the narrowest exception available: that two adults from the same settlement, each of them willing, be al\n  465   2  - **Classification detail:** Floating Tree is a Subject with Fragment (III) coherence and Major (γ) potency.\nGENERIC 0.005  (28 shared shingles)  SE-N-IIIγ-585_Floating_Tree_떠다니는_나무.md\n"
+        }
+      }
+    }
+  ],
+  "progress": {
+    "se": 12,
+    "total": 301,
+    "changed": 8,
+    "retained": 4,
+    "held": 12,
+    "blocked": 2,
+    "pending": 275,
+    "all_maw_types": 245,
+    "all_maw_total": 301,
+    "maw_w": 245,
+    "maw_w_total": 287
+  },
+  "fresh_closing_checks": "25/25 technical checks PASS; all five final hashes unchanged since complete final reads",
+  "ledger_tests": "10/10 PASS",
+  "labels": "301 dossiers audited, zero violations",
+  "couples": "0/301 files carrying0/301; section-pairs0. Similarity candidates, not logical checks.",
+  "comparison_summary": "M.A.W. Codex comparison (candidate differences; not an auto-fixer)\n  mapped primary dossiers : 301\n  external Side Codices   : 292\n  complete 4/4 sets       : 287\n  item pairs compared     : 861\n  Side Codex card sets    : 106\n  Side card records       : 318\n  Side card/SE pairs      : 318\n  exception sets skipped  : 5\n\nFindings by class:\n  name                     143\n  side.stigma.name         16\n  side.stigma.slot         5\n  side.suit.max_amount     1\n  side.suit.name           13\n  side.weapon.coverage     11\n  side.weapon.damage       8\n  side.weapon.falloff      14\n  side.weapon.name         30\n  side.weapon.pattern      23\n  side.weapon.range        6\n  side.weapon.speed        7\n  side_internal.stigma.name 15\n  side_internal.stigma.slot 3\n  side_internal.suit.name  15\n  side_internal.weapon.damage 3\n  side_internal.weapon.name 18\n  side_internal.weapon.pattern 3\n  side_internal.weapon.range 1\n  side_internal.weapon.speed 3\n  stigma.slot              1\n  suit.echo_cost           4\n  suit.max_amount          7\n  weapon.coverage          38\n  weapon.damage            20\n  weapon.echo_cost         7\n  weapon.element           2\n  weapon.falloff           30\n  weapon.grade             2\n  weapon.max_amount        7\n  weapon.pattern           56\n  weapon.range             25\n  weapon.speed             20\n\n",
+  "before_words": 38195,
+  "after_words": 39583,
+  "numeric_and_equipment_invariants": "All original digit-token sequences, whole equipment sections and source-file bytes unchanged; individually verified by each recorder",
+  "inspection": "Written-design logical review only. No generated artwork, rendered inspection, running browser preview or published-site verification.",
+  "next": "Await owner P for Batch150. Batch301 remains separately blocked on eight owner bodies, 4+4 operation and generation/validation before wiki copying. No merge authorized."
+}

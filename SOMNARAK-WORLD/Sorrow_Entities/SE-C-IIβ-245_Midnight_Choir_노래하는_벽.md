@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-245 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on midnight. nothing else, in sixty-one years |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates at midnight, with no other trigger recorded in sixty-one years |
 | **Coherence** | Echo (II) — Repeats singing |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Midnight Choir by eleven frescoes of named dead along ninety-four metres of east corridor, pigment salt-damp and smelling of cold rain, silent until midnight. If anything is heard before midnight, or outside the ninety-four metres, it is not this holding and the corridor is cleared and re-walked, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** The team identifies Midnight Choir by eleven frescoes of named dead along ninety-four metres of east corridor, pigment salt-damp and smelling of cold rain, silent until midnight. If anything is heard before midnight or outside the ninety-four metres, clear the corridor and walk it again: the sound does not match this holding’s recorded field. Confirm both chalk marks and the previous night’s count before taking position with the verbatim book; no unexplained sound is accepted as an early performance.
 2. **Clash:** There is no clash. The corridor is attended for the whole performance and the night's count is taken: how many songs were begun, how many broke off, and at what words. Work Types hold the attending party steady through it; nothing done by the party has ever shortened, lengthened or altered a performance.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Listen and catalogue; do not silence the walls**.
 
@@ -202,6 +202,8 @@ There is no escalation here, and the corridor stopped writing as though there we
 
 **Cost:** Involuntary weeping, usually hours later and usually in the wrong place. Seven wielders have been excused interview duty on it, which is this facility's only standing accommodation of the kind.
 
+**Phrase boundary:** The Requiem’s individual record binds the wielder to repeat the last confirmed lyric and keep the lost part silent. A missing note is not a target, and an invented ending is the first false cut. Its shutdown sheathes the blade at the break without adding a line. None of those instructions permits drawing it against the corridor: the local watch keeps the blade undrawn and the plaster untouched. The delayed weeping belongs on the bearer’s return record even when the night’s transcription is complete.
+
 ### M.A.W. Suit — The Wall Shroud
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
@@ -220,6 +222,8 @@ There is no escalation here, and the corridor stopped writing as though there we
 
 **Cost:** A flattening of small pleasures that lasts about as long as the posting. The corridor records it because the shroud is worn by the one person in the building whose work is to write down other people's last half-sentences.
 
+**Listener care:** The Shroud’s record distinguishes listening from understanding; surviving the sequence is not proof of either a recovered history or a complete statement. Breath that cannot stop with the phrase and cloth that supplies an ending are failure signs. The shroud never covers a fresco. Removal is during the natural silence after the confirmed phrase, not mid-note, and relief still occurs only between songs. At noon it hangs in open air while the wearer listens to a complete living song chosen by that singer, not selected as a prescribed treatment.
+
 ### M.A.W. Stigma — The Wall Stone
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
@@ -235,6 +239,8 @@ There is no escalation here, and the corridor stopped writing as though there we
 **Cost:** The bearer hears, in ordinary speech, the exact moment a person decides not to finish a sentence. Three bearers have resigned from interview duties on that ground and all three resignations are attached here rather than in a personnel file.
 
 *The eleven wall stones were granted on nights when the transcriber wrote a break word that named a serving officer, and did not soften it.*
+
+**Choice and release:** The Stone’s individual record forbids using calm as a substitute for truthful information while danger remains. Provenance, confirmed words and the exact interruption accompany care; the fragment stops where its record stops. Emergency release moves into open space without walls and lets only the known fragment run, without smashing the stone. These controls confer no permission to post a bearer to the statement rooms. The Resumption Offer remains one invitation, at the giver’s chosen time and place; silence is not consent to finish their sentence for them.
 
 ### M.A.W. Use Notes
 

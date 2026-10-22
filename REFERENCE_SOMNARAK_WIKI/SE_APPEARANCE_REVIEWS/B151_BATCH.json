@@ -1,0 +1,94 @@
+{
+  "number": 151,
+  "status": "CLOSED",
+  "required": 5,
+  "queue": [
+    "O-IVδ-190",
+    "O-IVδ-909",
+    "C-IIIγ-081",
+    "C-IIIγ-558",
+    "C-IVβ-041"
+  ],
+  "kind": "se-appearance",
+  "reviewed": {
+    "O-IVδ-190": {
+      "no_change": false,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B151_01_EMBER_PHOENIX.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not in scope"
+    },
+    "O-IVδ-909": {
+      "no_change": false,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B151_02_HEIRLOOM.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not in scope"
+    },
+    "C-IIIγ-081": {
+      "no_change": true,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B151_03_THE_HOLLOW_SAINT.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not in scope"
+    },
+    "C-IIIγ-558": {
+      "no_change": false,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B151_04_BURNING_ROOT.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not in scope"
+    },
+    "C-IVβ-041": {
+      "no_change": true,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B151_05_THE_GRIEVING_MAIDEN.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      },
+      "rendered_check": "not in scope"
+    }
+  },
+  "opening_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B151_OPEN.json",
+  "logical_reading_required": true,
+  "integrity_rule": "REFERENCE_SOMNARAK_WIKI/RULES/R-33_INTEGRITY_VISUAL_LIVE_CHECK.md",
+  "closing_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B151_CLOSE.json"
+}

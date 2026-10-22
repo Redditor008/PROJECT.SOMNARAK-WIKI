@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A predatory thicket of mobile thorned vines that crawls and lashes like a nest of serpents — a hunting creature of braided crimson creeper that grips and drags. Warm where it bleeds sap, it smells of char and crushed green. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Creeping and surging thorn coils grip what brushes them; reach is surveyed on the memorial ground. In the recorded escape the thicket comes off that ground and tracks motion. |
 | **Location** | SECTOR-D-02, near Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | No measured travel speed is supplied here. Reach growth, moving coils and the recorded off-ground escape are distinct observations; the Subject is not a fixed device. |
 | **Resistance** | 35% against Grudge pressure and 25% against other types — a hedge that gives ground by growing through whatever pushes at it |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 673/673 |
@@ -70,7 +70,7 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types** | Flerehan, Viderehan and Ferrehan are available under the primary record; Pugnahan has a recorded response but is prohibited by standing order. |
 | **Battlefield** | SECTOR-D-02, near Echo Gardens |
 | **Resolution Condition** | Acknowledge the injury; do not cut the flowers |
 
@@ -94,7 +94,7 @@
 
 - The failure here is anger. A worker who meets the thorns with temper feels the grievance beneath their own grief come up to meet it, and the gauge climbs on the meeting.
 - Long contact leaves people armed. Workers come off a season on this holding readier to take offence than they were, and the counselling office treats a rotation here as a known period of raised irritability rather than of raised distress.
-- The equipment makes a wrong done to the wearer physically defensible. It works, and it does not ask whether the wrong is current; the armoury's note is that this is the only set in the wing more often returned early than requested late.
+- The equipment’s defensive benefit does not license retaliation for an old wrong. Its exact records require a protected boundary, a safe person and an opening for care; those limits remain alongside the local physical effects. The armoury records more early returns than requests to keep the set longer.
 - Unresolved, it escapes. The thicket comes off its ground and moves on its own limbs through the sector, tracking motion, and a person who stops moving is passed over.
 
 ## Appearance
@@ -178,7 +178,7 @@ Escalation here is growth and not transformation. Record the trigger, the bearin
 **Activation reporting order:** trigger → bearing of new growth → reach before and after → personnel effect → rate → management condition. All four Work Types are valid here; the Object/Place restriction printed in older revisions does not apply to this holding.
 ## Breach Behavior
 
-> *"Briar has broken free. Hunts personnel indiscriminately."*
+> *"Briar has left its ground. Order stillness; the recorded escape tracks motion and passes over a worker who stops moving."*
 
 | Field | Detail |
 |---|---|
@@ -264,16 +264,20 @@ The sharp metallic thorns prick the forehead upon activation, channeling a stead
 
 ### M.A.W. Use Notes
 
-Nothing in the set arms anybody against the hedge; each piece carries the growth further, which is what the benefit is. Inside the recorded pattern it pays, and outside it the price comes early and stays: constant light pricking along the ribs and shoulders that the walk back does not settle.
+The set is not permission to cut the hedge or harvest a living vine. The exact Side record describes a naturally shed thorn becoming an echo after uncut passage; that is distinct from the local prohibition on removal from the site, which is not lifted by this equipment record.
+
+Keep each piece’s toll separately. The Weapon’s local shoulder kick and wire risk coexist with the item’s old-wound ache, bruising and refusal of retaliation; its safe person stays outside the threat line. The Hauberk’s local prickling is not everybody’s cost: its item record also warns of dulled reflexes and requires a marked approach gap that the safe person can ask to lower. The Coronet’s local punctures and alertness do not cancel the exact Stigma’s proximity hazard, agreed approach word or prohibition on stacking circlets.
+
+In Named Thorn, the full-set bearer names the protected injury, a safe person and a boundary before striking. A marked opening remains for trusted approach; old injuries remain felt during the barrier. Reuse requires accepted contact from the named person or an explicit acknowledgement of why that cannot happen. None of this documents a rifle-to-Fang or mail-to-plate transformation.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the gauge read at issue, and an envelope sealed against the holding's recorded toll — the prickling that lives along the ribs and shoulders of every bearer. It stays sealed the length of the rotation. |
-| **During use** | The first sign of a charge is the prickling deepening, and it is the second worker who notices, never the bearer — hours under the coronet raise the tolerance until the ache reads as normal. |
-| **At limit** | The hairline carries small red puncture marks whenever the coronet comes off, and the sheet records no remission for them. On a piece out of this holding the use ends at that sign, whatever the bearer says. |
-| **After use** | Take the piece back and look at the bearer a week later, not on the day: the puncture marks are the least of it, and what the coronet leaves in a person shows up in how they stand in a doorway. |
+| **Before use** | Wielder, exact piece, gauge, protected boundary, named safe person and agreed approach path or word. Record the piece’s own physical toll and source-binding conditions; ribs-and-shoulders prickling is not a universal cost. Keep the local sealed envelope without treating it as a substitute for a welfare record. |
+| **During use** | Record the actual piece’s first cost, who noticed it and whether the safe approach remains open. Dulled reflexes, old-wound pain and closing gaps must not wait for prickling to deepen; a bearer’s tolerance is not evidence that exposure is safe. |
+| **At limit** | Record Coronet punctures when it is removed, but do not wait for removal marks to identify every piece’s limit. A lost safe-person boundary, inward-pointing thorns or a fully closed approach gap requires the piece’s own review and shutdown. The local bodily marks and the source’s rejection signs remain separate. |
+| **After use** | Check the bearer on return and again a week later; delayed irritability does not postpone immediate injury or boundary review. The safe person or boundary witness follows the exact piece’s shutdown rather than breaking it. Review the agreed approach and exit, remove the Weapon’s mission card after use, and store the Crown with its gate mark open. |
 
 **Stat interpretation:** A grade is not a guarantee. A γ-grade kit can perform exactly as rated and still bind its bearer to the holding's grievance or dull them to their own; a low-rated piece can carry a severe personal cost. The cost column is the one that decides issue.
 **Full-set source review (2026-10-13):** Reviewed the overview, every Weapon/Suit/Stigma claim, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against exact `SE-145-A` for `C-IIIγ-145 [GP]`, items `SE-145-B/C/D`, Master Registry rows 390–393, Master M.A.W. rows 61–63 and the detailed Garden of Thorns entries, Entity Codex row 385 / Tale 21, and archetype record `MAW-W-145`. The existing `γ · γ` overview is supported. This is a new full-SE disposition; Briar's Weapon pair was already source-led in Batch 79 (`1acf773d`) and is not counted again in the Weapon-only ledger. Weapon conflicts remain held: the local formal block, Side card, and item core agree on Grudge 7–12 and Speed 3 Fast, but the primary says Range 4 Long while Side A and item core say Range 3 Medium; the primary Registry Addendum and Master detail instead say 11–17 damage, and the Master detail says Speed 3 Normal. The primary and Master detailed Appearance repeat the 105-cm pneumatic rifle description, and item B repeats that description, but B's Resting/Active fields describe a crimson fang blade and defensive thorn-line; no transition reconciles those forms or the primary's *Winch & Lacerate* attack with item B's *Do Not Pluck* defensive effect. `MAW-W-145` is indexed as GUN / RANGE with an `Instant` band; that distinct band record does not settle the 3-versus-4 Range or damage conflict. The Master Registry leaves Weapon damage/speed/range variable or unset. Suit values in the primary and exact Side/item agree (Lament 1.0 / Grudge 0.4 / Void 1.8 / Weight 1.2), but Master detail gives Grudge 0.5, Void 1.3, and Weight 1.0; no values were normalized. The Suit's primary, Side A, item identity, and Master title is *The Thorny Bramble Hauberk*, while the Master Registry/file heading says *The Thorn Plate*. Stigma probability 4% and +2 effect agree; primary, item D, and Master detail say Head / Brow, while Side A's stat card says Tail. That slot conflict remains explicit; the primary was not changed. No overview or equipment value changed; all disputed Weapon, Suit, Registry-title, and Stigma-slot claims remain holds.
@@ -325,7 +329,7 @@ The archive cross-references this entity with its registered location — the so
 
 | Acknowledge the injury aloud in the record and leave every bloom standing — no cutting, no clearing, no path made for convenience, however long the approach takes. | Try Pugnahan, as the record shows people doing: cut a way through, burn the thicket back, or answer the reach with force — the one response this ground has never tolerated once. |
 |---|---|
-| The worker endures the thorns without cutting any of them, the reach is read and taped at both ends, and the entry closes with the holding named in full. | The grievance opens behind every bloom at once and the margin stops being passable; the gauge climbs and the entry closes with the holding closed over and nothing recorded. |
+| The worker endures the thorns without cutting any of them, the reach is read and taped at both ends, and the entry closes with the holding named in full. | Force extends the recorded reach and can close the path. Withdraw under the response procedure and record gauge, bearings, exposure and any injury; a failed watch does not erase its evidence or identify every bloom’s grievance. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -334,7 +338,7 @@ The flowers are beautiful until you step between them. Then the thorns find ever
 
 
 
-**At first contact:** Colour, then scent, then the fact that something in the bed has moved while you were looking at it. Visitors reach for a bloom before they have decided to, which is why the margin is marked at a distance greater than the reach.
+**At first contact:** Colour, then scent, then the fact that something in the bed has moved while you were looking at it. Visitors reach for a bloom before they have decided to. Check the taped reach rather than trusting a marked line: the documented painted fence stretch lies inside it, and straps and footing discipline do not make that stretch safe.
 
 **With continued exposure:** The anger arrives under the grief, specifically and with a target, and it is almost always an old one of the worker's own. Nothing here supplies the grievance; the garden only makes it stand upright.
 
@@ -417,7 +421,7 @@ Some sorrows stay soft. Briar is what sorrow becomes when softness becomes too c
 
 ### Reaching Vines
 
-The thicket moves and grips what brushes it, and the containment's approach discipline is consequently about clothing and footing rather than about distance. Loose equipment is prohibited in the approach, straps are taped, and nothing is carried that hangs. The rule came from the holding's early period and its justification is a single incident in which a worker was held by a shoulder strap rather than by any part of themselves and was released by cutting the strap.
+The thicket moves and grips what brushes it, so approach discipline combines clothing and footing with the measured reach. The painted fence stretch remains inside that reach; neither a taped strap nor a posted line removes the exposure. Loose equipment is prohibited in the approach, straps are taped, and nothing is carried that hangs. The rule came from the holding's early period and its justification is a single incident in which a worker was held by a shoulder strap rather than by any part of themselves and was released by cutting the strap.
 
 ### Flowers From Grievance
 

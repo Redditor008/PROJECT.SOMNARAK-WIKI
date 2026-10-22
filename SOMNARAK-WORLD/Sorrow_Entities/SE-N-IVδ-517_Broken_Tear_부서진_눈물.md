@@ -94,7 +94,7 @@
 
 - Failed resistance is a double loss: the worker absorbs the sorrow's pressure and loses **Clarity**, while the entity feeds on the destabilization and escalates the gauge — and the entrant is left carrying the figure's unfinished grief past the end of the shift, which the counselors log separately from the cycle itself.
 - Duration favours the entity. Sorrow saturates the dream layer as the cycle runs, and the entrant's own grief is drawn into the figure's — slowly enough that nobody notices the point at which they stopped observing a lament and started performing one. Exposure is capped by turn count rather than by felt distress, because felt distress arrives too late to be useful.
-- M.A.W. activation is an exchange with no concessions in it: power out, price in, with the parameters catalogued in the equipment file and the charge taken in the field. This set bills in tears. Wielders weep without occasion and without relief, at a frequency that rises with use, and the equipment file states plainly that the weeping does not discharge anything.
+- M.A.W. activation is an exchange with no concessions in it: power out, price in, with the parameters catalogued in the equipment file and the charge taken in the field. Its costs differ by piece: the Weapon brings occasionless weeping without release, the Shroud dulls small pleasures, and the Shard replays preserved crying during sleep. None is evidence that the source grief has been cured.
 - An unresolved encounter does not end, it floods. The figure leaves the layer and the vault, and sorrow fills the corridors faster than people move through them, which is why the response to this holding is written as a flood plan rather than as a containment action.
 
 ## Appearance
@@ -119,7 +119,7 @@
 | **Position / movement** | Manifests within the dream layer rather than in the vault, walking and self-directed; record posture, the distance it holds from the entrant, and whether it approached or was approached, since only one of those is permitted. |
 | **Material / signature** | Lament. Salt-damp, cold rain, a fracture running across a face that will not settle, and a tone instrumentation cannot place and suppression equipment does not touch. |
 | **Distinctive markers** | A figure always about to run that never does, weeping without producing anything at all. The absence of fluid is recorded as a finding, not left unmentioned. |
-| **Identification** | The designation is the first filter and the entrant's own observation is the second; confirm both agree before the layer is opened. |
+| **Identification** | Confirm the designation and the single-entry booking before opening the layer. The entrant then checks the face and lament from inside it; there is no outside view from which to confirm those markers in advance. |
 
 **Appearance protocol:** Record the figure as it presents in the layer: height, the degree of fracture across the face, how long any arrangement of the features holds before it slips, the distance maintained, and the posture, which is most often that of someone part-way through speaking. The weeping produces nothing — no fluid, no residue, no trace — so there is nothing to collect and nothing to sample, and that absence is recorded as a finding rather than left unmentioned. Record the sound separately from the figure: its tone, its tempo, whether it is continuous, and whether it resembles the transcriptions held in the file. Instrumentation does not locate the source and suppression equipment does not touch it, and both of those remain true at every reading.
 
@@ -223,16 +223,16 @@ The prism sheds continuous streams of luminous blue tears that dissolve before t
 
 ### M.A.W. Use Notes
 
-The three pieces draw on one interrupted lament, and the cost follows the material: the wielder carries the entity's unfinished grief and weeps without cause, more often the longer the piece is held, and never with any sense of release afterward. On this set the reading is the entrant's own — two workers issued the same grade in the same month reported the weeping at different frequencies, and what tracked was hours worn rather than grade.
+The three pieces draw on one interrupted lament but do not charge the bearer alike. Record the Weapon's occasionless weeping without release, the Shroud's dulling of small pleasures, and the Shard's preserved crying during sleep separately. The field reports of weeping at different frequencies remain a Weapon-cost observation, not a substitute for the other pieces' costs.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, gauge, and the booking check: the roster consulted by a second person against the single-entry rule, since a piece in this set draws on a layer the same worker cannot re-enter inside a cycle. |
-| **During use** | The first sign is occasionless weeping, rising with hours worn rather than with the grade, and it is entered by the observer — the wielder reports an ordinary day. Logged with the hour, and the piece is withdrawn if the weeping starts arriving in company without a cause in the room. |
-| **At limit** | Small pleasures have gone dull in the wearer while large griefs arrive undiminished, and the wearer has stopped mentioning either. The observer calls the limit at that point, because the wielder's own account has stopped being usable. |
-| **After use** | Return the piece and interview a colleague, not the wielder: what the wearer has stopped enjoying, and whether the weeping has begun arriving in company. Both answers are entered against the holding rather than against the person, and the set is issued one rotation at a time on the strength of them. |
+| **During use** | Record the selected piece and its toll: occasionless weeping for the Weapon, pleasure dulled for the Shroud, or the stored shock and sleep replay for the Shard. Keep the observer's reading separate from the bearer's account; absence of waking tears does not clear the Shard. |
+| **At limit** | For the Shroud, record small pleasures dulled while large griefs remain undiminished. For the Weapon, log weeping without relief. For the Shard, record replay and any attempt to take a second shock; do not mistake numbness or avoided sleep for recovery. |
+| **After use** | Reassess the selected piece's toll rather than asking only about waking tears or lost pleasure. For the Shard, review the preserved shock after waking and release it beside the original witness. Keep the bearer's account and a colleague's observations separately against the holding; discharge does not erase the record. |
 
 **Stat interpretation:** The grade describes extraction stability and says nothing about human safety. A δ-grade piece from this source can draw cleanly for years while its wielder loses the capacity to be cheered by anything, a cost that no column records and that colleagues notice before the wielder does. Read the grade and the charge together and authorise on the charge.
 

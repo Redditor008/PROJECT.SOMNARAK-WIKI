@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-290 [D]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on contact with a destination spoken aloud. never performed under authority; the trigger is documented so that it can be av |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on contact plus a destination spoken aloud. Never performed under authority; the trigger is documented so that it can be avoided. |
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Echo (II) — Repeats spinning |
 | **Potency** | Moderate (β) |
@@ -212,7 +212,7 @@ Escalation here does not follow a generic containment script. Four things go int
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-Appearance : A massive two-handed greatsword spanning six feet overall, featuring a hand-hammered carbon blade, sweeping forward-curved iron quillons, and a long two-handed grip bound in worn ox-hide.
+**Appearance:** A massive two-handed greatsword spanning six feet overall, featuring a hand-hammered carbon blade, sweeping forward-curved iron quillons, and a long two-handed grip bound in worn ox-hide.
 
 The raw forged steel exhibits visible hammer creases and dark carbon quenching folds. Swung with momentum, the blade cleaves through dense barricades, carrying immense physical force that shatters brittle armor.
 
@@ -293,7 +293,7 @@ Every piece of this set works by belonging to the thing it is used near — on t
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | Cradle checked, interval timer started, first revolution count taken, handler's certainty recorded before anything else. |
+| **Initial exposure** | Confirm tarnished brass, clouded glass, an unmarked face and warmth at the crack against the surrounding cold metal. Check the designation and cradle before starting the interval timer; take the first revolution count and record the handler's certainty. |
 | **Sustained observation** | Counts at fixed intervals, slowings logged with their orientation and never plotted on a district map, nobody touching the instrument. |
 | **Activation or escalation** | A count above the series, or an outside bearing failing where it previously held. Widen the radius, re-site the stations, discard the affected bearings. |
 | **Post-contact review** | Mean count, slowings, radius, handler certainty before and after, and the counselling referral, which is automatic and carries no finding about the worker. |
@@ -339,7 +339,7 @@ The needle spins beneath the glass. You turn the Compass toward the street, the 
 
 **With continued exposure:** Time in the containment zone moves differently. The Void pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Object-Void is teaching you its sorrow.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch and naming a destination. Effect: Points toward the nearest concentrated sorrow. Duration: Until the destination is acknowledged or the Compass is put down. Risk: The user may follow it indefinitely. Tool Use Profile — A-Relic Operational Rule: The relic. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** Contact plus a destination spoken aloud is the documented discharge trigger, not a Work instruction. It is not authorised. The A-Relic class profile describes consumption and a settled bearing toward grief; keep that account distinct from the observed cradle counts and slowings. Do not lift the instrument to reproduce a flavour description.
 
 **After departure:** The timer stops and the pressure drops, but what stays is not residue in the suit fibres: it is a radius. Bearings taken inside it are discarded rather than corrected, the stations are re-sited, and the handler who took them is offered counselling automatically, with no finding about them entered anywhere.
 

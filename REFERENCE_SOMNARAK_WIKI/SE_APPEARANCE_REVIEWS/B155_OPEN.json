@@ -1,0 +1,63 @@
+{
+  "batch": 155,
+  "base": "75ae73e7c577aeb64e8d132e8b0169ecc6b73ea3",
+  "pending": 250,
+  "candidates": 97,
+  "pattern": "changes? shape|shifts? between.*forms|became (?:a|an|the) ",
+  "selection": "Pending only; exclude exactly the level-two M.A.W. Equipment section, preserving later sections. Rank descending matching-line count, then full designation. Cues are reading priorities, not defects.",
+  "queue": [
+    {
+      "designation": "C-IIIγ-195",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울.md",
+      "signals": 2,
+      "evidence": [
+        "Over generations, the room's walls absorbed the unshared grief of thousands of citizens, each one convinced their pain was incomprehensible to anyone else. And the accumulated belief — no one could understand — did what belief does in Somnarak: it crystallized. The walls became a mirror. Not a mirror that shows your face. A mirror that shows your sorrow — and, in showing it, confirms the loneliness, because a mirror does not understand. A mirror only reflects.",
+        "The cruel truth the Mirror holds is that the loneliness was always the sorrow, not the grief itself. The grief could have been shared. The citizens simply believed it could not — and the believing, not the grief, is what became the Mirror, and what the Mirror still shows to anyone who looks, alone, into glass that understands nothing and reflects everything."
+      ],
+      "sha256": "5dbc3de14e065f3ce2c21d801fd63a5b86c618f45504f66378ab1b79476f4845"
+    },
+    {
+      "designation": "C-IIIγ-373",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-373_Spreading_Well_스며든_우물.md",
+      "signals": 2,
+      "evidence": [
+        "These mourners were scattered — exiles, nomads, frontier families, each grieving alone in a different corner of the Desolate. They did not know each other. They never met. But their tears, poured into the ground at different points, did what the mourners could not: they found each other. The channels merged, beneath the surface, the way rivers merge — grief joining grief, sorrow flowing toward sorrow, until the scattered weeping of a hundred lonely mourners became a single underground network, a spreading well that reached beneath the whole Desolate.",
+        "This is the Well's sorrow, and its strange mercy: that grief which could not be held by one person traveled, and merged, and became a network — proof that the loneliest mourning, poured into the earth in private, was all along flowing toward someone else who understood."
+      ],
+      "sha256": "f5b54c78460bef859c4f60aa9f68c5c59f4f7976c840ae0efdc4c8d21a239442"
+    },
+    {
+      "designation": "C-IIβ-101",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-101_Emberling_embers_의_아이.md",
+      "signals": 2,
+      "evidence": [
+        "| **Activation or escalation** | Record brightness first, then grid position, then distance of approach, then the gauge. The entity will not change shape or speed; everything observable at this stage is light and distance. |",
+        "The dimming was noticed in the first year and treated as mood. It became an instrument in the fortieth, when a Keeper put a photometer on a stand at a fixed distance and left it running through the unwatched hours as well as the watched ones."
+      ],
+      "sha256": "cf1cddf8e7b59108247472c1662cc4b5ce93022b5b29b9f48736900b1a60cf0c"
+    },
+    {
+      "designation": "C-IIβ-210",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-210_Laughing_Mask_웃는_가면.md",
+      "signals": 2,
+      "evidence": [
+        "- **The Event:** A performer continued entertaining the Mask Market after losing everyone they loved. The laughter became an object.",
+        "He made them laugh, and the laughing, when everyone he loved was gone, became a mask that laughs without him."
+      ],
+      "sha256": "a01432ec4e394a2f6280039fc8d02e05173e8c47a2edf26d3c18d5da2058cb28"
+    },
+    {
+      "designation": "C-IIβ-290",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-290_Broken_Compass_부서진_나침반.md",
+      "signals": 2,
+      "evidence": [
+        "He took one wrong turn, and never found a true direction again, and the not-finding became a compass that points nowhere.",
+        "He was lost. The Corps found him, eventually — days later, Han-sick, half-Fractured, wandering. But the man who came back was not the man who went in. The wrong turn had broken something in him: not his skill, but his certainty. He could no longer trust any direction. Every route looked wrong. The city, which he had mapped with confidence, became a place where no path could be trusted, and he spent the rest of his life unable to find his way anywhere, because he had learned that direction itself could betray you."
+      ],
+      "sha256": "6caf6285c8729b1ade3b555f118c36f29bbdf0ef18b313c20234d5e36fbf5267"
+    }
+  ],
+  "authorization": "Owner p after Batch154 closure authorizes Batch155 only.",
+  "repair_direction": "Actively make source-supported whole-document improvements under R-33. Never invent resolutions or force edits. Whole-design holds earn no SE completion; no duplicate equipment credit.",
+  "recovery": "All2388remote-tracked working files byte-identical to75ae73e. Mixed reset repaired index/HEAD only; no working document rewrite. Clean before opening."
+}

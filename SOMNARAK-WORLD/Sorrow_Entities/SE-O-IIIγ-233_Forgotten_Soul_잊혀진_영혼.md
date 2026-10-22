@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A translucent figure, half-light and half-flesh, that weeps as it walks without pause — its face changing whenever someone tries to remember it. Salt-damp and faintly warm, it smells of cold rain; a soul no one can keep in mind. |
-| **Movement** | Continuous — walks without pause and has never been recorded at rest. |
+| **Movement** | Walking is the ordinary route behaviour, with gait used for identification. The breach record also reports pauses at the registry drawers, and the activation account describes stopping and turning; retain those observations rather than treating continuous walking as an anatomical inability to stop. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -97,16 +97,21 @@
 - An abandoned circuit does not breach anything. The figure walks on, the track lengthens slightly, and the next cycle opens four to seven points higher.
 
 ## Appearance
+
+**Presence without a portrait:** The figure is translucent and salt-damp, faintly warm, smelling of cold rain. Its slight list to the left and searching gait are usable recognition marks where its face and outline are not. The wet trail in the Side observation evaporates before it can be followed backwards: a route overlay is a measured record, not a lasting footprint or a way to reconstruct the citizen’s address. Admitted uncertainty brightens the figure; that glow is recognition of grief, not the return of a name.
+
+**Route, watch and recovered detail:** Record the distance walked during a watch separately from the whole circuit’s length. A face described during a recollection attempt is not a recovered original face. The archive’s verified street fact, the commissioning enquiries and the Gallery’s reported fragments have different sources and confidence. Keep those origins beside each statement; the enquiries’ short extent does not make them the same text as the Gallery recital or prove a complete biography.
+
 **Primary Form:** A translucent figure that weeps while walking continuously. Its face changes whenever someone tries to remember it.
 
-**Notable Features:** It cannot remain still, carries no confirmed name, and glows when someone recognizes its grief.
+**Notable Features:** Ordinarily encountered walking, with no confirmed personal name; it glows when someone recognises its grief. The exceptional pauses reported at the index drawers and during activation remain observations to log, not permission to halt or obstruct the route.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Lament
 - **Primary marker:** A translucent figure that weeps while walking continuously. Its face changes whenever someone tries to remember it.
-- **Position / movement:** Never at rest. Record the route as a track rather than a position, and record the metres walked between the start and end of the watch — that figure is the reading, and it runs from about nine hundred metres on a quiet cycle to over four thousand.
+- **Position / movement:** Follow and log the ordinary walking route without asserting that exceptional pauses are impossible. The registry-drawer and activation accounts below must remain attached to their observed circumstances. Record the route as a track rather than a position, and record the metres walked between the start and end of the watch — that figure is the reading, and it runs from about nine hundred metres on a quiet cycle to over four thousand.
 - **Element signature:** Lament
 - **Registered location:** Zone B, Old Lament
 
@@ -115,7 +120,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A translucent figure that weeps while walking continuously. Its face changes whenever someone tries to remember it. |
-| **Position / movement** | Walking, continuously, at an unvarying pace, on a track that has lengthened from four kilometres to nine since the survey began. It has never been seen stationary and has never been seen to sleep. |
+| **Position / movement** | Walking, continuously, at an unvarying pace, on a track that has lengthened from four kilometres to nine since the survey began. Pauses at the registry drawers and a stop-and-turn during activation are reported elsewhere in this file. Neither observation establishes sleep, rest or an end to the search; log it without erasing the ordinary track record. |
 | **Material / signature** | A translucent figure, half-light, whose face is different every time and never repeats for the same observer. Record the metres walked, the track overlaid on the previous cycle's, and the brightness at each point where somebody admits they do not remember. |
 | **Distinctive markers** | The gait. The face is useless for identification and so is the outline; what is consistent is the walk, which three Wardens have independently described as the walk of somebody looking for a specific address. |
 | **Identification** | Verify the gait and track against the SECC code before work or contact begins; a Fragment and a Sovereign can look similar in poor lighting, and the face is not usable for this purpose. |
@@ -222,7 +227,9 @@ The tubular magazine holds six rounds of hand-cast silver-lead ammunition. Opera
 
 ### M.A.W. Use Notes
 
-Both pieces came off something the city removed from its own records, and they do to the wielder what was done to the source, slowly: people forget having met them. Not the wielder's own memory — other people's. Colleagues fail to place them, rosters get their initials wrong, and the effect reverses over about a month after the piece is returned. The Armoury's check is to ask three people in the wielder's wing to describe them.
+This set lists Weapon, Suit and Stigma, but the inherited two-piece report of reciprocal forgetting does not identify a subset. Preserve that uncertainty in the bearer record rather than assigning the effect to a guessed pair or silently extending it to every piece: people reportedly forget having met the wielder. Not the wielder's own memory — other people's. Colleagues fail to place them, rosters get their initials wrong, and the effect reverses over about a month after the piece is returned. The Armoury's check is to ask three people in the wielder's wing to describe them.
+
+**Materialization is not removal:** Side A records paired witnesses completing Ferrehan without a proposed name, with residual tears shaped outside the walking line and nothing taken from the figure. Shroud condenses from route mist; Thread is bestowed and cannot be manufactured by procedure. Those are separate acquisition accounts. The Carbine/Requiem form discrepancy remains open, so the blade’s preparation is not evidence that the local firearm was carved out of the source.
 
 ### Field Use Record
 
@@ -232,6 +239,8 @@ Both pieces came off something the city removed from its own records, and they d
 | **During use** | Any occasion on which somebody fails to recognise the wielder, with the person's name and the context. |
 | **At limit** | Three failures in a day, or one from somebody who works beside them daily. The second has happened twice. |
 | **After use** | Take three fresh descriptions and compare them with the sealed set. Both stand-downs turned on the comparison, and in one case the wielder's own supervisor had written *I don't think I know him well*. |
+
+**Return with a living witness:** Shroud’s companion walks level and loosens the side fold; pulling from ahead or behind tears the measured distance. Its empty-route maintenance uses a living partner without a source theory, and its joy vacancy is not settled by a calendar alone. For Thread, compare independent notes, remove unsupported details and leave unknown fields visible. Keep a living witness beside the fading person before the bearer steps out of range; cutting the Thread is not release. Requiem’s lowered-point, open-path shutdown remains a blade instruction, not an invented unloading procedure for the Carbine. Continue the colleague-description comparison separately from those item checks.
 
 **Stat interpretation:** A γ-grade set whose cost is paid by other people's memories and is therefore invisible to the person carrying it. The grade describes entity damage; the authorisation turns on three descriptions written by colleagues.
 
@@ -358,7 +367,7 @@ Some sorrows mourn the dead. Forgotten Soul mourns the living-erased — the cit
 **Observation Notes:**
 - A citizen of Old Lament erased from every ledger and every relationship; 1 verified fact survives.
 - See Combat Record for engagement history.
-- Two pieces; other people stop being able to place the wielder, and it reverses about a month after return.
+- The older two-piece report leaves its subset unspecified within the listed Weapon, Suit and Stigma set. It reports other people failing to place the wielder and reversal about a month after return; keep the piece identity and comparison record rather than treating the interval as automatic clearance.
 **Cross-References:** The Forgotten Name, The Whispering Gallery (11 fragments), The Orphaned Bell (track-change warning), the facility's weekly returns, and the four working labels left in the log on purpose.
 **Faction Involvement:** None. The station applied twice for records assistance in identifying him and was told both times that there is nothing to search; the applications are kept in the file because they are the only documents in the city that assert he existed.
 **Originator:** Unidentifiable, and recorded as such. The three enquiries in the commissioning file are reproduced in full in the Origin section; the archive has declined to assign a working designation to the person behind them.
@@ -374,9 +383,9 @@ Some sorrows mourn the dead. Forgotten Soul mourns the living-erased — the cit
 
 Its features change whenever someone tries to recall them, so no description survives the attempt to make one, and the Warden's sheet asks for posture and gait instead. Those have been consistent. The file notes that the walk is the only stable identifying feature the containment has and that it is sufficient, Wardens having never mistaken the figure for anything else.
 
-### It Cannot Stop Walking
+### The Watch Follows the Route
 
-The figure moves continuously and has not been observed at rest, which means the watch follows rather than stands, and the route is recorded as a track rather than a location. Tracks accumulate and are overlaid on a single sheet in faint ink. The sheet is dark in the places it returns to and the file leaves the interpretation of those places entirely to the reader.
+The ordinary watch follows the walking figure and records a track rather than trying to hold it at a point. This does not overrule the exceptional pauses at the registry drawers or the activation account. If a pause occurs, preserve its place and circumstances without obstructing the next step or calling it a recovered identity. Tracks accumulate and are overlaid on a single sheet in faint ink. The sheet is dark in the places it returns to and the file leaves the interpretation of those places entirely to the reader.
 
 ### Glowing at Recognition
 
@@ -399,7 +408,7 @@ A citizen vanished from every record and every relationship, leaving an unclaime
 - **Field detail:** Lament, walking a 9-kilometre circuit of Old Lament in Zone B that the station redraws whenever the Orphaned Bell tolls out of sequence.
 - **Recognition detail:** Identify it by the walk, never by the face. The features reorganise under any attempt to recall them, but the gait, the pace and the slight list to the left have been consistent in every record, and no Warden has ever mistaken the figure for anything else.
 - **Record detail:** Check the designation before approach. The archive holds several records of things nobody claimed, and they differ on what is owed — the Apocrypha requires that the meaning of an object be written down, while this one forbids supplying anything at all and asks only that the person be counted separately.
-- **Containment detail:** Nothing contains it and nothing needs to. It walks, it does not approach, it has never entered a building, and the only measure the station maintains is that somebody walks with it.
+- **Containment detail:** The station accompanies rather than blocks the route. Ordinary walking does not license a claim that it never enters buildings: the breach account reaches the registry hall and reports it at the index drawers. Keep that destination staffed and the drawers open as the containment priority directs; do not turn a route observation into a pursuit or a proposed trap.
 ## Document Information
 
 **Document ID:** SE-O-IIIγ-233

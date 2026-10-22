@@ -189,9 +189,13 @@ The behavior table is a snapshot and not a system, and the classification and or
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
+**Targeting:** The Fang’s individual record specifies Single: 100% damage to the selected target only. This does not extend the corridor’s Grudge pressure across everyone on the breach route.
+
 **Ability:** Deals Grudge damage against the Body (physical form, structural integrity), channeling the signature the schedule sealed; it lands on load-bearing frames the way he lands on doors.
 
 **Cost:** The wielder's old wounds ache, and the ache is entered against them on the same page as the salute, whether the piece was used correctly or not.
+
+**Fang return check:** Its individual record adds faint bruising under prolonged use and identifies speaking of the Soldier’s event in first person as a failure sign. Cleaning or rest follows attribution review, with the bearer, trigger, source response, cost and unresolved detail retained. A named witness states the source title and event as the wielder relinquishes the Fang. That item shutdown does not refund the cost or replace the primary record’s rotation stand-down.
 
 ### M.A.W. Suit — The Duty Plate
 
@@ -211,6 +215,8 @@ The behavior table is a snapshot and not a system, and the classification and or
 
 **Cost:** The wearer's reflexes dull, as if the harness were standing them at attention, and that dulling is what the four decades of stand-downs have in common.
 
+**Plate attribution:** The individual Suit record treats the source sorrow becoming autobiographical as a risk, not proof that the wearer has earned the Soldier’s service. Its recorded progression runs from first-person identification to a source response repeated outside contact. A named witness states the title and event while the Plate is relinquished; maintenance waits for attribution review. The second worker’s baseline comparison still governs the primary account’s stand-down, including dulling that outlasts wear.
+
 ### M.A.W. Stigma — The Duty Blade
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
@@ -225,7 +231,9 @@ The behavior table is a snapshot and not a system, and the classification and or
 
 **Cost:** The wielder experiences the Soldier's frustration—the anger of being forgotten.
 
-*The Duty Charm is never issued and cannot be requested. It appears after a watch in which somebody said the words unprompted, and never after one in which the words came off an instruction card.*
+*The Duty Blade — Accessory (Stigma) — is never issued and cannot be requested. It appears after a watch in which somebody said the words unprompted, and never after one in which the words came off an instruction card.*
+
+**Stigma record:** The Blade’s individual entry binds its bearer to the named source event and the acknowledgement condition. It warns that the Soldier’s frustration can become a borrowed personal history; that is separate from the listed damage against oath-breakers. Before cleaning or rest, retain the trigger, response, cost and unresolved detail for attribution review. Relinquishment takes place while a named witness states the source title and event. None of these item requirements makes an ordered acknowledgement effective in corridor 7-C; the directed-word trial remains the management limit.
 
 ### M.A.W. Use Notes
 

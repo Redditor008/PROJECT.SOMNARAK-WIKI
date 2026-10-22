@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · δ (Critical) — the Verdict, Plate and Charm are all graded to the holding. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
 | **Recommended response** | Present context and evidence; do not appeal with status or force. Nothing beyond that has ever lowered the gauge on Gavel. |
@@ -173,7 +173,9 @@ Read the scale as a docket rather than as a gauge. The three quarters of this ta
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a slender blade of Grudge Han-iron, dark and warm to the grip, that rings a note like a bench being struck and shows a hairline of brighter metal along its edge when it is drawn.
+**Appearance:** A slender blade of Grudge Han-iron, dark and warm to the grip, that rings a note like a bench being struck and shows a hairline of brighter metal along its edge when it is drawn.
+
+Its edge keeps that hairline of brighter iron only while the blade is drawn, and the note it rings is the Row's own bench-strike. The piece is cleaned or rested only after an attribution review, and a named witness who states the source title and the formation event can end it while the bearer lets the blade go.
 
 **Damage:** Grudge 10–15
 **Speed:** 3 (Fast)
@@ -194,7 +196,9 @@ Read the scale as a docket rather than as a gauge. The three quarters of this ta
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and warm to the touch, that creaks faintly when its wearer changes position and holds a smell of char that does not wash out.
+**Appearance:** A plated harness of Grudge Han-iron, dark and warm to the touch, that creaks faintly when its wearer changes position and holds a smell of char that does not wash out.
+
+The bands are set squared and overlapped so the weight sits on the shoulders rather than the chest, which is where a worker stands longest under the sealed face. Like the rest of the set it is cleaned and rested only after attribution review.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -204,7 +208,7 @@ Read the scale as a docket rather than as a gauge. The three quarters of this ta
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Turns Grudge aside from the body, which is the only damage this entity delivers. The plate is what allows a worker to stand under the sealed face for the length of a submission.
+**Ability:** Turns Grudge pressure aside from the body, protecting physical form and structural integrity. The plate supports a worker standing under the sealed face for a submission; its resistance is not resistance to the verdict itself, which the encounter record distinguishes from pressure.
 
 **Cost:** Reflexes dull, and the wearer becomes slow to withdraw a statement — which in this chamber costs more than the slowness itself.
 
@@ -212,7 +216,9 @@ Read the scale as a docket rather than as a gauge. The three quarters of this ta
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a small charm of Grudge Han-iron on a short chain, dark and warm, that sits heavy enough to be noticed and turns to face whoever is speaking.
+**Appearance:** A small charm of Grudge Han-iron on a short chain, dark and warm, that sits heavy enough to be noticed and turns to face whoever is speaking.
+
+The chain is short enough that the charm sits high, and that turn toward the speaker is the only movement it makes on its own. It is given and never issued: Gavel gives one to a worker who submitted the part of the record that told against them.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -228,6 +234,8 @@ Read the scale as a docket rather than as a gauge. The three quarters of this ta
 
 Every piece answers to the same condition the Gavel does — that the record be produced whole — and the condition governs the cost column rather than the damage. Carried by an operator who produces the file entire, the verdict and the plate hold to grade. Carried by one who edits it, the charges scale and the Grudge in them turns active, which here means the operator starts measuring colleagues against rules nobody has told them. The charm is given, not issued, and is never a reward for a session won.
 
+The set is worked under the holding's own rule, and the rule is about attribution rather than force: present context and evidence, never appeal with status or force. Nothing in it heals the event that made the Judge or reverses a verdict already entered; what it holds is the operator's account of whose grievance this is. Misuse routes the wound through the operator instead — a bearer describing the formation in the first person is the first sign — and a named witness who states the source title and the formation event ends the piece while the bearer lets it go.
+
 ### Field Use Record
 
 | Stage | Required record |
@@ -235,7 +243,7 @@ Every piece answers to the same condition the Gavel does — that the record be 
 | **Before use** | Wielder, piece, the day's scale reading, and a written baseline held by somebody else: what the wielder expects to submit this cycle and what they expect it to cost them. On this set the baseline is what shows whether the piece is sharpening their judgement or lending them a certainty they keep. |
 | **During use** | The first sign is not visible to the wielder: the second worker reports that the wielder has begun measuring people in the room — colleagues, clerks, whoever is nearest — against rules that were never stated. Logged with the hour by the second worker, never by the wielder, and the piece comes off at the second worker's word. |
 | **At limit** | Reflexes have dulled and the wearer has become slow to withdraw a statement — which in this chamber costs more than the slowness itself, because a claim already made from position is what the scale rises on. The second worker's call stands against the wielder's and ends the rotation. |
-| **After use** | Return the piece and open the sealed baseline with a colleague: does the wielder still expect what they expected, and have they started measuring people against rules they have not been given. Both answers are entered whether or not the wielder agrees, and a positive finding is booked against the holding rather than against the person. |
+| **After use** | Return the piece and open the sealed baseline with a colleague: does the wielder still expect what they expected, and have they started measuring people against rules they have not been given. Both answers are entered whether or not the wielder agrees, and a positive finding is booked against the holding rather than against the person. Where the piece has to be ended on the spot, a named witness states the source title and the formation event and the wielder relinquishes the piece; the shutdown preserves the record and refunds none of the cost. |
 
 **Stat interpretation:** The grade states what a piece can do and says nothing about what it lends the person carrying it. The verdict and the plate both perform to grade. What no grade shows is that the charm — the piece with no combat value at all — is held by most of the personnel who have since submitted complaints about their own supervisors, and that every one of those complaints was upheld.
 ## 관찰 기록 (Observation Log)
@@ -294,7 +302,7 @@ Iron footsteps cross the floor. The Judge turns its sealed face toward you, and 
 
 
 
-**At first contact:** The Subject-Body does not announce itself with sound or movement. It arrives as a sensation — Grudge settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A humanoid judge forged from black iron, with a sealed face and a crimson scale embedded in its chest.
+**At first contact:** Confirm the black-iron humanoid by the sealed face and the crimson balance embedded in its chest. The hot-iron smell and the impulse to explain yourself are recorded separately from the scale’s pan position. Do not supply an expression for the featureless plate; write and seal each worker’s account before discussing what the Judge appeared to find.
 
 **With continued exposure:** The chamber stops feeling like a room and starts feeling like a hearing. The sealed face is heavy in a way that is not about weight; the impulse to explain yourself arrives on a delay of a few minutes and then arrives constantly; and the accounts workers write after the shift begin to read as statements rather than as observations. Nothing in the chamber confirms any of it, which is why the sealed-account procedure exists.
 

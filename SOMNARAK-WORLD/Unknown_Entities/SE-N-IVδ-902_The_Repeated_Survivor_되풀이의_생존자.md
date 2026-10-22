@@ -132,7 +132,7 @@
 | **Distinctive markers** | Vacant attentive eyes; addresses personnel by role; restages spaces as a stage. |
 | **Identification** | Confirm loop-aware movement and the empty "I" before any contact. |
 
-**Appearance protocol:** Record whether the entity's movements precede its intent, whether it addresses personnel by role or name, and whether the space begins to read as a stage. Do not assume the agent you recognize is the agent you knew.
+**Appearance protocol:** Record the visible sequence: the movement, any line or role assignment, and the staging change that follows. Keep the observer’s inferred anticipation separate from those observations; the agent’s private intent is not an independently readable marker. Do not assume the agent you recognize is the agent you knew.
 
 ## Origin
 
@@ -153,7 +153,7 @@
 
 ### Operational Work Notes
 
-The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-shaped absence that has lived the loop longer than any non-Echo-Core should. Work must distinguish the performer (the empty stage-presence) from the buried original (the agent who first remembered). Flerehan reaches the original but is dangerous — the grief it surfaces is the accumulated mourning of every death across every iteration. Ferrehan is the safe work: do not engage as a scene, do not accept a role, and outlast the performance. A stable gauge does not mean the entity has ended; it means the scene has paused.
+The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-shaped absence that has lived the loop longer than any non-Echo-Core should. Work must distinguish the performer (the empty stage-presence) from the buried original (the agent who first remembered). Flerehan reaches the original but is dangerous — the grief it surfaces is the accumulated mourning of every death across every iteration. Ferrehan is the primary endurance work, not a guarantee of safety: do not engage as a scene, do not accept a role, and outlast the performance. A stable gauge does not mean the entity has ended; it means the scene has paused.
 
 ## Breach Behavior
 
@@ -171,7 +171,7 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 ### Escalation Notes
 
 - **Breach type:** Escape — it breaks free and stalks the corridors on foot, arriving wherever personnel have just been rather than travelling there.
-- **Containment priority:** Physical suppression. Corridors are closed and Wardens are stood across them, and what those Wardens are containing is a body walking a route it has walked a thousand times before.
+- **Containment priority:** Protect personnel without accepting the scene’s assigned roles. Physical confrontation feeds rehearsed violence; a corridor barrier is not proof that a recurrent body has been ended. Read the response against Ferrehan and the recorded returns across iterations, not as a permanent kill condition.
 - **Sorrow Gauge on breach:** 40% the moment it walks out, then ten points a turn for as long as it stays loose — and faster if anyone in the corridor begins remembering the loop along with it.
 
 ## M.A.W. Equipment
@@ -183,8 +183,19 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 **Appearance:** A stage blade of Void Han-crystal that flickers like a spotlight's edge; it always seems to have already struck.
 
+**Damage:** Void 10–15
+**Speed:** 5 (Instant)
+**Range:** 4 (Long)
+**Attack Pattern:** Single
+**Target Coverage:** 1 role-marked target across long range
+**Falloff Rule:** 100% damage to the role-marked target only.
+**Max Amount:** 2
+**Echo Cost:** 50 Sorrow Echoes
+
 **Ability:** Deals Void damage (attacks the Soul — identity and memory). The blade "strikes its mark" with rehearsed certainty: once a target is assigned a role, the strike finds them across distance.
 **Cost:** The wielder begins to perceive their own life as a script already written; prolonged use erodes their sense of agency.
+
+After use, record a decision that surprised the wielder rather than another example of rehearsed certainty. During the Uncast Corridor incident, refusing both “rescuer” and “casualty” and cutting the chalk mark deprived the scene of its ending. The distinction is between striking a mark and accepting a part, not between a helpful role and a hostile one. At shutdown an outside witness removes role labels and asks the bearer to choose whether to sheath; supplying the answer would defeat the choice the check is meant to preserve.
 
 ### M.A.W. Suit — The Performer's Coat
 
@@ -200,6 +211,8 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 **Ability:** Grants resistance to Void and Clarity-drain by detaching the wearer from their own identity — they become "an actor," momentarily immune to attacks on the self.
 **Cost:** The wearer cannot feel their own emotions while wearing it; each use leaves them emptier, and the coat does not always come off cleanly.
 
+Inspect the Coat against the wearer’s present-day name, choices and emotions, never their mission role. The Actor Four incident ended when the wearer’s own name, spoken without a role, opened the seam. One unscripted choice precedes opening the collar. Preferred assigned identities and feelings reduced to stage directions are corrosion signs; a protected actor who cannot choose has not passed a return-to-self check.
+
 ### M.A.W. Stigma — The Repeated Line
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
@@ -211,11 +224,15 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 **Ability:** Granted at random by the entity upon a successful work; the bearer gains brief anticipation (they "know" the next moment before it happens), steadying Clarity in scripted situations.
 **Cost:** The bearer occasionally speaks a line they did not choose, in a voice not entirely their own.
 
+The maintenance record keeps every anticipated line and whether the bearer refused it. Anticipation is not an obligation to supply the expected reply: Marjuk’s silence before “You came back” ended the predicted scene without performing the exchange. Before removal, the bearer produces one unpredicted sentence and then lifts the mark. Predicted lines replacing thought are an escalation, not an improvement in the +3 Clarity effect.
+
 *Nothing here mints a stigma. One is drawn on a successful work, random and unrequested, and the grant is the loop's business rather than the worker's — there is no counter to ask at.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece carries the loop's central cost: detachment from the self. The Final Act strikes with certainty but erodes the wielder's agency; the Performer's Coat protects by emptying the wearer; the Repeated Line grants foresight at the price of speaking lines not one's own. Forcing a piece outside its pattern increases the hollowness and may seed loop-memories in the operator. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece carries the loop's central cost: detachment from the self. The Final Act strikes with certainty but erodes the wielder's agency; the Performer's Coat protects by emptying the wearer; the Repeated Line grants foresight at the price of speaking lines not one's own. Forcing a piece outside its pattern increases the hollowness and may seed loop-memories in the operator. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself.
+
+The set is *No Role Accepted*, with the resonance *Scene Without Cast*. The Line anticipates a scripted beat, the Coat makes no role available to an identity attack, and Final Act cuts the stage mark rather than the assigned person. Agency, emotion and unchosen dialogue remain separate costs, not one gauge that can be read off the equipment grade. Calling any operator hero, victim or villain gives the Survivor a cast and restarts the scene. Director supervision of extraction does not authorise staff to assign those parts during recovery.
 
 ### Field Use Record
 
@@ -224,9 +241,9 @@ Each M.A.W. piece carries the loop's central cost: detachment from the self. The
 | **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; any pre-existing loop-memories. |
 | **During use** | Activation time, staging cues perceived, assigned roles, identity-stability of the operator. |
 | **At limit** | Duration, loss-of-self markers, involuntary speech, loop-memory intrusions. |
-| **After use** | Removal, lingering emptiness, recovery of identity, repair need, reuse authorization. |
+| **After use** | Removal, lingering emptiness, recovery of identity, repair need and reuse authorization. Record the weapon bearer’s unexpected decision, the Coat wearer’s unscripted choice and the Line bearer’s unpredicted sentence separately. A quiet performance is not evidence that agency has returned. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. Every piece of this set trades a piece of the self for function.
+**Stat interpretation:** Grade is not safety. A δ-grade piece from this set may perform flawlessly while still eroding agency, numbing emotion or supplying unchosen speech. Every piece of this set trades a piece of the self for function.
 
 ## 관찰 기록 (Observation Log)
 
@@ -249,7 +266,7 @@ Each M.A.W. piece carries the loop's central cost: detachment from the self. The
 | **Initial exposure** | Identify the loop-aware movement (preceded intent), the role-based address, and the vacant attentive eyes. |
 | **Sustained observation** | Record iteration cues — recurring lines, repeating deaths, the staging changes that signal an impending "twist." |
 | **Activation or escalation** | Record the restaged event, the assigned roles, the curtain state, and Sorrow Gauge movement before any response. |
-| **Post-contact review** | Record which loop-variation was restaged and whether any personnel retained loop-memories afterward. The report is incomplete if it omits the iteration count. |
+| **Post-contact review** | Record which loop-variation was restaged and whether any personnel retained loop-memories afterward. Record the iteration count when established, and mark it unestablished when it is not; do not supply a guessed count to complete the report. |
 
 **Observation method:** Record the first movement that precedes intent, the first role assigned, the first recurring line, and the condition that ends the encounter. Do not take a mark.
 
@@ -304,7 +321,7 @@ The corridor narrows into a proscenium, and the agent at the far end has already
 
 ### Interaction Pattern
 
-The Repeated Survivor must be assessed against the loop, not in isolation. Record whether an interacting party retains across iterations (Echo-Cores) and how the survivor responds — deference, recognition, or staged violence. The survivor treats non-retaining personnel as cast; it treats retaining personnel as either directors or rival authors. Each interaction is a new experiment — even identical entities in identical conditions may respond differently across cycles. repeats identically — the survivor "twists the plot."
+The Repeated Survivor must be assessed against the loop, not in isolation. Record whether an interacting party retains across iterations (Echo-Cores) and how the survivor responds — deference, recognition, or staged violence. The survivor treats non-retaining personnel as cast; it treats retaining personnel as either directors or rival authors. Each interaction is a new experiment — even identical entities in identical conditions may respond differently across cycles, because the survivor "twists the plot."
 
 ### Entity Interaction Record
 
@@ -377,7 +394,7 @@ None ever did. The survivor walks the Hand of Change still, an ordinary agent wi
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. and only at Echo-Core clearance. The entity's loop-aware behavior, staging, restaging, M.A.W. cost, and interaction pattern must be read together. The Repeated Survivor is a paradox the Cycle cannot rewrite — a person who remembered, and was therefore emptied. A stable gauge does not mean the entity has ended; it means the scene has paused. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry, and only at Echo-Core clearance. The entity's loop-aware behavior, staging, restaging, M.A.W. cost, and interaction pattern must be read together. The Repeated Survivor is a paradox the Cycle cannot rewrite — a person who remembered, and was therefore emptied. A stable gauge does not mean the entity has ended; it means the scene has paused. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck the entity's iteration count, staging patterns, restaged variations, and any personnel loop-memory retention after every cycle reset and every "Twist the Plot" event. The Unknown Sorrow Entity registry describes a living, cycle-born phenomenon — not a permanently complete classification.
 

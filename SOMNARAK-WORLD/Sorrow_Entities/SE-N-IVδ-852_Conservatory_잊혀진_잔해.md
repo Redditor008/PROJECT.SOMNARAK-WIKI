@@ -15,7 +15,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Mixed — A ruin-shaped mass of red-black crystal preserving the exact outline of a place once loved and now gone — its walls true to memory, its rooms empty. Fever-cold, it smells of char; a beloved place, crystallized in its own ending. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement** | Stationary — the holding remains at the Mask Market margin. Its defensive mass repositions between the approach and empty interior; a fixed site does not mean every part of the crystal is motionless. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -123,6 +123,16 @@
 | **Identification** | Check the designation, the element and the manifestation against the file, and verify the outline against the standing architectural record before Work begins; if any detail contradicts, do not proceed. |
 
 **Appearance protocol:** Measure the outline, because the outline is the thing. Take the wall runs, the door apertures, the ceiling heights and the room divisions at the marked stations, and check each against the standing architectural record; a discrepancy in either direction is the most significant observation this holding can produce and is reported the same day. Record the colour of the crystal at three points and the surface temperature by instrument, never by hand, since the heat is the entity's response rather than its condition. Note the smell of char, which is constant. Note what the mass is standing between. The crystal contains no material from the original house — not one brick — and the protocol says so where an observer will read it, because the resemblance is exact enough that personnel have described the walls as original and been sincere.
+
+### The remembered house and the surviving outline
+
+The caretaker in the Tale is the source of the grief, not a person recovered inside the present crystal. Her attempt to reinforce a loved home became the load that destroyed it. Object-Grudge now presents that devotion as ruin-shaped red-black geometry: the house is remembered in wall runs, openings and empty rooms, without a surviving brick from the original. The recollection of furnishings during activation is not the recovery of the absent household or proof that ordinary furniture has become part of the resting body.
+
+The architectural accuracy is not present completeness. The survey records an earlier intact outline and a later permanent loss in the east range. What remains can faithfully mark the lost house while a section is missing; heat settling and the crystal darkening do not restore that section. The declining yield cap follows that irreversible loss. Any illustration of a complete current house, or a repair that grows back after a calm cycle, would erase the physical consequence the survey preserves.
+
+The observed defensive action places crystal mass between the approach and the empty interior. It does not establish locomotion away from the site or a returned caretaker standing guard. Activation adds a temporary reconstructed room and risks the observer's identity; letting that room lapse is not dismantling the crystal or restoring the original home. The caretaker's specifications and breathing in the use log concern the observer's identification with her failure, not a documented human body emerging from the ruin.
+
+Some physical accounts remain unjoined. The Log and Method describes picking up and carrying the ruin, while the approach survey treats it as a fixed site with an interior and a permitted path. No miniature, detached relic, scale change or portable state is specified. The primary classification is activation-only, the Side Codex calls it Transform-capable, and Consequences describe the outline taking more ground against the Record's no-spread account. Do not solve those conflicts by drawing a hand-held ruin that unfolds into a building. The floating limestone glyphs belong to the Weapon, not to a documented detachable part of this red-black crystal body.
 
 ## Origin
 - **Formation:** The Ruin formed from a place destroyed by someone trying to preserve it.
@@ -236,6 +246,8 @@ The glyphs glow with pale amber script that reassembles into protective boundary
 
 **Appearance:** a plated harness of Grudge Han-iron that darkens from red toward black as it cools and fits itself to the wearer's shoulders the way a doorway fits a house.
 
+Worn through a long session, the harness dulls the wearer's reflexes as if resentment were doing the armouring. Its corrosion runs one way: the bearer starts describing Conservatory's event in the first person, the item repeats the source response outside contact, and at the end the manifestation works through the bearer. It is cleaned or rested only after an attribution review.
+
 **Resistances:**
 - Lament: 1 (Normal)
 - Grudge: 0.4 (Resistant)
@@ -254,6 +266,8 @@ The glyphs glow with pale amber script that reassembles into protective boundary
 
 **Appearance:** a bracelet of Grudge Han-iron that weighs what a keystone weighs and reads, to anybody handling it, as a piece of a building rather than a piece of jewellery.
 
+The protection it lends is never the wearer's own: it holds neighbouring structures from collapse while it invoices the wearer for every place they failed to preserve, so the devotion and the overload are presented together in the same piece. It is bestowed and never manufactured, and no care, accuracy or length of service obliges one.
+
 **Slot:** Tail
 **Acquisition Probability:** 4%
 **Effect:** +3 to the working stat while this margin is the subject of the cycle, and nothing at all anywhere else
@@ -268,14 +282,16 @@ The glyphs glow with pale amber script that reassembles into protective boundary
 
 Everything in this set is domestic, and that is the hazard rather than the charm of it. The plate is the only piece cleared for extended work inside the margin; the glyphs read the heat the way the ruin does; and the bracelet protects others from structural collapse while its wearer feels every place they failed to preserve. The toll is continuous rather than occasional — old injuries aching, bruising after prolonged use — and the second effect is the one that ends rotations: wielders report their own homes feeling provisional, as though lent to them, and the feeling outlasts the shift and does not reverse on return.
 
+Each piece carries a different charge. The Fang takes the body — old injuries ache, prolonged use leaves faint bruising, and its bearers report their own homes feeling provisional, as though lent to them. The Plate takes the reflexes and the leaving — reactions dull, attachment to places sharpens unhelpfully, and wearers become reluctant to leave rooms they have worked in, and that outlasts the shift. The Bracelet takes the record — every place the wearer failed to preserve is invoiced against the ones they saved, and continued use reprices Conservatory's own collapse as the bearer's personal history.
+
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline of the wielder's own quarters — where they live, how long they have lived there, and whether they intend to stay — because that is the subject this set quietly edits. Opened at the end of the rotation, never before. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline of the wielder's own quarters — where they live, how long they have lived there, and whether they intend to stay — because that is the subject this set quietly edits. Opened at the end of the rotation, never before. The event and the limit are entered with the baseline: the bearer has named Conservatory's event, and the entry records that the management condition is satisfied and the Sorrow Gauge stays below 25%. |
 | **During use** | Watch for the domestic tells rather than the clinical ones: old injuries aching, bruising where nothing struck, and reluctance to leave a room the wielder has been working in. One occurrence is noted; a pattern across a shift ends the use. |
 | **At limit** | The cost is continuous rather than occasional: dulled reflexes and a sharpened, unhelpful attachment to places, with a wearer who has begun finding reasons to stay in rooms they have finished with. The second worker calls the limit and the call is entered under that worker's name. |
-| **After use** | Return the piece and reconcile the sealed baseline: does the wielder still describe their quarters as theirs, and do they still intend to stay. Where the answer has moved, the piece is not reissued to that wielder and the reason is entered as a finding about the set rather than about the person. |
+| **After use** | Return the piece and reconcile the sealed baseline: does the wielder still describe their quarters as theirs, and do they still intend to stay. Where the answer has moved, the piece is not reissued to that wielder and the reason is entered as a finding about the set rather than about the person. The piece is cleaned or rested only after an attribution review, and a shutdown entered under a named witness preserves the record without refunding the cost. |
 
 **Stat interpretation:** The grade states how hard a piece hits and nothing about what it takes, and the δ ratings here are accompanied by costs that are domestic rather than clinical — they surface in where a person lives and how they feel about it, which is not a thing the ledger has a column for. Read both columns, authorise on the second, and ask the wielder about their quarters rather than their cycle record.
 ## 관찰 기록 (Observation Log)

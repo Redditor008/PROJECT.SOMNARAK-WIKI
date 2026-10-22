@@ -124,7 +124,7 @@
 | **Distinctive markers** | A young man who argues with nobody, cannot be deterred or bargained with, and is visibly lighter than the two entities he is held with. |
 | **Identification** | Confirm before Work or contact: designation C-IIIγ-063, Void expression, Subject-Body manifestation, held with the Debt Triplets in SECTOR-C-01. The three are easily confused in correspondence and have been twice in writing. |
 
-**Appearance protocol:** Record the posture first, because the posture is the whole of the behaviour: he stands or he sits, he faces the door, and he does not approach. Then the weight figure from the cell scale, the distance to the other two, anything he says with the time against it, and whether anything was put to him. Write what he refuses in his own words. Do not paraphrase a refusal; the wording is the record and he does not repeat himself.
+**Appearance protocol:** Record the posture first as the visual anchor, not the whole of the behaviour: standing or seated, facing the door, and any movement since the last entry. Then the weight figure from the cell scale, the distance to the other two, anything he says with the time against it, and whether anything was put to him. Write each refusal verbatim while he says it. The register contains recurring refusals; do not rely on another recurrence to reconstruct this exchange, because the worker may lose the memory of the asking inside the hour. Keep the wording and time of this occurrence rather than paraphrasing it from memory.
 
 ## Origin
 - **Formation:** The Rejector formed from the son's refusal to accept a debt he did not create.
@@ -164,7 +164,7 @@ The Rejector is a Subject with Subject-Body manifestation and Void expression, h
 
 ### Escalation Notes
 
-- **Breach type:** Escape — he walks out and stands in a corridor. Nothing on this holding has ever breached by force, and the standing order is written around that distinction. |
+- **Breach type:** Escape — he walks out and stands in a corridor. Nothing on this holding has ever breached by force, and the standing order is written around that distinction.
 - **Containment priority:** Issue no orders, open the route, and post nobody in front of him. He has never breached by force, cannot be driven, and returns on his own once the corridor is empty of people trying to manage him.
 - **Sorrow Gauge on breach:** Opens at 25%, the lowest of the Triplets, and rises only when he is commanded. An uncommanded Rejector stalls in place.
 
@@ -188,6 +188,8 @@ The Rejector is a Subject with Subject-Body manifestation and Void expression, h
 
 **Cost:** Each use takes a small, nameless memory from the wielder — a name half-heard at a briefing, the arrangement of a room they worked in last year — and the lens does not distinguish correct use from incorrect; the toll is paid either way.
 
+**Lens claim check:** Its individual record distinguishes a coerced mark from an obligation still freely chosen. Write down whose claim is being cut and how coercion was identified; an association the bearer would prefer to lose is not sufficient. The rebound described for cutting a voluntary connection is a limit, not an alternative way to settle that question. Return the Lens face-up in its case and preserve the written account of what the severed mark held. The grey ring fading is not evidence that the missing personal association has returned.
+
 ### M.A.W. Suit — The Denial Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
@@ -206,6 +208,8 @@ The Rejector is a Subject with Subject-Body manifestation and Void expression, h
 
 **Cost:** the wearer begins to feel unaddressed — present in the room and uncalled-for in it — and the second worker, never the wearer, is the one who can see it start.
 
+**Veil removal check:** The individual Suit records a bearer refusing food and medical aid for a day after escaping a coercive bond. Keep the refusal of care separate from the success of the escape. Removal and return to the sealed pouch do not establish that voluntary support feels reachable again; record the bearer’s explicit choice without turning the offer into a new demand. The silver thread’s dimness belongs beside the second worker’s account of feeling unaddressed, not in place of it. Neither sign supplies an instruction permitted inside the chamber.
+
 ### M.A.W. Stigma — The Denial Shield
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
@@ -219,6 +223,8 @@ The Rejector is a Subject with Subject-Body manifestation and Void expression, h
 **Ability:** Rejects incoming damage as if it cannot accept the impact.
 
 **Cost:** The wearer cannot accept help, healing, or emotional support.
+
+**Shield rescue hold:** The individual Stigma describes a short interval of rejecting aid and a new offer after that interval, whereas the primary cost gives no ending. Keep those scopes distinct on the rescue record; do not promise that help can already reach the wearer. Its service-shaft case records a rope refused while the piece was active. Keep the second offer ready rather than counting the first offer, or silence after it, as an accepted rescue. This equipment account does not widen the chamber’s no-instruction exemption or decide the staff association’s outstanding emergency objection.
 
 *The Shield cannot be requested and is not issued. Twice in nine years it has been conferred, both times on a worker who had sat a full Ferrehan watch and told him nothing.*
 
@@ -235,7 +241,7 @@ A piece cut from him works by refusal the way the holding does, and it is not se
 | **At limit** | The wearer stops answering to the three things and stops mentioning that they cannot — on this set that combination is the limit, and the observer calls it rather than the wearer. |
 | **After use** | Take the piece back, reconcile against the sealed note, and re-assess at a week: what the set declines to give back does not present on the day, and two returns have been logged a week late. |
 
-**Stat interpretation:** The grade records how cleanly the refusal came off the holding, not what the piece declines on the bearer's behalf. On this set the cost is not graded at all — the lens takes what it takes, the veil hides the takings from the wearer, and the Shield has twice been conferred on the strength of a watch in which nothing was offered at all. |
+**Stat interpretation:** The grade records how cleanly the refusal came off the holding, not what the piece declines on the bearer's behalf. On this set the cost is not graded at all — the lens takes what it takes, the veil hides the takings from the wearer, and the Shield has twice been conferred on the strength of a watch in which nothing was offered at all.
 
 ## 관찰 기록 (Observation Log)
 
@@ -307,7 +313,7 @@ The room feels heavy, but the young man looks empty. He does not argue; argument
 
 This holding is read against the other two Debt Triplets, who are his family, and against the district's records of obligation. Every relation below has been observed and filed, and the family rows are not optional pairings — the three are held in one sector because they degrade apart, and the commissioning list fixes the order in which their files are read.
 
-**Interaction method:** Baseline each party alone first, and with the Triplets that baseline can only run for minutes — the second year's trial separation is why no further trial has been authorised. Then log the first shared change with its range, duration and trigger, the gauge on both sides, and the register question the pairing produced: what, exactly, was offered and refused. Re-verify every cycle; a Sorrow Tide has overturned a settled reading in this sector before.
+**Interaction method:** Use solo baselines where they are permitted, but do not obtain a new Triplet baseline by separation: no further trial has been authorised since the second year. Keep the archived brief separation observations as limited historical evidence beside the permanent co-presence series; they are not permission to repeat the trial or a full isolated control. Then log the first shared change with its range, duration and trigger, the gauge on both sides, and the register question the pairing produced: what, exactly, was offered and refused. Re-verify every cycle; a Sorrow Tide has overturned a settled reading in this sector before.
 
 
 ### Entity Interaction Record
@@ -322,7 +328,7 @@ The relations below are points of contact rather than alliances, and none is set
 | **The Debtor** | His father, who accepted the ledger and paid into it for forty-one years. | Permanent co-presence. The two do not speak. The Debtor's gauge rises when the son is worked and falls when he is left alone, a relation the wing has measured for nine years and has never found a use for. | The continuous series for both, and every occasion on which one was worked within sight of the other. |
 | **The Inheritor** | His brother, who took the ledger on and is angry about it. | Permanent co-presence. They have never been recorded speaking or touching. Separation of more than the sector's width degrades all three, which is why no trial separation has been authorised since the second year. | The continuous series, the degradation record from the one trial, and the standing refusal of further trials. |
 
-**Interaction procedure:** Record each entity independently and do not pool the readings; nothing in this table is worth anything without its solo baseline beside it. Then the first shared change with its distance, duration and trigger, the gauge on both sides, the instruction count in the room during the pairing, and whether anything persisted after separation. Where the pairing is one of the two family rows, add the register question and the weight figure from the scale.
+**Interaction procedure:** Record each entity independently and do not pool the readings. Attach a solo baseline where it can be obtained under the standing containment rules; for the permanent family rows, retain the separate continuous series and the limitations of the archived trial instead of claiming a fresh isolated control. Record any shared change with distance, duration, trigger, both gauges and the instruction count; assess persistence after separation only where that separation was permitted. Where the pairing is one of the two family rows, add the register question and the weight figure from the scale.
 
 ## 이야기 (Narratio) — The Tale
 

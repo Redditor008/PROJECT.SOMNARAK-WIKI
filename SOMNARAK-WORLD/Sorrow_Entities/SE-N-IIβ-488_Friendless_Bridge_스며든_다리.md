@@ -228,6 +228,8 @@ The span does not escalate with time or proximity; it escalates with proxies, an
 
 **Cost:** The wielder's old wounds ache, and prolonged use leaves faint bruising. The record asks that this be logged at the end of the shift rather than during it, because an ache is read as the wielder's own and is the toll most often left off the sheet.
 
+**Fang inspection:** The individual Weapon record requires independent consent records beside the two edges and a gap check before deployment. If the edges touch, retire the piece until they part; the item describes that failure as deciding for both sides. Erasing relationship history, attacking an absent party and mistaking mutual difficulty for nonreciprocity are distinct failures. Neither that inspection nor its account of cutting a forced span authorizes the crew to settle a debt, obtain a signature for someone or intervene in the family’s history.
+
 ### M.A.W. Suit — The Bridge Plate
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
@@ -246,6 +248,8 @@ The span does not escalate with time or proximity; it escalates with proxies, an
 
 **Cost:** Reflexes dull, and the wearer becomes slow to answer a greeting — which on this post is closer to protective than the grading admits.
 
+**Anchor care:** The Suit’s two shoulder anchors require separate consent checks. Verify each independently, or leave the unanswered side visibly empty rather than completing it for appearances. The item lists a fabricated second anchor, resentment replacing communication and Void removing one shore as failures. An empty anchor is not a repair request. Keeping that absence visible prevents equipment maintenance from becoming another proxy act; it does not waive the primary session’s two-signature closing condition or the delayed review of dulled responses.
+
 ### M.A.W. Stigma — The Bridge Bracelet
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
@@ -259,6 +263,8 @@ The span does not escalate with time or proximity; it escalates with proxies, an
 **Ability:** Strengthens an emotional connection over distance.
 
 **Cost:** The wearer feels every unreturned reach.
+
+**Bracelet acknowledgment:** The Stigma record keeps its two lights independent. Confirm reciprocal acknowledgment without requiring the same brightness or the same way of answering; one quiet light is not evidence that its side refused. A forced light, debt counted as consent and repeated checking that becomes coercion are failures, not better verification. A single light may remain the honest reading. The bracelet does not let its bearer answer for another person, demand a reply or treat the pain of an unreturned reach as authority to cross.
 
 *The bracelet is not manufactured. The Bridge gives one to a worker who waited at one end for a full session without crossing, and has given none to a worker who crossed to be helpful.*
 

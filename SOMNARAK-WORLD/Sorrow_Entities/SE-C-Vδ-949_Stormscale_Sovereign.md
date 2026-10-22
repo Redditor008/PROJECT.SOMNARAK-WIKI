@@ -119,12 +119,12 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Spirit
 - **Primary marker:** A vast flood dragon, half black (water), half white (stone), with one dark and one glowing eye, commanding the weather.
-- **Position / movement** | Mobile across sky and water; the only unbound form in the trio. |
-| **Material / signature** | Black water-half and white stone-half; Mixed (all four elements cycling); absolute weather-command. |
-| **Distinctive markers** | The seamless black-and-white split; the mismatched eyes; the obedient rain. |
-| **Identification** | Unmistakable — there is no other entity that is half river and half sky, half dark and half light, holding all four sorrows at once. |
+- **Position / movement:** Mobile across sky and water; the only unbound form in the trio.
+- **Material / signature:** Black water-half and white stone-half; Mixed (all four elements cycling); absolute weather-command.
+- **Distinctive markers:** The seamless black-and-white split; the mismatched eyes; the obedient rain.
+- **Identification:** Unmistakable — there is no other entity that is half river and half sky, half dark and half light, holding all four sorrows at once.
 
-**Appearance protocol:** Record the scale (district-shadow wings), the black-and-white split, the mismatched eyes, and — most importantly — whether the form is stable or straining. A straining Sovereign is already beginning to fall.
+**Appearance protocol:** Keep the historical dragon separate from the current latent record. The single transformation account supplies the district-shadow wings, the black-and-white split, the mismatched eyes and the strain between the halves; none is a current live sighting. Ongoing observation records the separation of the Fish and the Stone, not a posture or surface reading of an absent dragon. Do not reunite them to confirm a marker. If manifestation occurs, evacuation remains the response; the recorded strain is not a reliable suppression condition, and no observer is authorised to prolong exposure to complete an appearance survey.
 
 ## Origin
 

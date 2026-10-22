@@ -15,7 +15,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Mixed — A heavy door that rises up out of Old Lament floors with no wall around it, its frame burning with a slow red pressure. Fever-hot, it smells of char; a door that climbs toward you, offering a way through to somewhere unwanted. |
-| **Movement** | Stationary — a device (internal parts may move). |
+| **Movement** | Rises out of the floor without damaging it and holds position until opened or until it withdraws. Record the room, the orientation, and the height of the handle above the floor, which is the reading and has ranged from one hundred and four centimetres to two hundred and sixty-one. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 12–18 per cycle, taken from a door that is not attached to anything, in whichever room it is in that week. The Old Lament station notes that the cycle cannot be scheduled: the team is dispatched when the door is reported. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
 | **Recommended response** | Measure the handle height, log the room and the hour, and withdraw with the door shut. Viderehan and Ferrehan only. Nobody names a choice aloud within reach of it and nobody turns the handle. |
@@ -98,6 +98,9 @@
 - An unresolved appearance does not breach. The door simply withdraws and comes back somewhere else, usually within nine days, and the handle is higher.
 
 ## Appearance
+
+**A threshold without its building:** Record the free-standing frame and the floor it rises through, not a corridor installed behind it. Walk-around observation finds the same door from the other side. The lockdown resident’s visible but unreachable exit is the originating scene; the present door’s shown alternatives are not surveyed destinations. Its red frame pressure and char smell identify the manifestation, while handle height is the longitudinal measurement. Showing a possibility does not make it safe to turn the handle. Keep the room’s real exit clear during the observation, and do not move closer to complete an illustration of the inaccessible threshold.
+
 **Physical Form:** A heavy door that rises from Old Lament floors with no wall around it. Its frame burns with red pressure.
 
 **Notable Features:** It opens onto choices never made, carries a burden of departure, and vanishes after being opened.
@@ -220,6 +223,8 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
+**Attack pattern:** Skewer, with full damage at the primary target, seventy per cent at the first pierced target and fifty per cent at the second. These are the linked staff’s attack rules; the barrier it establishes across a corridor is a separate use, not evidence that the source door can be carried or that its inaccessible passage is usable.
+
 **Ability:** Grudge against the Body, and the targets report the same after-effect: for an hour or so they cannot bring themselves to go through a doorway first.
 
 **Cost:** Old wounds ache, and the wielder waits at thresholds — holding doors, standing back, letting others pass — beyond what courtesy accounts for.
@@ -242,6 +247,8 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Cost:** The wearer feels every exit denied to someone else.
 
+**Shield attribution:** The hinge-plate belongs to the wearable harness, not to a shrinking source door. Before cleaning or resting it, retain the denied-exit report and identify whose confinement was felt. Recounting the resident’s lockdown as the wearer’s own life is the source-trace warning; the terminal record is the manifestation using its bearer as a new site, not successful escape. A named witness states the source title and event as the wearer relinquishes the Shield. That shutdown preserves attribution and does not refund its cost.
+
 ### M.A.W. Stigma — Door to Nowhere Charm
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
@@ -258,9 +265,11 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 *Nine in eleven years, every one to a worker who stood in front of an opening and logged it shut. Not one has gone to anybody who named a choice at the handle, and four people have.*
 
+**Charm warning:** Record cooling at a current closure separately from a memory of the originating lockdown. The awkward handle-shaped charm is an indicator, not another handle to turn. Keep the source-only work bonus separate from any permission to leave. A shortening temper and first-person retelling of the resident’s event belong in the bearer record; the witness-led relinquishment procedure does not make the unavailable alternative real. Neither the Charm’s bestowal nor the Ward-Staff’s boundary function overrides the standing no-opening order.
+
 ### M.A.W. Use Notes
 
-Both pieces came off a thing that will not be gone through, and they keep the property. Wielders stop being able to leave a room before somebody else does. It reads as deference, it passes for good manners, and the Armoury catches it by having a colleague count doorways over a week. Two rotations have ended on a tally.
+The entity’s archetype is drawn into three M.A.W. pieces — Weapon, Suit, and Stigma — from a thing that will not be gone through, and they keep the property. Wielders stop being able to leave a room before somebody else does. It reads as deference, it passes for good manners, and the Armoury catches it by having a colleague count doorways over a week. Two rotations have ended on a tally.
 
 ### Field Use Record
 
@@ -271,7 +280,7 @@ Both pieces came off a thing that will not be gone through, and they keep the pr
 | **At limit** | The wielder cannot cross a doorway alone and will give a reason that sounds like consideration for others. |
 | **After use** | Return the piece and read the tally with the wielder present. Both stand-downs were accepted without argument once the count was on the table, and neither wielder had noticed. |
 
-**Stat interpretation:** A β-grade set whose cost is invisible from the inside and obvious on a tally sheet. The grade describes what the pieces do to entities; the authorisation turns on a count of doorways kept by somebody else.
+**Stat interpretation:** The source is β; its Weapon, Suit and Stigma are δ equipment. The source’s Moderate rating is not the derived set’s grade. The doorway tally records a cost that the bearer mistakes for courtesy rather than an improvement measured by the grade. The grade describes what the pieces do to entities; the authorisation turns on a count of doorways kept by somebody else.
 
 ## 관찰 기록 (Observation Log)
 
@@ -394,7 +403,7 @@ Some sorrows are about being trapped. Door to Nowhere is about the trapping of h
 **Observation Notes:**
 - A lawful nine-day lockdown order, one resident inside it, and a handle that went up on the sixth day.
 - See Combat Record for engagement history.
-- Two pieces; wielders stop leaving rooms first and call it manners. The check is a doorway tally.
+- The set is split into three M.A.W. pieces — Weapon, Suit, and Stigma. Wielders stop leaving rooms first and call it manners. The check is a doorway tally.
 **Cross-References:** The Collapsed Door, The Wandering Door (destinations fixed for a week), The Exile's Gate (no further pairing authorised), the lockdown order, and the eleven-year handle chart.
 **Faction Involvement:** SED (D-territory exploration)
 **Originator:** One resident of Old Lament, named in the lockdown order reproduced in the Origin section. The archive holds the order, the boundary, and the measurement from the boundary to the dwelling, and considers those three documents the whole of the originating record.

@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A translucent figure, half-flesh and half-light, that returns whenever its tears fall — each tear carrying a name. Salt-damp and faintly warm, it smells of cold rain; it weeps the lost back into being, one name at a time. |
-| **Movement** | Stationary — a body or drop of liquid. |
+| **Movement** | Stationary figure at a return-site; disappearance and reappearance are logged as returns, not travel. During corruption the zone widens while the figure stays where it returned. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 per successful work cycle, taken off the names spoken and never off the weeping |
+| **Han-Energy yield** | 16–22 per successful work cycle, taken off the names read and written into the watch book, never off the weeping |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Continuous — it is permanently present and intermittently visible; there is no count to run down |
 | **Tool / M.A.W. grade** | β · Blade, Shroud, Charm — all three graded, two issued and one given |
@@ -88,7 +88,7 @@
 
 1. **Tension:** Identification first: the tears and the mapped site, never the face — the face has been described differently by every observer who has stood there, and all the descriptions are kept, because the disagreement is the finding. The approach is set after that, and the positions are taken.
 2. **Clash:** Flerehan and Ferrehan from the watch position. Pugnahan is not applied: it answers confrontation with waves of other people's memory and the gauge climbs for the rest of the cycle. The names in the tears are read and written down as they fall; they are not spoken back and they are not searched.
-3. **Resolution:** The watch finishes on containment, retreat, or management, or on the condition the file registers: **Speak the names carried by the tears; do not deny the return**. The clause rules the watch: each name is spoken as it was carried, the return is met without argument, and the entry closes on what was heard, not on anybody's reading of it.
+3. **Resolution:** The watch finishes on containment, retreat, or management, or on the condition the file registers: **Tell it you can hear it. Do not speak the names back, do not search them, and do not tell it that it is mistaken.** A good cycle is one in which the names were read and written, none was spoken back, none was searched, and the worker told the entity they could hear it. Site, interval, name count and the unreconciled face descriptions go in the watch book; the spoken acknowledgment is not a recitation of its names.
 
 ### Consequences
 
@@ -116,12 +116,14 @@
 | Field | Detail |
 |---|---|
 | **Form** | A translucent figure that returns whenever its tears fall. Each tear carries a name. |
-| **Position / movement** | Stationary — a body or drop of liquid. Recorded at every Nemo cycle against the previous reading. |
+| **Position / movement** | The visible figure remains at its return-site; the watch logs disappearance and reappearance rather than a route travelled between them. Corruption spreads through the surrounding zone, not by pursuit. Compare the site and interval with the previous return. |
 | **Material / signature** | Lament. Salt-damp, faintly warm, cold rain; half-flesh and half-light, and no two observers have described the face the same way. |
-| **Distinctive markers** | Tears with names legible in them, and the fact that it is standing at a mapped loss-site and nowhere else. |
-| **Identification** | Subject-Lament at a mapped site. If the figure is anywhere else, it is not this file. |
+| **Distinctive markers** | Legible names in the tears and a translucent figure at an ordinarily mapped loss-site. The two Sorrow Gate threshold returns are preserved in the interaction record without adding that threshold to the map; keep the exception beside the usual marker. |
+| **Identification** | Subject-Lament, ordinarily at a mapped loss-site. Preserve the two recorded Sorrow Gate threshold returns as exceptions: the interaction record says that threshold is not mapped and that the map was not amended. An unmapped return alone does not rule out Nemo. |
 
 **Appearance protocol:** Log the site, the interval since the last return, the number of names read, and your own description of the face. The descriptions are retained precisely because they never agree.
+
+**Figure, tear and return:** The half-flesh, half-light figure is the Subject; a named tear is not a second classification for its body. Permanent presence with intermittent visibility is the watch's account, not a claim that a visible person walks between the sites. The visible tears carry names, while the face remains observer-dependent. The living exile in the origin is not a documented resurrected corpse or an army of new bodies. Likewise, the Blade, Shroud and Charm are separately materialized pieces with their own bearers, not parts of a figure physically removed from the Tree. The combat table's resurrection and contact claims still need their own supported relationship to this record.
 
 ## Origin
 - **Formation:** From a return that nobody was permitted to answer.
@@ -216,7 +218,7 @@ The gauge falls under Flerehan and Ferrehan alike and tells a supervisor almost 
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the bearer's work on this holding, and the Armoury's sheets record no measured difference on any other ground.
+**Effect:** +1 Clarity while working Nemo; Side A and the exact Charm record name this bonus. The Armoury's sheets record no measured difference on other ground.
 
 **Ability:** The bearer can tell whether a person in front of them is recorded anywhere in the Company's registers, and cannot tell where.
 
@@ -232,10 +234,10 @@ The blade is held by the watch's medic and has never been swung. The shroud belo
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a baseline entered on the issue sheet and left in another worker's hands. The cost on this set is that nothing the bearer feels while the piece is drawn is their own, which is the very reason the baseline cannot sit with the bearer. |
-| **During use** | Charging shows in the bearer before anything else: nothing they feel while the piece is drawn belongs to them. The second worker logs the hour, and the bearer's own account is taken afterwards and kept apart from it. |
-| **At limit** | The toll runs without pause: small pleasures stop registering, and wearers tend to notice it first in food. Here the observer's call overrides the bearer's, and the observer's is the one entered. |
-| **After use** | Return the piece, then put the question to a colleague rather than to the bearer: whether the small pleasures have come back, food included. |
+| **Before use** | Name the bearer and the piece. The medic's Blade needs an emotional baseline held by another worker; the long-watch Shroud needs a record of small pleasures still felt; the granted Charm needs a sleep record. None substitutes for the others. |
+| **During use** | Track borrowed feeling while the Blade is drawn and dulling pleasure while the Shroud is worn. For the Charm, retain the sleep observation rather than requiring the bearer to notice tears while awake. Record who observed the change, separately from what the bearer reports. |
+| **At limit** | Name the piece whose cost has appeared. The Blade's missing personal feeling and the Shroud's loss of pleasure are not a single shared symptom; the Charm's waking ignorance of sleep-weeping requires the outside observer. Do not search a register to test its reported sensing ability. |
+| **After use** | The Blade releases feeling when put down; keep the observer present for that return. Check whether the Shroud wearer's small pleasures register again and retain the Charm's sleep record. The Charm is given, not issued: copying a Weapon hand-in rule does not establish its removal or recovery procedure. |
 
 **Stat interpretation:** The grade covers extraction and says nothing about the person carrying the item. A piece can grade well and still take a toll no figure on the sheet accounts for, and the Armoury's own returns are where that shows up.
 ## 관찰 기록 (Observation Log)
@@ -283,11 +285,11 @@ The commissioning file holds one person's enquiry correspondence and nothing els
 
 ## 최종 관찰 (Final Observation)
 
-> Two ways to close a watch on Nemo, and the file separates them by what the observer does with the names: one says them aloud as they were carried, and the other explains the return away — kindly, and to the holding's advantage.
+> Two ways to close a watch on Nemo, separated by whether the observer acknowledges hearing it while keeping the names unspoken and unsearched. The Containment Notice strikes the earlier instruction to speak the names aloud: that instruction drove the gauge up, rather than answering the weeping. The watch writes what the tears carry, tells the entity it can hear it, and does not tell it that it is mistaken.
 
-| Speak the names carried by the tears, aloud and as given, and neither deny the return nor explain it away. | Improvise something kinder — console the entity, argue the dead out of coming back, and feed Nemo. |
+| Tell it you can hear it. Read and write the tear-names without speaking them back or searching them; do not tell it that it is mistaken. | Speak a name back, search the names against a register, or explain the return away instead of acknowledging the weeping. These are not substitutes for the holding's recorded instruction. |
 |---|---|
-| The names are said aloud and heard; the weeping is answered, and the entry closes with the holding recorded whole. | The return is denied or explained away; the gauge climbs and the entry closes with Nemo no further on than it was. |
+| The acknowledgment answers the weeping; the names remain written, unspoken and unsearched, with the count entered in the watch book. The two original restrictions remain in force when the watch closes. | A name spoken back is the action the Containment Notice records as driving the gauge up. Explaining the return away does not answer the weeping; neither action satisfies the recorded management instruction. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -296,11 +298,11 @@ A figure appears at the doorway, wet with tears. You recognize nothing about it,
 
 
 
-**At first contact:** The Subject-Lament does not announce itself with sound or movement. It arrives as a sensation — Lament settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A translucent figure that returns whenever its tears fall. Each tear carries a name.
+**At first contact:** At a return, record the translucent figure and the names legible in its falling tears, not a face agreed in advance. Keep your own face description beside the others even when they differ. The file also records audible weeping through the corridor during corruption; the ordinary return is not evidence that the entity can never be heard. Read and write the tear-names without speaking them back.
 
-**With continued exposure:** Time stretches in the containment zone. The Subject-Lament becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
+**With continued exposure:** The watch measures the interval to the next return and the names written during the cycle; it has found no period in those intervals. The name count runs with the gate desk tally, not with time apparently slowing at the Tree. Keep site, interval, count and each observer's face description separate. A longer watch has not changed the count, and the correspondence between two ledgers is not proof of its cause.
 
-**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Lament becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Lament was waiting; now it moves.
+**When the entity activates:** The recorded corruption widens through the zone while the figure stays where it returned; audible weeping carries the names into the corridor. Clear the corridor and send one worker to acknowledge that they can hear it, without reciting the names. Do not replace this speech response with sealing alone: the second event lasted longer when sealed. The moving revenant attacks elsewhere in the file remain unreconciled with this stationary account.
 
 **After departure:** The door seals and the pressure comes down, but the watch leaves something behind: Lament in the suit fibres, in the recollection, and in that thin space between thoughts where a Fracture starts.
 

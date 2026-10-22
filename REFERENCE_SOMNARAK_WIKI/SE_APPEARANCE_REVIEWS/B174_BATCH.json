@@ -1,0 +1,655 @@
+{
+  "batch": 174,
+  "status": "CLOSED",
+  "required": 5,
+  "completed": 5,
+  "no_change": 0,
+  "queue": [
+    {
+      "designation": "O-IIIγ-959",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md",
+      "words": 6495,
+      "sha256": "cbacc21919677ad9b620439a8bafc2011531884799956254e6a3a5a7c554aed5"
+    },
+    {
+      "designation": "N-IIIβ-200",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md",
+      "words": 6496,
+      "sha256": "75f697b428cfacc4a87fa2f718038775822e0399c3deb13b8c570e7f95dc3005"
+    },
+    {
+      "designation": "C-IVδ-918",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md",
+      "words": 6503,
+      "sha256": "8e6e5f13321d20260e55b9dca65f8bbffa31f402864a79d86965908e67caa4a3"
+    },
+    {
+      "designation": "N-IIIγ-127",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울.md",
+      "words": 6534,
+      "sha256": "16f7db65b4d5ef97516fd39d5bf148e2d6ce43e9b9e5d33fd2e1127fdf07e7b8"
+    },
+    {
+      "designation": "C-Iα-150",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-150_Risus_웃음의_메아리.md",
+      "words": 6557,
+      "sha256": "d2a69ede0c7d60970f17f12c0be1228006d482e0427d6771786e0149f76b31ee"
+    }
+  ],
+  "units": [
+    {
+      "designation": "O-IIIγ-959",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md",
+      "words": 6495,
+      "sha256": "cbacc21919677ad9b620439a8bafc2011531884799956254e6a3a5a7c554aed5",
+      "name": "Uprooted",
+      "unit": 1,
+      "status": "changed",
+      "receipt": "B174_01_UPROOTED.md",
+      "repairs": [
+        [
+          "| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |",
+          "| **Movement** | Hauls itself along the lines of buildings that are no longer there; record direction of travel and the foundation reference, never facing — it has no head and nothing that serves as one. |"
+        ],
+        [
+          "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "| **Valid Work Types** | Flerehan: Flames dim and roots loosen. (Decrease); Pugnahan: Roots strike outward and structures rise violently. (Increase); Viderehan: Shows the settlements beneath its growth. (Stable); Ferrehan: Tests whether the worker can bear rootless movement. (Decrease) |"
+        ],
+        [
+          "> *\"Rising Root has broken free. Grasps at ankles, dragging personnel down.\"*",
+          "> *\"Whatever is standing on a foundation. It has never reached toward a person in open ground and every strike on file was taken by somebody inside a structure or on a floor slab.\"*"
+        ],
+        [
+          "| **Movement** | Uprooted bursts free and crawls or slithers in search of prey. It grasps at ankles, dragging personnel down. |",
+          "| **Movement** | Without resolution the entity does not rage; it simply continues, and continuing is the breach. It leaves the surveyed line, takes a route nobody has mapped, and raises its unfinished structures in occupied ground — which is how a holding that has never killed anybody becomes a district emergency. Whatever is standing on a foundation. It has never reached toward a person in open ground and every strike on file was taken by somebody inside a structure or on a floor slab. |"
+        ],
+        [
+          "| **Form** | A burning figure whose body is made from roots rising out of the Desolate ground. |",
+          "| **Form** | A serpent of living root hauled up out of the ground — a long burning root-beast with no head and many reaching tendrils. |"
+        ],
+        [
+          "Roots break through the dust and a burning person rises among them. Around its feet, half-built structures appear and collapse.",
+          "A serpent of living root hauled up out of the ground — a long burning root-beast with no head and many reaching tendrils. It builds unfinished structures, follows old foundations, and mirrors the sorrow of those who could not grow roots."
+        ],
+        [
+          "- Two pieces; the cost is a settled conviction that the posting is temporary, and it is visible in the wielder's room.",
+          "- The set is split into three M.A.W. pieces — Weapon, Suit, and Stigma; the cost is a settled conviction that the posting is temporary, and it is visible in the wielder’s room."
+        ],
+        [
+          "- **Primary marker:** A burning figure whose body is made from roots rising out of the Desolate ground.",
+          "- **Primary marker:** A serpent of living root hauled up out of the ground — a long burning root-beast with no head and many reaching tendrils."
+        ],
+        [
+          "| **Breach Type** | Escape |",
+          "| **Breach Type** | Escape from the agreed surveyed route, not from a cell; the route, schedule and open-ground agreement are the holding. |"
+        ],
+        [
+          "Record the route — pin to pin, against the surveyed foundations — and nothing about the fire, which does not vary.",
+          "Record the route — pin to pin, against the surveyed foundations. The ordinary low fire is not a unique identifier; record its shortening when the roots loosen under reducing Work, separately from any rise of the root-body."
+        ],
+        [
+          "| **Tool / M.A.W. grade** | — · — |",
+          "| **Tool / M.A.W. grade** | — · α (Minor) |"
+        ],
+        [
+          "**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Grudge, pressing or releasing like a tide. Then the form resolves: its registered form. The space does not become generic; it shifts in the specific register of Lament.",
+          "**At first contact:** Find the travelling line against the surveyed foundation pins. Low fire runs along a headless length of living root; the tendrils haul it onward, without a face to turn toward the escort. Cold rain and char are the identifying smells, not evidence that the wood is being consumed. Fall in behind or beside the line rather than across it. A wall course or doorway raised along the passage is measured as a separate structure, not described as a limb of the serpent."
+        ],
+        [
+          "## Appearance\n",
+          "## Appearance\n\n**Root-body and raised structures:** The serpent is the gathered root remnant of repeated abandoned settlements, not one of their former residents rising in human form. Its many tendrils provide ground contact; record the direction in which the length is hauling itself rather than assign a head to its forward end. The unfinished walls, doorway and roofless room are things it raises along the passage. Their footprints and heights belong on the route sheet separately from body length. Ordinary travel follows the surveyed foundations; the documented rise after cutting or burning is an escalation of this same root-body, not a new animal or a hidden humanoid stage.\n\n"
+        ],
+        [
+          "**Damage Application:** Resolve the needle's direct damage first, then apply the multiplier to the paralytic's Tick damage as a second, separate calculation.",
+          "**Damage Application:** Resolve the selected needle strike as the Single attack recorded in the linked item. The projectile carries botanical paralytic, but that card supplies no separate Tick-damage amount or multiplier procedure. Record the paralytic response separately rather than invent a second damage calculation or let the near-silent discharge stand for an unseen extra target."
+        ],
+        [
+          "### M.A.W. Suit — Uprooted Shield\n",
+          "**Rifle attribution:** The ebony-and-brass rifle is derived equipment, not the serpent’s body or a severed tendril carried as a gun. Its source-trace warning is the user recounting the settlement’s departures as their own life. Record involuntary weeping and source attribution before cleaning or resting the weapon. For shutdown, a named witness states the title and relocation event while the user relinquishes it. The no-burning rule remains a condition of the binding; the weapon’s issue is not permission to cut or burn the source.\n\n### M.A.W. Suit — Uprooted Shield\n"
+        ],
+        [
+          "### M.A.W. Stigma — Uprooted Charm\n",
+          "**Shield debrief:** Keep the root-fibre harness’s crisis-time benefit separate from the sorrow of places the wearer has left. The posting answer and abandoned belongings are useful evidence precisely because that sorrow can be mistaken for a reasonable decision to move. Review attribution before the harness is rested. If the settlement’s history is being told as autobiography, a named witness states the source event during relinquishment; removing the harness does not promise that the recorded sorrow ends.\n\n### M.A.W. Stigma — Uprooted Charm\n"
+        ],
+        [
+          "### M.A.W. Use Notes\n",
+          "**Charm review:** Preserve the seed-case size and uncut grooves as item markers, not as a scale model of the root-body. Log sleep weeping separately from the rifle user’s waking weeping and the Shield wearer’s relocation history. The source-trace records settlements shown beneath the growth; it does not grant the bearer ownership of that history. The site-naming correlation does not change the already-required route work. Witness-led relinquishment preserves attribution without refunding the cost.\n\n### M.A.W. Use Notes\n"
+        ],
+        [
+          "It stops. That is the whole of the warning and it is unmistakable after nine years of watching something that never stops. Then the forward end lifts, and goes on lifting.",
+          "On a travelling passage, the warning is the stop followed by the forward length lifting instead of hauling onward. This is the documented rising event, distinct from going to ground before dawn at the end of a plotted night. Record the foundation, the structure above it, and any preceding cut or burn; do not mistake a forward end for a head or a normal completed passage for a canopy event."
+        ]
+      ],
+      "split": [
+        10,
+        8
+      ],
+      "type_credit": 1,
+      "weapon_credit": 1,
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/959_Uprooted/SE-959-A__SIDE_CODEX_Uprooted.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/959_Uprooted/SE-959-B__MAW-W_Uprooted_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/959_Uprooted/SE-959-C__MAW-S_Uprooted_Shield.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/959_Uprooted/SE-959-D__MAW-G_Uprooted_Charm.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "reasoning": "Complete411-line original and exact959A–D/README read. OutsideLament/FragmentSubjectGrudge→accumulatedsettlementroots/Tale→headlessmany-tendrilledserpent/notburningperson→foundationhauling/nightburial versus triggeredverticalcanopy→route/naming/FlerehanFerrehan→foundation-onlystrikes/blockedpassage→overnightstructuremeasure/threepairedroutes→αderivedrifle/harness/seedcharm traced. R18initial7short/8careful declared before initial primary edits; final reread prompted3additionalbatch-short repairs (primarymarker, Escape-label context and Work-conditional flame observation), predeclared before their writes. Total10short/8careful. Final full reread repeated after all checks. Repairs remove actual humanoid/prey shorthand and unsupported Tick procedure; keep explicit normal/escalated conditions instead ofinventedbodychanges.",
+      "history": "Fresh exactSE959 set, not631UprootedGreatCleaver. FullMaster619–621index659–661/details7700–7731, Entity576 and completeTale20711577–11633 Graveweed name; CSV1111–1114; archetype397Shortrifle, disposition373Neutral read. WIP7990–8010/CHANGELOGvol02 1947–1960 record oldR29 one-sectioncleanup, B20itemAppearance expansion not individualwhole/sourceWeapon disposition. Master621FloatingOrbs&Coronets conflicts with specific seedcase/Tail, preserved as equipmenttaxonomyhold.  No earlier full/exactBcredit found across all WIP/CHANGELOGvolumes and ledger; +1Types/+1Weapon. α3–6/2Normal/2ShortSingle100%,5/15; Suit.4/1/1.6/.8,5/10; Tail5%+1unnamedstat align. Sourceγneednotshare derivedαgrade.",
+      "summary": "Replace prey-hunting/ankle-dragging and burning-person shorthand with headlessrootbody, foundation-selective action and recorded route departure. Restore actual Work responses, grade and threepiececount. Separate body from raised buildings, normaldawnend from triggeredsustainedrise, and item-specific care; remove unsupported second Tick calculation.",
+      "holds": [
+        "Equipment prose calls rifle long-range while exact core/archetype sayShort; retain range2 and descriptivecomparison rather than invent newnumericrange. Requiem/Graveweed/Uprooted naming remains explicit legacy, matching riflebodynotforcedrenamed.",
+        "SourceD +1 workingstat unnamed; no inventednamedbonus. GenericRegistryAccessory versus Tail is metadata specificity, not proof of a newitem. Sharedsetcost doesnot erase separatelyrecordedweeping/sleep/sorrow; laterbearer/cycle recheck retained.",
+        "Foundations improve while intervals shorten; all sites can still beunstable. No claim offacilityculpability established. Unmapped occupied-ground escalation is a stated conditional hazard, not proof of a twentieth normalvisitedsite. Flameheightchanges under Work distinctfrom ordinary lowburn; no invented alternateform.",
+        "Master index calls Stigma Floating Orbs & Coronets, while primary describes seedcase and exactD fixesTail; do not invent floating mode or crown transformation. Equipment-specific taxonomy remains a later-fix hold, independent of coherent headless source design. Generic translatedEscapemetadata is nowdefinedasdeparturefromroute, notnewcellstate."
+      ],
+      "result": "CHANGED — completed independent written-design pass. Same root-body, ordinary travel, triggered canopy, route departures and separate temporary buildings now have supported conditions in the whole file. Human-sorrow doesnotforcehumanoid, and αderivedgearneednotshare serpent shape. Remaining equipmentrange/naming/stat limits do not prevent a coherent source-body account. Types+1/Weapon+1/SE+1; not artwork completion.",
+      "commentary": "The headless root tour makes repeated displacement legible without turning refugees into a generic burning person. I would preserve the shortening stays beside improving ground as an uncomfortable record, not manufacture an accusation against the facility. Naming sites offers recognition, not a magically settled home.",
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/959_Uprooted/SE-959-A__SIDE_CODEX_Uprooted.md": "10a94c60d2c2fa6aa5d16e911779e1f7a61ca6486ae863f91c89718fad376cc0",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/959_Uprooted/SE-959-B__MAW-W_Uprooted_Requiem.md": "a00e30515ad70499ef4b5733b9203dbe6a1044b20dbfcf730df5ab6ad91c0c47",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/959_Uprooted/SE-959-C__MAW-S_Uprooted_Shield.md": "632ae5b49e3445f36a923bbcfc1bec87b339ed24d326a150ab7d3d87bd1543e2",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/959_Uprooted/SE-959-D__MAW-G_Uprooted_Charm.md": "8a1d9a915cb6f19e8af175418473a231281ca44d93e3f68b1fe67e903261d50e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/README.md": "14a915a990a7d5d300cf37c5ae8ece4879871fd8b66831fec9b296ffcb5176dc",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "final_sha": "9fa760ce2c45ccca61e5726935c5881e9aa98e081086045a8797171b28886e13",
+      "before_words": 6495,
+      "after_words": 7150,
+      "outputs": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+        "tpl": "RESIDUE 0  SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md",
+        "sectfile": "0.003  clean   624 grams  감각 묘사 (Flavor Text)\n 0.003  clean   684 grams  M.A.W. Equipment\n 0.000  clean   552 grams  Combat Record\n 0.000  clean   435 grams  Appearance\n 0.000  clean   337 grams  기록 (Registrum)\n 0.000  clean   336 grams  이야기 (Narratio)\n 0.000  clean   318 grams  Breach Behavior\n 0.000  clean   287 grams  Warden Record\n 0.000  clean   278 grams  관찰 기록 (Observation Log)\n 0.000  clean   254 grams  Operational Parameters\n 0.000  clean   206 grams  이야기 보고 (Story Log)\n 0.000  clean   186 grams  Behavior\n 0.000  clean   171 grams  Trivia\n 0.000  clean   155 grams  Origin\n 0.000  clean    62 grams  최종 관찰 (Final Observation)\n 0.000  clean    37 grams  증언 (Testimonium)\n 0.000  clean    32 grams  SECC Classification\n 0.000  clean    29 grams  (preamble)\n0 section(s) over 0.05",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+        "sect": "227   2  **Effect:** +1 to the working stat on this holding's own cycles and nothing at all elsewhere — which for a holding worked by walki\n  326   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.001  (4 shared shingles)  SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_01_UPROOTED.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 1,
+        "weapon": 1,
+        "se": 1
+      },
+      "link": "[[SE-O-IIIγ-959_Uprooted_솟아오른_뿌리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-959_Uprooted_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%BF%8C%EB%A6%AC.md \"SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md\")]",
+      "table_link": "[Uprooted](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-959_Uprooted_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%BF%8C%EB%A6%AC.md \"SE-O-IIIγ-959_Uprooted_솟아오른_뿌리.md\")",
+      "commit": "0ebd5fe875e488767276906a05bc4101937a5eaf",
+      "push": "PUSH VERIFIED"
+    },
+    {
+      "designation": "N-IIIβ-200",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md",
+      "words": 6496,
+      "sha256": "75f697b428cfacc4a87fa2f718038775822e0399c3deb13b8c570e7f95dc3005",
+      "name": "Chain of Memories",
+      "unit": 2,
+      "status": "held",
+      "receipt": "B174_02_CHAIN_OF_MEMORIES.md",
+      "repairs": [
+        [
+          "| **Movement** | Stationary — a discrete object. |",
+          "| **Movement** | The Chain has never moved itself. It has been found rearranged on its stand twice, both times after a shift in which the count rose, and both times coiled rather than laid flat. |"
+        ],
+        [
+          "| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |",
+          "| **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |"
+        ],
+        [
+          "Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact.",
+          "Confirm the memory-crystal Chain at Collector’s Row by its chalked link count and the boundary between visible faces and warm faceless links. Keep hands outside the rail during identification; neither reading the count nor recognising a face permits touching and naming its owner."
+        ],
+        [
+          "- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.",
+          "- **The People:** Eleven households of the lower terraces whose ledgers were seized. Surviving commissioning lists record what each agreed to remember for others; four household names are recoverable only from the Chain, while unapproached households left gaps in the lists and no links in it."
+        ],
+        [
+          "**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”",
+          "**Appearance protocol:** Count the links before reading their contents. Photograph the visible sequence from the rail, mark where faces give way to faceless links, and measure length against the fixed floor anchor. Keep warmth at the old end separate from the lead-cold visible links; an absence of a face is not a missing link. If the Chain is found coiled, log its arrangement and the shift’s count without reporting witnessed self-locomotion. During contact, the borrowed room is reported by the worker: observers outside the rail see the worker stand still. Preserve that difference in the log rather than claim a visible room replacement."
+        ],
+        [
+          "## Appearance\n",
+          "## Appearance\n\n**One object, changing catalogue:** The crystal links make the burden of communal remembering material without making a person’s body out of it. The new end carries visible images; the oldest links preserve feeling without faces. Its ordinary holding is the trestle and rail, with part of the length lying on the floor. Changes in count, order, tension and the arrangement on the stand are separate readings. None by itself establishes that the Chain has pursued a worker or become a mobile subject. Count additions before assigning an image or an owner to a new link, and distinguish a face revealed by the Broken Mirror’s presence from a new link actually added.\n\n"
+        ],
+        [
+          "### Log and Method\n",
+          "**Relic deployment boundary:** The timings below belong to wearing the source Chain, not to wielding its extracted flail or putting on the Mantle. Ordinary Work keeps the observer at the rail and the endurance worker beside the stand without hands on crystal. Wearing, touching a link and naming its owner require the separate relic certification and the recorded family-history exclusion. Releasing contact ends the immediate connection; it is not a promise to reverse an exchange already made. The bearer unwinds the source from the shoulder rather than a helper lifting it off whole.\n\n### Log and Method\n"
+        ],
+        [
+          "The Chain's three pieces share one rule that no other set in the registry has: each of them holds somebody, and the holder is told who.",
+          "The Chain’s three pieces carry other people’s recollections, but identification is not assured: the flail’s face remains unidentified, and the Mantle and Link can be faceless. A bearer is told the attribution limit rather than supplied with an invented owner."
+        ],
+        [
+          "| Stage | Required record |\n|---|---|\n| **Before use** | The bearer states their mother's name, their own earliest memory, and the street they grew up on, and a Warden writes all three down. This is the baseline the deployment is measured against and the only one that has ever caught an exchange early. |\n| **During use** | Elapsed seconds at each warming of the collar, the content of any borrowed recollection the bearer narrates, and the exact words of any question the bearer asks about a person not present. |\n| **At limit** | The second-minute mark, whether the bearer hesitated on the baseline questions, and which of their own three baseline answers changed. One changed answer is a withdrawal; two is a medical matter. |\n| **After use** | The baseline questions again at one hour and at one week. The Chain's trade is not visible on removal — in all three permanent cases the loss was found at the one-week interview and not before. |",
+          "| Stage | Required record |\n|---|---|\n| **Before use** | Record whether this is a source-relic deployment or an extracted Weapon, Suit or Stigma issue. Take the bearer’s mother’s name, earliest memory and childhood street in writing. For the source relic, also check certification, the family-record exclusion and the chalked interval since the last bearer. |\n| **During use** | On the source Chain, log collar warming, elapsed wear and each borrowed household detail against the Log and Method timings. On extracted pieces, log their own signs: the flail’s reordered fight, the Mantle’s borrowed recollections, or the Link’s shared memory. Do not use the source’s collar warming to time an unworn flail. |\n| **At limit** | The source relic’s second-minute exchange and hesitation test govern source wearing. Stop and preserve the baseline comparison when an extracted-piece user recounts the source household as their own. Keep the actual piece and symptom in the withdrawal record rather than apply a source-wear duration to every item. |\n| **After use** | Repeat baseline questions at one hour and one week and preserve any changed answer. Unwind the source relic by its own return procedure; for an extracted piece, record witness-led relinquishment and attribution review. Neither procedure promises the loss is refunded. |"
+        ],
+        [
+          "### M.A.W. Suit — The Memory Mantle\n",
+          "**Weapon custody:** The memory-crystal flail is an extracted piece, not permission to cut a source link. The source-trace cost additionally records growing heaviness and slight ageing; keep those observations beside reordered combat recall rather than silently substitute either for the other. Before cleaning or resting the weapon, preserve the bearer’s exact account and its attribution. A named witness states the Chain’s title and the households’ preservation event while the weapon is relinquished. That shutdown preserves the record, not a guaranteed restoration of memory.\n\n### M.A.W. Suit — The Memory Mantle\n"
+        ],
+        [
+          "### M.A.W. Stigma — The Memory Link\n",
+          "**Mantle custody:** Keep the shoulder garment separate from wearing the whole source Chain. Borrowed dreams after deployment and the source-trace’s constant fatigue are both review fields; the collar’s temperature contrast identifies the garment but does not establish the source relic’s elapsed-wear thresholds. Preserve attribution before the Mantle is cleaned or rested. The witness names the households’ memory-preservation event during relinquishment, without treating removal as repayment of what the bearer has carried.\n\n### M.A.W. Stigma — The Memory Link\n"
+        ]
+      ],
+      "split": [
+        4,
+        7
+      ],
+      "type_credit": 1,
+      "weapon_credit": 1,
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1020_Chain_of_Memories/SE-1020-A__SIDE_CODEX_Chain_of_Memories.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1020_Chain_of_Memories/SE-1020-B__MAW-W_The_Memory_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1020_Chain_of_Memories/SE-1020-C__MAW-S_The_Memory_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1020_Chain_of_Memories/SE-1020-D__MAW-G_The_Memory_Link.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "reasoning": "Full441-line original→exact1020A–D/README→Master412–414/Tale138→source/nonbreach/indumentum/crystal-chain/growthandwarmfacelessoldend→posture/tension/touch+name→wearunwind/permanentexchange→count/order/interactions→three derivedpieces traced. R18predeclared4short/7careful. Repairs keep stationaryobject and observed arrangementchanges distinct, remove broken Appearanceprotocol and genericPeople/ID, separate sourcewear timeline from extractedpieceuse, and stop claiming every holder knows the unidentified face.",
+      "history": "Exact1020 hasN-IIIβ-200, notunrelatedSE200 source suffix or O-IIβ-467MemoryChain reviewed110/161. CSV242–245; archetype420; Entity505; Master452–454/5418–5450; completeTale1387783–7835; disposition352Neutral; WIP7910–7930 seventyreplacements oldprosepass, notexactMAW-W-1020-01/fullsetdisposition. Current and archivedWIP/CHANGELOG identity/1020/MemoryMaul history checked; noequipmentrow forsourceN-IIIβ-200. Fresh+1Types/+1Weapon. βWeight5–9/2/2ShortSingle100,4/25; C1/1/1.5/.5,4/20; DHead5%workingbonus numericalagreement. WeaponBcontainsnoAppearance; RoomfuneralDao archetype vsprimaryShortflail isnotdonor/equipmentdifference.",
+      "summary": "Eleven supported repairs: exactmovement/βgrade, householdPeople and objectID; count/temperature/image/arrangement protocol and bodyprofile; relic-versus-gear deployment and field record; unidentifiedowner warning; source-led Weapon/Mantle custody and additionalcostdocumentation.",
+      "holds": [
+        "Essential state hold: exact1020A saysCanbreachviaTransform while primary explicitlynonbreachingactivationonly and observedneverpursued. No transformationtrigger/form record establishes both states; do not inventamobilechainstage.",
+        "OrdinaryWork says orderunchanged, while InheritedDebt pairingreorders; distinctconditionalinteraction explains difference, notautomaticbodyconflict. Foundcoiled aftergrowth doesnotprovewitnessedselfmovement. Reliefofcontact versus permanentexchange differentiated, notclaimedidenticalduration.",
+        "Weapon sameitemprimaryflail, MasterBLUNTMaul and archetypeRoomcurvedFuneralDao withno Appearance inB. KeepShortcore values, holdsameitemgeometry/rangetaxonomy; donotresolvebyclaiming sourcechainneedsto looklikegear.",
+        "SourceDgenericworking+1 vsprimarycount-onlyResolve; sourceCfatigue vsprimarydreamcost; Bage/heaviness vsprimaryorderloss preserved separately; benefits canbeadditional, notautomaticallyexclusive. Historical EchoIIRegistrum explicitlypreservedwith4229 re-survey note; currentFragmentIIIoperationalclassification unchanged.",
+        "FinalObservation speechchoiceagainststandingnonamingrule and neutral/stablefailurecellwithgaugeclimbs needsobservedauthorisedcontext; noautomaticallyinventedexception. Combat touch/pullhazards do notdemonstrateownerconnectionwithonlyone triggerhalf. Laterfullrecheck retained.",
+        "Whole-file reread also retains a real end/image ambiguity: Material says newest visible/oldest faceless, but escalation says38of41 additions faceless atsameend and Weaver addsfaceless atfarend. Do notassign a manufactured end-switch chronology. Sourceprofileaddition repeats visual Materialbaseline, not claim everynewadditionvisible. InteractionPattern sayslengthonly despiteorder/imagechanges, and FullUnraveling allfaces versusblanklinkbaseline needsconditional evidence. These remainwhole-design holds."
+      ],
+      "result": "HELD — technicalpass and equipmentcoverage do notresolve exactA transforming-capability versus explicitprimarynonbreachingstate or final-observation permission. +1Types/+1Weapon/+0SE. No inventedbody or erasedhistoricalEcho record.",
+      "commentary": "A catalogue that preserves the last copy of household names is more interesting than a generic haunted chain. I kept the warm faceless end as preserved feeling rather than empty data. Naming can rescue history and harm its witness; the file still needs evidence for when that otherwise-forbidden gesture is authorised.",
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1020_Chain_of_Memories/SE-1020-A__SIDE_CODEX_Chain_of_Memories.md": "18aabf5e82b859dfc33336158407990dd369af48e78ce77e7745fcec84ba6966",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1020_Chain_of_Memories/SE-1020-B__MAW-W_The_Memory_Maul.md": "ba2e0cf9003431a59edeb7e28845e369985e1f9b8c757537a907f5f90a39c0f5",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1020_Chain_of_Memories/SE-1020-C__MAW-S_The_Memory_Mantle.md": "3560f4b19ce04e7e3fb65dffa5fc5c83e76a3d731a32d23a5caccd5e77dcb0fa",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1020_Chain_of_Memories/SE-1020-D__MAW-G_The_Memory_Link.md": "b9e18331f23f5669787210b49b8675aeefd119083135bc511f0f167e9b9a4a13",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/README.md": "1ccf9c7a67061c05141ee76cd0400c5d24c9ac338e9618e2304e0daf74807a7e",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "final_sha": "b06051f6b51268461d5f093500bbe771e67145332b9b145e35f3b824418a45b5",
+      "before_words": 6496,
+      "after_words": 7040,
+      "outputs": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+        "tpl": "RESIDUE 0  SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md",
+        "sectfile": "0.014  clean   140 grams  Operational Parameters\n 0.003  clean   598 grams  감각 묘사 (Flavor Text)\n 0.002  clean   597 grams  Combat Record\n 0.000  clean   779 grams  M.A.W. Equipment\n 0.000  clean   571 grams  Activation Behavior\n 0.000  clean   391 grams  Appearance\n 0.000  clean   349 grams  이야기 (Narratio)\n 0.000  clean   299 grams  Warden Record\n 0.000  clean   273 grams  관찰 기록 (Observation Log)\n 0.000  clean   169 grams  이야기 보고 (Story Log)\n 0.000  clean   166 grams  Trivia\n 0.000  clean   157 grams  기록 (Registrum)\n 0.000  clean   152 grams  Behavior\n 0.000  clean   120 grams  Origin\n 0.000  clean    65 grams  최종 관찰 (Final Observation)\n 0.000  clean    44 grams  증언 (Testimonium)\n 0.000  clean    35 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+        "sect": "32   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   56   1  | **Resistance** | 30% against Weight pressure; 20% against other pressure types |\n  359   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.001  (5 shared shingles)  SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_02_CHAIN_OF_MEMORIES.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 1,
+        "weapon": 1,
+        "se": 0
+      },
+      "link": "[[SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-200_Chain_of_Memories_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%82%AC%EC%8A%AC.md \"SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md\")]",
+      "table_link": "[Chain_of_Memories](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-200_Chain_of_Memories_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%82%AC%EC%8A%AC.md \"SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md\")",
+      "commit": "c2e0cd2d7495b5b636d1235fbb103379018f3725",
+      "push": "PUSH VERIFIED"
+    },
+    {
+      "designation": "C-IVδ-918",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md",
+      "words": 6503,
+      "sha256": "8e6e5f13321d20260e55b9dca65f8bbffa31f402864a79d86965908e67caa4a3",
+      "name": "Ninety Seconds",
+      "unit": 3,
+      "status": "held",
+      "receipt": "B174_03_NINETY_SECONDS.md",
+      "repairs": [
+        [
+          "| **Movement** | Stationary — a fixed position; spreads rather than moves. |",
+          "| **Movement** | A fixed radius at the registered sector, marked at floor level and at head height. It does not move. The second marking was added after a worker leaned across the boundary while remaining clear of it on the floor plan. |"
+        ],
+        [
+          "both pieces were cut inside a single pass, which is the only window in which the boundary is stable.",
+          "the Weapon and Suit extraction was inside a single pass. The Token is separately recorded as a Stigma issued to an extraction team member. The signed boundary check remains required; extraction is not a reason to omit either marking."
+        ],
+        [
+          "The time form is unmistakable — this is a mind entity, not a general one.",
+          "Identification is the surveyed interval and its repeated personal thought, not a visible time-body. Floor and head-height markings prevent different kinds of accidental entry; neither is a material boundary of the entity."
+        ],
+        [
+          "## Appearance\n",
+          "## Appearance\n\n**Interval, not apparition:** The pressure accumulated into repeating time, not into the people who experience it. Paint and signatures mark where entry occurs; they are facility objects, not the interval’s skin. No face, limbs, light, audible rhythm or measurable material is reported inside. What changes across passes is the worker’s account of duration and detail. Keep that account separate from the clocked span, which does not lengthen. The sector-wide Mind Collapse is recorded as an exceptional generalisation; it must not be illustrated as a creature walking out of an otherwise fixed radius or silently folded into the ordinary boundary survey.\n\n"
+        ],
+        [
+          "### M.A.W. Suit — Ninety Seconds's Veil\n",
+          "**Edge handling:** The near-colourless blade is extracted equipment, not a solid part found inside the empty radius. Its attack pattern is Single, and the thought interruption belongs to the struck target; the source interval’s repeated passes are not additional weapon strikes. Watch the user’s emotional numbness and attribution before cleaning or resting the Edge. A witness-led relinquishment names the source holding without inventing the unrecorded formation event or soliciting the bearer’s worst thought. Record that attribution limit with the shutdown rather than fill the missing history with private content.\n\n### M.A.W. Suit — Ninety Seconds's Veil\n"
+        ],
+        [
+          "### M.A.W. Stigma — Ninety Seconds's Token\n",
+          "**Veil handling:** The extra hem stitch is an equipment marker, not an extra second in the source interval. Keep the wearer’s difficulty being remembered, including by themselves, separate from the blade user’s numbness. Record who donned and relinquished the Veil so that a lapse does not erase the issue from the return. Review attribution before the garment is cleaned or rested. A witness can identify the holding during relinquishment without asking what thought appeared; neither protection nor removal refunds the recorded cost.\n\n### M.A.W. Stigma — Ninety Seconds's Token\n"
+        ],
+        [
+          "### M.A.W. Use Notes\n",
+          "**Token cost:** After invocation, the bearer can lose a familiar word or face for a few seconds. Preserve the occurrence and duration as an item-cost record without writing down the source thought. The token’s warmth is an equipment observation, not an instrument for sensing the invisible boundary. Attribution review precedes cleaning or resting; witness-led relinquishment is recorded without manufacturing a formation event to satisfy the missing source-history field. The extraction team’s observed award pattern is not a reason to pressure a worker to refuse a needed second question.\n\n### M.A.W. Use Notes\n"
+        ],
+        [
+          "The cost is separate and is always the same: the bearer's own worst thought becomes available to them at will, which several bearers have described as useful and which the counsellors class as the gravest cost on any holding in the wing.",
+          "The set-level cost is that the bearer’s own worst thought becomes available at will, described as useful by several bearers and classed as grave by the counsellors. That account does not replace the separate piece costs: the Edge’s numbness, the Veil’s loss of remembered presence, and the Token’s brief word or face lapse. Record the issued piece and the cost actually observed rather than call all three effects interchangeable."
+        ],
+        [
+          "### One Question\n",
+          "**Exit and return questions:** The agreed content-free question at extraction gets the worker out of the repeating thought. The later same-as-last-time comparison is a separate staffing-return measure; it can reveal a change without revealing the thought itself. Keep the two records and their purposes distinct. Physical extraction, the answered exit question and paid stand-down are not consent to a change flag. The disputed return field remains in the record as an outstanding objection, not a remedy already adopted.\n\n### One Question\n"
+        ]
+      ],
+      "split": [
+        3,
+        6
+      ],
+      "type_credit": 0,
+      "weapon_credit": 0,
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/918_Ninety_Seconds/SE-918-A__SIDE_CODEX_Ninety_Seconds.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/918_Ninety_Seconds/SE-918-B__MAW-W_Ninety_Seconds_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/918_Ninety_Seconds/SE-918-C__MAW-S_Ninety_Seconds_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/918_Ninety_Seconds/SE-918-D__MAW-G_Ninety_Seconds_s_Token.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "reasoning": "Complete408-line original/exact918A–D/README read. CityVoid/TimeMind→gradualpressure/noidentifiedincident→nonphysicalfixedpaint-markedradius→entry/repeatedpersonalworstthought→validViderehanFerrehan→passcount/contentfreephysicalexit→exceptionalMindCollapse→paper-onlyinteractions→derivedblade/veil/token traced. R18predeclared3short/6careful. Equipment canhavevisiblebodywithoutmakingdonorphysical. Repairs do notinventmaterialbreach or coerciveprivatecontentcollection.",
+      "history": "B144unit2 acdab076 previouslycompleteexact918A–D/sourcefullset/Weapon review readcurrentWIP3885–3905 and B144closure3730 context. +0/+0 repeatcredits. Freshregistry1031–1034/archetype377/disposition334fullrow; exactMasterMAW/Tale/Entitysearch has no dedicated918entry (Entity359pendingindex only). No same-numberClocksubstituted. OriginalB42condition/interaction,B46quote,B68Resistanceprose notnewcredits. δVoid11–16/2Normal/2ShortSingle100%,4/25; C1/1/.3/.8,4/20; DHead5%+1sourcework retained.",
+      "summary": "Nine supported replacements: movement from exact fixed-radius profile, extraction wording splitWeapon/SuitversusStigmaissue, recognitionwithoutbody, body/clock/subjectivepass distinction, Singleweapon scope and attribution, Veil care, missingTokenword/facecost, separatepieceversussetcosts, exitversusretrospectiveflagquestion.",
+      "holds": [
+        "Normal fixedradius and lackofmaterialbody do notautomaticallyconflict with exceptional sectorwideMindCollapse. However genericExpansionmovementcorruptingeverything/radiatingeffect versus absolute nothingcomesout, plus Transformlabel without documentednewstate remainunclearlyscoped. Do notinvent breachbody or erase exceptionaloccurrence.",
+        "Sameitemequipment: archetypeCloseTimerDial vsprimary/BnearcolourlessShortblade; Dstone vsprimaryglasstoken. Keepgeometryhold, notdonor/derivedshapehold. SourceBNotRecordedeventimagery notevidenceofsecretincident.",
+        "A/genericsetresolutionGaugeuntilcontained versus actualpersonexits/contentfreequestion. NoInstrumentreadout vs operationalGauge/513HP and vessel/dust mechanics arelabelledsimulation; no newvisiblemeter invented.",
+        "19yearrecord versus28year/32yearadministrativeprogression,211cycles/202firstexits/9failures versus311repeatreturns/22workers,19neededsecond vs9failure scopes remainunproved. Long-pass failure and thought-contentquestion maybothoccur butnotclaimedexclusivecause.",
+        "Counter3 versus60%activation and65%exceptionthreshold retained distinctly, no inventedcounterdecrement. Retrospectiveflagprivacyproblem and missingexitquestionreservation remedy remainseparate; no externallegalclaim or unapprovedremedy. Latercomplete recheck retained."
+      ],
+      "result": "HELD — nine supportedrepairs improvebodiless account and equipmentcare; transformation/generalisation scope andrecordcohorts remainunresolved. TechnicalPASS≠logicalcompletion. Already-reviewed exact918pair earns+0Types/+0Weapon/+0SE.",
+      "commentary": "I would keep this entity visually empty: the timed object is the interval, while the experience belongs to a person the facility has no right to transcribe. Separating the exit question from the change flag matters because a successful rescue must not be represented as permission for later personnel surveillance.",
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/918_Ninety_Seconds/SE-918-A__SIDE_CODEX_Ninety_Seconds.md": "7ed8a7066b544c38f335d5531e9984b5468a0b6bb16e74c1c447bbe7a191dacb",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/918_Ninety_Seconds/SE-918-B__MAW-W_Ninety_Seconds_s_Edge.md": "4af27633b4d2d2613beb237375b0f5184b7ffb689890e9214a6913c6fb4b81bb",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/918_Ninety_Seconds/SE-918-C__MAW-S_Ninety_Seconds_s_Veil.md": "deebbb2f9ad88c61a6ab8634f055a65765131954974eb0946500d6d9f6aca6f4",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/918_Ninety_Seconds/SE-918-D__MAW-G_Ninety_Seconds_s_Token.md": "574520d62197e6eb52d380cebb1e0f7a4f83ad059fb8a06cf1c69d8b2af7876f",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md": "973a8b4ee120f31c2e8a557b72bcfb09765901c6dc24af2d3fe5491bbf5118b9",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "final_sha": "50b207e71fa6db10522ce47ab1cef6945be1d18eba81722c509bd769cb5ff461",
+      "before_words": 6503,
+      "after_words": 7037,
+      "outputs": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+        "tpl": "RESIDUE 0  SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md",
+        "sectfile": "0.013  clean   223 grams  기록 (Registrum)\n 0.006  clean  1806 grams  Apex Record\n 0.003  clean   640 grams  M.A.W. Equipment\n 0.002  clean   424 grams  Combat Record\n 0.000  clean   360 grams  상호작용 (Entity Interactions)\n 0.000  clean   330 grams  Appearance\n 0.000  clean   261 grams  이야기 보고 (Story Log)\n 0.000  clean   215 grams  이야기 (Narratio)\n 0.000  clean   170 grams  Operational Parameters\n 0.000  clean   143 grams  감각 묘사 (Flavor Text)\n 0.000  clean   131 grams  증언 (Testimonium)\n 0.000  clean   128 grams  Origin\n 0.000  clean   101 grams  관찰 기록 (Observation Log)\n 0.000  clean    82 grams  Trivia\n 0.000  clean    77 grams  Breach Behavior\n 0.000  clean    44 grams  Behavior\n 0.000  clean    34 grams  최종 관찰 (Final Observation)\n 0.000  clean    30 grams  SECC Classification\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+        "sect": "91   1  3. **Resolution:** The worker steps out and answers the exit question. 211 cycles; the question has worked 202 times, the nine fai\n  203   2  **Effect:** +1 to the working stat on this holding's passes, which is to say for ninety seconds at a time\n  314   1  - Viderehan and Ferrehan are the valid Work Types; both reduce the number of passes and neither breaks the repetition, which nothi\n  322   2  **Operational interpretation:** The three sections below are one argument. A single content-free question put on exit turns this h\n  406  10  The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the twenty-ninth year a\nGENERIC 0.003  (16 shared shingles)  SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_03_NINETY_SECONDS.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVδ-918_Ninety_Seconds_반복되는_생각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-918_Ninety_Seconds_%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94_%EC%83%9D%EA%B0%81.md \"SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md\")]",
+      "table_link": "[Ninety_Seconds](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-918_Ninety_Seconds_%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94_%EC%83%9D%EA%B0%81.md \"SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md\")",
+      "commit": "3ffc0ca6de2e49c68313ce7da8f727e6257db764",
+      "push": "PUSH VERIFIED"
+    },
+    {
+      "designation": "N-IIIγ-127",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울.md",
+      "words": 6534,
+      "sha256": "16f7db65b4d5ef97516fd39d5bf148e2d6ce43e9b9e5d33fd2e1127fdf07e7b8",
+      "name": "Mirror of Broken",
+      "unit": 4,
+      "status": "held",
+      "receipt": "B174_04_MIRROR_OF_BROKEN.md",
+      "repairs": [
+        [
+          "| **Movement** | Stationary — a discrete object. |",
+          "| **Movement** | Fixed to the Gate vicinity: the shard arrangement returns after disturbance and the affected dreams enlarge within the zone. No travel beyond the pattern is recorded. |"
+        ],
+        [
+          "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "| **Valid Work Types** | Flerehan and Ferrehan reduce the Gauge; Viderehan is record-only and stable. Pugnahan fractures the dream into hostile reflections and is prohibited. |"
+        ],
+        [
+          "| **Resolution Condition** | Establish a present identity without denying the former one |",
+          "| **Resolution Condition** | Name a person one used to be without rejecting that former self or defending the present one; the recorded Gauge fall follows that naming, not a contest over which identity is real. |"
+        ],
+        [
+          "**Threat Assessment:** Major (γ). It never acts and it cannot be sealed out, because the way in is sleep; a event takes a whole section's dreamers at once. Effect: the vertigo of a self that was changed in order to get through.",
+          "**Threat Assessment:** Major (γ). The documented zone event reaches a whole section’s dreamers without the figure pursuing anyone; sealing a wall does not remove the sleep exposure. Effect: the vertigo of a self changed in order to get through. Wake affected personnel and preserve the distinction between a shard count and a dreamer’s face count."
+        ],
+        [
+          "## Appearance\n",
+          "## Appearance\n\n**What the count belongs to:** The dream figure carries earlier selves, not the exile who survived beyond the Gate. Do not turn its human source into an identified current watch member. Keep the floor shard inventory, the arrangement photograph and the count of faces in a volunteered dream account in separate fields. A changing dream assembly is not proof that a shard was added to the ground, and a rise in the inventory is not permission to describe a dreamer’s face. The brief whole-mirror reassembly follows spoken denial; the ordinary arrangement and the dream figure must not be illustrated as an undocumented person walking away from the Gate.\n\n"
+        ],
+        [
+          "**Damage Application:** The multiplier applies to the strike and to each Tick separately, and the prism must be held by the same bearer throughout an engagement; three bearers in sequence produced three incompatible after-action accounts of the same minute.",
+          "**Damage Application:** Apply the stated Skewer falloff to direct Weight impact; no separate Tick amount is specified. Keep the prism with the same bearer throughout an engagement and record that custody rather than combine incompatible accounts; three bearers in sequence produced three incompatible after-action accounts of the same minute. A differing memory of the minute is a bearer-cost observation, not a new attack target."
+        ],
+        [
+          "### M.A.W. Stigma — The Broken Reflection\n",
+          "**Mantle grounding:** Select the grounding partner and exit route before entering Dream pressure. The mirrored black seams can hold separate silhouettes while the garment’s weight is distributed over the shoulders. A present choice and the partner’s exit cue open them against a direct surge; self-suppression instead closes the seams and loses the protection. After use, debrief beside non-facing mirrors and fold the garment between them. For shutdown the partner opens the centre seam, states the route and removes it from both shoulders; cutting a seam releases a Weight echo into the nearest reflection.\n\n### M.A.W. Stigma — The Broken Reflection\n"
+        ],
+        [
+          "### M.A.W. Use Notes\n",
+          "**Reflection grounding:** The bearer chooses a partner who will not demand a permanent self-definition inside the pressure field. Permit conflicting histories without ordering a seam shut or smashing the tile. After the current-self check and safe exit confirmation, the partner covers the seams with the black sleeve before removal. Store the tile face-down until the next approved check. Neither the anchor effect nor the debrief proves which former identity was correct or restores an abandoned life. Log the check and the cost without transcribing what the tile showed.\n\n### M.A.W. Use Notes\n"
+        ],
+        [
+          "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, the shard count, and a dated list of three things the wielder did more than ten years ago. Sealed. |\n| **During use** | Every recollection the wielder reports, written down with the age they assign to it. The ages are the reading. |\n| **At limit** | The wielder assigns two incompatible dates to the same memory and does not notice. Three rotations; all three. |\n| **After use** | Open the sealed list and ask for the dates. The Armoury keeps the discrepancy and does not correct the wielder, which is a decision it has recorded in full. |",
+          "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, partner, exit route and separately identified shard and face counts. Keep the sealed dated baseline for chronology comparison without describing the faces in it. |\n| **During use** | Whether a volunteered account misplaces an age or date, whether it came from Dream exposure or the issued piece, and whether the partner interrupted. Record the discrepancy and volunteering, not every recollection or face content. |\n| **At limit** | Incompatible dates assigned to one memory, self-punitive use, or seams closing under a forced choice require the partner’s interruption and a safe exit. The observed three rotations remain the comparison record, not a demand for a dreamer to confess. |\n| **After use** | Compare dated baseline answers without copying the Reflection’s contents. Keep the discrepancy, the fact of debrief and any refusal to volunteer. The standing no-description order is not waived by an equipment issue. |"
+        ]
+      ],
+      "split": [
+        4,
+        5
+      ],
+      "type_credit": 0,
+      "weapon_credit": 0,
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-A__SIDE_CODEX_Mirror_of_Broken.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-B__MAW-W_The_Broken_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-C__MAW-S_The_Broken_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-D__MAW-G_The_Broken_Reflection.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "reasoning": "Complete429-line original/exactA183/B105/C101/D98/README, Master/Tale/historyread. InnerWeightSubjectDream→unnamedexileidentityleftbehind/Tale→variablemirrorblackcrystalfigureversusphysicalshardfield→sleep-onlyzoneevent/noexternaltravel→acknowledgewithoutrealselfranking/Workprohibition→shardvsfaceinventories→partner-boundderivedSkewer/Mantle/Reflection traced. R18predeclared4short/5careful. Preserve genuine visual/mode ambiguity instead ofinventingwaking-to-dream transformation.",
+      "history": "Exact127A–D all4/4. CSV374–377, archetype105RoomPrism, disposition224Neutral; Entity506BrokenMirroralias; Master415–417table455–457/details5451–5483; fullTale1397836–7888 historicalEchoII/Moderate/LowvsprimaryIIIγ preserved. B910f8ad16d independentexactWeapontitle/formhold currentWIP7510–7532 and CHANGELOG6422–6425 read; B56series40736ff VOL02 125–154 notnewequipmentcredit. +0/+0 conservatively no duplicate all-types/sourceWeaponcoverage. Primary/A/BγWeight7–12/Fast3/Medium3/Skewer3/10070 50,max3/40; C1/1/1.5/.5,max3/35; DHead4%+2 align, CSVgeneric5%notrewritten.",
+      "summary": "Nine supportedrepairs: replaceObjectmovementshorthand; prohibitPugnahan inquicktable; resolutionmatchesactualnamingnotdefence; sleeperzone threatandtwoinventories; Appearancebody/source/measurementdistinction; directSkewerno unsupportedTick; MantleandReflectionpartner/care/shutdown; FieldUseprivacywithoutforcedcontenttranscription.",
+      "holds": [
+        "Essential modes unresolved: primarysaysonlydreams/invisibletoinstruments/neveractsonwaking yetphotographedandsharpphysicalfloorfield pluswakingminutecontact/crushattacks. Do notinvent a lucid-exposure mode. Existingdreamfigure andfloorpieces canberelated butthecausalbridge/scope notestablished.",
+        "SamecurrentitemB explicitlyRestingMaul/Activeblackimpactpaths/maul-headcradle against heading/AppearancePrism andarchetypeRoom versusMedium3. Filenamealone notconflict; actualofficialformtable andshutdownare. No maul-to-prismtransition manufactured.",
+        "SourceDdarkcoolthree-seamtile versusprimarywarmneargrief/singleage canbeconditional marker, notautomaticconflict; mandatorysame-daywrittenrecollection versusabsolute no-description remainsunresolved inprimaryStigmaEffect despiteFieldUsemorecarefulprivacy. No newpermissioninvented.",
+        "Interactionopener saysEmptyMaskremovedpiece, actualtablerisesfacecount; differentcounttypes mayexplain butnotproved. Face4/7/11versusphysical9→61 arenotautomaticallysamecounter. Headerformer selfimagesversusunidentifiedsamepersongroundpieces andneverviewerform scopesneedrecords.",
+        "Recorddetail retainedhistoricalEchoIIβLow note nowmatchesMasterTale history butcurrentprimaryRegistrumIIIγMajor; no erasethistoricalrecord. NormalfixedGateversuszoneenlargement doesnotrequiresphysicalescape; 2/75/65 thresholds andoneevent14faces keptdistinct."
+      ],
+      "result": "HELD — repairs remove actual shorthand/Work/privacy/Tickproblems; essentialsleep-versusphysicalcontact scope and itemmaul/prism geometry remainopen. No duplicateequipmentcredit; +0Types/+0Weapon/+0SE. Laterwhole-file recheck retained.",
+      "commentary": "The strongest design is not a mirror that exposes a false self; it is a record that cannot hold several true selves at once. I kept that distinction and the source exile unnamed. Counting faces should reveal the institution’s blind spot, not become an excuse to archive a dreamer’s interior.",
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-A__SIDE_CODEX_Mirror_of_Broken.md": "29d51321cd57606ff77b1f1aa16122962769b5268c966f4fcab28fda64814c7c",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-B__MAW-W_The_Broken_Maul.md": "4758afcbddf3024a978e536a11a7a10157e3d54e43d705b38934d39024a47e18",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-C__MAW-S_The_Broken_Mantle.md": "f3d58600ad258b0b51066953fd82c38e570e7ae8917e7b3b2e65504c4d75e926",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-D__MAW-G_The_Broken_Reflection.md": "630ad0318793052750d9ecf77ee22a6f480334747c94af11b5227aa414a189b5",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/README.md": "c214014f246d45cc8f7ced38cfd6b516acf626809b5b445815aada90afebf848",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "final_sha": "71726eaf4ae10d910c7978f66d7d2dc8b2c5c1cb16ba7794976aec599866754a",
+      "before_words": 6534,
+      "after_words": 6967,
+      "outputs": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+        "tpl": "RESIDUE 0  SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울.md",
+        "sectfile": "0.006  clean   161 grams  Containment Event Behavior\n 0.000  clean   970 grams  Warden Record\n 0.000  clean   602 grams  M.A.W. Equipment\n 0.000  clean   468 grams  감각 묘사 (Flavor Text)\n 0.000  clean   463 grams  Combat Record\n 0.000  clean   367 grams  이야기 (Narratio)\n 0.000  clean   296 grams  Appearance\n 0.000  clean   259 grams  이야기 보고 (Story Log)\n 0.000  clean   230 grams  기록 (Registrum)\n 0.000  clean   224 grams  Origin\n 0.000  clean   215 grams  관찰 기록 (Observation Log)\n 0.000  clean   150 grams  Trivia\n 0.000  clean   140 grams  Operational Parameters\n 0.000  clean    76 grams  Behavior\n 0.000  clean    61 grams  최종 관찰 (Final Observation)\n 0.000  clean    60 grams  증언 (Testimonium)\n 0.000  clean    39 grams  SECC Classification\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+        "sect": "169   1  - **Sorrow Gauge on event:** Opens at 40% and rises 10% for each former self a person in the affected zone denies aloud. It falls \nGENERIC 0.000  (1 shared shingles)  SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울.md"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_04_MIRROR_OF_BROKEN.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-127_Mirror_of_Broken_%EB%B6%80%EC%84%9C%EC%A7%84_%EA%B1%B0%EC%9A%B8.md \"SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울.md\")]",
+      "table_link": "[Mirror_of_Broken](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-127_Mirror_of_Broken_%EB%B6%80%EC%84%9C%EC%A7%84_%EA%B1%B0%EC%9A%B8.md \"SE-N-IIIγ-127_Mirror_of_Broken_부서진_거울.md\")",
+      "commit": "69f6004e9694f2c065a277b41590706c1e9f623f",
+      "push": "PUSH VERIFIED"
+    },
+    {
+      "designation": "C-Iα-150",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-150_Risus_웃음의_메아리.md",
+      "words": 6557,
+      "sha256": "d2a69ede0c7d60970f17f12c0be1228006d482e0427d6771786e0149f76b31ee",
+      "name": "Risus",
+      "unit": 5,
+      "status": "changed",
+      "receipt": "B174_05_RISUS.md",
+      "repairs": [
+        [
+          "| **Movement** | Mobile — drifts or flows through the area. |",
+          "| **Movement** | Ambient and drifting in the Commons: record where the laughter is loudest, where it thins, and whether that region has moved since the last survey. There is no body or source for a listener to follow. |"
+        ],
+        [
+          "| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |",
+          "| **Material / signature** | No visible body or physical vibration: laughter arrives warm and bright, then thins into grief without a volume change through the turn. Record the listener’s account and the silent instrument reading separately; cold-rain and salt-damp impressions are not a visible material shell. |"
+        ],
+        [
+          "The audible field widens through the Commons, and its boundary is confirmed by instrument.",
+          "The audible field widens through the Commons. Mark listener positions at the approaches and use the second observer’s full-turn account; audio instruments record silence, not an acoustic boundary to pursue."
+        ],
+        [
+          "**Falloff Rule:** The requiem reaches one listener, which is how this entity has always worked — a sound that arrives for one person at a time regardless of how many are standing in the Commons.",
+          "**Falloff Rule:** The Requiem delivers its full Single strike to the designated target only. That equipment coverage does not restrict the ambient Commons loop to one listener; group exposure, contributed personnel laughter and the field-wide Chorus are separate source effects."
+        ],
+        [
+          "## Appearance\n",
+          "## Appearance\n\n**A preserved sound, not its laughers:** No member of the vanished community stands inside the field. What persists is their joy heard after its makers are gone, so the arrival can be bright while the listener’s recognition becomes grief. Track the drifting loud region and the time to the turn without drawing a face, mouth or walking source for it. The Commons entrances are the access perimeter, not the edges of a creature. Work can lower volume for a shift; the unchanged volume through the joy-to-grief turn is a different observation. A blade, garment or bell made from a released sound-echo is derived equipment, not a newly revealed body of Risus.\n\n"
+        ],
+        [
+          "**With continued exposure:** Prolonged exposure turns the containment zone into a landscape. The Lament has topography here — ridges of pressure, valleys of absence, a geography only the Subject-Lament could have made.",
+          "**With continued exposure:** The brightness thins without a physical vibration appearing on the instruments. A listener can separate a familiar laugh from the chorus and recognise that it is now part of the preserved loop. Record that recognition and any laugh the current team contributed; do not mistake the feeling of company for people standing among the stalls. Stay with a second observer through the turn rather than chase the place from which it seems to come."
+        ],
+        [
+          "**When the entity activates:** The Gauge crosses the line and the Subject-Lament remembers what it is. The Lament surges — not as an attack but as a statement, a declaration that this sorrow will not be quieted.",
+          "**When the entity activates:** Shared laughter followed by unacknowledged loss widens the audible field. Listeners hear joy that does not belong to the present; the record is the trigger, the turn and the laughter contributed, not a figure remembering or deciding to attack. Withdraw those not rostered to listen, keep the paired observation, and let the laughter and grief coexist without silencing or answering the loop."
+        ],
+        [
+          "### M.A.W. Suit — The Laughter Shroud\n",
+          "**Requiem care:** A willing witness names the connected joy and absence with the bearer. Mocking grief or forcing cheer silences the blade and turns its output into an internal ache; that is a rejection, not a reason to strike again for a tone. Store the Requiem in a sound-damp case rather than a recording vault. For shutdown the witness covers the hilt chime, names the loss and sheathes it. Snapping the blade spreads a laugh-to-grief loop among nearby listeners, so destruction is not the recorded return procedure.\n\n### M.A.W. Suit — The Laughter Shroud\n"
+        ],
+        [
+          "### M.A.W. Stigma — The Laughter Bell\n",
+          "**Shroud care:** The cloth holds resonance, not ownership of the community’s actual laughter. Choose a communal witness who can distinguish relief from emotional shutdown. Flat folds mark the attempt to avoid sadness and loss of Lament protection; they are not evidence that the source loop has fallen silent. After use, acknowledge an actual happy memory and a loss-memory, then hang the garment in its open Commons case. For shutdown the witness folds the hem inward, names the final note and removes it; cutting the folds releases a scattered laugh-loop.\n\n### M.A.W. Stigma — The Laughter Bell\n"
+        ],
+        [
+          "### M.A.W. Use Notes\n",
+          "**Bell care:** Agreement includes the closing memory as well as the relief. The willing witness remains through both, then covers the Bell after the loss-memory is acknowledged and unhooks it for storage beneath soft cloth. A tone heard only inside the bearer’s head is a corrosion warning about avoided loss, not proof that the two-person relief condition has been met. Do not repeatedly play it as morale programming. Crushing it spreads the closing memory among listeners instead of safely ending use; the witness-led closeout is the return procedure.\n\n### M.A.W. Use Notes\n"
+        ],
+        [
+          "The only pairing here that altered the loop, and the only one the wing has declined to repeat on purpose.",
+          "This pairing shortens the bright phase and lengthens the grief phase, unlike the Choir’s longer bright phase. It is the one the wing has declined to repeat on purpose; keep each timing series distinct rather than claim the Choir left the loop’s timing unchanged."
+        ]
+      ],
+      "split": [
+        4,
+        7
+      ],
+      "type_credit": 0,
+      "weapon_credit": 0,
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/150_Risus/SE-150-A__SIDE_CODEX_Risus.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/150_Risus/SE-150-B__MAW-W_The_Laughter_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/150_Risus/SE-150-C__MAW-S_The_Laughter_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/150_Risus/SE-150-D__MAW-G_The_Laughter_Bell.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "reasoning": "Complete413-lineoriginal/180A103B101C98D/README and fullMasterTale/history read. CityResidueLament→joyoutlivedvanishedCommonscommunity→bodilessnonvibratingaudibleloop/notpastpersonbody→ambientdrift/accessperimeter/expansionnotescape→ViderehanstableFerrehandecrease/noFlerehanPugnahan→sharedlaughtercontribution/voices→Choir/Healer/Silenceseparatetimings→releasedecho/blade/shroud/twopersonBell traced. R18predeclare4short/7careful. Subject-Lament is explicitlyambientObject/Place inexactA; labeldoesnotrequirehumanoidbody. Unknowncausesofvanishingnotinvented.",
+      "history": "PriorB120u3 17b5156 fullthreepiece/exactB review readWIP6445–6465/CHANGELOG6208, notnewcoverage. +0Types/+0Weapon. B17 old8dirtysection/47sites/fullclassificationR01 repair inVOL02 650–670 read, notbodycompletioncredit. ExactCSV394–397/archetype110MediumChimeBlade/disposition401quotedoldone-listenersourceinference; Entity474EchoOfLaughteralias, Master322–324table362–364/details4426–4458, completeTale1086106–6160 historicalIVγPlaceLament/Level3/Flerehan versus currentIαSubjectLament/Level1/twovalidWork. NumericcoreA3–10source vsprimary3–9 pressure notnormalised; gearαLament3–6/2Normal/2Short/Single100%,5/15; C.4/1/1.6/.8,5/10; DTail5%+1 align.",
+      "summary": "Eleven supportedrepairs replace genericmaterial and creaturedrift with bodilesslistening/pairedsurveys, remove impossibleinstrumentboundary, separateweaponsinglecoverage fromambientmulti-personloop, specifyordinarycyclevolumeversuswithin-turnstablevolume, useactualexpansiontrigger ratherthanintentionalremembering, carrythreepiecescare/rejection/shutdown, andremoveSilence-onlytimingclaimcontradictedbyChoirrow.",
+      "holds": [
+        "Equipment-onlyholds: archetypeMedium vs Short2; MasterStigmaRingsHandSeals versus tinyTailBell; CSVCombatVariable/Multiplier metadata incomplete. No donor/equipmentshape conflict inferred.",
+        "BellStatInterpretationsaysringswheneverwearerlaughs anywhere, whereas exactDrequireswillingtwo-personhold andcorrosiontoneonlyinhead. Newcareparagraphdoesnotinvent a normalexception or erase oldclaim; sameitemtrigger/context later-fix hold.",
+        "SourceApressure3–10 vsprimary3–9; historicMasterTaleIVγPlaceLament/Level3/Flerehan preserved, currentheader/exactA IαObjectPlaceSubjectLament and validWork govern thisreview. No retronegative bodycredit orcanonrewrite.",
+        "Voicecensus40–60includes11 versus40–60plus11 and facenames unknown keptas unresolvedcohortprecision, notinventednewbody or assumedelevennewvoices. Loopcontributions areobserved; audiblesize/membership uncertaintydoesnot requireanunknownentityform.",
+        "No claimofvanishingcause: TaleHan/Collectors/attrition alternatives retained. Sourceaudio-not-captured versus protectedderivedaudibleequipment isnotcontradiction. Genericcombatcuttingwave treatedascomposurepressure, notproofphysicalwavevibration. Laterwhole-record/stat/indexrecheck retained."
+      ],
+      "result": "CHANGED — completed coherent written-design pass for an ambient bodilessObject/Place sound. Origin, arrival/turn, no-vibration, drift, conditionalexpansion, twoWorkresponses, multi-personcontact and derivedequipment now have supportedrelations without inventing body or intent. Remainingequipmenttrigger/taxonomy and censusprecision areexplicitlater-fix limits, notessentialsourceformconflicts. +0Types/+0Weapon/+1SE. Notfinalperfection orartcompletion.",
+      "commentary": "Risus works best when joy stays genuine: the grief belongs to hearing it after its makers are gone, not to discovering that the laughter was secretly evil. I kept the Commons empty and the paired listening intact. The blade, cloth and Bell should carry that relationship without making a vanished community into a collectible recording.",
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/150_Risus/SE-150-A__SIDE_CODEX_Risus.md": "860759ea072695c09585ca4a1c18fd53e0bf3a6c5fbfea24d18786fd10654511",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/150_Risus/SE-150-B__MAW-W_The_Laughter_Requiem.md": "195fe10a1274bb3c1e0fb85de336c06f232b590eb842d95e5e89287383788768",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/150_Risus/SE-150-C__MAW-S_The_Laughter_Shroud.md": "4c99e059b8999a5624bb653375557e2488ccd06b321a337fffe2e488149d1b4f",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/150_Risus/SE-150-D__MAW-G_The_Laughter_Bell.md": "83300cfe98253ed851433e493d94bea01f57f5a2052d17752221023585547c56",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/README.md": "01c037d615812fa66fb38618ff710f704f81cae9e213ebb3f3509f2bc82fb101",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "final_sha": "18b0d06c3ba515cdb718b40d5b6fc11c432a0020abaa1cfdfb0c1ea5bea118bb",
+      "before_words": 6557,
+      "after_words": 7113,
+      "outputs": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+        "tpl": "RESIDUE 0  SE-C-Iα-150_Risus_웃음의_메아리.md",
+        "sectfile": "0.021  clean   575 grams  Combat Record\n 0.019  clean   107 grams  Operational Parameters\n 0.017  clean   357 grams  Appearance\n 0.012  clean   243 grams  기록 (Registrum)\n 0.006  clean   326 grams  이야기 보고 (Story Log)\n 0.005  clean   980 grams  M.A.W. Equipment\n 0.000  clean   704 grams  감각 묘사 (Flavor Text)\n 0.000  clean   415 grams  이야기 (Narratio)\n 0.000  clean   267 grams  관찰 기록 (Observation Log)\n 0.000  clean   216 grams  Origin\n 0.000  clean   192 grams  Expansion Behavior\n 0.000  clean   183 grams  Behavior\n 0.000  clean   126 grams  Trivia\n 0.000  clean    98 grams  최종 관찰 (Final Observation)\n 0.000  clean    63 grams  증언 (Testimonium)\n 0.000  clean    37 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+        "sect": "31   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 15% against Lament pressure, 5% against other pressure types — a standing figure read at the Commons edge; noth\n   84   4  | { *The Full Crescendo* [**Attack**] } | \"Every laugh the loop has ever kept — forty to sixty voices, and eleven of ours — releas\n   85   7  | { *The Laughing Chorus* [**Ultimate**] } | \"Everyone hears it now — the laughter of a community four thousand years gone — and n\n  125   6  | **Identification** | Verify these observations against the SECC code before work or contact begins; Zone D holds more than one a\n  206   2  **Ability:** Lament damage to the mind, carrying the Echo's own signature — joy heard from outside, after the fact — and what it o\n  230   1  **Cost:** The wearer goes numb to small pleasures and reports it first as other people's jokes arriving as information.\n  267   1  | **During use** | Charging presents as the toll itself: weeping after laughing. The wielder's own account is taken separately and\n  269   1  | **After use** | Return the piece and open the sealed baseline: if the numbness outlasted the rotation, the entry stands and the \n  299   2  Risus (C-Iα-150 [LO]) is carried on the wing's register as a Lament manifestation expressing Lament. The Echo formed from laughter\n  401   3  **Review requirement:** Re-verify after any Sorrow Tide, after any change to Commons access, and after any session in which a work\nGENERIC 0.006  (30 shared shingles)  SE-C-Iα-150_Risus_웃음의_메아리.md"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_05_RISUS.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 1
+      },
+      "link": "[[SE-C-Iα-150_Risus_웃음의_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-150_Risus_%EC%9B%83%EC%9D%8C%EC%9D%98_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-C-Iα-150_Risus_웃음의_메아리.md\")]",
+      "table_link": "[Risus](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-150_Risus_%EC%9B%83%EC%9D%8C%EC%9D%98_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-C-Iα-150_Risus_웃음의_메아리.md\")",
+      "commit": "4452575cf7992bd6cf020c40dab7259ed69ea8aa",
+      "push": "PUSH VERIFIED"
+    }
+  ],
+  "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_CLOSE.json"
+}

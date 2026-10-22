@@ -147,12 +147,12 @@ Myrmidon holds a Subject-Lament manifestation and a Grudge expression, and is st
 **Reading the response:** Read it in the split and in what the worker has just said. A falling gauge presents as narrowing — the tear closing by a measurable fraction, the flicker slowing, the weeping quieter. The pressure eases and the cause is untouched; he is not reconciled, he has been told the truth once by one person. A rising gauge presents as **reasonableness**. The room becomes a discussion, the worker finds themselves explaining how a thing like that comes to happen, what the procedure was, why no individual is really to blame, and every word of it may be accurate. That is the failure. This entity does not respond to personal identity at all; it responds to representation, and a worker who has begun speaking for the institution has become the institution in the only sense that matters here. If it responds differently from the record, write that down; and write down what was said in the thirty seconds before.
 ## Breach Behavior
 
-> *"Myrmidon has broken free. Hunts personnel indiscriminately."*
+> *"Myrmidon’s Corrupt field is spreading. The figure remains in place; do not speak for the institution."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Corrupt |
-| **Movement** | Myrmidon pulses with concentrated force, cracking the walls around it. It hunts personnel indiscriminately. |
+| **Movement** | Myrmidon remains in place while the Corrupt zone warps and spreads. The effect can crack walls and harm personnel within it; field expansion is not the figure escaping to hunt. |
 | **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
 | **Secondary Effect** | It looks for the grievance a worker has not raised. Crews describe being watched while it decides, and the standing note in the file is that the one it picks is never the angriest person present — it is the one with something still unsaid about the institution they work for. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
@@ -213,7 +213,7 @@ The outside of it weeps. Condensation runs down the body into a shallow tray fix
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a pendant of Grudge Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a pendant of Grudge Han-iron, dark and faintly warm to the touch.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -241,6 +241,8 @@ The pieces came out of a loyalty that tore, and they carry the property faithful
 **Stat interpretation:** Grade describes output and nothing about what a piece takes, and this set takes something that does not show up in any rating: the wielder's ability to locate their own allegiance. Read both columns, authorise on the second, and ask the team rather than the wielder, who on this set will answer honestly and wrongly.
 
 **Full-set source review (2026-10-12):** Reviewed the β overview, all local Weapon/Suit/Stigma claims, the authorization and activation-cost claims elsewhere in the dossier, Use Notes, Field Use Record, and Stat interpretation against Side `SE-1021-A` (`O-IIβ-235 [GS]`, `4/4`), items `SE-1021-B/C/D`, Registry rows 246–249, Master M.A.W. entries 628–630, Entity Codex row 579, Tale 210, and archetypes `MAW-W-235/1021`. Side A has no standalone Appearance heading; none of the three linked items has an Appearance section or separately labelled transition. Hold primary/Master-table *The Torn Spirit-Urn* and the porcelain urn form against Side/item *Myrmidon's Fang* and detailed Entry 628 *The Torn Soul's Fang*. `MAW-W-235` describes a weeping porcelain regret urn / Reliquary at Instant; linked-code `MAW-W-1021` describes twin serrated bone-sickles / Blades at Room. Neither archetype band maps to the primary's Range 2 (Short), and no record connects these forms. The urn title and core porcelain/willow/pewter appearance also recur in Panopticon `C-IIβ-235`'s primary, but that separate `4/4` set and its linked item identify *The Watcher's Lens*; the repeated local block is not a shared-item crosswalk. Weapon combat values and Suit resistance/maximum/cost data align with the Side/items. The local Pendant / Tail / 5% / +1 Stigma record remains distinct from the Registry's generic Accessory slot; the Master Pendant/Choker class is broad, not an item-specific appearance. Tale 210 supports the betrayal/loyalty context, not an equipment identity. No disputed weapon form or value was normalized.
+
+## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
 
@@ -279,7 +281,7 @@ The grief of loving someone or something that became the instrument of one's har
 Management: Separate the person from the institution they represent; do not defend the institution. Work response — Flerehan: Reaches toward the worker through the tear. (Decrease); Pugnahan: Attacks symbols of authority and perceived representation. (Increase); Viderehan: Reveals the betrayal that split its identity. (Stable); Ferrehan: Weighs whether the worker can remain without defending the system. (Decrease). It has never attacked someone who openly admits the system's failures.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child to the Han. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+The commissioning file binds the service record to the proceedings against the same servant’s household. Their dates overlap, including commendations issued while the family was being ruined. Both records are regular in their own terms; reading them together exposes the betrayal without turning the account into a different family’s story.
 
 ## 최종 관찰 (Final Observation)
 
@@ -287,7 +289,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 | Do what the file sets out — separate the person from the office they hold, and defend nothing on the facility's behalf. | Trust your own judgement instead, which on this file has never once been cheaper than the clause. |
 |---|---|
-| It comes toward the worker through the tear; the sorrow is named and Myrmidon is recorded whole. | It turns on the marks of office instead; the reading climbs and Myrmidon leaves without being recorded. |
+| It comes toward the worker through the tear; the sorrow is named and Myrmidon is recorded whole. | It turns on the marks of office instead; the reading climbs and the observation ends without a record while the Corrupt zone remains unresolved. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

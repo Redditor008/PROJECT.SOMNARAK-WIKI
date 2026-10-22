@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIβ-275 [GP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on material left within the working volume while somebody present is carrying a grievance they have not stated. both condit |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on material left within the working volume while somebody present is carrying a grievance they have not stated. Both conditions are required and the second is the one the sweep cannot catch. |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Burning and creative |
 | **Potency** | Moderate (β) |
@@ -15,7 +15,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A squat, soot-blackened stone forge built around a fire that is not fire but a core of slow-pulsing crimson beating like an exposed heart. The anvil and tongs are crusted with dark, clawed metal that has grown rather than been forged, branching like bone. Heat rolls off it in waves that feel less like temperature and more like held breath before a shout. |
-| **Movement** | Stationary — a device (internal parts may move). |
+| **Movement** | Fixed Place — the hearth and working volume stay in situ; unattended metal shaping is activity within that volume, not locomotion of the holding. |
 | **Location** | Zone D, Forge District |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -117,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A forge that burns with crimson heat and shapes metal according to nearby anger. |
-| **Position / movement** | Stationary — a device (internal parts may move). Posture and distance are logged because on Crucible neither has ever been assumed. |
+| **Position / movement** | Fixed hearth and working volume. Record material within the volume and unattended changes to it; neither a finished object nor a moving tool establishes movement of the Place. |
 | **Material / signature** | Grudge. Soot-blackened stone, a crimson core that pulses at rest, and dark clawed metal on the anvil and tongs that has grown rather than been forged. |
 | **Distinctive markers** | Idle floor temperature at the fixed point — 74 °C this year — the branching growth on the tongs, and a sweep sheet with two full signatures and a time. |
 | **Identification** | If the floor is cool between watches, it is not this holding and somebody should be told today. |
@@ -199,7 +199,7 @@ Escalation here is thermal and it has two markers the file trusts: the idle floo
 | **Manifestation** | Place-Grudge |
 | **Primary effect** | Metal worked to the shape of what was not said; twenty per cent further through armour. |
 | **Duration / rate** | Until the grievance is stated aloud in the room. |
-| **Risk** | Moderate (β) Place-Grudge producing Grudge pressure; The forge demands more fuel; prolonged channeling causes severe third-degree thermal burns to the channeler. |
+| **Risk** | Moderate (β) Place-Grudge producing Grudge pressure; fuel and bellows do not determine duration. Prolonged channeling drains the operator, and overload or improper release can vent severe thermal burns. |
 | **Management** | Viderehan and Ferrehan, the sweep signed in full by both Wardens, and the naming order enforced without exception for rank. |
 
 **Activation reporting order:** trigger → idle floor temperature → what was in the working volume → what was said aloud and by whom → what was produced → disposal. The fourth field is the one that ends events and the fifth is the one that is reviewed.
@@ -254,7 +254,7 @@ Escalation here is thermal and it has two markers the file trusts: the idle floo
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the bearer's work on this holding, and the charm's recorded cost is that the wearer stops being able to let a grievance go unsaid, which two wearers have described as the best thing that ever happened to them.
+**Effect:** +1 Resilience during work on this holding. It distinguishes named anger from hidden emotional fuel; the bearer’s temper shortens. Two local wearers describe being unable to leave a grievance unsaid as a benefit, but that account does not make temper a reliable diagnostic instrument.
 
 **Ability:** A minor boon tied to this holding's own nature: it sharpens the wearer's sense of what is being left unsaid, which is useful at the hearth and awkward everywhere else, because the effect does not switch off at the door.
 
@@ -264,16 +264,20 @@ Escalation here is thermal and it has two markers the file trusts: the idle floo
 
 ### M.A.W. Use Notes
 
-The three pieces are the hearth in miniature, forged rather than grown, and each carries the District mark. What they give is listed above; what they take is felt toward objects rather than people — every tool, every fitting, every door that sticks — and the Armoury records the cost against the bearer rather than against the piece, because the piece goes back on the rack and the bearer does not.
+The three pieces carry different terms, not a single anger toll. The Hammer forms from cooled slag after a named nonviolent tool; binding names the anger and the object’s protective purpose. The Plate condenses from controlled-work slag and binds to named anger, a shift limit and an external supervisor. The Charm is bestowed after named resentment and a repair tool; it cannot be manufactured. Do not extend the Hammer’s resentment toward altered objects to every wearer or treat the local naming-order bestowal account as an extraction recipe.
+
+In the exact set, Charm audits hidden fuel, Plate protects the worker and Hammer shapes one declared repair or protective object. Manufacture of enemies for shaping speed is failure, not efficiency. Plate protection falls when supervision is treated as combat, and a short temper is not proof of another worker’s hidden grievance. Record the anger’s source, the requested change and the worker’s right to stop; logging anger alone does not resolve it.
+
+Care and release are piece-specific. Rework harmless scrap slowly without opposition for the Hammer, then set it on cooled slag before anger becomes the reason to continue. For the Plate, record stiffened joints during a cold Forge period; the supervisor ends the shift aloud before releasing the slowest joint, and no plate is reheated over unnamed blame. Stop production before removing the Charm: tearing it free while hot ignites hidden resentment in the room. The Armoury records each toll against the bearer; returning an item is not recovery.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline of the bearer's own temper, taken by the second worker from the shift register rather than asked for: what this set takes is anger toward objects, and the register is where it shows first. |
-| **During use** | The second worker logs the hour the bearer first swears at a fitting, and the hour they stop noticing they are doing it; the bearer's own account is entered separately and never in place of those two entries. |
-| **At limit** | The reflexes dull and the temper shortens at the same rate, and the use ends there whatever the wielder says. On this set the stand-down is logged by the second worker, because a bearer past the limit no longer notices the toll. |
-| **After use** | Piece returned, and the bearer re-assessed a week later, because neither effect presents on the day. A register entry that has not returned to baseline means the set is not reissued, and the weekly check is the one that catches it. |
+| **Before use** | Wielder, piece and a dated baseline taken by the second worker from the shift register, with the bearer’s own account kept separately. Record the Hammer’s object resentment, the Plate wearer’s reflexes or the Charm bearer’s temper as applicable, and enter the piece’s binding terms before use. |
+| **During use** | The second worker logs the onset of the piece’s own toll: resentment toward altered objects, dulled reflexes or shortened temper. Record refusal of rest or correction and any attempt to provoke opposition for speed. The bearer’s account is retained separately, not substituted for observations. |
+| **At limit** | Do not assume reflex loss and temper change proceed at the same rate. Record the piece and observed limit, then use its own shutdown or removal terms: cooled slag for the Hammer, the supervisor’s spoken shift-end for the Plate, and stopped production before Charm removal. |
+| **After use** | Piece returned and the bearer re-assessed a week later as well as during the watch; costs can already be apparent in use. Record the release performed and any continuing resentment, reflex loss or shortened temper. If the register has not returned to baseline, do not reissue; the weekly check does not replace immediate observation. |
 
 **Stat interpretation:** The grade tells you how hard it hits and says nothing about what it takes. This is a β set cut from a floor that has been absorbing the District's unsaid anger for four generations, and the cost is not proportional to the grade — it is proportional to how much the bearer has been keeping quiet, which is why the baseline register is taken at all.
 ## 관찰 기록 (Observation Log)
@@ -323,7 +327,7 @@ Crucible burns in Zone D — ancient, hot, made of crystallized fury. The Forge 
 
 | Hold to the condition: somebody states the grievance aloud, specifically, in the room, and the watch closes on controlled work (Cool the anger through naming and controlled work). | Keep it courteous — apologise, sympathise, admit to being tired in general, or explain somebody else's anger for them. Every one of those leaves the heat in the floor, and every failure on this file began that way. |
 |---|---|
-| Tests whether the worker can remain near heat and anger. The sorrow is named; Crucible is fully recorded. | Reveals the grief embedded in each weapon. The gauge climbs and Crucible withdraws without revelation. |
+| The grievance is named in the room and the heat falls under controlled work; record the floor again rather than claiming the long-term rise is cured. | The grievance remains unnamed and the heat remains. Material left within the live working volume can still be shaped; the fixed Place does not withdraw. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -338,7 +342,7 @@ The furnace breathes crimson at rest. The floor reads seventy-four degrees with 
 
 **When the entity activates:** Nothing moves at the anvil and the reading does not jump. What changes is the volume's answer to the material left in it: the metal takes a shape, and the shape is the thing somebody in the room has not said.
 
-**After departure:** The door seals and the room comes down four degrees within the hour, which is the holding's own relief showing on the instrument. What the party carries out is not heat: it is a temper that has been given a shape, and the ledger that would record it does not exist.
+**After departure:** After the grievance is named, the recorded drop is four degrees within the hour; departure or a sealed door is not the mitigation. Take the floor reading and the sweep sheet at watch-end, without treating that relief as reversal of the annual rise. The temper can leave with a worker even when nothing is left in the working volume.
 
 ### Interaction Pattern
 

@@ -213,6 +213,8 @@ The escalation is peculiar to this relic and is not a generic containment event:
 
 **Appearance:** a fang-curved blade of Grudge Han-iron, dark and warm to the touch, that shivers when it is raised — worked from the relic's outer casing, so it holds the same unsteady reading between forms that the relic itself does.
 
+The blade holds one historical shape at a time, and it takes that shape only after the wielder states where and when they are standing. Its current time shows as a faint mark along the spine before it will accept a target list, and it is aimed at listed return-copies rather than at the received object.
+
 **Damage:** Grudge 10–15
 **Speed:** 3 (Fast)
 **Range:** 3 (Medium)
@@ -234,6 +236,8 @@ The escalation is peculiar to this relic and is not a generic containment event:
 
 **Appearance:** a plated Grudge Han-iron harness, dark and warm, that shifts with the wearer's breathing — inside the cordon the plate reads warm at the collar, and bearers take the warmth as the relic's own weather rather than the body's.
 
+Its plates change shape when nobody is watching, and only the current-name strip across the sternum stays fixed. That strip is inspected before every other plate, and the harness is stored beside a current portrait rather than with the old owner's effects.
+
 **Resistances:**
 - Lament: 1 (Normal)
 - Grudge: 0.4 (Resistant)
@@ -252,9 +256,11 @@ The escalation is peculiar to this relic and is not a generic containment event:
 
 **Appearance:** an ember-charm of Grudge Han-iron, dark and warm in the palm, that goes briefly hot near sorrow; wardens carry it as the district's only proximity reading, because the relic can be in a street for an hour before anybody agrees where it is.
 
+The black core inside the charm is keyed to what is missed rather than to fire, and it will not cool beside an object described only by what it used to do. It is given by the source and never made, and it recalls one named object for as long as the acknowledgment lasts.
+
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 while this holding is the subject of the cycle and nothing anywhere else: the charm answers the relic's own register, and on the Old Lament line it is issued for the watch that will be standing the cordon rather than the watch that will be reading the form.
+**Effect:** +3 Resilience while this holding is the subject of the cycle and nothing anywhere else: the charm answers the relic's own register, and on the Old Lament line it is issued for the watch that will be standing the cordon rather than the watch that will be reading the form.
 
 **Ability:** Recalls one lost object to the wearer's hand.
 
@@ -264,16 +270,18 @@ The escalation is peculiar to this relic and is not a generic containment event:
 
 ### M.A.W. Use Notes
 
-All 3 pieces are cut from the relic's casing, and they carry what it carries: old injuries ache, prolonged use leaves faint bruising, and wielders mislay small possessions at a rate the wing has measured and declined to explain. The grade records extraction stability and nothing about any of that; the cost sits in the column beside it, which is why issue here is one rotation at a time.
+The three pieces are cut from the relic's casing and each carries its own charge. The Fang takes the wounds: every return-line leaves the bearer's old injuries aching, and its binding cost is bruising that reproduces the relic's discarded shapes. The Plate takes the certainty of place: reflexes dull under accumulated rejection, and a wearer called a former owner begins moving in that owner's habits. The Ember takes the object it recalls: the whole history arrives as the bearer's own grief, and a bearer who says *mine* before the object's current status is reviewed receives every earlier claimant's bond at once. The grade records extraction stability and nothing about any of that; the cost sits in the column beside it, which is why issue here is one rotation at a time.
+
+The set works on acknowledgment, not on age. Before the Fang cuts anything, the receiving witness names the acknowledged original and the copy list, because a strike made first creates another full-strength copy and an unlisted version redirects the line through the wielder. Return is an event in the present; restoration is a claim about the past. If anyone declares the object restored, every historical version returns and the Plate begins replacing the wearer's current identity — while the full-set resonance holds, the operators lose one present memory linked to the receiving room until the cycle ends, and no bearer keeps the returned object.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the gauge at issue, and a baseline kept by a second person: name four small possessions the bearer has not mislaid this month. The charge on this set takes injuries and belongings rather than memories, and the sheet is what the return gets measured against. |
+| **Before use** | Wielder, piece, the gauge at issue, and a baseline kept by a second person: name four small possessions the bearer has not mislaid this month. The current date and place are entered with the acknowledged original on separate metal slips, and the active copy list is read out before the Fang is raised. The charge on this set takes injuries and belongings rather than memories, and the sheet is what the return gets measured against. |
 | **During use** | The toll shows as an accumulation nobody announces: the old aches thickening, the bruising arriving without a cause, and a possession missing from a pocket the bearer would have sworn about. The hour goes into the log from the second worker's hand, never the bearer's. |
 | **At limit** | The limit is belonging itself: reflexes thin, and the bearer starts describing their own quarters as a place they are staying rather than a place they are from. On this set the use ends there, and the call belongs to the observer rather than the bearer. |
-| **After use** | Take the piece back and set the sheet against the person: are the possessions still on them, is the bruising accounted for, and do their own rooms read as theirs? The answer is entered whether or not the bearer agrees, and where the belonging has not come back the piece is not reissued. |
+| **After use** | Take the piece back and set the sheet against the person: are the possessions still on them, is the bruising accounted for, and do their own rooms read as theirs? Copy slips are melted and the original's slip is kept, the Ember is left to cool over an empty archive tray, and the entry records which relationship the bearer chose. The answer is entered whether or not the bearer agrees, and where the belonging has not come back the piece is not reissued. |
 
 **Stat interpretation:** Performance and human cost are separate axes, and the grade measures only the first: an efficient piece from this source can still leave its bearer Fractured, hollowed or sorrow-bound, and on this set the costs attach to memory and to place rather than to the body. Authorise on the cost column, and read a bearer's account of their own rooms as data.
 ## 관찰 기록 (Observation Log)

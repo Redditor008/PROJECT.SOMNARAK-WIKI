@@ -72,7 +72,7 @@
 | **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-D-01, Zone D — contained |
-| **Resolution Condition** | Provide a memory, vision, or proof that the child is at peace. Flerehan is most effective |
+| **Resolution Condition** | Read the accepted Presumption Return entry aloud at the line, in both children's names, without adding a claim that they are at peace. This acknowledges them; it is not a resolution. |
 
 ### Combat Actions
 
@@ -88,7 +88,7 @@
 
 1. **Tension:** She is known by three things before a word is spoken: a room held at exactly body heat, a lullaby in no language the archive has, and a ten-metre figure that looks like crystal from the doorway and like warm skin from close in. The approach is confirmed and the positions are taken only afterwards.
 2. **Clash:** The crew works from behind the painted line. The reaching is permitted, the holding is not, and nobody closes the gap for any reason including a colleague inside it — a second person inside the reach has never once reduced the time taken to get the first one out.
-3. **Resolution:** Closure here is containment, retreat, management, or the standing condition: **Provide a memory, vision, or proof that the child is at peace. Flerehan is most effective**.
+3. **Resolution:** Close with containment, retreat or management recorded separately. The revised condition is to read the accepted Presumption Return entry at the line in both children's names, exactly as published. A gauge fall is acknowledgment, not proof of peace or permanent healing.
 
 ### Consequences
 
@@ -119,7 +119,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A ten-meter feminine figure, crystal at distance and flesh near to, with a room-wide reach. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. The The Smothering Mother file carries the series rather than a single reading. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. The Smothering Mother file carries the series rather than a single reading. |
 | **Material / signature** | Grudge. Dark damp surface, hollow light-drinking eyes, 37°C, and a lullaby audible through the door. |
 | **Distinctive markers** | Arm extension against the painted line, interval between reaches, room temperature, and whether the lullaby stops when the door opens. |
 | **Identification** | If the room is cold, this is not her, whatever the door says. |
@@ -305,7 +305,7 @@ The containment logs put the hardening here: over three months the grief turned 
 
 > The watch on the Mother ends one of two ways, and the difference is what the observer does with the instinct the room produces: one keeps to the sheet and stays on the far side of the embrace, and the other tries to give her what she is asking for.
 
-| Hold to the condition: Provide a memory, vision, or proof that the child is at peace. Flerehan is most effective. | Try Pugnahan instead, which is the one response this holding has never tolerated. |
+| Hold to the revised condition: read the accepted Presumption Return entry at the line in both children's names, exactly as published. | Try Pugnahan instead, which is the one response this holding has never tolerated. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is named; The Smothering Mother is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Smothering Mother withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -320,7 +320,7 @@ She opens her arms, and your body moves before your mind decides. The embrace is
 
 **With continued exposure:** With time, the entity becomes less abstract and more specific. The Grudge is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Grudge becomes something you can taste, hear, or feel on your skin. The Subject-Body has crossed the line between containing and becoming.
+**When the entity activates:** The shift is physical. The body-heat temperature remains the recorded constant; log the arms against the line and the interval between reaches rather than treating a temperature swing as her established activation marker. The Subject-Body has crossed the line between containing and becoming.
 
 **After departure:** You leave, but the Grudge follows — in the hands, in the chest, in the particular silence of the corridor afterward.
 
@@ -462,7 +462,7 @@ The chamber's standing note on the practice is four lines long and is read to ev
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-D-01, Zone D — contained.
 - **Recognition detail:** A room at exactly body heat, a lullaby in no archived language, and a ten-meter figure that reads as crystal from the door and as warm flesh from close to.
 - **Record detail:** The Narratio described one child taken in a Zone D street against an Origin recording two children taken in Zone B, and the Zone B reading is correct — Zone D is where she is held, not where it happened. The Registrum was a block of referrals (*Per classification*, *See Origin section*) and has been written as a record. The Physical Form and Appearance readings — warm flesh and dark Han-crystal — are both retained as true at different distances. The breach rows claiming malice and cracked personnel are corrected against the Observation Log's *she holds and does not squeeze*, which four breaches support. The Apex Record, the name usage, the painted line and the empty-room series are preserved and extended.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. A stable gauge does not mean she is inactive.
 ## Document Information
 
 **Document ID:** SE-N-IVδ-005

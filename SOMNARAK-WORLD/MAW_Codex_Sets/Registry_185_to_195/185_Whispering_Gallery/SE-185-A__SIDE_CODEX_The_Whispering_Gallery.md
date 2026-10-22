@@ -31,7 +31,7 @@ Lives displayed as images after their names, histories, and witnesses were lost.
 
 ## PAGE 01 — OBSERVATION PAGE
 
-The portraits lean toward a listener but never provide a complete face. A whisper may restore one true detail, then leave a gap exactly where a tempting invention would begin.
+The faceless portraits lean toward a listener. Four portraits now have features, each returned after a name was recovered from a surviving document and inscribed on its frame. Those faces have not faded, but their likenesses cannot be verified. A whisper may restore one true detail, then leave a gap exactly where a tempting invention would begin; recognition alone does not authorise a name.
 
 **Readout:** Lament is primary; new unnamed memorials cause the whispering to spread through connected halls.
 

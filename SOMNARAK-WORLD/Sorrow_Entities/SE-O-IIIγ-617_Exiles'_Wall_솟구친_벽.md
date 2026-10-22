@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 16–22 per cycle, and the Gate station's note is that the figure has never varied with anything the wing controls. It varies with the destination column: each of the four entries SED has returned produced a measurable fall in the gauge and no change at all in the yield. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | α — Weapon, Suit and Stigma; the source remains Major (γ). |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | Stand at a marked station on the city side and say where the households went, if it is known, and that nobody ordered them out, which is known. Viderehan and Ferrehan only, and no part of any cycle involves approaching the shelter ground. |

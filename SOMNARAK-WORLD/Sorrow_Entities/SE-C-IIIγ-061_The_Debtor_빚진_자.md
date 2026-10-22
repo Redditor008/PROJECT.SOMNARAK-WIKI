@@ -110,7 +110,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** An old, bent man carrying an invisible burden measured at approximately 7.3 tons by Han-scales.
-- **Position / movement:** Walking or standing; never seated. Record the stoop angle against the chamber mark, the pace over the measured stretch, and the figure he is currently reciting.
+- **Position / movement:** Usually walking or standing; the Flerehan response explicitly records him sitting when he lets the worker hold a part of the burden. Record that Work condition with the posture, the stoop angle against the chamber mark, the pace over the measured stretch, and the figure he is currently reciting.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-C-01, contained with the Debt Triplets
 
@@ -119,12 +119,12 @@
 | Field | Detail |
 |---|---|
 | **Form** | An old, bent man carrying an invisible burden measured at approximately 7.3 tons by Han-scales. |
-| **Position / movement** | Upright, stooped, in slow motion around the chamber. Record the stoop angle from the fixed mark, the pace, and the recited figure at entry and exit. |
+| **Position / movement** | Usually upright and stooped in slow motion around the chamber; under Flerehan he sighs and sits, as recorded in Behavior. Record the Work condition, posture, stoop angle from the fixed mark, pace, and recited figure at entry and exit. |
 | **Material / signature** | Weight. Grey skin, swollen joints, laboured breath; lead-cold and damp with effort, with the smell of wet stone and iron over everything in the chamber. |
 | **Distinctive markers** | An old man bent under nothing, a recited total that only ever rises, and a ledger he has never once been asked to hand over. |
 | **Identification** | Confirm before Work or contact: designation C-IIIγ-061 `[WS]`, Weight expression, Subject-Body manifestation, Fragment (III) coherence, SECTOR-C-01 with the other two Triplets. |
 
-**Appearance protocol:** Take the stoop angle from the fixed mark, time the pace over the measured stretch, and write down the figure he is reciting word for word, including the units, which change. Those three are the holding's whole observational record and the third is the only one that moves. Do not describe him as *strange*. He is grey, cold, slow and courteous, and those are the fields.
+**Appearance protocol:** Take the stoop angle from the fixed mark, time the pace over the measured stretch, and write down the figure he is reciting word for word, including the units, which change. Those are the core appearance fields, not the whole watch record: Observation Progression also requires the other Triplets' gauges, the share taken and the post-contact account. The stoop can ease during Work and Flerehan can bring him to a seat; record those responses with the recited total rather than treating posture as unvarying. Do not describe him as *strange*. He is grey, cold, slow and courteous, and those are the fields.
 
 ## Origin
 - **Formation:** The Debtor is the grandfather aspect of the Debt Triplets: the one who incurred the original debt.
@@ -184,15 +184,21 @@ The Debtor is a Fragment (III) Subject with Subject-Body manifestation and Weigh
 
 **Appearance:** a heavy two-handed maul of Weight Han-steel, finished dark and heavier than its bulk accounts for, that sheds a thin film of Han when it is swung.
 
-**Damage:** Weight 7-12
+**Damage:** Weight 7–12
 **Speed:** 3 (Fast)
 **Range:** 3 (Medium)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
+**Attack Pattern:** Skewer
+**Target Coverage:** Up to 3 targets
+**Falloff Rule:** 100% → 70% → 50% along the strike line.
+
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Debtor's weight signature in the strike.
 
 **Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+
+The Maul’s Shared Load function carries measured Weight through the strike line rather than making an obligation disappear. It can distribute load across hostile barriers or willing allied carriers. Consent remains a limit on giving a burden to another person: a forced transfer returns doubled to the bearer. A line that can reach three targets is not authority to nominate three unwilling people as carriers, and a successful blow does not close the account that supplied it.
 
 ### M.A.W. Suit — The Burden Mantle
 
@@ -211,6 +217,8 @@ The Debtor is a Fragment (III) Subject with Subject-Body manifestation and Weigh
 **Ability:** It turns a Weight strike, but only the part of one that is owed: the mantle answers pressure with a claim behind it and does nothing at all against a blow that has none. It is proved against the Han, which the record glosses here as the reserves and the debt carried in them, and the filing says plainly that it guards nothing else.
 
 **Cost:** The wearer is tired the entire time they have it on, a flat weariness that neither builds nor lifts. The Armoury enters it on every issue form and has never written a treatment against it, there being nothing to treat.
+
+The mantle’s care follows the carried load as well as the cloth. Its front strip is left outward when folded, and the garment rests on a wooden stand off duty. Recording, sharing or resolving the burden is part of its return, not an optional explanation attached to a clean piece of fabric. The observer compares fatigue with the issue baseline before authorising another rotation; removal alone is not the recovery check.
 
 ### M.A.W. Stigma — The Burden Chain
 
@@ -232,13 +240,15 @@ The Debtor is a Fragment (III) Subject with Subject-Body manifestation and Weigh
 
 Every piece in this set is a fragment of the Debtor and carries what he carries: the bearer feels the weight come on and stays with it. The grade speaks to extraction stability and says nothing about price — the cost sits in the column beside it, and that column is why this set is issued for one rotation and no longer.
 
+The Burden Set’s resonance, *Carry It Together*, requires a full-set bearer accepting a documented burden and two witnesses agreeing to share the record. Weight is distributed through the designated group, and every participant carries the original debtor’s exhaustion until that obligation is formally closed. This equipment record concerns the load accepted for the operation. It is not a certificate that the first borrower’s ancient debt has been satisfied: the facility has no creditor’s standing, and its witnesses cannot acquire that standing by signing an issue form. The consent, measured portion and participants therefore stay identifiable rather than disappearing into a total.
+
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, The Debtor's toll being that the wielder feels progressively heavier. |
+| **Before use** | Wielder, piece, gauge and a measured baseline of carried Weight. For Shared Load, name the willing carriers and the portion each accepts; for Carry It Together, identify the two witnesses and the documented operational burden. A scale reading is not consent. |
 | **During use** | Watch for The Debtor's toll — the wielder feels progressively heavier — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The wearer carries a constant low fatigue, and the wielder has stopped reporting it — the usual end point for a The Debtor piece. The observer calls the limit. |
+| **At limit** | The wearer carries a constant low fatigue and has stopped reporting it; the observer calls the limit on this Debtor piece. A burden transferred without consent returns doubled, so an involuntary carrier is never substituted for a bearer who can no longer continue. |
 | **After use** | Return the piece, reconcile the baseline, and enter whether the constant fatigue has lifted. Where it has not, the piece is not reissued to that bearer. |
 
 **Stat interpretation:** What a piece can extract and what it costs the person holding it are separate accounts, and they rarely line up. An efficient item can still leave a bearer Fractured, hollowed or sorrow-bound; the Armoury's returns are full of bearers paying in years for pieces rated minor.
@@ -314,7 +324,7 @@ You hear the footsteps before you see him. Each step lands beneath a weight no e
 
 This holding is read against the rest of Zone C's obligation-built sorrows. Every relation below has been observed and filed and none of them is closed; the 2 inside the Triplets' boundary cannot be shut off to give a control, which is the standing weakness of the whole table.
 
-**Interaction method:** Take each party alone across several shifts before any pairing is attempted, and take all 3 Triplet gauges at every test whichever 2 are being studied. The onset of a shared change is entered with range, duration and trigger, the recited figure on both sides, and what remains once the parties are apart. Re-verify every cycle.
+**Interaction method:** Take solo baselines across several shifts where separation is permitted. The permanent Triplet neighbours have no solo baseline; retain their continuous co-presence series and state that limitation, rather than separating them to satisfy this method. Take all 3 Triplet gauges at every test whichever 2 are being studied. The onset of a shared change is entered with range, duration and trigger, the recited figure on both sides, and what remains once the parties are apart. Re-verify every cycle.
 
 
 ### Entity Interaction Record
@@ -329,7 +339,7 @@ The relations below count as points of contact rather than alliances, and none i
 | **The Inheritor** | Permanent neighbour. He is angry about the thing the Debtor accepts, and the two are audible to each other at all times. | Nine years of continuous co-presence. The gauges move in opposite directions on most shifts: work that calms one raises the other, reliably enough that the wing schedules around it. No solo baseline exists for either. | Both gauge series in full, the scheduling rule, and the absence of a baseline stated plainly. |
 | **The Rejector** | Permanent neighbour. He refuses what the Debtor accepts, and the file treats the pairing as the holding's central unanswered question. | Nine years of continuous co-presence. No exchange of any kind has ever been observed between them — no speech, no orientation, no correlated movement — and the gauges are uncorrelated. They share a wall and nothing else. | The null record in full, and the uncorrelated series. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Use solo baselines before co-presence where they can be obtained under the standing proximity rule. For the permanent Triplet neighbours, state that no solo control exists and use the continuous gauge series without treating it as an isolated experiment; do not separate them merely to supply a control. Record any shared change with distance, duration, trigger, Sorrow Gauge movement and battlefield effect, and any persistence after a separation that was permitted.
 
 ## 이야기 (Narratio) — The Tale
 

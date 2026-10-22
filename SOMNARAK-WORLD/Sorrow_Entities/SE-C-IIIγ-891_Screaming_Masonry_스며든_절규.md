@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-891 [D]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on a new obligation left undischarged within the district, which in old lament is a daily event and is why the relic is nev |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on a new obligation left undischarged within the district, which in Old Lament is a daily event and is why the relic is never cold. |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 16–22 per successful work cycle, taken off the contact sensors and never off the stone itself |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | Viderehan and Ferrehan only, this being an Object/Place. Observation is the whole of the value here: it is the only means by which the contents of the scream can be read, and the transcripts are the subject of the last three sections of this file. |
@@ -52,7 +52,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | No measured drift speed is supplied. The shard is already mobile in Old Lament; follow its bearing and wall-vibration line rather than treating it as a fixed device. |
 | **Resistance** | 35% against Weight pressure and 25% against everything else — resistance carried in the fabric rather than in anything that can be argued with |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 607/607 |
@@ -95,7 +95,7 @@
 
 - A worker who cannot hold begins answering it. They speak aloud, in the bay, to nobody, taking the other side of a conversation nobody is having; three such cases are on file and all three were noticed by a second Warden rather than reported.
 - Long exposure produces the characteristic injury of this holding: the worker becomes unable to leave an obligation unmentioned. They list their duties compulsively, accurately, to anyone present, and the listing is the symptom rather than the complaint.
-- The Masonry equipment lends the bearer the weight of duties that were never discharged, and charges them resilience by the quarter-minute. The relic is worn, and what it does while worn is in the Tool Use Profile above.
+- The original I-Relic’s personal wear carries the timed strain in the Tool Use Profile below. Do not transfer that clock to every extracted M.A.W. piece: the Maul has heaviness and aging, the Mantle fatigue, and the Ring the burden behind disclosed deception, alongside their source-attribution limits.
 - Unresolved, it goes quiet. The quiet is the escalation and not the end of it: the scream has entered masonry, the wall now holds it, and the district has a new fixture that will vibrate for as long as the building stands.
 
 ## Appearance
@@ -167,7 +167,7 @@ Screaming Masonry is a Fragment (III) Object/Place of Major (γ) potency, Object
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode** | **Personal bearing only under the local I-Relic protocol; mounting or rigging is forbidden.** The fit to the drifting shard remains undocumented. |
 | **Activation** | A new obligation left undischarged within the district. |
 | **Primary Effect** | +3 to the working attribute against the source entity, with +10% Weight resistance while borne. |
 | **Duration** | Continuous while worn, until the removal condition is met. |
@@ -197,7 +197,7 @@ Escalation here is absorption. Record the bearing, the vibration amplitude along
 |---|---|
 | **Trigger** | New unfulfilled obligations. |
 | **Manifestation** | Object-Lament |
-| **Primary effect** | +3 stat bonus while working the source holding, entered at issue and struck the day the bearer leaves the survey |
+| **Primary effect** | +3 stat bonus while working the source holding and personally bearing the relic under its wear protocol; a survey posting alone does not activate it |
 | **Duration / rate** | While equipped, until the removal condition is met. |
 | **Risk** | Major (γ) Object-Lament producing Weight pressure; strain and destabilisation for a bearer, and permanent absorption into a building where the passage is not managed. |
 | **Management** | Viderehan and Ferrehan only, certified relic protocol for any bearer, vibration line walked and marked each session, transcripts taken and filed in full. |
@@ -224,15 +224,17 @@ Escalation here is absorption. Record the bearing, the vibration amplitude along
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** The maul's damage is Weight, landed on the Han, which the sheet glosses as the sorrow held in reserve and the debt carried against it, with Screaming Masonry's weight signature in the strike and none of the wielder's in it. The pattern is a skewer down a line: the primary takes the whole of it, then a falloff to 70 and then 50 across the two targets it pierces, three at the most. The listed multiplier is applied to direct damage and to Tick damage separately, never once between them. The maul's work on a holding is to make its obligations audible, the same thing the entity does, and it is why the piece is graded δ and no higher.
+**Ability:** The maul's damage is Weight, landed on the Han, which the sheet glosses as the sorrow held in reserve and the debt carried against it, with Screaming Masonry's weight signature in the strike and none of the wielder's in it. The pattern is a skewer down a line: the primary takes the whole of it, then a falloff to 70 and then 50 across the two targets it pierces, three at the most. The listed multiplier is applied to direct damage and to Tick damage separately, never once between them. The Maul’s source record interrupts an immediate manifestation only after attribution to Screaming Masonry. Making obligations legible does not establish audible sound, and no higher or lower grade is inferred from that distinction.
 
-**Cost:** Heaviness accumulates on the wielder with use and does not leave when the maul goes back in the rack. Prolonged use ages them slightly, which the survey enters as a line and the medical side has never been asked about. The rest of the charge is common to the whole set: the bearer loses the ability to let a grievance pass unspoken, and in a Forge or a bay that is paid by the people standing nearby as much as by the bearer.
+**Cost:** Heaviness accumulates on the wielder with use and does not leave when the maul goes back in the rack. Prolonged use ages them slightly, which the survey enters as a line and the medical side has never been asked about. Keep the local compulsion to voice grievances beside, not in place of, the source’s shared corrosion: treating the district’s event as the bearer’s autobiography. The nearby team bears consequences too, but the individual cost is not a set-wide resilience timer.
 
 ### M.A.W. Suit — Screaming Masonry Mantle
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
 **Appearance:** a mantle draped in Weight Han-weave, dark as river stone and heavier than any weave of that thickness should be, that draws in when its source element is close. The drawing in is the only warning a wearer gets that Screaming Masonry is working, and it starts at the shoulders, where the weave lies flat against the collar. Both mantles are weighed at issue and weighed again at return, and what comes out between those two weighings is entered rather than explained.
+
+The mantle's safety doctrine is written on its own inner hem in the source's resolution clause — *acknowledge duties without accepting impossible blame* — because the walls' cry is real and is not a summons to answer for every failure in the stone. Worn through a full cycle the weave tightens at the shoulders as the shard comes near and loosens again once the vibration line is closed, and the fatigue a wearer reports is logged and never treated: a mantle whose bearer is still carrying it a week later is held from issue until that bearer has stood a full shift without it.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -244,13 +246,15 @@ Escalation here is absorption. Record the bearing, the vibration amplitude along
 
 **Ability:** Resistance to Weight damage; the Han is what stands behind it — the sorrow held in reserve, and the debt standing against it — worn against Screaming Masonry's kind of pressure. On the sheet the mantle reads warded against Weight at 0.5, normal against Lament and Grudge, and weak against Void at 1.5; it is therefore chosen for a holding where duty accumulates and not for one where something is cut.
 
-**Cost:** The wearer carries a constant low fatigue, the kind the survey logs and nobody treats, because it never rises to the level of a symptom and never clears either. It is entered at the door and entered again at the desk, and a mantle returned with the fatigue already standing in its bearer is not reissued that week. The weave neither causes that tiredness nor relieves it. It carries the wearer through the same pressure the walls are carrying, and the price of the crossing is the figure on the sheet.
+**Cost:** The wearer carries a constant low fatigue, the kind the survey logs and nobody treats, because it never rises to the level of a symptom and never clears either. It is entered at the door and entered again at the desk, and a mantle returned with the fatigue already standing in its bearer is not reissued that week. The exact Suit record names low fatigue as an operational cost; it is not cancelled by the absence of a new complaint. Resistance carries the wearer through pressure, not through a proof of recovery, and a logged cost is not clinical clearance.
 
 ### M.A.W. Stigma — Screaming Masonry Ring
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
 **Appearance:** a ring of Weight Han-steel, dark-grained and weightier than its size explains, that takes the light at no angle at all.
+
+The ring is conferred and never requisitioned, and what it returns is an itemisation: the scream parsed into specific unfulfilled duties, each disclosure arriving with the weight that made somebody tell it. Nine workers carry it and every one of them finished a transcript naming somebody still living in the district. Wearers describe the pressure at the sternum as steady and unbanded — it does not rise when a lie is told in front of them and does not fall when one is admitted.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -264,18 +268,20 @@ Escalation here is absorption. Record the bearing, the vibration amplitude along
 
 ### M.A.W. Use Notes
 
-Each Masonry piece is an extension of the entity rather than ordinary equipment. Each performs as recorded and charges the same coin: the bearer loses the ability to let a grievance pass unspoken, which in a Forge or a bay is a cost paid by the people around them as much as by the bearer.
+Each Masonry piece is an extension of the entity rather than ordinary equipment, and each carries its own charge on top of the coin they share. The Maul leaves a heaviness on the wielder that does not leave when the piece goes back in the rack, and prolonged use ages them slightly. The Mantle holds a constant low fatigue that the survey logs and nobody treats. The Ring makes its bearer feel the burden behind every deception they are shown, one weight at a time and in the order the transcript gives them. Keep the local compulsion to speak distinct from the exact items’ shared autobiographical corruption. Logged fatigue and aging remain welfare concerns, not evidence of harmlessness or a substitute for review. The original relic’s timed wear and detachment are separate from these three pieces’ costs and source-binding shutdown.
+
+Two rules govern issuing. The first is attribution: a piece interrupts the immediate hazard only after the team has attributed the response to Screaming Masonry, and no piece is signed out against an unattributed cry. The second is the set's limit, *acknowledge duties without accepting impossible blame* — a bearer who has begun describing the Old Lament failure in the first person has already crossed it. The set cannot heal the originating event; what it does is keep attribution and interrupt the immediate manifestation under Source Kept Distinct. It does not establish that a silent cry becomes sound. Violating the limit reverses the benefit and raises the source Gauge, and the ladder runs in one direction: first-person description of the event, then the piece repeating the source response outside contact, then the terminal state in which the manifestation uses the bearer as its new site. A named witness closes a piece by stating the source title and the source event while the bearer relinquishes it; the shutdown preserves the record in full and refunds nothing.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder identity, piece grade, entity gauge, operator composure, equipment condition, mission objective, current bearing of the shard, and the sensor baseline for the bay. |
+| **Before use** | Wielder identity, piece grade, entity gauge, operator composure, equipment condition, mission objective, current bearing of the shard, the sensor baseline for the bay, and the attribution of the response to Screaming Masonry entered before any piece is signed out. |
 | **During use** | Activation time, vibration amplitude at each sensor, chest pressure at one and three metres, bearing, first cost paid, and every utterance made legible. |
-| **At limit** | The bearer has begun listing obligations aloud, in order, without being asked — that, and not any figure on the sheet, is where this set ends, and the second worker calls the limit. |
-| **After use** | Detachment in order, injuries, lingering effects, cooldown, sensor record closed, transcripts filed in full and unedited, reuse authorisation. |
+| **At limit** | The second worker watches for unprompted obligation-listing but does not wait for it if the bearer already describes the source event as their own. Apply the exact piece’s witness shutdown at the first binding failure. The original I-Relic’s timed limits remain independently binding; a quiet bearer is not evidence that they can be ignored. |
+| **After use** | Detachment in order, injuries, lingering effects, cooldown, sensor record closed, transcripts filed in full and unedited, reuse authorisation, and — where a piece was closed on the set's own clause — the named witness, the source title and event as stated, and the acknowledgement that the record stands and the cost is not refunded. |
 
-**Stat interpretation:** The grade describes what the piece does to entities, not what it takes from the bearer, which is listed separately and is measured here in resilience per quarter-minute. No grade of equipment reduces that figure.
+**Stat interpretation:** The M.A.W. grade does not reduce the original I-Relic’s timed strain or convert it into a cost shared by every piece. Price Maul heaviness and aging, Mantle fatigue and Ring disclosure burden separately, with the attribution/corrosion ladder. Maintain each item’s bearer, trigger, response, cost and unresolved-detail record; cleaning or rest follows attribution review, not grade.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -328,7 +334,7 @@ Entry 5 closes the origin question rather than opening it. The Keeper assigned t
 
 ## 감각 묘사 (Flavor Text)
 
-Something floats through the Old Lament, but you hear it only in your bones. The weight arrives before the sound. A scream moves through the walls, carrying every duty abandoned by someone who said they would return. The city built itself on this pressure and calls the structure stable.
+Something floats through the Old Lament, but you hear it only in your bones. The weight arrives without recorded sound. A scream moves through the walls, carrying every duty abandoned by someone who said they would return. The city built itself on this pressure and calls the structure stable.
 
 
 
@@ -391,7 +397,7 @@ Some sorrows are about what was done to you. Screaming Masonry is about what you
 **Common Name:** Screaming Masonry
 **Containment Status:** Ambient — Old Lament, Zone B. There is no cell and no boundary. What exists is a sensor network on the tenement fabric, a current map, a marked vibration line, and a transcript series.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It has never injured anybody, cannot be heard, and does not pursue. It moves freely through an inhabited district, it is permanently absorbed into occupied buildings when a passage goes unmanaged, and it holds four generations of grievance in a form the facility can read and the district cannot. The earlier entry grading it Moderate described ambient pressure and stopped there; it is an error and is corrected here.
+**Threat Assessment:** Major (γ). The ambient record describes inaudibility and no pursuit; that is not a no-injury guarantee for contact or wear. The local relic protocol records Weight trauma and panic on overextended wear or rushed detachment. It moves freely through an inhabited district, it is permanently absorbed into occupied buildings when a passage goes unmanaged, and it holds four generations of grievance in a form the facility can read and the district cannot. The earlier entry grading it Moderate described ambient pressure and stopped there; it is an error and is corrected here.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type, with Viderehan holding the gauge level and producing the transcripts.
 - It travels through the tenement fabric on the district's sorrow currents; the current map is maintained and is good enough to post a watch ahead of it and not good enough to rely on.

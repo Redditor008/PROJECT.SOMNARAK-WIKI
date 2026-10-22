@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-900 [LS]` |
-| **Entity Type** | **Subject** — Can breach via Transform |
+| **Entity Type** | **Subject** — Recorded escapes consist of walking to an open tale's transcriber; no transformed escape body is documented |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -66,12 +66,12 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Minor tale-transcription hazard; not a Sovereign classification |
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Minor · R.D. Comprehension Level 1 — Trace |
-| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan and Ferrehan; the latter pair recover tales and lower the reading |
 | **Battlefield** | SECTOR-C-900 |
 | **Resolution Condition** | A tale is read to its end and written down. The gauge falls when the last line is transcribed and not before; an abandoned reading leaves the gauge exactly where the transcriber stopped. |
 
@@ -97,6 +97,14 @@
 - The M.A.W. cost here is borne by the Archive rather than by the wielder: three pieces, eleven tales, no way to get them back.
 
 ## Appearance
+
+**Manuscript body:** The upright vellum-and-ink figure is the body, while a readable facing page is its changing surface. A page becoming blank from an oblique angle is an observation condition, not disappearance of the entire figure. Shimmer, page-turn rate and a held page should be logged separately from its position beside the chair.
+
+**Movement and narrative effects:** Both escape accounts describe the same paper figure standing at a transcriber's desk and returning on foot. No alternate bodily transformation is supplied for the Transform label. A person recounting text as their own history is affected by the tale; it is not evidence that the original figure has relocated inside that person. The equipment corrosion records make a separate manifestation-through-bearer claim and must not be substituted for the observed source-body route.
+
+**Work and source limits:** The routine shift ends with the page marked and the same reader booked back. The appendix's different next-reader wording does not authorize reassignment of an unfinished tale. Instrument-based transcription, direct legibility and absent instrument readings are differently described in this file; do not invent a camera-only or direct-reading-only regime to join them. Record which method was actually used.
+
+**Derived pages:** The short folded-page Edge, shoulder-shaped Veil and page-disc Token are separate worked pieces. They need not match the whole figure's silhouette. Cutting pages has a documented archival cost; their availability and the missing unique tales require reconciliation, not an invented replacement manuscript.
 
 **Primary Form:** A figure made of paper and ink that shimmers when spoken to — its body is a manuscript of forgotten tales, pages turning beneath skin that is not skin but vellum.
 
@@ -150,7 +158,7 @@ The table says what the Work Types do and omits the only rule the sector enforce
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | The entity's tale influence spreads beyond containment and hunts through the facility. |
+| **Movement** | In both recorded escapes the paper figure walked to the desk of the transcriber with an open tale, then walked back after it was finished. No independent hunting cloud or transformed body is recorded. |
 | **Effect** | Lament pressure radiates — the tale register makes it personal, targeted, unavoidable. |
 | **First Target** | Whoever has an open tale in the register. In both breaches it went to that person's desk and stood by it, and in neither case did it do anything else. |
 | **Escalation** | +5 Lament drain per cycle, but the sector's note is that both breaches ended without suppression: the transcriber finished the open tale at their own desk and the entity walked back to SECTOR-C-900 unaccompanied. |

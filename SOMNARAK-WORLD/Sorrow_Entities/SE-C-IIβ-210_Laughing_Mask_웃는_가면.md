@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 12–18 per cycle, from an object that is already working when the team arrives and still working when they leave. The Mask Market station notes that this is the only holding it runs where nothing has to be started. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
 | **Recommended response** | Sit in the bay, time the silences, and let anybody laugh who finds something funny. Viderehan and Ferrehan only. Nothing is said to it and nobody performs. |
@@ -120,7 +120,7 @@
 | **Position / movement** | On a stand in a bay in SECTOR-C-01, and it has not been moved since Year 4,228. It does not need to be; it is audible from the market floor and always has been. |
 | **Material / signature** | A bright painted mask with a fixed wide smile and dark wet eyeholes, laughing without pause. Record the pitch, the volume at entry and exit, and — the reading that matters — the length of every silence. |
 | **Distinctive markers** | It stops when somebody laughs at something genuinely funny. Always, briefly, and the length of the stop is the only variable this holding has: a quarter of a second at worst, eleven seconds at best, measured 188 times. |
-| **Identification** | Verify these observations against the SECC code before work or contact begins; this district holds records on both faces of the same habit, and this is the one that is worn. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins: continuous laughter, imitated voices and wet eyeholes distinguish it from the other masks in the arcade. Wearing the source is not an identification test. |
 
 **Appearance protocol:** Record the lacquer, the fixed smile, and the eyeholes, which are wet and which the Market's own conservators have twice tried to attribute to condensation. Record whether the laughter is in a voice anyone present recognises. Do not put it on, do not hold it up to a face, and do not photograph it being held up to a face.
 
@@ -249,17 +249,21 @@ Escalation is silence getting shorter. Record the pitch, the volume, every silen
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 to work against the Laughing Mask itself, and nothing elsewhere in the Mask Market.
+**Effect:** +1 Composure during work against the Laughing Mask itself, and nothing elsewhere in the Mask Market.
 
 **Ability:** Conceals emotional distress behind convincing laughter.
 
-**Cost:** The wearer hears their own laughter after the mask is removed.
+**Cost:** The wearer hears their own laughter after the Stigma mask-charm is removed.
 
 *The facade is not manufactured. The Mask gives one to a worker who told a trader the truth about a bad day across a counter, and has given none to anybody who was polite about it.*
 
 ### M.A.W. Use Notes
 
 Every piece here is made from a performance that outlasted its performer, and each one makes its bearer better company than they are. That is the benefit and it is real: wielders are liked, briefed easily, and get cooperation. The cost is that they stop being able to produce an honest answer to a direct question about themselves, and the Armoury's only reliable test is to ask four times in a week and compare.
+
+The set is *The Empty Ovation*; its full-set resonance is *The Unscripted Pause*. A removal partner stays outside the Facade's influence while an unrehearsed human response interrupts the false laughter. For one breath the copied voices fall silent and the Lens can isolate a hostile mask echo without striking the person beneath it. The pause cannot be commanded or scheduled; a scripted reaction turns the set against the team. These pieces are not morale equipment and may not be used to make distressed personnel appear operational.
+
+Before issue, the Lens bearer names a protected memory; if its personal significance is lost, the partner takes custody rather than supplying a replacement story. The appointed Veil partner records the wearer's name and a true identity fact, then opens the collar from behind when the named thread answers. The Facade requires a named remover and a quiet, audience-free review; convincing laughter is not proof of fitness. For emergency shutdown, cover the Lens with an unpainted mask blank and turn it away from faces, remove the Veil backward using the identity fact, and have the assigned partner release the charm from behind after a concrete condition check. Breaking a piece is not a shortcut to removal.
 
 ### Field Use Record
 

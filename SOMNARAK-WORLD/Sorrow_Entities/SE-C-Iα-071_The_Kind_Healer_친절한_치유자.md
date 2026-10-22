@@ -122,7 +122,7 @@
 | **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every The Kind Healer cycle against the previous reading. |
 | **Material / signature** | Lament. Comfort-warm crystal, cold rain on old cloth, a steady low light, and the shudder that follows every treatment. |
 | **Distinctive markers** | Shudder length in seconds, blessing tally, hand brightness, and the direction it walks when somebody in the room is hurt. |
-| **Identification** | Stand at the rail with no injury on you. If it comes toward you anyway, somebody in the room is hurt and has not said so. |
+| **Identification** | Use existing observations of warm crystal, luminous hands and unhurried movement from behind the rail. An approach toward an apparently uninjured person warns of an undisclosed injury; it is not an invitation to contact. |
 
 **Appearance protocol:** Hand brightness against the chamber lamp, distance from the rail, direction of travel, and the shudder timed from the moment contact breaks.
 
@@ -167,7 +167,7 @@ Read the code and the coherence level before trusting a flat read: those two, no
 
 ## Breach Behavior
 
-> *"The Kind Healer has broken free. Hunts personnel indiscriminately."*
+> *"The Kind Healer has left the chamber. It is walking toward the injured. Clear its path and guide it back without striking it."*
 
 | Field | Detail |
 |---|---|
@@ -333,7 +333,7 @@ It approaches as if you are the most important person in the world. Its hands fi
 
 ### Interaction Pattern
 
-The Kind Healer stands on the shelf with the 5 records it has been read against — The Smothering Mother, The Orphaned Bell, The Forgotten Soldier, The Frozen Veil and The Hollow Choir. Not of the five is kept as an ally or a rival to it; each was filed as a resonance candidate and kept at that. In a shared event the watch reports a separate entry per run — what moved in station-keeping, in the gauges, or in either holding's own manner, or that nothing moved — and the note over the page is plain that the pairing rests on a resemblance and never on a measurement.
+The Kind Healer stands on the shelf with the 5 records it has been read against — The Smothering Mother, The Orphaned Bell, The Forgotten Soldier, The Frozen Veil and The Hollow Choir. None of the five is kept as an ally or a rival to it; each was filed as a resonance candidate and kept at that. In a shared event the watch reports a separate entry per run — what moved in station-keeping, in the gauges, or in either holding's own manner, or that nothing moved — and the note over the page is plain that the pairing rests on a resemblance and never on a measurement.
 
 **Interaction method:** Tally reconciled before and after by both keepers, shudder timed at every contact, and no pairing run at all with any holding that can produce an injury.
 

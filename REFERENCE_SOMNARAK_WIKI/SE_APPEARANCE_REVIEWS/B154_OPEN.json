@@ -1,0 +1,64 @@
+{
+  "batch": 154,
+  "base": "8a5090c1a3c874158097370fa703ea98035b810e",
+  "pending": 255,
+  "candidates": 102,
+  "pattern": "changes? shape|shifts? between.*forms|became (?:a|an|the) ",
+  "selection": "Pending only; remove the complete level-two M.A.W. Equipment section; descending matching-line count, full designation tie-break. Cues are not defects.",
+  "queue": [
+    {
+      "designation": "O-Iα-709",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-709_Forgotten_Tear_잊혀진_눈물.md",
+      "signals": 3,
+      "evidence": [
+        "- **The Event:** A death was treated as insignificant; the unacknowledged tear became a red crystal.",
+        "His death was treated as insignificant, and the grief, denied its dignity, turned from sorrow to anger, and the anger, crystallized, became a red tear that seethes.",
+        "Forgotten Tear is Object-Grudge: the figure of a grief forgotten before it could be expressed — the unacknowledged tear, turned to red crystal by the fury of its own dismissal. The Tear does not weep. It seethes — carrying, in its crystallized red surface, the anger of a mourner whose loss was treated as insignificant and whose grief, denied the dignity of acknowledgment, became the rage that the city's indifference produces."
+      ],
+      "sha256": "790e3757463cad31002d6e3b42165fc8d0dc26516fe3ea3bee19b92151bfcff7"
+    },
+    {
+      "designation": "C-IIIβ-014",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md",
+      "signals": 2,
+      "evidence": [
+        "- **The Event:** A resistance of approximately fifty citizens declared, “We owe nothing.” The Collectors seized their homes, Echoes, and memories. The denial became a creature that could literally consume debt.",
+        "The refusal — the fifty voices saying we owe nothing, the charcoal and blood on the cellar wall, the sheer exhausted certainty of people burdened with obligations they never chose — sank into the Weeping the way all sorrow sinks, and the Weeping, which makes everything solid, made it solid. The denial became a creature. Not a person. A hunger. A thing that walks the ledgers' margins and eats what is written there — consuming debt the way the fifty had refused to carry it."
+      ],
+      "sha256": "c6daba785b4faa4d82c246d84ba2c085d1a81ed5a6f9486054b4a7c7e20245b3"
+    },
+    {
+      "designation": "C-IIIβ-015",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md",
+      "signals": 2,
+      "evidence": [
+        "- **The Event:** Citizens demanded that debt be measured fairly rather than assigned by Collector preference. The demand became a scale.",
+        "Now the Collectors use the Scale themselves — not because it is kind, but because it is undeniable. A debt weighed on the Scale cannot be argued. A citizen measured on it cannot plead. The very fairness the citizens begged for became the system's most efficient instrument, because in Somnarak, fairness is not mercy. Fairness is the precision with which the city confirms that you owe exactly what it always said you did."
+      ],
+      "sha256": "9e17bbfade6f9f45db3d91f030fbadc22778a2655d6dcbb234d9c9fd1a542c61"
+    },
+    {
+      "designation": "C-IIIγ-061",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-061_The_Debtor_빚진_자.md",
+      "signals": 2,
+      "evidence": [
+        "- **The Event:** A debt was created and passed through generations. The first bearer became a figure still carrying it after everyone else inherited its consequences.",
+        "He paid his whole life. He did not finish. He died still owing, and the debt passed on, and his sorrow — the burden of an obligation that outlived its cause, the weariness of a man who paid and paid and was never free — sank into the Weeping and became a figure. The Debtor: Subject-Body, Weight-element, still carrying, still paying, the ledger in his hands open to a page whose reason no one can read."
+      ],
+      "sha256": "50aaf3f71d0e5bb346e31ab4347074ed0c4c2e3c68ac3e9021ef4919f1de65ff"
+    },
+    {
+      "designation": "C-IIIγ-063",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-063_The_Rejector_거부하는_자.md",
+      "signals": 2,
+      "evidence": [
+        "> *\"He said, 'It is not mine,' until the words stopped meaning anything. Denial protected him, then became the room he could not leave.\"* — Researcher Euncris Park, Collector's Row",
+        "The emptiness — the void left by the refusal of every claim — sank into the Weeping and became a figure. The Rejector: Subject-Body, Void-element, the third Triplet, the one who said no and meant it, and learned that in Somnarak the price of refusing what you never chose is to be left with nothing that was ever yours."
+      ],
+      "sha256": "1b9d1e060bc52b607e5a2a0b30924eb38b8c321fea6a93ea0be074e73edcb46b"
+    }
+  ],
+  "authorization": "p + always fixwd/make the docs batter",
+  "repair_direction": "Actively improve the complete documents wherever the source record supports a correction, not merely list defects. Whole-design holds do not prevent independent useful repairs. Do not force edits, invent canon or claim a hold resolved.",
+  "recovery": "Fetched verified8a5090c; NUL-delimited ls-tree/hash-object comparison proved all2379remote-tracked working files identical; reset--mixed changed only index/HEAD, no working-file rewrite. Clean before opening."
+}

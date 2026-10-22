@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A faint ghostly figure shaped like a single tear that has begun to burn — translucent, flickering, trailing heat. It appears and disappears around the Forge District without warning. Fever-cold, it smells of char; to see it is to feel a grief you cannot place. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | It appears and vanishes around the Forge District without crossing the space between, and it is not reliably where it was a minute ago. Record each appearance against the people present rather than against a position on the plan: it is the attendance that predicts it. |
 | **Location** | Zone D, Forge District |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -70,7 +70,7 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | The responses split two and two, and the split is the entity. Flerehan sharpens the figure and takes the hostility down; Ferrehan lets a worker stay beside it without pulling themselves together. Both bring the reading down, and both need the weeping to run out on its own. Viderehan shows the loss behind the tear and keeps the gauge flat. Pugnahan is the failure: it burns on borrowed fury and has lifted the reading on every deployment recorded. The filing is a Subject with a Subject-Phantasmal manifestation at Zone D in the Forge District; nothing from another denied-feeling record carries over. A flat gauge is not a safe session either: what this holding counts is neither force nor duration but interruptions, and the counter runs down on them. |
 | **Battlefield** | Zone D, Forge District |
 | **Resolution Condition** | Permit tears and name the loss; do not suppress the anger |
 
@@ -98,6 +98,9 @@
 - Left unresolved the sorrow does not disperse; it stays at the level the last interruption set and waits. The archive notes that the entity has never escalated during a shift in which somebody wept uninterrupted, including shifts where the weeping went on a long time and work stopped.
 
 ## Appearance
+
+**The missing drop’s outline:** This is a burning tear-shape, not a worker’s walking ghost. The city’s order removed the tear before its fall; the phantasmal outline gives the denied loss a visible edge without restoring liquid. Track its crimson mark separately from the figure’s appearance: a remaining trace is not proof that the figure is still in the bay. Neither a human origin nor the metal Fang and Plate makes the source corporeal. Its disappearance and reappearance are recorded against the people present, especially the person who stopped another’s grief.
+
 **Primary Form:** A faint ghostly figure shaped like a tear that has begun to burn. It appears and disappears around the Forge District.
 
 **Notable Features:** It leaves no moisture, only a brief crimson mark; it waits for someone to notice what vanished.
@@ -148,7 +151,7 @@ The responses split two and two, and the split is the entity. Flerehan sharpens 
 **Reading the response:** A falling reading under Flerehan means the worker wept and was left to it; the same fall under Ferrehan means they stayed near the figure without managing themselves. The reading rises when somebody is calmed, steadied, or thanked for holding it together, and it rises fastest when the person doing the calming means well — the file's own finding, and the reason the handling notes spend more words on kindness than on force.
 ## Breach Behavior
 
-> *"Swallowed Fury has broken free. Floods corridors with corrosive sorrow."*
+> *"It does not travel. It stops appearing in the chamber and starts appearing on the forge floor, one place at a time, closest to whoever last told somebody to stop."*
 
 | Field | Detail |
 |---|---|
@@ -173,7 +176,7 @@ The responses split two and two, and the split is the entity. Flerehan sharpens 
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that quivers when raised and settles when the bearer's hands do. It is a deliberately narrow tool; the armoury's note says the narrowness is on purpose, because this holding has only ever wanted one person's attention at a time.
+**Appearance:** A quivering crimson fang of Han iron, faintly warm, with a narrow curved blade. Naming loss before anger binds the grip. Record the posted composition order separately from its author: the Foreman’s Rule account severed the order, while the impulse to strike its author left a tear-shaped bruise until the dead worker was named. Clean the blade beside an acknowledged tear and archive the severed rule as a record, not a trophy. Anger seeking a body and burning bruises are corrosion warnings; every tear reading as a target request is the terminal warning, not a targeting instruction. Lay the blade flat while the grieving person names loss and intended action for shutdown. This Expression Cut record does not turn the source figure into a metal fang or settle the generic body-damage account below.
 
 **Damage:** Grudge 3–6
 **Speed:** 2 (Normal)
@@ -194,7 +197,7 @@ The responses split two and two, and the split is the entity. Flerehan sharpens 
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that smells of the forge it came off — a scent the district's own workers name before the armoury does, which is why the issue desk asks them to.
+**Appearance:** A warm, dark crimson harness of Grudge Han-iron smelling of char and the forge. Its throat plates and joints matter to inspection: in Locked Jaw, the foreman’s denial sealed the throat until he admitted fear and sorrow. Release Guard bears the first Grudge surge after hidden grief becomes visible; dulling follows resentment stored rather than expressed. At debrief, open each plate and name the emotion beneath it. Narrowing vocabulary and joints hardening at tears precede armor preserving permanent resentment. Remove from the throat downward while a witness permits expression; a quiet face is not proof of relief.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -212,7 +215,7 @@ The responses split two and two, and the split is the entity. Flerehan sharpens 
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** an ember-charm of Grudge Han-iron, dark and faintly warm, that goes briefly hot when somebody nearby is keeping something in. Bearers learn to read it the way a watcher reads a gauge.
+**Appearance:** A tail ember of crimson Han iron, dark and faintly warm until feeling is held in nearby. The coal does not consume. Record the feeling before spending its strength: in Lifted Crucible, rescue was possible, but denying the tears afterward made it reignite until rescue and loss were both named. Secret feelings becoming heat, failed social concealment and the body becoming a public furnace are escalating warnings. Voluntary expression lets the Ember release; forced removal burns the remover. Its granted status is distinct from manufacture of Fang or Plate, and its exposed grief must not be filed as the same expression loss recorded for the issued pieces.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%

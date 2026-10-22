@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-923 [GH]` |
-| **Entity Type** | **Hazard** — Can breach via Transform |
+| **Entity Type** | **Hazard** — Stationary overhead influence; breach widens the footprint while the anomaly remains fixed |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -66,14 +66,14 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Critical Grudge hazard; not a Sovereign classification |
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-923 |
-| **Resolution Condition** | The affected worker is at distance, has stopped shouting, and has not been answered. Separation resolves it in under two minutes in every one of the 63 incidents on file; nothing else has ever been required and nothing else has ever been tried twice. |
+| **Resolution Condition** | The affected worker is at distance, has stopped shouting, and has not been answered. Opening distance is the response across the 63 incidents on file. Mean duration is under two minutes, not an upper bound: an answered incident lasted four and a half. Keep silence while the affected worker recovers; the longer record does not authorize subdual. |
 
 ### Combat Actions
 
@@ -86,8 +86,8 @@
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Hatred Above by a directionless fury that arrives after nine to fourteen seconds beneath the footprint and then settles on whoever is nearest. The interval is the most reliable figure in the file and the movement rule is built on it, confirms the approach, and takes position before anything else is attempted.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Hatred Above's recorded combat actions.
+1. **Tension:** The team identifies Hatred Above by a directionless fury that arrives after nine to fourteen seconds beneath the footprint and then settles on whoever is nearest. The interval supports the crossing rule. Confirm the posted approach and take the watch position outside the footprint before attempting observation; do not wait beneath it to reproduce the anger for identification.
+2. **Clash:** Both valid Work Types are performed outside the line: inward-angled observation and waiting for the crossing interval. The separate equipment crossing record is not a work station beneath the anomaly. If anger appears, open distance and do not answer; no contest with an overhead body is documented.
 3. **Resolution:** Distance, a barrier if one is to hand, and silence from everybody else. The worker comes back on their own. The team does not debrief them at the spot and does not require them to say anything about it afterwards. It closes against the documented suppression condition: **open the distance, hold the silence, and let the range do the rest**.
 
 ### Consequences
@@ -97,6 +97,12 @@
 - No piece in this set may be carried across the footprint by two people. The custody rule is the movement rule: singly, at intervals, never in company.
 
 ## Appearance
+
+**An invisible overhead source, a marked floor:** Nothing visible or audible hangs above the corridor. The colder, brighter rectangle is the facility's lighting and marking system, not a luminous skin or cloud belonging to the entity. Side-mounted instruments look inward because the footprint is kept clear. The visible containment arrangement makes a fixed, otherwise unseen hazard recognizable without inventing a face, a storm front or a body to strike.
+
+**Pressure in a person, not a borrowed body:** Fury begins without a grievance and then takes the nearest other person as its subject. A worker stopping beneath the light or turning toward a colleague is a contact sign; that worker has not become the anatomical form of Hatred Above. The unknown first formation is not established by the date of the first incident, and no quarrel between current colleagues supplies the missing origin.
+
+**Expansion and portable pieces:** The footprint can widen while the overhead anomaly stays in place. The line and waiting places must then be moved; this is altered exposure geometry, not the hazard descending or walking. Blade, Veil and Token are derived equipment with separate bearer costs. Their reported marking-material extraction does not make the instrument mounts, lamps or angered workers parts of a source body.
 
 **Primary Form:** A stationary atmospheric anomaly above Zone C that generates localized fury in anyone beneath it. The anger is directionless at first, then focuses — always on the nearest other person.
 
@@ -121,7 +127,7 @@
 | **Position / movement** | Stationary and overhead. The hazard is the floor area beneath it — eighteen metres by eleven, marked out, lit differently, and crossed rather than occupied. The anomaly itself has not moved since the first survey. |
 | **Material / signature** | Nothing visible overhead and nothing audible. Instruments are mounted on the surrounding structure and angled inward, since nothing may be suspended beneath the anomaly or placed on the floor within the footprint; the engineers describe the arrangement as awkward and the readings as adequate rather than good. |
 | **Distinctive markers** | A directionless fury that arrives after nine to fourteen seconds beneath the footprint and then settles on whoever is nearest. The interval is the most reliable figure in the file and the movement rule is built on it. |
-| **Identification** | Ask who they were angry at. Under Hatred Above the answer is always the closest person and never a cause, a grievance, or an absent party. No other Grudge holding on the register produces an anger with no subject until a subject walks past. |
+| **Identification** | Use the inward-angled instruments, posted footprint and crossing record. The documented anger fastens on the closest person rather than an absent grievance, but identification must not elicit an answer from the affected worker or require the words shouted beneath the light to be recorded. |
 
 ## Origin
 
@@ -158,7 +164,7 @@ The pressure is measured from the sides, at an angle, by instruments that cannot
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** Separate affected workers, keep silence and re-survey the marked footprint. The field record specifies separation rather than subdual; neither an enlarged line nor a prolonged exchange authorizes physical suppression of an unseen overhead body.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per metre the marked line is found to be out of date, not per turn. The Y4244 widening took it to 70% in nine days and it returned to 40% within a shift of the re-marking.
 
 ## M.A.W. Equipment
@@ -171,8 +177,17 @@ The pressure is measured from the sides, at an angle, by instruments that cannot
 
 **Appearance:** a single-edged blade of Grudge Han-iron, dark and faintly warm, that glows along its edge when readied.
 
-**Damage:** Grudge 11–22 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Channels grudge grudge sorrow in each strike — the weapon does not cut flesh so much as cut at the grudge register of the target's grief.
+**Damage:** Grudge 11–22
+**Speed:** 2 (Normal)
+**Range:** 2 (Short)
+**Max Amount:** 4
+**Cost:** 25 Sorrow Echoes
+
+**Attack Pattern:** Single
+**Target Coverage:** 1 selected target
+**Falloff Rule:** None; 100% damage to the selected target only.
+**Damage Application:** Direct Grudge damage; the overhead anomaly’s spread does not add targets to the Edge’s strike.
+**Ability:** Channels Grudge sorrow in each strike — the weapon does not cut flesh so much as cut at the grudge register of the target's grief.
 **Cost:** The wielder experiences chronic fatigue in the dominant hand with each use.
 
 ### M.A.W. Suit — Hatred Above's Veil
@@ -180,6 +195,8 @@ The pressure is measured from the sides, at an angle, by instruments that cannot
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
 **Appearance:** a flowing veil of Grudge Han-cloth, dark and faintly warm, that tightens near its source element.
+
+The shelter does not remove the bodily record of small insults. Stiffening reflexes and anger reaching the voice before judgement are costs to record, not evidence that a grievance has been established. A worker’s own past and the source of pressure remain separate even when both feel personal.
 
 **Resistances:** Lament: 1.0 (Normal) | Grudge: 0.3 (Resistant) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -195,11 +212,16 @@ The pressure is measured from the sides, at an angle, by instruments that cannot
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's grudge sorrow, crystallized into wearable form.
+**Cost:** Old injuries and old resentments sharpen whenever the Token is used.
+
+The source event remains unidentified. Carrying the Token does not supply its missing history or make the nearest colleague responsible for it. First-person ownership of that unknown history is a warning sign; the return review keeps uncertainty rather than completing the account for the bearer.
 *A Token is found at the far edge of the footprint, on the outward side of the line, by the next person to cross alone. It has never been recovered by a pair and has never been found inside the marked rectangle.*
 
 ### M.A.W. Use Notes
 
 The Hatred Above set is made from the marking itself: the Edge from a line-stanchion, the Veil from the reflective tape used to re-mark the footprint, the Token from one of the cold lamps. All three were taken during the Y4244 re-marking, when the old line was being lifted anyway, and no part of the set has ever been cut from the footprint in use.
+
+At the return rack, enter the bearer, crossing interval, observed pressure and the piece’s cost before cleaning or rest. Do not enter the words shouted beneath the footprint: the prohibition on recording them remains absolute. Check dominant-hand fatigue for the Edge separately from the Veil’s rigidity and the Token’s sharpened resentments. The return record does not require reconciliation between colleagues to be reported, and no attribution review is performed by bringing two people under the anomaly together.
 
 ### Field Use Record
 
@@ -259,7 +281,7 @@ Contact is disorienting. The grudge pressure is familiar — every agent in Somn
 
 ## 상호작용 (Entity Interactions)
 
-Nothing here is addressed and nothing here has an author. The anomaly manufactures its anger inside whoever stands beneath it and hands it to the nearest body, so the three records kept beside it in the appendix are all holdings that put fury somewhere: a statue holding a strike it never threw, a judge that turns anger into a ruling, and a library whose fire keeps the pages it burns. What follows is read from this holding's own instruments — the internal sensors angled at the footprint, the crossing log, and the line re-surveyed each cycle.
+Nothing here is addressed and nothing here has an author. The anomaly manufactures its anger inside whoever stands beneath it and hands it to the nearest body, so the three records kept beside it in the appendix are all holdings that put fury somewhere: a statue holding a strike it never threw, a judge that turns anger into a ruling, and a library whose fire keeps the pages it burns. What follows is read from this holding's own instruments — the perimeter-mounted sensors angled inward at the footprint, the crossing log, and the line re-surveyed each cycle.
 
 **Interaction method:** Set this holding's own figures first: the 63 incidents, the posted crossing interval of 20 seconds, and the gauge ladder from the Y4244 widening. Then read the other record's figures beside them, enter whether either moved, and re-survey at the next cycle.
 

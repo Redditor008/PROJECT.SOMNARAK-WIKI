@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Non-Organic — A rust-colored patch of the Old Lament where whispers cling to walls, pipes, and abandoned metal, the corrosion itself the residue of old words. Lead-cold, it smells of wet iron; no body — only the rusting sound. |
-| **Movement** | Mobile — drifts or flows through the area. |
+| **Movement** | Spreading place — the affected patch advances along connected metal and old masonry; removing affected metal transfers the whispers to the next connected run, not to a travelling body. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | N/A — no body travel speed is recorded; extent is traced against fixed survey panels as the affected surfaces spread |
 | **Resistance** | 25% against Weight pressure; 15% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 357/357 |
@@ -122,6 +122,14 @@
 | **Identification** | Traced extent against the last survey. The patch is visually identical across its whole recorded range. |
 
 **Appearance protocol:** Trace the edge onto the fixed panel survey during the session, in square metres, twice. Photograph the lettered panels for comparison. Do not propose a reading of the shapes. The prohibition on proposing one is informal, has never been written down, and has been observed by everyone for sixty-eight years, which the archivist's note calls the most disciplined thing in the wing.
+
+### The listening place and its extent
+
+The discarded people, tools and responsibilities in the Tale do not supply a humanoid listener hidden in the pipes. The current visible form is the rust-colored area itself. Feeling watched from pipework is recorded as a sensation, not evidence of eyes; hearing a dead person's voice returned is not an observed human body. Weight describes the burden, while Place-Grudge names the manifestation.
+
+The survey panels stay fixed while the edge advances. Removing affected metal transfers the whispers along the connected run, so portable equipment and portable scrap do not establish a portable source creature. Nor does a larger traced area require a new silhouette: the combat record explicitly says the corrosion can look unchanged across different extents.
+
+The dossier still needs a supported account joining its conflicting records. The Tale's silent accumulation of refuse is not dated as an earlier stage of the speaking, duty-responsive patch; the current Origin's reorganisation and the longer survey history likewise lack a settled chronology. Legible speech-fragments in Operational Notes conflict with the unreadable, changing letter-shapes and the prohibition on proposing a reading. Recorded rust-shrapnel wounds also conflict with the repeated no-injury account. None of these differences is resolved by giving the place a mouth or declaring its registered Transform an observed new body.
 
 ## Origin
 - **Formation:** It formed on the ward's pipework during the Old Lament reorganisation, in the eleven weeks of it, and the first survey panel was fixed three months later by a maintenance foreman acting on his own initiative.

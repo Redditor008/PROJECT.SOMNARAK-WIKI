@@ -157,7 +157,7 @@ After the opening line (*"Ahuhuhu... alright, dearies!"*), the track **MAGICAL M
 | **Distinctive markers** | Two voices; external grey spirit during Mimi control; pink/blue staff glow during Shu Shu control; Cartoon Soot after self-hit. |
 | **Identification** | Confirm the body-soul composite and current control state before engagement. |
 
-**Appearance protocol:** Record current persona state, eye color, costume color, staff glow, tail movement, voice pattern, and any external spirit manifestation before combat begins.
+**Appearance protocol:** Record eye color, costume color, tail movement, voice pattern, and any external spirit manifestation before combat begins. Timestamp staff glow separately: its palette lags the body, so it records the preceding state rather than independently confirming who controls the present action.
 
 ## Origin
 
@@ -182,12 +182,12 @@ The Mewgical Girl cannot be safely managed by treating Mimi and Shu Shu as one o
 
 ## Breach Behavior
 
-> *"Mewgical Girl has broken free. Hunts personnel indiscriminately."*
+> *"Mewgical Girl is roaming. Both voices seek the bearer of an unspoken wish."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | The Mewgical Girl shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
+| **Movement** | The Mewgical Girl moves on foot toward the bearer of an unspoken wish. Both voices agree on whom to approach and disagree about what to do; the field record tracks a mobile entity, not a permanent chamber escape. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
 | **First Target** | Whoever is carrying a wish they have not said out loud — she finds those first, in either persona. The two voices agree on the choice of person and disagree about what to do with them. |
@@ -197,7 +197,7 @@ The Mewgical Girl cannot be safely managed by treating Mimi and Shu Shu as one o
 ### Escalation Notes
 
 - **Breach type:** Escape on foot, and the file is careful about the word: she is not running from the unit, she is looking for the person the wish was about, and both voices are looking for the same one.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
+- **Containment priority:** Address both voices before intervention. Follow the Management row’s conditional suppression authorization; Pugnahan provokes Shu Shu’s bombs and may draw Mimi into protecting the target, so it is not a guaranteed route back to control.
 - **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 - **Containment priority:** Get the unaddressed away first. The drain falls on whoever she is speaking to rather than on the room, and both voices agree about the choice of person — the disagreement is only ever about what to do with them.
 - **What ends it:** Nothing in the record ends a roam except both voices being answered by the same worker in the same conversation. The two recorded attempts to end one by forcing a single identity are the reason the file says so, and both closed with the body in soot and the drain still climbing.
@@ -252,7 +252,7 @@ Each M.A.W. piece carries both voices and must be treated as a conditional exten
 | **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; Mimi/Shu Shu control state, equipment color. |
 | **During use** | Activation time, voice overlap, charge time, beam color, bomb count, healing output. |
 | **At limit** | Duration, persona conflict, self-hit, Cartoon Soot, staff instability. |
-| **After use** | Return the piece and reassess in a week, because the cost does not present on the day: the wearer has been performing a happiness they do not feel, and the file's finding is that they notice it first in a room with nothing to perform for. |
+| **After use** | Record the selected piece’s toll now and at the delayed review. For the Staff, obtain both voices’ “no target” before closure; for the Costume, debrief in the wearer’s natural voice without transformation music and record the wearer, Mimi and Shu Shu naming themselves before unclasping; for the Bell, keep separate voice samples and record both personas acknowledging the bearer as neither of them. A delayed Costume cost is not evidence that every piece is symptom-free on the day. |
 
 **Stat interpretation:** The set's grade measures how cleanly the archetype was drawn off; it says nothing about the two voices the wearer will be carrying. A δ-grade focus that performs to specification can still leave a bearer who answers in two tones without noticing, and on this set the Armoury reads the second column before it reads the first.
 
@@ -348,7 +348,7 @@ The Mewgical Girl must be assessed as a two-identity network inside one body. Th
 
 **Interaction procedure:** Never treat the two identities as a single emotional response. Record the speaker, body state, color state, trigger, effect, and whether the second identity accepted or resisted the interaction.
 
-None of the four pairings is an alliance or a feud, and the archive files them by what they do to the two voices rather than by any meeting on record. Two of them — the Hand of Hope and the Kind Healer — act on Mimi and leave Shu Shu watching; the other two act on Shu Shu and leave Mimi trying to smooth the room afterward. The R.D.'s standing note is that a pairing which strengthens one voice without the other is a persona-conflict event waiting for a trigger, and is to be logged as one.
+None of the four pairings is an alliance or a feud, and the archive files them by what they do to the two voices rather than by any meeting on record. The Hand of Hope strengthens Mimi’s healing and shared Hope output; the Kind Healer calms Mimi while increasing Shu Shu’s suspicion. The Defiant Ember strengthens Shu Shu’s refusal and bomb output. The Trinity of Dawn can harmonize with both voices, with overload rather than a single-persona allegiance as its recorded risk. The R.D.'s standing note is that a pairing which strengthens one voice without the other is a persona-conflict event waiting for a trigger, and is to be logged as one.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -370,7 +370,7 @@ Their first battle was a disaster of bouncing bombs, missed targets, and one ver
 
 By the third battle, they had learned to aim together.
 
-They still argue. They still interrupt each other's songs. Mimi calls Shu Shu paranoid; Shu Shu calls Mimi naive, and then protects her anyway. But when the staff rises and both voices speak the transformation words, the body moves as one — not because they became the same person, but because they finally admitted that neither could save the other alone. The Mewgical Girl is the city's wish wearing a painted smile and a real fury, and she is, against every odds, still trying.
+They still argue. They still interrupt each other's songs. Mimi calls Shu Shu paranoid; Shu Shu calls Mimi naive, and then protects her anyway. But when the staff rises and both voices speak the transformation words, the body moves as one — not because they became the same person, but because they finally admitted that neither could save the other alone. The Mewgical Girl is the city's wish wearing a painted smile and a real fury, and she is, against all odds, still trying.
 
 ## 증언 (Testimonium) — The Testimony
 

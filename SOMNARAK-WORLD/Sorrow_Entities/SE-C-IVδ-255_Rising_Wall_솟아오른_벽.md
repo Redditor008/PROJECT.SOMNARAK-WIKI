@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
 | **Recommended response** | Flerehan and Ferrehan lower the gauge; Viderehan holds level; Pugnahan hardens it and is prohibited. Measure clearance above the Wall before entry, cap station time beneath it, and work with a trained spotter who is not the worker's regular partner. |
@@ -88,7 +88,7 @@
 
 1. **Tension:** The markers are the pressure and its height: personnel identify the holding by the standing column that bends the air into the outline of a person, never by an emotional impression, because the pressure acts on whoever is grieving and an impression is not a measurement. The clearance above the Wall is taken against the marked face before anybody enters, the station time beneath it is capped, and the spotter — a trained stranger, not the worker's regular partner — is named on the sheet before the cycle opens.
 2. **Clash:** The work is being lower than the Wall and staying that way: Ferrehan outlasts the pressure, Flerehan draws the reach and brings the height down, Viderehan returns structure and leaves the level where it was, and Pugnahan is prohibited on the row. One voice speaks; supervisors, commanders and everybody else stay silent, and the silence is not discretionary.
-3. **Resolution:** The watch closes in containment, in retreat, under management, or by the suppression condition: **Patient endurance and honest acknowledgment** **Patient endurance and honest acknowledgment** — the pressure outlasted rather than answered, the one-sided remembering acknowledged plainly, the height logged against the marked face at entry and exit, and the enclosure, if one has begun, talked down by one voice along a marked line.
+3. **Resolution:** The watch closes in containment, in retreat, under management, or by the suppression condition: **Patient endurance and honest acknowledgment** — the pressure outlasted rather than answered, the one-sided remembering acknowledged plainly, the height logged against the marked face at entry and exit, and the enclosure, if one has begun, talked down by one voice along a marked line.
 
 ### Consequences
 
@@ -119,9 +119,9 @@
 | **Position / movement** | Primary Form: A pressure-shaped humanoid that rises from the ground as a wall of invisible grief. |
 | **Material / signature** | No surface and no mass. A standing column of pressure that bends the air into the outline of a person, salt-damp, smelling of cold rain. Lament expression. Height is taken with a plumb line against the chamber's marked face, which is the only measurement this holding yields. |
 | **Distinctive markers** | Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions. Confirm it against the designation before contact; the registry holds more than one record of this form. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Identification** | Confirm the designation, Lament signature and Subject-Weight manifestation against the standing pressure outline, bent air and cold-rain smell. Use the marked face and clearance reading; an emotional impression alone does not identify the Wall. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the pressure-shaped outline and its height against the marked face, then the clearance above it and the worker’s position relative to the marked line. Note lowering, reaching or hardening separately from what the worker feels. Keep the trained spotter’s single voice during an enclosure; no closer inspection or second speaker is required to fill an observation field.
 
 ## Origin
 - **Formation:** The Wall formed from love that was never returned.
@@ -185,6 +185,8 @@
 
 **Cost:** The bearer retains, perfectly and without decay, every detail of people who have stopped thinking about them — and the counsellors screen for it at ninety days, because the bearers describe it as pleasant.
 
+**Requiem custody:** The individual Weapon record binds its bearer to the waiting citizen’s event and to patient endurance, not to an order to break the Wall. First-person claims about that event are its first corrosion sign; a response repeating outside contact is escalation. Keep those signs separate from the primary’s perfect retention of people who have forgotten the bearer. Clean or rest the Requiem only after attribution review. In an enclosure, the named spotter remains the single voice: item shutdown is not permission for another witness to begin speaking over them.
+
 ### M.A.W. Suit — The Rising Shroud
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
@@ -203,6 +205,8 @@
 
 **Cost:** The wearer becomes numb to minor joys.
 
+**Shroud review:** Loss of minor joys belongs on the Suit’s cost record even when the wearer calls the quiet helpful. Its item account separately warns that the source sorrow can become autobiographical. Record which response occurred, whose grief was being witnessed and what remains unresolved before cleaning or resting the cloth. Resistance does not supply clearance above the Wall, extend the capped station time or make an enclosure passable. Relinquishing the Shroud preserves the item record without cancelling either the emotional toll or the scheduled later review.
+
 ### M.A.W. Stigma — The Rising Pendant
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
@@ -217,7 +221,9 @@
 
 **Cost:** The wearer cannot lie about attachment.
 
-*The Rising Stigma is never manufactured and no one may requisition it. It has gone out on four occasions, every one of them to a spotter who talked a worker out of an enclosure and declined to be named in the incident report — a refusal the file records as the qualification rather than as modesty, since a spotter who wants the credit for the talking is a spotter who will talk too often.
+**Pendant testimony:** Seeing erased emotional history is not the same as establishing the wearer’s own past. The Stigma record requires attribution before care and names first-person identification with the citizen’s waiting as a warning. Keep the wearer’s statement of attachment alongside the source event rather than merging them into a single testimony. The inability to lie does not make every inference accurate, and the Pendant grants no standing to compel another person’s answer. Its +3 source-work benefit supplies neither an exception to the single-voice rule nor authority to close the outstanding deposit proposal.
+
+*The Rising Stigma is never manufactured and no one may requisition it. It has gone out on four occasions, every one of them to a spotter who talked a worker out of an enclosure and declined to be named in the incident report — a refusal the file records as the qualification rather than as modesty, since a spotter who wants the credit for the talking is a spotter who will talk too often.*
 
 ### M.A.W. Use Notes
 

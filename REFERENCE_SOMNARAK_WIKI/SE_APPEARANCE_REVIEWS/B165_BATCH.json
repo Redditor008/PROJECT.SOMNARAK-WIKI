@@ -1,0 +1,460 @@
+{
+  "batch": 165,
+  "status": "CLOSED",
+  "required": 5,
+  "completed": 5,
+  "no_change": 0,
+  "queue": [
+    {
+      "designation": "O-IIIγ-1052",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자.md",
+      "words": 2521,
+      "lines": 208,
+      "sha256": "4cc292684b77b6660007a1e9ed58cf90ea385e5f9e07b5256c93174e9f87f326"
+    },
+    {
+      "designation": "O-IVγ-1053",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘.md",
+      "words": 2962,
+      "lines": 206,
+      "sha256": "836b39a0598bdf066f11b5a2e7c450964e3e6f5caef253676170b2f6037e5e41"
+    },
+    {
+      "designation": "N-Vω-1055",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-Vω-1055_The_Ancestral_Guilt_조상의_원죄.md",
+      "words": 3158,
+      "lines": 206,
+      "sha256": "71aae71a03dc7899b6fe0e5d665d46b6d9338ac472142c9757c21adf6135e30b"
+    },
+    {
+      "designation": "N-IIIβ-1056",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IIIβ-1056_The_Unbroken_Pledge_깨어지지_않은_서약.md",
+      "words": 3546,
+      "lines": 212,
+      "sha256": "b8ae05da9aa0fd663d7cd0fd48ed07ff905b6d8977da06bcc060eb362b1fbd20"
+    },
+    {
+      "designation": "C-IIγ-071c",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md",
+      "words": 4092,
+      "lines": 278,
+      "sha256": "95761b1b8b9c61c486692d63386852a577d90653b68929e969d17f7eff424c3c"
+    }
+  ],
+  "reserves": [
+    {
+      "designation": "C-Iα-114",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md",
+      "words": 4577,
+      "lines": 388,
+      "sha256": "6f767a1dcd8cbbcc1216b3d75814417798391659f0fbdd9f73831a20b42ddf8f"
+    },
+    {
+      "designation": "O-IIIγ-412",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md",
+      "words": 4584,
+      "lines": 403,
+      "sha256": "1e60e6dd238d9aae19050a503c85e8d9cda8c673e7235e3307554cd5845578f1"
+    },
+    {
+      "designation": "N-IIβ-319",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선.md",
+      "words": 4647,
+      "lines": 404,
+      "sha256": "cbd6f544ca466350943e881e1db886f3c18bc3ec8aadb2ebfd4dec1214a58083"
+    },
+    {
+      "designation": "C-Iα-900",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼.md",
+      "words": 4749,
+      "lines": 346,
+      "sha256": "f6dea49b8eed0fc0e962a5acb4b7f43c53473124979ae1f06b4176bc8630252b"
+    },
+    {
+      "designation": "N-IIβ-919",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-919_Passing_Bell_조상의_시간.md",
+      "words": 4797,
+      "lines": 364,
+      "sha256": "b99c3324a6fc5d6c939686127202766ebc33f95899a8b7e35353f44dc2010fe8"
+    }
+  ],
+  "units": [
+    {
+      "designation": "O-IIIγ-1052",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자.md",
+      "words": 2521,
+      "lines": 208,
+      "sha256": "4cc292684b77b6660007a1e9ed58cf90ea385e5f9e07b5256c93174e9f87f326",
+      "name": "The Glass Silt Drifter",
+      "unit": 1,
+      "receipt": "B165_01_GLASS_SILT_DRIFTER.md",
+      "status": "held",
+      "repairs": [
+        [
+          "## Origin & Formation",
+          "## Appearance — Construct, Images and Range\n\nThe towering, emaciated biped is fused volcanic glass, obsidian flakes and copper slag, not a living courier inside armour. Its visible chest turbine carries spinning red sand. Running messengers belong to the formation history; no surviving human anatomy or earlier walking-human state is documented for this construct.\n\nThe known physical route stays within the vitrified corridor. The shell can shed caltrops and vent silica; neither those deposits nor the mirror images are additional wandering bodies. Fused Mirage lists decoys around the source, not a replacement of its chest or limbs. Distinguish the observed red shimmer from an independently confirmed body count.\n\nRecord the outline, fused materials, chest rotation, actual ground surface and separation from the engine. The numerical sand-speed entry and the ramming action require comparison with the escort record, which reports no off-glass sighting and describes matching rather than closing. Do not invent a sand expedition or a special pursuit form to bridge those accounts.\n\nThe Courier's Edge and Slag Mantle are derived shell pieces, not scaled copies or alternative bodies of the Drifter. Their different proportions do not by themselves contradict the source. The turbine is explicitly outside the recorded extraction process.\n\n## Origin & Formation"
+        ],
+        [
+          "| **Recommended response** | Pugnahan (shattering outer carapace) followed by Ferrehan (enduring thermal wake); Flerehan is ineffective. |",
+          "| **Recommended response** | The standing convoy order is non-engagement: keep the copper chain live, throttle down and let it fall back. The separate carapace-shattering advice and boarding-fracture procedure below are not permission to ignore that order; their authority remains unresolved. Flerehan is recorded as ineffective. |"
+        ],
+        [
+          "- Dispatching the entity with hydraulic weapons shatters its shell into harmless black pebbles that can be harvested for workshop optics.",
+          "- The hydraulic-dispatch account describes black pebbles recovered afterward for workshop optics. Do not treat that aftermath as a safety assurance for the active shell: live fragments are separately recorded detonating on impact, and routine convoy engagement and fragment bounties are forbidden."
+        ]
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/Unknown_Entities/SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘.md",
+        "SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/CANON_TIMELINE.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "scope": "Add concrete source/history/image/equipment appearance boundaries and align the recommended convoy response with the explicit non-engagement order; distinguish recovered pebbles from impact-active shards. No new anatomy, speed, thermal state or permission.",
+      "reasoning": "Complete209-line original read. OutsideSubject, silica-bound wandering construct expresses urgency through glass/slag biped and moving chest sand. Human couriers in formation do not imply a humanoid flesh phase. Body mobility and derived equipment can differ. However the escort record never off glass/matching speed and non-engagement conflicts with sand speed, closing ramming and attack/boarding advice without a documented operational distinction.",
+      "history": "B114unit2 f234c760a439991c0bafc4393f578b4488feec1f in both logs already full-source reviewed this primary-only set; +0Types/+0Weapon. Fresh exact1052/title/weapon searches found no externalA–D, Registry/Masterequipment, Entity/Tale or archetype record. Timeline198 records Outside frontier discovery, not a body specification. Complete SingingNeedle207-line counterpart read: same two early40km fallbacks, faint tone/cups turning/no song or stall, no causal claim. Disposition remains Neutral. No Stigma fabricated.",
+      "summary": "Three repairs add an Appearance section separating slag biped, courier origin, shed fragments, mirror images and shell-derived equipment. Recommended response now preserves the standing non-engagement order rather than endorsing carapace shattering. Recovered black pebbles no longer imply that live impact-active shards are harmless.",
+      "holds": [
+        "No off-glass sighting and matching-speed escort account versus sand-speed and direct ramming/charging record need actual conditions, not a fabricated state.",
+        "Non-engagement/throttle-only convoy order versus recommended shattering and mandatory nitrogen boarding response lack an authority crosswalk; hardware recovery is not engagement permission.",
+        "Needle overlap is two observations, not proof that its acoustic song repels the Drifter. Pieces remain primary-only; no exact external Weapon pair or missing Stigma inferred."
+      ],
+      "final_reasoning": "HELD: the nonhuman construct design itself is supported and its field/images/equipment are distinguished, but physical pursuit/ramming and safe response remain mutually unqualified. No appearance credit until that action relationship is supported.",
+      "commentary": "The sealed cylinders give this creature a purpose without making its body a literal messenger. I like that the caravans protect both the road and the unread messages. A bounty for fragments would erase that distinction, so the no-bounty order matters.",
+      "final_sha": "8607750a2835db62a6f034a708045dc371f21cc890501f3937341702aacbe95d",
+      "before_words": 2482,
+      "after_words": 2732,
+      "source_hashes": {
+        "SOMNARAK-WORLD/Unknown_Entities/SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘.md": "836b39a0598bdf066f11b5a2e7c450964e3e6f5caef253676170b2f6037e5e41",
+        "SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/CANON_TIMELINE.md": "cb7bf669d6dc3b678fd03b8023b783fee958b4260ddec774e05ec746fe32385d",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자.md\n",
+        "sectfile": " 0.000  clean   181 grams  Trivia\n 0.000  clean   170 grams  M.A.W. Equipment\n 0.000  clean   170 grams  Appearance\n 0.000  clean   161 grams  Combat Record\n 0.000  clean   133 grams  Containment Event Behavior\n 0.000  clean   130 grams  관찰 기록 (Observation Log)\n 0.000  clean   124 grams  이야기 보고 (Story Log)\n 0.000  clean   117 grams  Operational Parameters\n 0.000  clean   101 grams  Comprehension Levels\n 0.000  clean    92 grams  감각 묘사 (Flavor Text)\n 0.000  clean    64 grams  Behavior & Containment Protocols\n 0.000  clean    59 grams  Eyewitness Testimony\n 0.000  clean    39 grams  SECC Classification\n 0.000  clean    39 grams  Origin & Formation\n 0.000  clean    23 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "fraction 0.0\nPASS\n"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B165_01_GLASS_SILT_DRIFTER.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "no_change": false,
+      "link": "[[SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-O-III%CE%B3-1052_The_Glass_Silt_Drifter_%EC%9C%A0%EB%A6%AC%EB%AA%A8%EB%9E%98_%EB%B0%A9%EB%9E%91%EC%9E%90.md \"SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자.md\")]",
+      "table_link": "[The_Glass_Silt_Drifter](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-O-III%CE%B3-1052_The_Glass_Silt_Drifter_%EC%9C%A0%EB%A6%AC%EB%AA%A8%EB%9E%98_%EB%B0%A9%EB%9E%91%EC%9E%90.md \"SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자.md\")",
+      "unit_commit": "0996539436d1cd345cb146d370abc8f5eeaff138",
+      "push": "PUSH VERIFIED"
+    },
+    {
+      "designation": "O-IVγ-1053",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘.md",
+      "words": 2962,
+      "lines": 206,
+      "sha256": "836b39a0598bdf066f11b5a2e7c450964e3e6f5caef253676170b2f6037e5e41",
+      "name": "The Singing Needle",
+      "unit": 2,
+      "receipt": "B165_02_SINGING_NEEDLE.md",
+      "status": "changed",
+      "repairs": [
+        [
+          "| **Movement** | Hovering / Sub-Bedrock Boring (1.8 m/s). |",
+          "| **Movement** | The spire bores beneath bedrock and surfaces to sing (1.8 m/s); the needles hover around its apex. No free-flying spire is recorded. |"
+        ],
+        [
+          "- It is highly vulnerable to heavy blunt kinetic weapons (Mauls, Hydraulic Hammers) that shatter its crystal harmonic alignment.",
+          "- Heavy blunt impact is projected to shatter its crystal harmonic alignment from tests on fragments. No maul has reached the base node and no such strike has been tried on the spire; this is not established whole-body vulnerability or permission to approach it."
+        ],
+        [
+          "3. **Bludgeon Impact Neutralization:** Field squads should deploy heavy pneumatic breakers or mauls to target the base crystal node where bedrock anchoring occurs.",
+          "3. **Bludgeon Impact Neutralization — Untried Proposal:** The base crystal node is the proposed target for heavy pneumatic breakers or mauls, not a demonstrated safe engagement. The field return below records the inaccessible climb and kit burden; retain the ridge-crossing limits rather than treating fragment tests as a successful attack on the spire."
+        ],
+        [
+          "## Origin & Formation",
+          "## Appearance — Spire, Halo and Acoustic Event\n\nThe blue-white faceted column is the body that shears into the ridge. Its rotating apex halo is an acoustic needle arrangement, explicitly without a fixed form available for extraction; it is not a second walking creature or a detachable conventional crown. Hovering describes the needles, while the observed spire bores and surfaces within the Crystal Peaks. No airborne transit beyond the ridge is documented.\n\nThe splitting crust in the formation account explains the tuning-spire manifestation without a human throat or humanoid precursor. Wind collapse, molar vibration, stalled cups and diaphragm damage identify its song; sound and those consequences do not require a newly transformed body. Record visible column and halo separately from instrument readings. Wind-driven activation and approach distance are different logged conditions, not evidence of two different spires.\n\nCounter-phase attempts destabilise the halo, not the spire's base. The recorded failures prevent a general immunity claim. Equally, the fragment-based blunt-impact proposal is not an observed destruction of the body. Combat-table action descriptions must not erase the field return's explicit distinction between fragment tests and an untried base-node strike.\n\nThe Inverse Fork and Shear Mantle are worked from shed base crystal. Unequal maul tines and thumb-length scales need not duplicate the column or halo. Their silence and hearing effects belong to the equipment and wearer, not a claim that the spire adopts those wearable forms.\n\n## Origin & Formation"
+        ]
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/Unknown_Entities/SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자.md",
+        "SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/CANON_TIMELINE.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "scope": "Correct whole-column hovering ambiguity using explicit boring/surfacing record; label projected fragment-based blunt vulnerability and base-node proposal untried, and synthesize body/halo/equipment boundaries. No dimension, speed, instrument count or threshold changed.",
+      "reasoning": "Complete207-line original, physical column and field song reviewed together. Subject/Phenomenon acoustic crystal body fits tectonic rupture sorrow without human anatomy. Column moves in rock, halo hovers and falls under counter-phase. Wind40knots and proximity100m are separate conditions, not different forms. Apparent blanket blunt vulnerability and mandatory base attack conflict with explicit never-tried spire account and need qualification.",
+      "history": "B114unit3 9ece83ccfb26e680daf02d535d2161ea465d509a already primary-only Types/Weapon source review, +0/+0. Exact1053/title/InverseFork search found no externalA–D equipment or separate Tale/body record; numeric077 SingingNeedle registry hit is MemoryThief, excluded. Full Drifter counterpart read at unit1 and source hashes preserve that version. Timeline198 frontier discovery and dispositionNeutral do not add new anatomy.",
+      "summary": "Four repairs identify the spire as the boring/surfacing body and hovering as its halo; replace proven blunt vulnerability with fragment-based projection; mark pneumatic base assault untried; add complete Appearance linking geological sorrow, column, acoustic halo, observable song, failed counter-phase attempts and worked base-crystal equipment.",
+      "holds": [
+        "Blunt impact against the complete spire remains untried; no extra vulnerability or clearance asserted.",
+        "Drifter early fallback remains unexplained, with faint tone/no song/no stall. Do not infer acoustic repulsion.",
+        "No exact external A–D set or artwork inspected; previous primary-only source credits are not awarded again."
+      ],
+      "final_reasoning": "CHANGED: whole written design is coherent after disambiguating the halo from column motion and preserving the explicit boundary between tested fragments and untried body attack. Instruments, wind/proximity conditions, normal/subsurface/surfaced song state, combat methods and equipment are traceable without a new form. The retained experimental uncertainty is not a contradictory body requirement.",
+      "commentary": "The strongest image is not the tall crystal but the cups stopping before anyone bleeds. The morning drill including the cook makes this a staffed, costly pass, not a decorative singing mountain. Keep that uncertainty instead of giving the squad an easy hammer solution.",
+      "final_sha": "df5cc111e9eee2ff48d3ea239437bbd1e68975219cac52d2a55e41a930433a06",
+      "before_words": 2929,
+      "after_words": 3230,
+      "source_hashes": {
+        "SOMNARAK-WORLD/Unknown_Entities/SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자.md": "8607750a2835db62a6f034a708045dc371f21cc890501f3937341702aacbe95d",
+        "SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/CANON_TIMELINE.md": "cb7bf669d6dc3b678fd03b8023b783fee958b4260ddec774e05ec746fe32385d",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘.md\n",
+        "sectfile": " 0.000  clean   280 grams  이야기 보고 (Story Log)\n 0.000  clean   275 grams  M.A.W. Equipment\n 0.000  clean   274 grams  Containment Event Behavior\n 0.000  clean   243 grams  Trivia\n 0.000  clean   207 grams  Appearance\n 0.000  clean   191 grams  관찰 기록 (Observation Log)\n 0.000  clean   166 grams  Combat Record\n 0.000  clean   109 grams  Behavior & Containment Protocols\n 0.000  clean    80 grams  Operational Parameters\n 0.000  clean    79 grams  감각 묘사 (Flavor Text)\n 0.000  clean    69 grams  Comprehension Levels\n 0.000  clean    46 grams  Eyewitness Testimony\n 0.000  clean    41 grams  Origin & Formation\n 0.000  clean    36 grams  SECC Classification\n 0.000  clean    23 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "fraction 0.0\nPASS\n"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B165_02_SINGING_NEEDLE.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 1
+      },
+      "no_change": false,
+      "link": "[[SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-O-IV%CE%B3-1053_The_Singing_Needle_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%B0%94%EB%8A%98.md \"SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘.md\")]",
+      "table_link": "[The_Singing_Needle](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-O-IV%CE%B3-1053_The_Singing_Needle_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%B0%94%EB%8A%98.md \"SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘.md\")",
+      "unit_commit": "ed68abb37ad23d5d3cdbb829364ffb772f8c1cd2",
+      "push": "PUSH VERIFIED"
+    },
+    {
+      "designation": "N-Vω-1055",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-Vω-1055_The_Ancestral_Guilt_조상의_원죄.md",
+      "words": 3158,
+      "lines": 206,
+      "sha256": "71aae71a03dc7899b6fe0e5d665d46b6d9338ac472142c9757c21adf6135e30b",
+      "name": "The Ancestral Guilt",
+      "unit": 3,
+      "receipt": "B165_03_ANCESTRAL_GUILT.md",
+      "status": "changed",
+      "repairs": [
+        [
+          "- The Ancestral Guilt embodies the metaphysical truth of Somnarak municipal society: debt is hereditary, spiritual, and inescapable.",
+          "- The Ancestral Guilt embodies the municipal burden of hereditary debt. Its crushing pressure is not inescapable in every interaction: the studied acknowledgement response lowers it, while the underlying obligations and archived records remain."
+        ],
+        [
+          "- The wielder feels an agonizing physical gravity proportionate to their family's cumulative debt: knees buckle, ribs crack, and ink seeps from pores.",
+          "- A person in the vault feels an agonizing physical gravity proportionate to their family's cumulative debt: knees buckle, ribs crack, and ink seeps from pores. This is exposure to the entity, not use of an extracted M.A.W. piece; none exists."
+        ],
+        [
+          "3. **No Contract Severing:** Do not attempt to burn or shred the entity's scrolls with fire; each destroyed document doubles the entity's kinetic mass.",
+          "3. **No Contract Severing:** Do not burn, tear or shred the entity's scrolls. The single recorded accidental tear doubled the measured loading; repeated doubling is the precautionary model, not a sequence of tested destructions. Removing deposited ink slag is separately recorded without that increase."
+        ],
+        [
+          "## Origin & Formation",
+          "## Appearance — Ledger Body, Script and Testimony\n\nThe classification describes a colossal ledger phantom with paired ink-stained hands. It is a paper-and-contract scribe construct, not a human ancestor inside a costume. The inherited shame and failed record purge account for its material and behaviour; neither requires a flesh body before the ledger form. Its documented event is an audit expansion in the vault, not an escape into the city.\n\nSeparate the creeping paper and following body from script on the walls and a visitor's arm. That script identifies exposure and lineage; it does not turn the visitor into the scribe. Likewise petrified ink slag is deposited material that has been removed, not a captured copy or proof of a destructible legal vessel.\n\nThe classification's height and paired-hand description are not new measurements from Jin-Soo's account. His thirty-foot recollection remains attributed eyewitness testimony; the shorter references to thirty hands and pens in action and sensory reports do not establish a second complete limb census. Retain those source distinctions rather than inventing growth, amputations or a changing hand count to reconcile them. A confirmed measurement or full count would need its own record.\n\nThe Combat Record is explicitly a model, not footage of a fought suppression or a witnessed transformation of the vault into a new body. The one accidental tear supports the no-cutting rule without proving repeated exponential growth. Acknowledgement can lower pressure without erasing the paper, the debt or the need for timed clearance.\n\nThe Foreclosure Seal and Severed Line are theoretical equipment profiles only. The maul and blank coat need not reproduce the scribe's silhouette; neither has been extracted, issued or worn. Descent logs, wash-down lines and recovery intervals describe keepers exposed to the vault, not field tests of either item.\n\n## Origin & Formation"
+        ]
+      ],
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "CHANGELOG.md",
+        "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS.md"
+      ],
+      "scope": "Separate witnessed exposure from equipment use, the one observed loading double from repeated-destruction projection, and physical ledger body from script/slag/theoretical equipment. Keep numeric height and hand descriptions attributed, not silently normalized.",
+      "reasoning": "Complete207-line original read through interactions/footer. Inner Subject trans-generational ledger construct, inherited hopelessness and purge formation support a paper phantom with many hands. No suppression occurred: combat is model. Hands/pen shorthand and uncleared Jin-Soo testimony are not proof of alternative anatomical states; classification remains unaltered, uncertainty explicit. Script-first movement, central-hall audit, line-based targeting and relief via acknowledgement are coherent with this body. Theoretical gear need not match it.",
+      "history": "B114unit1 1bac7a9f0616e996eea324891189a17211a2a6a9 already reviewed this full primary and recorded no extracted piece/no exact external A–D or Weapon crosswalk, +0Types/+0Weapon. Fresh exact1055/name search found only primary and unrelated ForeclosureSeal move/CantoProjection labels, not equipment. InheritedDebt019 is a separate entity with its own set; this review does not import it. Current Negative disposition covers vault-scale harm. Both historical logs reread for the exact unit.",
+      "summary": "Four supported repairs replace absolute inescapability with acknowledgement-sensitive pressure; correct wielder wording to exposed person because no gear exists; qualify repeated mass doubling as a precautionary model after one accidental tear; add Appearance separating ledger phantom, visitor script, slag, limited eyewitness height/count reports, modelled combat and entirely theoretical M.A.W.",
+      "holds": [
+        "No suppression, repeated tearing, mass reconciliation of the purge or gear extraction is claimed; those remain untried.",
+        "The classification height and paired hands are preserved; Jin-Soo's height and short hand/pen reports are not silently converted into measurements. Future measured census belongs in the later recheck backlog.",
+        "InheritedDebt overlap is four people's postings, not co-location, immunity caused by either entity, or shared equipment. No Weapon pair credit.",
+        "Disposition index retains an older absolute mass-growth quotation and modelled-sector-harm language; refresh its evidence wording in the later source recheck, without silently changing Negative classification here."
+      ],
+      "final_reasoning": "CHANGED: source-attributed dimensions and count reports remain qualified, and the ledger construct's origin, creeping/audit movement, script effects, acknowledged relief, cutting hazard and modelled combat now distinguish observations from projections. No new transformation is needed. Explicitly theoretical equipment is not a written-body defect or extraction completion.",
+      "commentary": "The page in the trainee's fist and the Bureau refusing to read its own purge are the sharpest details. The sorrow is inherited bookkeeping made physical, not merely a huge clerk. Protecting that distinction also keeps the blank coat a disturbing theory rather than a conveniently tested escape route.",
+      "final_sha": "9e9275a5ebaedd195874627c289fd4b63d964646a2230a85cfb6e1818341c8ba",
+      "before_words": 3125,
+      "after_words": 3471,
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "CHANGELOG.md": "6c64bf5a0644c9c2dddcadd2b4486dce0123a883d54e6a26eb047f402db17ce6",
+        "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS.md": "1d6c4142d7326dd5c584b1ae3e0275fedea89e348f5ba0a49f03424a1e01c704"
+      },
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-N-Vω-1055_The_Ancestral_Guilt_조상의_원죄.md\n",
+        "sectfile": " 0.000  clean   353 grams  이야기 보고 (Story Log)\n 0.000  clean   273 grams  Containment Event Behavior\n 0.000  clean   265 grams  Trivia\n 0.000  clean   262 grams  Appearance\n 0.000  clean   253 grams  관찰 기록 (Observation Log)\n 0.000  clean   240 grams  M.A.W. Equipment\n 0.000  clean   175 grams  Combat Record\n 0.000  clean   113 grams  Operational Parameters\n 0.000  clean   103 grams  Behavior & Containment Protocols\n 0.000  clean    93 grams  Comprehension Levels\n 0.000  clean    87 grams  감각 묘사 (Flavor Text)\n 0.000  clean    70 grams  Eyewitness Testimony\n 0.000  clean    46 grams  SECC Classification\n 0.000  clean    30 grams  Origin & Formation\n 0.000  clean    22 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "fraction 0.0\nPASS\n"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B165_03_ANCESTRAL_GUILT.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 1
+      },
+      "no_change": false,
+      "link": "[[SE-N-Vω-1055_The_Ancestral_Guilt_조상의_원죄](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-V%CF%89-1055_The_Ancestral_Guilt_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%9B%90%EC%A3%84.md \"SE-N-Vω-1055_The_Ancestral_Guilt_조상의_원죄.md\")]",
+      "table_link": "[The_Ancestral_Guilt](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-V%CF%89-1055_The_Ancestral_Guilt_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%9B%90%EC%A3%84.md \"SE-N-Vω-1055_The_Ancestral_Guilt_조상의_원죄.md\")",
+      "unit_commit": "0ee44c65aa1c5418a0df2fd465d1560626432260",
+      "push": "PUSH VERIFIED"
+    },
+    {
+      "designation": "N-IIIβ-1056",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IIIβ-1056_The_Unbroken_Pledge_깨어지지_않은_서약.md",
+      "words": 3546,
+      "lines": 212,
+      "sha256": "b8ae05da9aa0fd663d7cd0fd48ed07ff905b6d8977da06bcc060eb362b1fbd20",
+      "name": "The Unbroken Pledge",
+      "unit": 4,
+      "receipt": "B165_04_UNBROKEN_PLEDGE.md",
+      "status": "changed",
+      "repairs": [
+        [
+          "2. **Coin Burial:** To permanently resolve the entity, the surviving half of the split copper coin must be buried in the Cemetery of the First Dawn under official witness.",
+          "2. **Coin Burial and Registration:** Bury the surviving half-coin in the Cemetery of the First Dawn under official witness and have the partner's name entered in its register. Burial alone is not the demonstrated release: the third cord remained taut until the witness wrote the name. Confirm slackening rather than assuming it when the coin enters the ground."
+        ],
+        [
+          "[Wraps around target's neck, squeezing the larynx.]",
+          "[Tightens around the bonded bearer's neck, squeezing the larynx.]"
+        ],
+        [
+          "[Tightens the red silk braid completely, pulling target to the floor.]",
+          "[Tightens the red silk braid completely, pulling the bonded bearer to the floor.]"
+        ],
+        [
+          "One recitation releases one turn, and the cord will not take a second inside six hours.",
+          "The turn book records one-turn release and no second recitation taken inside six hours; this is not a universal release count. The counselor's separate account records Min-Seok falling from five turns to two during his fourth, exact-word recitation after three failed summaries. Do not promise that any utterance will remove exactly one turn."
+        ],
+        [
+          "## Origin & Formation",
+          "## Appearance — Bonded Cord, Coin and Projected Partner\n\nThe red silk and tarnished copper braid is the entity's body; its split bite-marked coin is the terminal piece. The right shoulder is its documented position relative to the bearer, not an independent roost it leaves to hunt. The tethered gliding description follows the person at walking pace. Ward observations report no autonomous coin movement while the bearer rests and no confirmed contact with a second person.\n\nThe dead comrade and surviving veteran belong to the bond's history. Neither is an earlier human form of the braid. The Unvoiced Partner is explicitly a projected phantom in the Combat Record, not proof that the silk becomes a full soldier or that another body is housed inside the half-coin. Likewise defensive warding in the field need not mean the cord physically touches the scouts; record the effect separately from its measured reach.\n\nVisible throat ridges and the coin end becoming taut identify constriction on the bonded bearer. Internal threads in post-mortem examination and the one cut cord's withdrawn ends are recorded conditions, not a routine internalisation stage for every bearer. Do not cut a cord or force a transfer to make the outline easier to inspect.\n\nRecitation requires the actual oath and partner's full name, with assistance when voice is lost; failure and the counselor's larger release are both on file. Witnessed burial resolves the cord only with the recorded name entry, as the third burial shows. The braid going slack is the observed endpoint, not a return to a living comrade.\n\nThe Surviving Half and Quartermaster's Collar are worked from released cords, not equipment cut from an actively bound person. The lash and standing collar preserve selected silk, copper and coin features without requiring the entity itself to be worn as that collar. The unworked third cord is not a demonstrated additional item or a Stigma.\n\n## Origin & Formation"
+        ]
+      ],
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "CHANGELOG.md",
+        "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS.md"
+      ],
+      "scope": "Align burial instruction with the witnessed registry-entry release; make neck attacks explicitly target the bearer; qualify a fixed one-turn release against the named larger-release account; distinguish cord/host/phantom/warding/derived gear without altering measured reach or inventing a transfer.",
+      "reasoning": "Complete213-line original read. Inner Subject vow-parasite manifests as two-metre silk/copper/coin cord bound to right shoulder and throat, not a dead soldier. Grief and exact spoken promise loosen it; blade damage internalises ends in one bearer. Field warding and projected comrade are not independently travelling body or verified second-person contact. Actual third burial says slack began on registry entry, contradicting burial-alone protocol. Min-Seok account gives five-to-two while generic summary promises one turn; preserve specific report and qualify blanket rule.",
+      "history": "B113unit5 a6b19e3 already primary-only Types coverage/no exact Weapon pair. Fresh exact1056/title/SurvivingHalf/Collar search found no external SideA–D set; primary cross-source note remains accurate and unworked third cord is not an inferred item. DispositionNeutral remains worker-only conditional benefit. ForgottenSoldier/BrokenPromise interactions are explicitly never-contact and untried-projection rules, not imported equipment or body sources.",
+      "summary": "Five repairs add registration and observed slack to the burial instruction; specify bearer rather than generic target in both neck-tightening moves; preserve one-turn book and larger Min-Seok release without an absolute one-turn promise; add Appearance linking tethered cord, bitten coin, survivor history, conditional internal fibres, projected comrade, defensive field and released-cord equipment.",
+      "holds": [
+        "The cut bearer remains unable to use voice-based treatment. No invented cure, transfer or regrowth.",
+        "Office service-cannot-be-confirmed replies are possible sealed-schedule links, not confirmed identities or permission to solicit forbidden names. BrokenPromise contact remains prohibited and untested.",
+        "Exact cause and generality of differing release counts remain unproven; the instruction no longer guarantees a fixed decrement or a response to any summary. No exact external Weapon pair."
+      ],
+      "final_reasoning": "CHANGED: the entire written body/action chain is supported as a tethered, bearer-directed cord with projected/field effects, not an independent soldier. Revised release guidance follows the recorded name-entry event and does not overwrite variable response or failed treatment. Material, measured length, orientation, motion, constriction thresholds and derived gear remain intact.",
+      "commentary": "The twenty-two minutes spent fetching the register turn this from a generic guilt curse into something specifically municipal. The city has to accept the name before the cord lets go. The third unworked cord in the safe is more convincing than inventing a third piece of gear.",
+      "final_sha": "a49403f22389efe53c6cbd277df9f7a0e3a9177370bb8a633285b518b5040998",
+      "before_words": 3511,
+      "after_words": 3894,
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "CHANGELOG.md": "209ac812fe1d7682a9e47c6b2ededb7cf160557ebf26c4885ff311c36b09dba9",
+        "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS.md": "8f5474eb7dc8687754a7820c6b553957a7f06138c2e199b0d7703aca3980ae0f"
+      },
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-N-IIIβ-1056_The_Unbroken_Pledge_깨어지지_않은_서약.md\n",
+        "sectfile": " 0.000  clean   463 grams  M.A.W. Equipment\n 0.000  clean   393 grams  이야기 보고 (Story Log)\n 0.000  clean   351 grams  Trivia\n 0.000  clean   305 grams  Containment Event Behavior\n 0.000  clean   301 grams  관찰 기록 (Observation Log)\n 0.000  clean   279 grams  Appearance\n 0.000  clean   154 grams  Combat Record\n 0.000  clean   114 grams  Behavior & Containment Protocols\n 0.000  clean   112 grams  감각 묘사 (Flavor Text)\n 0.000  clean    90 grams  Comprehension Levels\n 0.000  clean    70 grams  Eyewitness Testimony\n 0.000  clean    57 grams  Operational Parameters\n 0.000  clean    45 grams  Origin & Formation\n 0.000  clean    43 grams  SECC Classification\n 0.000  clean    24 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "fraction 0.0\nPASS\n"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B165_04_UNBROKEN_PLEDGE.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 1
+      },
+      "no_change": false,
+      "link": "[[SE-N-IIIβ-1056_The_Unbroken_Pledge_깨어지지_않은_서약](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-III%CE%B2-1056_The_Unbroken_Pledge_%EA%B9%A8%EC%96%B4%EC%A7%80%EC%A7%80_%EC%95%8A%EC%9D%80_%EC%84%9C%EC%95%BD.md \"SE-N-IIIβ-1056_The_Unbroken_Pledge_깨어지지_않은_서약.md\")]",
+      "table_link": "[The_Unbroken_Pledge](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-III%CE%B2-1056_The_Unbroken_Pledge_%EA%B9%A8%EC%96%B4%EC%A7%80%EC%A7%80_%EC%95%8A%EC%9D%80_%EC%84%9C%EC%95%BD.md \"SE-N-IIIβ-1056_The_Unbroken_Pledge_깨어지지_않은_서약.md\")",
+      "unit_commit": "6a5823f6a5ac5a00db8f3c06a877c57c6d25c790",
+      "push": "PUSH VERIFIED"
+    },
+    {
+      "designation": "C-IIγ-071c",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md",
+      "words": 4092,
+      "lines": 278,
+      "sha256": "95761b1b8b9c61c486692d63386852a577d90653b68929e969d17f7eff424c3c",
+      "name": "Apostle Maker",
+      "unit": 5,
+      "receipt": "B165_05_APOSTLE_MAKER.md",
+      "status": "held",
+      "repairs": [
+        [
+          "## Appearance\n\n",
+          "## Appearance\n\n**Stage scope:** This is the chain's commanding, converting stage, not the original small healer with a brighter palette. Compare the white-and-gold cloak, steady radiant hands, conviction-bright eyes, purposeful walking and developing wings with the earlier Kind Healer and Blessing Giver records. The change is an explicitly named progression of the same chain; do not require its earlier and later silhouettes to be identical or invent another healer to explain them.\n\n**Body and conditional wings:** Keep the upright body distinct from the wings and from the marked personnel who respond to her. The classification describes forming light-wings; battle and observation records describe their increasing solidity as conversion advances. The projected light and later feathered construction are supported stages, not interchangeable permanent materials. Neither the radiant outline nor the wings establish routine flight: the breach record gives purposeful movement, while the final instant appearance beside the recipient is a separate apotheosis report, not a general travel speed.\n\n**Measurement and state limits:** Record body height, conversion count, wing solidity and each observed colour reading together. The wing-span and shoulder-to-tip measurements below do not use the same endpoints; no corrected dimension is established here. Colour can shift again before completion, so an eleventh-conversion reading is not proof that a branch is fixed. The file also differs between city-scale sorrow and the last recipient's choice as the deciding condition. Keep that unresolved rather than treating wing colour as permission to force conversion.\n\n**Chain and equipment boundary:** The Voice, Wings and Brand are conditional equipment profiles requiring an unachieved suppression, not the body's throat, worn physical wings or proof of a safe issue to personnel. The prior stage's Gentle set is not this stage's extracted set. Earlier chain records and the related Side Codex do not yet supply a chronology joining this active converting account to the completed Hand of Hope outcome.\n\n"
+        ],
+        [
+          "The color is set — gold for Hope, violet for Mourning. The transformation is imminent.",
+          "The color is read — gold for Hope, violet for Mourning — but may still shift before completion. The transformation is imminent."
+        ],
+        [
+          "Enduring the Apostle Maker's presence without acting is the only non-confrontational option.",
+          "Enduring the Apostle Maker's presence without acting avoids confrontation; Viderehan separately records the count and wing colour."
+        ],
+        [
+          "> **Materialized Agony Wear (M.A.W.):** Apostle Maker's M.A.W. is only obtainable if the entity is suppressed before Stage 4 — an event that has never occurred.",
+          "> **Materialized Agony Wear (M.A.W.):** Apostle Maker's M.A.W. is only obtainable if the entity is suppressed before Stage 4 — an event that has never occurred. The listed pieces are conditional profiles, not an extracted inventory. No issue, field-use success or demonstrated safe command follows from these descriptions."
+        ]
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/071_Kind_Healer/SE-071-A__SIDE_CODEX_The_Kind_Healer.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITIES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_02_KIND_HEALER.md"
+      ],
+      "scope": "Add supported chronological/conditional identification and body/wing/person/equipment distinctions. Correct fixed-colour claim using explicit reversible-colour record, remove exclusive nonconfrontational wording, and mark never-extracted gear conditional. Preserve unresolved span, branch, trigger and source chronology instead of inventing solutions.",
+      "reasoning": "Complete279-line original including Appearance, full embedded Tale/Testimony, final observation and all equipment read. City Subject advanced transformation has actual supported changing silhouette and light→feathered wing sequence, not an automatic donor/body mismatch. Yet five-metres-across versus five shoulder-to-tip is an unresolved endpoint conflict. City index versus final recipient choice, twelve-blessing and twelve-conversion clocks, fixed eleventh colour versus purple tips/reversals, and active chain versus completed SideA outcome require source distinctions. None may be repaired by invented reset or new chain.",
+      "history": "Complete353-line BlessingGiver source and99-line SE071A read: full chain thresholds, identity and outcome evidence, not a second unit or credit. Target has no exact071cA–D set; base071A explicitly names GentleRequiem/GentleShroud/GentleTouch alpha, not Voice/Wings/Brand gamma. Related B–D are not target equipment and are not claimed freshly reviewed. MasterEntities Chain1 full subsection, EntityCodex159/427 and conversionguideProtocol02 read as conflicting cross-source examples. B157unit2 full receipt and both historical logs preserve prior KindHealer/SE071 coverage, not approval of this stage. B41unit1 144d717 was parity/FinalObservation work, not this whole-design review. Catalog filename C-Ialpha071c versus progressed C-IIgamma071c is documented and retained. Equipment+0/+0: no exact stage-specific set or new pair, and no speculative primary-only coverage increment.",
+      "summary": "Four repairs add an Appearance stage/body/wing/measurement/chronology/equipment boundary; change eleventh-conversion colour from permanently set to a reading that may shift; make Ferrehan one nonconfrontational approach rather than contradicting stable observation; mark all never-extracted equipment conditional rather than an issued inventory.",
+      "holds": [
+        "Wing width five metres across versus five metres shoulder-to-tip lacks matched endpoints; no numerical change or inferred spread multiplier.",
+        "Stage3 begins after twelve blessings in Origin/BlessingGiver versus begins a twelve-person sequence in chain table; final branch tied to city sorrow versus recipient choice, with no actual resolution crosswalk.",
+        "This active converting account versus SideA current completedHandofHope lacks chronology; MasterEntities RankIII and broader PatientMartyr/C-Vomega071c examples differ from current C-IIgamma071c. No reset, duplicate healer or new transformation invented.",
+        "Suppression is never tried; equipment remains conditional, with no exact external stage-specific pair or safe issue/field-use claim. Awe of unmarked observers and marked command compulsion are different scopes, not blanket voluntary obedience."
+      ],
+      "final_reasoning": "HELD: named transformation supports the nonidentical early/later body and conditional wing solidity, but span, trigger/branch authority and current-era chain chronology remain unresolved. Improvements do not earn written-design completion or extra equipment credit. No replacement body, flight state or numerical normalization invented.",
+      "commentary": "This is the point where care becomes certainty and certainty removes refusal. That is stronger than simply making the healer larger and more radiant. The remaining uncertainty over who decides the final branch matters, because it determines whether the last person still has a meaningful choice.",
+      "final_sha": "25d42f208f1702d74600036d2cad97b2964a5c6bebbe96d112ac712281b4c2a4",
+      "before_words": 3949,
+      "after_words": 4288,
+      "source_hashes": {
+        "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md": "30da933ca6164d82c0cd6ceeff79ef0a63257f4bfd0991d831ae77195d8fce38",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/071_Kind_Healer/SE-071-A__SIDE_CODEX_The_Kind_Healer.md": "11ecb3183cd019b41aa932d671fd7f2e1794d0620ec971d3142585980f8a27c3",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITIES.md": "24f41a255e0a80e63a6914a5bb3c786af2ee983bbb243a68afcec37cf178d735",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md": "4e493173a1885b4913005f624e261e17b71950b2aba4a70eefb3e2786d2a702a",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_02_KIND_HEALER.md": "6c01413953b8215e9abfa8571c9536ff98d535c114e2acd5b50f64fc5e38f0a9"
+      },
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md\n",
+        "sectfile": " 0.009  clean   113 grams  M.A.W. Equipment\n 0.000  clean   518 grams  Appearance\n 0.000  clean   378 grams  Combat Record\n 0.000  clean   283 grams  이야기 (Narratio)\n 0.000  clean   281 grams  이야기 보고 (Story Log)\n 0.000  clean   182 grams  증언 (Testimonium)\n 0.000  clean   138 grams  SECC Classification\n 0.000  clean   132 grams  Origin\n 0.000  clean   114 grams  감각 묘사 (Flavor Text)\n 0.000  clean   113 grams  기록 (Registrum)\n 0.000  clean   112 grams  관찰 기록 (Observation Log)\n 0.000  clean   109 grams  최종 관찰 (Final Observation)\n 0.000  clean   103 grams  상호작용 (Entity Interactions)\n 0.000  clean    81 grams  Trivia\n 0.000  clean    53 grams  Operational Parameters\n 0.000  clean    49 grams  Behavior\n 0.000  clean    37 grams  Breach Behavior\n 0.000  clean    14 grams  Transformation Chain\n 0.000  THIN      5 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "fraction 0.00035612535612535614\nPASS\n"
+      },
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B165_05_APOSTLE_MAKER.md",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "no_change": false,
+      "link": "[[SE-C-Iα-071c_Apostle_Maker_사도_만드는_자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-071c_Apostle_Maker_%EC%82%AC%EB%8F%84_%EB%A7%8C%EB%93%9C%EB%8A%94_%EC%9E%90.md \"SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md\")]",
+      "table_link": "[Apostle_Maker](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-071c_Apostle_Maker_%EC%82%AC%EB%8F%84_%EB%A7%8C%EB%93%9C%EB%8A%94_%EC%9E%90.md \"SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md\")",
+      "unit_commit": "5b5e5a522ab262bcd7147ed46bc49a703841808f",
+      "push": "PUSH VERIFIED"
+    }
+  ],
+  "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B165_CLOSE.md",
+  "closure_json": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B165_CLOSE.json"
+}

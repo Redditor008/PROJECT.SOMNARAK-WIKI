@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Non-Organic — An empty vertical space where a tower once stood — nothing there, but the air is dense and the skyline bends around the absence as if the tower refuses to leave. Fever-cold, it smells of char; a tower's ghost, made of the hole it left. |
-| **Movement** | Stationary — a place or zone; spreads rather than moves. |
+| **Movement** | Fixed at the cleared plot. Expansion takes in more of the street and brings the lean to the new edge; the absence does not travel. A peg can call the building back for a breath without relocating the site. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 12–18 per cycle, drawn from a plot with nothing on it, which the energy office has queried in writing twice. The wing's answer both times was the same: the yield comes from the watch, and the watch is what keeps the plot empty. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Read the memorial list at the perimeter, aloud, names and unfinished business together. Four minutes. Viderehan and Ferrehan are the valid Work Types and both of them reduce, in practice, to doing that and then standing there until the end of the watch. |
+| **Recommended response** | Read the memorial list at the perimeter, aloud, names and unfinished business together. Four minutes. Viderehan and Ferrehan are the valid Work Types: the former reveals removed rooms and people with a Stable gauge, while the latter holds the missing shadow and decreases it. Keep the blanks in the list and remain for the watch; this is observance, not reconstruction. |
 
 ### Operational Notes
 
@@ -97,6 +97,9 @@
 - Without resolution the absence transforms and spreads, which is the behaviour on the classification. It does not travel; it takes in more of the street, and the buildings at the new edge begin to lean the way the existing ones already do.
 
 ## Appearance
+
+**Empty site and conditional return:** The Place-Void is the bounded vertical absence, not a surviving ruin and not the architectural miniature issued by the Armoury. Dense fever-cold air, char smell, phantom shadow and a skyline apparently bending around the gap make it legible without a wall to touch. Memory-height estimates belong to named observers, separately from the sighted volume and the surviving plans. A rising gauge brings the sensation of floors; placement inside the footprint can briefly return the occupied building, while a Tide has made the neighbouring lean acute. Record these conditions separately instead of sketching a permanent tower into the normal view. Neither a returned room nor a weapon shaped like a tower gives permission to build into the site.
+
 **Physical Form:** An empty vertical space where a tower once stood. The air is dense and the skyline bends around the absence.
 
 **Notable Features:** It is visible only through missing architecture, carries unspoken farewells, and appears taller in memory.
@@ -169,7 +172,7 @@ Escalation here has a single known trigger and a single known shape: something i
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | New structures or people erased without acknowledgment. |
-| **Manifestation** | Place-Grudge|
+| **Manifestation** | Place-Void|
 | **Primary effect** | Nearby buildings feel incomplete and conversations become difficult. |
 | **Duration / rate** | Slow, through architectural memory. |
 | **Risk** | Moderate (β), and the grade describes what happens inside the footprint, which is the only place anything has ever happened. On the street, in eleven years, the holding has produced no injuries at all. |
@@ -203,6 +206,8 @@ The miniature tower hovers alongside the bearer, projecting a localized temporal
 
 **Cost:** The wielder's old injuries ache and prolonged use leaves faint bruising on the shoulders and the crown of the head, where the weight of the absent structure is felt.
 
+**Orrery custody:** Its bronze miniature hovers with the bearer; the cleared plot does not follow it. The local single-target shadow rule does not make the source footprint portable or give the slowing field an unrecorded reach. Keep the direct impact separate from the stated lingering weight, and leave the unquantified Tick multiplier unresolved rather than supply a damage schedule. Record old-injury ache, shoulder and crown bruising, and the colleague’s sentence-completion report; end the rotation on that report, not on the wielder’s reassurance. The separate crimson Fang record is not an alternate Orrery pose established by this file.
+
 ### M.A.W. Suit — The Vanished Plate
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
@@ -221,6 +226,8 @@ The miniature tower hovers alongside the bearer, projecting a localized temporal
 
 **Cost:** The wearer's reflexes dull and their sense of place grows unreliable in built-up streets; wearers mis-step on stairs and stop at floors that are not their own.
 
+**Plate custody:** Keep the missing panel unfilled and record a changed door-shaped gap as a condition, not a repair opportunity. Work remains outside the absent foundation; Grudge resistance does not make phantom stairs load-bearing or remove the false conversation. Separate the plates on current ground for maintenance and mark revealed missing rooms as non-load-bearing. If the wearer begins treating a stair or beam as support, close the vigil and have them move out of the shadow under their own power. Record dulled reflexes and unreliable placement as well as the shared speech cost.
+
 ### M.A.W. Stigma — The Vanished Floor
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
@@ -236,6 +243,8 @@ The miniature tower hovers alongside the bearer, projecting a localized temporal
 **Cost:** The user feels the final moments of those who occupied them.
 
 *Three Stigmas in eleven years, all three to wardens who had read the memorial list more than fifty times. None appeared during a cycle; all three were noticed the following morning, which the wing has decided not to interpret.*
+
+**Floor custody:** Keep room bounds, occupants, verified words and gaps on separate layers; a tile revealing a conversation does not supply its ending. Do not furnish the outline or complete a farewell. If final moments repeat as the bearer’s own memory, record that alongside the colleague’s account. An authorised mourner acknowledges the incomplete record before lifting the Tail clasp. The warm tile’s off-street description and its removed-room ability need their own activation scope; neither allows a reconstruction test in the footprint.
 
 ### M.A.W. Use Notes
 
@@ -364,7 +373,7 @@ Some sorrows mourn demolition. Tower Erased Overnight mourns the erasure — the
 **Common Name:** Tower Erased Overnight
 **Containment Status:** Contained — Zone B, Old Lament — ambient
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate inside the footprint and nil outside it. Eleven years, three activations, eleven strikes, no fatalities, no permanent injuries, and no incident of any kind involving a person who stayed on the street.
+**Threat Assessment:** Moderate inside the footprint in the ordinary peg-return record. Eleven years, three activations, eleven strikes, no fatalities and no permanent injuries are the stated watch return, not proof that the street is unconditionally safe: the separate Sorrow Tide record makes the leaning street impassable and applies pressure there. Preserve that exceptional condition when setting the perimeter.
 **Containment & Handling Procedures:**
 - Two of the four Work Types cannot be performed on an Object/Place and the other two amount to standing in a street and reading.
 - Standard R.D. containment protocols apply.

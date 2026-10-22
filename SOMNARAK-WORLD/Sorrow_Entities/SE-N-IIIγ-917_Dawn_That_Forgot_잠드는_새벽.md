@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-917 [VT]` |
-| **Entity Type** | **Time** — Can breach via Transform |
+| **Entity Type** | **Time** — Recorded expansion takes neighbouring streets between episodes; no transformed body is documented |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Time-Dream |
-| **Physical Form** | Organic — A dawn that arrives but does not wake the city. The sun rises, the sky lightens, but everyone within the affected zone remains locked in their dreams — aware that morning has come but unable to open their eyes. |
+| **Physical Form** | Temporal phenomenon — A dawn that arrives but does not wake the city. The sun rises, the sky lightens, but everyone within the affected zone remains locked in their dreams — aware that morning has come but unable to open their eyes. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-N-917, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -38,8 +38,8 @@
 
 ### Operational Notes
 
-- The morning arrives without the night preceding it, and the facility log records no interval between the two.
-- A cycle restores part of the interval. The gap recurs, and no session has produced a complete night.
+- The sun rises and the district remains unable to wake. The observed delay is after sunrise; the record does not establish that the preceding night vanished.
+- Completing the perimeter watch lowers the gauge without shortening an episode. It does not restore a missing night or recover part of the delay; recorded waking times remain separate from gauge relief.
 - Three ignored conditions escalate it. Contact runs through the dream register, so escalation presents as personnel unable to account for the previous shift.
 - Handover is written and countersigned at the door, because spoken handover has repeatedly failed to survive the gap.
 - Extraction is authorized apart from the work cycle.
@@ -66,7 +66,7 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Major temporal/dream hazard; not a Sovereign classification |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
@@ -97,6 +97,12 @@
 - A piece carried inside the zone during an episode counts as an exposure for its wielder whether or not it is used. The counting rule was written before the equipment existed and was applied to it unchanged.
 
 ## Appearance
+
+**A morning, not an organic sleeper:** The phenomenon is the mismatch between a lit district and its residents' inability to wake. Sleepers are people within its extent, not anatomy assembled into a source body. From the post, streetlamps switch off and daylight reaches streets with no traffic, open shutters or figures at windows. Residents' awareness of morning comes from their accounts afterward; an observer outside does not see inside their dreams.
+
+**Extent and sequence:** The usual event begins at local sunrise and ends when the district opens its eyes. Whole streets have been added between episodes; this changes affected territory, rather than a sun, figure or sleeping body travelling along the boundary. Timing the first or last shutter does not imply every episode has the mean duration.
+
+**Witness tools and derived equipment:** The clock times the watch while the marker locates its perimeter. Neither supplies a physical vessel for the dawn. The marker-derived Edge, issue-cloak Veil and clock-brass Token have separate bearer effects; a brief word lapse or delayed waking after gear use is not a new district-wide episode. The post keeps timing records and a fitness judgment, not the infirmary's confidential cumulative figure.
 
 **Primary Form:** A dawn that arrives but does not wake the city. The sun rises, the sky lightens, but everyone within the affected zone remains locked in their dreams — aware that morning has come but unable to open their eyes.
 
@@ -142,7 +148,7 @@ What the page described is this: the sun comes up over a district and the distri
 
 ### Operational Work Notes
 
-Nothing here is measurable and the file says so in its first line. Both valid approaches are performed from the perimeter: observation is the watch itself, endurance is holding the post for the length of an episode without sending anyone in. The gauge answers to the watch being kept, which is the only act the holding permits.
+Sunrise and shutter times are recorded from the post, but no instrument measures the condition inside the sleepers. Timing an episode is not a direct measurement of the dream state. Both valid approaches are performed from the perimeter: observation is the watch itself, endurance is holding the post for the length of an episode without sending anyone in. The gauge answers to the watch being kept, which is the only act the holding permits.
 
 ## Breach Behavior
 
@@ -158,7 +164,7 @@ Nothing here is measurable and the file says so in its first line. Both valid ap
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** Hold the perimeter post from before sunrise until the last shutter opens, and log the three times.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per street taken rather than per turn. It has stood at 70% since the third widening and has not moved in nine years.
 
 ## M.A.W. Equipment
@@ -175,6 +181,8 @@ Nothing here is measurable and the file says so in its first line. Both valid ap
 **Ability:** Channels void dream sorrow in each strike — the weapon does not cut flesh so much as cut at the dream register of the target's grief.
 **Cost:** The wielder wakes slowly for a week — lucid, aware of the room, several seconds behind their own eyes. It is counted as an exposure on the infirmary’s running total, like everything else here.
 
+**Edge exposure account:** The Weapon’s individual cost describes emotional numbness toward Void; this record describes waking slowly for a week. Log the two observations without treating one as proof of the other. A bearer may be lucid and still several seconds behind their eyes. Taking the Edge inside counts even if no strike was made, and neither a quiet blade nor an uneventful watch cancels that entry. The item’s source event remains unrecorded: attribution review must keep that absence instead of borrowing a resident’s dream to complete it.
+
 ### M.A.W. Suit — Dawn That Forgot's Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
@@ -186,6 +194,8 @@ Nothing here is measurable and the file says so in its first line. Both valid ap
 **Bearer cost:** The wearer becomes difficult to summon in memory, even from inside their own thoughts; the veil offers shelter by making its bearer fade from recollection.
 **Ability:** Grants resistance to Void damage, protecting against the dream register of sorrow.
 
+**Veil handover:** Write and countersign the watch handover before relying on either worker’s recollection of the wearer. Becoming hard to summon in memory is the Suit’s cost, not evidence that the post was unstaffed or that an episode was missed. The sunrise and shutter times remain entries made from outside the line. Return of the cloak and attendance at the infirmary remain separate acts; a countersignature records a handover and does not establish medical fitness. No recollection check creates a place for the confidential cumulative figure on the duty sheet.
+
 ### M.A.W. Stigma — Dawn That Forgot's Token
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
@@ -195,6 +205,8 @@ Nothing here is measurable and the file says so in its first line. Both valid ap
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's dream sorrow, crystallized into wearable form.
+**Token lapse:** The individual Stigma records a familiar word or face briefly lost after invocation. Preserve the reported lapse with the occasion of use, separately from the district’s failure to wake; a few seconds on the bearer are not a new shutter time. The source-work bonus makes no claim to shorten an episode, and the six recovered pieces establish six watched episodes rather than a technique for entering the zone. Keep an unrecorded source event unrecorded even when the bearer’s account becomes personal. The infirmary receives the exposure; the facility receives only its fitness judgment.
+
 *A Token is found at the perimeter post after an episode has been watched end to end by one person. Six pieces, six unbroken watches; nothing has ever been recovered from inside the zone.*
 
 ### M.A.W. Use Notes
@@ -261,7 +273,7 @@ The void arrives in the dream register — not as a wave or a wall but as a shif
 This holding keeps an interval rather than an event, and three other records are filed beside it in the appendix for the same
 reason: a zone that swallows sound, a watch that files a form whether or not anything happened, and an hour that belongs to the
 dead. The rows below are read from the perimeter post's own series — the first and last shutter of every episode, and the
-infirmary's running exposure totals, which the post itself has never been shown.
+infirmary's fitness judgments, with no confidential exposure figures disclosed to the post.
 
 **Interaction method:** Set this record's own figures first: twenty-nine episodes, the first and last shutter timed for each,
 and the four logged entries into the district. Then read the other record's series beside them, enter whether either series
@@ -274,7 +286,7 @@ moved, and re-verify at the next episode.
 | **Allhallow** `O-IIIγ-916` | Both are hours the city keeps and answers by hand. That record's hour belongs to the dead; this one belongs to sleepers, and the answer on this side is a post and a clock rather than a lantern. | The hour-series were compared once and agreed on length alone. | That the pairing rests on the register of hours, noted as a calendar entry and not as a link. |
 
 **Interaction procedure:** No co-presence is authorised during an episode. Comparison is made on paper at the post's review,
-with the shutter times and the exposure total entered first and the other record's series set beside them unchanged; parting,
+with the shutter times and the infirmary's fitness judgment entered first, without the confidential total, and the other record's series set beside them unchanged; parting,
 depth, trigger and both readings go in the margin.
 
 ## 이야기 (Narratio) — The Tale

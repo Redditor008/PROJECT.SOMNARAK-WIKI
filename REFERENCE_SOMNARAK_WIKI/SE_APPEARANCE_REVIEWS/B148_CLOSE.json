@@ -1,0 +1,193 @@
+{
+  "batch": 148,
+  "status": "CLOSED",
+  "reviewed": 5,
+  "required": 5,
+  "no_change": 0,
+  "changed_primaries": 5,
+  "new_se_completions": 0,
+  "new_se_held": 5,
+  "new_equipment_reviews": 0,
+  "authorization": "Owner p authorized Batch148 only, with whole-file logical reading before and after fixes; no149 authorization.",
+  "selection": "Fresh285pending/132lexical cue candidates, descending cue count/full designation:119/103/290/852/518. Reading order only, not defect ranking; no substitutions.290uses exactSE-1030sources, not CompassSE-290.",
+  "ladder": "No change0/5; fewer than3 so five is required. Five completed held reviews do not mean five completed fixes.",
+  "validation": [
+    {
+      "designation": "O-IIβ-119",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_01_HOMELESS_SORROW.md",
+      "status": "held",
+      "no_change": false,
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "commit": "4a766f45e120c65e2ad61bc9a4d3a065277361b2",
+      "push": "PUSH VERIFIED",
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md\n",
+        "sectfile": " 0.024  clean   124 grams  Trivia\n 0.017  clean   173 grams  Breach Behavior\n 0.016  clean   252 grams  관찰 기록 (Observation Log)\n 0.010  clean   583 grams  Appearance\n 0.005  clean   551 grams  Combat Record\n 0.004  clean   566 grams  감각 묘사 (Flavor Text)\n 0.000  clean   440 grams  M.A.W. Equipment\n 0.000  clean   369 grams  이야기 보고 (Story Log)\n 0.000  clean   342 grams  이야기 (Narratio)\n 0.000  clean   300 grams  기록 (Registrum)\n 0.000  clean   220 grams  Watch Record\n 0.000  clean   202 grams  Expansion Behavior\n 0.000  clean   171 grams  Operational Parameters\n 0.000  clean   156 grams  Origin\n 0.000  clean   106 grams  Behavior\n 0.000  clean    60 grams  최종 관찰 (Final Observation)\n 0.000  clean    45 grams  증언 (Testimonium)\n 0.000  clean    38 grams  SECC Classification\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "   84   3  | { *Shadowless* [**Ultimate**] } | \"Nobody in the sector casts one, and the lamps go on working perfectly.\" | [Every shadow in th\n  121   6  | **Identification** | Verify these observations against the SECC code before work or contact begins; this district holds more tha\n  203   3  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each space reallocated, cleared or repurposed in the sector while it \n  301   4  **Observation method:** Record the first sign, which is a room going cold from the corners; the first sensation, which is the impu\n  355   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  441   3  - **Record detail:** Check the designation before approach. More than one record in this district is made of displacement, and the\nGENERIC 0.005  (21 shared shingles)  SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md\n"
+      },
+      "sha256": "ca580a496f224b42ee76762b21876f7434680f3ee754bee2b0421356e6d57c28",
+      "before_words": 6502,
+      "after_words": 6946,
+      "new_equipment_credit": 0,
+      "new_se_credit": 0,
+      "change": "Clarified changing four-legged/many-limbed/corner silhouettes as the visible outline of wandering mourning, not a stable hunting animal or reconstructed displaced person. Linked the origin, witnessed local circling/settling, room-to-room relocation and personnel shadow theft. Removed the fixed-object speed rationale, distinguished Void element from Place-Grudge manifestation, and aligned light/acknowledgment and activation descriptions with the recorded effects. Added an explicit unresolved classification boundary; did not choose a new type.",
+      "holds": "Subject in SECC/Identification versus Object/Place in A/role/Work/Trivia is unresolved and prevents completion. Activation≥60%, sector effect above65%, opening40% and no breach counter are retained as distinct records, not converted. Per-shift versus per-hour reduction, Year4229 room assignment versus B-116since4231, nine-year versus thirty-year headings, universal empty-room-only escalation versus over-lighting/reallocation/pairing observations remain unharmonized. SideA Inner versus primary Outside, pressure8–20 versus10–23 and Studied versus Basic remain. Equipment generic no-equipment preparation versus Veil dependency, universal memory/address cost and 'only word choice' versus Hearth grief/Veil overload, nearly-colourless Veil versus dark near-opaque C with conditional transparency, glass Hearth versus D metal/current-versus-resting accounts without bridge, Lens official/resting/active/history versus kukri Appearance/current title/master detail, master subtype mismatch and missing operational grade remain holds. No invented transitions or numerical fixes.",
+      "commentary": "The strongest design is a place that cannot keep a place, seen as a creature only because observers need an outline to fear. An ordinary works schedule repeatedly undoing a rostered chair is more unsettling than a hunting shadow. The classification and equipment-dependence conflicts need actual authority, not another confident paragraph.",
+      "short_link": "[Homeless_Sorrow](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-119_Homeless_Sorrow_%EB%96%A0%EB%8F%84%EB%8A%94_%EA%B7%B8%EB%A6%BC%EC%9E%90.md \"SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md\")",
+      "full_link": "[[SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-119_Homeless_Sorrow_%EB%96%A0%EB%8F%84%EB%8A%94_%EA%B7%B8%EB%A6%BC%EC%9E%90.md \"SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md\")]"
+    },
+    {
+      "designation": "C-IVδ-103",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_02_FROZEN_VEIL.md",
+      "status": "held",
+      "no_change": false,
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "commit": "bd02babe00ec572ef125a3df46cf8914c0c2dd76",
+      "push": "PUSH VERIFIED",
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md\n",
+        "sectfile": " 0.019  clean   573 grams  Combat Record\n 0.017  clean   174 grams  Breach Behavior\n 0.017  clean   783 grams  M.A.W. Equipment\n 0.016  clean   127 grams  Operational Parameters\n 0.011  clean   350 grams  관찰 기록 (Observation Log)\n 0.010  clean   858 grams  감각 묘사 (Flavor Text)\n 0.008  clean   131 grams  최종 관찰 (Final Observation)\n 0.005  clean   186 grams  Behavior\n 0.005  clean   387 grams  이야기 보고 (Story Log)\n 0.000  clean   727 grams  Apex Record\n 0.000  clean   550 grams  Appearance\n 0.000  clean   409 grams  이야기 (Narratio)\n 0.000  clean   159 grams  기록 (Registrum)\n 0.000  clean   142 grams  Trivia\n 0.000  clean    63 grams  Origin\n 0.000  clean    53 grams  증언 (Testimonium)\n 0.000  clean    34 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 45% against Void pressure; 35% against other pressure types |\n   82   1  | { *The Frost Spread* [**Debuff**] } | \"The ice creeps outward — covering floor, wall, ceiling — and the cold is absolute.\" | [Th\n   83   1  | { *The Ice Spear* [**Attack**] } | \"A spike of the frozen veil breaks free — and it is aimed at whatever was trying to get throu\n   85   6  | { *The Permafrost* [**Ultimate**] } | \"Five meters is not a rule any more — the line painted on the floor is under the ice, and \n   91   2  3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **tears and sincere emotional expres\n  164   1  The table is read against the shell rather than against the gauge, because on this holding the two move separately: the gauge is w\n  184   3  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each attempt to provoke feeling in its presence while it is loose. It\n  203   1  **Target Coverage:** A line of up to three. The cold travels along a corridor and reaches everybody in it at once, which is how a \n  207   2  **Ability:** Void damage to the soul — to identity and the capacity for attachment rather than the body. The lens carries the Veil\n  215   1  **Appearance:** a flowing veil of Void Han-gossamer that hangs heavy as if wet, keeps its shape when its wearer turns, and only sh\n  227   2  **Cost:** The wearer feels faintly absent to themselves, and reports their own warmth toward others as something they are performi\n  259   1  | **Before use** | Wielder, piece, and a dated baseline against a specific class of loss. The baseline is held by the spotter, sea\n  262   2  | **After use** | The sealed baseline comes out and both columns are written: what the wielder remembers of the week and what the \n  264   4  **Stat interpretation:** Field performance and human cost are separate axes, and on this file the cost lands on the roster rather \n  289   4  **Observation method:** Record the first sign, which is the cold arriving as numbness before it arrives as temperature; the first \n  295   2  The Frozen Veil (C-IVδ-103 [VS]) is carried on the wing's register as a Subject-Void manifestation expressing Void. The Veil cryst\n  313   1  | Hold to the condition: tears and sincere emotional expression crack the Veil, and physical force is ineffective. Nothing is stag\n  334   7  The Veil's five filed relations are what a century of distance left in one building: two holdings it cannot warm to, one cut from \n  343   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.008  (46 shared shingles)  SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md\n"
+      },
+      "sha256": "ba094c207fd07ea65c62a8ff6426ca4d239529f9112b790aa289b79ee23a8e76",
+      "before_words": 7530,
+      "after_words": 7886,
+      "new_equipment_credit": 0,
+      "new_se_credit": 0,
+      "change": "Replaced indiscriminate hunting with the recorded unhurried following of the nearest person and accompanying emotional absence. Connected the humanoid shell, collective suppressed feeling, genuine-tear cracking and arranged-feeling thickening without supplying a former human or literal-water anatomy. Made the movement, combat, Canto-body and destroyed-versus-active-source conflicts explicit rather than merging them into invented stages.",
+      "holds": "Operational 'has not moved' and stable stillness versus perimeter walks and mobile Escape; no-attack/radiating emotional absence versus launched ice spear/curtain/permafrost and Canto lethal freezing; normal temperatures versus decreasing ambient Consequences and measurable Canto thermal loss; nearest-only selection versus Tale warmth-directed drift. No source transition joins chamber humanoid to Canto giant/heart/tendrils or source destruction to active Dawn-dated holding/extraction. Deep storage containment versus ZoneD drifting remains, without an invented travel history. Counter1,≥90%, ultimate65%, starting60–80% and breach40% retained; Ferrehan decrease versus only-tears decrease; duration never intensifies versus proximity-duration series and Side unanchored exposure; Year4210log versus4219exercise/review chronology unresolved. Source Void pressure29–62 versus primary24–52 unchanged. Existing Lens/disc-versus-Canto-rifle/range, flowing-heavy-versus-stiff-light Suit, Heart warmth versus 'nothing can be warmed', item resting/active colors and Registry5%/Head4% holds stay visible; no equipment rewritten or repeated credit.",
+      "commentary": "A beautiful person-shaped absence is more effective than a generic ice queen: it makes emotional efficiency look like recovery. The drawn-lot roster also gives the institution a real temptation to misuse grief. The giant freezing battle may work on its own, but it cannot silently become the chamber body's next stage.",
+      "short_link": "[The_Frozen_Veil](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-103_The_Frozen_Veil_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%B2%A0%EC%9D%BC.md \"SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md\")",
+      "full_link": "[[SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-103_The_Frozen_Veil_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%B2%A0%EC%9D%BC.md \"SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md\")]"
+    },
+    {
+      "designation": "C-Vδ-290",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-290_First_Tear_첫_번째_눈물.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_03_FIRST_TEAR.md",
+      "status": "held",
+      "no_change": false,
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "commit": "a2c42c5f697ba84294fd344a3ee48807b1ea1535",
+      "push": "PUSH VERIFIED",
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-C-Vδ-290_First_Tear_첫_번째_눈물.md\n",
+        "sectfile": " 0.039  clean   129 grams  Trivia\n 0.020  clean    98 grams  Operational Parameters\n 0.019  clean   570 grams  Combat Record\n 0.018  clean   884 grams  M.A.W. Equipment\n 0.007  clean   137 grams  기록 (Registrum)\n 0.002  clean   423 grams  관찰 기록 (Observation Log)\n 0.002  clean   888 grams  감각 묘사 (Flavor Text)\n 0.002  clean   537 grams  Activation Behavior\n 0.000  clean  1464 grams  Sovereign Chronicle\n 0.000  clean   530 grams  Appearance\n 0.000  clean   417 grams  이야기 보고 (Story Log)\n 0.000  clean   360 grams  이야기 (Narratio)\n 0.000  clean   164 grams  Behavior\n 0.000  clean   153 grams  Origin\n 0.000  clean    60 grams  최종 관찰 (Final Observation)\n 0.000  clean    57 grams  증언 (Testimonium)\n 0.000  clean    43 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "   32   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   56   1  | **Resistance** | 50% against Lament pressure; 40% against other pressure types |\n   85   4  | { *The Full Release* [**Attack**] } | \"The first tear finally falls — completing a journey four thousand years overdue.\" | [The \n   86   6  | { *The Ocean of the First* [**Ultimate**] } | \"The first tear reaches the ground at last — and where it lands, an ocean forms, a\n  165   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  230   1  **Ability:** Lament damage to the mind, at a magnitude the grading system describes as sovereign and the field manuals do not mode\n  238   1  **Appearance:** a wrapping shroud of Lament Han-silk, faintly luminous and cool at the shoulders, worn over the night sheet by the\n  247   1  **Cost:** The wearer goes numb to small pleasures, and the numbness is slower to lift than with any other shroud on issue — the me\n  253   2  **Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch; it is worn on a cord and it was\n  255   1  **Effect:** +3 stat bonus when working the source entity\n  273   1  | **After use** | Return against the inventory, then the long check: the wearer goes numb to small pleasures and the medical offic\n  277   9  **Full-set source review (2026-10-12):** Reviewed this overview and every local M.A.W. claim—including all three piece blocks, Use\n  299   1  | **Post-contact review** | The sheet is checked against the preceding night before the observers leave the antechamber. Gaps are \n  353   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  410   1  **Review requirement:** Re-verify after any Sorrow Tide, any vault incident, and any night on which a reading was missed, late, or\n  463   5  - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-A-01, Alpha Tree deep vault — sealed.\nGENERIC 0.006  (39 shared shingles)  SE-C-Vδ-290_First_Tear_첫_번째_눈물.md\n"
+      },
+      "sha256": "96755ffc07648a402ab5bbf0d9f70c274460b701ca550670eab9b56fe83ae826",
+      "before_words": 8890,
+      "after_words": 9190,
+      "new_equipment_credit": 0,
+      "new_se_credit": 0,
+      "change": "Corrected both Movement descriptions to the stationary suspended crystal, separating its body from the pedestal and vault. Connected the source person's loss, Object-Lament manifestation, current crystal and earlier reconstructed origin without a humanoid survivor or Sovereign-sized monster. Explicitly separated succession doctrine and combat blade/fall/ocean accounts from observed physical states; retained the unsupported Transform/radius links as holds.",
+      "holds": "No observed activation or injury/no measurable field versus proximity emotional history/Fracture, widening influenced radius and touch/forced-fall/ocean attacks; SideA Can breach via Transform versus primary non-breaching, no mechanism or certified alternate geometry. Never-fallen wording cannot establish all prehistory against a reconstructed earlier fall; no new chronology supplied. Smaller-than-raindrop versus expanded Origin barely larger, nominal tear weight without contact method, unchanged-appearance absolutes versus changed glow series remain unresolved. City-origin label versus pre-city origin unaltered. Work steadies/Ferrehan decrease versus no-response absolutes; no-extraction inventory versus authorized residue extraction; no carried items in vault versus Shroud reading duty/charm-in-vault log; no question ever versus two questioning attempts, four-minute cap versus scheduled hour; guards/pilgrims/unknown source versus two-observer only/unknowable griever and claimed survived grief; Forgotten God same-room versus no co-presence;0.38 current91years versus post4106/4202 0.41, thirteen-decades/eleven-centuries chronology retained. Greatsword/Requiem/flail identity and missing local Weapon numeric crosswalk, First Charm/First Salt Stigma/precedence costs, Neck4% versus generic5% and local no slot/chance remain held. No bridge invented or numbers/equipment altered.",
+      "commentary": "The tiny object is the right scale for an institution terrified of losing its only uninterrupted witness. The earlier person's unknown loss should stay personal even when the archive turns it into a universal ancestry chart. I would not let an ocean attack or an inherited greatsword quietly turn that restrained object into a different body.",
+      "short_link": "[First_Tear](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B4-290_First_Tear_%EC%B2%AB_%EB%B2%88%EC%A7%B8_%EB%88%88%EB%AC%BC.md \"SE-C-Vδ-290_First_Tear_첫_번째_눈물.md\")",
+      "full_link": "[[SE-C-Vδ-290_First_Tear_첫_번째_눈물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B4-290_First_Tear_%EC%B2%AB_%EB%B2%88%EC%A7%B8_%EB%88%88%EB%AC%BC.md \"SE-C-Vδ-290_First_Tear_첫_번째_눈물.md\")]"
+    },
+    {
+      "designation": "N-IVδ-852",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-852_Conservatory_잊혀진_잔해.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_04_CONSERVATORY.md",
+      "status": "held",
+      "no_change": false,
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "commit": "84d255f1783ca9d0a34c4ecf8ef72a5ad53b6c4c",
+      "push": "PUSH VERIFIED",
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-N-IVδ-852_Conservatory_잊혀진_잔해.md\n",
+        "sectfile": " 0.040  clean    75 grams  Operational Parameters\n 0.017  clean   845 grams  감각 묘사 (Flavor Text)\n 0.013  clean   397 grams  관찰 기록 (Observation Log)\n 0.012  clean   828 grams  M.A.W. Equipment\n 0.012  clean   592 grams  기록 (Registrum)\n 0.009  clean   215 grams  이야기 보고 (Story Log)\n 0.006  clean   654 grams  Combat Record\n 0.004  clean   797 grams  Activation Behavior\n 0.004  clean   273 grams  Behavior\n 0.000  clean  1249 grams  Apex Record\n 0.000  clean   575 grams  Appearance\n 0.000  clean   352 grams  이야기 (Narratio)\n 0.000  clean   245 grams  Trivia\n 0.000  clean   186 grams  Origin\n 0.000  clean   127 grams  최종 관찰 (Final Observation)\n 0.000  clean    56 grams  증언 (Testimonium)\n 0.000  clean    38 grams  SECC Classification\n 0.000  clean    26 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "   32   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   43   1  - Viderehan and Ferrehan are the only valid approaches; the ruin cannot be engaged emotionally or confronted.\n   56   1  | **Resistance** | 45% against Grudge pressure; 35% against other pressure types. Nothing resists resemblance: it is the one input\n   86   3  | { *The City of Forgetting* [**Ultimate**] } | \"The margin goes red — every station brightening at once, as though the whole floo\n  158   1  Read the table as the holding's whole method rather than as a menu. Conservatory is an Object/Place with an Object-Grudge manifest\n  165   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  215   2  **Activation reporting order:** what resembled the house → who introduced it and whether it was a plan, an object, or a recollecti\n  247   1  **Appearance:** a plated harness of Grudge Han-iron that darkens from red toward black as it cools and fits itself to the wearer's\n  273   1  **Effect:** +3 to the working stat while this margin is the subject of the cycle, and nothing at all anywhere else\n  279   1  *The bracelet is never manufactured and never issued: it appears after a successful cycle at the entity's own disposition, on a wo\n  291   4  | **Before use** | Wielder, piece, gauge at issue, and a sealed baseline of the wielder's own quarters — where they live, how long\n  292   1  | **During use** | Watch for the domestic tells rather than the clinical ones: old injuries aching, bruising where nothing struck,\n  294   1  | **After use** | Return the piece and reconcile the sealed baseline: does the wielder still describe their quarters as theirs, an\n  296   1  **Stat interpretation:** The grade states how hard a piece hits and nothing about what it takes, and the δ ratings here are accomp\n  318   5  **Observation method:** Work from the permitted path, by instrument wherever the margin is hot, and record the first visible sign,\n  324   1  Conservatory (N-IVδ-852 [N]) is carried on the wing's register as an Object-Grudge manifestation expressing Grudge. The Ruin forme\n  333   1  Work response — Viderehan: Shows the love and failure behind the structure. (Stable); Ferrehan: Tests whether the worker can remai\n  365   5  The three filed relations are other records of places kept past their time, and the question on each is whether the other presence\n  367   1  **Interaction method:** Baseline each entity alone; the crystal's temperature varies enough with ordinary conditions that a short \n  372   5  The survey below is filed with the Mask Market margin records and covers three holdings, each read against a single question: does\n  374   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  380   6  **Interaction procedure:** Baseline both parties alone, bring the second presence only as far as the margin along the permitted pa\n  429   6  **Operational interpretation:** The file is a map and the margin is the territory, and the containment measure is unusual enough t\n  431   1  **Review requirement:** Every activation, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline; re-verify the ga\nGENERIC 0.007  (54 shared shingles)  SE-N-IVδ-852_Conservatory_잊혀진_잔해.md\n"
+      },
+      "sha256": "e5fb17d8f9e181c1db6196fa56d8207392beb6f2433cf264bc968afd1c911b12",
+      "before_words": 9714,
+      "after_words": 10095,
+      "new_equipment_credit": 0,
+      "new_se_credit": 0,
+      "change": "Clarified fixed location versus local defensive repositioning of the crystal mass. Connected caretaker overload, remembered architecture without original bricks, conditional room reconstruction and the later irrecoverable outline loss. Distinguished memory identification from an emerging caretaker and Weapon glyphs from the entity body. Explicitly held carried-relic/scale and Transform/extension conflicts rather than inventing a hand-held ruin that unfolds into a house.",
+      "holds": "Primary activation-only versus SideA Can breach via Transform and primary Consequences 'Transform on classification'; no-spread Record versus extending outline/taking more ground; fixed ruin/path/interior versus pick-up/carry/removed artifact log without scale or detached-relay record. Fever-cold versus surface/radiant heat; no-measurable-interior versus ceiling/room measurements; unknown builder/purpose/forgotten reason in combat versus technical caretaker source; falling stone/wound versus no physical injury and no original brick; empty contents versus bed/furnished images outside qualified activation. Trigger reconstruction versus carrying/inert-until-touch; no building/bracing anywhere versus ordinary non-resembling construction allowed; perilous room activation versus survey-only authorized tool use.65/90/25% preserved, no new conversion. Existing glyph/Fang master/detail and item-prose identity, Medium versus archetypeLong, repeated Fang UseNotes name, Tail Bracelet versus Master ocular bucket/Registry5% against4%, body-standard bruising generalized across pieces and underdefined extraction remain holds. No new numeric values, material transitions or equipment permissions.",
+      "commentary": "The best part is the missing wall that good intentions cannot put back: devotion has a visible, irreversible cost. The planning office's limited authority also makes this more than a haunted-house design. A portable miniature would weaken that grounded place unless the source actually explains it.",
+      "short_link": "[Conservatory](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-852_Conservatory_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9E%94%ED%95%B4.md \"SE-N-IVδ-852_Conservatory_잊혀진_잔해.md\")",
+      "full_link": "[[SE-N-IVδ-852_Conservatory_잊혀진_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-852_Conservatory_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9E%94%ED%95%B4.md \"SE-N-IVδ-852_Conservatory_잊혀진_잔해.md\")]"
+    },
+    {
+      "designation": "N-Iα-518",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_05_LIFE_BEHIND_GLASS.md",
+      "status": "held",
+      "no_change": false,
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "logical_outcome": "held",
+      "commit": "df3310169a0c469c368d40981fcdb5781b1989cb",
+      "push": "PUSH VERIFIED",
+      "checks": {
+        "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "tpl": "RESIDUE 0  SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md\n",
+        "sectfile": " 0.036  clean   742 grams  M.A.W. Equipment\n 0.021  clean   530 grams  Combat Record\n 0.018  clean   163 grams  Operational Parameters\n 0.010  clean   686 grams  감각 묘사 (Flavor Text)\n 0.006  clean   171 grams  최종 관찰 (Final Observation)\n 0.000  clean   649 grams  Activation Behavior\n 0.000  clean   614 grams  Pane Record\n 0.000  clean   593 grams  Appearance\n 0.000  clean   383 grams  이야기 (Narratio)\n 0.000  clean   346 grams  기록 (Registrum)\n 0.000  clean   341 grams  관찰 기록 (Observation Log)\n 0.000  clean   249 grams  Behavior\n 0.000  clean   223 grams  이야기 보고 (Story Log)\n 0.000  clean   178 grams  Trivia\n 0.000  clean   137 grams  Origin\n 0.000  clean    50 grams  증언 (Testimonium)\n 0.000  clean    42 grams  SECC Classification\n 0.000  clean    29 grams  (preamble)\n0 section(s) over 0.05\n",
+        "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "sect": "   32   3  | **Han-Energy yield** | 10–14 per successful work cycle, read off the tunnel watch rather than the pane |\n   84   4  | { *The Full Deluge* [**Attack**] } | \"The window gives way — and every tear it ever held pours through the frame.\" | [The pane l\n   85   7  | { *The Weeping Building* [**Ultimate**] } | \"Every window in the field runs with tears — and the combined weeping drowns every v\n  244   6  **Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that draws close around a bearer who has stopped \n  262   2  **Appearance:** a shard-tile of Lament Han-crystal, cool and faintly luminous, that warms for a breath when the bearer looks at it\n  289  19  **Full-set source review (2026-10-11):** Reviewed the `α` overview, all three local item blocks, Use Notes, Field Use Record, and \n  338   1  | Work to the Management entry at the head of this file: a timekeeper named before entry, relief briefed to interrupt, no second c\n  359   7  Three holdings stand within reach of the gallery — The Torn Window, The Memory Rain and The Sleeping Weight — and none of the thre\nGENERIC 0.008  (49 shared shingles)  SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md\n"
+      },
+      "sha256": "8612840b0c64042e6665619162e550671cbccbc5b621fbd8808cf095098486b5",
+      "before_words": 8068,
+      "after_words": 8458,
+      "new_equipment_credit": 0,
+      "new_se_credit": 0,
+      "change": "Aligned SECC and Appearance with the supported resting rain/direct-gaze unfamiliar-life display, keeping the pane stationary and non-opening. Connected earlier worker, current Object-Weight form and observer effects without a trapped human or portal. Corrected Tool Use Mode and Termination/Return to gaze-only viewing and looking away, not equipping/detaching the wall-mounted source. Marked contradictory wear log, water attacks and alternate origin as unresolved, not newly certified forms.",
+      "holds": "No hinge/opening/movement or liquid on tunnel side/no injury versus slamming pane, broken flood and other windows weeping; no escalation versus65% ultimate; direct sight versus45% gauge activation. Tool fields corrected, but old contact/equipping/+10% protection, heightened reactions/focus,60sec5damage/15sec,2minute wear/forced removal and becoming original griever retain no physical/body/permission bridge. Unknown life not viewer's memory versus Side memory and alternate-life wording; no ordinary map view versus earlier physical city view is not silently a current window. Worker staying without asking versus not permitted to inhabit Tale; Keeper erasure Story5 has no chronology joining worker origin. Source gaze-only versus reference to first visible Object-Weight form change, unchanged rain versus cycle quieting/MemoryRain thickening, no remaining-harm short exposure versus raw pressure, recall preserved versus shortened deferred reports retained. Three quarterly samples/three years and decline-destroyed/not-counted versus decline tallies unresolved. Existing Prism/GlassRequiem/SoakingWindowRequiem and tesseract/window-blade, Room/Short2, set-wide immobility cost versus separate shard grief/shroud numb joy, source-only look-away condition versus undefinedSide+1Clarity, cut pieces versus bestowedShard remain equipment holds. No new numbers or transition explanation invented.",
+      "commentary": "The window works best when nothing dangerous visibly happens and the worker simply never returns to their task. The unsolicited job offer gives that quiet loss an institutional counterpart without making the original worker foolish. A wearable pane or flood monster would obscure that design unless its relationship is actually established.",
+      "short_link": "[Life_Behind_Glass](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-518_Life_Behind_Glass_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%B0%BD.md \"SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md\")",
+      "full_link": "[[SE-N-Iα-518_Life_Behind_Glass_솟구친_창](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-518_Life_Behind_Glass_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%B0%BD.md \"SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md\")]"
+    }
+  ],
+  "counters": {
+    "all_maw_types": [
+      245,
+      301
+    ],
+    "maw_w": [
+      245,
+      287
+    ],
+    "se_appearance": [
+      12,
+      301
+    ],
+    "changed": 8,
+    "retained": 4,
+    "held": 7,
+    "blocked": 2,
+    "pending": 280
+  },
+  "word_counts": {
+    "before": 40704,
+    "after": 42575
+  },
+  "whole_wing": {
+    "couples": "COUPLES: 0 / 301 ; files carrying 0 / 301 ; section-pairs 0\n  tiers: >=0.70 0 | 0.60-0.69 0 | 0.50-0.59 0\n",
+    "label_lint": "301audited;0violations",
+    "maw_compare": "301mapped/292Side/287complete4of4/861itempairs; existing candidate holds not normalized; not a semantic PASS",
+    "tests": "10appearance_progress tests PASS"
+  },
+  "prior_credit": "Prior12SEcompletions not retroactively certified under new R08 whole-file requirement. Existing equipment coverage includes holds and is not artwork completion.",
+  "pr": "14OPENdraft→NON-WIKI; owner merge only.",
+  "blocked301": "Eight owner bodies and owner4+4required; generate/validate before wiki copy; no fabricated bodies."
+}

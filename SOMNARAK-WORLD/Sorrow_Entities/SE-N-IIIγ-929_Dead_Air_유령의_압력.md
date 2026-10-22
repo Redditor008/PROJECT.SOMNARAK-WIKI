@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-929 [WH]` |
-| **Entity Type** | **Hazard** — Can breach via Transform |
+| **Entity Type** | **Hazard** — Recorded breach is expansion into adjoining rooms; no transformed body is documented |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Hazard-Spirit |
-| **Physical Form** | Organic — A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there. |
+| **Physical Form** | Non-corporeal pressure anomaly — A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-N-929, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -38,8 +38,8 @@
 
 ### Operational Notes
 
-- The volume carries no sound and is not a vacuum; instruments confirm pressure while registering nothing.
-- Work reduces its extent for a shift. The silence is unchanged, and no session has produced a sound within it.
+- The barometer records atmospheric pressure. The lean, bearing and apparent mass are subjective entries, not instrument readings; no figure or sound has been reported. Lack of an apparition is not evidence of a vacuum or of a measured dead body.
+- Completed watches reduce the gauge even when the form is blank. The recorded boundary changes were entered on the plan, not reversed by Work; gauge relief must not be described as demonstrated recovery of rooms.
 - Three ignored conditions escalate it. The spirit register carries contact, and the first sign is the loss of the crew's own voices.
 - Crews work on physical line signals rather than speech, and a missed signal ends the session for the rotation.
 - Drawing anything off this ground is a risk standing by itself and is authorised by itself.
@@ -66,7 +66,7 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Major pressure hazard; not a Sovereign classification |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
@@ -81,7 +81,7 @@
 |---|---|---|---|---|
 | { *The First Weight* [**Debuff**] } | "It begins as a whisper in the weight." | [The entity's spirit pressure settles over the target.] | *Target feels the weight of weight sorrow.* **[10 Weight DMG [Weight]]** | When the entity first fixes on a target. |
 | { *The Spirit Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of weight spirit sorrow.] | *Weight damage strikes the target; the gauge spikes.* **[21 Weight DMG [Weight]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full weight weight on one point.] | *A devastating Weight strike; the target comes out of it carrying noticeably more than they went in with.* **[29 Weight DMG [Weight]]** | When the entity is cornered or starved. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full Weight pressure on one point of contact.] | *A devastating Weight strike; the target comes out of it carrying noticeably more than they went in with.* **[29 Weight DMG [Weight]]** | When the entity is cornered or starved. |
 | { *The Spirit Collapse* [**Ultimate**] } | "The spirit breaks — and everything it held comes loose." | [The entity's full weight sorrow unleashed in every direction.] | *All personnel suffer Weight erosion for three turns.* **[23 Weight DMG [Weight] (AoE, x3 turns)]** | Once the gauge it has been filling passes 65 per cent. |
 
 ### Battle Phases
@@ -97,6 +97,12 @@
 - M.A.W. use is recorded against the barometer, not the wearer. Every draw in the set is logged with the station reading at the minute of the draw, because that is the only number in the whole holding that nobody has to estimate.
 
 ## Appearance
+
+**Presence without a figure:** The holding occupies rooms as a reported lean, not as a visible organic person. A bearing is the direction a Warden feels the contact from; an apparent mass is an estimate, not the weight of a recovered body. Recognition of somebody known does not establish an apparition or an anatomical outline. Keep the empty-room observation and the uncertainty of the testimony together.
+
+**Extent and observation:** The registered anomaly is fixed; the recorded expansions take adjoining rooms through shared walls. Neither episode establishes a travelling spirit or a rule that exterior walls can never be crossed. The barometer and municipal comparison series measure atmosphere, while the form records impressions. Their loose relationship supplies no demonstrated contact predictor.
+
+**Derived equipment:** The chair rail, barometer oilcloth and calibration weight identify material sources for the Edge, Veil and Token. Their solidity, glow and wearable form do not give the donor a physical body. Directional heaviness and unchanged measured item mass are separate equipment observations, not dimensions of an unseen person.
 
 **Primary Form:** A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there.
 
@@ -158,7 +164,7 @@ The weight is reported, not measured, and the archive is careful to keep those t
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** Complete the watch and file the form, blank or not. Read the barometer at handover; boundary changes are entered on the plan, not treated as a body to subdue.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per room taken, not per turn. Two rooms have been taken in seventeen years and the reading has never exceeded 60%.
 
 ## M.A.W. Equipment

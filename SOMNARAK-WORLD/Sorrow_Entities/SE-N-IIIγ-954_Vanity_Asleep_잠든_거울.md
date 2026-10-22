@@ -154,7 +154,7 @@ Both of the useful Work Types bring the gauge down and neither tells a superviso
 | Field | Detail |
 |---|---|
 | **Event Type** | Corruption of its own zone |
-| **Movement** | None. It is stationary by classification and stays asleep through the event; the zone corrupts outward around a figure that does not stir. The earlier entry describing it pulsing, cracking walls and showing personnel their worst selves contradicted both the Movement field and the holding's finding that what it returns is pity rather than accusation. |
+| **Movement** | None. It is stationary by classification and stays asleep through the event; the zone corrupts outward around a figure that does not stir. |
 | **Effect** | The zone loses definition; colour and sound thin out; no surface in it reflects anything at all. |
 | **Secondary Effect** | Workers in the zone become certain that something is held about them and unsure what, and begin asking colleagues rather than supervisors. |
 | **First Target** | No target. The pressure settles on whoever in the zone is working under a limitation they were never told about. |
@@ -174,15 +174,19 @@ Both of the useful Work Types bring the gauge down and neither tells a superviso
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-Appearance : A rugged bolt-action service rifle fitted with a thirty-inch blued barrel, full-length wooden stock, brass butt-plate, and an extended five-round detachable box magazine.
+**Appearance:** A rugged bolt-action service rifle fitted with a thirty-inch blued barrel, full-length wooden stock, brass butt-plate, and an extended five-round detachable box magazine.
 
 The weapon cycles low-velocity lead projectiles filled with condensed narcotic vapor. The report is low and throaty, leaving behind a faint lavender fog that dulls the senses of nearby combatants.
 
-**Damage:** Void 7-12
+**Damage:** Void 7–12
 **Speed:** 3 (Fast)
 **Range:** 3 (Medium)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
+
+**Attack Pattern:** Skewer
+**Target Coverage:** One primary target and up to two pierced targets on its line
+**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 
 **Ability:** The narcotic round deepens sleep in whatever it strikes. On this holding it is carried for the corridor and has never been fired inside the zone.
 
@@ -193,6 +197,8 @@ The weapon cycles low-velocity lead projectiles filled with condensed narcotic v
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
 **Appearance:** a flowing veil of Void Han-gossamer with no colour to speak of, that stays a little heavier than its weight and moves a half-breath behind the wearer.
+
+The waiting worker’s account and the template reading remain separate: resistance gives time at the line, not evidence that the sleeping posture has stopped correcting itself. The second worker retains the baseline because the wearer may notice their own absence only after somebody else has named it. A calm report is not a substitute for that comparison.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -212,6 +218,8 @@ The weapon cycles low-velocity lead projectiles filled with condensed narcotic v
 
 **Appearance:** a mirror-tile of Void Han-glass, colourless to the point of disappearing in the palm, that warms briefly when sorrow is close by.
 
+Keep its reading of another person’s exhaustion separate from the bearer’s impression of pity. The latter can persist when nobody feels it. A colleague asking whether the cost has lifted is checking the bearer, not interviewing the people whose faces they have misread. Neither impression supplies the sentence a supervisor has never put in writing.
+
 **Slot:** Head
 **Acquisition Probability:** 4%
 **Effect:** +2 to the wearer's work on this holding; no measured effect on any other file in the wing.
@@ -225,6 +233,8 @@ The weapon cycles low-velocity lead projectiles filled with condensed narcotic v
 ### M.A.W. Use Notes
 
 The rifle belongs to the corridor and has never been discharged in the zone. The veil belongs to the wait. The tile is the exception: seven exist, each given after a report that was filed without softening, and the holding is reasonably confident that is the criterion because the four workers who tried to earn one by writing harshly received nothing.
+
+Before cleaning or resting a piece, record the bearer, the contact that triggered it, the particular response, the paid cost and what remains unresolved. Keep the corridor report in its original wording, with the second worker’s comparison alongside rather than merged into it. A witnessed return does not restore a spent memory or turn another person’s pity into evidence. The rifle’s return cannot discharge the wait at the template line or the personnel office’s Said Assessment duty.
 
 ### Field Use Record
 
@@ -242,7 +252,7 @@ The rifle belongs to the corridor and has never been discharged in the zone. The
 **R.D. Comprehension Level:** 2 — Basic
 
 - It has never been observed to move, wake, or open its eyes under direct observation, in any event on record.
-- It does not wake at all. The two escalations on file followed attempts to wake it, which is not the same thing and has been corrected in the Registrum.
+- It does not wake at all. The two escalations followed attempts to wake it; neither is a record of open eyes or a figure approaching a worker.
 - Template displacement is measured each cycle at four fixed points: 6.4 mm this cycle, 4.1 mm and 3.3 mm in the two preceding years.
 
 **Personnel Note:** *"I braced for something accusing. What I got was my own face being handled gently, the way the duty officer handles me when he gives me the easy corridor for the fourth month running and does not say why. I wrote 6.4 millimetres in the book and then I went and asked him. He said there was nothing on my file. He was telling the truth."* — Warden, Alpha Tree
@@ -348,11 +358,11 @@ Some sorrows are about what was lost. This one is about what is known and never 
 > *“His was overturned. He went back on full duty and he was killed three months later. The panel decided correctly on what it had. I have the sentence and the overturn in the same envelope.”* — Widow, statement to the inquiry
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-954 [VS]` · Inner Sorrow (내한) origin · Fragment (III) coherence · Major (γ) potency · Void · Subject-Phantasmal manifestation. The placeholder entries have been filled from the SECC header.
+**Classification:** Sorrow Entity — `N-IIIγ-954 [VS]` · Inner Sorrow (내한) origin · Fragment (III) coherence · Major (γ) potency · Void · Subject-Phantasmal manifestation. The assessment follows the unwritten limitation, the template displacement and the two observers’ independent accounts.
 **Common Name:** Vanity Asleep
 **Containment Status:** Contained in place — Zone A, Alpha Tree; template line, no waking, no repositioning, displacement read every cycle by two observers independently.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ), filled from the SECC header in place of the placeholder. It is stationary, asleep, and has never approached, touched or injured anybody. The documented harms are the two corrupt events, both ended by speech, and the effect on the watch: workers who leave the zone certain that something is held about them and go to ask, correctly, and are told, truthfully, that there is nothing written.
+**Threat Assessment:** Major (γ). It is stationary, asleep, and has never approached, touched or injured anybody. The documented harms are the two corrupt events, both ended by speech, and the effect on the watch: workers who leave the zone certain that something is held about them and go to ask, correctly, and are told, truthfully, that there is nothing written.
 **Containment & Handling Procedures:**
 - Flerehan is primary, with Ferrehan for the wait; Viderehan records the avoided truth. Pugnahan is not applied — it fractures the surface and holds the gauge up for the cycle.
 - The sleeping figure is not to be woken, moved, or touched; the template is laid against it, never on it.
@@ -396,7 +406,7 @@ Nothing in the existing Record is overturned. The reflection still comes only af
 
 What it costs is the certainty of the kindness. Not labelling people was right. The Medical Board's study has never been answered, and nobody at this holding proposes to reinstate a status that followed workers into every drafting room for the rest of their lives. The watch's position is narrower: that the label was abolished and the judgement was not, that an unwritten finding is the one kind a person can neither read nor contest, and that two thousand people here are being managed around something nobody will put in a sentence.
 
-The operational consequence lies outside the zone. Nothing done at the template line has ever moved the displacement — not lighter watches, not the instrumented year, not the two attempts at continuous observation, both of which failed in the specific sense that the correction still happened and still was not seen. The only thing that has moved with it is the Said Assessment: where a worker's assignments are being limited on judgement, that judgement is written in one sentence, signed by the person who holds it, given to the worker, and appealable. In Year 4237 that produced 2,040 written sentences; 312 appeals, of which 47 succeeded; 190 workers who had not known and now did; 23 resignations within a month of reading; six sentences subpoenaed in claims against the Company; and one Agent whose limitation was overturned, who returned to full duty and was killed in a event three months afterwards. The panel decided correctly on what was before it. His widow holds the sentence and the overturn in one envelope and has declined to comment further. The file sets that beside the displacement column, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
+The operational consequence lies outside the zone. Nothing done at the template line has ever moved the displacement — not lighter watches, not the instrumented year, not the two attempts at continuous observation, both of which failed in the specific sense that the correction still happened and still was not seen. The only thing that has moved with it is the Said Assessment: where a worker's assignments are being limited on judgement, that judgement is written in one sentence, signed by the person who holds it, given to the worker, and appealable. In Year 4237 that produced 2,040 written sentences; 312 appeals, of which 47 succeeded; 190 workers who had not known and now did; 23 resignations within a month of reading; six sentences subpoenaed in claims against the Company; and one Agent whose limitation was overturned, who returned to full duty and was killed in an event three months afterwards. The panel decided correctly on what was before it. His widow holds the sentence and the overturn in one envelope and has declined to comment further. The file sets that beside the displacement column, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
 
 ### Too Tired to Look
 
@@ -411,8 +421,8 @@ It formed from self-knowledge people were too exhausted to face, and the commiss
 
 ### Registry Trivia
 
-- **Classification detail:** Subject, Fragment (III) coherence, Major (γ) potency, Comprehension Level 2, Subject-Phantasmal. The Registrum carried placeholders in every one of those fields; filled from the header.
-- **Field detail:** Void; Zone A, Alpha Tree. The Operational Parameters line gave the M.A.W. grade as a pair of em dashes against three graded γ pieces and an activation threshold of 2 against a continuously sleeping entity; both corrected.
+- **Classification detail:** Subject, Fragment (III) coherence, Major (γ) potency, Comprehension Level 2, Subject-Phantasmal. Neither an unchanged gauge nor a quiet watch accounts for the displacement measured between sessions.
+- **Field detail:** Void; Zone A, Alpha Tree. All three equipment pieces are γ. The sleep and the between-session corrections continue without a work counter running down.
 - **Recognition detail:** Identify it by the template displacement and the sleeping posture, not by the reflection; the reflection is only ever available to somebody who has already turned away.
 - **Record detail:** Four reflection files sit in this index. Read the designation. This is the one that will not show you anything while you are looking.
 - **Containment detail:** A template, a line, a book of millimetres, and a rule in the personnel office about writing one sentence down and handing it over.

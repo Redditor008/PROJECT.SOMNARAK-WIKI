@@ -121,7 +121,7 @@
 | **Distinctive markers** | A column-shaped hole in the air at a grid position where the drawings show structure, casting no shadow and holding nothing up. |
 | **Identification** | Confirm before Work or contact: designation N-IIIγ-409, Void expression, Subject-Spirit manifestation, Zone C at the Mask Market. If any one of the four does not agree with what is in front of you, do not proceed. |
 
-**Appearance protocol:** Take both bearings before anything else, independently, and write both down even when they disagree — especially when they disagree, because the disagreement is the only external check this holding has. Then the elevation, the dimensions of the gap, the rotation, and the first words heard with the time against them. Write concretely enough that another officer could find the thing from your sheet. *Unusual* is not a field-report word.
+**Appearance protocol:** Take both bearings before anything else, independently, and write both down even when they disagree — especially when they disagree, because the disagreement must stay visible even though both marks share the same externally unreferenced floor. Then the elevation, the dimensions of the gap, the rotation, and the first words heard with the time against them. Write concretely enough that another officer could find the thing from your sheet. *Unusual* is not a field-report word.
 
 ## Origin
 - **Formation:** The Pillar formed from an absence made visible through memory.
@@ -148,7 +148,7 @@ Floating Pillar is a Subject with Subject-Spirit manifestation and Void expressi
 **Reading the response:** Read it in the voice and the rotation. A falling gauge presents as a single direction — the voice resolving to above or below instead of both — and the rotation slowing against the marks. A rising gauge presents as silence spreading outward from the gap, which workers consistently report as the bay going deaf rather than quiet. If the sound is leaving, the next action is to stop work, not to persist and log it.
 ## Containment Event Behavior
 
-'> *"Transformation in place, Zone C, grid F7. The absence is wider, the bay is going deaf, and nothing has come toward anybody."*'
+> *"Transformation in place, Zone C, grid F7. The absence is wider, the bay is going deaf, and nothing has come toward anybody."*
 
 | Field | Detail |
 |---|---|
@@ -215,7 +215,7 @@ The obsidian body is polished to a glassy mirror finish without tool marks. Pier
 **Acquisition Probability:** 4%
 **Effect:** +2 Composure while working the gap from the two marks.
 
-**Ability:** Reveals false supports and hidden instability.
+**Ability:** Reveals false supports and hidden instability. The diagnosis is not a verdict: verify current help through behavior, stated limits and reciprocal acknowledgment, without replacing consent with diagnostic certainty.
 
 **Cost:** The wearer feels every support they once imagined.
 
@@ -268,7 +268,7 @@ A piece cut from Floating Pillar is not ordinary equipment and is not treated as
 Floating Pillar (N-IIIγ-409 [O]) is carried on the wing's register as a Subject-Spirit manifestation expressing Void. The Pillar formed from an absence made visible through memory. Held at Zone C, Mask Market. The voice has no measurable source, and the absence has held its elevation across every reading the two marks have produced.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
-Floats through reflective spaces in the Mask Market. Personnel feel emptiness where they expected protection. It is strongest near masks and false identities.
+Holds the registered gap above the Mask Market floor without recorded travel. Personnel feel emptiness where they expected protection. It is strongest near masks and false identities.
 
 **Entry 3 — <Excerpt from Counseling Log>**
 The grief of discovering that a cherished support never truly existed.

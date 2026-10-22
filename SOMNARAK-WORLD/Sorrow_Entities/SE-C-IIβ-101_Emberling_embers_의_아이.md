@@ -70,7 +70,7 @@
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan, Viderehan, and Ferrehan; Pugnahan was attempted historically but is now prohibited |
 | **Battlefield** | SECTOR-D-02, Echo Gardens — contained |
 | **Resolution Condition** | Sit beside it, share warmth, and offer comfort. Do not chase or seize the ember |
 
@@ -124,7 +124,7 @@
 | **Distinctive markers** | Light without heat; a slow cautious gait that avoids open ground; and one ember carried in both hands that has never gone out, including through the coldest night the holding has recorded. |
 | **Identification** | Confirm designation `C-IIβ-101 [LS]`, Echo (II) coherence, Moderate (β) potency, Subject-Body manifestation, Lament element, SECTOR-D-02. Two other Gardens holdings present as small figures in poor light and neither carries anything; the carried ember is the identifying mark and is confirmed before approach. |
 
-**Appearance protocol:** Log size against the outline card, position on the Gardens grid, stance, brightness against the lamp scale, and the ember confirmed present in both hands. Brightness is the gauge-leading indicator here and is taken first. Write concretely: the entity has measurable features and none of the field words for 'unsettling' belong in the log.
+**Appearance protocol:** Log size against the outline card, position on the Gardens grid, stance, brightness against the lamp scale, and the ember confirmed present in both hands. Brightness is the gauge-leading indicator here and is taken first. Write concretely: the entity has measurable features and none of the field words for 'unsettling' belong in the log. Record body brightness and the carried ember's dimming-series reading separately, naming which light each entry measures. The file associates brightening with escalation and with successful attendance; a brighter reading without its source is not a single operational verdict.
 
 ## Origin
 - **Formation:** The Child formed from a forgotten fairy tale about a girl carrying embers through the cold while searching for warmth no one could give.
@@ -191,7 +191,7 @@ Emberling is a Subject with Subject-Body manifestation and Lament expression, he
 **Target Coverage:** Forward cone; up to 3 targets
 **Falloff Rule:** Primary impact 100% → peripheral spark targets 60%.
 
-Appearance : An 85cm short-barreled trench carbine assembled from fire-charred ash wood and riveted iron plates, featuring an open top-loading furnace hopper. It discharges incandescent coal embers that explode into scattering orange sparks.
+**Appearance:** An 85cm short-barreled trench carbine assembled from fire-charred ash wood and riveted iron plates, featuring an open top-loading furnace hopper. It discharges incandescent coal embers that explode into scattering orange sparks.
 
 The brass firing breech stays perpetually red-hot, venting thin plumes of grey chimney smoke from side louvers. Squeezing the iron lever-action trigger ejects spent slag cartridges, launching three high-velocity embers that detonate on contact to inflict burning Lament trauma across Range 4.
 
@@ -205,7 +205,7 @@ The brass firing breech stays perpetually red-hot, venting thin plumes of grey c
 **Category:** Protective Attire (Fire-Retardant Spun Asbestos & Coarse Ash Wool)
 **Grade:** β | **Element:** Lament
 
-Appearance : A heavy hooded cape tailored from fire-retardant spun asbestos and coarse mountain wool, dusted with permanent coal ash. It clasps at the collar with a forged cast-iron grate hook.
+**Appearance:** A heavy hooded cape tailored from fire-retardant spun asbestos and coarse mountain wool, dusted with permanent coal ash. It clasps at the collar with a forged cast-iron grate hook.
 
 The lower hem is singed into permanent glowing charcoal edges that never burn through the dense fabric. Microscopic heat pockets woven throughout the lining shield the wearer from freezing cold and disperse explosive thermal shockwaves outward.
 
@@ -226,7 +226,7 @@ The lower hem is singed into permanent glowing charcoal edges that never burn th
 **Category:** Stigma (Neck / Collar Smoldering Coal Setting)
 **Grade:** β | **Element:** Lament
 
-Appearance : A rough nugget of petrified coal secured in an iron prong brooch setting, worn pinned over the collar. It radiates gentle radiant warmth through the bearer’s coat.
+**Appearance:** A rough nugget of petrified coal secured in an iron prong brooch setting, worn pinned over the collar. It radiates gentle radiant warmth through the bearer’s coat.
 
 A dormant orange ember pulses deep within the fractured black mineral, glowing brighter whenever the wielder takes physical or emotional damage. It provides constant internal comfort, mitigating panic and sub-zero environmental penalties.
 
@@ -244,6 +244,14 @@ A dormant orange ember pulses deep within the fractured black mineral, glowing b
 
 Each Emberling piece is an extension of a cold that gives light rather than ordinary equipment. The listed benefit holds for a bearer who can be near distress without trying to fix it; it turns on a bearer who uses it to manage other people, and the recorded cost in each such case has been a flat, unembarrassed inability to be comforted.
 
+The set is *Unspent Ember*, and its resonance is *Open Door*. A full-set bearer leaves a real place of safety available to another person and accepts named relief before departing. The warmth field lets someone remain without panic; it cannot supply an absent shelter or make the bearer the only possible protector. Its cost is lost sharpness in one happy memory until that memory is revisited with another person, never by forced recollection.
+
+Before drawing the Carbine, name a return place and the person who can verify it. The mote stays dim until the return-chair record is completed. Protection used to make somebody dependent turns it dark and sends the Lament cost to the bearer. The original ember is never a charging source. A return witness closes the hopper and covers the mote with insulated felt; smothering it scatters cold through the bearer’s happy associations.
+
+The Ashen Cloak requires a relief person and a free exit. Its Second Chair holds one incoming cold or abandonment surge only through handover or until the protected person leaves; absent relief at the declared time, Lament resistance returns to 1.0. Air it at an open doorway beside two chairs, one empty, without applied heat or raw Han. Ash at the collar warns of overcommitment; a black lining marks small joys being consumed in imitation of warmth.
+
+The Brooch’s memory companion checks one chosen happy memory after activation, including a sensory detail, in a private record rather than a performance metric. A second clasp remains cold. Concealed loneliness and sensory fading require review even when the physical warmth held. For shutdown the companion names the memory, removes the clasp and leaves it beside an empty chair; breaking the glass drives stored cold into the remaining warm memories.
+
 ### Field Use Record
 
 | Stage | Required record |
@@ -251,7 +259,7 @@ Each Emberling piece is an extension of a cold that gives light rather than ordi
 | **Before use** | Operator, grade, Sorrow Gauge, state of mind in the operator's own words, equipment state, mission objective, brightness against the lamp scale, ember confirmed present, and whether the operator volunteered for the watch or was assigned. |
 | **During use** | Approach distance, the pace at which it stopped, brightness at each quarter-hour, position on the Gardens grid, first cost, and any moment the operator's attention left the entity. |
 | **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the operator asked to stay on past the limit. |
-| **After use** | Withdrawal method, brightness at withdrawal and at twelve hours, lingering effects, cooldown, rotation status, reuse authorisation. |
+| **After use** | Withdrawal method, brightness at withdrawal and at twelve hours, lingering effects, cooldown, rotation status, reuse authorisation. Keep the equipment return and the Gardens attendance book separate: a closed return-chair record does not settle the unpaid sitting or the presence-allowance proposal. |
 
 **Stat interpretation:** The ratings describe what a piece does to entities and say nothing about what it does to the bearer. The Emberling pieces rate low and cost quietly, and the Keepers' standing advice is that they suit people who are already warm and ruin people who are not.
 ## 관찰 기록 (Observation Log)
@@ -273,7 +281,7 @@ Each Emberling piece is an extension of a cold that gives light rather than ordi
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Emberling as a Subject with Subject-Body manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-D-02, Echo Gardens — contained. |
+| **Initial exposure** | The observer identifies Emberling as a Subject with Subject-Body manifestation. Confirm the carried ember and the slow, cautious gait that avoids open ground before approach; Lament signature and SECTOR-D-02, Echo Gardens — contained, complete the registration check. |
 | **Sustained observation** | Confirms the three constants: it seeks warmth and cannot make any, personnel near it feel cold regardless of the glow, and it settles for anybody who sits without asking anything of it. Keep the emotional effect and the brightness in separate columns — they move on different clocks and conflating them cost the file two years of usable series. |
 | **Activation or escalation** | Record brightness first, then grid position, then distance of approach, then the gauge. The entity will not change shape or speed; everything observable at this stage is light and distance. |
 | **Post-contact review** | Note what changed in the entity, in the room and in yourself, what held, and what was hardest to name. A report on this holding is incomplete if it logs the hazard and omits that the most effective containment measure available is a person sitting down, and that the facility has never found a way to require it. |

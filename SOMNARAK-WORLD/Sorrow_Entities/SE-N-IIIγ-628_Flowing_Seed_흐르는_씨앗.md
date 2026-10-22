@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Mixed — A burst seed whose sprout is a writhing mass of dark root-tendrils — a many-limbed root-creature oozing black Han, dragging itself forward. Lead-cold, it smells of wet stone. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Mobile — drags itself on root-tendrils and flows as it crawls; advance is measured against surveyed pins. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -94,7 +94,7 @@
 
 - Personnel who cannot hold against the pressure lose **Resolve** by the hour, and the file's own screening rule is not a gauge figure: a Warden who describes the weight in the first person comes off the post that day, whatever the instruments say.
 - Extended contact risks Flowing Seed’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
+- M.A.W. costs are piece-specific: the Seax brings perceived heaviness and slight ageing with prolonged use; the Mantle leaves low fatigue; the Vial makes the bearer carry the collected pressure afterward.
 - Without the resolution the flow does not stop. It leaves the corridor through the floor and travels the roots, and denied containment it plants in whoever is nearest rather than going somewhere harmless. The planting is not felt at the time, which is why the ground ahead is cleared rather than the ground behind defended.
 
 ## Appearance
@@ -118,7 +118,7 @@
 | **Form** | A seed-shaped place of emptiness through which black Han flows like a river. |
 | **Position / movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). Posture and distance are logged because on Flowing Seed neither has ever been assumed. |
 | **Material / signature** | Weight. Lead-cold, wet stone, dark Han oozing from the tendrils and left in the track. |
-| **Distinctive markers** | Pin displacement since the last watch, softened ground behind it, and the loaded-plate curve falling off with distance. |
+| **Distinctive markers** | Advance against the surveyed pins since the last watch, pin replacement where ground softens, and the loaded-plate curve falling off with distance. |
 | **Identification** | If the corridor floor reads normal and the pins have moved, trust the pins. |
 
 **Appearance protocol:** Pin reading, plate curve, pin-replacement log, and the state of the floor behind it. Four readings and no adjectives.
@@ -136,7 +136,7 @@
 | Work Type | Response | Gauge Change |
 |---|---|---|
 | **Flerehan** (Tears) | Barred. Twice attempted; the entity takes the opened grief as a channel and plants in the worker. | Increase |
-| **Pugnahan** (Confrontation) | Barred. Ordered once, in Year 4216; it damned the flow and the corridor took the full bloom. | Increase |
+| **Pugnahan** (Confrontation) | Barred. Ordered once, in Year 4216; it dammed the flow and the corridor took the full bloom. | Increase |
 | **Viderehan** | Steady enough to work the pins and the plate from the raised post. | Stable |
 | **Ferrehan** | The long watch under the weight, with the honours file read and its one-line note read aloud. | Decrease |
 
@@ -253,15 +253,15 @@ The blade flat is etched with botanical germination diagrams filled with dark co
 
 ### M.A.W. Use Notes
 
-Every piece in the set is cut from the holding it is issued against, and it carries that holding's manner of pressing: weight that arrives without announcement and leaves slowly. The grade describes how stable the extraction was, not what the tool is like to carry. The toll sits in the column beside it — the bearer goes heavy and the ageing shows first in the hands — which is why the set is issued one rotation at a time and why the armoury reads the return baseline before it reads anything else.
+Every piece in the set is cut from the holding it is issued against, and it carries that holding's manner of pressing: weight that arrives without announcement and leaves slowly. The grade describes how stable the extraction was, not what the tool is like to carry. Record the selected piece's toll: perceived heaviness and slight ageing with prolonged Seax use, fatigue during and after Mantle use, or the pressure carried after a Vial draw. The set is issued one rotation at a time and the armoury reads the return baseline before it reads anything else.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline taken by the second worker against the set's known toll: the bearer gets heavier without gaining weight. The envelope stays sealed until the rotation ends. |
-| **During use** | Every occurrence of the toll, timed. The bearer reports heaviness and the second worker records the hour; one is noted, and a pattern across a shift ends the use and brings the piece back. |
-| **At limit** | The toll is continuous rather than occasional — a constant low fatigue the bearer stops noticing. The second worker's call stands against the wielder's, and on this set it has always been the one taken. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline taken by the second worker against the selected piece's toll: perceived heaviness and ageing, fatigue, or carried room pressure. The envelope stays sealed until the rotation ends. |
+| **During use** | Every occurrence of the selected piece's toll, timed and named rather than recorded as heaviness by default. The bearer's account and the second worker's reading are kept separately. |
+| **At limit** | The Mantle's constant low fatigue can go unnoticed. Do not substitute that sign for the Seax's heaviness and ageing or the Vial's carried pressure; record the selected piece and the reason use ended. The second worker's call stands against the wielder's. |
 | **After use** | Return the piece, open the sealed baseline, and record whether the toll has reversed. Where it has not, the piece is not reissued to that wielder, a rule the armoury has applied without exception. |
 
 **Stat interpretation:** The grade measures how cleanly the piece was taken from its source; it says nothing about what the piece does to the person holding it. A low-grade tool can perform flawlessly and still return a bearer who is heavier for a season, and on this set the two columns have never moved together. Read both columns and authorise on the second.
@@ -359,7 +359,7 @@ This Company issues no posthumous commendation of any kind. No citation, no plaq
 
 The cause is in the minute books and is not disputed. Honours after a death had become the cheapest way to close one. A citation was issued, a ceremony held, the family thanked in public — and the inquiry quietly discontinued, because a family that had accepted a medal was taken to have accepted the account of the death that came with it. Eleven inquiries were closed that way in a single decade. The commendations were abolished and no one has proposed restoring them.
 
-What follows from it is that nothing is written. A death in service and a resignation leave the same mark on a personnel record — a termination code and a date — and the Company has no document anywhere that says a named person died doing the work. Families have nothing to show. Workmates have nothing to point at. A child who asks what happened to their father is told, truthfully, that there is no file.
+The consequence before the Plain Statement scheme was that a death in service and a resignation left the same mark on a personnel record — a termination code and a date — without a factual statement of the work in which the person died. The scheme described below now offers that statement without commendation or waiver; it has not supplied one to families whose facts the inquiry cannot establish. Those families still have nothing from it to show.
 
 The soldier at the root of this holding died before any of that was written, in a small border action the city did not memorialise, and his citation was drafted under an older rule and stopped under none at all. His anger went into a dormant Sorrow Seed in the Echo Gardens and the seed, which had lain still for centuries, began to move. It did not sprout. It has never sprouted. It travels, three and a half metres a watch, and the ground stays heavy behind it.
 
@@ -418,7 +418,7 @@ Position is fixed each watch against iron pins driven along the vault corridor, 
 
 The advance tracks the number of deaths in service in the preceding quarter whose only surviving record is a termination code and a date. An inquiry-office clerk established the match over three years from payroll alone. Tide windows, root condition, vault temperature and the holding's own gauge were tested against the series and lost; nobody has produced a competing explanation in the nine years since.
 
-This Company issues no posthumous commendation. The prohibition is absolute and the reason is in the minute books: honours after a death had become the cheapest way to close one, because a family that accepted a medal was taken to have accepted the account that came with it, and eleven inquiries were discontinued on that footing in a single decade. The abolition was correct. Its consequence is that a death at the face and a resignation leave the same mark on a personnel record, and the Company holds no document anywhere stating that a named person died doing the work.
+This Company issues no posthumous commendation. The prohibition is absolute and the reason is in the minute books: honours after a death had become the cheapest way to close one, because a family that accepted a medal was taken to have accepted the account that came with it, and eleven inquiries were discontinued on that footing in a single decade. The abolition was correct. Its consequence was a personnel record on which a death at the face and a resignation left the same mark. The Plain Statement scheme below now provides a separate factual account where the inquiry can establish one; it neither restores honours nor supplies the missing facts in refused cases.
 
 ### The Plain Statement
 

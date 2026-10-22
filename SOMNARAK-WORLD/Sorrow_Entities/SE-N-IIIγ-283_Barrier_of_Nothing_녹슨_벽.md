@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Mixed — A dreamlike humanoid formed from rusted wall plates fused together — corroded, bleeding orange, standing beside the Exile's Gate though it blocks no passage. Lead-cold, it smells of wet iron and char; a wall that learned to walk. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — normally stands beside the Gate; in the two recorded escapes it walked out and stood elsewhere. No pursuit or obstruction is recorded. |
 | **Location** | Zone E, Exile's Gate vicinity |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -116,12 +116,14 @@
 | Field | Detail |
 |---|---|
 | **Form** | A dreamlike humanoid formed from rusted wall plates. It appears beside the Exile's Gate and blocks no physical passage. |
-| **Position / movement** | Mobile — upright on its own legs, able to breach and pursue. Entered against the previous figure at every cycle on this ground. |
+| **Position / movement** | Standing square to the old wall line during ordinary observation; it has moved in the two recorded escapes, then stood beside another passage without pursuing anyone or blocking the route. Compare its position, the line and the transit sheet. |
 | **Material / signature** | Weight. Rusted plate, bleeding orange, lead-cold; wet iron and char. No sound at any range. |
 | **Distinctive markers** | The accumulating marks on the plates and the fact that people walk through where it is standing. |
 | **Identification** | Subject-Dream, not a structure. If it is not standing in the shape of a man, it is one of the other wall files. |
 
 **Appearance protocol:** Log the transits, the extent of the barrier along the old wall line, and the panel impression. Do not log an interpretation of the marks; two Wardens tried and both wrote that they had stopped.
+
+**Reading the figure:** The standing human outline belongs to the Subject, assembled from rusted plate rather than a person inside armor. The old wall line is its orientation, not a solid barricade: transits continue through its occupied space. Dream-rust in a sleeper is an after-contact effect, not evidence that nearby metal is corroding. The issued harness and granted Charm are separate equipment, not detached limbs; Side A describes dream-rust materialization without removing a plate. The panel rubbing and solid-shard attacks still need a supported account of contact with this passable figure.
 
 ## Origin
 - **Formation:** From a boundary that outlasted its own reason and was never taken down.
@@ -234,10 +236,10 @@ The halberd belongs to the Gate's fabric and the plate to the Ferrehan stand. Th
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Barrier of Nothing takes: the wielder tires early and keeps tiring early for some weeks after handing it in. |
-| **During use** | Watch for Barrier of Nothing's toll — the wielder tires early and keeps tiring early for some weeks after handing it in — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The wearer is hard to admit into a room. Crews report it before the wearer does, and the wielder has stopped reporting it — the usual end point for a Barrier of Nothing piece. The observer calls the limit. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether Barrier of Nothing's cost is still showing — the wearer is hard to admit into a room. Crews report it before the wearer does. |
+| **Before use** | Name the piece and its bearer. For the halberd, establish fatigue before issue; for the Plate, name the colleague who will notice exclusion from a room; for the Charm, record the bearer's ordinary stride and threshold hesitation. These are different costs, not one shared fatigue scale. |
+| **During use** | Keep the halberd directed at the Gate's timber or plate, never at the Subject. Record early tiring for its wielder, failed welcome for the Plate wearer, and slowing or threshold stops for the Charm bearer. The linked Maul's closure-breaking account remains a separate unresolved Weapon record. |
+| **At limit** | The outside observer names the affected piece and the sign actually seen. A Plate wearer no longer noticing exclusion is not evidence that the halberd wielder or Charm bearer has the same symptom. Do not turn the source's non-obstruction into permission to force an equipment wearer across a threshold. |
+| **After use** | Continue the halberd wielder's fatigue record after hand-in. Ask colleagues whether the Plate wearer is still being left outside the room, and record whether the Charm bearer still hesitates at thresholds. The granted Charm is not an issued piece to be returned by copying the Weapon procedure. |
 
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 
@@ -303,9 +305,9 @@ You dream of a wall that has no end. On one side stands the city; on the other, 
 
 **At first contact:** Weight first, lead-cold, wet iron and char, and no sound at all. Then the figure: plate fused into a standing shape beside the Gate, bleeding orange, square to a wall that is not there. Someone walks through the space it occupies while you are still looking at it.
 
-**With continued exposure:** Time stretches in the containment zone. The Subject-Dream becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
+**With continued exposure:** The infirmary counts days of rust in sleep after a watch, not stretched time at the Gate. Its duration column lengthens while the transit count stays steady and nobody is obstructed. Keep the worker's duration beside the standing-bar roster; the Tale tests that relationship against transit count, extent, season and hours stood, without treating the match as proof of a cause.
 
-**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Weight becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Dream was waiting; now it moves.
+**When the entity activates:** Its standing presence is continuous. The recorded escalation after Pugnahan is harder plate, extension along the old wall line and a narrower dream-space for the wing's sleepers. This is not a finding that the route has closed. Withdraw to the transit line and record who applied what; the action table and linked Side Codex still carry physical attacks and closure claims that the holding's non-obstruction record does not reconcile.
 
 **After departure:** Departure is not relief. The Subject-Dream is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
 

@@ -15,7 +15,7 @@
 | **Element** | Weight |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A long chain whose links are carved of memory-crystal, each holding a captured face, place, or moment frozen inside. Lead-cold, it smells of wet stone; it lengthens with every memory taken, dragging the past behind it. |
-| **Movement** | Stationary — a discrete object. |
+| **Movement** | The Chain has never moved itself. It has been found rearranged on its stand twice, both times after a shift in which the count rose, and both times coiled rather than laid flat. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
 | **Recommended response** | Work the Chain as a single object and never a single link. Viderehan is read standing at the rail with the links laid flat; Ferrehan is sat beside it with both hands on the floor and neither on the crystal. The gauge answers to posture more than to duration — the four lowest readings on file were all taken by workers who never changed position. |
@@ -99,6 +99,9 @@
 - An unclosed cycle does not provoke the Chain. It lengthens it. Every cycle left with a link raised has been followed within a week by a count one higher than the last, and the new link is always at the faceless end.
 
 ## Appearance
+
+**One object, changing catalogue:** The crystal links make the burden of communal remembering material without making a person’s body out of it. The new end carries visible images; the oldest links preserve feeling without faces. Its ordinary holding is the trestle and rail, with part of the length lying on the floor. Changes in count, order, tension and the arrangement on the stand are separate readings. None by itself establishes that the Chain has pursued a worker or become a mobile subject. Count additions before assigning an image or an owner to a new link, and distinguish a face revealed by the Broken Mirror’s presence from a new link actually added.
+
 **Physical Form:** A long chain made of memory-crystal links. Each link contains a face, place, or moment.
 
 **Notable Features:** It links memories across people, tightens when a memory is denied, and grows with shared history.
@@ -120,15 +123,15 @@
 | **Position / movement** | Fixed on its stand at the rail. The only recorded displacement is a change in how it lies — coiled instead of flat — and only on nights when a link was added. |
 | **Material / signature** | Memory-crystal, lead-cold to the hand at any room temperature, smelling of wet stone. Links at the newest end hold a visible face; links past roughly the two-hundredth hold no image at all and are warm instead of cold. |
 | **Distinctive markers** | The sequence is not chronological. A link holding a child's face sits between two links holding the same person as an adult and as a corpse, and the three have never been adjacent in that order twice. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Identification** | Confirm the memory-crystal Chain at Collector’s Row by its chalked link count and the boundary between visible faces and warm faceless links. Keep hands outside the rail during identification; neither reading the count nor recognising a face permits touching and naming its owner. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Count the links before reading their contents. Photograph the visible sequence from the rail, mark where faces give way to faceless links, and measure length against the fixed floor anchor. Keep warmth at the old end separate from the lead-cold visible links; an absence of a face is not a missing link. If the Chain is found coiled, log its arrangement and the shift’s count without reporting witnessed self-locomotion. During contact, the borrowed room is reported by the worker: observers outside the rail see the worker stand still. Preserve that difference in the log rather than claim a visible room replacement.
 
 ## Origin
 - **Formation:** The Chain formed from memories passed through families and communities.
 - **The Sorrow:** The weight of remembering for people who cannot or will not remember themselves.
 - **The Event:** Families traded memories to preserve history after records were destroyed; the memories crystallized into links.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** Eleven households of the lower terraces whose ledgers were seized. Surviving commissioning lists record what each agreed to remember for others; four household names are recoverable only from the Chain, while unapproached households left gaps in the lists and no links in it.
 - **Expanded origin context:** The Collector's Row file traces the Chain to eleven households of the lower terraces whose ledgers were seized in the same week of Year 4,188. Four of the eleven names are recoverable from the Chain itself and from nowhere else; the register that held them was pulped. What the Row preserves is therefore not a legend but an index, and the index is the last surviving copy.
 
 ## Behavior
@@ -175,6 +178,8 @@ The table understates one thing and should be read with it in mind: the Chain's 
 | **Risk** | The user's identity may become tangled with another person's past. |
 
 **Operational Rule:** The relic is worn, never carried in a case, and never worn by a second bearer inside the same week — the Chain treats two bearers in close succession as one continuous wearing and times the thresholds accordingly. The Armoury keeps the seven-day interval on the stand itself, chalked beside the count.
+
+**Relic deployment boundary:** The timings below belong to wearing the source Chain, not to wielding its extracted flail or putting on the Mantle. Ordinary Work keeps the observer at the rail and the endurance worker beside the stand without hands on crystal. Wearing, touching a link and naming its owner require the separate relic certification and the recorded family-history exclusion. Releasing contact ends the immediate connection; it is not a promise to reverse an exchange already made. The bearer unwinds the source from the shoulder rather than a helper lifting it off whole.
 
 ### Log and Method
 
@@ -223,6 +228,8 @@ The Chain does not escalate outward. It escalates by growing, and the growth is 
 
 **Cost:** After the third strike the wielder begins to recall the fight in the wrong order, and continues to recall it in the wrong order permanently. Three veterans of Collector's Row can give exact accounts of engagements whose sequence they will defend and which the duty log contradicts.
 
+**Weapon custody:** The memory-crystal flail is an extracted piece, not permission to cut a source link. The source-trace cost additionally records growing heaviness and slight ageing; keep those observations beside reordered combat recall rather than silently substitute either for the other. Before cleaning or resting the weapon, preserve the bearer’s exact account and its attribution. A named witness states the Chain’s title and the households’ preservation event while the weapon is relinquished. That shutdown preserves the record, not a guaranteed restoration of memory.
+
 ### M.A.W. Suit — The Memory Mantle
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
@@ -240,6 +247,8 @@ The Chain does not escalate outward. It escalates by growing, and the growth is 
 **Ability:** The wearer's own history is held out of reach of anything that reads it. Memory-drawing effects take the mantle's borrowed recollections first and return nothing when they are exhausted. The wearer cannot be made to forget while it is worn, including by the facility's own procedures, which is why it is logged and not freely issued.
 
 **Cost:** The mantle's borrowed recollections surface at rest rather than in action. Wearers sleep badly in the week after a deployment and describe the dreams as somebody else's and uninteresting.
+
+**Mantle custody:** Keep the shoulder garment separate from wearing the whole source Chain. Borrowed dreams after deployment and the source-trace’s constant fatigue are both review fields; the collar’s temperature contrast identifies the garment but does not establish the source relic’s elapsed-wear thresholds. Preserve attribution before the Mantle is cleaned or rested. The witness names the households’ memory-preservation event during relinquishment, without treating removal as repayment of what the bearer has carried.
 
 ### M.A.W. Stigma — The Memory Link
 
@@ -259,16 +268,16 @@ The Chain does not escalate outward. It escalates by growing, and the growth is 
 
 ### M.A.W. Use Notes
 
-The Chain's three pieces share one rule that no other set in the registry has: each of them holds somebody, and the holder is told who. The flail's face is unidentified and the Armoury has declined four requests to have it researched; the mantle's links are drawn from the faceless end and hold feeling without image; the Stigma is the one piece the Chain issues rather than yields, and it has been issued four times, always to the worker who completed the count rather than the one who performed the work.
+The Chain’s three pieces carry other people’s recollections, but identification is not assured: the flail’s face remains unidentified, and the Mantle and Link can be faceless. A bearer is told the attribution limit rather than supplied with an invented owner. The flail's face is unidentified and the Armoury has declined four requests to have it researched; the mantle's links are drawn from the faceless end and hold feeling without image; the Stigma is the one piece the Chain issues rather than yields, and it has been issued four times, always to the worker who completed the count rather than the one who performed the work.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | The bearer states their mother's name, their own earliest memory, and the street they grew up on, and a Warden writes all three down. This is the baseline the deployment is measured against and the only one that has ever caught an exchange early. |
-| **During use** | Elapsed seconds at each warming of the collar, the content of any borrowed recollection the bearer narrates, and the exact words of any question the bearer asks about a person not present. |
-| **At limit** | The second-minute mark, whether the bearer hesitated on the baseline questions, and which of their own three baseline answers changed. One changed answer is a withdrawal; two is a medical matter. |
-| **After use** | The baseline questions again at one hour and at one week. The Chain's trade is not visible on removal — in all three permanent cases the loss was found at the one-week interview and not before. |
+| **Before use** | Record whether this is a source-relic deployment or an extracted Weapon, Suit or Stigma issue. Take the bearer’s mother’s name, earliest memory and childhood street in writing. For the source relic, also check certification, the family-record exclusion and the chalked interval since the last bearer. |
+| **During use** | On the source Chain, log collar warming, elapsed wear and each borrowed household detail against the Log and Method timings. On extracted pieces, log their own signs: the flail’s reordered fight, the Mantle’s borrowed recollections, or the Link’s shared memory. Do not use the source’s collar warming to time an unworn flail. |
+| **At limit** | The source relic’s second-minute exchange and hesitation test govern source wearing. Stop and preserve the baseline comparison when an extracted-piece user recounts the source household as their own. Keep the actual piece and symptom in the withdrawal record rather than apply a source-wear duration to every item. |
+| **After use** | Repeat baseline questions at one hour and one week and preserve any changed answer. Unwind the source relic by its own return procedure; for an extracted piece, record witness-led relinquishment and attribution review. Neither procedure promises the loss is refunded. |
 
 **Stat interpretation:** This is a β set with a cost that does not match its grade, and the file says so plainly: the flail does less damage than a standard-issue maul and the mantle resists less than a γ suit, while the Stigma has taken a childhood. Grade here describes the Chain's strength, not the bearer's exposure.
 

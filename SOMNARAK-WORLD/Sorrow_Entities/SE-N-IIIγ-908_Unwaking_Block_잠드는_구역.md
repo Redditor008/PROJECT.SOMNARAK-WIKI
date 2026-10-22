@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-908 [LP]` |
-| **Entity Type** | **Place** — Can breach via Transform |
+| **Entity Type** | **Place** — Recorded breach annexes an adjoining building through a new connecting door |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Dream |
-| **Physical Form** | Organic — A residential block in Zone D where every inhabitant fell asleep on the same night and did not wake. The buildings themselves seem to dream — walls shift, doors open to rooms that do not exist, and the air carries the texture of deep sleep. |
+| **Physical Form** | Architectural place — A residential block in Zone D where every inhabitant fell asleep on the same night and did not wake. The buildings themselves seem to dream — walls shift, doors open to rooms that do not exist, and the air carries the texture of deep sleep. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-N-908, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -39,7 +39,7 @@
 ### Operational Notes
 
 - The block holds a sleep that has not ended, and lifting somebody out of it does not wake them: removal changes the address, not the state.
-- A session shortens the onset and never the sleep; nothing done inside the block has woken anybody.
+- A successful session returns on the called time with its plan. No session has woken a sleeper; gauge relief is not recovery from the sleep, and a plan completed by overrunning the limit has not lowered the gauge.
 - Both valid approaches are survey work, and inside the block lie 212 sleepers who belong to the district rather than the facility. Nurses from the district attend them daily, under the same timed watch as everybody else.
 - Three ignored clauses escalate it, and the dream register carries contact, so the crews work in pairs and each pair holds a timed verbal check.
 - Any extraction is a separate risk event with its own authorisation, and nobody attempts one alone.
@@ -66,7 +66,7 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Major architectural/dream hazard; not a Sovereign classification |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
@@ -97,6 +97,12 @@
 - No piece may be taken past the second staircase. The rule is geometric rather than cautious: beyond it, no two entries have produced the same route back.
 
 ## Appearance
+
+**Architecture and occupants:** The place is a residential block, not an organic giant assembled from its sleepers. Beds, dark domestic interiors and aged washing identify housing still occupied by living people. Breathing and slow ageing belong to the residents; shifting walls, extra rooms and changing stair landings belong to the anomalous building. District care and accompanied family visits remain part of this setting, not evidence that the residents are facility equipment.
+
+**Spatial change:** The exterior block stays in place while routes inside differ between entries. A newly connecting door can annex an adjoining property; that is expansion of the holding, not locomotion down a street. Record the route actually walked without merging incompatible plans into an invented stable layout. Domestic fittings can look ordinary even when their door was absent from the previous survey.
+
+**Witness limits and derived gear:** Warm, slightly sweet air and a layout that starts to seem reasonable are witness conditions, not a safe route or proof that a sleeper has woken. The outside caller controls the survey limit. The survey-rod Edge, plan-case mantle and door-plate Token are derived material pieces; their portability does not make the block portable, and the Weapon's waking-after-use record is not the residents' enduring sleep.
 
 **Primary Form:** A residential block in Zone D where every inhabitant fell asleep on the same night and did not wake. The buildings themselves seem to dream — walls shift, doors open to rooms that do not exist, and the air carries the texture of deep sleep.
 
@@ -158,7 +164,7 @@ What limits the work is not the pressure but the clock. Observation is the surve
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** Map the new connecting door and annexed wing, keep the outside caller and leave at the called time. The recorded recovery of the reading followed repeated mapping; no successful physical suppression or awakening is documented.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per building annexed rather than per turn. One annexation in seventeen years; the reading returned to 40% once the new wing had been mapped twice.
 
 ## M.A.W. Equipment

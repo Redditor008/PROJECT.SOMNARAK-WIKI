@@ -1,0 +1,390 @@
+{
+  "batch": 151,
+  "status": "CLOSED",
+  "reviewed": 5,
+  "required": 5,
+  "no_change": 2,
+  "changed_primaries": 3,
+  "new_se_completions": 0,
+  "new_se_held": 5,
+  "new_equipment_reviews": 0,
+  "authorization": "Owner p authorized151only. No152 or merge.",
+  "selection": "Fixed pending-only190/909/081/558/041. No substitutions; opening117cuecandidates/270pending, lexicalcuesnotdefects.",
+  "ladder": "Two cumulative No change below three; close five, no extension.",
+  "validation": [
+    {
+      "designation": "O-IVδ-190",
+      "name": "Ember Phoenix",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-190_Ember_Phoenix_불사조.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B151_01_EMBER_PHOENIX.md",
+      "commit": "d2a518c51fbd643b44dfb4369b73329f79d56327",
+      "push": "PUSH VERIFIED",
+      "status": "held",
+      "no_change": false,
+      "before_words": 8003,
+      "after_words": 8006,
+      "sha256": "f05b0d5ed04d8683d48c3fd3ce78348e1f5ecf56d43c8f77361338b9f93b9788",
+      "short_link": "[Ember_Phoenix](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-190_Ember_Phoenix_%EB%B6%88%EC%82%AC%EC%A1%B0.md \"SE-O-IVδ-190_Ember_Phoenix_불사조.md\")",
+      "full_link": "[[SE-O-IVδ-190_Ember_Phoenix_불사조](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-190_Ember_Phoenix_%EB%B6%88%EC%82%AC%EC%A1%B0.md \"SE-O-IVδ-190_Ember_Phoenix_불사조.md\")]",
+      "change": "Restored the missing Observation Log heading between the complete equipment source-review note and the existing comprehension/observation records. No body, cycle, value, equipment or Tale prose changed.",
+      "holds": "Story5 explicitly competing abandonedwomanorigin versus compulsorysurvivorOrigin/anthology; no invented combinedbiography. Appearance fire-notfire/noinstrumentheat versus Apexrealfire/testsinheat. Open-country no-cell/mobileperimeter versus occupiedchamber/datedfloorash/darkgallery without chronology. Ashallreturns/leavesnothing versus postreturncollectableash/sweepfiner/bootremoval; weightunwatchedclaim versus noobservationdarkperiod. Supressmovementauthorized versuspinningraisesgauge. Nohunt versusFirstTargetnearest/match. Worklowersintervaldelays versusintervalonlyevershortened; attendanceindependence notnoWorkeffect. 1/90%/65%and40% unchanged. Twofoldcycleintervaldefinitions collapse-to-spark versusbetween-deaths not crosswalked; no rate inference from floorcount. Offices saidnamedbutnotactuallynamed. KitCulverin vsFang/stonecleaver, ClosevsMedium; Suitlivingchitinvsironharness; Stigmaorb/coronet vsironcharm/Tail andCSVAccessory5%vs4%; bodybeatingheartnotliteralharvestcore orissuedPlate. Genericyears/recollectioncost versus actualpieces notnormalized. All held, no SEcompletion.",
+      "commentary": "The bird’s magnificent return works because it is the failure state, not a triumph. I find the attendance cap stronger than another weapon: it asks the institution to decline something useful, and makes the watch pay for that restraint.",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": {
+          "exit": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "exit": 0,
+          "output": "RESIDUE 0  SE-O-IVδ-190_Ember_Phoenix_불사조.md\n"
+        },
+        "sectfile": {
+          "exit": 0,
+          "output": " 0.043  clean   680 grams  M.A.W. Equipment\n 0.019  clean   270 grams  Trivia\n 0.016  clean   640 grams  감각 묘사 (Flavor Text)\n 0.011  clean   454 grams  기록 (Registrum)\n 0.009  clean   233 grams  관찰 기록 (Observation Log)\n 0.008  clean   516 grams  Combat Record\n 0.000  clean  1283 grams  Apex Record\n 0.000  clean   348 grams  이야기 (Narratio)\n 0.000  clean   256 grams  Appearance\n 0.000  clean   231 grams  Operational Parameters\n 0.000  clean   207 grams  Behavior\n 0.000  clean   185 grams  Breach Behavior\n 0.000  clean   181 grams  이야기 보고 (Story Log)\n 0.000  clean   158 grams  Origin\n 0.000  clean    93 grams  최종 관찰 (Final Observation)\n 0.000  clean    56 grams  SECC Classification\n 0.000  clean    40 grams  증언 (Testimonium)\n 0.000  clean    31 grams  (preamble)\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "exit": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "exit": 0,
+          "output": "   54   1  | **Resistance** | 45% against Grudge pressure; 35% against other pressure types |\n   84   3  | { *The Eternal Return* [**Ultimate**] } | \"She dies and returns, dies and returns, faster each time, until the field is one endl\n  185   1  **Ability:** Deals Grudge damage against the Body — structural integrity and the physical capacity to continue. The strike carries\n  193   3  **Appearance:** a plated harness of Grudge Han-iron, dark and warm in the hand, that goes cold once it comes off the wearer.\n  211   1  **Appearance:** an ember-charm of Grudge Han-iron, dark and faintly warm, warm to the touch.\n  215   1  **Effect:** +3 to the working stat while this piece's source entity is the subject of the cycle, and nothing on any other holding\n  238  23  **Full-set source review (2026-10-12):** Reviewed the δ overview, all local Weapon/Suit/Stigma claims, the stock-authorization sta\n  261   2  **Observation method:** Observe across at least one complete cycle; a single-stage sighting is of limited value here and has repea\n  310   2  **Interaction method:** Baseline each entity alone across a full cycle before any approach; an interaction reading taken against a\n  317   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  323   6  **Interaction procedure:** Baseline both parties alone, bring them into range at the start of an ash phase rather than mid-burn, a\n  370   2  **Operational interpretation:** Read this layer against the classification, the Combat Record and the equipment profile before act\n  372   3  **Review requirement:** After any breach, escape, Sorrow Tide, Ordeal, transformation attempt or unusual interaction, re-verify th\n  446   5  - **Field detail:** Its defining element is Grudge, and its registered location is The Desolate — mobile.\nGENERIC 0.009  (55 shared shingles)  SE-O-IVδ-190_Ember_Phoenix_불사조.md\n"
+        }
+      },
+      "equipment_coverage_credit": 0
+    },
+    {
+      "designation": "O-IVδ-909",
+      "name": "Heirloom",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-909_Heirloom_스며든_메아리.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B151_02_HEIRLOOM.md",
+      "commit": "7343ce66694cd45996dcdb41509980541a0943aa",
+      "push": "PUSH VERIFIED",
+      "status": "held",
+      "no_change": false,
+      "before_words": 7433,
+      "after_words": 7467,
+      "sha256": "105df6915d01bff6f3475b1c517138e12f5da0f877161e4e259997d5f1a1377b",
+      "short_link": "[Heirloom](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-909_Heirloom_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-O-IVδ-909_Heirloom_스며든_메아리.md\")",
+      "full_link": "[[SE-O-IVδ-909_Heirloom_스며든_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-909_Heirloom_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-O-IVδ-909_Heirloom_스며든_메아리.md\")]",
+      "change": "SECC Movement now states stationary chamber with surveyed expanding boundary rather than drifting. N/A Speed distinguishes absent bodily travel from separately recorded wall distances and echo reach. Existing Appearance and all numerical/source claims retained.",
+      "holds": "PlaceVoidclassification/Side/Tale/Registrum versusPlaceGrudgeactivation, no documentedchange. Doorsstopallspread inUltimate/Escalation/Registrum vssealonlyfiltersvolume/notreach/twofloorsaway. Uniforminsidevolume notinfiniteoutsidereachproof. No originalvoiceidentifiable ornameanywhere versusStory5reconstructed9words/names for9years, Whispernames andChoirnamedvoice; familyname≠originalvoice automatically. Attributionrequiredbutalloutside repetitionprohibited vswrittenhearinglog/transcriptionandarchivesummary, keepconflict. BothWorkreduce vsViderehanstable; tearsdistinguishTrivia vsFlerehanN/A/Choironlyseparates; failuretableViderehanrevelationraisesvsWorkstable. 211allwatchessuccess vs38growths in211, 38strikes/4–11cm and1.3total retained. Growthimmediateafterunattributedvsinvisibleonewatch/delayed7days. Pinsoutside doorway/neverwithin vscentre markssteppedoverdaily and insideentrymemorytask. Emptyroomnoequipment vsdisconnectedinstrumentstillatwall. Surveyfourwalls/ceiling/clap is6readings butcannotderivevoidbodycoordinatesfromacousticvolume. Transformroom→echohasroom notanatomicalshift; no hallucinatedflesh. WeaponZweihander/basaltsceptrevsFang andgreatsword/mirrorarchetypes/no transition; InstantvsMedium3. PlatevestmentsMastervsresonantplate; bellringingecho immunity vsvoice discipline notshownpermissiontoinside. Stigmacharmvslanterncost/TailvsMasterpendant/CSVAccessory5%vs4%; set echoeverycarry vsneverrepeat issue. These remainholds notforcednormalizations.",
+      "commentary": "The room is an effective inheritance: nobody owns the anger, but everyone inherits the space it takes. I like the insistence that the original complaint was justified. Without that sentence, the entity could too easily become a warning against remembering injustice.",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": {
+          "exit": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "exit": 0,
+          "output": "RESIDUE 0  SE-O-IVδ-909_Heirloom_스며든_메아리.md\n"
+        },
+        "sectfile": {
+          "exit": 0,
+          "output": " 0.012  clean   171 grams  Expansion Behavior\n 0.006  clean   868 grams  M.A.W. Equipment\n 0.004  clean   561 grams  Combat Record\n 0.004  clean   566 grams  감각 묘사 (Flavor Text)\n 0.000  clean   712 grams  Apex Record\n 0.000  clean   365 grams  기록 (Registrum)\n 0.000  clean   352 grams  이야기 (Narratio)\n 0.000  clean   275 grams  관찰 기록 (Observation Log)\n 0.000  clean   265 grams  Appearance\n 0.000  clean   250 grams  Operational Parameters\n 0.000  clean   221 grams  이야기 보고 (Story Log)\n 0.000  clean   197 grams  Trivia\n 0.000  clean   182 grams  Behavior\n 0.000  clean   171 grams  Origin\n 0.000  clean    58 grams  최종 관찰 (Final Observation)\n 0.000  clean    33 grams  SECC Classification\n 0.000  clean    32 grams  증언 (Testimonium)\n 0.000  clean    29 grams  (preamble)\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "exit": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "exit": 0,
+          "output": "   84   2  | { *The Cacophony* [**Ultimate**] } | \"The sound is in the corridor, then the stair, then the vault floor, and every surface is s\n  178   2  **Activation reporting order:** repetition logged → what was repeated and whether it was attributed → wall survey against the prev\n  233   2  **Effect:** +3 to the working stat on this holding's own cycles — the largest bonus in the vault — and nothing whatever anywhere e\n  256   3  **Full-set source review (2026-10-13):** Reviewed the overview, all three local M.A.W. pieces, Use Notes, Field Use Record, Stat i\n  335   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.002  (11 shared shingles)  SE-O-IVδ-909_Heirloom_스며든_메아리.md\n"
+        }
+      },
+      "equipment_coverage_credit": 0
+    },
+    {
+      "designation": "C-IIIγ-081",
+      "name": "The Hollow Saint",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B151_03_THE_HOLLOW_SAINT.md",
+      "commit": "ddbe0c45e41e1645a9476e8fd47c725e05e6dcf8",
+      "push": "PUSH VERIFIED",
+      "status": "held",
+      "no_change": true,
+      "before_words": 8073,
+      "after_words": 8073,
+      "sha256": "d21193102d2da74be1d613510156b8c19c1e347100fca9fc50b366cdf468bec6",
+      "short_link": "[The_Hollow_Saint](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-081_The_Hollow_Saint_%EB%B9%88_%EC%84%B1%EC%9E%90.md \"SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md\")",
+      "full_link": "[[SE-C-IIIγ-081_The_Hollow_Saint_빈_성자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-081_The_Hollow_Saint_%EB%B9%88_%EC%84%B1%EC%9E%90.md \"SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md\")]",
+      "change": "No change. No primary or linked-source edit; unsupported whole-body or chronology reconciliation deferred explicitly.",
+      "holds": "Robesnothinginside vsMixedfleshinwardchest/ribsonSide, notsilentchoosefullfleshorclothapparition. Permanentblessingposture/continuoushands/onlyreach&distancemove vsReliquaryfrontopens/EmptyHeavenascends/halo/judginggazeandfraudexposed; conditionalcombatformmayexistbutnotdocumentedphysicaltransition. Talegenuinecompulsorykindness vscombatsainthoodfraud/condemnationneedsrelationship. NearestpersonAppearance vsmostburdenedEscapeandunburdenedignored; no automaticcontradictionifstateconditionsbutnotdeclared. Cannotfillhollow vsSideopenquestionrebuildingbycare notproofrepair. ContinuousreachneverloweredvsSidevoluntaryreleasehandslowered/sourceextract; sourceconsentandhealingvsprimarynothingheals notbodyelection.2/75%/65%unchanged; Clare+5free vsGaugefall5andselflimitingdonotnecessarilymeasureonequantity. Severalexposuretime20min vsFieldhourmarks andsingleassignmentonewatch; Warden61postrulesessionsvs73sincerule alongside12prerule, historicalseriesunclear. Correctedmoderate/Flerehanonly stillMasterTale notcurrentrestore. Side3Understood vsprimaryAdvanced retainedlabels. WeaponsceptrevsresidualLens/disc/face-down andMasterpolearmvsMagic; currentBeamnotbodyandnoLenssecondform. Suitcoldprimaryvshealthywarmcollarconditionalunresolved; Stigmabrow-bandunseeableinside/reflectiveactivecup vsAppearancecord-liddedemptyvisibleinterior noexplicittransition, notinventedstates; Masterorb/coronet andAccessory5%vsHead4%. Allheld.",
+      "commentary": "The strongest detail is that her practice record shows no error. The harm comes from successful care without a boundary, not secret cruelty. The clerk’s final admission then lets the institution repeat the pattern without pretending not to recognize it.",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": {
+          "exit": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "exit": 0,
+          "output": "RESIDUE 0  SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md\n"
+        },
+        "sectfile": {
+          "exit": 0,
+          "output": " 0.033  clean   450 grams  Combat Record\n 0.020  clean   149 grams  Operational Parameters\n 0.008  clean   380 grams  기록 (Registrum)\n 0.007  clean  1076 grams  M.A.W. Equipment\n 0.007  clean  1370 grams  Warden Record\n 0.007  clean   150 grams  최종 관찰 (Final Observation)\n 0.004  clean   238 grams  Appearance\n 0.002  clean   529 grams  감각 묘사 (Flavor Text)\n 0.000  clean   418 grams  이야기 (Narratio)\n 0.000  clean   252 grams  관찰 기록 (Observation Log)\n 0.000  clean   162 grams  Origin\n 0.000  clean   147 grams  이야기 보고 (Story Log)\n 0.000  clean   132 grams  Behavior\n 0.000  clean   126 grams  Trivia\n 0.000  clean   115 grams  Breach Behavior\n 0.000  clean   103 grams  증언 (Testimonium)\n 0.000  clean    51 grams  SECC Classification\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "exit": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "exit": 0,
+          "output": "   31   3  | **Han-Energy yield** | 16–22 per successful work cycle, read off the line rather than the reach |\n   81   1  | { *The Empty Blessing* [**Debuff**] } | \"It blesses you — and the blessing takes more than it gives.\" | [A blessing is given and\n   82   1  | { *The False Halo* [**Debuff**] } | \"The light around its head is beautiful — and it is drinking the light from yours.\" | [The l\n   84   6  | { *The Reliquary* [**Attack**] } | \"It opens the hollow space inside itself — and the void within is vaster than any heaven.\" | \n   85   8  | { *The Empty Heaven* [**Ultimate**] } | \"It ascends — and the heaven it rises to is nothing, and it wants company.\" | [The empti\n  122   1  | **Identification** | Confirm before Work or contact: designation C-IIIγ-081 `[VS]`, Void expression, Subject-Void manifestation,\n  199   4  **Appearance:** A flowing veil of Void Han-gossamer, near-translucent and without colour, kept to a cold line wherever it rests. O\n  225   4  **Effect:** +2 stat bonus while working the source holding, entered at issue and struck from the sheet the day the bearer leaves t\n  294   1  > Two ways to close a watch at the line, and the file prices them by what the crew gives away: one holds the distance and keeps it\n  319   1  **Interaction method:** Baseline each party alone across several sessions before any paired approach is attempted. The onset of an\n  383   3  - The registry compares this file against digits and the digits are set down here for that comparison: gauge 712/712 · pressure 18\n  442  10  The objection is minuted at every annual review, and it is raised by the containment lead rather than by the clerk. It holds that \nGENERIC 0.007  (43 shared shingles)  SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md\n"
+        }
+      },
+      "equipment_coverage_credit": 0
+    },
+    {
+      "designation": "C-IIIγ-558",
+      "name": "Burning Root",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-558_Burning_Root_타오르는_뿌리.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B151_04_BURNING_ROOT.md",
+      "commit": "aeaea1d423987c71c479d2e62e0811466823e569",
+      "push": "PUSH VERIFIED",
+      "status": "held",
+      "no_change": false,
+      "before_words": 7454,
+      "after_words": 7490,
+      "sha256": "c448210ca6b1af4b9d95017e4826474b951bb204ed52091761cd1d4ad70798f8",
+      "short_link": "[Burning_Root](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-558_Burning_Root_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EB%BF%8C%EB%A6%AC.md \"SE-C-IIIγ-558_Burning_Root_타오르는_뿌리.md\")",
+      "full_link": "[[SE-C-IIIγ-558_Burning_Root_타오르는_뿌리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-558_Burning_Root_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EB%BF%8C%EB%A6%AC.md \"SE-C-IIIγ-558_Burning_Root_타오르는_뿌리.md\")]",
+      "change": "Replaced generic SECC gait alternatives with the existing rooting-ahead/tearing-free alternation and permanent floor record. Re-authored generic Registry Trivia classification using the recorded ember-root body, Subject-Grudge and Weight, distinguishing originating family from body. No Appearance anatomy, kit, Tale, or numerical changes.",
+      "holds": "Sidehumanoidknot/plantedfeet/networkunderground vsprimarycreatureknot/alternatingrootlegs; nohead/arms/naturaltreefleshadded ortransitionelected. Mobilebodyvsburiedsystemallwalls/floorRow/rootsalongledgerink/debtmapsnotexplicitspatialextentorremotelimbmechanism. Trailsfiresscorchnothing/groundnotconsume vscharredgrip/burningfurnace/floorscar, coulddistinguishmechanicalscarfromburnbutnotdocumented. Neverruns/hurries/walkingpace vsoldgroundcrossatspeed/fastground; cannotinventsecondgaitnumerics. Debtprojectionallmovementsmatched vsnewnonmaplineactivationandrenamedmisses plusdischargedrouteunchangedthenfourthhouseholdomitted chronology. Branchesneverconsume/constantlength vsnetworkextent notautomaticallycontradiction. Workheatfalls/rises vsFlavoractivationwarmthunchanged; initialexposureobserverdescribedassubject notrewrittenwithoutsourcecontext. Source2/75%/65%and40%/+15newfloor vsSide+10perturn retained. BlockcorridorsSide vsprimaryredirectandscarheightpriority. PurchasedBookexplicit6thyearsupersedesborrow/returnregisters sohistoricaldifferenceNOTunexplainedconflict; fourgeneration/centuriesnotinventchronology. MaulMedium3 vsRoomarchetype, genericlocaldullwarmhumvsitemtreegrainnoclosedanatomycrosswalk; mantlelocalcoldvsitemwarmstitchingmaybezonesnotdeclared; Charmgenericcoalcharmvsstampedheadseal, randomrewardvs7clockrotators vsyoungestfamilybearer/exclusionnochronologyprovided. FamilylegalresponsibilitiesnotchangeablebyMaul, keepdistinction. AllheldnoSEcompletion.",
+      "commentary": "The purchased debt book is the sharpest consequence: the institution contains inherited obligation while becoming the creditor that preserves it. The root creature makes that attachment physical without turning the originating family into a literal family-shaped monster.",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": {
+          "exit": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "exit": 0,
+          "output": "RESIDUE 0  SE-C-IIIγ-558_Burning_Root_타오르는_뿌리.md\n"
+        },
+        "sectfile": {
+          "exit": 0,
+          "output": " 0.034  clean   145 grams  Trivia\n 0.026  clean   273 grams  기록 (Registrum)\n 0.018  clean   171 grams  Operational Parameters\n 0.008  clean   478 grams  Combat Record\n 0.007  clean  1296 grams  Warden Record\n 0.006  clean   536 grams  감각 묘사 (Flavor Text)\n 0.005  clean   202 grams  Breach Behavior\n 0.000  clean   693 grams  M.A.W. Equipment\n 0.000  clean   424 grams  이야기 (Narratio)\n 0.000  clean   277 grams  Appearance\n 0.000  clean   236 grams  관찰 기록 (Observation Log)\n 0.000  clean   202 grams  이야기 보고 (Story Log)\n 0.000  clean   158 grams  Origin\n 0.000  clean    98 grams  Behavior\n 0.000  clean    76 grams  최종 관찰 (Final Observation)\n 0.000  clean    36 grams  증언 (Testimonium)\n 0.000  clean    32 grams  SECC Classification\n 0.000  THIN      2 grams  (preamble)\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "exit": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "exit": 0,
+          "output": "   31   3  | **Han-Energy yield** | 16–22 per successful work cycle, read off the approach temperature at one and three metres and never off \n   85   4  | { *The Whole Root System* [**Ultimate**] } | \"Every root, in every wall and floor of the Row, catches at the same moment.\" | [Th\n  166   1  - **Sorrow Gauge on breach:** Opens at 40% and rises 15% on reaching unscarred flooring, which is what the entity is actually seek\n  331   3  **Interaction procedure:** Solo baselines first, across several cycles, with temperature, rooting and gauge established for each p\n  381   7  **Operational interpretation:** This file is read whole or not at all: the comfort, the permanent scarring, the discharge trial an\n  438   1  The objection is minuted at every annual review, raised by the bay's senior Warden and supported by the Row's ward clerk. It holds\n  440   8  The minute records the objection as **correct in all three parts**. It records that a replacement forbearance policy — the old ter\n  452   5  - **Field detail:** Its defining element is Weight, and its registered location is Zone C, Collector's Row.\nGENERIC 0.006  (32 shared shingles)  SE-C-IIIγ-558_Burning_Root_타오르는_뿌리.md\n"
+        }
+      },
+      "equipment_coverage_credit": 0
+    },
+    {
+      "designation": "C-IVβ-041",
+      "name": "The Grieving Maiden",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B151_05_THE_GRIEVING_MAIDEN.md",
+      "commit": "3ae2fc6b3c011bacba89c09ca71dc47892df5870",
+      "push": "PUSH VERIFIED",
+      "status": "held",
+      "no_change": true,
+      "before_words": 8325,
+      "after_words": 8325,
+      "sha256": "e9903877b997746daa68e91ab4da1838147ef6bddf6dbea1ef304d7048dffc30",
+      "short_link": "[The_Grieving_Maiden](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-041_The_Grieving_Maiden_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%B2%98%EB%85%80.md \"SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md\")",
+      "full_link": "[[SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-041_The_Grieving_Maiden_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%B2%98%EB%85%80.md \"SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md\")]",
+      "change": "No change. No primary or source edits; retain field/assay distinction as written but do not call the broader identity and physical presentation conflicts resolved.",
+      "holds": "OrganictruefleshandbonevsvisiblytranslucenttearfigureFlavor/Tale/Side: field/assaycouldcoexistbuttranslucencenotmerelychemicalassay; noinventedsoliditystate. Registrum/Triviaexplicitmother versusTalechild-agedfigure/livingmothervisitscalms/Testimony/Sidependingmothermechanism; sourcehumanoriginnotidentityproof. Noarrivalreaction/noWorkdirectedresponse60years vsFlerehanweepswithworker/Ferrehansitsbeside/gentleaddressTearStrike/namefour-secondpause; noforcingvocalautonomy. Neverpause vsfoursecondquiet maybevolumeonlynotautomaticceased; preserveopen. Noattack/nohostility/incidentalrouteinjury vsTearStrikeaddressed/wailcornered/Sideconcentratedteartest; ambientburdenvsdirectedsourceharmnotreconciledbywordhuntalone. Warmbody/coldairpossible; noheatnormalization. Tidedoublesvolume vsApexvolumeexplicitnottrackTide; timewindowsnotprovided. ZeroSisterdistancedefinedsisterrange/corridor/chambers notliterallyoverlappingbodies; donotconvertmeasurement. Sumpannual515baselinevsstarting35–50%,3/60%/65%/40%/+15metre unchangednotinferredcrosswalk. Origin19years/60yearhold/centuriesTestimony and4229–4237/19ownentries chronologyunclear. TimedshortrotationvsFinalhoweverlong/earlyleavefails andwholeweepinglengthwithoutpause, cannotinventexception. NofurtherapplicationsreceivedStory3vs11received/refusedand1986refused; noquietlegalfix. Childnamedonlychambervsauthorizedlistener andconsentsourcekeepprivacy. Requiemtearblade/DaggerplausibleformsbutreturnimmediatereversalvsBcompanionreleaseandsetwhenshared; all3samecostlanguagevsdifferentitemprices; delaynotpresentdayvsduringweeping. ShroudlocalclingsvsCexplicitdoesnotstiffenorcling. VeilTailvsclaspactualshoulder/collarandMasterringshandseal; coolwarmfieldvsDconditionalcoolafterabsorb, notundocumentedstateelection; constantweepingvsDuntilspoken/written/shared andDlastlineonlyspoken; localname-memorydaynotitembacked. Kitextendsentitynotanatomicalharvest; sumpnoneEchoesvsseparateextractionnotautomaticallycontradictionbutmechanismunresolved. Allheld.",
+      "commentary": "The sump and the unread annual sentence make formally concluded grief visible without reducing the clerks to villains. That strength is worth preserving while the identity and observation conflicts remain explicit; declaring the mother-versus-child question corrected would hide the most consequential uncertainty.",
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": {
+          "exit": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "exit": 0,
+          "output": "RESIDUE 0  SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md\n"
+        },
+        "sectfile": {
+          "exit": 0,
+          "output": " 0.023  clean    88 grams  Breach Behavior\n 0.019  clean   107 grams  Operational Parameters\n 0.019  clean   592 grams  Combat Record\n 0.011  clean   825 grams  M.A.W. Equipment\n 0.010  clean   204 grams  Appearance\n 0.003  clean  1476 grams  Apex Record\n 0.000  clean   701 grams  감각 묘사 (Flavor Text)\n 0.000  clean   445 grams  이야기 (Narratio)\n 0.000  clean   300 grams  기록 (Registrum)\n 0.000  clean   298 grams  Trivia\n 0.000  clean   247 grams  이야기 보고 (Story Log)\n 0.000  clean   242 grams  관찰 기록 (Observation Log)\n 0.000  clean   214 grams  Origin\n 0.000  clean   181 grams  Behavior\n 0.000  clean   148 grams  최종 관찰 (Final Observation)\n 0.000  clean    49 grams  SECC Classification\n 0.000  clean    45 grams  증언 (Testimonium)\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "exit": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "exit": 0,
+          "output": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   2  | **Resistance** | 35% against Lament pressure; 25% against everything else. Nothing is rated against the weeping itself, which is\n   85   4  | { *The Universal Mourning* [**Ultimate**] } | \"Now everyone is weeping — and no one can stop, and no one can remember why they s\n   91   5  3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Share her grief \n  122   2  | **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every The Grieving Maiden cycle against the\n  173   2  - **Sorrow Gauge on breach:** Opens at 40% and rises 15% for every metre of separation from the other two Maidens.\n  196   4  **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels her signature in the strike: \n  226   1  **Appearance:** a veil-clasp of Lament Han-crystal, cool and faintly luminous, warm to the touch; it is issued to the workers who \n  248   4  | **Before use** | Wielder, piece, the day's reading, and a baseline written down and held by a second person: what in the bearer'\n  427   4  The registry clerks asked to be allowed to read them. Not to act — only to read, and to report themes in aggregate, numbers only, \nGENERIC 0.005  (30 shared shingles)  SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md\n"
+        }
+      },
+      "equipment_coverage_credit": 0
+    }
+  ],
+  "progress": "SE Appearance Fix: 12 / 301 = 3.99%; remaining 289 / 301\nChanged 8 / 301; retained 4 / 301; held 22 / 301; blocked 2 / 301; pending 265 / 301\nALL M.A.W. Types Appearance per SE — source-review coverage: 246 / 301 = 81.73%; remaining 55 / 301\nALL M.A.W.-W Appearance per SE — source-review coverage: 246 / 287 = 85.71%; remaining 41 / 287\nBatch 151: CLOSED 5 / 5; No change 2 / 5\nPASS: independent appearance ledger; no legacy credits inferred\n",
+  "fresh_closing_checks": {
+    "O-IVδ-190": {
+      "verify": {
+        "exit": 0,
+        "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+      },
+      "tpl": {
+        "exit": 0,
+        "output": "RESIDUE 0  SE-O-IVδ-190_Ember_Phoenix_불사조.md\n"
+      },
+      "sectfile": {
+        "exit": 0,
+        "output": " 0.043  clean   680 grams  M.A.W. Equipment\n 0.019  clean   270 grams  Trivia\n 0.016  clean   640 grams  감각 묘사 (Flavor Text)\n 0.011  clean   454 grams  기록 (Registrum)\n 0.009  clean   233 grams  관찰 기록 (Observation Log)\n 0.008  clean   516 grams  Combat Record\n 0.000  clean  1283 grams  Apex Record\n 0.000  clean   348 grams  이야기 (Narratio)\n 0.000  clean   256 grams  Appearance\n 0.000  clean   231 grams  Operational Parameters\n 0.000  clean   207 grams  Behavior\n 0.000  clean   185 grams  Breach Behavior\n 0.000  clean   181 grams  이야기 보고 (Story Log)\n 0.000  clean   158 grams  Origin\n 0.000  clean    93 grams  최종 관찰 (Final Observation)\n 0.000  clean    56 grams  SECC Classification\n 0.000  clean    40 grams  증언 (Testimonium)\n 0.000  clean    31 grams  (preamble)\n0 section(s) over 0.05\n"
+      },
+      "wikistd": {
+        "exit": 0,
+        "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+      },
+      "sect": {
+        "exit": 0,
+        "output": "   54   1  | **Resistance** | 45% against Grudge pressure; 35% against other pressure types |\n   84   3  | { *The Eternal Return* [**Ultimate**] } | \"She dies and returns, dies and returns, faster each time, until the field is one endl\n  185   1  **Ability:** Deals Grudge damage against the Body — structural integrity and the physical capacity to continue. The strike carries\n  193   3  **Appearance:** a plated harness of Grudge Han-iron, dark and warm in the hand, that goes cold once it comes off the wearer.\n  211   1  **Appearance:** an ember-charm of Grudge Han-iron, dark and faintly warm, warm to the touch.\n  215   1  **Effect:** +3 to the working stat while this piece's source entity is the subject of the cycle, and nothing on any other holding\n  238  23  **Full-set source review (2026-10-12):** Reviewed the δ overview, all local Weapon/Suit/Stigma claims, the stock-authorization sta\n  261   2  **Observation method:** Observe across at least one complete cycle; a single-stage sighting is of limited value here and has repea\n  310   2  **Interaction method:** Baseline each entity alone across a full cycle before any approach; an interaction reading taken against a\n  317   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  323   6  **Interaction procedure:** Baseline both parties alone, bring them into range at the start of an ash phase rather than mid-burn, a\n  370   2  **Operational interpretation:** Read this layer against the classification, the Combat Record and the equipment profile before act\n  372   3  **Review requirement:** After any breach, escape, Sorrow Tide, Ordeal, transformation attempt or unusual interaction, re-verify th\n  446   5  - **Field detail:** Its defining element is Grudge, and its registered location is The Desolate — mobile.\nGENERIC 0.009  (55 shared shingles)  SE-O-IVδ-190_Ember_Phoenix_불사조.md\n"
+      }
+    },
+    "O-IVδ-909": {
+      "verify": {
+        "exit": 0,
+        "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+      },
+      "tpl": {
+        "exit": 0,
+        "output": "RESIDUE 0  SE-O-IVδ-909_Heirloom_스며든_메아리.md\n"
+      },
+      "sectfile": {
+        "exit": 0,
+        "output": " 0.012  clean   171 grams  Expansion Behavior\n 0.006  clean   868 grams  M.A.W. Equipment\n 0.004  clean   561 grams  Combat Record\n 0.004  clean   566 grams  감각 묘사 (Flavor Text)\n 0.000  clean   712 grams  Apex Record\n 0.000  clean   365 grams  기록 (Registrum)\n 0.000  clean   352 grams  이야기 (Narratio)\n 0.000  clean   275 grams  관찰 기록 (Observation Log)\n 0.000  clean   265 grams  Appearance\n 0.000  clean   250 grams  Operational Parameters\n 0.000  clean   221 grams  이야기 보고 (Story Log)\n 0.000  clean   197 grams  Trivia\n 0.000  clean   182 grams  Behavior\n 0.000  clean   171 grams  Origin\n 0.000  clean    58 grams  최종 관찰 (Final Observation)\n 0.000  clean    33 grams  SECC Classification\n 0.000  clean    32 grams  증언 (Testimonium)\n 0.000  clean    29 grams  (preamble)\n0 section(s) over 0.05\n"
+      },
+      "wikistd": {
+        "exit": 0,
+        "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+      },
+      "sect": {
+        "exit": 0,
+        "output": "   84   2  | { *The Cacophony* [**Ultimate**] } | \"The sound is in the corridor, then the stair, then the vault floor, and every surface is s\n  178   2  **Activation reporting order:** repetition logged → what was repeated and whether it was attributed → wall survey against the prev\n  233   2  **Effect:** +3 to the working stat on this holding's own cycles — the largest bonus in the vault — and nothing whatever anywhere e\n  256   3  **Full-set source review (2026-10-13):** Reviewed the overview, all three local M.A.W. pieces, Use Notes, Field Use Record, Stat i\n  335   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.002  (11 shared shingles)  SE-O-IVδ-909_Heirloom_스며든_메아리.md\n"
+      }
+    },
+    "C-IIIγ-081": {
+      "verify": {
+        "exit": 0,
+        "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+      },
+      "tpl": {
+        "exit": 0,
+        "output": "RESIDUE 0  SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md\n"
+      },
+      "sectfile": {
+        "exit": 0,
+        "output": " 0.033  clean   450 grams  Combat Record\n 0.020  clean   149 grams  Operational Parameters\n 0.008  clean   380 grams  기록 (Registrum)\n 0.007  clean  1076 grams  M.A.W. Equipment\n 0.007  clean  1370 grams  Warden Record\n 0.007  clean   150 grams  최종 관찰 (Final Observation)\n 0.004  clean   238 grams  Appearance\n 0.002  clean   529 grams  감각 묘사 (Flavor Text)\n 0.000  clean   418 grams  이야기 (Narratio)\n 0.000  clean   252 grams  관찰 기록 (Observation Log)\n 0.000  clean   162 grams  Origin\n 0.000  clean   147 grams  이야기 보고 (Story Log)\n 0.000  clean   132 grams  Behavior\n 0.000  clean   126 grams  Trivia\n 0.000  clean   115 grams  Breach Behavior\n 0.000  clean   103 grams  증언 (Testimonium)\n 0.000  clean    51 grams  SECC Classification\n0 section(s) over 0.05\n"
+      },
+      "wikistd": {
+        "exit": 0,
+        "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+      },
+      "sect": {
+        "exit": 0,
+        "output": "   31   3  | **Han-Energy yield** | 16–22 per successful work cycle, read off the line rather than the reach |\n   81   1  | { *The Empty Blessing* [**Debuff**] } | \"It blesses you — and the blessing takes more than it gives.\" | [A blessing is given and\n   82   1  | { *The False Halo* [**Debuff**] } | \"The light around its head is beautiful — and it is drinking the light from yours.\" | [The l\n   84   6  | { *The Reliquary* [**Attack**] } | \"It opens the hollow space inside itself — and the void within is vaster than any heaven.\" | \n   85   8  | { *The Empty Heaven* [**Ultimate**] } | \"It ascends — and the heaven it rises to is nothing, and it wants company.\" | [The empti\n  122   1  | **Identification** | Confirm before Work or contact: designation C-IIIγ-081 `[VS]`, Void expression, Subject-Void manifestation,\n  199   4  **Appearance:** A flowing veil of Void Han-gossamer, near-translucent and without colour, kept to a cold line wherever it rests. O\n  225   4  **Effect:** +2 stat bonus while working the source holding, entered at issue and struck from the sheet the day the bearer leaves t\n  294   1  > Two ways to close a watch at the line, and the file prices them by what the crew gives away: one holds the distance and keeps it\n  319   1  **Interaction method:** Baseline each party alone across several sessions before any paired approach is attempted. The onset of an\n  383   3  - The registry compares this file against digits and the digits are set down here for that comparison: gauge 712/712 · pressure 18\n  442  10  The objection is minuted at every annual review, and it is raised by the containment lead rather than by the clerk. It holds that \nGENERIC 0.007  (43 shared shingles)  SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md\n"
+      }
+    },
+    "C-IIIγ-558": {
+      "verify": {
+        "exit": 0,
+        "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+      },
+      "tpl": {
+        "exit": 0,
+        "output": "RESIDUE 0  SE-C-IIIγ-558_Burning_Root_타오르는_뿌리.md\n"
+      },
+      "sectfile": {
+        "exit": 0,
+        "output": " 0.034  clean   145 grams  Trivia\n 0.026  clean   273 grams  기록 (Registrum)\n 0.018  clean   171 grams  Operational Parameters\n 0.008  clean   478 grams  Combat Record\n 0.007  clean  1296 grams  Warden Record\n 0.006  clean   536 grams  감각 묘사 (Flavor Text)\n 0.005  clean   202 grams  Breach Behavior\n 0.000  clean   693 grams  M.A.W. Equipment\n 0.000  clean   424 grams  이야기 (Narratio)\n 0.000  clean   277 grams  Appearance\n 0.000  clean   236 grams  관찰 기록 (Observation Log)\n 0.000  clean   202 grams  이야기 보고 (Story Log)\n 0.000  clean   158 grams  Origin\n 0.000  clean    98 grams  Behavior\n 0.000  clean    76 grams  최종 관찰 (Final Observation)\n 0.000  clean    36 grams  증언 (Testimonium)\n 0.000  clean    32 grams  SECC Classification\n 0.000  THIN      2 grams  (preamble)\n0 section(s) over 0.05\n"
+      },
+      "wikistd": {
+        "exit": 0,
+        "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+      },
+      "sect": {
+        "exit": 0,
+        "output": "   31   3  | **Han-Energy yield** | 16–22 per successful work cycle, read off the approach temperature at one and three metres and never off \n   85   4  | { *The Whole Root System* [**Ultimate**] } | \"Every root, in every wall and floor of the Row, catches at the same moment.\" | [Th\n  166   1  - **Sorrow Gauge on breach:** Opens at 40% and rises 15% on reaching unscarred flooring, which is what the entity is actually seek\n  331   3  **Interaction procedure:** Solo baselines first, across several cycles, with temperature, rooting and gauge established for each p\n  381   7  **Operational interpretation:** This file is read whole or not at all: the comfort, the permanent scarring, the discharge trial an\n  438   1  The objection is minuted at every annual review, raised by the bay's senior Warden and supported by the Row's ward clerk. It holds\n  440   8  The minute records the objection as **correct in all three parts**. It records that a replacement forbearance policy — the old ter\n  452   5  - **Field detail:** Its defining element is Weight, and its registered location is Zone C, Collector's Row.\nGENERIC 0.006  (32 shared shingles)  SE-C-IIIγ-558_Burning_Root_타오르는_뿌리.md\n"
+      }
+    },
+    "C-IVβ-041": {
+      "verify": {
+        "exit": 0,
+        "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+      },
+      "tpl": {
+        "exit": 0,
+        "output": "RESIDUE 0  SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md\n"
+      },
+      "sectfile": {
+        "exit": 0,
+        "output": " 0.023  clean    88 grams  Breach Behavior\n 0.019  clean   107 grams  Operational Parameters\n 0.019  clean   592 grams  Combat Record\n 0.011  clean   825 grams  M.A.W. Equipment\n 0.010  clean   204 grams  Appearance\n 0.003  clean  1476 grams  Apex Record\n 0.000  clean   701 grams  감각 묘사 (Flavor Text)\n 0.000  clean   445 grams  이야기 (Narratio)\n 0.000  clean   300 grams  기록 (Registrum)\n 0.000  clean   298 grams  Trivia\n 0.000  clean   247 grams  이야기 보고 (Story Log)\n 0.000  clean   242 grams  관찰 기록 (Observation Log)\n 0.000  clean   214 grams  Origin\n 0.000  clean   181 grams  Behavior\n 0.000  clean   148 grams  최종 관찰 (Final Observation)\n 0.000  clean    49 grams  SECC Classification\n 0.000  clean    45 grams  증언 (Testimonium)\n0 section(s) over 0.05\n"
+      },
+      "wikistd": {
+        "exit": 0,
+        "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+      },
+      "sect": {
+        "exit": 0,
+        "output": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   2  | **Resistance** | 35% against Lament pressure; 25% against everything else. Nothing is rated against the weeping itself, which is\n   85   4  | { *The Universal Mourning* [**Ultimate**] } | \"Now everyone is weeping — and no one can stop, and no one can remember why they s\n   91   5  3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Share her grief \n  122   2  | **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every The Grieving Maiden cycle against the\n  173   2  - **Sorrow Gauge on breach:** Opens at 40% and rises 15% for every metre of separation from the other two Maidens.\n  196   4  **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels her signature in the strike: \n  226   1  **Appearance:** a veil-clasp of Lament Han-crystal, cool and faintly luminous, warm to the touch; it is issued to the workers who \n  248   4  | **Before use** | Wielder, piece, the day's reading, and a baseline written down and held by a second person: what in the bearer'\n  427   4  The registry clerks asked to be allowed to read them. Not to act — only to read, and to report themes in aggregate, numbers only, \nGENERIC 0.005  (30 shared shingles)  SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md\n"
+      }
+    }
+  },
+  "ledger_tests": "..........\n----------------------------------------------------------------------\nRan 10 tests in 0.010s\n\nOK\n",
+  "physical_form_labels": {
+    "audited": 301,
+    "labels": {
+      "Organic": 30,
+      "Mixed": 130,
+      "Non-Organic": 136,
+      "Non-physical": 1,
+      "Braided Cord Construct": 1,
+      "Colossal Scribe Entity": 1,
+      "Vitrified Bipedal Construct": 1,
+      "Slender Crystalline Spire": 1
+    },
+    "inherited_descriptive_exceptions": [
+      [
+        "C-IVδ-918",
+        "Non-physical"
+      ],
+      [
+        "N-IIIβ-1056",
+        "Braided Cord Construct"
+      ],
+      [
+        "N-Vω-1055",
+        "Colossal Scribe Entity"
+      ],
+      [
+        "O-IIIγ-1052",
+        "Vitrified Bipedal Construct"
+      ],
+      [
+        "O-IVγ-1053",
+        "Slender Crystalline Spire"
+      ]
+    ],
+    "interpretation": "Descriptive label inventory only, not a silhouette/design-consistency PASS; five inherited exceptions unchanged, no global normalization."
+  },
+  "couples": "COUPLES: 0 / 301 ; files carrying 0 / 301 ; section-pairs 0\n  tiers: >=0.70 0 | 0.60-0.69 0 | 0.50-0.59 0\n",
+  "comparison_summary": "M.A.W. Codex comparison (candidate differences; not an auto-fixer)\n  mapped primary dossiers : 301\n  external Side Codices   : 292\n  complete 4/4 sets       : 287\n  item pairs compared     : 861\n  Side Codex card sets    : 106\n  Side card records       : 318\n  Side card/SE pairs      : 318\n  exception sets skipped  : 5\n\n",
+  "before_words": 39288,
+  "after_words": 39361,
+  "numeric_equipment_tale_source_invariants": "All original digit-token sequences, whole equipment blocks and Tales unchanged. Phoenix missing Observation Log heading restored only; for invariant comparison that one heading is declared and normalized before slicing original equipment. Exact sources unchanged from opening; two No change primaries byte-identical. All primary hashes equal individually pushed versions.",
+  "failure_and_recovery": "BurningRootinitialsectfileTrivia0.055failed; minimalexistingfactclassificationTriviarewrite; allfivechecksrerunPASS thenfullfinalreread. No unresolved technicalfailure.",
+  "inspection": "Written-design only; no images, rendered visual check, browser/live/published-site inspection or deployment.",
+  "pr": "14 OPEN draft → NON-WIKI, head arena/954853ad-project-somnarak-wiki; gh checked. Merge owner controlled.",
+  "next": "No152authorized. Batch301blocked for eight owner bodies/one4+4/generatevalidatebeforecopy."
+}

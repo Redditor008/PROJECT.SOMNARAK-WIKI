@@ -61,11 +61,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Throat Constriction* [**Debuff**] } | "The red silk tightens, choking words into silence." | [Wraps around target's neck, squeezing the larynx.] | *Target silenced for 2 turns; loses 10 Composure.* **[10 Pale DMG]** | When target attempts a panic retreat. |
+| { *Throat Constriction* [**Debuff**] } | "The red silk tightens, choking words into silence." | [Tightens around the bonded bearer's neck, squeezing the larynx.] | *Target silenced for 2 turns; loses 10 Composure.* **[10 Pale DMG]** | When target attempts a panic retreat. |
 | { *The Phantom Bit* [**Attack**] } | "The split copper coin bites into the tongue." | [Discharges a psychic shock of metallic copper taste and remembered oaths.] | *Inflicts 14-18 Lament damage and -20% accuracy.* **[14-18 Blue DMG]** | When target violates formation spacing. |
 | { *Unvoiced Partner* [**Summon**] } | "A shadow in a battered trench-cloak stands at the shoulder." | [Projects a spectral phantom of the fallen comrade.] | *Absorbs 1 incoming strike for the host; increases host Sorrow Gauge by 5%.* **[Support]** | When host HP drops below 30%. |
 | { *Weight of Survival* [**Debuff**] } | "Why did you come back when they stayed behind?" | [Transfers crushing survivor's guilt directly into the target's posture.] | *Reduces target movement speed by 40% and deals 12 Weight damage.* **[12 Weight DMG]** | At engagement round 3. |
-| { *The Final Knot* [**Ultimate**] } | "The braid completes its loop: two graves from one promise." | [Tightens the red silk braid completely, pulling target to the floor.] | *Deals 26-36 Lament damage; stuns target for 1 turn.* **[26-36 Blue DMG]** | When Sorrow Gauge reaches 85%. |
+| { *The Final Knot* [**Ultimate**] } | "The braid completes its loop: two graves from one promise." | [Tightens the red silk braid completely, pulling the bonded bearer to the floor.] | *Deals 26-36 Lament damage; stuns target for 1 turn.* **[26-36 Blue DMG]** | When Sorrow Gauge reaches 85%. |
 
 ## Comprehension Levels
 
@@ -78,6 +78,18 @@ Direct psychological interviews by R.D. counselors demonstrated that the silk th
 ### Level 3 — Studied Field Telemetry
 When an operative bearing the entity is deployed alongside younger scouts, the cord temporarily expands its perimeter, providing defensive warding against surprise ambushes so long as the bearer leads from the front line.
 
+## Appearance — Bonded Cord, Coin and Projected Partner
+
+The red silk and tarnished copper braid is the entity's body; its split bite-marked coin is the terminal piece. The right shoulder is its documented position relative to the bearer, not an independent roost it leaves to hunt. The tethered gliding description follows the person at walking pace. Ward observations report no autonomous coin movement while the bearer rests and no confirmed contact with a second person.
+
+The dead comrade and surviving veteran belong to the bond's history. Neither is an earlier human form of the braid. The Unvoiced Partner is explicitly a projected phantom in the Combat Record, not proof that the silk becomes a full soldier or that another body is housed inside the half-coin. Likewise defensive warding in the field need not mean the cord physically touches the scouts; record the effect separately from its measured reach.
+
+Visible throat ridges and the coin end becoming taut identify constriction on the bonded bearer. Internal threads in post-mortem examination and the one cut cord's withdrawn ends are recorded conditions, not a routine internalisation stage for every bearer. Do not cut a cord or force a transfer to make the outline easier to inspect.
+
+Recitation requires the actual oath and partner's full name, with assistance when voice is lost; failure and the counselor's larger release are both on file. Witnessed burial resolves the cord only with the recorded name entry, as the third burial shows. The braid going slack is the observed endpoint, not a return to a living comrade.
+
+The Surviving Half and Quartermaster's Collar are worked from released cords, not equipment cut from an actively bound person. The lash and standing collar preserve selected silk, copper and coin features without requiring the entity itself to be worn as that collar. The unworked third cord is not a demonstrated additional item or a Stigma.
+
 ## Origin & Formation
 
 - **Formation:** Formed from the survivor's guilt of frontline soldiers who promised: *"If you fall, I will bring your name back to the city."* Those who survived but were forced by poverty or censorship to forget their fallen friends manifest the entity as an internal physical anchor.
@@ -86,7 +98,7 @@ When an operative bearing the entity is deployed alongside younger scouts, the c
 ## Behavior & Containment Protocols
 
 1. **Oath Recitation:** When the entity begins tightening, the host must recite the three foundational tenets of their original pact.
-2. **Coin Burial:** To permanently resolve the entity, the surviving half of the split copper coin must be buried in the Cemetery of the First Dawn under official witness.
+2. **Coin Burial and Registration:** Bury the surviving half-coin in the Cemetery of the First Dawn under official witness and have the partner's name entered in its register. Burial alone is not the demonstrated release: the third cord remained taut until the witness wrote the name. Confirm slackening rather than assuming it when the coin enters the ground.
 3. **Mnemonic Discharge:** Wardens must never attempt to cut the silk threads with ordinary steel blades; doing so causes the severed fibers to burrow deeper into the host's pulmonary tissue.
 
 Management: have the bearer say the partner's full name and the pact's three tenets aloud at the morning round, inside the first three turns, and never cut, hurry or force the cord.
@@ -158,7 +170,7 @@ Management: have the bearer say the partner's full name and the pact's three ten
 | Stage | What is recorded |
 |---|---|
 | **Initial exposure** | A red ridge across a veteran's throat for every turn of the braid, and a smell of tarnished copper in the room before anyone has asked a question. Identification is the ridge count: nothing else on the Zone D sanatorium wards raises welts in a line. |
-| **Sustained observation** | The turn book has run since Year 4,236 and holds fourteen bearers. A bearer who recites at the morning round rests at one or two turns; a bearer who skips it climbs about a turn a night toward a ceiling of their own. One recitation releases one turn, and the cord will not take a second inside six hours. |
+| **Sustained observation** | The turn book has run since Year 4,236 and holds fourteen bearers. A bearer who recites at the morning round rests at one or two turns; a bearer who skips it climbs about a turn a night toward a ceiling of their own. The turn book records one-turn release and no second recitation taken inside six hours; this is not a universal release count. The counselor's separate account records Min-Seok falling from five turns to two during his fourth, exact-word recitation after three failed summaries. Do not promise that any utterance will remove exactly one turn. |
 | **Activation or escalation** | A bearer who decides to leave the oath behind goes from rest to six turns inside a minute. Two bearers have reached nine, both on the night they said they would stop saying the name. Both were revived, and neither has threatened it since. |
 | **Post-contact review** | Of the fourteen on the book, three are discharged slack after a witnessed burial, seven hold at one or two turns on daily recitation, three rest at four or five because their partner's service cannot be confirmed, and one cut his cord and cannot be treated. The ward sister's reading is that the cord asks one question only: whether the bearer has said the name today. |
 

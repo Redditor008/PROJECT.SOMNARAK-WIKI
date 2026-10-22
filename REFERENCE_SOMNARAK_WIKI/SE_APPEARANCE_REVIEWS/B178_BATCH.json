@@ -1,0 +1,722 @@
+{
+  "batch": 178,
+  "status": "CLOSED",
+  "required": 5,
+  "completed": 5,
+  "no_change": 0,
+  "units": [
+    {
+      "designation": "N-IIIγ-283",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽.md",
+      "words": 6921,
+      "sha256": "7ec0e93f4568c602b7a08caf12a498be8187098072ecccf4a0d8962a118c6995",
+      "unit": 1,
+      "name": "Barrier of Nothing",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_01_BARRIER_OF_NOTHING.md",
+      "before_words": 6921,
+      "after_words": 7154,
+      "final_sha256": "bf8ea3addff3040d96ba7ea733e76cc8aeb90b6b7a12bc4e4923762ed4935c1d",
+      "summary": "Six supported repairs distinguish ordinary standing from the two escapes, replace pursuit and generic time/force claims with recorded observations, separate the dream figure from derived equipment, and give each equipment piece its own cost record.",
+      "commentary": "The strongest feature is a boundary that nobody has to obey but people still route around. The annual Lapse Review makes the administrative sorrow concrete without making the former appeals process good. Keeping the deaths, recurrence and refused opt-outs beside the improvement prevents a humane policy from becoming an uncomplicated cure.",
+      "holds": [
+        "Source A PAGE02 says the walking wall crushes routes shut at75%; primary Breach, Warden Record and ninety years of transit sheets expressly deny any physical obstruction. Item B/C deployment histories rely on corridor compression. No documented past/current or conditional sequence reconciles those same-source actions.",
+        "Primary Appearance says never a sound and rust only in dreams, while Structural Failure groans, Flake/Rusted City corrode other things, Iron Rain cuts and Full Collapse prevents breathing. The generic lethal-duration and M.A.W. memory-debit claims also exceed the specific observed costs; no invented dream-only damage conversion clears them.",
+        "Passable/no-substance figure versus fixed-panel rubbing, leaning, striking, breaking plates and Vessel-Destructible/Han Dust remains an unresolved contact/destruction relationship. A humanoid silhouette itself is supported by Side A and the primary; it is not the reason for a hold.",
+        "Continuous presence versus75%/Pugnahan combat activation and65% Ultimate need event-specific scope. Breach opens at40% and rises10% per cycle; Observation Progression says extension follows only Pugnahan, while Breach allows extension each free cycle. Values are retained, not averaged or replaced.",
+        "Tale142 keeps ResidueI/Minorα/Low/GateDistrict/Viderehan-primary and cannot-maintain/remove/cannot-leave language versus current FragmentIII/Majorγ/ZoneE/escape/Ferrehan-primary. The exiles departure story is compatible origin evidence, but the Record supplies no dated revision for those remaining conflicting operational claims.",
+        "Local seven-foot Halberd and Master table424/W283 polearm differ from exact Side/itemB and Master detail424 Maul. Matching Weight7–12/Fast3/Medium3/Skewer/max3/40Echoes does not prove a transformation. Archetype Room is not substituted for Range3. Weapon fatigue versus slight aging also needs scope.",
+        "Charm known-three/none-since4231/criterion-unknown account remains distinct from Side/itemD named-position bestowal. Local barred-person sensing differs from exact omitted-position recognition. Head/4%/+2Resolve align; Registry genericAccessory/5% is retained as conflicting index evidence.",
+        "The Tale/standing-roster figure604 is not explicitly dated relative to the Year4237 return dropping604 bars; the ongoing31-day duration/current-count language cannot be retimed silently. Correlation is not a proven mechanism, and the later recheck must retain both observations."
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-A__SIDE_CODEX_Barrier_of_Nothing.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-B__MAW-W_The_Rust_Wall_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-C__MAW-S_The_Rust_Wall_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-D__MAW-G_The_Rust_Wall_Charm.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-A__SIDE_CODEX_Barrier_of_Nothing.md": "9aa0f12f9b8e1b27c424324a3eaf58371e1f0fa07b7f9026028df70130ab424d",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-B__MAW-W_The_Rust_Wall_Maul.md": "b63ab81c93d2fc634cf94c41e5d6d87809d3e7b67ce1f34f7e76bf9202596c73",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-C__MAW-S_The_Rust_Wall_Plate.md": "b54fa40cad939ffe56e96054056f1f37db72a2a43b7b6ff27ba33de351dda88d",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-D__MAW-G_The_Rust_Wall_Charm.md": "0a98e28fc207eb037ae487b831694b800097681274ca20122b928adefccc4809",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/README.md": "688b427b734b273a8d4fe9e3955a4a7c352e68cdcab43cf87093d72e80624c64",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399"
+      },
+      "repairs": [
+        {
+          "kind": "short",
+          "old": "| **Movement** | Mobile — walks upright; can breach and pursue. |",
+          "new": "| **Movement** | Mobile — normally stands beside the Gate; in the two recorded escapes it walked out and stood elsewhere. No pursuit or obstruction is recorded. |",
+          "evidence": "Breach Movement, Escalation Notes and Observation Log distinguish holding posture from escape movement and expressly deny pursuit."
+        },
+        {
+          "kind": "short",
+          "old": "| **Position / movement** | Mobile — upright on its own legs, able to breach and pursue. Entered against the previous figure at every cycle on this ground. |",
+          "new": "| **Position / movement** | Standing square to the old wall line during ordinary observation; it has moved in the two recorded escapes, then stood beside another passage without pursuing anyone or blocking the route. Compare its position, the line and the transit sheet. |",
+          "evidence": "Identification Profile, Breach Movement and Observation Log supply supported conditional position rather than universal immobility or pursuit."
+        },
+        {
+          "kind": "short",
+          "old": "**With continued exposure:** Time stretches in the containment zone. The Subject-Dream becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.",
+          "new": "**With continued exposure:** The infirmary counts days of rust in sleep after a watch, not stretched time at the Gate. Its duration column lengthens while the transit count stays steady and nobody is obstructed. Keep the worker's duration beside the standing-bar roster; the Tale tests that relationship against transit count, extent, season and hours stood, without treating the match as proof of a cause.",
+          "evidence": "Operational Work Notes, duration-column observation, Tale and Testimonium support after-contact duration, not time distortion."
+        },
+        {
+          "kind": "short",
+          "old": "**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Weight becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Dream was waiting; now it moves.",
+          "new": "**When the entity activates:** Its standing presence is continuous. The recorded escalation after Pugnahan is harder plate, extension along the old wall line and a narrower dream-space for the wing's sleepers. This is not a finding that the route has closed. Withdraw to the transit line and record who applied what; the action table and linked Side Codex still carry physical attacks and closure claims that the holding's non-obstruction record does not reconcile.",
+          "evidence": "Operational Notes, Behavior, Observation Progression and Breach distinguish continuous presence and recorded Pugnahan escalation; retain conflicting combat/Side accounts explicitly."
+        },
+        {
+          "kind": "careful",
+          "old": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, and a dated baseline against what Barrier of Nothing takes: the wielder tires early and keeps tiring early for some weeks after handing it in. |\n| **During use** | Watch for Barrier of Nothing's toll — the wielder tires early and keeps tiring early for some weeks after handing it in — and record the hour it is first seen rather than the hour it is first mentioned. |\n| **At limit** | The wearer is hard to admit into a room. Crews report it before the wearer does, and the wielder has stopped reporting it — the usual end point for a Barrier of Nothing piece. The observer calls the limit. |\n| **After use** | Return the piece, then ask a colleague rather than the wielder whether Barrier of Nothing's cost is still showing — the wearer is hard to admit into a room. Crews report it before the wearer does. |",
+          "new": "| Stage | Required record |\n|---|---|\n| **Before use** | Name the piece and its bearer. For the halberd, establish fatigue before issue; for the Plate, name the colleague who will notice exclusion from a room; for the Charm, record the bearer's ordinary stride and threshold hesitation. These are different costs, not one shared fatigue scale. |\n| **During use** | Keep the halberd directed at the Gate's timber or plate, never at the Subject. Record early tiring for its wielder, failed welcome for the Plate wearer, and slowing or threshold stops for the Charm bearer. The linked Maul's closure-breaking account remains a separate unresolved Weapon record. |\n| **At limit** | The outside observer names the affected piece and the sign actually seen. A Plate wearer no longer noticing exclusion is not evidence that the halberd wielder or Charm bearer has the same symptom. Do not turn the source's non-obstruction into permission to force an equipment wearer across a threshold. |\n| **After use** | Continue the halberd wielder's fatigue record after hand-in. Ask colleagues whether the Plate wearer is still being left outside the room, and record whether the Charm bearer still hesitates at thresholds. The granted Charm is not an issued piece to be returned by copying the Weapon procedure. |",
+          "evidence": "Local individual costs and Use Notes distinguish issued Weapon/Plate from given Charm; the old table copied Weapon fatigue and Suit exclusion onto all pieces."
+        },
+        {
+          "kind": "careful",
+          "old": "**Appearance protocol:** Log the transits, the extent of the barrier along the old wall line, and the panel impression. Do not log an interpretation of the marks; two Wardens tried and both wrote that they had stopped.",
+          "new": "**Appearance protocol:** Log the transits, the extent of the barrier along the old wall line, and the panel impression. Do not log an interpretation of the marks; two Wardens tried and both wrote that they had stopped.\n\n**Reading the figure:** The standing human outline belongs to the Subject, assembled from rusted plate rather than a person inside armor. The old wall line is its orientation, not a solid barricade: transits continue through its occupied space. Dream-rust in a sleeper is an after-contact effect, not evidence that nearby metal is corroding. The issued harness and granted Charm are separate equipment, not detached limbs; Side A describes dream-rust materialization without removing a plate. The panel rubbing and solid-shard attacks still need a supported account of contact with this passable figure.",
+          "evidence": "Whole primary plus Side A extraction; identify subject, dream effect and derived items without inventing how a passable body can be rubbed or struck."
+        }
+      ],
+      "split": [
+        4,
+        2
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.022  clean   135 grams  Operational Parameters\n 0.020  clean   608 grams  M.A.W. Equipment\n 0.006  clean   462 grams  Combat Record\n 0.006  clean   172 grams  Breach Behavior\n 0.000  clean   761 grams  Warden Record\n 0.000  clean   650 grams  감각 묘사 (Flavor Text)\n 0.000  clean   382 grams  기록 (Registrum)\n 0.000  clean   335 grams  이야기 (Narratio)\n 0.000  clean   298 grams  이야기 보고 (Story Log)\n 0.000  clean   264 grams  Appearance\n 0.000  clean   235 grams  관찰 기록 (Observation Log)\n 0.000  clean   165 grams  Trivia\n 0.000  clean   144 grams  Origin\n 0.000  clean   123 grams  증언 (Testimonium)\n 0.000  clean   102 grams  Behavior\n 0.000  clean    86 grams  최종 관찰 (Final Observation)\n 0.000  clean    35 grams  SECC Classification\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   3  | **Han-Energy yield** | 16–22 per successful work cycle, read off the transit line and never off the plates |\n   85   3  | { *The Rusted City* [**Ultimate**] } | \"Rust gets into every other wall on the ground, and it does not stop at one.\" | [The deca\n  168   1  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% a cycle while it is left standing; it falls when a worker names, aloud an\n  244   1  **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Frac\n  246  11  **Full-set source review (2026-10-13):** Reviewed the corrected `γ` grade overview, all three local equipment blocks, Use Notes, F\nGENERIC 0.004  (19 shared shingles)  SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽.md\n",
+          "stderr": ""
+        }
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "history": "Batch107 full-set and exactSE283B already credited: ff224a7c; earlier B37 narrative cleanup is not independent body credit. No absence-based credit inferred from equipment_reviews.",
+      "reasoning": "Subject-Dream humanoid rust-plate organisation supported by primary/Side A; stationary holding and two escape relocations are supported conditional states. Nonobstruction, dream-rust and inherited exclusion support origin-to-current-theme. Derived harness/charm need not copy donor anatomy: Side A explicitly stabilizes loose dream-rust without removing a plate. Work, voice resolution and interaction differences are documented, but crush/cut/sound/contact and thresholds remain essential unresolved action relationships. Full final rereading includes every untouched combat, observation, Tale, testimony and Warden section. No completed SE credit.",
+      "validation_note": "Initial wikistd --file ran global report rather than per-file; corrected by actual positional-path invocation showing all six per-dossier fields true/clean. No global report substituted for the required per-file check.",
+      "link": "[[SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-283_Barrier_of_Nothing_%EB%85%B9%EC%8A%A8_%EB%B2%BD.md \"SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽.md\")]",
+      "table_link": "[Barrier_of_Nothing](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-283_Barrier_of_Nothing_%EB%85%B9%EC%8A%A8_%EB%B2%BD.md \"SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽.md\")",
+      "commit": "a53944d1dccb7dcbdf4eff432b4d360e04d9fd3d",
+      "push": "VERIFIED"
+    },
+    {
+      "designation": "N-IIIγ-589",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-589_Nemo_돌아온_영혼.md",
+      "words": 6928,
+      "sha256": "782acf4a157ae1f45673691ffc4f5a4902bd2144d10405d8426d9cf1cef4855c",
+      "unit": 2,
+      "name": "Nemo",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_02_NEMO.md",
+      "before_words": 6928,
+      "after_words": 7249,
+      "base": "a53944d1dccb7dcbdf4eff432b4d360e04d9fd3d",
+      "final_sha256": "545c44aef43cedc0fbd50f14eae4be683774ba53b59e7278fc7e8400b47e8a93",
+      "summary": "Ten supported repairs separate the stationary figure from its tears and spreading corruption, preserve the two unmapped Sorrow Gate returns, replace generic silent/time-distortion/moving-force claims with recorded observations, distinguish all three equipment costs, and name the Charm bonus as +1 Clarity from exact A/D.",
+      "commentary": "The tear-name list is convincing because the watch can preserve a person on paper and still fail to answer them. I find the different face descriptions more effective than a single official portrait: recognition cannot be reduced to agreement about a face. The Answered Return remains disturbing because proper procedure and a genuine welcome do not guarantee safety.",
+      "holds": [
+        "Exact Side A still orders spoken tear-names and pursuit through walls; primary explicitly retracts name-speaking and records stationary non-breaching corruption. It also orders sealing where primary records sealing prolonging an event. These are essential incompatible actions/permissions, not incidental unknown anatomy.",
+        "Combat Reappearance/Cold Hand/Full Revenant/Army of Returns describe walking dead, contact, repeated deaths and multiple resurrected souls. No current or conditional state sequence supports them against never-approaches/never-touches/no-injury and the living-returner origin. Speed1.95, Vessel-Destructible and dust profile remain unaltered, not explanations.",
+        "Continuous presence,75%/name-back combat activation,65% Ultimate and40% event-start need their actual event scopes. Operational Notes says crew naming preceded every excursion and nothing else, while the Containment Notice records speaking a tear-name as a reliable cause; both observations remain.",
+        "Summary identification now preserves the two Sorrow Gate exceptions without amending the map. Older only-mapped language remains in Observation/Identification prose and the Warden map account; the file gives no reason for excluding those two returns from its otherwise complete map. A mapped ordinary form versus a rare recorded exception need not be an invented new transformation.",
+        "Primary Blade lights on drawing; exact B lights only against living tissue, later only for a patient-addressed accepted name. Healing a derived item need not share donor anatomy, but the same blade activation conditions need supported scope. Linked repeated-name extraction cannot be generalized into permission to recite source tear-names.",
+        "Primary Charm senses whether a person is registered, while exact D explicitly cannot certify historical record and only attributes a carried name to a return. Tail5%/+1Clarity/β agree; Registry genericAccessory does not change the exact slot. Five-given-after-unspoken-cycle account stays distinct from A/B/D spoken-name origins.",
+        "Side A full resonance includes departure through a threshold and doorway multiplication; B second-patient/name-loss, C false-familiarity face takeover and D register overwriting are documented equipment/set conditions, not permission to rewrite the source non-breach account. Patient/returner names and source tear-names must retain their subjects and contexts.",
+        "Tale149 retains I/α/Low/OldLament and family-homecoming detail while current primaryIII/γ/AlphaTree frames its surviving evidence as family-free enquiry correspondence. Earlier living human versus current translucent figure can be origin succession; the conflicting current classification and evidence claims still need provenance, not a fabricated timeline.",
+        "Story Entry2 Year4238 says311presentations/noneanswered, versus the Year4237 Answered Return operation and Registrum mandatory-current-desk rule. No explicit suspension/reversion dates explain the apparently ongoing nil tally. Preserve the data rather than adjusting the quarters.",
+        "After-departure door-sealing language remains against the closing no-seal containment description; generic severe bodily/identity harms and blanket private-memory/stamina costs exceed the specific no-injury and separate piece-cost records. No generic paragraph is treated as proof of an unrecorded source form or mechanism.",
+        "Trivia says no tear-name was ever spoken back and also records a partial attempt. The explicit partial-attempt history remains visible; no second invented experiment or silent removal of the contradiction."
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-A__SIDE_CODEX_Nemo.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-B__MAW-W_Nemos_Blade.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-C__MAW-S_Nemos_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-D__MAW-G_Nemos_Charm.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-A__SIDE_CODEX_Nemo.md": "f340493105520dd0ff91ad69b90cdee3f140112623a6171c0e5975517c7da863",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-B__MAW-W_Nemos_Blade.md": "c78e184c601ea568e088ce6169333b203efab4d852da6e5dd259e53177f1fd6b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-C__MAW-S_Nemos_Shroud.md": "3c8d59467bef12656556bcbbb264470e2679fca4bcbeef50f9b7b290bcb11ec0",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-D__MAW-G_Nemos_Charm.md": "7d6fdb568788fd7ff0e05f761a7c6555340b01ff688b1e203cbe2ecb896a81b2",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/README.md": "206283b51a719b0a6a2a2f37a9b96c7c194a7c8215146a46c72326000dc11c37",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "repairs": [
+        {
+          "kind": "short",
+          "old": "| **Movement** | Stationary — a body or drop of liquid. |",
+          "new": "| **Movement** | Stationary figure at a return-site; disappearance and reappearance are logged as returns, not travel. During corruption the zone widens while the figure stays where it returned. |",
+          "evidence": "Identification Profile, Containment Event Movement and Warden It Cannot Stay Gone describe the figure rather than misclassifying the tear as the body."
+        },
+        {
+          "kind": "short",
+          "old": "| **Identification** | Subject-Lament at a mapped site. If the figure is anywhere else, it is not this file. |",
+          "new": "| **Identification** | Subject-Lament, ordinarily at a mapped loss-site. Preserve the two recorded Sorrow Gate threshold returns as exceptions: the interaction record says that threshold is not mapped and that the map was not amended. An unmapped return alone does not rule out Nemo. |",
+          "evidence": "Entity Interaction Record Sorrow Gate explicitly records two exceptions; do not invent a new mapped site or deny the observed returns."
+        },
+        {
+          "kind": "short",
+          "old": "**At first contact:** The Subject-Lament does not announce itself with sound or movement. It arrives as a sensation — Lament settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A translucent figure that returns whenever its tears fall. Each tear carries a name.",
+          "new": "**At first contact:** At a return, record the translucent figure and the names legible in its falling tears, not a face agreed in advance. Keep your own face description beside the others even when they differ. The file also records audible weeping through the corridor during corruption; the ordinary return is not evidence that the entity can never be heard. Read and write the tear-names without speaking them back.",
+          "evidence": "Appearance protocol, Battle Tension/Clash, Event Effect and name-handling restrictions support visible and audible markers without treating the figure as silent."
+        },
+        {
+          "kind": "short",
+          "old": "**With continued exposure:** Time stretches in the containment zone. The Subject-Lament becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.",
+          "new": "**With continued exposure:** The watch measures the interval to the next return and the names written during the cycle; it has found no period in those intervals. The name count runs with the gate desk tally, not with time apparently slowing at the Tree. Keep site, interval, count and each observer's face description separate. A longer watch has not changed the count, and the correspondence between two ledgers is not proof of its cause.",
+          "evidence": "Observation Log/Progression, Tale and Warden Record tested interval/site/staffing; no measured temporal distortion supports the old generic claim."
+        },
+        {
+          "kind": "short",
+          "old": "**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Lament becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Lament was waiting; now it moves.",
+          "new": "**When the entity activates:** The recorded corruption widens through the zone while the figure stays where it returned; audible weeping carries the names into the corridor. Clear the corridor and send one worker to acknowledge that they can hear it, without reciting the names. Do not replace this speech response with sealing alone: the second event lasted longer when sealed. The moving revenant attacks elsewhere in the file remain unreconciled with this stationary account.",
+          "evidence": "Containment Event Behavior and Escalation Notes explicitly contradict moving activation and distinguish acknowledgment from reciting names."
+        },
+        {
+          "kind": "careful",
+          "old": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, the day's reading, and a baseline entered on the issue sheet and left in another worker's hands. The cost on this set is that nothing the bearer feels while the piece is drawn is their own, which is the very reason the baseline cannot sit with the bearer. |\n| **During use** | Charging shows in the bearer before anything else: nothing they feel while the piece is drawn belongs to them. The second worker logs the hour, and the bearer's own account is taken afterwards and kept apart from it. |\n| **At limit** | The toll runs without pause: small pleasures stop registering, and wearers tend to notice it first in food. Here the observer's call overrides the bearer's, and the observer's is the one entered. |\n| **After use** | Return the piece, then put the question to a colleague rather than to the bearer: whether the small pleasures have come back, food included. |",
+          "new": "| Stage | Required record |\n|---|---|\n| **Before use** | Name the bearer and the piece. The medic's Blade needs an emotional baseline held by another worker; the long-watch Shroud needs a record of small pleasures still felt; the granted Charm needs a sleep record. None substitutes for the others. |\n| **During use** | Track borrowed feeling while the Blade is drawn and dulling pleasure while the Shroud is worn. For the Charm, retain the sleep observation rather than requiring the bearer to notice tears while awake. Record who observed the change, separately from what the bearer reports. |\n| **At limit** | Name the piece whose cost has appeared. The Blade's missing personal feeling and the Shroud's loss of pleasure are not a single shared symptom; the Charm's waking ignorance of sleep-weeping requires the outside observer. Do not search a register to test its reported sensing ability. |\n| **After use** | The Blade releases feeling when put down; keep the observer present for that return. Check whether the Shroud wearer's small pleasures register again and retain the Charm's sleep record. The Charm is given, not issued: copying a Weapon hand-in rule does not establish its removal or recovery procedure. |",
+          "evidence": "The old table applied Blade emotional displacement and Suit pleasure loss to the entire set. Local individual costs/Use Notes support distinct observation; no dream-recovery or Charm-removal mechanism is invented."
+        },
+        {
+          "kind": "careful",
+          "old": "**Appearance protocol:** Log the site, the interval since the last return, the number of names read, and your own description of the face. The descriptions are retained precisely because they never agree.",
+          "new": "**Appearance protocol:** Log the site, the interval since the last return, the number of names read, and your own description of the face. The descriptions are retained precisely because they never agree.\n\n**Figure, tear and return:** The half-flesh, half-light figure is the Subject; a named tear is not a second classification for its body. Permanent presence with intermittent visibility is the watch's account, not a claim that a visible person walks between the sites. The visible tears carry names, while the face remains observer-dependent. The living exile in the origin is not a documented resurrected corpse or an army of new bodies. Likewise, the Blade, Shroud and Charm are separately materialized pieces with their own bearers, not parts of a figure physically removed from the Tree. The combat table's resurrection and contact claims still need their own supported relationship to this record.",
+          "evidence": "Whole primary and Side A set emergence support subject/tear/visibility/derived-item separation; earlier human origin is not proof of repeated death or an invented transformation."
+        },
+        {
+          "kind": "careful",
+          "old": "**Effect:** +1 to the bearer's work on this holding, and the Armoury's sheets record no measured difference on any other ground.",
+          "new": "**Effect:** +1 Clarity while working Nemo; Side A and the exact Charm record name this bonus. The Armoury's sheets record no measured difference on other ground.",
+          "evidence": "Exact Side A set card and SE589D Bonus both specify Clarity. Preserve +1, conditional source-work scope and all other Stigma claims; this is external-source-supported authored clarification, not batch-short."
+        },
+        {
+          "kind": "short",
+          "old": "| **Position / movement** | Stationary — a body or drop of liquid. Recorded at every Nemo cycle against the previous reading. |",
+          "new": "| **Position / movement** | The visible figure remains at its return-site; the watch logs disappearance and reappearance rather than a route travelled between them. Corruption spreads through the surrounding zone, not by pursuit. Compare the site and interval with the previous return. |",
+          "evidence": "Identification Profile and Containment Event Movement also correct the duplicate detail-table liquid-body summary."
+        },
+        {
+          "kind": "short",
+          "old": "| **Distinctive markers** | Tears with names legible in them, and the fact that it is standing at a mapped loss-site and nowhere else. |",
+          "new": "| **Distinctive markers** | Legible names in the tears and a translucent figure at an ordinarily mapped loss-site. The two Sorrow Gate threshold returns are preserved in the interaction record without adding that threshold to the map; keep the exception beside the usual marker. |",
+          "evidence": "Sorrow Gate interaction explicitly defeats the duplicate universal nowhere-else claim; preserve the unamended map and rare returns together."
+        }
+      ],
+      "split": [
+        7,
+        3
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIIγ-589_Nemo_돌아온_영혼.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.022  clean   138 grams  Operational Parameters\n 0.021  clean   533 grams  Combat Record\n 0.004  clean   702 grams  감각 묘사 (Flavor Text)\n 0.002  clean   415 grams  M.A.W. Equipment\n 0.000  clean   780 grams  Warden Record\n 0.000  clean   372 grams  기록 (Registrum)\n 0.000  clean   354 grams  이야기 (Narratio)\n 0.000  clean   341 grams  Appearance\n 0.000  clean   303 grams  이야기 보고 (Story Log)\n 0.000  clean   238 grams  관찰 기록 (Observation Log)\n 0.000  clean   176 grams  Trivia\n 0.000  clean   168 grams  최종 관찰 (Final Observation)\n 0.000  clean   132 grams  Origin\n 0.000  clean   131 grams  Containment Event Behavior\n 0.000  clean   120 grams  증언 (Testimonium)\n 0.000  clean    97 grams  Behavior\n 0.000  clean    37 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   3  | **Han-Energy yield** | 16–22 per successful work cycle, taken off the names read and written into the watch book, never off the \n   84   4  | { *The Full Revenant* [**Attack**] } | \"The soul fully materializes — every death, every return, every refusal to stay gone — co\n   85   7  | { *The Army of Returns* [**Ultimate**] } | \"Every soul that was ever laid to rest returns — and the weight of every death crushe\n  199   1  **Appearance:** a wrapping shroud of Lament Han-silk with a faint cold sheen across it, that goes cold the moment it is worn close\n  307   1  **After departure:** The door seals and the pressure comes down, but the watch leaves something behind: Lament in the suit fibres,\n  320   2  | Nemo's neighbour | How the pairing has run | What the watch noted | What the entry carries |\nGENERIC 0.004  (18 shared shingles)  SE-N-IIIγ-589_Nemo_돌아온_영혼.md\n",
+          "stderr": ""
+        }
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "history": "Batch137 unit1 9c9308aaa52ade8e6a19eceb36b90d9947fa3b67 already credited full-source review and exactSE589B Weapon. Baseline carries those credits; absence from the newer equipment_reviews array is not evidence of uncredited work. EarlierB33/24da91d andB50/6070818 prose cleanup is not a new body review. No duplicate, retroactive or artwork credit.",
+      "reasoning": "Subject/Subject-Lament, translucent half-flesh/half-light figure and named falling tears fit the grief of an unacknowledged living return. The observer-dependent face is a retained finding, not a required portrait correction. Stationary presence during an outward corruption event can coexist with disappearance/reappearance at different recorded sites; no pursuit path or teleport mechanism is invented. Ordinary mapped returns and two explicit Sorrow Gate exceptions are distinct observations, not automatic body contradictions. A separately stabilized healing Blade, wearable Shroud and bestowed Charm need not resemble the donor body. Complete action-chain review still finds essential same-source Work and combat conflicts, particularly name-speaking, pursuit, touch and return/death claims. R19 Neutral retained: Prince affects Nemo count, Name comparison informational, Gate unresponsive; none establishes assistance/suppression. HELD; +0 independent SE completion.",
+      "followup_scope": "During first half of post-check rereading, two duplicate summary rows still contradicted the repaired movement/identification guidance. Both additional batch-short corrections declared before editing; full validation and final rereading restarted.",
+      "reading": {
+        "before_lines": 424,
+        "before_bytes": 41115,
+        "final_lines": 426,
+        "final_bytes": 43239,
+        "final_read": "Complete lines1–215 then216–426 after all five re-run validators; no subsequent primary edits."
+      },
+      "link": "[[SE-N-IIIγ-589_Nemo_돌아온_영혼](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-589_Nemo_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%98%81%ED%98%BC.md \"SE-N-IIIγ-589_Nemo_돌아온_영혼.md\")]",
+      "table_link": "[Nemo](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-589_Nemo_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%98%81%ED%98%BC.md \"SE-N-IIIγ-589_Nemo_돌아온_영혼.md\")",
+      "commit": "ec7b7f0319c391dd19243b72734f3d613f5457ca",
+      "push": "VERIFIED"
+    },
+    {
+      "designation": "N-IIIβ-941",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md",
+      "words": 6982,
+      "sha256": "9fb6664b0d08656dc6cb28f34398e9f93512da2be4d925cfdd0d1205ceecc4e4",
+      "unit": 3,
+      "name": "Grieving Love",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_03_GRIEVING_LOVE.md",
+      "before_words": 6982,
+      "after_words": 7162,
+      "base": "ec7b7f0319c391dd19243b72734f3d613f5457ca",
+      "final_sha256": "f4c31d30b1f9a12b4f6d703c538583e44bc8366c287c376abc7fc89a54a8a542",
+      "summary": "Five supported repairs identify Haneul without inventing his fate, carry the legless slime-body glide into breach movement, distinguish recycled tears from tearless display, separate each equipment cost in the field-use table, and surface the incompatible comfort-permission instructions.",
+      "commentary": "The strongest design choice is that the puddle is her body, not scenery beneath a woman. It makes reaching, movement and dissolution one continuous act rather than three unrelated powers. I also value the careful working papers: the accident is more painful when Sooah was competent, and the file refuses to turn her exhaustion into blame.",
+      "holds": [
+        "Operational Notes records every comfort attempt as a protocol breach, while Flerehan, regular silent-sitting visits, breach response and resolution prescribe comfort/embrace. The new warning exposes the conflict but grants no exemption, no safe contact interval and no new extraction mode.",
+        "The Holding's dissolution warning, literal until-you-dissolve combat language and Breach Secondary Effect whoever-is-held-comes-apart coexist with voluntary physical comfort and Soojin's eleven-minute non-envelopment. No documented contact-state rule establishes when presence is safe or when her voluntary release precedes dissolution. The Film protects composure, not bodily dissolution.",
+        "The final vial is recovered beneath the vat in StoryEntry5 but remains unreached on the high shelf in Tale/Trivia. No relocation or second-vial account reconciles those locations. StoryEntry5 speculates the cure perhaps finished while WardenHaneul says never finished; preserve the uncertainty rather than finish or disprove the cure.",
+        "Haneul is identified but his fate remains unknown in Origin/Tale/Record; CombatMurmur says no one alive answers his name. No death finding was invented. Fixing the anonymous-grief summary does not clear this separate death implication.",
+        "Reading-her-combat says striking does not raise Gauge, while Pugnahan confrontation reads as rejection and increases it. Gauge70%/withdrawn-comfort activation,60%murmur,90%Ultimate and50%breach-start need their distinct scopes, not substituted numbers. Kindest-person target versus reach toward anyone remains a specificity question, not evidence of malice.",
+        "Primary CoilRange2Medium versus exactA/BRange3Medium remains held. Local Han-crystal whip/lash-line and its extended slime tendril may describe implement and effect, so a donor-versus-gear silhouette difference is not itself a contradiction. The Close spiked-knuckle archetype still has no exact-form crosswalk; no reach/mode was invented.",
+        "Primary FilmHan-silk and PendantHan-crystal descriptions remain alongside exact-item grief-slime appearances; the record supplies no construction relationship. Separate bearer/source identities are accepted, but no invented manufacturing or detachable-source-body account was used. A/D retain unnamed+1stat bonus, so no unsupported named stat was inserted; Registry genericAccessory does not replace Neck5%.",
+        "Side full-set Weapon stays hazard language, item first-person-history corrosion and terminal source-manifestation-as-new-site remain documented equipment conditions, not a license to recast the source body or identify the mourner as Haneul. Earlier Coil/Film/Pendant attribution notes remain intact; relinquishment is not worker extraction and does not refund a cost."
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/941_Grieving_Love/SE-941-A__SIDE_CODEX_Grieving_Love.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/941_Grieving_Love/SE-941-B__MAW-W_The_Comforting_Coil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/941_Grieving_Love/SE-941-C__MAW-S_The_Mourner_s_Film.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/941_Grieving_Love/SE-941-D__MAW-G_The_Tear_Pendant.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/941_Grieving_Love/SE-941-A__SIDE_CODEX_Grieving_Love.md": "2aff96f21a8e32e6a9219dd200328803491479c0bd5452797ad9c806a44fdf1d",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/941_Grieving_Love/SE-941-B__MAW-W_The_Comforting_Coil.md": "598452db9ba77dbaa0aa14ac967d0e110da0f48a36542fcca2a3b38fdb27776a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/941_Grieving_Love/SE-941-C__MAW-S_The_Mourner_s_Film.md": "2c4f175580f8781979e6275047e7c4c5c7ca83a38ffc6c5222ccb61cf0003312",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/941_Grieving_Love/SE-941-D__MAW-G_The_Tear_Pendant.md": "a86ebd686eb993c1db1fc088f2d135f2034c877b76340f6ffddfd9ab1af87328",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/README.md": "14a915a990a7d5d300cf37c5ae8ece4879871fd8b66831fec9b296ffcb5176dc",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "repairs": [
+        {
+          "kind": "short",
+          "old": "- She grieves someone the record cannot identify, and the grief is directed rather than general.",
+          "new": "- Her grief is directed toward Haneul, named in the Apothecary records and her repeated murmur. What the record cannot establish is his fate after the night Sooah fell into the vat, not the identity of the person she was trying to save.",
+          "evidence": "Origin People, Counseling Entry3 and Registrum identify Haneul while explicitly leaving survival unknown."
+        },
+        {
+          "kind": "short",
+          "old": "| **Movement** | She leaves the Apothecary on foot and goes where the most people are, unhurried, arms held out for somebody to step inside them — and she is not particular about whom. |",
+          "new": "| **Movement** | She glides out of the Apothecary on her gelatinous lower mass toward the gathering of people, unhurried, arms held out for somebody to step inside them. There are no feet beneath her: the blue slime below the torso is her body, not something a separate woman is walking through. |",
+          "evidence": "SECC Physical Form/Movement, Appearance Primary Form and Warden She Is the Puddle expressly establish a legless torso on its own moving slime mass; no unsupported breach transformation is introduced."
+        },
+        {
+          "kind": "short",
+          "old": "| **Distinctive markers** | Continuous tearless weeping; the open pleading hand; the slow blue chest-pulse of the unfinished cure. |",
+          "new": "| **Distinctive markers** | Continuous weeping whose tears rejoin her slime instead of reaching the floor; the open pleading hand; the slow blue chest-pulse of the unfinished cure. No floor residue does not mean she sheds no tears. |",
+          "evidence": "Appearance Material and Surface, Warden Weeping Without Losing and Registrum tears rejoin her mass; correct the summary without changing the actual process."
+        },
+        {
+          "kind": "careful",
+          "old": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline written against the toll the file records for these pieces — the bearer being shown the faces of everyone they failed to comfort. The envelope is opened at the end of the rotation and never before it. |\n| **During use** | Every occurrence of the toll is entered with its hour: the faces of people the bearer could not comfort arriving unasked. One is written down as a note; a pattern running across a full shift ends the use. |\n| **At limit** | The cost here does not arrive in episodes; it seeps. The bearer stops being able to end a conversation, stops leaving a room first, keeps the line open past what the call needed. The second worker calls the limit and the call holds against the bearer's. |\n| **After use** | Take the piece back and look at the bearer a week later, because the cling this kit leaves does not show on the day: it shows as a man who cannot finish a sentence, or a woman who will not put the receiver down. |",
+          "new": "| Stage | Required record |\n|---|---|\n| **Before use** | Name the bearer and the piece on the issue record, with the Gauge and a sealed baseline. For the Coil, record intrusive faces; for the Film, the ability to end conversations and leave rooms; for the Pendant, unexplained weeping. Keep the envelope closed until the rotation ends, not as a substitute for the second worker's immediate observations. |\n| **During use** | Record when unbidden faces appear to the Coil wielder; a pattern across the full shift ends that use. Track the Film wearer's clinginess separately from the Pendant bearer's tears, whose cause may remain unknown. A borrowed first-person account of Sooah's event is an attribution failure, not a recovered biography. |\n| **At limit** | The second worker's call holds against the bearer's. Name the affected piece and actual sign: intrusive faces, inability to end contact, unexplained tears, or the source-history failure described in its care note. The Film's composure protection does not prevent dissolution, and removing equipment is not authorization to extract a worker from her hold. |\n| **After use** | Retain the named witness and the week-later check. Review the Coil's faces, the Film's inability to let contact end, and the Pendant's unexplained weeping separately; the grant is not an issued item with an assumed hand-in or recovery procedure. Relinquishment preserves attribution but does not refund a piece's cost. |",
+          "evidence": "Whole individual equipment costs and B133-authored care notes: the old table copied Coil faces and Film cling onto all pieces; retain sealed baseline, outside limit call and delayed check without inventing Stigma removal/recovery."
+        },
+        {
+          "kind": "careful",
+          "old": "- Extraction of a worker from her reach is a risk event in its own right and needs its own authorization, separate from the work order.",
+          "new": "- Extraction of a worker from her reach is a risk event in its own right and needs its own authorization, separate from the work order.\n\n**Comfort and permission:** The Behavior table, the silent-sitting visit schedule and the breach response all prescribe comfort, while the note above records attempts to comfort her as protocol breaches regardless of outcome. Those instructions are not reconciled by a falling Gauge. Keep the conflict with the visit order rather than treating the listed Work Type as blanket contact permission; neither the Film nor a calm response proves that an embrace cannot dissolve the worker. Extraction still requires its separate authorization.",
+          "evidence": "Operational Notes comfort prohibition versus Flerehan/Registrum/breach prescribed comfort are conflicting primary instructions. Surface the conflict without inventing an exemption, a safe hold duration or a new extraction mode."
+        }
+      ],
+      "split": [
+        3,
+        2
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.016  clean   367 grams  상호작용 (Entity Interactions)\n 0.008  clean   716 grams  M.A.W. Equipment\n 0.007  clean   580 grams  Combat Record\n 0.005  clean   202 grams  Operational Parameters\n 0.000  clean   496 grams  이야기 (Narratio)\n 0.000  clean   432 grams  Appearance\n 0.000  clean   326 grams  이야기 보고 (Story Log)\n 0.000  clean   300 grams  Warden Record\n 0.000  clean   281 grams  관찰 기록 (Observation Log)\n 0.000  clean   228 grams  기록 (Registrum)\n 0.000  clean   177 grams  Behavior\n 0.000  clean   166 grams  최종 관찰 (Final Observation)\n 0.000  clean   163 grams  감각 묘사 (Flavor Text)\n 0.000  clean   159 grams  Breach Behavior\n 0.000  clean   154 grams  Origin\n 0.000  clean   141 grams  Trivia\n 0.000  clean   107 grams  증언 (Testimonium)\n 0.000  clean    59 grams  SECC Classification\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   1  | **Han-Energy yield** | 12–18 per successful work cycle, read against how long the crew actually stayed in the room |\n   88   4  | { *The Unfinished Cure* [**Ultimate**] } | \"The concoction that made her erupts from her chest — a flood of luminous blue grief \n  191   2  **Appearance:** a coiled whip of Lament Han-crystal, cool and faintly luminous, that glows along the lash-line when it is uncoiled\n  209   2  **Appearance:** a thin membrane of Lament Han-silk, cool and faintly luminous, that clings closer the nearer the wearer comes to t\n  229   2  **Appearance:** a pendant of Lament Han-crystal, cool and faintly luminous, that holds a faint blue cast at its centre even in a d\n  233   2  **Effect:** +1 stat bonus while working the source holding, entered at issue; withdrawn the moment the wearer stops going back to \n  323   6  Three holdings are kept within reach of the Apothecary — The Preserved Heart, The Ember Child and The Lonely Giant — and not one o\nGENERIC 0.003  (19 shared shingles)  SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md\n",
+          "stderr": ""
+        }
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "history": "Full-source review already credited in Batch133 unit5 316241a3e83751f15ebd333299d7187f61545794; exactSE941B Weapon first credited Batch83 unit2 ff236165, reaffirmed B133. Absence from the newer equipment_reviews array does not erase inherited baseline credit. +0Types/+0Weapon/+0SE; no retroactive body or artwork completion.",
+      "reasoning": "Subject/Subject-Body, FragmentIII and Moderateβ fit a physically present torso-on-slime organisation. The primary and exact Side A explicitly describe a living Sooah dissolving into her own concentrated Han and reconstituting as slime: this is supported origin-to-current succession, not an invented form switch. The1.3m upper torso, unfinished face, no legs, chest-pulse, recycled tears, cold field and warmth-seeking glide form one concrete design. Breach relocation uses the same lower mass, so the on-foot wording can be corrected without a new state. Extending the slime into boots/envelopment and releasing a room-scale flood are documented actions; they do not require a humanoid lower skeleton or prove the cure works. Derived Coil/Film/Pendant are separate pieces, not an anatomical miniature of the source. Essential contradictions remain in contact authorization, safety/suppression and the cure/vial record. R19 Neutral retained: mutual calming is not automatic intentional help/suppression; Ember warmth acts on her and Giant proximity raises both gauges. Final logical outcome HELD, with no independent SE completion credit.",
+      "reading": {
+        "before_lines": 430,
+        "before_bytes": 41802,
+        "final_lines": 432,
+        "final_bytes": 43100
+      },
+      "link": "[[SE-N-IIIβ-941_Grieving_Love_슬픈_사랑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-941_Grieving_Love_%EC%8A%AC%ED%94%88_%EC%82%AC%EB%9E%91.md \"SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md\")]",
+      "table_link": "[Grieving_Love](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-941_Grieving_Love_%EC%8A%AC%ED%94%88_%EC%82%AC%EB%9E%91.md \"SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md\")",
+      "commit": "63aee6a60f7b37d9ed2d0ea8ea58e6d2a9100cf2",
+      "push": "VERIFIED"
+    },
+    {
+      "designation": "C-Iα-723",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄.md",
+      "words": 7003,
+      "sha256": "170ff23b2cafd745b8a41d53dda49d6e824c2ea99df769762650c778334373aa",
+      "unit": 4,
+      "name": "The Vanished Rope",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_04_THE_VANISHED_ROPE.md",
+      "before_words": 7003,
+      "after_words": 7136,
+      "base": "63aee6a60f7b37d9ed2d0ea8ea58e6d2a9100cf2",
+      "final_sha256": "796a52d010f538244386d9aa3847d4dca12272c68ae48d0942e53f7cdd1ea06b",
+      "summary": "Five supported repairs replace the indiscriminate-hunt announcement with the recorded asking/preferred-return behavior, restore the exact+1Clarity Stigma bonus, describe all four Work responses rather than a two-response entire mechanism, distinguish the visible rope-fibre body from the unresolved site-knot account and conditional tether return, and separate the three equipment costs in field records.",
+      "commentary": "The offered end is more unsettling than an indiscriminate chase: it asks a worker to complete a bond that cannot be completed. The fixed circuit and the empty far end give that request a shape. I kept the joint Colossus session as a null result; grief in common is a reason to compare two records, not proof that their powers cooperate.",
+      "holds": [
+        "OperationalNotes and expandedOrigin say the Rope is absent, only an open-air knot remains, handling is prohibited and every session occurs at the site. Current PhysicalForm/Movement/Work/Story describe a walking ember-rope humanoid offering a held end in a chamber and corridors. No condition links these accounts. The new body/absence paragraph distinguishes evidence rather than inventing transformation or recovery.",
+        "Recommended response says onlyViderehan/Ferrehan authorized, Work lists all four and Flerehan is primary in Registrum. A response chart is not an authorization. Blanket hand-contact prohibition versus hold-and-return also remains open. No clearance invented.",
+        "The four counter,45%activation Gauge and65%Ultimate are different fields. Counter falls toward unsafe fastening atzero in breach/Observation, naming restores a step, while successful FinalObservation lowers it and other notes say tying/incorrect naming raises it. Preserve numerical fields and conflicting directions; no silent normalization or synthetic combined rule.",
+        "Containment demands naming the missing traveller, but archive cannot identify him, rejects guesses and has three unselectable candidates. Naming what was lost may be a broader resolution than naming the person; no missing name, surviving-person transformation or safe surrogate was invented.",
+        "Header/SECC is ResidueI/Minorα/Comprehension1; Registrum and standaloneTale119 restate EchoII/Moderateβ/Comprehension2 under the same designation. No supported chronology or reclassification makes them two established states. Unchanged classification evidence remains held.",
+        "PhantomNoose lists a phantom strangling wound while observations/shroud deny direct physical injury. A phantom injury need not be a bodily wound; do not call this proven physical harm. Conversely SideA full-set misuse explicitly drives deadweight into the bearer’s spine and drags toward a fissure: equipment misuse is distinct from ordinary source injury, not a harmlessness guarantee. FullReturn reconstitution remains supported conditional action.",
+        "Exact A/B/CSV and Master detailEntry355 call the weapon SeveredRequiem and itemB relinquishes a blade. Primary/Master index call it SeveredBond-Censer; archetypes282and307 retain both hanging-censer and straight-blade entries underMAW-W723 with no form transition. PrimaryRange2Short versus censer archetypeMedium is held; exact2/2does not resolve a range-band crosswalk. No donor/derived silhouette equality demanded.",
+        "Master indexShroud LivingChitin versus primaryHan-silk/cloth and Stigma RingsHandSeals versus Tail knot have no linked construction/slot crosswalk. ItemD specifiesTail5%+1Clarity, now accurately named. Knot cold-near-site versus warm-held-attachment are different stated conditions, not automatically contradictory. Their mechanical relationship is not invented.",
+        "Consequences describes the repeated unanswered request as nothing changing, while combat has field-wide severing and breach count effects on acceptance; ordinary unanswered walking is not automatically a no-Ultimate guarantee. Newest-member offer and previous-taker preference are both documented; log actual order instead of assuming only one rule. Tying counter and gauge remain unresolved."
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-723-A__SIDE_CODEX_The_Vanished_Rope.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-723-B__MAW-W_The_Severed_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-723-C__MAW-S_The_Severed_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-723-D__MAW-G_The_Severed_Knot.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-723-A__SIDE_CODEX_The_Vanished_Rope.md": "f618ca06a2915cc7c013271b51cbd9756ba6b6ce657f9bbaa7000556e8dfa8af",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-723-B__MAW-W_The_Severed_Requiem.md": "36c964d1ef4ecea6122720e2df503f132f977217f0c5fd812f6340bec44c87d0",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-723-C__MAW-S_The_Severed_Shroud.md": "b60bba2ad2e6babb380488d7419b4c736759df065410ef3715e92367f2a1e524",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-723-D__MAW-G_The_Severed_Knot.md": "41aad8f1f575f91beb6f078d422e0a043c9082c9ddb4c107c1b2c2593c4ab7c7",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/README.md": "51767fc97865c871b019526386ab58e743654cc921b02519656ec6d879c851be",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "repairs": [
+        {
+          "kind": "short",
+          "old": "> *\"The Vanished Rope has broken free. Hunts personnel indiscriminately.\"*",
+          "new": "> *\"The Vanished Rope has left its circuit. It walks with the severed end offered, returning first to someone who has taken it before. An unanswered offer is not a hunt.\"*",
+          "evidence": "BreachMovement says nobody hunted/everybody asked; FirstTarget prefers previous taker; preserve activation offer without replacing all conditions."
+        },
+        {
+          "kind": "short",
+          "old": "**Effect:** +1 to work against the Vanished Rope itself, and nothing against the other rope-form records.",
+          "new": "**Effect:** +1 Clarity while working against the Vanished Rope itself, and nothing against the other rope-form records. The bonus names a faculty, not a general increase to every work statistic.",
+          "evidence": "Exact723A/D both explicitly+1Clarity; retain primary source-work scope and Tail5%."
+        },
+        {
+          "kind": "short",
+          "old": "The four Types divide into one that recognises and one that tests, and that division is the entire mechanism.",
+          "new": "The four Types have distinct responses: Flerehan recognises, Ferrehan tests the hold, Viderehan reveals the severing, and Pugnahan intensifies the burn. Recognition and endurance lower the Gauge, but do not exhaust the mechanism.",
+          "evidence": "Behavior and subsequent same paragraph already enumerate all four; replace a two-response entire-mechanism assertion without changing mechanics."
+        },
+        {
+          "kind": "careful",
+          "old": "**Notable Features:** It burns without ash, reaches toward travelers, and represents a bond that disappeared without resolution.",
+          "new": "**Notable Features:** It burns without ash, reaches toward travelers, and represents a bond that disappeared without resolution.\n\n**Body and absence:** The walking figure is described as rope-fibre gone to ember, not a person carrying an ordinary coil. Its limbs fade partially and irregularly while its reach and circuit remain observable; that is not the same claim as the Rope being absent and only a knot remaining at the site. The origin establishes the severed connection as the sorrow that formed this Subject-Grudge, but does not establish that the returned traveller physically transformed into the figure. Keep the site-knot account beside the moving-body account without inventing a transition. *The Full Return* explicitly reconstitutes the tether around a target under a pulling trigger; it does not, by itself, explain the figure's ordinary fading or reconcile the static-knot record.",
+          "evidence": "PhysicalForm/Appearance state rope ember limbs and partial fade; Origin/OperationalNotes site static knot conflicts. CombatFullReturn explicitly conditional tether reconstitution is preserved, not assumed global body transformation."
+        },
+        {
+          "kind": "careful",
+          "old": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, the reading taken that morning, and a dated note of who each member of the team is standing beside — the reach takes the newest person first, so the roster entry is the instrument on this set. Every person named in that note is entered as present company rather than as source grief, which is the distinction the rotation will spend its hours testing. |\n| **During use** | The first sign of charging is the wielder weeping while putting the censer down, and the hour entered is the one the second worker saw it rather than the one the wielder admitted it. The wielder's own account is taken separately and afterwards. Any hauling on the piece — a pull against a far end rather than a hold on it — is timed from the second worker's log, and the rotation ends at the second occurrence. |\n| **At limit** | Numbness to small pleasures without remission, reported first as other people's company not registering. On a piece from this set the use ends there whatever the wielder says, and the second worker's call stands. The shallower limit is the pull reasserting as routine: a bearer who begins describing the missing traveller's whereabouts or intentions has reached it, and that entry is logged as the first rung of the ladder rather than as a note. |\n| **After use** | Return the piece, compare against the morning reading, and record whether the numbness has lifted — on this set it has lifted in some cases and not in others, and the file keeps both columns. Where it has not, the piece is not reissued to that wielder. A shutdown under a named witness is entered with the resolution restated aloud, and the piece returns to the rack only once the debrief records who is missing and does not record where they went. |",
+          "new": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, morning reading and the dated roster of present company. Record whom the end was offered to, not just who was newest: previous takers are also recorded as preferred recipients. Keep those present distinct from the missing traveller and take a separate baseline for the censer's weeping, the shroud's loss of small pleasures and the knot's borrowed broken bonds. |\n| **During use** | Time the censer wielder's first weeping from the second worker's observation, taking the wielder's account separately afterwards. For the shroud, record company no longer registering; for the knot, personal loss attributed to someone else's severed tie. Time hauling from the second worker's log and retain the rotation's second-occurrence limit; first-person adoption of the severing remains an earlier attribution warning, not a reason to wait for that limit. |\n| **At limit** | The second worker's call stands. Numbness without remission is the shroud's existing stop sign, not the only sign that matters on every piece. Record the affected item and whether source emotion has blurred attribution or the pull has become routine; claims about the missing traveller's whereabouts or intentions are not a recovered biography. The knot's warmth is held attachment, not proof that the far end is occupied. |\n| **After use** | Compare each piece's cost with its morning record. Retain both columns for numbness that lifted and numbness that did not; a wearer whose numbness persists is not reissued the shroud. Named-witness shutdown restates the resolution and returns none of the cost. Debrief before cleaning or rest, naming who is missing without inventing where they went; the granted knot has no assumed workshop return or removal procedure. |",
+          "evidence": "Individual primary censer/shroud/knot costs, complete exactA–D corrosion/maintenance/shutdown and logged offer pattern; prior table treated shroud numbness as universal limit and rack-return as all-items procedure. Preserve existing second occurrence and earlier attribution warning."
+        }
+      ],
+      "split": [
+        3,
+        2
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.021  clean   142 grams  기록 (Registrum)\n 0.019  clean   105 grams  최종 관찰 (Final Observation)\n 0.017  clean   600 grams  Combat Record\n 0.017  clean   180 grams  Trivia\n 0.015  clean   130 grams  Operational Parameters\n 0.004  clean  1097 grams  M.A.W. Equipment\n 0.003  clean   622 grams  감각 묘사 (Flavor Text)\n 0.000  clean   427 grams  이야기 (Narratio)\n 0.000  clean   412 grams  Appearance\n 0.000  clean   386 grams  이야기 보고 (Story Log)\n 0.000  clean   347 grams  관찰 기록 (Observation Log)\n 0.000  clean   215 grams  Origin\n 0.000  clean   196 grams  Breach Behavior\n 0.000  clean   192 grams  Behavior\n 0.000  clean    52 grams  증언 (Testimonium)\n 0.000  clean    47 grams  SECC Classification\n 0.000  clean    21 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle, drawn from the offered end while it is held and given back, a\n   84   4  | { *The Full Return* [**Attack**] } | \"The rope comes back — whole, taut, and furious at having been cut by somebody who then let\n   85   6  | { *Every Rope Vanishes* [**Ultimate**] } | \"Every bond, every tether, every promise of company — the storm takes them all, and n\n  193   2  **Ability:** The censer strikes the mind and not the body. It channels a bond cut mid-length, and what it opens in a target is the\n  201   2  **Appearance:** a wrapping shroud of Lament Han-silk, cool to the touch and luminous faintly along the seams, carrying the cold-ra\n  296   2  > The choice at the end of a session is what the worker does with the end being held out: hold it and give it back and name whoeve\n  328   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  384   3  **Review requirement:** Re-verify after any Sorrow Tide, after any Han-storm in the Desolate, and after any session in which the e\n  397   3  - **Record detail:** Check the designation before approach. More than one record in this archive is a rope and they are not handle\nGENERIC 0.005  (26 shared shingles)  SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄.md\n",
+          "stderr": ""
+        }
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "history": "B122unit2 dfd4879b0837a21da2f873eb581911ecc860fd92 already credited full equipment and exactWeapon; B122opening established the earlier Weapon pair was new then, not now. +0Types/+0Weapon/+0SE. Prior receipt's4%bestowal hold is not current evidence: current A/D and CSV all read5%, retained unchanged. No stale4%hold copied.",
+      "reasoning": "Subject/Subject-Grudge allows a mobile sorrow-form, not necessarily human flesh. Its burning rope-fibre humanoid, two cut ends, ashless ember material, cold-rain smell, partial fade and short circuit are concrete body/motion markers. The survivor's retained tether is the origin sorrow; no supported text says his body transformed into this figure. The Full Return explicitly reconstitutes a tether around a pulled-at target, a supported conditional action, not permission to invent a static-knot-to-walking-body cycle. The knot left at a fixed site, blanket handling prohibition and current mobile body need an actual relationship before SE completion. The Knot stigma and the site knot are not automatically the same subject. A hanging bronze censer need not look like its donor, but the exact same Weapon's censer versus blade identities lack a crosswalk. R19 Neutral retained: Asking costs personnel without recorded direct injury; shared subjects are not aid; the only measured pairing is null. HELD+0SE.",
+      "reading": {
+        "before_lines": 402,
+        "before_bytes": 40803,
+        "final_lines": 404,
+        "final_bytes": 41881
+      },
+      "link": "[[SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-723_The_Vanished_Rope_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B0%A7%EC%A4%84.md \"SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄.md\")]",
+      "table_link": "[The_Vanished_Rope](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-723_The_Vanished_Rope_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B0%A7%EC%A4%84.md \"SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄.md\")",
+      "commit": "e42e04de6d6cd94025ee69581ba03f09a3a7d4fb",
+      "push": "VERIFIED"
+    },
+    {
+      "designation": "C-IIβ-901",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-901_Duri's_Heart_보존된_심장.md",
+      "words": 7005,
+      "sha256": "d18470d7b3611f61bfb6c157b8d6f5fc0c952eeae7e844e787c2b133dcdaadae",
+      "unit": 5,
+      "name": "Duri's Heart",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_05_DURIS_HEART.md",
+      "before_words": 7005,
+      "after_words": 7323,
+      "base": "e42e04de6d6cd94025ee69581ba03f09a3a7d4fb",
+      "final_sha256": "aa69f42077883904bc10865680692c5511679de87a184e8ecf0f34c77125446a",
+      "summary": "Five supported repairs correct the four-hundred-beat baseline duration, distinguish expanding Weight influence from an escaping organ, remove unsupported beat quickening from distance-based targeting, explain the opaque amber/source/tool/equipment boundaries, and record the Edge, Veil and Token costs separately without treating every item as the whole specimen.",
+      "commentary": "The amber calendar gives institutional neglect a visible surface without making Duri stand up and accuse anyone. I find the useful calm more disturbing than a false benefit: the facility can measure its success while refusing to replace rest. The pulse-caller is the person the system still needs to feel alarm, and its refusal to fund relief makes that role painfully concrete.",
+      "holds": [
+        "The source is fixed, never relocated, continuously emits while sealed and is never opened; the I-Relic profile says carried/equipped, palm-contact activation, handler removal and cannot be left running in a room. No separate mounted part, portable state or transfer history identifies their relationship. New wording flags it without manufacturing a bridge.",
+        "Core says nothing attempted and amber never opened. Breach says one shattering attempt recorded in full in WatchRecord, but WatchRecord contains no such attempt. Cooling/slowing instruction also conflicts with invariant-rate series. No missing Watch paragraph or extraction procedure invented; intact medical recovery need not equal later armor-material harvesting.",
+        "Invariant forty-eight-year three-second baseline versus cycle-induced slowing, Monday testimony, skipped-beat action and first-contact two-second sound/ear-three remain distinct unresolved claims. The new twenty-minute duration is explicitly baseline arithmetic, not a promise of an invariant rate in every event:400×3seconds=1200seconds=20minutes. Four-hundred-beat count/yield and all digit sequences unchanged; actual count and earlier pulse stop govern, not a stopwatch permission.",
+        "Three ignored conditions, Gauge60%activation,65%sector event,50%breach opening and rising/falling5%perbeat have separate scopes; no composite trigger invented. FirstWeight says every handler matches specimen within firstminute while convergence ends sessions, success requires400beats/near-entrypulse and Token recipients ended own fullcycles. No safe pulse-state exemption was added. Bodypressure versus Composure labels remain fields, not proof of separate anatomy.",
+        "A records FormationNotRecorded, B says owner/occasion lost, C provenance withheld and D story surrendered, against named Duri/full medical roster/Origin/Tale. Item first-person attribution and named-event shutdown retain an unresolved event reference; sourcehistory was not copied into their files as if they already agreed. No item donor biography invented.",
+        "Primary source completion is400beats, within4ofentry, glass shut; A–D generic reduceGauge containment is not substituted. Existing4beatcompletion, >8beat emergency rule,20bpmconvergence and2minute Tool removal remain distinct but conflicting exposure modes. New Field table does not authorize finishing a cycle past a stop.",
+        "Archetype354 Medium heart-shaped cleaver versus primary/exactA/B Short2 single-edged blade lacks a range/form crosswalk. Donor is not Weapon: absence of a literal heart silhouette in a derived blade is not itself a source-body conflict. Weapon's1secondhum and source3secondbeat are on different subjects; no false hold from equal-rate assumption.",
+        "Token cools when set down/warms inhand versus Effect keepsbloodtemperature inanyconditions remains unresolved across conditions. Its granted status,Head5% and unnamed+1sourceworkbonus retained; wearable sorrow fragment does not prove tissue extracted from sealed amber. Trivia Weightneverheaviness applies source but Token cost explicitly burden on a different subject, not automatic contradiction.",
+        "Forty-eight-year current series, forty-third extension/three years operation/eight subsequent reviews and eleven annual unamended reviews do not establish one coherent current date; document date4232+1778 and Y4240audit reference remain literal. No date/year rewritten. Forty-seven anniversary events from losses over eleven days and assertion of her own errors producingnodarkening coexist with everyloss anniversary claims; the grouped/individual-event accounting is not supplied.",
+        "Disposition324 says no pairing/no co-presence can be staged, while primary records one40minute KindHealer null pairing and prohibits EndlessShift co-presence. Neutral outcome remains supported; the index's historical prose discrepancy is retained. The facility safety case/extendedshift benefits and dose hazards coexist deliberately; useful composure is not recovery or rest. No assistance-against-entities credit."
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/901_Duri_s_Heart/SE-901-A__SIDE_CODEX_Duri_s_Heart.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/901_Duri_s_Heart/SE-901-B__MAW-W_Duri_s_Heart_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/901_Duri_s_Heart/SE-901-C__MAW-S_Duri_s_Heart_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/901_Duri_s_Heart/SE-901-D__MAW-G_Duri_s_Heart_s_Token.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/901_Duri_s_Heart/SE-901-A__SIDE_CODEX_Duri_s_Heart.md": "8571f157e6b8c2a88ae413c1fce18e91bcfe4ed75b4a5e5f330b582f07639963",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/901_Duri_s_Heart/SE-901-B__MAW-W_Duri_s_Heart_s_Edge.md": "2ddad533510a8c54732aa881b94111db465227e1e55bb6a2073ea15e44d76472",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/901_Duri_s_Heart/SE-901-C__MAW-S_Duri_s_Heart_s_Veil.md": "0fceb78af38388634274aea5038aa54480df845a705b6c18a6a2e1073afb5f43",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/901_Duri_s_Heart/SE-901-D__MAW-G_Duri_s_Heart_s_Token.md": "5d395212a8df931e39ad3c8adca63f8c3f44b670803a8652f0f8b033c9d969a0",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md": "973a8b4ee120f31c2e8a557b72bcfb09765901c6dc24af2d3fe5491bbf5118b9",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "repairs": [
+        {
+          "kind": "short",
+          "old": "| **Han-Energy yield** | 12–18 per cycle, measured in beats rather than minutes: a cycle is four hundred beats of the specimen, which at its own unvarying rate is a little over six minutes. |",
+          "new": "| **Han-Energy yield** | 12–18 per cycle, measured by four hundred specimen beats. At the documented baseline of one beat every three seconds, that count takes twenty minutes, not a little over six. The external caller records the actual count; the handler's sense of elapsed time is not the instrument. |",
+          "evidence": "Arithmetic from primary Appearance/StoryEntry1:400beats×3seconds=1200seconds=20minutes. No new beat rate/yield/count or permission to stay past pulse limits. Retain variation conflicts separately."
+        },
+        {
+          "kind": "short",
+          "old": "> *\"Duri's Heart has broken free. The weight body spreads.\"*",
+          "new": "> *\"Duri's Heart is expanding its reach. The amber remains in its cradle; the Weight radius advances on the beat. Track the people reached, not an escaping organ.\"*",
+          "evidence": "ClassificationMovement and BreachMovement/ThreatAssessment distinguish fixed object and spreading influence; no body enlargement or escape invented."
+        },
+        {
+          "kind": "short",
+          "old": "| **First Target** | Whoever is nearest when the beat quickens. It does not select; the radius reaches people in the order distance dictates, and distance is the only variable that has ever mattered. |",
+          "new": "| **First Target** | Whoever is nearest when the affected radius begins to advance. It does not select: distance determines the order people are reached, while the expansion record describes a fixed step on each beat, not a quickening organ or a chosen victim. |",
+          "evidence": "BreachMovement and EscalationNotes explicitly invariant beat/discrete steps; remove unsupported quickening in nearest-distance summary, preserving separate unresolved slowing/Monday statements."
+        },
+        {
+          "kind": "careful",
+          "old": "- Confirm the designation `C-IIβ-901 [WO]`, the cell number on Floor 5, and the beat count over a timed minute before any approach. A specimen in amber that does not beat belongs to the Keepers' collection and is not this.",
+          "new": "- Confirm the designation `C-IIβ-901 [WO]`, the cell number on Floor 5, and the beat count over a timed minute before any approach. A specimen in amber that does not beat belongs to the Keepers' collection and is not this.\n\n**What is visible and what spreads:** The witness sees the dark amber and its pulse, not an exposed organ through the opaque crystal. The heart within is identified by the recorded origin, its sound and the coupled warmth and movement of the amber. Duri in the Tale is the earlier healer; the current object is the preserved organ and its shell, not a standing human body. During the documented expansion, the influence advances while the cradle stays fixed. This does not establish the portable, equipped use described later in the I-Relic profile: no transfer or separate mounted piece is identified there. Nor does the source's stationary form require the derived blade, veil or head-slot Token to be stationary. Keep that source-versus-tool relationship open instead of using a portable Stigma to supply an unrecorded relocation.",
+          "evidence": "Origin/Tale support prior healer/current preservedorgan; Primary Notable opaque/Flavor, Classification and Breach stationary expandingradius; Tool equippable conflicts no bridge. Apply subject/state distinction, no anatomy added, no material harvest or source relocation invented."
+        },
+        {
+          "kind": "careful",
+          "old": "| Stage | Required record |\n|---|---|\n| **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, door pulse, beat count over a timed minute, amber shade against the reference card, and the name of the external pulse-caller. |\n| **During use** | Contact time, pulse at fifteen-second intervals called aloud, composure onset, first cost, radius if expanding, and whether the operator has declined a prompt to stop. |\n| **At limit** | The handler's pulse no longer responds to being startled, which the caller tests once per cycle without warning and records as a yes or no. |\n| **After use** | Removal method, door pulse out, pulse at twelve hours, lingering composure, cooldown, rotation status, reuse authorisation. |",
+          "new": "| Stage | Required record |\n|---|---|\n| **Before use** | Name the operator, the piece and its grade, condition and mission. For a cell session, retain Gauge, timed specimen count, amber reference shade, door pulse and the external caller. For equipment, distinguish the Edge's memory baseline, the Veil's fatigue and pulse response, and the Token's carried load; the head-slot grant is not the whole amber specimen. |\n| **During use** | Record contact time and the existing fifteen-second pulse calls, composure onset and any refusal to stop. Enter the actual piece's cost: memory fragmentation for the Edge, low fatigue and pulse limitation for the Veil, or the Token's increasing burden near unresolved debt. Radius readings belong to a source expansion, not an assumed enlargement of the carried item. |\n| **At limit** | Retain the caller's once-per-cycle unannounced startle test and its yes-or-no record. It is not a substitute for the existing convergence stop, the separate emergency-withdrawal rule, or the closed-glass pulse-completion condition. Claiming the source event in first person is an equipment corrosion sign, not evidence that the bearer is Duri or that an uncertain item history has been recovered. |\n| **After use** | Record the removal method where one is actually documented, door pulse out, pulse at twelve hours, lingering composure, cooldown, rotation and reuse authorization. Record each item's memory, fatigue or load cost separately. Exact item care requires attribution review before cleaning or rest and named-witness relinquishment; that preserves the record, does not refund the cost and does not authorize opening the source amber or extracting tissue. |",
+          "evidence": "ExactA–D and primary individual costs; old sharedtable treated source/Tool/Equipment monitoring as one geometry. Preserve15second calls/startle/convergence/eightbeat emergency/4beat completion distinct; completeB/C/D require attributionreview/witness and costsnotrefunded, no tissue extraction."
+        }
+      ],
+      "split": [
+        3,
+        2
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIβ-901_Duri's_Heart_보존된_심장.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.010  clean   199 grams  Breach Behavior\n 0.009  clean   576 grams  기록 (Registrum)\n 0.007  clean  1378 grams  Watch Record\n 0.006  clean   487 grams  M.A.W. Equipment\n 0.005  clean   441 grams  Combat Record\n 0.000  clean   431 grams  Activation Behavior\n 0.000  clean   346 grams  Appearance\n 0.000  clean   261 grams  이야기 (Narratio)\n 0.000  clean   238 grams  이야기 보고 (Story Log)\n 0.000  clean   212 grams  감각 묘사 (Flavor Text)\n 0.000  clean   190 grams  Operational Parameters\n 0.000  clean    96 grams  관찰 기록 (Observation Log)\n 0.000  clean    91 grams  Origin\n 0.000  clean    57 grams  Behavior\n 0.000  clean    53 grams  Trivia\n 0.000  clean    52 grams  증언 (Testimonium)\n 0.000  clean    35 grams  최종 관찰 (Final Observation)\n 0.000  clean    27 grams  SECC Classification\n 0.000  clean    13 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   86   2  | { *The Body Collapse* [**Ultimate**] } | \"Every pulse in the wing takes the specimen's rate and holds it.\" | [The rate propagate\n  161   2  - **Sorrow Gauge on breach:** Opens at 50% and rises 5% per beat, so the gauge is a clock and the response procedure is written in\n  269   3  **Effect:** +1 to the working stat on this holding's cycles, and the token keeps blood temperature in any conditions — tested at t\n  370   1  - Viderehan and Ferrehan are the valid Work Types; both lower the gauge and neither has ever altered the specimen.\n  378   2  **Operational interpretation:** The three sections below are one argument. The amber grades her forty-seven losses by how preventa\n  386   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  457  10  The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the forty-fourth year a\nGENERIC 0.004  (22 shared shingles)  SE-C-IIβ-901_Duri's_Heart_보존된_심장.md\n",
+          "stderr": ""
+        }
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "history": "B138unit2 195695cbdbc20a5058e619b3cd027d8043f272d9 already credited full equipment/exactSE901B after checking all prior history. Its4beat completion correction remains intact, distinct from >8beat emergency withdrawal. +0Types/+0Weapon/+0SE. UNK901MewgicalGirl is unrelated; no numeric-only identity crosscredit. Current A/D explicitly unnamed+1statbonus, so no named statistic imported from VanishedRope or Nemo.",
+      "reasoning": "Object/Object-Body, EchoII/Moderateβ and Weight fit a retained organic heart inside a fixed dark-amber shell. The Tale supplies an earlier healer and later organ preservation; this is supported succession, not a demand that human sorrow retain a human silhouette. The visible shape is opaque amber in a cradle; sound, warmth and coupled amber pulse establish the unseen organ. Calendar shade changes are surface events and expanding radius is influence, not bodily locomotion. The preserved beat can be carried into others without a walking source. The I-Relic carried/mounted profile lacks a documented relationship to this never-relocated source; derived blade/veil/headToken portability does not repair that same-source conflict. Weapon hum oncepersecond is on a derived item, not automatically a contradictory source pulse. The indexed heart-shaped cleaver and Short blade lack a same-item crosswalk. No new source size, mounting, detachable piece, transformation, revival or extraction mode invented. HELD+0SE; Neutral retained because human composure benefit and one null pairing establish no deliberate aid/suppression of other entities.",
+      "reading": {
+        "before_lines": 467,
+        "before_bytes": 42423,
+        "final_lines": 469,
+        "final_bytes": 44472
+      },
+      "link": "[[SE-C-IIβ-901_Duri's_Heart_보존된_심장](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-901_Duri%27s_Heart_%EB%B3%B4%EC%A1%B4%EB%90%9C_%EC%8B%AC%EC%9E%A5.md \"SE-C-IIβ-901_Duri's_Heart_보존된_심장.md\")]",
+      "table_link": "[Duri's_Heart](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-901_Duri%27s_Heart_%EB%B3%B4%EC%A1%B4%EB%90%9C_%EC%8B%AC%EC%9E%A5.md \"SE-C-IIβ-901_Duri's_Heart_보존된_심장.md\")",
+      "commit": "0adda2bb2320c8cf26f5022ef7bd5a5b2bee117c",
+      "push": "VERIFIED"
+    }
+  ],
+  "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_OPEN.json",
+  "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_CLOSE.json"
+}

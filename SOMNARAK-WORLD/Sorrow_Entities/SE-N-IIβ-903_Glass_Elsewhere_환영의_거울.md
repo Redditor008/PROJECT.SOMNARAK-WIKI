@@ -15,7 +15,7 @@
 | **Element** | Void |
 | **Manifestation** | Object-Phantasmal |
 | **Physical Form** | Non-Organic — A standing mirror whose surface ripples like water. It does not reflect the room — it reflects rooms that no longer exist, corridors of buildings demolished, faces of people who have been Fractured. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement** | Fixed upright in its frame and never relocated. During an expansion the affected volume grows around it and the glass stays where it is; nothing comes through the pane. |
 | **Location** | SECTOR-N-903, contained |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -29,7 +29,7 @@
 | **Entity role** | Object |
 | **Primary pressure** | Void / Phantasmal pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 per channel of no more than two minutes. The Watch's return records that the cycle is short, the counselling appointment attached to it is an hour, and the hour is the expensive part. |
+| **Han-Energy yield** | 12–18 per channel closed by the clock-holder at ninety seconds; the yield is not permission to run to the two-minute turn. The Watch's return records that the cycle is short, the counselling appointment attached to it is an hour, and the hour is the expensive part. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
@@ -43,7 +43,7 @@
 - Pressure is void and phantasmal. The breach type is Expansion, so failure spreads influence outward rather than releasing a body.
 - Sustained observation makes the phantasmal pressure legible. Sustained presence settles the void pressure gradually. Neither rewards speed.
 - The surface reflects rooms that no longer exist and the faces of the Fractured. Personnel who recognise someone in it are withdrawn from the row permanently.
-- Yield scales with observation time rather than with the number of cycles, so one long assignment outperforms several short ones.
+- Yield does not authorise a longer assignment. The clock-holder closes the channel at ninety seconds. The cycle log keeps only the category, and the viewer's counselling appointment is booked beforehand; no request for more time extends the viewing.
 
 ## Combat Record
 ### Core Stat Line
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
-| **Resistance** | 30% against Void. The glass has never been struck; it shows a place that is not there and there is nothing in the chamber to resist anything. |
+| **Resistance** | 30% against Void is the field parameter, not a tested striking result. The physical pane remains in the chamber and has never been struck; the room it shows is not a second room available to hit. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 426/426 |
 | **Han Pressure [ATK]** | 14–23 per hit · Void |
@@ -99,6 +99,9 @@
 
 ## Appearance
 
+**Pane, image and spread:** The standing mirror is the object, taller than a person in a plain frame. Continuous rippling belongs to its surface, not to a body trying to emerge. A room or a back-turned figure is what the viewer reports seeing within it; neither is established as a body present in the chamber. The clock-holder does not confirm the likeness. Expansion can place the elsewhere view into the wing’s reflective surfaces while the source remains upright, so measure affected volume separately from the frame’s position. Neither a photograph of an empty frame nor a familiar face supplies an identification of a missing person.
+
+
 **Primary Form:** A standing mirror whose surface ripples like water. It does not reflect the room — it reflects rooms that no longer exist, corridors of buildings demolished, faces of people who have been Fractured.
 
 **Notable Features:**
@@ -130,7 +133,7 @@ The district's name for it is about a gap that stays open, and the file carries 
 
 Floor 4 examined it at length and the findings are classified. The summary is not, and the file reproduces the summary and marks plainly where the rest sits rather than closing over the gap. The archivist's note is that a containment record which conceals its own gaps is worse than one that admits them, and that the marking was insisted upon when the folder was assembled.
 
-What the holding does is not pressure in any sense the wing's other Void files use. It shows a person a place, accurately, and the place is gone. The operational consequence is that the hazard here cannot be reduced by protective equipment, distance within the chamber, or shift length, and the only control that has ever worked is a rule about what gets written down.
+What the holding shows is a place that is gone, accurately enough for district records to confirm some recognitions. A protective piece or a different position within the chamber does not make that view harmless. The category rule controls what the facility retains, not what the viewer feels: exposure still needs the nonviewing clock-holder, a closed channel at ninety seconds, withdrawal on recognition and the counselling appointment. The projection records how that last safeguard has failed people despite the intended arrangement.
 
 ## Behavior
 
@@ -147,7 +150,7 @@ Glass Elsewhere is an Object with Object-Phantasmal manifestation and Void expre
 
 ## Breach Behavior
 
-> *"Glass Elsewhere has broken free. The void phantasmal spreads."*
+> *"The affected volume grows outward from the frame and the glass stays where it is. Nothing comes through it. Nothing has ever come through it."*
 
 | Field | Detail |
 |---|---|
@@ -159,7 +162,7 @@ Glass Elsewhere is an Object with Object-Phantasmal manifestation and Void expre
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** The clock-holder closes the channel at ninety seconds and states the date. Keep the category-only log and withdraw anybody who recognises someone; nothing comes through the glass to subdue.
 - **Sorrow Gauge on event:** Starts at 40% and rises 10% a turn while a viewing continues past the limit. It falls 10% for each demolition in the district that is afterwards recorded with the names of the households that lived there, which the district has done eleven times.
 
 ## Activation Behavior
@@ -170,7 +173,7 @@ Glass Elsewhere is an Object with Object-Phantasmal manifestation and Void expre
 
 **Activation Trigger:** Physical contact and intentional interaction.
 
-**Effect:** Projects concentrated Void sorrow resonance across the immediate perimeter.
+**Effect:** An open channel shows a demolished place, including the people who were in it, to the viewer at the glass. The mirror stays in its frame; an abandoned channel puts the reflected room into other windows rather than releasing its occupants.
 
 **Duration:** Continuous while channeled
 
@@ -231,6 +234,8 @@ Escalation here is recorded in categories and durations. Log what class of thing
 **Ability:** Void against the Mind. Struck targets see, briefly, the room they most want to be in; fourteen strikes, and eleven of the fourteen named a place that has been demolished.
 **Cost:** The wielder experiences a persistent low-grade headache with each use.
 
+**Edge custody:** The near-colourless glass blade is derived equipment, not the standing pane made portable. Its Single strike belongs to the selected target only; the source mirror’s expansion is not extra weapon coverage. Record the wielder’s headache and any first-person claim about the source before cleaning or resting the Edge. Witness-led relinquishment must identify the holding without inventing its unrecorded formation event or identifying a reflected face. Keep the missing attribution explicit: shutdown preserves the record and does not refund the cost.
+
 ### M.A.W. Suit — Glass Elsewhere's Veil
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
@@ -241,6 +246,8 @@ Escalation here is recorded in categories and durations. Log what class of thing
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Bearer cost:** The veil blunts recognition so thoroughly that the wearer is hard to recall even to themself; while it is on, memory cannot find a stable image to hold.
 **Ability:** Grants resistance to Void damage, protecting against the phantasmal register of sorrow.
+
+**Veil custody:** Record who donned the Veil and who witnessed its return, because difficulty holding the wearer in memory is its own cost. The older quarters in its folds are an equipment image, not evidence that the source pane has moved or that the chamber has become that room. Review attribution before cleaning or resting it. A named witness attends relinquishment without substituting a private reflected person for the unrecorded formation event; protection does not authorise an extended source viewing.
 
 ### M.A.W. Stigma — Glass Elsewhere's Token
 
@@ -253,6 +260,8 @@ Escalation here is recorded in categories and durations. Log what class of thing
 **Ability:** A fragment of the entity's phantasmal sorrow, crystallized into wearable form.
 *Five in nineteen years, in every case to a Warden who logged a recognition by category and did not name the place. Nineteen have named one; none has been given anything, and the file records that naming is a natural thing to do and is the reason the categories exist.*
 
+**Token cost and custody:** Invocation can briefly erase a familiar word or face from the bearer’s recall. Log the lapse and its duration without copying the face or treating the pressed door-number as permission to identify a household. The source-work bonus does not extend the channel limit. Review attribution before cleaning or resting the Token; a witness records relinquishment and the unresolved source-history field rather than manufacture a named formation event. This return does not promise to restore what the bearer has lost.
+
 ### M.A.W. Use Notes
 
 Each piece extends a place that no longer exists, and the set does to its wielder what the pane does to a viewer: it shows them somewhere gone, accurately, and asks nothing. The cost is that they begin preferring it. Three wielders; all three were found to have extended their channel time by small amounts, none of them deliberately, and the Armoury's check is the clock-holder's log rather than the wielder's account.
@@ -264,7 +273,7 @@ Each piece extends a place that no longer exists, and the set does to its wielde
 | **Before use** | Operator and grade; gauge; the operator's own state in their words; piece condition; objective; confirmation from the register that the operator has no relative, partner or close colleague recorded as Fractured; and the category list for the preceding watch. |
 | **During use** | Contact time, category of each appearance against the short list, duration of each, affected volume, first cost, and a yes or no on recognition. |
 | **At limit** | The viewer asks for ten more seconds. Eleven channels; the clock-holder refused in all eleven and the file records each refusal with the clock-holder's name, because refusing is harder than it reads. |
-| **After use** | How the channel was closed, by whom, the category logged, and the counselling session — offered within the hour and attended in 188 of 211 cases. |
+| **After use** | How the channel was closed, by whom, the category logged, and both the intended counselling appointment and the offer actually made. Attendance was 188 of 211; the nonattenders were offered a session more than four days later, despite the beforehand booking requirement. Do not record the intended within-hour offer as though everyone received it. |
 
 ## 관찰 기록 (Observation Log)
 
@@ -302,7 +311,7 @@ Each piece extends a place that no longer exists, and the set does to its wielde
 
 ## 감각 묘사 (Flavor Text)
 
-There is a moment — always the same, always brief — when the void pressure and the phantasmal register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. A standing mirror whose surface ripples like water. It does not reflect the room — it reflects rooms that no longer exist, corridors of buildings demolished, faces of people who have been Fractured. Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
+A plain frame stands above human height and the glass never settles. The corridor in it is not the corridor behind the viewer. Details arrive as recognition, not as proof that the observer can step across: a tread known underfoot, a familiar doorway, a figure turned away. The clock is held by somebody who does not look. When that person closes the channel and states the date, the log keeps a category rather than the room or the face the viewer wants to retain.
 
 **At first contact:** A tall mirror in a plain frame, rippling, showing a corridor that is not behind you and is not anywhere.
 
@@ -357,7 +366,7 @@ It does not rage and does not weep. It is a mirror that will not show you the ro
 
 ### Entity Interaction Record
 
-The two relations below are false friends, and the wing keeps them together for that reason: both counterparties return a person rather than a place, which is the one thing this pane never does. One was used as a control on the convergence study. The other is its exact opposite in protocol, and the review reads the two files side by side whenever the no-identification rule is argued.
+The two relations below are false friends, and the wing keeps them together for that reason: their person-likenesses invite a comparison, but this pane shows people within demolished places too. Its distinction is not an absence of faces. One counterparty was used as a separate study control; the other is a paper comparison with the opposite identification protocol. Neither relation establishes a person leaving the pane or authorises a confirming visit after a recognition here.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|

@@ -15,7 +15,7 @@
 | **Element** | Void |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Non-Organic — A clear-white shard of crystallized rage, palm-sized, cold to the touch and shot through with tiny trapped tears frozen mid-fall. Bloodless-cold, it smells of ash; held, it hums with a held-in shout. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement** | Stationary — a palm-sized shard kept on a tray; it stays where it is put and has never moved itself. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -117,8 +117,8 @@
 | Field | Detail |
 |---|---|
 | **Form** | A clear-white shard of crystallized rage, cold to the touch and marked by tiny trapped tears. |
-| **Position / movement** | Inert and stationary; the only variable is the number of tears visible inside it. |
-| **Material / signature** | A clear-white shard the size of a palm, cold in a warm room, holding tiny tears frozen mid-fall. Record the tear count on arrival and on leaving, under the standard lamp at the marked distance; nothing else about it has ever varied. |
+| **Position / movement** | Inert and stationary on its tray. Count the tears inside it and photograph the retained hairline separately; the surrounding ground is not the shard's body. |
+| **Material / signature** | A clear-white shard the size of a palm, cold in a warm room, holding tiny tears frozen mid-fall. Record the tear count on arrival and on leaving, under the standard lamp at the marked distance; the hairline left by the Angry Maiden remains visible without having spread. |
 | **Distinctive markers** | It stays transparent while it is holding rage, which is the detail the Gardens' briefing leads with, because everything else in the vault that holds anger goes dark. |
 | **Identification** | Verify against the SECC code before work or contact begins; the marker is a palm-sized clear-white shard holding tears frozen mid-fall, cold in a warm room. |
 

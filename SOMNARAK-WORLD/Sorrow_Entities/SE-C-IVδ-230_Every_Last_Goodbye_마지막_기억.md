@@ -173,7 +173,9 @@ The table above is a snapshot and not a system; the classification and the origi
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-**Appearance:** a lens-ground disc of Void Han-glass, shy of translucence and without colour, that pulses in the hand at the rate of the source's flicker whenever it is drawn.
+**Appearance:** A lens-ground disc of Void Han-glass, shy of translucence and without colour, that pulses in the hand at the rate of the source's flicker whenever it is drawn.
+
+It goes fully transparent at the exact boundary where a final image ends, and that transparency is the only clearance the piece recognises: it is kept between two sealed witness accounts and released only when both accounts agree. Turned face-away from every witness, its borrowed heartbeat slows and stops.
 
 **Damage:** Void 10–15
 **Speed:** 3 (Fast)
@@ -194,7 +196,9 @@ The table above is a snapshot and not a system; the classification and the origi
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a veil of Void Han-gossamer, near-translucent and all but colourless, that stirs with the wearer's breathing and leaves their outline a shade too still under the vault's flat light.
+**Appearance:** A veil of Void Han-gossamer, near-translucent and all but colourless, that stirs with the wearer's breathing and leaves their outline a shade too still under the vault's flat light.
+
+Thousands of indistinct faces cross the outer cloth — the final moments it has received — while the inner surface shows only the wearer's own living pulse, kept visible the way a lamp is kept in a corridor. A wearer speaking of current events in the past tense is the first warning; an ending adhering to the inner surface is the second.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -212,11 +216,13 @@ The table above is a snapshot and not a system; the classification and the origi
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** an hour-token of Void Han-glass, shy of translucence and without colour, that runs briefly hot when the bearer is standing near something about to end.
+**Appearance:** An hour-token of Void Han-glass, shy of translucence and without colour, that runs briefly hot when the bearer is standing near something about to end.
+
+It carries no hands and no numerals — an empty watch face for a measurement no ordinary clock makes. Near an imminent ending a thin white line circles the rim and stops at the instant before the selected target's death, and what follows is sensory data rather than prophecy: intervention can alter the route, and the token never says which detail was causal.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 on this holding's work and nothing anywhere else on the register: the token answers the vault's own register, and it is issued to observers who have already stood a full session without it.
+**Effect:** +3 Composure during source work and nothing anywhere else on the register: the token answers the vault's own register, and it is issued to observers who have already stood a full session without it.
 
 **Ability:** Shows the moment immediately before a target's death — the bearer's own, or a named other's, and the file records that no observer has ever asked for a second look.
 
@@ -226,7 +232,11 @@ The table above is a snapshot and not a system; the classification and the origi
 
 ### M.A.W. Use Notes
 
-Each of the three is the holding in miniature: what they give is in the tables above, and what they take is the same small, nameless memories — the Armoury entering both sides of the ledger against the bearer rather than the piece.
+Each of the three is the holding in miniature: what they give is in the tables above, and what they take is entered against the bearer rather than against the piece.
+
+The costs are not one cost written three times. The lens takes a small unnamed memory with each shot and leaves indexed facts intact. The veil leaves the wearer faintly absent, and the record warns that a wearer can come to feel already dead and already remembered, and no longer responsible for a present choice. The hour-token shows the bearer their own final moment whenever the watch stops, which is why the Stigma is more often refused than accepted.
+
+The set is worked under one rule: a final moment may be witnessed, recorded and returned without alteration, and no operator may claim to have delivered a goodbye to the person it was meant for. Two witnesses must agree before the lens is fired, and disagreement between their accounts is preserved rather than resolved. The failure that costs more than the toll is editing a goodbye into the message the operator would have preferred — the set then replaces the record with that witness's own final frame.
 
 ### Field Use Record
 

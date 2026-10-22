@@ -70,7 +70,7 @@
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan, Viderehan, and Ferrehan; Pugnahan is prohibited and the prohibition is absolute. |
 | **Battlefield** | Zone A, Alpha Tree |
 | **Resolution Condition** | Anchor personnel to the present and name the difference between return and restoration |
 
@@ -119,9 +119,9 @@
 | **Position / movement** | It appears as a familiar object returning to an impossible place. |
 | **Material / signature** | No physical signature of any kind. Nothing in the chamber registers on any instrument the wing possesses. Void expression, perceived identically by workers who have not spoken to one another, which is the only measurement this holding provides and the one everything else is built on. |
 | **Distinctive markers** | Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions. Confirm it against the designation before contact; the registry holds more than one record of this form. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | No body, nothing in the chamber, no instrument reading — and the pre-session account is dictated at the gate, sealed, witnessed and lodged before anybody goes in. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the onset and character of the song, the first sensation reported, the worker's willingness to leave at each interval, and the condition that ends the encounter — the watch completed and the worker out of the boundary. There is no measurable environmental change on this holding and the log provides no field for one. The spotter stays outside the boundary with the written roster.
 
 ## Origin
 - **Formation:** The entity formed from something lost and recovered too late.

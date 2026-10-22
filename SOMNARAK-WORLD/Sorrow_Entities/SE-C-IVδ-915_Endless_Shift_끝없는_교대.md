@@ -102,7 +102,7 @@
 
 **Notable Features:**
 - Expresses Weight pressure in a weight register.
-- The time form is unmistakable — this is a weight entity, not a general one.
+- The forge looks and sounds ordinary. Identify the affected shift by its surveyed painted boundary, sealed timepiece and independent registers, then compare reported subjective hours with elapsed time after exit. The familiar workplace is not a visible creature or a self-identifying temporal effect.
 - Confirm the painted boundary line, the sealed timepiece, the station log entry and the foreman's register entry before entry. There is no visible phenomenon to identify. The holding is identified by paperwork, which the briefing states as a hazard in itself.
 
 **Identification Profile**
@@ -122,6 +122,8 @@
 | **Material / signature** | Nothing visible, nothing audible, nothing registering on any instrument carried in. Weight expression. The signature is a ratio: subjective hours against elapsed hours, taken at the boundary on exit, which has never been below three to one and has never exceeded eleven to one. |
 | **Distinctive markers** | Workers who complete a full rotation and are relieved by themselves; exhaustion disproportionate to the log; and the tool wear, which is the only physical trace this holding leaves anywhere and is discussed in the first section below. |
 | **Identification** | Confirm designation `C-IVδ-915 [WT]`, Entity (IV) coherence, Critical (δ) potency, Time-Weight manifestation, Weight element, SECTOR-C-915. Identification is by boundary survey and station clock. Nobody identifies this holding from inside it. |
+
+**Temporal footprint:** This Time manifestation has no separate body to stand beside the furnaces. The workers, tools and correctly finished metal are the ordinary subjects through which its excess labour is measured, not limbs of a forge-creature. Keep the surveyed line separate from the measured influence: the two conservative inside-line findings do not justify moving the paint, and an adjacent-sector expansion is not bodily locomotion. Compare exposure, tool wear, output and the outside clock without treating a worn hammer as the entity’s destructible vessel.
 
 ## Origin
 
@@ -158,7 +160,7 @@ Endless Shift is a Time holding with Time-Weight manifestation and Weight expres
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** Take relief in person at the door and reconcile the sealed timepieces with the station log and foreman’s register. An outside extraction crew collects workers by name and must not help with any task or pick up a tool inside; there is nothing in the sector to strike.
 - **Sorrow Gauge on breach:** Starts at 40% and rises 10% for each hour worked in the wing beyond a rostered shift without being entered on a timesheet. It falls 10% for each such hour entered retrospectively, which the station has done 94 times from the sealed readings alone.
 
 ## M.A.W. Equipment
@@ -198,6 +200,8 @@ Despite its corroded appearance, the cutting edge is polished to razor sharpness
 **Effect:** +1 to the working stat on this holding's cycles, which is to say during one rostered hour that will not feel like one
 **Ability:** A fragment of the entity's weight sorrow, crystallized into wearable form.
 *The Shift's Stigma is not manufactured and cannot be requisitioned. It has been conferred six times, in every case on an extraction crew member who was asked for help inside the district and refused.*
+
+**Equipment and clock:** The Veil’s turning shoulder gears and the Token’s impossible stamped hour are equipment markers, not visible anatomy of the Time holding. The exact linked Edge records dominant-hand fatigue, the Veil shoulder fatigue, and the Token an increasing invisible load near unresolved debt; continued use makes source sorrow feel autobiographical. Keep these costs beside, not instead of, the local set-wide loss of usable time arithmetic. The named Edge and crystal-reticle archetype do not establish a transformation from the local naval Cutlass. Their unresolved form gives no authority to substitute Corrosion Dream’s same-suffix equipment.
 
 ### M.A.W. Use Notes
 
@@ -250,13 +254,13 @@ Each piece is an extension of labour that was performed and never recorded, and 
 
 ## 감각 묘사 (Flavor Text)
 
-The weight register changes the weight from a classification into an experience. You do not merely register weight pressure on the gauge; you feel it in your weight — personally, specifically, as if the entity has found the one frequency that matches your own unexamined grief. A work shift in the Zone D Forge District that never ends for the personnel assigned to it. They continue working — smelting, forging, shaping — for what feels like days, though only hours pass outside the affected area.
+The forge does not change its appearance to announce the shift. A painted line, a sealed timepiece and a station log sit beside smelting, forging and shaping performed correctly by people who do not yet feel tired. The hammer face records strikes the outside clock does not count; stored, unused tools show no extra wear. When the worker crosses back out, exhaustion arrives for the longer labour, not the shorter paid hour. Inside, a rotation has finished and seems to be starting again. Outside, somebody must be waiting to take the relief in person, before another reasonable request to finish a small task becomes more time that no agreed clock will recognise.
 
 **At first contact:** A painted line on the floor, a sealed timepiece, and a forge that looks and sounds exactly like a forge.
 
 **With continued exposure:** Nothing changes at all, which is the hazard. The shift goes on being a shift. The only thing that tells you anything has happened is the clock at the door, and by then it has happened.
 
-**When the entity activates:** There is no activation. There is a worker finishing a rotation and finding themselves at the start of it, and continuing, because the work is there and they are not tired yet in any way they can detect.
+**When the entity activates:** There is no visible activation cue in the ordinary forge. Exposure is recorded from entry, while the escalation record tracks missed conditions and spread. A worker can finish a rotation, find themselves at its start and continue correctly because tiredness is not yet detectable to them. That absence of felt fatigue is not a reason to wait for a dramatic change before taking rostered relief.
 
 **After departure:** The exhaustion arrives outside the line, all at once, in proportion to the hours the body worked and not the hours the log holds.
 

@@ -15,7 +15,7 @@
 | **Element** | Weight |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A massive chain forged of crystallized debts — each link a distinct obligation, cold and heavy, inscribed with a name. Lead-cold, it smells of wet stone; it lengthens with every new debt recorded, dragging the ground behind whoever bears it. |
-| **Movement** | Stationary — a device (internal parts may move). |
+| **Movement** | Fixed in the ground beneath the Row; it lengthens between surveys but does not travel. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -79,7 +79,7 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Your Own Name* [**Debuff**] } | "Fourteen operatives have found their own name cut into a link while reading a history on somebody else's behalf. Reassignment is on request and without inquiry, and the instruction exists because the first one to find hers did not ask." | [The operative appears in the surety line they are reading.] | *Resolve -10; the shift ends and reassignment is offered.* **[10 Weight DMG [Weight]]** | When the operative appears in a returned history. |
+| { *Your Own Name* [**Debuff**] } | "Fourteen operatives have found their own name cut into a link while reading a history on somebody else's behalf. Reassignment is on request and without inquiry, and the instruction exists because the first one to find hers did not ask." | [The operative appears in the surety line they are reading.] | *Resolve -10; reassignment is offered on request and without inquiry.* **[10 Weight DMG [Weight]]** | When the operative appears in a returned history. |
 | { *Heavier Under The Hand* [**Debuff**] } | "The increase is not an illusion and it has been measured. The figures are held and kept out of the briefing, because a Warden who has seen them handles the chain worse." | [The link gains mass under sustained contact.] | *Resolve -10 and the survey slows; the chain is supported, never lifted.* **[10 Weight DMG [Weight]]** | On contact held past one minute. |
 | { *The Prohibited Strike* [**Attack**] } | "Struck once, in Year 4224. The link shortened. The run went up by nine and stayed up for two years." | [A link deforms under the blow and the sequence tightens.] | *Heavy Weight pressure; the run lengthens and does not recover.* **[14-22 Weight DMG [Weight]]** | If a link is struck, which is prohibited. |
 | { *Sixty-One* [**Attack**] } | "Year 4229. Sixty-one consecutive links, each name standing behind the next, and the surveyor walked the whole run twice because nobody upstairs believed the first count." | [The longest sequence on record is read off in a single survey.] | *Heavy Weight pressure across the crew; the Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | At a run above forty. |
@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** The team identifies The Debt Chain by count the run; do not weigh the chain. The inventory grows every month and the length has never meant anything. The only figure that has ever predicted anything is how many consecutive links stand surety for one another, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** The team confirms the chalked origin and the cut gallery, then counts the run; it does not weigh the chain. The inventory grows every month, but length has never predicted the run. What matters is the longest sequence of consecutive links standing surety for one another, measured against last quarter before a reading begins.
 2. **Clash:** Viderehan and Ferrehan only; Ferrehan lowers the gauge and Viderehan holds it level. The reading is the run: the longest sequence of consecutive links on which each link's name appears as surety on the next, counted at the quarterly survey. Baseline three. Floor one, ceiling sixty-one.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
@@ -110,7 +110,7 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
-- **Primary marker:** The chalk tags and the run counted off them. The chain is uniform to the eye and a surveyor who loses their place begins again.
+- **Primary marker:** The massive, cold iron chain exposed in the cut gallery, with names cut into its links. Chalk tags locate the survey run; they are survey aids, not part of the chain. A surveyor who loses their place begins again.
 - **Position / movement:** Fixed, lying in the ground beneath Collector's Row and exposed along forty metres of cut gallery. It does not travel. It lengthens, which the inventory records as appearance rather than motion.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-C-01, Collector's Row
@@ -148,7 +148,7 @@
 
 ### Operational Work Notes
 
-Ferrehan is primary and Viderehan is the survey instrument. The Debt Chain is an Object/Place with Object-Weight manifestation and Weight expression at SECTOR-C-01, Collector's Row. The Registrum's entry giving it Echo (II) coherence contradicted a header reading Fragment (III) — binding and connecting — and has been corrected; the header is not merely authoritative here but descriptive of the one thing this holding actually does.
+Ferrehan is primary and Viderehan is the survey instrument. The Debt Chain is an Object/Place with Fragment (III) coherence — binding and connecting — Object-Weight manifestation and Weight expression at SECTOR-C-01, Collector’s Row. The history of an obligation and the sequence of sureties are different readings of the same iron; a settled balance can still stand in a linked run.
 
 **Reading the response:** The gauge measures one shift. The run measures the credit office. They are kept in separate columns and have moved together exactly once, in Year 4224, when a surveyor struck a link. A good shift in a bad quarter is written up as a good shift.
 ## Activation Behavior
@@ -190,7 +190,7 @@ Ferrehan is primary and Viderehan is the survey instrument. The Debt Chain is an
 
 ### Escalation Notes
 
-Escalation here is a number going up between quarterly surveys, and nothing else. There is no first trigger to record, no visible change in the form, and no boundary at which anything stabilises, and the Row has stopped pretending otherwise in its own paperwork. What is logged is the run, both surveyors' independent counts, and the cascade register for the quarter.
+Escalation here is a number going up between quarterly surveys, and nothing else. This quarterly survey does not replace the separate touch-and-name activation record. The run is counted rather than inferred from a visible change in form, and no stabilising boundary has been established. What is logged is the run, both surveyors' independent counts, and the cascade register for the quarter.
 
 **Response sequence:** Support the chain, do not lift it; establish whether the event is a new link, a weight change under contact, or a lengthening of the run; stand down anyone who has found their own name; and read the quarter's cascade register before anything else is attempted. Unlisted Work Types are not improvised here — Flerehan and Pugnahan are structurally impossible on an Object and the rows exist to say so.
 
@@ -214,7 +214,7 @@ Escalation here is a number going up between quarterly surveys, and nothing else
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that hums faintly when gripped.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that hums faintly when gripped. A single open, nameless chain link is set into the black head. It is stored with person and obligation fields kept separate, never clipped to a debtor’s file. The post-use custody review reads those fields with the dispute and next action; leaving a name on an unreviewed obligation is not a return.
 
 **Damage:** Weight 5–9
 **Speed:** 2 (Normal)
@@ -225,7 +225,7 @@ Escalation here is a number going up between quarterly surveys, and nothing else
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
 **Falloff Rule:** Full damage to the designated target. The maul is not used on the chain; striking a link has been prohibited since Year 4224, when a strike shortened one link and lengthened the run by nine.
-**Damage Application:** Direct and Tick damage multiplied separately. Weight 5–9, β grade, and the Operational Parameters field giving the M.A.W. grade as an em dash has been corrected to β against the three pieces this entity actually produces.
+**Damage Application:** Direct and Tick damage are multiplied separately. The listed Maul damage is Weight 5–9 direct; no separate Tick amount or duration is recorded.
 
 **Ability:** Weight damage to the Han. The maul is not used on the chain and never has been; it was forged for vessel work in the Row and has been drawn six times in sixteen years.
 
@@ -269,6 +269,12 @@ Escalation here is a number going up between quarterly surveys, and nothing else
 
 The set is built around carrying weight, reading a line of names, and seeing who stands behind whom. The armoury's note records that the maul is the least used piece in the wing, that the mantle is the most willingly worn, and that the chain stigma is the only M.A.W. item this facility has ever placed under a written restriction on where it may be worn rather than on how long.
 
+The set’s custody name is *Named Obligation*. Its return record distinguishes the person, the obligation, the disputed part and the next accountable action. Reading a history does not settle a balance, erase the record or decide a creditor’s claim; the authority for the Rule of the Broken Link remains the signed rule, not a piece drawn from the gallery.
+
+Hang the Mantle open rather than fastening it as a chain. The wearer and custodian record the review boundary, what was observed and what remains outside the wearer’s responsibility. Keep that boundary separate from the two survey counts: agreeing on custody is not a reason to average figures which were taken independently.
+
+Store the Stigma open in its privacy case. A connection map is secured with an access limit, purpose and closure condition, not attached to a public ledger. Before and after use, the bearer and custodian verify consent and custody. The credit office’s acceptance of the Stigma as register authority does not make a map a verdict on the people it connects. The gallery restriction and the prohibition on assigning its bearer the full forty-link survey still stand.
+
 ### Field Use Record
 
 | Stage | Required record |
@@ -276,7 +282,7 @@ The set is built around carrying weight, reading a line of names, and seeing who
 | **Before use** | Surveyor, piece, the previous quarter's run, the chalk tag the shift begins at, and a sealed declaration of any surety the surveyor has given or received. The declaration is read back afterwards, and is the reason fourteen reassignments were offered rather than discovered. |
 | **During use** | Every link read, every surety named in order, both surveyors' counts kept apart, and the point at which each sequence breaks. Nothing is averaged. |
 | **At limit** | Forty links, hard. Two minutes on any single link, hard. Both limits were set after incidents and both are posted in the gallery rather than in the file, because the file is read once and the gallery is where people are. |
-| **After use** | Hand lifted clear with the link supported, mantle kept on until the fatigue lifts, both counts entered, the sealed declaration read back, and the inventory copied in full and bound rather than amended. The previous copy is retained. |
+| **After use** | Hand lifted clear with the link supported, mantle removed and the lingering fatigue recorded, both counts entered, the sealed declaration read back, and the inventory copied in full and bound rather than amended. The previous copy is retained. |
 
 **Stat interpretation:** β across the set and about right against entities. Against people it costs an ageing that does not reverse, a fatigue that does, and a day of carried weight for every link read. Two retirements have come out of the first. The establishment has a column for the second and none at all for the third.
 ## 관찰 기록 (Observation Log)
@@ -405,7 +411,7 @@ Some sorrows are about what is owed. This one is about who is asked. Not the amo
 **Common Name:** The Debt Chain
 **Containment Status:** Fixed in place — SECTOR-C-01, Collector's Row, forty metres exposed in a cut gallery; the remainder is in the ground and no terminus has been found
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β). In sixteen years it has bound nobody, moved nowhere, and injured two people, both of them surveyors who exceeded the contact limit. What makes the holding consequential is that its run has tracked this facility's cascade register for sixteen years, and that the rule written to shorten it has cut lending to the lowest-paid grade by forty-four per cent. The Registrum previously gave Echo (II) coherence against a header reading Fragment (III), recorded the containment status as Zone C with no mention of the gallery, and rated the threat Low against a Moderate (β) header; all three corrected.
+**Threat Assessment:** Moderate (β). In sixteen years it has bound nobody, moved nowhere, and injured two people, both of them surveyors who exceeded the contact limit. What makes the holding consequential is that its run has tracked this facility's cascade register for sixteen years, and that the rule written to shorten it has cut lending to the lowest-paid grade by forty-four per cent.
 **Containment & Handling Procedures:**
 - Ferrehan is primary; Viderehan is the survey instrument. Flerehan and Pugnahan are structurally impossible on an Object.
 - The chain is supported and never lifted. Contact is bare-handed, two minutes maximum on any one link, forty links to a shift.
@@ -467,8 +473,8 @@ The Collector ledgers outgrew the space available to keep them and the obligatio
 
 ### Registry Trivia
 
-- **Classification detail:** Object/Place, Fragment (III) coherence — binding and connecting, descriptive here rather than nominal — Moderate (β) potency, Comprehension Level 2, Object-Weight, I-Relic. The Registrum's Echo (II) entry has been corrected against the header.
-- **Field detail:** Weight; SECTOR-C-01, Collector's Row, forty metres of cut gallery. The Operational Parameters line gave the M.A.W. grade as an em dash against three β pieces and has been corrected.
+- **Classification detail:** Object/Place, Fragment (III) coherence — binding and connecting, descriptive here rather than nominal — Moderate (β) potency, Comprehension Level 2, Object-Weight, I-Relic. The fragment is the connection between obligations, not their amount.
+- **Field detail:** Weight; SECTOR-C-01, Collector's Row, forty metres of cut gallery. All three pieces are β; their material is released link residue, not a link removed from the original chain.
 - **Recognition detail:** Count the run; do not weigh the chain. The inventory grows every month and the length has never meant anything. The only figure that has ever predicted anything is how many consecutive links stand surety for one another.
 - **Record detail:** Check the designation, then check whether the obligation was incurred or guaranteed. The Inherited Debt concerns a balance already standing on a record at intake and the Fading Fruit a reward taken between earning and receiving. This holding is neither. It is about standing behind somebody.
 - **Containment detail:** There is no seal and nothing to seal. The containment is a survey discipline, an inventory that will not write names down, and a lending rule in another building with a forty-four per cent fall in advances recorded against it.

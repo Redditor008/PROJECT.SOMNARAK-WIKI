@@ -172,7 +172,7 @@ None of the four rows above means anything torn out of context; the element, the
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-Appearance : A floating circular bronze disc forty centimeters wide, etched with astronomical constellations and three concentric revolving calendar rings that hover horizontally before the wielder.
+**Appearance:** A floating circular bronze disc forty centimeters wide, etched with astronomical constellations and three concentric revolving calendar rings that hover horizontally before the wielder.
 
 The disc projects blue astral light beams along its orbital edges that illuminate invisible sorrow entities. Aligning the rings creates an impenetrable shield against incoming elemental projectiles.
 
@@ -197,6 +197,8 @@ The disc projects blue astral light beams along its orbital edges that illuminat
 
 **Appearance:** a padded mantle of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
 
+Memory-collapse protection does not spare the wearer the settlement’s aftermath: ruined places return as dreams after duty, when a shift-end inspection can no longer see the cost. Keep the source’s collapsed settlement distinct from a remembered place of the wearer’s own. Treating that event as autobiography is corrosion, not confirmation that the Pillow has recovered a personal memory.
+
 **Resistances:**
 - Lament: 0.4 (Resistant)
 - Grudge: 1 (Normal)
@@ -215,6 +217,8 @@ The disc projects blue astral light beams along its orbital edges that illuminat
 
 **Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that goes cold against the collarbone when the bearer is standing over ground that was once a street.
 
+The cold glass carries a rest boon, not a title to the ground beneath it. Its +3 remains a source-work bonus rather than an entitlement to a recovered address; it confers nothing on a land or origin claim. A bearer who sleeps through the night may still have wept throughout it, so the colleague’s account belongs beside the report of rest.
+
 **Slot:** Tail
 **Acquisition Probability:** 4%
 **Effect:** +3 to the bearer's rating while working the Ruin, forfeited for the remainder of the cycle if the bearer raises their voice
@@ -229,6 +233,10 @@ The disc projects blue astral light beams along its orbital edges that illuminat
 
 Each piece remains part of the Ruin, and the set is built for watching over rather than for fighting. The disc reveals what is there and shields against what is thrown. The Pillow protects the wearer's memory from collapse — the only item in the catalogue that does so directly — and pays for it with every ruin the wearer has ever passed, returned to them nightly and in order. The Charm grants rest and withholds its benefit. Taken together this is a vigil kit: equipment for staying beside something, at length, without disturbing it. Operatives who requisition it for assault work find that it performs, that nothing in it helps them finish anything, and that it is extremely good at keeping them in the room.
 
+The set is *Repose — Witnessed Form*, with *Source Kept Distinct*. Binding acknowledges the collapsed settlement, preserves sleep and accepts the noise limit. The Charm identifies that condition, the Pillow bears the Lament, and the Weapon uncouples an immediate manifestation only after attribution. None restores the settlement, removes the striking-off or releases the district from dependence on the dream. The Disc remains barred from the Old Lament even when all three pieces are held.
+
+The first corrosion sign is ownership of Repose’s event as personal history, followed by source responses repeating outside contact and finally the bearer becoming a new site for the manifestation. In emergency handover a named witness states Repose and the settlement’s collapse while the bearer relinquishes the equipment; all spoken attribution follows the site’s sound discipline. Rest or clean an item only after recording the trigger, response, paid cost and unresolved detail. The transfer preserves attribution, not a refund of the coming night.
+
 ### Field Use Record
 
 | Stage | Required record |
@@ -236,7 +244,7 @@ Each piece remains part of the Ruin, and the set is built for watching over rath
 | **Before use** | Wielder, piece, the day's reading, and a baseline taken down and kept by the second worker — the recorded cost on this set is steady weeping for a settlement the bearer never saw, and a person cannot audit grief they cannot account for. The disc is the quietest object in the δ catalogue and its bearers are the ones the armoury asks after by name. |
 | **During use** | The charge shows as steady weeping over a place the bearer has never been, timed and entered by the observer; a run of it through one watch ends the use. The bearer's own account is taken separately and afterwards, and it is read as evidence of the toll rather than of the work. |
 | **At limit** | The limit is the grief turning continuous: the bearer dreams of every ruin they have walked past, and the sleeping is no longer distinguishable from the shift. The observer's call ends the use, and it stands against the bearer's. |
-| **After use** | Take the piece back and then ask the colleague rather than the bearer whether the dreams have stopped and whether the day's readings still match the survey; the surface readings for this set come off the ground, not off the person. |
+| **After use** | Take the piece back and then ask the colleague rather than the bearer whether the dreams have stopped and whether the day's readings still match the survey; the surface readings for this set come off the ground, not off the person. Keep the next-day dream account separate from the acoustic log and the structural survey; a settled perimeter does not establish a rested bearer. |
 
 **Stat interpretation:** The δ grades are high and honest. What the columns cannot show is that every cost in this set falls due during sleep — the weeping, the dreams, the unrefreshing rest — which means they are invisible in any assessment taken on shift. Read the Cost lines as the specification and ask the wearer about their nights.
 ## 관찰 기록 (Observation Log)
@@ -266,7 +274,7 @@ Each piece remains part of the Ruin, and the set is built for watching over rath
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Repose (O-IVδ-844 [N]) is a Subject-Lament manifestation expressing Lament, lying ambient and uncelled in Old Lament at Zone B. What it is made of is a settlement destroyed and then struck off the register of places, and it has never woken or risen or been roused by force. It has never woken, never risen, and never been roused by force, and fifty-six buildings in the surrounding ruin are standing because it is dreaming them.
+Repose (O-IVδ-844 [N]) is a Subject-Lament manifestation expressing Lament, lying ambient and uncelled in Old Lament at Zone B. What it is made of is a settlement destroyed and then struck off the register of places, and it has never woken or risen or been roused by force. The standing-structure survey runs from twenty-nine to forty-one to fifty-six buildings, checked against pre-collapse plans by two parties who do not confer. Those buildings stand because it is dreaming them; personnel are told which ones they are working inside.
 
 **Entry 2 — <Acoustic Survey, Old Lament>**
 Sound floor across the Old Lament is eleven decibels under the Zone B average and the difference is not accounted for by the discipline alone. Personnel relive a collapse that is not theirs and report the ground as unsafe, which is not figurative; the survey lists 56 structures standing that no plan contains, and personnel are told which of them they are working inside.
@@ -444,8 +452,8 @@ Three instructions. Read every name; a part-read list has produced a change in t
 
 ### Registry Trivia
 
-- **Classification detail:** Subject, Entity (IV) coherence, Critical (δ) potency: a sleeper that has never moved, has never struck anybody, and holds up fifty-six standing buildings by dreaming them. |
-- **Field detail:** Lament is its element and the struck-off ground in Old Lament at Zone B is its registered place — ambient, uncelled, and quieted rather than contained. |
+- **Classification detail:** Subject, Entity (IV) coherence, Critical (δ) potency: a sleeper that has never moved, has never struck anybody, and holds up fifty-six standing buildings by dreaming them.
+- **Field detail:** Lament is its element and the struck-off ground in Old Lament at Zone B is its registered place — ambient, uncelled, and quieted rather than contained.
 - **Recognition detail:** Identify by the materials. Broken timber, collapsed stone and ash fused into the shape of a resting person, salt-damp to the touch, weeping without waking.
 - **Record detail:** The Old Lament holds several Lament entities formed from destroyed settlements; confirm the designation O-IVδ-844 and the Subject-Lament manifestation before applying this file to any of them.
 - **Containment detail:** There is no cell and there will not be one, since building it would require the noise that construction makes. This holding is contained by a sound discipline, a count of the dead read aloud, and the fact that nobody has yet dropped anything heavy in the Old Lament. That is the entire arrangement, and it has held for the whole period of record.

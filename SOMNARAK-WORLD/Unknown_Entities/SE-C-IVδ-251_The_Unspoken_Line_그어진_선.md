@@ -121,9 +121,9 @@
 | **Position / movement** | Fixed; the entity is the junction itself. Its boundary is the invisible line residents no longer cross. |
 | **Material / signature** | Void elemental presentation; one side faintly gold (hope-touched), the other faintly grey (untouched); a white seam at dusk. |
 | **Distinctive markers** | A thin white seam in the cobbles, a dry fountain, and two shop signs with the names weathered off. Birds will not fly over it — they go round, consistently, and the junction's children use this to show visitors where the line is. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Identification** | Confirm this junction by its dry fountain, the two unreadable shop signs, bird avoidance and the seam survey against the fountain-rim marks; distinguish the fixed streetscape from changes in the line’s length and bearing before Work. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as "strange" or "anomalous."
+**Appearance protocol:** Take the seam’s length and bearing from the same fountain-rim marks, note the light and whether the white seam is visible at dusk, and record bird routes separately from human crossings. Compare the two pavements’ gold and grey cast and the two faded signs without turning the junction into a body with a stance. Enter the last conversation’s date from the posted board, the Tuesday crossing count, and any new social seam reached by propagation. A changed line is not a travelling junction; log contraction, a new bearing and district propagation as distinct observations rather than assuming that a visible change and a Gauge change are simultaneous.
 
 ## Origin
 - **Formation:** After the Hand of Hope, the Mantle Commons quietly divided: those hope touched grew lighter, those it passed over stayed heavy.

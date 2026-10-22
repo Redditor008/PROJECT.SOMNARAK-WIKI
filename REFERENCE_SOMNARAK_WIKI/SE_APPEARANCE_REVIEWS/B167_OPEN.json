@@ -1,0 +1,71 @@
+{
+  "batch": 167,
+  "base": "796cf488d8bce90b2972b5fdb42da95041458a6a",
+  "authorization": "Owner p after CLOSED166 authorizes Batch167 only; minimum five; cumulative three No change triggers5→7→10; later full recheck retained.",
+  "pending": 190,
+  "selection": "Fresh pending-only shortest LC_ALL=C wc -w, designation tie-break. Length is not a defect or outcome.",
+  "queue": [
+    {
+      "designation": "N-IIIγ-929",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-929_Dead_Air_유령의_압력.md",
+      "words": 4749,
+      "sha256": "0d78e19af25e62143fa9836eb4dd8f7c4f3be26e203074d12d0f1e5d4e34c70a"
+    },
+    {
+      "designation": "N-IIIγ-908",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-908_Unwaking_Block_잠드는_구역.md",
+      "words": 4767,
+      "sha256": "5144f6a151da5036674d393d63389b079bbb187517e29efa0f58591fd0750617"
+    },
+    {
+      "designation": "O-IIIγ-920",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-920_Once_Upon_이야기의_시간.md",
+      "words": 4848,
+      "sha256": "4735349b218da67c5e0033d43a19619c07839b0de30bb95ac22b105e19dd3507"
+    },
+    {
+      "designation": "O-IIβ-911",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-911_Never_Discharged_영원한_환자.md",
+      "words": 4863,
+      "sha256": "0109c4ef2caf7adf543adfc990c1b48e7ccb817e8249354511f5bf317e92073f"
+    },
+    {
+      "designation": "O-IIIγ-924",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-924_Weighted_Silence_침묵의_구역.md",
+      "words": 4872,
+      "sha256": "008073ae9eb7f2974848dfe9a3dfcc74bc3c106cd463bee220e598f6f9258cc5"
+    }
+  ],
+  "reserves": [
+    {
+      "designation": "N-IIIγ-917",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md",
+      "words": 4924,
+      "sha256": "ffd92f2f80889ba455217dcb0c4f8660dd9ae88ddab1c39f6b4dfa867c6b35a7"
+    },
+    {
+      "designation": "O-IIIγ-916",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-916_Allhallow_유령의_시간.md",
+      "words": 4963,
+      "sha256": "436ef589fa90f59c562b0faf65547c9dd179b301d46a8f8f6e7315b1830f2c1a"
+    },
+    {
+      "designation": "C-IIIβ-072",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md",
+      "words": 5086,
+      "sha256": "5ea8c5b6812dd6e670b2d77ea642c993cb9cc2dd40c6d37bb0a0f57f76b95919"
+    },
+    {
+      "designation": "O-IVδ-515",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기.md",
+      "words": 5091,
+      "sha256": "c790b05e41b221bb023880b91db94e666cd2d325e7510966c66d70fc1003df25"
+    },
+    {
+      "designation": "O-IIβ-914",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-914_Amnesia_잊혀진_일분.md",
+      "words": 5131,
+      "sha256": "4ecf45d30014df0f2aad9666878b362090966a6add09bdb6024466ba9f76578b"
+    }
+  ]
+}

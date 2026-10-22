@@ -146,19 +146,19 @@ Breathing Stone is a Place with Place-Body manifestation and Weight expression, 
 
 ## Breach Behavior
 
-> *"Breathing Stone has broken free. The weight body spreads."*
+> *"Breathing Stone is extending along the wall span. Keep to the marked line and do not touch the surface."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |
-| **Movement** | The entity's body influence expands beyond its registered area, corrupting everything it touches. |
+| **Movement** | The affected surface extends along the fixed wall run; it has never crossed a doorway or reached the floor. |
 | **Effect** | Weight pressure radiates — the body register makes it personal, targeted, unavoidable. |
 | **First Target** | Whoever stops. It has never affected anybody walking past at a normal pace, in nineteen years of a corridor used by the whole wing, and the entire containment is the instruction not to stop. |
 | **Escalation** | +5 Weight drain per cycle while somebody stands on the near side. It does not reach the far side of the corridor, which is where the marked line is and why it is there. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** No physical suppression or contact. Keep to the marked line on the far side; use Viderehan and Ferrehan without touching the span.
 - **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment

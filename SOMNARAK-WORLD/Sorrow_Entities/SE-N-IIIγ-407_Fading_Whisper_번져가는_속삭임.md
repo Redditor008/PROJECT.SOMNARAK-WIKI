@@ -117,7 +117,7 @@
 |---|---|
 | **Form** | A burning figure that whispers while fading at the edges. Its voice grows weaker whenever someone remembers it. |
 | **Position / movement** | Fixed at the registered position. Distance, bearing, the width of the faded margin, and whether the margin has advanced since the previous watch. |
-| **Material / signature** | Void. Fire that reads as fever-cold at every distance, a smell of char and ash, and a voice whose level falls across the watch and never rises. |
+| **Material / signature** | Void. Fire that reads as fever-cold at every distance, a smell of char and ash, and a voice whose usual decline is interrupted by the documented rise after denial. Record that rise rather than treating it as a different entity. |
 | **Distinctive markers** | A figure on fire with no heat, speaking without pause, and becoming harder to perceive in proportion to how well the observer remembers it. |
 | **Identification** | Confirm before Work or contact: designation N-IIIγ-407, Void expression, Subject-Grudge manifestation, Zone A at the Alpha Tree. If any one of the four does not match, do not proceed and report the mismatch before anybody enters. |
 
@@ -215,7 +215,7 @@ The breech is fitted with an internal lead baffler that silences the detonation 
 **Acquisition Probability:** 4%
 **Effect:** +3 Composure while working the Alpha Tree position, and nothing anywhere else; the key's other property is the one the file warns about — it opens access to one erased memory, and it costs the bearer certainty about one present one.
 
-**Ability:** Opens access to one erased memory.
+**Ability:** Opens access to one erased-memory fragment, not a complete reconstruction of the lost place. Record the fragment and the present-memory cost with equal prominence.
 
 **Cost:** The user loses certainty about one present memory.
 
@@ -267,10 +267,10 @@ Each piece extends Fading Whisper rather than equipping its wielder against it, 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Fading Whisper (N-IIIγ-407 [N]) is a Subject-Grudge manifestation expressing Void, formed from a place erased from one person's memory and fixed at the Alpha Tree in Zone A. It burns without heat, whispers without pause and breaks off at the same point in the same phrase for every listener; the figure fades after every completed sentence, and there are none.
+Fading Whisper (N-IIIγ-407 [N]) is a Subject-Grudge manifestation expressing Void, formed from a place erased from one person's memory and fixed at the Alpha Tree in Zone A. It burns without heat, whispers without pause and breaks off at the same point in the same phrase for every listener; the figure dims after every watch, even though it has never completed the sentence.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
-Moves through Alpha Tree corridors and memory spaces. Personnel feel longing for places they cannot identify. It becomes stronger when someone denies the missing place.
+The figure stays at the Alpha Tree; its half-heard speech spreads through the corridors. Personnel feel longing for places they cannot identify. It becomes stronger when someone denies the missing place.
 
 **Entry 3 — <Excerpt from Counseling Log>**
 The grief of losing an entire part of life while knowing something is missing.

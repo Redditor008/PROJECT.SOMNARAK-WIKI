@@ -14,8 +14,8 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Mind |
-| **Physical Form** | Organic — A brass-and-Han-crystal apparatus the size of a writing desk, covered in dials that turn on their own, gears that grind without power, and a central lens that focuses on whoever stands before it. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Physical Form** | Constructed apparatus — Writing-desk-sized brass housing veined with Han-crystal, with self-turning dials, unpowered grinding gears, a tracking central lens and a filling output tray. Seol built this mechanism; the record does not describe her body becoming it. |
+| **Movement** | Fixed apparatus, incapable of moving itself. Lens and dials turn inside that footprint; its processing extends into nearby live calculations and alters their returns, rather than carrying the housing out of containment. |
 | **Location** | SECTOR-C-904, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Viderehan and Ferrehan only; the entity is an Object and the other two Work Types are unavailable to it. Work from the side of the housing, in pairs, and read the output tray before leaving the chamber. |
+| **Recommended response** | Viderehan and Ferrehan only; the entity is an Object and the other two Work Types are unavailable to it. Work from the side of the housing, in pairs, with the tray covered; the sheets are collected face-down and sealed at the door. |
 
 ### Operational Notes
 
@@ -123,6 +123,8 @@
 | **Material / signature** | Lament. Brass warming under the hand from cold to blood heat, Han-crystal veining through the housing, gears audible as precise clicks rather than noise, and a lens that rotates to face a person entering. |
 | **Distinctive markers** | Dials turning with no input, grinding without power, the tracking lens, and the output tray filling on its own with sheets nobody requested. |
 | **Identification** | Confirm before contact: designation C-IIIγ-904 `[LO]`, O-Relic (Offertorium) tool class, Fragment (III) coherence, Major (γ) potency, Object-Mind manifestation, Lament element, SECTOR-C-904. An apparatus that is merely wound is not this entity. |
+
+**Construction and extension:** The functional parts are the identifying shape: brass casing warms toward blood heat, Han-crystal veins the housing, dials advance, the lens tracks a person and the tray makes the result into a sheet. Precise clicking and apparent scrutiny do not establish flesh beneath the brass. Seol is the named maker in the Tale, not a documented previous body. The registered Transform heading should not be used to draw a walking machine or a new humanoid: the described event extends computation while form stays put. Keep that event separate from a deliberately opened channel and its abandonment vent. A running dial is neither proof that an assessment is correct nor permission to inspect it.
 
 ## Origin
 
@@ -227,6 +229,8 @@ Escalation here is extension into live work. Record the first altered return, th
 **Ability:** Lament against the Mind. Struck targets arrive at a true conclusion they had no evidence for; fourteen strikes, eleven verified conclusions, and three that were wrong and were defended at length.
 **Cost:** The wielder experiences a persistent low-grade headache with each use.
 
+**Edge custody:** Keep the selected-target strike separate from the Engine’s sector-wide record alteration; the linked item specifies a single target at full damage, not a room-wide prediction attack. Log headache, source attribution and any conclusion offered without reasons before cleaning or resting the blade. If the bearer starts describing Seol’s loss as their own, the named witness states the source and event while the bearer relinquishes the piece; shutdown does not refund the cost. The local pale-crystal single edge and the index’s gear-toothed slab have no documented exchange of form. A missing reconciliation is not permission to bolt a cog onto this blade or call its pulse a new mechanism.
+
 ### M.A.W. Suit — Thinking Engine's Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
@@ -238,6 +242,8 @@ Escalation here is extension into live work. Record the first altered return, th
 **Bearer cost:** Quiet moments leave the wearer carrying the Engine's grief; little comforts feel distant until the veil is removed and the room has its ordinary shape again.
 **Ability:** Grants resistance to Lament damage, protecting against the mind register of sorrow.
 
+**Veil care:** The hem’s incomplete calculation remains an identifying detail, not an unfinished task assigned to the wearer. Its Lament resistance does not authorise reading a sheet or promising immunity to the Engine’s conclusion-cost. Record quiet-moment grief and diminished small pleasures separately from the paired account of unjustified certainty; the linked grief cost lasts until removal. Preserve source attribution before resting the piece, and have the named witness receive it if first-person source recollection begins. Do not complete the calculation as an improvised channel shutdown or ask the Engine to certify the wearer’s recovery.
+
 ### M.A.W. Stigma — Thinking Engine's Token
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
@@ -248,6 +254,8 @@ Escalation here is extension into live work. Record the first altered return, th
 **Effect:** +1 to the working stat on this holding's cycles, and the token is cold and silent, which is how the bearer knows the engine is not working on them.
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
 *Five in nineteen years, in each case to a worker who finished a cycle without opening a sheet. Forty-one sheets have been opened, nineteen of them by people who had authority to and none of whom has been given anything.*
+
+**Token follow-up:** Record dream-tears and waking borrowed grief from the linked Token account, even though the local token stays cold and silent. Silence identifies the piece; it cannot certify that the Engine is not computing about its bearer, since sheets also name staff who have never entered the wing. Keep the award for an unopened sheet distinct from a claim that the bearer is safe to read one. A witness preserves whose sorrow is being carried, and receives the token if that boundary fails; the subject’s finding is still not a conversation to have informally. Neither dream cost nor shared certainty-cost is cancelled by taking the token off.
 
 ### M.A.W. Use Notes
 
@@ -338,7 +346,7 @@ Now it sits in a containment cell on Floor 4, covered in dials that turn on thei
 
 **Comprehension Level:** 3 — Advanced
 
-**Threat Assessment:** Major (γ). It cannot move, has never harmed a body, and is quieted by stopping work nearby. It extends into live computation and returns altered results with no detectable internal error, and it produces, unasked, an accurate register of named personnel and the manner in which they are expected to break. The register is the hazard, and it is not a hazard to the entity's handlers.
+**Threat Assessment:** Major (γ). It cannot move, has never harmed a body, and is quieted by stopping work nearby. It extends into live computation and returns altered results with no detectable internal error, and it produces, unasked, an accurate register of named personnel and the manner in which they are expected to break. The register is a hazard to readers and handlers as well as to the people named: readers cannot give back an unrequested finding, paired workers report conclusions without reasoning, and sustained exposure damages their ability to leave a question open.
 
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are the valid Work Types and both lower the gauge; Viderehan is preferred because it makes the output legible, which is also the argument against it.
@@ -369,7 +377,7 @@ The three relations below are documentary rather than routine. This wing does no
 
 ### Dials That Turn Alone
 
-The apparatus runs without power, its gears grinding and its dials moving continuously, and no input has ever been supplied to it. The Warden logs dial positions each watch against a diagram, which is tedious, produces a long series, and has yielded nothing interpretable in the whole of the containment's operation. The logging continues. Its justification in the standing order is a single sentence observing that the machine is plainly computing something and that the facility would rather hold an unreadable record than none.
+The apparatus now runs without power, its gears grinding and its dials moving continuously. This unattended output is not evidence that it never had input: Seol fed it data, patterns and predictions while building it, and the recorded completion condition places finished hand-work before its lens. The Warden logs dial positions each watch against a diagram, which is tedious, produces a long series, and has yielded nothing interpretable in the whole of the containment's operation. The logging continues. Its justification in the standing order is a single sentence observing that the machine is plainly computing something and that the facility would rather hold an unreadable record than none.
 
 ### The Lens
 

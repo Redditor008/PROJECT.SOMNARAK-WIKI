@@ -200,6 +200,8 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 
 **Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
+**Bodkin return:** The individual Weapon entry requires the bearer, trigger, source response, cost and unresolved detail to survive into attribution review before cleaning or rest. Its first warning is describing the evacuation’s unfinished mourning as personal history, beyond the involuntary weeping already priced here. A named witness states the source title and event during relinquishment, without refunding the cost. That is an equipment shutdown record, not authority to speak in the vault, confront the Place or perform the interrupted ceremony. The source event is not completed by reciting its description.
+
 ### M.A.W. Suit — The Extinguished Mourner's Shroud
 
 **Category:** ARMOR (Ash-Greyed Mourner's Shroud)
@@ -219,6 +221,8 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 
 **Cost:** The wearer becomes numb to minor joys.
 
+**Shroud review:** The Suit’s record adds source sorrow becoming autobiographical to the loss of minor joys. Preserve those as different observations: the bearer may cease noticing pleasure without yet claiming the evacuation as their own past. Attribution precedes cleaning or rest, and witnessed relinquishment does not erase the toll. Record equipment failure without transferring the counsellors’ confidential account into the entry register. The Shroud’s protection of emotional steadiness cannot stand in for the mandatory counsellor contact after exposure or make joining the scene permissible.
+
 ### M.A.W. Stigma — The Purple Wick Stigma
 
 **Category:** ACCESSORY (Purple Wick Ember Mark)
@@ -233,6 +237,8 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 **Ability:** Reveals hidden grief in a darkened space.
 
 **Cost:** The user carries the grief revealed after the light fades.
+
+**Wick attribution:** The Stigma file treats claiming the scattered mourners’ event in first person as its first failure sign; a source response recurring outside contact is escalation. Carry the unresolved detail with the bearer, trigger, response and cost into maintenance review instead of filling the gap with a guessed identity for the dead. Its named-witness shutdown preserves the record while leaving the revealed grief’s cost paid. Neither seeing hidden grief nor retaining it supplies a right to disclose counselling content, announce names before entry or relight the absent fire.
 
 *The wick is not issued. It turns up on a worker who has stood a full entry without trying to make the grief their own, which the armoury records as four percent of them and has never managed to predict.*
 
@@ -266,7 +272,7 @@ The set is drawn from the vault's fittings and the cold of the shape rather than
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | Confirm the holding from the inversion of heat and the shaped dark, check the station against the vault, and take the warmth differential at both ends of the room; nothing here is identified by sight, because the thing that would be seen is not there. | The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone A, Alpha Tree vault. |
+| **Initial exposure** | Confirm the holding from the inversion of heat and the shaped dark, check the station against the vault, and take the warmth differential at both ends of the room; nothing here is identified by sight, because the thing that would be seen is not there. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone A, Alpha Tree vault. Confirm designation and manifestation at the entry step. |
 | **Sustained observation** | Warmth differential, outline against the floor marks, scene position, and the expansion front if it is out. The vault does not respond to being observed and the record says so rather than implying patience. |
 | **Activation or escalation** | Read off the worker as much as the room: the point at which the mourning stops being observed and starts being performed. Record who, the clock, and the differential at that moment. |
 | **Post-contact review** | Differential, outline, scene position, duration, gauge. The entry register takes the name and the duration and nothing else. The counsellor contact happens within the shift and its content stays with the counsellors. |

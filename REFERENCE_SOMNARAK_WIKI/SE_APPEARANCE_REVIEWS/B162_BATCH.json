@@ -1,0 +1,164 @@
+{
+  "batch": 162,
+  "status": "CLOSED",
+  "required": 5,
+  "completed": 5,
+  "no_change": 0,
+  "queue": [
+    {
+      "designation": "C-IIIγ-031",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md",
+      "signals": 1,
+      "evidence": [
+        "There were many witnesses. The market burned in the evening, while the stalls were still full, and the citizens of the district saw it — saw the flames take the awnings, saw the vendors flee, saw the people who did not flee. The Wardens came, eventually. The Wardens contained the perimeter. The Wardens did not, by the standing orders of that hour, enter. The citizens watched the Wardens not enter. They watched the market burn. They watched, and they could do nothing, and the watching became a weight that did not lift when the embers cooled."
+      ],
+      "sha256": "2164cd759f374ec4fcde5e37016ca710884c53b00a9d934824cd29907bbc4fe7"
+    },
+    {
+      "designation": "C-IIIγ-032",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-032_Weighting_Bird_재는_새.md",
+      "signals": 1,
+      "evidence": [
+        "Collectors and officials who assessed citizens' guilt until the assessing itself became an entity are documented from their own case books. The books are mundane. They record names, figures, and determinations in a clerical hand, at volume, over years, and the Warden's commissioning material includes a single representative page rather than the series. The note attached explains that one page conveys the practice accurately and that the full run conveys only its length."
+      ],
+      "sha256": "4487561c1a9004903a17a7429f70c8e6bb15fa4f361a36710c25f853065bc713"
+    },
+    {
+      "designation": "C-IIIγ-033",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md",
+      "signals": 1,
+      "evidence": [
+        "Amendments to the plan are dated in the margin and the previous position is left faintly visible rather than erased completely, which was not the original intent and became the practice because the first Warden to move a mark could not bring themselves to remove the old one entirely."
+      ],
+      "sha256": "dc4302e92ec9d27204bb5ca6517bb056fcf3871e3afa2cbfde86b3b4fb3461b7"
+    },
+    {
+      "designation": "C-IIIγ-044",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-044_Broken_Clock_부서진_시계.md",
+      "signals": 1,
+      "evidence": [
+        "There was a year in Somnarak that would not end, and the city's exhaustion became a clock."
+      ],
+      "sha256": "f20a7c02620d93cc8231360b6c296111f2fdfc51720e22c460189a10e14a3af3"
+    },
+    {
+      "designation": "C-IIIγ-120",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-120_Redcage_분노의_감옥.md",
+      "signals": 1,
+      "evidence": [
+        "- **The Event:** Citizens were jailed for debts and crimes they did not commit; their rage became the bars of an empty cage."
+      ],
+      "sha256": "4fe1cd00b63d04b66cb739fbf265e73e31f03c38d7c56f6146a0c9d317a8c626"
+    }
+  ],
+  "reserves": [
+    {
+      "designation": "C-IIIγ-145",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-145_Briar_가시의_정원.md",
+      "signals": 1,
+      "evidence": [
+        "- **The Event:** Citizens planted memorial flowers for losses caused by violence. The flowers grew thorns and became a garden of protected grief."
+      ],
+      "sha256": "d5418b19a1f7fdf5884fb0280e98f52250266c3428720f347a651ce295f67d77"
+    },
+    {
+      "designation": "C-IIIγ-190",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-190_The_Rage_Statue_분노의_조각상.md",
+      "signals": 1,
+      "evidence": [
+        "The list cannot be ordered. The complaints carry no priority, no outcome, and nothing that distinguishes the grievance that became a statue from the three thousand that did not. Wardens are trained to read for severity, recency and specificity, and the file is blunt that this is a heuristic with no evidence behind it."
+      ],
+      "sha256": "1480465feccf8e9687d33ccce2f22a5cea570e99ca971d40940279b60461a49d"
+    },
+    {
+      "designation": "C-IIIγ-248",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-C-IIIγ-248_The_Unconsoled_위로받지_못한_자.md",
+      "signals": 1,
+      "evidence": [
+        "- **Expanded origin context:** The Unconsoled is not a failure of hope. It is the proof that some sorrow is structural — load-bearing. It became an entity only because hope lightened everything around it, leaving it alone and at last visible."
+      ],
+      "sha256": "c0042b7c901cfe57f939b7ccb4786e3588b196fd2fb1b148a3df66c0ab9f1d05"
+    },
+    {
+      "designation": "C-IIIγ-649",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-649_Sunken_Pillar_가라앉은_기둥.md",
+      "signals": 1,
+      "evidence": [
+        "Some sorrows mourn the past. Sunken Pillar mourns the future — the unbuilt, the unborn, the generations imagined into such vividness that their absence became a weight, and the weight became a stone, and the stone, built for them, sank without them into the earth that never grew them."
+      ],
+      "sha256": "4a0cc5b5ca33a416aba37d8a9a1395302ed38c32558927aed1fb2f96ef746621"
+    },
+    {
+      "designation": "C-IIIγ-891",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-891_Screaming_Masonry_스며든_절규.md",
+      "signals": 1,
+      "evidence": [
+        "Some sorrows are about what was done to you. Screaming Masonry is about what you did not do — the promises broken, the duties abandoned, the slow compound failure of a district that meant well and could not, and whose meaning-well, stacked for generations in the walls, finally became a sound no one can stop."
+      ],
+      "sha256": "5eb4b2fa868375f80f7089ce869f4ecd7d52d0c5a7b7d6fbf28d401f00717eed"
+    }
+  ],
+  "reviews": {
+    "C-IIIγ-031": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_01_OBSERVING_BIRD.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "C-IIIγ-032": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_02_WEIGHTING_BIRD.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "C-IIIγ-033": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_03_GUARDING_BIRD.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "C-IIIγ-044": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_04_BROKEN_CLOCK.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    },
+    "C-IIIγ-120": {
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_05_REDCAGE.md",
+      "no_change": false,
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
+    }
+  },
+  "close_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_CLOSE.json"
+}

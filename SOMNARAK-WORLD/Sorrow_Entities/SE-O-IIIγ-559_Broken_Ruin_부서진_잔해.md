@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A weeping figure assembled from pieces of a ruined Desolate structure — stone, dust, and splintered timber shifting between materials, never settling. Salt-damp, it smells of cold rain; a collapsed building that learned to walk and weep. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — walks upright; during recorded breaches it walks into the market and stops before a trader, without pursuit. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 16–22 per cycle, the highest in the Mask Market, and the station has twice asked for the figure to be read alongside the eligibility list rather than on its own: the yield is high because the cycles are long, and the cycles are long because the work is listening. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 | **Recommended response** | Sit at the fixed station and let it give the account. Flerehan and Ferrehan both reduce the gauge; the material log is kept throughout at ten-minute intervals, and nothing is ever matched, sorted, drawn, or reassembled. |
@@ -99,14 +99,14 @@
 ## Appearance
 **Primary Form:** A weeping figure made from pieces of a ruined Desolate structure. Its body shifts between stone, dust, and remembered rooms.
 
-**Notable Features:** It waits without rebuilding, carries the sound of collapse, and appears to those who have survived ruins.
+**Notable Features:** It waits without rebuilding the settlement, carries the sound of collapse, and appears to those who have survived ruins. In Total Subsidence its own figure becomes dust and stands again from the same material; that bodily reassembly is not restoration of the lost settlement.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Lament
 - **Primary marker:** A weeping figure made from pieces of a ruined Desolate structure. Its body shifts between stone, dust, and remembered rooms.
-- **Position / movement:** Mobile on foot within the registered area; record posture, distance, and above all whether it has moved at all since the last observation, since waiting is its whole activity.
+- **Position / movement:** Mobile on foot within the registered area; record posture, position and whether it has moved since the last observation. Keep its pauses distinct from the recorded market walks and do not infer reconstruction from either.
 - **Element signature:** Lament
 - **Registered location:** Zone C, Mask Market
 
@@ -115,7 +115,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A weeping figure made from pieces of a ruined Desolate structure. Its body shifts between stone, dust, and remembered rooms. |
-| **Position / movement** | Mobile on foot within the registered area; record posture, distance, and above all whether it has moved at all since the last observation, since waiting is its whole activity. |
+| **Position / movement** | Mobile on foot within the registered area; record posture, position and whether it has moved since the last observation. Keep its pauses distinct from the recorded market walks and do not infer reconstruction from either. |
 | **Material / signature** | Stone, dust, and splintered timber, exchanging places continuously and never settling for longer than a few minutes. Record the substance at ten-minute intervals, as read, without smoothing the series into a sequence; the station's standing instruction is that the log is a list and not a story. |
 | **Distinctive markers** | It weeps and it waits. Several ruin-derived holdings are filed in this market and the others all attempt, in one way or another, to put something back; this one has never once tried to rebuild anything. |
 | **Identification** | Identification is not optional and is made against the materials and the collapse-sound together; the SECC code, the manifestation and the physical markers must align before Work begins. |
@@ -147,12 +147,12 @@ The table is correct and the station reads it alongside one column the form does
 **Reading the response:** Read it in the materials and in the pauses. A falling gauge presents as settling — the body holding one substance for longer, the collapse-sound coming at wider intervals, the weeping lower. The pressure drops and the cause is untouched; the settlement is still gone and the pieces are still not from it. A rising gauge presents as **clarity**. The fragments begin to look as though they belong together, the worker starts to see a building in them, and the account being given starts to sound like something that could be drawn. That is the failure state, and it is seductive precisely because the people posted here are careful and methodical. Everything that looks like understanding on this holding is the holding working on the observer.
 ## Breach Behavior
 
-> *"Broken Ruin has broken free. Collapses structures."*
+> *"Broken Ruin is roaming the market, weeping. Do not reconstruct the settlement."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Broken Ruin tears loose and pursues personnel with deliberate steps. It collapses structures. |
+| **Movement** | Broken Ruin walks into the market and stops before a trader to weep. Both recorded breaches ended in conversation and an unresisted walk back; the Dust Field remains a separate structural hazard, not a guaranteed collapse on every roam. |
 | **Effect** | Cold rain-smell indoors and the sound of a large structure settling somewhere behind you. Both are reported by everybody present and neither has ever had a source. |
 | **Secondary Effect** | The figure's material cycles faster, through all three substances inside a minute, which is the only reliable sign that a breach is under way rather than a long account. |
 | **First Target** | The nearest person who has lost a home, which in the Mask Market is a high proportion of everybody. In both breaches it walked to a trader rather than to a warden and in both cases it stopped in front of them and wept. |
@@ -212,7 +212,7 @@ The heavy spine allows the dirk to be hammered into stone seams to create climbi
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 to the working stat on this holding's own cycles — the market's largest figure and worth nothing anywhere else, which the Armoury records as exactly right for a piece of a place that is gone
+**Effect:** +2 Clarity while working this source entity, as recorded in the Ruin Fragment and Side set card; preserving a place-memory does not verify it as objective history.
 
 **Ability:** Preserves one memory of a destroyed place.
 

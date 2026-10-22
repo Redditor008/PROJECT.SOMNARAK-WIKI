@@ -120,6 +120,16 @@
 | **Distinctive markers** | A measurable radius and nothing else. Several things in Zone D suppress sound; only this one is shaped like a person about to say something. |
 | **Identification** | Cross-check the markers against the designation before contact — a Fragment and a Sovereign can look alike in poor light, and here there is no form to look at, only a radius to measure. |
 
+### Appearance States
+
+| Field | Recorded shape | Limits of the observation |
+|---|---|---|
+| **Form** | The ordinary silent field has a taller-than-wide, upright centre, with the proportions of somebody standing to speak; its radius travels through the Commons. | This is the shape of an absence measured by lost sound, not a visible person, mouth or garment. |
+| **Transition** | At the marked perimeter beside Silence We Forgot We Made, the radius lost its upright proportions and spread flat and low, recovering within the hour. | The pairing record repeats the change but supplies no cause. It is not a second speaker, and it is not the form used to identify an unpaired watch. |
+| **Breach Type** | Transform spread seeps through structure, fills corridors and takes definition, colour and sound from the zone. | Record the expanding field and its tone-test boundary separately from the ordinary upright proportions. No solid attack-body is established. |
+
+The Tale's community and its erased speech precede this manifestation; the absence is what remains, not a portrait of a protester. Across the recorded shapes the same loss of sound remains the marker. A field becoming flat or filling a corridor supplies no word, face or demand from the erased event.
+
 **Appearance protocol:** There is no body, so the protocol records the radius and its edge. Log the extent of the silent zone from each observer's position, the rate at which it widens, where the boundary falls against fixed features of the Commons, and the quality of the silence at the centre, which personnel consistently describe as pressure rather than quiet. Note that the shape is voice-like — taller than wide, roughly upright, with the proportions of someone standing to speak — and record the observation in those terms without extending it into a description of a person, because the file has nothing to support one. Every finding here is contemporaneous and nothing survives the watch to be checked afterward. That is the record's central weakness, it is stated plainly at the front of the file, and stating it plainly is the only protection available to a document that cannot be verified.
 
 ## Origin

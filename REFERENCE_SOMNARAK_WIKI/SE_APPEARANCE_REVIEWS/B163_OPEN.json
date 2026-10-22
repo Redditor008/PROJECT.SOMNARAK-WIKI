@@ -1,0 +1,103 @@
+{
+  "batch": 163,
+  "base": "ccc141cfd74a4b364d81bd3152b402c385a744d4",
+  "pending": 210,
+  "candidates": 57,
+  "pattern": "changes? shape|shifts? between.*forms|became (?:a|an|the) ",
+  "selection": "Pending only, exclude exactly level-two M.A.W. Equipment; descending matching-line count then full designation; priority is not defect finding.",
+  "queue": [
+    {
+      "designation": "C-IIIγ-145",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-145_Briar_가시의_정원.md",
+      "signals": 1,
+      "evidence": [
+        "- **The Event:** Citizens planted memorial flowers for losses caused by violence. The flowers grew thorns and became a garden of protected grief."
+      ],
+      "sha256": "d5418b19a1f7fdf5884fb0280e98f52250266c3428720f347a651ce295f67d77"
+    },
+    {
+      "designation": "C-IIIγ-190",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-190_The_Rage_Statue_분노의_조각상.md",
+      "signals": 1,
+      "evidence": [
+        "The list cannot be ordered. The complaints carry no priority, no outcome, and nothing that distinguishes the grievance that became a statue from the three thousand that did not. Wardens are trained to read for severity, recency and specificity, and the file is blunt that this is a heuristic with no evidence behind it."
+      ],
+      "sha256": "1480465feccf8e9687d33ccce2f22a5cea570e99ca971d40940279b60461a49d"
+    },
+    {
+      "designation": "C-IIIγ-248",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-C-IIIγ-248_The_Unconsoled_위로받지_못한_자.md",
+      "signals": 1,
+      "evidence": [
+        "- **Expanded origin context:** The Unconsoled is not a failure of hope. It is the proof that some sorrow is structural — load-bearing. It became an entity only because hope lightened everything around it, leaving it alone and at last visible."
+      ],
+      "sha256": "c0042b7c901cfe57f939b7ccb4786e3588b196fd2fb1b148a3df66c0ab9f1d05"
+    },
+    {
+      "designation": "C-IIIγ-649",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-649_Sunken_Pillar_가라앉은_기둥.md",
+      "signals": 1,
+      "evidence": [
+        "Some sorrows mourn the past. Sunken Pillar mourns the future — the unbuilt, the unborn, the generations imagined into such vividness that their absence became a weight, and the weight became a stone, and the stone, built for them, sank without them into the earth that never grew them."
+      ],
+      "sha256": "4a0cc5b5ca33a416aba37d8a9a1395302ed38c32558927aed1fb2f96ef746621"
+    },
+    {
+      "designation": "C-IIIγ-891",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-891_Screaming_Masonry_스며든_절규.md",
+      "signals": 1,
+      "evidence": [
+        "Some sorrows are about what was done to you. Screaming Masonry is about what you did not do — the promises broken, the duties abandoned, the slow compound failure of a district that meant well and could not, and whose meaning-well, stacked for generations in the walls, finally became a sound no one can stop."
+      ],
+      "sha256": "5eb4b2fa868375f80f7089ce869f4ecd7d52d0c5a7b7d6fbf28d401f00717eed"
+    }
+  ],
+  "reserves": [
+    {
+      "designation": "C-IIIγ-916",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃.md",
+      "signals": 1,
+      "evidence": [
+        "Some sorrows are meant to pass. Devouring Bloom is a sorrow that, crystallized by love and the Han, refused to pass — and grew, and grew, until the mourning itself became a monument no one could bring themselves to cut down."
+      ],
+      "sha256": "2b433d160f9cc93387b355c9a094d66d705aefb3903f4b2059efa2ea82330f31"
+    },
+    {
+      "designation": "C-IIIγ-948",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-948_Foam_Flood.md",
+      "signals": 1,
+      "evidence": [
+        "A traveller who slept beside the carving walked to the top of the bank at dawn and stepped off it certain he could fly, and the sealing of the bed followed within the day. The traveller is named in the file and his belongings are listed. The inventory is short. It is reproduced in full on the grounds that a list of what a man was carrying is the nearest thing the record has to an account of who he was. The Vault door is opened by two Keepers together and neither is permitted to enter alone, a rule that predates the written protocol and was in force as custom for some years before anyone set it down. The file records both the custom and the date it became an instruction."
+      ],
+      "sha256": "221ec45e8a941d77c5ff19034aad8ede21ef22d8c85adf9fc87848c2eed1b64c"
+    },
+    {
+      "designation": "C-IIα-081",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIα-081_Broken_Mirror_거울의_조각.md",
+      "signals": 1,
+      "evidence": [
+        "Some truths the citizens asked the Keepers to seal away, because they could not live with them. And the sealed truths, pressed too long against the vault, cracked it, and became a mirror."
+      ],
+      "sha256": "aed9afd0e4cf81a62f4742493a1d0f3a544e60bafcefd0bb257f192cc55cf93f"
+    },
+    {
+      "designation": "C-IIβ-055",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-055_Weeping_Statue_우는_조상.md",
+      "signals": 1,
+      "evidence": [
+        "The citizens were taught to be useful, and the usefulness left no room for tears, and the uncried tears became a statue that weeps for them."
+      ],
+      "sha256": "376b40626e8189af57d3d7ef28f138ffebb78b159c89dc7aa43f725e91db0e84"
+    },
+    {
+      "designation": "C-IIβ-099",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md",
+      "signals": 1,
+      "evidence": [
+        "They could not move, and the wanting to move became a dancer that moves for them, forever."
+      ],
+      "sha256": "3a1b603d1d7014ec4bfd52e282e7beafe8a32df88c3f95e7805ecb64a6a1f46c"
+    }
+  ],
+  "authorization": "Owner p after162 verified closure authorizes163 only; full substantive report and links after last tool call."
+}

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-920 [LT]` |
-| **Entity Type** | **Time** — Can breach via Transform |
+| **Entity Type** | **Time** — Recorded escalation makes stories simultaneous; no transformed source body is documented |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -65,7 +65,7 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Major temporal/tale hazard; not a Sovereign classification |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
@@ -96,6 +96,12 @@
 - Wielders begin narrating themselves in the third person and do not notice; the check is a pronoun count against a recorded baseline.
 
 ## Appearance
+
+**Interval and manifestations:** The source is an hour with a fixed spatial reach, not a narrator's body. Witnesses see characters walking streets and endings above rooflines, and hear voices from empty rooms. Their vivid presence does not make them touchable: the recorded strike passed through a character while it continued speaking. Character motion inside the district is not movement of the sector itself.
+
+**Ordinary and exceptional sequence:** The normal record lists stories in order. The documented simultaneity is an escalation of that presentation, not an invented transformed anatomy or evidence that the stable perimeter grew. Keep the hour, the order of its manifestations and each character's attention to a listener as separate observations.
+
+**Names and materialised gear:** Naming available tellers from the district register is not telling another story inside the radius. Record the numbered, unrecognised entries without inventing tellers for them. The spine-text blade, marked veil and numbered token are derived equipment forms, not a physical shell for the hour. Their bearer-narration effects are item-use records, distinct from a worker being named in a manifested story.
 
 **Primary Form:** An hour during which every forgotten story ever told within a kilometre radius becomes briefly, viscerally real — characters walk the streets, narrators whisper from empty rooms, and endings replay themselves in the air.
 
@@ -149,14 +155,14 @@ The table lists two Work Types and the useful figure is not in it: the gauge fal
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |
-| **Movement** | The entity's tale influence expands beyond its registered area, corrupting everything it touches. |
+| **Movement** | The recorded radius remains fixed. The exceptional escalation made registered stories run simultaneously rather than in sequence; it is not evidence of a larger boundary or a travelling source body. |
 | **Effect** | Lament pressure radiates — the tale register makes it personal, targeted, unavoidable. |
 | **First Target** | Whoever is listening. Characters approach people who stop to hear them and ignore people who keep walking, which is the only behaviour in the file that resembles a choice. |
 | **Escalation** | +5 Lament drain per cycle while a worker is inside the radius, rising with the minute rather than with anything the worker does. Past the fiftieth minute the risk changes in kind, not degree. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** Keep the perimeter, record the manifestations and name the tellers available in the district register. The hour ends on its own and cannot be struck or shortened; gauge relief does not remove a story or erase a named worker.
 - **Sorrow Gauge on breach:** 40% rising 10% a cycle, read from the perimeter. The Year 4,231 simultaneity is the only reading that has passed 65%.
 
 ## M.A.W. Equipment
@@ -244,7 +250,7 @@ All three pieces came out of the hour and all three keep its property: they are 
 
 ## 감각 묘사 (Flavor Text)
 
-The lament pressure and the tale register meet exactly once an hour and hold for a single breath — that is the whole of the contact, and it is where a reader understands, without being able to say how, what this hour *is*. In that breath the district's forgotten stories come back up through the pavement: the people in them walk the streets, their narrators speak from rooms nobody is standing in, and their endings play out above the rooflines in the air. Then the breath is over, and what stays behind is the pressure, the register, and the feeling of having been read.
+The recorded contact is a recurring hour of manifesting stories, not an instant that lasts only a breath. The opening words identify its start; the perimeter watch, ordered list and naming record cover the whole interval. During the hour the district's forgotten stories return: their characters walk the streets, narrators speak from empty rooms, and endings play out above the rooflines. When the hour closes, what remains is the register and the feeling of having been read.
 
 **At first contact:** Four words from an empty room, and then a street that was empty has people in it, mid-conversation, about things that happened long ago.
 
@@ -276,7 +282,7 @@ Time itself is the medium. Once Upon does not exist in the way other entities ex
 
 The effects are cumulative. Each exposure layers lament pressure in the tale register until the personnel cannot distinguish their own tale state from the entity's influence. That is when Fracture risk peaks. That is when the protocols engage.
 
-The hour has no voice in it and no tears. Tale and lament sit on it the way two surnames sit on the same family — inseparable, elderly, neither of them in a hurry. Once Upon does not try for loudest in Somnarak; it is the one that knows which street you came from. A city that issues grief by the same measure to every citizen has no answer for a sorrow that arrives already knowing your address.
+The narrators speak from empty rooms and characters address listeners; these are manifestations within the hour, not a single speaker whose body can be confronted. Tale and lament sit on it the way two surnames sit on the same family — inseparable, elderly, neither of them in a hurry. Once Upon does not try for loudest in Somnarak; it is the one that knows which street you came from. A city that issues grief by the same measure to every citizen has no answer for a sorrow that arrives already knowing your address.
 
 ## 증언 (Testimonium) — The Testimony
 

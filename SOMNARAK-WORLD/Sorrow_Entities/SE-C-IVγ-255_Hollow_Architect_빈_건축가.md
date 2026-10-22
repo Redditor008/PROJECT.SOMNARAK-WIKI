@@ -176,11 +176,17 @@ The gauge on this file is the least informative number in the holding. Flerehan 
 
 **Appearance:** a heavy two-handed maul of Weight Han-steel, finished dark and heavier than its bulk accounts for, carrying a flicker of inner light when drawn.
 
-**Damage:** Weight 7-12
+Incomplete plan sections mark the striking faces. Binding names the intended occupants and why completing the missing element would repeat their loss. A present load fracture is not that absent element: the Maul can address the former without being allowed to create the latter. Rest its head on a current support outside the phantom plan and leave the missing plan face blank.
+
+**Damage:** Weight 7–12
 **Speed:** 3 (Fast)
 **Range:** 3 (Medium)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
+
+**Attack Pattern:** Skewer
+**Target Coverage:** Up to three connected structural targets on the present load path
+**Falloff Rule:** 100% → 70% → 50%.
 
 **Ability:** Breaks raised structure. In holding doctrine it is a floor tool for extraction and has no offensive role at all.
 
@@ -191,6 +197,8 @@ The gauge on this file is the least informative number in the holding. Flerehan 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
 **Appearance:** a draped mantle of Weight Han-weave, dark as river stone and heavier than any weave, with the faint scent of its place of origin left in the folds.
+
+Open seams correspond to missing walls, doors and supports. Tools, cargo or another person used to close a gap remove protection; a wearer bracing the absent element becomes load-bearing rather than safely clothed. Hang it on an incomplete frame with those seams unsupported, removing dust without patching the omissions. Exit the plan boundary before letting the garment fall from its missing side.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -210,9 +218,11 @@ The gauge on this file is the least informative number in the holding. Flerehan 
 
 **Appearance:** a compass-charm of Weight Han-steel, dark-grained and a touch too weighty for its size, that warms briefly when sorrow is near.
 
+Its needle has no cardinal scale; it follows intended circulation through doors, stairs, gathering places and light. Compare the intended plan, current structure and current occupants on separate maps. A route that was meant to serve a clinic may locate buried utilities, but the Compass cannot certify that an unbuilt clinic exists or that living occupants want its old purpose restored.
+
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 to the wearer's survey and drafting work on this holding; no effect on any other file.
+**Effect:** +2 Resolve during survey and drafting work on this holding; no effect on any other file.
 
 **Ability:** Shows what a damaged building was meant to be. The liaison office uses it on municipal surveys and has never been refused.
 
@@ -223,6 +233,10 @@ The gauge on this file is the least informative number in the holding. Flerehan 
 ### M.A.W. Use Notes
 
 The three pieces of this holding are issued against three different jobs: the Maul to the extraction lead, the Mantle to whoever is standing the Ferrehan watch, the Compass to the liaison office. None is carried on patrol. The Compass is the only one the entity gives rather than the armoury, and it has given eleven.
+
+The set is *The Unoccupied Plan*, with *Purpose Without Completion*: Compass reads intended use, Mantle follows the safe unfinished path, and Maul addresses a present load failure rather than the missing design element. This coordinates navigation, bracing or evacuation without constructing the absent building. It does not turn the extraction Maul into patrol issue or make an unfinished room habitable.
+
+Record each charge separately: the Maul’s carried weight, the Mantle’s fatigue and the Compass’s failed futures. Completion impulse ends Maul use by grounding it. A Compass needle treating absent occupants as current orders is a release warning: leave the construction zone and orient to a living person’s stated destination, never force the needle north. None of these equipment operations issues cancelled work by name or demonstrates a reduction in chamber tonnage.
 
 ### Field Use Record
 

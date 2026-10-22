@@ -15,7 +15,7 @@
 | **Element** | Weight |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A dark tear-shaped object half-buried in the Desolate soil, that sinks deeper whenever someone reaches for it. Lead-cold and damp, it smells of wet stone; a grief that will not be picked up. |
-| **Movement** | Fixed in plan, variable in depth — it holds its position on the ground and moves only downward, away from any hand that comes toward it. |
+| **Movement** | Fixed in plan, variable in depth — it holds its position on the ground, sinks whenever someone reaches for it, and rises during mourning that names no cause. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -210,7 +210,7 @@ Escalation here is downward and slow. Record the depth at arrival, every approac
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-Appearance : A stubby, wide-mouthed bronze siege mortar mounted on a reinforced oak base, fitted with elevation screws and an oversized muzzle designed to launch spherical glass projectiles.
+**Appearance:** A stubby, wide-mouthed bronze siege mortar mounted on a reinforced oak base, fitted with elevation screws and an oversized muzzle designed to launch spherical glass projectiles.
 
 The weapon fires ampoules filled with hyper-concentrated Lament brine that shatter on impact, saturating an entire room in weeping vapors that induce immediate despair and disorientation.
 
@@ -247,6 +247,8 @@ The weapon fires ampoules filled with hyper-concentrated Lament brine that shatt
 
 **Cost:** The wearer carries a constant low fatigue that does not lift between rotations, and reports it as heaviness in the shoulders rather than as tiredness — the wearer's own description is the more accurate one on this piece, and the file enters it in that form.
 
+Binding requires a named exit and no excavation tools. After the session the wearer re-anchors at the current camp: tents, roster and meal schedule are the ordinary elsewhere to return to, rather than an explanation of the feeling. The mantle’s horizontal departure line is traced by hand at each anchoring. A bearer unable to find that line by touch does not return the next day, even if the resistance figures still hold. Forgetting the exit and adopting the buried grief as identity are failures of departure, not evidence that a longer vigil is required.
+
 ### M.A.W. Stigma — Sehnsucht Shard
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
@@ -255,11 +257,13 @@ The weapon fires ampoules filled with hyper-concentrated Lament brine that shatt
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 to work against Sehnsucht itself, and nothing elsewhere near The Scar.
+**Effect:** +2 Resolve during work against Sehnsucht itself, and nothing elsewhere near The Scar.
 
 **Ability:** Anchors the wearer against emotional pressure.
 
 **Cost:** The wearer carries the buried grief afterward.
+
+The Shard’s anchoring must not become refusal to feel. Its other recorded failures are treating the carried sorrow as personal memory and becoming unable to leave the site. Care therefore takes place in witnessed rest away from The Scar, not in solitary rest beside the object. The steel stays cold through a correct discharge; warmth is evidence that something is still being kept. The witness observes that condition rather than supplying the reason for the grief.
 
 *The shard is not manufactured. Sehnsucht gives one to a worker who said at the site that they were grieving and could not say what for, and has given none to anybody who offered a reason.*
 
@@ -267,14 +271,16 @@ The weapon fires ampoules filled with hyper-concentrated Lament brine that shatt
 
 The three pieces were not cut from the object, which has never been reached. They were formed in the wet ring of soil above it, which is the only part of the holding anybody has ever been able to take. Each carries the same cargo: weight without a reason. The armoury's standing note is that a bearer who begins explaining the feeling is to be stood down the same shift, and that nothing in the set is issued to anybody currently under a bereavement entry.
 
+The extraction set is filed as *The Buried Grief*. Its shared discipline is *Understood Without Exposure*: remaining beside what was buried does not require forcing its origin into a complete account. Departure has to remain possible, and excavation defeats that purpose by turning the anchors downward. The named exit is entered before issue and checked again at camp; neither an equipment return nor an explanation offered in confidence substitutes for the bearer being able to leave.
+
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and the roster check the armoury runs on this set: nobody currently under a bereavement entry is issued anything from it, because the piece hands the bearer a grief with no cause attached, and that is a different thing to carry than one with a name. |
+| **Before use** | Wielder, piece, gauge, and the roster check the armoury runs on this set: nobody currently under a bereavement entry is issued anything from it, because the piece hands the bearer a grief with no cause attached, and that is a different thing to carry than one with a name. Enter the named exit and confirm that no excavation tools accompany the Mantle wearer. |
 | **During use** | The piece does not announce itself. The second worker logs the hour the bearer first starts accounting for the weight — a sentence beginning "it's because" is the marker — and the bearer's own account is not entered against these rows. |
 | **At limit** | The constant low fatigue that does not lift between rotations. On a Sehnsucht piece the use ends there whatever the wielder says, and the depth reading is taken before the piece is stowed rather than after. |
-| **After use** | Walk out past the benchmark, stow the piece, and take the reading again: has the wearer's heaviness outlasted the rotation? The answer is entered whether or not the wielder agrees, and a bearer who can no longer separate their own history from the piece's cargo is not reissued the set. |
+| **After use** | Walk out past the benchmark, stow the piece, and take the reading again: has the wearer's heaviness outlasted the rotation? The answer is entered whether or not the wielder agrees, and a bearer who can no longer separate their own history from the piece's cargo is not reissued the set. Re-anchor at the current camp; record the witness to the Shard’s rest away from The Scar and whether the steel stayed cold. |
 
 **Stat interpretation:** Grade describes what a piece does to entities and says nothing about what it does to the person wearing it, and this set was formed in the soil above the object rather than cut from it — which is the only reason a γ band carries anything at all here. Authorise on the second column. What the bearer receives is weight without a cause, and the record's own ruling on that is the management condition: it is to be left unexplained.
 ## 관찰 기록 (Observation Log)

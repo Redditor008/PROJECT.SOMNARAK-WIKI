@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iβ-071b [LS]` |
-| **Entity Type** | **Subject** — Mid-transformation entity |
+| **Entity Type** | **Subject** — Active blessing-seeker in the healer’s middle stage; successive marks brighten the retained healer silhouette |
 | **Coherence** | I — Residue (the healer's original self is fading) |
 | **Potency** | β — Moderate (escalating from α) |
 | **Sorrow Category** | City Sorrow (도한) with Hope resonance |
@@ -92,6 +92,10 @@
 
 ## Appearance
 
+**The healer learning to reach:** This is a documented stage of the same chain, not an unexplained replacement body. The former sorrow-bow has straightened; the faded mourning clothes lighten from their edges, and extended hands carry proto-Hope gold. Her purpose is visible in approach and gesture before contact. Those changes follow accumulated blessings, not a generic increase in combat pressure, and their permanence across cycles is already part of the registry note.
+
+**Count before radiance:** The Clock is tracked through resonance imaging and the ordered marks, not a visible dial built into her chest. Hem, hands, eyes and walking speed are confirmations rather than substitutes for the roster. The later wing-forming pre-transformation and the two possible terminal lights belong to their stated stages and conditions. Neither a bright hand nor a nearly white cloak proves the Hope branch has completed. The materialized focus and cloak echo the source without being her severed hand or her living body.
+
 **Primary Form:** Blessing Giver retains the Kind Healer's basic silhouette but has visibly changed. She is taller — not dramatically, but noticeably. Her hands glow with a faint golden light that intensifies when she is about to bless. Her eyes, once dim with absorbed sorrow, now carry a warmth that personnel describe as "comforting in a way that makes you nervous."
 
 **The Cloak:** The grey mourning clothes of the Kind Healer have begun to change. The edges — the hems, the cuffs, the collar — have lightened from grey to off-white. The change is gradual, advancing with each blessing. By the twelfth blessing, the cloak is nearly entirely white.
@@ -120,6 +124,8 @@
 ### Operational Work Notes
 
 Blessing Giver cannot be safely managed by treating blessings as beneficial. While each blessing genuinely heals and strengthens the recipient, the cumulative effect brings the chain closer to completion. The R.D. must decide: allow the chain (risking either Hope or Mourning) or suppress (risking unpredictable results from interruption).
+
+An interrupted cycle is entered separately from a completed blessing: record the intended recipient, the unchanged count and the watch-long dimming described in the interruption records. The backlash action and Pugnahan warning remain alongside the three uneventful interruptions; do not turn those different records into either a guaranteed punishment or a promise that every intervention is harmless.
 
 A Stable reading on Viderehan means the count was taken and the roster checked, not that the floor is quiet. The reading holds because the work is passive and she does not object to being watched; it says nothing about the pull, which is recorded from the marked workers rather than from the instruments. Observation on this holding is therefore two reports entered side by side: the Clock as counted, and the marked as interviewed.
 
@@ -197,16 +203,18 @@ The step from Stage 1 to Stage 2 was taken without a decision, and the step from
 
 ### M.A.W. Use Notes
 
-The set is issued to workers on the chain's own floor and it behaves like the thing it was taken from: it heals truthfully, it marks every person it touches, and it does not know how to do one without the other. The listed benefit is real and the listed cost is the ordinary column beside it; what the Use Notes add is the arithmetic. A bearer who heals twelve colleagues has run a Clock of their own, and the armoury has no protocol for what happens to the piece afterwards because it has never happened.
+The set is issued to workers on the chain’s own floor, but the pieces do not make the same kind of mark. The Gentle Hand carries the residual warmth described in its Weapon ability; the Brightened Cloak carries a wearer-comfort cost; the Mark’s colleague healing explicitly leaves the colleague unmarked. Keep the bearer’s healing tally apart from the source Clock and the ordered roster of blessed personnel. A tally reaching its stated limit is not evidence that the source has blessed that many new people. The Stigma transformation remains unresolved, and the Armoury has no completed-use precedent for the aftermath.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's Clock reading, and the wearer's own mark number if they carry one. A marked bearer is not issued the suit, and the entry is made at the door rather than at the bench. |
+| **Before use** | Wielder, piece, the day’s source Clock reading, the separate personal healing tally and the wearer’s own mark number if present. A marked bearer is not issued the Suit. Make the entry at the corridor door, outside her sight, and check floor eligibility rather than treating a healing focus as an exemption for marked personnel. |
 | **During use** | Every healing given, to whom, and the recipient's answer when asked how they feel — recorded verbatim, because on this set the answer is the instrument. |
 | **At limit** | The bearer's own count of healings and the first time they describe the pull as a comfort. The second worker's call stands against the wielder's. |
-| **After use** | Return the pieces and reconcile the count against the Clock. A bearer whose personal count has reached twelve is reassigned off the chain, and the ledger entry is kept open rather than closed. |
+| **After use** | Return the pieces and reconcile two distinct records: the source Clock with its marked roster, and the bearer’s healing tally with the equipment log. A bearer whose personal count has reached twelve is reassigned off the chain; the ledger stays open. Do not add an unmarked colleague’s Stigma healing to the source blessing count simply to make the two totals agree. |
+
+**Attribution before return:** The focus’s chain-pull, the Cloak’s growing comfort and the Mark’s healing-linked advance are separate costs. Watch for first-person ownership of the source sorrow or an item repeating its source response outside contact. Keep bearer, trigger, response, cost and unresolved detail for attribution review before cleaning or rest. A named witness states the source title and the recorded stage while the bearer relinquishes the piece; the exact originating event is unrecorded in the linked item histories and must not be invented to complete the form. Witnessed return does not remove a blessing mark or establish how the Stigma’s later transformation resolves.
 
 **Stat interpretation:** The set's grade says what the pieces are made of, not what they cost the person carrying them; a β tool that performs perfectly can still return a bearer who is twelve healings closer to being a marked one themselves. Read the two columns separately and authorise on the second.
 

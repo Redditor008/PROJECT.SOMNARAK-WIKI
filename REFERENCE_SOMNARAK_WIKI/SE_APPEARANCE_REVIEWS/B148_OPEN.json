@@ -1,0 +1,37 @@
+{
+  "batch": 148,
+  "base": "10f5b845e8d60c95cd843bb902f8f9e2835566bf",
+  "pending": 285,
+  "candidates": 132,
+  "selection": "Descending lexical shape/history cues then full designation; reading order only, not defect verdicts.",
+  "queue": [
+    {
+      "designation": "O-IIβ-119",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md",
+      "signals": 6
+    },
+    {
+      "designation": "C-IVδ-103",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md",
+      "signals": 5
+    },
+    {
+      "designation": "C-Vδ-290",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-290_First_Tear_첫_번째_눈물.md",
+      "signals": 5
+    },
+    {
+      "designation": "N-IVδ-852",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-852_Conservatory_잊혀진_잔해.md",
+      "signals": 5
+    },
+    {
+      "designation": "N-Iα-518",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md",
+      "signals": 5
+    }
+  ],
+  "requirement": "Whole-file logical reading before edits and again after checks. Explicitly connect Entity Type, Manifestation, Tale, Appearance, Physical Form, Movement, Work, combat/escalation, observation/interaction and equipment dependence. Distinguish history from current observation. Unsupported connections remain held; local repair alone is not completion.",
+  "recovery": "Restored checkout HEAD was10cd20a;163restored paths byte-matched fetched10f5b84 before non-destructive mixed reset. No content discarded or duplicated. Saved restoration patch outside checkout.",
+  "new_reviews": 0
+}

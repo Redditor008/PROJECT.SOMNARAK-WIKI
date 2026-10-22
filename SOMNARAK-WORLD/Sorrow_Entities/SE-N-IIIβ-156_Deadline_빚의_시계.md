@@ -35,14 +35,14 @@
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | On Deadline: viderehan and Ferrehan only; two readers, separate figures, never reconciled; contact ended at two minutes; no winding, no repair, no asking whose date it is; the. The valid Work Types carry the cycle; the condition decides it. |
+| **Recommended response** | Viderehan and Ferrehan only; two readers, separate figures, never reconciled; contact ended at two minutes; no winding, no repair, no asking whose date it is; the quarter's time-bar list read in the room before the watch begins. The valid Work Types carry the cycle; the condition decides it. |
 
 ### Operational Notes
 
 - The date is not fixed and is not the facility's. The hands resolve onto the next published date belonging to whoever is nearest, which is why the face shows a different figure to every observer and why the log records the reader with the reading.
 - Work does not move the hands. A cycle lowers the gauge in the room and the hands keep their rate exactly, which has been true of all fifteen years of logged watches without a single exception.
 - Viderehan and Ferrehan only, and the structural reason is given rather than assumed: there is nothing here to grieve with and nothing to confront. Ferrehan lowers the gauge; Viderehan holds it level.
-- No breach counter applies; it is not the kind of thing that events. The interval is logged at every watch because it is the only quantity this entity produces, and a watch that returns no reading is written up as a failed watch.
+- No breach counter applies to this fixed O-Relic: it activates under contact rather than leaving the bracket. The interval is logged at every watch because it is the only quantity this entity produces, and a watch that returns no reading is written up as a failed watch.
 - Residue recovery is separately authorised and has been granted twice, both times after a face repair. The clock has never been dismantled and the prohibition on winding it is absolute.
 
 ## Combat Record
@@ -214,7 +214,7 @@ Escalation here is a figure getting smaller, and nothing else. There is no visib
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that flickers with inner light.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that flickers with inner light. A cracked clock-face sits in the head above a long, black-wrapped haft. Its narrow case card carries the due date, intended action and protected rest interval; these are equipment records, not readings taken from the source clock. The inset is not wound, set or adjusted by hand.
 
 **Damage:** Weight 5–9
 **Speed:** 2 (Normal)
@@ -235,7 +235,7 @@ Escalation here is a figure getting smaller, and nothing else. There is no visib
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element. Concentric clock marks at the hem are deliberately incomplete, leaving the garment recognizably separate from the O-Relic. The cloth rests across the shoulders without covering the hands. A closing circle belongs in the equipment warning log; it is not a second face from which either reader takes the watch's interval.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -268,6 +268,10 @@ Escalation here is a figure getting smaller, and nothing else. There is no visib
 ### M.A.W. Use Notes
 
 The set is built around knowing when something falls due and carrying the weight of knowing it. The armoury's note records that the maul has never been used here, that the mantle is worn on figures under thirty days as a matter of order rather than choice, and that the watch-charm is the only piece in the wing whose chief cost is a sound.
+
+### Returning the Set, Not Stopping the Clock
+
+A Maul return closes the case-card action with its verifier; the inset is covered and the weapon laid horizontally in its case. That cover belongs to the weapon, never to the bracket-mounted clock, which remains uncovered. Review the Mantle's rest interval with the support person and replacement worker, then fold it with the rest card uppermost rather than the due notice. Put a returned Watch face-down beside its reviewed plan instead of wearing it through sleep. None of these storage steps establishes that a charge has ended: the primary record's irreversible ageing and prolonged night sound remain payable. The armoury retains the equipment entry while the counselling wing keeps the sleep report; a completed plan is not authority to export that report into the claims registry.
 
 ### Field Use Record
 
@@ -337,7 +341,7 @@ The clock counts down to the next deadline of whoever is nearest, and it ticks f
 
 > The hands have reached a figure that means something to the person reading it, and the reader has two minutes in the clock room to decide whether to write it down and leave, or to find out whose date it is.
 
-| Viderehan and Ferrehan only; two readers, separate figures, never reconciled; contact ended at two minutes; no winding, no repair, no asking whose. | Substitute your own judgement, which on Deadline has never yet cost less than the condition. |
+| Viderehan and Ferrehan only; two readers, separate figures, never reconciled; contact ended at two minutes; no winding, no repair, no asking whose date it is; the quarter's time-bar list read in the room before the watch begins. | Substitute your own judgement, which on Deadline has never yet cost less than the condition. |
 |---|---|
 | The reader takes the figure, writes it with their own name beside it, and leaves the room without asking anybody anything. The gauge falls and the watch stands. | The reader works out whose date it is. Nine have, and in every case it was their own. The gauge climbs, the watch ends, and the counselling wing is notified the same day. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

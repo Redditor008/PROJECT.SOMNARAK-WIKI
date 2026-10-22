@@ -1,0 +1,71 @@
+{
+  "batch": 175,
+  "base": "4b5b536ea7d659453ffd36679821610ff13a2631",
+  "authorization": "Owner p after CLOSED174 authorizes Batch175 only. Minimum five whole reviews; three cumulative No change extends5→7→10. Later full recheck retained.",
+  "selection": "Fresh pending-only shortest LC_ALL=C wc-w; designation-byte tie-break; not a defect ranking.",
+  "pending": 150,
+  "queue": [
+    {
+      "designation": "N-IIβ-903",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md",
+      "words": 6557,
+      "sha256": "50918075450c6c41e7e9ef02a47674085c4e6c63f4db9444fd8684bc6e8be86f"
+    },
+    {
+      "designation": "O-IIβ-677",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-677_Tower_Erased_Overnight_사라진_탑.md",
+      "words": 6560,
+      "sha256": "9c25b532820621f0631eb3312fbbc774372ff314148d3527e3d7113b755594c3"
+    },
+    {
+      "designation": "C-IIβ-235",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-235_Panopticon_벽_속의_감시자.md",
+      "words": 6564,
+      "sha256": "5fb9633341d6432a656c45dfbced8e34fcd3082068e0d7a10f926d4d28ffdb5a"
+    },
+    {
+      "designation": "C-IIIγ-902",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-902_Beating_Relic_고동치는_유물.md",
+      "words": 6569,
+      "sha256": "64fd594cbae7f8f13058dc7946f570ef9d11fc86083e5c3d9a9cdb3eaee82037"
+    },
+    {
+      "designation": "C-IVδ-909",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로.md",
+      "words": 6587,
+      "sha256": "fa6993a92e89e6448cd4fca154d9158db92e26f60242aa9b5eaedf43bd935150"
+    }
+  ],
+  "reserves": [
+    {
+      "designation": "C-IIβ-240",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-240_Holdout_사라진_잔해.md",
+      "words": 6589,
+      "sha256": "266fa64b95ccdb0338d98ee781ca10a4b8d9fec496045fbeade6892436de70f1"
+    },
+    {
+      "designation": "C-IIIγ-904",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-904_Thinking_Engine_생각하는_기계.md",
+      "words": 6612,
+      "sha256": "a53c5c6b317e4a42068d8dbafe40cf6eccfe143214d327a3913c1c9dea62dd63"
+    },
+    {
+      "designation": "N-Iα-686",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-686_Torn_Window_찢어진_창.md",
+      "words": 6658,
+      "sha256": "e93c8da4b6706bb8f0ce128a76ec0e19c3da4b1278ffbbab4b0894733a80268b"
+    },
+    {
+      "designation": "C-IIβ-782",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-782_Flotsam_번져가는_유물.md",
+      "words": 6712,
+      "sha256": "f2c1c8ba66cf4b4fcd09293a58442a5dc81daa37fddc00c85662f841dc9b9785"
+    },
+    {
+      "designation": "N-Iα-905",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-905_Lacrima_영혼의_그릇.md",
+      "words": 6774,
+      "sha256": "e53644c343ebbe86ef18f94a5266e326a4d0a17a69f57fabaf4e6c7addbc428e"
+    }
+  ]
+}

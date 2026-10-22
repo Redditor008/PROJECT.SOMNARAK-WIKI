@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-21",
+  "kind": "comparative_research_not_dossier_review",
+  "baseline_commit": "766eba7da8e66cbb2004357b0b3e2ba4195a7178",
+  "owner_authorizes_batch": 164,
+  "batch164_opened": false,
+  "batch164_selected": [],
+  "completed_se_reviews": 0,
+  "ledger_changed": false,
+  "ledger_sha256": "a5ce49852e363203d6227aee02364d21c9ee17cd51375bfe8499156eb6e1a550",
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "visual_inspections": [
+    {
+      "label": "Nothing There, first breach form",
+      "source_page": "https://lobotomycorporation.wiki.gg/wiki/Nothing_There",
+      "attributed_file": "NothingThereBreaching.png",
+      "sha256": "ec06ea0a1cae8eedd745a5c49dbe357af0b98714be204d8c5837501b31890f7f",
+      "bytes": 21219,
+      "dimensions": [
+        120,
+        105
+      ],
+      "opened": true,
+      "observation": "Small cropped in-game view of an irregular low creature with raised appendage; insufficient for complete anatomy or scale.",
+      "authority": "Secondary wiki-attributed game image; not authenticated against an installed game",
+      "rehosted_in_repository": false
+    },
+    {
+      "label": "Nothing There, third breach form",
+      "source_page": "https://projectmoon.miraheze.org/wiki/Nothing_There/Lobotomy_Corporation",
+      "attributed_file": "Nothing_There_form_3_crop.webp",
+      "sha256": "ff66183ab9b46589874c8d2769bcae0857f136505a13a0a30d338274c70c4a84",
+      "bytes": 37650,
+      "dimensions": [
+        150,
+        287
+      ],
+      "opened": true,
+      "observation": "Tall red humanoid, eye motifs, open torso, enlarged arm; one still, not an animation inspection.",
+      "authority": "Secondary wiki-attributed game image; not authenticated against an installed game",
+      "rehosted_in_repository": false
+    },
+    {
+      "label": "Mimicry weapon",
+      "source_page": "https://lobotomycorporation.wiki.gg/wiki/Nothing_There",
+      "attributed_file": "EGOWeaponMimicry.png",
+      "sha256": "8bf913bd9c9e19962c442958fe98657ffca7be94548193d0a3126c4d86f6fc03",
+      "bytes": 28355,
+      "dimensions": [
+        500,
+        122
+      ],
+      "opened": true,
+      "observation": "Red eye-bearing blade, jagged organic outlines and a black handle. Actual opened contents matched Mimicry, not the unrelated Solemn Vow search hit with a colliding local filename.",
+      "authority": "Secondary wiki-attributed game image; not authenticated against an installed game",
+      "rehosted_in_repository": false
+    },
+    {
+      "label": "Penitence weapon",
+      "source_page": "https://lobotomycorporation.wiki.gg/wiki/One_Sin_and_Hundreds_of_Good_Deeds",
+      "attributed_file": "EGOWeaponPenitence.png",
+      "sha256": "863de209538ef23827aab55ff8854fc807ea34cce3234856fa413ea217626f36",
+      "bytes": 14734,
+      "dimensions": [
+        350,
+        162
+      ],
+      "opened": true,
+      "observation": "Cross-and-skull mace on a long shaft, thorn details; source-body image not accepted.",
+      "authority": "Secondary wiki-attributed game image; not authenticated against an installed game",
+      "rehosted_in_repository": false
+    },
+    {
+      "label": "Singing Machine in-game crop",
+      "source_page": "https://lobotomycorporation.wiki.gg/wiki/Singing_Machine",
+      "attributed_file": "SingingMachineCloseUp.png",
+      "sha256": "b136631118eb38437f10134dec4d5d19d68599a3fbf5a3cf53fbc030c4569041",
+      "bytes": 15912,
+      "dimensions": [
+        120,
+        81
+      ],
+      "opened": true,
+      "observation": "Box-like grinder with hinged upper section; no complete activation cycle observed.",
+      "authority": "Secondary wiki-attributed game image; not authenticated against an installed game",
+      "rehosted_in_repository": false
+    },
+    {
+      "label": "Punishing Bird attacked-form bite",
+      "source_page": "https://lobotomycorporation.wiki.gg/wiki/Punishing_Bird",
+      "attributed_file": "PunishingBirdSecondFormAttack.png",
+      "sha256": "a98c4013a3a4147cb510d93f1b0483511494942181ec9e0ae3e0960babe15bd2",
+      "bytes": 18093,
+      "dimensions": [
+        120,
+        118
+      ],
+      "opened": true,
+      "observation": "Large red toothed opening extends from the small bird; current-version source, not the separate Legacy search hit.",
+      "authority": "Secondary wiki-attributed game image; not authenticated against an installed game",
+      "rehosted_in_repository": false
+    }
+  ],
+  "source_sections": {
+    "https://lobotomycorporation.wiki.gg/wiki/Nothing_There": [
+      "Appearance",
+      "Normal Breach",
+      "E.G.O Equipment / Mimicry"
+    ],
+    "https://lobotomycorporation.wiki.gg/wiki/Punishing_Bird": [
+      "Appearance",
+      "Breach (Initial)",
+      "Breach (Attacked)",
+      "Management Tips",
+      "E.G.O Equipment / Beak"
+    ],
+    "https://lobotomycorporation.wiki.gg/wiki/The_Queen_of_Hatred": [
+      "Appearance",
+      "Ability",
+      "Passive Breach"
+    ],
+    "https://lobotomycorporation.wiki.gg/wiki/One_Sin_and_Hundreds_of_Good_Deeds": [
+      "Appearance",
+      "Escape Information",
+      "E.G.O Equipment / Penitence"
+    ],
+    "https://lobotomycorporation.wiki.gg/wiki/Singing_Machine": [
+      "Appearance",
+      "Ability",
+      "Escape Information",
+      "E.G.O Equipment / Harmony",
+      "Gallery"
+    ],
+    "https://lobotomycorporation.wiki.gg/wiki/Equipment": [
+      "Obtaining; page-quality warning noted"
+    ]
+  },
+  "supplementary_mirror": {
+    "repository": "ji415/lobotomy-wiki",
+    "commit": "b6ab34eda474fae0cf1575e1dddc1c7548040052",
+    "attribution": "Chinese Fandom community text mirror, CC BY-SA; not independent official evidence"
+  },
+  "excluded_sources": [
+    {
+      "repository": "Nilly00/LobotomyCorpCompanion",
+      "commit": "4c391b2519c5b3c74a2ed9ceb8e27d96ed101a1d",
+      "reason": "Five opened images include custom/stylized/redacted material; exclude as canonical visual evidence. Companion data is not game authority."
+    },
+    "Fan-mod mechanics, cosplay replicas, fan-branch sprites, Limbus character adaptations, Legacy bird image and unrelated weapon hit excluded."
+  ],
+  "local_orientation_source": "SOMNARAK-WORLD/MAW_Codex_Sets/README.md#overview",
+  "not_performed": [
+    "Direct official-game execution",
+    "Full animation or official-art audit",
+    "New whole-document SE review",
+    "Somnarak artwork",
+    "Running preview",
+    "Published site verification",
+    "Old hold clearance",
+    "Merge",
+    "Batch301 body generation"
+  ]
+}

@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Flerehan and Ferrehan, walked alongside. Pugnahan adds the worker's anger to the entity's mass and is prohibited outside a event. |
+| **Recommended response** | Flerehan and Ferrehan, walked alongside. Pugnahan adds the worker's anger to the entity's mass and is prohibited outside a containment event. |
 
 ### Operational Notes
 
@@ -392,7 +392,7 @@ Viderehan work reveals histories the city no longer carries, and the material is
 
 ### Pulsing in Place
 
-Its breach is a Corrupt rather than an escape: it pulses with concentrated force, cracking the walls around it, while the floor buckles and every step becomes effort. Response is structural, conducted by shoring crews under the weight-discipline doctrine, with the Years Maul carried by the shoring lead. The doctrine's instruction is to let the pulse run and keep the structure standing, and it is justified in the file by the only argument that has ever applied here: the entity is the accumulated weight of unacknowledged years, and the Directorate has no mechanism for acknowledging them fast enough to matter during an event. What it has is shoring timber, and crews who know how to use it.
+Its non-breach containment event corrupts its own zone rather than releasing the figure: it pulses with concentrated force, cracking the walls around it, while the floor buckles and every step becomes effort. Response is structural, conducted by shoring crews under the weight-discipline doctrine, with the Years Maul carried by the shoring lead. The doctrine's instruction is to let the pulse run and keep the structure standing, and it is justified in the file by the only argument that has ever applied here: the entity is the accumulated weight of unacknowledged years, and the Directorate has no mechanism for acknowledging them fast enough to matter during an event. What it has is shoring timber, and crews who know how to use it.
 
 ### The Long Chamber
 

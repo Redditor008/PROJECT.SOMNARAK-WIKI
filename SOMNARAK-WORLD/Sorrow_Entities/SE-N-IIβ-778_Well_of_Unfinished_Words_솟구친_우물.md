@@ -118,7 +118,7 @@
 |---|---|
 | **Form** | A well rising from border ground, filled with liquid sorrow that climbs rather than falls. Nearby walls lean toward it. |
 | **Position / movement** | Stationary — a structure or location. The Well of Unfinished Words file carries the series rather than a single reading. |
-| **Material / signature** | Lament, and nothing a camera can hold: the liquid climbs a shaft it should not climb, shows no reflection at any level, and is read against a graduated staff fixed to the inner wall. The walls around it lean inward by an amount the survey reports annually with its error stated. |
+| **Material / signature** | Lament: salt-cold damp smelling of cold rain; the liquid climbs a shaft it should not climb, shows no reflection at any level, and is read against a graduated staff fixed to the inner wall. The walls around it lean inward by an amount the survey reports annually with its error stated. |
 | **Distinctive markers** | Identify it by the climb and the absence of reflection. Other standing water is recorded on the border; this is the one whose surface rises in the shaft and shows nothing of whoever leans over it. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; several Zone E records share this origin, and arriving with the wrong one means arriving prepared to answer an entity that must only be heard. |
 
@@ -181,7 +181,7 @@
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The water in the shaft starts climbing before the channeler has finished speaking, and what comes back is not an echo — the well is holding the words open at the point where they were stopped. | Hold the channel and say nothing new. The repeat means the well is keeping the sentence available; talking over it restarts the climb. |
-| 30 Seconds | The climb reaches the second mark on the graduated staff and the walls lean in another degree. What surfaces is the need the Place was made from: to tell a loss and find nobody willing to hear it. | Keep listening. The level holds while anybody is speaking, whatever is being said, and it rises when the speaking stops — not while it continues. |
+| 30 Seconds | The climb reaches the second mark on the graduated staff and the walls lean in another degree. What surfaces is the need the Place was made from: to tell a loss and find nobody willing to hear it. | Keep listening. The level holds during an uninterrupted account. Distinguish an interruption from the speaker reaching their own ending: the former raises it, while the reference session records a fall at the latter. |
 | 1 Minute | The channeler's chest tightens, and not from the effort of channelling: it is the weight of everything the well is holding unfinished. Breathing becomes the work. | Sustaining the channel past the sixty-second mark costs four Composure per ten seconds. The operator should be planning to disengage rather than spending it. |
 | 2 Minutes | The water crests the coping. Whatever was poured into the shaft comes back out looking for a mouth to finish through, and it takes the channeler's voice first. | Abandonment here is worse than holding — the well keeps the words and the speaker loses them. Muteness for the rest of the shift is the mildest outcome on file, and everyone standing in the sector takes the shockwave. Do not drain the Well. |
 
@@ -397,7 +397,7 @@ Some sorrows are about losing. This one is about not being heard — mourning th
 **Common Name:** Well of Unfinished Words
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table for details.
+**Threat Assessment:** Moderate (β). Interrupted testimony raises the retained water level; overflow exposes the border ground to Lament pressure. The fixed shaft does not pursue personnel.
 **Containment & Handling Procedures:**
 - Work Type responses are in the Behavior section; two of the four do not apply to a fixed Place, which is how these records are written and not a gap in this one.
 - Standard containment protocols apply.
@@ -417,7 +417,7 @@ Some sorrows are about losing. This one is about not being heard — mourning th
 
 ### It Climbs
 
-The liquid climbs the shaft instead of settling, and the level is taken against a graduated staff set into the inner wall. The level responds to what is said nearby. Readings are therefore taken in silence by a single person, and the file notes that the silent-reading rule is the only procedure in the holding and is sufficient.
+The liquid climbs the shaft instead of settling, and the level is taken against a graduated staff set into the inner wall. The level responds to what is said nearby. Readings are therefore taken in silence by a single person, and the silent-reading rule prevents the observer from interrupting a testimony; it does not replace the listening watch or the structural survey.
 
 ### Walls That Lean Toward It
 

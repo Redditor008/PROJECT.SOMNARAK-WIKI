@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — nothing has ever been timed; the figure previously entered here was an encounter convention and is withdrawn |
+| **Speed** | N/A — no independent movement has been timed. An encounter speed is a resolution convention only; it measures neither a walking body nor the interval before a sitter first perceives the shadow. |
 | **Resistance** | 35% against Weight pressure; 25% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 390/390 |
@@ -185,7 +185,7 @@ All four Work Types are listed as valid and only three are performed. Pugnahan r
 
 **Appearance:** An ornate, dense iron-stone signet ring worn directly on the Specialist's index finger, engraved with ancient, worn debtor seals. When the bearer clenches their fist, the ring bends local space into a 120-degree forward cone of crushing gravitational force that slams targets into the floor under the unbearable weight of generational debt.
 
-**Ability:** *Generational Crush* — a short cone of downward force that pins a target to the floor. The stat line below is the single authoritative one; an earlier duplicate block gave different damage and a different speed for the same piece, and has been removed rather than reconciled, the armoury's note recording that it could not establish which had been fired.
+**Ability:** *Generational Crush* — a short cone of downward force that pins a target to the floor. The armoury records Weight 5–9, Normal 2 and Short 2 for issue, with a maximum of four pieces at 25 Sorrow Echoes each. Those figures describe the issued profile, not permission to treat everyone standing inside the cone as a target; the discharge record below is limited to one designated person and the opening balance still governs whether it fires.
 
 **Damage:** Weight 5–9
 **Speed:** 2 (Normal)
@@ -221,6 +221,8 @@ All four Work Types are listed as valid and only three are performed. Pugnahan r
 
 **Cost:** A low fatigue that does not lift for about two days and that wearers consistently under-report, so the relief reports it instead.
 
+The mantle separates carrying a burden from identifying oneself with it. Its panel nearest the heart darkens when a burden is classified as inherited rather than personal, holding that distinction for the operation without cancelling legal, emotional or social consequences. Removal returns recognition of what was deferred. The pale pressure mark left in the cloth and the wearer's account therefore belong together: staying upright at the table is not evidence that the burden has gone. Naming the deferred burden aloud to another person lightens the mantle; it does not settle the debt.
+
 ### M.A.W. Stigma — The Generational Ledger Scar
 
 **Category:** Stigma (Hand / Wrist Tally Scar)
@@ -242,6 +244,8 @@ All four Work Types are listed as valid and only three are performed. Pugnahan r
 
 The set is built around the opening entry: a ring that will not fire at a record that starts clean, a mantle worn from the table to the counselor's door, a scar that shows the bearer who incurred what. The armoury's note records that none of it was designed, that it was found piece by piece over nineteen years, and that the fourth piece attempted here — a tally that would have transferred a balance from one person's record to another's with the consent of neither — functioned exactly as specified and was destroyed before it left the bench.
 
+The Inheritance Set's resonance is *Name the Chain*. All pieces are worn during a witnessed lineage reading; the effect identifies the oldest still-active obligation, and the bearer carries that ancestor's fear until the reading is formally archived. Identification is not a collection order. The source resolution asks which parts are inherited, which are chosen, and which must not be carried further; neither forgiveness nor payment is a condition of that distinction. The counselor's follow-up and the completed archive are separate obligations, and ending the hour at the supervisor's clock does not by itself complete either.
+
 ### Field Use Record
 
 | Stage | Required record |
@@ -249,7 +253,7 @@ The set is built around the opening entry: a ring that will not fire at a record
 | **Before use** | Operator, piece, opening gauge, and the supervisor's clock set and shown to the sitter. No declaration of inheritance is taken, asked for, or inferred; that provision was fought for by the first chamber staff and has never been softened. |
 | **During use** | Which presentation and at what minute; entries as they are given, in the sitter's own words; the clock at ten-minute intervals, read aloud by the supervisor and not by the sitter. |
 | **At limit** | The clock stops the session. Extensions are not available, have never been granted, and the request form was removed from the chamber's stationery in the holding's first year. The sitter counts their entries at the table before standing up. |
-| **After use** | Mantle to the counselor's door, counselor contact the same day without exception, each entry checked against the instruments and marked verified, unverifiable or contradicted, and the offer of counselor contact repeated at intervals for as long as the worker remains in service. Several have taken it up years later. |
+| **After use** | Mantle to the counselor's door, counselor contact the same day without exception, each entry checked against the instruments and marked verified, unverifiable or contradicted, and the offer of counselor contact repeated at intervals for as long as the worker remains in service. Several have taken it up years later. The lineage reading is archived formally before the resonance's inherited fear is treated as discharged. |
 
 **Stat interpretation:** β across the set and correctly rated against entities. Against people it costs a day of weight, two of fatigue, a little age, and the permanent sight of what everyone around you owes, and the establishment has a column for the first two.
 ## 관찰 기록 (Observation Log)
@@ -378,7 +382,7 @@ Some sorrows are about debt. The Inherited Debt is about the debt that became th
 **Common Name:** The Inherited Debt
 **Containment Status:** Contained — SECTOR-C-01, Collector's Row; a room with a chair, a table and a clock, twice assumed by visiting reviewers to be an unfinished fit-out
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Moderate (β). It has never physically breached, has injured nobody, and cannot be perceived at all by most of the people who have sat in the room with it. What makes the holding consequential is that what it gives is true: eighty-one per cent of its entries have been verified against the Collector instruments and none has been disproved, so the hazard is a verified fact about a worker's own family that nobody chose to give them. The Registrum previously carried placeholder text in its classification, threat, procedure, observation, cross-reference and originator fields, every one of them reading see elsewhere; all six have been filled from the file.
+**Threat Assessment:** Moderate (β). It has never physically breached, has injured nobody, and cannot be perceived at all by most of the people who have sat in the room with it. What makes the holding consequential is that what it gives is true: eighty-one per cent of its entries have been verified against the Collector instruments and none has been disproved, so the hazard is a verified fact about a worker's own family that nobody chose to give them. The chamber therefore keeps classification, threat, procedure, observation, cross-reference and originator information together with the verified entries. A cross-reference cannot stand in for the sitter's account, and a filled ledger is never evidence that the person carrying it has recovered.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan lower the gauge; Viderehan holds it level and returns the ledger; Pugnahan raises it and returns nothing, and is recorded as valid but unused.
 - The session is sat alone, at the table, against the supervisor's clock. Duration limits are held by the supervisor and not by the sitter, extensions have never been granted, and the request form was removed from the chamber's stationery early in the holding's operation.
@@ -453,8 +457,8 @@ The chamber is a plain room containing a chair, a table, and the clock the super
 
 ### Registry Trivia
 
-- **Classification detail:** Subject, Entity (IV) — self-aware, communicates through debt visualisation — Moderate (β), Comprehension Level 3, Subject-Mind. The Registrum's six placeholder fields have been filled against the SECC header and the chamber file.
-- **Field detail:** Weight; SECTOR-C-01, Collector's Row. The SECC Movement cell recorded it as a stationary place and the Core Stat Line gave it a walking speed; it is neither, and both have been corrected.
+- **Classification detail:** Subject, Entity (IV) — self-aware, communicates through debt visualisation — Moderate (β), Comprehension Level 3, Subject-Mind. The designation identifies the inherited obligation rather than a body in the chamber; the sitter’s account remains the means of access and the supervisor records an empty hour without inventing an encounter.
+- **Field detail:** Weight; SECTOR-C-01, Collector’s Row. There is no independent walking body and no stationary vessel to secure. The shadow, whisper and chest pressure follow the perceiver; the encounter speed is a convention for resolving a confrontation, never a route along which guards could follow it.
 - **Recognition detail:** There is nothing to recognise. A sitter who can see it will say so within the first minute and a sitter who cannot will sit the hour and report nothing, and both outcomes are entered on the same form. The absence of a report is a reading and is counted as one.
 - **Record detail:** Check the designation and check when the obligation began. This holding is about a balance that was already on the record on the first day of service. Debts that grow, debts that fall due and debts that are chased are other holdings and other approaches, and a team that works all of them the same way will be wrong about three of them.
 - **Containment detail:** There is no boundary here to hold. The room is plain because equipment in it would record nothing, and two reviewers have taken that for an unfinished fit-out. What leaves the chamber is a verified fact in somebody's head, and the only thing that has ever reduced the supply of those is a treasury decision taken four districts away.

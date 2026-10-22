@@ -175,7 +175,7 @@
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-Appearance : An archaic wheel-lock horse pistol with a sixteen-inch iron barrel coated in flaky red rust, an oversized lock mechanism, and an elongated walnut stock ending in an iron skull-pommel.
+**Appearance:** An archaic wheel-lock horse pistol with a sixteen-inch iron barrel coated in flaky red rust, an oversized lock mechanism, and an elongated walnut stock ending in an iron skull-pommel.
 
 The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidation powder. The discharged iron ball leaves a trail of choking rust dust that accelerates metal fatigue in armor.
 
@@ -200,6 +200,8 @@ The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidati
 
 **Appearance:** a shroud of Lament Han-silk in undyed grey, cold to the hand, that keeps the crease of whoever sat in it last and does not warm while it is worn.
 
+The protection belongs to a watch actually sat, not to an assurance that another watch will follow. Binding names the unanswered friendship and keeps that waiting distinct from the wearer’s own relationships. When the abandonment starts being described as personal history, the cloth’s numbness has become a source-attribution failure as well as the loss of small joys already logged by the observer.
+
 **Resistances:**
 - Lament: 0.4 (Resistant)
 - Grudge: 1 (Normal)
@@ -218,6 +220,8 @@ The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidati
 
 **Appearance:** a circlet of Lament Han-crystal on a wire band, pale as old ice, that runs cooler the nearer its wearer stands to the sorrow it was taken from.
 
+The Crown changes the bearer’s perception within an emotional crisis; it does not move an appointment or keep somebody else’s return. Comfort still carries the other person’s pain into the wearer. A clearer interval for that work is not a discharge of the watch, nor does the +1 source-work bonus establish whose grief the bearer is feeling.
+
 **Slot:** Tail
 **Acquisition Probability:** 5%
 **Effect:** +1 to work against Neverlast itself, and nothing elsewhere in Old Lament.
@@ -232,6 +236,10 @@ The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidati
 
 Every piece in this set is a fragment of Neverlast and carries what Neverlast carries: the wielder weeps involuntarily, most often on arriving somewhere early and waiting. The three charges run the same way as the holding — the pistol spends the arrangements nobody came back for, the shroud takes the notice of being kept waiting, and the crown trades the wearer's sense of time for somebody else's pain — and on this set the wielder bears all three, the grade having described extraction stability and never the cost.
 
+*Neverlast — Witnessed Form* uses *Source Kept Distinct*: the Crown identifies the source condition, the Shroud bears Lament, and the Weapon stays an immediate manifestation only after attribution. The originating unanswered friendship is not healed by that intervention. Binding accepts attendance and acknowledgment without a promised return; violating that limit reverses the benefit and raises the Gauge.
+
+Corrosion progresses from treating Neverlast’s event as one’s own to repeating its response outside contact, then to becoming a new site for the manifestation. At handover, a named witness states Neverlast and the unanswered friendship while the bearer relinquishes the item. Record the trigger, response, paid cost and unresolved detail before cleaning or resting the equipment. The figure itself is never cleaned: item care gives no authority to repeat the two cleanings that enlarged the spread.
+
 ### Field Use Record
 
 | Stage | Required record |
@@ -239,7 +247,7 @@ Every piece in this set is a fragment of Neverlast and carries what Neverlast ca
 | **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else: what the wielder is currently late for, said aloud and written down by the second worker, because the first thing to go on this set is the notice a person takes of their own kept and unkept engagements. Baseline taken twice; a wielder who cannot give the same answer twice is not issued the piece. |
 | **During use** | The charge presents as arrival and waiting: the wielder turns up early, waits, and weeps on arrival without being able to say why. The second worker logs the hour and not the reason; the wielder's own account is taken separately and afterwards, and neither sheet is read by a supervisor. |
 | **At limit** | The wielder has gone numb to minor joys and has stopped noticing being kept waiting, and has stopped reporting it — the usual end point for a Neverlast piece, and the one the observer is watching for. The observer calls the limit and the piece comes off whether or not the wielder agrees; the call is logged as the observer's. |
-| **After use** | Piece returned and re-assessed a week later rather than on the day, because the numbness does not present at once. The baseline is re-taken, the fortnight of noticing is entered against the holding rather than the person, and a wielder whose baseline does not come back is not issued the piece again. |
+| **After use** | Piece returned and re-assessed a week later rather than on the day, because the numbness does not present at once. The baseline is re-taken, the fortnight of noticing is entered against the holding rather than the person, and a wielder whose baseline does not come back is not issued the piece again. The witnessed return preserves attribution without refunding the grief or scheduling another attendance. |
 
 **Stat interpretation:** The rating describes what a piece does to entities and says nothing about what it does to its bearer. All three pieces in this set are β-grade and all three take something no sheet can show — the notice of one's own obligations, the warmth of a minor joy, the sense of time during somebody else's crisis — so the Armoury authorises on the cost column rather than on the grade, and issues this set one rotation at a time.
 ## 관찰 기록 (Observation Log)

@@ -235,6 +235,8 @@ Held in the palm like an assassin's punch, the awl drives deep through heavy hid
 
 **Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries the scent of rain on stone and is just bright enough to be read by in the dark of the Gardens.
 
+The Shroud protects by scale and says so: it discards every feeling below a certain size, and it does not distinguish between a small grief and a small pleasure. A wearer keeps their composure and loses the taste of ordinary good days, and the armoury records the trade without any mechanism for reading it back — the wearer is the last person able to notice what the garment has started calling small.
+
 **Resistances:**
 - Lament: 0.4 (Resistant)
 - Grudge: 1 (Normal)
@@ -263,18 +265,22 @@ Held in the palm like an assassin's punch, the awl drives deep through heavy hid
 
 *The Ring is given, not taken. It appears on workers who finished a Ferrehan cycle without once calling the assignment minor, and no deliberate procedure has ever produced one.*
 
+The Ring's function is the one the catalogue rates lowest and the wing keeps the longest record on: it heals minor wounds through touch, sealing cuts and puncture wounds that would otherwise be left to close on their own. What it charges is attention — the wearer feels the weight of every sorrow they come near, which on a Gardens rotation is not a figure the quartermaster can forecast, and the bonus stays small because the piece is issued for one small healing at a time and the file says so.
+
 ### M.A.W. Use Notes
 
 Each piece remains part of the Tear, and each one is slightly less impressive than its grade suggests. The awl is five-to-nine damage at short range. The shroud wards one element. The ring closes cuts. Personnel who come to this set from a δ-grade loadout consistently under-equip from it and consistently report afterwards that the costs were heavier than anything on the sheet, because the sheet records magnitude and this entity has never been about magnitude. Used as intended — one wound at a time, one wearer, one small healing — the set is dependable. Used as a supplement to something larger, it quietly teaches its operator to discount the small, which is the condition the Tear was made from.
+
+Two rules govern issuing. A piece acts only after the response has been attributed to Tear Too Small to Honor; attributed, it is a wound placed deliberately rather than a bad hour, and the file keeps the two apart. The set's limit is the entity's own management condition — the condition satisfied and the Sorrow Gauge below 25% — and a bearer who has begun describing the visitor's tear as their own story has already crossed it. Violating the limit reverses the piece's benefit and raises the source Gauge, and the ladder runs one way: first-person description of the event, then the piece repeating the source response outside contact, then the terminal state in which the manifestation uses the bearer as its new site. A named witness closes a piece by stating the source title and the source event while the bearer relinquishes it; the shutdown preserves the record in full and refunds nothing.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Tear Too Small to Honor takes: the wielder weeps, at inconvenient times, for a loss that is not theirs and that they cannot name. Operatives have reported finding the weeping more h. |
+| **Before use** | Wielder, piece, and a dated baseline against what Tear Too Small to Honor takes: the wielder weeps, at inconvenient times, for a loss that is not theirs and that they cannot name. Operatives have reported finding the weeping more humiliating than any injury the awl has caused them, which is itself the toll. |
 | **During use** | The first sign is weeping at an inconvenient hour, for a loss that is not the wielder's and cannot be named. The second is the wielder calling a small thing small. The hour of the first sign is entered by the second worker, because the wielder's account of their own day is the thing the set quietly edits. |
-| **At limit** | Protection is achieved by scale. The shroud discards every feeling below a certain size, and it does not distinguish between a small grief and a small, without remission. On a Tear Too Small to Honor piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece and ask a colleague — not the wielder — whether the cost is still showing: the tell is a week in which nothing was allowed to matter. The baseline opened at the end of the rotation is compared against what the wielder said, unasked, in the first hour. |
+| **At limit** | Protection is achieved by scale. The shroud discards every feeling below a certain size, and it does not distinguish between a small grief and a small pleasure, without remission, and on this set the use ends there whatever the wielder says. On a Tear Too Small to Honor piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece and ask a colleague — not the wielder — whether the cost is still showing: the tell is a week in which nothing was allowed to matter. The baseline opened at the end of the rotation is compared against what the wielder said, unasked, in the first hour. Where a piece was closed on the set's own condition, the named witness, the source title and event as stated, and the unrefunded cost are entered with the return, and the record stands in full. |
 
 **Stat interpretation:** Read the β grade against the α entity and the mismatch is the point: equipment cut from a Minor residue outperforms the residue itself, and nothing in either number records what the wearer gives up. Treat the Cost lines as the specification and the damage values as a footnote to them.
 ## 관찰 기록 (Observation Log)

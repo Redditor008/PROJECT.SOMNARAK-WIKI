@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 10–14 per successful cycle, read off the plumb line rather than the tower |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · α (Minor) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
 | **Recommended response** | The plumb series runs unbroken and the Rule of Published Withdrawal holds in every office that announces anything past these walls. Viderehan and Ferrehan are the only work authorised here, and nothing outside them has ever been signed off. |
@@ -96,7 +96,7 @@
 - A worker who stays past the second hour starts composing withdrawals. They draft them silently, for projects that are not theirs and have not been cancelled, and they are often good drafts. The Composure loss shows up afterwards as an unwillingness to commit to anything in writing.
 - Sustained proximity inside the interior rooms produces a specific and repeatable error: the operative remembers having been told the tower was finished. They do not believe it, but the memory is there and it is dated, and it has to be struck from their statement by hand.
 - The relic will not detach from a bearer who has an unpublished withdrawal of their own. There is no injury and no struggle; the bracket simply does not release, and the bearer walks back to the office wearing it.
-- Left unread for a full quarter, the lean does not accelerate. It holds, and the footing plate corrodes, and the next team has to re-establish the datum before any reading means anything. The failure mode here is a broken series rather than a event.
+- Left unread for a full quarter, the lean does not accelerate. It holds, and the footing plate corrodes, and the next team has to re-establish the datum before any reading means anything. The failure mode here is a broken series rather than an event.
 
 ## Appearance
 **Physical Form:** A tower-shaped crystal structure that slowly melts upward, leaving no rubble behind.
@@ -234,6 +234,8 @@ There is no event here in the sense the word is used elsewhere in this archive. 
 
 **Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
 
+Upward-flowing seams surround one current-body outline. Binding confirms a present-location anchor before every wear, not a place reserved in an imagined room. A wearer adopting an intended occupant’s life is no longer simply observing; longing has crossed into residence. Hang the Veil over a current-site marker until its seams stop rising, never fitted to a phantom room.
+
 **Resistances:**
 - Lament: 1.2 (Weak)
 - Grudge: 0.8 (Warded)
@@ -252,9 +254,11 @@ There is no event here in the sense the word is used elsewhere in this archive. 
 
 **Appearance:** a brick-tile of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
+Its projection keeps intended use and occupant flow distinct from completed walls. Unsupported doors, intended users treated as orders to current citizens, and grief for every abandoned plan as personal failure are successive warning signs. Compare funding, plan, site and actual occupancy with “intended,” “built” and “used” in separate fields. Knowing a purpose does not certify that anyone occupied it.
+
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 when working this entity, and a standing requirement that the holder read the district notice board before each session.
+**Effect:** +1 Composure when working this entity, and a standing requirement that the holder read the district notice board before each session.
 
 **Ability:** Reveals the intended purpose of an unfinished structure.
 
@@ -265,6 +269,8 @@ There is no event here in the sense the word is used elsewhere in this archive. 
 ### M.A.W. Use Notes
 
 The three pieces here are weak by grade and are kept for a reason that has nothing to do with their ratings. Each one makes a different part of the same mechanism visible: the lens shows a person their own abandoned work finished, the veil holds a wearer's grip on what they have actually delivered, and the brick arrives only on days when somebody in the city published a withdrawal. Issued together to a single operative they have twice produced a usable account of how the structure works, which is more than sixty years of observation at the site has managed.
+
+The set is *The Unbuilt Form*. At issue, keep the plan and current-site map on opposite sides of the Lens and name the difference between them. Neither a convincing image through the glass nor the Brick’s intended use is evidence of a delivered undertaking. The Veil’s present-location anchor and the operative’s list of still-open commitments remain attached to the return record. Equipment care cannot publish a withdrawal to the district that heard the promise.
 
 ### Field Use Record
 
@@ -397,7 +403,7 @@ Some sorrows mourn what was built and destroyed. Folly mourns what was never bui
 **Comprehension Level:** 1 — Initial
 **Threat Assessment:** Low, and low on evidence rather than on assumption: sixty years, no injury, no movement off the footing, no personnel lost. The hazard is occupational and slow, and it is borne by the people who read it rather than by anyone who meets it.
 **Containment & Handling Procedures:**
-- Ferrehan is the Work Type that lowers the gauge. Viderehan holds it level and is run for the record, not for the reduction; earlier editions of this entry had the two reversed and personnel were assigned on that basis for nine years.
+- Ferrehan is the Work Type that lowers the gauge. Viderehan holds it level and is run for the record, not for the reduction. The gauge belongs to the session; the independent plumb reading is taken again even after successful work, with the hour of each figure entered on the sheet.
 - Two plumb readings a session, hour against each, series unbroken. Footing datum resurveyed annually.
 - Do not true the apex. Do not finish, model, or render the structure, and do not tell it that it will be built.
 - The Rule of Published Withdrawal is a containment condition of this entity and is enforced facility-wide by the Directorate, not by the site team.
@@ -423,7 +429,7 @@ Some sorrows mourn what was built and destroyed. Folly mourns what was never bui
 
 ### Registry Trivia
 
-- **Classification detail:** Object/Place, Residue (I), Minor (α), Comprehension Level 1. The Registrum block carried Entity (IV), Major (γ) and Level 2 for an unknown period and was corrected against the SECC header; assessments drawn from the old figures should be re-read.
+- **Classification detail:** Object/Place, Residue (I), Minor (α), Comprehension Level 1. The source is read against its own footing datum and its own district notices, not another tower’s work schedule or history of collapse.
 - **Field detail:** Void, Zone E, Border region, at the prepared site. The structure has never been anywhere else and the footing is surveyed annually to prove it.
 - **Recognition detail:** Identify it by the lean and the plate, not by the melt. The upward melt is the detail everyone repeats and it is the least useful one in the field, because it is slow enough to be invisible inside a single session. The bracket at the apex, the plumb cord, and the graduated plate set into the footing are the instrument; the reading is the entity's only honest statement about itself.
 - **Record detail:** Check the designation before approach, and check which record you are actually working. The archive holds several entities formed around things the city failed to deliver, and they do not ask the same thing of a reader. The Corrosion Dream turns on money raised for a repair and quietly returned unspent, which is a question about funds; this turns on a promise made in public and withdrawn in private, which is a question about speech. A district can be paid back in full and still never be told.

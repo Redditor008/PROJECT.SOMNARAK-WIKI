@@ -1,0 +1,310 @@
+{
+  "batch": 157,
+  "status": "CLOSED",
+  "opening": {
+    "batch": 157,
+    "base": "50d2a18c3fe647d9b9345a49bcfc20667c9c62ef",
+    "pending": 240,
+    "candidates": 87,
+    "pattern": "changes? shape|shifts? between.*forms|became (?:a|an|the) ",
+    "selection": "Pending only; exclude exactly the level-two M.A.W. Equipment section, preserving later sections. Rank descending matching-line count, then full designation. Cues prioritize reading, not defects.",
+    "queue": [
+      {
+        "designation": "C-IVδ-869",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-869_Rising_Well_솟아오른_우물.md",
+        "signals": 2,
+        "evidence": [
+          "- **Formation:** The Well formed from rage buried so deeply that it became an inner landscape.",
+          "They buried the rage after the massacre, and the buried rage, generations later, rose inside the minds of their descendants, and the rising became a well."
+        ],
+        "sha256": "d94de956d212c2a53506ed291eaebcd6e2021a21b784266058375a10ec650a7b"
+      },
+      {
+        "designation": "C-Iα-071",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md",
+        "signals": 2,
+        "evidence": [
+          "She walked Zone B tending the wounded, and she could not save them all, and the ones she lost she carried, and the carrying became a figure that still heals and still cannot heal itself.",
+          "She died after a lifetime of this. Old, exhausted, carrying the weight of every person she had failed to reach. And the compassion, which had driven her to walk Zone B for a lifetime, and the sorrow, which had accumulated from every citizen she could not save — the two together sank into the Weeping and became a figure."
+        ],
+        "sha256": "337d58e3faaa2563ff18ff9772c09055909698894e38f8ec02ef47a4e021526f"
+      },
+      {
+        "designation": "C-Iα-247",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-247_Torn_Flower_찢어진_꽃.md",
+        "signals": 2,
+        "evidence": [
+          "The mourner did not return in time, and the flower she had planted was torn from the garden before she could see it bloom, and the torn bloom became a figure.",
+          "> *“Beauty damaged before it could bloom fully. The torn bloom became a figure.”* — Citizen, Echo Gardens"
+        ],
+        "sha256": "2f634d8f4dba2529363f769c0385d8cfff4548751baf6f6bc2d2a12e3990691d"
+      },
+      {
+        "designation": "C-Iα-392",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-392_Mirror_of_Rising_솟아오른_거울.md",
+        "signals": 2,
+        "evidence": [
+          "The district forgot its own name, and the name, forgotten by everyone, became a mirror that rises, looking for a face to belong to.",
+          "> *“Identity erased at the scale of a community. The accumulated selfhood, forgotten, became a mirror.”* — Keeper, Archive"
+        ],
+        "sha256": "6a1b358675f99bc46557a59274839a1bcece4f845119542fe1048e98d0ca50b0"
+      },
+      {
+        "designation": "C-Iα-863",
+        "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-863_Absent_Landmark_가라앉은_탑.md",
+        "signals": 2,
+        "evidence": [
+          "- **Formation:** The Tower formed from a structure that became a person only after it was lost.",
+          "The tower fell, and the city cleared the rubble, and the district, which had looked at the tower every day of its life, kept looking for it, and the looking became a presence."
+        ],
+        "sha256": "9bb0272f27fd3d9c783affbbdc66219ab9deb7f22a7650006689fe54cc083958"
+      }
+    ],
+    "authorization": "Owner pp + wip and changelog always updated rightp + wip and changelog always updated right, after Batch156. Repeated p authorizes one next batch only:157. WIP and CHANGELOG maintained with every unit and closure.",
+    "repair_direction": "Actively improve the complete documents using exact sources under R-33. No invented resolutions, forced edits, duplicate equipment credit or unsupported SE completion.",
+    "recovery": {
+      "ref": "50d2a18c3fe647d9b9345a49bcfc20667c9c62ef",
+      "checked": 2406,
+      "differences": []
+    }
+  },
+  "validators": {
+    "C-IVδ-869": {
+      "verify": {
+        "status": "PASS",
+        "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+      },
+      "tpl": {
+        "status": "PASS",
+        "output": "RESIDUE 0  SE-C-IVδ-869_Rising_Well_솟아오른_우물.md\n"
+      },
+      "sectfile": {
+        "status": "PASS",
+        "output": " 0.013  clean   524 grams  감각 묘사 (Flavor Text)\n 0.008  clean   130 grams  Containment Event Behavior\n 0.007  clean   557 grams  M.A.W. Equipment\n 0.002  clean   491 grams  Combat Record\n 0.000  clean  1516 grams  Apex Record\n 0.000  clean   356 grams  이야기 (Narratio)\n 0.000  clean   308 grams  기록 (Registrum)\n 0.000  clean   261 grams  Appearance\n 0.000  clean   225 grams  이야기 보고 (Story Log)\n 0.000  clean   223 grams  관찰 기록 (Observation Log)\n 0.000  clean   183 grams  Operational Parameters\n 0.000  clean   164 grams  Behavior\n 0.000  clean   153 grams  Origin\n 0.000  clean   112 grams  Trivia\n 0.000  clean    65 grams  최종 관찰 (Final Observation)\n 0.000  clean    58 grams  증언 (Testimonium)\n 0.000  clean    38 grams  SECC Classification\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n"
+      },
+      "wikistd": {
+        "status": "PASS",
+        "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+      },
+      "sect": {
+        "status": "PASS",
+        "output": "   85   1  | { *The Floating Sea* [**Ultimate**] } | \"Every buried thing in the district comes up at once and the air is full of water that w\n  166   1  - **Sorrow Gauge on event:** Opens at 40% and rises 10% a turn unaddressed. Both recorded events ended by restraint rather than by\n  237   4  **Full-set source review (2026-10-11):** Reviewed the `δ · δ` grade overview, all three local M.A.W. blocks, Use Notes, Field Use \n  307   2  This holding is read against the other things in the district that hold or move anger, and all three relations are measured on the\n  314   5  The relations below are canonical points of contact, not alliances. None is settled, and a result obtained once carries no authori\nGENERIC 0.002  (13 shared shingles)  SE-C-IVδ-869_Rising_Well_솟아오른_우물.md\n"
+      }
+    },
+    "C-Iα-071": {
+      "verify": {
+        "status": "PASS",
+        "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+      },
+      "tpl": {
+        "status": "PASS",
+        "output": "RESIDUE 0  SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md\n"
+      },
+      "sectfile": {
+        "status": "PASS",
+        "output": " 0.028  clean   286 grams  기록 (Registrum)\n 0.022  clean   599 grams  Combat Record\n 0.019  clean   106 grams  Operational Parameters\n 0.010  clean   205 grams  Appearance\n 0.008  clean  1047 grams  M.A.W. Equipment\n 0.005  clean   774 grams  Care Record\n 0.000  clean   678 grams  감각 묘사 (Flavor Text)\n 0.000  clean   423 grams  이야기 (Narratio)\n 0.000  clean   248 grams  이야기 보고 (Story Log)\n 0.000  clean   232 grams  Trivia\n 0.000  clean   199 grams  관찰 기록 (Observation Log)\n 0.000  clean   191 grams  Behavior\n 0.000  clean   176 grams  Origin\n 0.000  clean   148 grams  Breach Behavior\n 0.000  clean   117 grams  최종 관찰 (Final Observation)\n 0.000  clean    47 grams  SECC Classification\n 0.000  clean    37 grams  증언 (Testimonium)\n 0.000  clean    19 grams  Transformation Chain\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n"
+      },
+      "wikistd": {
+        "status": "PASS",
+        "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+      },
+      "sect": {
+        "status": "PASS",
+        "output": "   31   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |\n   55   2  | **Resistance** | 15% against Lament pressure; 5% against everything else. Nothing is rated against the care itself: the Healer's\n   84   4  | { *The Full Cure* [**Attack**] } | \"The healer tries to fix everything at once — and the concentrated care is devastating.\" | [C\n   85   7  | { *The Sanatorium* [**Ultimate**] } | \"The healer extends its care to everyone — and the combined cost of universal healing crus\n  122   2  | **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every The Kind Healer cycle against the pre\n  260   6  | **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline put by a colleague: name the last person whose pain y\n  262   2  | **At limit** | The wearer goes numb to minor joys, without remission, and the file's test is the baseline question: a bearer who\n  400   6  **Operational interpretation:** The classification is the frame and this record is the picture, and neither replaces standing at t\n  402   2  **Review requirement:** After every incident, recheck the gauge, the field, the personnel and the location — and on this holding r\n  421   4  The watchers asked for one question. Four words — *are you all right* — and permission to write down the answer. The answer from t\nGENERIC 0.007  (37 shared shingles)  SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md\n"
+      }
+    },
+    "C-Iα-247": {
+      "verify": {
+        "status": "PASS",
+        "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+      },
+      "tpl": {
+        "status": "PASS",
+        "output": "RESIDUE 0  SE-C-Iα-247_Torn_Flower_찢어진_꽃.md\n"
+      },
+      "sectfile": {
+        "status": "PASS",
+        "output": " 0.020  clean   544 grams  Combat Record\n 0.020  clean   102 grams  Operational Parameters\n 0.013  clean   934 grams  M.A.W. Equipment\n 0.012  clean   172 grams  Breach Behavior\n 0.010  clean   295 grams  기록 (Registrum)\n 0.002  clean   618 grams  Bloom Record\n 0.000  clean   551 grams  감각 묘사 (Flavor Text)\n 0.000  clean   397 grams  이야기 (Narratio)\n 0.000  clean   266 grams  이야기 보고 (Story Log)\n 0.000  clean   224 grams  Trivia\n 0.000  clean   211 grams  관찰 기록 (Observation Log)\n 0.000  clean   208 grams  Appearance\n 0.000  clean   186 grams  Behavior\n 0.000  clean   173 grams  Origin\n 0.000  clean   105 grams  최종 관찰 (Final Observation)\n 0.000  clean    43 grams  증언 (Testimonium)\n 0.000  clean    41 grams  SECC Classification\n 0.000  THIN      5 grams  (preamble)\n0 section(s) over 0.05\n"
+      },
+      "wikistd": {
+        "status": "PASS",
+        "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+      },
+      "sect": {
+        "status": "PASS",
+        "output": "   31   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |\n   55   2  | **Resistance** | 15% against Grudge pressure; 5% against everything else. Nothing is rated against the bloom itself, which does \n   84   4  | { *The Uprooting* [**Attack**] } | \"It is torn from the earth — and it tears back.\" | [Pulled out of the crack, the bloom tears \n   85   5  | { *The Whole Bouquet* [**Ultimate**] } | \"Every torn flower in the place opens at once — and every one of them is angry.\" | [Eve\n  166   2  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for every crack along the route that takes spore and holds it, not with t\n  233   1  | **After use** | Return the piece, then ask a colleague rather than the wielder whether the cost is still showing — the dulled re\n  237  11  **Full-set source review (2026-10-12):** Reviewed the `Granted pieces · α` overview, every local Weapon/Suit/Stigma block, Use Not\n  376   3  **Review requirement:** After any breach, Sorrow Tide, expansion, transformation attempt or unusual interaction, re-verify the tea\n  395   1  The ward clerks asked for the obvious remedy: leave the boards up for three days so that every rotation passes the gate. The desks\nGENERIC 0.006  (31 shared shingles)  SE-C-Iα-247_Torn_Flower_찢어진_꽃.md\n"
+      }
+    },
+    "C-Iα-392": {
+      "verify": {
+        "status": "PASS",
+        "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+      },
+      "tpl": {
+        "status": "PASS",
+        "output": "RESIDUE 0  SE-C-Iα-392_Mirror_of_Rising_솟아오른_거울.md\n"
+      },
+      "sectfile": {
+        "status": "PASS",
+        "output": " 0.035  clean   850 grams  M.A.W. Equipment\n 0.020  clean   495 grams  기록 (Registrum)\n 0.014  clean   141 grams  Operational Parameters\n 0.012  clean   494 grams  Combat Record\n 0.007  clean   561 grams  감각 묘사 (Flavor Text)\n 0.001  clean   971 grams  이야기 보고 (Story Log)\n 0.000  clean   589 grams  Watch Record\n 0.000  clean   390 grams  이야기 (Narratio)\n 0.000  clean   323 grams  관찰 기록 (Observation Log)\n 0.000  clean   267 grams  Origin\n 0.000  clean   252 grams  Appearance\n 0.000  clean   241 grams  Trivia\n 0.000  clean   225 grams  Containment Event Behavior\n 0.000  clean   130 grams  최종 관찰 (Final Observation)\n 0.000  clean   121 grams  Behavior\n 0.000  clean    60 grams  증언 (Testimonium)\n 0.000  clean    36 grams  SECC Classification\n 0.000  THIN      2 grams  (preamble)\n0 section(s) over 0.05\n"
+      },
+      "wikistd": {
+        "status": "PASS",
+        "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+      },
+      "sect": {
+        "status": "PASS",
+        "output": "   31   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 15% against Weight pressure; 5% against other pressure types |\n   91   5  3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name what is kno\n  179   2  **Appearance:** a heavy hammer of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.\n  200   3  **Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.\n  218   2  **Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that catches the light oddly.\n  244  25  **Full-set source review (2026-10-11):** Reviewed the `β · β` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Note\n  278   1  The first return under the Rule of the Retained Name, Year 4238. Before it, a ward absorbed by amalgamation had its name struck fr\n  329   1  Three records are grouped with this one and all three are grouped by mirrors or by names, which is grouping by furniture. What sep\n  331   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  333   1  | **The Broken Mirror** | Grouped on the surface and on nothing else. That holding acts on the person looking; this one shows the \n  378   2  - The Rule of the Retained Name is a containment condition of this entity and binds the gazetteer office and every plate it commis\n  386   5  **Faction Involvement:** SED (C-territory survey) · the gazetteer office and the dispatch directorate, both listed on an entity fi\n  391   3  **Operational interpretation:** Read this file with the strike list and the dispatch statement beside it, which is now a requireme\nGENERIC 0.009  (55 shared shingles)  SE-C-Iα-392_Mirror_of_Rising_솟아오른_거울.md\n"
+      }
+    },
+    "C-Iα-863": {
+      "verify": {
+        "status": "PASS",
+        "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+      },
+      "tpl": {
+        "status": "PASS",
+        "output": "RESIDUE 0  SE-C-Iα-863_Absent_Landmark_가라앉은_탑.md\n"
+      },
+      "sectfile": {
+        "status": "PASS",
+        "output": " 0.028  clean    71 grams  Operational Parameters\n 0.023  clean   702 grams  Combat Record\n 0.015  clean   201 grams  Breach Behavior\n 0.011  clean   438 grams  기록 (Registrum)\n 0.011  clean   283 grams  Trivia\n 0.003  clean   688 grams  감각 묘사 (Flavor Text)\n 0.002  clean   478 grams  이야기 보고 (Story Log)\n 0.000  clean   839 grams  M.A.W. Equipment\n 0.000  clean   387 grams  관찰 기록 (Observation Log)\n 0.000  clean   312 grams  이야기 (Narratio)\n 0.000  clean   237 grams  Appearance\n 0.000  clean   213 grams  Behavior\n 0.000  clean   200 grams  Origin\n 0.000  clean   113 grams  최종 관찰 (Final Observation)\n 0.000  clean    43 grams  증언 (Testimonium)\n 0.000  clean    42 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n"
+      },
+      "wikistd": {
+        "status": "PASS",
+        "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+      },
+      "sect": {
+        "status": "PASS",
+        "output": "   31   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |\n   55   4  | **Resistance** | 15% against Void pressure; 5% against other pressure types. Nothing is rated against the sinking itself, which \n   81   3  | { *The Sinking* [**Debuff**] } | \"The ground gives under the figure the way it gave under the tower, and the reading goes down w\n   82   1  | { *The Drowned Bell* [**Debuff**] } | \"A bell sounds from under the street, muffled, as though the building took its bell down w\n   83   1  | { *The Pull Down* [**Attack**] } | \"Something under the pavement has hold of your ankle, and it knows the way down.\" | [The foun\n   84   1  | { *The Foundations* [**Attack**] } | \"Everything the tower was built on comes up at once, and none of it is rubble.\" | [The buri\n   85   8  | { *The Deep* [**Ultimate**] } | \"The descent finishes, the street closes over it, and the district forgets there was ever a junc\n  166   3  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each map, address list, or route description reissued with the corner\n  285   1  Management: Record its former location; do not attempt to rebuild it around the entity. Work response — Flerehan: Stops sinking an\n  324   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  371   1  **Faction Involvement:** SED, on the D-territory survey whose standard now carries the absent-feature notation this holding forced\n  378   4  **Review requirement:** Re-take the measurements before the next cycle and after any breach: exposed height against the bay datum \n  391   3  - **Record detail:** Check the designation before approach. The archive holds other records about places the city stopped using an\nGENERIC 0.006  (34 shared shingles)  SE-C-Iα-863_Absent_Landmark_가라앉은_탑.md\n"
+      }
+    }
+  },
+  "units": [
+    {
+      "designation": "C-IVδ-869",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-869_Rising_Well_솟아오른_우물.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_01_RISING_WELL.md",
+      "change": "Identification now uses existing ordinary-contact subjective song/rim reports instead of promising an exterior visible shaft; preserves the two Wrath Flame exceptions as exceptional, not repeatable tests. Three event-article errors corrected. No attack, material, stat, number, timing, permission or source history changed.",
+      "holds": [
+        "Subject nonbreaching/transform-in-place versus exact A Can breach. Ordinary invisible inner shaft versus material raised shaft/travel station, inverted water/antigravity/vertical physical hits, heights and seasonal fixed ground. Two recorded Wrath Flame external sightings support exceptions, not every physical combat account or a repeatable trial; mobile people versus stationary shaft still unjoined. Absolute never-visible markers remain broader than those sightings.",
+        "Source Tale has forgotten inaccessible massacre cause; Apex Buried Record and primary Registrum say comprehensively known/open; director/addendum/hearing objection say documents establish burial but explain no cause. No historical epistemic transition supplied. Association refusal/individual-claim liability is preserved rather than settled.",
+        "Pugnahan absolute prohibition versus valid listed/exception-on-written-authority; Master Tale explicitly older primary approach with some primary correction, not a new permission. Threshold1/Core90/ultimate65 scopes unjoined. Two-worker contact versus three-person restraint supported different phases, not automatically a contradiction. Work shift lowering is not event lowering.",
+        "Rising Well Fang/Plate/Stone versus Well Within names; primary iron blade versus Master PRIMAL/Bio/Marrow and optical Instant archetype1037; no B/C/D concrete appearance. Stone Tail4% versus CSVAccessory5% and Masterocular; +3 unspecified stat. Piece-specific physical/mental costs versus uniform invented certainty and personal-grief corrosion need full-source mapping. All exact pairs already counted95."
+      ],
+      "commentary": "The strongest image is not the well but a confident explanation arriving before its evidence. I find the descendants’ refusal of collective registration important: recognising a shared harm need not entitle the institution to classify its people.",
+      "sources_read": "Complete original459lines; exact1037A–D complete, SourceSECC C-IVδ-869; Master344–346 and4227–4258; Entity467; complete Tale1025754–5807; CSV310–313; archetype437; disposition278. Full-set primary95note and durable Batch95 WIP4824–4840 read. e68e5673 object unavailable in shallow checkout, so durable prior full-set/pair receipt used, not invented gitshow.",
+      "history": "Batch95 unit1 e68e5673 explicitly recorded fresh full-set and Weapon-pair review. MAW-W-869 Returning Requiem belongs C-Iα-869; use exact1037. Both equipment increments0.",
+      "before_words": 7480,
+      "after_words": 7484,
+      "final_sha": "82728f75386656a40d7f1c537b6004d536f29e53572238178a5d913f9b123069"
+    },
+    {
+      "designation": "C-Iα-071",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_02_KIND_HEALER.md",
+      "change": "Identification uses established visible form and warns that apparent absence of injury is not safety. Breach announcement now says injured-directed walking and nonviolent return, as the dossier’s explicit correction and disposition already require, instead of indiscriminate hunting. Corrected Not→None in the interaction introduction.",
+      "holds": [
+        "Original current-stage care/twelve-tally/treatments after Hope resolution versus A historical-chain-origin/current Hand of Hope. Header unconditional twelve→Dawn versus Hope/Sorrow branching lacks precise state presentation; primary chain blessing progression versus wider EntityCodex Patient Martyr/C-IIIγ-071b/C-Vω-071c example differs from current071b/c rows. Do not invent reset, second healer or transition.",
+        "Origin employed forty-one-year Office care worker and not failure versus Tale explicitly notcityemployed and defined by failing to save. Both written source records preserved; historical person→crystal figure is compatible, but no sourced explanation joins those life accounts.",
+        "No aggression/never-struck/rejection gives confusion versus Bitter Medicine rejection strike and generalized injury; formal ValidWorkTypes includes prohibited Pugnahan. Activation4/Core45/ultimate65 scopes unjoined. Primary Comprehension4/Minor versus Tale3/EntityMajor explicitly corrected in primary, not reimported. Document date4232+1778 remains literal rather than fabricated chronology.",
+        "Equipment Short statistics versus Long glaive archetype, MasterShroud LivingCarapace versus Han silk; Stigma palm-sized crystal versus coin-sized blueglass, precise Tail versus generic Accessory, never-fading pain versus untilrecipientcheck, one-day detection primary-only. Primary general unweptgrief/permanent numbness versus specific finite source costs; unknown+1stat preserved. Later posttransformation equipment distinct, no credit duplication."
+      ],
+      "commentary": "The missing report about the caregiver is more compelling than a simple saint who suffers for everyone. The rule against self-report has a real protective history, which makes its blind spot harder to dismiss and more painful to read.",
+      "sources_read": "Complete442line original; exact071A–D complete; Master359–361 and4393–4424; Entity35/159/472/491/427; complete Tale1076050–6103; CSV118–121; archetype85; disposition219; durable Batch117unit1 WIP4193–4209 read. Actual requested5c1b44a object absent shallow checkout, so durable history used.",
+      "history": "Batch117unit1 5c1b44a54287f7e3b1f2d5358259b7ecb82d66e4 already full set and exact SE-071-B/MAW-W-071-01. Blessing Giver, Apostle Maker, Dawn and Shadow are distinct states/identities, not extra pair credit.",
+      "before_words": 7699,
+      "after_words": 7721,
+      "final_sha": "7aee8d316b5cde48dbbbf52a2dba492d9f954702cae0ce1256f48dfe0a1bd474"
+    },
+    {
+      "designation": "C-Iα-247",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-247_Torn_Flower_찢어진_꽃.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_03_TORN_FLOWER.md",
+      "change": "Movement summary and detail distinguish ordinary rooted reach from documented walking breach, without presenting it as pursuit. Identification no longer rejects a stepping bloom as another entity, because the file records that step as escalation. Corrected the interaction double negative. Sword Ability now distinguishes flat healing/edge pressure and the exact linked no-restoration limits.",
+      "holds": [
+        "Primary and disposition no-pursuit versus SideA explicit uproot/pursue at45%/0.95m/s. Conditional stepping supported but Side targets and broad primary never-moves/unchangingweeping language still need scoped whole-source account. Primary noinjuries without grasp versus observing/lingering Grudge and target-wide ultimate; damage stats alone notproof of injury history.",
+        "Completedunwitnessed flower/tearingincidental versus sourceA/Entity/Tale destroyedremembrance/secondloss, including pre-bloom witness testimonies. Keepers interpretation does not independently establish earlier/later form. Open crack containment versus later containmentseal review; SubjectLament with Grudge is a manifestation/element distinction, not automatic contradiction.",
+        "Pugnahan listed Valid but explicitlybarred; primary workquietlywitness versus A namememorial secondloss. Threshold4/Core45/ultimate65 scopes not crosswalked. Tide/countandannualtearpositions no inventednewheight. MasterTale IVγ/Comprehension2 vs currentIα/1 explicitly corrected primary; no Masterrewrite.",
+        "NamesTornFlower/UnopenedBloom and Short/Mediumarchetype, Void1.8Fatal/Weak remainheld. Generalizedallpiece touchharms lovedones versus distinctcosts/reflexessuit/tempercharm; genericboon/finished-hand detection versus originaltear chronology; lackingfullresonance/corrosion/release in primary. Narrow flat/edge limit repair supported by exactB, no full-set approval."
+      ],
+      "commentary": "The bloom being complete but unseen is a strong distinction from ordinary damage. The Standing Day boards deepen it: a scheme can list the workers correctly and still miss the people it was made for.",
+      "sources_read": "Complete416line original; exact247A–D complete; Master374–376 and4558–4589; Entity478; complete Tale1126336–6389; CSV534–537; archetype164; disposition412/457; complete durable Batch96 opening/unit2/history read.",
+      "history": "Batch96unit2 2dcfd583 previously reviewed full set and exact SE-247-B/MAW-W-247-01. Exact Side247UnopenedBloom belongs C-Iα-247; UNK247UndeliveredThanks is separate. Both increments0.",
+      "before_words": 7066,
+      "after_words": 7139,
+      "final_sha": "9c9897fb1f53e6561719f1a3300bfce44e9acc34e078e45b7ed1989b5492d517"
+    },
+    {
+      "designation": "C-Iα-392",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-392_Mirror_of_Rising_솟아오른_거울.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_04_MIRROR_OF_RISING.md",
+      "change": "Repaired the broken Entity Type sentence while retaining modelled-only zone corruption and observed heaviness. Appearance protocol no longer dismisses the reflection interval, frame inspection and strike-list records required elsewhere. Field return logs removal and lingering fatigue instead of prescribing extra Mantle wear until a post-removal cost ends.",
+      "holds": [
+        "PhysicalForm bodypullsout/mirrorstaysempty versus noexterior/neverleftsurface and stableface. Pane loweredge rising versus figureverticalrise needs spatial relationship. Source A fabricatedface pulls representative into reflection versus primary nooneapproached and alwayssameface; conditional state is not established just by labels.",
+        "Primary current signedlegiblename erasure and explicitlostrecordscorrection versus SideA and Tale116 missingrecords/livingmemory/uncertaincause; do not eraseoldsource. Sourcegenre differences notproof of temporalchange. Work nevermovesseries/gazetteeronly lowers versus BehaviorViderehan and FinalObservation followingevening glasslowering twoofthree; gaugeandheight conflated in those clauses despite explicitseparatecolumns. Activation4/45/65model scopes retained.",
+        "Modelledstructuralzonecorruption andultimate notobservations; eventtype unclassifiedquery preserved. Singlepass versus reflectioninterval everywatch with tworeaders needs protocolaccount; no newrepeatedfaceview tofix. Paper-onlyrelatedentities and refusal tobringMask retained, noproximitytrial.",
+        "Threeequiptitlenames, βoverview versus αCharm/βMaster, ShortHammer versus Roomarchetype. LocalHammer silentvaultshelving passage vs B onepassageonlycurrenterasure/noconcealment; blackreflectionfirst head versus unspecifiedlocalmatteedge. C emptycommunalsilhouette/livingoutline/ownbiography protection vs generalheavycloak, and D backwardneverforwardtranscribedfragment vs localcopyingwholewardnames need crosswalk. Dayrage/sixhourfatigue/halfspeed activewear scopes notfullymapped; narrowreturnwordingrepair doesnotcertifyset."
+      ],
+      "commentary": "The dispatch argument gives this mirror real weight: restoring a name is not made harmless by being morally important. Keeping the strike list beside the death record is more honest than choosing an easy villain.",
+      "sources_read": "Complete438line original; exact392A–D complete; Master386–388 and4690–4721; Entity482; complete Tale1166558–6611; CSV651–654; archetype207; disposition149; durable Batch98opening/unit1/history WIP4814–4822 read.",
+      "history": "Batch98unit1 787ffd31 and date-followup011132fc already full-set and exact SE-392-B/MAW-W-392-01. Later review date notnewpair. Both source-review increments0.",
+      "before_words": 8499,
+      "after_words": 8501,
+      "final_sha": "0786c05b35b4d071c326243dd0b7332e6f2ae1cf5ea67866973562a28b7b3a33"
+    },
+    {
+      "designation": "C-Iα-863",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-863_Absent_Landmark_가라앉은_탑.md",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_05_ABSENT_LANDMARK.md",
+      "change": "Movement now describes the documented old-street route and no target, not pursuit. Replaced generic material/signature prompts with existing cold, ash, climbing light and stable-window observations. Removed the duplicated trailing half of Story Entry1. Corrected the four-record interaction introduction and distinguished its three detailed rows from the additional Clocktower account.",
+      "holds": [
+        "Historical disappearedlandmark/currenttowerhumanoid relationship broadlysupported; how visiblemassivewalkingtower occupiesoldstreet versus operationalabsentreliance needs spatial/mechanicalaccount. No presentinterior/onlylight versus occupantsrevealed byWork, Trivia viewerswhoknewtower and traversableTower/descent attacks require supported perception/accessconditions. No inventedrooms,steps,waterbody or externalnetwork.",
+        "Printonly/solemechanism and hours/yearseries versus emotionalWorkheightchanges, spokennamehaltsdescent and Warden3→11height afterspoken directions. Heightlowering claimedseparateGauge but Registrum lowerreading byFlerehan/Ferrehan; Pugnahanonlycostmetres versus climbingonlycostmetres. Gauge4/Core45/ultimate65 scopes unjoined; breach print-erasure versus paperroute/signsrecoverorientation needs timingaccount.",
+        "Neutralno-target/disorientation-only versus anklegrasp/foundationsbodydamage/fullstreeterasure combat; walkingthroughfourcorridors no wallmaterialaccount. Comparisons notautomaticalliances; three detailed records and additionalClocktower co-rise mustnot imply everypair tested. Narrow count/wordingrepair preservesallactualobservations.",
+        "WeaponSunkenCulverin vs EmptyLens split withinsameB/Master; Short profile vs Instantarchetype. SourceBconcretebronze cannonagreesformbut namehistoryunmapped. Veilhabitualroutecost vs sourcefaintselfabsence; allpiecestake sameroutes vs Windowoccupancymemory distinctcharge. C/D chieflyoperationalappearances cannotcertifygossamercloth/glasspalm/OcularMaster category. Head5% versus Accessorygeneric; unknown+1stat; TaleIIβ/2 vs currentIα/1 and sourceprimaryWorkdifference retained."
+      ],
+      "commentary": "The tower works because nobody had to die for its absence to matter. The map notation is a modest, believable response: acknowledge what people still turn toward without pretending the building is there.",
+      "sources_read": "Complete 399-line original; exact863A–D complete; Master401–403 and4855–4886; Entity487; complete Tale1216833–6886; CSV931–934; archetype340; disposition379; durable Batch124unit5 e9f7399 evidence/history/checkpoint3961–3974 read.",
+      "history": "Batch124unit5 e9f7399 already fullset and exact SE-863-B/MAW-W-863-01. BfilenameEmptyLens is current Culverin-heading record with same exactsource; disputedname notnewpair. Both increments0.",
+      "before_words": 7226,
+      "after_words": 7215,
+      "final_sha": "814747ce41fde76046663d6f685a4f29b540fa598784de38e259f5b2fd4648ef"
+    }
+  ],
+  "unit_commits": [
+    "469463a8abb537978de491a4086890b2d90d8742",
+    "3b0d3355ab0c8b4c0a329e62fa2de99676c75e44",
+    "bea67c9792b25e68ca7455b2b36a20d3929d22d4",
+    "0b37d92f39b39c66e50f2dedc368d91657650523",
+    "45f44174a1b98a6b6bdc1be88a7ffd927eb628c7"
+  ],
+  "replacements": 20,
+  "before_words": 37970,
+  "after_words": 38060,
+  "unselected_unchanged": 296,
+  "classification_physical_forms_unchanged": 301,
+  "sources_unchanged": true,
+  "digits_unchanged": true,
+  "visual_inspection": "not performed / not in scope",
+  "new_credit": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "completed": 5,
+  "required": 5,
+  "no_change": 0,
+  "closed": "2026-10-21",
+  "ledger_tests": "10 / 10 PASS",
+  "archive_timeline_seam_box": "PASS",
+  "equipment_comparison": "557 comparison candidates, not proven defects; unchanged",
+  "pr": {
+    "number": 14,
+    "state": "OPEN",
+    "draft": true,
+    "base": "NON-WIKI",
+    "owner_controls_merge": true
+  },
+  "closure_push": "Gate must verify actual closure commit and remote equality; see git history. No fabricated self-referential commit hash."
+}

@@ -1,0 +1,62 @@
+{
+  "batch": 160,
+  "base": "b8f06f2f267bd52d33ab999cac007e314f3aa459",
+  "pending": 225,
+  "candidates": 72,
+  "pattern": "changes? shape|shifts? between.*forms|became (?:a|an|the) ",
+  "selection": "Pending only; exclude exactly level-two M.A.W. Equipment, retaining later sections. Descending matching-line count then full designation; reading priority, not defects.",
+  "queue": [
+    {
+      "designation": "N-IVδ-902",
+      "path": "SOMNARAK-WORLD/Unknown_Entities/SE-N-IVδ-902_The_Repeated_Survivor_되풀이의_생존자.md",
+      "signals": 2,
+      "evidence": [
+        "The Repeated Survivor (`N-IVδ-902 [VS]`) is an R.D. field agent who began to remember the Absolvohan's loops — an impossibility for non-Echo-Core personnel. Across thousands of iterations, the remembering emptied them: identity dissolved, the world became a stage, and only the performance remained. Subject-Body, Void expression. Cannot be permanently ended within a single cycle.",
+        "> *\"The walls became a stage. My team became cast. Two of them performed their own deaths without being told how. The survivor watched and took notes, like a director.\"* — Commander Taeho (태호)"
+      ],
+      "sha256": "67214ce3710f1aeacc3bbaaab540126489696ad6697b130fc7781d92184d2a98"
+    },
+    {
+      "designation": "O-IIIβ-944",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIβ-944_Calling_Bloom_부르는_꽃.md",
+      "signals": 2,
+      "evidence": [
+        "- **The People:** Nari (나리, \"lily\"), the girl who became the bloom; Seojun (준), the brother she was searching for — whose voice the flower had copied to lure her, and whose fate is unknown.",
+        "The band searched a season. They never found her. They moved on, the way wandering bands do, and Nari became the warning the older children gave the younger, so that no one else would go past the mushrooms. They sing it still, a small rhyme passed down at the fireside:"
+      ],
+      "sha256": "ad01733d438b048b1e333a21d5bcf5c9a405e097c6ffaf96c8ea2ffd2089580f"
+    },
+    {
+      "designation": "O-IIIγ-559",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-559_Broken_Ruin_부서진_잔해.md",
+      "signals": 2,
+      "evidence": [
+        "The settlement collapsed in the Desolate, and the survivors, fleeing into the city, carried fragments of the ruin with them, and the fragments, carried, became an entity that is the disaster, relocated.",
+        "> *“The settlement collapsed. The survivors fled into the city carrying fragments. The fragments became the disaster, relocated.”* — Keeper, Archive"
+      ],
+      "sha256": "d69169e111a629091570620418ff23f50dc6c7a3815597abccdf8dc622b91993"
+    },
+    {
+      "designation": "O-IIβ-235",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-235_Myrmidon_찢어진_영혼.md",
+      "signals": 2,
+      "evidence": [
+        "- **The Sorrow:** The grief of loving someone or something that became the instrument of one's harm.",
+        "The grief of loving someone or something that became the instrument of one's harm."
+      ],
+      "sha256": "a238a339d51003979554d11a82d728a37229951e0bfaa63a2cceae8d3f35a109"
+    },
+    {
+      "designation": "O-IIβ-301",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-301_Feu_Follet_녹아내린_불꽃.md",
+      "signals": 2,
+      "evidence": [
+        "The traveler remembered the fire that saved their life, and the memory, cherished, decayed, and the decaying memory became a flame that burns not with warmth but with the fear that warmth itself will melt away.",
+        "> *“The memory of the fire that saved his life is decaying. The decaying memory became a flame of fear.”* — Keeper, Archive"
+      ],
+      "sha256": "258fc33818f8baf1f95dce7986129df4c9e5e69dfcd67756f7cacbcf36631de2"
+    }
+  ],
+  "authorization": "Owner p after Batch159 close authorizes Batch160 only. Maintain WIP and CHANGELOG per completed unit and closure.",
+  "repair_direction": "Improve complete documents where supported; do not invent a resolution, force changes, duplicate source coverage or certify held whole designs."
+}

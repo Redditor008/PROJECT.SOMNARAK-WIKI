@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-914 [VT]` |
-| **Entity Type** | **Time** — Can breach via Transform |
+| **Entity Type** | **Time** — Breach expands the affected radius; no body transformation is recorded |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -38,7 +38,7 @@
 
 ### Operational Notes
 
-- A cycle lowers the gauge and shortens nothing. The minute has run 61 times in eleven years and has been between 1159 and 1200 on every one of them, to the second, by three independent clocks that do not otherwise agree.
+- A cycle lowers the gauge and shortens nothing. The series contains 61 occurrences in eleven years, ordinarily between 1159 and 1200 by three independent clocks that do not otherwise agree. The chair incident and Sorrow Tide duration are recorded exceptions, not evidence that Work can shorten an occurrence.
 - The gauge rises when somebody inside the radius is told who they are during the minute. It has been tried four times, always kindly, and the radius widened by between nine and fourteen metres on each occasion and did not come back.
 - The exposure risk is not injury. In eleven years this holding has caused no wound of any kind; what it has caused is 61 minutes during which 200 metres of facility contained people who could not have told you their own names.
 - Extraction here requires the Director's signature, which has been given twice. Both pieces were taken from the edge of the radius during the minute itself by a mechanism on a timer, with nobody within 200 metres, and the Armoury has described the procedure as the most expensive way the facility has ever acquired two objects.
@@ -65,7 +65,7 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Moderate temporal/identity hazard; not a Sovereign classification |
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
@@ -97,6 +97,12 @@
 
 ## Appearance
 
+**A timed absence, not an invisible body:** There is no source silhouette, voice or skin to describe. During the ordinary minute, affected people keep walking, writing or holding a door, yet lose access to their name, face and immediate intention during the interval. Their continuing bodies are subjects within the effect, not the entity's anatomy. No human origin has been established; the unrecorded event is not filled by inventing a forgotten victim.
+
+**The visible holding and its changing extent:** The line, chair, clocks, collection rack and name board are objects at the site. The chair predates recognition and is a prohibited anomalous position, not a demonstrated destructible source vessel. A boundary survey records the affected radius growing from its earlier extent without the epicentre moving. Clock agreement and the gauge are recorded readings; neither supplies a visible material body for the minute.
+
+**Ordinary timing, exceptions and equipment:** The usual end is followed by the roll call; completing that roll is not the instant the minute itself ends. The chair and Sorrow Tide accounts preserve exceptional durations rather than a new bodily form. The sea-pike, near-colourless Veil and etched glass Token are derived pieces. Permanent intention loss in their wielders is recorded separately from the complete recovery reported after direct exposure, and no gear use licenses entry or proves a human formation event.
+
 **Primary Form:** A single minute — always between 1159 and 1200 on an unmarked day — during which everyone in a 200-metre radius of its epicentre forgets their own name, their face, and their reason for being where they are.
 
 **Notable Features:**
@@ -118,7 +124,7 @@
 |---|---|
 | **Form** | A single minute — always between 1159 and 1200 on an unmarked day — during which everyone in a 200-metre radius of its epicentre forgets their own name, their face, and their reason for being where they are. |
 | **Position / movement** | Fixed at the epicentre and expanding only outward: 140 metres in Year 4,226, 200 now, measured at four compass bearings after every occurrence. It has never contracted. |
-| **Material / signature** | Nothing visible, nothing audible, no temperature change and no instrument reading of any kind. Record the three clock readings at the start and the end of the minute, and the radius, measured from the epicentre at four compass bearings after every occurrence. |
+| **Material / signature** | No visible body, audible source or temperature change. The clocks and gauge do produce readings; neither is a direct picture of the identity loss. Record the three clock readings at the start and the end of the minute, and the radius, measured from the epicentre at four compass bearings after every occurrence. |
 | **Distinctive markers** | Three clocks that agree. Nothing else in the facility produces that result and the wing has twice replaced one of the three to confirm it is not the clocks. |
 | **Identification** | There is nothing to identify and nothing to confuse it with; the holding is a sector, a chair, a painted line and a board of names. The only confirmation anybody has ever needed is that the three clocks agreed, which they do on nothing else in the facility. |
 
@@ -144,19 +150,19 @@ Both usable Work Types are performed from the line and amount to standing there 
 
 ## Breach Behavior
 
-> *"Amnesia has broken free. The void void spreads."*
+> *"Amnesia has broken free. The nameless minute takes a wider radius."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |
-| **Movement** | The entity's void influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Void pressure radiates — the void register makes it personal, targeted, unavoidable. |
+| **Movement** | The affected radius expands outward from the same epicentre. Survey its edge after the occurrence; the record does not establish damage to every object within it. |
+| **Effect** | Identity loss affects everyone inside the radius without selection. Being told a name during the minute does not restore it and has permanently widened the affected area. |
 | **First Target** | Everybody inside the radius at once. It has never selected, graded, or spared anyone, and the file notes this as the holding's one mercy: there is no such thing as being singled out by it. |
 | **Escalation** | +5 Void drain per cycle, and the radius rather than the duration is what grows. It began at 140 metres in Year 4,226 and stands at 200; of the 60 metres added, 47 were added on the four occasions somebody was told their own name. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** Remain outside the surveyed line, do not tell anyone inside who they are during the minute, then complete the roll call and survey. Do not cross the line or strike the chair as an improvised suppression step.
 - **Sorrow Gauge on breach:** 40% rising 10% a cycle, read at the line. The gauge is one of the few instruments that works here, and the wing has never established why it works when nothing else does.
 
 ## M.A.W. Equipment
@@ -268,7 +274,7 @@ The post runs on a roll call: 1200, then names off the board, people matched to 
 |---|---|---|---|
 | **Never Discharged** `O-IIβ-911` | Filed together on a book that has to be signed. That record discharges a patient who never leaves; this one restores a name that was never lost, only misplaced. | The discharge book and the roll-call median were set side by side once and nothing matched. | That the pairing is a filing line with nothing measured beneath it, entered on each repetition. |
 | **Lethe** `C-IIIγ-928` | Grouped on losses of the mind. That record's volume takes what was known and never gives it back; here the name is still there and the procedure is what finds it. | One review entry; the two series parted at the first mark and the columns were left as they fell. | That the parting stands as the entry, carried in the review's numbers un-smoothed. |
-| **Allhallow** `O-IIIγ-916` | Grouped on the returning dead and on the living who count them. That record keeps two tallies and refuses to reconcile them; this one reconciles every name and writes the match down. | Nothing was run. The appendix flagged the two for the review and the review moved on. | That the claim is an arrangement of the shelf, noted beside the row on each reading. |
+| **Allhallow** `O-IIIγ-916` | Grouped on the returning dead and on the living who count them. That record reconciles two independent tallies without averaging or correcting them; this one reconciles every name and writes the match down. | Nothing was run. The appendix flagged the two for the review and the review moved on. | That the claim is an arrangement of the shelf, noted beside the row on each reading. |
 
 **Interaction procedure:** Compare in the record only, at the post's review, with the 1200 roll call re-read first and the other record's series laid beside it unchanged; parting, width, trigger, both readings and what persists are entered and never merged.
 
@@ -323,7 +329,7 @@ The event occupies a single minute late in the morning on a day that is not mark
 
 ### Two Hundred Metres
 
-The affected area has a definite edge and the edge is surveyed against fixed markers, all of them beyond it. The radius has not changed. The survey is conducted entirely from outside by sighting, which the file identifies as the reason the series is complete, no reading having ever had to be skipped.
+The affected area has a definite edge and the edge is surveyed against fixed markers, all of them beyond it. The radius has grown permanently across the recorded series; compare each survey with the preceding one rather than treating the current line as its original extent. The survey is conducted entirely from outside by sighting, which the file identifies as the reason the series is complete, no reading having ever had to be skipped.
 
 ### Recognised, Not Discovered
 

@@ -236,6 +236,8 @@ The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapp
 
 **Appearance:** a shield-backed harness of Void Han-glass, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
+It is fitted only under a spoken event: the wearer names the crossing that was abandoned and accepts the limit that comes with the naming — acknowledge possibility without treating it as history — and the harness will carry them across an obstruction once the second half of that sentence is on the record. Transit is permitted and tenancy refused; a wearer who begins describing the abandoned crossing as a life that was owed finds the glass clouding at the shoulders and the weight of every road not taken arriving at once instead of by degrees. The piece is rested only when a Warden signs the attribution entry, and a violation of the limit reverses the benefit and raises the source's gauge.
+
 **Resistances:**
 - Lament: 1.2 (Weak)
 - Grudge: 0.8 (Warded)
@@ -254,6 +256,8 @@ The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapp
 
 **Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
+It is a head-slot charm and it reads the decision rather than the life beyond it — the moment of turning back, not the country the other choice might have reached, which is the only fact this set recognises. Bestowal follows a quarter in which the bearer withdrew or rewrote a finding of their own that stated an outcome for a course never taken, and the holding has twice refused to let the grant be described as a reward. Worn past its limit it takes words, one at a time and without notice, so a sentence loses its subject mid-clause; the charm comes off at the first gap and not at the second, and the sign is entered by whoever heard the sentence rather than by the bearer.
+
 **Slot:** Head
 **Acquisition Probability:** 5%
 **Effect:** +1 when working this entity, and the holder must read the week's findings before the session rather than after it.
@@ -268,14 +272,18 @@ The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapp
 
 The three pieces are built around one restraint and it is worth stating because it is unusual in the armoury: none of them will produce an outcome. The ring shows an option and stops. The harness carries a wearer through an obstruction and does not tell them what was on the other side of the one they avoided. The charm goes cold when its wearer is about to assert something they do not know. Attempts have been made to extend all three and all of them failed, and the wing's note is that the failures are the reason this set is trusted and that a version which answered the question would be destroyed.
 
+Each piece pays in its own coin. The ring takes small, nameless memories and returns an unnerving readiness to decide, which colleagues read as a virtue for about a year. The harness takes the alternative roads: the wearer carries the ones not taken as a weight that settles rather than lifts. The charm takes words. The three losses arrive at different hours and are compared by different people, so the ledger keeps them in separate columns and the set is never authorised as a whole on one officer's read.
+
+One ladder governs all three, and it is entered in order: the bearer begins describing the abandoned crossing in the first person; the piece then repeats the source response outside contact — chimes where there is no bridge to chime over; and at the terminal state the manifestation uses the bearer as its new site. A named witness states the source title and the event aloud while the bearer relinquishes the piece; the shutdown preserves the record, refunds none of the cost, and stands as the only closure the armoury recognises on this set.
+
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, piece, the day's probe depth, and a written statement of what the operator does not know about the matter under review. The statement is read back at the limit and after use. |
-| **During use** | Who the chalices aligned on, the option shown, whether the subject recognised it as genuinely having been available, and the seconds it persisted after the chime. |
-| **At limit** | Total engagement and the first sentence in which the bearer supplied an ending. Transcribe it. It will be presented back to them. |
-| **After use** | The pre-use statement read aloud to the bearer by someone else. Every finding the bearer issues in the following quarter is read by a second officer before signature. |
+| **Before use** | Operator, piece, the day's probe depth, and a written statement of what the operator does not know about the matter under review. The statement is read back at the limit and after use. The bearer's own naming of the abandoned crossing, and their acceptance of the set's limit, are entered with it, because the harness and the charm are issued under that sentence alone. |
+| **During use** | Who the chalices aligned on, the option shown, whether the subject recognised it as genuinely having been available, and the seconds it persisted after the chime. The first sentence in which the bearer supplies an ending for the option is timed here rather than left to the after-use entry. |
+| **At limit** | Total engagement and the first sentence in which the bearer supplied an ending. Transcribe it. It will be presented back to them. The second limit is a word the bearer cannot find and does not notice losing; whether the call is made on the ending or on the gap, it is the second worker's and it stands. |
+| **After use** | The pre-use statement read aloud to the bearer by someone else. Every finding the bearer issues in the following quarter is read by a second officer before signature. A shutdown under a named witness is entered with the source title and the event restated while the piece is relinquished, and the piece returns to the rack only once a Warden signs the attribution entry. |
 
 **Stat interpretation:** β-grade, correctly rated, and the rating describes what these pieces do to an entity, which is very little. What they do to a wielder is make them certain, and a facility that runs on written findings has no column anywhere for the cost of certainty in the people who sign them.
 ## 관찰 기록 (Observation Log)

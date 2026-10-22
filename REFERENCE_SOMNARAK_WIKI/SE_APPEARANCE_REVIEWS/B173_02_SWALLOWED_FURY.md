@@ -1,0 +1,140 @@
+# Batch173 individual evidence
+
+## Batch173 unit2 — Swallowed Fury `C-Iα-683`
+
+[[SE-C-Iα-683_Swallowed_Fury_사라진_눈물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-683_Swallowed_Fury_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%88%88%EB%AC%BC.md "SE-C-Iα-683_Swallowed_Fury_사라진_눈물.md")]
+
+**Original/source review and R18 predeclared scope:** Complete393-line original, exactA–D/README read; CityGrudge/ResidueSubjectPhantasmal→suppressedtear/loss/safetyorder→burningtear/char/crimsonmark/notliquid→nontraversingappearances→attendance/interruptioncount→Flerehan/Ferrehan versus Pugnahan→right-ending/forcedcomfort→supervisor/safegriefroom→three derivedmetalpieces traced. R18predeclared3short/4careful. No forcedhumanoid or sharedsource/itembody.
+
+**Sources/history:** PriorBatch116unit4 835b867 alreadycredits exact683B pair and full set, WIP6374–6403; no newcredits. B7de321c3 section/prose repairs; B52 personalization and B14weaponart are not newreviewcredits. CSV811–814 genericAccessory versus Tail held; Masterindex352–354/392–394 and4756–4786 allread. Entity484 TheVanishedTear; fullTale1186657–6720 preserves supersededlevel/Pugnahan contrastednotcopied. Archetype275 throatbulgerecurve compatible narrowfang; personalization506–520 read. Disposition398Neutral unchanged. α3–6/2/2Single1,max5/15; Suit1/.4/1.8/1.2,max5/10; EmberTail5%+1 match exactsources.
+
+**What changed:** Replace walking and corrosive-corridor shorthand with actual discontinuous attendance-keyed appearance. Replace undifferentiated Work menu with its actual response split. Tie the burning nonliquid tear to denied grief, and give Fang/Plate/Ember individual visual, incident, corrosion and shutdown records.
+
+**Final whole-file assessment:** HELD: Nonhumanoid burning tear and discontinuous phantasmal movement are supported. Target/closure/cost/state relationships still need evidence despite repairs and technical PASS. Alreadycredited fullset/Weapon; SE+0.
+
+**Holds / later recheck:**
+- No increaseinforce/briefvisibility versus physicalcracking/lastingmark and destructivecombat needs actualstate/measurement distinction; no invented transformation.
+- Presence prevents everyone crying versus uninterruptedweeping required to close: safecontact/timing scope not established by the file.
+- Primarygeneric bodydamage and one designatedperson versus BExpressionCut/coerciveorder and personstrikebacklash; source-record added but conflicting ability retained for evidence.
+- Allthreepiecesmakeoperatorunabletocry versus Embercannotconcealgrief and setconcealmentimpossible; pieces/cycle/delayedcost scope unresolved.
+- Markbrief versus dayfade, never twiceper shift versus recordeddoubles, noheat/fevercold versus burning/heat need trace/time/event qualification. Safetyorder remainsvalid; productivityTale and exactsafetyincident not silently equated.
+- Tail5%item versus genericRegistryAccessory; primaryeligiblecriedwithoutapology versus Drandomsuccessfulwork is an eligibility gap, not a fabricated deterministicgrant.
+
+**Commentary:** The strongest detail is that a correct safety instruction can still summon the entity. I would keep that discomfort rather than blame a supervisor or require crying beside molten stock. The nearby grief room makes the institution responsible for an alternative, while the three items show different dangers of making feeling visible.
+
+**Checks and integrity:** Actual verify/tpl/sectfile/wikistd/sect PASS; full final read after checks, final hash matches. 7 exact replacements (3batch-short/4careful-detail); LC_ALL=C words6359→6849. Digits unchanged, sources fingerprinted. Gate/push follows. Evidence `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_02_SWALLOWED_FURY.md`. Equipment+0/+0;SE+0. Written-design review only, no artwork/render/browser/gameplay/deployment claim. No174/merge; later full recheck and301eight-owner-body/one4+4/generatevalidatebeforecopy blocker retained.
+
+## Exact repairs, fingerprints and raw check outputs
+
+```json
+{
+  "designation": "C-Iα-683",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-683_Swallowed_Fury_사라진_눈물.md",
+  "words": 6359,
+  "sha256": "b75ea1a666ebfd90462008e7bfe16681445e7b92b3d0751ece7fa01bf8b74d84",
+  "name": "Swallowed Fury",
+  "unit": 2,
+  "status": "held",
+  "receipt": "B173_02_SWALLOWED_FURY.md",
+  "repairs": [
+    [
+      "| **Movement** | Mobile — walks upright; can breach and pursue. |",
+      "| **Movement** | It appears and vanishes around the Forge District without crossing the space between, and it is not reliably where it was a minute ago. Record each appearance against the people present rather than against a position on the plan: it is the attendance that predicts it. |"
+    ],
+    [
+      "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+      "| **Valid Work Types** | The responses split two and two, and the split is the entity. Flerehan sharpens the figure and takes the hostility down; Ferrehan lets a worker stay beside it without pulling themselves together. Both bring the reading down, and both need the weeping to run out on its own. Viderehan shows the loss behind the tear and keeps the gauge flat. Pugnahan is the failure: it burns on borrowed fury and has lifted the reading on every deployment recorded. The filing is a Subject with a Subject-Phantasmal manifestation at Zone D in the Forge District; nothing from another denied-feeling record carries over. A flat gauge is not a safe session either: what this holding counts is neither force nor duration but interruptions, and the counter runs down on them. |"
+    ],
+    [
+      "> *\"Swallowed Fury has broken free. Floods corridors with corrosive sorrow.\"*",
+      "> *\"It does not travel. It stops appearing in the chamber and starts appearing on the forge floor, one place at a time, closest to whoever last told somebody to stop.\"*"
+    ],
+    [
+      "## Appearance\n",
+      "## Appearance\n\n**The missing drop’s outline:** This is a burning tear-shape, not a worker’s walking ghost. The city’s order removed the tear before its fall; the phantasmal outline gives the denied loss a visible edge without restoring liquid. Track its crimson mark separately from the figure’s appearance: a remaining trace is not proof that the figure is still in the bay. Neither a human origin nor the metal Fang and Plate makes the source corporeal. Its disappearance and reappearance are recorded against the people present, especially the person who stopped another’s grief.\n\n"
+    ],
+    [
+      "**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that quivers when raised and settles when the bearer's hands do. It is a deliberately narrow tool; the armoury's note says the narrowness is on purpose, because this holding has only ever wanted one person's attention at a time.",
+      "**Appearance:** A quivering crimson fang of Han iron, faintly warm, with a narrow curved blade. Naming loss before anger binds the grip. Record the posted composition order separately from its author: the Foreman’s Rule account severed the order, while the impulse to strike its author left a tear-shaped bruise until the dead worker was named. Clean the blade beside an acknowledged tear and archive the severed rule as a record, not a trophy. Anger seeking a body and burning bruises are corrosion warnings; every tear reading as a target request is the terminal warning, not a targeting instruction. Lay the blade flat while the grieving person names loss and intended action for shutdown. This Expression Cut record does not turn the source figure into a metal fang or settle the generic body-damage account below."
+    ],
+    [
+      "**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that smells of the forge it came off — a scent the district's own workers name before the armoury does, which is why the issue desk asks them to.",
+      "**Appearance:** A warm, dark crimson harness of Grudge Han-iron smelling of char and the forge. Its throat plates and joints matter to inspection: in Locked Jaw, the foreman’s denial sealed the throat until he admitted fear and sorrow. Release Guard bears the first Grudge surge after hidden grief becomes visible; dulling follows resentment stored rather than expressed. At debrief, open each plate and name the emotion beneath it. Narrowing vocabulary and joints hardening at tears precede armor preserving permanent resentment. Remove from the throat downward while a witness permits expression; a quiet face is not proof of relief."
+    ],
+    [
+      "**Appearance:** an ember-charm of Grudge Han-iron, dark and faintly warm, that goes briefly hot when somebody nearby is keeping something in. Bearers learn to read it the way a watcher reads a gauge.",
+      "**Appearance:** A tail ember of crimson Han iron, dark and faintly warm until feeling is held in nearby. The coal does not consume. Record the feeling before spending its strength: in Lifted Crucible, rescue was possible, but denying the tears afterward made it reignite until rescue and loss were both named. Secret feelings becoming heat, failed social concealment and the body becoming a public furnace are escalating warnings. Voluntary expression lets the Ember release; forced removal burns the remover. Its granted status is distinct from manufacture of Fang or Plate, and its exposed grief must not be filed as the same expression loss recorded for the issued pieces."
+    ]
+  ],
+  "split": [
+    3,
+    4
+  ],
+  "type_credit": 0,
+  "weapon_credit": 0,
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-683-A__SIDE_CODEX_Swallowed_Fury.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-683-B__MAW-W_Swallowed_Furys_Fang.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-683-C__MAW-S_Swallowed_Furys_Plate.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-683-D__MAW-G_Swallowed_Furys_Ember.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/README.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_PERSONALIZE_PROGRESS.md"
+  ],
+  "reasoning": "Complete393-line original, exactA–D/README read; CityGrudge/ResidueSubjectPhantasmal→suppressedtear/loss/safetyorder→burningtear/char/crimsonmark/notliquid→nontraversingappearances→attendance/interruptioncount→Flerehan/Ferrehan versus Pugnahan→right-ending/forcedcomfort→supervisor/safegriefroom→three derivedmetalpieces traced. R18predeclared3short/4careful. No forcedhumanoid or sharedsource/itembody.",
+  "history": "PriorBatch116unit4 835b867 alreadycredits exact683B pair and full set, WIP6374–6403; no newcredits. B7de321c3 section/prose repairs; B52 personalization and B14weaponart are not newreviewcredits. CSV811–814 genericAccessory versus Tail held; Masterindex352–354/392–394 and4756–4786 allread. Entity484 TheVanishedTear; fullTale1186657–6720 preserves supersededlevel/Pugnahan contrastednotcopied. Archetype275 throatbulgerecurve compatible narrowfang; personalization506–520 read. Disposition398Neutral unchanged. α3–6/2/2Single1,max5/15; Suit1/.4/1.8/1.2,max5/10; EmberTail5%+1 match exactsources.",
+  "summary": "Replace walking and corrosive-corridor shorthand with actual discontinuous attendance-keyed appearance. Replace undifferentiated Work menu with its actual response split. Tie the burning nonliquid tear to denied grief, and give Fang/Plate/Ember individual visual, incident, corrosion and shutdown records.",
+  "holds": [
+    "No increaseinforce/briefvisibility versus physicalcracking/lastingmark and destructivecombat needs actualstate/measurement distinction; no invented transformation.",
+    "Presence prevents everyone crying versus uninterruptedweeping required to close: safecontact/timing scope not established by the file.",
+    "Primarygeneric bodydamage and one designatedperson versus BExpressionCut/coerciveorder and personstrikebacklash; source-record added but conflicting ability retained for evidence.",
+    "Allthreepiecesmakeoperatorunabletocry versus Embercannotconcealgrief and setconcealmentimpossible; pieces/cycle/delayedcost scope unresolved.",
+    "Markbrief versus dayfade, never twiceper shift versus recordeddoubles, noheat/fevercold versus burning/heat need trace/time/event qualification. Safetyorder remainsvalid; productivityTale and exactsafetyincident not silently equated.",
+    "Tail5%item versus genericRegistryAccessory; primaryeligiblecriedwithoutapology versus Drandomsuccessfulwork is an eligibility gap, not a fabricated deterministicgrant."
+  ],
+  "result": "HELD: Nonhumanoid burning tear and discontinuous phantasmal movement are supported. Target/closure/cost/state relationships still need evidence despite repairs and technical PASS. Alreadycredited fullset/Weapon; SE+0.",
+  "commentary": "The strongest detail is that a correct safety instruction can still summon the entity. I would keep that discomfort rather than blame a supervisor or require crying beside molten stock. The nearby grief room makes the institution responsible for an alternative, while the three items show different dangers of making feeling visible.",
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-683-A__SIDE_CODEX_Swallowed_Fury.md": "2df3f9ebdc7828c24104d4ba0de371411cf7fc7207bc6110d5a86ebbdc21d5a7",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-683-B__MAW-W_Swallowed_Furys_Fang.md": "6dcf8a98a63da4dcef87e4e4498efffbcb596b54150d30362435b226289774d5",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-683-C__MAW-S_Swallowed_Furys_Plate.md": "34509041fa1116e7a9b826bd5a7e3c3b611ed646e7b9c3a7441be02b96a74b4b",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-683-D__MAW-G_Swallowed_Furys_Ember.md": "f9113122df1aa79c106fb087a614f455bb1270a4d68f34e3884e72164fd1e333",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/README.md": "dbde4e0dbaa53352e3b52673d6fb0f14a7a0db2127b896e7be3bb8171fe20005",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "REFERENCE_SOMNARAK_WIKI/MAW_PERSONALIZE_PROGRESS.md": "7364aea671b14a2ccf59db20c2c49f5419c0c5685818fb0a2a8632afccd8d49b"
+  },
+  "final_sha": "1ce412e93b759a96adb9d6edba3365477b9c9cf685fade972e3e8c8042bb2233",
+  "before_words": 6359,
+  "after_words": 6849,
+  "outputs": {
+    "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []",
+    "tpl": "RESIDUE 0  SE-C-Iα-683_Swallowed_Fury_사라진_눈물.md",
+    "sectfile": "0.022  clean    90 grams  최종 관찰 (Final Observation)\n 0.018  clean   613 grams  Combat Record\n 0.018  clean   169 grams  Breach Behavior\n 0.013  clean   233 grams  Trivia\n 0.006  clean   808 grams  M.A.W. Equipment\n 0.003  clean   660 grams  감각 묘사 (Flavor Text)\n 0.000  clean   405 grams  이야기 보고 (Story Log)\n 0.000  clean   337 grams  Appearance\n 0.000  clean   323 grams  이야기 (Narratio)\n 0.000  clean   288 grams  관찰 기록 (Observation Log)\n 0.000  clean   201 grams  기록 (Registrum)\n 0.000  clean   195 grams  Origin\n 0.000  clean   192 grams  Behavior\n 0.000  clean   103 grams  Operational Parameters\n 0.000  clean    41 grams  증언 (Testimonium)\n 0.000  clean    41 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05",
+    "wikistd": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True",
+    "sect": "84   4  | { *The Full Return* [**Attack**] } | \"Every tear it has ever taken comes back at once, and not one of them is yours.\" | [The acc\n   85   7  | { *No One Can Cry* [**Ultimate**] } | \"The whole district stops being able to cry, at once, and the pressure has nowhere to go b\n  169   3  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each person stopped mid-grief while it is loose. It falls 10% each ti\n  238   1  | **Before use** | Wielder, piece, and a dated baseline held by the second worker. This set's toll arrives late and is reported la\n  240   1  | **At limit** | Reflexes dull and the wearer's face stops showing what they are feeling. On this post that is not a small thing —\n  243   3  **Stat interpretation:** Field performance and human cost are separate axes here, narrow in the figures and wide in practice. The \n  287   2  > The choice at the end of a session is what the room does with the weeping: let it run to its end, or step in with something kind\n  319   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  388   3  - **Record detail:** Check the designation before approach. More than one record in this facility is made of anger that was not al\nGENERIC 0.006  (26 shared shingles)  SE-C-Iα-683_Swallowed_Fury_사라진_눈물.md"
+  },
+  "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B173_02_SWALLOWED_FURY.md",
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-Iα-683_Swallowed_Fury_사라진_눈물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-683_Swallowed_Fury_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%88%88%EB%AC%BC.md \"SE-C-Iα-683_Swallowed_Fury_사라진_눈물.md\")]",
+  "table_link": "[Swallowed_Fury](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-683_Swallowed_Fury_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%88%88%EB%AC%BC.md \"SE-C-Iα-683_Swallowed_Fury_사라진_눈물.md\")"
+}
+```
+
+## Final push receipt
+
+[008cdce5b9b2420f985fcde7e25ec737dcd2fdec](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/008cdce5b9b2420f985fcde7e25ec737dcd2fdec) — PUSH VERIFIED; commit blob still matches reviewed final, reachable from origin at closure. Five fresh closing checks PASS. [Batch closure](B173_CLOSE.md).

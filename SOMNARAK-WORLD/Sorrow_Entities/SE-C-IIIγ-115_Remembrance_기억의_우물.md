@@ -122,7 +122,9 @@
 | **Distinctive markers** | A level that rises without inflow, a surface that does not move, and a dropped stone that rings in a voice rather than a note. |
 | **Identification** | Drop the stone with the cover closed. If it rings, you have the right shaft and you should not open the cover alone. |
 
-**Appearance protocol:** Level, temperature, surface state, and the stone's ring. Four readings, three of them takeable through a closed cover, which is how the watch is designed.
+**Appearance protocol:** Level, temperature, surface state, and the stone’s ring. Four readings, three of them takeable through a closed cover, which is how the watch is designed. Keep the watching Warden distinct from the rostered viewer and from the person holding the probe line. A spoken ring is an identification sign, not permission to open the shaft alone. The file’s routine stone-drop and the linked Side Codex’s prohibition on throwing objects remain different instructions; do not resolve them by improvising a sample or an unrecorded opening.
+
+**Shaft organisation:** Identify the worn stone rim, the deep shaft, the covered liquid-memory surface and the winch-mounted bronze probe as distinct parts of this fixed Place. The Tale’s Han-crystal lining concerns the shaft, not a crystal person inside it. Faces and voices belong to recalled lives and the viewer’s past, not proven inhabitants reaching bodily out of the well. Keep level, temperature, surface motion and a voiced stone-ring separate: the ordinary still surface, probe-thickening and recorded overflow have different observation conditions. None grants descent or turns a risen recollection into an owned sample.
 
 ## Origin
 - **Formation:** From recollection that had nowhere to be kept, draining down through the foundations to the lowest place that would hold it.
@@ -264,6 +266,8 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 *Four flasks exist. Three were granted to workers who closed a channel early and wrote down why; the fourth to a Warden who went forty years without once looking in, and who did not want it.*
 
+**Custody and separate pieces:** The linked Reel/Lens record severs invasive memory pressure into approved custody without granting the bearer access to its contents; its two witness roles are identity and custody. That does not reconcile the suspended brass reel with the same item’s pale circular resting Lens. The Veil’s removable collar supports a name witness, while its private destruction rule is not permission to create a general personnel file. The Flask preserves one consent-bound replay and requires an owner or custody authority, purpose, count and release condition. Its source-work bonus does not name a stat beyond the check already specified. Keep memory loss, self-absence and increasing replay weight separate from the local claim that every piece trades the wielder’s memories for recovered lives.
+
 ### M.A.W. Use Notes
 
 Every piece holds a little of what the Archive failed to write down, and each use trades the wielder's own unrecorded memories for somebody else's. The exchange is exact and the Armoury's ledger carries both columns: what the wielder recovered for the wing and what they can no longer produce about themselves. Three wielders; the ledger's totals are eleven recovered lives and nineteen lost afternoons.
@@ -336,15 +340,15 @@ The Well is darker than water and warmer than stone. When you look down, the sur
 
 **At first contact:** A stone well in a cold chamber, covered, with a winch and a bronze probe. Under the cover the surface is slow and thick and does not reflect the ceiling. A dropped stone rings rather than splashes, and the ring is a voice.
 
-**With continued exposure:** Prolonged exposure turns the containment zone into a landscape. The Void has topography here — ridges of pressure, valleys of absence, a geography only the Place-Void could have made.
+**With continued exposure:** Past the permitted interval the recovered past feels corrected rather than recalled: better ordered and dated, accurate enough that the observer may resist leaving. Keep the second observer at the clock and cover, not looking down. The shaft remains a well under the Archive; a stranger’s vivid recollection does not establish a newly walkable landscape in the chamber.
 
-**When the entity activates:** The Gauge crosses the line and the Place-Void remembers what it is. The Void surges — not as an attack but as a statement, a declaration that this sorrow will not be quieted.
+**When the entity activates:** The bronze probe breaks the surface on its winch line. The liquid thickens and the chamber smells of ash and something faintly sweet; city recollection becomes available while recent working knowledge is taken from the channeler. Record the deliberate probe contact separately from the gauge threshold and from an observer looking into their own past. A channeled exchange is not permission to take a liquid sample.
 
 **After departure:** You write something down. Archive staff do it within the day — a note, a date, a name against a face — and the station's briefing records it as the only after-effect in Zone A that improves the archive it came from.
 
 ### Interaction Pattern
 
-Three relations, all of them holdings that keep what people did not, and all measured on the rim gauge. Two raised the level. The third lowered it, once, by two centimetres, and the Archive has not been able to repeat it.
+Keep the three recorded relations separate: the Memory Weaver removes exposed rim residue without a level change; the Broken Mirror once showed the shaft’s contents through a closed cover and the arrangement is prohibited; Silence We Forgot We Made suppresses the stone’s ring without changing level or temperature. These findings do not identify which pairing produced the separate exceptional fall in level reported by the Registry. Do not assign that fall to a named partner by table order alone.
 
 **Interaction method:** Level and temperature before, during and after, with the cover closed throughout wherever the pairing permits it. No observer who has looked into the shaft that month takes part in a pairing, and the Archive's watchkeeper attends every one.
 

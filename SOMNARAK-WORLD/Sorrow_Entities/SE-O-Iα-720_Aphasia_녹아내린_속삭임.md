@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A small humanoid of melting crimson wax, speaking in a whisper that dissolves into nothing before it can be heard. Fever-warm, it smells of char and tallow; a confession that melts before it finishes. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — walks upright while the wax holds its outline, then flows low; on escape it drifts toward speech and stalks nobody. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 1 — Initial |
 

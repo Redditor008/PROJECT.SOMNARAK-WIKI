@@ -1,0 +1,904 @@
+{
+  "batch": 164,
+  "status": "CLOSED",
+  "base": "b82d9bdfa8df3b843c095fcad99f385496017460",
+  "required": 5,
+  "completed": 5,
+  "no_change": 0,
+  "rung_decision": "Close at five: zero completed No change dossiers, so no earned seven/ten rung. Five long full dossiers with substantive source/Work/state histories; no simplicity expansion.",
+  "checks": [
+    {
+      "designation": "C-IIIγ-916",
+      "check": "verify",
+      "rc": 0,
+      "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+    },
+    {
+      "designation": "C-IIIγ-916",
+      "check": "tpl",
+      "rc": 0,
+      "output": "RESIDUE 0  SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃.md\n"
+    },
+    {
+      "designation": "C-IIIγ-916",
+      "check": "sectfile",
+      "rc": 0,
+      "output": " 0.032  clean   435 grams  Combat Record\n 0.020  clean   255 grams  관찰 기록 (Observation Log)\n 0.018  clean   335 grams  기록 (Registrum)\n 0.018  clean   627 grams  감각 묘사 (Flavor Text)\n 0.016  clean   129 grams  Breach Behavior\n 0.011  clean   177 grams  Operational Parameters\n 0.010  clean   837 grams  M.A.W. Equipment\n 0.004  clean   986 grams  Warden Record\n 0.000  clean   436 grams  Expansion Behavior\n 0.000  clean   369 grams  이야기 (Narratio)\n 0.000  clean   362 grams  Appearance\n 0.000  clean   200 grams  이야기 보고 (Story Log)\n 0.000  clean   176 grams  Trivia\n 0.000  clean   164 grams  Behavior\n 0.000  clean   151 grams  Origin\n 0.000  clean    98 grams  최종 관찰 (Final Observation)\n 0.000  clean    41 grams  증언 (Testimonium)\n 0.000  clean    36 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n"
+    },
+    {
+      "designation": "C-IIIγ-916",
+      "check": "wikistd",
+      "rc": 0,
+      "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+    },
+    {
+      "designation": "C-IIIγ-916",
+      "check": "sect",
+      "rc": 0,
+      "output": "fraction 0.009048199060379328\nPASS: sect <=0.05\n"
+    },
+    {
+      "designation": "C-IIIγ-948",
+      "check": "verify",
+      "rc": 0,
+      "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+    },
+    {
+      "designation": "C-IIIγ-948",
+      "check": "tpl",
+      "rc": 0,
+      "output": "RESIDUE 0  SE-C-IIIγ-948_Foam_Flood.md\n"
+    },
+    {
+      "designation": "C-IIIγ-948",
+      "check": "sectfile",
+      "rc": 0,
+      "output": " 0.026  clean   191 grams  Trivia\n 0.018  clean   110 grams  Operational Parameters\n 0.010  clean   586 grams  M.A.W. Equipment\n 0.009  clean   587 grams  Combat Record\n 0.007  clean   299 grams  상호작용 (Entity Interactions)\n 0.006  clean  1576 grams  Warden Record\n 0.004  clean   251 grams  기록 (Registrum)\n 0.004  clean   568 grams  Activation Behavior\n 0.000  clean   687 grams  이야기 (Narratio)\n 0.000  clean   362 grams  이야기 보고 (Story Log)\n 0.000  clean   347 grams  관찰 기록 (Observation Log)\n 0.000  clean   314 grams  Appearance\n 0.000  clean   273 grams  Origin\n 0.000  clean   217 grams  감각 묘사 (Flavor Text)\n 0.000  clean   171 grams  최종 관찰 (Final Observation)\n 0.000  clean   145 grams  Behavior\n 0.000  clean   120 grams  증언 (Testimonium)\n 0.000  clean    73 grams  SECC Classification\n 0.000  clean    24 grams  (preamble)\n0 section(s) over 0.05\n"
+    },
+    {
+      "designation": "C-IIIγ-948",
+      "check": "wikistd",
+      "rc": 0,
+      "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+    },
+    {
+      "designation": "C-IIIγ-948",
+      "check": "sect",
+      "rc": 0,
+      "output": "fraction 0.004850801117154197\nPASS: sect <=0.05\n"
+    },
+    {
+      "designation": "C-IIα-081",
+      "check": "verify",
+      "rc": 0,
+      "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+    },
+    {
+      "designation": "C-IIα-081",
+      "check": "tpl",
+      "rc": 0,
+      "output": "RESIDUE 0  SE-C-IIα-081_Broken_Mirror_거울의_조각.md\n"
+    },
+    {
+      "designation": "C-IIα-081",
+      "check": "sectfile",
+      "rc": 0,
+      "output": " 0.017  clean   540 grams  M.A.W. Equipment\n 0.005  clean  1144 grams  Watch Record\n 0.005  clean   624 grams  감각 묘사 (Flavor Text)\n 0.000  clean   500 grams  Combat Record\n 0.000  clean   456 grams  Activation Behavior\n 0.000  clean   408 grams  Appearance\n 0.000  clean   374 grams  이야기 (Narratio)\n 0.000  clean   266 grams  관찰 기록 (Observation Log)\n 0.000  clean   258 grams  기록 (Registrum)\n 0.000  clean   170 grams  이야기 보고 (Story Log)\n 0.000  clean   170 grams  Operational Parameters\n 0.000  clean   151 grams  Origin\n 0.000  clean   142 grams  Behavior\n 0.000  clean   126 grams  Trivia\n 0.000  clean    47 grams  최종 관찰 (Final Observation)\n 0.000  clean    45 grams  SECC Classification\n 0.000  clean    34 grams  증언 (Testimonium)\n 0.000  THIN      3 grams  (preamble)\n0 section(s) over 0.05\n"
+    },
+    {
+      "designation": "C-IIα-081",
+      "check": "wikistd",
+      "rc": 0,
+      "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+    },
+    {
+      "designation": "C-IIα-081",
+      "check": "sect",
+      "rc": 0,
+      "output": "fraction 0.0033088235294117647\nPASS: sect <=0.05\n"
+    },
+    {
+      "designation": "C-IIβ-055",
+      "check": "verify",
+      "rc": 0,
+      "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+    },
+    {
+      "designation": "C-IIβ-055",
+      "check": "tpl",
+      "rc": 0,
+      "output": "RESIDUE 0  SE-C-IIβ-055_Weeping_Statue_우는_조상.md\n"
+    },
+    {
+      "designation": "C-IIβ-055",
+      "check": "sectfile",
+      "rc": 0,
+      "output": " 0.020  clean   559 grams  Combat Record\n 0.019  clean   269 grams  기록 (Registrum)\n 0.011  clean   181 grams  Operational Parameters\n 0.008  clean   125 grams  Behavior\n 0.008  clean  1275 grams  Watch Record\n 0.007  clean   823 grams  M.A.W. Equipment\n 0.006  clean   348 grams  이야기 보고 (Story Log)\n 0.005  clean   373 grams  관찰 기록 (Observation Log)\n 0.005  clean   205 grams  Containment Event Behavior\n 0.004  clean   520 grams  감각 묘사 (Flavor Text)\n 0.000  clean   401 grams  Appearance\n 0.000  clean   367 grams  이야기 (Narratio)\n 0.000  clean   162 grams  Trivia\n 0.000  clean   136 grams  최종 관찰 (Final Observation)\n 0.000  clean   117 grams  Origin\n 0.000  clean    39 grams  SECC Classification\n 0.000  clean    37 grams  증언 (Testimonium)\n0 section(s) over 0.05\n"
+    },
+    {
+      "designation": "C-IIβ-055",
+      "check": "wikistd",
+      "rc": 0,
+      "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+    },
+    {
+      "designation": "C-IIβ-055",
+      "check": "sect",
+      "rc": 0,
+      "output": "fraction 0.007170906607478231\nPASS: sect <=0.05\n"
+    },
+    {
+      "designation": "C-IIβ-099",
+      "check": "verify",
+      "rc": 0,
+      "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+    },
+    {
+      "designation": "C-IIβ-099",
+      "check": "tpl",
+      "rc": 0,
+      "output": "RESIDUE 0  SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md\n"
+    },
+    {
+      "designation": "C-IIβ-099",
+      "check": "sectfile",
+      "rc": 0,
+      "output": " 0.019  clean   566 grams  Combat Record\n 0.017  clean   293 grams  기록 (Registrum)\n 0.016  clean   192 grams  Trivia\n 0.012  clean   169 grams  Operational Parameters\n 0.007  clean   282 grams  관찰 기록 (Observation Log)\n 0.006  clean   658 grams  감각 묘사 (Flavor Text)\n 0.006  clean  1200 grams  Watch Record\n 0.002  clean  1026 grams  M.A.W. Equipment\n 0.002  clean   570 grams  Appearance\n 0.000  clean   406 grams  이야기 (Narratio)\n 0.000  clean   186 grams  Behavior\n 0.000  clean   163 grams  이야기 보고 (Story Log)\n 0.000  clean   157 grams  Origin\n 0.000  clean   148 grams  Breach Behavior\n 0.000  clean   145 grams  최종 관찰 (Final Observation)\n 0.000  clean    48 grams  SECC Classification\n 0.000  clean    35 grams  증언 (Testimonium)\n0 section(s) over 0.05\n"
+    },
+    {
+      "designation": "C-IIβ-099",
+      "check": "wikistd",
+      "rc": 0,
+      "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+    },
+    {
+      "designation": "C-IIβ-099",
+      "check": "sect",
+      "rc": 0,
+      "output": "fraction 0.005958132045088567\nPASS: sect <=0.05\n"
+    }
+  ],
+  "units": [
+    {
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃.md",
+      "designation": "C-IIIγ-916",
+      "opening_sha": "2b433d160f9cc93387b355c9a094d66d705aefb3903f4b2059efa2ea82330f31",
+      "final_sha": "4000193eb0342ce430c3e8f2b8ad60ed81dc59f3d7b6bb932c5338fe6a26f341",
+      "before_words": 7845,
+      "after_words": 8282,
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/916_Devouring_Bloom/SE-916-A__SIDE_CODEX_Devouring_Bloom.md": "4a42476db018f22bca06745cb9a64dbaf365d92e36123aa1e55ebe59c00f93e2",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/916_Devouring_Bloom/SE-916-B__MAW-W_Devouring_Bloom_Maul.md": "f95277eec88544357f676fa2fbba20a25fdc92df62ade609b3f381cadc006f6c",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/916_Devouring_Bloom/SE-916-C__MAW-S_Devouring_Bloom_Mantle.md": "b1ccc56e37a9a8cffe6e7b94caf0c35d8f3cf825a48e9ede83081590632fde06",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/916_Devouring_Bloom/SE-916-D__MAW-G_Devouring_Bloom_Key.md": "b9d45d57f0b1af40d1cb8524a270d45ace3536be55eed4d55dd33608ad9f2086",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "repairs": [
+        [
+          "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "| **Speed** | No measured travel speed is supplied. Root-leg hauling and the independently surveyed growth front are separate movements; the bloom is not a fixed device. |"
+        ],
+        [
+          "| **Valid Work Types** | Viderehan and Ferrehan only |",
+          "| **Valid Work Types** | Viderehan and Ferrehan; Flerehan only at the growth front. Pugnahan has a recorded adverse response but is barred by standing order. |"
+        ],
+        [
+          "All four Work Types are valid; it is a Subject and is worked as one. Viderehan and Ferrehan lower or hold the gauge; Flerehan is permitted at the growth front only, and the section is walked with a tunnel engineer rather than alone; Pugnahan raises it and breaks petals, and every petal handled is entered by name.",
+          "All four Work Types have recorded responses in this Subject. Viderehan and Ferrehan lower or hold the gauge; Flerehan is permitted at the growth front only, and the section is walked with a tunnel engineer rather than alone. Pugnahan raises the gauge and breaks petals and is barred by standing order; every petal handled is entered by name."
+        ],
+        [
+          "**Notable Features:** It grows from accumulated grief, carries secrets in its petals, and spreads without visible roots.",
+          "**Notable Features:** It grows from accumulated grief and carries losses in its petals. The main bloom hauls itself on visible root-legs; map the petals spreading through floor and wall stone separately rather than treating those legs as the growth front.\n\nRooting to feed and hauling toward prey are recorded actions of the same bloom. The escape account retains that root-legged body while spores travel ahead of it; it does not supply a separate breach anatomy or make the spore range the body’s reach."
+        ],
+        [
+          "The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact.",
+          "Confirm the designation, the cart-sized snapping bloom and its root-leg positions before approaching. Record the spreading petals and the structural survey as well; a location marker alone does not establish where the body now stands."
+        ],
+        [
+          "Held at Zone B in the deep tunnels, where it is read as a front rather than as a body: the petals push through the floor and the walls behind it and grow toward memorial objects, and the front is reported against cut wall marks twice over, by the Warden and by the engineer, and the 2 series are filed unreconciled.",
+          "Held at Zone B in the deep tunnels, its body position and growth front are recorded separately: the bloom hauls on root-legs, while petals push through the floor and walls behind it toward memorial objects. The front is reported against cut wall marks by the Warden and independently by the engineer, and the 2 series are filed unreconciled."
+        ],
+        [
+          "**Entry 5 — <The Architect Who Built>**",
+          "**Entry 5 — <The Paired Front Readings>**"
+        ],
+        [
+          "Reveals the sorrow attached to each petal. The gauge climbs and Devouring Bloom withdraws without revelation.",
+          "Pugnahan cracks the petals; the fragments retain their weight, the bloom closes and the front accelerates. The adverse response is not a new permission to confront it."
+        ],
+        [
+          "All three pieces are made of the same crystal as the petals and behave the same way: they keep what is given to them, they are heavier than they look, and they do not give anything back. The listed benefit holds inside the intended pattern, and the cost outside it is paid in the capacity to let go of things. No protocol produces a Stigma here.",
+          "The local appearances describe Han-steel for the Maul and Key and Han-weave for the Mantle; calling every piece petal crystal erases those distinctions. These are derived items, not the cart-sized bloom made portable. Their common source does not give them identical materials, costs or actions. No protocol produces a Stigma here.\n\nRead the costs separately even during intended use: progressive heaviness and slight aging with prolonged Maul use, constant fatigue with the Mantle, and faster aging with each use of the healing Key. The local record of keeping memorial objects remains an additional concern, not the universal toll that replaces those costs. A restorative Key does not restore the lives or event from which the set arose.\n\nThe exact Side and item records bind each bearer to the tunnel-workers’ memorial event and to witnessing the memories without unauthorized petal collection. Source Kept Distinct does not heal the originating event; full-set resonance ends when that resolution is met. First-person retelling of the event is the first recorded corrosion sign, followed by a source response outside contact and ultimately the bearer becoming its new site. Violating the limit reverses the item’s benefit and raises the source Gauge. A named witness states the source title and event while the bearer relinquishes the actual piece; attribution review precedes cleaning or rest, and shutdown does not refund the cost.\n\nThe source-trace still calls this an Object/Place source with unavailable Flerehan and Pugnahan, unlike the current primary Subject record. Preserve that disagreement rather than deriving Work permission from equipment binding. The present tool-channel record is separate from the Maul, Mantle and Key; its surrounding structural load is not an effect promised for every item."
+        ],
+        [
+          "Wielder, grade, gauge, state, condition of the piece, the objective, and confirmation that the wielder is not carrying anything taken from the tunnels. The last field is checked by a second person at the shaft head.",
+          "Wielder, actual piece, grade, gauge, condition, objective and attribution to the tunnel-workers’ memorial event. Check the source binding and confirm that the bearer carries nothing taken from the tunnels; a second person checks that field at the shaft head."
+        ],
+        [
+          "Activation time, effect strength, the area held, the load added to the surrounding structure, and the first cost noticed by anybody else present.",
+          "Activation time and the actual piece’s effect, its own fatigue, heaviness or aging cost, and who first notices it. Record structural load when the separate channel is used; do not assume every M.A.W. piece narrows the tunnel. First-person source memories require review even if the equipment remains intact."
+        ],
+        [
+          "Duration, activations, attribute movement, rejection signs, and whether the wielder has begun refusing to hand things over at the end of a task — the last of those being the limit the armoury treats as this set's own, since it is also the shape of every dispute filed against it.",
+          "Duration, activations, attribute movement and the first source-binding or corrosion failure. Do not wait for a property dispute or the bearer becoming the manifestation’s new site. Refusal to hand objects back remains a local warning alongside, not instead of, the item’s own signs."
+        ],
+        [
+          "Removal, injuries, lingering effects, cooldown, repair need, reuse authorisation, and a search of the wielder's kit conducted with their consent and in their presence.",
+          "Record the named witness’s attribution and the bearer’s relinquishment of the piece, injuries, lingering costs and reuse authorisation. Attribution review comes before cleaning or rest; ending use does not refund aging or other costs. Keep the consent-based kit search in the bearer’s presence, without treating recovered property as proof that corrosion has ended."
+        ],
+        [
+          "Read both columns and authorise on the second: here the stat line is a capacity and the cost column is a behaviour, and the behaviour is re-tested at every return.",
+          "Read capacity and each piece’s cost together. Structural survival is not a guarantee against fatigue, aging or autobiographical corrosion; review those signs during use rather than waiting for a return or a property dispute."
+        ],
+        [
+          "| **Duration** | While the channel is maintained; interruption ends the effect. |",
+          "| **Duration** | The active effect lasts while contact is maintained. Interruption ends that effect, not the duty to close the channel deliberately and record residue. |"
+        ],
+        [
+          "A channel abandoned mid-use does not close on its own; the residue compounds until it is ended deliberately.",
+          "Loss of contact ends the active effect, but an abandoned channel is not a clean closure: the residue still requires deliberate termination and review."
+        ],
+        [
+          "| **Duration / rate** | While the channel is maintained; interruption ends the effect. |",
+          "| **Duration / rate** | Sustained contact maintains the active effect; interrupted contact does not certify that the channel is cleanly closed or its residue cleared. |"
+        ],
+        [
+          "**Classification detail:** Devouring Bloom is an Object/Place with Fragment (III) coherence and Major (γ) potency.",
+          "**Classification detail:** Devouring Bloom is a Subject with Object-Weight manifestation, Fragment (III) coherence and Major (γ) potency; the older Object/Place work restriction remains a source disagreement, not the current primary classification."
+        ]
+      ],
+      "unit": 1,
+      "batch": 164,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_01_DEVOURING_BLOOM.md",
+      "source_history": "Batch116 unit2 111ab44 surviving full entries in both logs already compared the exact916 set and credited SE-916-B / MAW-W-916-01. The inaccessible historical git object was not pretended readable. Batch24 unit2 and archived summaries are prose/series history, not additional equipment credits.",
+      "sources_read": "Complete498-line original; exact916A65/B61/C61/D60 full; Registry1023–1026; Master table134–136 and detail1870–1902; EntityCodex396; Tale32 full1803–1865; archetype full-file exact916 search no row; Personalization533; disposition276; both current logs Batch116unit2 and archived WIP24unit2.",
+      "planned_scope": "Movement/Work and identification contradictions; supported body/front/spore distinction; material/toll/binding/care clarity; channel-effect/residue distinction; narrative/Trivia mismatches. Preserve original body classification, numbers, surveys, Tale, legal impasse and all exact source files.",
+      "summary": "Eighteen supported repairs separate the hauling root-legged body from the independently advancing front and airborne spores; remove fixed-device Speed, false rootlessness and the truncated Identification instruction. Work summary no longer authorizes prohibited Pugnahan or excludes front-only Flerehan. Story Entry1 retains body and front readings; Entry5 title now describes the paired surveys, and Final Observation failure reports cracked petals and accelerating front rather than incorrectly calling Viderehan a failure. Use Notes no longer call steel/weave equipment identical petal crystal or postpone every cost until misuse; exact binding, item-specific costs, Source Kept Distinct, corrosion, witness shutdown and attribution-before-care are recorded. All four Field Use stages distinguish actual items from the separate tool channel. Structural survival is not a mental-health warranty. Active channel effects and uncleared residue are distinguished. Registry Trivia now matches primary Subject/Object-Weight.",
+      "holds": [
+        "Exact A management and B source-trace prohibit Flerehan/Pugnahan as an Object/Place source, while A identity and the current primary classify a Subject and the primary records effective front-only Flerehan plus an adverse Pugnahan response. The exact source instructions and the source-trace incident cannot be silently rewritten as a new dated permission. Current Pugnahan prohibition is retained; the older source conflict prevents complete operational agreement.",
+        "Tale32 and the primary embedded Tale retain blue translucent memorial crystal and a present-tense does-not-threaten summary, while current field sections describe black snapping petals, predation and escape spores. Formation and ongoing memorial deposition are supported; a dated blue-to-black or harmless-to-predatory bodily transition is not. Colour difference alone is not the hold; the unqualified no-threat instruction/summary versus current harmful action needs source reconciliation. No new phase, anatomy or date invented.",
+        "Primary Stigma conferrals occur on workers who put a petal back; item D gives an observed work-source chance, without that particular local grant condition. Keep source-only bonus scope and unspecified statistic, Head/4% versus Registry generic Accessory/5% and Master accessory category; do not infer a Head-to-hand transformation or guarantee a grant.",
+        "Local O-Relic and residue-draw authorization are recorded separately from derived equipment. This is not proof that living petals may be cut or lifted. No extraction exception or manufacturing process was added. Local kit-retention behavior and no structural failures do not replace exact source autobiography/corrosion; annual property-return history remains a local observation, not universal item doctrine.",
+        "Primary-only Maul steel/weeping-Han and Mantle tightening/Key cooling descriptions are not validated by the functional source Appearance paragraphs. Earlier crystalline bloom-bud personalization remains a later rendered-art/source-parity recheck, not an invented physical variant. The exact Maul profile and pierced-target falloff agree and were retained; no fabricated anatomy or combat technique was added."
+      ],
+      "research_application": "A human memorial sorrow can be a predatory plant-crystal Subject. Rooting and hauling are recorded actions of one cart-sized body; spores are an effect ahead of it, not a separate body. An advancing front is not travel speed. The Warden disposal statement that workers cannot move the bloom is not automatically a denial of self-hauling. No breach counter does not mean no escape, and differently labelled activation/ultimate/breach figures are not automatically contradictory numbers. Donor and derived equipment silhouette/scale differences are accepted as supported derivation, not held as fitting or portability defects. Actual source Work doctrine and the unqualified no-threat narrative versus current harmful action remain unresolved, so no SE completion credit.",
+      "final_chain": "Complete507-line final read after five actual validators, in ordered coverage1–105/106–210/211–310/311–410/411–507. All combat, Work, tool timing, costs and item binding, Observation, Tale/Testimony/Registrum and Warden legal/survey appendices read. Source Work and threat chronology remain HELD. Digits, classification Physical Form and exact sources unchanged.",
+      "commentary": "The strongest part is the honest certificate nobody can sign: the wing refuses both a false clearance and a dishonest memorial exemption, yet its annual fine removes the surveying posts that keep workers safe. The flower is not merely an oversized memorial. It makes grief into structural load, while the institutions turn truthful reporting into a reason to weaken protection.",
+      "validation": {
+        "verify": {
+          "rc": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "rc": 0,
+          "output": "RESIDUE 0  SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃.md\n"
+        },
+        "sectfile": {
+          "rc": 0,
+          "output": " 0.032  clean   435 grams  Combat Record\n 0.020  clean   255 grams  관찰 기록 (Observation Log)\n 0.018  clean   335 grams  기록 (Registrum)\n 0.018  clean   627 grams  감각 묘사 (Flavor Text)\n 0.016  clean   129 grams  Breach Behavior\n 0.011  clean   177 grams  Operational Parameters\n 0.006  clean   837 grams  M.A.W. Equipment\n 0.004  clean   986 grams  Warden Record\n 0.000  clean   436 grams  Expansion Behavior\n 0.000  clean   369 grams  이야기 (Narratio)\n 0.000  clean   362 grams  Appearance\n 0.000  clean   200 grams  이야기 보고 (Story Log)\n 0.000  clean   176 grams  Trivia\n 0.000  clean   164 grams  Behavior\n 0.000  clean   151 grams  Origin\n 0.000  clean    98 grams  최종 관찰 (Final Observation)\n 0.000  clean    41 grams  증언 (Testimonium)\n 0.000  clean    36 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "rc": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "rc": 0,
+          "output": "sect fraction 0.008526187576126675\nPASS: sect <=0.05\n"
+        }
+      },
+      "whole_final_reread": true,
+      "status": "held",
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "visual_inspection": "Written-design logical review only. Artwork, rendered visual, browser/preview and published-site inspection not performed / not in scope.",
+      "commit": "528a7e646867a081cb9db8c5f0691fac18e55d3d",
+      "name": "Devouring Bloom",
+      "table_link": "[Devouring_Bloom](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-916_Devouring_Bloom_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EA%BD%83.md \"SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃.md\")",
+      "full_link": "[[SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-916_Devouring_Bloom_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EA%BD%83.md \"SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃.md\")]"
+    },
+    {
+      "designation": "C-IIIγ-948",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-948_Foam_Flood.md",
+      "signals": 1,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_02_FOAM_FLOOD.md",
+      "lines": 505,
+      "words": 9230,
+      "sha256": "221ec45e8a941d77c5ff19034aad8ede21ef22d8c85adf9fc87848c2eed1b64c",
+      "name": "The Foam Flood",
+      "unit": 2,
+      "receipt": "B164_02_FOAM_FLOOD.md",
+      "status": "held",
+      "repairs": [
+        [
+          "The stone dragon's wings spread to their fullest — and you feel, all at once, the whole of its grief:",
+          "The stone dragon holds its carved wings still — and you feel, all at once, the whole of its grief:"
+        ],
+        [
+          "The Vault's ceiling is, by long standing order, low.",
+          "The low ceiling belongs to the earlier containment arrangement; the Headroom Programme raised it. Record the current headroom and baseline rather than briefing personnel as though that alteration had never occurred."
+        ],
+        [
+          "The traveller (unidentified), and the long, unnamed line of hands that have touched the stone over the centuries and come away grieving the sky.",
+          "The traveller whose name and belongings are kept in the riverbank record, though the name is not reproduced here, and the long, unnamed line of hands that have touched the stone and come away grieving the sky."
+        ],
+        [
+          "Each Foam Flood piece is an extension of a grounded wish rather than ordinary equipment. The listed benefit holds while the bearer accepts the ground — restraint in contact, endurance of the pull, no reaching for height. Used to seek elevation it amplifies its own cost, and the bearer is afterwards described in the record as having been given the carving's half of the exchange.",
+          "Each Foam Flood piece derives from the grounded wish; it is not the carving itself made portable. Keep its own costs visible during intended use: the Spear's absent-wing ache, the Mantle's restlessness and climbing impulse, and the Eye's nightly flight dreams and grief. Seeking elevation is not the only way a bearer can be harmed.\n\nThe exact set binds the bearer to the riverbank event and to naming the unreachable sky without touching the source. Full-set resonance ends at the recorded resolution; it is not a cure for the originating event. First-person retelling of the source event begins corrosion, followed by source responses outside contact and the bearer becoming its new site. Violating the limit reverses the benefit and raises the Gauge. A named witness states the source title and event while the bearer relinquishes the actual item; attribution review precedes cleaning or rest, and shutdown does not refund the cost.\n\nThe carving's timed, gloved channel is a separate procedure, not the activation mode of every Weapon, Suit or Stigma. A stone-feather mantle need not share the donor's fixed sculpture silhouette. This derivation does not resolve the Spear's surviving range disagreement or authorize the forbidden reunion."
+        ],
+        [
+          "Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, eye-brightness baseline, glove certification date, named second observer, and confirmation that the operator has no prior channel within the cycle.",
+          "Bearer, actual item, grade, gauge, condition, objective and source attribution. For a separate carving channel, also enter the eye-brightness baseline, glove certification, named second observer and confirmation of no prior channel within the cycle."
+        ],
+        [
+          "Channel open time to the second, eye-brightness at each interval, buoyancy radius, petitioner's reported altitude, first cost, and any request to extend.",
+          "Record the actual item's effect, its own sky-grief or restlessness, and the first autobiographical source-memory sign. For a carving channel, retain exact opening time, eye-brightness, buoyancy radius, reported altitude and any request to extend; an item-use record does not certify a channel."
+        ],
+        [
+          "Duration, activations, attribute change, rejection signs, source behaviour, and whether the hand was lifted by the operator or by the observer.",
+          "Duration, activations, attribute changes and the first binding or corrosion failure. Do not wait for the bearer to become a new manifestation site. For the separate channel, record whether the operator or observer lifted the hand; the channel limit still applies."
+        ],
+        [
+          "Termination method, sky named aloud, injuries, lingering sky-grief, brightness at twelve hours, cooldown, rotation status, reuse authorisation.",
+          "For an item, record witnessed attribution, relinquishment, lingering cost and review before cleaning or rest; shutdown is not a refund. For a channel, retain termination method, sky named aloud, injuries, brightness at twelve hours, cooldown, rotation status and reuse authorisation."
+        ],
+        [
+          "| **Activation threshold** | A hand laid upon the carving |",
+          "| **Activation threshold** | A hand laid upon the carving, or bare skin within the longing-field |"
+        ],
+        [
+          "- A hand laid upon the carving is the activation condition. There is no counter and no gradual approach to it — the condition is met or it is not.",
+          "- A hand laid upon the carving or bare skin within the longing-field meets the activation condition. There is no counter to exhaust before the field can act; keeping skin off the stone alone does not make entry safe."
+        ],
+        [
+          "**Duration:** Until the hand is removed and the eyes dim.",
+          "**Duration:** Contact must be deliberately closed: lift the hand and name the sky aloud. Abandoning the channel does not terminate it safely; the sector vent and prolonged eye-brightness are recorded below."
+        ],
+        [
+          "Escalation here is the longing-field expanding during activation, not the carving moving. Nothing leaves the Vault, nothing is released, and the carving does not move; what expands is the radius inside which people want to rise.",
+          "Escalation here is the longing-field expanding during activation, not the carving moving. The source stays fixed; its pressure does not necessarily stay inside the Vault. Full spread crosses the boundary, and overload or abandonment vents across the sector. Record the radius inside which people want to rise, not an imaginary route taken by the carving."
+        ]
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/948_Foam_Flood/SE-948-A__SIDE_CODEX_Foam_Flood.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/948_Foam_Flood/SE-948-B__MAW-W_The_Skyward_Spear.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/948_Foam_Flood/SE-948-C__MAW-S_The_Glider_s_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/948_Foam_Flood/SE-948-D__MAW-G_The_Glowing_Eye.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "scope": "Correct fixed-carving versus wing-motion flavor, historical headroom and named-traveller summaries; separate derived item binding/cost/care from timed carving channels. No numerical normalization, forbidden test or invented body transition. Align early trigger and termination summaries with detailed channel safety; correct the false claim that no pressure leaves the Vault.",
+      "reasoning": "The source is a fixed dragon-shaped stone object, not an airborne dragon. Longing, field expansion and lifted people do not imply carving locomotion. Tale head dips are conditional textual observations, not evidence of flight. The donor-to-spear/mantle/eye relationship is explicit derivation; matching their silhouettes is not required.",
+      "history": "Whole506-line primary and exact948A–D read, including surviving A range hold; Registry1099–1102, archetype394 and disposition320. Exact MasterMAW/Entity/Tales searches found no dedicated MAW/Tale entry. Both logs B139unit1 identify priorB84unit3 5dbbd683 exactSE-948-B/MAW-W-948-01 coverage; B139680709a4 fullA–D review. No new equipment credit. Cross-flag remains prohibition, not co-presence evidence.",
+      "summary": "Eight repairs keep carved wings still, distinguish the earlier low ceiling from the Headroom Programme and identify the traveller as named in the surviving record. Derived equipment now has separate item costs, source binding, corrosion, witness shutdown and care rather than being treated as three carving channels. All four Field Use stages distinguish equipment from timed gloved contact; no source profile changed. Four further scoped repairs align both early activation summaries with bare-skin field exposure, replace passive duration with deliberate closure, and distinguish a fixed carving from pressure that can leave the Vault.",
+      "holds": [
+        "Fish references dim the eyes in Tale/Trivia but flare them in interaction prose; no trigger crosswalk establishes these as different conditions. Never test the forbidden pairing.",
+        "Primary fixed silhouette and Tale head lowering remain distinguishable from locomotion, but the scope of literal posture change is not established. A Transform/activation versus primary activation-only terminology remains unresolved; no forbidden composite is made a current form.",
+        "Headroom series denies sustained channel-count correlation after decay, while summaries assert ever-deepening grief per channel;41/61-year sequencing remains unnormalized. No new chronology or measurement invented.",
+        "Spear primaryRange3Long versus A/B4Long survives with explicit A hold; CloseFistBrand archetype has no proved crosswalk. Registry5% versus exact4% and local four bestowals/conditions remain distinct."
+      ],
+      "final_reasoning": "Supported safety and body/action repairs do not settle fish-reference behavior, source activation terminology or the long-term brightness account. HELD for these essential relationships, not because wearable equipment differs from a carving.",
+      "commentary": "The Headroom Programme turns a careful measure of suffering into an instruction for increasing it. The most disturbing part is that the cheaper remedy already exists and is simply never brought to the board; the personnel files then blame petitioners for wanting more of the intensity the facility created.",
+      "opening_sha": "221ec45e8a941d77c5ff19034aad8ede21ef22d8c85adf9fc87848c2eed1b64c",
+      "final_sha": "5069c89de8e5200afd427163b9ebe3701113b62b412faa9eb5ebdc565a4ccdeb",
+      "before_words": 9046,
+      "after_words": 9337,
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/948_Foam_Flood/SE-948-A__SIDE_CODEX_Foam_Flood.md": "9c97db02a6e44f849f730adbcde6440093feccd303199ecb84997a6ab77ae855",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/948_Foam_Flood/SE-948-B__MAW-W_The_Skyward_Spear.md": "e6b93f7427a6b2bb033c9bdaf97ab77115386a13ac6ce9b00ddf9349dbcd526e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/948_Foam_Flood/SE-948-C__MAW-S_The_Glider_s_Mantle.md": "368d3f083e03aa93fdddd31a0a62211f3e4f4aee54becc8cdedf56c63ec60438",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/948_Foam_Flood/SE-948-D__MAW-G_The_Glowing_Eye.md": "a37fbec1d4918e0041265736d3c96ee79809fe285780779823a0bce75ad089c1",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "base_commit": "528a7e646867a081cb9db8c5f0691fac18e55d3d",
+      "validation": {
+        "verify": {
+          "rc": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "rc": 0,
+          "output": "RESIDUE 0  SE-C-IIIγ-948_Foam_Flood.md\n"
+        },
+        "sectfile": {
+          "rc": 0,
+          "output": " 0.026  clean   191 grams  Trivia\n 0.018  clean   110 grams  Operational Parameters\n 0.009  clean   587 grams  Combat Record\n 0.007  clean   299 grams  상호작용 (Entity Interactions)\n 0.006  clean  1576 grams  Warden Record\n 0.005  clean   586 grams  M.A.W. Equipment\n 0.004  clean   251 grams  기록 (Registrum)\n 0.004  clean   568 grams  Activation Behavior\n 0.000  clean   687 grams  이야기 (Narratio)\n 0.000  clean   362 grams  이야기 보고 (Story Log)\n 0.000  clean   347 grams  관찰 기록 (Observation Log)\n 0.000  clean   314 grams  Appearance\n 0.000  clean   273 grams  Origin\n 0.000  clean   217 grams  감각 묘사 (Flavor Text)\n 0.000  clean   171 grams  최종 관찰 (Final Observation)\n 0.000  clean   145 grams  Behavior\n 0.000  clean   120 grams  증언 (Testimonium)\n 0.000  clean    73 grams  SECC Classification\n 0.000  clean    24 grams  (preamble)\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "rc": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "rc": 0,
+          "output": "fraction 0.004409819197412906\nPASS: sect <=0.05\n"
+        }
+      },
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "final_read": "Complete final primary read in document order after actual five validators, including untouched sections; final fingerprint matches.",
+      "visual_inspection": "Written-design logical review. No artwork, rendered visual, browser/preview or published site check performed.",
+      "link": "[[SE-C-IIIγ-948_Foam_Flood](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-948_Foam_Flood.md \"SE-C-IIIγ-948_Foam_Flood.md\")]",
+      "commit": "eeb162d70aac28109aeace28f6b48c05dd609c05",
+      "table_link": "[Foam_Flood](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-948_Foam_Flood.md \"SE-C-IIIγ-948_Foam_Flood.md\")",
+      "full_link": "[[SE-C-IIIγ-948_Foam_Flood](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-948_Foam_Flood.md \"SE-C-IIIγ-948_Foam_Flood.md\")]"
+    },
+    {
+      "designation": "C-IIα-081",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIα-081_Broken_Mirror_거울의_조각.md",
+      "signals": 1,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_03_BROKEN_MIRROR.md",
+      "lines": 501,
+      "words": 7703,
+      "sha256": "aed9afd0e4cf81a62f4742493a1d0f3a544e60bafcefd0bb257f192cc55cf93f",
+      "name": "Broken Mirror",
+      "unit": 3,
+      "receipt": "B164_03_BROKEN_MIRROR.md",
+      "status": "held",
+      "credits": {
+        "types": 1,
+        "weapon": 1,
+        "se": 0
+      },
+      "repairs": [
+        [
+          "### Detailed Appearance Profile",
+          "### Appearance States and Source Boundaries\n\nThe sealed memories belong to the formation history, not to an earlier walking body. The vault failed and its contents crystallized into the dark mirror; the present holding is the fractured crystal and corroded frame in its shallow case. No human anatomy is implied by the citizens whose memories formed it.\n\nA face at different ages, or a fracture across that face, belongs to the viewer's projection. New cracks in the crystal are separately traced against the overlay. Neither a widening radius nor fragmentation propagating to other reflective surfaces is evidence that the case has walked into the stacks.\n\nThe struck-triggered Flying Glass action does describe a departing shard, whereas the surveyed count and fixed-position summaries do not record a loss. Keep the action and the count together as an unresolved physical-accounting question; do not supply an undocumented return or call it ordinary case locomotion. The Reflection Lens, Veil and Shard are derived pieces, not alternate bodies of the source. Their different sizes and materials need no invented transformation between them.\n\n### Detailed Appearance Profile"
+        ],
+        [
+          "| **Position / movement** | Fixed in its case; only the radius moves. Record the radius edge measured from the case, the crack overlay, and the glass angle at open and close. |",
+          "| **Position / movement** | Normally fixed in its case; activation expands the radius and alters reflections, not the case position. Record the radius edge, crack overlay and glass angle, and retain any Flying Glass event separately with the physical shard count. |"
+        ],
+        [
+          "The break pattern is fixed in the sense that nothing already cracked ever heals. Nineteen new cracks have appeared since it entered the Archive, each dateable to within six days.",
+          "The existing cracks do not heal; that does not make the pattern unchanging. Nineteen new cracks have appeared since it entered the Archive, each dateable to within six days."
+        ],
+        [
+          "Every piece shows somebody a period they arranged to lose, and the set does the same to its wielder at a rate the Armoury cannot control. The benefit is precision — wielders recall removed material accurately, and eleven namings have been verified against the Keepers' own clerks. The cost is that they stop being able to tell which of their memories were removed and which were simply forgotten, and that distinction is the thing the erasure service sold.",
+          "The pieces share the source's concern with recovered history, not a single identical effect. The Lens takes small, nameless memories while striking; the Veil protects against Void while leaving the wearer faintly absent to themselves; the Shard exposes other people's hidden pain. Confusing those costs with one universal projection conceals what actually needs to be watched.\n\nThe local Lens reports include eleven verified clerk namings, but that is not a guarantee that every source projection is true. Keep those checks apart from the verification file's incorrect and unresolved viewings. Equipment performance cannot make the source fit to decide a clearance application.\n\nThe exact Reflection set identifies this source by designation under the title Honest Reflection. Its event-attribution and first-person corrosion warnings are relevant to bearer records, but its gauge-based binding limit does not establish an explanation for the local one-viewing, consent and detachment procedure. Preserve that procedural disagreement rather than treating the item set as permission for extra viewings. Care follows attribution review; a named witness states the source title and event while the bearer relinquishes the actual item. Shutdown does not restore the memories paid for use."
+        ],
+        [
+          "| **During use** | Everything the wielder recalls that the register lists as removed, transcribed verbatim by the second worker. |",
+          "| **During use** | Record the actual piece and its specific cost alongside everything recalled from the removed register, transcribed verbatim by the second worker. Mark a first-person claim to the vault-failure event separately from a memory of the bearer's own life. |"
+        ],
+        [
+          "| **After use** | Seal the transcript with the wielder's own consent recorded on the outside, and offer it to them annually thereafter. Of eleven such transcripts, three have been collected. |",
+          "| **After use** | Record witnessed relinquishment, lingering cost and attribution review before cleaning or rest. Preserve consent: seal the transcript with the wielder's own consent recorded on the outside, and offer it to them annually thereafter. Of eleven such transcripts, three have been collected. |"
+        ]
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1009_Honest_Reflection/SE-1009-A__SIDE_CODEX_Honest_Reflection.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1009_Honest_Reflection/SE-1009-B__MAW-W_The_Reflection_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1009_Honest_Reflection/SE-1009-C__MAW-S_The_Reflection_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1009_Honest_Reflection/SE-1009-D__MAW-G_The_Reflection_Shard.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "scope": "Represent formation, current fractured object and viewer-dependent reflections separately; qualify fixed-position wording for the documented Flying Glass action without inventing return. Separate item costs and care from source truth-certification and consent procedure.",
+      "reasoning": "Whole502-line original read. Object/Place/ObjectVoid source is formed from sealed memories, not a formerly humanoid walking character. Existing material, facets, tray and frame already fit that formation. Reflections can change without moving the case, while the Flying Glass action needs physical accounting distinct from the expanding field.",
+      "history": "Identity: numeric081 set is Hollow Saint C-IIIγ-081, NOT this source. Exact1009A–D explicitly name C-IIα-081 [VO] and match Reflection Lens/Veil/Shard; all four fully read. Master100–102 inventory/detail, Entity398, complete Tale34, CSV198–201, archetype409 and disposition296 read. Fresh exactSE-1009-B/MAW-W-1009-01/HonestReflection/ReflectionLens/full-designation search across all six current/archived WIP+CHANGELOG, reference Markdown, all-ref commit subjects and independent ledger found no earlier comparative source review. ArchivedB56unit7 d986423 is R29series retained7703words, not equipment comparison. HollowSaint SE081B/B86/B120 is a different full identity and cannot confer this credit. This fresh whole-primary/exact-set comparison earns+1Types/+1Weapon, no body backfill.",
+      "summary": "Six repairs distinguish memory crystallization, present crystal and viewer projections; qualify the fixed-case summary without inventing a flying-shard return. Crack history no longer reads as a fixed pattern. Equipment use and two field stages distinguish Lens memory loss, Veil absence and Shard hidden-pain exposure, consent, source accuracy, attribution and care.",
+      "holds": [
+        "Flying Glass departs on a strike, yet the shard count is invariant and ordinary-force attempts never mark the crystal. No return/replacement or alternate state supplied. VesselDestructibleYes versus unbreakable record remains held.",
+        "Direct-gaze/contact trigger versus45% threshold; looking away ends projection versus cannot stop once begun and damaging forced detachment; fixed case versus operative-carried mounting need a documented use/state distinction.",
+        "Side1009A/items bind a generic below25% condition while local closure authorizes one viewing or none and consent governs memory handling. No extra gaze, resonance or automatic gauge resolution imported.",
+        "Archetype1009SutureNeedle versus primary Lens and MasterOptical; StigmaMasterRelicDrops versus Head shard. ExactB–D have no Appearance section: omission is not a conflicting silhouette. Tale guaranteed truth versus verification wrong/unresolved cases and claimed7/8 fraction remain as written; no new denominator or accuracy guarantee."
+      ],
+      "final_reasoning": "Formation-to-current shape is coherent without humanoid anatomy or item silhouette matching, but shard-flight/count, damageability and mounting/termination relationships still prevent an honest whole-design pass. HELD for those evidence gaps, not merely for equipment derivation.",
+      "commentary": "I find the clearance-viewing history stronger than the mirror itself: an instrument known to be fallible still decides careers because nobody read the files together. The families also genuinely received the service they bought. That makes the failed remedy more unsettling than a simple story about fraud.",
+      "opening_sha": "aed9afd0e4cf81a62f4742493a1d0f3a544e60bafcefd0bb257f192cc55cf93f",
+      "final_sha": "cb401d61dfad6896effe5790c1152474dbff1290118832d762d074ef6c92cbfe",
+      "before_words": 7589,
+      "after_words": 7922,
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1009_Honest_Reflection/SE-1009-A__SIDE_CODEX_Honest_Reflection.md": "a648ef68d2453093188e806dfaac8a194968648e02e3070cc527529abaa15fdc",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1009_Honest_Reflection/SE-1009-B__MAW-W_The_Reflection_Lens.md": "5840379c919032230f8ab1a182ddc4ca1ef2ca826a0ef6f9fb4391c4ab02c57a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1009_Honest_Reflection/SE-1009-C__MAW-S_The_Reflection_Veil.md": "529025da77a5c2507fbdfb3e1c3e9061aca8474b15cc089cfbd815220cd1ea40",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1009_Honest_Reflection/SE-1009-D__MAW-G_The_Reflection_Shard.md": "73f124f0ff63db95abc21a38898cb5ad4d9ebc8843ebba04793600543454573c",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "base_commit": "eeb162d70aac28109aeace28f6b48c05dd609c05",
+      "validation": {
+        "verify": {
+          "rc": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "rc": 0,
+          "output": "RESIDUE 0  SE-C-IIα-081_Broken_Mirror_거울의_조각.md\n"
+        },
+        "sectfile": {
+          "rc": 0,
+          "output": " 0.017  clean   540 grams  M.A.W. Equipment\n 0.005  clean  1144 grams  Watch Record\n 0.005  clean   624 grams  감각 묘사 (Flavor Text)\n 0.000  clean   500 grams  Combat Record\n 0.000  clean   456 grams  Activation Behavior\n 0.000  clean   408 grams  Appearance\n 0.000  clean   374 grams  이야기 (Narratio)\n 0.000  clean   266 grams  관찰 기록 (Observation Log)\n 0.000  clean   258 grams  기록 (Registrum)\n 0.000  clean   170 grams  이야기 보고 (Story Log)\n 0.000  clean   170 grams  Operational Parameters\n 0.000  clean   151 grams  Origin\n 0.000  clean   142 grams  Behavior\n 0.000  clean   126 grams  Trivia\n 0.000  clean    47 grams  최종 관찰 (Final Observation)\n 0.000  clean    45 grams  SECC Classification\n 0.000  clean    34 grams  증언 (Testimonium)\n 0.000  THIN      3 grams  (preamble)\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "rc": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "rc": 0,
+          "output": "fraction 0.0033088235294117647\nPASS: sect <=0.05\n"
+        }
+      },
+      "whole_final_reread": true,
+      "no_change": false,
+      "final_read": "Complete final primary read in document order after actual five validators, including untouched sections; final fingerprint matches.",
+      "visual_inspection": "Written-design logical review. No artwork, rendered visual, browser/preview or published site check performed.",
+      "counters": {
+        "types": 255,
+        "weapon": 255,
+        "se": 12
+      },
+      "link": "[[SE-C-IIα-081_Broken_Mirror_거울의_조각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B1-081_Broken_Mirror_%EA%B1%B0%EC%9A%B8%EC%9D%98_%EC%A1%B0%EA%B0%81.md \"SE-C-IIα-081_Broken_Mirror_거울의_조각.md\")]",
+      "commit": "e654a2be7aaae6f8674a3200df74dbf28870caf3",
+      "table_link": "[Broken_Mirror](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B1-081_Broken_Mirror_%EA%B1%B0%EC%9A%B8%EC%9D%98_%EC%A1%B0%EA%B0%81.md \"SE-C-IIα-081_Broken_Mirror_거울의_조각.md\")",
+      "full_link": "[[SE-C-IIα-081_Broken_Mirror_거울의_조각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B1-081_Broken_Mirror_%EA%B1%B0%EC%9A%B8%EC%9D%98_%EC%A1%B0%EA%B0%81.md \"SE-C-IIα-081_Broken_Mirror_거울의_조각.md\")]"
+    },
+    {
+      "designation": "C-IIβ-055",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-055_Weeping_Statue_우는_조상.md",
+      "signals": 1,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_04_WEEPING_STATUE.md",
+      "lines": 469,
+      "words": 8027,
+      "sha256": "376b40626e8189af57d3d7ef28f138ffebb78b159c89dc7aa43f725e91db0e84",
+      "name": "Weeping Statue",
+      "unit": 4,
+      "receipt": "B164_04_WEEPING_STATUE.md",
+      "status": "held",
+      "repairs": [
+        [
+          "- It does not move or speak.",
+          "- It does not leave the pedestal or speak. Recorded deepening of the bow and grief-dependent facial changes are distinct from locomotion."
+        ],
+        [
+          "| **Position / movement** | Fixed on the pedestal; it has never moved, leaned, or turned. The pool at its feet advances and never retreats, so the stain line on the Gardens floor is a cumulative record of every expansion since the holding opened. |",
+          "| **Position / movement** | Fixed on the pedestal, with no recorded departure. Escalation can deepen the bow against the head-angle mark; the carved face also changes subtly with the grief before it. The pool advances without retreat, and its stain line records cumulative spatial expansion rather than a route walked by the statue. |"
+        ],
+        [
+          "The statue itself will not change; everything observable at this stage is on the floor.",
+          "Keep that conditional head-angle change distinct from the advancing pool and from locomotion; the floor is not the only observable part of the event."
+        ],
+        [
+          "- It has never attempted to event, and the record is unusual in being able to say so of sixty-one years. Only the pool expands.",
+          "- It has never attempted to breach, and the record is unusual in being able to say so of sixty-one years. Only the pool expands."
+        ],
+        [
+          "### Detailed Appearance Profile",
+          "### Formation and Conditional Appearance\n\nThe source is the city's accumulated uncried grief crystallized into a citizen-shaped statue, not an identified citizen transformed bodily into stone. Its Subject classification permits the recorded Work responses; its non-organic material and fixed pedestal do not make it an Object by default.\n\nKeep three observations separate: the bowed stone body at its pedestal, its grief-dependent face and deeper head angle, and the liquid pool with hardened tears at the feet. The face is deliberately not a stable recognition marker. A changing expression or bow need not mean departure from the pedestal; the advancing stain line is the pool's footprint, not the body's stride.\n\nThe Heavy Hand and Cracking combat entries remain beside the records of an inert Pugnahan response and an undamaged source. No ordinary moving or shattered body has been established by that juxtaposition alone. Do not explain the conflict away by inventing a breach form.\n\n### Detailed Appearance Profile"
+        ],
+        [
+          "The full set follows *Tears Given Room*: hold a memorial where every participant may leave, speak, or remain silent freely. The tears form one stable Echo without raising the Gauge, while the bearer carries the memorial's strongest unspoken grief until dawn.",
+          "The full set follows *Tears Given Room*: hold a memorial where every participant may leave, speak, or remain silent freely. The tears form one stable Echo without raising the Gauge, while the bearer carries the memorial's strongest unspoken grief until dawn.\n\nThese are derived pieces, not portable statues. Travertine, mourning silk and the obsidian earring express the source without requiring the same outline as the bowed stone body. The Weapon's Crying Edge requires honestly acknowledged grief: performative sorrow supplies no power, and using another person's grief without consent sends the pressure back to the bearer. That limit applies before a strike, not only after the wrist ribbon tightens.\n\nThe Suit's exact record protects against grief becoming immobilizing; its benefit is not emotional emptiness. The Earring's Tears as Record produces a stable fragment from a genuine tear. It records emotion, not a complete memory, and cannot prove every detail of an event. Neither the Mint's currency assay nor the local visual-flash claim establishes that missing evidentiary power."
+        ]
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-A__SIDE_CODEX_The_Weeping_Statue.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-B__MAW-W_The_Tear_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-C__MAW-S_The_Tear_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-D__MAW-G_The_Tear_Earring.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "scope": "Separate fixed pedestal from explicitly recorded conditional bow and face, repair the categorical no-change observation, explain source formation versus donor equipment, and carry exact consent/fragment limits into existing use guidance. Do not invent a mobile or shattered combat phase.",
+      "reasoning": "Whole470-line original read. Subject/SubjectLament can be fixed non-organic statue: Subject status does not require an ordinary mobile living human. City grief crystallizes into a citizen-shaped monument. Primary OperationalNotes and Flavor expressly record head lowering, while detailedAppearance falsely denies any lean and observation denies any body change. Those are supported conditional posture corrections, not a new mobile form.",
+      "history": "Exact055A98/B48/C52/D49 read in full. Master112–114/detail2068–2100, Entity402, fullTale38, CSV102–105, archetype81, disposition322 read. Bothlogs B119unit4 f1347cf already fullset; 2026-10-09 exactSE055B/MAW-W-055-01 review already Weapon credit. ArchivedB16unit3 is prose work. No duplicate equipment or inherited SEbody credit;+0/+0/+0.",
+      "summary": "Six supported repairs separate conditional head lowering and grief-dependent facial shifts from fixed-pedestal locomotion, explain collective grief crystallization without inventing an individual stone transformation, and repair one malformed breach sentence. Use Notes now preserve the Weapon consent/performative-sorrow limit, Suit protection without numbness as its aim, and Earring emotion-only evidence limit.",
+      "holds": [
+        "Speed1.45m/s versus stationary/no departure; HeavyHand blow and Cracking damaged body versus Pugnahan impossible-provocation/damage and nineteen inert attempts remain unexplained. No unsupported secondary animated form. Conditional face/bow alone is supported, not a full combat-state resolution.",
+        "Nonbreaching corruption versus Registrum never-escalated and three documented doubled-flow drainings; activation3/60%/65%/event40% lack a complete trigger crosswalk. No threshold normalized.",
+        "Primary+1Clarity/totalflashimmunity versus exactD+1sourcework/emotionfragment; primaryranged-evasion versus C anti-immobilization; Cminorjoynumbness versus primarycoldtears remain distinct records. MasterStigmaPendant versus exactear placement unresolved, not a donor-body mismatch.",
+        "Unique emotional tear signatures versus untraceable identical Mint Echoes and absolute no-draining versus scheduled banking need a documented method distinction. Do not claim a unique origin marker exists. TaleComprehension2/Flerehanonly versus primary1/allfourattempted retained as history disagreement; ethical remedy and chronology untouched."
+      ],
+      "final_reasoning": "The actual fixed-body versus conditional-posture defect is repaired using two independent local passages. Body speed, physical attack/damage and no-event claims remain materially unresolved, so the whole design stays HELD; unrelated item silhouette differences are not the reason.",
+      "commentary": "The public garden is genuinely consoling, which makes its financing trap work. I would not want that kindness removed merely to simplify the indictment. The proposed flat budget matters because it preserves the place people need while removing the incentive to need their grief.",
+      "opening_sha": "376b40626e8189af57d3d7ef28f138ffebb78b159c89dc7aa43f725e91db0e84",
+      "final_sha": "c852fa53e3b6bae628764414834389b0a6266e7320e586f2a8ed12b220d4b2b0",
+      "before_words": 7910,
+      "after_words": 8222,
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-A__SIDE_CODEX_The_Weeping_Statue.md": "d037198cb32e51b2aa0ce1313e12e3ab631f893e5a2acbd45d2aaf6fdfb76743",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-B__MAW-W_The_Tear_Requiem.md": "99ae1dfc4b18e35435154256bdbf2ad4c0fc9aef37c440dd00ce1d1301e2a9c5",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-C__MAW-S_The_Tear_Shroud.md": "32d71ee78637b18b9d14ef2fb77880a58d320b9398656a88823e19806c3e83b6",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-D__MAW-G_The_Tear_Earring.md": "a3c5ed0640d800c64332052c6cfa6e3bd1f4cb7e21fcc39ea58eb709594e2e81",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "base_commit": "e654a2be7aaae6f8674a3200df74dbf28870caf3",
+      "validation": {
+        "verify": {
+          "rc": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "rc": 0,
+          "output": "RESIDUE 0  SE-C-IIβ-055_Weeping_Statue_우는_조상.md\n"
+        },
+        "sectfile": {
+          "rc": 0,
+          "output": " 0.020  clean   559 grams  Combat Record\n 0.019  clean   269 grams  기록 (Registrum)\n 0.011  clean   181 grams  Operational Parameters\n 0.008  clean   125 grams  Behavior\n 0.008  clean  1275 grams  Watch Record\n 0.007  clean   823 grams  M.A.W. Equipment\n 0.006  clean   348 grams  이야기 보고 (Story Log)\n 0.005  clean   373 grams  관찰 기록 (Observation Log)\n 0.005  clean   205 grams  Containment Event Behavior\n 0.004  clean   520 grams  감각 묘사 (Flavor Text)\n 0.000  clean   401 grams  Appearance\n 0.000  clean   367 grams  이야기 (Narratio)\n 0.000  clean   162 grams  Trivia\n 0.000  clean   136 grams  최종 관찰 (Final Observation)\n 0.000  clean   117 grams  Origin\n 0.000  clean    39 grams  SECC Classification\n 0.000  clean    37 grams  증언 (Testimonium)\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "rc": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "rc": 0,
+          "output": "fraction 0.007170906607478231\nPASS: sect <=0.05\n"
+        }
+      },
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "final_read": "Complete final primary read in document order after actual five validators, including untouched sections; final fingerprint matches.",
+      "visual_inspection": "Written-design logical review. No artwork, rendered visual, browser/preview or published site check performed.",
+      "counters": {
+        "types": 255,
+        "weapon": 255,
+        "se": 12
+      },
+      "link": "[[SE-C-IIβ-055_Weeping_Statue_우는_조상](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-055_Weeping_Statue_%EC%9A%B0%EB%8A%94_%EC%A1%B0%EC%83%81.md \"SE-C-IIβ-055_Weeping_Statue_우는_조상.md\")]",
+      "commit": "bff4f407eb7af57ea6bd17741f30f18070cd6cea",
+      "table_link": "[Weeping_Statue](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-055_Weeping_Statue_%EC%9A%B0%EB%8A%94_%EC%A1%B0%EC%83%81.md \"SE-C-IIβ-055_Weeping_Statue_우는_조상.md\")",
+      "full_link": "[[SE-C-IIβ-055_Weeping_Statue_우는_조상](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-055_Weeping_Statue_%EC%9A%B0%EB%8A%94_%EC%A1%B0%EC%83%81.md \"SE-C-IIβ-055_Weeping_Statue_우는_조상.md\")]"
+    },
+    {
+      "designation": "C-IIβ-099",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md",
+      "signals": 1,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_05_MASKED_DANCER.md",
+      "lines": 486,
+      "words": 8040,
+      "sha256": "3a1b603d1d7014ec4bfd52e282e7beafe8a32df88c3f95e7805ecb64a6a1f46c",
+      "name": "The Masked Dancer",
+      "unit": 5,
+      "receipt": "B164_05_MASKED_DANCER.md",
+      "status": "changed",
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 1
+      },
+      "repairs": [
+        [
+          "- **Formation:** The Dancer formed from those who wanted to dance but could not.",
+          "- **Formation:** The Dancer formed from denied movement — walking, leaving, rising, as well as dancing — among those whose bodies or circumstances held them still."
+        ],
+        [
+          "the Dancer does not attack, it performs, so what a crew resists is its own willingness to keep watching.",
+          "ordinary watching is pressured through the performance, while interruption and cornering have their own physical attack entries. Do not brief those conditional cutting blows as harmless spectatorship. A crew also resists its own willingness to keep watching."
+        ],
+        [
+          "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "| **Valid Work Types** | Flerehan, Viderehan and Ferrehan are the recorded non-confrontational approaches; Pugnahan is prohibited. Current camera-only closure prevents the person-present gauge-lowering cycles described below. |"
+        ],
+        [
+          "> *\"The Masked Dancer has broken free. Hunts personnel indiscriminately.\"*",
+          "> *\"The Masked Dancer has broken free. It follows the longest-watching observer; clear the audience and break line of sight.\"*"
+        ],
+        [
+          "**Primary Form:** A graceful humanoid wearing a beautiful smiling mask. It dances continuously, with precise and tireless movement.",
+          "**Primary Form:** A graceful humanoid of living flesh beneath a smiling porcelain mask fused to the skin. Precise repeated dancing is its ordinary presentation, not proof of an inability to pause: shared-performance stoppages are recorded below. The mask's smile is not consent or pleasure."
+        ],
+        [
+          "| **Form** | A graceful humanoid wearing a beautiful smiling mask. It dances continuously, with precise and tireless movement. |",
+          "| **Form** | A living humanoid beneath a smiling fused porcelain mask; fever-hot flesh and a cracked jaw join distinguish the source from a free-standing mask. Ordinary precise dancing and recorded partnered pauses belong to the same body. |"
+        ],
+        [
+          "| **Position / movement** | Continuous movement across the market floor. Record tempo, the step reached at session open and close, distance from the rail, and any approach toward an observer. |",
+          "| **Position / movement** | Usually dancing across the market floor; an Escape follows an observer through occupied corridors. Partnered stoppages are separate observations, not a new body. Under current closure, use the fixed camera and mark any historical rail distance as historical. |"
+        ],
+        [
+          "A smiling porcelain mask fused at the skin, precise unbroken movement, and a crack beneath the smile that has widened measurably after every forced performance.",
+          "A smiling porcelain mask fused at the skin, precise repeated movement, and a crack beneath the smile that has widened measurably after every forced performance. Record a pause as a pause rather than omitting it to preserve an absolute description."
+        ],
+        [
+          "### Detailed Appearance Profile",
+          "### Supported States and Observation Limits\n\nThe originators were people denied movement; the resulting Subject-Body is not one identified patient restored to health. Its living, fever-hot human outline is supported by the source, not inferred solely from human sorrow. The fused smiling mask remains part of that outline in ordinary performance, a partnered pause and Escape. No transformed pursuit anatomy is recorded.\n\nOrdinary repetition is not literal uninterrupted motion under every condition. The troupe visits stopped it; the extraction record separately describes a voluntary breath-long pause, and Chosen Intermission records a bow with the mask unchanged before resumption after the bearer leaves. Keep those conditions attached to those observations. The Tale and quoted never-stop descriptions express the continuing burden but cannot replace the operational stoppage record. A pause does not prove permanent release or permission to force a stop.\n\nEscape moves this same body out of the floor along the watching audience. The rhythm left in personnel is an aftereffect, not the body itself travelling inside them. The extracted glove, robe and shard are equipment, not additional source bodies; their distinct resting and active records require item-specific evidence, not a matching donor silhouette.\n\nThe rail watch, its tear entries and the troupe visits precede the current camera-only closure. The camera cannot inspect beneath the mask: no newly logged tear is not evidence that tears ceased. Retain the older close observations as older observations, and distinguish ordinary slowing, an observed voluntary pause, a breach ending when sightlines break, and permanent rest, which has not been established.\n\n### Detailed Appearance Profile"
+        ],
+        [
+          "**Appearance protocol:** Record tempo, the step reached, distance from the rail, the crack measurement, and any tear with its time and circumstance. Do not describe the dance as beautiful in the field record; the word has been struck from three reports and the reason is in the file. Do not write *strange* or *anomalous* either; it is hot, precise, smiling and cracked, and those are the fields.",
+          "**Appearance protocol:** Record tempo, the step reached, the crack measurement where visible, and the observation method. Rail distance and the tear log are historical under current camera-only closure; the camera cannot establish a new under-mask tear finding. Do not describe the dance as beautiful in the field record; the word has been struck from three reports and the reason is in the file. Do not write *strange* or *anomalous* either; it is hot, precise, smiling and cracked, and those are the fields."
+        ],
+        [
+          "### Battle Phases\n",
+          "### Battle Phases\n\n**Historical procedure, not current access permission:** The rail and shared-performance instructions below preserve the former method and its results. The later floor closure removed person-present work; no cycle has been run since. They do not authorize a crew or a civilian troupe to re-enter or imitate the recorded visits.\n"
+        ],
+        [
+          "Being a Subject, it leaves all four Work Types open; Pugnahan is prohibited anyway, having lifted gauge and tempo together on every occasion logged.",
+          "Subject classification does not make every Work Type permissible: Pugnahan is prohibited, having lifted gauge and tempo together on every occasion logged."
+        ],
+        [
+          "Flerehan and Ferrehan bring the gauge down, Ferrehan most reliably and at the largest bill in staff hours.",
+          "The recorded Flerehan and Ferrehan cycles brought the gauge down, Ferrehan most reliably and at the largest bill in staff hours. Both need a person present; neither is currently being run under the camera-only closure. Their documented benefit is not a present floor-access authorization."
+        ],
+        [
+          "What is cut from the Dancer is not gear in any ordinary sense: a piece works by joining in whatever happens beside it. The toll is the one recorded above — old injuries aching, bruising in the same lines on prolonged use — and it is charged whether the work was performed correctly or not, which the armoury prints on the issue slip in those words.",
+          "Borrowed Motion requires a chosen endpoint and a partner with real authority to give the stop cue. The Weapon charges old injuries and bruising even during correct use; the Suit dulls retreat and rest reflexes; the Stigma makes stillness difficult. The Weapon's price is not the single cost of all pieces, and endurance is not permission to keep going.\n\nChosen Intermission accepts the partner's spoken cue after a task-defined movement sequence. It releases accumulated joint Grudge and permits disengagement, but locks the pieces until real rest and a joint return-to-duty decision. That item condition does not reopen the source floor or guarantee a permanent end to its dance.\n\nThe exact items retain disputed Fang, Plate and Mask physical instructions. A guard grip, shin-link release or tail-thread removal must be tied to the actual verified item assembly, not silently applied to a spectral glove, silk robe or cheek shard. Shared partner and endpoint requirements do not resolve those form conflicts. Do not snatch a weapon mid-stride, service a suit while its bearer paces, or cut the Stigma thread as a shortcut to rest; the item records each describe a separate failure from those actions. The existing Cross-Source Review remains in force."
+        ],
+        [
+          "| **Before use** | Wielder, piece, the gauge, and one pre-check written by a second person: which of the bearer's old injuries ache, and whether they can stand still for a full minute. The second question exists only on this set. |",
+          "| **Before use** | Wielder, verified piece assembly, gauge, chosen task endpoint, nominated stop-cue partner and agreed rest interval. A second person records which old injuries ache and whether the bearer can stand still for a full minute. Unresolved item identity is not permission to improvise a grip or removal method. |"
+        ],
+        [
+          "| **During use** | The charge shows as tempo arriving in the bearer's own body: the old aches come on a regular beat, and the minute-stop test fails before the gauge moves. The hour goes into the log from the second worker's hand, never the bearer's. |",
+          "| **During use** | Log the actual piece's cost: Weapon aches and bruising, Suit retreat/rest reflex, or Stigma pacing and inability to be still. Record ignored cues and the endpoint from the partner's hand; a reassuring gauge does not overrule them. |"
+        ],
+        [
+          "| **At limit** | The wearer's reflexes dull, as if armored by resentment, without remission. On a The Masked Dancer piece the use ends there whatever the wielder says. |",
+          "| **At limit** | End at the declared endpoint or registered partner cue, not only after dulled reflexes appear. That reflex sign belongs to the Suit; Stigma compulsion and Weapon continuation have their own warnings. Use only the shutdown procedure for the verified assembly. |"
+        ],
+        [
+          "| **After use** | Take the piece back and set the pre-check against the person: are the old injuries back on the weather's schedule, and can they stand still a full minute? Where the second answer is no, the piece stays in stores and the bearer comes off rail duty for the fortnight. |",
+          "| **After use** | Confirm safe partner-led removal without snatching mid-stride or cutting a thread. Compare the person with the pre-check: are the old injuries back on the weather's schedule, and can they stand still a full minute? Where the second answer is no, the piece stays in stores and the bearer comes off rail duty for the fortnight. Full-set release requires real rest and the joint return decision, not a movement drill. |"
+        ],
+        [
+          "**Observation method:** Watch from the rail, in rotation, with observer minutes capped per person and logged by name. Record tempo, step, crack, gauge and the condition that ended the session.",
+          "**Observation method:** The former rail watch used rotations and named observer-minute limits. Current monitoring is by fixed camera only; no person-present cycle is authorized by this legacy method. Record tempo, step, visible crack and gauge with the camera limits noted, without manufacturing a new under-mask tear observation."
+        ],
+        [
+          "> Two ways to close a watch at the Mask Market floor, and the file prices them months apart: one ends with the performance shared and the recorder still able to stand still, the other ends with an order given.",
+          "> Two recorded ways to close the former rail watch, not permission to reopen the floor: one shared the performance, while the other gave an order. Current camera-only closure has suspended the person-present approaches."
+        ],
+        [
+          "The figure has not rested in the whole of the containment's operation. The file states this as an observation and declines to call it tireless, the word having been removed from an earlier draft as an interpretation.",
+          "The record establishes an ongoing burden and specific shared-performance stoppages, not an absence of every pause. It declines to call the body tireless: duration, the stoppage condition and the resumption are observations; inexhaustibility is not."
+        ],
+        [
+          "**Interaction method:** Baseline each party alone across several sessions before any pairing, with tempo, gauge and observer minutes logged throughout.",
+          "**Interaction method:** The staged contacts below belong to the person-present record before closure. They authorize no new pairing on the closed floor. The former method baselined each party alone with tempo, gauge and observer minutes logged throughout."
+        ],
+        [
+          "Organic — A graceful humanoid of true flesh and bone, dancing without pause in precise, tireless steps, face hidden behind a beautiful smiling mask fused to the skin.",
+          "Organic — A graceful humanoid of true flesh and bone, ordinarily dancing in precise repeated steps, with shared-performance pauses documented below; its face is hidden behind a smiling mask fused to the skin."
+        ],
+        [
+          "- **Primary marker:** A graceful humanoid wearing a beautiful smiling mask. It dances continuously, with precise and tireless movement.",
+          "- **Primary marker:** A living humanoid beneath a smiling fused porcelain mask, normally repeating precise steps; shared-performance pauses retain the same mask and body."
+        ]
+      ],
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-A__SIDE_CODEX_The_Masked_Dancer.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-B__MAW-W_The_Dancing_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-C__MAW-S_The_Dancing_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-D__MAW-G_The_Dancing_Mask.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_PERSONALIZE_PROGRESS.md"
+      ],
+      "scope": "Use actual recorded conditional pauses and current camera closure to repair uninterrupted-body and present-access absolutes; preserve living humanoid source and fused mask through ordinary, paused and Escape states. Separate actual partner/endpoint and item costs without resolving same-item physical conflicts or authorizing floor entry. Qualify the SECC Physical Form and identification marker as ordinary repetition with documented pauses; no anatomy/material/type change.",
+      "reasoning": "Whole487-line original read. This SubjectBody is explicitly living flesh under fused porcelain, moving upright as a dancer formed from collectively denied movement. That humanoid design is supported, not imposed on every human sorrow. Primaryeleven stoppages/eighttroupevisits and exactA/B/C voluntary pauses establish same-body conditions that literal-never-stop summaries omit. Escape is the same dancer following a viewer, not indiscriminate hunting or anatomy change. Current closure is explicitly camera-only; earlier rail work cannot be represented as presently performed.",
+      "history": "Exact099A/B/C/D all fully read; D separately reread after broad output truncated. Master115–117 inventory/detail2101–2137, complete Tale39, Entity403, CSV146–149, archetype92, personalizationW099217/287, disposition295 read. Both logs B111unit5 source review, B80unit3 f05c74bc exactSE099B/MAW-W-099-01 already counted; +0equipment. C explicitly labels robe resting versus plate active: conditional distinction is documented, so do not automatically hold merely because silhouettes differ. Its remaining protective-file and primary timing/assembly conflicts are kept; D registeredHead/Face versus activeTail is supported, not automatically a slot conflict.",
+      "summary": "Twenty-four repairs link denied movement to the living dancer, distinguish ordinary performance from documented partnered pauses and Escape, and correct indiscriminate-hunt and harmless-performance summaries. Current camera-only closure is separated from historical rail Work, appearance, pairing and Final Observation procedures. Equipment guidance now gives each piece its own cost, endpoint and partner authority, full-set rest lock, and assembly-specific safe shutdown instead of one universal injury bill. The SECC body summary and identification marker now also acknowledge the supported pauses instead of repeating literal uninterrupted motion.",
+      "holds": [
+        "Equipment only: B same-item glove/three daggers identity and statistics versus single Fang Combat File/second primary profile, Short versus Medium and Astral/Orrery versus NotchedDao retain the existing B80/B111 hold. No invented state crosswalk.",
+        "Equipment only: C robe resting/plate active is explicitly supported, but primary trailingrobe versus C ahead-of-wearer activeplates and the guard/breastplate/shin hardware cannot be applied to unverified assembly. D cheek porcelain versus cold glass hip/chest and primary warm jaw charm lack a complete material/placement crosswalk. RegisteredHead/Face versus activeTail itself is not a new conflict.",
+        "Non-completion claims retained for later recheck: current-roll eleven versus three deceased and last-living-member letter chronology; activation3/60%/65%/breach45% lack a complete rate crosswalk; source pressure8–20 versus primary8–19. No numerical/chronological normalization. Historical rail instructions about matching rhythm versus involuntary entrainment remain archival, not a reopened method or current permission.",
+        "Tale and Testimony absolute never-stop phrases remain quoted/source history; actual operational pauses now explicitly govern the physical account. Permanent freedom from the originating burden is not established. Camera cannot prove tears stopped. No rendered/body art or deployment inspected."
+      ],
+      "final_reasoning": "Source-supported written-design completion: collective denied movement→living mobile SubjectBody→ordinary repeated choreography/observed same-mask voluntary pause→same-body observer-following Escape is now explicit. Camera-only present versus earlier person-present observation has a supported ordering, without a fabricated date or authority. Equipment same-item holds stay independent; donor-versus-item silhouette differences no longer cause an unjustified source-body hold. This is one fresh SE written-design credit, not art, resolution of all gear records or retroactive old-body credit.",
+      "commentary": "The missing tear entries are the part I find most effective: a safety decision also removes the only observer who could see the suffering. The troupe gave it something that the institution could not. Closing that route without testing the proposed alternative makes perpetual performance a choice of management, not just an entity trait.",
+      "opening_sha": "3a1b603d1d7014ec4bfd52e282e7beafe8a32df88c3f95e7805ecb64a6a1f46c",
+      "final_sha": "c1a1aa62601bab52654743b9d87ad6423dce3cffd21a4525b53ea2f024abbd0d",
+      "before_words": 7906,
+      "after_words": 8588,
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-A__SIDE_CODEX_The_Masked_Dancer.md": "2c920f658d172ebe5d8f03eabe1de9250bca6e44d3aa5b35a2d886889d028ea2",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-B__MAW-W_The_Dancing_Fang.md": "996d68f22337b2f8697b020a561e4883f60308d876a6a3af81791bb0c850202e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-C__MAW-S_The_Dancing_Plate.md": "eddfb3b6f003020b2fce098a2f54a451a963cdad6b4bac704908aaf1c8599f84",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-D__MAW-G_The_Dancing_Mask.md": "d54825a4a4afc1aeddd685ed6cca9fad5e4bf276df128ca0f8ca21318eada45b",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "REFERENCE_SOMNARAK_WIKI/MAW_PERSONALIZE_PROGRESS.md": "7364aea671b14a2ccf59db20c2c49f5419c0c5685818fb0a2a8632afccd8d49b"
+      },
+      "base_commit": "bff4f407eb7af57ea6bd17741f30f18070cd6cea",
+      "validation": {
+        "verify": {
+          "rc": 0,
+          "output": "RESIDUAL 0\nseam []\npipe True\ndupes []\n"
+        },
+        "tpl": {
+          "rc": 0,
+          "output": "RESIDUE 0  SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md\n"
+        },
+        "sectfile": {
+          "rc": 0,
+          "output": " 0.019  clean   566 grams  Combat Record\n 0.017  clean   293 grams  기록 (Registrum)\n 0.016  clean   192 grams  Trivia\n 0.012  clean   169 grams  Operational Parameters\n 0.007  clean   282 grams  관찰 기록 (Observation Log)\n 0.006  clean   658 grams  감각 묘사 (Flavor Text)\n 0.006  clean  1200 grams  Watch Record\n 0.002  clean  1026 grams  M.A.W. Equipment\n 0.002  clean   570 grams  Appearance\n 0.000  clean   406 grams  이야기 (Narratio)\n 0.000  clean   186 grams  Behavior\n 0.000  clean   163 grams  이야기 보고 (Story Log)\n 0.000  clean   157 grams  Origin\n 0.000  clean   148 grams  Breach Behavior\n 0.000  clean   145 grams  최종 관찰 (Final Observation)\n 0.000  clean    48 grams  SECC Classification\n 0.000  clean    35 grams  증언 (Testimonium)\n0 section(s) over 0.05\n"
+        },
+        "wikistd": {
+          "rc": 0,
+          "output": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n"
+        },
+        "sect": {
+          "rc": 0,
+          "output": "fraction 0.005958132045088567\nPASS: sect <=0.05\n"
+        }
+      },
+      "classification_repair": "SECC Physical Form wording alone qualifies ordinary dance with documented partnered pauses; organic flesh, fused mask and identity/classification retained. Unlike other units this row has a scoped supported wording repair, not a claimed unchanged-row fingerprint.",
+      "whole_final_reread": true,
+      "no_change": false,
+      "final_read": "Complete final primary read in document order after actual five validators, including untouched sections; final fingerprint matches.",
+      "visual_inspection": "Written-design logical review. No artwork, rendered visual, browser/preview or published site check performed.",
+      "counters": {
+        "types": 255,
+        "weapon": 255,
+        "se": 13
+      },
+      "link": "[[SE-C-IIβ-099_The_Masked_Dancer_가면_무용수](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-099_The_Masked_Dancer_%EA%B0%80%EB%A9%B4_%EB%AC%B4%EC%9A%A9%EC%88%98.md \"SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md\")]",
+      "commit": "0b3eda0511d12968a4363322fc6f8ba56fa970c3",
+      "table_link": "[The_Masked_Dancer](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-099_The_Masked_Dancer_%EA%B0%80%EB%A9%B4_%EB%AC%B4%EC%9A%A9%EC%88%98.md \"SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md\")",
+      "full_link": "[[SE-C-IIβ-099_The_Masked_Dancer_가면_무용수](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-099_The_Masked_Dancer_%EA%B0%80%EB%A9%B4_%EB%AC%B4%EC%9A%A9%EC%88%98.md \"SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md\")]"
+    }
+  ],
+  "total_repairs": 66,
+  "before_words": 40296,
+  "after_words": 42351,
+  "source_hashes_preserved": true,
+  "unselected_primaries_unchanged": 296,
+  "classification_exception": "Only Masked Dancer Physical Form has scoped ordinary-versus-paused wording; classification identity/material unchanged. Other300 primary Physical Form rows unchanged versus opening base.",
+  "counters": {
+    "types": {
+      "completed": 255,
+      "total": 301,
+      "remaining": 46
+    },
+    "weapon": {
+      "completed": 255,
+      "total": 287,
+      "remaining": 32
+    },
+    "se": {
+      "completed": 13,
+      "total": 301,
+      "remaining": 288
+    }
+  },
+  "visual_inspection": "Written-design review only. No artwork/rendered artifact/browser/preview/published site inspected.",
+  "later_recheck": "Owner permission retained for a later full check/fix after current pass. Essential source holds and independent equipment conflicts remain visible. No165 automatically opened; Batch301 eightownerbodies/one4+4/generatevalidatebeforecopy remains blocked.",
+  "closure_parent": "0b3eda0511d12968a4363322fc6f8ba56fa970c3",
+  "validation_note": "Initial closure harness expected dupe0, while verify actually prints dupes[]. Corrected the harness to test the real empty-list PASS marker and reran all25 actual checks; no dossier validation failed or was bypassed."
+}

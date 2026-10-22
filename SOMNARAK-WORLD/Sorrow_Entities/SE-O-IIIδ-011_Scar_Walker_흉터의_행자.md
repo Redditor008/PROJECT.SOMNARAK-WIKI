@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A tall phantom warrior clad in armor grown from crystallized rage — dark-crimson plates fused to a body that is half-flesh, half-cooled fury, never fully solid. It carries a weapon of solidified anger and patrols the rift called the Scar without rest. Heat and the smell of old char roll off it; where it passes, the ground scorches faintly. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — walks upright along its patrol and keeps pace behind visitors; an undismissed escort follows them beyond the Scar, while desecration makes it close the distance. |
 | **Location** | The Desolate — patrols The Scar |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -87,7 +87,7 @@
 
 1. **Tension:** The marker comes first — the escorting behaviour seen before the armour itself. Several armed shapes have been reported out on the Desolate; this is the one that falls in behind a party and keeps pace without ever closing. The designation is confirmed, the positions are taken, and the cycle opens.
 2. **Clash:** The Walker escorts rather than engages. It falls in behind the team on arrival and stays there for the duration, and the work is done with it at the shoulder — Viderehan at the distance it permits, Ferrehan for as long as the team can keep its composure with an armed phantom walking behind it. Pugnahan ends the encounter immediately and is classed as desecration.
-3. **Resolution:** The visit ends with the site left as it was found, or in containment or retreat, or on the file's own suppression condition:
+3. **Resolution:** The visit ends with the site left as it was found, or in containment or retreat, or on the file's own suppression condition: **Show respect, salute its duty, and acknowledge its sacrifice**.
 
 ### Consequences
 
@@ -124,6 +124,14 @@
 | **Identification** | Confirm the designation before the gesture: more than one thing at the Scar carries the Occlusihan's rage, and a salute that settles the Walker has no effect on the others. |
 
 **Appearance protocol:** Record the armour and the ground together. The plates are crystallised rage fused to something that is only half solid, and the scorching it leaves behind marks the route more reliably than the figure does. Note the weapon's position throughout: lowered, carried, or raised. It has been raised twice in the record and both times the observers had stopped walking.
+
+### The guardian, the grave and the carried weapon
+
+The Subject is the collective rage given an escort's shape, not one recovered soldier from the Tale. Its mixed, half-solid body and fused crimson armour remain the visible guardian; the Scar is the ground it patrols, not its entire body. A salute changes conduct and following distance, not the reported substance of its plates. The paired halts and slowed gait likewise record behavior rather than new anatomy.
+
+Keep its carried weapon separate from extracted equipment. The Warden Record does not identify that armament as the hovering chalice, the Fang or the Stigma blade, and its armour is not established as an issued Plate. The portable pieces cannot explain the Walker's own scale or turn it into a cup-shaped entity.
+
+Two records still need reconciliation: the full-sized escort and the combat actions in which the Walker enters and traverses personal scar tissue. No transition, change of scale or distinction between a projected effect and a travelling body is supplied. The Warden's never-used weapon also conflicts with the four recorded blows elsewhere. Neither conflict is repaired by imagining a miniature warrior, a second weapon or a new witnessed combat form.
 
 ## Origin
 - **Formation:** The Walker formed from the collective rage of the six factions that fought in the Occlusihan.
@@ -162,7 +170,7 @@ Responses here are conduct, not technique: the same lowered weapon reads one way
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — walks upright along its patrol and keeps pace behind visitors; an undismissed escort follows them beyond the Scar, while desecration makes it close the distance. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | Whoever in the party last stood on the rift itself. |
@@ -266,7 +274,7 @@ No piece in this set is ordinary equipment; each is an extension of a condition 
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The first reliable marker is the escort: a shape that takes station behind the party and keeps pace without closing. Confirm the Grudge signature and the site — the Desolate, the Scar — before any gesture is offered. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: The Walker is territorial and responds primarily to conduct near The Scar. Special Behaviors - A bow or salute is sufficient acknowledgment for passage. - It follows anyone entering The Scar to. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation** | Continued observation confirms the pattern recorded in containment: The Walker is territorial and responds primarily to conduct near The Scar. A bow or salute is sufficient acknowledgment for passage. It follows anyone entering The Scar to ensure the site is not defiled. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what the visit changed in the party and in the register: the aches and their order, whether the salute was returned, how long the escort stayed, and what no witness could put into words. On this file the strange detail matters more than the tally. |
 

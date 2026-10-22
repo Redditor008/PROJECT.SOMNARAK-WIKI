@@ -173,7 +173,7 @@ The gauge on this holding is a shift-level reading and nothing more. The figure 
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-Appearance : A nine-foot jousting lance grown from hardened petrified ash, tapering smoothly to an iron-capped thorn head and protected by a broad circular hand-guard carved with intertwined leaf veins.
+**Appearance:** A nine-foot jousting lance grown from hardened petrified ash, tapering smoothly to an iron-capped thorn head and protected by a broad circular hand-guard carved with intertwined leaf veins.
 
 The lance's grain is dense and completely knot-free, polished with botanical lacquer. Thrusting impacts generate concussive forward shockwaves that splinter wooden defenses and pin heavy opponents.
 
@@ -206,7 +206,7 @@ The lance's grain is dense and completely knot-free, polished with botanical lac
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Wards the Soul — identity and memory — against Void, which here means the wearer keeps the ability to say which of their recollections they can cite a source for. It does not stop the gap; it keeps the wearer from furnishing it.
+**Ability:** Wards the Soul — identity and memory — against Void, which here means the wearer keeps the ability to say which of their recollections they can cite a source for. It does not stop the gap; it keeps the wearer from furnishing it. Binding requires an Archive witness who can still read the current wearer's name through the fabric, with the identity card visible at the collar. That is a check on the living bearer, not an invitation to name the figure's absent subject. If the name cannot be read, the Veil is not worn.
 
 **Cost:** A faint absence the wearer describes as their own history sounding like something they were told. It is the state the holding watches for rather than the state it forbids, and no bearer has yet reported it while it was still early.
 
@@ -220,7 +220,7 @@ The lance's grain is dense and completely knot-free, polished with botanical lac
 **Acquisition Probability:** 4%
 **Effect:** +2 to work on this holding, and nothing measurable anywhere else — the armoury's note declines to call that a benefit and records the figure beside a blank column it has never filled in.
 
-**Ability:** Reveals what is missing from a person's history.
+**Ability:** Reveals what is missing from a person's history. Under Archive witness, the reading marks one missing element and the boundary of the fragments around it; it supplies neither a complete identity nor a motive. A blank year may be recorded as a blank year, not as proof of the explanation the bearer wanted. Keep the evidence boundary with the reading, and enter the loss of certainty separately. The Ring does not turn a more confident account into a more complete record.
 
 **Cost:** The wearer loses certainty about one remembered event.
 
@@ -229,6 +229,10 @@ The lance's grain is dense and completely knot-free, polished with botanical lac
 ### M.A.W. Use Notes
 
 Each piece is an extension of the holding rather than a defence against it, and the useful range of all three is the same range in which the holding is legible: inside the taped line, on the clock, with a duplicate already out of the room. Outside that the cost arrives early — the removal the wielder is carrying — and it does not reverse on return, which is why the set is issued against a sealed baseline rather than against a signature.
+
+### Custody at the Blank
+
+The Archive witness may end Veil use when the wearer's account begins completing what the record does not hold. Verify the witness as well as the known and unknown fields before return; the witness unfastens the collar rather than cutting the cloth. For the Ring, record the missing element, its surrounding evidence and the personal certainty paid, then cover the piece and close its custody entry. A Ring that has gone dark is sealed as a false-history hazard, not broken to settle what it showed. These returns preserve the equipment record without supplying a subject for the destruction slip. They do not replace the notebook copy already carried outside on the ten-minute clock.
 
 ### Field Use Record
 

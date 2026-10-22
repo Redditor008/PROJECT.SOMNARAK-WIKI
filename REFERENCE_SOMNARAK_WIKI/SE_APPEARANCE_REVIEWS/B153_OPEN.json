@@ -1,0 +1,66 @@
+{
+  "batch": 153,
+  "base": "2deae5b32f9748837910a6549c08db8310c84ee0",
+  "pending": 260,
+  "candidates": 107,
+  "pattern": "changes? shape|shifts? between.*forms|became (?:a|an|the) ",
+  "selection": "Pending-only; equipment excluded; descending matching-line count, ties by full designation. Cues not defects. No substitutions.",
+  "queue": [
+    {
+      "designation": "N-IIβ-801",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-801_Mirror_of_Soaking_솟아오른_거울.md",
+      "signals": 3,
+      "evidence": [
+        "- **The Event:** Citizens swallowed rage under debt and order until suppressed anger became a reflective object.",
+        "The citizens swallowed their rage, because rage was a debt, and the swallowed rage, accumulated, became a mirror that reflects the anger the city forbade them to show.",
+        "> *“The citizens swallowed their rage because rage was a debt. The swallowed rage became a mirror.”* — Keeper, Archive"
+      ],
+      "sha256": "1208bc5671cdd63331cbfb850439d27ff95b5039b18a753e39bd50fb0abb55e5"
+    },
+    {
+      "designation": "N-IVδ-821",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-821_Pent_사라진_한숨.md",
+      "signals": 3,
+      "evidence": [
+        "He collapsed in the Old Lament and held back the sigh, because the city had taught him that even exhaustion was a weakness, and the held sigh, never released, vanished — and the vanishing became a place.",
+        "The sigh, suppressed, did not dissipate. It vanished — not released, not expressed, simply made to not-have-been, the way the city makes inconvenient things not-have-been. And the vanished sigh, the exhalation that was denied existence, sank into the Old Lament's ground and became a place. Place-Grudge: the Pent, the specific location where a worker's exhaustion was erased before it could be expressed.",
+        "> *“The city taught him that sighing was weakness. The teaching killed the sigh. The killing became a place.”* — Elder, Old Lament"
+      ],
+      "sha256": "b3b2094fbd1afeb7edf07a8e898df32131bf2d94e0399185377b05d52186a772"
+    },
+    {
+      "designation": "O-IIIγ-476",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-476_Sehnsucht_가라앉은_눈물.md",
+      "signals": 3,
+      "evidence": [
+        "The traveler buried the tear near the Scar so no one would see, and the burying, so deep, became a forgetting, and the forgetting, so complete, left only the weight without the source.",
+        "The burying became a forgetting. The tear, buried so deep, sank — past the soil, past the Han-channels, into the Weeping itself, and the sinking carried with it the memory of the grief. The traveler, having buried the tear, walked away lighter — and then, gradually, unknowing. The source of the grief dissolved. The reason for the tear vanished. And the traveler, years later, carried a weight — a heavy, nameless sorrow — without being able to say what the sorrow was about.",
+        "> *“The traveler buried a tear near the Scar so no one would see. The burying became a forgetting.”* — Keeper, Archive"
+      ],
+      "sha256": "037588cec142dd4d181fcf6d8be67ccb33ae690059afaf0000ddc24ba72de4ac"
+    },
+    {
+      "designation": "O-IIIγ-617",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-617_Exiles'_Wall_솟구친_벽.md",
+      "signals": 3,
+      "evidence": [
+        "- **The Event:** Exiles built shelters near the Gate, but each was abandoned before completion. Their mourning became the Wall.",
+        "The exiles built shelters at the Gate, and each shelter was abandoned before completion, and the abandoned, accumulating, became a wall that holds the grief of leaving a place that never accepted you.",
+        "> *“The exiles built shelters at the Gate. Each was abandoned before completion. The abandoned became a wall.”* — Keeper, Archive"
+      ],
+      "sha256": "1ee7b161f24f5d007557c0c0e7a7c7411834c34fbe46aa288766f7561526332b"
+    },
+    {
+      "designation": "O-Iα-189",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-189_Ephemera_번져가는_잔해.md",
+      "signals": 3,
+      "evidence": [
+        "- **The Event:** A Desolate ruin was abandoned; its last witnesses carried its sorrow until it became a figure.",
+        "The settlement was destroyed, and the survivors carried the memory, and the memory, as the survivors died, grew fainter, and the fainting became an entity that mourns a place disappearing from the last minds that hold it.",
+        "The survivors aged. The memory, held in the survivors' minds, did not transfer — there were no records, no Archives, no Keepers to preserve the Desolate settlement's history. The memory lived only in the people who had lived there, and the people, one by one, died. Each death thinned the memory. Each survivor's passing erased a piece of the settlement — a street, a face, a room — until the ruin, once vivid in the minds of the displaced, became a fading image, held by fewer and fewer minds, each mind holding less and less."
+      ],
+      "sha256": "2b36d252ff537cfee8fd4b4d0db3a3ec62854923e97c8a0b09a819acc494b3c0"
+    }
+  ],
+  "recovery": "Restored local branch/index from10cd20a to remote2deae5b after all2370 tracked remote files hash-matched working files using NUL-delimited paths; mixed reset only, no working file rewrite. No owner file discarded."
+}

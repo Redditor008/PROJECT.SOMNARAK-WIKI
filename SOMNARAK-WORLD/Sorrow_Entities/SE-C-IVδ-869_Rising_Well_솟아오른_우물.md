@@ -41,7 +41,7 @@
 - The Well does not rise through the Desolate ground. It rises inside the mind of a person standing on it, which is why the registered location is a territory and not a room.
 - Work lowers it for a shift. It rises again in somebody else, often weeks later and often in a person who was not present, and no cycle has fixed, sealed or exhausted it.
 - A single ignored condition escalates it. The bearing logged at first sighting is the bearing of the *person*, not of the entity, and the distinction is to be preserved in the record.
-- Structural pressure presents during an event, in the surrounding ground and in the walls; outside a event there is nothing underfoot to test and nothing to brace.
+- Structural pressure presents during an event, in the surrounding ground and in the walls; outside an event there is nothing underfoot to test and nothing to brace.
 - There is no implement to recover. The only thing taken out of an encounter is the person who was in it, and the welfare debrief is a separate authorisation from the Work order.
 
 ## Combat Record
@@ -119,7 +119,7 @@
 | **Position / movement** | Position and bearing of the affected person; distance to the nearest colleague; any movement begun since the rim appeared and the reason the person gives for it. |
 | **Material / signature** | Grudge. Fever-cold with a smell of char, a wordless song below hearing, and crimson light with no source in the room. |
 | **Distinctive markers** | Nothing is visible to an observer. Every marker on this holding is reported by the person inside it, which is the whole of the holding's measurement problem. |
-| **Identification** | A well-shaft standing proud of the ground, singing. The song is the marker — reported by every observer in nine years, recorded by no instrument, and the reason the holding was found at all. |
+| **Identification** | At ordinary contact, use the affected person’s report of the wordless song and crimson rim, not an exterior shaft an observer can inspect. The song has been reported across the nine-year record but captured by no instrument. |
 
 **Appearance protocol:** Take the report in the person's own words and write them down unedited, including the parts that are angry and the parts that are about you. Record when the song started, whether it is still audible, how wide the rim has opened, and what the person says is below it. Do not summarise and do not tidy the grammar; the wording is the measurement here, because there is nothing else to measure.
 
@@ -353,7 +353,7 @@ Some sorrows are about the original wound. Rising Well is about the inheritance 
 **Common Name:** Rising Well
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Critical (δ). The Well of inherited fury opens in the minds of people who were given no reason for it; proximity produces rage without a remembered cause, and a event turns that rage on the structure and on everyone inside it. The older entry describing the threat as moderate understates it and is corrected here.
+**Threat Assessment:** Critical (δ). The Well of inherited fury opens in the minds of people who were given no reason for it; proximity produces rage without a remembered cause, and an event turns that rage on the structure and on everyone inside it. The older entry describing the threat as moderate understates it and is corrected here.
 **Containment & Handling Procedures:**
 - All four Work Types are valid; Pugnahan deepens the shaft and is used only to provoke a reading that cannot be obtained otherwise, on written authority.
 - The rage has an origin and it is documented in the chamber file. What it has no access to is the person who caused it, all of whom are long dead.
@@ -389,7 +389,7 @@ The massacre the community buried is documented in the chamber file from municip
 
 ### Depth Behavior
 
-During a event the rim draws, and the drawing acts on attention rather than on the body — personnel move toward the depths because they have decided to, and they are able to explain the decision clearly while making it. Physical restraint is therefore authorized at an earlier point here than anywhere else in the holding, and the authorization is written to be used without consultation. Response teams work in threes for this reason. The protocol notes without softening it that the person being restrained will be lucid, will object in reasonable terms, and will be grateful afterward, and that none of those three facts changes what the team is required to do.
+During an event the rim draws, and the drawing acts on attention rather than on the body — personnel move toward the depths because they have decided to, and they are able to explain the decision clearly while making it. Physical restraint is therefore authorized at an earlier point here than anywhere else in the holding, and the authorization is written to be used without consultation. Response teams work in threes for this reason. The protocol notes without softening it that the person being restrained will be lucid, will object in reasonable terms, and will be grateful afterward, and that none of those three facts changes what the team is required to do.
 
 ### The Short List
 

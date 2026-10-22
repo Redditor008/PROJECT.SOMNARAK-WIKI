@@ -185,7 +185,7 @@ No two widenings at the gate take the same shape. The watch sets down four thing
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-Appearance : A heavy curved falchion, single-edged, its blade flat sheathed in hardened candle tallow gone semi-translucent, ending in a broad flared tip with an iron crossguard.
+**Appearance:** A heavy curved falchion, single-edged, its blade flat sheathed in hardened candle tallow gone semi-translucent, ending in a broad flared tip with an iron crossguard.
 
 The tallow coat insulates the blade against electrical discharge and softens the recoil of a strike. Gashes from it leave sticky, slow-burning wax that stiffens an enemy's joints.
 
@@ -218,7 +218,7 @@ The tallow coat insulates the blade against electrical discharge and softens the
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage and protects the Body — physical form and structural integrity — worn against this orchard's particular pressure: nothing here strikes at the body, and what the armour actually lets the wearer do is stand in the rows without the fruit answering.
+**Ability:** Grants resistance to Grudge damage and protects the Body — physical form and structural integrity — worn against this orchard's particular pressure: nothing here strikes at the body, and what the armour actually lets the wearer do is stand in the rows without the fruit answering. The binding escort must repeat a desire without converting it into a commitment. Joint delay while offering reassurance and sweet residue held in the seams are warning signs, not reasons to promise faster relief. The Plate can bear the speaker's anger without requiring the speaker to become hopeful.
 
 **Cost:** Reflexes thin in the wearer, as if the body had picked up a grudge of its own, and the wearer is the last to register it — every stand-down on this set has been called by the second worker, never by the person carrying it.
 
@@ -232,7 +232,7 @@ The tallow coat insulates the blade against electrical discharge and softens the
 **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat; for roughly a day the wearer can take up work they were never taught, without the fear of being seen outside their trade. It is the orchard's bargain lent out — and it takes no interest in what the worker gave up in order to be standing there.
 
-**Ability:** Reveals the desire behind a person's anger.
+**Ability:** Reveals the desire behind a person's anger. The Seed presents that wanting in the speaker's sensory language, not as destination coordinates or a judgement of feasibility. Do not read it aloud without consent. A kitchen taste can stand for a future rather than a room someone wants occupied again; the speaker's correction governs that distinction. Recognition does not oblige the bearer to promise fulfillment, and a revealed wish is not an instruction to route people back through the Gate.
 
 **Cost:** The wearer feels every desire that cannot be fulfilled.
 
@@ -241,6 +241,10 @@ The tallow coat insulates the blade against electrical discharge and softens the
 ### M.A.W. Use Notes
 
 All 3 pieces are cut from the orchard and carry its charge rather than its power: the bearer's old wounds ache, and bruises come up where nothing struck. The grade line records how cleanly a piece extracts and nothing else; the charge sits in the next column, and it is why issue here runs one rotation and no longer.
+
+### Care Without a Return Promise
+
+Separate the harness plates for cleaning and let residue cool naturally before returning it to the source ground; no preserved fruit sample belongs in the care kit. The Seed rests beside fruit already dissolved, not fruit kept intact for its sake. Enter desire and available support in different fields, leaving the latter blank when nothing can honestly be supplied. If its speaker is unavailable to distinguish wanting from expecting, Xyan seals the Seed pending a consented review rather than letting an escort answer for them. This is care for an equipment exposure, not an exception to the Gate's ban on taking arrival names. Nor does the Seed's brief freedom to attempt another trade issue a qualification or make a cross-trade competence record lawful. The Common Ground's unanswered requests remain unanswered.
 
 ### Field Use Record
 

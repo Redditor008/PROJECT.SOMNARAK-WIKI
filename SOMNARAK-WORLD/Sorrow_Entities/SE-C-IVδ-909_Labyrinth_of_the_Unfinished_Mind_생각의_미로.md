@@ -13,8 +13,8 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Place-Mind |
-| **Physical Form** | Organic — An underground complex beneath Zone C that reconfigures its corridors based on the thoughts of whoever enters it. The walls are inscribed with text that changes as you read it — your own thoughts, reflected back. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Physical Form** | Non-Organic — A dressed-stone underground complex beneath Zone C, dry and unlit except by carried light. Corridors reconfigure against entrants’ thoughts and wall inscriptions alter while being read, resolving into the reader’s thinking. The controlled entrance is fixed; changing interiors do not make the complex an organic body. |
+| **Movement** | Fixed underground at one controlled entrance, which does not move. Interior corridors reconfigure against entrants’ thoughts; the path behind a party may no longer match its chart. Expansion reaches the building above without the doorway travelling. |
 | **Location** | SECTOR-C-909, contained |
 | **R.D. Comprehension Level** | 4 — Deep |
 
@@ -98,11 +98,14 @@
 
 ## Appearance
 
+**Doorway, interior and reading:** The entrance is a stable structural reference; below it the visible form is dry dressed stone with carried light and changing inscriptions at reading height. An entrant without an open matter reports ordinary corridors, while another may meet their own sentence or an argument begun on an earlier descent. Keep the visible wall, the text and the route relationship as separate observations: a familiar sentence is not a navigational landmark. The three retained charts agree at the first chamber and are not interchangeable. Maintain the tended line and surface intention even when the route feels reasonable. Nothing here establishes a walking body or turns the derived sceptre, disputed Suit description or glass Token into source anatomy.
+
+
 **Primary Form:** An underground complex beneath Zone C that reconfigures its corridors based on the thoughts of whoever enters it. The walls are inscribed with text that changes as you read it — your own thoughts, reflected back.
 
 **Notable Features:**
 - Expresses Void pressure in a mind register.
-- The place form is unmistakable — this is a mind entity, not a general one.
+- Dressed stone corridors, dry and unlit except by carried light; inscriptions alter under reading. Three internally consistent charts disagree beyond the first chamber, so a chart is not a transferable navigation instruction.
 - Confirm the entrance by its structural reference and the surveyed portion against the standing plan before descent. The plan is incomplete, and the incomplete sections are marked as incomplete rather than as unexplored, which is a distinction the briefing spends a page on.
 
 **Identification Profile**
@@ -146,7 +149,7 @@ The Labyrinth is a Place with Place-Mind manifestation and Void expression, held
 
 ## Breach Behavior
 
-> *"Labyrinth of the Unfinished Mind has broken free. The void mind spreads."*
+> *"The effect reaches the building above. Keep the anchor at the controlled doorway and the line tended; the entrance has not moved and the party must come out on the line."*
 
 | Field | Detail |
 |---|---|
@@ -158,7 +161,7 @@ The Labyrinth is a Place with Place-Mind manifestation and Void expression, held
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** The surface anchor recalls the party on the tended line, which remains a physical recall signal rather than a sound. Keep the entrance controlled, the surface clock running and the stated intention available. Do not improvise force or an unavailable Work Type.
 - **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
@@ -177,6 +180,8 @@ Requiring tremendous physical strength to wield, the sceptre serves equally as a
 **Ability:** Void against the Mind. Struck targets complete somebody else's unfinished reasoning and find it convincing; fourteen strikes, and in four the completed argument was later traced to an entrant from a previous descent.
 **Cost:** The wielder experiences a persistent low-grade headache with each use.
 
+**Weapon custody:** Keep the local basalt sceptre, the Zweihander title and the separately linked Edge identity explicit; no source records a transformation between them. The linked Single pattern does not authorise transferring the local seismic effect to extra targets or giving the sceptre the disputed Suit’s greatsword reach. Log headache and first-person claims about the source before cleaning or resting the item. A named witness attends relinquishment; an entrant’s private wall-sentence is not the unrecorded formation event and cannot be read out as an invented binding history. Return does not refund the cost.
+
 ### M.A.W. Suit — Labyrinth of the Unfinished Mind's Veil
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
@@ -192,6 +197,8 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 - Weight: 0.8 (Warded)
 **Ability:** Grants resistance to Void damage, protecting against the mind register of sorrow.
 
+**Suit cost and unresolved form:** The linked Veil charges difficulty remembering the wearer, including the wearer’s own self-image, separately from the set’s comfort with unresolved matters. Record bearer, deployment and return with a witness before that absence is mistaken for a missing issue entry. Its protection does not remove the anchor or permit travel beyond the surveyed limit. The local greatsword description remains unreconciled with the Suit role; do not turn it into a garment by inventing folds or a worn state. Attribution review precedes cleaning or rest, and witnessed relinquishment must not expose a private transcript as a substitute for missing source history.
+
 ### M.A.W. Stigma — Labyrinth of the Unfinished Mind's Token
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
@@ -202,6 +209,8 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 **Effect:** +1 to the working stat on this holding's descents, which are walks through 41 rooms with somebody talking the whole time
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
 *Two in nineteen years, in both cases to an anchor who terminated a descent early against the entrants' objection. Both were right and both were argued with at the time; the file keeps the arguments.*
+
+**Token cost and custody:** Invocation can briefly cost a familiar word or face; note the lapse alongside the unfinished rim sentence rather than assume a cool token has no immediate toll. The source-work bonus is not permission to extend a descent, finish the inscription or contest an anchor’s pull. Review attribution before cleaning or resting it, with a named witness attending relinquishment. A first-person source claim is a corrosion sign, not authority to open the drawer. Preserve the gap in the formation record and the entrant’s transcript custody separately; neither return nor a completed argument refunds the cost.
 
 ### M.A.W. Use Notes
 
@@ -214,7 +223,7 @@ Each Labyrinth piece is an extension of a question somebody never finished askin
 | **Before use** | Operator and grade; gauge; the screening answer to the standing question — what are you currently turning over — recorded in the operator's own words; piece condition; objective; and the anchor's written note of the stated intention, read aloud before descent. |
 | **During use** | Time elapsed, kept at the surface and never by the entrant; line tension, tended continuously; any sentence read from a wall, reported aloud and written verbatim by the anchor without comment; and the first cost. |
 | **At limit** | Duration, attribute change, rejection signs, source behaviour, and the fact of termination. A termination is not reviewable, not appealable, and is never counted against the entrant. |
-| **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, and the sealing of the transcript, which goes into the drawer unread by anybody but the entrant and the anchor who wrote it. |
+| **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, and sealing of the transcript as the entrant’s record, not facility property. The anchor writes without comment; showing it to its entrant requires a counsellor present. The consented study has separate individually written, revocable terms and an outside-chain blind comparison; neither a routine return nor a funding renewal supplies that consent. |
 
 **Full-set source review (2026-10-13):** Reviewed the overview, every local Weapon/Suit/Stigma claim, Use Notes, Field Use Record, and other M.A.W. statements against exact `SE-1039-A` for `C-IVδ-909 [VP]`, items `SE-1039-B/C/D`, Master Registry rows 318–321, the Master M.A.W. table/detail and Entity Codex (which list this designation as awaiting a row), the Tale index (no exact `C-IVδ-909` entry), and archetype records `MAW-W-909` and `MAW-W-1039`. No `Stat interpretation` heading is present. The existing `— · δ` overview is supported by the three local pieces and Side set; no Tool type was inferred. Local Weapon values Void 11–16, Normal 2, Short 2, maximum 4, and 25 Echoes agree with Side A and item B; the local block does not state an attack pattern/coverage, so Side/item `Single` was not backfilled. Identity and appearance remain held: the primary's *Echoing Zweihander* is a five-foot basalt sceptre, whereas the exact linked Weapon is *Labyrinth of the Unfinished Mind's Edge* and item B has no standalone Appearance or transition record; the `MAW-W-1039` index describes a telescopic beam loupe / Instant. `MAW-W-909`'s greatsword-with-chime-quillons archetype and the similar Heirloom `O-IVδ-909 [GP]` wording do not establish a link, nor do they justify moving the greatsword-like Suit description onto this Weapon. The local Suit is titled the Veil but its Appearance describes a six-foot two-handed greatsword; its exact Side/item C resistance profile agrees, but C supplies no Appearance or transition record to reconcile that form. Stigma Head / 5% / +1 agrees with Side A and item D. Side A records its Subject and formation event as `Not recorded`; the primary's separate narrative was not copied into those fields. No primary value changed; the unresolved Weapon/Suit form and identity claims remain holds.
 

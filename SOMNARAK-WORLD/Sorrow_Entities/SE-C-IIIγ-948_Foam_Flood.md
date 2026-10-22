@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 50–70% |
 | **Han-Energy yield** | 14–20 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Monitored |
-| **Activation threshold** | A hand laid upon the carving |
+| **Activation threshold** | A hand laid upon the carving, or bare skin within the longing-field |
 | **Tool / M.A.W. grade** | γ |
 | **Vessel-Destructible** | No — a sentient relic; the stone refuses to break, and the longing simply settles elsewhere. |
 | **Han Dust Drop (Vessel Destruction)** | — (not vessel-destructible) |
@@ -40,7 +40,7 @@
 ### Operational Notes
 
 - The shrine sits dry in the Riverbed Vault, and the carving is cool regardless of the vault temperature.
-- A hand laid upon the carving is the activation condition. There is no counter and no gradual approach to it — the condition is met or it is not.
+- A hand laid upon the carving or bare skin within the longing-field meets the activation condition. There is no counter to exhaust before the field can act; keeping skin off the stone alone does not make entry safe.
 - Work steadies Composure in the vault. It does not alter the carving, and the shrine has never been recorded as spent.
 - Personnel are briefed that the longing is the hazard rather than the water, and that the impulse to touch the stone is the entity acting.
 - Relic recovery is authorized separately and is not treated as an outcome of a successful shift.
@@ -84,7 +84,7 @@
 | { *The Glowing Eyes* [**Field**] } | "The dragon's white eyes brighten, and the light of them is the light of an open sky — cold, blue, and impossibly far." | [The eyes cast a soft sky-light; all in the field are bathed in the longing the carving has held for as long as it has stood.] | *All within feel the ache of a grounded thing made for flight; composure drains with every glance upward.* **[8-12 Lament DMG [Lament]]** | When the Sorrow Gauge passes 60%. |
 | { *The Rising* [**Attack**] } | "Your feet leave the floor — not much, a handspan — and for one held breath you are flying, you are finally flying." | [The field lifts the target a fraction off the ground in a brief, glorious, stolen flight — then drops them.] | *The brief flight costs the target's composure; the fall, when it ends, costs more.* **[12-18 Lament DMG [Lament]]** | When the target lingers in the field. |
 | { *The Longing Made Wide* [**Expansion**] } | "The wish pours out across the vault floor like a wind that is not there, and everything it touches wants to rise." | [The longing-field blooms outward; loose objects drift, and personnel strain toward the ceiling, held only by weight.] | *The field widens; composure erodes across the room as the shared ache of grounded wings spreads.* **[14-22 Lament DMG [Lament]]** | When the carving is touched with bare skin. |
-| { *The Shape That Should Have Flown* [**Ultimate**] } | "The stone dragon's wings spread to their fullest — and you feel, all at once, the whole of its grief: the long, long ache of rising that never rose." | [The carving pours its entire sealed longing into the field; the grief of a flight that never happened floods all present.] | *All in range are gripped for three turns by a sorrow so vast it aches to fly — the carving's whole history of grounded wanting.* **[10-16 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
+| { *The Shape That Should Have Flown* [**Ultimate**] } | "The stone dragon holds its carved wings still — and you feel, all at once, the whole of its grief: the long, long ache of rising that never rose." | [The carving pours its entire sealed longing into the field; the grief of a flight that never happened floods all present.] | *All in range are gripped for three turns by a sorrow so vast it aches to fly — the carving's whole history of grounded wanting.* **[10-16 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
 
 ### Battle Phases
 
@@ -107,7 +107,7 @@
 
 **Face and Details:** A dragon's face tilted upward, forever, toward where the sky would be. The glowing eyes are the only colour — a soft white that brightens when the longing peaks and dims when the carving is at rest.
 
-**Visible Effects:** The air around the carving is still and faintly buoyant; dust drifts rather than falls. Personnel report the constant, gentle sensation of wanting to rise. The Vault's ceiling is, by long standing order, low.
+**Visible Effects:** The air around the carving is still and faintly buoyant; dust drifts rather than falls. Personnel report the constant, gentle sensation of wanting to rise. The low ceiling belongs to the earlier containment arrangement; the Headroom Programme raised it. Record the current headroom and baseline rather than briefing personnel as though that alteration had never occurred.
 
 **Distinctive Markers:**
 - The dark dragon-form in pale white stone — a silhouette, not a relief.
@@ -119,7 +119,10 @@
 - **Entity Type:** Object
 - **Manifestation:** Object-Spirit
 - **Primary marker:** A metre-tall white-stone carving of a black dragon with glowing white eyes, head tilted forever upward.
-- **Position / movement** | Fixed in the Vault; the longing-field expands during activation. |
+
+| Field | Record |
+|---|---|
+| **Position / movement** | Fixed in the Vault; the longing-field expands during activation. |
 | **Material / signature** | Unknown white stone, black dragon-form, glowing eyes; Lament; buoyant still air, the pull of the sky. |
 | **Distinctive markers** | The silhouette-dragon in pale stone; the soft glowing eyes; the eternal upward tilt. |
 | **Identification** | Distinguish from other statue or relic entities by the glowing eyes, the silhouette-form, and the field's pull — it is the only recorded relic that makes those near it want to leave the ground. |
@@ -131,7 +134,7 @@
 - **Formation:** A metre-tall carving of a coiling dragon in an unknown white stone, found at the edge of a dry riverbed in Zone C. No carver, no commission, no hand appears in any record. It was simply there, one morning, when the first surveyor walked the bed — a dragon shaped for flight, fixed forever in the moment before rising.
 - **The Sorrow:** The grief of a shape carved for flight that has never flown. The dragon is stone, the stone is grounded, and the dragon has always, always wanted to rise.
 - **The Event:** Flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. The R.D. sealed the riverbed, moved the carving to the Vault, and began the record.
-- **The People:** The traveller (unidentified), and the long, unnamed line of hands that have touched the stone over the centuries and come away grieving the sky.
+- **The People:** The traveller whose name and belongings are kept in the riverbank record, though the name is not reproduced here, and the long, unnamed line of hands that have touched the stone and come away grieving the sky.
 - **Expanded origin context:** The carving's stone matches no known quarry; the dark dragon-form is integral to the block, not applied. The eyes glow without source. It is, by every measurement, a thing made to fly that cannot — and it knows it, and it has wanted, for as long as it has stood, the one thing it can never have.
 
 > ⚠ **WARNING — CLASSIFIED (see SE-C-Vδ-949):** The Foam Flood is cross-flagged with one other contained entity (the Soot Fry, C-IIβ-947) and with a **forbidden transformation outcome** logged under SE-C-Vδ-949. The two entities must **never** be reunited. The consequences of reunion are documented solely in the SE-C-Vδ-949 file (Echo-Core Eyes Only) and are **deliberately not repeated here**. Maintain maximum sectoral separation at all times; any drift in proximity is a Critical-priority emergency.
@@ -163,7 +166,7 @@ The two valid Work Types do different things here and the difference matters. Vi
 
 **Effect:** The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky.
 
-**Duration:** Until the hand is removed and the eyes dim.
+**Duration:** Contact must be deliberately closed: lift the hand and name the sky aloud. Abandoning the channel does not terminate it safely; the sector vent and prolonged eye-brightness are recorded below.
 
 **Risk:** Every channeling deepens the carving's grief; channel too long, and the petitioner will attempt to fly from whatever height is available.
 
@@ -192,7 +195,7 @@ The two valid Work Types do different things here and the difference matters. Vi
 
 ### Escalation Notes
 
-Escalation here is not a event. Nothing leaves the Vault, nothing is released, and the carving does not move; what expands is the radius inside which people want to rise. Record the trigger, the eye-brightness at trigger, the distance at which buoyancy is first reported, and the boundary at which it stops. Because the expression is Lament, behavioural indicators are logged alongside the physical telemetry and are given equal weight in the report.
+Escalation here is the longing-field expanding during activation, not the carving moving. The source stays fixed; its pressure does not necessarily stay inside the Vault. Full spread crosses the boundary, and overload or abandonment vents across the sector. Record the radius inside which people want to rise, not an imaginary route taken by the carving. Record the trigger, the eye-brightness at trigger, the distance at which buoyancy is first reported, and the boundary at which it stops. Because the expression is Lament, behavioural indicators are logged alongside the physical telemetry and are given equal weight in the report.
 
 **Response sequence:** Seal the Vault stair, establish the perimeter at the marked radius, confirm whether the event is a sanctioned channel, an unsanctioned contact, or a spontaneous spread, and clear every person with access to a height. Name the sky aloud at the door. Do not improvise an unlisted Work Type: Flerehan and Pugnahan are invalid for an Object and have never been attempted here.
 
@@ -261,16 +264,20 @@ Escalation here is not a event. Nothing leaves the Vault, nothing is released, a
 
 ### M.A.W. Use Notes
 
-Each Foam Flood piece is an extension of a grounded wish rather than ordinary equipment. The listed benefit holds while the bearer accepts the ground — restraint in contact, endurance of the pull, no reaching for height. Used to seek elevation it amplifies its own cost, and the bearer is afterwards described in the record as having been given the carving's half of the exchange.
+Each Foam Flood piece derives from the grounded wish; it is not the carving itself made portable. Keep its own costs visible during intended use: the Spear's absent-wing ache, the Mantle's restlessness and climbing impulse, and the Eye's nightly flight dreams and grief. Seeking elevation is not the only way a bearer can be harmed.
+
+The exact set binds the bearer to the riverbank event and to naming the unreachable sky without touching the source. Full-set resonance ends at the recorded resolution; it is not a cure for the originating event. First-person retelling of the source event begins corrosion, followed by source responses outside contact and the bearer becoming its new site. Violating the limit reverses the benefit and raises the Gauge. A named witness states the source title and event while the bearer relinquishes the actual item; attribution review precedes cleaning or rest, and shutdown does not refund the cost.
+
+The carving's timed, gloved channel is a separate procedure, not the activation mode of every Weapon, Suit or Stigma. A stone-feather mantle need not share the donor's fixed sculpture silhouette. This derivation does not resolve the Spear's surviving range disagreement or authorize the forbidden reunion.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, eye-brightness baseline, glove certification date, named second observer, and confirmation that the operator has no prior channel within the cycle. |
-| **During use** | Channel open time to the second, eye-brightness at each interval, buoyancy radius, petitioner's reported altitude, first cost, and any request to extend. |
-| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the hand was lifted by the operator or by the observer. |
-| **After use** | Termination method, sky named aloud, injuries, lingering sky-grief, brightness at twelve hours, cooldown, rotation status, reuse authorisation. |
+| **Before use** | Bearer, actual item, grade, gauge, condition, objective and source attribution. For a separate carving channel, also enter the eye-brightness baseline, glove certification, named second observer and confirmation of no prior channel within the cycle. |
+| **During use** | Record the actual item's effect, its own sky-grief or restlessness, and the first autobiographical source-memory sign. For a carving channel, retain exact opening time, eye-brightness, buoyancy radius, reported altitude and any request to extend; an item-use record does not certify a channel. |
+| **At limit** | Duration, activations, attribute changes and the first binding or corrosion failure. Do not wait for the bearer to become a new manifestation site. For the separate channel, record whether the operator or observer lifted the hand; the channel limit still applies. |
+| **After use** | For an item, record witnessed attribution, relinquishment, lingering cost and review before cleaning or rest; shutdown is not a refund. For a channel, retain termination method, sky named aloud, injuries, brightness at twelve hours, cooldown, rotation status and reuse authorisation. |
 
 **Stat interpretation:** The ratings describe field performance and say nothing about safety. The Skyward Spear strikes cleanly and leaves its wielder glancing upward at nothing for days afterwards, which three of the four bearers have described as the worse half of the bargain.
 

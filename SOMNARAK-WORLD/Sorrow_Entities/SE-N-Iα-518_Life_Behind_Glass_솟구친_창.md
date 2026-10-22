@@ -14,8 +14,8 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A window-shaped object fixed inside a tunnel wall, its pane displaying only falling sorrow — endless dark rain behind the glass. Warm and wet, it smells of cold rain; it cannot be opened, only watched. |
-| **Movement** | Stationary — a structure or location. |
+| **Physical Form** | Non-Organic — A window-shaped object fixed inside a tunnel wall, its pane showing endless dark rain before direct viewing and an unfamiliar life beyond the tunnel while the viewer holds the gaze. Warm and wet, it smells of cold rain; it cannot be opened, only watched. |
+| **Movement** | Stationary — the window is fixed in the tunnel wall, with no hinge, mounting or opening mechanism on either face; movement in its displayed scene is not movement of the pane. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -98,7 +98,7 @@
 - An unresolved encounter does not escalate; it continues. The Window keeps showing, the worker keeps looking, and the shift ends around them. Recovery from a long exposure is slow and is measured by whether the worker resumes initiating tasks rather than waiting to be assigned them.
 
 ## Appearance
-**Physical Form:** A window-shaped object that displays only falling sorrow, warm and wet to the hand and seated in the tunnel wall as though the masonry were built around it. **Movement:** Stationary; it has never been found to shift by any measure, and no mounting or hinge exists on either face.
+**Physical Form:** A window-shaped object, warm and wet to the hand and seated in the tunnel wall as though the masonry were built around it. Dark rain is the resting marker; direct viewing reveals an unfamiliar life continuing without the viewer, not a physical opening through the wall. **Movement:** Stationary; it has never been found to shift by any measure, and no mounting or hinge exists on either face.
 
 **Notable Features:** It does nothing whatever when approached. It shows no outside world until somebody looks directly into it, and it has never shown the same life twice.
 
@@ -115,13 +115,21 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A window-shaped object that displays only falling sorrow. It is warm, wet, and fixed inside the tunnel wall. |
+| **Form** | A warm, wet window-shaped object fixed inside the tunnel wall. Dark rain marks it before a direct gaze; the life shown during viewing is a conditional display, not an ordinary outside view or a change of body. |
 | **Position / movement** | Fixed in the tunnel wall and seated as though the masonry were built around it; no mounting, hinge, frame-gap or opening mechanism has been located on either face. |
 | **Material / signature** | Lament. Dark rain falling behind the pane, warm and wet to the hand in a tunnel that is neither. |
 | **Distinctive markers** | Warmth and damp on the glass; rain that falls behind it and never on the tunnel side; no opening mechanism on either face. |
 | **Identification** | If somebody is already standing at it, identify the entity from the worker and not from the pane. |
 
 **Appearance protocol:** The pane itself does not change — same dimensions, same dark rain, same warmth and damp on the glass — so recording the entity's appearance is close to worthless and personnel should stop spending cycles on it. Record the observer instead. Note the exact time each worker begins looking, their distance from the pane, whether they are still facing their actual task, how long before they speak, and who ended the viewing. The Window's only measurable output is what it does to the person in front of it, and a report describing the rain in careful detail while omitting that the author watched it for forty minutes has documented the wrong subject entirely.
+
+### The pane, the view and the watcher
+
+Object-Weight names the form of watching without entering; Lament is the recorded pressure. A change of image does not change either into a moving Subject or a doorway. The Tale's earlier worker looked up toward the city through a small port. The current pane retains that separation rather than a fixed map of the same street: the Side Codex calls its view nonphysical, and the gallery logs scenes nobody has located and no scene repeated. The worker is the origin of the sorrow, not a person visibly trapped behind this glass.
+
+Direct gaze begins the unfamiliar-life display; looking away ends that viewing. The window remains seated in the masonry, warm and damp, while movement belongs to the rain, the displayed life and the viewer's neglected shift. Memory Rain can obscure the scene and Sleeping Weight changes what is shown, without either pairing documenting a moving frame or a passage into the displayed room. The portable Shard and rotating Prism are equipment records, not proof that this source pane detaches, rotates or equips itself to a bearer.
+
+The rest of the physical record is not reconciled by that display distinction. The combat table describes a slamming window, a broken pane releasing water, and weeping through other windows, while the observation and Record describe no opening mechanism, no liquid rain on the tunnel side and no injury. The Log and Method retains contact, equipping, wear and forced detachment, against the gaze-only activation account. No alternate hinged body, portable scale, transformed flood-state or safe wearable source is established. The Keeper's erased-records origin in the Story Log also remains a separate account from the long-serving worker in the Origin and Tale; neither is silently made a stage of the other.
 
 ## Origin
 - **Formation:** From a post nobody ever left and nobody was ever moved out of.
@@ -166,11 +174,11 @@ Work Type data is one input among many, and the code and the coherence level dec
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode** | **Line-of-sight viewing; the source pane stays fixed in the wall** |
 | **Activation** | Line of sight. No handling, no cooldown, no detachment procedure. |
 | **Primary Effect** | An outside life in progress without the viewer in it. |
 | **Duration** | Until the viewer looks away; mean unbroken hold 8.8 minutes and rising. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
+| **Termination / Return** | The viewing ends when the operative looks away. No source pane is unequipped, removed or returned; record who ended the gaze and whether the viewer resumed present work. The contradictory wear-based log below does not establish a detachment procedure. |
 | **Risk** | Failure to resume, detected on the roster rather than at the pane. |
 
 **Operational Rule:** The relic requires line of sight and nothing else — it begins the moment the operative looks and ends the moment they look away, with no detachment procedure and no cooldown. It cannot be used to work the Window, and it grants no authority over it; Viderehan and Ferrehan remain the only valid responses.

@@ -227,15 +227,19 @@ Escalation here is commercial rather than physical. Record the bearing at which 
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
 
-**Ability:** Deals Void damage against the Soul — identity, memory and the sense of self — and the strike is a transaction: what it opens in the target is what the target could not account for. |
+**Damage Application:** Void pressure on the Soul — identity, memory and the sense of self — settled at the moment of use; what the strike opens in a target is what the target cannot account for.
 
-**Cost:** Each use is paid in small change the wielder cannot enter in a book: a name, a shopfront, a coin that was in the pocket yesterday. |
+**Ability:** Deals Void damage against the Soul — identity, memory and the sense of self — and the strike is a transaction: what it opens in the target is what the target could not account for.
+
+**Cost:** Each use is paid in small change the wielder cannot enter in a book: a name, a shopfront, a coin that was in the pocket yesterday.
 
 ### M.A.W. Suit — The Merchant's Veil
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
 **Appearance:** a veil woven of Void Han-gossamer, ash-smelling and warm to the hand, that hangs without moving the way cloth moves.
+
+The Veil is cut for the stall's kind of trading and the file records no other use for it. Worn at the table it keeps the wearer's identity off the ledger while the goods are read: the wearer grows faintly unaccounted for — present, but not entered anywhere — and that reading belongs to the second worker, because the wearer is the one party to the transaction who cannot see the drift.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -245,19 +249,19 @@ Escalation here is commercial rather than physical. Record the bearing at which 
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Wards the Soul against Void pressure and nothing else: the veil is cut for the stall's kind of trading, and the file records no other use for it. |
+**Ability:** Wards the Soul against Void pressure and nothing else: the veil is cut for the stall's kind of trading, and the file records no other use for it.
 
-**Cost:** the wearer grows faintly unaccounted for — present, but not entered anywhere — and the second worker reads it rather than the wearer. |
+**Cost:** the wearer grows faintly unaccounted for — present, but not entered anywhere — and the second worker reads it rather than the wearer.
 
 ### M.A.W. Stigma — The Merchant's Purse
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a small purse of Void Han-glass, near-colourless, that runs briefly warm when sorrow is close and shuts with a coin, a button, or something smaller. |
+**Appearance:** a small purse of Void Han-glass, near-colourless, that runs briefly warm when sorrow is close and shuts with a coin, a button, or something smaller.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat against the source holding, and no measured effect anywhere else. |
+**Effect:** +1 to the working stat against the source holding, and no measured effect anywhere else.
 
 **Ability:** Produces a small, useful object at an unexpected time.
 
@@ -268,6 +272,8 @@ Escalation here is commercial rather than physical. Record the bearing at which 
 ### M.A.W. Use Notes
 
 All three pieces come off a thing that trades, and they trade: each one performs exactly as described and takes its price at the moment of use rather than afterwards, in coin, in small objects, or in something the wielder will not notice is gone until somebody asks them about it. Forcing a piece against its design raises the price rather than breaking the piece. No protocol produces a Stigma here.
+
+Three rules hold the set together in the record. The price is taken at the moment of use and never reconciled afterwards, so the sealed baseline is the only thing the second worker has to read the night against. A piece comes off the moment the price is noticed, and the noticing is not the wielder's to make — the second worker calls it, and detaching a piece early is safe and reports as a cost rather than as damage. Nothing the three pieces do changes the stall's own condition: where the dawn watch is not met the table improves, the labels grow specific, and the item that appears at the top of the curve is addressed to the worker standing in front of it.
 
 ### Field Use Record
 

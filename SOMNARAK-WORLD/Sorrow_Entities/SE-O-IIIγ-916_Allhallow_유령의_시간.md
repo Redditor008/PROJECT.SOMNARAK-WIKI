@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-916 [LT]` |
-| **Entity Type** | **Time** — Can breach via Transform |
+| **Entity Type** | **Time** — Recorded breach lengthens the walked line; no body transformation is documented |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Time-Phantasmal |
 | **Physical Form** | Non-Organic — An hour that descends without warning on the Desolate border, during which the dead — or what look like the dead — walk the perimeter. They do not speak. They do not stop. They walk for exactly one hour, then vanish. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement** | Fixed border event — the figures walk the perimeter; expansion lengthens their route rather than moving the hour to a new site. |
 | **Location** | SECTOR-O-916, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -65,7 +65,7 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Major phantasmal/time hazard; not a Sovereign classification |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
@@ -96,6 +96,12 @@
 - The set is used for counting and marking and has never been turned on a walker. Thirty-four occurrences, not one attempt at contact — the prohibition is among the oldest instructions the wing holds.
 
 ## Appearance
+
+**What walks, and what remains fixed:** Allhallow is the border hour and its silent procession, not a single walking corpse with a hidden organic body. The figures keep a steady walking pace along the surveyed perimeter; the holding remains at that line. Recorded extensions add route into the Desolate rather than a crowd advancing toward inhabited ground.
+
+**Visible but not tangible:** Cameras record the column, but feet leave dust and standing water undisturbed. Objects left on the route remain where they were as the walkers pass through. These observations do not authorize a person to test bodily contact: the no-approach rule still stands. The near column has readable faces, yet believing a face familiar is grounds to rotate the counter, not evidence identifying a dead person.
+
+**Onset, end and counting apparatus:** No precursor is known; the first figure marks onset and the last vanishes at the end of the hour. Marker posts, tally plates and counting-cloaks belong to the watchers' apparatus. The derived blade, cloak and coin-token need not reproduce a walker's shape, and using them does not shorten the procession or license entry.
 
 **Primary Form:** An hour that descends without warning on the Desolate border, during which the dead — or what look like the dead — walk the perimeter. They do not speak. They do not stop. They walk for exactly one hour, then vanish.
 
@@ -157,7 +163,7 @@ The pressure is not worked; the hour is counted. Observation is the tally itself
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** Keep both posts behind the marked line, count independently for the whole hour, then reconcile without averaging or correcting either total. Do not approach the walkers or attempt physical suppression.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per extension of the walked line rather than per turn. Two extensions, reading 60%, unchanged for eleven years.
 
 ## M.A.W. Equipment
@@ -173,6 +179,8 @@ The pressure is not worked; the hour is counted. Observation is the tally itself
 **Damage:** Lament 14–23 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels lament phantasmal sorrow in each strike — the weapon does not cut flesh so much as cut at the phantasmal register of the target's grief.
 **Cost:** The wielder counts things afterwards — chairs, windows, people in a corridor — and arrives at a figure before deciding to. It fades within a week and is noted on the sheet because the counting is the job and the habit is therefore hard to see.
+
+**Edge cost distinction:** The linked Weapon records a persistent low-grade headache with each use. This holding separately records involuntary counting afterward; neither observation is proof of the other. Keep both with the bearer record rather than rewriting the unknown formation event or treating the blade as permission to strike a walker.
 
 ### M.A.W. Suit — Allhallow's Veil
 
@@ -195,6 +203,8 @@ The pressure is not worked; the hour is counted. Observation is the tally itself
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's phantasmal sorrow, crystallized into wearable form.
 *A Token is found at a marker post after an hour in which the two counts came within ten of each other. Three pieces, three close reconciliations; nothing has ever been recovered from an hour the posts disagreed on.*
+
+**Token bearer limit:** The linked Stigma records dreams in tears from the source sorrow and waking with another person's grief. That bearer cost is distinct from finding a token after close tallies, and a source-work bonus does not establish the identity of a face in the column.
 
 ### M.A.W. Use Notes
 
@@ -267,7 +277,7 @@ The border is walked on one night a year, and this file has never recorded a sec
 |---|---|---|---|
 | **Once Upon** `O-IIIγ-920` | Filed together on an hour full of names. That record watches a gauge fall as tellers are named aloud, holding across 94 hours; this one counts walkers by post and never asks who they were. | The naming series and the two tallies sat side by side once and agreed on nothing but the hour. | That the two are filed for the shape of the hour, noted beside the row each time it is read. |
 | **Never Discharged** `O-IIβ-911` | Grouped on occupants the hour will not release. That record keeps a patient through a second loop; here the walkers are gone at the minute the first of them appeared plus sixty. | One review entry; the discharge count and the tallies were compared and parted at the first mark. | That the parting is the entry, kept in the review's own figures rather than averaged away. |
-| **Dead Air** `N-IIIγ-929` | Grouped on a watch that closes at the hour. That record keeps a six-hour form and reads a barometer at the handover; this one keeps two sheets and will not reconcile them. | Nothing was run. The appendix listed the two together and the review left it there. | That the pairing rests on a filing line with no measurement under it, entered on each repetition. |
+| **Dead Air** `N-IIIγ-929` | Grouped on a watch that closes at the hour. That record keeps a six-hour form and reads a barometer at the handover; this one reconciles two independent sheets after the hour without averaging or correcting either total. | Nothing was run. The appendix listed the two together and the review left it there. | That the pairing rests on a filing line with no measurement under it, entered on each repetition. |
 
 **Interaction procedure:** No co-presence is authorised here. The comparison happens at the annual review, with the two posts' tallies entered first and the other record's series laid beside them untouched; parting, size, trigger and both readings go into the margin.
 

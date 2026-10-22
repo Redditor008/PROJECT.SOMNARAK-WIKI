@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Identification first, and it is read in the hands: the Eater has them, and it has no mouth at all — height alone is not diagnostic in the Collector district, where half the registered holdings are tall. The approach is confirmed, the roster is ordered by balance before anybody approaches, and the painted radius is checked against the last watch.
+1. **Tension:** Identification first, and it is read in the hands: the Eater has oversized, pale hands, and it has no mouth at all. Height alone is not diagnostic: the identification record lists two other small humanoid subjects in the Collector district, neither mouthless. Confirm the hands and absence of a mouth together rather than identifying it merely as the small figure. The approach is confirmed, the roster is ordered by balance before anybody approaches, and the painted radius is checked against the last watch.
 2. **Clash:** Five turns, worked from outside the painted radius. No hand enters the line at any point, and the worker with the largest outstanding balance stands furthest back by roster rule.
 3. **Resolution:** **Provide a specific amount of Echoes for absorption. Once fed, the fog dissipates**. The condition is met when the amount has been named, counted out and absorbed, and the white fog has gone down — and the file's own warning is that the amount is a figure and not a gesture: an approximation offered to it is read as an unsettled account, and the room gets worse rather than better.
 
@@ -183,9 +183,12 @@ The Debt Eater is a Subject of Fragment (III) coherence — its manifestation Su
 
 **Appearance:** A floating dodecahedral prism of pale Void crystal that turns silently above the open palm; brought before an indebted target it angles itself, which the armoury records as the only piece in the set that points.
 
+The facets cloud in concentric geometry before the needle-thin discharge. No kinetic recoil follows, but frost remains on the fingertips. Name the particular obligation along direct line of sight for *Read the Account*. The exposed source may be inherited or imposed; a correct reading supplies neither permission to enforce it nor a judgement that it was just.
+
 **Damage:** Void 6–10
 **Speed:** 4 (Fast)
 **Range:** Special (Instant)
+**Recovery:** 1.0 second between prismatic pulses.
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
@@ -204,6 +207,8 @@ The Debt Eater is a Subject of Fragment (III) coherence — its manifestation Su
 
 **Appearance:** a flowing veil of Void Han-gossamer, near-translucent and all but colourless, that moves with the wearer's breathing — inside the painted radius the fabric drifts against the fog, and bearers read the drift as how close the hands have come.
 
+*Deferred Burden* suspends one low-grade debt mark in the cloth without immediate Clarity loss. The faint grey shadow remains against the chest until addressed or removed with a witness. Storing a second mark returns both at once. Removal is witnessed even when the wearer seems calm: the mark can outlast their memory, and emptiness is not recovery.
+
 **Resistances:**
 - Lament: 1.2 (Weak)
 - Grudge: 0.8 (Warded)
@@ -220,7 +225,9 @@ The Debt Eater is a Subject of Fragment (III) coherence — its manifestation Su
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a scale-pendant of Void Han-glass, near-translucent and all but colourless, warm in the palm; it is cast as a balance beam and it stays level near a settled room, which is the nearest thing this set has to an instrument.
+**Appearance:** a scale-pendant of Void Han-glass, near-translucent and all but colourless, warm in the palm; it is cast as a balance beam and it stays level near a settled room, which is the nearest thing this set has to an instrument. This Debt Scale is the Debt Eater's Stigma, not the separately registered Object with the same name; its measurements and contact limits below belong to the pendant.
+
+*Measure Before Payment* weighs one obligation once per day, showing whether payment would reduce the burden or move it. It reads what is carried, not what is fair. The measured debt weighs on the bearer for one minute; repetition can make another person’s obligation feel like their own. Keep the pendant off the person measured, since contact spoils the reading.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -235,6 +242,10 @@ The Debt Eater is a Subject of Fragment (III) coherence — its manifestation Su
 ### M.A.W. Use Notes
 
 All 3 pieces are cut from the Eater's own register, and they carry what it carries: small nameless memories go with the use, and repetition makes the bearer steadily more certain that measurable debt is the only truth worth keeping. Grade records extraction stability and nothing about that; the cost is in the column beside it and is the reason issue is one rotation at a time.
+
+Before a feeding, keep the verified measurement or equivalent ledger beside the human witness’s account of what the subject wants to retain. The Prism’s accurate source reading does not certify a lawful demand. Nor does the Veil’s suspended mark discharge the debt. A felt reduction, a signed equipment return and the creditor’s release answer different questions; the eleven-day financial-memory check is still required.
+
+Keep any settlement record with its second witness’s acknowledgement rather than treating the bearer’s relief as proof that an obligation ended. The legal opinion remains explicit: payment, creditor release or operation of law can end a debt, but the entity’s draw alone cannot. Nothing in equipment care restores the eleven claims whose limitation periods have run.
 
 ### Field Use Record
 

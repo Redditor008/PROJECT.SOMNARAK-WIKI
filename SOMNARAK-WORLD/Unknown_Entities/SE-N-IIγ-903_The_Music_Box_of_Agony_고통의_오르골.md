@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIγ-903 [VO]` |
-| **Entity Type** | **Object / Place** — Can breach via Transform; activation (endless play) possible |
+| **Entity Type** | **Object / Place** — Music-box device and acoustic hazard; activation changes figurine speed and listener state, without a documented travelling body |
 | **Tool Type** | O-Relic · Channeled Use |
 | **Coherence** | II — Echo (repeats a single lullaby without variation, forever) |
 | **Potency** | γ — Major |
@@ -66,6 +66,12 @@
 
 ## Appearance
 
+**Device, effigy and listener:** The small black-and-white case with pink lining remains the source object. Its seated, crying figurine turns on a post; it does not become the original occupant or a walking person. The found listener remains separately seated in the vault, translucent and silent, with the posture echoed by the effigy. Neither that resemblance nor the protective Tiny Crier establishes whose body or identity the figurine contains. The maker and first listener remain unidentified.
+
+**Acoustic reach is not locomotion:** Rotation belongs to the internal mechanism and its effigy. Faster turning, dimming light and listener translucence are activation signs, not a transformation of the box into a monster. The song's carousel is a repeated condition of listening and losing oneself, not a documented moving fairground apparatus. The ordinary audible boundary does not erase the separate harmonic and corridor-humming records.
+
+**Keep the visual record separate from exposure:** The lullaby's voice has no assigned age or gender. Ash smell, cold casing, posture, color and lid state can be recorded without inventing a singer inside the box. Identification must not invite extra recitations merely to verify duration. The unchanged Tale remains the lyric transcript; an appearance review does not amend its words or demonstrate that closing the lid ends the underlying song.
+
 **Physical Form:** A small music box, 25 cm × 15 cm. The interior lining is pink; the top is black; the bottom is white. The craftsmanship is ordinary — the sort of box made to hold a child's trinkets — except that it has never stopped playing.
 
 **The Figurine:** Atop the box sits a small figurine in a sitting, crying position — knees drawn up, face buried in folded arms. It turns slowly on its post when the lid is open, rotating with the music. It is the only moving part that *should* move; the spring that drives it should have wound down centuries ago.
@@ -83,10 +89,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | 25 × 15 cm music box; pink lining, black top, white bottom; small crying figurine atop. |
-| **Boundary / movement** | Fixed; audible range ~10 m, muffled by the acoustic-isolation vault. |
+| **Boundary / movement** | Device remains in its vault; figurine rotation is local mechanism movement. Ordinary audible range ~10 m is muffled by acoustic isolation, not a travel distance for the box. |
 | **Material / signature** | Void presentation — the sound empties rather than fills; faint Lament (the figurine's weeping). |
 | **Distinctive markers** | Endless play; weeping figurine; a lullaby sung in an impossible voice. |
-| **Identification** | Confirm the impossible duration and the unchanged lyrics before any sustained listening. |
+| **Identification** | Compare the recorded impossible duration and archived lyric transcriptions first. Any live confirmation remains subject to the supervised observation and recitation limits; identification does not require extra listening. |
 
 **Appearance protocol:** Record the lid state, the figurine's rotation, the recitation count, and any listener's Clarity drop. Never log the lyrics from memory — transcribe them only while the box plays, and verify they have not changed.
 
@@ -151,7 +157,9 @@ The escalation pattern is specific to The Music Box of Agony: the first sign is 
 - Weight: 1.1 (Weak)
 **Max Amount:** 3 | **Echo Cost:** 35 Sorrow Echoes
 **Ability:** Grants resistance to Void and Clarity-drain; muffles the lullaby so the wearer can remain in range without fading.
-**Cost:** The wearer feels an persistent, causeless sorrow, as if being sung to by someone who is already gone.
+**Cost:** The wearer feels a persistent, causeless sorrow, as if being sung to by someone who is already gone.
+
+**Case and the closing name:** The linked Suit's Sealed Listener incident records the coat muffling its wearer's own name; an outside observer opened a sound seam at the final note so the name could be received. Keep that equipment incident distinct from the found occupant and from a claim of unconditional immunity to fading. Resistance does not replace the file's name-retention check.
 
 ### M.A.W. Stigma — The Tiny Crier
 
@@ -168,7 +176,7 @@ The escalation pattern is specific to The Music Box of Agony: the first sign is 
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece carries the lullaby's central cost: the vanishing of the self. The Agony Chord completes the song in a target at the price of the wielder's memory; the Black-and-White Case mutes the music at the price of a causeless grief; the Tiny Crier grants empathy at the price of weeping sleep. Forcing a piece outside its pattern deepens the vanishing. No protocol produces Stigmas. They emerge from the entity's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece carries the lullaby's central cost: the vanishing of the self. The Agony Chord completes the song in a target at the price of the wielder's memory; the Black-and-White Case mutes the music at the price of a causeless grief; the Tiny Crier grants empathy at the price of weeping sleep. Forcing a piece outside its pattern deepens the vanishing. No protocol produces Stigmas. They emerge during successful work cycles by chance, unbidden rather than manufactured; that record does not supply a repeatable production method or an exemption from the listener limits.
 
 ### Field Use Record
 
@@ -257,7 +265,7 @@ A soft, crooning voice begins, sourceless, as if the room itself were being sung
 
 ### Interaction Pattern
 
-The Music Box of Agony interacts through its sound. Observe it alongside any musical or grief entity: the lullaby may harmonize, amplify, or be amplified, and any harmony risks widening the fade. Record the recitation count, the Clarity drift of all personnel, and whether any nearby entity begins to move in time with the figurine.
+The Music Box of Agony interacts through sound, but the interaction record is not permission for joint exposure. Never stage simultaneous play with another musical entity. If incidental resonance is detected, follow the lid-sealing procedure below and record recitation count, personnel Clarity and any nearby movement synchronized with the figurine; do not prolong it to complete a comparison.
 
 ### Entity Interaction Record
 
