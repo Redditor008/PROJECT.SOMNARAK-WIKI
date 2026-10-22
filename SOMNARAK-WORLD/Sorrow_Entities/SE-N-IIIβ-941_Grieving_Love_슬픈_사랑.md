@@ -38,11 +38,13 @@
 
 ### Operational Notes
 
-- She grieves someone the record cannot identify, and the grief is directed rather than general.
+- Her grief is directed toward Haneul, named in the Apothecary records and her repeated murmur. What the record cannot establish is his fate after the night Sooah fell into the vat, not the identity of the person she was trying to save.
 - Work steadies Composure in the room. The grief is unchanged, and no cycle has drawn her attention from it.
 - Her activation condition is a high gauge reading or the specific circumstance named in her file; both are checked before entry.
 - Personnel who attempt to comfort her are logged as a protocol breach regardless of outcome, because the response is reliably reciprocated.
 - Extraction of a worker from her reach is a risk event in its own right and needs its own authorization, separate from the work order.
+
+**Comfort and permission:** The Behavior table, the silent-sitting visit schedule and the breach response all prescribe comfort, while the note above records attempts to comfort her as protocol breaches regardless of outcome. Those instructions are not reconciled by a falling Gauge. Keep the conflict with the visit order rather than treating the listed Work Type as blanket contact permission; neither the Film nor a calm response proves that an embrace cannot dissolve the worker. Extraction still requires its separate authorization.
 
 ## Combat Record
 ### Core Stat Line
@@ -131,7 +133,7 @@
 | **Form** | 1.3 m humanoid upper torso of translucent blue slime resolving into a gelatinous lower mass; no legs. |
 | **Position / movement** | Slow drifting glide toward warmth; palms often extended; posture of active grief. |
 | **Material / signature** | Concentrated Han in slime form; Lament; faint herbal scent and a cold, dimming field. |
-| **Distinctive markers** | Continuous tearless weeping; the open pleading hand; the slow blue chest-pulse of the unfinished cure. |
+| **Distinctive markers** | Continuous weeping whose tears rejoin her slime instead of reaching the floor; the open pleading hand; the slow blue chest-pulse of the unfinished cure. No floor residue does not mean she sheds no tears. |
 | **Identification** | Distinguish from other slime or Lament entities by her fixed grieving posture, her small stature, and the persistent extended palm — she is the only entity that asks to be held. |
 
 **Appearance protocol:** Record scale (1.3 m), the blue translucency, the open hand, and the chest-pulse. Note whether her eyes are open or closed on entry — closed eyes signal low Gauge, open and searching eyes signal escalation. Never describe her as "sad-looking" without recording which grief-posture she holds.
@@ -166,7 +168,7 @@ Read the gauge only against the rest of the sheet. She is a Subject with Subject
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | She leaves the Apothecary on foot and goes where the most people are, unhurried, arms held out for somebody to step inside them — and she is not particular about whom. |
+| **Movement** | She glides out of the Apothecary on her gelatinous lower mass toward the gathering of people, unhurried, arms held out for somebody to step inside them. There are no feet beneath her: the blue slime below the torso is her body, not something a separate woman is walking through. |
 | **Effect** | Composure drains from everyone within her reach, and the drain arrives as an invitation: the urge to step in and hold her is the hazard itself, and from the inside it reads as kindness. |
 | **Secondary Effect** | Whoever she takes hold of comes apart at the touch, and she cannot stop the cure from trying to "preserve" them — the preservation is what takes the parts. |
 | **First Target** | Not the nearest and not the strongest: whoever has been kindest to her that day, which in practice is the worker most likely to open their arms. |
@@ -246,10 +248,10 @@ Nothing in this kit arms anybody against her; every piece carries the pattern fu
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline written against the toll the file records for these pieces — the bearer being shown the faces of everyone they failed to comfort. The envelope is opened at the end of the rotation and never before it. |
-| **During use** | Every occurrence of the toll is entered with its hour: the faces of people the bearer could not comfort arriving unasked. One is written down as a note; a pattern running across a full shift ends the use. |
-| **At limit** | The cost here does not arrive in episodes; it seeps. The bearer stops being able to end a conversation, stops leaving a room first, keeps the line open past what the call needed. The second worker calls the limit and the call holds against the bearer's. |
-| **After use** | Take the piece back and look at the bearer a week later, because the cling this kit leaves does not show on the day: it shows as a man who cannot finish a sentence, or a woman who will not put the receiver down. |
+| **Before use** | Name the bearer and the piece on the issue record, with the Gauge and a sealed baseline. For the Coil, record intrusive faces; for the Film, the ability to end conversations and leave rooms; for the Pendant, unexplained weeping. Keep the envelope closed until the rotation ends, not as a substitute for the second worker's immediate observations. |
+| **During use** | Record when unbidden faces appear to the Coil wielder; a pattern across the full shift ends that use. Track the Film wearer's clinginess separately from the Pendant bearer's tears, whose cause may remain unknown. A borrowed first-person account of Sooah's event is an attribution failure, not a recovered biography. |
+| **At limit** | The second worker's call holds against the bearer's. Name the affected piece and actual sign: intrusive faces, inability to end contact, unexplained tears, or the source-history failure described in its care note. The Film's composure protection does not prevent dissolution, and removing equipment is not authorization to extract a worker from her hold. |
+| **After use** | Retain the named witness and the week-later check. Review the Coil's faces, the Film's inability to let contact end, and the Pendant's unexplained weeping separately; the grant is not an issued item with an assumed hand-in or recovery procedure. Relinquishment preserves attribution but does not refund a piece's cost. |
 
 **Stat interpretation:** Ratings describe field performance, not safety. The Comforting Coil performs reliably yet can leave the wielder hollowed by old, unsourced grief for days.
 

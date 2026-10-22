@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IIIβ-941": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_03_GRIEVING_LOVE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_OPEN.json"
@@ -2954,8 +2966,30 @@
     {
       "designation": "N-IIIβ-941",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Five supported repairs identify Haneul without inventing his fate, carry the legless slime-body glide into breach movement, distinguish recycled tears from tearless display, separate each equipment cost in the field-use table, and surface the incompatible comfort-permission instructions.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_03_GRIEVING_LOVE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/941_Grieving_Love/SE-941-A__SIDE_CODEX_Grieving_Love.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/941_Grieving_Love/SE-941-B__MAW-W_The_Comforting_Coil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/941_Grieving_Love/SE-941-C__MAW-S_The_Mourner_s_Film.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/941_Grieving_Love/SE-941-D__MAW-G_The_Tear_Pendant.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIIγ-127",

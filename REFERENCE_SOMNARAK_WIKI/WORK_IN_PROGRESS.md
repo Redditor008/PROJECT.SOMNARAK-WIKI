@@ -1,5 +1,16 @@
 # Work In Progress
 
+## Batch178 OPEN3/5 — Grieving Love unit3, 2026-10-22
+
+Five supported repairs identify Haneul without inventing his fate, carry the legless slime-body glide into breach movement, distinguish recycled tears from tearless display, separate each equipment cost in the field-use table, and surface the incompatible comfort-permission instructions.
+
+**Commentary:** The strongest design choice is that the puddle is her body, not scenery beneath a woman. It makes reaching, movement and dissolution one continuous act rather than three unrelated powers. I also value the careful working papers: the accident is more painful when Sooah was competent, and the file refuses to turn her exhaustion into blame.
+
+HELD;5repairs:3short/2careful; LC_ALL=C words6982→7162. Complete original/exact-source/history/final review and five actual checks PASS. +0Types/+0Weapon/+0SE; earlier credits retained, no duplication. [Unit evidence](SE_APPEARANCE_REVIEWS/B178_03_GRIEVING_LOVE.md)
+
+Pending: 723 The Vanished Rope, then901 Duri's Heart. No change0/3; minimumfive and5→7→10 unchanged. Counters267/301Types,266/287Weapon,18/301SE. This is an open checkpoint, not a batch close. Owner authorization continues178 only; no179/merge/art/deployment. Later recheck and Batch301 eight-owner-body blocker retained.
+
+
 ## Batch178 OPEN2/5 — Nemo unit2, 2026-10-22
 
 Ten supported repairs separate the stationary figure from its tears and spreading corruption, preserve the two unmapped Sorrow Gate returns, replace generic silent/time-distortion/moving-force claims with recorded observations, distinguish all three equipment costs, and name the Charm bonus as +1 Clarity from exact A/D.
