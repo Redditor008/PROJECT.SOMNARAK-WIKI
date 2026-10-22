@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IIIγ-589": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_02_NEMO.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_OPEN.json"
@@ -3149,8 +3161,30 @@
     {
       "designation": "N-IIIγ-589",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-589_Nemo_돌아온_영혼.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Ten supported repairs separate the stationary figure from its tears and spreading corruption, preserve the two unmapped Sorrow Gate returns, replace generic silent/time-distortion/moving-force claims with recorded observations, distinguish all three equipment costs, and name the Charm bonus as +1 Clarity from exact A/D.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_02_NEMO.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-A__SIDE_CODEX_Nemo.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-B__MAW-W_Nemos_Blade.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-C__MAW-S_Nemos_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-589-D__MAW-G_Nemos_Charm.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIIγ-628",

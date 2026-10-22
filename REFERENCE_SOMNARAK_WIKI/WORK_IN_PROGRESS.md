@@ -1,5 +1,16 @@
 # Work In Progress
 
+## Batch178 OPEN2/5 — Nemo unit2, 2026-10-22
+
+Ten supported repairs separate the stationary figure from its tears and spreading corruption, preserve the two unmapped Sorrow Gate returns, replace generic silent/time-distortion/moving-force claims with recorded observations, distinguish all three equipment costs, and name the Charm bonus as +1 Clarity from exact A/D.
+
+**Commentary:** The tear-name list is convincing because the watch can preserve a person on paper and still fail to answer them. I find the different face descriptions more effective than a single official portrait: recognition cannot be reduced to agreement about a face. The Answered Return remains disturbing because proper procedure and a genuine welcome do not guarantee safety.
+
+HELD: source names spoken versus prohibited, pursuit/contact/death claims versus stationary non-breach, Blade activation, Charm certification, source history and contemporary desk chronology remain unresolved. Ten repairs7short/3careful; words6928→7249. Five actual checks PASS, full final reread after same-unit follow-up. Batch137 equipment credits retained without duplicate award; +0Types/+0Weapon/+0SE. Counters267/301Types,266/287Weapon,18/301SE unchanged. Ledger148held/133pending/14changed/4retained/2blocked. [Unit evidence](SE_APPEARANCE_REVIEWS/B178_02_NEMO.md)
+
+Three frozen reviews remain pending:941GrievingLove,723VanishedRope,901DuriHeart. No change0/2; minimumfive unchanged. This checkpoint is not a batch close. Owner p continues178 only; no179/merge/art/deployment. Later full recheck and Batch301 eight-owner-body/one4+4/generate-validate-before-copy blocker remain.
+
+
 ## Batch178 OPEN1/5 — Barrier of Nothing unit1, 2026-10-22
 
 Six supported repairs distinguish ordinary standing from the two escapes, replace pursuit and generic time/force claims with recorded observations, separate the dream figure from derived equipment, and give each equipment piece its own cost record.

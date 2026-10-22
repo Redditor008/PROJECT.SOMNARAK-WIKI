@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch178 OPEN1/5.** Barrier of Nothing reviewed HELD after six supported repairs; four frozen units pending. No new equipment or SE credit. [Unit evidence](SE_APPEARANCE_REVIEWS/B178_01_BARRIER_OF_NOTHING.md). Owner authorizes178 only; no179/merge/art/deployment.
+**Latest: Batch178 OPEN2/5.** Barrier of Nothing and Nemo reviewed HELD after16supported repairs. Three frozen reviews pending. No new equipment or SE credits. [Nemo evidence](SE_APPEARANCE_REVIEWS/B178_02_NEMO.md). Owner authorizes178 only; no179/merge/art/deployment.
 
 **Previous: Batch177 CLOSED5/5.** Five HELD whole designs;30 supported repairs. Equipment+1Types/+1Weapon; SE+0. [Full report](SE_APPEARANCE_REVIEWS/B177_CLOSE.md).
 
