@@ -1,6 +1,8 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch178 OPEN0/5.** Five HELD whole designs;30 supported repairs. Equipment coverage+1 Types/+1 Weapon; SE+0. [Full report](SE_APPEARANCE_REVIEWS/B177_CLOSE.md). No178/merge/art/deployment.
+**Latest: Batch178 OPEN1/5.** Barrier of Nothing reviewed HELD after six supported repairs; four frozen units pending. No new equipment or SE credit. [Unit evidence](SE_APPEARANCE_REVIEWS/B178_01_BARRIER_OF_NOTHING.md). Owner authorizes178 only; no179/merge/art/deployment.
+
+**Previous: Batch177 CLOSED5/5.** Five HELD whole designs;30 supported repairs. Equipment+1Types/+1Weapon; SE+0. [Full report](SE_APPEARANCE_REVIEWS/B177_CLOSE.md).
 
 **Previous: Batch176 CLOSED5/5.** Five HELD whole designs;45 supported repairs. Equipment coverage+1 Types/+1 Weapon; SE+0. [Full report](SE_APPEARANCE_REVIEWS/B176_CLOSE.md). No177/merge/art/deployment.
 

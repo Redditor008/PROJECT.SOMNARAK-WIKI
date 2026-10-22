@@ -27,7 +27,20 @@
       "C-Iα-723",
       "C-IIβ-901"
     ],
-    "reviewed": {},
+    "reviewed": {
+      "N-IIIγ-283": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_01_BARRIER_OF_NOTHING.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_OPEN.json"
   },
   "dossiers": [
@@ -2977,8 +2990,29 @@
     {
       "designation": "N-IIIγ-283",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Six supported repairs distinguish ordinary standing from the two escapes, replace pursuit and generic time/force claims with recorded observations, separate the dream figure from derived equipment, and give each equipment piece its own cost record.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_01_BARRIER_OF_NOTHING.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-A__SIDE_CODEX_Barrier_of_Nothing.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-B__MAW-W_The_Rust_Wall_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-C__MAW-S_The_Rust_Wall_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-D__MAW-G_The_Rust_Wall_Charm.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIIγ-308",

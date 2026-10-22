@@ -1,0 +1,131 @@
+{
+  "designation": "N-IIIγ-283",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽.md",
+  "words": 6921,
+  "sha256": "7ec0e93f4568c602b7a08caf12a498be8187098072ecccf4a0d8962a118c6995",
+  "unit": 1,
+  "name": "Barrier of Nothing",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_01_BARRIER_OF_NOTHING.md",
+  "before_words": 6921,
+  "after_words": 7154,
+  "final_sha256": "bf8ea3addff3040d96ba7ea733e76cc8aeb90b6b7a12bc4e4923762ed4935c1d",
+  "summary": "Six supported repairs distinguish ordinary standing from the two escapes, replace pursuit and generic time/force claims with recorded observations, separate the dream figure from derived equipment, and give each equipment piece its own cost record.",
+  "commentary": "The strongest feature is a boundary that nobody has to obey but people still route around. The annual Lapse Review makes the administrative sorrow concrete without making the former appeals process good. Keeping the deaths, recurrence and refused opt-outs beside the improvement prevents a humane policy from becoming an uncomplicated cure.",
+  "holds": [
+    "Source A PAGE02 says the walking wall crushes routes shut at75%; primary Breach, Warden Record and ninety years of transit sheets expressly deny any physical obstruction. Item B/C deployment histories rely on corridor compression. No documented past/current or conditional sequence reconciles those same-source actions.",
+    "Primary Appearance says never a sound and rust only in dreams, while Structural Failure groans, Flake/Rusted City corrode other things, Iron Rain cuts and Full Collapse prevents breathing. The generic lethal-duration and M.A.W. memory-debit claims also exceed the specific observed costs; no invented dream-only damage conversion clears them.",
+    "Passable/no-substance figure versus fixed-panel rubbing, leaning, striking, breaking plates and Vessel-Destructible/Han Dust remains an unresolved contact/destruction relationship. A humanoid silhouette itself is supported by Side A and the primary; it is not the reason for a hold.",
+    "Continuous presence versus75%/Pugnahan combat activation and65% Ultimate need event-specific scope. Breach opens at40% and rises10% per cycle; Observation Progression says extension follows only Pugnahan, while Breach allows extension each free cycle. Values are retained, not averaged or replaced.",
+    "Tale142 keeps ResidueI/Minorα/Low/GateDistrict/Viderehan-primary and cannot-maintain/remove/cannot-leave language versus current FragmentIII/Majorγ/ZoneE/escape/Ferrehan-primary. The exiles departure story is compatible origin evidence, but the Record supplies no dated revision for those remaining conflicting operational claims.",
+    "Local seven-foot Halberd and Master table424/W283 polearm differ from exact Side/itemB and Master detail424 Maul. Matching Weight7–12/Fast3/Medium3/Skewer/max3/40Echoes does not prove a transformation. Archetype Room is not substituted for Range3. Weapon fatigue versus slight aging also needs scope.",
+    "Charm known-three/none-since4231/criterion-unknown account remains distinct from Side/itemD named-position bestowal. Local barred-person sensing differs from exact omitted-position recognition. Head/4%/+2Resolve align; Registry genericAccessory/5% is retained as conflicting index evidence.",
+    "The Tale/standing-roster figure604 is not explicitly dated relative to the Year4237 return dropping604 bars; the ongoing31-day duration/current-count language cannot be retimed silently. Correlation is not a proven mechanism, and the later recheck must retain both observations."
+  ],
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-A__SIDE_CODEX_Barrier_of_Nothing.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-B__MAW-W_The_Rust_Wall_Maul.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-C__MAW-S_The_Rust_Wall_Plate.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-D__MAW-G_The_Rust_Wall_Charm.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/README.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-A__SIDE_CODEX_Barrier_of_Nothing.md": "9aa0f12f9b8e1b27c424324a3eaf58371e1f0fa07b7f9026028df70130ab424d",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-B__MAW-W_The_Rust_Wall_Maul.md": "b63ab81c93d2fc634cf94c41e5d6d87809d3e7b67ce1f34f7e76bf9202596c73",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-C__MAW-S_The_Rust_Wall_Plate.md": "b54fa40cad939ffe56e96054056f1f37db72a2a43b7b6ff27ba33de351dda88d",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-283-D__MAW-G_The_Rust_Wall_Charm.md": "0a98e28fc207eb037ae487b831694b800097681274ca20122b928adefccc4809",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/README.md": "688b427b734b273a8d4fe9e3955a4a7c352e68cdcab43cf87093d72e80624c64",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399"
+  },
+  "repairs": [
+    {
+      "kind": "short",
+      "old": "| **Movement** | Mobile — walks upright; can breach and pursue. |",
+      "new": "| **Movement** | Mobile — normally stands beside the Gate; in the two recorded escapes it walked out and stood elsewhere. No pursuit or obstruction is recorded. |",
+      "evidence": "Breach Movement, Escalation Notes and Observation Log distinguish holding posture from escape movement and expressly deny pursuit."
+    },
+    {
+      "kind": "short",
+      "old": "| **Position / movement** | Mobile — upright on its own legs, able to breach and pursue. Entered against the previous figure at every cycle on this ground. |",
+      "new": "| **Position / movement** | Standing square to the old wall line during ordinary observation; it has moved in the two recorded escapes, then stood beside another passage without pursuing anyone or blocking the route. Compare its position, the line and the transit sheet. |",
+      "evidence": "Identification Profile, Breach Movement and Observation Log supply supported conditional position rather than universal immobility or pursuit."
+    },
+    {
+      "kind": "short",
+      "old": "**With continued exposure:** Time stretches in the containment zone. The Subject-Dream becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.",
+      "new": "**With continued exposure:** The infirmary counts days of rust in sleep after a watch, not stretched time at the Gate. Its duration column lengthens while the transit count stays steady and nobody is obstructed. Keep the worker's duration beside the standing-bar roster; the Tale tests that relationship against transit count, extent, season and hours stood, without treating the match as proof of a cause.",
+      "evidence": "Operational Work Notes, duration-column observation, Tale and Testimonium support after-contact duration, not time distortion."
+    },
+    {
+      "kind": "short",
+      "old": "**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Weight becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Dream was waiting; now it moves.",
+      "new": "**When the entity activates:** Its standing presence is continuous. The recorded escalation after Pugnahan is harder plate, extension along the old wall line and a narrower dream-space for the wing's sleepers. This is not a finding that the route has closed. Withdraw to the transit line and record who applied what; the action table and linked Side Codex still carry physical attacks and closure claims that the holding's non-obstruction record does not reconcile.",
+      "evidence": "Operational Notes, Behavior, Observation Progression and Breach distinguish continuous presence and recorded Pugnahan escalation; retain conflicting combat/Side accounts explicitly."
+    },
+    {
+      "kind": "careful",
+      "old": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, and a dated baseline against what Barrier of Nothing takes: the wielder tires early and keeps tiring early for some weeks after handing it in. |\n| **During use** | Watch for Barrier of Nothing's toll — the wielder tires early and keeps tiring early for some weeks after handing it in — and record the hour it is first seen rather than the hour it is first mentioned. |\n| **At limit** | The wearer is hard to admit into a room. Crews report it before the wearer does, and the wielder has stopped reporting it — the usual end point for a Barrier of Nothing piece. The observer calls the limit. |\n| **After use** | Return the piece, then ask a colleague rather than the wielder whether Barrier of Nothing's cost is still showing — the wearer is hard to admit into a room. Crews report it before the wearer does. |",
+      "new": "| Stage | Required record |\n|---|---|\n| **Before use** | Name the piece and its bearer. For the halberd, establish fatigue before issue; for the Plate, name the colleague who will notice exclusion from a room; for the Charm, record the bearer's ordinary stride and threshold hesitation. These are different costs, not one shared fatigue scale. |\n| **During use** | Keep the halberd directed at the Gate's timber or plate, never at the Subject. Record early tiring for its wielder, failed welcome for the Plate wearer, and slowing or threshold stops for the Charm bearer. The linked Maul's closure-breaking account remains a separate unresolved Weapon record. |\n| **At limit** | The outside observer names the affected piece and the sign actually seen. A Plate wearer no longer noticing exclusion is not evidence that the halberd wielder or Charm bearer has the same symptom. Do not turn the source's non-obstruction into permission to force an equipment wearer across a threshold. |\n| **After use** | Continue the halberd wielder's fatigue record after hand-in. Ask colleagues whether the Plate wearer is still being left outside the room, and record whether the Charm bearer still hesitates at thresholds. The granted Charm is not an issued piece to be returned by copying the Weapon procedure. |",
+      "evidence": "Local individual costs and Use Notes distinguish issued Weapon/Plate from given Charm; the old table copied Weapon fatigue and Suit exclusion onto all pieces."
+    },
+    {
+      "kind": "careful",
+      "old": "**Appearance protocol:** Log the transits, the extent of the barrier along the old wall line, and the panel impression. Do not log an interpretation of the marks; two Wardens tried and both wrote that they had stopped.",
+      "new": "**Appearance protocol:** Log the transits, the extent of the barrier along the old wall line, and the panel impression. Do not log an interpretation of the marks; two Wardens tried and both wrote that they had stopped.\n\n**Reading the figure:** The standing human outline belongs to the Subject, assembled from rusted plate rather than a person inside armor. The old wall line is its orientation, not a solid barricade: transits continue through its occupied space. Dream-rust in a sleeper is an after-contact effect, not evidence that nearby metal is corroding. The issued harness and granted Charm are separate equipment, not detached limbs; Side A describes dream-rust materialization without removing a plate. The panel rubbing and solid-shard attacks still need a supported account of contact with this passable figure.",
+      "evidence": "Whole primary plus Side A extraction; identify subject, dream effect and derived items without inventing how a passable body can be rubbed or struck."
+    }
+  ],
+  "split": [
+    4,
+    2
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.022  clean   135 grams  Operational Parameters\n 0.020  clean   608 grams  M.A.W. Equipment\n 0.006  clean   462 grams  Combat Record\n 0.006  clean   172 grams  Breach Behavior\n 0.000  clean   761 grams  Warden Record\n 0.000  clean   650 grams  감각 묘사 (Flavor Text)\n 0.000  clean   382 grams  기록 (Registrum)\n 0.000  clean   335 grams  이야기 (Narratio)\n 0.000  clean   298 grams  이야기 보고 (Story Log)\n 0.000  clean   264 grams  Appearance\n 0.000  clean   235 grams  관찰 기록 (Observation Log)\n 0.000  clean   165 grams  Trivia\n 0.000  clean   144 grams  Origin\n 0.000  clean   123 grams  증언 (Testimonium)\n 0.000  clean   102 grams  Behavior\n 0.000  clean    86 grams  최종 관찰 (Final Observation)\n 0.000  clean    35 grams  SECC Classification\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   3  | **Han-Energy yield** | 16–22 per successful work cycle, read off the transit line and never off the plates |\n   85   3  | { *The Rusted City* [**Ultimate**] } | \"Rust gets into every other wall on the ground, and it does not stop at one.\" | [The deca\n  168   1  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% a cycle while it is left standing; it falls when a worker names, aloud an\n  244   1  **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Frac\n  246  11  **Full-set source review (2026-10-13):** Reviewed the corrected `γ` grade overview, all three local equipment blocks, Use Notes, F\nGENERIC 0.004  (19 shared shingles)  SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽.md\n",
+      "stderr": ""
+    }
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "history": "Batch107 full-set and exactSE283B already credited: ff224a7c; earlier B37 narrative cleanup is not independent body credit. No absence-based credit inferred from equipment_reviews.",
+  "reasoning": "Subject-Dream humanoid rust-plate organisation supported by primary/Side A; stationary holding and two escape relocations are supported conditional states. Nonobstruction, dream-rust and inherited exclusion support origin-to-current-theme. Derived harness/charm need not copy donor anatomy: Side A explicitly stabilizes loose dream-rust without removing a plate. Work, voice resolution and interaction differences are documented, but crush/cut/sound/contact and thresholds remain essential unresolved action relationships. Full final rereading includes every untouched combat, observation, Tale, testimony and Warden section. No completed SE credit.",
+  "validation_note": "Initial wikistd --file ran global report rather than per-file; corrected by actual positional-path invocation showing all six per-dossier fields true/clean. No global report substituted for the required per-file check.",
+  "link": "[[SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-283_Barrier_of_Nothing_%EB%85%B9%EC%8A%A8_%EB%B2%BD.md \"SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽.md\")]",
+  "table_link": "[Barrier_of_Nothing](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-283_Barrier_of_Nothing_%EB%85%B9%EC%8A%A8_%EB%B2%BD.md \"SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽.md\")"
+}

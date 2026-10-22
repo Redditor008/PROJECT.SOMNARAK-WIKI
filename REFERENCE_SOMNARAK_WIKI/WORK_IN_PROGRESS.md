@@ -1,5 +1,16 @@
 # Work In Progress
 
+## Batch178 OPEN1/5 — Barrier of Nothing unit1, 2026-10-22
+
+Six supported repairs distinguish ordinary standing from the two escapes, replace pursuit and generic time/force claims with recorded observations, separate the dream figure from derived equipment, and give each equipment piece its own cost record.
+
+**Commentary:** The strongest feature is a boundary that nobody has to obey but people still route around. The annual Lapse Review makes the administrative sorrow concrete without making the former appeals process good. Keeping the deaths, recurrence and refused opt-outs beside the improvement prevents a humane policy from becoming an uncomplicated cure.
+
+HELD: route-crushing, physical damage/sound/contact, event thresholds, older Tale classifications and exact Halberd/Maul identities remain unresolved. Six repairs4short/2careful; words6921→7154. Five actual per-file checks PASS; complete final reread. Earlier Batch107 equipment coverage retained without duplicate credit. Counters unchanged267/301Types,266/287Weapon,18/301SE. Ledger now147held/134pending,14changed/4retained/2blocked. [Unit evidence](SE_APPEARANCE_REVIEWS/B178_01_BARRIER_OF_NOTHING.md)
+
+Four frozen reviews remain pending:589Nemo,941GrievingLove,723VanishedRope,901DuriHeart. No change0/1; no ladder decision beforefive. This is a checkpoint, not a close. Authorization remains for178; no179/merge/art/deployment. Later full recheck and Batch301 eight-owner-body blocker unchanged. Opening gate initially refused a misbased CHANGELOG evidence link; corrected before opening push.
+
+
 ## Batch178 OPEN 0 / 5 — 2026-10-22
 
 Owner p authorizes Batch178 only; the next p resumes this authorization, not179. Metadata-only recovery matched all2597 tracked files to the remote Batch177 closure before moving local Git forward. No source content was lost or replaced.
