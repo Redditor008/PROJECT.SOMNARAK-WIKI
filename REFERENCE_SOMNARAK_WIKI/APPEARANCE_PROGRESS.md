@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch178 CLOSED 5 / 5.** Five whole-design reviews remain HELD after 31 supported repairs. No change 0 / 5; no ladder extension. No new equipment or SE credits. [Closure evidence](SE_APPEARANCE_REVIEWS/B178_CLOSE.md). No179 authorization, merge, artwork or deployment.
+**Latest: Batch179 OPEN 0 / 5.** Five pending dossiers frozen by fresh C-locale word count. No new reviews or credits. [Opening evidence](SE_APPEARANCE_REVIEWS/B179_OPEN.json). No180/merge/art/deployment.
 
 **Previous: Batch177 CLOSED5/5.** Five HELD whole designs;30 supported repairs. Equipment+1Types/+1Weapon; SE+0. [Full report](SE_APPEARANCE_REVIEWS/B177_CLOSE.md).
 

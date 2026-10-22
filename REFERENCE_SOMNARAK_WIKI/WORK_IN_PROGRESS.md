@@ -1,5 +1,18 @@
 # Work In Progress
 
+## Batch 179 — OPEN, 0 / 5 (2026-10-22)
+
+Owner p after CLOSED178 authorizes this batch only. Fresh synchronized pending-only LC_ALL=C word counts freeze the following queue, using designation-byte ties. These are pending, not reviewed and not No change.
+
+1. `N-Iα-519` — 7027 words
+2. `C-IVγ-205` — 7062 words
+3. `O-Vγ-003` — 7063 words
+4. `O-IIIβ-120` — 7069 words
+5. `C-IIβ-997` — 7072 words
+
+Minimum five; three cumulative whole-dossier No change results extend this same batch5→7→10. Individual full original/source/final readings, supported repairs, Commentary, five checks and verified pushes remain mandatory. Counters267/301Types,266/287Weapon,18/301SE unchanged. [Opening evidence](SE_APPEARANCE_REVIEWS/B179_OPEN.json) stores130 pending fingerprints and five reserves. Four baseline audits PASS. No180/merge/art/deploy. Later full recheck and Batch301 eight-owner-body/one4+4/generate-validate-before-copy blocker retained.
+
+
 ## Batch 178 — CLOSED at 5 / 5 (2026-10-22)
 
 All five frozen dossiers reviewed and individually pushed: Barrier of Nothing, Nemo, Grieving Love, The Vanished Rope and Duri’s Heart. Each whole design remains HELD after supported improvements. **31 repairs (20 short / 11 careful)**; LC_ALL=C words **34,839 → 36,024**. No change **0 / 5**, so no extension to seven or ten.
