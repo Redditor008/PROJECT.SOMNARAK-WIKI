@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 179 — OPEN 1 / 5: Mourning a Life I Never Lived (2026-10-22)
+
+Nine supported repairs replace unspecified creature gaits with documented low tendril flow, restore movement information in two pasted-form fields, align activation with Place-Grudge, distinguish floor exposure from unrecorded planting inside personnel, replace generic landscape/surge claims with measured intention-driven growth and its conditional actions, explain the source-body boundary, and separate all three equipment costs in field records.
+
+**Commentary:** The low root-star makes the imagined life tangible without giving the mourner a substitute human body. I find the hard sentence at withdrawal effective because it can be true without making the grief false. The roster-office response is especially sharp: an institution can keep a future open as carelessly as a person can.
+
+Whole design HELD. Nine repairs:7short/2careful; LC_ALL=C words 7027 → 7350. Complete before/source/history/final readings and five checks PASS. Source fingerprints,300unselected primaries,301PhysicalForm rows, digit sequences and Tale unchanged. B124 already credited this equipment; +0Types/+0Weapon/+0SE. [Unit evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_01_MOURNING_A_LIFE_I_NEVER_LIVED.md).
+
+Four frozen units pending: HollowTree205, WildernessTide003, WrathFlame120, DrownedRoots997. No change0/1; minimumfive remains, do not close belowfive or start180. Counters267/301Types,266/287Weapon,18/301SE unchanged. Held152/pending129. Later full recheck and Batch301eight-owner-body blocker retained. No merge, artwork or deployment.
+
+
 ## Batch 179 — OPEN, 0 / 5 (2026-10-22)
 
 Owner p after CLOSED178 authorizes this batch only. Fresh synchronized pending-only LC_ALL=C word counts freeze the following queue, using designation-byte ties. These are pending, not reviewed and not No change.

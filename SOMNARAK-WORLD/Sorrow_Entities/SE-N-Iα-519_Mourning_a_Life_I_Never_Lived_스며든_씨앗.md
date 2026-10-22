@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Mixed — A seed sprouted into a creeping net of dark root-tendrils — a low spreading creature that flows across floors like a starfish of root. Bloodless-cold, it smells of ash. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Mobile — the low net flows across floors on its root-tendrils. Track the edge against the vault markings; the documented reach stays low, rather than walking upright or rising into a stem. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -101,12 +101,14 @@
 
 **Notable Features:** It reveals empty spaces rather than filling them and grows without producing a plant.
 
+**Reading the net:** The low root-star shape is the current form, not a miniature person living the citizen's unrealised life. The Tale gives grief a seed-shaped absence in the ground; it does not say the mourner's body became the creature. Follow the visible tendrils, the seed-shaped absence and the floor beneath them as separate observations. The ordinary account has no stem or leaf, while the combat list separately describes germination, holes and a forced Void bloom; those named actions do not establish an ordinary flowering plant. The file also calls the source mobile and calls its combat position fixed. Neither a moving edge nor a growing affected extent alone settles whether the whole form relocates. Keep that relationship open instead of inventing a rooted phase, a detached body or a transformation between them.
+
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Place-Grudge
 - **Primary marker:** A small seed-shaped absence that spreads through the floor as a dark root pattern.
-- **Position / movement:** Physical Form: A small seed-shaped absence that spreads through the floor as a dark root pattern.
+- **Position / movement:** The root-tendril net spreads and flows across floor surfaces, remaining below ankle height. Record its widest extent and the edge against the vault markings, not a duplicated form label.
 - **Element signature:** Void
 - **Registered location:** Zone A, Alpha Tree vault
 
@@ -115,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A small seed-shaped absence that spreads through the floor as a dark root pattern. |
-| **Position / movement** | Physical Form: A small seed-shaped absence that spreads through the floor as a dark root pattern. |
+| **Position / movement** | A low net of tendrils flowing across the floor; measure its widest extent against the vault markings and record whether the edge advanced or retreated during the watch. No stem or leaf marks an upright position. |
 | **Material / signature** | Void presentation in root-tendril form: record the net's extent against the vault markings, the absence of any stem or leaf, the floor beneath the tendrils, and the ash-smell in a vault that has never burned. |
 | **Distinctive markers** | Identify it by what is missing. Several root forms are catalogued; this is the one that has never produced a plant, and the absence of a plant is the identifying feature rather than an incidental one. |
 | **Identification** | Match the SECC code before work or contact. The vault holds more than one record grown from something that was never there, and they are not managed alike; this is the one that must not be planted, assisted, or described as having potential. |
@@ -168,7 +170,7 @@ Escalation here is measured in centimetres of floor. The file's own log runs thi
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Collective longing for an unrealized future. |
-| **Manifestation** | Place-Void|
+| **Manifestation** | Place-Grudge, expressing Void as recorded in the SECC classification, Story Entry and Tale. |
 | **Primary effect** | Personnel see empty versions of their lives. |
 | **Duration / rate** | Slow through vault floors. |
 | **Risk** | Minor (α) Object/Place producing Void pressure. The exposure effect is specific to this holding and is not a drain: personnel leave with their memories intact and their account of which of their own plans they carried out no longer reliable. |
@@ -177,7 +179,7 @@ Escalation here is measured in centimetres of floor. The file's own log runs thi
 **Activation reporting order:** what unfinished intention was spoken aloud and by whom → the net's extent before and after → the direction of growth → whether the intention was subsequently carried out or formally closed → the reading. The fourth field is to be completed after the shift, not estimated during it.
 ## Breach Behavior
 
-> *"Mourning a Life I Never Lived has broken free. Plants itself in personnel, growing within."*
+> *"Mourning a Life I Never Lived has extended beyond the vault. The low net crosses the corridor floor; personnel are exposed by standing within its extent. Record the edge and the unfinished plans, not an unrecorded planting inside a body."*
 
 | Field | Detail |
 |---|---|
@@ -271,10 +273,10 @@ The set is filed as **Possibility, Not Memory** and runs on the resonance **Grie
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline of the wielder's own plans for the month, held by somebody else and not shown to them — on this set the cost falls on the reliability of that list rather than on the memory of it. |
-| **During use** | Watch for the toll's first sign — the wielder losing small nameless memories without noticing — and enter the hour the second worker first sees it rather than the hour the wielder first mentions it, which on every record kept so far has been never. |
-| **At limit** | The wielder stops noticing the toll, and the report they write reads as the work of somebody slightly less present than the person who began the shift. Every stand-down on this set has been called by the second worker on that reading. |
-| **After use** | Return the piece and put the question to a colleague rather than to the wielder: is the absence still showing? The answer is entered whether or not the wielder agrees, and on this set the disagreement itself has been entered twice. The seed’s pre-use outline is retained as evidence of the future spent; the weapon’s memory loss is entered only to the extent the second worker can evidence it against the baseline. An unidentified loss stays unidentified rather than receiving an invented outline or borrowed content. |
+| **Before use** | Name the wielder and piece, take the day's reading, and leave the written plan baseline with the second worker rather than the bearer. Keep its scope clear: the Glaive's nameless memory loss may be evidenced against that baseline, the Veil's cost is feeling absent to oneself, and the Seed spends one imagined future whose outline is recorded before use. Do not circulate the source citizen's withheld plan to fill a gap in the bearer's record. |
+| **During use** | For the Glaive, enter the second worker's first evidence of an unnoticed memory loss; a target's doubt is not proof that an event was imaginary. For the Veil, record greetings felt to belong to somebody else and inspect the present identity line before imagined roots. For the Seed, compare the spent future with its pre-use outline without forcing ambiguous evidence into a verdict. |
+| **At limit** | The second worker's stand-down call does not depend on the bearer noticing a cost. Record which piece was used and the actual sign: an evidenced memory loss, a weakened sense of present identity, or the Seed's spent possibility and its recorded failure signs. An unidentified loss remains unidentified; do not reconstruct a missing future or rank the Veil's failures by an invented severity ladder. |
+| **After use** | Ask the colleague whether the absence still shows and retain the answer even if the bearer disagrees. Keep the Seed's outline as evidence of the future spent, the Glaive's losses only to the extent evidenced, and the Veil's present-identity inspection separately. Issued equipment and a granted head-seed do not share an assumed return or removal procedure. No invented outline, borrowed memory or replacement fantasy closes an unresolved entry. |
 
 **Stat interpretation:** The grades describe extraction stability rather than human safety, and the gap between the two is unusually wide on this set. The glaive and the veil both perform as written. What the table cannot show is that the seed's bearers are the personnel most likely to withdraw long-standing applications and transfer requests, and that every one of them described the withdrawal as a relief.
 ## 관찰 기록 (Observation Log)
@@ -335,9 +337,9 @@ A seed lies in a dark patch of floor. Roots spread from it, but nothing grows. Y
 
 **At first contact:** A dark patch of floor turns out to be a net of root-tendrils flowing across the vault at ankle height, and the first thing the eye confirms is what is not there: no stem, no leaf, nothing grown out of any of it. The ash-smell arrives before the net fully registers, and so does the urge to say out loud what you have been meaning to do.
 
-**With continued exposure:** Prolonged exposure turns the containment zone into a landscape. The Void has topography here — ridges of pressure, valleys of absence, a geography only the Place-Grudge could have made.
+**With continued exposure:** The measured change follows unfinished intentions, not time in the vault. A handover can lengthen the net without a work cycle taking place; compare the tape with what the shift said it meant to do. A quiet hour is not a full-shift baseline, and an imagined landscape is not a measured change in the floor.
 
-**When the entity activates:** The Gauge crosses the line and the Place-Grudge remembers what it is. The Void surges — not as an attack but as a statement, a declaration that this sorrow will not be quieted.
+**When the entity activates:** Record what unfinished intention was spoken, by whom, and where the edge reached against the vault markings. Growth is entered as an extent, not a declaration. A Seed release, germination, volley or forced bloom has its own listed trigger; a Gauge reading alone does not establish which action occurred.
 
 **After departure:** The net does not follow and does not need to. What comes out with the worker is the urge to keep talking about their plans, and a hand-shaped memory of how far the edge went back when somebody finally said the hard sentence.
 

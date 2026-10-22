@@ -27,7 +27,20 @@
       "O-IIIβ-120",
       "C-IIβ-997"
     ],
-    "reviewed": {},
+    "reviewed": {
+      "N-Iα-519": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_01_MOURNING_A_LIFE_I_NEVER_LIVED.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_OPEN.json"
   },
   "dossiers": [
@@ -4283,8 +4296,30 @@
     {
       "designation": "N-Iα-519",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Nine supported repairs replace unspecified creature gaits with documented low tendril flow, restore movement information in two pasted-form fields, align activation with Place-Grudge, distinguish floor exposure from unrecorded planting inside personnel, replace generic landscape/surge claims with measured intention-driven growth and its conditional actions, explain the source-body boundary, and separate all three equipment costs in field records.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_01_MOURNING_A_LIFE_I_NEVER_LIVED.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-A__SIDE_CODEX_Mourning_a_Life_I_Never_Lived.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-B__MAW-W_The_Empty_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-C__MAW-S_The_Empty_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-D__MAW-G_The_Empty_Seed.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-Iα-686",
