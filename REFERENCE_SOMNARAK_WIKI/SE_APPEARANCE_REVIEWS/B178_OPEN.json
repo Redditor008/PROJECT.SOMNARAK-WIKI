@@ -1,0 +1,78 @@
+{
+  "batch": 178,
+  "base": "2f898fdc9794c3cac8d2e44b93113f2842297a3a",
+  "authorization": "Owner p after CLOSED177 authorizes Batch178 only. Subsequent p resumes the same still-unopened authorization, not179. Minimum5; cumulative three No change extends same batch5→7→10. Later full recheck preserved.",
+  "selection": "Fresh pending-only shortest LC_ALL=C wc-w; designation-byte ties; not a defect ranking.",
+  "pending": 135,
+  "queue": [
+    {
+      "designation": "N-IIIγ-283",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽.md",
+      "words": 6921,
+      "sha256": "7ec0e93f4568c602b7a08caf12a498be8187098072ecccf4a0d8962a118c6995"
+    },
+    {
+      "designation": "N-IIIγ-589",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-589_Nemo_돌아온_영혼.md",
+      "words": 6928,
+      "sha256": "782acf4a157ae1f45673691ffc4f5a4902bd2144d10405d8426d9cf1cef4855c"
+    },
+    {
+      "designation": "N-IIIβ-941",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md",
+      "words": 6982,
+      "sha256": "9fb6664b0d08656dc6cb28f34398e9f93512da2be4d925cfdd0d1205ceecc4e4"
+    },
+    {
+      "designation": "C-Iα-723",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄.md",
+      "words": 7003,
+      "sha256": "170ff23b2cafd745b8a41d53dda49d6e824c2ea99df769762650c778334373aa"
+    },
+    {
+      "designation": "C-IIβ-901",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-901_Duri's_Heart_보존된_심장.md",
+      "words": 7005,
+      "sha256": "d18470d7b3611f61bfb6c157b8d6f5fc0c952eeae7e844e787c2b133dcdaadae"
+    }
+  ],
+  "reserves": [
+    {
+      "designation": "N-Iα-519",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗.md",
+      "words": 7027,
+      "sha256": "ace77a9eed469130187adbf6bab1218d7f3cee380b8a4e12646c19dca52149b2"
+    },
+    {
+      "designation": "C-IVγ-205",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-205_Hollow_Tree_빈_나무.md",
+      "words": 7062,
+      "sha256": "8e444f40259eddeed847f8088c1285a3e8b3da7c0935269afc0ad733f728b02e"
+    },
+    {
+      "designation": "O-Vγ-003",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Vγ-003_Wilderness_Tide_야생의_조수.md",
+      "words": 7063,
+      "sha256": "94134e885d147deca8beafd4da6e551ce99d03e22027dcc3d750923374534ee9"
+    },
+    {
+      "designation": "O-IIIβ-120",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md",
+      "words": 7069,
+      "sha256": "7d2faaf9e5caff7e745b6376df65a6389410b9033c883e0717cf911e24a6c991"
+    },
+    {
+      "designation": "C-IIβ-997",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md",
+      "words": 7072,
+      "sha256": "1d8ae500db20820477f023b59989f57a348884fc057cb60efc496210abf6d071"
+    }
+  ],
+  "recovery": "All2597 remote-tracked files matched2f898fdc before metadata-only recovery; no content restored or discarded.",
+  "baseline_audits": {
+    "lore": "PASS",
+    "timeline": "PASS",
+    "seam": "PASS",
+    "symmetry": "PASS"
+  }
+}

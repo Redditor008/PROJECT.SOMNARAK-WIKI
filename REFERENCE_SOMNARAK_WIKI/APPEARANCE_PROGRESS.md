@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch177 CLOSED5/5.** Five HELD whole designs;30 supported repairs. Equipment coverage+1 Types/+1 Weapon; SE+0. [Full report](SE_APPEARANCE_REVIEWS/B177_CLOSE.md). No178/merge/art/deployment.
+**Latest: Batch178 OPEN0/5.** Five HELD whole designs;30 supported repairs. Equipment coverage+1 Types/+1 Weapon; SE+0. [Full report](SE_APPEARANCE_REVIEWS/B177_CLOSE.md). No178/merge/art/deployment.
 
 **Previous: Batch176 CLOSED5/5.** Five HELD whole designs;45 supported repairs. Equipment coverage+1 Types/+1 Weapon; SE+0. [Full report](SE_APPEARANCE_REVIEWS/B176_CLOSE.md). No177/merge/art/deployment.
 

@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch178 OPEN 0 / 5 — 2026-10-22
+
+Owner p authorizes Batch178 only; the next p resumes this authorization, not179. Metadata-only recovery matched all2597 tracked files to the remote Batch177 closure before moving local Git forward. No source content was lost or replaced.
+
+Fresh135 pending-only LC_ALL=C word counts freeze283 Barrier of Nothing (6921),589 Nemo (6928),941 Grieving Love (6982),723 The Vanished Rope (7003),901 Duri's Heart (7005). Ties use designation bytes. Five reserves and original SHA256 fingerprints are in [opening evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_OPEN.json). Pending means unreviewed, not No change or defective.
+
+Baseline lore, timeline, semantic-seam and box-symmetry audits PASS. Counters unchanged: ALL M.A.W. Types Appearance per SE267/301 (88.70%,34remain); ALL M.A.W.-W Appearance per SE266/287 (92.68%,21remain); SE Appearance Fix18/301 (5.98%,283remain). Equipment coverage includes holds, not artwork completion. Minimumfive, three cumulative No change triggers5→7→10. Individual review pushes do not close the batch.
+
+No179, merge, artwork or deployment authorized. PR14 remains OPEN/draft to NON-WIKI. Later full recheck remains available. Batch301 remains separately blocked on eight owner-supplied bodies, one4+4operation, generation/validation before wiki copying.
+
+
 ## Batch177 CLOSED 5/5 — 2026-10-22
 
 Five complete primary/source/final reviews finished in the frozen order. All five whole written designs remain HELD. This closes five reviews, not five completed appearance fixes. No change: 0/5.

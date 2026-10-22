@@ -17,80 +17,18 @@
     }
   },
   "active_batch": {
-    "number": 177,
-    "status": "CLOSED",
+    "number": 178,
+    "status": "OPEN",
     "required": 5,
     "queue": [
-      "N-IVδ-606",
-      "C-IIβ-250",
-      "O-Iα-643",
-      "C-IVδ-915",
-      "C-IIIγ-115"
+      "N-IIIγ-283",
+      "N-IIIγ-589",
+      "N-IIIβ-941",
+      "C-Iα-723",
+      "C-IIβ-901"
     ],
-    "reviewed": {
-      "N-IVδ-606": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_01_BANYAN.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IIβ-250": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_02_MEMORY_RAIN.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "O-Iα-643": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_03_FROZEN_MIRROR.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IVδ-915": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_04_ENDLESS_SHIFT.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IIIγ-115": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_05_REMEMBRANCE.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      }
-    },
-    "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_OPEN.json",
-    "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_CLOSE.json"
+    "reviewed": {},
+    "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_OPEN.json"
   },
   "dossiers": [
     {
