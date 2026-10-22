@@ -1,0 +1,135 @@
+{
+  "designation": "C-IIβ-901",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-901_Duri's_Heart_보존된_심장.md",
+  "words": 7005,
+  "sha256": "d18470d7b3611f61bfb6c157b8d6f5fc0c952eeae7e844e787c2b133dcdaadae",
+  "unit": 5,
+  "name": "Duri's Heart",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_05_DURIS_HEART.md",
+  "before_words": 7005,
+  "after_words": 7323,
+  "base": "e42e04de6d6cd94025ee69581ba03f09a3a7d4fb",
+  "final_sha256": "aa69f42077883904bc10865680692c5511679de87a184e8ecf0f34c77125446a",
+  "summary": "Five supported repairs correct the four-hundred-beat baseline duration, distinguish expanding Weight influence from an escaping organ, remove unsupported beat quickening from distance-based targeting, explain the opaque amber/source/tool/equipment boundaries, and record the Edge, Veil and Token costs separately without treating every item as the whole specimen.",
+  "commentary": "The amber calendar gives institutional neglect a visible surface without making Duri stand up and accuse anyone. I find the useful calm more disturbing than a false benefit: the facility can measure its success while refusing to replace rest. The pulse-caller is the person the system still needs to feel alarm, and its refusal to fund relief makes that role painfully concrete.",
+  "holds": [
+    "The source is fixed, never relocated, continuously emits while sealed and is never opened; the I-Relic profile says carried/equipped, palm-contact activation, handler removal and cannot be left running in a room. No separate mounted part, portable state or transfer history identifies their relationship. New wording flags it without manufacturing a bridge.",
+    "Core says nothing attempted and amber never opened. Breach says one shattering attempt recorded in full in WatchRecord, but WatchRecord contains no such attempt. Cooling/slowing instruction also conflicts with invariant-rate series. No missing Watch paragraph or extraction procedure invented; intact medical recovery need not equal later armor-material harvesting.",
+    "Invariant forty-eight-year three-second baseline versus cycle-induced slowing, Monday testimony, skipped-beat action and first-contact two-second sound/ear-three remain distinct unresolved claims. The new twenty-minute duration is explicitly baseline arithmetic, not a promise of an invariant rate in every event:400×3seconds=1200seconds=20minutes. Four-hundred-beat count/yield and all digit sequences unchanged; actual count and earlier pulse stop govern, not a stopwatch permission.",
+    "Three ignored conditions, Gauge60%activation,65%sector event,50%breach opening and rising/falling5%perbeat have separate scopes; no composite trigger invented. FirstWeight says every handler matches specimen within firstminute while convergence ends sessions, success requires400beats/near-entrypulse and Token recipients ended own fullcycles. No safe pulse-state exemption was added. Bodypressure versus Composure labels remain fields, not proof of separate anatomy.",
+    "A records FormationNotRecorded, B says owner/occasion lost, C provenance withheld and D story surrendered, against named Duri/full medical roster/Origin/Tale. Item first-person attribution and named-event shutdown retain an unresolved event reference; sourcehistory was not copied into their files as if they already agreed. No item donor biography invented.",
+    "Primary source completion is400beats, within4ofentry, glass shut; A–D generic reduceGauge containment is not substituted. Existing4beatcompletion, >8beat emergency rule,20bpmconvergence and2minute Tool removal remain distinct but conflicting exposure modes. New Field table does not authorize finishing a cycle past a stop.",
+    "Archetype354 Medium heart-shaped cleaver versus primary/exactA/B Short2 single-edged blade lacks a range/form crosswalk. Donor is not Weapon: absence of a literal heart silhouette in a derived blade is not itself a source-body conflict. Weapon's1secondhum and source3secondbeat are on different subjects; no false hold from equal-rate assumption.",
+    "Token cools when set down/warms inhand versus Effect keepsbloodtemperature inanyconditions remains unresolved across conditions. Its granted status,Head5% and unnamed+1sourceworkbonus retained; wearable sorrow fragment does not prove tissue extracted from sealed amber. Trivia Weightneverheaviness applies source but Token cost explicitly burden on a different subject, not automatic contradiction.",
+    "Forty-eight-year current series, forty-third extension/three years operation/eight subsequent reviews and eleven annual unamended reviews do not establish one coherent current date; document date4232+1778 and Y4240audit reference remain literal. No date/year rewritten. Forty-seven anniversary events from losses over eleven days and assertion of her own errors producingnodarkening coexist with everyloss anniversary claims; the grouped/individual-event accounting is not supplied.",
+    "Disposition324 says no pairing/no co-presence can be staged, while primary records one40minute KindHealer null pairing and prohibits EndlessShift co-presence. Neutral outcome remains supported; the index's historical prose discrepancy is retained. The facility safety case/extendedshift benefits and dose hazards coexist deliberately; useful composure is not recovery or rest. No assistance-against-entities credit."
+  ],
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/901_Duri_s_Heart/SE-901-A__SIDE_CODEX_Duri_s_Heart.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/901_Duri_s_Heart/SE-901-B__MAW-W_Duri_s_Heart_s_Edge.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/901_Duri_s_Heart/SE-901-C__MAW-S_Duri_s_Heart_s_Veil.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/901_Duri_s_Heart/SE-901-D__MAW-G_Duri_s_Heart_s_Token.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/901_Duri_s_Heart/SE-901-A__SIDE_CODEX_Duri_s_Heart.md": "8571f157e6b8c2a88ae413c1fce18e91bcfe4ed75b4a5e5f330b582f07639963",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/901_Duri_s_Heart/SE-901-B__MAW-W_Duri_s_Heart_s_Edge.md": "2ddad533510a8c54732aa881b94111db465227e1e55bb6a2073ea15e44d76472",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/901_Duri_s_Heart/SE-901-C__MAW-S_Duri_s_Heart_s_Veil.md": "0fceb78af38388634274aea5038aa54480df845a705b6c18a6a2e1073afb5f43",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/901_Duri_s_Heart/SE-901-D__MAW-G_Duri_s_Heart_s_Token.md": "5d395212a8df931e39ad3c8adca63f8c3f44b670803a8652f0f8b033c9d969a0",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md": "973a8b4ee120f31c2e8a557b72bcfb09765901c6dc24af2d3fe5491bbf5118b9",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "repairs": [
+    {
+      "kind": "short",
+      "old": "| **Han-Energy yield** | 12–18 per cycle, measured in beats rather than minutes: a cycle is four hundred beats of the specimen, which at its own unvarying rate is a little over six minutes. |",
+      "new": "| **Han-Energy yield** | 12–18 per cycle, measured by four hundred specimen beats. At the documented baseline of one beat every three seconds, that count takes twenty minutes, not a little over six. The external caller records the actual count; the handler's sense of elapsed time is not the instrument. |",
+      "evidence": "Arithmetic from primary Appearance/StoryEntry1:400beats×3seconds=1200seconds=20minutes. No new beat rate/yield/count or permission to stay past pulse limits. Retain variation conflicts separately."
+    },
+    {
+      "kind": "short",
+      "old": "> *\"Duri's Heart has broken free. The weight body spreads.\"*",
+      "new": "> *\"Duri's Heart is expanding its reach. The amber remains in its cradle; the Weight radius advances on the beat. Track the people reached, not an escaping organ.\"*",
+      "evidence": "ClassificationMovement and BreachMovement/ThreatAssessment distinguish fixed object and spreading influence; no body enlargement or escape invented."
+    },
+    {
+      "kind": "short",
+      "old": "| **First Target** | Whoever is nearest when the beat quickens. It does not select; the radius reaches people in the order distance dictates, and distance is the only variable that has ever mattered. |",
+      "new": "| **First Target** | Whoever is nearest when the affected radius begins to advance. It does not select: distance determines the order people are reached, while the expansion record describes a fixed step on each beat, not a quickening organ or a chosen victim. |",
+      "evidence": "BreachMovement and EscalationNotes explicitly invariant beat/discrete steps; remove unsupported quickening in nearest-distance summary, preserving separate unresolved slowing/Monday statements."
+    },
+    {
+      "kind": "careful",
+      "old": "- Confirm the designation `C-IIβ-901 [WO]`, the cell number on Floor 5, and the beat count over a timed minute before any approach. A specimen in amber that does not beat belongs to the Keepers' collection and is not this.",
+      "new": "- Confirm the designation `C-IIβ-901 [WO]`, the cell number on Floor 5, and the beat count over a timed minute before any approach. A specimen in amber that does not beat belongs to the Keepers' collection and is not this.\n\n**What is visible and what spreads:** The witness sees the dark amber and its pulse, not an exposed organ through the opaque crystal. The heart within is identified by the recorded origin, its sound and the coupled warmth and movement of the amber. Duri in the Tale is the earlier healer; the current object is the preserved organ and its shell, not a standing human body. During the documented expansion, the influence advances while the cradle stays fixed. This does not establish the portable, equipped use described later in the I-Relic profile: no transfer or separate mounted piece is identified there. Nor does the source's stationary form require the derived blade, veil or head-slot Token to be stationary. Keep that source-versus-tool relationship open instead of using a portable Stigma to supply an unrecorded relocation.",
+      "evidence": "Origin/Tale support prior healer/current preservedorgan; Primary Notable opaque/Flavor, Classification and Breach stationary expandingradius; Tool equippable conflicts no bridge. Apply subject/state distinction, no anatomy added, no material harvest or source relocation invented."
+    },
+    {
+      "kind": "careful",
+      "old": "| Stage | Required record |\n|---|---|\n| **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, door pulse, beat count over a timed minute, amber shade against the reference card, and the name of the external pulse-caller. |\n| **During use** | Contact time, pulse at fifteen-second intervals called aloud, composure onset, first cost, radius if expanding, and whether the operator has declined a prompt to stop. |\n| **At limit** | The handler's pulse no longer responds to being startled, which the caller tests once per cycle without warning and records as a yes or no. |\n| **After use** | Removal method, door pulse out, pulse at twelve hours, lingering composure, cooldown, rotation status, reuse authorisation. |",
+      "new": "| Stage | Required record |\n|---|---|\n| **Before use** | Name the operator, the piece and its grade, condition and mission. For a cell session, retain Gauge, timed specimen count, amber reference shade, door pulse and the external caller. For equipment, distinguish the Edge's memory baseline, the Veil's fatigue and pulse response, and the Token's carried load; the head-slot grant is not the whole amber specimen. |\n| **During use** | Record contact time and the existing fifteen-second pulse calls, composure onset and any refusal to stop. Enter the actual piece's cost: memory fragmentation for the Edge, low fatigue and pulse limitation for the Veil, or the Token's increasing burden near unresolved debt. Radius readings belong to a source expansion, not an assumed enlargement of the carried item. |\n| **At limit** | Retain the caller's once-per-cycle unannounced startle test and its yes-or-no record. It is not a substitute for the existing convergence stop, the separate emergency-withdrawal rule, or the closed-glass pulse-completion condition. Claiming the source event in first person is an equipment corrosion sign, not evidence that the bearer is Duri or that an uncertain item history has been recovered. |\n| **After use** | Record the removal method where one is actually documented, door pulse out, pulse at twelve hours, lingering composure, cooldown, rotation and reuse authorization. Record each item's memory, fatigue or load cost separately. Exact item care requires attribution review before cleaning or rest and named-witness relinquishment; that preserves the record, does not refund the cost and does not authorize opening the source amber or extracting tissue. |",
+      "evidence": "ExactA–D and primary individual costs; old sharedtable treated source/Tool/Equipment monitoring as one geometry. Preserve15second calls/startle/convergence/eightbeat emergency/4beat completion distinct; completeB/C/D require attributionreview/witness and costsnotrefunded, no tissue extraction."
+    }
+  ],
+  "split": [
+    3,
+    2
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IIβ-901_Duri's_Heart_보존된_심장.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.010  clean   199 grams  Breach Behavior\n 0.009  clean   576 grams  기록 (Registrum)\n 0.007  clean  1378 grams  Watch Record\n 0.006  clean   487 grams  M.A.W. Equipment\n 0.005  clean   441 grams  Combat Record\n 0.000  clean   431 grams  Activation Behavior\n 0.000  clean   346 grams  Appearance\n 0.000  clean   261 grams  이야기 (Narratio)\n 0.000  clean   238 grams  이야기 보고 (Story Log)\n 0.000  clean   212 grams  감각 묘사 (Flavor Text)\n 0.000  clean   190 grams  Operational Parameters\n 0.000  clean    96 grams  관찰 기록 (Observation Log)\n 0.000  clean    91 grams  Origin\n 0.000  clean    57 grams  Behavior\n 0.000  clean    53 grams  Trivia\n 0.000  clean    52 grams  증언 (Testimonium)\n 0.000  clean    35 grams  최종 관찰 (Final Observation)\n 0.000  clean    27 grams  SECC Classification\n 0.000  clean    13 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   86   2  | { *The Body Collapse* [**Ultimate**] } | \"Every pulse in the wing takes the specimen's rate and holds it.\" | [The rate propagate\n  161   2  - **Sorrow Gauge on breach:** Opens at 50% and rises 5% per beat, so the gauge is a clock and the response procedure is written in\n  269   3  **Effect:** +1 to the working stat on this holding's cycles, and the token keeps blood temperature in any conditions — tested at t\n  370   1  - Viderehan and Ferrehan are the valid Work Types; both lower the gauge and neither has ever altered the specimen.\n  378   2  **Operational interpretation:** The three sections below are one argument. The amber grades her forty-seven losses by how preventa\n  386   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  457  10  The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the forty-fourth year a\nGENERIC 0.004  (22 shared shingles)  SE-C-IIβ-901_Duri's_Heart_보존된_심장.md\n",
+      "stderr": ""
+    }
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "history": "B138unit2 195695cbdbc20a5058e619b3cd027d8043f272d9 already credited full equipment/exactSE901B after checking all prior history. Its4beat completion correction remains intact, distinct from >8beat emergency withdrawal. +0Types/+0Weapon/+0SE. UNK901MewgicalGirl is unrelated; no numeric-only identity crosscredit. Current A/D explicitly unnamed+1statbonus, so no named statistic imported from VanishedRope or Nemo.",
+  "reasoning": "Object/Object-Body, EchoII/Moderateβ and Weight fit a retained organic heart inside a fixed dark-amber shell. The Tale supplies an earlier healer and later organ preservation; this is supported succession, not a demand that human sorrow retain a human silhouette. The visible shape is opaque amber in a cradle; sound, warmth and coupled amber pulse establish the unseen organ. Calendar shade changes are surface events and expanding radius is influence, not bodily locomotion. The preserved beat can be carried into others without a walking source. The I-Relic carried/mounted profile lacks a documented relationship to this never-relocated source; derived blade/veil/headToken portability does not repair that same-source conflict. Weapon hum oncepersecond is on a derived item, not automatically a contradictory source pulse. The indexed heart-shaped cleaver and Short blade lack a same-item crosswalk. No new source size, mounting, detachable piece, transformation, revival or extraction mode invented. HELD+0SE; Neutral retained because human composure benefit and one null pairing establish no deliberate aid/suppression of other entities.",
+  "reading": {
+    "before_lines": 467,
+    "before_bytes": 42423,
+    "final_lines": 469,
+    "final_bytes": 44472
+  },
+  "link": "[[SE-C-IIβ-901_Duri's_Heart_보존된_심장](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-901_Duri%27s_Heart_%EB%B3%B4%EC%A1%B4%EB%90%9C_%EC%8B%AC%EC%9E%A5.md \"SE-C-IIβ-901_Duri's_Heart_보존된_심장.md\")]",
+  "table_link": "[Duri's_Heart](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-901_Duri%27s_Heart_%EB%B3%B4%EC%A1%B4%EB%90%9C_%EC%8B%AC%EC%9E%A5.md \"SE-C-IIβ-901_Duri's_Heart_보존된_심장.md\")"
+}

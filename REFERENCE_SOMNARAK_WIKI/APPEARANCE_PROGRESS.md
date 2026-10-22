@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch178 OPEN4/5.** 4whole-design reviews HELD after26supported repairs. 1frozen units pending. No new equipment or SE credits. [Latest evidence](SE_APPEARANCE_REVIEWS/B178_04_THE_VANISHED_ROPE.md). Owner authorizes178 only; no179/merge/art/deployment.
+**Latest: Batch178 OPEN5/5.** 5whole-design reviews HELD after31supported repairs. 0frozen units pending. No new equipment or SE credits. [Latest evidence](SE_APPEARANCE_REVIEWS/B178_05_DURIS_HEART.md). Owner authorizes178 only; no179/merge/art/deployment.
 
 **Previous: Batch177 CLOSED5/5.** Five HELD whole designs;30 supported repairs. Equipment+1Types/+1Weapon; SE+0. [Full report](SE_APPEARANCE_REVIEWS/B177_CLOSE.md).
 

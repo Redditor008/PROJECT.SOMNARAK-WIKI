@@ -1,5 +1,16 @@
 # Work In Progress
 
+## Batch178 OPEN5/5 — Duri's Heart unit5, 2026-10-22
+
+Five supported repairs correct the four-hundred-beat baseline duration, distinguish expanding Weight influence from an escaping organ, remove unsupported beat quickening from distance-based targeting, explain the opaque amber/source/tool/equipment boundaries, and record the Edge, Veil and Token costs separately without treating every item as the whole specimen.
+
+**Commentary:** The amber calendar gives institutional neglect a visible surface without making Duri stand up and accuse anyone. I find the useful calm more disturbing than a false benefit: the facility can measure its success while refusing to replace rest. The pulse-caller is the person the system still needs to feel alarm, and its refusal to fund relief makes that role painfully concrete.
+
+HELD;5repairs:3short/2careful; LC_ALL=C words7005→7323. Complete original/exact-source/history/final review and five actual checks PASS. +0Types/+0Weapon/+0SE; earlier credits retained, no duplication. [Unit evidence](SE_APPEARANCE_REVIEWS/B178_05_DURIS_HEART.md)
+
+Pending: No pending frozen unit; perform fresh closure checks and the cumulative No change rung decision before closing178. Batch179 still requires new owner authorization. No change0/5; minimumfive and5→7→10 unchanged. Counters267/301Types,266/287Weapon,18/301SE. This is an open checkpoint, not a batch close. Owner authorization continues178 only; no179/merge/art/deployment. Later recheck and Batch301 eight-owner-body blocker retained.
+
+
 ## Batch178 OPEN4/5 — The Vanished Rope unit4, 2026-10-22
 
 Five supported repairs replace the indiscriminate-hunt announcement with the recorded asking/preferred-return behavior, restore the exact+1Clarity Stigma bonus, describe all four Work responses rather than a two-response entire mechanism, distinguish the visible rope-fibre body from the unresolved site-knot account and conditional tether return, and separate the three equipment costs in field records.
