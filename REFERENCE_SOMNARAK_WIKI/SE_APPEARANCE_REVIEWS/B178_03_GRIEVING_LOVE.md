@@ -35,7 +35,7 @@ The strongest design choice is that the puddle is her body, not scenery beneath 
 
 Exact SE941 A/B/C/D read completely, including range hold, source-trace histories, appearances, binding/failure/maintenance/shutdown/set relationships. Range README joinsN-IIIβ-941[LS] to4/4SE941. Registry1083–1086, archetype390 and disposition337 read. EntityCodex359 awaiting-row note includes941; exact identity/name and equipment searches find no entry in MasterMAW or standalone EntityTales. Their unrelated GrievingMaiden041 and GrievingColossus002 were not substituted. Current WIPBatch133unit5 and Batch83unit2 history reviewed; original primary contains complete Tale and Warden records, both reread unchanged.
 
-Complete original430lines/41802bytes and final432lines/43100bytes read in document order. Complete final reading followed five actual validators; no later primary edit. OriginalSHA256`9fb6664b0d08656dc6cb28f34398e9f93512da2be4d925cfdd0d1205ceecc4e4`; finalSHA256`f4c31d30b1f9a12b4f6d703c538583e44bc8366c287c376abc7fc89a54a8a542`. Exact replacement reconstruction, digit sequences, Physical Form, Tale, Warden Record, source hashes and remaining queue/reserves checked. Written-design logical review only; rendered artwork, running game, browser and published-site verification not performed and not in scope. Later full recheck remains available.
+Complete original430lines/41802bytes and final432lines/43100bytes read in document order. Complete final reading followed five actual validators; no later primary edit. OriginalSHA256`9fb6664b0d08656dc6cb28f34398e9f93512da2be4d925cfdd0d1205ceecc4e4`; finalSHA256`f4c31d30b1f9a12b4f6d703c538583e44bc8366c287c376abc7fc89a54a8a542`. Exact replacement reconstruction, digit sequences, Physical Form, Tale, any present Warden/Watch Record, source hashes and remaining queue/reserves checked. Written-design logical review only; rendered artwork, running game, browser and published-site verification not performed and not in scope. Later full recheck remains available.
 
 ### verify
 
@@ -118,3 +118,7 @@ GENERIC 0.003  (19 shared shingles)  SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.
 ## Continuation
 
 Batch178 OPEN3/5, not closed. Next 723 The Vanished Rope, then901 Duri's Heart. Pending means neither reviewed nor No change. No179/merge/art/deployment. Batch301 eight owner bodies/one4+4/generate-validate-before-copy blocker remains. Individual gate and verified push follow this record.
+
+## Verified individual push
+
+`63aee6a60f7b37d9ed2d0ea8ea58e6d2a9100cf2` — PUSH VERIFIED. The unit commit contains the final primary fingerprint recorded above. Closure rechecked that commit blob against the current file and repeated all five validators.

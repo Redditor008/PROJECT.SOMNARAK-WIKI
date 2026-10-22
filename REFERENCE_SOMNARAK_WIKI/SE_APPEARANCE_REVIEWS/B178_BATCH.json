@@ -1,6 +1,6 @@
 {
   "batch": 178,
-  "status": "OPEN",
+  "status": "CLOSED",
   "required": 5,
   "completed": 5,
   "no_change": 0,
@@ -712,8 +712,11 @@
         "final_bytes": 44472
       },
       "link": "[[SE-C-IIβ-901_Duri's_Heart_보존된_심장](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-901_Duri%27s_Heart_%EB%B3%B4%EC%A1%B4%EB%90%9C_%EC%8B%AC%EC%9E%A5.md \"SE-C-IIβ-901_Duri's_Heart_보존된_심장.md\")]",
-      "table_link": "[Duri's_Heart](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-901_Duri%27s_Heart_%EB%B3%B4%EC%A1%B4%EB%90%9C_%EC%8B%AC%EC%9E%A5.md \"SE-C-IIβ-901_Duri's_Heart_보존된_심장.md\")"
+      "table_link": "[Duri's_Heart](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-901_Duri%27s_Heart_%EB%B3%B4%EC%A1%B4%EB%90%9C_%EC%8B%AC%EC%9E%A5.md \"SE-C-IIβ-901_Duri's_Heart_보존된_심장.md\")",
+      "commit": "0adda2bb2320c8cf26f5022ef7bd5a5b2bee117c",
+      "push": "VERIFIED"
     }
   ],
-  "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_OPEN.json"
+  "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_OPEN.json",
+  "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_CLOSE.json"
 }

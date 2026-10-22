@@ -36,7 +36,7 @@ The offered end is more unsettling than an indiscriminate chase: it asks a worke
 
 Complete exactSE723A/B/C/D and rangeREADME read. CSV839–842, MasterMAW index355–357/detail4789–4820, EntityCodex485, standaloneTale119 complete through its RegistryAddendum, both archetypes282/307 and Neutral disposition407 read. B122opening/pair-history and unit2 evidence read; exact dfd4879 expanded. Entire original primary read: initial full output truncated; bounded137–281,100–136 and282–320 recovered every omitted middle span. Initial output's complete first100 and last320–402 retained. The complete final was then reread1–200 and201–404 after five validators; no later primary edit.
 
-Complete original402lines/40803bytes and final404lines/41881bytes read in document order. Complete final reading followed five actual validators; no later primary edit. OriginalSHA256`170ff23b2cafd745b8a41d53dda49d6e824c2ea99df769762650c778334373aa`; finalSHA256`796a52d010f538244386d9aa3847d4dca12272c68ae48d0942e53f7cdd1ea06b`. Exact replacement reconstruction, digit sequences, Physical Form, Tale, Warden Record, source hashes and remaining queue/reserves checked. Written-design logical review only; rendered artwork, running game, browser and published-site verification not performed and not in scope. Later full recheck remains available.
+Complete original402lines/40803bytes and final404lines/41881bytes read in document order. Complete final reading followed five actual validators; no later primary edit. OriginalSHA256`170ff23b2cafd745b8a41d53dda49d6e824c2ea99df769762650c778334373aa`; finalSHA256`796a52d010f538244386d9aa3847d4dca12272c68ae48d0942e53f7cdd1ea06b`. Exact replacement reconstruction, digit sequences, Physical Form, Tale, any present Warden/Watch Record, source hashes and remaining queue/reserves checked. Written-design logical review only; rendered artwork, running game, browser and published-site verification not performed and not in scope. Later full recheck remains available.
 
 ### verify
 
@@ -119,3 +119,7 @@ GENERIC 0.005  (26 shared shingles)  SE-C-Iα-723_The_Vanished_Rope_사라진_�
 ## Continuation
 
 Batch178 OPEN4/5, not closed. Next 901 Duri's Heart, fifth and final frozen unit. Pending means neither reviewed nor No change. No179/merge/art/deployment. Batch301 eight owner bodies/one4+4/generate-validate-before-copy blocker remains. Individual gate and verified push follow this record.
+
+## Verified individual push
+
+`e42e04de6d6cd94025ee69581ba03f09a3a7d4fb` — PUSH VERIFIED. The unit commit contains the final primary fingerprint recorded above. Closure rechecked that commit blob against the current file and repeated all five validators.

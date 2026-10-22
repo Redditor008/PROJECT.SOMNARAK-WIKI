@@ -1,5 +1,16 @@
 # Work In Progress
 
+## Batch 178 — CLOSED at 5 / 5 (2026-10-22)
+
+All five frozen dossiers reviewed and individually pushed: Barrier of Nothing, Nemo, Grieving Love, The Vanished Rope and Duri’s Heart. Each whole design remains HELD after supported improvements. **31 repairs (20 short / 11 careful)**; LC_ALL=C words **34,839 → 36,024**. No change **0 / 5**, so no extension to seven or ten.
+
+Fresh closure checks: 25 / 25 technical validators, 54 / 54 tests and four archive audits PASS. All 296 unselected primaries, five reserves, 301 Physical Form rows, five Tales, existing Warden/Watch records and 31 fingerprinted sources unchanged. Every repaired primary matches its individually verified commit. Duri’s 400-beat duration is corrected by the documented three-second baseline to twenty minutes, without changing pulse rate, yield or permission to exceed a stop.
+
+Counters unchanged: Types **267 / 301 (88.70%)**, Weapon **266 / 287 (92.68%)**, SE Appearance Fix **18 / 301 (5.98%)**. Remaining **34 / 301**, **21 / 287**, **283 / 301** respectively. SE states: 14 changed, 4 retained, 151 held, 2 blocked, 130 pending. Previous exact equipment credits retained; no duplicate/body/artwork credit.
+
+[Closure evidence](SE_APPEARANCE_REVIEWS/B178_CLOSE.md) preserves per-dossier changes, independent Commentary, remaining holds, checks and all individual commit hashes. Both logs updated at every unit and closure. Batch179 requires new authorization. Later recheck and Batch301 eight-owner-body/one4+4/generate-validate-before-copy blocker preserved. Owner controls PR14 merge; no merge, artwork or deployment.
+
+
 ## Batch178 OPEN5/5 — Duri's Heart unit5, 2026-10-22
 
 Five supported repairs correct the four-hundred-beat baseline duration, distinguish expanding Weight influence from an escaping organ, remove unsupported beat quickening from distance-based targeting, explain the opaque amber/source/tool/equipment boundaries, and record the Edge, Veil and Token costs separately without treating every item as the whole specimen.

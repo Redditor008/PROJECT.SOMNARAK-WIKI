@@ -37,7 +37,7 @@ The amber calendar gives institutional neglect a visible surface without making 
 
 Complete primary original467contentlines read1–160/161–320/321–467. Exact SE901A/B/C/D fully read, including blank formation/event evidence, individual costs, first-person corrosion, maintenance and witness shutdown. RangeREADME identity link, CSV963–966, archetype354, disposition324 and EntityCodex359 pending-row note inspected. Exact-name/designation searches found no matching dedicated MasterMAW/standaloneTale entry; UNK901not substituted. B138unit2 complete evidence/holds/Commentary and current path history read; earlier exact fullset/Weapon credit confirmed. Full final469contentlines read1–158/159–319/320–469 after five actual checks; no subsequent primary edit. Tale and complete WatchRecord, all numerical fields and301PhysicalForm protection maintained at closure.
 
-Complete original467lines/42423bytes and final469lines/44472bytes read in document order. Complete final reading followed five actual validators; no later primary edit. OriginalSHA256`d18470d7b3611f61bfb6c157b8d6f5fc0c952eeae7e844e787c2b133dcdaadae`; finalSHA256`aa69f42077883904bc10865680692c5511679de87a184e8ecf0f34c77125446a`. Exact replacement reconstruction, digit sequences, Physical Form, Tale, Warden Record, source hashes and remaining queue/reserves checked. Written-design logical review only; rendered artwork, running game, browser and published-site verification not performed and not in scope. Later full recheck remains available.
+Complete original467lines/42423bytes and final469lines/44472bytes read in document order. Complete final reading followed five actual validators; no later primary edit. OriginalSHA256`d18470d7b3611f61bfb6c157b8d6f5fc0c952eeae7e844e787c2b133dcdaadae`; finalSHA256`aa69f42077883904bc10865680692c5511679de87a184e8ecf0f34c77125446a`. Exact replacement reconstruction, digit sequences, Physical Form, Tale, any present Warden/Watch Record, source hashes and remaining queue/reserves checked. Written-design logical review only; rendered artwork, running game, browser and published-site verification not performed and not in scope. Later full recheck remains available.
 
 ### verify
 
@@ -120,3 +120,7 @@ GENERIC 0.004  (22 shared shingles)  SE-C-IIβ-901_Duri's_Heart_보존된_심장
 ## Continuation
 
 Batch178 OPEN5/5, not closed. Next No pending frozen unit; perform fresh closure checks and the cumulative No change rung decision before closing178. Batch179 still requires new owner authorization. Pending means neither reviewed nor No change. No179/merge/art/deployment. Batch301 eight owner bodies/one4+4/generate-validate-before-copy blocker remains. Individual gate and verified push follow this record.
+
+## Verified individual push
+
+`0adda2bb2320c8cf26f5022ef7bd5a5b2bee117c` — PUSH VERIFIED. The unit commit contains the final primary fingerprint recorded above. Closure rechecked that commit blob against the current file and repeated all five validators.
