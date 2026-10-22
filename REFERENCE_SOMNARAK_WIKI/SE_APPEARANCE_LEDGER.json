@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Iα-723": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_04_THE_VANISHED_ROPE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_OPEN.json"
@@ -2552,8 +2564,30 @@
     {
       "designation": "C-Iα-723",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Five supported repairs replace the indiscriminate-hunt announcement with the recorded asking/preferred-return behavior, restore the exact+1Clarity Stigma bonus, describe all four Work responses rather than a two-response entire mechanism, distinguish the visible rope-fibre body from the unresolved site-knot account and conditional tether return, and separate the three equipment costs in field records.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B178_04_THE_VANISHED_ROPE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-723-A__SIDE_CODEX_The_Vanished_Rope.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-723-B__MAW-W_The_Severed_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-723-C__MAW-S_The_Severed_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-723-D__MAW-G_The_Severed_Knot.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Iα-779",

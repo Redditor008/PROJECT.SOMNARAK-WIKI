@@ -1,5 +1,16 @@
 # Work In Progress
 
+## Batch178 OPEN4/5 — The Vanished Rope unit4, 2026-10-22
+
+Five supported repairs replace the indiscriminate-hunt announcement with the recorded asking/preferred-return behavior, restore the exact+1Clarity Stigma bonus, describe all four Work responses rather than a two-response entire mechanism, distinguish the visible rope-fibre body from the unresolved site-knot account and conditional tether return, and separate the three equipment costs in field records.
+
+**Commentary:** The offered end is more unsettling than an indiscriminate chase: it asks a worker to complete a bond that cannot be completed. The fixed circuit and the empty far end give that request a shape. I kept the joint Colossus session as a null result; grief in common is a reason to compare two records, not proof that their powers cooperate.
+
+HELD;5repairs:3short/2careful; LC_ALL=C words7003→7136. Complete original/exact-source/history/final review and five actual checks PASS. +0Types/+0Weapon/+0SE; earlier credits retained, no duplication. [Unit evidence](SE_APPEARANCE_REVIEWS/B178_04_THE_VANISHED_ROPE.md)
+
+Pending: 901 Duri's Heart, fifth and final frozen unit. No change0/4; minimumfive and5→7→10 unchanged. Counters267/301Types,266/287Weapon,18/301SE. This is an open checkpoint, not a batch close. Owner authorization continues178 only; no179/merge/art/deployment. Later recheck and Batch301 eight-owner-body blocker retained.
+
+
 ## Batch178 OPEN3/5 — Grieving Love unit3, 2026-10-22
 
 Five supported repairs identify Haneul without inventing his fate, carry the legless slime-body glide into breach movement, distinguish recycled tears from tearless display, separate each equipment cost in the field-use table, and surface the incompatible comfort-permission instructions.

@@ -102,6 +102,8 @@
 
 **Notable Features:** It burns without ash, reaches toward travelers, and represents a bond that disappeared without resolution.
 
+**Body and absence:** The walking figure is described as rope-fibre gone to ember, not a person carrying an ordinary coil. Its limbs fade partially and irregularly while its reach and circuit remain observable; that is not the same claim as the Rope being absent and only a knot remaining at the site. The origin establishes the severed connection as the sorrow that formed this Subject-Grudge, but does not establish that the returned traveller physically transformed into the figure. Keep the site-knot account beside the moving-body account without inventing a transition. *The Full Return* explicitly reconstitutes the tether around a target under a pulling trigger; it does not, by itself, explain the figure's ordinary fading or reconcile the static-knot record.
+
 **Identification Profile**
 
 - **Entity Type:** Subject
@@ -143,12 +145,12 @@
 
 ### Operational Work Notes
 
-The four Types divide into one that recognises and one that tests, and that division is the entire mechanism. Flerehan comes toward the worker and the gauge falls; Ferrehan lowers it by finding out whether the end can be held without a pull. Viderehan holds the reading level and shows the bond and the moment it parted. Pugnahan is the one route that reliably raises the gauge, and the standing note against it is that nobody gets tied. The file records a Subject-Grudge form, mobile, registered at the Desolate; nothing about any other rope-shaped record carries over. A motionless gauge is no proof of a safe shift either — holding the end is allowed, tying it is not, and that is the line crews cross most.
+The four Types have distinct responses: Flerehan recognises, Ferrehan tests the hold, Viderehan reveals the severing, and Pugnahan intensifies the burn. Recognition and endurance lower the Gauge, but do not exhaust the mechanism. Flerehan comes toward the worker and the gauge falls; Ferrehan lowers it by finding out whether the end can be held without a pull. Viderehan holds the reading level and shows the bond and the moment it parted. Pugnahan is the one route that reliably raises the gauge, and the standing note against it is that nobody gets tied. The file records a Subject-Grudge form, mobile, registered at the Desolate; nothing about any other rope-shaped record carries over. A motionless gauge is no proof of a safe shift either — holding the end is allowed, tying it is not, and that is the line crews cross most.
 
 **Reading the response:** A falling gauge under Flerehan means the reach was met and not refused; under Ferrehan it means the worker held the end steady and did not pull the figure toward them. Rising means the rope was tugged, cut, tied off, or fastened to any fixed point. The distinction personnel most often get wrong is that holding is permitted and securing is not.
 ## Breach Behavior
 
-> *"The Vanished Rope has broken free. Hunts personnel indiscriminately."*
+> *"The Vanished Rope has left its circuit. It walks with the severed end offered, returning first to someone who has taken it before. An unanswered offer is not a hunt."*
 
 | Field | Detail |
 |---|---|
@@ -222,7 +224,7 @@ It is a tail-slot charm and it cannot be asked for. The knot arrives at the end 
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to work against the Vanished Rope itself, and nothing against the other rope-form records.
+**Effect:** +1 Clarity while working against the Vanished Rope itself, and nothing against the other rope-form records. The bonus names a faculty, not a general increase to every work statistic.
 
 **Ability:** Reveals the emotional bonds between nearby people.
 
@@ -242,10 +244,10 @@ The set binds on one sentence, in the form the armoury uses: hold the bond witho
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the reading taken that morning, and a dated note of who each member of the team is standing beside — the reach takes the newest person first, so the roster entry is the instrument on this set. Every person named in that note is entered as present company rather than as source grief, which is the distinction the rotation will spend its hours testing. |
-| **During use** | The first sign of charging is the wielder weeping while putting the censer down, and the hour entered is the one the second worker saw it rather than the one the wielder admitted it. The wielder's own account is taken separately and afterwards. Any hauling on the piece — a pull against a far end rather than a hold on it — is timed from the second worker's log, and the rotation ends at the second occurrence. |
-| **At limit** | Numbness to small pleasures without remission, reported first as other people's company not registering. On a piece from this set the use ends there whatever the wielder says, and the second worker's call stands. The shallower limit is the pull reasserting as routine: a bearer who begins describing the missing traveller's whereabouts or intentions has reached it, and that entry is logged as the first rung of the ladder rather than as a note. |
-| **After use** | Return the piece, compare against the morning reading, and record whether the numbness has lifted — on this set it has lifted in some cases and not in others, and the file keeps both columns. Where it has not, the piece is not reissued to that wielder. A shutdown under a named witness is entered with the resolution restated aloud, and the piece returns to the rack only once the debrief records who is missing and does not record where they went. |
+| **Before use** | Wielder, piece, morning reading and the dated roster of present company. Record whom the end was offered to, not just who was newest: previous takers are also recorded as preferred recipients. Keep those present distinct from the missing traveller and take a separate baseline for the censer's weeping, the shroud's loss of small pleasures and the knot's borrowed broken bonds. |
+| **During use** | Time the censer wielder's first weeping from the second worker's observation, taking the wielder's account separately afterwards. For the shroud, record company no longer registering; for the knot, personal loss attributed to someone else's severed tie. Time hauling from the second worker's log and retain the rotation's second-occurrence limit; first-person adoption of the severing remains an earlier attribution warning, not a reason to wait for that limit. |
+| **At limit** | The second worker's call stands. Numbness without remission is the shroud's existing stop sign, not the only sign that matters on every piece. Record the affected item and whether source emotion has blurred attribution or the pull has become routine; claims about the missing traveller's whereabouts or intentions are not a recovered biography. The knot's warmth is held attachment, not proof that the far end is occupied. |
+| **After use** | Compare each piece's cost with its morning record. Retain both columns for numbness that lifted and numbness that did not; a wearer whose numbness persists is not reissued the shroud. Named-witness shutdown restates the resolution and returns none of the cost. Debrief before cleaning or rest, naming who is missing without inventing where they went; the granted knot has no assumed workshop return or removal procedure. |
 
 **Stat interpretation:** Field performance and human cost run on separate axes, and the separation is wide here. The censer and the shroud are both modest. What the grades cannot show is that the knot, which has no combat value, is worn by every worker on this roster who has since requested a transfer, and that none of them gave the entity as the reason.
 ## 관찰 기록 (Observation Log)
