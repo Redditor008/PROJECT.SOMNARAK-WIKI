@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIβ-357": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_05_CARRYING_NOTHING.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_OPEN.json"
@@ -1467,8 +1479,29 @@
     {
       "designation": "C-IIβ-357",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-357_Carrying_Nothing_사라진_무게.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Eight supported repairs return the pasted-on physics to the vault record: Pugnahan (fire rises, not used) leaves the valid-work row, combat stops vanishing and returning weights as wounds and runs on relief, accumulation, false explanation and denial while keeping every name and number, the stock consequences quartet becomes per-piece charges and the schedule-comparing breach, field-use signs split across Fang, Plate and Burden, a duplicated Story Log sentence is single again, and the generic flavor/review/trivia seams are replaced by the sighting series, the extended arms and the three-sentences rule. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_05_CARRYING_NOTHING.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-357-A__SIDE_CODEX_Carrying_Nothing.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-357-B__MAW-W_The_Absent_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-357-C__MAW-S_The_Absent_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-357-D__MAW-G_The_Absent_Burden.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIβ-565",

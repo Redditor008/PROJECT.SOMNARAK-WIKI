@@ -1,6 +1,6 @@
 # Work In Progress
 
-## Batch 182 — OPEN, 3 / 5 (2026-10-26)
+## Batch 182 — OPEN, 5 / 5 (2026-10-26)
 
 Owner “p p” in this session. Batch 181 was found already CLOSED on origin by another session acting on the same instruction (closure `8a5326d`); a stale-snapshot restore was leveled with `tools/syncbranch.py` before any edit, no work lost. This session applies its authorization to Batch 182 only. A fresh pending-only `LC_ALL=C wc -w` ranking from the authoritative 301-path ledger, with designation-byte ties, freezes this queue:
 
@@ -15,6 +15,8 @@ Reserves, only if three cumulative No change results extend the batch 5→7→10
 **Unit 1 — Cenotaph `N-IVδ-525`: HELD.** Eight supported repairs (5 short / 3 careful; 7261→7433 words) align movement, valid work, combat, breach effect, consequences, flavor, field use and the Registrum to the span-and-register record (no pursuit, beneath-not-over, solo/shared crossings, close-the-crossing). Shrine-versus-Fang, humanoid-versus-serpentine form, name fork, thresholds, over-span work and structural scope remain held. Batch 127 already counted the set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B182_01_CENOTAPH.md).
 
 **Commentary:** The most humane order in the archive may be the one closing this crossing: not unsafe, still on duty. I admire that containment is a traffic register and a named routing office rather than a stronger door — the facility finally takes the load off the guardian by taking the duty onto itself, in writing.
+
+**Unit 5 — Carrying Nothing `C-IIβ-357`: HELD.** Eight supported repairs (5 short / 3 careful; 7304→7376 words) remove Increase-response Pugnahan from valid work, rewrite weight-physics combat and the stock consequences quartet as relief, accumulation, false explanation and denial, split field-use signs across the three pieces, de-duplicate Story Entry 1, and re-anchor generic flavor/review/trivia seams in the sighting series and three-sentences rule. Schedule-lightening vs sealed-collective-burden origin, Carrying Nothing vs Vanished Weight naming and witnessed-use fork remain held. Batch 120 already counted the SE-357 set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B182_05_CARRYING_NOTHING.md).
 
 **Unit 4 — The Final Door `C-Vδ-111`: HELD; fresh equipment credit +1 Types / +1 Weapon.** Ten supported repairs (6 short / 4 careful; 7277→7384 words) replace the spliced Identification row and posture-shift protocol with the nine-metre Clock stop and survey/duration/transcript record, replace the boilerplate structural-Void origin with the found-sealed record, stop the frame "striking" and the Door "swinging wide" in combat, keep beyond-the-seal life as report not fact, and align the Director's order, activation banner and trivia seams with the ninety-four studied cycles. Chronicle expeditions, three-way equipment existence (Side A no-extraction vs primary set vs Final Threshold codices) and parallel thresholds remain held. No earlier whole-set disposition exists (R-29 restatement only): fresh +1/+1, +0 SE. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B182_04_THE_FINAL_DOOR.md).
 

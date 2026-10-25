@@ -2,7 +2,7 @@
   "batch": 182,
   "status": "OPEN",
   "required": 5,
-  "completed": 4,
+  "completed": 5,
   "no_change": 0,
   "units": [
     {
@@ -632,6 +632,161 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 10,
         "digit_sequence_change": "One digit token removed: the '01' inside 'SECTOR-A-01' in the deleted boilerplate origin sentence; the location remains stated six times elsewhere. No digit added."
+      }
+    },
+    {
+      "designation": "C-IIβ-357",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-357_Carrying_Nothing_사라진_무게.md",
+      "words": 7304,
+      "sha256": "d4ed2dca78327b42eec0566d23c6d6bff1d59973e88978b999a8959c1c5e8083",
+      "unit": 5,
+      "name": "Carrying Nothing",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_05_CARRYING_NOTHING.md",
+      "before_words": 7304,
+      "after_words": 7376,
+      "base": "7b1b27f472bfeeb9e04448456e252ed00771b1aa",
+      "final_sha256": "5a5d68990260091c410b20749ffe4cf51c7a5d31e17e5d30e85e4cc706f41f40",
+      "summary": "Eight supported repairs return the pasted-on physics to the vault record: Pugnahan (fire rises, not used) leaves the valid-work row, combat stops vanishing and returning weights as wounds and runs on relief, accumulation, false explanation and denial while keeping every name and number, the stock consequences quartet becomes per-piece charges and the schedule-comparing breach, field-use signs split across Fang, Plate and Burden, a duplicated Story Log sentence is single again, and the generic flavor/review/trivia seams are replaced by the sighting series, the extended arms and the three-sentences rule. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The companion piece to Double Mouth, and the archive knows it: another good rule, another person left with nothing to point at. The sighting series — 11, 17, 24 millimetres of bend behind empty hands — is the program's best example of an instrument invented because counting the real quantity is forbidden. What let the file down was stock matter parked inside it: weights vanishing and returning as wounds, 'power for price, out of soul and flesh', and an entity that 'becomes less abstract'.",
+      "reasoning": "R-33 chain: Subject-Grudge / Echo-II / Moderate-β → work was taken off the Alpha Tree registry under an impeccable sealing authorisation the rule forbade to give a reason, its schedule in a dead shorthand → a burning figure holds nothing with both hands while the air behind it bends measurably, motionless until approached → one Warden, three true sentences, the sighting as instrument; asserting nothing was taken brightens the fire → breach is standing beside other sealed records while a wing compares schedules → equipment carries the absence three ways: cutting only the false explanation, bearing pressure without content, and feeling every absence as obligation. Repairs remove weight-physics and stock-trade claims the chain cannot carry; the sealed-burden origin and witnessed-use fork remain HELD.",
+      "history": "Batch 120 unit 2 (commit cce6d9f, 2026-10-15) performed the whole-set source disposition preserved in the primary: exact SE-357-A–D (kept distinct from SE-1034 / Sleeping Weight C-IVδ-357), the three two-paragraph appearances, the documented +1 Resilience, Master Entries 166–168, Entity Codex row 420, Tale 56 and archetype MAW-W-357, counting full-SE 117/301 and Weapon 146/287 inside the ledger legacy baseline. Batches 29/53/61 were prose/section work and the set-357 appearance expansion was registry prose, not dispositions. B182 therefore earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+      "holds": [
+        "Origin remains two different acts of institutional kindness: the primary's lightening of named workers' schedules under a no-reason rule (foreman, demoted man, the Return scheme) versus Tale 56 / Side A's sealing of the city's collective burden in a vault, which took the memory of it too. The primary's Vigil chapter fuses them ('a vault sealed away something a community was carrying') without joining the mechanisms. No act was chosen.",
+        "Naming stays split along the same seam: primary, Registry and disposition carry Carrying Nothing; Master Entries 166–168, Entity Codex row 420 and Tale 56 carry The Vanished Weight, whose Registrum is stale against the current primary (Threat Low, Viderehan primary, 'the entity drifts; track its movement' — the exact drift line the primary records as struck). The standalone Tale was not edited.",
+        "Witnessed use forks against the primary's 'Armoury figures, transcribed. The fang has never been used here': item B records Durivel Cho severing a false Archive explanation, item C Iseulfros Kim distributing phantom mass around a vault team, item D a collapsed archive brace lifted. 'Here' was left to carry that weight unassisted; no use was written into the vault record and none was struck from the codices.",
+        "Extraction stays unjoined: Side A derives residue 'from the air after the invisible burden recedes' after a Ferrehan cycle, while the primary records no implement and a swept-floor recovery authorisation never exercised in twenty years — and six Burdens were 'given', which the Armoury cannot order, stock or reproduce. No production route was selected.",
+        "Threshold scopes remain parallel: operational activation threshold 3, combat threshold Sorrow Gauge ≥60%, ultimate at 65%, breach opening at 30% rising 15% per denial, Resilience drain +5 per cycle free. Speed 1.45 m/s stays unassigned to a figure motionless until approached whose breach is walking to other records and standing still. Master table buckets (PRIMAL — Bio/Marrow; Floating Orbs & Coronets) stay against the missing-section fang and Tail charm."
+      ],
+      "split": [
+        5,
+        3
+      ],
+      "repairs": [
+        {
+          "id": "valid_work_types",
+          "kind": "short",
+          "old": "| **Valid Work Types** | Flerehan, Viderehan and Ferrehan. Pugnahan is listed and is not applied here. |",
+          "new": "| **Valid Work Types** | Flerehan on the scheduled approach, Ferrehan to hold position without supplying an answer, Viderehan to sight the displacement. Pugnahan raises the fire and presses the load outward across the vault; it is not used. |"
+        },
+        {
+          "id": "combat_actions",
+          "kind": "careful-detail",
+          "old": "| { *The Lightness* [**Debuff**] } | \"The weight is gone — and the lightness is unbearable. You did not realize how much you needed it.\" | [The target's burden vanishes; the sudden relief is disorienting.] | *Target suffers -10 Resilience; the absence of weight is its own kind of falling.* **[10 Grudge DMG [Grudge]]** | When the Weight lifts. |\n| { *The Free Fall* [**Debuff**] } | \"Without the weight, you have no anchor — and you are drifting, and the drifting is terrifying.\" | [The target, unburdened, loses all sense of grounding.] | *Target loses 10 Resilience; they cannot find their footing.* **[10 Grudge DMG [Grudge]]** | When the target remains weightless. |\n| { *The Phantom Mass* [**Attack**] } | \"The weight comes back — for one instant — at twice what it was.\" | [The vanished Weight returns briefly at doubled intensity.] | *Inflicts Grudge pressure and one crushing, sudden wound.* **[14-22 Grudge DMG [Grudge]]** | When the absence is challenged. |\n| { *The Full Return* [**Attack**] } | \"Every vanished weight, every lifted burden — all returned at once, all at once.\" | [Everything it has ever taken up comes back into the room in the same instant, and the floor is the first thing to find out.] | *A heavy Crimson avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Weight is summoned back. |\n| { *No Weight At All* [**Ultimate**] } | \"Now nothing has weight — and without weight, nothing matters, and nothing holds.\" | [Weight stops applying anywhere in the vault, and what is left holding the room together is the sighted straight edge and nothing else.] | *All in range suffer Grudge pressure for three turns in the weightless void.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Lightness* [**Debuff**] } | \"The relief is accurate. That is what makes it hard to put down.\" | [Something is lifted off the target without being asked for, and the wrongness arrives behind the relief.] | *Target suffers -10 Resilience; whatever just went cannot be named, contested, or asked back.* **[10 Grudge DMG [Grudge]]** | When the approach holds at the turn distance and relief is reported. |\n| { *The Free Fall* [**Debuff**] } | \"Eleven, seventeen, twenty-four. I am counting this.\" | [The sighted bend deepens while the target stands in it; the longer the stand, the more has quietly been moved off the list.] | *Target loses 10 Resilience; absences accumulate faster than they are noticed.* **[10 Grudge DMG [Grudge]]** | When the watch runs long without a fourth sentence. |\n| { *The Phantom Mass* [**Attack**] } | \"A comforting answer returns the phantom mass at double force.\" | [A false explanation is offered aloud, and the pressure comes back with the story bound to the listener.] | *Inflicts Grudge pressure as the invented account is carried; no wound is produced.* **[14-22 Grudge DMG [Grudge]]** | When somebody names what the figure is carrying. |\n| { *The Full Return* [**Attack**] } | \"Nothing was taken, said in this vault, brightens the fire.\" | [Denial is spoken, and the room fills with every removal that was never written down.] | *A heavy Grudge surge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When nothing-taken is asserted aloud. |\n| { *No Weight At All* [**Ultimate**] } | \"Everyone in the wing begins looking for what was taken from them in their own paperwork.\" | [The breach pattern, not a physical one: schedules are compared across a wing in a single afternoon and the comparisons are accurate and cannot be acted on.] | *All in range suffer Grudge pressure for three turns of unnameable absence.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+        },
+        {
+          "id": "consequences_generic",
+          "kind": "careful-detail",
+          "old": "- Time is the emptied carrier’s ally. The longer the watch runs, the more sorrow accumulates in a worker who has nothing left to weigh against it, until the psychological, somatic and environmental collapses the classification was codified to prevent come due together, with no reason written down for any of them.\n- A M.A.W. activation is the same unyielding exchange — power for price. The parameters are cataloged in the equipment registry, which is the only account of the trade that is ever written down, and the bearer pays the balance directly, out of soul and flesh.\n- An unresolved encounter never simply ends; it converts. Carrying Nothing runs its documented breach pattern, and the sorrow that nothing pacified takes the exit the containment work left open — the one violent departure in this file that carries a stated reason.",
+          "new": "- The slow failure is accumulation: duties quietly moved off the watch itself, absences noticed months late, and a Warden who cannot contest any of it because no decision was ever written. It shows first in the displacement series, not in the worker.\n- Each piece charges the same absence differently — old wounds aching under the pressure of not knowing, reflexes slowing at the hands whenever they reach for what is not there, and every absence felt as personal obligation. The three charges are recorded separately and are never summed into one price.\n- Left unresolved it does not attack; it walks to the nearest sealed records and stands beside them, and the wing around it starts comparing schedules. It ends when somebody states, over the sector channel, that something was removed and that the facility cannot say what."
+        },
+        {
+          "id": "field_use_split",
+          "kind": "careful-detail",
+          "old": "### Field Use Record\n\n| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, and a dated baseline written by the second worker: which old injuries the bearer carries and where they sit on an ordinary week, so that anything new can be set against something. |\n| **During use** | Every instance of the bearer's old injuries aching out of their usual order is entered with its hour. One is an incident note; a run of them through a shift ends the use, and the observer's clock ends it. |\n| **At limit** | The wearer's reflexes dull, as if armored by resentment, without remission. On a Carrying Nothing piece the use ends there whatever the wielder says. |\n| **After use** | Take the piece back and open the sealed baseline: are the old injuries back on their ordinary schedule, and are the bearer's reflexes where they were when the sheet was written? The answer goes into the record as the observer reads it, whether or not the bearer agrees with it. Assign only the immediate physical task, and return every unresolved absence to shared review rather than to the bearer's personal duty. |",
+          "new": "### Field Use Record\n\n| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, and a dated baseline written by the second worker: old-injury map for the Fang, catch-and-reach check for the Plate, and the bearer's own current schedule for the Burden, so later removals can be told from the piece's pull. |\n| **During use** | Each occurrence is entered with its hour: old injuries aching out of their usual order, the hands slowing on a reach for something not there, or the bearer volunteering to settle an absence that is not theirs. One is a note; a run through a shift ends the use, and the observer's clock ends it. |\n| **At limit** | The toll stops being felt as the piece's: bruises settle along the old lines, the reach slows without the wearer noticing, or the bearer has begun investigating blank records personally. On this set the use ends there whatever the wielder says. |\n| **After use** | Take the piece back and open the sealed baseline: are the old injuries back on their ordinary schedule, are the reflexes where the sheet had them, and has the bearer handed unresolved absences back to shared review? The answer goes into the record as the observer reads it, whether or not the bearer agrees. |"
+        },
+        {
+          "id": "story_dup",
+          "kind": "short",
+          "old": "Carrying Nothing (C-IIβ-357 [GS]) is a Subject-Grudge manifestation expressing Grudge, held in the Alpha Tree vault at Zone A and approached one Warden at a time on a scheduled, logged basis. It stands still until somebody walks toward it, holds nothing in both hands, and bends a sighted straight edge by 24 millimetres. It stands still until somebody walks toward it, holds nothing with both hands, and bends a sighted straight edge by 24 millimetres.",
+          "new": "Carrying Nothing (C-IIβ-357 [GS]) is a Subject-Grudge manifestation expressing Grudge, held in the Alpha Tree vault at Zone A and approached one Warden at a time on a scheduled, logged basis. It stands still until somebody walks toward it, holds nothing in both hands, and bends a sighted straight edge by 24 millimetres."
+        },
+        {
+          "id": "flavor_generic",
+          "kind": "short",
+          "old": "**With continued exposure:** With time, the entity becomes less abstract and more specific. The Grudge is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.\n\n**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Grudge becomes something you can taste, hear, or feel on your skin. The Subject-Grudge has crossed the line between containing and becoming.\n\n**After departure:** You leave, but the Grudge follows — in the hands, in the chest, in the particular silence of the corridor afterward.",
+          "new": "**With continued exposure:** The sighting does the changing: 11, then 17, then 24 millimetres from the same two floor marks across three years, while the figure itself has never moved before an approach and the floor stays swept and empty.\n\n**When the entity activates:** The arms extend toward the approaching Warden. That is the offer, and it ends the approach. Record the distance, the time, and whether the Warden's hands moved — answered by the second Warden on the landing, never by the one who reached.\n\n**After departure:** Wardens look at their own schedules afterwards, which they are allowed to do, and compare them with older ones, which they are also allowed to do. Briefing shows them the history first, because the ones who find the missing duties alone take it worse."
+        },
+        {
+          "id": "review_requirement",
+          "kind": "short",
+          "old": "**Review requirement:** Containment is a process here and not a condition of the room. After every incident, take the gauge, the field, the personnel list and the holding's position again, and re-enter exposure and location after any breach, expansion, transformation attempt or unusual interaction. What was measured last week is not evidence about this week, and the record describes a sorrow still running rather than an account anybody can finish.",
+          "new": "**Review requirement:** After any breach or extended-arms approach: both sightings from the two floor marks, the floor sweep, the approach log, and every sentence the Warden said entered verbatim — reviewed, not disciplined. Any assertion that nothing was taken is logged with the fire's response; the displacement series is the trend this file stands behind."
+        },
+        {
+          "id": "trivia_containment",
+          "kind": "short",
+          "old": "- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.",
+          "new": "- **Containment detail:** One Warden at a time on a scheduled, logged approach; three true sentences and no fourth; the displacement sighted before and after. Nobody reaches for what it is holding, and nobody tells it that it is holding nothing."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIβ-357_Carrying_Nothing_사라진_무게.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.026  clean   228 grams  기록 (Registrum)\n 0.019  clean   592 grams  Combat Record\n 0.014  clean   147 grams  Operational Parameters\n 0.013  clean   742 grams  M.A.W. Equipment\n 0.006  clean   157 grams  Breach Behavior\n 0.003  clean   599 grams  감각 묘사 (Flavor Text)\n 0.000  clean   711 grams  Watch Record\n 0.000  clean   503 grams  이야기 보고 (Story Log)\n 0.000  clean   373 grams  이야기 (Narratio)\n 0.000  clean   218 grams  관찰 기록 (Observation Log)\n 0.000  clean   159 grams  증언 (Testimonium)\n 0.000  clean   158 grams  Appearance\n 0.000  clean   154 grams  Trivia\n 0.000  clean   150 grams  Origin\n 0.000  clean   148 grams  최종 관찰 (Final Observation)\n 0.000  clean   104 grams  Behavior\n 0.000  clean    43 grams  SECC Classification\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 25% against Grudge pressure; 15% against other pressure types |\n   84   3  | { *The Full Return* [**Attack**] } | \"Nothing was taken, said in this vault, brightens the fire.\" | [Denial is spoken, and the r\n   85   7  | { *No Weight At All* [**Ultimate**] } | \"Everyone in the wing begins looking for what was taken from them in their own paperwork\n  166   1  - **Sorrow Gauge on breach:** Opens at 30% and rises 15% each time somebody says aloud that nothing was taken. Three such denials \n  176   7  **Appearance:** A fang-curved blade of Grudge Han-iron, dark and faintly warm, that reads light in the hand and heavy on the scale\n  199   3  **Appearance:** A plate harness of Grudge Han-iron, dark and faintly warm, that sits on a bearer as though it were not there and l\n  219   1  **Appearance:** A small tail-charm of Grudge Han-iron, dark and faintly warm to the touch, with an invisible weight hanging below \n  245   1  | **Before use** | Wielder, piece, and a dated baseline written by the second worker: old-injury map for the Fang, catch-and-reach\n  247   1  | **At limit** | The toll stops being felt as the piece's: bruises settle along the old lines, the reach slows without the wearer \n  332   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  387   6  **Operational interpretation:** The classification is the frame and this record is the picture, and neither of them stands in for \nGENERIC 0.006  (35 shared shingles)  SE-C-IIβ-357_Carrying_Nothing_사라진_무게.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-357-A__SIDE_CODEX_Carrying_Nothing.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-357-B__MAW-W_The_Absent_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-357-C__MAW-S_The_Absent_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-357-D__MAW-G_The_Absent_Burden.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-357-A__SIDE_CODEX_Carrying_Nothing.md": "314d042522567e2b8b305fc625a6d238a9caee5dafba3c9795c5940d27bf82eb",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-357-B__MAW-W_The_Absent_Fang.md": "1bc40fcdc04312992143820ba2891ee8cfe8b2e8214b1f20fa7339454d5296f8",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-357-C__MAW-S_The_Absent_Plate.md": "037817f8a231e2dfd8fb41223641bcd4188cf57e604c94e0446e021eb4482e9a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-357-D__MAW-G_The_Absent_Burden.md": "0b1ea54b11a9c00894d7f399c97bed71b7ececc826e945ea014297bc4a6ec5ba",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIβ-357_Carrying_Nothing_사라진_무게](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-357_Carrying_Nothing_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%AC%B4%EA%B2%8C.md \"SE-C-IIβ-357_Carrying_Nothing_사라진_무게.md\")]",
+      "table_link": "[Carrying_Nothing](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-357_Carrying_Nothing_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%AC%B4%EA%B2%8C.md \"SE-C-IIβ-357_Carrying_Nothing_사라진_무게.md\")",
+      "reading": {
+        "before_lines": 443,
+        "before_bytes": 43826,
+        "final_lines": 443,
+        "final_bytes": 44144
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 110,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": "Digits added are only the file's own sighting series 11 and 17 restated once in the flavor seam (24 already present); no digit removed."
       }
     }
   ],
