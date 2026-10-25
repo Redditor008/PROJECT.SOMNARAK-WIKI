@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Lament, which is what a remembered journey presses with; 35% against everything else. Neither figure has ever been the one the holding watches — the span's length is |
+| **Resistance** | 45% against Lament, which is what a remembered journey presses with; 35% against everything else. Neither figure has ever decided a session here — the span's length has, and it is taken before and after every cycle. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 837/837 |
 | **Han Pressure [ATK]** | 22–48 per hit · Lament |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Lift* [**Debuff**] } | "The bridge begins to rise — tilting upward — and you are still on it." | [The Bridge's impossible ascent catches the target; the ground falls away.] | *Target suffers -10 Composure; they are rising with no way down.* **[10 Lament DMG [Lament]]** | When the target stands on the Bridge. |
-| { *The Inverted View* [**Debuff**] } | "The higher it goes, the smaller everything looks — and the grief looks different from up here: total." | [The Bridge's height distorts perspective; the target sees the whole sorrow at once.] | *Target loses 10 Composure; the view is devastating.* **[10 Lament DMG [Lament]]** | When the target looks down. |
-| { *The Falling Plank* [**Attack**] } | "A plank shakes loose — and the fall from here is very, very long." | [A plank drops from the rising Bridge.] | *Inflicts Lament pressure and one wound of vertigo and impact.* **[14-22 Lament DMG [Lament]]** | When the Bridge is shaken. |
-| { *The Apex* [**Attack**] } | "The span stops climbing and the view keeps going up without you." | [The rise fails, and everything the Bridge was carrying arrives back at the deck at once.] | *A heavy Deep Blue plunge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the span is overloaded, or a crossing is turned back at the apex. |
-| { *The Sky-Bridge* [**Ultimate**] } | "Other spans in the Gardens start rising too, and none of them lead where they used to." | [The ascent spreads to every crossing in range and lifts whatever is standing on it.] | *All in range suffer Lament pressure for three turns of impossible height.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% while a crossing is in progress. |
+| { *The Lift* [**Debuff**] } | "You are part-way through a journey, and it is not yours." | [Standing on the deck, the target acquires another traveller's crossing: the route underfoot is remembered, not present.] | *Target suffers -10 Composure; what drains per crossing is Clarity about which journey is theirs.* **[10 Lament DMG [Lament]]** | When the target stands on the Bridge. |
+| { *The Inverted View* [**Debuff**] } | "I knew the turning they were heading for. I have never been there and I knew it." | [The remembered route resolves around the target — road, weather, departing people — and the Gardens go thin behind it.] | *Target loses 10 Composure; present ground loses to a crossing remembered in detail.* **[10 Lament DMG [Lament]]** | When the target looks along the span toward the figures. |
+| { *The Falling Plank* [**Attack**] } | "What stopped me was realising I had started planning what to do when I got across." | [Nothing falls and nothing is struck: the target begins treating the far end as a destination, and the span answers by lengthening.] | *Inflicts Lament pressure as a present-tense journey; no wound is produced.* **[14-22 Lament DMG [Lament]]** | When a crossing is made toward somewhere. |
+| { *The Apex* [**Attack**] } | "It got shorter behind me on the way back. Not quickly. But it did." | [A crossing is turned back and the added length is entered against it; every journey borrowed on the way out is carried home.] | *A heavy Deep Blue plunge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the span is overloaded, or a crossing is turned back. |
+| { *The Sky-Bridge* [**Ultimate**] } | "A sealed Bridge still lengthens. The containment reading is a tape measure." | [Growth, not flight: unrecognised crossings add span across the Gardens until the road is named aloud and the structure settles.] | *All in range suffer Lament pressure for three turns of borrowed journeys.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% while a crossing is in progress. |
 
 ### Battle Phases
 
@@ -170,7 +170,7 @@ The escalation pattern here is measured in span rather than in turns: the Bridge
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Collective remembrance of an erased route. |
-| **Manifestation** | Place-Lament|
+| **Manifestation** | Place-Grudge |
 | **Primary effect** | Visitors experience another person's journey as their own. |
 | **Duration / rate** | Appears suddenly, then grows slowly. |
 | **Risk** | Critical (δ). The exposure is participation rather than pressure: a crossing adds another person's journey to the one the worker believes they are making, and the file's own finding is that four crossings affect a worker more than an hour spent standing still. |
@@ -244,10 +244,10 @@ The three pieces extend the holding rather than serving as equipment against it,
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline taken by the second worker. This set's toll is a conviction rather than a symptom — the bearer carries the Bridge's unwept grief and weeps on arriving somewhere familiar — so the baseline is what the after-entry is read against. |
-| **During use** | Watch for the toll's presenting shape: the wielder weeps involuntarily, most often on arriving somewhere familiar, and the hour goes into the log by the second worker's hand. The wielder's own account is taken afterwards and separately. |
-| **At limit** | The cost is continuous rather than occasional: the wearer has gone numb to small pleasures and says that arriving anywhere has stopped feeling like anything. The second worker's call stands against the wielder's, and on this set it has always been the one taken. |
-| **After use** | Return the piece and ask a colleague rather than the wielder whether the cost is still showing — the wearer describes arriving as flat. The answer is entered whether or not the wielder agrees, because this is the set whose bearers lose the vocabulary for the thing being asked about. |
+| **Before use** | Wielder, piece, the span's length at first sight, and a dated baseline by the second worker: the bearer's own route statements (where they live, how they get there) and, for the Shroud, the present-site anchor carried against the cloth. |
+| **During use** | Each occurrence is entered with its hour by the second worker: weeping on arriving somewhere familiar, arriving reported as flat, or directions given by landmarks demolished before the bearer was born. The wielder's own account is taken afterwards and separately. |
+| **At limit** | The toll turns continuous — small pleasures numb, arrival stops feeling like anything, or the bearer cannot describe where they live without describing the erased road. The second worker's call stands against the wielder's, and on this set it has always been the one taken. |
+| **After use** | Return the piece and ask a colleague rather than the wielder whether the cost is still showing; re-enter the span's closing length beside the opening one. The answer is entered whether or not the wielder agrees, because this is the set whose bearers lose the vocabulary for the thing being asked about. |
 
 **Stat interpretation:** Field performance and human cost run on separate axes, and this entity separates them unusually far. The requiem is effective and the shroud is dependable. What neither grade records is that the span, worn long enough, leaves its bearer unable to describe where they live without describing a road that was erased.
 ## 관찰 기록 (Observation Log)
@@ -310,9 +310,9 @@ A bridge rises between two trees where no water flows. The stones are warm with 
 
 **At first contact:** The singing arrives first — a low sustained tone with no source anywhere in the Gardens, audible before the structure is. Then the span is standing over flat ground: no water, no gap, no far bank, laid in worn flagstones that belong to a road the current survey does not carry. The figures on it are walking away at an unhurried pace, dressed for weather that is not this weather.
 
-**With continued exposure:** Sustained contact reveals the entity's rhythm — the Lament pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
+**With continued exposure:** The length does the changing. Crossings made toward a destination add span; standing still costs nothing. Four crossings affect a worker more than an hour on the deck, because each one adds another person's journey to the one they think they are making.
 
-**When the entity activates:** Activation reshapes the room. The Lament that was atmospheric becomes directed — aimed, purposeful, alive in a way the containment protocols anticipated but never fully contain.
+**When the entity activates:** The singing comes first — formation is audible before it is visible — and stops when the structure is complete. Personnel who hear it and are not the posted warden withdraw without looking toward the sound; a person who has not seen the figures does not have to be talked back from the line.
 
 **After departure:** The tone stops when the structure is complete, which is the holding's only warning and the only one it relies on. What travels out with the crew is the sense of being part-way through a journey; crews are walked back to the near footing and do not look toward the sound, and the standing order is written on the finding that a person who has not seen the figures does not have to be talked back from the line.
 
@@ -379,7 +379,7 @@ Some sorrows mourn a place. Bridge to Nowhere mourns a transit — the daily cro
 
 ### Registry Addendum
 
-**Operational interpretation:** Treat this as a record of a route that outlived its road. Every figure here comes from people deciding the span leads somewhere. The percentage is the whole mechanism — there is no counter to run down, and standing on the deck doing nothing costs nothing.
+**Operational interpretation:** Treat this as a record of a route that outlived its road. Every figure here comes from people deciding the span leads somewhere. The length is the whole mechanism — there is no counter to run down, standing on the deck doing nothing costs nothing, and naming the erased road aloud is the only entry that has ever taken span back.
 
 **Review requirement:** Re-verify after any Sorrow Tide, after any change to the Gardens survey, and after any crossing made for a reason — the last unconditionally, because a crossing with a purpose is the event that lengthens it. The review examines why the crossing was authorised and does not examine the person who made it.
 ## Apex Record

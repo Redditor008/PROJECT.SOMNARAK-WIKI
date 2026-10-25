@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 183 — OPEN, 0 / 5 (2026-10-26)
+## Batch 183 — OPEN, 1 / 5 (2026-10-26)
+
+**Unit 1 — Bridge to Nowhere `C-IVδ-260`: HELD.** Six supported repairs (3 short / 3 careful; 7308→7427 words) return combat, field use and the addendum to the length-before-and-after record. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_01_BRIDGE_TO_NOWHERE.md). Batch 115 already counted the SE-260 set inside the legacy baseline: +0/+0/+0. Completed 1/5; No change 0/2; held 172 / pending 109. Next is Echo of Kindness `C-Iα-240`.
 
 Owner "P" after CLOSED 182 authorizes Batch 183 only, with the Special Activation count answered first: **153 of 301** SEs have no breach counter ([count note](REFERENCE_SOMNARAK_WIKI/SPECIAL_ACTIVATION_SE.md)). Fresh pending-only `LC_ALL=C wc -w` ranking freezes Bridge to Nowhere `C-IVδ-260` (7308), Echo of Kindness `C-Iα-240` (7313), Stranded Between Two Shores `C-IVδ-823` (7315), Cleaved `C-IIβ-775` (7327), Cracked Mirror `C-IIβ-310` (7328); reserves `O-IVδ-851`, `O-Iα-754`, `C-Vδ-010`, `N-IIIγ-447`, `C-IIβ-280` only on ladder extension. Baseline audits PASS.
 

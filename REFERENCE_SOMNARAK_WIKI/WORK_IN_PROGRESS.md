@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 183 — OPEN, 0 / 5 (2026-10-26)
+## Batch 183 — OPEN, 1 / 5 (2026-10-26)
+
+**Unit 1 — Bridge to Nowhere `C-IVδ-260`: HELD.** Six supported repairs (3 short / 3 careful; 7308→7427 words) complete the truncated Resistance cell, return combat from sky-ascent and falling planks to borrowed journeys and added span, fix the Place-Lament slip, split field-use signs per piece, replace generic flavor rows with length and singing, and correct "percentage" to length as the mechanism. Dissolution entitlement, codices' apex-lift events and Rising Bridge naming remain held. Batch 115 already counted the SE-260 set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B183_01_BRIDGE_TO_NOWHERE.md).
 
 Owner "P" after CLOSED 182, with the Special Activation count question answered the same turn: **153 of 301** SEs have no breach counter (Activation 78, Event-in-place 41, Expansion 35; one dual-block) — [count note](SPECIAL_ACTIVATION_SE.md), pushed `d070d9f`. Fresh pending-only `LC_ALL=C wc -w` ranking, designation-byte ties, freezes: Bridge to Nowhere `C-IVδ-260` (7308), Echo of Kindness `C-Iα-240` (7313), Stranded Between Two Shores `C-IVδ-823` (7315), Cleaved `C-IIβ-775` (7327), Cracked Mirror `C-IIβ-310` (7328). Reserves, only on ladder extension: `O-IVδ-851`, `O-Iα-754`, `C-Vδ-010`, `N-IIIγ-447`, `C-IIβ-280`. Baseline lore/timeline/seam/box audits PASS. Batch 183 only; no merge, artwork or deployment.
 
