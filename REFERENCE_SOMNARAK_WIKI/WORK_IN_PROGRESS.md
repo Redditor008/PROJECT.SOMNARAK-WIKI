@@ -1,5 +1,16 @@
 # Work In Progress
 
+## Batch 179 — OPEN 5 / 5: Drowned Roots; closure gate next (2026-10-25)
+
+Seven supported repairs replace generic exposure and extraction boilerplate with the fury-then-emptiness course and one-way piece tolls, give both movement fields the file's own four-root-limb walk, scope breach movement to covered faces, replace slamming-door flavor with the reaching tell and reopened market, separate face, struck name, limbs and growing count in Appearance, and split the field-use first signs by piece.
+
+**Commentary:** The Fourth Column is this archive's coldest invention: a place to write the act down that was engineered, for defensible reasons, to change nothing. The branch count set against a Service Office line works because the arithmetic never quite closes — you can feel the file refusing to turn a man into a rate. And "confirm the name is present, never transcribe it" is the one archival rule here that sounds like mercy.
+
+Whole design HELD. Seven repairs: 5 short / 2 careful; LC_ALL=C words 7072 → 7338. Complete before/source/history/final readings and five checks PASS. Batch 139 already counted this pair inside the legacy baseline: +0 Types / +0 Weapon / +0 SE. Source fingerprints, 300 unselected primaries, 301 Physical Form rows, digit sequences and Tale unchanged. [Unit evidence](SE_APPEARANCE_REVIEWS/B179_05_DROWNED_ROOTS.md).
+
+All five frozen units complete. No change 0/5; no 5→7 extension is triggered. Batch remains OPEN until the closure gate (fresh 25 validations, tests, four audits, close receipts, ledger history) is shipped. Counters 268/301 Types, 266/287 Weapon, 18/301 SE. Held 156 / pending 125. Later full recheck and Batch301 eight-owner-body blocker retained. No 180, merge, artwork or deployment.
+
+
 ## Batch 179 — OPEN 4 / 5: The Wrath Flame (2026-10-25)
 
 Six supported repairs scope directed heat to the gesture-maker, remove the cell ending from a holding that has never had one, keep spreading anger with people rather than roaming fire, replace cell-and-door flavor with the open Scar ground, separate the three piece tolls in the Field Use Record, and distinguish figure, beating core, route and halt in Appearance.

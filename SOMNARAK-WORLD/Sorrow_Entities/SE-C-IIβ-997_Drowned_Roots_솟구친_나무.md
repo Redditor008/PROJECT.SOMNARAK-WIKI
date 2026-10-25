@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A ghostly tree-beast whose trunk has split into a body and four moving root-limbs, a howling face in its bark, branches thrashing like arms — a burning, weeping creature. Warm and mobile, it smells of cold rain and char. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Mobile — walks the Market on four root-limbs, phantasmal roots rising through a floor they have never displaced. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -93,8 +93,8 @@
 ### Consequences
 
 - If the reading is lost the pressure does not go into the structure — this holding has never displaced a board — it goes into the worker: the fury arrives first and the emptiness stays after it, which the counsellors treat as the exposure rather than the anger.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
+- Past the timed interval the exposure changes kind rather than degree: the fury burns off and the emptiness remains, and the counsellors screen for the second state because workers report the first and do not report the second at all.
+- Extraction is taken only from a branch that has ceased moving, and what the pieces then take is priced in this file's own terms and runs one way: grief carried unwept, minor joys gone numb, and a bearer other people begin to have difficulty remembering.
 - Where nothing is said the growth simply continues. The branch count has never been found lower at a return than at the one before it, and the tally does not follow the Tide, the season or the Market's trade — it follows one line in the Service Office return, and that line does not move.
 
 ## Appearance
@@ -116,12 +116,14 @@
 | Field | Detail |
 |---|---|
 | **Form** | A ghostly tree-shaped presence with a human face in its trunk. It burns with a fury that has no clear target. |
-| **Position / movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). Recorded at every Drowned Roots cycle against the previous reading. |
+| **Position / movement** | Walks on four root-limbs among the stalls and reaches upward toward covered faces; escalation shows as height, so ceiling clearance is part of the posture record. Log branch count and limb posture at every cycle against the previous reading. |
 | **Material / signature** | Lament. Cold rain and char together, warmth at close range, audible weeping under the burning, and branches that throw no ordinary shadow. |
 | **Distinctive markers** | Branch count, limb posture, ceiling clearance, and whether anybody present has their face covered. |
 | **Identification** | Watch the shadows. The branches move and the shadows do not follow them, which nothing else in the Market does. |
 
 **Appearance protocol:** Count the branches against the last return, log the posture of each root-limb, record burning and weeping separately because they do not always coincide, and note every covered face in the section.
+
+**Reading the count:** Keep the unchanging parts and the growing part apart. The howling face in the bark is the constant and is logged once; beneath it is the name the record struck out, legible only to somebody who has read the surviving original — confirm it is present, never transcribe it into a watch return and never speak it as a shortcut, because this file's condition is the act said aloud, not a restored name. The limbs and route repeat; the branches are the variable, counted from the fixed positions against ceiling clearance, with their shadows checked because the shadows do not follow the movement. Burning and weeping are two tallies, not one mood: either can run without the other, and a dry, bright canopy reaching at a new range is a different picture from a weeping one standing in its usual ground.
 
 ## Origin
 - **Formation:** From a soldier whose act had no duty attached to it, in a record that is kept against duties.
@@ -153,7 +155,7 @@ The table reads as a trial with the face uncovered: Flerehan brings a branch dow
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | It walks the Market thrashing, putting roots up through floors that remain undamaged, and entangles whoever is standing in them. |
+| **Movement** | It walks the Market thrashing, putting roots up through floors that remain undamaged, and reaches through them for covered faces; the uncovered are passed by, in breach as in work. |
 | **Effect** | The weeping fills the section and the will to continue goes out of people who cannot see it at all. |
 | **Secondary Effect** | Sorrow settling in the chest as weight, reported by every responder and by no two of them the same way. |
 | **First Target** | Anyone wearing a mask or a covered face. It reaches for masked faces specifically and passes the uncovered by. |
@@ -228,7 +230,7 @@ Each piece is the holding in miniature, and each one takes the same thing the ho
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, gauge, and the toll entered at the top — unwept grief carried, on the file's own record — with the section's branch count and clearance taken before the piece goes on. |
-| **During use** | Watch for the weeping starting in the bearer, which is the first sign on this set and is entered by the second worker with the hour; the wearer's own account is taken separately, afterwards, and is never the record. |
+| **During use** | Watch by piece: on the Requiem, weeping starting in the bearer; on the Shroud, minor joys going unreported rather than unfelt, which the second worker tests instead of asking about; on the Lantern, colleagues hesitating over the bearer's name or face. Each first sign is entered by the second worker with the hour. The shared stop on all three pieces is the bearer beginning to tell the stair as their own post; the wearer's account is taken separately, afterwards, and is never the record. |
 | **At limit** | The wearer stops reporting the numbness at all — that is the limit on a Drowned Roots piece, whatever the wearer says, and the observer calls it. |
 | **After use** | Take the piece back, re-assess at a week — what this set takes does not present on the day — and keep the bearer off the Market watch until somebody else confirms the joys have come back. |
 
@@ -296,9 +298,9 @@ A tree-shaped shadow rises behind the masks. Its branches burn without heat, and
 
 **With continued exposure:** The hall stops being a market and becomes a post: the two fixed positions, the clearance measured to the ceiling, the shadow check run again because it is cheap, and every face in the section uncovered and staying that way. Nothing in it frightens anybody on the second hour. What stays is the weeping running under the burning, steady, without rise or fall, the way a thing sounds that has been going on since before the stalls were built.
 
-**When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Lament pressure spikes — not gradually but like a door slamming open. The Subject-Phantasmal shifts from presence to action.
+**When the entity activates:** The tell is not speed but direction: branches that were moving generally begin reaching specifically, and the first check is never the gauge — it is the section walked for a covered face, a wrap, a mask, a respirator somebody forgot they were wearing.
 
-**After departure:** The door seals and the pressure comes off the suits by degrees, but what goes home with the watch is Lament in the suit fibres, in the memory, and in the space between thoughts where Fracture begins. The fury passes off first; the counsellors screen for what is left after it, which is the emptiness, and which is the part that stays.
+**After departure:** The hall reopens as a market and the stalls go back up around the route. What goes home with the watch is not the fury, which passes off first; the counsellors screen for what is left after it, which is the emptiness, and which is the part that stays.
 
 ### Interaction Pattern
 

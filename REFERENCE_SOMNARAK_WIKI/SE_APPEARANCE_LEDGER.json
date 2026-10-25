@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIβ-997": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_05_DROWNED_ROOTS.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_OPEN.json"
@@ -1587,8 +1599,30 @@
     {
       "designation": "C-IIβ-997",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Seven supported repairs replace generic exposure and extraction boilerplate with the fury-then-emptiness course and one-way piece tolls, give both movement fields the file's own four-root-limb walk, scope breach movement to covered faces, replace slamming-door flavor with the reaching tell and reopened market, separate face, struck name, limbs and growing count in Appearance, and split the field-use first signs by piece. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_05_DROWNED_ROOTS.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-A__SIDE_CODEX_Drowned_Roots.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-B__MAW-W_Drowned_Roots_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-C__MAW-S_Drowned_Roots_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-D__MAW-G_Drowned_Roots_Lantern.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIγ-071c",
