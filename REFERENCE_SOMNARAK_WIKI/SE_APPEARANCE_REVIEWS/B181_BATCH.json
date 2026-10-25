@@ -2,8 +2,178 @@
   "batch": 181,
   "status": "OPEN",
   "required": 5,
-  "completed": 0,
+  "completed": 1,
   "no_change": 0,
-  "units": [],
+  "units": [
+    {
+      "designation": "C-Iα-869",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-869_Homecoming_Tree_돌아온_나무.md",
+      "words": 7183,
+      "sha256": "f50445e191d61e570374146a6ac6029e1144658d41b3b2f9668d804cbd284ceb",
+      "unit": 1,
+      "name": "Homecoming Tree",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_01_HOMECOMING_TREE.md",
+      "before_words": 7183,
+      "after_words": 7323,
+      "base": "ae8e480f71f5a7ab7ab14dbc4913b54201d584c1",
+      "final_sha256": "a5e3c5b706fd3d9ca7379cc0c9e6b6c08642d79b2ba6a9867f904c00decac28b",
+      "summary": "Ten supported repairs align every movement field to the root-legged walking place, remove the false fixed-object speed scope, rewrite cutting/regrowth/angry-forest combat as failed-return sighting, route entanglement, before-and-after recognition and relocation while preserving every number, ground breach effects in route recital and changing bark names, split the three equipment signs, replace generic flavor activation, and correct the Registrum cross-references to Zone E and the actual interaction records. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The strongest choice is the archive's refusal to blame either community: the returned and the resident really do share one address and two incompatible homes. I also like containment as a sighting log rather than a wall. For a place that walks, knowing where it stopped—and refusing to promise restoration—is more honest than pretending it can be held.",
+      "reasoning": "R-33 chain: Place-Lament / Residue-I / Minor-α Lament → a displaced border community returned after the settlement had changed, leaving returned and resident groups with one address and neither recorded as wrong → that failure grows a true-wood walking tree whose map-fragment leaves preserve the remembered settlement and whose bark surfaces names checked against the rolls → Viderehan keeps settlement-before and settlement-after apart while Ferrehan stands underneath without claiming ownership; Flerehan and Pugnahan are N/A → branches move at the recorded threshold and settle when someone names the change, while each relocation follows old foundations to another failed return → equipment may let a witness hear, endure or view the before/after distinction, but cannot restore title or the former place. Repairs remove combat and movement claims outside that chain; taxonomy, Weapon form and the stale Tale remain HELD.",
+      "history": "Batch 118 unit 1 reviewed the complete primary and exact SE-869-A–D with Registry rows 935–938, Master rows/details 364–366, Entity Codex row 488, Tale 122, MAW-W-869 and disposition row 169. It explicitly created the new exact SE-869-B/MAW-W-869-01 disposition and counted the full set and Weapon. Both sit inside the ledger legacy baseline, so B181 earns +0 Types / +0 Weapon. The similarly numbered Rising Well C-IVδ-869 uses SE-1037/MAW-W-1037 and was not borrowed. HELD earns +0 SE.",
+      "holds": [
+        "Entity taxonomy remains unjoined: the SECC header and Side A call it Subject — Can breach / Place-Lament, while Operational role, Behavior and Registry Trivia call it Object/Place and both Expansion and Escape sections govern the same walking relocation. The file intentionally describes a place that walks, but no source states how those category labels compose; no label was overwritten.",
+        "Weapon form remains split: the primary gives a slender Lament Han-crystal blade with a singing edge, MAW-W-869's archetype gives a Comparison Plate overlaying THEN-ghost and NOW-solid settlement views, and the Master table classes the Requiem as RELIQUARY — Censer/Bell. Item B supplies matching α Lament 3–6 / Speed 2 / Range 2 / Single / maximum 5 / 15 Echoes but no physical silhouette or transformation.",
+        "Suit and Stigma construction classes remain split: the primary gives a cool Han-silk wrapping and a tail-worn crystal leaf charm, while the Master table classes them as Hauberks & Chain Mail and Floating Orbs & Coronets. Exact items C/D confirm resistances, Tail, chance and bonus in prose/metadata but do not supply those primary silhouettes.",
+        "Tale 122 remains stale against the primary and Side A: it uses the title The Returning Tree, Echo (II), Moderate (β), Zone D, Comprehension 2 and says Flerehan is the only valid Work Type, against Homecoming Tree's Residue (I), Minor (α), Zone E, Comprehension 1, Flerehan/Pugnahan N/A and Viderehan/Ferrehan method. The standalone Tale was not edited.",
+        "Equipment production remains narrated in parts: residue is recovered from the root line under separate authorization, the Requiem and Shroud are handled as issueable stock, and the Leaf is explicitly released rather than manufactured after the change is named. Side/items add named-witness shutdown and full-set resonance, but no single acquisition sequence joins those accounts.",
+        "The Grieving Colossus interaction is an explicit exception: branches settle while its tears reach the roots without the change being named, yet the record says this is not acknowledgement and does not close the cycle. That exception was preserved rather than generalized. Operational 'no breach counter' likewise remains parallel to branch movement at the gauge threshold and drain rising per attempt to turn the Tree back."
+      ],
+      "split": [
+        6,
+        4
+      ],
+      "repairs": [
+        {
+          "id": "classification_movement",
+          "kind": "short",
+          "old": "| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |",
+          "new": "| **Movement** | Mobile — uproots and walks on a knot of root-legs between the sites of failed returns, following old paths and foundations. |"
+        },
+        {
+          "id": "speed_scope",
+          "kind": "short",
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | N/A — no combat speed is assigned; relocation is unhurried and recorded by stops rather than pursuit pace |"
+        },
+        {
+          "id": "combat_actions",
+          "kind": "careful-detail",
+          "old": "| { *The First Sprout* [**Debuff**] } | \"A sapling appears where you just cleared — and it is already taller than the stump you removed.\" | [The Tree returns; the target feels the futility of their effort.] | *Target suffers -10 Composure; it will not stay gone.* **[10 Lament DMG [Lament]]** | When the target cuts the Tree. |\n| { *The Accelerating Return* [**Debuff**] } | \"Each time it comes back faster — sprout to sapling to full tree in seconds — and each time, angrier.\" | [The Tree's return cycle accelerates; the target cannot keep up.] | *Target loses 10 Composure; the Tree is winning.* **[10 Lament DMG [Lament]]** | When the target cuts it again. |\n| { *The Whipping Branch* [**Attack**] } | \"The returning tree grows a branch in the time it takes to blink — and the branch is aimed at your face.\" | [A newly grown branch strikes before the target can react.] | *Inflicts Lament pressure and one fast, woody wound.* **[14-22 Lament DMG [Lament]]** | When the Tree is disturbed mid-return. |\n| { *The Infinite Canopy* [**Attack**] } | \"The tree returns — and returns again, and again, until there is a forest where one tree was.\" | [The Tree's exponential returns create an overwhelming mass.] | *A heavy Deep Blue overgrowth; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When a worker describes the ground as restored rather than changed. |\n| { *The Endless Orchard* [**Ultimate**] } | \"Every cut tree in the field returns at once — and they are all angry, and they are all growing.\" | [The Tree extends its returns across the whole area.] | *All in range suffer Lament pressure for three turns of returning forest. The 174 HP line does not fall; what falls is the crew's readiness to stand under the branches at all.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the branches have been moving since the 45% mark and nobody has named the change aloud. |",
+          "new": "| { *The First Sprout* [**Debuff**] } | \"Cold rain on warm wood, and then a tree where no tree should be.\" | [The Tree is found at a failed return; the observer knows a route they have never walked.] | *Target suffers -10 Composure; the recognition is not theirs.* **[10 Lament DMG [Lament]]** | When somebody returns and is not recognised, or recognises nothing. |\n| { *The Accelerating Return* [**Debuff**] } | \"Its roots follow memories rather than water.\" | [A name changes on the bark and the next stop is read from old paths and foundations, not distance.] | *Target loses 10 Composure; another return has failed.* **[10 Lament DMG [Lament]]** | When the sighting log gains a new stop. |\n| { *The Whipping Branch* [**Attack**] } | \"Clear the route rather than the ground.\" | [Branches move and roots take the corridor; a worker standing in the chosen path is entangled without being sought.] | *Inflicts Lament pressure as the route home is recited in the present tense.* **[14-22 Lament DMG [Lament]]** | When personnel block the route or try to turn the Tree back. |\n| { *The Infinite Canopy* [**Attack**] } | \"Two settlements, one address, and neither group the one that was wrong.\" | [Viderehan holds the settlement before and after the absence at once; merging them into one spoiled place deepens the pressure.] | *A heavy Lament surge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When a worker describes the ground as restored rather than changed. |\n| { *The Endless Orchard* [**Ultimate**] } | \"Name the change aloud from under the branches, and leave the route open.\" | [One Tree relocates; everybody under the branches carries the unfamiliar route until the change is named.] | *All in range suffer Lament pressure for three turns of unacknowledged return. The 174 HP line does not fall; what falls is the crew's readiness to stand under the branches at all.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the branches have been moving since the 45% mark and nobody has named the change aloud. |"
+        },
+        {
+          "id": "consequence_piece_costs",
+          "kind": "short",
+          "old": "- The requiem, the shroud and the leaf all carry the same thing out of the Tree: the certainty that somewhere is still yours. Each activation spends a little of the operator's own, and it does not come back. The pieces do not take memories of home. They take the claim on it.",
+          "new": "- The pieces price that recognition separately: involuntary weeping in a familiar place, numbness to small comforts, and the grief of everyone who returned too late. None takes a memory cleanly away; each weakens the bearer's unexamined claim that home is still theirs."
+        },
+        {
+          "id": "identification_position",
+          "kind": "short",
+          "old": "- **Position / movement:** Physical Form: A tree that appears in places where people have returned after long absence.",
+          "new": "- **Position / movement:** Mobile between stops on root-legs. It plants itself where a long-absent person has returned, then follows old paths and foundations to the next failed return; the sighting log, not the registered location alone, says where it stands."
+        },
+        {
+          "id": "detailed_position",
+          "kind": "short",
+          "old": "| **Position / movement** | Physical Form: A tree that appears in places where people have returned after long absence. |",
+          "new": "| **Position / movement** | Uproots and walks at an unhurried pace; it does not run or pursue. Copy bark names at entry and exit, log the stop, and record the direction taken when it leaves. |"
+        },
+        {
+          "id": "breach_effects",
+          "kind": "careful-detail",
+          "old": "> *\"Homecoming Tree has broken free. Extends roots through the floor, entangling personnel.\"*\n\n| Field | Detail |\n|---|---|\n| **Breach Type** | Escape |\n| **Movement** | It walks out at the pace it always walks. Roots enter the floor as it goes and personnel are entangled by standing in the route rather than by being sought. |\n| **Effect** | Waves of cold grief wash over personnel, draining composure. |\n| **Secondary Effect** | A keening wail that fractures emotional stability. |",
+          "new": "> *\"New Homecoming Tree stop logged. Clear its route, copy the bark at entry and exit, and name the change from underneath.\"*\n\n| Field | Detail |\n|---|---|\n| **Breach Type** | Escape |\n| **Movement** | It walks out at the pace it always walks. Roots enter the floor as it goes and personnel are entangled by standing in the route rather than by being sought. |\n| **Effect** | Personnel recite an unfamiliar route home in the present tense; Clarity loss appears as confidence in that account. Let it run and write it down. |\n| **Secondary Effect** | Names surface or vanish on the bark between entry and exit. The changed set and departure direction predict the next stop. |"
+        },
+        {
+          "id": "field_use_piece_signs",
+          "kind": "careful-detail",
+          "old": "| **Before use** | Record the wielder, piece, gauge, declared home, and whether the worker has claimed the ground at a return site. The Requiem and Shroud hold to grade only while that claim is absent. |\n| **During use** | Record the changed-place response separately from each item's effect: one listener hears the Requiem; the Shroud turns aside Lament, not recognition. Log the Requiem's involuntary weeping and the Shroud's loss of small comforts after contact. |\n| **At limit** | The observer calls the Shroud's limit rather than the wielder when small comforts go numb. A claim of ownership or promise to restore the place violates the set's resolution; do not treat it as a recovery test. |\n| **After use** | Return the piece and compare the home baseline. Record whether familiar routes and voices still register; do not reissue the Shroud if comforts remain numb. The Leaf is released by the Tree, not issued by the Armoury. |",
+          "new": "| **Before use** | Record wielder, piece, gauge, declared home, and whether the worker has claimed the ground at a return site. Baseline the piece's own sign: weeping after contact, response to small comforts, or grief that is not the bearer's own. |\n| **During use** | Keep the signs apart: one listener hears the Requiem; the Shroud turns aside Lament, not recognition; the Leaf shows before and after without making either a claim. Log first-person retelling of the Tree's return as a warning, not a memory. |\n| **At limit** | The observer calls the limit when weeping, comfort-numbness or borrowed grief persists, or when the bearer claims the ground or promises restoration. Do not treat that claim as a recovery test. |\n| **After use** | Return the piece and compare the home baseline. Record whether familiar routes, voices and comforts register again. The Leaf is released by the Tree, not issued by the Armoury. |"
+        },
+        {
+          "id": "flavor_activation",
+          "kind": "careful-detail",
+          "old": "**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Lament presses hardest, where it recedes, where the Place-Lament lets you breathe.\n\n**When the entity activates:** The shift happens between one breath and the next. The Place-Lament crosses from presence to action, and the Lament goes from weather to weapon.",
+          "new": "**With continued exposure:** The work is keeping two settlements apart: the one in the leaves and bark, and the one now standing on the same ground. Crews who merge them into a single spoiled place have made the Tree's mistake for it.\n\n**When the entity activates:** A return has failed somewhere nearby. The branches begin to move at the recorded threshold, names change on the bark, and nobody is pursued; clear the route and say that the place has changed."
+        },
+        {
+          "id": "registrum_cross_references",
+          "kind": "short",
+          "old": "**Cross-References:** Zone D · Nemo · Dreaming Ruin",
+          "new": "**Cross-References:** Zone E, Border region · the sighting log and settlement rolls · SED before-and-after surveys · Perennial · Silence We Forgot We Made · The Grieving Colossus"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-Iα-869_Homecoming_Tree_돌아온_나무.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.029  clean   172 grams  Trivia\n 0.021  clean    97 grams  Operational Parameters\n 0.011  clean   551 grams  M.A.W. Equipment\n 0.010  clean   678 grams  Combat Record\n 0.009  clean   340 grams  기록 (Registrum)\n 0.008  clean   515 grams  관찰 기록 (Observation Log)\n 0.002  clean   835 grams  감각 묘사 (Flavor Text)\n 0.000  clean   355 grams  Expansion Behavior\n 0.000  clean   317 grams  이야기 (Narratio)\n 0.000  clean   311 grams  Appearance\n 0.000  clean   215 grams  Origin\n 0.000  clean   198 grams  Breach Behavior\n 0.000  clean   186 grams  이야기 보고 (Story Log)\n 0.000  clean   184 grams  Behavior\n 0.000  clean    94 grams  최종 관찰 (Final Observation)\n 0.000  clean    45 grams  증언 (Testimonium)\n 0.000  clean    29 grams  SECC Classification\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |\n   84   3  | { *The Infinite Canopy* [**Attack**] } | \"Two settlements, one address, and neither group the one that was wrong.\" | [Viderehan \n   85   4  | { *The Endless Orchard* [**Ultimate**] } | \"Name the change aloud from under the branches, and leave the route open.\" | [One Tre\n  206   1  Appearance : The Returning Requiem is a slender blade of Lament Han-crystal, cool and faintly luminous, with a single singing edge\n  241   5  **Ability:** Turns Lament aside from the mind, which is the only pressure the Tree exerts — and it turns aside only the Lament, no\n  298   4  **Observation method:** Record the first sign, which is the smell of rain arriving before the Tree is in sight; the first sensatio\n  350   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  406   3  **Review requirement:** Re-verify after any Sorrow Tide, after any relocation, and after any resettlement anywhere in the Border r\n  417   5  - **Field detail:** Its defining element is Lament, and its registered location is Zone E, Border region — a stop rather than a ho\nGENERIC 0.006  (29 shared shingles)  SE-C-Iα-869_Homecoming_Tree_돌아온_나무.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/869_Homecoming_Tree/SE-869-A__SIDE_CODEX_Homecoming_Tree.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/869_Homecoming_Tree/SE-869-B__MAW-W_The_Returning_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/869_Homecoming_Tree/SE-869-C__MAW-S_The_Returning_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/869_Homecoming_Tree/SE-869-D__MAW-G_The_Returning_Leaf.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/869_Homecoming_Tree/SE-869-A__SIDE_CODEX_Homecoming_Tree.md": "f496e7794160357483753bd103be47c4ffd6473365e04730cd361265e8ad36a5",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/869_Homecoming_Tree/SE-869-B__MAW-W_The_Returning_Requiem.md": "f8ae389acf80d39748809e342bd676b9f47bad9af6a96184a745006d032db838",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/869_Homecoming_Tree/SE-869-C__MAW-S_The_Returning_Shroud.md": "e2469e0256b38a1c46ed5942fc66b369d1fbf70ebf1b1526ad1982127cec3402",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/869_Homecoming_Tree/SE-869-D__MAW-G_The_Returning_Leaf.md": "64e784a6e3cfc7d722bcf44025b13f9f3f8d260fe24760873e063d35477ad355",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/README.md": "7192a3203ee5e6bd5f9891cf6ef5eaef56959da58fe55be233b172b8080402b2",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-Iα-869_Homecoming_Tree_돌아온_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-869_Homecoming_Tree_%EB%8F%8C%EC%95%84%EC%98%A8_%EB%82%98%EB%AC%B4.md \"SE-C-Iα-869_Homecoming_Tree_돌아온_나무.md\")]",
+      "table_link": "[Homecoming_Tree](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-869_Homecoming_Tree_%EB%8F%8C%EC%95%84%EC%98%A8_%EB%82%98%EB%AC%B4.md \"SE-C-Iα-869_Homecoming_Tree_돌아온_나무.md\")",
+      "reading": {
+        "before_lines": 426,
+        "before_bytes": 42611,
+        "final_lines": 426,
+        "final_bytes": 43436
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 119,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 11
+      }
+    }
+  ],
   "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_OPEN.json"
 }

@@ -1,6 +1,6 @@
 # Work In Progress
 
-## Batch 181 — OPEN, 0 / 5 (2026-10-25)
+## Batch 181 — OPEN, 1 / 5 (2026-10-25)
 
 Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only `LC_ALL=C wc -w` ranking from the authoritative 301-path ledger, with designation-byte ties, freezes this queue:
 
@@ -12,7 +12,13 @@ Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only
 
 Reserves, only if three cumulative No change results extend the same batch 5→7→10: Cenotaph `N-IVδ-525`, Kind Healer's Shadow `N-IIβ-280`, Double Mouth `C-IIβ-716`, The Final Door `C-Vδ-111`, Carrying Nothing `C-IIβ-357`.
 
-Opening baseline audits PASS: archive health, timeline, semantic seam and box symmetry. No unit has been reviewed yet; pending is not No change. Each unit requires the complete primary and identity-resolved sources/history, an R-33 design trace, a predeclared R-18 short/careful split, only source-supported repairs or exact No change, five checks, individual evidence and one verified gate push. Counters remain 268/301 Types, 266/287 Weapon and 18/301 SE Appearance Fix; held 161 / pending 120. Draft PR #15 stays owner-controlled. No Batch 182, merge, artwork or deployment is authorized.
+Opening baseline audits PASS: archive health, timeline, semantic seam and box symmetry.
+
+**Unit 1 — Homecoming Tree `C-Iα-869`: HELD.** Ten supported repairs (6 short / 4 careful; 7183→7323 words) align movement to the root-legged walking place, remove fixed-object speed wording, rewrite cutting/regrowth/forest combat as failed-return sighting and route/bark procedure without changing numbers, split equipment signs, replace generic flavor activation, and correct Registrum references to Zone E and the filed interactions. Taxonomy, Weapon form, equipment classes and stale Tale 122 remain held. Batch 118 already counted the exact set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B181_01_HOMECOMING_TREE.md).
+
+**Commentary:** The strongest choice is the archive's refusal to blame either community: the returned and the resident really do share one address and two incompatible homes. I also like containment as a sighting log rather than a wall. For a place that walks, knowing where it stopped—and refusing to promise restoration—is more honest than pretending it can be held.
+
+Completed 1/5; No change 0/1. Next frozen unit is Grimoire `C-IIβ-906`. Counters remain 268/301 Types, 266/287 Weapon and 18/301 SE Appearance Fix; held 162 / pending 119. Draft PR #15 stays owner-controlled. No Batch 182, merge, artwork or deployment is authorized.
 
 ## Batch 180 — CLOSED, 5 / 5 (2026-10-25)
 

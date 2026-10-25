@@ -27,7 +27,20 @@
       "C-IIIβ-016",
       "N-IIIβ-155"
     ],
-    "reviewed": {},
+    "reviewed": {
+      "C-Iα-869": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_01_HOMECOMING_TREE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_OPEN.json"
   },
   "dossiers": [
@@ -2645,8 +2658,30 @@
     {
       "designation": "C-Iα-869",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-869_Homecoming_Tree_돌아온_나무.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Ten supported repairs align every movement field to the root-legged walking place, remove the false fixed-object speed scope, rewrite cutting/regrowth/angry-forest combat as failed-return sighting, route entanglement, before-and-after recognition and relocation while preserving every number, ground breach effects in route recital and changing bark names, split the three equipment signs, replace generic flavor activation, and correct the Registrum cross-references to Zone E and the actual interaction records. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_01_HOMECOMING_TREE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/869_Homecoming_Tree/SE-869-A__SIDE_CODEX_Homecoming_Tree.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/869_Homecoming_Tree/SE-869-B__MAW-W_The_Returning_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/869_Homecoming_Tree/SE-869-C__MAW-S_The_Returning_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/869_Homecoming_Tree/SE-869-D__MAW-G_The_Returning_Leaf.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Iα-884",

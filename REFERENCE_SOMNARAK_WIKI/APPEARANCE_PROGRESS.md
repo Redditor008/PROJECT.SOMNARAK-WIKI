@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch181 OPEN 0/5.** Fresh queue: Homecoming Tree, Grimoire, Sky of Borrowed Faces, The Echo Compass and Harbinger. No unit reviewed yet; counters unchanged; ledger held 161 / pending 120.
+**Latest: Batch181 OPEN 1/5.** Homecoming Tree is HELD after ten supported repairs; No change 0/1. [Unit evidence](SE_APPEARANCE_REVIEWS/B181_01_HOMECOMING_TREE.md). Counters unchanged; ledger held 162 / pending 119. Next is Grimoire.
 
 **Previous: Batch180 CLOSED 5/5.** Five HELD reviews, 39 supported repairs, No change 0/5. [Close report](SE_APPEARANCE_REVIEWS/B180_CLOSE.md). Counters unchanged; ledger held 161 / pending 120.
 
