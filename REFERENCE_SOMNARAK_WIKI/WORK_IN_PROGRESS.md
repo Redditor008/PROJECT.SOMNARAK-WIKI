@@ -1,6 +1,6 @@
 # Work In Progress
 
-## Batch 182 — OPEN, 0 / 5 (2026-10-26)
+## Batch 182 — OPEN, 1 / 5 (2026-10-26)
 
 Owner “p p” in this session. Batch 181 was found already CLOSED on origin by another session acting on the same instruction (closure `8a5326d`); a stale-snapshot restore was leveled with `tools/syncbranch.py` before any edit, no work lost. This session applies its authorization to Batch 182 only. A fresh pending-only `LC_ALL=C wc -w` ranking from the authoritative 301-path ledger, with designation-byte ties, freezes this queue:
 
@@ -10,7 +10,13 @@ Owner “p p” in this session. Batch 181 was found already CLOSED on origin by
 4. The Final Door `C-Vδ-111` — 7277 words
 5. Carrying Nothing `C-IIβ-357` — 7304 words
 
-Reserves, only if three cumulative No change results extend the batch 5→7→10: Bridge to Nowhere `C-IVδ-260`, Echo of Kindness `C-Iα-240`, Stranded Between Two Shores `C-IVδ-823`, Cleaved `C-IIβ-775`, Cracked Mirror `C-IIβ-310`. Baseline archive/timeline/seam/box audits PASS. Completed 0/5; No change 0/0. Counters: 269/301 Types, 267/287 Weapon, 18/301 SE; held 166 / pending 115. Chatroom reporting follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No Batch 183, merge, artwork or deployment is authorized.
+Reserves, only if three cumulative No change results extend the batch 5→7→10: Bridge to Nowhere `C-IVδ-260`, Echo of Kindness `C-Iα-240`, Stranded Between Two Shores `C-IVδ-823`, Cleaved `C-IIβ-775`, Cracked Mirror `C-IIβ-310`. Baseline archive/timeline/seam/box audits PASS.
+
+**Unit 1 — Cenotaph `N-IVδ-525`: HELD.** Eight supported repairs (5 short / 3 careful; 7261→7433 words) align movement, valid work, combat, breach effect, consequences, flavor, field use and the Registrum to the span-and-register record (no pursuit, beneath-not-over, solo/shared crossings, close-the-crossing). Shrine-versus-Fang, humanoid-versus-serpentine form, name fork, thresholds, over-span work and structural scope remain held. Batch 127 already counted the set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B182_01_CENOTAPH.md).
+
+**Commentary:** The most humane order in the archive may be the one closing this crossing: not unsafe, still on duty. I admire that containment is a traffic register and a named routing office rather than a stronger door — the facility finally takes the load off the guardian by taking the duty onto itself, in writing.
+
+Completed 1/5; No change 0/1. Counters: 269/301 Types, 267/287 Weapon, 18/301 SE; held 167 / pending 114. Next frozen unit is Kind Healer's Shadow `N-IIβ-280`. Chatroom reporting follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No Batch 183, merge, artwork or deployment is authorized.
 
 ## Batch 181 — CLOSED, 5 / 5 (2026-10-25)
 

@@ -27,7 +27,20 @@
       "C-Vδ-111",
       "C-IIβ-357"
     ],
-    "reviewed": {},
+    "reviewed": {
+      "N-IVδ-525": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_01_CENOTAPH.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_OPEN.json"
   },
   "dossiers": [
@@ -4149,8 +4162,29 @@
     {
       "designation": "N-IVδ-525",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-525_Cenotaph_흐르는_다리.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Eight supported repairs align the dossier to its own span-and-register record: movement no longer claims upright pursuit, not-authorised Pugnahan leaves the valid-work row, combat runs through surface transition, solo/shared crossings and the forbidden over-span attempt instead of liquid wounds and sector flooding, breach effect and consequences use load-sharing, field-use signs split by piece, generic flavor becomes the stone-to-water warning, and the Registrum carries the actual close-the-crossing protocol. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_01_CENOTAPH.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_525_to_559/SE-525-A__SIDE_CODEX_Cenotaph.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_525_to_559/SE-525-B__MAW-W_Cenotaph_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_525_to_559/SE-525-C__MAW-S_Cenotaph_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_525_to_559/SE-525-D__MAW-G_Cenotaph_Ring.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IVδ-606",

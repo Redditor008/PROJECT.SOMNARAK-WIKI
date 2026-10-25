@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A humanoid figure whose body flows like a bridge over moving water — its torso a span, its arms reaching to shelter people who are already gone. Fever-cold, it smells of char; it carries the lost across a river that is not there. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile by span — it leaves on foot and re-spans busy corridors; it does not chase, and follows only whoever still holds the crossing's responsibility. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -70,7 +70,7 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan and Ferrehan move the gauge; Viderehan runs for record; Pugnahan has a recorded adverse response and is not authorised |
 | **Battlefield** | Zone D, Echo Gardens |
 | **Resolution Condition** | Controlled acknowledgment and team support |
 
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Liquid Span* [**Debuff**] } | "The bridge is not solid — it flows, like a river pretending to be a road — and your footing is never sure." | [The Bridge's liquid form destabilizes the target; they cannot find purchase.] | *Target suffers -10 Resilience; the ground is moving.* **[10 Grudge DMG [Grudge]]** | When the target steps on the Bridge. |
-| { *The Current* [**Debuff**] } | "The bridge-flow speeds up — carrying you toward the far side, or the far drop." | [The Bridge's current accelerates; the target is being carried.] | *Target loses 10 Resilience; they cannot stop moving.* **[10 Grudge DMG [Grudge]]** | When the target is mid-crossing. |
-| { *The Wave-Span* [**Attack**] } | "The liquid bridge surges — a wave rising from the path itself." | [A bridge-wave crests and crashes.] | *Inflicts Grudge pressure and one wound of liquid impact.* **[14-22 Grudge DMG [Grudge]]** | When the Bridge is overloaded. |
-| { *The Full Rush* [**Attack**] } | "The bridge becomes water, and the water remembers every crossing it was never able to hold." | [The span gives up its shape at once and the whole of its load arrives at the target.] | *A heavy Crimson torrent; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the crossing is blocked or the span is dammed. |
-| { *The Flooded Crossing* [**Ultimate**] } | "Every crossing in the sector goes to water — and the water is still on duty." | [The span spreads along the routes it can reach, liquefying each one it covers.] | *All in range suffer Grudge pressure for three turns; nothing underfoot reads as holding.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% with solo crossings still being logged. |
+| { *The Liquid Span* [**Debuff**] } | "Stone while it holds, water while it does not — the transition is the only warning it gives." | [The surface goes from stone to moving water above the walking line; nobody is on the span, and footing beneath it stops feeling assigned.] | *Target suffers -10 Resilience; the load is looking for a carrier.* **[10 Grudge DMG [Grudge]]** | When the surface transitions while a worker passes beneath alone. |
+| { *The Current* [**Debuff**] } | "Four hundred and six crossings. Ninety-one of them shared." | [The current of old promises quickens along the body; the solo worker is counted before they are reached.] | *Target loses 10 Resilience; the crossing keeps accumulating on one person.* **[10 Grudge DMG [Grudge]]** | When a crossing is made by one person with nobody sharing it. |
+| { *The Wave-Span* [**Attack**] } | "The one recorded attempt to go over ended with the span giving way — and the collapse felt like an apology." | [The arch lowers and offers itself; under a solo load it gives way into water that is not there.] | *Inflicts Grudge pressure as weight, not impact; the fall is recorded separately from the strike.* **[14-22 Grudge DMG [Grudge]]** | When somebody goes over the span alone or treats it as a road. |
+| { *The Full Rush* [**Attack**] } | "Close the crossing rather than the entity." | [Barricaded or dammed, the body pushes through and re-spans across the route people are using.] | *A heavy Grudge surge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the route is barricaded instead of the crossing being closed and re-routed. |
+| { *The Flooded Crossing* [**Ultimate**] } | "It is closed not because it is unsafe, but because it is still on duty." | [The span spreads along the corridors it already grips; every surface it holds reads as moving water.] | *All in range suffer Grudge pressure for three turns; nothing underfoot reads as holding.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% with solo crossings still being logged. |
 
 ### Battle Phases
 
@@ -92,7 +92,7 @@
 
 ### Consequences
 
-- A worker who holds against the span is a double loss: **Resilience** goes at the point they brace, and the entity takes the failure as a load — the gauge it feeds is the one their resistance filled.
+- A worker who braces against the span turns themselves into structure: **Resilience** goes at the point of bracing, because standing still on this record is participation and the load accepts whoever offers to carry it.
 - Time alone does nothing here. What accumulates is crossings: each person who goes over the span unaccompanied adds to the load it believes it is carrying, and a shift of heavy single traffic does more than a day of standing idle.
 - The shrine, the plate and the ring are all made from a promise that outlived the person it was given to. Each activation borrows that refusal to let go, and the operator keeps a share of it. What the record prices this at is not pain; it is that the operator stops being able to hand a task over.
 - An encounter that ends without the responsibility being placed somewhere does not end; it is carried out of the chamber. Cenotaph does not pursue the team. It follows the one who left still holding it, and the file notes that this is usually the person who spoke least.
@@ -158,7 +158,7 @@ The four responses split two and two, which is unusual for a Grudge subject and 
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It leaves on foot and re-spans the first busy corridor it reaches. It does not chase; it lies across the route and gives way under whoever crosses alone. |
-| **Effect** | Rage erupts outward, scorching resilience from all nearby. |
+| **Effect** | The span gives way under whoever crosses alone; paired and signed-for crossings lower the drain instead. |
 | **Secondary Effect** | The span gives way under load, into water that is not there and from which personnel are nonetheless recovered wet. |
 | **First Target** | Whoever steps onto the span first, and by preference whoever stepped on without waiting for the rest of their team. |
 | **Escalation** | Drain rises by 5 for each solo crossing made while it is free, and falls by 5 for each crossing made in pairs. Time off the span changes nothing either way. |
@@ -245,9 +245,9 @@ The three pieces extend this holding only as far as the duty is shared. In a tea
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, the day's reading, and the name of the second person carrying this crossing — on this set the cost falls on anyone working alone, so the roster entry is the instrument and the baseline is taken against it. |
-| **During use** | Watch for the toll's first sign — old wounds aching, faint bruising in the pattern of a load carried across the shoulders — and enter the hour the second worker saw it rather than the hour the wielder mentioned it. |
-| **At limit** | The wielder stops noticing the toll: reflexes dull and they become slow to step off a surface that has begun to move, which on this post is the exact hesitation the entity punishes. Every stand-down on this set has been called by the second worker on that sign. |
-| **After use** | Return the piece and re-assess a week later: what this set takes — dulled reflexes, the slow step off a moving surface — does not present on the day. The second worker answers for the wielder, and the answer is entered whether or not the wielder agrees. Attach the shared review before cleaning, retaining who was present, what was known and what was possible beside the later reflex assessment. |
+| **During use** | Watch the piece's own first sign: shoulder-pattern bruising for the Shrine, a slow step off a moving surface for the Plate, and the bearer counting people beyond reach for the Ring. Enter the hour the second worker saw it rather than the hour the wielder mentioned it. |
+| **At limit** | The wielder stops noticing the toll, a Plate channel is found assigned to “whoever is available”, or the Ring-bearer begins treating real grief as tactics. Every stand-down on this set has been called by the second worker on that sign. |
+| **After use** | Return the piece and re-assess a week later: what this set takes — dulled reflexes, the slow step off a moving surface, volunteering for every crossing — does not present on the day. The second worker answers for the wielder, and the answer is entered whether or not the wielder agrees. Attach the shared review before cleaning, retaining who was present, what was known and what was possible beside the later reflex assessment. |
 
 **Stat interpretation:** The grades describe extraction stability rather than human safety, and on this post the two diverge sharply. The plate is dependable and the shrine is unremarkable. What no grade records is that the ring, which costs nothing measurable, leaves its wearer volunteering for every crossing on the roster.
 ## 관찰 기록 (Observation Log)
@@ -310,9 +310,9 @@ A bridge flows through the Garden without water beneath it. Its surface carries 
 
 **At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room. Then the Subject-Body resolves: a long form of flowing stone and dark water, its body arching and coiling like a span thrown across a river, its torso the bridge and its arms reaching out to shelter people who are no longer there. The river it crosses is not there either.
 
-**With continued exposure:** With time, the entity becomes less abstract and more specific. The Grudge is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
+**With continued exposure:** The watch learns to read the surface before anything else — stone when it is holding, moving water when it is not — and to note which way the arms are reaching. They have twice pointed at a door before anybody came through it.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Grudge becomes something you can taste, hear, or feel on your skin. The Subject-Body has crossed the line between containing and becoming.
+**When the entity activates:** Nothing announces itself. The transition from stone to water is the warning, the current feels wrong to the observer standing under it, and the crossings already logged solo are what it is counted by.
 
 **After departure:** The span stays where it is; what travels out is the load. Workers leave still holding a crossing they were never assigned, and the standing instruction is that somebody else takes a share of it before the shift ends — the ones who leave alone are the ones the entity follows.
 
@@ -367,11 +367,11 @@ Some sorrows are about loss. Cenotaph is about the failed protection — the pro
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Critical (δ) by consequence rather than by aggression: 910 gauge, 45 per cent against Grudge, 24 turns, and a breach whose escalation is counted in solo crossings rather than in elapsed time.
 **Containment & Handling Procedures:**
-- Refer to the Work Type responses in the Behavior section, and note that two of the four lower the gauge here, which is unusual for a Grudge subject.
-- Standard containment protocols apply.
+- Close the crossing rather than the entity: post the alternate route and mark the span out of service. Passage is beneath the span on the walking line without stopping; going over it is forbidden.
+- Flerehan and Ferrehan lower the gauge, Viderehan holds it flat and shows the promise; Pugnahan is not authorised. Responsibility for Gardens movement sits with the routing office under a name, never with whoever crosses alone.
 **Observation Notes:**
-- See Origin section for formation details.
-- See Combat Record for engagement parameters.
+- The register is the instrument: crossings split solo and shared (406 in the file's quarter, 91 shared), the two bridged points, and the surface state each hour.
+- Gratitude is discouraged in the chamber: the span withdraws from anyone who thanks it.
 **Cross-References:** See entity’s interaction record and cross-references in the full file.
 **Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** The guardian of the crossing, named in the Keepers' record and not in this file.
