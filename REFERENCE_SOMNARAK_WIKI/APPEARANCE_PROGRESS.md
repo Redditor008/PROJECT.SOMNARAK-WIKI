@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch181 OPEN 5/5; closure gate next.** Five HELD reviews, 36 supported repair groups (16 short / 20 careful); No change 0/5. [Homecoming Tree](SE_APPEARANCE_REVIEWS/B181_01_HOMECOMING_TREE.md) · [Grimoire](SE_APPEARANCE_REVIEWS/B181_02_GRIMOIRE.md) · [Sky of Borrowed Faces](SE_APPEARANCE_REVIEWS/B181_03_SKY_OF_BORROWED_FACES.md) · [The Echo Compass](SE_APPEARANCE_REVIEWS/B181_04_ECHO_COMPASS.md) · [Harbinger](SE_APPEARANCE_REVIEWS/B181_05_HARBINGER.md). Coverage 269/301 Types, 267/287 Weapon, 18/301 SE; held 166 / pending 115. No 5→7 extension.
+**Latest: Batch181 CLOSED 5/5.** Five HELD reviews, 36 supported repair groups (16 short / 20 careful), No change 0/5. Equipment coverage +1 Types / +1 Weapon; SE +0. [Close report](SE_APPEARANCE_REVIEWS/B181_CLOSE.md). Counters: 269/301 Types, 267/287 Weapon, 18/301 SE; held 166 / pending 115. Batch182 is not authorized.
 
 **Previous: Batch180 CLOSED 5/5.** Five HELD reviews, 39 supported repairs, No change 0/5. [Close report](SE_APPEARANCE_REVIEWS/B180_CLOSE.md). Counters unchanged; ledger held 161 / pending 120.
 

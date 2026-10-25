@@ -1,6 +1,6 @@
 # Work In Progress
 
-## Batch 181 — OPEN, 5 / 5 (2026-10-25)
+## Batch 181 — CLOSED, 5 / 5 (2026-10-25)
 
 Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only `LC_ALL=C wc -w` ranking from the authoritative 301-path ledger, with designation-byte ties, freezes this queue:
 
@@ -34,7 +34,11 @@ Opening baseline audits PASS: archive health, timeline, semantic seam and box sy
 
 **Commentary:** The gap between decision and notice is the real body of this file; the shadow stays outside arm's reach but is visible to everyone except the person it follows. The Standing Notice is uneasy because it does not prove notification is harmless—it puts a right to know beside the documented cost of waiting. I especially trust the measured distance because it does not pretend to resolve who owes what.
 
-All five frozen units are complete. No change 0/5, so the ladder does not extend. The closure gate is next. Counters: 269/301 Types, 267/287 Weapon and 18/301 SE Appearance Fix; held 166 / pending 115. Reserves are unchanged. Draft PR #15 stays owner-controlled. No Batch 182, merge, artwork or deployment is authorized.
+**Closure gate: PASS. Batch 181 CLOSED 5/5.** Fresh dossier validators 25/25 and unit tests 54/54 pass; archive-health, timeline, semantic-seam and box-symmetry audits pass. Thirty-six exact repair groups (16 short / 20 careful; 36,157→36,802 C-locale words) reconstruct all five final primaries from opening `ae8e480`.
+
+The 296 unselected primaries, all 301 Physical Form rows, Entity Tales, 115 remaining pending fingerprints, five reserves and 37 distinct source files are unchanged. All five digit sequences are preserved. No change 0/5; the ladder does not extend. Fresh credit is +1 Types / +1 Weapon for Echo Compass; SE Appearance Fix +0 because all five remain HELD. Counters: 269/301 Types, 267/287 Weapon and 18/301 SE; held 166 / pending 115. [Close report](SE_APPEARANCE_REVIEWS/B181_CLOSE.md).
+
+Batch 182 requires new owner authorization and a fresh pending-only ranking. Draft PR #15 remains owner-controlled. No merge, artwork or deployment is authorized. Later full recheck and the Batch301 eight-owner-body blocker remain retained.
 
 ## Batch 180 — CLOSED, 5 / 5 (2026-10-25)
 
