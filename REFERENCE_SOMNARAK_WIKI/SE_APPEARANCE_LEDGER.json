@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IIβ-453": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_04_FORGOTTEN_SHADOW.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_OPEN.json"
@@ -3604,8 +3616,30 @@
     {
       "designation": "N-IIβ-453",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-453_Forgotten_Shadow_잊혀진_그림자.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Nine supported repairs scope movement to disused ways and fixed-distance following, remove barred Pugnahan from valid work, rewrite striking/forced-light/multi-shade combat prose as shade grade, route, song and unrecorded presence while preserving numbers, replace generic memory/body-strength equipment costs with the three recorded tolls, restore the exact warm blue tail Song, split field-use signs, correct Originator from erased to never entered, and make Final Observation close on grade/track/duration with identity blank. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_04_FORGOTTEN_SHADOW.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-453-A__SIDE_CODEX_Spoor.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-453-B__MAW-W_The_Shadow_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-453-C__MAW-S_The_Shadow_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-453-D__MAW-G_The_Shadow_Song.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIβ-456",

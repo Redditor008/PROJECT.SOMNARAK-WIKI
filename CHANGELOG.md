@@ -8,7 +8,7 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 180 — OPEN, 2 / 5 (2026-10-25)
+## Batch 180 — OPEN, 4 / 5 (2026-10-25)
 
 Owner `P` after CLOSED 179 authorizes this batch only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes Spreading Root `O-IVδ-693` (7075), Soaking Rope `N-Iα-316` (7099), Unheard `C-Iα-965` (7105), Forgotten Shadow `N-IIβ-453` (7143), and Vanity Asleep `N-IIIγ-954` (7160). Reserves are Homecoming Tree `C-Iα-869`, Grimoire `C-IIβ-906`, Sky of Borrowed Faces `O-IIIγ-926`, The Echo Compass `C-IIIβ-016`, and Harbinger `N-IIIβ-155`, used only if the No change ladder extends the batch.
 
@@ -16,7 +16,9 @@ Owner `P` after CLOSED 179 authorizes this batch only. A fresh pending-only `LC_
 
 **Unit 2 — Soaking Rope `N-Iα-316`: HELD.** Seven supported repairs (5 short / 2 careful; 7099→7089 words) scope the stationary rope, make combat non-touching without changing its names/numbers, use the promise count, restore exact Plate/Knot appearances, split field-use signs and remove a duplicate. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_02_SOAKING_ROPE.md). Batch 108 already counted the set inside the legacy baseline: +0/+0/+0.
 
-**Unit 3 — Unheard `C-Iα-965`: HELD.** Seven supported repairs (3 short / 4 careful; 7105→7111 words) align movement/identification to the stack route and measured hush edge, replace generic consequences, flavor and final-observation claims with radius/sealed-account procedure, and split field-use signs. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_03_UNHEARD.md). Batch 137 already counted the set inside the legacy baseline: +0/+0/+0. Completed 3/5; No change 0/3; held 159 / pending 122. Next is Forgotten Shadow `N-IIβ-453`. Chatroom reporting now follows R-31 Compact Report v2. No Batch 181, merge, artwork or deployment is authorized.
+**Unit 3 — Unheard `C-Iα-965`: HELD.** Seven supported repairs (3 short / 4 careful; 7105→7111 words) align movement/identification to the stack route and measured hush edge, replace generic consequences, flavor and final-observation claims with radius/sealed-account procedure, and split field-use signs. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_03_UNHEARD.md). Batch 137 already counted the set inside the legacy baseline: +0/+0/+0.
+
+**Unit 4 — Forgotten Shadow `N-IIβ-453`: HELD.** Nine supported repairs (5 short / 4 careful; 7143→7216 words) scope fixed-distance following, bar Pugnahan in valid work, make combat non-striking, split equipment tolls, restore the Song appearance, correct erased→never entered, and close without inventing identity. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_04_FORGOTTEN_SHADOW.md). Batch 109 already counted the set inside the legacy baseline: +0/+0/+0. Completed 4/5; No change 0/4; held 160 / pending 121. Next is Vanity Asleep `N-IIIγ-954`. Chatroom reporting now follows R-31 Compact Report v2. No Batch 181, merge, artwork or deployment is authorized.
 
 
 ## Batch 179 — CLOSED 5 / 5 (2026-10-25)

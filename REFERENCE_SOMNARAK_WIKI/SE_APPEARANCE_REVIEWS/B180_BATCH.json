@@ -2,7 +2,7 @@
   "batch": 180,
   "status": "OPEN",
   "required": 5,
-  "completed": 3,
+  "completed": 4,
   "no_change": 0,
   "units": [
     {
@@ -473,6 +473,170 @@
       "integrity": {
         "unselected_primary_unchanged": 300,
         "remaining_pending_fingerprints_unchanged": 122,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 11
+      }
+    },
+    {
+      "designation": "N-IIβ-453",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-453_Forgotten_Shadow_잊혀진_그림자.md",
+      "words": 7143,
+      "sha256": "06cb25ebdcdeed4d79855019198d6b5a32730a3e81c87d795f3f623204f43633",
+      "unit": 4,
+      "name": "Forgotten Shadow",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_04_FORGOTTEN_SHADOW.md",
+      "before_words": 7143,
+      "after_words": 7216,
+      "base": "8d835e92183f189294830fa074ed6262d48dc1c9",
+      "final_sha256": "a2426a251d3e8da286ca193da613bd98f6ebde9e7c22c59d8f474feaa2551523",
+      "summary": "Nine supported repairs scope movement to disused ways and fixed-distance following, remove barred Pugnahan from valid work, rewrite striking/forced-light/multi-shade combat prose as shade grade, route, song and unrecorded presence while preserving numbers, replace generic memory/body-strength equipment costs with the three recorded tolls, restore the exact warm blue tail Song, split field-use signs, correct Originator from erased to never entered, and make Final Observation close on grade/track/duration with identity blank. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The Day Token is an elegant, painful compromise: it proves attendance without recreating the dangerous register, then loses exactly the people most likely to lose a stub. I admire that the observation form protects by omission—three fields only—because here even a compassionate extra column would become a census of the forgotten.",
+      "reasoning": "R-33 chain: Subject-Weight / Echo-II Lament → a living wanderer crossed four settlements whose complete registers correctly contained no line for someone who never asked them for anything → a faceless shade still walks the route, deepening near people nobody holds in mind and singing below hearing → sung Flerehan softens, Ferrehan accompanies, Viderehan records route, and barred Pugnahan makes it follow one worker without closing → shade grade tracks unpresented Day Tokens while the privacy rule forbids naming nearby people → equipment lets a companion attest the route at the cost of weeping, numbness or being forgotten, never by supplying a name. Repairs align movement, combat and closing seams; the three Weapon forms and Tale divergence remain HELD.",
+      "history": "Batch 109 unit 5 (commit 64449e4c90d649bd5e4469953ad3076841e88098) reviewed the complete primary and exact SE-453-A–D with Registry rows 675–678, Master rows/details 487–489, Entity Codex row 531, Tale 163 and MAW-W-453. It named the Song bonus +1 Clarity, corrected Suit Appearance from item C, and counted new full-SE and Weapon-only dispositions. Both are inside the ledger legacy 240/240 baseline, so B180 earns +0 Types / +0 Weapon. The distinct O-Iα-453 → SE-1035 Floating Fragment pair was not used. HELD earns +0 SE.",
+      "holds": [
+        "Weapon identity remains three-way split: primary heading and archetype call it the Lamentation Sabre, primary Appearance/body and Master table row 487 make it an eleven-inch Umbral Astrolabe/planisphere that cloaks from ranged sight, while exact Side A/item B, Registry CSV and Master detailed Entry 487 give the blue Han-crystal Shadow Requiem blade whose shadow trails one step behind. Matching Lament 5–9 / Speed 2 / Range 2 / maximum 4 / 25 Echoes does not resolve the forms; Side Single and archetype Medium were not imported.",
+        "Tale traditions remain divergent: the primary Tale is the Company gate-book/Day Token account and origin uses four settlement registers, while Tale 163 gives a Desolate wanderer ontologically fading through settlements, shelters, Halfway House and border and says the Shadow does not speak. The primary's silent understood song was not reconciled into a single chronology or communication mode.",
+        "Tale 163's Registrum calls threat Low and Viderehan primary and says the wanderer vanished/erased from records, against the primary's corrected Moderate (β), sung Flerehan/Ferrehan method and repeated finding that he was never entered. The standalone Tale was not edited.",
+        "Stigma placement remains split inside the primary: Slot and exact item D give Tail, Master table classes it under Pendants & Chokers, Registry CSV says generic Accessory, and the primary Effect still says the song is carried as a token at the throat. Appearance now follows item D, but no tail-to-throat wearing mode was invented.",
+        "Suit construction classification remains split: primary, item C and Master detailed Entry 488 support a blue Han-silk route shroud, while Master table row 488 classes it as Hauberks & Chain Mail. The primary Suit also omits a Max Amount row although Side A/item C give maximum 4; the missing field was not silently filled.",
+        "Threshold and speed scopes remain parallel: operational threshold 3, combat activation at 60%, ultimate at 65%, breach opening at 40% plus 10% while following, Speed 1.45 m/s against an even walking pace and fixed nine-metre following distance. No conversion or number change was made.",
+        "Extraction/formation remains only narrated at set level: Side A says an echo forms after a full accompanied route is documented with identity unknown, item B forms then, item D is granted after nameless accompaniment, and fourteen primary Songs followed badly sung cycles. No general manufacture sequence joins those accounts."
+      ],
+      "split": [
+        5,
+        4
+      ],
+      "repairs": [
+        {
+          "id": "u4-r1-classification-movement",
+          "kind": "short",
+          "old": "| **Movement** | Mobile — walks upright; can breach and pursue. |",
+          "new": "| **Movement** | Mobile — walks disused ways at an even pace; in breach it follows one worker at a fixed distance and never closes. |"
+        },
+        {
+          "id": "u4-r2-detailed-movement",
+          "kind": "short",
+          "old": "| **Position / movement** | Mobile — walks upright; can breach and pursue. The Forgotten Shadow file carries the series rather than a single reading. |",
+          "new": "| **Position / movement** | Walks unenclosed Desolate routes at an even pace; if it follows, it keeps a fixed distance behind one worker and does not take the replacement. Plot each position against the disused-ways survey. |"
+        },
+        {
+          "id": "u4-r3-work-authorisation",
+          "kind": "careful",
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Flerehan and Ferrehan move the gauge; Viderehan runs for record; Pugnahan has a recorded adverse response and is barred |"
+        },
+        {
+          "id": "u4-r4-nonstriking-combat-actions",
+          "kind": "careful",
+          "old": "| { *The Unseen* [**Debuff**] } | \"The shadow stretches behind you — and no one looks at it, ever, and the not-looking is its power.\" | [The Shadow's invisibility infects the target; they feel unseen.] | *Target suffers -10 Composure; they are being overlooked.* **[10 Lament DMG [Lament]]** | When the Shadow attaches. |\n| { *The Growing Dark* [**Debuff**] } | \"The shadow grows — fed by neglect — until it is larger than you, and darker, and no one notices that either.\" | [The Shadow's overlooked growth makes it enormous; the target is dwarfed.] | *Target loses 10 Composure; they are nothing next to their shadow.* **[10 Lament DMG [Lament]]** | When the target ignores it. |\n| { *The Sudden Notice* [**Attack**] } | \"The shadow strikes — and the blow comes from the direction no one was watching.\" | [An unseen shadow-blow lands.] | *Inflicts Lament pressure and one wound from an angle that should not exist.* **[14-22 Lament DMG [Lament]]** | When the Shadow is finally looked at. |\n| { *The Full Visibility* [**Attack**] } | \"The shadow steps out of the shade all at once — every metre of it seen at the same time — and being seen is the blow.\" | [The shadow's withheld whole appears at once.] | *A heavy Lament surge; the target's Sorrow Gauge climbs 15%.* **[24-36 Lament DMG [Lament]]** | When the shadow is forced into the light. |\n| { *Every Shadow Sees* [**Ultimate**] } | \"Every forgotten shade on the way stands up at once — enormous, patient, and offended in a way that has no words in it.\" | [The shadow's neglect spreads to every unkept route in range.] | *All in range take Lament pressure for three turns of rising shades.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Unseen* [**Debuff**] } | \"The shadow stretches behind you — and no one looks at it, ever, and the not-looking is its power.\" | [It passes at walking pace; attention slides off the target as if they had never been entered in the room.] | *Target suffers -10 Composure; they are being overlooked.* **[10 Lament DMG [Lament]]** | When the Shadow begins following at a fixed distance. |\n| { *The Growing Dark* [**Debuff**] } | \"The shade deepens as it passes, and the card is the only thing that notices.\" | [Its grade darkens near people nobody is holding in mind; nobody nearby is named in the log.] | *Target loses 10 Composure; they are certain they have forgotten something important.* **[10 Lament DMG [Lament]]** | When the target is overlooked. |\n| { *The Sudden Notice* [**Attack**] } | \"It is clearest at the moment somebody says aloud that they do not know its name.\" | [The faceless route-walker becomes distinct; no blow lands and nobody is named.] | *Inflicts Lament pressure as the certainty of an important thing forgotten.* **[14-22 Lament DMG [Lament]]** | When a worker admits they do not know who it was. |\n| { *The Full Visibility* [**Attack**] } | \"Four complete registers, and no line in any of them.\" | [The whole route and its absences are perceived together while the shade keeps to the disused way.] | *A heavy Lament surge; the target's Sorrow Gauge climbs 15%.* **[24-36 Lament DMG [Lament]]** | When the route is blocked or an identity is claimed for it. |\n| { *Every Shadow Sees* [**Ultimate**] } | \"Tokens issued, tokens never presented: a count nobody can turn into names.\" | [The silent song is understood along the route; everybody present feels unentered.] | *All in range take Lament pressure for three turns of unrecorded presence.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+        },
+        {
+          "id": "u4-r5-consequence-piece-costs",
+          "kind": "short",
+          "old": "- Each M.A.W. activation takes from the wielder something the standard grade ledgers cannot enter: composure, personal memories and a portion of bodily strength, recorded against the wearer because there is nowhere else to record it.",
+          "new": "- Each M.A.W. piece prices accompaniment differently: unaccountable weeping, numbness to minor joys, and becoming easier for other people to forget. No piece supplies the wanderer's name or turns being overlooked into a safe tactical invisibility."
+        },
+        {
+          "id": "u4-r6-stigma-appearance",
+          "kind": "short",
+          "old": "**Appearance:** a song-charm of Lament Han-crystal, cool to the touch and faintly luminous, that runs briefly warm when sorrow is near and is carried at the throat as the holding's own token.",
+          "new": "**Appearance:** a warm blue Han-crystal tail song-charm vibrating below audible range; the song is carried as sensation rather than sound."
+        },
+        {
+          "id": "u4-r7-field-use-piece-signs",
+          "kind": "careful",
+          "old": "| **Before use** | Wielder, piece, and a dated baseline against the toll this file records for the source: weeping the wearer cannot account for, sealed and held by the second worker. |\n| **During use** | Every occurrence is timed: the wearer's eyes filling without a cause they can name. One is noted; a pattern across a shift ends the use, and the second worker keeps the times. |\n| **At limit** | The wearer is numb to minor joys and has stopped reporting it, which on this piece is the limit rather than a settling-in. The observer calls the limit, and the call stands. |\n| **After use** | Return the piece and open the sealed baseline: has the flatness outlasted the rotation? The entry is made either way, and where it has not lifted, the piece is not reissued to that wearer. |",
+          "new": "| **Before use** | Wielder, piece, and a dated baseline held by the second worker: unaccountable weeping for the Sabre, response to minor joys for the Shroud, and whether colleagues reliably notice and remember the bearer for the Song. |\n| **During use** | Time the piece's own sign: eyes filling without a nameable cause, small pleasures going flat without being reported, or the bearer being overlooked in ordinary exchanges. One occurrence is noted; a pattern ends the use. |\n| **At limit** | The relevant sign persists, or the bearer begins claiming the route or an identity for the Shadow. The observer calls the limit, and the call stands. |\n| **After use** | Return the piece and open the sealed baseline: has the weeping interval, flatness or forgettability outlasted the rotation? The entry is made either way, and where it has not lifted, the piece is not reissued to that wearer. |"
+        },
+        {
+          "id": "u4-r8-originator-never-entered",
+          "kind": "short",
+          "old": "**Originator:** A Desolate wanderer erased from all records.",
+          "new": "**Originator:** A Desolate wanderer who was never entered in any record."
+        },
+        {
+          "id": "u4-r9-final-observation",
+          "kind": "careful",
+          "old": "> What the observing worker is asked to do at the close of contact: walk beside it and record what it shows, or substitute their own judgement.\n\n| Walk beside it and record what it shows — its whole route, without naming it and without claiming to know who it was. | Substitute your own judgement, which on Forgotten Shadow has never yet cost less than the condition. |\n|---|---|\n| Moves closer and sings a softer verse. The sorrow is witnessed; Forgotten Shadow is fully recorded. | Grows heavy and follows aggressively. The gauge climbs and Forgotten Shadow withdraws without revelation. |",
+          "new": "> Close by walking the route beside it and entering only grade, track and singing duration. Do not turn accompaniment into a name, a biography or a register of nearby forgotten people.\n\n| Walk beside it and record what it shows — its whole route, without naming it and without claiming to know who it was. | Block the route, force it back, claim an identity for it, or log who was standing nearby when it darkened. |\n|---|---|\n| The verse softens; card grades, survey track and duration enter the record while the identity remains blank. | It grows heavier and follows the worker at a fixed distance until that worker is rotated out. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIβ-453_Forgotten_Shadow_잊혀진_그림자.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.020  clean    99 grams  Operational Parameters\n 0.009  clean   573 grams  Combat Record\n 0.008  clean   651 grams  M.A.W. Equipment\n 0.006  clean   178 grams  Breach Behavior\n 0.004  clean   269 grams  Behavior\n 0.000  clean   793 grams  Watch Record\n 0.000  clean   488 grams  감각 묘사 (Flavor Text)\n 0.000  clean   471 grams  이야기 (Narratio)\n 0.000  clean   322 grams  기록 (Registrum)\n 0.000  clean   275 grams  이야기 보고 (Story Log)\n 0.000  clean   218 grams  Appearance\n 0.000  clean   207 grams  관찰 기록 (Observation Log)\n 0.000  clean   154 grams  Origin\n 0.000  clean   134 grams  Trivia\n 0.000  clean   115 grams  증언 (Testimonium)\n 0.000  clean    86 grams  최종 관찰 (Final Observation)\n 0.000  clean    41 grams  SECC Classification\n 0.000  clean    26 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 25% against Lament pressure; 15% against other pressure types. The second figure is what the watch works with: \n   85   4  | { *Every Shadow Sees* [**Ultimate**] } | \"Tokens issued, tokens never presented: a count nobody can turn into names.\" | [The sil\n  148   1  **Reading the response:** A falling gauge means the verse is being carried and the walking is being done; the shade itself is unch\n  166   1  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% a turn while it is still following somebody. Rotating the followed worker\n  186   4  **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — the way the shadow itself works: not by st\n  233   1  | **Before use** | Wielder, piece, and a dated baseline held by the second worker: unaccountable weeping for the Sabre, response t\nGENERIC 0.003  (14 shared shingles)  SE-N-IIβ-453_Forgotten_Shadow_잊혀진_그림자.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-453-A__SIDE_CODEX_Spoor.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-453-B__MAW-W_The_Shadow_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-453-C__MAW-S_The_Shadow_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-453-D__MAW-G_The_Shadow_Song.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-453-A__SIDE_CODEX_Spoor.md": "5c7f270bcb3fd141dce2c07c951e088a25a9a7962f2d45e3a76e6f36e4812d2b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-453-B__MAW-W_The_Shadow_Requiem.md": "aa6a56358365ffce958616dc2024a3d1bcf96c847c6cf980aa0df63f615807ac",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-453-C__MAW-S_The_Shadow_Shroud.md": "529a47f6afc9681cae71ba77a5004a0a5272ab5f53e1033556064b183775c5cd",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-453-D__MAW-G_The_Shadow_Song.md": "8c73391b269705757575dc9e9b988012c15c09e51800097e72723571e892acfa",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/README.md": "1d1d76aca6a9afd48c81fa0aca3189c20d5843db905f0f10d1f9878319695159",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IIβ-453_Forgotten_Shadow_잊혀진_그림자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-453_Forgotten_Shadow_%EC%9E%8A%ED%98%80%EC%A7%84_%EA%B7%B8%EB%A6%BC%EC%9E%90.md \"SE-N-IIβ-453_Forgotten_Shadow_잊혀진_그림자.md\")]",
+      "table_link": "[Forgotten_Shadow](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-453_Forgotten_Shadow_%EC%9E%8A%ED%98%80%EC%A7%84_%EA%B7%B8%EB%A6%BC%EC%9E%90.md \"SE-N-IIβ-453_Forgotten_Shadow_잊혀진_그림자.md\")",
+      "reading": {
+        "before_lines": 431,
+        "before_bytes": 42077,
+        "final_lines": 431,
+        "final_bytes": 42536
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 121,
         "physical_form_rows_unchanged": 301,
         "tale_unchanged": true,
         "digit_sequences_unchanged": true,

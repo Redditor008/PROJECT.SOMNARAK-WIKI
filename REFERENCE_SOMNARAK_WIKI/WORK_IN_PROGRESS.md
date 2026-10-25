@@ -1,6 +1,6 @@
 # Work In Progress
 
-## Batch 180 — OPEN, 2 / 5 (2026-10-25)
+## Batch 180 — OPEN, 4 / 5 (2026-10-25)
 
 Owner `P` after CLOSED 179 authorizes this batch only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes this queue:
 
@@ -24,7 +24,11 @@ Reserves, only if three cumulative No change results extend the batch 5→7→10
 
 **Commentary:** The Writer's Hour works because it refuses a simple villain: banning speech-as-evidence prevents real abuses, and the same rule leaves an illiterate citizen procedurally invisible. I especially value the file's restraint about content. It makes the radius measurable while refusing to invent the one thing everyone wants from it—what she said.
 
-Completed 3/5; No change 0/3, so no ladder movement. Counters unchanged: 268/301 Types, 266/287 Weapon, 18/301 SE; held 159 / pending 122. Next frozen unit is Forgotten Shadow `N-IIβ-453`. Chatroom reporting now follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No Batch 181, merge, artwork or deployment is authorized. Later full recheck and the Batch301 eight-owner-body blocker remain retained.
+**Unit 4 — Forgotten Shadow `N-IIβ-453`: HELD.** Nine supported repairs (5 short / 4 careful; 7143→7216 words) scope fixed-distance following, bar Pugnahan in the valid-work row, make combat run through grade/route/song rather than blows, separate the three equipment tolls, restore the exact Song appearance, correct “erased” to never entered, and close Final Observation without inventing identity. Three Weapon forms, Tale divergence, Song placement and thresholds remain held. Batch 109 already counted the set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B180_04_FORGOTTEN_SHADOW.md).
+
+**Commentary:** The Day Token is an elegant, painful compromise: it proves attendance without recreating the dangerous register, then loses exactly the people most likely to lose a stub. I admire that the observation form protects by omission—three fields only—because here even a compassionate extra column would become a census of the forgotten.
+
+Completed 4/5; No change 0/4, so no ladder movement. Counters unchanged: 268/301 Types, 266/287 Weapon, 18/301 SE; held 160 / pending 121. Next frozen unit is Vanity Asleep `N-IIIγ-954`. Chatroom reporting now follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No Batch 181, merge, artwork or deployment is authorized. Later full recheck and the Batch301 eight-owner-body blocker remain retained.
 
 
 ## Batch 179 — CLOSED 5 / 5 (2026-10-25)

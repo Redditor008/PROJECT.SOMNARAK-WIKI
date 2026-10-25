@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch180 OPEN 3/5.** Spreading Root, Soaking Rope and Unheard HELD after seven supported repairs each; No change 0/3. Latest: [Unheard evidence](SE_APPEARANCE_REVIEWS/B180_03_UNHEARD.md). Counters unchanged; ledger held 159 / pending 122.
+**Latest: Batch180 OPEN 4/5.** Four HELD reviews and No change 0/4. Latest: [Forgotten Shadow evidence](SE_APPEARANCE_REVIEWS/B180_04_FORGOTTEN_SHADOW.md). Counters unchanged; ledger held 160 / pending 121.
 
 **Previous: Batch179 CLOSED 5/5.** Five HELD whole designs; 33 supported repairs (23 short / 10 careful), No change 0/5. Equipment coverage +1 Types / +0 Weapon (Wilderness Tide fresh all-type disposition); SE +0. [Full report](SE_APPEARANCE_REVIEWS/B179_CLOSE.md).
 
