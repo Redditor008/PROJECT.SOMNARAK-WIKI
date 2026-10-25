@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Vδ-111": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_04_THE_FINAL_DOOR.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_OPEN.json"
@@ -2935,8 +2947,29 @@
     {
       "designation": "C-Vδ-111",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-111_The_Final_Door_마지막_문.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Ten supported repairs clear the template seams off a file whose own record is unusually complete: the spliced Identification row and posture-shift appearance protocol become the nine-metre Clock stop and the survey/duration/transcript record, the boilerplate 'diagnosis, Void became structural' origin is replaced by the found-sealed record, combat stops making the frame strike or the Door swing wide, 'something alive beyond' is kept as report rather than fact, the Director's order matches the ninety-four studied cycles, and the activation banner and trivia seams speak in channels and thirteen seconds. Equipment source-review is FRESH — no earlier whole-set disposition exists — so this unit earns +1 Types / +1 Weapon with every identity fork preserved; whole design HELD, +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_04_THE_FINAL_DOOR.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/111_Final_Door/SE-111-A__SIDE_CODEX_The_Final_Door.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/111_Final_Door/SE-111-B__MAW-W_The_Final_Threshold.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/111_Final_Door/SE-111-C__MAW-S_The_Final_Threshold_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/111_Final_Door/SE-111-D__MAW-G_Thirteen_Second_Echo.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Vδ-265",
@@ -7731,6 +7764,14 @@
       "batch": 181,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_04_ECHO_COMPASS.md",
       "history_proof": "Fresh exact-set and exact-pair disposition for C-IIIβ-016 / SE-016-B / MAW-W-016-01. Current and archived WIP/CHANGELOG, B153–B156 close receipts and the ledger equipment review list contained no earlier individual disposition. B153–B156 only inventory the unchanged primary or review other units. B43/B46/B59 are interactions, quotation and prose, not pair review. The unrelated MAW-W-016 Pneumatic Harpoon Rig is not this SE-016 pair. +1 unique ALL M.A.W. Types review and +1 unique Weapon pair; no duplicate credit.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "C-Vδ-111",
+      "batch": 182,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_04_THE_FINAL_DOOR.md",
+      "history_proof": "Fresh exact SE-111 set read complete: A side codex (no M.A.W. registry, no extraction authorized), B Final Threshold glaive δ11–18/3/3 Piercing 2/50 with Sub-Vault 0 incident, C Threshold Veil 0.8/0.8/0.4/0.8 2/50, D Thirteen-Second Echo Eye 3% +3 Composure; Master Entries 388–390 (No Extraction Lens/Veil/Stigma, 50/45), Entity 497, Tale 130 complete, CSV 350–353, archetype MAW-W-111 hand-cannon GUN, disposition 442. No prior full/exact disposition across CHANGELOG volumes, WIP, reviews or ledger (R-29 restatement, HP 750, speed row only). Primary set: Redacted Hand-Cannon Void10–15/3/3 Skewer 2/50; Veil 1.2/0.8/0.3/1.1 2/45; Stigma Head 4% +3 unnamed — identity forks vs B/C/D and Side A no-extraction preserved as holds; fresh +1/+1.",
       "all_types_credit": true,
       "weapon_credit": true
     }
