@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch179 OPEN 1 / 5.** Mourning a Life I Never Lived remains HELD after nine supported repairs. Four frozen reviews pending; no smaller batch close. [Evidence](SE_APPEARANCE_REVIEWS/B179_01_MOURNING_A_LIFE_I_NEVER_LIVED.md). No new credits or180 authorization.
+**Latest: Batch179 OPEN 2 / 5.** Hollow Tree remains HELD after five supported repairs. Three frozen reviews pending; no smaller batch close. [Evidence](SE_APPEARANCE_REVIEWS/B179_02_HOLLOW_TREE.md). No new credits or 180 authorization.
 
 **Previous: Batch177 CLOSED5/5.** Five HELD whole designs;30 supported repairs. Equipment+1Types/+1Weapon; SE+0. [Full report](SE_APPEARANCE_REVIEWS/B177_CLOSE.md).
 

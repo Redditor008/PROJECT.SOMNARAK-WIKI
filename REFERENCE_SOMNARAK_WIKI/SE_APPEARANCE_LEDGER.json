@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVγ-205": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_02_HOLLOW_TREE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_OPEN.json"
@@ -1691,8 +1703,30 @@
     {
       "designation": "C-IVγ-205",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-205_Hollow_Tree_빈_나무.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Five supported repairs replace the generic creature-gait list with found root-leg relocations, mark the prohibited Work response as prohibited in the combat summary, replace Tide growth with the measured widening quiet, separate shell, cavity, quiet and standing figure in Appearance, and record the Weapon, Carapace and Gullet costs separately in field use.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_02_HOLLOW_TREE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-A__SIDE_CODEX_Timber_Maw.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-B__MAW-W_The_Hollow_Staff.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-C__MAW-S_The_Hollow_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-D__MAW-G_The_Hollow_Charm.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVγ-240",

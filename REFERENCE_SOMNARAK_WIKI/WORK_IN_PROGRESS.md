@@ -1,5 +1,16 @@
 # Work In Progress
 
+## Batch 179 — OPEN 2 / 5: Hollow Tree (2026-10-25)
+
+Five supported repairs replace the generic creature-gait list with found root-leg relocations, mark the prohibited Work response as prohibited in the combat summary, replace Tide growth with the measured widening quiet, separate shell, cavity, quiet and standing figure in Appearance, and record the Weapon, Carapace and Gullet costs separately in field use.
+
+**Commentary:** What stays with me is that the most useful act here is refusing a use. The bare chamber could read as neglect, but the file makes it disciplined care: feed the hollow a purpose and it deepens. I also trust the garden crews in this record more than the gauges, because they noticed the silence with their own ears first and kept noticing in an unofficial log nobody ordered them to keep.
+
+Whole design HELD. Five repairs: 3 short / 2 careful; LC_ALL=C words 7062 → 7493. Complete before/source/history/final readings and five checks PASS. Source fingerprints, 300 unselected primaries, 301 Physical Form rows, digit sequences and Tale unchanged. B77/B78 and B113 already credited this equipment; +0 Types / +0 Weapon / +0 SE. [Unit evidence](SE_APPEARANCE_REVIEWS/B179_02_HOLLOW_TREE.md).
+
+Three frozen units pending: WildernessTide003, WrathFlame120, DrownedRoots997. No change 0/2; minimum five remains, do not close below five or start 180. Counters 267/301 Types, 266/287 Weapon, 18/301 SE unchanged. Held 153 / pending 128. Later full recheck and Batch301 eight-owner-body blocker retained. Session continued after a break: PR14 closed not merged with its head already on NON-WIKI (see PR_14_NEVER_MERGED.md); continuation travels on draft PR15 to NON-WIKI. No merge, artwork or deployment.
+
+
 ## Batch 179 — OPEN 1 / 5: Mourning a Life I Never Lived (2026-10-22)
 
 Nine supported repairs replace unspecified creature gaits with documented low tendril flow, restore movement information in two pasted-form fields, align activation with Place-Grudge, distinguish floor exposure from unrecorded planting inside personnel, replace generic landscape/surge claims with measured intention-driven growth and its conditional actions, explain the source-body boundary, and separate all three equipment costs in field records.

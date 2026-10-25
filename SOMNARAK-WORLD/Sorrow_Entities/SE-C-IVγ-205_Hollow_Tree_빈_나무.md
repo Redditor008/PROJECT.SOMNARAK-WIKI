@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A massive dead tree that has uprooted to walk on knotted root-legs, its hollow trunk a gaping mouth that drags in whatever passes — a lumbering plant-creature of stripped bark. Lead-cold, it smells of wet stone. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Mobile — stands rooted for weeks, then walks slowly on knotted root-legs inside the Gardens. Relocations are found in the morning rather than witnessed; log the new position, lean and mouth against the floor grid instead of waiting to watch it move. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -70,7 +70,7 @@
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan, Viderehan, and Ferrehan in ordinary work. Pugnahan has a recorded response in Behavior and is prohibited there: the roots draw in and the cavity deepens. A response row is not an authorisation to use it. |
 | **Battlefield** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Sit inside or beside the Tree; do not fill it with objects |
 
@@ -101,6 +101,8 @@
 **Physical Form:** An enormous stripped tree that has pulled itself out of the ground and stands on its own roots, the trunk open from base to head height. **Movement:** it walks rarely and slowly, and it goes toward whatever the chamber holds rather than toward people.
 
 **Notable Features:** A cavity that returns nothing, a steady draw on anything loose in the room, and a quiet that spreads outward through the gardens and is measured at fixed radii.
+
+**Reading the hollow:** The stripped trunk on root-legs is the current form, not a settler preserved inside a tree. The Tale follows a planted tree whose intended gathering never arrived; it does not say a planter's body became the trunk. Keep four records apart. The shell is what can be seen and measured: bare branches, stripped bark, lean and mouth position. The cavity is the open interior a worker can sit or stand in, where speech returns nothing. The quiet beyond the bark is an effect read at the rings, not another ring of wood. The standing figure is the Gardens' return set against the Works Office count, not a measure of trunk growth. Ordinary movement is a found relocation inside the Gardens: rooted for weeks, elsewhere by morning, never witnessed on the way. Rooting through a floor and entangling whoever stands there belong to the breach record. The cracking shell, the fall and the garden-wide opening in Combat are named results under their listed triggers; they do not turn the unchanging measured trunk into a cycle of splitting and regrowth, and none of them is permission to strike, brace or fell it in ordinary work.
 
 **Identification Profile**
 
@@ -242,10 +244,10 @@ Every piece is hollow somewhere it should not be, and the set does to its wielde
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the tree's current position and last movement, and the wielder's one-sentence statement of what their work is for, written down and dated. |
-| **During use** | Any proposal the wielder makes for the ground the tree is standing on, in any form, including as a joke. |
-| **At limit** | The wielder offers to plant something. Three rotations have reached that point and all three wielders were gardeners by trade. |
-| **After use** | Read the dated sentence back to the wielder a week later and ask whether they still agree with it. Nine of eleven did not recognise having written it. |
+| **Before use** | Name the wielder and each piece carried, the tree's current position and last found movement, and the chamber inventory counted at both doors. For the Gullet, write and date the wielder's one-sentence statement of what their work is for before the piece is taken up. For the Weapon, enter which recorded profile the issued piece follows and leave the other profile out of the day's orders; the file holds both and no field entry merges them. For the Carapace, confirm nothing is packed into its hollow fold. |
+| **During use** | Enter any proposal for the ground the tree stands on, in any form, including as a joke. Keep the tolls apart: with the Weapon, places beginning to feel empty on entry; with the Carapace, the low fatigue and the sense of having been useful at something unnamed; with the Gullet, slower movement beside the ability to say what the work is for. One piece's sign is not evidence about another. |
+| **At limit** | The wielder offers to plant something. Three rotations have reached that point and all three wielders were gardeners by trade. Stand the piece down on that offer whichever piece is carried; do not wait for the other pieces' signs to appear. |
+| **After use** | Return the piece unfilled and count the inventory out again. A week later, read the dated Gullet sentence back and ask whether its author still agrees; nine of eleven did not recognise having written it. Enter Weapon emptiness and Carapace fatigue as their own after-effects with their own dates, not as part of the sentence record. |
 
 **Stat interpretation:** The grade describes extraction stability and says nothing about a set whose whole effect is a sentence a person can say for one day. Authorise on the written statement and on the week-later reading, not on the rating.
 
@@ -287,7 +289,7 @@ A worker is told the task, the hours, the standard and the pay. A worker is not 
 The emptiness of growing older while never feeling present in one's own life.
 
 **Entry 4 — <Containment Notice>**
-Management: keep the chamber bare, count what goes in and out at both doors, sit the long watches, and put nothing whatever into the cavity. Work response — Flerehan: The interior warms and accepts shared grief. (Decrease); Pugnahan: Roots tighten and the hollow deepens. (Increase); Viderehan: Shows the life and purpose that never filled it. (Stable); Ferrehan: Allows the worker to sit inside its emptiness. (Decrease). It grows slowly during the Sorrow Tide.
+Management: keep the chamber bare, count what goes in and out at both doors, sit the long watches, and put nothing whatever into the cavity. Work response — Flerehan: The interior warms and accepts shared grief. (Decrease); Pugnahan: Roots tighten and the hollow deepens. (Increase); Viderehan: Shows the life and purpose that never filled it. (Stable); Ferrehan: Allows the worker to sit inside its emptiness. (Decrease). Through a Sorrow Tide the quiet widens at the acoustic rings while the trunk itself does not change.
 
 **Entry 5 — <Archive Note>**
 The chamber is kept deliberately empty and the emptiness is provisioning rather than austerity. A hollow that is given something learns that the room provides; a hollow given nothing stays what it is. Personnel carry in only what they will carry out and the inventory is counted at both doors by different people. The garden crews outside keep their own log of which beds have gone quiet and where the birds will no longer settle, in a format copied exactly from a hand nobody at the facility can now identify.

@@ -2,7 +2,7 @@
   "batch": 179,
   "status": "OPEN",
   "required": 5,
-  "completed": 1,
+  "completed": 2,
   "no_change": 0,
   "units": [
     {
@@ -165,6 +165,148 @@
       "integrity": {
         "unselected_primary_unchanged": 300,
         "remaining_pending_fingerprints_unchanged": 129,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 11
+      }
+    },
+    {
+      "designation": "C-IVγ-205",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-205_Hollow_Tree_빈_나무.md",
+      "words": 7062,
+      "sha256": "8e444f40259eddeed847f8088c1285a3e8b3da7c0935269afc0ad733f728b02e",
+      "unit": 2,
+      "name": "Hollow Tree",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_02_HOLLOW_TREE.md",
+      "before_words": 7062,
+      "after_words": 7493,
+      "base": "659a0f7b8a85bde82ecfa065262f5001296e83ee",
+      "final_sha256": "6184134592f384542456461b5283b65578f1964517693e9ec77c2304fb9698b0",
+      "summary": "Five supported repairs replace the generic creature-gait list with found root-leg relocations, mark the prohibited Work response as prohibited in the combat summary, replace Tide growth with the measured widening quiet, separate shell, cavity, quiet and standing figure in Appearance, and record the Weapon, Carapace and Gullet costs separately in field use.",
+      "commentary": "What stays with me is that the most useful act here is refusing a use. The bare chamber could read as neglect, but the file makes it disciplined care: feed the hollow a purpose and it deepens. I also trust the garden crews in this record more than the gauges, because they noticed the silence with their own ears first and kept noticing in an unofficial log nobody ordered them to keep.",
+      "reasoning": "Subject, Subject-Body and Weight are expressly joined by the exact Side A; the primary display name Hollow Tree and the Side title Timber Maw stay distinct. The supported design is an enormous stripped tree standing on exposed root-legs, its trunk open into an acoustically dead cavity a worker can sit in, lead-cold and smelling of wet stone. No planter became the trunk: the Tale follows the planted tree itself, grown to the promised shape after its intended gathering never arrived, then hollowed from inside. Ordinary movement is a found night relocation inside the Gardens after weeks rooted in place; breach rooting through a floor is the same root-legs in a different recorded context, and nobody has witnessed the walking itself, so no gait beyond root-legs is documented. The standing figure tracks the Works Office count of unshown working lives, not trunk growth. The cracking, fall and garden-wide opening are conditional Combat results under listed triggers, not an ordinary splitting cycle. Work turns on sitting inside without proposing a use; the response table and the authorisation to act are different records. Derived equipment need not resemble the tree; the cleaver/staff, gullet provenance and Suit construction questions remain because they are same-item conflicts, not donor differences. Neutral under R19 retained: the Saint withdraws without effect, the Flower flowers without figure change, and the Colossus stay lowers the Tree figure without the Tree aiding any holding. The final whole-design outcome is HELD, not independently completed.",
+      "history": "Batch 77 unit 5 and Batch 78 unit 5 already counted the exact SE-205-B Weapon hold (cleaver supported by primary/Master Entry 217, staff by Side/item, no transition). Batch 113 unit 1 (734b6e0) completed the full-SE disposition, named the Side-supported +2 Resolve, and expressly did not recount the Weapon. Current WIP Batch 113 opening/evidence/history and CHANGELOG Batch 77/78 entries reread. +0 Types / +0 Weapon / +0 SE. The Batch 113 cross-source review block inside the primary remains intact.",
+      "holds": [
+        "Same Weapon, two profiles: the primary first profile, Master Entry 217 and archetype MAW-W-205 describe a two-metre living jaw-cleaver; the primary second profile, Side A weapon card and SE-205-B describe a Han-absorption staff with different damage, speed and pattern, and the personalization note calls W-205 the first true staff, while the archetype row lists Close. No transition, mode change or issue choice is documented. The Apex cutting lead carrying the Timber-Jaw fits cutting work but does not settle the staff record. Held since Batch 77/78; field records now name the issued profile without merging them.",
+        "Tending span: Origin, Viderehan, Registrum and Apex give ninety-one years by eleven rotas with the hollow opening around the eightieth year; Story Entry 1 and the Registry Addendum give sixty years of correct tending, while sixty years is also the span of trunk measurement. No scope distinguishes total tending from a Gardens-era subset. The spans were not normalised by majority or by arithmetic.",
+        "Older standalone Registrum in Tale 73 gives Comprehension Level 3, Threat Low, Ferrehan as primary, a static tree and SED/UCD faction involvement, against the primary Level 2, Major threat, Flerehan primary, a walking tree and no faction. The primary Registry Trivia already surfaces the level and threat discrepancies as unresolved; no transfer, re-rating or knowledge-stage chronology is supplied.",
+        "Pugnahan permission: the primary prohibits Pugnahan in response, phases, escalation and Registrum because it deepens the cavity; Side A reserves directed Pugnahan for breach suppression and turning after corridors clear. The combat summary now states the primary prohibition. No directed-use clearance was imported or granted.",
+        "Extraction and Stigma provenance: Operational Notes authorise root-crown extraction while Resistance says the trunk has never been cut and a core sample was refused; the primary says eleven gullets were cut from heartwood and issued to watch Wardens. Side A says no bark, root or material is cut and shapes only settled residue; the Suit condenses from a worker's shoulders; the Stigma is an unmanufactured single bestowal that cannot be copied. No harvesting or copying bridge was invented.",
+        "Stigma form and function: primary seed-shaped hollow charm that tests whether a held thing's purpose still exists; SE-205-D thumb-length bark-grain steel that tilts toward a waiting place and expressly cannot locate persons or prescribe filling; Master Entry 219 teeth-ring at the collar; Registry CSV generic Accessory at a different acquisition figure from the primary and item. Head slot and the Resolve bonus align after Batch 113; silhouette and discernment scope do not.",
+        "Suit construction: primary stripped bark-fibre mantle with a hollow at the back; SE-205-C petrified bark plates and Han-weave with a persistent hand-width gap and empty shoulder; Master Entry 218 files it under a Living Chitin bucket. Resistance figures align across primary, Side and item. A derived garment need not copy the tree, but no same-item construction crosswalk is given.",
+        "Gauge scopes stay separate: starting range, combat activation threshold, two-condition operational countdown, breach opening with per-interval rise, hit-point figure and the Gardens standing figure are distinct fields with distinct sources. The breach opening below the starting range and the shared hit-point/standing value have no stated scope rule. None were merged into one trigger or one meaning.",
+        "Interior state and trunk closure: Flavor gives simply room with no cold, first contact gives a dry cold interior, and Flerehan warms it, without a stated worked/unworked temperature rule. The Interaction Pattern measures pairings by whether the trunk is open or closed and says it has closed twice, but the three recorded pairings do not identify two closings or their condition. No open/close cycle was invented."
+      ],
+      "split": [
+        3,
+        2
+      ],
+      "repairs": [
+        {
+          "kind": "short",
+          "old": "| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |",
+          "new": "| **Movement** | Mobile — stands rooted for weeks, then walks slowly on knotted root-legs inside the Gardens. Relocations are found in the morning rather than witnessed; log the new position, lean and mouth against the floor grid instead of waiting to watch it move. |",
+          "evidence": "Physical Form knotted root-legs; Appearance and Detailed Profile rooted-for-weeks, night walking inside the wall, never seen in motion, found rather than witnessed; Appearance protocol lean/mouth/floor grid. Removes unevidenced alternative gaits without changing Physical Form."
+        },
+        {
+          "kind": "short",
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Flerehan, Viderehan, and Ferrehan in ordinary work. Pugnahan has a recorded response in Behavior and is prohibited there: the roots draw in and the cavity deepens. A response row is not an authorisation to use it. |",
+          "evidence": "Behavior Pugnahan Prohibited/Increase; Recommended response, Battle Phases, Escalation Notes and Registrum repeat the prohibition. Summary cell aligned to the primary's own rule; Side A directed-suppression wording left as a held permission conflict, not imported."
+        },
+        {
+          "kind": "short",
+          "old": "It grows slowly during the Sorrow Tide.",
+          "new": "Through a Sorrow Tide the quiet widens at the acoustic rings while the trunk itself does not change.",
+          "evidence": "Observation Log Tide line and Story Entry 2: quiet widens at the rings, hollow unchanged, no growth or decay; Operational Notes sixty years of measurement without growth. Replaces the lone Tide-growth claim in Story Entry 4 with the file's own measured account."
+        },
+        {
+          "kind": "careful",
+          "old": "**Notable Features:** A cavity that returns nothing, a steady draw on anything loose in the room, and a quiet that spreads outward through the gardens and is measured at fixed radii.",
+          "new": "**Notable Features:** A cavity that returns nothing, a steady draw on anything loose in the room, and a quiet that spreads outward through the gardens and is measured at fixed radii.\n\n**Reading the hollow:** The stripped trunk on root-legs is the current form, not a settler preserved inside a tree. The Tale follows a planted tree whose intended gathering never arrived; it does not say a planter's body became the trunk. Keep four records apart. The shell is what can be seen and measured: bare branches, stripped bark, lean and mouth position. The cavity is the open interior a worker can sit or stand in, where speech returns nothing. The quiet beyond the bark is an effect read at the rings, not another ring of wood. The standing figure is the Gardens' return set against the Works Office count, not a measure of trunk growth. Ordinary movement is a found relocation inside the Gardens: rooted for weeks, elsewhere by morning, never witnessed on the way. Rooting through a floor and entangling whoever stands there belong to the breach record. The cracking shell, the fall and the garden-wide opening in Combat are named results under their listed triggers; they do not turn the unchanging measured trunk into a cycle of splitting and regrowth, and none of them is permission to strike, brace or fell it in ordinary work.",
+          "evidence": "Whole chain: Tale planted tree without human transformation; Appearance shell/cavity/rings separation; Apex Standing Figure Works Office meaning; Detailed unseen found relocations versus Breach floor-rooting; Combat Split/Topple/Forest listed triggers versus measured no-growth trunk. Concrete subject/effect/figure boundaries; no new anatomy, cycle, permission or number."
+        },
+        {
+          "kind": "careful",
+          "old": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, the tree's current position and last movement, and the wielder's one-sentence statement of what their work is for, written down and dated. |\n| **During use** | Any proposal the wielder makes for the ground the tree is standing on, in any form, including as a joke. |\n| **At limit** | The wielder offers to plant something. Three rotations have reached that point and all three wielders were gardeners by trade. |\n| **After use** | Read the dated sentence back to the wielder a week later and ask whether they still agree with it. Nine of eleven did not recognise having written it. |",
+          "new": "| Stage | Required record |\n|---|---|\n| **Before use** | Name the wielder and each piece carried, the tree's current position and last found movement, and the chamber inventory counted at both doors. For the Gullet, write and date the wielder's one-sentence statement of what their work is for before the piece is taken up. For the Weapon, enter which recorded profile the issued piece follows and leave the other profile out of the day's orders; the file holds both and no field entry merges them. For the Carapace, confirm nothing is packed into its hollow fold. |\n| **During use** | Enter any proposal for the ground the tree stands on, in any form, including as a joke. Keep the tolls apart: with the Weapon, places beginning to feel empty on entry; with the Carapace, the low fatigue and the sense of having been useful at something unnamed; with the Gullet, slower movement beside the ability to say what the work is for. One piece's sign is not evidence about another. |\n| **At limit** | The wielder offers to plant something. Three rotations have reached that point and all three wielders were gardeners by trade. Stand the piece down on that offer whichever piece is carried; do not wait for the other pieces' signs to appear. |\n| **After use** | Return the piece unfilled and count the inventory out again. A week later, read the dated Gullet sentence back and ask whether its author still agrees; nine of eleven did not recognise having written it. Enter Weapon emptiness and Carapace fatigue as their own after-effects with their own dates, not as part of the sentence record. |",
+          "evidence": "Existing Field Use sentence/week-later protocol retained for the Gullet; Weapon Cost emptiness of places, Carapace Cost fatigue/unnamed usefulness and unclosable hollow fold, both-doors inventory and Batch 113 two-profile hold already in the primary. Separates three costs without merging cleaver/staff or inventing a combined set toll."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVγ-205_Hollow_Tree_빈_나무.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.000  clean  1227 grams  Apex Record\n 0.000  clean   726 grams  M.A.W. Equipment\n 0.000  clean   481 grams  Combat Record\n 0.000  clean   455 grams  감각 묘사 (Flavor Text)\n 0.000  clean   420 grams  이야기 (Narratio)\n 0.000  clean   402 grams  Appearance\n 0.000  clean   296 grams  이야기 보고 (Story Log)\n 0.000  clean   259 grams  기록 (Registrum)\n 0.000  clean   213 grams  Origin\n 0.000  clean   189 grams  관찰 기록 (Observation Log)\n 0.000  clean   131 grams  Breach Behavior\n 0.000  clean   125 grams  Trivia\n 0.000  clean   118 grams  Operational Parameters\n 0.000  clean    92 grams  Behavior\n 0.000  clean    62 grams  최종 관찰 (Final Observation)\n 0.000  clean    45 grams  증언 (Testimonium)\n 0.000  clean    34 grams  SECC Classification\n 0.000  THIN      5 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "GENERIC 0.000  (0 shared shingles)  SE-C-IVγ-205_Hollow_Tree_빈_나무.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-A__SIDE_CODEX_Timber_Maw.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-B__MAW-W_The_Hollow_Staff.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-C__MAW-S_The_Hollow_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-D__MAW-G_The_Hollow_Charm.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-A__SIDE_CODEX_Timber_Maw.md": "0935ab333f733673dd9fb7da47b881760ceb523970de6c7d70e05971a650c12f",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-B__MAW-W_The_Hollow_Staff.md": "bb81d5758d0499455070efb0f5e6adb1b56174f05cc9a7a9ddd011276d9ea700",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-C__MAW-S_The_Hollow_Mantle.md": "f790139ecc4cddb910b4de9eb306862cb264a22476fd929f24010fded485d26c",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-D__MAW-G_The_Hollow_Charm.md": "7fa3a4d10eb4067b44ec0f683f44fa2e5dd8066b784c6ccdd5ad11da2b998b32",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/README.md": "b572b25e98c0b896de2100bec826c2857da44daa9059f0c25bd72a2def719448",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVγ-205_Hollow_Tree_빈_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-205_Hollow_Tree_%EB%B9%88_%EB%82%98%EB%AC%B4.md \"SE-C-IVγ-205_Hollow_Tree_빈_나무.md\")]",
+      "table_link": "[Hollow_Tree](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-205_Hollow_Tree_%EB%B9%88_%EB%82%98%EB%AC%B4.md \"SE-C-IVγ-205_Hollow_Tree_빈_나무.md\")",
+      "reading": {
+        "before_lines": 443,
+        "before_bytes": 42167,
+        "final_lines": 445,
+        "final_bytes": 44660
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 128,
         "physical_form_rows_unchanged": 301,
         "tale_unchanged": true,
         "digit_sequences_unchanged": true,
