@@ -1,6 +1,6 @@
 # Work In Progress
 
-## Batch 181 — OPEN, 4 / 5 (2026-10-25)
+## Batch 181 — OPEN, 5 / 5 (2026-10-25)
 
 Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only `LC_ALL=C wc -w` ranking from the authoritative 301-path ledger, with designation-byte ties, freezes this queue:
 
@@ -30,7 +30,11 @@ Opening baseline audits PASS: archive health, timeline, semantic seam and box sy
 
 **Commentary:** The compass's central cruelty is that it answers the question it was built to answer, and the answer cannot be safely used. I appreciate the district's refusal to translate degrees into locations; it forces the institution to live with knowledge it can neither discharge nor lawfully act on. The channel still carries two incompatible duration instructions, so the instrument's operating boundary remains unsettled.
 
-Completed 4/5; No change 0/4. Next frozen unit: Harbinger `N-IIIβ-155`. Counters now 269/301 Types, 267/287 Weapon and 18/301 SE Appearance Fix; held 165 / pending 116. Draft PR #15 stays owner-controlled. No Batch 182, merge, artwork or deployment is authorized.
+**Unit 5 — Harbinger `N-IIIβ-155`: HELD.** Six supported repair groups (2 short / 4 careful; 7254→7375 words) align the visible following shadow and its distance to mirror evidence, replace debt-interest prose with the warning interval, and distinguish noncontact readings from combat/event models. Exact set and Weapon pair were already counted in Batch 131: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B181_05_HARBINGER.md).
+
+**Commentary:** The gap between decision and notice is the real body of this file; the shadow stays outside arm's reach but is visible to everyone except the person it follows. The Standing Notice is uneasy because it does not prove notification is harmless—it puts a right to know beside the documented cost of waiting. I especially trust the measured distance because it does not pretend to resolve who owes what.
+
+All five frozen units are complete. No change 0/5, so the ladder does not extend. The closure gate is next. Counters: 269/301 Types, 267/287 Weapon and 18/301 SE Appearance Fix; held 166 / pending 115. Reserves are unchanged. Draft PR #15 stays owner-controlled. No Batch 182, merge, artwork or deployment is authorized.
 
 ## Batch 180 — CLOSED, 5 / 5 (2026-10-25)
 

@@ -1,0 +1,175 @@
+{
+  "unit": 5,
+  "name": "Harbinger",
+  "designation": "N-IIIβ-155",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-155_Harbinger_추징관의_그림자.md",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_05_HARBINGER.md",
+  "status": "held",
+  "no_change": false,
+  "opening_words": 7254,
+  "before_words": 7254,
+  "short_stage_words": 7278,
+  "after_words": 7375,
+  "sha256": "cc5bcdfac27686b5bb1c9554f44d2564b0fde73421acf305a6058835c49bf415",
+  "final_sha256": "cad6c14d652d14d48e95d986f0ac8d497c7a43d1ad05a9f8a27c9e0a756a18f3",
+  "base": "e358e227f8a982ca80b0a550cd7d5fb2f3c355a8",
+  "summary": "Six supported repair groups (2 short / 4 careful; 7254→7375 words) align the appearance fields with the measured mirror-distance design, replace unqualified attaching/striking and debt-interest prose with the file's no-contact and warning-interval record, and distinguish the documented four-person transformation from broader combat models. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+  "commentary": "The gap between decision and notice is the real body of this file; the shadow stays outside arm's reach but is visible to everyone except the person it follows. The Standing Notice is uneasy because it does not prove notification is harmless—it puts a right to know beside the documented cost of waiting. I especially trust the measured distance because it does not pretend to resolve who owes what.",
+  "reasoning": "R-33 chain: Subject → Subject-Phantasmal / Weight → dread of an adverse decision already made but not yet delivered, distinct from the debt itself → a castless human-shaped shadow seen at the edge or in fixed mirrors behind a followed subject → a measured gap that closes with the obligation, while the entity never pursues, touches, speaks or collects → Work responses manage the warning and distance; the ledger balance remains a separate column → the event record describes a transformation in place in which warning intervals shorten, while combat prose elsewhere describes attacks and physical shadow changes → the M.A.W. pieces are separate tools and cannot be used to strike this bodyless/untouching holding. The edits tie claims to the mirror, distance and notice record; essential combat, event and equipment contradictions remain held.",
+  "history": "Batch 131 / unit 1 previously completed the exact primary and SE-155-A–D source review. It earned +1 ALL M.A.W. Types Appearance and +1 Weapon for the exact N-IIIβ-155 / MAW-W-155-01 disposition; those credits are already inside the current counters. Batch 31 and Batch 52 were earlier prose/section work, not this exact pair review. This new independent SE appearance review cannot duplicate equipment credits.",
+  "holds": [
+    "The source repeatedly says no physical contact, no speech and no action in watch records, while combat text still describes attaching, throat strikes, a full ledger reveal and attacks; the revised lines distinguish the mirror image and interval from a physical body, but the remaining modeled attacks are not established observations.",
+    "The classification calls the holding non-breaching but also says transformation in place; the event record has two transformation events resolved by notice, while some combat effects describe the whole room changing. Their relation is kept unresolved, not normalized to escape or physical spread.",
+    "The primary describes an interval between a decision and its notice, not the debt itself. The combat Full Audit still speaks as though every debt/interest item arrives at once; financial facts, notice timing and emotional pressure remain distinct and are not verified by the shadow.",
+    "M.A.W. descriptions and history conflict with the primary's no-extraction/untested-use account. The primary has a Han-steel maul, greave-step and charm; item B/C/D add verified-balance extraction, return-call and review/bestowal rules, while the Master classes the suit as Living Chitin & Carapace. The Maul's Wrong-Shadow Mallet/Short archetype, broad primary equipment story and individual forms are not crosswalked. No equipment section was changed.",
+    "The Tale has Echo (II), Viderehan-only and older containment/accounting language against the primary's Fragment (III), four Work Types and current Standing Notice. The primary documents corrections to some old entries but does not reconcile the Tale as a whole; the Tale and master source were not edited.",
+    "The Warning interval is not the balance: the exact Collection outcome, whether the decision has been disclosed, and whether the Shadow's pressure ever affects a real account remain separate record fields. No liability, verdict, official debt or payment was invented by this review."
+  ],
+  "r18_split": {
+    "batch_short": 2,
+    "careful_detail": 4
+  },
+  "repairs": [
+    {
+      "id": "u5-r01-primary-shadow-form-and-distance",
+      "kind": "short",
+      "old": "**Primary Form:** A human-shaped shadow that follows debtors without speaking. It is visible only from the corner of the eye or in reflected light.",
+      "new": "**Primary Form:** A human-shaped shadow cast by nothing, visible only from the corner of the eye or in reflections. It stands behind its subject at the distance recorded in the fixed mirrors and makes no contact."
+    },
+    {
+      "id": "u5-r02-detailed-shadow-form-and-distance",
+      "kind": "short",
+      "old": "| **Form** | A human-shaped shadow that follows debtors without speaking. It is visible only from the corner of the eye or in reflected light. |",
+      "new": "| **Form** | A human-shaped shadow cast by nothing, visible only from the corner of the eye or in reflections. It stands behind its subject at the distance recorded in the fixed mirrors and makes no contact. |"
+    },
+    {
+      "id": "u5-r03-position-as-measured-shadow",
+      "kind": "careful-detail",
+      "replacements": [
+        {
+          "old": "| **Position / movement** | Mobile — walks upright; moves within its own zone and does not pursue. Recorded at every Harbinger cycle against the previous reading. |",
+          "new": "| **Position / movement** | In its own zone, recorded behind the subject at the distance shown by fixed mirrors. The series closes with the obligation and may be found at an address the subject left; no pursuit or physical contact is recorded. |"
+        }
+      ]
+    },
+    {
+      "id": "u5-r04-combat-prose-versus-noncontact-record",
+      "kind": "careful-detail",
+      "replacements": [
+        {
+          "old": "| { *The Following Dark* [**Debuff**] } | \"Your shadow has changed — it is taller now, wearing a coat it did not wear this morning.\" | [The Collector's shadow attaches to the target; it follows them.] | *Target suffers -10 Resolve; their own shadow has been replaced.* **[10 Weight DMG [Weight]]** | When the target owes a debt. |",
+          "new": "| { *The Following Dark* [**Debuff**] } | \"The mirror shows it behind you, at a distance the Warden can measure.\" | [The fixed mirror records the human-shaped shadow behind its subject; the source says it does not touch anyone.] | *Target suffers -10 Resolve in the encounter model; the source record documents no physical shadow replacement.* **[10 Weight DMG [Weight]]** | When the target owes a debt. |"
+        },
+        {
+          "old": "| { *The Shadow Hand* [**Attack**] } | \"The collector's shadow reaches from your own — and its hand closes on your throat.\" | [The attached shadow strikes from within the target's own silhouette.] | *Inflicts Weight pressure and one wound of internal debt-collection.* **[14-22 Weight DMG [Weight]]** | When the target resists payment. |",
+          "new": "| { *The Shadow Hand* [**Attack**] } | \"A reported image of a hand reaches at the throat; the figure itself remains behind the subject.\" | [The combat record describes a reflected reach, but the primary says Harbinger has never made contact.] | *Modelled Weight pressure; this action does not establish a physical wound.* **[14-22 Weight DMG [Weight]]** | In the combat model, when the target resists payment; no payment-response event is documented. |"
+        }
+      ]
+    },
+    {
+      "id": "u5-r05-warning-interval-not-debt-interest",
+      "kind": "careful-detail",
+      "replacements": [
+        {
+          "old": "| { *The Lengthening Bill* [**Debuff**] } | \"The shadow grows taller with every passing minute — and the taller it gets, the more you owe.\" | [The Collector's shadow accrues debt-interest in real-time.] | *Target loses 10 Resolve; the debt is compounding with every breath.* **[10 Weight DMG [Weight]]** | When the target tries to ignore it. |",
+          "new": "| { *The Lengthening Bill* [**Debuff**] } | \"The warning interval closes; the ledger balance is recorded separately.\" | [The fixed-mirror distance closes as the decision approaches; the balance remains in the adjacent Collectors' column.] | *Target loses 10 Resolve as the warning period narrows; no increased debt amount is recorded.* **[10 Weight DMG [Weight]]** | When an announcement remains unacted on; three is the recorded margin and the interval closes before a fourth. |"
+        }
+      ]
+    },
+    {
+      "id": "u5-r06-transform-event-versus-ultimate-model",
+      "kind": "careful-detail",
+      "replacements": [
+        {
+          "old": "| { *Everyone Has a Shadow* [**Ultimate**] } | \"The collector's shadow spreads — to every person — until every shadow wears the same coat, and every shadow carries the same ledger.\" | [The shadow stops belonging to one collector and falls behind every person in the room at the same angle.] | *All in range suffer Weight pressure for three turns of debt-collector shadows.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *Everyone Has a Shadow* [**Ultimate**] } | \"The event record placed Harbinger behind four people at once; nobody is to turn around.\" | [The model generalizes the recorded four-subject transformation to everyone in the room; the event record describes warning intervals shortening across the Row, not every physical shadow changing at once.] | *The three-turn area Weight effect remains a combat model; the event record ends by notifying each followed subject.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | The combat model triggers at 65%; the event record instead describes a third unacted announcement and a shortening warning interval. The trigger mapping is unresolved. |"
+        },
+        {
+          "old": "| **Movement** | It attaches behind several subjects at once and holds station on each. It does not seep, does not fill corridors, and does not seek anybody out: it is already where the obligation is. The earlier entry describing it flooding the facility has been struck. |",
+          "new": "| **Movement** | The event is described as a simultaneous presence behind four subjects, not a body crossing corridors: Harbinger has never made physical contact and the record says it holds its distance on each. The event changes warning intervals across the Row; its relation to the non-breaching classification remains unresolved. |"
+        }
+      ]
+    }
+  ],
+  "validators": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-N-IIIβ-155_Harbinger_추징관의_그림자.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.022  clean   138 grams  Operational Parameters\n 0.013  clean   632 grams  M.A.W. Equipment\n 0.008  clean   119 grams  최종 관찰 (Final Observation)\n 0.007  clean   546 grams  Combat Record\n 0.007  clean   145 grams  Containment Event Behavior\n 0.006  clean   467 grams  기록 (Registrum)\n 0.000  clean   759 grams  Warden Record\n 0.000  clean   541 grams  감각 묘사 (Flavor Text)\n 0.000  clean   380 grams  이야기 (Narratio)\n 0.000  clean   316 grams  이야기 보고 (Story Log)\n 0.000  clean   242 grams  관찰 기록 (Observation Log)\n 0.000  clean   221 grams  Appearance\n 0.000  clean   182 grams  Trivia\n 0.000  clean   169 grams  Origin\n 0.000  clean   132 grams  증언 (Testimonium)\n 0.000  clean   116 grams  Behavior\n 0.000  clean    38 grams  SECC Classification\n 0.000  THIN      3 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   3  | **Han-Energy yield** | 12–18 per successful work cycle, read off the ledger column rather than the watch |\n   84   4  | { *The Full Audit* [**Attack**] } | \"The collector's shadow reveals its full ledger — every debt, every interest charge — and it\n  166   1  - **Sorrow Gauge on event:** Opens at 40% and rises 10% a cycle while the matter goes unaddressed. It falls when the subject is to\n  176   5  **Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that glows along its edge the moment it \n  199   2  **Appearance:** a greave-plate of Weight Han-steel, matte and unnaturally heavy, that rides closer the nearer the wearer comes to \n  219   2  **Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that takes the light without returning any of it.\n  241   2  | **Before use** | Wielder, piece, and a dated baseline written against the recorded toll — the bearer carrying weight for days an\n  243   1  | **At limit** | The bearer stops noticing the toll at all, and the sign is not theirs to see: people forget the wearer was presen\n  292   1  > Two ways to close a watch at the mirrors, and the file prices them by what happens to the person standing in front of them: one \n  368   1  - The Standing Notice is a containment condition of this holding, and it binds every adverse decision the facility opens against a\n  374   2  **Faction Involvement:** SED, on the D-territory survey · UCD, for the Fray-adjacent ground · the Collectors' offices, who supply \nGENERIC 0.004  (24 shared shingles)  SE-N-IIIβ-155_Harbinger_추징관의_그림자.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/155_Harbinger/SE-155-A__SIDE_CODEX_Harbinger.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/155_Harbinger/SE-155-B__MAW-W_The_Shadow_Maul.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/155_Harbinger/SE-155-C__MAW-S_The_Shadow_Step.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/155_Harbinger/SE-155-D__MAW-G_The_Shadow_Charm.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/README.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS_VOL_01.md",
+    "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS_VOL_02.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/155_Harbinger/SE-155-A__SIDE_CODEX_Harbinger.md": "feb301dce7d33d53b4e0175d502c27648fac83b2a7fcea951dcabe7b0db58084",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/155_Harbinger/SE-155-B__MAW-W_The_Shadow_Maul.md": "af5fb5ddc6fab94d0cf72c00ffe9f567493a7b19a42af606b8c25a5124349578",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/155_Harbinger/SE-155-C__MAW-S_The_Shadow_Step.md": "8f19c59b18f071600a427de625688471ca70e9ae4368d750d914dd03f555d523",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/155_Harbinger/SE-155-D__MAW-G_The_Shadow_Charm.md": "33641b3d0db629a0529324b481657a26dedd87c264097a78f70e0bfeba5d1a3c",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/README.md": "4fd7f32fb965595c87ba317faa4e9c7ee89844d47f7daa8eccce58dc7f6198cd",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS_VOL_01.md": "48195db09616ef7e65ba0d793dc67be40a668d6156fdabe3f3dbfc7773cd779b",
+    "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS_VOL_02.md": "522dfd5edd51cad9e4fc21a5c2967e99c5a11c74c599c3245e476e11c096ab16"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "table_link": "[Harbinger](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-155_Harbinger_%EC%B6%94%EC%A7%95%EA%B4%80%EC%9D%98_%EA%B7%B8%EB%A6%BC%EC%9E%90.md \"SE-N-IIIβ-155_Harbinger_추징관의_그림자.md\")",
+  "reading": {
+    "before_lines": 429,
+    "after_lines": 429,
+    "before_bytes": 43742,
+    "after_bytes": 44553
+  },
+  "integrity": {
+    "repair_reconstruction_from_opening": true,
+    "other_opening_pending_fingerprints_unchanged": 115,
+    "other_opening_pending_fingerprints_total": 115,
+    "physical_form_row_unchanged": true,
+    "m_a_w_equipment_section_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_artifacts_hashed": 13,
+    "visual_art_or_browser_inspection": "not performed / not in scope"
+  }
+}

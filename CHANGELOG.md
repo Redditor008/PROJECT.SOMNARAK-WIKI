@@ -8,7 +8,7 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 181 — OPEN, 4 / 5 (2026-10-25)
+## Batch 181 — OPEN, 5 / 5 (2026-10-25)
 
 Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes Homecoming Tree `C-Iα-869` (7183), Grimoire `C-IIβ-906` (7219), Sky of Borrowed Faces `O-IIIγ-926` (7249), The Echo Compass `C-IIIβ-016` (7252), and Harbinger `N-IIIβ-155` (7254). Reserves, used only if the No change ladder extends the batch, are Cenotaph `N-IVδ-525`, Kind Healer's Shadow `N-IIβ-280`, Double Mouth `C-IIβ-716`, The Final Door `C-Vδ-111`, and Carrying Nothing `C-IIβ-357`. Baseline archive/timeline/seam/box audits PASS.
 
@@ -26,7 +26,11 @@ Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only
 
 **Commentary:** The compass's central cruelty is that it answers the question it was built to answer, and the answer cannot be safely used. I appreciate the district's refusal to translate degrees into locations; it forces the institution to live with knowledge it can neither discharge nor lawfully act on. The channel still carries two incompatible duration instructions, so the instrument's operating boundary remains unsettled.
 
-Completed 4/5; No change 0/4; held 165 / pending 116. Next is Harbinger `N-IIIβ-155`. No Batch 182, merge, artwork or deployment is authorized.
+**Unit 5 — Harbinger `N-IIIβ-155`: HELD.** Six supported repair groups (2 short / 4 careful; 7254→7375 words) align mirror appearances and distance, correct a debt-interest claim to the measured warning interval, and mark physical-looking attacks and the all-Row model against the no-contact record. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_05_HARBINGER.md). Batch 131 already counted the exact set and Weapon pair: +0/+0/+0.
+
+**Commentary:** The gap between decision and notice is the real body of this file; the shadow stays outside arm's reach but is visible to everyone except the person it follows. The Standing Notice is uneasy because it does not prove notification is harmless—it puts a right to know beside the documented cost of waiting. I especially trust the measured distance because it does not pretend to resolve who owes what.
+
+All five units are complete. No change 0/5, so no ladder extension. The closure gate is next; counters are 269/301 Types, 267/287 Weapon and 18/301 SE. Held 166 / pending 115. No Batch 182, merge, artwork or deployment is authorized.
 
 ## Batch 180 — CLOSED, 5 / 5 (2026-10-25)
 
