@@ -1,5 +1,17 @@
 # Work In Progress
 
+## Batch 182 — OPEN, 0 / 5 (2026-10-26)
+
+Owner “p p” in this session. Batch 181 was found already CLOSED on origin by another session acting on the same instruction (closure `8a5326d`); a stale-snapshot restore was leveled with `tools/syncbranch.py` before any edit, no work lost. This session applies its authorization to Batch 182 only. A fresh pending-only `LC_ALL=C wc -w` ranking from the authoritative 301-path ledger, with designation-byte ties, freezes this queue:
+
+1. Cenotaph `N-IVδ-525` — 7261 words
+2. Kind Healer's Shadow `N-IIβ-280` — 7266 words
+3. Double Mouth `C-IIβ-716` — 7277 words
+4. The Final Door `C-Vδ-111` — 7277 words
+5. Carrying Nothing `C-IIβ-357` — 7304 words
+
+Reserves, only if three cumulative No change results extend the batch 5→7→10: Bridge to Nowhere `C-IVδ-260`, Echo of Kindness `C-Iα-240`, Stranded Between Two Shores `C-IVδ-823`, Cleaved `C-IIβ-775`, Cracked Mirror `C-IIβ-310`. Baseline archive/timeline/seam/box audits PASS. Completed 0/5; No change 0/0. Counters: 269/301 Types, 267/287 Weapon, 18/301 SE; held 166 / pending 115. Chatroom reporting follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No Batch 183, merge, artwork or deployment is authorized.
+
 ## Batch 181 — CLOSED, 5 / 5 (2026-10-25)
 
 Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only `LC_ALL=C wc -w` ranking from the authoritative 301-path ledger, with designation-byte ties, freezes this queue:

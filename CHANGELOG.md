@@ -8,6 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 182 — OPEN, 0 / 5 (2026-10-26)
+
+Owner “p p” in this session; Batch 181 was found already CLOSED on origin by another session acting on the same instruction, and a stale-snapshot restore was leveled by `tools/syncbranch.py` before any edit. This session applies its authorization to Batch 182 only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes Cenotaph `N-IVδ-525` (7261), Kind Healer's Shadow `N-IIβ-280` (7266), Double Mouth `C-IIβ-716` (7277), The Final Door `C-Vδ-111` (7277), and Carrying Nothing `C-IIβ-357` (7304). Reserves are Bridge to Nowhere `C-IVδ-260`, Echo of Kindness `C-Iα-240`, Stranded Between Two Shores `C-IVδ-823`, Cleaved `C-IIβ-775`, and Cracked Mirror `C-IIβ-310`, used only if the No change ladder extends the batch. Baseline archive/timeline/seam/box audits PASS. No Batch 183, merge, artwork or deployment is authorized.
+
 ## Batch 181 — CLOSED, 5 / 5 (2026-10-25)
 
 Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes Homecoming Tree `C-Iα-869` (7183), Grimoire `C-IIβ-906` (7219), Sky of Borrowed Faces `O-IIIγ-926` (7249), The Echo Compass `C-IIIβ-016` (7252), and Harbinger `N-IIIβ-155` (7254). Reserves, used only if the No change ladder extends the batch, are Cenotaph `N-IVδ-525`, Kind Healer's Shadow `N-IIβ-280`, Double Mouth `C-IIβ-716`, The Final Door `C-Vδ-111`, and Carrying Nothing `C-IIβ-357`. Baseline archive/timeline/seam/box audits PASS.

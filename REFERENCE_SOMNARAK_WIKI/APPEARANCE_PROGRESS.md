@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch181 CLOSED 5/5.** Five HELD reviews, 36 supported repair groups (16 short / 20 careful), No change 0/5. Equipment coverage +1 Types / +1 Weapon; SE +0. [Close report](SE_APPEARANCE_REVIEWS/B181_CLOSE.md). Counters: 269/301 Types, 267/287 Weapon, 18/301 SE; held 166 / pending 115. Batch182 is not authorized.
+**Latest: Batch182 OPEN 0/5.** Owner “p p” applied to Batch 182 after Batch 181 was found CLOSED on origin. Queue: Cenotaph, Kind Healer's Shadow, Double Mouth, The Final Door, Carrying Nothing. Counters: 269/301 Types, 267/287 Weapon, 18/301 SE; held 166 / pending 115.
 
 **Previous: Batch180 CLOSED 5/5.** Five HELD reviews, 39 supported repairs, No change 0/5. [Close report](SE_APPEARANCE_REVIEWS/B180_CLOSE.md). Counters unchanged; ledger held 161 / pending 120.
 
