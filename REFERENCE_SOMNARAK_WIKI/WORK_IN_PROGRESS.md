@@ -1,6 +1,6 @@
 # Work In Progress
 
-## Batch 180 — OPEN, 4 / 5 (2026-10-25)
+## Batch 180 — OPEN, 5 / 5 (closure gate next; 2026-10-25)
 
 Owner `P` after CLOSED 179 authorizes this batch only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes this queue:
 
@@ -28,7 +28,11 @@ Reserves, only if three cumulative No change results extend the batch 5→7→10
 
 **Commentary:** The Day Token is an elegant, painful compromise: it proves attendance without recreating the dangerous register, then loses exactly the people most likely to lose a stub. I admire that the observation form protects by omission—three fields only—because here even a compassionate extra column would become a census of the forgotten.
 
-Completed 4/5; No change 0/4, so no ladder movement. Counters unchanged: 268/301 Types, 266/287 Weapon, 18/301 SE; held 160 / pending 121. Next frozen unit is Vanity Asleep `N-IIIγ-954`. Chatroom reporting now follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No Batch 181, merge, artwork or deployment is authorized. Later full recheck and the Batch301 eight-owner-body blocker remain retained.
+**Unit 5 — Vanity Asleep `N-IIIγ-954`: HELD.** Nine supported repairs (5 short / 4 careful; 7160→7128 words) make movement, combat, consequences, flavor, field use and Final Observation obey the never-woken / turn-away / corridor-report protocol instead of direct reflections, shards or waking. Weapon naming, origin fork, gaze binding, breach/aggression and thresholds remain held. Batch 127 already counted the set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B180_05_VANITY_ASLEEP.md).
+
+**Commentary:** The cruelty here is administrative kindness: abolishing the label protects workers, then leaves them managed by a sentence they cannot read or appeal. The template book is the perfect meter for it—an exact millimetre series measuring a fact the institution refuses to make exact for the person living under it.
+
+Completed 5/5; No change 0/5, so no 5→7 extension. Counters unchanged: 268/301 Types, 266/287 Weapon, 18/301 SE; held 161 / pending 120. The closure gate is next. Chatroom reporting follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No Batch 181, merge, artwork or deployment is authorized. Later full recheck and the Batch301 eight-owner-body blocker remain retained.
 
 
 ## Batch 179 — CLOSED 5 / 5 (2026-10-25)

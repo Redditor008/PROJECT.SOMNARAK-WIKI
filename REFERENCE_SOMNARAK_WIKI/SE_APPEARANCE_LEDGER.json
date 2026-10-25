@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IIIγ-954": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_05_VANITY_ASLEEP.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_OPEN.json"
@@ -3462,8 +3474,29 @@
     {
       "designation": "N-IIIγ-954",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-954_Vanity_Asleep_잠든_거울.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Nine supported repairs align the dossier to a stationary sleeping mirror corrected only between sessions, remove not-applied Pugnahan from valid work, rewrite direct-reflection, shard, waking and shared-dream combat as corridor report, spoken sentence, posture shift and zone corruption while preserving all numbers, replace generic consequences/flavor/equipment handling with unwritten-limitation and piece-specific costs, and close Final Observation at the template line without claiming a direct gaze. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_05_VANITY_ASLEEP.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/954_Vanity_Asleep/SE-954-A__SIDE_CODEX_Vanity_Asleep.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/954_Vanity_Asleep/SE-954-B__MAW-W_The_Sleeping_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/954_Vanity_Asleep/SE-954-C__MAW-S_The_Sleeping_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/954_Vanity_Asleep/SE-954-D__MAW-G_The_Sleeping_Reflection.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIα-125",

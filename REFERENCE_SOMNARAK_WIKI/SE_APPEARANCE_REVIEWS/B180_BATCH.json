@@ -2,7 +2,7 @@
   "batch": 180,
   "status": "OPEN",
   "required": 5,
-  "completed": 4,
+  "completed": 5,
   "no_change": 0,
   "units": [
     {
@@ -641,6 +641,167 @@
         "tale_unchanged": true,
         "digit_sequences_unchanged": true,
         "source_files_unchanged": 11
+      }
+    },
+    {
+      "designation": "N-IIIγ-954",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-954_Vanity_Asleep_잠든_거울.md",
+      "words": 7160,
+      "sha256": "17968d7032d1b90ceaf327511f6814f92c28b12eb93e738e7166e1ff9d751b7d",
+      "unit": 5,
+      "name": "Vanity Asleep",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_05_VANITY_ASLEEP.md",
+      "before_words": 7160,
+      "after_words": 7128,
+      "base": "25ae549c80b665c64ed9c1a255f6c863fe975cec",
+      "final_sha256": "8e9ca027a14b8e68150df43657b366100042296ca08c4818b8b1e4973871d443",
+      "summary": "Nine supported repairs align the dossier to a stationary sleeping mirror corrected only between sessions, remove not-applied Pugnahan from valid work, rewrite direct-reflection, shard, waking and shared-dream combat as corridor report, spoken sentence, posture shift and zone corruption while preserving all numbers, replace generic consequences/flavor/equipment handling with unwritten-limitation and piece-specific costs, and close Final Observation at the template line without claiming a direct gaze. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The cruelty here is administrative kindness: abolishing the label protects workers, then leaves them managed by a sentence they cannot read or appeal. The template book is the perfect meter for it—an exact millimetre series measuring a fact the institution refuses to make exact for the person living under it.",
+      "reasoning": "R-33 chain: Subject-Phantasmal / Fragment-III / Major-γ Void → supervisors stopped writing impairment findings because labels harmed workers, but continued quietly limiting assignments from unwritten judgement → a sleeping mirror-figure embodies selves known only from pity and avoidance, never seen while faced and never awake → Flerehan returns kindness, Ferrehan waits, Viderehan brings back an avoided truth, and not-applied Pugnahan fractures the surface → four-point displacement rises with the count of unwritten limitations while reports stay retrospective and unreconciled → equipment can buy time or reveal exhaustion, but only a signed, appealable Said Assessment sentence discharges the duty. Repairs make combat and closing seams obey that chain; origin and Weapon-name forks remain HELD.",
+      "history": "Batch 127 unit 4 reviewed the complete primary and exact SE-954-A–D with Registry rows, Master rows/details 454–456, Entity Codex row 519, Tale 152, MAW-W-954 and disposition row 184. It created a new exact SE-954-B/MAW-W-954-01 disposition and counted the full set and Weapon. Both sit inside the ledger legacy 240/240 baseline, so B180 earns +0 Types / +0 Weapon. Older B20/B34/B44/B72 work was appearance or prose/parity only. HELD earns +0 SE.",
+      "holds": [
+        "Weapon naming remains split: primary, item B heading/Appearance, Registry CSV, Master table row 454 and archetype call the bolt-action Somnolent Trench-Rifle, while Side A, item B's quote/history/care prose and Master detailed Entry 454 call it the Sleeping Lens. No second form or transformation is documented; the primary's narcotic fog/nearby dulling also sits against its formal pierced-line coverage, and archetype Short conflicts with primary/item Range 3 (Medium).",
+        "Origin remains forked: primary Origin/Tale/Warden Record derive the figure from unwritten workplace limitations and labour-office rosters, while Side A/items and Tale 152 derive it from citizens avoiding their own reflections after loss and refused selves accumulating over generations. The shared exhaustion/roster language does not establish one chronology or population.",
+        "The equipment binding still says look at the reflected self without turning away throughout Side A and items B–D, while the current primary protocol explicitly strikes that instruction as impossible and requires turning away plus a corridor report. B180 aligned the primary's own combat/final seams to its newer in-file striking, but did not import or reconcile the set's full-set resonance/gaze binding.",
+        "Entity-event classification and aggression remain split: primary is a non-breaching zone-corruption Subject and its Trivia says it does not react to aggression at all, while Side A calls the type 'Subject — Can breach' and primary Behavior/Clash say not-used Pugnahan would fracture the surface into hostile versions. Speed 1.95 m/s likewise remains unassigned for a stationary sleeper.",
+        "Threshold scopes remain parallel: continuous no-count activation operationally, combat activation at Sorrow Gauge ≥75% or a wake/reposition attempt, ultimate at 65%, and corruption starting at 40% plus 10% per unaddressed cycle. No conversion or number was changed.",
+        "Formation and use remain narrated rather than joined: the primary says nothing is extracted and only the report leaves, yet two pieces are issued, seven tiles were given after unsoftened reports, and Side/items describe named-witness shutdown and full-set resonance. Master chain-mail/brooch classes also conflict with the gossamer veil and Head mirror-tile; Registry CSV bestowal 5% conflicts with primary/Side/D 4%, and the exact D Appearance is prose/metadata rather than the primary's warm tile description."
+      ],
+      "split": [
+        5,
+        4
+      ],
+      "repairs": [
+        {
+          "id": "classification_movement",
+          "kind": "short",
+          "old": "| **Movement** | Stationary — a discrete object. |",
+          "new": "| **Movement** | Stationary and asleep; posture corrections are found only between sessions and measured against the template. |"
+        },
+        {
+          "id": "valid_work_types",
+          "kind": "short",
+          "old": "| **Valid Work Types** | Flerehan, Viderehan and Ferrehan. Pugnahan is listed and is not used on this holding. |",
+          "new": "| **Valid Work Types** | Flerehan and Ferrehan move the gauge; Viderehan runs for record; Pugnahan has a recorded adverse response and is not applied |"
+        },
+        {
+          "id": "combat_actions",
+          "kind": "careful-detail",
+          "old": "| { *The Drowsy Surface* [**Debuff**] } | \"The mirror's surface ripples — slowly, like a sleeping breath — and in the ripple, you see a dream.\" | [The Mirror's dream-state leaks; the target sees a sleeping reflection.] | *Target suffers a Void mark; the dream-reflection pulls at them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |\n| { *The Lucid Dream* [**Debuff**] } | \"The mirror's dream deepens — and now you cannot tell if you are awake, or inside the mirror's sleep.\" | [The Mirror's dreaming intensifies; the target's reality blurs.] | *Target loses clarity; dream and waking are indistinguishable.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares. |\n| { *The Dream Shard* [**Attack**] } | \"A fragment of the sleeping mirror breaks free — carrying a piece of its dream, sharp and surreal.\" | [ A dream-splinter launches from the Mirror.] | *Inflicts Void damage; the surreal shard warps identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mirror is struck. |\n| { *The Waking* [**Attack**] } | \"The mirror begins to wake — and the transition from dream to reality is violent, disorienting, and devastating.\" | [The sleep breaks and everything the mirror has been dreaming is let out at once.] | *A heavy Void rupture of dream-logic; the Sorrow Gauge of whoever is standing there surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mirror is forced awake. |\n| { *The Shared Dream* [**Ultimate**] } | \"Every mirror in the field falls asleep — and everyone is pulled into the same dream, and no one can wake.\" | [The dreaming reaches past the holding, and every mirror in range settles into the same sleep.] | *Void erosion presses on everyone within range for three turns of the shared sleep.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Drowsy Surface* [**Debuff**] } | \"Nothing in the glass while you face it. The account is written in the corridor.\" | [The empty surface is faced, the worker turns away, and the retrospective impression pulls at identity.] | *Target suffers a Void mark from deferred self-knowledge.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the worker turns from the mirror and writes the report. |\n| { *The Lucid Dream* [**Debuff**] } | \"It was being careful with me, the way you are careful with somebody who is not going to be told something.\" | [The remembered expression is pity, not accusation; no direct reflection is seen.] | *Target loses clarity; an unsaid judgement becomes harder to dismiss.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the corridor account is written before it softens. |\n| { *The Dream Shard* [**Attack**] } | \"No splinter leaves the glass. What leaves is the sentence.\" | [A worker says aloud one judgement they believe is held about them; the figure remains asleep and unmoved.] | *Inflicts Void pressure as the avoided truth is spoken.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the unspoken sentence is said in the zone. |\n| { *The Waking* [**Attack**] } | \"It has never woken. The posture changed while somebody was looking.\" | [An attempted waking makes the arrangement shift under direct observation; the eyes stay closed and nobody approaches.] | *A heavy Void surge; the gauge of whoever attempted the waking climbs 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When somebody attempts to wake or reposition the figure. |\n| { *The Shared Dream* [**Ultimate**] } | \"Two thousand and forty limitations in force, and not one of them written down.\" | [The zone thins and no surface reflects; every worker present feels managed around an unwritten sentence.] | *Void erosion presses on everyone in the corrupted zone for three turns.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+        },
+        {
+          "id": "battle_resolution",
+          "kind": "short",
+          "old": "3. **Resolution:** The cycle closes in containment, management or retreat, or on the line the file itself draws as its suppression condition: **Do not wake it by force; look at the reflected self without turning away**. The clause is the whole of the watch: the face arrives for whoever holds the look, and nothing on this ground is ever forced awake.",
+          "new": "3. **Resolution:** Lay the template, read the four-point displacement, wait without waking or repositioning, turn away, and say aloud one judgement believed to be held but never stated. Write the retrospective account in the corridor before it softens. The old direct-gaze instruction is struck: nobody has seen this reflection while facing it."
+        },
+        {
+          "id": "consequences",
+          "kind": "careful-detail",
+          "old": "- A failed resist at the mirror hands the pressure straight into the worker's head: **Composure** drains and the Gauge takes the room that frees up.\n- Every minute past the recommended cycle is borrowed against identity: drift first, then Fracture, then the street outside starts answering the reflection instead of the crew.\n- The equipment file records what a M.A.W. takes out of this holding, and nothing in the wing pays for extraction without the withdrawal landing somewhere in the record.\n- If the resolution condition goes unmet, the glass stops waiting — denied the peace it was asking for, the sorrow takes the release it can get.",
+          "new": "- A failed cycle leaves the pressure in the worker's **Composure**: certainty that an unwritten limitation is being applied, with no sentence they can read or appeal.\n- Escalation is not waking. The two recorded shifts followed attempts to wake the figure; zone colour and sound thin while every surface stops reflecting.\n- Each piece prices the wait differently: small unnamed memories, faint self-absence, and pity read into faces that may not hold it. None supplies the supervisor's sentence or proves a reflection was seen.\n- Without the spoken sentence the corruption widens around a figure that still does not stir. Sealing the room alone has never ended it; speech has, twice."
+        },
+        {
+          "id": "detailed_position",
+          "kind": "short",
+          "old": "| **Position / movement** | Stationary — a discrete object. Recorded at every Vanity Asleep cycle against the previous reading. |",
+          "new": "| **Position / movement** | Fixed at the template line; never observed moving while watched. Read the between-session correction at four points and enter both observers' figures unreconciled. |"
+        },
+        {
+          "id": "field_use_and_stat",
+          "kind": "careful-detail",
+          "old": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, the day's reading, and a baseline written down and lodged with a second worker. On this set the cost is that the small unremarkable memories go first, which is exactly why the baseline cannot be held by the person losing them. |\n| **During use** | Charging shows before anything else: small unremarkable memories start going, and often nobody notices until the second worker compares notes with the day before. The hour is logged by the observer, and the bearer's own account goes in afterwards, separately. |\n| **At limit** | The absence thickens and never lifts: the wearer feels faintly missing from their own account and reports it late, usually once somebody else has raised it. On a Vanity Asleep piece the use ends at that point whatever the bearer says. |\n| **After use** | Return the piece, then put the question to a colleague rather than to the bearer: whether the faint absence has lifted, and whether they are still reporting it a day after noticing. |\n\n**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.",
+          "new": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, and a baseline lodged with a second worker: small everyday memories for the Rifle, felt presence in their own account for the Veil, and ordinary face-reading for the Reflection tile. |\n| **During use** | Watch the piece's own sign: unremarkable memories missing at comparison, the wearer reporting self-absence late, or pity being read into faces. Log the observer's notice before the bearer's account. |\n| **At limit** | The relevant sign persists, is described as the bearer's own history, or the bearer claims to have seen the direct reflection. Use ends; the Said Assessment duty remains with the supervisor. |\n| **After use** | Return the piece and ask a colleague whether memory gaps, absence or face-reading have lifted. Keep the corridor report in its original wording; a witnessed return does not restore a memory or make inferred pity evidence. |\n\n**Stat interpretation:** γ resistance buys time at the template line; it does not turn an unwritten limitation into evidence. The tile may show exhaustion, but only the signed, appealable sentence discharges the office's duty."
+        },
+        {
+          "id": "final_observation",
+          "kind": "careful-detail",
+          "old": "> A watch on the sleeping mirror ends in one of two ways, and the file tells them apart by what the observer does with their own reflection: one holds the look until the face arrives, and the other looks away, or comes back with better light, or wakes nothing and explains everything.\n\n| Do not wake it by force, and look at the reflected self without turning away from it — the procedure as written, with nothing added. | Substitute your own judgement, which on Vanity Asleep has the shape of turning away, better light, or a careful explanation nobody asked for. |\n|---|---|\n| The surface softens and returns a remembered kindness; the sorrow is seen whole and the entry closes with the mirror fully recorded. | The reflection breaks into hostile versions of whoever is standing there; the gauge climbs and the entry closes with the sleep unbroken and nothing learned from it. |\n| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |\n",
+          "new": "> Close at the template line: measure the displacement, wait without waking or moving the figure, turn away, say the unspoken judgement aloud, and write the account in the corridor before it softens.\n\n| Lay the template, read four points with two observers, wait at the line, then turn away and say one judgement you believe is held about you that nobody has said. | Wake or reposition it, demand a direct reflection, bring better light, or soften the corridor report into an explanation nobody asked for. |\n|---|---|\n| Displacement, eyelids, wait duration and the retrospective expression are filed unreconciled; the eyes remain closed and no direct gaze is claimed. | The posture shifts under observation or the zone stops reflecting; withdraw and send one worker in to say the sentence. |\n| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |"
+        },
+        {
+          "id": "flavor_activation_departure",
+          "kind": "short",
+          "old": "**When the entity activates:** the Sorrow Gauge does not climb across its threshold so much as step over it. The pressure arrives whole and unmistakable, and the shift from presence to action is finished before anyone in the room can narrate it.\n\n**After departure:** the pressure comes down as the door closes behind the watch, but something is left behind: Void caught in the weave of the suit, in what the crew remembers, and in the thin gap that opens between thoughts, which is where a Fracture begins.",
+          "new": "**When the entity activates:** Nothing opens and nothing approaches. The danger is the posture changing while a Warden is looking, after an attempt to wake it, while colour, sound and reflection drain from the room.\n\n**After departure:** The report is written immediately in the corridor and filed unedited. What leaves the zone is certainty that something is held, and the question it makes the worker ask—not a recovered reflection or a written sentence."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIIγ-954_Vanity_Asleep_잠든_거울.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.022  clean   134 grams  Operational Parameters\n 0.015  clean   532 grams  Combat Record\n 0.010  clean   573 grams  감각 묘사 (Flavor Text)\n 0.005  clean   591 grams  M.A.W. Equipment\n 0.003  clean   399 grams  기록 (Registrum)\n 0.000  clean   757 grams  Warden Record\n 0.000  clean   363 grams  이야기 (Narratio)\n 0.000  clean   341 grams  이야기 보고 (Story Log)\n 0.000  clean   234 grams  관찰 기록 (Observation Log)\n 0.000  clean   175 grams  Appearance\n 0.000  clean   157 grams  Containment Event Behavior\n 0.000  clean   145 grams  Trivia\n 0.000  clean   137 grams  Origin\n 0.000  clean   130 grams  증언 (Testimonium)\n 0.000  clean   104 grams  최종 관찰 (Final Observation)\n 0.000  clean    78 grams  Behavior\n 0.000  clean    34 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   3  | **Han-Energy yield** | 16–22 per successful work cycle, taken off the template line and never off the glass |\n   85   6  | { *The Shared Dream* [**Ultimate**] } | \"Two thousand and forty limitations in force, and not one of them written down.\" | [The \n   89   2  1. **Tension:** Identification runs on the template displacement and the sleeping posture, never on the reflection: the reflection\n  199   1  **Appearance:** a flowing veil of Void Han-gossamer with no colour to speak of, that stays a little heavier than its weight and mo\n  213   2  **Cost:** The wearer feels faintly absent to themselves and reports it late, usually when somebody else mentions it first, which i\n  317   4  Three holdings sit in the mirror's working range — The Broken Mirror, The Frozen Veil and The Forgotten Silence — and each is a re\n  326   2  | The mirror's neighbour | How the pairing has run | What the template showed | What the entry carries |\n  370   1  - The Said Assessment is a containment condition of this holding and binds every limitation this facility places on a worker's ass\nGENERIC 0.004  (21 shared shingles)  SE-N-IIIγ-954_Vanity_Asleep_잠든_거울.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/954_Vanity_Asleep/SE-954-A__SIDE_CODEX_Vanity_Asleep.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/954_Vanity_Asleep/SE-954-B__MAW-W_The_Sleeping_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/954_Vanity_Asleep/SE-954-C__MAW-S_The_Sleeping_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/954_Vanity_Asleep/SE-954-D__MAW-G_The_Sleeping_Reflection.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/954_Vanity_Asleep/SE-954-A__SIDE_CODEX_Vanity_Asleep.md": "80c4480fb112fee862afc70da44cfc8958fb44d80f901c8309e41eb19a9030b5",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/954_Vanity_Asleep/SE-954-B__MAW-W_The_Sleeping_Lens.md": "d70092e1bacb1709b2b5edee4966b8bc491002e3cd39fa6448be3e445667819e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/954_Vanity_Asleep/SE-954-C__MAW-S_The_Sleeping_Veil.md": "ab509c7b78aee6604301f346538ce6d20e4ea5518b73e58478ba784d7d948e5b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/954_Vanity_Asleep/SE-954-D__MAW-G_The_Sleeping_Reflection.md": "aae5d42fa994a021c8da7f81a9e85d3788525c351e909a58a7b8a4b60a823504",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IIIγ-954_Vanity_Asleep_잠든_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-954_Vanity_Asleep_%EC%9E%A0%EB%93%A0_%EA%B1%B0%EC%9A%B8.md \"SE-N-IIIγ-954_Vanity_Asleep_잠든_거울.md\")]",
+      "table_link": "[Vanity_Asleep](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-954_Vanity_Asleep_%EC%9E%A0%EB%93%A0_%EA%B1%B0%EC%9A%B8.md \"SE-N-IIIγ-954_Vanity_Asleep_잠든_거울.md\")",
+      "reading": {
+        "before_lines": 434,
+        "before_bytes": 43546,
+        "final_lines": 433,
+        "final_bytes": 43607
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 120,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10
       }
     }
   ],

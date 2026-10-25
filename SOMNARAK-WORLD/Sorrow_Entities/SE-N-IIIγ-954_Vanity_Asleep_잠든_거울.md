@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A sleeping, mirror-like figure lying still, its surface showing the viewer's face only after the viewer has looked away — never while watched. Bloodless-cold, it smells of ash; glance back and the reflection is already gone. |
-| **Movement** | Stationary — a discrete object. |
+| **Movement** | Stationary and asleep; posture corrections are found only between sessions and measured against the template. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -70,7 +70,7 @@
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Viderehan and Ferrehan. Pugnahan is listed and is not used on this holding. |
+| **Valid Work Types** | Flerehan and Ferrehan move the gauge; Viderehan runs for record; Pugnahan has a recorded adverse response and is not applied |
 | **Battlefield** | Zone A, Alpha Tree |
 | **Resolution Condition** | Do not wake it. Say aloud, in the zone, one judgement you believe is held about you that nobody has said to you. The old instruction to look at the reflection without turning away describes something no worker has ever been able to do. |
 
@@ -78,24 +78,24 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Drowsy Surface* [**Debuff**] } | "The mirror's surface ripples — slowly, like a sleeping breath — and in the ripple, you see a dream." | [The Mirror's dream-state leaks; the target sees a sleeping reflection.] | *Target suffers a Void mark; the dream-reflection pulls at them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |
-| { *The Lucid Dream* [**Debuff**] } | "The mirror's dream deepens — and now you cannot tell if you are awake, or inside the mirror's sleep." | [The Mirror's dreaming intensifies; the target's reality blurs.] | *Target loses clarity; dream and waking are indistinguishable.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares. |
-| { *The Dream Shard* [**Attack**] } | "A fragment of the sleeping mirror breaks free — carrying a piece of its dream, sharp and surreal." | [ A dream-splinter launches from the Mirror.] | *Inflicts Void damage; the surreal shard warps identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
-| { *The Waking* [**Attack**] } | "The mirror begins to wake — and the transition from dream to reality is violent, disorienting, and devastating." | [The sleep breaks and everything the mirror has been dreaming is let out at once.] | *A heavy Void rupture of dream-logic; the Sorrow Gauge of whoever is standing there surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mirror is forced awake. |
-| { *The Shared Dream* [**Ultimate**] } | "Every mirror in the field falls asleep — and everyone is pulled into the same dream, and no one can wake." | [The dreaming reaches past the holding, and every mirror in range settles into the same sleep.] | *Void erosion presses on everyone within range for three turns of the shared sleep.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Drowsy Surface* [**Debuff**] } | "Nothing in the glass while you face it. The account is written in the corridor." | [The empty surface is faced, the worker turns away, and the retrospective impression pulls at identity.] | *Target suffers a Void mark from deferred self-knowledge.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the worker turns from the mirror and writes the report. |
+| { *The Lucid Dream* [**Debuff**] } | "It was being careful with me, the way you are careful with somebody who is not going to be told something." | [The remembered expression is pity, not accusation; no direct reflection is seen.] | *Target loses clarity; an unsaid judgement becomes harder to dismiss.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the corridor account is written before it softens. |
+| { *The Dream Shard* [**Attack**] } | "No splinter leaves the glass. What leaves is the sentence." | [A worker says aloud one judgement they believe is held about them; the figure remains asleep and unmoved.] | *Inflicts Void pressure as the avoided truth is spoken.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the unspoken sentence is said in the zone. |
+| { *The Waking* [**Attack**] } | "It has never woken. The posture changed while somebody was looking." | [An attempted waking makes the arrangement shift under direct observation; the eyes stay closed and nobody approaches.] | *A heavy Void surge; the gauge of whoever attempted the waking climbs 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When somebody attempts to wake or reposition the figure. |
+| { *The Shared Dream* [**Ultimate**] } | "Two thousand and forty limitations in force, and not one of them written down." | [The zone thins and no surface reflects; every worker present feels managed around an unwritten sentence.] | *Void erosion presses on everyone in the corrupted zone for three turns.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** Identification runs on the template displacement and the sleeping posture, never on the reflection: the reflection is only ever available to somebody who has already turned away, and by then the moment for identifying anything has passed. The designation is confirmed against the classification table, the approach is set, and the positions are taken.
 2. **Clash:** Flerehan and Ferrehan from the template line, with the mirror at the observer's back for the walk out. Pugnahan is not applied: it fractures the surface into hostile versions of the worker and the gauge stays up for the remainder of the cycle. Nobody attempts to catch the reflection directly; nobody ever has.
-3. **Resolution:** The cycle closes in containment, management or retreat, or on the line the file itself draws as its suppression condition: **Do not wake it by force; look at the reflected self without turning away**. The clause is the whole of the watch: the face arrives for whoever holds the look, and nothing on this ground is ever forced awake.
+3. **Resolution:** Lay the template, read the four-point displacement, wait without waking or repositioning, turn away, and say aloud one judgement believed to be held but never stated. Write the retrospective account in the corridor before it softens. The old direct-gaze instruction is struck: nobody has seen this reflection while facing it.
 
 ### Consequences
 
-- A failed resist at the mirror hands the pressure straight into the worker's head: **Composure** drains and the Gauge takes the room that frees up.
-- Every minute past the recommended cycle is borrowed against identity: drift first, then Fracture, then the street outside starts answering the reflection instead of the crew.
-- The equipment file records what a M.A.W. takes out of this holding, and nothing in the wing pays for extraction without the withdrawal landing somewhere in the record.
-- If the resolution condition goes unmet, the glass stops waiting — denied the peace it was asking for, the sorrow takes the release it can get.
+- A failed cycle leaves the pressure in the worker's **Composure**: certainty that an unwritten limitation is being applied, with no sentence they can read or appeal.
+- Escalation is not waking. The two recorded shifts followed attempts to wake the figure; zone colour and sound thin while every surface stops reflecting.
+- Each piece prices the wait differently: small unnamed memories, faint self-absence, and pity read into faces that may not hold it. None supplies the supervisor's sentence or proves a reflection was seen.
+- Without the spoken sentence the corruption widens around a figure that still does not stir. Sealing the room alone has never ended it; speech has, twice.
 
 
 ## Appearance
@@ -117,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A sleeping, mirror-like figure whose surface reflects the viewer's face only after the viewer has looked away. |
-| **Position / movement** | Stationary — a discrete object. Recorded at every Vanity Asleep cycle against the previous reading. |
+| **Position / movement** | Fixed at the template line; never observed moving while watched. Read the between-session correction at four points and enter both observers' figures unreconciled. |
 | **Material / signature** | Void. Bloodless-cold, ash; a surface that holds no image of the room at all while you are facing it. |
 | **Distinctive markers** | The composed sleeping posture, the measured displacement against the template, and an empty surface that should be reflecting you. |
 | **Identification** | If the surface shows you anything while you are looking at it, you are not working this file. |
@@ -240,12 +240,12 @@ Before cleaning or resting a piece, record the bearer, the contact that triggere
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a baseline written down and lodged with a second worker. On this set the cost is that the small unremarkable memories go first, which is exactly why the baseline cannot be held by the person losing them. |
-| **During use** | Charging shows before anything else: small unremarkable memories start going, and often nobody notices until the second worker compares notes with the day before. The hour is logged by the observer, and the bearer's own account goes in afterwards, separately. |
-| **At limit** | The absence thickens and never lifts: the wearer feels faintly missing from their own account and reports it late, usually once somebody else has raised it. On a Vanity Asleep piece the use ends at that point whatever the bearer says. |
-| **After use** | Return the piece, then put the question to a colleague rather than to the bearer: whether the faint absence has lifted, and whether they are still reporting it a day after noticing. |
+| **Before use** | Wielder, piece, and a baseline lodged with a second worker: small everyday memories for the Rifle, felt presence in their own account for the Veil, and ordinary face-reading for the Reflection tile. |
+| **During use** | Watch the piece's own sign: unremarkable memories missing at comparison, the wearer reporting self-absence late, or pity being read into faces. Log the observer's notice before the bearer's account. |
+| **At limit** | The relevant sign persists, is described as the bearer's own history, or the bearer claims to have seen the direct reflection. Use ends; the Said Assessment duty remains with the supervisor. |
+| **After use** | Return the piece and ask a colleague whether memory gaps, absence or face-reading have lifted. Keep the corridor report in its original wording; a witnessed return does not restore a memory or make inferred pity evidence. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** γ resistance buys time at the template line; it does not turn an unwritten limitation into evidence. The tile may show exhaustion, but only the signed, appealable sentence discharges the office's duty.
 
 ## 관찰 기록 (Observation Log)
 
@@ -292,13 +292,12 @@ The labour-office rosters were transferred complete and are bound behind their t
 
 ## 최종 관찰 (Final Observation)
 
-> A watch on the sleeping mirror ends in one of two ways, and the file tells them apart by what the observer does with their own reflection: one holds the look until the face arrives, and the other looks away, or comes back with better light, or wakes nothing and explains everything.
+> Close at the template line: measure the displacement, wait without waking or moving the figure, turn away, say the unspoken judgement aloud, and write the account in the corridor before it softens.
 
-| Do not wake it by force, and look at the reflected self without turning away from it — the procedure as written, with nothing added. | Substitute your own judgement, which on Vanity Asleep has the shape of turning away, better light, or a careful explanation nobody asked for. |
+| Lay the template, read four points with two observers, wait at the line, then turn away and say one judgement you believe is held about you that nobody has said. | Wake or reposition it, demand a direct reflection, bring better light, or soften the corridor report into an explanation nobody asked for. |
 |---|---|
-| The surface softens and returns a remembered kindness; the sorrow is seen whole and the entry closes with the mirror fully recorded. | The reflection breaks into hostile versions of whoever is standing there; the gauge climbs and the entry closes with the sleep unbroken and nothing learned from it. |
+| Displacement, eyelids, wait duration and the retrospective expression are filed unreconciled; the eyes remain closed and no direct gaze is claimed. | The posture shifts under observation or the zone stops reflecting; withdraw and send one worker in to say the sentence. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
-
 ## 감각 묘사 (Flavor Text)
 
 The figure sleeps beneath a surface that should reflect the room. You look and see nothing. You turn away, and the mirror shows your face with an expression you do not recognize. It is not anger. It is pity—the city's exhausted pity for everyone still trying to live.
@@ -309,9 +308,9 @@ The figure sleeps beneath a surface that should reflect the room. You look and s
 
 **With continued exposure:** the standing watch finds the containment reading less and less like a holding cell and more like the office where your file was quietly marked — a room somebody worked in for years, and where nobody ever told you what had been decided. The Void has a history in this room, and staying long enough is what makes it legible.
 
-**When the entity activates:** the Sorrow Gauge does not climb across its threshold so much as step over it. The pressure arrives whole and unmistakable, and the shift from presence to action is finished before anyone in the room can narrate it.
+**When the entity activates:** Nothing opens and nothing approaches. The danger is the posture changing while a Warden is looking, after an attempt to wake it, while colour, sound and reflection drain from the room.
 
-**After departure:** the pressure comes down as the door closes behind the watch, but something is left behind: Void caught in the weave of the suit, in what the crew remembers, and in the thin gap that opens between thoughts, which is where a Fracture begins.
+**After departure:** The report is written immediately in the corridor and filed unedited. What leaves the zone is certainty that something is held, and the question it makes the worker ask—not a recovered reflection or a written sentence.
 
 ### Interaction Pattern
 
