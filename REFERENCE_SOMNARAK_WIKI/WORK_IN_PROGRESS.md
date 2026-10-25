@@ -1,6 +1,6 @@
 # Work In Progress
 
-## Batch 181 — OPEN, 3 / 5 (2026-10-25)
+## Batch 181 — OPEN, 4 / 5 (2026-10-25)
 
 Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only `LC_ALL=C wc -w` ranking from the authoritative 301-path ledger, with designation-byte ties, freezes this queue:
 
@@ -26,7 +26,11 @@ Opening baseline audits PASS: archive health, timeline, semantic seam and box sy
 
 **Commentary:** The empty ground makes the borrowed faces more unsettling than a haunted battlefield would. The standing objector's refusal has a measurable training cost, so the file cannot solve consent merely by declaring one side kind. I appreciate that the corrected form puts each image back on a surface and keeps the ground itself in view; the unresolved breach model still needs evidence before anyone can call it an event.
 
-Completed 3/5; No change 0/3. Next frozen unit: The Echo Compass `C-IIIβ-016`. Counters remain 268/301 Types, 266/287 Weapon and 18/301 SE Appearance Fix; held 164 / pending 117. Draft PR #15 stays owner-controlled. No Batch 182, merge, artwork or deployment is authorized.
+**Unit 4 — The Echo Compass `C-IIIβ-016`: HELD.** Six supported clarifications (2 short / 4 careful; 7252→7390 words) give both appearance summaries the palm-sized brass-and-bone design, separate the stand from human handling, and mark the modelled area-loss and spread events as unresolved. Activation's “until acknowledged or put down” duration remains unreconciled with the certified two-minute cap. Batch 143 did not review this exact set/pair; this unit adds +1 Types / +1 Weapon / +0 SE. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B181_04_ECHO_COMPASS.md).
+
+**Commentary:** The compass's central cruelty is that it answers the question it was built to answer, and the answer cannot be safely used. I appreciate the district's refusal to translate degrees into locations; it forces the institution to live with knowledge it can neither discharge nor lawfully act on. The channel still carries two incompatible duration instructions, so the instrument's operating boundary remains unsettled.
+
+Completed 4/5; No change 0/4. Next frozen unit: Harbinger `N-IIIβ-155`. Counters now 269/301 Types, 267/287 Weapon and 18/301 SE Appearance Fix; held 165 / pending 116. Draft PR #15 stays owner-controlled. No Batch 182, merge, artwork or deployment is authorized.
 
 ## Batch 180 — CLOSED, 5 / 5 (2026-10-25)
 

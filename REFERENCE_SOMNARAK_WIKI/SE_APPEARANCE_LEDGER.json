@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIIβ-016": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_04_ECHO_COMPASS.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_OPEN.json"
@@ -131,8 +143,37 @@
     {
       "designation": "C-IIIβ-016",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-016_The_Echo_Compass_메아리_나침반.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Six supported repairs (2 short / 4 careful; 7252→7390 words) give both appearance summaries the palm-sized brass-and-bone device's surface details, clarify the stand versus hand-held channel, and label the unsupported district-wide loss event and transform/spread description as unresolved models. Whole design HELD; +1 Types / +1 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_04_ECHO_COMPASS.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/016_Echo_Compass/SE-016-A__SIDE_CODEX_The_Echo_Compass.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/016_Echo_Compass/SE-016-B__MAW-W_The_Lost_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/016_Echo_Compass/SE-016-C__MAW-S_The_Lost_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/016_Echo_Compass/SE-016-D__MAW-G_The_Lost_Compass.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/README.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/PERSONALIZATION_PLAN_2026-10-07.md",
+        "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS_VOL_01.md",
+        "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS_VOL_02.md",
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B153_CLOSE.json",
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_CLOSE.json",
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_CLOSE.json",
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B156_CLOSE.json"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIIβ-036",
@@ -7533,6 +7574,14 @@
       "history_proof": "Fresh all-type disposition. Current WIP, CHANGELOG with both archived volumes, APPEARANCE_PROGRESS and MAW personalization progress searched by full designation, English and Side titles, Breaker/Bulwark/Brine names, exact B code and filename. Hits are the R-29 condition/series prose unit that authored the surge catalogue figures with disclosure, the Outside Sovereign distribution note, the structure inventory recording absent Use Notes and Field Use headings, and Batch 178/179 pending fingerprints. None is a source-led exact-set or exact-pair disposition; ledger absence alone was not used as proof. Exact Side A closes Side-only and the comparator skips non-complete Sides as exception sets, so this review earns +1 Types only. Weapon +0: extraction is prohibited and no authorised paired Weapon stands in paired scope, whatever the present B file claims. SE +0 held. No artwork credit.",
       "all_types_credit": true,
       "weapon_credit": false
+    },
+    {
+      "designation": "C-IIIβ-016",
+      "batch": 181,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_04_ECHO_COMPASS.md",
+      "history_proof": "Fresh exact-set and exact-pair disposition for C-IIIβ-016 / SE-016-B / MAW-W-016-01. Current and archived WIP/CHANGELOG, B153–B156 close receipts and the ledger equipment review list contained no earlier individual disposition. B153–B156 only inventory the unchanged primary or review other units. B43/B46/B59 are interactions, quotation and prose, not pair review. The unrelated MAW-W-016 Pneumatic Harpoon Rig is not this SE-016 pair. +1 unique ALL M.A.W. Types review and +1 unique Weapon pair; no duplicate credit.",
+      "all_types_credit": true,
+      "weapon_credit": true
     }
   ]
 }

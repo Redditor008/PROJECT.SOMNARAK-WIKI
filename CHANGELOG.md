@@ -8,7 +8,7 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 181 — OPEN, 3 / 5 (2026-10-25)
+## Batch 181 — OPEN, 4 / 5 (2026-10-25)
 
 Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes Homecoming Tree `C-Iα-869` (7183), Grimoire `C-IIβ-906` (7219), Sky of Borrowed Faces `O-IIIγ-926` (7249), The Echo Compass `C-IIIβ-016` (7252), and Harbinger `N-IIIβ-155` (7254). Reserves, used only if the No change ladder extends the batch, are Cenotaph `N-IVδ-525`, Kind Healer's Shadow `N-IIβ-280`, Double Mouth `C-IIβ-716`, The Final Door `C-Vδ-111`, and Carrying Nothing `C-IIβ-357`. Baseline archive/timeline/seam/box audits PASS.
 
@@ -22,7 +22,11 @@ Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only
 
 **Commentary:** The empty ground makes the borrowed faces more unsettling than a haunted battlefield would. The standing objector's refusal has a measurable training cost, so the file cannot solve consent merely by declaring one side kind. I appreciate that the corrected form puts each image back on a surface and keeps the ground itself in view; the unresolved breach model still needs evidence before anyone can call it an event.
 
-Completed 3/5; No change 0/3; held 164 / pending 117. Next is The Echo Compass `C-IIIβ-016`. No Batch 182, merge, artwork or deployment is authorized.
+**Unit 4 — The Echo Compass `C-IIIβ-016`: HELD.** Six supported clarifications (2 short / 4 careful; 7252→7390 words) give both appearance fields the palm-sized brass-and-bone form, distinguish the stand from human handling, and label the area-loss and spread events as unresolved models. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_04_ECHO_COMPASS.md). The fresh exact-pair review adds +1 Types / +1 Weapon / +0 SE; earlier batch files searched contained no individual disposition.
+
+**Commentary:** The compass's central cruelty is that it answers the question it was built to answer, and the answer cannot be safely used. I appreciate the district's refusal to translate degrees into locations; it forces the institution to live with knowledge it can neither discharge nor lawfully act on. The channel still carries two incompatible duration instructions, so the instrument's operating boundary remains unsettled.
+
+Completed 4/5; No change 0/4; held 165 / pending 116. Next is Harbinger `N-IIIβ-155`. No Batch 182, merge, artwork or deployment is authorized.
 
 ## Batch 180 — CLOSED, 5 / 5 (2026-10-25)
 
