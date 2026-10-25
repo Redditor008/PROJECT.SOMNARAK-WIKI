@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch179 OPEN 2 / 5.** Hollow Tree remains HELD after five supported repairs. Three frozen reviews pending; no smaller batch close. [Evidence](SE_APPEARANCE_REVIEWS/B179_02_HOLLOW_TREE.md). No new credits or 180 authorization.
+**Latest: Batch179 OPEN 4 / 5.** The Wrath Flame remains HELD after six supported repairs; Batch 101 already counted its equipment pair, so +0 Types / +0 Weapon / +0 SE. One frozen review pending; no smaller batch close. [Evidence](SE_APPEARANCE_REVIEWS/B179_04_THE_WRATH_FLAME.md). No 180 authorization. *(This banner also catches the unit-3 state: Wilderness Tide OPEN 3/5, HELD, fresh +1 Types already counted in the table below.)*
 
 **Previous: Batch177 CLOSED5/5.** Five HELD whole designs;30 supported repairs. Equipment+1Types/+1Weapon; SE+0. [Full report](SE_APPEARANCE_REVIEWS/B177_CLOSE.md).
 

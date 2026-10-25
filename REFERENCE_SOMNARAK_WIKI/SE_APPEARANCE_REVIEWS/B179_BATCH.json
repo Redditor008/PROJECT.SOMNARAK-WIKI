@@ -2,7 +2,7 @@
   "batch": 179,
   "status": "OPEN",
   "required": 5,
-  "completed": 3,
+  "completed": 4,
   "no_change": 0,
   "units": [
     {
@@ -455,6 +455,155 @@
       "integrity": {
         "unselected_primary_unchanged": 300,
         "remaining_pending_fingerprints_unchanged": 127,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 11
+      }
+    },
+    {
+      "designation": "O-IIIβ-120",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md",
+      "words": 7069,
+      "sha256": "7d2faaf9e5caff7e745b6376df65a6389410b9033c883e0717cf911e24a6c991",
+      "unit": 4,
+      "name": "The Wrath Flame",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_04_THE_WRATH_FLAME.md",
+      "before_words": 7069,
+      "after_words": 7414,
+      "base": "57e01f945c5e9192fab90ab08766c4ee3d4addef",
+      "final_sha256": "79f141174bf3dc298ace4f5ba36f7422d4d7c90e8897cfacfc541f86795e4c9c",
+      "summary": "Six supported repairs scope directed heat to the gesture-maker, remove the cell ending from a holding that has never had one, keep spreading anger with people rather than roaming fire, replace cell-and-door flavor with the open Scar ground, separate the three piece tolls in the Field Use Record, and distinguish figure, beating core, route and halt in Appearance. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The hazard-briefing device is the most honest piece of bureaucracy in this file: a memorial in everything but standing, which cut incidents because people read the dead before crossing their ground. I trust the joint book — salutes longer than incidents — more than the combat table, and the halt warning is the rare monster tell that gets more frightening the longer nothing moves.",
+      "reasoning": "R-33 chain: Subject / Subject-Body Grudge → Occlusihan unmourned dead → walking crimson figure with beating slag-ringed core on a fixed cross-boundary route → conduct-priced Work (Flerehan/Ferrehan lower, Pugnahan feeds, Viderehan stable) → halt-warning combat and route-bound Corrupt breach → joint salute/incident books, hazard-briefing returns, Scar-neighbour pairings → extracted/granted metal carrying the same respect condition. Repairs touch only seams where template or merged-stage text fought that chain; every essential identity, pillar, threshold, zone and standing question stays HELD. Numeric SE-120 belongs to Redcage; this dossier's exact set is SE-1012 and no Redcage fact was borrowed as corroboration.",
+      "history": "Batch 101 unit 5 (2026-10-12, commit 3bbdfab4) already gave this dossier a complete primary→Side SE-1012-A→items B/C/D→Registry 210–213→Master 586–588→archetype disposition counted as one of 5/5 new full-SE units and 5/5 new eligible Weapon pairs; the full-set note remains verbatim in the primary. Earlier B32/B54/B68 work was re-authoring/cleanup, and B90's Redcage note was a cross-dossier warning, not a disposition of this pair. This unit therefore earns +0 Types / +0 Weapon; HELD earns +0 SE. Ledger absence was not used as proof.",
+      "holds": [
+        "Weapon identity held since Batch 101: primary and Master table read The Wrath-Ember Censer with spiked steam appearance; Side A, item B and detailed Master Entry 586 read The Rage Fang; archetype MAW-W-120 is the spiked censer (Close) while linked code MAW-W-1012-01 has no catalog title and MAW-W-1012 is a notched seax (Short). The same censer text appears in Redcage C-IIIγ-120 / SE-120-B at a different γ profile (7–12, Speed 3, Range 3, max 3, 40 Echoes, Skewer) with no shared-item link. No name, form or profile was merged.",
+        "Tale pillar against walking figure: the Tale burns as a contained pillar of crimson fire, while classification, Appearance and Warden record walk a two-legged patrol figure that halts as its warning. Scale/memory language in the new Appearance paragraph keeps the pictures apart without declaring a transformation.",
+        "Threshold scopes unjoined: activation threshold 3 (ignored conditions), combat activation at Sorrow Gauge ≥ 60%, Wildfire at 65%, and breach drain/acknowledgement arithmetic are not reconciled into one sequence; all numbers unchanged.",
+        "Breach zone against offender-only strikes: breach Effect burns Resilience from everyone inside the warped zone and the ultimate presses all personnel, while First Target, the Pugnahan row and the joint books send directed heat only to whoever showed contempt and record no attack on anyone who acknowledged the dead. Zone pressure and directed heat are distinguished in Consequences; the breach table itself is unchanged.",
+        "Work validity against recommendation: all four Work Types are listed valid and the Registrum calls Pugnahan 'valid and feeds it', while recommended response allows only Flerehan/Ferrehan as gauge-lowering and Clash has never logged Pugnahan as useful. Valid-but-harmful is preserved, not regraded.",
+        "Ember gift against extraction: the Stigma is 'given, not made', offered once after respectful work and not requisitionable, yet it also carries a 5% acquisition value inside an extracted set with separately authorised extraction. No manufacture or grant mechanism was invented.",
+        "Suit/Stigma categories: primary plate harness and Tail ember agree with Side/items and Registry names, while Master table classes Suit as Vestments & Outerwear and Entry 588 classes the Stigma as Ocular Lenses & Monocles; Registry combat cells stay placeholder accessory text. No category was corrected from the primary alone.",
+        "Unburied against burial returns and standing: Origin/Registrum say buried by nobody / not properly, while six incompatible returns (one blank) are posted unreconciled as a hazard briefing because F01 has no standing to commemorate or prefer a roll. The institutional limit is load-bearing and unresolved by design.",
+        "Side-set escalation against local costs: item failure ladders end with the manifestation using the bearer as its new site and Side resonance 'uncouples' manifestations, while the primary prices misuse as scaled heat, autobiographical anger and non-reissue. The first-person stop was surfaced in field use; terminal claims were not imported as fact.",
+        "Tides raise patrol rate and shorten pass interval with no mechanism joining an inland Scar war-fire to Sorrow Tide timing, and Story Entry 2 patrols 'beyond The Scar' against never-off-route records. Both scopes preserved."
+      ],
+      "split": [
+        4,
+        2
+      ],
+      "repairs": [
+        {
+          "id": "u4-r1-consequences",
+          "kind": "short",
+          "old": "- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.",
+          "new": "- Directed heat goes to the person whose gesture read as contempt and to nobody standing beside them; the wider cost of a failed approach is borne by everyone left on ground where the dead went unacknowledged, and it is measured in bearing before it is measured in **Resilience**.\n- Failing to acknowledge is not answered at random and is not answered by distance. The books keep the two outcomes together because the same approach produces both: salutes returned when the war is named, heat when the ground is crossed as though nothing happened there."
+        },
+        {
+          "id": "u4-r2-resolution",
+          "kind": "short",
+          "old": "3. **Resolution:** The watch may finish in containment, under management, in retreat, or on the rule the salute book was opened for: **Bow or salute; acknowledge the war and the dead**.",
+          "new": "3. **Resolution:** The watch may finish with the Flame back on its route under management, in retreat, or on the rule the salute book was opened for: **Bow or salute; acknowledge the war and the dead**. There is no cell to finish it in; this holding has never been inside one."
+        },
+        {
+          "id": "u4-r3-spreading-wildfire",
+          "kind": "short",
+          "old": "| { *The Spreading Fire* [**Debuff**] } | \"The flame leaps to the next thing — and the next — hungering.\" | [The Flame spreads; the target is ringed by catching rage.] |",
+          "new": "| { *The Spreading Fire* [**Debuff**] } | \"The anger catches from person to person — the fire itself stays on its route.\" | [Resentment spreads through the team while the Flame keeps its line; the target is ringed by catching rage, not by roaming fire.] |"
+        },
+        {
+          "id": "u4-r4-flavor-open-ground",
+          "kind": "short",
+          "old": "**With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Grudge has a history here, and prolonged exposure makes that history legible.\n\n**When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Grudge pressure spikes — not gradually but like a door slamming open. The Subject-Body shifts from presence to action.\n\n**After departure:** The door seals and the pressure comes down, but the watch leaves something behind: Grudge in the suit fibres, in the recollection, and in that thin space between thoughts where a Fracture starts.",
+          "new": "**With continued exposure:** The longer you stay, the more the open ground stops reading as empty. The route, the posted returns and the light on the dust make the history legible without walls: this is a field where people died uncounted, and prolonged exposure teaches the feet where they are standing.\n\n**When the entity activates:** The change is that the walking stops. A halted Flame is the warning entire briefings are built around, and the pressure rises from that stillness rather than from any rush toward the team.\n\n**After departure:** You leave the route rather than a room; there is no door to seal behind you. What the watch leaves is carried out in bearing and temper — Grudge in the recollection, and anger that may only later turn out not to have been yours."
+        },
+        {
+          "id": "u4-r5-field-use-piece-scope",
+          "kind": "careful",
+          "old": "| **At limit** | The toll here runs continuously rather than in bursts: the reflexes go slow, and the bearer answers half a second late while being certain they answered at once. On this piece the second worker's call stands against the wielder's. |\n| **After use** | Return the piece, reconcile the baseline, and enter whether the Flame's toll has lifted — the delay and the certainty have to have gone together. Where they have not, the piece is not reissued to that bearer. |",
+          "new": "| **At limit** | Read the limit by piece, not by set. On the Weapon the limit is pain travelling the old-wound lines with bruising rising behind it; on the Suit it is the reflex delay the wearer cannot feel, answering late while certain they answered at once; on the Stigma it is anger showing on the face faster than the wearer can put it away. The shared stop across all three pieces is the first-person slip: a bearer who starts telling the Occlusihan as their own memory is relieved on the second worker's call, whichever piece they carry. |\n| **After use** | Return the piece, reconcile the baseline, and enter separately whether that piece's toll has lifted — wound pain and bruising for the Weapon, delay and false certainty together for the Suit, visible temper for the Stigma — and whether the bearer still speaks of the war as theirs. Where either answer is wrong, the piece is not reissued to that bearer. |"
+        },
+        {
+          "id": "u4-r6-reading-patrol",
+          "kind": "careful",
+          "old": "**Appearance protocol:** Record the fire before the figure: colour at the core, colour at the edge, how far the heat carries, and whether it is beating or steady. The Flame signals that it is about to act by standing still, which is the reverse of what personnel expect and the detail most often missing from reports. Write down what the fire did and what you did immediately before it.",
+          "new": "**Appearance protocol:** Record the fire before the figure: colour at the core, colour at the edge, how far the heat carries, and whether it is beating or steady. The Flame signals that it is about to act by standing still, which is the reverse of what personnel expect and the detail most often missing from reports. Write down what the fire did and what you did immediately before it.\n\n**Reading the patrol:** Keep four sight-pictures apart. The figure is the walking humanoid outline; the core is the dark crimson beat inside it, ringed at its base by slag and fused debris the fire has welded to itself; the route is the mapped line across the old boundaries, which is part of the identification and not scenery; and the halt is the still figure that replaces all three as the only picture that matters. Instruments read the heat low because what carries is held anger rather than temperature, so a dim-looking Flame with a steady beat on its line is a working picture, while a bright one standing still is not. The Tale's pillar is the same fire remembered at the scale of the war; do not wait for a pillar before logging the walker in front of you."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.034  clean   149 grams  Trivia\n 0.031  clean   976 grams  M.A.W. Equipment\n 0.022  clean    91 grams  Operational Parameters\n 0.021  clean   582 grams  Combat Record\n 0.010  clean   293 grams  기록 (Registrum)\n 0.000  clean   953 grams  Warden Record\n 0.000  clean   575 grams  감각 묘사 (Flavor Text)\n 0.000  clean   418 grams  이야기 (Narratio)\n 0.000  clean   343 grams  Appearance\n 0.000  clean   182 grams  Behavior\n 0.000  clean   164 grams  Breach Behavior\n 0.000  clean   122 grams  이야기 보고 (Story Log)\n 0.000  clean   106 grams  Origin\n 0.000  clean    90 grams  최종 관찰 (Final Observation)\n 0.000  clean    65 grams  SECC Classification\n 0.000  clean    62 grams  증언 (Testimonium)\n 0.000  THIN      1 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   54   1  | **Resistance** | 30% against Grudge pressure; 20% against other pressure types |\n   83   4  | { *The Backdraft* [**Attack**] } | \"The fire draws breath — and then it exhales, all at once.\" | [A sudden eruption of accumulat\n   84   5  | { *The Wildfire* [**Ultimate**] } | \"The fire stops being a flame and becomes a wildfire — and it wants everything.\" | [The Flam\n   88   2  1. **Tension:** Identification first — The Wrath Flame is recognised by the route and the crimson core before anything else. Sever\n  201   3  **Appearance:** a plated harness of Grudge Han-iron, dark and blood-warm on the rack, that goes cold the moment it is worn closed.\n  246  24  **Full-set source review (2026-10-12):** Reviewed the β/β overview, all local Weapon/Suit/Stigma blocks, Use Notes, Field Use Reco\n  267   3  **Observation method:** Record the first sign, which is light on the dust before the figure is in it; the first sensation, which r\n  378   3  **Review requirement:** Re-verify after any Sorrow Tide, after any breach at the Scar, and after any season in which the patrol ro\n  439   5  - **Field detail:** Its defining element is Grudge, and its registered location is The Desolate, near The Scar.\nGENERIC 0.010  (52 shared shingles)  SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1012_The_Wrath_Flame/SE-1012-A__SIDE_CODEX_The_Wrath_Flame.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1012_The_Wrath_Flame/SE-1012-B__MAW-W_The_Rage_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1012_The_Wrath_Flame/SE-1012-C__MAW-S_The_Rage_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1012_The_Wrath_Flame/SE-1012-D__MAW-G_The_Rage_Ember.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1012_The_Wrath_Flame/SE-1012-A__SIDE_CODEX_The_Wrath_Flame.md": "ea8d0f1d01ae52db0d9b4c100065c1517b5f43094c3282b87ce347bbe57a2052",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1012_The_Wrath_Flame/SE-1012-B__MAW-W_The_Rage_Fang.md": "b671c78c861832f9de53e623553697a30a3a3b7945215117b44c29406187b22d",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1012_The_Wrath_Flame/SE-1012-C__MAW-S_The_Rage_Plate.md": "4e95d302f865b09bd4062216222d57b53000ee70d4c2078625a48085500b1c68",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1012_The_Wrath_Flame/SE-1012-D__MAW-G_The_Rage_Ember.md": "e11d8531fb27b7dd209b958c16a7bc59d2ac36ec9b093ac9e000d9e20a2dbc14",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/README.md": "1ccf9c7a67061c05141ee76cd0400c5d24c9ac338e9618e2304e0daf74807a7e",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B2-120_The_Wrath_Flame_%EB%B6%84%EB%85%B8%EC%9D%98_%EB%B6%88%EA%BD%83.md \"SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md\")]",
+      "table_link": "[The_Wrath_Flame](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B2-120_The_Wrath_Flame_%EB%B6%84%EB%85%B8%EC%9D%98_%EB%B6%88%EA%BD%83.md \"SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md\")",
+      "reading": {
+        "before_lines": 445,
+        "before_bytes": 42250,
+        "final_lines": 448,
+        "final_bytes": 44075
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 126,
         "physical_form_rows_unchanged": 301,
         "tale_unchanged": true,
         "digit_sequences_unchanged": true,

@@ -78,7 +78,7 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The Kindling* [**Debuff**] } | "A small flame licks up — and you feel your own anger catch with it." | [The Flame ignites nearby resentment; the target's temper flares.] | *Target suffers -10 Resilience; their anger is being stoked.* **[10 Grudge DMG [Grudge]]** | When the target comes near the Flame. |
-| { *The Spreading Fire* [**Debuff**] } | "The flame leaps to the next thing — and the next — hungering." | [The Flame spreads; the target is ringed by catching rage.] | *Target loses 10 Resilience; the fire is closing in.* **[10 Grudge DMG [Grudge]]** | When the target lingers in the heat. |
+| { *The Spreading Fire* [**Debuff**] } | "The anger catches from person to person — the fire itself stays on its route." | [Resentment spreads through the team while the Flame keeps its line; the target is ringed by catching rage, not by roaming fire.] | *Target loses 10 Resilience; the fire is closing in.* **[10 Grudge DMG [Grudge]]** | When the target lingers in the heat. |
 | { *The Lash of Flame* [**Attack**] } | "A tongue of fire whips out — fast, bright, and furious." | [A fiery lash strikes across the target.] | *Inflicts Grudge pressure and one searing wound.* **[14-22 Grudge DMG [Grudge]]** | When the Flame is provoked. |
 | { *The Backdraft* [**Attack**] } | "The fire draws breath — and then it exhales, all at once." | [A sudden eruption of accumulated wrath bursts outward.] | *A heavy Crimson blast; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Flame is starved or struck. |
 | { *The Wildfire* [**Ultimate**] } | "The fire stops being a flame and becomes a wildfire — and it wants everything." | [The Flame engulfs the entire field in uncontained rage.] | *All personnel suffer Grudge pressure for three turns in the blaze.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
@@ -87,11 +87,12 @@
 
 1. **Tension:** Identification first — The Wrath Flame is recognised by the route and the crimson core before anything else. Several things burn at the Scar; only one of them walks a fixed line and stops when it is saluted — then the approach is set and the positions are taken.
 2. **Clash:** The team works the Flame in the open at the Scar, where there is no cell wall to fall back behind and the only cover is conduct. Flerehan and Ferrehan carry the encounter; Pugnahan returns heat for heat and has never once been logged as useful. The gauge answers to how the team carries itself, not to how hard it presses.
-3. **Resolution:** The watch may finish in containment, under management, in retreat, or on the rule the salute book was opened for: **Bow or salute; acknowledge the war and the dead**.
+3. **Resolution:** The watch may finish with the Flame back on its route under management, in retreat, or on the rule the salute book was opened for: **Bow or salute; acknowledge the war and the dead**. There is no cell to finish it in; this holding has never been inside one.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.
+- Directed heat goes to the person whose gesture read as contempt and to nobody standing beside them; the wider cost of a failed approach is borne by everyone left on ground where the dead went unacknowledged, and it is measured in bearing before it is measured in **Resilience**.
+- Failing to acknowledge is not answered at random and is not answered by distance. The books keep the two outcomes together because the same approach produces both: salutes returned when the war is named, heat when the ground is crossed as though nothing happened there.
 - Extended exposure does not so much drift the worker's identity as recruit it. Hour by hour the Flame's fury stops reading as the entity's and starts reading as the worker's own, with a cause attached that the worker did not have that morning. Relief teams are briefed to ask the outgoing worker what they are angry about, and to treat a fluent answer as the finding.
 - The censer, the plate and the ember all draw on the same fire, and the fire is not reduced by being drawn on. What the M.A.W. takes out of the Flame comes out of the wearer instead: ache in old wounds, dulled reflexes, a temper that will not stay off the face. Extraction here is a transfer, and the ledger balances on the person.
 - If nobody bows and nobody salutes, the Flame does not escalate out of malice. It resumes. The patrol continues, the heat climbs, and the encounter ends the way the war ended — with the dead unacknowledged and the fire still burning. Failing the condition is not punished. It is simply not counted.
@@ -121,6 +122,8 @@
 | **Identification** | Check the entity against its file before work or contact: designation, element, manifestation, and registered location. If any one of them contradicts what is in front of you, do not proceed. |
 
 **Appearance protocol:** Record the fire before the figure: colour at the core, colour at the edge, how far the heat carries, and whether it is beating or steady. The Flame signals that it is about to act by standing still, which is the reverse of what personnel expect and the detail most often missing from reports. Write down what the fire did and what you did immediately before it.
+
+**Reading the patrol:** Keep four sight-pictures apart. The figure is the walking humanoid outline; the core is the dark crimson beat inside it, ringed at its base by slag and fused debris the fire has welded to itself; the route is the mapped line across the old boundaries, which is part of the identification and not scenery; and the halt is the still figure that replaces all three as the only picture that matters. Instruments read the heat low because what carries is held anger rather than temperature, so a dim-looking Flame with a steady beat on its line is a working picture, while a bright one standing still is not. The Tale's pillar is the same fire remembered at the scale of the war; do not wait for a pillar before logging the walker in front of you.
 
 ## Origin
 - **Formation:** The Flame formed from the rage of the six factions that fought in the Occlusihan.
@@ -235,8 +238,8 @@ Every item in this set is the Flame's condition carried in metal rather than ord
 |---|---|
 | **Before use** | Wielder and piece, the day's reading, and a baseline written down and lodged with a second worker. The cost opens along old wounds — the fully healed ones first, in the order they were taken — with faint bruising following the same lines, which is why the baseline is compared against a body and not against a figure. |
 | **During use** | Watch for The Wrath Flame's toll — old wounds ache first — the ones long healed, in the order they were received — and faint bruising rises along the same lines — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The toll here runs continuously rather than in bursts: the reflexes go slow, and the bearer answers half a second late while being certain they answered at once. On this piece the second worker's call stands against the wielder's. |
-| **After use** | Return the piece, reconcile the baseline, and enter whether the Flame's toll has lifted — the delay and the certainty have to have gone together. Where they have not, the piece is not reissued to that bearer. |
+| **At limit** | Read the limit by piece, not by set. On the Weapon the limit is pain travelling the old-wound lines with bruising rising behind it; on the Suit it is the reflex delay the wearer cannot feel, answering late while certain they answered at once; on the Stigma it is anger showing on the face faster than the wearer can put it away. The shared stop across all three pieces is the first-person slip: a bearer who starts telling the Occlusihan as their own memory is relieved on the second worker's call, whichever piece they carry. |
+| **After use** | Return the piece, reconcile the baseline, and enter separately whether that piece's toll has lifted — wound pain and bruising for the Weapon, delay and false certainty together for the Suit, visible temper for the Stigma — and whether the bearer still speaks of the war as theirs. Where either answer is wrong, the piece is not reissued to that bearer. |
 
 **Stat interpretation:** The grade tells you what the censer does to the Flame. It tells you nothing about what the ember does to the wearer, which is to put anger on the face at the moment it is least useful. The grade is the cheaper half of the reading.
 
@@ -298,11 +301,11 @@ The Scar glows before the Flame appears. A humanoid fire walks through the dust,
 
 **At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Grudge pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A humanoid flame walking on two legs, burning with crimson fury. It carries no weapon but its fire behaves like one.
 
-**With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Grudge has a history here, and prolonged exposure makes that history legible.
+**With continued exposure:** The longer you stay, the more the open ground stops reading as empty. The route, the posted returns and the light on the dust make the history legible without walls: this is a field where people died uncounted, and prolonged exposure teaches the feet where they are standing.
 
-**When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Grudge pressure spikes — not gradually but like a door slamming open. The Subject-Body shifts from presence to action.
+**When the entity activates:** The change is that the walking stops. A halted Flame is the warning entire briefings are built around, and the pressure rises from that stillness rather than from any rush toward the team.
 
-**After departure:** The door seals and the pressure comes down, but the watch leaves something behind: Grudge in the suit fibres, in the recollection, and in that thin space between thoughts where a Fracture starts.
+**After departure:** You leave the route rather than a room; there is no door to seal behind you. What the watch leaves is carried out in bearing and temper — Grudge in the recollection, and anger that may only later turn out not to have been yours.
 
 ### Interaction Pattern
 
