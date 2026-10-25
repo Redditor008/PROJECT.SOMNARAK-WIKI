@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Hazard-Phantasmal |
 | **Physical Form** | Non-Organic — Open Desolate ground with no history of its own, four hundred metres of it, above which the air will carry a picture. Walls, standing water, glass and the flat of a shield take the image; open air never does. |
-| **Movement** | Stationary — a fixed position; spreads rather than moves. |
+| **Movement** | Stationary — the mapped four-hundred-metre transect stays in place. The site has expanded and withdrawn four times without intervention; this is a change in extent, not locomotion. |
 | **Location** | SECTOR-O-926, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -81,7 +81,7 @@
 | { *The First Weight* [**Debuff**] } | "A wall you have walked past four hundred times has a face on it, and it is nobody you know, and you keep looking anyway." | [The first projection resolves on a surface in the target's line of travel.] | *Target takes Lament pressure and slows.* **[10 Lament DMG [Lament]]** | When the first surface in the transect carries an image. |
 | { *The Borrowed Face* [**Attack**] } | "It is somebody you know. The register says that person has been Fractured for nineteen years and is alive in a ward in Zone C." | [A projection resolves into a face on the identification roll.] | *Heavy Lament damage; the target's count for the sweep is void.* **[21 Lament DMG [Lament]]** | When a projection resolves into a face the target can name. |
 | { *The Reaching* [**Attack**] } | "It comes off the surface toward you. Contact has been reported. No physical trace has ever been found. Both of those sentences are true." | [An image extends from its surface toward an observer.] | *Severe Lament strike; no injury is recoverable at the infirmary.* **[28 Lament DMG [Lament]]** | When an observer remains in front of one surface longer than a minute. |
-| { *Every Surface* [**Ultimate**] } | "Three hundred and eleven. The transect took six hours to walk and the counter finished it." | [Every available surface on the transect carries an image at once.] | *All personnel on the transect suffer Lament erosion for three turns.* **[23 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *Every Surface* [**Ultimate**] } | "Three hundred and eleven. The transect took six hours to walk and the counter finished it." | [The combat model predicts an image on every available surface at once; no simultaneous event is documented.] | *Modelled area damage for three turns; no injury is recorded.* **[23 Lament DMG [Lament] (AoE, x3 turns)]** | In the combat model, at 65%; the surface-count record does not document a corresponding gauge event. |
 
 ### Battle Phases
 
@@ -97,7 +97,7 @@
 
 ## Appearance
 
-**Primary Form:** An area of the Desolate where the air itself projects images — memories, fears, faces of the Fractured — onto whatever surface is available. The images move, speak, and sometimes reach out.
+**Primary Form:** Open Desolate ground with no history of its own, four hundred metres of it. The air above carries a picture only onto surfaces: walls, standing water, glass and the flat of a shield take the image; open air never does. Images move, speak and sometimes reach.
 
 **Notable Features:**
 - Images appear only on surfaces that could carry one: walls, standing water, glass, the flat of a shield. It has never used the air.
@@ -116,7 +116,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | An area of the Desolate where the air itself projects images — memories, fears, faces of the Fractured — onto whatever surface is available. The images move, speak, and sometimes reach out. |
+| **Form** | Open Desolate ground with no history of its own, four hundred metres of it. The air above carries a picture only onto surfaces: walls, standing water, glass and the flat of a shield take the image; open air never does. Images move, speak and sometimes reach. |
 | **Position / movement** | Fixed. It has expanded along the transect four times and withdrawn four times, each without intervention, and the transect markers have not been moved in nineteen years. |
 | **Material / signature** | Lament. No colour of its own; the images take the colour of what they are thrown on, which is why the count is of surfaces and not of light. |
 | **Distinctive markers** | The images move and speak. Nobody has ever recorded what is said, because the standing order forbids transcription and the reason given on the form is that a transcript would be evidence of something that was never said by the person whose mouth said it. |
@@ -151,8 +151,8 @@ Viderehan and Ferrehan both lower the gauge and are the only valid approaches; F
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
-| **Movement** | Modelled as expansion along the ground. Observed: the count rises, surfaces further out begin carrying images, and the markers stay where they are. Nothing has been corrupted and nothing has been damaged. |
+| **Breach Type** | Expansion (modelled). The site has expanded and withdrawn four times without intervention, but the Registrum says it has never breached. Whether those extent changes count as breach events is unresolved. |
+| **Movement** | The model describes expansion along the ground: the count rises and farther surfaces carry images while the transect markers stay fixed. The observed record has four expansions and four withdrawals without intervention and no damage. The Registrum says no breach has occurred, so the model does not establish an observed breach state. |
 | **Effect** | It becomes personal. The further the count runs, the higher the proportion of faces a given Warden can name, which is the one part of the model with a measured series behind it. |
 | **First Target** | Whoever has the longest service on the register's own staff. Of eleven expansion events, nine resolved first on a surface in front of the person who had worked with the identification photographs longest. |
 | **Escalation** | Lament drain +5 per turn while the team stands still. It stops when they walk, which is why the sweep is written as a walk and not as a watch. |

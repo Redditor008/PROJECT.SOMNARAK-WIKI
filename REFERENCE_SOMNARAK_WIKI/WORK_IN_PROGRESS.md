@@ -1,6 +1,6 @@
 # Work In Progress
 
-## Batch 181 — OPEN, 2 / 5 (2026-10-25)
+## Batch 181 — OPEN, 3 / 5 (2026-10-25)
 
 Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only `LC_ALL=C wc -w` ranking from the authoritative 301-path ledger, with designation-byte ties, freezes this queue:
 
@@ -22,7 +22,11 @@ Opening baseline audits PASS: archive health, timeline, semantic seam and box sy
 
 **Commentary:** Its most unsettling element is still the institution: a book that returns one person's unraised grievance, and a facility that turns blank pages into job screening while insisting it has relied on no accusation. The blank-page practice is a moral trap, not just a haunted-book twist. Yet the file's protocols disagree about opening, reading, and what the pages can do; those contradictions should stay unresolved rather than be converted into mechanics.
 
-Completed 2/5; No change 0/2. Next frozen unit: Sky of Borrowed Faces `O-IIIγ-926`. Counters remain 268/301 Types, 266/287 Weapon and 18/301 SE Appearance Fix; held 163 / pending 118. Draft PR #15 stays owner-controlled. No Batch 182, merge, artwork or deployment is authorized.
+**Unit 3 — Sky of Borrowed Faces `O-IIIγ-926`: HELD.** Five supported repairs (3 short / 2 careful; 7249→7363 words) correct both appearance forms to surface-bound projections, distinguish the stationary transect from changing field extent, and mark the all-surface combat action as a model rather than a witnessed event. The formal breach status, expansion counts, impossible 74/112 likeness return and Weapon blade-versus-spear record remain held. Batch 143 already counted the exact set and Weapon pair: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B181_03_SKY_OF_BORROWED_FACES.md).
+
+**Commentary:** The empty ground makes the borrowed faces more unsettling than a haunted battlefield would. The standing objector's refusal has a measurable training cost, so the file cannot solve consent merely by declaring one side kind. I appreciate that the corrected form puts each image back on a surface and keeps the ground itself in view; the unresolved breach model still needs evidence before anyone can call it an event.
+
+Completed 3/5; No change 0/3. Next frozen unit: The Echo Compass `C-IIIβ-016`. Counters remain 268/301 Types, 266/287 Weapon and 18/301 SE Appearance Fix; held 164 / pending 117. Draft PR #15 stays owner-controlled. No Batch 182, merge, artwork or deployment is authorized.
 
 ## Batch 180 — CLOSED, 5 / 5 (2026-10-25)
 

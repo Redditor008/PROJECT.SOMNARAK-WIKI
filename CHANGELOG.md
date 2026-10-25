@@ -8,7 +8,7 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 181 — OPEN, 2 / 5 (2026-10-25)
+## Batch 181 — OPEN, 3 / 5 (2026-10-25)
 
 Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes Homecoming Tree `C-Iα-869` (7183), Grimoire `C-IIβ-906` (7219), Sky of Borrowed Faces `O-IIIγ-926` (7249), The Echo Compass `C-IIIβ-016` (7252), and Harbinger `N-IIIβ-155` (7254). Reserves, used only if the No change ladder extends the batch, are Cenotaph `N-IVδ-525`, Kind Healer's Shadow `N-IIβ-280`, Double Mouth `C-IIβ-716`, The Final Door `C-Vδ-111`, and Carrying Nothing `C-IIβ-357`. Baseline archive/timeline/seam/box audits PASS.
 
@@ -18,7 +18,11 @@ Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only
 
 **Commentary:** Its most unsettling element is still the institution: a book that returns one person's unraised grievance, and a facility that turns blank pages into job screening while insisting it has relied on no accusation. The blank-page practice is a moral trap, not just a haunted-book twist. Yet the file's protocols disagree about opening, reading, and what the pages can do; those contradictions should stay unresolved rather than be converted into mechanics.
 
-Completed 2/5; No change 0/2; held 163 / pending 118. Next is Sky of Borrowed Faces `O-IIIγ-926`. No Batch 182, merge, artwork or deployment is authorized.
+**Unit 3 — Sky of Borrowed Faces `O-IIIγ-926`: HELD.** Five supported repairs (3 short / 2 careful; 7249→7363 words) correct the surface-bound image form, distinguish the stationary transect from field expansion, and mark the all-surface combat action as a model, not a witnessed event. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_03_SKY_OF_BORROWED_FACES.md). Batch 143 already counted the exact set and Weapon pair: +0/+0/+0.
+
+**Commentary:** The empty ground makes the borrowed faces more unsettling than a haunted battlefield would. The standing objector's refusal has a measurable training cost, so the file cannot solve consent merely by declaring one side kind. I appreciate that the corrected form puts each image back on a surface and keeps the ground itself in view; the unresolved breach model still needs evidence before anyone can call it an event.
+
+Completed 3/5; No change 0/3; held 164 / pending 117. Next is The Echo Compass `C-IIIβ-016`. No Batch 182, merge, artwork or deployment is authorized.
 
 ## Batch 180 — CLOSED, 5 / 5 (2026-10-25)
 
