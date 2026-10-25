@@ -1,6 +1,6 @@
 # Work In Progress
 
-## Batch 180 — OPEN, 5 / 5 (closure gate next; 2026-10-25)
+## Batch 180 — CLOSED, 5 / 5 (2026-10-25)
 
 Owner `P` after CLOSED 179 authorizes this batch only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes this queue:
 
@@ -32,7 +32,9 @@ Reserves, only if three cumulative No change results extend the batch 5→7→10
 
 **Commentary:** The cruelty here is administrative kindness: abolishing the label protects workers, then leaves them managed by a sentence they cannot read or appeal. The template book is the perfect meter for it—an exact millimetre series measuring a fact the institution refuses to make exact for the person living under it.
 
-Completed 5/5; No change 0/5, so no 5→7 extension. Counters unchanged: 268/301 Types, 266/287 Weapon, 18/301 SE; held 161 / pending 120. The closure gate is next. Chatroom reporting follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No Batch 181, merge, artwork or deployment is authorized. Later full recheck and the Batch301 eight-owner-body blocker remain retained.
+**Closure gate: PASS.** All five dossiers remain HELD. Fresh checks are 25/25 validators, 54/54 tests, and archive/timeline/seam/box audits PASS. Thirty-nine exact repairs (22 short / 17 careful; 35,582→35,689 words) reconstruct the finals from opening `9695f8f`. The 296 unselected primaries, five reserves, all Physical Form rows, Tales file and 35 fingerprinted sources are unchanged. Digit sequences are unchanged in three units; Spreading Root's corrected cross-reference IDs and Soaking Rope's explicit “threshold 4” are disclosed intentional digit differences. No change 0/5, so no 5→7 extension. Counters unchanged: 268/301 Types, 266/287 Weapon, 18/301 SE; held 161 / pending 120. [Close report](SE_APPEARANCE_REVIEWS/B180_CLOSE.md).
+
+Next pending candidates, not selected or authorized: Homecoming Tree `C-Iα-869`, Grimoire `C-IIβ-906`, Sky of Borrowed Faces `O-IIIγ-926`, The Echo Compass `C-IIIβ-016`, Harbinger `N-IIIβ-155`. Batch 181 requires new owner authorization and a fresh ranking. Chatroom reporting follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No merge, artwork or deployment is authorized. Later full recheck and the Batch301 eight-owner-body blocker remain retained.
 
 
 ## Batch 179 — CLOSED 5 / 5 (2026-10-25)

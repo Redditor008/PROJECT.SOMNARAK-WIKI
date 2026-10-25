@@ -1,6 +1,6 @@
 {
   "batch": 180,
-  "status": "OPEN",
+  "status": "CLOSED",
   "required": 5,
   "completed": 5,
   "no_change": 0,
@@ -170,7 +170,8 @@
           "The Maw cross-reference C-IVδ-260 → C-IVω-001",
           "The Whispering Walls cross-reference C-IVγ-180 → C-Iα-011"
         ],
-        "source_files_unchanged": 16
+        "source_files_unchanged": 16,
+        "digit_sequence_change": "Digit sequence intentionally changes only in corrected cross-reference designations: 260→001 and 180→011. No operational number changed."
       }
     },
     {
@@ -322,8 +323,9 @@
         "remaining_pending_fingerprints_unchanged": 123,
         "physical_form_rows_unchanged": 301,
         "tale_unchanged": true,
-        "digit_sequences_unchanged": true,
-        "source_files_unchanged": 11
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 11,
+        "digit_sequence_change": "Digit sequence intentionally gains “threshold 4” in Consequences, naming the already recorded promise threshold. Combat and equipment numbers are unchanged."
       }
     },
     {
@@ -805,5 +807,6 @@
       }
     }
   ],
-  "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_OPEN.json"
+  "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_OPEN.json",
+  "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_CLOSE.json"
 }

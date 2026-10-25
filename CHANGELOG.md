@@ -8,7 +8,7 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 180 — OPEN, 5 / 5 (closure gate next; 2026-10-25)
+## Batch 180 — CLOSED, 5 / 5 (2026-10-25)
 
 Owner `P` after CLOSED 179 authorizes this batch only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes Spreading Root `O-IVδ-693` (7075), Soaking Rope `N-Iα-316` (7099), Unheard `C-Iα-965` (7105), Forgotten Shadow `N-IIβ-453` (7143), and Vanity Asleep `N-IIIγ-954` (7160). Reserves are Homecoming Tree `C-Iα-869`, Grimoire `C-IIβ-906`, Sky of Borrowed Faces `O-IIIγ-926`, The Echo Compass `C-IIIβ-016`, and Harbinger `N-IIIβ-155`, used only if the No change ladder extends the batch.
 
@@ -20,7 +20,9 @@ Owner `P` after CLOSED 179 authorizes this batch only. A fresh pending-only `LC_
 
 **Unit 4 — Forgotten Shadow `N-IIβ-453`: HELD.** Nine supported repairs (5 short / 4 careful; 7143→7216 words) scope fixed-distance following, bar Pugnahan in valid work, make combat non-striking, split equipment tolls, restore the Song appearance, correct erased→never entered, and close without inventing identity. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_04_FORGOTTEN_SHADOW.md). Batch 109 already counted the set inside the legacy baseline: +0/+0/+0.
 
-**Unit 5 — Vanity Asleep `N-IIIγ-954`: HELD.** Nine supported repairs (5 short / 4 careful; 7160→7128 words) remove direct reflections, shards and waking from combat/flavor/final observation and close through template displacement, turning away, the spoken sentence and an unreconciled corridor report. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_05_VANITY_ASLEEP.md). Batch 127 already counted the set inside the legacy baseline: +0/+0/+0. Completed 5/5; No change 0/5, so no 5→7 extension; held 161 / pending 120. Closure gate next. Chatroom reporting follows R-31 Compact Report v2. No Batch 181, merge, artwork or deployment is authorized.
+**Unit 5 — Vanity Asleep `N-IIIγ-954`: HELD.** Nine supported repairs (5 short / 4 careful; 7160→7128 words) remove direct reflections, shards and waking from combat/flavor/final observation and close through template displacement, turning away, the spoken sentence and an unreconciled corridor report. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_05_VANITY_ASLEEP.md). Batch 127 already counted the set inside the legacy baseline: +0/+0/+0.
+
+**Closure gate: PASS; Batch 180 CLOSED 5/5.** Fresh validators 25/25, tests 54/54, and archive/timeline/seam/box audits PASS. Thirty-nine exact repairs (22 short / 17 careful; 35,582→35,689 words) reconstruct all finals; unselected primaries, reserves, Physical Form rows, Tales and 35 sources are unchanged. Two intentional digit differences are disclosed in the [close report](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_CLOSE.md). No change 0/5, so no extension. Counters unchanged; held 161 / pending 120. Batch 181 is not authorized; no merge, artwork or deployment.
 
 
 ## Batch 179 — CLOSED 5 / 5 (2026-10-25)

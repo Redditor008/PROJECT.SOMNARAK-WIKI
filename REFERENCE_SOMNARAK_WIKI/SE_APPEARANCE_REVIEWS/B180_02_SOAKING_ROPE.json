@@ -147,7 +147,8 @@
     "remaining_pending_fingerprints_unchanged": 123,
     "physical_form_rows_unchanged": 301,
     "tale_unchanged": true,
-    "digit_sequences_unchanged": true,
-    "source_files_unchanged": 11
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 11,
+    "digit_sequence_change": "Digit sequence intentionally gains “threshold 4” in Consequences, naming the already recorded promise threshold. Combat and equipment numbers are unchanged."
   }
 }

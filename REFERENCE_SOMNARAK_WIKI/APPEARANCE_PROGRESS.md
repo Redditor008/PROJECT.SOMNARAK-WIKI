@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch180 OPEN 5/5; closure gate next.** Five HELD reviews and No change 0/5. Latest: [Vanity Asleep evidence](SE_APPEARANCE_REVIEWS/B180_05_VANITY_ASLEEP.md). Counters unchanged; ledger held 161 / pending 120.
+**Latest: Batch180 CLOSED 5/5.** Five HELD reviews, 39 supported repairs, No change 0/5. [Close report](SE_APPEARANCE_REVIEWS/B180_CLOSE.md). Counters unchanged; ledger held 161 / pending 120. Batch181 is not authorized.
 
 **Previous: Batch179 CLOSED 5/5.** Five HELD whole designs; 33 supported repairs (23 short / 10 careful), No change 0/5. Equipment coverage +1 Types / +0 Weapon (Wilderness Tide fresh all-type disposition); SE +0. [Full report](SE_APPEARANCE_REVIEWS/B179_CLOSE.md).
 
