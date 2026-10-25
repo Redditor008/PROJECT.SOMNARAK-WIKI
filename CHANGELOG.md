@@ -14,6 +14,8 @@ Owner “p p” in this session; Batch 181 was found already CLOSED on origin by
 
 **Unit 1 — Cenotaph `N-IVδ-525`: HELD.** Eight supported repairs (5 short / 3 careful; 7261→7433 words) align movement, combat, breach, field use and the Registrum to the span-and-register record. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_01_CENOTAPH.md). Batch 127 already counted the set inside the legacy baseline: +0/+0/+0.
 
+**Unit 3 — Double Mouth `C-IIβ-716`: HELD.** Seven supported repairs (4 short / 3 careful; 7275→7363 words) return combat, consequences and field-use signs to the tone count and two unreconciled sheets. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_03_DOUBLE_MOUTH.md). Batch 136 already counted the SE-716 set inside the legacy baseline: +0/+0/+0. Completed 3/5; No change 0/2; held 169 / pending 112. Next is The Final Door `C-Vδ-111`.
+
 **Unit 2 — Kind Healer's Shadow `N-IIβ-280`: HELD.** Eight supported repairs (6 short / 2 careful; 7266→7427 words) scope ambient attendance, repair the spliced parameters table, and rewrite debt/surgical/un-healing combat as transfer, cap and division. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_02_KIND_HEALERS_SHADOW.md). Batch 103 already counted the SE-1029 set inside the legacy baseline: +0/+0/+0. Completed 2/5; No change 0/2; held 168 / pending 113. Next is Double Mouth `C-IIβ-716`.
 
 ## Batch 181 — CLOSED, 5 / 5 (2026-10-25)

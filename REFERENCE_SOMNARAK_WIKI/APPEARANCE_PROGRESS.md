@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch182 OPEN 2/5.** Cenotaph and Kind Healer's Shadow HELD after eight supported repairs each; No change 0/2. Latest: [Kind Healer's Shadow evidence](SE_APPEARANCE_REVIEWS/B182_02_KIND_HEALERS_SHADOW.md). Counters: 269/301 Types, 267/287 Weapon, 18/301 SE; held 168 / pending 113.
+**Latest: Batch182 OPEN 3/5.** Cenotaph, Kind Healer's Shadow and Double Mouth HELD after 8, 8 and 7 supported repairs; No change 0/2. Latest: [Double Mouth evidence](SE_APPEARANCE_REVIEWS/B182_03_DOUBLE_MOUTH.md). Counters: 269/301 Types, 267/287 Weapon, 18/301 SE; held 169 / pending 112.
 
 **Previous: Batch180 CLOSED 5/5.** Five HELD reviews, 39 supported repairs, No change 0/5. [Close report](SE_APPEARANCE_REVIEWS/B180_CLOSE.md). Counters unchanged; ledger held 161 / pending 120.
 

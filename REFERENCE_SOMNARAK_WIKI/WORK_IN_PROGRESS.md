@@ -1,6 +1,6 @@
 # Work In Progress
 
-## Batch 182 — OPEN, 2 / 5 (2026-10-26)
+## Batch 182 — OPEN, 3 / 5 (2026-10-26)
 
 Owner “p p” in this session. Batch 181 was found already CLOSED on origin by another session acting on the same instruction (closure `8a5326d`); a stale-snapshot restore was leveled with `tools/syncbranch.py` before any edit, no work lost. This session applies its authorization to Batch 182 only. A fresh pending-only `LC_ALL=C wc -w` ranking from the authoritative 301-path ledger, with designation-byte ties, freezes this queue:
 
@@ -15,6 +15,8 @@ Reserves, only if three cumulative No change results extend the batch 5→7→10
 **Unit 1 — Cenotaph `N-IVδ-525`: HELD.** Eight supported repairs (5 short / 3 careful; 7261→7433 words) align movement, valid work, combat, breach effect, consequences, flavor, field use and the Registrum to the span-and-register record (no pursuit, beneath-not-over, solo/shared crossings, close-the-crossing). Shrine-versus-Fang, humanoid-versus-serpentine form, name fork, thresholds, over-span work and structural scope remain held. Batch 127 already counted the set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B182_01_CENOTAPH.md).
 
 **Commentary:** The most humane order in the archive may be the one closing this crossing: not unsafe, still on duty. I admire that containment is a traffic register and a named routing office rather than a stronger door — the facility finally takes the load off the guardian by taking the duty onto itself, in writing.
+
+**Unit 3 — Double Mouth `C-IIβ-716`: HELD.** Seven supported repairs (4 short / 3 careful; 7275→7363 words) remove tested-forbidden Pugnahan from valid work, strip sonic-blade/thin-cut/Crimson physical claims from a holding with twenty years of "no physical attacks", rewrite generic breakdown consequences as finished phrases and sheet-tidying, split field-use signs per piece, and re-anchor generic flavor/review/trivia seams in the tone count and two-channel containment. Only digit change: the file's own 38/52/61 restated once. Lawfully-destroyed vs dismissed vs lost complaint, tuning-fork vs doubled-curve form, unnamed +1 and witnessed-use fork remain held. Batch 136 already counted the SE-716 set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B182_03_DOUBLE_MOUTH.md).
 
 **Unit 2 — Kind Healer's Shadow `N-IIβ-280`: HELD.** Eight supported repairs (6 short / 2 careful; 7266→7427 words) scope ambient one-person attendance, repair the spliced Operational Parameters table, remove tested-null Pugnahan from valid work, rewrite healing-debt/surgical/un-healing combat as one-way transfer, cycle cap and division, split field-use signs, and correct the field-log wound-closing claim to association only. Cleaver/Requiem/Urn, plural-versus-single healer origin, unnamed +1, stale Tale Registrum and thresholds remain held. Batch 103 already counted the identity-resolved SE-1029 set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B182_02_KIND_HEALERS_SHADOW.md).
 

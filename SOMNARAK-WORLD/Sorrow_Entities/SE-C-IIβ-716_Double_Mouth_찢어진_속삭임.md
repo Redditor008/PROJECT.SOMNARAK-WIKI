@@ -70,7 +70,7 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Viderehan and Ferrehan. Pugnahan is listed and is not applied here. |
+| **Valid Work Types** | Flerehan and Ferrehan move the gauge; Viderehan runs for the tone count; Pugnahan is contradiction by another name and is forbidden |
 | **Battlefield** | Zone D, Mantle Commons |
 | **Resolution Condition** | Both channels filed unreconciled, in full, with both recorders' names. Choosing the tidier version has ended more sessions here than any other error. |
 
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Broken Word* [**Debuff**] } | "A whisper reaches you — but it is cut in half, and the missing half is the worst part." | [The Whisper delivers a fragmented message; the target hears half a secret.] | *Target suffers -10 Resilience; the incomplete sentence is maddening.* **[10 Grudge DMG [Grudge]]** | When the target hears the Whisper. |
-| { *The Repeating* [**Debuff**] } | "The torn fragment loops — the same half-sentence, over and over, wearing a groove in your mind." | [The Whisper repeats its broken phrase; the target cannot stop hearing it.] | *Target loses 10 Resilience; the incomplete word is consuming.* **[10 Grudge DMG [Grudge]]** | When the target fails to block it out. |
-| { *The Cutting Edge* [**Attack**] } | "The torn edge of the whisper is sharp — and it slices where it is heard." | [The fragmented whisper strikes as a sonic blade.] | *Inflicts Grudge pressure and one thin, ringing cut.* **[14-22 Grudge DMG [Grudge]]** | When the Whisper is interrupted. |
-| { *The Full Sentence* [**Attack**] } | "The missing half arrives — all at once — and the completed sentence is devastating." | [The half-sentence closes on its own and the finished line lands with the weight of everything it was holding back.] | *A heavy Crimson blow; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Whisper is forced whole. |
-| { *A Thousand Half-Whispers* [**Ultimate**] } | "Every torn whisper in the place speaks at once — and none of them are complete." | [The torn voice comes apart into a hundred incomplete ones and every listener gets a different ending.] | *All in range suffer Grudge pressure for three turns of incomplete words.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Broken Word* [**Debuff**] } | "The whisper is giving dates. The other one is not giving dates." | [Two finished accounts arrive from different bearings at once; the listener hears a phrase end and finishes it themselves.] | *Target suffers -10 Resilience; the completion feels like their own thought.* **[10 Grudge DMG [Grudge]]** | When a listener finishes a half-heard phrase on the holding's behalf. |
+| { *The Repeating* [**Debuff**] } | "Sixty-one in a hundred this year." | [The burning share of the count rises through the watch; both sheets keep filling and neither agrees.] | *Target loses 10 Resilience; certainty without support is consuming.* **[10 Grudge DMG [Grudge]]** | When the tone count climbs across consecutive fixed hours. |
+| { *The Cutting Edge* [**Attack**] } | "No physical attacks in twenty years of record." | [Nothing cuts. Contradiction is offered — aloud, in the room — and the burning tone takes it.] | *Inflicts Grudge pressure as testimony contradicted; no injury is produced.* **[14-22 Grudge DMG [Grudge]]** | When the holding is contradicted or told it is wrong. |
+| { *The Full Sentence* [**Attack**] } | "Convergence is the third condition, and it ends the session." | [Both tones arrive on the same words at the same moment; the words, the hour and who was present are recorded as the room empties.] | *A heavy Grudge surge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the two tones converge on one statement. |
+| { *A Thousand Half-Whispers* [**Ultimate**] } | "Everyone in hearing becomes certain of something they cannot support, and says it." | [The account spreads into Commons conversation already happening; old complaints are re-lodged across the sector in a single day.] | *All in range suffer Grudge pressure for three turns of unsupported certainty.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -92,10 +92,10 @@
 
 ### Consequences
 
-- Resistance that fails lets the murmur in directly: **Resilience** pays for it and the gauge is lifted on the payment.
-- Time in the Commons deepens the wound: the sorrow gets past the protocol's terms and into the operative's cognition, and the breakdown it leaves — emotional, bodily, identitary — does not reverse.
-- The kit is not free, and the rate is on file: body, mind and recollection each settle a share of it on every swing.
-- A watch left unresolved fires the event protocol: the gauge peaks, the fail-safes give, and the sorrow settles deeper into ground it already holds until the zone cannot be worked at all.
+- Resistance that fails presents as certainty: **Resilience** pays while the listener finishes half-heard phrases and later reports the completed sentence as a thought of their own.
+- The recorder-side failures are quiet ones — answering the burning tone (the one authorised extraction on file), becoming certain of something unsupportable, or making the two sheets match at the desk. Tidying, not panic, is how sessions are lost here.
+- Each piece prices listening differently: old wounds registering again, reflexes plating over until only slowness shows, and every conversation heard as two sides that do not meet. None of the three separates truth for the bearer; on this file that separation has never been establishable.
+- Left unresolved it transforms in place: complaints are re-lodged across the sector, each accurate and none provable, until both channels are taken again by two recorders, unreconciled.
 
 ## Appearance
 **Primary Form:** An ethereal voice divided into two tones, one whispering and one burning with anger.
@@ -232,10 +232,10 @@ Every piece in the set was cut from the Commons holding itself and carries its d
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline written against the recorded toll — every old wound on the bearer registering again. |
-| **During use** | Each occurrence is entered with its hour — old wounds aching in a room where nothing has touched them. One is a note; a rhythm across the shift ends the use. |
-| **At limit** | The bearer stops registering the toll, and what shows instead is slowness: reflexes plated over the way a held grudge plates them. That sign is how every stand-down on this set has been caught. |
-| **After use** | Take the piece back and let the second worker judge, not the bearer: is the dullness still in their hands, and do they still catch a dropped thing? The bearer cannot answer for themselves on this. |
+| **Before use** | Wielder, piece, and a dated baseline held by a second worker: old-wound map for the Fang, catch-and-response check for the Plate, and ordinary conversation for the Voice. |
+| **During use** | Each occurrence is entered with its hour: old wounds aching where nothing touched them, the collar going cold and the hands slowing, or two sides heard in a conversation that had one. One is a note; a rhythm across the shift ends the use. |
+| **At limit** | The bearer stops registering the toll, and what shows instead is slowness — or, on the Voice, the bearer asking that it not be reissued. That sign is how every stand-down on this set has been caught. |
+| **After use** | Take the piece back and let the second worker judge, not the bearer: is the dullness still in their hands, do they still catch a dropped thing, and has ordinary speech gone back to one side? The bearer cannot answer for themselves on this. |
 
 **Stat interpretation:** The rating covers what the kit does to a holding, and nothing else. What it does to its bearer stands on a separate line and is routinely the heavier figure; a low-rated piece can carry a severe personal cost.
 ## 관찰 기록 (Observation Log)
@@ -302,11 +302,11 @@ A whisper enters from the left, giving evidence in order, dates and all. Somethi
 
 **At first contact:** You hear it before anything else and from the wrong side — left, then right, then both, with no source anywhere on the grid. The whisper is giving dates. The other one is not giving dates. Your partner is writing a sheet you will not be allowed to read until the desk.
 
-**With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Grudge that the entity embodies. Understanding it does not make it easier.
+**With continued exposure:** The count does the changing, not the voices: 38, then 52, then 61 burning tones in a hundred at fixed hours. Recorders who hear both channels report weight; recorders who hear one report nothing unusual, which is why there are always two.
 
-**When the entity activates:** When it activates, you understand why the containment protocols exist. The Grudge that was merely present becomes active, directed, purposeful — the Subject-Spirit was holding back, and now it isn't.
+**When the entity activates:** Convergence — both tones on the same words. Record the words, the hour, and who was in the room, and end the session. In event the Commons fills with people saying things they cannot support, accurately.
 
-**After departure:** The containment boundary holds the Subject-Spirit, but not the memory. Grudge residue settles into the bones like Han into the city's foundations.
+**After departure:** Both sheets go to the desk still disagreeing, with a separate note from each recorder of anything they became certain of. The certainties are kept. They are not compared in front of the recorders.
 
 ### Interaction Pattern
 
@@ -377,7 +377,7 @@ Those who hear both channels feel the specific vertigo of a system working as de
 
 **Operational interpretation:** No single section of this file carries the holding on its own. The classification, the Work Type responses and the containment-event terms are one picture and are acted on together, with the behaviour, the activation term, the kit risk and the interaction table read alongside them. Where observation contradicts what is written here, the file is what is wrong: the discrepancy is preserved and reported, and the record is allowed to grow around it rather than shrink to fit.
 
-**Review requirement:** After any transformation in place, Sorrow Tide, Ordeal or interaction event, confirm the gauge reading, the Fracture risk and the integrity of containment before the next cycle, and re-check exposure and position after anything that does not read like the events on file. What this sheet describes is a living pattern of sorrow; it does not close.
+**Review requirement:** After any transformation in place or convergence: the tone count and its three-year basis, both unreconciled sheets, each recorder's certainty note, and rotation of anyone the holding has already heard. Confirm no reconciliation was attempted in the room; the desk copy is the only tidy record this file allows.
 ## Watch Record
 
 ### Two Tones
@@ -427,7 +427,7 @@ Someone reported an injustice and was not believed, and the memory tore in two; 
 - **Field detail:** Grudge is its element and Mantle Commons in Zone D is its registered ground — two channels, one desk, and a tone count read at fixed hours.
 - **Recognition detail:** Identify it by the two tones and the bearing spread. Do not identify it by content: both voices say true things and the truth of what they say has never been establishable.
 - **Record detail:** Two channels, recorded separately, reconciled at the Commons desk and not in the room. A reconciliation performed in the entity's hearing has escalated it on every occasion it has been attempted, which is three.
-- **Containment detail:** Containment is not silence. Even with no event on the board, the sorrow bleeds through walls, through the Veil and through personnel in the adjacent cells, so the watch treats the holding as inactive on paper only — a fixed thing may still activate, expand, resonate, or alter the people posted near it.
+- **Containment detail:** The two channels are the containment: separate recorders, separate sheets, reconciliation only at the Commons desk, and rotation of anyone it has heard before. Nothing here is silenced, and nothing is contradicted.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-716

@@ -2,7 +2,7 @@
   "batch": 182,
   "status": "OPEN",
   "required": 5,
-  "completed": 2,
+  "completed": 3,
   "no_change": 0,
   "units": [
     {
@@ -315,6 +315,155 @@
         "tale_unchanged": true,
         "digit_sequences_unchanged": true,
         "source_files_unchanged": 10
+      }
+    },
+    {
+      "designation": "C-IIβ-716",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-716_Double_Mouth_찢어진_속삭임.md",
+      "words": 7277,
+      "sha256": "cedeca035b82f29764116499398264e09e5ba0d4b5e03b336f47163b7f3bf13b",
+      "unit": 3,
+      "name": "Double Mouth",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_03_DOUBLE_MOUTH.md",
+      "before_words": 7277,
+      "after_words": 7363,
+      "base": "ce42fb08f43ce4f0d5f8968abcfce3551e1144e7",
+      "final_sha256": "0097c67186b388543da4f524c2d648cb753dd08e0d281a9273b839c02b2bac83",
+      "summary": "Seven supported repairs strip the generic grammar off a holding whose own record forbids it: Pugnahan (contradiction, Increase, 'not used') leaves the valid-work row, combat loses its sonic blade, twenty thin cuts and Crimson blows against twenty years of 'no physical attacks' while keeping every name and number, consequences stop being generic breakdown-and-fail-safe boilerplate and become finished phrases, answered burning tones and sheet-tidying, field-use signs split per piece instead of pricing the Voice as the Fang, and the flavor/review/trivia seams are replaced by the tone count and two-channel containment. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "This file repays a slow read: nobody lies, the complaint is destroyed lawfully, the rule is good, and the fourth complainant is still always the first. Matter and meter agree — the burning-tone share climbing 38, 52, 61 year on year is the archive-note rendered countable. What fell short was the generic grammar parked on top: a holding with 'no physical attacks' was dealing twenty thin cuts.",
+      "reasoning": "R-33 chain: Subject-Spirit / Echo-II / Moderate-β Grudge → a complaint was properly investigated, closed unsubstantiated and destroyed entire under a good rule, leaving its witness permanently the only one who ever said it → one account in two tones, the whisper giving evidence and the burning tone naming what was done with it, from no resolvable source → two-channel work with the tone count as instrument; contradiction reliably escalates, convergence ends the session → event spreads unsupported certainty and re-lodged complaints; the one extraction on file is the burning tone answered aloud → equipment lends hearing-both-sides at the price of old wounds, dulled reflexes or permanent two-sided hearing. Repairs remove physical-cutting and fail-safe claims the chain cannot carry; the complaint's three fates, forked weapon form and unnamed +1 remain HELD.",
+      "history": "Batch 136 unit 2 (commit 3ad8071, 2026-10-15) performed the full-set source review preserved in the primary: complete primary, exact SE-716-A–D, Registry rows 831–834, Master Entries 172–174, Entity Codex row 422, Tale 58 and archetype MAW-W-716, counting full-SE and Weapon +1. That disposition sits inside the ledger legacy baseline, so B182 earns +0 Types / +0 Weapon. HELD earns +0 SE. B66 was a prose pass after an existing chapter; the B67 deep novel pass and B84 work were prose-only.",
+      "holds": [
+        "The complaint's fate remains three-way and essential: the primary's Tale/Entries say it was investigated, closed unsubstantiated and lawfully destroyed entire with no note kept; the standalone Tale 58 Registrum says 'testimony filed and erased' with an archive that cannot close the case and a truth 'lost', and Side A derives the voice from a dismissed witness report. Destroyed, dismissed and lost make three different entities; no fate was chosen above the primary's, and the commissioning folder's surviving complaint-and-reply still contradicts 'every copy destroyed'.",
+        "Witnessed use remains forked against the primary's 'transcribed, not observed' line: Side A reports a post-event resignation under Harmonized Testimony, Side C a Shouting Plate bearer joining the cacophony, and Side D a recorded Borrowed Voice use at 8% acquisition handed back twice — where the primary has the Fang drawn twice and racked, and the Voice handed back three times.",
+        "Weapon form and range remain forked at agreeing statistics (Grudge 5–9 / 25 Echoes / max 4 / β): archetype MAW-W-716 is a big tuning fork at Close; the primary is a doubled-curve fang at Range 2 (Short). No form or production route joins fork to blade.",
+        "The Stigma's stat stays unnamed on the primary ('+1 to the bearer's work on this holding') against '+1 Resilience' in Side A/D, and its Ability still claims to separate truth from distortion in a file whose record says that separation has never been establishable. The consequence text flags the conflict; no mechanic was merged. Set Failure corrosion/eardrum/vocal-cord damage likewise stays unjoined to the primary's old-wound and reflex tolls.",
+        "Naming stays split: the deleted category index carries 'The Torn Whisper' under C-IIβ-716 where the primary and Registry carry Double Mouth; the Korean subtitle 찢어진 속삭임 (torn whisper) preserves both. Threshold scopes remain parallel: operational threshold 3, combat activation 65%, breach opening 40% rising ten a finished phrase, Resilience drain +5 per cycle."
+      ],
+      "split": [
+        4,
+        3
+      ],
+      "repairs": [
+        {
+          "id": "valid_work_types",
+          "kind": "short",
+          "old": "| **Valid Work Types** | Flerehan, Viderehan and Ferrehan. Pugnahan is listed and is not applied here. |",
+          "new": "| **Valid Work Types** | Flerehan and Ferrehan move the gauge; Viderehan runs for the tone count; Pugnahan is contradiction by another name and is forbidden |"
+        },
+        {
+          "id": "combat_actions",
+          "kind": "careful-detail",
+          "old": "| { *The Broken Word* [**Debuff**] } | \"A whisper reaches you — but it is cut in half, and the missing half is the worst part.\" | [The Whisper delivers a fragmented message; the target hears half a secret.] | *Target suffers -10 Resilience; the incomplete sentence is maddening.* **[10 Grudge DMG [Grudge]]** | When the target hears the Whisper. |\n| { *The Repeating* [**Debuff**] } | \"The torn fragment loops — the same half-sentence, over and over, wearing a groove in your mind.\" | [The Whisper repeats its broken phrase; the target cannot stop hearing it.] | *Target loses 10 Resilience; the incomplete word is consuming.* **[10 Grudge DMG [Grudge]]** | When the target fails to block it out. |\n| { *The Cutting Edge* [**Attack**] } | \"The torn edge of the whisper is sharp — and it slices where it is heard.\" | [The fragmented whisper strikes as a sonic blade.] | *Inflicts Grudge pressure and one thin, ringing cut.* **[14-22 Grudge DMG [Grudge]]** | When the Whisper is interrupted. |\n| { *The Full Sentence* [**Attack**] } | \"The missing half arrives — all at once — and the completed sentence is devastating.\" | [The half-sentence closes on its own and the finished line lands with the weight of everything it was holding back.] | *A heavy Crimson blow; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Whisper is forced whole. |\n| { *A Thousand Half-Whispers* [**Ultimate**] } | \"Every torn whisper in the place speaks at once — and none of them are complete.\" | [The torn voice comes apart into a hundred incomplete ones and every listener gets a different ending.] | *All in range suffer Grudge pressure for three turns of incomplete words.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Broken Word* [**Debuff**] } | \"The whisper is giving dates. The other one is not giving dates.\" | [Two finished accounts arrive from different bearings at once; the listener hears a phrase end and finishes it themselves.] | *Target suffers -10 Resilience; the completion feels like their own thought.* **[10 Grudge DMG [Grudge]]** | When a listener finishes a half-heard phrase on the holding's behalf. |\n| { *The Repeating* [**Debuff**] } | \"Sixty-one in a hundred this year.\" | [The burning share of the count rises through the watch; both sheets keep filling and neither agrees.] | *Target loses 10 Resilience; certainty without support is consuming.* **[10 Grudge DMG [Grudge]]** | When the tone count climbs across consecutive fixed hours. |\n| { *The Cutting Edge* [**Attack**] } | \"No physical attacks in twenty years of record.\" | [Nothing cuts. Contradiction is offered — aloud, in the room — and the burning tone takes it.] | *Inflicts Grudge pressure as testimony contradicted; no injury is produced.* **[14-22 Grudge DMG [Grudge]]** | When the holding is contradicted or told it is wrong. |\n| { *The Full Sentence* [**Attack**] } | \"Convergence is the third condition, and it ends the session.\" | [Both tones arrive on the same words at the same moment; the words, the hour and who was present are recorded as the room empties.] | *A heavy Grudge surge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the two tones converge on one statement. |\n| { *A Thousand Half-Whispers* [**Ultimate**] } | \"Everyone in hearing becomes certain of something they cannot support, and says it.\" | [The account spreads into Commons conversation already happening; old complaints are re-lodged across the sector in a single day.] | *All in range suffer Grudge pressure for three turns of unsupported certainty.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+        },
+        {
+          "id": "consequences",
+          "kind": "careful-detail",
+          "old": "- Resistance that fails lets the murmur in directly: **Resilience** pays for it and the gauge is lifted on the payment.\n- Time in the Commons deepens the wound: the sorrow gets past the protocol's terms and into the operative's cognition, and the breakdown it leaves — emotional, bodily, identitary — does not reverse.\n- The kit is not free, and the rate is on file: body, mind and recollection each settle a share of it on every swing.\n- A watch left unresolved fires the event protocol: the gauge peaks, the fail-safes give, and the sorrow settles deeper into ground it already holds until the zone cannot be worked at all.",
+          "new": "- Resistance that fails presents as certainty: **Resilience** pays while the listener finishes half-heard phrases and later reports the completed sentence as a thought of their own.\n- The recorder-side failures are quiet ones — answering the burning tone (the one authorised extraction on file), becoming certain of something unsupportable, or making the two sheets match at the desk. Tidying, not panic, is how sessions are lost here.\n- Each piece prices listening differently: old wounds registering again, reflexes plating over until only slowness shows, and every conversation heard as two sides that do not meet. None of the three separates truth for the bearer; on this file that separation has never been establishable.\n- Left unresolved it transforms in place: complaints are re-lodged across the sector, each accurate and none provable, until both channels are taken again by two recorders, unreconciled."
+        },
+        {
+          "id": "field_use_split",
+          "kind": "careful-detail",
+          "old": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, and a dated baseline written against the recorded toll — every old wound on the bearer registering again. |\n| **During use** | Each occurrence is entered with its hour — old wounds aching in a room where nothing has touched them. One is a note; a rhythm across the shift ends the use. |\n| **At limit** | The bearer stops registering the toll, and what shows instead is slowness: reflexes plated over the way a held grudge plates them. That sign is how every stand-down on this set has been caught. |\n| **After use** | Take the piece back and let the second worker judge, not the bearer: is the dullness still in their hands, and do they still catch a dropped thing? The bearer cannot answer for themselves on this. |\n\n**Stat interpretation:** The rating covers what the kit does to a holding, and nothing else. What it does to its bearer stands on a separate line and is routinely the heavier figure; a low-rated piece can carry a severe personal cost.",
+          "new": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, and a dated baseline held by a second worker: old-wound map for the Fang, catch-and-response check for the Plate, and ordinary conversation for the Voice. |\n| **During use** | Each occurrence is entered with its hour: old wounds aching where nothing touched them, the collar going cold and the hands slowing, or two sides heard in a conversation that had one. One is a note; a rhythm across the shift ends the use. |\n| **At limit** | The bearer stops registering the toll, and what shows instead is slowness — or, on the Voice, the bearer asking that it not be reissued. That sign is how every stand-down on this set has been caught. |\n| **After use** | Take the piece back and let the second worker judge, not the bearer: is the dullness still in their hands, do they still catch a dropped thing, and has ordinary speech gone back to one side? The bearer cannot answer for themselves on this. |\n\n**Stat interpretation:** The rating covers what the kit does to a holding, and nothing else. What it does to its bearer stands on a separate line and is routinely the heavier figure; a low-rated piece can carry a severe personal cost."
+        },
+        {
+          "id": "flavor_generic",
+          "kind": "short",
+          "old": "**With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Grudge that the entity embodies. Understanding it does not make it easier.\n\n**When the entity activates:** When it activates, you understand why the containment protocols exist. The Grudge that was merely present becomes active, directed, purposeful — the Subject-Spirit was holding back, and now it isn't.\n\n**After departure:** The containment boundary holds the Subject-Spirit, but not the memory. Grudge residue settles into the bones like Han into the city's foundations.",
+          "new": "**With continued exposure:** The count does the changing, not the voices: 38, then 52, then 61 burning tones in a hundred at fixed hours. Recorders who hear both channels report weight; recorders who hear one report nothing unusual, which is why there are always two.\n\n**When the entity activates:** Convergence — both tones on the same words. Record the words, the hour, and who was in the room, and end the session. In event the Commons fills with people saying things they cannot support, accurately.\n\n**After departure:** Both sheets go to the desk still disagreeing, with a separate note from each recorder of anything they became certain of. The certainties are kept. They are not compared in front of the recorders."
+        },
+        {
+          "id": "review_requirement",
+          "kind": "short",
+          "old": "**Review requirement:** After any transformation in place, Sorrow Tide, Ordeal or interaction event, confirm the gauge reading, the Fracture risk and the integrity of containment before the next cycle, and re-check exposure and position after anything that does not read like the events on file. What this sheet describes is a living pattern of sorrow; it does not close.",
+          "new": "**Review requirement:** After any transformation in place or convergence: the tone count and its three-year basis, both unreconciled sheets, each recorder's certainty note, and rotation of anyone the holding has already heard. Confirm no reconciliation was attempted in the room; the desk copy is the only tidy record this file allows."
+        },
+        {
+          "id": "trivia_containment",
+          "kind": "short",
+          "old": "- **Containment detail:** Containment is not silence. Even with no event on the board, the sorrow bleeds through walls, through the Veil and through personnel in the adjacent cells, so the watch treats the holding as inactive on paper only — a fixed thing may still activate, expand, resonate, or alter the people posted near it.",
+          "new": "- **Containment detail:** The two channels are the containment: separate recorders, separate sheets, reconciliation only at the Commons desk, and rotation of anyone it has heard before. Nothing here is silenced, and nothing is contradicted."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIβ-716_Double_Mouth_찢어진_속삭임.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.022  clean   510 grams  Combat Record\n 0.013  clean   871 grams  M.A.W. Equipment\n 0.008  clean   128 grams  Operational Parameters\n 0.008  clean   260 grams  기록 (Registrum)\n 0.000  clean   686 grams  Watch Record\n 0.000  clean   612 grams  감각 묘사 (Flavor Text)\n 0.000  clean   470 grams  이야기 보고 (Story Log)\n 0.000  clean   366 grams  이야기 (Narratio)\n 0.000  clean   245 grams  관찰 기록 (Observation Log)\n 0.000  clean   158 grams  Trivia\n 0.000  clean   156 grams  Containment Event Behavior\n 0.000  clean   150 grams  Appearance\n 0.000  clean   142 grams  최종 관찰 (Final Observation)\n 0.000  clean   141 grams  Origin\n 0.000  clean   131 grams  증언 (Testimonium)\n 0.000  clean    98 grams  Behavior\n 0.000  clean    50 grams  SECC Classification\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   1  | **Han-Energy yield** | 12–18 per successful work cycle, taken across both channels rather than the louder one |\n   84   4  | { *The Full Sentence* [**Attack**] } | \"Convergence is the third condition, and it ends the session.\" | [Both tones arrive on th\n   85   7  | { *A Thousand Half-Whispers* [**Ultimate**] } | \"Everyone in hearing becomes certain of something they cannot support, and says \n  176   3  **Appearance:** a fang-curved blade of Grudge Han-iron, dark in the rack and faintly warm at the grip, that beads a thin film of H\n  197   5  **Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm to the hand, that goes cold along the collar where it r\n  209   1  **Cost:** The wearer's reflexes dull, plated over the way a held grudge plates them, and that dullness is how every stand-down on \n  215   2  **Appearance:** a voice-charm of Grudge Han-iron, dark and faintly warm, that rings faintly when two people in the room disagree.\n  235   1  | **Before use** | Wielder, piece, and a dated baseline held by a second worker: old-wound map for the Fang, catch-and-response ch\n  237   1  | **At limit** | The bearer stops registering the toll, and what shows instead is slowness — or, on the Voice, the bearer asking t\n  373   2  **Faction Involvement:** SED, on the D-territory survey · UCD, for the Fray-adjacent ground · the Complaints Office, standing corr\nGENERIC 0.005  (27 shared shingles)  SE-C-IIβ-716_Double_Mouth_찢어진_속삭임.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-716-A__SIDE_CODEX_Double_Mouth.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-716-B__MAW-W_The_Twofold_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-716-C__MAW-S_The_Twofold_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-716-D__MAW-G_The_Twofold_Voice.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-716-A__SIDE_CODEX_Double_Mouth.md": "29dda448d749cd92de1372c310af873880f3c89c137e714e71743601392a1dcb",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-716-B__MAW-W_The_Twofold_Fang.md": "dabe11a54bcf631afc2d1a1bb62c5a11322f1c37d4dd01538f1d36c36590602b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-716-C__MAW-S_The_Twofold_Plate.md": "72933fc090cd0042581a5e10ef27d670beee6ccdd92425bb6e76132afe745132",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-716-D__MAW-G_The_Twofold_Voice.md": "330aeebe4a6a9e6bbc10509a9d4c9e46390a8bffe2fa26c94cc0d679502d96ff",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIβ-716_Double_Mouth_찢어진_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-716_Double_Mouth_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md \"SE-C-IIβ-716_Double_Mouth_찢어진_속삭임.md\")]",
+      "table_link": "[Double_Mouth](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-716_Double_Mouth_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md \"SE-C-IIβ-716_Double_Mouth_찢어진_속삭임.md\")",
+      "reading": {
+        "before_lines": 436,
+        "before_bytes": 43715,
+        "final_lines": 436,
+        "final_bytes": 44345
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 112,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": ""
       }
     }
   ],
