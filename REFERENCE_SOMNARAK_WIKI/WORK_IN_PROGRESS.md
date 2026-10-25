@@ -1,6 +1,6 @@
 # Work In Progress
 
-## Batch 181 — OPEN, 1 / 5 (2026-10-25)
+## Batch 181 — OPEN, 2 / 5 (2026-10-25)
 
 Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only `LC_ALL=C wc -w` ranking from the authoritative 301-path ledger, with designation-byte ties, freezes this queue:
 
@@ -18,7 +18,11 @@ Opening baseline audits PASS: archive health, timeline, semantic seam and box sy
 
 **Commentary:** The strongest choice is the archive's refusal to blame either community: the returned and the resident really do share one address and two incompatible homes. I also like containment as a sighting log rather than a wall. For a place that walks, knowing where it stopped—and refusing to promise restoration—is more honest than pretending it can be held.
 
-Completed 1/5; No change 0/1. Next frozen unit is Grimoire `C-IIβ-906`. Counters remain 268/301 Types, 266/287 Weapon and 18/301 SE Appearance Fix; held 162 / pending 119. Draft PR #15 stays owner-controlled. No Batch 182, merge, artwork or deployment is authorized.
+**Unit 2 — Grimoire `C-IIβ-906`: HELD.** Nine supported repairs (3 short / 6 careful; 7219→7351 words) align the visible writing record with instrument evidence, clarify the reader trigger and study precision, replace the claim that the book hears a spoken line with an explicit hold, flag the sector-wide Tale Collapse as uncorroborated, distinguish the carried I-Relic from the stationary source, and expose the unresolved self-writing/read-trigger breach account. The Weapon shape, no-aloud history, extraction and other breach conflicts remain held. Batch 141 already counted the set and exact Weapon pair: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B181_02_GRIMOIRE.md).
+
+**Commentary:** Its most unsettling element is still the institution: a book that returns one person's unraised grievance, and a facility that turns blank pages into job screening while insisting it has relied on no accusation. The blank-page practice is a moral trap, not just a haunted-book twist. Yet the file's protocols disagree about opening, reading, and what the pages can do; those contradictions should stay unresolved rather than be converted into mechanics.
+
+Completed 2/5; No change 0/2. Next frozen unit: Sky of Borrowed Faces `O-IIIγ-926`. Counters remain 268/301 Types, 266/287 Weapon and 18/301 SE Appearance Fix; held 163 / pending 118. Draft PR #15 stays owner-controlled. No Batch 182, merge, artwork or deployment is authorized.
 
 ## Batch 180 — CLOSED, 5 / 5 (2026-10-25)
 

@@ -80,10 +80,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It is writing while you watch, and the hand is one you recognise." | [The script matches the handwriting of somebody the observer knows.] | *10 Grudge. In 188 of 411 cycles the observer named the hand correctly, and in 41 of those it was their own.* **[10 Grudge DMG [Grudge]]** | Within the first minutes of any cycle. |
-| { *The Tale Surge* [**Attack**] } | "The entry is about something that has not been settled, and the account is accurate." | [A page fills with a true account of an unresolved grievance involving somebody present.] | *18 Grudge to the person it concerns; the account has never been shown to be wrong.* **[18 Grudge DMG [Grudge]]** | When somebody with an outstanding complaint stands over it. |
-| { *The Settling* [**Attack**] } | "Somebody reads a line out loud and the book stops to listen." | [Reading aloud halts the writing and transfers its subject to the reader.] | *26 Grudge to the reader, who afterwards carries the grievance as their own.* **[26 Grudge DMG [Grudge]]** | When any line is read aloud in the chamber. Six occasions, all six by workers who thought it might help. |
-| { *The Tale Collapse* [**Ultimate**] } | "Every blank surface in the wing takes a line of the same hand." | [The writing propagates to walls, forms and ledgers across the sector.] | *20 Grudge per cycle for three cycles to everybody in the wing.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once; the sector's forms were destroyed and the incident is the reason the page count is reported weekly. |
+| { *The First Weight* [**Debuff**] } | "The frame before shows blank vellum; the frame after shows finished text; no frame between them exists on any instrument." | [The script matches the handwriting of somebody the observer knows.] | *10 Grudge. In 188 of 411 cycles the observer named the hand correctly, and in 41 of those it was their own.* **[10 Grudge DMG [Grudge]]** | Within the first minutes of any cycle. |
+| { *The Tale Surge* [**Attack**] } | "The page carries an unresolved grievance; its authority is not the same as proof." | [An open page presents one reader with a first-person account; a second person may see unrelated text or nothing.] | *18 Grudge to the reader the account concerns. The study confirmed ninety-one per cent of checkable particulars, not every claim.* **[18 Grudge DMG [Grudge]]** | When a reader opens it: the story changes depending on who opens it. |
+| { *The Unraised Line* [**Attack**] } | "The standing order says nothing is read aloud." | [A reader's account is first-person and reader-specific; another person sees unrelated text or nothing.] | *26 Grudge to the reader. An account cannot be used as an institutional finding.* **[26 Grudge DMG [Grudge]]** | When a reader opens the volume. Six read-aloud occasions are listed, all by workers who thought it might help; this conflicts with the standing order and remains unresolved. |
+| { *The Tale Collapse* [**Ultimate**] } | "The combat log claims every blank surface in the wing takes a line of the same hand; photographs of a filled page develop blank." | [Reported propagation to walls, forms and ledgers conflicts with reader-specific text and blank photographs; no mechanism or second visual form is recorded.] | *20 Grudge per cycle for three cycles to everybody in the wing is an uncorroborated area claim, not an established response.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once; only this combat row reports the sector's forms destroyed. Its relation to the record that the holding has never breached remains unresolved. |
 
 ### Battle Phases
 
@@ -119,7 +119,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A leather-bound tome whose pages fill themselves with ink that seeps from the binding. The text is always a story — but the story changes depending on who opens it. |
-| **Position / movement** | Fixed on its lectern under a weighted cover during containment. For the separately recorded Tool use, the relic works while carried and will not operate for a room. What expands during an event is the number of pages filled, and that advances only while somebody is reading. |
+| **Position / movement** | Fixed on its lectern under a weighted cover during containment. The separately recorded Tool use carries the relic, not the source; it does not operate for a room. The operational record says the book writes itself. This profile's breach note says page expansion occurs only while read; the file does not reconcile those accounts. |
 | **Material / signature** | Plain dark leather over vellum; ink that seeps from the binding and is dry on arrival. Grudge expression. No instrument registers anything in the cell between readings, which is itself the baseline. |
 | **Distinctive markers** | Self-filling pages; text that differs completely between readers of the same page in the same hour; and the blanks — pages that stay empty for certain readers and have never afterwards filled. |
 | **Identification** | Confirm: designation `C-IIβ-906 [GO]`, Echo (II) coherence, Moderate (β) potency, Object-Tale manifestation, Grudge element, SECTOR-C-906. Identification is by line count and cover weight. Opening the volume to identify it is the error this section exists to prevent. |
@@ -151,8 +151,8 @@ Grimoire is an Object with Object-Tale manifestation and Grudge expression, held
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion — in pages, and only while being read. |
-| **Movement** | Nothing moves and nothing is released. An unopened Grimoire expands by nothing at all; the event consists entirely of pages filling, and it stops when the cover is closed. This holding is the only one in the wing whose breach requires a volunteer. |
+| **Breach Type** | Expansion — the breach entry describes pages filling only while being read. The operational record says the book writes itself; whether these are separate modes or a contradiction is unresolved. |
+| **Movement** | The physical volume remains on its lectern; no physical movement or release is reported. This entry says an unopened volume expands by nothing and closing the cover stops the event, but the containment log records self-writing under a no-opening protocol. Do not open it to test the discrepancy. The file calls this a volunteer-required breach, while the Registrum says it has never breached. |
 | **Effect** | Grudge in the tale register: the reader receives a complete first-person account of a wrong they did, written by the person they did it to, in that person's voice and with that person's detail. |
 | **First Target** | Whoever reads first, and nobody else. The text shapes itself to the reader; a second person looking over the same shoulder sees unrelated text or sees nothing at all. |
 | **Escalation** | Grudge drain increases by 5 per turn while reading continues. Closing the cover ends the event immediately in every recorded case, and in every recorded case the reader asked for one more page. |
@@ -286,7 +286,7 @@ Each Grimoire piece is an extension of an unanswered grievance rather than ordin
 |---|---|
 | **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, current line count, cover weight confirmed, register of openings checked for the operator's name, and the named attendant. |
 | **During use** | Opening time, page count at fifteen-second intervals, the point at which the account became checkable, first cost, and any request to continue. |
-| **At limit** | The operator reads a line aloud, or the cover is closed by somebody other than them. Both measures are recorded; the second has happened four times and each one is written up as a failure of the first. |
+| **At limit** | The attendant closes the cover at the two-minute limit; nothing is read aloud under the standing protocol. Four closures by someone other than the reader are recorded, but the entry does not reconcile them with the timed closure or no-aloud rule. |
 | **After use** | Closure method, transcript sealed unread, register entry completed, lingering effects, cooldown, rotation status, reuse authorisation — which is never granted to the same reader twice. |
 ## 관찰 기록 (Observation Log)
 
@@ -328,7 +328,7 @@ There is no sensation at all. The cell is cold and ordinary and the book is a bo
 
 **At first contact:** A lectern, a weighted cover, a line count written on a slate, and a volume that is warm along the spine and nowhere else.
 
-**With continued exposure:** Nothing changes for the Warden who does not read. For the one who does, the page is immediately and specifically about them, which readers consistently describe not as frightening but as being recognised.
+**With continued exposure:** Nothing changes for the Warden who does not read. For the one who does, the page is immediately and specifically about them, which readers consistently describe not as frightening but as being recognised. The study records forty-seven blank results among three hundred and forty openings; a text-filled page is not guaranteed.
 
 **When the entity activates:** Pages fill. That is the whole of it. There is no sound, no pressure, no change in the room, and the only evidence that anything has happened is a line count and a person who has gone quiet.
 

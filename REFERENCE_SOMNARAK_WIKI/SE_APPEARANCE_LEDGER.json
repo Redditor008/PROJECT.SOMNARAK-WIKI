@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIβ-906": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_02_GRIMOIRE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_OPEN.json"
@@ -1539,8 +1551,30 @@
     {
       "designation": "C-IIβ-906",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-906_Grimoire_스스로_쓰는_책.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Nine supported repairs (3 short / 6 careful; 7219→7351 words) align the visible writing record with what instruments actually show, correct the reader trigger and study precision, replace the unsupported read-aloud action with an explicitly held conflict, qualify the uncorroborated sector-wide collapse, distinguish a stationary source from carried Tool use, and expose the self-writing/read-trigger breach conflict without inventing a mode. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_02_GRIMOIRE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/906_Grimoire/SE-906-A__SIDE_CODEX_Grimoire.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/906_Grimoire/SE-906-B__MAW-W_Grimoire_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/906_Grimoire/SE-906-C__MAW-S_Grimoire_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/906_Grimoire/SE-906-D__MAW-G_Grimoire_s_Token.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIβ-947",

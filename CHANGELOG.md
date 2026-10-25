@@ -8,11 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 181 — OPEN, 1 / 5 (2026-10-25)
+## Batch 181 — OPEN, 2 / 5 (2026-10-25)
 
 Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes Homecoming Tree `C-Iα-869` (7183), Grimoire `C-IIβ-906` (7219), Sky of Borrowed Faces `O-IIIγ-926` (7249), The Echo Compass `C-IIIβ-016` (7252), and Harbinger `N-IIIβ-155` (7254). Reserves, used only if the No change ladder extends the batch, are Cenotaph `N-IVδ-525`, Kind Healer's Shadow `N-IIβ-280`, Double Mouth `C-IIβ-716`, The Final Door `C-Vδ-111`, and Carrying Nothing `C-IIβ-357`. Baseline archive/timeline/seam/box audits PASS.
 
-**Unit 1 — Homecoming Tree `C-Iα-869`: HELD.** Ten supported repairs (6 short / 4 careful; 7183→7323 words) align movement and combat to the walking place, failed returns, bark names and open route; split equipment signs; and correct Zone E references. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_01_HOMECOMING_TREE.md). Batch 118 already counted the exact set inside the legacy baseline: +0/+0/+0. Completed 1/5; No change 0/1; held 162 / pending 119. Next is Grimoire `C-IIβ-906`. No Batch 182, merge, artwork or deployment is authorized.
+**Unit 1 — Homecoming Tree `C-Iα-869`: HELD.** Ten supported repairs (6 short / 4 careful; 7183→7323 words) align movement and combat to the walking place, failed returns, bark names and open route; split equipment signs; and correct Zone E references. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_01_HOMECOMING_TREE.md). Batch 118 already counted the exact set inside the legacy baseline: +0/+0/+0.
+
+**Unit 2 — Grimoire `C-IIβ-906`: HELD.** Nine supported repairs (3 short / 6 careful; 7219→7351 words) align writing claims to instrument records, correct reader-specific triggers, replace the read-aloud action with a held conflict, qualify the uncorroborated sector collapse, and distinguish the carried I-Relic from its stationary source. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_02_GRIMOIRE.md). Batch 141 already counted the exact set and Weapon pair: +0/+0/+0.
+
+**Commentary:** Its most unsettling element is still the institution: a book that returns one person's unraised grievance, and a facility that turns blank pages into job screening while insisting it has relied on no accusation. The blank-page practice is a moral trap, not just a haunted-book twist. Yet the file's protocols disagree about opening, reading, and what the pages can do; those contradictions should stay unresolved rather than be converted into mechanics.
+
+Completed 2/5; No change 0/2; held 163 / pending 118. Next is Sky of Borrowed Faces `O-IIIγ-926`. No Batch 182, merge, artwork or deployment is authorized.
 
 ## Batch 180 — CLOSED, 5 / 5 (2026-10-25)
 
