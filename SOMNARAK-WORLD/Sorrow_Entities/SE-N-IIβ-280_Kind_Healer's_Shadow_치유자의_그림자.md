@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Non-Organic — A gentle human-shaped shadow with no face, cast by nothing, that follows the wounded and rests beside them. It radiates warmth though it is only dark; salt-damp, it smells of cold rain. It cannot heal — only stay, so the hurt are not alone. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Ambient and attending — beside one wounded person at a time, moving as they move; breach is division across the ward, never pursuit and never beyond the Commons. |
 | **Location** | Zone D, Mantle Commons — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,9 +31,10 @@
 | **Han-Energy yield** | 12–18 per successful work cycle, taken off the ward and never off the shadow |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | β (Moderate) · β (Moderate) — the Cleaver, the Shroud and the Echo are all graded to the holding. |
+| **Tool / M.A.W. grade** | β (Moderate) — the Cleaver, the Shroud and the Echo are all graded to the holding. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
+| **Recommended response** | Accept its help and acknowledge the healer it carries. Flerehan and Ferrehan lower the gauge, one cycle per person per shift; Pugnahan is entered as withdrawal with no reading taken. |
 Flerehan and Ferrehan, and the transfer runs one way. Flerehan moves a measurable share of the worker's distress across, and nothing that crosses over has been seen to return; Ferrehan answers to duration, so the gauge drops in step with how long the sit runs and not with anything said during it. Viderehan is worth a cycle on its own account, because it shows the healer at work in a detail that matches the ward's surviving records. Pugnahan is entered as withdrawal with no reading taken. One cycle per person per shift, enforced by name.
 
 ### Operational Notes
@@ -70,7 +71,7 @@ Flerehan and Ferrehan, and the transfer runs one way. Flerehan moves a measurabl
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan and Ferrehan move the gauge; Viderehan runs for record; Pugnahan is tested withdrawal and achieves nothing |
 | **Battlefield** | Zone D, Mantle Commons — ambient |
 | **Resolution Condition** | Accept its help and acknowledge the healer it carries |
 
@@ -78,17 +79,17 @@ Flerehan and Ferrehan, and the transfer runs one way. Flerehan moves a measurabl
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Cost* [**Debuff**] } | "The healer's shadow falls on you — and where it touches, the price of every healing you ever received comes due." | [The Shadow's presence demands payment for past care.] | *Target suffers -10 Composure; they owe for every kindness.* **[10 Lament DMG [Lament]]** | When the Shadow falls on them. |
-| { *The Accumulated Debt* [**Debuff**] } | "Every wound the healer closed, every grief they soothed — the shadow remembers, and the bill is enormous." | [The Shadow's tally of healing-debt grows; the target is buried in gratitude they cannot repay.] | *Target loses 10 Composure; the debt of kindness is crushing.* **[10 Lament DMG [Lament]]** | When the target lingers in shadow. |
-| { *The Dark Hand* [**Attack**] } | "The healer's shadow reaches — and its touch is the opposite of healing: concentrated, surgical harm." | [A shadow-strike that undoes what healing built.] | *Inflicts Lament pressure and one wound of reversed care.* **[14-22 Lament DMG [Lament]]** | When the Shadow is provoked. |
-| { *The Full Reversal* [**Attack**] } | "Every healing the shadow's light ever performed — reversed, at once — every wound reopened." | [Every healing the shadow's light has ever stood behind is undone at once, and the wounds come back with it.] | *A heavy Deep Blue un-healing; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Shadow is confronted. |
-| { *The Cost of Care* [**Ultimate**] } | "The healer's shadow extends over everyone — and the accumulated cost of all healing crushes the field." | [The debt spreads past the shadow, and the whole field begins paying for care it never received.] | *All in range suffer Lament pressure for three turns of healing's price.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Cost* [**Debuff**] } | "It will sit with you all night and it cannot fetch you a glass of water." | [The shadow settles beside the most hurt person in the room; a measurable share of distress crosses, one way.] | *Target suffers -10 Composure; the relief is real and the depletion follows within the hour.* **[10 Lament DMG [Lament]]** | When the shadow begins attending. |
+| { *The Accumulated Debt* [**Debuff**] } | "One hundred and forty-eight bedsides, and not one of them a treatment." | [Nothing that crossed over has ever been seen to return; the worker finishes lighter and asks to go again.] | *Target loses 10 Composure; wanting it back is the failure the cap exists for.* **[10 Lament DMG [Lament]]** | When a second cycle in one shift is attempted or requested. |
+| { *The Dark Hand* [**Attack**] } | "It does not close a wound, slow a bleed, or bring down a fever." | [No hand lands. The warmth holds at one bedside while the attended person's own unspoken grief arrives at full weight.] | *Inflicts Lament pressure as compassion without hands; no wound is made or unmade.* **[14-22 Lament DMG [Lament]]** | When the attendance is refused, or the healer left unnamed. |
+| { *The Full Reversal* [**Attack**] } | "Escalation is division." | [The warmth stops being in one place and attempts a second bedside; the session closes and the ward is raised.] | *A heavy Lament surge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When warmth is recorded at an unattended bed. |
+| { *The Cost of Care* [**Ultimate**] } | "Every bed has it at once, which sounds like an improvement for about four seconds." | [The attendance divides through the ward's own shadows; staff begin attending patients they are not assigned to and cannot stop.] | *All in range suffer Lament pressure for three turns of divided attendance.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The warmth identifies it, and so does the absence of anything that could be making it; shape alone proves nothing, the Commons being full of shadows and 2 wing holdings being dark-formed. Confirm the designation against the classification table, set the approach, take the positions, and only then begin.
 2. **Clash:** Four turns, worked in the open ward with the attended patient's consent recorded beforehand. The patient is never moved for the convenience of the cycle.
-3. **Resolution:** The session ends in containment, management or withdrawal, or on the suppression condition entered above: **Accept its help and acknowledge the healer it carries**. The clause runs the watch: the help is taken as the ward offers it, the healer behind the shadow is named in the record, and refusing either closes nothing on this ground.
+3. **Resolution:** The cycle closes when the help has been accepted as the ward gives it and the healer the shadow carries is acknowledged in the record, by name wherever the file has one. One cycle per person per shift, enforced by name; any warmth at an unattended bed ends the session instead and raises the ward.
 
 ### Consequences
 
@@ -230,12 +231,12 @@ Every piece is an extension of Kind Healer's Shadow, not gear raised against it.
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Kind Healer's Shadow the recorded cost is that the wielder feels the entity's unwept grief. |
-| **During use** | Every occurrence of what Kind Healer's Shadow takes (the wielder feels the entity's unwept grief), timed. One is noted; a pattern across a shift ends the use. |
-| **At limit** | Kind Healer's Shadow's cost is continuous rather than occasional: the wearer becomes numb to minor joys. The second worker's call stands against the wielder's. |
-| **After use** | Piece returned; re-assess a week later, because what Kind Healer's Shadow takes (the wearer becomes numb to minor joys) does not present on the day. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else: steadiness beside pain for the Cleaver, response to minor joys for the Shroud, and the bearer's own pain load for the Echo. |
+| **During use** | Time the piece's own sign: weeping that arrives unbidden for the Cleaver, small pleasures going unnoticed for the Shroud, and another person's pain landing on the Echo-bearer. One occurrence is noted; a pattern across a shift ends the use. |
+| **At limit** | The sign is continuous rather than occasional, the wielder works hours they do not log, or cannot leave a bedside. The second worker's call stands against the wielder's. |
+| **After use** | Piece returned; re-assess a week later and again at the fourteen-day flatness check, because what this set takes does not present on the day. The debrief records hours worked and not logged. |
 
-**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** On this set the benefit and the cost are the same shape: steadiness beside pain, priced as the ability to leave a bedside. A β piece that performs to grade can still return a wielder who is calm, attentive, well thought of — and reports feeling nothing about any of it.
 
 **Full-set source review (2026-10-12):** Reviewed the `β (Moderate) · β (Moderate)` overview, every local Weapon/Suit/Stigma claim, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against Side `SE-1029-A` (`N-IIβ-280 [LS]`, `4/4`), items `SE-1029-B/C/D`, Registry records `SE-1029-A–D`, Master M.A.W. entries 481–483, the Entity Codex row, Tale 161, and archetypes `MAW-W-280/1029`. The grade is corroborated. Local and Side/item Weapon values agree at Lament 5–9 / Normal 2 / Range 2 (Short) / max 4 / 25 Echoes; Side/item Single / 100% is not stated locally. Hold local *The Surgeon's Cleaver* and its 22 cm cleaver Appearance against Side/item B and detailed Entry 481 *The Healer's Requiem*; Master table row 481 and `MAW-W-280` instead name a mirror-polished square cleaver / Close, while linked-code `MAW-W-1029` is a sealed-scripture urn / Close. Neither form nor band maps to local Range 2, and no item Appearance/transition crosswalk exists. The Suit's resistance profile, maximum, and cost agree locally and in Side/item C, but Master row 482's Living-Chitin/Carapace category does not establish the primary's hospice-linen coat. Stigma Tail / 5% / +1 agrees locally and in Side/item D; Registry Accessory is generic and Master row 483's Ocular-Lenses class does not establish Tail. The same *Surgeon's Cleaver* title appears in Pall `C-IIβ-280`, whose separate primary/Side/item sources contain a stiletto, pavise/javelin, and chalice split; that review is cross-dossier context, not a shared-item link. The earlier B66 primary Appearance repair and `73560193` Suit-resistance insertion were component/content edits, not a source-led Weapon-pair or full-set disposition. No disputed title, form, band, subtype, slot, or chance changed.
 
@@ -269,7 +270,7 @@ Every piece is an extension of Kind Healer's Shadow, not gear raised against it.
 Kind Healer's Shadow (N-IIβ-280 [LS]) is entered as a Subject-Phantasmal manifestation expressing Lament. It formed from the compassion of healers who died and left it behind. Held at Zone D, Mantle Commons, ambient. The one it follows is the most emotionally wounded in the room, which is not always the most visibly hurt.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
-Spreads through the facility by following wounded personnel. Personnel feel ancient mourning while their wounds close. It becomes more active during breaches.
+Spreads through the facility by following wounded personnel. Personnel feel ancient mourning beside it; the log's earlier wording that wounds close is not supported — it does not close a wound, and the infirmary records association only. It becomes more active during breaches.
 
 **Entry 3 — <Excerpt from Counseling Log>**
 The grief of healing others while leaving no one to continue the work.

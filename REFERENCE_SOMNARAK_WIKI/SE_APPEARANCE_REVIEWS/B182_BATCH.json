@@ -2,7 +2,7 @@
   "batch": 182,
   "status": "OPEN",
   "required": 5,
-  "completed": 1,
+  "completed": 2,
   "no_change": 0,
   "units": [
     {
@@ -160,6 +160,161 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 10,
         "digit_sequence_change": "The rewritten Registrum notes restate the file's own register figures as digits (406 crossings, 91 shared); no operational number changed."
+      }
+    },
+    {
+      "designation": "N-IIβ-280",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-280_Kind_Healer's_Shadow_치유자의_그림자.md",
+      "words": 7266,
+      "sha256": "eff842a80309da6f3264d958ee9a1291860e260a45be25c7c6af5d10d3465b45",
+      "unit": 2,
+      "name": "Kind Healer's Shadow",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_02_KIND_HEALERS_SHADOW.md",
+      "before_words": 7266,
+      "after_words": 7427,
+      "base": "bd1e1931db30944acaf26e13b9941253fe55a413",
+      "final_sha256": "787ea6efde96862b291b748ca6260a32d06bdad4d556848879abe1f11de8d93f",
+      "summary": "Eight supported repairs bring the seams back to the ward record: movement is ambient one-person attendance with division breach, the spliced Operational Parameters table regains its grade and Recommended-response rows, tested-null Pugnahan leaves the valid-work row, combat loses its healing-debt bills, surgical strike and wound-reopening in favour of one-way transfer, the one-cycle cap and division, field-use signs split across Cleaver, Shroud and Echo, and the stale field-log claim that wounds close is corrected to association only. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "This file's honesty is rare: a strong result it believes, cannot defend, and will not improve — because the only valid trial would mean withholding the one reliable attendance in the building by lottery. The fourteen-month cell, where containment quietly depended on a Warden not getting better, is the archive's sharpest warning about arrangements nobody reads two records together to notice.",
+      "reasoning": "R-33 chain: Subject-Phantasmal / Echo-II / Moderate-β Lament → a healer died in the Commons overflow with no apprentice, and only the part of her work needing no hands remained → a warm, sourceless shadow attends exactly one wounded person, cannot heal, and goes when the wound closes → Flerehan transfers distress one way, Ferrehan answers to duration, Viderehan shows the healer, Pugnahan returns tested null; relief now, depletion within the hour, flatness at fourteen days → breach is Transform: the attendance divides across every bed at once and the rota dissolves → equipment lends steadiness beside pain at the price of leaving a bedside. Repairs remove debt-collection and un-healing claims the chain cannot carry; Cleaver/Requiem/Urn and the plural-healers origin remain HELD.",
+      "history": "Batch 103 unit 5 (commit 9981d1f4, 2026-10-12) performed the full-set source review preserved in the primary: complete primary, exact identity-resolved SE-1029-A–D (not numeric SE-280, which belongs to Pall C-IIβ-280), Registry rows 278–281, Master Entries 481–483, Entity Codex row 528, Tale 161 and archetypes MAW-W-280/1029, as one of Batch 103's five whole-set dispositions counting full-SE and Weapon. B52/B66 were prose and appearance work only. The B103 disposition sits inside the ledger legacy 240/240 baseline, so B182 earns +0 Types / +0 Weapon. HELD earns +0 SE.",
+      "holds": [
+        "Weapon identity remains three-way at agreeing statistics (Lament 5–9 / Speed 2 / Range 2 Short / max 4 / 25 Echoes): primary and MAW-W-280 give a mirror-polished square Surgeon's Cleaver (Close band), Side A/item B and Master detailed Entry 481 give The Healer's Requiem with Single/100% unstated locally, and linked-code MAW-W-1029 is a sealed-scripture urn (Close). No Appearance or transition joins cleaver, requiem and urn. The same Cleaver title in Pall C-IIβ-280 is a separate dossier's stiletto/pavise/chalice split, not a shared item.",
+        "Origin population remains forked: Formation, Story Entry 1 and Side A derive the shadow from compassion left by healers (plural) who died, while The People, Expanded origin, Tale 161 and the casualty list give one healer, eleven years alone, no apprentice, her name unmarked among those she was treating. No count was chosen.",
+        "Healing efficacy is unresolved by the file's own design and stays that way: 148 consented episodes outperform matched controls, but an attendant that selects its own patients cannot be compared with anything, and the single allocation trial was withdrawn as not to be repeated. The Stigma's 'minor wounds close over time' also remains unjoined to the entity record that it does not close a wound, slow a bleed, or bring down a fever; piece and entity scopes were not merged.",
+        "Suit/Stigma classifications remain split: the hospice-linen ward coat against Master Entry table Living-Chitin/Carapace category; Tail slot in primary/Side/D against Master Ocular-Lenses class and generic Registry Accessory. The Echo's '+1 stat bonus' remains unnamed in primary, Side and item D alike; no stat was supplied.",
+        "Tale 161's Registrum is stale against the current primary: Contained — Zone B, Threat Low, Flerehan the only valid Work Type, Originator 'of Zone B', where the primary records ambient Zone D after the fourteen-month confinement, Moderate (β), and the corrected Behavior. The standalone Tale was not edited.",
+        "Threshold scopes remain parallel: operational threshold 3 with withdrawal, combat activation at Sorrow Gauge ≥60%, ultimate at 65%, breach opening at 40% rising ten points a turn, and Composure drain +5 per turn. Speed 1.45 m/s is unassigned to an ambient attendant nobody has seen arrive. Division's trigger — four recorded attempts at a second person, never completed in ordinary work — is not joined to the three Transform events."
+      ],
+      "split": [
+        6,
+        2
+      ],
+      "repairs": [
+        {
+          "id": "classification_movement",
+          "kind": "short",
+          "old": "| **Movement** | Mobile — walks upright; can breach and pursue. |",
+          "new": "| **Movement** | Ambient and attending — beside one wounded person at a time, moving as they move; breach is division across the ward, never pursuit and never beyond the Commons. |"
+        },
+        {
+          "id": "grade_row_splice",
+          "kind": "short",
+          "old": "| **Tool / M.A.W. grade** | β (Moderate) · β (Moderate) — the Cleaver, the Shroud and the Echo are all graded to the holding. |",
+          "new": "| **Tool / M.A.W. grade** | β (Moderate) — the Cleaver, the Shroud and the Echo are all graded to the holding. |"
+        },
+        {
+          "id": "recommended_response_row",
+          "kind": "short",
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |\n| **Recommended response** | Accept its help and acknowledge the healer it carries. Flerehan and Ferrehan lower the gauge, one cycle per person per shift; Pugnahan is entered as withdrawal with no reading taken. |"
+        },
+        {
+          "id": "valid_work_types",
+          "kind": "short",
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Flerehan and Ferrehan move the gauge; Viderehan runs for record; Pugnahan is tested withdrawal and achieves nothing |"
+        },
+        {
+          "id": "combat_actions",
+          "kind": "careful-detail",
+          "old": "| { *The Cost* [**Debuff**] } | \"The healer's shadow falls on you — and where it touches, the price of every healing you ever received comes due.\" | [The Shadow's presence demands payment for past care.] | *Target suffers -10 Composure; they owe for every kindness.* **[10 Lament DMG [Lament]]** | When the Shadow falls on them. |\n| { *The Accumulated Debt* [**Debuff**] } | \"Every wound the healer closed, every grief they soothed — the shadow remembers, and the bill is enormous.\" | [The Shadow's tally of healing-debt grows; the target is buried in gratitude they cannot repay.] | *Target loses 10 Composure; the debt of kindness is crushing.* **[10 Lament DMG [Lament]]** | When the target lingers in shadow. |\n| { *The Dark Hand* [**Attack**] } | \"The healer's shadow reaches — and its touch is the opposite of healing: concentrated, surgical harm.\" | [A shadow-strike that undoes what healing built.] | *Inflicts Lament pressure and one wound of reversed care.* **[14-22 Lament DMG [Lament]]** | When the Shadow is provoked. |\n| { *The Full Reversal* [**Attack**] } | \"Every healing the shadow's light ever performed — reversed, at once — every wound reopened.\" | [Every healing the shadow's light has ever stood behind is undone at once, and the wounds come back with it.] | *A heavy Deep Blue un-healing; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Shadow is confronted. |\n| { *The Cost of Care* [**Ultimate**] } | \"The healer's shadow extends over everyone — and the accumulated cost of all healing crushes the field.\" | [The debt spreads past the shadow, and the whole field begins paying for care it never received.] | *All in range suffer Lament pressure for three turns of healing's price.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Cost* [**Debuff**] } | \"It will sit with you all night and it cannot fetch you a glass of water.\" | [The shadow settles beside the most hurt person in the room; a measurable share of distress crosses, one way.] | *Target suffers -10 Composure; the relief is real and the depletion follows within the hour.* **[10 Lament DMG [Lament]]** | When the shadow begins attending. |\n| { *The Accumulated Debt* [**Debuff**] } | \"One hundred and forty-eight bedsides, and not one of them a treatment.\" | [Nothing that crossed over has ever been seen to return; the worker finishes lighter and asks to go again.] | *Target loses 10 Composure; wanting it back is the failure the cap exists for.* **[10 Lament DMG [Lament]]** | When a second cycle in one shift is attempted or requested. |\n| { *The Dark Hand* [**Attack**] } | \"It does not close a wound, slow a bleed, or bring down a fever.\" | [No hand lands. The warmth holds at one bedside while the attended person's own unspoken grief arrives at full weight.] | *Inflicts Lament pressure as compassion without hands; no wound is made or unmade.* **[14-22 Lament DMG [Lament]]** | When the attendance is refused, or the healer left unnamed. |\n| { *The Full Reversal* [**Attack**] } | \"Escalation is division.\" | [The warmth stops being in one place and attempts a second bedside; the session closes and the ward is raised.] | *A heavy Lament surge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When warmth is recorded at an unattended bed. |\n| { *The Cost of Care* [**Ultimate**] } | \"Every bed has it at once, which sounds like an improvement for about four seconds.\" | [The attendance divides through the ward's own shadows; staff begin attending patients they are not assigned to and cannot stop.] | *All in range suffer Lament pressure for three turns of divided attendance.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+        },
+        {
+          "id": "battle_resolution",
+          "kind": "short",
+          "old": "3. **Resolution:** The session ends in containment, management or withdrawal, or on the suppression condition entered above: **Accept its help and acknowledge the healer it carries**. The clause runs the watch: the help is taken as the ward offers it, the healer behind the shadow is named in the record, and refusing either closes nothing on this ground.",
+          "new": "3. **Resolution:** The cycle closes when the help has been accepted as the ward gives it and the healer the shadow carries is acknowledged in the record, by name wherever the file has one. One cycle per person per shift, enforced by name; any warmth at an unattended bed ends the session instead and raises the ward."
+        },
+        {
+          "id": "field_use_split",
+          "kind": "careful-detail",
+          "old": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Kind Healer's Shadow the recorded cost is that the wielder feels the entity's unwept grief. |\n| **During use** | Every occurrence of what Kind Healer's Shadow takes (the wielder feels the entity's unwept grief), timed. One is noted; a pattern across a shift ends the use. |\n| **At limit** | Kind Healer's Shadow's cost is continuous rather than occasional: the wearer becomes numb to minor joys. The second worker's call stands against the wielder's. |\n| **After use** | Piece returned; re-assess a week later, because what Kind Healer's Shadow takes (the wearer becomes numb to minor joys) does not present on the day. |\n\n**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.",
+          "new": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else: steadiness beside pain for the Cleaver, response to minor joys for the Shroud, and the bearer's own pain load for the Echo. |\n| **During use** | Time the piece's own sign: weeping that arrives unbidden for the Cleaver, small pleasures going unnoticed for the Shroud, and another person's pain landing on the Echo-bearer. One occurrence is noted; a pattern across a shift ends the use. |\n| **At limit** | The sign is continuous rather than occasional, the wielder works hours they do not log, or cannot leave a bedside. The second worker's call stands against the wielder's. |\n| **After use** | Piece returned; re-assess a week later and again at the fourteen-day flatness check, because what this set takes does not present on the day. The debrief records hours worked and not logged. |\n\n**Stat interpretation:** On this set the benefit and the cost are the same shape: steadiness beside pain, priced as the ability to leave a bedside. A β piece that performs to grade can still return a wielder who is calm, attentive, well thought of — and reports feeling nothing about any of it."
+        },
+        {
+          "id": "story_entry2_wounds",
+          "kind": "short",
+          "old": "Spreads through the facility by following wounded personnel. Personnel feel ancient mourning while their wounds close. It becomes more active during breaches.",
+          "new": "Spreads through the facility by following wounded personnel. Personnel feel ancient mourning beside it; the log's earlier wording that wounds close is not supported — it does not close a wound, and the infirmary records association only. It becomes more active during breaches."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIβ-280_Kind_Healer's_Shadow_치유자의_그림자.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.024  clean   804 grams  M.A.W. Equipment\n 0.021  clean   482 grams  Combat Record\n 0.013  clean   224 grams  Operational Parameters\n 0.009  clean   226 grams  기록 (Registrum)\n 0.007  clean   274 grams  관찰 기록 (Observation Log)\n 0.007  clean   138 grams  Breach Behavior\n 0.006  clean   511 grams  감각 묘사 (Flavor Text)\n 0.006  clean  1243 grams  Watch Record\n 0.000  clean   313 grams  이야기 (Narratio)\n 0.000  clean   206 grams  이야기 보고 (Story Log)\n 0.000  clean   198 grams  Appearance\n 0.000  clean   160 grams  Trivia\n 0.000  clean   136 grams  Origin\n 0.000  clean   118 grams  최종 관찰 (Final Observation)\n 0.000  clean   109 grams  Behavior\n 0.000  clean    59 grams  증언 (Testimonium)\n 0.000  clean    42 grams  SECC Classification\n 0.000  clean    27 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   3  | **Han-Energy yield** | 12–18 per successful work cycle, taken off the ward and never off the shadow |\n   85   3  | { *The Full Reversal* [**Attack**] } | \"Escalation is division.\" | [The warmth stops being in one place and attempts a second be\n   86   7  | { *The Cost of Care* [**Ultimate**] } | \"Every bed has it at once, which sounds like an improvement for about four seconds.\" | [\n  167   1  - **Sorrow Gauge on breach:** Opens at 40% and rises ten points a turn while unaddressed; it has never been recorded falling on it\n  214   3  **Appearance:** an echo-charm of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.\n  218   1  **Effect:** +1 stat bonus when working the source entity\n  234   3  | **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else: steadiness beside pain for the\n  235   1  | **During use** | Time the piece's own sign: weeping that arrives unbidden for the Cleaver, small pleasures going unnoticed for t\n  236   3  | **At limit** | The sign is continuous rather than occasional, the wielder works hours they do not log, or cannot leave a bedside\n  241   8  **Full-set source review (2026-10-12):** Reviewed the `β (Moderate) · β (Moderate)` overview, every local Weapon/Suit/Stigma claim\n  264   2  **Observation method:** Observe in the open ward, 1 cycle per person per shift, with the attendance and the clinical notes kept by\n  311   1  **Interaction method:** Take each party alone across several cycles before any paired approach, with gauge, attendance and depleti\n  318   2  | The shadow's neighbour | How the pairing has run | What the ward logged | What the entry carries |\n  365   2  **Faction Involvement:** SED, on the D-territory survey · UCD, for the Fray-adjacent ground\n  437   7  The objection goes into the minute at every annual review, raised by the facility's counsellor, who ran the review. Its case: rost\nGENERIC 0.009  (47 shared shingles)  SE-N-IIβ-280_Kind_Healer's_Shadow_치유자의_그림자.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1029_The_Kind_Healer_s_Shadow/SE-1029-A__SIDE_CODEX_The_Kind_Healer_s_Shadow.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1029_The_Kind_Healer_s_Shadow/SE-1029-B__MAW-W_The_Healer_s_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1029_The_Kind_Healer_s_Shadow/SE-1029-C__MAW-S_The_Healer_s_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1029_The_Kind_Healer_s_Shadow/SE-1029-D__MAW-G_The_Healer_s_Echo.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1029_The_Kind_Healer_s_Shadow/SE-1029-A__SIDE_CODEX_The_Kind_Healer_s_Shadow.md": "c668d19ef3168e664785a761dfcd1e3977fd37ecdfed060f3ae348dbd310aeaf",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1029_The_Kind_Healer_s_Shadow/SE-1029-B__MAW-W_The_Healer_s_Requiem.md": "8a11a49d237af96c7d74ce9cf6983af2fad822037cea26f72c30a677e0ab8541",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1029_The_Kind_Healer_s_Shadow/SE-1029-C__MAW-S_The_Healer_s_Shroud.md": "4cc0c762173db62654b52c1fbb48e6ef8ec3aee31712e741ddf12c8584d65620",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1029_The_Kind_Healer_s_Shadow/SE-1029-D__MAW-G_The_Healer_s_Echo.md": "0188747acd50924191cb6ed361a52723b4ed0392e45c3ed39cb2c1ca78d11741",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IIβ-280_Kind_Healer's_Shadow_치유자의_그림자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-280_Kind_Healer%27s_Shadow_%EC%B9%98%EC%9C%A0%EC%9E%90%EC%9D%98_%EA%B7%B8%EB%A6%BC%EC%9E%90.md \"SE-N-IIβ-280_Kind_Healer's_Shadow_치유자의_그림자.md\")]",
+      "table_link": "[Kind_Healer's_Shadow](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-280_Kind_Healer%27s_Shadow_%EC%B9%98%EC%9C%A0%EC%9E%90%EC%9D%98_%EA%B7%B8%EB%A6%BC%EC%9E%90.md \"SE-N-IIβ-280_Kind_Healer's_Shadow_치유자의_그림자.md\")",
+      "reading": {
+        "before_lines": 458,
+        "before_bytes": 44188,
+        "final_lines": 459,
+        "final_bytes": 44966
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 113,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10
       }
     }
   ],

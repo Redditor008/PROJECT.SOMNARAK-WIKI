@@ -1,6 +1,6 @@
 # Work In Progress
 
-## Batch 182 — OPEN, 1 / 5 (2026-10-26)
+## Batch 182 — OPEN, 2 / 5 (2026-10-26)
 
 Owner “p p” in this session. Batch 181 was found already CLOSED on origin by another session acting on the same instruction (closure `8a5326d`); a stale-snapshot restore was leveled with `tools/syncbranch.py` before any edit, no work lost. This session applies its authorization to Batch 182 only. A fresh pending-only `LC_ALL=C wc -w` ranking from the authoritative 301-path ledger, with designation-byte ties, freezes this queue:
 
@@ -16,7 +16,11 @@ Reserves, only if three cumulative No change results extend the batch 5→7→10
 
 **Commentary:** The most humane order in the archive may be the one closing this crossing: not unsafe, still on duty. I admire that containment is a traffic register and a named routing office rather than a stronger door — the facility finally takes the load off the guardian by taking the duty onto itself, in writing.
 
-Completed 1/5; No change 0/1. Counters: 269/301 Types, 267/287 Weapon, 18/301 SE; held 167 / pending 114. Next frozen unit is Kind Healer's Shadow `N-IIβ-280`. Chatroom reporting follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No Batch 183, merge, artwork or deployment is authorized.
+**Unit 2 — Kind Healer's Shadow `N-IIβ-280`: HELD.** Eight supported repairs (6 short / 2 careful; 7266→7427 words) scope ambient one-person attendance, repair the spliced Operational Parameters table, remove tested-null Pugnahan from valid work, rewrite healing-debt/surgical/un-healing combat as one-way transfer, cycle cap and division, split field-use signs, and correct the field-log wound-closing claim to association only. Cleaver/Requiem/Urn, plural-versus-single healer origin, unnamed +1, stale Tale Registrum and thresholds remain held. Batch 103 already counted the identity-resolved SE-1029 set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B182_02_KIND_HEALERS_SHADOW.md).
+
+**Commentary:** This file's honesty is rare: a strong result it believes, cannot defend, and will not improve — because the only valid trial would mean withholding the one reliable attendance in the building by lottery. The fourteen-month cell, where containment quietly depended on a Warden not getting better, is the archive's sharpest warning about arrangements nobody reads two records together to notice.
+
+Completed 2/5; No change 0/2. Counters: 269/301 Types, 267/287 Weapon, 18/301 SE; held 168 / pending 113. Next frozen unit is Double Mouth `C-IIβ-716`. Chatroom reporting follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No Batch 183, merge, artwork or deployment is authorized.
 
 ## Batch 181 — CLOSED, 5 / 5 (2026-10-25)
 

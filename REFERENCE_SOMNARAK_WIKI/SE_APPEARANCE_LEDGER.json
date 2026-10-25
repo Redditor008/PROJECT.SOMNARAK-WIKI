@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IIβ-280": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_02_KIND_HEALERS_SHADOW.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_OPEN.json"
@@ -3647,8 +3659,29 @@
     {
       "designation": "N-IIβ-280",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-280_Kind_Healer's_Shadow_치유자의_그림자.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Eight supported repairs bring the seams back to the ward record: movement is ambient one-person attendance with division breach, the spliced Operational Parameters table regains its grade and Recommended-response rows, tested-null Pugnahan leaves the valid-work row, combat loses its healing-debt bills, surgical strike and wound-reopening in favour of one-way transfer, the one-cycle cap and division, field-use signs split across Cleaver, Shroud and Echo, and the stale field-log claim that wounds close is corrected to association only. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_02_KIND_HEALERS_SHADOW.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1029_The_Kind_Healer_s_Shadow/SE-1029-A__SIDE_CODEX_The_Kind_Healer_s_Shadow.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1029_The_Kind_Healer_s_Shadow/SE-1029-B__MAW-W_The_Healer_s_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1029_The_Kind_Healer_s_Shadow/SE-1029-C__MAW-S_The_Healer_s_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1029_The_Kind_Healer_s_Shadow/SE-1029-D__MAW-G_The_Healer_s_Echo.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIβ-319",
