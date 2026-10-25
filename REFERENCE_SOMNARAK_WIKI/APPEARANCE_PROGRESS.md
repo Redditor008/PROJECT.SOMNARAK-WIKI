@@ -1,6 +1,8 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch182 CLOSED 5/5.** Five HELD reviews, 41 supported repairs, No change 0/5. The Final Door earns the batch's only fresh equipment credit, +1 Types / +1 Weapon. [Close report](SE_APPEARANCE_REVIEWS/B182_CLOSE.md). Counters: 270/301 Types, 268/287 Weapon, 18/301 SE; held 171 / pending 110.
+**Latest: Batch183 OPEN 0/5.** Queue: Bridge to Nowhere, Echo of Kindness, Stranded Between Two Shores, Cleaved, Cracked Mirror. Special Activation counted the same turn: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)). Counters: 270/301 Types, 268/287 Weapon, 18/301 SE; held 171 / pending 110.
+
+**Previous: Batch182 CLOSED 5/5.** Five HELD reviews, 41 supported repairs, No change 0/5. The Final Door earns the batch's only fresh equipment credit, +1 Types / +1 Weapon. [Close report](SE_APPEARANCE_REVIEWS/B182_CLOSE.md).
 
 **Previous: Batch180 CLOSED 5/5.** Five HELD reviews, 39 supported repairs, No change 0/5. [Close report](SE_APPEARANCE_REVIEWS/B180_CLOSE.md). Counters unchanged; ledger held 161 / pending 120.
 

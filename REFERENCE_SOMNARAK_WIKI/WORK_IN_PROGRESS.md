@@ -1,5 +1,9 @@
 # Work In Progress
 
+## Batch 183 — OPEN, 0 / 5 (2026-10-26)
+
+Owner "P" after CLOSED 182, with the Special Activation count question answered the same turn: **153 of 301** SEs have no breach counter (Activation 78, Event-in-place 41, Expansion 35; one dual-block) — [count note](SPECIAL_ACTIVATION_SE.md), pushed `d070d9f`. Fresh pending-only `LC_ALL=C wc -w` ranking, designation-byte ties, freezes: Bridge to Nowhere `C-IVδ-260` (7308), Echo of Kindness `C-Iα-240` (7313), Stranded Between Two Shores `C-IVδ-823` (7315), Cleaved `C-IIβ-775` (7327), Cracked Mirror `C-IIβ-310` (7328). Reserves, only on ladder extension: `O-IVδ-851`, `O-Iα-754`, `C-Vδ-010`, `N-IIIγ-447`, `C-IIβ-280`. Baseline lore/timeline/seam/box audits PASS. Batch 183 only; no merge, artwork or deployment.
+
 ## Batch 182 — CLOSED, 5 / 5 (2026-10-26)
 
 All five reviews HELD after supported repairs; 41 repairs (26 short / 15 careful), 36,385 → 36,983 words; No change 0/5, reserves unused. Equipment coverage +1 Types / +1 Weapon (The Final Door, first whole-set disposition); SE +0. Fresh closure validators 25/25, tests 54/54, lore/timeline/seam/box audits PASS, exact reconstruction 5/5, 110 pending fingerprints unchanged. [Close report](SE_APPEARANCE_REVIEWS/B182_CLOSE.md). Batch 183 is not authorized.

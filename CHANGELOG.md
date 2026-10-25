@@ -8,7 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 182 — OPEN, 2 / 5 (2026-10-26)
+## Batch 183 — OPEN, 0 / 5 (2026-10-26)
+
+Owner "P" after CLOSED 182 authorizes Batch 183 only, with the Special Activation count answered first: **153 of 301** SEs have no breach counter ([count note](REFERENCE_SOMNARAK_WIKI/SPECIAL_ACTIVATION_SE.md)). Fresh pending-only `LC_ALL=C wc -w` ranking freezes Bridge to Nowhere `C-IVδ-260` (7308), Echo of Kindness `C-Iα-240` (7313), Stranded Between Two Shores `C-IVδ-823` (7315), Cleaved `C-IIβ-775` (7327), Cracked Mirror `C-IIβ-310` (7328); reserves `O-IVδ-851`, `O-Iα-754`, `C-Vδ-010`, `N-IIIγ-447`, `C-IIβ-280` only on ladder extension. Baseline audits PASS.
+
+## Batch 182 — CLOSED, 5 / 5 (2026-10-26)
 
 Owner “p p” in this session; Batch 181 was found already CLOSED on origin by another session acting on the same instruction, and a stale-snapshot restore was leveled by `tools/syncbranch.py` before any edit. This session applies its authorization to Batch 182 only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes Cenotaph `N-IVδ-525` (7261), Kind Healer's Shadow `N-IIβ-280` (7266), Double Mouth `C-IIβ-716` (7277), The Final Door `C-Vδ-111` (7277), and Carrying Nothing `C-IIβ-357` (7304). Reserves are Bridge to Nowhere `C-IVδ-260`, Echo of Kindness `C-Iα-240`, Stranded Between Two Shores `C-IVδ-823`, Cleaved `C-IIβ-775`, and Cracked Mirror `C-IIβ-310`, used only if the No change ladder extends the batch. Baseline archive/timeline/seam/box audits PASS. No Batch 183, merge, artwork or deployment is authorized.
 
