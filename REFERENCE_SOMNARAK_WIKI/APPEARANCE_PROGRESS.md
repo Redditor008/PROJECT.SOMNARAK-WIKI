@@ -29,7 +29,7 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 
 | Workstream | Completed | Coverage | Remaining |
 |---|---:|---:|---:|
-| ALL M.A.W. Types Appearance per SE — source-review coverage | 267 / 301 | 88.70% | 34 / 301 |
+| ALL M.A.W. Types Appearance per SE — source-review coverage | 268 / 301 | 89.04% | 33 / 301 |
 | ALL M.A.W.-W Appearance per SE — source-review coverage | 266 / 287 | 92.68% | 21 / 287 |
 | SE Appearance Fix — independent written-design pass | 18 / 301 | 5.98% | 283 / 301 |
 

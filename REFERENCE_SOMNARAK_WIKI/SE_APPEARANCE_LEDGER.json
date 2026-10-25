@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-Vγ-003": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_03_WILDERNESS_TIDE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_OPEN.json"
@@ -5739,8 +5751,30 @@
     {
       "designation": "O-Vγ-003",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Vγ-003_Wilderness_Tide_야생의_조수.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Six supported repairs clear the file's sole seam hit, ground the combat consequences in the Long Surge catalogue entry, align the clash phase with endurance and observation, label the wall-failure fields as an unrecorded contingency, separate surge front, wild source, dissolved contents and residue in Appearance, and record the Side-only no-extraction registry against the present item files and Wild Mark without authorising any piece.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_03_WILDERNESS_TIDE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/003_Wilderness_Tide/SE-003-A__SIDE_CODEX_The_Wilderness_Tide.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/003_Wilderness_Tide/SE-003-B__MAW-W_Wilderness_Breaker.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/003_Wilderness_Tide/SE-003-C__MAW-S_Wilderness_Bulwark.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/003_Wilderness_Tide/SE-003-D__MAW-G_Wilderness_Brine.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     }
   ],
   "batch_history": [
@@ -7113,6 +7147,14 @@
       "history_proof": "Fresh exact-pair review: current and both archived WIP, CHANGELOG, MAWPersonalize searched designation643/Vanity/FrozenMirror/FrozenFang/Stiletto/FrozenReflection/exactB/MAWW643. Hits concern illustrations, shared prosecleanup or Apnea159’s explicitly separate FrozenFang; none a source-led643pair disposition. All-ref primarylog10cd20a only. Ledger absence alone not used as proof against legacy240/239; records show no prior pair review. +1 Types/+1 Weapon only, not artwork. ExactA O-Iα-643GO joins Vanity/FrozenMirror; Master718 not entry643BrokenDoor; no borrowing159. A/BαGrudge3–6/2/2Single5/15; C1/.4/1.8/1.2max5/10; DTail5%+1Resilience. GenericCSVAccessory separate.",
       "all_types_credit": true,
       "weapon_credit": true
+    },
+    {
+      "designation": "O-Vγ-003",
+      "batch": 179,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_03_WILDERNESS_TIDE.md",
+      "history_proof": "Fresh all-type disposition. Current WIP, CHANGELOG with both archived volumes, APPEARANCE_PROGRESS and MAW personalization progress searched by full designation, English and Side titles, Breaker/Bulwark/Brine names, exact B code and filename. Hits are the R-29 condition/series prose unit that authored the surge catalogue figures with disclosure, the Outside Sovereign distribution note, the structure inventory recording absent Use Notes and Field Use headings, and Batch 178/179 pending fingerprints. None is a source-led exact-set or exact-pair disposition; ledger absence alone was not used as proof. Exact Side A closes Side-only and the comparator skips non-complete Sides as exception sets, so this review earns +1 Types only. Weapon +0: extraction is prohibited and no authorised paired Weapon stands in paired scope, whatever the present B file claims. SE +0 held. No artwork credit.",
+      "all_types_credit": true,
+      "weapon_credit": false
     }
   ]
 }

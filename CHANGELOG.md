@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 179 — OPEN 3 / 5: Wilderness Tide (2026-10-25)
+
+Six supported repairs clear the file's sole seam hit, ground the combat consequences in the Long Surge catalogue entry, align the clash phase with endurance and observation, label the wall-failure fields as an unrecorded contingency, separate surge front, wild source, dissolved contents and residue in Appearance, and record the Side-only no-extraction registry against the present item files and Wild Mark without authorising any piece.
+
+**Commentary:** This is the rare holding where the bravest sentence in the file is that nothing happened. I believe the Rangers' version of heroism — logs, lamps and cleared drifts — more than the combat table's vines, because the chronicle never needs the Tide to attack for the pressure to matter. The sighting after the Long Surge works precisely because the file leaves it as one tired sergeant's oath instead of promoting it into a face.
+
+Whole design HELD. Six repairs: 4 short / 2 careful; LC_ALL=C words 7063 → 7445. Complete before/source/history/final readings and five checks PASS. Source fingerprints, 300 unselected primaries, 301 Physical Form rows, digit sequences and Tale unchanged. Fresh all-type disposition: +1 Types / +0 Weapon / +0 SE. [Unit evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_03_WILDERNESS_TIDE.md).
+
+Two frozen units pending: WrathFlame120, DrownedRoots997. No change 0/3; minimum five remains, do not close below five or start 180. Counters 268/301 Types, 266/287 Weapon, 18/301 SE. Held 154 / pending 127. Later full recheck and Batch301 eight-owner-body blocker retained. No merge, artwork or deployment.
+
+
 ## Batch 179 — OPEN 2 / 5: Hollow Tree (2026-10-25)
 
 Five supported repairs replace the generic creature-gait list with found root-leg relocations, mark the prohibited Work response as prohibited in the combat summary, replace Tide growth with the measured widening quiet, separate shell, cavity, quiet and standing figure in Appearance, and record the Weapon, Carapace and Gullet costs separately in field use.

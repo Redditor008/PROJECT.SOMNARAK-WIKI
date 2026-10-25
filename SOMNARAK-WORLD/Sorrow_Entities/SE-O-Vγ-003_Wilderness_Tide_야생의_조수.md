@@ -82,12 +82,12 @@
 ### Battle Phases
 
 1. **Tension:** Watchtowers detect the surge building beyond the Desolate. Wardens deploy to the wall. Han-suppression gear activated.
-2. **Clash:** The Tide crashes against the wall. Wardens hold the line with barriers and force. The ground trembles. Each wave is heavier than the last.
+2. **Clash:** The Tide crashes against the wall. Wardens hold the line by endurance at the wall under the ballast anchors, while the Watchtowers keep mapping the flow. The ground trembles. Each wave is heavier than the last.
 3. **Resolution:** The Tide recedes — gradually, grudgingly, leaving salt-traces of raw Han on the stone. The wall holds. Or it doesn't.
 
 ### Consequences
 
-- Failed resistance applies massive pressure to **Resolve** and may crack the border wall.
+- A surge that outlasts the wall watch is read afterward in residue depth and the repair survey, not settled in a duel with the wave. The Long Surge held for hours without recession, cost three Wardens to Fracture, and left the wall standing at its lowest catalogued integrity.
 - If the wall breaches, Outside Sorrow floods into Zone E — a catastrophic event requiring full Warden deployment.
 - The Tide always returns. It is the wilderness breathing.
 
@@ -100,6 +100,8 @@
 - It carries fragments of wilderness entities within it — broken, unformed, dissolved by the raw Han.
 - After each surge, the border wall is left coated in a dark, salt-like residue that the Wardens must scrub before it erodes the stone.
 - The Tide is most powerful during the Sorrow Tide (nightly) and during seasonal Han-storms in the wilderness.
+
+**Reading the surge:** What reaches the wall is a moving front of compressed wilderness Han, felt first as ground tremor and iron on the air, then seen as a dark rising wall. That front is the current form a watch can report. UnWiHan beyond the Desolate is its source, not a larger body hiding behind the wave, and the vast watching shape in one testimony is a single reported sighting, not a confirmed head or face. Broken wilderness fragments carried inside a surge are contents being dissolved, not limbs of the Tide. The salt left on the stone afterward is the after-record by which intensity is officially read, not a skin the Tide sheds. A night surge that coincides with the city's own Sorrow Tide is a Double Tide by timing, not a second form. Keep front, source, contents and residue in separate entries, or the next watch will aim its endurance at the wrong one.
 
 **Identification Profile**
 - **Entity Type:** Object/Place
@@ -147,7 +149,7 @@ Management: hold the wall under the ballast anchors through every surge, then sc
 
 ## Breach Behavior
 
-Wilderness Tide does not breach in the traditional sense — it is always pressing. But when a surge overwhelms the wall:
+Wilderness Tide does not breach in the traditional sense — it is always pressing, and no overwhelmed wall stands in the surge catalogue. The chronicle's closest pressing steadied under full witness and ended in readings. The fields below are the standing contingency for a surge that does overwhelm the wall:
 
 > *"Wilderness Tide has broken through. Outside Sorrow floods Zone E."*
 
@@ -169,6 +171,8 @@ Wilderness Tide does not breach in the traditional sense — it is always pressi
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** No M.A.W. can be extracted from the Wilderness Tide. It is a Place-manifestation Sovereign with no sorrow-core — there is no crystallized grief to externalize. The Tide is raw, unstructured Han, not the refined sorrow of a contained entity. Attempting extraction would be like trying to forge a sword from the ocean.
+
+**Cross-source record:** The exact Side Codex closes as a Side-only set. Its registry page records three failed proposals — forging the raw Han, bottling the residue, wearing Tide material — and classes Warden shields and conduit barriers as manufactured border equipment, not equipment born from the Tide. Three item files nevertheless stand under the same set numbers claiming a complete set: a salt-slag poleaxe, a bedrock anchoring suit and a brine brooch, each with histories, bearer costs and corrosion. The Sovereign Chronicle separately names a Wild Mark borne only by Rangers who request it. This primary authorises none of those as extracted equipment. Until an authority reconciles the Side-only registry with the item files and the Mark, issue no piece on the strength of this section, treat the residue the Scavengers harvest as unstudied material rather than a Stigma bond, and enter any border gear actually carried under its manufactured record instead.
 
 ## 관찰 기록 (Observation Log)
 
@@ -258,7 +262,7 @@ It can wait.
 
 *But last season, something changed. The Tide came — same as always — but it didn't recede. It held. For six hours, it pressed against the wall without pulling back. Six hours of constant, crushing pressure. We lost three Wardens to Fracture that night. The wall held, barely.*
 
-*When the Tide finally receded, I looked out over the Desolate. And I swear — I swear on the Alpha Tree — I saw something in the wilderness. Not an entity. Not a creature. Just... a shape. Vast. Dark. Watching.*
+*When the Tide finally receded, I looked out over the Desolate. And I swear — I swear on the Alpha Tree — I saw something in the wilderness. Not an entity. Not a creature. Just … a shape. Vast. Dark. Watching.*
 
 *The wilderness has always been patient. But I think it's done waiting."*
 
