@@ -1,5 +1,19 @@
 # Work In Progress
 
+## Batch 181 — OPEN, 0 / 5 (2026-10-25)
+
+Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only `LC_ALL=C wc -w` ranking from the authoritative 301-path ledger, with designation-byte ties, freezes this queue:
+
+1. Homecoming Tree `C-Iα-869` — 7183 words
+2. Grimoire `C-IIβ-906` — 7219 words
+3. Sky of Borrowed Faces `O-IIIγ-926` — 7249 words
+4. The Echo Compass `C-IIIβ-016` — 7252 words
+5. Harbinger `N-IIIβ-155` — 7254 words
+
+Reserves, only if three cumulative No change results extend the same batch 5→7→10: Cenotaph `N-IVδ-525`, Kind Healer's Shadow `N-IIβ-280`, Double Mouth `C-IIβ-716`, The Final Door `C-Vδ-111`, Carrying Nothing `C-IIβ-357`.
+
+Opening baseline audits PASS: archive health, timeline, semantic seam and box symmetry. No unit has been reviewed yet; pending is not No change. Each unit requires the complete primary and identity-resolved sources/history, an R-33 design trace, a predeclared R-18 short/careful split, only source-supported repairs or exact No change, five checks, individual evidence and one verified gate push. Counters remain 268/301 Types, 266/287 Weapon and 18/301 SE Appearance Fix; held 161 / pending 120. Draft PR #15 stays owner-controlled. No Batch 182, merge, artwork or deployment is authorized.
+
 ## Batch 180 — CLOSED, 5 / 5 (2026-10-25)
 
 Owner `P` after CLOSED 179 authorizes this batch only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes this queue:

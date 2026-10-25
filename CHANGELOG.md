@@ -8,6 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 181 — OPEN, 0 / 5 (2026-10-25)
+
+Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes Homecoming Tree `C-Iα-869` (7183), Grimoire `C-IIβ-906` (7219), Sky of Borrowed Faces `O-IIIγ-926` (7249), The Echo Compass `C-IIIβ-016` (7252), and Harbinger `N-IIIβ-155` (7254). Reserves, used only if the No change ladder extends the batch, are Cenotaph `N-IVδ-525`, Kind Healer's Shadow `N-IIβ-280`, Double Mouth `C-IIβ-716`, The Final Door `C-Vδ-111`, and Carrying Nothing `C-IIβ-357`. Baseline archive/timeline/seam/box audits PASS. No unit is reviewed yet. No Batch 182, merge, artwork or deployment is authorized.
+
 ## Batch 180 — CLOSED, 5 / 5 (2026-10-25)
 
 Owner `P` after CLOSED 179 authorizes this batch only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes Spreading Root `O-IVδ-693` (7075), Soaking Rope `N-Iα-316` (7099), Unheard `C-Iα-965` (7105), Forgotten Shadow `N-IIβ-453` (7143), and Vanity Asleep `N-IIIγ-954` (7160). Reserves are Homecoming Tree `C-Iα-869`, Grimoire `C-IIβ-906`, Sky of Borrowed Faces `O-IIIγ-926`, The Echo Compass `C-IIIβ-016`, and Harbinger `N-IIIβ-155`, used only if the No change ladder extends the batch.
