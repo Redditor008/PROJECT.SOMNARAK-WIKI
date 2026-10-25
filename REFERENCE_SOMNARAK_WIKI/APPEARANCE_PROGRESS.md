@@ -1,6 +1,8 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch179 OPEN 5 / 5, closure gate next.** Drowned Roots remains HELD after seven supported repairs; Batch 139 already counted its pair inside the legacy baseline, so +0 Types / +0 Weapon / +0 SE. No change 0/5, so no 5→7 extension. [Evidence](SE_APPEARANCE_REVIEWS/B179_05_DROWNED_ROOTS.md). No 180 authorization.
+**Latest: Batch179 CLOSED 5/5.** Five HELD whole designs; 33 supported repairs (23 short / 10 careful), No change 0/5. Equipment coverage +1 Types / +0 Weapon (Wilderness Tide fresh all-type disposition); SE +0. [Full report](SE_APPEARANCE_REVIEWS/B179_CLOSE.md). No 180/merge/art/deployment authorization.
+
+**Previous: Batch178 CLOSED5/5.** Five HELD whole designs; 31 supported repairs. No new Types/Weapon/SE credits. [Full report](SE_APPEARANCE_REVIEWS/B178_CLOSE.md).
 
 **Previous: Batch177 CLOSED5/5.** Five HELD whole designs;30 supported repairs. Equipment+1Types/+1Weapon; SE+0. [Full report](SE_APPEARANCE_REVIEWS/B177_CLOSE.md).
 

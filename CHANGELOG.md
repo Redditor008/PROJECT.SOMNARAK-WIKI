@@ -8,6 +8,15 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 179 — CLOSED 5 / 5 (2026-10-25)
+
+All five frozen reviews are HELD after supported repairs: Mourning a Life I Never Lived, Hollow Tree, Wilderness Tide, The Wrath Flame and Drowned Roots. Thirty-three repairs in total (23 batch-short / 10 careful-detail), words 35,293 → 37,040, and No change 0/5, so the 5→7→10 ladder was not triggered and the batch stops at five. Fresh closure checks pass 25/25, unit tests 54/54, and the archive, timeline, seam and box-symmetry audits pass. The 296 unselected primaries, five reserves, all 301 Physical Form rows, all five Tales, every digit sequence and all 31 distinct fingerprinted sources are unchanged.
+
+Equipment coverage moves only on Wilderness Tide's fresh history proof: +1 Types, +0 Weapon (its Side-only 1/1 set sits outside the 287 paired Weapon scope). Hollow Tree, The Wrath Flame and Drowned Roots were already counted by Batches 77/78+113, 101 and 139 respectively and add zero. SE Appearance Fix adds zero because all five whole designs remain HELD. Counters: 268/301 Types, 266/287 Weapon, 18/301 SE; held 156 / pending 125. [Close report](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_CLOSE.md).
+
+Batch 180 requires new owner authorization and a fresh pending-only ranking; shortest pending now are Spreading Root `O-IVδ-693`, Soaking Rope `N-Iα-316`, Unheard `C-Iα-965`, Forgotten Shadow `N-IIβ-453`, Vanity Asleep `N-IIIγ-954` — recorded, not selected. Draft PR #15 stays owner-controlled; never auto-merge. Later full recheck backlog and Batch301 eight-owner-body blocker retained. No merge, artwork or deployment.
+
+
 ## Batch 179 — OPEN 5 / 5: Drowned Roots; closure gate next (2026-10-25)
 
 Seven supported repairs replace generic exposure and extraction boilerplate with the fury-then-emptiness course and one-way piece tolls, give both movement fields the file's own four-root-limb walk, scope breach movement to covered faces, replace slamming-door flavor with the reaching tell and reopened market, separate face, struck name, limbs and growing count in Appearance, and split the field-use first signs by piece.
