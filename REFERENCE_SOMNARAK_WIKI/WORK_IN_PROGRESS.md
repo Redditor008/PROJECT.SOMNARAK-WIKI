@@ -1,6 +1,6 @@
 # Work In Progress
 
-## Batch 180 — OPEN, 0 / 5 (2026-10-25)
+## Batch 180 — OPEN, 1 / 5 (2026-10-25)
 
 Owner `P` after CLOSED 179 authorizes this batch only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes this queue:
 
@@ -12,9 +12,11 @@ Owner `P` after CLOSED 179 authorizes this batch only. A fresh pending-only `LC_
 
 Reserves, only if three cumulative No change results extend the batch 5→7→10: Homecoming Tree `C-Iα-869`, Grimoire `C-IIβ-906`, Sky of Borrowed Faces `O-IIIγ-926`, The Echo Compass `C-IIIβ-016`, Harbinger `N-IIIβ-155`.
 
-No dossier has been reviewed yet; pending is not No change. Minimum five remains. Each unit requires complete original, identity-resolved source, history and final readings; an R-33 whole-design trace; a predeclared R-18 split; only source-supported repairs or an exact justified **No change**; individual Commentary and evidence; five checks; and its own verified gate push. [Opening evidence](SE_APPEARANCE_REVIEWS/B180_OPEN.json) stores all 125 pending fingerprints. Baseline archive, timeline, seam and symmetry audits PASS. Counters unchanged: 268/301 Types, 266/287 Weapon, 18/301 SE; held 156 / pending 125.
+**Unit 1 — Spreading Root `O-IVδ-693`: HELD.** Seven supported repairs (4 short / 3 careful; 7075→7145 words) align the movement and appearance fields to the dragging braided-root beast and its threading, scope breach as extension rather than a charge, distinguish Pugnahan's recorded adverse response from authorisation, split field-use first signs by piece, and correct The Maw / The Whispering Walls cross-reference designations. Weapon identity, excavation permission, Staff ontology/effect, thresholds, speed and the cutting-tool contradiction remain held. Batch 136 already counted the exact set inside the legacy baseline, so credits are +0 Types / +0 Weapon / +0 SE. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B180_01_SPREADING_ROOT.md).
 
-Chatroom reporting now follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No Batch 181, merge, artwork or deployment is authorized. Later full recheck and the Batch301 eight-owner-body blocker remain retained.
+**Commentary:** The district keeps the original damage map and hears the projection before the Directorate; that makes listening a civic obligation rather than an extraction technique, and it is the design's strongest institutional choice. Its real menace is not speed or attack but prior occupation — the floor was compromised before the team arrived. The remaining weapon and excavation conflicts matter because they decide whether staff may act on the ground at all.
+
+Completed 1/5; No change 0/1, so no ladder movement. Counters unchanged: 268/301 Types, 266/287 Weapon, 18/301 SE; held 157 / pending 124. Next frozen unit is Soaking Rope `N-Iα-316`. Chatroom reporting now follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No Batch 181, merge, artwork or deployment is authorized. Later full recheck and the Batch301 eight-owner-body blocker remain retained.
 
 
 ## Batch 179 — CLOSED 5 / 5 (2026-10-25)

@@ -1,0 +1,168 @@
+{
+  "designation": "O-IVδ-693",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-693_Spreading_Root_스며든_뿌리.md",
+  "words": 7075,
+  "sha256": "e5e2ab0bdfd98a427e8bfb15b6d3c5ca88ac37ee85cec3e8e894d787c1ddcbe3",
+  "unit": 1,
+  "name": "Spreading Root",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_01_SPREADING_ROOT.md",
+  "before_words": 7075,
+  "after_words": 7145,
+  "base": "9695f8f6f0dffd5bedfef0c3b9da5a6f1f1ba65e",
+  "final_sha256": "f7e39eaadca4b6352c1fe6ce06125d66263401516062f9da2d09ec2579f1a9e1",
+  "summary": "Seven supported repairs replace the generic gait menu and ghostly-humanoid template fields with the file's dragging braided-root beast and threading, give Detailed Appearance its lead-cold wet-stone signature, scope breach movement as extension rather than a charge, distinguish Pugnahan's recorded adverse response from post authorisation, split field-use first signs by piece, and correct The Maw and The Whispering Walls cross-reference designations. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+  "commentary": "The district keeps the original damage map and hears the projection before the Directorate; that makes listening a civic obligation rather than an extraction technique, and it is the design's strongest institutional choice. Its real menace is not speed or attack but prior occupation — the floor was compromised before the team arrived. The remaining weapon and excavation conflicts matter because they decide whether staff may act on the ground at all.",
+  "reasoning": "R-33 chain: Subject / Subject-Phantasmal Weight → generations of households burying grief under Old Lament floors until the buried pressure took wandering root-form → a variable braided-root beast whose stable identity is the threading through cracks, floors and walls → Flerehan loosens, Viderehan reveals, Ferrehan carries, while cutting or Pugnahan hardens and multiplies growth → breach as extension by rooms, lowered only when buried history is named at a hearing → damage map, district-first notice and unattributed testimony preserve the source community → equipment transfers buried weight and age/fatigue/immobility to a bearer rather than destroying it. Repairs remove template seams that fought that chain and correct two identity codes; weapon identity, excavation permission, Staff ontology and threshold arithmetic remain HELD.",
+  "history": "Batch 136 unit 5 (commit 1795abd2cdbb494943c5f9d9b7cdba3272efdf26) read the complete primary and exact SE-693-A–D with Master Entries 670–672, Entity Codex row 594, Tale 224, Registry rows 823–826, archetype MAW-W-693 and disposition row 171, made **No change**, and recorded the inherited full-set stream at 200/301 and independent Weapon at 208/287. Both dispositions are inside the present ledger's legacy 240/240 baseline, so this fresh B180 review earns +0 Types / +0 Weapon. Batch 6 was floor/prose/series work, not a separate exact-pair disposition. HELD earns +0 SE.",
+  "holds": [
+    "Weapon identity remains split: the primary, current Master table and MAW-W-693 archetype support a five-foot living-briar, four-spur Taproot Sceptre, while Side A, item B, Registry CSV and Master detailed Entry 670 give a black Han-steel Rootbound Maul. No second form was invented, and the Maul's Skewer 100/70/50 pattern was not imported into the primary.",
+    "Excavation doctrine remains split: Side A and item B allow a parallel listening trench and say six branches loosened or retracted after histories were named, with Euncris and Durivel in differing incident roles. The primary says no burial named at a hearing has been dug up, the floor is left as found, threading is permanent and nothing has shortened the damage map. No trench permission or retraction was imported.",
+    "Rootbound Staff ontology and effect remain split: the primary describes a carried matte Han-steel staff-charm that warms over buried ground and gives +3 to work against the Root, while item D defines a non-object head staff-mark and Side A/item D give +3 Resolve. Registry CSV gives 5% against the primary and exact items' 4%. No value or object/mark bridge was chosen.",
+    "Threshold arithmetic is not joined: operational threshold 1, combat activation at Sorrow Gauge ≥90%, Living Floor at 65% with a burial unnamed, Registry Trivia placing Living Floor at 90% or above and never reached, and a 60–80% starting gauge coexist without a stated sequence. All numbers remain unchanged.",
+    "The no-cut rule and ankle-height cutting tools remain unjoined: hearings, Final Observation and Escalation Notes forbid cutting because severance spreads the Root, while Apex Record stages cutting tools at knee height specifically for ankle grabs. No exceptional release cut or non-cutting rescue method was invented.",
+    "Speed remains unjoined to locomotion: Core Stat Line gives 2.45 m/s, while Slow Pursuit says the Root drags and can be outpaced by anyone walking. The repair scopes breach as extension/dragging but leaves the number unchanged.",
+    "Equipment ageing is broader in Consequences than in the piece costs: Consequences says each activation makes the wielder age slightly, while the piece blocks assign ageing to the sceptre, constant fatigue to the mantle and inability to leave to the staff. The field-use first signs are now separated, but no common ageing mechanism was invented.",
+    "Tale 224 repeats the primary Tale but retains a generic Registrum without the primary's district-held map, unattributed-testimony and excavation protections. The standalone Master copy was not edited from this unit.",
+    "Correcting the two cross-reference designations identifies the named dossiers only. The Interaction Record itself still describes mostly subject-based pairings and unmeasured co-presence; it was not upgraded into proof of assistance, hostility or a shared route."
+  ],
+  "split": [
+    4,
+    3
+  ],
+  "repairs": [
+    {
+      "id": "u1-r1-classification-movement",
+      "kind": "short",
+      "old": "| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |",
+      "new": "| **Movement** | Mobile — drags onward in beast form, threading roots into floors and walls as it passes. |"
+    },
+    {
+      "id": "u1-r2-identification-profile",
+      "kind": "short",
+      "old": "- **Primary marker:** A ghostly humanoid threaded with black roots. The roots spread into floors and walls while the figure moves slowly.\n- **Position / movement:** The roots spread into floors and walls while the figure moves slowly.",
+      "new": "- **Primary marker:** A beast-shaped mass of braided black roots, identified by the threading entering floor and wall rather than by the variable outline.\n- **Position / movement:** The beast-form drags slowly onward while the root-system spreads beyond it through existing cracks."
+    },
+    {
+      "id": "u1-r3-detailed-appearance",
+      "kind": "short",
+      "old": "| **Form** | A ghostly humanoid threaded with black roots. The roots spread into floors and walls while the figure moves slowly. |\n| **Position / movement** | The roots spread into floors and walls while the figure moves slowly. |\n| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |",
+      "new": "| **Form** | A rough beast-shape braided from black roots, with the root-system continuing into floors and walls beyond the body. |\n| **Position / movement** | The form drags onward and roots into whatever it crosses; the threading may already occupy the next room before the figure is seen to leave this one. |\n| **Material / signature** | Braided black roots, lead-cold and smelling of wet stone; Weight is first read as pressure in the chest and a floor that sounds wrong underfoot. |"
+    },
+    {
+      "id": "u1-r4-breach-movement",
+      "kind": "short",
+      "old": "| **Movement** | Spreading Root breaks loose and charges, thrashing. It grasps at ankles, dragging personnel down. |",
+      "new": "| **Movement** | Spreading Root extends rather than flees: the beast-form drags onward while the threading thrashes through floor and wall. It grasps at ankles, dragging personnel down. |"
+    },
+    {
+      "id": "u1-r5-work-authorisation",
+      "kind": "careful",
+      "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+      "new": "| **Valid Work Types** | Flerehan, Viderehan, and Ferrehan authorised; Pugnahan has a recorded adverse response but is not authorised on this post |"
+    },
+    {
+      "id": "u1-r6-field-use-first-signs",
+      "kind": "careful",
+      "old": "| **During use** | Record each use against the clock rather than against the event: one heavy lift is noted, and a shift in which the wielder keeps getting slower ends the use whatever the reading says. |",
+      "new": "| **During use** | Record each piece against the clock and against its own first sign: added heaviness for the sceptre, unremitting fatigue for the mantle, and growing inability to leave for the staff. A wielder who keeps getting slower ends the use whatever the reading says. |"
+    },
+    {
+      "id": "u1-r7-cross-reference-designations",
+      "kind": "careful",
+      "old": "**Cross-References:** Three filings share the ground rather than the encounter — The Maw `C-IVδ-260`, The Whispering Walls `C-IVγ-180` and The Grieving Colossus `C-Vδ-002`; the Interaction Record states what, if anything, is attached to each.",
+      "new": "**Cross-References:** Three filings share the ground rather than the encounter — The Maw `C-IVω-001`, The Whispering Walls `C-Iα-011` and The Grieving Colossus `C-Vδ-002`; the Interaction Record states what, if anything, is attached to each."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-O-IVδ-693_Spreading_Root_스며든_뿌리.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.024  clean    85 grams  최종 관찰 (Final Observation)\n 0.016  clean   506 grams  M.A.W. Equipment\n 0.013  clean   608 grams  Combat Record\n 0.008  clean   660 grams  감각 묘사 (Flavor Text)\n 0.000  clean   698 grams  Apex Record\n 0.000  clean   389 grams  기록 (Registrum)\n 0.000  clean   362 grams  이야기 (Narratio)\n 0.000  clean   358 grams  이야기 보고 (Story Log)\n 0.000  clean   310 grams  관찰 기록 (Observation Log)\n 0.000  clean   235 grams  Appearance\n 0.000  clean   200 grams  Behavior\n 0.000  clean   182 grams  Origin\n 0.000  clean   165 grams  Trivia\n 0.000  clean   162 grams  Breach Behavior\n 0.000  clean   148 grams  Operational Parameters\n 0.000  clean    46 grams  증언 (Testimonium)\n 0.000  clean    30 grams  SECC Classification\n 0.000  clean    30 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   83   4  | { *The Full System* [**Attack**] } | \"Every root in the network moves at once, and the ground turns over along its whole length.\n   84   4  | { *The Living Floor* [**Ultimate**] } | \"The roots were here before the building, and the floor is theirs by longer tenure.\" | [\n  193   3  **Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that gathers itself tighter the closer it is car\n  211   2  **Appearance:** a staff-charm of Weight Han-steel, matte and unnaturally heavy, that warms briefly when it is carried over ground \n  233   1  | **At limit** | Constant low fatigue without remission, and the wearer no longer reports it. On a piece from this set the use end\n  234   2  | **After use** | Return the piece, reconcile the hours against the baseline, and record whether the fatigue has lifted — on this \n  283   2  > The choice at the end of a session is what the worker does with the ground: kneel and hear the history out, or treat the roots a\n  313   3  The Old Lament holds several things that grew out of what was put under its floors and left there. The three below are filed along\n  315   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.005  (23 shared shingles)  SE-O-IVδ-693_Spreading_Root_스며든_뿌리.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-693-A__SIDE_CODEX_Undercurrent.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-693-B__MAW-W_The_Rootbound_Maul.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-693-C__MAW-S_The_Rootbound_Mantle.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-693-D__MAW-G_The_Rootbound_Staff.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/README.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md",
+    "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md",
+    "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md",
+    "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-260_Bridge_to_Nowhere_솟아오른_다리.md",
+    "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-180_Labyrinth_of_Stolen_Faces_기억의_미로.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-693-A__SIDE_CODEX_Undercurrent.md": "aef501d52c971e66c0f161e83801df1c83bb8554d768cda8e34692a7ea370f3e",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-693-B__MAW-W_The_Rootbound_Maul.md": "47127c5749893e3880d75362dc6cfb638d7b93424f60114f326ec3371c592e1a",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-693-C__MAW-S_The_Rootbound_Mantle.md": "104dc750414d3a43c0197612d895ef1380a79426d2ff1bb702b20a8d6fb0d730",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-693-D__MAW-G_The_Rootbound_Staff.md": "bbee4a3f0b5ddd67d48735348cbb6954119ab10e07ae7728e73a97fdf0e6e8c6",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/README.md": "dbde4e0dbaa53352e3b52673d6fb0f14a7a0db2127b896e7be3bb8171fe20005",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md": "6acb7ec5ff6ff5841bdd1babd9f2bae1446b0b2459a3757e572856fb11584498",
+    "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md": "7caaedb3100b7885bdfd2b69145a10e433718366ea1f6db0c90104ea745e26b6",
+    "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md": "faf8c35e8d7560d481fdbd5fca824c00a596652ce666793e77f69c48d44a8d73",
+    "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-260_Bridge_to_Nowhere_솟아오른_다리.md": "fba2c0e5851eff4db84ca21bd13996cb884d523c7165a0a0e94ad2bead20e296",
+    "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-180_Labyrinth_of_Stolen_Faces_기억의_미로.md": "21d3d3c71f27f4a959097b80e37314a744fefcda8bdd1c191539a4ecacfe2933"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-O-IVδ-693_Spreading_Root_스며든_뿌리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-693_Spreading_Root_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%BF%8C%EB%A6%AC.md \"SE-O-IVδ-693_Spreading_Root_스며든_뿌리.md\")]",
+  "table_link": "[Spreading_Root](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-693_Spreading_Root_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%BF%8C%EB%A6%AC.md \"SE-O-IVδ-693_Spreading_Root_스며든_뿌리.md\")",
+  "reading": {
+    "before_lines": 424,
+    "before_bytes": 42614,
+    "final_lines": 424,
+    "final_bytes": 43033
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 124,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "digit_sequence_changes": [
+      "The Maw cross-reference C-IVδ-260 → C-IVω-001",
+      "The Whispering Walls cross-reference C-IVγ-180 → C-Iα-011"
+    ],
+    "source_files_unchanged": 16
+  }
+}

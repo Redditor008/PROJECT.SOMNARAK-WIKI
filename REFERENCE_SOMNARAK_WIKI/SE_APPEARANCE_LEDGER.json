@@ -27,7 +27,20 @@
       "N-IIβ-453",
       "N-IIIγ-954"
     ],
-    "reviewed": {},
+    "reviewed": {
+      "O-IVδ-693": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_01_SPREADING_ROOT.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_OPEN.json"
   },
   "dossiers": [
@@ -5286,8 +5299,35 @@
     {
       "designation": "O-IVδ-693",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-693_Spreading_Root_스며든_뿌리.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Seven supported repairs replace the generic gait menu and ghostly-humanoid template fields with the file's dragging braided-root beast and threading, give Detailed Appearance its lead-cold wet-stone signature, scope breach movement as extension rather than a charge, distinguish Pugnahan's recorded adverse response from post authorisation, split field-use first signs by piece, and correct The Maw and The Whispering Walls cross-reference designations. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_01_SPREADING_ROOT.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-693-A__SIDE_CODEX_Undercurrent.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-693-B__MAW-W_The_Rootbound_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-693-C__MAW-S_The_Rootbound_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-693-D__MAW-G_The_Rootbound_Staff.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md",
+        "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md",
+        "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md",
+        "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-260_Bridge_to_Nowhere_솟아오른_다리.md",
+        "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-180_Labyrinth_of_Stolen_Faces_기억의_미로.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IVδ-762",

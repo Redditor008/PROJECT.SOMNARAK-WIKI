@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch180 OPEN 0/5.** Owner `P` authorizes this batch only. Fresh queue: Spreading Root, Soaking Rope, Unheard, Forgotten Shadow, Vanity Asleep. No review yet and counters unchanged. [Opening evidence](SE_APPEARANCE_REVIEWS/B180_OPEN.json).
+**Latest: Batch180 OPEN 1/5.** Unit 1 Spreading Root `O-IVδ-693` HELD after seven supported repairs (7075→7145 words); No change 0/1. [Evidence](SE_APPEARANCE_REVIEWS/B180_01_SPREADING_ROOT.md). Counters unchanged; ledger held 157 / pending 124.
 
 **Previous: Batch179 CLOSED 5/5.** Five HELD whole designs; 33 supported repairs (23 short / 10 careful), No change 0/5. Equipment coverage +1 Types / +0 Weapon (Wilderness Tide fresh all-type disposition); SE +0. [Full report](SE_APPEARANCE_REVIEWS/B179_CLOSE.md).
 

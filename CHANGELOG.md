@@ -8,11 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 180 — OPEN, 0 / 5 (2026-10-25)
+## Batch 180 — OPEN, 1 / 5 (2026-10-25)
 
 Owner `P` after CLOSED 179 authorizes this batch only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes Spreading Root `O-IVδ-693` (7075), Soaking Rope `N-Iα-316` (7099), Unheard `C-Iα-965` (7105), Forgotten Shadow `N-IIβ-453` (7143), and Vanity Asleep `N-IIIγ-954` (7160). Reserves are Homecoming Tree `C-Iα-869`, Grimoire `C-IIβ-906`, Sky of Borrowed Faces `O-IIIγ-926`, The Echo Compass `C-IIIβ-016`, and Harbinger `N-IIIβ-155`, used only if the No change ladder extends the batch.
 
-No dossier has been reviewed yet; pending is not No change. [Opening evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_OPEN.json) stores all 125 pending fingerprints, and baseline archive, timeline, seam and symmetry audits PASS. Counters unchanged: 268/301 Types, 266/287 Weapon, 18/301 SE. Chatroom reporting now follows R-31 Compact Report v2. No Batch 181, merge, artwork or deployment is authorized.
+**Unit 1 — Spreading Root `O-IVδ-693`: HELD.** Seven supported repairs (4 short / 3 careful; 7075→7145 words) align movement and appearance to the dragging braided-root beast/threading, scope breach as extension, distinguish Pugnahan's adverse response from authorisation, split field-use first signs, and correct two cross-reference designations. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_01_SPREADING_ROOT.md). Batch 136 already counted the exact set inside the legacy baseline: +0 Types / +0 Weapon / +0 SE. Completed 1/5; No change 0/1; held 157 / pending 124. Next is Soaking Rope `N-Iα-316`. Chatroom reporting now follows R-31 Compact Report v2. No Batch 181, merge, artwork or deployment is authorized.
 
 
 ## Batch 179 — CLOSED 5 / 5 (2026-10-25)
