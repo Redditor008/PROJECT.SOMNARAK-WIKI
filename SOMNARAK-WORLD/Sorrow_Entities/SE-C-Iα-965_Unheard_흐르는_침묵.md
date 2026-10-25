@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Weight |
 | **Physical Form** | Non-Organic — A pressure with no visible body that flows through the Collector's Row like a current of silence — a hush that moves, swallowing sound as it passes. There is nothing to see; only the quiet and the weight. Fever-cold, it smells of char. |
-| **Movement** | Mobile — drifts or flows through the area. |
+| **Movement** | Mobile — flows along the Collector's Row record stacks at about walking pace. |
 | **Location** | Zone C, Collector's Row |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -93,9 +93,9 @@
 ### Consequences
 
 - Personnel who stand inside the radius past their interval do not lose the ability to hear; they lose the ability to be received. Wardens come out with a phrase they can still form and no confidence that anyone will ever get it, which is the injury this file is best at and the reason two matching accounts are reported the same day.
-- Extended contact risks the whole of what the file documents—emotional erosion first, then somatic trauma, then the dissolution of identity, then corruption of the surrounding environment.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—set out in the equipment specifications and settled in the field.
-- Without timely resolution, Unheard defaults to its documented activation or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- The escalation sign is content: a Warden who reports words is withdrawn and debriefed alone, and two matching accounts are sent upward the same day without being reconciled into one another.
+- Equipment does not recover her words. Its prices remain piece-specific—old wounds and bruising, a reaction time the wearer stops mentioning, and anger at every ignored voice.
+- If sound is forced into the radius, the pressure can turn physical and the hush expands in place; it does not pursue, and no transcript or recovered statement follows.
 
 ## Appearance
 **Primary Form:** Nothing to see. A weight that moves along the Row at walking pace, taking the sound out of the air as it comes. **Temperature:** cold without any draught, and the cold arrives before the quiet does.
@@ -116,10 +116,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | An unseen weight travelling the Row, within which speech carries no further than 5.4 metres and falls off sharply at the edge. |
-| **Position / movement** | Mobile — drifts or flows through the area. Recorded at every Unheard cycle against the previous reading. |
+| **Position / movement** | Moves along the line of the stacks at walking pace without approaching or avoiding personnel. Record position and hush radius at every cycle against the previous reading. |
 | **Material / signature** | Grudge. Char on the air, cold without movement, pressure on the chest, and an absence where every instrument expects a reading. |
 | **Distinctive markers** | Hush radius in metres, position along the Row, and whether any Warden has reported content. |
-| **Identification** | Say a fixed phrase to a colleague five metres off. If they answer, this is not it. |
+| **Identification** | Two Wardens walk a fixed phrase apart until it stops arriving; that measured edge, with cold before quiet, identifies the hush for the day. |
 
 **Appearance protocol:** Two Wardens, one fixed phrase, one tape. Walk apart until the phrase stops arriving, mark the distance, and write it down before discussing anything.
 
@@ -227,10 +227,10 @@ The set is the holding in three pieces, and it works because it is part of the t
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a sealed baseline held by the second worker: the old ache in the wearer's wounds, and the bruise count that will be read at the end. |
-| **During use** | The charging sign is the ache in the wearer's old wounds, which the second worker logs with the hour and the wearer does not log at all, because the wearer is the last person able to notice it becoming ordinary. |
-| **At limit** | The wearer's reaction time is gone and the wearer has stopped saying so, which is the state this piece is retired at rather than a tolerable one. The limit is called by the observer, and the call stands. |
-| **After use** | Piece returned; read again a week out, because the dulled reflexes and the bruising do not show on the day the piece comes back. |
+| **Before use** | Wielder, piece, the day's reading, and a sealed baseline held by the second worker: old-wound ache and bruise count for the Fang, reaction time for the Plate, and anger at ignored voices for the Lantern. |
+| **During use** | The second worker logs the piece's own sign with the hour: ache becoming ordinary, reaction time falling away without being mentioned, or anger arriving at voices the bearer was not present to hear. |
+| **At limit** | The relevant sign persists and the bearer has stopped reporting it, which is the state the piece is retired at rather than a tolerable one. The limit is called by the observer, and the call stands. |
+| **After use** | Piece returned; read again a week out, because bruising, dulled reflexes and the Lantern's anger do not all show or clear on the day the piece comes back. |
 
 **Stat interpretation:** The grade records how cleanly the archetype came off the holding, not what the wearer will pay for it. An α piece performing to specification can still leave a bearer whose old wounds ache for a fortnight and who has stopped mentioning it; the cost column, not the grade, is what the Row watch issues against.
 
@@ -282,11 +282,11 @@ The Row is the right place for it and the file says why. Collector's Row is wher
 
 ## 최종 관찰 (Final Observation)
 
-> What the observing worker is asked to do at the close of contact: do not force sound into it — listen, and record what remains — or improvise something kinder.
+> Close by taking the radius twice and sealing separate accounts. Do not force sound into the hush, and do not treat reported content as the citizen's recovered words.
 
-| Do not force sound into it; listen and record what remains, and let each Warden's account be written separately before either of them speaks. | Improvise something kinder, which is how every failure on Unheard's file began. |
+| Do not force sound into it; listen and record what remains, and let each Warden's account be written separately before either of them speaks. | Shout, soothe, or force a sound into it; compare accounts before sealing them, or report content as though it were recovered speech. |
 |---|---|
-| The silence softens and carries the worker's grief. The sorrow is named; Unheard is fully recorded. | The pressure fights back without producing sound. The gauge climbs and Unheard withdraws without revelation. |
+| The pressure is borne for the interval; the radius and two separate accounts enter the record, while her words remain unrecovered. | The pressure answers force and the radius may grow, leaving only the crew's unreconciled impressions—not her statement. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -295,11 +295,11 @@ The Collector's Row goes quiet around you. Not muted—finished. Every sound see
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Weight, pressing or releasing like a tide. Then the form resolves: A pressure with no visible body that flows through the Collector's Row like a current of silence. The space does not become generic; it shifts in the specific register of Grudge.
+**At first contact:** Cold arrives before the quiet. Your fixed phrase reaches the Warden beside you, then—one measured step farther along the stacks—it does not. Nothing resolves into a body at the edge; speech simply stops being received.
 
 **With continued exposure:** Minutes pass and the first edge wears into something more exact: the cold acquires a shape, the pressure at the stack ends acquires a grain, and the radius can be felt rather than measured. Nothing about the holding has changed; the crew is simply learning the texture of a thing that has moved along these stacks since before any of them were posted here.
 
-**When the entity activates:** The Gauge tips. The Subject-Weight does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Grudge is no longer atmospheric. It is operational.
+**When the entity activates:** The radius moves beyond the day's mark, or somebody reports content. The pressure turns physical without becoming sound, and the reporting Warden comes out first, alone, before the crew withdraws.
 
 **After departure:** The Grudge lifts at the edge and the silence does not: Wardens report a day or two of checking whether they were understood, and the watch treats the checking rather than the quiet as the thing to log. Anyone who reports content comes out at once and is debriefed alone.
 

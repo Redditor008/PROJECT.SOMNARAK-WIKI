@@ -20,7 +20,11 @@ Reserves, only if three cumulative No change results extend the batch 5→7→10
 
 **Commentary:** The privacy architecture is the strongest part of this file: the wing knows exactly what would predict a bad cycle and forbids itself to collect or roster against it. The unofficial page is a humane workaround and the counsellors are still right to object. Making an ordinary 'I'll be back in a minute' count toward breach turns office language into the Rope's weather.
 
-Completed 2/5; No change 0/2, so no ladder movement. Counters unchanged: 268/301 Types, 266/287 Weapon, 18/301 SE; held 158 / pending 123. Next frozen unit is Unheard `C-Iα-965`. Chatroom reporting now follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No Batch 181, merge, artwork or deployment is authorized. Later full recheck and the Batch301 eight-owner-body blocker remain retained.
+**Unit 3 — Unheard `C-Iα-965`: HELD.** Seven supported repairs (3 short / 4 careful; 7105→7111 words) give movement the stack route, identification the measured two-Warden edge, consequences/flavor/final observation the radius-and-sealed-accounts procedure without claiming recovered words, and field use separate Fang/Plate/Lantern signs. Origin chronology, recovered-content claims, breach label, stale Tale data, thresholds and range remain held. Batch 137 already counted the set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B180_03_UNHEARD.md).
+
+**Commentary:** The Writer's Hour works because it refuses a simple villain: banning speech-as-evidence prevents real abuses, and the same rule leaves an illiterate citizen procedurally invisible. I especially value the file's restraint about content. It makes the radius measurable while refusing to invent the one thing everyone wants from it—what she said.
+
+Completed 3/5; No change 0/3, so no ladder movement. Counters unchanged: 268/301 Types, 266/287 Weapon, 18/301 SE; held 159 / pending 122. Next frozen unit is Forgotten Shadow `N-IIβ-453`. Chatroom reporting now follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No Batch 181, merge, artwork or deployment is authorized. Later full recheck and the Batch301 eight-owner-body blocker remain retained.
 
 
 ## Batch 179 — CLOSED 5 / 5 (2026-10-25)
