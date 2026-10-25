@@ -1,6 +1,6 @@
 # Work In Progress
 
-## Batch 180 — OPEN, 1 / 5 (2026-10-25)
+## Batch 180 — OPEN, 2 / 5 (2026-10-25)
 
 Owner `P` after CLOSED 179 authorizes this batch only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes this queue:
 
@@ -16,7 +16,11 @@ Reserves, only if three cumulative No change results extend the batch 5→7→10
 
 **Commentary:** The district keeps the original damage map and hears the projection before the Directorate; that makes listening a civic obligation rather than an extraction technique, and it is the design's strongest institutional choice. Its real menace is not speed or attack but prior occupation — the floor was compromised before the team arrived. The remaining weapon and excavation conflicts matter because they decide whether staff may act on the ground at all.
 
-Completed 1/5; No change 0/1, so no ladder movement. Counters unchanged: 268/301 Types, 266/287 Weapon, 18/301 SE; held 157 / pending 124. Next frozen unit is Soaking Rope `N-Iα-316`. Chatroom reporting now follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No Batch 181, merge, artwork or deployment is authorized. Later full recheck and the Batch301 eight-owner-body blocker remain retained.
+**Unit 2 — Soaking Rope `N-Iα-316`: HELD.** Seven supported repairs (5 short / 2 careful; 7099→7089 words) scope the stationary one-ended rope, rewrite thrown/strangling/lifting combat prose as non-touching expectation without changing action names or numbers, use the promise count in Consequences, restore exact Empty Plate/Knot appearances, separate field-use signs and remove a duplicate Story sentence. Gallows-Beam versus Empty Fang, speed, thresholds and handling/extraction remain held. Batch 108 already counted the full set and Weapon inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B180_02_SOAKING_ROPE.md).
+
+**Commentary:** The privacy architecture is the strongest part of this file: the wing knows exactly what would predict a bad cycle and forbids itself to collect or roster against it. The unofficial page is a humane workaround and the counsellors are still right to object. Making an ordinary 'I'll be back in a minute' count toward breach turns office language into the Rope's weather.
+
+Completed 2/5; No change 0/2, so no ladder movement. Counters unchanged: 268/301 Types, 266/287 Weapon, 18/301 SE; held 158 / pending 123. Next frozen unit is Unheard `C-Iα-965`. Chatroom reporting now follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No Batch 181, merge, artwork or deployment is authorized. Later full recheck and the Batch301 eight-owner-body blocker remain retained.
 
 
 ## Batch 179 — CLOSED 5 / 5 (2026-10-25)

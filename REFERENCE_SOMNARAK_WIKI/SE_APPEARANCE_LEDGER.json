@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-Iα-316": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_02_SOAKING_ROPE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     },
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_OPEN.json"
@@ -4298,8 +4310,30 @@
     {
       "designation": "N-Iα-316",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-316_Soaking_Rope_솟구친_밧줄.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Seven supported repairs scope the stationary rope and its extending wait, rewrite thrown/strangling/lifting combat prose as non-touching expectation while preserving every action name and number, replace generic psychological-matrix wording with the promise count, give the Empty Plate and Empty Knot their exact item appearances, separate all three field-use signs, and remove a duplicated Story Entry sentence. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_02_SOAKING_ROPE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-316-A__SIDE_CODEX_Tether.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-316-B__MAW-W_The_Empty_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-316-C__MAW-S_The_Empty_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-316-D__MAW-G_The_Empty_Knot.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-Iα-459",

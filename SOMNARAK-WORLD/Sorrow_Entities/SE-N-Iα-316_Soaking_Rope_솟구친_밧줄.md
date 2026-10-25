@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Void |
 | **Physical Form** | Non-Organic — An empty rope-shaped figure that watches from the edge of consciousness — a loop of fibre with no visible hands or face, hanging as though from a neck that isn't there. Fever-cold, it smells of char; the shape of something tied and never untied. |
-| **Movement** | Stationary — a discrete object. |
+| **Movement** | Stationary — hangs taut at its post; in breach the waiting extends while the rope does not travel. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -77,11 +77,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Slipknot* [**Debuff**] } | "A wet rope finds your throat — gentle, almost, the way a noose is gentle." | [The Rope settles around the target; the wet fibers cling.] | *Target suffers -10 Resilience; the rope has found its hold.* **[10 Grudge DMG [Grudge]]** | When the Rope is thrown. |
-| { *The Tightening* [**Debuff**] } | "Wet rope shrinks as it dries — and it is drying fast." | [The Rope constricts; wet hemp tightens with every breath.] | *Target loses 10 Resilience; each breath is harder than the last.* **[10 Grudge DMG [Grudge]]** | When the target fails to slip free. |
-| { *The Fray* [**Attack**] } | "The rope frays into wet lashes — and each strand bites." | [Frayed rope-ends whip at the target like switches.] | *Inflicts Grudge pressure and many thin, stinging cuts.* **[14-22 Grudge DMG [Grudge]]** | When the Rope is resisted. |
-| { *The Hanging* [**Attack**] } | "The rope lifts — and the sorrow in it is the sorrow of everyone who ever hung from one." | [The line draws whoever is holding it up off the ground with the weight of everyone who ever waited.] | *A heavy Crimson strain; the target's Sorrow Gauge climbs 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Rope is pulled taut. |
-| { *Every Knot Undone* [**Ultimate**] } | "The rope unravels into a thousand wet strands — and each one finds a throat." | [The strands run out past the post until the whole field is webbed with wet cord.] | *Grudge pressure presses on everyone for three turns while the strands are out.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Slipknot* [**Debuff**] } | "Nothing touches your wrist, and the pressure is already there." | [The single end stays at its post; attention closes around one absent name.] | *Target suffers -10 Resilience; the wait has found its hold.* **[10 Grudge DMG [Grudge]]** | When the target begins waiting for someone. |
+| { *The Tightening* [**Debuff**] } | "The promise is still active in the room, and thought keeps making room for it." | [The line tautens at its fitting; thought narrows around the expected return.] | *Target loses 10 Resilience; each return to the thought is harder to leave.* **[10 Grudge DMG [Grudge]]** | When the target cannot end the wait aloud. |
+| { *The Fray* [**Attack**] } | "One wait becomes many: every unanswered bond pulls at once." | [No strands leave the chamber; separate expectations surface together.] | *Inflicts Grudge pressure as many thin stings of recollection.* **[14-22 Grudge DMG [Grudge]]** | When the waiting is resisted rather than named. |
+| { *The Hanging* [**Attack**] } | "The present drops away beneath the one still holding on." | [Attention is lifted out of the room toward the absent return; the body is not touched.] | *A heavy Crimson strain; the target's Sorrow Gauge climbs 15%.* **[24-36 Grudge DMG [Grudge]]** | When an undertaking inside the radius pulls the line taut. |
+| { *Every Knot Undone* [**Ultimate**] } | "Everybody present is holding a line that is not there." | [The rope remains at its post while the waiting extends through the radius.] | *Grudge pressure presses on everyone for three turns while the waits are sustained.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -91,7 +91,7 @@
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.
+- If a wait is taken up rather than ended aloud, **Resilience** falls for as long as it is sustained; every undertaking spoken inside the radius also counts toward threshold 4.
 - Extended exposure does not injure the body, and that is the difficulty: a worker can stand a full shift beside the Rope and come out unmarked and attached. The attachment is to somebody absent, usually somebody real, and it strengthens quietly past the recommended cycle. Workers are stood down when they begin checking whether a message has arrived.
 - The beam, the plate and the knot each carry the same expectation out of the Rope and into the wearer, and expectation is not spent by being moved. What the M.A.W. gives is an awareness of bonds that were never returned, the wearer's own included. Nothing here is extracted for free; the cost is paid in a currency the body does not register.
 - If the release is not made consciously, nothing dramatic follows. The Rope stays held, the worker leaves still holding it, and the encounter is recorded as unresolved rather than failed. Unresolved encounters accumulate against the worker who had them, and the record shows that they do not accumulate against anyone else.
@@ -190,7 +190,7 @@ Carried across the shoulders like a penitent yoke, the beam radiates suffocating
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and warm to the touch, with a faint scent of the place it was worked in left in the grain.
+**Appearance:** a crimson plated harness of Grudge Han-iron with an open plate where a second grip would have been; the absent grip is left visible.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -208,7 +208,7 @@ Carried across the shoulders like a penitent yoke, the beam radiates suffocating
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a knot-charm of Grudge Han-iron, dark and warmer in the hand than the room it was kept in.
+**Appearance:** a warm crimson tail-knot of Grudge Han-iron with one loop and no second line.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -228,10 +228,10 @@ Every item in this set is the Rope's condition carried in metal rather than ordi
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Soaking Rope's toll being that the yoke is carried across the shoulders and goes on being carried after it is set down. The ache settles where the beam sat and corresponds to no injury. |
-| **During use** | Charging shows as the yoke: it is carried across the shoulders and goes on being carried after it has been set down, and the ache settles exactly where the beam sat with no injury behind it. The second worker logs the hour, and the bearer's own account is taken afterwards, separately. |
-| **At limit** | The slowness does not lift: the bearer answers late, leaves late, and reports afterwards that the shift felt shorter than it was. On a Soaking Rope piece the use ends at that point whatever the bearer says about it. |
-| **After use** | Return the piece, reconcile the baseline, and enter whether the slowness has cleared and the shift is being reported at its true length again. Where it has not, the piece is not reissued to that bearer. |
+| **Before use** | Wielder, piece, gauge, undertaking count, and that piece's own baseline: shoulder sensation for the beam, answer/leave latency for the plate, and nearby expectations already felt through the knot. |
+| **During use** | Record the first sign by piece: the beam still felt across the shoulders after it is set down, the plate wearer slower to answer or leave, or the knot bearer reporting another abandoned expectation nearby. The second worker logs the hour, and the bearer's own account is taken afterwards, separately. |
+| **At limit** | The relevant first sign persists, or the bearer starts carrying another person's wait as their own. On a Soaking Rope piece the use ends at that point whatever the bearer says about it. |
+| **After use** | Return the piece, reconcile the baseline, and enter which sign has cleared: shoulder ache without injury, slowness and the true length of the shift, or ambient expectations. Where it has not cleared, the piece is not reissued to that bearer. |
 
 **Stat interpretation:** α is the lowest grade in the archive, and the knot is the most expensive thing in this file. The grade measures what the beam does to the Rope. It does not measure what it is to feel every unreciprocated expectation within thirty metres, which is what the wearer receives and what no figure here records.
 
@@ -264,7 +264,7 @@ Every item in this set is the Rope's condition carried in metal rather than ordi
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Rope's register entry (N-Iα-316 [D]) reads Subject-Void manifestation, Grudge expressed. It formed from a connection that was never allowed to become real. The Rope formed from a connection that was never allowed to become real. Held at Zone A, Alpha Tree. It is perceived more clearly by people waiting for someone.
+The Rope's register entry (N-Iα-316 [D]) reads Subject-Void manifestation, Grudge expressed. It formed from a connection that was never allowed to become real. Held at Zone A, Alpha Tree. It is perceived more clearly by people waiting for someone.
 
 **Entry 2 — <Excerpt from Waiting-Room Log, Zone A>**
 Travels through consciousness and abandoned memories. Personnel feel attached to someone who is absent. It binds emotionally but never physically.

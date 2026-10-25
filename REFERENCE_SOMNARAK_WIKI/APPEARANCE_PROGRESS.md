@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch180 OPEN 1/5.** Unit 1 Spreading Root `O-IVδ-693` HELD after seven supported repairs (7075→7145 words); No change 0/1. [Evidence](SE_APPEARANCE_REVIEWS/B180_01_SPREADING_ROOT.md). Counters unchanged; ledger held 157 / pending 124.
+**Latest: Batch180 OPEN 2/5.** Spreading Root and Soaking Rope HELD after seven supported repairs each; No change 0/2. Latest: [Soaking Rope evidence](SE_APPEARANCE_REVIEWS/B180_02_SOAKING_ROPE.md). Counters unchanged; ledger held 158 / pending 123.
 
 **Previous: Batch179 CLOSED 5/5.** Five HELD whole designs; 33 supported repairs (23 short / 10 careful), No change 0/5. Equipment coverage +1 Types / +0 Weapon (Wilderness Tide fresh all-type disposition); SE +0. [Full report](SE_APPEARANCE_REVIEWS/B179_CLOSE.md).
 
