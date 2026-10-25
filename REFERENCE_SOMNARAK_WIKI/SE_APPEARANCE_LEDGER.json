@@ -18,7 +18,7 @@
   },
   "active_batch": {
     "number": 182,
-    "status": "OPEN",
+    "status": "CLOSED",
     "required": 5,
     "queue": [
       "N-IVδ-525",
@@ -7565,6 +7565,14 @@
       },
       "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_OPEN.json",
       "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_CLOSE.json"
+    },
+    {
+      "batch": 182,
+      "status": "CLOSED",
+      "reviewed": 5,
+      "required": 5,
+      "no_change": 0,
+      "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_CLOSE.md"
     }
   ],
   "equipment_reviews": [

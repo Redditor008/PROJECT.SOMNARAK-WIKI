@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch182 OPEN 5/5.** Five HELD reviews (8, 8, 7, 10 and 8 repairs); The Final Door earns the batch's only fresh equipment credit, +1 Types / +1 Weapon; No change 0/2. Latest: [Carrying Nothing evidence](SE_APPEARANCE_REVIEWS/B182_05_CARRYING_NOTHING.md). Counters: 270/301 Types, 268/287 Weapon, 18/301 SE; held 171 / pending 110.
+**Latest: Batch182 CLOSED 5/5.** Five HELD reviews, 41 supported repairs, No change 0/5. The Final Door earns the batch's only fresh equipment credit, +1 Types / +1 Weapon. [Close report](SE_APPEARANCE_REVIEWS/B182_CLOSE.md). Counters: 270/301 Types, 268/287 Weapon, 18/301 SE; held 171 / pending 110.
 
 **Previous: Batch180 CLOSED 5/5.** Five HELD reviews, 39 supported repairs, No change 0/5. [Close report](SE_APPEARANCE_REVIEWS/B180_CLOSE.md). Counters unchanged; ledger held 161 / pending 120.
 
