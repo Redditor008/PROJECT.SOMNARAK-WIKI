@@ -8,6 +8,13 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 180 — OPEN, 0 / 5 (2026-10-25)
+
+Owner `P` after CLOSED 179 authorizes this batch only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes Spreading Root `O-IVδ-693` (7075), Soaking Rope `N-Iα-316` (7099), Unheard `C-Iα-965` (7105), Forgotten Shadow `N-IIβ-453` (7143), and Vanity Asleep `N-IIIγ-954` (7160). Reserves are Homecoming Tree `C-Iα-869`, Grimoire `C-IIβ-906`, Sky of Borrowed Faces `O-IIIγ-926`, The Echo Compass `C-IIIβ-016`, and Harbinger `N-IIIβ-155`, used only if the No change ladder extends the batch.
+
+No dossier has been reviewed yet; pending is not No change. [Opening evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_OPEN.json) stores all 125 pending fingerprints, and baseline archive, timeline, seam and symmetry audits PASS. Counters unchanged: 268/301 Types, 266/287 Weapon, 18/301 SE. Chatroom reporting now follows R-31 Compact Report v2. No Batch 181, merge, artwork or deployment is authorized.
+
+
 ## Batch 179 — CLOSED 5 / 5 (2026-10-25)
 
 All five frozen reviews are HELD after supported repairs: Mourning a Life I Never Lived, Hollow Tree, Wilderness Tide, The Wrath Flame and Drowned Roots. Thirty-three repairs in total (23 batch-short / 10 careful-detail), words 35,293 → 37,040, and No change 0/5, so the 5→7→10 ladder was not triggered and the batch stops at five. Fresh closure checks pass 25/25, unit tests 54/54, and the archive, timeline, seam and box-symmetry audits pass. The 296 unselected primaries, five reserves, all 301 Physical Form rows, all five Tales, every digit sequence and all 31 distinct fingerprinted sources are unchanged.

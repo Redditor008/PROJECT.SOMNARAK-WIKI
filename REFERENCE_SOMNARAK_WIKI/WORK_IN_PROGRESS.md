@@ -1,5 +1,22 @@
 # Work In Progress
 
+## Batch 180 — OPEN, 0 / 5 (2026-10-25)
+
+Owner `P` after CLOSED 179 authorizes this batch only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes this queue:
+
+1. Spreading Root `O-IVδ-693` — 7075 words
+2. Soaking Rope `N-Iα-316` — 7099 words
+3. Unheard `C-Iα-965` — 7105 words
+4. Forgotten Shadow `N-IIβ-453` — 7143 words
+5. Vanity Asleep `N-IIIγ-954` — 7160 words
+
+Reserves, only if three cumulative No change results extend the batch 5→7→10: Homecoming Tree `C-Iα-869`, Grimoire `C-IIβ-906`, Sky of Borrowed Faces `O-IIIγ-926`, The Echo Compass `C-IIIβ-016`, Harbinger `N-IIIβ-155`.
+
+No dossier has been reviewed yet; pending is not No change. Minimum five remains. Each unit requires complete original, identity-resolved source, history and final readings; an R-33 whole-design trace; a predeclared R-18 split; only source-supported repairs or an exact justified **No change**; individual Commentary and evidence; five checks; and its own verified gate push. [Opening evidence](SE_APPEARANCE_REVIEWS/B180_OPEN.json) stores all 125 pending fingerprints. Baseline archive, timeline, seam and symmetry audits PASS. Counters unchanged: 268/301 Types, 266/287 Weapon, 18/301 SE; held 156 / pending 125.
+
+Chatroom reporting now follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No Batch 181, merge, artwork or deployment is authorized. Later full recheck and the Batch301 eight-owner-body blocker remain retained.
+
+
 ## Batch 179 — CLOSED 5 / 5 (2026-10-25)
 
 All five frozen reviews are HELD after supported repairs: Mourning a Life I Never Lived, Hollow Tree, Wilderness Tide, The Wrath Flame and Drowned Roots. Thirty-three repairs in total (23 batch-short / 10 careful-detail), words 35,293 → 37,040, and No change 0/5, so the 5→7→10 ladder was not triggered and the batch stops at five. Fresh closure checks pass 25/25, unit tests 54/54, and the archive, timeline, seam and box-symmetry audits pass. The 296 unselected primaries, five reserves, all 301 Physical Form rows, all five Tales, every digit sequence and all 31 distinct fingerprinted sources are unchanged.

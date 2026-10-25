@@ -1,6 +1,8 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch179 CLOSED 5/5.** Five HELD whole designs; 33 supported repairs (23 short / 10 careful), No change 0/5. Equipment coverage +1 Types / +0 Weapon (Wilderness Tide fresh all-type disposition); SE +0. [Full report](SE_APPEARANCE_REVIEWS/B179_CLOSE.md). No 180/merge/art/deployment authorization.
+**Latest: Batch180 OPEN 0/5.** Owner `P` authorizes this batch only. Fresh queue: Spreading Root, Soaking Rope, Unheard, Forgotten Shadow, Vanity Asleep. No review yet and counters unchanged. [Opening evidence](SE_APPEARANCE_REVIEWS/B180_OPEN.json).
+
+**Previous: Batch179 CLOSED 5/5.** Five HELD whole designs; 33 supported repairs (23 short / 10 careful), No change 0/5. Equipment coverage +1 Types / +0 Weapon (Wilderness Tide fresh all-type disposition); SE +0. [Full report](SE_APPEARANCE_REVIEWS/B179_CLOSE.md).
 
 **Previous: Batch178 CLOSED5/5.** Five HELD whole designs; 31 supported repairs. No new Types/Weapon/SE credits. [Full report](SE_APPEARANCE_REVIEWS/B178_CLOSE.md).
 
