@@ -16,6 +16,8 @@
 
 142 + 71 + 53 + 28 + 7 = **301 / 301**. Every dossier belongs to exactly one category. The first two are the "normal" SEs (213 files). The three relics (88 files) are SEs the facility also keeps and uses as operational tools.
 
+**Writing a dossier?** Use the per-category fill-in templates in [TEMPLATES/](TEMPLATES/README.md) — one extended overhaul scaffold per category, with the choice flow, the shared spine, and the differences table. The detail files below explain *what* each category is; the templates show *how the document looks*.
+
 ## How to tell which category a dossier is (ten seconds)
 
 1. **Search the file for `### Tool Use Profile —`.** If it is there, the dossier is a **relic**, and the letter after the dash is its class: I, O, or A. This heading, together with `### Log and Method`, appears in 88 of 88 relic files and in 0 of 213 non-relic files.
