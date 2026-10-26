@@ -8,6 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 186 — OPEN, 0 / 5 (2026-10-26)
+
+Fresh C-locale ranking of the 95 pending froze: Weeping Willow, Folly, The Memory Thief, Patina, The Lost Prince. Unit 1 next.
+
 ## Batch 185 — CLOSED, 5 / 5 (2026-10-26)
 
 Five HELD; No change 0; 23 repairs; validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; [closure record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_CLOSE.md). Types 271/301 · Weapon 269/287 · SE Fix 18/301; held 186 / pending 95. Batch 186 opens next.

@@ -1,5 +1,9 @@
 # Work In Progress
 
+## Batch 186 — OPEN, 0 / 5 (2026-10-26)
+
+Fresh C-locale ranking of the 95 pending froze: Weeping Willow, Folly, The Memory Thief, Patina, The Lost Prince. [Opening record](SE_APPEARANCE_REVIEWS/B186_OPEN.json).
+
 ## Batch 185 — CLOSED, 5 / 5 (2026-10-26)
 
 Fresh validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; no source changes. 23 repairs; No change 0; Types 271/301 · Weapon 269/287 · SE Fix 18/301. [Closure record](SE_APPEARANCE_REVIEWS/B185_CLOSE.md). Batch 186 follows in this prompt.
