@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 184 — OPEN, 4 / 5 (2026-10-26)
+## Batch 184 — OPEN, 5 / 5 (2026-10-26)
+
+**Unit 5 — Pall `C-IIβ-280`: HELD.** Four supported repairs (3 short / 1 careful; 7384→7572 words): combat's worn-veil rows become unnoticed dulling and shortening notes; the Termination row no longer tells the wearer to lift the veil themselves; the exposure paragraph becomes the load cell and the notes; a stray Story Log line becomes the wearer list. Batches 79/107 already counted set 280: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B184_05_PALL.md).
 
 **Unit 4 — Melting Rope `N-IIIγ-447`: HELD.** Seven supported repairs (5 short / 2 careful; 7375→7553 words) return combat triggers and the flavor section to the dream-account regime and price all three field-use signs. Batch 109 already counted set 447: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B184_04_MELTING_ROPE.md). **Five reviews of this prompt complete** (B183 U5 + closure, B184 U1–U4); Unit 5 Pall `C-IIβ-280` remains for the next prompt, which will also close Batch 184.
 

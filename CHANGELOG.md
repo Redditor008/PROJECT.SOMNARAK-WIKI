@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 184 — OPEN, 4 / 5 (2026-10-26)
+## Batch 184 — OPEN, 5 / 5 (2026-10-26)
+
+**Unit 5 — Pall `C-IIβ-280`: HELD.** Four supported repairs (3 short / 1 careful; 7384→7572 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_05_PALL.md). Batches 79/107 already counted set 280: +0/+0/+0. Completed 5/5; No change 0; held 181 / pending 100. Closure follows in this prompt (five floor / ten ceiling).
 
 **Unit 4 — Melting Rope `N-IIIγ-447`: HELD.** Seven supported repairs (5 short / 2 careful; 7375→7553 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_04_MELTING_ROPE.md). Batch 109 already counted set 447: +0/+0/+0. Completed 4/5; No change 0; held 180 / pending 101. Five reviews in this prompt done (B183 U5 + closure, B184 U1–U4); next prompt: Pall `C-IIβ-280` + Batch 184 closure.
 
