@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Empty Ring* [**Debuff**] } | "A sound echoes — but the sound has no source, and the echo has no original, and both are hollow." | [The Echo's void-resonance fills the target with absence.] | *Target suffers a Void mark; they are full of nothing.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Echo's range. |
-| { *The Amplifying Silence* [**Debuff**] } | "The echo grows louder — but louder means emptier — and the emptiness is deafening." | [The Echo's amplification increases the void-quotient.] | *Target loses clarity; the nothing is consuming everything.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains. |
-| { *The Sonic Void* [**Attack**] } | "The echo collapses inward — becoming a point of pure, concentrated absence." | [A void-point strikes the target.] | *Inflicts Void damage; the absence erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Echo is disturbed. |
-| { *The Full Hollow* [**Attack**] } | "Every echo the entity ever held — all of them hollow — resonate at once." | [The Echo's complete resonance is a wall of nothing.] | *A heavy Void wave; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Echo is silenced. |
+| { *The Empty Ring* [**Debuff**] } | "It is not frantic. It has been calling long enough that desperation has worn down into patience." | [The one word sits at even volume across the whole enclosure, no source and no falloff; the listener starts timing the replies without deciding to.] | *Names begin to go missing in the mind — colleagues first — and the door list the worker gives on the way out is shorter than the one taken in.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker is inside the even volume during a timed watch. |
+| { *The Amplifying Silence* [**Debuff**] } | "The pause between the words is where the answer should have been." | [The enclosure itself is silent; the silence never fills. Wardens count with it instead of answering.] | *Clarity erodes by subtraction; what replaces it is reluctance — a person who has stopped replying to anything.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the watch is timed without speech, interval after interval. |
+| { *The Sonic Void* [**Attack**] } | "You intend to say something. It never arrives." | [No point strikes anybody; this holding has never injured anyone. Under repeated visits the words a worker meant to answer with simply do not come, and the unanswered count is the damage.] | *Void erosion lands on the name list and on the worker's queue of things to reply to; the reluctance outlasts the cure by weeks.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the same worker arrives with open requests unaddressed. |
+| { *The Full Hollow* [**Attack**] } | "It says one word, patiently, forever — until something else is said back." | [Nothing is silenced, because silencing is not a protocol here. The one recorded departure — the enclosure saying something other than the single word — is the event this row covers.] | *A heavy Void surge of 15% across the enclosure when another word is heard; transcription of it takes precedence over the session.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the word departs from its single unvarying wording. |
 | { *The Hollow World* [**Ultimate**] } | "Every sound in the field becomes a hollow echo — and beneath every echo, the same void." | [The Echo extends its hollowness across the whole area.] | *All in range suffer Void erosion for three turns of hollow resonance.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
@@ -238,6 +238,8 @@ The set is α-grade and the armoury keeps it for teaching rather than for use. L
 
 **Full-set source review (2026-10-12):** Reviewed the grade overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against Side `SE-1013-A` (`N-IIα-125 [VS]`, `4/4`), items `SE-1013-B/C/D`, Registry rows 214–217, Master M.A.W. entries 457–459, Entity Codex row 520, Tale 153, and archetypes `MAW-W-125/1013`. The three local piece grades, Side/item grades, and Master entries support α; the overview's M.A.W. slot is therefore completed from `—` to `α`, while Tool remains `—`. Side A has no standalone Appearance heading; none of the three item pages has an Appearance section or separately labelled transition. Hold primary *The Reverberant Spear* and its six-foot fluted bronze spear against Side/item *The Echo Lens* and Master Entry 457's Lens: `MAW-W-125` describes a fluted bronze sonic spear but assigns Close, while linked-code archetype `MAW-W-1013` lists a pointed ice scalpel / Short. Local Range 2 (Short) matches the latter band, not the former. Déjà Vu `C-IVδ-125` repeats the primary Spear title/appearance, while the B90 review found its current item heading/Appearance consistent with the Spear but its item identity/resting-active fields and Entry 241 retain Lens language; that separate case has a different α/Single profile, and no shared item or form crosswalk is established. The primary's teaching-only Use Note remains held against the linked item histories' field-bearer accounts. Local Weapon/Suit profiles align with the Side/items; the Stigma's local Head / 5% / +1 claims are not resolved by the Registry's generic Accessory slot. Tale 153 supports entity context, not an equipment identity. No disputed weapon form or profile was normalized.
 
+## 관찰 기록 (Observation Log)
+
 **R.D. Comprehension Level:** 1 — Initial
 
 - The Echo is ambient and has no confirmed physical body.
@@ -287,14 +289,14 @@ The ground for the rule is in the enclosure and is measurable to the second. For
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Hollow Echo; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Say the two things and nothing else: that they hear it, and that nobody is coming. | Say that help is on its way, or that they will see what can be done, or anything with a future tense in it. |
 |---|---|
 | The worker says the two things and nothing else: that they hear it, and that nobody is coming. The call pauses. It says thank you. Then it resumes, and the interval is longer, and that is the whole of what success looks like here. | The worker says that help is on its way, or that they will see what can be done, or anything with a future tense in it. The call goes distant and quiet, which reads as calm on the sheet and is not. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-You hear “Help” from behind you. When you turn, the gardens are empty. The call comes from above, then beneath the path, then from inside your chest. It is not frantic anymore. It has called for so long that desperation has become patience. When you answer, the silence pauses to listen.
+The “Help” comes from nowhere in particular and everywhere in the room at once — even, unvarying, with no direction to turn toward and no distance to measure. It is not frantic. It has called for so long that desperation has become patience, and when you answer, the pause itself seems to listen.
 
 
 
@@ -404,7 +406,7 @@ People called from rubble, from overflows, and from Fracture zones, and nobody c
 
 ### Registry Trivia
 
-- **Classification detail:** Subject, Echo (II), Minor (α), Comprehension Level 1. The Registrum carried placeholder text in four fields for an unknown period and has been filled from the SECC header; nothing in the entity changed, only the record of it.
+- **Classification detail:** Subject, Echo (II), Minor (α), Comprehension Level 1 — the lowest grade in the wing for a holding whose containment condition reaches every office that takes a request.
 - **Field detail:** Void, Zone D, Echo Gardens, ambient throughout a single enclosure and never recorded outside it except during the one expansion.
 - **Recognition detail:** There is nothing to recognise by sight and the faint outline is not it. Identify by the interval: a single repeated request for help, unvarying in wording, at a measurable and strikingly regular spacing. The regularity is the measurement and the file holds that a containment does not need more instrumentation than its subject offers.
 - **Record detail:** Check the designation, and do not read this as the Drowned Echo. That record turns on calls closed administratively — a file marked resolved with no word to the caller, which is a clerical act. This turns on calls never answered in either direction, left open on purpose, by people being careful not to promise what they could not deliver. One is carelessness with a record. The other is caution with a sentence, and it is the more defensible of the two and has cost more.
