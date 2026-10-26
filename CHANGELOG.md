@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 184 — OPEN, 0 / 5 (2026-10-26)
+## Batch 184 — OPEN, 1 / 5 (2026-10-26)
+
+**Unit 1 — Shard of a Broken Promise `O-IVδ-851`: HELD.** Six supported repairs (5 short / 1 careful; 7340→7522 words) return combat to the 112-hertz hum and the declaration book. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_01_SHARD_OF_A_BROKEN_PROMISE.md). First whole-set disposition: **fresh +1 Types / +1 Weapon**, +0 SE. Completed 1/5; No change 0; held 177 / pending 104; counters 271/301 and 269/287. Next is Thralldom `O-Iα-754`.
 
 Owner `P` clarified as **five SE reviews per prompt** (floor, not ceiling; No change dossiers are simply reported as such). This prompt: B183 unit 5 + closure, then Batch 184 units 1–4. Fresh freeze: Shard of a Broken Promise `O-IVδ-851` (7340), Thralldom `O-Iα-754` (7359), The Convergence `C-Vδ-010` (7366), Melting Rope `N-IIIγ-447` (7375), Pall `C-IIβ-280` (7384). Reserves only on ladder extension. Baseline audits PASS.
 

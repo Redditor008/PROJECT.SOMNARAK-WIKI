@@ -15,7 +15,7 @@
 | **Element** | Lament |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A large shard of pale crystal with a clean break splitting it to the center, humming low when touched. Salt-cold, it smells of cold rain; the break never finishes separating, and never heals. |
-| **Movement** | Stationary — a body or drop of liquid. |
+| **Movement** | Stationary — a discrete object on a stand; the judged area travels, the crystal does not. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -78,9 +78,9 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Jagged Edge* [**Debuff**] } | "You run your finger along the shard — and the edge finds every old wound." | [The Shard resonates with the target's existing cuts.] | *Target suffers -10 Composure; old wounds reopen.* **[10 Lament DMG [Lament]]** | When the target touches the Shard. |
-| { *The Embedded Splinter* [**Debuff**] } | "The shard works its way deeper — and the deeper it goes, the more it remembers." | [The Shard burrows; its sorrow leaches inward.] | *Target loses 10 Composure; the foreign grief is inside them.* **[10 Lament DMG [Lament]]** | When the target lingers. |
-| { *The Flying Splinter* [**Attack**] } | "The shard launches — spinning, sharp, and carrying the anger of being broken." | [A spinning shard strikes the target.] | *Inflicts Lament pressure and one thin, deep cut.* **[14-22 Lament DMG [Lament]]** | When the Shard is struck. |
+| { *The Jagged Edge* [**Debuff**] } | "112 hertz in an empty room. It is not waiting for you." | [Nothing is touched and nothing cuts: the hum presses on what the worker has already promised and not done, and the pressing is the injury.] | *Target suffers -10 Composure; the undeclared thing comes back to mind uninvited.* **[10 Lament DMG [Lament]]** | When a worker with something outstanding comes inside the judged area. |
+| { *The Embedded Splinter* [**Debuff**] } | "Workers coming off this holding write a letter. Or make a call." | [The shard stays on its stand; what follows the worker out is the conviction, with the texture of memory, that a promise has been broken by them.] | *Target loses 10 Composure; the conviction persists for days and resists correction by colleagues who were present.* **[10 Lament DMG [Lament]]** | When the worker lingers past the second confirming reading. |
+| { *The Flying Splinter* [**Attack**] } | "The one time somebody struck the break face, the pitch rose forty hertz and never came back down." | [Nothing launches and nothing is thrown; the strike lands as sound, and the permanent step from 72 to 112 hertz is on the chart to prove it.] | *Inflicts Lament pressure as the pitch takes a step it does not give back; the crystal is unmoved and unmoving.* **[14-22 Lament DMG [Lament]]** | When anything is attempted against the break face, which has happened once. |
 | { *The Shatterpoint* [**Attack**] } | "It names the undertaking you did not declare at the door." | [The hum resolves into the exact wording of a promise the worker has outstanding and has not disclosed.] | *24–36 Lament and a 15% Gauge surge to that worker alone; nobody else in the vault hears the words.* **[24-36 Lament DMG [Lament]]** | When an undeclared undertaking is carried past the threshold. Seventeen occasions, all seventeen later confirmed accurate by the worker. |
 | { *The Shard Storm* [**Ultimate**] } | "Every pane and vessel in the vault takes up the pitch and the whole room sounds like the break." | [The hum propagates into the surrounding glass and crystal and the judged area becomes the room.] | *12–20 Lament per cycle for three cycles to everyone inside the vault.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, recorded once, during the Year 4,234 inventory, when four workers were in the room with undeclared undertakings between them. |
 
@@ -88,13 +88,13 @@
 
 1. **Tension:** Personnel confirm the hum is audible, establish that the clean break faces away from the approach, and verify vault seal integrity before closing distance.
 2. **Clash:** The team works by Viderehan and Ferrehan only, reading the break aloud while the hum deepens and the salt-cold intensifies toward the vault floor.
-3. **Resolution:** The engagement ends when the hum returns to its resting pitch and holds there, or when personnel withdraw beyond the vault threshold and the salt-cold lifts from the approach corridor.
+3. **Resolution:** There is no withdrawal version of the close. The cycle ends when the pitch has returned to its resting value at two consecutive readings, the declaration as given is in the book, and nobody in the room has undertaken anything — the documented condition being **the pitch returns to its resting value within ten minutes of the reading and the worker leaves without having undertaken anything**.
 
 ### Consequences
 
 - The failure here is a promise made in the room. It is nearly always made to the shard, it is nearly always sincere, and it is always the beginning of the incident; the vault's seventeen bad cycles each begin with a worker undertaking to do something.
 - Extended contact leaves personnel convinced they have broken a promise they cannot name. The conviction persists for days, arrives with the texture of memory rather than suggestion, and resists correction by colleagues who were present throughout.
-- Every activation of the shard's equipment extracts the same price it extracted from the family: the wielder is measured against an undertaking they did not give, and the measurement is recorded in the equipment specifications and paid in the field.
+- Every activation of the shard's equipment extracts the same price it extracted from the family: the wielder is measured against an undertaking they did not give, and where the measurement fails the piece records it in itself — nine hairline fractures, each dated, each kept with the sentence that caused it.
 - Without timely resolution the hum does not subside, and the vault must be sealed for a full cycle before re-entry is authorised. No method of silencing it early has been recorded, and three attempts to dampen it mechanically made the pitch permanent.
 
 ## Appearance
@@ -337,7 +337,7 @@ The Shard is beautiful because the break is clean. You touch it and hear a promi
 
 **At first contact:** Cold that smells of rain, then a hum you are not sure you are hearing, then — under direct light, last of all — the break: clean, straight, running to the centre of a pale crystal the size of a forearm, neither open nor closed.
 
-**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Lament presses hardest, where it recedes, where the Object-Void lets you breathe.
+**With continued exposure:** The shock narrows to a single figure and a single question: whether the pitch has moved, and whether anything you have not yet said out loud is the reason. The vault keeper's four sentences cover the rest.
 
 **When the entity activates:** The pitch climbs and the room gets colder, and then the hum has words in it that are in your own phrasing. Nobody else hears them. The seventeen workers this has happened to have all confirmed afterward that the wording was exact.
 
@@ -395,7 +395,7 @@ Some sorrows mourn a loss. Shard of a Broken Promise mourns the trust — the pr
 **Threat Assessment:** Critical by grade and quiet by history. Fourteen years, 408 cycles, seventeen namings, one propagation event, no fatalities and no lasting injury — and one permanent 40-hertz rise caused by a worker striking it.
 **Containment & Handling Procedures:**
 - Declare at the threshold, read the break, take the pitch. Honesty is the whole of the Work Type here.
-- Standard R.D. containment protocols apply.
+- Break face to the wall, as set in Year 4,230; nobody is screened by the hum, and nobody is turned away for not hearing it.
 - Pitch rise is the only signal; measure the judged area from the break face, not from the crystal.
 **Observation Notes:**
 - A three-generation promise of protection, an evacuation order, and a household that believed the older statement.

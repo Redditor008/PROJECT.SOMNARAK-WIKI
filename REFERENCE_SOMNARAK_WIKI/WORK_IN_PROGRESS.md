@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 184 — OPEN, 0 / 5 (2026-10-26)
+## Batch 184 — OPEN, 1 / 5 (2026-10-26)
+
+**Unit 1 — Shard of a Broken Promise `O-IVδ-851`: HELD.** Six supported repairs (5 short / 1 careful; 7340→7522 words) return the combat tier from a launched, burrowing shard to the hum it has been for fourteen years, replace the template retreat close, the liquid-boilerplate movement row, the spec-sheet toll tail, the standard-protocols filler and the stock exposure paragraph. First whole-set disposition (Batch 72 only rewrote the addendum): **fresh +1 Types / +1 Weapon**, +0 SE. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B184_01_SHARD_OF_A_BROKEN_PROMISE.md).
 
 Owner `P` clarified: **five SE reviews per prompt** (five is the floor, not the ceiling; a dossier needing no fix is simply reported as **No change** in the chatroom). This prompt finished Batch 183 unit 5 + closure and now runs Batch 184 units 1–4 — five reviews in one prompt. Fresh pending-only ranking freezes Shard of a Broken Promise `O-IVδ-851` (7340), Thralldom `O-Iα-754` (7359), The Convergence `C-Vδ-010` (7366), Melting Rope `N-IIIγ-447` (7375), Pall `C-IIβ-280` (7384); reserves Whispering Walls, Candela, Mourner's Bloom, Breach, Hollow Echo only on ladder extension. Baseline audits PASS (run fresh at B183 closure in this prompt).
 

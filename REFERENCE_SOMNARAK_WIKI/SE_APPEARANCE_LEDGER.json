@@ -28,7 +28,20 @@
       "C-IIβ-280"
     ],
     "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_OPEN.json",
-    "reviewed": {}
+    "reviewed": {
+      "O-IVδ-851": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_01_SHARD_OF_A_BROKEN_PROMISE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -5797,8 +5810,29 @@
     {
       "designation": "O-IVδ-851",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-851_Shard_of_a_Broken_Promise_부서진_조각.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Six supported repairs bring the kinetic leftover back to an object that has never left its stand: the first three combat rows stop fingering reopened wounds, burrowing inward and launching as a spinning cut 'when the Shard is struck' — pressure now lands as the hum rising on an undeclared undertaking, the conviction that follows a worker home, and the one recorded strike's permanent 72→112 hertz step, matching the pitch-based rows below them; the template Resolution retreat gives way to the vault's actual close (two consecutive resting readings, declaration in the book, nothing undertaken); the SECC movement row stops calling a pale crystal 'a body or drop of liquid'; the spec-sheet toll tail is replaced by the nine dated fractures and their nine sentences; the Registrum's 'Standard R.D. containment protocols apply' filler becomes the break-face/no-screening rule; and the stock continued-exposure paragraph now asks the vault's only question. Whole design HELD; fresh equipment credit +1 Types / +1 Weapon (first whole-set disposition); +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_01_SHARD_OF_A_BROKEN_PROMISE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/851_Shard_of_a_Broken_Promise/SE-851-A__SIDE_CODEX_Shard_of_a_Broken_Promise.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/851_Shard_of_a_Broken_Promise/SE-851-B__MAW-W_The_Promise_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/851_Shard_of_a_Broken_Promise/SE-851-C__MAW-S_The_Promise_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/851_Shard_of_a_Broken_Promise/SE-851-D__MAW-G_The_Promise_Shard.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IVδ-895",
@@ -7857,6 +7891,14 @@
       "batch": 182,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_04_THE_FINAL_DOOR.md",
       "history_proof": "Fresh exact SE-111 set read complete: A side codex (no M.A.W. registry, no extraction authorized), B Final Threshold glaive δ11–18/3/3 Piercing 2/50 with Sub-Vault 0 incident, C Threshold Veil 0.8/0.8/0.4/0.8 2/50, D Thirteen-Second Echo Eye 3% +3 Composure; Master Entries 388–390 (No Extraction Lens/Veil/Stigma, 50/45), Entity 497, Tale 130 complete, CSV 350–353, archetype MAW-W-111 hand-cannon GUN, disposition 442. No prior full/exact disposition across CHANGELOG volumes, WIP, reviews or ledger (R-29 restatement, HP 750, speed row only). Primary set: Redacted Hand-Cannon Void10–15/3/3 Skewer 2/50; Veil 1.2/0.8/0.3/1.1 2/45; Stigma Head 4% +3 unnamed — identity forks vs B/C/D and Side A no-extraction preserved as holds; fresh +1/+1.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "O-IVδ-851",
+      "batch": 184,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_01_SHARD_OF_A_BROKEN_PROMISE.md",
+      "history_proof": "Registry CSV 923–926, archetype MAW-W-851 row 338, Master table 722–724 / detail Entries 682–684, Entity Codex row 598, complete Tale 228, disposition row 370 read with exact SE-851-A–D 4/4. Exact designation/title/item-name searches across current CHANGELOG and WORK_IN_PROGRESS find only Batch 72 unit 4 (Registry Addendum couple-clearing prose, 685e594) and Batch 112 unit 3's boundary note that SE-851 remains its own assignment — neither is an independent whole-set equipment disposition; no O-IVδ-851 row exists in ledger equipment_reviews. Fresh +1 Types / +1 Weapon.",
       "all_types_credit": true,
       "weapon_credit": true
     }
