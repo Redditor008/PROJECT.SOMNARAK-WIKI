@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 184 — OPEN, 2 / 5 (2026-10-26)
+## Batch 184 — OPEN, 3 / 5 (2026-10-26)
+
+**Unit 3 — The Convergence `C-Vδ-010`: HELD.** Seven supported repairs (6 short / 1 careful; 7366→7563 words) bring the conventional apparatus under the station's own rule — projections labelled as projections — removing the all-four valid-work row, the centre-of-grief combat rows, the limb-rampaging breach movement, the physical-suppression escalation line, the stock origin and appearance-protocol paragraphs and the unsentenced 'sentenced personnel Fracture' claim. Batch 113 already counted set 010 (full-SE + new SE-010-B pair): +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B184_03_THE_CONVERGENCE.md).
 
 **Unit 2 — Thralldom `O-Iα-754`: HELD.** Eight supported repairs (7 short / 1 careful; 7359→7516 words) remove the prey-hunting breach burst, wall-cracking anger, 'wave of pure malice', self-splitting Ultimate and template Observation rows, and keep barred Pugnahan out of the valid-work row. Batch 132 already dispositioned exact set 754 inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B184_02_THRALLDOM.md).
 

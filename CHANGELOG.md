@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 184 — OPEN, 2 / 5 (2026-10-26)
+## Batch 184 — OPEN, 3 / 5 (2026-10-26)
+
+**Unit 3 — The Convergence `C-Vδ-010`: HELD.** Seven supported repairs (6 short / 1 careful; 7366→7563 words): projections now labelled beside thirty-six verified seconds; rampage and physical-suppression lines removed. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_03_THE_CONVERGENCE.md). Batch 113 already counted set 010 inside the legacy baseline: +0/+0/+0. Completed 3/5; No change 0; held 179 / pending 102. Next is Melting Rope `N-IIIγ-447`.
 
 **Unit 2 — Thralldom `O-Iα-754`: HELD.** Eight supported repairs (7 short / 1 careful; 7359→7516 words) return the breach and combat grammar to the open length, the count from four and the mark series. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_02_THRALLDOM.md). Batch 132 already counted exact set 754 inside the legacy baseline: +0/+0/+0. Completed 2/5; No change 0; held 178 / pending 103. Next is The Convergence `C-Vδ-010`.
 

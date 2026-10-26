@@ -52,6 +52,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Vδ-010": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_03_THE_CONVERGENCE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -3043,8 +3055,29 @@
     {
       "designation": "C-Vδ-010",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-010_The_Convergence_수렴.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Seven supported repairs bring the remaining boilerplate under this file's own honesty rule — projections labelled as projections: the Valid Work Types row stops offering four work types against a form no Work Type has ever been attempted on; combat's first three rows stop centering targets in all grief and crushing them 'when the Convergence is disturbed', and now read against Side A's formation clock as the projected pressure the station can actually testify to; the breach record no longer 'rampages on its limbs, crashing through walls' from a floating, stationary event that has never attempted escape; the escalation line 'Physical suppression required' becomes the twelve-second separation doctrine; the generic appearance protocol and cross-reference origin paragraph give way to the three-clocks record and the three-sorrows process; and the Special Behaviors claim that 'most sentenced personnel Fracture within three seconds' is withdrawn to the file's true position — nobody has been sentenced on this record. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_03_THE_CONVERGENCE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/010_Convergence/SE-010-A__SIDE_CODEX_The_Convergence.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/010_Convergence/SE-010-B__MAW-W_The_Absolute_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/010_Convergence/SE-010-C__MAW-S_The_Absolute_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/010_Convergence/SE-010-D__MAW-G_The_Absolute_Verdict.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Vδ-111",

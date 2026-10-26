@@ -70,7 +70,7 @@
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | None against the fused form: there is no Work Type for it and none has ever been attempted. The four responses below belong to the three component Birds and are retained for them. |
 | **Battlefield** | Forms only when Entities 031–033 breach simultaneously |
 | **Resolution Condition** | Separate Entities 031, 032, and 033 within twelve seconds |
 
@@ -78,9 +78,9 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Gathering Point* [**Debuff**] } | "Everything is being pulled here — every sorrow, every grief, every weight — toward a single, unbearable point." | [The Convergence draws all nearby sorrow toward the target.] | *Target suffers -10 Resolve; they are becoming the center of all grief.* **[10 Weight DMG [Weight]]** | When the target enters the Convergence. |
-| { *The Compression* [**Debuff**] } | "The sorrow compresses — denser, heavier — until the weight of a city's grief fits in the space of one heart." | [The Convergence's pressure intensifies exponentially.] | *Target loses 10 Resolve; the concentrated grief is staggering.* **[10 Weight DMG [Weight]]** | When the target remains at the center. |
-| { *The Gravitational Pull* [**Attack**] } | "The convergence pulls — hard — dragging everything and everyone toward the singularity of sorrow." | [A massive inward pull seizes the target.] | *Inflicts Weight pressure and one wound of crushing convergence.* **[14-22 Weight DMG [Weight]]** | When the Convergence is disturbed. |
+| { *The Gathering Point* [**Debuff**] } | "At three seconds there were three trajectories bending inward. This is what the bending is for." | [Projection, against the formation clock: the not-yet-fused mask takes its address, and the Weighting Bird's handler is looked at first.] | *Target suffers -10 Resolve; projected, never measured — nobody has ever stood in the centre and reported the number.* **[10 Weight DMG [Weight]]** | When anybody enters the centre radius instead of a Bird post. |
+| { *The Compression* [**Debuff**] } | "Witnessed. Weighed. Kept." | [The three functions arrive in turn and agree, which the Chronicle and the drill both record as the finding rather than as three separate events.] | *Target loses 10 Resolve; projected from the handlers' accounts of seconds ten and eleven, the only testimony the record holds.* **[10 Weight DMG [Weight]]** | When the addressed person is still in the field at the count's second half. |
+| { *The Gravitational Pull* [**Attack**] } | "You do not attack the centre. The centre is three teams failing slowly." | [Nothing pulls anybody inward and nothing has been crushed: what draws personnel toward the mask is the separation work itself, and the station's rule exists because of it.] | *Weight pressure as the pull of unfinished work; no wound has been inflicted in thirty-six seconds of record.* **[14-22 Weight DMG [Weight]]** | When a team strikes at the fused mass instead of pulling its own Bird. |
 | { *The Singularity* [**Attack**] } | "All three judgements arrive at once and agree, and the agreement is the thing that cannot be survived." | [The fused verdict resolves; sight, weight and enforcement deliver one finding.] | *Facility-threatening. Never reached. Both times the window ran past ten seconds the separation came in at eleven.* **[Projected]** | At the end of the twelve seconds, if the Birds are still fused. |
 | { *The Collapsed World* [**Ultimate**] } | "Everything in the wing is drawn to one point and the point is a judgement." | [The convergence extends past the chamber.] | *Projected as facility-ending; modelled from the three formations and not observed.* **[Projected]** | Beyond the window. The entry exists so the drill has a reason printed on it. |
 
@@ -124,14 +124,14 @@
 | **Distinctive markers** | Exists only after the Three Birds breach together. Its judgment is always “Guilty.”. It does not distinguish between personnel, entities, or innocence. |
 | **Identification** | If the Three Birds are in one place and there is one mask, it has formed. There is no ambiguity and no gradual onset; the twelve-second count starts at the sight of it. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Note the formation time, the separation time per team, and which team broke contact last. There is no posture or proportion reading to take: thirty-six seconds of observation across eleven years were recorded by people who were pulling at the time.
 
 ## Origin
 - **Formation:** The Convergence is not born from one sorrow. It is the completed shape of witnessing, judgment, and protection without mercy.
 - **The Sorrow:** The belief that every existence carries an unavoidable sentence.
 - **The Event:** When the Three Birds breach at the same time, they have twelve seconds to be separated before they merge.
 - **The People:** All witnesses, judges, and defenders whose burdens formed the three component entities.
-- **Expanded origin context:** The archive cross-references this entity's sorrow with Forms only when Entities 031–033 breach simultaneously — the same Han density, the same Weight signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Subject is not going anywhere.
+- **Expanded origin context:** There is no incident of its own to consult. The archive keeps three origins — a sorrow of witnessing, a sorrow of verdicts, a sorrow of protection — and this file is the shape of the three agreeing: the Witness finds the suffering, the Judge pronounces on it, the Guardian executes, and the horror every witness reports is that they never disagreed. The merging changed nothing about the process; it made the body match the mind.
 
 ## Behavior
 
@@ -144,7 +144,7 @@
 
 ### Special Behaviors
 - Formation produces a twelve-second emergency window.
-- Most sentenced personnel Fracture within three seconds.
+- No personnel have been sentenced on this record; the sentences that appear in the Tale and the Chronicle are held by the station as projections beside the thirty-six seconds it can verify.
 - After suppression, the three Birds remain docile for 72 hours.
 
 
@@ -161,7 +161,7 @@ No Work Type has ever been applied to the fused form and the table is retained f
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | The Convergence rampages on its limbs, crashing through walls. It unleashes all sorrows at once. |
+| **Movement** | Floating and stationary. It has never moved during a formation and has never attempted to escape; it comes into existence where the three Birds already are and ceases when they are parted. |
 | **Effect** | Crushing pressure descends, bearing down on resolve. |
 | **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
 | **First Target** | Whoever is holding the Weighting Bird. In all three formations the fused mask turned toward that team first, and the station has rotated the post monthly since the second. |
@@ -170,7 +170,7 @@ No Work Type has ever been applied to the fused form and the table is retained f
 ### Escalation Notes
 
 - **Event type:** Formation. It does not escape and has never attempted to; it comes into existence where the three Birds already are and ceases when they are parted.
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** Separation, not suppression. Three teams pull three Birds apart against the twelve-second clock; nothing is struck, because every second spent on anything else is taken from the window.
 - **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
 
 ## M.A.W. Equipment

@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch184 OPEN 2/5** (opened in the same prompt that closed Batch183; five reviews per prompt). Shard of a Broken Promise HELD with **fresh +1 Types / +1 Weapon**; Thralldom HELD ([evidence](SE_APPEARANCE_REVIEWS/B184_02_THRALLDOM.md)). Queue continues: The Convergence, Melting Rope, Pall. Counters: 271/301 Types, 269/287 Weapon, 18/301 SE; held 178 / pending 103.
+**Latest: Batch184 OPEN 3/5** (opened in the same prompt that closed Batch183; five reviews per prompt). Shard of a Broken Promise HELD with **fresh +1 Types / +1 Weapon**; Thralldom and The Convergence HELD (latest [evidence](SE_APPEARANCE_REVIEWS/B184_03_THE_CONVERGENCE.md)). Queue continues: Melting Rope, Pall. Counters: 271/301 Types, 269/287 Weapon, 18/301 SE; held 179 / pending 102.
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 
