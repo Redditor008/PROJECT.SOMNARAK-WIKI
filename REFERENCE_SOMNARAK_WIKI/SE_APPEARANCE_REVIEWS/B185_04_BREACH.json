@@ -1,0 +1,140 @@
+{
+  "designation": "N-IVδ-339",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-339_Breach_무너진_벽.md",
+  "words": 7449,
+  "sha256": "9bcb36170429ca40b7ab73fc4bcd923bce1c0dd804ef259244b6a9f6d07c8614",
+  "unit": 4,
+  "name": "Breach",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_04_BREACH.md",
+  "before_words": 7449,
+  "after_words": 7643,
+  "base": "9b4e557693e4b4c7191e5ed59e0cf42eed6845b3",
+  "final_sha256": "cd43e448dc0d96529b6e395af04667cd9f0370a8a7593711c2e9e6e73f529e85",
+  "summary": "Five supported repairs (4 short / 1 careful) take this bastion back to its only weapon — a sentence. Combat's first three rows no longer pile grieving rubble on anyone, transfer loads, or drop bricks: they run on the watching interval, barriers felt as decorative, and the assurance itself with Drain +5 per further promise; the old situation-line at the head of Breach Behavior ('expands, crushing corridors shut') and its echo in the Apex Record are now explicitly corrected in place, Transform is glossed as the sector's relation to its own barriers rather than a shape, and the stock sensory Flavor opening becomes the clock-not-the-search protocol. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+  "commentary": "Sixty-one years of inspections, no defect deferred, and the wall is still down. The director's memo — 'we would rather send people in afraid and informed than confident on our word, because our word is what this entity is made of' — might be the most honest sentence in the whole wing.",
+  "reasoning": "R-33 chain: Subject / Entity-IV / Critical-δ / Inner Sorrow → a well-kept wall failed anyway because the danger was already inside the line → there is no wall, only the belief about one: an incorporeal lean in consciousness, watched-without-eyes, collapsing when resisted → work is a speech discipline (state the hazard, the likelihood, and what is not covered; widen cracks under Flerehan; never reassure) → breach is a line of reassured people, Drain +5 per assurance → equipment enforces honesty at per-piece cost (limit cards, one-impact plate, the moving crack). Rows that may no longer crush, drop or bury with masonry follow that chain; the polearm/blade and threshold forks stay HELD.",
+  "history": "The primary carries its own 2026-10-13 full-set source review: grade overview, complete M.A.W. set, notes and all claims against exact SE-339-A/B/C/D, Master Registry rows 619–622, Master rows/details 532–534, Entity Codex row 546, Tale 178 and archetype MAW-W-339 — filling '— · δ' and '+3 Clarity', keeping the Weapon identity/form HELD, and noting itself as the first source-led disposition for exact SE-339-B. Both credits are therefore inside the baseline: Batch 185 earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+  "holds": [
+    "Weapon identity stays forked as the 2026-10-13 review left it: primary / Master table 532 / archetype MAW-W-339 The Ruined Bastion-Pike — a ten-foot ash pike with swallowtail pennant 'broadcasting defiant resolve' — against exact Side/item B and Master detail 532 The Fallen Requiem, a crack-patterned blade that cuts cascading failure away from one realistic anchor. Numerics agree exactly (10–15 / 3 / 3 / Skewer / 100→70→50 / 2 / 50 Echoes), no transition is documented, and the pike's pennant grammar contradicts the file's ban on reassurance; left as found.",
+    "Thresholds and targets fork: front sheet Activation threshold 1 (one failure completes it) against Side A's 'at 90% Gauge boundaries collapse' and the stat line's ≥90%; combat 'Valid Work Types: all four' against the recorded rule that Pugnahan is entered as a failure, never an option; First Target ('whoever last assured somebody else that a thing was safe') preserved against disposition language. The brevity of Front-sheet '— · δ' and the generic Registry Stigma Accessory/5% (items: Tail/4%) stay as written.",
+    "The items' binding choreography has no primary counterpart: a named escape route and protection-limit card for the Barrier, the Requiem maintained aligned to an emergency route with its unprotectable remainder written down, and Charm care kept as four columns (stated limit, actual limit, failure path, remaining useful protection). The primary settles all of it as costs entered against the wielder; procedures do not merge without a bridging record, and none was written."
+  ],
+  "split": [
+    4,
+    1
+  ],
+  "repairs": [
+    {
+      "id": "combat_first_three",
+      "kind": "careful",
+      "careful": true,
+      "old": "| { *The Rubble* [**Debuff**] } | \"Where the wall stood, rubble — and every stone carries the grief of being separated from the whole.\" | [The Wall's rubble presses on the target; each fragment mourns its lost structure.] | *Target suffers -10 Composure; the ruins are grieving.* **[10 Lament DMG [Lament]]** | When the target enters the rubble. |\n| { *The Load-Bearing Grief* [**Debuff**] } | \"You feel the weight the wall was holding — now that it is gone, the weight is on you.\" | [The collapsed Wall transfers its load to the target.] | *Target loses 10 Composure; they bear what the wall once bore.* **[10 Lament DMG [Lament]]** | When the target lingers in the gap. |\n| { *The Falling Brick* [**Attack**] } | \"A brick detaches from the rubble — slow, heavy, inevitable.\" | [A section of collapsed wall falls on the target.] | *Inflicts Lament pressure and one crushing, dusty wound.* **[14-22 Lament DMG [Lament]]** | When the rubble is disturbed. |",
+      "new": "| { *The Rubble* [**Debuff**] } | \"Where the wall stood, rubble — and it is all inside the line it was keeping safe.\" | [There is nothing to enter and no rubble to stand in; personnel report being watched with nothing present, and the watching interval is the clock the crew is allowed.] | *-10 Composure in waves of cold grief; the two-to-nine-minute interval starts, and any assurance issued during it is logged verbatim.* **[10 Lament DMG [Lament]]** | When the sensation of being watched begins with no gauge movement yet. |\n| { *The Load-Bearing Grief* [**Debuff**] } | \"You feel the weight the wall was holding — the wall is gone, and the weight has not gone anywhere.\" | [Doors, rails and procedures in the sector are experienced as decorative; the boundary was the confidence that something was holding.] | *-10 Composure while the feeling that anything is holding is absent, and through the weeks after, in rooms that are demonstrably secure.* **[10 Lament DMG [Lament]]** | When the watcher stays past the point where the interval expires. |\n| { *The Falling Brick* [**Attack**] } | \"I said the corridor was secure. Three of my people were on the floor within a minute.\" | [Nothing falls. Somebody says the thing is in hand, and the collapse completes itself along the line of people who were told it.] | *Lament pressure lands on the speaker and the reassured in order; Drain rises by 5 for each further assurance issued while it is loose.* **[14-22 Lament DMG [Lament]]** | When an assurance of safety is given — true, routine, or kindly meant. |"
+    },
+    {
+      "id": "breach_motto_quote",
+      "kind": "short",
+      "careful": false,
+      "old": "> *\"Breach has broken free. Expands, crushing corridors shut.\"*\n\n| Field | Detail |\n|---|---|\n| **Breach Type** | Transform |\n| **Movement** | Nothing moves and no corridor closes. It extends from mind to mind along the line of people who have been told that everything is in hand. |",
+      "new": "> *\"Nothing is to be shut behind anyone during a response in this wing, for any reason.\"* (Apex Record, Expansion; an older situation-line claimed it 'expanded, crushing corridors shut', which the file has corrected — this entity has no corridor in it and nothing to crush one with.)\n\n| Field | Detail |\n|---|---|\n| **Breach Type** | Transform |\n| **Movement** | Nothing moves and no corridor closes. It extends from mind to mind along the line of people who have been told that everything is in hand. |"
+    },
+    {
+      "id": "breach_type_gloss",
+      "kind": "short",
+      "careful": false,
+      "old": "- **Breach type:** Transform — the entity's form shifts, altering reality around it.",
+      "new": "- **Breach type:** Transform — not of the entity's shape, since it has none, but of the sector's relation to its own boundaries: doors, rails, procedures and briefings stop being experienced as holding, and the transformation runs mind to mind along the assurance line."
+    },
+    {
+      "id": "apex_expansion_wording",
+      "kind": "short",
+      "careful": false,
+      "old": "During a breach it spreads and crushes corridors closed, and the response is route abandonment rather than defence:",
+      "new": "During a breach it spreads along the assurance line — the old report's 'crushes corridors closed' records how that felt from inside, not what happened to the building — and the response is route abandonment rather than defence:"
+    },
+    {
+      "id": "flavor_first_contact",
+      "kind": "short",
+      "careful": false,
+      "old": "**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Lament pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Mind resolve into something you can name. A wall-shaped presence inside consciousness, cracked and leaning. It appears as a collapsing boundary between one thought and the next.",
+      "new": "**At first contact:** Contact begins with attention, not sight: the sensation of being watched with nothing present, salt-damp and cold rain where no weather is, and a lean setting up between one thought and the next. Start the clock, not the search — the interval before any gauge movement is the withdrawal window, two to nine minutes, and nobody issues an assurance while it runs."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-N-IVδ-339_Breach_무너진_벽.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.037  clean   698 grams  M.A.W. Equipment\n 0.022  clean   226 grams  Trivia\n 0.022  clean    93 grams  최종 관찰 (Final Observation)\n 0.015  clean   135 grams  Operational Parameters\n 0.015  clean   687 grams  Combat Record\n 0.014  clean   217 grams  Breach Behavior\n 0.008  clean   630 grams  감각 묘사 (Flavor Text)\n 0.000  clean   700 grams  Apex Record\n 0.000  clean   457 grams  이야기 보고 (Story Log)\n 0.000  clean   356 grams  이야기 (Narratio)\n 0.000  clean   347 grams  기록 (Registrum)\n 0.000  clean   307 grams  관찰 기록 (Observation Log)\n 0.000  clean   248 grams  Appearance\n 0.000  clean   195 grams  Origin\n 0.000  clean   191 grams  Behavior\n 0.000  clean    50 grams  증언 (Testimonium)\n 0.000  clean    30 grams  SECC Classification\n 0.000  clean    27 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle, recovered from the fear the widened cracks release — a cycle \n   84   4  | { *The Full Slide* [**Attack**] } | \"The whole pile gives way — stone, and everything the wall was holding apart.\" | [The last o\n   85   6  | { *Every Wall Falls* [**Ultimate**] } | \"Wall after wall, barrier after barrier — and somewhere in the falling, a promise made t\n  166   3  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each assurance of safety given while it is loose — a corridor called \n  187   1  **Target Coverage:** A line of up to three — in this wing that means the chain of people who have been reassured one after another\n  191   1  **Ability:** Lament damage to the mind rather than the body. The pike carries the record's signature, which is a boundary kept pro\n  199   2  **Appearance:** a barrier-plate of Lament Han-crystal, cool and faintly luminous, that sits cold against the skin and gives no sig\n  217   2  **Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, riding at the tail of the belt and catching light \n  237   3  | **Before use** | Wielder, piece, the day's reading, and a dated baseline of what the wielder currently treats as settled — this \n  239   3  | **At limit** | The cost is continuous rather than occasional: the plate has taken enough of the wearer's memory of safety that t\n  240   2  | **After use** | Return the piece, reconcile the baseline, and record whether the toll has reversed — on this set it has reversed\n  244  13  **Full-set source review (2026-10-13):** Reviewed the grade overview, complete M.A.W. set, Use Notes, Field Use Record, Stat inter\n  291   2  > The choice at the end of a session is a sentence rather than a tactic: what the worker says to the people waiting outside, and w\n  321   3  The Gardens are mostly structures; this record is the belief that was held about one of them, and the three below are filed alongs\n  323   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  418   2  - **Classification detail:** Breach is a Subject with Entity (IV) coherence and Critical (δ) potency, and the potency is not a mea\n  421   3  - **Record detail:** Check the designation before approach. More than one Gardens record concerns a failed protection and they dif\nGENERIC 0.010  (54 shared shingles)  SE-N-IVδ-339_Breach_무너진_벽.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-339-A__SIDE_CODEX_Breach.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-339-B__MAW-W_The_Fallen_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-339-C__MAW-S_The_Fallen_Barrier.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-339-D__MAW-G_The_Fallen_Charm.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-339-A__SIDE_CODEX_Breach.md": "9761dd48afe0170554704b9e4dfa59be5aebcee6e4acac3e96e0ed17cda20cf7",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-339-B__MAW-W_The_Fallen_Requiem.md": "a0b683b7a6944c3e618448216381c791d91a5d72b598920c24a1ee5fc90390ed",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-339-C__MAW-S_The_Fallen_Barrier.md": "dbe78c671e387b94f52005c00e9174e738381c53764ec865adb4eaaffa80ef1c",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-339-D__MAW-G_The_Fallen_Charm.md": "cf11e62bfa01885ef31dff7fb1be6b4b5e9f3ef7dc4a7033dc72c5819ffbc393",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-N-IVδ-339_Breach_무너진_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-339_Breach_%EB%AC%B4%EB%84%88%EC%A7%84_%EB%B2%BD.md \"SE-N-IVδ-339_Breach_무너진_벽.md\")]",
+  "table_link": "[Breach](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-339_Breach_%EB%AC%B4%EB%84%88%EC%A7%84_%EB%B2%BD.md \"SE-N-IVδ-339_Breach_무너진_벽.md\")",
+  "reading": {
+    "before_lines": 428,
+    "before_bytes": 45153,
+    "final_lines": 428,
+    "final_bytes": 46269
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 96,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": ""
+  }
+}

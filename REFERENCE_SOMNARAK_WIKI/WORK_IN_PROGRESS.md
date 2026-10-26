@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 185 — OPEN, 3 / 5 (2026-10-26)
+## Batch 185 — OPEN, 4 / 5 (2026-10-26)
+
+**Unit 4 — Breach `N-IVδ-339`: HELD.** Five supported repairs (4 short / 1 careful; 7449→7563 words): combat's masonry rows become the watching interval, decorative barriers and the assurance itself; the 'crushing corridors shut' lines corrected in place; Transform glossed; sensory boilerplate becomes clock-not-the-search. The 2026-10-13 full-set review already counted set 339: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B185_04_BREACH.md).
 
 **Unit 3 — Mourner's Bloom `C-Iα-330`: HELD.** Six supported repairs (5 short / 1 careful; 7433→7541 words): combat's first four rows become the register, the date-shed catalogue, two-metre moment-taking and a count stopping at the first petal; corridor fail-safes, the generic material field, the meta activation paragraph and two Flavor blocks become the file's own figures. The 2026-10-12 full-set review already counted set 1032: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B185_03_MOURNERS_BLOOM.md).
 

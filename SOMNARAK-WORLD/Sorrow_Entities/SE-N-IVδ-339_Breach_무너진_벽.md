@@ -78,9 +78,9 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Rubble* [**Debuff**] } | "Where the wall stood, rubble — and every stone carries the grief of being separated from the whole." | [The Wall's rubble presses on the target; each fragment mourns its lost structure.] | *Target suffers -10 Composure; the ruins are grieving.* **[10 Lament DMG [Lament]]** | When the target enters the rubble. |
-| { *The Load-Bearing Grief* [**Debuff**] } | "You feel the weight the wall was holding — now that it is gone, the weight is on you." | [The collapsed Wall transfers its load to the target.] | *Target loses 10 Composure; they bear what the wall once bore.* **[10 Lament DMG [Lament]]** | When the target lingers in the gap. |
-| { *The Falling Brick* [**Attack**] } | "A brick detaches from the rubble — slow, heavy, inevitable." | [A section of collapsed wall falls on the target.] | *Inflicts Lament pressure and one crushing, dusty wound.* **[14-22 Lament DMG [Lament]]** | When the rubble is disturbed. |
+| { *The Rubble* [**Debuff**] } | "Where the wall stood, rubble — and it is all inside the line it was keeping safe." | [There is nothing to enter and no rubble to stand in; personnel report being watched with nothing present, and the watching interval is the clock the crew is allowed.] | *-10 Composure in waves of cold grief; the two-to-nine-minute interval starts, and any assurance issued during it is logged verbatim.* **[10 Lament DMG [Lament]]** | When the sensation of being watched begins with no gauge movement yet. |
+| { *The Load-Bearing Grief* [**Debuff**] } | "You feel the weight the wall was holding — the wall is gone, and the weight has not gone anywhere." | [Doors, rails and procedures in the sector are experienced as decorative; the boundary was the confidence that something was holding.] | *-10 Composure while the feeling that anything is holding is absent, and through the weeks after, in rooms that are demonstrably secure.* **[10 Lament DMG [Lament]]** | When the watcher stays past the point where the interval expires. |
+| { *The Falling Brick* [**Attack**] } | "I said the corridor was secure. Three of my people were on the floor within a minute." | [Nothing falls. Somebody says the thing is in hand, and the collapse completes itself along the line of people who were told it.] | *Lament pressure lands on the speaker and the reassured in order; Drain rises by 5 for each further assurance issued while it is loose.* **[14-22 Lament DMG [Lament]]** | When an assurance of safety is given — true, routine, or kindly meant. |
 | { *The Full Slide* [**Attack**] } | "The whole pile gives way — stone, and everything the wall was holding apart." | [The last of the boundary goes at once; the worker is buried in what it had been keeping separate.] | *A heavy Deep Blue burial; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the rubble is undermined or the worker braces against the fall. |
 | { *Every Wall Falls* [**Ultimate**] } | "Wall after wall, barrier after barrier — and somewhere in the falling, a promise made to a district." | [The ruin travels along every boundary the workers are still relying on, procedures included.] | *All in range suffer Lament pressure for three turns; nothing in the field is experienced as holding.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% with assurances still being issued. |
 
@@ -148,7 +148,7 @@ The four responses in the table are the whole mechanism, and they do not work th
 **Reading the response:** A falling reading means a risk was stated plainly with its real likelihood and nobody was comforted about it. Stability under Viderehan is correct. The reading rises on assurance, and rises whether the assurance was true, routine, or kindly meant — the maintenance record of the original wall was accurate as well.
 ## Breach Behavior
 
-> *"Breach has broken free. Expands, crushing corridors shut."*
+> *"Nothing is to be shut behind anyone during a response in this wing, for any reason."* (Apex Record, Expansion; an older situation-line claimed it 'expanded, crushing corridors shut', which the file has corrected — this entity has no corridor in it and nothing to crush one with.)
 
 | Field | Detail |
 |---|---|
@@ -161,7 +161,7 @@ The four responses in the table are the whole mechanism, and they do not work th
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
+- **Breach type:** Transform — not of the entity's shape, since it has none, but of the sector's relation to its own boundaries: doors, rails, procedures and briefings stop being experienced as holding, and the transformation runs mind to mind along the assurance line.
 - **Containment priority:** Do not reassure anybody. Pugnahan collapses it inward by the approach table's own figures, and the two longest incidents on file both began with a supervisor telling an affected team that the sector was secure. Brief the actual risk, state what is not known, and withdraw within the watching interval.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each assurance of safety given while it is loose — a corridor called secure, a worker told they will be fine, a notice stating that a thing cannot happen. It falls 10% for each briefing that states a risk with its actual likelihood, and both closures on file were reached in a muster room rather than at the site.
 
@@ -301,7 +301,7 @@ A wall stands inside your mind. It has already fallen, but the dust has not sett
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Lament pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Mind resolve into something you can name. A wall-shaped presence inside consciousness, cracked and leaning. It appears as a collapsing boundary between one thought and the next.
+**At first contact:** Contact begins with attention, not sight: the sensation of being watched with nothing present, salt-damp and cold rain where no weather is, and a lean setting up between one thought and the next. Start the clock, not the search — the interval before any gauge movement is the withdrawal window, two to nine minutes, and nobody issues an assurance while it runs.
 
 **With continued exposure:** What sharpens is not the entity but the habit it works on: the worker begins to notice how often they soften a risk for somebody else's benefit, and each instance is followed by a small movement in the reading that they can no longer pretend not to have caused.
 
@@ -400,7 +400,7 @@ The entity observes and has no visible means of doing so, and personnel describe
 
 ### Expansion
 
-During a breach it spreads and crushes corridors closed, and the response is route abandonment rather than defence: the affected section is given up, the doors beyond it are left open rather than sealed, and personnel withdraw along pre-planned lines that do not depend on any single passage remaining available. Sealing has been tried. The report on it is brief and concludes that a closed door in front of this entity becomes the wall it is made of, and the protocol's instruction since has been that nothing is to be shut behind anyone during a response in this wing for any reason.
+During a breach it spreads along the assurance line — the old report's 'crushes corridors closed' records how that felt from inside, not what happened to the building — and the response is route abandonment rather than defence: the affected section is given up, the doors beyond it are left open rather than sealed, and personnel withdraw along pre-planned lines that do not depend on any single passage remaining available. Sealing has been tried. The report on it is brief and concludes that a closed door in front of this entity becomes the wall it is made of, and the protocol's instruction since has been that nothing is to be shut behind anyone during a response in this wing for any reason.
 
 ### The Register of Exposure
 
