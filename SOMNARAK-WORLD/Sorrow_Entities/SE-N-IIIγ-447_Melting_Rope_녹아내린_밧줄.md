@@ -70,7 +70,7 @@
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan, Viderehan and Ferrehan, worked from the sleeping side. Pugnahan remains in the response table because it was tried; it is barred, and the two Wardens brought out of a tangled dream by physical means have not worked the holding since. |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | Release the rope consciously and wake with a present anchor |
 
@@ -78,9 +78,9 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Soft Fiber* [**Debuff**] } | "The rope in your hands is going soft — the fibers losing their grip — and with them, everything the rope was holding." | [The Rope's dissolution weakens the target's connections; things are slipping.] | *Target suffers -10 Composure; their bonds are failing.* **[10 Lament DMG [Lament]]** | When the target holds the Rope. |
-| { *The Sagging Line* [**Debuff**] } | "The rope sags — melting, stretching — and the weight it bears transfers to you." | [The Rope's failing transfers the burden to the target.] | *Target loses 10 Composure; they are bearing what the rope cannot.* **[10 Lament DMG [Lament]]** | When the target relies on the Rope. |
-| { *The Snap* [**Attack**] } | "The rope gives way — and the release of tension is a whip-crack of pure grief." | [The Rope's structural failure lashes out.] | *Inflicts Lament pressure and one wound of severed connection.* **[14-22 Lament DMG [Lament]]** | When the Rope is overloaded. |
+| { *The Soft Fiber* [**Debuff**] } | "Nineteen minutes with the thing still in my hand and the clock going." | [No hand is on the line in the waking room — handling is prohibited by the oldest order on the file. In the dream the fibre goes soft and the load passes to whatever is holding it.] | *Target suffers -10 Composure; the pull does not slacken as the end dissolves, which is the finding, not a failure of grip.* **[10 Lament DMG [Lament]]** | When the sleeper runs past the recommended cycle. |
+| { *The Sagging Line* [**Debuff**] } | "It took me east toward a man I have not thought about since I was twenty-six." | [The dreamer is walked; the first sensation reported is peace, and recognition of being led comes later, sometimes not at all.] | *Target loses 10 Composure; the burden transfers before the road is noticed.* **[10 Lament DMG [Lament]]** | When the dreamer relies on the rope rather than releasing it. |
+| { *The Snap* [**Attack**] } | "I have four live and I will not say how many lodged." | [The knot of the dream when Pugnahan was attempted: the melt ran fast, the line tangled, and two Wardens were brought out by physical means.] | *Inflicts Lament pressure as the tangled account; nobody is lashed and nothing is struck, because there is no body to strike.* **[14-22 Lament DMG [Lament]]** | When the sleeping side is confronted, which is barred for this reason. |
 | { *The Full Dissolve* [**Attack**] } | "The rope gives up its last solid span all at once, and what runs over your hands is every bond the line was ever asked to carry." | [The full length liquefies where it is held.] | *A heavy Lament flood of released bonds; the target's Sorrow Gauge climbs 15%.* **[24-36 Lament DMG [Lament]]** | When the rope is cut. |
 | { *Every Rope Melts* [**Ultimate**] } | "Every line in the field goes slack at the same moment — not cut, melting — and without a line to follow, nobody is facing anybody's way." | [The melt takes the whole area at once.] | *All in range take Lament pressure for three turns of dissolving attachments.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -230,7 +230,7 @@ The three pieces together are the holding. Everything the set confers is written
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, gauge, and one pre-check sealed by the second worker: the toll this file records for the source — weeping the wearer cannot account for — entered as the baseline to read against. |
-| **During use** | The charge shows as the toll arriving early: the wearer's eyes fill for no reason they can give, and the interval is logged by the second worker with the hour. The wielder's own account is taken separately and afterwards. |
+| **During use** | The charge shows as the toll arriving early, priced by piece and logged with the hour by the second worker: the wearer's eyes fill for no reason they can give; a wearer flat to small pleasures they would ordinarily name; or a bearer who wakes knowing, for a few seconds, exactly which of their attachments are returned — and says so before they have decided whether to. The wielder's own account is taken separately and afterwards. |
 | **At limit** | The toll stops being intermittent: the wearer is numb to minor joys, and on this piece that flatness is the limit rather than a settling-in. The second worker's call stands against the wielder's. |
 | **After use** | Piece returned, baseline opened, and the numbness read against it: has the flatness lifted, or has the wearer stopped being able to say? Where it has not lifted, the piece is not reissued to that wearer. |
 
@@ -296,13 +296,13 @@ A rope crosses the dream between two travelers. One end melts in your hand, warm
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Lament pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A dreamlike rope-shaped figure that melts at one end while reforming at the other. It appears in the dreams of travelers.
+**At first contact:** Peace. It is the first sensation in nearly every account, and the one the doctrine exists for: a line in the hand, salt-damp and cold, a steady pull toward somebody the dreamer had stopped thinking about, and the recognition that they are being walked arriving late — or, in four filed accounts, not at all.
 
-**With continued exposure:** Stay long enough and the containment zone stops reading as a cell and starts reading as a room somebody lived in — or died in, or was born in. The Lament here has a history, and the exposure is what makes that history legible.
+**With continued exposure:** The road gets older as the dreamer remembers more of it. The tracks the line carries alter with the recovery of the sleeper's own, which is why no two accounts are ever set side by side and why the survey summary was withdrawn the one time a clerk tried.
 
-**When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Lament pressure spikes — not gradually but like a door slamming open. The Subject-Dream shifts from presence to action.
+**When the entity activates:** Nothing slams. Weeping becomes audible across the zone and does not stop, and inside the dreams the far end takes up the slack a little faster. Waking the sleepers has halted it on every occasion tried, which is why that comes before everything else in the doctrine.
 
-**After departure:** The door seals and the pressure drops, but the residue does not leave with you: it sits in the suit fibres, in the memory, and in the place where a person's thoughts begin to come apart. The symptom the watch logs first is the hand still closed around a line that is not there.
+**After departure:** The symptom the watch logs first is the hand still closed around a line that is not there, timed by the attendant's clock against the Warden's own count: 9, then 14, then 19 minutes across the annual returns, against a rope that has not changed its length in sixty years.
 
 ### Interaction Pattern
 

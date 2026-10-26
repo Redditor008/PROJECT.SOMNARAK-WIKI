@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 184 — OPEN, 3 / 5 (2026-10-26)
+## Batch 184 — OPEN, 4 / 5 (2026-10-26)
+
+**Unit 4 — Melting Rope `N-IIIγ-447`: HELD.** Seven supported repairs (5 short / 2 careful; 7375→7553 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_04_MELTING_ROPE.md). Batch 109 already counted set 447: +0/+0/+0. Completed 4/5; No change 0; held 180 / pending 101. Five reviews in this prompt done (B183 U5 + closure, B184 U1–U4); next prompt: Pall `C-IIβ-280` + Batch 184 closure.
 
 **Unit 3 — The Convergence `C-Vδ-010`: HELD.** Seven supported repairs (6 short / 1 careful; 7366→7563 words): projections now labelled beside thirty-six verified seconds; rampage and physical-suppression lines removed. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_03_THE_CONVERGENCE.md). Batch 113 already counted set 010 inside the legacy baseline: +0/+0/+0. Completed 3/5; No change 0; held 179 / pending 102. Next is Melting Rope `N-IIIγ-447`.
 

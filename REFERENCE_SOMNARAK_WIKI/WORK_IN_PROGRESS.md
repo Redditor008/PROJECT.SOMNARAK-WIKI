@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 184 — OPEN, 3 / 5 (2026-10-26)
+## Batch 184 — OPEN, 4 / 5 (2026-10-26)
+
+**Unit 4 — Melting Rope `N-IIIγ-447`: HELD.** Seven supported repairs (5 short / 2 careful; 7375→7553 words) return combat triggers and the flavor section to the dream-account regime and price all three field-use signs. Batch 109 already counted set 447: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B184_04_MELTING_ROPE.md). **Five reviews of this prompt complete** (B183 U5 + closure, B184 U1–U4); Unit 5 Pall `C-IIβ-280` remains for the next prompt, which will also close Batch 184.
 
 **Unit 3 — The Convergence `C-Vδ-010`: HELD.** Seven supported repairs (6 short / 1 careful; 7366→7563 words) bring the conventional apparatus under the station's own rule — projections labelled as projections — removing the all-four valid-work row, the centre-of-grief combat rows, the limb-rampaging breach movement, the physical-suppression escalation line, the stock origin and appearance-protocol paragraphs and the unsentenced 'sentenced personnel Fracture' claim. Batch 113 already counted set 010 (full-SE + new SE-010-B pair): +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B184_03_THE_CONVERGENCE.md).
 

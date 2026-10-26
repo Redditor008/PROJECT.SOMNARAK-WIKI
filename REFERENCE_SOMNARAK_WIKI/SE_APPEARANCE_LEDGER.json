@@ -64,6 +64,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IIIγ-447": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_04_MELTING_ROPE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -3549,8 +3561,29 @@
     {
       "designation": "N-IIIγ-447",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-447_Melting_Rope_녹아내린_밧줄.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Seven supported repairs return the template residue to the dream-account instruments this file actually runs on: the Valid Work Types row no longer offers the barred Pugnahan; combat's first three rows stop building triggers around holding, relying on and overloading a line that no waking hand may touch — they now run on running past the cycle, relying instead of releasing, and the tangled dream that is the reason confrontation is barred; the four stock flavor paragraphs (3 a.m. silence, the cell that becomes a room, the door-slamming activation, the suit-fibre residue) become the dreamer's peace, the withdrawn summary, the audible weeping that waking sleepers stops, and the 9-14-19 persistence series; and field-use signs are priced by all three pieces, including the knot-bearer's unwanted morning knowledge. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_04_MELTING_ROPE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-447-A__SIDE_CODEX_Rope_Held_Too_Long.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-447-B__MAW-W_The_Melting_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-447-C__MAW-S_The_Melting_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-447-D__MAW-G_The_Melting_Knot.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIIγ-505",
