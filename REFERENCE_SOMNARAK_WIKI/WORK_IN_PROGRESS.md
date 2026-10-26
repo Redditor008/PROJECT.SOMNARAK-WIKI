@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 183 — OPEN, 1 / 5 (2026-10-26)
+## Batch 183 — OPEN, 2 / 5 (2026-10-26)
+
+**Unit 2 — Echo of Kindness `C-Iα-240`: HELD.** Ten supported repairs (7 short / 3 careful; 7313→7373 words) return combat and consequences from blade/wound/Fracture grammar to comfort received, the declining count and one's own voice returned, split field-use signs across weeping, numbness and refused kindness, re-anchor generic flavor/review/trivia seams in the 61/44/29 series, and restore the missing Observation Log heading (pre-existing wikistd parity failure). Spoken-word vs wordless-feeling return, three-way weapon identity and codices' first-bearer hazard histories remain held. Batch 102 already counted the identity-resolved SE-1022 set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B183_02_ECHO_OF_KINDNESS.md).
 
 **Unit 1 — Bridge to Nowhere `C-IVδ-260`: HELD.** Six supported repairs (3 short / 3 careful; 7308→7427 words) complete the truncated Resistance cell, return combat from sky-ascent and falling planks to borrowed journeys and added span, fix the Place-Lament slip, split field-use signs per piece, replace generic flavor rows with length and singing, and correct "percentage" to length as the mechanism. Dissolution entitlement, codices' apex-lift events and Rising Bridge naming remain held. Batch 115 already counted the SE-260 set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B183_01_BRIDGE_TO_NOWHERE.md).
 

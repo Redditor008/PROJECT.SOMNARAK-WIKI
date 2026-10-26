@@ -40,6 +40,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Iα-240": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_02_ECHO_OF_KINDNESS.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2563,8 +2575,29 @@
     {
       "designation": "C-Iα-240",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-240_Echo_of_Kindness_친절의_메아리.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Ten supported repairs return the pasted-on pressure grammar to the count book: combat loses its blade of intention, bittersweet wound and full-force blow against a record with no injury in it — pressure now lands as comfort received, a declining series, and a worker hearing their own voice returned, with every name and number kept — the stock consequences (drift, Fracture, destructive count) become late reporting, per-piece tolls and a quieter square, the template Resolution splice and Detailed movement row are replaced by the file's own condition and bearing record, field-use signs split across weeping, numbness and refused kindness, two generic flavor rows and the breach-based review/trivia clauses are re-anchored in the 61/44/29 series, and the missing Observation Log heading is restored (a pre-existing wikistd parity failure, identical on the untouched file). Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_02_ECHO_OF_KINDNESS.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1022_Solace/SE-1022-A__SIDE_CODEX_Solace.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1022_Solace/SE-1022-B__MAW-W_The_Kindness_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1022_Solace/SE-1022-C__MAW-S_The_Kindness_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1022_Solace/SE-1022-D__MAW-G_The_Kindness_Stone.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Iα-247",

@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 183 — OPEN, 1 / 5 (2026-10-26)
+## Batch 183 — OPEN, 2 / 5 (2026-10-26)
+
+**Unit 2 — Echo of Kindness `C-Iα-240`: HELD.** Ten supported repairs (7 short / 3 careful; 7313→7373 words) return combat, consequences and field-use signs to the count book's 61/44/29 series and restore the missing Observation Log heading. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_02_ECHO_OF_KINDNESS.md). Batch 102 already counted the SE-1022 set inside the legacy baseline: +0/+0/+0. Completed 2/5; No change 0/2; held 173 / pending 108. Next is Stranded Between Two Shores `C-IVδ-823`.
 
 **Unit 1 — Bridge to Nowhere `C-IVδ-260`: HELD.** Six supported repairs (3 short / 3 careful; 7308→7427 words) return combat, field use and the addendum to the length-before-and-after record. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_01_BRIDGE_TO_NOWHERE.md). Batch 115 already counted the SE-260 set inside the legacy baseline: +0/+0/+0. Completed 1/5; No change 0/2; held 172 / pending 109. Next is Echo of Kindness `C-Iα-240`.
 
