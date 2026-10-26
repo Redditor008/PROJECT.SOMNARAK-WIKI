@@ -80,8 +80,8 @@
 |---|---|---|---|---|
 | { *The Light Fingers* [**Debuff**] } | "Something brushes your temple — and a memory you were just thinking about is suddenly gone." | [The Thief lifts a memory from the target; the gap is immediate.] | *Target suffers a Void mark; a piece of their past is missing.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Thief approaches. |
 | { *The Growing Gaps* [**Debuff**] } | "More memories vanish — faces, names, places — and the gaps connect, forming voids in your mind." | [The small thefts stop being separate and begin to join up, and the target's past comes apart in patches with nothing behind them.] | *Target loses clarity; their own history stops being something they can vouch for.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target fails to guard. |
-| { *The Stolen Strike* [**Attack**] } | "The thief throws one of your own memories at you — weaponized, sharpened, returned as a blade." | [A memory the target still thought was theirs comes back across the room at them, sharp edge first.] | *Inflicts Void damage; the recollection is clear, close and not theirs, and it eats at who they are.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Thief is caught. |
-| { *The Full Heist* [**Attack**] } | "Every memory the thief ever stole — returned at once, in a flood of other people's pasts." | [Everything the Thief has ever taken comes out of its hiding place at once and lands on whoever is nearest.] | *A heavy Void flood of other people's pasts; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Thief is cornered. |
+| { *The Stolen Strike* [**Attack**] } | "It does not read the schedule. It takes the cheap kind — a face at three Echoes, a name at two, a route at one." | [Nothing is thrown and nothing comes back; a particular the worker was just using is gone, and the gap shows only when the sealed page is read aloud at the infirmary.] | *Void damage lands as unvouchable history: the worker learns a personal loss from a clerk, which describes 287 of the 318 cases on file.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a worker tries to grab it, trade on another person's behalf, or use words it has priced. |
+| { *The Full Heist* [**Attack**] } | "It keeps what it takes. Nineteen came back, and every one was traded for." | [Cornered and attended, the only force the Thief uses is the offer: something it has taken, held out to the person who lost it, at equal weight.] | *A heavy Void surge of 15% while an exchange is considered — in all nineteen recorded successes the memory given was priced higher than the one recovered.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the person who lost the memory stands on the Row and makes the offer themselves. |
 | { *The Empty Mind* [**Ultimate**] } | "Now everyone's memories are being stolen — and without pasts, no one knows who they are." | [The theft stops being aimed and becomes general, and the whole field starts losing names at the same rate.] | *All in range suffer Void erosion for three turns while their memories go on being taken.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
@@ -92,10 +92,10 @@
 
 ### Consequences
 
-- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Composure** shatters into a psychological Fracture—a catastrophic dual failure.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting as a transformation in place, expansion inside its own boundary, and rapid escalation.
+- Nothing shatters here. A worker's composure can be undamaged at the desk while their page comes back from the infirmary with a name missing they never knew to mourn — which describes 287 of the 318 confirmed losses. The hurt is the discovery, and it arrives by clerk.
+- Sustained posting produces the Row's characteristic asymmetry: long-posted Wardens become carefully protective of other people's small particulars and conspicuously careless with their own, which the wing reads as exposure and which a flat gauge does nothing to contradict.
+- The kit's toll is paid in the same currency as the holding's: small nameless recollections, gone unfelt, charged whether the use was right or wrong. The Veil partner and the Cloak return note are the guardrails; neither restores the feeling attached to what was lost.
+- An unresolved watch does not escalate catastrophically; it bureaucratises. The count never squares, crews begin informing each other about what happened an hour ago instead of remembering it, and the holding goes quiet somewhere it was not filed.
 
 ## Appearance
 **Primary Form:** A small shadowy figure, always in motion, with a blur where a face should be. **Sighting:** it resolves at the edge of vision and dissolves under a direct look, which is a property of the entity and not of the observer.
@@ -153,7 +153,7 @@
 
 Read the Work Types for this file against the activation threshold and the kit cost before anybody is assigned to the Row. The holding is a Subject with Subject-Phantasmal manifestation and Void expression, contained at SECTOR-C-01 on Collector's Row, and nothing learned about another quick-handed holding carries across to it. The caution here is particular: a flat gauge is not a quiet watch, because a worker can leave the Row with the gauge exactly where they found it and a name missing they will not notice for a week.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
+**Reading the response:** The gauge describes the session; the page describes the worker, and the two do not move together. Flerehan earns an offer, Ferrehan loses its interest at a known price, Viderehan produces plots that lead nowhere, and Pugnahan empties the room — each read at the infirmary afterwards, against sealed writing, never against what the watch remembers feeling. A climax in the gauge with pages unchanged is a loud empty watch; a flat gauge with a particular missing is the ordinary disaster of this holding.
 ## Containment Event Behavior
 
 > *"Transformation event in progress. The Memory Thief is changing the space around itself and staying in it."*
@@ -315,11 +315,11 @@ You feel a gap before you see the figure. A name vanishes from the edge of thoug
 
 **At first contact:** Cold without a draught, ash on the air, and something small moving at the edge of your sight that is not there when you turn your head. It does not approach you and it does not avoid you. It passes, and it is the passing that costs.
 
-**With continued exposure:** The Subject-Phantasmal settles into a presence you learn to hold — not comfortably, but recognisably. The Void pressure stops being an assault and becomes a climate: something you move within rather than against.
+**With continued exposure:** Long-posted Wardens notice a tilt in themselves: fierce protectiveness over colleagues' routes, names and birthdays, and an inexplicable slackness about their own. The wing logs the pattern rather than the mood, because on the Row the damage is filings, not feelings.
 
-**When the entity activates:** Activation feels like the room remembering something it had been forced to forget. The Void surges, the Subject-Phantasmal sharpens, and for a moment the containment zone is not a cell but the original wound, reopened.
+**When the entity activates:** There is no surge and nothing sharpens. Somewhere along the corridor badges lose names and the route to a familiar room goes uncertain, in a straight line, and then stops. What tells the wing an event occurred is the shift log afterwards: professionals who no longer agree about their own last hour.
 
-**After departure:** What remains after the door closes is not fear but weight — a Void aftertaste that fades slowly, personnel monitored for Fracture risk in the hours that follow.
+**After departure:** The worker gives a colleague the way to quarters from memory, at the door, and is not argued with. Departing the posting, they may read their own sealed page before it burns; the request has been granted every time it was made, which is the only part of the procedure nobody ever debated.
 
 ### Interaction Pattern
 

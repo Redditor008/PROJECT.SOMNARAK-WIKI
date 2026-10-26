@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 186 — OPEN, 2 / 5 (2026-10-26)
+## Batch 186 — OPEN, 3 / 5 (2026-10-26)
+
+**Unit 3 — The Memory Thief `N-IIIβ-077`: HELD.** Five supported repairs (3 short / 2 careful; 7472→7647 words): rows 3–4 become discovery-by-clerk and the equal-weight exchange; the catastrophic Consequences template and generic summary paragraph become the file's own standards; two Flavor blocks become corridor badges and the page-burning courtesy. Batches 89/129 already counted set 077: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B186_03_THE_MEMORY_THIEF.md).
 
 **Unit 2 — Folly `C-Iα-329`: HELD.** Three supported repairs (2 short / 1 careful; 7469→7684 words): combat's first four rows become the false dated memory, silent drafting, the cord moving once and rooms opening on completion attempts; the 'severe Void trauma' termination line becomes the publish-first bracket rule; template tick damage removed. Batch 127 already counted set 329: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B186_02_FOLLY.md).
 

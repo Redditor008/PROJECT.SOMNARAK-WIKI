@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 186 — OPEN, 2 / 5 (2026-10-26)
+## Batch 186 — OPEN, 3 / 5 (2026-10-26)
+
+**Unit 3 — The Memory Thief `N-IIIβ-077`: HELD.** Five supported repairs (3 short / 2 careful; 7472→7647 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_03_THE_MEMORY_THIEF.md). Batches 89/129 already counted set 077: +0/+0/+0. Completed 3/5; No change 0; held 189 / pending 92.
 
 **Unit 2 — Folly `C-Iα-329`: HELD.** Three supported repairs (2 short / 1 careful; 7469→7684 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_02_FOLLY.md). Batch 127 already counted set 329: +0/+0/+0. Completed 2/5; No change 0; held 188 / pending 93.
 

@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IIIβ-077": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_03_THE_MEMORY_THIEF.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -3319,8 +3331,29 @@
     {
       "designation": "N-IIIβ-077",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Five supported repairs (3 short / 2 careful) give this ledger-shaped holding a combat and consequence text as dry as its own returns. Rows 3–4 stop the thief hurling memories as blades and vomiting its hoard back at cornering — it keeps what it takes and returns nineteen only by exchange, priced above what came back in every case. The four-bullet Consequences template ('catastrophic dual failure… somatic distortion… environmental taint') and the generic 'Reading the response' paragraph give way to the 287-by-clerk discovery, the protective-of-others asymmetry, the count that never squares, and the flat-gauge-with-a-missing-particular standard; two stock Flavor blocks become corridor badges losing names and the page-burning courtesy. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_03_THE_MEMORY_THIEF.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-A__SIDE_CODEX_The_Memory_Thief.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-B__MAW-W_The_Shadow_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-C__MAW-S_The_Shadow_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-D__MAW-G_The_Shadow_Cloak.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIIβ-1056",

@@ -1,0 +1,140 @@
+{
+  "designation": "N-IIIβ-077",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md",
+  "words": 7472,
+  "sha256": "345ef068d5e95202f98798f1948482900077b0365a6a20f0065676ee00364ba1",
+  "unit": 3,
+  "name": "The Memory Thief",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_03_THE_MEMORY_THIEF.md",
+  "before_words": 7472,
+  "after_words": 7647,
+  "base": "1100748f37f35b105d338b4f7c1a69fb398b987f",
+  "final_sha256": "cb14ee3f1174d8e8ba4ab0c3576d87bab83a1cd804108779c5c52d1d16c3d0e9",
+  "summary": "Five supported repairs (3 short / 2 careful) give this ledger-shaped holding a combat and consequence text as dry as its own returns. Rows 3–4 stop the thief hurling memories as blades and vomiting its hoard back at cornering — it keeps what it takes and returns nineteen only by exchange, priced above what came back in every case. The four-bullet Consequences template ('catastrophic dual failure… somatic distortion… environmental taint') and the generic 'Reading the response' paragraph give way to the 287-by-clerk discovery, the protective-of-others asymmetry, the count that never squares, and the flat-gauge-with-a-missing-particular standard; two stock Flavor blocks become corridor badges losing names and the page-burning courtesy. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+  "commentary": "The refund is what makes the file: a market that prices a face at three Echoes, a facility that refused to become the second exchange, and a thief that does not read the schedule and trades at the only fair rate anyone in the arrangement uses. Specialist Grey lost on the trade by market and paid exactly right by weight — the holding knows which of those it respects.",
+  "reasoning": "R-33 chain: Subject / Fragment-III / Moderate-β / Inner Sorrow → a market that made memory property and priced the ordinary kind at almost nothing → a small faceless thief taking exactly the bottom four lines of the schedule as it passes, keeping them in a stash searching is prohibited to look for → work is two-observer peripheral fixes and sealed baseline pages: Flerehan earns an offer, Ferrehan bores it at a price, confrontation empties the room → failure is discovery-time: a loss announced by a clerk reading a stranger's writing to its author, with recovery only by equal-weight trade → equipment privatises the same economy (one label unpinned, one named thread, one margin) at unfelt costs. Rows may no longer weaponize memory, and consequences may no longer Fracture what the file records as unpriced by design; pepperbox/lens identity stays HELD.",
+  "history": "Batch 129 unit 1 (269147d8) performed the full-SE review — completing the truncated Entity Type, adding Side-supported one-label shot limits, the Veil's Named Thread and overload rule, the Cloak's one-passage limits, separate return-note versus infirmary-baseline custody, and piece-specific care, with stats and the unnamed +1 unchanged. Batch 89 had already taken Memory Thief as an exact source-led Weapon candidate before that. Both credits therefore sit in the baseline: Batch 186 earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+  "holds": [
+    "Weapon identity stays forked: primary / Registry The Umbral Pepperbox (six-barrelled gunmetal revolver with shadow-powder, 5–9 / Normal / Short) against SE-077-B's own filename and heading The Shadow Lens, with the Registry still returning only variable placeholders for MAW-W-077-01. The primary's pepperbox mechanics — one label's attachment disrupted, nothing deleted permanently, nothing restored — are primary-held rules from Batch 129, not item-verified ones; the cross-heading ambiguity with Folly's and Anonym's Melting Lens lines is not conflated.",
+    "The Tale/testimony stratum says the Thief takes briefly and returns, proving the fear; the operational record says it keeps, the stash has never been found, and nineteen of 318 losses ever came back, all by trade. This is a doctrinal fork about whether the holding demonstrates or accumulates, and the wing's entire procedure runs on the second reading; the Tale is preserved as the older stratum rather than reconciled to it.",
+    "Suit and Stigma choreography in the primary is extremely specific (Named Thread with partner-call halting resistance at 1.0, handwriting recognition as a Veil-removal trigger, Leave a Margin's named return person and one-passage limit, a second Cloak going inert) and arrived with Batch 129 as Side-supported detail; the uniform 'β · β' grading and the unnamed Stigma '+1 stat bonus' likewise stand as recorded. Whether any of it was witnessed rather than drafted is not something the cited record establishes, and nothing was normalised."
+  ],
+  "split": [
+    3,
+    2
+  ],
+  "repairs": [
+    {
+      "id": "combat_rows_3_4",
+      "kind": "careful",
+      "careful": true,
+      "old": "| { *The Stolen Strike* [**Attack**] } | \"The thief throws one of your own memories at you — weaponized, sharpened, returned as a blade.\" | [A memory the target still thought was theirs comes back across the room at them, sharp edge first.] | *Inflicts Void damage; the recollection is clear, close and not theirs, and it eats at who they are.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Thief is caught. |\n| { *The Full Heist* [**Attack**] } | \"Every memory the thief ever stole — returned at once, in a flood of other people's pasts.\" | [Everything the Thief has ever taken comes out of its hiding place at once and lands on whoever is nearest.] | *A heavy Void flood of other people's pasts; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Thief is cornered. |",
+      "new": "| { *The Stolen Strike* [**Attack**] } | \"It does not read the schedule. It takes the cheap kind — a face at three Echoes, a name at two, a route at one.\" | [Nothing is thrown and nothing comes back; a particular the worker was just using is gone, and the gap shows only when the sealed page is read aloud at the infirmary.] | *Void damage lands as unvouchable history: the worker learns a personal loss from a clerk, which describes 287 of the 318 cases on file.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a worker tries to grab it, trade on another person's behalf, or use words it has priced. |\n| { *The Full Heist* [**Attack**] } | \"It keeps what it takes. Nineteen came back, and every one was traded for.\" | [Cornered and attended, the only force the Thief uses is the offer: something it has taken, held out to the person who lost it, at equal weight.] | *A heavy Void surge of 15% while an exchange is considered — in all nineteen recorded successes the memory given was priced higher than the one recovered.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the person who lost the memory stands on the Row and makes the offer themselves. |"
+    },
+    {
+      "id": "consequences_template_block",
+      "kind": "careful",
+      "careful": true,
+      "old": "- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Composure** shatters into a psychological Fracture—a catastrophic dual failure.\n- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.\n- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.\n- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting as a transformation in place, expansion inside its own boundary, and rapid escalation.",
+      "new": "- Nothing shatters here. A worker's composure can be undamaged at the desk while their page comes back from the infirmary with a name missing they never knew to mourn — which describes 287 of the 318 confirmed losses. The hurt is the discovery, and it arrives by clerk.\n- Sustained posting produces the Row's characteristic asymmetry: long-posted Wardens become carefully protective of other people's small particulars and conspicuously careless with their own, which the wing reads as exposure and which a flat gauge does nothing to contradict.\n- The kit's toll is paid in the same currency as the holding's: small nameless recollections, gone unfelt, charged whether the use was right or wrong. The Veil partner and the Cloak return note are the guardrails; neither restores the feeling attached to what was lost.\n- An unresolved watch does not escalate catastrophically; it bureaucratises. The count never squares, crews begin informing each other about what happened an hour ago instead of remembering it, and the holding goes quiet somewhere it was not filed."
+    },
+    {
+      "id": "reading_response_template",
+      "kind": "short",
+      "careful": false,
+      "old": "**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.",
+      "new": "**Reading the response:** The gauge describes the session; the page describes the worker, and the two do not move together. Flerehan earns an offer, Ferrehan loses its interest at a known price, Viderehan produces plots that lead nowhere, and Pugnahan empties the room — each read at the infirmary afterwards, against sealed writing, never against what the watch remembers feeling. A climax in the gauge with pages unchanged is a loud empty watch; a flat gauge with a particular missing is the ordinary disaster of this holding."
+    },
+    {
+      "id": "flavor_continued",
+      "kind": "short",
+      "careful": false,
+      "old": "**With continued exposure:** The Subject-Phantasmal settles into a presence you learn to hold — not comfortably, but recognisably. The Void pressure stops being an assault and becomes a climate: something you move within rather than against.",
+      "new": "**With continued exposure:** Long-posted Wardens notice a tilt in themselves: fierce protectiveness over colleagues' routes, names and birthdays, and an inexplicable slackness about their own. The wing logs the pattern rather than the mood, because on the Row the damage is filings, not feelings."
+    },
+    {
+      "id": "flavor_activate_after",
+      "kind": "short",
+      "careful": false,
+      "old": "**When the entity activates:** Activation feels like the room remembering something it had been forced to forget. The Void surges, the Subject-Phantasmal sharpens, and for a moment the containment zone is not a cell but the original wound, reopened.\n\n**After departure:** What remains after the door closes is not fear but weight — a Void aftertaste that fades slowly, personnel monitored for Fracture risk in the hours that follow.",
+      "new": "**When the entity activates:** There is no surge and nothing sharpens. Somewhere along the corridor badges lose names and the route to a familiar room goes uncertain, in a straight line, and then stops. What tells the wing an event occurred is the shift log afterwards: professionals who no longer agree about their own last hour.\n\n**After departure:** The worker gives a colleague the way to quarters from memory, at the door, and is not argued with. Departing the posting, they may read their own sealed page before it burns; the request has been granted every time it was made, which is the only part of the procedure nobody ever debated."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.014  clean   648 grams  Combat Record\n 0.010  clean   719 grams  M.A.W. Equipment\n 0.008  clean   124 grams  Operational Parameters\n 0.006  clean   160 grams  Containment Event Behavior\n 0.000  clean   967 grams  Warden Record\n 0.000  clean   623 grams  감각 묘사 (Flavor Text)\n 0.000  clean   414 grams  이야기 (Narratio)\n 0.000  clean   254 grams  기록 (Registrum)\n 0.000  clean   227 grams  이야기 보고 (Story Log)\n 0.000  clean   227 grams  관찰 기록 (Observation Log)\n 0.000  clean   226 grams  Origin\n 0.000  clean   204 grams  Behavior\n 0.000  clean   197 grams  Appearance\n 0.000  clean   155 grams  Trivia\n 0.000  clean   132 grams  최종 관찰 (Final Observation)\n 0.000  clean    68 grams  증언 (Testimonium)\n 0.000  clean    38 grams  SECC Classification\n 0.000  THIN      4 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   1  | **Han-Energy yield** | 12–18 per successful work cycle, taken from the trades that came off rather than the hours stood |\n   82   1  | { *The Growing Gaps* [**Debuff**] } | \"More memories vanish — faces, names, places — and the gaps connect, forming voids in your\n   85   8  | { *The Empty Mind* [**Ultimate**] } | \"Now everyone's memories are being stolen — and without pasts, no one knows who they are.\"\n  174   1  - **Sorrow Gauge on event:** Opens at 40% and rises 10% a turn while it is in an event state. It falls 10% for every memory an exc\n  207   4  **Appearance:** a flowing veil of Void Han-gossamer, near-translucent and all but colourless, that moves a half-breath behind the \n  231   2  **Effect:** +1 stat bonus while working the source holding, entered at issue and withdrawn the day the bearer is no longer posted \n  251   1  | **Before use** | Wielder, piece, gauge at issue, and a sealed baseline written against the recorded toll for these pieces: small\nGENERIC 0.003  (18 shared shingles)  SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-A__SIDE_CODEX_The_Memory_Thief.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-B__MAW-W_The_Shadow_Lens.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-C__MAW-S_The_Shadow_Veil.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-D__MAW-G_The_Shadow_Cloak.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-A__SIDE_CODEX_The_Memory_Thief.md": "37faf1ac0f1030d5af94ea139f08d8eb30e69d1767cbe47c1c7db22c389d697d",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-B__MAW-W_The_Shadow_Lens.md": "92909eacb12458799a4715597d1760fe973b260d12ee9106fb3f770d2c197455",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-C__MAW-S_The_Shadow_Veil.md": "7f182d8d3bcef19b47f5b0f78832dab3654ff0cd6b512acbb1051151fa90b8b5",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-D__MAW-G_The_Shadow_Cloak.md": "766a611b92c8000837e6f73cf615c45dfca23ef02a4f2daa27b3ffa3f1780c59",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-N-IIIβ-077_The_Memory_Thief_기록_도둑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-077_The_Memory_Thief_%EA%B8%B0%EB%A1%9D_%EB%8F%84%EB%91%91.md \"SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md\")]",
+  "table_link": "[The Memory Thief](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-077_The_Memory_Thief_%EA%B8%B0%EB%A1%9D_%EB%8F%84%EB%91%91.md \"SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md\")",
+  "reading": {
+    "before_lines": 457,
+    "before_bytes": 45378,
+    "final_lines": 457,
+    "final_bytes": 46140
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 92,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": ""
+  }
+}
