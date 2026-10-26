@@ -1,0 +1,139 @@
+{
+  "designation": "C-IIIγ-140",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-140_Weeping_Willow_우는_버드나무.md",
+  "words": 7468,
+  "sha256": "03e19ffab63e2859dbff1b6bec3b8118a216438cfcba2be0da71151d9062ff17",
+  "unit": 1,
+  "name": "Weeping Willow",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_01_WEEPING_WILLOW.md",
+  "before_words": 7468,
+  "after_words": 7647,
+  "base": "2100b02f9352b6d3a8a559c3b7839ab0920c8caa",
+  "final_sha256": "4c30bae004518f0162a9e342195ac358498497ba3ad05e19bc5391d7c096eff2",
+  "summary": "Five supported repairs (4 short / 1 careful) keep Batch 115's review and holds exactly where they stand and clear the residue around them: combat's first four rows stop the branches draping, root-channeling, lashing and responding to being cut — this tree has never harmed anybody and nothing is ever cut — and run instead on dissolved leaves, a boundary that stops draining, the past-tense withdrawal sign and a district ending thickening the fall; the one-line Story Log entry becomes the unattended-ending rule and three-day register lead; the nonsense Movement field ('a body or drop of liquid') becomes rooted-and-spreading; and two form lines that had the branches made of crystal now agree with the SECC and Side A that the branches carry crystal leaves on living wood. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+  "commentary": "A facility that owns the grief it was only ever gentle with, charges a memorial trust for taking it away, and pays itself twice — and records the trustees' objection as correct in all three parts. 'We are paying to have their grief taken away, and we are paying for it with their names' is the quarter's most damning invoice line.",
+  "reasoning": "R-33 chain: Object/Place / Fragment-III / Major-γ / City Sorrow → generations of blameless endings brought to one terrace, and the ordinary ones nobody attended → a living willow that sheds unattended endings as crystal leaves, dissolving where sat-with, persisting where not → work is Viderehan/Ferrehan from the margin with open access: nothing swept under a sitter, boundary marked and dated, collection only after closing → failure is anticipation and collection law (title perfected by careful hands), never injury → equipment is grown, not made, and bills for the ending carried. Rows may no longer strike a tree that protects by sitting still; War-Scythe naming and bonus strands stay HELD.",
+  "history": "Batch 115 unit 2 (87eb27a) performed the full-SE review — recording the γ/Major overview, aligning the Charm to the item's blue tear-lined leaf and +2 unnamed check with the voluntary closing ritual, keeping the Warden collection distinct from voluntary bestowal, and leaving War-Scythe / Willow Requiem, Medium / Short, Master index taxonomy and Registry 5%-Accessory-versus-4%-Tail unresolved, with exact pair SE-140-B 'already counted'. Both credits sit inside the baseline: Batch 186 earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+  "holds": [
+    "Weapon naming and band stay forked as Batch 115 left them: primary / item heading The Weeping Willow War-Scythe — petrified willow heartwood scythe draping prayer silk, 9–15 / 3 / Medium — against the item filename The Willow Requiem and the Medium/Short dispute B115 recorded, with Registry giving no numbers ('Variable / - / -'). The item also adds a farewell-witness binding and a blameless-ending recognition rule the primary does not use; left apart.",
+    "The Cloak's mechanism forks quietly: item C softens others' ability to read the wearer's grief and requires a return witness and reconnection time, with a rejection that turns sorrow into an unreachable absence; the primary shortens this to 'makes the wearer emotionally difficult to perceive' and pays as feeling every ending nearby and sleeping badly. Grade, resistances and costs agree; the choreography does not, and no bridging record exists.",
+    "Numbers fork as before: primary / item D Tail + 4% against the Registry's Accessory / 5%; primary Effect '+2 to the named check; sources do not identify the affected statistic' (B115's honest placeholder) against the Charm's volatile calm-interval ability; Comprehension '2 — Basic' in the primary against Side A '2 — Studied'. The forty-one floor and the tree's three candidate explanations are evidence, not defects."
+  ],
+  "split": [
+    4,
+    1
+  ],
+  "repairs": [
+    {
+      "id": "combat_first_four",
+      "kind": "careful",
+      "careful": true,
+      "old": "| { *The Dripping Branches* [**Debuff**] } | \"The willow weeps onto your shoulders — and the water is older than the tree.\" | [Sorrow-laden branches drape over the target; tears soak through.] | *Target suffers -10 Composure; the willow's grief is contagious.* **[10 Lament DMG [Lament]]** | When the target stands beneath the Willow. |\n| { *The Rooted Sorrow* [**Debuff**] } | \"The roots are deep — and they connect to every grief this ground has ever held.\" | [The Willow's root-system channels old sorrow upward.] | *Target loses 10 Composure; the earth itself is weeping.* **[10 Lament DMG [Lament]]** | When the target lingers in the root-shadow. |\n| { *The Whipping Branch* [**Attack**] } | \"A branch lashes down — heavy with water, heavy with years.\" | [A sodden branch strikes like a flail.] | *Inflicts Lament pressure and one soaking, heavy wound.* **[14-22 Lament DMG [Lament]]** | When the Willow is disturbed. |\n| { *The Full Weeping* [**Attack**] } | \"The tree gives up its grief entirely — every leaf becomes a tear, and they fall like rain.\" | [The canopy lets go of everything at once, every leaf a separate ending, and the terrace is under it while it falls.] | *A heavy Deep Blue downpour; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Willow is cut or struck. |",
+      "new": "| { *The Dripping Branches* [**Debuff**] } | \"The willow weeps onto your shoulders — and it was already mourning something of yours.\" | [Crystal tear-leaves settle on whoever sits beneath, and dissolve where the sitter has stayed with them; nothing drapes and nothing reaches for anyone.] | *-10 Composure to whoever remains beneath the canopy; the grief is not contagious, it is addressed.* **[10 Lament DMG [Lament]]** | When a sitter stays beneath the canopy while the fall is running. |\n| { *The Rooted Sorrow* [**Debuff**] } | \"The roots damage nothing. They only make the ground stop drying.\" | [The saturated boundary passes its mark outward; visitors newly inside the line relive their own farewells without the shelter the canopy gives.] | *10 Composure lost by anyone crossing ground that has stopped draining; the new line is dated before the watch closes.* **[10 Lament DMG [Lament]]** | When somebody crosses into ground newly inside the saturated boundary. |\n| { *The Whipping Branch* [**Attack**] } | \"The branches shudder in a wind nobody else feels.\" | [No branch lashes and the tree has never harmed anybody; the labour is the decision to stay upright and dry-eyed underneath a thing that is holding an ending of yours.] | *Lament pressure held as one long ache rather than a wound; workers who begin speaking of living people in the past tense are withdrawn.* **[14-22 Lament DMG [Lament]]** | When the band widens the longer a crew has been standing beneath the canopy. |\n| { *The Full Weeping* [**Attack**] } | \"Every leaf down at once, and the break can be felt in the teeth.\" | [The fall thickens at a district-wide ending the terrace has been asked to hold; it is measured, not answered — nothing here is cut or struck and never has been.] | *A heavy Deep Blue downpour; the watching crew's gauge surges 15% while the boundary is re-marked and dated.* **[24-36 Lament DMG [Lament]]** | When a closure, clearance or unattended death lands on the district in a single day. |"
+    },
+    {
+      "id": "storylog_entry2_thin",
+      "kind": "short",
+      "careful": false,
+      "old": "**Entry 2 — <Funerals and Departures>**\nIt is most active around funerals and departures.",
+      "new": "**Entry 2 — <Funerals and Departures>**\nThe fall rate rises around funerals, closures and departures in the district, and rises highest around the ones nobody attends — which is why the nightly count, not the gauge, is the instrument on this holding: it lead the municipal register by three days across eleven years of comparison."
+    },
+    {
+      "id": "movement_field_nonsense",
+      "kind": "short",
+      "careful": false,
+      "old": "| **Movement** | Stationary — a body or drop of liquid. |",
+      "new": "| **Movement** | Stationary — living and rooted; the spread is at the root, and the saturated boundary moves outward only. |"
+    },
+    {
+      "id": "form_align_appearance",
+      "kind": "short",
+      "careful": false,
+      "old": "**Physical Form:** A massive willow whose branches are made of crystallized tears. Its leaves fall like slow rain.",
+      "new": "**Physical Form:** A massive living willow whose branches carry pale crystal tear-leaves that shatter silently when they land. Its leaves fall like slow rain."
+    },
+    {
+      "id": "form_align_table",
+      "kind": "short",
+      "careful": false,
+      "old": "| **Form** | A massive willow whose branches are made of crystallized tears. Its leaves fall like slow rain. |",
+      "new": "| **Form** | A massive living willow whose branches carry pale crystal tear-leaves that shatter silently when they land. Its leaves fall like slow rain. |"
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IIIγ-140_Weeping_Willow_우는_버드나무.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.048  clean   166 grams  Trivia\n 0.035  clean   288 grams  기록 (Registrum)\n 0.017  clean   239 grams  관찰 기록 (Observation Log)\n 0.016  clean   189 grams  최종 관찰 (Final Observation)\n 0.012  clean   167 grams  Operational Parameters\n 0.008  clean   710 grams  Combat Record\n 0.008  clean   390 grams  M.A.W. Equipment\n 0.004  clean   552 grams  감각 묘사 (Flavor Text)\n 0.000  clean  1299 grams  Warden Record\n 0.000  clean   387 grams  이야기 (Narratio)\n 0.000  clean   234 grams  Expansion Behavior\n 0.000  clean   223 grams  Appearance\n 0.000  clean   190 grams  이야기 보고 (Story Log)\n 0.000  clean   133 grams  Origin\n 0.000  clean   118 grams  Behavior\n 0.000  clean    60 grams  SECC Classification\n 0.000  clean    44 grams  증언 (Testimonium)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   85   6  | { *The Drowned Grove* [**Ultimate**] } | \"The willow's roots spread — and everywhere they reach, the ground weeps.\" | [The root \n  209   2  **Appearance:** a billowing cloak of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.\n  249   1  | **At limit** | Duration, activations, attribute change, rejection signs, final boundary and fall rate, and whether the operator \n  270   2  | **Initial exposure** | The observer identifies Weeping Willow as an Object/Place with Place-Lament manifestation. The first reli\n  275   2  **Observation method:** Count the fall, mark the line, weigh the collection, and note who sat and for how long. The form here is t\n  299   3  | Sit beneath it and allow the endings to be acknowledged — with the access left open, the branches resolved with the endings they\n  335   2  **Interaction procedure:** Solo baselines first, across several cycles, with fall rate, boundary and gauge established for each pa\n  378   3  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)\n  383   7  **Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the root expa\n  450   3  - C-IIIγ-140's own figures, kept as numerals for look-up: gauge 653/653, pressure 18–41 per hit, resistance 35 / 25 per cent, thre\n  460   5  - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-D-02, Echo Gardens.\nGENERIC 0.007  (38 shared shingles)  SE-C-IIIγ-140_Weeping_Willow_우는_버드나무.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-A__SIDE_CODEX_The_Weeping_Willow.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-B__MAW-W_The_Willow_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-C__MAW-S_The_Willow_Cloak.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-D__MAW-G_The_Willow_Charm.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-A__SIDE_CODEX_The_Weeping_Willow.md": "41fb88afde423601d84c91d70a3188d579e8b915215624bbe615c58c01878f84",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-B__MAW-W_The_Willow_Requiem.md": "2e4f86843f802871bba15f1936f5801aac99f9497177cf6c2e6ac976ed8abdde",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-C__MAW-S_The_Willow_Cloak.md": "b20b7584f76d29597ed26ab940b81dc1cc41f369baeb162bc11b2fe96bff44db",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-D__MAW-G_The_Willow_Charm.md": "c9661a89ddb06ffc2329e4f29b24c9d67f9d003513335f75ecbb69b02e510d64",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IIIγ-140_Weeping_Willow_우는_버드나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-140_Weeping_Willow_%EC%9A%B0%EB%8A%94_%EB%B2%84%EB%93%9C%EB%82%98%EB%AC%B4.md \"SE-C-IIIγ-140_Weeping_Willow_우는_버드나무.md\")]",
+  "table_link": "[Weeping Willow](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-140_Weeping_Willow_%EC%9A%B0%EB%8A%94_%EB%B2%84%EB%93%9C%EB%82%98%EB%AC%B4.md \"SE-C-IIIγ-140_Weeping_Willow_우는_버드나무.md\")",
+  "reading": {
+    "before_lines": 469,
+    "before_bytes": 45509,
+    "final_lines": 469,
+    "final_bytes": 46582
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 94,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 10
+  }
+}

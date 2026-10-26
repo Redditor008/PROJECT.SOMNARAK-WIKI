@@ -27,7 +27,20 @@
       "C-IVδ-222",
       "C-IVγ-091"
     ],
-    "reviewed": {}
+    "reviewed": {
+      "C-IIIγ-140": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_01_WEEPING_WILLOW.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -491,8 +504,29 @@
     {
       "designation": "C-IIIγ-140",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-140_Weeping_Willow_우는_버드나무.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Five supported repairs (4 short / 1 careful) keep Batch 115's review and holds exactly where they stand and clear the residue around them: combat's first four rows stop the branches draping, root-channeling, lashing and responding to being cut — this tree has never harmed anybody and nothing is ever cut — and run instead on dissolved leaves, a boundary that stops draining, the past-tense withdrawal sign and a district ending thickening the fall; the one-line Story Log entry becomes the unattended-ending rule and three-day register lead; the nonsense Movement field ('a body or drop of liquid') becomes rooted-and-spreading; and two form lines that had the branches made of crystal now agree with the SECC and Side A that the branches carry crystal leaves on living wood. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_01_WEEPING_WILLOW.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-A__SIDE_CODEX_The_Weeping_Willow.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-B__MAW-W_The_Willow_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-C__MAW-S_The_Willow_Cloak.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-D__MAW-G_The_Willow_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIIγ-145",

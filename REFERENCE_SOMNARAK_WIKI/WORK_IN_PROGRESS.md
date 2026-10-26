@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 186 — OPEN, 0 / 5 (2026-10-26)
+## Batch 186 — OPEN, 1 / 5 (2026-10-26)
+
+**Unit 1 — Weeping Willow `C-IIIγ-140`: HELD.** Five supported repairs (4 short / 1 careful; 7468→7647 words): combat's first four rows become dissolving leaves, undrained ground, the past-tense sign and a thickened fall; the bare Story Log line becomes the unattended rule; Movement repaired; two form lines aligned to crystal leaves on living wood. Batch 115 already counted set 140: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B186_01_WEEPING_WILLOW.md).
 
 Fresh C-locale ranking of the 95 pending froze: Weeping Willow, Folly, The Memory Thief, Patina, The Lost Prince. [Opening record](SE_APPEARANCE_REVIEWS/B186_OPEN.json).
 
