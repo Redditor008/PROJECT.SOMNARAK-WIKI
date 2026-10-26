@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch183 OPEN 5/5.** Five HELD reviews (6, 10, 8, 8 and 8 repairs); No change 0/2. Latest: [Cracked Mirror evidence](SE_APPEARANCE_REVIEWS/B183_05_CRACKED_MIRROR.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)). Counters: 270/301 Types, 268/287 Weapon, 18/301 SE; held 176 / pending 105.
+**Latest: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)). Counters: 270/301 Types, 268/287 Weapon, 18/301 SE; held 176 / pending 105.
 
 **Previous: Batch182 CLOSED 5/5.** Five HELD reviews, 41 supported repairs, No change 0/5. The Final Door earns the batch's only fresh equipment credit, +1 Types / +1 Weapon. [Close report](SE_APPEARANCE_REVIEWS/B182_CLOSE.md).
 

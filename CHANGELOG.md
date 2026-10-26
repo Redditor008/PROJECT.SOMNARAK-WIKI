@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 183 — OPEN, 5 / 5 (2026-10-26)
+## Batch 183 — CLOSED, 5 / 5 (2026-10-26)
+
+Five HELD reviews; 40 repairs (28 short / 12 careful; 36,591 → 37,246 words); No change 0/5; 25/25 closure validators, 54/54 tests, all four audits PASS, reconstruction 5/5, 105 pending fingerprints unchanged. No fresh equipment credit (sets pre-counted by Batches 115/102/119/125–126/133). [Closure record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Under the owner's five-per-prompt instruction the same prompt opens Batch 184 (Shard of a Broken Promise, Thralldom, The Convergence, Melting Rope, Pall).
 
 **Unit 5 — Cracked Mirror `C-IIβ-310`: HELD.** Eight supported repairs (6 short / 2 careful; 7328→7524 words) return the attack tier to agreement and the widening edge. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_05_CRACKED_MIRROR.md). Batch 133 already counted the SE-310 set inside the legacy baseline: +0/+0/+0. Completed 5/5; No change 0/2; held 176 / pending 105. Batch 183's five-dossier floor is met; closure follows in the same owner prompt.
 
