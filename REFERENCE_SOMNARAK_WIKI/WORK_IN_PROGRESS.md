@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 186 — OPEN, 3 / 5 (2026-10-26)
+## Batch 186 — OPEN, 4 / 5 (2026-10-26)
+
+**Unit 4 — Patina `C-IVδ-222`: HELD.** Four supported repairs (3 short / 1 careful; 7531→7747 words): combat's first four rows become margin-standing, re-staked markers, the dieback and the 9/14/19 series; two reading paragraphs and two Flavor blocks become the line-monument-screen triad, rotation-not-catharsis and the closing-note millimetres. Batch 137 already counted set 222 (Weapon+1 then): +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B186_04_PATINA.md). This prompt's ten-review ceiling reached; Unit 5 (The Lost Prince) + closure wait for the next P.
 
 **Unit 3 — The Memory Thief `N-IIIβ-077`: HELD.** Five supported repairs (3 short / 2 careful; 7472→7647 words): rows 3–4 become discovery-by-clerk and the equal-weight exchange; the catastrophic Consequences template and generic summary paragraph become the file's own standards; two Flavor blocks become corridor badges and the page-burning courtesy. Batches 89/129 already counted set 077: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B186_03_THE_MEMORY_THIEF.md).
 

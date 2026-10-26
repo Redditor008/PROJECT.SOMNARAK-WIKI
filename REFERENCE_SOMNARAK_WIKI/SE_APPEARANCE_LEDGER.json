@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVδ-222": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_04_PATINA.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2123,8 +2135,29 @@
     {
       "designation": "C-IVδ-222",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-222_Patina_녹슨_무게.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Four supported repairs (3 short / 1 careful) sink Patina's combat sheet to the depth its own file demands. Rows 1–4 no longer settle the Weight on anybody's shoulders, stain what they carry, strike with shards, or respond to being dropped — nobody enters the affected ground, nothing has ever been struck by this holding, and contact is a spinal injury the I-Relic protocol prices separately; the rows now run on margin-standing, re-staked markers, the vegetation dieback that precedes every increase, and the 9/14/19 millimetre series continuing down. The template 'Reading the response' and two stock Flavor blocks become the line-monument-exit-screen triad, rotation-instead-of-catharsis, and the closing-note millimetres. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_04_PATINA.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-222-A__SIDE_CODEX_Patina.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-222-B__MAW-W_Patina_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-222-C__MAW-S_Patina_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-222-D__MAW-G_Patina_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-230",

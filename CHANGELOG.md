@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 186 — OPEN, 3 / 5 (2026-10-26)
+## Batch 186 — OPEN, 4 / 5 (2026-10-26)
+
+**Unit 4 — Patina `C-IVδ-222`: HELD.** Four supported repairs (3 short / 1 careful; 7531→7747 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_04_PATINA.md). Batch 137 already counted set 222: +0/+0/+0. Completed 4/5; No change 0; held 190 / pending 91. Ten-review ceiling reached this prompt.
 
 **Unit 3 — The Memory Thief `N-IIIβ-077`: HELD.** Five supported repairs (3 short / 2 careful; 7472→7647 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_03_THE_MEMORY_THIEF.md). Batches 89/129 already counted set 077: +0/+0/+0. Completed 3/5; No change 0; held 189 / pending 92.
 
