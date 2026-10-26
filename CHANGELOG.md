@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 185 — OPEN, 5 / 5 (2026-10-26)
+## Batch 185 — CLOSED, 5 / 5 (2026-10-26)
+
+Five HELD; No change 0; 23 repairs; validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; [closure record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_CLOSE.md). Types 271/301 · Weapon 269/287 · SE Fix 18/301; held 186 / pending 95. Batch 186 opens next.
 
 **Unit 5 — Hollow Echo `N-IIα-125`: HELD.** Five supported repairs (4 short / 1 careful; 7454→7615 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_05_HOLLOW_ECHO.md). The 2026-10-12 full-set review already counted set 1013: +0/+0/+0. Completed 5/5; No change 0; held 186 / pending 95. Closure follows in this prompt.
 
