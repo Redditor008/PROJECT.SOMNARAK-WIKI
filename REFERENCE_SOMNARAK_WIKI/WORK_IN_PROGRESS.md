@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 185 — OPEN, 1 / 5 (2026-10-26)
+## Batch 185 — OPEN, 2 / 5 (2026-10-26)
+
+**Unit 2 — Candela `C-IVδ-165`: HELD.** Six supported repairs (5 short / 1 careful; 7422→7609 words): combat's first three rows become timed viewing, sealed-pool custody and a declined reach with Drain +5 on the planning; the legend boilerplate becomes the screening account; the stray threat line becomes the register's graded position; three Flavor blocks become tallow, the height mark and the melt-rate rule. Batch 116 already counted set 165: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B185_02_CANDELA.md).
 
 **Unit 1 — Whispering Walls `C-Iα-011`: HELD.** One mechanical repair (1 short; 7401→7395 words): a duplicated clause in the Fabric Record's ward-officer objection removed. Batches 88/115 already counted set 011 and wrote the file's cost assignments deliberately; the sets on re-read confirm them — +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B185_01_WHISPERING_WALLS.md).
 

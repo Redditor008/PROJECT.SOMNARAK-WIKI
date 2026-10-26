@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 185 — OPEN, 1 / 5 (2026-10-26)
+## Batch 185 — OPEN, 2 / 5 (2026-10-26)
+
+**Unit 2 — Candela `C-IVδ-165`: HELD.** Six supported repairs (5 short / 1 careful; 7422→7609 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_02_CANDELA.md). Batch 116 already counted set 165: +0/+0/+0. Completed 2/5; No change 0; held 183 / pending 98.
 
 **Unit 1 — Whispering Walls `C-Iα-011`: HELD.** One mechanical repair (1 short; 7401→7395 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_01_WHISPERING_WALLS.md). Batches 88/115 already counted set 011: +0/+0/+0. Completed 1/5; No change 0; held 182 / pending 99.
 
