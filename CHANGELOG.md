@@ -8,6 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 185 — OPEN, 0 / 5 (2026-10-26)
+
+Fresh C-locale ranking of the 100 pending froze: Whispering Walls, Candela, Mourner's Bloom, Breach, Hollow Echo. Unit 1 next.
+
 ## Batch 184 — CLOSED, 5 / 5 (2026-10-26)
 
 Five HELD; No change 0; 32 repairs; validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; [closure record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_CLOSE.md). Types 271/301 · Weapon 269/287 · SE Fix 18/301; held 181 / pending 100. Batch 185 opens next.

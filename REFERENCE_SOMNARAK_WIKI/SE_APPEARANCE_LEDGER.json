@@ -17,79 +17,17 @@
     }
   },
   "active_batch": {
-    "number": 184,
-    "status": "CLOSED",
+    "number": 185,
+    "status": "OPEN",
     "required": 5,
     "queue": [
-      "O-IVδ-851",
-      "O-Iα-754",
-      "C-Vδ-010",
-      "N-IIIγ-447",
-      "C-IIβ-280"
+      "C-Iα-011",
+      "C-IVδ-165",
+      "C-Iα-330",
+      "N-IVδ-339",
+      "N-IIα-125"
     ],
-    "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_OPEN.json",
-    "reviewed": {
-      "O-IVδ-851": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_01_SHARD_OF_A_BROKEN_PROMISE.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "O-Iα-754": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_02_THRALLDOM.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-Vδ-010": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_03_THE_CONVERGENCE.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "N-IIIγ-447": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_04_MELTING_ROPE.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IIβ-280": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_05_PALL.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      }
-    }
+    "reviewed": {}
   },
   "dossiers": [
     {
@@ -7785,79 +7723,20 @@
       "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B182_CLOSE.md"
     },
     {
-      "number": 184,
+      "batch": 183,
       "status": "CLOSED",
+      "reviewed": 5,
       "required": 5,
-      "queue": [
-        "O-IVδ-851",
-        "O-Iα-754",
-        "C-Vδ-010",
-        "N-IIIγ-447",
-        "C-IIβ-280"
-      ],
-      "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_OPEN.json",
-      "reviewed": {
-        "O-IVδ-851": {
-          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_01_SHARD_OF_A_BROKEN_PROMISE.md",
-          "no_change": false,
-          "whole_final_reread": true,
-          "checks": {
-            "verify": "PASS",
-            "tpl": "PASS",
-            "sectfile": "PASS",
-            "wikistd": "PASS",
-            "sect": "PASS"
-          }
-        },
-        "O-Iα-754": {
-          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_02_THRALLDOM.md",
-          "no_change": false,
-          "whole_final_reread": true,
-          "checks": {
-            "verify": "PASS",
-            "tpl": "PASS",
-            "sectfile": "PASS",
-            "wikistd": "PASS",
-            "sect": "PASS"
-          }
-        },
-        "C-Vδ-010": {
-          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_03_THE_CONVERGENCE.md",
-          "no_change": false,
-          "whole_final_reread": true,
-          "checks": {
-            "verify": "PASS",
-            "tpl": "PASS",
-            "sectfile": "PASS",
-            "wikistd": "PASS",
-            "sect": "PASS"
-          }
-        },
-        "N-IIIγ-447": {
-          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_04_MELTING_ROPE.md",
-          "no_change": false,
-          "whole_final_reread": true,
-          "checks": {
-            "verify": "PASS",
-            "tpl": "PASS",
-            "sectfile": "PASS",
-            "wikistd": "PASS",
-            "sect": "PASS"
-          }
-        },
-        "C-IIβ-280": {
-          "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_05_PALL.md",
-          "no_change": false,
-          "whole_final_reread": true,
-          "checks": {
-            "verify": "PASS",
-            "tpl": "PASS",
-            "sectfile": "PASS",
-            "wikistd": "PASS",
-            "sect": "PASS"
-          }
-        }
-      }
+      "no_change": 0,
+      "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_CLOSE.md"
+    },
+    {
+      "batch": 184,
+      "status": "CLOSED",
+      "reviewed": 5,
+      "required": 5,
+      "no_change": 0,
+      "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_CLOSE.md"
     }
   ],
   "equipment_reviews": [

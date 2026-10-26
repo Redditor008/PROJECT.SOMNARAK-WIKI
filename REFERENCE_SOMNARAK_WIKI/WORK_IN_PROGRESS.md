@@ -1,5 +1,9 @@
 # Work In Progress
 
+## Batch 185 — OPEN, 0 / 5 (2026-10-26)
+
+Fresh C-locale ranking of the 100 pending froze: Whispering Walls, Candela, Mourner's Bloom, Breach, Hollow Echo. [Opening record](SE_APPEARANCE_REVIEWS/B185_OPEN.json).
+
 ## Batch 184 — CLOSED, 5 / 5 (2026-10-26)
 
 Fresh validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; no source changes. 32 repairs; No change 0; Types 271/301 · Weapon 269/287 · SE Fix 18/301. [Closure record](SE_APPEARANCE_REVIEWS/B184_CLOSE.md). Batch 185 follows in this prompt.
