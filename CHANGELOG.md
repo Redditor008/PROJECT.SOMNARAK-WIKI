@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 183 — OPEN, 3 / 5 (2026-10-26)
+## Batch 183 — OPEN, 4 / 5 (2026-10-26)
+
+**Unit 4 — Cleaved `C-IIβ-775`: HELD.** Eight supported repairs (6 short / 2 careful; 7327→7499 words) return combat and toll grammar to the height, bearing and register. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_04_CLEAVED.md). Batches 125/126 already counted the SE-775 set inside the legacy baseline: +0/+0/+0. Completed 4/5; No change 0/2; held 175 / pending 106. Next is Cracked Mirror `C-IIβ-310`.
 
 **Unit 3 — Stranded Between Two Shores `C-IVδ-823`: HELD.** Eight supported repairs (6 short / 2 careful; 7315→7423 words) return combat and field-use signs to both mouths and the depth log. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_03_STRANDED_BETWEEN_TWO_SHORES.md). Batch 119 already counted the SE-823 set inside the legacy baseline: +0/+0/+0. Completed 3/5; No change 0/2; held 174 / pending 107. Next is Cleaved `C-IIβ-775`.
 

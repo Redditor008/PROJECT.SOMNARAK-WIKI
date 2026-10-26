@@ -70,7 +70,7 @@
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan, Viderehan and Ferrehan. Pugnahan remains in the response table because it was tried; it has been barred since the second cycle and the bar has held. |
 | **Battlefield** | Zone B, Old Lament |
 | **Resolution Condition** | Do not complete the structure; document what was intended and lost |
 
@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Crack Spreads* [**Debuff**] } | "A crack opens in the wall ahead of you, and it is the width and shape of the gap you have spent years not mentioning." | [The figure's fracture reaches the nearest structure and stops there, holding both halves of the split in view.] | *Target suffers a Void mark; their own cracks are exposed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target comes within the footprint of the works. |
 | { *The Leaning* [**Debuff**] } | "The upper half goes over toward a skyline nobody in the district can see, and your balance goes with it." | [The constant bearing of the lean is applied to everyone standing on the route.] | *Target loses clarity; they cannot tell which way is up.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains on the route past the second sighting. |
-| { *The Falling Masonry* [**Attack**] } | "A block tears free from the wall and falls — heavy, jagged, aimed." | [A chunk of torn tower strikes the target.] | *Inflicts Void damage; a piece of structure tears away.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Tower is shaken. |
+| { *The Falling Masonry* [**Attack**] } | "It does not throw anything. It leans, and the city's masonry is what falls." | [The figure takes its weight against a standing structure; the Void lands as the names going in order — the street first, then the building's.] | *Inflicts Void pressure on everyone in the lean's shadow; names before bodies, and every casualty on the record was underneath something.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Tower leans against a standing structure. |
 | { *The Split* [**Attack**] } | "The seam widens along its whole length — not damage, an opening — and the interior is visible through it, tenanted, at heights that were never poured." | [The figure opens along the drawn line and the designed interior is exposed as designed.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the figure is struck, which splits it further rather than slowing it. |
 | { *Total Collapse* [**Ultimate**] } | "It goes down on the tallest thing within reach, and the street fills with the rubble of buildings that were never raised." | [The figure abandons the route and leans its whole height onto a standing structure.] | *All in range suffer Void erosion for three turns in the rubble.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%, or any structure on the footprint is completed. |
 
@@ -93,8 +93,8 @@
 ### Consequences
 
 - Personnel who cannot carry the drain lose **Composure** by the hour, and the loss is ordered rather than random: the names of what they are looking at go first, then the names of what they came for. The clarity test is administered before the worker notices either, because by the time it is noticed it can no longer be taken correctly.
-- Extended contact brings the whole site down on a worker at once: acute emotional erosion, bodily trauma, the loss of who they are, or a corruption of the ground beneath them that nothing has cleared since. None of these carries an end date, because the scheme has none either — nobody has ended it.
-- Taking up any item in the set is never free. The wielder pays in intimate memories, in physical sensation and in years of life; and the equipment schedule puts that in writing; the field is where the bill is actually settled.
+- Extended contact is not a stack of separate harms: the names go in order — what is being looked at, what the worker came for, faces last — and any bodily harm on this holding has come from standing underneath something the figure has taken its weight against. None of it carries an end date, because the scheme has none either — nobody has ended it.
+- Taking up any item in the set is never free. The recorded tolls are the set's own — a small nameless memory each use, a wearer going faintly absent to themselves, every abandoned plan connected to a wall arriving as a feeling — and the field is where they are noticed, priced by the second worker, and entered.
 - Left unresolved, Cleaved does what the suspension never did — it finishes itself. Denied a containment, the unchanneled grief opens a channel of its own; and four hundred men still carried as assigned to a site with no building on it is more grief than ought to be left with nowhere to go.
 
 ## Appearance
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A cloven tower in the shape of a man, stone-flesh against live fire along the seam, the crown carried off true toward a fixed bearing. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every Cleaved cycle against the previous reading. |
+| **Position / movement** | Mobile on old ground: walks the footprint and the approach streets of the suspended works, avoids anything built since, and has never once pursued anybody. It can breach; on breach it goes for the tallest standing structure within reach. |
 | **Material / signature** | Void. Stone-flesh braided with flame, bloodless-cold against fever-hot, ash and char, and no thermal reading at all. |
 | **Distinctive markers** | Lean bearing, seam, and measured height. The first two are constant and the third is not. |
 | **Identification** | If it is burning and the air is cold, it is this. Every other tall thing in the Old Lament gives off heat. |
@@ -232,7 +232,7 @@ The Keystone lends structural knowledge without granting permission to finish th
 
 A piece cut from Cleaved is not equipment turned against the holding; it is a part of the holding carried away, and it works by being what it is near. The toll is the drain the file already records — small nameless memories, and a wearer who grows faintly absent to themselves — and it is paid whether the use was correct or not. That is why the set is issued one rotation at a time.
 
-For issue, name Cleaved’s stopped tower project and accept the limit: document what was intended and lost without completing the structure. First-person ownership of the source event, then source responses repeating outside contact, precede the terminal condition in which the bearer becomes a new site for the manifestation. The second worker also watches for the wearer’s inability to answer for their own presence, independently of any claim about the source; neither warning is evidence of recovery.
+For issue, name Cleaved’s stopped tower project and accept the limit: document what was intended and lost without completing the structure. The recorded failure on this set is quieter than the codices’ career of ownership: a name that will not come, then a sentence with no first person in it, then a wearer who stops noticing either. At no point does the bearer become a site on the works register — assignments change only on the register, and the register is not theirs to amend. The second worker watches for the wearer’s inability to answer for their own presence, independently of any claim about the source; neither warning is evidence of recovery.
 
 The set is *Cleaved — Witnessed Form*, and *Source Kept Distinct* requires attribution before an immediate hazard is opened. It cannot heal the originating event. The field record may close an exposure or return an item; it cannot close a works-register entry, release assigned crews or convert the nil return into cancellation.
 
@@ -241,7 +241,7 @@ The set is *Cleaved — Witnessed Form*, and *Source Kept Distinct* requires att
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, and a sealed baseline taken by the second worker: the drain on file, the small nameless memories, and the first sentence with no first person in it. |
-| **During use** | The first sign is a name that will not come — the wearer reaches for a colleague's and gets the shape of the person instead. Timed by the second worker. |
+| **During use** | The first sign is priced by piece and timed by the second worker: a name that will not come — the wearer reaches for a colleague's and gets the shape of the person instead; a sentence with no first person in it; or a bearer invoicing a wall's intentions before its load. The wearer never reports any of the three first. |
 | **At limit** | The wearer stops noticing, which on this set is the limit rather than a settling-in; going faintly absent to oneself is what the stand-down order exists for. |
 | **After use** | Return the piece, open the sealed baseline, and read the two entries side by side. Where the drain outlasts the rotation, the piece is not reissued to that wielder, and the entry stands whether or not they agree. Record the bearer, trigger, source response, paid cost and unresolved detail before care. At emergency handover, a named witness states the source title and event while the bearer relinquishes the piece. This does not refund the drain. |
 
@@ -308,7 +308,7 @@ The skyline tears open above the Old Lament. A tower walks where no tower could 
 
 **With continued exposure:** The shock does not last and the familiarity is worse. The drain begins to feel like a working condition: the names of the district's buildings come slower, then the names of colleagues, and the worker reports the change as tiredness. Nothing about the figure is changing. The reading is the only measure, and it is the second worker who takes it.
 
-**When the entity activates:** The Gauge tips. The Subject-Grudge does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Void is no longer atmospheric. It is operational.
+**When the entity activates:** Nothing in the figure quickens. The upper half takes its constant-bearing lean further, against the tallest thing standing, and the interval between name-losses shortens — the street beneath it has a name, then it does not. Clear the upper floors first; the street stays open and empty.
 
 **After departure:** The figure walks on and the district keeps what it took — the names of what was looked at, in the order the seam exposed them. The clarity test is administered at the station before the crew disperses, and the results go to the watch file rather than to the worker, because on this holding the workers who have lost the most are the last to describe it as a loss.
 

@@ -64,6 +64,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIβ-775": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_04_CLEAVED.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -1539,8 +1551,29 @@
     {
       "designation": "C-IIβ-775",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-775_Cleaved_찢어진_탑.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Eight supported repairs bring leftover combat and toll grammar back to this holding's own instruments — the height, the bearing and the register: the Valid Work Types row no longer lists Pugnahan the file has barred since the second cycle; The Falling Masonry no longer hurls an aimed block at a target from a figure that 'goes for skylines and not for people' and whose pressure is a clarity drain — it leans, and the names go in order; the two generic consequences bullets (a stacked emotional/bodily/self/ground quadruple and the intimate-memories/sensation/years triad) are replaced by the ordered name-loss, the underneath-something casualty rule and the set's three recorded tolls; the Detailed movement row stops saying 'can breach and pursue' of a figure that has never once pursued anybody; the codices' terminal 'bearer becomes a new site' career is set against the works register that assigns sites and is not the bearer's to amend; field-use signs are priced by piece; and the template activation paragraph ('becomes realer… the Void is operational') is replaced by the lean and the name-loss interval. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_04_CLEAVED.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-A__SIDE_CODEX_Cleaved.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-B__MAW-W_The_Torn_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-C__MAW-S_The_Torn_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-D__MAW-G_The_Torn_Keystone.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIβ-777",

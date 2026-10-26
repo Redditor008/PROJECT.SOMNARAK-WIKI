@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 183 — OPEN, 3 / 5 (2026-10-26)
+## Batch 183 — OPEN, 4 / 5 (2026-10-26)
+
+**Unit 4 — Cleaved `C-IIβ-775`: HELD.** Eight supported repairs (6 short / 2 careful; 7327→7499 words) return combat and toll grammar to the height, bearing and register: Pugnahan is no longer listed as valid work it elsewhere records as barred since the second cycle; The Falling Masonry no longer hurls an aimed block from a figure that goes for skylines not people; the generic consequences quadruple and toll triad are replaced by the ordered name-loss and the set's three recorded tolls; the Detailed movement row no longer claims pursuit; the codices' terminal bearer-as-site career is answered by the works register; field-use signs are priced by piece; and the template activation paragraph now reads as the lean and the name-loss interval. Week-versus-months disappearance, disc-versus-scope weapon body and Cleaved/Torn Tower naming strata remain held. Batch 125 (pair disposition) and Batch 126 unit 1 (full-SE review) already counted this set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B183_04_CLEAVED.md).
 
 **Unit 3 — Stranded Between Two Shores `C-IVδ-823`: HELD.** Eight supported repairs (6 short / 2 careful; 7315→7423 words) scope Pugnahan out of valid work as a recorded failure, rewrite the first three combat rows from planks/flood/immersion to one-sided working, single-column readings and lost voice contact, fix the inverted At-limit sign, price field-use signs per piece, and return template Resolution/consequences/movement/observation rows to the both-mouths depth record. Apex network manifestations, the one recorded crossing, 19-vs-26 unaccounted and rise-vs-sink verbs remain held. Batch 119 already counted the SE-823 set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B183_03_STRANDED_BETWEEN_TWO_SHORES.md).
 
