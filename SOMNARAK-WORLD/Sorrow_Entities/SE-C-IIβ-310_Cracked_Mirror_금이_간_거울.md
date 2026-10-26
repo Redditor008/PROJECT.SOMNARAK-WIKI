@@ -81,22 +81,22 @@
 |---|---|---|---|---|
 | { *The Distorted Face* [**Debuff**] } | "Your reflection in the cracked glass is wrong — the features are shifted, older, angrier." | [The Mirror distorts the target's self-image through its fractures.] | *Target suffers a Void mark; they do not recognize themselves.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |
 | { *The Fractured Self* [**Debuff**] } | "Each crack shows a different version of you — and none of them agree on who you are." | [The Mirror's cracks multiply the target's identity.] | *Target loses clarity; they cannot find the real self among the reflections.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares at the cracks. |
-| { *The Sharp Edge* [**Attack**] } | "A crack widens into a blade of glass — and it cuts where you are most divided." | [A fracture-blade extends from the Mirror.] | *Inflicts Void damage; the cut severs a fragment of identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
-| { *The Shattering Point* [**Attack**] } | "The crack reaches the centre — and the mirror threatens to come apart along a line that has not lengthened in nineteen tracings." | [The Mirror's own structural failure sends a wave of fractured reflection outward.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mirror is pressured. |
-| { *Total Fracture* [**Ultimate**] } | "The mirror breaks completely — and every shard carries a face that was in the Market that day, asking to be flattered." | [The Mirror gives up the whole surface at once, and the shards go on showing the truth.] | *All in range suffer Void erosion for three turns among the shards.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Sharp Edge* [**Attack**] } | "One truth, held up alone, and the edge of it is where it cuts." | [No blade leaves the glass; nothing here is struck. A single unflattering fragment is returned without its context and lands as the whole account.] | *Inflicts Void pressure as partial truth mistaken for the person; no shard moves and the overlay does not change.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the viewer takes one reflection as the only real self. |
+| { *The Shattering Point* [**Attack**] } | "Forty-seven lines, and not one of them has lengthened in nineteen tracings." | [The mirror does not fail structurally; the wave that goes outward is agreement — the worker begins to find the reflection fair, then useful, then worth showing somebody else.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%, and the timekeeper is the one who ends it.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When looking turns to believing. |
+| { *Total Fracture* [**Ultimate**] } | "The glass is still whole in its case. It is the viewer the edge now covers." | [The object does not break; the affected edge widens across the Market and every face inside it is returned without its presentation.] | *All in range suffer Void erosion for three turns inside the widened edge; the fracture count is retaken against the overlay afterwards and has not changed yet.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** Identification is the mismatch and nothing else qualifies: the glass is cracked across its whole surface and the reflection is not, and no other mirror in the Market does that. The pair confirms the object, sets the edge from the case, and only then takes up its marks.
 2. **Clash:** There is no exchange to manage. The glass shows what it shows for as long as the worker keeps looking, and the only live decision in the session is who calls the end of it.
-3. **Resolution:** The session closes one of three ways — containment, management, retreat — or by the suppression condition the timekeeper's card carries: **the timekeeper calls the end before the worker begins to agree with the glass** — the end is called from outside the session and never by the worker looking.
+3. **Resolution:** There is no suppression condition behind this holding. The session closes on the documented condition — **the timekeeper calls the end before the worker begins to agree with the glass** — the end is called from outside the session and never by the worker looking.
 
 ### Consequences
 
 - A worker who fails to keep their footing under the pressure loses **Composure** and identity cohesion together, and the gauge climbs while the timekeeper is still deciding whether to call it.
-- Extended contact risks Cracked Mirror’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- No M.A.W. activation comes free: the toll is intimate memories, physical sensation and years of life, set out in the equipment specifications and paid in the field.
-- Where resolution is not reached in time, Cracked Mirror falls back on its recorded activation and expansion pattern: containment denied, the unchanneled grief carves its own catastrophic outlet.
+- Extended contact does not stack separate harms either: the recorded endpoint is a worker who has begun to agree with the glass, wants it shown to somebody else, and is losing their own estimate of themselves while it happens. Nothing about the object escalates — the fracture count is the same afterwards as before.
+- No M.A.W. activation comes free. The recorded tolls are the set's own — small nameless memories per use, a wearer's account of themselves thinning by a recorded degree, a bearer who cannot lie convincingly — and the field is where the second worker notices them.
+- Where resolution is not reached in time, nothing catastrophic arrives: the edge keeps widening from the case, stallholders keep reporting sales abandoned mid-sentence, and the next session inherits a worker already part-way to agreeing. The cost of a missed call is measured in metres of Market and in somebody's standing, not in force.
 
 ## Appearance
 **Physical Form:** An ancient mirror cracked across its surface. It shows truth rather than ordinary reflections.
@@ -129,7 +129,7 @@
 - **The Sorrow:** The grief of people unable to face their own truth.
 - **The Event:** Mask Market citizens sought mirrors that would flatter them; one mirror refused and cracked under the burden.
 - **The People:** The citizens of the Mask Market who wanted flattering glass, and whoever made this one. The commissioning material is commercial — the trade, the prices, the workshops that supplied it — and shows an ordinary market meeting an ordinary demand, which the archivist's note says is the point of including it.
-- **Expanded origin context:** The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity consistently perform better in containment operations. They are more patient. More observant. More willing to listen. The entity has taught them something the city could not: that sorrow, when acknowledged, becomes strength.
+- **Expanded origin context:** The stock that mattered was never the mirrors alone but the demand behind them: an ordinary market, ordinary workshops, ordinary prices, and one workshop's glass that would not do what glass was expected to do there. The commissioning material shows the trade running normally on either side of the refusal, which is why the archivist keeps it — the holding was not made by a conspiracy or a catastrophe but by a city asking, reasonably, not to be shown itself.
 
 ## Behavior
 
@@ -274,7 +274,7 @@ The set is drawn from the frame and the corrosion rather than from the glass, wh
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, and a dated baseline of what the wielder can still name unprompted; the cost on file for this set is the small, nameless kind. |
-| **During use** | Charging shows as a gap opening where a word used to sit: the wielder reaches for it and finds nothing, and the second worker notes the hour rather than asking about it. |
+| **During use** | The first sign is priced by piece and the second worker notes the hour rather than asking: a gap opening where a word used to sit and the wielder finding nothing; a wearer absent from every version the panels show; or a bearer beginning to announce truths without consent or purpose. None of the three is ever reported by the person showing it. |
 | **At limit** | The toll runs continuously rather than in episodes, and the sign of the limit is that the wearer stops being able to describe themselves at all; the second worker's call then outranks the wielder's. |
 | **After use** | Return the piece and open the sealed baseline: if the absence outlasted the rotation, the answer goes in whether or not the wielder agrees, and the piece stays in the armoury for a quarter. |
 
@@ -342,7 +342,7 @@ The Mirror shows your face, then removes it. Beneath the face is fear, exhaustio
 
 **When the entity activates:** Activation is a direct gaze and nothing else: the glass returns the viewer without the presentation and runs until somebody looks away, and the end is called from outside by the timekeeper holding the clock. The edge is re-measured from the case, the overlay is refreshed, and the counsellor is offered without being required.
 
-**After departure:** After contact, the body holds what the mind files away. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** The cloth goes back on, the edge is remeasured from the case, and the session is entered as duration, fracture count and who called the end. What the glass showed stays with the person who stood in front of it — under their own name if they choose to write it, and not at all if they do not.
 
 ### Interaction Pattern
 

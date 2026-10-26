@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 183 — OPEN, 4 / 5 (2026-10-26)
+## Batch 183 — OPEN, 5 / 5 (2026-10-26)
+
+**Unit 5 — Cracked Mirror `C-IIβ-310`: HELD.** Eight supported repairs (6 short / 2 careful; 7328→7524 words) return the attack tier from fracture-blades and complete shattering to the only two measurements that move here — agreement and the widening edge; the template Resolution splice, consequences quadruple/triad/outlet, symbolic expanded origin and after-departure paragraph give way to the timekeeper's call, the set's three tolls, the ordinary flattering-glass trade, and cloth-edge-duration-no-content. Two-Truth-Lens naming, voluntary-versus-timekeeper resolution and three-way stigma scoping remain held. Batch 133 already counted the SE-310 set (Weapon+1) inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B183_05_CRACKED_MIRROR.md).
 
 **Unit 4 — Cleaved `C-IIβ-775`: HELD.** Eight supported repairs (6 short / 2 careful; 7327→7499 words) return combat and toll grammar to the height, bearing and register: Pugnahan is no longer listed as valid work it elsewhere records as barred since the second cycle; The Falling Masonry no longer hurls an aimed block from a figure that goes for skylines not people; the generic consequences quadruple and toll triad are replaced by the ordered name-loss and the set's three recorded tolls; the Detailed movement row no longer claims pursuit; the codices' terminal bearer-as-site career is answered by the works register; field-use signs are priced by piece; and the template activation paragraph now reads as the lean and the name-loss interval. Week-versus-months disappearance, disc-versus-scope weapon body and Cleaved/Torn Tower naming strata remain held. Batch 125 (pair disposition) and Batch 126 unit 1 (full-SE review) already counted this set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B183_04_CLEAVED.md).
 

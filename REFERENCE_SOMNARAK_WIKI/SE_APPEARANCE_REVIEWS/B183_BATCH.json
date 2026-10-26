@@ -2,7 +2,7 @@
   "batch": 183,
   "status": "OPEN",
   "required": 5,
-  "completed": 4,
+  "completed": 5,
   "no_change": 0,
   "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_OPEN.json",
   "units": [
@@ -617,6 +617,159 @@
       "integrity": {
         "unselected_primary_unchanged": 300,
         "remaining_pending_fingerprints_unchanged": 106,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10
+      }
+    },
+    {
+      "designation": "C-IIβ-310",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-310_Cracked_Mirror_금이_간_거울.md",
+      "words": 7328,
+      "sha256": "53f1473070882f8dfc5c0ac83cb87f08027ab5af1c3a0039d62808eb40f3334f",
+      "unit": 5,
+      "name": "Cracked Mirror",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_05_CRACKED_MIRROR.md",
+      "before_words": 7328,
+      "after_words": 7524,
+      "base": "3a145310448d38945517bd0c7e70a6af18f390a9",
+      "final_sha256": "9bfca4a6decce3cde4e3667a6fdc2af8d7d0ee654bb4640c9a0a1e2a8271cd87",
+      "summary": "Eight supported repairs bring the leftover shattering grammar back to an object that has not added a fracture in nineteen tracings: the three attack rows stop growing fracture-blades 'when the Mirror is struck', suffering structural failure and breaking completely into shards — pressure now lands as a single truth taken for the whole person, looking turning to agreement, and the widening edge itself — the template Resolution splice ('closes one of three ways — containment, management, retreat — or by the suppression condition') is replaced by the timekeeper's call, the stocked consequences quadruple, toll triad and 'catastrophic outlet' give way to the agreement endpoint, the set's three recorded tolls and metres of Market, the symbolic expanded-origin paragraph ('sorrow becomes strength; specialists perform better') is replaced by the ordinary trade that made the holding, field-use signs are priced by piece, and the template after-departure paragraph now ends where the file ends: cloth, edge, duration, no content. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The phrasing debate is the whole file in miniature: a neutral formulation was drafted and rejected because it described a mirror failing when what happened was a mirror refusing. Everything disciplined in this dossier follows from that verb — nothing seen in the glass has a field anywhere, four explained refusals are issued over the commander's own name, and the advocates' objection stays on the minute as 'correct, and no answer is attempted'. The two frozen series are the truth of it: forty-seven fracture lines that never change, and an edge that never stops widening.",
+      "reasoning": "R-33 chain: Object/Place I-Relic / Echo-II / Moderate-β / Object-Void → Mask Market demand for flattering glass met by one mirror that refused and cracked under the strain → a stationary mirror in a case, reflection uncracked, showing the viewer without the presentation for as long as the gaze lasts → work is Viderehan and Ferrehan only because Objects cannot be wept at or confronted; the escalation is the worker's agreement, ended from outside by the timekeeper → no breach counter: the event is gaze and edge, measured as overlay count, edge distance, duration and who called the end → equipment is drawn from frame and corrosion, not the glass, and declines to improve what it is pointed at. Repairs remove the struck/blade/shattering physics the chain cannot carry; the lens-disc-versus-pendant double naming, unbounded-gaze-versus-25% resolution and Stigma-scope tiering remain HELD.",
+      "history": "Batch 133 unit 2 (667449c) performed the full-set care review preserved throughout the primary (harmful-deception target limit, disc care, panel care, pendant release), explicitly crediting 'Full-set care; Weapon+1' for SE-310 inside the ledger legacy baseline, moving 7,018→7,328 words. B183 therefore earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+      "holds": [
+        "Two Truth Lenses share one name and must not be merged: the Weapon is a Void Han-glass disc showing one contradiction across a fracture line; the Stigma is a warm head-pendant showing hairline fractures across deceptive statements. Master Entries 157 and 159 and Registry rows 596/598 carry the same double naming. They agree in grade and element and differ in body, slot, bestowal and failure grammar; no cross-reference of them was normalised here.",
+        "Resolution tiers disagree on ending: Side A's management page ends 'gaze voluntarily or with partner support and lower Gauge below 25%', while the primary recognises only the timekeeper's call from outside and records that leaving the ending to the worker's own judgement extracts the Void trauma on file. Side A also states force 'widens fracture blades' — inherited combat grammar the primary no longer carries after this repair, and itself contradicted by nineteen tracings in which nothing added a fracture. Both records stand.",
+        "Extraction/meta physics stay forked: Side A's set forms as crack-light ('Light shed by an existing crack may be shaped; no shard is removed'), items B–D form/condense/are granted after bounded looking, while the primary's Use Notes draw the set 'from the frame and the corrosion rather than from the glass'. These are compatible in outcome and different in mechanism; no single mechanism was imposed.",
+        "The Stigma's +1 stays scoped three ways ('+1 stat bonus while working Cracked Mirror in the Market case' locally; '+1 Composure during source work' in Side/item D; unnamed working stat in nothing here because it is named Composure in item D), and the Log-and-Method table's fixed benefits (+10% Void resistance; 5 Void damage every 15 seconds past a minute) remain a local stair against the activation record's gaze-until-look-away. Vessel-Destructible Yes with a ~10–100 kg dust drop also stands formally against Entry 4's 'It cannot be broken further by ordinary force' and the Department's decision that the glass will not be cut."
+      ],
+      "split": [
+        6,
+        2
+      ],
+      "repairs": [
+        {
+          "id": "combat_attack_rows",
+          "kind": "careful-detail",
+          "old": "| { *The Sharp Edge* [**Attack**] } | \"A crack widens into a blade of glass — and it cuts where you are most divided.\" | [A fracture-blade extends from the Mirror.] | *Inflicts Void damage; the cut severs a fragment of identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mirror is struck. |\n| { *The Shattering Point* [**Attack**] } | \"The crack reaches the centre — and the mirror threatens to come apart along a line that has not lengthened in nineteen tracings.\" | [The Mirror's own structural failure sends a wave of fractured reflection outward.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mirror is pressured. |\n| { *Total Fracture* [**Ultimate**] } | \"The mirror breaks completely — and every shard carries a face that was in the Market that day, asking to be flattered.\" | [The Mirror gives up the whole surface at once, and the shards go on showing the truth.] | *All in range suffer Void erosion for three turns among the shards.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Sharp Edge* [**Attack**] } | \"One truth, held up alone, and the edge of it is where it cuts.\" | [No blade leaves the glass; nothing here is struck. A single unflattering fragment is returned without its context and lands as the whole account.] | *Inflicts Void pressure as partial truth mistaken for the person; no shard moves and the overlay does not change.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the viewer takes one reflection as the only real self. |\n| { *The Shattering Point* [**Attack**] } | \"Forty-seven lines, and not one of them has lengthened in nineteen tracings.\" | [The mirror does not fail structurally; the wave that goes outward is agreement — the worker begins to find the reflection fair, then useful, then worth showing somebody else.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%, and the timekeeper is the one who ends it.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When looking turns to believing. |\n| { *Total Fracture* [**Ultimate**] } | \"The glass is still whole in its case. It is the viewer the edge now covers.\" | [The object does not break; the affected edge widens across the Market and every face inside it is returned without its presentation.] | *All in range suffer Void erosion for three turns inside the widened edge; the fracture count is retaken against the overlay afterwards and has not changed yet.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+        },
+        {
+          "id": "battle_resolution_splice",
+          "kind": "short",
+          "old": "3. **Resolution:** The session closes one of three ways — containment, management, retreat — or by the suppression condition the timekeeper's card carries: **the timekeeper calls the end before the worker begins to agree with the glass** — the end is called from outside the session and never by the worker looking.",
+          "new": "3. **Resolution:** There is no suppression condition behind this holding. The session closes on the documented condition — **the timekeeper calls the end before the worker begins to agree with the glass** — the end is called from outside the session and never by the worker looking."
+        },
+        {
+          "id": "consequences_quadruple",
+          "kind": "short",
+          "old": "- Extended contact risks Cracked Mirror’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.",
+          "new": "- Extended contact does not stack separate harms either: the recorded endpoint is a worker who has begun to agree with the glass, wants it shown to somebody else, and is losing their own estimate of themselves while it happens. Nothing about the object escalates — the fracture count is the same afterwards as before."
+        },
+        {
+          "id": "consequences_toll_triad",
+          "kind": "short",
+          "old": "- No M.A.W. activation comes free: the toll is intimate memories, physical sensation and years of life, set out in the equipment specifications and paid in the field.",
+          "new": "- No M.A.W. activation comes free. The recorded tolls are the set's own — small nameless memories per use, a wearer's account of themselves thinning by a recorded degree, a bearer who cannot lie convincingly — and the field is where the second worker notices them."
+        },
+        {
+          "id": "consequences_outlet",
+          "kind": "short",
+          "old": "- Where resolution is not reached in time, Cracked Mirror falls back on its recorded activation and expansion pattern: containment denied, the unchanneled grief carves its own catastrophic outlet.",
+          "new": "- Where resolution is not reached in time, nothing catastrophic arrives: the edge keeps widening from the case, stallholders keep reporting sales abandoned mid-sentence, and the next session inherits a worker already part-way to agreeing. The cost of a missed call is measured in metres of Market and in somebody's standing, not in force."
+        },
+        {
+          "id": "origin_expanded_boilerplate",
+          "kind": "short",
+          "old": "- **Expanded origin context:** The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity consistently perform better in containment operations. They are more patient. More observant. More willing to listen. The entity has taught them something the city could not: that sorrow, when acknowledged, becomes strength.",
+          "new": "- **Expanded origin context:** The stock that mattered was never the mirrors alone but the demand behind them: an ordinary market, ordinary workshops, ordinary prices, and one workshop's glass that would not do what glass was expected to do there. The commissioning material shows the trade running normally on either side of the refusal, which is why the archivist keeps it — the holding was not made by a conspiracy or a catastrophe but by a city asking, reasonably, not to be shown itself."
+        },
+        {
+          "id": "field_use_during_split",
+          "kind": "careful-detail",
+          "old": "| **During use** | Charging shows as a gap opening where a word used to sit: the wielder reaches for it and finds nothing, and the second worker notes the hour rather than asking about it. |",
+          "new": "| **During use** | The first sign is priced by piece and the second worker notes the hour rather than asking: a gap opening where a word used to sit and the wielder finding nothing; a wearer absent from every version the panels show; or a bearer beginning to announce truths without consent or purpose. None of the three is ever reported by the person showing it. |"
+        },
+        {
+          "id": "after_departure_flavor",
+          "kind": "short",
+          "old": "**After departure:** After contact, the body holds what the mind files away. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.",
+          "new": "**After departure:** The cloth goes back on, the edge is remeasured from the case, and the session is entered as duration, fracture count and who called the end. What the glass showed stays with the person who stood in front of it — under their own name if they choose to write it, and not at all if they do not."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIβ-310_Cracked_Mirror_금이_간_거울.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.041  clean    49 grams  Operational Parameters\n 0.019  clean   593 grams  Combat Record\n 0.006  clean   717 grams  M.A.W. Equipment\n 0.002  clean   451 grams  Activation Behavior\n 0.001  clean   682 grams  감각 묘사 (Flavor Text)\n 0.000  clean   830 grams  Watch Record\n 0.000  clean   389 grams  이야기 (Narratio)\n 0.000  clean   291 grams  기록 (Registrum)\n 0.000  clean   268 grams  관찰 기록 (Observation Log)\n 0.000  clean   229 grams  Appearance\n 0.000  clean   172 grams  Trivia\n 0.000  clean   140 grams  Origin\n 0.000  clean   140 grams  Behavior\n 0.000  clean   136 grams  이야기 보고 (Story Log)\n 0.000  clean    83 grams  최종 관찰 (Final Observation)\n 0.000  clean    44 grams  SECC Classification\n 0.000  clean    35 grams  증언 (Testimonium)\n 0.000  THIN      1 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   56   1  | **Resistance** | 25% against Void pressure, 15% against other pressure types — read from the case; nothing here has ever been me\n   82   1  | { *The Distorted Face* [**Debuff**] } | \"Your reflection in the cracked glass is wrong — the features are shifted, older, angrie\n   83   1  | { *The Fractured Self* [**Debuff**] } | \"Each crack shows a different version of you — and none of them agree on who you are.\" |\n   85   1  | { *The Shattering Point* [**Attack**] } | \"Forty-seven lines, and not one of them has lengthened in nineteen tracings.\" | [The m\n   86   8  | { *Total Fracture* [**Ultimate**] } | \"The glass is still whole in its case. It is the viewer the edge now covers.\" | [The objec\n  155   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  222   2  **Ability:** Deals Void damage against the Soul — identity, memory, the sense of self — and it declines to improve what it is poin\n  234   1  **Appearance:** a flowing veil of Void Han-gossamer, colourless and barely there at arm's length, that shifts with the wearer and \n  276   1  | **Before use** | Wielder, piece, and a dated baseline of what the wielder can still name unprompted; the cost on file for this s\n  351   1  **Interaction method:** Baseline each party alone first. The relations on file concern reflection, concealment and truth-telling, \nGENERIC 0.004  (20 shared shingles)  SE-C-IIβ-310_Cracked_Mirror_금이_간_거울.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-A__SIDE_CODEX_Cracked_Mirror.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-B__MAW-W_The_Truth_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-C__MAW-S_The_Truth_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-D__MAW-G_The_Truth_Lens.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-A__SIDE_CODEX_Cracked_Mirror.md": "54febc01aff9b3a996b48f96cf8677bff2d2ffe225cb576a6c5765327f0738c0",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-B__MAW-W_The_Truth_Lens.md": "bf031d97aa04bd527ae3ccd45fafe208267b4ae04df3bef5a378b9eec75c2bbf",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-C__MAW-S_The_Truth_Veil.md": "40f389fd383e8c98f98ed5afabdeafb836a57b9cf0da5a14c5f0bbbe647d6a77",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-D__MAW-G_The_Truth_Lens.md": "a7d5b63ac607273e69f82c9d8856286cf3f5a1cce90f1697ff3f53508cbec9d4",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIβ-310_Cracked_Mirror_금이_간_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-310_Cracked_Mirror_%EA%B8%88%EC%9D%B4_%EA%B0%84_%EA%B1%B0%EC%9A%B8.md \"SE-C-IIβ-310_Cracked_Mirror_금이_간_거울.md\")]",
+      "table_link": "[Cracked_Mirror](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-310_Cracked_Mirror_%EA%B8%88%EC%9D%B4_%EA%B0%84_%EA%B1%B0%EC%9A%B8.md \"SE-C-IIβ-310_Cracked_Mirror_금이_간_거울.md\")",
+      "reading": {
+        "before_lines": 481,
+        "before_bytes": 44584,
+        "final_lines": 481,
+        "final_bytes": 45581
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 105,
         "physical_form_rows_unchanged": 301,
         "tale_unchanged": true,
         "digit_sequences_unchanged": true,

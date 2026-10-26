@@ -76,6 +76,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIβ-310": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_05_CRACKED_MIRROR.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -1425,8 +1437,29 @@
     {
       "designation": "C-IIβ-310",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-310_Cracked_Mirror_금이_간_거울.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Eight supported repairs bring the leftover shattering grammar back to an object that has not added a fracture in nineteen tracings: the three attack rows stop growing fracture-blades 'when the Mirror is struck', suffering structural failure and breaking completely into shards — pressure now lands as a single truth taken for the whole person, looking turning to agreement, and the widening edge itself — the template Resolution splice ('closes one of three ways — containment, management, retreat — or by the suppression condition') is replaced by the timekeeper's call, the stocked consequences quadruple, toll triad and 'catastrophic outlet' give way to the agreement endpoint, the set's three recorded tolls and metres of Market, the symbolic expanded-origin paragraph ('sorrow becomes strength; specialists perform better') is replaced by the ordinary trade that made the holding, field-use signs are priced by piece, and the template after-departure paragraph now ends where the file ends: cloth, edge, duration, no content. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_05_CRACKED_MIRROR.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-A__SIDE_CODEX_Cracked_Mirror.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-B__MAW-W_The_Truth_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-C__MAW-S_The_Truth_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-D__MAW-G_The_Truth_Lens.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIβ-330",

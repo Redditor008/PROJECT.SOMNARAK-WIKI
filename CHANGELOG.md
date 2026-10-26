@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 183 — OPEN, 4 / 5 (2026-10-26)
+## Batch 183 — OPEN, 5 / 5 (2026-10-26)
+
+**Unit 5 — Cracked Mirror `C-IIβ-310`: HELD.** Eight supported repairs (6 short / 2 careful; 7328→7524 words) return the attack tier to agreement and the widening edge. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_05_CRACKED_MIRROR.md). Batch 133 already counted the SE-310 set inside the legacy baseline: +0/+0/+0. Completed 5/5; No change 0/2; held 176 / pending 105. Batch 183's five-dossier floor is met; closure follows in the same owner prompt.
 
 **Unit 4 — Cleaved `C-IIβ-775`: HELD.** Eight supported repairs (6 short / 2 careful; 7327→7499 words) return combat and toll grammar to the height, bearing and register. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_04_CLEAVED.md). Batches 125/126 already counted the SE-775 set inside the legacy baseline: +0/+0/+0. Completed 4/5; No change 0/2; held 175 / pending 106. Next is Cracked Mirror `C-IIβ-310`.
 
