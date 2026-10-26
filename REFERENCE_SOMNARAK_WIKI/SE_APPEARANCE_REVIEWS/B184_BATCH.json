@@ -1,6 +1,6 @@
 {
   "batch": 184,
-  "status": "OPEN",
+  "status": "CLOSED",
   "required": 5,
   "completed": 5,
   "no_change": 0,
@@ -728,5 +728,6 @@
         "source_files_unchanged": 10
       }
     }
-  ]
+  ],
+  "completed_units": 5
 }

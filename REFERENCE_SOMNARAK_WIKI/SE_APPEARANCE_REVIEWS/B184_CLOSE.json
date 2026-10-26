@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "batch": 184,
+  "status": "CLOSED",
+  "completed_units": 5,
+  "required_units": 5,
+  "results": [
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD"
+  ],
+  "no_change_units": 0,
+  "repair_count": 32,
+  "short_repairs": 26,
+  "careful_repairs": 6,
+  "before_words": 36824,
+  "after_words": 37726,
+  "fresh_validators_pass": 25,
+  "fresh_validators_total": 25,
+  "exact_reconstruction": 5,
+  "pending_fingerprints_checked": 100,
+  "pending_fingerprints_unchanged": 100,
+  "source_changes": 0,
+  "unit_tools_tests": "54/54 PASS",
+  "audits": "PASS",
+  "final_words": {
+    "O-IVδ-851": 7522,
+    "O-Iα-754": 7516,
+    "C-Vδ-010": 7563,
+    "N-IIIγ-447": 7553,
+    "C-IIβ-280": 7572
+  },
+  "counters": {
+    "types": "271/301",
+    "weapon": "269/287",
+    "se_appearance_fix": "18/301"
+  },
+  "ledger": {
+    "changed": 14,
+    "retained": 4,
+    "held": 181,
+    "blocked": 2,
+    "pending": 100
+  },
+  "taless_sha256": "sha256 hashes equal between pre-B184 unit1 parent closure baseline and final",
+  "next": "Batch 185 opens on a fresh C-locale ranking of the 100 pending dossiers, in this prompt."
+}

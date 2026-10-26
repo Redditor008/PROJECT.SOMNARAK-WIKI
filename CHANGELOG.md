@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 184 — OPEN, 5 / 5 (2026-10-26)
+## Batch 184 — CLOSED, 5 / 5 (2026-10-26)
+
+Five HELD; No change 0; 32 repairs; validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; [closure record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_CLOSE.md). Types 271/301 · Weapon 269/287 · SE Fix 18/301; held 181 / pending 100. Batch 185 opens next.
 
 **Unit 5 — Pall `C-IIβ-280`: HELD.** Four supported repairs (3 short / 1 careful; 7384→7572 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_05_PALL.md). Batches 79/107 already counted set 280: +0/+0/+0. Completed 5/5; No change 0; held 181 / pending 100. Closure follows in this prompt (five floor / ten ceiling).
 

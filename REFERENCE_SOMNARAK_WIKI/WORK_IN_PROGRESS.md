@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 184 — OPEN, 5 / 5 (2026-10-26)
+## Batch 184 — CLOSED, 5 / 5 (2026-10-26)
+
+Fresh validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; no source changes. 32 repairs; No change 0; Types 271/301 · Weapon 269/287 · SE Fix 18/301. [Closure record](SE_APPEARANCE_REVIEWS/B184_CLOSE.md). Batch 185 follows in this prompt.
 
 **Unit 5 — Pall `C-IIβ-280`: HELD.** Four supported repairs (3 short / 1 careful; 7384→7572 words): combat's worn-veil rows become unnoticed dulling and shortening notes; the Termination row no longer tells the wearer to lift the veil themselves; the exposure paragraph becomes the load cell and the notes; a stray Story Log line becomes the wearer list. Batches 79/107 already counted set 280: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B184_05_PALL.md).
 
