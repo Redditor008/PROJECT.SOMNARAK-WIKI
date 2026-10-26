@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 184 — OPEN, 1 / 5 (2026-10-26)
+## Batch 184 — OPEN, 2 / 5 (2026-10-26)
+
+**Unit 2 — Thralldom `O-Iα-754`: HELD.** Eight supported repairs (7 short / 1 careful; 7359→7516 words) remove the prey-hunting breach burst, wall-cracking anger, 'wave of pure malice', self-splitting Ultimate and template Observation rows, and keep barred Pugnahan out of the valid-work row. Batch 132 already dispositioned exact set 754 inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B184_02_THRALLDOM.md).
 
 **Unit 1 — Shard of a Broken Promise `O-IVδ-851`: HELD.** Six supported repairs (5 short / 1 careful; 7340→7522 words) return the combat tier from a launched, burrowing shard to the hum it has been for fourteen years, replace the template retreat close, the liquid-boilerplate movement row, the spec-sheet toll tail, the standard-protocols filler and the stock exposure paragraph. First whole-set disposition (Batch 72 only rewrote the addendum): **fresh +1 Types / +1 Weapon**, +0 SE. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B184_01_SHARD_OF_A_BROKEN_PROMISE.md).
 

@@ -40,6 +40,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-Iα-754": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_02_THRALLDOM.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -6196,8 +6208,29 @@
     {
       "designation": "O-Iα-754",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-754_Thralldom_떠도는_사슬.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Eight supported repairs return the leftover monster grammar to a restraint that has never chased anybody: the Valid Work Types row stops offering Pugnahan the file bars absolutely; the Ultimate no longer splits one continuous chain into roaming lengths hunting every ankle — it stays one length closing toward a loop wherever somebody has taken hold; the template Resolution splice gives way to 'Do not bind it; offer an unforced ending'; the breach table's prey-hunting burst, wall-cracking anger and 'wave of pure malice' become the ordinary crawl, bind-don't-wound injury rule and compulsion-that-presents-as-loyalty; and the two stock Observation rows now carry the configuration, the 61-78-96 mark series and the count-from-four. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_02_THRALLDOM.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-754-A__SIDE_CODEX_Thralldom.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-754-B__MAW-W_The_Wandering_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-754-C__MAW-S_The_Wandering_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-754-D__MAW-G_The_Wandering_Link.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-Iα-794",

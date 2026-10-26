@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 184 — OPEN, 1 / 5 (2026-10-26)
+## Batch 184 — OPEN, 2 / 5 (2026-10-26)
+
+**Unit 2 — Thralldom `O-Iα-754`: HELD.** Eight supported repairs (7 short / 1 careful; 7359→7516 words) return the breach and combat grammar to the open length, the count from four and the mark series. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_02_THRALLDOM.md). Batch 132 already counted exact set 754 inside the legacy baseline: +0/+0/+0. Completed 2/5; No change 0; held 178 / pending 103. Next is The Convergence `C-Vδ-010`.
 
 **Unit 1 — Shard of a Broken Promise `O-IVδ-851`: HELD.** Six supported repairs (5 short / 1 careful; 7340→7522 words) return combat to the 112-hertz hum and the declaration book. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_01_SHARD_OF_A_BROKEN_PROMISE.md). First whole-set disposition: **fresh +1 Types / +1 Weapon**, +0 SE. Completed 1/5; No change 0; held 177 / pending 104; counters 271/301 and 269/287. Next is Thralldom `O-Iα-754`.
 
