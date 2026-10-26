@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 185 — OPEN, 2 / 5 (2026-10-26)
+## Batch 185 — OPEN, 3 / 5 (2026-10-26)
+
+**Unit 3 — Mourner's Bloom `C-Iα-330`: HELD.** Six supported repairs (5 short / 1 careful; 7433→7541 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_03_MOURNERS_BLOOM.md). The 2026-10-12 full-set review already counted set 1032: +0/+0/+0. Completed 3/5; No change 0; held 184 / pending 97.
 
 **Unit 2 — Candela `C-IVδ-165`: HELD.** Six supported repairs (5 short / 1 careful; 7422→7609 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_02_CANDELA.md). Batch 116 already counted set 165: +0/+0/+0. Completed 2/5; No change 0; held 183 / pending 98.
 

@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Iα-330": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_03_MOURNERS_BLOOM.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2769,8 +2781,29 @@
     {
       "designation": "C-Iα-330",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-330_Mourner's_Bloom_슬픔의_꽃.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Six supported repairs (5 short / 1 careful) leave the 2026-10-12 full-set review and its holds untouched and clear the template text around them: combat's first four rows stop scent-overwhelming, pollen-striking and picking the bloom — they now run on the register, the vault's date-shed catalogue, the two-metre moment-taking and a count that stops at the gardener's first petal; the corridor fail-safe consequence, the generic 'visible color, texture' field, the meta activation paragraph and two stock Flavor blocks give way to the file's own figures (forty-one held, the seventy-two-hour rotation, the claimant who cannot find the gap). Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_03_MOURNERS_BLOOM.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1032_Mourner_s_Bloom/SE-1032-A__SIDE_CODEX_Mourner_s_Bloom.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1032_Mourner_s_Bloom/SE-1032-B__MAW-W_The_Sorrow_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1032_Mourner_s_Bloom/SE-1032-C__MAW-S_The_Sorrow_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1032_Mourner_s_Bloom/SE-1032-D__MAW-G_The_Sorrow_Petal.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Iα-392",
