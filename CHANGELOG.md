@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 183 — OPEN, 2 / 5 (2026-10-26)
+## Batch 183 — OPEN, 3 / 5 (2026-10-26)
+
+**Unit 3 — Stranded Between Two Shores `C-IVδ-823`: HELD.** Eight supported repairs (6 short / 2 careful; 7315→7423 words) return combat and field-use signs to both mouths and the depth log. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_03_STRANDED_BETWEEN_TWO_SHORES.md). Batch 119 already counted the SE-823 set inside the legacy baseline: +0/+0/+0. Completed 3/5; No change 0/2; held 174 / pending 107. Next is Cleaved `C-IIβ-775`.
 
 **Unit 2 — Echo of Kindness `C-Iα-240`: HELD.** Ten supported repairs (7 short / 3 careful; 7313→7373 words) return combat, consequences and field-use signs to the count book's 61/44/29 series and restore the missing Observation Log heading. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_02_ECHO_OF_KINDNESS.md). Batch 102 already counted the SE-1022 set inside the legacy baseline: +0/+0/+0. Completed 2/5; No change 0/2; held 173 / pending 108. Next is Stranded Between Two Shores `C-IVδ-823`.
 

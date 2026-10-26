@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 183 — OPEN, 2 / 5 (2026-10-26)
+## Batch 183 — OPEN, 3 / 5 (2026-10-26)
+
+**Unit 3 — Stranded Between Two Shores `C-IVδ-823`: HELD.** Eight supported repairs (6 short / 2 careful; 7315→7423 words) scope Pugnahan out of valid work as a recorded failure, rewrite the first three combat rows from planks/flood/immersion to one-sided working, single-column readings and lost voice contact, fix the inverted At-limit sign, price field-use signs per piece, and return template Resolution/consequences/movement/observation rows to the both-mouths depth record. Apex network manifestations, the one recorded crossing, 19-vs-26 unaccounted and rise-vs-sink verbs remain held. Batch 119 already counted the SE-823 set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B183_03_STRANDED_BETWEEN_TWO_SHORES.md).
 
 **Unit 2 — Echo of Kindness `C-Iα-240`: HELD.** Ten supported repairs (7 short / 3 careful; 7313→7373 words) return combat and consequences from blade/wound/Fracture grammar to comfort received, the declining count and one's own voice returned, split field-use signs across weeping, numbness and refused kindness, re-anchor generic flavor/review/trivia seams in the 61/44/29 series, and restore the missing Observation Log heading (pre-existing wikistd parity failure). Spoken-word vs wordless-feeling return, three-way weapon identity and codices' first-bearer hazard histories remain held. Batch 102 already counted the identity-resolved SE-1022 set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B183_02_ECHO_OF_KINDNESS.md).
 

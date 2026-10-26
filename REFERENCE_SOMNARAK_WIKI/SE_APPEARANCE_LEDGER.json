@@ -52,6 +52,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVδ-823": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_03_STRANDED_BETWEEN_TWO_SHORES.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2180,8 +2192,29 @@
     {
       "designation": "C-IVδ-823",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-823_Stranded_Between_Two_Shores_가라앉은_다리.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Eight supported repairs bring the leftover flood grammar back to the depth log: the Valid Work Types row no longer offers Pugnahan it elsewhere records as a failure, the first three combat rows stop stepping targets onto planks, narrowing their footing and wounding them with immersion — pressure now lands as one-sided working, a single-column reading and lost voice contact, joining the depth-aware Undertow and Final Crossing rows a prior pass left intact — the template Resolution splice and 'psychological matrix' consequences line are replaced by the both-columns condition, the Detailed movement row records fixed-in-plan/moving-in-depth instead of structure boilerplate, field-use signs are priced by piece and its inverted At-limit line ('stops leaving things at the halfway mark') is set right, and the template opening of Initial exposure is removed. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_03_STRANDED_BETWEEN_TWO_SHORES.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-A__SIDE_CODEX_Stranded_Between_Two_Shores.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-B__MAW-W_The_Crossing_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-C__MAW-S_The_Crossing_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-D__MAW-G_The_Crossing_Chain.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-869",

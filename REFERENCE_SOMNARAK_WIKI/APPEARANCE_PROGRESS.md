@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch183 OPEN 2/5.** Bridge to Nowhere and Echo of Kindness HELD after 6 and 10 supported repairs; No change 0/2. Latest: [Echo of Kindness evidence](SE_APPEARANCE_REVIEWS/B183_02_ECHO_OF_KINDNESS.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)). Counters: 270/301 Types, 268/287 Weapon, 18/301 SE; held 173 / pending 108.
+**Latest: Batch183 OPEN 3/5.** Three HELD reviews (6, 10 and 8 repairs); No change 0/2. Latest: [Stranded Between Two Shores evidence](SE_APPEARANCE_REVIEWS/B183_03_STRANDED_BETWEEN_TWO_SHORES.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)). Counters: 270/301 Types, 268/287 Weapon, 18/301 SE; held 174 / pending 107.
 
 **Previous: Batch182 CLOSED 5/5.** Five HELD reviews, 41 supported repairs, No change 0/5. The Final Door earns the batch's only fresh equipment credit, +1 Types / +1 Weapon. [Close report](SE_APPEARANCE_REVIEWS/B182_CLOSE.md).
 

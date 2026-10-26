@@ -2,7 +2,7 @@
   "batch": 183,
   "status": "OPEN",
   "required": 5,
-  "completed": 2,
+  "completed": 3,
   "no_change": 0,
   "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_OPEN.json",
   "units": [
@@ -313,6 +313,160 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 10,
         "digit_sequence_change": "Digits added are only the file's own count series 61/44/29 restated in the combat, consequences and flavor seams; no digit removed and no combat or equipment number changed."
+      }
+    },
+    {
+      "designation": "C-IVδ-823",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-823_Stranded_Between_Two_Shores_가라앉은_다리.md",
+      "words": 7315,
+      "sha256": "b53636b343d645565b56801b5c735354ae60876302716660f52ea0291b0075ba",
+      "unit": 3,
+      "name": "Stranded Between Two Shores",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_03_STRANDED_BETWEEN_TWO_SHORES.md",
+      "before_words": 7315,
+      "after_words": 7423,
+      "base": "cf5e0436ec0b666ce5175d610fb2deba841d87c8",
+      "final_sha256": "219a51dc15199394a16f8f15413e07ff4f737535821a05c18259a71f4f4ac041",
+      "summary": "Eight supported repairs bring the leftover flood grammar back to the depth log: the Valid Work Types row no longer offers Pugnahan it elsewhere records as a failure, the first three combat rows stop stepping targets onto planks, narrowing their footing and wounding them with immersion — pressure now lands as one-sided working, a single-column reading and lost voice contact, joining the depth-aware Undertow and Final Crossing rows a prior pass left intact — the template Resolution splice and 'psychological matrix' consequences line are replaced by the both-columns condition, the Detailed movement row records fixed-in-plan/moving-in-depth instead of structure boilerplate, field-use signs are priced by piece and its inverted At-limit line ('stops leaving things at the halfway mark') is set right, and the template opening of Initial exposure is removed. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The strongest small fact in this batch so far: for nine years the crossing list printed only the twenty-six who could not be accounted for, because the thirty-one had walked home — and the span descended faster in those nine years than in the thirty since somebody added the second column. 'Now count the other' in the Director's margin is the whole containment doctrine in four words. What let the file down was residue: planks, floods and immersion wounds in a tunnel whose only real figure is depth against a datum.",
+      "reasoning": "R-33 chain: Subject-Lament / Entity-IV / Critical-δ → a tunnel bridge collapsed in a Han surge with families mid-crossing; the first list counted only one shore → a weeping rib-arched span over continuous surveyed floor, fixed in plan and sinking in depth → work from both mouths at once, both columns named aloud; one-sided working is the escalation → event is zone corruption: weeping, voices, descent, ended by paired naming without anyone crossing → equipment lends the two-ended posture at the price of weeping, flat arrivals and everyone else's grief. Repairs remove immersion/flood claims the chain cannot carry; the Apex Record's network manifestations, one recorded crossing, and nineteen-vs-twenty-six accounting remain HELD.",
+      "history": "Batch 119 unit 1 (commit fa0810d) performed the whole-set source disposition preserved in the primary: exact SE-823-A–D with pair SE-823-B newly dispositioned, Master Entries 301–303, Entity Codex row 466, Tale 101 and archetype MAW-W-823, counting full-SE 111/301 and Weapon 143/287 inside the ledger legacy baseline. B183 therefore earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+      "holds": [
+        "The Apex Record describes a second holding beside the first: manifestations at surveyed gap positions across the tunnel network, a figure that moves downward through the network with crews withdrawn ahead of it, intelligible voices asking for help that personnel must not answer, and one recorded crossing whose author survived by nothing they did — against the operational record's fixed stretch, depth-only movement, sobs rather than speech, 'no one crosses' with counter 1, and a span that collapses underfoot by design with a survivable fall. Neither stratum was edited into the other.",
+        "The unaccounted do not reconcile: the crossing list's far column is twenty-six who 'could not be accounted for', the Tale places some of the taken on the bridge itself, and the Apex file closes on nineteen names absent from both sides. Thirty-one, twenty-six and nineteen were all left standing; no arithmetic was performed on the dead.",
+        "Rise versus sink stays forked inside the work record: Behavior and the canonical Final Observation echo say Flerehan 'lowers its span', while Clash, Operational Work Notes, Consequences and one far-mouth statement ('the span came up four centimetres; nobody told me it could come up') record rising under the same work — and Consequences also states no recorded intervention has raised it. The combat repair was anchored to depth readings rather than to either verb.",
+        "Weapon form forks at agreeing statistics (Lament 10–15 / Speed 3 Fast / Range 3 Medium / Skewer 100-70-50 / max 2 / 50 Echoes): primary gives a slender weeping blade, archetype MAW-W-823 a vertical suspension-bridge deck at Long, item B no physical form at all beyond its doctrine. Master table buckets (REQUIEM — Resonant Blade; Hauberks & Chain Mail for a silk shroud; Brooches & Fasteners for a Tail chain) and Registry's 5% bestowal against 4% stay uncrosswalked; the Chain's '+3' remains scoped 'to work against this entity' locally and unnamed in Side/item D.",
+        "Naming and record strata stay split: primary, Registry and disposition carry Stranded Between Two Shores; Master Entries 301–303, Entity Codex row 466 and Tale 101 carry The Sunken Bridge. The primary's own Registrum is the Tale's stale stratum (Zone D tunnels, Comprehension 3, Threat Low, Flerehan primary) against the SECC's Zone B, Level 2, Critical δ — preserved as a quoted record, not normalised. Side A also labels the entity 'Subject — Can breach' where the primary is non-breaching corruption of its own zone; thresholds (activation 1 the counter, ≥90%, 65%, event 40% ±10) and Speed 2.45 m/s for a fixed-in-plan figure remain parallel and formal."
+      ],
+      "split": [
+        6,
+        2
+      ],
+      "repairs": [
+        {
+          "id": "valid_work_types",
+          "kind": "short",
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Flerehan, Viderehan, and Ferrehan, worked from both mouths at once. Pugnahan stays in the table because it was tried; on this holding it is entered as a failure, not an option. |"
+        },
+        {
+          "id": "combat_first_rows",
+          "kind": "careful-detail",
+          "old": "| { *The Waterlogged Plank* [**Debuff**] } | \"The bridge is half-underwater — and the wood remembers every person who crossed and did not make it.\" | [The Bridge's sorrow seeps up through the wet planks.] | *Target suffers -10 Composure; the crossing has a cost.* **[10 Lament DMG [Lament]]** | When the target steps onto the Bridge. |\n| { *The Rising Flood* [**Debuff**] } | \"The water climbs the railings — and it is cold, and patient, and rising.\" | [The water around the Bridge rises; the target's footing narrows.] | *Target loses 10 Composure; the water is reaching for them.* **[10 Lament DMG [Lament]]** | When the target lingers mid-bridge. |\n| { *The Breaking Plank* [**Attack**] } | \"The wood gives way — rotten with sorrow, soaked through.\" | [A plank collapses under the target; the drop is into cold water.] | *Inflicts Lament pressure and one wound of sudden immersion.* **[14-22 Lament DMG [Lament]]** | When the Bridge is crossed carelessly. |",
+          "new": "| { *The Waterlogged Plank* [**Debuff**] } | \"Thirty-one near. Twenty-six far. Say both.\" | [Audible weeping fills the section from both mouths at once; nobody steps anywhere, and the will to finish the shift is what erodes.] | *Target suffers -10 Composure; the unfinished journey is carried for the rest of the cycle.* **[10 Lament DMG [Lament]]** | When the tunnel is worked from one mouth only. |\n| { *The Rising Flood* [**Debuff**] } | \"Now count the other.\" | [One column of names is read without the other; the span answers the way it answered nine years of a single list — by sitting lower at the next depth reading.] | *Target loses 10 Composure; descent, not water, is what rises against the crew.* **[10 Lament DMG [Lament]]** | When one shore is named and the other is not. |\n| { *The Breaking Plank* [**Attack**] } | \"The span bears weight convincingly, and for long enough to be halfway.\" | [Nothing collapses underfoot and nobody is immersed: voice contact between the two mouths lapses, and the pull toward the midpoint is the whole of the event.] | *Inflicts Lament pressure as separation reasserted; no wound is produced.* **[14-22 Lament DMG [Lament]]** | When voice contact between the mouths is lost. |"
+        },
+        {
+          "id": "battle_resolution_splice",
+          "kind": "short",
+          "old": "3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Listen between the sobs and name both shores** — the thirty-one near names and the twenty-six far names read into their own columns, aloud, by the two teams at once, with voice contact held throughout.",
+          "new": "3. **Resolution:** There is no suppression condition to fall back on. The session closes on the documented condition — **Listen between the sobs and name both shores** — the thirty-one near names and the twenty-six far names read into their own columns, aloud, by the two teams at once, with voice contact held throughout."
+        },
+        {
+          "id": "consequences_matrix",
+          "kind": "short",
+          "old": "- If resistance fails, the entity's pressure transfers into the worker's psychological matrix as an unfinished journey and depletes **Clarity**; the escalation is measured in one-sided working rather than in minutes, and a crew that has lost both mouths to the pull is withdrawn and re-briefed rather than reinforced.",
+          "new": "- If resistance fails, the pressure takes the worker as an unfinished journey and depletes **Clarity**; the escalation is measured in one-sided working rather than in minutes, and a crew that has lost both mouths to the pull is withdrawn and re-briefed rather than reinforced."
+        },
+        {
+          "id": "position_detailed",
+          "kind": "short",
+          "old": "| **Position / movement** | Stationary — a structure or location. Recorded at every Stranded Between Two Shores cycle against the previous reading. |",
+          "new": "| **Position / movement** | Fixed in plan and moving in depth: the same stretch of tunnel, a measurable distance lower each quarter. Record the depth against the tunnel datum at both mouths, at entry and at exit; the two readings have never been identical. |"
+        },
+        {
+          "id": "field_use_during_split",
+          "kind": "careful-detail",
+          "old": "| **During use** | The first sign is not a reading and is never visible to the wielder: the second worker reports the wielder weeping at the far mouth, and the span answering by coming up. Logged with the hour by the second worker, never by the wielder, and the session stops if the second worker can no longer hear the first. |",
+          "new": "| **During use** | The first sign is never visible to the wielder and is priced by piece: the second worker reports weeping at the far mouth with the span answering, arrivals described as feeling like nothing, or the bearer leaving a task, a meal or a sentence at its halfway mark. Logged with the hour by the second worker, never by the wielder, and the session stops if the second worker can no longer hear the first. |"
+        },
+        {
+          "id": "field_use_limit_inversion",
+          "kind": "short",
+          "old": "| **At limit** | The wielder stops leaving things at the halfway mark — conversations, journeys, meals — and reports it as efficiency. The second worker's call stands against the wielder's, and the piece is withdrawn at the second worker's word alone. |",
+          "new": "| **At limit** | The wielder is leaving things at the halfway mark without deciding to — conversations, journeys, meals — and reports it as efficiency. The second worker's call stands against the wielder's, and the piece is withdrawn at the second worker's word alone. |"
+        },
+        {
+          "id": "observation_initial_template",
+          "kind": "short",
+          "old": "| **Initial exposure** | The observer identifies Stranded Between Two Shores as a Subject with Subject-Lament manifestation and takes the first depth reading against the tunnel datum before anything else. The first reliable markers are the ribbed arches, the surface wet with crystallised tears at any humidity, and the absence of any gap under the span; a bridge-shaped record with a gap beneath it is a different designation and is checked against the archive before the cycle opens. |",
+          "new": "| **Initial exposure** | Take the first depth reading against the tunnel datum before anything else. The first reliable markers are the ribbed arches, the surface wet with crystallised tears at any humidity, and the absence of any gap under the span; a bridge-shaped record with a gap beneath it is a different designation and is checked against the archive before the cycle opens. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVδ-823_Stranded_Between_Two_Shores_가라앉은_다리.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.033  clean    61 grams  Operational Parameters\n 0.028  clean   176 grams  Trivia\n 0.024  clean   623 grams  M.A.W. Equipment\n 0.013  clean   718 grams  Combat Record\n 0.011  clean    89 grams  최종 관찰 (Final Observation)\n 0.008  clean   399 grams  관찰 기록 (Observation Log)\n 0.006  clean   156 grams  Containment Event Behavior\n 0.004  clean   264 grams  Appearance\n 0.003  clean   704 grams  감각 묘사 (Flavor Text)\n 0.000  clean   750 grams  Apex Record\n 0.000  clean   433 grams  이야기 보고 (Story Log)\n 0.000  clean   378 grams  이야기 (Narratio)\n 0.000  clean   211 grams  Behavior\n 0.000  clean   181 grams  Origin\n 0.000  clean   116 grams  기록 (Registrum)\n 0.000  clean    51 grams  증언 (Testimonium)\n 0.000  clean    35 grams  SECC Classification\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   55   4  | **Resistance** | 45% against Lament pressure; 35% against other pressure types. Nothing is rated against the pressure this file \n   84   1  | { *The Undertow* [**Attack**] } | \"The water beneath the span climbs the arches with no tide behind it, and the pull is toward t\n   85   4  | { *The Final Crossing* [**Ultimate**] } | \"The span finishes its descent, and the working floor goes under with it.\" | [The Brid\n  122   1  | **Identification** | Check the designation before approach: the archive holds four bridge-shaped records and the handling differ\n  166   1  - **Sorrow Gauge on event:** Opens at 40% and rises 10% each time a worker sets foot on the span — it gives way beneath them by de\n  176   1  **Appearance:** a slender blade of Lament Han-crystal, cold along the flat and warm at the point, that weeps a thin film of Han wh\n  185   1  **Target Coverage:** A line of up to three, which in this tunnel means a file of people strung out along its length — the formatio\n  189   2  **Ability:** Lament damage to the mind. The requiem carries the entity's signature — a journey stopped at the midpoint — and what \n  207   5  **Ability:** Turns Lament aside from the mind, which is the only pressure here, and does nothing about the pull. The shroud is wha\n  209   1  **Cost:** The wearer goes numb to small pleasures and reports arrivals — home, the end of a rotation — as having no particular fee\n  239   3  | **At limit** | The wielder is leaving things at the halfway mark without deciding to — conversations, journeys, meals — and repo\n  240   2  | **After use** | Return, reconcile the written note against what the wielder actually finished that day, and record whether the t\n  264   3  **Observation method:** Record the first sign, which is cold rain-smell in a dry tunnel; the first sensation, which is the need to\n  290   1  | Do the thing on file: Listen between the sobs and name both shores, from both mouths, for the whole cycle. | Depart from the con\n  320   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  414   2  - **Classification detail:** Stranded Between Two Shores is a Subject with Entity (IV) coherence and Critical (δ) potency; the cod\n  417   3  - **Record detail:** Check the designation before approach: the archive holds 4 bridge-shaped records and manages each in a differ\nGENERIC 0.007  (39 shared shingles)  SE-C-IVδ-823_Stranded_Between_Two_Shores_가라앉은_다리.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-A__SIDE_CODEX_Stranded_Between_Two_Shores.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-B__MAW-W_The_Crossing_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-C__MAW-S_The_Crossing_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-D__MAW-G_The_Crossing_Chain.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-A__SIDE_CODEX_Stranded_Between_Two_Shores.md": "c0bf980a2f7a4475b285164b2a01b3645a1617d3f94aa21bcd878a28dbe6ff73",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-B__MAW-W_The_Crossing_Requiem.md": "bacd7965a3a68f04f7dd1882fbe7cd6692af2711de996849c499303d7ed3ef5f",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-C__MAW-S_The_Crossing_Shroud.md": "9e17ad81a3de496844a9deeb0aadee27c3bc27761c1f5071754fefff80ee00aa",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-D__MAW-G_The_Crossing_Chain.md": "34513f8cc1bbd6a860f4f1537d524d3bd3d0ddc7a15ab64b1887da0023345a80",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVδ-823_Stranded_Between_Two_Shores_가라앉은_다리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-823_Stranded_Between_Two_Shores_%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80_%EB%8B%A4%EB%A6%AC.md \"SE-C-IVδ-823_Stranded_Between_Two_Shores_가라앉은_다리.md\")]",
+      "table_link": "[Stranded_Between_Two_Shores](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-823_Stranded_Between_Two_Shores_%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80_%EB%8B%A4%EB%A6%AC.md \"SE-C-IVδ-823_Stranded_Between_Two_Shores_가라앉은_다리.md\")",
+      "reading": {
+        "before_lines": 424,
+        "before_bytes": 43957,
+        "final_lines": 424,
+        "final_bytes": 44448
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 107,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10
       }
     }
   ]
