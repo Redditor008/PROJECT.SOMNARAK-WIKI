@@ -1,5 +1,9 @@
 # Work In Progress
 
+## Batch 184 — OPEN, 0 / 5 (2026-10-26)
+
+Owner `P` clarified: **five SE reviews per prompt** (five is the floor, not the ceiling; a dossier needing no fix is simply reported as **No change** in the chatroom). This prompt finished Batch 183 unit 5 + closure and now runs Batch 184 units 1–4 — five reviews in one prompt. Fresh pending-only ranking freezes Shard of a Broken Promise `O-IVδ-851` (7340), Thralldom `O-Iα-754` (7359), The Convergence `C-Vδ-010` (7366), Melting Rope `N-IIIγ-447` (7375), Pall `C-IIβ-280` (7384); reserves Whispering Walls, Candela, Mourner's Bloom, Breach, Hollow Echo only on ladder extension. Baseline audits PASS (run fresh at B183 closure in this prompt).
+
 ## Batch 183 — CLOSED, 5 / 5 (2026-10-26)
 
 Five HELD reviews; 40 repairs (28 short / 12 careful; 36,591 → 37,246 words); No change 0/5. Fresh closure validators 25/25, tests 54/54, lore/timeline/seam/box PASS, exact reconstruction 5/5 from git-tree before-states, 105 pending fingerprints unchanged, Tales byte-identical. No fresh equipment credit: Batches 115/102/119/125–126/133 already counted these sets inside the legacy baseline. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md).

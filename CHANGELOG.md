@@ -8,6 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 184 — OPEN, 0 / 5 (2026-10-26)
+
+Owner `P` clarified as **five SE reviews per prompt** (floor, not ceiling; No change dossiers are simply reported as such). This prompt: B183 unit 5 + closure, then Batch 184 units 1–4. Fresh freeze: Shard of a Broken Promise `O-IVδ-851` (7340), Thralldom `O-Iα-754` (7359), The Convergence `C-Vδ-010` (7366), Melting Rope `N-IIIγ-447` (7375), Pall `C-IIβ-280` (7384). Reserves only on ladder extension. Baseline audits PASS.
+
 ## Batch 183 — CLOSED, 5 / 5 (2026-10-26)
 
 Five HELD reviews; 40 repairs (28 short / 12 careful; 36,591 → 37,246 words); No change 0/5; 25/25 closure validators, 54/54 tests, all four audits PASS, reconstruction 5/5, 105 pending fingerprints unchanged. No fresh equipment credit (sets pre-counted by Batches 115/102/119/125–126/133). [Closure record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Under the owner's five-per-prompt instruction the same prompt opens Batch 184 (Shard of a Broken Promise, Thralldom, The Convergence, Melting Rope, Pall).
