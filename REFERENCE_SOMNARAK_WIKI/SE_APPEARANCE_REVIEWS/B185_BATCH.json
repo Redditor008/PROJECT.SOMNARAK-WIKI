@@ -4,5 +4,119 @@
   "status": "OPEN",
   "completed_units": 0,
   "required_units": 5,
-  "units": []
+  "units": [
+    {
+      "designation": "C-Iα-011",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md",
+      "words": 7401,
+      "sha256": "7caaedb3100b7885bdfd2b69145a10e433718366ea1f6db0c90104ea745e26b6",
+      "unit": 1,
+      "name": "Whispering Walls",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_01_WHISPERING_WALLS.md",
+      "before_words": 7401,
+      "after_words": 7395,
+      "base": "c644a39d5e5f72de2f8f7646502e08cfae028cc0",
+      "final_sha256": "5388abde22ae06194f50e5604cfb1a11092afeafc896085f5fa7bf1476261d64",
+      "summary": "HELD with exactly one mechanical repair. Batch 115 unit 3 already performed the full-SE review of this dossier and deliberately wrote its three distinct equipment costs into the Use Notes and field record; reading the exact SE-011-A–D sets now confirmed those assignments rather than overturning them (Shroud 'minor joys feel distant' ↔ primary's loss of small pleasures; Stone +1-on-the-source and background whispers ↔ item D and Master Entry 318; slot Tail and resistances match). The one demonstrable defect found in the whole final read is a duplicated clause-stutter in the Fabric Record ('...and it holds that a containment function It holds that a containment function the facility costed...'), removed without touching any digit. The chalice/blade identity, weapon costs, range strata and nine unusable utterances stay HELD exactly as Batches 88/115 left them. +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The district talks to its walls because it always has; the facility put it in the tenancy agreement. Between the nuisance with no defendant, the truth about a fire that no procedure can receive, and a containment duty transferred entire to unpaid residents, this is the register's quietest indictment of itself — and the sentence making it now at least stutters only once.",
+      "reasoning": "R-33 chain: Object/Place I-Relic / Residue-I / Minor-α / City Sorrow → three generations of survival whispering because volume drew the Han → the plaster, being the only listener always in the room, keeps the speech and replays it in the dark over some 1,100 metres of connected wall → work is Viderehan/Ferrehan at a painted boundary: walk it, log the overlap and the dwellings, acknowledge aloud, never scrape the plaster → no breach counter; failure is reach — the field crossing into a wall with somebody living behind it → equipment turns that listening outward (Truth Note, Clear Channel, Hear the Seam) at per-piece human cost. Nothing in that chain supports rewriting B115's recorded cost assignments; the only break is the duplicated clause, which the one repair closes.",
+      "history": "Batch 88 unit 2 (d7a0967c) dispositioned the exact Weapon pair SE-011-B (39/287) and aligned Side A to The Occlusion Star-Chalice, explicitly holding Master Entry 316's Listening Requiem / blade terminology. Batch 115 unit 3 (2026-10-14) then performed the full-SE review: it rewrote the Use Notes / stat guide to distinguish the three costs, tracked the Stone's seven-day follow-up without inventing a stop threshold, and kept the chalice and Instant-vs-Range-2 holds; the B115 close counts this as one of its 3 full-SE dispositions, with the Weapon pair 'counted earlier'. Both sit inside the independent run's legacy baseline, so Batch 185 earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+      "holds": [
+        "Weapon identity stays forked exactly as Batch 88 held it: primary/Registry/archetype The Occlusion Star-Chalice — a carved obsidian chalice hovering over the palm, pulling projectiles into liquid shadow and discharging gravity (Revision 3abe5470 replaced the item's former blade Appearance with this body) — against item B's Type 'short singing blade', its 'blade hums/emits' Truth Note prose, the SE-011-B filename, and Master table row 316 / Entry 316 The Listening Requiem, Resonant Blade. No source records a transition between blade and chalice; Archetype MAW-W-011 gives Range Instant against primary/item Range 2 / Short, also held.",
+        "The weapon's human cost forks: primary unaccounted grief wept without knowing whose it is, reversing on return (Batch 115's recorded assignment), against item B's Wielder Cost — after a Truth Note the bearer hears one of their own unspoken sentences in the nearest quiet surface. Batch 115 wrote the primary line knowing the item; this run does not reverse a recorded review decision on re-read.",
+        "Suit mechanics fork: primary 'works by making the wearer less able to hear' and 'deadens hearing where it crosses the ears', against item C's Clear Channel — it isolates one voice and the rest return as a delayed chorus after removal. The costs agree (minor joys distant / small pleasures lost) but the mechanism and its limit do not; retained as held.",
+        "The Stone's permanence forks softly: primary bears an unquieten-able background even as it records the sentence-told-or-recorded ending from item D, and Master Entry 318 sides with the permanent background that cannot be fully silenced. Both endings stay in the record; and the nine utterances contradicting the official history remain sounds in a wall — preserved, unusable, unreconciled."
+      ],
+      "split": [
+        1,
+        0
+      ],
+      "repairs": [
+        {
+          "id": "officer_clause_stutter",
+          "careful": false,
+          "old": "The district's ward officer has brought it to every annual review since, and it holds that a containment function It holds that a containment function the facility costed, considered and declined to perform was transferred in its entirety to unpaid residents",
+          "new": "The district's ward officer has brought it to every annual review since, and it holds that a containment function the facility costed, considered and declined to perform was transferred in its entirety to unpaid residents",
+          "kind": "short"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.023  clean   486 grams  Combat Record\n 0.019  clean   690 grams  M.A.W. Equipment\n 0.016  clean   122 grams  Operational Parameters\n 0.013  clean   234 grams  기록 (Registrum)\n 0.008  clean   240 grams  관찰 기록 (Observation Log)\n 0.007  clean   152 grams  Behavior\n 0.004  clean   247 grams  Appearance\n 0.004  clean   540 grams  감각 묘사 (Flavor Text)\n 0.000  clean  1049 grams  Fabric Record\n 0.000  clean   418 grams  이야기 (Narratio)\n 0.000  clean   255 grams  Expansion Behavior\n 0.000  clean   187 grams  Trivia\n 0.000  clean   162 grams  최종 관찰 (Final Observation)\n 0.000  clean   154 grams  이야기 보고 (Story Log)\n 0.000  clean   139 grams  Origin\n 0.000  clean    51 grams  증언 (Testimonium)\n 0.000  clean    36 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |\n   84   4  | { *The Spoken Aloud* [**Attack**] } | \"The walls say the one thing you never wanted anyone to hear — clearly, at volume.\" | [A c\n   85   7  | { *Every Wall Speaks* [**Ultimate**] } | \"Now every surface in the building is whispering — and none of them are kind.\" | [The o\n  125   1  | **Identification** | Confirm before Work or contact: designation C-Iα-011 `[LP]`, Lament expression, Place-Lament manifestation,\n  155   1  Whispering Walls is a Residue (I) Object/Place with Place-Lament manifestation and Lament expression, ambient across Old Lament in\n  206   4  **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and carries the site's signature: the stru\n  214   6  **Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that lies cold on the skin and deadens the wearer\n  226   1  **Cost:** The wearer goes numb to small pleasures — a warm room, a familiar voice, the first decent weather of the year — and the \n  232   2  **Appearance:** a small stone of Lament Han-crystal, cool and faintly luminous, that runs hot in the palm when the wearer is stand\n  282   2  **Observation method:** Walk the boundary at night, in pairs, out of earshot of occupied rooms, with the marked line and the dwell\n  329   2  **Interaction method:** Baseline each party alone across several rotations before any pairing, with boundary, overlap density and \n  384   3  **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)\nGENERIC 0.007  (35 shared shingles)  SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-A__SIDE_CODEX_The_Whispering_Walls.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-B__MAW-W_The_Listening_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-C__MAW-S_The_Listening_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-D__MAW-G_The_Listening_Stone.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-A__SIDE_CODEX_The_Whispering_Walls.md": "a4d26f8dacc366087c1ed50fc4c00709f08bdd4bdc208fb3637e7be5b0e5dda6",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-B__MAW-W_The_Listening_Requiem.md": "75d12d51fb74d1db2281fb9484cc283b768ae9f79907542dcb73a07ea6aabb9b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-C__MAW-S_The_Listening_Shroud.md": "b9d22b05574139663118e2a7872d2a2b772f1561e653cc880d17b0b5c5f907a1",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-D__MAW-G_The_Listening_Stone.md": "cbe1dec0b2915226079db3c1b2b59d7e3d546bc3c1bbb07a9cb98a4a226da79e",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-Iα-011_Whispering_Walls_속삭이는_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-011_Whispering_Walls_%EC%86%8D%EC%82%AD%EC%9D%B4%EB%8A%94_%EB%B2%BD.md \"SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md\")]",
+      "table_link": "[Whispering Walls](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-011_Whispering_Walls_%EC%86%8D%EC%82%AD%EC%9D%B4%EB%8A%94_%EB%B2%BD.md \"SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md\")",
+      "reading": {
+        "before_lines": 463,
+        "before_bytes": 45526,
+        "final_lines": 463,
+        "final_bytes": 45489
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 99,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10
+      }
+    }
+  ],
+  "completed": 1
 }

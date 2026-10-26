@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 185 — OPEN, 0 / 5 (2026-10-26)
+## Batch 185 — OPEN, 1 / 5 (2026-10-26)
+
+**Unit 1 — Whispering Walls `C-Iα-011`: HELD.** One mechanical repair (1 short; 7401→7395 words): a duplicated clause in the Fabric Record's ward-officer objection removed. Batches 88/115 already counted set 011 and wrote the file's cost assignments deliberately; the sets on re-read confirm them — +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B185_01_WHISPERING_WALLS.md).
 
 Fresh C-locale ranking of the 100 pending froze: Whispering Walls, Candela, Mourner's Bloom, Breach, Hollow Echo. [Opening record](SE_APPEARANCE_REVIEWS/B185_OPEN.json).
 

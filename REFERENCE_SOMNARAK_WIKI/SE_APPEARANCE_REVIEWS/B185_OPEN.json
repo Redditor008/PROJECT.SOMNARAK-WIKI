@@ -537,5 +537,42 @@
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀.md",
       "sha256": "ac38f3e0bbcede96fe902fd29c182748189ac1966e2afa421681348ce0c339ab"
     }
+  ],
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "C-Iα-011",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md",
+      "words": 7401,
+      "sha256": "7caaedb3100b7885bdfd2b69145a10e433718366ea1f6db0c90104ea745e26b6"
+    },
+    {
+      "unit": 2,
+      "designation": "C-IVδ-165",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-165_Candela_녹아내리는_성자.md",
+      "words": 7422,
+      "sha256": "dafce17b12239f76b96c5d241c507bd04b520afad14e6298ac190d1a321601d0"
+    },
+    {
+      "unit": 3,
+      "designation": "C-Iα-330",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-330_Mourner's_Bloom_슬픔의_꽃.md",
+      "words": 7433,
+      "sha256": "876158c5e3b1bc0bec398f600dbec5559a5154b7462267bf77680fb2d12deafd"
+    },
+    {
+      "unit": 4,
+      "designation": "N-IVδ-339",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-339_Breach_무너진_벽.md",
+      "words": 7449,
+      "sha256": "9bcb36170429ca40b7ab73fc4bcd923bce1c0dd804ef259244b6a9f6d07c8614"
+    },
+    {
+      "unit": 5,
+      "designation": "N-IIα-125",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIα-125_Hollow_Echo_빈_메아리.md",
+      "words": 7454,
+      "sha256": "3d07d9b936809b753e11c1d170b9555a26f550427dffde5491d2e78fd739ed32"
+    }
   ]
 }

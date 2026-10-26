@@ -27,7 +27,20 @@
       "N-IVδ-339",
       "N-IIα-125"
     ],
-    "reviewed": {}
+    "reviewed": {
+      "C-Iα-011": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_01_WHISPERING_WALLS.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -2533,8 +2546,29 @@
     {
       "designation": "C-Iα-011",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD with exactly one mechanical repair. Batch 115 unit 3 already performed the full-SE review of this dossier and deliberately wrote its three distinct equipment costs into the Use Notes and field record; reading the exact SE-011-A–D sets now confirmed those assignments rather than overturning them (Shroud 'minor joys feel distant' ↔ primary's loss of small pleasures; Stone +1-on-the-source and background whispers ↔ item D and Master Entry 318; slot Tail and resistances match). The one demonstrable defect found in the whole final read is a duplicated clause-stutter in the Fabric Record ('...and it holds that a containment function It holds that a containment function the facility costed...'), removed without touching any digit. The chalice/blade identity, weapon costs, range strata and nine unusable utterances stay HELD exactly as Batches 88/115 left them. +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_01_WHISPERING_WALLS.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-A__SIDE_CODEX_The_Whispering_Walls.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-B__MAW-W_The_Listening_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-C__MAW-S_The_Listening_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-D__MAW-G_The_Listening_Stone.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Iα-071",
