@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Iα-329": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_02_FOLLY.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2772,8 +2784,29 @@
     {
       "designation": "C-Iα-329",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-329_Folly_녹아내린_탑.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Three supported repairs (2 short / 1 careful) carry Folly's own honesty into the last places it was missing. Combat's first four rows no longer have the tower softened into the target, climbed, dripped on, struck or undermined — this structure has injured nobody in sixty years and sheds not a gram of debris; the rows now run on the false dated memory of completion, the drafting of other people's withdrawals, the cord moving once, and specification-grade rooms opening on any attempt to finish the plan. The I-Relic Termination row's claim that premature return 'extracts severe Void trauma' — flatly contradicted by the file's repeated 'there is no injury in the refusal' — is replaced by the publish-first bracket rule, and the template '5 Void damage every 15 seconds' tick leaves the Log and Method table. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_02_FOLLY.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-329-A__SIDE_CODEX_Folly.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-329-B__MAW-W_The_Melting_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-329-C__MAW-S_The_Melting_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-329-D__MAW-G_The_Melting_Brick.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Iα-330",

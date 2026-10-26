@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 186 — OPEN, 1 / 5 (2026-10-26)
+## Batch 186 — OPEN, 2 / 5 (2026-10-26)
+
+**Unit 2 — Folly `C-Iα-329`: HELD.** Three supported repairs (2 short / 1 careful; 7469→7684 words): combat's first four rows become the false dated memory, silent drafting, the cord moving once and rooms opening on completion attempts; the 'severe Void trauma' termination line becomes the publish-first bracket rule; template tick damage removed. Batch 127 already counted set 329: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B186_02_FOLLY.md).
 
 **Unit 1 — Weeping Willow `C-IIIγ-140`: HELD.** Five supported repairs (4 short / 1 careful; 7468→7647 words): combat's first four rows become dissolving leaves, undrained ground, the past-tense sign and a thickened fall; the bare Story Log line becomes the unattended rule; Movement repaired; two form lines aligned to crystal leaves on living wood. Batch 115 already counted set 140: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B186_01_WEEPING_WILLOW.md).
 
