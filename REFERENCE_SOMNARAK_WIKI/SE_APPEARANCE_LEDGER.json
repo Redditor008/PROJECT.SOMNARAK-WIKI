@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVδ-505": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_02_COLD_BURN.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2582,8 +2594,29 @@
     {
       "designation": "C-IVδ-505",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-505_Cold_Burn_얼어붙은_그림자.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Nine source-supported repairs (1 short / 8 careful): the generic frozen-shadow monster template — pinned watching shadows, tracking frost, launched ice spikes, a shattering trigger, catastrophic unresolved grief, and symbolic completion presented as the successful resolution nine years after the file withdrew it — is replaced by the holding's documented record: burns taken by whoever stops looking, lattice advance mapped weekly at knee height, regrowth under impact, rounds walked without pursuit, and a lattice that has answered exactly once, for nine days, to revoked orders read aloud by name. HELD; no credit (the primary's Use Notes already disposition Side A's full-set route against its standing response).",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_02_COLD_BURN.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-505-A__SIDE_CODEX_Cold_Burn.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-505-B__MAW-W_Cold_Burn_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-505-C__MAW-S_Cold_Burn_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-505-D__MAW-G_Cold_Burn_Ring.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-668",

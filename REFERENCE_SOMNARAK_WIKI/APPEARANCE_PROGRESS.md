@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B193 U1 Sorrow Gate `C-IVδ-252` HELD, fresh +1/+1.** 7 repairs (1s/6c), 8,020→8,134w. Types 283/301 (94.02%), Weapon 281/287 (97.91%), SE 18/301 (5.98%); held 222 / pending 59. [Evidence](SE_APPEARANCE_REVIEWS/B193_01_SORROW_GATE.md).
+- **Latest: B193 U2 Cold Burn `C-IVδ-505` HELD, credit-barred, +0.** 9 repairs (1s/8c), 8,020→8,196w. Types 283/301 (94.02%), Weapon 281/287 (97.91%), SE 18/301 (5.98%); held 223 / pending 58. [Evidence](SE_APPEARANCE_REVIEWS/B193_02_COLD_BURN.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 
