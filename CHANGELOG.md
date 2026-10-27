@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 187 — OPEN, 5 / 5 (2026-10-27)
+## Batch 187 — CLOSED, 5 / 5 (2026-10-27)
+
+Five HELD; No change 0; 16 repairs; validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; [closure record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_CLOSE.md). Types 273/301 · Weapon 271/287 · SE Fix 18/301; held 196 / pending 85. Batch 188 opens next.
 
 **Unit 5 — Miscast `C-Iα-779`: HELD.** Two supported repairs (1 short / 1 careful; 7560→7762 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_05_MISCAST.md). Batch 116 already counted set 779: +0/+0/+0. Completed 5/5; No change 0; held 196 / pending 85. Closure follows in this prompt.
 

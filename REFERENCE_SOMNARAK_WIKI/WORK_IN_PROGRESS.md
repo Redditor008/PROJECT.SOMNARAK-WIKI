@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 187 — OPEN, 5 / 5 (2026-10-27)
+## Batch 187 — CLOSED, 5 / 5 (2026-10-27)
+
+Fresh validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; all 85 remaining pending fingerprints unchanged; no source changes. 16 repairs (11 short / 5 careful), 37,718 → 38,771 words; No change 0; Broken Door and Sorrow Tide fresh +1/+1 each; Types 273/301 · Weapon 271/287 · SE Fix 18/301. [Closure record](SE_APPEARANCE_REVIEWS/B187_CLOSE.md). Batch 188 Units 1–4 follow in this prompt.
 
 **Unit 5 — Miscast `C-Iα-779`: HELD.** Two supported repairs (1 short / 1 careful; 7,560→7,762 words): all five combat rows drop flying, embedding, detonating shards for the bearer's list of uncalled preparations, the 11 mm gap, an 8 mm widening that opens a documents search, four to nine seconds of the artifact simply working, and 88 mm of over-certification; the Termination row loses an invented trauma. Batch 116 already counted set 779: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B187_05_MISCAST.md). Closure follows in this prompt.
 

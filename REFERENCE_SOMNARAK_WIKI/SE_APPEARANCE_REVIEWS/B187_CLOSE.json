@@ -1,0 +1,60 @@
+{
+ "schema_version": 1,
+ "batch": 187,
+ "status": "CLOSED",
+ "completed_units": 5,
+ "required_units": 5,
+ "results": [
+  "HELD",
+  "HELD",
+  "HELD",
+  "HELD",
+  "HELD"
+ ],
+ "no_change_units": 0,
+ "repair_count": 16,
+ "short_repairs": 11,
+ "careful_repairs": 5,
+ "before_words": 37718,
+ "after_words": 38771,
+ "fresh_validators_pass": 25,
+ "fresh_validators_total": 25,
+ "exact_reconstruction": 5,
+ "pending_fingerprints_checked": 85,
+ "pending_fingerprints_unchanged": 85,
+ "source_changes": 0,
+ "unit_tools_tests": "54/54 PASS",
+ "audits": "PASS",
+ "final_words": {
+  "N-IVδ-157": 7672,
+  "C-IVγ-255": 7743,
+  "O-IIβ-757": 7816,
+  "C-Vγ-260": 7778,
+  "C-Iα-779": 7762
+ },
+ "counters": {
+  "types": "273/301",
+  "weapon": "271/287",
+  "se_appearance_fix": "18/301"
+ },
+ "fresh_credits": [
+  {
+   "designation": "O-IIβ-757",
+   "types": 1,
+   "weapon": 1
+  },
+  {
+   "designation": "C-Vγ-260",
+   "types": 1,
+   "weapon": 1
+  }
+ ],
+ "ledger": {
+  "changed": 14,
+  "retained": 4,
+  "held": 196,
+  "blocked": 2,
+  "pending": 85
+ },
+ "next": "Batch 188 opens on a fresh C-locale ranking of the 85 pending dossiers; Units 1–4 in this prompt under the ten-review ceiling."
+}
