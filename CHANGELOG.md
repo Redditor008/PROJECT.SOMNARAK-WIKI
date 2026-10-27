@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 195 — OPEN, 0 / 5 (2026-10-28)
+## Batch 195 — OPEN, 1 / 5 (2026-10-28)
+
+Unit 1 — **The Dancing Chains `C-IIIγ-102`: HELD; credit-barred, +0.** 12 repairs (5s/7c; 8,168→8,420 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_01_THE_DANCING_CHAINS.md).
 
 Fresh ranking of 50 pending (wc -w ascending). Queue: `C-IIIγ-102`, `C-IIIγ-448`, `C-IVδ-220`, `O-Iα-340`, `N-Iα-785`.
 

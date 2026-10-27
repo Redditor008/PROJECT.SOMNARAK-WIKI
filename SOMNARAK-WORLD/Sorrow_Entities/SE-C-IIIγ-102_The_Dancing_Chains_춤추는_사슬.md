@@ -73,17 +73,17 @@
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-B-01, Zone B — contained |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | The pattern is slowed to the logged baseline and the gauge falls below 25%; if a worker is bound at any point, the cycle is over and the only remaining task is removal. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The First Link* [**Debuff**] } | "One link finds your wrist — and it is warm, almost eager." | [A single chain loops the target; the iron hums with old resentment.] | *Target suffers -10 Resilience; the chain has chosen them.* **[10 Grudge DMG [Grudge]]** | When the Chains begin to move. |
-| { *The Rattling* [**Debuff**] } | "More links join the first — and the rattling is the sound of every grudge that ever bound someone." | [The Chains multiply; the binding tightens with accumulated anger.] | *Target loses 10 Resilience; the weight of old resentment pins them.* **[10 Grudge DMG [Grudge]]** | When the target struggles. |
-| { *The Whip* [**Attack**] } | "One chain snaps taut and lashes — fast, and glad to." | [A chain whips across the target, biting deep.] | *Inflicts Grudge pressure and one biting wound.* **[14-22 Grudge DMG [Grudge]]** | When the target resists the Chains. |
-| { *The Binding* [**Attack**] } | "The chains wrap tight — and every link is a promise that you will not leave." | [The Chains constrict, binding the target in furious iron.] | *A heavy Crimson crush; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Chains are commanded or enraged. |
-| { *The Whole Coil* [**Ultimate**] } | "Every chain in the place comes alive at once — and they want everyone." | [The Chains uncoil across the entire field, binding all within reach.] | *All personnel suffer Grudge pressure for three turns in the iron.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Rattling* [**Debuff**] } | "There are only ever the two chains, and they make almost no sound. What the target hears is their own breathing falling out of step with their feet." | [Nothing multiplies and nothing tightens of itself; the figure's period shortens, and the second Warden's watch is the instrument that notices.] | *Target loses 10 Resilience; the compulsion is a rate, not a weight.* **[10 Grudge DMG [Grudge]]** | When the bound worker struggles — struggling being one more kind of movement. |
+| { *The Whip* [**Attack**] } | "Nobody is attacked here. The chains have never bound anybody who did not make contact with them, and they do not lash; the person inside them moves faster than thought and the damage arrives as exhaustion." | [No chain snaps taut. The bound worker's own accelerated movement does the work, which is why the second pair of hands stays outside the figure.] | *Inflicts Grudge pressure; the wound is pace the worker cannot set down.* **[14-22 Grudge DMG [Grudge]]** | After contact — deliberate or otherwise. |
+| { *The Binding* [**Attack**] } | "The first link closes, and the body finds a rhythm it never learned. There is nobody to command it and nothing in it is enraged; the curse is forgotten and the dancing is not." | [The pair closes on whoever touched them. Removal is not a thing the bound worker can do, be talked through, or authorise on their own behalf.] | *A heavy Crimson surge; the target's Sorrow Gauge surges 15% while their own account of their state improves.* **[24-36 Grudge DMG [Grudge]]** | On direct contact or deliberate binding. |
+| { *The Whole Coil* [**Ultimate**] } | "Every chain in the place is the same two chains, still in the cell. What fills the field is the rate: the period shortens past the logged baseline and the anchor loads in Zone B rise with it." | [The escalation is carried by the building rather than by anybody in it — anchor points, mount and floor, never a reach for new wearers.] | *All personnel suffer Grudge pressure for three turns of shortening period.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -111,7 +111,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
 - **Primary marker:** A pair of dark crystallized chains. When bound to a person, they force the wearer to dance until collapse.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Fixed slack on its floor mount in the registered cell, links moving continuously in a repeating figure and never recorded at rest; the object has never left the cell except on a bound wearer.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-B-01, Zone B — contained
 
@@ -123,7 +123,7 @@
 | **Position / movement** | Fixed in the registered cell. The links move constantly in a figure that repeats; record the period over ten full cycles and the brightness on the three-step scale at every watch. |
 | **Material / signature** | Grudge. Dark crystallised links, fused and grown rather than forged, cold and ridged like clenched vertebrae, smelling of char, fever-hot at any point where they have gripped. |
 | **Distinctive markers** | The wearer cannot remove themself from the chains. The chains pulse near strong emotions. They brighten near sorrow and dim near joy. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification** | Confirm designation C-IIIγ-102 `[GO]`, Object-Grudge manifestation and the repeating figure before Work or contact; the wrong entity is the wrong sorrow. |
 
 **Appearance protocol:** Time the figure first — ten complete repetitions, to the second, by a Warden who is not handling anything — because the period is the holding's only stable quantity and a drift in it is the earliest sign there is. Then the brightness, on the crude three-step scale and not on a finer one; the finer scale was tried and varied more with the Warden than with the chains. Record the anchor-point condition, the temperature at every point of contact, and whether any link is warm with nobody present. Nothing is handled by one person, including for a measurement that plainly needs one pair of hands.
 
@@ -142,7 +142,7 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** (Observation) | Become still, allowing safe study. | Stable |
+| **Viderehan** (Observation) | Opens the compulsion's shape to study; the figure may slow under a good cycle and has never been recorded at rest. | Stable |
 | **Ferrehan** (Endurance) | Bind the worker temporarily and test their ability to endure motion. | Decrease |
 ### Special Behaviors
 - Compulsion continues through injury. A fractured ankle has been recorded as slowing the figure and not as interrupting it.
@@ -188,9 +188,9 @@ The Dancing Chains is an Object/Place with Object-Grudge manifestation and Grudg
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The mount is checked at the start of every shift because the chains shorten — a link at a time, over weeks — and the check comes before the piece is taken up. | The primary resonance engages: movement speed rises sharply, all of it dance-like, and +10% Grudge resistance holds while the piece is on. |
+| 10 Seconds | The mount is checked at the start of every shift because the chains shorten — a link at a time, over weeks — and the check comes before the piece is taken up. | Movement speed rises sharply, all of it dance-like, and the named remover is already in the room; nothing here grants resistance, and the period is taken over ten repetitions before anything else. |
 | 30 Seconds | The bearer begins keeping time with the figure without having decided to, which is the earliest sign the file records and the one the watch is told to call. | Benefit continues and composure begins to pay for it; the removal partner watches for the moment the bearer stops noticing the rhythm as something external. |
-| 1 Minute | The compulsion stops being something the bearer is doing and becomes something that is happening: the pace is no longer theirs to set. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds, and the period on the watch is logged at two-minute intervals from here. |
+| 1 Minute | The compulsion stops being something the bearer is doing and becomes something that is happening: the pace is no longer theirs to set. | The period is logged at two-minute intervals and the bearer's account is recorded verbatim and marked unreliable. The instrument that matters is the second Warden's watch, because the emotional indicator and the physical one diverge from here. |
 | 2 Minutes | Past two minutes the bearer reports feeling capable, efficient and unusually well — the account that is recorded verbatim and marked unreliable, because the period is shortening fastest at exactly this point. | Forced removal past two minutes, or any removal attempted alone, risks the collapse series: the fourteen recorded times-to-collapse run from nine minutes forty to thirty-one minutes and nothing predicts which end a given person falls on. |
 
 ### Escalation Notes
@@ -346,11 +346,11 @@ The chains are kept slack on a floor mount, and the mount is checked at the star
 
 ## 감각 묘사 (Flavor Text)
 
-The chains lie still until you touch them. Then the first link closes, and your body remembers a rhythm you never learned. Your feet move faster than thought. The room becomes a stage, the walls become an audience, and stopping feels more frightening than falling. Somewhere beneath the rage is grief: the sorrow of being ordered onward when all you wanted was rest.
+The chains are already moving when you come in — they have never been recorded at rest — and then the first link closes, and your body remembers a rhythm you never learned. Your feet move faster than thought. The room becomes a stage, the walls become an audience, and stopping feels more frightening than falling. Somewhere beneath the rage is grief: the sorrow of being ordered onward when all you wanted was rest.
 
 
 
-**At first contact:** They lie still until touched, and then the first link closes and the body finds a rhythm it never learned. The room becomes a stage and the walls become an audience, and stopping begins to feel more frightening than falling.
+**At first contact:** The figure is already repeating when the hand arrives, and then the first link closes and the body finds a rhythm it never learned. The room becomes a stage and the walls become an audience, and stopping begins to feel more frightening than falling.
 
 **With continued exposure:** The bound worker gets better at it. The movement smooths out, the effort drops away, and they begin to feel efficient — which is the point at which the period on the Warden's watch is shortening fastest, and the point at which nothing the worker says about their own state can be used.
 

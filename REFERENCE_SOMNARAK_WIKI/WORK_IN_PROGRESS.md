@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 195 — OPEN, 0 / 5 (2026-10-28)
+## Batch 195 — OPEN, 1 / 5 (2026-10-28)
+
+**Unit 1 — The Dancing Chains `C-IIIγ-102`: HELD, +0.** Twelve repairs (5 short / 7 careful; 8,168→8,420 words): a never-resting pair stops multiplying and lashing. Credit barred by the in-file Batch 111 review. [Evidence](SE_APPEARANCE_REVIEWS/B195_01_THE_DANCING_CHAINS.md).
 
 Fresh ranking of 50 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IIIγ-102`, `C-IIIγ-448`, `C-IVδ-220`, `O-Iα-340`, `N-Iα-785`.
 

@@ -27,7 +27,20 @@
       "O-Iα-340",
       "N-Iα-785"
     ],
-    "reviewed": {}
+    "reviewed": {
+      "C-IIIγ-102": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_01_THE_DANCING_CHAINS.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -460,8 +473,29 @@
     {
       "designation": "C-IIIγ-102",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-102_The_Dancing_Chains_춤추는_사슬.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Twelve source-supported repairs (5 short / 7 careful): a pair of chains that never rest stops lying still, multiplying, whipping and seizing the field; Viderehan stops stilling them; the log loses its aura/damage-tick template; the placeholder resolution condition and two stubs take the file's own words. HELD; no credit (in-file M.A.W. Cross-Source Review — Batch 111).",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_01_THE_DANCING_CHAINS.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/102_Dancing_Chains/SE-102-A__SIDE_CODEX_The_Dancing_Chains.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/102_Dancing_Chains/SE-102-B__MAW-W_The_Dancing_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/102_Dancing_Chains/SE-102-C__MAW-S_The_Dancing_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/102_Dancing_Chains/SE-102-D__MAW-G_The_Dancing_Shoes.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIIγ-105",
