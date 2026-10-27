@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 188 — OPEN, 1 / 5 (2026-10-27)
+## Batch 188 — OPEN, 2 / 5 (2026-10-27)
+
+**Unit 2 — The Lonely Giant `C-IIIγ-105`: HELD.** Five supported repairs (4 short / 1 careful; 7,575→7,753 words): rows 1–3 drop the reaching hand, the rejected grasp and the tremor-wound for tremor-first contact, a figure that folds down and waits, and a 9.6 km detour; the Ultimate tracks uncollected entitlements; three Flavor blocks become go-round identification, doorway noticing and a clearance instruction. Batch 128 already counted set 105: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B188_02_THE_LONELY_GIANT.md).
 
 **Unit 1 — Dreaming Ruin `N-IIIγ-505`: HELD.** Three supported repairs (2 short / 1 careful; 7,569→7,810 words): all five combat rows drop the build-and-collapse cycle for the 184-panel sheet, furnishing, the build bearing, the equivalence search, and the notice return; two Flavor blocks become the detachment and the wrong thing to brace. Batch 104 / the in-file 2026-10-12 review already counted set 1036: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B188_01_DREAMING_RUIN.md).
 

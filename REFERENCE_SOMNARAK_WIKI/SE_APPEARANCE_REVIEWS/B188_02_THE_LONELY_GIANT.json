@@ -1,0 +1,140 @@
+{
+  "designation": "C-IIIγ-105",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인.md",
+  "words": 7575,
+  "sha256": "bc4b0e344f9c871f3ea4ba61eb858d8f66ec7cc61d96e9519f374d0005fcad8b",
+  "unit": 2,
+  "name": "The Lonely Giant",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_02_THE_LONELY_GIANT.md",
+  "before_words": 7575,
+  "after_words": 7753,
+  "base": "69a1dd5ccbf963ba85c198fae3384508ea77bbd4",
+  "final_sha256": "be07d54621486a5855d3fb7edacfdc1beb835407025b88b6c6902e06ce1d9b23",
+  "summary": "Five supported repairs (4 short / 1 careful) give the sheet the Giant's own manner: careful, slow, touching nothing. Rows 1–3 drop the inescapable reaching hand, the rejection-grasp and the tremor-wound for tremor-first contact, a figure that folds down and waits, and a 9.6-kilometre detour measured with a wheel. The Ultimate stops spreading solitude and tracks the Issue Office's uncollected-entitlements line instead; three stock Flavor blocks become go-round identification, doorway noticing, and a clearance instruction. HELD; +0/+0/+0.",
+  "commentary": "We issued everybody the same thing so nobody could be marked out by needing something else — and a man in this district walks the long way round everything, every day, so nothing of his touches anything of ours. The route book keeps that sentence beside the day's distance, which is exactly where it belongs.",
+  "reasoning": "R-33 chain: Subject / Fragment-III / Major-γ / City Sorrow → people entitled to everything and refused nothing, for whom the one standard pattern was unusable, withdrawing through correctly documented silence → a twenty-metre figure that places its feet to touch nothing, goes round every obstacle, sits when approached and never follows anybody → work is one seated Warden inside the tremor line, saying aloud what it carries; force is filed as making the holding lonelier → the route lengthens yearly against uncollected entitlements, and breach harm is structural, never contact. Rows may not give it reaches, grasps or spreading solitude; the unnamed +2 and pairing contradictions stay HELD.",
+  "history": "Batch 128 unit 1 (f1b2a2ae) performed the full-SE review — extending all three equipment profiles and *Room to Stand* / *Enough Space* with load limits, consent, one-impact protection and shutdown/care, keeping numeric stats and the unnamed +2 — and found no prior exact-pair disposition, taking the Weapon increment there. Both the full-SE disposition and SE-105-B/MAW-W-105-01 are in the baseline: Batch 188 earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+  "holds": [
+    "The unnamed +2 working stat stands exactly as Batch 128 left it; the Stigma's Head / 4% versus the Registry's generic Accessory / 5% is likewise untouched, and the Registry disposes no Weapon numbers (Variable / - / -).",
+    "R-19 pairing contradictions stand unreduced: transient bilateral calming with the Colossus, the Mother's steady gauge rise across four pairings, the Soldier shortening the walk, the Healer moving neither gauge — against the index's no-assistance wording. No net class was elected.",
+    "The route length's correlation with uncollected entitlements is the file's own reading, held beside the measured distance; the Tale's growing-body stratum is preserved alongside the withdrawal-records account without reconciliation."
+  ],
+  "split": [
+    4,
+    1
+  ],
+  "repairs": [
+    {
+      "id": "combat_first_three",
+      "kind": "careful",
+      "careful": true,
+      "old": "| { *The Long Reach* [**Debuff**] } | \"Its arm comes from impossibly far away — loneliness has made it desperate to touch someone.\" | [The Giant reaches across the distance; its enormous hand closes near the target.] | *Target suffers -10 Resolve; the reach is inescapable.* **[10 Weight DMG [Weight]]** | When the Giant notices the target. |\n| { *The Empty Hand* [**Debuff**] } | \"The hand closes on nothing — and the nothing is the worst part.\" | [The Giant grasps and finds no one; the rejection deepens its sorrow.] | *Target loses 10 Resolve under the weight of that loneliness.* **[10 Weight DMG [Weight]]** | When the target avoids the hand. |\n| { *The Heavy Step* [**Attack**] } | \"One footstep, and the ground buckles for a hundred meters.\" | [The Giant treads forward; the impact alone is a blow.] | *Inflicts Weight pressure and one tremor-wound.* **[14-22 Weight DMG [Weight]]** | When the Giant moves. |",
+      "new": "| { *The Long Reach* [**Debuff**] } | \"Nothing reaches for anybody. The tremor gets there first, and that is the furthest the Giant ever extends toward a person.\" | [It notices a watcher by slowing, and by sitting when approached. The tremor line is read from the ground, and positions are set along it instead of across its path.] | *-10 Resolve in the Warden standing inside the tremor, from the face more than the mass; a sitting is logged as an exposure rather than a shift.* **[10 Weight DMG [Weight]]** | When a Warden steps inside the tremor line. |\n| { *The Empty Hand* [**Debuff**] } | \"Walk up to it and it folds down onto the ground, slowly, and waits there. Twice it stayed on after the Warden had gone — in the same spot, for days.\" | [No grasping and no rejection. The weight here is what the sitter keeps: everybody it has walked beside keeps some of it afterwards, so a sitting is one Warden and no more.] | *-10 Resolve, carried off the route; counsellors run the rotation because the accompaniment does not end when the sitting does.* **[10 Weight DMG [Weight]]** | When a sitting ends and the figure stays. |\n| { *The Heavy Step* [**Attack**] } | \"Nine point six kilometres yesterday, in a district you can cross in two — measured with a wheel, against the plan.\" | [The step is a detour, not a blow: sixty years of record hold no deliberate contact with any structure, whatever the detour cost it. Structures contacted: invariably none.] | *Weight pressure arrives ahead of the figure with the tremor; casualties on this holding are structural, along an uncleared line, never from contact.* **[14-22 Weight DMG [Weight]]** | When something has been left standing on the published route. |"
+    },
+    {
+      "id": "combat_ultimate",
+      "kind": "short",
+      "careful": false,
+      "old": "| { *The Alone* [**Ultimate**] } | \"It does not want to hurt you. It just cannot bear to be alone — and it will make you understand.\" | [The loneliness spreads out from the figure and presses every worker within the tremor's reach into his own company.] | *All personnel suffer Weight pressure for three turns under the weight of solitude.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *The Alone* [**Ultimate**] } | \"It does not spread, and it makes nobody understand anything. It walks the long way round everything, every day, so as not to put a hand on anybody's wall.\" | [What lengthens is the route: 4.1, 6.8, 9.6 kilometres a day, tracking one line in the Issue Office's return — persons entitled to the standard issue who drew none of it in the year.] | *Weight pressure distributed across everyone the pattern does not fit and who will not become the kind of person who asks.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the year's uncollected entitlements rise again. |"
+    },
+    {
+      "id": "flavor_first_contact",
+      "kind": "short",
+      "careful": false,
+      "old": "**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Weight always changes a room. Then the Subject-Body resolves: A twenty-meter humanoid of dark Han-crystal. It walks slowly, avoiding buildings and people.",
+      "new": "**At first contact:** The tremor arrives first, and then the placing of the feet — everything about the movement organised around not touching anything. Twenty metres, dark and dense, warm at close range, wet stone on the air. Watch it reach an obstacle; if it goes round, this is the holding."
+    },
+    {
+      "id": "flavor_continued_exposure",
+      "kind": "short",
+      "careful": false,
+      "old": "**With continued exposure:** With time, the entity becomes less abstract and more specific. The Weight is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.",
+      "new": "**With continued exposure:** Wardens who have sat with it describe a lasting change in what they notice — doorways, benches, stairs somebody could not use. The counsellors file that as exposure, not benefit."
+    },
+    {
+      "id": "flavor_activates",
+      "kind": "short",
+      "careful": false,
+      "old": "**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Weight becomes something you can taste, hear, or feel on your skin. The Subject-Body has crossed the line between containing and becoming.",
+      "new": "**When the entity activates:** Nothing crosses any line. It is off its route, it is not coming for anybody, and the instruction is to clear the line and get out of the way of the walls — blocking corridors converts an avoidant entity into a demolition event."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.028  clean   286 grams  기록 (Registrum)\n 0.019  clean   108 grams  Breach Behavior\n 0.015  clean   131 grams  Operational Parameters\n 0.010  clean   682 grams  Combat Record\n 0.005  clean   782 grams  M.A.W. Equipment\n 0.003  clean  1097 grams  Warden Record\n 0.000  clean   583 grams  감각 묘사 (Flavor Text)\n 0.000  clean   402 grams  이야기 (Narratio)\n 0.000  clean   260 grams  관찰 기록 (Observation Log)\n 0.000  clean   223 grams  Trivia\n 0.000  clean   215 grams  Appearance\n 0.000  clean   199 grams  이야기 보고 (Story Log)\n 0.000  clean   182 grams  Behavior\n 0.000  clean   171 grams  Origin\n 0.000  clean   150 grams  최종 관찰 (Final Observation)\n 0.000  clean    46 grams  SECC Classification\n 0.000  clean    44 grams  증언 (Testimonium)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   55   2  | **Resistance** | 35% against Weight pressure; 25% against everything else. Nothing is rated against the walking itself: the Gian\n   84   4  | { *The Solitary Howl* [**Attack**] } | \"It howls for company — and the sound is heavy enough to break.\" | [When it is wounded or\n   85   1  | { *The Alone* [**Ultimate**] } | \"It does not spread, and it makes nobody understand anything. It walks the long way round every\n  174   2  - **Sorrow Gauge on breach:** Opens at 30% and rises 5% per structure damaged rather than per turn; a cleared route keeps it almos\n  207   3  **Appearance:** a draped mantle of Weight Han-weave, matte and heavy across the shoulders, that draws in near the source element: \n  253   1  | **Before use** | Wielder, piece, and a dated baseline taken by a second person: does the bearer still feel the tremor in the gro\n  392   6  **Operational interpretation:** The classification is the frame and this record is the picture, and neither is a substitute for st\n  394   2  **Review requirement:** After every incident, recheck the gauge, the field, the personnel and the location — and on this holding r\n  431   3  The issue clerks asked for one power: to fit a suit to a man in a single case, where the standard pattern physically cannot be wor\nGENERIC 0.005  (26 shared shingles)  SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/105_Lonely_Giant/SE-105-A__SIDE_CODEX_The_Lonely_Giant.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/105_Lonely_Giant/SE-105-B__MAW-W_The_Giants_Maul.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/105_Lonely_Giant/SE-105-C__MAW-S_The_Giants_Mantle.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/105_Lonely_Giant/SE-105-D__MAW-G_The_Giants_Ring.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/105_Lonely_Giant/SE-105-A__SIDE_CODEX_The_Lonely_Giant.md": "2d8362f9b57e444d50cb5931db3242a8702904ee894b63a56ba6afda725dc05d",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/105_Lonely_Giant/SE-105-B__MAW-W_The_Giants_Maul.md": "c3b4c9df9662f3fe7e2002362f35aec16e1285329e6d1fa3058c49525f8a0f3c",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/105_Lonely_Giant/SE-105-C__MAW-S_The_Giants_Mantle.md": "89db741428b32db48d656ba3b95592bfe1f1865fa4ea73ad2601c5a4bb5ca028",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/105_Lonely_Giant/SE-105-D__MAW-G_The_Giants_Ring.md": "e87dc5ed0af679ccdd39bad04867f1ca77691efae4bbbf2348d1fb46ce0b8e3d",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-105_The_Lonely_Giant_%EC%99%B8%EB%A1%9C%EC%9A%B4_%EA%B1%B0%EC%9D%B8.md \"SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인.md\")]",
+  "table_link": "[The Lonely Giant](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-105_The_Lonely_Giant_%EC%99%B8%EB%A1%9C%EC%9A%B4_%EA%B1%B0%EC%9D%B8.md \"SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인.md\")",
+  "reading": {
+    "before_lines": 452,
+    "before_bytes": 45340,
+    "final_lines": 452,
+    "final_bytes": 46256
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 83,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": ""
+  }
+}

@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIIγ-105": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_02_THE_LONELY_GIANT.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -437,8 +449,29 @@
     {
       "designation": "C-IIIγ-105",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Five supported repairs (4 short / 1 careful) give the sheet the Giant's own manner: careful, slow, touching nothing. Rows 1–3 drop the inescapable reaching hand, the rejection-grasp and the tremor-wound for tremor-first contact, a figure that folds down and waits, and a 9.6-kilometre detour measured with a wheel. The Ultimate stops spreading solitude and tracks the Issue Office's uncollected-entitlements line instead; three stock Flavor blocks become go-round identification, doorway noticing, and a clearance instruction. HELD; +0/+0/+0.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_02_THE_LONELY_GIANT.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/105_Lonely_Giant/SE-105-A__SIDE_CODEX_The_Lonely_Giant.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/105_Lonely_Giant/SE-105-B__MAW-W_The_Giants_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/105_Lonely_Giant/SE-105-C__MAW-S_The_Giants_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/105_Lonely_Giant/SE-105-D__MAW-G_The_Giants_Ring.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIIγ-115",

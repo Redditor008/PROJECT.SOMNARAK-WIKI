@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 188 — OPEN, 1 / 5 (2026-10-27)
+## Batch 188 — OPEN, 2 / 5 (2026-10-27)
+
+**Unit 2 — The Lonely Giant `C-IIIγ-105`: HELD.** Five supported repairs (4 short / 1 careful; 7575→7753 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_02_THE_LONELY_GIANT.md). Batch 128 already counted set 105: +0/+0/+0. Completed 2/5; No change 0; held 198 / pending 83.
 
 **Unit 1 — Dreaming Ruin `N-IIIγ-505`: HELD.** Three supported repairs (2 short / 1 careful; 7569→7810 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_01_DREAMING_RUIN.md). Set SE-1036 already counted (B104 + in-file 2026-10-12 review): +0/+0/+0. Completed 1/5; No change 0; held 197 / pending 84.
 
