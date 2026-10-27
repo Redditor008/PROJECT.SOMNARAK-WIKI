@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B191 U2 I Alone Crossed `C-IVδ-106` HELD, +0.** 6 repairs (3s/3c), 7,846→7,998w. Types 280/301 (93.02%), Weapon 278/287 (96.86%), SE 18/301 (5.98%); held 213 / pending 68. [Evidence](SE_APPEARANCE_REVIEWS/B191_02_I_ALONE_CROSSED.md).
+- **Latest: B191 U3 Bulwark `N-Iα-459` HELD, +0.** 1 careful repair, 7,855→7,911w. Types 280/301 (93.02%), Weapon 278/287 (96.86%), SE 18/301 (5.98%); held 214 / pending 67. [Evidence](SE_APPEARANCE_REVIEWS/B191_03_BULWARK.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

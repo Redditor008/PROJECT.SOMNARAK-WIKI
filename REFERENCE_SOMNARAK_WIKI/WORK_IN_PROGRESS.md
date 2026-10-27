@@ -1,8 +1,10 @@
 # Work In Progress
 
-## Batch 191 — OPEN, 2 / 5 (2026-10-27)
+## Batch 191 — OPEN, 3 / 5 (2026-10-27)
 
 Fresh ranking of 70 pending dossiers (LC_ALL=C wc -w ascending). Queue: Somnium `C-IVγ-175`, I Alone Crossed `C-IVδ-106`, Bulwark `N-Iα-459`, Debt-Collector's Lantern `N-IIβ-250`, Aegis `C-IVδ-200`. (Queue corrected to true LC_ALL=C wc counts before any unit was reviewed; Anger Underfoot ranks 6th.) Units 1–5 are reviews 2–6 of this prompt.
+
+**Unit 3 — Bulwark `N-Iα-459`: HELD, +0.** One careful repair (7,855→7,911 words): the Ultimate stops waking every wall in the field for an entity that has never woken in thirty years. Credit +0 — the primary already carries a dated full-set source review with the exact-pair Weapon disposition. [Evidence](SE_APPEARANCE_REVIEWS/B191_03_BULWARK.md).
 
 **Unit 2 — I Alone Crossed `C-IVδ-106`: HELD, +0.** Six repairs (3 short / 3 careful; 7,846→7,998 words): no falling masonry in a chamber that holds no bridge, consequences billed in the file's own numbers (1,204 transcriptions, fourteen answered). Fresh credit refused — Side A already carries a written Weapon-profile hold (Span-Cleaver vs Requiem left unselected). [Evidence](SE_APPEARANCE_REVIEWS/B191_02_I_ALONE_CROSSED.md).
 

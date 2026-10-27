@@ -318,8 +318,122 @@
         "source_files_unchanged": 10,
         "digit_sequence_change": ""
       }
+    },
+    {
+      "designation": "N-Iα-459",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-459_Bulwark_잠든_벽.md",
+      "words": 7855,
+      "sha256": "82d885d28bd638001a17b4af7cc17d2bbac9b3c08571bd8dd327aee6ede55dc0",
+      "unit": 3,
+      "name": "Bulwark",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_03_BULWARK.md",
+      "before_words": 7855,
+      "after_words": 7911,
+      "base": "01b635a16bf2abb2c78b710c601248933a5b3a1b",
+      "final_sha256": "0cbc1df6456dfe369cf1abf660fcc622c6c23d52037911469e17d4e25538a9a1",
+      "summary": "One careful repair: the Ultimate no longer has every wall in the field wake at once — the file's thirty-year record is that the wall has never moved, opened or woken, and the row above it already marks full awakening as modelled only — so the row now takes the same modelled status and deals the documented harm, expansion: the quiet reaching further and people inside it ceasing to raise things. Fresh credit +0/+0: the primary already carries a dated full-set source review (2026-10-13) recording the first exact-pair Weapon disposition. Whole design HELD.",
+      "commentary": "Bulwark is the mirror of Somnium — a facility whose provisions were flawless and whose caliper still read ninety-six millimetres — and its file was nearly clean. The one place it overclaimed was the Ultimate row, waking every wall in the district for an entity whose entire record is that it has never woken at all; the row now carries the same 'modelled only' mark as the awakening above it, and its harm is the one twice detected from a blank complaint book. The set review had already been done inside the file, gun versus lens and all, so this review confirms those holds and adds nothing to the counters.",
+      "reasoning": "Set SE-459 identity resolved from Side A (SECC Designation N-Iα-459 [VP], set 'Presence Outside the Wall', source line naming this primary) and item codes MAW-W/S/G-459-01; flat set under Registry_456_to_488. Sentence triage: consequences, expansion record, welfare entries and flavor are all holding-specific; the single defect was the Ultimate row asserting a propagated waking event ('Every wall in the field starts to stir… among waking barriers') against thirty years of never-woken record and the explicitly modelled Full Awakening row. R-18 split declared before the apply: 0 short / 1 careful. Figures and digit sequences untouched. The Side resonance's own 'wakes the Bulwark and turns every wall into exclusion' line stays in its source; the primary governs itself.",
+      "history": "Fresh credit barred by the in-file **Full-set source review (2026-10-13)** already printed in the primary: it reads every local M.A.W. claim against exact Side A SE-459-A, B/C/D, Registry rows 683–686, Master M.A.W. 571–573, Entity Codex 559 / Tale 191 and archetype MAW-W-459, names the +1 Composure bonus, separates no-Tool-grade from the α set, and records 'First exact-pair Weapon disposition: SE-459-B (MAW-W-459-01)'. This review re-read Side A (54 lines) and items B/C/D whole and confirms the holds; NO equipment entry appended. Types +0, Weapon +0, SE +0; counters stay 280/301, 278/287, 18/301.",
+      "holds": [
+        "Weapon identity fork, as the in-file review held it: primary/table/archetype 'The Slumbering Wall-Gun' (five-foot fortress gun that will not fire through a file) vs SE-459-B 'Bulwark Lens' and Master 571 'Sleeping Wall Lens'; Void 3–6 / Speed 2 / Range 2 / Single / 5 / 15 agree, no form transition exists; archetype Instant is not item Range 2 Short.",
+        "Suit: linked harness (primary and item C agree, 1.2/0.8/0.3/1.1) vs Master 'Sleeping Wall Plate' Hauberk/Chain-Mail taxonomy — apart.",
+        "Stigma Head / 5% / +1 Composure (primary, Side and item D agree) vs Master Brooch taxonomy and Registry generic Accessory — unresolved as left; primary's cold-at-'I am fine' trigger vs Side/item warmth-for-consented-presence function remain distinct.",
+        "Side A subject line still reads 'Place-Lament' against the primary's corrected Place-Void / [VP] — sources not edited; the primary records the drift as corrected.",
+        "The 206 opt-outs / 38 unapproachable, the destroyed fourth token, and whether waiting-to-be-asked ever preserved dignity remain the file's open record."
+      ],
+      "split": [
+        0,
+        1
+      ],
+      "repairs": [
+        {
+          "id": "R1-every-wall-wakes",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Every Wall Wakes* [**Ultimate**] } | \"Every wall in the field starts to stir, and all of them are working out at once who belongs inside.\" | [The Wall carries its waking out across the whole area.] | *Everyone in range takes Void erosion for three turns among waking barriers.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the gauge passes 65%. |",
+          "new": "| { *Every Wall Wakes* [**Ultimate**] } | \"Modelled only, like the row above it. In thirty years the wall has never woken, and what rises past the chalk in the meantime is not barriers stirring but the quiet doing its ordinary work.\" | [Reconstruction; never observed. The documented analogue is expansion: the quiet reaches further across the lot and people inside it stop raising things.] | *Everyone in range takes Void erosion for three turns; on record, the harm is applications not made and things not raised, twice first noticed from a blank complaint book.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | Modelled at a gauge past 65%. Six expansions in thirty years, all identified afterwards from the marks. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-Iα-459_Bulwark_잠든_벽.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.010  clean   511 grams  기록 (Registrum)\n 0.003  clean   330 grams  관찰 기록 (Observation Log)\n 0.003  clean   759 grams  M.A.W. Equipment\n 0.002  clean   570 grams  Combat Record\n 0.000  clean   990 grams  이야기 보고 (Story Log)\n 0.000  clean   563 grams  감각 묘사 (Flavor Text)\n 0.000  clean   340 grams  Expansion Behavior\n 0.000  clean   320 grams  이야기 (Narratio)\n 0.000  clean   280 grams  Trivia\n 0.000  clean   261 grams  Appearance\n 0.000  clean   244 grams  Origin\n 0.000  clean   138 grams  Behavior\n 0.000  clean   136 grams  Operational Parameters\n 0.000  clean   110 grams  최종 관찰 (Final Observation)\n 0.000  clean    61 grams  증언 (Testimonium)\n 0.000  clean    51 grams  SECC Classification\n 0.000  clean    29 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   84   1  | { *Every Wall Wakes* [**Ultimate**] } | \"Modelled only, like the row above it. In thirty years the wall has never woken, and wha\n  256   2  **Full-set source review (2026-10-13):** Read every local M.A.W. claim against exact Side A `SE-459-A` (`N-Iα-459 [VP]`, `4/4`), B\n  277   1  | **Post-contact review** | Three caliper readings, the chalk lines with their bearings, the sealed declaration, and the quarter's\n  396   3  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant) · the welfar\n  401   2  **Operational interpretation:** This file is read with the welfare return beside it. On its own it holds a wall that has never don\nGENERIC 0.002  (9 shared shingles)  SE-N-Iα-459_Bulwark_잠든_벽.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-459-A__SIDE_CODEX_Bulwark.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-459-B__MAW-W_The_Bulwark_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-459-C__MAW-S_The_Bulwark_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-459-D__MAW-G_The_Bulwark_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-459-A__SIDE_CODEX_Bulwark.md": "d017a99086bbc4dd4615fe6fa54a6b8b0ab0520f4fc6c931e08193b08d28e4be",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-459-B__MAW-W_The_Bulwark_Lens.md": "3972934dd8549f4fb00ef8076031277aab83d3045aa362e7b55fa461bf42f847",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-459-C__MAW-S_The_Bulwark_Plate.md": "8aced1126828399ede5428697a23213973894655257e9cdc4a58823173088276",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-459-D__MAW-G_The_Bulwark_Charm.md": "716e897929f021fb3da84986f23029483dd6c370d16154bd8eda29949fed1e8e",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-Iα-459_Bulwark_잠든_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-459_Bulwark_%EC%9E%A0%EB%93%A0_%EB%B2%BD.md \"SE-N-Iα-459_Bulwark_잠든_벽.md\")]",
+      "table_link": "[Bulwark](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-459_Bulwark_%EC%9E%A0%EB%93%A0_%EB%B2%BD.md \"SE-N-Iα-459_Bulwark_잠든_벽.md\")",
+      "reading": {
+        "before_lines": 426,
+        "before_bytes": 46698,
+        "final_lines": 426,
+        "final_bytes": 47058
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 67,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": ""
+      }
     }
   ],
   "opened_at": "2026-10-27",
-  "completed": 2
+  "completed": 3
 }

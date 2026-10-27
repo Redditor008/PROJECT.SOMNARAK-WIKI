@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-Iα-459": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_03_BULWARK.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -5398,8 +5410,29 @@
     {
       "designation": "N-Iα-459",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-459_Bulwark_잠든_벽.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "One careful repair: the Ultimate no longer has every wall in the field wake at once — the file's thirty-year record is that the wall has never moved, opened or woken, and the row above it already marks full awakening as modelled only — so the row now takes the same modelled status and deals the documented harm, expansion: the quiet reaching further and people inside it ceasing to raise things. Fresh credit +0/+0: the primary already carries a dated full-set source review (2026-10-13) recording the first exact-pair Weapon disposition. Whole design HELD.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_03_BULWARK.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-459-A__SIDE_CODEX_Bulwark.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-459-B__MAW-W_The_Bulwark_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-459-C__MAW-S_The_Bulwark_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-459-D__MAW-G_The_Bulwark_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-Iα-518",
