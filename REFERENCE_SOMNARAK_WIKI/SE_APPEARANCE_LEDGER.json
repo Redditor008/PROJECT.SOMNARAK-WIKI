@@ -27,7 +27,20 @@
       "C-IIIβ-036",
       "C-IIβ-100"
     ],
-    "reviewed": {}
+    "reviewed": {
+      "C-Iα-175": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_01_ANGER_UNDERFOOT.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -2978,8 +2991,29 @@
     {
       "designation": "C-Iα-175",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-175_Anger_Underfoot_스며든_흔적.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Three careful repairs: the Branding no longer burns a permanent wound into skin (the trace is fever-cold and has injured nobody in a hundred and ten years; what thickens is the ground where an argument is conducted over it), the Full Contamination no longer has the Trace take a person over, and the Contagion no longer hops person to person — the edge advances surface to surface, eleven to twenty days behind a complaints-office signature, and has never left the Commons. Fresh credit +0/+0: the primary already carries three written per-piece item-record dispositions of exact set SE-1017. Whole design HELD.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_01_ANGER_UNDERFOOT.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1017_Anger_Underfoot/SE-1017-A__SIDE_CODEX_Anger_Underfoot.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1017_Anger_Underfoot/SE-1017-B__MAW-W_The_Trace_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1017_Anger_Underfoot/SE-1017-C__MAW-S_The_Trace_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1017_Anger_Underfoot/SE-1017-D__MAW-G_The_Trace_Mark.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Iα-236",

@@ -1,0 +1,128 @@
+{
+  "designation": "C-Iα-175",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-175_Anger_Underfoot_스며든_흔적.md",
+  "words": 7870,
+  "sha256": "b1cb700c1151464a7e0f92fb16e0e3db3e8906f62f3d8eb7171022fa06ff26a4",
+  "unit": 1,
+  "name": "Anger Underfoot",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_01_ANGER_UNDERFOOT.md",
+  "before_words": 7870,
+  "after_words": 8019,
+  "base": "00686ec039d8e86901370652131ce1e17b8a343c",
+  "final_sha256": "b0d869817d22ee4a65f393a97e4b13817b22335cdf627208d249a47737dc0dc0",
+  "summary": "Three careful repairs: the Branding no longer burns a permanent wound into skin (the trace is fever-cold and has injured nobody in a hundred and ten years; what thickens is the ground where an argument is conducted over it), the Full Contamination no longer has the Trace take a person over, and the Contagion no longer hops person to person — the edge advances surface to surface, eleven to twenty days behind a complaints-office signature, and has never left the Commons. Fresh credit +0/+0: the primary already carries three written per-piece item-record dispositions of exact set SE-1017. Whole design HELD.",
+  "commentary": "The twin of the Bulwark file — another instrument reading the facility back to itself, this time in centimetres behind unnamed complaint answers — and its combat table again belonged to a different genre: searing brands, takeovers, person-to-person infection, on a red line that has never been seen to move. The repairs keep the damage figures and change the assailant: an argument finished on the route, a signature three weeks ago in another building. The 175 suffix split cleanly this time: SE-175 was Somnium's set in the last batch; Anger Underfoot's is SE-1017, and its items were already dispositioned inside the primary.",
+  "reasoning": "Exact set identity: SE-1017 (Side A and all items carry 'Source SECC Designation C-Iα-175 [GP]'; Registry rows 230–233). SE-175 belongs to Somnium C-IVγ-175 (Batch 191 Unit 1) and is not this set. Sentence triage: consequences, expansion record, grievance-return entries and flavor are holding-specific; defects were the Branding's burning indelible wound and 'when heated' trigger (fever-cold, never-injured record), the Full Contamination takeover, and the Contagion's person-to-person hop (against the 11–20-day-lagged, surface-bound, Commons-bound advance). R-18 split declared before the apply: 0 short / 3 careful. First Mark and Bleed rows left as pressure-mark debuffs. Digits unchanged.",
+  "history": "Fresh credit barred by three written per-piece item-record dispositions already inside the primary — 'Binding check' (Fang), 'Attribution review' (Plate) and 'Borrowed-history limit' (Mark) — each reading the SE-1017 item's binding/shutdown terms against the primary's circuit doctrine and declining to merge accounts. This review re-read Side A (66 lines) and items B/C/D whole (58/58/57 lines), confirmed identity (Registry rows 230–233) and the holds below, and appends NO equipment entry. Types +0, Weapon +0, SE +0; counters stay 280/301, 278/287, 18/301.",
+  "holds": [
+    "Item terminal states ('Anger Underfoot's manifestation uses the bearer as its new site', all three pieces) vs the primary's hundred-and-ten-years record that the trace has never left the Commons or crossed a dwelling threshold — item template language preserved in its sources, not imported.",
+    "Item histories quote source responses ('Tests whether the worker can walk without adding another mark') in forms the primary's Behavior table states differently (silent solo circuit, nothing carried) — close cousins, kept distinct as the in-file notes leave them.",
+    "Stigma Tail / 5% / +1 agree across primary, Side and item D vs Registry generic Accessory / 5%.",
+    "Side A trigger 'Repeated anger along the same route' vs the primary's measured trigger (conduct grievance closed without a named respondent, 11–20-day lag) — primary governs itself; Side line not imported.",
+    "The feud's cause and names (twice refused from the Commons elders), the 31% fall in self-reporting across the rule's boundary, and the Year 4230 Garden-of-Thorns refusal remain the file's open record."
+  ],
+  "split": [
+    0,
+    3
+  ],
+  "repairs": [
+    {
+      "id": "R1-branding-burn",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Branding* [**Attack**] } | \"The trace burns — the mark sears deeper, becoming permanent.\" | [The Trace burns itself into the target.] | *Inflicts Grudge pressure and one burning, indelible wound.* **[14-22 Grudge DMG [Grudge]]** | When the Trace is heated. |",
+      "new": "| { *The Branding* [**Attack**] } | \"The trace thickens underfoot — fever-cold, as always; nothing here burns, and in a hundred and ten years it has injured nobody. What deepens is the fury, and it still has nothing in it.\" | [The Trace thickens where it is argued over; the mark that sets is on the ground, not the skin.] | *Inflicts Grudge pressure; the harm is objectless fury taken on at route strength, and the circuit is void from that station.* **[14-22 Grudge DMG [Grudge]]** | When an argument is conducted over the Trace — its one documented response to personnel, logged nineteen times, none sanctioned. |"
+    },
+    {
+      "id": "R2-full-contamination-takeover",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Full Contamination* [**Attack**] } | \"The mark has come over the whole of you, and what is left standing is the grudge itself.\" | [The Trace takes the target over and the resentment becomes what they are.] | *A heavy Crimson takeover; the reading jumps 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Trace has fully developed. |",
+      "new": "| { *The Full Contamination* [**Attack**] } | \"The fury has come over the whole of you — and it is still nobody's. There is no one at the end of it to finish it with.\" | [No takeover is on record: the trace has never left the Commons or crossed a dwelling threshold. What saturates is the sensation, which the counselling wing distinguishes from anger because it cannot be discharged.] | *A heavy Crimson saturation; the reading jumps 15%.* **[24-36 Grudge DMG [Grudge]]** | When the worker carries their own grievance onto the route and finishes it there. |"
+    },
+    {
+      "id": "R3-contagion-hop",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Contagion* [**Ultimate**] } | \"It hops — person to person, wall to wall — until the whole of it is marked.\" | [The Trace goes out over every surface and every person in the field.] | *Everyone in range takes Grudge pressure for three turns while the marks spread.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |",
+      "new": "| { *The Contagion* [**Ultimate**] } | \"It does not hop. Nothing has ever been seen to move. A fortnight later the red edge is a street further on, and everyone crossing the new ground feels the same empty fury at once.\" | [The Trace advances surface to surface, eleven to twenty days behind a closure, and has never left the Commons in a hundred and ten years.] | *Everyone in range takes Grudge pressure for three turns while the new ground reads hot; the event was a signature in the complaints office, not anything on the cobbles.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |"
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-Iα-175_Anger_Underfoot_스며든_흔적.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.019  clean   846 grams  M.A.W. Equipment\n 0.011  clean   441 grams  기록 (Registrum)\n 0.010  clean   603 grams  감각 묘사 (Flavor Text)\n 0.006  clean   644 grams  Combat Record\n 0.002  clean   956 grams  이야기 보고 (Story Log)\n 0.000  clean   411 grams  관찰 기록 (Observation Log)\n 0.000  clean   355 grams  이야기 (Narratio)\n 0.000  clean   325 grams  Expansion Behavior\n 0.000  clean   280 grams  Trivia\n 0.000  clean   261 grams  Origin\n 0.000  clean   226 grams  Appearance\n 0.000  clean   136 grams  Behavior\n 0.000  clean    98 grams  Operational Parameters\n 0.000  clean    94 grams  최종 관찰 (Final Observation)\n 0.000  clean    83 grams  증언 (Testimonium)\n 0.000  clean    33 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   55   1  | **Resistance** | 15% against Grudge pressure; 5% against other pressure types |\n   85   3  | { *The Contagion* [**Ultimate**] } | \"It does not hop. Nothing has ever been seen to move. A fortnight later the red edge is a s\n  188   7  **Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that shakes while it is raised and goes dead quiet \n  205   4  **Binding check:** The Fang’s individual record requires the bearer to name the conflict route and accept “Map the trace and stop \n  211   5  **Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, carrying a thin trace of wherever it was made.\n  231   1  **Appearance:** a marked token of Grudge Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.\n  235   1  **Effect:** +1 when working this entity, and the bearer walks the circuit alone. The mark's holder may not be accompanied, because\n  289   1  The first return under the Rule of the Named Respondent, Year 4238. This facility received one thousand three hundred and nine gri\n  308   1  The ground is the chalk. That tranche moved the edge ninety-four centimetres — the largest advance in a hundred and ten years, in \n  331   1  **After departure:** A worker remembers a complaint they once answered in somebody else's name. Most people in the service have on\n  337   2  **Interaction method:** On paper, and on one question: does the anger have a living owner, a dead owner, or no owner it was ever a\n  344   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  346   1  | **The Wandering Trace** | Filed together on the claim that this anger travels past the Commons, a claim that entered a summary i\n  400   3  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the complaints office, which appears on an ent\n  405   2  **Operational interpretation:** This file is read with the grievance return beside it or not at all. On its own the Commons holds \nGENERIC 0.006  (35 shared shingles)  SE-C-Iα-175_Anger_Underfoot_스며든_흔적.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1017_Anger_Underfoot/SE-1017-A__SIDE_CODEX_Anger_Underfoot.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1017_Anger_Underfoot/SE-1017-B__MAW-W_The_Trace_Fang.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1017_Anger_Underfoot/SE-1017-C__MAW-S_The_Trace_Plate.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1017_Anger_Underfoot/SE-1017-D__MAW-G_The_Trace_Mark.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1017_Anger_Underfoot/SE-1017-A__SIDE_CODEX_Anger_Underfoot.md": "0ac59504db8653e1fc9b897d0e0d76792109a77fcef6bd5a9c7e213d5d0261e4",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1017_Anger_Underfoot/SE-1017-B__MAW-W_The_Trace_Fang.md": "7e2340dfa6cb9cc33697c9c782e60733536011b0a323fc950c52903c3743bfb2",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1017_Anger_Underfoot/SE-1017-C__MAW-S_The_Trace_Plate.md": "f46dc488a09d02cbb2648bb5bcb81a32d8f4fd2fb04f979667037925e1351b1c",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1017_Anger_Underfoot/SE-1017-D__MAW-G_The_Trace_Mark.md": "9092dc5e3877b2b1fc6a4e6a1a4b8226f10d5974542d6caf4d408022197da11c",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-Iα-175_Anger_Underfoot_스며든_흔적](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-175_Anger_Underfoot_%EC%8A%A4%EB%A9%B0%EB%93%A0_%ED%9D%94%EC%A0%81.md \"SE-C-Iα-175_Anger_Underfoot_스며든_흔적.md\")]",
+  "table_link": "[Anger Underfoot](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-175_Anger_Underfoot_%EC%8A%A4%EB%A9%B0%EB%93%A0_%ED%9D%94%EC%A0%81.md \"SE-C-Iα-175_Anger_Underfoot_스며든_흔적.md\")",
+  "reading": {
+    "before_lines": 429,
+    "before_bytes": 47343,
+    "final_lines": 429,
+    "final_bytes": 48173
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 64,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": ""
+  }
+}
