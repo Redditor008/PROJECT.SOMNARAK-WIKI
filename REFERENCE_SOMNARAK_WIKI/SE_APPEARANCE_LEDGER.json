@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Vγ-260": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_04_SORROW_TIDE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -3225,8 +3237,29 @@
     {
       "designation": "C-Vγ-260",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vγ-260_Sorrow_Tide_한의_조수.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Five supported repairs (4 short / 1 careful) take the cresting wave out of a phenomenon that has no Clash row at all. Rows 1–3 become slack (when the pieces were cut), an eleven-minutes-from-sunset onset nobody sees, and the one failure mode sixty years agrees on: alone outdoors after the peak. The stock Appearance protocol becomes the nine-station, almanac-versus-observed instrument; two Flavor blocks become the pairing rule and a Tide that stays weather; one Story Log stub becomes a red-night field excerpt. HELD; fresh +1 Types / +1 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_04_SORROW_TIDE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1027_The_Sorrow_Tide/SE-1027-A__SIDE_CODEX_The_Sorrow_Tide.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1027_The_Sorrow_Tide/SE-1027-B__MAW-W_The_Tide_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1027_The_Sorrow_Tide/SE-1027-C__MAW-S_The_Tide_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1027_The_Sorrow_Tide/SE-1027-D__MAW-G_The_Tide_Stone.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Vγ-320",
@@ -8319,6 +8352,14 @@
       "batch": 187,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_03_BROKEN_DOOR.md",
       "history_proof": "Exact SE-757 / Door to No One / MAW-W-757 search across CHANGELOG, both archived volumes, WORK_IN_PROGRESS and the evidence directory found only an R-29 digit fix, an item-page Appearance expansion (batch 14) and an SVG remake; no earlier independent full-set or exact-pair review and no unit evidence file.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "C-Vγ-260",
+      "batch": 187,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_04_SORROW_TIDE.md",
+      "history_proof": "Exact set is SE-1027 (not suffix-260 Bridge to Nowhere, counted at B115). SEARCH across CHANGELOG, both archived volumes, WORK_IN_PROGRESS and evidence directory found R-29 parity work only (Workstream 9); no earlier independent full-set or exact-pair review and no unit evidence file.",
       "all_types_credit": true,
       "weapon_credit": true
     }

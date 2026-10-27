@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 187 — OPEN, 3 / 5 (2026-10-27)
+## Batch 187 — OPEN, 4 / 5 (2026-10-27)
+
+**Unit 4 — Sorrow Tide `C-Vγ-260`: HELD.** Five supported repairs (4 short / 1 careful; 7,545→7,778 words): rows 1–3 drop the cresting wave for slack, the eleven-minute onset, and being alone outdoors after the peak; the stock Appearance protocol becomes the nine-station instrument; two Flavor blocks and one Story Log stub become the pairing rule, weather-not-weapon, and a red-night excerpt. Exact set is SE-1027 (not the suffix-260 Bridge): **fresh +1 Types / +1 Weapon** / +0 SE. First application carried a fused-word typo; before-file restored, spec amended, rerun once. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B187_04_SORROW_TIDE.md).
 
 **Unit 3 — Broken Door `O-IIβ-757`: HELD.** Three supported repairs (2 short / 1 careful; 7,538→7,816 words): combat rows 1–3 drop the angry barricade and the flying splinter for the posted flame grade, the prohibition that is the seal, and a name–grade–step escalation; two one-line Story Log stubs become the watch record and the leave-taking practice. No earlier independent set review exists: **fresh +1 Types / +1 Weapon** / +0 SE. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B187_03_BROKEN_DOOR.md).
 

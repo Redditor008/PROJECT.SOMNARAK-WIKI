@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 187 — OPEN, 3 / 5 (2026-10-27)
+## Batch 187 — OPEN, 4 / 5 (2026-10-27)
+
+**Unit 4 — Sorrow Tide `C-Vγ-260`: HELD.** Five supported repairs (4 short / 1 careful; 7545→7778 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_04_SORROW_TIDE.md). Exact set SE-1027 identity-resolved, no earlier independent review: **fresh +1 Types / +1 Weapon** / +0 SE. Completed 4/5; No change 0; held 195 / pending 86; Types 273/301 · Weapon 271/287.
 
 **Unit 3 — Broken Door `O-IIβ-757`: HELD.** Three supported repairs (2 short / 1 careful; 7538→7816 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_03_BROKEN_DOOR.md). No earlier independent full-set or exact-pair review: **fresh +1 Types / +1 Weapon** / +0 SE. Completed 3/5; No change 0; held 194 / pending 87; Types 272/301 · Weapon 270/287.
 
