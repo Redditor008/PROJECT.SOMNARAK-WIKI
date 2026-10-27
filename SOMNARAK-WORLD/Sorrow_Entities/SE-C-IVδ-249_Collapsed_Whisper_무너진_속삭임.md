@@ -93,9 +93,9 @@
 ### Consequences
 
 - A resistance that fails is paid for twice over: the raw weight lands on **Resilience** while they are still under, and whatever the breaking does to them afterwards is the holding's own instrument for raising the gauge.
-- Duration is on the holding's side. A sleeper held past the clock does not simply wake tired; the saturation pools in them the way static pools in a channel that is already hissing, and the collapse that follows — psychological first, then somatic, then through the fittings of the station — is the outcome the whole protocol exists to stop.
+- Duration is on the holding's side. A sleeper held past the clock does not simply wake tired; the saturation pools in them the way static pools in a channel that is already hissing, and what follows is why two workers go down together and never one: the second sleeper is there to be surfaced if the first cannot be. The pairing has been needed four times in the holding's history and worked on all four occasions, which is the record the fixed clock is protecting.
 - Nothing in this set is fired for free: the equipment registry holds the parameters on one side, and the account is settled out of the bearer on the other, in full.
-- A bay that closes without closing does not stop at the rail: the holding walks out its event pattern, and the sentence nobody resolved takes the exit the session failed to give it.
+- A bay that closes without resolution puts nothing at the rail and sends nothing after anybody: the bearing series states flatly that this holding does not come looking for anybody, and has not once been found closer to an occupied position in nineteen years. What leaves the session is carried out in the worker's head, and it has a name in this wing — the residue — and a destination, the log, and a rule, which is that nobody works on it afterwards.
 
 ## Appearance
 **Primary Form:** A dream-figure formed from a whisper crushed beneath layers of static and red light. It watches from the edge of sleep.
@@ -304,13 +304,13 @@ The dream collapses around a voice. You see a caravan falling through red dust, 
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room. Then the Subject-Dream resolves: A dream-figure formed from a whisper crushed beneath layers of static and red light. It watches from the edge of sleep.
+**At first contact:** Nobody works this file awake. Contact begins when the sleeper goes under in a monitored bay and the layer takes them: static and red light first, fever-cold, smelling of char and dead signals — and at the edge of it a dream-figure formed from a whisper crushed beneath the layers, watching, never fully arriving. The monitor starts the clock at the first sound, because the sentence is already on its way to the break.
 
 **With continued exposure:** The static acquires structure. Workers begin to hear the shape of the sentence — its length, its urgency, the place where the name of the hazard would sit — without any of its content, and the shape is what they bring out with them.
 
 **When the entity activates:** The layer tightens, the red goes flat, and the voice starts. It runs for about a second and a half. Then it stops, and the stopping is not a fade but a cut, and the worker is left holding the part of a sentence that arrived.
 
-**After departure:** You leave, but the Grudge follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** You surface with the conviction that something vital was almost said to you, and it does not lift at the bay door. The debrief gives it somewhere to go: the residue statement, in your own words, logged verbatim and then left alone — by the counsellors, by the archivists, and by you.
 
 ### Interaction Pattern
 

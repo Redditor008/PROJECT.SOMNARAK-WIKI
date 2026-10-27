@@ -1,8 +1,8 @@
 # Work In Progress
 
-## Batch 190 — OPEN, 2 / 5 (2026-10-27)
+## Batch 190 — OPEN, 3 / 5 (2026-10-27)
 
-**Unit 2 — Memorial Flame Mid-Ceremony `C-IVδ-763`: HELD.** Two careful repairs (7,783→7,839 words): the stock harm catalogue becomes the documented borrowed-bereavement exposure, and a failed entry is priced in corridor heat and a register line against a scene unmoved in 1,106 entries — not in a resuming, escalating ceremony. Fresh credit refused: Side SE-763-A already carries a written Weapon-profile disposition, so the no-prior-review negative fails: +0/+0/+0. [Evidence](SE_APPEARANCE_REVIEWS/B190_02_MEMORIAL_FLAME_MID_CEREMONY.md). Unit 1 Rift HELD. Queue: `C-IVδ-249`, `N-IIIγ-160` run next (reviews 9–10); `C-IIβ-054` waits.
+**Unit 3 — Collapsed Whisper `C-IVδ-249`: HELD — fresh +1 Types / +1 Weapon.** Four supported repairs (2 short / 2 careful; 7,805→7,932 words): the Flavor loses its nonexistent containment door (this holding is worked asleep), and the consequences stop spreading collapse through station fittings or walking the entity out — the surfacing pairing and the never-approaching bearing series are the record. First independent full-set review of SE-249 by negative proof. [Evidence](SE_APPEARANCE_REVIEWS/B190_03_COLLAPSED_WHISPER.md). Units 1–2 HELD at +0. Queue: `N-IIIγ-160` (review 10 of this prompt); `C-IIβ-054` waits; batch stays OPEN 4/5. Counters now Types 278/301, Weapon 276/287, SE 18/301.
 
 ## Batch 189 — CLOSED, 5 / 5 (2026-10-27)
 

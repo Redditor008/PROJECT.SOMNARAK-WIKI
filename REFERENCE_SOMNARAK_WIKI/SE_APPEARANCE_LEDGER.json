@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVδ-249": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_03_COLLAPSED_WHISPER.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2270,8 +2282,29 @@
     {
       "designation": "C-IVδ-249",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Four source-supported repairs (2 short / 2 careful): the Flavor opening loses its template containment door — this holding is worked asleep, from monitored bays — and the after-departure paragraph becomes the residue statement the protocol actually runs; the two Consequences bullets stop promising a collapse that spreads 'through the fittings of the station' and an entity that 'walks out its event pattern', and record instead the surfacing pairing that has worked four times and a bearing series that proves the holding never comes looking for anybody. First independent full-set source review of SE-249: fresh +1 Types / +1 Weapon; whole design remains HELD, SE +0.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_03_COLLAPSED_WHISPER.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-A__SIDE_CODEX_The_Collapsed_Whisper.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-B__MAW-W_The_Warning_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-C__MAW-S_The_Warning_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-D__MAW-G_The_Warning_Thread.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-250",
@@ -8665,6 +8698,14 @@
       "batch": 189,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_05_HARVEST_BEYOND_THE_GATE.md",
       "history_proof": "Fresh exact627source pair/fullset review. Complete evidence/CHANGELOG/WIP designation history search finds no prior review of N-IIβ-627 outside pending fingerprints; no in-file cross-source or full-set review block; equipment_reviews has no 627 entry; git path history only the B179 import (87f1a01). Side A and flat items B/C/D in Registry_622_to_641 read whole including Appearance sections; Registry rows 775-778 confirm identity (Weapon Variable/-/-, Stigma generic Accessory/5%); primary Tallow Falchion vs item/Side/Registry Melting Fang held with identical machine fields; Tail/5%/+1 stands on three agreeing sources. Thus new +1 Types/+1 Weapon, no SE credit (whole design HELD).",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "C-IVδ-249",
+      "batch": 190,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_03_COLLAPSED_WHISPER.md",
+      "history_proof": "Fresh exact249source pair/fullset review. Complete evidence/CHANGELOG/WIP designation history search finds no prior review of C-IVδ-249 outside pending fingerprints; no in-file cross-source or full-set review block (per-piece care paragraphs are equipment records); Side A carries no Weapon-profile hold or disposition paragraph; equipment_reviews has no 249 entry; git path history only the B179 import (87f1a01). Side A and flat items B/C/D in Registry_249_to_260 read whole including Appearance sections; Registry rows 538-541 confirm identity (Weapon Variable/-/-, Stigma generic Accessory/5%); primary machine fields agree with item/Side cards; item-D patrol anecdote vs the primary's no-fragment-forwarding rule held unmerged. Thus new +1 Types/+1 Weapon, no SE credit (whole design HELD).",
       "all_types_credit": true,
       "weapon_credit": true
     }

@@ -8,9 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 190 — OPEN, 2 / 5 (2026-10-27)
+## Batch 190 — OPEN, 3 / 5 (2026-10-27)
 
-**Unit 2 — Memorial Flame Mid-Ceremony `C-IVδ-763`: HELD.** Two careful repairs (7783→7839 words): documented exposure replaces the stock harm list; a failed entry is corridor heat and a register line, not an escalating rite. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_02_MEMORIAL_FLAME_MID_CEREMONY.md). Fresh credit refused on Side A's Weapon-profile hold: +0/+0/+0. Completed 2/5; No change 0; held 208 / pending 73.
+**Unit 3 — Collapsed Whisper `C-IVδ-249`: HELD — fresh +1 Types / +1 Weapon.** Four repairs (2 short / 2 careful; 7805→7932 words); five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_03_COLLAPSED_WHISPER.md). Units 1–2 HELD at +0. Completed 3/5; No change 0; held 209 / pending 72. Counters: Types 278/301, Weapon 276/287, SE 18/301.
 
 ## Batch 189 — CLOSED, 5 / 5 (2026-10-27)
 
