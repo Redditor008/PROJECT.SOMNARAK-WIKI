@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 195 — OPEN, 1 / 5 (2026-10-28)
+## Batch 195 — OPEN, 2 / 5 (2026-10-28)
+
+Unit 2 — **Floating Well `C-IIIγ-448`: HELD; credit-barred, +0.** 9 repairs (2s/7c; 8,184→8,428 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_02_FLOATING_WELL.md).
 
 Unit 1 — **The Dancing Chains `C-IIIγ-102`: HELD; credit-barred, +0.** 12 repairs (5s/7c; 8,168→8,420 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_01_THE_DANCING_CHAINS.md).
 

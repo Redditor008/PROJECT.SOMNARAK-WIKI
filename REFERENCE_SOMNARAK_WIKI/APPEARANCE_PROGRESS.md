@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B195 U1 The Dancing Chains `C-IIIγ-102` HELD, credit-barred, +0.** 12 repairs (5s/7c), 8,168→8,420w. Types 285/301 (94.68%), Weapon 283/287 (98.61%), SE 18/301 (5.98%); held 232 / pending 49. [Evidence](SE_APPEARANCE_REVIEWS/B195_01_THE_DANCING_CHAINS.md).
+- **Latest: B195 U2 Floating Well `C-IIIγ-448` HELD, credit-barred, +0.** 9 repairs (2s/7c), 8,184→8,428w. Types 285/301 (94.68%), Weapon 283/287 (98.61%), SE 18/301 (5.98%); held 233 / pending 48. [Evidence](SE_APPEARANCE_REVIEWS/B195_02_FLOATING_WELL.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 
