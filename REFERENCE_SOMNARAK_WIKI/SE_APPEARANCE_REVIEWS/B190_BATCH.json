@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "batch": 190,
+ "status": "OPEN",
+ "completed_units": 0,
+ "required_units": 5,
+ "queue": [
+  {
+   "unit": 1,
+   "designation": "C-IVδ-193",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-193_Rift_사라진_벽.md",
+   "words": 7718,
+   "sha256": "67a23dc17313a62cc52eb83cdf170b5af4a5706ccea9ec0b7f8f498e8ccda42e"
+  },
+  {
+   "unit": 2,
+   "designation": "C-IVδ-763",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md",
+   "words": 7783,
+   "sha256": "9fd709f4a16165d1789f9e4132ef480eb99ddefdd2fb461d0c1b6142b04b6cfa"
+  },
+  {
+   "unit": 3,
+   "designation": "C-IVδ-249",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md",
+   "words": 7805,
+   "sha256": "d51d48a8df5c22f302eb9ed994a7f33c0aacf9891d76980ab23106ee63cb2935"
+  },
+  {
+   "unit": 4,
+   "designation": "N-IIIγ-160",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-160_Broken_Promise_깨진_약속.md",
+   "words": 7809,
+   "sha256": "c2908ec355c2eefa23662349233449503fd09cb2b86c61720dfc46a8983ef764"
+  },
+  {
+   "unit": 5,
+   "designation": "C-IIβ-054",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-054_The_Empty_Mask_빈_가면.md",
+   "words": 7815,
+   "sha256": "5d833de2c828b74d7fe4ec7d66c12169ba13fa1414740ed1dab3da40232bb66e"
+  }
+ ],
+ "units": [],
+ "opened_at": "2026-10-27"
+}
