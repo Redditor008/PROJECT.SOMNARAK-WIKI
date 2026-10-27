@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIIγ-021": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_02_THE_HOLLOW_CHOIR.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -203,8 +215,29 @@
     {
       "designation": "C-IIIγ-021",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Three source-supported repairs (1 short / 2 careful): the Broken Harmony stops cutting a 'wound of wrong notes' — emotional pressure is the hazard here and the file's only bodily injuries came from its own prohibited Pugnahan attempt — and the Anthem no longer sings 'the whole tragic song at last, from the first line to the last', against the holding's central record that no song has ever finished; all twelve groups now sound at once and every line still breaks. Entry 5's generic 'entity is its exoskeleton' diagnosis is replaced by the sittings-register finding. Fresh credit +0/+0: the in-file M.A.W. Cross-Source Review — Batch 111 is the coverage event. Whole design HELD.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_02_THE_HOLLOW_CHOIR.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/021_Hollow_Choir/SE-021-A__SIDE_CODEX_The_Hollow_Choir.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/021_Hollow_Choir/SE-021-B__MAW-W_The_Silenced_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/021_Hollow_Choir/SE-021-C__MAW-S_The_Silenced_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/021_Hollow_Choir/SE-021-D__MAW-G_The_Silenced_Lyre.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIIγ-031",

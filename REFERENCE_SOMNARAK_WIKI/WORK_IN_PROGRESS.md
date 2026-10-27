@@ -1,8 +1,10 @@
 # Work In Progress
 
-## Batch 192 — OPEN, 1 / 5 (2026-10-27)
+## Batch 192 — OPEN, 2 / 5 (2026-10-27)
 
 Fresh ranking of 65 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-Iα-175`, `C-IIIγ-021`, `O-IIβ-796`, `C-IIIβ-036`, `C-IIβ-100`. Units 1–4 are reviews 7–10 of this prompt; the batch stays open at 4/5 by design.
+
+**Unit 2 — The Hollow Choir `C-IIIγ-021`: HELD, +0.** Three repairs (1 short / 2 careful; 7,946→8,087 words): the Anthem no longer finishes the song nothing in that chamber has ever finished, and the Broken Harmony stops wounding. Credit +0 — in-file Batch 111 cross-source review. [Evidence](SE_APPEARANCE_REVIEWS/B192_02_THE_HOLLOW_CHOIR.md).
 
 **Unit 1 — Anger Underfoot `C-Iα-175`: HELD, +0.** Three careful repairs (7,870→8,019 words): no burning brands, takeovers or person-to-person contagion from a fever-cold line that has never been seen to move. Credit +0 — three per-piece item dispositions already in-file (exact set SE-1017; SE-175 is Somnium's). [Evidence](SE_APPEARANCE_REVIEWS/B192_01_ANGER_UNDERFOOT.md).
 
