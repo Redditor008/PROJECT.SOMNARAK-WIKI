@@ -1,0 +1,49 @@
+{
+ "schema_version": 1,
+ "batch": 188,
+ "status": "OPEN",
+ "completed_units": 0,
+ "required_units": 5,
+ "units": [
+  {
+   "designation": "N-IIIγ-505",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-505_Dreaming_Ruin_돌아온_잔해.md",
+   "words": 7569,
+   "sha256": "a1485512cf1bf7f758cf7c669f57e615b3617b6c8ec94504638833c80d5e844b",
+   "unit": 1,
+   "name": "Dreaming Ruin"
+  },
+  {
+   "designation": "C-IIIγ-105",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인.md",
+   "words": 7575,
+   "sha256": "bc4b0e344f9c871f3ea4ba61eb858d8f66ec7cc61d96e9519f374d0005fcad8b",
+   "unit": 2,
+   "name": "The Lonely Giant"
+  },
+  {
+   "designation": "C-IVγ-130",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-130_Deteriorata_무너지는_성자.md",
+   "words": 7584,
+   "sha256": "6b627dbad94b69b3665fece8bcbf3f4ae4c77da256055e64da94d722d2193891",
+   "unit": 3,
+   "name": "Deteriorata"
+  },
+  {
+   "designation": "N-IIβ-033",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md",
+   "words": 7587,
+   "sha256": "78516f367a64e620b500ff378532ba119ea407364e6380816960244afaea353b",
+   "unit": 4,
+   "name": "Forgotten Soldier"
+  },
+  {
+   "designation": "O-IIIγ-915",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md",
+   "words": 7611,
+   "sha256": "82031b638890dec05ea2e0aeee96c77334a8505638616e7bc80027aece3dd98a",
+   "unit": 5,
+   "name": "Corrosion Dream"
+  }
+ ]
+}

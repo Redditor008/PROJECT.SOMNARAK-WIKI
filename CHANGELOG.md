@@ -8,6 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 188 — OPEN, 0 / 5 (2026-10-27)
+
+Fresh C-locale ranking of the 85 pending froze: Dreaming Ruin `N-IIIγ-505`, The Lonely Giant `C-IIIγ-105`, Deteriorata `C-IVγ-130`, Forgotten Soldier `N-IIβ-033`, Corrosion Dream `O-IIIγ-915`. [Opening record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_OPEN.json). Units 1–4 complete this prompt's ten reviews.
+
 ## Batch 187 — CLOSED, 5 / 5 (2026-10-27)
 
 Five HELD; No change 0; 16 repairs; validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; [closure record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_CLOSE.md). Types 273/301 · Weapon 271/287 · SE Fix 18/301; held 196 / pending 85. Batch 188 opens next.

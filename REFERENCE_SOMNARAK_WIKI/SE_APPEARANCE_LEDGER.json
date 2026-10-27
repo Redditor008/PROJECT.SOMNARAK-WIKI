@@ -17,78 +17,17 @@
   }
  },
  "active_batch": {
-  "number": 187,
-  "status": "CLOSED",
+  "number": 188,
+  "status": "OPEN",
   "required": 5,
   "queue": [
-   "N-IVδ-157",
-   "C-IVγ-255",
-   "O-IIβ-757",
-   "C-Vγ-260",
-   "C-Iα-779"
+   "N-IIIγ-505",
+   "C-IIIγ-105",
+   "C-IVγ-130",
+   "N-IIβ-033",
+   "O-IIIγ-915"
   ],
-  "reviewed": {
-   "N-IVδ-157": {
-    "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_01_TORPOR.md",
-    "no_change": false,
-    "whole_final_reread": true,
-    "checks": {
-     "verify": "PASS",
-     "tpl": "PASS",
-     "sectfile": "PASS",
-     "wikistd": "PASS",
-     "sect": "PASS"
-    }
-   },
-   "C-IVγ-255": {
-    "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_02_HOLLOW_ARCHITECT.md",
-    "no_change": false,
-    "whole_final_reread": true,
-    "checks": {
-     "verify": "PASS",
-     "tpl": "PASS",
-     "sectfile": "PASS",
-     "wikistd": "PASS",
-     "sect": "PASS"
-    }
-   },
-   "O-IIβ-757": {
-    "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_03_BROKEN_DOOR.md",
-    "no_change": false,
-    "whole_final_reread": true,
-    "checks": {
-     "verify": "PASS",
-     "tpl": "PASS",
-     "sectfile": "PASS",
-     "wikistd": "PASS",
-     "sect": "PASS"
-    }
-   },
-   "C-Vγ-260": {
-    "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_04_SORROW_TIDE.md",
-    "no_change": false,
-    "whole_final_reread": true,
-    "checks": {
-     "verify": "PASS",
-     "tpl": "PASS",
-     "sectfile": "PASS",
-     "wikistd": "PASS",
-     "sect": "PASS"
-    }
-   },
-   "C-Iα-779": {
-    "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_05_MISCAST.md",
-    "no_change": false,
-    "whole_final_reread": true,
-    "checks": {
-     "verify": "PASS",
-     "tpl": "PASS",
-     "sectfile": "PASS",
-     "wikistd": "PASS",
-     "sect": "PASS"
-    }
-   }
-  }
+  "reviewed": {}
  },
  "dossiers": [
   {

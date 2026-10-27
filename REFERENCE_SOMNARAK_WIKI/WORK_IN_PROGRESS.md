@@ -1,5 +1,9 @@
 # Work In Progress
 
+## Batch 188 — OPEN, 0 / 5 (2026-10-27)
+
+Fresh C-locale ranking of the 85 pending froze: Dreaming Ruin, The Lonely Giant, Deteriorata, Forgotten Soldier, Corrosion Dream. [Opening record](SE_APPEARANCE_REVIEWS/B188_OPEN.json). Units 1–4 are reviews 7–10 of this prompt; Unit 5 and closure wait for the next P.
+
 ## Batch 187 — CLOSED, 5 / 5 (2026-10-27)
 
 Fresh validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; all 85 remaining pending fingerprints unchanged; no source changes. 16 repairs (11 short / 5 careful), 37,718 → 38,771 words; No change 0; Broken Door and Sorrow Tide fresh +1/+1 each; Types 273/301 · Weapon 271/287 · SE Fix 18/301. [Closure record](SE_APPEARANCE_REVIEWS/B187_CLOSE.md). Batch 188 Units 1–4 follow in this prompt.
