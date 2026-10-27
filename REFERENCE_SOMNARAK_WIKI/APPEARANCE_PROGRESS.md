@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B191 U1 Somnium `C-IVγ-175` HELD, fresh +1/+1.** 3 repairs (2s/1c), 7,816→7,874w. Types 280/301 (93.02%), Weapon 278/287 (96.86%), SE 18/301 (5.98%); held 212 / pending 69. [Evidence](SE_APPEARANCE_REVIEWS/B191_01_SOMNIUM.md).
+- **Latest: B191 U2 I Alone Crossed `C-IVδ-106` HELD, +0.** 6 repairs (3s/3c), 7,846→7,998w. Types 280/301 (93.02%), Weapon 278/287 (96.86%), SE 18/301 (5.98%); held 213 / pending 68. [Evidence](SE_APPEARANCE_REVIEWS/B191_02_I_ALONE_CROSSED.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

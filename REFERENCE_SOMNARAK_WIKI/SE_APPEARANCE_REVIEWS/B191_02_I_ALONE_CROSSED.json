@@ -1,0 +1,149 @@
+{
+  "designation": "C-IVδ-106",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md",
+  "words": 7846,
+  "sha256": "c7800d71b08348d6f7c93213366114c9a800b3691a0aa3b69e74786f49bf2ade",
+  "unit": 2,
+  "name": "I Alone Crossed",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_02_I_ALONE_CROSSED.md",
+  "before_words": 7846,
+  "after_words": 7998,
+  "base": "b9f86f69d24be63abcd60875a69173982c40f5ba",
+  "final_sha256": "f47807d215190273b76325024992c64b36f910f866e7264c5de7b27fa73b04cb",
+  "summary": "Six source-supported repairs (3 short / 3 careful): the Falling Debris row drops its crushing structural wound — the chamber holds no bridge and the file's damage 'is done to nobody's body' — and the four Consequences bullets trade their template harms (channeling, feeling/body/name/ground, composure-memory-flesh, sorrow turning back on its ground) for this holding's measured record: fourteen answered transcriptions in nineteen years, the corridor stride correction, the set's three billed costs, and crossing failing outward as ground. The foreign 'builder who went too high' district-story paragraph becomes the guide's. Fresh credit REFUSED (+0/+0): Side A already carries a written Weapon-profile hold comparing primary, item and card — the cross-source disposition exists. Whole design HELD.",
+  "commentary": "This file keeps its argument at the level of procedure — nobody can acquit the unaccused — and its template residue sat exactly where these dossiers usually keep it: falling masonry in a chamber with no bridge, and a consequences list billing the body on a file that states twice the body is never billed. The repairs spend the file's own numbers instead: 1,204 transcriptions, fourteen answered ones, a stride measured in a corridor. The set review found the disposition already written in Side A, declining to choose between a sweeping cleaver and a skewering requiem under two names; that prior work is the coverage event, so this review adds no equipment credit and changes nothing it held open.",
+  "reasoning": "Set SE-106 identity resolved from Side A (SECC Designation C-IVδ-106 [O], set 'Far Shore') and item codes MAW-W/S/G-106-01. Sentence triage: phases, Apex sections, claim-log analysis and interaction record are holding-specific; defects were the Falling Debris wound (contradicts 'The chamber holds no bridge' and the Resistance note 'damage is done to nobody's body'), the four Consequences bullets (all four stock shapes: becomes-its-channel, the fourfold feeling/body/name/ground catalogue, the composure-then-memory-then-flesh payment ladder, and the unresolved-default line — each contradicted by the documented fourteen-session escalation, per-piece costs and Transform-in-place event), and the Entry 5 district-story paragraph about a builder who went too high whose sorrow 'wept… pooled, and set' — a foreign origin shape inside this guide's file. R-18 split declared before the apply: 3 short / 3 careful. Digit sequences untouched (fourteen/1,204 carried as words already spelled in the frozen primary).",
+  "history": "Fresh credit REFUSED by prior disposition. Side SE-106-A PAGE 04 already contains a written 'Weapon profile hold' that compares the primary and SE-106-B (The Survivor's Span-Cleaver, Lament 14–22, Slow 2, Medium 3, Sweeping Cleave / Structural Sever) against the Side card (I Alone Crossed Requiem, Lament 10–15, Fast 3, Skewer) and declines to select a profile or title — a full cross-source disposition predating this review; per the Memorial Flame (SE-763-A) precedent that is the equipment coverage event. The primary's per-piece prose likewise already incorporates item operating text (debrief partner, Return Span abort, Lantern closure). This review re-read Side A (184 lines) and items B/C/D whole, confirmed identity and the held fork, and appends NO equipment entry. Types +0, Weapon +0, SE +0; counters stay 280/301, 278/287, 18/301.",
+  "holds": [
+    "Weapon profile fork, held as Side A left it: primary + SE-106-B 'The Survivor's Span-Cleaver' (14–22, Slow 2, Sweeping Cleave, girder greatsword) vs Side card 'I Alone Crossed Requiem' (10–15, Fast 3, Skewer); the item is itself internally split — greatsword Appearance, blue Skewer basic/signature attacks, 'Two Requiems formed' in its extraction record. No profile or title selected.",
+    "Suit: primary cool luminous wrapping shroud with pale gap vs item wound-Han-silk shroud with far-side marker at the left shoulder (resistances 0.4/1.0/1.6/0.8 agree) — held.",
+    "Stigma Tail / 4% / +3 agree between primary and item vs Registry generic Accessory / 5% — Registry value never imported.",
+    "Side A subject-card pressure 'Lament 29–62' vs primary Han Pressure 23–50 — not imported.",
+    "Whether the account is true, whether the guide's mind is present or only the guilt's shape, and the counselors' objection (recorded 'correct, and the reading continues') remain the file's standing open questions."
+  ],
+  "split": [
+    3,
+    3
+  ],
+  "repairs": [
+    {
+      "id": "R1-falling-debris-wound",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Falling Debris* [**Attack**] } | \"A piece of the broken bridge shakes loose — and it is aimed at whoever is standing beneath.\" | [A chunk of collapsed bridge-fall strikes.] | *Inflicts Lament pressure and one crushing, structural wound.* **[14-22 Lament DMG [Lament]]** | When the break is disturbed. |",
+      "new": "| { *The Falling Debris* [**Attack**] } | \"Something overhead comes loose — a weight the mind insists is falling toward whoever is standing beneath.\" | [No material falls; the chamber holds no bridge and never has. What lands is the conviction, at full weight, that the worker underneath should have caught it.] | *Inflicts Lament pressure; the harm is entered as the worker's own failure, which is the only kind this holding deals.* **[14-22 Lament DMG [Lament]]** | When the break is disturbed. |"
+    },
+    {
+      "id": "R2-consequences-channel",
+      "kind": "short consequence correction",
+      "careful": false,
+      "old": "- A worker who cannot hold the pressure becomes its channel: **Clarity** is cut down by what pours through, and the instability they carry is fed straight back into the gauge.",
+      "new": "- A worker who cannot hold the pressure starts answering it. Fourteen sessions in nineteen years are marked at exactly that point — a transcriber replying to the account instead of taking it down — and every one of the fourteen shows the escalation inside the same session."
+    },
+    {
+      "id": "R3-consequences-fourfold-loss",
+      "kind": "careful consequence correction",
+      "careful": true,
+      "old": "- Duration works against the crew here: what a short watch can carry turns destructive over a long one, and the file lists what it takes — feeling, body, name, and the ground under all three.",
+      "new": "- Duration works against the crew, and the file puts what a long watch takes in its own terms: the stride first — workers adjusting for a span that is not there, measured in the corridor outside — then the pen, as the transcription starts agreeing, and then the room, which has begun treating the account as settled fact. The body is not on the list; the damage here is done to nobody's body and the register says so beside the resistance figures."
+    },
+    {
+      "id": "R4-consequences-set-payment",
+      "kind": "short cost correction",
+      "careful": false,
+      "old": "- Every draw on the set takes its payment out of the bearer in person — composure first, then private memory, then flesh — and the grade column of the ledger has never had room for figures that size.",
+      "new": "- Every draw on the set is billed in the one currency this holding uses: the Cleaver's unwept survivor grief arriving in the bearer, the Shroud's numbness to minor joys, the Lantern's felt share of every failed crossing witnessed. Three desks, one account — they start carrying other people's outcomes as their own."
+    },
+    {
+      "id": "R5-consequences-unresolved",
+      "kind": "careful consequence correction",
+      "careful": true,
+      "old": "- When a session closes unresolved the sorrow does not thin out; it turns back on the ground it came from, and the pattern entered in this record is what that return looks like.",
+      "new": "- When a session closes unresolved, the account does not fade; it gets entered as settled, and on event the failure moves outward as ground, not as a figure — crossing stops working over a widening volume, the routes behind the boundary close, and the people most exposed are the ones trying to reach whoever is already inside."
+    },
+    {
+      "id": "R6-district-story-builder",
+      "kind": "short flavor grounding",
+      "careful": false,
+      "old": "There is a story the district tells about this file — traded in whispers and paid for in Echoes, older than the station and shorter than the record. It opens with a builder who went too high. Sorrow is nothing unusual in Somnarak, but this one ran differently: it wept until the tears were gone, pooled, and set. What had been wept stiffened into something the city could not put aside.",
+      "new": "There is a story the district tells about this file — traded in whispers and paid for in Echoes, older than the station and shorter than the record. In the district's version the guide is still out there walking the crossing, counting heads at the far bank, and the count never comes out even. The record knows better than to confirm it and better than to lose it: it is the same conviction, carried by people who never met the man, which is what the account does to everyone who hears it."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.028  clean   109 grams  Operational Parameters\n 0.018  clean   614 grams  Combat Record\n 0.012  clean   810 grams  M.A.W. Equipment\n 0.011  clean   184 grams  Trivia\n 0.005  clean   579 grams  감각 묘사 (Flavor Text)\n 0.004  clean   224 grams  기록 (Registrum)\n 0.001  clean  1397 grams  Apex Record\n 0.000  clean   479 grams  이야기 (Narratio)\n 0.000  clean   285 grams  이야기 보고 (Story Log)\n 0.000  clean   268 grams  관찰 기록 (Observation Log)\n 0.000  clean   216 grams  Appearance\n 0.000  clean   162 grams  Behavior\n 0.000  clean   131 grams  Origin\n 0.000  clean   125 grams  Containment Event Behavior\n 0.000  clean   113 grams  최종 관찰 (Final Observation)\n 0.000  clean    60 grams  증언 (Testimonium)\n 0.000  clean    49 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   3  | **Han-Energy yield** | 20–28 per successful work cycle, taken off the gradient readings and never off the crossing |\n   84   4  | { *The Full Rupture* [**Attack**] } | \"The last support gives way — and the entire remaining structure drops into the chasm.\" | \n   85   7  | { *Every Bridge Falls* [**Ultimate**] } | \"The break spreads — to every bridge, every crossing, every connection in the field.\" \n  199   6  **Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that draws in when its source element is close. A\n  221   2  **Appearance:** a tiny lantern of Lament Han-crystal, cool and faintly luminous, that turns cold in the hand whenever its source s\n  227   2  **Effect:** +3 stat bonus while working the source holding, entered at issue against the bearer's name\n  322   1  Three holdings stand inside this crossing's working range — Survivor's Span, The Burning Bridge and The Scar Walker — and each is \n  331   2  | The crossing's neighbour | How the pairing has run | What the gradient series showed | What the entry carries |\n  388   1  **Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the 4-point array a\n  441   1  The counsellors' objection is read immediately after it and has never been answered. A finding about a decision is not the thing a\n  452   2  - **Classification detail:** A Subject with Entity (IV) coherence and Critical (δ) potency, graded for what the claim does to the \nGENERIC 0.005  (31 shared shingles)  SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-A__SIDE_CODEX_I_Alone_Crossed.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-B__MAW-W_I_Alone_Crossed_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-C__MAW-S_I_Alone_Crossed_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-D__MAW-G_I_Alone_Crossed_Lantern.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-A__SIDE_CODEX_I_Alone_Crossed.md": "63364e5c182370ffc6b0dc5ce14422c3e08156ecbd9a49cc13bf1a1dd00c6be9",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-B__MAW-W_I_Alone_Crossed_Requiem.md": "4472e1bf24365d71e91a49e204a355053427ad307c980c668bc11714c7d95140",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-C__MAW-S_I_Alone_Crossed_Shroud.md": "67971fe5c5f8fcf31ef679f33e41deea5d6691628a69468e8f27ea47d82f2f93",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-D__MAW-G_I_Alone_Crossed_Lantern.md": "a4b10c93a4c0e38edece0fd1c09235af564f248658b34067b77d398fb7f98381",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IVδ-106_I_Alone_Crossed_부서진_다리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-106_I_Alone_Crossed_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%8B%A4%EB%A6%AC.md \"SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md\")]",
+  "table_link": "[I Alone Crossed](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-106_I_Alone_Crossed_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%8B%A4%EB%A6%AC.md \"SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md\")",
+  "reading": {
+    "before_lines": 462,
+    "before_bytes": 47729,
+    "final_lines": 462,
+    "final_bytes": 48645
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 68,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": ""
+  }
+}

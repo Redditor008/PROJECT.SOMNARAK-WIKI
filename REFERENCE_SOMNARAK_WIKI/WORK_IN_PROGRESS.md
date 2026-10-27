@@ -1,8 +1,10 @@
 # Work In Progress
 
-## Batch 191 — OPEN, 1 / 5 (2026-10-27)
+## Batch 191 — OPEN, 2 / 5 (2026-10-27)
 
 Fresh ranking of 70 pending dossiers (LC_ALL=C wc -w ascending). Queue: Somnium `C-IVγ-175`, I Alone Crossed `C-IVδ-106`, Bulwark `N-Iα-459`, Debt-Collector's Lantern `N-IIβ-250`, Aegis `C-IVδ-200`. (Queue corrected to true LC_ALL=C wc counts before any unit was reviewed; Anger Underfoot ranks 6th.) Units 1–5 are reviews 2–6 of this prompt.
+
+**Unit 2 — I Alone Crossed `C-IVδ-106`: HELD, +0.** Six repairs (3 short / 3 careful; 7,846→7,998 words): no falling masonry in a chamber that holds no bridge, consequences billed in the file's own numbers (1,204 transcriptions, fourteen answered). Fresh credit refused — Side A already carries a written Weapon-profile hold (Span-Cleaver vs Requiem left unselected). [Evidence](SE_APPEARANCE_REVIEWS/B191_02_I_ALONE_CROSSED.md).
 
 **Unit 1 — Somnium `C-IVγ-175`: HELD, fresh +1/+1.** Three repairs (2 short / 1 careful; 7,816→7,874 words): The Snare stops slicing in a file where nobody is ever hurt, and the breach no longer hunts 'indiscriminately' against its own First Target measurement. First independent set review (SE-175 whole; supervisor/anchor blade fork held): +1 Types / +1 Weapon. [Evidence](SE_APPEARANCE_REVIEWS/B191_01_SOMNIUM.md). Counters: Types 280/301, Weapon 278/287, SE 18/301; held 212 / pending 69.
 

@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVδ-106": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_02_I_ALONE_CROSSED.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2154,8 +2166,29 @@
     {
       "designation": "C-IVδ-106",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Six source-supported repairs (3 short / 3 careful): the Falling Debris row drops its crushing structural wound — the chamber holds no bridge and the file's damage 'is done to nobody's body' — and the four Consequences bullets trade their template harms (channeling, feeling/body/name/ground, composure-memory-flesh, sorrow turning back on its ground) for this holding's measured record: fourteen answered transcriptions in nineteen years, the corridor stride correction, the set's three billed costs, and crossing failing outward as ground. The foreign 'builder who went too high' district-story paragraph becomes the guide's. Fresh credit REFUSED (+0/+0): Side A already carries a written Weapon-profile hold comparing primary, item and card — the cross-source disposition exists. Whole design HELD.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_02_I_ALONE_CROSSED.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-A__SIDE_CODEX_I_Alone_Crossed.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-B__MAW-W_I_Alone_Crossed_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-C__MAW-S_I_Alone_Crossed_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-D__MAW-G_I_Alone_Crossed_Lantern.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-125",

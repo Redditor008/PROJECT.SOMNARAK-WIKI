@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Missing Span* [**Debuff**] } | "Where the bridge should be — nothing. Just the gap, and the wind through it." | [The Bridge's absence creates a void the target must cross.] | *Target suffers -10 Composure; the gap is terrifying.* **[10 Lament DMG [Lament]]** | When the target reaches the break. |
 | { *The Hanging Cable* [**Debuff**] } | "A cable dangles from the broken edge — swaying, singing in the wind, tempting you to grab it." | [The Bridge's remnant offers false hope; the target is drawn toward the edge.] | *Target loses 10 Composure; the temptation of the dangling cable is strong.* **[10 Lament DMG [Lament]]** | When the target stands at the edge. |
-| { *The Falling Debris* [**Attack**] } | "A piece of the broken bridge shakes loose — and it is aimed at whoever is standing beneath." | [A chunk of collapsed bridge-fall strikes.] | *Inflicts Lament pressure and one crushing, structural wound.* **[14-22 Lament DMG [Lament]]** | When the break is disturbed. |
+| { *The Falling Debris* [**Attack**] } | "Something overhead comes loose — a weight the mind insists is falling toward whoever is standing beneath." | [No material falls; the chamber holds no bridge and never has. What lands is the conviction, at full weight, that the worker underneath should have caught it.] | *Inflicts Lament pressure; the harm is entered as the worker's own failure, which is the only kind this holding deals.* **[14-22 Lament DMG [Lament]]** | When the break is disturbed. |
 | { *The Full Rupture* [**Attack**] } | "The last support gives way — and the entire remaining structure drops into the chasm." | [The last support lets go, and everything the crossing was holding comes down into the gap with it.] | *A heavy Deep Blue collapse; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the break is forced wider. |
 | { *Every Bridge Falls* [**Ultimate**] } | "The break spreads — to every bridge, every crossing, every connection in the field." | [The failure travels outward, and every crossing in range starts losing its supports in turn.] | *All in range suffer Lament pressure for three turns of broken crossings.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -92,10 +92,10 @@
 
 ### Consequences
 
-- A worker who cannot hold the pressure becomes its channel: **Clarity** is cut down by what pours through, and the instability they carry is fed straight back into the gauge.
-- Duration works against the crew here: what a short watch can carry turns destructive over a long one, and the file lists what it takes — feeling, body, name, and the ground under all three.
-- Every draw on the set takes its payment out of the bearer in person — composure first, then private memory, then flesh — and the grade column of the ledger has never had room for figures that size.
-- When a session closes unresolved the sorrow does not thin out; it turns back on the ground it came from, and the pattern entered in this record is what that return looks like.
+- A worker who cannot hold the pressure starts answering it. Fourteen sessions in nineteen years are marked at exactly that point — a transcriber replying to the account instead of taking it down — and every one of the fourteen shows the escalation inside the same session.
+- Duration works against the crew, and the file puts what a long watch takes in its own terms: the stride first — workers adjusting for a span that is not there, measured in the corridor outside — then the pen, as the transcription starts agreeing, and then the room, which has begun treating the account as settled fact. The body is not on the list; the damage here is done to nobody's body and the register says so beside the resistance figures.
+- Every draw on the set is billed in the one currency this holding uses: the Cleaver's unwept survivor grief arriving in the bearer, the Shroud's numbness to minor joys, the Lantern's felt share of every failed crossing witnessed. Three desks, one account — they start carrying other people's outcomes as their own.
+- When a session closes unresolved, the account does not fade; it gets entered as settled, and on event the failure moves outward as ground, not as a figure — crossing stops working over a widening volume, the routes behind the boundary close, and the people most exposed are the ones trying to reach whoever is already inside.
 
 ## Appearance
 **Primary Form:** A bridge-shaped consciousness made from a broken promise and a violent crossing. It appears as a pressure in the mind.
@@ -290,7 +290,7 @@ Management: Name the limits of one person's responsibility. Work response — Fl
 
 **Entry 5 — <Director's Memo, Eyes Only>**
 The Director's note: *"We have the weather and not the crossing. Nine people walked onto that span on the best route there was, and the surge took the span. What is filed here is one man's conviction that it was his doing. The Directorate's position — which it may state and may not certify — is that it was not."*
-There is a story the district tells about this file — traded in whispers and paid for in Echoes, older than the station and shorter than the record. It opens with a builder who went too high. Sorrow is nothing unusual in Somnarak, but this one ran differently: it wept until the tears were gone, pooled, and set. What had been wept stiffened into something the city could not put aside.
+There is a story the district tells about this file — traded in whispers and paid for in Echoes, older than the station and shorter than the record. In the district's version the guide is still out there walking the crossing, counting heads at the far bank, and the count never comes out even. The record knows better than to confirm it and better than to lose it: it is the same conviction, carried by people who never met the man, which is what the account does to everyone who hears it.
 
 **Threat rating:** Critical (δ). Proximity installs the belief that one person's failure caused every other loss, and the event removes crossing from a widening volume of ground.
 
