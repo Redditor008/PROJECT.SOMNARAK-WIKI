@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IIIγ-184": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_04_REDACTED.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -3761,8 +3773,29 @@
     {
       "designation": "N-IIIγ-184",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-184_Redacted_잊혀진_나무.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Three source-supported repairs (2 short / 1 careful): both boilerplate movement lines stop claiming the figure 'can breach and pursue' — its two recorded escapes ended at records stores and it has never pursued a worker — and the Registrum Originator no longer supplies 'a citizen erased from records and memory', the one identification the whole file exists to refuse; the field now carries the file's own finding that no originating person can be established. First independent full-set source review of SE-184: fresh +1 Types / +1 Weapon; whole design remains HELD, SE +0.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_04_REDACTED.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/184_Redacted/SE-184-A__SIDE_CODEX_Redacted.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/184_Redacted/SE-184-B__MAW-W_Redacted_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/184_Redacted/SE-184-C__MAW-S_Redacted_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/184_Redacted/SE-184-D__MAW-G_Redacted_Ring.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIIγ-283",
@@ -8569,6 +8602,14 @@
       "batch": 189,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_03_REM.md",
       "history_proof": "Fresh exact135source pair/fullset review. Complete evidence/CHANGELOG/WIP designation, SE-135 and 'Levitating Oneiric' history search finds only pending fingerprints in OPEN/CLOSE files (B164 mention is an unselected pending fingerprint; B164 queue/units are five other dossiers); the primary carries no in-file cross-source or full-set review block; equipment_reviews has no 135 entry; git path history shows only the B179 import (87f1a01). Side A (183 lines) and items B/C/D read whole: item Appearance sections match the primary's paragraphs; Registry rows 382-385 confirm identity; primary prism combat file vs item Wake Line/First Cue, Warm filename titles, and both cost forks held unmerged. Thus new +1 Types/+1 Weapon, no SE credit (whole design HELD).",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "N-IIIγ-184",
+      "batch": 189,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_04_REDACTED.md",
+      "history_proof": "Fresh exact184source pair/fullset review. Complete evidence/CHANGELOG/WIP designation history search finds no prior review of N-IIIγ-184 outside pending fingerprints; the primary carries no in-file cross-source or full-set review block; equipment_reviews has no 184 entry; git path history only the B179 import (87f1a01). Side A (182 lines) and items B/C/D read whole including Appearance sections; Registry rows 454-457 confirm identity (Weapon Variable/-/-, Stigma generic Accessory/5%); primary/Registry Arboretum Lance vs item/Side Redacted Lens, suit appearance, and Head/4%/+2 vs generic Accessory forks held unmerged. Thus new +1 Types/+1 Weapon, no SE credit (whole design HELD).",
       "all_types_credit": true,
       "weapon_credit": true
     }

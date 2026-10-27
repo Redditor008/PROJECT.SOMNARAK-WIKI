@@ -1,8 +1,8 @@
 # Work In Progress
 
-## Batch 189 — OPEN, 3 / 5 (2026-10-27)
+## Batch 189 — OPEN, 4 / 5 (2026-10-27)
 
-**Unit 3 — Rem `C-IIβ-135`: HELD — fresh +1 Types / +1 Weapon.** Three supported repairs (1 short / 2 careful; 7,635→7,763 words): the two template catastrophe lines in Consequences become this holding's documented failures (the operative starts finishing the dream; an unworked watch loses only the record — no breach exists here), and the generic continued-exposure Flavor becomes the sheet reading. First independent full-set review of SE-135 by negative proof. [Evidence](SE_APPEARANCE_REVIEWS/B189_03_REM.md). Unit 2 Sleeping Weight HELD — No change; Unit 1 Aphonia HELD. Queue: `N-IIIγ-184`, `N-IIβ-627`. Counters now Types 275/301, Weapon 273/287, SE 18/301.
+**Unit 4 — Redacted `N-IIIγ-184`: HELD — fresh +1 Types / +1 Weapon.** Three supported repairs (2 short / 1 careful; 7,663→7,745 words): both movement lines drop "can breach and pursue" (two escapes, both to records stores, nobody pursued), and the Registrum Originator stops supplying a citizen the record never named — the field now carries the file's own finding that no originating person can be established. First independent full-set review of SE-184 by negative proof. [Evidence](SE_APPEARANCE_REVIEWS/B189_04_REDACTED.md). Unit 3 Rem fresh +1/+1; Unit 2 No change; Unit 1 HELD. Queue: `N-IIβ-627`. Counters now Types 276/301, Weapon 274/287, SE 18/301.
 
 ## Batch 188 — CLOSED, 5 / 5 (2026-10-27)
 

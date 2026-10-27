@@ -8,9 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 189 — OPEN, 3 / 5 (2026-10-27)
+## Batch 189 — OPEN, 4 / 5 (2026-10-27)
 
-**Unit 3 — Rem `C-IIβ-135`: HELD — fresh +1 Types / +1 Weapon.** Three repairs (1 short / 2 careful; 7635→7763 words); five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_03_REM.md). Unit 2 Sleeping Weight HELD — No change; Unit 1 Aphonia HELD. Completed 3/5; No change 1; held 204 / pending 77. Counters: Types 275/301, Weapon 273/287, SE 18/301.
+**Unit 4 — Redacted `N-IIIγ-184`: HELD — fresh +1 Types / +1 Weapon.** Three repairs (2 short / 1 careful; 7663→7745 words); five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_04_REDACTED.md). Unit 3 Rem fresh +1/+1; Unit 2 No change; Unit 1 HELD. Completed 4/5; No change 1; held 205 / pending 76. Counters: Types 276/301, Weapon 274/287, SE 18/301.
 
 ## Batch 188 — CLOSED, 5 / 5 (2026-10-27)
 
