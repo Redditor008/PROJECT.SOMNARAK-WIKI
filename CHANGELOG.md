@@ -8,11 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 193 — OPEN, 5 / 5 (2026-10-27)
+## Batch 193 — CLOSED, 5 / 5 (2026-10-27)
 
 Fresh ranking of 60 pending (wc -w ascending). Queue: `C-IVδ-252`, `C-IVδ-505`, `O-Iα-794`, `C-IIα-062`, `C-IVγ-073` (reviews 2–6 of this prompt).
 
-Unit 5 — **The Hollow Knight `C-IVγ-073`: HELD; credit-barred, +0.** 5 repairs (2s/3c; 8,098→8,212 words): opening/replication/malice template removed from a single-route Transform holding. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_05_THE_HOLLOW_KNIGHT.md).
+Unit 5 — **The Hollow Knight `C-IVγ-073`: HELD; credit-barred, +0.** 5 repairs (2s/3c; 8,098→8,212 words): opening/replication/malice template removed from a single-route Transform holding. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_05_THE_HOLLOW_KNIGHT.md). Batch closed: all five HELD, No change 0, 37 repairs (10s/27c), three fresh credits; battery PASS. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_CLOSE.md). Counters: Types 285/301, Weapon 283/287, SE 18/301; held 226 / pending 55.
 
 Unit 4 — **Forgotten Market Stall `C-IIα-062`: HELD; fresh +1 Types / +1 Weapon.** 9 repairs (4s/5c; 8,087→8,387 words): attack template and blank appearance cells replaced by the purchase/copying record; first review of exact set SE-1006. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_04_FORGOTTEN_MARKET_STALL.md). Counters: Types 285/301, Weapon 283/287, SE 18/301.
 

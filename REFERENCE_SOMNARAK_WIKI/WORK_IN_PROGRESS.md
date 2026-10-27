@@ -1,10 +1,10 @@
 # Work In Progress
 
-## Batch 193 — OPEN, 5 / 5 (2026-10-27)
+## Batch 193 — CLOSED, 5 / 5 (2026-10-27)
 
 Fresh ranking of 60 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IVδ-252`, `C-IVδ-505`, `O-Iα-794`, `C-IIα-062`, `C-IVγ-073`. Units 1–5 are reviews 2–6 of this prompt.
 
-**Unit 5 — The Hollow Knight `C-IVγ-073`: HELD, +0.** Five repairs (2 short / 3 careful; 8,098→8,212 words): the armour stops opening, replicating and meaning malice; a truncated header cell is completed. Credit barred by the in-file Batch 111 cross-source review. [Evidence](SE_APPEARANCE_REVIEWS/B193_05_THE_HOLLOW_KNIGHT.md). Counters unchanged: Types 285/301, Weapon 283/287, SE 18/301. Closure battery next.
+**Unit 5 — The Hollow Knight `C-IVγ-073`: HELD, +0.** Five repairs (2 short / 3 careful; 8,098→8,212 words): the armour stops opening, replicating and meaning malice; a truncated header cell is completed. Credit barred by the in-file Batch 111 cross-source review. [Evidence](SE_APPEARANCE_REVIEWS/B193_05_THE_HOLLOW_KNIGHT.md). Counters unchanged: Types 285/301, Weapon 283/287, SE 18/301. Batch closed: all five HELD, No change 0, 37 repairs (10s/27c), three fresh credits (Sorrow Gate, Portcullis, Forgotten Market Stall); closure battery PASS. [Closure](SE_APPEARANCE_REVIEWS/B193_CLOSE.md). Batch 194 opens next in this prompt (Units 1–4 = reviews 7–10; stays OPEN 4/5).
 
 **Unit 4 — Forgotten Market Stall `C-IIα-062`: HELD, fresh +1/+1.** Nine repairs (4 short / 5 careful; 8,087→8,387 words): the stall stops attacking; its failure returns to being a purchase, and three blank appearance cells are filled from its own protocol. First independent set review of exact SE-1006 (SE-062 is The Inheritor): +1 Types / +1 Weapon. [Evidence](SE_APPEARANCE_REVIEWS/B193_04_FORGOTTEN_MARKET_STALL.md). Counters: Types 285/301, Weapon 283/287, SE 18/301.
 
