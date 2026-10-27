@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 188 — OPEN, 4 / 5 (2026-10-27)
+## Batch 188 — OPEN, 5 / 5 (2026-10-27)
+
+**Unit 5 — Corrosion Dream `O-IIIγ-915`: HELD.** Five supported repairs (4 short / 1 careful; 7611→7724 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_05_CORROSION_DREAM.md). Batch 121 already counted set 915: +0/+0/+0. Completed 5/5; No change 0; held 201 / pending 80. Closure follows in this prompt.
 
 **Unit 4 — Forgotten Soldier `N-IIβ-033`: HELD.** Two supported repairs (1 short / 1 careful; 7587→7705 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_04_FORGOTTEN_SOLDIER.md). Batch 132 already counted set 1005: +0/+0/+0. Completed 4/5; No change 0; held 200 / pending 81. Ten-review ceiling reached this prompt.
 

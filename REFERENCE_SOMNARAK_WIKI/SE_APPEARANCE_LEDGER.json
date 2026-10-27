@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-IIIγ-915": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_05_CORROSION_DREAM.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -5602,8 +5614,29 @@
     {
       "designation": "O-IIIγ-915",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Five supported repairs (4 short / 1 careful) stop anything falling on anyone. Rows 3–5 drop the dropping rust sheet, the struck-bridge dissolution and the district-wide collapse: the first target is now the plan chest, escalation stops on a signature, and the Ultimate reads the works ledger — nine proposed, two built, six refunded. The template breach line, a generic Material row and two stock Flavor blocks give way to the works yard, plate-to-water quarters, and 'Sign something.' HELD; +0/+0/+0.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_05_CORROSION_DREAM.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/915_Corrosion_Dream/SE-915-A__SIDE_CODEX_Corrosion_Dream.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/915_Corrosion_Dream/SE-915-B__MAW-W_The_Rusted_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/915_Corrosion_Dream/SE-915-C__MAW-S_The_Rusted_Span.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/915_Corrosion_Dream/SE-915-D__MAW-G_The_Rusted_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IIIγ-916",

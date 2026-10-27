@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 188 — OPEN, 4 / 5 (2026-10-27)
+## Batch 188 — OPEN, 5 / 5 (2026-10-27)
+
+**Unit 5 — Corrosion Dream `O-IIIγ-915`: HELD.** Five supported repairs (4 short / 1 careful; 7,611→7,724 words): rows 3–5 stop rust falling on people and every span failing at once — the first target is the plan chest, escalation stops on a signature, and the Ultimate reads the works ledger; the template breach line, a generic Material row and two Flavor blocks become the works yard and the plate-to-water quarters. Batch 121 already counted set 915: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B188_05_CORROSION_DREAM.md). Closure follows in this prompt.
 
 **Unit 4 — Forgotten Soldier `N-IIβ-033`: HELD.** Two supported repairs (1 short / 1 careful; 7,587→7,705 words): rows 1–3 drop the phantom regiment, the medal chest and the bayonet charge for the unvarying facing, the sixteen-day interval, directed words that record nothing, and damage that lands on doors; one Consequences line becomes the re-measured interval. Batch 132 already counted set 1005: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B188_04_FORGOTTEN_SOLDIER.md). This prompt's ten-review ceiling reached; Unit 5 (Corrosion Dream) + closure wait for the next P.
 
