@@ -18,7 +18,7 @@
   },
   "active_batch": {
     "number": 191,
-    "status": "OPEN",
+    "status": "CLOSED",
     "required": 5,
     "queue": [
       "C-IVγ-175",
@@ -8577,6 +8577,14 @@
       "required": 5,
       "no_change": 0,
       "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_CLOSE.md"
+    },
+    {
+      "batch": 191,
+      "status": "CLOSED",
+      "reviewed": 5,
+      "required": 5,
+      "no_change": 0,
+      "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_CLOSE.md"
     }
   ],
   "equipment_reviews": [
