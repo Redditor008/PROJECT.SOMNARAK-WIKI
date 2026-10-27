@@ -27,7 +27,20 @@
       "N-IIIγ-160",
       "C-IIβ-054"
     ],
-    "reviewed": {}
+    "reviewed": {
+      "C-IVδ-193": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_01_RIFT.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -2167,8 +2180,29 @@
     {
       "designation": "C-IVδ-193",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-193_Rift_사라진_벽.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "One source-supported careful repair: combat row 3 no longer has the vanished wall briefly manifest at full weight and slam a target — an event the file's own record excludes (nobody injured in 132 years; material placed on the line does not remain coherent) — and now describes the documented harm shape instead, the onset pressure front met by a worker who has not made the naming. Credits +0/+0/+0: the in-file Batch 113 cross-source review remains the set's equipment coverage event.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_01_RIFT.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-A__SIDE_CODEX_Rift.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-B__MAW-W_The_Walls_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-C__MAW-S_The_Walls_Absence.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-D__MAW-G_The_Walls_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-200",

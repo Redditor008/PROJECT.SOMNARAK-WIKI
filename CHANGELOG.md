@@ -8,9 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 190 — OPEN, 0 / 5 (2026-10-27)
+## Batch 190 — OPEN, 1 / 5 (2026-10-27)
 
-Fresh ranking of the 75 pending dossiers froze: `C-IVδ-193`, `C-IVδ-763`, `C-IVδ-249`, `N-IIIγ-160`, `C-IIβ-054`. Units 1–4 are reviews 7–10 of this ten-review prompt; batch stays OPEN 4/5. No primary changed at open; counters Types 277/301, Weapon 275/287, SE 18/301.
+**Unit 1 — Rift `C-IVδ-193`: HELD.** One careful repair (7718→7786 words): the wall no longer manifests to strike; the onset pressure is the harm. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_01_RIFT.md). Set SE-193 covered by the in-file Batch 113 review: +0/+0/+0. Completed 1/5; No change 0; held 207 / pending 74.
 
 ## Batch 189 — CLOSED, 5 / 5 (2026-10-27)
 

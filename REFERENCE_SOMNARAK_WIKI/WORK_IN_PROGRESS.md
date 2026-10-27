@@ -1,8 +1,8 @@
 # Work In Progress
 
-## Batch 190 — OPEN, 0 / 5 (2026-10-27)
+## Batch 190 — OPEN, 1 / 5 (2026-10-27)
 
-Fresh C-locale ranking of the 75 pending dossiers froze the queue: `C-IVδ-193` (7,718), `C-IVδ-763` (7,783), `C-IVδ-249` (7,805), `N-IIIγ-160` (7,809), `C-IIβ-054` (7,815). Units 1–4 are reviews 7–10 of this ten-review prompt; the batch stays open at 4/5 with Unit 5 untouched. No opener changed any primary: counters Types 277/301, Weapon 275/287, SE 18/301.
+**Unit 1 — Rift `C-IVδ-193`: HELD.** One careful repair (7,718→7,786 words): the combat table no longer has the vanished wall manifest and slam a target — an event the file's 132-year injury-free record excludes — and describes the documented onset pressure instead. The in-file Batch 113 cross-source review already covers set SE-193: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B190_01_RIFT.md). Queue: `C-IVδ-763`, `C-IVδ-249`, `N-IIIγ-160` run next in this prompt (reviews 8–10); `C-IIβ-054` waits, batch stays OPEN 4/5.
 
 ## Batch 189 — CLOSED, 5 / 5 (2026-10-27)
 
