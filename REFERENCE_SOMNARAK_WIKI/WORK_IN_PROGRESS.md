@@ -1,10 +1,10 @@
 # Work In Progress
 
-## Batch 190 — OPEN, 5 / 5, closure next (2026-10-27)
+## Batch 190 — CLOSED, 5 / 5 (2026-10-27)
 
 **Unit 5 — The Empty Mask `C-IIβ-054`: HELD, fresh +1/+1.** Four repairs (2 short / 2 careful; 7,815→7,972 words): the Consequences lose the four-harm catalogue, the 'profound price' formula and the 'catastrophic outlet' default; the holding's own record answers instead — four minutes to identity confusion, a number offered in place of a name, a card at 5.2 and rising. First independent full-set review (SE-054 set read whole; removal-protocol and appearance forks held): +1 Types / +1 Weapon. [Evidence](SE_APPEARANCE_REVIEWS/B190_05_THE_EMPTY_MASK.md).
 
-**Unit 4 — Broken Promise `N-IIIγ-160`: HELD.** One careful repair (7,809→7,851 words): the Shard-Strike row stops launching a flying fragment — the injury record is shallow cuts on people who had broken something they said — and deals the documented harm, the binding itself. The in-file Batch 112 review already covers the (nonexistent) exact set and the 160-suffix traps: +0/+0/+0. [Evidence](SE_APPEARANCE_REVIEWS/B190_04_BROKEN_PROMISE.md). All five units reviewed; closure follows in this prompt (review 1). Counters: Types 279/301, Weapon 277/287, SE 18/301; held 211 / pending 70.
+**Unit 4 — Broken Promise `N-IIIγ-160`: HELD.** One careful repair (7,809→7,851 words): the Shard-Strike row stops launching a flying fragment — the injury record is shallow cuts on people who had broken something they said — and deals the documented harm, the binding itself. The in-file Batch 112 review already covers the (nonexistent) exact set and the 160-suffix traps: +0/+0/+0. [Evidence](SE_APPEARANCE_REVIEWS/B190_04_BROKEN_PROMISE.md). Batch closed: all five HELD, No change 0, 12 repairs (4s/8c), two fresh credits (Collapsed Whisper, Empty Mask); closure battery PASS. [Closure](SE_APPEARANCE_REVIEWS/B190_CLOSE.md). Batch 191 opens next in this prompt. Counters: Types 279/301, Weapon 277/287, SE 18/301; held 211 / pending 70.
 
 ## Batch 189 — CLOSED, 5 / 5 (2026-10-27)
 

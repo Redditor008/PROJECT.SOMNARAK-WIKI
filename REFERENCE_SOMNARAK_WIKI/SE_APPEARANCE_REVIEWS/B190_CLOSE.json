@@ -1,0 +1,60 @@
+{
+ "schema_version": 1,
+ "batch": 190,
+ "status": "CLOSED",
+ "completed_units": 5,
+ "required_units": 5,
+ "results": [
+  "HELD",
+  "HELD",
+  "HELD",
+  "HELD",
+  "HELD"
+ ],
+ "no_change_units": 0,
+ "repair_count": 12,
+ "short_repairs": 4,
+ "careful_repairs": 8,
+ "before_words": 38930,
+ "after_words": 39380,
+ "fresh_validators_pass": 25,
+ "fresh_validators_total": 25,
+ "exact_reconstruction": 5,
+ "pending_fingerprints_checked": 70,
+ "pending_fingerprints_unchanged": 70,
+ "source_changes": 0,
+ "unit_tools_tests": "54/54 PASS",
+ "audits": "PASS",
+ "final_words": {
+  "C-IVδ-193": 7786,
+  "C-IVδ-763": 7839,
+  "C-IVδ-249": 7932,
+  "N-IIIγ-160": 7851,
+  "C-IIβ-054": 7972
+ },
+ "counters": {
+  "types": "279/301",
+  "weapon": "277/287",
+  "se_appearance_fix": "18/301"
+ },
+ "fresh_credits": [
+  {
+   "designation": "C-IVδ-249",
+   "types": 1,
+   "weapon": 1
+  },
+  {
+   "designation": "C-IIβ-054",
+   "types": 1,
+   "weapon": 1
+  }
+ ],
+ "ledger": {
+  "changed": 14,
+  "retained": 4,
+  "held": 211,
+  "blocked": 2,
+  "pending": 70
+ },
+ "next": "Batch 191 opens on a fresh ranking of the 70 pending dossiers in this same prompt; its five units are reviews 2-6, then Batch 192 Units 1-4 are reviews 7-10 (batch stays OPEN 4/5)."
+}

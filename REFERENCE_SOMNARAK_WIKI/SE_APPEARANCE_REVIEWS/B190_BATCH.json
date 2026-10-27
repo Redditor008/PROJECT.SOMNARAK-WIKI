@@ -1,658 +1,658 @@
 {
-  "schema_version": 1,
-  "batch": 190,
-  "status": "OPEN",
-  "completed_units": 0,
-  "required_units": 5,
-  "queue": [
+ "schema_version": 1,
+ "batch": 190,
+ "status": "CLOSED",
+ "completed_units": 5,
+ "required_units": 5,
+ "queue": [
+  {
+   "unit": 1,
+   "designation": "C-IVδ-193",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-193_Rift_사라진_벽.md",
+   "words": 7718,
+   "sha256": "67a23dc17313a62cc52eb83cdf170b5af4a5706ccea9ec0b7f8f498e8ccda42e"
+  },
+  {
+   "unit": 2,
+   "designation": "C-IVδ-763",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md",
+   "words": 7783,
+   "sha256": "9fd709f4a16165d1789f9e4132ef480eb99ddefdd2fb461d0c1b6142b04b6cfa"
+  },
+  {
+   "unit": 3,
+   "designation": "C-IVδ-249",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md",
+   "words": 7805,
+   "sha256": "d51d48a8df5c22f302eb9ed994a7f33c0aacf9891d76980ab23106ee63cb2935"
+  },
+  {
+   "unit": 4,
+   "designation": "N-IIIγ-160",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-160_Broken_Promise_깨진_약속.md",
+   "words": 7809,
+   "sha256": "c2908ec355c2eefa23662349233449503fd09cb2b86c61720dfc46a8983ef764"
+  },
+  {
+   "unit": 5,
+   "designation": "C-IIβ-054",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-054_The_Empty_Mask_빈_가면.md",
+   "words": 7815,
+   "sha256": "5d833de2c828b74d7fe4ec7d66c12169ba13fa1414740ed1dab3da40232bb66e"
+  }
+ ],
+ "units": [
+  {
+   "designation": "C-IVδ-193",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-193_Rift_사라진_벽.md",
+   "words": 7718,
+   "sha256": "67a23dc17313a62cc52eb83cdf170b5af4a5706ccea9ec0b7f8f498e8ccda42e",
+   "unit": 1,
+   "name": "Rift",
+   "status": "held",
+   "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_01_RIFT.md",
+   "before_words": 7718,
+   "after_words": 7786,
+   "base": "6cc25fd252cd6290fe7177266b6715ee8549de69",
+   "final_sha256": "2c9be35ac8a950e9d580ac239fa6729ed88d237cb3caa4d51bd819f62ed8d1d1",
+   "summary": "One source-supported careful repair: combat row 3 no longer has the vanished wall briefly manifest at full weight and slam a target — an event the file's own record excludes (nobody injured in 132 years; material placed on the line does not remain coherent) — and now describes the documented harm shape instead, the onset pressure front met by a worker who has not made the naming. Credits +0/+0/+0: the in-file Batch 113 cross-source review remains the set's equipment coverage event.",
+   "commentary": "Rift needed exactly one sentence's worth of honesty. Its combat table contained the only moment in the file where the wall comes back and hits somebody — in a dossier that repeats, in half a dozen registers, that nobody has been injured here in 132 years, that the line cannot be built on because material will not stay coherent on it, and that the maul has never been used on anything. The careful repair keeps the row and its figures but makes the harm the one the holding actually deals: the pressure front arriving all at once for a worker who would not say the dates. Everything else, from the forbidden dataset to the Director's four-line minute, was left exactly where the file had put it.",
+   "reasoning": "Set SE-193 identity confirmed via the in-file Batch 113 cross-source review (SE-193-A, Related Entity SE-193, set 'After the Wall'). Sentence triage of the frozen primary: rows 1, 2, 4 and 5 describe pressure, speech failure and the documented Floods; row 3 alone asserted a physical manifestation event ('The Wall briefly manifests at full weight, then vanishes', 'one crushing, ghostly wound') that contradicts Story Entry 5's threat note, the Apex Record ('It Cannot Be Rebuilt') and the Registrum ('No injuries… in 132 years'). R-18 split declared before the apply: 0 short / 1 careful. The replacement is built only from file-documented behaviour (onset predicted to centimetres; workers who decline turn back around four metres; nobody struck). Digit sequence: one '132' added — the file's own span, already stated in at least four places. No other claim required repair; the thin Suit Ability line was left as the Batch 113 review left the veil descriptions — held, not padded.",
+   "history": "The primary carries an in-file M.A.W. Cross-Source Review — Batch 113: exact set SE-193 ('After the Wall'), Entity Codex / Tale 84 / Master Entries 250–252 'The Vanished Wall' name held against primary/Side 'Rift' without renaming; Wall's Maul stats agreed across primary, SE-193-B and Master 250; archetype MAW-W-193 Room reach and the two-grip monolith personalization kept distinct from the linked Medium band; veil and charm description forks held. That review is the equipment coverage event: Types +0, Weapon +0, SE +0. Counters stay 277/301, 275/287, 18/301.",
+   "holds": [
+    "Name fork: primary/Side A 'Rift' vs Entity Codex, Tale 84 and Master Entries 250–252 'The Vanished Wall' — code-linked names retained, neither record renamed (Batch 113).",
+    "Archetype MAW-W-193 Room reach / two-grip monolith personalization vs linked item's Medium band and the primary's joined-seam maul — kept distinct, no crosswalk.",
+    "Suit fork: primary translucent veil vs item SE-193-C black absence-veil vs Master Entry 251 Hauberk/Chain-Mail taxonomy — unresolved, as left.",
+    "Stigma Head / 4% / +3 (primary and SE-193-D agree) vs Registry's generic Accessory / 5%; warm joined-halves charm vs the item's small black line-charm — separate descriptions stand.",
+    "Onset↔public-denial correlation (nine for nine) and the 94→93 per cent survey remain the file's own findings; the wing's retention of crossing statements against the Office's lawful objection stands unreconciled, with both letters printed in full."
+   ],
+   "split": [
+    0,
+    1
+   ],
+   "repairs": [
     {
-      "unit": 1,
-      "designation": "C-IVδ-193",
-      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-193_Rift_사라진_벽.md",
-      "words": 7718,
-      "sha256": "67a23dc17313a62cc52eb83cdf170b5af4a5706ccea9ec0b7f8f498e8ccda42e"
-    },
-    {
-      "unit": 2,
-      "designation": "C-IVδ-763",
-      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md",
-      "words": 7783,
-      "sha256": "9fd709f4a16165d1789f9e4132ef480eb99ddefdd2fb461d0c1b6142b04b6cfa"
-    },
-    {
-      "unit": 3,
-      "designation": "C-IVδ-249",
-      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md",
-      "words": 7805,
-      "sha256": "d51d48a8df5c22f302eb9ed994a7f33c0aacf9891d76980ab23106ee63cb2935"
-    },
-    {
-      "unit": 4,
-      "designation": "N-IIIγ-160",
-      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-160_Broken_Promise_깨진_약속.md",
-      "words": 7809,
-      "sha256": "c2908ec355c2eefa23662349233449503fd09cb2b86c61720dfc46a8983ef764"
-    },
-    {
-      "unit": 5,
-      "designation": "C-IIβ-054",
-      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-054_The_Empty_Mask_빈_가면.md",
-      "words": 7815,
-      "sha256": "5d833de2c828b74d7fe4ec7d66c12169ba13fa1414740ed1dab3da40232bb66e"
+     "id": "R1-returned-slam-row",
+     "kind": "careful combat correction",
+     "careful": true,
+     "old": "| { *The Returned Slam* [**Attack**] } | \"The wall comes back for one instant — and slams into you with all its missing mass.\" | [The Wall briefly manifests at full weight, then vanishes.] | *Inflicts Weight pressure and one crushing, ghostly wound.* **[14-22 Weight DMG [Weight]]** | When the absence is probed. |",
+     "new": "| { *The Returned Slam* [**Attack**] } | \"Nothing comes back. The pressure front is simply there, all at once, at the distance the station predicted — and a worker who has not said the dates meets the full weight of a wall that is not in front of them.\" | [The onset arrives as one step rather than a gradient; nobody has been struck by anything here in 132 years, and the Armoury keeps the row because the pressure is real even though the wall is not.] | *Inflicts Weight pressure; workers who decline the naming turn back at about four metres, which is where the onset stood two surveys ago.* **[14-22 Weight DMG [Weight]]** | When the absence is probed. |"
     }
-  ],
-  "units": [
-    {
-      "designation": "C-IVδ-193",
-      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-193_Rift_사라진_벽.md",
-      "words": 7718,
-      "sha256": "67a23dc17313a62cc52eb83cdf170b5af4a5706ccea9ec0b7f8f498e8ccda42e",
-      "unit": 1,
-      "name": "Rift",
-      "status": "held",
-      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_01_RIFT.md",
-      "before_words": 7718,
-      "after_words": 7786,
-      "base": "6cc25fd252cd6290fe7177266b6715ee8549de69",
-      "final_sha256": "2c9be35ac8a950e9d580ac239fa6729ed88d237cb3caa4d51bd819f62ed8d1d1",
-      "summary": "One source-supported careful repair: combat row 3 no longer has the vanished wall briefly manifest at full weight and slam a target — an event the file's own record excludes (nobody injured in 132 years; material placed on the line does not remain coherent) — and now describes the documented harm shape instead, the onset pressure front met by a worker who has not made the naming. Credits +0/+0/+0: the in-file Batch 113 cross-source review remains the set's equipment coverage event.",
-      "commentary": "Rift needed exactly one sentence's worth of honesty. Its combat table contained the only moment in the file where the wall comes back and hits somebody — in a dossier that repeats, in half a dozen registers, that nobody has been injured here in 132 years, that the line cannot be built on because material will not stay coherent on it, and that the maul has never been used on anything. The careful repair keeps the row and its figures but makes the harm the one the holding actually deals: the pressure front arriving all at once for a worker who would not say the dates. Everything else, from the forbidden dataset to the Director's four-line minute, was left exactly where the file had put it.",
-      "reasoning": "Set SE-193 identity confirmed via the in-file Batch 113 cross-source review (SE-193-A, Related Entity SE-193, set 'After the Wall'). Sentence triage of the frozen primary: rows 1, 2, 4 and 5 describe pressure, speech failure and the documented Floods; row 3 alone asserted a physical manifestation event ('The Wall briefly manifests at full weight, then vanishes', 'one crushing, ghostly wound') that contradicts Story Entry 5's threat note, the Apex Record ('It Cannot Be Rebuilt') and the Registrum ('No injuries… in 132 years'). R-18 split declared before the apply: 0 short / 1 careful. The replacement is built only from file-documented behaviour (onset predicted to centimetres; workers who decline turn back around four metres; nobody struck). Digit sequence: one '132' added — the file's own span, already stated in at least four places. No other claim required repair; the thin Suit Ability line was left as the Batch 113 review left the veil descriptions — held, not padded.",
-      "history": "The primary carries an in-file M.A.W. Cross-Source Review — Batch 113: exact set SE-193 ('After the Wall'), Entity Codex / Tale 84 / Master Entries 250–252 'The Vanished Wall' name held against primary/Side 'Rift' without renaming; Wall's Maul stats agreed across primary, SE-193-B and Master 250; archetype MAW-W-193 Room reach and the two-grip monolith personalization kept distinct from the linked Medium band; veil and charm description forks held. That review is the equipment coverage event: Types +0, Weapon +0, SE +0. Counters stay 277/301, 275/287, 18/301.",
-      "holds": [
-        "Name fork: primary/Side A 'Rift' vs Entity Codex, Tale 84 and Master Entries 250–252 'The Vanished Wall' — code-linked names retained, neither record renamed (Batch 113).",
-        "Archetype MAW-W-193 Room reach / two-grip monolith personalization vs linked item's Medium band and the primary's joined-seam maul — kept distinct, no crosswalk.",
-        "Suit fork: primary translucent veil vs item SE-193-C black absence-veil vs Master Entry 251 Hauberk/Chain-Mail taxonomy — unresolved, as left.",
-        "Stigma Head / 4% / +3 (primary and SE-193-D agree) vs Registry's generic Accessory / 5%; warm joined-halves charm vs the item's small black line-charm — separate descriptions stand.",
-        "Onset↔public-denial correlation (nine for nine) and the 94→93 per cent survey remain the file's own findings; the wing's retention of crossing statements against the Office's lawful objection stands unreconciled, with both letters printed in full."
-      ],
-      "split": [
-        0,
-        1
-      ],
-      "repairs": [
-        {
-          "id": "R1-returned-slam-row",
-          "kind": "careful combat correction",
-          "careful": true,
-          "old": "| { *The Returned Slam* [**Attack**] } | \"The wall comes back for one instant — and slams into you with all its missing mass.\" | [The Wall briefly manifests at full weight, then vanishes.] | *Inflicts Weight pressure and one crushing, ghostly wound.* **[14-22 Weight DMG [Weight]]** | When the absence is probed. |",
-          "new": "| { *The Returned Slam* [**Attack**] } | \"Nothing comes back. The pressure front is simply there, all at once, at the distance the station predicted — and a worker who has not said the dates meets the full weight of a wall that is not in front of them.\" | [The onset arrives as one step rather than a gradient; nobody has been struck by anything here in 132 years, and the Armoury keeps the row because the pressure is real even though the wall is not.] | *Inflicts Weight pressure; workers who decline the naming turn back at about four metres, which is where the onset stood two surveys ago.* **[14-22 Weight DMG [Weight]]** | When the absence is probed. |"
-        }
-      ],
-      "outputs": {
-        "verify": {
-          "exit": 0,
-          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
-          "stderr": ""
-        },
-        "tpl": {
-          "exit": 0,
-          "stdout": "RESIDUE 0  SE-C-IVδ-193_Rift_사라진_벽.md\n",
-          "stderr": ""
-        },
-        "sectfile": {
-          "exit": 0,
-          "stdout": " 0.000  clean  1332 grams  Apex Record\n 0.000  clean   564 grams  Combat Record\n 0.000  clean   534 grams  감각 묘사 (Flavor Text)\n 0.000  clean   509 grams  M.A.W. Equipment\n 0.000  clean   420 grams  이야기 (Narratio)\n 0.000  clean   319 grams  이야기 보고 (Story Log)\n 0.000  clean   260 grams  Appearance\n 0.000  clean   258 grams  Expansion Behavior\n 0.000  clean   245 grams  기록 (Registrum)\n 0.000  clean   245 grams  Origin\n 0.000  clean   231 grams  관찰 기록 (Observation Log)\n 0.000  clean   171 grams  Trivia\n 0.000  clean   168 grams  Operational Parameters\n 0.000  clean    87 grams  Behavior\n 0.000  clean    65 grams  최종 관찰 (Final Observation)\n 0.000  clean    43 grams  SECC Classification\n 0.000  clean    30 grams  증언 (Testimonium)\n 0.000  THIN      5 grams  (preamble)\n0 section(s) over 0.05\n",
-          "stderr": ""
-        },
-        "wikistd": {
-          "exit": 0,
-          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
-          "stderr": ""
-        },
-        "sect": {
-          "exit": 0,
-          "stdout": "GENERIC 0.000  (0 shared shingles)  SE-C-IVδ-193_Rift_사라진_벽.md\n",
-          "stderr": ""
-        }
-      },
-      "sources": [
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-A__SIDE_CODEX_Rift.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-B__MAW-W_The_Walls_Maul.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-C__MAW-S_The_Walls_Absence.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-D__MAW-G_The_Walls_Charm.md",
-        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
-        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
-      ],
-      "source_hashes": {
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-A__SIDE_CODEX_Rift.md": "f3d9a582846afb312988b8b3d2e27998edbfcde7b21bd5a339b7bd549ccd96c2",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-B__MAW-W_The_Walls_Maul.md": "ac50946aa75e92eb933660b628a819a5315e58c235449bcc158a3fe865e9693a",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-C__MAW-S_The_Walls_Absence.md": "51f1f6a1cf1859d6237657954480518c0fe7cce674cd19fa31947b488fe69567",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-D__MAW-G_The_Walls_Charm.md": "f311444f39c1e08636d7cce239bea268d3bd77400aa67314d89d797f87c8455a",
-        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
-        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
-      },
-      "whole_before_reread": true,
-      "whole_final_reread": true,
-      "no_change": false,
-      "credits": {
-        "types": 0,
-        "weapon": 0,
-        "se": 0
-      },
-      "link": "[[SE-C-IVδ-193_Rift_사라진_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-193_Rift_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B2%BD.md \"SE-C-IVδ-193_Rift_사라진_벽.md\")]",
-      "table_link": "[Rift](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-193_Rift_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B2%BD.md \"SE-C-IVδ-193_Rift_사라진_벽.md\")",
-      "reading": {
-        "before_lines": 468,
-        "before_bytes": 46493,
-        "final_lines": 468,
-        "final_bytes": 46837
-      },
-      "integrity": {
-        "unselected_primary_unchanged": 300,
-        "remaining_pending_fingerprints_unchanged": 74,
-        "physical_form_rows_unchanged": 301,
-        "tale_unchanged": true,
-        "digit_sequences_unchanged": false,
-        "source_files_unchanged": 10,
-        "digit_sequence_change": "One digit sequence added: '132' (years), the span already stated in the frozen primary's Story Entry 5, Director's Memo threat note and Apex Record. No other digit sequence changed."
-      }
+   ],
+   "outputs": {
+    "verify": {
+     "exit": 0,
+     "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+     "stderr": ""
     },
-    {
-      "designation": "C-IVδ-763",
-      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md",
-      "words": 7783,
-      "sha256": "9fd709f4a16165d1789f9e4132ef480eb99ddefdd2fb461d0c1b6142b04b6cfa",
-      "unit": 2,
-      "name": "Memorial Flame Mid-Ceremony",
-      "status": "held",
-      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_02_MEMORIAL_FLAME_MID_CEREMONY.md",
-      "before_words": 7783,
-      "after_words": 7839,
-      "base": "ecd14ccc45ba525f3727e014b2ad9c75041c10f0",
-      "final_sha256": "544d631b379511b491e69c828410fca65016affbdcceef55ed00340102e0cc49",
-      "summary": "Two source-supported careful repairs, both in Consequences: the stock 'cognitive erosion, somatic distortion and environmental taint' harm list becomes this holding's documented exposure (a specific borrowed bereavement, first-person claiming as the failure sign, mandatory counsellor contact), and the template 'ceremony resumes without an end… escalates' failure becomes what the file actually records — a scene that has not advanced in 1,106 entries over nineteen years, priced in corridor heat and a register line. Credits +0/+0/+0: Side SE-763-A already carries a written Weapon-profile disposition across primary, item, Registry and archetype, so the fresh-credit negative cannot be proven.",
-      "commentary": "Memorial Flame Mid-Ceremony is a file about restraint — a facility that may abate a hazard but may not bury anybody — and its two repaired lines were the only unrestrained ones in it: a three-item catalogue of stock harms, and a failure mode in which the ceremony 'resumes' and 'escalates' in a holding whose central measured fact is that the scene has never moved in nineteen years. Both now say what the record says. On credit, this unit is the mirror of the last batch's fresh cases: the Side codex itself carries a careful Weapon-profile hold comparing the primary, the linked item, the Registry and MAW-W-763, so the set has plainly been dispositioned before and no fresh credit is claimed. The honest outcome is HELD at +0, with the file minutely more truthful than it was.",
-      "reasoning": "Set SE-763 identity resolved from Side A and item headers (Source SECC Designation C-IVδ-763 [LP]; MAW-W/S/G-763-01); all four set files read whole. Sentence triage: combat rows, phases, expansion and interaction records are vault-specific; the defects were Consequences bullets 2 and 4. Bullet 2's 'cognitive erosion, somatic distortion and environmental taint' is the stock harm catalogue, against the file's documented exposure (specific borrowed grief; first-person claiming as first failure sign across all three item files; mandatory counsellor contact). Bullet 4's resumable, escalating ceremony contradicts the Apex Record (1,106 entries, nineteen years, scene never anywhere else; expansion 'has always receded on its own'). R-18 split declared before the apply: 0 short / 2 careful. Replacements use only file-documented facts. Fresh credit refused: Side A's 'Weapon-profile hold' paragraph is a written cross-source disposition (duplicated Appearance text discounted as one description; 14–22/Long/Homing vs 10–15/Medium/Skewer profiles held without selection; MAW-W-763 Short band noted), which defeats the no-prior-review negative that fresh credit requires.",
-      "history": "No prior evidence file mentions C-IVδ-763, no equipment_reviews entry exists, and git path history shows only the B179 import (87f1a01) — but Side SE-763-A itself contains a 'Weapon-profile hold' disposition comparing the primary, SE-763-B, the master registry and archetype MAW-W-763, including the copy-evidence caution that the shared two-paragraph bodkin Appearance is one duplicated description rather than independent corroboration. A written disposition of exactly the kind this pass performs therefore already exists inside the set; under the prove-history-first rule the fresh-credit negative fails. Types +0, Weapon +0, SE +0; no equipment_reviews entry appended. Counters stay 277/301, 275/287, 18/301.",
-      "holds": [
-        "Weapon profile fork (Side A hold, retained verbatim in effect): primary Lament 14–22 / Normal 3 / Range 4 Long / Homing Wisp–Tracking Soul-Burn vs item+Side Lament 10–15 / Fast 3 / Range 3 Medium / Skewer; max 2 and 50 Echoes agree; MAW-W-763 supports the bodkin form and a Short band, not either reach; no profile selected.",
-        "Weapon naming: item title and Registry 'The Candelabrum Bodkin' vs Side set table and item body 'The Soul-Seeking Candelabrum' — documented naming variation, not two weapons.",
-        "Stigma slot fork: primary Torso/Neck / 4% / +3 vs item+Side Tail / 4% / +3 vs Registry generic Accessory / 5% — all three stand; nothing harmonised.",
-        "Suit appearance: primary deep-blue ash-greyed silk shroud vs item C's appearance paragraph, which describes function and binding rather than cloth — held as separate records.",
-        "The no-entry day (nineteen scheduled, eighteen kept) and the research office's correct-and-standing objection remain the file's own unresolved pair; the register's digit look-up line in Trivia is left as found — odd, but it asserts nothing false."
-      ],
-      "split": [
-        0,
-        2
-      ],
-      "repairs": [
-        {
-          "id": "R1-consequences-borrowed-grief",
-          "kind": "careful consequence correction",
-          "careful": true,
-          "old": "- Stay near the cold and the vigil’s unfinished grief does what the ceremony never did: it moves in with its detail attached — a particular absence, habits, a voice — bringing cognitive erosion, somatic distortion and environmental taint on a worker who cannot say which of the feelings were ever theirs.",
-          "new": "- Stay near the cold and the vigil's unfinished grief does what the ceremony never did: it moves in with its detail attached — a particular absence, habits, a voice — and the first sign the file watches for is the worker describing somebody else's bereavement in the first person. The counsellor contact is mandatory inside the shift for exactly that reason: the emotion arrived from outside the person carrying it, and nobody consented to receive it."
-        },
-        {
-          "id": "R2-consequences-failed-resolution",
-          "kind": "careful consequence correction",
-          "careful": true,
-          "old": "- If resolution fails, the ceremony resumes without an end: the entry sharpens into a manifestation, expands inside the holding’s own boundary, and escalates on the unfinished vigil’s terms — each failure adding another mourner to a rite that has not closed since the night it was cut short.",
-          "new": "- If resolution fails, nothing dramatic follows, and the file is blunt about it: the scene does not advance, has never advanced, and will be standing in the same place at the next entry. One thousand one hundred and six entries over nineteen years have not moved the rite a single step. What a failed entry costs is corridor heat against next year's warmth budget and one more line in the register — a name, a duration, and nothing further."
-        }
-      ],
-      "outputs": {
-        "verify": {
-          "exit": 0,
-          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
-          "stderr": ""
-        },
-        "tpl": {
-          "exit": 0,
-          "stdout": "RESIDUE 0  SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md\n",
-          "stderr": ""
-        },
-        "sectfile": {
-          "exit": 0,
-          "stdout": " 0.029  clean   105 grams  Operational Parameters\n 0.016  clean   574 grams  Combat Record\n 0.013  clean   236 grams  Trivia\n 0.012  clean   607 grams  감각 묘사 (Flavor Text)\n 0.007  clean   276 grams  관찰 기록 (Observation Log)\n 0.006  clean   699 grams  M.A.W. Equipment\n 0.005  clean   206 grams  기록 (Registrum)\n 0.001  clean  1348 grams  Apex Record\n 0.000  clean   338 grams  이야기 (Narratio)\n 0.000  clean   249 grams  이야기 보고 (Story Log)\n 0.000  clean   235 grams  Expansion Behavior\n 0.000  clean   213 grams  Appearance\n 0.000  clean   155 grams  최종 관찰 (Final Observation)\n 0.000  clean   148 grams  Origin\n 0.000  clean   133 grams  Behavior\n 0.000  clean    53 grams  증언 (Testimonium)\n 0.000  clean    46 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
-          "stderr": ""
-        },
-        "wikistd": {
-          "exit": 0,
-          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
-          "stderr": ""
-        },
-        "sect": {
-          "exit": 0,
-          "stdout": "   31   3  | **Han-Energy yield** | 20–28 per successful work cycle, taken off the vault's warmth differential rather than off anything the h\n   55   1  | **Resistance** | 45% against Lament pressure; 35% against other pressure types |\n   84   4  | { *Where It Burned* [**Attack**] } | \"The place the flame left behind opens — and the absence is a wound.\" | [The place the fire\n   85   4  | { *The Eternal Dark* [**Ultimate**] } | \"The last light goes out — for everyone — and will not come back.\" | [The last warm surf\n  203   2  **Bodkin return:** The individual Weapon entry requires the bearer, trigger, source response, cost and unresolved detail to surviv\n  235   1  **Effect:** +3 stat bonus when working the source entity and grants vision in sorrow fog.\n  253   1  | **Before use** | Wielder, piece, and a dated baseline against what Memorial Flame Mid-Ceremony takes: the wielder feels the enti\n  275   2  | **Initial exposure** | Confirm the holding from the inversion of heat and the shaped dark, check the station against the vault, \n  328   4  Three holdings are kept within reach of the vault — The Ember Child, The Kind Healer and Silence We Forgot We Made — and none of t\n  337   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  343   1  **Interaction procedure:** Baseline both parties alone first and keep the second outside the expansion marks for the whole session\n  392   1  **Review requirement:** After any expansion, Sorrow Tide, transformation attempt or unusual interaction: re-verify the warmth diff\n  449   1  The research office's objection is on the file and is read at every annual review. A continuous nineteen-year thermal and scene se\n  458   3  - For the register's look-up, digits as the file keeps them: gauge 993/993 · pressure 27–60 per hit · resistance 45 / 35 per cent \nGENERIC 0.005  (30 shared shingles)  SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md\n",
-          "stderr": ""
-        }
-      },
-      "sources": [
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-A__SIDE_CODEX_Memorial_Flame_Mid_Ceremony.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-B__MAW-W_The_Absent_Requiem.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-C__MAW-S_The_Absent_Shroud.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-D__MAW-G_The_Absent_Flame.md",
-        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
-        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
-      ],
-      "source_hashes": {
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-A__SIDE_CODEX_Memorial_Flame_Mid_Ceremony.md": "af555204059395e55828388db61ece232c3dd0d98344c2624b833b89a7ed7cf8",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-B__MAW-W_The_Absent_Requiem.md": "98dd495cb17512c03fa0db6bfaed59f97ec90ab88b435c6f65e8f8c2f65fb2d4",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-C__MAW-S_The_Absent_Shroud.md": "bc1bb1a3c4251a0336495a3c4a346a39161267a14363fd720dc84cba173908b5",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-D__MAW-G_The_Absent_Flame.md": "d3814829e96fe573aa040e7cac75d50147aeee5cbf556bd52e3127b9ab05d263",
-        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
-        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
-      },
-      "whole_before_reread": true,
-      "whole_final_reread": true,
-      "no_change": false,
-      "credits": {
-        "types": 0,
-        "weapon": 0,
-        "se": 0
-      },
-      "link": "[[SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-763_Memorial_Flame_Mid-Ceremony_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B6%88%EA%BD%83.md \"SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md\")]",
-      "table_link": "[Memorial Flame Mid-Ceremony](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-763_Memorial_Flame_Mid-Ceremony_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B6%88%EA%BD%83.md \"SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md\")",
-      "reading": {
-        "before_lines": 472,
-        "before_bytes": 47106,
-        "final_lines": 472,
-        "final_bytes": 47396
-      },
-      "integrity": {
-        "unselected_primary_unchanged": 300,
-        "remaining_pending_fingerprints_unchanged": 73,
-        "physical_form_rows_unchanged": 301,
-        "tale_unchanged": true,
-        "digit_sequences_unchanged": true,
-        "source_files_unchanged": 10,
-        "digit_sequence_change": ""
-      }
+    "tpl": {
+     "exit": 0,
+     "stdout": "RESIDUE 0  SE-C-IVδ-193_Rift_사라진_벽.md\n",
+     "stderr": ""
     },
-    {
-      "designation": "C-IVδ-249",
-      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md",
-      "words": 7805,
-      "sha256": "d51d48a8df5c22f302eb9ed994a7f33c0aacf9891d76980ab23106ee63cb2935",
-      "unit": 3,
-      "name": "Collapsed Whisper",
-      "status": "held",
-      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_03_COLLAPSED_WHISPER.md",
-      "before_words": 7805,
-      "after_words": 7932,
-      "base": "0c2f884959d4fc7438223411e633765531ce7c57",
-      "final_sha256": "1cc737234e840529b2e3b401066675fbfd4186e8048bb9f7afc7078c15c5f000",
-      "summary": "Four source-supported repairs (2 short / 2 careful): the Flavor opening loses its template containment door — this holding is worked asleep, from monitored bays — and the after-departure paragraph becomes the residue statement the protocol actually runs; the two Consequences bullets stop promising a collapse that spreads 'through the fittings of the station' and an entity that 'walks out its event pattern', and record instead the surfacing pairing that has worked four times and a bearing series that proves the holding never comes looking for anybody. First independent full-set source review of SE-249: fresh +1 Types / +1 Weapon; whole design remains HELD, SE +0.",
-      "commentary": "Collapsed Whisper is a dossier built on two series that can be trusted — a break at a second and a half across 840 sessions, a bearing that never comes closer — so its defects were the places where it stopped trusting them: a Flavor opening with a containment door that does not exist on a holding worked entirely in sleep, and two consequence lines borrowing the catalogue language of spreading collapse and outbound entities. The repairs put the file's own instruments back in those sentences. The equipment side needed no invention either: Fang, Plate and Thread agree across primary, item and Side cards, nothing anywhere shows an earlier disposition, and the one live contradiction — an item history in which a fragment reached a patrol, against the primary's absolute rule that no fragment may be passed on — is held exactly as found.",
-      "reasoning": "Set SE-249 identity resolved from Side A (SECC Designation C-IVδ-249 [GS], set 'The Message That Failed') and item codes MAW-W/S/G-249-01; all four flat set files read whole, including a check for any Side-side disposition paragraph (none — Side A is subject/management/set cards only). Sentence triage: the Flavor first-contact template ('The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room') contradicts the file's worked-asleep protocol and 'Nothing is sealed' containment detail; after-departure was generic pursuit language against the Residue Log; Consequences bullet 2's 'psychological first, then somatic, then through the fittings of the station' is the escalation catalogue against the documented pairing record (needed four times, worked four times); bullet 4's 'holding walks out its event pattern' contradicts the bearing series (never closer to an occupied position in nineteen years; 'this holding does not come looking for anybody'). R-18 split declared before the apply: 2 short / 2 careful. All replacements from file-documented facts only.",
-      "history": "Fresh-credit proof by negatives: no in-file cross-source/full-set review block in the primary (the per-piece care paragraphs are equipment records, not a disposition); Side A carries no Weapon-profile hold or equivalent review text; no prior evidence file mentions C-IVδ-249; ledger equipment_reviews has no 249 entry; git path history shows only the B179 import (87f1a01). First independent exact-pair/full-set review: Side A (113 lines) and items B/C/D read whole including Appearance sections; primary machine fields agree with item/Side cards (Grudge 10–15, 3/3, Skewer 100→70→50, 2/50; resistances; Tail/4%/+3 Resilience); Registry rows 538–541 confirm identity (Weapon Variable/-/-; Stigma generic Accessory/5%). Fresh credit: Types +1, Weapon +1, SE +0. Counters become 278/301, 276/287, 18/301.",
-      "holds": [
-        "Fragment-use contradiction held: item SE-249-D records the Thread carrying 'east—ground—' to an awake patrol who avoided a subsidence zone, against the primary's absolute rule that no fragment may be passed to a field crew in any form (with the Tuesday-fragment review finding the rule correctly applied). Neither record amends the other.",
-        "Suit appearance fork: primary harness 'dark and warm to the touch, that settles over the wearer and breathes as they do' vs item plates flickering between sleeping body and red-static silhouette — both stand.",
-        "Stigma Tail / 4% / +3 Resilience (primary, item, Side agree) vs Registry's generic Accessory / 5% — never imported.",
-        "Side A breach line (dream-space spreading at 90% Gauge) vs the primary's non-breaching Transform classification with no breach counter — primary governs itself; Side A untouched.",
-        "Break-time/bearing series and the terrain-word-count arrangement (23 counts, 23 surveys, two finds) remain the file's own findings, with the survey office's correct-and-continuing complaint unreconciled."
-      ],
-      "split": [
-        2,
-        2
-      ],
-      "repairs": [
-        {
-          "id": "R1-flavor-first-contact",
-          "kind": "short flavor grounding",
-          "careful": false,
-          "old": "**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room. Then the Subject-Dream resolves: A dream-figure formed from a whisper crushed beneath layers of static and red light. It watches from the edge of sleep.",
-          "new": "**At first contact:** Nobody works this file awake. Contact begins when the sleeper goes under in a monitored bay and the layer takes them: static and red light first, fever-cold, smelling of char and dead signals — and at the edge of it a dream-figure formed from a whisper crushed beneath the layers, watching, never fully arriving. The monitor starts the clock at the first sound, because the sentence is already on its way to the break."
-        },
-        {
-          "id": "R2-flavor-after-departure",
-          "kind": "short flavor grounding",
-          "careful": false,
-          "old": "**After departure:** You leave, but the Grudge follows — in the hands, in the chest, in the particular silence of the corridor afterward.",
-          "new": "**After departure:** You surface with the conviction that something vital was almost said to you, and it does not lift at the bay door. The debrief gives it somewhere to go: the residue statement, in your own words, logged verbatim and then left alone — by the counsellors, by the archivists, and by you."
-        },
-        {
-          "id": "R3-consequences-held-past-clock",
-          "kind": "careful consequence correction",
-          "careful": true,
-          "old": "- Duration is on the holding's side. A sleeper held past the clock does not simply wake tired; the saturation pools in them the way static pools in a channel that is already hissing, and the collapse that follows — psychological first, then somatic, then through the fittings of the station — is the outcome the whole protocol exists to stop.",
-          "new": "- Duration is on the holding's side. A sleeper held past the clock does not simply wake tired; the saturation pools in them the way static pools in a channel that is already hissing, and what follows is why two workers go down together and never one: the second sleeper is there to be surfaced if the first cannot be. The pairing has been needed four times in the holding's history and worked on all four occasions, which is the record the fixed clock is protecting."
-        },
-        {
-          "id": "R4-consequences-unresolved-bay",
-          "kind": "careful consequence correction",
-          "careful": true,
-          "old": "- A bay that closes without closing does not stop at the rail: the holding walks out its event pattern, and the sentence nobody resolved takes the exit the session failed to give it.",
-          "new": "- A bay that closes without resolution puts nothing at the rail and sends nothing after anybody: the bearing series states flatly that this holding does not come looking for anybody, and has not once been found closer to an occupied position in nineteen years. What leaves the session is carried out in the worker's head, and it has a name in this wing — the residue — and a destination, the log, and a rule, which is that nobody works on it afterwards."
-        }
-      ],
-      "outputs": {
-        "verify": {
-          "exit": 0,
-          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
-          "stderr": ""
-        },
-        "tpl": {
-          "exit": 0,
-          "stdout": "RESIDUE 0  SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md\n",
-          "stderr": ""
-        },
-        "sectfile": {
-          "exit": 0,
-          "stdout": " 0.025  clean   122 grams  Operational Parameters\n 0.020  clean   557 grams  Combat Record\n 0.015  clean   776 grams  M.A.W. Equipment\n 0.011  clean   188 grams  Trivia\n 0.005  clean   207 grams  기록 (Registrum)\n 0.003  clean   704 grams  감각 묘사 (Flavor Text)\n 0.000  clean  1400 grams  Apex Record\n 0.000  clean   429 grams  이야기 (Narratio)\n 0.000  clean   303 grams  이야기 보고 (Story Log)\n 0.000  clean   275 grams  관찰 기록 (Observation Log)\n 0.000  clean   210 grams  Appearance\n 0.000  clean   153 grams  Behavior\n 0.000  clean   122 grams  Origin\n 0.000  clean   110 grams  최종 관찰 (Final Observation)\n 0.000  clean    99 grams  Containment Event Behavior\n 0.000  clean    49 grams  증언 (Testimonium)\n 0.000  clean    43 grams  SECC Classification\n 0.000  THIN      1 grams  (preamble)\n0 section(s) over 0.05\n",
-          "stderr": ""
-        },
-        "wikistd": {
-          "exit": 0,
-          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
-          "stderr": ""
-        },
-        "sect": {
-          "exit": 0,
-          "stdout": "   31   3  | **Han-Energy yield** | 20–28 per successful work cycle, taken off the break series and never off the voice |\n   84   4  | { *The Total Breakdown* [**Attack**] } | \"The entire whisper gives way — every word, every letter, collapsing at once.\" | [The w\n   85   7  | { *Every Voice Falls Apart* [**Ultimate**] } | \"No one can finish a sentence — every word collapses before it arrives — and the \n  176   2  **Appearance:** a fang-curved blade of Grudge Han-iron, finished dark and warm on the rack, that pulses with the source sorrow the\n  197   6  **Appearance:** a plated harness of Grudge Han-iron, dark and warm to the touch, that settles over the wearer and breathes as they\n  221   1  **Effect:** +3 Resilience while working the source holding, entered at issue and struck the day the bearer leaves the Desolate pos\n  241   1  | **Before use** | Wielder, piece, and a dated baseline taken before issue against what this holding takes — old hurts waking in t\n  243   1  | **At limit** | The cost runs continuously rather than in bursts — the reflexes dull, as though resentment had armoured them — an\n  244   1  | **After use** | Return the piece, reconcile the baseline, and enter whether the toll has lifted: the dulled reflexes have to hav\n  326   2  | The Whisper's neighbour | How the pairing has run | What the break series showed | What the entry carries |\n  380   1  **Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the break series, t\n  446   2  - **Classification detail:** A Subject with Entity (IV) coherence and Critical (δ) potency, graded for what the gap does in a work\nGENERIC 0.005  (31 shared shingles)  SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md\n",
-          "stderr": ""
-        }
-      },
-      "sources": [
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-A__SIDE_CODEX_The_Collapsed_Whisper.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-B__MAW-W_The_Warning_Fang.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-C__MAW-S_The_Warning_Plate.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-D__MAW-G_The_Warning_Thread.md",
-        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
-        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
-      ],
-      "source_hashes": {
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-A__SIDE_CODEX_The_Collapsed_Whisper.md": "98472637686f2d86556c3c55806fbd08807fe2e778c2c8013f36196c66626e34",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-B__MAW-W_The_Warning_Fang.md": "ce688670d69a6b0b037ae5c6f97d9f86957df8f3767b18fce5c21fdac8879998",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-C__MAW-S_The_Warning_Plate.md": "807ba140f805c112ed3822663624e7be7fdd4f8ac83f3dfcaaa090316e9a4ec1",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-D__MAW-G_The_Warning_Thread.md": "b54a0e3cd6fa01b2ae9e8545b9afcc459b76ebb9344a02ecdf2f7e244fb80cda",
-        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
-        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
-      },
-      "whole_before_reread": true,
-      "whole_final_reread": true,
-      "no_change": false,
-      "credits": {
-        "types": 1,
-        "weapon": 1,
-        "se": 0
-      },
-      "link": "[[SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-249_Collapsed_Whisper_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md \"SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md\")]",
-      "table_link": "[Collapsed Whisper](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-249_Collapsed_Whisper_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md \"SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md\")",
-      "reading": {
-        "before_lines": 456,
-        "before_bytes": 46765,
-        "final_lines": 456,
-        "final_bytes": 47425
-      },
-      "integrity": {
-        "unselected_primary_unchanged": 300,
-        "remaining_pending_fingerprints_unchanged": 72,
-        "physical_form_rows_unchanged": 301,
-        "tale_unchanged": true,
-        "digit_sequences_unchanged": true,
-        "source_files_unchanged": 10,
-        "digit_sequence_change": ""
-      }
+    "sectfile": {
+     "exit": 0,
+     "stdout": " 0.000  clean  1332 grams  Apex Record\n 0.000  clean   564 grams  Combat Record\n 0.000  clean   534 grams  감각 묘사 (Flavor Text)\n 0.000  clean   509 grams  M.A.W. Equipment\n 0.000  clean   420 grams  이야기 (Narratio)\n 0.000  clean   319 grams  이야기 보고 (Story Log)\n 0.000  clean   260 grams  Appearance\n 0.000  clean   258 grams  Expansion Behavior\n 0.000  clean   245 grams  기록 (Registrum)\n 0.000  clean   245 grams  Origin\n 0.000  clean   231 grams  관찰 기록 (Observation Log)\n 0.000  clean   171 grams  Trivia\n 0.000  clean   168 grams  Operational Parameters\n 0.000  clean    87 grams  Behavior\n 0.000  clean    65 grams  최종 관찰 (Final Observation)\n 0.000  clean    43 grams  SECC Classification\n 0.000  clean    30 grams  증언 (Testimonium)\n 0.000  THIN      5 grams  (preamble)\n0 section(s) over 0.05\n",
+     "stderr": ""
     },
-    {
-      "designation": "N-IIIγ-160",
-      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-160_Broken_Promise_깨진_약속.md",
-      "words": 7809,
-      "sha256": "c2908ec355c2eefa23662349233449503fd09cb2b86c61720dfc46a8983ef764",
-      "unit": 4,
-      "name": "Broken Promise",
-      "status": "held",
-      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_04_BROKEN_PROMISE.md",
-      "before_words": 7809,
-      "after_words": 7851,
-      "base": "93b434f265261229ed62051c8a40b645801bc1f5",
-      "final_sha256": "3db4abc7398c143f59e8ee5e72a1ec9081fb8d56cd114cfdebea3751529a1d8e",
-      "summary": "One source-supported careful repair: the Shard-Strike row no longer launches a flying fragment at a target — the file's injury record is shallow cuts sustained only by people who had broken something they had said — and now describes the documented harm, the binding taking hold when an undertaking is spoken in contact with a shard. Credits +0/+0/+0: the in-file Batch 112 cross-source review remains the coverage event for a dossier that has no primary-assigned equipment set at all.",
-      "commentary": "Broken Promise carries the heaviest moral machinery in this batch — a wing that keeps its holding quiet by withdrawing real commitments to real households once a quarter, minuted as correct in all three parts — and needed only one correction, in the same place Rift did: a combat row that invented a projectile. Nothing on Collector's Row throws anything; the shards cut flesh seldom and only ever the flesh of somebody who had broken a thing they said. The row now deals the harm the file documents. The credit question was settled before this pass began: Batch 112 already untangled the 160-suffix identities in the file itself, and there is no SE-160 set belonging to this entity to review — the one on the shelf belongs to The Debt Chain.",
-      "reasoning": "Identity work repeated from the in-file Batch 112 review and re-verified against the shelf: Registry_159_to_169/160_Debt_Chain is N-IIIβ-160 [WO] The Debt Chain, not this N-IIIγ-160 [GO]; no primary-assigned SE-160-B/C/D exists for Broken Promise. Sentence triage of the frozen primary found one unsupported claim: combat row 3's launching shard ('A fragment of the broken promise flies… A shard of shattered vow launches'), contradicted by the Observation Log ('Its shards cut crystal readily and flesh seldom; the injuries on record are shallow and all were sustained by people who had broken something they had said') and by the binding mechanics that govern every other section. R-18 split declared before the apply: 0 short / 1 careful. The replacement is built only from documented behaviour (arrangement turns toward speakers; activation on speaking a promise while touching a shard). Technical PASS on the frozen file (GENERIC 0.009) did not settle the claim — R-33. The Trivia numeral look-up line is left as found, as at Memorial Flame: it asserts nothing false.",
-      "history": "The primary carries an in-file M.A.W. Cross-Source Review — Batch 112: no Side set is registered to Broken Promise's own SE-160 assignment; SE-160-A/B/C/D belong to N-IIIβ-160 The Debt Chain (Binding Maul/Mantle/Chain); SE-1015-A Facsimile repeats N-IIIγ-160 as a source designation but links its own SE-1015 items and 'Facsimile — Witnessed Form' set, establishing no crosswalk and counting as no Weapon review; Master Entries 418–420 join Promise Fang/Plate/Shard to N-IIIγ-160 (γ, Grudge, 40/35 Echoes) while their PRIMAL/Plates/Relic-Drops classifications stay unreconciled with the primary's Han-iron; SE-851 Shard of a Broken Promise's identically named pieces are a separate identity. That review is the coverage event: Types +0, Weapon +0, SE +0. Counters stay 278/301, 276/287, 18/301.",
-      "holds": [
-        "Identity negatives held exactly as Batch 112 left them: SE-160 set = The Debt Chain N-IIIβ-160; SE-1015 Facsimile's repeated source designation = no crosswalk; SE-851 Shard of a Broken Promise's Promise Fang/Plate/Shard = duplicate names on a different identity — none used to rewrite the primary's local Fang, harness or Tail tile.",
-        "Master Entries 418–420 classifications (PRIMAL — Bio/Marrow; Armor (Plates & Heavy Armor); Accessory (Relic Drops & Seeds)) vs the primary's Han-iron descriptions — unreconciled; local Tail / 4% / +2 Stigma record stands.",
-        "Tales entry β potency vs this file's γ (Batch 112) — unresolved.",
-        "The quarterly-withdrawal practice and the ward officer's correct-in-all-three-parts objection stand as the file minutes them; the nine readings of the attempted name remain held with none preferred."
-      ],
-      "split": [
-        0,
-        1
-      ],
-      "repairs": [
-        {
-          "id": "R1-shard-strike-row",
-          "kind": "careful combat correction",
-          "careful": true,
-          "old": "| { *The Shard-Strike* [**Attack**] } | \"A fragment of the broken promise flies — sharp, jagged, carrying the full force of the betrayal.\" | [ A shard of shattered vow launches.] | *Inflicts Grudge pressure and one wound of broken trust.* **[14-22 Grudge DMG [Grudge]]** | When the Promise is disturbed. |",
-          "new": "| { *The Shard-Strike* [**Attack**] } | \"Nothing is thrown. The arrangement sharpens toward whoever has just undertaken something, and the fragments hold a signature one stroke longer than they should.\" | [The shards cut crystal readily and flesh seldom; every injury on record is shallow, and every one was sustained by somebody who had broken a thing they had said.] | *Inflicts Grudge pressure; the wound of broken trust is the binding taking hold, not a projectile.* **[14-22 Grudge DMG [Grudge]]** | When an undertaking is spoken in contact with a shard. |"
-        }
-      ],
-      "outputs": {
-        "verify": {
-          "exit": 0,
-          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
-          "stderr": ""
-        },
-        "tpl": {
-          "exit": 0,
-          "stdout": "RESIDUE 0  SE-N-IIIγ-160_Broken_Promise_깨진_약속.md\n",
-          "stderr": ""
-        },
-        "sectfile": {
-          "exit": 0,
-          "stdout": " 0.018  clean   599 grams  Combat Record\n 0.018  clean   168 grams  최종 관찰 (Final Observation)\n 0.016  clean   188 grams  Trivia\n 0.015  clean   137 grams  Operational Parameters\n 0.014  clean   773 grams  M.A.W. Equipment\n 0.008  clean   237 grams  관찰 기록 (Observation Log)\n 0.008  clean   252 grams  기록 (Registrum)\n 0.008  clean   524 grams  감각 묘사 (Flavor Text)\n 0.007  clean  1293 grams  Warden Record\n 0.003  clean   372 grams  Activation Behavior\n 0.000  clean   329 grams  이야기 (Narratio)\n 0.000  clean   184 grams  Appearance\n 0.000  clean   158 grams  이야기 보고 (Story Log)\n 0.000  clean   129 grams  Origin\n 0.000  clean   107 grams  Behavior\n 0.000  clean    51 grams  증언 (Testimonium)\n 0.000  clean    31 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
-          "stderr": ""
-        },
-        "wikistd": {
-          "exit": 0,
-          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
-          "stderr": ""
-        },
-        "sect": {
-          "exit": 0,
-          "stdout": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   85   4  | { *The Full Fracture* [**Attack**] } | \"Every promise that was ever broken — every shattered vow — converges and detonates.\" | [\n   86   7  | { *Every Promise Breaks* [**Ultimate**] } | \"Now every vow in the field shatters — every commitment, every oath — and no one can\n  155   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  214   7  **Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that takes an edge wherever the bearer's own undert\n  222   2  **Ability:** Deals Grudge damage against the Body — physical form and structural integrity — and carries the source's signature: t\n  230   3  **Appearance:** a plate harness of Grudge Han-iron, dark and faintly warm, that settles on the wearer with the weight of a documen\n  248   2  **Appearance:** a shard-tile of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.\n  276   1  | **At limit** | Duration, activations, attribute change, rejection signs, the fracture added, residue weight, and whether the sur\n  302   2  **Observation method:** Photograph, count, weigh, and write down what people said. The form here is the sorrow and not a forecast:\n  326   3  | Viderehan and Ferrehan only, certified Tool protocol, with the session's management condition taken from the withdrawal register\n  349   2  **Interaction method:** Baseline each party alone across several cycles — arrangement, fracture rate, residue weight and gauge — b\n  362   2  **Interaction procedure:** Solo baselines first, across several cycles, with arrangement, fracture rate, residue weight and gauge \n  406   2  **Operational interpretation:** This file reads whole or not at all: the classification, the 2 valid Work Types, the binding condi\n  461   1  The objection is minuted at every annual review. It holds that the facility is selecting its own promises to people for event, on \n  463   8  The minute records the objection as **correct in all three parts**. It records that a scheme to pay compensation out of the Row's \n  467   3  - The register keeps its own figures in numerals for look-up: gauge 693/693, pressure 14–32 per hit, resistance 35 / 25 per cent, \nGENERIC 0.009  (52 shared shingles)  SE-N-IIIγ-160_Broken_Promise_깨진_약속.md\n",
-          "stderr": ""
-        }
-      },
-      "sources": [
-        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
-        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
-      ],
-      "source_hashes": {
-        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
-        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
-      },
-      "whole_before_reread": true,
-      "whole_final_reread": true,
-      "no_change": false,
-      "credits": {
-        "types": 0,
-        "weapon": 0,
-        "se": 0
-      },
-      "link": "[[SE-N-IIIγ-160_Broken_Promise_깨진_약속](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-160_Broken_Promise_%EA%B9%A8%EC%A7%84_%EC%95%BD%EC%86%8D.md \"SE-N-IIIγ-160_Broken_Promise_깨진_약속.md\")]",
-      "table_link": "[Broken Promise](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-160_Broken_Promise_%EA%B9%A8%EC%A7%84_%EC%95%BD%EC%86%8D.md \"SE-N-IIIγ-160_Broken_Promise_깨진_약속.md\")",
-      "reading": {
-        "before_lines": 486,
-        "before_bytes": 48604,
-        "final_lines": 486,
-        "final_bytes": 48858
-      },
-      "integrity": {
-        "unselected_primary_unchanged": 300,
-        "remaining_pending_fingerprints_unchanged": 71,
-        "physical_form_rows_unchanged": 301,
-        "tale_unchanged": true,
-        "digit_sequences_unchanged": true,
-        "source_files_unchanged": 6,
-        "digit_sequence_change": ""
-      }
+    "wikistd": {
+     "exit": 0,
+     "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+     "stderr": ""
     },
-    {
-      "designation": "C-IIβ-054",
-      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-054_The_Empty_Mask_빈_가면.md",
-      "words": 7815,
-      "sha256": "5d833de2c828b74d7fe4ec7d66c12169ba13fa1414740ed1dab3da40232bb66e",
-      "unit": 5,
-      "name": "The Empty Mask",
-      "status": "held",
-      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_05_THE_EMPTY_MASK.md",
-      "before_words": 7815,
-      "after_words": 7972,
-      "base": "766f013c3adb09f8fd837d4edad134fcf77fd60c",
-      "final_sha256": "8ba75055b871a46d422c283e447211a908c9bfed0ab7b8e1e003222d98d711f0",
-      "summary": "Four source-supported repairs (2 short / 2 careful): the Consequences lose their three template lines — the four-harm 'full documented manifestation' catalogue, the 'profound price' equipment formula and the 'catastrophic outlet' default — and gain this holding's documented record instead (identity confusion inside four unsupervised minutes; heaviness no scale registers, low fatigue, an identity slowly not returned; a handler who leaves as a number while the card series rises on its own schedule). The generic continued-exposure Flavor becomes the timed naming pause. First independent full-set source review of SE-054: fresh +1 Types / +1 Weapon; whole design remains HELD, SE +0.",
-      "commentary": "The Empty Mask is a file about an instrument nobody is allowed to read — a glow card tracking a count the Company forbids itself to publish — and its Consequences were the one place it stopped measuring and started reciting the stock catastrophe list. The repairs put the file's own figures back: four minutes to identity confusion, a service number where a name was asked, a card at 5.2 and rising whether the watch was worked well or not. The set review found the usual agreements underneath divergent descriptions and one genuine protocol fork at removal, held as found. No earlier disposition exists anywhere in the set, so the fresh credit is earned.",
-      "reasoning": "Set SE-054 identity resolved from Side A (SECC Designation C-IIβ-054 [WO], 'Void Set') and item codes MAW-W/S/G-054-01; all four set files read whole, including a check for any Side-side disposition paragraph (none — subject card, trigger protocol, set page, observation page only). Sentence triage: combat rows, phases, activation, log-and-method and interaction records are holding-specific; the defects were Consequences bullets 2–4 (the shared four-harm catalogue, the 'intimate memories, physical sensation, and years of life' formula, and the 'defaults to…catastrophic outlet' line, each contradicting the file's own documented exposure, per-piece tolls and no-breach-counter record) and the generic continued-exposure Flavor sentence. R-18 split declared before the apply: 2 short / 2 careful. Replacements use only file-documented facts (four-minute figure, service-number sign, 3.1/4.0/5.2 card series, the three named tolls). Digit sequences: the six digits of the already-documented card series (3.1, 4.0, 5.2) were carried into the repaired bullet; no new figure was created.",
-      "history": "Fresh-credit proof by negatives: no in-file cross-source/full-set review block; Side A carries no profile-hold or disposition text; no prior evidence file mentions C-IIβ-054; ledger equipment_reviews has no 054 entry; git path history shows only the B179 import (87f1a01). First independent exact-pair/full-set review: Side A (99 lines) and items B/C/D read whole including Appearance sections and histories (market rescue, mirror refusal, Collector raid); Registry rows 98–101 confirm identity (Weapon Variable/-/-; Stigma generic Accessory/5%); primary machine fields agree with items (Weight 5–9, 2/2, Single, 4/25; resistances 1.0/1.0/1.5/0.5; Head/5%/+1). Fresh credit: Types +1, Weapon +1, SE +0 (whole design HELD). Counters become 279/301, 277/287, 18/301.",
-      "holds": [
-        "Removal-protocol fork: Side A 'Removal requires the wearer to speak that name themselves; if unable, witnesses speak it in sequence' vs the primary's eleven-year record that self-naming has never once been sufficient and a second person must say it — primary governs itself; both stand.",
-        "Weapon appearance/use fork: primary matte maul 'never signed out' of the armoury and 'never swung in this holding' vs item concave-dish face, grey rim ring and a market-rescue swing — unmerged.",
-        "Suit appearance fork: primary clerk's-coat mantle that dims in bright rooms vs item black straight-cut mantle with a pale front strip that stores the effect — held.",
-        "Stigma appearance fork: primary Han-iron shard-tile vs item pale grey glass mask charm on a black cord (Head / 5% / +1 agree) vs Registry generic Accessory / 5% — Registry value never imported.",
-        "Item histories describe field deployments (market rescue, Collector raid) against the primary's armoury-bound record — separate accounts; the card↔live-withdrawal-count correspondence and the Shadow Roll's thirty-one families / two women remain the file's own unreconciled findings."
-      ],
-      "split": [
-        2,
-        2
-      ],
-      "repairs": [
-        {
-          "id": "R1-consequences-extended-contact",
-          "kind": "careful consequence correction",
-          "careful": true,
-          "old": "- Extended contact risks The Empty Mask’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.",
-          "new": "- Extended contact does one documented thing and does it quickly: unsupervised handling produces identity confusion inside four minutes, measured, and the two-person rule is built on that figure. The first sign is a service number offered where a name was asked for; past two minutes of contact the wearer may not recognise themselves at all, and the entry is then made by the second worker about a handler who cannot be asked."
-        },
-        {
-          "id": "R2-consequences-equipment-price",
-          "kind": "short cost correction",
-          "careful": false,
-          "old": "- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.",
-          "new": "- Every piece in this set carries the holding's discrepancy with it and the toll is entered piece by piece: a heaviness the tray scale never registers for the maul, a constant low fatigue the wearer blames on the shift for the mantle, and an identity slowly not returned for the charm — paid whether the use was correct or not."
-        },
-        {
-          "id": "R3-consequences-unresolved",
-          "kind": "careful consequence correction",
-          "careful": true,
-          "old": "- Without timely resolution, The Empty Mask defaults to its documented activation or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.",
-          "new": "- Unresolved, nothing leaves the tray and the file says so: there is no breach counter on this holding and the Mask has never moved except by a hand whose name is entered. What an unresolved handling produces is a handler who walks out as a number and a card series that keeps rising on its own schedule — 3.1, 4.0, 5.2 — whether or not anybody worked the watch well."
-        },
-        {
-          "id": "R4-flavor-continued-exposure",
-          "kind": "short flavor grounding",
-          "careful": false,
-          "old": "**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Weight presses hardest, where it recedes, where the Object-Weight lets you breathe.",
-          "new": "**With continued exposure:** The editing starts in the handler's own speech: names come slower, then not at all, and a service number arrives promptly in their place. The pause is the finding and it is timed — which is why the names are exchanged at the quarter hour, both ways, aloud, whether or not anybody thinks it necessary."
-        }
-      ],
-      "outputs": {
-        "verify": {
-          "exit": 0,
-          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
-          "stderr": ""
-        },
-        "tpl": {
-          "exit": 0,
-          "stdout": "RESIDUE 0  SE-C-IIβ-054_The_Empty_Mask_빈_가면.md\n",
-          "stderr": ""
-        },
-        "sectfile": {
-          "exit": 0,
-          "stdout": " 0.027  clean   183 grams  Trivia\n 0.016  clean   124 grams  Operational Parameters\n 0.008  clean   659 grams  Combat Record\n 0.002  clean   455 grams  M.A.W. Equipment\n 0.002  clean   587 grams  Activation Behavior\n 0.000  clean   737 grams  감각 묘사 (Flavor Text)\n 0.000  clean   717 grams  Watch Record\n 0.000  clean   426 grams  이야기 보고 (Story Log)\n 0.000  clean   368 grams  이야기 (Narratio)\n 0.000  clean   356 grams  기록 (Registrum)\n 0.000  clean   238 grams  관찰 기록 (Observation Log)\n 0.000  clean   179 grams  Appearance\n 0.000  clean   155 grams  Behavior\n 0.000  clean   130 grams  증언 (Testimonium)\n 0.000  clean   127 grams  최종 관찰 (Final Observation)\n 0.000  clean   115 grams  Origin\n 0.000  clean    30 grams  SECC Classification\n0 section(s) over 0.05\n",
-          "stderr": ""
-        },
-        "wikistd": {
-          "exit": 0,
-          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
-          "stderr": ""
-        },
-        "sect": {
-          "exit": 0,
-          "stdout": "   32   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   56   1  | **Resistance** | 25% against Weight pressure; 15% against other pressure types |\n   86   4  | { *The Sea of Masks* [**Ultimate**] } | \"Every face in the room is replaced by the same blank interior, and every one of them is\n  163   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  284   1  | **After use** | Take the piece back, read the tray scale against the sealed baseline, and record whether the heaviness reversed.\n  472   5  - **Field detail:** Its defining element is Weight and its registered location is SECTOR-C-01, with the Masked Troupe; it has neve\nGENERIC 0.003  (14 shared shingles)  SE-C-IIβ-054_The_Empty_Mask_빈_가면.md\n",
-          "stderr": ""
-        }
-      },
-      "sources": [
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-A__SIDE_CODEX_The_Empty_Mask.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-B__MAW-W_The_Void_Maul.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-C__MAW-S_The_Void_Mantle.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-D__MAW-G_The_Void_Mask.md",
-        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
-        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
-      ],
-      "source_hashes": {
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-A__SIDE_CODEX_The_Empty_Mask.md": "e77bc2793ee023909431c6da79a450fd973711406dc4e5db3888141eea922a44",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-B__MAW-W_The_Void_Maul.md": "2edee0de6bca9cfd305531981da6adaa331be96c4e114aa4ef9a90fd8186f3d3",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-C__MAW-S_The_Void_Mantle.md": "c8c9ebea13d8ab603b037e54b7b62de1649c51c8dc8953182276ff96c96bbcd2",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-D__MAW-G_The_Void_Mask.md": "6baf11ee8736dbafab8ca2c7b86504ba560dff21674c3c75206b82da2d761898",
-        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
-        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
-      },
-      "whole_before_reread": true,
-      "whole_final_reread": true,
-      "no_change": false,
-      "credits": {
-        "types": 1,
-        "weapon": 1,
-        "se": 0
-      },
-      "link": "[[SE-C-IIβ-054_The_Empty_Mask_빈_가면](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-054_The_Empty_Mask_%EB%B9%88_%EA%B0%80%EB%A9%B4.md \"SE-C-IIβ-054_The_Empty_Mask_빈_가면.md\")]",
-      "table_link": "[The Empty Mask](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-054_The_Empty_Mask_%EB%B9%88_%EA%B0%80%EB%A9%B4.md \"SE-C-IIβ-054_The_Empty_Mask_빈_가면.md\")",
-      "reading": {
-        "before_lines": 481,
-        "before_bytes": 46718,
-        "final_lines": 481,
-        "final_bytes": 47409
-      },
-      "integrity": {
-        "unselected_primary_unchanged": 300,
-        "remaining_pending_fingerprints_unchanged": 70,
-        "physical_form_rows_unchanged": 301,
-        "tale_unchanged": true,
-        "digit_sequences_unchanged": false,
-        "source_files_unchanged": 10,
-        "digit_sequence_change": "Digit sequences added are the file's own card-grade series 3.1, 4.0, 5.2, already stated in the frozen primary's Operational Work Notes, Story Entry 2 and Personnel Note, carried into the repaired Consequences bullet. No new figure was created and no existing sequence altered."
-      }
+    "sect": {
+     "exit": 0,
+     "stdout": "GENERIC 0.000  (0 shared shingles)  SE-C-IVδ-193_Rift_사라진_벽.md\n",
+     "stderr": ""
     }
-  ],
-  "opened_at": "2026-10-27",
-  "completed": 5
+   },
+   "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-A__SIDE_CODEX_Rift.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-B__MAW-W_The_Walls_Maul.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-C__MAW-S_The_Walls_Absence.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-D__MAW-G_The_Walls_Charm.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+   ],
+   "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-A__SIDE_CODEX_Rift.md": "f3d9a582846afb312988b8b3d2e27998edbfcde7b21bd5a339b7bd549ccd96c2",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-B__MAW-W_The_Walls_Maul.md": "ac50946aa75e92eb933660b628a819a5315e58c235449bcc158a3fe865e9693a",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-C__MAW-S_The_Walls_Absence.md": "51f1f6a1cf1859d6237657954480518c0fe7cce674cd19fa31947b488fe69567",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/193_Rift/SE-193-D__MAW-G_The_Walls_Charm.md": "f311444f39c1e08636d7cce239bea268d3bd77400aa67314d89d797f87c8455a",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+   },
+   "whole_before_reread": true,
+   "whole_final_reread": true,
+   "no_change": false,
+   "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+   },
+   "link": "[[SE-C-IVδ-193_Rift_사라진_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-193_Rift_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B2%BD.md \"SE-C-IVδ-193_Rift_사라진_벽.md\")]",
+   "table_link": "[Rift](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-193_Rift_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B2%BD.md \"SE-C-IVδ-193_Rift_사라진_벽.md\")",
+   "reading": {
+    "before_lines": 468,
+    "before_bytes": 46493,
+    "final_lines": 468,
+    "final_bytes": 46837
+   },
+   "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 74,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": "One digit sequence added: '132' (years), the span already stated in the frozen primary's Story Entry 5, Director's Memo threat note and Apex Record. No other digit sequence changed."
+   }
+  },
+  {
+   "designation": "C-IVδ-763",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md",
+   "words": 7783,
+   "sha256": "9fd709f4a16165d1789f9e4132ef480eb99ddefdd2fb461d0c1b6142b04b6cfa",
+   "unit": 2,
+   "name": "Memorial Flame Mid-Ceremony",
+   "status": "held",
+   "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_02_MEMORIAL_FLAME_MID_CEREMONY.md",
+   "before_words": 7783,
+   "after_words": 7839,
+   "base": "ecd14ccc45ba525f3727e014b2ad9c75041c10f0",
+   "final_sha256": "544d631b379511b491e69c828410fca65016affbdcceef55ed00340102e0cc49",
+   "summary": "Two source-supported careful repairs, both in Consequences: the stock 'cognitive erosion, somatic distortion and environmental taint' harm list becomes this holding's documented exposure (a specific borrowed bereavement, first-person claiming as the failure sign, mandatory counsellor contact), and the template 'ceremony resumes without an end… escalates' failure becomes what the file actually records — a scene that has not advanced in 1,106 entries over nineteen years, priced in corridor heat and a register line. Credits +0/+0/+0: Side SE-763-A already carries a written Weapon-profile disposition across primary, item, Registry and archetype, so the fresh-credit negative cannot be proven.",
+   "commentary": "Memorial Flame Mid-Ceremony is a file about restraint — a facility that may abate a hazard but may not bury anybody — and its two repaired lines were the only unrestrained ones in it: a three-item catalogue of stock harms, and a failure mode in which the ceremony 'resumes' and 'escalates' in a holding whose central measured fact is that the scene has never moved in nineteen years. Both now say what the record says. On credit, this unit is the mirror of the last batch's fresh cases: the Side codex itself carries a careful Weapon-profile hold comparing the primary, the linked item, the Registry and MAW-W-763, so the set has plainly been dispositioned before and no fresh credit is claimed. The honest outcome is HELD at +0, with the file minutely more truthful than it was.",
+   "reasoning": "Set SE-763 identity resolved from Side A and item headers (Source SECC Designation C-IVδ-763 [LP]; MAW-W/S/G-763-01); all four set files read whole. Sentence triage: combat rows, phases, expansion and interaction records are vault-specific; the defects were Consequences bullets 2 and 4. Bullet 2's 'cognitive erosion, somatic distortion and environmental taint' is the stock harm catalogue, against the file's documented exposure (specific borrowed grief; first-person claiming as first failure sign across all three item files; mandatory counsellor contact). Bullet 4's resumable, escalating ceremony contradicts the Apex Record (1,106 entries, nineteen years, scene never anywhere else; expansion 'has always receded on its own'). R-18 split declared before the apply: 0 short / 2 careful. Replacements use only file-documented facts. Fresh credit refused: Side A's 'Weapon-profile hold' paragraph is a written cross-source disposition (duplicated Appearance text discounted as one description; 14–22/Long/Homing vs 10–15/Medium/Skewer profiles held without selection; MAW-W-763 Short band noted), which defeats the no-prior-review negative that fresh credit requires.",
+   "history": "No prior evidence file mentions C-IVδ-763, no equipment_reviews entry exists, and git path history shows only the B179 import (87f1a01) — but Side SE-763-A itself contains a 'Weapon-profile hold' disposition comparing the primary, SE-763-B, the master registry and archetype MAW-W-763, including the copy-evidence caution that the shared two-paragraph bodkin Appearance is one duplicated description rather than independent corroboration. A written disposition of exactly the kind this pass performs therefore already exists inside the set; under the prove-history-first rule the fresh-credit negative fails. Types +0, Weapon +0, SE +0; no equipment_reviews entry appended. Counters stay 277/301, 275/287, 18/301.",
+   "holds": [
+    "Weapon profile fork (Side A hold, retained verbatim in effect): primary Lament 14–22 / Normal 3 / Range 4 Long / Homing Wisp–Tracking Soul-Burn vs item+Side Lament 10–15 / Fast 3 / Range 3 Medium / Skewer; max 2 and 50 Echoes agree; MAW-W-763 supports the bodkin form and a Short band, not either reach; no profile selected.",
+    "Weapon naming: item title and Registry 'The Candelabrum Bodkin' vs Side set table and item body 'The Soul-Seeking Candelabrum' — documented naming variation, not two weapons.",
+    "Stigma slot fork: primary Torso/Neck / 4% / +3 vs item+Side Tail / 4% / +3 vs Registry generic Accessory / 5% — all three stand; nothing harmonised.",
+    "Suit appearance: primary deep-blue ash-greyed silk shroud vs item C's appearance paragraph, which describes function and binding rather than cloth — held as separate records.",
+    "The no-entry day (nineteen scheduled, eighteen kept) and the research office's correct-and-standing objection remain the file's own unresolved pair; the register's digit look-up line in Trivia is left as found — odd, but it asserts nothing false."
+   ],
+   "split": [
+    0,
+    2
+   ],
+   "repairs": [
+    {
+     "id": "R1-consequences-borrowed-grief",
+     "kind": "careful consequence correction",
+     "careful": true,
+     "old": "- Stay near the cold and the vigil’s unfinished grief does what the ceremony never did: it moves in with its detail attached — a particular absence, habits, a voice — bringing cognitive erosion, somatic distortion and environmental taint on a worker who cannot say which of the feelings were ever theirs.",
+     "new": "- Stay near the cold and the vigil's unfinished grief does what the ceremony never did: it moves in with its detail attached — a particular absence, habits, a voice — and the first sign the file watches for is the worker describing somebody else's bereavement in the first person. The counsellor contact is mandatory inside the shift for exactly that reason: the emotion arrived from outside the person carrying it, and nobody consented to receive it."
+    },
+    {
+     "id": "R2-consequences-failed-resolution",
+     "kind": "careful consequence correction",
+     "careful": true,
+     "old": "- If resolution fails, the ceremony resumes without an end: the entry sharpens into a manifestation, expands inside the holding’s own boundary, and escalates on the unfinished vigil’s terms — each failure adding another mourner to a rite that has not closed since the night it was cut short.",
+     "new": "- If resolution fails, nothing dramatic follows, and the file is blunt about it: the scene does not advance, has never advanced, and will be standing in the same place at the next entry. One thousand one hundred and six entries over nineteen years have not moved the rite a single step. What a failed entry costs is corridor heat against next year's warmth budget and one more line in the register — a name, a duration, and nothing further."
+    }
+   ],
+   "outputs": {
+    "verify": {
+     "exit": 0,
+     "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+     "stderr": ""
+    },
+    "tpl": {
+     "exit": 0,
+     "stdout": "RESIDUE 0  SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md\n",
+     "stderr": ""
+    },
+    "sectfile": {
+     "exit": 0,
+     "stdout": " 0.029  clean   105 grams  Operational Parameters\n 0.016  clean   574 grams  Combat Record\n 0.013  clean   236 grams  Trivia\n 0.012  clean   607 grams  감각 묘사 (Flavor Text)\n 0.007  clean   276 grams  관찰 기록 (Observation Log)\n 0.006  clean   699 grams  M.A.W. Equipment\n 0.005  clean   206 grams  기록 (Registrum)\n 0.001  clean  1348 grams  Apex Record\n 0.000  clean   338 grams  이야기 (Narratio)\n 0.000  clean   249 grams  이야기 보고 (Story Log)\n 0.000  clean   235 grams  Expansion Behavior\n 0.000  clean   213 grams  Appearance\n 0.000  clean   155 grams  최종 관찰 (Final Observation)\n 0.000  clean   148 grams  Origin\n 0.000  clean   133 grams  Behavior\n 0.000  clean    53 grams  증언 (Testimonium)\n 0.000  clean    46 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+     "stderr": ""
+    },
+    "wikistd": {
+     "exit": 0,
+     "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+     "stderr": ""
+    },
+    "sect": {
+     "exit": 0,
+     "stdout": "   31   3  | **Han-Energy yield** | 20–28 per successful work cycle, taken off the vault's warmth differential rather than off anything the h\n   55   1  | **Resistance** | 45% against Lament pressure; 35% against other pressure types |\n   84   4  | { *Where It Burned* [**Attack**] } | \"The place the flame left behind opens — and the absence is a wound.\" | [The place the fire\n   85   4  | { *The Eternal Dark* [**Ultimate**] } | \"The last light goes out — for everyone — and will not come back.\" | [The last warm surf\n  203   2  **Bodkin return:** The individual Weapon entry requires the bearer, trigger, source response, cost and unresolved detail to surviv\n  235   1  **Effect:** +3 stat bonus when working the source entity and grants vision in sorrow fog.\n  253   1  | **Before use** | Wielder, piece, and a dated baseline against what Memorial Flame Mid-Ceremony takes: the wielder feels the enti\n  275   2  | **Initial exposure** | Confirm the holding from the inversion of heat and the shaped dark, check the station against the vault, \n  328   4  Three holdings are kept within reach of the vault — The Ember Child, The Kind Healer and Silence We Forgot We Made — and none of t\n  337   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  343   1  **Interaction procedure:** Baseline both parties alone first and keep the second outside the expansion marks for the whole session\n  392   1  **Review requirement:** After any expansion, Sorrow Tide, transformation attempt or unusual interaction: re-verify the warmth diff\n  449   1  The research office's objection is on the file and is read at every annual review. A continuous nineteen-year thermal and scene se\n  458   3  - For the register's look-up, digits as the file keeps them: gauge 993/993 · pressure 27–60 per hit · resistance 45 / 35 per cent \nGENERIC 0.005  (30 shared shingles)  SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md\n",
+     "stderr": ""
+    }
+   },
+   "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-A__SIDE_CODEX_Memorial_Flame_Mid_Ceremony.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-B__MAW-W_The_Absent_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-C__MAW-S_The_Absent_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-D__MAW-G_The_Absent_Flame.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+   ],
+   "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-A__SIDE_CODEX_Memorial_Flame_Mid_Ceremony.md": "af555204059395e55828388db61ece232c3dd0d98344c2624b833b89a7ed7cf8",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-B__MAW-W_The_Absent_Requiem.md": "98dd495cb17512c03fa0db6bfaed59f97ec90ab88b435c6f65e8f8c2f65fb2d4",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-C__MAW-S_The_Absent_Shroud.md": "bc1bb1a3c4251a0336495a3c4a346a39161267a14363fd720dc84cba173908b5",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-D__MAW-G_The_Absent_Flame.md": "d3814829e96fe573aa040e7cac75d50147aeee5cbf556bd52e3127b9ab05d263",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+   },
+   "whole_before_reread": true,
+   "whole_final_reread": true,
+   "no_change": false,
+   "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+   },
+   "link": "[[SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-763_Memorial_Flame_Mid-Ceremony_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B6%88%EA%BD%83.md \"SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md\")]",
+   "table_link": "[Memorial Flame Mid-Ceremony](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-763_Memorial_Flame_Mid-Ceremony_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B6%88%EA%BD%83.md \"SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md\")",
+   "reading": {
+    "before_lines": 472,
+    "before_bytes": 47106,
+    "final_lines": 472,
+    "final_bytes": 47396
+   },
+   "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 73,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": ""
+   }
+  },
+  {
+   "designation": "C-IVδ-249",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md",
+   "words": 7805,
+   "sha256": "d51d48a8df5c22f302eb9ed994a7f33c0aacf9891d76980ab23106ee63cb2935",
+   "unit": 3,
+   "name": "Collapsed Whisper",
+   "status": "held",
+   "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_03_COLLAPSED_WHISPER.md",
+   "before_words": 7805,
+   "after_words": 7932,
+   "base": "0c2f884959d4fc7438223411e633765531ce7c57",
+   "final_sha256": "1cc737234e840529b2e3b401066675fbfd4186e8048bb9f7afc7078c15c5f000",
+   "summary": "Four source-supported repairs (2 short / 2 careful): the Flavor opening loses its template containment door — this holding is worked asleep, from monitored bays — and the after-departure paragraph becomes the residue statement the protocol actually runs; the two Consequences bullets stop promising a collapse that spreads 'through the fittings of the station' and an entity that 'walks out its event pattern', and record instead the surfacing pairing that has worked four times and a bearing series that proves the holding never comes looking for anybody. First independent full-set source review of SE-249: fresh +1 Types / +1 Weapon; whole design remains HELD, SE +0.",
+   "commentary": "Collapsed Whisper is a dossier built on two series that can be trusted — a break at a second and a half across 840 sessions, a bearing that never comes closer — so its defects were the places where it stopped trusting them: a Flavor opening with a containment door that does not exist on a holding worked entirely in sleep, and two consequence lines borrowing the catalogue language of spreading collapse and outbound entities. The repairs put the file's own instruments back in those sentences. The equipment side needed no invention either: Fang, Plate and Thread agree across primary, item and Side cards, nothing anywhere shows an earlier disposition, and the one live contradiction — an item history in which a fragment reached a patrol, against the primary's absolute rule that no fragment may be passed on — is held exactly as found.",
+   "reasoning": "Set SE-249 identity resolved from Side A (SECC Designation C-IVδ-249 [GS], set 'The Message That Failed') and item codes MAW-W/S/G-249-01; all four flat set files read whole, including a check for any Side-side disposition paragraph (none — Side A is subject/management/set cards only). Sentence triage: the Flavor first-contact template ('The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room') contradicts the file's worked-asleep protocol and 'Nothing is sealed' containment detail; after-departure was generic pursuit language against the Residue Log; Consequences bullet 2's 'psychological first, then somatic, then through the fittings of the station' is the escalation catalogue against the documented pairing record (needed four times, worked four times); bullet 4's 'holding walks out its event pattern' contradicts the bearing series (never closer to an occupied position in nineteen years; 'this holding does not come looking for anybody'). R-18 split declared before the apply: 2 short / 2 careful. All replacements from file-documented facts only.",
+   "history": "Fresh-credit proof by negatives: no in-file cross-source/full-set review block in the primary (the per-piece care paragraphs are equipment records, not a disposition); Side A carries no Weapon-profile hold or equivalent review text; no prior evidence file mentions C-IVδ-249; ledger equipment_reviews has no 249 entry; git path history shows only the B179 import (87f1a01). First independent exact-pair/full-set review: Side A (113 lines) and items B/C/D read whole including Appearance sections; primary machine fields agree with item/Side cards (Grudge 10–15, 3/3, Skewer 100→70→50, 2/50; resistances; Tail/4%/+3 Resilience); Registry rows 538–541 confirm identity (Weapon Variable/-/-; Stigma generic Accessory/5%). Fresh credit: Types +1, Weapon +1, SE +0. Counters become 278/301, 276/287, 18/301.",
+   "holds": [
+    "Fragment-use contradiction held: item SE-249-D records the Thread carrying 'east—ground—' to an awake patrol who avoided a subsidence zone, against the primary's absolute rule that no fragment may be passed to a field crew in any form (with the Tuesday-fragment review finding the rule correctly applied). Neither record amends the other.",
+    "Suit appearance fork: primary harness 'dark and warm to the touch, that settles over the wearer and breathes as they do' vs item plates flickering between sleeping body and red-static silhouette — both stand.",
+    "Stigma Tail / 4% / +3 Resilience (primary, item, Side agree) vs Registry's generic Accessory / 5% — never imported.",
+    "Side A breach line (dream-space spreading at 90% Gauge) vs the primary's non-breaching Transform classification with no breach counter — primary governs itself; Side A untouched.",
+    "Break-time/bearing series and the terrain-word-count arrangement (23 counts, 23 surveys, two finds) remain the file's own findings, with the survey office's correct-and-continuing complaint unreconciled."
+   ],
+   "split": [
+    2,
+    2
+   ],
+   "repairs": [
+    {
+     "id": "R1-flavor-first-contact",
+     "kind": "short flavor grounding",
+     "careful": false,
+     "old": "**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room. Then the Subject-Dream resolves: A dream-figure formed from a whisper crushed beneath layers of static and red light. It watches from the edge of sleep.",
+     "new": "**At first contact:** Nobody works this file awake. Contact begins when the sleeper goes under in a monitored bay and the layer takes them: static and red light first, fever-cold, smelling of char and dead signals — and at the edge of it a dream-figure formed from a whisper crushed beneath the layers, watching, never fully arriving. The monitor starts the clock at the first sound, because the sentence is already on its way to the break."
+    },
+    {
+     "id": "R2-flavor-after-departure",
+     "kind": "short flavor grounding",
+     "careful": false,
+     "old": "**After departure:** You leave, but the Grudge follows — in the hands, in the chest, in the particular silence of the corridor afterward.",
+     "new": "**After departure:** You surface with the conviction that something vital was almost said to you, and it does not lift at the bay door. The debrief gives it somewhere to go: the residue statement, in your own words, logged verbatim and then left alone — by the counsellors, by the archivists, and by you."
+    },
+    {
+     "id": "R3-consequences-held-past-clock",
+     "kind": "careful consequence correction",
+     "careful": true,
+     "old": "- Duration is on the holding's side. A sleeper held past the clock does not simply wake tired; the saturation pools in them the way static pools in a channel that is already hissing, and the collapse that follows — psychological first, then somatic, then through the fittings of the station — is the outcome the whole protocol exists to stop.",
+     "new": "- Duration is on the holding's side. A sleeper held past the clock does not simply wake tired; the saturation pools in them the way static pools in a channel that is already hissing, and what follows is why two workers go down together and never one: the second sleeper is there to be surfaced if the first cannot be. The pairing has been needed four times in the holding's history and worked on all four occasions, which is the record the fixed clock is protecting."
+    },
+    {
+     "id": "R4-consequences-unresolved-bay",
+     "kind": "careful consequence correction",
+     "careful": true,
+     "old": "- A bay that closes without closing does not stop at the rail: the holding walks out its event pattern, and the sentence nobody resolved takes the exit the session failed to give it.",
+     "new": "- A bay that closes without resolution puts nothing at the rail and sends nothing after anybody: the bearing series states flatly that this holding does not come looking for anybody, and has not once been found closer to an occupied position in nineteen years. What leaves the session is carried out in the worker's head, and it has a name in this wing — the residue — and a destination, the log, and a rule, which is that nobody works on it afterwards."
+    }
+   ],
+   "outputs": {
+    "verify": {
+     "exit": 0,
+     "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+     "stderr": ""
+    },
+    "tpl": {
+     "exit": 0,
+     "stdout": "RESIDUE 0  SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md\n",
+     "stderr": ""
+    },
+    "sectfile": {
+     "exit": 0,
+     "stdout": " 0.025  clean   122 grams  Operational Parameters\n 0.020  clean   557 grams  Combat Record\n 0.015  clean   776 grams  M.A.W. Equipment\n 0.011  clean   188 grams  Trivia\n 0.005  clean   207 grams  기록 (Registrum)\n 0.003  clean   704 grams  감각 묘사 (Flavor Text)\n 0.000  clean  1400 grams  Apex Record\n 0.000  clean   429 grams  이야기 (Narratio)\n 0.000  clean   303 grams  이야기 보고 (Story Log)\n 0.000  clean   275 grams  관찰 기록 (Observation Log)\n 0.000  clean   210 grams  Appearance\n 0.000  clean   153 grams  Behavior\n 0.000  clean   122 grams  Origin\n 0.000  clean   110 grams  최종 관찰 (Final Observation)\n 0.000  clean    99 grams  Containment Event Behavior\n 0.000  clean    49 grams  증언 (Testimonium)\n 0.000  clean    43 grams  SECC Classification\n 0.000  THIN      1 grams  (preamble)\n0 section(s) over 0.05\n",
+     "stderr": ""
+    },
+    "wikistd": {
+     "exit": 0,
+     "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+     "stderr": ""
+    },
+    "sect": {
+     "exit": 0,
+     "stdout": "   31   3  | **Han-Energy yield** | 20–28 per successful work cycle, taken off the break series and never off the voice |\n   84   4  | { *The Total Breakdown* [**Attack**] } | \"The entire whisper gives way — every word, every letter, collapsing at once.\" | [The w\n   85   7  | { *Every Voice Falls Apart* [**Ultimate**] } | \"No one can finish a sentence — every word collapses before it arrives — and the \n  176   2  **Appearance:** a fang-curved blade of Grudge Han-iron, finished dark and warm on the rack, that pulses with the source sorrow the\n  197   6  **Appearance:** a plated harness of Grudge Han-iron, dark and warm to the touch, that settles over the wearer and breathes as they\n  221   1  **Effect:** +3 Resilience while working the source holding, entered at issue and struck the day the bearer leaves the Desolate pos\n  241   1  | **Before use** | Wielder, piece, and a dated baseline taken before issue against what this holding takes — old hurts waking in t\n  243   1  | **At limit** | The cost runs continuously rather than in bursts — the reflexes dull, as though resentment had armoured them — an\n  244   1  | **After use** | Return the piece, reconcile the baseline, and enter whether the toll has lifted: the dulled reflexes have to hav\n  326   2  | The Whisper's neighbour | How the pairing has run | What the break series showed | What the entry carries |\n  380   1  **Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the break series, t\n  446   2  - **Classification detail:** A Subject with Entity (IV) coherence and Critical (δ) potency, graded for what the gap does in a work\nGENERIC 0.005  (31 shared shingles)  SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md\n",
+     "stderr": ""
+    }
+   },
+   "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-A__SIDE_CODEX_The_Collapsed_Whisper.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-B__MAW-W_The_Warning_Fang.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-C__MAW-S_The_Warning_Plate.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-D__MAW-G_The_Warning_Thread.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+   ],
+   "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-A__SIDE_CODEX_The_Collapsed_Whisper.md": "98472637686f2d86556c3c55806fbd08807fe2e778c2c8013f36196c66626e34",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-B__MAW-W_The_Warning_Fang.md": "ce688670d69a6b0b037ae5c6f97d9f86957df8f3767b18fce5c21fdac8879998",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-C__MAW-S_The_Warning_Plate.md": "807ba140f805c112ed3822663624e7be7fdd4f8ac83f3dfcaaa090316e9a4ec1",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-249-D__MAW-G_The_Warning_Thread.md": "b54a0e3cd6fa01b2ae9e8545b9afcc459b76ebb9344a02ecdf2f7e244fb80cda",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+   },
+   "whole_before_reread": true,
+   "whole_final_reread": true,
+   "no_change": false,
+   "credits": {
+    "types": 1,
+    "weapon": 1,
+    "se": 0
+   },
+   "link": "[[SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-249_Collapsed_Whisper_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md \"SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md\")]",
+   "table_link": "[Collapsed Whisper](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-249_Collapsed_Whisper_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md \"SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md\")",
+   "reading": {
+    "before_lines": 456,
+    "before_bytes": 46765,
+    "final_lines": 456,
+    "final_bytes": 47425
+   },
+   "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 72,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": ""
+   }
+  },
+  {
+   "designation": "N-IIIγ-160",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-160_Broken_Promise_깨진_약속.md",
+   "words": 7809,
+   "sha256": "c2908ec355c2eefa23662349233449503fd09cb2b86c61720dfc46a8983ef764",
+   "unit": 4,
+   "name": "Broken Promise",
+   "status": "held",
+   "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_04_BROKEN_PROMISE.md",
+   "before_words": 7809,
+   "after_words": 7851,
+   "base": "93b434f265261229ed62051c8a40b645801bc1f5",
+   "final_sha256": "3db4abc7398c143f59e8ee5e72a1ec9081fb8d56cd114cfdebea3751529a1d8e",
+   "summary": "One source-supported careful repair: the Shard-Strike row no longer launches a flying fragment at a target — the file's injury record is shallow cuts sustained only by people who had broken something they had said — and now describes the documented harm, the binding taking hold when an undertaking is spoken in contact with a shard. Credits +0/+0/+0: the in-file Batch 112 cross-source review remains the coverage event for a dossier that has no primary-assigned equipment set at all.",
+   "commentary": "Broken Promise carries the heaviest moral machinery in this batch — a wing that keeps its holding quiet by withdrawing real commitments to real households once a quarter, minuted as correct in all three parts — and needed only one correction, in the same place Rift did: a combat row that invented a projectile. Nothing on Collector's Row throws anything; the shards cut flesh seldom and only ever the flesh of somebody who had broken a thing they said. The row now deals the harm the file documents. The credit question was settled before this pass began: Batch 112 already untangled the 160-suffix identities in the file itself, and there is no SE-160 set belonging to this entity to review — the one on the shelf belongs to The Debt Chain.",
+   "reasoning": "Identity work repeated from the in-file Batch 112 review and re-verified against the shelf: Registry_159_to_169/160_Debt_Chain is N-IIIβ-160 [WO] The Debt Chain, not this N-IIIγ-160 [GO]; no primary-assigned SE-160-B/C/D exists for Broken Promise. Sentence triage of the frozen primary found one unsupported claim: combat row 3's launching shard ('A fragment of the broken promise flies… A shard of shattered vow launches'), contradicted by the Observation Log ('Its shards cut crystal readily and flesh seldom; the injuries on record are shallow and all were sustained by people who had broken something they had said') and by the binding mechanics that govern every other section. R-18 split declared before the apply: 0 short / 1 careful. The replacement is built only from documented behaviour (arrangement turns toward speakers; activation on speaking a promise while touching a shard). Technical PASS on the frozen file (GENERIC 0.009) did not settle the claim — R-33. The Trivia numeral look-up line is left as found, as at Memorial Flame: it asserts nothing false.",
+   "history": "The primary carries an in-file M.A.W. Cross-Source Review — Batch 112: no Side set is registered to Broken Promise's own SE-160 assignment; SE-160-A/B/C/D belong to N-IIIβ-160 The Debt Chain (Binding Maul/Mantle/Chain); SE-1015-A Facsimile repeats N-IIIγ-160 as a source designation but links its own SE-1015 items and 'Facsimile — Witnessed Form' set, establishing no crosswalk and counting as no Weapon review; Master Entries 418–420 join Promise Fang/Plate/Shard to N-IIIγ-160 (γ, Grudge, 40/35 Echoes) while their PRIMAL/Plates/Relic-Drops classifications stay unreconciled with the primary's Han-iron; SE-851 Shard of a Broken Promise's identically named pieces are a separate identity. That review is the coverage event: Types +0, Weapon +0, SE +0. Counters stay 278/301, 276/287, 18/301.",
+   "holds": [
+    "Identity negatives held exactly as Batch 112 left them: SE-160 set = The Debt Chain N-IIIβ-160; SE-1015 Facsimile's repeated source designation = no crosswalk; SE-851 Shard of a Broken Promise's Promise Fang/Plate/Shard = duplicate names on a different identity — none used to rewrite the primary's local Fang, harness or Tail tile.",
+    "Master Entries 418–420 classifications (PRIMAL — Bio/Marrow; Armor (Plates & Heavy Armor); Accessory (Relic Drops & Seeds)) vs the primary's Han-iron descriptions — unreconciled; local Tail / 4% / +2 Stigma record stands.",
+    "Tales entry β potency vs this file's γ (Batch 112) — unresolved.",
+    "The quarterly-withdrawal practice and the ward officer's correct-in-all-three-parts objection stand as the file minutes them; the nine readings of the attempted name remain held with none preferred."
+   ],
+   "split": [
+    0,
+    1
+   ],
+   "repairs": [
+    {
+     "id": "R1-shard-strike-row",
+     "kind": "careful combat correction",
+     "careful": true,
+     "old": "| { *The Shard-Strike* [**Attack**] } | \"A fragment of the broken promise flies — sharp, jagged, carrying the full force of the betrayal.\" | [ A shard of shattered vow launches.] | *Inflicts Grudge pressure and one wound of broken trust.* **[14-22 Grudge DMG [Grudge]]** | When the Promise is disturbed. |",
+     "new": "| { *The Shard-Strike* [**Attack**] } | \"Nothing is thrown. The arrangement sharpens toward whoever has just undertaken something, and the fragments hold a signature one stroke longer than they should.\" | [The shards cut crystal readily and flesh seldom; every injury on record is shallow, and every one was sustained by somebody who had broken a thing they had said.] | *Inflicts Grudge pressure; the wound of broken trust is the binding taking hold, not a projectile.* **[14-22 Grudge DMG [Grudge]]** | When an undertaking is spoken in contact with a shard. |"
+    }
+   ],
+   "outputs": {
+    "verify": {
+     "exit": 0,
+     "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+     "stderr": ""
+    },
+    "tpl": {
+     "exit": 0,
+     "stdout": "RESIDUE 0  SE-N-IIIγ-160_Broken_Promise_깨진_약속.md\n",
+     "stderr": ""
+    },
+    "sectfile": {
+     "exit": 0,
+     "stdout": " 0.018  clean   599 grams  Combat Record\n 0.018  clean   168 grams  최종 관찰 (Final Observation)\n 0.016  clean   188 grams  Trivia\n 0.015  clean   137 grams  Operational Parameters\n 0.014  clean   773 grams  M.A.W. Equipment\n 0.008  clean   237 grams  관찰 기록 (Observation Log)\n 0.008  clean   252 grams  기록 (Registrum)\n 0.008  clean   524 grams  감각 묘사 (Flavor Text)\n 0.007  clean  1293 grams  Warden Record\n 0.003  clean   372 grams  Activation Behavior\n 0.000  clean   329 grams  이야기 (Narratio)\n 0.000  clean   184 grams  Appearance\n 0.000  clean   158 grams  이야기 보고 (Story Log)\n 0.000  clean   129 grams  Origin\n 0.000  clean   107 grams  Behavior\n 0.000  clean    51 grams  증언 (Testimonium)\n 0.000  clean    31 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+     "stderr": ""
+    },
+    "wikistd": {
+     "exit": 0,
+     "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+     "stderr": ""
+    },
+    "sect": {
+     "exit": 0,
+     "stdout": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   85   4  | { *The Full Fracture* [**Attack**] } | \"Every promise that was ever broken — every shattered vow — converges and detonates.\" | [\n   86   7  | { *Every Promise Breaks* [**Ultimate**] } | \"Now every vow in the field shatters — every commitment, every oath — and no one can\n  155   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  214   7  **Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that takes an edge wherever the bearer's own undert\n  222   2  **Ability:** Deals Grudge damage against the Body — physical form and structural integrity — and carries the source's signature: t\n  230   3  **Appearance:** a plate harness of Grudge Han-iron, dark and faintly warm, that settles on the wearer with the weight of a documen\n  248   2  **Appearance:** a shard-tile of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.\n  276   1  | **At limit** | Duration, activations, attribute change, rejection signs, the fracture added, residue weight, and whether the sur\n  302   2  **Observation method:** Photograph, count, weigh, and write down what people said. The form here is the sorrow and not a forecast:\n  326   3  | Viderehan and Ferrehan only, certified Tool protocol, with the session's management condition taken from the withdrawal register\n  349   2  **Interaction method:** Baseline each party alone across several cycles — arrangement, fracture rate, residue weight and gauge — b\n  362   2  **Interaction procedure:** Solo baselines first, across several cycles, with arrangement, fracture rate, residue weight and gauge \n  406   2  **Operational interpretation:** This file reads whole or not at all: the classification, the 2 valid Work Types, the binding condi\n  461   1  The objection is minuted at every annual review. It holds that the facility is selecting its own promises to people for event, on \n  463   8  The minute records the objection as **correct in all three parts**. It records that a scheme to pay compensation out of the Row's \n  467   3  - The register keeps its own figures in numerals for look-up: gauge 693/693, pressure 14–32 per hit, resistance 35 / 25 per cent, \nGENERIC 0.009  (52 shared shingles)  SE-N-IIIγ-160_Broken_Promise_깨진_약속.md\n",
+     "stderr": ""
+    }
+   },
+   "sources": [
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+   ],
+   "source_hashes": {
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+   },
+   "whole_before_reread": true,
+   "whole_final_reread": true,
+   "no_change": false,
+   "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+   },
+   "link": "[[SE-N-IIIγ-160_Broken_Promise_깨진_약속](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-160_Broken_Promise_%EA%B9%A8%EC%A7%84_%EC%95%BD%EC%86%8D.md \"SE-N-IIIγ-160_Broken_Promise_깨진_약속.md\")]",
+   "table_link": "[Broken Promise](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-160_Broken_Promise_%EA%B9%A8%EC%A7%84_%EC%95%BD%EC%86%8D.md \"SE-N-IIIγ-160_Broken_Promise_깨진_약속.md\")",
+   "reading": {
+    "before_lines": 486,
+    "before_bytes": 48604,
+    "final_lines": 486,
+    "final_bytes": 48858
+   },
+   "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 71,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 6,
+    "digit_sequence_change": ""
+   }
+  },
+  {
+   "designation": "C-IIβ-054",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-054_The_Empty_Mask_빈_가면.md",
+   "words": 7815,
+   "sha256": "5d833de2c828b74d7fe4ec7d66c12169ba13fa1414740ed1dab3da40232bb66e",
+   "unit": 5,
+   "name": "The Empty Mask",
+   "status": "held",
+   "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_05_THE_EMPTY_MASK.md",
+   "before_words": 7815,
+   "after_words": 7972,
+   "base": "766f013c3adb09f8fd837d4edad134fcf77fd60c",
+   "final_sha256": "8ba75055b871a46d422c283e447211a908c9bfed0ab7b8e1e003222d98d711f0",
+   "summary": "Four source-supported repairs (2 short / 2 careful): the Consequences lose their three template lines — the four-harm 'full documented manifestation' catalogue, the 'profound price' equipment formula and the 'catastrophic outlet' default — and gain this holding's documented record instead (identity confusion inside four unsupervised minutes; heaviness no scale registers, low fatigue, an identity slowly not returned; a handler who leaves as a number while the card series rises on its own schedule). The generic continued-exposure Flavor becomes the timed naming pause. First independent full-set source review of SE-054: fresh +1 Types / +1 Weapon; whole design remains HELD, SE +0.",
+   "commentary": "The Empty Mask is a file about an instrument nobody is allowed to read — a glow card tracking a count the Company forbids itself to publish — and its Consequences were the one place it stopped measuring and started reciting the stock catastrophe list. The repairs put the file's own figures back: four minutes to identity confusion, a service number where a name was asked, a card at 5.2 and rising whether the watch was worked well or not. The set review found the usual agreements underneath divergent descriptions and one genuine protocol fork at removal, held as found. No earlier disposition exists anywhere in the set, so the fresh credit is earned.",
+   "reasoning": "Set SE-054 identity resolved from Side A (SECC Designation C-IIβ-054 [WO], 'Void Set') and item codes MAW-W/S/G-054-01; all four set files read whole, including a check for any Side-side disposition paragraph (none — subject card, trigger protocol, set page, observation page only). Sentence triage: combat rows, phases, activation, log-and-method and interaction records are holding-specific; the defects were Consequences bullets 2–4 (the shared four-harm catalogue, the 'intimate memories, physical sensation, and years of life' formula, and the 'defaults to…catastrophic outlet' line, each contradicting the file's own documented exposure, per-piece tolls and no-breach-counter record) and the generic continued-exposure Flavor sentence. R-18 split declared before the apply: 2 short / 2 careful. Replacements use only file-documented facts (four-minute figure, service-number sign, 3.1/4.0/5.2 card series, the three named tolls). Digit sequences: the six digits of the already-documented card series (3.1, 4.0, 5.2) were carried into the repaired bullet; no new figure was created.",
+   "history": "Fresh-credit proof by negatives: no in-file cross-source/full-set review block; Side A carries no profile-hold or disposition text; no prior evidence file mentions C-IIβ-054; ledger equipment_reviews has no 054 entry; git path history shows only the B179 import (87f1a01). First independent exact-pair/full-set review: Side A (99 lines) and items B/C/D read whole including Appearance sections and histories (market rescue, mirror refusal, Collector raid); Registry rows 98–101 confirm identity (Weapon Variable/-/-; Stigma generic Accessory/5%); primary machine fields agree with items (Weight 5–9, 2/2, Single, 4/25; resistances 1.0/1.0/1.5/0.5; Head/5%/+1). Fresh credit: Types +1, Weapon +1, SE +0 (whole design HELD). Counters become 279/301, 277/287, 18/301.",
+   "holds": [
+    "Removal-protocol fork: Side A 'Removal requires the wearer to speak that name themselves; if unable, witnesses speak it in sequence' vs the primary's eleven-year record that self-naming has never once been sufficient and a second person must say it — primary governs itself; both stand.",
+    "Weapon appearance/use fork: primary matte maul 'never signed out' of the armoury and 'never swung in this holding' vs item concave-dish face, grey rim ring and a market-rescue swing — unmerged.",
+    "Suit appearance fork: primary clerk's-coat mantle that dims in bright rooms vs item black straight-cut mantle with a pale front strip that stores the effect — held.",
+    "Stigma appearance fork: primary Han-iron shard-tile vs item pale grey glass mask charm on a black cord (Head / 5% / +1 agree) vs Registry generic Accessory / 5% — Registry value never imported.",
+    "Item histories describe field deployments (market rescue, Collector raid) against the primary's armoury-bound record — separate accounts; the card↔live-withdrawal-count correspondence and the Shadow Roll's thirty-one families / two women remain the file's own unreconciled findings."
+   ],
+   "split": [
+    2,
+    2
+   ],
+   "repairs": [
+    {
+     "id": "R1-consequences-extended-contact",
+     "kind": "careful consequence correction",
+     "careful": true,
+     "old": "- Extended contact risks The Empty Mask’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.",
+     "new": "- Extended contact does one documented thing and does it quickly: unsupervised handling produces identity confusion inside four minutes, measured, and the two-person rule is built on that figure. The first sign is a service number offered where a name was asked for; past two minutes of contact the wearer may not recognise themselves at all, and the entry is then made by the second worker about a handler who cannot be asked."
+    },
+    {
+     "id": "R2-consequences-equipment-price",
+     "kind": "short cost correction",
+     "careful": false,
+     "old": "- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.",
+     "new": "- Every piece in this set carries the holding's discrepancy with it and the toll is entered piece by piece: a heaviness the tray scale never registers for the maul, a constant low fatigue the wearer blames on the shift for the mantle, and an identity slowly not returned for the charm — paid whether the use was correct or not."
+    },
+    {
+     "id": "R3-consequences-unresolved",
+     "kind": "careful consequence correction",
+     "careful": true,
+     "old": "- Without timely resolution, The Empty Mask defaults to its documented activation or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.",
+     "new": "- Unresolved, nothing leaves the tray and the file says so: there is no breach counter on this holding and the Mask has never moved except by a hand whose name is entered. What an unresolved handling produces is a handler who walks out as a number and a card series that keeps rising on its own schedule — 3.1, 4.0, 5.2 — whether or not anybody worked the watch well."
+    },
+    {
+     "id": "R4-flavor-continued-exposure",
+     "kind": "short flavor grounding",
+     "careful": false,
+     "old": "**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Weight presses hardest, where it recedes, where the Object-Weight lets you breathe.",
+     "new": "**With continued exposure:** The editing starts in the handler's own speech: names come slower, then not at all, and a service number arrives promptly in their place. The pause is the finding and it is timed — which is why the names are exchanged at the quarter hour, both ways, aloud, whether or not anybody thinks it necessary."
+    }
+   ],
+   "outputs": {
+    "verify": {
+     "exit": 0,
+     "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+     "stderr": ""
+    },
+    "tpl": {
+     "exit": 0,
+     "stdout": "RESIDUE 0  SE-C-IIβ-054_The_Empty_Mask_빈_가면.md\n",
+     "stderr": ""
+    },
+    "sectfile": {
+     "exit": 0,
+     "stdout": " 0.027  clean   183 grams  Trivia\n 0.016  clean   124 grams  Operational Parameters\n 0.008  clean   659 grams  Combat Record\n 0.002  clean   455 grams  M.A.W. Equipment\n 0.002  clean   587 grams  Activation Behavior\n 0.000  clean   737 grams  감각 묘사 (Flavor Text)\n 0.000  clean   717 grams  Watch Record\n 0.000  clean   426 grams  이야기 보고 (Story Log)\n 0.000  clean   368 grams  이야기 (Narratio)\n 0.000  clean   356 grams  기록 (Registrum)\n 0.000  clean   238 grams  관찰 기록 (Observation Log)\n 0.000  clean   179 grams  Appearance\n 0.000  clean   155 grams  Behavior\n 0.000  clean   130 grams  증언 (Testimonium)\n 0.000  clean   127 grams  최종 관찰 (Final Observation)\n 0.000  clean   115 grams  Origin\n 0.000  clean    30 grams  SECC Classification\n0 section(s) over 0.05\n",
+     "stderr": ""
+    },
+    "wikistd": {
+     "exit": 0,
+     "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+     "stderr": ""
+    },
+    "sect": {
+     "exit": 0,
+     "stdout": "   32   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   56   1  | **Resistance** | 25% against Weight pressure; 15% against other pressure types |\n   86   4  | { *The Sea of Masks* [**Ultimate**] } | \"Every face in the room is replaced by the same blank interior, and every one of them is\n  163   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  284   1  | **After use** | Take the piece back, read the tray scale against the sealed baseline, and record whether the heaviness reversed.\n  472   5  - **Field detail:** Its defining element is Weight and its registered location is SECTOR-C-01, with the Masked Troupe; it has neve\nGENERIC 0.003  (14 shared shingles)  SE-C-IIβ-054_The_Empty_Mask_빈_가면.md\n",
+     "stderr": ""
+    }
+   },
+   "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-A__SIDE_CODEX_The_Empty_Mask.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-B__MAW-W_The_Void_Maul.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-C__MAW-S_The_Void_Mantle.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-D__MAW-G_The_Void_Mask.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+   ],
+   "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-A__SIDE_CODEX_The_Empty_Mask.md": "e77bc2793ee023909431c6da79a450fd973711406dc4e5db3888141eea922a44",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-B__MAW-W_The_Void_Maul.md": "2edee0de6bca9cfd305531981da6adaa331be96c4e114aa4ef9a90fd8186f3d3",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-C__MAW-S_The_Void_Mantle.md": "c8c9ebea13d8ab603b037e54b7b62de1649c51c8dc8953182276ff96c96bbcd2",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-D__MAW-G_The_Void_Mask.md": "6baf11ee8736dbafab8ca2c7b86504ba560dff21674c3c75206b82da2d761898",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+   },
+   "whole_before_reread": true,
+   "whole_final_reread": true,
+   "no_change": false,
+   "credits": {
+    "types": 1,
+    "weapon": 1,
+    "se": 0
+   },
+   "link": "[[SE-C-IIβ-054_The_Empty_Mask_빈_가면](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-054_The_Empty_Mask_%EB%B9%88_%EA%B0%80%EB%A9%B4.md \"SE-C-IIβ-054_The_Empty_Mask_빈_가면.md\")]",
+   "table_link": "[The Empty Mask](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-054_The_Empty_Mask_%EB%B9%88_%EA%B0%80%EB%A9%B4.md \"SE-C-IIβ-054_The_Empty_Mask_빈_가면.md\")",
+   "reading": {
+    "before_lines": 481,
+    "before_bytes": 46718,
+    "final_lines": 481,
+    "final_bytes": 47409
+   },
+   "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 70,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": "Digit sequences added are the file's own card-grade series 3.1, 4.0, 5.2, already stated in the frozen primary's Operational Work Notes, Story Entry 2 and Personnel Note, carried into the repaired Consequences bullet. No new figure was created and no existing sequence altered."
+   }
+  }
+ ],
+ "opened_at": "2026-10-27",
+ "completed": true
 }
