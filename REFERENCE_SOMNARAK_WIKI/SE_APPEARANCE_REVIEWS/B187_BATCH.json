@@ -1,0 +1,49 @@
+{
+ "schema_version": 1,
+ "batch": 187,
+ "status": "OPEN",
+ "completed_units": 0,
+ "required_units": 5,
+ "units": [
+  {
+   "designation": "N-IVδ-157",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-157_Torpor_잠든_한숨.md",
+   "words": 7537,
+   "sha256": "a05ddcb86904f5498fcd29e2a3edf24c7512927ed408d333b9cf298059f00640",
+   "unit": 1,
+   "name": "Torpor"
+  },
+  {
+   "designation": "C-IVγ-255",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-255_Hollow_Architect_빈_건축가.md",
+   "words": 7538,
+   "sha256": "474344b74ee529c28def44dc0ea86ce007809a67697b42916d009d65fc784cc9",
+   "unit": 2,
+   "name": "Hollow Architect"
+  },
+  {
+   "designation": "O-IIβ-757",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-757_Broken_Door_부서진_문.md",
+   "words": 7538,
+   "sha256": "b1daf1e2954ca037936a204575335fc8e0c6d42624d47b3aaa814c40e3091d9c",
+   "unit": 3,
+   "name": "Broken Door"
+  },
+  {
+   "designation": "C-Vγ-260",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vγ-260_Sorrow_Tide_한의_조수.md",
+   "words": 7545,
+   "sha256": "9d7f0319839a755fcb81dc3f5549d34469a567254c6bac4d9417c00841cd5d7d",
+   "unit": 4,
+   "name": "Sorrow Tide"
+  },
+  {
+   "designation": "C-Iα-779",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-779_Miscast_찢어진_유물.md",
+   "words": 7560,
+   "sha256": "a089f400a8d8d6433e0279a05ac9166fb381be84f0cbae09f25fbe3ee27897d2",
+   "unit": 5,
+   "name": "Miscast"
+  }
+ ]
+}

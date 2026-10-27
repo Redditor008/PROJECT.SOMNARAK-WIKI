@@ -17,78 +17,17 @@
   }
  },
  "active_batch": {
-  "number": 186,
-  "status": "CLOSED",
+  "number": 187,
+  "status": "OPEN",
   "required": 5,
   "queue": [
-   "C-IIIγ-140",
-   "C-Iα-329",
-   "N-IIIβ-077",
-   "C-IVδ-222",
-   "C-IVγ-091"
+   "N-IVδ-157",
+   "C-IVγ-255",
+   "O-IIβ-757",
+   "C-Vγ-260",
+   "C-Iα-779"
   ],
-  "reviewed": {
-   "C-IIIγ-140": {
-    "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_01_WEEPING_WILLOW.md",
-    "no_change": false,
-    "whole_final_reread": true,
-    "checks": {
-     "verify": "PASS",
-     "tpl": "PASS",
-     "sectfile": "PASS",
-     "wikistd": "PASS",
-     "sect": "PASS"
-    }
-   },
-   "C-Iα-329": {
-    "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_02_FOLLY.md",
-    "no_change": false,
-    "whole_final_reread": true,
-    "checks": {
-     "verify": "PASS",
-     "tpl": "PASS",
-     "sectfile": "PASS",
-     "wikistd": "PASS",
-     "sect": "PASS"
-    }
-   },
-   "N-IIIβ-077": {
-    "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_03_THE_MEMORY_THIEF.md",
-    "no_change": false,
-    "whole_final_reread": true,
-    "checks": {
-     "verify": "PASS",
-     "tpl": "PASS",
-     "sectfile": "PASS",
-     "wikistd": "PASS",
-     "sect": "PASS"
-    }
-   },
-   "C-IVδ-222": {
-    "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_04_PATINA.md",
-    "no_change": false,
-    "whole_final_reread": true,
-    "checks": {
-     "verify": "PASS",
-     "tpl": "PASS",
-     "sectfile": "PASS",
-     "wikistd": "PASS",
-     "sect": "PASS"
-    }
-   },
-   "C-IVγ-091": {
-    "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_05_THE_LOST_PRINCE.md",
-    "no_change": false,
-    "whole_final_reread": true,
-    "checks": {
-     "verify": "PASS",
-     "tpl": "PASS",
-     "sectfile": "PASS",
-     "wikistd": "PASS",
-     "sect": "PASS"
-    }
-   }
-  }
+  "reviewed": {}
  },
  "dossiers": [
   {

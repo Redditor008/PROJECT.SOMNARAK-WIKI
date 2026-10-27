@@ -1,5 +1,9 @@
 # Work In Progress
 
+## Batch 187 — OPEN, 0 / 5 (2026-10-27)
+
+Fresh C-locale ranking of the 90 pending froze: Torpor, Hollow Architect, Broken Door, Sorrow Tide, Miscast. [Opening record](SE_APPEARANCE_REVIEWS/B187_OPEN.json). Reviews 2–6 of this prompt's ten.
+
 ## Batch 186 — CLOSED, 5 / 5 (2026-10-27)
 
 Fresh validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; all 90 remaining pending fingerprints unchanged; no source changes. 21 repairs (15 short / 6 careful), 37,473 → 38,364 words; No change 0; Types 271/301 · Weapon 269/287 · SE Fix 18/301. [Closure record](SE_APPEARANCE_REVIEWS/B186_CLOSE.md). Batch 187 follows in this prompt under the ten-review ceiling.

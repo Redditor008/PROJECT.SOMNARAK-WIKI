@@ -8,6 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 187 — OPEN, 0 / 5 (2026-10-27)
+
+Fresh C-locale ranking of the 90 pending froze: Torpor `N-IVδ-157`, Hollow Architect `C-IVγ-255`, Broken Door `O-IIβ-757`, Sorrow Tide `C-Vγ-260`, Miscast `C-Iα-779`. [Opening record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_OPEN.json).
+
 ## Batch 186 — CLOSED, 5 / 5 (2026-10-27)
 
 Five HELD; No change 0; 21 repairs; validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; [closure record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_CLOSE.md). Types 271/301 · Weapon 269/287 · SE Fix 18/301; held 191 / pending 90. Batch 187 opens next.
