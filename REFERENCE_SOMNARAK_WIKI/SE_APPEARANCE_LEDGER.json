@@ -17,78 +17,17 @@
   }
  },
  "active_batch": {
-  "number": 188,
-  "status": "CLOSED",
+  "number": 189,
+  "status": "OPEN",
   "required": 5,
   "queue": [
-   "N-IIIγ-505",
-   "C-IIIγ-105",
-   "C-IVγ-130",
-   "N-IIβ-033",
-   "O-IIIγ-915"
+   "N-IIβ-170",
+   "C-IVδ-357",
+   "C-IIβ-135",
+   "N-IIIγ-184",
+   "N-IIβ-627"
   ],
-  "reviewed": {
-   "N-IIIγ-505": {
-    "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_01_DREAMING_RUIN.md",
-    "no_change": false,
-    "whole_final_reread": true,
-    "checks": {
-     "verify": "PASS",
-     "tpl": "PASS",
-     "sectfile": "PASS",
-     "wikistd": "PASS",
-     "sect": "PASS"
-    }
-   },
-   "C-IIIγ-105": {
-    "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_02_THE_LONELY_GIANT.md",
-    "no_change": false,
-    "whole_final_reread": true,
-    "checks": {
-     "verify": "PASS",
-     "tpl": "PASS",
-     "sectfile": "PASS",
-     "wikistd": "PASS",
-     "sect": "PASS"
-    }
-   },
-   "C-IVγ-130": {
-    "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_03_DETERIORATA.md",
-    "no_change": false,
-    "whole_final_reread": true,
-    "checks": {
-     "verify": "PASS",
-     "tpl": "PASS",
-     "sectfile": "PASS",
-     "wikistd": "PASS",
-     "sect": "PASS"
-    }
-   },
-   "N-IIβ-033": {
-    "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_04_FORGOTTEN_SOLDIER.md",
-    "no_change": false,
-    "whole_final_reread": true,
-    "checks": {
-     "verify": "PASS",
-     "tpl": "PASS",
-     "sectfile": "PASS",
-     "wikistd": "PASS",
-     "sect": "PASS"
-    }
-   },
-   "O-IIIγ-915": {
-    "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_05_CORROSION_DREAM.md",
-    "no_change": false,
-    "whole_final_reread": true,
-    "checks": {
-     "verify": "PASS",
-     "tpl": "PASS",
-     "sectfile": "PASS",
-     "wikistd": "PASS",
-     "sect": "PASS"
-    }
-   }
-  }
+  "reviewed": {}
  },
  "dossiers": [
   {

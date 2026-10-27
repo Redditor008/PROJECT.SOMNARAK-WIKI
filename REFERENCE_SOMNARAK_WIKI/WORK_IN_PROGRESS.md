@@ -1,5 +1,9 @@
 # Work In Progress
 
+## Batch 189 — OPEN, 0 / 5 (2026-10-27)
+
+Fresh C-locale ranking of the 80 pending dossiers froze the queue: `N-IIβ-170` (7,619), `C-IVδ-357` (7,624), `C-IIβ-135` (7,635), `N-IIIγ-184` (7,663), `N-IIβ-627` (7,681). Units 1–5 are reviews 2–6 of this ten-review prompt; Batch 190 Units 1–4 follow (batch stays open at 4/5). No opener changed any primary: counters Types 274/301, Weapon 272/287, SE 18/301.
+
 ## Batch 188 — CLOSED, 5 / 5 (2026-10-27)
 
 All five units HELD; No change 0; 19 repairs (14 short / 5 careful; 37,926→38,775 words); one fresh equipment credit (Deteriorata +1/+1). Closure battery PASS: fresh validators 25/25; tests 54/54; audits PASS; reconstruction 5/5; all 80 remaining pending fingerprints unchanged. Counters did not move beyond Unit 3: Types 274/301, Weapon 272/287, SE 18/301. [Closure](SE_APPEARANCE_REVIEWS/B188_CLOSE.md). Batch 189 opens next in this same prompt on a fresh ranking of the 80 pending dossiers.

@@ -8,6 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 189 — OPEN, 0 / 5 (2026-10-27)
+
+Fresh ranking of the 80 pending dossiers froze: `N-IIβ-170`, `C-IVδ-357`, `C-IIβ-135`, `N-IIIγ-184`, `N-IIβ-627`. Reviews 2–6 of this ten-review prompt; Batch 190 Units 1–4 follow. No primary changed at open; counters Types 274/301, Weapon 272/287, SE 18/301.
+
 ## Batch 188 — CLOSED, 5 / 5 (2026-10-27)
 
 All five units HELD; No change 0; 19 repairs (14 short / 5 careful; 37926→38775 words); Deteriorata fresh +1/+1; closure battery PASS. Counters: Types 274/301, Weapon 272/287, SE 18/301. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_CLOSE.md). Batch 189 opens next in this same prompt.
