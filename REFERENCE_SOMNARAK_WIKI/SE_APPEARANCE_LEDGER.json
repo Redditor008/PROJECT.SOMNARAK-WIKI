@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVγ-130": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_03_DETERIORATA.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -1896,8 +1908,29 @@
     {
       "designation": "C-IVγ-130",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-130_Deteriorata_무너지는_성자.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Four supported repairs (3 short / 1 careful) stop the saint from falling on people. All five rows drop landing fragments, a crushing hand, a total collapse and spreading decay: they now run on a suspended field that never lands, quarterly cubic metres against unwritten work, shoring instead of assault, repair as an instruction to continue, and eleven hundred people's unrecorded duties. Three stock Flavor blocks become the ordered relief clock, the moving-west instruction, and a crossed-out nil return. HELD; fresh +1 Types / +1 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_03_DETERIORATA.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/130_Deteriorata/SE-130-A__SIDE_CODEX_Deteriorata.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/130_Deteriorata/SE-130-B__MAW-W_The_Saints_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/130_Deteriorata/SE-130-C__MAW-S_The_Saints_Fragment.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/130_Deteriorata/SE-130-D__MAW-G_The_Saints_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVγ-175",
@@ -8407,6 +8440,14 @@
       "batch": 187,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_04_SORROW_TIDE.md",
       "history_proof": "Exact set is SE-1027 (not suffix-260 Bridge to Nowhere, counted at B115). SEARCH across CHANGELOG, both archived volumes, WORK_IN_PROGRESS and evidence directory found R-29 parity work only (Workstream 9); no earlier independent full-set or exact-pair review and no unit evidence file.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "C-IVγ-130",
+      "batch": 188,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_03_DETERIORATA.md",
+      "history_proof": "Exact SE-130 / Deteriorata / Saint's Maul search across CHANGELOG, both archived volumes, WORK_IN_PROGRESS and the evidence directory found prose/couple passes only (B31u4, B66u8); no earlier independent full-set or exact-pair review, no unit evidence file, no in-file full-set review block.",
       "all_types_credit": true,
       "weapon_credit": true
     }

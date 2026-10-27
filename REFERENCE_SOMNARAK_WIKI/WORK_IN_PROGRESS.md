@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 188 — OPEN, 2 / 5 (2026-10-27)
+## Batch 188 — OPEN, 3 / 5 (2026-10-27)
+
+**Unit 3 — Deteriorata `C-IVγ-130`: HELD.** Four supported repairs (3 short / 1 careful; 7,584→7,783 words): all five combat rows stop fragments landing, hands crushing and the figure collapsing, becoming the never-landing field, quarterly cubic metres against unwritten work, shoring, and repair-as-instruction; three Flavor blocks become the relief clock, the moving-west instruction and a crossed-out nil return. No earlier independent set review: **fresh +1 Types / +1 Weapon** / +0 SE. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B188_03_DETERIORATA.md).
 
 **Unit 2 — The Lonely Giant `C-IIIγ-105`: HELD.** Five supported repairs (4 short / 1 careful; 7,575→7,753 words): rows 1–3 drop the reaching hand, the rejected grasp and the tremor-wound for tremor-first contact, a figure that folds down and waits, and a 9.6 km detour; the Ultimate tracks uncollected entitlements; three Flavor blocks become go-round identification, doorway noticing and a clearance instruction. Batch 128 already counted set 105: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B188_02_THE_LONELY_GIANT.md).
 

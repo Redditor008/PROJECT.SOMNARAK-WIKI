@@ -1,0 +1,133 @@
+{
+  "designation": "C-IVγ-130",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-130_Deteriorata_무너지는_성자.md",
+  "words": 7584,
+  "sha256": "6b627dbad94b69b3665fece8bcbf3f4ae4c77da256055e64da94d722d2193891",
+  "unit": 3,
+  "name": "Deteriorata",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_03_DETERIORATA.md",
+  "before_words": 7584,
+  "after_words": 7783,
+  "base": "60d517f25d02d91142964571bf142bd38a356ed2",
+  "final_sha256": "eea8572cc0dc6a624d0f6bf7f7ced1ee1a03cd96d3713fcb4df3c8a8335cfac3",
+  "summary": "Four supported repairs (3 short / 1 careful) stop the saint from falling on people. All five rows drop landing fragments, a crushing hand, a total collapse and spreading decay: they now run on a suspended field that never lands, quarterly cubic metres against unwritten work, shoring instead of assault, repair as an instruction to continue, and eleven hundred people's unrecorded duties. Three stock Flavor blocks become the ordered relief clock, the moving-west instruction, and a crossed-out nil return. HELD; fresh +1 Types / +1 Weapon / +0 SE.",
+  "commentary": "We counted kindness for six years and destroyed it; stopping the counting did not stop the carrying. The chamber keeps both ledgers side by side — the appointment book and the health return, both accurate, only one describing what happened — and declines to net them.",
+  "reasoning": "R-33 chain: Subject / Entity-IV / Major-γ / City Sorrow → work everybody relied on and nobody wrote down, until a healer's body and identity were replaced by the function → a kneeling stone figure shedding into a suspended field that never lands, surveyed at pegs weekly → work is Flerehan primary, Ferrehan capped and witnessed because it transfers load, Viderehan taking one burden and whose it was; Pugnahan prohibited; repair prohibited because every repair is an instruction to continue → failure is saint-drift and a quarterly field growth tracking the facility's unrecorded work. Rows may not land fragments, crush, collapse the figure, or spread decay; strata stay HELD.",
+  "history": "Fresh credit is proven by negative search: across CHANGELOG, both archived volumes, WORK_IN_PROGRESS and the evidence directory, this dossier shows prose/couple work only (Batch 31 unit 4; Batch 66 unit 8) — no independent full-set or exact-pair review, no unit evidence file, and no in-file full-set review block. The exact set SE-130-A/B/C/D (Registry rows 378–381) is identity-resolved here for the first time in the independent pass: fresh +1 Types / +1 Weapon; HELD earns +0 SE.",
+  "holds": [
+    "The Maul's combat profile is armoury transcription by the file's own admission — never swung at the entity, doctrine explicit that there is no assault — and the Registry disposes no numbers (Variable / - / -). Figures stand as transcription, not observation.",
+    "Stigma slot fork: primary Head / 4% / +2 to survey and shoring work versus the Registry's generic Accessory / 5%. The effect is named and narrow; the slot disagreement is retained.",
+    "The field-growth correlation with unrecorded work is the chamber's own cautionary finding — tested against Tides (eleven, no effect, contrary to settled wing belief), shed rate, headcount and sessions. The file claims no containment from it, and neither does this review."
+  ],
+  "split": [
+    3,
+    1
+  ],
+  "repairs": [
+    {
+      "id": "combat_all_rows",
+      "kind": "careful",
+      "careful": true,
+      "old": "| { *The Loose Finger* [**Debuff**] } | \"A piece falls from the saint's hand — stone, old, carved — and where it lands, the ground sags.\" | [The Saint's decay spreads outward; the target feels the structural failure.] | *Target suffers -10 Resolve; things are falling apart around them.* **[10 Weight DMG [Weight]]** | When the target stands near the Saint. |\n| { *The Eroding Halo* [**Debuff**] } | \"The halo above the saint's head is crumbling — and each falling fragment is heavier than faith should be.\" | [The Saint's deterioration accelerates; the fragments press down.] | *Target loses 10 Resolve; the weight of failing faith is immense.* **[10 Weight DMG [Weight]]** | When the target lingers. |\n| { *The Falling Hand* [**Attack**] } | \"The saint's stone hand breaks free — and drops, massive, final.\" | [A colossal stone limb crashes down.] | *Inflicts Weight pressure and one crushing wound of collapsed devotion.* **[14-22 Weight DMG [Weight]]** | When the Saint is struck. |\n| { *The Full Collapse* [**Attack**] } | \"The entire saint gives way — a cascade of stone, faith, and centuries of weight.\" | [The whole figure comes down at once and lets go of every century it was holding up.] | *A heavy Black avalanche; the target's gauge goes up by 15 per cent in one movement.* **[24-36 Weight DMG [Weight]]** | When the Saint is undermined. |\n| { *Every Saint Falls* [**Ultimate**] } | \"The crumbling spreads — every statue, every monument, every sacred thing — all of it coming apart.\" | [The decay stops being local and runs outward through anything standing on a plinth.] | *All in range take Weight pressure for three turns while the decay runs.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *The Loose Finger* [**Debuff**] } | \"Nothing lands. Pieces come away, fall, and stop at an elevation the survey has measured and the engineers cannot account for.\" | [The field is the marker: pegs, the lowest suspended fragment, the load reading — never the face, which four reports in one week read four ways.] | *-10 Resolve in the knees before the instruments read it; if anything it has shed is on the floor, you are not in this chamber.* **[10 Weight DMG [Weight]]** | When the surveyed route is walked. |\n| { *The Eroding Halo* [**Debuff**] } | \"Escalation here is the same process faster, never a new behaviour — and nothing done in the chamber has ever slowed it.\" | [Nineteen, twenty-four, thirty-one cubic metres a year. Growth runs with work done by people whose posts do not include it, and fails against shed rate, Tides, headcount and sessions alike.] | *-10 Resolve as saint-drift: an increased willingness to absorb load silently and decline relief, screened for by name and stood down unappealably.* **[10 Weight DMG [Weight]]** | When a worker stays past relief nobody ordered. |\n| { *The Falling Hand* [**Attack**] } | \"No hand falls, and there is no assault. The Maul is the shoring commander's engineering tool and has never been swung at the entity.\" | [What gives way is the building: floors buckle, walls bow inward, and the engagement is won by crews who shore faster than the mass bows.] | *Weight pressure lands on the architecture; Pugnahan is prohibited because it accelerates the shedding.* **[14-22 Weight DMG [Weight]]** | When the figure walks and the shoring has not been put forward of it. |\n| { *The Full Collapse* [**Attack**] } | \"It has reached no endpoint in the life of the holding and shows no sign of one. The collapse is not an event; it is the standing condition.\" | [Every repair is an instruction to continue. The gauge falls when a worker in the zone says aloud a thing they have been carrying that is not in their duties.] | *Weight pressure transferred by name: Ferrehan moves a measured portion of its load to a capped, witnessed worker — and a crew reporting a good cycle is asked who carried what.* **[24-36 Weight DMG [Weight]]** | When somebody braces, props or reinforces the figure out of kindness. |\n| { *Every Saint Falls* [**Ultimate**] } | \"Thirty-one cubic metres, and eleven hundred people in this facility doing other people's duties with nothing anywhere to say so.\" | [No decay spreads to other monuments. What accumulates is ours: work everybody relied on and nobody wrote down, suspended above the floor and surveyed weekly.] | *Weight pressure across every post silently carrying another post's duties, until somebody writes the one line and a supervisor countersigns it.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Carried Load Returns come back nil and nobody believes them. |"
+    },
+    {
+      "id": "flavor_continued_exposure",
+      "kind": "short",
+      "careful": false,
+      "old": "**With continued exposure:** Time stretches in the containment zone. The Subject-Body becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.",
+      "new": "**With continued exposure:** Nobody asks to be relieved on this holding; they are sent. The viewing cap runs on the supervisor's clock, below the point where any strain is measurable, because the drift begins exactly where measurement stops."
+    },
+    {
+      "id": "flavor_activates",
+      "kind": "short",
+      "careful": false,
+      "old": "**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Weight becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Body was waiting; now it moves.",
+      "new": "**When the entity activates:** It is out of the chamber and moving west, kneeling where it stops, carrying the field with it. It is not chasing anybody. Get the shoring forward of it."
+    },
+    {
+      "id": "flavor_after_departure",
+      "kind": "short",
+      "careful": false,
+      "old": "**After departure:** Departure is not relief. The Subject-Body is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.",
+      "new": "**After departure:** You read your own Carried Load Return and find you wrote none, and your supervisor has crossed it out and written what you actually do. Workers are angry for about a week, and then they read it again."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IVγ-130_Deteriorata_무너지는_성자.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.024  clean   124 grams  Operational Parameters\n 0.001  clean   771 grams  Combat Record\n 0.000  clean  1217 grams  Apex Record\n 0.000  clean   582 grams  감각 묘사 (Flavor Text)\n 0.000  clean   463 grams  M.A.W. Equipment\n 0.000  clean   458 grams  기록 (Registrum)\n 0.000  clean   400 grams  이야기 (Narratio)\n 0.000  clean   287 grams  이야기 보고 (Story Log)\n 0.000  clean   232 grams  관찰 기록 (Observation Log)\n 0.000  clean   215 grams  Appearance\n 0.000  clean   178 grams  Trivia\n 0.000  clean   169 grams  Breach Behavior\n 0.000  clean   164 grams  Origin\n 0.000  clean   117 grams  증언 (Testimonium)\n 0.000  clean   107 grams  최종 관찰 (Final Observation)\n 0.000  clean   104 grams  Behavior\n 0.000  clean    38 grams  SECC Classification\n 0.000  THIN      1 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   3  | **Han-Energy yield** | 16–22 per successful work cycle, read off the chamber floor rather than the stone |\n   85   1  | { *Every Saint Falls* [**Ultimate**] } | \"Thirty-one cubic metres, and eleven hundred people in this facility doing other people\nGENERIC 0.001  (4 shared shingles)  SE-C-IVγ-130_Deteriorata_무너지는_성자.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/130_Deteriorata/SE-130-A__SIDE_CODEX_Deteriorata.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/130_Deteriorata/SE-130-B__MAW-W_The_Saints_Maul.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/130_Deteriorata/SE-130-C__MAW-S_The_Saints_Fragment.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/130_Deteriorata/SE-130-D__MAW-G_The_Saints_Charm.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/130_Deteriorata/SE-130-A__SIDE_CODEX_Deteriorata.md": "d5c4765c584a09b454bc6717e1036779fafdc9c1578508566e6b9dcb983c58b1",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/130_Deteriorata/SE-130-B__MAW-W_The_Saints_Maul.md": "f6f924ec28a5f3ac4ee7e87f6e877c759e386e93bd078a4e6e4d2c2e042bd060",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/130_Deteriorata/SE-130-C__MAW-S_The_Saints_Fragment.md": "0f0df896fa38e79b690551d868393ad829e026012670d0f2ee1261348e8d5922",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/130_Deteriorata/SE-130-D__MAW-G_The_Saints_Charm.md": "8698416ca91c0e7aa1daf8caa695c4e92d36994ec076f41e7ce20faabdacfbbf",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 1,
+    "weapon": 1,
+    "se": 0
+  },
+  "link": "[[SE-C-IVγ-130_Deteriorata_무너지는_성자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-130_Deteriorata_%EB%AC%B4%EB%84%88%EC%A7%80%EB%8A%94_%EC%84%B1%EC%9E%90.md \"SE-C-IVγ-130_Deteriorata_무너지는_성자.md\")]",
+  "table_link": "[Deteriorata](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-130_Deteriorata_%EB%AC%B4%EB%84%88%EC%A7%80%EB%8A%94_%EC%84%B1%EC%9E%90.md \"SE-C-IVγ-130_Deteriorata_무너지는_성자.md\")",
+  "reading": {
+    "before_lines": 433,
+    "before_bytes": 46193,
+    "final_lines": 433,
+    "final_bytes": 47246
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 82,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": ""
+  }
+}
