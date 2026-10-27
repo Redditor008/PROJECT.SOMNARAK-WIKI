@@ -1,49 +1,168 @@
 {
- "schema_version": 1,
- "batch": 188,
- "status": "OPEN",
- "completed_units": 0,
- "required_units": 5,
- "units": [
-  {
-   "designation": "N-IIIγ-505",
-   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-505_Dreaming_Ruin_돌아온_잔해.md",
-   "words": 7569,
-   "sha256": "a1485512cf1bf7f758cf7c669f57e615b3617b6c8ec94504638833c80d5e844b",
-   "unit": 1,
-   "name": "Dreaming Ruin"
-  },
-  {
-   "designation": "C-IIIγ-105",
-   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인.md",
-   "words": 7575,
-   "sha256": "bc4b0e344f9c871f3ea4ba61eb858d8f66ec7cc61d96e9519f374d0005fcad8b",
-   "unit": 2,
-   "name": "The Lonely Giant"
-  },
-  {
-   "designation": "C-IVγ-130",
-   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-130_Deteriorata_무너지는_성자.md",
-   "words": 7584,
-   "sha256": "6b627dbad94b69b3665fece8bcbf3f4ae4c77da256055e64da94d722d2193891",
-   "unit": 3,
-   "name": "Deteriorata"
-  },
-  {
-   "designation": "N-IIβ-033",
-   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md",
-   "words": 7587,
-   "sha256": "78516f367a64e620b500ff378532ba119ea407364e6380816960244afaea353b",
-   "unit": 4,
-   "name": "Forgotten Soldier"
-  },
-  {
-   "designation": "O-IIIγ-915",
-   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md",
-   "words": 7611,
-   "sha256": "82031b638890dec05ea2e0aeee96c77334a8505638616e7bc80027aece3dd98a",
-   "unit": 5,
-   "name": "Corrosion Dream"
-  }
- ]
+  "schema_version": 1,
+  "batch": 188,
+  "status": "OPEN",
+  "completed_units": 0,
+  "required_units": 5,
+  "units": [
+    {
+      "designation": "C-IIIγ-105",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인.md",
+      "words": 7575,
+      "sha256": "bc4b0e344f9c871f3ea4ba61eb858d8f66ec7cc61d96e9519f374d0005fcad8b",
+      "unit": 2,
+      "name": "The Lonely Giant"
+    },
+    {
+      "designation": "C-IVγ-130",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-130_Deteriorata_무너지는_성자.md",
+      "words": 7584,
+      "sha256": "6b627dbad94b69b3665fece8bcbf3f4ae4c77da256055e64da94d722d2193891",
+      "unit": 3,
+      "name": "Deteriorata"
+    },
+    {
+      "designation": "N-IIβ-033",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md",
+      "words": 7587,
+      "sha256": "78516f367a64e620b500ff378532ba119ea407364e6380816960244afaea353b",
+      "unit": 4,
+      "name": "Forgotten Soldier"
+    },
+    {
+      "designation": "O-IIIγ-915",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md",
+      "words": 7611,
+      "sha256": "82031b638890dec05ea2e0aeee96c77334a8505638616e7bc80027aece3dd98a",
+      "unit": 5,
+      "name": "Corrosion Dream"
+    },
+    {
+      "designation": "N-IIIγ-505",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-505_Dreaming_Ruin_돌아온_잔해.md",
+      "words": 7569,
+      "sha256": "a1485512cf1bf7f758cf7c669f57e615b3617b6c8ec94504638833c80d5e844b",
+      "unit": 1,
+      "name": "Dreaming Ruin",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_01_DREAMING_RUIN.md",
+      "before_words": 7569,
+      "after_words": 7810,
+      "base": "35b133d75afb8fcffea2995d595de70c3dff89b4",
+      "final_sha256": "429fde792ef39dbb440bc4bfc460a2195ac682254610bb4cb47c884243b23336",
+      "summary": "Three supported repairs (2 short / 1 careful) remove the rebuilding-ruin combat cycle. All five rows now run on the file's own instrument: panels counted before anything else, Composure failing as furnishing, a build bearing that opens other holdings, a documents search keyed to one word in a relocation notice, and a plan that tracks the notice return rather than the session. Two stock Flavor blocks become the notice-return's detachment and the wrong thing to brace. HELD; +0/+0/+0.",
+      "commentary": "A facility can rehouse every displaced person it has, promptly and in good faith, and still feed this holding with one sentence at the bottom of the letter. 'We have never been able to show that the word comforted anyone. We can show, panel by panel, what it builds.'",
+      "reasoning": "R-33 chain: Subject / Fragment-III / Major-γ / Inner Sorrow → a parcel cleared lawfully, its households rehoused inside eight weeks and told, in writing, that what they got was equivalent → a dream-figure of plaster, wood and shattered window that builds a different part of the room each appearance and never the same wall twice → work is holding without supplying (Flerehan/Ferrehan down, Viderehan separating memory from invention), the 184-panel sheet hatched live, and a drafting rule at the housing office → failure is furnishing, and breach is rebuilding through a partition on a knowable bearing. Rows may not give it rage-cycles, falling stones or eternal loops; identity forks stay HELD.",
+      "history": "Batch 104 unit 5 (d5a295eb) reviewed this dossier against its exact set SE-1036 (Registry rows 306–309) — explicitly not the suffix sibling SE-505 Cold Burn (counted at Batch 119) — and the primary carries an in-file Full-set source review (2026-10-12) covering all local M.A.W. claims against SE-1036-A/B/C/D, Master rows 439–441, Entity row 514, Tale 147 and archetype rows MAW-W-505/MAW-W-1036. Both the full-SE disposition and the exact pair are in the baseline: Batch 188 earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+      "holds": [
+        "Weapon identity fork stays: local/Master-table *The Returning Arbalest* versus Side/item B and Entry 439 *The Ruin Lens*; MAW-W-505 cranequin/Instant against the local Fast/Medium band, MAW-W-1036 Cathedral Bell-Maul/Close; Registry disposes no numbers (Variable / - / -).",
+        "Protection contradiction retained in both accounts: the Veil's Void resistance and Side resonance protection versus Use Notes' 'Nothing in the set protects the person holding it.' Master row 440's Living Chitin & Carapace does not describe the gossamer veil; no crosswalk exists.",
+        "Naming strata: Entity Codex/Tale *The Returning Ruin* versus primary/Side *Dreaming Ruin*; forty-nine panels have never been hatched because no living person holds those parts. Both stand untouched."
+      ],
+      "split": [
+        2,
+        1
+      ],
+      "repairs": [
+        {
+          "id": "combat_all_rows",
+          "kind": "careful",
+          "careful": true,
+          "old": "| { *The First Brick* [**Debuff**] } | \"A brick appears where the ruin was — then another — the structure is rebuilding itself.\" | [The Ruin's reconstruction begins; the target senses the impossible renewal.] | *Target suffers a Void mark; what was destroyed is returning.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Ruin. |\n| { *The Accelerating Build* [**Debuff**] } | \"The ruin rebuilds faster and faster — wall rising, arch forming — but the new walls are wrong, angrier.\" | [The Ruin's reconstruction accelerates; the new structure carries rage.] | *Target loses clarity; the rebuilt ruin is not the same as before.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |\n| { *The Falling Stone* [**Attack**] } | \"A stone from the rebuilding structure breaks free — heavier than the original, sharper.\" | [A piece of reconstructed ruin strikes.] | *Inflicts Void damage; the rebuilt material carries void-weight.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Ruin is disturbed. |\n| { *The Full Cycle* [**Attack**] } | \"The ruin completes rebuilding — and immediately begins collapsing again — the cycle releasing all its energy.\" | [The Ruin's build-and-destroy cycle reaches its peak.] | *A heavy Void detonation of cyclic destruction; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Ruin is interrupted. |\n| { *The Eternal Cycle* [**Ultimate**] } | \"Every ruin in the field rebuilds and collapses simultaneously — an endless loop of creation and destruction.\" | [The Ruin extends its cycle across the whole area.] | *All in range suffer Void erosion for three turns of endless ruin.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The First Brick* [**Debuff**] } | \"It builds a different part of the room every time, and in sixty years it has never built the same part twice.\" | [The plan sheet comes out first: count the hatched panels and write the number before anything else happens. Sixty-one is baseline; the recorded range is thirty-eight to one hundred and seventy-one.] | *A Void mark on the session, not the worker: whatever the figure builds is hatched live by the sheet officer, and nothing is hatched on inference.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | At manifestation, wherever in the registered area it faces. |\n| { *The Accelerating Build* [**Debuff**] } | \"The walls are not angrier. They are furnished — a door where a door would obviously go.\" | [Composure fails here as furnishing: the worker begins completing the room, and each completion is indistinguishable on the sheet from a genuine memory. Supplied detail is circled, never hatched.] | *Clarity taken in the furnished state: for about four months, the worker cannot say which rooms of their own childhood home they remember and which they have reconstructed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker supplies a part instead of holding one. |\n| { *The Falling Stone* [**Attack**] } | \"It has never struck at a person. It builds, and whatever stands on the build bearing stops being a wall where the lost house had a doorway.\" | [Read the bearing off the last session log and evacuate the holding on that line first; twice, the holding behind the partition stood open for several minutes.] | *Void damage lands on containment, not bodies — numbness takes names and faces first, and in Year 4233 that cost the response eleven minutes.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the build bearing crosses a standing partition. |\n| { *The Full Cycle* [**Attack**] } | \"There is no cycle of build and collapse. The sheet moves when this facility writes to somebody that what they were given is equivalent to what they lost.\" | [A gain of twelve panels or more opens a documents search: which notices went out that fortnight, and how many carried the equivalence formula. It has succeeded twenty-six times out of twenty-nine.] | *The surge is ink, not energy: one word in one letter, served weeks after the dust settled by an office acting in good faith.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When notices carrying the equivalence formula are served. |\n| { *The Eternal Cycle* [**Ultimate**] } | \"Eleven hundred notices, one word, a hundred and thirty-three panels in two months. Four years of named losses: thirty-eight.\" | [No loop extends anywhere. The plan has tracked the notice return for seven years and never once tracked the work done at the Market.] | *Void erosion across everyone named in no order, rehoused adequately and within eight weeks, with the parcel number the only identifier carried forward.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the facility substitutes a formula for a named loss at scale. |"
+        },
+        {
+          "id": "flavor_continued_exposure",
+          "kind": "short",
+          "careful": false,
+          "old": "**With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Void that the entity embodies. Understanding it does not make it easier.",
+          "new": "**With continued exposure:** Over a year the count detaches from the session and attaches to the notice return. Observers holding both columns stop proposing new work at the Market; there is nothing to do there but hatch honestly and send the sheet on."
+        },
+        {
+          "id": "flavor_activates",
+          "kind": "short",
+          "careful": false,
+          "old": "**When the entity activates:** When it activates, you understand why the containment protocols exist. The Void that was merely present becomes active, directed, purposeful — the Subject-Dream was holding back, and now it isn't.",
+          "new": "**When the entity activates:** It was never holding back. It builds on the bearing it was facing, and the protocol exists for what stands on that line: a team that braces the walls is bracing the wrong thing."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIIγ-505_Dreaming_Ruin_돌아온_잔해.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.022  clean   593 grams  관찰 기록 (Observation Log)\n 0.019  clean   475 grams  M.A.W. Equipment\n 0.018  clean   389 grams  기록 (Registrum)\n 0.015  clean   605 grams  감각 묘사 (Flavor Text)\n 0.005  clean   736 grams  Combat Record\n 0.002  clean   822 grams  이야기 보고 (Story Log)\n 0.000  clean   375 grams  이야기 (Narratio)\n 0.000  clean   286 grams  Warden Record\n 0.000  clean   282 grams  Trivia\n 0.000  clean   255 grams  Origin\n 0.000  clean   230 grams  Appearance\n 0.000  clean   211 grams  Containment Event Behavior\n 0.000  clean   159 grams  Behavior\n 0.000  clean   102 grams  최종 관찰 (Final Observation)\n 0.000  clean    85 grams  증언 (Testimonium)\n 0.000  clean    40 grams  SECC Classification\n 0.000  clean    26 grams  Operational Parameters\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   48   1  | **Resistance** | 35% against Void pressure; 25% against other pressure types |\n   78   3  | { *The Eternal Cycle* [**Ultimate**] } | \"Eleven hundred notices, one word, a hundred and thirty-three panels in two months. Fou\n  192   6  **Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element\n  210   2  **Appearance:** a shard-tile of Void Han-glass, near-translucent and almost colourless, warm to the touch.\n  214   1  **Effect:** +2 when working this entity, and the bearer is barred from hatching panels for the session. The charm's holder is the \n  238  13  **Full-set source review (2026-10-12):** Reviewed the overview and every local M.A.W. claim—including the Weapon/Suit/Stigma block\n  268   1  The first return under the Rule of the Named Loss, Year 4238. This facility issued three hundred and six relocation notices that y\n  285   1  The ground is the plan. Eleven hundred notices carrying one word put a hundred and thirty-three panels on the sheet in two months.\n  312   1  Three records are grouped with this one and the grouping is by subject matter: buildings that are gone. None of the three has been\n  314   2  **Interaction method:** On paper, and on one question: does the record answer to the loss of the building or to the document writt\n  321   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  323   4  | **The Returning Tree** | Grouped on lost homes. It answers to the ground the home stood on; this one answers to a letter. The sh\n  363   2  - Flerehan and Ferrehan lower the gauge. Viderehan holds it level and produces the record. Earlier editions named Viderehan as pri\n  367   2  - The Rule of the Named Loss is a containment condition of this entity and binds every notice this facility serves.\n  373   2  **Faction Involvement:** SED (C-territory survey) · UCD (Market-adjacent zone) · the housing office, listed because the Rule of th\n  378   1  **Operational interpretation:** Read this file with the notice return beside it or do not read it. Taken alone the holding is a qu\nGENERIC 0.008  (44 shared shingles)  SE-N-IIIγ-505_Dreaming_Ruin_돌아온_잔해.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1036_Dreaming_Ruin/SE-1036-A__SIDE_CODEX_Dreaming_Ruin.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1036_Dreaming_Ruin/SE-1036-B__MAW-W_The_Ruin_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1036_Dreaming_Ruin/SE-1036-C__MAW-S_The_Ruin_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1036_Dreaming_Ruin/SE-1036-D__MAW-G_The_Ruin_Shard.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1036_Dreaming_Ruin/SE-1036-A__SIDE_CODEX_Dreaming_Ruin.md": "e78e1c4360076a11879618456b64bf20aa6bf72a5ac4e8961c4ac394654790de",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1036_Dreaming_Ruin/SE-1036-B__MAW-W_The_Ruin_Lens.md": "c300b40aa54428901587e6ef8ca46e79d4511a8e1a423dfc9ae266be07b7d2d3",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1036_Dreaming_Ruin/SE-1036-C__MAW-S_The_Ruin_Veil.md": "073e4351defc9ea553869ef59a3e50ea97d14749ccc58a77a2ad535ed1f24dbc",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1036_Dreaming_Ruin/SE-1036-D__MAW-G_The_Ruin_Shard.md": "da9bc516ee12406260fbfc71531f381bc8da5a5d3d9b41a0a8cb1e16276fd6f4",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IIIγ-505_Dreaming_Ruin_돌아온_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-505_Dreaming_Ruin_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%9E%94%ED%95%B4.md \"SE-N-IIIγ-505_Dreaming_Ruin_돌아온_잔해.md\")]",
+      "table_link": "[Dreaming Ruin](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-505_Dreaming_Ruin_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%9E%94%ED%95%B4.md \"SE-N-IIIγ-505_Dreaming_Ruin_돌아온_잔해.md\")",
+      "reading": {
+        "before_lines": 419,
+        "before_bytes": 45886,
+        "final_lines": 419,
+        "final_bytes": 47122
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 84,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": ""
+      }
+    }
+  ],
+  "completed": 5
 }

@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 188 — OPEN, 0 / 5 (2026-10-27)
+## Batch 188 — OPEN, 1 / 5 (2026-10-27)
+
+**Unit 1 — Dreaming Ruin `N-IIIγ-505`: HELD.** Three supported repairs (2 short / 1 careful; 7,569→7,810 words): all five combat rows drop the build-and-collapse cycle for the 184-panel sheet, furnishing, the build bearing, the equivalence search, and the notice return; two Flavor blocks become the detachment and the wrong thing to brace. Batch 104 / the in-file 2026-10-12 review already counted set 1036: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B188_01_DREAMING_RUIN.md).
 
 Fresh C-locale ranking of the 85 pending froze: Dreaming Ruin, The Lonely Giant, Deteriorata, Forgotten Soldier, Corrosion Dream. [Opening record](SE_APPEARANCE_REVIEWS/B188_OPEN.json). Units 1–4 are reviews 7–10 of this prompt; Unit 5 and closure wait for the next P.
 
