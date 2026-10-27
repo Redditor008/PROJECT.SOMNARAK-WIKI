@@ -8,9 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 194 — OPEN, 1 / 5 (2026-10-27)
+## Batch 194 — OPEN, 2 / 5 (2026-10-27)
 
-Fresh ranking of 55 pending (wc -w ascending). Queue: `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833` Unit 1 — **Memory Lock `C-IIIγ-300`: HELD; credit-barred, +0.** 9 repairs (4s/5c; 8,113→8,262 words): breakage/opening template removed from a doorless, fused seal. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_01_MEMORY_LOCK.md).
+Fresh ranking of 55 pending (wc -w ascending). Queue: `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833` Unit 2 — **The Soot Fry `C-IIβ-947`: HELD; credit-barred, +0.** 3 repairs (2s/1c; 8,139→8,185 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_02_THE_SOOT_FRY.md).
+
+Unit 1 — **Memory Lock `C-IIIγ-300`: HELD; credit-barred, +0.** 9 repairs (4s/5c; 8,113→8,262 words): breakage/opening template removed from a doorless, fused seal. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_01_MEMORY_LOCK.md).
 
 (Queue note: Units 1–4 = reviews 7–10 of this prompt; batch stays OPEN 4/5.)
 

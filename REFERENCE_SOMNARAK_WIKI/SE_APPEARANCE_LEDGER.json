@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIβ-947": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_02_THE_SOOT_FRY.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -1889,8 +1901,29 @@
     {
       "designation": "C-IIβ-947",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-947_Soot_Fry.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Three source-supported repairs (2 short / 1 careful) in an otherwise exact file: the fish no longer passes through sealed boundaries on a 10%-per-crossing template (it cannot leave its water; the breach is the water spreading), body length is measured from probe-line lunges rather than 'a safe lunge', and a meaningless recovery bullet becomes the file's Directorate-signature feed rule. HELD; no credit (Side A carries an explicit weapon-range cross-source hold).",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_02_THE_SOOT_FRY.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/947_Soot_Fry/SE-947-A__SIDE_CODEX_Soot_Fry.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/947_Soot_Fry/SE-947-B__MAW-W_The_Still_Current.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/947_Soot_Fry/SE-947-C__MAW-S_The_White_Scale.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/947_Soot_Fry/SE-947-D__MAW-G_The_Black_Drop.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIβ-997",

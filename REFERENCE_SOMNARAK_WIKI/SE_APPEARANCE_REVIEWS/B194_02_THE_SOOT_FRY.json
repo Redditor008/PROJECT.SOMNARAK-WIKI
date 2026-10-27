@@ -1,0 +1,128 @@
+{
+  "designation": "C-IIβ-947",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-947_Soot_Fry.md",
+  "words": 8139,
+  "sha256": "473788f405dc40cee86c28b690f163af335aff0bc5b9ed25de64d9d59b475ec9",
+  "unit": 2,
+  "name": "The Soot Fry",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_02_THE_SOOT_FRY.md",
+  "before_words": 8139,
+  "after_words": 8185,
+  "base": "5b6a758509fd4f674464373c681ee28c32fb5287",
+  "final_sha256": "cab7d3a91a5b2af531e983dacb2758f6bbc59b7adb76ae5bfbacc24a9beff2cf",
+  "summary": "Three source-supported repairs (2 short / 1 careful) in an otherwise exact file: the fish no longer passes through sealed boundaries on a 10%-per-crossing template (it cannot leave its water; the breach is the water spreading), body length is measured from probe-line lunges rather than 'a safe lunge', and a meaningless recovery bullet becomes the file's Directorate-signature feed rule. HELD; no credit (Side A carries an explicit weapon-range cross-source hold).",
+  "commentary": "Almost everything consequential here happened, as the file says, on a requisition form — sixty lawful years of feeding that made the sorrow worse, minuted correct and never published — and the prose around it needed no help. The review's work was confined to mechanics that belonged to other entities: a pass-through-breach formula and a 'safe lunge'. The classified reunion flag with the Foam Flood and the sealed word *fly* were left exactly as sealed as found.",
+  "reasoning": "Set SE-947 identity resolved from Side A (C-IIβ-947 [WS]) and items carrying SE-947 / MAW-W/S/G-947-01; Registry rows 1095–1098 (Registry_941_to_976/947_Soot_Fry). The cross-flagged Stormscale Sovereign is SE-949, a distinct forbidden composite reviewed in B152; its evidence mentions this designation only as a constituent and is not a Soot Fry set disposition. Sentence triage: the breach gauge line gave a water-bound fish undamaged passage through sealed boundaries; the appearance protocol measured 2.2 m 'from a safe lunge' against a holding whose lunges are taken on probe lines; one operational bullet asserted an undefined separately-authorized 'Recovery'. R-18 split declared before the apply: 2 short / 1 careful.",
+  "history": "No credit — Side A contains an explicit 'Weapon-range hold': a written cross-source disposition comparing the primary (Range 3 Long) against item B and the Side summary (Range 4 Long), noting the Registry's variable/unset fields and MAW-W-947's PRIMAL/CLOSE tendril archetype without a crosswalk, and ordering the range held without changing values. That written disposition is the coverage event; equipment_reviews has no 947 entry and none was added. Side A (68 lines) and items B/C/D read whole (62/62/61 lines) including Appearance sections; git path history shows only the B179 import. +0 all counters.",
+  "holds": [
+    "Weapon range exactly as Side A holds it: primary Range 3 (Long) vs item/Side Range 4 (Long) with AoE and falloff fields the primary omits; Weight 6–11 / Speed 2 / max 3 / 24 agree; MAW-W-947 PRIMAL/CLOSE (Coiling Muscular Tendril), Short, has no crosswalk to the spear.",
+    "Item terminal corrosion (manifestation uses bearer as new site) and first-person/attribution regime vs the primary's appetite-detection loss and four-week weight check; the item resonance 'Source Kept Distinct' is Side-only.",
+    "Suit figures agree (1.0/1.2/1.1/0.3; 3/20); primary eye-marked overlapping white scales bead with damp vs item functional vest record — distinct descriptions.",
+    "Stigma Hand / 5% / +1 agree; the primary's nine conferrals (all on workers who completed a bank watch without issuing the standing ration) vs item D's silent 5% observed rate; Registry generic Accessory description identical figures here.",
+    "The sealed memory, the word 'fly', the C-IIIγ-948 reunion prohibition and SE-C-Vδ-949 remain untouched by design; the unpublished withholding finding and nine unretested holdings stand as open institutional record."
+  ],
+  "split": [
+    2,
+    1
+  ],
+  "repairs": [
+    {
+      "id": "R1-recovery-bullet",
+      "kind": "short operational grounding",
+      "careful": false,
+      "old": "- Recovery is authorized separately and is never an outcome of a routine shift.",
+      "new": "- No routine shift may issue a feed. Since the fifty-ninth year an issue requires a signature at Directorate level, and the standing ration no longer exists to be issued."
+    },
+    {
+      "id": "R2-safe-lunge",
+      "kind": "short appearance correction",
+      "careful": false,
+      "old": "and the full body length (2.2 m) measured only from a safe lunge.",
+      "new": "and the full body length (2.2 m) taken only from probe-line lunges — there is no safe lunge, and no person's hand is the measuring instrument."
+    },
+    {
+      "id": "R3-breach-boundary",
+      "kind": "careful breach correction",
+      "careful": true,
+      "old": "- **Sorrow Gauge on breach:** Opens at 35% and rises 10% each time it passes through a sealed boundary, which it does without damaging it.",
+      "new": "- **Sorrow Gauge on breach:** Opens at 35%. The fish cannot leave its water and passes through nothing; the breach is the water spreading, and the gauge is read against the feeding ledger, which is the only variable that has ever moved it."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IIβ-947_Soot_Fry.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.027  clean   184 grams  Trivia\n 0.018  clean   110 grams  Operational Parameters\n 0.010  clean   510 grams  Combat Record\n 0.008  clean  1280 grams  Watch Record\n 0.006  clean   337 grams  상호작용 (Entity Interactions)\n 0.005  clean   403 grams  M.A.W. Equipment\n 0.000  clean   727 grams  이야기 (Narratio)\n 0.000  clean   365 grams  이야기 보고 (Story Log)\n 0.000  clean   349 grams  관찰 기록 (Observation Log)\n 0.000  clean   338 grams  Appearance\n 0.000  clean   283 grams  Origin\n 0.000  clean   271 grams  기록 (Registrum)\n 0.000  clean   208 grams  감각 묘사 (Flavor Text)\n 0.000  clean   150 grams  최종 관찰 (Final Observation)\n 0.000  clean   138 grams  Behavior\n 0.000  clean   120 grams  Breach Behavior\n 0.000  clean   105 grams  증언 (Testimonium)\n 0.000  clean    65 grams  SECC Classification\n 0.000  THIN      5 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 40% against Weight pressure; 20% against other pressure types |\n   86   4  | { *The Empty Belly* [**Ultimate**] } | \"It swallows what it took — and the puddle goes still again, and small, and innocent, and\n  226   1  **Effect:** +1 stat bonus when working the source entity\n  244   1  | **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether appetite suppression in t\n  322   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  449  10  The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the sixtieth year — pub\n  462   5  - **Field detail:** Its defining element is Weight, and its registered location is the Pale Puddle, SECTOR-B-09, Zone B.\nGENERIC 0.004  (26 shared shingles)  SE-C-IIβ-947_Soot_Fry.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/947_Soot_Fry/SE-947-A__SIDE_CODEX_Soot_Fry.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/947_Soot_Fry/SE-947-B__MAW-W_The_Still_Current.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/947_Soot_Fry/SE-947-C__MAW-S_The_White_Scale.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/947_Soot_Fry/SE-947-D__MAW-G_The_Black_Drop.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/947_Soot_Fry/SE-947-A__SIDE_CODEX_Soot_Fry.md": "4bf2a7b441416a936c08a7b47fdbb3aed2b246269d8081eea58408357cd9efb9",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/947_Soot_Fry/SE-947-B__MAW-W_The_Still_Current.md": "965f81abb3e96737f880afbd1ccb3f106153d885218eff98360763c3c8f39a0c",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/947_Soot_Fry/SE-947-C__MAW-S_The_White_Scale.md": "f3b7b267bf6258b7f1b61516c21f4e1927d6e4105c72d29a3db470827b197538",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_941_to_976/947_Soot_Fry/SE-947-D__MAW-G_The_Black_Drop.md": "3995aaaaaeb22fd48fed58fcad9cca584ccfa1d60a67102a3fdf7a9895350742",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IIβ-947_Soot_Fry](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-947_Soot_Fry.md \"SE-C-IIβ-947_Soot_Fry.md\")]",
+  "table_link": "[The Soot Fry](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-947_Soot_Fry.md \"SE-C-IIβ-947_Soot_Fry.md\")",
+  "reading": {
+    "before_lines": 475,
+    "before_bytes": 48398,
+    "final_lines": 475,
+    "final_bytes": 48669
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 53,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": "Sole digit change: the deleted template's 10% per sealed-boundary pass-through increment disappears with the sentence it belonged to; the 35% breach opening is retained. No other figure, date, score or count was altered."
+  }
+}
