@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "batch": 194,
+  "status": "OPEN",
+  "completed_units": 0,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "C-IIIγ-300",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md",
+      "words": 8113,
+      "sha256": "f4ce88bded5105b3405cb6fd9bd0f9d6c90488651a3c3dc3bb3183dc688ee1a4"
+    },
+    {
+      "unit": 2,
+      "designation": "C-IIβ-947",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-947_Soot_Fry.md",
+      "words": 8139,
+      "sha256": "473788f405dc40cee86c28b690f163af335aff0bc5b9ed25de64d9d59b475ec9"
+    },
+    {
+      "unit": 3,
+      "designation": "O-IIIγ-374",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-374_Sleeping_Tree_잠든_나무.md",
+      "words": 8140,
+      "sha256": "3ffb6b5de9a39b921ac34190313e0f81d8f8e186021e86684decc2193c68c7d4"
+    },
+    {
+      "unit": 4,
+      "designation": "C-IIIγ-609",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-609_Frozen_Echo_얼어붙은_메아리.md",
+      "words": 8146,
+      "sha256": "4ab87b7e8dbb32c5ef195d4cf3eaa53baf82f0cb9748ff108cf547ac2d2b0062"
+    },
+    {
+      "unit": 5,
+      "designation": "O-IIβ-833",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-833_Neverlast_녹슨_영혼.md",
+      "words": 8159,
+      "sha256": "62db7405df7d8ec8926222cfc20e64f71c5ca2f11c87e4282a31c4ea62626097"
+    }
+  ],
+  "units": [],
+  "opened_at": "2026-10-27",
+  "completed": 0
+}

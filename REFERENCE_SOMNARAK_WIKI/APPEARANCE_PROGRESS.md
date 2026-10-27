@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B193 CLOSED 5/5.** All five HELD, No change 0, 37 repairs (10s/27c), 40,292→41,116w; fresh +1/+1 Sorrow Gate, Portcullis & Forgotten Market Stall. Types 285/301 (94.68%), Weapon 283/287 (98.61%), SE 18/301 (5.98%); held 226 / pending 55. [Closure](SE_APPEARANCE_REVIEWS/B193_CLOSE.md).
+- **Latest: B194 OPEN 0/5.** Fresh ranking of 55 pending; queue `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833`. Types 285/301 (94.68%), Weapon 283/287 (98.61%), SE 18/301 (5.98%); held 226 / pending 55.
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 
