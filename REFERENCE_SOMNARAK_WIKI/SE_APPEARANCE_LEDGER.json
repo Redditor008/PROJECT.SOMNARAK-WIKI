@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-Iα-785": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_05_TEAR_TOO_SMALL_TO_HONOR.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -5874,8 +5886,29 @@
     {
       "designation": "N-Iα-785",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-785_Tear_Too_Small_to_Honor_무너진_눈물.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Fifteen source-supported repairs (6 short / 9 careful): a flat tear that cannot fall, grow or harm the unlifted stops shattering, pooling, flying and detonating; the garbled log loses its combat aura, damage tick and wear-trigger; the breach-by-Transform header and five stubs take the record's own facts. HELD; no credit (primary Use Notes already integrate the item set's attribution doctrine).",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_05_TEAR_TOO_SMALL_TO_HONOR.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/785_Tear_Too_Small_to_Honor/SE-785-A__SIDE_CODEX_Tear_Too_Small_to_Honor.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/785_Tear_Too_Small_to_Honor/SE-785-B__MAW-W_Tear_Too_Small_to_Honor_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/785_Tear_Too_Small_to_Honor/SE-785-C__MAW-S_Tear_Too_Small_to_Honor_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/785_Tear_Too_Small_to_Honor/SE-785-D__MAW-G_Tear_Too_Small_to_Honor_Ring.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-Iα-905",

@@ -1,0 +1,212 @@
+{
+  "designation": "N-Iα-785",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-785_Tear_Too_Small_to_Honor_무너진_눈물.md",
+  "words": 8233,
+  "sha256": "dc599be8ea03e40f99b2f5139616848313df12e62769d3858bcbe17c7ff2f17f",
+  "unit": 5,
+  "name": "Tear Too Small to Honor",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_05_TEAR_TOO_SMALL_TO_HONOR.md",
+  "before_words": 8233,
+  "after_words": 8482,
+  "base": "7209b493ab1f671a5fb2d76505a7420beb062b05",
+  "final_sha256": "a42d2ce264dfb7c3d461b1c2ab141a3816b3ce00adee9b89df4359c10f0744a6",
+  "summary": "Fifteen source-supported repairs (6 short / 9 careful): a flat tear that cannot fall, grow or harm the unlifted stops shattering, pooling, flying and detonating; the garbled log loses its combat aura, damage tick and wear-trigger; the breach-by-Transform header and five stubs take the record's own facts. HELD; no credit (primary Use Notes already integrate the item set's attribution doctrine).",
+  "commentary": "Everything true about this holding is a refusal of scale — 1.9 millimetres after three correct deferrals — and the template kept trying to make it bigger: shattering, pooling, detonating. The repairs leave the only measurable behaviour the file has ever claimed: a number that goes down when the facility is too busy for it and up when somebody takes a small grief seriously.",
+  "reasoning": "Set SE-785 identity resolved from Side A (N-Iα-785 [O]) and items carrying SE-785 / MAW-W/S/G-785-01; Registry rows 883–886 (Registry_762_to_801/785_Tear_Too_Small_to_Honor). Sentence triage: four combat rows shattered/launched/detonated an object that cannot fall further, cannot grow and has never harmed anybody who did not lift it; the header promised breach-by-Transform against the flatten-only doctrine; four Log rows mixed the aura/tick/derived-echo template into the measured-series record; Movement, Identification, Observation and Resolution cells were stubs. R-18 split declared before the apply: 6 short / 9 careful.",
+  "history": "No credit — the primary's M.A.W. Use Notes (second paragraph) already integrate the exact item set's doctrine: attribution before a piece acts, benefit reversal on violating the limit, the one-way escalation ladder (first-person description → repeated response → bearer-as-new-site), and named-witness closure with nothing refunded; the Field Use Record carries the same shutdown. That written disposition is the coverage event; equipment_reviews has no 785 entry and none was added. Side A (66 lines) and items B/C/D read whole (64/62/61 lines) including Appearance sections confirm it; git path history shows only the B179 import. +0 all counters.",
+  "holds": [
+    "Weapon title fork: primary/item-title The Tear-Drop Awl (identical six-inch saddler's awl Appearance) vs filename/Side Tear Too Small to Honor Requiem; figures agree (Lament 5–9 / 2 / 2 / Single / 4 / 25). Primary scores puncture-then-bleed per turn against the item's Single/100% profile — mechanics not crosswalked.",
+    "Grade mismatch standing as the file presents it: β-grade set cut from an α Residue; Side/items agree β — mismatch is between entity and set, not between sources.",
+    "Suit figures agree (0.4/1/1.6/0.8; 4/20); primary luminous Han-silk discarding feelings below a size vs item numbness-to-minor-joys cost — same cost, different mechanism, both standing. Stigma Tail / 5% / +1 agree vs Registry generic Accessory / 5%.",
+    "Stigma conferral: primary given-not-taken to workers who finished Ferrehan without calling it minor vs item D's 5% bestowal field; item terminal state (bearer as new site) vs the primary's measured-height regime — both standing.",
+    "The eleven deferral-as-activation notes, the scheduling office's accepted objection, the sealed intake question and the 1.9 mm reading remain open record, untouched."
+  ],
+  "split": [
+    6,
+    9
+  ],
+  "repairs": [
+    {
+      "id": "R1-entity-type",
+      "kind": "careful classification correction",
+      "careful": true,
+      "old": "| **Entity Type** | **Object/Place** — Can breach via Transform |",
+      "new": "| **Entity Type** | **Object/Place** — Non-breaching: activation only. Unworked, it does not escape and does not grow; it flattens further, and neglect is the only way this entity worsens. |"
+    },
+    {
+      "id": "R2-movement",
+      "kind": "short classification grounding",
+      "careful": false,
+      "old": "| **Movement** | Stationary — a device (internal parts may move). |",
+      "new": "| **Movement** | None — pressed flat against the soil beneath its Garden stone, unable to fall further or to rise; what changes is its height above the soil, by tenths of a millimetre. |"
+    },
+    {
+      "id": "R3-resolution-condition",
+      "kind": "short operational completion",
+      "careful": false,
+      "old": "| **Resolution Condition** | the Tear is placed down deliberately by its bearer and the four measurements are taken before and after contact |",
+      "new": "| **Resolution Condition** | A worker has held the small grief for its own duration without ranking it against anything in the Gardens, and the gauge settles back under 25%; the four measurements are taken before and after contact. |"
+    },
+    {
+      "id": "R4-spilled-drop",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Spilled Drop* [**Debuff**] } | \"A tear falls — and shatters on the floor, and the pieces each carry the full weight of the original.\" | [The Tear breaks on impact; each fragment holds complete grief.] | *Target suffers -10 Composure; they are splashed with broken sorrow.* **[10 Lament DMG [Lament]]** | When the target is near the shatter. |",
+      "new": "| { *The Spilled Drop* [**Debuff**] } | \"Nothing falls and nothing shatters — the Tear is already flat against the soil and cannot fall further. What reaches the target is the wish to say *just* and *only* about it.\" | [The gauge rises on the wording of what is said, which is why remarks are kept verbatim.] | *Target suffers -10 Composure; the ranking has begun out loud.* **[10 Lament DMG [Lament]]** | When a grief in the Gardens is ranked against another. |"
+    },
+    {
+      "id": "R5-spreading-pool",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Spreading Pool* [**Debuff**] } | \"The tear-fragments melt together — forming a pool that reflects a face that is not yours.\" | [The collapsed Tear's fragments merge; the pool is grief-colored.] | *Target loses 10 Composure; the reflected grief is theirs and not theirs.* **[10 Lament DMG [Lament]]** | When the target looks into the pool. |",
+      "new": "| { *The Spreading Pool* [**Debuff**] } | \"There are no fragments and no pool to look into: one crystal, still wet, salt-cold, in soil that has never closed over it. The face it reflects is a judgement — this one does not belong here.\" | [Width does not move and moisture does not move; only the height series answers, by tenths of a millimetre.] | *Target loses 10 Composure; they have begun applying the Tear's judgement to themselves.* **[10 Lament DMG [Lament]]** | When the target measures their own loss against the monuments. |"
+    },
+    {
+      "id": "R6-glass-shard",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Glass Shard* [**Attack**] } | \"A fragment of the collapsed tear, hardened and sharp, flies upward.\" | [ A crystallized tear-fragment launches at the target.] | *Inflicts Lament pressure and one small, crystalline cut.* **[14-22 Lament DMG [Lament]]** | When the pool is disturbed. |",
+      "new": "| { *The Glass Shard* [**Attack**] } | \"No fragment flies. The Tear has never harmed anybody who did not lift it, and every logged lift has produced distress in the person lifting.\" | [A lift is a scheduled contact operation with a counsellor present, never an incidental pickup; the wound is the transfer, which ends only when the bearer sets it down deliberately.] | *Inflicts Lament pressure; dropping it does not end the transfer.* **[14-22 Lament DMG [Lament]]** | When the Tear is lifted. |"
+    },
+    {
+      "id": "R7-full-shatter",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Full Shatter* [**Attack**] } | \"Every tear that ever fell and broke — all of it, reassembled and then shattered again, at once.\" | [The collapsed Tear reconstitutes and detonates.] | *A heavy Deep Blue shatter; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Tear is forced. |",
+      "new": "| { *The Full Shatter* [**Attack**] } | \"It cannot reconstitute and it cannot detonate — the shame that collapsed it forbids expansion. The full effect is quieter: a worker describing genuine losses as not worth logging.\" | [Withholding complaints and declining counselling is the full manifestation of this entity, and it is routinely mistaken for professionalism.] | *A heavy Deep Blue pressure; the target's Sorrow Gauge surges 15% while their conduct improves on paper.* **[24-36 Lament DMG [Lament]]** | When the Tear is passed over — a skipped cycle is itself the trigger. |"
+    },
+    {
+      "id": "R8-identification",
+      "kind": "short appearance completion",
+      "careful": false,
+      "old": "| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |",
+      "new": "| **Identification** | Confirm designation N-Iα-785 `[O]`, Object-Void manifestation and the flower ring before Work or contact; the wrong entity is the wrong sorrow. |"
+    },
+    {
+      "id": "R9-log-10s",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 10 Seconds | Contact is made and the transfer starts on skin: the bearer's composure is intact, and the first thing that changes is what they are willing to say about their own day. | +10% Lament resistance holds while the object is in contact, and one unprompted remark is logged verbatim before any other reading. |",
+      "new": "| 10 Seconds | Contact is made and the transfer starts on skin: the bearer's composure is intact, and the first thing that changes is what they are willing to say about their own day. | Nothing here grants resistance. One unprompted remark is logged verbatim before any other reading, because it is the earliest indicator and the one most likely to be tidied up afterwards. |"
+    },
+    {
+      "id": "R10-log-30s",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 30 Seconds | The artifact was born from the pain of wanting to cry but believing the grief is too small or embarrassing to deserve release; the bearer begins perceiving echoes of a visitor hid a single tear beneath a garden stone; the grief flattened into a collapsed object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |",
+      "new": "| 30 Seconds | The bearer begins sorting: which of the losses around them are worth the room they take up. It arrives as ordinary judgement and is recorded as the escalation it is. | No benefit accrues and no focus heightens; what accumulates is the transfer. The second worker watches the hands — a bearer preparing to set the object down holds it differently. |"
+    },
+    {
+      "id": "R11-log-1min",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 1 Minute | The bearer's breathing settles into the cadence of somebody holding a grief that feels too minor to hold, and the file's instruction is to watch the hands rather than the face: a bearer preparing to set the object down holds it differently. | Continuous contact past 60 seconds carries 5 Lament damage every 15 seconds; the second worker keeps the hour of the first unprompted remark, the duration of the hold, and whether release was chosen. |",
+      "new": "| 1 Minute | The bearer's breathing settles into the cadence of somebody holding a grief that feels too minor to hold, and the file's instruction is to watch the hands rather than the face: a bearer preparing to set the object down holds it differently. | No damage ticks accrue; this entity injures nobody who does not lift it, and this is the lift. The second worker keeps the hour of the first unprompted remark, the duration of the hold, and whether release was chosen. |"
+    },
+    {
+      "id": "R12-log-2min",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 2 Minutes | To wear Tear Too Small to Honor too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may carry shame for mourning. |",
+      "new": "| 2 Minutes | The tell by now is in what the bearer stops saying: complaints withheld, losses described as not worth logging, the week in which nothing was allowed to matter. | The bearer is asked to set the object down and nobody takes it from them; forced detachment converts a minor transfer into acute panic, which is on file as a medical note. How the contact ended is the closing entry. |"
+    },
+    {
+      "id": "R13-flavor-continued",
+      "kind": "short flavor grounding",
+      "careful": false,
+      "old": "**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Lament presses hardest, where it recedes, where the Object-Void lets you breathe.",
+      "new": "**With continued exposure:** What changes is what the worker is willing to say about their own day. The gauge rises on the wording — *just*, *only*, *nothing serious* — and the height series, taken by somebody not told what it is expected to show, does the rest of the talking."
+    },
+    {
+      "id": "R14-flavor-after",
+      "kind": "short flavor grounding",
+      "careful": false,
+      "old": "**After departure:** After contact, the body holds what the mind files away. The Lament is gone, but the shape of it — where it pressed, where it hollowed — remains.",
+      "new": "**After departure:** A worker who has begun withholding complaints, declining counselling and describing genuine losses as not worth logging — which presents, to every supervisor who has ever reviewed it, as professionalism. The previous measurement stays beside the new one; the difference is the report."
+    },
+    {
+      "id": "R15-observation-stub",
+      "kind": "short observation completion",
+      "careful": false,
+      "old": "| **Initial exposure** | An Object/Place with an Object-Void manifestation. The first reliable markers are the Lament signature, the primary visual marker and the presence at Zone D in the Echo Gardens; the measurement is itself the identification, because the flower ring that closes in and stops is unique to this holding in Zone D. |",
+      "new": "| **Initial exposure** | An Object/Place with an Object-Void manifestation. The first reliable markers are the Lament signature, the wet crystal pressed flat beneath its stone and the presence at Zone D in the Echo Gardens; the measurement is itself the identification, because the flower ring that closes in and stops is unique to this holding in Zone D. |"
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-N-Iα-785_Tear_Too_Small_to_Honor_무너진_눈물.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.014  clean   141 grams  Operational Parameters\n 0.012  clean   723 grams  감각 묘사 (Flavor Text)\n 0.011  clean   879 grams  M.A.W. Equipment\n 0.008  clean   381 grams  기록 (Registrum)\n 0.006  clean   648 grams  Combat Record\n 0.006  clean   174 grams  이야기 보고 (Story Log)\n 0.000  clean   603 grams  Stone Record\n 0.000  clean   590 grams  Activation Behavior\n 0.000  clean   404 grams  이야기 (Narratio)\n 0.000  clean   333 grams  관찰 기록 (Observation Log)\n 0.000  clean   259 grams  Appearance\n 0.000  clean   236 grams  Behavior\n 0.000  clean   197 grams  Trivia\n 0.000  clean   175 grams  Origin\n 0.000  clean   120 grams  최종 관찰 (Final Observation)\n 0.000  clean    65 grams  증언 (Testimonium)\n 0.000  clean    40 grams  SECC Classification\n 0.000  clean    27 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   32   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 15% against Lament pressure; 5% against other pressure types |\n   85   3  | { *The Sea of Broken Tears* [**Ultimate**] } | \"Every tear that was ever ranked below somebody else's — all of it at once, at fu\n  236   6  **Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries the scent of rain on stone and is ju\n  256   2  **Appearance:** a ring of Lament Han-crystal, cool and faintly luminous, that goes colder the closer its wearer comes to a loss th\n  280   1  | **Before use** | Wielder, piece, and a dated baseline against what Tear Too Small to Honor takes: the wielder weeps, at inconven\n  282   1  | **At limit** | Protection is achieved by scale. The shroud discards every feeling below a certain size, and it does not distingu\n  313   1  Tear Too Small to Honor (N-Iα-785 [O]) is carried on the wing's register as an Object-Void manifestation expressing Lament. The Te\n  352   7  The Tear's filed relations are other residues of withheld mourning, and the question worth settling is whether the flower ring wid\n  361   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  411   3  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)\nGENERIC 0.005  (29 shared shingles)  SE-N-Iα-785_Tear_Too_Small_to_Honor_무너진_눈물.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/785_Tear_Too_Small_to_Honor/SE-785-A__SIDE_CODEX_Tear_Too_Small_to_Honor.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/785_Tear_Too_Small_to_Honor/SE-785-B__MAW-W_Tear_Too_Small_to_Honor_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/785_Tear_Too_Small_to_Honor/SE-785-C__MAW-S_Tear_Too_Small_to_Honor_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/785_Tear_Too_Small_to_Honor/SE-785-D__MAW-G_Tear_Too_Small_to_Honor_Ring.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/785_Tear_Too_Small_to_Honor/SE-785-A__SIDE_CODEX_Tear_Too_Small_to_Honor.md": "5ceff1197edcef33582091b37215bdb1466f70b7c750ceac9de73d73ae78fb94",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/785_Tear_Too_Small_to_Honor/SE-785-B__MAW-W_Tear_Too_Small_to_Honor_Requiem.md": "7f00ec84d7542b27bc5d81d056985ef1f17549851607a2e4cce93522aae658b1",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/785_Tear_Too_Small_to_Honor/SE-785-C__MAW-S_Tear_Too_Small_to_Honor_Shroud.md": "21c28c15f381aff8892a015c5dcde7c316cc278b7703c9fd4657584aba95fe89",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/785_Tear_Too_Small_to_Honor/SE-785-D__MAW-G_Tear_Too_Small_to_Honor_Ring.md": "6f1e5709937d1b7475a9ed1c01826782f8e8ecef661c38556188b7447794fc4d",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-N-Iα-785_Tear_Too_Small_to_Honor_무너진_눈물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-785_Tear_Too_Small_to_Honor_%EB%AC%B4%EB%84%88%EC%A7%84_%EB%88%88%EB%AC%BC.md \"SE-N-Iα-785_Tear_Too_Small_to_Honor_무너진_눈물.md\")]",
+  "table_link": "[Tear Too Small to Honor](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-785_Tear_Too_Small_to_Honor_%EB%AC%B4%EB%84%88%EC%A7%84_%EB%88%88%EB%AC%BC.md \"SE-N-Iα-785_Tear_Too_Small_to_Honor_무너진_눈물.md\")",
+  "reading": {
+    "before_lines": 470,
+    "before_bytes": 49603,
+    "final_lines": 470,
+    "final_bytes": 50993
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 45,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": "Digit changes are documented template removal/figure reuse only: the deleted +10% resistance, 5-per-15-seconds-past-60 tick and 2-minute wear trigger disappear with their sentences; the file's own 25% resolution figure and designation 785 are restated. No other figure, date, score or count was altered."
+  }
+}
