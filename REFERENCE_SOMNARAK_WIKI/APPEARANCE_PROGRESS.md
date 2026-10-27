@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B193 OPEN 0/5.** Fresh ranking of 60 pending; queue `C-IVδ-252`, `C-IVδ-505`, `O-Iα-794`, `C-IIα-062`, `C-IVγ-073`. Types 282/301 (93.69%), Weapon 280/287 (97.56%), SE 18/301 (5.98%); held 221 / pending 60.
+- **Latest: B193 U1 Sorrow Gate `C-IVδ-252` HELD, fresh +1/+1.** 7 repairs (1s/6c), 8,020→8,134w. Types 283/301 (94.02%), Weapon 281/287 (97.91%), SE 18/301 (5.98%); held 222 / pending 59. [Evidence](SE_APPEARANCE_REVIEWS/B193_01_SORROW_GATE.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

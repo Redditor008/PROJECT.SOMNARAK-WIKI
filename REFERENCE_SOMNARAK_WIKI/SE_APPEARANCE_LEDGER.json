@@ -27,7 +27,20 @@
       "C-IIα-062",
       "C-IVγ-073"
     ],
-    "reviewed": {}
+    "reviewed": {
+      "C-IVδ-252": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_01_SORROW_GATE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -2453,8 +2466,29 @@
     {
       "designation": "C-IVδ-252",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-252_Sorrow_Gate_슬픔의_문.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Seven source-supported repairs (1 short / 6 careful): a seamless, never-opened slab stops cracking, shearing body parts, venting shockwaves into inhabited sectors and accumulating a transcript archive its own management condition burns; the Log and Method's stitched template rows (allied elemental defences, vessel-seeking overflow) and the origin's generic 'sorrow becomes strength' uplift are replaced by the file's documented mechanism — interpretation warms the inner face, words go missing, renderings are destroyed and only their count is kept. First independent full-set source review of SE-252: fresh +1 Types / +1 Weapon; whole design HELD, SE +0.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_01_SORROW_GATE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-252-A__SIDE_CODEX_Sorrow_Gate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-252-B__MAW-W_The_Unknown_Extraction_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-252-C__MAW-S_The_Unknown_Extraction_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-252-D__MAW-G_The_Unknown_Extraction_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-255",
@@ -8973,6 +9007,14 @@
       "batch": 192,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_05_UNSAID_BLOSSOMS.md",
       "history_proof": "Fresh exact SE-100 full-set review. No prior evidence mentions C-IIβ-100; no in-file cross-source/full-set review block or per-piece holds; Side A has no profile-hold/disposition paragraph; equipment_reviews has no 100 entry; ENTITY_DISPOSITION_INDEX holds only an entity (Neutral) disposition; git path history only the B179 import (87f1a01). Side A (181 lines) and items B/C/D in Registry_099_to_103/100_Unsaid_Blossoms read whole including Appearance sections; Registry rows 150-153 confirm identity (Weapon Variable, Stigma generic Accessory/5%); singing-blade/Resonant Blade vs bladed-war-fan form fork first recorded here and held unmerged. New +1 Types/+1 Weapon; SE +0 (whole design HELD).",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "C-IVδ-252",
+      "batch": 193,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_01_SORROW_GATE.md",
+      "history_proof": "Fresh exact SE-252 full-set review. No prior evidence mentions C-IVδ-252; no in-file cross-source/full-set review block or per-piece holds; Side A has no profile-hold/disposition paragraph; equipment_reviews has no 252 entry; git path history only the B179 import (87f1a01). Side A (112 lines) and items B/C/D in Registry_249_to_260 read whole including Appearance sections; Registry rows 546-549 confirm identity (Weapon Variable, Stigma generic Accessory/5%); six-wearer vs sole-charm and Gate-ground vs sealed-residue provenance forks first recorded here and held unmerged. New +1 Types/+1 Weapon; SE +0 (whole design HELD).",
       "all_types_credit": true,
       "weapon_credit": true
     }

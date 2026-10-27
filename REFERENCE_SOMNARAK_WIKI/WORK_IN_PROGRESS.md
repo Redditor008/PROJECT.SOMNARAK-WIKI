@@ -1,8 +1,10 @@
 # Work In Progress
 
-## Batch 193 — OPEN, 0 / 5 (2026-10-27)
+## Batch 193 — OPEN, 1 / 5 (2026-10-27)
 
 Fresh ranking of 60 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IVδ-252`, `C-IVδ-505`, `O-Iα-794`, `C-IIα-062`, `C-IVγ-073`. Units 1–5 are reviews 2–6 of this prompt.
+
+**Unit 1 — Sorrow Gate `C-IVδ-252`: HELD, fresh +1/+1.** Seven repairs (1 short / 6 careful; 8,020→8,134 words): the seamless slab stops cracking, shearing and archiving what its own rule burns. First independent set review (SE-252 whole; charm-count/provenance forks held): +1 Types / +1 Weapon. [Evidence](SE_APPEARANCE_REVIEWS/B193_01_SORROW_GATE.md). Counters: Types 283/301, Weapon 281/287, SE 18/301.
 
 ## Batch 192 — CLOSED, 5 / 5 (2026-10-27)
 

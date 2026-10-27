@@ -8,9 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 193 — OPEN, 0 / 5 (2026-10-27)
+## Batch 193 — OPEN, 1 / 5 (2026-10-27)
 
 Fresh ranking of 60 pending (wc -w ascending). Queue: `C-IVδ-252`, `C-IVδ-505`, `O-Iα-794`, `C-IIα-062`, `C-IVγ-073` (reviews 2–6 of this prompt).
+
+Unit 1 — **Sorrow Gate `C-IVδ-252`: HELD; fresh +1 Types / +1 Weapon.** 7 repairs (1s/6c; 8,020→8,134 words): crack/shear/shockwave/transcript-archive template removed from a never-opened slab; first set review. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_01_SORROW_GATE.md). Counters: Types 283/301, Weapon 281/287, SE 18/301.
 
 ## Batch 192 — CLOSED, 5 / 5 (2026-10-27)
 
