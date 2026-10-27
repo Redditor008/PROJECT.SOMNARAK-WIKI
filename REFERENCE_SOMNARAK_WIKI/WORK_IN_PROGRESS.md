@@ -1,8 +1,8 @@
 # Work In Progress
 
-## Batch 190 — OPEN, 3 / 5 (2026-10-27)
+## Batch 190 — OPEN, 4 / 5 (2026-10-27)
 
-**Unit 3 — Collapsed Whisper `C-IVδ-249`: HELD — fresh +1 Types / +1 Weapon.** Four supported repairs (2 short / 2 careful; 7,805→7,932 words): the Flavor loses its nonexistent containment door (this holding is worked asleep), and the consequences stop spreading collapse through station fittings or walking the entity out — the surfacing pairing and the never-approaching bearing series are the record. First independent full-set review of SE-249 by negative proof. [Evidence](SE_APPEARANCE_REVIEWS/B190_03_COLLAPSED_WHISPER.md). Units 1–2 HELD at +0. Queue: `N-IIIγ-160` (review 10 of this prompt); `C-IIβ-054` waits; batch stays OPEN 4/5. Counters now Types 278/301, Weapon 276/287, SE 18/301.
+**Unit 4 — Broken Promise `N-IIIγ-160`: HELD.** One careful repair (7,809→7,851 words): the Shard-Strike row stops launching a flying fragment — the injury record is shallow cuts on people who had broken something they said — and deals the documented harm, the binding itself. The in-file Batch 112 review already covers the (nonexistent) exact set and the 160-suffix traps: +0/+0/+0. [Evidence](SE_APPEARANCE_REVIEWS/B190_04_BROKEN_PROMISE.md). Batch so far: Rift, Memorial Flame, Collapsed Whisper (fresh +1/+1), Broken Promise. **This prompt's ten reviews are complete** (Batch 188 Unit 5 + closure, Batch 189 ×5 + closure, Batch 190 ×4). Unit 5 `C-IIβ-054` is untouched and waits for the next authorized prompt. Counters: Types 278/301, Weapon 276/287, SE 18/301; held 210 / pending 71.
 
 ## Batch 189 — CLOSED, 5 / 5 (2026-10-27)
 
