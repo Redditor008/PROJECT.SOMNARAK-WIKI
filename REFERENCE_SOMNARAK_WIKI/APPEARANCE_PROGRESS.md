@@ -1,6 +1,6 @@
-- **Latest: Batch 190 Unit 5 — The Empty Mask `C-IIβ-054`: HELD, fresh +1/+1.** 4 repairs (2s/2c), 7,815→7,972w. Types 279/301 (92.69%), Weapon 277/287 (96.52%), SE 18/301 (5.98%). Batch 5/5; closure next. [Evidence](SE_APPEARANCE_REVIEWS/B190_05_THE_EMPTY_MASK.md).
+# Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch190 OPEN 4/5** (Broken Promise HELD, [evidence](SE_APPEARANCE_REVIEWS/B190_04_BROKEN_PROMISE.md); this prompt's ten reviews complete; Unit 5 C-IIβ-054 untouched, awaits next authorized prompt. Counters: 278/301 Types, 276/287 Weapon, 18/301 SE; held 210 / pending 71) (all five HELD, latest [evidence](SE_APPEARANCE_REVIEWS/B185_05_HOLLOW_ECHO.md)). Closure next in this prompt. Counters: 271/301 Types, 269/287 Weapon, 18/301 SE; held 186 / pending 95. (five reviews minimum per prompt, ten maximum). Shard of a Broken Promise HELD with **fresh +1 Types / +1 Weapon**; Thralldom, The Convergence, Melting Rope and Pall HELD (latest [evidence](SE_APPEARANCE_REVIEWS/B184_05_PALL.md)). Closure next in this prompt. Counters: 271/301 Types, 269/287 Weapon, 18/301 SE; held 181 / pending 100.
+- **Latest: Batch 190 Unit 5 — The Empty Mask `C-IIβ-054`: HELD, fresh +1/+1.** 4 repairs (2s/2c), 7,815→7,972w. Types 279/301 (92.69%), Weapon 277/287 (96.52%), SE 18/301 (5.98%). Batch 5/5; closure next. [Evidence](SE_APPEARANCE_REVIEWS/B190_05_THE_EMPTY_MASK.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 
