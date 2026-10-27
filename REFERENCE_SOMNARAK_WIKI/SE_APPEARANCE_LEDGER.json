@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Iα-779": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_05_MISCAST.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -3044,8 +3056,29 @@
     {
       "designation": "C-Iα-779",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-779_Miscast_찢어진_유물.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Two supported repairs (1 short / 1 careful) disarm this harmless bench. All five combat rows drop embedding splinters, flying shards, forced reassembly and a shrapnel storm: they now run on the bearer's list of uncalled preparations, the eleven-millimetre gap and the reach that voids a quarter's readings, an eight-millimetre widening that opens a documents search, four to nine seconds of the artifact simply working, and eighty-eight millimetres of over-certification. The tool Termination row loses its invented severe-Grudge extraction. HELD; +0/+0/+0.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_05_MISCAST.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/779_Miscast/SE-779-A__SIDE_CODEX_Miscast.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/779_Miscast/SE-779-B__MAW-W_The_Torn_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/779_Miscast/SE-779-C__MAW-S_The_Torn_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/779_Miscast/SE-779-D__MAW-G_The_Torn_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Iα-863",

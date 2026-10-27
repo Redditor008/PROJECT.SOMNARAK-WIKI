@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 187 — OPEN, 4 / 5 (2026-10-27)
+## Batch 187 — OPEN, 5 / 5 (2026-10-27)
+
+**Unit 5 — Miscast `C-Iα-779`: HELD.** Two supported repairs (1 short / 1 careful; 7560→7762 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_05_MISCAST.md). Batch 116 already counted set 779: +0/+0/+0. Completed 5/5; No change 0; held 196 / pending 85. Closure follows in this prompt.
 
 **Unit 4 — Sorrow Tide `C-Vγ-260`: HELD.** Five supported repairs (4 short / 1 careful; 7545→7778 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_04_SORROW_TIDE.md). Exact set SE-1027 identity-resolved, no earlier independent review: **fresh +1 Types / +1 Weapon** / +0 SE. Completed 4/5; No change 0; held 195 / pending 86; Types 273/301 · Weapon 271/287.
 

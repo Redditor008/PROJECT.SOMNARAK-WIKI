@@ -6,14 +6,6 @@
   "required_units": 5,
   "units": [
     {
-      "designation": "C-Iα-779",
-      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-779_Miscast_찢어진_유물.md",
-      "words": 7560,
-      "sha256": "a089f400a8d8d6433e0279a05ac9166fb381be84f0cbae09f25fbe3ee27897d2",
-      "unit": 5,
-      "name": "Miscast"
-    },
-    {
       "designation": "N-IVδ-157",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-157_Torpor_잠든_한숨.md",
       "words": 7537,
@@ -527,6 +519,125 @@
         "physical_form_rows_unchanged": 301,
         "tale_unchanged": true,
         "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": ""
+      }
+    },
+    {
+      "designation": "C-Iα-779",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-779_Miscast_찢어진_유물.md",
+      "words": 7560,
+      "sha256": "a089f400a8d8d6433e0279a05ac9166fb381be84f0cbae09f25fbe3ee27897d2",
+      "unit": 5,
+      "name": "Miscast",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_05_MISCAST.md",
+      "before_words": 7560,
+      "after_words": 7762,
+      "base": "e84e385264f2f028123eded0ae224c8a77affe5d",
+      "final_sha256": "b85d102f9dd99efb68939896eaca82cac852260cd3515a683f65aebfd1348f2a",
+      "summary": "Two supported repairs (1 short / 1 careful) disarm this harmless bench. All five combat rows drop embedding splinters, flying shards, forced reassembly and a shrapnel storm: they now run on the bearer's list of uncalled preparations, the eleven-millimetre gap and the reach that voids a quarter's readings, an eight-millimetre widening that opens a documents search, four to nine seconds of the artifact simply working, and eighty-eight millimetres of over-certification. The tool Termination row loses its invented severe-Grudge extraction. HELD; +0/+0/+0.",
+      "commentary": "Four hundred workers taught properly for forty posts, and the only honest instrument in the district was the distance two pieces of metal refused to close. 'We have never been able to show that a live unused certificate comforted anybody. We can show, to the millimetre, what it keeps apart.'",
+      "reasoning": "R-33 chain: Object/Place / Residue-I / Minor-α / City Sorrow → readiness prepared properly at cost and never called on (an artifact cast with an immaterial fault that passed every trial and was never commissioned) → floating fragments that approach exactly and stop short, measured optically in millimetres → work is Viderehan (shows the former function), Ferrehan (watches without helping), and a filing rule in a training office → failure is a widening gap tracking live, unused certificates; the holding has injured nobody in fifty-one years. Rows may not fly, embed or detonate fragments; naming and reach forks stay HELD.",
+      "history": "Batch 116 unit 3 (1a67f87) performed the review — recording the I-Relic · α grade, keeping the *Fracture Sundial* / *Torn Edge* naming split, Short against the Long archetype, and Tail/5% against the Registry — and newly dispositioned SE-779-B / MAW-W-779-01. That completed review puts the full-SE disposition and the exact pair in the baseline: Batch 187 earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+      "holds": [
+        "Weapon naming/form fork stays exactly as Batch 116 left it: primary and Registry *The Fracture Sundial* versus item file *The Torn Edge*, with forge-chisel personalization and Short against the archetype's Long; the Registry disposes no numbers (Variable / - / -).",
+        "The gap's correlation with the certification register is the file's central claim and its admitted limit: nine years of tracking, 19 of 21 document searches successful, mechanism unstated. This review repeats the file's own caution and elects no cause.",
+        "The Tale stratum (extraction shattering as the wound) against the operational file (the destruction answers to nothing; the sixteen uncalled years do) — preserved as strata. The unsigned commissioning draft stays unsigned."
+      ],
+      "split": [
+        1,
+        1
+      ],
+      "repairs": [
+        {
+          "id": "combat_all_rows",
+          "kind": "careful",
+          "careful": true,
+          "old": "| { *The Broken Edge* [**Debuff**] } | \"You touch the relic — and a shard breaks off in your hand, sharp with old rage.\" | [A splinter from the Relic embeds in the target; the anger inside it transfers.] | *Target suffers -10 Resilience; the shard carries inherited fury.* **[10 Grudge DMG [Grudge]]** | When the target handles the Relic. |\n| { *The Missing Piece* [**Debuff**] } | \"You can feel the shape of what is gone — and the absence aches worse than the break.\" | [The Relic's incompleteness gnaws at the target; they feel what is missing.] | *Target loses 10 Resilience; the void where the piece was is unbearable.* **[10 Grudge DMG [Grudge]]** | When the target studies the Relic. |\n| { *The Flying Shard* [**Attack**] } | \"A shard flies free — guided by the anger of being torn apart.\" | [A sharp fragment launches at the target.] | *Inflicts Grudge pressure and one jagged, hot cut.* **[14-22 Grudge DMG [Grudge]]** | When the Relic is struck. |\n| { *The Reassembled Fury* [**Attack**] } | \"The pieces fly back together — and for one instant, the relic is whole, and furious.\" | [The Relic briefly reconstitutes and erupts with stored rage.] | *A heavy Crimson detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Relic is forced together. |\n| { *A Thousand Shards* [**Ultimate**] } | \"The relic explodes — and every shard seeks a heart.\" | [The Relic detonates into a storm of sharp, angry fragments.] | *All in range suffer Grudge pressure for three turns among the shrapnel.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Broken Edge* [**Debuff**] } | \"Nothing breaks off. Nothing has left the mount volume in fifty-one years.\" | [What transfers is not a splinter but a list: at about the minute, the bearer begins naming their own preparations that were never called on, and the list is kept.] | *-10 Resilience, paid afterwards in unpaid hours closing out tasks nobody asked them to take.* **[10 Grudge DMG [Grudge]]** | When a session runs past its minute at the bench. |\n| { *The Missing Piece* [**Debuff**] } | \"There is no missing piece. The gap is eleven millimetres at baseline and it is the instrument, not an absence.\" | [Read optically, twice a session, between the two largest fragments at their closest approach. The fragments look identical at one millimetre and at eighty-eight.] | *-10 Resilience as impatience: the worker begins willing the pieces together, then helping, then reaching — three displacements on record, each costing a quarter's readings.* **[10 Grudge DMG [Grudge]]** | When a hand goes toward the mount volume. |\n| { *The Flying Shard* [**Attack**] } | \"Nothing flies, nothing strikes, and nobody has been injured here. The event was a certificate signed and filed.\" | [A widening of eight millimetres or more opens a documents search, not a field response: how many certifications passed twelve months with no posting and no written lapse.] | *Grudge pressure lands where the register says it does: on the named holders, listed rather than totalled — three reviews that gave totals were returned.* **[14-22 Grudge DMG [Grudge]]** | When the gap widens between consecutive readings. |\n| { *The Reassembled Fury* [**Attack**] } | \"Arranged, they hold for four to nine seconds and the thing works — correctly, without difficulty — and then comes apart.\" | [Fourteen bearers have written the function down in matching specification language; disagreement has never occurred and would be the most important result this holding could produce.] | *The cost is that everybody in the room has now seen there was never anything wrong with it; boards have reversed decisions on the strength of one sitting.* **[24-36 Grudge DMG [Grudge]]** | When the relic is issued to the chair of a postings board, for the sitting. |\n| { *A Thousand Shards* [**Ultimate**] } | \"It widened to eighty-eight millimetres during the proudest thing the district did that decade.\" | [No storm and no shrapnel. Four hundred workers certified against forty posts, taught properly, signed off in good faith — and the bench read the difference to the millimetre.] | *Grudge pressure distributed across every live, unused certificate on the register, until somebody posts it or lapses it in writing.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When a training intake certifies far beyond the posts that exist. |"
+        },
+        {
+          "id": "termination_row",
+          "kind": "short",
+          "careful": false,
+          "old": "| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |",
+          "new": "| **Termination / Return** | The pieces separate by themselves in four to nine seconds; there is nothing to detach and no safe-threshold extraction. The relic is returned the same day it was issued, and the bearer's list is read back by somebody else before the folder closes. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-Iα-779_Miscast_찢어진_유물.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.018  clean   606 grams  감각 묘사 (Flavor Text)\n 0.018  clean   111 grams  Operational Parameters\n 0.016  clean   385 grams  기록 (Registrum)\n 0.015  clean   517 grams  M.A.W. Equipment\n 0.002  clean   895 grams  이야기 보고 (Story Log)\n 0.002  clean   505 grams  Activation Behavior\n 0.002  clean   666 grams  Combat Record\n 0.000  clean   343 grams  관찰 기록 (Observation Log)\n 0.000  clean   328 grams  이야기 (Narratio)\n 0.000  clean   277 grams  Trivia\n 0.000  clean   272 grams  Origin\n 0.000  clean   228 grams  Appearance\n 0.000  clean   144 grams  Behavior\n 0.000  clean   103 grams  최종 관찰 (Final Observation)\n 0.000  clean    89 grams  증언 (Testimonium)\n 0.000  clean    37 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |\n   56   1  | **Resistance** | 15% against Grudge pressure; 5% against other pressure types |\n  155   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  237   6  **Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.\n  255   2  **Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.\n  259   1  **Effect:** +1 when working this entity, and the bearer takes the optical reading rather than the mount check. The charm's holder \n  311   1  The first return under the Rule of the Honoured Qualification, Year 4238. This facility held four hundred and eighty-seven live ce\n  328   1  The ground is the bench. Nine months of that programme took the gap to eighty-eight millimetres, the widest in fifty-one years. Ni\n  351   1  **After departure:** You go back and look at something you trained for and were never asked to do. Most people have one. The couns\n  357   2  **Interaction method:** On paper, and on one question: was the thing destroyed, did it fail, or was it never sent for. Write the a\n  364   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  366   6  | **Pandora's Jar** | Grouped on objects lost before completion. The Jar holds things this facility destroyed and logged as counts\n  410   1  - Ferrehan lowers the gauge; Viderehan holds it level and produces the record. Flerehan and Pugnahan are N/A against an Object and\n  414   2  - The Rule of the Honoured Qualification is a containment condition of this entity and binds the training office and the postings \n  420   1  **Faction Involvement:** SED (D-territory exploration) · the training office and the postings board, both listed because the Rule \n  425   2  **Operational interpretation:** Read this file with the certification register beside it or do not read it. Taken alone the mount \nGENERIC 0.006  (32 shared shingles)  SE-C-Iα-779_Miscast_찢어진_유물.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/779_Miscast/SE-779-A__SIDE_CODEX_Miscast.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/779_Miscast/SE-779-B__MAW-W_The_Torn_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/779_Miscast/SE-779-C__MAW-S_The_Torn_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/779_Miscast/SE-779-D__MAW-G_The_Torn_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/779_Miscast/SE-779-A__SIDE_CODEX_Miscast.md": "deb81b053e6f1a08b595264c18a38935d379475e9a88f8ea37b74e1ad9cf1037",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/779_Miscast/SE-779-B__MAW-W_The_Torn_Edge.md": "b8f7952797f7a080f61a090dfb8977b2bdca7134d63a874b16cb41e3f4d1ff26",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/779_Miscast/SE-779-C__MAW-S_The_Torn_Plate.md": "0bdb5c981c35d1b067e9b03d7f96b751f95fe6f21cd288ce78d281f46e632221",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/779_Miscast/SE-779-D__MAW-G_The_Torn_Charm.md": "b4ca6eeaf99a40613a4d71c8c44872c2255b60eef8f2f252958bf4e05abb270e",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-Iα-779_Miscast_찢어진_유물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-779_Miscast_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%9C%A0%EB%AC%BC.md \"SE-C-Iα-779_Miscast_찢어진_유물.md\")]",
+      "table_link": "[Miscast](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-779_Miscast_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%9C%A0%EB%AC%BC.md \"SE-C-Iα-779_Miscast_찢어진_유물.md\")",
+      "reading": {
+        "before_lines": 449,
+        "before_bytes": 46152,
+        "final_lines": 449,
+        "final_bytes": 47428
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 85,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
         "source_files_unchanged": 10,
         "digit_sequence_change": ""
       }

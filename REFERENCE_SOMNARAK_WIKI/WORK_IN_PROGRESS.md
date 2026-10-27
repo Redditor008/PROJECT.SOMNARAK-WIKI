@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 187 — OPEN, 4 / 5 (2026-10-27)
+## Batch 187 — OPEN, 5 / 5 (2026-10-27)
+
+**Unit 5 — Miscast `C-Iα-779`: HELD.** Two supported repairs (1 short / 1 careful; 7,560→7,762 words): all five combat rows drop flying, embedding, detonating shards for the bearer's list of uncalled preparations, the 11 mm gap, an 8 mm widening that opens a documents search, four to nine seconds of the artifact simply working, and 88 mm of over-certification; the Termination row loses an invented trauma. Batch 116 already counted set 779: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B187_05_MISCAST.md). Closure follows in this prompt.
 
 **Unit 4 — Sorrow Tide `C-Vγ-260`: HELD.** Five supported repairs (4 short / 1 careful; 7,545→7,778 words): rows 1–3 drop the cresting wave for slack, the eleven-minute onset, and being alone outdoors after the peak; the stock Appearance protocol becomes the nine-station instrument; two Flavor blocks and one Story Log stub become the pairing rule, weather-not-weapon, and a red-night excerpt. Exact set is SE-1027 (not the suffix-260 Bridge): **fresh +1 Types / +1 Weapon** / +0 SE. First application carried a fused-word typo; before-file restored, spec amended, rerun once. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B187_04_SORROW_TIDE.md).
 
