@@ -1,0 +1,191 @@
+{
+  "designation": "C-IVδ-200",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-200_Aegis_문의_수호자.md",
+  "words": 7863,
+  "sha256": "fc0f0632d46db9cd327a93d0170190f1a7fbdf61edeef1492039701cfff8ff46",
+  "unit": 5,
+  "name": "Aegis",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_05_AEGIS.md",
+  "before_words": 7863,
+  "after_words": 8293,
+  "base": "6cfaa9a8c738125de3d625e62d0f2c566d69c55d",
+  "final_sha256": "00a8edd02689c06f5eeaea18318f555c83c460cee21f1e82f1b67fc41eb0bc65",
+  "summary": "Twelve source-supported repairs (7 short / 5 careful): the Shield-Bash stops charging (six and a half centuries of ledgers place the figure nowhere but at the Gate; its two injuries were threshold answers to wrong-route re-entries), the Eternal Watch stops manning every gate in the district (a Corrupt event widens the radius in place), and Entry 2's 'Leaves the Gate to pursue' is withdrawn. All four Consequences bullets were raw template — channelling, emotional/somatic/identity breakdown, a toll 'exacted with every swing' of a blade doctrine keeps unswung, collapsing fail-safes that do not exist — and now carry the file's own record (the adopted stance, the nine-day self-ending events, the per-piece costs). The three generic Flavor lines, the crystallisation filler posing as a Director's memo, and the stock containment trivia are grounded the same way. Fresh credit +0/+0: the primary already carries three written per-piece source holds. Whole design HELD.",
+  "commentary": "Aegis is two documents stitched together: a ledger argument about decisions that cannot be unmade — 910 and rising while exile traffic falls — and a combat template in which an immovable guardian charges, its sorrow 'seeps past containment protocol', and its fail-safes collapse. The repairs keep the argument and retire the template: harm at this Gate is being read as inbound, the events end by themselves in about nine days with the cordon standing back, and the Blade charges its bearer without ever being swung. The set's accountable-return-route regime remains exactly the disagreement the primary's three source holds preserve; that prior disposition is why the counters do not move.",
+  "reasoning": "Set SE-200 identity resolved from Side A (SECC Designation C-IVδ-200 [GS], set 'Return Guard') and item codes MAW-W/S/G-200-01; the ledger's N-IIIβ-200 equipment entry is a different dossier. Sentence triage: direction doctrine, ledger/errata Apex sections, threshold challenge and interaction record are holding-specific; defects were the charging Shield-Bash and gate-manning Ultimate (against the stationary, never-elsewhere record), Entry 2's pursuit line, Entry 5's generic crystallisation memo, all four Consequences bullets (template family, including a per-swing toll for an unswung blade and nonexistent fail-safes on a Corrupt-class holding), the three stock Flavor continuations ('was holding back, and now it isn't' — this holding never escalates), and the generic containment trivia. R-18 split declared before the apply: 7 short / 5 careful. Digit sequences added are the file's own ledger figures (910/834/760) and event rates (40 per cent, 10 an interval), already stated in the frozen primary.",
+  "history": "Fresh credit barred by three written per-piece source holds already inside the primary — 'Blade source hold' (convoy mark history vs unswung cordon doctrine), 'Plate route disagreement' (open-route-conditional resistance vs one-way Gate doctrine) and 'Charm responsibility record' (missing-duty identification vs four threshold-challenge awards) — each a cross-source disposition declining to merge accounts. This review re-read Side A (111 lines) and items B/C/D whole (55/53/49 lines), confirmed identity and the held disagreements (items describe recognized arrivals and return lanes against a primary whose ledger has no returns column), and appends NO equipment entry. Types +0, Weapon +0, SE +0; counters stay 280/301, 278/287, 18/301.",
+  "holds": [
+    "Use-record fork, as the primary's source holds preserve it: items' accountable-return regime (Blade marks verified hostile crossings while civilian convoys pass; Plate resistance conditional on an open non-hostile route with a passage observer releasing the collar; Charm identifying a missing arrival medic) vs the primary's one-way Gate doctrine (Blade unswung at the outer cordon in six events, no return route supplied, four charms for threshold challenges). Neither account is a later era of the other.",
+    "Appearance forks: primary long Han-iron blade weeping Han film vs item crimson echo blade with gate-arch watermark; primary dark warm harness vs item scarred crimson armor echo warm only at current threat; primary gate-post charm vs item latch-shaped tail-charm (Tail / 4% / +3 agree; Registry generic Accessory / 5% not imported).",
+    "Side A subject-card pressure 'Grudge 29–62' vs primary Han Pressure 29–64; Side A 'Gate approach' vs primary SECTOR-E-01 / Exile's Gate — held.",
+    "Side A's passage-review doctrine (authorized returnees lowering the weapon's angle) vs the primary's six-century no-return ledger and two wrong-route injuries — the central disagreement, unmerged as both files left it.",
+    "The 910 ledger figure as live errata, the notice clerks' unanswered fresh-application submission, and the Rusted Wall's one-season pause (Year 4233, never reproduced) remain the file's open record."
+  ],
+  "split": [
+    7,
+    5
+  ],
+  "repairs": [
+    {
+      "id": "R1-shield-bash-charge",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Shield-Bash* [**Attack**] } | \"The guardian lowers its shield and charges — and the charge does not slow down.\" | [A massive shield-slam from the immovable Guardian.] | *Inflicts Grudge pressure and one crushing, defensive wound.* **[14-22 Grudge DMG [Grudge]]** | When the target challenges the Guardian. |",
+      "new": "| { *The Shield-Bash* [**Attack**] } | \"Nothing charges. The mass is simply already there, square to the passage, and meeting it wrongly is the whole of the impact.\" | [No shield-slam and no advance: six and a half centuries of ledgers record the figure nowhere but at the Gate. The two injuries in the file were workers re-entering by the wrong route, answered at the threshold.] | *Inflicts Grudge pressure; the wound on record is the procedural kind — a worker read as inbound by a post that makes no exceptions.* **[14-22 Grudge DMG [Grudge]]** | When the target challenges the Guardian — which the holding reads as an attempted return. |"
+    },
+    {
+      "id": "R2-eternal-watch-spread",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Eternal Watch* [**Ultimate**] } | \"Every gate in the field acquires a guardian — and every guardian says the same thing: no one passes.\" | [The vigil spreads to every opening in the district, and each of them begins keeping the same ledger.] | *Every worker in range takes Grudge pressure across 3 turns of blocked gates.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *The Eternal Watch* [**Ultimate**] } | \"No second guardian appears at any other gate. What spreads is the radius: the zone warps outward past the cordon marks, and every doorway inside it is kept the same way — anyone in it is treated as inbound.\" | [The vigil does not travel. Under a Corrupt event the holding intensifies in place and the ground it governs takes in more of the district.] | *Every worker in range takes Grudge pressure across 3 turns inside the widened radius; three cordons have been lost to barrier failure this way, all costed in the file.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+    },
+    {
+      "id": "R3-consequences-channelling",
+      "kind": "careful consequence correction",
+      "careful": true,
+      "old": "- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Resilience** and feeding the Sorrow Gauge.",
+      "new": "- The failure mode is adoption, not injury: the worker takes up the duty. The charge on this holding settles in as posture — counting people out of rooms, standing square to a doorway without noticing — and Resilience is what it spends, because a worker busy being a gate has stopped being anything else."
+    },
+    {
+      "id": "R4-consequences-exposure",
+      "kind": "careful consequence correction",
+      "careful": true,
+      "old": "- The longer the exposure, the deeper the wound: Aegis’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.",
+      "new": "- Long exposure is read off the second worker, who catches the returning stance before the bearer notices anything. What deepens is procedural: direction stops being a drill and becomes an opinion, and the file's two injuries were both experienced personnel who re-entered by the wrong route on routine shifts. Flerehan sessions are capped by distress, on the counsellors' instruction, because the visible grief is the dose."
+    },
+    {
+      "id": "R5-consequences-cost",
+      "kind": "short cost correction",
+      "careful": false,
+      "old": "- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.",
+      "new": "- The set charges without ever being swung: the Blade's bearer feels every exile whose return the mark prevents, the Plate slows its wearer's reactions as though the body had taken on a grudge of its own, and the Charm shortens its bearer's temper. The doctrine keeps the Blade unswung at the outer cordon; the toll is exacted anyway."
+    },
+    {
+      "id": "R6-consequences-unresolved",
+      "kind": "careful consequence correction",
+      "careful": true,
+      "old": "- Failure to achieve resolution triggers Aegis’s event protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow deepens where it already is and the zone becomes unworkable.",
+      "new": "- Unresolved, nothing collapses — there are no fail-safes on a post that predates the facility. A Corrupt event runs its course with the cordon stood back at increasing radius: the gauge opens at 40 per cent and climbs 10 an interval, the six recorded events all ended on their own and took about nine days to fall, and nobody inside the radius may be read as inbound. Nothing has ever suppressed one, and the doctrine has not failed yet."
+    },
+    {
+      "id": "R7-entry2-pursuit-line",
+      "kind": "short consistency correction",
+      "careful": false,
+      "old": "Leaves the Gate to pursue those attempting to return. Personnel feel the finality of exile and the weight of every goodbye. It does not stop legitimate exiles.",
+      "new": "It does not pursue and it does not leave: no ledger in six and a half centuries records the figure anywhere but at the Gate, and the answer to an attempted return is given at the threshold, by the post that has never moved. Personnel feel the finality of exile and the weight of every goodbye. It does not stop legitimate exiles."
+    },
+    {
+      "id": "R8-entry5-crystallisation",
+      "kind": "short flavor grounding",
+      "careful": false,
+      "old": "Field analysis confirms the sorrow accumulated over cycles at this location until the Han reached critical density and the entity crystallized.",
+      "new": "The ledger figure stands at 910 after 834 and 760, and exile traffic has fallen for a decade, so the figure is not counting departures. It matches the Decisions Office return on live errata — the number of people holding a published finding that a decision about them was wrong, and no remedy of any kind. This office signs the errata. It does not mistake them for a column for coming back."
+    },
+    {
+      "id": "R9-flavor-continued-exposure",
+      "kind": "short flavor grounding",
+      "careful": false,
+      "old": "**With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Grudge that the entity embodies. Understanding it does not make it easier.",
+      "new": "**With continued exposure:** The duty arrives in the worker's own posture: counting people out of rooms, squaring to a doorway without noticing, rehearsing a purpose for leaving before being asked. The second worker keeps the baseline for this reason — the charge here presents as conscientiousness, and the person carrying it cannot see it in themselves."
+    },
+    {
+      "id": "R10-flavor-activation",
+      "kind": "short flavor grounding",
+      "careful": false,
+      "old": "**When the entity activates:** When it activates, you understand why the containment protocols exist. The Grudge that was merely present becomes active, directed, purposeful — the Subject-Body was holding back, and now it isn't.",
+      "new": "**When the entity activates:** The zone warps outward and the radius takes in doorways that were outside it an interval ago; anyone inside is treated as inbound. The figure has not moved, the weapon has not risen, and the cordon's only instruction is to stand further back. Six events in the ledger all ended on their own."
+    },
+    {
+      "id": "R11-flavor-after-departure",
+      "kind": "short flavor grounding",
+      "careful": false,
+      "old": "**After departure:** The containment boundary holds the Subject-Body, but not the memory. Grudge residue settles into the bones like Han into the city's foundations.",
+      "new": "**After departure:** The bearer is re-assessed a week later rather than on the day, because this charge does not present on the day: the same second worker tests the returning stance and asks the reason for the last room the bearer left. Where the answer is a duty, the piece is not reissued."
+    },
+    {
+      "id": "R12-trivia-containment",
+      "kind": "short flavor grounding",
+      "careful": false,
+      "old": "- **Containment detail:** Containment is not silence. Even without an event, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.",
+      "new": "- **Containment detail:** Containment here is direction: a challenge script at every re-entry, a cordon that stands back during an event, and a ledger with no column for returns. Nothing holds the figure at the Gate — it holds itself there, which is the whole of the arrangement."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IVδ-200_Aegis_문의_수호자.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.026  clean   189 grams  Trivia\n 0.018  clean   109 grams  Operational Parameters\n 0.016  clean   821 grams  M.A.W. Equipment\n 0.008  clean   255 grams  기록 (Registrum)\n 0.005  clean   186 grams  Behavior\n 0.005  clean   778 grams  Combat Record\n 0.000  clean  1433 grams  Apex Record\n 0.000  clean   589 grams  감각 묘사 (Flavor Text)\n 0.000  clean   464 grams  이야기 (Narratio)\n 0.000  clean   336 grams  이야기 보고 (Story Log)\n 0.000  clean   219 grams  관찰 기록 (Observation Log)\n 0.000  clean   201 grams  Origin\n 0.000  clean   192 grams  Appearance\n 0.000  clean   139 grams  Containment Event Behavior\n 0.000  clean   130 grams  최종 관찰 (Final Observation)\n 0.000  clean    46 grams  SECC Classification\n 0.000  clean    40 grams  증언 (Testimonium)\n 0.000  THIN      4 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   85   4  | { *The Eternal Watch* [**Ultimate**] } | \"No second guardian appears at any other gate. What spreads is the radius: the zone war\n  148   1  **Reading the response:** A falling gauge means the immediate crisis is easing and says nothing about the sorrow underneath: on th\n  176   3  **Appearance:** a long blade of Grudge Han-iron, dark and faintly warm, that weeps a thin film of Han when swung — carried low, as\n  219   1  **Appearance:** a small charm of Grudge Han-iron, dark and warm in the palm, cast as a gate-post with the hinge worked into the ri\n  223   1  **Effect:** +3 while this holding is the subject of the cycle and nothing anywhere else: the charm reads the ledger's own register\n  241   3  | **Before use** | Wielder, piece, the day's reading, and a written baseline kept by a second person: can the bearer still state a\n  242   5  | **During use** | The charge shows as the duty arriving: the bearer starts counting people out of rooms, or stands square to a do\n  379   2  **Review requirement:** After any corruption event, Sorrow Tide, Ordeal or interaction, confirm the gauge reading, the Fracture ri\n  436   5  - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-E-01, Zone E — guards the Exile's Gate.\nGENERIC 0.004  (27 shared shingles)  SE-C-IVδ-200_Aegis_문의_수호자.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-200-A__SIDE_CODEX_Aegis.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-200-B__MAW-W_The_Gatekeepers_Blade.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-200-C__MAW-S_The_Gatekeepers_Plate.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-200-D__MAW-G_The_Gatekeepers_Charm.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-200-A__SIDE_CODEX_Aegis.md": "3197c67b4266c30b9a6d89de64da91a95e8d37770d5eead42e5ed551cdd6afb6",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-200-B__MAW-W_The_Gatekeepers_Blade.md": "b7f90a157d66072b1a803706d418fb76555ed72b9b278152b9f4dd74997f6e99",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-200-C__MAW-S_The_Gatekeepers_Plate.md": "d6d9b10964e87cb858ea6bba76be69a1d8687f37bc9eb4746b1e92bd83838c90",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-200-D__MAW-G_The_Gatekeepers_Charm.md": "cb8a187b616752b3288be0219fd09f4f7a9327cea0d0a6d1b4c767e64414746f",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IVδ-200_Aegis_문의_수호자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-200_Aegis_%EB%AC%B8%EC%9D%98_%EC%88%98%ED%98%B8%EC%9E%90.md \"SE-C-IVδ-200_Aegis_문의_수호자.md\")]",
+  "table_link": "[Aegis](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-200_Aegis_%EB%AC%B8%EC%9D%98_%EC%88%98%ED%98%B8%EC%9E%90.md \"SE-C-IVδ-200_Aegis_문의_수호자.md\")",
+  "reading": {
+    "before_lines": 445,
+    "before_bytes": 47708,
+    "final_lines": 445,
+    "final_bytes": 49867
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 65,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": "Digit sequences added (910, 834, 760, 40, 10) are the frozen primary's own Gate-ledger figures and Corrupt-event rates, already stated in its Story Log, Apex Record and Escalation Notes, carried into the repaired lines. No new figure was created and no existing sequence altered."
+  }
+}

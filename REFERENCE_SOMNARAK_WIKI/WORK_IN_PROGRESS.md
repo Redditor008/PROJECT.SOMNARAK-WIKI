@@ -1,8 +1,10 @@
 # Work In Progress
 
-## Batch 191 — OPEN, 4 / 5 (2026-10-27)
+## Batch 191 — OPEN, 5 / 5, closure next (2026-10-27)
 
 Fresh ranking of 70 pending dossiers (LC_ALL=C wc -w ascending). Queue: Somnium `C-IVγ-175`, I Alone Crossed `C-IVδ-106`, Bulwark `N-Iα-459`, Debt-Collector's Lantern `N-IIβ-250`, Aegis `C-IVδ-200`. (Queue corrected to true LC_ALL=C wc counts before any unit was reviewed; Anger Underfoot ranks 6th.) Units 1–5 are reviews 2–6 of this prompt.
+
+**Unit 5 — Aegis `C-IVδ-200`: HELD, +0.** Twelve repairs (7 short / 5 careful; 7,863→8,293 words): no charging guardian, no pursuit, no per-swing toll on an unswung blade, no collapsing fail-safes — the template layer replaced by the ledger record (910 and rising; nine-day self-ending events). Credit +0 — three per-piece source holds already inside the primary. [Evidence](SE_APPEARANCE_REVIEWS/B191_05_AEGIS.md).
 
 **Unit 4 — Debt-Collector's-Lantern `N-IIβ-250`: HELD, +0.** Four repairs (2 short / 2 careful; 7,856→7,959 words): a flameless lamp no longer burns, wounds, swings or gets smashed/lifted against the file's never-injured, never-lifted record. Credit +0 — in-file 2026-10-12 full-set review of exact set SE-1024 (SE-250 is Memory Rain). [Evidence](SE_APPEARANCE_REVIEWS/B191_04_DEBT_COLLECTORS_LANTERN.md).
 

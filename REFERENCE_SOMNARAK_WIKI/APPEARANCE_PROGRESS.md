@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B191 U4 Debt-Collector's-Lantern `N-IIβ-250` HELD, +0.** 4 repairs (2s/2c), 7,856→7,959w. Types 280/301 (93.02%), Weapon 278/287 (96.86%), SE 18/301 (5.98%); held 215 / pending 66. [Evidence](SE_APPEARANCE_REVIEWS/B191_04_DEBT_COLLECTORS_LANTERN.md).
+- **Latest: B191 U5 Aegis `C-IVδ-200` HELD, +0.** 12 repairs (7s/5c), 7,863→8,293w. Types 280/301 (93.02%), Weapon 278/287 (96.86%), SE 18/301 (5.98%); held 216 / pending 65. B191 5/5, closure next. [Evidence](SE_APPEARANCE_REVIEWS/B191_05_AEGIS.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

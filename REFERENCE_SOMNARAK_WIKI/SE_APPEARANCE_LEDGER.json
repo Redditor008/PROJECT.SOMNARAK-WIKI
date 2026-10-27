@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVδ-200": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_05_AEGIS.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2306,8 +2318,29 @@
     {
       "designation": "C-IVδ-200",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-200_Aegis_문의_수호자.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Twelve source-supported repairs (7 short / 5 careful): the Shield-Bash stops charging (six and a half centuries of ledgers place the figure nowhere but at the Gate; its two injuries were threshold answers to wrong-route re-entries), the Eternal Watch stops manning every gate in the district (a Corrupt event widens the radius in place), and Entry 2's 'Leaves the Gate to pursue' is withdrawn. All four Consequences bullets were raw template — channelling, emotional/somatic/identity breakdown, a toll 'exacted with every swing' of a blade doctrine keeps unswung, collapsing fail-safes that do not exist — and now carry the file's own record (the adopted stance, the nine-day self-ending events, the per-piece costs). The three generic Flavor lines, the crystallisation filler posing as a Director's memo, and the stock containment trivia are grounded the same way. Fresh credit +0/+0: the primary already carries three written per-piece source holds. Whole design HELD.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_05_AEGIS.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-200-A__SIDE_CODEX_Aegis.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-200-B__MAW-W_The_Gatekeepers_Blade.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-200-C__MAW-S_The_Gatekeepers_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-200-D__MAW-G_The_Gatekeepers_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-219",

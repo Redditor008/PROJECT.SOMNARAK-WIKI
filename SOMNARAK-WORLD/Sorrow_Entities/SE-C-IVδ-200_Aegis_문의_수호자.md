@@ -80,9 +80,9 @@
 |---|---|---|---|---|
 | { *The Blocking Arm* [**Debuff**] } | "The guardian extends one arm across the gateway — and the arm is wider than the passage." | [The Guardian blocks the target; the denial of passage is absolute.] | *Target suffers -10 Resilience; they are not getting through.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Gate. |
 | { *The Warning Growl* [**Debuff**] } | "A sound — not quite a voice, not quite a roar — that says, more clearly than words: turn back." | [The Guardian's threat presses on the target; their resolve weakens.] | *Target loses 10 Resilience; the warning is not a suggestion.* **[10 Grudge DMG [Grudge]]** | When the target does not retreat. |
-| { *The Shield-Bash* [**Attack**] } | "The guardian lowers its shield and charges — and the charge does not slow down." | [A massive shield-slam from the immovable Guardian.] | *Inflicts Grudge pressure and one crushing, defensive wound.* **[14-22 Grudge DMG [Grudge]]** | When the target challenges the Guardian. |
+| { *The Shield-Bash* [**Attack**] } | "Nothing charges. The mass is simply already there, square to the passage, and meeting it wrongly is the whole of the impact." | [No shield-slam and no advance: six and a half centuries of ledgers record the figure nowhere but at the Gate. The two injuries in the file were workers re-entering by the wrong route, answered at the threshold.] | *Inflicts Grudge pressure; the wound on record is the procedural kind — a worker read as inbound by a post that makes no exceptions.* **[14-22 Grudge DMG [Grudge]]** | When the target challenges the Guardian — which the holding reads as an attempted return. |
 | { *The Sealed Gate* [**Attack**] } | "The gate slams shut behind you — and now you are on this side, and the guardian is between you and the way out." | [The exit is closed from the outbound side, and the figure turns to face somebody who is now, by the ledger's own rule, inbound.] | *A heavy Crimson entrapment; the gauge jumps 15 at a stroke.* **[24-36 Grudge DMG [Grudge]]** | When anyone attempts to return. |
-| { *The Eternal Watch* [**Ultimate**] } | "Every gate in the field acquires a guardian — and every guardian says the same thing: no one passes." | [The vigil spreads to every opening in the district, and each of them begins keeping the same ledger.] | *Every worker in range takes Grudge pressure across 3 turns of blocked gates.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Eternal Watch* [**Ultimate**] } | "No second guardian appears at any other gate. What spreads is the radius: the zone warps outward past the cordon marks, and every doorway inside it is kept the same way — anyone in it is treated as inbound." | [The vigil does not travel. Under a Corrupt event the holding intensifies in place and the ground it governs takes in more of the district.] | *Every worker in range takes Grudge pressure across 3 turns inside the widened radius; three cordons have been lost to barrier failure this way, all costed in the file.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -92,10 +92,10 @@
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Resilience** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Aegis’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Aegis’s event protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow deepens where it already is and the zone becomes unworkable.
+- The failure mode is adoption, not injury: the worker takes up the duty. The charge on this holding settles in as posture — counting people out of rooms, standing square to a doorway without noticing — and Resilience is what it spends, because a worker busy being a gate has stopped being anything else.
+- Long exposure is read off the second worker, who catches the returning stance before the bearer notices anything. What deepens is procedural: direction stops being a drill and becomes an opinion, and the file's two injuries were both experienced personnel who re-entered by the wrong route on routine shifts. Flerehan sessions are capped by distress, on the counsellors' instruction, because the visible grief is the dose.
+- The set charges without ever being swung: the Blade's bearer feels every exile whose return the mark prevents, the Plate slows its wearer's reactions as though the body had taken on a grudge of its own, and the Charm shortens its bearer's temper. The doctrine keeps the Blade unswung at the outer cordon; the toll is exacted anyway.
+- Unresolved, nothing collapses — there are no fail-safes on a post that predates the facility. A Corrupt event runs its course with the cordon stood back at increasing radius: the gauge opens at 40 per cent and climbs 10 an interval, the six recorded events all ended on their own and took about nine days to fall, and nobody inside the radius may be read as inbound. Nothing has ever suppressed one, and the doctrine has not failed yet.
 
 ## Appearance
 **Primary Form:** An armoured figure half again the height of a man, squared to the Gate, in Han-crystal plate scarred the whole way down. **Stance:** the weapon hangs at the full length of the arm and has never been seen raised.
@@ -275,7 +275,7 @@ Aegis (C-IVδ-200 [GS]) carries a Subject-Body manifestation, Grudge expressed: 
 
 **Entry 2 — <Exile's Gate Watch Return, Year 4238>**
 Standing gauge 910 on the Gate ledger scale, after the 834 and the 760 of the two returns before it — equivalent to 76 per cent on the operational scale, within the recorded 60 to 80 band. Weapon lowered throughout. Outbound movements unchallenged, as always. Threshold challenges made: 1,204. Challenges omitted: none.
-Leaves the Gate to pursue those attempting to return. Personnel feel the finality of exile and the weight of every goodbye. It does not stop legitimate exiles.
+It does not pursue and it does not leave: no ledger in six and a half centuries records the figure anywhere but at the Gate, and the answer to an attempted return is given at the threshold, by the post that has never moved. Personnel feel the finality of exile and the weight of every goodbye. It does not stop legitimate exiles.
 
 **Entry 3 — <Decisions Office, standing rule>**
 A decision of this Company is final when made. There is no appeal, review, rehearing or reconsideration of a decision by any officer at any level, and no decision may be revisited on the application of the person it concerns.
@@ -285,7 +285,7 @@ The grief of watching thousands leave and knowing the Gate would never bring the
 Management: State the purpose of departure; do not attempt to return through the Gate. Work response — Flerehan: The Guardian's weapon lowers and its grief becomes visible. (Decrease); Pugnahan: Attacks anyone attempting unauthorized return. (Increase); Viderehan: Reveals the history of every exile who passed. (Stable); Ferrehan: Stands beside the worker in silence. (Decrease). It attacks only attempts to reverse the Gate's one-way function.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-Field analysis confirms the sorrow accumulated over cycles at this location until the Han reached critical density and the entity crystallized.
+The ledger figure stands at 910 after 834 and 760, and exile traffic has fallen for a decade, so the figure is not counting departures. It matches the Decisions Office return on live errata — the number of people holding a published finding that a decision about them was wrong, and no remedy of any kind. This office signs the errata. It does not mistake them for a column for coming back.
 
 ## 최종 관찰 (Final Observation)
 
@@ -304,11 +304,11 @@ The Gate stands open behind the Guardian. The figure does not move, yet every ex
 
 **At first contact:** The senses take the cordon before the eyes take the figure: Grudge pressure arriving as weight, then a chill, then a hum with nothing humming, and only then the Subject-Body resolving out of the apron — scarred Han-crystal, fever-hot, far above human height, weapon low. Most workers report the direction of the Gate before they report the guardian, which is the file's own point: the duty is the phenomenon, and the figure is wearing it.
 
-**With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Grudge that the entity embodies. Understanding it does not make it easier.
+**With continued exposure:** The duty arrives in the worker's own posture: counting people out of rooms, squaring to a doorway without noticing, rehearsing a purpose for leaving before being asked. The second worker keeps the baseline for this reason — the charge here presents as conscientiousness, and the person carrying it cannot see it in themselves.
 
-**When the entity activates:** When it activates, you understand why the containment protocols exist. The Grudge that was merely present becomes active, directed, purposeful — the Subject-Body was holding back, and now it isn't.
+**When the entity activates:** The zone warps outward and the radius takes in doorways that were outside it an interval ago; anyone inside is treated as inbound. The figure has not moved, the weapon has not risen, and the cordon's only instruction is to stand further back. Six events in the ledger all ended on their own.
 
-**After departure:** The containment boundary holds the Subject-Body, but not the memory. Grudge residue settles into the bones like Han into the city's foundations.
+**After departure:** The bearer is re-assessed a week later rather than on the day, because this charge does not present on the day: the same second worker tests the returning stance and asks the reason for the last room the bearer left. Where the answer is a duty, the piece is not reissued.
 
 ### Interaction Pattern
 
@@ -436,7 +436,7 @@ The challenge log is read at each shift handover rather than filed unread, and t
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-E-01, Zone E — guards the Exile's Gate.
 - **Recognition detail:** An armoured figure of ancient Han-crystal, scarred, fever-hot, far above human height, standing square to the Exile's Gate with its weapon held low and never raised.
 - **Record detail:** The Registrum rated the holding Moderate and recorded that it does not attack, against a Critical (δ) entity that strikes attempted returns without warning; it also named Pugnahan primary where Pugnahan is prohibited and raises the gauge. The event line read *patrols and attacks intruders* against a Corrupt classification in which the entity does not leave its position. The M.A.W. grade was blank against three δ pieces and the faction entry read Desolate-territory against a Zone E holding. All corrected. The 910 figure in the Apex Record is the Gate ledger scale, which runs to 1,200; the conversion is given in the Story Log.
-- **Containment detail:** Containment is not silence. Even without an event, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Containment here is direction: a challenge script at every re-entry, a cordon that stands back during an event, and a ledger with no column for returns. Nothing holds the figure at the Gate — it holds itself there, which is the whole of the arrangement.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-200
