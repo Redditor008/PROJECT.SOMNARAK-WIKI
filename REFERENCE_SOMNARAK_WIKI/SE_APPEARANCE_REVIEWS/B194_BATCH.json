@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 194,
   "status": "OPEN",
-  "completed_units": 0,
+  "completed_units": 5,
   "required_units": 5,
   "queue": [
     {
@@ -644,8 +644,185 @@
         "source_files_unchanged": 10,
         "digit_sequence_change": "Digit changes are the repairs themselves, documented: the Trivia look-up is corrected to the equipment blocks it summarizes (blade 10–15/50 → 7–12/40, harness 45 → 35; these are the figures the in-file review confirmed align), and the deleted template's +10% resistance and 5-per-15-seconds-past-60 damage tick disappear with the sentences they belonged to. No other figure, date, score or count was altered."
       }
+    },
+    {
+      "designation": "O-IIβ-833",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-833_Neverlast_녹슨_영혼.md",
+      "words": 8159,
+      "sha256": "62db7405df7d8ec8926222cfc20e64f71c5ca2f11c87e4282a31c4ea62626097",
+      "unit": 5,
+      "name": "Neverlast",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_05_NEVERLAST.md",
+      "before_words": 8159,
+      "after_words": 8349,
+      "base": "7d52f0cb43d29eb783f6c8ad623ec90d5f7e39e7",
+      "final_sha256": "b2df9315e3f2f7a2e92292faa96ca70e8f667114726cfbb6656abda53e93f71b",
+      "summary": "Ten source-supported repairs (5 short / 5 careful): a motionless figure loses its 1.45 m/s Speed and its launched rust-shard; three template consequences (channelled sorrow, per-swing toll, collapsing fail-safes) become the record's own facts; a truncated Resistance cell and a duplicated grade are repaired; three generic flavor rows take the holding's own measures. HELD; no credit (the primary's Use Notes already disposition the Side Witnessed Form set).",
+      "commentary": "This is the archive's purest absence-measurement file — 9,100 of 11,400 square centimetres traced in weeks containing a missed watch, a rota abolished because a booking is a promise — and its defects were all verbs from other holdings: launching, channelling, collapsing. Removing them leaves the one-sentence response procedure the file insists has never changed. Somebody sits down.",
+      "reasoning": "Set SE-833 identity resolved from Side A (O-IIβ-833 [LS]) and items carrying SE-833 / MAW-W/S/G-833-01; Registry rows 911–914 (Registry_821_to_852/833_Neverlast). Sentence triage: the Core Stat Line gave a never-moved figure 1.45 m/s and left its Resistance note mid-sentence; The Rust-Shard launched a projectile from a Subject that has never struck first; three Consequences asserted channelling, a per-swing toll (the pistol has never been discharged) and a fail-safe-collapsing breach protocol against 'never intentionally breached'; the Tool grade duplicated β; three flavor rows were the generic activation template. R-18 split declared before the apply: 5 short / 5 careful.",
+      "history": "No credit — the primary's M.A.W. Use Notes already perform the exact-set disposition: they adopt Side A's *Neverlast — Witnessed Form* / *Source Kept Distinct* resonance, the attribution limit (attendance without a promised return), the three-stage corrosion and the named-witness handover, and the Suit/Stigma blocks carry the item attribution doctrine in prose. That written disposition is the coverage event; equipment_reviews has no 833 entry and none was added. Side A (66 lines) and items B/C/D read whole (64/62/61 lines) including Appearance sections confirm it; git path history shows only the B179 import. +0 all counters.",
+      "holds": [
+        "Weapon naming: primary/Registry/item title *The Rusted Lock-Pistol* (wheel-lock horse pistol, sixteen-inch barrel, skull-pommel) vs Side set table and item body naming *Neverlast's Requiem* and filename SE-833-B__MAW-W_Neverlast_s_Requiem — figures agree (Lament 5–9 / 2 / 2 / Single / 4 / 25); the item's discharged-ball/rust-dust function vs the primary's drawn-twice, discharged-never record.",
+        "Item terminal corrosion (manifestation uses bearer as new site) and first-person/attribution regime are already integrated into the primary's Use Notes, against its own baseline-twice/weeping-on-arrival regime; both kept distinct, neither flattened.",
+        "Suit figures agree (0.4/1/1.6/0.8; 4/20); primary undyed-grey Han-silk keeping the sitter's crease vs item functional resistance record. Stigma Tail / 5% / +1 agree; Registry generic Accessory / 5% identical here, with the primary's watch-finished conferral and never-to-a-promiser condition unrecorded in item D.",
+        "Pugnahan: Side/source-trace 'Fights back as aggression fuels its sorrow' vs the primary's walkout doctrine in which Pugnahan raises the spread and both authorisations are kept with names; the figure's own rage-at-being-ignored (Watch Record) is acknowledged by the file itself as the entity's, against letters that never once express anger.",
+        "The unwithdrawn Year 4233 word-sending application, the unpublished rota, 1,180 null entries and the unrecovered friend's name remain open institutional record, untouched."
+      ],
+      "split": [
+        5,
+        5
+      ],
+      "repairs": [
+        {
+          "id": "R1-tool-grade",
+          "kind": "short factual correction",
+          "careful": false,
+          "old": "| **Tool / M.A.W. grade** | β · β (Moderate) |",
+          "new": "| **Tool / M.A.W. grade** | β (Moderate) |"
+        },
+        {
+          "id": "R2-speed",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Speed** | 1.45 m/s |",
+          "new": "| **Speed** | None — the figure is motionless and has never moved. The only rate on this record is the spread's: roughly a metre a minute along the floor while the cell is empty, halting the turn somebody sits down. |"
+        },
+        {
+          "id": "R3-resistance-completion",
+          "kind": "short factual completion",
+          "careful": false,
+          "old": "and the only instrument that has ever halted it is somebody sitting down |",
+          "new": "and the only instrument that has ever halted it is somebody sitting down in the chair and staying there. |"
+        },
+        {
+          "id": "R4-rust-shard",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Rust-Shard* [**Attack**] } | \"A flake of corroded soul, hardened and sharp, detaches and flies.\" | [ A rust-spirit shard launches.] | *Inflicts Lament pressure and one wound of spiritual oxidation.* **[14-22 Lament DMG [Lament]]** | When the Soul is touched. |",
+          "new": "| { *The Rust-Shard* [**Attack**] } | \"A flake comes off the left shoulder, where the flaking is heaviest, and settles on whoever is sitting closest. Nothing is launched and nothing is aimed; the figure has never struck first.\" | [The corrosion sheds and is carried out on the worker, which is how the fortnight of noticing every late arrangement begins.] | *Inflicts Lament pressure; the wound is a schedule recalled in order.* **[14-22 Lament DMG [Lament]]** | When a watch is sat beside it — the only contact this record contains. |"
+        },
+        {
+          "id": "R5-consequence-resistance",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Clarity** and feeding the Sorrow Gauge.",
+          "new": "- Nothing is channelled and nobody is destroyed. The failure is an empty chair: the reading rises on absence of any kind, and it rises whether or not the absence had anything to do with this cell."
+        },
+        {
+          "id": "R6-consequence-maw",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.",
+          "new": "- The M.A.W. is never costless, and the toll is not exacted per swing: the pistol has been drawn twice in eleven years and discharged never, and the costs on file are weeping on arrival, numbness to minor joys, and time slowed inside somebody else's crisis."
+        },
+        {
+          "id": "R7-consequence-breach",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- Failure to achieve resolution triggers Neverlast’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.",
+          "new": "- It has never intentionally breached and has no breach protocol. Unresolved, the rust leaves the traced edge toward where the rota used to hang, the new area is permanent by the week, and the whole of the response is unchanged: somebody sits down."
+        },
+        {
+          "id": "R8-flavor-continued",
+          "kind": "short flavor grounding",
+          "careful": false,
+          "old": "**With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Lament that the entity embodies. Understanding it does not make it easier.",
+          "new": "**With continued exposure:** The hour organises itself around the reach and the overlay. The first impression gives way to something more precise: a worker who has begun, without deciding to, keeping a private account of every arrangement they are currently late for."
+        },
+        {
+          "id": "R9-flavor-activates",
+          "kind": "short flavor grounding",
+          "careful": false,
+          "old": "**When the entity activates:** When it activates, you understand why the containment protocols exist. The Lament that was merely present becomes active, directed, purposeful — the Subject-Lament was holding back, and now it isn't.",
+          "new": "**When the entity activates:** Nothing in the cell changes quickly, because nothing ever has: the spread passes the traced edge at roughly a metre a minute, metal in its path fatigues to the touch, and the figure itself is still reaching at exactly the angle on the sheet."
+        },
+        {
+          "id": "R10-flavor-after",
+          "kind": "short flavor grounding",
+          "careful": false,
+          "old": "**After departure:** The containment boundary holds the Subject-Lament, but not the memory. Lament residue settles into the bones like Han into the city's foundations.",
+          "new": "**After departure:** For about a fortnight the worker notices every appointment they are late for, and workers who sat the full watch report greater difficulty leaving appointments unkept anywhere else in their lives. The fortnight is entered against the holding rather than the person."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IIβ-833_Neverlast_녹슨_영혼.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.025  clean   238 grams  Appearance\n 0.020  clean   662 grams  Combat Record\n 0.019  clean   154 grams  Breach Behavior\n 0.017  clean   119 grams  Operational Parameters\n 0.009  clean   463 grams  기록 (Registrum)\n 0.004  clean   710 grams  감각 묘사 (Flavor Text)\n 0.004  clean   831 grams  M.A.W. Equipment\n 0.000  clean   898 grams  Watch Record\n 0.000  clean   451 grams  이야기 보고 (Story Log)\n 0.000  clean   318 grams  Origin\n 0.000  clean   302 grams  이야기 (Narratio)\n 0.000  clean   275 grams  관찰 기록 (Observation Log)\n 0.000  clean   266 grams  Trivia\n 0.000  clean   181 grams  Behavior\n 0.000  clean   135 grams  최종 관찰 (Final Observation)\n 0.000  clean    40 grams  증언 (Testimonium)\n 0.000  clean    39 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   54   4  | **Resistance** | 25% against Lament pressure; 15% against other pressure types. Nothing is rated against the spread, which is no\n   84   7  | { *The Rusted Afterlife* [**Ultimate**] } | \"Everything the corrosion has ever touched begins to fatigue at once, and the air ta\n   90   2  3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Remain with it and acknowledge the\n  124   6  | **Identification** | Verify these observations against the SECC code before work or contact begins; the archive holds more than \n  168   3  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each watch booked in advance and then missed, facility-wide, not only\n  247   3  | **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else: what the wielder is currently \n  322   1  Neverlast is one of the Old Lament records, and the four relations below are the ones the archive will support. All four concern a\n  331   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  387   4  **Review requirement:** After any spread, breach, Sorrow Tide or joint session, re-take the measurements before the next work cycl\nGENERIC 0.006  (34 shared shingles)  SE-O-IIβ-833_Neverlast_녹슨_영혼.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/833_Neverlast/SE-833-A__SIDE_CODEX_Neverlast.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/833_Neverlast/SE-833-B__MAW-W_Neverlast_s_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/833_Neverlast/SE-833-C__MAW-S_Neverlast_s_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/833_Neverlast/SE-833-D__MAW-G_Neverlast_s_Crown.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/833_Neverlast/SE-833-A__SIDE_CODEX_Neverlast.md": "8136dd470467cfe27ab60c7f54bf1e9a5d8e7e3e9bd92647c4cb98e546c780c9",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/833_Neverlast/SE-833-B__MAW-W_Neverlast_s_Requiem.md": "76cb3f8f2f0ee3085df7c0c7a915c9620b4448df6fdd81e14a855d816f4e37e2",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/833_Neverlast/SE-833-C__MAW-S_Neverlast_s_Shroud.md": "f4e1552484ab163647ce356b39fd3e6f1eef0e0eeedd291094d18a526e55e99a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/833_Neverlast/SE-833-D__MAW-G_Neverlast_s_Crown.md": "2709c61b665b9daf166442a685e0f41bc1b87e7f7b50c9756e7b3e7b1d908ecc",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IIβ-833_Neverlast_녹슨_영혼](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md \"SE-O-IIβ-833_Neverlast_녹슨_영혼.md\")]",
+      "table_link": "[Neverlast](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md \"SE-O-IIβ-833_Neverlast_녹슨_영혼.md\")",
+      "reading": {
+        "before_lines": 459,
+        "before_bytes": 49251,
+        "final_lines": 459,
+        "final_bytes": 50166
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 50,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": "Sole digit change: the template Speed figure 1.45 m/s is removed from a figure that has never moved; the record's only rate (the spread at roughly a metre a minute) is restated in words already present in the file. No other figure, date, score or count was altered."
+      }
     }
   ],
   "opened_at": "2026-10-27",
-  "completed": 4
+  "completed": 5
 }

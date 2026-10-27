@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B194 U4 Frozen Echo `C-IIIγ-609` HELD, credit-barred, +0.** 6 repairs (2s/4c), 8,146→8,265w. Types 285/301 (94.68%), Weapon 283/287 (98.61%), SE 18/301 (5.98%); held 230 / pending 51; B194 stays OPEN 4/5. [Evidence](SE_APPEARANCE_REVIEWS/B194_04_FROZEN_ECHO.md).
+- **Latest: B194 U5 Neverlast `O-IIβ-833` HELD, credit-barred, +0.** 10 repairs (5s/5c), 8,159→8,349w. Types 285/301 (94.68%), Weapon 283/287 (98.61%), SE 18/301 (5.98%); held 231 / pending 50. [Evidence](SE_APPEARANCE_REVIEWS/B194_05_NEVERLAST.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

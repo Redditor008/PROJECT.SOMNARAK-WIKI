@@ -8,9 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 194 — OPEN, 4 / 5 (2026-10-27)
+## Batch 194 — OPEN, 5 / 5 (2026-10-28)
 
-Fresh ranking of 55 pending (wc -w ascending). Queue: `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833` Unit 4 — **Frozen Echo `C-IIIγ-609`: HELD; credit-barred, +0.** 6 repairs (2s/4c; 8,146→8,265 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_04_FROZEN_ECHO.md).
+Fresh ranking of 55 pending (wc -w ascending). Queue: `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833` Unit 5 — **Neverlast `O-IIβ-833`: HELD; credit-barred, +0.** 10 repairs (5s/5c; 8,159→8,349 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_05_NEVERLAST.md).
+
+Unit 4 — **Frozen Echo `C-IIIγ-609`: HELD; credit-barred, +0.** 6 repairs (2s/4c; 8,146→8,265 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_04_FROZEN_ECHO.md).
 
 Unit 3 — **Sleeping Tree `O-IIIγ-374`: HELD; credit-barred, +0.** 7 repairs (4s/3c; 8,140→8,298 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_03_SLEEPING_TREE.md).
 
