@@ -432,8 +432,143 @@
         "source_files_unchanged": 10,
         "digit_sequence_change": ""
       }
+    },
+    {
+      "designation": "N-IIβ-250",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-250_Debt-Collector_s-Lantern_추징관의_등불.md",
+      "words": 7856,
+      "sha256": "da4ebf83c12f98371c3267dc9d4376883eda341f683c30da144670cbd846e938",
+      "unit": 4,
+      "name": "Debt-Collector's-Lantern",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_04_DEBT_COLLECTORS_LANTERN.md",
+      "before_words": 7856,
+      "after_words": 7959,
+      "base": "ea784d6323a6afaaed3d39443a176dc7b9f65e24",
+      "final_sha256": "6453dba2525ade100e4115e071e69687cd772106fe7763d387a27df7b8baca46",
+      "summary": "Four source-supported repairs (2 short / 2 careful): the Burning Beam no longer burns or wounds from a raised lantern — the light is tested flameless and heatless, the threat record states 'it injures nobody and has never injured anybody', and no authority has ever lifted the lantern off its mount — and the Full Reveal's trigger is no longer the lantern being smashed (its glass has not broken in nine years) but the documented failed-cycle radius event. The Searching Light stops swinging the fixed lantern, and the untranslated row name The揭露 is restored to The Exposure. Fresh credit +0/+0: the primary carries a dated full-set source review (2026-10-12) of exact set SE-1024. Whole design HELD.",
+      "commentary": "This dossier's real subject is an incentive: a yield target payable only in failed cycles, minuted as 'correct in all three parts' and still standing. Its combat table was the one place using a different physics — a flameless lamp burning people, raised by a hand the file forbids, smashed by a trigger from some other holding's template. The repairs return the table to the file's own economics: the harm is being itemised in public, and the big reveal happens at the failed cycle, which is when this wing's light actually takes more of the Row. The suffix discipline mattered here: SE-250 is Memory Rain, and the exact set is SE-1024, already reviewed inside the file — so no equipment credit moves.",
+      "reasoning": "Exact set identity: SE-1024 (Side A 'Source SECC Designation N-IIβ-250 [WO]'; Registry rows 258–261). SE-250 is Memory Rain and UNK_250 is The Extinguished — neither is this set; the Batch 173 equipment entry N-IVγ-250 is a different dossier. Sentence triage: consequences, radius doctrine, dimming-log analysis and yield section are holding-specific; defects were the Burning Beam (burning/wound/raised-lantern claims against flameless-tested light, the never-injured record and the never-lifted mount), the Full Reveal trigger 'When the Lantern is smashed' (glass unbroken nine years; the filed event is the failed-cycle radius step), the swinging lantern in the Searching Light flavor, and the untranslated row name The揭露. R-18 split declared before the apply: 2 short / 2 careful. The A-Relic log-and-method block is self-annotated template retained by the file with its own caveats and is untouched; the set's 'entity-specific management condition' phrase is cross-file binding-rule shorthand whose content the Operational Record states in full, and is also untouched. Digits unchanged.",
+      "history": "Fresh credit barred by the in-file **Full-set source review (2026-10-12)**: it reviews the A-Relic β overview and every local M.A.W. claim against Side SE-1024-A, items SE-1024-B/C/D, Registry SE-1024-A–D, Master M.A.W. 475–477, the Entity Codex row, Tale 159 and archetypes MAW-W-250/1024, records the Hand-Cannon/Lantern identity dispute, the 2026-09-19 redesign and repo-wide shape-pass chronology, and normalizes nothing. This review re-read Side A (66 lines) and items B/C/D whole (59/82/79 lines, including their duplicated trailing template blocks naming 'The Debt Mantle'/'The Debt Lantern' — sources not edited) and confirms identity and holds; NO equipment entry appended (the N-IVγ-250 entry at Batch 173 belongs to another dossier). Types +0, Weapon +0, SE +0; counters stay 280/301, 278/287, 18/301.",
+      "holds": [
+        "Weapon identity, as the in-file review held it: primary 'The Vigil Hand-Cannon' (GUN) vs Side/item/Master-detail 'The Collector's Vigil-Lantern' (RANGE projector) with identical figures (Weight 6–10 / 3 / Range 4 Long / 4 / 25); archetypes MAW-W-250 (Short) and MAW-W-1024 (Close) map to neither; item filename 'The Debt Maul' matches neither name. No alias, category or band normalized.",
+        "Suit: primary stiff oilskin trench-coat vs item 'Heavy Oilskin Coat & Lead-Weighted Stole' (resistances 1.0/1.0/1.5/0.5, max 4, 20 agree); item C's duplicated tail calls it 'The Debt Mantle'.",
+        "Stigma Eye/Face / 5% / detection-and-Resolve agree across primary, Side and item D vs Registry generic Accessory; item D's duplicated tail calls it 'The Debt Lantern'.",
+        "Entry 5's archive note (lantern found outside its sealed case twice, in corridors, unreported) stands against the fixed-mount, never-lifted record — an anomaly the file prints without resolving; preserved as found.",
+        "The yield instruction rewarding failure, the fourteen named staff carrying its cost, and the never-laid decoupling proposal remain the file's open institutional record."
+      ],
+      "split": [
+        2,
+        2
+      ],
+      "repairs": [
+        {
+          "id": "R1-burning-beam",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Burning Beam* [**Attack**] } | \"The lantern flares — and the concentrated light of exposed debt burns.\" | [A focused lantern-beam strikes.] | *Inflicts Weight pressure and one wound of illuminated obligation.* **[14-22 Weight DMG [Weight]]** | When the Lantern is raised. |",
+          "new": "| { *The Burning Beam* [**Attack**] } | \"The lantern brightens on one figure — and what concentrates is not heat; the light has been tested and gives none. What concentrates is the entry.\" | [The light settles on a single obligation and stays there until it is legible to everyone standing in the room.] | *Inflicts Weight pressure; the harm is the itemisation made public, and the threat record stands: it injures nobody and has never injured anybody.* **[14-22 Weight DMG [Weight]]** | When an obligation enters the light and is not admitted. The Lantern is not lifted, on this trigger or any other. |"
+        },
+        {
+          "id": "R2-full-reveal-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Reveal* [**Attack**] } | \"The lantern shines at full power — every debt, every obligation, every unpaid thing, exposed at once.\" | [The Lantern's total illumination is overwhelming.] | *A heavy Black exposure; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Lantern is smashed. |",
+          "new": "| { *The Full Reveal* [**Attack**] } | \"The lantern shines at full power — every debt, every obligation, every unpaid thing, exposed at once.\" | [The Lantern's total illumination is overwhelming.] | *A heavy Black exposure; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | At the close of a failed cycle, when the lit edge passes the floor mark and the obligations in the new ground become visible to bystanders. The glass has not broken in nine years and smashing is not an event this file records. |"
+        },
+        {
+          "id": "R3-searching-light-swing",
+          "kind": "short consistency correction",
+          "careful": false,
+          "old": "| { *The Searching Light* [**Debuff**] } | \"The lantern swings — and where its light falls, your debts become visible, written on your skin.\" | [The Lantern's beam exposes the target's obligations; they are laid bare.] | *Target suffers -10 Resolve; everything they owe is illuminated.* **[10 Weight DMG [Weight]]** | When the Lantern's light touches them. |",
+          "new": "| { *The Searching Light* [**Debuff**] } | \"The lantern does not move; the light does — and where it settles, your debts become visible, written on your skin.\" | [The Lantern's beam exposes the target's obligations; they are laid bare.] | *Target suffers -10 Resolve; everything they owe is illuminated.* **[10 Weight DMG [Weight]]** | When the Lantern's light touches them. |"
+        },
+        {
+          "id": "R4-exposure-row-name",
+          "kind": "short translation restoration",
+          "careful": false,
+          "old": "| { *The揭露* [**Debuff**] } | \"The light lingers — and the longer it stays on you, the more debts it finds, and the deeper they go.\" | [The Lantern's scrutiny deepens; the target's hidden debts surface.] | *Target loses 10 Resolve; the debts are older and larger than they knew.* **[10 Weight DMG [Weight]]** | When the target stays in the light. |",
+          "new": "| { *The Exposure* [**Debuff**] } | \"The light lingers — and the longer it stays on you, the more debts it finds, and the deeper they go.\" | [The Lantern's scrutiny deepens; the target's hidden debts surface.] | *Target loses 10 Resolve; the debts are older and larger than they knew.* **[10 Weight DMG [Weight]]** | When the target stays in the light. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIβ-250_Debt-Collector_s-Lantern_추징관의_등불.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.029  clean   238 grams  기록 (Registrum)\n 0.028  clean   177 grams  Trivia\n 0.017  clean   716 grams  M.A.W. Equipment\n 0.016  clean   244 grams  관찰 기록 (Observation Log)\n 0.013  clean   634 grams  Combat Record\n 0.013  clean   478 grams  감각 묘사 (Flavor Text)\n 0.000  clean  1346 grams  Watch Record\n 0.000  clean   395 grams  이야기 (Narratio)\n 0.000  clean   394 grams  Activation Behavior\n 0.000  clean   223 grams  Operational Parameters\n 0.000  clean   207 grams  Appearance\n 0.000  clean   143 grams  Origin\n 0.000  clean   134 grams  이야기 보고 (Story Log)\n 0.000  clean   104 grams  Behavior\n 0.000  clean    99 grams  최종 관찰 (Final Observation)\n 0.000  clean    52 grams  증언 (Testimonium)\n 0.000  clean    36 grams  SECC Classification\n 0.000  clean    28 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   85   2  | { *The Full Reveal* [**Attack**] } | \"The lantern shines at full power — every debt, every obligation, every unpaid thing, expos\n   86   6  | { *The Spotlight* [**Ultimate**] } | \"The lantern's light fills the field — and beneath it, everyone's debts are visible, and ev\n  275   1  | **At limit** | Duration, activations, attribute change, rejection signs, final radius, and whether the operator's declared oblig\n  280  11  **Full-set source review (2026-10-12):** Reviewed the completed `A-Relic (Arcanum) · β` overview, all local Weapon/Suit/Stigma cla\n  298   2  | **Initial exposure** | The observer identifies Debt-Collector's-Lantern as an Object/Place with Object-Weight manifestation. The\n  303   2  **Observation method:** Measure, card, chalk, and write down what was said. The form here is the sorrow and not a forecast: a man \n  350   2  **Interaction method:** Baseline each party alone over several cycles — intensity, radius, gauge — before any joint observation. R\n  357   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  363   3  **Interaction procedure:** Solo baselines first, across several cycles, with intensity, radius and gauge established for each part\n  408   7  **Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the radius be\n  484   5  - **Field detail:** Its defining element is Weight, and its registered location is Zone C, Collector's Row — ambient.\nGENERIC 0.007  (43 shared shingles)  SE-N-IIβ-250_Debt-Collector_s-Lantern_추징관의_등불.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-A__SIDE_CODEX_Debt_Collector_s_Lantern.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-B__MAW-W_The_Debt_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-C__MAW-S_The_Debt_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-D__MAW-G_The_Debt_Lantern.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-A__SIDE_CODEX_Debt_Collector_s_Lantern.md": "0d972765e90f24a3ec7bc649f3fef66467176a7822356f0fc6c03dcff0b29f69",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-B__MAW-W_The_Debt_Maul.md": "60cc408a0f8307860d5e22dfc9799031e7fe2d1458fb38edde2ca7f1d9593441",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-C__MAW-S_The_Debt_Mantle.md": "62530cd6535d38b55a14cb9b815f0993a4929e3884cfe074e3e825e7059fb498",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-D__MAW-G_The_Debt_Lantern.md": "b625f83c7142766e746e67b012ef0bcae8f7f6b0d01021304daf7281a0416b62",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IIβ-250_Debt-Collector_s-Lantern_추징관의_등불](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-250_Debt-Collector_s-Lantern_%EC%B6%94%EC%A7%95%EA%B4%80%EC%9D%98_%EB%93%B1%EB%B6%88.md \"SE-N-IIβ-250_Debt-Collector_s-Lantern_추징관의_등불.md\")]",
+      "table_link": "[Debt-Collector's-Lantern](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-250_Debt-Collector_s-Lantern_%EC%B6%94%EC%A7%95%EA%B4%80%EC%9D%98_%EB%93%B1%EB%B6%88.md \"SE-N-IIβ-250_Debt-Collector_s-Lantern_추징관의_등불.md\")",
+      "reading": {
+        "before_lines": 493,
+        "before_bytes": 48359,
+        "final_lines": 493,
+        "final_bytes": 48899
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 66,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": ""
+      }
     }
   ],
   "opened_at": "2026-10-27",
-  "completed": 3
+  "completed": 4
 }

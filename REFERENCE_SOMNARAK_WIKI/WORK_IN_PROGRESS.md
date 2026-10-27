@@ -1,8 +1,10 @@
 # Work In Progress
 
-## Batch 191 — OPEN, 3 / 5 (2026-10-27)
+## Batch 191 — OPEN, 4 / 5 (2026-10-27)
 
 Fresh ranking of 70 pending dossiers (LC_ALL=C wc -w ascending). Queue: Somnium `C-IVγ-175`, I Alone Crossed `C-IVδ-106`, Bulwark `N-Iα-459`, Debt-Collector's Lantern `N-IIβ-250`, Aegis `C-IVδ-200`. (Queue corrected to true LC_ALL=C wc counts before any unit was reviewed; Anger Underfoot ranks 6th.) Units 1–5 are reviews 2–6 of this prompt.
+
+**Unit 4 — Debt-Collector's-Lantern `N-IIβ-250`: HELD, +0.** Four repairs (2 short / 2 careful; 7,856→7,959 words): a flameless lamp no longer burns, wounds, swings or gets smashed/lifted against the file's never-injured, never-lifted record. Credit +0 — in-file 2026-10-12 full-set review of exact set SE-1024 (SE-250 is Memory Rain). [Evidence](SE_APPEARANCE_REVIEWS/B191_04_DEBT_COLLECTORS_LANTERN.md).
 
 **Unit 3 — Bulwark `N-Iα-459`: HELD, +0.** One careful repair (7,855→7,911 words): the Ultimate stops waking every wall in the field for an entity that has never woken in thirty years. Credit +0 — the primary already carries a dated full-set source review with the exact-pair Weapon disposition. [Evidence](SE_APPEARANCE_REVIEWS/B191_03_BULWARK.md).
 

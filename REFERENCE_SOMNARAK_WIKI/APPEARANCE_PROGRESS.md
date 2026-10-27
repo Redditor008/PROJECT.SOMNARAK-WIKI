@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B191 U3 Bulwark `N-Iα-459` HELD, +0.** 1 careful repair, 7,855→7,911w. Types 280/301 (93.02%), Weapon 278/287 (96.86%), SE 18/301 (5.98%); held 214 / pending 67. [Evidence](SE_APPEARANCE_REVIEWS/B191_03_BULWARK.md).
+- **Latest: B191 U4 Debt-Collector's-Lantern `N-IIβ-250` HELD, +0.** 4 repairs (2s/2c), 7,856→7,959w. Types 280/301 (93.02%), Weapon 278/287 (96.86%), SE 18/301 (5.98%); held 215 / pending 66. [Evidence](SE_APPEARANCE_REVIEWS/B191_04_DEBT_COLLECTORS_LANTERN.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

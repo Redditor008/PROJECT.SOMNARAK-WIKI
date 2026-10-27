@@ -8,9 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 191 — OPEN, 3 / 5 (2026-10-27)
+## Batch 191 — OPEN, 4 / 5 (2026-10-27)
 
 Fresh ranking of 70 pending (wc -w ascending). Queue: Somnium `C-IVγ-175`, I Alone Crossed `C-IVδ-106`, Bulwark `N-Iα-459`, Debt-Collector's Lantern `N-IIβ-250`, Aegis `C-IVδ-200` (reviews 2–6 of this prompt).
+
+Unit 4 — **Debt-Collector's-Lantern `N-IIβ-250`: HELD, +0.** 4 repairs (2s/2c; 7,856→7,959 words): combat table returned to flameless, never-lifted physics; credit barred by in-file SE-1024 review. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_04_DEBT_COLLECTORS_LANTERN.md).
 
 Unit 3 — **Bulwark `N-Iα-459`: HELD, +0.** 1 careful repair (7,855→7,911 words): modelled-only Ultimate; credit barred by the in-file 2026-10-13 full-set review. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_03_BULWARK.md).
 
