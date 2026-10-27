@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIβ-135": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_03_REM.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -1241,8 +1253,29 @@
     {
       "designation": "C-IIβ-135",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-135_Rem_꿈의_조각.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Three source-supported repairs (1 short / 2 careful): the two template catastrophe lines in Consequences — a four-harm 'full documented manifestation' claim and a 'defaults to its documented breach' claim — are replaced with this holding's actual documented failures (the operative begins supplying the dream's unfinished parts; panic, drowsiness and -2 Movement Speed on a forced break; an unworked watch loses only the record, since there is no breach on record and no breach counter). The generic continued-exposure Flavor becomes the sheet reading the Log and Method table already documents. First independent full-set source review of SE-135: fresh +1 Types / +1 Weapon; whole design remains HELD, SE +0.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_03_REM.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/135_Rem/SE-135-A__SIDE_CODEX_Rem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/135_Rem/SE-135-B__MAW-W_The_Warm_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/135_Rem/SE-135-C__MAW-S_The_Warm_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/135_Rem/SE-135-D__MAW-G_The_Warm_Shard.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIβ-170",
@@ -8528,6 +8561,14 @@
       "batch": 188,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_03_DETERIORATA.md",
       "history_proof": "Exact SE-130 / Deteriorata / Saint's Maul search across CHANGELOG, both archived volumes, WORK_IN_PROGRESS and the evidence directory found prose/couple passes only (B31u4, B66u8); no earlier independent full-set or exact-pair review, no unit evidence file, no in-file full-set review block.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "C-IIβ-135",
+      "batch": 189,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_03_REM.md",
+      "history_proof": "Fresh exact135source pair/fullset review. Complete evidence/CHANGELOG/WIP designation, SE-135 and 'Levitating Oneiric' history search finds only pending fingerprints in OPEN/CLOSE files (B164 mention is an unselected pending fingerprint; B164 queue/units are five other dossiers); the primary carries no in-file cross-source or full-set review block; equipment_reviews has no 135 entry; git path history shows only the B179 import (87f1a01). Side A (183 lines) and items B/C/D read whole: item Appearance sections match the primary's paragraphs; Registry rows 382-385 confirm identity; primary prism combat file vs item Wake Line/First Cue, Warm filename titles, and both cost forks held unmerged. Thus new +1 Types/+1 Weapon, no SE credit (whole design HELD).",
       "all_types_credit": true,
       "weapon_credit": true
     }

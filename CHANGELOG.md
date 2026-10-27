@@ -8,9 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 189 — OPEN, 2 / 5 (2026-10-27)
+## Batch 189 — OPEN, 3 / 5 (2026-10-27)
 
-**Unit 2 — Sleeping Weight `C-IVδ-357`: HELD — No change.** Full re-read; all five checks pass on the untouched file (7624 words, byte-identical to the opening fingerprint); Batch 113 in-file review already covers the equipment identity questions: +0/+0/+0. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_02_SLEEPING_WEIGHT.md). Unit 1 Aphonia HELD (1 structural repair). Completed 2/5; No change 1; held 203 / pending 78.
+**Unit 3 — Rem `C-IIβ-135`: HELD — fresh +1 Types / +1 Weapon.** Three repairs (1 short / 2 careful; 7635→7763 words); five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_03_REM.md). Unit 2 Sleeping Weight HELD — No change; Unit 1 Aphonia HELD. Completed 3/5; No change 1; held 204 / pending 77. Counters: Types 275/301, Weapon 273/287, SE 18/301.
 
 ## Batch 188 — CLOSED, 5 / 5 (2026-10-27)
 

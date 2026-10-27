@@ -1,8 +1,8 @@
 # Work In Progress
 
-## Batch 189 — OPEN, 2 / 5 (2026-10-27)
+## Batch 189 — OPEN, 3 / 5 (2026-10-27)
 
-**Unit 2 — Sleeping Weight `C-IVδ-357`: HELD — No change.** The complete file was re-read; every section is already entity-specific, the in-file Batch 113 cross-source review already dispositions the SE-1034/SE-357 identity tangle, and all five checks pass on the untouched file (wikistd True; sect GENERIC 0.000). No source-supported repair exists, so none was invented: the primary is byte-identical to the opening fingerprint (7,624 words). +0/+0/+0. [Evidence](SE_APPEARANCE_REVIEWS/B189_02_SLEEPING_WEIGHT.md). Unit 1 Aphonia HELD (1 structural repair; [evidence](SE_APPEARANCE_REVIEWS/B189_01_APHONIA.md)). Queue: `C-IIβ-135`, `N-IIIγ-184`, `N-IIβ-627`.
+**Unit 3 — Rem `C-IIβ-135`: HELD — fresh +1 Types / +1 Weapon.** Three supported repairs (1 short / 2 careful; 7,635→7,763 words): the two template catastrophe lines in Consequences become this holding's documented failures (the operative starts finishing the dream; an unworked watch loses only the record — no breach exists here), and the generic continued-exposure Flavor becomes the sheet reading. First independent full-set review of SE-135 by negative proof. [Evidence](SE_APPEARANCE_REVIEWS/B189_03_REM.md). Unit 2 Sleeping Weight HELD — No change; Unit 1 Aphonia HELD. Queue: `N-IIIγ-184`, `N-IIβ-627`. Counters now Types 275/301, Weapon 273/287, SE 18/301.
 
 ## Batch 188 — CLOSED, 5 / 5 (2026-10-27)
 

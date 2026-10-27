@@ -94,9 +94,9 @@
 ### Consequences
 
 - Personnel who remain inside a showing past their turn lose Clarity quietly rather than suddenly. The reverie returns +20 Composure on waking and takes something unmeasured out of the return, and the two Wardens who had to be carried off the drift both reported afterwards that they had understood where they were and chosen not to move.
-- Extended contact risks Rem’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
+- Extended contact does not wound anybody. Past two minutes the showing stops belonging to the shard and starts belonging to the operative, who has begun supplying the unfinished parts themselves — the one failure the whole procedure exists to prevent. Breaking contact by force brings acute panic, then drowsiness and -2 Movement Speed; two Wardens have had to be carried out of the drift, and both asked to be taken back before the watch was over.
 - Every piece in this set is drawn from the same shard and carries the same cost in the column beside it: microsleep while resting, for the shroud; faint violet reflections in mirrors, for the orb; cognitive drain while the cage is held, for the prisms. The grade records only how cleanly the archetype came off Rem. It does not measure what the wearer pays, and the set is issued one rotation at a time for that reason.
-- Without timely resolution, Rem defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- An unworked cycle changes nothing at the Gates and the file says so: no breach on record, no breach counter kept, and the drift unmoved by a finger's width. What an unworked watch loses is the record — a showing nobody sheeted, two accounts agreeing where nobody caught the agreement. The forms tally goes on moving whether or not anyone was there to count it.
 
 ## Appearance
 **Physical Form:** A shard of the Dream realm that will not settle, cycling between an interior, a face and a single warm tear. **Movement:** none beyond the flicker; it has hung in the same half-metre since the day it came loose.
@@ -345,7 +345,7 @@ A shard floats beside the Dream Gates. A room forms around it, then a face, then
 
 **At first contact:** Something at chest height that your eye cannot finish resolving. Hold on it and it is an interior — a corridor, a table, a stair — and then a face you half know, and then one warm tear hanging in the air. Whoever is standing beside you is watching something else entirely, and the order is that neither of you says what it is until the sheets are in.
 
-**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Lament presses hardest, where it recedes, where the Subject-Dream lets you breathe.
+**With continued exposure:** The showing repeats, and the sheet gives the operative away before they notice anything themselves: the account of what they were shown grows longer while their account of the room they are standing in grows shorter. That is the reading the second worker times from outside the drift, against the watch glass rather than along with it.
 
 **When the entity activates:** Sleep inside the four-metre drift, or forehead contact under written authority — and the shard answers with a showing: a room, a face, one warm tear, chosen by whoever is looking. Duration: as long as the contact or the sleep lasts, and not a breath longer. The observable sign on the watch side is the brightening, which is the only reading two observers have ever matched on; the operative's own report on waking is almost always nil.
 
