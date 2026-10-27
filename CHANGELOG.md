@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 186 — OPEN, 4 / 5 (2026-10-26)
+## Batch 186 — OPEN, 5 / 5 (2026-10-27)
+
+**Unit 5 — The Lost Prince `C-IVγ-091`: HELD.** Four supported repairs (3 short / 1 careful; 7449→7639 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_05_THE_LOST_PRINCE.md). Batch 128 already counted set 091: +0/+0/+0. Completed 5/5; No change 0; held 191 / pending 90. Closure follows in this prompt.
 
 **Unit 4 — Patina `C-IVδ-222`: HELD.** Four supported repairs (3 short / 1 careful; 7531→7747 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_04_PATINA.md). Batch 137 already counted set 222: +0/+0/+0. Completed 4/5; No change 0; held 190 / pending 91. Ten-review ceiling reached this prompt.
 

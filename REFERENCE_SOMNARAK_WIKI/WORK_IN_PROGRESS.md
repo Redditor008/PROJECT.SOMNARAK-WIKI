@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 186 — OPEN, 4 / 5 (2026-10-26)
+## Batch 186 — OPEN, 5 / 5 (2026-10-27)
+
+**Unit 5 — The Lost Prince `C-IVγ-091`: HELD.** Four supported repairs (3 short / 1 careful; 7,449→7,639 words): combat rows 1–3 drop lost-ness-as-infection and a misplaced sword — the child carries none — for the three questions in order, the crown's point count against the rotation book, and a Drain that rises only on reassurance; the template consequence and two stock Flavor blocks become the search that exhausts itself and the counter with one left to lose. Batch 128 already counted set 091: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B186_05_THE_LOST_PRINCE.md). Closure follows in this prompt.
 
 **Unit 4 — Patina `C-IVδ-222`: HELD.** Four supported repairs (3 short / 1 careful; 7531→7747 words): combat's first four rows become margin-standing, re-staked markers, the dieback and the 9/14/19 series; two reading paragraphs and two Flavor blocks become the line-monument-screen triad, rotation-not-catharsis and the closing-note millimetres. Batch 137 already counted set 222 (Weapon+1 then): +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B186_04_PATINA.md). This prompt's ten-review ceiling reached; Unit 5 (The Lost Prince) + closure wait for the next P.
 

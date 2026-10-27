@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVγ-091": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_05_THE_LOST_PRINCE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -1872,8 +1884,29 @@
     {
       "designation": "C-IVγ-091",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-091_The_Lost_Prince_잃어버린_왕자.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Four supported repairs (3 short / 1 careful) give this child a combat sheet worthy of the file's discipline. Rows 1–3 no longer have him infecting targets with lost-ness, unsettling them with illegitimacy, or swinging a misplaced sword — he carries none, and attacks only when frightened; they now run on the three questions in order, the crown's point-count against the rotation book, and a Drain that rises only on reassurance. The template 'catastrophic outlet' consequence and two stock Flavor blocks give way to the search that exhausts itself, the question already in progress, and the counter with one left to lose. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_05_THE_LOST_PRINCE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/091_Lost_Prince/SE-091-A__SIDE_CODEX_The_Lost_Prince.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/091_Lost_Prince/SE-091-B__MAW-W_The_Crown_of_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/091_Lost_Prince/SE-091-C__MAW-S_The_Crown_of_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/091_Lost_Prince/SE-091-D__MAW-G_The_Crown_of_Tears.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVγ-130",
