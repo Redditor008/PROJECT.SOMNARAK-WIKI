@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 187 — OPEN, 1 / 5 (2026-10-27)
+## Batch 187 — OPEN, 2 / 5 (2026-10-27)
+
+**Unit 2 — Hollow Architect `C-IVγ-255`: HELD.** Four supported repairs (3 short / 1 careful; 7,538→7,743 words): all five combat rows drop imposed emptiness, a crushing gargoyle, an ordered demolition and rising towers for copyless plans, spoken intentions, enclosure of whoever stops moving, a gauge that falls only to a voice outside the walls, and drawings describing the present room; the breach consequence and two Flavor blocks become three escapes talked back and the viewing line. Batch 126 already counted set 255: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B187_02_HOLLOW_ARCHITECT.md).
 
 **Unit 1 — Torpor `N-IVδ-157`: HELD.** Two supported repairs (1 short / 1 careful; 7,537→7,672 words): combat rows 1–3 lose the vast dormant sleeper — the hush now converts the crew's own sounds, the pressure gains a direction, and the ground settles rather than strikes; one Observation Log line stops the place watching and gives the microphone fact instead. The 2026-10-11 in-file full-set review already counted set 157: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B187_01_TORPOR.md).
 

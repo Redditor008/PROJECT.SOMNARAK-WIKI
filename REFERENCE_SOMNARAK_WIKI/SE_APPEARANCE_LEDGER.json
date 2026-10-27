@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVγ-255": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_02_HOLLOW_ARCHITECT.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -1944,8 +1956,29 @@
     {
       "designation": "C-IVγ-255",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-255_Hollow_Architect_빈_건축가.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Four supported repairs (3 short / 1 careful) dismantle the combat template. All five rows drop imposed emptiness, a designed crushing gargoyle, an ordered demolition and plans that raise towers: they now run on copyless plans versus stable spoken intentions, floor-load under a Ferrehan stand, enclosure of whoever stops moving, a gauge that falls only when somebody speaks from outside the walls, and the drawings turning to describe the room the crew is standing in. The 'cell is breached' consequence and two stock Flavor blocks give way to three escapes talked back, the off-shift viewing line, and a builder who never trips. HELD; +0/+0/+0.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_02_HOLLOW_ARCHITECT.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-255-A__SIDE_CODEX_The_Hollow_Architect.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-255-B__MAW-W_The_Architects_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-255-C__MAW-S_The_Architects_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-255-D__MAW-G_The_Architects_Compass.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVγ-270",

@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 187 — OPEN, 1 / 5 (2026-10-27)
+## Batch 187 — OPEN, 2 / 5 (2026-10-27)
+
+**Unit 2 — Hollow Architect `C-IVγ-255`: HELD.** Four supported repairs (3 short / 1 careful; 7538→7743 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_02_HOLLOW_ARCHITECT.md). Batch 126 already counted set 255: +0/+0/+0. Completed 2/5; No change 0; held 193 / pending 88.
 
 **Unit 1 — Torpor `N-IVδ-157`: HELD.** Two supported repairs (1 short / 1 careful; 7537→7672 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_01_TORPOR.md). The 2026-10-11 in-file full-set review already counted set 157: +0/+0/+0. Completed 1/5; No change 0; held 192 / pending 89.
 
