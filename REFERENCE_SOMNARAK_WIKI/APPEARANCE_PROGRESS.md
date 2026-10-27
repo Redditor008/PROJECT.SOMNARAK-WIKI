@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B194 OPEN 0/5.** Fresh ranking of 55 pending; queue `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833`. Types 285/301 (94.68%), Weapon 283/287 (98.61%), SE 18/301 (5.98%); held 226 / pending 55.
+- **Latest: B194 U1 Memory Lock `C-IIIγ-300` HELD, credit-barred, +0.** 9 repairs (4s/5c), 8,113→8,262w. Types 285/301 (94.68%), Weapon 283/287 (98.61%), SE 18/301 (5.98%); held 227 / pending 54. [Evidence](SE_APPEARANCE_REVIEWS/B194_01_MEMORY_LOCK.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

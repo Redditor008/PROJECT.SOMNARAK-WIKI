@@ -74,9 +74,9 @@
 |---|---|---|---|---|
 | { *The Sealed Door* [**Debuff**] } | "A door closes in your mind — and you cannot recall what was behind it." | [The Lock seals a memory away; the target feels the absence.] | *Target suffers a Void mark; something has been taken from recall.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Lock is set. |
 | { *The Lost Key* [**Debuff**] } | "You know there is something behind the door — but the key is gone, and the shape of what is missing haunts you." | [The sealed absence gnaws; the target cannot stop reaching for the gap.] | *Target loses clarity; the forgotten thing presses at the edges.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target senses the gap. |
-| { *The Bolt* [**Attack**] } | "The lock slams home — and whatever is behind it slams with it." | [The Lock drives a bolt of sealed-away grief into the target.] | *Inflicts Void damage; the impact of a suddenly-closed door.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Lock is forced. |
-| { *What Was Hidden* [**Attack**] } | "The lock breaks — and what you sealed away comes flooding out." | [What was put away comes back all at once, in the size and order it was stored in.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the target holds a sealed memory. |
-| { *The Vault Empties* [**Ultimate**] } | "Every door opens. Every sealed memory walks free." | [Everything the plate has ever taken is let go inside the same minute and in no order at all.] | *All in range suffer Void erosion for three turns as the past unseals.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Bolt* [**Attack**] } | "Nothing slams. The mechanism is fused and still, and has been for nine years of photographs; what closes is the listener's sense that the question is theirs to ask." | [No bolt is driven. Force hardens the plate, measurably and irreversibly, and the hardness reading is the impact.] | *Inflicts Void damage; the blow is a hardening increment that never comes back down.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Lock is forced, tested, or speculated about aloud in the chamber. |
+| { *What Was Hidden* [**Attack**] } | "The lock does not break. One sealed memory comes through as a whisper — never the one that was asked for — and everything else stays exactly where the Keepers left it." | [Nothing floods out. What returns all at once is the wanting: the listener leaves building a reasonable case for authorised access, in the identical sequence all five recorded cases took.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a whisper ends and the listener chooses to pursue the rest of it. |
+| { *The Vault Empties* [**Ultimate**] } | "No door opens, because the vault was built without one. The marks climb, the bay pressure climbs with them, and by the stair nobody present can say why they came down to deep storage." | [The vault empties nothing. Escalation here is hardening and rate: twenty-three thousand marks in the log, one column, no content anywhere.] | *All in range suffer Void erosion for three turns of rising whisper rate and hardening plate.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -101,7 +101,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** A massive lock of dark memory-crystal sealing a vault with no public entrance.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Fused to the vault face and immovable; the only motion is the slow turning of clouded recollections inside the crystal, continuous and without observed period.
 - **Element signature:** Void
 - **Registered location:** SECTOR-A-01, Alpha Tree deep vault
 
@@ -113,7 +113,7 @@
 | **Position / movement** | Fixed to the vault face. Record the hardness at the marked indenter point, the whisper rate as a count of marks, and the condition of the fused keyhole, which has never altered. |
 | **Material / signature** | Void. Dark memory-crystal, clouded, with recollections turning slowly inside it; cold, smelling of ash and faintly of tears. |
 | **Distinctive markers** | A lock with no keyhole that is unmistakably fastened, on a vault with no door onto any corridor. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification** | Confirm designation C-IIIγ-300 `[D]`, Object-Void manifestation, the fused keyhole and the turning clouding before Work or contact; the wrong entity is the wrong sorrow. |
 
 **Appearance protocol:** Take the hardness first, at the single marked indenter point and nowhere else, because every reading damages the series and a second point would start a second one. Then the clouding — density, depth, and whether anything inside has come near enough to the surface to be resolved — and the fused keyhole, which is photographed every cycle and has never changed in nine years. Mark whispering as occurring. Do not write what it said; the form provides a mark and no line, and the absence of the line is the control. Write concretely enough that another agent could identify the object from your words, and no more concretely than that.
 
@@ -174,15 +174,15 @@ Memory Lock is an Object/Place with Object-Void manifestation and Void expressio
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The plate warms under the palm and the vault answers from the inside: whatever stands behind the seal leans against it from the inside, and the chamber air goes thin with Void sorrow that has waited a long time to be this near a listener. | A truthful admission is what opens it, and the Lock lets one sealed memory out in a whisper — nothing more than that, and nothing louder. The units ranged along the same vault wall hold their Sorrow Gauges steady while the whisper runs. |
-| 30 Seconds | The whisper thickens into the memory behind the decision: keepers shut away recollections that could have taken the city down, and the Lock has known what it hides ever since. Half a minute in, the listener stops hearing a voice and starts hearing an admission that is their own. | The whisper reaches across Range Band 2, and every unit in the sector carries better against elemental pressure while the channeler keeps attending to it. Attention is the mechanism entire; it cannot be left running. |
+| 30 Seconds | The whisper thickens into the memory behind the decision: keepers shut away recollections that could have taken the city down, and the Lock has known what it hides ever since. Half a minute in, the listener stops hearing a voice and starts hearing an admission that is their own. | Nothing is ranged and nobody is defended: the second worker marks the whisper's occurrence and its time, writes none of its content, and watches the listener rather than the plate — interest is the hazard, and it presents as diligence. |
 | 1 Minute | At the minute the Lock stops spending the facility's power and starts spending the channeler's. It was made to keep one thing shut and has now been asked to open, and that contradiction sits on the listener's chest like a hand. | Held past 60 seconds it takes 4 Composure every 10 seconds, and the watch should have the disengagement rehearsed before the whisper starts — the Lock gives no warning of when it is about to be too much. |
-| 2 Minutes | Two minutes in, the direction of the whisper changes. The grief the keepers sealed is no longer being read out of the vault; it is looking for someone in the facility to live in, and the nearest listener is the one with a palm on the plate. | Overload, or letting go mid-whisper, vents Void into the sector and every person in it takes heavy damage. What outlasts the vent is worse: the listener may become obsessed with opening the vault, and the record puts that down to the Lock rather than to them. |
+| 2 Minutes | Two minutes in, the wanting has changed direction: the listener is no longer hearing a secret out but composing the case for authorised access — researching the sealing instrument, offering to help with the engineering assessment — in the sequence all five recorded cases share. | Close the channel on purpose, palm flat, whisper finished. Nothing vents and nobody takes damage; what outlasts a badly ended channel is the obsession itself, which the record puts down to the Lock rather than to the listener, and a hardness increment that does not reverse. |
 
 ### Escalation Notes
 
 Escalation here is hardening. Record the hardness at onset, the whisper rate, the pressure at the bay door, who has been in the chamber in the preceding fortnight and for how long, and the point at which the rate stops climbing. Emotional indicators are logged beside the physical ones because on this holding the two diverge: the plate hardens while the worker feels calm, interested and useful.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Take the hardness at the marked point, count the whisper marks, and debrief at the bay door before the stair — workers lose the reason they came, and the loss is complete by the surface. No perimeter changes the plate and no unlisted Work Type is improvised; anybody who afterwards proposes seeking access is named in the entry.
 
 ### Detailed Activation Record
 
@@ -464,7 +464,7 @@ Rescue's objection is minuted at every review and has never been withdrawn. A fa
 - **Field detail:** Void is its element and the Alpha Tree deep vault its registered ground — SECTOR-A-01 — where it stands on a vault face with no door onto any corridor.
 - **Recognition detail:** Identify it by the fused keyhole and the turning clouding; never by the whispering, which is constant and tells an observer nothing they are permitted to use.
 - **Record detail:** This file should be read with the sealing instrument, the review minutes and the cutting assessment beside it; the containment is small and the paperwork around it is the holding.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** The Lock never acts and has never injured anybody; containment is a marked standing position, a one-column whisper log with no content field, a hardness series taken at a single point, and an authority to open the vault vested in nobody living.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-300

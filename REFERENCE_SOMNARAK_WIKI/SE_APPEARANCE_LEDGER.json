@@ -27,7 +27,20 @@
       "C-IIIγ-609",
       "O-IIβ-833"
     ],
-    "reviewed": {}
+    "reviewed": {
+      "C-IIIγ-300": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_01_MEMORY_LOCK.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -731,8 +744,29 @@
     {
       "designation": "C-IIIγ-300",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Nine source-supported repairs (4 short / 5 careful): a fused, still mechanism no longer slams bolts, breaks, or empties a doorless vault; a log loses its Range-Band aura and its damage vent; stubs gain the file's own facts. The seal's behavior is now the one the record measures — hardening, marks, and a wanting that presents as diligence. HELD; no credit (the primary's Use Notes already disposition the exact SE-300 set).",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_01_MEMORY_LOCK.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-300-A__SIDE_CODEX_The_Memory_Lock.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-300-B__MAW-W_The_Secret_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-300-C__MAW-S_The_Secret_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-300-D__MAW-G_The_Secret_Key.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIIγ-373",

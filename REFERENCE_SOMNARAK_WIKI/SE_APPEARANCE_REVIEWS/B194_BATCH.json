@@ -41,7 +41,178 @@
       "sha256": "62db7405df7d8ec8926222cfc20e64f71c5ca2f11c87e4282a31c4ea62626097"
     }
   ],
-  "units": [],
+  "units": [
+    {
+      "designation": "C-IIIγ-300",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md",
+      "words": 8113,
+      "sha256": "f4ce88bded5105b3405cb6fd9bd0f9d6c90488651a3c3dc3bb3183dc688ee1a4",
+      "unit": 1,
+      "name": "Memory Lock",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_01_MEMORY_LOCK.md",
+      "before_words": 8113,
+      "after_words": 8262,
+      "base": "8a40afcca3bf7e4749d59fdfeec068b9b18a3dfb",
+      "final_sha256": "7ccb62464f7c9b82982941e7dfe2b6d5b39f02a53bff587730623fddf68e108b",
+      "summary": "Nine source-supported repairs (4 short / 5 careful): a fused, still mechanism no longer slams bolts, breaks, or empties a doorless vault; a log loses its Range-Band aura and its damage vent; stubs gain the file's own facts. The seal's behavior is now the one the record measures — hardening, marks, and a wanting that presents as diligence. HELD; no credit (the primary's Use Notes already disposition the exact SE-300 set).",
+      "commentary": "This file's engine is institutional self-binding — a one-column log with its content field removed, nine empty reviews, an opening authority vested in nobody — and its only real noise was fight-club syntax in the combat table and one generic channel log. The repairs keep every number and remove the only things the Lock has never done: slam, break, open. What is left standing is the holding's actual weapon, which is a worker's own reasonable case for access, drafted somewhere between the bay door and the top of the stair.",
+      "reasoning": "Set SE-300 identity resolved from Side A (C-IIIγ-300 [D]) and items carrying SE-300 / MAW-W/S/G-300-01; Registry rows 583–586 (Registry_290_to_310, direct files). Side A's formal-ID note defers The Sorrow Seed (C-Iα-300); it does not disturb this dossier's designation. Sentence triage: The Bolt drove a mechanism the file photographs as fused and still; What Was Hidden broke a lock force only hardens; The Vault Empties opened every door of a vault built without one; the Log's 30-second/2-minute Methods imported Range-Band aura and a heavy-damage vent against 'never injured anybody'; three stubs/boilerplate rows remained. R-18 split declared before the apply: 4 short / 5 careful. Sole digit changes: the deleted template's Range Band '2' and the designation 300 restated in the Identification row.",
+      "history": "No credit — the primary's M.A.W. Use Notes already perform the exact-set cross-source disposition: they bind *Access Without Possession* to the post-whisper non-opening condition, keep the primary's 'puts a memory out of reach' distinct from item B's tether-severing method, record the plate-chooses payment detail the item does not assign, and treat the no-protocol-produces-a-Stigma line as a bestowal boundary; the Field Use Record operationalizes the items' care/removal terms. That is the coverage event; equipment_reviews has no 300 entry and none was added. Side A (112 lines) and items B/C/D read whole (57 lines each) including Appearance sections confirm the disposition; git path history shows only the B179 import. +0 all counters.",
+      "holds": [
+        "Breakage fork: Side PAGE 02's escalation line ('Breaking the Lock releases sealed memories as a Void rupture') and item D's 'breaking it opens without boundary' vs the primary record in which force hardens the plate and the lock has never broken or opened — Side text preserved.",
+        "Key-payment chooser as already held in the primary: the plate chooses the bearer's payment (primary) vs item D's exchange in which Marjuk authorized and 'the chosen payment' was a remembered meal; Head / 4% / +2 agree; Registry generic Accessory / 5% does not replace them.",
+        "Lens method fork as already held: primary strike puts a memory out of reach vs item B's three-tether severance with an aim-through-the-Lock counterexample; figures agree (Void 7–12 / 3 / 3 / Skewer / 3 / 40).",
+        "Veil: figures agree (0.8/1.2/0.3/1.1; 3/35); primary outline-out-of-focus gossamer vs item condensation after a cleanly closed whisper, opaque seam over the heart, identity-statement binding — distinct records.",
+        "Nine empty reviews, Rescue's standing objection (minuted correct in all three parts), four failed redrafts and the destroyed shared proper noun remain open institutional record, untouched."
+      ],
+      "split": [
+        4,
+        5
+      ],
+      "repairs": [
+        {
+          "id": "R1-the-bolt",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Bolt* [**Attack**] } | \"The lock slams home — and whatever is behind it slams with it.\" | [The Lock drives a bolt of sealed-away grief into the target.] | *Inflicts Void damage; the impact of a suddenly-closed door.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Lock is forced. |",
+          "new": "| { *The Bolt* [**Attack**] } | \"Nothing slams. The mechanism is fused and still, and has been for nine years of photographs; what closes is the listener's sense that the question is theirs to ask.\" | [No bolt is driven. Force hardens the plate, measurably and irreversibly, and the hardness reading is the impact.] | *Inflicts Void damage; the blow is a hardening increment that never comes back down.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Lock is forced, tested, or speculated about aloud in the chamber. |"
+        },
+        {
+          "id": "R2-what-was-hidden",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *What Was Hidden* [**Attack**] } | \"The lock breaks — and what you sealed away comes flooding out.\" | [What was put away comes back all at once, in the size and order it was stored in.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the target holds a sealed memory. |",
+          "new": "| { *What Was Hidden* [**Attack**] } | \"The lock does not break. One sealed memory comes through as a whisper — never the one that was asked for — and everything else stays exactly where the Keepers left it.\" | [Nothing floods out. What returns all at once is the wanting: the listener leaves building a reasonable case for authorised access, in the identical sequence all five recorded cases took.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a whisper ends and the listener chooses to pursue the rest of it. |"
+        },
+        {
+          "id": "R3-vault-empties",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Vault Empties* [**Ultimate**] } | \"Every door opens. Every sealed memory walks free.\" | [Everything the plate has ever taken is let go inside the same minute and in no order at all.] | *All in range suffer Void erosion for three turns as the past unseals.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Vault Empties* [**Ultimate**] } | \"No door opens, because the vault was built without one. The marks climb, the bay pressure climbs with them, and by the stair nobody present can say why they came down to deep storage.\" | [The vault empties nothing. Escalation here is hardening and rate: twenty-three thousand marks in the log, one column, no content anywhere.] | *All in range suffer Void erosion for three turns of rising whisper rate and hardening plate.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+        },
+        {
+          "id": "R4-identification-position",
+          "kind": "short appearance completion",
+          "careful": false,
+          "old": "- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.",
+          "new": "- **Position / movement:** Fused to the vault face and immovable; the only motion is the slow turning of clouded recollections inside the crystal, continuous and without observed period."
+        },
+        {
+          "id": "R5-detailed-identification",
+          "kind": "short appearance completion",
+          "careful": false,
+          "old": "| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |",
+          "new": "| **Identification** | Confirm designation C-IIIγ-300 `[D]`, Object-Void manifestation, the fused keyhole and the turning clouding before Work or contact; the wrong entity is the wrong sorrow. |"
+        },
+        {
+          "id": "R6-log-30s",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 30 Seconds | The whisper thickens into the memory behind the decision: keepers shut away recollections that could have taken the city down, and the Lock has known what it hides ever since. Half a minute in, the listener stops hearing a voice and starts hearing an admission that is their own. | The whisper reaches across Range Band 2, and every unit in the sector carries better against elemental pressure while the channeler keeps attending to it. Attention is the mechanism entire; it cannot be left running. |",
+          "new": "| 30 Seconds | The whisper thickens into the memory behind the decision: keepers shut away recollections that could have taken the city down, and the Lock has known what it hides ever since. Half a minute in, the listener stops hearing a voice and starts hearing an admission that is their own. | Nothing is ranged and nobody is defended: the second worker marks the whisper's occurrence and its time, writes none of its content, and watches the listener rather than the plate — interest is the hazard, and it presents as diligence. |"
+        },
+        {
+          "id": "R7-log-2min",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 2 Minutes | Two minutes in, the direction of the whisper changes. The grief the keepers sealed is no longer being read out of the vault; it is looking for someone in the facility to live in, and the nearest listener is the one with a palm on the plate. | Overload, or letting go mid-whisper, vents Void into the sector and every person in it takes heavy damage. What outlasts the vent is worse: the listener may become obsessed with opening the vault, and the record puts that down to the Lock rather than to them. |",
+          "new": "| 2 Minutes | Two minutes in, the wanting has changed direction: the listener is no longer hearing a secret out but composing the case for authorised access — researching the sealing instrument, offering to help with the engineering assessment — in the sequence all five recorded cases share. | Close the channel on purpose, palm flat, whisper finished. Nothing vents and nobody takes damage; what outlasts a badly ended channel is the obsession itself, which the record puts down to the Lock rather than to the listener, and a hardness increment that does not reverse. |"
+        },
+        {
+          "id": "R8-response-sequence",
+          "kind": "short response correction",
+          "careful": false,
+          "old": "**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.",
+          "new": "**Response sequence:** Take the hardness at the marked point, count the whisper marks, and debrief at the bay door before the stair — workers lose the reason they came, and the loss is complete by the surface. No perimeter changes the plate and no unlisted Work Type is improvised; anybody who afterwards proposes seeking access is named in the entry."
+        },
+        {
+          "id": "R9-trivia-containment",
+          "kind": "short trivia correction",
+          "careful": false,
+          "old": "- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.",
+          "new": "- **Containment detail:** The Lock never acts and has never injured anybody; containment is a marked standing position, a one-column whisper log with no content field, a hardness series taken at a single point, and an authority to open the vault vested in nobody living."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.021  clean   715 grams  Combat Record\n 0.020  clean   247 grams  기록 (Registrum)\n 0.019  clean   309 grams  관찰 기록 (Observation Log)\n 0.015  clean   201 grams  Trivia\n 0.009  clean   766 grams  M.A.W. Equipment\n 0.007  clean   139 grams  최종 관찰 (Final Observation)\n 0.004  clean  1132 grams  Warden Record\n 0.003  clean   619 grams  Activation Behavior\n 0.000  clean   646 grams  감각 묘사 (Flavor Text)\n 0.000  clean   424 grams  이야기 (Narratio)\n 0.000  clean   219 grams  Appearance\n 0.000  clean   178 grams  이야기 보고 (Story Log)\n 0.000  clean   155 grams  Origin\n 0.000  clean   136 grams  Behavior\n 0.000  clean    43 grams  증언 (Testimonium)\n 0.000  clean    43 grams  SECC Classification\n 0.000  clean    26 grams  Operational Parameters\n 0.000  THIN      2 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   76   1  | { *The Lost Key* [**Debuff**] } | \"You know there is something behind the door — but the key is gone, and the shape of what is m\n   78   5  | { *What Was Hidden* [**Attack**] } | \"The lock does not break. One sealed memory comes through as a whisper — never the one that\n   79   9  | { *The Vault Empties* [**Ultimate**] } | \"No door opens, because the vault was built without one. The marks climb, the bay press\n  147   1  > **This Relic is Capable of Sector / Facility Alteration**\n  148   1  > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**\n  217   2  **Ability:** Deals Void damage against the Soul — identity, memory and sense of self — and carries the source's signature: the str\n  225   4  **Appearance:** a flowing veil of Void Han-gossamer, near-translucent and all but colourless, that lies cold on the skin and leave\n  237   1  **Cost:** The wearer feels faintly absent to themselves.\n  291   6  **Observation method:** Observe from the marked standing position, on a capped watch, with the debrief taken at the bay door rathe\n  313   1  > Two ways to close a watch at the vault, and the difference between them is not what the worker learns but what the vault records\n  394   3  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)\n  399   2  **Operational interpretation:** This file is one layer of the holding's record, read against the classification, the Combat Record\n  450   4  Rescue's objection is minuted at every review and has never been withdrawn. A facility that cannot answer a safety question about \n  454   3  - Look-up figures for this file, kept in numerals so the row matches the case sheet: gauge 574/574, pressure 14–31 per hit, resist\nGENERIC 0.007  (43 shared shingles)  SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-300-A__SIDE_CODEX_The_Memory_Lock.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-300-B__MAW-W_The_Secret_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-300-C__MAW-S_The_Secret_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-300-D__MAW-G_The_Secret_Key.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-300-A__SIDE_CODEX_The_Memory_Lock.md": "45de3ddfac7d5212dba704de185531e0339285dbf4f11771f4b9b1dc57c175c8",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-300-B__MAW-W_The_Secret_Lens.md": "498b9bc82ea19176f877e4b2b4deaaab502035c00045dc4a23df9622689f4440",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-300-C__MAW-S_The_Secret_Veil.md": "3fbfc4afa7782ef3ddc7a164dd4fdd3185bb87cdf5204d0a81b5610d21874d2f",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-300-D__MAW-G_The_Secret_Key.md": "1ac3124a1a388c1bbc77c098396db5d19fa539e4c2ecc03147a8a167fcf0ac3a",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-300_Memory_Lock_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%9E%90%EB%AC%BC%EC%87%A0.md \"SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md\")]",
+      "table_link": "[Memory Lock](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-300_Memory_Lock_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%9E%90%EB%AC%BC%EC%87%A0.md \"SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md\")",
+      "reading": {
+        "before_lines": 473,
+        "before_bytes": 48800,
+        "final_lines": 473,
+        "final_bytes": 49729
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 54,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": "Sole digit changes are documented: the deleted template's Range Band '2' disappears with the aura sentence, and the designation number 300 is restated in the Detailed Appearance Identification row. No figure, date, score or count was altered."
+      }
+    }
+  ],
   "opened_at": "2026-10-27",
-  "completed": 0
+  "completed": 1
 }

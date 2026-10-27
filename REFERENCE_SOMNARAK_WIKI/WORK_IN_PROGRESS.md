@@ -1,8 +1,8 @@
 # Work In Progress
 
-## Batch 194 — OPEN, 0 / 5 (2026-10-27)
+## Batch 194 — OPEN, 1 / 5 (2026-10-27)
 
-Fresh ranking of 55 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833`. Units 1–4 are reviews 7–10 of this prompt; the batch stays open at 4/5 by design.
+Fresh ranking of 55 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833`. **Unit 1 — Memory Lock `C-IIIγ-300`: HELD, +0.** Nine repairs (4 short / 5 careful; 8,113→8,262 words): the fused lock stops slamming, breaking and emptying its doorless vault. Credit barred by the primary's own set disposition. [Evidence](SE_APPEARANCE_REVIEWS/B194_01_MEMORY_LOCK.md). Units 2–4 follow in this prompt.
 
 ## Batch 193 — CLOSED, 5 / 5 (2026-10-27)
 
