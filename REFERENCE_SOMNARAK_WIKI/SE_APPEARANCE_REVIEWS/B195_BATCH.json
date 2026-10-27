@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 195,
   "status": "OPEN",
-  "completed_units": 2,
+  "completed_units": 3,
   "required_units": 5,
   "queue": [
     {
@@ -402,8 +402,171 @@
         "source_files_unchanged": 10,
         "digit_sequence_change": "Sole digit change: the template Speed figure 1.95 m/s is removed from a Subject that has never moved laterally; the record's vertical rim-height measure is stated instead. No other figure, date, score or count was altered."
       }
+    },
+    {
+      "designation": "C-IVδ-220",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-220_Walking_Calendar_세월의_무게.md",
+      "words": 8202,
+      "sha256": "6623291c8f365e75c5665ff69e29d4fb94d00f2c4b91197dbb41aa4684cc734d",
+      "unit": 3,
+      "name": "Walking Calendar",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_03_WALKING_CALENDAR.md",
+      "before_words": 8202,
+      "after_words": 8358,
+      "base": "bcc8e1ba95144f802d94ca0cdeb56e7d43938a6c",
+      "final_sha256": "55f0dec47aaf7b404c5f11a9388ca86cacf054afd6531d5f27696d8a57eea1c7",
+      "summary": "Eight source-supported repairs (3 short / 5 careful): a lead-slow figure loses its 2.45 m/s; three instant-aging attacks become the record's suit-load/present-thinning effects; event response returns to the shoring doctrine. First exact-pair SE-220 appearance disposition by negative proof: fresh +1 Types / +1 Weapon; HELD (erased-vs-scheduled doctrine fork recorded, not resolved).",
+      "commentary": "The primary is the archive's most disciplined argument — nothing hidden, everything dated past everybody it belonged to — and the Side retells it as erasure, which is precisely the older story the primary was written to correct. This review is the first to put the two appearance records side by side; it leaves the doctrine fork standing in the open and only removes template physics (sprint speed, instant gray hair) that neither side's long-exposure record supports as an attack.",
+      "reasoning": "Set SE-220 identity resolved from Side A (C-IVδ-220 [WS]) and items carrying SE-220 / MAW-W/S/G-220-01; Registry rows 498–501 (Registry_220_to_233 direct files). Sentence triage: Speed contradicted lead-heavy slow walking and 'cannot catch anybody'; three combat rows applied age to targets in moments (Side PAGE 01 supports gray hair/joint pain/unlived memories only as long exposure — the primary rows now use its suit-load and present-loss measures, Side held); the Escalation priority sealed-and-endured against the Pulsing-in-Place shoring doctrine; duplicated δ grade, one generic flavor row and one Han-field trivia row remained. R-18 split declared before the apply: 3 short / 5 careful.",
+      "history": "Fresh exact-pair review by negative proof. No prior evidence file mentions C-IVδ-220 (reviews-directory grep returns no unit evidence); the primary contains no cross-source/full-set review block and its Use Notes do not mention the Side set, resonance or items; Side A has no profile-hold/disposition paragraph; equipment_reviews has no 220 entry; git path history shows only the B179 import (87f1a01). Side A (115 lines) and items B/C/D read whole (60/60/65 lines) including Appearance sections in this review; Registry rows 498–501 confirm identity. New equipment_reviews entry: +1 Types / +1 Weapon; SE +0 because the whole design remains HELD.",
+      "holds": [
+        "DOCTRINE FORK (first recorded here): Side core sorrow = history 'the city tried to erase', erased/edited records, silences where a record was removed vs the primary's Year 4140 instrument — nothing hidden, nothing destroyed, ninety years from deposit, opened on time to nobody. The items' omission/falsely-seamless-chronology functions presuppose the Side version. No source reconciles them; neither text altered.",
+        "Weapon: figures agree (Weight 10–15 / 3 / 3 / Skewer 100-70-50 / 2 / 50); primary matte two-handed maul reading heavy on scales vs item calendar-leaf striking faces displaying consequences, shaft lengthening per omitted year, dated-consequence precondition — distinct appearance/function records.",
+        "Suit figures agree (1.0/1.0/1.5/0.5; 2/45); primary matte Han-weave retaining the chamber smell vs item hem date-marks rearranging by touched age with current-year-at-hand recognition rule.",
+        "Stigma Head / 4% agree; bonus named +3 Resolve (Side/item) vs primary '+3 to the working stat'; primary nine conferrals each after a finished opening-list reading vs item bestowal after a restored casualty entry, bearer-bound to Marjuk; Registry generic Accessory / 5%.",
+        "Exposure fork: Side long-exposure gray hair/joint pain/unlived memories vs primary suit-load, present loss and date-answering from the song; the 14,211 petitions/411 granted early-opening record remains open institutional record, untouched."
+      ],
+      "split": [
+        3,
+        5
+      ],
+      "repairs": [
+        {
+          "id": "R1-tool-grade",
+          "kind": "short factual correction",
+          "careful": false,
+          "old": "| **Tool / M.A.W. grade** | δ · δ (Critical) |",
+          "new": "| **Tool / M.A.W. grade** | δ (Critical) |"
+        },
+        {
+          "id": "R2-speed",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Speed** | 2.45 m/s |",
+          "new": "| **Speed** | Lead-slow — an old man's pace on a straight run, unvarying in direction; it has never pursued and cannot catch anybody walking away from it. The rate on this record is the traverse count, about 600 a season against the chalk tally. |"
+        },
+        {
+          "id": "R3-the-first-gray",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The First Gray* [**Debuff**] } | \"A strand of your hair goes gray — and the years begin to show all at once.\" | [The Years press; the target ages visibly in moments.] | *Target suffers -10 Resolve as time bears down.* **[10 Weight DMG [Weight]]** | When the Years settle on the target. |",
+          "new": "| { *The First Gray* [**Debuff**] } | \"Nothing about the target ages. The figure gains a year with every step it takes, and the first thing the suits report is load — at the door, before the figure is in view.\" | [The Years press as mass, not as time applied to a person; Resolve depletes first and the present thins with it.] | *Target suffers -10 Resolve as the suit load bears down.* **[10 Weight DMG [Weight]]** | On entering the long chamber. |"
+        },
+        {
+          "id": "R4-the-long-memory",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Long Memory* [**Debuff**] } | \"Decades settle on your shoulders — and you remember things that have not happened to you yet.\" | [The accumulated years weigh heavier; the target feels old beyond their life.] | *Target loses 10 Resolve; the weight of time is immense.* **[10 Weight DMG [Weight]]** | When the target remains under the Years. |",
+          "new": "| { *The Long Memory* [**Debuff**] } | \"Decades settle on your shoulders — and past about four hours the present stops holding: asked the date at the gate, a long-watch worker answers from the song.\" | [The accumulated years weigh heavier; the worker carries centuries of responsibility at once and none of it is theirs.] | *Target loses 10 Resolve; inherited weight is not personal guilt and feels identical from inside.* **[10 Weight DMG [Weight]]** | When the target remains in the chamber. |"
+        },
+        {
+          "id": "R5-the-aching-joint",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Aching Joint* [**Attack**] } | \"Age, made into pain, strikes all at once.\" | [The Years convert time directly into bodily ache.] | *Inflicts Weight pressure and one wound of sudden age.* **[14-22 Weight DMG [Weight]]** | When the Years are roused. |",
+          "new": "| { *The Aching Joint* [**Attack**] } | \"Age is not converted into anything. The pulse is radial and indifferent: floors buckle, walls bow inward, and what injures people is structure coming down.\" | [Mass transfers rather than ruptures; breathing becomes lifting, and personnel two corridors out report the same sensation at a third of the strength.] | *Inflicts Weight pressure; the ache is load carried in the joints.* **[14-22 Weight DMG [Weight]]** | During a pulse — shoring crews stand to; nobody is struck at. |"
+        },
+        {
+          "id": "R6-containment-priority",
+          "kind": "careful event correction",
+          "careful": true,
+          "old": "- **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.",
+          "new": "- **Containment priority:** Structural, not confrontational: shoring crews under the weight-discipline doctrine keep the structure standing and let the pulse run — get the shoring in and let it finish. The Years Maul is carried by the shoring lead; Pugnahan only adds the worker's anger to the mass."
+        },
+        {
+          "id": "R7-flavor-activates",
+          "kind": "short flavor grounding",
+          "careful": false,
+          "old": "**When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Weight pressure spikes — not gradually but like a door slamming open. The Subject-Body shifts from presence to action.",
+          "new": "**When the entity activates:** It does not leave the run. The figure pulses where it stands, the walls crack around it, and every step in the sector costs what three should — the change is in the building's readings before it is in anybody's account."
+        },
+        {
+          "id": "R8-trivia-containment",
+          "kind": "short trivia correction",
+          "careful": false,
+          "old": "- **Containment detail:** Containment holds the body and the chamber, not the schedule. Even sealed, the holding alters the local Han field: adjacent personnel report dreams, headaches and gauge drift, and crews two corridors out report the same sensation at a third of the strength. The readings the file actually runs on are the chalk tally at the end wall and the load the suits report at the door.",
+          "new": "- **Containment detail:** Containment holds the body and the chamber, not the schedule. The readings the file actually runs on are the chalk tally at the end wall, the load the suits report at the door, and two listeners' unreconciled date sheets; crews two corridors out report the pulse at a third of the strength."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVδ-220_Walking_Calendar_세월의_무게.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.029  clean   140 grams  Containment Event Behavior\n 0.015  clean   132 grams  Operational Parameters\n 0.008  clean   354 grams  기록 (Registrum)\n 0.008  clean   653 grams  Combat Record\n 0.003  clean  1543 grams  Apex Record\n 0.002  clean   455 grams  M.A.W. Equipment\n 0.002  clean   459 grams  이야기 보고 (Story Log)\n 0.000  clean   682 grams  감각 묘사 (Flavor Text)\n 0.000  clean   478 grams  이야기 (Narratio)\n 0.000  clean   235 grams  관찰 기록 (Observation Log)\n 0.000  clean   225 grams  Trivia\n 0.000  clean   209 grams  Appearance\n 0.000  clean   189 grams  Origin\n 0.000  clean   167 grams  Behavior\n 0.000  clean   118 grams  최종 관찰 (Final Observation)\n 0.000  clean    47 grams  SECC Classification\n 0.000  clean    46 grams  증언 (Testimonium)\n 0.000  THIN      1 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 45% against Weight pressure; 35% against other pressure types — and on this holding the second figure is untest\n   85   4  | { *The Century* [**Ultimate**] } | “A hundred years, for everyone, now — the list read all at once instead of one line at a time\n  160   3  | **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |\n  166   1  - **Sorrow Gauge on event:** Opens at 40% and rises 10% per interval unaddressed, and rises faster in the weeks either side of an \n  240   1  **Stat interpretation:** The grade records how cleanly the weight came off the holding, not what a bearer carries home. This set's\n  278   1  Management: read the current opening list aloud in the chamber, in full, to the end. The previous instruction — archive the truth,\n  367   3  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat); the municipal \n  421   4  The record office's archivists asked, in Year 4218, for one narrow relaxation: where every person named in an item is demonstrably\nGENERIC 0.003  (20 shared shingles)  SE-C-IVδ-220_Walking_Calendar_세월의_무게.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-220-A__SIDE_CODEX_Walking_Calendar.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-220-B__MAW-W_The_Years_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-220-C__MAW-S_The_Years_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-220-D__MAW-G_The_Years_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-220-A__SIDE_CODEX_Walking_Calendar.md": "4a718455b69016dc69ae8764a8a52d56881879f31e5a69da9119c1d7de9e35d8",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-220-B__MAW-W_The_Years_Maul.md": "59eebe3517bf0b732f88078028075227db6ea7f600f9a23b887bfd4afd74ab7d",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-220-C__MAW-S_The_Years_Mantle.md": "fc3b7cc5d10d0e819b38797c584f1abeb1e7d0f9936cc6d6f288373f72251c28",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-220-D__MAW-G_The_Years_Charm.md": "431f70647e3554c611e6a2b8d24b644594b42d0447ab5a4652191b71bc3e99eb",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 1,
+        "weapon": 1,
+        "se": 0
+      },
+      "link": "[[SE-C-IVδ-220_Walking_Calendar_세월의_무게](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-220_Walking_Calendar_%EC%84%B8%EC%9B%94%EC%9D%98_%EB%AC%B4%EA%B2%8C.md \"SE-C-IVδ-220_Walking_Calendar_세월의_무게.md\")]",
+      "table_link": "[Walking Calendar](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-220_Walking_Calendar_%EC%84%B8%EC%9B%94%EC%9D%98_%EB%AC%B4%EA%B2%8C.md \"SE-C-IVδ-220_Walking_Calendar_세월의_무게.md\")",
+      "reading": {
+        "before_lines": 452,
+        "before_bytes": 48666,
+        "final_lines": 452,
+        "final_bytes": 49565
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 47,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": "Digit changes are documented figure reuse only: the template Speed 2.45 m/s is removed and the file's own traverse baseline of 600 a season is restated. No other figure, date, score or count was altered."
+      }
     }
   ],
   "opened_at": "2026-10-28",
-  "completed": 2
+  "completed": 3
 }

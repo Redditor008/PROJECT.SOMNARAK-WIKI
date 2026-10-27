@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 195 — OPEN, 2 / 5 (2026-10-28)
+## Batch 195 — OPEN, 3 / 5 (2026-10-28)
+
+Unit 3 — **Walking Calendar `C-IVδ-220`: HELD, fresh +1 Types / +1 Weapon.** 8 repairs (3s/5c; 8,202→8,358 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_03_WALKING_CALENDAR.md).
 
 Unit 2 — **Floating Well `C-IIIγ-448`: HELD; credit-barred, +0.** 9 repairs (2s/7c; 8,184→8,428 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_02_FLOATING_WELL.md).
 

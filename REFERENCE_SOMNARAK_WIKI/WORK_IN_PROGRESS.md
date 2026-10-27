@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 195 — OPEN, 2 / 5 (2026-10-28)
+## Batch 195 — OPEN, 3 / 5 (2026-10-28)
+
+**Unit 3 — Walking Calendar `C-IVδ-220`: HELD, fresh +1/+1.** Eight repairs (3 short / 5 careful; 8,202→8,358 words); first exact-pair disposition (erased-vs-scheduled fork held). [Evidence](SE_APPEARANCE_REVIEWS/B195_03_WALKING_CALENDAR.md). Counters: Types 286/301, Weapon 284/287, SE 18/301.
 
 **Unit 2 — Floating Well `C-IIIγ-448`: HELD, +0.** Nine repairs (2 short / 7 careful; 8,184→8,428 words): a dry well stops drowning people in all five combat rows. Credit barred by the in-file 2026-10-11 review. [Evidence](SE_APPEARANCE_REVIEWS/B195_02_FLOATING_WELL.md).
 
