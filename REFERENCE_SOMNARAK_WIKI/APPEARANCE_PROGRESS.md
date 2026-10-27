@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B192 U2 The Hollow Choir `C-IIIγ-021` HELD, +0.** 3 repairs (1s/2c), 7,946→8,087w. Types 280/301 (93.02%), Weapon 278/287 (96.86%), SE 18/301 (5.98%); held 218 / pending 63. [Evidence](SE_APPEARANCE_REVIEWS/B192_02_THE_HOLLOW_CHOIR.md).
+- **Latest: B192 U3 Spire of Unanswered Prayer `O-IIβ-796` HELD, fresh +1/+1.** 6 repairs (2s/4c), 7,963→8,087w. Types 281/301 (93.36%), Weapon 279/287 (97.21%), SE 18/301 (5.98%); held 219 / pending 62. [Evidence](SE_APPEARANCE_REVIEWS/B192_03_SPIRE_OF_UNANSWERED_PRAYER.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

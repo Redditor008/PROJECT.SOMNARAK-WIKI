@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-IIβ-796": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_03_SPIRE_OF_UNANSWERED_PRAYER.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -6340,8 +6352,29 @@
     {
       "designation": "O-IIβ-796",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-796_Spire_of_Unanswered_Prayer_솟구친_탑.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Six source-supported repairs (2 short / 4 careful): the combat table loses its masonry — a leaning waterlogged tower to enter and climb, weeping stones, a falling slab, collapsing skylines — for a holding with no physical extent, no structure ever found, and nothing to strike; the rows now deal the documented harm (expectation, upward weeping, joining the asking). First independent full-set source review of SE-796: fresh +1 Types / +1 Weapon; whole design HELD, SE +0.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_03_SPIRE_OF_UNANSWERED_PRAYER.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/796_Spire_of_Unanswered_Prayer/SE-796-A__SIDE_CODEX_Spire_of_Unanswered_Prayer.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/796_Spire_of_Unanswered_Prayer/SE-796-B__MAW-W_The_Tower_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/796_Spire_of_Unanswered_Prayer/SE-796-C__MAW-S_The_Tower_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/796_Spire_of_Unanswered_Prayer/SE-796-D__MAW-G_The_Tower_Tear.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IIβ-833",
@@ -8911,6 +8944,14 @@
       "batch": 191,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_01_SOMNIUM.md",
       "history_proof": "Fresh exact175 pair/fullset review. No prior evidence mentions C-IVγ-175; no in-file cross-source/full-set review block (Registrum subject-matter note vs Mourning a Life is not an equipment review); Side A has no profile-hold/disposition paragraph; equipment_reviews has no 175 entry; git path history only the B179 import (87f1a01). Side A (182 lines, SECC C-IVγ-175 [LS], set Unlived Thread) and items B/C/D in Registry_170_to_184/175_Somnium read whole including Appearance sections; Registry rows 442-445 confirm identity (Weapon Variable/-/-, Stigma generic Accessory/5%); the separate C-Iα-175 Anger Underfoot dossier is not this set. Supervisor-carried vs anchor-bound blade, shroud and thread-band appearance forks held unmerged. New +1 Types/+1 Weapon; SE +0 (whole design HELD).",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "O-IIβ-796",
+      "batch": 192,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_03_SPIRE_OF_UNANSWERED_PRAYER.md",
+      "history_proof": "Fresh exact796 pair/fullset review. No prior evidence mentions O-IIβ-796; no in-file cross-source/full-set review block (the Binding and Return Care section is handling doctrine, resolving no name/profile against item/Side/Registry records); Side A has no profile-hold/disposition paragraph; equipment_reviews has no 796 entry; git path history only the B179 import (87f1a01). Side A (66 lines) and items B/C/D in Registry_762_to_801/796_Spire_of_Unanswered_Prayer read whole including Appearance sections; Registry rows 895-898 confirm identity (Weapon Variable/-/-, Stigma generic Accessory/5%); Sinking Chime-Tower vs Tower Requiem name fork first recorded here and held unmerged. New +1 Types/+1 Weapon; SE +0 (whole design HELD).",
       "all_types_credit": true,
       "weapon_credit": true
     }

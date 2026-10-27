@@ -297,8 +297,157 @@
         "source_files_unchanged": 10,
         "digit_sequence_change": ""
       }
+    },
+    {
+      "designation": "O-IIβ-796",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-796_Spire_of_Unanswered_Prayer_솟구친_탑.md",
+      "words": 7963,
+      "sha256": "41a50d53b4606155bfa21e8bd9dea4286eeedf2138d1f894fa747b7e3dc70aed",
+      "unit": 3,
+      "name": "Spire of Unanswered Prayer",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_03_SPIRE_OF_UNANSWERED_PRAYER.md",
+      "before_words": 7963,
+      "after_words": 8087,
+      "base": "c7ab60b16510bb4501988cd4defb092126254e27",
+      "final_sha256": "18825e37609bec93cbc0b2010887ac8fa5aad5f02ab52ceb2a12057b4b06c3b7",
+      "summary": "Six source-supported repairs (2 short / 4 careful): the combat table loses its masonry — a leaning waterlogged tower to enter and climb, weeping stones, a falling slab, collapsing skylines — for a holding with no physical extent, no structure ever found, and nothing to strike; the rows now deal the documented harm (expectation, upward weeping, joining the asking). First independent full-set source review of SE-796: fresh +1 Types / +1 Weapon; whole design HELD, SE +0.",
+      "commentary": "The Spire's file is careful everywhere except its fight choreography, where a voice with no body kept dropping architecture on people. The repairs keep the numbers and remove the building: what falls is the asking, what soaks is patience, and the casualty is a listener who starts expecting an answer. The set review found the usual agreement underneath a split name — the bells are the Sinking Chime-Tower in the primary and The Tower Requiem inside their own item file — and no earlier disposition anywhere that records that fork, which is why the fresh credit is earned rather than repeated.",
+      "reasoning": "Set SE-796 identity resolved from Side A and items carrying 'Source SECC Designation O-IIβ-796 [LS]'; Registry rows 895–898. Sentence triage: the first four combat rows and the Ultimate's flavor were tower-structure template against a no-extent, no-structure-ever-found record (an observer reporting a seen tower is 'the most significant finding of the cycle'); Consequences bullet 1 was the stock conduit line. R-18 split declared before the apply: 2 short / 4 careful. The primary's 'Binding and Return Care' section is equipment-handling doctrine (naming, attribution review, return entries), not a cross-source profile disposition: it resolves no figure, name or profile against the items, Side, Registry or Master records, so unlike the dated in-file reviews of Bulwark/Lantern/Choir it is not a coverage event — the weapon name fork below is recorded nowhere before this review. Digits unchanged.",
+      "history": "Fresh-credit proof by negatives: no in-file cross-source/full-set review block (the 'Binding and Return Care' paragraph is handling doctrine only, per the reasoning above); Side A carries no profile-hold or disposition paragraph; no prior evidence file mentions O-IIβ-796; ledger equipment_reviews has no 796 entry; git path history shows only the B179 import (87f1a01). First independent exact-pair/full-set review: Side A (66 lines) and items B/C/D read whole including Appearance sections; Registry rows 895–898 confirm identity (Weapon Variable/-/-; Stigma generic Accessory/5%); machine fields agree (Lament 5–9, 2/2, Single, 4/25; resistances 0.4/1.0/1.6/0.8; Tail/5%/+1). Fresh credit: Types +1, Weapon +1, SE +0. Counters become 281/301, 279/287, 18/301.",
+      "holds": [
+        "Weapon name fork, first recorded here: primary + Registry + item title 'The Sinking Chime-Tower' (four graduated bronze bells, descending-peal pinning) vs Side set table, item epigraph/history/maintenance 'The Tower Requiem' — identical figures (Lament 5–9 / 2 / 2 / Single / 4 / 25), no alias stated anywhere. Neither name normalized.",
+        "Suit fork: primary blood-cold Han-silk shroud (the one sensation not like rescue) vs item C, whose Appearance gives doctrine without a physical form — no form imported; resistances/max/cost agree.",
+        "Stigma Tail / 5% / +1 agree across primary, Side and item D vs Registry generic Accessory / 5%; item D's settlement-revealing source-trace vs primary shelter-field ability kept distinct.",
+        "Item terminal states ('manifestation uses the bearer as its new site') vs the primary's no-casualty, sound-only record — preserved in their sources, not imported.",
+        "The 3,140 unaveraged elevation readings, the two sub-minute silences, and the unvalidated 400-hour ceiling ('correct, and the ceiling stands') remain the file's open record."
+      ],
+      "split": [
+        2,
+        4
+      ],
+      "repairs": [
+        {
+          "id": "R1-heavy-lean",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Heavy Lean* [**Debuff**] } | \"The tower leans — waterlogged, saturated — and the lean is getting worse with every drop it absorbs.\" | [The Tower's saturation transmits weight; the target feels waterlogged.] | *Target suffers -10 Composure; they are soaked with structural grief.* **[10 Lament DMG [Lament]]** | When the target enters the Tower. |",
+          "new": "| { *The Heavy Lean* [**Debuff**] } | \"The sound leans — warm, close, unmistakably overhead — and the lean is toward you, as though the asking had noticed somebody in the room.\" | [The Tower's warmth settles on the listener; there is no structure to enter and nothing to lean but the song.] | *Target suffers -10 Composure; they are soaked through with somebody else's waiting.* **[10 Lament DMG [Lament]]** | When the listener first comes within hearing of the song. |"
+        },
+        {
+          "id": "R2-weeping-stones",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Weeping Stones* [**Debuff**] } | \"Water runs from every crack, every joint — the tower is crying from the inside out.\" | [The Tower's internal sorrow-bleed saturates the air; the target is wading.] | *Target loses 10 Composure; the tears are structural.* **[10 Lament DMG [Lament]]** | When the target climbs. |",
+          "new": "| { *The Weeping Stones* [**Debuff**] } | \"Warm rain on crystal, nearer now — and your own weeping starts running the wrong way, toward it.\" | [The song's register saturates the air of the vault; there are no stones and nowhere to climb, only listeners standing under weather that does not exist.] | *Target loses 10 Composure; the tears fall upward.* **[10 Lament DMG [Lament]]** | When the listener stays for a second verse. |"
+        },
+        {
+          "id": "R3-falling-slab",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Falling Slab* [**Attack**] } | \"A waterlogged slab breaks free — heavy, saturated, falling like a wet stone.\" | [A soaked structural piece drops.] | *Inflicts Lament pressure and one crushing, sodden wound.* **[14-22 Lament DMG [Lament]]** | When the Tower is struck. |",
+          "new": "| { *The Falling Slab* [**Attack**] } | \"Something heavy gives way overhead — not stone; there has never been a structure here. What falls is the whole weight of the asking, at once, on one pair of shoulders.\" | [Nothing material drops. The elevation reports agree on one thing only: it was suddenly much closer.] | *Inflicts Lament pressure; the wound is expectation — the listener leaves certain something is on its way.* **[14-22 Lament DMG [Lament]]** | When a listener answers the warmth as though it were rescue arriving. |"
+        },
+        {
+          "id": "R4-full-saturation-flavor",
+          "kind": "short flavor grounding",
+          "careful": false,
+          "old": "\"The tower gives up — every stone too saturated to hold — and it pours itself out in a flood.\"",
+          "new": "\"The register gives way all at once — not stone and not water, but every hour of the waiting arriving together.\""
+        },
+        {
+          "id": "R5-drowned-skyline",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Drowned Skyline* [**Ultimate**] } | \"Every tower in the field saturates and collapses — and the combined flood reshapes the whole area.\" | [The asking spreads past the vault and every listener in earshot is placed inside the same upward call, receiving nothing.] | *All in range suffer Lament pressure for three turns of drowning towers.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Drowned Skyline* [**Ultimate**] } | \"No towers fall; there are none. The asking simply stops being the vault's — it is in the corridors, overhead everywhere at once, and no one in earshot is outside it.\" | [The asking spreads past the vault and every listener in earshot is placed inside the same upward call, receiving nothing.] | *All in range suffer Lament pressure for three turns inside the unanswered call.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+        },
+        {
+          "id": "R6-consequences-conduit",
+          "kind": "short consequence correction",
+          "careful": false,
+          "old": "- A worker who cannot hold against the asking becomes a conduit rather than a casualty: the grief pours through them and takes their **Clarity** with it, and what the vault receives back is their instability, which is the fuel the gauge climbs on.",
+          "new": "- A worker who cannot hold against the asking does not break; they join it. Their own outstanding requests come back at full warmth, the Clarity goes out of the watch while they wait for answers the file knows are not scheduled, and what returns to the vault is one more person asking upward — which is the fuel the gauge climbs on."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IIβ-796_Spire_of_Unanswered_Prayer_솟구친_탑.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.024  clean   714 grams  Combat Record\n 0.014  clean   207 grams  Breach Behavior\n 0.013  clean   761 grams  M.A.W. Equipment\n 0.001  clean   811 grams  Watch Record\n 0.000  clean   739 grams  감각 묘사 (Flavor Text)\n 0.000  clean   398 grams  기록 (Registrum)\n 0.000  clean   386 grams  이야기 (Narratio)\n 0.000  clean   305 grams  관찰 기록 (Observation Log)\n 0.000  clean   290 grams  Trivia\n 0.000  clean   256 grams  Appearance\n 0.000  clean   229 grams  이야기 보고 (Story Log)\n 0.000  clean   212 grams  Operational Parameters\n 0.000  clean   173 grams  Origin\n 0.000  clean   145 grams  최종 관찰 (Final Observation)\n 0.000  clean   143 grams  Behavior\n 0.000  clean    61 grams  증언 (Testimonium)\n 0.000  clean    34 grams  SECC Classification\n 0.000  clean    33 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   54   2  | **Resistance** | 25% against Lament pressure; 15% against everything else. Nothing is rated against the warmth, which is the par\n   83   4  | { *The Full Saturation* [**Attack**] } | \"The register gives way all at once — not stone and not water, but every hour of the wa\n   84   6  | { *The Drowned Skyline* [**Ultimate**] } | \"No towers fall; there are none. The asking simply stops being the vault's — it is in\n   90   5  3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Listen to the so\n  159   3  | **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |\n  220   1  **Effect:** +1 while this holding is the subject of the cycle and nothing anywhere else: the charm reads the vault's own register,\n  242   5  | **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline put down by a colleague: what does the bearer still f\n  247   4  **Stat interpretation:** Field performance and human cost are separate axes, and on this file the separation is the whole hazard: \n  428   1  The objection is on file from the counsellors and from the listeners themselves, and it has never been answered. Four hundred is a\nGENERIC 0.005  (31 shared shingles)  SE-O-IIβ-796_Spire_of_Unanswered_Prayer_솟구친_탑.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/796_Spire_of_Unanswered_Prayer/SE-796-A__SIDE_CODEX_Spire_of_Unanswered_Prayer.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/796_Spire_of_Unanswered_Prayer/SE-796-B__MAW-W_The_Tower_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/796_Spire_of_Unanswered_Prayer/SE-796-C__MAW-S_The_Tower_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/796_Spire_of_Unanswered_Prayer/SE-796-D__MAW-G_The_Tower_Tear.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/796_Spire_of_Unanswered_Prayer/SE-796-A__SIDE_CODEX_Spire_of_Unanswered_Prayer.md": "f4fa19c5c43bb672bfb0af25dd9c8933e865bc0ee1b9cb88250ad72bd94bd225",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/796_Spire_of_Unanswered_Prayer/SE-796-B__MAW-W_The_Tower_Requiem.md": "1675bda1f4e0477c1eafcce8dfae575cde473fb25a6d3d4fa41ccf31c5632e0d",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/796_Spire_of_Unanswered_Prayer/SE-796-C__MAW-S_The_Tower_Shroud.md": "fb57cf7137056c3b69935b91612586c577897e8420857ce133862f3415c598e5",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/796_Spire_of_Unanswered_Prayer/SE-796-D__MAW-G_The_Tower_Tear.md": "136f8bef7bc4db7987cf74cb495e7907dab4f45656cafe325e25f6d0bfe0e18d",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 1,
+        "weapon": 1,
+        "se": 0
+      },
+      "link": "[[SE-O-IIβ-796_Spire_of_Unanswered_Prayer_솟구친_탑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-796_Spire_of_Unanswered_Prayer_%EC%86%9F%EA%B5%AC%EC%B9%9C_%ED%83%91.md \"SE-O-IIβ-796_Spire_of_Unanswered_Prayer_솟구친_탑.md\")]",
+      "table_link": "[Spire of Unanswered Prayer](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-796_Spire_of_Unanswered_Prayer_%EC%86%9F%EA%B5%AC%EC%B9%9C_%ED%83%91.md \"SE-O-IIβ-796_Spire_of_Unanswered_Prayer_솟구친_탑.md\")",
+      "reading": {
+        "before_lines": 449,
+        "before_bytes": 47916,
+        "final_lines": 449,
+        "final_bytes": 48569
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 62,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": ""
+      }
     }
   ],
   "opened_at": "2026-10-27",
-  "completed": 2
+  "completed": 3
 }
