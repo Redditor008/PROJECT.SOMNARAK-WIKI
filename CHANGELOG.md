@@ -8,9 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 189 — OPEN, 4 / 5 (2026-10-27)
+## Batch 189 — OPEN, 5 / 5 (2026-10-27)
 
-**Unit 4 — Redacted `N-IIIγ-184`: HELD — fresh +1 Types / +1 Weapon.** Three repairs (2 short / 1 careful; 7663→7745 words); five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_04_REDACTED.md). Unit 3 Rem fresh +1/+1; Unit 2 No change; Unit 1 HELD. Completed 4/5; No change 1; held 205 / pending 76. Counters: Types 276/301, Weapon 274/287, SE 18/301.
+**Unit 5 — Harvest Beyond the Gate `N-IIβ-627`: HELD — fresh +1 Types / +1 Weapon.** Six repairs (5 short / 1 careful; 7681→7789 words); five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_05_HARVEST_BEYOND_THE_GATE.md). Completed 5/5; No change 1; held 206 / pending 75. Counters: Types 277/301, Weapon 275/287, SE 18/301. Closure follows in this prompt.
 
 ## Batch 188 — CLOSED, 5 / 5 (2026-10-27)
 

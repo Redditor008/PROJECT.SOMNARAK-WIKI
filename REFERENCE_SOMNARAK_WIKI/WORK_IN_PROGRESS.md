@@ -1,8 +1,8 @@
 # Work In Progress
 
-## Batch 189 — OPEN, 4 / 5 (2026-10-27)
+## Batch 189 — OPEN, 5 / 5 (2026-10-27)
 
-**Unit 4 — Redacted `N-IIIγ-184`: HELD — fresh +1 Types / +1 Weapon.** Three supported repairs (2 short / 1 careful; 7,663→7,745 words): both movement lines drop "can breach and pursue" (two escapes, both to records stores, nobody pursued), and the Registrum Originator stops supplying a citizen the record never named — the field now carries the file's own finding that no originating person can be established. First independent full-set review of SE-184 by negative proof. [Evidence](SE_APPEARANCE_REVIEWS/B189_04_REDACTED.md). Unit 3 Rem fresh +1/+1; Unit 2 No change; Unit 1 HELD. Queue: `N-IIβ-627`. Counters now Types 276/301, Weapon 274/287, SE 18/301.
+**Unit 5 — Harvest Beyond the Gate `N-IIβ-627`: HELD — fresh +1 Types / +1 Weapon.** Six supported repairs (5 short / 1 careful; 7,681→7,789 words): the four self-describing Flavor paragraphs now describe the orchard, the stock harm list becomes the lost middle of the morning, and a failed watch is recorded as this holding actually fails — by a touch or a promise. First independent full-set review of SE-627 by negative proof. [Evidence](SE_APPEARANCE_REVIEWS/B189_05_HARVEST_BEYOND_THE_GATE.md). Batch so far: three fresh credits (Rem, Redacted, Harvest), one No change (Sleeping Weight), Aphonia HELD. Counters now Types 277/301, Weapon 275/287, SE 18/301. Closure follows in this prompt.
 
 ## Batch 188 — CLOSED, 5 / 5 (2026-10-27)
 

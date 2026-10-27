@@ -520,7 +520,156 @@
         "source_files_unchanged": 10,
         "digit_sequence_change": ""
       }
+    },
+    {
+      "designation": "N-IIβ-627",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매.md",
+      "words": 7681,
+      "sha256": "39de673b96bd42e38953a204e66c1c625bfe8aabd90c669e514ed75653d874a4",
+      "unit": 5,
+      "name": "Harvest Beyond the Gate",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_05_HARVEST_BEYOND_THE_GATE.md",
+      "before_words": 7681,
+      "after_words": 7789,
+      "base": "834d294c5b75d5adfee0d43cfc7a570b5831d17a",
+      "final_sha256": "b456bbffd720e9d9fed504a23cadec5c23b35c9f97dc0d94c2270b358a1e09d5",
+      "summary": "Six source-supported repairs (5 short / 1 careful): the four Flavor paragraphs stop describing themselves as not-generic and start describing the orchard (rows under the pool, the lost middle of the morning, setting that follows arrivals, the plainly-asked tasting question); the Work Notes' stock 'memory, environment or identity' cost list becomes this holding's documented loss; and the Consequences' invented 'gate open an hour past its hour' becomes the file's own rule — a touched fruit or a return promise is filed as a feeding. First independent full-set source review of SE-627: fresh +1 Types / +1 Weapon; whole design remains HELD, SE +0.",
+      "commentary": "Most of Harvest Beyond the Gate is written at the standard of the planting notes it mourns — paced frontages, two fruit counts that always match, a man pruning trees that are not there — which made its Flavor block read like a page from a different, lesser file: four paragraphs insisting the sorrow is specific without ever saying anything specific. The repairs replace them with the holding's own observations, and take out two other stock phrases: a generic harm list in the Work Notes and an invented gate-hour consequence that nothing else in the file supports. The equipment review found the usual held fork at the Weapon slot — the primary's tallow-coated falchion against the item file's melting fang, with identical machine fields underneath — and no prior review anywhere, so the fresh credit is earned and everything else stays held.",
+      "reasoning": "Set SE-627 identity resolved from Side A (SECC Designation N-IIβ-627 [GP], set 'Desire Without Promise') and item codes MAW-W/S/G-627-01; all four flat set files read whole. Sentence triage: combat rows, phases, expansion and interaction records are holding-specific; the defects were (a) four Flavor paragraphs of self-referential template prose ('does not go generic or abstract', 'not generic Grudge; it is this entity's Grudge', 'stops being background and becomes foreground', 'personnel monitored for Fracture risk'), (b) the Work Notes' generic 'costing the worker memory, environment or identity', and (c) a Consequences claim that an uncontained run 'leaves the gate open an hour past its hour', a mechanism no other line of the file documents, against the file's actual failure modes (touched fruit filed as a feeding; a return promise ends the condition). R-18 split declared before the apply: 5 short / 1 careful (the Consequences bullet). Every replacement is built from the file's own records — Operational Notes, Observation Log/Progression, Battle Phases Resolution — and no figure, chronology or equipment lineage was invented. Technical PASS on the frozen file (GENERIC 0.005) did not settle the Flavor or Consequence claims (R-33).",
+      "history": "Fresh-credit proof by negatives: no in-file cross-source/full-set review block; no prior evidence file mentions N-IIβ-627; ledger equipment_reviews has no 627 entry; git path history shows only the B179 import commit 87f1a01. First independent exact-pair/full-set review: Side A (80 lines) and items B/C/D read whole including Appearance sections and item histories (Lane Three medic, kitchen-taste Seed); Registry rows 775–778 confirm identity (Weapon Variable/-/-; Stigma generic Accessory/5%); primary Suit/Stigma fields agree with items (Tail/5%/+1; resistances 1.0/0.4/1.8/1.2), while the Weapon title and form fork is held. Fresh credit: Types +1, Weapon +1, SE +0 (whole design HELD). Counters become 277/301, 275/287, 18/301.",
+      "holds": [
+        "Weapon fork: primary 'The Tallow Falchion' (tallow-sheathed blade, electrical insulation, wax-stiffened joints) vs item/Side/Registry 'The Melting Fang' (Han-iron fang, Departure Cut) — machine fields identical (Grudge 5–9, Speed 2, Range 2, Single 100%, 4, 25) and the primary's Cost (old wounds ache, bruising where nothing struck) matches the Fang's costs; neither form normalized.",
+        "Stigma Tail / 5% / +1 (primary, item, Side agree) vs Registry's generic Accessory / 5% — never imported.",
+        "Primary Stigma Effect addition (a day of working outside one's trade without fear) has no counterpart in item D's Desire Kernel record — held as the primary's own claim, neither confirmed nor struck.",
+        "Frontage↔Trades-Office-return correspondence and the Common Ground keepers' unanswered submission remain the file's own findings; the two-fruit-counts equality stands as reported.",
+        "Side A Pugnahan note ('confrontation crushes the fruit into rage') vs the primary's class rule that Pugnahan is simply unavailable on a Place and has never been attempted — primary governs itself; Side A untouched."
+      ],
+      "split": [
+        5,
+        1
+      ],
+      "repairs": [
+        {
+          "id": "R1-flavor-first-contact-tail",
+          "kind": "short flavor grounding",
+          "careful": false,
+          "old": " The space does not go generic or abstract — it changes in the specific way associated with Grudge and with this holding's Place-Grudge form.",
+          "new": " The rows are the last thing the eye settles on: correctly spaced, correctly oriented, windbreak stock on the weather side, exactly where the planting notes say to put it."
+        },
+        {
+          "id": "R2-flavor-continued-exposure",
+          "kind": "short flavor grounding",
+          "careful": false,
+          "old": "**With continued exposure:** The longer you stay, the more specific the sorrow becomes. This is not generic Grudge; it is this entity's Grudge — shaped by its origin, its wound, its particular grief.",
+          "new": "**With continued exposure:** Past the first half-hour among the rows the middle of the morning goes missing, and personnel smell the fruit — sweet and burned at once — before they can say what else is gone. One fruit at a time it stays specific: a kitchen, a particular table, a particular year's crop coming in."
+        },
+        {
+          "id": "R3-flavor-activates",
+          "kind": "short flavor grounding",
+          "careful": false,
+          "old": "**When the entity activates:** When it activates, the Grudge stops being background and becomes foreground — loud, physical, impossible to ignore. The Place-Grudge was waiting for this.",
+          "new": "**When the entity activates:** Setting follows arrivals — after a heavy day at the Gate the clusters come on thick, and in the weeks when nobody comes out the frontage simply stops advancing. A frontage that moves in a quiet week is the escalation signal here: pace it again the same day and notify the Gate watch."
+        },
+        {
+          "id": "R4-flavor-after-departure",
+          "kind": "short flavor grounding",
+          "careful": false,
+          "old": "**After departure:** What remains after the door closes is not fear but weight — a Grudge aftertaste that fades slowly, personnel monitored for Fracture risk in the hours that follow.",
+          "new": "**After departure:** Personnel who have tasted it report fear rather than pleasure, and the taste is always of something from their own childhood. The post-contact review asks the question plainly — whether any Warden tasted anything — and it is answered plainly and carries no consequence."
+        },
+        {
+          "id": "R5-work-notes-cost",
+          "kind": "short cost correction",
+          "careful": false,
+          "old": "and observation can leave the gauge untouched while still costing the worker memory, environment or identity.",
+          "new": "and observation can leave the gauge untouched while still costing the worker the middle of a morning they cannot afterwards account for."
+        },
+        {
+          "id": "R6-consequences-uncontained-run",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- A run that ends without containment leaves the gate open an hour past its hour, and the next tally of touched fruit comes out larger than the last.",
+          "new": "- A cycle that ends with a fruit touched is filed as a feeding, whatever the worker intended, and a promise of return made within sight of the Gate ends the condition the same way. Nothing else on this holding is a failure of containment: the ground is not breached, it is fed, and the record says which."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.025  clean   516 grams  Combat Record\n 0.016  clean   851 grams  M.A.W. Equipment\n 0.002  clean   925 grams  Watch Record\n 0.000  clean   608 grams  감각 묘사 (Flavor Text)\n 0.000  clean   373 grams  이야기 (Narratio)\n 0.000  clean   331 grams  이야기 보고 (Story Log)\n 0.000  clean   323 grams  기록 (Registrum)\n 0.000  clean   260 grams  Expansion Behavior\n 0.000  clean   225 grams  Origin\n 0.000  clean   214 grams  관찰 기록 (Observation Log)\n 0.000  clean   211 grams  Trivia\n 0.000  clean   209 grams  Behavior\n 0.000  clean   188 grams  Operational Parameters\n 0.000  clean   174 grams  Appearance\n 0.000  clean   106 grams  최종 관찰 (Final Observation)\n 0.000  clean    48 grams  증언 (Testimonium)\n 0.000  clean    45 grams  SECC Classification\n 0.000  clean    28 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   55   2  | **Resistance** | 25% against Grudge pressure; 15% against everything else. Nothing is rated against the fruit itself, which does\n   84   4  | { *The Full Liquefaction* [**Attack**] } | \"The fruit melts entirely — becoming a pool of liquid, concentrated rage.\" | [Crushed\n   85   7  | { *The Molten Orchard* [**Ultimate**] } | \"Every fruit in the field melts — and the combined liquid rage floods everything.\" | [\n  203   2  **Ability:** Deals Grudge damage against the Body — physical form and structural integrity — and channels the orchard's signature \n  223   1  **Cost:** Reflexes thin in the wearer, as if the body had picked up a grudge of its own, and the wearer is the last to register it\n  229   3  **Appearance:** a seed-charm of Grudge Han-iron, dark and warm to the touch, cast as a single fruit with the seam of the orchard's\n  253   3  | **Before use** | Wielder, piece, the day's reading, and a baseline written down and kept by a second person. On this set the que\n  254   5  | **During use** | The charge announces itself as an ache in the old wounds, arriving in weather the orchard never made. The hour \n  419   2  The plot keepers asked for the narrowest possible change: that attendance alone, with no assessment and no detail, be admissible a\nGENERIC 0.005  (29 shared shingles)  SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-627-A__SIDE_CODEX_Harvest_Beyond_the_Gate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-627-B__MAW-W_The_Melting_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-627-C__MAW-S_The_Melting_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-627-D__MAW-G_The_Melting_Seed.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-627-A__SIDE_CODEX_Harvest_Beyond_the_Gate.md": "f605724c4572f9f6c1a5d415e163d0df1e84aeec623f81f5725a281039df98bf",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-627-B__MAW-W_The_Melting_Fang.md": "2fe1d86d3255f7dc2927080bc1e209d1ee4cd7bf43c37e1debabe49638fe9fa1",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-627-C__MAW-S_The_Melting_Plate.md": "07df10d2b219d91aa906306a318361b6927c79bbf106c34b3da5b1f74c7d38c4",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-627-D__MAW-G_The_Melting_Seed.md": "ada5c5b809f60cf53da53b5074232b06ecffc2ed86cc64d77b2bfecf321f8d03",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 1,
+        "weapon": 1,
+        "se": 0
+      },
+      "link": "[[SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-627_Harvest_Beyond_the_Gate_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%97%B4%EB%A7%A4.md \"SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매.md\")]",
+      "table_link": "[Harvest Beyond the Gate](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-627_Harvest_Beyond_the_Gate_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%97%B4%EB%A7%A4.md \"SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매.md\")",
+      "reading": {
+        "before_lines": 444,
+        "before_bytes": 45362,
+        "final_lines": 444,
+        "final_bytes": 45925
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 75,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": ""
+      }
     }
   ],
-  "completed": 4
+  "completed": 5
 }

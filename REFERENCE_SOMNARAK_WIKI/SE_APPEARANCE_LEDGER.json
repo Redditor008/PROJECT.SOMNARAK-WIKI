@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IIβ-627": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_05_HARVEST_BEYOND_THE_GATE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -4451,8 +4463,29 @@
     {
       "designation": "N-IIβ-627",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Six source-supported repairs (5 short / 1 careful): the four Flavor paragraphs stop describing themselves as not-generic and start describing the orchard (rows under the pool, the lost middle of the morning, setting that follows arrivals, the plainly-asked tasting question); the Work Notes' stock 'memory, environment or identity' cost list becomes this holding's documented loss; and the Consequences' invented 'gate open an hour past its hour' becomes the file's own rule — a touched fruit or a return promise is filed as a feeding. First independent full-set source review of SE-627: fresh +1 Types / +1 Weapon; whole design remains HELD, SE +0.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_05_HARVEST_BEYOND_THE_GATE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-627-A__SIDE_CODEX_Harvest_Beyond_the_Gate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-627-B__MAW-W_The_Melting_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-627-C__MAW-S_The_Melting_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-627-D__MAW-G_The_Melting_Seed.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIβ-689",
@@ -8610,6 +8643,14 @@
       "batch": 189,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_04_REDACTED.md",
       "history_proof": "Fresh exact184source pair/fullset review. Complete evidence/CHANGELOG/WIP designation history search finds no prior review of N-IIIγ-184 outside pending fingerprints; the primary carries no in-file cross-source or full-set review block; equipment_reviews has no 184 entry; git path history only the B179 import (87f1a01). Side A (182 lines) and items B/C/D read whole including Appearance sections; Registry rows 454-457 confirm identity (Weapon Variable/-/-, Stigma generic Accessory/5%); primary/Registry Arboretum Lance vs item/Side Redacted Lens, suit appearance, and Head/4%/+2 vs generic Accessory forks held unmerged. Thus new +1 Types/+1 Weapon, no SE credit (whole design HELD).",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "N-IIβ-627",
+      "batch": 189,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_05_HARVEST_BEYOND_THE_GATE.md",
+      "history_proof": "Fresh exact627source pair/fullset review. Complete evidence/CHANGELOG/WIP designation history search finds no prior review of N-IIβ-627 outside pending fingerprints; no in-file cross-source or full-set review block; equipment_reviews has no 627 entry; git path history only the B179 import (87f1a01). Side A and flat items B/C/D in Registry_622_to_641 read whole including Appearance sections; Registry rows 775-778 confirm identity (Weapon Variable/-/-, Stigma generic Accessory/5%); primary Tallow Falchion vs item/Side/Registry Melting Fang held with identical machine fields; Tail/5%/+1 stands on three agreeing sources. Thus new +1 Types/+1 Weapon, no SE credit (whole design HELD).",
       "all_types_credit": true,
       "weapon_credit": true
     }
