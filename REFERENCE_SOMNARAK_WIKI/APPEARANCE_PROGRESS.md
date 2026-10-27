@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B194 U3 Sleeping Tree `O-IIIγ-374` HELD, credit-barred, +0.** 7 repairs (4s/3c), 8,140→8,298w. Types 285/301 (94.68%), Weapon 283/287 (98.61%), SE 18/301 (5.98%); held 229 / pending 52. [Evidence](SE_APPEARANCE_REVIEWS/B194_03_SLEEPING_TREE.md).
+- **Latest: B194 U4 Frozen Echo `C-IIIγ-609` HELD, credit-barred, +0.** 6 repairs (2s/4c), 8,146→8,265w. Types 285/301 (94.68%), Weapon 283/287 (98.61%), SE 18/301 (5.98%); held 230 / pending 51; B194 stays OPEN 4/5. [Evidence](SE_APPEARANCE_REVIEWS/B194_04_FROZEN_ECHO.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

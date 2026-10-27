@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIIγ-609": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_04_FROZEN_ECHO.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -861,8 +873,29 @@
     {
       "designation": "C-IIIγ-609",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-609_Frozen_Echo_얼어붙은_메아리.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Six source-supported repairs (2 short / 4 careful): a Trivia look-up that contradicted its own equipment blocks (10–15/50, harness 45) now quotes them (7–12/40, 35); an object whose surface carries no chip stops shedding flying shards; an unmet condition stops triggering a 'destructive activation protocol' in a mass that takes no interest; and the handling log loses pulse-sync and damage-tick template. HELD; no credit (in-file full-set source review dated 2026-10-11).",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_04_FROZEN_ECHO.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-609-A__SIDE_CODEX_Thousand_Hands.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-609-B__MAW-W_Thousand_Hands_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-609-C__MAW-S_Thousand_Hands_Shield.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_589_to_617/SE-609-D__MAW-G_Thousand_Hands_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIIγ-649",

@@ -8,9 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 194 — OPEN, 3 / 5 (2026-10-27)
+## Batch 194 — OPEN, 4 / 5 (2026-10-27)
 
-Fresh ranking of 55 pending (wc -w ascending). Queue: `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833` Unit 3 — **Sleeping Tree `O-IIIγ-374`: HELD; credit-barred, +0.** 7 repairs (4s/3c; 8,140→8,298 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_03_SLEEPING_TREE.md).
+Fresh ranking of 55 pending (wc -w ascending). Queue: `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833` Unit 4 — **Frozen Echo `C-IIIγ-609`: HELD; credit-barred, +0.** 6 repairs (2s/4c; 8,146→8,265 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_04_FROZEN_ECHO.md).
+
+Unit 3 — **Sleeping Tree `O-IIIγ-374`: HELD; credit-barred, +0.** 7 repairs (4s/3c; 8,140→8,298 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_03_SLEEPING_TREE.md).
 
 Unit 2 — **The Soot Fry `C-IIβ-947`: HELD; credit-barred, +0.** 3 repairs (2s/1c; 8,139→8,185 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_02_THE_SOOT_FRY.md).
 

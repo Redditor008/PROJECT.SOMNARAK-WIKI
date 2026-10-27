@@ -1,8 +1,10 @@
 # Work In Progress
 
-## Batch 194 — OPEN, 3 / 5 (2026-10-27)
+## Batch 194 — OPEN, 4 / 5 (2026-10-27)
 
-Fresh ranking of 55 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833`. **Unit 3 — Sleeping Tree `O-IIIγ-374`: HELD, +0.** Seven repairs (4 short / 3 careful; 8,140→8,298 words): the unmoved sleeper stops prowling and scorching. Credit barred by the in-file 2026-10-12 full-set review. [Evidence](SE_APPEARANCE_REVIEWS/B194_03_SLEEPING_TREE.md).
+Fresh ranking of 55 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833`. **Unit 4 — Frozen Echo `C-IIIγ-609`: HELD, +0.** Six repairs (2 short / 4 careful; 8,146→8,265 words): a self-contradicting trivia row and a shard-shedding crystal corrected. Credit barred by the in-file 2026-10-11 full-set review. [Evidence](SE_APPEARANCE_REVIEWS/B194_04_FROZEN_ECHO.md). Batch stays OPEN 4/5; Unit 5 Neverlast waits for the next prompt.
+
+**Unit 3 — Sleeping Tree `O-IIIγ-374`: HELD, +0.** Seven repairs (4 short / 3 careful; 8,140→8,298 words): the unmoved sleeper stops prowling and scorching. Credit barred by the in-file 2026-10-12 full-set review. [Evidence](SE_APPEARANCE_REVIEWS/B194_03_SLEEPING_TREE.md).
 
 **Unit 2 — The Soot Fry `C-IIβ-947`: HELD, +0.** Three repairs (2 short / 1 careful; 8,139→8,185 words): a pass-through breach template removed from a water-bound fish. Credit barred by Side A's weapon-range hold. [Evidence](SE_APPEARANCE_REVIEWS/B194_02_THE_SOOT_FRY.md).
 
