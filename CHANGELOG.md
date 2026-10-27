@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 186 — OPEN, 5 / 5 (2026-10-27)
+## Batch 186 — CLOSED, 5 / 5 (2026-10-27)
+
+Five HELD; No change 0; 21 repairs; validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; [closure record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_CLOSE.md). Types 271/301 · Weapon 269/287 · SE Fix 18/301; held 191 / pending 90. Batch 187 opens next.
 
 **Unit 5 — The Lost Prince `C-IVγ-091`: HELD.** Four supported repairs (3 short / 1 careful; 7449→7639 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_05_THE_LOST_PRINCE.md). Batch 128 already counted set 091: +0/+0/+0. Completed 5/5; No change 0; held 191 / pending 90. Closure follows in this prompt.
 

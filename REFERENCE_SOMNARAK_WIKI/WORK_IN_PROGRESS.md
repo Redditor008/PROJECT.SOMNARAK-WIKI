@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 186 — OPEN, 5 / 5 (2026-10-27)
+## Batch 186 — CLOSED, 5 / 5 (2026-10-27)
+
+Fresh validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; all 90 remaining pending fingerprints unchanged; no source changes. 21 repairs (15 short / 6 careful), 37,473 → 38,364 words; No change 0; Types 271/301 · Weapon 269/287 · SE Fix 18/301. [Closure record](SE_APPEARANCE_REVIEWS/B186_CLOSE.md). Batch 187 follows in this prompt under the ten-review ceiling.
 
 **Unit 5 — The Lost Prince `C-IVγ-091`: HELD.** Four supported repairs (3 short / 1 careful; 7,449→7,639 words): combat rows 1–3 drop lost-ness-as-infection and a misplaced sword — the child carries none — for the three questions in order, the crown's point count against the rotation book, and a Drain that rises only on reassurance; the template consequence and two stock Flavor blocks become the search that exhausts itself and the counter with one left to lose. Batch 128 already counted set 091: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B186_05_THE_LOST_PRINCE.md). Closure follows in this prompt.
 
