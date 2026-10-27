@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "batch": 192,
+ "status": "OPEN",
+ "completed_units": 0,
+ "required_units": 5,
+ "queue": [
+  {
+   "unit": 1,
+   "designation": "C-Iα-175",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-175_Anger_Underfoot_스며든_흔적.md",
+   "words": 7870,
+   "sha256": "b1cb700c1151464a7e0f92fb16e0e3db3e8906f62f3d8eb7171022fa06ff26a4"
+  },
+  {
+   "unit": 2,
+   "designation": "C-IIIγ-021",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md",
+   "words": 7946,
+   "sha256": "a4bb66fce51cfae4067bbc5b8252888cea59a48b4a3f0ded52fb181a821d4688"
+  },
+  {
+   "unit": 3,
+   "designation": "O-IIβ-796",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-796_Spire_of_Unanswered_Prayer_솟구친_탑.md",
+   "words": 7963,
+   "sha256": "41a50d53b4606155bfa21e8bd9dea4286eeedf2138d1f894fa747b7e3dc70aed"
+  },
+  {
+   "unit": 4,
+   "designation": "C-IIIβ-036",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md",
+   "words": 8000,
+   "sha256": "a8a3b8debd037a400f1508dd1df29476cf6fc46faa85e1182ca1fc72ec69f73d"
+  },
+  {
+   "unit": 5,
+   "designation": "C-IIβ-100",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-100_Unsaid_Blossoms_벚꽃의_무덤.md",
+   "words": 8005,
+   "sha256": "4d2a2fc340a26b6c39672831f66c00a3aa74a150e099ba98a771ab6db12f0f00"
+  }
+ ],
+ "units": [],
+ "opened_at": "2026-10-27",
+ "completed": 0
+}

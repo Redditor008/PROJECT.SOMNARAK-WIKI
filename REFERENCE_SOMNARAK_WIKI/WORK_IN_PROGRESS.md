@@ -1,5 +1,9 @@
 # Work In Progress
 
+## Batch 192 — OPEN, 0 / 5 (2026-10-27)
+
+Fresh ranking of 65 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-Iα-175`, `C-IIIγ-021`, `O-IIβ-796`, `C-IIIβ-036`, `C-IIβ-100`. Units 1–4 are reviews 7–10 of this prompt; the batch stays open at 4/5 by design.
+
 ## Batch 191 — CLOSED, 5 / 5 (2026-10-27)
 
 Fresh ranking of 70 pending dossiers (LC_ALL=C wc -w ascending). Queue: Somnium `C-IVγ-175`, I Alone Crossed `C-IVδ-106`, Bulwark `N-Iα-459`, Debt-Collector's Lantern `N-IIβ-250`, Aegis `C-IVδ-200`. (Queue corrected to true LC_ALL=C wc counts before any unit was reviewed; Anger Underfoot ranks 6th.) Units 1–5 are reviews 2–6 of this prompt.

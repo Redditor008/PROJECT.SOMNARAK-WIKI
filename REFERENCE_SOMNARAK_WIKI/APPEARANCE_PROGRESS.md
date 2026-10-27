@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B191 CLOSED 5/5** (all HELD, No change 0, 26 repairs; fresh credit Somnium only). Types 280/301 (93.02%), Weapon 278/287 (96.86%), SE 18/301 (5.98%); held 216 / pending 65. B192 opens next. [Closure](SE_APPEARANCE_REVIEWS/B191_CLOSE.md).
+- **Latest: B192 OPEN 0/5** (queue `C-Iα-175`, `C-IIIγ-021`, `O-IIβ-796`, `C-IIIβ-036`, `C-IIβ-100`). Types 280/301 (93.02%), Weapon 278/287 (96.86%), SE 18/301 (5.98%); held 216 / pending 65.
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

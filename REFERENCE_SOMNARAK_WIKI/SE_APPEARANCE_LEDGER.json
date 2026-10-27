@@ -17,78 +17,17 @@
     }
   },
   "active_batch": {
-    "number": 191,
-    "status": "CLOSED",
+    "number": 192,
+    "status": "OPEN",
     "required": 5,
     "queue": [
-      "C-IVγ-175",
-      "C-IVδ-106",
-      "N-Iα-459",
-      "N-IIβ-250",
-      "C-IVδ-200"
+      "C-Iα-175",
+      "C-IIIγ-021",
+      "O-IIβ-796",
+      "C-IIIβ-036",
+      "C-IIβ-100"
     ],
-    "reviewed": {
-      "C-IVγ-175": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_01_SOMNIUM.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IVδ-106": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_02_I_ALONE_CROSSED.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "N-Iα-459": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_03_BULWARK.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "N-IIβ-250": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_04_DEBT_COLLECTORS_LANTERN.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IVδ-200": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_05_AEGIS.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      }
-    }
+    "reviewed": {}
   },
   "dossiers": [
     {
