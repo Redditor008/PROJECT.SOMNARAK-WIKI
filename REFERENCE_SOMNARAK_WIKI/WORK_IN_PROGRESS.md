@@ -1,8 +1,8 @@
 # Work In Progress
 
-## Batch 194 — OPEN, 5 / 5 (2026-10-28)
+## Batch 194 — CLOSED, 5 / 5 (2026-10-28)
 
-Fresh ranking of 55 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833`. **Unit 5 — Neverlast `O-IIβ-833`: HELD, +0.** Ten repairs (5 short / 5 careful; 8,159→8,349 words): a never-moved figure loses its 1.45 m/s Speed, launched shard and fail-safe breach protocol. Credit barred by the primary's own set disposition. [Evidence](SE_APPEARANCE_REVIEWS/B194_05_NEVERLAST.md). Closure battery next.
+Fresh ranking of 55 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833`. **Unit 5 — Neverlast `O-IIβ-833`: HELD, +0.** Ten repairs (5 short / 5 careful; 8,159→8,349 words): a never-moved figure loses its 1.45 m/s Speed, launched shard and fail-safe breach protocol. Credit barred by the primary's own set disposition. [Evidence](SE_APPEARANCE_REVIEWS/B194_05_NEVERLAST.md). Batch closed: all five HELD, No change 0, 35 repairs (17s/18c), **no fresh credit** (all five barred by prior written dispositions); closure battery PASS. [Closure](SE_APPEARANCE_REVIEWS/B194_CLOSE.md). Batch 195 opens next in this prompt.
 
 **Unit 4 — Frozen Echo `C-IIIγ-609`: HELD, +0.** Six repairs (2 short / 4 careful; 8,146→8,265 words): a self-contradicting trivia row and a shard-shedding crystal corrected. Credit barred by the in-file 2026-10-11 full-set review. [Evidence](SE_APPEARANCE_REVIEWS/B194_04_FROZEN_ECHO.md). Batch stays OPEN 4/5; Unit 5 Neverlast waits for the next prompt.
 

@@ -18,7 +18,7 @@
   },
   "active_batch": {
     "number": 194,
-    "status": "OPEN",
+    "status": "CLOSED",
     "required": 5,
     "queue": [
       "C-IIIγ-300",
@@ -8916,6 +8916,14 @@
       "required": 5,
       "no_change": 0,
       "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_CLOSE.md"
+    },
+    {
+      "batch": 194,
+      "status": "CLOSED",
+      "reviewed": 5,
+      "required": 5,
+      "no_change": 0,
+      "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_CLOSE.md"
     }
   ],
   "equipment_reviews": [
