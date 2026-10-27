@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 188 — OPEN, 5 / 5 (2026-10-27)
+## Batch 188 — CLOSED, 5 / 5 (2026-10-27)
+
+All five units HELD; No change 0; 19 repairs (14 short / 5 careful; 37926→38775 words); Deteriorata fresh +1/+1; closure battery PASS. Counters: Types 274/301, Weapon 272/287, SE 18/301. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_CLOSE.md). Batch 189 opens next in this same prompt.
 
 **Unit 5 — Corrosion Dream `O-IIIγ-915`: HELD.** Five supported repairs (4 short / 1 careful; 7611→7724 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_05_CORROSION_DREAM.md). Batch 121 already counted set 915: +0/+0/+0. Completed 5/5; No change 0; held 201 / pending 80. Closure follows in this prompt.
 
