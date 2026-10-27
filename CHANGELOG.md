@@ -8,9 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 189 — OPEN, 5 / 5 (2026-10-27)
+## Batch 189 — CLOSED, 5 / 5 (2026-10-27)
 
-**Unit 5 — Harvest Beyond the Gate `N-IIβ-627`: HELD — fresh +1 Types / +1 Weapon.** Six repairs (5 short / 1 careful; 7681→7789 words); five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_05_HARVEST_BEYOND_THE_GATE.md). Completed 5/5; No change 1; held 206 / pending 75. Counters: Types 277/301, Weapon 275/287, SE 18/301. Closure follows in this prompt.
+All five units HELD; No change 1 (Sleeping Weight); 13 repairs (9 short / 4 careful; 38222→38543 words); three fresh credits (Rem, Redacted, Harvest Beyond the Gate +1/+1 each); closure battery PASS. Counters: Types 277/301, Weapon 275/287, SE 18/301. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_CLOSE.md). Batch 190 opens next in this same prompt (Units 1–4 = reviews 7–10; stays OPEN 4/5).
 
 ## Batch 188 — CLOSED, 5 / 5 (2026-10-27)
 
