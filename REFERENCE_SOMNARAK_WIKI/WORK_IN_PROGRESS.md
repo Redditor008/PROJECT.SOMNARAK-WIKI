@@ -1,5 +1,9 @@
 # Work In Progress
 
+## Batch 195 — OPEN, 0 / 5 (2026-10-28)
+
+Fresh ranking of 50 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IIIγ-102`, `C-IIIγ-448`, `C-IVδ-220`, `O-Iα-340`, `N-Iα-785`.
+
 ## Batch 194 — CLOSED, 5 / 5 (2026-10-28)
 
 Fresh ranking of 55 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833`. **Unit 5 — Neverlast `O-IIβ-833`: HELD, +0.** Ten repairs (5 short / 5 careful; 8,159→8,349 words): a never-moved figure loses its 1.45 m/s Speed, launched shard and fail-safe breach protocol. Credit barred by the primary's own set disposition. [Evidence](SE_APPEARANCE_REVIEWS/B194_05_NEVERLAST.md). Batch closed: all five HELD, No change 0, 35 repairs (17s/18c), **no fresh credit** (all five barred by prior written dispositions); closure battery PASS. [Closure](SE_APPEARANCE_REVIEWS/B194_CLOSE.md). Batch 195 opens next in this prompt.

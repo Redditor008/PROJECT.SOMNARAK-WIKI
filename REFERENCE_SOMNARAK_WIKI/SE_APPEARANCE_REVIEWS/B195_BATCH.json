@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "batch": 195,
+  "status": "OPEN",
+  "completed_units": 0,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "C-IIIγ-102",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-102_The_Dancing_Chains_춤추는_사슬.md",
+      "words": 8168,
+      "sha256": "7a234befb82c974286bc81f10c9c64f99a17f4d5ca3a4272520e0cc867580107"
+    },
+    {
+      "unit": 2,
+      "designation": "C-IIIγ-448",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-448_Floating_Well_떠다니는_우물.md",
+      "words": 8184,
+      "sha256": "80e82fcad123298f3d5c32161a12d9ec38716060dd4a9ea654f6b24be1e9fc1b"
+    },
+    {
+      "unit": 3,
+      "designation": "C-IVδ-220",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-220_Walking_Calendar_세월의_무게.md",
+      "words": 8202,
+      "sha256": "6623291c8f365e75c5665ff69e29d4fb94d00f2c4b91197dbb41aa4684cc734d"
+    },
+    {
+      "unit": 4,
+      "designation": "O-Iα-340",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-340_Apocrypha_얼어붙은_유물.md",
+      "words": 8227,
+      "sha256": "bee01f5f911dd4fdd5b877c74144b91274a8e620357b001eb578f308d16fe75b"
+    },
+    {
+      "unit": 5,
+      "designation": "N-Iα-785",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-785_Tear_Too_Small_to_Honor_무너진_눈물.md",
+      "words": 8233,
+      "sha256": "dc599be8ea03e40f99b2f5139616848313df12e62769d3858bcbe17c7ff2f17f"
+    }
+  ],
+  "units": [],
+  "opened_at": "2026-10-28",
+  "completed": 0
+}

@@ -8,6 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 195 — OPEN, 0 / 5 (2026-10-28)
+
+Fresh ranking of 50 pending (wc -w ascending). Queue: `C-IIIγ-102`, `C-IIIγ-448`, `C-IVδ-220`, `O-Iα-340`, `N-Iα-785`.
+
 ## Batch 194 — CLOSED, 5 / 5 (2026-10-28)
 
 Fresh ranking of 55 pending (wc -w ascending). Queue: `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833` Unit 5 — **Neverlast `O-IIβ-833`: HELD; credit-barred, +0.** 10 repairs (5s/5c; 8,159→8,349 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_05_NEVERLAST.md). Batch closed: all five HELD, No change 0, 35 repairs (17s/18c), no fresh credit; battery PASS. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_CLOSE.md). Counters unchanged: Types 285/301, Weapon 283/287, SE 18/301; held 231 / pending 50.

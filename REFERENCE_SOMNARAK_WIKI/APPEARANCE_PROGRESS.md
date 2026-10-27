@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B194 CLOSED 5/5.** All five HELD, No change 0, 35 repairs (17s/18c), 40,697→41,359w; no fresh credit (all five barred). Types 285/301 (94.68%), Weapon 283/287 (98.61%), SE 18/301 (5.98%); held 231 / pending 50. [Closure](SE_APPEARANCE_REVIEWS/B194_CLOSE.md).
+- **Latest: B195 OPEN 0/5.** Fresh ranking of 50 pending; queue `C-IIIγ-102`, `C-IIIγ-448`, `C-IVδ-220`, `O-Iα-340`, `N-Iα-785`. Types 285/301 (94.68%), Weapon 283/287 (98.61%), SE 18/301 (5.98%); held 231 / pending 50.
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 
