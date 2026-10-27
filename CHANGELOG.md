@@ -8,9 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 191 — OPEN, 0 / 5 (2026-10-27)
+## Batch 191 — OPEN, 1 / 5 (2026-10-27)
 
 Fresh ranking of 70 pending (wc -w ascending). Queue: Somnium `C-IVγ-175`, I Alone Crossed `C-IVδ-106`, Bulwark `N-Iα-459`, Debt-Collector's Lantern `N-IIβ-250`, Aegis `C-IVδ-200` (reviews 2–6 of this prompt).
+
+Unit 1 — **Somnium `C-IVγ-175`: HELD; fresh +1 Types / +1 Weapon.** 3 repairs (2s/1c; 7,816→7,874 words): no more slicing threads in a no-injury holding; breach target selection follows the file's measurement. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_01_SOMNIUM.md). Counters: Types 280/301, Weapon 278/287, SE 18/301.
 
 ## Batch 190 — CLOSED, 5 / 5 (2026-10-27)
 

@@ -27,7 +27,20 @@
       "N-IIβ-250",
       "C-IVδ-200"
     ],
-    "reviewed": {}
+    "reviewed": {
+      "C-IVγ-175": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_01_SOMNIUM.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -1940,8 +1953,29 @@
     {
       "designation": "C-IVγ-175",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-175_Somnium_꿈의_직공.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Three source-supported repairs (2 short / 1 careful): The Snare no longer slices — this file's record is that nobody here is ever hurt and nothing in the set injures anybody, so the row now deals its documented harm, the addition accepted while struggling — and the two 'hunts personnel indiscriminately' breach lines give way to the holding's measured finding that Somnium takes the most tired person in the corridor, every recorded time. First independent full-set review of SE-175: fresh +1 Types / +1 Weapon; whole design HELD, SE +0.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_01_SOMNIUM.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/175_Somnium/SE-175-A__SIDE_CODEX_Somnium.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/175_Somnium/SE-175-B__MAW-W_The_Dream_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/175_Somnium/SE-175-C__MAW-S_The_Dream_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/175_Somnium/SE-175-D__MAW-G_The_Dream_Thread.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVγ-176",
@@ -8723,6 +8757,14 @@
       "batch": 190,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_05_THE_EMPTY_MASK.md",
       "history_proof": "Fresh exact054source pair/fullset review. Complete evidence/CHANGELOG/WIP designation history search finds no prior review of C-IIβ-054 outside pending fingerprints; no in-file cross-source or full-set review block; Side A has no profile-hold or disposition paragraph; equipment_reviews has no 054 entry; git path history only the B179 import (87f1a01). Side A (99 lines) and items B/C/D in Registry_043_to_055/054_Empty_Mask read whole including Appearance sections; Registry rows 98-101 confirm identity (Weapon Variable/-/-, Stigma generic Accessory/5%); Side-A self-naming removal vs primary second-person naming, and all three appearance forks, held unmerged. Thus new +1 Types/+1 Weapon, no SE credit (whole design HELD).",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "C-IVγ-175",
+      "batch": 191,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_01_SOMNIUM.md",
+      "history_proof": "Fresh exact175 pair/fullset review. No prior evidence mentions C-IVγ-175; no in-file cross-source/full-set review block (Registrum subject-matter note vs Mourning a Life is not an equipment review); Side A has no profile-hold/disposition paragraph; equipment_reviews has no 175 entry; git path history only the B179 import (87f1a01). Side A (182 lines, SECC C-IVγ-175 [LS], set Unlived Thread) and items B/C/D in Registry_170_to_184/175_Somnium read whole including Appearance sections; Registry rows 442-445 confirm identity (Weapon Variable/-/-, Stigma generic Accessory/5%); the separate C-Iα-175 Anger Underfoot dossier is not this set. Supervisor-carried vs anchor-bound blade, shroud and thread-band appearance forks held unmerged. New +1 Types/+1 Weapon; SE +0 (whole design HELD).",
       "all_types_credit": true,
       "weapon_credit": true
     }

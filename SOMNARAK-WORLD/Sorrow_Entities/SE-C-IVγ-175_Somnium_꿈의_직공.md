@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The First Thread* [**Debuff**] } | "A single gossamer strand brushes your skin — and it is softer than it should be." | [The Weaver trails one dream-thread across the target; it clings.] | *Target suffers -10 Composure; sleep tugs at them.* **[10 Lament DMG [Lament]]** | When the Weaver begins to work. |
 | { *The Loom Tightens* [**Debuff**] } | "The thread becomes a web, and the web becomes a cage of gossamer." | [More threads bind the target; the weave closes around them.] | *Target loses 10 Composure; they cannot move without tangling.* **[10 Lament DMG [Lament]]** | When the target stays in the Weaver's reach. |
-| { *The Snare* [**Attack**] } | "The threads pull taut — and dream-stuff cuts sharper than wire." | [The woven threads snap tight, slicing through the target.] | *Inflicts Lament pressure and one slicing wound.* **[14-22 Lament DMG [Lament]]** | When the target struggles against the weave. |
+| { *The Snare* [**Attack**] } | "The threads pull taut — and the harder you pull back, the more of the offered life you agree to." | [The woven threads tighten around the struggle itself. Nothing here cuts, and nobody on this file has ever been wounded; what tightens is the offer.] | *Inflicts Lament pressure. The harm is the addition accepted while struggling, and its first sign is an unheld posting spoken of in the past tense.* **[14-22 Lament DMG [Lament]]** | When the target struggles against the weave. |
 | { *The Waking Nightmare* [**Attack**] } | "The Weaver holds up what it has made out of your own sleeping mind." | [Something the target dreamed is standing in front of them, and it moves.] | *A heavy Deep Blue blow; the reading jumps 15%.* **[24-36 Lament DMG [Lament]]** | When the Weaver is disturbed or given an order. |
 | { *The Whole Tapestry* [**Ultimate**] } | "There is a thread to every sleeper in the building, and the Weaver draws them all in." | [The whole tapestry pulls tight and takes everybody in the room into the weave.] | *Everyone takes Lament pressure for three turns inside the web.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
@@ -148,12 +148,12 @@ Viderehan holds the gauge level and is the most dangerous Work Type on the table
 **Reading the response:** The gauge reports the session. The thread count reports the quarter, and it answers to the Personnel Directorate rather than to the team. A crew can work this holding perfectly for three months and find the count higher at the end of it, and that is not their failure; somewhere in the facility, people asked for things and were answered in conversation. The two figures are kept in separate columns on the sheet for exactly this reason, and a supervisor who merges them is corrected.
 ## Breach Behavior
 
-> *"Somnium has broken free. Hunts personnel indiscriminately."*
+> *"Somnium has broken free. It takes the most tired person in the corridor first."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Somnium breaks free and stalks the corridors on foot. It hunts personnel indiscriminately. |
+| **Movement** | Somnium breaks free and stalks the corridors on foot. It hunts personnel, and the selection is not indiscriminate: see First Target. |
 | **Effect** | The air fills with audible weeping. Responders describe it afterwards as the sound of someone being told no kindly, which is not a figure of speech anyone chose; four independent statements use close to the same words. |
 | **Secondary Effect** | An overwhelming and specific sorrow, located in the chest, concerning one particular thing the responder wanted. It is never a general grief and responders can always name it. |
 | **First Target** | The most tired person in the corridor, every recorded time. Not the nearest, not the most grieving, not the most senior. Rotation discipline is therefore the suppression doctrine and not a welfare provision. |

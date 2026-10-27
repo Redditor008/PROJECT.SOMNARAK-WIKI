@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: Batch 190 Unit 5 — The Empty Mask `C-IIβ-054`: HELD, fresh +1/+1.** 4 repairs (2s/2c), 7,815→7,972w. Types 279/301 (92.69%), Weapon 277/287 (96.52%), SE 18/301 (5.98%). Batch 190 CLOSED 5/5; B191 OPEN 0/5 (Somnium, I Alone Crossed, Bulwark, Debt-Collector's Lantern, Aegis). [Evidence](SE_APPEARANCE_REVIEWS/B190_05_THE_EMPTY_MASK.md).
+- **Latest: B191 U1 Somnium `C-IVγ-175` HELD, fresh +1/+1.** 3 repairs (2s/1c), 7,816→7,874w. Types 280/301 (93.02%), Weapon 278/287 (96.86%), SE 18/301 (5.98%); held 212 / pending 69. [Evidence](SE_APPEARANCE_REVIEWS/B191_01_SOMNIUM.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 
