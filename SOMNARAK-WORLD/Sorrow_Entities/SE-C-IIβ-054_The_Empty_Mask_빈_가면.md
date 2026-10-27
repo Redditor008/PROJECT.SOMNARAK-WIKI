@@ -94,9 +94,9 @@
 ### Consequences
 
 - A handler who fails to resist does not report it: the documented first sign is a service number offered where a name was asked for, promptly and without noticing, which is why the second worker's read is the record and the handler's is not.
-- Extended contact risks The Empty Mask’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, The Empty Mask defaults to its documented activation or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Extended contact does one documented thing and does it quickly: unsupervised handling produces identity confusion inside four minutes, measured, and the two-person rule is built on that figure. The first sign is a service number offered where a name was asked for; past two minutes of contact the wearer may not recognise themselves at all, and the entry is then made by the second worker about a handler who cannot be asked.
+- Every piece in this set carries the holding's discrepancy with it and the toll is entered piece by piece: a heaviness the tray scale never registers for the maul, a constant low fatigue the wearer blames on the shift for the mantle, and an identity slowly not returned for the charm — paid whether the use was correct or not.
+- Unresolved, nothing leaves the tray and the file says so: there is no breach counter on this holding and the Mask has never moved except by a hand whose name is entered. What an unresolved handling produces is a handler who walks out as a number and a card series that keeps rising on its own schedule — 3.1, 4.0, 5.2 — whether or not anybody worked the watch well.
 
 ## Appearance
 **Physical Form:** A blank, featureless mask of dense black material — a smooth face-shaped void, impossibly deep within. **Movement:** Stationary when unworn — a mask moves only with the wearer.
@@ -351,7 +351,7 @@ The Mask is lead-cold and patient and offers exactly what the rule offers: an en
 
 **At first contact:** It is colder than the tray and heavier than it looks, and there is nothing in it: you look into the inner surface for a reflection out of habit and your own face does not arrive. The card is in your other hand. Your partner says your name at the quarter hour whether or not you want them to.
 
-**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Weight presses hardest, where it recedes, where the Object-Weight lets you breathe.
+**With continued exposure:** The editing starts in the handler's own speech: names come slower, then not at all, and a service number arrives promptly in their place. The pause is the finding and it is timed — which is why the names are exchanged at the quarter hour, both ways, aloud, whether or not anybody thinks it necessary.
 
 **When the entity activates:** Eight seconds of palm on the inner surface and the wearer becomes unfindable: people address them correctly in the moment and cannot afterwards say who was in the room. What a trained observer connects to the room is the pause — the handler who answers a question with a service number, promptly and without noticing — and the card, graded by eye against the strip, which runs at whatever rate the withdrawal roll runs at.
 

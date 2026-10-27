@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIβ-054": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_05_THE_EMPTY_MASK.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -1159,8 +1171,29 @@
     {
       "designation": "C-IIβ-054",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-054_The_Empty_Mask_빈_가면.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Four source-supported repairs (2 short / 2 careful): the Consequences lose their three template lines — the four-harm 'full documented manifestation' catalogue, the 'profound price' equipment formula and the 'catastrophic outlet' default — and gain this holding's documented record instead (identity confusion inside four unsupervised minutes; heaviness no scale registers, low fatigue, an identity slowly not returned; a handler who leaves as a number while the card series rises on its own schedule). The generic continued-exposure Flavor becomes the timed naming pause. First independent full-set source review of SE-054: fresh +1 Types / +1 Weapon; whole design remains HELD, SE +0.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_05_THE_EMPTY_MASK.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-A__SIDE_CODEX_The_Empty_Mask.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-B__MAW-W_The_Void_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-C__MAW-S_The_Void_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/054_Empty_Mask/SE-054-D__MAW-G_The_Void_Mask.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIβ-055",
@@ -8735,6 +8768,14 @@
       "batch": 190,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_03_COLLAPSED_WHISPER.md",
       "history_proof": "Fresh exact249source pair/fullset review. Complete evidence/CHANGELOG/WIP designation history search finds no prior review of C-IVδ-249 outside pending fingerprints; no in-file cross-source or full-set review block (per-piece care paragraphs are equipment records); Side A carries no Weapon-profile hold or disposition paragraph; equipment_reviews has no 249 entry; git path history only the B179 import (87f1a01). Side A and flat items B/C/D in Registry_249_to_260 read whole including Appearance sections; Registry rows 538-541 confirm identity (Weapon Variable/-/-, Stigma generic Accessory/5%); primary machine fields agree with item/Side cards; item-D patrol anecdote vs the primary's no-fragment-forwarding rule held unmerged. Thus new +1 Types/+1 Weapon, no SE credit (whole design HELD).",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "C-IIβ-054",
+      "batch": 190,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_05_THE_EMPTY_MASK.md",
+      "history_proof": "Fresh exact054source pair/fullset review. Complete evidence/CHANGELOG/WIP designation history search finds no prior review of C-IIβ-054 outside pending fingerprints; no in-file cross-source or full-set review block; Side A has no profile-hold or disposition paragraph; equipment_reviews has no 054 entry; git path history only the B179 import (87f1a01). Side A (99 lines) and items B/C/D in Registry_043_to_055/054_Empty_Mask read whole including Appearance sections; Registry rows 98-101 confirm identity (Weapon Variable/-/-, Stigma generic Accessory/5%); Side-A self-naming removal vs primary second-person naming, and all three appearance forks, held unmerged. Thus new +1 Types/+1 Weapon, no SE credit (whole design HELD).",
       "all_types_credit": true,
       "weapon_credit": true
     }

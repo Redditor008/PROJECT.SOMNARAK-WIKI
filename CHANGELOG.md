@@ -8,7 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 190 — OPEN, 4 / 5 (2026-10-27)
+## Batch 190 — OPEN, 5 / 5, closure next (2026-10-27)
+
+Unit 5 — **The Empty Mask `C-IIβ-054`: HELD; fresh +1 Types / +1 Weapon.** 4 repairs (2 short / 2 careful; 7,815→7,972 words): template consequences give way to the file's measured record (four unsupervised minutes, service-number sign, card series 3.1→5.2). First independent set review; removal-protocol and appearance forks held unmerged. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_05_THE_EMPTY_MASK.md). Batch ready for closure. Counters: Types 279/301, Weapon 277/287, SE 18/301.
+
 
 **Unit 4 — Broken Promise `N-IIIγ-160`: HELD.** One careful repair (7809→7851 words): no flying shard — the binding is the harm. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_04_BROKEN_PROMISE.md). Batch 112 in-file review covers the identity negatives: +0/+0/+0. Completed 4/5; No change 0; held 210 / pending 71. **This prompt's ten reviews are complete**; Unit 5 `C-IIβ-054` waits for the next authorized prompt. Counters: Types 278/301, Weapon 276/287, SE 18/301.
 
