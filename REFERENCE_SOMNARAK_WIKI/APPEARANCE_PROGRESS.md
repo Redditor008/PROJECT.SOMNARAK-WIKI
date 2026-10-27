@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B193 U4 Forgotten Market Stall `C-IIα-062` HELD, fresh +1/+1.** 9 repairs (4s/5c), 8,087→8,387w. Types 285/301 (94.68%), Weapon 283/287 (98.61%), SE 18/301 (5.98%); held 225 / pending 56. [Evidence](SE_APPEARANCE_REVIEWS/B193_04_FORGOTTEN_MARKET_STALL.md).
+- **Latest: B193 U5 The Hollow Knight `C-IVγ-073` HELD, credit-barred, +0.** 5 repairs (2s/3c), 8,098→8,212w. Types 285/301 (94.68%), Weapon 283/287 (98.61%), SE 18/301 (5.98%); held 226 / pending 55. [Evidence](SE_APPEARANCE_REVIEWS/B193_05_THE_HOLLOW_KNIGHT.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

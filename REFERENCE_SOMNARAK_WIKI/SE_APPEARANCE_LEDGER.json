@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVγ-073": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_05_THE_HOLLOW_KNIGHT.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2013,8 +2025,29 @@
     {
       "designation": "C-IVγ-073",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-073_The_Hollow_Knight_빈_기사.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Five source-supported repairs (2 short / 3 careful): a truncated classification cell is completed from the file's own event table; a 'cold' wound from fever-hot plate is grounded; the armour stops opening (it has never opened), stops replicating into an army (its Transform occupies the wing as one route), and stops emitting malice (it salutes courage and fights, when forced, without anger). HELD; no credit (in-file M.A.W. Cross-Source Review — Batch 111).",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_05_THE_HOLLOW_KNIGHT.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/073_Hollow_Knight/SE-073-A__SIDE_CODEX_The_Hollow_Knight.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/073_Hollow_Knight/SE-073-B__MAW-W_The_Duty_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/073_Hollow_Knight/SE-073-C__MAW-S_The_Duty_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/073_Hollow_Knight/SE-073-D__MAW-G_The_Duty_Shield.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVγ-091",

@@ -1,0 +1,142 @@
+{
+  "designation": "C-IVγ-073",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-073_The_Hollow_Knight_빈_기사.md",
+  "words": 8098,
+  "sha256": "e3029338f72348a86e551d6b6d736a7b4f10a3a29abf59722240e2678ec57b45",
+  "unit": 5,
+  "name": "The Hollow Knight",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_05_THE_HOLLOW_KNIGHT.md",
+  "before_words": 8098,
+  "after_words": 8212,
+  "base": "b32c34f05d6ebbdd2072118997c34a28c07e8f39",
+  "final_sha256": "735908073a5d75dfdadcd2e3de9a6129997b3d933d5aef4bdc7029e8e546f3d8",
+  "summary": "Five source-supported repairs (2 short / 3 careful): a truncated classification cell is completed from the file's own event table; a 'cold' wound from fever-hot plate is grounded; the armour stops opening (it has never opened), stops replicating into an army (its Transform occupies the wing as one route), and stops emitting malice (it salutes courage and fights, when forced, without anger). HELD; no credit (in-file M.A.W. Cross-Source Review — Batch 111).",
+  "commentary": "The Knight's file already contains the project's neatest refusal — successorship cannot be taken in part, so the facility will not inherit a dead war to relieve one sentry — and its surviving template was confined to the fight choreography, where an armour that has never opened kept opening and a single circuit kept becoming an army. The repairs side with the primary's own Transform doctrine over the Side trigger table's shorthand, and leave the Batch 111 weapon and material holds exactly where that review put them: compared in the open, resolved by nobody.",
+  "reasoning": "Set SE-073 identity resolved from Side A (C-IVγ-073 [GS]) and items carrying SE-073 / MAW-W/S/G-073-01; Registry rows 122–125 (Registry_061_to_073/073_Hollow_Knight). Sentence triage: the SECC Entity Type cell ends mid-sentence; The Hollow Blow's wound was 'cold' against fever-hot plate (the disciplined-strike trigger itself is supported by both the Behavior table and Side PAGE 01 and was kept); The Full Reveal opened armour the file states has never opened; The Empty Army replicated suits against the single-occupancy Transform doctrine; the event table's 'wave of pure malice' contradicted a holding that salutes courage including in attackers and answers Pugnahan 'with no anger at all'. R-18 split declared before the apply: 2 short / 3 careful. Digits unchanged.",
+  "history": "No credit — the primary contains a 'M.A.W. Cross-Source Review — Batch 111' performing the exact-pair appearance disposition (fang-curved blade vs SE-073-B's broad straight crimson blade vs MAW-W-073 Squared Warbrand, no Master Entries 199–201 crosswalk; Stigma ability corrected to SE-073-D with the Han-iron vs crimson Han-glass material hold; Registry generic figures expressly not substituted). That is the coverage event; equipment_reviews has no 073 entry and none was added. Side A (99 lines) and items B/C/D read whole (48/53/48 lines) including Appearance sections confirm the in-file disposition; git path history shows only the B179 import. +0 all counters.",
+  "holds": [
+    "Weapon form fork as held by Batch 111: primary fang-curved blade, one low note on taking up vs item broad straight crimson blade with squared guard, spine inscription and task-declared sheen vs MAW-W-073 Squared Warbrand / Medium — figures agree (Grudge 7–12 / 3 / 3 / Skewer / 3 / 40); no transition documented.",
+    "Stigma material fork as held by Batch 111: primary Han-iron shield-pendant 'from the armor' vs item dark crimson Han glass, light and cold; Tail / 4% / +2 and the intercept/release/fear terms agree; Registry generic Accessory / 5% does not replace them.",
+    "Suit: figures agree (1.0/0.4/1.8/1.2; 3/35); primary cuirass-and-shoulder-plates holding low heat vs item overlapping harness whose ridges catch light only on a declared post and whose buckle cannot be released from the front — distinct records.",
+    "Combat-source fork left standing: Side PAGE 01's Full Reveal (void expands through joints) and Empty Army (replicated hollow guards) vs the primary's never-opened armour and single-route Transform occupancy — Side text preserved; the primary now follows its own doctrine.",
+    "The refused successorship application (affirmed nine times), the corridor crew of six reduced to four with no retention mechanism, and the costed-but-unbegun medical-crossing works remain open institutional record, untouched."
+  ],
+  "split": [
+    2,
+    3
+  ],
+  "repairs": [
+    {
+      "id": "R1-header-truncation",
+      "kind": "short factual completion",
+      "careful": false,
+      "old": "walls crack along the route first, then everywhere, and personnel in the volume take the  |",
+      "new": "walls crack along the route first, then everywhere, and personnel in the volume take the same load the architecture does |"
+    },
+    {
+      "id": "R2-hollow-blow-heat",
+      "kind": "short combat grounding",
+      "careful": false,
+      "old": "*Inflicts Grudge pressure and one cold, heavy wound.*",
+      "new": "*Inflicts Grudge pressure and one heavy, fever-hot wound — the disciplined answer to a challenge, delivered without anger and never yet given outside one.*"
+    },
+    {
+      "id": "R3-full-reveal",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Full Reveal* [**Attack**] } | \"The armor opens — and the nothing inside expands, pouring out through every joint.\" | [The seams part and the emptiness comes out of them, and the corridor reads colder for it.] | *A heavy Void eruption; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Knight's armor is escalated. |",
+      "new": "| { *The Full Reveal* [**Attack**] } | \"The armor does not open. It has never opened. The stance squares, the heat comes off the joints at a hand's width, and the corridor learns what the inside of the visor already knows: there is nobody to negotiate with.\" | [No seams part and nothing pours out. The reveal is the absence itself, registered at every joint at once, and the architecture begins taking the load beside the personnel.] | *A heavy Grudge surge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When personnel attempt to dismantle the armour or erase the post. |"
+    },
+    {
+      "id": "R4-empty-army",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Empty Army* [**Ultimate**] } | \"Every suit of armor in the field stands up — and inside every one, the same hollow, the same nothing.\" | [Every standing suit in the wing takes the circuit up at once, each one empty in the same way.] | *All in range suffer Grudge pressure for three turns of empty knights.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *The Empty Army* [**Ultimate**] } | \"No other suit stands up. There is one knight, and the wing becomes its circuit: every corridor occupied at once by the same sixteen-hour route with the walls taken out of it.\" | [Transformation in place, not replication: the Grudge turns structural, walls crack along the route first and then everywhere, and there is no outside to the affected volume.] | *All in range suffer Grudge pressure for three turns inside the occupied wing.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+    },
+    {
+      "id": "R5-secondary-malice",
+      "kind": "careful event correction",
+      "careful": true,
+      "old": "| **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |",
+      "new": "| **Secondary Effect** | No malice and nothing seeking: personnel in the volume straighten, square up, and begin organising their service around the route — the salute's posture, acquired without a salute, which the counsellors date to the event in case after case. |"
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IVγ-073_The_Hollow_Knight_빈_기사.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.035  clean   142 grams  Trivia\n 0.028  clean   145 grams  Containment Event Behavior\n 0.018  clean   621 grams  M.A.W. Equipment\n 0.015  clean   136 grams  Behavior\n 0.014  clean   652 grams  Combat Record\n 0.012  clean   171 grams  Operational Parameters\n 0.008  clean  1693 grams  Apex Record\n 0.008  clean   264 grams  기록 (Registrum)\n 0.006  clean   661 grams  감각 묘사 (Flavor Text)\n 0.004  clean   230 grams  Appearance\n 0.000  clean   415 grams  이야기 (Narratio)\n 0.000  clean   270 grams  관찰 기록 (Observation Log)\n 0.000  clean   157 grams  Origin\n 0.000  clean   144 grams  최종 관찰 (Final Observation)\n 0.000  clean   112 grams  이야기 보고 (Story Log)\n 0.000  clean    43 grams  SECC Classification\n 0.000  clean    42 grams  증언 (Testimonium)\n 0.000  THIN      5 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   84   3  | { *The Full Reveal* [**Attack**] } | \"The armor does not open. It has never opened. The stance squares, the heat comes off the j\n   85   6  | { *The Empty Army* [**Ultimate**] } | \"No other suit stands up. There is one knight, and the wing becomes its circuit: every cor\n  125   1  | **Identification** | Confirm before Work or contact: designation C-IVγ-073 `[GS]`, Grudge expression, Subject-Body manifestation\n  154   2  The Hollow Knight is an Entity (IV) Subject with Subject-Body manifestation and Grudge expression, held at SECTOR-B-01 in Zone B a\n  168   3  | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |\n  174   1  - **Sorrow Gauge on event:** Opens at 40% and rises 10% per circuit completed rather than per turn.\n  184   4  **Appearance:** a fang-curved blade of Grudge Han-iron, dark and warm in the hand, that sounds one low note as it is taken up and \n  197   2  **Ability:** Deals Grudge damage against the Body — physical form and structural integrity — and carries the source's signature: t\n  223   2  **Appearance:** a shield-pendant of Grudge Han-iron, dark and faintly warm, that catches the light oddly.\n  227   1  **Effect:** +2 stat bonus when working the source entity\n  251   1  | **During use** | The charge shows as aches arriving off the weather's own schedule, timed to the minute — one is noted and a pat\n  252   1  | **At limit** | The limit is a bearing nobody notices acquiring: the bearer stops reporting the ache and starts standing like the\n  327   4  **Interaction method:** Baseline each party alone over several circuits before any paired approach, and log the onset of any share\n  389   2  **Operational interpretation:** This file is one layer of the holding's record and is read against the classification, the Combat \n  446  13  The objection is minuted at every annual review and is raised by the Zone B medical lead, not by the holding's wardens. It holds t\n  458   5  - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-B-01, Zone B — contained.\nGENERIC 0.009  (53 shared shingles)  SE-C-IVγ-073_The_Hollow_Knight_빈_기사.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/073_Hollow_Knight/SE-073-A__SIDE_CODEX_The_Hollow_Knight.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/073_Hollow_Knight/SE-073-B__MAW-W_The_Duty_Fang.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/073_Hollow_Knight/SE-073-C__MAW-S_The_Duty_Plate.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/073_Hollow_Knight/SE-073-D__MAW-G_The_Duty_Shield.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/073_Hollow_Knight/SE-073-A__SIDE_CODEX_The_Hollow_Knight.md": "2cf506cbc6c0cfcff500bdd469cff1ebddf84bd37f031e75fd1e1457055dc578",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/073_Hollow_Knight/SE-073-B__MAW-W_The_Duty_Fang.md": "816f6cd42e87621392d89a885781b04ba5166b317dd6b18f3faebe224e3244a5",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/073_Hollow_Knight/SE-073-C__MAW-S_The_Duty_Plate.md": "9d0eccacf23b1af0533704e4b8634e95636a20257b1ac8f0d759200c4992a9e0",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/073_Hollow_Knight/SE-073-D__MAW-G_The_Duty_Shield.md": "1b4a25c01d00a7907a45afba3377a3e22d2e81f67a422a1840fccc36a16429d7",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IVγ-073_The_Hollow_Knight_빈_기사](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-073_The_Hollow_Knight_%EB%B9%88_%EA%B8%B0%EC%82%AC.md \"SE-C-IVγ-073_The_Hollow_Knight_빈_기사.md\")]",
+  "table_link": "[The Hollow Knight](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-073_The_Hollow_Knight_%EB%B9%88_%EA%B8%B0%EC%82%AC.md \"SE-C-IVγ-073_The_Hollow_Knight_빈_기사.md\")",
+  "reading": {
+    "before_lines": 467,
+    "before_bytes": 48698,
+    "final_lines": 467,
+    "final_bytes": 49419
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 55,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": ""
+  }
+}
