@@ -8,9 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 189 — OPEN, 0 / 5 (2026-10-27)
+## Batch 189 — OPEN, 1 / 5 (2026-10-27)
 
-Fresh ranking of the 80 pending dossiers froze: `N-IIβ-170`, `C-IVδ-357`, `C-IIβ-135`, `N-IIIγ-184`, `N-IIβ-627`. Reviews 2–6 of this ten-review prompt; Batch 190 Units 1–4 follow. No primary changed at open; counters Types 274/301, Weapon 272/287, SE 18/301.
+**Unit 1 — Aphonia `N-IIβ-170`: HELD.** One structural repair (1 short / 0 careful; 7619→7622 words): parity heading restored over existing observation content; wikistd True. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_01_APHONIA.md). Set SE-1016 already covered by the 2026-10-12 in-file full-set review: +0/+0/+0. Completed 1/5; No change 0; held 202 / pending 79.
 
 ## Batch 188 — CLOSED, 5 / 5 (2026-10-27)
 

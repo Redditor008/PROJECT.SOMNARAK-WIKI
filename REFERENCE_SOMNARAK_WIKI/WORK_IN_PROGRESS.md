@@ -1,8 +1,8 @@
 # Work In Progress
 
-## Batch 189 — OPEN, 0 / 5 (2026-10-27)
+## Batch 189 — OPEN, 1 / 5 (2026-10-27)
 
-Fresh C-locale ranking of the 80 pending dossiers froze the queue: `N-IIβ-170` (7,619), `C-IVδ-357` (7,624), `C-IIβ-135` (7,635), `N-IIIγ-184` (7,663), `N-IIβ-627` (7,681). Units 1–5 are reviews 2–6 of this ten-review prompt; Batch 190 Units 1–4 follow (batch stays open at 4/5). No opener changed any primary: counters Types 274/301, Weapon 272/287, SE 18/301.
+**Unit 1 — Aphonia `N-IIβ-170`: HELD.** One source-supported structural repair (1 short / 0 careful; 7,619→7,622 words): the R-29 parity heading `## 관찰 기록` now stands over the observation progression that was already present, so wikistd reads True instead of a hidden False. The 2026-10-12 in-file full-set review already covered set SE-1016: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B189_01_APHONIA.md). Queue: `C-IVδ-357`, `C-IIβ-135`, `N-IIIγ-184`, `N-IIβ-627`; units are reviews 2–6 of this ten-review prompt, Batch 190 Units 1–4 follow.
 
 ## Batch 188 — CLOSED, 5 / 5 (2026-10-27)
 

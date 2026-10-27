@@ -11,36 +11,36 @@
    "unit": 1,
    "designation": "N-IIβ-170",
    "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-170_Aphonia_침묵의_비명.md",
-   "frozen_words": 7619,
-   "sha256": "22650d7c77c7776f45dc8d7d765a10a7c3b1d97becc4b4f78b8428d575d653db"
+   "sha256": "22650d7c77c7776f45dc8d7d765a10a7c3b1d97becc4b4f78b8428d575d653db",
+   "words": 7619
   },
   {
    "unit": 2,
    "designation": "C-IVδ-357",
    "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-357_Sleeping_Weight_잠든_무게.md",
-   "frozen_words": 7624,
-   "sha256": "ec6cde3697b938b585a06b0d3dcc13c1c28ed03d85d92da569d8b2f4859cf7ba"
+   "sha256": "ec6cde3697b938b585a06b0d3dcc13c1c28ed03d85d92da569d8b2f4859cf7ba",
+   "words": 7624
   },
   {
    "unit": 3,
    "designation": "C-IIβ-135",
    "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-135_Rem_꿈의_조각.md",
-   "frozen_words": 7635,
-   "sha256": "7d1d370d0d62f898a3d70329bd20d24fd317cc3f6a0c62f3302655318931067f"
+   "sha256": "7d1d370d0d62f898a3d70329bd20d24fd317cc3f6a0c62f3302655318931067f",
+   "words": 7635
   },
   {
    "unit": 4,
    "designation": "N-IIIγ-184",
    "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-184_Redacted_잊혀진_나무.md",
-   "frozen_words": 7663,
-   "sha256": "723e98ea176e10c004887593d406bce9846db25c48ec2ce221f6bf34a832470a"
+   "sha256": "723e98ea176e10c004887593d406bce9846db25c48ec2ce221f6bf34a832470a",
+   "words": 7663
   },
   {
    "unit": 5,
    "designation": "N-IIβ-627",
    "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매.md",
-   "frozen_words": 7681,
-   "sha256": "39de673b96bd42e38953a204e66c1c625bfe8aabd90c669e514ed75653d874a4"
+   "sha256": "39de673b96bd42e38953a204e66c1c625bfe8aabd90c669e514ed75653d874a4",
+   "words": 7681
   }
  ],
  "pending_fingerprints": [

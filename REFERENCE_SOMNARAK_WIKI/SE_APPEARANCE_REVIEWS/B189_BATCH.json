@@ -1,45 +1,163 @@
 {
- "schema_version": 1,
- "batch": 189,
- "status": "OPEN",
- "completed_units": 0,
- "required_units": 5,
- "queue": [
-  {
-   "unit": 1,
-   "designation": "N-IIβ-170",
-   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-170_Aphonia_침묵의_비명.md",
-   "frozen_words": 7619,
-   "sha256": "22650d7c77c7776f45dc8d7d765a10a7c3b1d97becc4b4f78b8428d575d653db"
-  },
-  {
-   "unit": 2,
-   "designation": "C-IVδ-357",
-   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-357_Sleeping_Weight_잠든_무게.md",
-   "frozen_words": 7624,
-   "sha256": "ec6cde3697b938b585a06b0d3dcc13c1c28ed03d85d92da569d8b2f4859cf7ba"
-  },
-  {
-   "unit": 3,
-   "designation": "C-IIβ-135",
-   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-135_Rem_꿈의_조각.md",
-   "frozen_words": 7635,
-   "sha256": "7d1d370d0d62f898a3d70329bd20d24fd317cc3f6a0c62f3302655318931067f"
-  },
-  {
-   "unit": 4,
-   "designation": "N-IIIγ-184",
-   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-184_Redacted_잊혀진_나무.md",
-   "frozen_words": 7663,
-   "sha256": "723e98ea176e10c004887593d406bce9846db25c48ec2ce221f6bf34a832470a"
-  },
-  {
-   "unit": 5,
-   "designation": "N-IIβ-627",
-   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매.md",
-   "frozen_words": 7681,
-   "sha256": "39de673b96bd42e38953a204e66c1c625bfe8aabd90c669e514ed75653d874a4"
-  }
- ],
- "opened_at": "2026-10-27"
+  "schema_version": 1,
+  "batch": 189,
+  "status": "OPEN",
+  "completed_units": 0,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "N-IIβ-170",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-170_Aphonia_침묵의_비명.md",
+      "frozen_words": 7619,
+      "sha256": "22650d7c77c7776f45dc8d7d765a10a7c3b1d97becc4b4f78b8428d575d653db"
+    },
+    {
+      "unit": 2,
+      "designation": "C-IVδ-357",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-357_Sleeping_Weight_잠든_무게.md",
+      "frozen_words": 7624,
+      "sha256": "ec6cde3697b938b585a06b0d3dcc13c1c28ed03d85d92da569d8b2f4859cf7ba"
+    },
+    {
+      "unit": 3,
+      "designation": "C-IIβ-135",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-135_Rem_꿈의_조각.md",
+      "frozen_words": 7635,
+      "sha256": "7d1d370d0d62f898a3d70329bd20d24fd317cc3f6a0c62f3302655318931067f"
+    },
+    {
+      "unit": 4,
+      "designation": "N-IIIγ-184",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-184_Redacted_잊혀진_나무.md",
+      "frozen_words": 7663,
+      "sha256": "723e98ea176e10c004887593d406bce9846db25c48ec2ce221f6bf34a832470a"
+    },
+    {
+      "unit": 5,
+      "designation": "N-IIβ-627",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매.md",
+      "frozen_words": 7681,
+      "sha256": "39de673b96bd42e38953a204e66c1c625bfe8aabd90c669e514ed75653d874a4"
+    }
+  ],
+  "opened_at": "2026-10-27",
+  "units": [
+    {
+      "designation": "N-IIβ-170",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-170_Aphonia_침묵의_비명.md",
+      "words": 7619,
+      "sha256": "22650d7c77c7776f45dc8d7d765a10a7c3b1d97becc4b4f78b8428d575d653db",
+      "unit": 1,
+      "name": "Aphonia",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_01_APHONIA.md",
+      "before_words": 7619,
+      "after_words": 7622,
+      "base": "cf752a508fc0e1573e8c128b1e366a47493becc2",
+      "final_sha256": "3c49e088d643af01528cf82e0083f6708cf912fb577eb151a2658102df4ebb6c",
+      "summary": "One source-supported structural repair: the R-29 parity heading `## 관찰 기록 (Observation Log)` was missing although the observation progression and method content already existed, so wikistd read meets False; the heading now stands over that content and all five checks pass. No prose was rewritten, no equipment fork merged, no source changed, and no credit moves — the in-file full-set review of 2026-10-12 remains the set's equipment coverage event.",
+      "commentary": "Aphonia was already one of the most carefully dispositioned dossiers in the corpus: its own in-file full-set source review of 2026-10-12 had compared Side SE-1016-A, items B/C/D, Registry rows 226–229, Master entries 472–474, Entity row 525, Tale 158 and archetypes MAW-W-170/1016, and refused to merge the primary's five-globe Resonant Echo-Orrery with the item file's Voice Lens. Re-reading the whole file found exactly one named failure: the R-29 wiki-parity test could not find the observation-log heading, so the standard read False despite the observation progression, the observation method and the story log all being present. The single repair hangs the required heading over content that was already there; nothing was reworded, no fork was touched, and the file now meets the standard it already satisfied in substance.",
+      "reasoning": "Set SE-1016 identity resolved from Side A and item B headers (Source SECC Designation N-IIβ-170 [VS]; MAW-W-1016-01), never by the 170 suffix. Sentence triage of the frozen primary: combat rows 1–5 are scream/silence-specific; breach rows already corrected in-file against the four incident logs (no first target, no hunting claim, escalation ends on speech); the Tale's 'no one came' is a separately-voiced mythic compression against the Origin's real rescue discontinued in silence — fork preserved. The only named failure was wikistd parity ['observation log'] with meets False at exit 0: technical majority-green is not narrative or structural correctness (R-33). R-18 split declared before the apply: 1 short / 0 careful; no careful prose rewrite was justified by the evidence, and inventing repairs to bulk the count would have breached R-33. The repair adds a heading and zero facts: no anatomy, chronology, permission or equipment lineage claimed. Ophanim/Orrery copy evidence (B78 Unrung correction) discounted exactly as the 2026-10-12 review left it.",
+      "history": "The primary carries a complete in-file full-set source review dated 2026-10-12 covering Weapon, Suit, Stigma, Use Notes, Field Use Record, Stat interpretation, Registry rows 226–229, Master 472–474, Entity 525, Tale 158 and archetypes MAW-W-170/1016, with explicit dispositions — the +0 in-file full-set class (SE-1032/SE-339/SE-1013/SE-157). Ledger equipment_reviews holds no 1016/170 fresh entry and none is due; git path history shows only the B179 import commit touching the file, i.e. no later exact-pair review superseded the 2026-10-12 dispositions. Types +0, Weapon +0, SE +0. Counters stay 274/301, 272/287, 18/301.",
+      "holds": [
+        "Primary five-globe Resonant Echo-Orrery vs Side/item Voice Lens (Master Entry 472 Lens title) — unmerged, as left by the 2026-10-12 review.",
+        "Linked archetype MAW-W-1016 hungry split-jaw cleaver (Close) vs catalog MAW-W-170 Orrery (Short), the latter also the Unrung code series whose copied Orrery block B78 corrected away — copy evidence only, no crosswalk invented; local Range 2 (Short) stands.",
+        "Stigma Head / 5% / +1-with-the-obligation-to-answer vs Registry's generic Accessory slot.",
+        "Tale's 'no one came' vs the Origin's real rescue discontinued without a word — both stand; separately-voiced accounts are not normalized.",
+        "Diagonal↔stand-down-return correlation remains the file's own nine-year register finding; the rescue service's objection in the Director's Memo stays unwithdrawn.",
+        "No appearance credit: Side A has no standalone Appearance heading and no item page has an Appearance section or labelled transition."
+      ],
+      "split": [
+        1,
+        0
+      ],
+      "repairs": [
+        {
+          "id": "R1-observation-log-heading",
+          "kind": "structural parity heading",
+          "careful": false,
+          "old": "### Observation Progression",
+          "new": "## 관찰 기록 (Observation Log)\n\n### Observation Progression"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIβ-170_Aphonia_침묵의_비명.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.039  clean   514 grams  Combat Record\n 0.034  clean   911 grams  M.A.W. Equipment\n 0.028  clean   422 grams  기록 (Registrum)\n 0.018  clean   604 grams  감각 묘사 (Flavor Text)\n 0.005  clean   216 grams  관찰 기록 (Observation Log)\n 0.002  clean  1010 grams  이야기 보고 (Story Log)\n 0.000  clean   303 grams  이야기 (Narratio)\n 0.000  clean   263 grams  Origin\n 0.000  clean   259 grams  Trivia\n 0.000  clean   218 grams  Watch Record\n 0.000  clean   213 grams  Appearance\n 0.000  clean   203 grams  Breach Behavior\n 0.000  clean   142 grams  Behavior\n 0.000  clean   110 grams  최종 관찰 (Final Observation)\n 0.000  clean    96 grams  증언 (Testimonium)\n 0.000  clean    37 grams  SECC Classification\n 0.000  clean    28 grams  Operational Parameters\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   48   1  | **Resistance** | 25% against Void pressure; 15% against other pressure types |\n   75   1  | { *The Throat Closes* [**Debuff**] } | \"You feel your own throat tighten — the scream is contagious, even in silence.\" | [The Sc\n   76   1  | { *The Soundless Impact* [**Attack**] } | \"The scream hits you — and you feel every decibel of a sound that does not exist.\" | [\n   77   6  | { *The Suppressed Eruption* [**Attack**] } | \"Every scream it ever held back — released at once, in absolute, crushing silence.\"\n   78   9  | { *A Thousand Silent Screams* [**Ultimate**] } | \"Everyone is screaming — and no one can hear anyone else, and the silence is en\n   82   2  1. **Tension:** Identification first — Aphonia is recognised by the diagonal against the last reading, not by the figure. The figu\n  192   6  **Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wea\n  210   2  **Appearance:** a small amplifier of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.\n  214   1  **Effect:** +1 when working this entity, and the bearer must answer the figure aloud at least once in the session. It is the only \n  237  22  **Full-set source review (2026-10-12):** Reviewed the grade overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Re\n  258   1  | **Post-contact review** | Both diagonals with their hours, the verbatim speech log, and the fortnight's discontinuation reports \n  269   1  The first return under the Rule of the Spoken Stand-Down, Year 4238. Over the nine years the register covers, this facility and th\n  288   1  The ground is the tape. Thirty-one hours of contact at the frontage, four still answering, the lights off the face and not a word \n  311   1  **After departure:** You go looking for somebody you stopped replying to. Most people have one. The counselling wing logs it and t\n  317   2  **Interaction method:** On paper, and on one question: was the call made and unheard, made and answered with nothing following, or\n  324   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  326   6  | **The Undersong** | Grouped on unanswered calls, which is wrong in a way worth stating: the Undersong's calls were answered and \n  369   2  - Flerehan and Ferrehan lower the gauge; Viderehan holds it level and produces the record; Pugnahan is prohibited. The primary Wor\n  373   2  - The Rule of the Spoken Stand-Down is a containment condition of this entity and binds every rescue, search and recovery attempt \n  379   5  **Faction Involvement:** SED (B-territory survey) · Wound Walkers (Fracture-relevant) · the rescue service, listed on an entity fi\n  384   3  **Operational interpretation:** Read this file with the stand-down return beside it or do not read it. Taken alone the chamber hol\nGENERIC 0.014  (77 shared shingles)  SE-N-IIβ-170_Aphonia_침묵의_비명.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1016_Aphonia/SE-1016-A__SIDE_CODEX_Aphonia.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1016_Aphonia/SE-1016-B__MAW-W_The_Voice_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1016_Aphonia/SE-1016-C__MAW-S_The_Voice_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1016_Aphonia/SE-1016-D__MAW-G_The_Voice_Amplifier.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1016_Aphonia/SE-1016-A__SIDE_CODEX_Aphonia.md": "b6c8e3f1dad930cba848a5bee6d0d2d8ebfff360147ea855b47fba33d755e160",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1016_Aphonia/SE-1016-B__MAW-W_The_Voice_Lens.md": "3eea0128c020b84d09c8ab8a54b8dffeba132d30144a2945030e879f96547748",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1016_Aphonia/SE-1016-C__MAW-S_The_Voice_Veil.md": "a09f1adb0110824caef472a4d967179465bafa1b366bd463ce40a975977ae1c5",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1016_Aphonia/SE-1016-D__MAW-G_The_Voice_Amplifier.md": "2204664c3d66319b59e4756055fbd298e363efee46d32d819a0697ca8ff4a1e2",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IIβ-170_Aphonia_침묵의_비명](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-170_Aphonia_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EB%B9%84%EB%AA%85.md \"SE-N-IIβ-170_Aphonia_침묵의_비명.md\")]",
+      "table_link": "[Aphonia](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-170_Aphonia_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EB%B9%84%EB%AA%85.md \"SE-N-IIβ-170_Aphonia_침묵의_비명.md\")",
+      "reading": {
+        "before_lines": 424,
+        "before_bytes": 45922,
+        "final_lines": 426,
+        "final_bytes": 45958
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 79,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": ""
+      }
+    }
+  ],
+  "completed": 1
 }
