@@ -8,9 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 192 — OPEN, 3 / 5 (2026-10-27)
+## Batch 192 — OPEN, 4 / 5 (2026-10-27)
 
 Fresh ranking of 65 pending (wc -w ascending). Queue: `C-Iα-175`, `C-IIIγ-021`, `O-IIβ-796`, `C-IIIβ-036`, `C-IIβ-100` (Units 1–4 = reviews 7–10 of this prompt; batch stays OPEN 4/5).
+
+Unit 4 — **The Cracked Hourglass `C-IIIβ-036`: HELD; credit-barred, +0.** 4 repairs (1s/3c; 8,000→8,091 words): countdown/impact template removed from a never-emptying glass. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_04_THE_CRACKED_HOURGLASS.md).
 
 Unit 3 — **Spire of Unanswered Prayer `O-IIβ-796`: HELD; fresh +1 Types / +1 Weapon.** 6 repairs (2s/4c; 7,963→8,087 words): structural combat template removed from a no-extent holding; first set review. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_03_SPIRE_OF_UNANSWERED_PRAYER.md). Counters: Types 281/301, Weapon 279/287, SE 18/301.
 

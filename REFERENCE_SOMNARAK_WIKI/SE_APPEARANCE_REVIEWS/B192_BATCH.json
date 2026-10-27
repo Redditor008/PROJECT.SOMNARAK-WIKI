@@ -446,8 +446,143 @@
         "source_files_unchanged": 10,
         "digit_sequence_change": ""
       }
+    },
+    {
+      "designation": "C-IIIβ-036",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md",
+      "words": 8000,
+      "sha256": "a8a3b8debd037a400f1508dd1df29476cf6fc46faa85e1182ca1fc72ec69f73d",
+      "unit": 4,
+      "name": "The Cracked Hourglass",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_04_THE_CRACKED_HOURGLASS.md",
+      "before_words": 8000,
+      "after_words": 8091,
+      "base": "46040b370bc55d920536851f78a8343d29121f3b",
+      "final_sha256": "96ea53e8df458677a60a4248f174cb02631f621012e28a2a361010b6192bd214",
+      "summary": "Four source-supported repairs (1 short / 3 careful): the combat table's countdown choreography — a glass nearly spent, a last grain going over, sand slamming into a crushing wound, provocation triggers — is corrected against a file that counts nothing down: the glass regenerates, never empties, 'injures nobody directly', and its Side trigger protocol already names the real triggers (near-empty belief, sealing attempts, unbroken watch). HELD; no credit (full-set source review 2026-10-11 + Side Weapon profile hold, both pre-existing).",
+      "commentary": "The Hourglass file contains one of the project's best institutional arguments — the eleven-year examination queue against a six-year long stop — and its fight rows still thought the glass could run out. The repairs take the triggers the sources already supply: you are hurt not by sand but by believing in a final grain, and the biggest event is not an emptying but a spread into containers nobody collected it in. Mallet or orrery remains somebody else's archive argument; this review left it exactly where the 2026-10-11 disposition put it.",
+      "reasoning": "Set SE-036 identity resolved from Side A (C-IIIβ-036 [WO]), items carrying SE-036 and MAW-W/S/G-036-01; Registry rows 70–73 (Registry_032_to_042/036_Cracked_Hourglass). Sentence triage: three combat rows imposed countdown/impact template against 'counts nothing down… no term, no end point', the never-empties regeneration record, and 'It injures nobody directly'; Side PAGE 01 supplies the supported triggers independently (Near-Empty Belief concentrates pressure around the prediction; Falling Glass on sealing/turning attempts). One trigger cell said the glass is turned, against 'Fixed on the plinth and never turned'. R-18 split declared before the apply: 1 short / 3 careful. Digits unchanged.",
+      "history": "No credit — coverage already occurred, three times over: the primary contains a 'Full-set source review (2026-10-11)' performing the exact appearance/profile disposition (byte-identical Orrery Appearance discounted as repeated text; Master Entry 11 resistance variance; Screen vs Slow Interval; Mantle title fork; Adrenaline Inversion vs One Brief Moment); Side SE-036-A PAGE 02 carries its own Weapon profile hold; equipment_reviews has no 036 entry and none was added. Side A and items B/C/D were read whole (101/52/55/50 lines) including Appearance sections and confirm the in-file disposition; git path history shows only the B179 import. +0 all counters.",
+      "holds": [
+        "Weapon form fork as held by the 2026-10-11 disposition and Side profile hold: primary/Master Chrono-Orrery beam-and-vortex 8–13 / Normal 3 / Long 4 vs item Hourglass Sledge / Sand-Clock Hammer 9–16 / Very Slow 1 / Room 5 with a maul history; byte-identical Appearance is repeated text, not corroboration; Registry leaves speed/reach unset, archetype says Short. Unchanged.",
+        "Suit: Master Entry 11 Grudge 1.1 / Void 1.2 vs local 1.0 / 1.5; Temporal Particulate Screen vs Slow Interval; Sandglass Watcher's Mantle vs Hourglass Mantle titles sharing one appearance.",
+        "Stigma Neck / Choker / 5% / +1 agree; Adrenaline Inversion (primary/Master) vs One Brief Moment (item) remain distinct histories.",
+        "Side PAGE 01's 'object is struck' provocation language vs the primary's two-Work-Type, no-Pugnahan practice — repairs used only the sealing/forced-turning branch both sources support.",
+        "The examination register (nine grains a year, eleven-year interval, six-year long stop) and the contested withdrawal order over the storage run remain open institutional record, untouched."
+      ],
+      "split": [
+        1,
+        3
+      ],
+      "repairs": [
+        {
+          "id": "R1-slipping-sand-trigger",
+          "kind": "short trigger correction",
+          "careful": false,
+          "old": "| When the Hourglass is turned or watched. |",
+          "new": "| When the Hourglass is watched past the fifteen-minute limit; it is fixed on the plinth and never turned. |"
+        },
+        {
+          "id": "R2-falling-glass",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Falling Glass* [**Attack**] } | \"The weight of all the time you wasted, dropped on you at once.\" | [The accumulated sand slams down — the burden of misspent time made solid.] | *Inflicts Weight pressure and one crushing wound.* **[14-22 Weight DMG [Weight]]** | When the target provokes the Hourglass. |",
+          "new": "| { *The Falling Glass* [**Attack**] } | \"The weight of all the time you wasted, arriving at once.\" | [Nothing falls and nothing slams; the sand only leaks. What lands is the worker's own total, grasped whole and involuntarily priced.] | *Inflicts Weight pressure; the injury is arithmetic — they begin totalling their spent time out loud.* **[14-22 Weight DMG [Weight]]** | When somebody tries to seal the crack or turn the glass by force. |"
+        },
+        {
+          "id": "R3-last-grains",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Last Grains* [**Attack**] } | \"Nearly run out, and the grains that are left weigh the most.\" | [The last of the sand comes down and what is nearly spent presses hardest.] | *A heavy Black blow; the reading jumps 15%.* **[24-36 Weight DMG [Weight]]** | When the glass is nearly spent or takes a blow. |",
+          "new": "| { *The Last Grains* [**Attack**] } | \"Nearly run out — that is what it makes you sure of, and it is never true: the glass regenerates, and the grains left weigh the most.\" | [The pressure concentrates around the prediction. The upper bulb has refilled after apparent exhaustion on four recorded occasions; there is no last grain.] | *A heavy Weight blow; the reading jumps 15%.* **[24-36 Weight DMG [Weight]]** | When an observer declares the sand almost gone or tries to predict the final grain. |"
+        },
+        {
+          "id": "R4-out-of-time",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Out of Time* [**Ultimate**] } | \"The last grain goes over, and it goes over for everybody.\" | [The glass empties out across the field, and every clock in it runs out together.] | *Everyone takes Weight pressure for three turns while the time runs out.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |",
+          "new": "| { *Out of Time* [**Ultimate**] } | \"Nothing runs out — that is the point. The rate goes up across the whole vault, the crack gains, and the sand is suddenly in containers it was never collected into.\" | [The glass empties nowhere; the vault does the expanding — rate, crack and spread, the holding's documented Transform shape, with every person present inside the fifteen-minute arithmetic.] | *Everyone suffers Weight pressure for three turns while the rate holds high.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.040  clean   126 grams  Trivia\n 0.027  clean   296 grams  기록 (Registrum)\n 0.007  clean   538 grams  Combat Record\n 0.007  clean   144 grams  Behavior\n 0.006  clean  1333 grams  Warden Record\n 0.006  clean   178 grams  Operational Parameters\n 0.005  clean   624 grams  감각 묘사 (Flavor Text)\n 0.003  clean   691 grams  M.A.W. Equipment\n 0.003  clean   376 grams  Activation Behavior\n 0.000  clean   412 grams  이야기 (Narratio)\n 0.000  clean   276 grams  관찰 기록 (Observation Log)\n 0.000  clean   217 grams  Appearance\n 0.000  clean   136 grams  Origin\n 0.000  clean   105 grams  이야기 보고 (Story Log)\n 0.000  clean    99 grams  최종 관찰 (Final Observation)\n 0.000  clean    47 grams  SECC Classification\n 0.000  clean    28 grams  증언 (Testimonium)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   44   1  - Viderehan and Ferrehan are the only valid approaches, this being an object; Viderehan is also the only means by which a grain ca\n   56   1  | **Resistance** | 30% against Weight pressure; 20% against other pressure types |\n   86   3  | { *Out of Time* [**Ultimate**] } | \"Nothing runs out — that is the point. The rate goes up across the whole vault, the crack gai\n  156   1  The Cracked Hourglass is a Fragment (III) Object of Moderate (β) potency, Object-Weight manifestation, Weight expression, in the A\n  163   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  273   1  **Effect:** +1 stat bonus when working the source entity\n  291   1  | **At limit** | Duration, activations, attribute change, rejection signs, final rate and crack readings, and whether the operator\n  383   3  **Interaction procedure:** Solo baselines first, across several cycles, with rate, crack and gauge established for each party. The\n  419   1  - Ferrehan is the primary Work Type and the only one that lowers the gauge; Viderehan holds it level and is the only route to a gr\n  431   7  **Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the rate and \n  494   1  The objection is minuted at every annual review, raised jointly by the vault Wardens and by the register's clerk. It holds that a \n  496   7  The minute records the objection as **correct in all three parts**. It records that an instruction reserving all containers subjec\n  508   5  - **Field detail:** Its defining element is Weight, and its registered location is SECTOR-A-01, Alpha Tree vault — contained.\nGENERIC 0.006  (33 shared shingles)  SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/036_Cracked_Hourglass/SE-036-A__SIDE_CODEX_The_Cracked_Hourglass.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/036_Cracked_Hourglass/SE-036-B__MAW-W_The_Hourglass_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/036_Cracked_Hourglass/SE-036-C__MAW-S_The_Hourglass_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/036_Cracked_Hourglass/SE-036-D__MAW-G_The_Hourglass_Pendant.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/036_Cracked_Hourglass/SE-036-A__SIDE_CODEX_The_Cracked_Hourglass.md": "38918fe4f566a0a070be60738dcc92394c9a3906e18492e325d8094bd1d07422",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/036_Cracked_Hourglass/SE-036-B__MAW-W_The_Hourglass_Maul.md": "72b4f52491b5fc4fd16379d2650f65a4d3e712de196a3e8df78e2ea72a1f6feb",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/036_Cracked_Hourglass/SE-036-C__MAW-S_The_Hourglass_Mantle.md": "335eb5bc8b59566936271d1e2787d207b0d6e87087f13cad5e24f6aa98196903",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/036_Cracked_Hourglass/SE-036-D__MAW-G_The_Hourglass_Pendant.md": "32f898377c27d016123fd12e3a958dbb702c2f2fa5363d13149a55044adfdb8c",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-036_The_Cracked_Hourglass_%EA%B8%88%EC%9D%B4_%EA%B0%84_%EB%AA%A8%EB%9E%98%EC%8B%9C%EA%B3%84.md \"SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md\")]",
+      "table_link": "[The Cracked Hourglass](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-036_The_Cracked_Hourglass_%EA%B8%88%EC%9D%B4_%EA%B0%84_%EB%AA%A8%EB%9E%98%EC%8B%9C%EA%B3%84.md \"SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md\")",
+      "reading": {
+        "before_lines": 517,
+        "before_bytes": 49553,
+        "final_lines": 517,
+        "final_bytes": 50160
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 61,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": ""
+      }
     }
   ],
   "opened_at": "2026-10-27",
-  "completed": 3
+  "completed": 4
 }

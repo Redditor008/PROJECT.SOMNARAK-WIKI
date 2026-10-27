@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B192 U3 Spire of Unanswered Prayer `O-IIβ-796` HELD, fresh +1/+1.** 6 repairs (2s/4c), 7,963→8,087w. Types 281/301 (93.36%), Weapon 279/287 (97.21%), SE 18/301 (5.98%); held 219 / pending 62. [Evidence](SE_APPEARANCE_REVIEWS/B192_03_SPIRE_OF_UNANSWERED_PRAYER.md).
+- **Latest: B192 U4 The Cracked Hourglass `C-IIIβ-036` HELD, credit-barred, +0.** 4 repairs (1s/3c), 8,000→8,091w. Types 281/301 (93.36%), Weapon 279/287 (97.21%), SE 18/301 (5.98%); held 220 / pending 61. [Evidence](SE_APPEARANCE_REVIEWS/B192_04_THE_CRACKED_HOURGLASS.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

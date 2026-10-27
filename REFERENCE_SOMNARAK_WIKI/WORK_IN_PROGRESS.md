@@ -1,8 +1,10 @@
 # Work In Progress
 
-## Batch 192 — OPEN, 3 / 5 (2026-10-27)
+## Batch 192 — OPEN, 4 / 5 (2026-10-27)
 
 Fresh ranking of 65 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-Iα-175`, `C-IIIγ-021`, `O-IIβ-796`, `C-IIIβ-036`, `C-IIβ-100`. Units 1–4 are reviews 7–10 of this prompt; the batch stays open at 4/5 by design.
+
+**Unit 4 — The Cracked Hourglass `C-IIIβ-036`: HELD, +0.** Four repairs (1 short / 3 careful; 8,000→8,091 words): the glass stops running out in its own combat table. Credit barred by the in-file full-set source review (2026-10-11) and the Side weapon profile hold. [Evidence](SE_APPEARANCE_REVIEWS/B192_04_THE_CRACKED_HOURGLASS.md). Counters unchanged: Types 281/301, Weapon 279/287, SE 18/301. Unit 5 Unsaid Blossoms waits for the next prompt.
 
 **Unit 3 — Spire of Unanswered Prayer `O-IIβ-796`: HELD, fresh +1/+1.** Six repairs (2 short / 4 careful; 7,963→8,087 words): the bodiless song stops dropping towers on people. First independent set review (SE-796 whole; Chime-Tower/Requiem name fork held): +1 Types / +1 Weapon. [Evidence](SE_APPEARANCE_REVIEWS/B192_03_SPIRE_OF_UNANSWERED_PRAYER.md). Counters: Types 281/301, Weapon 279/287, SE 18/301.
 
