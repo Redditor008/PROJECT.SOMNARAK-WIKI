@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 187 — OPEN, 2 / 5 (2026-10-27)
+## Batch 187 — OPEN, 3 / 5 (2026-10-27)
+
+**Unit 3 — Broken Door `O-IIβ-757`: HELD.** Three supported repairs (2 short / 1 careful; 7,538→7,816 words): combat rows 1–3 drop the angry barricade and the flying splinter for the posted flame grade, the prohibition that is the seal, and a name–grade–step escalation; two one-line Story Log stubs become the watch record and the leave-taking practice. No earlier independent set review exists: **fresh +1 Types / +1 Weapon** / +0 SE. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B187_03_BROKEN_DOOR.md).
 
 **Unit 2 — Hollow Architect `C-IVγ-255`: HELD.** Four supported repairs (3 short / 1 careful; 7,538→7,743 words): all five combat rows drop imposed emptiness, a crushing gargoyle, an ordered demolition and rising towers for copyless plans, spoken intentions, enclosure of whoever stops moving, a gauge that falls only to a voice outside the walls, and drawings describing the present room; the breach consequence and two Flavor blocks become three escapes talked back and the viewing line. Batch 126 already counted set 255: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B187_02_HOLLOW_ARCHITECT.md).
 

@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 187 — OPEN, 2 / 5 (2026-10-27)
+## Batch 187 — OPEN, 3 / 5 (2026-10-27)
+
+**Unit 3 — Broken Door `O-IIβ-757`: HELD.** Three supported repairs (2 short / 1 careful; 7538→7816 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_03_BROKEN_DOOR.md). No earlier independent full-set or exact-pair review: **fresh +1 Types / +1 Weapon** / +0 SE. Completed 3/5; No change 0; held 194 / pending 87; Types 272/301 · Weapon 270/287.
 
 **Unit 2 — Hollow Architect `C-IVγ-255`: HELD.** Four supported repairs (3 short / 1 careful; 7538→7743 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_02_HOLLOW_ARCHITECT.md). Batch 126 already counted set 255: +0/+0/+0. Completed 2/5; No change 0; held 193 / pending 88.
 

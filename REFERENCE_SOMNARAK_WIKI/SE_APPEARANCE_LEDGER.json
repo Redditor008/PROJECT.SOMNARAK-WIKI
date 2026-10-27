@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-IIβ-757": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_03_BROKEN_DOOR.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -5813,8 +5825,29 @@
     {
       "designation": "O-IIβ-757",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-757_Broken_Door_부서진_문.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Three supported repairs (2 short / 1 careful) retire the hostile-door template. Rows 1–3 drop a sensed broken passage, an angry self-sealing barricade and a flying splinter: the sheet now runs on the flame grade against the posted scale, the prohibition that is the seal, and the only escalation this holding has — a name, a grade, a step. Two one-line Story Log stubs grow into the watch record and the counselor's leave-taking practice that the file already documents elsewhere. Whole design HELD; fresh +1 Types / +1 Weapon / +0 SE.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_03_BROKEN_DOOR.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-757-A__SIDE_CODEX_Door_to_No_One.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-757-B__MAW-W_The_Broken_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-757-C__MAW-S_The_Broken_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_716_to_757/SE-757-D__MAW-G_The_Broken_Hinge.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IIβ-796",
@@ -8278,6 +8311,14 @@
       "batch": 184,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_01_SHARD_OF_A_BROKEN_PROMISE.md",
       "history_proof": "Registry CSV 923–926, archetype MAW-W-851 row 338, Master table 722–724 / detail Entries 682–684, Entity Codex row 598, complete Tale 228, disposition row 370 read with exact SE-851-A–D 4/4. Exact designation/title/item-name searches across current CHANGELOG and WORK_IN_PROGRESS find only Batch 72 unit 4 (Registry Addendum couple-clearing prose, 685e594) and Batch 112 unit 3's boundary note that SE-851 remains its own assignment — neither is an independent whole-set equipment disposition; no O-IVδ-851 row exists in ledger equipment_reviews. Fresh +1 Types / +1 Weapon.",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "O-IIβ-757",
+      "batch": 187,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_03_BROKEN_DOOR.md",
+      "history_proof": "Exact SE-757 / Door to No One / MAW-W-757 search across CHANGELOG, both archived volumes, WORK_IN_PROGRESS and the evidence directory found only an R-29 digit fix, an item-page Appearance expansion (batch 14) and an SVG remake; no earlier independent full-set or exact-pair review and no unit evidence file.",
       "all_types_credit": true,
       "weapon_credit": true
     }
