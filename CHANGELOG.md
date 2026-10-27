@@ -8,6 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 191 — OPEN, 0 / 5 (2026-10-27)
+
+Fresh ranking of 70 pending (wc -w ascending). Queue: Somnium `C-IVγ-175`, I Alone Crossed `C-IVδ-106`, Bulwark `N-Iα-459`, Anger Underfoot `C-Iα-175`, Debt-Collector's Lantern `N-IIβ-250` (reviews 2–6 of this prompt).
+
 ## Batch 190 — CLOSED, 5 / 5 (2026-10-27)
 
 Unit 5 — **The Empty Mask `C-IIβ-054`: HELD; fresh +1 Types / +1 Weapon.** 4 repairs (2 short / 2 careful; 7,815→7,972 words): template consequences give way to the file's measured record (four unsupervised minutes, service-number sign, card series 3.1→5.2). First independent set review; removal-protocol and appearance forks held unmerged. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_05_THE_EMPTY_MASK.md). Batch closed: all five HELD, No change 0, 12 repairs (4s/8c); closure battery PASS (validators 25/25, reconstruction 5/5, tests 54/54, audits PASS, 70/70 fingerprints). [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_CLOSE.md). Counters: Types 279/301, Weapon 277/287, SE 18/301; held 211 / pending 70.

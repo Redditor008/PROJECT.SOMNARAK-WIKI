@@ -17,78 +17,17 @@
     }
   },
   "active_batch": {
-    "number": 190,
-    "status": "CLOSED",
+    "number": 191,
+    "status": "OPEN",
     "required": 5,
     "queue": [
-      "C-IVδ-193",
-      "C-IVδ-763",
-      "C-IVδ-249",
-      "N-IIIγ-160",
-      "C-IIβ-054"
+      "C-IVγ-175",
+      "C-IVδ-106",
+      "N-Iα-459",
+      "C-Iα-175",
+      "N-IIβ-250"
     ],
-    "reviewed": {
-      "C-IVδ-193": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_01_RIFT.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IVδ-763": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_02_MEMORIAL_FLAME_MID_CEREMONY.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IVδ-249": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_03_COLLAPSED_WHISPER.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "N-IIIγ-160": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_04_BROKEN_PROMISE.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IIβ-054": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_05_THE_EMPTY_MASK.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      }
-    }
+    "reviewed": {}
   },
   "dossiers": [
     {

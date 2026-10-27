@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "batch": 191,
+ "status": "OPEN",
+ "completed_units": 0,
+ "required_units": 5,
+ "queue": [
+  {
+   "unit": 1,
+   "designation": "C-IVγ-175",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-175_Somnium_꿈의_직공.md",
+   "words": 7916,
+   "sha256": "b67ee069c7d1760e5628a761ea4961a0dfab43ed03fe67edacf9fa8bdc95ce26"
+  },
+  {
+   "unit": 2,
+   "designation": "C-IVδ-106",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md",
+   "words": 7961,
+   "sha256": "c7800d71b08348d6f7c93213366114c9a800b3691a0aa3b69e74786f49bf2ade"
+  },
+  {
+   "unit": 3,
+   "designation": "N-Iα-459",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-459_Bulwark_잠든_벽.md",
+   "words": 7970,
+   "sha256": "82d885d28bd638001a17b4af7cc17d2bbac9b3c08571bd8dd327aee6ede55dc0"
+  },
+  {
+   "unit": 4,
+   "designation": "C-Iα-175",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-175_Anger_Underfoot_스며든_흔적.md",
+   "words": 7976,
+   "sha256": "b1cb700c1151464a7e0f92fb16e0e3db3e8906f62f3d8eb7171022fa06ff26a4"
+  },
+  {
+   "unit": 5,
+   "designation": "N-IIβ-250",
+   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-250_Debt-Collector_s-Lantern_추징관의_등불.md",
+   "words": 7980,
+   "sha256": "da4ebf83c12f98371c3267dc9d4376883eda341f683c30da144670cbd846e938"
+  }
+ ],
+ "units": [],
+ "opened_at": "2026-10-27",
+ "completed": 0
+}
