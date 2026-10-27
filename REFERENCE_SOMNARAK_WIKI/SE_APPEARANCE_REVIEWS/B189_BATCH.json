@@ -157,7 +157,113 @@
         "source_files_unchanged": 10,
         "digit_sequence_change": ""
       }
+    },
+    {
+      "designation": "C-IVδ-357",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-357_Sleeping_Weight_잠든_무게.md",
+      "words": 7624,
+      "sha256": "ec6cde3697b938b585a06b0d3dcc13c1c28ed03d85d92da569d8b2f4859cf7ba",
+      "unit": 2,
+      "name": "Sleeping Weight",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_02_SLEEPING_WEIGHT.md",
+      "before_words": 7624,
+      "after_words": 7624,
+      "base": "12d26231bb4e8e46aa32f2c582c49e884d7c20d5",
+      "final_sha256": "ec6cde3697b938b585a06b0d3dcc13c1c28ed03d85d92da569d8b2f4859cf7ba",
+      "summary": "No change. The complete frozen primary was re-read end to end; every section is already entity-specific, the in-file Batch 113 cross-source review already dispositions the SE-1034 / SE-357 identity tangle, and all five checks pass on the untouched file (wikistd meets True). No source-supported repair exists, so none was invented: the primary is byte-identical to the Batch 189 opening fingerprint, counters hold, and the dossier is recorded HELD with a No change outcome.",
+      "commentary": "Sleeping Weight is the rare dossier where the honest sentence is that there was nothing to fix. The combat rows are the sleeper's own — a sigh that buckles a wall, a nine-second near-waking in Year 4,233, an Ultimate that exists only as a projection so the standing order has something to point at. The breach card already refuses the standard hunting language: nobody is the target, what escapes is the load rising through rock toward the unfinished works. Even the equipment identity problem — an Unreleased Beam side set repeating this designation and reusing all three Resting item names — was picked apart in the Batch 113 cross-source review inside the file, which declined to count a pair that no crosswalk documents. Rewriting a sentence here just to have changed something would have been the one act this pass is not for, so the file stands exactly as frozen and the review is recorded as No change.",
+      "reasoning": "Whole-design chain traced: released-at-04:12 Worker → deemed-service register (7,400) → floor readings 1.31/1.44/1.62 → division-sheet protocol → equipment that refuses solo use (maul no one can lift alone, mantle two must put on one, charm unbearable in an empty room, eleven days a rotation signed in advance) → Second Service. Every implied claim checked against the file's own records: 211 shifts, four Waking Fits each traced to one person carrying more than their written share, Pugnahan's two attempts as the two highest readings. Sentence triage found no generic combat row, no template breach line, no inflated target/hunting language; tpl (the template-residue authority) reports RESIDUE 0 and sect GENERIC 0.000 with zero shared shingles. R-18 split: 0 short / 0 careful — declared after the full read because no supported repair exists; inventing one would breach R-33. Technical PASS corroborates but does not carry the decision: the decision is that no unsupported or generic claim was found to repair.",
+      "history": "The primary carries an in-file M.A.W. Cross-Source Review — Batch 113: Master Entries 283–285 assign the Resting Maul/Burden/Charm to Sleeping Weight; SE-1034-A 'Unreleased Beam' repeats the designation C-IVδ-357 [WS] and its B/C/D reuse the Resting names under MAW-*-1034-01 without any documented identity crosswalk, so SE-1034-B is explicitly not counted as this dossier's Weapon pair; SE-357-A/B/C/D belongs to Carrying Nothing C-IIβ-357 [GS] (Absent Fang/Plate/Burden) and MAW-W-357 depicts Absent Fang. SE-1034-A's header was re-read this unit and confirms the repeated designation under a different entity title. That Batch 113 disposition is the equipment coverage event: Types +0, Weapon +0, SE +0; no fresh equipment_reviews entry is due. Counters stay 274/301, 272/287, 18/301.",
+      "holds": [
+        "SE-1034 'Unreleased Beam' repeats designation C-IVδ-357 [WS] and reuses the Resting item names, but no identity crosswalk exists — both identities preserved exactly as Batch 113 left them; SE-1034-B is not this dossier's Weapon.",
+        "SE-357 set and MAW-W-357 belong to Carrying Nothing C-IIβ-357 (Absent Fang) — suffix match connects nothing; never joined.",
+        "Tale 95's Lament classification vs the primary/Entity Codex Weight record — stands unreconciled.",
+        "Floor-reading↔deemed-service-register correlation remains the file's own nine-year plotted finding, and the Second Service's unpublished gauge effect remains unpublished by the wing's stated choice.",
+        "No appearance credit: the SE-1034 item pages have no standalone Appearance headings (Batch 113), and no unambiguous Side set is registered to this primary."
+      ],
+      "split": [
+        0,
+        0
+      ],
+      "repairs": [],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVδ-357_Sleeping_Weight_잠든_무게.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.000  clean  1478 grams  Apex Record\n 0.000  clean   542 grams  M.A.W. Equipment\n 0.000  clean   519 grams  감각 묘사 (Flavor Text)\n 0.000  clean   467 grams  Combat Record\n 0.000  clean   427 grams  이야기 (Narratio)\n 0.000  clean   376 grams  이야기 보고 (Story Log)\n 0.000  clean   303 grams  기록 (Registrum)\n 0.000  clean   246 grams  관찰 기록 (Observation Log)\n 0.000  clean   232 grams  Origin\n 0.000  clean   228 grams  Appearance\n 0.000  clean   179 grams  Breach Behavior\n 0.000  clean   149 grams  Trivia\n 0.000  clean   132 grams  Operational Parameters\n 0.000  clean    97 grams  Behavior\n 0.000  clean    58 grams  최종 관찰 (Final Observation)\n 0.000  clean    57 grams  증언 (Testimonium)\n 0.000  clean    35 grams  SECC Classification\n 0.000  THIN      2 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "GENERIC 0.000  (0 shared shingles)  SE-C-IVδ-357_Sleeping_Weight_잠든_무게.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1034_Unreleased_Beam/SE-1034-A__SIDE_CODEX_Unreleased_Beam.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1034_Unreleased_Beam/SE-1034-B__MAW-W_The_Resting_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1034_Unreleased_Beam/SE-1034-C__MAW-S_The_Resting_Burden.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1034_Unreleased_Beam/SE-1034-D__MAW-G_The_Resting_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1034_Unreleased_Beam/SE-1034-A__SIDE_CODEX_Unreleased_Beam.md": "e1c183a2f393ebb1dd2b0b7273c04345421a6840f055be85b83d1bc6cc92ad47",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1034_Unreleased_Beam/SE-1034-B__MAW-W_The_Resting_Maul.md": "6ba3dbd683924cb87e493e5acebfe32665fdf73a58d51d00a381d93b678dc3b4",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1034_Unreleased_Beam/SE-1034-C__MAW-S_The_Resting_Burden.md": "062a53558406e5a65a0a2248e464bf713216a07c368998aada8c252eb7888519",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1034_Unreleased_Beam/SE-1034-D__MAW-G_The_Resting_Charm.md": "06beed34c0339d6bf1a72e243aab29c021dca228234108aa1d95e5d2084a7a85",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": true,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVδ-357_Sleeping_Weight_잠든_무게](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-357_Sleeping_Weight_%EC%9E%A0%EB%93%A0_%EB%AC%B4%EA%B2%8C.md \"SE-C-IVδ-357_Sleeping_Weight_잠든_무게.md\")]",
+      "table_link": "[Sleeping Weight](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-357_Sleeping_Weight_%EC%9E%A0%EB%93%A0_%EB%AC%B4%EA%B2%8C.md \"SE-C-IVδ-357_Sleeping_Weight_잠든_무게.md\")",
+      "reading": {
+        "before_lines": 452,
+        "before_bytes": 45223,
+        "final_lines": 452,
+        "final_bytes": 45223
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 78,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": ""
+      }
     }
   ],
-  "completed": 1
+  "completed": 2
 }

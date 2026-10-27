@@ -1,8 +1,8 @@
 # Work In Progress
 
-## Batch 189 — OPEN, 1 / 5 (2026-10-27)
+## Batch 189 — OPEN, 2 / 5 (2026-10-27)
 
-**Unit 1 — Aphonia `N-IIβ-170`: HELD.** One source-supported structural repair (1 short / 0 careful; 7,619→7,622 words): the R-29 parity heading `## 관찰 기록` now stands over the observation progression that was already present, so wikistd reads True instead of a hidden False. The 2026-10-12 in-file full-set review already covered set SE-1016: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B189_01_APHONIA.md). Queue: `C-IVδ-357`, `C-IIβ-135`, `N-IIIγ-184`, `N-IIβ-627`; units are reviews 2–6 of this ten-review prompt, Batch 190 Units 1–4 follow.
+**Unit 2 — Sleeping Weight `C-IVδ-357`: HELD — No change.** The complete file was re-read; every section is already entity-specific, the in-file Batch 113 cross-source review already dispositions the SE-1034/SE-357 identity tangle, and all five checks pass on the untouched file (wikistd True; sect GENERIC 0.000). No source-supported repair exists, so none was invented: the primary is byte-identical to the opening fingerprint (7,624 words). +0/+0/+0. [Evidence](SE_APPEARANCE_REVIEWS/B189_02_SLEEPING_WEIGHT.md). Unit 1 Aphonia HELD (1 structural repair; [evidence](SE_APPEARANCE_REVIEWS/B189_01_APHONIA.md)). Queue: `C-IIβ-135`, `N-IIIγ-184`, `N-IIβ-627`.
 
 ## Batch 188 — CLOSED, 5 / 5 (2026-10-27)
 

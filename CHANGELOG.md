@@ -8,9 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 189 — OPEN, 1 / 5 (2026-10-27)
+## Batch 189 — OPEN, 2 / 5 (2026-10-27)
 
-**Unit 1 — Aphonia `N-IIβ-170`: HELD.** One structural repair (1 short / 0 careful; 7619→7622 words): parity heading restored over existing observation content; wikistd True. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_01_APHONIA.md). Set SE-1016 already covered by the 2026-10-12 in-file full-set review: +0/+0/+0. Completed 1/5; No change 0; held 202 / pending 79.
+**Unit 2 — Sleeping Weight `C-IVδ-357`: HELD — No change.** Full re-read; all five checks pass on the untouched file (7624 words, byte-identical to the opening fingerprint); Batch 113 in-file review already covers the equipment identity questions: +0/+0/+0. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_02_SLEEPING_WEIGHT.md). Unit 1 Aphonia HELD (1 structural repair). Completed 2/5; No change 1; held 203 / pending 78.
 
 ## Batch 188 — CLOSED, 5 / 5 (2026-10-27)
 
