@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-340 [VP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only. Failure does not produce a breach; it produces another site — the outline appears beside a different abandoned camp and the previous site goes cold and ordinary. |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
@@ -78,9 +78,9 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Frost Spread* [**Debuff**] } | "Ice creeps from the relic across the floor — and it is reaching for your feet." | [The Relic radiates cold; frost extends toward the target.] | *Target suffers a Void mark; the cold is alive and hungry.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Relic. |
-| { *The Frozen Memory* [**Debuff**] } | "You touch the relic — and a memory flashes, perfect, preserved, and absolutely cold." | [The Relic imparts a frozen memory; the target feels it crystalize.] | *Target loses clarity; the preserved grief is too clear.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target touches the Relic. |
-| { *The Ice Shard* [**Attack**] } | "A shard of the relic's ice breaks free — sharp, ancient, and aimed." | [A frozen splinter launches from the Relic.] | *Inflicts Void damage; the cold carries away warmth and identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Relic is struck. |
+| { *The Frost Spread* [**Debuff**] } | "The frost does not creep and the cold is not alive. It forms in the air around an empty shape, and it is the whole of this holding's footprint." | [Nothing reaches for anybody's feet; the first sign is cold without weather, then the certainty of having forgotten to say something.] | *Target suffers a Void mark; the certainty attaches itself to whatever they are carrying grief about.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the outline. |
+| { *The Frozen Memory* [**Debuff**] } | "Nobody touches the relic, because there is nothing there to touch — the outline has never been touched by anything, including instruments, and no memory is imparted by it." | [What the target receives is their own unsaid thing acquiring a shape, confidently and wrongly; the file treats every such attachment as evidence about the worker.] | *Target loses clarity; the explanation they invent on the spot is logged, not believed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | At the outline, in silence. |
+| { *The Ice Shard* [**Attack**] } | "Nothing breaks free and nothing has ever been fought here — the incidents on file are two hypothermia cases and four reconstructions that should not have been drawn." | [No splinter launches from an empty outline. Inside a reading, the cold moves from the air into the person, and past sixty seconds the exposure is hypothermic regardless of clothing.] | *Inflicts Void damage; the route in is a document read aloud, not a blow.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | While the kit list is being read. |
 | { *The Deep Freeze* [**Attack**] } | "The relic unleashes its stored cold — everything within reach goes solid." | [The Relic flash-freezes the area around the target, and the record's note is that the ground is not being violent: the cold is what the site does when a list is stopped halfway.] | *A heavy Void freeze; the target's Sorrow Gauge surges 15% and the 198 line is untouched — nothing has been done to the outline, and the outline has never been touched by anything.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a reader abandons the recovery list mid-item. |
 | { *The Glacier* [**Ultimate**] } | "The relic's cold does not stop — it freezes the whole field, and the frost is permanent." | [The Relic extends its permafrost across the entire area, and the frost is permanent in the ordinary sense the wing uses for a marked site: it stays until the site goes ordinary and the holding is somewhere else.] | *All in range suffer Void erosion for three turns in the deep freeze. The pressure is the cold the party brought on itself by not marking the site; the series this action answers to is the register of unidentified effects, 1,384 of them, none with a disposal date.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the reading runs past the sixty-second limit — the gauge reaches 65% on exposure, never on provocation. |
 
@@ -155,7 +155,7 @@ Apocrypha is an Object/Place with Place-Void manifestation and Void expression, 
 
 **Activation Trigger:** Reading the recovery kit list aloud at the outline.
 
-**Effect:** Projects an aura of absolute stillness, suppressing all active elemental damage over time across Range Band 2.
+**Effect:** While the list is read the air goes still — completely, the way nothing in the Desolate is still — and the cold stops being ambient and starts taking heat out of the party. Nothing is suppressed and nothing is protected; relief under it is a warning sign.
 
 **Duration:** Continuous while the list is being read.
 
@@ -168,7 +168,7 @@ Apocrypha is an Object/Place with Place-Void manifestation and Void expression, 
 | **Tool Class** | **O-Relic** |
 | **Use Mode** | **Continuous / channeled use** |
 | **Activation** | Reading the recovery kit list aloud at the outline. |
-| **Primary Effect** | Projects an aura of absolute stillness, suppressing all active elemental damage over time across Range Band 2. |
+| **Primary Effect** | The stillness, and heat leaving the readers: instruments lose a degree they do not get back while the reading continues, and the frost stands a fraction higher in the air around the outline. |
 | **Duration** | Continuous while the list is being read. |
 | **Termination / Return** | The reading stops and the stillness closes with it — the site keeps nothing and gives nothing back. Abandoning the list mid-sentence is the failure mode: the frost spreads over the abandoned page, and the party leaves with the cold still in them and a register entry that says an item was left unidentified. |
 | **Risk** | Body temperature drops rapidly; continuing past 60 seconds causes immediate hypothermia. |
@@ -196,7 +196,7 @@ The holding does not expand; it moves. The outline at a surveyed site goes ordin
 |---|---|
 | **Trigger** | Reading the recovery kit list aloud at the outline. |
 | **Manifestation** | Place-Void |
-| **Primary effect** | Projects an aura of absolute stillness, suppressing all active elemental damage over time across Range Band 2. |
+| **Primary effect** | Absolute stillness at the outline and a rapid fall in the party's body temperature, for exactly as long as the reading lasts. |
 | **Duration / rate** | Continuous while the list is being read; the stillness closes the moment the reading stops. |
 | **Risk** | Minor (α). Body temperature falls fast inside the stillness; past sixty seconds the exposure is hypothermic regardless of clothing. |
 | **Management** | Mark the site and speak the farewell that was missed; record who spoke and the words used, not a summary of them. |

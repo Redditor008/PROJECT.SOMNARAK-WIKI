@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 195 — OPEN, 3 / 5 (2026-10-28)
+## Batch 195 — OPEN, 4 / 5 (2026-10-28)
+
+Unit 4 — **Apocrypha `O-Iα-340`: HELD; credit-barred, +0.** 7 repairs (0s/7c; 8,227→8,411 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_04_APOCRYPHA.md).
 
 Unit 3 — **Walking Calendar `C-IVδ-220`: HELD, fresh +1 Types / +1 Weapon.** 8 repairs (3s/5c; 8,202→8,358 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_03_WALKING_CALENDAR.md).
 

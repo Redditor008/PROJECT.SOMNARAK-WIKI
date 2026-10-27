@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 195 — OPEN, 3 / 5 (2026-10-28)
+## Batch 195 — OPEN, 4 / 5 (2026-10-28)
+
+**Unit 4 — Apocrypha `O-Iα-340`: HELD, +0.** Seven repairs (0 short / 7 careful; 8,227→8,411 words): an untouched outline stops launching shards; exact set SE-1033 (not SE-340). Credit barred by the in-file 2026-10-12 review. [Evidence](SE_APPEARANCE_REVIEWS/B195_04_APOCRYPHA.md).
 
 **Unit 3 — Walking Calendar `C-IVδ-220`: HELD, fresh +1/+1.** Eight repairs (3 short / 5 careful; 8,202→8,358 words); first exact-pair disposition (erased-vs-scheduled fork held). [Evidence](SE_APPEARANCE_REVIEWS/B195_03_WALKING_CALENDAR.md). Counters: Types 286/301, Weapon 284/287, SE 18/301.
 

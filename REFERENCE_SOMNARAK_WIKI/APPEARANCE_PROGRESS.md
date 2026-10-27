@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B195 U3 Walking Calendar `C-IVδ-220` HELD, fresh +1/+1.** 8 repairs (3s/5c), 8,202→8,358w. Types 286/301 (95.02%), Weapon 284/287 (98.96%), SE 18/301 (5.98%); held 234 / pending 47. [Evidence](SE_APPEARANCE_REVIEWS/B195_03_WALKING_CALENDAR.md).
+- **Latest: B195 U4 Apocrypha `O-Iα-340` HELD, credit-barred, +0.** 7 repairs (0s/7c), 8,227→8,411w. Types 286/301 (95.02%), Weapon 284/287 (98.95%), SE 18/301 (5.98%); held 235 / pending 46. [Evidence](SE_APPEARANCE_REVIEWS/B195_04_APOCRYPHA.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

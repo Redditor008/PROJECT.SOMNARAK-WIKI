@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 195,
   "status": "OPEN",
-  "completed_units": 3,
+  "completed_units": 4,
   "required_units": 5,
   "queue": [
     {
@@ -565,8 +565,164 @@
         "source_files_unchanged": 10,
         "digit_sequence_change": "Digit changes are documented figure reuse only: the template Speed 2.45 m/s is removed and the file's own traverse baseline of 600 a season is restated. No other figure, date, score or count was altered."
       }
+    },
+    {
+      "designation": "O-Iα-340",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-340_Apocrypha_얼어붙은_유물.md",
+      "words": 8227,
+      "sha256": "bee01f5f911dd4fdd5b877c74144b91274a8e620357b001eb578f308d16fe75b",
+      "unit": 4,
+      "name": "Apocrypha",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_04_APOCRYPHA.md",
+      "before_words": 8227,
+      "after_words": 8411,
+      "base": "261e73870d7ed96f83bbea5e416f59f8d35015fe",
+      "final_sha256": "58c6fabba6d81944f1d7e764b3af2eb2da61a98f4ba9f430d63dff1da38b83ed",
+      "summary": "Seven source-supported repairs (0 short / 7 careful): an empty outline that has never been touched stops imparting memories on contact, launching shards and creeping hungrily; the triple-pasted Range-Band damage-suppression aura becomes the stillness-and-heat-loss the log measures; the header stops breaching by Transform. HELD; no credit (in-file full-set source review dated 2026-10-12; exact set SE-1033, not SE-340).",
+      "commentary": "The holding is one line of a kit list — *one object, unidentified, retained* — and its only violence is hypothermia inside a reading everyone is free to stop. The template had made the frost hunt; the repairs restore the file's own negative result as the load-bearing fact: a party that reads nothing has never recorded an activation at any of the nine sites.",
+      "reasoning": "Set SE-1033 identity resolved exactly as the in-file review records (O-Iα-340 [VP] on every Side/item header; SE-340 is Clapperless, Registry rows 623–624, excluded); Registry rows 294–297 (Registry_1001_to_1043/1033_Apocrypha). Sentence triage: three combat rows touched, struck and shattered an outline the record says nothing has ever touched; the activation effect pasted the Range-Band suppression aura into three sections against the sixty-second hypothermia limit that the Log and Method table already documents properly; the SECC header's 'Can breach via Transform' contradicted the file's relocation-without-breach doctrine. R-18 split declared before the apply: 0 short / 7 careful.",
+      "history": "No credit — the primary carries a 'Full-set source review (2026-10-12)' verifying every local M.A.W. claim against SE-1033-A/B/C/D, Registry rows 294–297, Master rows/details 706–708, Entity Codex row 606, Tale 236 and archetypes MAW-W-340/MAW-W-1033, including the sibling-entity warning. That is the coverage event; equipment_reviews has no 340 entry and none was added. Side A (66 lines) and items B/C/D read whole (58/58/57 lines; this item family has no Appearance sections) confirm the disposition; git path history shows only the B179 import. +0 all counters.",
+      "holds": [
+        "Weapon name/form as held by the in-file review: local/Master-table Cryo-Relic Lance (eight-foot mammoth-ivory lance, glacier-ice head) vs Side/item Apocrypha Lens vs Entry 706 Frozen Relic Lens; MAW-W-340 polearm/Long and linked MAW-W-1033 Singularity Grav-Hammer/Room supply no crosswalk to Short 2; figures agree (Void 3–6 / 2 / 2 / Single / 5 / 15).",
+        "Identity guard preserved: suffix sibling C-IIβ-340 Clapperless owns SE-340 (Clapperless Chime-Sceptre, MAW-W-340-01); this dossier's exact set is SE-1033. Entity Codex/Tale 'The Frozen Relic' is entity context, not an item alias.",
+        "Acquisition as held: primary three-pieces-from-frost with no protocol producing a Stigma (offered on undisclosed criteria) vs item D's Head / 5% acquisition field; primary confers for writing down what a dead colleague's possession meant — condition absent from item D.",
+        "Suit/Stigma figures agree with Side/items (1.2/0.8/0.3/1.1, 5/10; Head / 5% / +1); item terminal corrosion (manifestation uses bearer as new site) and attribution regime vs the primary's meaning-field/effects-office regime, both standing.",
+        "The 1,384-item no-disposal undertaking, the quartermaster's correct-and-unanswered objection, 47 invariant measurements and four sealed reconstructions remain open record, untouched."
+      ],
+      "split": [
+        0,
+        7
+      ],
+      "repairs": [
+        {
+          "id": "R1-entity-type",
+          "kind": "careful classification correction",
+          "careful": true,
+          "old": "| **Entity Type** | **Object/Place** — Can breach via Transform |",
+          "new": "| **Entity Type** | **Object/Place** — Non-breaching: activation only. Failure does not produce a breach; it produces another site — the outline appears beside a different abandoned camp and the previous site goes cold and ordinary. |"
+        },
+        {
+          "id": "R2-frost-spread",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Frost Spread* [**Debuff**] } | \"Ice creeps from the relic across the floor — and it is reaching for your feet.\" | [The Relic radiates cold; frost extends toward the target.] | *Target suffers a Void mark; the cold is alive and hungry.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Relic. |",
+          "new": "| { *The Frost Spread* [**Debuff**] } | \"The frost does not creep and the cold is not alive. It forms in the air around an empty shape, and it is the whole of this holding's footprint.\" | [Nothing reaches for anybody's feet; the first sign is cold without weather, then the certainty of having forgotten to say something.] | *Target suffers a Void mark; the certainty attaches itself to whatever they are carrying grief about.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the outline. |"
+        },
+        {
+          "id": "R3-frozen-memory",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Frozen Memory* [**Debuff**] } | \"You touch the relic — and a memory flashes, perfect, preserved, and absolutely cold.\" | [The Relic imparts a frozen memory; the target feels it crystalize.] | *Target loses clarity; the preserved grief is too clear.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target touches the Relic. |",
+          "new": "| { *The Frozen Memory* [**Debuff**] } | \"Nobody touches the relic, because there is nothing there to touch — the outline has never been touched by anything, including instruments, and no memory is imparted by it.\" | [What the target receives is their own unsaid thing acquiring a shape, confidently and wrongly; the file treats every such attachment as evidence about the worker.] | *Target loses clarity; the explanation they invent on the spot is logged, not believed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | At the outline, in silence. |"
+        },
+        {
+          "id": "R4-ice-shard",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Ice Shard* [**Attack**] } | \"A shard of the relic's ice breaks free — sharp, ancient, and aimed.\" | [A frozen splinter launches from the Relic.] | *Inflicts Void damage; the cold carries away warmth and identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Relic is struck. |",
+          "new": "| { *The Ice Shard* [**Attack**] } | \"Nothing breaks free and nothing has ever been fought here — the incidents on file are two hypothermia cases and four reconstructions that should not have been drawn.\" | [No splinter launches from an empty outline. Inside a reading, the cold moves from the air into the person, and past sixty seconds the exposure is hypothermic regardless of clothing.] | *Inflicts Void damage; the route in is a document read aloud, not a blow.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | While the kit list is being read. |"
+        },
+        {
+          "id": "R5-aura-activation",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "**Effect:** Projects an aura of absolute stillness, suppressing all active elemental damage over time across Range Band 2.",
+          "new": "**Effect:** While the list is read the air goes still — completely, the way nothing in the Desolate is still — and the cold stops being ambient and starts taking heat out of the party. Nothing is suppressed and nothing is protected; relief under it is a warning sign."
+        },
+        {
+          "id": "R6-aura-tool",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Primary Effect** | Projects an aura of absolute stillness, suppressing all active elemental damage over time across Range Band 2. |",
+          "new": "| **Primary Effect** | The stillness, and heat leaving the readers: instruments lose a degree they do not get back while the reading continues, and the frost stands a fraction higher in the air around the outline. |"
+        },
+        {
+          "id": "R7-aura-detailed",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Primary effect** | Projects an aura of absolute stillness, suppressing all active elemental damage over time across Range Band 2. |",
+          "new": "| **Primary effect** | Absolute stillness at the outline and a rapid fall in the party's body temperature, for exactly as long as the reading lasts. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-Iα-340_Apocrypha_얼어붙은_유물.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.034  clean   506 grams  관찰 기록 (Observation Log)\n 0.024  clean   252 grams  Appearance\n 0.017  clean   121 grams  Operational Parameters\n 0.011  clean   713 grams  Combat Record\n 0.006  clean   690 grams  M.A.W. Equipment\n 0.003  clean   587 grams  감각 묘사 (Flavor Text)\n 0.003  clean   378 grams  이야기 보고 (Story Log)\n 0.000  clean   855 grams  Activation Behavior\n 0.000  clean   676 grams  Outline Record\n 0.000  clean   321 grams  이야기 (Narratio)\n 0.000  clean   252 grams  기록 (Registrum)\n 0.000  clean   225 grams  Trivia\n 0.000  clean   149 grams  Origin\n 0.000  clean   120 grams  최종 관찰 (Final Observation)\n 0.000  clean   118 grams  Behavior\n 0.000  clean    41 grams  SECC Classification\n 0.000  clean    39 grams  증언 (Testimonium)\n 0.000  clean    31 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 15% against Void pressure; 5% against other pressure types |\n   81   1  | { *The Frost Spread* [**Debuff**] } | \"The frost does not creep and the cold is not alive. It forms in the air around an empty s\n   84   1  | { *The Deep Freeze* [**Attack**] } | \"The relic unleashes its stored cold — everything within reach goes solid.\" | [The Relic fl\n   85   5  | { *The Glacier* [**Ultimate**] } | \"The relic's cold does not stop — it freezes the whole field, and the frost is permanent.\" | \n  122   6  | **Identification** | Verify these observations against the SECC code before work or contact begins; more than one Desolate recor\n  228   2  **Ability:** Void damage to the soul — to identity rather than the body. The lance carries the record's signature, which is an obj\n  248   2  **Cost:** The wearer feels faintly absent to themselves and starts describing their own possessions as things they are looking aft\n  282  13  **Full-set source review (2026-10-12):** Verified the already-complete `O-Relic (Offertorium) · α (Minor)` overview and every loca\n  303   4  **Observation method:** Record the first sign, which is cold without weather; the first sensation, which is the certainty that you\n  318   1  Work response — Viderehan: Shows fragments of the relic's unknown purpose. (Stable); Ferrehan: Tests whether the worker can remain\n  357   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.007  (40 shared shingles)  SE-O-Iα-340_Apocrypha_얼어붙은_유물.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1033_Apocrypha/SE-1033-A__SIDE_CODEX_Apocrypha.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1033_Apocrypha/SE-1033-B__MAW-W_Apocrypha_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1033_Apocrypha/SE-1033-C__MAW-S_Apocrypha_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1033_Apocrypha/SE-1033-D__MAW-G_Apocrypha_Shard.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1033_Apocrypha/SE-1033-A__SIDE_CODEX_Apocrypha.md": "b2adfd73147e3affa8b59fac55fbdac40696b88dee30d17d042b375d3c0f58f9",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1033_Apocrypha/SE-1033-B__MAW-W_Apocrypha_Lens.md": "cbb9800af2ea0d3932b0454795aee9f6e65b573ff07251710d4fb2e18a7b9c52",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1033_Apocrypha/SE-1033-C__MAW-S_Apocrypha_Veil.md": "c7ea1735e72f6d5d69957f41a9c48d47bcad19cb25271502de66c540131d607a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1033_Apocrypha/SE-1033-D__MAW-G_Apocrypha_Shard.md": "2281e1cf18435e851a103de50f9ff264dc4b44c1b71acb767f836ecc41cb73b5",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-Iα-340_Apocrypha_얼어붙은_유물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-340_Apocrypha_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%9C%A0%EB%AC%BC.md \"SE-O-Iα-340_Apocrypha_얼어붙은_유물.md\")]",
+      "table_link": "[Apocrypha](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-340_Apocrypha_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%9C%A0%EB%AC%BC.md \"SE-O-Iα-340_Apocrypha_얼어붙은_유물.md\")",
+      "reading": {
+        "before_lines": 464,
+        "before_bytes": 49758,
+        "final_lines": 464,
+        "final_bytes": 50816
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 46,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": "Sole digit change: the deleted template's Range Band '2' disappears in all three places it was pasted. No other figure, date, score or count was altered."
+      }
     }
   ],
   "opened_at": "2026-10-28",
-  "completed": 3
+  "completed": 4
 }
