@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 188 — OPEN, 3 / 5 (2026-10-27)
+## Batch 188 — OPEN, 4 / 5 (2026-10-27)
+
+**Unit 4 — Forgotten Soldier `N-IIβ-033`: HELD.** Two supported repairs (1 short / 1 careful; 7,587→7,705 words): rows 1–3 drop the phantom regiment, the medal chest and the bayonet charge for the unvarying facing, the sixteen-day interval, directed words that record nothing, and damage that lands on doors; one Consequences line becomes the re-measured interval. Batch 132 already counted set 1005: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B188_04_FORGOTTEN_SOLDIER.md). This prompt's ten-review ceiling reached; Unit 5 (Corrosion Dream) + closure wait for the next P.
 
 **Unit 3 — Deteriorata `C-IVγ-130`: HELD.** Four supported repairs (3 short / 1 careful; 7,584→7,783 words): all five combat rows stop fragments landing, hands crushing and the figure collapsing, becoming the never-landing field, quarterly cubic metres against unwritten work, shoring, and repair-as-instruction; three Flavor blocks become the relief clock, the moving-west instruction and a crossed-out nil return. No earlier independent set review: **fresh +1 Types / +1 Weapon** / +0 SE. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B188_03_DETERIORATA.md).
 

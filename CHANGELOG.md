@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 188 — OPEN, 3 / 5 (2026-10-27)
+## Batch 188 — OPEN, 4 / 5 (2026-10-27)
+
+**Unit 4 — Forgotten Soldier `N-IIβ-033`: HELD.** Two supported repairs (1 short / 1 careful; 7587→7705 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_04_FORGOTTEN_SOLDIER.md). Batch 132 already counted set 1005: +0/+0/+0. Completed 4/5; No change 0; held 200 / pending 81. Ten-review ceiling reached this prompt.
 
 **Unit 3 — Deteriorata `C-IVγ-130`: HELD.** Four supported repairs (3 short / 1 careful; 7584→7783 words). Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_03_DETERIORATA.md). No earlier independent full-set or exact-pair review: **fresh +1 Types / +1 Weapon** / +0 SE. Completed 3/5; No change 0; held 199 / pending 82; Types 274/301 · Weapon 272/287.
 
