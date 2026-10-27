@@ -1,8 +1,10 @@
 # Work In Progress
 
-## Batch 192 — OPEN, 4 / 5 (2026-10-27)
+## Batch 192 — OPEN, 5 / 5 (2026-10-27)
 
 Fresh ranking of 65 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-Iα-175`, `C-IIIγ-021`, `O-IIβ-796`, `C-IIIβ-036`, `C-IIβ-100`. Units 1–4 are reviews 7–10 of this prompt; the batch stays open at 4/5 by design.
+
+**Unit 5 — Unsaid Blossoms `C-IIβ-100`: HELD, fresh +1/+1.** Three repairs (1 short / 2 careful; 8,005→8,052 words): borrowed suppression/co-presence/origin-tale template removed from a counting grave. First independent set review (SE-100 whole; blade/war-fan fork held): +1 Types / +1 Weapon. [Evidence](SE_APPEARANCE_REVIEWS/B192_05_UNSAID_BLOSSOMS.md). Counters: Types 282/301, Weapon 280/287, SE 18/301. Closure battery next.
 
 **Unit 4 — The Cracked Hourglass `C-IIIβ-036`: HELD, +0.** Four repairs (1 short / 3 careful; 8,000→8,091 words): the glass stops running out in its own combat table. Credit barred by the in-file full-set source review (2026-10-11) and the Side weapon profile hold. [Evidence](SE_APPEARANCE_REVIEWS/B192_04_THE_CRACKED_HOURGLASS.md). Counters unchanged: Types 281/301, Weapon 279/287, SE 18/301. Unit 5 Unsaid Blossoms waits for the next prompt.
 

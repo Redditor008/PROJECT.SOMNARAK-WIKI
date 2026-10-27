@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIβ-100": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_05_UNSAID_BLOSSOMS.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -1286,8 +1298,29 @@
     {
       "designation": "C-IIβ-100",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-100_Unsaid_Blossoms_벚꽃의_무덤.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Three source-supported repairs (1 short / 2 careful): the stock Resolution line (containment/retreat/suppression at a grave where nothing is ever done) is replaced by the count-only condition; Story Entry 6's borrowed generic tale — which reversed the burial into 'a mother who lost her child' — is replaced by the file's own archive record (commissioning folder, private count book, unread store); and the Interaction Pattern's generic co-presence sensor checklist is replaced by the paper-only settlement the grave's standing order requires. First independent full-set source review of SE-100: fresh +1 Types / +1 Weapon; whole design HELD, SE +0.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_05_UNSAID_BLOSSOMS.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/100_Unsaid_Blossoms/SE-100-A__SIDE_CODEX_Unsaid_Blossoms.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/100_Unsaid_Blossoms/SE-100-B__MAW-W_The_Unsaid_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/100_Unsaid_Blossoms/SE-100-C__MAW-S_The_Unsaid_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/100_Unsaid_Blossoms/SE-100-D__MAW-G_The_Unsaid_Petal.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIβ-101",
@@ -8985,6 +9018,14 @@
       "batch": 192,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_03_SPIRE_OF_UNANSWERED_PRAYER.md",
       "history_proof": "Fresh exact796 pair/fullset review. No prior evidence mentions O-IIβ-796; no in-file cross-source/full-set review block (the Binding and Return Care section is handling doctrine, resolving no name/profile against item/Side/Registry records); Side A has no profile-hold/disposition paragraph; equipment_reviews has no 796 entry; git path history only the B179 import (87f1a01). Side A (66 lines) and items B/C/D in Registry_762_to_801/796_Spire_of_Unanswered_Prayer read whole including Appearance sections; Registry rows 895-898 confirm identity (Weapon Variable/-/-, Stigma generic Accessory/5%); Sinking Chime-Tower vs Tower Requiem name fork first recorded here and held unmerged. New +1 Types/+1 Weapon; SE +0 (whole design HELD).",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "C-IIβ-100",
+      "batch": 192,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_05_UNSAID_BLOSSOMS.md",
+      "history_proof": "Fresh exact SE-100 full-set review. No prior evidence mentions C-IIβ-100; no in-file cross-source/full-set review block or per-piece holds; Side A has no profile-hold/disposition paragraph; equipment_reviews has no 100 entry; ENTITY_DISPOSITION_INDEX holds only an entity (Neutral) disposition; git path history only the B179 import (87f1a01). Side A (181 lines) and items B/C/D in Registry_099_to_103/100_Unsaid_Blossoms read whole including Appearance sections; Registry rows 150-153 confirm identity (Weapon Variable, Stigma generic Accessory/5%); singing-blade/Resonant Blade vs bladed-war-fan form fork first recorded here and held unmerged. New +1 Types/+1 Weapon; SE +0 (whole design HELD).",
       "all_types_credit": true,
       "weapon_credit": true
     }

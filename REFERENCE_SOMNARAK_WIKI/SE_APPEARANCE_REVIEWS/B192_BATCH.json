@@ -581,8 +581,136 @@
         "source_files_unchanged": 10,
         "digit_sequence_change": ""
       }
+    },
+    {
+      "designation": "C-IIβ-100",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-100_Unsaid_Blossoms_벚꽃의_무덤.md",
+      "words": 8005,
+      "sha256": "4d2a2fc340a26b6c39672831f66c00a3aa74a150e099ba98a771ab6db12f0f00",
+      "unit": 5,
+      "name": "Unsaid Blossoms",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_05_UNSAID_BLOSSOMS.md",
+      "before_words": 8005,
+      "after_words": 8052,
+      "base": "115ea8625760ae3801b48b101dab087574ab82dc",
+      "final_sha256": "d8140f2388790f472a970993e82b37f1f35b2ee98fcab450869c807694233c49",
+      "summary": "Three source-supported repairs (1 short / 2 careful): the stock Resolution line (containment/retreat/suppression at a grave where nothing is ever done) is replaced by the count-only condition; Story Entry 6's borrowed generic tale — which reversed the burial into 'a mother who lost her child' — is replaced by the file's own archive record (commissioning folder, private count book, unread store); and the Interaction Pattern's generic co-presence sensor checklist is replaced by the paper-only settlement the grave's standing order requires. First independent full-set source review of SE-100: fresh +1 Types / +1 Weapon; whole design HELD, SE +0.",
+      "commentary": "This is one of the most disciplined files in the pass — fifty-two years of counts, a store nobody opens, and corrections entered against its own earlier claims — which is exactly why the three borrowed paragraphs stood out: a suppression outcome at a grave, a sensor checklist for co-presences that are refused on principle, and a stock origin tale that buried the wrong relative. The set review underneath is equally two-minded: the figures agree everywhere, while the weapon is a singing blade in the primary and Master table and a bladed war fan in its own item file. Nobody had recorded that fork before, so the credit is fresh; the fork itself stays exactly as split as found.",
+      "reasoning": "Set SE-100 identity resolved from Side A (C-IIβ-100 [LP]) and items carrying SE-100 / MAW-W/S/G-100-01; Registry rows 150–153 (Registry_099_to_103/100_Unsaid_Blossoms). Sentence triage over the whole primary found the combat rows, consequences, behavior and expansion sections already entity-specific and internally corrected; the unsupported text was three template survivals: the generic Battle-Phases Resolution verb set, the generic Interaction Pattern co-presence checklist (against 'No proximity work... it is a grave'), and Story Entry 6's shared origin tale (the same text appears in four dossiers and reverses this file's burial). R-18 split declared before the apply: 1 short / 2 careful. Side PAGE 01/02 claims the primary already strikes (root spread, heard sentences, emotional-history Viderehan) were left unedited in their source and are held below, not re-imported. Digits unchanged.",
+      "history": "Fresh-credit proof by negatives: no in-file cross-source/full-set review block and no per-piece source holds in the primary; Side SE-100-A carries no profile-hold or disposition paragraph; no prior evidence file mentions C-IIβ-100; ledger equipment_reviews has no 100 entry; ENTITY_DISPOSITION_INDEX carries only an entity disposition (Neutral), not an equipment appearance disposition; git path history shows only the B179 import (87f1a01). First independent full-set review: Side A (181 lines) and items B/C/D read whole (102/102/99 lines) including Appearance sections; Registry rows 150–153 confirm identity (Weapon Variable; Stigma generic Accessory/5%); machine fields agree (Lament 5–9, 2/2, Single, 4/25; resistances 0.4/1.0/1.6/0.8; Tail/5%/+1). The blade/war-fan form fork below is recorded nowhere before this review. Fresh credit: Types +1, Weapon +1, SE +0. Counters become 282/301, 280/287, 18/301.",
+      "holds": [
+        "Weapon form fork, first recorded here: primary 'slender, singing blade' + Master Codex Entry 118 'Resonant Blade' vs item SE-100-B Appearance 'bladed war fan' with ribs, pivot and floating petal (its own identity table says slim blade with petal beneath the guard). Figures identical (Lament 5–9 / 2 / 2 / Single / 4 / 25); no transition documented; neither form normalized.",
+        "Suit: figures and muted-joys cost agree; primary wrapping shroud with a plain ward ability vs item blue wrap with petal-veined folds, Layered Silence and the Quiet Hem boundary-phrase trigger — kept as distinct records.",
+        "Stigma Tail / 5% / +1 and the irreversible-sentence cost agree; primary's nine unnamed counter-bearers and 'knows who has something unsaid' secondary vs item's single named bearer, welfare-witness regime and Listener's Shape passive — not merged.",
+        "Side SE-100-A PAGE 01/02 (roots extending through the Gardens, personnel hearing unsaid words, petals falling in complete sentences, Viderehan revealing the grave's emotional history, confession clearing petals) vs the primary's fifty-two-survey record striking each claim — Side text preserved unedited; the primary's corrections stand.",
+        "Whether each fallen blossom answers to one sentence or one person who postponed it remains the sources' open question; the grave is empty and the store stays unread."
+      ],
+      "split": [
+        1,
+        2
+      ],
+      "repairs": [
+        {
+          "id": "R1-resolution-generic",
+          "kind": "short resolution correction",
+          "careful": false,
+          "old": "3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **The day's fall is counted whole, entered unrounded, and stored unread, with the quarter's refused-message figure attached**.",
+          "new": "3. **Resolution:** There is no containment, retreat or suppression outcome to achieve at the grave; the cycle closes on the documented condition alone: **The day's fall is counted whole, entered unrounded, and stored unread, with the quarter's refused-message figure attached**."
+        },
+        {
+          "id": "R2-entry6-archive-note",
+          "kind": "careful story-log correction",
+          "careful": true,
+          "old": "There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child to the Han. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.",
+          "new": "The archive holds no tale for this grave and has stopped accepting them. What it holds is the commissioning folder — the notice placed, the order of service, the arrangements made, all correct and complete — and beside it a private count book begun by a Warden nobody had asked, now in its fifty-second year. Between the two is the whole record: everything that was required of the household, done; and a daily number for what was not. The store the numbers describe has never been opened for reading, and this note is entered in place of the older borrowed telling, which reversed the burial and belonged to no grave in particular."
+        },
+        {
+          "id": "R3-interaction-pattern",
+          "kind": "careful interaction correction",
+          "careful": true,
+          "old": "The grave keeps three names on its books beside the blossoms — The Whispering Walls, The Silent Bell and The Weeping Statue — and what runs between them is neither friendship nor quarrel, only a question the file asks again each time. Any watch that stands two of them together must say plainly what altered: how the place sounded, whether anything moved, the chill or warmth in the soil, the memory pressure on the worker, the figure on the gauge, and whether the border still answered — with a distance, a length of time and the moment it began.",
+          "new": "The grave keeps three names on its books beside the blossoms — The Whispering Walls, The Silent Bell and The Weeping Statue — and none of the three is ever brought here: it is a grave. Each paper relationship is settled in writing on the one question the file asks every time — repeated, never sounded, or said too late — and the answer is entered with the name of the officer who gave it. No shared watch, sound, soil or border reading exists for any of them, because no proximity work is done inside the ring."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIβ-100_Unsaid_Blossoms_벚꽃의_무덤.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.019  clean   430 grams  M.A.W. Equipment\n 0.012  clean   167 grams  Operational Parameters\n 0.006  clean   509 grams  감각 묘사 (Flavor Text)\n 0.004  clean   504 grams  기록 (Registrum)\n 0.003  clean   326 grams  Expansion Behavior\n 0.002  clean   555 grams  Combat Record\n 0.000  clean   744 grams  이야기 보고 (Story Log)\n 0.000  clean   602 grams  Watch Record\n 0.000  clean   472 grams  이야기 (Narratio)\n 0.000  clean   354 grams  관찰 기록 (Observation Log)\n 0.000  clean   244 grams  Trivia\n 0.000  clean   232 grams  Appearance\n 0.000  clean   200 grams  Origin\n 0.000  clean   147 grams  최종 관찰 (Final Observation)\n 0.000  clean   140 grams  Behavior\n 0.000  clean   128 grams  증언 (Testimonium)\n 0.000  clean    40 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 25% against Lament pressure; 15% against other pressure types |\n  179   1  **Activation reporting order:** the day's fall count → the running store total → the heavy-air boundary against its markers → the \n  188   2  **Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that hums faintly when gripped.\n  209   6  **Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.\n  227   1  **Appearance:** a petal-tile of Lament Han-crystal, cool and faintly luminous, warm to the touch.\n  337   1  Three records are grouped with this one and the grouping is thematic, not observational; nothing has ever been brought to this gra\n  339   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  386   1  - The Last Channel is a containment condition of this holding and binds the operational net during every sealed-zone incident.\n  393   2  **Faction Involvement:** SED (D-territory survey) · the Net Controllers' Association, listed on an entity file because the Last Ch\nGENERIC 0.003  (19 shared shingles)  SE-C-IIβ-100_Unsaid_Blossoms_벚꽃의_무덤.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/100_Unsaid_Blossoms/SE-100-A__SIDE_CODEX_Unsaid_Blossoms.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/100_Unsaid_Blossoms/SE-100-B__MAW-W_The_Unsaid_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/100_Unsaid_Blossoms/SE-100-C__MAW-S_The_Unsaid_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/100_Unsaid_Blossoms/SE-100-D__MAW-G_The_Unsaid_Petal.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/100_Unsaid_Blossoms/SE-100-A__SIDE_CODEX_Unsaid_Blossoms.md": "422c64c8abe82b338de1f22d9f3e3e5ce18a5b5120f2046d73eb057e42ffb9c7",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/100_Unsaid_Blossoms/SE-100-B__MAW-W_The_Unsaid_Requiem.md": "7c424beb74c8f1b8de46f223399ee73fe3fdfbb9ee73ef052ac688a6b7d00ce8",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/100_Unsaid_Blossoms/SE-100-C__MAW-S_The_Unsaid_Shroud.md": "2bfcf18233c970fbb396e58a7e86187bd018bfc1c62674b18397b500d7c3db3c",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/100_Unsaid_Blossoms/SE-100-D__MAW-G_The_Unsaid_Petal.md": "cc502d82fc246c61a6d224cf2afe233bbb33f5a392ac1ac7948d1c45762eeb43",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 1,
+        "weapon": 1,
+        "se": 0
+      },
+      "link": "[[SE-C-IIβ-100_Unsaid_Blossoms_벚꽃의_무덤](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-100_Unsaid_Blossoms_%EB%B2%9A%EA%BD%83%EC%9D%98_%EB%AC%B4%EB%8D%A4.md \"SE-C-IIβ-100_Unsaid_Blossoms_벚꽃의_무덤.md\")]",
+      "table_link": "[Unsaid Blossoms](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-100_Unsaid_Blossoms_%EB%B2%9A%EA%BD%83%EC%9D%98_%EB%AC%B4%EB%8D%A4.md \"SE-C-IIβ-100_Unsaid_Blossoms_벚꽃의_무덤.md\")",
+      "reading": {
+        "before_lines": 449,
+        "before_bytes": 48131,
+        "final_lines": 449,
+        "final_bytes": 48367
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 60,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": ""
+      }
     }
   ],
   "opened_at": "2026-10-27",
-  "completed": 4
+  "completed": 5
 }

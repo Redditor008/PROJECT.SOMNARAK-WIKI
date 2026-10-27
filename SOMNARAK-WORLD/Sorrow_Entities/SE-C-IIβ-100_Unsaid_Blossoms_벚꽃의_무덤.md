@@ -88,7 +88,7 @@
 
 1. **Tension:** The marker is checked (a single marked grave under a living cherry whose blossoms are pale crystal, salt-cold, falling in still air and never rotting; a chalked marker ring for the heavy-air boundary; a locked store. If blossoms are being opened, read, or carried off the site, the holding is being mishandled and the count is stopped) and Unsaid Blossoms is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** There is no clash and the standing order's first line forbids treating the site as though there could be: this is a burial place before it is a containment. What the party does is count the day's fall, blossom by blossom, into the store without reading a single one, and hold the count against the quarter's traffic return from the operational net.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **The day's fall is counted whole, entered unrounded, and stored unread, with the quarter's refused-message figure attached**.
+3. **Resolution:** There is no containment, retreat or suppression outcome to achieve at the grave; the cycle closes on the documented condition alone: **The day's fall is counted whole, entered unrounded, and stored unread, with the quarter's refused-message figure attached**.
 
 ### Consequences
 
@@ -300,7 +300,7 @@ So there is a second line now, separately staffed, and it does not refuse. Here 
 I have no answer for the twenty-two, or for the Warden, and I am not going to construct one. I have a tree in the Gardens that dropped three hundred and eighty blossoms the morning after the Fourthmonth seal and nine that night, and a store that nobody will ever read, and a count that has been falling since the second line opened. That is the whole of my case and it is thinner than theirs.
 
 **Entry 6 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child to the Han. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+The archive holds no tale for this grave and has stopped accepting them. What it holds is the commissioning folder — the notice placed, the order of service, the arrangements made, all correct and complete — and beside it a private count book begun by a Warden nobody had asked, now in its fifty-second year. Between the two is the whole record: everything that was required of the household, done; and a daily number for what was not. The store the numbers describe has never been opened for reading, and this note is entered in place of the older borrowed telling, which reversed the burial and belonged to no grave in particular.
 
 ## 최종 관찰 (Final Observation)
 
@@ -327,7 +327,7 @@ The air inside the ring is heavy enough that you find yourself not speaking, and
 
 ### Interaction Pattern
 
-The grave keeps three names on its books beside the blossoms — The Whispering Walls, The Silent Bell and The Weeping Statue — and what runs between them is neither friendship nor quarrel, only a question the file asks again each time. Any watch that stands two of them together must say plainly what altered: how the place sounded, whether anything moved, the chill or warmth in the soil, the memory pressure on the worker, the figure on the gauge, and whether the border still answered — with a distance, a length of time and the moment it began.
+The grave keeps three names on its books beside the blossoms — The Whispering Walls, The Silent Bell and The Weeping Statue — and none of the three is ever brought here: it is a grave. Each paper relationship is settled in writing on the one question the file asks every time — repeated, never sounded, or said too late — and the answer is entered with the name of the officer who gave it. No shared watch, sound, soil or border reading exists for any of them, because no proximity work is done inside the ring.
 
 **Interaction method:** No proximity work, on the standing order's first line: it is a grave. Each paper relationship is settled in writing on one question — repeated, never sounded, or said too late — and the answer is entered with the name of the officer who gave it.
 

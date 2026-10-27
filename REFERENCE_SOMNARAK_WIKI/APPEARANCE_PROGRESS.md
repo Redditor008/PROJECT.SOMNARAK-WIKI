@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B192 U4 The Cracked Hourglass `C-IIIβ-036` HELD, credit-barred, +0.** 4 repairs (1s/3c), 8,000→8,091w. Types 281/301 (93.36%), Weapon 279/287 (97.21%), SE 18/301 (5.98%); held 220 / pending 61. [Evidence](SE_APPEARANCE_REVIEWS/B192_04_THE_CRACKED_HOURGLASS.md).
+- **Latest: B192 U5 Unsaid Blossoms `C-IIβ-100` HELD, fresh +1/+1.** 3 repairs (1s/2c), 8,005→8,052w. Types 282/301 (93.69%), Weapon 280/287 (97.56%), SE 18/301 (5.98%); held 221 / pending 60. [Evidence](SE_APPEARANCE_REVIEWS/B192_05_UNSAID_BLOSSOMS.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 
