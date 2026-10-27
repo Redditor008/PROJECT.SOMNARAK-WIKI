@@ -8,11 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 192 — OPEN, 5 / 5 (2026-10-27)
+## Batch 192 — CLOSED, 5 / 5 (2026-10-27)
 
-Fresh ranking of 65 pending (wc -w ascending). Queue: `C-Iα-175`, `C-IIIγ-021`, `O-IIβ-796`, `C-IIIβ-036`, `C-IIβ-100` (Units 1–4 = reviews 7–10 of this prompt; batch stays OPEN 4/5).
+Fresh ranking of 65 pending (wc -w ascending). Queue: `C-Iα-175`, `C-IIIγ-021`, `O-IIβ-796`, `C-IIIβ-036`, `C-IIβ-100` (Units 1–4 = reviews 7–10 of the previous prompt; Unit 5 + closure = review 1 of the current prompt).
 
-Unit 5 — **Unsaid Blossoms `C-IIβ-100`: HELD; fresh +1 Types / +1 Weapon.** 3 repairs (1s/2c; 8,005→8,052 words): generic Resolution, co-presence checklist and reversed-burial origin tale replaced from the file's own record; first set review. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_05_UNSAID_BLOSSOMS.md). Counters: Types 282/301, Weapon 280/287, SE 18/301.
+Unit 5 — **Unsaid Blossoms `C-IIβ-100`: HELD; fresh +1 Types / +1 Weapon.** 3 repairs (1s/2c; 8,005→8,052 words): generic Resolution, co-presence checklist and reversed-burial origin tale replaced from the file's own record; first set review. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_05_UNSAID_BLOSSOMS.md). Counters: Types 282/301, Weapon 280/287, SE 18/301. Batch closed: all five HELD, No change 0, 19 repairs (5s/14c), two fresh credits; battery PASS. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_CLOSE.md).
 
 Unit 4 — **The Cracked Hourglass `C-IIIβ-036`: HELD; credit-barred, +0.** 4 repairs (1s/3c; 8,000→8,091 words): countdown/impact template removed from a never-emptying glass. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_04_THE_CRACKED_HOURGLASS.md).
 

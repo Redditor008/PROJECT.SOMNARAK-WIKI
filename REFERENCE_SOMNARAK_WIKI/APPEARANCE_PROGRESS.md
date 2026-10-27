@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B192 U5 Unsaid Blossoms `C-IIβ-100` HELD, fresh +1/+1.** 3 repairs (1s/2c), 8,005→8,052w. Types 282/301 (93.69%), Weapon 280/287 (97.56%), SE 18/301 (5.98%); held 221 / pending 60. [Evidence](SE_APPEARANCE_REVIEWS/B192_05_UNSAID_BLOSSOMS.md).
+- **Latest: B192 CLOSED 5/5.** All five HELD, No change 0, 19 repairs (5s/14c), 39,784→40,336w; fresh +1/+1 Spire & Unsaid Blossoms. Types 282/301 (93.69%), Weapon 280/287 (97.56%), SE 18/301 (5.98%); held 221 / pending 60. [Closure](SE_APPEARANCE_REVIEWS/B192_CLOSE.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 
