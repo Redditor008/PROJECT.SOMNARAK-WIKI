@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B193 U2 Cold Burn `C-IVδ-505` HELD, credit-barred, +0.** 9 repairs (1s/8c), 8,020→8,196w. Types 283/301 (94.02%), Weapon 281/287 (97.91%), SE 18/301 (5.98%); held 223 / pending 58. [Evidence](SE_APPEARANCE_REVIEWS/B193_02_COLD_BURN.md).
+- **Latest: B193 U3 Portcullis `O-Iα-794` HELD, fresh +1/+1.** 7 repairs (2s/5c), 8,067→8,187w. Types 284/301 (94.35%), Weapon 282/287 (98.26%), SE 18/301 (5.98%); held 224 / pending 57. [Evidence](SE_APPEARANCE_REVIEWS/B193_03_PORTCULLIS.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

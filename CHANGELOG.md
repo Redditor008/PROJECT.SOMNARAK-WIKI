@@ -8,9 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 193 — OPEN, 2 / 5 (2026-10-27)
+## Batch 193 — OPEN, 3 / 5 (2026-10-27)
 
 Fresh ranking of 60 pending (wc -w ascending). Queue: `C-IVδ-252`, `C-IVδ-505`, `O-Iα-794`, `C-IIα-062`, `C-IVγ-073` (reviews 2–6 of this prompt).
+
+Unit 3 — **Portcullis `O-Iα-794`: HELD; fresh +1 Types / +1 Weapon.** 7 repairs (2s/5c; 8,067→8,187 words): fresh-collapse combat template removed from a sixty-year-unmoved frame; first set review. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_03_PORTCULLIS.md). Counters: Types 284/301, Weapon 282/287, SE 18/301.
 
 Unit 2 — **Cold Burn `C-IVδ-505`: HELD; credit-barred, +0.** 9 repairs (1s/8c; 8,020→8,196 words): frozen-shadow combat template and withdrawn symbolic-resolution scoring replaced by the lattice/revocation record. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_02_COLD_BURN.md).
 

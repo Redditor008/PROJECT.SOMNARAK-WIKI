@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-Iα-794": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_03_PORTCULLIS.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -7175,8 +7187,29 @@
     {
       "designation": "O-Iα-794",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-794_Portcullis_무너진_문.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Seven source-supported repairs (2 short / 5 careful): a door whose frame has not moved in sixty years of survey stops showering splinters, collapsing on workers and felling every threshold in the building; the stock conduit consequence, a suppression-step observation row and two stitched flavor paragraphs are replaced by the file's actual instruments — a verbatim transcript, a named relief, and a memory that holds eleven, nineteen, twenty-eight seconds while nothing physical alters. First independent full-set source review of SE-794: fresh +1 Types / +1 Weapon; whole design HELD, SE +0.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_03_PORTCULLIS.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/794_Portcullis/SE-794-A__SIDE_CODEX_Portcullis.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/794_Portcullis/SE-794-B__MAW-W_The_Collapsed_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/794_Portcullis/SE-794-C__MAW-S_The_Collapsed_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/794_Portcullis/SE-794-D__MAW-G_The_Collapsed_Key.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-Iα-973",
@@ -9048,6 +9081,14 @@
       "batch": 193,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_01_SORROW_GATE.md",
       "history_proof": "Fresh exact SE-252 full-set review. No prior evidence mentions C-IVδ-252; no in-file cross-source/full-set review block or per-piece holds; Side A has no profile-hold/disposition paragraph; equipment_reviews has no 252 entry; git path history only the B179 import (87f1a01). Side A (112 lines) and items B/C/D in Registry_249_to_260 read whole including Appearance sections; Registry rows 546-549 confirm identity (Weapon Variable, Stigma generic Accessory/5%); six-wearer vs sole-charm and Gate-ground vs sealed-residue provenance forks first recorded here and held unmerged. New +1 Types/+1 Weapon; SE +0 (whole design HELD).",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "O-Iα-794",
+      "batch": 193,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_03_PORTCULLIS.md",
+      "history_proof": "Fresh exact SE-794 full-set review. No prior evidence mentions O-Iα-794; no in-file cross-source/full-set review block or per-piece holds; Side A has no profile-hold/disposition paragraph; equipment_reviews has no 794 entry; git path history only the B179 import (87f1a01). Side A (66 lines) and items B/C/D in Registry_762_to_801/794_Portcullis read whole including Appearance sections; Registry rows 891-894 confirm identity (Weapon Variable, Stigma generic Accessory/5%); Ruined Jamb-Knife vs Collapsed Requiem name fork first recorded here and held unmerged. New +1 Types/+1 Weapon; SE +0 (whole design HELD).",
       "all_types_credit": true,
       "weapon_credit": true
     }

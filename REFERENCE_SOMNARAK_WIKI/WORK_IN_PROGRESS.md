@@ -1,8 +1,10 @@
 # Work In Progress
 
-## Batch 193 — OPEN, 2 / 5 (2026-10-27)
+## Batch 193 — OPEN, 3 / 5 (2026-10-27)
 
 Fresh ranking of 60 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IVδ-252`, `C-IVδ-505`, `O-Iα-794`, `C-IIα-062`, `C-IVγ-073`. Units 1–5 are reviews 2–6 of this prompt.
+
+**Unit 3 — Portcullis `O-Iα-794`: HELD, fresh +1/+1.** Seven repairs (2 short / 5 careful; 8,067→8,187 words): the unmoved frame stops collapsing on people; the hazard returns to a spoken place-name. First independent set review (SE-794 whole; Jamb-Knife/Requiem name fork held): +1 Types / +1 Weapon. [Evidence](SE_APPEARANCE_REVIEWS/B193_03_PORTCULLIS.md). Counters: Types 284/301, Weapon 282/287, SE 18/301.
 
 **Unit 2 — Cold Burn `C-IVδ-505`: HELD, +0.** Nine repairs (1 short / 8 careful; 8,020→8,196 words): the caretaker stops hunting, pinning and spiking, and symbolic completion stops being scored a success nine years after withdrawal. Credit barred by the in-file Side-A set-route disposition. [Evidence](SE_APPEARANCE_REVIEWS/B193_02_COLD_BURN.md). Counters unchanged: Types 283/301, Weapon 281/287, SE 18/301.
 
