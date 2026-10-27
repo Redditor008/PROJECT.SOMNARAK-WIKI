@@ -1,8 +1,10 @@
 # Work In Progress
 
-## Batch 193 — OPEN, 3 / 5 (2026-10-27)
+## Batch 193 — OPEN, 4 / 5 (2026-10-27)
 
 Fresh ranking of 60 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IVδ-252`, `C-IVδ-505`, `O-Iα-794`, `C-IIα-062`, `C-IVγ-073`. Units 1–5 are reviews 2–6 of this prompt.
+
+**Unit 4 — Forgotten Market Stall `C-IIα-062`: HELD, fresh +1/+1.** Nine repairs (4 short / 5 careful; 8,087→8,387 words): the stall stops attacking; its failure returns to being a purchase, and three blank appearance cells are filled from its own protocol. First independent set review of exact SE-1006 (SE-062 is The Inheritor): +1 Types / +1 Weapon. [Evidence](SE_APPEARANCE_REVIEWS/B193_04_FORGOTTEN_MARKET_STALL.md). Counters: Types 285/301, Weapon 283/287, SE 18/301.
 
 **Unit 3 — Portcullis `O-Iα-794`: HELD, fresh +1/+1.** Seven repairs (2 short / 5 careful; 8,067→8,187 words): the unmoved frame stops collapsing on people; the hazard returns to a spoken place-name. First independent set review (SE-794 whole; Jamb-Knife/Requiem name fork held): +1 Types / +1 Weapon. [Evidence](SE_APPEARANCE_REVIEWS/B193_03_PORTCULLIS.md). Counters: Types 284/301, Weapon 282/287, SE 18/301.
 

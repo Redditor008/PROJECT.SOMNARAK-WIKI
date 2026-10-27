@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B193 U3 Portcullis `O-Iα-794` HELD, fresh +1/+1.** 7 repairs (2s/5c), 8,067→8,187w. Types 284/301 (94.35%), Weapon 282/287 (98.26%), SE 18/301 (5.98%); held 224 / pending 57. [Evidence](SE_APPEARANCE_REVIEWS/B193_03_PORTCULLIS.md).
+- **Latest: B193 U4 Forgotten Market Stall `C-IIα-062` HELD, fresh +1/+1.** 9 repairs (4s/5c), 8,087→8,387w. Types 285/301 (94.68%), Weapon 283/287 (98.61%), SE 18/301 (5.98%); held 225 / pending 56. [Evidence](SE_APPEARANCE_REVIEWS/B193_04_FORGOTTEN_MARKET_STALL.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

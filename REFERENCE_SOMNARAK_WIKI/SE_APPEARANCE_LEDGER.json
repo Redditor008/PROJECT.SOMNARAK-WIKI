@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIα-062": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_04_FORGOTTEN_MARKET_STALL.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -1128,8 +1140,29 @@
     {
       "designation": "C-IIα-062",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIα-062_Forgotten_Market_Stall_잊혀진_가게.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Nine source-supported repairs (4 short / 5 careful): a stall that has never attacked anybody stops bursting dust, fire-selling its stock through workers and spreading abandonment — its documented escalation is commercial (better goods, more specific labels, one item addressed to the worker) and its only failure is a purchase; three unfilled Detailed Appearance template cells are completed from the file's own protocol; the generic 'representative wound' origin annotation and a flavor paragraph selling clear-priced impossible goods are replaced by the tenancy-record and agreed-price record. First independent full-set source review of exact set SE-1006: fresh +1 Types / +1 Weapon; whole design HELD, SE +0.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_04_FORGOTTEN_MARKET_STALL.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1006_Night_Peddler/SE-1006-A__SIDE_CODEX_Night_Peddler.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1006_Night_Peddler/SE-1006-B__MAW-W_The_Merchant_s_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1006_Night_Peddler/SE-1006-C__MAW-S_The_Merchant_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1006_Night_Peddler/SE-1006-D__MAW-G_The_Merchant_s_Purse.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIα-081",
@@ -9089,6 +9122,14 @@
       "batch": 193,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_03_PORTCULLIS.md",
       "history_proof": "Fresh exact SE-794 full-set review. No prior evidence mentions O-Iα-794; no in-file cross-source/full-set review block or per-piece holds; Side A has no profile-hold/disposition paragraph; equipment_reviews has no 794 entry; git path history only the B179 import (87f1a01). Side A (66 lines) and items B/C/D in Registry_762_to_801/794_Portcullis read whole including Appearance sections; Registry rows 891-894 confirm identity (Weapon Variable, Stigma generic Accessory/5%); Ruined Jamb-Knife vs Collapsed Requiem name fork first recorded here and held unmerged. New +1 Types/+1 Weapon; SE +0 (whole design HELD).",
+      "all_types_credit": true,
+      "weapon_credit": true
+    },
+    {
+      "designation": "C-IIα-062",
+      "batch": 193,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_04_FORGOTTEN_MARKET_STALL.md",
+      "history_proof": "Fresh exact SE-1006 full-set review (SE-062 is The Inheritor and was excluded). No prior evidence mentions C-IIα-062; no in-file cross-source/full-set review block or per-piece holds; Side A has no profile-hold/disposition paragraph; equipment_reviews has no 062 entry; git path history only the B179 import (87f1a01). Side A (66 lines) and items B/C/D in Registry_1001_to_1043/1006_Night_Peddler read whole (item family has no Appearance sections); Registry rows 186-189 confirm identity (Weapon Variable, Stigma generic Accessory/5%); Forgotten Market Stall vs Night Peddler name fork first recorded here and held unmerged. New +1 Types/+1 Weapon; SE +0 (whole design HELD).",
       "all_types_credit": true,
       "weapon_credit": true
     }
