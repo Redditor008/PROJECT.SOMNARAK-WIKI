@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 187 — OPEN, 0 / 5 (2026-10-27)
+## Batch 187 — OPEN, 1 / 5 (2026-10-27)
+
+**Unit 1 — Torpor `N-IVδ-157`: HELD.** Two supported repairs (1 short / 1 careful; 7,537→7,672 words): combat rows 1–3 lose the vast dormant sleeper — the hush now converts the crew's own sounds, the pressure gains a direction, and the ground settles rather than strikes; one Observation Log line stops the place watching and gives the microphone fact instead. The 2026-10-11 in-file full-set review already counted set 157: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B187_01_TORPOR.md).
 
 Fresh C-locale ranking of the 90 pending froze: Torpor, Hollow Architect, Broken Door, Sorrow Tide, Miscast. [Opening record](SE_APPEARANCE_REVIEWS/B187_OPEN.json). Reviews 2–6 of this prompt's ten.
 

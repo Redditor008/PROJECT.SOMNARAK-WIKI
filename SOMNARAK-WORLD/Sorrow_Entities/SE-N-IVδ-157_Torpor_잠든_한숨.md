@@ -78,9 +78,9 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Slow Exhale* [**Debuff**] } | "A sigh — barely audible, barely a breath — escapes from something vast and dormant." | [The Sigh's sleeping exhalation carries enormous weight; the target is pressed by it.] | *Target suffers -10 Resolve; the sleeping breath is heavy.* **[10 Weight DMG [Weight]]** | When the target feels the Sigh. |
-| { *The Stirring* [**Debuff**] } | "The sleeper shifts — the sigh deepens — and the exhaled air thickens into something you can lean against." | [The Sigh's exhalation becomes physical; the target is pushed by dormant breath.] | *Target loses 10 Resolve; the sleeping thing is stirring.* **[10 Weight DMG [Weight]]** | When the target remains in the path. |
-| { *The Sudden Breath* [**Attack**] } | "The sleeper exhales sharply — a gust of concentrated, dormant weight." | [A sudden exhalation-strike.] | *Inflicts Weight pressure and one wound of heavy breath.* **[14-22 Weight DMG [Weight]]** | When the Sigh is disturbed. |
+| { *The Slow Exhale* [**Debuff**] } | "Every sound that crosses the edge arrives as somebody's sleeping breath — yours, a half-beat late." | [There is no sleeper to breathe out. The hush converts what the crew produces, and the weight they feel is the downward press of the ground's store against their own hours awake.] | *-10 Resolve in anyone who has been on shift longest; the site pays back deferred rest in the order it was deferred.* **[10 Weight DMG [Weight]]** | When a crew enters carrying a rotation's worth of unslept hours. |
+| { *The Stirring* [**Debuff**] } | "Nothing shifts. The pressure simply stops feeling pleasant and starts having a direction." | [The accumulation finding its level. Microphones would tell you nothing; the survey line and the two edge readings are the instruments here.] | *-10 Resolve; the wish to leave thins out and the wish to sit down arrives dressed as good sense.* **[10 Weight DMG [Weight]]** | When a session runs with rest permitted but nobody ordered to take it. |
+| { *The Sudden Breath* [**Attack**] } | "The site does not strike. It settles — and what settles is eleven years at once." | [No exhalation, no wound. The ground stops bearing weight predictably, the hush widens past the marked edge, and retrieval happens on the schedule because requests are the first thing the place stops people making.] | *Weight pressure lands as the inability to hand the watch over to the person who has come to relieve you.* **[14-22 Weight DMG [Weight]]** | When a shift is pushed through past its relief rather than broken for ordered rest. |
 | { *The Full Awakening* [**Attack**] } | "Something under the ground takes a breath it has been holding for eleven years, and the whole border leans on you at once." | [The mass of every deferred rest in the sector arrives in a single exhalation.] | *A heavy Black surge; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Sigh is forced awake, or a resting worker is woken early. |
 | { *The Waking Giant* [**Ultimate**] } | "The quiet does not break — it deepens past what an awake person can stand under, and it applies to everything inside the edge at once." | [The hush widens and presses; the acoustic edge moves outward past the crew.] | *All in range suffer Weight pressure for three turns of awakening breath.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% with nobody asleep inside the edge. |
 
@@ -260,7 +260,7 @@ Every piece in this set carries what the site carries — a body's debt for rest
 **R.D. Comprehension Level:** 3 — Advanced
 
 - It is most dangerous when personnel refuse to rest.
-- The place watches through the silence of sleeping camps.
+- Nothing here watches anyone; the site cannot be monitored acoustically at all, because microphones return a slow respiratory rhythm whatever is produced in front of them.
 - It becomes active during border emergencies.
 
 **Personnel Note:** *"It was watching. I felt loss. The Sigh had made a place for rest, but everyone inside believed rest was another form of failure."* — Researcher, R.D.

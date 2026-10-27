@@ -1,49 +1,161 @@
 {
- "schema_version": 1,
- "batch": 187,
- "status": "OPEN",
- "completed_units": 0,
- "required_units": 5,
- "units": [
-  {
-   "designation": "N-IVδ-157",
-   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-157_Torpor_잠든_한숨.md",
-   "words": 7537,
-   "sha256": "a05ddcb86904f5498fcd29e2a3edf24c7512927ed408d333b9cf298059f00640",
-   "unit": 1,
-   "name": "Torpor"
-  },
-  {
-   "designation": "C-IVγ-255",
-   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-255_Hollow_Architect_빈_건축가.md",
-   "words": 7538,
-   "sha256": "474344b74ee529c28def44dc0ea86ce007809a67697b42916d009d65fc784cc9",
-   "unit": 2,
-   "name": "Hollow Architect"
-  },
-  {
-   "designation": "O-IIβ-757",
-   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-757_Broken_Door_부서진_문.md",
-   "words": 7538,
-   "sha256": "b1daf1e2954ca037936a204575335fc8e0c6d42624d47b3aaa814c40e3091d9c",
-   "unit": 3,
-   "name": "Broken Door"
-  },
-  {
-   "designation": "C-Vγ-260",
-   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vγ-260_Sorrow_Tide_한의_조수.md",
-   "words": 7545,
-   "sha256": "9d7f0319839a755fcb81dc3f5549d34469a567254c6bac4d9417c00841cd5d7d",
-   "unit": 4,
-   "name": "Sorrow Tide"
-  },
-  {
-   "designation": "C-Iα-779",
-   "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-779_Miscast_찢어진_유물.md",
-   "words": 7560,
-   "sha256": "a089f400a8d8d6433e0279a05ac9166fb381be84f0cbae09f25fbe3ee27897d2",
-   "unit": 5,
-   "name": "Miscast"
-  }
- ]
+  "schema_version": 1,
+  "batch": 187,
+  "status": "OPEN",
+  "completed_units": 0,
+  "required_units": 5,
+  "units": [
+    {
+      "designation": "C-IVγ-255",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-255_Hollow_Architect_빈_건축가.md",
+      "words": 7538,
+      "sha256": "474344b74ee529c28def44dc0ea86ce007809a67697b42916d009d65fc784cc9",
+      "unit": 2,
+      "name": "Hollow Architect"
+    },
+    {
+      "designation": "O-IIβ-757",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-757_Broken_Door_부서진_문.md",
+      "words": 7538,
+      "sha256": "b1daf1e2954ca037936a204575335fc8e0c6d42624d47b3aaa814c40e3091d9c",
+      "unit": 3,
+      "name": "Broken Door"
+    },
+    {
+      "designation": "C-Vγ-260",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vγ-260_Sorrow_Tide_한의_조수.md",
+      "words": 7545,
+      "sha256": "9d7f0319839a755fcb81dc3f5549d34469a567254c6bac4d9417c00841cd5d7d",
+      "unit": 4,
+      "name": "Sorrow Tide"
+    },
+    {
+      "designation": "C-Iα-779",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-779_Miscast_찢어진_유물.md",
+      "words": 7560,
+      "sha256": "a089f400a8d8d6433e0279a05ac9166fb381be84f0cbae09f25fbe3ee27897d2",
+      "unit": 5,
+      "name": "Miscast"
+    },
+    {
+      "designation": "N-IVδ-157",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-157_Torpor_잠든_한숨.md",
+      "words": 7537,
+      "sha256": "a05ddcb86904f5498fcd29e2a3edf24c7512927ed408d333b9cf298059f00640",
+      "unit": 1,
+      "name": "Torpor",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_01_TORPOR.md",
+      "before_words": 7537,
+      "after_words": 7672,
+      "base": "60292923886ca789f29a89ae0d8cba944554abb9",
+      "final_sha256": "ab9c392ebde1e1b42183b70faecff6e54f703dff5b449af5004499821afe5ad7",
+      "summary": "Two supported repairs (1 short / 1 careful) clear the dormant-sleeper template out of this bodiless site. Combat rows 1–3 no longer give the place a vast sleeper that exhales, stirs and strikes: the hush converts the crew's own sounds, the pressure gains a direction, and the 'sudden breath' is the ground settling under eleven years of deferred rest, retrieved on schedule because requests are the first thing the place stops people making. One Observation Log line drops the place 'watching through silence' for the working fact that microphones return only a respiratory rhythm. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The rota's sleep column is filled on every line — and so is the watch column, by the same four people. Eleven years in which nobody was ever recorded asleep under a different name: the archive needed three readings to see it, and the ground needed none. A facility that must order its staff to sleep, by name, with a watcher named, is the register forcing care into the grammar of a task.",
+      "reasoning": "R-33 chain: Object/Place / Entity-IV / Critical-δ / Inner Sorrow → exhaustion that never found a safe place, accumulated across eleven years of a legal-on-paper rotation → a quiet border ground where every sound arrives as a sleeping breath, the air presses down and nothing is visible at any range → work is two-handed: Viderehan reads the duties that kept the watch awake; Ferrehan requires one worker asleep inside the acoustic edge under a named watcher → failure is accumulation, measured by two edge readings and the roster's hours awake; the site widens on shifts pushed through, never ruptures, and wakes nobody. Rows may not invent a vast sleeper, an exhalation-strike, or a watching place; identity forks stay HELD.",
+      "history": "The primary carries an in-file Full-set source review (2026-10-11) covering the Weapon/Suit/Stigma blocks, grade summary, Use Notes and Field Use Record against the full Side Codex, SE-157-B/C/D, the Master Registry, Master Codex Entries 523–525 and MAW-W-157. That completed review puts the full-SE disposition and the exact pair in the baseline: Batch 187 earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+      "holds": [
+        "Weapon identity fork stays open: the current Culverin title/Appearance is supported in the primary, but the linked item file (SE-157-B, filename MAW-W_The_Sleeping_Maul) and Master Entry 523 retain *The Sleeping Maul* with Resting/Active maul forms; no transition is documented, the archetype's Room band differs from Range 3 (Medium), and the Registry leaves reach unset (Variable / - / -). No lineage was invented.",
+        "Stigma placement fork: the primary and item file give Head / 4% / +3, while the Registry row 417 says generic Accessory / 5%; the Master subtype settles neither placement nor chance. Retained as a hold, as the 2026-10-11 review already recorded.",
+        "The two border interaction filings (The Wandering Sigh; The Sleeping Weight; The Guardian of the Gate) rest on shared ground, not measured co-presence — one null overlap on file. The file states this plainly and it stands."
+      ],
+      "split": [
+        1,
+        1
+      ],
+      "repairs": [
+        {
+          "id": "combat_first_three",
+          "kind": "careful",
+          "careful": true,
+          "old": "| { *The Slow Exhale* [**Debuff**] } | \"A sigh — barely audible, barely a breath — escapes from something vast and dormant.\" | [The Sigh's sleeping exhalation carries enormous weight; the target is pressed by it.] | *Target suffers -10 Resolve; the sleeping breath is heavy.* **[10 Weight DMG [Weight]]** | When the target feels the Sigh. |\n| { *The Stirring* [**Debuff**] } | \"The sleeper shifts — the sigh deepens — and the exhaled air thickens into something you can lean against.\" | [The Sigh's exhalation becomes physical; the target is pushed by dormant breath.] | *Target loses 10 Resolve; the sleeping thing is stirring.* **[10 Weight DMG [Weight]]** | When the target remains in the path. |\n| { *The Sudden Breath* [**Attack**] } | \"The sleeper exhales sharply — a gust of concentrated, dormant weight.\" | [A sudden exhalation-strike.] | *Inflicts Weight pressure and one wound of heavy breath.* **[14-22 Weight DMG [Weight]]** | When the Sigh is disturbed. |",
+          "new": "| { *The Slow Exhale* [**Debuff**] } | \"Every sound that crosses the edge arrives as somebody's sleeping breath — yours, a half-beat late.\" | [There is no sleeper to breathe out. The hush converts what the crew produces, and the weight they feel is the downward press of the ground's store against their own hours awake.] | *-10 Resolve in anyone who has been on shift longest; the site pays back deferred rest in the order it was deferred.* **[10 Weight DMG [Weight]]** | When a crew enters carrying a rotation's worth of unslept hours. |\n| { *The Stirring* [**Debuff**] } | \"Nothing shifts. The pressure simply stops feeling pleasant and starts having a direction.\" | [The accumulation finding its level. Microphones would tell you nothing; the survey line and the two edge readings are the instruments here.] | *-10 Resolve; the wish to leave thins out and the wish to sit down arrives dressed as good sense.* **[10 Weight DMG [Weight]]** | When a session runs with rest permitted but nobody ordered to take it. |\n| { *The Sudden Breath* [**Attack**] } | \"The site does not strike. It settles — and what settles is eleven years at once.\" | [No exhalation, no wound. The ground stops bearing weight predictably, the hush widens past the marked edge, and retrieval happens on the schedule because requests are the first thing the place stops people making.] | *Weight pressure lands as the inability to hand the watch over to the person who has come to relieve you.* **[14-22 Weight DMG [Weight]]** | When a shift is pushed through past its relief rather than broken for ordered rest. |"
+        },
+        {
+          "id": "observation_log_watching",
+          "kind": "short",
+          "careful": false,
+          "old": "- The place watches through the silence of sleeping camps.",
+          "new": "- Nothing here watches anyone; the site cannot be monitored acoustically at all, because microphones return a slow respiratory rhythm whatever is produced in front of them."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IVδ-157_Torpor_잠든_한숨.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.013  clean   762 grams  Combat Record\n 0.012  clean   260 grams  기록 (Registrum)\n 0.008  clean   782 grams  M.A.W. Equipment\n 0.007  clean   701 grams  감각 묘사 (Flavor Text)\n 0.000  clean   677 grams  Apex Record\n 0.000  clean   352 grams  이야기 (Narratio)\n 0.000  clean   350 grams  이야기 보고 (Story Log)\n 0.000  clean   294 grams  Appearance\n 0.000  clean   293 grams  관찰 기록 (Observation Log)\n 0.000  clean   238 grams  Expansion Behavior\n 0.000  clean   191 grams  Behavior\n 0.000  clean   172 grams  Trivia\n 0.000  clean   162 grams  Operational Parameters\n 0.000  clean   114 grams  Origin\n 0.000  clean   101 grams  최종 관찰 (Final Observation)\n 0.000  clean    53 grams  증언 (Testimonium)\n 0.000  clean    38 grams  SECC Classification\n 0.000  THIN     10 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   84   4  | { *The Full Awakening* [**Attack**] } | \"Something under the ground takes a breath it has been holding for eleven years, and the\n   85   6  | { *The Waking Giant* [**Ultimate**] } | \"The quiet does not break — it deepens past what an awake person can stand under, and it\n  199   1  **Target Coverage:** A line of up to three, and the weight settles along it in standing order — which on this post is a relief han\n  249   5  | **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline. The toll here is weight and age arriving slowly, so \n  331   3  The Zone E border records mostly come from the same long posting, and these three are the ones whose material can stand on the sam\n  333   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  386   3  **Review requirement:** Re-verify after any Sorrow Tide, after any border emergency, and after any rotation that ran past its sche\nGENERIC 0.004  (24 shared shingles)  SE-N-IVδ-157_Torpor_잠든_한숨.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/157_Torpor/SE-157-A__SIDE_CODEX_Torpor.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/157_Torpor/SE-157-B__MAW-W_The_Sleeping_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/157_Torpor/SE-157-C__MAW-S_The_Sleeping_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/157_Torpor/SE-157-D__MAW-G_The_Sleeping_Breath.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/157_Torpor/SE-157-A__SIDE_CODEX_Torpor.md": "c5668a1a74bbea8a2d3a9fe813c3f8632fab2ec4add07178d3949a3a42dc4c65",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/157_Torpor/SE-157-B__MAW-W_The_Sleeping_Maul.md": "b07a2139f51e1de93fcf1e9ec164c90e1ce6d9812c8de967fe4b9530720e36eb",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/157_Torpor/SE-157-C__MAW-S_The_Sleeping_Mantle.md": "fb9da9a2bfae0c444b89f426f700beb8e2d9d4e6c3edd2c27937b580922d529b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/157_Torpor/SE-157-D__MAW-G_The_Sleeping_Breath.md": "b5fb8b948a6ac0e9a83462e1ac12a064fa84ef380b804ea2d00e36deb9f3a4dd",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IVδ-157_Torpor_잠든_한숨](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-157_Torpor_%EC%9E%A0%EB%93%A0_%ED%95%9C%EC%88%A8.md \"SE-N-IVδ-157_Torpor_잠든_한숨.md\")]",
+      "table_link": "[Torpor](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-157_Torpor_%EC%9E%A0%EB%93%A0_%ED%95%9C%EC%88%A8.md \"SE-N-IVδ-157_Torpor_잠든_한숨.md\")",
+      "reading": {
+        "before_lines": 438,
+        "before_bytes": 45315,
+        "final_lines": 438,
+        "final_bytes": 46042
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 89,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": ""
+      }
+    }
+  ],
+  "completed": 5
 }
