@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVδ-763": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_02_MEMORIAL_FLAME_MID_CEREMONY.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2405,8 +2417,29 @@
     {
       "designation": "C-IVδ-763",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Two source-supported careful repairs, both in Consequences: the stock 'cognitive erosion, somatic distortion and environmental taint' harm list becomes this holding's documented exposure (a specific borrowed bereavement, first-person claiming as the failure sign, mandatory counsellor contact), and the template 'ceremony resumes without an end… escalates' failure becomes what the file actually records — a scene that has not advanced in 1,106 entries over nineteen years, priced in corridor heat and a register line. Credits +0/+0/+0: Side SE-763-A already carries a written Weapon-profile disposition across primary, item, Registry and archetype, so the fresh-credit negative cannot be proven.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_02_MEMORIAL_FLAME_MID_CEREMONY.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-A__SIDE_CODEX_Memorial_Flame_Mid_Ceremony.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-B__MAW-W_The_Absent_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-C__MAW-S_The_Absent_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-D__MAW-G_The_Absent_Flame.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-767",

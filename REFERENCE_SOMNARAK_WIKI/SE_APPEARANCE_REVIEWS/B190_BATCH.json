@@ -155,8 +155,129 @@
         "source_files_unchanged": 10,
         "digit_sequence_change": "One digit sequence added: '132' (years), the span already stated in the frozen primary's Story Entry 5, Director's Memo threat note and Apex Record. No other digit sequence changed."
       }
+    },
+    {
+      "designation": "C-IVδ-763",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md",
+      "words": 7783,
+      "sha256": "9fd709f4a16165d1789f9e4132ef480eb99ddefdd2fb461d0c1b6142b04b6cfa",
+      "unit": 2,
+      "name": "Memorial Flame Mid-Ceremony",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_02_MEMORIAL_FLAME_MID_CEREMONY.md",
+      "before_words": 7783,
+      "after_words": 7839,
+      "base": "ecd14ccc45ba525f3727e014b2ad9c75041c10f0",
+      "final_sha256": "544d631b379511b491e69c828410fca65016affbdcceef55ed00340102e0cc49",
+      "summary": "Two source-supported careful repairs, both in Consequences: the stock 'cognitive erosion, somatic distortion and environmental taint' harm list becomes this holding's documented exposure (a specific borrowed bereavement, first-person claiming as the failure sign, mandatory counsellor contact), and the template 'ceremony resumes without an end… escalates' failure becomes what the file actually records — a scene that has not advanced in 1,106 entries over nineteen years, priced in corridor heat and a register line. Credits +0/+0/+0: Side SE-763-A already carries a written Weapon-profile disposition across primary, item, Registry and archetype, so the fresh-credit negative cannot be proven.",
+      "commentary": "Memorial Flame Mid-Ceremony is a file about restraint — a facility that may abate a hazard but may not bury anybody — and its two repaired lines were the only unrestrained ones in it: a three-item catalogue of stock harms, and a failure mode in which the ceremony 'resumes' and 'escalates' in a holding whose central measured fact is that the scene has never moved in nineteen years. Both now say what the record says. On credit, this unit is the mirror of the last batch's fresh cases: the Side codex itself carries a careful Weapon-profile hold comparing the primary, the linked item, the Registry and MAW-W-763, so the set has plainly been dispositioned before and no fresh credit is claimed. The honest outcome is HELD at +0, with the file minutely more truthful than it was.",
+      "reasoning": "Set SE-763 identity resolved from Side A and item headers (Source SECC Designation C-IVδ-763 [LP]; MAW-W/S/G-763-01); all four set files read whole. Sentence triage: combat rows, phases, expansion and interaction records are vault-specific; the defects were Consequences bullets 2 and 4. Bullet 2's 'cognitive erosion, somatic distortion and environmental taint' is the stock harm catalogue, against the file's documented exposure (specific borrowed grief; first-person claiming as first failure sign across all three item files; mandatory counsellor contact). Bullet 4's resumable, escalating ceremony contradicts the Apex Record (1,106 entries, nineteen years, scene never anywhere else; expansion 'has always receded on its own'). R-18 split declared before the apply: 0 short / 2 careful. Replacements use only file-documented facts. Fresh credit refused: Side A's 'Weapon-profile hold' paragraph is a written cross-source disposition (duplicated Appearance text discounted as one description; 14–22/Long/Homing vs 10–15/Medium/Skewer profiles held without selection; MAW-W-763 Short band noted), which defeats the no-prior-review negative that fresh credit requires.",
+      "history": "No prior evidence file mentions C-IVδ-763, no equipment_reviews entry exists, and git path history shows only the B179 import (87f1a01) — but Side SE-763-A itself contains a 'Weapon-profile hold' disposition comparing the primary, SE-763-B, the master registry and archetype MAW-W-763, including the copy-evidence caution that the shared two-paragraph bodkin Appearance is one duplicated description rather than independent corroboration. A written disposition of exactly the kind this pass performs therefore already exists inside the set; under the prove-history-first rule the fresh-credit negative fails. Types +0, Weapon +0, SE +0; no equipment_reviews entry appended. Counters stay 277/301, 275/287, 18/301.",
+      "holds": [
+        "Weapon profile fork (Side A hold, retained verbatim in effect): primary Lament 14–22 / Normal 3 / Range 4 Long / Homing Wisp–Tracking Soul-Burn vs item+Side Lament 10–15 / Fast 3 / Range 3 Medium / Skewer; max 2 and 50 Echoes agree; MAW-W-763 supports the bodkin form and a Short band, not either reach; no profile selected.",
+        "Weapon naming: item title and Registry 'The Candelabrum Bodkin' vs Side set table and item body 'The Soul-Seeking Candelabrum' — documented naming variation, not two weapons.",
+        "Stigma slot fork: primary Torso/Neck / 4% / +3 vs item+Side Tail / 4% / +3 vs Registry generic Accessory / 5% — all three stand; nothing harmonised.",
+        "Suit appearance: primary deep-blue ash-greyed silk shroud vs item C's appearance paragraph, which describes function and binding rather than cloth — held as separate records.",
+        "The no-entry day (nineteen scheduled, eighteen kept) and the research office's correct-and-standing objection remain the file's own unresolved pair; the register's digit look-up line in Trivia is left as found — odd, but it asserts nothing false."
+      ],
+      "split": [
+        0,
+        2
+      ],
+      "repairs": [
+        {
+          "id": "R1-consequences-borrowed-grief",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- Stay near the cold and the vigil’s unfinished grief does what the ceremony never did: it moves in with its detail attached — a particular absence, habits, a voice — bringing cognitive erosion, somatic distortion and environmental taint on a worker who cannot say which of the feelings were ever theirs.",
+          "new": "- Stay near the cold and the vigil's unfinished grief does what the ceremony never did: it moves in with its detail attached — a particular absence, habits, a voice — and the first sign the file watches for is the worker describing somebody else's bereavement in the first person. The counsellor contact is mandatory inside the shift for exactly that reason: the emotion arrived from outside the person carrying it, and nobody consented to receive it."
+        },
+        {
+          "id": "R2-consequences-failed-resolution",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- If resolution fails, the ceremony resumes without an end: the entry sharpens into a manifestation, expands inside the holding’s own boundary, and escalates on the unfinished vigil’s terms — each failure adding another mourner to a rite that has not closed since the night it was cut short.",
+          "new": "- If resolution fails, nothing dramatic follows, and the file is blunt about it: the scene does not advance, has never advanced, and will be standing in the same place at the next entry. One thousand one hundred and six entries over nineteen years have not moved the rite a single step. What a failed entry costs is corridor heat against next year's warmth budget and one more line in the register — a name, a duration, and nothing further."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.029  clean   105 grams  Operational Parameters\n 0.016  clean   574 grams  Combat Record\n 0.013  clean   236 grams  Trivia\n 0.012  clean   607 grams  감각 묘사 (Flavor Text)\n 0.007  clean   276 grams  관찰 기록 (Observation Log)\n 0.006  clean   699 grams  M.A.W. Equipment\n 0.005  clean   206 grams  기록 (Registrum)\n 0.001  clean  1348 grams  Apex Record\n 0.000  clean   338 grams  이야기 (Narratio)\n 0.000  clean   249 grams  이야기 보고 (Story Log)\n 0.000  clean   235 grams  Expansion Behavior\n 0.000  clean   213 grams  Appearance\n 0.000  clean   155 grams  최종 관찰 (Final Observation)\n 0.000  clean   148 grams  Origin\n 0.000  clean   133 grams  Behavior\n 0.000  clean    53 grams  증언 (Testimonium)\n 0.000  clean    46 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   3  | **Han-Energy yield** | 20–28 per successful work cycle, taken off the vault's warmth differential rather than off anything the h\n   55   1  | **Resistance** | 45% against Lament pressure; 35% against other pressure types |\n   84   4  | { *Where It Burned* [**Attack**] } | \"The place the flame left behind opens — and the absence is a wound.\" | [The place the fire\n   85   4  | { *The Eternal Dark* [**Ultimate**] } | \"The last light goes out — for everyone — and will not come back.\" | [The last warm surf\n  203   2  **Bodkin return:** The individual Weapon entry requires the bearer, trigger, source response, cost and unresolved detail to surviv\n  235   1  **Effect:** +3 stat bonus when working the source entity and grants vision in sorrow fog.\n  253   1  | **Before use** | Wielder, piece, and a dated baseline against what Memorial Flame Mid-Ceremony takes: the wielder feels the enti\n  275   2  | **Initial exposure** | Confirm the holding from the inversion of heat and the shaped dark, check the station against the vault, \n  328   4  Three holdings are kept within reach of the vault — The Ember Child, The Kind Healer and Silence We Forgot We Made — and none of t\n  337   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  343   1  **Interaction procedure:** Baseline both parties alone first and keep the second outside the expansion marks for the whole session\n  392   1  **Review requirement:** After any expansion, Sorrow Tide, transformation attempt or unusual interaction: re-verify the warmth diff\n  449   1  The research office's objection is on the file and is read at every annual review. A continuous nineteen-year thermal and scene se\n  458   3  - For the register's look-up, digits as the file keeps them: gauge 993/993 · pressure 27–60 per hit · resistance 45 / 35 per cent \nGENERIC 0.005  (30 shared shingles)  SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-A__SIDE_CODEX_Memorial_Flame_Mid_Ceremony.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-B__MAW-W_The_Absent_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-C__MAW-S_The_Absent_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-D__MAW-G_The_Absent_Flame.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-A__SIDE_CODEX_Memorial_Flame_Mid_Ceremony.md": "af555204059395e55828388db61ece232c3dd0d98344c2624b833b89a7ed7cf8",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-B__MAW-W_The_Absent_Requiem.md": "98dd495cb17512c03fa0db6bfaed59f97ec90ab88b435c6f65e8f8c2f65fb2d4",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-C__MAW-S_The_Absent_Shroud.md": "bc1bb1a3c4251a0336495a3c4a346a39161267a14363fd720dc84cba173908b5",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-D__MAW-G_The_Absent_Flame.md": "d3814829e96fe573aa040e7cac75d50147aeee5cbf556bd52e3127b9ab05d263",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-763_Memorial_Flame_Mid-Ceremony_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B6%88%EA%BD%83.md \"SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md\")]",
+      "table_link": "[Memorial Flame Mid-Ceremony](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-763_Memorial_Flame_Mid-Ceremony_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B6%88%EA%BD%83.md \"SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md\")",
+      "reading": {
+        "before_lines": 472,
+        "before_bytes": 47106,
+        "final_lines": 472,
+        "final_bytes": 47396
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 73,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": ""
+      }
     }
   ],
   "opened_at": "2026-10-27",
-  "completed": 1
+  "completed": 2
 }

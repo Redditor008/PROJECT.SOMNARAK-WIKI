@@ -8,9 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 190 — OPEN, 1 / 5 (2026-10-27)
+## Batch 190 — OPEN, 2 / 5 (2026-10-27)
 
-**Unit 1 — Rift `C-IVδ-193`: HELD.** One careful repair (7718→7786 words): the wall no longer manifests to strike; the onset pressure is the harm. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_01_RIFT.md). Set SE-193 covered by the in-file Batch 113 review: +0/+0/+0. Completed 1/5; No change 0; held 207 / pending 74.
+**Unit 2 — Memorial Flame Mid-Ceremony `C-IVδ-763`: HELD.** Two careful repairs (7783→7839 words): documented exposure replaces the stock harm list; a failed entry is corridor heat and a register line, not an escalating rite. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_02_MEMORIAL_FLAME_MID_CEREMONY.md). Fresh credit refused on Side A's Weapon-profile hold: +0/+0/+0. Completed 2/5; No change 0; held 208 / pending 73.
 
 ## Batch 189 — CLOSED, 5 / 5 (2026-10-27)
 

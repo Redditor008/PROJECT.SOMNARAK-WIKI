@@ -1,8 +1,8 @@
 # Work In Progress
 
-## Batch 190 — OPEN, 1 / 5 (2026-10-27)
+## Batch 190 — OPEN, 2 / 5 (2026-10-27)
 
-**Unit 1 — Rift `C-IVδ-193`: HELD.** One careful repair (7,718→7,786 words): the combat table no longer has the vanished wall manifest and slam a target — an event the file's 132-year injury-free record excludes — and describes the documented onset pressure instead. The in-file Batch 113 cross-source review already covers set SE-193: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B190_01_RIFT.md). Queue: `C-IVδ-763`, `C-IVδ-249`, `N-IIIγ-160` run next in this prompt (reviews 8–10); `C-IIβ-054` waits, batch stays OPEN 4/5.
+**Unit 2 — Memorial Flame Mid-Ceremony `C-IVδ-763`: HELD.** Two careful repairs (7,783→7,839 words): the stock harm catalogue becomes the documented borrowed-bereavement exposure, and a failed entry is priced in corridor heat and a register line against a scene unmoved in 1,106 entries — not in a resuming, escalating ceremony. Fresh credit refused: Side SE-763-A already carries a written Weapon-profile disposition, so the no-prior-review negative fails: +0/+0/+0. [Evidence](SE_APPEARANCE_REVIEWS/B190_02_MEMORIAL_FLAME_MID_CEREMONY.md). Unit 1 Rift HELD. Queue: `C-IVδ-249`, `N-IIIγ-160` run next (reviews 9–10); `C-IIβ-054` waits.
 
 ## Batch 189 — CLOSED, 5 / 5 (2026-10-27)
 
