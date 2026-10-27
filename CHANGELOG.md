@@ -10,7 +10,7 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Batch 191 — OPEN, 0 / 5 (2026-10-27)
 
-Fresh ranking of 70 pending (wc -w ascending). Queue: Somnium `C-IVγ-175`, I Alone Crossed `C-IVδ-106`, Bulwark `N-Iα-459`, Anger Underfoot `C-Iα-175`, Debt-Collector's Lantern `N-IIβ-250` (reviews 2–6 of this prompt).
+Fresh ranking of 70 pending (wc -w ascending). Queue: Somnium `C-IVγ-175`, I Alone Crossed `C-IVδ-106`, Bulwark `N-Iα-459`, Debt-Collector's Lantern `N-IIβ-250`, Aegis `C-IVδ-200` (reviews 2–6 of this prompt).
 
 ## Batch 190 — CLOSED, 5 / 5 (2026-10-27)
 
