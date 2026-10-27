@@ -339,8 +339,164 @@
         "source_files_unchanged": 10,
         "digit_sequence_change": "Sole digit change: the deleted template's 10% per sealed-boundary pass-through increment disappears with the sentence it belonged to; the 35% breach opening is retained. No other figure, date, score or count was altered."
       }
+    },
+    {
+      "designation": "O-IIIγ-374",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-374_Sleeping_Tree_잠든_나무.md",
+      "words": 8140,
+      "sha256": "3ffb6b5de9a39b921ac34190313e0f81d8f8e186021e86684decc2193c68c7d4",
+      "unit": 3,
+      "name": "Sleeping Tree",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_03_SLEEPING_TREE.md",
+      "before_words": 8140,
+      "after_words": 8298,
+      "base": "56ecbdc0fadf002d8373d9825002b51e7aec63cb",
+      "final_sha256": "782b951bf5a375ee651c5bf3e86733db01b0f5a47b5b2100ebb5c163e500d104",
+      "summary": "Seven source-supported repairs (4 short / 3 careful): a Subject that has never moved stops being 'mobile — crawls, walks, slithers, or prowls'; the activation record recovers its Object-Weight manifestation and a real management cell; a duplicated empty log row becomes the file's own set-down procedure; and the breach stops erupting in scorching fury off a fever-cold body. HELD; no credit (in-file full-set source review dated 2026-10-12).",
+      "commentary": "The file's load-bearing sentence is its own distinction — damage done by growth rather than intent, insisted on in every report — and its breach table was the one place that distinction had been forgotten, where a cold sleeper suddenly scorched. That is corrected, along with header/codex drift; the in-file 2026-10-12 review's careful three-way weapon-name hold (Oak-Blade / Sleeping Fang / Sleeping Tree Fang) is left exactly as written.",
+      "reasoning": "Set SE-374 identity resolved from Side A (O-IIIγ-374 [N]) and items carrying SE-374 / MAW-W/S/G-374-01; Registry rows 643–646 (Registry_373_to_407 direct files). Sentence triage: the SECC Movement cell used the generic mobile-creature line against six unmoved years; the Detailed Activation Record misnamed the manifestation Subject-Grudge and left Management a stub; the Log and Method table duplicated its 3 Minutes row with an empty Method; the Breach table's Rage/scorching/fury cells contradicted the file's fever-cold body and its growth-not-intent doctrine; the Detailed Identification row ended in a spliced fragment. R-18 split declared before the apply: 4 short / 3 careful.",
+      "history": "No credit — the primary carries a dated 'Full-set source review (2026-10-12)' comparing every local M.A.W. block against Side SE-374-A, items SE-374-B/C/D, Registry rows 643–646, Master Codex Entries 598–600, Tale 200 and archetype MAW-W-374, and ordering acquisition, cost, naming and form differences held. That is the coverage event; equipment_reviews has no 374 entry and none was added. Side A (56 lines) and items B/C/D read whole (43/45/40 lines) including Appearance sections confirm that disposition; git path history shows only the B179 import. +0 all counters.",
+      "holds": [
+        "Weapon name/form as held by the in-file review: primary/Master-table The Slumbering Oak-Blade (petrified black-oak arming sword) vs item The Sleeping Fang (crimson Han-iron fang) vs Master Entry 598 The Sleeping Tree Fang; numeric core agrees (Grudge 5–9 / 2 / 2 / 4 / 25); archetype supports petrified-wood broadsword/Close with no crosswalk to Range 2 (Short); Side/item Single pattern unstated in the primary.",
+        "Acquisition route as held: primary contact-harvest from the sleeping source (touch = activation trigger; Armoury would not authorise it again) vs Side dream's-end echo without cutting, Weapon dream-residue formation, Bracelet bestowal — not crosswalked; no single physical-harvest mechanism inferred.",
+        "Cost levels preserved separately as held: primary's shared cold/appointment cost and still-growing set vs item-level bruising/old wounds, dulled reflexes, difficult-to-remember bearer.",
+        "Suit: figures align (0.4/1.0/1.2/1.8; 4/20); primary bark-grained iron harness gaining at the seam vs item crimson Han-iron with absent-caretaker root gaps; Master subtype Hauberks & Chain Mail resolves neither. Stigma Tail / 5% / +1 Resilience vs Registry generic Accessory / 5%.",
+        "The load-bearing dependency — a sleeping Subject holding up part of Zone A with no approved plan for the layer above if it stands — and the unreturned second caretaker remain open record, untouched."
+      ],
+      "split": [
+        4,
+        3
+      ],
+      "repairs": [
+        {
+          "id": "R1-movement",
+          "kind": "short classification grounding",
+          "careful": false,
+          "old": "| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |",
+          "new": "| **Movement** | None recorded. It has not shifted position in six years of survey; the file records that were it to wake it would walk on its roots, and that no return from that state has been recorded. |"
+        },
+        {
+          "id": "R2-identification",
+          "kind": "short appearance completion",
+          "careful": false,
+          "old": "| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |",
+          "new": "| **Identification** | Confirm designation O-IIIγ-374 `[N]`, Grudge element and Object-Weight manifestation, declare the Dormant or Waking state, and then record within it; if any detail contradicts, do not proceed. |"
+        },
+        {
+          "id": "R3-activation-manifestation",
+          "kind": "short factual correction",
+          "careful": false,
+          "old": "| **Manifestation** | Subject-Grudge|",
+          "new": "| **Manifestation** | Object-Weight |"
+        },
+        {
+          "id": "R4-activation-management",
+          "kind": "short management completion",
+          "careful": false,
+          "old": "| **Management** | Use the valid Work Types and the management procedure listed above. |",
+          "new": "| **Management** | Viderehan and Ferrehan only, from the marked approach, with nobody within reach of a root; clear the gallery above on a shortening creak interval alone, and take the dream account before the operator speaks to anybody else. |"
+        },
+        {
+          "id": "R5-duplicate-log-row",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 3 Minutes | It can be set down, yet never quite released; a trace of its sorrow lingers in whoever carried it. |  |",
+          "new": "| After it ends | The operator lays the wood down and walks off without looking back. What lingers is specific: an arrangement made with somebody and not kept, usually old, usually small, and generally still keepable — which is more than the holding itself can say. | The dream account is taken first, alone and unedited; then the girth and creak interval are re-taken, because a reading identical to the previous one is a reading to be taken again. |"
+        },
+        {
+          "id": "R6-breach-effect",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "| **Effect** | Rage erupts outward, scorching resilience from all nearby. |",
+          "new": "| **Effect** | No rage and nothing scorched: a fever-cold body that smells of char puts on growth instead of waking, and the chamber and the floor above take the difference. |"
+        },
+        {
+          "id": "R7-breach-secondary",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "| **Secondary Effect** | A resentful fury that burns through containment barriers. |",
+          "new": "| **Secondary Effect** | The station insists on the distinction in every report: the damage is done by growth rather than intent. It has never reached for a person, including the one who struck it. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IIIγ-374_Sleeping_Tree_잠든_나무.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.029  clean   883 grams  M.A.W. Equipment\n 0.002  clean   597 grams  Combat Record\n 0.000  clean   546 grams  Activation Behavior\n 0.000  clean   538 grams  감각 묘사 (Flavor Text)\n 0.000  clean   502 grams  Appearance\n 0.000  clean   426 grams  Breach Behavior\n 0.000  clean   348 grams  이야기 (Narratio)\n 0.000  clean   345 grams  기록 (Registrum)\n 0.000  clean   274 grams  Warden Record\n 0.000  clean   267 grams  관찰 기록 (Observation Log)\n 0.000  clean   257 grams  Operational Parameters\n 0.000  clean   197 grams  이야기 보고 (Story Log)\n 0.000  clean   189 grams  Behavior\n 0.000  clean   182 grams  Trivia\n 0.000  clean   155 grams  Origin\n 0.000  clean    79 grams  최종 관찰 (Final Observation)\n 0.000  clean    36 grams  증언 (Testimonium)\n 0.000  clean    36 grams  SECC Classification\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   84   1  | { *The Waking Forest* [**Ultimate**] } | \"Every rooted thing in Zone A puts on growth in the same hour, including the ones in ja\n  307  26  **Full-set source review (2026-10-12):** Reviewed the `— · β` grade overview, every local M.A.W. block, Use Notes, Field Use Recor\nGENERIC 0.005  (27 shared shingles)  SE-O-IIIγ-374_Sleeping_Tree_잠든_나무.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-374-A__SIDE_CODEX_Slept_Because_You_Never_Returned.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-374-B__MAW-W_The_Sleeping_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-374-C__MAW-S_The_Sleeping_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-374-D__MAW-G_The_Sleeping_Bracelet.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-374-A__SIDE_CODEX_Slept_Because_You_Never_Returned.md": "696e70da14b91e667f0d87378bec6629f1335f4d95efd18e70ef1e6e382ad772",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-374-B__MAW-W_The_Sleeping_Fang.md": "8fe01ceecbcffb548533777e2f4a13667d83c940f2036f392dff055032f3e655",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-374-C__MAW-S_The_Sleeping_Plate.md": "fadd5a46129777e53a13de4d9b1fdc5e41e3cf57b62a3ce5d0a1ffb67df6705b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-374-D__MAW-G_The_Sleeping_Bracelet.md": "ecb8b78f4ffdf75633a0f6f3c40b0ecbfcb01f6d42b2a110dd9ebbcdba8bd422",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IIIγ-374_Sleeping_Tree_잠든_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-374_Sleeping_Tree_%EC%9E%A0%EB%93%A0_%EB%82%98%EB%AC%B4.md \"SE-O-IIIγ-374_Sleeping_Tree_잠든_나무.md\")]",
+      "table_link": "[Sleeping Tree](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-374_Sleeping_Tree_%EC%9E%A0%EB%93%A0_%EB%82%98%EB%AC%B4.md \"SE-O-IIIγ-374_Sleeping_Tree_잠든_나무.md\")",
+      "reading": {
+        "before_lines": 479,
+        "before_bytes": 48848,
+        "final_lines": 479,
+        "final_bytes": 49728
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 52,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": "Sole digit changes are documented: the duplicated template row's '3 Minutes' label is replaced, and the designation number 374 is restated in the Detailed Appearance Identification row. No figure, date, score or count was altered."
+      }
     }
   ],
   "opened_at": "2026-10-27",
-  "completed": 2
+  "completed": 3
 }

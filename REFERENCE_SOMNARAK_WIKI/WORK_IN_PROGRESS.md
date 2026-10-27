@@ -1,8 +1,10 @@
 # Work In Progress
 
-## Batch 194 — OPEN, 2 / 5 (2026-10-27)
+## Batch 194 — OPEN, 3 / 5 (2026-10-27)
 
-Fresh ranking of 55 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833`. **Unit 2 — The Soot Fry `C-IIβ-947`: HELD, +0.** Three repairs (2 short / 1 careful; 8,139→8,185 words): a pass-through breach template removed from a water-bound fish. Credit barred by Side A's weapon-range hold. [Evidence](SE_APPEARANCE_REVIEWS/B194_02_THE_SOOT_FRY.md).
+Fresh ranking of 55 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833`. **Unit 3 — Sleeping Tree `O-IIIγ-374`: HELD, +0.** Seven repairs (4 short / 3 careful; 8,140→8,298 words): the unmoved sleeper stops prowling and scorching. Credit barred by the in-file 2026-10-12 full-set review. [Evidence](SE_APPEARANCE_REVIEWS/B194_03_SLEEPING_TREE.md).
+
+**Unit 2 — The Soot Fry `C-IIβ-947`: HELD, +0.** Three repairs (2 short / 1 careful; 8,139→8,185 words): a pass-through breach template removed from a water-bound fish. Credit barred by Side A's weapon-range hold. [Evidence](SE_APPEARANCE_REVIEWS/B194_02_THE_SOOT_FRY.md).
 
 **Unit 1 — Memory Lock `C-IIIγ-300`: HELD, +0.** Nine repairs (4 short / 5 careful; 8,113→8,262 words): the fused lock stops slamming, breaking and emptying its doorless vault. Credit barred by the primary's own set disposition. [Evidence](SE_APPEARANCE_REVIEWS/B194_01_MEMORY_LOCK.md). Units 2–4 follow in this prompt.
 

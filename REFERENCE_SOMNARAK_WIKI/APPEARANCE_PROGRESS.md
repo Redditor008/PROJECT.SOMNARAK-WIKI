@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B194 U2 The Soot Fry `C-IIβ-947` HELD, credit-barred, +0.** 3 repairs (2s/1c), 8,139→8,185w. Types 285/301 (94.68%), Weapon 283/287 (98.61%), SE 18/301 (5.98%); held 228 / pending 53. [Evidence](SE_APPEARANCE_REVIEWS/B194_02_THE_SOOT_FRY.md).
+- **Latest: B194 U3 Sleeping Tree `O-IIIγ-374` HELD, credit-barred, +0.** 7 repairs (4s/3c), 8,140→8,298w. Types 285/301 (94.68%), Weapon 283/287 (98.61%), SE 18/301 (5.98%); held 229 / pending 52. [Evidence](SE_APPEARANCE_REVIEWS/B194_03_SLEEPING_TREE.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

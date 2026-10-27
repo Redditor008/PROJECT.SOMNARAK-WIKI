@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Mixed — A vast dormant tree-beast coiled beneath the Alpha Tree, trunk a curled body, roots clenched around a broken promise — unmistakably a sleeping creature, not a plant. Fever-cold, it smells of char; were it to wake, it would walk. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | None recorded. It has not shifted position in six years of survey; the file records that were it to wake it would walk on its roots, and that no return from that state has been recorded. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -118,7 +118,7 @@
 | **Position / movement** | Fixed, coiled, and dormant beneath the Alpha Tree; record the curl of the trunk and the position of the clenched roots, not a bearing — it has no orientation while it sleeps and will have one only once. |
 | **Material / signature** | A vast curled body of trunk and root, fever-cold, smelling of char, with the roots clenched around something nobody has seen. Record the girth at the four stations and the creak interval; the creak is the only sound it makes and it comes at roughly four-minute spacing. |
 | **Distinctive markers** | It is lying down. Several tree-form holdings are kept in Zone A and the others are all trees; this one is unmistakably a creature asleep, and every observer identifies it as such within seconds and without being told. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Identification** | Confirm designation O-IIIγ-374 `[N]`, Grudge element and Object-Weight manifestation, declare the Dormant or Waking state, and then record within it; if any detail contradicts, do not proceed. |
 
 ### Appearance States
 
@@ -190,7 +190,7 @@ The table is correct and the measurement is the girth. It grows while dormant at
 | 1 Minute | It was born beyond the wall, where sorrow had no one left to witness it. | The effect lasts until the dream ends, for as long as the relic remains worn. |
 | 2 Minutes | Worn against the skin, it does what it was shaped to do: shows the dream of the life the travelers intended to build. The Grudge of it seeps into the bearer. | The worker may attempt to complete someone else's promise. |
 | 3 Minutes | It does not forgive — and it teaches the bearer not to, either. | Returning the relic before its removal condition is met leaves the residue unsettled in the operator. |
-| 3 Minutes | It can be set down, yet never quite released; a trace of its sorrow lingers in whoever carried it. |  |
+| After it ends | The operator lays the wood down and walks off without looking back. What lingers is specific: an arrangement made with somebody and not kept, usually old, usually small, and generally still keepable — which is more than the holding itself can say. | The dream account is taken first, alone and unedited; then the girth and creak interval are re-taken, because a reading identical to the previous one is a reading to be taken again. |
 
 ### Escalation Notes
 
@@ -204,11 +204,11 @@ Escalation is a change in the creak interval. It shortens before anything else h
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Touching the roots while repeating the promise. |
-| **Manifestation** | Subject-Grudge|
+| **Manifestation** | Object-Weight |
 | **Primary effect** | Shows the dream of the life the travelers intended to build. |
 | **Duration / rate** | Until the dream ends. |
 | **Risk** | The worker may attempt to complete someone else's promise. |
-| **Management** | Use the valid Work Types and the management procedure listed above. |
+| **Management** | Viderehan and Ferrehan only, from the marked approach, with nobody within reach of a root; clear the gallery above on a shortening creak interval alone, and take the dream account before the operator speaks to anybody else. |
 
 **Activation reporting order:** the contact or the gauge reading → who touched it and what they said → the first visible change in the body → the dream as reported → how long it lasted → the condition under which the operator stepped back. The dream account is taken before the operator has spoken to anybody else, because it comes back the same from every operator and the sameness is the finding. Viderehan and Ferrehan are the only Work Types from start to finish.
 ## Breach Behavior
@@ -220,8 +220,8 @@ Escalation is a change in the creak interval. It shortens before anything else h
 | **Breach Type** | Escape |
 | **State change** | Dormant Appearance → Waking Appearance. The transition is the event; everything below describes the second state only. |
 | **Movement** | Sleeping Tree breaks loose and charges, thrashing. It extends roots through the floor, entangling personnel. |
-| **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A resentful fury that burns through containment barriers. |
+| **Effect** | No rage and nothing scorched: a fever-cold body that smells of char puts on growth instead of waking, and the chamber and the floor above take the difference. |
+| **Secondary Effect** | The station insists on the distinction in every report: the damage is done by growth rather than intent. It has never reached for a person, including the one who struck it. |
 | **Retained non-breach mechanic** | The relic function persists. Contact with the roots still shows the dream of the life the travelers intended to build, so personnel entangled during the event are being shown it while they are held — and it remains deaf to sound. |
 | **First Target** | Nobody. It has never reached for a person, including the one who struck it; the damage in all three events was done by growth rather than by intent, which is the distinction the station insists on in every report. |
 | **Escalation** | +5 Resilience drain per cycle during a growth event, falling to nothing the moment it stops. It does not pursue, and it has never been free in any sense the word usually carries — it has not moved in six years of survey. |
