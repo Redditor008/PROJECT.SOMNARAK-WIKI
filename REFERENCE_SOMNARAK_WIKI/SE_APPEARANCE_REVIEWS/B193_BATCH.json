@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "batch": 193,
+  "status": "OPEN",
+  "completed_units": 0,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "C-IVδ-252",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-252_Sorrow_Gate_슬픔의_문.md",
+      "words": 8020,
+      "sha256": "bb0b597439f14c240577b95c7eaa201ae8dedf5b44d79e2ac0ed630f40379bc2"
+    },
+    {
+      "unit": 2,
+      "designation": "C-IVδ-505",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-505_Cold_Burn_얼어붙은_그림자.md",
+      "words": 8020,
+      "sha256": "93f2d75a013f5218b3428c4e2e438caec82acb30f7dcc2accfec1ec38a97f91b"
+    },
+    {
+      "unit": 3,
+      "designation": "O-Iα-794",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-794_Portcullis_무너진_문.md",
+      "words": 8067,
+      "sha256": "49b80d5589f6a87cc152615d3bd0ced4e6fac64686f8b129f635892e3ec3482c"
+    },
+    {
+      "unit": 4,
+      "designation": "C-IIα-062",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIα-062_Forgotten_Market_Stall_잊혀진_가게.md",
+      "words": 8087,
+      "sha256": "395ff53ec02ce76ad10fe89a47967b5e37ffe16605edf277246d26e94c461310"
+    },
+    {
+      "unit": 5,
+      "designation": "C-IVγ-073",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-073_The_Hollow_Knight_빈_기사.md",
+      "words": 8098,
+      "sha256": "e3029338f72348a86e551d6b6d736a7b4f10a3a29abf59722240e2678ec57b45"
+    }
+  ],
+  "units": [],
+  "opened_at": "2026-10-27",
+  "completed": 0
+}

@@ -1,5 +1,9 @@
 # Work In Progress
 
+## Batch 193 — OPEN, 0 / 5 (2026-10-27)
+
+Fresh ranking of 60 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IVδ-252`, `C-IVδ-505`, `O-Iα-794`, `C-IIα-062`, `C-IVγ-073`. Units 1–5 are reviews 2–6 of this prompt.
+
 ## Batch 192 — CLOSED, 5 / 5 (2026-10-27)
 
 Fresh ranking of 65 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-Iα-175`, `C-IIIγ-021`, `O-IIβ-796`, `C-IIIβ-036`, `C-IIβ-100`. Units 1–4 were reviews 7–10 of the previous prompt; Unit 5 and this closure are review 1 of the current prompt.

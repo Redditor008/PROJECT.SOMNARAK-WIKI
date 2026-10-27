@@ -8,6 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 193 — OPEN, 0 / 5 (2026-10-27)
+
+Fresh ranking of 60 pending (wc -w ascending). Queue: `C-IVδ-252`, `C-IVδ-505`, `O-Iα-794`, `C-IIα-062`, `C-IVγ-073` (reviews 2–6 of this prompt).
+
 ## Batch 192 — CLOSED, 5 / 5 (2026-10-27)
 
 Fresh ranking of 65 pending (wc -w ascending). Queue: `C-Iα-175`, `C-IIIγ-021`, `O-IIβ-796`, `C-IIIβ-036`, `C-IIβ-100` (Units 1–4 = reviews 7–10 of the previous prompt; Unit 5 + closure = review 1 of the current prompt).
