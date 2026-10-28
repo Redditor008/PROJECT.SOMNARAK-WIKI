@@ -8,8 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 198 — OPEN, 3 / 5 (2026-10-28)
-**Unit 3 — Unwitnessed `C-Iα-236`: HELD, +0.** Eleven repairs (2 short / 9 careful; 8,470→8,773 words): the unobservable hollow stops performing for an audience in five combat rows. Direct SE-236. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_03_UNWITNESSED.md).
+## Batch 198 — OPEN, 4 / 5 (2026-10-28)
+**Unit 4 — Bridge of the Unchosen `N-IIIγ-874`: HELD, +0.** Fourteen repairs (4 short / 10 careful; 8,498→8,920 words): the bridge that has never shed a stone stops detonating; its Counterfactual Rule replaces the activation banner. Direct SE-874. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_04_BRIDGE_OF_THE_UNCHOSEN.md).
 ## Batch 197 — CLOSED, 5 / 5 (2026-10-28)
 Five HELD units, No change 0, 70 repairs (13 short / 57 careful), 41,840→43,076 words, no fresh credit — every dossier carried a prior written disposition. Battery PASS: fresh validators 25/25, reconstruction 5/5, fingerprints 35/35, tests 54/54, audits PASS, zero source changes. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_CLOSE.md).
 ## Batch 196 — CLOSED, 5 / 5 (2026-10-28)

@@ -1,7 +1,7 @@
 # Work In Progress
 
-## Batch 198 — OPEN, 3 / 5 (2026-10-28)
-Unit 3 — **Unwitnessed `C-Iα-236`: HELD; credit-barred, +0.** 11 repairs (2s/9c; 8,470→8,773 words); direct SE-236. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_03_UNWITNESSED.md).
+## Batch 198 — OPEN, 4 / 5 (2026-10-28)
+Unit 4 — **Bridge of the Unchosen `N-IIIγ-874`: HELD; credit-barred, +0.** 14 repairs (4s/10c; 8,498→8,920 words); direct SE-874. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_04_BRIDGE_OF_THE_UNCHOSEN.md).
 ## Batch 197 — CLOSED, 5 / 5 (2026-10-28)
 All five HELD, No change 0, 70 repairs (13s/57c), no fresh credit (all barred by prior dispositions). Battery: 25/25 validators, 5/5 reconstruction, 35/35 fingerprints, audits PASS. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_CLOSE.md).
 ## Batch 196 — CLOSED, 5 / 5 (2026-10-28)

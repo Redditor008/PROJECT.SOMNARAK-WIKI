@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IIIγ-874": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_04_BRIDGE_OF_THE_UNCHOSEN.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -4667,8 +4679,23 @@
     {
       "designation": "N-IIIγ-874",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-874_Bridge_of_the_Unchosen_얼어붙은_다리.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Fourteen source-supported repairs (4 short / 10 careful): the bridge that has never shed a stone stops detonating, vaulting ice-lances and freezing every bridge in the field; its third signature rule — the Counterfactual Rule — replaces the generic activation banner. HELD; no credit (per-piece source review already embedded in the primary; direct SE-874).",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_04_BRIDGE_OF_THE_UNCHOSEN.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/874_Bridge_of_the_Unchosen/SE-874-A__SIDE_CODEX_Bridge_of_the_Unchosen.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/874_Bridge_of_the_Unchosen/SE-874-B__MAW-W_Bridge_of_the_Unchosen_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/874_Bridge_of_the_Unchosen/SE-874-C__MAW-S_Bridge_of_the_Unchosen_Shield.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/874_Bridge_of_the_Unchosen/SE-874-D__MAW-G_Bridge_of_the_Unchosen_Charm.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIIγ-908",
