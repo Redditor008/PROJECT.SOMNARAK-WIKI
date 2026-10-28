@@ -8,9 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 195 — OPEN, 5 / 5 (2026-10-28)
+## Batch 195 — CLOSED, 5 / 5 (2026-10-28)
 
-Unit 5 — **Tear Too Small to Honor `N-Iα-785`: HELD; credit-barred, +0.** 15 repairs (6s/9c; 8,233→8,482 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_05_TEAR_TOO_SMALL_TO_HONOR.md).
+Unit 5 — **Tear Too Small to Honor `N-Iα-785`: HELD; credit-barred, +0.** 15 repairs (6s/9c; 8,233→8,482 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_05_TEAR_TOO_SMALL_TO_HONOR.md). Batch closed: all five HELD, No change 0, 51 repairs (16s/35c), one fresh credit (Walking Calendar +1/+1); battery PASS. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_CLOSE.md). Counters: Types 286/301, Weapon 284/287, SE 18/301; held 236 / pending 45.
 
 Unit 4 — **Apocrypha `O-Iα-340`: HELD; credit-barred, +0.** 7 repairs (0s/7c; 8,227→8,411 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_04_APOCRYPHA.md).
 

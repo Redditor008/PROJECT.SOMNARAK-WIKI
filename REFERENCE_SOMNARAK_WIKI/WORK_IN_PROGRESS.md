@@ -1,8 +1,8 @@
 # Work In Progress
 
-## Batch 195 — OPEN, 5 / 5 (2026-10-28)
+## Batch 195 — CLOSED, 5 / 5 (2026-10-28)
 
-**Unit 5 — Tear Too Small to Honor `N-Iα-785`: HELD, +0.** Fifteen repairs (6 short / 9 careful; 8,233→8,482 words): a flat tear stops detonating. Credit barred by the primary's item-integrating Use Notes. [Evidence](SE_APPEARANCE_REVIEWS/B195_05_TEAR_TOO_SMALL_TO_HONOR.md). Closure battery next.
+**Unit 5 — Tear Too Small to Honor `N-Iα-785`: HELD, +0.** Fifteen repairs (6 short / 9 careful; 8,233→8,482 words): a flat tear stops detonating. Credit barred by the primary's item-integrating Use Notes. [Evidence](SE_APPEARANCE_REVIEWS/B195_05_TEAR_TOO_SMALL_TO_HONOR.md). Batch closed: all five HELD, No change 0, 51 repairs (16s/35c), **one fresh credit** (Walking Calendar); battery PASS. [Closure](SE_APPEARANCE_REVIEWS/B195_CLOSE.md). Batch 196 opens next in this prompt.
 
 **Unit 4 — Apocrypha `O-Iα-340`: HELD, +0.** Seven repairs (0 short / 7 careful; 8,227→8,411 words): an untouched outline stops launching shards; exact set SE-1033 (not SE-340). Credit barred by the in-file 2026-10-12 review. [Evidence](SE_APPEARANCE_REVIEWS/B195_04_APOCRYPHA.md).
 

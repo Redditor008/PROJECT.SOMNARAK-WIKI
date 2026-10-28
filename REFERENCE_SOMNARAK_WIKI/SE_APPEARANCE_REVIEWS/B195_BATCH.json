@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "batch": 195,
-  "status": "OPEN",
+  "status": "CLOSED",
   "completed_units": 5,
   "required_units": 5,
   "queue": [
@@ -936,5 +936,5 @@
     }
   ],
   "opened_at": "2026-10-28",
-  "completed": 5
+  "completed": true
 }

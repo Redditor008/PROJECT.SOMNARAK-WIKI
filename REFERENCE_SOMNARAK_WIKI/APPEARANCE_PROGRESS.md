@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B195 U5 Tear Too Small to Honor `N-Iα-785` HELD, credit-barred, +0.** 15 repairs (6s/9c), 8,233→8,482w. Types 286/301 (95.02%), Weapon 284/287 (98.95%), SE 18/301 (5.98%); held 236 / pending 45. [Evidence](SE_APPEARANCE_REVIEWS/B195_05_TEAR_TOO_SMALL_TO_HONOR.md).
+- **Latest: B195 CLOSED 5/5.** All five HELD, No change 0, 51 repairs (16s/35c), 41,014→42,099w; one fresh credit (Walking Calendar +1/+1). Types 286/301 (95.02%), Weapon 284/287 (98.95%), SE 18/301 (5.98%); held 236 / pending 45. [Closure](SE_APPEARANCE_REVIEWS/B195_CLOSE.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 
