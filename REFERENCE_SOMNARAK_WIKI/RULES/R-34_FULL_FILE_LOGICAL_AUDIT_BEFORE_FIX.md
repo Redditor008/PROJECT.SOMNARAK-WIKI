@@ -57,6 +57,7 @@ At minimum, audit:
 15. **Entity-specific chronicles and records:** doctrine, testimony and literary narration must not be silently promoted into observation evidence.
 16. **Trivia and Document Information:** “only”, “every”, “never” and other universal claims; dates, authors and classification labels.
 17. **All repeated numbers:** build a number ledger for gauges, percentages, thresholds, counts, dates, ranges, probabilities, costs and durations. A number repeated in two sections must mean the same thing in both.
+18. **Markdown table integrity:** for every table block, count cells from **unescaped** pipes and confirm that the header, separator and every row have the same number of cells. Then map the parsed cells back to the header—especially the final column—so a pipe inside an effect, duration or range cannot silently push a Trigger or other last field into an orphan sixth cell. A row that merely starts and ends with `|` is not thereby a valid table row.
 
 ## 5. Classify every finding honestly
 
@@ -96,9 +97,10 @@ After repairs:
 1. Re-read the complete final primary in document order.
 2. Repeat the section audit and the per-action Combat Action audit on the final text.
 3. Rebuild the number ledger and confirm that no repair created a new contradiction.
-4. Confirm that every planned repair happened exactly once and that replay from the frozen before-file reproduces the final file.
-5. Run `verify`, `tpl`, `sectfile`, `wikistd` and `sect`. These are technical checks only; they cannot settle narrative or mechanical logic.
-6. Write evidence that contains the audit reasoning, repairs, retained claims, holds, credit decision, reading record and final outcome. A boolean is not reasoning.
+4. Parse every Markdown table block in the final primary. Header, separator and every row must have the same unescaped-pipe cell count, and the reviewer must read the parsed final cell of representative rows against its header (for Combat Actions, the Trigger). The Dawn of Mourning syntax correction of 2026-10-29 is the standing example: four rows passed the ordinary validators while an internal duration pipe created six cells in a five-column table and displaced the Trigger.
+5. Confirm that every planned repair happened exactly once and that replay from the frozen before-file reproduces the final file.
+6. Run `verify`, `tpl`, `sectfile`, `wikistd` and `sect`. These are technical checks only; they cannot settle narrative or mechanical logic.
+7. Write evidence that contains the audit reasoning, repairs, retained claims, holds, credit decision, reading record and final outcome. A boolean is not reasoning.
 
 If the primary changes after the final re-reading, the final audit is void for every affected dependency and must be repeated.
 

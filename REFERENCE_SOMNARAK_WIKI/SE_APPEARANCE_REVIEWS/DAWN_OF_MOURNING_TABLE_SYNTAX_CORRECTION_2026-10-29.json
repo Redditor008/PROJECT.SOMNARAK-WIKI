@@ -1,0 +1,140 @@
+{
+  "record_id": "DAWN_OF_MOURNING_TABLE_SYNTAX_CORRECTION_2026-10-29",
+  "record_type": "owner-reported corrective supplement to the R-34 Dawn recheck; no fresh review or credit",
+  "date_local": "2026-10-29",
+  "designation": "C-Vω-001",
+  "name": "Dawn of Mourning",
+  "primary_path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md",
+  "base_commit": "a5800477bf752b0e94148a72bed6bbbb6b0ef09b",
+  "prior_recheck_evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/DAWN_OF_MOURNING_R34_RECHECK_2026-10-29.md",
+  "owner_report": "The rendered Combat Actions table remained broken and the Trigger section appeared missing in The Four Sorrows row.",
+  "root_cause": "Rows 83-86 each contained an unescaped duration separator, `| 8s, 2s per type`, inside the Combat Effect/Stat cell. The header and separator have five cells, but those four rows therefore parsed as six cells. The actual Trigger text was not absent from the source; it was displaced into an orphan sixth cell and was not rendered under the five-column Trigger header.",
+  "before": {
+    "sha256": "c41e960489ab2a9d4470a14349a5b32f640c07c45e9b2f8239a876a592aa31b0",
+    "lines_newline_count": 478,
+    "bytes": 59660,
+    "words_lc_all_c": 9241,
+    "combat_table_cells": [
+      5,
+      5,
+      6,
+      6,
+      6,
+      6,
+      5
+    ]
+  },
+  "after": {
+    "sha256": "966feea825c302710ad17ebf5487a859379e93674f28003817b5e69a591c6e5b",
+    "lines_newline_count": 478,
+    "bytes": 59680,
+    "words_lc_all_c": 9241,
+    "combat_table_cells": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
+  },
+  "repairs": [
+    {
+      "id": "TABLE-1-duration-cell",
+      "kind": "short table syntax correction",
+      "careful": false,
+      "old": "| { *The Four Sorrows* [**Debuff**] } | \"The judgment opens as one act in four registers — grief, rage, weight and the hollow, arriving in sequence rather than as four separate blows.\" | [A person entering the Dawn's full sight is judged through all four sorrows in the order shown; no random first-arriving mark selects only one.] | *Opening judgment: apply the full Mixed cycle once to each exposed target.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | At formation or on first entry into full sight, in the historical/projected sequence. |",
+      "new": "| { *The Four Sorrows* [**Debuff**] } | \"The judgment opens as one act in four registers — grief, rage, weight and the hollow, arriving in sequence rather than as four separate blows.\" | [A person entering the Dawn's full sight is judged through all four sorrows in the order shown; no random first-arriving mark selects only one.] | *Opening judgment: apply the full Mixed cycle once to each exposed target.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP); 8s total, 2s per type]** | At formation or on first entry into full sight, in the historical/projected sequence. |"
+    },
+    {
+      "id": "TABLE-2-duration-cell",
+      "kind": "short table syntax correction",
+      "careful": false,
+      "old": "| { *No Partial Light* [**Debuff**] } | \"Nothing flows through the wall. The wall simply stops giving you a partial view: every grief unmourned and every guilt unabsolved remains in the same light.\" | [The revelation finishes removing partial sight. Each two-second stage closes another compartment; it does not start a second, independent opening judgment.] | *Continuing exposure while concealment and compartmentalisation fail; use the opening cycle's values for sustained pressure, not as a second first mark.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | After *The Four Sorrows*, while the target remains within the Dawn's sight. |",
+      "new": "| { *No Partial Light* [**Debuff**] } | \"Nothing flows through the wall. The wall simply stops giving you a partial view: every grief unmourned and every guilt unabsolved remains in the same light.\" | [The revelation finishes removing partial sight. Each two-second stage closes another compartment; it does not start a second, independent opening judgment.] | *Continuing exposure while concealment and compartmentalisation fail; use the opening cycle's values for sustained pressure, not as a second first mark.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP); 8s total, 2s per type]** | After *The Four Sorrows*, while the target remains within the Dawn's sight. |"
+    },
+    {
+      "id": "TABLE-3-duration-cell",
+      "kind": "short table syntax correction",
+      "careful": false,
+      "old": "| { *The Mourning Light* [**Debuff**] } | \"The light is cold. It does not burn; it leaves nothing unshown.\" | [The judgment fixes into sentence as the grief and guilt already revealed become impossible to set aside. No beam is projected and no target needs to confront the Dawn.] | *Sentence stage: apply the increased Mixed cycle as revelation and Fracture pressure, not as thermal or beam damage.* **[12-18 Grudge (HP) -> 12-18 Lament (Composure) -> 12-18 Weight (Both) -> 2 Void (10% Max HP) | 8s, 2s per type]** | When an exposed target remains in full sight after partial sight fails. |",
+      "new": "| { *The Mourning Light* [**Debuff**] } | \"The light is cold. It does not burn; it leaves nothing unshown.\" | [The judgment fixes into sentence as the grief and guilt already revealed become impossible to set aside. No beam is projected and no target needs to confront the Dawn.] | *Sentence stage: apply the increased Mixed cycle as revelation and Fracture pressure, not as thermal or beam damage.* **[12-18 Grudge (HP) -> 12-18 Lament (Composure) -> 12-18 Weight (Both) -> 2 Void (10% Max HP); 8s total, 2s per type]** | When an exposed target remains in full sight after partial sight fails. |"
+    },
+    {
+      "id": "TABLE-4-duration-cell",
+      "kind": "short table syntax correction",
+      "careful": false,
+      "old": "| { *The Mourners* [**Debuff**] } | \"The twelve who carried mercy now carry the sentence onward.\" | [The twelve blessing recipients become Mourners and carry the Dawn's revelatory perspective beyond its immediate sight, spreading the judgment and Fracture condition. This is not a counterattack and does not require the Dawn to be attacked.] | *Escalation stage: apply the higher Mixed cycle to targets newly reached through the Mourners. No separate target-gauge rise is specified.* **[20-30 Grudge (HP) -> 20-30 Lament (Composure) -> 20-30 Weight (Both) -> 3 Void (15% Max HP) | 8s, 2s per type]** | After sentence begins, when the blessed twelve take up the Mourner role in the projected sequence. |",
+      "new": "| { *The Mourners* [**Debuff**] } | \"The twelve who carried mercy now carry the sentence onward.\" | [The twelve blessing recipients become Mourners and carry the Dawn's revelatory perspective beyond its immediate sight, spreading the judgment and Fracture condition. This is not a counterattack and does not require the Dawn to be attacked.] | *Escalation stage: apply the higher Mixed cycle to targets newly reached through the Mourners. No separate target-gauge rise is specified.* **[20-30 Grudge (HP) -> 20-30 Lament (Composure) -> 20-30 Weight (Both) -> 3 Void (15% Max HP); 8s total, 2s per type]** | After sentence begins, when the blessed twelve take up the Mourner role in the projected sequence. |"
+    }
+  ],
+  "table_audit": {
+    "scope": "every contiguous Markdown table block in the Dawn primary",
+    "method": "count cells from unescaped pipes; compare header, separator and each row; read parsed last cell against header",
+    "before_mismatches": [
+      {
+        "lines": "81-87",
+        "counts": [
+          5,
+          5,
+          6,
+          6,
+          6,
+          6,
+          5
+        ]
+      }
+    ],
+    "after_mismatches": [],
+    "after_trigger_cells": {
+      "The Four Sorrows": "At formation or on first entry into full sight, in the historical/projected sequence.",
+      "No Partial Light": "After *The Four Sorrows*, while the target remains within the Dawn's sight.",
+      "The Mourning Light": "When an exposed target remains in full sight after partial sight fails.",
+      "The Mourners": "After sentence begins, when the blessed twelve take up the Mourner role in the projected sequence.",
+      "The Mourning of All Things": "As the culmination after sentence and Mourner spread — not at the instant of formation."
+    }
+  },
+  "checks": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.015  clean   779 grams  M.A.W. Equipment\n 0.000  clean  2206 grams  Sovereign Chronicle\n 0.000  clean   800 grams  Combat Record\n 0.000  clean   668 grams  감각 묘사 (Flavor Text)\n 0.000  clean   379 grams  이야기 (Narratio)\n 0.000  clean   315 grams  Appearance\n 0.000  clean   287 grams  Trivia\n 0.000  clean   267 grams  기록 (Registrum)\n 0.000  clean   213 grams  Breach Behavior\n 0.000  clean   185 grams  Origin\n 0.000  clean   184 grams  Operational Parameters\n 0.000  clean   176 grams  관찰 기록 (Observation Log)\n 0.000  clean   160 grams  Behavior\n 0.000  clean   154 grams  이야기 보고 (Story Log)\n 0.000  clean   111 grams  증언 (Testimonium)\n 0.000  clean    60 grams  SECC Classification\n 0.000  clean    57 grams  최종 관찰 (Final Observation)\n 0.000  THIN      1 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "  251  12  **Full-set source review (2026-10-12):** Reviewed the `— · —` grade overview, all three local pieces, Use Notes, Field Use Record,\nGENERIC 0.002  (12 shared shingles)  SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md\n",
+      "stderr": ""
+    }
+  },
+  "checks_summary": {
+    "verify": "PASS",
+    "tpl": "PASS",
+    "sectfile": "PASS",
+    "wikistd": "PASS",
+    "sect": "GENERIC 0.002 (12 shared shingles)",
+    "replay_from_before": true
+  },
+  "rule_amendment": "R-34 now requires unescaped-pipe cell-count and parsed-header/final-cell checks in both pre-repair and final audits.",
+  "fresh_credit": {
+    "types": 0,
+    "weapon": 0,
+    "se_appearance": 0
+  },
+  "outcome": "Syntax corrected; Dawn remains HELD for the substantive source forks in the R-34 recheck evidence."
+}
