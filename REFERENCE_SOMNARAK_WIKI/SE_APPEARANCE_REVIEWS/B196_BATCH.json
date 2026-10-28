@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 196,
   "status": "OPEN",
-  "completed_units": 3,
+  "completed_units": 4,
   "required_units": 5,
   "queue": [
     {
@@ -516,8 +516,220 @@
         "source_files_unchanged": 10,
         "digit_sequence_change": "Sole digit change: the template Battle Length '16 turns' is removed from a holding the file expressly measures in songs, not turns. No other figure, date, score or count was altered."
       }
+    },
+    {
+      "designation": "C-IVδ-250",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-250_Restless_Gap_찢어진_흔적.md",
+      "words": 8259,
+      "sha256": "f805c4694b7ac71c7d84858b0d9b4870cfa75c8f9d3ce66fcefd99da1ca962da",
+      "unit": 4,
+      "name": "Restless Gap",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_04_RESTLESS_GAP.md",
+      "before_words": 8259,
+      "after_words": 8477,
+      "base": "a0ffc0fab0ea11af55baae98165f6f53dbe0ed37",
+      "final_sha256": "d4d0b865f06071238c112934e73d0b17fe08a54025253b4af58f71bb76791fa5",
+      "summary": "Fifteen source-supported repairs (7 short / 8 careful): a record that was never made stops being shredded, detonated and cut with in all five combat rows; the truncated header is completed; derived-track walking replaces the sprint figure; two generic consequences and three flavor rows return to the exit-card instrument. HELD; no credit (in-file full-set source review dated 2026-10-12; exact set SE-1025, not SE-250).",
+      "commentary": "The dossier is explicit that its horror is clerical — a good rule, honestly applied to the one man whose injury removed his standing to satisfy it — and the combat table had imported a different archive's violence: destroyed evidence, flying fragments, detonations. Restoring sequence loss as the only weapon also restores the file's central refusal: nobody, not even the table, gets to supply the missing piece.",
+      "reasoning": "Set SE-1025 identity resolved exactly as the in-file review records (C-IVδ-250 [WS] on every Side/item header; SE-250 is Memory Rain, Registry rows 542–543, excluded); Registry rows 262–265 (Registry_1001_to_1043/1025_Restless_Gap). Sentence triage: the whole combat table ran on torn-paper physics against 'it destroys nothing; it removes order' and a zero-injury record; the SECC Entity Type cell ended mid-word; Speed quantified an unobserved walk; two Consequences promised conduits and four-front dissolution; three flavor rows and two stubs were template. R-18 split declared before the apply: 7 short / 8 careful.",
+      "history": "No credit — the primary carries a 'Full-set source review (2026-10-12)' against SE-1025-A/B/C/D, Registry SE-1025-A–D, Master entries 271–273, Entity Codex row, Tale 91 and archetypes MAW-W-250/1025, holding weapon identity, band, Stigma slot/chance and the two-layer cost account expressly unmerged. That is the coverage event; equipment_reviews has no C-IVδ-250 entry (its 250 is N-IVγ-250, B173) and none was added. Side A (66 lines) and items B/C/D read whole (58/58/57 lines; no Appearance sections in this family) confirm the disposition; git path history shows only the B179 import. +0 all counters.",
+      "holds": [
+        "Weapon identity as held by the in-file review: local The Vigil Hand-Cannon (bronze, lantern-chambered, phosphor) vs Side/item/Master 271 The Trace Maul; MAW-W-250 flared-bronze hand-cannon/Short, linked MAW-W-1025 Weeping Marble Aspergillum/Long, and MAW-W-250 reused for The Memory Requiem — no unique crosswalk; figures agree (Weight 10–15 / 3 / 3 / Skewer / 2 / 50).",
+        "Debt-Collector's Lantern repeats Hand-Cannon title/form language with a different profile (own linked Collector's Vigil-Lantern); no shared item established — held as the review left it.",
+        "Suit figures agree (1/1/1.5/0.5; 2/45). Stigma Head / 4% / +3 local and Side/item vs Registry generic Accessory / 5% and Master 273 Rings/Hand-Seals — slot and chance held, not normalized, exactly as the review states.",
+        "Two-layer cost account preserved per the review: the separate M.A.W. rule (composure, private memories, bodily vigour) stands in Consequences untouched alongside piece-level heaviness/fatigue/ageing/anchor-pain; this review did not merge them.",
+        "Flerehan reaching-through-the-tear intention question; first-half-of-management-line correction history (memory anchors → day book); 23,400 person-years unestablished service and the Year 4233 admissibility refusal remain open record, untouched. Master/Tale name *The Torn Trace* remains source context only."
+      ],
+      "split": [
+        7,
+        8
+      ],
+      "repairs": [
+        {
+          "id": "R1-header-completion",
+          "kind": "short factual completion",
+          "careful": false,
+          "old": "and sequence loss at a multiple of the chamber r |",
+          "new": "and sequence loss at a multiple of the chamber rate |"
+        },
+        {
+          "id": "R2-tool-grade",
+          "kind": "short factual correction",
+          "careful": false,
+          "old": "| **Tool / M.A.W. grade** | δ · δ (Critical) |",
+          "new": "| **Tool / M.A.W. grade** | δ (Critical) |"
+        },
+        {
+          "id": "R3-speed",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Speed** | 2.45 m/s |",
+          "new": "| **Speed** | Walking, unmeasured — position is derived from the bend at three stations, never observed, and the derived track has never been a straight line. It does not pursue; in forty years nothing has it approaching a person not already inside the bend. |"
+        },
+        {
+          "id": "R4-shredded-record",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Shredded Record* [**Debuff**] } | \"The traces have been torn to pieces — and each fragment carries the weight of the whole.\" | [The Trace's destruction presses on the target; they bear what was ruined.] | *Target suffers -10 Resolve; the shredded evidence is heavy.* **[10 Weight DMG [Weight]]** | When the target touches the fragments. |",
+          "new": "| { *The Shredded Record* [**Debuff**] } | \"Nothing here was torn up. This is not a record destroyed, lost, weeded or sealed — it is a record that was never required to be made, about work that was really done.\" | [No fragments exist to touch; the target keeps every fact and loses the thread between facts.] | *Target suffers -10 Resolve; the facts are intact and in no order.* **[10 Weight DMG [Weight]]** | Inside the bend. |"
+        },
+        {
+          "id": "R5-missing-page",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Missing Page* [**Debuff**] } | \"The most important part of the trace is gone — torn away — and the absence weighs more than what remains.\" | [The Trace's absence presses; the target feels what was removed.] | *Target loses 10 Resolve; the void in the record is crushing.* **[10 Weight DMG [Weight]]** | When the target reads the fragments. |",
+          "new": "| { *The Missing Page* [**Debuff**] } | \"No page was torn away, because no page was ever written — his exposures fell in intervals nobody had to register. The absence is clerical, and it weighs exactly as much.\" | [The target is asked, in effect, to prove their own afternoon; the proof required is the faculty being taken.] | *Target loses 10 Resolve; not established is not the same as disbelieved, and it lands the same.* **[10 Weight DMG [Weight]]** | When the worker tries to recount the session. |"
+        },
+        {
+          "id": "R6-paper-cut",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Paper Cut* [**Attack**] } | \"A fragment of torn trace, edge sharp, flies at you — carrying the anger of being destroyed.\" | [A shard of torn record launches.] | *Inflicts Weight pressure and one thin, heavy cut.* **[14-22 Weight DMG [Weight]]** | When the fragments are scattered. |",
+          "new": "| { *The Paper Cut* [**Attack**] } | \"Nothing flies and nobody is cut — nobody has been physically injured here in the whole record. The tear does not select; a crew holds against the zone, not the entity.\" | [Pressure through the whole warped volume at once, heaviest at the tear, while the worker's own account quietly reorders itself.] | *Inflicts Weight pressure; the wound is sequence, and it is invisible to the person suffering it.* **[14-22 Weight DMG [Weight]]** | While unopposed inside the radius. |"
+        },
+        {
+          "id": "R7-full-reconstruction",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Reconstruction* [**Attack**] } | \"Every torn fragment flies back together — and for one instant, the trace is whole, and then it detonates.\" | [The fragments converge, the trace stands whole in the gallery for one breath, and then it lets go.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the trace is reassembled without anchors. |",
+          "new": "| { *The Full Reconstruction* [**Attack**] } | \"This is the prohibited act given a name: supply the missing beat, make the life read smoothly, and the crew has not closed the cycle — it has joined the entity in editing the record.\" | [Nothing detonates. The exit scores of everyone present worsen, exactly as they did the once the Memory Weaver supplied order the Gap had not held.] | *A heavy Black pressure; the target's Sorrow Gauge surges 15% and their life becomes briefly, falsely, legible.* **[24-36 Weight DMG [Weight]]** | When somebody invents the piece that is missing. |"
+        },
+        {
+          "id": "R8-everything-torn",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Everything Is Torn* [**Ultimate**] } | \"Every record in the field shreds — and the weight of destroyed evidence crushes everyone.\" | [The tearing widens out of the re-embodiment, and the whole field starts shedding its records.] | *All in range suffer Weight pressure for three turns of shredded records.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *Everything Is Torn* [**Ultimate**] } | \"No record in the field shreds — the day books stay intact in workers' hands, which is the point of them. What goes is the order of the engagement while it is happening.\" | [The zone warps outward; cordon logs are timed by a clerk outside the radius because responders inside it can no longer say what happened first.] | *All in range suffer Weight pressure for three turns of sequence loss.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+        },
+        {
+          "id": "R9-consequence-route",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- The responder who loses their hold inside the zone stops being a responder and becomes a route for its pressure instead. **Resolve** leaves them as a spent resource rather than as a wound, and what climbs back onto the gauge is the crew’s own doubt about which part of it happened first.",
+          "new": "- Nobody becomes a conduit and nothing is spent like a resource. The responder who loses hold keeps every fact of the engagement and cannot order them; their exit screen slips against baseline, and they are withdrawn on the score regardless of how the event is going."
+        },
+        {
+          "id": "R10-consequence-dissolution",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- Length of exposure is what makes this zone dangerous rather than depth of it. A cycle kept short stays workable; the same cycle kept long stops being workable at all, and the dissolution arrives on four fronts in sequence — emotional, then physical, then the worker’s own identity, then the room’s arrangement.",
+          "new": "- Length of exposure is what makes this zone dangerous rather than depth of it, and the loss is narrower than any dissolution: not emotional, not physical, not identity itself — order. It destroys nothing; it removes order, which the medical office classes as a loss and the claims office does not."
+        },
+        {
+          "id": "R11-observation-stub",
+          "kind": "short observation completion",
+          "careful": false,
+          "old": "| **Initial exposure** | Confirm the designation on the Weight signature and the walk — the primary visual marker — and check the ground against Zone D, Mantle Commons before the watch is set. Emotional impressions are entered last, if at all. |",
+          "new": "| **Initial exposure** | Confirm the designation on the Weight signature and the walk — a gallery line bent around a person-shaped nothing with a vertical tear down it — and check the ground against Zone D, Mantle Commons before the watch is set. Emotional impressions are entered last, if at all. |"
+        },
+        {
+          "id": "R12-flavor-continued",
+          "kind": "short flavor grounding",
+          "careful": false,
+          "old": "**With continued exposure:** Time stretches in the containment zone. The Subject-Void becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.",
+          "new": "**With continued exposure:** Timed indirect viewing slows it and does not stop it: everyone in the gallery keeps their facts and starts losing the order of them, a median two misplaced events of twelve, then four, now seven."
+        },
+        {
+          "id": "R13-flavor-activates",
+          "kind": "short flavor grounding",
+          "careful": false,
+          "old": "**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Weight becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Void was waiting; now it moves.",
+          "new": "**When the entity activates:** The bend passes station three and the warped volume grows outward from where it stands. It is not chasing anyone; the cordon widens and the sequence cards come out."
+        },
+        {
+          "id": "R14-flavor-after",
+          "kind": "short flavor grounding",
+          "careful": false,
+          "old": "**After departure:** Departure is not relief. The Subject-Void is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.",
+          "new": "**After departure:** Certainty about everything seen, and no order to put any of it in. The counselor asks which came first, the transfer or your sister's wedding, and you do not know, and that is a thing you have known your whole life."
+        },
+        {
+          "id": "R15-review-requirement",
+          "kind": "short factual correction",
+          "careful": false,
+          "old": "**Review requirement:** Re-verify the four pillars — gauge, seal, personnel, position — after any corruption event, expansion, transformation attempt or unusual interaction, and add the exit scores to the round: on this holding the sequence loss is the measurement, and it slips before anything else does.",
+          "new": "**Review requirement:** After any corruption event, expansion, transformation attempt or unusual interaction: re-read the bend at three stations against the derived track, confirm the tear's dimensions (constant across the record), and retake every present worker's exit screen against baseline — on this holding the sequence loss is the measurement, and it slips before anything else does. Baselines are retaken annually whether or not the worker has been in the chamber since."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVδ-250_Restless_Gap_찢어진_흔적.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.017  clean   120 grams  Operational Parameters\n 0.014  clean   903 grams  M.A.W. Equipment\n 0.008  clean   736 grams  Combat Record\n 0.008  clean   259 grams  기록 (Registrum)\n 0.004  clean   529 grams  감각 묘사 (Flavor Text)\n 0.004  clean   277 grams  관찰 기록 (Observation Log)\n 0.000  clean  1437 grams  Apex Record\n 0.000  clean   383 grams  이야기 (Narratio)\n 0.000  clean   376 grams  이야기 보고 (Story Log)\n 0.000  clean   249 grams  Origin\n 0.000  clean   209 grams  Appearance\n 0.000  clean   190 grams  Containment Event Behavior\n 0.000  clean   164 grams  Trivia\n 0.000  clean   151 grams  최종 관찰 (Final Observation)\n 0.000  clean   132 grams  Behavior\n 0.000  clean    52 grams  증언 (Testimonium)\n 0.000  clean    41 grams  SECC Classification\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   85   6  | { *Everything Is Torn* [**Ultimate**] } | \"No record in the field shreds — the day books stay intact in workers' hands, which is\n  221   1  **Effect:** +3 stat bonus when working the source entity\n  237   5  | **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline taken as the bearer's own continuous account, written\n  242   4  **Stat interpretation:** Field performance and human cost are separate axes, and on this holding the second is invisible to the gr\n  244   3  **Full-set source review (2026-10-12):** Reviewed the `δ · δ (Critical)` overview, every local Weapon/Suit/Stigma claim, Use Notes\n  265   1  | **Post-contact review** | What altered, what persisted, and what defied vocabulary — all three are data. The report is incomplet\n  323   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  374   2  **Operational interpretation:** Treat this as a starting point and not a conclusion, and read it against the classification, the C\nGENERIC 0.004  (26 shared shingles)  SE-C-IVδ-250_Restless_Gap_찢어진_흔적.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1025_Restless_Gap/SE-1025-A__SIDE_CODEX_Restless_Gap.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1025_Restless_Gap/SE-1025-B__MAW-W_The_Trace_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1025_Restless_Gap/SE-1025-C__MAW-S_The_Trace_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1025_Restless_Gap/SE-1025-D__MAW-G_The_Trace_Anchor.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1025_Restless_Gap/SE-1025-A__SIDE_CODEX_Restless_Gap.md": "9ba04e7527d31c1dd6704631eeec377c95469572b0ca8638044816a98aaab78b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1025_Restless_Gap/SE-1025-B__MAW-W_The_Trace_Maul.md": "0bc686c07d2abf5ed21ddb2eed9f9f708e8bad28cb74d110162f5cd968bb5486",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1025_Restless_Gap/SE-1025-C__MAW-S_The_Trace_Mantle.md": "e052274934d28c1a81f904a20db1e0bf179da2e8f303c2a01064b2c0cda2b48c",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1025_Restless_Gap/SE-1025-D__MAW-G_The_Trace_Anchor.md": "946abdf2a47b7a10f4b03d143b1f2e9edd1a904b6ffb77695c8bc6a0630f37f7",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVδ-250_Restless_Gap_찢어진_흔적](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-250_Restless_Gap_%EC%B0%A2%EC%96%B4%EC%A7%84_%ED%9D%94%EC%A0%81.md \"SE-C-IVδ-250_Restless_Gap_찢어진_흔적.md\")]",
+      "table_link": "[Restless Gap](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-250_Restless_Gap_%EC%B0%A2%EC%96%B4%EC%A7%84_%ED%9D%94%EC%A0%81.md \"SE-C-IVδ-250_Restless_Gap_찢어진_흔적.md\")",
+      "reading": {
+        "before_lines": 456,
+        "before_bytes": 49993,
+        "final_lines": 456,
+        "final_bytes": 51113
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 41,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": "Sole digit change: the template Speed figure 2.45 m/s is removed from a Subject whose position is derived, never observed; the record's derived-track language replaces it. No other figure, date, score or count was altered."
+      }
     }
   ],
   "opened_at": "2026-10-28",
-  "completed": 3
+  "completed": 4
 }

@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B196 U3 Midnight Choir `C-IIβ-245` HELD, credit-barred, +0.** 3 repairs (2s/1c), 8,256→8,316w. Types 286/301 (95.02%), Weapon 284/287 (98.95%), SE 18/301 (5.98%); held 239 / pending 42. [Evidence](SE_APPEARANCE_REVIEWS/B196_03_MIDNIGHT_CHOIR.md).
+- **Latest: B196 U4 Restless Gap `C-IVδ-250` HELD, credit-barred, +0.** 15 repairs (7s/8c), 8,259→8,477w. Types 286/301 (95.02%), Weapon 284/287 (98.95%), SE 18/301 (5.98%); held 240 / pending 41. Batch 196 OPEN 4/5. [Evidence](SE_APPEARANCE_REVIEWS/B196_04_RESTLESS_GAP.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

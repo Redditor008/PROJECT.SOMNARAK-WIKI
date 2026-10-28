@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 196 — OPEN, 3 / 5 (2026-10-28)
+## Batch 196 — OPEN, 4 / 5 (2026-10-28)
+
+Unit 4 — **Restless Gap `C-IVδ-250`: HELD; credit-barred, +0.** 15 repairs (7s/8c; 8,259→8,477 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_04_RESTLESS_GAP.md). Prompt total: 10 reviews (B194 U5 + B195 closed + B196 U1–U4).
 
 Unit 3 — **Midnight Choir `C-IIβ-245`: HELD; credit-barred, +0.** 3 repairs (2s/1c; 8,256→8,316 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_03_MIDNIGHT_CHOIR.md).
 
