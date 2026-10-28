@@ -146,225 +146,378 @@
       "id": "F-01",
       "severity": "essential",
       "class": "contradiction",
-      "sections": ["Origin", "Battle Phases", "Behavior", "Observation Log", "Story Log", "Sovereign Chronicle"],
+      "sections": [
+        "Origin",
+        "Battle Phases",
+        "Behavior",
+        "Observation Log",
+        "Story Log",
+        "Sovereign Chronicle"
+      ],
       "finding": "The Dawn file states both that the current twelfth blessing produced the Hand of Hope and that the current register is still 11 of 12 with the twelfth outstanding. The Kind Healer primary and Side Codex state 12 of 12 and warn not to treat Dawn as a current active condition.",
-      "anchors": ["Dawn lines 89, 130, 134, 156, 397", "Kind Healer line 106", "SE-071-A lines 14, 35, 47"],
+      "anchors": [
+        "Dawn lines 89, 130, 134, 156, 397",
+        "Kind Healer line 106",
+        "SE-071-A lines 14, 35, 47"
+      ],
       "disposition": "hold temporal frame; repair only wording that presents the 11-of-12 state as a simultaneous current fact where the file can instead identify a preserved contingency state"
     },
     {
       "id": "F-02",
       "severity": "essential",
       "class": "contradiction",
-      "sections": ["Consequences", "Combat Actions", "Observation Log", "Flavor Text", "Sovereign Chronicle"],
+      "sections": [
+        "Consequences",
+        "Combat Actions",
+        "Observation Log",
+        "Flavor Text",
+        "Sovereign Chronicle"
+      ],
       "finding": "Claims that nothing is documented from observation and that the Ultimate was never observed conflict with three recorded historical manifestations, field/counselling excerpts and witness-based chronicle material. The defensible distinction is current-cycle observation versus incomplete historical-branch records and numerical modelling.",
-      "anchors": ["Dawn lines 85, 96, 255-259, 413"],
+      "anchors": [
+        "Dawn lines 85, 96, 255-259, 413"
+      ],
       "disposition": "repair scope language"
     },
     {
       "id": "F-03",
       "severity": "essential",
       "class": "unsupported/template",
-      "sections": ["Operational Notes"],
+      "sections": [
+        "Operational Notes"
+      ],
       "finding": "Work reducing zone pressure, ignored conditions, approaches and an exclusion radius describe a live workable holding. The rest of the file says there is nothing to work, no approach and no containment radius.",
-      "anchors": ["Dawn lines 41-45", "Dawn lines 138, 156-158"],
+      "anchors": [
+        "Dawn lines 41-45",
+        "Dawn lines 138, 156-158"
+      ],
       "disposition": "repair"
     },
     {
       "id": "F-04",
       "severity": "essential",
       "class": "mechanical inconsistency",
-      "sections": ["Operational Parameters", "Core Stat Line", "Operational Record", "Escalation Notes"],
+      "sections": [
+        "Operational Parameters",
+        "Core Stat Line",
+        "Operational Record",
+        "Escalation Notes"
+      ],
       "finding": "Activation is simultaneously 1, Sorrow Gauge >=95%, a 75-95% start and a projected 40% opening. Speed 2.95 m/s and a 30-turn encounter are presented without identifying them as an unobserved historical/projected model for an entity that cannot currently be fought.",
-      "anchors": ["Dawn lines 30-36, 54-58, 67-75, 176", "SE-044-A canonical gauge/pressure record"],
+      "anchors": [
+        "Dawn lines 30-36, 54-58, 67-75, 176",
+        "SE-044-A canonical gauge/pressure record"
+      ],
       "disposition": "repair labels and unsupported opening figure; retain source-backed record values only with scope"
     },
     {
       "id": "F-05",
       "severity": "essential",
       "class": "mechanical inconsistency",
-      "sections": ["Combat Actions — The Four Sorrows"],
+      "sections": [
+        "Combat Actions — The Four Sorrows"
+      ],
       "finding": "The flavour says all four sorrows arrive at once, the move says the target is marked by whichever arrives first, and the effect applies the full sequence. The trigger does not limit the row to a historical/projected formation or first entry into sight.",
-      "anchors": ["Dawn line 81"],
+      "anchors": [
+        "Dawn line 81"
+      ],
       "disposition": "repair as opening judgment stage"
     },
     {
       "id": "F-06",
       "severity": "essential",
       "class": "contradiction and duplicate mechanics",
-      "sections": ["Combat Actions — The Seeping"],
+      "sections": [
+        "Combat Actions — The Seeping"
+      ],
       "finding": "The action is still named The Seeping while its text correctly says nothing seeps. Its numbers and effect duplicate The Four Sorrows with no distinct mechanical function, and its trigger is a state rather than an event.",
-      "anchors": ["Dawn line 82", "Batch 197 repair R2-the-seeping"],
+      "anchors": [
+        "Dawn line 82",
+        "Batch 197 repair R2-the-seeping"
+      ],
       "disposition": "repair and rename around loss of partial sight / concealment"
     },
     {
       "id": "F-07",
       "severity": "essential",
       "class": "contradiction",
-      "sections": ["Combat Actions — The Mourning Light"],
+      "sections": [
+        "Combat Actions — The Mourning Light"
+      ],
       "finding": "A burning beam that strikes on confrontation contradicts the file's cold total light and the Tale's rule that the Dawn did not attack; it sentenced and revealed.",
-      "anchors": ["Dawn lines 16, 83, 166-167", "Tale 133"],
+      "anchors": [
+        "Dawn lines 16, 83, 166-167",
+        "Tale 133"
+      ],
       "disposition": "repair as fixed sentence/judgment, not a beam or burn"
     },
     {
       "id": "F-08",
       "severity": "essential",
       "class": "unsupported mechanism",
-      "sections": ["Combat Actions — The Transformation Reversed"],
-      "finding": "No source establishes a reversed-transformation attack, a counterattack when the Dawn is attacked, or sorrow being forced back into a target as a separate mechanism. The supported escalation is the blessed twelve becoming Mourners and spreading the judgment/Fracture condition.",
-      "anchors": ["Dawn lines 84, 133, 314"],
+      "sections": [
+        "Combat Actions — The Transformation Reversed"
+      ],
+      "finding": "No source establishes a reversed-transformation attack, a counterattack when the Dawn is attacked, or sorrow being forced back into a target as a separate mechanism. The supported escalation is the blessed twelve becoming Mourners and spreading the judgment/Fracture condition. The row also adds an unexplained claim that the target's Sorrow Gauge climbs 15%; the primary does not say whether that is a personal gauge, Dawn's own 12,000-point gauge, or an escalation value.",
+      "anchors": [
+        "Dawn lines 84, 133, 314"
+      ],
       "disposition": "repair and rename around the Mourners"
     },
     {
       "id": "F-09",
       "severity": "essential",
       "class": "contradiction and sequence error",
-      "sections": ["Combat Actions — The Mourning of All Things"],
-      "finding": "The Ultimate's trigger is the formation condition already required for every earlier row, so it has no later sequence position. 'Never observed' and literal city-ending also overstate the historical account of a city functionally unmade and later re-dimmed.",
-      "anchors": ["Dawn lines 85, 411-415"],
+      "sections": [
+        "Combat Actions — The Mourning of All Things"
+      ],
+      "finding": "The Ultimate's trigger is the formation condition already required for every earlier row, so it has no later sequence position. 'Never observed' and literal city-ending also overstate the historical account of a city functionally unmade and later re-dimmed. The row gives no segment values and marks the effect [Projected]; no replacement values should be invented.",
+      "anchors": [
+        "Dawn lines 85, 411-415"
+      ],
       "disposition": "repair as city-scale culmination after sentence/Mourners; scope observation claim"
     },
     {
       "id": "F-10",
       "severity": "essential",
       "class": "sequence inconsistency",
-      "sections": ["Battle Phases", "Consequences"],
+      "sections": [
+        "Battle Phases",
+        "Consequences"
+      ],
       "finding": "The phases call the sequence a battle although resolution must happen before formation and no post-formation clash or reliable suppression exists. The section is a prevention timeline followed by a historical/projected exposure model, not a winnable encounter.",
-      "anchors": ["Dawn lines 89-98"],
+      "anchors": [
+        "Dawn lines 89-98"
+      ],
       "disposition": "repair phase language and consequences"
     },
     {
       "id": "F-11",
       "severity": "essential",
       "class": "source-attribution error",
-      "sections": ["Appearance", "Detailed Appearance Profile", "Flavor Text"],
+      "sections": [
+        "Appearance",
+        "Detailed Appearance Profile",
+        "Flavor Text"
+      ],
       "finding": "The winged, crowned judge is repeatedly described as the Hand of Hope read backwards. The Hand's actual anatomy is luminous hand(s) or a humanoid whose arms become light networks; Dawn's anatomy comes from historical Dawn accounts, while only its function is the inverse of distribution. Weekly/quarterly register language and 12-signatures/four-colours counts also need separation.",
-      "anchors": ["Dawn lines 17, 113, 122-125, 306", "Hand of Hope Physical Form and Appearance"],
+      "anchors": [
+        "Dawn lines 17, 113, 122-125, 306",
+        "Hand of Hope Physical Form and Appearance"
+      ],
       "disposition": "repair attribution and counts; retain historical form as projection/record"
     },
     {
       "id": "F-12",
       "severity": "essential",
       "class": "ambiguous/source fork",
-      "sections": ["Origin", "Entity Interaction Record"],
+      "sections": [
+        "Origin",
+        "Entity Interaction Record"
+      ],
       "finding": "The twelve are called personnel and already-existing Hope Bearers inverted. The current twelfth recipient in the Hand record is a Cheonbulok child, and Hope Bearers are the counterfactual counterparts rather than a pre-existing class inside a Dawn branch. Intermediate chain names/designations also differ between the Kind Healer primary, Entity Codex and Dawn's C-Vω-001 designation.",
-      "anchors": ["Dawn line 133", "Hand of Hope Origin and Tale", "Kind Healer Transformation Chain", "Entity Codex serial-071 passage"],
+      "anchors": [
+        "Dawn line 133",
+        "Hand of Hope Origin and Tale",
+        "Kind Healer Transformation Chain",
+        "Entity Codex serial-071 passage"
+      ],
       "disposition": "repair recipient wording; hold chain-designation crosswalk"
     },
     {
       "id": "F-13",
       "severity": "essential",
       "class": "contradiction",
-      "sections": ["Behavior", "Operational Work Notes", "Combat Record"],
+      "sections": [
+        "Behavior",
+        "Operational Work Notes",
+        "Combat Record"
+      ],
       "finding": "All four Work Types are called valid and are given gauge responses, while the same file says the Dawn cannot safely be worked and that there is no gauge or Work Type response because there is nothing to work. The four rows can only be historical/projected responses, not authorized work.",
-      "anchors": ["Dawn lines 73, 138-145, 156"],
+      "anchors": [
+        "Dawn lines 73, 138-145, 156"
+      ],
       "disposition": "repair labels"
     },
     {
       "id": "F-14",
       "severity": "essential",
       "class": "ambiguous mechanism",
-      "sections": ["Behavior", "Battle Phases", "Final Observation", "Observation Log"],
+      "sections": [
+        "Behavior",
+        "Battle Phases",
+        "Final Observation",
+        "Observation Log"
+      ],
       "finding": "The file does not prove who must confess—the twelfth recipient, Director Majin, or another genuine confessor—or how a twelfth recipient is identified in advance. It also sometimes implies confession alone produces the Hope outcome, whereas the Hand formed through shared/distributed sorrow.",
-      "anchors": ["Dawn lines 89-91, 150, 158, 258", "Hand of Hope Origin", "SE-071-A Blessing 12 paths"],
+      "anchors": [
+        "Dawn lines 89-91, 150, 158, 258",
+        "Hand of Hope Origin",
+        "SE-071-A Blessing 12 paths"
+      ],
       "disposition": "qualify supported counter claim; hold confessor identity and pre-identification mechanism"
     },
     {
       "id": "F-15",
       "severity": "essential",
       "class": "contradiction",
-      "sections": ["Breach Behavior", "Story Log"],
+      "sections": [
+        "Breach Behavior",
+        "Story Log"
+      ],
       "finding": "Breach Movement says the historical Dawn stood and sentenced without hunting, chasing or seeping. Story Log Entry 2 says it moved slowly through the facility. The unsupported 40% formation opening also conflicts with Side A's 75-95% start.",
-      "anchors": ["Dawn lines 166, 176, 284"],
+      "anchors": [
+        "Dawn lines 166, 176, 284"
+      ],
       "disposition": "repair Story Log and gauge scope"
     },
     {
       "id": "F-16",
       "severity": "essential",
       "class": "false provenance",
-      "sections": ["Consequences", "M.A.W. Equipment", "M.A.W. Use Notes"],
+      "sections": [
+        "Consequences",
+        "M.A.W. Equipment",
+        "M.A.W. Use Notes"
+      ],
       "finding": "The primary calls the three local ω pieces the Kind Healer's reissued set. The actual Kind Healer set is the α Gentle Requiem, Gentle Shroud and Gentle Touch with different forms and statistics. The local Dawn pieces may be historical Dawn-branch records, but they are not the SE-071 set.",
-      "anchors": ["Dawn lines 97, 196, 204, 236", "SE-071-B/C/D complete records"],
+      "anchors": [
+        "Dawn lines 97, 196, 204, 236",
+        "SE-071-B/C/D complete records"
+      ],
       "disposition": "repair false attribution; retain all form/function forks as holds"
     },
     {
       "id": "F-17",
       "severity": "essential",
       "class": "ambiguous/source fork",
-      "sections": ["M.A.W. Equipment", "Field Use Record"],
+      "sections": [
+        "M.A.W. Equipment",
+        "Field Use Record"
+      ],
       "finding": "The file says no current Dawn M.A.W. piece exists and that the Stigma has not been bestowed, while also giving field bearers, issue rules and 41 sealed-statement tests. Item histories likewise presuppose bearers. Current existence, historical survival and manufacture are not cross-walked.",
-      "anchors": ["Dawn lines 178-249", "SE-044-B/C/D item histories"],
+      "anchors": [
+        "Dawn lines 178-249",
+        "SE-044-B/C/D item histories"
+      ],
       "disposition": "hold existence/provenance; do not normalize"
     },
     {
       "id": "F-18",
       "severity": "local",
       "class": "contradiction",
-      "sections": ["Observation Log"],
+      "sections": [
+        "Observation Log"
+      ],
       "finding": "First and second manifestations carry the same Year 4232+1778 label, the third is dated earlier, and Majin's confession appears to stop a manifestation despite the before-completion rule. Personnel 'lost' is not distinguished from killed, Fractured or functionally unmade.",
-      "anchors": ["Dawn lines 255-259", "Dawn Testimony"],
+      "anchors": [
+        "Dawn lines 255-259",
+        "Dawn Testimony"
+      ],
       "disposition": "hold chronology and casualty meaning; qualify where wording permits"
     },
     {
       "id": "F-19",
       "severity": "local",
       "class": "contradiction",
-      "sections": ["Story Log", "Flavor Text", "Interactions"],
+      "sections": [
+        "Story Log",
+        "Flavor Text",
+        "Interactions"
+      ],
       "finding": "Flavor says twelve colours and then names four; first-contact says no observer exists although historical witnesses are recorded; activation attributes Mourners/Fracture Zones to the Hand formation record, which does not contain those claims; after-departure denies any departure although branch history includes a Dawn that fell.",
-      "anchors": ["Dawn lines 306-316", "Hand of Hope complete record"],
+      "anchors": [
+        "Dawn lines 306-316",
+        "Hand of Hope complete record"
+      ],
       "disposition": "repair"
     },
     {
       "id": "F-20",
       "severity": "local",
       "class": "contradiction",
-      "sections": ["Registrum", "Registry Trivia"],
+      "sections": [
+        "Registrum",
+        "Registry Trivia"
+      ],
       "finding": "Registrum says Sealed — Alpha Tree and Comprehension Level 5. The SECC header and Side A give Level 2, while the file repeatedly says never contained and Registry Trivia says nothing is sealed.",
-      "anchors": ["Dawn lines 19, 376-377, 470", "SE-044-A Observation record"],
+      "anchors": [
+        "Dawn lines 19, 376-377, 470",
+        "SE-044-A Observation record"
+      ],
       "disposition": "repair from the file's own header and Side A"
     },
     {
       "id": "F-21",
       "severity": "essential",
       "class": "doctrine promoted beyond evidence",
-      "sections": ["Sovereign Chronicle"],
+      "sections": [
+        "Sovereign Chronicle"
+      ],
       "finding": "The Chronicle sometimes states institutional doctrine as mechanism: counter-liturgy always works, blessings can complete into lesser mercies, every fully met eleventh hour succeeds, and the count resets after a gentle twelfth. The chain records support a binary Hope/Dawn completion and a unique current Hand opening, not those universal mechanisms.",
-      "anchors": ["Dawn lines 423-445", "SE-071-A Blessing 12 paths", "Hand of Hope Cost and Record"],
+      "anchors": [
+        "Dawn lines 423-445",
+        "SE-071-A Blessing 12 paths",
+        "Hand of Hope Cost and Record"
+      ],
       "disposition": "retain as chronicle/doctrine where labelled; hold mechanisms and reset"
     },
     {
       "id": "F-22",
       "severity": "local",
       "class": "unsupported universal claim",
-      "sections": ["Registry Trivia"],
+      "sections": [
+        "Registry Trivia"
+      ],
       "finding": "'Every projection in this record is marked as one' is false while combat, equipment, chronicle and several operational values remain unscoped.",
-      "anchors": ["Dawn line 469"],
+      "anchors": [
+        "Dawn line 469"
+      ],
       "disposition": "repair only after the repaired file actually scopes its projected sections"
     },
     {
       "id": "F-23",
       "severity": "essential",
       "class": "mechanical/source fork",
-      "sections": ["Core Stat Line", "Combat Actions"],
+      "sections": [
+        "Core Stat Line",
+        "Combat Actions"
+      ],
       "finding": "Core Han Pressure is Lament with Instant Fracture on critical, while the entity element is all four and the actions use a Mixed cycle. Side A supports the Lament wording, so an unlabelled normalization would hide a real source fork; no critical probability or roll is defined in the primary.",
-      "anchors": ["Dawn lines 14, 58, 81-85", "SE-044-A Gauge/Pressure"],
+      "anchors": [
+        "Dawn lines 14, 58, 81-85",
+        "SE-044-A Gauge/Pressure"
+      ],
       "disposition": "hold element/critical semantics; make action scope explicit without inventing a crit rule"
     },
     {
       "id": "F-24",
       "severity": "essential",
       "class": "ambiguous/source fork",
-      "sections": ["SECC Classification", "Origin", "Document Information"],
+      "sections": [
+        "SECC Classification",
+        "Origin",
+        "Document Information"
+      ],
       "finding": "Chain identity is not uniformly designated: Dawn is C-Vω-001, the Entity Codex discusses a 071b/071c progression and different intermediate names, and the primary date remains the unresolved string Year 4232+1778.",
-      "anchors": ["Dawn lines 9, 471-476", "Entity Codex chain passages", "Kind Healer Transformation Chain"],
+      "anchors": [
+        "Dawn lines 9, 471-476",
+        "Entity Codex chain passages",
+        "Kind Healer Transformation Chain"
+      ],
       "disposition": "hold; exact SE-044 identity is sufficient for this dossier and no crosswalk is invented"
     },
     {
       "id": "F-25",
       "severity": "essential",
       "class": "process failure",
-      "sections": ["Prior Batch 197 evidence"],
+      "sections": [
+        "Prior Batch 197 evidence"
+      ],
       "finding": "Batch 197 recorded whole-before and whole-final rereads as true, but its 14 repairs did not audit four Combat Actions as mechanics, the live-work operating layer, the Kind/Hand 12-of-12 chain, actual SE-071 provenance, or the Registrum contradictions. Technical PASS was allowed to stand beside an incomplete logical review.",
-      "anchors": ["B197_03_DAWN_OF_MOURNING.json repairs and reread booleans"],
+      "anchors": [
+        "B197_03_DAWN_OF_MOURNING.json repairs and reread booleans"
+      ],
       "disposition": "preserve B197 history; create this dated R-34 recheck and a separate repair evidence record; no new credit"
     }
   ],
@@ -399,5 +552,12 @@
     ]
   },
   "primary_edited_at_audit_stage": false,
-  "next_step": "Declare final R-18 split from this audit, apply source-supported repairs mapped to finding IDs, reread and re-audit the complete final primary, then gate/push under R-34."
+  "next_step": "Declare final R-18 split from this audit, apply source-supported repairs mapped to finding IDs, reread and re-audit the complete final primary, then gate/push under R-34.",
+  "pre_repair_corrections": [
+    {
+      "date_local": "2026-10-29",
+      "stage": "after first audit push; before any primary repair",
+      "correction": "The Markdown audit first transcribed Combat Action row values as 44–71, 82–92 and 102–111 and mentioned Action DDD / Safe Exploits sections absent from this primary. Direct line-by-line extraction corrected rows 1–2 to 8/8/8/1, row 3 to 12–18/2, row 4 to 20–30/3 plus an unexplained +15% target-gauge clause, and row 5 to no segment values. The duplicate-sequence and mechanism findings are unchanged."
+    }
+  ]
 }

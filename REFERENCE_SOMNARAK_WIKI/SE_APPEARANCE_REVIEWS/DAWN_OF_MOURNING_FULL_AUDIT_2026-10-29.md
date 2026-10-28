@@ -9,6 +9,8 @@
 **Before size:** 476 newline-terminated lines, 53,862 bytes, 8,535 `LC_ALL=C wc -w` words  
 **Audit stage:** **Pre-repair. The primary has not yet been edited under this audit.**
 
+> **Pre-repair correction (2026-10-29):** After this audit's first push, the Combat Actions table was re-extracted line by line before any primary edit. The first version incorrectly transcribed the row values as `44–71`, `82–92` and `102–111`, and mentioned an Action DDD / Safe Exploits section that is not present in this primary. Those transcription errors have been corrected below to the exact segment values in lines 81–85. The substantive findings—rows 1–2 duplicate the same sequence; row 3 uses a burning beam; row 4 invents a reversed-transformation counterattack; and row 5 uses the formation condition as its own trigger—are unchanged.
+
 ## Verdict before repair
 
 The owner is correct: the Batch 197 review of Dawn of Mourning was incomplete. It repaired several visible prose contradictions and the surface wording inside *The Seeping*, but it did **not** audit the Combat Actions as a sequence of mechanics, the live-holding operating layer, the Kind Healer/Hand of Hope chain state, the actual SE-071 equipment set, the Registrum contradictions, or several claims in Story Log, Flavor and the Chronicle.
@@ -154,13 +156,13 @@ Dawn's element is all four, the actions use a Mixed Lament→Yearning→Hope→G
 
 The action table currently looks varied because its names and flavour differ. Mechanically, it is mostly one action repeated:
 
-| Row | Present action | Target count | Dice | Track | Audit result |
-|---:|---|---:|---:|---|---|
-| 1 | **The Four Sorrows** | 1 | 44–71 | 8s | Opening four-sorrow judgment, but wording contradicts itself |
-| 2 | **The Seeping** | 1 | 44–71 | 8s | Same numbers, same sequence, same end state as row 1 |
-| 3 | **The Mourning Light** | 6 | 82–92 | 8s | Burning beam contradicts cold revelatory light |
-| 4 | **The Transformation Reversed** | 6 | 82–92 | 8s | Unsupported counterattack/reversal mechanism |
-| 5 | **The Mourning of All Things** | ∞ | 102–111 | 16s | City-scale culmination, but trigger has no later position |
+| Row | Present action | Exact segment values in the primary | Track | Audit result |
+|---:|---|---|---:|---|
+| 1 | **The Four Sorrows** | 8 Grudge → 8 Lament → 8 Weight → 1 Void (5% Max HP) | 8s, 2s per type | Opening four-sorrow judgment, but wording contradicts itself |
+| 2 | **The Seeping** | 8 Grudge → 8 Lament → 8 Weight → 1 Void (5% Max HP) | 8s, 2s per type | Exactly the same values, sequence and track as row 1 |
+| 3 | **The Mourning Light** | 12–18 Grudge → 12–18 Lament → 12–18 Weight → 2 Void (10% Max HP) | 8s, 2s per type | Burning beam contradicts cold revelatory light |
+| 4 | **The Transformation Reversed** | 20–30 Grudge → 20–30 Lament → 20–30 Weight → 3 Void (15% Max HP), plus a separate claim that the target's Sorrow Gauge climbs 15% | 8s, 2s per type | Unsupported counterattack/reversal mechanism |
+| 5 | **The Mourning of All Things** | No segment values; effect cell only says **[Projected]** | None stated | City-scale culmination, but trigger has no later position |
 
 #### Row 1 — The Four Sorrows
 
@@ -177,7 +179,7 @@ Those three stages cannot all mean what they say. A single mark is not the same 
 
 Batch 197 correctly changed the prose to say that nothing seeps. It then left the action named **The Seeping**.
 
-Worse, the row has exactly the same target count, dice, track, sequence and final condition as row 1. There is no mechanical reason for it to exist. Its trigger—“within sight while unresolved”—is also a continuing state, not a triggering event.
+Worse, the row has exactly the same segment values, sequence, track and end state as row 1. There is no mechanical reason for it to exist. Its trigger—“within sight while unresolved”—is also a continuing state, not a triggering event.
 
 The supported distinct function is **loss of partial sight**: each second removes another place to hide until no partial or compartmentalised view remains. A source-supported repair should rename the action around that function, for example **No Partial Light**, and state that it removes concealment/compartmentalisation rather than repeating the whole judgment.
 
@@ -190,7 +192,7 @@ The current row says a beam “strikes” and that whatever is near “will be b
 - “the Dawn did not attack — it sentenced”;
 - “its effect was a revelation.”
 
-Dawn light is not a thermal beam. The row's supported function is the moment when the judgment becomes fixed for those who cannot leave the light: **sentence**, not burn damage. The target count and numbers can remain as recorded projections; the false physical mechanism must go.
+Dawn light is not a thermal beam. The row's supported function is the moment when the judgment becomes fixed for those who cannot leave the light: **sentence**, not burn damage. The recorded segment values can remain as projections; the false physical mechanism must go.
 
 #### Row 4 — The Transformation Reversed
 
@@ -211,15 +213,9 @@ The supported Ultimate is the city-scale culmination: the judged population can 
 
 “Never observed” must also be scoped. There are historical-branch accounts and witness fragments. What has never been observed is a current-cycle Dawn formation with a complete tactical record.
 
-#### Action DDD and defence
+#### Numerical relationship across the rows
 
-The Action DDD line says:
-
-> `16 × 44–111 (+duration) → 16 × (44–111 / 4) = 16 × 11.0–27.8`
-
-The arithmetic is not the central issue. The line mixes action counts and duration notation without explaining whether `16` means sixteen actions, sixteen seconds, or the Ultimate's 16-second track. The Safe Exploits & Defence section then gives work sessions, results and a recent Comprehension Level 5 session against an entity that cannot be worked.
-
-Those are holding-template residues and must be scoped or replaced with the file's actual doctrine: the only reliable defence is prevention before completion.
+Rows 1–4 all use the same four-stage types — Grudge (HP), Lament (Composure), Weight (Both) and Void (% Max HP) — over the same 8-second, 2-seconds-per-type track. Rows 3 and 4 raise the segment values; they do not change the underlying sequence. That can work only if the rows represent different stages or consequences of the same judgment, not four unrelated attacks. Row 4 also adds a separate claim that the target's Sorrow Gauge climbs 15%; the file does not explain whether that is a personal gauge, the Dawn's 12,000-point gauge, or an escalation figure, so that clause needs to be removed or expressly held rather than mechanically normalized. Row 5 honestly supplies no segment values and marks the city-scale effect **[Projected]**; the repair should not invent numbers for it.
 
 ### 3.6 Battle Phases and Consequences
 
@@ -365,9 +361,9 @@ Those statements may remain as institutional doctrine or chronicle where clearly
 | ≥95% | Combat activation condition | Needs scope; not the same as start |
 | 40% | Projected formation opening | Conflicts with 75–95% start |
 | 44–111 | Han Pressure band | Supported by Side A |
-| 44–71 | Rows 1–2 | Duplicate function is the defect |
-| 82–92 | Rows 3–4 | Mechanisms are defective, numbers retained pending exact provenance |
-| 102–111 | Ultimate | Supported as top of Han band; trigger wrong |
+| 8 / 8 / 8 / 1 (5%) | Rows 1–2 segment values | Duplicate sequence and function are the defect |
+| 12–18 / 2 (10%) and 20–30 / 3 (15%) | Rows 3–4 segment values | Mechanisms are defective; values retained as projections, row 4's separate +15% gauge clause requires disposition |
+| No segment values | Ultimate | Effect is marked **[Projected]**; trigger/sequence position is wrong |
 | 2.95 m/s | Speed | Unscoped projection |
 | 30 turns | Battle length | Implies a playable fight that the file denies |
 | 3% vs 5% | Weapon rarity/bestowal | HELD |
@@ -395,7 +391,7 @@ Those statements may remain as institutional doctrine or chronicle where clearly
    - fixed sentence by revelation, not burning beam;
    - Mourners spreading judgment;
    - city-scale culmination after sentence/Mourners.
-4. Replace Action DDD/Safe Exploits holding-session language with prevention doctrine.
+4. Make the Combat Actions read as stages of one judgment and keep the only reliable defence—prevention before completion—explicit.
 5. Rename Battle Phases in substance as prevention plus projected exposure.
 6. Correct Appearance attribution: Dawn anatomy from Dawn accounts; only function is inverse to the Hand.
 7. Correct “personnel” and “Hope Bearers inverted” recipient wording.
