@@ -8,8 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 197 — OPEN, 3 / 5 (2026-10-28)
-**Unit 3 — Dawn of Mourning `C-Vω-001`: HELD, +0.** Fourteen repairs (4 short / 10 careful; 8,340→8,535 words): the unformed Sovereign stops breaking free and hunting in its breach block. Direct SE-044. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_03_DAWN_OF_MOURNING.md).
+## Batch 197 — OPEN, 4 / 5 (2026-10-28)
+**Unit 4 — Frozen Fury `C-IVδ-668`: HELD, +0.** Fourteen repairs (2 short / 12 careful; 8,407→8,618 words): the immovable ruin stops being permafrost, lifted and worn; the register and the active voice stay. Direct SE-668. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_04_FROZEN_FURY.md).
 ## Batch 196 — CLOSED, 5 / 5 (2026-10-28)
 Five HELD units, No change 0, 63 repairs (16 short / 47 careful), 41,314→42,230 words, no fresh credit — every dossier carried a prior written disposition. Battery PASS: fresh validators 25/25, reconstruction 5/5, fingerprints 40/40, tests 54/54, audits PASS, zero source changes. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_CLOSE.md).
 

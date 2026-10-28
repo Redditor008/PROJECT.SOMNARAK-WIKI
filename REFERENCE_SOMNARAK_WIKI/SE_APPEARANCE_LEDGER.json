@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVδ-668": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_04_FROZEN_FURY.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2888,8 +2900,23 @@
     {
       "designation": "C-IVδ-668",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-668_Frozen_Fury_얼어붙은_잔해.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Fourteen source-supported repairs (2 short / 12 careful): an immovable, never-harmful ruin fragment stops being permafrost full of watching frozen dead, stops detaching slabs, being lifted, worn for +10% resistance and dealing a 15-second toll; the rows return to the file's custody doctrine — edge luminance, the open register, and a sentence with a subject in it. HELD; no credit (per-piece dispositions from the individual codices already integrated in the primary; direct SE-668).",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_04_FROZEN_FURY.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-668-A__SIDE_CODEX_Frozen_Fury.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-668-B__MAW-W_Frozen_Fury_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-668-C__MAW-S_Frozen_Fury_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-668-D__MAW-G_Frozen_Fury_Bracelet.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-763",
