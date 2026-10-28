@@ -1,7 +1,7 @@
 # Work In Progress
 
-## Batch 197 — OPEN, 4 / 5 (2026-10-28)
-Unit 4 — **Frozen Fury `C-IVδ-668`: HELD; credit-barred, +0.** 14 repairs (2s/12c; 8,407→8,618 words); direct SE-668. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_04_FROZEN_FURY.md).
+## Batch 197 — OPEN, 5 / 5 (2026-10-28)
+Unit 5 — **Friendless Bridge `N-IIβ-488`: HELD; credit-barred, +0.** 16 repairs (3s/13c; 8,439→8,803 words); direct SE-488. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_05_FRIENDLESS_BRIDGE.md). Closure battery next.
 ## Batch 196 — CLOSED, 5 / 5 (2026-10-28)
 All five HELD, No change 0, 63 repairs (16s/47c), no fresh credit (all barred by prior dispositions). Battery: 25/25 validators, 5/5 reconstruction, 40/40 fingerprints, audits PASS. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_CLOSE.md).
 

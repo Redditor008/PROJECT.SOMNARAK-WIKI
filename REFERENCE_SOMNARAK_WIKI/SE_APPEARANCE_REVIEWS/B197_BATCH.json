@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 197,
   "status": "OPEN",
-  "completed_units": 4,
+  "completed_units": 5,
   "required_units": 5,
   "queue": [
     {
@@ -42,7 +42,7 @@
     }
   ],
   "opened_at": "2026-10-28",
-  "completed": 4,
+  "completed": 5,
   "units": [
     {
       "designation": "C-IIβ-340",
@@ -800,6 +800,212 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 4,
         "digit_sequence_change": "Digits changed by provenance documented inside repairs: the carried-relic template's '+10% resistance' (10) and '5 Void damage on a 15-second cycle past 60 seconds' (5, 15, 60) were removed against the immovable/non-harming record. No new digits introduced; the file's hard series (9 days, 19 falls, 87/19/68 documents, 11 letters, 4 thermal points) retained."
+      }
+    },
+    {
+      "designation": "N-IIβ-488",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-488_Friendless_Bridge_스며든_다리.md",
+      "words": 8439,
+      "sha256": "199e4ddab27dcadb2929a0cc1eba14448a5de1d01a1bc42bab16ec0b22e258f3",
+      "unit": 5,
+      "name": "Friendless Bridge",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_05_FRIENDLESS_BRIDGE.md",
+      "before_words": 8439,
+      "after_words": 8803,
+      "base": "ca8a58e5c4d1378dd9e767178619e7326d1ce54b",
+      "final_sha256": "cb85e48350b4b7e8dff19caca921812b162059cedf7edefd0e64353071a4910f",
+      "summary": "Sixteen source-supported repairs (3 short / 13 careful): an empty-crystal span that crosses nothing stops growing planks, swaying underfoot, swinging timber, collapsing over a chasm, being taken up/carried for +10% resistance and dealing a 15-second toll; the rows return to the file's proxy doctrine — act for someone and the span takes the next document. HELD; no credit (per-piece dispositions from the individual records already integrated in the primary; direct SE-488).",
+      "commentary": "Everything that matters in this file is a signature: both ends unfinished, both letters unsent, both parties required to write the distance down in their own hand. A wooden-bridge template kept supplying the missing architecture — planks, sway, a bat-swinging timber, a chasm to fall into — for a span the file defines by having no river, no shore and nowhere for a crosser to arrive. The repairs leave the wood out. What extends now is only what the record says extends: the crystal, into the next document, every time a well-meaning person does the thing the pair was supposed to do.",
+      "reasoning": "Identity is direct: Side A carries SECC Designation `N-IIβ-488 [O]`, Related Entity SE-488, set 4/4 (*The Mutual Crossing*), and its Source line names this primary; items B/C/D match the primary's Fang/Plate/Bracelet by name, grade and statistics. R-18 split declared before editing: three short (SECC 'structure or location' movement stub; Registrum Observation Notes and Cross-References placeholder stubs) and thirteen careful (four combat rows physicalizing a span that 'it crosses nothing, yet cannot be walked off', 'terminates in air at both ends' and 'was never carrying anything', with hunger attributed to it against 'the conviction arrives feeling like your own thought'; the generic capability quote block; 'Equippable / mounting use', 'functions only while carried' and set-down/extraction-trauma termination against a span lying across ledgers; four worn-relic log rows with +10%/speed/toll/panic against 'every failure here is a document, not a wound'; a perimeter-first response sequence against 'Nothing is sealed… the containment reading is taken from the documents it has reached rather than from the perimeter'). R-33 chain: two sides each waiting for the other to cross first → span of empty crystal extended at both ends, joined to nothing → growth by proxy acts into connected documents → closure only when both parties enter the distance in their own hand. The item-level consent rules already in the primary (Fang gap check, Plate's visibly empty anchor, Bracelet's independent lights) were preserved untouched.",
+      "history": "The family promised to meet across Collector's Row; debt and duty kept separating them; the Keepers hold both sides' unsent letters in one envelope, and the audit office found the span four times lying across documents joining two non-speaking parties. Fresh equipment credit BARRED: the primary already integrates per-piece dispositions drawn from each individual record — 'Fang inspection' restates item B's edge-gap/consent-record rules, 'Anchor care' restates item C's independent anchors and fabricated-anchor failure, 'Bracelet acknowledgment' restates item D's independent-lights care — and the Use Notes integrate set-level proxy scaling and bestowal conditions. Ledger `equipment_reviews` has no N-IIβ-488 entry. Therefore Equipment reviewed +0/+0; Types and Weapon unchanged at 286/301 and 284/287.",
+      "holds": [
+        "Resolution wording fork: Side A resolves by 'acknowledge connection and distance, then withdraw if reciprocity is absent', while the primary requires both parties to enter the distance in their own hand with no proxy before the reading falls below 25%. The primary's stricter condition stands as the management rule; the Side's withdrawal path is preserved as a fork, not merged. Held.",
+        "Why the span appears in unassociated files (twice found in records with no prior Row association; first sighting under an undisturbed strongroom seal): recorded as relationship findings; no travel or selection mechanism invented. Held.",
+        "A reported terminus — either end landing on anything — has never occurred; the file calls it the most significant possible observation. None fabricated. Held.",
+        "The naming contrast with the archive's other bridges (one crossed in pairs, one not crossed at all): catalogue distinction preserved as recorded; no identities assigned to the unnamed spans. Held."
+      ],
+      "split": [
+        3,
+        13
+      ],
+      "repairs": [
+        {
+          "id": "R1-secc-movement",
+          "kind": "short appearance completion",
+          "careful": false,
+          "old": "| **Movement** | Stationary — a structure or location. |",
+          "new": "| **Movement** | Stationary, and it spreads rather than moves: grown crystal reaching across whatever documents and floors are in contact with it, both ends terminating in air. The register of movement is the list of documents it has entered. |"
+        },
+        {
+          "id": "R2-extended-span",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Extended Span* [**Debuff**] } | \"The bridge grows toward you — plank by plank, hungry for the other shore.\" | [The Bridge extends; new planks crawl toward the target.] | *Target suffers -10 Resilience; the bridge will not stop reaching.* **[10 Grudge DMG [Grudge]]** | When the target stands at the edge. |",
+          "new": "| { *The Extended Span* [**Debuff**] } | \"Nothing grows plank by plank and nothing is hungry — empty crystal reaching across the nearest connected document, and stopping where the connections stop. The hunger people report is their own conviction that somebody ought to have come by now.\" | [The extension is measured against the room's own fittings and against the ledger pages it is lying across, not against a shore.] | *Target suffers -10 Resilience; the span will not stop reaching, because reaching is all it is.* **[10 Grudge DMG [Grudge]]** | When the target waits at one end. |"
+        },
+        {
+          "id": "R3-the-sway",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Sway* [**Debuff**] } | \"The whole span sways — and your balance goes with it.\" | [The Bridge undulates; the target cannot find solid footing.] | *Target loses 10 Resilience; the ground is not trustworthy.* **[10 Grudge DMG [Grudge]]** | When the target steps onto the Bridge. |",
+          "new": "| { *The Sway* [**Debuff**] } | \"The span does not sway underfoot, because nobody stands on it: it terminates in air at both ends, it carries nothing, and crossing is the single prohibited action on this file. The unsteadiness is in the worker who is about to help.\" | [The first small service — a form carried, a question answered for somebody — is the reading; the session stops at the first such act, not the third.] | *Target loses 10 Resilience; the ground was never the untrustworthy part.* **[10 Grudge DMG [Grudge]]** | When the target starts acting on another's behalf. |"
+        },
+        {
+          "id": "R4-splinter-plank",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Splinter Plank* [**Attack**] } | \"A plank breaks loose and swings up like a bat.\" | [A section of bridge lashes upward at the target.] | *Inflicts Grudge pressure and one heavy, wooden wound.* **[14-22 Grudge DMG [Grudge]]** | When the Bridge is trodden wrong. |",
+          "new": "| { *The Splinter Plank* [**Attack**] } | \"There are no planks and nothing wooden anywhere in the record. What breaks loose, when it does, is an entry: a document connecting two people who have not spoken, now with crystal lying across both their names.\" | [The audit reports span sightings as a relationship finding, not as a containment event.] | *Inflicts Grudge pressure; the wound is documentary and is entered by name.* **[14-22 Grudge DMG [Grudge]]** | When the span enters a new ledger. |"
+        },
+        {
+          "id": "R5-the-collapse",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Collapse* [**Attack**] } | \"The bridge gives way — and the fall is a long one.\" | [The Bridge drops the target into the chasm beneath: the span ends in air and the air is where the weight goes.] | *A heavy Crimson plummet; the target's Sorrow Gauge surges 15%. The 386 HP line is untouched — the Bridge does not break when it drops somebody, because it was never carrying anything.* **[24-36 Grudge DMG [Grudge]]** | When a worker crosses alone, which is the single prohibited action. |",
+          "new": "| { *The Collapse* [**Attack**] } | \"It cannot give way, because it was never carrying anything, and there is no chasm under it — no river below and no shore ahead. What gives way is the solitary crosser's version of events.\" | [A worker who crosses alone arrives nowhere, both ends still in air, and finds the whole relationship in their own hands.] | *A heavy Crimson fall with no height to it; the target's Sorrow Gauge surges 15%. The 386 HP line is untouched — the Bridge does not break, because it was never carrying anything.* **[24-36 Grudge DMG [Grudge]]** | When a worker crosses alone, which is the single prohibited action. |"
+        },
+        {
+          "id": "R6-quote-block",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "> **This Relic can Benefit the Facility**\n> **This Relic is Capable of Operative Alteration**\n> **This Relic Extracts Personal Resilience upon Extended Use**",
+          "new": "> **This Relic makes a distance legible. It does not cross it, shorten it or sign for it.**\n> **This Relic escalates with proxies: every act done for somebody else is a plank.**\n> **One person may carry the entire relationship. It is always the helpful one.**"
+        },
+        {
+          "id": "R7-use-mode",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Use Mode** | **Equippable / mounting use** |",
+          "new": "| **Use Mode** | **At one end, in person; nothing is equipped, mounted or carried.** The span lies across its documents and is waited at, not taken anywhere. |"
+        },
+        {
+          "id": "R8-termination",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Termination / Return** | The operative sets the relic down without performing anything on anyone else's behalf and logs the session. Ending early is safe; ending with an act of help in the last minute is not, because the span reads a proxy as a crossing however late it comes, and the trauma on the extraction is the Grudge that act leaves owing. |",
+          "new": "| **Termination / Return** | The operative steps away from the end without performing anything on anyone else's behalf and logs the session. Ending early is safe; ending with an act of help in the last minute is not, because the span reads a proxy as a crossing however late it comes. Nothing is set down and nothing is extracted — what the act leaves owing is the Grudge itself. |"
+        },
+        {
+          "id": "R9-operational-rule",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "**Operational Rule:** The relic functions only while carried, and it cannot replace a scheduled Work Type. Containment of this record is a documentary measure and is unaffected by what the operative is carrying — a relic in hand has never shortened the span.",
+          "new": "**Operational Rule:** Nothing here is carried, and the profile that assumes a carried relic is retained as a class entry only. Containment of this record is a documentary measure: the reading is taken from the documents the span has reached, not from the perimeter, and a relic in hand has never shortened the span."
+        },
+        {
+          "id": "R10-log-10s",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 10 Seconds | The span rests until an operative takes it up; on contact the char-smell sharpens and the bearer feels the conviction that somebody ought to have come by now — the first symptom, and the one the log has to catch before it is mistaken for their own mood. | The primary resonance opens: a temporary emotional connection. Grudge resistance reads +10% while equipped, which the file notes is the piece protecting itself from the pressure it is made of. |",
+          "new": "| 10 Seconds | The span rests where it lies and nobody takes it up; the first sign is the char-smell sharpening over the cold surface, and the first sensation is the conviction that somebody ought to have come by now — the symptom the log has to catch before it is mistaken for the worker's own mood. | Touching one end while naming the other person opens the connection. No resistance is granted for it; the 25% Grudge figure is the span's own material, durable against the pressure it was made from, and is not borrowed by whoever waits beside it. |"
+        },
+        {
+          "id": "R11-log-30s",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 30 Seconds | The bearer begins perceiving the family's arrangements — a meeting across Collector's Row, a date revised and revised again — and reads the letters as addressed to them. The known hazard is not the vision; it is that the bearer starts thinking of the debt as something they could clear for them. | Combat focus and action speed rise while composure falls, and the file records the pairing as the piece's real cost rather than the damage figures: a bearer who feels capable is a bearer about to help. |",
+          "new": "| 30 Seconds | The bearer begins perceiving the family's arrangements — a meeting across Collector's Row, a date revised and revised again — and reads the letters as addressed to them. The known hazard is not the vision; it is that the bearer starts thinking of the debt as something they could clear for them. | Nothing quickens and no combat focus rises. The file records the real cost plainly: a bearer who feels capable is a bearer about to help, and capability at this post is the warning, not the benefit. |"
+        },
+        {
+          "id": "R12-log-1min",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 1 Minute | The toll starts: the bearer's breath synchronises with the resonance of the original waiting, and the log's marker is that their account of the session begins to include acts they did not perform. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds. Any entry made by the bearer for another person during this window is logged separately and ends the session. |",
+          "new": "| 1 Minute | No toll starts. The log's marker is subtler: the worker's account of the session begins to include acts they did not perform — the form they were about to carry, the answer they were about to give for somebody. | No damage accrues on any interval. Any entry made by the bearer for another person during this window is logged separately and ends the session, because the span reads every proxy as a crossing. |"
+        },
+        {
+          "id": "R13-log-2min",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 2 Minutes | Wear it past two minutes and the bearer becomes the one who first wept over the span: the boundary between their identity and the historical sorrow stops holding, and they will defend the family's arrangement as their own. | Exceeding 2 minutes of continuous wear, or setting the piece down with a proxy act in the final moment, triggers acute panic. The recorded outcome is exactly the risk clause: one person carries the entire relationship, and in the file's cases it was the bearer. |",
+          "new": "| 2 Minutes | Past two minutes nothing gives way and nobody becomes the family's first weeper. What the file watches for is quieter: the worker starting to defend the arrangement as their own, and explaining why the other side should have moved first. | Nobody panics on schedule. The recorded outcome is exactly the risk clause: one person carries the entire relationship, and in the file's cases it was the bearer — named in the log by the proxy acts they performed, not by any interval they exceeded. |"
+        },
+        {
+          "id": "R14-response-sequence",
+          "kind": "careful event correction",
+          "careful": true,
+          "old": "**Response sequence:** Secure the perimeter, confirm the event is an expansion rather than an activation, withdraw personnel who are party to any obligation the span has grown into, and then satisfy the management condition: both sides entering, separately and in their own hand, that the distance is still there. Report which ledgers were involved and whether any entry was made by a proxy.",
+          "new": "**Response sequence:** There is no perimeter to secure; the containment reading is taken from the documents the span has reached. Confirm the event is an expansion rather than an activation, withdraw personnel who are party to any obligation the span has grown into, and then satisfy the management condition: both sides entering, separately and in their own hand, that the distance is still there. Report which ledgers were involved and whether any entry was made by a proxy."
+        },
+        {
+          "id": "R15-observation-notes",
+          "kind": "short record completion",
+          "careful": false,
+          "old": "**Observation Notes:**\n- See Origin section for formation details.\n- See Combat Record for engagement parameters.",
+          "new": "**Observation Notes:**\n- Formed from a meeting promised and prevented: the Keepers hold both sides' unsent letters in one envelope, dated the same season, giving almost identical reasons for waiting.\n- Both extremities terminate in air; the span is found lying across documents connecting two people with an unpaid obligation between them, first in a debt ledger two sectors from its chamber under an undisturbed seal, three times since in the same pattern."
+        },
+        {
+          "id": "R16-cross-references",
+          "kind": "short record completion",
+          "careful": false,
+          "old": "**Cross-References:** See entity’s interaction record and cross-references in the full file.",
+          "new": "**Cross-References:** The Broken Promise · Bridge of the Unchosen (the frozen span) · The Inherited Debt · the two unsent letters, held in one envelope · the audit office's relationship-finding series."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIβ-488_Friendless_Bridge_스며든_다리.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.021  clean   857 grams  M.A.W. Equipment\n 0.007  clean   446 grams  기록 (Registrum)\n 0.006  clean   163 grams  Operational Parameters\n 0.006  clean   494 grams  관찰 기록 (Observation Log)\n 0.002  clean   883 grams  Combat Record\n 0.002  clean   906 grams  감각 묘사 (Flavor Text)\n 0.000  clean   763 grams  Activation Behavior\n 0.000  clean   351 grams  이야기 (Narratio)\n 0.000  clean   326 grams  이야기 보고 (Story Log)\n 0.000  clean   300 grams  Appearance\n 0.000  clean   202 grams  Watch Record\n 0.000  clean   189 grams  Trivia\n 0.000  clean   181 grams  Behavior\n 0.000  clean   180 grams  Origin\n 0.000  clean    94 grams  최종 관찰 (Final Observation)\n 0.000  clean    62 grams  증언 (Testimonium)\n 0.000  clean    34 grams  SECC Classification\n 0.000  clean    28 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   43   1  - Viderehan and Ferrehan are the only valid approaches; the object cannot be engaged emotionally or confronted.\n   86   2  | { *Bridges Panopticon* [**Ultimate**] } | \"The bridge does not stop — it spans the whole field, wall to wall, and then keeps goi\n  214   7  **Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that hums faintly when gripped. The grudge does not\n  237   6  **Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries the char-smell of the span it came from. \n  257   2  **Appearance:** a bracelet of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow. It is worn at the tail, \n  279   3  | **Before use** | Wielder, piece, the day's reading, and a written statement of what the wielder owes and to whom — the pieces ca\n  284   4  **Stat interpretation:** Field performance and human cost are separate axes and diverge sharply here. The fang and the plate are b\n  306   3  **Observation method:** Record the first sign, which is char-smell over a cold surface; the first sensation, which is the convicti\n  358   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  412   3  **Review requirement:** Re-verify after any Sorrow Tide, after any audit of Row ledgers, and after any entry made in the facility \nGENERIC 0.005  (33 shared shingles)  SE-N-IIβ-488_Friendless_Bridge_스며든_다리.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-488-A__SIDE_CODEX_Friendless_Bridge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-488-B__MAW-W_The_Bridge_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-488-C__MAW-S_The_Bridge_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-488-D__MAW-G_The_Bridge_Bracelet.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-488-A__SIDE_CODEX_Friendless_Bridge.md": "51e96109ff6b1fc09e5da1c749a029978f56c36740ac125d091e1b1c89976861",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-488-B__MAW-W_The_Bridge_Fang.md": "caed1ebbbd0ac2dec5f0da29b0c8ae8ec9f9e791ebf77d01e5f1b198ba93465c",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-488-C__MAW-S_The_Bridge_Plate.md": "ba1e9c0aa3f159757bac973c942cb1f514ddc0d56e3bb6dba609722ede43225f",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-488-D__MAW-G_The_Bridge_Bracelet.md": "fd15259f6797af29fda0eb2461e7a88c4a920341dd255641f12ad83f3f1811c2"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IIβ-488_Friendless_Bridge_스며든_다리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-488_Friendless_Bridge_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%8B%A4%EB%A6%AC.md \"SE-N-IIβ-488_Friendless_Bridge_스며든_다리.md\")]",
+      "table_link": "[[SE-N-IIβ-488 Friendless Bridge](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-488_Friendless_Bridge_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%8B%A4%EB%A6%AC.md \"SE-N-IIβ-488_Friendless_Bridge_스며든_다리.md\")]",
+      "reading": {
+        "before_lines": 450,
+        "before_bytes": 50994,
+        "final_lines": 450,
+        "final_bytes": 53068
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 35,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Digits changed by provenance documented inside repairs: the worn-relic template's '+10% resistance' (10), '5 Grudge damage every 15 seconds past 60 seconds' (5, 15, 60) and 'Exceeding 2 minutes' panic threshold (2) were removed; the file's own 25% Grudge material figure was cited once in the 10-second log. Combat damage bands and the 386/60%/25% series retained."
       }
     }
   ]

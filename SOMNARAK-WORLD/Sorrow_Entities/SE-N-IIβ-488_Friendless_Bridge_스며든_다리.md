@@ -15,7 +15,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A bridge-shaped object of empty crystal that spreads across ledgers and floors without ever connecting two physical points — a span to nowhere. Fever-cold, it smells of char; it crosses nothing, yet cannot be walked off. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement** | Stationary, and it spreads rather than moves: grown crystal reaching across whatever documents and floors are in contact with it, both ends terminating in air. The register of movement is the list of documents it has entered. |
 | **Location** | Zone C, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Extended Span* [**Debuff**] } | "The bridge grows toward you — plank by plank, hungry for the other shore." | [The Bridge extends; new planks crawl toward the target.] | *Target suffers -10 Resilience; the bridge will not stop reaching.* **[10 Grudge DMG [Grudge]]** | When the target stands at the edge. |
-| { *The Sway* [**Debuff**] } | "The whole span sways — and your balance goes with it." | [The Bridge undulates; the target cannot find solid footing.] | *Target loses 10 Resilience; the ground is not trustworthy.* **[10 Grudge DMG [Grudge]]** | When the target steps onto the Bridge. |
-| { *The Splinter Plank* [**Attack**] } | "A plank breaks loose and swings up like a bat." | [A section of bridge lashes upward at the target.] | *Inflicts Grudge pressure and one heavy, wooden wound.* **[14-22 Grudge DMG [Grudge]]** | When the Bridge is trodden wrong. |
-| { *The Collapse* [**Attack**] } | "The bridge gives way — and the fall is a long one." | [The Bridge drops the target into the chasm beneath: the span ends in air and the air is where the weight goes.] | *A heavy Crimson plummet; the target's Sorrow Gauge surges 15%. The 386 HP line is untouched — the Bridge does not break when it drops somebody, because it was never carrying anything.* **[24-36 Grudge DMG [Grudge]]** | When a worker crosses alone, which is the single prohibited action. |
+| { *The Extended Span* [**Debuff**] } | "Nothing grows plank by plank and nothing is hungry — empty crystal reaching across the nearest connected document, and stopping where the connections stop. The hunger people report is their own conviction that somebody ought to have come by now." | [The extension is measured against the room's own fittings and against the ledger pages it is lying across, not against a shore.] | *Target suffers -10 Resilience; the span will not stop reaching, because reaching is all it is.* **[10 Grudge DMG [Grudge]]** | When the target waits at one end. |
+| { *The Sway* [**Debuff**] } | "The span does not sway underfoot, because nobody stands on it: it terminates in air at both ends, it carries nothing, and crossing is the single prohibited action on this file. The unsteadiness is in the worker who is about to help." | [The first small service — a form carried, a question answered for somebody — is the reading; the session stops at the first such act, not the third.] | *Target loses 10 Resilience; the ground was never the untrustworthy part.* **[10 Grudge DMG [Grudge]]** | When the target starts acting on another's behalf. |
+| { *The Splinter Plank* [**Attack**] } | "There are no planks and nothing wooden anywhere in the record. What breaks loose, when it does, is an entry: a document connecting two people who have not spoken, now with crystal lying across both their names." | [The audit reports span sightings as a relationship finding, not as a containment event.] | *Inflicts Grudge pressure; the wound is documentary and is entered by name.* **[14-22 Grudge DMG [Grudge]]** | When the span enters a new ledger. |
+| { *The Collapse* [**Attack**] } | "It cannot give way, because it was never carrying anything, and there is no chasm under it — no river below and no shore ahead. What gives way is the solitary crosser's version of events." | [A worker who crosses alone arrives nowhere, both ends still in air, and finds the whole relationship in their own hands.] | *A heavy Crimson fall with no height to it; the target's Sorrow Gauge surges 15%. The 386 HP line is untouched — the Bridge does not break, because it was never carrying anything.* **[24-36 Grudge DMG [Grudge]]** | When a worker crosses alone, which is the single prohibited action. |
 | { *Bridges Panopticon* [**Ultimate**] } | "The bridge does not stop — it spans the whole field, wall to wall, and then keeps going." | [The Bridge engulfs the entire area in its hungry extension, and the extension is through documents as much as through air.] | *All personnel suffer Grudge pressure for three turns under the spreading span. What spreads is not the crystal but the obligation: the filings it lands across are the ones with two names and no response.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the reading passes the 60% activation mark and the span has begun to reach documents rather than a room. |
 
 ### Battle Phases
@@ -150,9 +150,9 @@ The two available approaches divide the work between what the span shows and wha
 **Reading the response:** A falling reading under Ferrehan means a worker waited at one end and did not start across on anyone's behalf. Stability under Viderehan is correct. The reading rises on unilateral acts: crossing alone, signing for somebody, settling a debt that was not yours, or assuring one party that the other would have wanted something.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This Relic makes a distance legible. It does not cross it, shorten it or sign for it.**
+> **This Relic escalates with proxies: every act done for somebody else is a plank.**
+> **One person may carry the entire relationship. It is always the helpful one.**
 
 **Activation Trigger:** Touching one end while naming the other person.
 
@@ -167,29 +167,29 @@ The two available approaches divide the work between what the span shows and wha
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode** | **At one end, in person; nothing is equipped, mounted or carried.** The span lies across its documents and is waited at, not taken anywhere. |
 | **Activation** | Touching one end while naming the other person. |
 | **Primary Effect** | Creates a temporary emotional connection. |
 | **Duration** | Until the connection is acknowledged or withdrawn. |
-| **Termination / Return** | The operative sets the relic down without performing anything on anyone else's behalf and logs the session. Ending early is safe; ending with an act of help in the last minute is not, because the span reads a proxy as a crossing however late it comes, and the trauma on the extraction is the Grudge that act leaves owing. |
+| **Termination / Return** | The operative steps away from the end without performing anything on anyone else's behalf and logs the session. Ending early is safe; ending with an act of help in the last minute is not, because the span reads a proxy as a crossing however late it comes. Nothing is set down and nothing is extracted — what the act leaves owing is the Grudge itself. |
 | **Risk** | One person may carry the entire relationship. |
 
-**Operational Rule:** The relic functions only while carried, and it cannot replace a scheduled Work Type. Containment of this record is a documentary measure and is unaffected by what the operative is carrying — a relic in hand has never shortened the span.
+**Operational Rule:** Nothing here is carried, and the profile that assumes a carried relic is retained as a class entry only. Containment of this record is a documentary measure: the reading is taken from the documents the span has reached, not from the perimeter, and a relic in hand has never shortened the span.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The span rests until an operative takes it up; on contact the char-smell sharpens and the bearer feels the conviction that somebody ought to have come by now — the first symptom, and the one the log has to catch before it is mistaken for their own mood. | The primary resonance opens: a temporary emotional connection. Grudge resistance reads +10% while equipped, which the file notes is the piece protecting itself from the pressure it is made of. |
-| 30 Seconds | The bearer begins perceiving the family's arrangements — a meeting across Collector's Row, a date revised and revised again — and reads the letters as addressed to them. The known hazard is not the vision; it is that the bearer starts thinking of the debt as something they could clear for them. | Combat focus and action speed rise while composure falls, and the file records the pairing as the piece's real cost rather than the damage figures: a bearer who feels capable is a bearer about to help. |
-| 1 Minute | The toll starts: the bearer's breath synchronises with the resonance of the original waiting, and the log's marker is that their account of the session begins to include acts they did not perform. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds. Any entry made by the bearer for another person during this window is logged separately and ends the session. |
-| 2 Minutes | Wear it past two minutes and the bearer becomes the one who first wept over the span: the boundary between their identity and the historical sorrow stops holding, and they will defend the family's arrangement as their own. | Exceeding 2 minutes of continuous wear, or setting the piece down with a proxy act in the final moment, triggers acute panic. The recorded outcome is exactly the risk clause: one person carries the entire relationship, and in the file's cases it was the bearer. |
+| 10 Seconds | The span rests where it lies and nobody takes it up; the first sign is the char-smell sharpening over the cold surface, and the first sensation is the conviction that somebody ought to have come by now — the symptom the log has to catch before it is mistaken for the worker's own mood. | Touching one end while naming the other person opens the connection. No resistance is granted for it; the 25% Grudge figure is the span's own material, durable against the pressure it was made from, and is not borrowed by whoever waits beside it. |
+| 30 Seconds | The bearer begins perceiving the family's arrangements — a meeting across Collector's Row, a date revised and revised again — and reads the letters as addressed to them. The known hazard is not the vision; it is that the bearer starts thinking of the debt as something they could clear for them. | Nothing quickens and no combat focus rises. The file records the real cost plainly: a bearer who feels capable is a bearer about to help, and capability at this post is the warning, not the benefit. |
+| 1 Minute | No toll starts. The log's marker is subtler: the worker's account of the session begins to include acts they did not perform — the form they were about to carry, the answer they were about to give for somebody. | No damage accrues on any interval. Any entry made by the bearer for another person during this window is logged separately and ends the session, because the span reads every proxy as a crossing. |
+| 2 Minutes | Past two minutes nothing gives way and nobody becomes the family's first weeper. What the file watches for is quieter: the worker starting to defend the arrangement as their own, and explaining why the other side should have moved first. | Nobody panics on schedule. The recorded outcome is exactly the risk clause: one person carries the entire relationship, and in the file's cases it was the bearer — named in the log by the proxy acts they performed, not by any interval they exceeded. |
 
 ### Escalation Notes
 
 The span does not escalate with time or proximity; it escalates with proxies, and each one is a plank. The first act performed by somebody for somebody else — a form carried, a payment made quietly, a message passed on rather than sent — is the trigger; the visible change is the extension reaching the next document rather than the next room, and the point where it stops is where the documents stop being connected to the two people. Record the trigger before the extension, because the extension is what the sheet already measures and the trigger is what the next crew needs. The file's caution is exact: all three of the archetypal proxy acts were well meant.
 
-**Response sequence:** Secure the perimeter, confirm the event is an expansion rather than an activation, withdraw personnel who are party to any obligation the span has grown into, and then satisfy the management condition: both sides entering, separately and in their own hand, that the distance is still there. Report which ledgers were involved and whether any entry was made by a proxy.
+**Response sequence:** There is no perimeter to secure; the containment reading is taken from the documents the span has reached. Confirm the event is an expansion rather than an activation, withdraw personnel who are party to any obligation the span has grown into, and then satisfy the management condition: both sides entering, separately and in their own hand, that the distance is still there. Report which ledgers were involved and whether any entry was made by a proxy.
 
 ### Detailed Activation Record
 
@@ -399,9 +399,9 @@ Some sorrows are about separation. Friendless Bridge is about the promised reuni
 - Nothing is sealed. The span continues to extend through ledgers held in other rooms while its own chamber is shut, so the containment reading is taken from the documents it has reached rather than from the perimeter.
 - No member of the crew acts for another during a session: no proxy signature, no quiet payment, no message carried. The first such act ends the session and is logged by name.
 **Observation Notes:**
-- See Origin section for formation details.
-- See Combat Record for engagement parameters.
-**Cross-References:** See entity’s interaction record and cross-references in the full file.
+- Formed from a meeting promised and prevented: the Keepers hold both sides' unsent letters in one envelope, dated the same season, giving almost identical reasons for waiting.
+- Both extremities terminate in air; the span is found lying across documents connecting two people with an unpaid obligation between them, first in a debt ledger two sectors from its chamber under an undisturbed seal, three times since in the same pattern.
+**Cross-References:** The Broken Promise · Bridge of the Unchosen (the frozen span) · The Inherited Debt · the two unsent letters, held in one envelope · the audit office's relationship-finding series.
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** A family of Collector's Row, both sides, jointly; the file declines to name one of them as the originator, since the record exists precisely because neither moved first.
 

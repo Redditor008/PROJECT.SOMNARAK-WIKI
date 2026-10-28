@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IIβ-488": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_05_FRIENDLESS_BRIDGE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -5035,8 +5047,23 @@
     {
       "designation": "N-IIβ-488",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-488_Friendless_Bridge_스며든_다리.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Sixteen source-supported repairs (3 short / 13 careful): an empty-crystal span that crosses nothing stops growing planks, swaying underfoot, swinging timber, collapsing over a chasm, being taken up/carried for +10% resistance and dealing a 15-second toll; the rows return to the file's proxy doctrine — act for someone and the span takes the next document. HELD; no credit (per-piece dispositions from the individual records already integrated in the primary; direct SE-488).",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_05_FRIENDLESS_BRIDGE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-488-A__SIDE_CODEX_Friendless_Bridge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-488-B__MAW-W_The_Bridge_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-488-C__MAW-S_The_Bridge_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-488-D__MAW-G_The_Bridge_Bracelet.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIβ-560",
