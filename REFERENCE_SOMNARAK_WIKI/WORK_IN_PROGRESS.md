@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 196 — OPEN, 1 / 5 (2026-10-28)
+## Batch 196 — OPEN, 2 / 5 (2026-10-28)
+
+**Unit 2 — Driftglass `O-IIIγ-914`: HELD, +0.** Ten repairs (1 short / 9 careful; 8,251→8,434 words): a never-fixed drift stops being an escape; exact set SE-1040. Credit barred by the in-file 2026-10-11 review. [Evidence](SE_APPEARANCE_REVIEWS/B196_02_DRIFTGLASS.md).
 
 **Unit 1 — Anonym `O-Iα-126`: HELD, +0.** Nine repairs (3 short / 6 careful; 8,247→8,411 words): a spaceless Subject stops splashing. Credit barred by the Side's 2026-10-11 title review. [Evidence](SE_APPEARANCE_REVIEWS/B196_01_ANONYM.md).
 

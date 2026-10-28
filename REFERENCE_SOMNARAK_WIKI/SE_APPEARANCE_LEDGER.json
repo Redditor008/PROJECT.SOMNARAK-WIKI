@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-IIIγ-914": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_02_DRIFTGLASS.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -6207,8 +6219,29 @@
     {
       "designation": "O-IIIγ-914",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-914_Driftglass_떠도는_영혼.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Ten source-supported repairs (1 short / 9 careful): a never-fixed drift stops being a fixed object, an Escape breach and a Transform; the frost-to-bone passage becomes unattached loss; the log loses its aura/tick template. HELD; no credit (in-file full-set source review dated 2026-10-11; exact set SE-1040, not SE-914).",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_02_DRIFTGLASS.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-A__SIDE_CODEX_Wanderer_Without_a_Destination.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-B__MAW-W_Wanderer_Without_a_Destination_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-C__MAW-S_Wanderer_Without_a_Destination_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-D__MAW-G_Wanderer_Without_a_Destination_Lantern.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IIIγ-915",

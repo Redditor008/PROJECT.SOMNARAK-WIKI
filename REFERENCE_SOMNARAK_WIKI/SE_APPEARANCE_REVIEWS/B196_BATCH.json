@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 196,
   "status": "OPEN",
-  "completed_units": 1,
+  "completed_units": 2,
   "required_units": 5,
   "queue": [
     {
@@ -211,8 +211,185 @@
         "source_files_unchanged": 10,
         "digit_sequence_change": "Sole digit change: the template Speed figure 0.95 m/s is removed from a Subject that occupies no space; the record's non-spatial movement is stated instead. No other figure, date, score or count was altered."
       }
+    },
+    {
+      "designation": "O-IIIγ-914",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-914_Driftglass_떠도는_영혼.md",
+      "words": 8251,
+      "sha256": "94870eb91fd82c50c9338a920d770c1e9180296205671ef122437a89d6469022",
+      "unit": 2,
+      "name": "Driftglass",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_02_DRIFTGLASS.md",
+      "before_words": 8251,
+      "after_words": 8434,
+      "base": "07cb26ccbeceaaba8d8db13513e08d585c15dee4",
+      "final_sha256": "d941107019bf3ed5bd737f98b6268de852f5ea29cc18ab8504370ededed1bc5e",
+      "summary": "Ten source-supported repairs (1 short / 9 careful): a never-fixed drift stops being a fixed object, an Escape breach and a Transform; the frost-to-bone passage becomes unattached loss; the log loses its aura/tick template. HELD; no credit (in-file full-set source review dated 2026-10-11; exact set SE-1040, not SE-914).",
+      "commentary": "The record's discipline is that nothing here can be improved by steering it, and its one moving number — drift speed down eighteen per cent under an anchor — buys nothing a containment report can use. The repairs remove the three places the sheet still treated the wanderer as fixable: a fixed-object speed line, an escape to suppress, and a resting place waiting to be acknowledged.",
+      "reasoning": "Set SE-1040 identity resolved exactly as the in-file review records (O-IIIγ-914 [N] on every Side/item header; SE-914 is Amnesia, Registry rows 1015–1018, excluded); Registry rows 322–325 (Registry_1001_to_1043/1040_Wanderer_Without_a_Destination). Sentence triage: Speed said 'fixed object' of a holding that has never held a position; header/Breach table promised Transform/Escape/resting-place against the expansion-only doctrine; The Cold Passage frosted bones on being addressed; four Log rows pasted the aura/tick/panic template over the accompaniment record. R-18 split declared before the apply: 1 short / 9 careful.",
+      "history": "No credit — the primary carries a 'Full-set source review (2026-10-11)' against SE-1040-A/B/C/D, Registry rows 322–325, Master Entries 613–615, Tale 205 and archetypes MAW-W-914/MAW-W-1040, with name/reach/subtype holds stated. That is the coverage event; equipment_reviews has no 914 entry and none was added. Side A (66 lines) and items B/C/D read whole (58/58/57 lines; this item family has no Appearance sections) confirm the disposition; git path history shows only the B179 import. +0 all counters.",
+      "holds": [
+        "Names as held by the in-file review: primary/Master-table The Driftglass Harpoon-Pike / Driftglass Shroud / Driftglass Lantern vs Side/item Wanderer Without a Destination Requiem/Shroud/Lantern; Master table 613 Harpoon-Pike vs detailed Entry 613 Requiem; figures agree (Lament 7–12 / 3 / 3 / 3 / 40; suit 0.4/1.0/1.6/0.8, 3/35; Tail / 4% / +2 vs Registry Accessory / 5%).",
+        "Reach/subtype as held: MAW-W-914 glass-barbed pike assigns Long; linked MAW-W-1040-01 maps here while MAW-W-1040 is a Prismatic Star Signet / Long; Master Suit Hauberks & Chain Mail has no crosswalk to the Han-silk Shroud; Side/item Skewer and falloff unstated locally and not added.",
+        "Identity guard preserved: SE-914 is Amnesia (B168); this dossier's exact set is SE-1040. Note the Registry cross-wire the review did not touch: row 1016 files 'The Driftglass Harpoon-Pike' as Amnesia's weapon title while MAW-W-914-01 is Amnesia's Edge — Registry text unchanged.",
+        "Stigma conferral: primary lantern given for a full transit without suggesting a turning vs item D 4% after successful work; item terminal state (bearer as new site) vs the primary's route-home baseline regime — both standing.",
+        "411 non-repeating transits (a claim the file itself says cannot fail), three refused gate proposals, the field office's correct objection and ~1,200 accompaniment hours a year remain open record, untouched."
+      ],
+      "split": [
+        1,
+        9
+      ],
+      "repairs": [
+        {
+          "id": "R1-entity-type",
+          "kind": "careful classification correction",
+          "careful": true,
+          "old": "| **Entity Type** | **Object/Place** — Can breach via Transform |",
+          "new": "| **Entity Type** | **Object/Place** — Non-breaching: expansion only. Mishandled, the drift widens across more of the vault network and the range has never afterwards contracted; it does not escape, transform, or arrive. |"
+        },
+        {
+          "id": "R2-speed",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | Drift speed at every junction — an unhurried walk, never at rest, and the only figure here that has ever moved: it falls by about eighteen per cent while an anchor from outside the city is carried. |"
+        },
+        {
+          "id": "R3-cold-passage",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Cold Passage* [**Attack**] } | \"It walks through you — and the cold it brings stays where it passed.\" | [The Soul passes directly through, leaving frost behind.] | *Inflicts Lament pressure and one chill that reaches the bone.* **[14-22 Lament DMG [Lament]]** | When the Soul is addressed. |",
+          "new": "| { *The Cold Passage* [**Attack**] } | \"It walks through you — and nothing frosts and nothing chills to the bone. What stays where it passed is a loss with nothing attached to it: no person, no place, no event, only the condition.\" | [No engagement has ever been fought here; every logged incident is a session in which somebody tried to be helpful about the route.] | *Inflicts Lament pressure; the corridor stops reading as the worker's own building.* **[14-22 Lament DMG [Lament]]** | During accompaniment — never because it was addressed. |"
+        },
+        {
+          "id": "R4-breach-type",
+          "kind": "careful event correction",
+          "careful": true,
+          "old": "| **Breach Type** | Escape |",
+          "new": "| **Breach Type** | Expansion — the drift widens into corridors outside the mapped range; nothing escapes, because it was never held anywhere to escape from. |"
+        },
+        {
+          "id": "R5-breach-duration",
+          "kind": "careful event correction",
+          "careful": true,
+          "old": "| **Duration** | Until a resting place is acknowledged. |",
+          "new": "| **Duration** | Until the session ends; an anchor slows the drift by about a fifth for the length of it and does not stop it, and no resting place has ever been found, built or accepted. |"
+        },
+        {
+          "id": "R6-log-10s",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 10 Seconds | The piece lies still in the stow box until an operative takes it up; beneath the cloth it is already cold, and the field answers the pulse before the strap is fastened. | Wearing it opens the drift field: personnel lose the sense of belonging anywhere in particular, and the wearer carries +10% resistance to Lament while it is on them. |",
+          "new": "| 10 Seconds | The piece lies still in the stow box until an operative takes it up; beneath the cloth it is already cold, and the field answers the pulse before the strap is fastened. | Wearing it opens the drift field: personnel lose the sense of belonging anywhere in particular. Nothing here grants resistance, and the wearer's sealed route home is already on file because the cost is read off how that route behaves afterwards. |"
+        },
+        {
+          "id": "R7-log-30s",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 30 Seconds | The piece was cut from a drift, not from a body — a traveller came in from the Desolate carrying only sorrow, and this is the material that grief was found to answer to. | The wearer keeps the benefit and begins paying for it: reaction and focus sharpen, and composure is what buys them. |",
+          "new": "| 30 Seconds | The piece was cut from a drift, not from a body — a traveller came in from the Desolate carrying only sorrow, and this is the material that grief was found to answer to. | No reaction sharpens and no focus is bought. What begins is the urge to decide the route, and the second worker logs the junction where the wearer first proposes a turning. |"
+        },
+        {
+          "id": "R8-log-1min",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 1 Minute | The wearer's breath falls into step with the field, and the toll stops being theoretical — the second worker's log takes over from the wearer's own account here. | Past sixty seconds the piece inflicts 5 Lament damage every 15 seconds; the second worker watches for detachment and logs the hour of the first drift in the wearer's answers. |",
+          "new": "| 1 Minute | The wearer's breath falls into step with the field, and the toll stops being theoretical — the second worker's log takes over from the wearer's own account here. | No damage accrues on a timer; the exposure is in the hours, not the seconds. The second worker watches for the wearer stopping taking the shortest way and logs the hour of the first drift in their answers. |"
+        },
+        {
+          "id": "R9-log-2min",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 2 Minutes | Past two minutes the boundary thins: the wearer's own arriving places begin to read as the traveller's unfamiliar ones, and the piece is doing what the holding does. | Past two minutes, or a forced removal without a completed stow, acute panic and the recorded cost fall due together; the piece is not reissued to that wearer, and the Lantern is entered against their name. |",
+          "new": "| 2 Minutes | Past two minutes the boundary thins: the wearer's own arriving places begin to read as the traveller's unfamiliar ones, and the piece is doing what the holding does. | The session ends at a marked stow point rather than wherever the wearer is standing — the two-minute limit is this set's own, from its Field Use Record, not a property of the field. The piece is not reissued to that wearer on the next rotation, and the Lantern is entered against their name. |"
+        },
+        {
+          "id": "R10-management-generic",
+          "kind": "short factual correction",
+          "careful": false,
+          "old": "| **Management** | Provide a memory anchor; do not force a destination, under certified Tool protocol. |",
+          "new": "| **Management** | Provide a memory anchor; do not force a destination. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IIIγ-914_Driftglass_떠도는_영혼.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.027  clean   219 grams  Appearance\n 0.018  clean   112 grams  Operational Parameters\n 0.016  clean   246 grams  관찰 기록 (Observation Log)\n 0.016  clean   124 grams  최종 관찰 (Final Observation)\n 0.016  clean   812 grams  M.A.W. Equipment\n 0.014  clean   214 grams  Trivia\n 0.010  clean   590 grams  Combat Record\n 0.004  clean   275 grams  기록 (Registrum)\n 0.003  clean   588 grams  감각 묘사 (Flavor Text)\n 0.002  clean   403 grams  이야기 보고 (Story Log)\n 0.001  clean   884 grams  Warden Record\n 0.000  clean   698 grams  Activation Behavior\n 0.000  clean   332 grams  이야기 (Narratio)\n 0.000  clean   156 grams  Origin\n 0.000  clean   154 grams  Breach Behavior\n 0.000  clean   104 grams  Behavior\n 0.000  clean    38 grams  SECC Classification\n 0.000  clean    35 grams  증언 (Testimonium)\n 0.000  clean    27 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   85   6  | { *The Endless Wandering* [**Ultimate**] } | \"Every junction opens onto the same unfamiliar corridor, and none of it is yours.\" \n  122   6  | **Identification** | Verify these observations against the SECC code before work or contact begins; more than one record in this\n  239   2  **Ability:** Lament damage to the mind. The pike carries the record's signature — an arrival that never resolves into recognition \n  247   1  **Appearance:** a wrapping shroud of Lament Han-silk with the salt still in it, cut wide at the shoulders so the wearer can be see\n  257   5  **Ability:** Turns Lament aside from the mind, which is the only pressure here. The shroud does not stop the wearer reading every \n  285   1  | **Before use** | Wielder, piece, gauge at issue, and a sealed baseline of the wearer's own route home — asked for and written do\n  287   1  | **At limit** | Two minutes of continuous wear, or any forced removal. The second worker's call stands against the wearer's, and \n  292   3  **Full-set source review (2026-10-11):** Reviewed the `I-Relic (Indumentum) · γ` overview, all three local M.A.W. blocks, Use Note\n  315   4  **Observation method:** Record the first sign, which is cold rain-smell in a dry vault; the first sensation, which is the urge to \n  330   1  Management: Provide a memory anchor; do not force a destination. Work response — Viderehan: Reveals routes beyond the city. (Stabl\n  337   2  > The choice at the end of a session is one question, and the file shows it being answered wrongly more often than any other decis\n  369   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  424   1  **Review requirement:** After any expansion, Sorrow Tide, transformation attempt or unusual interaction: re-verify the junction in\n  469   1  The field office's objection is on the file and is read at every annual review. The accompaniment is establishment spent on an eff\n  483   3  - **Record detail:** Check the designation before approach. More than one holding in this archive moves, and they want opposite th\nGENERIC 0.007  (41 shared shingles)  SE-O-IIIγ-914_Driftglass_떠도는_영혼.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-A__SIDE_CODEX_Wanderer_Without_a_Destination.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-B__MAW-W_Wanderer_Without_a_Destination_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-C__MAW-S_Wanderer_Without_a_Destination_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-D__MAW-G_Wanderer_Without_a_Destination_Lantern.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-A__SIDE_CODEX_Wanderer_Without_a_Destination.md": "96f885399b02d17632b014a0c1dc8b621b23fd84854a5ad9501d271535f1b975",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-B__MAW-W_Wanderer_Without_a_Destination_Requiem.md": "4669b625a1871dcdb339d3f0197ab71d22649016fa665714be6ed7fe38b79d9d",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-C__MAW-S_Wanderer_Without_a_Destination_Shroud.md": "25b6e1adc68135acad1b634da97c6f254a7144a57a0ffdb5fb39bc84099b8950",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-D__MAW-G_Wanderer_Without_a_Destination_Lantern.md": "9ff5a3a59cd784b71a6218d92d948a919443a118f911169a98b23a79d77db135",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IIIγ-914_Driftglass_떠도는_영혼](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-914_Driftglass_%EB%96%A0%EB%8F%84%EB%8A%94_%EC%98%81%ED%98%BC.md \"SE-O-IIIγ-914_Driftglass_떠도는_영혼.md\")]",
+      "table_link": "[Driftglass](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-914_Driftglass_%EB%96%A0%EB%8F%84%EB%8A%94_%EC%98%81%ED%98%BC.md \"SE-O-IIIγ-914_Driftglass_떠도는_영혼.md\")",
+      "reading": {
+        "before_lines": 490,
+        "before_bytes": 49975,
+        "final_lines": 490,
+        "final_bytes": 51008
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 43,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": "Sole digit change is template removal: the deleted +10% resistance and 5-per-15-seconds tick disappear with their sentences. No other figure, date, score or count was altered."
+      }
     }
   ],
   "opened_at": "2026-10-28",
-  "completed": 1
+  "completed": 2
 }

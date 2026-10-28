@@ -8,7 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 196 — OPEN, 1 / 5 (2026-10-28)
+## Batch 196 — OPEN, 2 / 5 (2026-10-28)
+
+Unit 2 — **Driftglass `O-IIIγ-914`: HELD; credit-barred, +0.** 10 repairs (1s/9c; 8,251→8,434 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_02_DRIFTGLASS.md).
 
 Unit 1 — **Anonym `O-Iα-126`: HELD; credit-barred, +0.** 9 repairs (3s/6c; 8,247→8,411 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_01_ANONYM.md).
 
