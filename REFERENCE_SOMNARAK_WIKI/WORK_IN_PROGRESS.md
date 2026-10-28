@@ -1,7 +1,7 @@
 # Work In Progress
 
-## Batch 198 — OPEN, 0 / 5 (2026-10-28)
-Fresh ranking of 35 pending (LC_ALL=C wc -w ascending). Queue: `C-IVδ-092` (8,452w), `C-IVδ-503` (8,455w), `C-Iα-236` (8,470w), `N-IIIγ-874` (8,498w), `C-Iα-300` (8,500w). Units 1–4 are reviews 7–10 of this prompt.
+## Batch 198 — OPEN, 1 / 5 (2026-10-28)
+Unit 1 — **Pyre of Truths `C-IVδ-092`: HELD; credit-barred, +0.** 19 repairs (1s/18c; 8,452→8,646 words); direct SE-092. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_01_PYRE_OF_TRUTHS.md).
 ## Batch 197 — CLOSED, 5 / 5 (2026-10-28)
 All five HELD, No change 0, 70 repairs (13s/57c), no fresh credit (all barred by prior dispositions). Battery: 25/25 validators, 5/5 reconstruction, 35/35 fingerprints, audits PASS. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_CLOSE.md).
 ## Batch 196 — CLOSED, 5 / 5 (2026-10-28)

@@ -27,7 +27,20 @@
       "N-IIIγ-874",
       "C-Iα-300"
     ],
-    "reviewed": {}
+    "reviewed": {
+      "C-IVδ-092": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_01_PYRE_OF_TRUTHS.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -2380,8 +2393,23 @@
     {
       "designation": "C-IVδ-092",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Nineteen source-supported repairs (1 short / 18 careful): a fire that illuminates and has never produced ash stops igniting its books, screaming through them, hurling burning pages, erupting as a firestorm and spreading to every word ever written; generic consequence/response/interpretation boilerplate returns to the file's own instrument — pages permitted per written question, sealed transcripts, provenance denied. HELD; no credit (per-piece codex dispositions in the primary; Side terminology hold dated 2026-10-10; direct SE-092).",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_01_PYRE_OF_TRUTHS.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-A__SIDE_CODEX_Pyre_of_Truths.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-B__MAW-W_The_Burning_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-C__MAW-S_The_Burning_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-D__MAW-G_The_Burning_Page.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-103",

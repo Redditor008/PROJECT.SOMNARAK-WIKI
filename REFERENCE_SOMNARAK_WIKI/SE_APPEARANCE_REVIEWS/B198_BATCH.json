@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 198,
   "status": "OPEN",
-  "completed_units": 0,
+  "completed_units": 1,
   "required_units": 5,
   "queue": [
     {
@@ -42,6 +42,235 @@
     }
   ],
   "opened_at": "2026-10-28",
-  "completed": 0,
-  "units": []
+  "completed": 1,
+  "units": [
+    {
+      "designation": "C-IVδ-092",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md",
+      "words": 8452,
+      "sha256": "087489efa46b42aec3a712b6d818fc454a663e04d5dcbf735fb9943968dad20e",
+      "unit": 1,
+      "name": "Pyre of Truths",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_01_PYRE_OF_TRUTHS.md",
+      "before_words": 8452,
+      "after_words": 8646,
+      "base": "300ace34d83a869eda6711f838dc49420d1ff234",
+      "final_sha256": "3e21dd1ce9daad61bd12274ec3f39205939b345ab37dbce7374ca4e6a7f0e61b",
+      "summary": "Nineteen source-supported repairs (1 short / 18 careful): a fire that illuminates and has never produced ash stops igniting its books, screaming through them, hurling burning pages, erupting as a firestorm and spreading to every word ever written; generic consequence/response/interpretation boilerplate returns to the file's own instrument — pages permitted per written question, sealed transcripts, provenance denied. HELD; no credit (per-piece codex dispositions in the primary; Side terminology hold dated 2026-10-10; direct SE-092).",
+      "commentary": "The dossier corrects its own earlier editions in its Trivia: 'Nothing in the Library burns at all… the chamber has never produced ash.' Its combat table had not received the correction — books igniting, contents screaming as they were lost, a firestorm of every recorded memory. The repairs keep the heat where the file puts it: in the visitor's own notes first, then in corridors, oxygen and closed bays, with the collection untouched throughout. What this entity does to people was never burning; it is letting them know something true and then watching the seal go on.",
+      "reasoning": "Identity is direct: Side A carries SECC Designation `C-IVδ-092 [GP]`, Related Entity SE-092, set 4/4 (*Cindered Testament*), and its stat cards match the primary's Grimoire & Ash Lance / Burning Plate / Burning Page. R-18 split declared before editing: one short (the Detailed Risk placeholder 'the entity-specific effect documented in the Behavior and Activation sections') and eighteen careful (five combat rows consuming a collection the file proves unconsumed — 'It burns without fuel and consumes nothing', 'Nothing in the chamber has ever been charred, including paper held directly in them', 'the chamber has never produced ash'; three generic consequence rows against 'Nobody has been burned here' and expansion that 'has never once injured the person who triggered it'; generic stabilization boilerplate, escalation boilerplate, perimeter response, unaccountable-burns Final Observation, three template flavor rows, a generic post-contact row, and the Registrum's map-not-ground / living-pattern boilerplate). R-33 chain: decades of Council removals accumulated and caught → fire that illuminates without heat transfer → access governed by the observer's own written question → transcripts sealed under the deposit instrument → knowledge exact, permanent and unusable for want of provenance. The per-piece codex rules already in the primary (Lance action record, Plate end condition, Page consequence stages) and Side A's Fang/Skewer terminology hold were preserved exactly.",
+      "history": "Draft history runs from decades of removals under Council direction through the Year 4120 charter withdrawal (400 derived works), the standing deposit instrument with the municipal record office, and the refused Year 4230 qualified-admission application. Fresh equipment credit BARRED: the primary integrates per-piece dispositions from each individual codex ('Lance accountability' on item B's action-record-before-cooling, 'Plate withdrawal' on item C's failed transfer trial, 'Page consequence hold' on item D's return/removal stages), and Side A carries a dated (2026-10-10) linked-item terminology hold reconciling the grimoire-and-lance identity against residual Fang/Skewer language after revision `ebcbd249`. Ledger `equipment_reviews` has no C-IVδ-092 entry. Therefore Equipment reviewed +0/+0; Types and Weapon unchanged at 286/301 and 284/287.",
+      "holds": [
+        "Linked-item terminology: item B's Basic Attack and Signature Ability still say 'The Fang launches a crimson Skewer line' after revision `ebcbd249` replaced the Burning Fang identity with the Pyre Grimoire & Ash Lance. Preserved exactly as Side A's 2026-10-10 hold records it; no separate Fang form documented and none restored. Held.",
+        "Repeatability of a read truth: item D's history says Researcher Park could not repeat the Cheongula page's full content and could not forget it; the primary's personnel note has Park able to 'repeat it to you now, word for word'. The primary itself flags the pair ('neither account is completed from the other'); left standing. Held.",
+        "Whether every censored truth exists in the stacks or only those that accumulated sufficient collective pressure, and how books with no custody 'appear': recorded as unknown by both files. Held.",
+        "The oldest readable record predating the city's official founding: unverifiable by design under the provenance rule; the claim is preserved as the file frames it, not asserted as externally dated. Held.",
+        "The long middle line of inquiry in the question log pursued by three successive commanders and never resolved: recorded without content; none supplied. Held."
+      ],
+      "split": [
+        1,
+        18
+      ],
+      "repairs": [
+        {
+          "id": "R1-first-spark",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The First Spark* [**Debuff**] } | \"A book ignites — and the smoke carries the knowledge it held, now unreachable, now angry.\" | [The Library's burning releases resentment of forgotten knowledge.] | *Target suffers -10 Resilience; the lost knowledge weighs on them.* **[10 Grudge DMG [Grudge]]** | When the target enters the Library. |",
+          "new": "| { *The First Spark* [**Debuff**] } | \"Nothing ignites here. The fire has burned for decades and the chamber has never produced ash; what catches, on entry, is the visitor's own written notes warming in their hand.\" | [Heat gathers in the intruder's paperwork before it touches a shelf — the first warning is addressed to the person, not the collection.] | *Target suffers -10 Resilience; knowledge that cannot be used begins to weigh.* **[10 Grudge DMG [Grudge]]** | On entry with the wrong errand. |"
+        },
+        {
+          "id": "R2-spreading-fire",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Spreading Fire* [**Debuff**] } | \"The flames jump shelf to shelf — and each burning book screams as its contents are lost forever.\" | [The Library's fire spreads; the target hears every page dying.] | *Target loses 10 Resilience; the destruction of knowledge is unbearable.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |",
+          "new": "| { *The Spreading Fire* [**Debuff**] } | \"The flames do not jump shelf to shelf eating books — nothing in this chamber has ever been charred, including paper held directly in the fire. What spreads is access refused, bay by bay.\" | [Shelves close in sequence ahead of an approach that reads as inventory; each closure is logged with its second count.] | *Target loses 10 Resilience; what is unbearable is how much is intact and unusable.* **[10 Grudge DMG [Grudge]]** | When the target lingers with a list. |"
+        },
+        {
+          "id": "R3-burning-page",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Burning Page* [**Attack**] } | \"A page, aflame, flies free — sharp, hot, and carrying the last words it will ever hold.\" | [A burning page strikes the target.] | *Inflicts Grudge pressure and one searing wound of lost words.* **[14-22 Grudge DMG [Grudge]]** | When the Library is disturbed. |",
+          "new": "| { *The Burning Page* [**Attack**] } | \"No page flies free and no page is anybody's last words — the books turn themselves and stay bound. What the fire lights, for a reader who disturbed it, is the book that answers the question actually being asked.\" | [The adjacent answers are the ones the counsellors see most of; the page permitted is the whole of the effect.] | *Inflicts Grudge pressure; the searing is a sentence read and not citable anywhere.* **[14-22 Grudge DMG [Grudge]]** | When the Library is disturbed. |"
+        },
+        {
+          "id": "R4-full-inferno",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Inferno* [**Attack**] } | \"The entire library erupts — every book, every scroll, every recorded memory — all burning at once.\" | [Every shelf in the room goes up together and the smoke carries a read of the target's worst memory.] | *A heavy Crimson firestorm; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Library is attacked. |",
+          "new": "| { *The Full Inferno* [**Attack**] } | \"The library does not erupt and no shelf goes up — a firestorm is exactly what this fire has refused to be for decades. What fills is the corridor: crimson flame, falling oxygen, and a suppressed record become emotionally inescapable.\" | [The boundary is read from instruments, because the face and the hand disagree about the heat and both are wrong.] | *A heavy Crimson pressure with nothing combusting inside it; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | On hostile intent — to seize, destroy or enumerate. |"
+        },
+        {
+          "id": "R5-ashes-of-everything",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Ashes of Everything* [**Ultimate**] } | \"The fire spreads beyond the library — to every record, every archive, every word ever written — and the world goes dark with ignorance.\" | [The fire leaves its hearth and runs the perimeter of the field, taking every written edge it can reach.] | *All in range suffer Grudge pressure for three turns of burning knowledge.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Ashes of Everything* [**Ultimate**] } | \"There are no ashes and never have been. The fire does not run to every archive in the world; it runs the perimeter of this sector, and the darkness it threatens is the opposite of burning — everything here made legible at once, and none of it admissible.\" | [Withdraw, declare the preservation purpose aloud, and let an archive-authorised witness negotiate the return path.] | *All in range suffer Grudge pressure for three turns inside the spread, where the air is thin and the record will not stop being present.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+        },
+        {
+          "id": "R6-consequence-matrix",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- When resistance fails here, the pressure of Pyre of Truths goes straight through into the worker’s psychological matrix. **Resilience** is what settles the account, and the Sorrow Gauge afterwards climbs faster than it was climbing before.",
+          "new": "- When resistance fails here nothing is injured and nothing burns. What the worker carries out is knowledge: exact, permanent, and unusable outside the sealed transcription process — and the Resilience is spent living alongside it."
+        },
+        {
+          "id": "R7-consequence-exposure",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- The exposure risk accumulates by the minute rather than by the session: a worker who stays past the recommended cycle carries identity drift, cognitive Fracture and a room that will not hold its shape, each of them further along than the last check found it.",
+          "new": "- The exposure accumulates as burden rather than damage: workers leave carrying suppressed history they cannot discuss, and the carrying compounds across rotations — which is why endurance here is capped at a fraction of standard and the transcription clerks rotate on the readers' clock."
+        },
+        {
+          "id": "R8-consequence-denied",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- Denied its resolution condition, Pyre of Truths falls back on the destructive activation protocol. The peace it was refused comes back as heat, and the sorrow goes looking for a release of its own choosing instead of the one the work offered.",
+          "new": "- Denied its condition, the room does not go looking for a release of its own choosing. It expands: corridors fill with flame that burns nothing, the oxygen falls, and the defensive spread has still never injured the person who triggered it. The intent leaves the sector; then, over hours, so does the fire."
+        },
+        {
+          "id": "R9-reading-the-response",
+          "kind": "careful work-notes correction",
+          "careful": true,
+          "old": "**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede events. Log them, flag them, and adjust protocols accordingly before the next assignment.",
+          "new": "**Reading the response:** Success is counted in pages permitted against the exact wording of the question carried in. Own question, 44 per cent of shelves opened; question somebody set, 12 per cent. A falling average is not the collection shrinking — it is the wing's own curiosity failing under nine thousand four hundred sealed transcripts, and the file says so."
+        },
+        {
+          "id": "R10-escalation-notes",
+          "kind": "careful escalation correction",
+          "careful": true,
+          "old": "The escalation pattern is specific to Pyre of Truths: it is not a generic containment event. Personnel must record the first trigger, the first visible change in the Place-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Grudge and located at SECTOR-B-02, Zone B — contained, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.",
+          "new": "Escalation here has a signature the sheet already names: the first heat gathers in the visitor's own written notes before it touches a shelf. Record that first, then which bays closed and in what order, the instrumented boundary, and the moment the triggering intent left the sector — the skin's account of the edge is wrong in both directions and is not entered as data."
+        },
+        {
+          "id": "R11-response-sequence",
+          "kind": "careful event correction",
+          "careful": true,
+          "old": "**Response sequence:** establish a safe perimeter, identify whether the event is a manifestation or an expansion, remove nonessential personnel, and apply this condition: Approach with curiosity rather than possession or destruction. Do not use an unlisted Work Type as an improvised countermeasure.",
+          "new": "**Response sequence:** Withdraw without destroying or removing anything, declare the preservation purpose aloud, and let an archive-authorized witness negotiate the return path. Containment is curiosity, in writing, one question at a time; there is no other instrument that has worked here. Do not use an unlisted Work Type as an improvised countermeasure."
+        },
+        {
+          "id": "R12-detailed-risk",
+          "kind": "short factual completion",
+          "careful": false,
+          "old": "| **Risk** | This Critical (δ) Object/Place produces Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |",
+          "new": "| **Risk** | Critical (δ) Place-Grudge producing Grudge pressure. The fire transfers no heat to what it touches and nobody has been burned here; the risks are the oxygen falling inside an expansion and the specific weight of knowing something nobody will be permitted to act on. |"
+        },
+        {
+          "id": "R13-final-observation",
+          "kind": "careful observation correction",
+          "careful": true,
+          "old": "| The room keeps its temperature, the shelves are counted at the door and counted again on the way out, and the watch closes with the holding entered in full on the sheet. | The smoke turns inward and the room goes tight; the entry closes with a bearer who has burns they cannot account for and a shelf count that does not square. |",
+          "new": "| The room keeps its temperature, the question is filed with the pages permitted, and the transcript goes into the sealed series under its deposit number. | The shelves close within seconds and the oxygen dips in the corridor; the entry closes with an observer carrying a page they can repeat word for word and cite nowhere, and zero pages permitted to show for the session. |"
+        },
+        {
+          "id": "R14-flavor-continued",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "**With continued exposure:** Time in the containment zone moves differently. The Grudge pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Place-Grudge is teaching you its sorrow.",
+          "new": "**With continued exposure:** The strain is not the heat — your face and your hand stopped agreeing about that within the first minute. It is the accumulation: true sentences, exactly kept, that you will seal into a transcript nobody may act on, and then go back in for more on the next rotation."
+        },
+        {
+          "id": "R15-flavor-activates",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "**When the entity activates:** The gauge tips and the Grudge stops being something the room is holding and becomes something it is doing: the fire leaves the hearth line and starts choosing its edges.",
+          "new": "**When the entity activates:** Your own notes warm first. Then the bays begin closing ahead of you in sequence, the corridor behind you is crimson to the ceiling, and the air is thinner than it was — and still, at every shelf you pass, not one page is burning."
+        },
+        {
+          "id": "R16-flavor-departure",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "**After departure:** The door seals and the pressure drops, but residue clings — Grudge in the suit fibres, in the memory, in the space between thoughts where Fracture begins.",
+          "new": "**After departure:** What clings is not residue in the fibres. It is recall, verbatim and unsolicited, of a page you may not quote — the smoke taste the file mentions, and a sense of having been read at least as thoroughly as you read."
+        },
+        {
+          "id": "R17-post-contact-review",
+          "kind": "careful observation correction",
+          "careful": true,
+          "old": "| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Pyre of Truths's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |",
+          "new": "| **Post-contact review** | The question as written, pages permitted, shelves opened and closed, boundary heat, the transcript's deposit number, and any onward disclosure that was requested and refused. A report recording only danger has omitted the sorrow the entity preserves. |"
+        },
+        {
+          "id": "R18-operational-interpretation",
+          "kind": "careful record correction",
+          "careful": true,
+          "old": "**Operational interpretation:** What is written here is a map and not the ground: the code, the thresholds and the kit notes are for reading the room, never for standing in for it, and the behavior, the Work Type response, the activation term, the kit risk and the interaction table hold only together. This file will be wrong at some point. When it is, the watch that found the error preserves it as evidence rather than tidying it out of the record.",
+          "new": "**Operational interpretation:** Read this file as two facts held apart on purpose: the material is intact, legible and freely read inside the chamber, and it fails on provenance alone outside it. The thresholds, kit notes and page counts describe how the wing behaves toward the first fact; they create no standing whatsoever for the second, and no reading in the stacks may be cited as if it did."
+        },
+        {
+          "id": "R19-review-requirement",
+          "kind": "careful record correction",
+          "careful": true,
+          "old": "**Review requirement:** Every manifestation, every Sorrow Tide and every transformation attempt voids the baseline standing at the top of this file, so the watch re-verifies before it proceeds: exposure and duration, and the holding's position, after every event, and after any interaction that does not read like the ones on file. What this sheet describes is a living pattern of sorrow, not a finished account.",
+          "new": "**Review requirement:** Quarterly against the question log and the deposit series: pages permitted by question type (own versus set), shelf-open percentages, boundary instruments, reader and clerk rotation against the cap, and any disclosure requested and refused since the last review. The annual reading of what the stacks say about the Keepers is part of the review and is attended by the municipal record office."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.034  clean   146 grams  Trivia\n 0.011  clean   699 grams  Combat Record\n 0.007  clean   271 grams  관찰 기록 (Observation Log)\n 0.005  clean   784 grams  M.A.W. Equipment\n 0.004  clean   283 grams  기록 (Registrum)\n 0.003  clean   664 grams  감각 묘사 (Flavor Text)\n 0.000  clean  1470 grams  Apex Record\n 0.000  clean   412 grams  이야기 (Narratio)\n 0.000  clean   380 grams  이야기 보고 (Story Log)\n 0.000  clean   254 grams  Expansion Behavior\n 0.000  clean   208 grams  Origin\n 0.000  clean   202 grams  Appearance\n 0.000  clean   193 grams  Behavior\n 0.000  clean   141 grams  최종 관찰 (Final Observation)\n 0.000  clean   113 grams  Operational Parameters\n 0.000  clean    45 grams  증언 (Testimonium)\n 0.000  clean    39 grams  SECC Classification\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   84   2  | { *The Full Inferno* [**Attack**] } | \"The library does not erupt and no shelf goes up — a firestorm is exactly what this fire h\n   85   6  | { *The Ashes of Everything* [**Ultimate**] } | \"There are no ashes and never have been. The fire does not run to every archive i\n  239   2  **Appearance:** a page-tile of Grudge Han-iron, dark and faintly warm, that holds the shadows of lines that were never printed on \n  243   2  **Effect:** +3 stat bonus while working the source holding, entered at issue and struck from the sheet the day the bearer stops go\n  286   2  | **Initial exposure** | The observer identifies Pyre of Truths as an Object/Place with Place-Grudge manifestation. The first reli\n  347   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  398   1  **Faction Involvement:** SED, on the B-territory survey · UCD, for the Fray-adjacent ground · Judexhan, carrying the δ-grade threa\n  474   5  - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-B-02, Zone B — contained.\nGENERIC 0.004  (22 shared shingles)  SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-A__SIDE_CODEX_Pyre_of_Truths.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-B__MAW-W_The_Burning_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-C__MAW-S_The_Burning_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-D__MAW-G_The_Burning_Page.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-A__SIDE_CODEX_Pyre_of_Truths.md": "0a52610b8090ce088f8a6298b6e91a99650aaa3c1bdf2a09316b89fb4fa6ab9c",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-B__MAW-W_The_Burning_Fang.md": "45fe49563fe3e78753622273ecfb0c2ba77a232bdbf907df8ed15ac6f96cee26",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-C__MAW-S_The_Burning_Plate.md": "11a92504a3822bdcc5f23bb6a9b32b56ed0b819161fdbdc0d43a168ca450e04e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-D__MAW-G_The_Burning_Page.md": "ecbf655af9435684ba018ecd219f601a9253724bb8a36728fab3bc42170c8a28"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-092_Pyre_of_Truths_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EB%8F%84%EC%84%9C%EA%B4%80.md \"SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md\")]",
+      "table_link": "[[SE-C-IVδ-092 Pyre of Truths](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-092_Pyre_of_Truths_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EB%8F%84%EC%84%9C%EA%B4%80.md \"SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md\")]",
+      "reading": {
+        "before_lines": 483,
+        "before_bytes": 52484,
+        "final_lines": 483,
+        "final_bytes": 53442
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 34,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Digits changed by provenance documented inside repairs: one '02' (from the removed boilerplate location string) was dropped; the file's own shelf-open percentages 44 and 12 were cited once in 'Reading the response'. All hard series retained (9,400 transcripts, 2,600 named, 31/24/17 pages, 44%/12%, 61 pages)."
+      }
+    }
+  ]
 }
