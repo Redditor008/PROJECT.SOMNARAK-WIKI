@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "batch": 199,
+  "status": "OPEN",
+  "completed_units": 0,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "N-IIβ-560",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-560_Dismissed_Cry_솟구친_절규.md",
+      "words": 8505,
+      "sha256": "d445d153d7a93d17d05f7e65635fc30fbea16bc976f3e9b302a6c13b33e59952"
+    },
+    {
+      "unit": 2,
+      "designation": "N-IIβ-845",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-845_Perennial_돌아온_꽃.md",
+      "words": 8509,
+      "sha256": "794197092ee012e2341841a893680dde802124bedff38bec9bce7d8324893e27"
+    },
+    {
+      "unit": 3,
+      "designation": "C-IVγ-240",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑.md",
+      "words": 8558,
+      "sha256": "4a83f41f9fc8014d135d4ac125f562ede7a2715c172078eedc471679e9f672fe"
+    },
+    {
+      "unit": 4,
+      "designation": "O-IVδ-168",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-168_Quagmire_무너진_흔적.md",
+      "words": 8579,
+      "sha256": "941a5ce0d84c0cfe027fb4c964aa965f8809f9ae2ece5ee75c0063e627504a37"
+    },
+    {
+      "unit": 5,
+      "designation": "C-Vω-925",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-925_Sorrow_Mass_압살의_한.md",
+      "words": 8581,
+      "sha256": "42dde7584803c20adb58ae83fbf265251502b0084dae60d021f6a0445b046ba6"
+    }
+  ],
+  "opened_at": "2026-10-29",
+  "completed": 0,
+  "units": []
+}
