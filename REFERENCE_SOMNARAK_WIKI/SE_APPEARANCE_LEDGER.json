@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVδ-503": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_02_FLOATING_SHARD.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2846,8 +2858,23 @@
     {
       "designation": "C-IVδ-503",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-503_Floating_Shard_떠다니는_조각.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Nine source-supported repairs (1 short / 8 careful): one large shard that has never struck first, never descended and never left its bay stops multiplying into orbiting constellations, accelerating at faces, converging inward and raining glass in five combat rows; the rows return to the file's mirrored-injury and brightness doctrine. HELD; no credit (in-file full-set source review dated 2026-10-11; direct SE-503).",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_02_FLOATING_SHARD.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-503-A__SIDE_CODEX_Hover.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-503-B__MAW-W_Hover_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-503-C__MAW-S_Hover_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-503-D__MAW-G_Hover_Lantern.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-505",
