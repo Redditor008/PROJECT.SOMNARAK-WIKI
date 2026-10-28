@@ -27,7 +27,20 @@
       "C-IVδ-668",
       "N-IIβ-488"
     ],
-    "reviewed": {}
+    "reviewed": {
+      "C-IIβ-340": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_01_CLAPPERLESS.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -1741,8 +1754,23 @@
     {
       "designation": "C-IIβ-340",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-340_Clapperless_빈_종.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Twelve source-supported repairs (2 short / 10 careful): a bell that has never rung stops tolling, pealing and bursting in five combat rows; the activation template (equip/detach/Void-trauma, damage tick, generic quotes) returns to the file's own plinth doctrine — fork-walk radius, sealed warning or passage, cost charged to the bearer's capacity to certify. HELD; no credit (in-file full-set source review dated 2026-10-13; weapon identity held since Batch 82; direct SE-340).",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_01_CLAPPERLESS.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-A__SIDE_CODEX_Clapperless.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-B__MAW-W_The_Silence_Hammer.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-C__MAW-S_The_Silence_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-D__MAW-G_The_Silence_Charm.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIβ-357",

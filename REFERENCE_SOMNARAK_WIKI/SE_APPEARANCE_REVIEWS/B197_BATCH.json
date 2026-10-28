@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 197,
   "status": "OPEN",
-  "completed_units": 0,
+  "completed_units": 1,
   "required_units": 5,
   "queue": [
     {
@@ -42,6 +42,186 @@
     }
   ],
   "opened_at": "2026-10-28",
-  "completed": 0,
-  "units": []
+  "completed": 1,
+  "units": [
+    {
+      "designation": "C-IIβ-340",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-340_Clapperless_빈_종.md",
+      "words": 8318,
+      "sha256": "aa3e1e1e9992bcdedb7aa0419aea939313daa71c1c67b61fe20f2c33c33e7cae",
+      "unit": 1,
+      "name": "Clapperless",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_01_CLAPPERLESS.md",
+      "before_words": 8318,
+      "after_words": 8526,
+      "base": "5b0640bc6f4d2606f3f872a8110c37bb3a0e1e43",
+      "final_sha256": "386d6f9285b1314c5c4682f9e79f1d20488b2b101a145b57f54fb33e1c66ff8a",
+      "summary": "Twelve source-supported repairs (2 short / 10 careful): a bell that has never rung stops tolling, pealing and bursting in five combat rows; the activation template (equip/detach/Void-trauma, damage tick, generic quotes) returns to the file's own plinth doctrine — fork-walk radius, sealed warning or passage, cost charged to the bearer's capacity to certify. HELD; no credit (in-file full-set source review dated 2026-10-13; weapon identity held since Batch 82; direct SE-340).",
+      "commentary": "This is one of the strongest files in the queue — the Rule of the Struck Bell is a complete administrative horror worked out in metres of silence. What broke it was the machinery bolted around it: combat rows in which a bell that has never rung tolls, peals, bursts and cracks its casting, a termination rule about unequipping a hung bell and taking 'severe Void trauma' from A holding with no harm on record in sixty-four years, and a flavor line giving the bell a desire the file everywhere refuses it. The repairs kept every number and every doctrine; they only stopped the borrowed rows from contradicting the dossier's own first sentence.",
+      "reasoning": "Identity is direct and doubly locked: Side A carries SECC Designation `C-IIβ-340 [D]`, Related Entity SE-340, set 4/4, plus the formal-ID note distinguishing Apocrypha `O-Iα-340` (SE-1033, reviewed in B195) from SE-340. R-18 split declared before editing: two short (SECC trigger-phrase case; duplicated Interaction Pattern opener) and ten careful (five combat rows making a never-rung bell toll/echo/peal/burst/crack against 'It has never rung… No cycle has produced a tone… Do not strike the bell'; the generic Relic capability quote block; 'Equippable / mounting use' and detach/Void-trauma Termination against a hung, touched-activated bell with 'No physical hazard on record at any radius in sixty-four years'; a 5-per-15-seconds damage tick against the same record; Flavor agency 'The Bell wants to ring' against the file's observed-not-explained doctrine). R-33 chain: correctly-cast bell without a resonant core → silent through the overflow → quiet field measured by fork walk, tracking documentary certification → sealing/warning effect with bearer unable to certify afterwards → Rule of the Struck Bell. The weapon identity (Cryo-Relic Lance vs Chime-Sceptre/hammer) and Stigma slot (Neck vs Head) forks were left exactly as the 2026-10-13 review held them; no form or profile was selected.",
+      "history": "Draft rooted in the shelter-tower bell recovered intact after the Han overflow; the file's own history records the first test return under the Rule of the Struck Bell (Year 4238), the Year 4231 inspectorate campaign and the Year 4237 first testing programme. Fresh equipment credit BARRED: the primary contains a dated in-file 'Full-set source review (2026-10-13)' against exact Side join SE-340-A/B/C/D, Master Registry rows 623-626, Master M.A.W. 163-165, Entity Codex 419/Tale 55 and archetypes MAW-W-340/MAW-W-285, preserving the Batch 82 weapon-identity hold 'not counted again.' Ledger `equipment_reviews` has no 340 entry. Therefore Equipment reviewed +0/+0; Types and Weapon unchanged at 286/301 and 284/287.",
+      "holds": [
+        "Weapon identity/profile: the primary's eight-foot mammoth-ivory *Cryo-Relic Lance* (Void 6-10, Fast 4, Range 3, pulse/cone) vs Side/item B's *Clapperless Chime-Sceptre* — a pale Han-glass anti-sound hammer (Void 5-9, Speed 2, Range 2, Single) — vs the `MAW-W-285` *Silent Memorial-Bell* with no crosswalk to `MAW-W-340-01`. No transition recorded; held since Batch 82 and held here. No form or profile selected.",
+        "Stigma slot/function: local neck pendant whose chime goes cold before an unchecked acceptance vs item D's Head charm preserving one warning word (recorded: **overflow** kept, **ladder** lost). The +1 Composure during source work is supported by item D; the slot and function remain unreconciled. Held.",
+        "Suit appearance: local linen/silver-thread shroud vs linked Han-gossamer veil with one visible vibration line. Name and resistances align; appearances remain different recorded states. Held.",
+        "Rim vibration under a listener's hand and soundless resonance with the Orphaned Bell at forty metres: observed, logged with names, unexplained by the file's own statement. No mechanism invented. Held.",
+        "Why a given approach yields a warning or a passage: never predicted, influenced or explained in eleven uses; the choice is not the bearer's. No selection rule invented. Held."
+      ],
+      "split": [
+        2,
+        10
+      ],
+      "repairs": [
+        {
+          "id": "R1-secc-trigger-case",
+          "kind": "short factual correction",
+          "careful": false,
+          "old": "| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch while saying, “i am listening.” |",
+          "new": "| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch while saying, “I am listening.” |"
+        },
+        {
+          "id": "R2-empty-toll",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Empty Toll* [**Debuff**] } | \"The bell swings, and what comes out of it is nothing striking nothing.\" | [The hollow toll opens an anti-sound void around the target.] | *The target takes a Void mark; the hollow noise drains meaning out of what they hear.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Heard by anyone inside earshot of the toll. |",
+          "new": "| { *The Empty Toll* [**Debuff**] } | \"Nothing swings and nothing tolls — it has never rung. What reaches you is the quiet itself, a field where sound goes in and does not come back.\" | [The reference fork dies short of its usual distance; the boundary has moved since the last reading.] | *The target takes a Void mark; what they hear stops meaning what it says.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Standing inside the quiet field. |"
+        },
+        {
+          "id": "R3-echoing-emptiness",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Echoing Emptiness* [**Debuff**] } | \"The toll comes back, each echo thinner than the last, until only the void where sound belongs is left.\" | [The fading echoes leave a void that draws at the target.] | *The target's clarity goes; the silence under the sound is what consumes.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Held inside earshot through the echoes. |",
+          "new": "| { *The Echoing Emptiness* [**Debuff**] } | \"There is no echo to thin out. The corridor you came down was louder than this room, and the difference deepens the longer the interval runs.\" | [Footsteps shorten. Voices lower at the plinth for no reason anybody can state.] | *The target's clarity goes; the silence under what sound remains is what consumes.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Held inside the field for the full interval. |"
+        },
+        {
+          "id": "R4-void-peal",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Void Peal* [**Attack**] } | \"The bell's hollow fills with anti-sound — and then bursts outward.\" | [A blast of concentrated nothing strikes.] | *Inflicts Void damage; the toll erases a portion of presence.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Bell is struck. |",
+          "new": "| { *The Void Peal* [**Attack**] } | \"It does not burst and it does not peal. The quiet simply reaches further — somewhere that fortnight a competent person signed for something they did not strike.\" | [The fork walk comes back three metres longer than the previous reading, which opens a documents search, not a field response.] | *Inflicts Void damage; presence thins where the field has widened.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | On a widening between consecutive readings. |"
+        },
+        {
+          "id": "R5-full-hollow",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Hollow* [**Attack**] } | \"The bell shows you what it holds, and what it holds is nothing, and the nothing is enormous.\" | [The interior void is opened at the target.] | *A heavy Void opening; the meter climbs 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | At the moment the casting cracks. |",
+          "new": "| { *The Full Hollow* [**Attack**] } | \"The casting does not crack; nine deliberate strikes have left it exactly as drawn. What it holds is still nothing, and the nothing is still enormous.\" | [A worker decides to strike it properly, with intent, to settle the question. It does not ring. The quarter's series is void.] | *A heavy Void opening; the meter climbs 15% while the bell does nothing at all.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | At the moment somebody strikes it to settle the question. |"
+        },
+        {
+          "id": "R6-silent-tower",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Silent Tower* [**Ultimate**] } | \"Every bell in the field turns hollow at once, and the emptiness they make together is absolute.\" | [The Bell spreads its hollowness across the whole field.] | *Everyone in range takes Void erosion for three turns while the hollow bells sound.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the gauge passes 65%. |",
+          "new": "| { *The Silent Tower* [**Ultimate**] } | \"Every bell in the field stays exactly as it was. The field reaches twenty-six metres — the width it stood at in Year 4231, when nine hundred items were cleared on their records in six weeks.\" | [No event to see and nothing to hear; the escalation happened at an inspector's desk and is entered in metres of silence.] | *Everyone in range takes Void erosion for three turns of standing in the widened quiet.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the gauge passes 65%. |"
+        },
+        {
+          "id": "R7-quote-block",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "> **This Relic can Benefit the Facility**\n> **This Relic is Capable of Operative Alteration**\n> **Extended use draws personal resilience out of the operator**",
+          "new": "> **This Relic gives one sealed warning, or one sealed passage. It does not take instruction on which.**\n> **This Relic has never rung, and the containment does not attempt to make it.**\n> **The bearer afterwards cannot sign anything they have not personally checked.**"
+        },
+        {
+          "id": "R8-use-mode",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Use Mode** | **Equippable / mounting use** |",
+          "new": "| **Use Mode** | **At the plinth; nothing is equipped or mounted.** The bell is hung where it has always been and is approached, not carried. |"
+        },
+        {
+          "id": "R9-termination",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |",
+          "new": "| **Termination / Return** | The bearer takes their hand off the rim and the second officer closes the record; there is nothing to detach and nothing is returned anywhere. No physical hazard is on record at any radius in sixty-four years — the cost is the bearer's capacity to certify, and it is not refunded. |"
+        },
+        {
+          "id": "R10-log-1min",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 1 Minute | The bearer begins listing things they have certified without checking. The lists are long and they are accurate. | 5 Void damage every 15 seconds past the minute. Take the list. Four items found this way were genuinely defective and one of them was a flood gate. |",
+          "new": "| 1 Minute | The bearer begins listing things they have certified without checking. The lists are long and they are accurate. | Take the list. Nothing is damaged at this plinth and no interval harms the bearer; what accumulates past the minute is the list, and it is transcribed in full. Four items found this way were genuinely defective and one of them was a flood gate. |"
+        },
+        {
+          "id": "R11-flavor-agency",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "The Bell wants to ring. It is waiting for someone to prove that a warning can still be heard.",
+          "new": "The Bell does not want anything. It is waiting the way an untested alarm waits: correctly hung, in order on paper, and empty in the one respect that mattered."
+        },
+        {
+          "id": "R12-interaction-dup",
+          "kind": "short de-duplication",
+          "careful": false,
+          "old": "This one is filed alongside three records, two of which are bells. Only the Orphaned Bell is anywhere near it, at forty metres, and that proximity is historical rather than chosen — the holdings were sited together before either instrument existed and separating them now would break both series. What follows is paper comparison except where it says otherwise.",
+          "new": "Only the Orphaned Bell is anywhere near it, at forty metres, and that proximity is historical rather than chosen — the holdings were sited together before either instrument existed and separating them now would break both series. What follows is paper comparison except where it says otherwise."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIβ-340_Clapperless_빈_종.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.014  clean   434 grams  기록 (Registrum)\n 0.013  clean   783 grams  M.A.W. Equipment\n 0.005  clean   661 grams  Combat Record\n 0.000  clean   948 grams  이야기 보고 (Story Log)\n 0.000  clean   585 grams  감각 묘사 (Flavor Text)\n 0.000  clean   573 grams  Activation Behavior\n 0.000  clean   388 grams  이야기 (Narratio)\n 0.000  clean   329 grams  관찰 기록 (Observation Log)\n 0.000  clean   298 grams  Trivia\n 0.000  clean   269 grams  Origin\n 0.000  clean   247 grams  Watch Record\n 0.000  clean   234 grams  Appearance\n 0.000  clean   138 grams  Behavior\n 0.000  clean   112 grams  최종 관찰 (Final Observation)\n 0.000  clean    94 grams  증언 (Testimonium)\n 0.000  clean    84 grams  Operational Parameters\n 0.000  clean    45 grams  SECC Classification\n 0.000  THIN      2 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   86   3  | { *The Silent Tower* [**Ultimate**] } | \"Every bell in the field stays exactly as it was. The field reaches twenty-six metres — \n  284  10  **Full-set source review (2026-10-13):** Reviewed the grade overview, complete M.A.W. set, Use Notes, Field Use Record, Stat inter\n  427   3  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the district inspectorate, which appears here \n  432   3  **Operational interpretation:** This file is read with the test return beside it or not at all. On its own the plinth holds a quie\nGENERIC 0.003  (19 shared shingles)  SE-C-IIβ-340_Clapperless_빈_종.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-A__SIDE_CODEX_Clapperless.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-B__MAW-W_The_Silence_Hammer.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-C__MAW-S_The_Silence_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-D__MAW-G_The_Silence_Charm.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-A__SIDE_CODEX_Clapperless.md": "d032af469119d8e7a160e8b99fe0da8a956001728270bec57dc783185ccc9f9d",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-B__MAW-W_The_Silence_Hammer.md": "e4dd37e190500514454f774b932b27bd16123943167d4d0904b6fb90e2b7e176",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-C__MAW-S_The_Silence_Veil.md": "0e3e239c0ddd0ea38652de60b9f3dca5cdd3fdbf039b86a9c6f43a1bcbfb4bea",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-D__MAW-G_The_Silence_Charm.md": "3dcd3b83a20c3828491c776978e044cd102389449116c4039cf99272c492f685"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIβ-340_Clapperless_빈_종](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-340_Clapperless_%EB%B9%88_%EC%A2%85.md \"SE-C-IIβ-340_Clapperless_빈_종.md\")]",
+      "table_link": "[[SE-C-IIβ-340 Clapperless](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-340_Clapperless_%EB%B9%88_%EC%A2%85.md \"SE-C-IIβ-340_Clapperless_빈_종.md\")]",
+      "reading": {
+        "before_lines": 474,
+        "before_bytes": 50156,
+        "final_lines": 474,
+        "final_bytes": 51317
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 39,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Digits changed by provenance documented inside repairs: the unsupported '5 Void damage every 15 seconds' tick (5, 15) was removed from the 1-Minute log against the file's no-harm record; the rooted Year 4231 campaign figure was cited once in the Ultimate row, where the file itself records the 26-metre width. All combat damage bands and percentages were retained unchanged."
+      }
+    }
+  ]
 }

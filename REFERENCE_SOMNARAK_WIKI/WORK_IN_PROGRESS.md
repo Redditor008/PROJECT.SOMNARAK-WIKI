@@ -1,7 +1,7 @@
 # Work In Progress
 
-## Batch 197 — OPEN, 0 / 5 (2026-10-28)
-Fresh ranking of 40 pending (LC_ALL=C wc -w ascending). Queue: `C-IIβ-340` (8,318w), `C-IIβ-102` (8,336w), `C-Vω-001` (8,340w), `C-IVδ-668` (8,407w), `N-IIβ-488` (8,439w). Units are reviews 2–6 of this prompt.
+## Batch 197 — OPEN, 1 / 5 (2026-10-28)
+Unit 1 — **Clapperless `C-IIβ-340`: HELD; credit-barred, +0.** 12 repairs (2s/10c; 8,318→8,526 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_01_CLAPPERLESS.md).
 ## Batch 196 — CLOSED, 5 / 5 (2026-10-28)
 All five HELD, No change 0, 63 repairs (16s/47c), no fresh credit (all barred by prior dispositions). Battery: 25/25 validators, 5/5 reconstruction, 40/40 fingerprints, audits PASS. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_CLOSE.md).
 

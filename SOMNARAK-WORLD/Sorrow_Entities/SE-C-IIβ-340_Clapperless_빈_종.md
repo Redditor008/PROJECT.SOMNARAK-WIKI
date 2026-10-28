@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-340 [D]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch while saying, “i am listening.” |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch while saying, “I am listening.” |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats not ringing |
 | **Potency** | Moderate (β) |
@@ -79,11 +79,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Empty Toll* [**Debuff**] } | "The bell swings, and what comes out of it is nothing striking nothing." | [The hollow toll opens an anti-sound void around the target.] | *The target takes a Void mark; the hollow noise drains meaning out of what they hear.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Heard by anyone inside earshot of the toll. |
-| { *The Echoing Emptiness* [**Debuff**] } | "The toll comes back, each echo thinner than the last, until only the void where sound belongs is left." | [The fading echoes leave a void that draws at the target.] | *The target's clarity goes; the silence under the sound is what consumes.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Held inside earshot through the echoes. |
-| { *The Void Peal* [**Attack**] } | "The bell's hollow fills with anti-sound — and then bursts outward." | [A blast of concentrated nothing strikes.] | *Inflicts Void damage; the toll erases a portion of presence.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Bell is struck. |
-| { *The Full Hollow* [**Attack**] } | "The bell shows you what it holds, and what it holds is nothing, and the nothing is enormous." | [The interior void is opened at the target.] | *A heavy Void opening; the meter climbs 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | At the moment the casting cracks. |
-| { *The Silent Tower* [**Ultimate**] } | "Every bell in the field turns hollow at once, and the emptiness they make together is absolute." | [The Bell spreads its hollowness across the whole field.] | *Everyone in range takes Void erosion for three turns while the hollow bells sound.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the gauge passes 65%. |
+| { *The Empty Toll* [**Debuff**] } | "Nothing swings and nothing tolls — it has never rung. What reaches you is the quiet itself, a field where sound goes in and does not come back." | [The reference fork dies short of its usual distance; the boundary has moved since the last reading.] | *The target takes a Void mark; what they hear stops meaning what it says.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Standing inside the quiet field. |
+| { *The Echoing Emptiness* [**Debuff**] } | "There is no echo to thin out. The corridor you came down was louder than this room, and the difference deepens the longer the interval runs." | [Footsteps shorten. Voices lower at the plinth for no reason anybody can state.] | *The target's clarity goes; the silence under what sound remains is what consumes.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Held inside the field for the full interval. |
+| { *The Void Peal* [**Attack**] } | "It does not burst and it does not peal. The quiet simply reaches further — somewhere that fortnight a competent person signed for something they did not strike." | [The fork walk comes back three metres longer than the previous reading, which opens a documents search, not a field response.] | *Inflicts Void damage; presence thins where the field has widened.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | On a widening between consecutive readings. |
+| { *The Full Hollow* [**Attack**] } | "The casting does not crack; nine deliberate strikes have left it exactly as drawn. What it holds is still nothing, and the nothing is still enormous." | [A worker decides to strike it properly, with intent, to settle the question. It does not ring. The quarter's series is void.] | *A heavy Void opening; the meter climbs 15% while the bell does nothing at all.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | At the moment somebody strikes it to settle the question. |
+| { *The Silent Tower* [**Ultimate**] } | "Every bell in the field stays exactly as it was. The field reaches twenty-six metres — the width it stood at in Year 4231, when nine hundred items were cleared on their records in six weeks." | [No event to see and nothing to hear; the escalation happened at an inspector's desk and is entered in metres of silence.] | *Everyone in range takes Void erosion for three turns of standing in the widened quiet.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the gauge passes 65%. |
 
 ### Battle Phases
 
@@ -150,9 +150,9 @@ Ferrehan lowers the gauge and the endurance it tests is precise: the worker stan
 **Reading the response:** The gauge reports one worker across one interval. The radius reports what the inspectorate has put its name to. Those two numbers sit in separate columns and have never moved in step once; supervisors are told that a session which lowers the gauge and leaves the field wider has been worked right and is recorded as a success with no note attached.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **Extended use draws personal resilience out of the operator**
+> **This Relic gives one sealed warning, or one sealed passage. It does not take instruction on which.**
+> **This Relic has never rung, and the containment does not attempt to make it.**
+> **The bearer afterwards cannot sign anything they have not personally checked.**
 
 **Activation Trigger:** Touch while saying, “I am listening.”
 
@@ -167,11 +167,11 @@ Ferrehan lowers the gauge and the endurance it tests is precise: the worker stan
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode** | **At the plinth; nothing is equipped or mounted.** The bell is hung where it has always been and is approached, not carried. |
 | **Activation** | Touch while saying, “I am listening.” |
 | **Primary Effect** | One sealed warning, or one sealed passage. Never both from one approach. |
 | **Duration** | Until a second officer certifies the warning understood, or the passage closes. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |
+| **Termination / Return** | The bearer takes their hand off the rim and the second officer closes the record; there is nothing to detach and nothing is returned anywhere. No physical hazard is on record at any radius in sixty-four years — the cost is the bearer's capacity to certify, and it is not refunded. |
 | **Risk** | Permanent inability to certify anything the bearer has not personally tested. Two careers ended. |
 
 **Operational Rule:** Requests to use the relic are decided above the level of the staff who submit them, because the choice between a warning and a passage is not made by the bell and the authority to accept whichever comes must sit with someone who can act on it. It has no field application. Eleven requests, four approvals, all documented with their grounds.
@@ -182,7 +182,7 @@ Ferrehan lowers the gauge and the endurance it tests is precise: the worker stan
 |---|---|---|
 | 10 Seconds | The rim moves under the hand. It has done this for every bearer and for no instrument. | Log the bearer's name. The vibration is the holding's only recorded response to attention and it is observed, not explained. |
 | 30 Seconds | A sealed warning surfaces, or a sealed passage gives. Which of the two is not predictable and has never been influenced. | Second officer present from the outset. If it is a warning, they certify understanding; if a passage, they log where it goes before anyone enters it. |
-| 1 Minute | The bearer begins listing things they have certified without checking. The lists are long and they are accurate. | 5 Void damage every 15 seconds past the minute. Take the list. Four items found this way were genuinely defective and one of them was a flood gate. |
+| 1 Minute | The bearer begins listing things they have certified without checking. The lists are long and they are accurate. | Take the list. Nothing is damaged at this plinth and no interval harms the bearer; what accumulates past the minute is the list, and it is transcribed in full. Four items found this way were genuinely defective and one of them was a flood gate. |
 | 2 Minutes | The bearer loses the ability to accept any document as evidence of anything. | Remove the relic. The incapacity is permanent in three of eleven bearers and the facility has made no provision for them beyond reassignment. |
 
 ### Escalation Notes
@@ -345,7 +345,7 @@ The ground is the fork. That campaign took the field to twenty-six metres, the w
 
 ## 감각 묘사 (Flavor Text)
 
-You stand before the Bell and wait for a sound that will not come. Silence gathers until it becomes a warning itself. The surface vibrates beneath your hand. The Bell wants to ring. It is waiting for someone to prove that a warning can still be heard.
+You stand before the Bell and wait for a sound that will not come. Silence gathers until it becomes a warning itself. The surface vibrates beneath your hand. The Bell does not want anything. It is waiting the way an untested alarm waits: correctly hung, in order on paper, and empty in the one respect that mattered.
 
 
 
@@ -359,7 +359,7 @@ You stand before the Bell and wait for a sound that will not come. Silence gathe
 
 ### Interaction Pattern
 
-This one is filed alongside three records, two of which are bells. Only the Orphaned Bell is anywhere near it, at forty metres, and that proximity is historical rather than chosen — the holdings were sited together before either instrument existed and separating them now would break both series. What follows is paper comparison except where it says otherwise.
+Only the Orphaned Bell is anywhere near it, at forty metres, and that proximity is historical rather than chosen — the holdings were sited together before either instrument existed and separating them now would break both series. What follows is paper comparison except where it says otherwise.
 
 **Interaction method:** On one question: was the thing stopped from working, unable to work, or working and unheard. The answer goes down as one sentence, over the writer's signature. The wing holds four records that turn on an unheard warning and three of them answer to somebody's act. This one answers to nobody's, and the pairing claims in the folder were all written before the distinction existed.
 

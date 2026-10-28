@@ -8,8 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 197 — OPEN, 0 / 5 (2026-10-28)
-Fresh pending-only ranking over 40 dossiers; frozen queue `C-IIβ-340`, `C-IIβ-102`, `C-Vω-001`, `C-IVδ-668`, `N-IIβ-488`. [Opening record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_OPEN.json).
+## Batch 197 — OPEN, 1 / 5 (2026-10-28)
+**Unit 1 — Clapperless `C-IIβ-340`: HELD, +0.** Twelve repairs (2 short / 10 careful; 8,318→8,526 words): a bell that has never rung stops tolling in five combat rows. Direct SE-340; weapon form held since Batch 82. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_01_CLAPPERLESS.md).
 ## Batch 196 — CLOSED, 5 / 5 (2026-10-28)
 Five HELD units, No change 0, 63 repairs (16 short / 47 careful), 41,314→42,230 words, no fresh credit — every dossier carried a prior written disposition. Battery PASS: fresh validators 25/25, reconstruction 5/5, fingerprints 40/40, tests 54/54, audits PASS, zero source changes. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_CLOSE.md).
 
