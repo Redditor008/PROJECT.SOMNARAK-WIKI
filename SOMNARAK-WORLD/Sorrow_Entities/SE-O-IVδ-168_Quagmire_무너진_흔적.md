@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Fading Mark* [**Debuff**] } | "The traces on the floor are disappearing — and with them, proof that anyone was ever here." | [The Trace's collapse erases evidence; the target feels themselves becoming unproven.] | *Target suffers -10 Composure; they are becoming a trace that is fading.* **[10 Lament DMG [Lament]]** | When the target steps on the traces. |
-| { *The Smudged History* [**Debuff**] } | "Everything recorded here is blurring — names, dates, sorrows — all smudging into nothing." | [The Trace's breakdown corrupts the record; the target's own history smudges.] | *Target loses 10 Composure; they cannot remember clearly.* **[10 Lament DMG [Lament]]** | When the target reads the traces. |
-| { *The Static Burst* [**Attack**] } | "The traces flare once — a final, bright moment of evidence — and then they are gone." | [The Trace's death-flash strikes the target.] | *Inflicts Lament pressure and one wound of erased certainty.* **[14-22 Lament DMG [Lament]]** | When the Trace is touched. |
-| { *The Total Erasure* [**Attack**] } | "Every trace, every mark, every record goes down together, in one motion." | [The Trace comes apart entirely and carries the evidence away with it.] | *A heavy Deep Blue void-of-record; the reading jumps 15%.* **[24-36 Lament DMG [Lament]]** | When the Trace is scraped off the ground. |
-| { *The Unmarked Field* [**Ultimate**] } | "After this there is nothing to find — no trace, no mark, no proof the field was ever walked." | [The erasure widens until it holds every metre of the field.] | *Everyone in range takes Lament pressure for three turns while the field goes unmarked.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
+| { *Somebody Else's Footsteps* [**Debuff**] } | "Your own steps make no sound. Somebody else's arrive from the broken section, in more gaits than your party has people." | [The Trace carries footsteps and produces none of its own; the target hears the missing party still mid-journey.] | *Target suffers -10 Clarity while trying to separate their own movement from the travellers'.* **[10 Lament DMG [Lament]]** | When the target steps onto the crystal line. |
+| { *The Compass Along the Line* [**Debuff**] } | "The needle does not spin. It points along the broken line, while every actual exit feels unfinished." | [Viderehan reveals route history, but direction fails if the collapsed alignment is mistaken for a current road.] | *Target loses 10 Clarity; they can read where the journey went and still not know how to leave.* **[10 Lament DMG [Lament]]** | When the target tries to navigate by the Trace. |
+| { *The Shortcut* [**Attack**] } | "It looks like a road. Every observer wants to follow it. That is the first warning, and it arrives dressed as common sense." | [Treating the collapsed route as a shortcut draws the target past the endpoint with the reasonable conviction that they are still mid-journey.] | *Inflicts Lament pressure through unfinished-arrival disorientation; nothing flares, strikes or is erased.* **[14-22 Lament DMG [Lament]]** | When an expedition treats the Trace as a shortcut to safety. |
+| { *A Route Gone Elsewhere* [**Attack**] } | "Nothing happens on the line. Somewhere else, a road has stopped existing with nobody there to write it down. The load cells know first." | [An unwitnessed route loss registers as added mass, new subsidence and pressure on the survey party; the Trace itself remains to be mapped.] | *Heavy Lament pressure; the reading jumps 15% while no mark is scraped away.* **[24-36 Lament DMG [Lament]]** | When a new route is destroyed without witness. |
+| { *No Arrival* [**Ultimate**] } | "The field is not erased. It is worse than that: every direction remains visible, and none of them feels like having arrived anywhere." | [Direction loss widens along the broken alignment until forward movement must stop and a current return line is re-established.] | *Everyone in range takes Lament pressure for three turns of unfinished arrival; names and route history remain the record to preserve, not the thing destroyed.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At the 90% Sorrow Gauge activation threshold. |
 
 ### Battle Phases
 
@@ -92,7 +92,7 @@
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.
+- If resistance fails, the worker does not become a fading trace. Clarity goes first as direction: compass and attention align with the broken route, every exit feels unfinished, and the worker may continue in good order past the end unless the off-line partner and head count stop them.
 - Extended exposure produces a specific disorientation that personnel consistently under-report: the conviction that the party is mid-journey and has somewhere still to reach. Workers have continued walking the line past its end, in good order, discussing the route, and have described the experience afterwards as entirely reasonable at the time.
 - Every piece drawn from the Trace charges in arrivals that never happened. The censer shields composure and leaves its bearer weeping for people they never met; the shroud keeps the mind steady and flattens small pleasures; the Lantern shows routes buried under dust and plays every traveller who did not come through.
 - If the Trace is not mapped and the names not preserved, nothing detonates. The line simply gets heavier, the Desolate ground around it subsides further, and the next survey party has a harder job than the last one. This holding punishes neglect with accumulation rather than violence, which is why it has been neglected.
@@ -128,7 +128,7 @@
 - **The Sorrow:** The burden of a journey ending without arrival.
 - **The Event:** A Desolate path collapsed under Han, carrying the tracks and names of everyone who had used it.
 - **The People:** A party of travellers, number unestablished, who were weeks on the road and did not arrive. The Trace carries their footsteps, which means the facility holds evidence of how many there were and has not finished counting; the resolution condition requires preserving the names, and the names are not yet all known.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **Expanded origin context:** The route failed before its travellers arrived. A Desolate path collapsed under Han and left a broken crystal line carrying tracks, route history and the absence of sixty-one people named on a complete departure manifest. The first obligation is therefore mapping and custody of names, not completing the journey on behalf of people who never reached its end.
 
 ## Behavior
 
@@ -153,13 +153,13 @@ The table is a diagnostic to read, not a procedure to follow: it says which Work
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
 
-**Activation Trigger:** New routes destroyed without witness.
+**Activation Trigger:** New routes destroyed without witness, or an expedition treats the Trace as a shortcut to safety.
 
-**Effect:** Projects concentrated Lament sorrow resonance across the immediate perimeter.
+**Effect:** Compass needles point along the broken line; travellers lose direction and feel they have failed to arrive wherever they stand.
 
-**Duration:** While equipped, until the removal condition is met.
+**Duration:** Until forward movement stops, a current route map and return line are re-established, and discovered names are preserved.
 
-**Risk:** Misuse increases emotional strain and may destabilize the operator.
+**Risk:** A worker may keep walking past the endpoint in the reasonable conviction that they are still mid-journey, or hear unfinished footsteps as their own.
 
 ### Tool Use Profile — I-Relic
 
@@ -196,9 +196,9 @@ Escalation here takes one shape and is not the standard breach event: the survey
 |---|---|
 | **Trigger** | New routes destroyed without witness. |
 | **Manifestation** | Object-Weight |
-| **Primary effect** | Projects concentrated Lament sorrow resonance across the immediate perimeter. |
-| **Duration / rate** | While equipped, until the removal condition is met. |
-| **Risk** | Critical (δ) Object-Weight producing Lament pressure; Misuse increases emotional strain and may destabilize the operator. |
+| **Primary effect** | Direction fails along the broken alignment; compass needles follow the collapsed line and every exit feels unfinished. |
+| **Duration / rate** | Until the party stops, restores a current map/return line, counts every member and preserves any names recovered. |
+| **Risk** | Critical (δ) Object-Weight producing Lament pressure; personnel may walk past the line's end while believing the journey continues. |
 | **Management** | Map the Trace and preserve the names it carries, under certified Tool protocol. |
 
 **Activation reporting order:** the route lost and where → change in measured mass → new breaks in the line → subsidence depth → footsteps counted → whether any name was recovered. The last field is the only one that discharges the resolution condition, and a report that fills every other column and leaves it blank has documented an activation without doing anything about it.
@@ -233,7 +233,7 @@ The aromatic smoke creates an emotional oasis that shields the bearer's composur
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cold on the skin, stitched so finely that the seams disappear when it is worn.
+**Appearance:** a blue wrapping shroud of Lament Han-silk, cold on the skin, with a faint crystal route line running from collar to hem and ending before the floor; in use the line becomes a visible return thread toward the current camp marker.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -251,7 +251,7 @@ The aromatic smoke creates an emotional oasis that shields the bearer's composur
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a small lantern of Lament Han-crystal, cold in the hand, that throws its light the wrong way for its size.
+**Appearance:** a tiny blue lantern of Lament Han-crystal, cold in the hand, showing no flame until a route is named aloud; thin blue lines then reveal a hidden path together with the unfinished traveller names attached to it.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -271,10 +271,10 @@ Each piece remains part of the Trace, and the set is built for the road rather t
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Quagmire's toll being that the bearer weeps, steadily and without distress, for travellers they never met and cannot name. The composure the censer grants is genuine and the tea. |
-| **During use** | Every occurrence of what Quagmire takes (the bearer weeps, steadily and without distress, for travellers they never met and cannot name. The composure the censer grants is genuine and the tea), timed. One is noted; a pattern across a shift ends the use. |
-| **At limit** | The cost is paid steadily and not in bursts: the shroud works by filtering out everything under a set weight, and it cannot tell a small grief from a small pleasure. Wearers come off the Trace light in the head and last on the sheet. The second worker's judgement overrides the wielder's, on paper and in the field. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether Quagmire's cost is still showing — the shroud protects by filtering out everything below a certain weight, and it cannot tell a small grief from a small pleasure. Wearers come off the D. |
+| **Before use** | Wielder, piece, gauge, map custodian, team count and a physical return line. No piece is issued for solo travel beyond the agreed map boundary; the pre-check records which names, if any, the survey has already recovered. |
+| **During use** | Log every cost by piece: weeping for unnamed travellers, numbness to minor joys, or route voices/names revealed. A route line pointing forward without a map, footprints without names, or lantern light without a stated map purpose suspends travel. |
+| **At limit** | The custodian's return order overrides the bearer's judgement. If any team member is unaccounted for, route protection stops and search protocol replaces exploration; endurance on the line is not permission to continue alone. |
+| **After use** | Return together, enter every revealed name and route into custody, and review whether voices, weeping or flattened pleasure persist. A piece is not reissued while its route line remains forward-facing or its name record is incomplete. |
 
 **Stat interpretation:** The α grades on this set are honest and low, and the useful functions — the oasis, the hidden routes — are not in the damage column at all. Read the Cost lines as the specification. The Lantern in particular should be assessed on what it does to the bearer's hearing rather than on its rating, since every traveller who never arrived is a larger number than the sheet implies.
 ## 관찰 기록 (Observation Log)
@@ -337,11 +337,11 @@ A line of crystal crosses the dust and ends abruptly. No road continues beyond i
 
 **At first contact:** A line of crystal running across dust toward nothing, salt-cold, and silent in a way that takes a moment to locate — your own footsteps have stopped making noise. Then footsteps that are not yours, arriving from the broken section. The line is the safest ground in the district; the hazard is everything to either side of it, and the only injury on file was caused by somebody stepping off.
 
-**With continued exposure:** Time in the containment zone moves differently. The Lament pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Object-Weight is teaching you its sorrow.
+**With continued exposure:** The survey becomes five numbers repeated against the same stakes: mass, breaks, bearing, subsidence and footsteps. Somewhere inside that discipline the wish to simply keep walking presents itself as efficiency, which is why the head count comes before the instruments.
 
-**When the entity activates:** Once the gauge tips, the Lament stops behaving like grief and starts behaving like weather. The Object-Weight was holding the ground still; then it lets go of it.
+**When the entity activates:** The cause may be nowhere near the Scar. A route has been destroyed without witness, or somebody has decided the broken line is a shortcut; compass needles settle along it, the mass forecast fails, and every exit begins to feel unfinished.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Lament in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** There is no door to seal in open Desolate. The party leaves by its current return line with the names entered and the second head count complete; what remains is the line, heavier or not, and the knowledge that arriving back is not the same as finishing somebody else's journey.
 
 ### Interaction Pattern
 

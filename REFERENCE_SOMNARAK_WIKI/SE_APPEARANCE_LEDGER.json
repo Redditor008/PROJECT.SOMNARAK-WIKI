@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-IVδ-168": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_04_QUAGMIRE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -7127,8 +7139,23 @@
     {
       "designation": "O-IVδ-168",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-168_Quagmire_무너진_흔적.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Thirteen source-supported repairs (2 short / 11 careful): Quagmire's Combat Actions no longer erase the very evidence its resolution requires preserving. They now run on absent footsteps, compass capture, shortcut temptation, unwitnessed route loss registering in mass, and unfinished arrival at the file's 90% threshold. A generic unheard-child Origin, psychological-matrix Consequence, equipped-resonance Activation, truncated Field Use splices and sealed-door flavor were replaced with the survey/head-count/return-line record; exact Shroud and Lantern appearances restored. HELD; no credit because the primary already integrates the three-piece set, costs, Use Notes and a Field Use Record.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_04_QUAGMIRE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-A__SIDE_CODEX_Quagmire.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-B__MAW-W_The_Trace_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-C__MAW-S_The_Trace_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-D__MAW-G_The_Trace_Lantern.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IVδ-190",

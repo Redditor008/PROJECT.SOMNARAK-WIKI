@@ -1,0 +1,187 @@
+{
+  "designation": "O-IVδ-168",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-168_Quagmire_무너진_흔적.md",
+  "words": 8579,
+  "sha256": "941a5ce0d84c0cfe027fb4c964aa965f8809f9ae2ece5ee75c0063e627504a37",
+  "unit": 4,
+  "name": "Quagmire",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_04_QUAGMIRE.md",
+  "before_words": 8579,
+  "after_words": 8834,
+  "base": "2dc84f09f7d2023758f4c023931abdaa7ae9cbd2",
+  "final_sha256": "fd4116858e7733b83bd54457a942b43dbdde756b3499740dc407db40801cedda",
+  "summary": "Thirteen source-supported repairs (2 short / 11 careful): Quagmire's Combat Actions no longer erase the very evidence its resolution requires preserving. They now run on absent footsteps, compass capture, shortcut temptation, unwitnessed route loss registering in mass, and unfinished arrival at the file's 90% threshold. A generic unheard-child Origin, psychological-matrix Consequence, equipped-resonance Activation, truncated Field Use splices and sealed-door flavor were replaced with the survey/head-count/return-line record; exact Shroud and Lantern appearances restored. HELD; no credit because the primary already integrates the three-piece set, costs, Use Notes and a Field Use Record.",
+  "commentary": "Quagmire is one of the archive's best administrative horrors: removing a dead road from the map is correct, necessary, and exactly what makes the crystal heavier. The old rows turned that into a generic erasure monster. The Trace does not delete people; it is what remains when every correct office procedure has made their road impossible to print.",
+  "reasoning": "R-34 audit before editing. Identity is direct SE-168: Side A prints `O-IVδ-168 [O]`, set 4/4, Object/Place I-Relic Object-Weight, IV/δ, Lament, Desolate near Scar; B/C/D carry `MAW-W/S/G-168-01`. Supported design: a broken heavy crystal line/footprint that failed to rise, carrying route history and missing travellers; Videre Stable reveals route/names under custody, Ferre Decrease remains at journey's end with a return line; expansion triggers are routes destroyed without witness or treating the trace as a shortcut; compass needles point along the line and every exit feels unfinished; emergency response is stop, restore current map/return line, preserve names and do not chase the collapsed path. The primary's local record adds the decisive survey series (mass 14.2→17.9→22.4t against 2,300 km removed, sixty-one gaits/names, silence of one's own steps, safest footing and one injury from stepping off). All old Combat Actions made the Trace fade/smudge/flare/scrape/unmark evidence—the opposite of map-and-preserve—and used Composure although the file's Primary Pressure is Clarity; the Ultimate triggered at 65% inside the starting band and below the 90% threshold. Origin expanded context was an unrelated unheard-child template. Activation/Detailed Activation used generic equipped perimeter resonance for a fixed open-Desolate line. Field Use contained literal truncations ('and the tea', 'come off the D.'). Flavor put a sealing door and time distortion in open Desolate. Exact C/D Appearance forms were restored; B's Weapon fork was not normalized because its title/Appearance says Vestige Censer thurible while its identity/combat says Trace Requiem blade, and the primary follows the censer layer. Every table block passed parsed cell-count equality before and after, with Trigger in the fifth cell.",
+  "history": "Draft/local history: a Desolate route collapsed under Han; sixty-one gaits match sixty-one names on a complete departure manifest although no name is recoverable from the crystal itself; mass rose 14.2→17.9→22.4 tonnes as 2,300 km of routes were decommissioned; Year 4199 nine travellers died following a dashed former way; Year 4225–4228 four missed Ways Register returns produced +3.1 tonnes and permanent subsidence; Year 4231 marker application was correctly refused in Year 4232. Exact-set history records Yeonhwa's team stopping at the endpoint, returning together, and the Lantern's three named travellers. Fresh equipment credit BARRED: the pre-repair primary already contained all three pieces with exact α statistics/costs, bespoke Use Notes on the α-versus-δ mismatch and a four-stage Field Use Record. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+  "holds": [
+    "Weapon identity fork inside SE-168-B itself: title and standalone Appearance are *The Vestige Censer*, a brass lavender thurible; Item Identity and Combat File are *The Trace Requiem*, a small blue route-line blade. The primary follows the censer title/appearance and censer ability while using the shared statistics/cost. Neither exact layer was declared the sole form. Held.",
+    "Extraction/Tool fork: SE-168-A says the original I-Relic trace remains unbroken and M.A.W. pieces are released blue route echoes, not fragments; the primary repeatedly schedules cutting a surveyed segment that cannot be put back and its Tool Use/Log layer treats a carried relic segment generically. Activation was returned to the field/return-line mechanism, but the extraction ontology remains unresolved. Held.",
+    "Names fork: Side A leaves open which trace names are recoverable without transferring the journey; the primary says names are known from a complete manifest but established twice as unrecoverable from the crystal and forbids a third attempt. Manifest custody and crystal recovery were kept distinct. Held.",
+    "Stat/label forks: primary Han Pressure 29–64, Sorrow Gauge 910/910 and Comprehension '2 — Basic' versus Side A Lament 29–62, no HP figure, and '2 — Studied.' No stat was rescaled in this appearance pass. Held.",
+    "Full-set scope: SE-168-A/D define *Arrive Together* around team mapping, named return line and refusal of solo deployment; primary Use Notes frame the pieces as an α expedition kit drawn from the Trace and emphasize under-equipment. Field Use now carries the custodian/team rule, but the set ontology remains tied to the extraction fork above. Held.",
+    "Combat bracket values remain catalogue consequences (10; 10; 14–22; 24–36; 12–20 AoE ×3) against the primary's 29–64 core pressure and 'Nothing attacks' Battle Phase; categories are retained as model slots, not observed Trace attacks. Held."
+  ],
+  "split": [
+    2,
+    11
+  ],
+  "repairs": [
+    {
+      "id": "R1-somebody-elses-footsteps",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Fading Mark* [**Debuff**] } | \"The traces on the floor are disappearing — and with them, proof that anyone was ever here.\" | [The Trace's collapse erases evidence; the target feels themselves becoming unproven.] | *Target suffers -10 Composure; they are becoming a trace that is fading.* **[10 Lament DMG [Lament]]** | When the target steps on the traces. |",
+      "new": "| { *Somebody Else's Footsteps* [**Debuff**] } | \"Your own steps make no sound. Somebody else's arrive from the broken section, in more gaits than your party has people.\" | [The Trace carries footsteps and produces none of its own; the target hears the missing party still mid-journey.] | *Target suffers -10 Clarity while trying to separate their own movement from the travellers'.* **[10 Lament DMG [Lament]]** | When the target steps onto the crystal line. |"
+    },
+    {
+      "id": "R2-the-compass-along-the-line",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Smudged History* [**Debuff**] } | \"Everything recorded here is blurring — names, dates, sorrows — all smudging into nothing.\" | [The Trace's breakdown corrupts the record; the target's own history smudges.] | *Target loses 10 Composure; they cannot remember clearly.* **[10 Lament DMG [Lament]]** | When the target reads the traces. |",
+      "new": "| { *The Compass Along the Line* [**Debuff**] } | \"The needle does not spin. It points along the broken line, while every actual exit feels unfinished.\" | [Viderehan reveals route history, but direction fails if the collapsed alignment is mistaken for a current road.] | *Target loses 10 Clarity; they can read where the journey went and still not know how to leave.* **[10 Lament DMG [Lament]]** | When the target tries to navigate by the Trace. |"
+    },
+    {
+      "id": "R3-the-shortcut",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Static Burst* [**Attack**] } | \"The traces flare once — a final, bright moment of evidence — and then they are gone.\" | [The Trace's death-flash strikes the target.] | *Inflicts Lament pressure and one wound of erased certainty.* **[14-22 Lament DMG [Lament]]** | When the Trace is touched. |",
+      "new": "| { *The Shortcut* [**Attack**] } | \"It looks like a road. Every observer wants to follow it. That is the first warning, and it arrives dressed as common sense.\" | [Treating the collapsed route as a shortcut draws the target past the endpoint with the reasonable conviction that they are still mid-journey.] | *Inflicts Lament pressure through unfinished-arrival disorientation; nothing flares, strikes or is erased.* **[14-22 Lament DMG [Lament]]** | When an expedition treats the Trace as a shortcut to safety. |"
+    },
+    {
+      "id": "R4-a-route-gone-elsewhere",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Total Erasure* [**Attack**] } | \"Every trace, every mark, every record goes down together, in one motion.\" | [The Trace comes apart entirely and carries the evidence away with it.] | *A heavy Deep Blue void-of-record; the reading jumps 15%.* **[24-36 Lament DMG [Lament]]** | When the Trace is scraped off the ground. |",
+      "new": "| { *A Route Gone Elsewhere* [**Attack**] } | \"Nothing happens on the line. Somewhere else, a road has stopped existing with nobody there to write it down. The load cells know first.\" | [An unwitnessed route loss registers as added mass, new subsidence and pressure on the survey party; the Trace itself remains to be mapped.] | *Heavy Lament pressure; the reading jumps 15% while no mark is scraped away.* **[24-36 Lament DMG [Lament]]** | When a new route is destroyed without witness. |"
+    },
+    {
+      "id": "R5-no-arrival",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Unmarked Field* [**Ultimate**] } | \"After this there is nothing to find — no trace, no mark, no proof the field was ever walked.\" | [The erasure widens until it holds every metre of the field.] | *Everyone in range takes Lament pressure for three turns while the field goes unmarked.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |",
+      "new": "| { *No Arrival* [**Ultimate**] } | \"The field is not erased. It is worse than that: every direction remains visible, and none of them feels like having arrived anywhere.\" | [Direction loss widens along the broken alignment until forward movement must stop and a current return line is re-established.] | *Everyone in range takes Lament pressure for three turns of unfinished arrival; names and route history remain the record to preserve, not the thing destroyed.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At the 90% Sorrow Gauge activation threshold. |"
+    },
+    {
+      "id": "R6-expanded-origin",
+      "kind": "careful origin correction",
+      "careful": true,
+      "old": "- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.",
+      "new": "- **Expanded origin context:** The route failed before its travellers arrived. A Desolate path collapsed under Han and left a broken crystal line carrying tracks, route history and the absence of sixty-one people named on a complete departure manifest. The first obligation is therefore mapping and custody of names, not completing the journey on behalf of people who never reached its end."
+    },
+    {
+      "id": "R7-consequence-direction-loss",
+      "kind": "careful consequence correction",
+      "careful": true,
+      "old": "- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.",
+      "new": "- If resistance fails, the worker does not become a fading trace. Clarity goes first as direction: compass and attention align with the broken route, every exit feels unfinished, and the worker may continue in good order past the end unless the off-line partner and head count stop them."
+    },
+    {
+      "id": "R8-activation-return-line",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "**Activation Trigger:** New routes destroyed without witness.\n\n**Effect:** Projects concentrated Lament sorrow resonance across the immediate perimeter.\n\n**Duration:** While equipped, until the removal condition is met.\n\n**Risk:** Misuse increases emotional strain and may destabilize the operator.",
+      "new": "**Activation Trigger:** New routes destroyed without witness, or an expedition treats the Trace as a shortcut to safety.\n\n**Effect:** Compass needles point along the broken line; travellers lose direction and feel they have failed to arrive wherever they stand.\n\n**Duration:** Until forward movement stops, a current route map and return line are re-established, and discovered names are preserved.\n\n**Risk:** A worker may keep walking past the endpoint in the reasonable conviction that they are still mid-journey, or hear unfinished footsteps as their own."
+    },
+    {
+      "id": "R9-detailed-activation-return-line",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "| **Primary effect** | Projects concentrated Lament sorrow resonance across the immediate perimeter. |\n| **Duration / rate** | While equipped, until the removal condition is met. |\n| **Risk** | Critical (δ) Object-Weight producing Lament pressure; Misuse increases emotional strain and may destabilize the operator. |",
+      "new": "| **Primary effect** | Direction fails along the broken alignment; compass needles follow the collapsed line and every exit feels unfinished. |\n| **Duration / rate** | Until the party stops, restores a current map/return line, counts every member and preserves any names recovered. |\n| **Risk** | Critical (δ) Object-Weight producing Lament pressure; personnel may walk past the line's end while believing the journey continues. |"
+    },
+    {
+      "id": "R10-trace-shroud-appearance",
+      "kind": "short appearance correction",
+      "careful": false,
+      "old": "**Appearance:** a wrapping shroud of Lament Han-silk, cold on the skin, stitched so finely that the seams disappear when it is worn.",
+      "new": "**Appearance:** a blue wrapping shroud of Lament Han-silk, cold on the skin, with a faint crystal route line running from collar to hem and ending before the floor; in use the line becomes a visible return thread toward the current camp marker."
+    },
+    {
+      "id": "R11-trace-Lantern-appearance",
+      "kind": "short appearance correction",
+      "careful": false,
+      "old": "**Appearance:** a small lantern of Lament Han-crystal, cold in the hand, that throws its light the wrong way for its size.",
+      "new": "**Appearance:** a tiny blue lantern of Lament Han-crystal, cold in the hand, showing no flame until a route is named aloud; thin blue lines then reveal a hidden path together with the unfinished traveller names attached to it."
+    },
+    {
+      "id": "R12-field-use-splice",
+      "kind": "careful equipment correction",
+      "careful": true,
+      "old": "| **Before use** | Wielder, piece, gauge, and one pre-check, Quagmire's toll being that the bearer weeps, steadily and without distress, for travellers they never met and cannot name. The composure the censer grants is genuine and the tea. |\n| **During use** | Every occurrence of what Quagmire takes (the bearer weeps, steadily and without distress, for travellers they never met and cannot name. The composure the censer grants is genuine and the tea), timed. One is noted; a pattern across a shift ends the use. |\n| **At limit** | The cost is paid steadily and not in bursts: the shroud works by filtering out everything under a set weight, and it cannot tell a small grief from a small pleasure. Wearers come off the Trace light in the head and last on the sheet. The second worker's judgement overrides the wielder's, on paper and in the field. |\n| **After use** | Return the piece, then ask a colleague rather than the wielder whether Quagmire's cost is still showing — the shroud protects by filtering out everything below a certain weight, and it cannot tell a small grief from a small pleasure. Wearers come off the D. |",
+      "new": "| **Before use** | Wielder, piece, gauge, map custodian, team count and a physical return line. No piece is issued for solo travel beyond the agreed map boundary; the pre-check records which names, if any, the survey has already recovered. |\n| **During use** | Log every cost by piece: weeping for unnamed travellers, numbness to minor joys, or route voices/names revealed. A route line pointing forward without a map, footprints without names, or lantern light without a stated map purpose suspends travel. |\n| **At limit** | The custodian's return order overrides the bearer's judgement. If any team member is unaccounted for, route protection stops and search protocol replaces exploration; endurance on the line is not permission to continue alone. |\n| **After use** | Return together, enter every revealed name and route into custody, and review whether voices, weeping or flattened pleasure persist. A piece is not reissued while its route line remains forward-facing or its name record is incomplete. |"
+    },
+    {
+      "id": "R13-flavor-open-Desolate",
+      "kind": "careful flavor correction",
+      "careful": true,
+      "old": "**With continued exposure:** Time in the containment zone moves differently. The Lament pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Object-Weight is teaching you its sorrow.\n\n**When the entity activates:** Once the gauge tips, the Lament stops behaving like grief and starts behaving like weather. The Object-Weight was holding the ground still; then it lets go of it.\n\n**After departure:** The door seals and the pressure drops, but residue clings — Lament in the suit fibres, in the memory, in the space between thoughts where Fracture begins.",
+      "new": "**With continued exposure:** The survey becomes five numbers repeated against the same stakes: mass, breaks, bearing, subsidence and footsteps. Somewhere inside that discipline the wish to simply keep walking presents itself as efficiency, which is why the head count comes before the instruments.\n\n**When the entity activates:** The cause may be nowhere near the Scar. A route has been destroyed without witness, or somebody has decided the broken line is a shortcut; compass needles settle along it, the mass forecast fails, and every exit begins to feel unfinished.\n\n**After departure:** There is no door to seal in open Desolate. The party leaves by its current return line with the names entered and the second head count complete; what remains is the line, heavier or not, and the knowledge that arriving back is not the same as finishing somebody else's journey."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-O-IVδ-168_Quagmire_무너진_흔적.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.002  clean   545 grams  Activation Behavior\n 0.002  clean   638 grams  Combat Record\n 0.000  clean  1443 grams  Apex Record\n 0.000  clean   649 grams  감각 묘사 (Flavor Text)\n 0.000  clean   582 grams  M.A.W. Equipment\n 0.000  clean   388 grams  이야기 보고 (Story Log)\n 0.000  clean   376 grams  기록 (Registrum)\n 0.000  clean   351 grams  이야기 (Narratio)\n 0.000  clean   306 grams  Appearance\n 0.000  clean   274 grams  관찰 기록 (Observation Log)\n 0.000  clean   219 grams  Behavior\n 0.000  clean   182 grams  Trivia\n 0.000  clean   178 grams  Operational Parameters\n 0.000  clean   123 grams  Origin\n 0.000  clean    95 grams  최종 관찰 (Final Observation)\n 0.000  clean    41 grams  증언 (Testimonium)\n 0.000  clean    37 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   55   1  | **Resistance** | 45% against Lament pressure; 35% against other pressure types |\n  154   1  > **This Relic Extracts Personal Resilience upon Extended Use**\nGENERIC 0.000  (2 shared shingles)  SE-O-IVδ-168_Quagmire_무너진_흔적.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-A__SIDE_CODEX_Quagmire.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-B__MAW-W_The_Trace_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-C__MAW-S_The_Trace_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-D__MAW-G_The_Trace_Lantern.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-A__SIDE_CODEX_Quagmire.md": "9a6d72fecb2d19889ae61bf5168b864e1a9096b64d91aa70db19d6389813c121",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-B__MAW-W_The_Trace_Requiem.md": "84513e12aa6662795c47c9a7bffe983686658105cccccdeff247e1b0d9bdb9f5",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-C__MAW-S_The_Trace_Shroud.md": "4f101f728259150f0bdcd167476277d1f6e1fb9e3f82ea54dfeadb58281e1820",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/168_Quagmire/SE-168-D__MAW-G_The_Trace_Lantern.md": "5ba4da5e346f575e6e0204a6a3033a5cbed791a4100e442cb5ff9cad5824b843"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-O-IVδ-168_Quagmire_무너진_흔적](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-168_Quagmire_%EB%AC%B4%EB%84%88%EC%A7%84_%ED%9D%94%EC%A0%81.md \"SE-O-IVδ-168_Quagmire_무너진_흔적.md\")]",
+  "table_link": "[[O-IVδ-168 Quagmire](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-168_Quagmire_%EB%AC%B4%EB%84%88%EC%A7%84_%ED%9D%94%EC%A0%81.md \"SE-O-IVδ-168_Quagmire_무너진_흔적.md\")]",
+  "reading": {
+    "before_lines": 496,
+    "before_bytes": 52025,
+    "final_lines": 496,
+    "final_bytes": 53579
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 26,
+    "physical_form_rows_unchanged": 300,
+    "tale_unchanged": true,
+    "digit_sequence_change": "The Ultimate trigger replaced 65% with the primary Core Stat Line's existing 90% activation threshold, and the Origin repeats the file's existing sixty-one manifest count in digits; no new statistic was introduced.",
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 4
+  }
+}
