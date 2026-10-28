@@ -14,7 +14,7 @@
 | **Element** | All four — Lament, Grudge, Void, Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A radiant, terrible figure, once the Kind Healer: vast wings woven from sorrow, a crown of branching Han-crystal, and a voice built of a thousand weeping tones made one. Its body is half-warm flesh, half-cold light — compassion calcified into judgment. To look on it is to feel grief and verdict at once; it is bloodless, and blindingly cold. |
-| **Movement** | Stationary — a place or zone; spreads rather than moves. |
+| **Movement** | Unformed. It would stand wherever the twelfth blessing completed, which is wherever the Kind Healer is standing; the register updates that weekly. |
 | **Location** | Never contained; forms through the Kind Healer transformation chain |
 | **R.D. Comprehension Level** | 2 — Limited historical record |
 
@@ -79,7 +79,7 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The Four Sorrows* [**Debuff**] } | "It opens with everything at once — grief, rage, weight, and the hollow — and you cannot tell which is worst." | [The Dawn radiates all four sorrows; the target is marked by whichever finds them first.] | *Target suffers the full Mixed cycle; the four sorrows take their turns.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | When the Dawn manifests or contact begins. |
-| { *The Seeping* [**Debuff**] } | "It does not enter — it seeps, through the walls, the floors, the air itself." | [The Dawn flows through every surface; the target is steeped in sorrow from all directions.] | *The cycle settles deeper; the four sorrows take hold.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | When the target cannot escape the seeping. |
+| { *The Seeping* [**Debuff**] } | "It does not seep through walls — nothing here flows anywhere. In the branches where it rose, the light simply stopped leaving anything out: every grief unmourned, every guilt unabsolved, shown at once." | [Projected, like everything in this file: the revelation does not enter a room, it finishes entering it.] | *The cycle settles deeper; the four sorrows take hold.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | When there is no longer a partial view to stand in. |
 | { *The Mourning Light* [**Attack**] } | "The light of it is the color of dawn — and it burns like a grief that finally has a shape." | [A beam of mourning-dawn light strikes the target, carrying all four sorrows in one ray.] | *Inflicts the full Mixed cycle in a focused hit.* **[12-18 Grudge (HP) -> 12-18 Lament (Composure) -> 12-18 Weight (Both) -> 2 Void (10% Max HP) | 8s, 2s per type]** | When the Dawn is confronted. |
 | { *The Transformation Reversed* [**Attack**] } | "It is what the Hope-Bearers were meant to prevent — and here, the transformation runs the other way." | [The Dawn channels the reversed transformation, forcing sorrow back into the target at once.] | *A devastating Mixed surge; the target's Sorrow Gauge climbs 15%.* **[20-30 Grudge (HP) -> 20-30 Lament (Composure) -> 20-30 Weight (Both) -> 3 Void (15% Max HP) | 8s, 2s per type]** | When the Dawn is attacked or a Hope-Bearer is present. |
 | { *The Mourning of All Things* [**Ultimate**] } | "The dawn comes up and everything that has ever sorrowed grieves at the same moment." | [Every holding in the registry and every person in the city mourns at once.] | *City-ending. Modelled from the chain's arithmetic and from the Hand of Hope's own formation, never observed.* **[Projected]** | If the twelfth blessing completes in sorrow. |
@@ -122,16 +122,16 @@
 | **Position / movement** | Unformed. Every row in this table describes the Hand of Hope with the sign reversed, and the file says so rather than implying it. |
 | **Material / signature** | Projected: five pairs of wings of crystallised tears, a crown of thorned sorrow-crystal, a collar carrying every name the Kind Healer could not save. The collar's estimated count is the only figure in this section anybody has checked — three thousand and eleven, from the Healer's own blessing records. The same older records give the figure's stature and dress, which the wing carries as projections like the rest: about three metres tall, in funeral vestments that never settle and shift between white, pale violet and grey, with wings that hang unmoving like the windows of a cathedral and eyes that are two wells of violet so dark they read as black. They add that the gaze makes the unhealed wounds of whoever meets it audible. |
 | **Distinctive markers** | Judges all who enter its sight. Sentences the judged through sorrow-crucifixion. Each feather represents the grief of a blessed person. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | There is nothing to identify until there is. The working identification is the register: eleven blessings, the twelfth outstanding, reconciled quarterly against the Kind Healer's own file. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** None is possible; there is no appearance to take. What is logged quarterly in its place is the apparatus of not-having-formed: the blessing count against the Healer's file, the charm's temperature, the list of four re-confirmed, and one line preserved verbatim from the eleventh-hour commanders — twelve was averted; the sun rose ordinary.
 
 ## Origin
 - **Formation:** The Dawn is the catastrophic historical form of the Kind Healer. In the current cycle, the twelfth blessing produced The Hand of Hope instead.
 - **The Sorrow:** Compassion transformed into judgment after absorbing twelve complete burdens.
 - **The Event:** In historical branches, the twelfth blessing completed the chain and turned healing into sentencing. The current cycle diverged: compassion transformed into The Hand of Hope.
 - **The People:** The twelve personnel blessed by the Kind Healer and the city whose sorrow they carried. If the chain turns, the twelve are the Mourners: Hope Bearers inverted, with their hope turned to sorrow and their enhanced attributes turned to spreading it, and none of them chose it.
-- **Expanded origin context:** Archive note: the sorrow did not emerge from nothing. It grew — patient, specific, around Never contained; forms through the Kind Healer transformation chain — until the All four was dense enough to become a Subject. The sorrow is old. The entity is just its current shape.
+- **Expanded origin context:** The sorrow did not accumulate in a place; it accumulated in a person. Twelve complete burdens, absorbed one blessing at a time by the kindest entity in the early catalog, until compassion that had nowhere left to put them inverted into judgment. The current cycle's count stands at eleven, and everything else in this file is written so that nobody mistakes a projection for an observation.
 
 ## Behavior
 
@@ -158,21 +158,21 @@ There is no gauge and no Work Type response, because there is nothing to work. W
 **Reading the response:** There is nothing to read. The only indicator the wing has is the blessing register, and the only intervention it has is a conversation with one person who does not know, so far as the file records, that they are the twelfth.
 ## Breach Behavior
 
-> *"Dawn of Mourning has broken free. Hunts personnel indiscriminately."*
+> *"There is no breach notice for this holding, because there is nothing held. The nearest equivalent on record is a line from the commanders' debriefs: twelve was averted. The sun rose ordinary."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
-| **Movement** | Dawn of Mourning seeps through the walls, filling every corridor. It hunts personnel indiscriminately. |
-| **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
-| **Secondary Effect** | An absence that eats the edges of reality. |
+| **Movement** | Projected: none that matters. In the historical branches it did not hunt, chase or seep; it stood and sentenced, and the light reached everything without travelling anywhere. |
+| **Effect** | Projected: the opposite of fading. Colors, sounds and distinctions do not vanish; they become total — every unhealed wound in earshot made audible, every compartment the city endures by removed at once. |
+| **Secondary Effect** | Projected: the casualties are bearings, not bodies — personnel physically whole and functionally unmade, unable to resume routines the light has revealed as evasions. Recovery, in the one morning on record, was re-dimming: the slow rebuilding of partial sight. |
 | **First Target** | Projected: Hope Bearers, inverted first. The projection is drawn from the Hand of Hope's formation, in which the same people were the first to be lifted. |
 | **Escalation** | Projected: +10% to every holding in the facility per turn. The figure appears in two other copies of the Dawn's own entry and originates in this one, which the wing notes because it has been cited back at itself as corroboration. |
 
 ### Escalation Notes
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
+- **Containment priority:** There is none post-formation, and the file does not pretend one. No reliable method exists after the twelfth blessing completes; the entire provision sits before it — the count, the counter-liturgy, and one genuine confession.
 - **Sorrow Gauge on formation:** Projected to open at 40% and rise 10% a turn. No observation supports the figure and the wing has left it in place because removing it would leave the row blank and the row is read by people planning evacuations.
 
 ## M.A.W. Equipment
@@ -290,7 +290,7 @@ Compassion transformed into judgment after absorbing twelve complete burdens.
 Management: Genuine confession before the twelfth blessing; no reliable post-formation method exists.  Second manifestation, Year 4232+1778: 891 personnel lost.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-The sorrow did not emerge from nothing. It grew around this location until it was dense enough to become the entity — old grief in a new shape.
+The sorrow did not emerge from nothing, and it did not gather in a place. It gathered in the Healer, one absorbed burden at a time, in the open, gratefully received and carefully recorded by a city that had stopped counting at seven. Count everything. That is the whole doctrine in two words.
 
 ## 최종 관찰 (Final Observation)
 
@@ -319,7 +319,7 @@ The Kind Healer rises into light that is not light. Twelve colors merge, and win
 
 Six relations, and five of them are the reason this file exists at all: the Healer it comes from, the Hand it could have been, the Maw it would recognise, the Colossus that would kneel, and the Bell that would toll. None of it has happened. The sixth, the Convergence, is the only pairing in the archive that both files describe as unmodellable.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** None. There is nothing to bring anywhere, no solo baseline to run and no distance at which anything activates. Five of the six relations below are read out of other files — the Healer's, the Hand's, the Bell's — and the wing's rule is that nothing read out of this file may be cited back into those as corroboration.
 
 
 ### Entity Interaction Record
@@ -465,8 +465,8 @@ The morning-after doctrine is the Directorate's closing answer to the Dawn: rest
 
 - **Classification detail:** Dawn of Mourning is a Subject with Sovereign (V) — Absolute and divine coherence and Catastrophic (ω) — City-threatening potency.
 - **Field detail:** Its defining element is All four — Lament, Grudge, Void, Weight, and its registered location is Never contained; forms through the Kind Healer transformation chain.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** There are no physical markers to recognise, which is the point of the file. Recognition here is arithmetic: the blessing register at eleven of twelve, the charm colder than last year, and a dawn logged as ordinary.
+- **Record detail:** Every projection in this record is marked as one. The verified contents are small: a register, a list of four names, a charm's temperature series, and thirty-eight correct judgements in forty-one sealed statements.
 - **Containment detail:** There is nothing sealed and nothing to seal. The containment of this holding is a conversation that has not happened yet, with a person who has not been told, and the wing has argued for four years about whether telling them would help.
 ## Document Information
 

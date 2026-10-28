@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Vω-001": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_03_DAWN_OF_MOURNING.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -4024,8 +4036,23 @@
     {
       "designation": "C-Vω-001",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Fourteen source-supported repairs (4 short / 10 careful): the unformed Sovereign stops breaking free, hunting, seeping and being stabilised by combined Work Types; machine-filled origin/method/protocol template returns to the file's own doctrine — a register at eleven of twelve, every projection marked, and one genuine confession as the entire provision. HELD; no credit (in-file full-set source review dated 2026-10-12; direct SE-044).",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_03_DAWN_OF_MOURNING.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-A__SIDE_CODEX_Dawn_of_Mourning.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-B__MAW-W_The_Dawn_of_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-C__MAW-S_The_Dawn_of_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-D__MAW-G_The_Dawn_of_Charm.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Vω-925",

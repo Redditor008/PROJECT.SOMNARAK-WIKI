@@ -1,0 +1,193 @@
+{
+  "designation": "C-Vω-001",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md",
+  "words": 8340,
+  "sha256": "4a0e904d8ef0cb90e0ee095514fe35f57f8e535fb3b5fba69eb0e570e533a72c",
+  "unit": 3,
+  "name": "Dawn of Mourning",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_03_DAWN_OF_MOURNING.md",
+  "before_words": 8340,
+  "after_words": 8535,
+  "base": "b5f3e1da41a44015ec8314d28b4a399065920cca",
+  "final_sha256": "a1be60000cfe83428147d984eaa69042970b1ecd68c01f715b5dab3f0a05d09e",
+  "summary": "Fourteen source-supported repairs (4 short / 10 careful): the unformed Sovereign stops breaking free, hunting, seeping and being stabilised by combined Work Types; machine-filled origin/method/protocol template returns to the file's own doctrine — a register at eleven of twelve, every projection marked, and one genuine confession as the entire provision. HELD; no credit (in-file full-set source review dated 2026-10-12; direct SE-044).",
+  "commentary": "This file knows exactly what it is: a contingency written around something that has not happened, whose real contents are a blessing register, four names, a cooling charm and three people who can tell a true confession from a performed one. A generic breach block kept pretending otherwise — an entity that never formed 'breaking free', hunting personnel, seeping through walls and eating reality's edges, in a dossier whose Tale says plainly that it did not attack, it sentenced, and did not kill, it revealed. The repairs keep every projected figure where the wing left it, marked as projected, and give the breach rows back to the chronicle's own grammar: was, not is.",
+  "reasoning": "Identity is direct: Side A / items carry Source SECC Designation `C-Vω-001 [LS]`, set 4/4, for SE-044. R-18 split declared before editing: four short (SECC 'place or zone' movement stub; the duplicated Identification-row fragment; two generic Registry Trivia lines) and ten careful (the breach banner and Movement/Effect/Secondary rows making an unformed, judgment-register Sovereign break free, hunt indiscriminately, seep through walls, fade colors and eat reality's edges, against 'It did not attack. It sentenced… The Dawn did not kill. It revealed' and 'Nothing is documented from observation… marked each one as modelled'; 'Stabilize reality through combined Work Types' against 'There is no gauge and no Work Type response' and 'no reliable post-formation method exists'; the fluid *Seeping* combat row; the broken generic appearance protocol ending 'such as strange or anomalous'; two machine-filled origin sentences; the generic solo-baseline interaction method against 'There is no procedure, because there is nothing to bring anywhere'). R-33 chain: Kind Healer absorbs twelve burdens → current cycle diverged to the Hand of Hope at eleven logged blessings → the wing maintains a register, a counter-liturgy and a confession-test at 38/41 → every Dawn figure is the Hand's formation read backwards and marked projected. No formation, hunting, thirteenth-count content or equipment crosswalk was invented.",
+  "history": "Historical branches record three manifestations (two dated Year 4232+1778 with 234 and 891 personnel lost; a third in Year 4221 stopped by Director Majin's confession); the current cycle diverged and produced the Hand of Hope. Fresh equipment credit BARRED: the primary contains a dated in-file 'Full-set source review (2026-10-12)' against Side SE-044-A, items B/C/D, Registry rows 86-89, Master M.A.W. 397-399, Entity Codex 500 / Tale 133, archetypes MAW-W-001/044 and the Kind Healer set SE-071, concluding 'No name, form, grade, probability, or ability was normalized.' The primary itself states no current M.A.W. piece exists ('— · —' grade overview; the three local pieces are the Kind Healer's, reissued). Ledger `equipment_reviews` has no C-Vω-001 entry. Therefore Equipment reviewed +0/+0; Types and Weapon unchanged at 286/301 and 284/287.",
+  "holds": [
+    "Weapon form: the local gold eight-inch *First Dawn Stiletto* (shared name/appearance with `MAW-W-001` and Orphaned Bell item `SE-001-B`, no link recorded) vs linked *Dawn of Requiem*'s pale-blue long Han-crystal blade (`MAW-W-044-01`). Damage/speed/range align; no form selected. Held as the 2026-10-12 review left it.",
+    "Suit appearance: local pale shroud carrying eleven Armoury-unmade hem marks, counted yearly since the eighth blessing, vs item C's deep-blue shroud with a single pale luminous seam. Held.",
+    "Stigma function/probability: local confession-test charm (38 of 41 against sealed statements) and the chronicle-only *Unrisen Sun* (total recall/steadiness, borne by eleventh-hour commanders) vs linked *Dawn of Charm*'s minor boon and folded-flower pendant; Registry bestowal 5% vs local/Side/item 3%. No crosswalk invented. Held.",
+    "The thirteenth count — unlogged residue gathering beneath the register across cycles, with sealed orders known to three Wardens: recorded as doctrine and debrief testimony only; contents not guessed. Held.",
+    "The Mirror Event (Dawn and Hand cancelling in pure Han), the Colossus kneeling and the Bell Tolling for this entity: older-source claims the wing declines to carry as findings; the Bell's silence is kept as evidence the chain has not turned. Held."
+  ],
+  "split": [
+    4,
+    10
+  ],
+  "repairs": [
+    {
+      "id": "R1-secc-movement",
+      "kind": "short appearance completion",
+      "careful": false,
+      "old": "| **Movement** | Stationary — a place or zone; spreads rather than moves. |",
+      "new": "| **Movement** | Unformed. It would stand wherever the twelfth blessing completed, which is wherever the Kind Healer is standing; the register updates that weekly. |"
+    },
+    {
+      "id": "R2-the-seeping",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Seeping* [**Debuff**] } | \"It does not enter — it seeps, through the walls, the floors, the air itself.\" | [The Dawn flows through every surface; the target is steeped in sorrow from all directions.] | *The cycle settles deeper; the four sorrows take hold.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | When the target cannot escape the seeping. |",
+      "new": "| { *The Seeping* [**Debuff**] } | \"It does not seep through walls — nothing here flows anywhere. In the branches where it rose, the light simply stopped leaving anything out: every grief unmourned, every guilt unabsolved, shown at once.\" | [Projected, like everything in this file: the revelation does not enter a room, it finishes entering it.] | *The cycle settles deeper; the four sorrows take hold.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | When there is no longer a partial view to stand in. |"
+    },
+    {
+      "id": "R3-identification-row",
+      "kind": "short factual correction",
+      "careful": false,
+      "old": "| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |",
+      "new": "| **Identification** | There is nothing to identify until there is. The working identification is the register: eleven blessings, the twelfth outstanding, reconciled quarterly against the Kind Healer's own file. |"
+    },
+    {
+      "id": "R4-appearance-protocol",
+      "kind": "careful appearance correction",
+      "careful": true,
+      "old": "**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”",
+      "new": "**Appearance protocol:** None is possible; there is no appearance to take. What is logged quarterly in its place is the apparatus of not-having-formed: the blessing count against the Healer's file, the charm's temperature, the list of four re-confirmed, and one line preserved verbatim from the eleventh-hour commanders — twelve was averted; the sun rose ordinary."
+    },
+    {
+      "id": "R5-expanded-origin",
+      "kind": "careful origin correction",
+      "careful": true,
+      "old": "- **Expanded origin context:** Archive note: the sorrow did not emerge from nothing. It grew — patient, specific, around Never contained; forms through the Kind Healer transformation chain — until the All four was dense enough to become a Subject. The sorrow is old. The entity is just its current shape.",
+      "new": "- **Expanded origin context:** The sorrow did not accumulate in a place; it accumulated in a person. Twelve complete burdens, absorbed one blessing at a time by the kindest entity in the early catalog, until compassion that had nowhere left to put them inverted into judgment. The current cycle's count stands at eleven, and everything else in this file is written so that nobody mistakes a projection for an observation."
+    },
+    {
+      "id": "R6-breach-quote",
+      "kind": "careful breach correction",
+      "careful": true,
+      "old": "> *\"Dawn of Mourning has broken free. Hunts personnel indiscriminately.\"*",
+      "new": "> *\"There is no breach notice for this holding, because there is nothing held. The nearest equivalent on record is a line from the commanders' debriefs: twelve was averted. The sun rose ordinary.\"*"
+    },
+    {
+      "id": "R7-breach-movement",
+      "kind": "careful breach correction",
+      "careful": true,
+      "old": "| **Movement** | Dawn of Mourning seeps through the walls, filling every corridor. It hunts personnel indiscriminately. |",
+      "new": "| **Movement** | Projected: none that matters. In the historical branches it did not hunt, chase or seep; it stood and sentenced, and the light reached everything without travelling anywhere. |"
+    },
+    {
+      "id": "R8-breach-effect",
+      "kind": "careful breach correction",
+      "careful": true,
+      "old": "| **Effect** | The containment zone loses definition, colors fade, sounds vanish. |",
+      "new": "| **Effect** | Projected: the opposite of fading. Colors, sounds and distinctions do not vanish; they become total — every unhealed wound in earshot made audible, every compartment the city endures by removed at once. |"
+    },
+    {
+      "id": "R9-breach-secondary",
+      "kind": "careful breach correction",
+      "careful": true,
+      "old": "| **Secondary Effect** | An absence that eats the edges of reality. |",
+      "new": "| **Secondary Effect** | Projected: the casualties are bearings, not bodies — personnel physically whole and functionally unmade, unable to resume routines the light has revealed as evasions. Recovery, in the one morning on record, was re-dimming: the slow rebuilding of partial sight. |"
+    },
+    {
+      "id": "R10-containment-priority",
+      "kind": "careful breach correction",
+      "careful": true,
+      "old": "- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.",
+      "new": "- **Containment priority:** There is none post-formation, and the file does not pretend one. No reliable method exists after the twelfth blessing completes; the entire provision sits before it — the count, the counter-liturgy, and one genuine confession."
+    },
+    {
+      "id": "R11-story-entry-5",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "The sorrow did not emerge from nothing. It grew around this location until it was dense enough to become the entity — old grief in a new shape.",
+      "new": "The sorrow did not emerge from nothing, and it did not gather in a place. It gathered in the Healer, one absorbed burden at a time, in the open, gratefully received and carefully recorded by a city that had stopped counting at seven. Count everything. That is the whole doctrine in two words."
+    },
+    {
+      "id": "R12-interaction-method",
+      "kind": "careful interaction correction",
+      "careful": true,
+      "old": "**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.",
+      "new": "**Interaction method:** None. There is nothing to bring anywhere, no solo baseline to run and no distance at which anything activates. Five of the six relations below are read out of other files — the Healer's, the Hand's, the Bell's — and the wing's rule is that nothing read out of this file may be cited back into those as corroboration."
+    },
+    {
+      "id": "R13-trivia-recognition",
+      "kind": "short trivia correction",
+      "careful": false,
+      "old": "- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.",
+      "new": "- **Recognition detail:** There are no physical markers to recognise, which is the point of the file. Recognition here is arithmetic: the blessing register at eleven of twelve, the charm colder than last year, and a dawn logged as ordinary."
+    },
+    {
+      "id": "R14-trivia-record",
+      "kind": "short trivia correction",
+      "careful": false,
+      "old": "- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.",
+      "new": "- **Record detail:** Every projection in this record is marked as one. The verified contents are small: a register, a list of four names, a charm's temperature series, and thirty-eight correct judgements in forty-one sealed statements."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.017  clean   713 grams  M.A.W. Equipment\n 0.000  clean  2168 grams  Sovereign Chronicle\n 0.000  clean   644 grams  감각 묘사 (Flavor Text)\n 0.000  clean   509 grams  Combat Record\n 0.000  clean   379 grams  이야기 (Narratio)\n 0.000  clean   275 grams  Appearance\n 0.000  clean   249 grams  Trivia\n 0.000  clean   230 grams  기록 (Registrum)\n 0.000  clean   212 grams  Breach Behavior\n 0.000  clean   167 grams  관찰 기록 (Observation Log)\n 0.000  clean   160 grams  Operational Parameters\n 0.000  clean   147 grams  Origin\n 0.000  clean   126 grams  이야기 보고 (Story Log)\n 0.000  clean   111 grams  증언 (Testimonium)\n 0.000  clean   107 grams  Behavior\n 0.000  clean    60 grams  SECC Classification\n 0.000  clean    57 grams  최종 관찰 (Final Observation)\n 0.000  THIN      1 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "  249  12  **Full-set source review (2026-10-12):** Reviewed the `— · —` grade overview, all three local pieces, Use Notes, Field Use Record,\nGENERIC 0.002  (12 shared shingles)  SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-A__SIDE_CODEX_Dawn_of_Mourning.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-B__MAW-W_The_Dawn_of_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-C__MAW-S_The_Dawn_of_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-D__MAW-G_The_Dawn_of_Charm.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-A__SIDE_CODEX_Dawn_of_Mourning.md": "d72e589ba3e1b1f16ce2eddc32055927d0210f8f0707376ec4e236ae9b72414b",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-B__MAW-W_The_Dawn_of_Requiem.md": "f888a896a0d6b629aa4c464d9ccf1d8fcfe849eccfa51a29b6fd3ed5b3407732",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-C__MAW-S_The_Dawn_of_Shroud.md": "47f0976072884f8e07ee30d81b8c8c720290f88fb11accaebbe574b118d109fe",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/044_Dawn_of_Mourning/SE-044-D__MAW-G_The_Dawn_of_Charm.md": "b106d7bbda34a2fd6736bc40cec2d882a18dfdac6fb1a2fe3e19fd275d98cfa1"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CF%89-001_Dawn_of_Mourning_%EC%95%A0%EB%8F%84%EC%9D%98_%EC%83%88%EB%B2%BD.md \"SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md\")]",
+  "table_link": "[[SE-C-Vω-001 Dawn of Mourning](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CF%89-001_Dawn_of_Mourning_%EC%95%A0%EB%8F%84%EC%9D%98_%EC%83%88%EB%B2%BD.md \"SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md\")]",
+  "reading": {
+    "before_lines": 476,
+    "before_bytes": 52837,
+    "final_lines": 476,
+    "final_bytes": 53862
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 37,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 4,
+    "digit_sequence_change": ""
+  }
+}

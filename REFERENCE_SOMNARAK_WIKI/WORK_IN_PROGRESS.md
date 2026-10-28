@@ -1,7 +1,7 @@
 # Work In Progress
 
-## Batch 197 — OPEN, 2 / 5 (2026-10-28)
-Unit 2 — **Frozen Tear `C-IIβ-102`: HELD; credit-barred, +0.** 14 repairs (2s/12c; 8,336→8,594 words); exact set SE-1010 Icedrop. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_02_FROZEN_TEAR.md).
+## Batch 197 — OPEN, 3 / 5 (2026-10-28)
+Unit 3 — **Dawn of Mourning `C-Vω-001`: HELD; credit-barred, +0.** 14 repairs (4s/10c; 8,340→8,535 words); exact set SE-044. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_03_DAWN_OF_MOURNING.md).
 ## Batch 196 — CLOSED, 5 / 5 (2026-10-28)
 All five HELD, No change 0, 63 repairs (16s/47c), no fresh credit (all barred by prior dispositions). Battery: 25/25 validators, 5/5 reconstruction, 40/40 fingerprints, audits PASS. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_CLOSE.md).
 
