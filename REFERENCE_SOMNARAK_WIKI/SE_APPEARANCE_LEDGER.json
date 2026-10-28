@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Iα-236": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_03_UNWITNESSED.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -3435,8 +3447,23 @@
     {
       "designation": "C-Iα-236",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-236_Unwitnessed_사라진_씨앗.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Eleven source-supported repairs (2 short / 9 careful): a hollow that stops within four seconds of anyone arriving stops being regarded, haunted by a ghost-sprout, firing husk-bullets, displaying its might-have-been tree and standing its ungrown field up; the channel/conduit/venting profile and a per-recovery Composure charge return to the seven-day unattended logger. HELD; no credit (in-file full-set source review dated 2026-10-13; direct SE-236).",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_03_UNWITNESSED.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-236-A__SIDE_CODEX_Unwitnessed.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-236-B__MAW-W_The_Seedless_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-236-C__MAW-S_The_Seedless_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-236-D__MAW-G_The_Seedless_Pod.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Iα-240",

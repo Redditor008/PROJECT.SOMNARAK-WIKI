@@ -1,7 +1,7 @@
 # Work In Progress
 
-## Batch 198 — OPEN, 2 / 5 (2026-10-28)
-Unit 2 — **Floating Shard `C-IVδ-503`: HELD; credit-barred, +0.** 9 repairs (1s/8c; 8,455→8,704 words); direct SE-503. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_02_FLOATING_SHARD.md).
+## Batch 198 — OPEN, 3 / 5 (2026-10-28)
+Unit 3 — **Unwitnessed `C-Iα-236`: HELD; credit-barred, +0.** 11 repairs (2s/9c; 8,470→8,773 words); direct SE-236. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_03_UNWITNESSED.md).
 ## Batch 197 — CLOSED, 5 / 5 (2026-10-28)
 All five HELD, No change 0, 70 repairs (13s/57c), no fresh credit (all barred by prior dispositions). Battery: 25/25 validators, 5/5 reconstruction, 35/35 fingerprints, audits PASS. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_CLOSE.md).
 ## Batch 196 — CLOSED, 5 / 5 (2026-10-28)

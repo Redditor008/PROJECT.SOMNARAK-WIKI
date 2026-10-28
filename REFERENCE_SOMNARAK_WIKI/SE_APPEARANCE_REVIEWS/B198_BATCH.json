@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 198,
   "status": "OPEN",
-  "completed_units": 2,
+  "completed_units": 3,
   "required_units": 5,
   "queue": [
     {
@@ -42,7 +42,7 @@
     }
   ],
   "opened_at": "2026-10-28",
-  "completed": 2,
+  "completed": 3,
   "units": [
     {
       "designation": "C-IVδ-092",
@@ -428,6 +428,178 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 4,
         "digit_sequence_change": "Digits changed by provenance documented inside repairs: the unmeasured 'Composure drains 5 further' per-turn figure (5) was removed; the Clash phase's turn count was aligned in words to the record's 24-turn length. All hard series retained (23 points, 11 unlogged rises, 9 claims, 14-month median)."
+      }
+    },
+    {
+      "designation": "C-Iα-236",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-236_Unwitnessed_사라진_씨앗.md",
+      "words": 8470,
+      "sha256": "66ddcbe9c7eff8d58db3459e726c11d764d2aea4b617eade0c9ca8549f6b2760",
+      "unit": 3,
+      "name": "Unwitnessed",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_03_UNWITNESSED.md",
+      "before_words": 8470,
+      "after_words": 8773,
+      "base": "60d7bea5f517658ba80758803d32b4f35629a1e2",
+      "final_sha256": "4b08a38f4ae64b8f339daab7f55faac1bbd79a7f7230fcf3b317fe2e6ba014cb",
+      "summary": "Eleven source-supported repairs (2 short / 9 careful): a hollow that stops within four seconds of anyone arriving stops being regarded, haunted by a ghost-sprout, firing husk-bullets, displaying its might-have-been tree and standing its ungrown field up; the channel/conduit/venting profile and a per-recovery Composure charge return to the seven-day unattended logger. HELD; no credit (in-file full-set source review dated 2026-10-13; direct SE-236).",
+      "commentary": "This is the archive's other signature-rule file — Clapperless measures certificates, Unwitnessed measures files that begin at intake — and its instrument is an absence: a dial logger left alone for seven days because presence ends the measurement. Its combat rows kept requiring an audience: a target regarding the furrow, lingering at it, being struck by its husk. There is no audience. The repairs move every effect to where the file's effects actually happen — the recovery walk, the intake desk, and the one reportable failure, which is writing down what the beginning probably was.",
+      "reasoning": "Identity is direct: Side A carries SECC Designation `C-Iα-236 [LO]`, Related Entity SE-236, set 4/4 (*The First Mark*), and names this primary as its source; items B/C/D match the primary's Requiem/Shroud/Pod cores. R-18 split declared before editing: two short (the SECC Entity Type row truncated mid-word at 'the correl'; the generic 'place or zone' movement stub) and nine careful (five combat rows requiring a present target for an entity that 'is not observable while an observer is present', has 'not injured anybody' in four hundred years, never had a sprout or husk recovered, and whose might-have-been the file treats as indescribable; the sector-alteration/channel-overload quote block against the primary's own 'the phrase survived from a template and no instrument has ever registered anything beyond the outline'; 'Continuous / channeled use' and venting termination against the absence doctrine; the Day 7 '4 Composure charged' figure with no provenance in the record). R-33 chain: a beginning lost before anyone witnessed it → hollow deepening in proportion to unverified-origin registrations → seven-day unattended measurement → the Rule of the Recorded Beginning (Before Us pages, marked unverified, never summarised). The 2026-10-13 holds — Barren Star-Orrery vs the Seedless Requiem singing blade, and Tale 110's `[LW]` tag against `[LO]` — were preserved exactly; Side A's own husk-surge and imagined-future incidents remain the items' record and were not imported into the primary's cleaner series.",
+      "history": "Site first pegged by a Scavenger disbelieved for sixty years; correlation with registrations established Year 4229; ceiling 157 mm during the Year 4228 evacuation intake; first return under the Rule of the Recorded Beginning in Year 4238 (806 unverifiable origins, 666 Before Us pages, 140 asked-and-unanswered). Fresh equipment credit BARRED: the primary contains a dated in-file 'Full-set source review (2026-10-13)' against exact Side SE-236-A, items SE-236-B/C/D, Master Registry rows 522-525, Master M.A.W. 328-330, Entity Codex 476 / Tale 110 and archetype MAW-W-236. Ledger `equipment_reviews` has no C-Iα-236 entry. Therefore Equipment reviewed +0/+0; Types and Weapon unchanged at 286/301 and 284/287.",
+      "holds": [
+        "Weapon form: local/Master-table *The Barren Star-Orrery* with W-236's hollow-brass orrery index vs Side/item B and Master Entry 328's short singing blade *The Seedless Requiem* with an empty seed-shaped groove. Core values align; no transition joins the forms. Held as the 2026-10-13 review left it.",
+        "Designation tag: Entity Tale 110 records `[LW]` where the primary, Side A and Entity Codex row 476 use `[LO]`. Separate conflict, held unnormalized.",
+        "The traveller, the seed, the home and the intended crop: attested in three testimonies, each attributing them to somebody else, and in no document. The holding has twice refused to reconcile the testimonies; no originator supplied. Held.",
+        "Whether depth ever feeds back into land process (Side A: nearby seeds fail and briefly display imagined mature forms on expansion) vs the primary's four failed soil-condition tests and no-instrument-beyond-the-outline: preserved as a source fork; the primary's series stands unamended. Held.",
+        "The heartbeat during rain: recorded as a correlation with moisture, 'not an explanation of anything'. No mechanism proposed. Held."
+      ],
+      "split": [
+        2,
+        9
+      ],
+      "repairs": [
+        {
+          "id": "R1-secc-entity-truncated",
+          "kind": "short factual completion",
+          "careful": false,
+          "old": "| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on a person entered on this facility's registers with no recorded beginning. the land has nothing to do with it; the correl |",
+          "new": "| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on a person entered on this facility's registers with no recorded beginning. The land has nothing to do with it. |"
+        },
+        {
+          "id": "R2-secc-movement",
+          "kind": "short appearance completion",
+          "careful": false,
+          "old": "| **Movement** | Stationary — a place or zone; spreads rather than moves. |",
+          "new": "| **Movement** | Fixed in the Desolate soil; the outline has not changed by more than a finger's width in four hundred years of survey. The movement is downward and is read off a recovered logger. |"
+        },
+        {
+          "id": "R3-empty-furrow",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Empty Furrow* [**Debuff**] } | \"The seed is gone — but the furrow where it was planted still waits for something to grow.\" | [The absence of the Seed aches; the target feels potential that was never realized.] | *Target suffers -10 Composure; they mourn a thing that never was.* **[10 Lament DMG [Lament]]** | When the target regards the furrow. |",
+          "new": "| { *The Empty Furrow* [**Debuff**] } | \"Nobody regards the furrow — the manifestation stops within four seconds of a person arriving, in every recovery on record. What is regarded, seven days later, is a dial trace and a deepest value with a date beside it.\" | [The ache arrives at the desk, not at the site: a hollow exactly as deep as the fortnight's unwritten beginnings.] | *Target suffers -10 Composure; they mourn a thing that never was, at the distance the record imposes.* **[10 Lament DMG [Lament]]** | On recovery of the logger. |"
+        },
+        {
+          "id": "R4-dead-sprout",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Dead Sprout* [**Debuff**] } | \"Something almost grew here — and the almost is worse than the nothing.\" | [The ghost of the vanished Seed's potential presses on the target.] | *Target loses 10 Composure; they feel every unlived life.* **[10 Lament DMG [Lament]]** | When the target lingers at the furrow. |",
+          "new": "| { *The Dead Sprout* [**Debuff**] } | \"Nothing almost grew here; that is the distinction the briefing leads with. A thing that grew and failed has a first record. This was never entered, and the soil has refused four plantings since.\" | [No ghost of potential presses on anybody; what presses is a file whose first date is the day the facility met the person.] | *Target loses 10 Composure; they feel the shape of a life with its first thirty years left off the form.* **[10 Lament DMG [Lament]]** | When the fortnight's intake files are pulled. |"
+        },
+        {
+          "id": "R5-the-husk",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Husk* [**Attack**] } | \"The empty seed-husk, blown by a wind that is not there, strikes like a bullet.\" | [The dried husk of what the Seed was fires at the target.] | *Inflicts Lament pressure and one small, sharp wound of lost potential.* **[14-22 Lament DMG [Lament]]** | When the furrow is disturbed. |",
+          "new": "| { *The Husk* [**Attack**] } | \"No husk has ever been recovered, nothing is blown anywhere, and in four hundred years the site has not injured anybody. Disturbance is answered the only way this holding answers: by stopping.\" | [Arrive inside the week and the trace dies four seconds later; the week is void and the voiding is the whole of the effect.] | *Inflicts Lament pressure with no wound attached; the sharpness is a lost series and a reason recorded without comment.* **[14-22 Lament DMG [Lament]]** | When the site is visited inside its seven days. |"
+        },
+        {
+          "id": "R6-might-have-been",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Might-Have-Been* [**Attack**] } | \"The seed lays out the tree it would have been, whole, in a single breath.\" | [Everything the vanished Seed could have become arrives at once, as grief.] | *A heavy Deep Blue wave; the reading jumps 15%.* **[24-36 Lament DMG [Lament]]** | When the Seed is invoked. |",
+          "new": "| { *The Might-Have-Been* [**Attack**] } | \"It lays out no tree. What it might have become is the one thing nobody can describe — not the traveller, not three testimonies, not four centuries of instruments — and the file treats any description offered as the failure, not the finding.\" | [Clarity fails here as the decision to fill the gap: the worker writes down what the beginning probably was, plausibly, and it is reported.] | *A heavy Deep Blue wave; the reading jumps 15% in a week when somebody wrote what they could not stand behind.* **[24-36 Lament DMG [Lament]]** | When the gap is filled in instead of marked. |"
+        },
+        {
+          "id": "R7-field-of-nothing",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Field of Nothing* [**Ultimate**] } | \"Everything that never grew stands up at once, and none of it is real.\" | [The Seed pulls every unrealised beginning in the field into view together.] | *Everyone in range takes Lament pressure for three turns while that growth shows.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |",
+          "new": "| { *The Field of Nothing* [**Ultimate**] } | \"Everything that never grew does not stand up. In nine days of evacuation intake, eleven hundred files opened at the moment the facility met them, and the hollow went to a hand's depth — one hundred and fifty-seven millimetres — in a quarter with no storms at all.\" | [A needle moves on a dial in an empty stretch of the Desolate. Nobody sees it. That is the whole of the ultimate event.] | *Everyone in range takes Lament pressure for three turns of entering people as beginning at intake.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |"
+        },
+        {
+          "id": "R8-quote-block",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "> **This Relic can Benefit the Facility**\n> **This Relic is Capable of Sector / Facility Alteration**\n> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**",
+          "new": "> **This Relic is measured in millimetres, after the fact, by an instrument nobody watched.**\n> **No perimeter effect has ever been instrumented. There is no channel and nothing bleeds.**\n> **Mark the absence; do not excavate or plant into it.**"
+        },
+        {
+          "id": "R9-use-mode",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Use Mode** | **Continuous / channeled use** |",
+          "new": "| **Use Mode** | **Absence.** The one piece of apparatus is an unattended dial logger on a fixed tripod; nothing is channelled, held or operated in person. |"
+        },
+        {
+          "id": "R10-termination",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |",
+          "new": "| **Termination / Return** | Recovery on day seven: approach, lift the logger, read the week. The trace stops within four seconds of arrival, every time. No conduit exists to vent, and no instrument has ever registered anything beyond the outline. |"
+        },
+        {
+          "id": "R11-day7-charge",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| Day 7 | Recovery. The operator approaches, and the trace stops within four seconds of their arrival, every time, in every recovery on record. | Lift the logger, read the week, take the deepest value. 4 Composure is charged against the recovery itself; the walk in is the costly part. |",
+          "new": "| Day 7 | Recovery. The operator approaches, and the trace stops within four seconds of their arrival, every time, in every recovery on record. | Lift the logger, read the week, take the deepest value. Nothing is charged against the recovery; the walk in is simply the end of the measurement, and the week's summary is written by somebody who was not there. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-Iα-236_Unwitnessed_사라진_씨앗.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.027  clean   790 grams  M.A.W. Equipment\n 0.007  clean   615 grams  감각 묘사 (Flavor Text)\n 0.005  clean   740 grams  Combat Record\n 0.004  clean   536 grams  기록 (Registrum)\n 0.002  clean   417 grams  관찰 기록 (Observation Log)\n 0.002  clean  1017 grams  이야기 보고 (Story Log)\n 0.000  clean   612 grams  Activation Behavior\n 0.000  clean   386 grams  이야기 (Narratio)\n 0.000  clean   294 grams  Origin\n 0.000  clean   289 grams  Trivia\n 0.000  clean   236 grams  Appearance\n 0.000  clean   138 grams  Behavior\n 0.000  clean    99 grams  최종 관찰 (Final Observation)\n 0.000  clean    82 grams  증언 (Testimonium)\n 0.000  clean    78 grams  Operational Parameters\n 0.000  clean    57 grams  SECC Classification\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   56   1  | **Resistance** | 15% against Lament pressure; 5% against other pressure types |\n   86   3  | { *The Field of Nothing* [**Ultimate**] } | \"Everything that never grew does not stand up. In nine days of evacuation intake, el\n  237   1  **Appearance:** a wrapping shroud of Lament Han-silk, cold to the touch and giving off a thin trace of where it came from.\n  282  20  **Full-set source review (2026-10-13):** Reviewed the `O-Relic (Offertorium) · α` overview, every local piece, Use Notes, Field Us\n  302   1  | **Post-contact review** | The week's trace in full, the deepest value with its day, seconds to cessation on approach, and the fo\n  313   1  The first return under the Rule of the Recorded Beginning, Year 4238. Eight hundred and six persons currently on this facility's r\n  332   1  The ground is the logger. Eleven hundred files opened at intake in nine days of the evacuation and the hollow went to a hand's dep\n  355   1  **After departure:** A worker reaching for their own earliest memory finds that what they have is somebody else's telling of it. I\n  361   2  **Interaction method:** On paper, and on one question: did the thing grow and fail, get recorded and lost, or never get entered. W\n  370   1  | **Mourning a Life I Never Lived** | Filed together on unrealised potential, and the difference is the whole point: that record h\n  433   2  **Operational interpretation:** This file is read with the registration return beside it or not at all. On its own the site is a h\nGENERIC 0.005  (34 shared shingles)  SE-C-Iα-236_Unwitnessed_사라진_씨앗.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-236-A__SIDE_CODEX_Unwitnessed.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-236-B__MAW-W_The_Seedless_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-236-C__MAW-S_The_Seedless_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-236-D__MAW-G_The_Seedless_Pod.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-236-A__SIDE_CODEX_Unwitnessed.md": "f38df8ce4d97176b12ed4430f028aa84ef6bbd4dc7d272d69a94df0d2e8e873d",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-236-B__MAW-W_The_Seedless_Requiem.md": "ffcf25cb3651d2168bf6c4181a5137d5e985cf0ca35b4749ffae7c24252aab51",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-236-C__MAW-S_The_Seedless_Shroud.md": "80bac4b0814190d1d2a6a53a3a6ecbfc1ffaabd2c7ea981f25f6d3a1dadcb313",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-236-D__MAW-G_The_Seedless_Pod.md": "0fa98cd08259f6ede71de0a504041fe9a2dd50d6b89070b597735806ef0fd8c5"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-Iα-236_Unwitnessed_사라진_씨앗](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-236_Unwitnessed_%EC%82%AC%EB%9D%BC%EC%A7%84_%EC%94%A8%EC%95%97.md \"SE-C-Iα-236_Unwitnessed_사라진_씨앗.md\")]",
+      "table_link": "[[SE-C-Iα-236 Unwitnessed](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-236_Unwitnessed_%EC%82%AC%EB%9D%BC%EC%A7%84_%EC%94%A8%EC%95%97.md \"SE-C-Iα-236_Unwitnessed_사라진_씨앗.md\")]",
+      "reading": {
+        "before_lines": 457,
+        "before_bytes": 50444,
+        "final_lines": 457,
+        "final_bytes": 52126
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 32,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Digits changed by provenance documented inside repairs: the Day 7 log's unprovenanced '4 Composure is charged' figure was removed. No new digits introduced; the depth series (23 / 4 / 157 mm) and registration return (806 / 666 / 140 / 61 / 1,100) retained."
       }
     }
   ]

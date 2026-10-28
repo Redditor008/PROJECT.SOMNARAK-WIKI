@@ -8,8 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 198 — OPEN, 2 / 5 (2026-10-28)
-**Unit 2 — Floating Shard `C-IVδ-503`: HELD, +0.** Nine repairs (1 short / 8 careful; 8,455→8,704 words): the shard that has never struck first stops swarming and raining glass in five combat rows. Direct SE-503. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_02_FLOATING_SHARD.md).
+## Batch 198 — OPEN, 3 / 5 (2026-10-28)
+**Unit 3 — Unwitnessed `C-Iα-236`: HELD, +0.** Eleven repairs (2 short / 9 careful; 8,470→8,773 words): the unobservable hollow stops performing for an audience in five combat rows. Direct SE-236. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_03_UNWITNESSED.md).
 ## Batch 197 — CLOSED, 5 / 5 (2026-10-28)
 Five HELD units, No change 0, 70 repairs (13 short / 57 careful), 41,840→43,076 words, no fresh credit — every dossier carried a prior written disposition. Battery PASS: fresh validators 25/25, reconstruction 5/5, fingerprints 35/35, tests 54/54, audits PASS, zero source changes. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_CLOSE.md).
 ## Batch 196 — CLOSED, 5 / 5 (2026-10-28)
