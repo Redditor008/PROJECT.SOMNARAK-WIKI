@@ -1,8 +1,7 @@
 # Work In Progress
 
-## Batch 196 — OPEN, 4 / 5 (2026-10-28)
-
-**Unit 4 — Restless Gap `C-IVδ-250`: HELD, +0.** Fifteen repairs (7 short / 8 careful; 8,259→8,477 words): an unwritten record stops exploding; exact set SE-1025. Credit barred by the in-file 2026-10-12 review. [Evidence](SE_APPEARANCE_REVIEWS/B196_04_RESTLESS_GAP.md). This prompt closes at 10 reviews; Unit 5 (Sorrow Fountain `C-IIIγ-088`) + closure next prompt.
+## Batch 196 — OPEN, 5 / 5 (2026-10-28)
+Unit 5 — **The Sorrow Fountain `C-IIIγ-088`: HELD; credit-barred, +0.** 26 repairs (3s/23c; 8,301→8,592 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_05_THE_SORROW_FOUNTAIN.md). Closure battery next.
 
 **Unit 3 — Midnight Choir `C-IIβ-245`: HELD, +0.** Three repairs (2 short / 1 careful; 8,256→8,316 words): last template sentences in a near-clean file. Credit barred by item-integrating primary paragraphs. [Evidence](SE_APPEARANCE_REVIEWS/B196_03_MIDNIGHT_CHOIR.md).
 

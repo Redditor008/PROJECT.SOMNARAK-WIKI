@@ -1,0 +1,278 @@
+{
+  "designation": "C-IIIγ-088",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md",
+  "words": 8301,
+  "sha256": "1e67f768f4a1b239a3dbc570f3be1e3dbd13788728bb8df2cba3176a85cc56da",
+  "unit": 5,
+  "name": "The Sorrow Fountain",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_05_THE_SORROW_FOUNTAIN.md",
+  "before_words": 8301,
+  "after_words": 8592,
+  "base": "04a75ead41af63f194342608370c57d74c09a80d",
+  "final_sha256": "d47509636793296218d82ccb6dfa254a03d042f393a7bff8a2e78e81a4a0b8af",
+  "summary": "Twenty-six source-supported repairs (3 short / 23 careful): the borrowed activation template and four violent combat rows were rebuilt around the dossier's own non-violent, rim-worked, never-drained fountain — mist that calms without consent, depth following grief, damp and moss advancing 11.4 metres. HELD; no credit (in-file full-set source review dated 2026-10-11; direct SE-088 identity).",
+  "commentary": "This dossier told two stories about itself: a fountain where nobody has ever been attacked, and a set of damage rows describing violent splashes, scattered COMPOSURE and pressure waves across squares. The repairs sided with the fountain. The mist is now what the body says — relief imposed on whoever stands in it, wished for enough that the cost is billed a week later as flatness. The channels, conduits, venting and energy-stabilization percentages were borrowed template and were removed throughout, and work is now consistently from the rim: a Behavior row that had workers standing in the pool contradicted the Clash's own rim doctrine.",
+  "reasoning": "Identity is direct: the dossier's Entity Designation is SE-088 / Contained in [Classification γ-088], and the exact source packet (Secondary Artwork Registry rows 134-137) is SE-088-A The Sorrow Fountain / B M.A.W-W / C M.A.W-A / D M.A.W-T. R-18 split declared before editing: three short (Identification Position generic stub; the Detailed Management row's dangling 'station' tail; the garbled Registry Trivia Containment line) and twenty-three careful (four combat rows narrating violent attack against the Clash's 'Nothing attacks and nothing has ever been attacked… This cannot be struck'; the generic Relic capability quote block; the activation '-15% gauge stabilization' mechanism with duration/risk/-2 Movement Speed repeated across the section, the tool table and the Detailed profile; Termination/Return venting and installed-depth language against 'nothing is put back' and never draining; the Operational Rule's channel/conduit; four channel/overload Log rows; a generic secure-perimeter response; Ferrehan 'remain in the pool' plus Story Entry 4 against the rim-only doctrine). R-33 chain: the city's grief gathered and forced up through a fountain as a reservoir it never finished becoming; depth read at the rim against an untamped graduation; mist calming without consent; relief repaid as a flat week; damp and moss advancing 11.4 metres; never drained, never struck. Fresh equipment credit was barred: the dossier contains a dated in-file 'Full-set source review (2026-10-11)' and the sources 'agree with the dossier on every testable point.' No equipment disposition or apparatus mechanics were invented; the weapon filename 'The Sorrow Requiem' is not the official display name 'The Weeping Basin-Aspergillum.'",
+  "history": "Present draft was rooted in the C-Iα-001 → C-IIIγ-043 → C-IIIγ-088 remake sequence (rule R5.28 code-insertion audit). Field Notes record two certified badges earned on watch (Somnaic Patience / Stillwater Witness), the Lunar Cascade in Dread Year 4730, and the Year-4502 Consolihan. The appearance pass repaired activation/combat template while preserving the prior source-reviewed state; contested departmental account, public-access dispute, single-reservoir thesis and Danarili testimony remain unresolved. Fresh equipment credit BARRED: the primary contains a dated in-file 'Full-set source review (2026-10-11)' with all four sources read in full and verdicts recorded. Ledger `equipment_reviews` has no 088 entry. Therefore Equipment reviewed +0/+0; Types and Weapon counters unchanged at 286/301 and 284/287.",
+  "holds": [
+    "Liminal Engineering's single-reservoir thesis — the Fountain's depth tracking the level of the Basin: unproven, unfalsified across 340 years, and untestable without draining the Fountain to see if the Basin drops, which is forbidden. Held.",
+    "The question 'What is it a reservoir for?' — the purpose remains unfulfilled in the primary's own terms; the Activation's declared purpose is an accepted working line, held.",
+    "Danarili, the sacrifice-borne spirit said to speak through the mist and call people by names given to no one: deriving-rule evidence only (R5.28 audit E), unverified; no encounter, summoning or spirit agency invented. Held.",
+    "Side A authorises entering the pool with a tether tied to the rim ('all four are worked from inside — no dry variant'); the primary's dominant doctrine works from the rim and never inside the basin. The primary's Behavior and Story rows were aligned to the rim doctrine; the Side A account is not silently erased and remains an unresolved source fork. Held.",
+    "Public-access dispute (guidance vs medical exposure) and the contested, redacted account of the Fountain: preserved as unresolved, not decided. Held.",
+    "Weapon naming variants (Basin-Aspergillum, Basin-Censer, Basin-Rosary, Basin-Urn) and the weapon source filename 'The Sorrow Requiem': variants preserved, not normalized. Held."
+  ],
+  "split": [
+    3,
+    23
+  ],
+  "repairs": [
+    {
+      "id": "R1-first-overflow",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The First Overflow* [**Debuff**] } | \"The basin tips, and the sorrow spills outward in every direction.\" | [The Fountain overflows; the spreading water carries old lament.] | *Target loses 10 Composure; their footing slips in the grief.* **[10 Lament DMG [Lament]]** | When the target lingers at the basin. |",
+      "new": "| { *The First Overflow* [**Debuff**] } | \"The basin does not tip — it has never moved. What moves is the damp, outward across the path stones, and the moss line behind it four to seven weeks later.\" | [The level climbs against the graduation and the chalk gets wet; overflow here is measured in metres of advance, not in spill.] | *Target loses 10 Composure; the advance is slow and does not stop at the chalk.* **[10 Lament DMG [Lament]]** | When the target lingers at the basin. |"
+    },
+    {
+      "id": "R2-bitter-spray",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Bitter Spray* [**Attack**] } | \"The spray rises — each droplet a remembered loss, and they sting.\" | [A spray of sorrow-water lashes out, sharp as needles.] | *Inflicts Lament pressure and one stinging wound.* **[14-22 Lament DMG [Lament]]** | When the Fountain is disturbed. |",
+      "new": "| { *The Bitter Spray* [**Attack**] } | \"Nothing lashes out and nothing stings — nobody has ever been attacked here. The mist comes out across the lawns and everybody in it is calmed, whether they came for that or not.\" | [Panic stops. So does urgency, and so does walking at any speed; a crew that needed to be somewhere finds it difficult to say why it mattered.] | *Inflicts Lament pressure; the wound is wanting to stay.* **[14-22 Lament DMG [Lament]]** | When suppressed mourning meets the mist. |"
+    },
+    {
+      "id": "R3-the-drowning",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Drowning* [**Attack**] } | \"The fountain floods the whole square — and grief is heavier than water.\" | [A surge goes over the rim and across the square, carrying the weight of every grief the district ever put into it.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Fountain is struck or overwhelmed. |",
+      "new": "| { *The Drowning* [**Attack**] } | \"It cannot be struck and it does not flood squares. What goes over the rim goes into the Gardens' beds, which take the overflow and thrive on it.\" | [The pour thickens and the damp pushes past its chalk within the same watch; nobody is carried anywhere except, slowly, toward sitting down.] | *A heavy Lament rise; the target's Sorrow Gauge surges 15% while they report feeling fine.* **[24-36 Lament DMG [Lament]]** | Through memorial seasons and the Consolihan. |"
+    },
+    {
+      "id": "R4-flood-of-all-grief",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Flood of All Grief* [**Ultimate**] } | \"Every tear ever shed here rises at once.\" | [The pool stands up past its rim all at once and comes out over the whole ring of ground it can reach.] | *All in range suffer Lament pressure for three turns.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *The Flood of All Grief* [**Ultimate**] } | \"Every tear ever shed here stays exactly where it is. The escalation is spatial and quiet: eleven point four metres of irreversible advance from a basin that has not moved at all.\" | [The moss follows the damp outward and has never once retreated; the Gardens quietly become a larger place for sitting in.] | *All in range suffer Lament pressure for three turns of flattening.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+    },
+    {
+      "id": "R5-identification-position",
+      "kind": "short appearance completion",
+      "careful": false,
+      "old": "- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.",
+      "new": "- **Position / movement:** The basin has never moved. What moves is the damp outward across the Gardens and the moss line behind it — two boundaries, marked separately, which have never coincided."
+    },
+    {
+      "id": "R6-Ferrehan-rim",
+      "kind": "careful behavior correction",
+      "careful": true,
+      "old": "| **Ferrehan** | Tests whether the worker can remain in the pool without breaking. | Decrease |",
+      "new": "| **Ferrehan** | Tests whether the worker can remain at the rim without breaking — worked from the stone rim, never from inside the basin. | Decrease |"
+    },
+    {
+      "id": "R7-quote-block",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "> **This Relic can Benefit the Facility**\n> **This Relic is Capable of Sector / Facility Alteration**\n> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**",
+      "new": "> **This Relic calms whoever stands in its mist, without asking.**\n> **This Relic alters the Gardens at walking pace: damp first, moss after, eleven point four metres so far.**\n> **This Relic's cost arrives days later, as flatness, and is charged to the bearer alone.**"
+    },
+    {
+      "id": "R8-activation-effect",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "**Effect:** Releases an expanding mist of Lament that calms panicking personnel, stabilizing sector Sorrow Gauges by -15%.",
+      "new": "**Effect:** The mist comes out across the lawns and calms whoever is standing in it, reliably and without consent being asked. No gauge anywhere is stabilized by a percentage; what settles is people, and what it costs them arrives days later."
+    },
+    {
+      "id": "R9-duration",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "**Duration:** Continuous while the mourning conduit remains unblocked.",
+      "new": "**Duration:** While the mourner remains at the rim; the Fountain itself has never once stopped, including through two Sorrow Tides and the drought year."
+    },
+    {
+      "id": "R10-risk",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "**Risk:** Prolonged exposure induces deep, paralyzing melancholy; personnel in the mist suffer -2 Movement Speed.",
+      "new": "**Risk:** Prolonged exposure deepens the calm into a flattening — agreeable to everything, interested in nothing — which the Gardens' medical office treats as exposure rather than as mood. Nothing is paralyzed and no speed is docked; people simply stop needing to be anywhere."
+    },
+    {
+      "id": "R11-tool-effect",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "| **Primary Effect** | Releases an expanding mist of Lament that calms panicking personnel, stabilizing sector Sorrow Gauges by -15%. |",
+      "new": "| **Primary Effect** | The mist, and the calm it imposes on whoever is inside it — the hazard and the benefit are the same thing and cannot be separated. |"
+    },
+    {
+      "id": "R12-tool-duration",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "| **Duration** | Continuous while the mourning conduit remains unblocked. |",
+      "new": "| **Duration** | For the length of the approach; the flow itself is not switched, channelled or concluded by anybody. |"
+    },
+    {
+      "id": "R13-termination",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |",
+      "new": "| **Termination / Return** | The worker leaves the mist and the level is read again at the rim; nothing vents, because nothing was contained. The pool is left standing at the depth it was read at when the watch opened. |"
+    },
+    {
+      "id": "R14-tool-risk",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "| **Risk** | Prolonged exposure induces deep, paralyzing melancholy; personnel in the mist suffer -2 Movement Speed. |",
+      "new": "| **Risk** | The bearer has stopped wanting the effect to end — entered when the second worker sees it, not when the bearer admits it. |"
+    },
+    {
+      "id": "R15-operational-rule",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.",
+      "new": "**Operational Rule:** There is no channel and no conduit. Work is from the rim, the pool is not drained, decanted or diverted, and both boundaries — damp in chalk, moss separately — are marked before the cycle opens and again when it closes."
+    },
+    {
+      "id": "R16-log-10s",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 10 Seconds | The Fountain starts thrumming the moment the channel opens, and the thrum is loud enough that every gauge in the room moves with it. | Opening the channel draws the mist up out of the basin. It settles the people standing in it the way water settles a crowd, and while the draw is running the sector Sorrow Gauges come down by -15%. Units in the neighbouring bays hold steady for the same reason, which is that they are standing in the same weather. |",
+      "new": "| 10 Seconds | It is pleasant, and that is the first thing recorded: the air is easier at the rim than on the path, and the grief a worker brought in becomes bearable within a minute or two. | Read the level against the cut graduation and sign the reading with your own name — depth follows the grief of whoever is present, so the number is partly a measurement of the person taking it. No gauge anywhere moves by a percentage. |"
+    },
+    {
+      "id": "R17-log-30s",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 30 Seconds | The conduit widens and what comes up is the city's mourning made visible — a single stream of it, gathered from the tears shed at the memorials and by the people who grieved under the Echo Gardens, until there was enough collected to rise. | The mist spreads to the second range band and stays there while the channeler holds it. Everyone inside it is harder to hurt while the hold lasts; the effect belongs to the mist rather than to the people standing in it, and it goes when the mist does. |",
+      "new": "| 30 Seconds | The conduit widens and what comes up is the city's mourning made visible — a single stream of it, gathered from the tears shed at the memorials and by the people who grieved under the Echo Gardens, until there was enough collected to rise. | The mist reaches who it reaches and calms them without being asked; nobody inside it is harder to hurt, because nothing here hurts anybody. Record who was standing in it, staff or not. |"
+    },
+    {
+      "id": "R18-log-1min",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 1 Minute | The pressure wants more than mechanical effort — whoever is channelling feels the Fountain's unfulfilled purpose settle on their lungs. | Past 60 seconds the channel costs 4 Composure for each 10 seconds it is held. Whoever is running it is meant to close it before that starts to matter, and the manual states it in exactly those words — disengage before the overload, not after it. |",
+      "new": "| 1 Minute | The pressure wants more than mechanical effort — whoever is channelling feels the Fountain's unfulfilled purpose settle on their lungs. | Nobody is channelling anything. Workers lose track of the time they have been there, consistently and by large margins, and the discrepancy between logged and actual watch length is the commonest defect in this holding's paperwork. The second worker keeps the hour. |"
+    },
+    {
+      "id": "R19-log-2min",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 2 Minutes | The flow threatens to turn back on the site; once the accumulated grief overtops the channel it goes looking for living vessels. | An overload, or walking out on the channel, vents the whole basin at once — and what comes out is not the calming mist. It stops people where they stand and takes 2 from Movement Speed, and everyone in the sector is hurt badly. |",
+      "new": "| 2 Minutes | Past this point the ease has stopped being noticeable and become the baseline, which is the state the welfare check at seven days is set to catch. | Nothing overloads and nothing vents. The watch closes with the level read and signed at both ends and the pool left as deep as it was found; the flat week, when it comes, is entered against the use, not the day. |"
+    },
+    {
+      "id": "R20-response-sequence",
+      "kind": "careful event correction",
+      "careful": true,
+      "old": "**Response sequence:** Set a secure perimeter, establish whether what is happening is an activation, a channel surge or an expansion, clear unshielded personnel off the rim stones, and hold the recorded containment protocol throughout. No unlisted Work Type may be applied here as an improvised countermeasure, and an attempt at one is entered as a breach in its own right.",
+      "new": "**Response sequence:** Chalk the damp boundary, time the advance, note whether the mist has reached any part of the Gardens open to the public, and record who was standing in it. No perimeter holds this and none is set; the pool is not drained under any circumstances, including as a response to expansion."
+    },
+    {
+      "id": "R21-detailed-effect",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "| **Primary effect** | Releases an expanding mist of Lament that calms panicking personnel, stabilizing sector Sorrow Gauges by -15%. |",
+      "new": "| **Primary effect** | Mist across the lawns; calm imposed without consent; depth following the grief of whoever stands nearest. |"
+    },
+    {
+      "id": "R22-detailed-duration",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "| **Duration / rate** | Continuous while the mourning conduit remains unblocked. |",
+      "new": "| **Duration / rate** | The flow has never stopped. Advance is read as damp metres per session, with the moss four to seven weeks behind it. |"
+    },
+    {
+      "id": "R23-detailed-risk",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "| **Risk** | Major (γ) Place-Lament producing Lament pressure; Prolonged exposure induces deep, paralyzing melancholy; personnel in the mist suffer -2 Movement Speed. |",
+      "new": "| **Risk** | Major (γ) Place-Lament producing Lament pressure; the danger is that people want to be in it, and that the relief is repaid in flatness over the following week. |"
+    },
+    {
+      "id": "R24-detailed-management",
+      "kind": "short factual correction",
+      "careful": false,
+      "old": "| **Management** | Share the burden through witness; do not drain the pool. Enforced by the station rather than by the schedule. |",
+      "new": "| **Management** | Share the burden through witness; do not drain the pool. |"
+    },
+    {
+      "id": "R25-entry-4",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "Work response — Viderehan: every drop lifted off the surface shows a different grief, and the level holds while they are lifted (Stable). Ferrehan: the watch is whether a worker can stand in the pool without coming apart, and the level falls while they do (Decrease). The Echo Gardens' flowers draw from its overflow.",
+      "new": "Work response — Viderehan: every drop lifted off the surface shows a different grief, and the level holds while they are lifted (Stable). Ferrehan: the watch is whether a worker can remain at the rim without coming apart — never from inside the basin — and the level falls while they do (Decrease). The Echo Gardens' flowers draw from its overflow."
+    },
+    {
+      "id": "R26-trivia-containment",
+      "kind": "short trivia correction",
+      "careful": false,
+      "old": "- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.",
+      "new": "- **Containment detail:** No barrier contains it and none is pretended to. Containment here means marking the damp boundary and the moss line at every session, keeping published hours and an attendant on the lawns, and not draining the pool."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.030  clean   100 grams  Operational Parameters\n 0.011  clean   616 grams  감각 묘사 (Flavor Text)\n 0.011  clean   656 grams  Combat Record\n 0.009  clean   317 grams  관찰 기록 (Observation Log)\n 0.007  clean   150 grams  최종 관찰 (Final Observation)\n 0.002  clean   402 grams  기록 (Registrum)\n 0.000  clean   955 grams  Warden Record\n 0.000  clean   883 grams  M.A.W. Equipment\n 0.000  clean   697 grams  Activation Behavior\n 0.000  clean   369 grams  이야기 (Narratio)\n 0.000  clean   247 grams  Appearance\n 0.000  clean   212 grams  이야기 보고 (Story Log)\n 0.000  clean   166 grams  Origin\n 0.000  clean   165 grams  Behavior\n 0.000  clean   129 grams  Trivia\n 0.000  clean    61 grams  SECC Classification\n 0.000  clean    52 grams  증언 (Testimonium)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   32   3  | **Han-Energy yield** | 16–22 per successful work cycle, read off the rim markers rather than the flow itself |\n   86   7  | { *The Flood of All Grief* [**Ultimate**] } | \"Every tear ever shed here stays exactly where it is. The escalation is spatial an\n  312   3  **Observation method:** Watch from the rim on a timed shift, read the level at both ends and have both readings signed. Enter the \n  334   1  > Two ways to close a watch at the rim, and the file prices them by what the worker is willing to feel: one takes the grief as a b\n  357   6  Three holdings stand within reach of the rim — The Memory Lake, The Weeping Statue and the Echo Gardens themselves — and not one o\n  364   1  This pool is read against the other standing water and against the Gardens. Each relation below has been watched and filed, none i\n  415   1  **Faction Involvement:** SED, on the D-territory survey · UCD, standing watch over the Fray-adjacent ground · Wound Walkers, for t\nGENERIC 0.004  (22 shared shingles)  SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-A__SIDE_CODEX_The_Sorrow_Fountain.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-B__MAW-W_The_Sorrow_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-C__MAW-S_The_Sorrow_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-D__MAW-G_The_Sorrow_Vial.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-A__SIDE_CODEX_The_Sorrow_Fountain.md": "a4a1ef9da431c54d050f4ce7245fe27b44995c8aa8b6836b5002bfb9d6b3016b",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-B__MAW-W_The_Sorrow_Requiem.md": "0f24a8f3b1a8acb073d2484385e51c7243273f7c7271535ea2a5e2bbd0a6f541",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-C__MAW-S_The_Sorrow_Shroud.md": "3492917ffeac7553fbcf7e4351d3f7494633f0b137179d2dda44f9915fd2055a",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-D__MAW-G_The_Sorrow_Vial.md": "c41036aed80374e3b75172643acbbee3134244c5981ea9e1fab251ff71337bad"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-088_The_Sorrow_Fountain_%EC%8A%AC%ED%94%94%EC%9D%98_%EB%B6%84%EC%88%98.md \"SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md\")]",
+  "table_link": "[[SE-C-IIIγ-088 The Sorrow Fountain](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-088_The_Sorrow_Fountain_%EC%8A%AC%ED%94%94%EC%9D%98_%EB%B6%84%EC%88%98.md \"SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md\")]",
+  "reading": {
+    "before_lines": 495,
+    "before_bytes": 50510,
+    "final_lines": 495,
+    "final_bytes": 51876
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 40,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 4,
+    "digit_sequence_change": "Digits changed by provenance documented inside repairs: four invented '-15%' gauge-stabilization figures, two '-2 Movement Speed' penalties, one '10 Composure'/60-second channel template and one '4' (combat-table bleed) were removed as unsupported. No new digits introduced; rooted figures retained (11.4 m advance, 65% Sorrow Gauge escalation, per-move Lament damage bands, graduation depth readings)."
+  }
+}
