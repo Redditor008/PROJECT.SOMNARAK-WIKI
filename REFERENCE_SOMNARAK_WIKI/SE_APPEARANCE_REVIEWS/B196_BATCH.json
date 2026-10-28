@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "batch": 196,
+  "status": "OPEN",
+  "completed_units": 0,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "O-Iα-126",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-126_Anonym_녹아내린_조각.md",
+      "words": 8247,
+      "sha256": "c0bb14e413d058804399a78d7f501ae82f13b89d2ef2abecb7037bd8a58fdd0b"
+    },
+    {
+      "unit": 2,
+      "designation": "O-IIIγ-914",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-914_Driftglass_떠도는_영혼.md",
+      "words": 8251,
+      "sha256": "94870eb91fd82c50c9338a920d770c1e9180296205671ef122437a89d6469022"
+    },
+    {
+      "unit": 3,
+      "designation": "C-IIβ-245",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md",
+      "words": 8256,
+      "sha256": "2f229715747c4496788ca5d96ce3d53685600eb89ff9209d6c278d085a8b34bc"
+    },
+    {
+      "unit": 4,
+      "designation": "C-IVδ-250",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-250_Restless_Gap_찢어진_흔적.md",
+      "words": 8259,
+      "sha256": "f805c4694b7ac71c7d84858b0d9b4870cfa75c8f9d3ce66fcefd99da1ca962da"
+    },
+    {
+      "unit": 5,
+      "designation": "C-IIIγ-088",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md",
+      "words": 8301,
+      "sha256": "1e67f768f4a1b239a3dbc570f3be1e3dbd13788728bb8df2cba3176a85cc56da"
+    }
+  ],
+  "units": [],
+  "opened_at": "2026-10-28",
+  "completed": 0
+}

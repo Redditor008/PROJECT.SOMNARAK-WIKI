@@ -1,5 +1,9 @@
 # Work In Progress
 
+## Batch 196 — OPEN, 0 / 5 (2026-10-28)
+
+Fresh ranking of 45 pending dossiers (LC_ALL=C wc -w ascending). Queue: `O-Iα-126`, `O-IIIγ-914`, `C-IIβ-245`, `C-IVδ-250`, `C-IIIγ-088`. Units 1–4 run in this prompt (reviews 7–10); Unit 5 + closure next prompt.
+
 ## Batch 195 — CLOSED, 5 / 5 (2026-10-28)
 
 **Unit 5 — Tear Too Small to Honor `N-Iα-785`: HELD, +0.** Fifteen repairs (6 short / 9 careful; 8,233→8,482 words): a flat tear stops detonating. Credit barred by the primary's item-integrating Use Notes. [Evidence](SE_APPEARANCE_REVIEWS/B195_05_TEAR_TOO_SMALL_TO_HONOR.md). Batch closed: all five HELD, No change 0, 51 repairs (16s/35c), **one fresh credit** (Walking Calendar); battery PASS. [Closure](SE_APPEARANCE_REVIEWS/B195_CLOSE.md). Batch 196 opens next in this prompt.
