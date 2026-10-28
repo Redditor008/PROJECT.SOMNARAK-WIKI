@@ -4,7 +4,9 @@
 
 **Corrective repair applied after the pre-repair full audit.** Dawn of Mourning received 47 mapped repairs (5 batch-short / 42 careful-detail; 8,535→9,241 words). Its five Combat Actions now form one historical/projected judgment sequence — opening judgment → *No Partial Light* → cold revelatory sentence → *The Mourners* → city-scale functional unmaking — with no current battle, authorised work, burning beam, seepage or reversed-transformation counterattack. The 11-of-12 temporal frame, confessor identity, equipment existence/forms, Chronicle reset/counter-liturgy mechanisms and pressure/critical semantics remain held. Batch 197 history preserved; fresh credit +0. [Pre-repair audit](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/DAWN_OF_MOURNING_FULL_AUDIT_2026-10-29.md); [repair evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/DAWN_OF_MOURNING_R34_RECHECK_2026-10-29.md); [evidence JSON](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/DAWN_OF_MOURNING_R34_RECHECK_2026-10-29.json); [R-34](REFERENCE_SOMNARAK_WIKI/RULES/R-34_FULL_FILE_LOGICAL_AUDIT_BEFORE_FIX.md).
 
-## Batch 198 — OPEN, 4 / 5 (2026-10-28)
+## Batch 198 — OPEN, 5 / 5 (2026-10-29)
+
+Unit 5 — **Sorrow Seed `C-Iα-300`: HELD; credit-barred, +0.** 21 repairs (5s/16c; 8,500→8,777 words); exact SE-1031 (not SE-300). The Seed's measurement rows stop reading as attacks, all five Combat Actions were audited separately under R-34, and exact SE-1031 binding/cost rules enter Use Notes. Tale 113's dormant/future-potential account remains held against the primary's 260-year crawl/commuted-leave record. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_05_SORROW_SEED.md).
 
 Unit 4 — **Bridge of the Unchosen `N-IIIγ-874`: HELD; credit-barred, +0.** 14 repairs (4s/10c; 8,498→8,920 words); direct SE-874. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_04_BRIDGE_OF_THE_UNCHOSEN.md).
 

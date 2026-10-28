@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Iα-300": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_05_SORROW_SEED.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -3537,8 +3549,26 @@
     {
       "designation": "C-Iα-300",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Twenty-one source-supported repairs (5 short / 16 careful): the Seed's rows stop pretending it attacks; dormant is actually struck from both coherence glosses; the bearing targets a roster rather than an observer; the minimum/maximum crawl rows gain distinct functions; the Wall becomes the sole eleven-day boundary event; the quarterly Ultimate becomes an administrative-review consequence outside the enclosure; exact SE-1031 binding/cost rules enter Use Notes. HELD; no credit because the primary already integrates the full three-piece set and its Field Use disposition.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_05_SORROW_SEED.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1031_The_Sorrow_Seed/SE-1031-A__SIDE_CODEX_The_Sorrow_Seed.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1031_The_Sorrow_Seed/SE-1031-B__MAW-W_The_Sorrow_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1031_The_Sorrow_Seed/SE-1031-C__MAW-S_The_Sorrow_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1031_The_Sorrow_Seed/SE-1031-D__MAW-G_The_Sorrow_Seed.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-Iα-329",
