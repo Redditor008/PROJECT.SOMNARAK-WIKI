@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVγ-240": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_03_BROKEN_CLOCKTOWER.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2331,8 +2343,23 @@
     {
       "designation": "C-IVγ-240",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Twelve source-supported repairs (2 short / 10 careful): a truncated SECC sentence is completed; resolution no longer demands a finding the inquiry cannot produce; and the Combat Actions stop stopping time, chiming thirteen, dropping cart-wheel gears, ringing every bell at midnight and halting the pendulum. They now use the file's actual six-metre symmetrical lateness, withheld bell stroke, late second instruction and 75% threshold. Generic identity/environment catastrophe and weather-to-weapon flavor were replaced by the second-instruction casualty model. HELD; no credit because the primary carries an explicit full-set source review dated 2026-10-12.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_03_BROKEN_CLOCKTOWER.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-A__SIDE_CODEX_Three_Forty_Seven.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-B__MAW-W_The_Frozen_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-C__MAW-S_The_Frozen_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1023_Three_Forty_Seven/SE-1023-D__MAW-G_The_Frozen_Minute.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVγ-255",
