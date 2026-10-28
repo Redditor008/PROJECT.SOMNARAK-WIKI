@@ -303,3 +303,17 @@ Compact Report v2 supersedes the old fixed seven-block order and any requirement
 definitions, tool lists or full dossier links. It retains points 1–3, 7, 10, 16–23 in substance:
 verdict first, plain content, per-dossier **Commentary**, separate counters, visible links, No-change
 reporting, and one substantive report after the final tool call.
+
+## Amendment, 2026-10-28 — the chatroom copy is kept, not erased
+
+**Direct owner instruction:** *"The Chatroom Stuff Dont Erase Or Dont Stopped It I Used The Arena.ai
+Chatroom As Secondary Reading When I'm not Checking The Github"* (sic).
+
+34. **The Arena.ai chatroom is the owner's secondary reading surface.** GitHub holds the primary
+    record; the chatroom report is the copy the owner reads when not checking GitHub. It must not be
+    erased, stopped, or reduced to link-only pointers.
+35. **Standalone readable.** Every chatroom report keeps each dossier's result, **Changed** and
+    **Commentary** in the chat text itself, so the turn can be read and understood in Arena without
+    opening GitHub. Links supplement the reading copy; they never replace it.
+36. **Compact does not mean hollow.** Compact Report v2 still governs layout, but its word budgets
+    yield to point 35 on multi-review turns: trim repetition, never the per-dossier substance.
