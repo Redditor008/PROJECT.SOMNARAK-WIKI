@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "batch": 198,
+  "status": "OPEN",
+  "completed_units": 0,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "C-IVδ-092",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md",
+      "words": 8452,
+      "sha256": "087489efa46b42aec3a712b6d818fc454a663e04d5dcbf735fb9943968dad20e"
+    },
+    {
+      "unit": 2,
+      "designation": "C-IVδ-503",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-503_Floating_Shard_떠다니는_조각.md",
+      "words": 8455,
+      "sha256": "f9d1b000de9790fe2eb43059a6fef44273d26a549c9002afb208c51c5e130303"
+    },
+    {
+      "unit": 3,
+      "designation": "C-Iα-236",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-236_Unwitnessed_사라진_씨앗.md",
+      "words": 8470,
+      "sha256": "66ddcbe9c7eff8d58db3459e726c11d764d2aea4b617eade0c9ca8549f6b2760"
+    },
+    {
+      "unit": 4,
+      "designation": "N-IIIγ-874",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-874_Bridge_of_the_Unchosen_얼어붙은_다리.md",
+      "words": 8498,
+      "sha256": "67425efecb330681c770d05cef595353f538031a306f295d6159afca04e5ab5b"
+    },
+    {
+      "unit": 5,
+      "designation": "C-Iα-300",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md",
+      "words": 8500,
+      "sha256": "df8ea15be5c55cbb958dd2e2ecbe04eaa4d0eceea4ca7a133f7cd5110ccb97bf"
+    }
+  ],
+  "opened_at": "2026-10-28",
+  "completed": 0,
+  "units": []
+}

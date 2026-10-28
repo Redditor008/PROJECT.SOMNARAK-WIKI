@@ -8,6 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Batch 198 — OPEN, 0 / 5 (2026-10-28)
+Fresh pending-only ranking over 35 dossiers; frozen queue `C-IVδ-092`, `C-IVδ-503`, `C-Iα-236`, `N-IIIγ-874`, `C-Iα-300`. [Opening record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_OPEN.json).
 ## Batch 197 — CLOSED, 5 / 5 (2026-10-28)
 Five HELD units, No change 0, 70 repairs (13 short / 57 careful), 41,840→43,076 words, no fresh credit — every dossier carried a prior written disposition. Battery PASS: fresh validators 25/25, reconstruction 5/5, fingerprints 35/35, tests 54/54, audits PASS, zero source changes. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_CLOSE.md).
 ## Batch 196 — CLOSED, 5 / 5 (2026-10-28)
