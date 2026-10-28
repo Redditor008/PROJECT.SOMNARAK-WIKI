@@ -27,7 +27,20 @@
       "O-IVδ-168",
       "C-Vω-925"
     ],
-    "reviewed": {}
+    "reviewed": {
+      "N-IIβ-560": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_01_DISMISSED_CRY.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -5085,8 +5098,23 @@
     {
       "designation": "N-IIβ-560",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-560_Dismissed_Cry_솟구친_절규.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Nine source-supported repairs (2 short / 7 careful): the silent protest stops generating wet screams, floods, splashes, deluges and drowning sound; its five Combat Actions now run on silent heat, teeth/sternum pressure, countershout rebound and report wording. The mounted crystal is no longer called an urn in Tool Use, the Scream Plate and Scream Charm regain their exact visible forms, and Registrum stops pointing elsewhere for observations this file already proves. HELD; no credit because the primary already integrates per-piece item dispositions and a Field Use Record.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_01_DISMISSED_CRY.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-A__SIDE_CODEX_Dismissed_Cry.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-B__MAW-W_The_Scream_Shard.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-C__MAW-S_The_Scream_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-D__MAW-G_The_Scream_Charm.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIβ-627",

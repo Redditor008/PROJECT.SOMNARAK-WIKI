@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 199,
   "status": "OPEN",
-  "completed_units": 0,
+  "completed_units": 1,
   "required_units": 5,
   "queue": [
     {
@@ -42,6 +42,166 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 0,
-  "units": []
+  "completed": 1,
+  "units": [
+    {
+      "designation": "N-IIβ-560",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-560_Dismissed_Cry_솟구친_절규.md",
+      "words": 8505,
+      "sha256": "d445d153d7a93d17d05f7e65635fc30fbea16bc976f3e9b302a6c13b33e59952",
+      "unit": 1,
+      "name": "Dismissed Cry",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_01_DISMISSED_CRY.md",
+      "before_words": 8505,
+      "after_words": 8580,
+      "base": "e211bd7b53484edf771e77ed6a5ee45c3d7551e9",
+      "final_sha256": "bf6b7fa0929d7079306eca1b34f32694e99b2f04654c61a4b5ce6359a3af5755",
+      "summary": "Nine source-supported repairs (2 short / 7 careful): the silent protest stops generating wet screams, floods, splashes, deluges and drowning sound; its five Combat Actions now run on silent heat, teeth/sternum pressure, countershout rebound and report wording. The mounted crystal is no longer called an urn in Tool Use, the Scream Plate and Scream Charm regain their exact visible forms, and Registrum stops pointing elsewhere for observations this file already proves. HELD; no credit because the primary already integrates per-piece item dispositions and a Field Use Record.",
+      "commentary": "Dismissed Cry's local dossier understands its subject beautifully: containment is a records function, and the dangerous act is writing 'disturbance' where a grievance belongs. The combat table was the one place still filing it as a generic noisy water entity. Now even the Ultimate is about paperwork—which, for once, is not bathos but the entity's actual weapon.",
+      "reasoning": "R-34 audit before editing. Identity is direct SE-560: Side A carries SECC `N-IIβ-560 [D]`, Related Entity SE-560 and set completion 4/4; B/C/D carry item codes `MAW-W/S/G-560-01`. Supported whole design: a fist-sized crimson crystal near the Scar, torn open like a mouth, radiating silent heat while teeth and sternum vibrate and audio instruments register silence; Gauge 407, start 35–50%, Han Pressure 9–21 Grudge, activation at Gauge ≥60% or touch/vocal aggression; Viderehan Stable reveals the injustice, Ferrehan Decrease holds anger without repeating it; acknowledgement and Gauge below 25% resolve. Each Combat Action was separately audited against that design, Work, activation, Battle Phases and Consequences. All five old rows used a wet/flood template with no water source and contradicted 'no ordinary sound'; rows 4–5 nevertheless contained the file's real bespoke mechanism—summary wording and the 9-point/7-point paperwork effect—so the repairs preserve those triggers while removing waterfall/drowning mechanics. The Countershout row is anchored in Side A's Scar-Edge witness record. Primary Suit/Stigma appearances were generic dark-warm forms despite exact C/D Appearance sections under the same names and statistics, so their defining visible anatomy was restored. The Weapon remains a named form fork (local Protest Relic-Urn versus exact Scream Shard) because the primary expressly says the blade's grounding procedure is not an urn instruction. Every Markdown table block passed parsed cell-count equality before and after repair, with Trigger read in the fifth cell.",
+      "history": "Local/draft history: an unnamed witness screamed against a Desolate border injustice; Complaints Register entry 1,104 recorded neither complainant nor subject and required no action; later filings stand at 19 acoustic anomalies and 11 pressure phenomena against 4 grievances, with readings 9 points higher after dismissal wording and 7 lower after grievance wording. Exact-set history records the Scar-Edge Countershout, Soojin Han's eleven silent minutes, and the omitted-verb Charm incident. Fresh equipment credit BARRED: before repair the primary already contained all three pieces with exact statistics, individual disposition paragraphs (`Protest and retaliation`, `Plate cooling`, `Charm wording`), Use Notes and a four-stage Field Use Record. Ledger `equipment_reviews` has no `N-IIβ-560` entry and none is appended; Types and Weapon remain 286/301 and 284/287.",
+      "holds": [
+        "Weapon form/history fork: primary-local Protest Relic-Urn (stoneware, wax seal, preserved breath/declarations, acoustic shockwaves) versus SE-560-B's jagged crimson Scream Shard blade and Content Edge. Statistics and the protest-force ability align, and the primary expressly separates blade procedure from urn handling; neither form was normalized. Held.",
+        "Charm function fork: primary audibility ('objections are heard out') versus SE-560-D's One-Breath Interval pause. The primary's Charm wording paragraph acknowledges both layers; appearance was aligned, function was not overwritten. Held.",
+        "Suit function remains locally phrased as turning Grudge aside, while SE-560-C defines Received Without Repetition as pressure converted to heat until another listener can summarize accurately. The primary's cooling/shutdown paragraph already carries item-specific restraints; no functional merger was invented. Held.",
+        "Formation/movement imagery: the Tale repeatedly says the cry sank/soaked into the ground, while the operational Appearance/Watch record says the crystal hangs in air and has never touched a surface during containment. No source resolves whether soaking is formation metaphor, pre-containment state, or a separate ground effect. Held.",
+        "The original injustice remains unrecoverable by the file's own position; Side A's recovered phrase names a border seizure omitted from a patrol ledger, but the primary expressly warns not to complete the original complaint from later material. Held.",
+        "Combat bracket values (10; 10; 14–22; 24–36; 12–20 AoE ×3) remain catalogue action consequences against core Han Pressure 9–21; they were not rescaled without a rule. Held."
+      ],
+      "split": [
+        2,
+        7
+      ],
+      "repairs": [
+        {
+          "id": "R1-the-unreceived-phrase",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Wet Cry* [**Debuff**] } | \"A scream — but wet, waterlogged, heavy with old tears — and each syllable drips with accumulated grief.\" | [The Scream's sorrow-saturated sound lands on the target; they feel the weight.] | *Target suffers -10 Resilience; the scream is heavier than sound should be.* **[10 Grudge DMG [Grudge]]** | When the target hears the Scream. |",
+          "new": "| { *The Unreceived Phrase* [**Debuff**] } | \"No sound reaches the instruments. Your teeth and sternum receive the sentence your ears filed as noise.\" | [Silent heat and pressure make the protest's content felt before it is understood.] | *Target suffers -10 Resilience under silent Grudge pressure; no audible scream is produced.* **[10 Grudge DMG [Grudge]]** | On activation by touch or nearby vocal aggression. |"
+        },
+        {
+          "id": "R2-the-rising-reading",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Rising Flood* [**Debuff**] } | \"The scream does not stop — and the sorrow-water it generates rises, ankle-deep, knee-deep, climbing.\" | [The Scream's runoff accumulates; the target is wading in grief.] | *Target loses 10 Resilience; the scream is generating a flood.* **[10 Grudge DMG [Grudge]]** | When the target remains. |",
+          "new": "| { *The Rising Reading* [**Debuff**] } | \"It does not get louder. The fracture lines darken, and the pressure behind the eyes becomes pressure in the chest.\" | [Stored anger remains present while its content stays unrecorded.] | *Target loses 10 Resilience under sustained silent pressure; the gauge rises through non-reception, not runoff.* **[10 Grudge DMG [Grudge]]** | While the target remains in the field without the grievance being recorded. |"
+        },
+        {
+          "id": "R3-the-countershout",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Sonic Splash* [**Attack**] } | \"The scream sharpens — and the concentrated sorrow-water becomes a blade of wet sound.\" | [A focused scream-strike, liquid and sharp.] | *Inflicts Grudge pressure and one wound of waterlogged rage.* **[14-22 Grudge DMG [Grudge]]** | When the Scream is interrupted. |",
+          "new": "| { *The Countershout* [**Attack**] } | \"Drown it out,\" the order said — and every rib cage in the perimeter had to carry the command instead.\" | [Vocal aggression interrupts reception and the stored protest rebounds as a silent pressure wave.] | *Inflicts focused Grudge pressure on the interrupting speaker; no blade or water is formed.* **[14-22 Grudge DMG [Grudge]]** | When a raised voice or countershout interrupts the work. |"
+        },
+        {
+          "id": "R4-the-full-protest",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Deluge* [**Attack**] } | \"Every scream the entity ever held — released at once — a waterfall of sorrow-saturated sound.\" | [The Scream's total release is a flood of grief and rage, and it is heard as pressure rather than as noise — the instruments in the room stay silent through all of it.] | *A heavy Crimson deluge; the target's Sorrow Gauge surges 15%. The 407 HP line is untouched, because nothing has been done to the crystal — the flood is what it was already holding.* **[24-36 Grudge DMG [Grudge]]** | When somebody summarises what the chamber heard as sound. |",
+          "new": "| { *The Full Protest* [**Attack**] } | \"Every unreceived syllable arrives at once — not as sound, but as heat, pressure, and a sentence no one wrote down.\" | [The crystal releases its stored protest while instruments remain silent and the 407 HP line remains the entity's gauge, not damage done by the release.] | *Heavy silent Grudge pressure; the target's Sorrow Gauge surges 15% because the content has again been converted into noise.* **[24-36 Grudge DMG [Grudge]]** | When somebody summarises what the chamber received as mere sound. |"
+        },
+        {
+          "id": "R5-filed-as-noise",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Drowning Din* [**Ultimate**] } | \"The sorrow-water from every scream fills the field — and the screaming does not stop, and the water does not recede.\" | [The Scream extends its soaking across the whole area, and the extension runs along the reports written about it.] | *All in range suffer Grudge pressure for three turns of drowning screams. The pressure rises 9 points higher where the last report called it an acoustic anomaly or a pressure phenomenon, and falls 7 where the last report called it a grievance — the only figure in this file that responds to paperwork.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the reading passes the 60% activation mark and the chamber's own report wording has not been corrected. |",
+          "new": "| { *Filed as Noise* [**Ultimate**] } | \"The field does not fill with water. It fills with the consequences of calling a grievance a disturbance.\" | [Silent pressure extends through the area along the reports that misfiled the protest, forcing its content on every listener.] | *All in range suffer Grudge pressure for three turns. The reading stands 9 points higher where the last report called it an acoustic anomaly or pressure phenomenon, and 7 lower where it called it a grievance — the only figure in this file that responds to paperwork.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the reading passes the 60% activation mark and the chamber's report wording remains uncorrected. |"
+        },
+        {
+          "id": "R6-mounted-crystal-rule",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "**Operational Rule:** The urn works only while carried, and it cannot stand in for a scheduled Work Type. Containment of this entity is a records function and is unaffected by what the operative is carrying.",
+          "new": "**Operational Rule:** The mounted crystal works only while borne by a prepared operative, and it cannot stand in for a scheduled Work Type. Containment of this entity is a records function and is unaffected by what the operative is carrying."
+        },
+        {
+          "id": "R7-scream-plate-appearance",
+          "kind": "short appearance correction",
+          "careful": false,
+          "old": "**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries the char-smell of the crystal it came from. It is worn over the chest, where the pressure behind the eyes is felt hardest, and the file's note is that it is the reason a worker can stay in the chamber long enough for the entry in the register to be worth writing.",
+          "new": "**Appearance:** a crimson plated harness of Grudge Han-iron with a sealed throat guard and ribs shaped around an absent mouth. It warms before Grudge pressure arrives and carries the char-smell of the crystal it came from; built for receiving, it lets a worker remain in the chamber long enough for the entry in the register to be worth writing."
+        },
+        {
+          "id": "R8-scream-charm-appearance",
+          "kind": "short appearance correction",
+          "careful": false,
+          "old": "**Appearance:** a small charm of Grudge Han-iron, dark and warm to the touch, that grows briefly hotter when the wearer is contradicted. It is worn at the tail, and it is the one piece in this set that is not manufactured: Dismissed Cry gives one to a worker who wrote the grievance down with a name on it, and has given none to a worker who closed a session by logging a disturbance.",
+          "new": "**Appearance:** a tail-mounted crimson charm of Grudge Han-iron shaped like a closed mouth. It stays dark until pressure reaches it, when a thin line opens without sound. It is not manufactured: Dismissed Cry gives one to a worker who wrote the grievance down with a name on it, and has given none to a worker who closed a session by logging a disturbance."
+        },
+        {
+          "id": "R9-registrum-observations",
+          "kind": "careful registry correction",
+          "careful": true,
+          "old": "**Observation Notes:**\n- See Origin section for formation details.\n- See Combat Record for engagement parameters.\n**Cross-References:** See entity’s interaction record and cross-references in the full file.",
+          "new": "**Observation Notes:**\n- Personnel feel pressure behind the eyes and vibration in teeth and sternum while instruments record silence; the discrepancy is the identification.\n- Tears lower density and soften the surface, but do not replace acknowledgement and a named register entry.\n- The filing arithmetic stands at 19 acoustic anomalies and 11 pressure phenomena against 4 grievances, with readings 9 points higher after the first wording and 7 lower after the last.\n**Cross-References:** Complaints Register entry 1,104; the Scar-Edge Countershout; the interaction record for Aphonia, the Wrath Flame, and the Undersong."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIβ-560_Dismissed_Cry_솟구친_절규.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.019  clean   155 grams  Trivia\n 0.009  clean   455 grams  관찰 기록 (Observation Log)\n 0.007  clean   437 grams  기록 (Registrum)\n 0.006  clean   176 grams  Operational Parameters\n 0.004  clean   762 grams  Combat Record\n 0.003  clean   299 grams  이야기 보고 (Story Log)\n 0.002  clean   966 grams  감각 묘사 (Flavor Text)\n 0.001  clean   675 grams  Activation Behavior\n 0.001  clean   863 grams  M.A.W. Equipment\n 0.000  clean   326 grams  Appearance\n 0.000  clean   315 grams  이야기 (Narratio)\n 0.000  clean   230 grams  Origin\n 0.000  clean   202 grams  Watch Record\n 0.000  clean   168 grams  Behavior\n 0.000  clean   102 grams  최종 관찰 (Final Observation)\n 0.000  clean    44 grams  증언 (Testimonium)\n 0.000  clean    34 grams  SECC Classification\n 0.000  clean    28 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   43   1  - Viderehan and Ferrehan are the only valid approaches; the scream cannot be consoled or confronted.\n   86   3  | { *Filed as Noise* [**Ultimate**] } | \"The field does not fill with water. It fills with the consequences of calling a grievance\n  155   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  281   1  | **Before use** | Wielder, piece, gauge at issue, and the register entry number for the grievance the deployment is for. The know\n  308   4  **Observation method:** Record the first sign, which is heat without a source; the first sensation, which is pressure behind the e\n  323   1  Work response — Viderehan: Reveals the injustice behind the scream. (Stable); Ferrehan: Tests whether the worker can remain with a\n  360   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  415   3  **Review requirement:** Re-verify after any Sorrow Tide, after any incident at the Scar, and after any report on this entity is su\n  446   3  - **Record detail:** Check the designation before approach. More than one Desolate record carries a protest, and they want differe\nGENERIC 0.003  (19 shared shingles)  SE-N-IIβ-560_Dismissed_Cry_솟구친_절규.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-A__SIDE_CODEX_Dismissed_Cry.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-B__MAW-W_The_Scream_Shard.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-C__MAW-S_The_Scream_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-D__MAW-G_The_Scream_Charm.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-A__SIDE_CODEX_Dismissed_Cry.md": "4779dff9b96d1eecae40dc1fade0be14891266a507ada13df2fa964a967b5374",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-B__MAW-W_The_Scream_Shard.md": "d9613b672df734f4dcbf3526c48f0b0c16fda0dd62657130eaf7065a634d2749",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-C__MAW-S_The_Scream_Plate.md": "5494c778a8d16a0f28a1da27a13d9100566339f62b4992d6d29f733d90669fa2",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-560-D__MAW-G_The_Scream_Charm.md": "3282aa8baa7fe1505617f86fd3adeb0ff05e8358c078e45a9e48a1adfd5a371e"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IIβ-560_Dismissed_Cry_솟구친_절규](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-560_Dismissed_Cry_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%A0%88%EA%B7%9C.md \"SE-N-IIβ-560_Dismissed_Cry_솟구친_절규.md\")]",
+      "table_link": "[[N-IIβ-560 Dismissed Cry](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-560_Dismissed_Cry_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%A0%88%EA%B7%9C.md \"SE-N-IIβ-560_Dismissed_Cry_솟구친_절규.md\")]",
+      "reading": {
+        "before_lines": 452,
+        "before_bytes": 51479,
+        "final_lines": 453,
+        "final_bytes": 52081
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 29,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequence_change": "Existing file numbers were repeated once in Registrum (19, 11, 4, 9, 7 and entry 1,104) when generic pointers were replaced; no new statistic or value was introduced and no digit sequence was removed.",
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4
+      }
+    }
+  ]
 }
