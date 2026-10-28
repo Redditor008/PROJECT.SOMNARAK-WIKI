@@ -8,11 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## R-34 corrective audit — Dawn of Mourning `C-Vω-001` (2026-10-29)
+
+Added **`R-34 — Full-File Logical Audit Before Any Fix`**. Dawn of Mourning returned to audit after the owner identified unresolved Combat Action defects missed by Batch 197. The pre-repair audit freezes the current primary at SHA `a1be6000…`, reads the complete SE-044 and Kind Healer/Hand of Hope evidence chain, and records 25 findings across identity/state, appearance, operational parameters, all five Combat Actions, battle phases, work, breach, equipment provenance, logs, Flavor, Registrum, chronicle doctrine and the Batch 197 process failure. No primary repair has been applied at this stage; mapped source-supported repairs and a complete final re-audit follow as a separate gated unit. Fresh credit +0. [Full audit](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/DAWN_OF_MOURNING_FULL_AUDIT_2026-10-29.md); [audit JSON](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/DAWN_OF_MOURNING_FULL_AUDIT_2026-10-29.json); [R-34](REFERENCE_SOMNARAK_WIKI/RULES/R-34_FULL_FILE_LOGICAL_AUDIT_BEFORE_FIX.md).
+
 ## Batch 198 — OPEN, 4 / 5 (2026-10-28)
+
 **Unit 4 — Bridge of the Unchosen `N-IIIγ-874`: HELD, +0.** Fourteen repairs (4 short / 10 careful; 8,498→8,920 words): the bridge that has never shed a stone stops detonating; its Counterfactual Rule replaces the activation banner. Direct SE-874. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_04_BRIDGE_OF_THE_UNCHOSEN.md).
+
 ## Batch 197 — CLOSED, 5 / 5 (2026-10-28)
+
 Five HELD units, No change 0, 70 repairs (13 short / 57 careful), 41,840→43,076 words, no fresh credit — every dossier carried a prior written disposition. Battery PASS: fresh validators 25/25, reconstruction 5/5, fingerprints 35/35, tests 54/54, audits PASS, zero source changes. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_CLOSE.md).
+
 ## Batch 196 — CLOSED, 5 / 5 (2026-10-28)
+
 Five HELD units, No change 0, 63 repairs (16 short / 47 careful), 41,314→42,230 words, no fresh credit — every dossier carried a prior written disposition. Battery PASS: fresh validators 25/25, reconstruction 5/5, fingerprints 40/40, tests 54/54, audits PASS, zero source changes. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_CLOSE.md).
 
 ## Batch 189 — CLOSED, 5 / 5 (2026-10-27)

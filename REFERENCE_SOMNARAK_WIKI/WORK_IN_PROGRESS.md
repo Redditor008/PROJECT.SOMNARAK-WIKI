@@ -1,10 +1,19 @@
 # Work In Progress
 
+## R-34 corrective audit — Dawn of Mourning `C-Vω-001` (2026-10-29)
+
+**Audit complete; primary repair not yet applied.** The owner ordered a full-file logical audit before fixing after identifying unresolved defects in Dawn of Mourning's Combat Actions. `R-34` now makes that order standing law. The Dawn audit freezes the Batch 197 result at SHA `a1be6000…` and records 25 findings: all five Combat Actions, the live-work operating layer, the 11-of-12 versus 12-of-12 chain state, equipment provenance against the real SE-071 Gentle set, Registrum errors, Story Log movement and unresolved source forks. Fresh credit +0; Batch 197 history preserved. Next step: mapped R-18 repairs, complete final re-audit, validators and gate push. [Full audit](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/DAWN_OF_MOURNING_FULL_AUDIT_2026-10-29.md); [audit JSON](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/DAWN_OF_MOURNING_FULL_AUDIT_2026-10-29.json); [R-34](REFERENCE_SOMNARAK_WIKI/RULES/R-34_FULL_FILE_LOGICAL_AUDIT_BEFORE_FIX.md).
+
 ## Batch 198 — OPEN, 4 / 5 (2026-10-28)
+
 Unit 4 — **Bridge of the Unchosen `N-IIIγ-874`: HELD; credit-barred, +0.** 14 repairs (4s/10c; 8,498→8,920 words); direct SE-874. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_04_BRIDGE_OF_THE_UNCHOSEN.md).
+
 ## Batch 197 — CLOSED, 5 / 5 (2026-10-28)
+
 All five HELD, No change 0, 70 repairs (13s/57c), no fresh credit (all barred by prior dispositions). Battery: 25/25 validators, 5/5 reconstruction, 35/35 fingerprints, audits PASS. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_CLOSE.md).
+
 ## Batch 196 — CLOSED, 5 / 5 (2026-10-28)
+
 All five HELD, No change 0, 63 repairs (16s/47c), no fresh credit (all barred by prior dispositions). Battery: 25/25 validators, 5/5 reconstruction, 40/40 fingerprints, audits PASS. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_CLOSE.md).
 
 **Unit 3 — Midnight Choir `C-IIβ-245`: HELD, +0.** Three repairs (2 short / 1 careful; 8,256→8,316 words): last template sentences in a near-clean file. Credit barred by item-integrating primary paragraphs. [Evidence](SE_APPEARANCE_REVIEWS/B196_03_MIDNIGHT_CHOIR.md).
