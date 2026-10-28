@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B196 U2 Driftglass `O-IIIγ-914` HELD, credit-barred, +0.** 10 repairs (1s/9c), 8,251→8,434w. Types 286/301 (95.02%), Weapon 284/287 (98.95%), SE 18/301 (5.98%); held 238 / pending 43. [Evidence](SE_APPEARANCE_REVIEWS/B196_02_DRIFTGLASS.md).
+- **Latest: B196 U3 Midnight Choir `C-IIβ-245` HELD, credit-barred, +0.** 3 repairs (2s/1c), 8,256→8,316w. Types 286/301 (95.02%), Weapon 284/287 (98.95%), SE 18/301 (5.98%); held 239 / pending 42. [Evidence](SE_APPEARANCE_REVIEWS/B196_03_MIDNIGHT_CHOIR.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 196 — OPEN, 2 / 5 (2026-10-28)
+## Batch 196 — OPEN, 3 / 5 (2026-10-28)
+
+**Unit 3 — Midnight Choir `C-IIβ-245`: HELD, +0.** Three repairs (2 short / 1 careful; 8,256→8,316 words): last template sentences in a near-clean file. Credit barred by item-integrating primary paragraphs. [Evidence](SE_APPEARANCE_REVIEWS/B196_03_MIDNIGHT_CHOIR.md).
 
 **Unit 2 — Driftglass `O-IIIγ-914`: HELD, +0.** Ten repairs (1 short / 9 careful; 8,251→8,434 words): a never-fixed drift stops being an escape; exact set SE-1040. Credit barred by the in-file 2026-10-11 review. [Evidence](SE_APPEARANCE_REVIEWS/B196_02_DRIFTGLASS.md).
 

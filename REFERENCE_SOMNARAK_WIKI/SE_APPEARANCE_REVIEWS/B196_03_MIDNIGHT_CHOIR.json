@@ -1,0 +1,128 @@
+{
+  "designation": "C-IIβ-245",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md",
+  "words": 8256,
+  "sha256": "2f229715747c4496788ca5d96ce3d53685600eb89ff9209d6c278d085a8b34bc",
+  "unit": 3,
+  "name": "Midnight Choir",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_03_MIDNIGHT_CHOIR.md",
+  "before_words": 8256,
+  "after_words": 8316,
+  "base": "96d069b55c1872d6446d2b79706e6622d6d162b9",
+  "final_sha256": "c06103037f17920f2ccd1f38d2c06d635e0f037a2be9d40c2b9fa0b086b61e85",
+  "summary": "Three source-supported repairs (2 short / 1 careful) in a near-clean file: the 16-turn template gives way to the sequence's own measure, the generic Work-Notes boilerplate becomes the attendance/transcription doctrine, and the lost-history claim is entered at the weight the file itself assigns it (nine break words). HELD; no credit (primary already integrates the item records' care/release doctrine).",
+  "commentary": "This is one of the archive's most finished files — 41,600 songs, not one ending, and a containment condition that binds an interview room in another building — so the review is mostly a record of what was *not* changed. The three repairs are the last template sentences standing in a dossier that has spent sixty-one in-world years refusing to summarise.",
+  "reasoning": "Set SE-245 identity resolved from Side A (C-IIβ-245 [LP]) and items carrying SE-245 / MAW-W/S/G-245-01; Registry rows 530–533 (Registry_235_to_247 direct files). Sentence triage found three surviving defects only: a 16-turn Battle Length against the file's own 'not in turns' measure; the generic stable-gauge work-notes template; and Story Entry 2's bare lost-history claim against the Viderehan row's weighing. Side PAGE 01/02's spreading-music and attacked-walls-go-silent claims contradict sixty-one measured years and are held, not imported. R-18 split declared before the apply: 2 short / 1 careful.",
+  "history": "No credit — the primary's per-piece paragraphs (Phrase boundary, Listener care, Choice and release) already integrate the exact item records' doctrine: the Requiem's repeat-the-last-lyric binding and sheath-at-the-break shutdown, the Shroud's noon hanging/complete-living-song care and mid-note removal ban, and the Stone's calm-not-truth prohibition with open-space release. That written disposition is the coverage event; equipment_reviews has no 245 entry and none was added. Side A (112 lines) and items B/C/D read whole (59/57/63 lines) including Appearance sections confirm it; git path history shows only the B179 import. +0 all counters.",
+  "holds": [
+    "Side expansion fork: Side PAGE 01/02 (music spreads through connected buildings; attacking walls makes them silent; Seven-Room Refrain overflow) vs the primary's sixty-one-year measurement (field never past 94 m; three silencing attempts changed nothing audible) — Side text preserved, primary table already records the connected-buildings claim as withdrawn.",
+    "Weapon: figures agree (Lament 5–9 / 2 / 2 / Single / 4 / 25); primary slender singing blade never drawn in the corridor vs item short deep-blue blade that cuts surplus resonance past a documented break — function records distinct, both standing.",
+    "Suit figures agree (0.4/1/1.6/0.8; 4/20); primary plain faintly-luminous wrapping vs item blue silk with painted mouths breathing along the fold. Stigma Tail / 5% agree; bonus named '+1 Clarity' (Side/item) vs primary '+1 to work rating'; Registry generic Accessory / 5%.",
+    "Stigma conferral: primary eleven wall stones granted on named-officer break-word nights vs item D bestowal after a lullaby catalogued without its goodnight, 5%; item calm-through-fragment effect vs the primary's refused statement-room postings — posture carries into the primary as a prohibition, held as written.",
+    "The Resumption Offer's ledger (2,140 letters, 611 resumptions, 148 complaints, 9 withdrawals, 3 collapsed awards), three recordings' fourth voice and the sixty-one-year patternless break-point search remain open record, untouched."
+  ],
+  "split": [
+    2,
+    1
+  ],
+  "repairs": [
+    {
+      "id": "R1-battle-length",
+      "kind": "short operational correction",
+      "careful": false,
+      "old": "| **Battle Length** | Medium — 16 turns |",
+      "new": "| **Battle Length** | The sequence — forty minutes to six hours, set by the night's count (nine to eighty-one songs). Nothing here is measured in turns. |"
+    },
+    {
+      "id": "R2-operational-notes",
+      "kind": "careful work-notes correction",
+      "careful": true,
+      "old": "Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Midnight Choir is recorded as an Object/Place with Place-Lament manifestation and Lament elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.",
+      "new": "The two valid rows are one posting seen from two sides. Ferrehan is the attendance — the whole sequence standing, with the book open, relief only between songs — and it is the only row that moves the gauge. Viderehan is what the attendance produces: the night's count and every break word verbatim, including the ones that name serving officers. Stability under Viderehan is not safety here; it is the correct result, and the pressure is borne almost entirely by the one worker holding the book, whose rotation is four nights a quarter for that reason."
+    },
+    {
+      "id": "R3-entry-2",
+      "kind": "short log grounding",
+      "careful": false,
+      "old": "Songs contain history absent from the Archive.",
+      "new": "Nine break words in sixty-one years have carried dates the Archive does not hold; forty-one thousand six hundred songs have carried none. The claim that the songs contain lost history rests entirely on the nine and is entered here at its true weight."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.013  clean   158 grams  Operational Parameters\n 0.011  clean   736 grams  M.A.W. Equipment\n 0.011  clean   553 grams  Combat Record\n 0.011  clean   570 grams  감각 묘사 (Flavor Text)\n 0.004  clean   527 grams  기록 (Registrum)\n 0.003  clean   316 grams  Expansion Behavior\n 0.000  clean   793 grams  이야기 보고 (Story Log)\n 0.000  clean   568 grams  Watch Record\n 0.000  clean   420 grams  이야기 (Narratio)\n 0.000  clean   376 grams  관찰 기록 (Observation Log)\n 0.000  clean   256 grams  Appearance\n 0.000  clean   249 grams  Trivia\n 0.000  clean   187 grams  Origin\n 0.000  clean   149 grams  Behavior\n 0.000  clean   120 grams  증언 (Testimonium)\n 0.000  clean   111 grams  최종 관찰 (Final Observation)\n 0.000  clean    39 grams  SECC Classification\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 25% against Lament pressure; 15% against other pressure types |\n   91   5  3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Listen and catal\n  179   1  **Activation reporting order:** midnight start → the night's song count → the number that broke off → the break words, verbatim → \n  188   2  **Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that pulses with the source sorrow when\n  211   6  **Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.\n  231   2  **Appearance:** a small stone of Lament Han-crystal, cool and faintly luminous, that catches the light oddly.\n  343   1  Three records are grouped with this one and all three are grouped on sound. Nothing can be brought to this holding — it is ninety-\n  345   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  349   3  | **The Whispering Walls** | \"Whispers become songs near the entity\" has sat in this cell since Year 4219 with no observation behi\n  392   1  - The Resumption Offer is a containment condition of this holding and binds every officer who takes a statement from the bereaved.\n  399   2  **Faction Involvement:** SED (B-territory survey; the earlier D-territory entry contradicted the registered location and has been \nGENERIC 0.004  (28 shared shingles)  SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-245-A__SIDE_CODEX_Midnight_Choir.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-245-B__MAW-W_The_Wall_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-245-C__MAW-S_The_Wall_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-245-D__MAW-G_The_Wall_Stone.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-245-A__SIDE_CODEX_Midnight_Choir.md": "65b4c3ef976d04361b14d0eb9ce4560307abc6956730845415adf5d04643b023",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-245-B__MAW-W_The_Wall_Requiem.md": "ddf97e0d9e12f0556dec091868652e5b16949537c5fe7347d93ed7d46e94fdb6",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-245-C__MAW-S_The_Wall_Shroud.md": "0ccec902216fdfbbad3479fc9813b2e5f171a23b2f3082c5c8dbef1bbede9859",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-245-D__MAW-G_The_Wall_Stone.md": "432850734a09ab3e8a565438497b0ec816936c275c160a2abc7f7094235fa655",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IIβ-245_Midnight_Choir_노래하는_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-245_Midnight_Choir_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%B2%BD.md \"SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md\")]",
+  "table_link": "[Midnight Choir](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-245_Midnight_Choir_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%B2%BD.md \"SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md\")",
+  "reading": {
+    "before_lines": 454,
+    "before_bytes": 50770,
+    "final_lines": 454,
+    "final_bytes": 51038
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 42,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": "Sole digit change: the template Battle Length '16 turns' is removed from a holding the file expressly measures in songs, not turns. No other figure, date, score or count was altered."
+  }
+}
