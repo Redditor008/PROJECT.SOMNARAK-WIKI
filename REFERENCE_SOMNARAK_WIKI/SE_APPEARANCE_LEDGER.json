@@ -17,78 +17,17 @@
     }
   },
   "active_batch": {
-    "number": 196,
-    "status": "CLOSED",
+    "number": 197,
+    "status": "OPEN",
     "required": 5,
     "queue": [
-      "O-Iα-126",
-      "O-IIIγ-914",
-      "C-IIβ-245",
-      "C-IVδ-250",
-      "C-IIIγ-088"
+      "C-IIβ-340",
+      "C-IIβ-102",
+      "C-Vω-001",
+      "C-IVδ-668",
+      "N-IIβ-488"
     ],
-    "reviewed": {
-      "O-Iα-126": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_01_ANONYM.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "O-IIIγ-914": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_02_DRIFTGLASS.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IIβ-245": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_03_MIDNIGHT_CHOIR.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IVδ-250": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_04_RESTLESS_GAP.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IIIγ-088": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_05_THE_SORROW_FOUNTAIN.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      }
-    }
+    "reviewed": {}
   },
   "dossiers": [
     {

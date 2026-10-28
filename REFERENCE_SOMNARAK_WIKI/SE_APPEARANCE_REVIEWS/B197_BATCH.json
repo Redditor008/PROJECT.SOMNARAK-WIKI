@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "batch": 197,
+  "status": "OPEN",
+  "completed_units": 0,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "C-IIβ-340",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-340_Clapperless_빈_종.md",
+      "words": 8318,
+      "sha256": "aa3e1e1e9992bcdedb7aa0419aea939313daa71c1c67b61fe20f2c33c33e7cae"
+    },
+    {
+      "unit": 2,
+      "designation": "C-IIβ-102",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md",
+      "words": 8336,
+      "sha256": "c764ad822737199be413ff0e7a95d62b7d6bacd031326601f2f2e69c72c47a7d"
+    },
+    {
+      "unit": 3,
+      "designation": "C-Vω-001",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md",
+      "words": 8340,
+      "sha256": "4a0e904d8ef0cb90e0ee095514fe35f57f8e535fb3b5fba69eb0e570e533a72c"
+    },
+    {
+      "unit": 4,
+      "designation": "C-IVδ-668",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-668_Frozen_Fury_얼어붙은_잔해.md",
+      "words": 8407,
+      "sha256": "01e867076e69ebbcfb014d1c748831764044e8990c8629ef7eb6652e424687ea"
+    },
+    {
+      "unit": 5,
+      "designation": "N-IIβ-488",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-488_Friendless_Bridge_스며든_다리.md",
+      "words": 8439,
+      "sha256": "199e4ddab27dcadb2929a0cc1eba14448a5de1d01a1bc42bab16ec0b22e258f3"
+    }
+  ],
+  "opened_at": "2026-10-28",
+  "completed": 0,
+  "units": []
+}
