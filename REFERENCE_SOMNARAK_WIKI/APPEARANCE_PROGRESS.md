@@ -1,6 +1,6 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-- **Latest: B196 OPEN 0/5.** Fresh ranking of 45 pending; queue `O-Iα-126`, `O-IIIγ-914`, `C-IIβ-245`, `C-IVδ-250`, `C-IIIγ-088`. Types 286/301 (95.02%), Weapon 284/287 (98.95%), SE 18/301 (5.98%); held 236 / pending 45.
+- **Latest: B196 U1 Anonym `O-Iα-126` HELD, credit-barred, +0.** 9 repairs (3s/6c), 8,247→8,411w. Types 286/301 (95.02%), Weapon 284/287 (98.95%), SE 18/301 (5.98%); held 237 / pending 44. [Evidence](SE_APPEARANCE_REVIEWS/B196_01_ANONYM.md).
 
 **Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
 

@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
-| **Tool / M.A.W. grade** | α · α (Minor) |
+| **Tool / M.A.W. grade** | α (Minor) |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Flerehan, with a second worker present whose only duty is to use the first worker's name. Pugnahan asserts what something is, which is the injury, and is prohibited. |
@@ -50,7 +50,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 0.95 m/s |
+| **Speed** | Not a quantity here — the Shard occupies no space and does not travel; it is perceived inside consciousness and spreads through the awareness of whoever is on the border line. |
 | **Resistance** | 15% against Void pressure; 5% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |
@@ -79,9 +79,9 @@
 |---|---|---|---|---|
 | { *The Soft Edge* [**Debuff**] } | "Your outline goes blurry at the edges — and you cannot tell where you stop and the air begins." | [The Shard melts the target's boundaries; definition fails.] | *Target suffers a Void mark; they are less solid than they were.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Shard is approached. |
 | { *The Run* [**Debuff**] } | "Something drips — and you realize with horror that it is you." | [The target begins to lose cohesion; identity runs.] | *Target loses clarity; they cannot hold their shape together.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers in the melt. |
-| { *The Pool* [**Attack**] } | "A splash of what used to be someone lands on you." | [A glob of melted self strikes the target.] | *Inflicts Void damage; a portion of identity transferred.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shard is disturbed. |
-| { *The Dissolve* [**Attack**] } | "The melting accelerates — and everything you were comes apart at once." | [The edges of whoever is nearest start going soft, and the softening runs inward faster than anybody can name what is being lost.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shard is struck. |
-| { *The Puddle* [**Ultimate**] } | "Everyone loses their edges — and the floor is awash with what used to be people." | [The melt stops being a property of the figure and becomes the room's, and the floor takes on the shapes of everyone standing on it.] | *All in range suffer Void erosion for three turns as shapes fail.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Pool* [**Attack**] } | "Nothing splashes and nothing lands on anybody — it cannot touch anyone and has never produced an injury. What arrives is a description: the target hears themselves accurately recorded as somebody they are not." | [No glob of melted self exists to strike with; identity confidence dissolves while memory stays intact, which is why it is missed.] | *Inflicts Void damage; the record is recited correctly and stops being believed.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When somebody is told, with complete confidence, what they are. |
+| { *The Dissolve* [**Attack**] } | "The melting accelerates — and everything you were comes apart at once." | [The edges of whoever is nearest start going soft, and the softening runs inward faster than anybody can name what is being lost.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | Under Pugnahan, or any confident assertion of a fixed identity — it cannot be struck, having no vessel. |
+| { *The Puddle* [**Ultimate**] } | "The floor stays dry. What goes is the room's grip on its own roster: two people on the same shift give different accounts of who was present." | [The melt stops being a property of the figure and becomes the room's willingness to let its own edges go; personnel stop using one another's names, then stop noticing.] | *All in range suffer Void erosion for three turns as names fail.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -91,7 +91,7 @@
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Composure** and identity cohesion, accelerating Sorrow Gauge escalation.
+- Nothing here degrades loudly and nothing is severe on the day. The failure is a sentence: a worker's post-cycle self-description comes back shorter, flatter and more generic than the one they wrote before it — seven point four words shorter, on the current mean.
 - Extended contact produces identity erosion, and the documented course is specific: subjects lose confidence in their own identity rather than their memory of it. The worker can recite their name, record and history accurately throughout, and simply stops believing that any of it describes them.
 - Every piece drawn from the Shard charges in selfhood. The hand-cannon takes small nameless memories with each shot; the veil holds the soul intact and leaves its wearer faintly absent to themselves; the Reflection shows erosion in others before it becomes loss and makes its bearer the object of everyone's pity.
 - Unresolved, it does not escape — it spreads. The breach type is Corrupt, the zone warps outward from where the entity already is, and the first indication is usually that two people on the same shift give different accounts of who was present.
@@ -161,7 +161,7 @@ Read the four rows above with the classification and the element in hand: the sa
 ### Escalation Notes
 
 - **Breach type:** Corrupt — nothing leaves, because nothing was ever in one place; the border region itself begins to lose definition outward from the personnel who are already carrying it.
-- **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
+- **Containment priority:** There is nothing to seal — no door holds it, and the boundary runs through the staff. Get names said: each worker addressed by name and asked rather than told who they are, present-tense anchors running, and the reading-back performed at the close. Flerehan and Ferrehan, worked in pairs.
 - **Sorrow Gauge on breach:** Responds to certainty in both directions, which is unusual and is recorded here deliberately. It rises 10% each time personnel deny someone's account of themselves, and it rises 10% just the same each time personnel assert a fixed identity over someone — corrections, confident diagnoses, and telling a frightened colleague who they really are all count. It falls 10% when a worker is addressed by name and asked rather than told who they are. The vault note is accurate: certainty can destabilise it as much as denial.
 
 ## M.A.W. Equipment
@@ -310,9 +310,9 @@ A figure made of shards watches you from inside your own thought. Its edges melt
 
 **With continued exposure:** The minutes go by and the first wrongness gives way to something harder to hold on to: familiarity. The pressure settles into a pattern that can be read ahead, and then into a habit, and then into a name that no longer quite fits. Nothing out on the border is different from the first minute to the tenth; what has changed is how firmly the person watching is whoever they were.
 
-**When the entity activates:** The Gauge tips. The Subject-Mind does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Void is no longer atmospheric. It is operational.
+**When the entity activates:** Nothing gets louder and nothing arrives. Pale fragments are in the corners of every thought, a confident statement of what it is has just cost a point of the count, and somebody on the line has stopped using the other person's name.
 
-**After departure:** After contact, the body holds what the mind files away. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** Sorrow, near-universally, and consistently reported as somebody else's. The worker can recite their name, posting and history accurately throughout — and the second sentence on their sheet is seven words shorter than the first.
 
 ### Interaction Pattern
 

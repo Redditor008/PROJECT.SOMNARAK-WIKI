@@ -1,0 +1,170 @@
+{
+  "designation": "O-Iα-126",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-126_Anonym_녹아내린_조각.md",
+  "words": 8247,
+  "sha256": "c0bb14e413d058804399a78d7f501ae82f13b89d2ef2abecb7037bd8a58fdd0b",
+  "unit": 1,
+  "name": "Anonym",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_01_ANONYM.md",
+  "before_words": 8247,
+  "after_words": 8411,
+  "base": "cc118357429c1c7d677622c40994598c075dc3c4",
+  "final_sha256": "2be9d8f151415837f920ef296e793a7c364c5266c9211f1bc4662dfc0042035b",
+  "summary": "Nine source-supported repairs (3 short / 6 careful): a spaceless Subject loses its 0.95 m/s, its splashing globs, its strikeable body and its flooded floor; containment returns from sealing zones to saying names; the generic degradation bullet becomes the 7.4-word instrument. HELD; no credit (Side carries a dated Weapon-title review, 2026-10-11).",
+  "commentary": "This file's whole physics is that there is no physics: no space, no vessel, no distance, and an instrument made of one-sentence self-descriptions. The template kept giving the melt a floor to splash on. What survives the repairs is the archive's most honest containment sentence — the boundary runs through the staff — and a roster that disagrees with itself about who was present.",
+  "reasoning": "Set SE-126 identity resolved from Side A (O-Iα-126 [VS]) and items carrying SE-126 / MAW-W/S/G-126-01; Registry rows 370–373 (Registry_119_to_127/126_Anonym). Sentence triage: Speed contradicted 'nowhere/no space'; three combat rows physicalized the melt (glob strike, struck trigger, floor awash) against no-vessel/incorporeal; the first Consequences bullet was the generic degradation template against the documented word-loss course; the Escalation priority sealed a zone for an entity no door holds and dropped Flerehan, the primary approach; duplicated α grade and two generic flavor rows remained. R-18 split declared before the apply: 3 short / 6 careful.",
+  "history": "No credit — Side SE-126-A PAGE 04 carries a dated 'Weapon-title review (2026-10-11)' disposition (primary/Registry/Master-table/MAW-W-126 *Liquefying Hand-Cannon* and revision 3abe5470 vs item Official-name/Resting-Active/Entry 697 *Melting Lens*, plus the duplicate title on Folly SE-329/MAW-W-329 held unlinked), and the primary already integrates item-side *Name Thread*, *See the Edge* and the *Held Shape / Named by Choice* resonance. That written disposition is the coverage event; equipment_reviews has no 126 entry and none was added. Side A (183 lines) and items B/C/D read whole (106/102/99 lines) including Appearance sections confirm it; git path history shows only the B179 import. +0 all counters.",
+  "holds": [
+    "Weapon title/form exactly as the Side review left it: primary/item-Appearance cast-iron molten-tallow hand-cannon vs item identity *The Melting Lens* (thin pale lens, light-line Active form) and duplicate *Melting Lens* on Folly SE-329 (MAW-W-329) with no shared-identity cross-link; figures agree (Void 3–6 / 2 / 2 / Single / 5 / 15). No Lens-to-cannon transition documented.",
+    "Weapon mechanics: primary scores impact plus clinging white flame per interval against the item's Single/100%-only Falloff 'None' and erosion-pause function — mechanics not crosswalked.",
+    "Suit/Stigma figures agree (1.2/0.8/0.3/1.1, 5/10; Head / 5% / +1 vs Registry generic Accessory / 5%); item chosen-name witness regime is integrated into the primary, against its own self-description-sheet regime — related but distinct instruments, both standing.",
+    "Stigma conferral: primary given-not-taken after a cycle with no certain identity statement vs item D 5% after successful work with a bestowal event; primary forfeits the bonus on certainty, a condition absent from item D.",
+    "Entry 5's second origin account (the refusing clerk wearing away at his own name) vs the exile's wrong Register entry; the 18,900 standing discrepancies, 412 fraud-proof corrections and unanswered clerks' submission remain open record, untouched."
+  ],
+  "split": [
+    3,
+    6
+  ],
+  "repairs": [
+    {
+      "id": "R1-tool-grade",
+      "kind": "short factual correction",
+      "careful": false,
+      "old": "| **Tool / M.A.W. grade** | α · α (Minor) |",
+      "new": "| **Tool / M.A.W. grade** | α (Minor) |"
+    },
+    {
+      "id": "R2-speed",
+      "kind": "careful stat correction",
+      "careful": true,
+      "old": "| **Speed** | 0.95 m/s |",
+      "new": "| **Speed** | Not a quantity here — the Shard occupies no space and does not travel; it is perceived inside consciousness and spreads through the awareness of whoever is on the border line. |"
+    },
+    {
+      "id": "R3-the-pool",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Pool* [**Attack**] } | \"A splash of what used to be someone lands on you.\" | [A glob of melted self strikes the target.] | *Inflicts Void damage; a portion of identity transferred.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shard is disturbed. |",
+      "new": "| { *The Pool* [**Attack**] } | \"Nothing splashes and nothing lands on anybody — it cannot touch anyone and has never produced an injury. What arrives is a description: the target hears themselves accurately recorded as somebody they are not.\" | [No glob of melted self exists to strike with; identity confidence dissolves while memory stays intact, which is why it is missed.] | *Inflicts Void damage; the record is recited correctly and stops being believed.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When somebody is told, with complete confidence, what they are. |"
+    },
+    {
+      "id": "R4-the-dissolve",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Dissolve* [**Attack**] } | \"The melting accelerates — and everything you were comes apart at once.\" | [The edges of whoever is nearest start going soft, and the softening runs inward faster than anybody can name what is being lost.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shard is struck. |",
+      "new": "| { *The Dissolve* [**Attack**] } | \"The melting accelerates — and everything you were comes apart at once.\" | [The edges of whoever is nearest start going soft, and the softening runs inward faster than anybody can name what is being lost.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | Under Pugnahan, or any confident assertion of a fixed identity — it cannot be struck, having no vessel. |"
+    },
+    {
+      "id": "R5-the-puddle",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Puddle* [**Ultimate**] } | \"Everyone loses their edges — and the floor is awash with what used to be people.\" | [The melt stops being a property of the figure and becomes the room's, and the floor takes on the shapes of everyone standing on it.] | *All in range suffer Void erosion for three turns as shapes fail.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *The Puddle* [**Ultimate**] } | \"The floor stays dry. What goes is the room's grip on its own roster: two people on the same shift give different accounts of who was present.\" | [The melt stops being a property of the figure and becomes the room's willingness to let its own edges go; personnel stop using one another's names, then stop noticing.] | *All in range suffer Void erosion for three turns as names fail.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+    },
+    {
+      "id": "R6-consequence-generic",
+      "kind": "careful consequence correction",
+      "careful": true,
+      "old": "- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Composure** and identity cohesion, accelerating Sorrow Gauge escalation.",
+      "new": "- Nothing here degrades loudly and nothing is severe on the day. The failure is a sentence: a worker's post-cycle self-description comes back shorter, flatter and more generic than the one they wrote before it — seven point four words shorter, on the current mean."
+    },
+    {
+      "id": "R7-containment-priority",
+      "kind": "careful event correction",
+      "careful": true,
+      "old": "- **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.",
+      "new": "- **Containment priority:** There is nothing to seal — no door holds it, and the boundary runs through the staff. Get names said: each worker addressed by name and asked rather than told who they are, present-tense anchors running, and the reading-back performed at the close. Flerehan and Ferrehan, worked in pairs."
+    },
+    {
+      "id": "R8-flavor-activates",
+      "kind": "short flavor grounding",
+      "careful": false,
+      "old": "**When the entity activates:** The Gauge tips. The Subject-Mind does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Void is no longer atmospheric. It is operational.",
+      "new": "**When the entity activates:** Nothing gets louder and nothing arrives. Pale fragments are in the corners of every thought, a confident statement of what it is has just cost a point of the count, and somebody on the line has stopped using the other person's name."
+    },
+    {
+      "id": "R9-flavor-after",
+      "kind": "short flavor grounding",
+      "careful": false,
+      "old": "**After departure:** After contact, the body holds what the mind files away. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.",
+      "new": "**After departure:** Sorrow, near-universally, and consistently reported as somebody else's. The worker can recite their name, posting and history accurately throughout — and the second sentence on their sheet is seven words shorter than the first."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-O-Iα-126_Anonym_녹아내린_조각.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.026  clean   584 grams  Combat Record\n 0.025  clean   163 grams  최종 관찰 (Final Observation)\n 0.010  clean   194 grams  Operational Parameters\n 0.010  clean   606 grams  감각 묘사 (Flavor Text)\n 0.005  clean   874 grams  Border Record\n 0.002  clean   934 grams  M.A.W. Equipment\n 0.002  clean   488 grams  이야기 보고 (Story Log)\n 0.000  clean   423 grams  이야기 (Narratio)\n 0.000  clean   391 grams  기록 (Registrum)\n 0.000  clean   324 grams  Appearance\n 0.000  clean   286 grams  관찰 기록 (Observation Log)\n 0.000  clean   243 grams  Origin\n 0.000  clean   239 grams  Breach Behavior\n 0.000  clean   227 grams  Behavior\n 0.000  clean   163 grams  Trivia\n 0.000  clean    45 grams  증언 (Testimonium)\n 0.000  clean    34 grams  SECC Classification\n 0.000  clean    29 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |\n   54   1  | **Resistance** | 15% against Void pressure; 5% against other pressure types |\n   81   2  | { *The Run* [**Debuff**] } | \"Something drips — and you realize with horror that it is you.\" | [The target begins to lose cohesi\n   83   4  | { *The Dissolve* [**Attack**] } | \"The melting accelerates — and everything you were comes apart at once.\" | [The edges of whoev\n   84   8  | { *The Puddle* [**Ultimate**] } | \"The floor stays dry. What goes is the room's grip on its own roster: two people on the same s\n  198   1  **Appearance:** a veil of Void Han-gossamer, near-translucent and all but colourless, that lies close to the wearer's outline and \n  246   1  | **Before use** | Wielder, piece, and a dated baseline the observer writes and keeps: the bearer's own name spoken back to them, \n  288   1  Management: use names and present anchors, and do not force a fixed identity. The two instructions pull against each other and per\n  296   1  > Two ways to close a watch at the counter, and the run of cases in the file separates them: one leaves everybody in the room with\n  298   3  | Use names aloud and keep the present-tense anchors running — the counter, the hour, the person in front of you — and impose no f\n  319   4  Three holdings are kept within reach of the border post — Faceless Glass, The Empty Mask and The Forgotten Name — and none of the \n  328   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  404   4  The Zone E clerks asked, in Year 4225, for one thing, and it is the smallest request in any of these files: that where a note is s\nGENERIC 0.006  (34 shared shingles)  SE-O-Iα-126_Anonym_녹아내린_조각.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-A__SIDE_CODEX_Anonym.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-B__MAW-W_The_Melting_Lens.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-C__MAW-S_The_Melting_Veil.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-D__MAW-G_The_Melting_Reflection.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-A__SIDE_CODEX_Anonym.md": "bb9a9b1b3d08039a47ed5badf5c6b4dddb10e00ff6cca6c15dea60e4a2bcc9a5",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-B__MAW-W_The_Melting_Lens.md": "52fd7d7f02d046fa9ee170b4515517b0175b19bc1aa3872666f6e3ab4a28fb2f",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-C__MAW-S_The_Melting_Veil.md": "32f7e7469a7e6fdbcb388f62967168955d1ddee046cfdc4fa53767303ee84c3e",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-D__MAW-G_The_Melting_Reflection.md": "d9ae144dc1d125fb74cd89690af42b88444487818f76967e351db3fa8caf3343",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-O-Iα-126_Anonym_녹아내린_조각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-126_Anonym_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%A1%B0%EA%B0%81.md \"SE-O-Iα-126_Anonym_녹아내린_조각.md\")]",
+  "table_link": "[Anonym](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-126_Anonym_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%A1%B0%EA%B0%81.md \"SE-O-Iα-126_Anonym_녹아내린_조각.md\")",
+  "reading": {
+    "before_lines": 435,
+    "before_bytes": 50103,
+    "final_lines": 435,
+    "final_bytes": 51132
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 44,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": "Sole digit change: the template Speed figure 0.95 m/s is removed from a Subject that occupies no space; the record's non-spatial movement is stated instead. No other figure, date, score or count was altered."
+  }
+}

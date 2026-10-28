@@ -1,6 +1,8 @@
 # Work In Progress
 
-## Batch 196 — OPEN, 0 / 5 (2026-10-28)
+## Batch 196 — OPEN, 1 / 5 (2026-10-28)
+
+**Unit 1 — Anonym `O-Iα-126`: HELD, +0.** Nine repairs (3 short / 6 careful; 8,247→8,411 words): a spaceless Subject stops splashing. Credit barred by the Side's 2026-10-11 title review. [Evidence](SE_APPEARANCE_REVIEWS/B196_01_ANONYM.md).
 
 Fresh ranking of 45 pending dossiers (LC_ALL=C wc -w ascending). Queue: `O-Iα-126`, `O-IIIγ-914`, `C-IIβ-245`, `C-IVδ-250`, `C-IIIγ-088`. Units 1–4 run in this prompt (reviews 7–10); Unit 5 + closure next prompt.
 
