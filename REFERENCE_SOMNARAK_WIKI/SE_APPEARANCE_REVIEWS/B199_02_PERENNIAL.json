@@ -1,0 +1,173 @@
+{
+  "designation": "N-IIβ-845",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-845_Perennial_돌아온_꽃.md",
+  "words": 8509,
+  "sha256": "794197092ee012e2341841a893680dde802124bedff38bec9bce7d8324893e27",
+  "unit": 2,
+  "name": "Perennial",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_02_PERENNIAL.md",
+  "before_words": 8509,
+  "after_words": 8692,
+  "base": "846a1f700527fe6b4c451be107dd814319b0c577",
+  "final_sha256": "a979743b2bf6ba638fd0763a2fd08196f5b3c548150f17f4a7e8385bddd734a8",
+  "summary": "Eleven source-supported repairs (3 short / 8 careful): Perennial stops regrowing before the blade leaves the stem, generating gravity, aiming stone-weight petals, avalanching every flower ever cut and crushing the world with infinite growth. Its actions now follow the file's days-long clearance arithmetic and layered ground. The mobile patch is no longer a fixed object, Place-Void is consistent, breach spores settle rather than infest, and open-site breach pressure no longer buckles imaginary floors and walls. HELD; no credit because the primary already integrates the full Witnessed Form set, binding/corrosion rules and Field Use Record.",
+  "commentary": "Perennial's best sentence is its petty officer's rule: a neat sheet is a warning. The old combat rows were too eager to make the patch spectacular. It does not need gravity wells or petal artillery; it only needs a competent crew to tidy the site once, then come back next week and find their competence standing in flower.",
+  "reasoning": "R-34 audit before editing. Identity is direct SE-845: A–D carry Source SECC `N-IIβ-845 [WP]`, set 4/4 and item codes `MAW-W/S/G-845-01`. Supported core: Echo II/Moderate β, Weight, Desolate-mobile, Gauge 361, start 35–50%, Pressure 8–20, Observation 2; a settlement founded, abandoned, rebuilt and abandoned again left layers of grief in ground; trigger is a person returning to a place they abandoned; Viderehan Stable/Ferrehan Decrease; resolution is to acknowledge history without claiming the place unchanged. The primary's local whole design adds dark walking flowers, four soil occupation layers, singing that stops on stepping onto soil, and a precise clearance log (9 days/+11, 6 days/+14, fortnight/+19). Each Combat Action was audited against movement, Work, Expansion, Breach, Consequences and Flavor: instant regrowth contradicted the days-long log; gravitational pull had no actor; an aimed petal directly contradicted 'Nothing is aimed and nothing pursues'; all historical flowers at once and infinite crushing growth contradicted slow old-path expansion and no injury to crews who leave it standing. Core Speed called the mobile Subject a fixed object, Detailed Activation renamed Place-Void as Place-Weight, and Breach imported infesting spores plus buckling floors/walls into an open surveyed site. Exact B/C/D 'Appearance' sections are functional testimonial records, not physical item descriptions, so the primary's local Maul/Mantle/Petal physical forms were retained rather than replaced. Every table block passed parsed cell-count equality before and after; all Trigger text remains in the fifth Combat Action cell.",
+  "history": "Draft/local history: four occupation layers in a 1.5-metre soil core; land records preserve foundings but no departures and stop mid-survey in the fourth occupation; three facility clearances produced the 9/+11, 6/+14 and fortnight/+19 returns, after which no clearance was authorised and untouched seasons returned only 1–2 points. Fresh equipment credit BARRED. Before repair, the primary already contained all three Returning pieces with exact statistics/costs, a full *Perennial — Witnessed Form / Source Kept Distinct* disposition, testimonial binding, corrosion stages, maintenance/shutdown and a four-stage Field Use Record. Ledger `equipment_reviews` has no `N-IIβ-845` entry and none is appended; Types and Weapon remain 286/301 and 284/287.",
+  "holds": [
+    "Taxonomy/breach semantics remain hybrid: SECC and Side A file a Subject that can breach with mobile growth, while Work, Entity role and most operations use the Object/Place rule and deny an ordinary breach counter even though a Breach Behavior section exists. The review distinguished the labels but did not choose a new taxonomy. Held.",
+    "SE-845-B/C/D contain functional 'Appearance' sections but no independently physical Maul/Mantle/Petal descriptions. The squared maul head, long belted mantle and veined petal-tile are primary-local appearance records retained without corroboration. Held.",
+    "Walking stem-legs, mouth-like petals, faint singing, spores and the four-layer soil core are richly supported inside the primary but only thinly in Side A (mobile growth and layered abandonment). They remain the local design, not exact-set facts. Held.",
+    "Side A's formation sentence gives one founded/abandoned/rebuilt/abandoned sequence; the primary expands it into four generations and four occupation layers. No source reconciles whether the Side sentence compresses all four or records only the last cycle. Held.",
+    "Story Entry 5 calls the file's designation 'Critical' although the governing potency is Moderate β; no source defines a separate Critical axis here. Left as local archive language. Held.",
+    "Combat bracket values remain catalogue consequences (10; 10; 14–22; 24–36; 12–20 AoE ×3) against core Han Pressure 8–20 and were not rescaled. Held."
+  ],
+  "split": [
+    3,
+    8
+  ],
+  "repairs": [
+    {
+      "id": "R1-the-stubborn-bloom",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Stubborn Bloom* [**Debuff**] } | \"You cut the flower — and it grows back before the blade is away from the stem. Heavier this time.\" | [The Flower's relentless return weighs on the target; they feel the futility of effort.] | *Target suffers -10 Resolve; nothing they do will last.* **[10 Weight DMG [Weight]]** | When the target cuts the Flower. |",
+      "new": "| { *The Stubborn Bloom* [**Debuff**] } | \"You cut the flower. By the next survey it is standing again on the same ground — heavier this time.\" | [Removal becomes another departure layer; the return, not an instant regrowth, weighs on whoever ordered the cut.] | *Target suffers -10 Resolve under the added Weight of a clearance that did not last.* **[10 Weight DMG [Weight]]** | After the patch is cut or crushed and the site is revisited. |"
+    },
+    {
+      "id": "R2-the-compounding-weight",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Compounding Weight* [**Debuff**] } | \"Each return adds mass — the flower heavier, denser — and the ground beneath it is sinking.\" | [The Flower's accumulated returns create gravitational pull.] | *Target loses 10 Resolve; the repeated growth is generating real weight.* **[10 Weight DMG [Weight]]** | When the target lingers. |",
+      "new": "| { *The Compounding Weight* [**Debuff**] } | \"Each return adds a layer — hearth ash, floor stone, drainage cut, then nothing — and the ground takes your weight through all of them.\" | [No pull is generated; the soil itself feels heavier underfoot where four occupations ended.] | *Target loses 10 Resolve beneath accumulated karmic Weight while standing on the layered ground.* **[10 Weight DMG [Weight]]** | While the target remains standing on the patch's ground. |"
+    },
+    {
+      "id": "R3-the-layer-underfoot",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Heavy Petal* [**Attack**] } | \"A petal falls — and it weighs more than a stone, aimed at your head.\" | [ A weighted petal drops with impossible mass.] | *Inflicts Weight pressure and one crushing, botanical impact.* **[14-22 Weight DMG [Weight]]** | When the Flower is shaken. |",
+      "new": "| { *The Layer Underfoot* [**Attack**] } | \"Nothing falls and nothing is aimed. The step you disturbed lands through ash, stone and every departure under them.\" | [Disturbance makes the layered ground report itself at once through the target's stance and Han.] | *Inflicts crushing Weight pressure to sorrow reserves and karmic debt; no petal strikes the target.* **[14-22 Weight DMG [Weight]]** | When the patch or its ground is shaken or disturbed. |"
+    },
+    {
+      "id": "R4-the-full-bloom",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Full Bloom* [**Attack**] } | \"Every flower that was ever cut returns at once — a mountain of heavy, persistent growth.\" | [The Flower's complete return is a botanical avalanche, and the mass is the soil's: each regrowth weighs what the layer beneath it weighs.] | *A heavy Black overgrowth; the target's Sorrow Gauge surges 15%. The 361 HP line is untouched — nothing has been done to the patch that the ground has not already absorbed four times.* **[24-36 Weight DMG [Weight]]** | When the patch is uprooted or lifted, which are the two heaviest clearance figures on record. |",
+      "new": "| { *The Full Bloom* [**Attack**] } | \"Not every flower ever cut, and not at once: within days the clearance line closes, and the patch is standing where the ground remembers it.\" | [Regrowth follows the occupation layers rather than falling as an avalanche; its mass is the soil's accumulated departures.] | *Heavy Weight pressure; the target's Sorrow Gauge surges 15%. The 361 HP line is untouched — removal has added a layer, not damaged the place that holds the patch.* **[24-36 Weight DMG [Weight]]** | When the patch is uprooted or lifted. |"
+    },
+    {
+      "id": "R5-the-fourth-return",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Eternal Garden* [**Ultimate**] } | \"Every flower in the field returns — and keeps returning — until the weight of infinite growth crushes everything.\" | [The Flower extends its returns across the whole area, and the extension follows the occupation layers rather than the ground surface.] | *All in range suffer Weight pressure for three turns of relentless growth. The three heaviest readings on record all follow removals — full clearance up eleven points and regrown in nine days, burn up fourteen and relocated eleven metres toward the old hearth line, transport off site up nineteen and back inside a fortnight, crate found empty and undamaged.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the reading passes the 60% activation mark and the site has been tidied since the last survey. |",
+      "new": "| { *The Fourth Return* [**Ultimate**] } | \"The growth is not infinite and it does not crush the field. It comes back along old paths, as it came back for every settlement that thought leaving ended the account.\" | [Returns extend across the surveyed area through occupation layers and old routes, modelled over three turns rather than as a single eruption.] | *All in range suffer Weight pressure for three turns of repeated return. The three heaviest readings on record all follow removals — full clearance up eleven points and regrown in nine days, burn up fourteen and relocated eleven metres toward the old hearth line, transport off site up nineteen and back inside a fortnight, crate found empty and undamaged.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the reading passes the 60% activation mark and the site has been tidied since the last survey. |"
+    },
+    {
+      "id": "R6-mobile-speed",
+      "kind": "short stat correction",
+      "careful": false,
+      "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+      "new": "| **Speed** | Mobile patch on thin stem-legs; not a pursuit rating — movement is reoccupation measured against survey pins. |"
+    },
+    {
+      "id": "R7-place-void-manifestation",
+      "kind": "short classification correction",
+      "careful": false,
+      "old": "| **Manifestation** | Place-Weight|",
+      "new": "| **Manifestation** | Place-Void |"
+    },
+    {
+      "id": "R8-breach-spores",
+      "kind": "careful breach correction",
+      "careful": true,
+      "old": "> *\"Perennial has broken free. Releases spores that infest personnel.\"*",
+      "new": "> *\"Perennial has broken free. It is walking back along old paths; spores settle along its route.\"*"
+    },
+    {
+      "id": "R9-breach-ground-effect",
+      "kind": "careful breach correction",
+      "careful": true,
+      "old": "| **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |",
+      "new": "| **Effect** | The ground takes weight unevenly underfoot and every step becomes effort; no buckling floor or bowing wall is recorded at the open site. |"
+    },
+    {
+      "id": "R10-registrum-observations",
+      "kind": "careful registry correction",
+      "careful": true,
+      "old": "**Observation Notes:**\n- See Origin section for formation details.\n- See Combat Record for engagement parameters.\n**Cross-References:** See entity’s interaction record and cross-references in the full file.",
+      "new": "**Observation Notes:**\n- Faint singing may precede sight of the patch and stops when anyone steps onto the soil; position against the last survey pin is the primary reading.\n- Removal is followed by return: nine days and +11 after full clearance, six days and +14 after burning, and back inside a fortnight at +19 after transport off site.\n- No injury is recorded against a crew that left the patch standing; an untouched site gives back only 1–2 points per season.\n**Cross-References:** The one-and-a-half-metre soil core; the three-entry clearance log; interaction records for the Sorrow Flower, Drift Fog and Lost Prince."
+    },
+    {
+      "id": "R11-subject-object-place-taxonomy",
+      "kind": "short classification correction",
+      "careful": false,
+      "old": "- **Classification detail:** Perennial is an Object/Place with Echo (II) coherence and Moderate (β) potency.",
+      "new": "- **Classification detail:** Perennial is filed as a Subject by entity type and worked under the Object/Place rule operationally, with Echo (II) coherence and Moderate (β) potency."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-N-IIβ-845_Perennial_돌아온_꽃.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.018  clean   329 grams  Appearance\n 0.015  clean  1040 grams  M.A.W. Equipment\n 0.015  clean   196 grams  Trivia\n 0.008  clean   500 grams  관찰 기록 (Observation Log)\n 0.006  clean   493 grams  기록 (Registrum)\n 0.005  clean   192 grams  Operational Parameters\n 0.004  clean   831 grams  Combat Record\n 0.002  clean   932 grams  감각 묘사 (Flavor Text)\n 0.000  clean   349 grams  이야기 (Narratio)\n 0.000  clean   331 grams  이야기 보고 (Story Log)\n 0.000  clean   321 grams  Expansion Behavior\n 0.000  clean   227 grams  Origin\n 0.000  clean   209 grams  Watch Record\n 0.000  clean   176 grams  Behavior\n 0.000  clean   122 grams  Breach Behavior\n 0.000  clean   100 grams  최종 관찰 (Final Observation)\n 0.000  clean    48 grams  증언 (Testimonium)\n 0.000  clean    31 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   42   1  - Viderehan and Ferrehan are the only valid approaches despite its mobility; the bloom has no mind to engage or to confront.\n   85   3  | { *The Fourth Return* [**Ultimate**] } | \"The growth is not infinite and it does not crush the field. It comes back along old pa\n  122   6  | **Identification** | Verify these observations against the SECC code before work or contact begins; on this record the ground is\n  206   5  **Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that hums faintly when gripped. The head\n  227   3  **Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element and hangs \n  245   1  **Appearance:** a petal-tile of Weight Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its siz\n  271   1  | **Before use** | Wielder, piece, gauge at issue, and the site's occupancy count from the file — the pieces press hardest on anyo\n  273   3  | **At limit** | The cost is continuous rather than occasional: the wearer carries a constant low fatigue, and stops reporting it \n  276   4  **Stat interpretation:** Field performance and human cost are separate axes and diverge sharply here. The maul performs and the ma\n  298   4  **Observation method:** Record the first sign, which is the singing before the patch is in view; the first sensation, which is the\n  350   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  407   3  **Review requirement:** Re-verify after any Sorrow Tide, after any survey of the Desolate interior, and after any clearance of veg\n  438   3  - **Record detail:** Check the designation before approach. More than one Desolate record is a flowering form, and they differ on \nGENERIC 0.006  (39 shared shingles)  SE-N-IIβ-845_Perennial_돌아온_꽃.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-A__SIDE_CODEX_Perennial.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-B__MAW-W_The_Returning_Maul.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-C__MAW-S_The_Returning_Mantle.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-D__MAW-G_The_Returning_Petal.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-A__SIDE_CODEX_Perennial.md": "fe731d5dd5292311a83caaf669e0999ccc27d17803b74156d823912af4128db2",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-B__MAW-W_The_Returning_Maul.md": "a3c7e5adab7acbee14bf2b2f69327145983a48f3a1cd97c815811ad3361f414c",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-C__MAW-S_The_Returning_Mantle.md": "a6d10746af8ece35688df520948f93b1e1b322cdb63d549dfb65bebbcfe1b563",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-D__MAW-G_The_Returning_Petal.md": "8fe7ad0548d1f7db69b13b6f944ddbea4a95c64bdbd54f8683cc9660713a1aff"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-N-IIβ-845_Perennial_돌아온_꽃](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-845_Perennial_%EB%8F%8C%EC%95%84%EC%98%A8_%EA%BD%83.md \"SE-N-IIβ-845_Perennial_돌아온_꽃.md\")]",
+  "table_link": "[[N-IIβ-845 Perennial](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-845_Perennial_%EB%8F%8C%EC%95%84%EC%98%A8_%EA%BD%83.md \"SE-N-IIβ-845_Perennial_돌아온_꽃.md\")]",
+  "reading": {
+    "before_lines": 444,
+    "before_bytes": 51235,
+    "final_lines": 445,
+    "final_bytes": 52265
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 28,
+    "physical_form_rows_unchanged": 300,
+    "tale_unchanged": true,
+    "digit_sequence_change": "Existing clearance figures were repeated in Registrum (9/+11, 6/+14, +19 and 1–2 per season) when generic pointers were replaced; no new statistic was introduced.",
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 4
+  }
+}

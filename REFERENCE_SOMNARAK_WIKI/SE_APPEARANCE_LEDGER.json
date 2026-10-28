@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IIβ-845": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_02_PERENNIAL.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -5237,8 +5249,23 @@
     {
       "designation": "N-IIβ-845",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-845_Perennial_돌아온_꽃.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Eleven source-supported repairs (3 short / 8 careful): Perennial stops regrowing before the blade leaves the stem, generating gravity, aiming stone-weight petals, avalanching every flower ever cut and crushing the world with infinite growth. Its actions now follow the file's days-long clearance arithmetic and layered ground. The mobile patch is no longer a fixed object, Place-Void is consistent, breach spores settle rather than infest, and open-site breach pressure no longer buckles imaginary floors and walls. HELD; no credit because the primary already integrates the full Witnessed Form set, binding/corrosion rules and Field Use Record.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_02_PERENNIAL.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-A__SIDE_CODEX_Perennial.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-B__MAW-W_The_Returning_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-C__MAW-S_The_Returning_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/845_Perennial/SE-845-D__MAW-G_The_Returning_Petal.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIβ-903",

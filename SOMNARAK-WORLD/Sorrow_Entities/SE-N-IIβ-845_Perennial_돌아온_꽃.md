@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | Mobile patch on thin stem-legs; not a pursuit rating — movement is reoccupation measured against survey pins. |
 | **Resistance** | 25% against Weight pressure and 15% against everything else. The figures follow the ground rather than the plant: what the survey is measuring is a stratum of accumulated departure, and a ground that has already taken four occupations is not much moved by a fifth thing pressing on it. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 361/361 |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Stubborn Bloom* [**Debuff**] } | "You cut the flower — and it grows back before the blade is away from the stem. Heavier this time." | [The Flower's relentless return weighs on the target; they feel the futility of effort.] | *Target suffers -10 Resolve; nothing they do will last.* **[10 Weight DMG [Weight]]** | When the target cuts the Flower. |
-| { *The Compounding Weight* [**Debuff**] } | "Each return adds mass — the flower heavier, denser — and the ground beneath it is sinking." | [The Flower's accumulated returns create gravitational pull.] | *Target loses 10 Resolve; the repeated growth is generating real weight.* **[10 Weight DMG [Weight]]** | When the target lingers. |
-| { *The Heavy Petal* [**Attack**] } | "A petal falls — and it weighs more than a stone, aimed at your head." | [ A weighted petal drops with impossible mass.] | *Inflicts Weight pressure and one crushing, botanical impact.* **[14-22 Weight DMG [Weight]]** | When the Flower is shaken. |
-| { *The Full Bloom* [**Attack**] } | "Every flower that was ever cut returns at once — a mountain of heavy, persistent growth." | [The Flower's complete return is a botanical avalanche, and the mass is the soil's: each regrowth weighs what the layer beneath it weighs.] | *A heavy Black overgrowth; the target's Sorrow Gauge surges 15%. The 361 HP line is untouched — nothing has been done to the patch that the ground has not already absorbed four times.* **[24-36 Weight DMG [Weight]]** | When the patch is uprooted or lifted, which are the two heaviest clearance figures on record. |
-| { *The Eternal Garden* [**Ultimate**] } | "Every flower in the field returns — and keeps returning — until the weight of infinite growth crushes everything." | [The Flower extends its returns across the whole area, and the extension follows the occupation layers rather than the ground surface.] | *All in range suffer Weight pressure for three turns of relentless growth. The three heaviest readings on record all follow removals — full clearance up eleven points and regrown in nine days, burn up fourteen and relocated eleven metres toward the old hearth line, transport off site up nineteen and back inside a fortnight, crate found empty and undamaged.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the reading passes the 60% activation mark and the site has been tidied since the last survey. |
+| { *The Stubborn Bloom* [**Debuff**] } | "You cut the flower. By the next survey it is standing again on the same ground — heavier this time." | [Removal becomes another departure layer; the return, not an instant regrowth, weighs on whoever ordered the cut.] | *Target suffers -10 Resolve under the added Weight of a clearance that did not last.* **[10 Weight DMG [Weight]]** | After the patch is cut or crushed and the site is revisited. |
+| { *The Compounding Weight* [**Debuff**] } | "Each return adds a layer — hearth ash, floor stone, drainage cut, then nothing — and the ground takes your weight through all of them." | [No pull is generated; the soil itself feels heavier underfoot where four occupations ended.] | *Target loses 10 Resolve beneath accumulated karmic Weight while standing on the layered ground.* **[10 Weight DMG [Weight]]** | While the target remains standing on the patch's ground. |
+| { *The Layer Underfoot* [**Attack**] } | "Nothing falls and nothing is aimed. The step you disturbed lands through ash, stone and every departure under them." | [Disturbance makes the layered ground report itself at once through the target's stance and Han.] | *Inflicts crushing Weight pressure to sorrow reserves and karmic debt; no petal strikes the target.* **[14-22 Weight DMG [Weight]]** | When the patch or its ground is shaken or disturbed. |
+| { *The Full Bloom* [**Attack**] } | "Not every flower ever cut, and not at once: within days the clearance line closes, and the patch is standing where the ground remembers it." | [Regrowth follows the occupation layers rather than falling as an avalanche; its mass is the soil's accumulated departures.] | *Heavy Weight pressure; the target's Sorrow Gauge surges 15%. The 361 HP line is untouched — removal has added a layer, not damaged the place that holds the patch.* **[24-36 Weight DMG [Weight]]** | When the patch is uprooted or lifted. |
+| { *The Fourth Return* [**Ultimate**] } | "The growth is not infinite and it does not crush the field. It comes back along old paths, as it came back for every settlement that thought leaving ended the account." | [Returns extend across the surveyed area through occupation layers and old routes, modelled over three turns rather than as a single eruption.] | *All in range suffer Weight pressure for three turns of repeated return. The three heaviest readings on record all follow removals — full clearance up eleven points and regrown in nine days, burn up fourteen and relocated eleven metres toward the old hearth line, transport off site up nineteen and back inside a fortnight, crate found empty and undamaged.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the reading passes the 60% activation mark and the site has been tidied since the last survey. |
 
 ### Battle Phases
 
@@ -169,7 +169,7 @@ The escalation here is not driven by the entity and not driven by time; it is dr
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | A person returning to a place they abandoned. |
-| **Manifestation** | Place-Weight|
+| **Manifestation** | Place-Void |
 | **Primary effect** | Travelers feel the weight of previous choices and returns. |
 | **Duration / rate** | Slow; new flowers appear along old paths. |
 | **Risk** | Moderate (β). The patch injures nobody who leaves it standing, and the 8–20 Weight pressure is the least important figure on this sheet. The hazard is the facility's own habit: told that a site is contained, personnel tidy it, and the file's clearance log is the measurement of that impulse written as three rising readings — nine days and eleven points, six days and fourteen, a fortnight and nineteen. |
@@ -178,13 +178,13 @@ The escalation here is not driven by the entity and not driven by time; it is dr
 **Activation reporting order:** what was done to the ground → the patch's position before and after → the distance it returned across → the layers visible in the exposed soil → the figure. The first field is placed first because in every logged activation it is an action taken by personnel, not an event the entity initiated.
 ## Breach Behavior
 
-> *"Perennial has broken free. Releases spores that infest personnel."*
+> *"Perennial has broken free. It is walking back along old paths; spores settle along its route."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | The patch walks out on its stem-legs and heads for ground it was previously removed from. Spores are released along the route and settle on whoever is in it; nobody is sought out. |
-| **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
+| **Effect** | The ground takes weight unevenly underfoot and every step becomes effort; no buckling floor or bowing wall is recorded at the open site. |
 | **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
 | **First Target** | Whoever is standing on the ground it is returning to. |
 | **Escalation** | Drain rises by 5 for each clearance attempted while it is free, and does not rise at all for time spent letting it reoccupy the site. |
@@ -393,9 +393,10 @@ Some sorrows mourn a home. Perennial mourns the pattern — the settlement found
 - Nothing is sealed. The patch's influence is in the soil, which continues past any boundary drawn on the surface, and the containment reading is taken from the site history rather than from the perimeter.
 - Nothing is removed from the site, including vegetation cleared for unrelated reasons. The standing order on this ground is that it is marked abandoned and left as found, and any clearance carried out on the site is entered against this file whether or not it touched the patch.
 **Observation Notes:**
-- See Origin section for formation details.
-- See Combat Record for engagement parameters.
-**Cross-References:** See entity’s interaction record and cross-references in the full file.
+- Faint singing may precede sight of the patch and stops when anyone steps onto the soil; position against the last survey pin is the primary reading.
+- Removal is followed by return: nine days and +11 after full clearance, six days and +14 after burning, and back inside a fortnight at +19 after transport off site.
+- No injury is recorded against a crew that left the patch standing; an untouched site gives back only 1–2 points per season.
+**Cross-References:** The one-and-a-half-metre soil core; the three-entry clearance log; interaction records for the Sorrow Flower, Drift Fog and Lost Prince.
 **Faction Involvement:** SED, whose Desolate survey carries all four foundings of the settlement and none of its departures.
 **Originator:** The settlement itself, across four occupations; no individual originator is recoverable and the file does not propose one.
 
@@ -431,7 +432,7 @@ A settlement was established and left and established again, each return adding 
 
 ### Registry Trivia
 
-- **Classification detail:** Perennial is an Object/Place with Echo (II) coherence and Moderate (β) potency.
+- **Classification detail:** Perennial is filed as a Subject by entity type and worked under the Object/Place rule operationally, with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Weight is the element and The Desolate the registered location, with the position itself logged against survey pins because the patch walks. The figures this file treats as authoritative are the 60% activation mark, the 361/361 gauge line that no incident has moved, the 8–20 pressure band, the 12–18 yield taken at regrowth, the 5% release probability of the petal, the 9 days / 11 points, 6 days / 14 points and fortnight / 19 points of the clearance log, and the 1–2 points a season that an untouched site gives back.
 - **Recognition detail:** Identify it by the return. Several walking growths are catalogued in the Desolate; this is the one that comes back to the same ground after removal, and the ground is the part that identifies it.
 - **Record detail:** Check the designation before approach. More than one Desolate record is a flowering form, and they differ on the decisive point — this one must not be tidied.
