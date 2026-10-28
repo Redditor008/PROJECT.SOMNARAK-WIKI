@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Vω-925": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_05_SORROW_MASS.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -4162,8 +4174,23 @@
     {
       "designation": "C-Vω-925",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-925_Sorrow_Mass_압살의_한.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Eight repairs (5 short / 3 careful) in an unusually strong Sovereign file. The first three Combat Actions were retained because they already encode the foundation→stairwell→living-floor sequence, instrument-first detection and upheld false-positive evacuations; only the first row's area scope was made explicit. The Ultimate no longer discharges the whole district at 65%: it is the uncleared third stage reaching structural failure. Breach text now rises by storey rather than turn and forbids the physical suppression the rest of the file says has never existed; registry status no longer says Contained and UNCONTAINED in one breath. HELD; no credit because the primary already integrates the Edge, Veil, Token, structural Use Notes and gauge-round Field Use Record.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_05_SORROW_MASS.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-A__SIDE_CODEX_Sorrow_Mass.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-B__MAW-W_Sorrow_Mass_s_Edge.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-C__MAW-S_Sorrow_Mass_s_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/925_Sorrow_Mass/SE-925-D__MAW-G_Sorrow_Mass_s_Token.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIIβ-077",
