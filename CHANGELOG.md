@@ -8,8 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Batch 196 — OPEN, 5 / 5 (2026-10-28)
-**Unit 5 — The Sorrow Fountain `C-IIIγ-088`: HELD, +0.** Twenty-six repairs (3 short / 23 careful; 8,301→8,592 words): the mist calms instead of stabilizing gauges by a percentage; work is from the rim. Direct SE-088. Credit barred by the in-file 2026-10-11 review. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_05_THE_SORROW_FOUNTAIN.md). Closure battery follows.
+## Batch 196 — CLOSED, 5 / 5 (2026-10-28)
+Five HELD units, No change 0, 63 repairs (16 short / 47 careful), 41,314→42,230 words, no fresh credit — every dossier carried a prior written disposition. Battery PASS: fresh validators 25/25, reconstruction 5/5, fingerprints 40/40, tests 54/54, audits PASS, zero source changes. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_CLOSE.md).
 
 ## Batch 189 — CLOSED, 5 / 5 (2026-10-27)
 

@@ -1,7 +1,7 @@
 # Work In Progress
 
-## Batch 196 — OPEN, 5 / 5 (2026-10-28)
-Unit 5 — **The Sorrow Fountain `C-IIIγ-088`: HELD; credit-barred, +0.** 26 repairs (3s/23c; 8,301→8,592 words). [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_05_THE_SORROW_FOUNTAIN.md). Closure battery next.
+## Batch 196 — CLOSED, 5 / 5 (2026-10-28)
+All five HELD, No change 0, 63 repairs (16s/47c), no fresh credit (all barred by prior dispositions). Battery: 25/25 validators, 5/5 reconstruction, 40/40 fingerprints, audits PASS. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_CLOSE.md).
 
 **Unit 3 — Midnight Choir `C-IIβ-245`: HELD, +0.** Three repairs (2 short / 1 careful; 8,256→8,316 words): last template sentences in a near-clean file. Credit barred by item-integrating primary paragraphs. [Evidence](SE_APPEARANCE_REVIEWS/B196_03_MIDNIGHT_CHOIR.md).
 
