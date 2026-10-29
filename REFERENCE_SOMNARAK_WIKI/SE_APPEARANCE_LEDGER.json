@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IIα-215": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_05_FORGOTTEN_NAME.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -4913,8 +4925,23 @@
     {
       "designation": "N-IIα-215",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIα-215_Forgotten_Name_잊혀진_이름.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Twenty-one repairs (7 short / 14 careful). Forgotten Name no longer carries an undefined threshold 4, a copied 40%/+10% event model, a 65% Ultimate, a Gauge rise inferred from slate divergence, or leftover instructions to speak the name in Battle Resolution and Final Observation. Its rows now trigger from first failed name retrieval, extension to face/voice, speech in the area, divergence above twenty, and Gauge ≥45%. Exact Name Veil witness-thread and Name Thread filament appearances were restored, silent set roles were stated, and the Tale now says the file was lawfully destroyed rather than simply lost. HELD; no credit because the primary already contains the complete α set/statistics/costs/Field Use Record and a dated 2026-10-13 full-set source review.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_05_FORGOTTEN_NAME.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-215-A__SIDE_CODEX_Name_No_One_Remembers.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-215-B__MAW-W_The_Name_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-215-C__MAW-S_The_Name_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-215-D__MAW-G_The_Name_Thread.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIα-285",
