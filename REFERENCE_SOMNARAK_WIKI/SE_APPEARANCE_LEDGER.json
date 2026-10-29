@@ -18,7 +18,7 @@
   },
   "active_batch": {
     "number": 201,
-    "status": "OPEN",
+    "status": "CLOSED",
     "required": 5,
     "queue": [
       "N-IIβ-456",
@@ -9554,6 +9554,14 @@
       "required": 5,
       "no_change": 0,
       "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_CLOSE.md"
+    },
+    {
+      "batch": 201,
+      "status": "CLOSED",
+      "reviewed": 5,
+      "required": 5,
+      "no_change": 0,
+      "closure": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_CLOSE.md"
     }
   ],
   "equipment_reviews": [
