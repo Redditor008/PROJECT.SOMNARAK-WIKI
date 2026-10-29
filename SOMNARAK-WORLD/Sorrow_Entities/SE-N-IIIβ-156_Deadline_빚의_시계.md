@@ -27,14 +27,14 @@
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Han / burden pressure |
+| **Primary pressure** | Resolve — taking the figure and leaving the room without working out whose date it is |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
+| **Vessel-Destructible** | No — never dismantled, wound, repaired or moved; striking and smashing are prohibited and the original O-Relic remains intact |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Viderehan and Ferrehan only; two readers, separate figures, never reconciled; contact ended at two minutes; no winding, no repair, no asking whose date it is; the quarter's time-bar list read in the room before the watch begins. The valid Work Types carry the cycle; the condition decides it. |
 
 ### Operational Notes
@@ -82,14 +82,14 @@
 | { *Your Own Reading* [**Debuff**] } | "You read fifty-eight days. The man beside you reads nine. Neither of you is wrong and neither of you is allowed to ask." | [The face resolves separately for each observer.] | *Resolve -10; the reading is entered with the reader's name or struck through.* **[10 Weight DMG [Weight]]** | On first sight of the face. |
 | { *Acceleration* [**Debuff**] } | "A new obligation anywhere on the Row and the hands take it up within the hour. The log is an unintended record of borrowing and the facility does not share it." | [The rate increases as obligations are incurred nearby.] | *Resolve -10; the watch is extended and a second reader is called.* **[10 Weight DMG [Weight]]** | When the rate changes mid-watch. |
 | { *The Prohibited Repair* [**Attack**] } | "Struck once, in Year 4226. The glass broke, the hands did not pause, and the interval that watch read four days. His account runs to two pages and never says what he expected." | [The face is broken; the mechanism is unaffected.] | *Heavy Weight pressure and one laceration; the interval collapses for the watch.* **[14-22 Weight DMG [Weight]]** | If the clock is struck or wound, both prohibited. |
-| { *Zero* [**Attack**] } | "Year 4231. Every reader in the building took the same figure for the first and only time, and the figure was nought. It was the quarter we extinguished four thousand one hundred claims." | [The interval reaches zero and holds there for a full watch.] | *Heavy Weight pressure across the room; the Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | At a reading below seven days. |
-| { *Every Clock On The Row* [**Ultimate**] } | "Modelled only. No other timepiece in the district has ever been affected, and the Row has checked them at every quarter for fifteen years." | [Projected spread to adjacent timepieces.] | *Area Weight pressure over three turns, unobserved, retained as a planning figure.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | Gauge 65%, not reached. |
+| { *Zero* [**Attack**] } | "Year 4231. Every reader in the building took the same figure for the first and only time, and the figure was nought. It was the quarter we extinguished four thousand one hundred claims." | [A reading below seven days is the room's near-zero figure: the hands are running short and falling is the bad direction.] | *Heavy Weight pressure across the room. Nothing in the room is touched first: pull the quarter's time-bar list and name every extinguished entitlement with its published date, its value, the officer who applied it, and whether the holder was known to be ill, absent or bereaved.* **[24-36 Weight DMG [Weight]]** | At a reading below seven days. |
+| { *Every Clock On The Row* [**Ultimate**] } | "Modelled only. No other timepiece in the district has ever been affected, and the Row has checked them at every quarter for fifteen years." | [Projected spread to adjacent timepieces at the escalation threshold; no such spread has ever been observed.] | *Area Weight pressure over three turns, unobserved, retained as a planning figure. End contact, enter both figures unreconciled, and check the Row's other timepieces before the watch is written up.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 60% (projected; not reached on record). |
 
 ### Battle Phases
 
 1. **Tension:** The marker is checked (read the hands and log the reader. The face is unverifiable by design — two people in the same room get different figures and neither is wrong — and a reading entered without a name attached is void and is struck through rather than erased) and Deadline is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Viderehan and Ferrehan only; Ferrehan lowers the gauge and Viderehan holds it level. The reading is the interval: the number of days the hands show remaining to the duty Warden, taken at the start of watch and logged with the reader's name because the face shows a different figure to every observer. Baseline fifty-eight days. Here the reading falling is the bad direction. Floor zero, ceiling six hundred and eleven.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+3. **Resolution:** The watch closes when both readers have entered their own figures against their own names, unreconciled, contact has ended inside the posted limits, and the quarter's time-bar list has been read in the room with each extinguished entitlement named. A good watch in a short-interval quarter is written up as a good watch; the gauge measures the watch and the interval measures the registry.
 
 ### Consequences
 
@@ -148,7 +148,7 @@
 
 ### Operational Work Notes
 
-Ferrehan is primary and Viderehan is the reading instrument. Deadline is an Object/Place with Object-Weight manifestation and Weight expression at SECTOR-C-01, Collector's Row. The Registrum's entry giving it Echo (II) coherence contradicted a header reading Fragment (III) — anxious and counting — and has been corrected; the header is descriptive here rather than nominal.
+Ferrehan is primary and Viderehan is the reading instrument. Deadline is an Object/Place with Object-Weight manifestation and Weight expression at SECTOR-C-01, Collector's Row, held at Fragment (III) coherence — anxious and counting, descriptive here rather than nominal.
 
 **Reading the response:** The gauge measures one watch. The interval measures the claims registry, and on this holding alone the bad direction is downward: a long reading is a good quarter. The two columns are kept apart and have moved together exactly once, in Year 4226, when a technician broke the face. A good watch in a short-interval quarter is written up as a good watch.
 ## Activation Behavior
@@ -170,7 +170,7 @@ Ferrehan is primary and Viderehan is the reading instrument. Deadline is an Obje
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
-| **Use Mode** | **Continuous / channeled use** |
+| **Use Mode** | **Contact reading only** — no channel is held or carried away; the hand lifts, the reading is entered, and the contact ends |
 | **Activation** | Bare contact by a person with an unlodged entitlement or an outstanding obligation. |
 | **Primary Effect** | That person's next published date, counted in days and running. |
 | **Duration** | Until the hand is lifted or the obligation changes. The jump on a change is instantaneous and has no warning. |
@@ -185,7 +185,7 @@ Ferrehan is primary and Viderehan is the reading instrument. Deadline is an Obje
 |---|---|---|
 | 10 Seconds | The case warms under the hand, which it does not do for an observer standing a pace away. | The hands resolve onto the reader's own next published date and begin running. Adjacent holdings record no change of any kind. |
 | 30 Seconds | The entitlement behind the date becomes legible: what it is, when it was published, and which officer would apply it. It will not give the holder's name. | The reader writes the figure and the entitlement reference. The order forbids anybody present from asking whose date it is, and the order exists because of the first reader who was asked. |
-| 1 Minute | The rate becomes perceptible as a pressure rather than a sound, and short intervals are felt as hurry by people who have not yet seen the figure. | 4 Composure every 10 seconds past the minute. Readers on a sub-thirty-day figure are relieved at the minute without discretion. |
+| 1 Minute | The rate becomes perceptible as a pressure rather than a sound, and short intervals are felt as hurry by people who have not yet seen the figure. | Resolve pressure builds with every 10 seconds past the minute, failing as recognition. Readers on a sub-thirty-day figure are relieved at the minute without discretion. |
 | 2 Minutes | Past two minutes a reader generally works out whose date it is, and in every one of the nine recorded cases it was their own. | Contact is ended at two minutes without exception. The reading stands; the reader is stood down for the watch and the counselling wing is notified the same day. |
 
 ### Escalation Notes
@@ -198,10 +198,10 @@ Escalation here is a figure getting smaller, and nothing else. There is no visib
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Touch by someone with debt. |
+| **Trigger** | Bare contact by a person carrying an unlodged entitlement or an outstanding obligation. |
 | **Manifestation** | Object-Weight |
-| **Primary effect** | Displays the next debt deadline. |
-| **Duration / rate** | Until the debt changes or the clock is set down. |
+| **Primary effect** | The hands resolve onto that person's next published date and run to it in real time. |
+| **Duration / rate** | Until the hand is lifted deliberately or the underlying obligation changes; the clock itself is bracket-mounted and is never set down or moved. |
 | **Risk** | Moderate (β) Object-Weight producing Weight pressure; the reader may recognise the date, which has happened nine times and in every case the date was their own. |
 | **Management** | Viderehan and Ferrehan only; two readers, separate figures, never reconciled; contact ended at two minutes; no winding, no repair, no asking whose date it is; the quarter's time-bar list read in the room before the watch begins. |
 
@@ -214,7 +214,7 @@ Escalation here is a figure getting smaller, and nothing else. There is no visib
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that flickers with inner light. A cracked clock-face sits in the head above a long, black-wrapped haft. Its narrow case card carries the due date, intended action and protected rest interval; these are equipment records, not readings taken from the source clock. The inset is not wound, set or adjusted by hand.
+**Appearance:** a black Weight Han-steel maul with a cracked clock-face inset in the head above a long, black-wrapped haft; at rest the metal is cold and the inset hands stay still, indicating no ordinary time. Its narrow case card carries the due date, intended action and protected rest interval; these are equipment records, not readings taken from the source clock. The inset is not wound, set or adjusted by hand.
 
 **Damage:** Weight 5–9
 **Speed:** 2 (Normal)
@@ -225,9 +225,9 @@ Escalation here is a figure getting smaller, and nothing else. There is no visib
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
 **Falloff Rule:** Full damage to the designated target. The maul is not used on the clock. The face was struck once, in Year 4226, by a technician whose two-page account is held in the file and does not explain what he expected; the glass broke, the hands did not pause, and the interval that watch read four days.
-**Damage Application:** Direct and Tick damage multiplied separately. Weight 5–9, β grade, and the Operational Parameters field giving the M.A.W. grade as an em dash has been corrected to β against the three pieces this entity actually produces.
+**Damage Application:** Direct Weight damage only, at full value to the one designated target; there is no tick, splash or falloff component.
 
-**Ability:** Weight damage to the Han. The maul is issued for vessel work elsewhere on the Row and has never been raised in the clock room, where striking the holding is prohibited.
+**Ability:** *Before Zero* — once the external verifier confirms the due date, one support action and a protected rest interval, the maul disperses one imminent Weight surge long enough for the team to complete the next verified action. It cannot cancel a debt or move a deadline by force, and it has never been raised in the clock room, where striking the holding is prohibited.
 
 **Cost:** A heaviness that accumulates across a shift and a slight ageing that does not reverse. One wielder has been retired on it, early, on the establishment's full pension.
 
@@ -245,7 +245,7 @@ Escalation here is a figure getting smaller, and nothing else. There is no visib
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Wards Weight pressure on the Han. Required dress for any watch following a reading under thirty days, after two readers were found still standing at the face at the end of their relief.
+**Ability:** *Scheduled Pause* — while a verified plan and named support person remain active, the mantle spreads deadline Weight through its incomplete hem marks; when the support person declares the planned rest interval, it holds one deadline-induced Weight spike while the wearer steps into the pause. Required dress for any watch following a reading under thirty days, after two readers were found still standing at the face at the end of their relief.
 
 **Cost:** A constant low fatigue, about that of a long day already worked, persisting some hours after removal. It is the most tolerated cost in the Row and the clock room has never lacked volunteers.
 
@@ -259,7 +259,7 @@ Escalation here is a figure getting smaller, and nothing else. There is no visib
 **Acquisition Probability:** 5%
 **Effect:** +1 when working this entity. The watch-charm is also the only item the claims office accepts as authority to take a time-bar list out of the registry, which nobody arranged and nobody has since rescinded.
 
-**Ability:** The bearer knows, without looking anything up, when any obligation in front of them falls due. Eleven bearers; the claims office has twice asked for one to be seconded to the counter and has twice been refused, on the ground that a counter clerk who knows is a counter clerk who will start telling people, and that telling people is the rule's job and not a bearer's.
+**Ability:** *Plan Beyond It* — the watch shows no date until an external verifier is identified; then it marks one verified obligation's due point and the planned support action toward it. It cannot verify an unreviewed claim or change a due date. Eleven bearers; the claims office has twice asked for one to be seconded to the counter and has twice been refused, on the ground that a counter clerk who knows is a counter clerk who will start telling people, and that telling people is the rule's job and not a bearer's.
 
 **Cost:** The mechanism, audible in sleep, every night, for as long as the charm is held and about a month after it is given up. Nine of the eleven have kept it anyway. The counselling wing logs this one because the armoury has no column for it.
 
@@ -268,6 +268,8 @@ Escalation here is a figure getting smaller, and nothing else. There is no visib
 ### M.A.W. Use Notes
 
 The set is built around knowing when something falls due and carrying the weight of knowing it. The armoury's note records that the maul has never been used here, that the mantle is worn on figures under thirty days as a matter of order rather than choice, and that the watch-charm is the only piece in the wing whose chief cost is a sound.
+
+**Set resonance — Time With Company:** With a real deadline externally verified, one practical action planned and a rest period protected from the countdown, the full set contains an imminent Weight panic field long enough for the team to act on verified facts rather than future dread. The bearer hears the countdown in sleep until the planned action is completed or responsibly revised, and the set rejects any plan with no support person in it.
 
 ### Returning the Set, Not Stopping the Clock
 

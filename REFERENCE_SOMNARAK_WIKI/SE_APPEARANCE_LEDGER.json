@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IIIβ-156": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_02_DEADLINE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -4377,8 +4389,23 @@
     {
       "designation": "N-IIIβ-156",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-156_Deadline_빚의_시계.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD +0 — 16 repairs keep the date answerable to people instead of to dread.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_02_DEADLINE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-A__SIDE_CODEX_Deadline.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-B__MAW-W_The_Deadline_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-C__MAW-S_The_Deadline_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-D__MAW-G_The_Deadline_Watch.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIIβ-160",

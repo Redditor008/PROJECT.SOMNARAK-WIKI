@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 204,
   "status": "OPEN",
-  "completed_units": 1,
+  "completed_units": 2,
   "required_units": 5,
   "queue": [
     {
@@ -42,7 +42,7 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 1,
+  "completed": 2,
   "units": [
     {
       "unit": 1,
@@ -244,6 +244,206 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 4,
         "digit_sequence_change": "The unsupported 15% Gauge rise and +10% contact resistance were removed and the Ultimate was retimed from 65% to the file's own 60% escalation threshold."
+      }
+    },
+    {
+      "unit": 2,
+      "designation": "N-IIIβ-156",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-156_Deadline_빚의_시계.md",
+      "words": 9409,
+      "sha256": "32ef2dfb081bc2b36721bdb0580f6c3c83ee9c2568a2d3bf66d312314d49498f",
+      "name": "Deadline",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_02_DEADLINE.md",
+      "before_words": 9409,
+      "after_words": 9752,
+      "base": "0a3813733aee112e4d10cfa66b395081309e46bb",
+      "final_sha256": "c35b30fafcb0fa1b285340df05cfb1bb5fd9d63891d19aa86557a6b1fc99382a",
+      "summary": "HELD +0 — 16 repairs keep the date answerable to people instead of to dread.",
+      "commentary": "A fair date can still arrive like a punishment when nobody is assigned to help a person reach it.",
+      "reasoning": "The clock cannot be fought, wound or verified against itself: two unreconciled named readings and the quarterly time-bar list are the whole instrument.\n\nThe gauge measures one watch while the interval measures the claims registry, so resolution is a reading discipline completed, not a number forced down.\n\nEvery equipment piece needs a person outside the panic — verifier, support person or replacement — and a plan that includes life after the date.",
+      "history": "Batch 130/unit 4 already shipped the full exact-source Deadline review and claimed the Weapon credit then; material numeric and authority forks remain. HELD +0, no fresh Types, Weapon or SE credit.",
+      "holds": [
+        "Han Pressure 10–23 versus Side Weight 8–20. Held.",
+        "Whether the Clock distinguishes unjust from valid deadlines remains unproven. Held.",
+        "Watch authority over registry lists is primary-only. Held."
+      ],
+      "split": [
+        3,
+        13
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-resolve-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Han / burden pressure |",
+          "new": "| **Primary pressure** | Resolve — taking the figure and leaving the room without working out whose date it is |"
+        },
+        {
+          "id": "R02-vessel-no",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — never dismantled, wound, repaired or moved; striking and smashing are prohibited and the original O-Relic remains intact |"
+        },
+        {
+          "id": "R03-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R04-zero-claims-search",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Zero* [**Attack**] } | \"Year 4231. Every reader in the building took the same figure for the first and only time, and the figure was nought. It was the quarter we extinguished four thousand one hundred claims.\" | [The interval reaches zero and holds there for a full watch.] | *Heavy Weight pressure across the room; the Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | At a reading below seven days. |",
+          "new": "| { *Zero* [**Attack**] } | \"Year 4231. Every reader in the building took the same figure for the first and only time, and the figure was nought. It was the quarter we extinguished four thousand one hundred claims.\" | [A reading below seven days is the room's near-zero figure: the hands are running short and falling is the bad direction.] | *Heavy Weight pressure across the room. Nothing in the room is touched first: pull the quarter's time-bar list and name every extinguished entitlement with its published date, its value, the officer who applied it, and whether the holder was known to be ill, absent or bereaved.* **[24-36 Weight DMG [Weight]]** | At a reading below seven days. |"
+        },
+        {
+          "id": "R05-ultimate-threshold-60",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Every Clock On The Row* [**Ultimate**] } | \"Modelled only. No other timepiece in the district has ever been affected, and the Row has checked them at every quarter for fifteen years.\" | [Projected spread to adjacent timepieces.] | *Area Weight pressure over three turns, unobserved, retained as a planning figure.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | Gauge 65%, not reached. |",
+          "new": "| { *Every Clock On The Row* [**Ultimate**] } | \"Modelled only. No other timepiece in the district has ever been affected, and the Row has checked them at every quarter for fifteen years.\" | [Projected spread to adjacent timepieces at the escalation threshold; no such spread has ever been observed.] | *Area Weight pressure over three turns, unobserved, retained as a planning figure. End contact, enter both figures unreconciled, and check the Row's other timepieces before the watch is written up.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 60% (projected; not reached on record). |"
+        },
+        {
+          "id": "R06-battle-phase-resolution",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.",
+          "new": "3. **Resolution:** The watch closes when both readers have entered their own figures against their own names, unreconciled, contact has ended inside the posted limits, and the quarter's time-bar list has been read in the room with each extinguished entitlement named. A good watch in a short-interval quarter is written up as a good watch; the gauge measures the watch and the interval measures the registry."
+        },
+        {
+          "id": "R07-work-notes-seam",
+          "kind": "careful operational correction",
+          "careful": true,
+          "old": "Ferrehan is primary and Viderehan is the reading instrument. Deadline is an Object/Place with Object-Weight manifestation and Weight expression at SECTOR-C-01, Collector's Row. The Registrum's entry giving it Echo (II) coherence contradicted a header reading Fragment (III) — anxious and counting — and has been corrected; the header is descriptive here rather than nominal.",
+          "new": "Ferrehan is primary and Viderehan is the reading instrument. Deadline is an Object/Place with Object-Weight manifestation and Weight expression at SECTOR-C-01, Collector's Row, held at Fragment (III) coherence — anxious and counting, descriptive here rather than nominal."
+        },
+        {
+          "id": "R08-activation-record-hand-lifted",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Trigger** | Touch by someone with debt. |\n| **Manifestation** | Object-Weight |\n| **Primary effect** | Displays the next debt deadline. |\n| **Duration / rate** | Until the debt changes or the clock is set down. |",
+          "new": "| **Trigger** | Bare contact by a person carrying an unlodged entitlement or an outstanding obligation. |\n| **Manifestation** | Object-Weight |\n| **Primary effect** | The hands resolve onto that person's next published date and run to it in real time. |\n| **Duration / rate** | Until the hand is lifted deliberately or the underlying obligation changes; the clock itself is bracket-mounted and is never set down or moved. |"
+        },
+        {
+          "id": "R09-maul-appearance-source",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that flickers with inner light. A cracked clock-face sits in the head above a long, black-wrapped haft. Its narrow case card carries the due date, intended action and protected rest interval; these are equipment records, not readings taken from the source clock. The inset is not wound, set or adjusted by hand.",
+          "new": "**Appearance:** a black Weight Han-steel maul with a cracked clock-face inset in the head above a long, black-wrapped haft; at rest the metal is cold and the inset hands stay still, indicating no ordinary time. Its narrow case card carries the due date, intended action and protected rest interval; these are equipment records, not readings taken from the source clock. The inset is not wound, set or adjusted by hand."
+        },
+        {
+          "id": "R10-maul-damage-application-direct",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Damage Application:** Direct and Tick damage multiplied separately. Weight 5–9, β grade, and the Operational Parameters field giving the M.A.W. grade as an em dash has been corrected to β against the three pieces this entity actually produces.",
+          "new": "**Damage Application:** Direct Weight damage only, at full value to the one designated target; there is no tick, splash or falloff component."
+        },
+        {
+          "id": "R11-maul-ability-before-zero",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Weight damage to the Han. The maul is issued for vessel work elsewhere on the Row and has never been raised in the clock room, where striking the holding is prohibited.",
+          "new": "**Ability:** *Before Zero* — once the external verifier confirms the due date, one support action and a protected rest interval, the maul disperses one imminent Weight surge long enough for the team to complete the next verified action. It cannot cancel a debt or move a deadline by force, and it has never been raised in the clock room, where striking the holding is prohibited."
+        },
+        {
+          "id": "R12-mantle-ability-scheduled-pause",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Wards Weight pressure on the Han. Required dress for any watch following a reading under thirty days, after two readers were found still standing at the face at the end of their relief.",
+          "new": "**Ability:** *Scheduled Pause* — while a verified plan and named support person remain active, the mantle spreads deadline Weight through its incomplete hem marks; when the support person declares the planned rest interval, it holds one deadline-induced Weight spike while the wearer steps into the pause. Required dress for any watch following a reading under thirty days, after two readers were found still standing at the face at the end of their relief."
+        },
+        {
+          "id": "R13-watch-ability-verifier-bound",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** The bearer knows, without looking anything up, when any obligation in front of them falls due. Eleven bearers; the claims office has twice asked for one to be seconded to the counter and has twice been refused, on the ground that a counter clerk who knows is a counter clerk who will start telling people, and that telling people is the rule's job and not a bearer's.",
+          "new": "**Ability:** *Plan Beyond It* — the watch shows no date until an external verifier is identified; then it marks one verified obligation's due point and the planned support action toward it. It cannot verify an unreviewed claim or change a due date. Eleven bearers; the claims office has twice asked for one to be seconded to the counter and has twice been refused, on the ground that a counter clerk who knows is a counter clerk who will start telling people, and that telling people is the rule's job and not a bearer's."
+        },
+        {
+          "id": "R14-use-notes-time-with-company",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "The set is built around knowing when something falls due and carrying the weight of knowing it. The armoury's note records that the maul has never been used here, that the mantle is worn on figures under thirty days as a matter of order rather than choice, and that the watch-charm is the only piece in the wing whose chief cost is a sound.",
+          "new": "The set is built around knowing when something falls due and carrying the weight of knowing it. The armoury's note records that the maul has never been used here, that the mantle is worn on figures under thirty days as a matter of order rather than choice, and that the watch-charm is the only piece in the wing whose chief cost is a sound.\n\n**Set resonance — Time With Company:** With a real deadline externally verified, one practical action planned and a rest period protected from the countdown, the full set contains an imminent Weight panic field long enough for the team to act on verified facts rather than future dread. The bearer hears the countdown in sleep until the planned action is completed or responsibly revised, and the set rejects any plan with no support person in it."
+        },
+        {
+          "id": "R15-log-resolve-not-composure",
+          "kind": "careful tool correction",
+          "careful": true,
+          "old": "| 1 Minute | The rate becomes perceptible as a pressure rather than a sound, and short intervals are felt as hurry by people who have not yet seen the figure. | 4 Composure every 10 seconds past the minute. Readers on a sub-thirty-day figure are relieved at the minute without discretion. |",
+          "new": "| 1 Minute | The rate becomes perceptible as a pressure rather than a sound, and short intervals are felt as hurry by people who have not yet seen the figure. | Resolve pressure builds with every 10 seconds past the minute, failing as recognition. Readers on a sub-thirty-day figure are relieved at the minute without discretion. |"
+        },
+        {
+          "id": "R16-use-mode-contact-reading",
+          "kind": "careful tool correction",
+          "careful": true,
+          "old": "| **Use Mode** | **Continuous / channeled use** |",
+          "new": "| **Use Mode** | **Contact reading only** — no channel is held or carried away; the hand lifts, the reading is entered, and the contact ends |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIIβ-156_Deadline_빚의_시계.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.017  clean   539 grams  기록 (Registrum)\n 0.015  clean   588 grams  감각 묘사 (Flavor Text)\n 0.009  clean   214 grams  Operational Parameters\n 0.007  clean   692 grams  Combat Record\n 0.005  clean   969 grams  M.A.W. Equipment\n 0.002  clean   595 grams  Activation Behavior\n 0.001  clean  1060 grams  이야기 보고 (Story Log)\n 0.000  clean   688 grams  Warden Record\n 0.000  clean   414 grams  이야기 (Narratio)\n 0.000  clean   374 grams  관찰 기록 (Observation Log)\n 0.000  clean   302 grams  Origin\n 0.000  clean   278 grams  Appearance\n 0.000  clean   236 grams  Trivia\n 0.000  clean   135 grams  최종 관찰 (Final Observation)\n 0.000  clean    92 grams  Behavior\n 0.000  clean    47 grams  증언 (Testimonium)\n 0.000  clean    40 grams  SECC Classification\n 0.000  THIN      3 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   56   1  | **Resistance** | 30% against Weight pressure; 20% against other pressure types |\n   86   4  | { *Every Clock On The Row* [**Ultimate**] } | \"Modelled only. No other timepiece in the district has ever been affected, and the\n  157   1  > **This Relic is Capable of Sector / Facility Alteration**\n  238   3  **Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element. Concentri\n  256   2  **Appearance:** a watch-charm of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.\n  318   1  The first return under the Rule of the Reopened Window, Year 4238. Before it, an entitlement not claimed by its published date was\n  367   1  Three records are grouped with this one and none of the three has ever been tested against it, because the clock cannot be moved a\n  376   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  378   6  | **The Shadow at the Door** | The claim that the Shadow follows this clock's dates comes from a Year 4224 summary and has never b\n  423   2  - The Rule of the Reopened Window is a containment condition of this entity and binds every published date this facility sets.\n  431   5  **Faction Involvement:** SED (C-territory survey) · the claims office, listed on an entity file because the Rule of the Reopened W\n  436   2  **Operational interpretation:** Read this file with the quarterly time-bar list and the claims office's statement beside it, which\nGENERIC 0.005  (32 shared shingles)  SE-N-IIIβ-156_Deadline_빚의_시계.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-A__SIDE_CODEX_Deadline.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-B__MAW-W_The_Deadline_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-C__MAW-S_The_Deadline_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-D__MAW-G_The_Deadline_Watch.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-A__SIDE_CODEX_Deadline.md": "c86f7a873e7649e43bbe48ae4e5e59fd2e2c72e612d250b582696a708903a90c",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-B__MAW-W_The_Deadline_Maul.md": "0dc122724340d6d9d1f5475a486af8874583fac68354c0971ff7e549c22c748f",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-C__MAW-S_The_Deadline_Mantle.md": "944e7170ea068f00aaa5fb55d2166f6fd41963a58658922ac1d977d46b399eb0",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-D__MAW-G_The_Deadline_Watch.md": "fd6312cc95fe834dfccf47c3715ec148ca19a47fb2d5aa7821672eac04eaf219"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IIIβ-156_Deadline_빚의_시계](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-156_Deadline_%EB%B9%9A%EC%9D%98_%EC%8B%9C%EA%B3%84.md \"SE-N-IIIβ-156_Deadline_빚의_시계.md\")]",
+      "table_link": "[[N-IIIβ-156 Deadline](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-156_Deadline_%EB%B9%9A%EC%9D%98_%EC%8B%9C%EA%B3%84.md \"SE-N-IIIβ-156_Deadline_빚의_시계.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 487 lines / 9,409 words, complete direct SE-156-A/B/C/D and Registry rows 410–413. CHANGELOG shows Batch 130/unit 4 completed the exact review and took Weapon +1. All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 0,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The unsupported 15% Gauge surge was removed, the projected Ultimate was retimed from 65% to the 60% threshold, and the one-minute log no longer drains a numbered Composure pool."
       }
     }
   ]
