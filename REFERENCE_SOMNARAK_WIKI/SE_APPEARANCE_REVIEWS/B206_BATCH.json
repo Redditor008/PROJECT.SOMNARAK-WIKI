@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 206,
   "status": "OPEN",
-  "completed_units": 4,
+  "completed_units": 5,
   "required_units": 5,
   "queue": [
     {
@@ -52,7 +52,7 @@
     }
   ],
   "opened_at": "2026-10-30",
-  "completed": 4,
+  "completed": 5,
   "units": [
     {
       "unit": 1,
@@ -888,6 +888,193 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 5,
         "digit_sequence_change": "Removed a 15% surge from the disgorgement row and moved the Ultimate from 65% (top of the 45–65% opening band) to the file ≥75% threshold. Weapon 7–12, armor multipliers, Tail 4%/+2 Clarity and the 1,106/788/318 map series preserved."
+      }
+    },
+    {
+      "unit": 5,
+      "designation": "C-Iα-114",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md",
+      "words": 4725,
+      "sha256": "51eac02db5a0ade833cd2d5aaec204c0ce2a8b9e6c4f74dee0c201582ae17dc2",
+      "prior_batch": 166,
+      "shape": "A-Relic",
+      "name": "A Letter Never Sent",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_05_LETTER_NEVER_SENT.md",
+      "before_words": 4725,
+      "after_words": 5083,
+      "base": "a6602211693847097444285dfc44b7e6bc841b91",
+      "final_sha256": "99fd18571e60003500e8a54540542d46a74e4e8f41c65312b9d9b555e910d88d",
+      "summary": "14 source-bound repairs split 4 short / 10 careful. A sealed single-use apology that burns to cure panic and restore +15 Composure no longer fires ranged Lament, surges when dropped, drops kilograms of dust or claims catastrophic battlefield alteration; its Ultimate is the spend-or-waste decision at its own ≥70% threshold. Temperature, chronology and extraction conflicts remain held.",
+      "commentary": "The letter has exactly one moment in it: seal broken, panic cured, grey ash. Everything before that moment is screening, stasis checks and not reading another man's script. The rows now guard that single use — unvoiced-apology entry, reading attempts, rough handling, a jarring drop — and the Ultimate forces the only real decision the file allows: spend it on a squad that needs it, or lose it to an empty vault.",
+      "reasoning": "**Primary-only authority.** No SE-114 A–D side set, CSV row or archetype exists; the exact external check is Entity Codex row 473 (burns on unsealing, clears panic, +15 Composure), which the Activation record already matches.\n\n**One use, guarded.** Reverence and proximity triggers became checkable regime events; the dropped-envelope Gauge surge and ranged damage contradicted a restorative discharge object whose only recorded pulse costs Composure nearby.\n\n**Chronology kept honest.** The fifth protocol row now returns the same grey ash B166 established, and Use Notes no longer assert post-discharge manufacture beside an unbroken seal; extraction and availability stay open questions.",
+      "history": "Prior full logical review B166_01_LETTER (pre-R-34) held the appearance after five narrow repairs. No exact side-codex set exists for C-Iα-114 and no earlier programme credited an exact weapon pair; equipment and SE credit remain +0 by proof, not by inheritance.",
+      "holds": [
+        "Invariant −3.2°C surface versus the Orphaned Bell tolling below −5°C; no thermal transition or measurement scope reconciles them.",
+        "Addressee never traced versus the named daughter; eighty years (Story synthesis) versus centuries (Tale) for the apology's lateness.",
+        "Edge-residue extraction and three in-docket pieces versus an unbroken seal and no second discharge; availability chronology unsettled.",
+        "Read-once invitation versus paper burning before the pages unfold."
+      ],
+      "split": [
+        4,
+        10
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Composure — unvoiced apology and unread farewells, which this relic spends itself to restore |"
+        },
+        {
+          "id": "R02-pressure-combat",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary Pressure** | Mental / emotional pressure |",
+          "new": "| **Primary Pressure** | Composure |"
+        },
+        {
+          "id": "R03-dust-grey-ash",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~1 kg–10 kg (α) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — consumed into grey ash and delivered to the Memorial Vault; it is a spent apology, not a dust yield |"
+        },
+        {
+          "id": "R04-clash-stasis-checks",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "2. **Clash:** The team conducts Viderehan and Ferrehan to harvest ambient Han-Energy while monitoring sector stability.",
+          "new": "2. **Clash:** The team conducts Viderehan and Ferrehan stasis checks only. Yield here is tallied off the vault's own checks rather than harvested live, and sector stability is monitored without moving the envelope."
+        },
+        {
+          "id": "R05-resistance-screening",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 25% against Lament pressure; 15% against other pressure types |",
+          "new": "| **Resistance** | 25% against Lament pressure; 15% against other pressure types as formal ratings. Working protection is screening and restraint: operatives with unaddressed parental grief are excluded by screening rather than self-report, nobody reads the flap script or writes on the wax, and the seal is broken only on an emergency authorization. |"
+        },
+        {
+          "id": "R06-seal-unvoiced-apology",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| {{ *The Indigo Seal* [**Debuff**] }} | \"The wax softens slightly, weeping blue condensation.\" | [A faint chill settles over the chamber; observers feel unvoiced remorse.] | *Target suffers -5 Composure.* | When the envelope is approached without reverence. |",
+          "new": "| {{ *The Indigo Seal* [**Debuff**] }} | \"The wax softens slightly, weeping blue condensation.\" | [The envelope trembles faintly; observers feel their own unvoiced remorse before they notice the chill.] | *The operative suffers -5 Composure. Personnel carrying an unaddressed parental grief are stood down from this rotation by screening, not by self-report.* | When an operative carrying an unvoiced apology enters the chamber. |"
+        },
+        {
+          "id": "R07-address-reading-attempt",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| {{ *Faded Address* [**Debuff**] }} | \"The ink shifts beneath the wax, spelling out forgotten names.\" | [The address line blurs; memories of unwritten messages intrude into thought.] | *Target loses 5 Composure.* | When an operator inspects the front seal. |",
+          "new": "| {{ *Faded Address* [**Debuff**] }} | \"The ink shifts beneath the wax, spelling out forgotten names.\" | [The address line blurs under a reading eye; unwritten messages intrude, and the paper accepts no new graphite or ink.] | *The operator loses 5 Composure, and writing over the wax brings instantaneous frostbite. Log creases, wax and frost without lifting the flap or reading the script.* | When an operator reads, or tries to read or write over, the faded brush script on the flap. |"
+        },
+        {
+          "id": "R08-trembling-rough-handling",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| {{ *Trembling Seam* [**Attack**] }} | \"The paper edges hum at a low acoustic frequency.\" | [The envelope vibrates in resonance with nearby human regret.] | *Inflicts 8 Lament damage across Range Band 1.* | When handled carelessly. |",
+          "new": "| {{ *Trembling Seam* [**Attack**] }} | \"The paper edges hum at a low acoustic frequency.\" | [Rough handling draws an acoustic pulse from the envelope, not a strike: it has nothing to hit with.] | *Nearby personnel lose 5 Composure to the pulse. Set it down, verify the seal against the vault sheet, and record who moved it and why.* | When the envelope is handled roughly or moved without authorization. |"
+        },
+        {
+          "id": "R09-sigh-seal-check",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| {{ *Parchment Sigh* [**Attack**] }} | \"A breath of stale, century-old air escapes from the fold.\" | [The draft smells of old paper and winter train stations.] | *Sorrow Gauge increases by 10%.* | When the envelope is dropped or jarred. |",
+          "new": "| {{ *Parchment Sigh* [**Attack**] }} | \"A breath of stale, century-old air escapes from the fold.\" | [A jar threatens the one thing that must not happen accidentally: micro-fractures in skin are recorded, and a cracked seal is a wasted discharge.] | *Stop all handling. Verify wax integrity against the vault sheet, log the event, and treat any seal damage as a countdown on the relic's only use.* | When the envelope is dropped or jarred. |"
+        },
+        {
+          "id": "R10-ultimate-spend-or-waste",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| {{ *Unread Finality* [**Ultimate**] }} | \"The blue wax cracks prematurely under immense psychic strain.\" | [The envelope flares with faint indigo fire, threatening premature consumption.] | *All personnel in room take 10 Lament damage.* | When Sorrow Gauge reaches 60%. |",
+          "new": "| {{ *Unread Finality* [**Ultimate**] }} | \"The blue wax cracks prematurely under immense psychic strain.\" | [The wax threatens to go on its own, which is how this relic is lost: spent on an empty vault instead of a panicking squad.] | *The lead must choose at once: spend it deliberately under emergency authorization (Panic cured, +15 Composure in Range Band 3, letter consumed into grey ash) or clear the vault and re-separate the acoustic/kinetic neighbours by three bulkheads. If it vents unchosen, all personnel present take 10 Lament damage and the benediction is wasted.* | When the Sorrow Gauge reaches the ≥70% activation threshold under vibration or acoustic resonance from a neighbouring holding. |"
+        },
+        {
+          "id": "R11-consequences-stasis",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "Failure to maintain stasis allows the wax to fracture prematurely, venting localized cryogenic lament across the containment vault. Successful management preserves the letter in stasis until an emergency tactical deployment is authorized.",
+          "new": "Failure here is not an explosion; it is waste. A prematurely fractured seal spends the letter's only discharge on whoever happens to be standing in the vault, and the apology that waited since 4,112 is gone. Successful management is clerical: screened hands, an unbroken seal, and the letter preserved in stasis until a Strike Cadre lead authorizes the one emergency deployment it exists for."
+        },
+        {
+          "id": "R12-relic-banners",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "> **This Relic can Benefit the Facility**\n> **This Relic is Capable of Catastrophic Battlefield Alteration**\n> **This Relic is Irrevocably Consumed upon Activation**",
+          "new": "> **This Relic Benefits the Facility Once, as Emergency Squad Stabilization**\n> **Its Battlefield Effect is Restoration Only — Panic Cured, Composure Returned, Nothing Altered Beyond That**\n> **This Relic is Irrevocably Consumed upon Activation**"
+        },
+        {
+          "id": "R13-log-five-uses-ash",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "| 5 Uses | Grief of this size had one way left to be finished, and that was to be burned out in a single sitting. After the letter has handed everything over, asking anything further of it gets no answer at all. | What survives is inert: the seal shatters, or the mineral goes dull and powdery. It will not take repair, it will not take rekindling, and no further extraction is available from it. |",
+          "new": "| 5 Uses | Grief of this size had one way left to be finished, and that was to be burned out in a single sitting. After the letter has handed everything over, asking anything further of it gets no answer at all. | What survives is the grey ash specified for this envelope, delivered to the Directorate Memorial Vault. It will not take repair and it will not take rekindling; there is no second sitting. |"
+        },
+        {
+          "id": "R14-use-notes-chronology",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "M.A.W. extracted from single-use relics represents the lingering memory of the husk. It is not forged from live flesh but woven from the calcified residue left after the grief discharges.",
+          "new": "The three pieces stand in this docket beside an envelope whose seal has never been broken, so nothing here is cut or woven from this letter while it waits. Their availability chronology against the unbroken seal is unsettled and is recorded as such; the letter itself remains the single-use relic, spent in one discharge or not spent at all."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.003  clean   575 grams  Combat Record\n 0.000  clean   683 grams  Activation Behavior\n 0.000  clean   269 grams  이야기 (Narratio)\n 0.000  clean   252 grams  Appearance\n 0.000  clean   238 grams  감각 묘사 (Flavor Text)\n 0.000  clean   224 grams  M.A.W. Equipment\n 0.000  clean   212 grams  이야기 보고 (Story Log)\n 0.000  clean   105 grams  Trivia\n 0.000  clean   105 grams  Operational Parameters\n 0.000  clean    96 grams  관찰 기록 (Observation Log)\n 0.000  clean    66 grams  최종 관찰 (Final Observation)\n 0.000  clean    66 grams  증언 (Testimonium)\n 0.000  clean    64 grams  SECC Classification\n 0.000  clean    56 grams  기록 (Registrum)\n 0.000  clean    34 grams  Origin\n 0.000  clean    26 grams  Behavior\n 0.000  clean    15 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   56   1  | **Resistance** | 25% against Lament pressure; 15% against other pressure types as formal ratings. Working protection is screenin\n   85   1  | {{ *Unread Finality* [**Ultimate**] }} | \"The blue wax cracks prematurely under immense psychic strain.\" | [The wax threatens to\nGENERIC 0.001  (2 shared shingles)  SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_01_LETTER.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_01_LETTER.md": "83e0c82ec1e94a8582655703015fb310d1fa09eaf80c5345bf3bc292d27c61cd",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-114_A_Letter_Never_Sent_%EB%B6%80%EC%B9%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%ED%8E%B8%EC%A7%80.md \"SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md\")]",
+      "table_link": "[[C-Iα-114 A Letter Never Sent](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-114_A_Letter_Never_Sent_%EB%B6%80%EC%B9%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%ED%8E%B8%EC%A7%80.md \"SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md\")]",
+      "reading": "Frozen primary SHA256 51eac02db5a0ade833cd2d5aaec204c0ce2a8b9e6c4f74dee0c201582ae17dc2 read whole (396 lines) beside B166_01_LETTER; absence of any SE-114 side set re-verified by directory search, and Entity Codex row 473 read for the exact envelope discharge. Final primary re-read after exact replay.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 236,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 3,
+        "digit_sequence_change": "Removed the ~1–10 kg dust yield from an envelope that burns to ash, the 8-point ranged damage figure (replaced by the filed −5 Composure acoustic pulse) and a +10% self-surge on being dropped; moved the Ultimate from 60% to the file ≥70% threshold. +15 Composure, weapon 4–8, armor multipliers and Chest 5% preserved."
       }
     }
   ]

@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Iα-114": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_05_LETTER_NEVER_SENT.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -3536,10 +3548,10 @@
       "designation": "C-Iα-114",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md",
       "status": "held",
-      "note": "HELD: intact envelope and ash endpoint are clearer, but thermal state, activation authority and extraction chronology still lack supported crosswalks. Technical PASS does not complete the written design.",
-      "outcome": "unresolved whole-file logical relationship",
-      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_01_LETTER.md",
+      "note": "14 source-bound repairs split 4 short / 10 careful. A sealed single-use apology that burns to cure panic and restore +15 Composure no longer fires ranged Lament, surges when dropped, drops kilograms of dust or claims catastrophic battlefield alteration; its Ultimate is the spend-or-waste decision at its own ≥70% threshold. Temperature, chronology and extraction conflicts remain held.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_05_LETTER_NEVER_SENT.md",
       "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_01_LETTER.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
         "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
       ],
@@ -10155,6 +10167,14 @@
       "batch": 206,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_04_SPREADING_WELL.md",
       "history_proof": "Batch 112 unit 1 (00b08f0) already cross-reviewed the exact SE-373 A/B/C/D set and the exact SE-373-B weapon before B206, so this recheck adds no Types or Weapon credit.",
+      "all_types_credit": false,
+      "weapon_credit": false
+    },
+    {
+      "designation": "C-Iα-114",
+      "batch": 206,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_05_LETTER_NEVER_SENT.md",
+      "history_proof": "No SE-114 A/B/C/D side set, Registry row or archetype exists for C-Iα-114 (verified by directory search this unit, as in B166); the three pieces live only inside this primary docket, so no exact-source Types or Weapon credit can be earned or inherited.",
       "all_types_credit": false,
       "weapon_credit": false
     }

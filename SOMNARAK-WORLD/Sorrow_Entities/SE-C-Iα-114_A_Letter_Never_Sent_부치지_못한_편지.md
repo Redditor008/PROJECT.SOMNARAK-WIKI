@@ -27,14 +27,14 @@
 |---|---|
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Mental / emotional pressure |
+| **Primary pressure** | Composure — unvoiced apology and unread farewells, which this relic spends itself to restore |
 | **Starting Sorrow Gauge** | 20–35% |
 | **Han-Energy yield** | 8–12 per successful work cycle, tallied off the vault's own stasis checks rather than a live reading |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Single-use discharge trigger — consumed upon activation |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · α (Minor) |
 | **Vessel-Destructible** | Yes — consumed upon single use |
-| **Han Dust Drop (Vessel Destruction)** | ~1 kg–10 kg (α) |
+| **Han Dust Drop (Vessel Destruction)** | — consumed into grey ash and delivered to the Memorial Vault; it is a spent apology, not a dust yield |
 | **Recommended response** | Reduce Gauge through Viderehan and Ferrehan; spend as A-Relic in emergency panic cascade. |
 
 ### Operational Notes
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — stationary artifact |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types |
+| **Resistance** | 25% against Lament pressure; 15% against other pressure types as formal ratings. Working protection is screening and restraint: operatives with unaddressed parental grief are excluded by screening rather than self-report, nobody reads the flap script or writes on the wax, and the seal is broken only on an emergency authorization. |
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
 | **Sorrow Gauge [HP]** | 310/310 |
 | **Han Pressure [ATK]** | 6–14 per hit · Lament |
@@ -67,7 +67,7 @@
 | **Battle Length** | Short — 10 turns |
 | **Threat Role** | Support / Consumable artifact |
 | **Coherence** | Residue (I) — Unread, preserved plea |
-| **Primary Pressure** | Mental / emotional pressure |
+| **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 20–35% |
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
@@ -78,21 +78,21 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| {{ *The Indigo Seal* [**Debuff**] }} | "The wax softens slightly, weeping blue condensation." | [A faint chill settles over the chamber; observers feel unvoiced remorse.] | *Target suffers -5 Composure.* | When the envelope is approached without reverence. |
-| {{ *Faded Address* [**Debuff**] }} | "The ink shifts beneath the wax, spelling out forgotten names." | [The address line blurs; memories of unwritten messages intrude into thought.] | *Target loses 5 Composure.* | When an operator inspects the front seal. |
-| {{ *Trembling Seam* [**Attack**] }} | "The paper edges hum at a low acoustic frequency." | [The envelope vibrates in resonance with nearby human regret.] | *Inflicts 8 Lament damage across Range Band 1.* | When handled carelessly. |
-| {{ *Parchment Sigh* [**Attack**] }} | "A breath of stale, century-old air escapes from the fold." | [The draft smells of old paper and winter train stations.] | *Sorrow Gauge increases by 10%.* | When the envelope is dropped or jarred. |
-| {{ *Unread Finality* [**Ultimate**] }} | "The blue wax cracks prematurely under immense psychic strain." | [The envelope flares with faint indigo fire, threatening premature consumption.] | *All personnel in room take 10 Lament damage.* | When Sorrow Gauge reaches 60%. |
+| {{ *The Indigo Seal* [**Debuff**] }} | "The wax softens slightly, weeping blue condensation." | [The envelope trembles faintly; observers feel their own unvoiced remorse before they notice the chill.] | *The operative suffers -5 Composure. Personnel carrying an unaddressed parental grief are stood down from this rotation by screening, not by self-report.* | When an operative carrying an unvoiced apology enters the chamber. |
+| {{ *Faded Address* [**Debuff**] }} | "The ink shifts beneath the wax, spelling out forgotten names." | [The address line blurs under a reading eye; unwritten messages intrude, and the paper accepts no new graphite or ink.] | *The operator loses 5 Composure, and writing over the wax brings instantaneous frostbite. Log creases, wax and frost without lifting the flap or reading the script.* | When an operator reads, or tries to read or write over, the faded brush script on the flap. |
+| {{ *Trembling Seam* [**Attack**] }} | "The paper edges hum at a low acoustic frequency." | [Rough handling draws an acoustic pulse from the envelope, not a strike: it has nothing to hit with.] | *Nearby personnel lose 5 Composure to the pulse. Set it down, verify the seal against the vault sheet, and record who moved it and why.* | When the envelope is handled roughly or moved without authorization. |
+| {{ *Parchment Sigh* [**Attack**] }} | "A breath of stale, century-old air escapes from the fold." | [A jar threatens the one thing that must not happen accidentally: micro-fractures in skin are recorded, and a cracked seal is a wasted discharge.] | *Stop all handling. Verify wax integrity against the vault sheet, log the event, and treat any seal damage as a countdown on the relic's only use.* | When the envelope is dropped or jarred. |
+| {{ *Unread Finality* [**Ultimate**] }} | "The blue wax cracks prematurely under immense psychic strain." | [The wax threatens to go on its own, which is how this relic is lost: spent on an empty vault instead of a panicking squad.] | *The lead must choose at once: spend it deliberately under emergency authorization (Panic cured, +15 Composure in Range Band 3, letter consumed into grey ash) or clear the vault and re-separate the acoustic/kinetic neighbours by three bulkheads. If it vents unchosen, all personnel present take 10 Lament damage and the benediction is wasted.* | When the Sorrow Gauge reaches the ≥70% activation threshold under vibration or acoustic resonance from a neighbouring holding. |
 
 ### Battle Phases
 
 1. **Tension:** The single-use A-Relic construct is identified, the seal's integrity is verified against the vault sheet, and tactical need is judged before anything is moved. Nothing in Vault 12 is opened to find out what it says.
-2. **Clash:** The team conducts Viderehan and Ferrehan to harvest ambient Han-Energy while monitoring sector stability.
+2. **Clash:** The team conducts Viderehan and Ferrehan stasis checks only. Yield here is tallied off the vault's own checks rather than harvested live, and sector stability is monitored without moving the envelope.
 3. **Resolution:** The watch ends on the standard containment quotas, or the Relic is spent deliberately to answer an existential breach of the facility — and the file registers a suppression condition: **Step back and log the envelope in silence; break the seal only in an emergency**. The vault staff keep that clause without exception: the letter is read once, at the moment a squad's survival rests on it, and the moment is entered afterwards.
 
 ### Consequences
 
-Failure to maintain stasis allows the wax to fracture prematurely, venting localized cryogenic lament across the containment vault. Successful management preserves the letter in stasis until an emergency tactical deployment is authorized.
+Failure here is not an explosion; it is waste. A prematurely fractured seal spends the letter's only discharge on whoever happens to be standing in the vault, and the apology that waited since 4,112 is gone. Successful management is clerical: screened hands, an unbroken seal, and the letter preserved in stasis until a Strike Cadre lead authorizes the one emergency deployment it exists for.
 
 ## Appearance
 
@@ -142,8 +142,8 @@ Personnel assigned to Viderehan must avoid reading the faded brush script on the
 
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Catastrophic Battlefield Alteration**
+> **This Relic Benefits the Facility Once, as Emergency Squad Stabilization**
+> **Its Battlefield Effect is Restoration Only — Panic Cured, Composure Returned, Nothing Altered Beyond That**
 > **This Relic is Irrevocably Consumed upon Activation**
 
 **Activation Trigger:** Breaking the indigo crystal wax seal and opening the envelope flap.
@@ -176,7 +176,7 @@ Personnel assigned to Viderehan must avoid reading the faded brush script on the
 |---|---|---|
 | 1 Use | The envelope has stayed in the vault’s keeping with its seal unbroken, so everything the letter carries is still folded inside it. Nothing leaves until somebody makes up their mind to open it, and deciding to open it is not itself the physical trigger. The seal must be broken and the flap lifted. | The trigger is breaking the indigo crystal wax seal and lifting the envelope flap. Once the seal is broken the discharge is instantaneous, cannot be reversed, and reaches across the battlefield. |
 | 3 Uses | The crystal in this relic formed around a weight that could not be carried — knowing the person you wronged would die convinced you had never cared. The record sets it in the great subsidence of year 4,112 in sector-a-04, where the lower foundational struts sheared during the sub-rail evacuation. It answers to a commitment with nothing kept back. | The discharge runs to completion. The letter burns in a deep blue flash that gives off no heat and puts out a restorative chime: Panic is cured where it stands, mental terror clears, and every ally inside Range Band 3 gains +15 Composure. This row does not establish an additional effect on hostile entities: the repeated primary-effect specification records allied panic relief and Composure restoration, not removal of an enemy's element. |
-| 5 Uses | Grief of this size had one way left to be finished, and that was to be burned out in a single sitting. After the letter has handed everything over, asking anything further of it gets no answer at all. | What survives is inert: the seal shatters, or the mineral goes dull and powdery. It will not take repair, it will not take rekindling, and no further extraction is available from it. |
+| 5 Uses | Grief of this size had one way left to be finished, and that was to be burned out in a single sitting. After the letter has handed everything over, asking anything further of it gets no answer at all. | What survives is the grey ash specified for this envelope, delivered to the Directorate Memorial Vault. It will not take repair and it will not take rekindling; there is no second sitting. |
 | 7 Uses | A thing that gives itself away so the living go on is not free of cost, and what it costs is bereavement. To be inside the vault when the letter burns out is to take over a sorrow that never reached the person it was addressed to. | The operative who broke the seal carries a severe trauma out of the activation. For this relic the record is particular: the letter is consumed permanently into grey ash, and the user is left holding a poignant ache of bereavement. |
 
 ### Escalation Notes
@@ -254,7 +254,7 @@ The blade is bloodless-cold, leaving frost rimes along wound channels. When swun
 
 ### M.A.W. Use Notes
 
-M.A.W. extracted from single-use relics represents the lingering memory of the husk. It is not forged from live flesh but woven from the calcified residue left after the grief discharges.
+The three pieces stand in this docket beside an envelope whose seal has never been broken, so nothing here is cut or woven from this letter while it waits. Their availability chronology against the unbroken seal is unsettled and is recorded as such; the letter itself remains the single-use relic, spent in one discharge or not spent at all.
 
 ### Field Use Record
 
