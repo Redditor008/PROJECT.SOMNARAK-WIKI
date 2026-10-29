@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVδ-125": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_03_DEJA_VU.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2499,8 +2511,23 @@
     {
       "designation": "C-IVδ-125",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Twenty-six repairs (4 short / 22 careful). Déjà Vu no longer has a locomotion speed, a physical fruit that can be discarded or crushed, a target Sorrow Gauge, a 65% Ultimate, a Low threat rating, or a consumable memory-crystal in Registrum. Its Combat Actions now trigger from impossible recognition, reclaiming the past, confrontation, anchor failure/staying after withdrawal, and ≥90%; the sealed account is restored to measurement rather than defence. Exact Returning Veil and Seed appearances were restored, the three equipment costs separated, and handling rebuilt around outside spotter, written roster, bereavement check and present anchors. HELD; no credit because the primary already contains the complete δ set/statistics/costs/Field Use Record and Side A carries the dated 2026-10-11 weapon-title review.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_03_DEJA_VU.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-A__SIDE_CODEX_Deja_Vu.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-B__MAW-W_The_Returning_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-C__MAW-S_The_Returning_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-D__MAW-G_The_Returning_Seed.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-140",
