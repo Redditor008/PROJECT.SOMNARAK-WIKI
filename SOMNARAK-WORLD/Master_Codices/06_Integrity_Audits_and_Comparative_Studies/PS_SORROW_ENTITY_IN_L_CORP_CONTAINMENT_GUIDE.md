@@ -1,5 +1,5 @@
 # UNIVERSAL SORROW ENTITY TO ABNORMALITY CONVERSION TABLE
-## PS Sorrow Entity in L Corp Containment Guide — Combined Overhaul Edition (Parts I–III + Integrity Appendix)
+## PS Sorrow Entity in L Corp Containment Guide — Combined Overhaul Edition (Parts I–IV + Integrity Appendix)
 ### A premise-agnostic conversion standard for any story that transforms a Sorrow Entity — fully or partially — into an Abnormality
 
 ```text
@@ -12,7 +12,7 @@
 +------------------------------------------------------------------------+
 | SCOPE: ANY INGRESS, ANY STORY — FULL TO PARTIAL TRANSFORMATION         |
 | CONTAINMENT LAWS: WORK TYPE RESTRICTIONS & PLACE-BREACH PROTOCOLS      |
-| EDITION : COMBINED OVERHAUL — PARTS I-III + INTEGRITY APPENDIX         |
+| EDITION : COMBINED OVERHAUL — PARTS I-IV + INTEGRITY APPENDIX          |
 +========================================================================+
 ```
 
@@ -23,7 +23,7 @@
 
 This document is a **universal conversion table**, not one story's house rules. It exists so that *any* story — facility chronicle, crossover campaign, guest appearance, what-if transport — can transform a Sorrow Entity into an Abnormality **fully or partially** and have both archives still agree on what arrived.
 
-**This is the combined overhaul edition.** Because a sound SE → Abnormality conversion constantly reaches for the reverse direction and for the side-by-side record of the two universes, this document carries all three texts in full: **Part I** is the Universal Conversion Table itself (this Preface through the Section XI checklist); **Part II** is the complete reverse guide, *PM Abnormality to PS Sorrow Entity Conversion Guide*; **Part III** is the complete *Complete System Comparison: Somnarak vs. Lobotomy Corporation*, including the Well & Weeping contact geometries (its §2A); and **Appendix A** closes the volume with the Conversion Integrity Matrix certifying all three parts against each other. The standalone files for Parts II and III remain the archival originals; the copies carried below mirror them as corrected 2026-10-30, heading levels demoted one step for nesting, wording otherwise unaltered.
+**This is the combined overhaul edition.** Because a sound SE → Abnormality conversion constantly reaches for the reverse direction, for the side-by-side record of the two universes, and for the owner's own original tables, this document carries them all in full: **Part I** is the Universal Conversion Table itself (this Preface through the Section XI checklist); **Part II** is the complete reverse guide, *PM Abnormality to PS Sorrow Entity Conversion Guide*; **Part III** is the complete *Complete System Comparison: Somnarak vs. Lobotomy Corporation*, including the Well & Weeping contact geometries (its §2A); **Part IV** is the owner's five original conversion tables — the source of the Threat Score law (Section III) and the R.D. Attribute system (Section IV.3); and **Appendix A** closes the volume with the Conversion Integrity Matrix certifying all four parts against each other. The standalone files for Parts II, III and IV remain the archival originals; the copies carried below mirror them as corrected 2026-10-30, heading levels demoted one step for nesting, wording otherwise unaltered.
 
 No single premise in it is mandatory: *how* the entity crosses (ingress) and *how far* it transforms (degree) are the author's declarations; *what it is called and how its danger reads* are this table's invariant core.
 
@@ -441,11 +441,18 @@ Each conversion below shows its three-field reads, so the letter and class can b
 +========================================================================+
 ```
 
+
 ---
 
 ## PART II — THE REVERSE DIRECTION: ABNORMALITY → SORROW ENTITY (carried in full)
 
 *The complete text of the **PM Abnormality to PS Sorrow Entity Conversion Guide**, carried verbatim (as corrected 2026-10-30) so that this overhaul stands self-sufficient. Part I converts SE → Abnormality only — but the reverse direction's law (durability calibration, the spatial engine, the relic overhaul standard, the counter channels read backward) is operative knowledge for every conversion Part I certifies, and Appendix A cites it throughout. The standalone file (`PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md`) remains the archival original.*
+
+## PM ABNORMALITY TO PS SORROW ENTITY CONVERSION GUIDE
+### Project Moon to Project Somnarak Architectural, Phenomenological & Mechanical Adaptation Codex
+#### Master Systems Codex — 10,000 HP Calibration & Tactical Alignment
+
+> **Combined-edition note (2026-10-30):** this guide is carried in full as **Part II** of the *Universal Sorrow Entity to Abnormality Conversion Table* (combined overhaul edition), so the overhaul stands self-sufficient. This standalone file remains the archival original.
 
 ```text
 +========================================================================+
@@ -510,6 +517,8 @@ When translating an Abnormality from Project Moon into a Somnarak Sorrow Entity,
 | **HE** | **Rank III (Fragment)** | **Grade γ (Major)** | 500 – 750 HP | 18 – 35 DMG | 20 – 30 Han | 3 – 5 (Swift) | 300–450 Part / 0 Term |
 | **WAW** | **Rank IV (Entity)** | **Grade δ (Critical)** | 750 – 1,000 HP | 30 – 55 DMG | 28 – 40 Han | 4 – 6 (Rapid) | 450–600 Part / 0 Term |
 | **ALEPH** | **Rank V (Sovereign)** | **Grade ω (Catastrophic)**| 1,000 – 12,000 HP| 50 – 80+ DMG | Sovereign / Macro | Instant / Teleport | Multi-Phase Stagger |
+
+**Reverse arithmetic (owner's Risk Parallel §XV, carried at Part IV.3).** When the transport *originates* in the other direction, dossier HP and Pressure are recovered by inverting the threat multipliers at the assigned tier: `base_HP = ceil(LC HP ÷ HP multiplier)` → Sorrow Gauge (HP), and `Han Pressure = ceil(LC attack value ÷ ATK multiplier)` using the multiplier recorded at intake (one value inside the tier's range, filed when the pair was created). No intake multiplier on file: use the range minimum, brace the recovered figure **`{est.}`**, and say so — an unfiled multiplier is a documentation gap, and no scene may later "compute" a more convenient one. Where both records of a pair exist they are cross-checked, never recomputed into agreement.
 
 ---
 
@@ -593,11 +602,11 @@ In Project Moon, containment work revolves around four generic employee actions:
 
 #### 1. Work Type Operational Translation
 
-1. **Instinct → Viderehan (  관조한   / *Gwanjohan* — Observation Work):**  
+1. **Insight → Viderehan (  관조한   / *Gwanjohan* — Observation Work):**  
    - **Procedure:** Operatives observe acoustic frequencies, barometric Han waves, and crystallization states from behind observation shields.
    - **Mechanical Effect:** Low risk; generates steady Han-Energy; builds operative **Clarity**; reveals behavioral patterns.
 
-2. **Insight → Ferrehan (  인내한   / *Innaehan* — Endurance Work):**  
+2. **Instinct → Ferrehan (  인내한   / *Innaehan* — Endurance Work):**  
    - **Procedure:** Operatives physically enter the containment chamber to withstand the entity's ambient pressure aura, heat, or gravity without speaking.
    - **Mechanical Effect:** Moderate physical risk; tests operative **Resilience**; stabilizes rapid Sorrow Gauge fluctuations.
 
@@ -609,7 +618,7 @@ In Project Moon, containment work revolves around four generic employee actions:
    - **Procedure:** Operatives deploy controlled physical violence, kinetic suppression rods, and authoritative strikes to beat back expanding manifestation mass.
    - **Mechanical Effect:** High physical risk; tests operative **Resolve**; prevents imminent breach counters, but escalates the entity's Grudge pressure.
 
-**Operative attributes convert with the work.** A native entry's work-scaling stats and stat requirements convert along the work pairing — Fortitude → Clarity, Prudence → Resilience, Temperance → Composure, Justice → Resolve, levels I–V unchanged — the exact inverse of the Universal Table's Section IV.3 table. SP-denominated costs become Composure costs, and E.G.O stat requirements become the M.A.W. record's operative requirements before Composure Load (Section VIII.3) is applied.
+**Operative attributes convert with the work (owner's Attribute Levels add-on, Part IV.4).** A native entry's work-scaling stats and stat requirements convert along the work pairing — Fortitude ↔ **Resilience** (Instinct/Ferrehan), Prudence ↔ **Clarity** (Insight/Viderehan), Temperance ↔ **Composure** (Attachment/Flerehan), Justice ↔ **Resolve** (Repression/Pugnahan) — the exact inverse of the Universal Table's Section IV.3 table. The pairing reads *aptitude*, not levels: every transported employee starts at **Level 0** in all four R.D. Attributes and earns points only through survived Han exposure (3+ consecutive days; ~1–3 points/day by Potency, keyed by Element; Level III = safe-work gate — full law at Universal Table §IV.3 / Part IV.4). A level-specific rule written against an LC stat therefore never confers a phantom R.D. level. SP-denominated costs become Composure costs, and E.G.O stat requirements become the M.A.W. record's operative requirements before Composure Load (Section VIII.3) is applied.
 
 #### 2. The Absolute Two-Work-Type Rule for Inanimate Entities
 
@@ -808,6 +817,12 @@ Beyond the relic log tiers above, a native's Observation Level track converts to
 
 *The complete text of the **Complete System Comparison: Somnarak vs. Lobotomy Corporation** (Expanded Story Edition), carried verbatim (as corrected 2026-10-30) on the same principle: the worldbuilding and facility-scale systems Part I defers to — the two rivers and their contact geometries (§2A), the Four Watches, departmental Realizations — are needed inside the overhaul, not one file away. The standalone file (`COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md`) remains the archival original.*
 
+## COMPLETE SYSTEM COMPARISON: SOMNARAK vs. Lobotomy Corporation
+### Direct 1-to-1 Universe, Mechanics & Narrative Reference
+#### Expanded Story Edition
+
+> **Combined-edition note (2026-10-30):** this comparison is carried in full as **Part III** of the *Universal Sorrow Entity to Abnormality Conversion Table* (combined overhaul edition), so the overhaul stands self-sufficient. This standalone file remains the archival original.
+
 ```text
 +========================================================================+
 |          COMPLETE SYSTEM COMPARISON // EXPANDED STORY EDITION          |
@@ -989,10 +1004,10 @@ Lobotomy Corporation uses four standardized work types. Somnarak formalizes cont
 
 | Lobotomy Corp Work | Somnarak Absolvohan Work | Meaning & Method | Tested Employee / Operative Stat |
 |---|---|---|---|
-| **Instinct** (Physical care) | **Viderehan (  관조한   / *Gwanjohan*)** | **Observation** — Monitoring acoustic frequencies and resonance from safety. | Fortitude (LC) / **Resilience** & **Clarity** (PS) |
-| **Insight** (Environment care) | **Ferrehan (  인내한   / *Innaehan*)** | **Endurance** — Entering the unit to physically endure ambient pressure and cold. | Prudence (LC) / **Resilience** & **Composure** (PS) |
-| **Attachment** (Social interaction)| **Flerehan (  통곡한   / *Tonggokhan*)** | **Weeping / Catharsis** — Empathetic emotional dialogue and reciprocal crying. | Temperance (LC) / **Composure** (PS) |
-| **Repression** (Suppression) | **Pugnahan (  격투한   / *Gyeoktuhan*)** | **Confrontation / Wrath** — Kinetic suppression strikes to beat back growth. | Justice (LC) / **Resolve** (PS) |
+| **Instinct** (Physical care) | **Ferrehan (  인내한   / *Innaehan*)** | **Endurance** — Entering the unit to physically endure ambient pressure and cold. | Fortitude (LC) / **Resilience** & **Resolve** (PS) |
+| **Insight** (Environment care) | **Viderehan (  관조한   / *Gwanjohan*)** | **Observation** — Monitoring acoustic frequencies and resonance from safety. | Prudence (LC) / **Clarity** & **Composure** (PS) |
+| **Attachment** (Social interaction)| **Flerehan (  통곡한   / *Tonggokhan*)** | **Weeping / Catharsis** — Empathetic emotional dialogue and reciprocal crying. | Temperance (LC) / **Composure** & **Clarity** (PS) |
+| **Repression** (Suppression) | **Pugnahan (  격투한   / *Gyeoktuhan*)** | **Confrontation / Wrath** — Kinetic suppression strikes to beat back growth. | Justice (LC) / **Resolve** & **Resilience** (PS) |
 
 #### 7.2 The Inviolable Two-Work-Type Rule (Non-Subject Entities)
 - **In Lobotomy Corporation:** Employees perform all four work types on almost all Abnormalities.
@@ -1207,8 +1222,8 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **PE-Box / NE-Box** | **Han Yield (  한 생산량   )** | The measure of positive extraction vs volatile waste per cycle. |
 | **Qliphoth Meltdown** | **Atmospheric Watch (  사경   )** | Facility-wide crisis timer triggering increased entity aggression. |
 | **Qliphoth Counter** | **Sorrow Gauge (  비탄 척도   ) & Activation Thresholds** | Not one mechanism but two: continuous Gauge pressure (0–100%, moved by work outcomes) and discrete threshold conditions (named states, counts, timers). An SE may file either or both; breach fires on Gauge saturation or threshold completion. |
-| **Instinct Work** | **Viderehan (  관조한   / *Gwanjohan*)** | Containment via remote acoustic observation and frequency monitoring. |
-| **Insight Work** | **Ferrehan (  인내한   / *Innaehan*)** | Containment via direct physical endurance inside the chamber. |
+| **Insight Work** | **Viderehan (  관조한   / *Gwanjohan*)** | Containment via remote acoustic observation and frequency monitoring. |
+| **Instinct Work** | **Ferrehan (  인내한   / *Innaehan*)** | Containment via direct physical endurance inside the chamber. |
 | **Attachment Work** | **Flerehan (  통곡한   / *Tonggokhan*)** | Containment via reciprocal empathetic weeping and emotional dialogue. |
 | **Repression Work** | **Pugnahan (  격투한   / *Gyeoktuhan*)** | Containment via wrathful kinetic strikes to suppress entity growth. |
 | **Sanity (SP)** | **Composure (  침착성   )** | Mental equilibrium; when depleted, operative suffers Composure Rupture. |
@@ -1246,7 +1261,7 @@ To illustrate the contrasting atmosphere, narrative tone, and operational jargon
 
 ### 19. Verification & Canonical Compliance Seal
 
-Conversion-rule coverage for every system compared in this document is audited in **Appendix A of the Universal Conversion Table** (`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md`): 40 systems, each with its conversion law located in both directions, the facility-scale rows (34–37) resting on this comparison. This seal stands under that matrix.
+Conversion-rule coverage for every system compared in this document is audited in **Appendix A of the Universal Conversion Table** (`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md`): 46 systems, each with its conversion law located in both directions — the facility-scale rows (34–37) resting on this comparison, rows 41–46 on the owner's original tables (Part IV of the combined edition). This seal stands under that matrix.
 
 ```text
 +========================================================================+
@@ -1264,16 +1279,1167 @@ Conversion-rule coverage for every system compared in this document is audited i
 
 ---
 
+## PART IV — THE OWNER'S ORIGINAL TABLES (the specially created Threat Score system, carried in full)
+
+*The owner's five original conversion tables, authored on the owner's own machine and supplied for this overhaul, carried in full and verbatim (provenance notes included, two disclosed lint normalizations). These are the source documents of the laws Part I now applies: the **Threat Score Transformation Tables** — the specially created system that upgrades and downgrades every SE's threat tier (IV.1 · IV.2 §II–IV · IV.3 §I–III) — the **R.D. Attribute levels and Nugget acquisition** (IV.4), the corrected work pairing, the breach taxonomy, and both direction's 15-step conversion orders (IV.2 · IV.3). Where a quick map in this Part and Part I's overhaul law differ — the designation letters and serials are the known case — Section II.4's reconciliation note governs assignment; the originals below are never edited to agree. The standalone files remain the archival originals.*
+
+---
+
+## PART IV.1 — THE THREAT SCORE TRANSFORMATION TABLE
+
+*(Original file: "L Corp & R.D Conversion Table" (markdown file) — standalone archival original filed beside this overhaul.)*
+
+## **LOBOTOMY CORPORATION And REVERIE DIRECTORATE - TRANSFORMATION TABLE**
+
+> **Combined-edition note (2026-10-30):** Owner's laptop original — the Threat Score transformation core — filed verbatim from the owner's dump and carried in full as **Part IV.1** of the *Universal Sorrow Entity to Abnormality Conversion Table* (combined overhaul edition). This standalone file remains the archival original.
+
+
+| Score | L Corp Level |
+| ----- | ------------ |
+| 2–3   | ZAYIN        |
+| 4–5   | TETH         |
+| 6     | HE           |
+| 7–8   | WAW          |
+| 9–10  | ALEPH        |
+
+---
+
+### ZAYIN Table (Score 2–3)
+
+|Potency|Coherence|Score|L Corp Level|Somnarak Threat|
+|---|---|---|---|---|
+|**α** (Minor)|**I** (Residue)|2|ZAYIN|Minor|
+|**α** (Minor)|**II** (Echo)|3|ZAYIN|Minor|
+|**β** (Moderate)|**I** (Residue)|3|ZAYIN|Minor|
+
+---
+
+### TETH Table (Score 4–5)
+
+|Potency|Coherence|Score|L Corp Level|Somnarak Threat|
+|---|---|---|---|---|
+|**α** (Minor)|**III** (Fragment)|4|TETH|Moderate|
+|**α** (Minor)|**IV** (Entity)|5|TETH|Moderate|
+|**β** (Moderate)|**II** (Echo)|4|TETH|Moderate|
+|**β** (Moderate)|**III** (Fragment)|5|TETH|Moderate|
+|**γ** (Major)|**I** (Residue)|4|TETH|Moderate|
+|**γ** (Major)|**II** (Echo)|5|TETH|Moderate|
+|**δ** (Critical)|**I** (Residue)|5|TETH|Moderate|
+
+---
+
+### HE Table (Score 6)
+
+|Potency|Coherence|Score|L Corp Level|Somnarak Threat|
+|---|---|---|---|---|
+|**α** (Minor)|**V** (Sovereign)|6|HE|Major|
+|**β** (Moderate)|**IV** (Entity)|6|HE|Major|
+|**γ** (Major)|**III** (Fragment)|6|HE|Major|
+|**δ** (Critical)|**II** (Echo)|6|HE|Major|
+|**ω** (Catastrophic)|**I** (Residue)|6|HE|Major|
+
+---
+
+### WAW Table (Score 7–8)
+
+|Potency|Coherence|Score|L Corp Level|Somnarak Threat|
+|---|---|---|---|---|
+|**β** (Moderate)|**V** (Sovereign)|7|WAW|Critical|
+|**γ** (Major)|**IV** (Entity)|7|WAW|Critical|
+|**δ** (Critical)|**III** (Fragment)|7|WAW|Critical|
+|**ω** (Catastrophic)|**II** (Echo)|7|WAW|Critical|
+|**γ** (Major)|**V** (Sovereign)|8|WAW|Critical|
+|**δ** (Critical)|**IV** (Entity)|8|WAW|Critical|
+|**ω** (Catastrophic)|**III** (Fragment)|8|WAW|Critical|
+
+---
+
+### ALEPH Table (Score 9–10)
+
+| Potency              | Coherence         | Score | L Corp Level | Somnarak Threat |
+| -------------------- | ----------------- | ----- | ------------ | --------------- |
+| **δ** (Critical)     | **V** (Sovereign) | 9     | ALEPH        | Catastrophic    |
+| **ω** (Catastrophic) | **IV** (Entity)   | 9     | ALEPH        | Catastrophic    |
+| **ω** (Catastrophic) | **V** (Sovereign) | 10    | ALEPH        | Catastrophic    |
+
+---
+### **CONVERSION BASE OF THREAT LEVEL**
+### **DAMAGE / ATK**
+1. **ZAYIN Level Entity** = 1 Base ATK = x1 to x0.5
+2. **TETH Level Entity** = 1 Base ATK = x1.2 to x1.4
+3. **HE Level Entity** = 1 base ATK = x1.4 to x1.8
+4. **WAW Level Entity** = 1 base ATK = x1.8 to x1
+5. **ALEPH Level Entity** = 1 base ATK = x1 to x0.5
+   
+### **HEALTH / HP**
+1. **ZAYIN Level Entity** = 1 Base HP = x0.2
+2. **TETH Level Entity** = 1 Base HP = x0.4
+3. **HE Level Entity** = 1 Base HP = x1.8
+4. **WAW Level Entity** = 1 base HP = x4
+5. **ALEPH Level Entity** = 1 Base HP = x10
+   
+## **NOTE : EVERY NUMBER CANT BE DECIMAL SO ROUND THEM UP**
+
+---
+
+## PART IV.2 — THE FIELD-BY-FIELD CONVERSION REFERENCE
+
+*(Original file: `SOMNARAK_TO_LCORP_CONVERSION_TABLE.md` — standalone archival original filed beside this overhaul.)*
+
+## SOMNARAK ↔ LOBOTOMY CORPORATION — Full Conversion Reference
+### For AI-Assisted Entity Transformation (Well of Cogito grabs a Somnarak Entity)
+
+> **Combined-edition note (2026-10-30):** Owner's laptop original — the full field-by-field conversion reference — filed verbatim from the owner's dump and carried in full as **Part IV.2** of the *Universal Sorrow Entity to Abnormality Conversion Table* (combined overhaul edition). This standalone file remains the archival original.
+
+> *Give this document to an AI along with a Somnarak Entity file. The AI can use these mappings to transform the Sorrow Entity into a Lobotomy Corporation Abnormality. Every field in the entity file has an L Corp equivalent listed here.*
+
+---
+
+### I. Core Classification Mapping
+
+| Somnarak Field | L Corp Equivalent | Conversion Notes |
+|---|---|---|
+| **SECC Designation** (`C-IVδ-001 [GS]`) | **Subject Number** (`O-06-20`) | Different format. Origin letter maps loosely (see Origin below). Number stays the same. |
+| **Origin: C (City)** | **O (Original)** or general | City-born abnormalities; catch-all category |
+| **Origin: N (Inner)** | **T (Trauma)** | Personal trauma, phobias, intense emotions |
+| **Origin: O (Outside)** | **O (Original)** or **M (Mythical)** | Otherworldly, external, unknown cause |
+| **Coherence (I–V)** | — | Used WITH Potency to calculate Risk Level (see §II) |
+| **Potency (α–ω)** | — | Used WITH Coherence to calculate Risk Level (see §II) |
+| **Sorrow Category** | **Classification Code origin letter** | City→O, Inner→T, Outside→O/M (see above) |
+| **Element: Lament (Deep Blue)** | **WHITE Damage** | Attacks Mind / Sanity / emotional stability |
+| **Element: Grudge (Crimson)** | **RED Damage** | Attacks Body / HP / physical form |
+| **Element: Void (White/Pale)** | **PALE Damage** | Attacks Soul / percentage-based / identity erasure |
+| **Element: Weight (Black)** | **BLACK Damage** | Attacks both HP and Sanity (mixed) |
+| **Element: Mixed** | **Multiple Damage Types** | Entity deals 2+ damage types |
+| **Manifestation: Subject** | **Humanoid / Creature** | Can breach, move, act independently |
+| **Manifestation: Object** | **Inanimate / Tool-type (code 04/09)** | Fixed, can breach via Transform; may activate |
+| **Manifestation: Place** | **Location-type** | The location itself is the abnormality |
+| **R.D. Observation Level (0–4)** | **Observation Level (I–IV)** | Direct 1:1. Somnarak 0=Unknown → L Corp locked. Somnarak 4=Mastered → L Corp IV all unlocked. |
+
+---
+
+### II. Risk Level Conversion (Threat Score)
+
+**Formula:** `Threat Score = Potency rank + Coherence rank`
+
+| Potency | Rank | Coherence | Rank |
+|---|---|---|---|
+| α (Minor) | 1 | I (Residue) | 1 |
+| β (Moderate) | 2 | II (Echo) | 2 |
+| γ (Major) | 3 | III (Fragment) | 3 |
+| δ (Critical) | 4 | IV (Entity) | 4 |
+| ω (Catastrophic) | 5 | V (Sovereign) | 5 |
+
+| Score | L Corp Risk Level | Somnarak Threat |
+|---|---|---|
+| 2–3 | **ZAYIN** | Minor |
+| 4–5 | **TETH** | Moderate |
+| 6 | **HE** | Major |
+| 7–8 | **WAW** | Critical |
+| 9–10 | **ALEPH** | Catastrophic |
+
+**Example:** The Maw is Coherence IV + Potency ω = Score 9 = **ALEPH**
+
+---
+
+### III. HP Conversion
+
+| L Corp Risk Level | HP Multiplier | Formula |
+|---|---|---|
+| ZAYIN | ×0.2 | `ceil(base_HP × 0.2)` |
+| TETH | ×0.4 | `ceil(base_HP × 0.4)` |
+| HE | ×1.8 | `ceil(base_HP × 1.8)` |
+| WAW | ×4 | `ceil(base_HP × 4)` |
+| ALEPH | ×10 | `ceil(base_HP × 10)` |
+
+**NOTE: Every number must be a whole number — always round UP (ceil). No decimals.**
+
+**Example:** Somnarak entity has 415/1000 HP, Threat Score 4 (TETH). L Corp HP = ceil(415 × 0.4) = **166 HP**.
+
+---
+
+### IV. ATK / Damage Conversion
+
+| L Corp Risk Level | ATK Multiplier | Formula |
+|---|---|---|
+| ZAYIN | ×0.5–1.0 | `ceil(base_ATK × rand(0.5, 1.0))` |
+| TETH | ×1.2–1.4 | `ceil(base_ATK × rand(1.2, 1.4))` |
+| HE | ×1.4–1.8 | `ceil(base_ATK × rand(1.4, 1.8))` |
+| WAW | ×1.0–1.8 | `ceil(base_ATK × rand(1.0, 1.8))` |
+| ALEPH | ×0.5–1.0 | `ceil(base_ATK × rand(0.5, 1.0))` — but add **Instant Death** mechanics |
+
+**NOTE: Every number must be a whole number — always round UP (ceil). No decimals.**
+
+**Note:** HE-tier entities are the peak raw damage dealers. WAW entities hit hard but with wider variance. ALEPH entities deal less per-hit damage but compensate with **Instant Death / instakill abilities** (Somnarak: Instant Fracture).
+
+**Damage Type Mapping:**
+
+| Somnarak Element | L Corp Damage Type | What It Attacks |
+|---|---|---|
+| Lament (Deep Blue) | **WHITE** | Sanity / SP / mental health |
+| Grudge (Crimson) | **RED** | HP / physical health |
+| Void (Pale White) | **PALE** | Percentage of max HP (soul/identity) |
+| Weight (Black) | **BLACK** | Both HP and Sanity simultaneously |
+
+**Example:** Somnarak entity deals 10–23 Lament damage, Threat Score 4 (TETH). L Corp damage = WHITE, ceil(10×1.2)–ceil(23×1.4) = **12–33 WHITE damage**.
+
+---
+
+### V. Energy / Resource Mapping
+
+| Somnarak | L Corp | Notes |
+|---|---|---|
+| **Han-Energy** | **Enkephalin** | The energy produced by working with entities. Powers the city/facility. |
+| **Han-Energy yield** (per work cycle) | **PE-Boxes** (Positive Enkephalin boxes) | Successful work produces PE. Amount varies by entity. |
+| **Negative Han buildup** | **NE-Boxes** (Negative Enkephalin) | Failed work produces NE, which damages the worker. |
+| **Sorrow Gauge %** | **Mood / Energy state** | Low % = Good mood. High % = Bad mood. Determines work outcome quality. |
+| **Starting Sorrow Gauge range** | **E-Box outcome ranges** (Good/Normal/Bad) | The gauge range maps to how many PE-Boxes are needed for Good/Normal/Bad results. |
+| **Han (the structural force)** | **Enkephalin / Cogito** | The fundamental substance. Han = structural grief. Enkephalin = harvestable energy from grief. Cogito = the raw substance from the Well. |
+| **The Weeping** | **The Well / The River** | The source of all entities. Somnarak: underground river of liquid Han. L Corp: the Well of Cogito / the River. |
+
+---
+
+### VI. Work Type Mapping
+
+| Somnarak Work Type | L Corp Work | Axis | Element | What It Does |
+|---|---|---|---|---|
+| **Flerehan** (Tears) | **Attachment** | Physical + Lament | Empathy / bonding | Approach with emotion; weep alongside the entity |
+| **Pugnahan** (Confrontation) | **Repression** | Physical + Grudge | Force / dominance | Confront, resist, suppress aggression |
+| **Viderehan** (Observation) | **Insight** | Mental + Void | Study / detachment | Observe from distance; analyze without engaging |
+| **Ferrehan** (Endurance) | **Instinct** | Mental + Weight | Patience / presence | Endure the entity's presence; contain through will |
+
+**Work Favor / Preference:**
+Somnarak's Work Type table (Response + Gauge Change per type) maps directly to L Corp's **Work Preferences** (success rate percentages per work type per agent level).
+
+- Gauge "Decrease" = high success rate work (entity responds well)
+- Gauge "Increase" = low success rate work (entity resists)
+- Gauge "Stable" = moderate success rate
+
+---
+
+### VII. Breach & Activation Mapping
+
+| Somnarak | L Corp | Notes |
+|---|---|---|
+| **Breach Type: Escape** | **Standard Breach** | Entity leaves containment, roams facility |
+| **Breach Type: Corrupt** | **Corrupting Breach** | Entity damages the facility/containment |
+| **Breach Type: Transform** | **Transformation** | Entity changes form, escalates |
+| **Breach Type: Cascade** | **Cascading Breach** | Triggers other entities to breach |
+| **Activation threshold** (Gauge ≥ X%) | **Qliphoth Counter** reaching 0 | The trigger condition for breach |
+| **Sorrow Tide** (nightly Han surge) | **Qliphoth Meltdown** | Escalation event that pressures containment |
+| **Ordeals** | **Ordeals** | External hostile events (already mapped: 5 Colors × 4 Watches) |
+| **Instant Fracture** | **Instant Death / Instakill** | ω-grade (ALEPH) entity ability that removes a target instantly |
+
+---
+
+### VIII. Personnel Stats Mapping
+
+| Somnarak Stat | L Corp Equivalent | What It Measures |
+|---|---|---|
+| **Clarity** | **Prudence / Sanity (SP)** | Mental clarity, ability to resist WHITE/PALE |
+| **Composure** | **Temperance** | Emotional stability, ability to resist WHITE |
+| **Resilience** | **Fortitude / HP** | Physical toughness, ability to resist RED |
+| **Resolve** | **Justice** | Willpower, overall competence |
+| **Fracture** (Stage 1–4) | **Panic** (various types) | What happens when Sanity hits 0 |
+| **Architect's Mark** | **(no direct equivalent)** | Somnarak-specific: physical changes from Han exposure |
+
+---
+
+### IX. Equipment Mapping
+
+| Somnarak | L Corp | Notes |
+|---|---|---|
+| **M.A.W.** (Materialized Agony Wear) | **E.G.O** (Extermination of Geometrical Organ) | Equipment extracted from entities. Somnarak = M.A.W. L Corp = E.G.O. Do not mix terms. |
+| **M.A.W. Weapon** | **E.G.O Weapon** | Somnarak: M.A.W. Weapon. L Corp: E.G.O Weapon. Changes damage type and attack value. |
+| **M.A.W. Suit (Armor)** | **E.G.O Suit** | Somnarak: M.A.W. Suit. L Corp: E.G.O Suit. Changes damage resistances. |
+| **M.A.W. Gift (Accessory)** | **E.G.O Gift** | Somnarak: M.A.W. Gift. L Corp: E.G.O Gift. Passive stat buff, random acquisition. |
+| **M.A.W. Grade: α** | **E.G.O Grade: ZAYIN** | Lowest tier equipment |
+| **M.A.W. Grade: β** | **E.G.O Grade: TETH** | |
+| **M.A.W. Grade: γ** | **E.G.O Grade: HE** | |
+| **M.A.W. Grade: δ** | **E.G.O Grade: WAW** | |
+| **M.A.W. Grade: ω** | **E.G.O Grade: ALEPH** | Highest tier; forbidden/experimental |
+| **M.A.W. Corrosion** | **E.G.O Corrosion** | Equipment "turns" on the user; entity personality overtakes wearer |
+
+---
+
+### X. Narrative Section Mapping
+
+| Somnarak Section | L Corp Equivalent | Notes |
+|---|---|---|
+| **이야기 보고 (Story Log)** | **Story tab entries** | Numbered lore entries unlocked via Observation Levels |
+| **최종 관찰 (Final Observation)** | **Final Observation** | Choice-based success/fail observation event |
+| **감각 묘사 (Flavor Text)** | **Flavor Text** | In-world sensory descriptions during work |
+| **증언 (Testimonium)** | **(part of Story / Managerial Tips)** | First-person quotes from personnel |
+| **기록 (Registrum)** | **Abnormality Details page** | Classification, containment, threat assessment |
+| **관찰 기록 (Observation Log)** | **Managerial Tips** | Notes on how to handle the entity |
+| **상호작용 (Entity Interactions)** | **(no direct equivalent)** | Somnarak-specific: how entities interact with each other |
+| **이야기 (Narratio)** | **(part of Story / lore)** | The entity's full narrative tale |
+| **Trivia** | **Trivia** | Same concept |
+| **Registry Addendum** | **(no direct equivalent)** | Somnarak-specific: operational interpretation + review requirement |
+
+---
+
+### XI. Organization Mapping
+
+| Somnarak | L Corp | Notes |
+|---|---|---|
+| **R.D. (Reverie Directorate)** | **Lobotomy Corporation (L Corp)** | The organization that contains entities |
+| **The Hand of Change** (facility) | **The Facility** (Lobotomy Corp HQ) | The building where entities are contained |
+| **Echo-Cores** (9 leaders) | **Sephirah / Department Heads** | The department leaders, each with unique sorrow |
+| **Director Majin** | **Ayin / X / The Manager** | Supreme authority |
+| **Secretary Seiyon** | **Angela** | The one who remembers everything, forbidden from acting |
+| **Menders** | **(Welfare Team / Healing agents)** | Independent healing contractors |
+| **Wardens** | **(Security Team / Captain)** | Enforcement and defense |
+| **Keepers** | **(Record Team / Information)** | Memory and record keepers |
+| **Collectors** | **(External extraction / Finance)** | Debt/sorrow collection |
+
+---
+
+### XII. World Concepts Mapping
+
+| Somnarak | L Corp | Notes |
+|---|---|---|
+| **Han** (collective structural grief) | **Enkephalin / Cogito** | The fundamental energy substance |
+| **The Weeping** (underground river) | **The Well of Cogito / The River** | Source of all entities |
+| **The Alpha Tree** | **The Qliphoth Tree / Sephiroth** | The central structure connecting everything |
+| **The Veil** | **Containment barriers** | The system keeping sorrow suppressed |
+| **The Raw** (unmanaged areas) | **(uncontained sectors)** | Areas without suppression |
+| **Sorrow Tide** (nightly surge) | **Qliphoth Meltdown** | Periodic escalation event |
+| **Consolihan** (annual mourning) | **(special event / Ordeal spike)** | Annual sorrow spike |
+| **Fracture** (4 stages) | **Panic → Death/Transformation** | What happens when personnel break |
+| **Efflorescence** | **E.G.O synchronization** | Positive alternative to breaking |
+| **The Cheongula** (First Sorrow) | **(backstory catastrophe)** | The founding trauma |
+| **Absolvohan** | **(Tiphereth arc / special project)** | The plan to release all sorrow at once |
+| **Echoes** (crystallized memory currency) | **PE-Boxes (as currency)** | The energy used for trade/manufacture |
+| **Zones A–E** | **Departments / Floors** | The facility divisions |
+
+---
+
+### XIII. Quick Conversion Example
+
+**Somnarak Entity:** The Torn Whisper — `C-IIβ-716 [GS]`
+- Coherence: II (Echo), Potency: β (Moderate)
+- Element: Grudge (Crimson) = **RED Damage**
+- HP: 415/1000
+- Han Pressure [ATK]: 10–23 per hit · Grudge
+
+**Step 1 — Risk Level:**
+Score = II(2) + β(2) = 4 → **TETH**
+
+**Step 2 — L Corp HP:**
+ceil(415 × 0.4) = **166 HP**
+
+**Step 3 — L Corp Damage:**
+RED damage, ceil(10 × 1.2)–ceil(23 × 1.4) = **12–33 RED**
+
+**Step 4 — L Corp Subject Number:**
+`T-02-16` (Trauma origin, animalistic/humanoid shape, #16)
+
+**Step 5 — Work Preferences:**
+Flerehan→Attachment (Decrease = High), Pugnahan→Repression (Increase = Low), Viderehan→Insight (Stable = Medium), Ferrehan→Instinct (Decrease = High)
+
+**Result:** A TETH-class Abnormality dealing 12–46 RED damage with 623 HP, best worked via Attachment, worst via Repression.
+
+---
+
+---
+
+### XIV. R.D. Attribute System (L Corp Crossover Mechanic)
+
+> When a Somnarak Sorrow Entity is imported to L Corp via the Well of Cogito, L Corp Employees (Nuggets) exposed to its Han Effects can develop **R.D. Attributes** — Somnarak-native stats that do not exist in standard L Corp employees. This represents the employee's body and mind adapting to sustained Han exposure.
+
+#### The Four R.D. Attributes
+
+Each attribute ranges from **1 (lowest) to 100 (highest)**. Points accumulate over time through exposure.
+
+| Composure | Resolve | Clarity | Resilience |
+|---|---|---|---|
+| Emotional stability — resistance to Lament/WHITE | Willpower — resistance to Weight/BLACK | Mental clarity — resistance to Void/PALE | Physical toughness — resistance to Grudge/RED |
+
+#### Attribute Levels
+
+| Level | Name | Point Range | Description |
+|---|---|---|---|
+| **Lvl 0** | None | 0 | Default for ALL L Corp employees — they have never been exposed to Han |
+| **Lvl I** | Fragile | 1–20 | Below civilian average — vulnerable to Han effects |
+| **Lvl II** | Average | 21–40 | Civilian level — can survive daily life under Han exposure |
+| **Lvl III** | Trained | 41–60 | R.D. personnel level — can perform Work Types safely |
+| **Lvl IV** | Veteran | 61–80 | Experienced personnel — can handle dangerous entities |
+| **Lvl V** | Exceptional | 81–100 | Echo-Core level — can withstand what breaks others |
+
+#### Attribute Display Format (on L Corp Employee)
+
+| Attribute | Display | Attribute | Display |
+|---|---|---|---|
+| Composure | [Level (0/I/II/III/IV/V)] [current/20] | Resolve | [Level (0/I/II/III/IV/V)] [current/20] |
+| Clarity | [Level (0/I/II/III/IV/V)] [current/20] | Resilience | [Level (0/I/II/III/IV/V)] [current/20] |
+
+Each level requires 20 points. Level 0 = 0 points. Level I = 1–20. Level II = 21–40. Etc.
+
+#### Attribute Interactions with Work Types
+
+When an L Corp employee performs L Corp Works on an imported Somnarak entity, their R.D. Attributes determine resistance to the entity's Han Effects:
+
+| L Corp Work | Somnarak Equivalent | Primary Attribute | Secondary Attribute | Failure Effect |
+|---|---|---|---|---|
+| **Attachment** | Flerehan (Tears) | **Composure** | Clarity | Emotional breakdown — crying, withdrawal |
+| **Repression** | Pugnahan (Confrontation) | **Resolve** | Resilience | Physical collapse — exhaustion, injury |
+| **Insight** | Viderehan (Observation) | **Clarity** | Composure | Mental breakdown — confusion, hallucination |
+| **Instinct** | Ferrehan (Endurance) | **Resilience** | Resolve | Total collapse — physical and mental exhaustion |
+
+**If the Primary Attribute is too low for the entity's Han Pressure [ATK], the employee suffers the Failure Effect.**
+
+#### How L Corp Employees Gain R.D. Attributes
+
+1. **The employee must survive 3+ consecutive days** while sustaining a Somnarak Entity's Han Effect (working on the entity or being in its containment zone).
+2. **Points accumulate automatically** — the employee gains points toward the R.D. Attribute(s) associated with the entity's Element/Work Type they have been sustaining.
+3. **The attribute gained depends on the entity's Element:**
+
+| Entity Element | Han Effect Type | Attribute Gained | L Corp Damage Type Equivalent |
+|---|---|---|---|
+| **Lament (Deep Blue)** | Emotional pressure | **Composure** (primary), Clarity (secondary) | WHITE |
+| **Grudge (Crimson)** | Physical pressure | **Resilience** (primary), Resolve (secondary) | RED |
+| **Void (Pale White)** | Identity/mental pressure | **Clarity** (primary), Composure (secondary) | PALE |
+| **Weight (Black)** | Crushing/burden pressure | **Resolve** (primary), Resilience (secondary) | BLACK |
+| **Mixed** | Multiple pressures | Gains split across all four attributes | Multiple |
+
+4. **All L Corp employees start at Level 0** in every R.D. Attribute — they have never been exposed to Han Effects before. The R.D. Attribute system is entirely new to L Corp personnel.
+5. **Points accumulate at approximately 1–3 points per day** of sustained exposure, depending on the entity's Potency (higher Potency = faster gain but higher risk).
+6. **If an employee's R.D. Attribute reaches Level III (Trained, 41+ points), they can safely perform the associated Work Type on Somnarak entities without the Failure Effect.**
+
+#### Example
+
+An L Corp employee works on an imported Somnarak Grudge entity (RED damage) for 5 days:
+- Days 1–3: No R.D. Attribute gain (minimum 3-day survival threshold not yet met).
+- Day 3: Threshold met. Employee begins accumulating **Resilience** points (primary) and **Resolve** points (secondary).
+- Day 5: Employee has accumulated ~6 Resilience points and ~3 Resolve points.
+- Display: `Resilience [Level I][6/20] | Resolve [Level I][3/20]`
+- The employee is still **Fragile** — vulnerable. They need to reach Level III (41+ points, roughly 20+ more days) to safely handle Grudge entities.
+
+---
+
+*"Give this document and any Somnarak Entity file to an AI. Tell it: 'The Well of Cogito has grabbed this Somnarak Sorrow Entity and is transforming it into a Lobotomy Corporation Abnormality. Use the conversion reference to translate every field. L Corp employees exposed to this entity will develop R.D. Attributes per section XIV.' The AI should output a full L Corp Abnormality wiki page."*
+
+---
+
+## PART IV.3 — THE CREATOR-REFERENCE RISK PARALLEL
+
+*(Original file: `SOMNARAK_LCORP_RD_RISK_PARALLEL.md` — standalone archival original filed beside this overhaul.)*
+
+## Somnarak — L Corp Risk Level and R.D. Classification Parallel
+
+> **Combined-edition note (2026-10-30):** Owner's laptop original — the creator-reference parallel (Threat Score, multipliers, conversion orders) — filed verbatim from the owner's dump and carried in full as **Part IV.3** of the *Universal Sorrow Entity to Abnormality Conversion Table* (combined overhaul edition). This standalone file remains the archival original.
+
+### Purpose
+
+This document provides a parallel reference between **Lobotomy Corporation Risk Levels** and the **Somnarak Reverie Directorate classification system**.
+
+It is intended to help another AI or compiler understand how to mirror an Abnormality concept into a Somnarak Sorrow Entity, and how to convert a Somnarak Entity into an L Corp Abnormality, without treating the two systems as identical.
+
+**Status:** Creator-reference parallel guide. Updated to reflect the current Threat Score system, HP/ATK multipliers, R.D. Attribute crossover mechanic, and all established conversion formulas. It does not replace Somnarak canon, SECC, the Entity Codex, or the Battle System.
+
+---
+
+### I. Threat Score System (Risk Level Conversion)
+
+L Corp uses a single Risk Level (ZAYIN → ALEPH). Somnarak uses two axes — **Potency** and **Coherence** — that combine into a **Threat Score** mapping to the L Corp system.
+
+#### Formula
+
+```
+Threat Score = Potency Rank + Coherence Rank
+```
+
+| Potency | Rank | Coherence | Rank |
+|---|---|---|---|
+| α (Minor) | 1 | I (Residue) | 1 |
+| β (Moderate) | 2 | II (Echo) | 2 |
+| γ (Major) | 3 | III (Fragment) | 3 |
+| δ (Critical) | 4 | IV (Entity) | 4 |
+| ω (Catastrophic) | 5 | V (Sovereign) | 5 |
+
+#### Score → Risk Level
+
+| Score | L Corp Risk Level | Somnarak Threat |
+|---|---|---|
+| 2–3 | **ZAYIN** | Minor |
+| 4–5 | **TETH** | Moderate |
+| 6 | **HE** | Major |
+| 7–8 | **WAW** | Critical |
+| 9–10 | **ALEPH** | Catastrophic |
+
+#### All 25 Combinations
+
+| | **I** (Residue) | **II** (Echo) | **III** (Fragment) | **IV** (Entity) | **V** (Sovereign) |
+|---|---|---|---|---|---|
+| **α** (Minor) | **ZAYIN** (2) | **ZAYIN** (3) | TETH (4) | TETH (5) | HE (6) |
+| **β** (Moderate) | **ZAYIN** (3) | TETH (4) | TETH (5) | HE (6) | WAW (7) |
+| **γ** (Major) | TETH (4) | TETH (5) | HE (6) | WAW (7) | WAW (8) |
+| **δ** (Critical) | TETH (5) | HE (6) | WAW (7) | WAW (8) | **ALEPH** (9) |
+| **ω** (Catastrophic) | HE (6) | WAW (7) | WAW (8) | **ALEPH** (9) | **ALEPH** (10) |
+
+#### Canon Examples
+
+| Entity | Potency + Coherence | Score | Risk Level |
+|---|---|---|---|
+| The Kind Echo (000) | α + I | 2 | ZAYIN |
+| The Torn Whisper (716) | β + II | 4 | TETH |
+| The Frozen Tear (100) | β + II | 4 | TETH |
+| The Maw (001) | ω + IV | 9 | ALEPH |
+| The Dawn of Mourning | ω + V | 10 | ALEPH |
+
+---
+
+### II. HP Conversion
+
+Somnarak uses **X/X of 1000** for entity HP. L Corp uses absolute HP values. Convert using the multiplier for the entity's Risk Level.
+
+| L Corp Risk Level | HP Multiplier | Formula |
+|---|---|---|
+| ZAYIN | ×0.2 | `ceil(Somnarak_HP × 0.2)` |
+| TETH | ×0.4 | `ceil(Somnarak_HP × 0.4)` |
+| HE | ×1.8 | `ceil(Somnarak_HP × 1.8)` |
+| WAW | ×4 | `ceil(Somnarak_HP × 4)` |
+| ALEPH | ×10 | `ceil(Somnarak_HP × 10)` |
+
+**RULE: Every number must be a whole number — always round UP (ceil). No decimals.**
+
+**Example:** Somnarak entity has 415/1000 HP, Threat Score 4 (TETH). L Corp HP = ceil(415 × 0.4) = **166 HP**.
+
+---
+
+### III. ATK / Han Pressure Conversion
+
+Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity). L Corp uses Work Damage values. Convert using the multiplier for the entity's Risk Level.
+
+| L Corp Risk Level | ATK Multiplier | Formula |
+|---|---|---|
+| ZAYIN | ×0.5–1.0 | `ceil(base_ATK × rand(0.5, 1.0))` |
+| TETH | ×1.2–1.4 | `ceil(base_ATK × rand(1.2, 1.4))` |
+| HE | ×1.4–1.8 | `ceil(base_ATK × rand(1.4, 1.8))` |
+| WAW | ×1.0–1.8 | `ceil(base_ATK × rand(1.0, 1.8))` |
+| ALEPH | ×0.5–1.0 | `ceil(base_ATK × rand(0.5, 1.0))` — add **Instant Death** mechanics |
+
+**RULE: Always round UP. No decimals.**
+
+**Note:** HE-tier entities are the peak raw damage dealers. ALEPH entities deal less per-hit but compensate with **Instant Death / Instant Fracture** abilities.
+
+#### Damage Type Mapping
+
+| Somnarak Element | L Corp Damage Type | What It Attacks | L Corp Stat |
+|---|---|---|---|
+| **Lament (Deep Blue)** | **WHITE** | Mind / emotional stability | Sanity (SP) |
+| **Grudge (Crimson)** | **RED** | Body / physical form | HP |
+| **Void (Pale White)** | **PALE** | Soul / identity (percentage-based) | % of max HP |
+| **Weight (Black)** | **BLACK** | Both HP and Sanity | HP + SP |
+| **Mixed** | Multiple | Multiple stats | Varies |
+
+---
+
+### IV. Energy / Resource Mapping
+
+| Somnarak | L Corp | Notes |
+|---|---|---|
+| **Han-Energy** | **Enkephalin** | The energy produced by working with entities |
+| **H-Box (Han-Energy Box)** | **E-Box / PE-Box** | One unit of usable energy from successful work |
+| **Han-Energy yield** (per cycle) | **E-Box yield / PE-Box yield** | How much energy each work produces |
+| **Positive Han-Energy** | **PE-Box (Positive Enkephalin)** | Refined sorrow; powers equipment and infrastructure |
+| **Negative Han-Energy** | **NE-Box (Negative Enkephalin)** | Unstable sorrow; damages the worker |
+| **Sorrow Gauge [HP]** | **Mood / Energy bar** | Low % = Good mood. High % = Bad mood |
+| **Sorrow Gauge %** | **Work outcome ranges (Good/Normal/Bad)** | Determines PE-Box yield quality |
+| **Han** (structural grief) | **Cogito / Enkephalin** | The fundamental substance |
+| **The Weeping** | **The Well / The River** | Source of all entities |
+
+**Recommended Somnarak entity-file wording:**
+
+```markdown
+**Han-Energy Yield:** 12 H-Boxes per successful work cycle
+**Sorrow Gauge [HP]:** 415/415 of 1000
+**Han Pressure [ATK]:** 10–23 per hit · Lament
+```
+
+---
+
+### V. Work Type Mapping
+
+| Somnarak Work Type | L Corp Work | Axis | Element | What It Does |
+|---|---|---|---|---|
+| **Flerehan** (Tears) | **Attachment** | Physical + Lament | Empathy / bonding | Weep alongside the entity; share grief |
+| **Pugnahan** (Confrontation) | **Repression** | Physical + Grudge | Force / dominance | Confront, resist, suppress aggression |
+| **Viderehan** (Observation) | **Insight** | Mental + Void | Study / detachment | Observe without engaging emotionally |
+| **Ferrehan** (Endurance) | **Instinct** | Mental + Weight | Patience / presence | Endure sustained presence; contain through will |
+
+**Gauge Change → Work Success Rate:**
+- **Decrease** = High success rate (entity responds well; best work)
+- **Stable** = Moderate success rate (neutral response)
+- **Increase** = Low success rate (entity resists; worst work)
+
+---
+
+### VI. Equipment Mapping (M.A.W. ≠ E.G.O)
+
+| Somnarak | L Corp | Notes |
+|---|---|---|
+| **M.A.W.** (Materialized Agony Wear) | **E.G.O** (Extermination of Geometrical Organ) | Equipment extracted from entities. **Do not mix terms.** Somnarak = M.A.W. L Corp = E.G.O. |
+| **M.A.W. Weapon** | **E.G.O Weapon** | Changes damage type and attack value |
+| **M.A.W. Suit (Armor)** | **E.G.O Suit** | Changes damage resistances |
+| **M.A.W. Gift (Accessory)** | **E.G.O Gift** | Passive stat buff; random acquisition |
+| **M.A.W. Grade: α** | **E.G.O Grade: ZAYIN** | Lowest tier |
+| **M.A.W. Grade: β** | **E.G.O Grade: TETH** | |
+| **M.A.W. Grade: γ** | **E.G.O Grade: HE** | |
+| **M.A.W. Grade: δ** | **E.G.O Grade: WAW** | |
+| **M.A.W. Grade: ω** | **E.G.O Grade: ALEPH** | Highest tier; forbidden/experimental |
+| **M.A.W. Corrosion** | **E.G.O Corrosion** | Equipment turns on the user |
+
+---
+
+### VII. Breach & Activation Mapping
+
+| Somnarak | L Corp | Notes |
+|---|---|---|
+| **Breach Type: Escape** | **Standard Breach** | Entity leaves containment, roams facility |
+| **Breach Type: Corrupt** | **Corrupting Breach** | Entity damages facility/containment |
+| **Breach Type: Transform** | **Transformation** | Entity changes form, escalates |
+| **Breach Type: Cascade** | **Cascading Breach** | Triggers other entities to breach |
+| **Activation threshold** (Gauge ≥ X%) | **Qliphoth Counter** reaching 0 | The trigger condition |
+| **Sorrow Tide** (nightly Han surge) | **Qliphoth Meltdown** | Escalation event |
+| **Ordeals** | **Ordeals** | External hostile events (5 Colors × 4 Watches) |
+| **Instant Fracture** | **Instant Death / Instakill** | ω-grade (ALEPH) entity special |
+
+---
+
+### VIII. Personnel Stats Mapping
+
+| Somnarak Stat | L Corp Equivalent | What It Measures |
+|---|---|---|
+| **Clarity** | **Prudence** | Mental clarity; resist WHITE/PALE |
+| **Composure** | **Temperance** | Emotional stability; resist WHITE |
+| **Resilience** | **Fortitude / HP** | Physical toughness; resist RED |
+| **Resolve** | **Justice** | Willpower; overall competence |
+| **Fracture** (Stage 1–4) | **Panic** (various types) | What happens when Sanity hits 0 |
+| **Architect's Mark** | *(no direct equivalent)* | Somnarak-specific: physical changes from Han exposure |
+
+---
+
+### IX. R.D. Attribute System (L Corp Crossover Mechanic)
+
+> When a Somnarak Sorrow Entity is imported to L Corp via the Well of Cogito, L Corp Employees (Nuggets) exposed to its Han Effects can develop **R.D. Attributes** — Somnarak-native stats that do not exist in standard L Corp employees.
+
+#### The Four R.D. Attributes
+
+| Composure | Resolve | Clarity | Resilience |
+|---|---|---|---|
+| Emotional stability — resists Lament/WHITE | Willpower — resists Weight/BLACK | Mental clarity — resists Void/PALE | Physical toughness — resists Grudge/RED |
+
+Each ranges from **1 (lowest) to 100 (highest)**. Points accumulate through sustained Han exposure.
+
+#### Attribute Levels
+
+| Level | Name | Points | Description |
+|---|---|---|---|
+| **Lvl 0** | None | 0 | **Default for ALL L Corp employees** — never exposed to Han |
+| **Lvl I** | Fragile | 1–20 | Below civilian average — vulnerable |
+| **Lvl II** | Average | 21–40 | Civilian level — can survive daily Han exposure |
+| **Lvl III** | Trained | 41–60 | R.D. personnel level — can perform Work Types safely |
+| **Lvl IV** | Veteran | 61–80 | Experienced — can handle dangerous entities |
+| **Lvl V** | Exceptional | 81–100 | Echo-Core level — withstands what breaks others |
+
+#### Attribute Display Format
+
+| Attribute | Display | Attribute | Display |
+|---|---|---|---|
+| Composure | [Level (0/I/II/III/IV/V)] [current/20] | Resolve | [Level (0/I/II/III/IV/V)] [current/20] |
+| Clarity | [Level (0/I/II/III/IV/V)] [current/20] | Resilience | [Level (0/I/II/III/IV/V)] [current/20] |
+
+#### Attribute ↔ Work Type Interactions
+
+| L Corp Work | Somnarak Equivalent | Primary Attribute | Secondary Attribute | Failure Effect |
+|---|---|---|---|---|
+| **Attachment** | Flerehan (Tears) | **Composure** | Clarity | Emotional breakdown — crying, withdrawal |
+| **Repression** | Pugnahan (Confrontation) | **Resolve** | Resilience | Physical collapse — exhaustion, injury |
+| **Insight** | Viderehan (Observation) | **Clarity** | Composure | Mental breakdown — confusion, hallucination |
+| **Instinct** | Ferrehan (Endurance) | **Resilience** | Resolve | Total collapse — physical and mental exhaustion |
+
+#### How L Corp Employees Gain R.D. Attributes
+
+1. **Survive 3+ consecutive days** sustaining a Somnarak Entity's Han Effect.
+2. **Points accumulate automatically** (~1–3/day based on entity Potency).
+3. **Attribute gained depends on the entity's Element:**
+
+| Entity Element | Attribute Gained (Primary) | Attribute Gained (Secondary) | L Corp Damage |
+|---|---|---|---|
+| **Lament (Deep Blue)** | Composure | Clarity | WHITE |
+| **Grudge (Crimson)** | Resilience | Resolve | RED |
+| **Void (Pale White)** | Clarity | Composure | PALE |
+| **Weight (Black)** | Resolve | Resilience | BLACK |
+| **Mixed** | Split across all four | Split across all four | Multiple |
+
+4. **All L Corp employees start at Level 0.** The R.D. Attribute system is entirely new to them.
+5. **Reach Level III (41+ points)** to safely perform the associated Work Type without Failure Effects.
+
+---
+
+### X. SECC Code System (5 × 5 × 5 × 5)
+
+#### Designation Format
+
+```
+SE-[Origin]-[Coherence][Potency]-[Number] [Element][Manifestation]
+Example: SE-C-IVδ-001 [GS]
+```
+
+| Component | Codes (5 each) |
+|---|---|
+| **Origin** | `C` City · `N` Inner · `O` Outside |
+| **Coherence** | `I` Residue · `II` Echo · `III` Fragment · `IV` Entity · `V` Sovereign |
+| **Potency** | `α` Minor · `β` Moderate · `γ` Major · `δ` Critical · `ω` Catastrophic |
+| **Element** | `L` Lament (Deep Blue) · `G` Grudge (Crimson) · `V` Void (Pale White) · `W` Weight (Black) · `M` Mixed |
+| **Manifestation** | `S` Subject · `O` Object · `P` Place · `T` Time · `H` Hybrid |
+
+#### Sorrow Category
+
+| Code | Korean | Source |
+|---|---|---|
+| **C (City)** | 도한 (Dohan) | City systems, institutions, accumulated institutional grief |
+| **O (Outside)** | 외한 (Oehan) | Wilderness, Desolate, external forces |
+| **N (Inner)** | 내한 (Naehan) | Personal grief, individual trauma |
+
+---
+
+### XI. Narrative Section Mapping
+
+| Somnarak Section | L Corp Equivalent | Notes |
+|---|---|---|
+| **이야기 보고 (Story Log)** | **Story tab entries** | 5 numbered entries unlocked via Observation Levels |
+| **최종 관찰 (Final Observation)** | **Final Observation** | Choice-based success/fail observation |
+| **감각 묘사 (Flavor Text)** | **Flavor Text** | Sensory descriptions during work |
+| **증언 (Testimonium)** | *(part of Story)* | First-person personnel quotes |
+| **기록 (Registrum)** | **Abnormality Details page** | Classification, containment, threat |
+| **관찰 기록 (Observation Log)** | **Managerial Tips** | How to handle the entity |
+| **상호작용 (Entity Interactions)** | *(no direct equivalent)* | How entities interact with each other |
+| **이야기 (Narratio)** | *(part of Story / lore)* | Full narrative tale (350–500 words) |
+| **Trivia** | **Trivia** | Same concept |
+| **Registry Addendum** | *(no direct equivalent)* | Operational interpretation + review |
+
+---
+
+### XII. Organization Mapping
+
+| Somnarak | L Corp | Notes |
+|---|---|---|
+| **R.D. (Reverie Directorate)** | **Lobotomy Corporation (L Corp)** | Contains and studies entities |
+| **The Hand of Change** (facility) | **The Facility** (L Corp HQ) | Where entities are contained |
+| **Echo-Cores** (9 leaders) | **Sephirah / Department Heads** | Department leaders, each with unique sorrow |
+| **Director Majin** | **Ayin / X / The Manager** | Supreme authority |
+| **Secretary Seiyon** | **Angela** | Remembers everything, forbidden from acting |
+| **Menders** | *(Welfare Team)* | Independent healing contractors |
+| **Wardens** | *(Security Team)* | Enforcement and defense |
+| **Keepers** | *(Record Team)* | Memory and record keepers |
+| **Collectors** | *(External extraction)* | Debt/sorrow collection |
+| **Zones A–E** | **Departments / Floors** | Facility divisions |
+
+---
+
+### XIII. World Concepts Mapping
+
+| Somnarak | L Corp | Notes |
+|---|---|---|
+| **Han** (structural grief) | **Cogito / Enkephalin** | Fundamental energy substance |
+| **The Weeping** (underground river) | **The Well / The River** | Source of all entities |
+| **The Alpha Tree** | **The Qliphoth Tree** | Central structure |
+| **The Veil** | **Containment barriers** | Suppression system |
+| **Sorrow Tide** (nightly surge) | **Qliphoth Meltdown** | Periodic escalation |
+| **Consolihan** (annual mourning) | *(special event)* | Annual sorrow spike |
+| **Fracture** (4 stages) | **Panic → Death** | Personnel breakdown |
+| **Efflorescence** | **E.G.O synchronization** | Positive alternative to breaking |
+| **The Cheongula** (First Sorrow) | *(backstory catastrophe)* | Founding trauma |
+| **Absolvohan** | *(special project arc)* | Plan to release all sorrow |
+| **Echoes** (crystallized memory) | **PE-Boxes (as currency)** | Trade/manufacture unit |
+
+---
+
+### XIV. Conversion Order (Somnarak → L Corp)
+
+When the Well of Cogito grabs a Somnarak Entity:
+
+| Step | Somnarak Field | L Corp Output |
+|---|---|---|
+| 1 | Potency + Coherence | **Risk Level** (via Score) |
+| 2 | HP (X/1000) | **L Corp HP** (× multiplier, ceil) |
+| 3 | Han Pressure [ATK] | **Work Damage** (× multiplier, ceil) + Damage Type |
+| 4 | Element | **Damage Type** (Lament→WHITE, Grudge→RED, Void→PALE, Weight→BLACK) |
+| 5 | Origin (C/N/O) | **Subject Number** first letter |
+| 6 | Work Type table | **Work Preferences** (success rates per work) |
+| 7 | Han-Energy yield | **PE-Box yield** + E-Box count |
+| 8 | Sorrow Gauge | **Qliphoth Counter** / Mood |
+| 9 | M.A.W. Equipment | **E.G.O** (Weapon/Suit/Gift) |
+| 10 | Story Log | **Story tab entries** |
+| 11 | Final Observation | **Final Observation** |
+| 12 | Flavor Text | **Flavor Text** |
+| 13 | Origin / Narratio | **Story / lore** |
+| 14 | Breach Behavior | **Breach mechanics + abilities** |
+| 15 | Combat Actions | **Special abilities** |
+
+---
+
+### XV. Conversion Order (L Corp → Somnarak)
+
+When adapting an L Corp Abnormality into Somnarak:
+
+| Step | L Corp Field | Somnarak Output |
+|---|---|---|
+| 1 | Risk Level | **Starting Potency + Coherence** (via Score reverse-lookup) |
+| 2 | Subject Number origin letter | **Origin code** (F→varies, T→N, O→C/O, D→C, M→O) |
+| 3 | Work Damage type | **Element** (RED→Grudge, WHITE→Lament, BLACK→Weight, PALE→Void) |
+| 4 | HP | **Sorrow Gauge [HP]** (÷ multiplier, ceil, format X/X of 1000) |
+| 5 | Work Damage | **Han Pressure [ATK]** (÷ multiplier, ceil) |
+| 6 | E-Box count | **Han-Energy yield** (H-Boxes) |
+| 7 | Qliphoth Counter | **Activation threshold / Sorrow Gauge trigger** |
+| 8 | Work Preferences | **Work Type table** (success → Decrease, failure → Increase) |
+| 9 | E.G.O | **M.A.W. Equipment** (Weapon/Suit/Gift) |
+| 10 | Story entries | **이야기 보고 (Story Log)** |
+| 11 | Breach mechanics | **Breach Behavior + Detailed Record** |
+| 12 | Special abilities | **Combat Actions** (6 actions) |
+| 13 | Risk Level grade | **M.A.W. Grade** (ZAYIN→α, ..., ALEPH→ω) |
+| 14 | Appearance | **Appearance + Detailed Appearance Profile** |
+| 15 | Origin story | **Origin + Narratio** |
+
+---
+
+### XVI. Worked Example
+
+#### Somnarak → L Corp
+
+**Entity:** The Torn Whisper — `C-IIβ-716 [GS]`
+- Coherence: II, Potency: β → Score 4 → **TETH**
+- Element: Grudge (Crimson) → **RED Damage**
+- HP: 415/1000 → ceil(415 × 0.4) = **166 HP**
+- Han Pressure [ATK]: 10–23 → ceil(10 × 1.2)–ceil(23 × 1.4) = **12–33 RED**
+- Work Types: Flerehan↓, Pugnahan↑, Viderehan→, Ferrehan↓ → Attachment (High), Repression (Low), Insight (Medium), Instinct (High)
+- Han-Energy: 12–18 H-Boxes → **12–18 PE-Boxes**
+
+**Result:** A TETH-class Abnormality, 166 HP, dealing 12–33 RED damage, best worked via Attachment, worst via Repression, yielding 12–18 PE-Boxes.
+
+#### L Corp → Somnarak
+
+**Entity:** Nothing There — `O-06-20`, ALEPH, RED 6–9
+- Risk Level: ALEPH → Score 9–10 → **δ+V or ω+IV/V**
+- Already is: Coherence IV + Potency ω = Score 9 → matches
+- Damage: RED → **Grudge (Crimson)**
+- L Corp ATK 6–9 → Somnarak: ceil(6 ÷ 0.75)–ceil(9 ÷ 0.75) ≈ **8–12 per hit · Grudge**
+- Origin: O → **City or Outside Sorrow**
+- Designation: `C-IVω-001 [GP]` (this IS The Maw's designation — they are analogues)
+
+---
+
+### XVII. L Corp Shape / Form Codes
+
+L Corp's second number in the Subject Number (`Letter-XX-YY`) represents the Abnormality's shape/form. Somnarak's Manifestation code maps to these:
+
+| L Corp Code | L Corp Shape | Somnarak Manifestation | Notes |
+|---|---|---|---|
+| **01** | Humanoid | **Subject** (Subject-Body, Subject-Mind) | Human-like body or appendages |
+| **02** | Animalistic | **Subject** (creature/animal forms) | Non-human living entities |
+| **03** | Otherworldly / Religious | **Subject** (Subject-Spirit, Subject-Dream) or **Hybrid** | Alien, divine, incomprehensible |
+| **04** | Inanimate Object | **Object** (Object-*) | Stationary object entities |
+| **05** | Machine / Artifact | **Object** (mechanical) or **Time** | Autonomous mechanical entities |
+| **06** | Abstract / Phenomenon | **Place** or **Hybrid** | Intangible, perception-dependent |
+| **07** | Breaching Tool | **Object** (Tool-type, code 07) | Conditionally a Tool that can breach (e.g., Yang) |
+| **08** | Sin (Peccatula) | *(no Somnarak equivalent)* | L Corp-specific (Limbus Company) |
+| **09** | Tool-type | **Object** (Tool-type) | Can breach via Transform; interacted with for benefit |
+| **00** | Unknown / Training | **Subject** (training entity) | Special: The Kind Echo = Standard Training-Dummy Rabbit |
+
+---
+
+### XVIII. Tool Abnormality Types (Three Types)
+
+From L Corp wiki research, Tool Abnormalities (code 09) have three distinct use types. Somnarak's Object entities map to these via the **Tool Type** field:
+
+| Tool Type | Somnarak Relic | Behavior | Unlock Info | L Corp Examples |
+|---|---|---|---|---|
+| **Single Use Tools** | **A-Relic (Arma)** | Give a single instant effect upon use. Consumed or depleted. | **Number of Uses** | Theresia (T-09-09), Old Lady (O-01-12) |
+| **Channeled Use Tools** | **O-Relic (Officium)** | Constant work use that can be cancelled when ordered again. Sustained effect. | **Time of Use** | Don't Touch Me (O-05-47) |
+| **Equippable Tools** | **I-Relic (Indumentum)** | An Agent equips upon use. Effects persist while equipped. Returned by clicking containment or at end of day. | **Equipped state** | Crumbling Armor (O-05-61) |
+
+**Note:** The Kind Echo (SE-C-Iα-000) is the Somnarak equivalent of the Standard Training-Dummy Rabbit (0-00-00) — both are docile training entities with zero designations.
+
+---
+
+### XIX. Somnarak-Specific Systems (No Direct L Corp Equivalent)
+
+| Somnarak System | Function | Closest L Corp Equivalent |
+|---|---|---|
+| **R.D. Attributes** (Composure, Resolve, Clarity, Resilience) | Personnel stats for handling Han Effects | Employee stats (Fortitude, Prudence, Temperance, Justice) — see §IX for crossover mechanic |
+| **Sorrow Gauge [HP]** | Entity containment pressure (X/X of 1000) | Qliphoth Counter + Mood bar |
+| **Han Pressure [ATK]** | Entity damage output per hit | Work Damage value |
+| **H-Box (Han-Energy Box)** | Energy unit from successful work | PE-Box (Positive Enkephalin Box) |
+| **Fracture** (4 stages: Crack → Spread → Crystallization → Emergence) | Personnel transformation from Han overload | Panic → Death |
+| **Efflorescence** | Positive transformation (sorrow becomes strength) | E.G.O synchronization |
+| **M.A.W. Corrosion** | Equipment turning on user (4 stages) | E.G.O Corrosion |
+| **Sorrow Tide** | Nightly city-wide Han surge | Qliphoth Meltdown |
+| **Consolihan** | Annual mourning event (sorrow spike) | *(no equivalent — special event)* |
+| **Ordeals** | External hostile events (5 Colors × 4 Watches) | Ordeals (6 Colors × 4 Times) |
+| **The Veil / The Raw** | Sorrow suppression system / unmanaged areas | Containment barriers / uncontained sectors |
+
+---
+
+### XX. Crossover Implications
+
+When a Somnarak Sorrow Entity arrives in the L Corp universe through the Well of Cogito:
+
+1. **Classification Crisis:** The entity would be classified as an Abnormality, but the SECC system doesn't map perfectly. The Well would attempt to convert it using the Threat Score system (Potency + Coherence = Score → Risk Level).
+
+2. **Work Type Adaptation:** L Corp employees would map Somnarak Work Types to existing works: Flerehan→Attachment, Pugnahan→Repression, Viderehan→Insight, Ferrehan→Instinct. The entity's Work Type table (Gauge Change per type) determines success rates.
+
+3. **R.D. Attribute Development:** L Corp employees exposed to Han would develop new stats (Composure, Resolve, Clarity, Resilience) that don't exist in standard employees. They start at Level 0 and accumulate points after surviving 3+ days of sustained exposure (see §IX).
+
+4. **Equipment Translation:** M.A.W. would be converted to E.G.O. The M.A.W. trio (Weapon / Suit / Gift) maps directly to E.G.O trio. M.A.W. Grade (α–ω) maps to E.G.O Grade (ZAYIN–ALEPH). Extraction method differs: Somnarak uses resonance; L Corp uses facility extraction systems.
+
+5. **Damage Type Conversion:** Somnarak Elements map to L Corp Damage Types: Lament→WHITE, Grudge→RED, Void→PALE, Weight→BLACK. The entity's Han Pressure [ATK] converts to L Corp Work Damage via the ATK multiplier (§III).
+
+6. **HP Conversion:** Somnarak HP (X/X of 1000) converts to L Corp HP via the HP multiplier (§II). Always round up.
+
+7. **Narrative Translation:** The Somnarak Story Log (5 entries) becomes L Corp Story tab entries. The Final Observation becomes a Final Observation event. The Tale and Testimony sections fold into the Story/lore. Entity Interactions and Registry Addendum have no L Corp equivalent and may be dropped or kept as supplementary lore.
+
+8. **The Terminal (S.A.M.S.):** The Somnarak Abnormality Management System would serve as the bridge terminal between the two systems — containing the conversion tables, R.D. Attribute tracking, and real-time Threat Score calculation for any Somnarak entity the Well of Cogito pulls in. L Corp employees would access S.A.M.S. data through their standard terminal interface.
+
+---
+
+### XXI. Document Structure Comparison
+
+Side-by-side comparison of which sections exist in each system's document:
+
+| Section | Somnarak SE Document | L Corp Abnormality Document |
+|---|---|---|
+| **Classification** | SECC Designation table | Subject Number + Risk Level |
+| **Operational Parameters** | Stats, work difficulty, Han-Energy yield, Han Pressure [ATK] | E-Boxes, Qliphoth Counter, Work Damage |
+| **Combat Record** | Core Stat Line, Combat Actions (6), Battle Phases, Consequences | Managerial Works, Escape Information |
+| **Appearance** | Detailed physical description + Detailed Appearance Profile | Portrait, basic description |
+| **Origin** | Formation, Sorrow, Event, People, Expanded context | Origin story (if available) |
+| **Behavior** | Work Type responses (Flerehan/Pugnahan/Viderehan/Ferrehan) | Work Preferences/Favor (Attachment/Repression/Insight/Instinct) |
+| **Breach Behavior** | Detailed breach mechanics + Escalation Notes + Detailed Record | Escape Information + defenses |
+| **Equipment** | M.A.W. (Weapon, Suit, Gift) + Use Notes + Field Use Record | E.G.O (Weapon, Suit, Gift) |
+| **Observation Log** | 관찰 기록 + Observation Progression | Encyclopedia sections (unlockable) |
+| **Story Log** | 이야기 보고 — 5 numbered fragmentary entries | Story tab entries |
+| **Final Observation** | 최종 관찰 — choice-based success/fail event | Final Observation (some abnormalities) |
+| **Flavor Text** | 감각 묘사 — sensory descriptions | In-game flavor text |
+| **Entity Interactions** | 상호작용 — how entities interact with each other | *(no equivalent)* |
+| **Tale** | 이야기 — full narrative story (350–500 words) | *(no equivalent — folded into Story)* |
+| **Testimony** | 증언 — first-person personnel quotes | *(part of Story / Managerial Tips)* |
+| **Record** | 기록 — classification, containment, threat, procedures | Abnormality Details page |
+| **Registry Addendum** | Operational interpretation + review requirement | *(no equivalent)* |
+| **Trivia** | Canon trivia + Registry Trivia | Trivia section |
+
+---
+
+### XXII. Important Rules
+
+1. **Do not treat L Corp Risk Level and SECC as identical systems.** Use the Threat Score to bridge them.
+2. **M.A.W. is Somnarak. E.G.O is L Corp.** Never use one term for the other system's equipment.
+3. **Always round UP (ceil).** No decimal values in any stat.
+4. **HP format in Somnarak is always `X/X of 1000`.**
+5. **Han Pressure [ATK]** is the Somnarak term for damage output per hit.
+6. **H-Boxes** is the Somnarak term for energy units (equivalent to L Corp E-Boxes/PE-Boxes).
+7. Preserve the **5 × 5 × 5** code system: Origin (3+), Coherence (5), Potency (5), Element (5), Manifestation (5).
+8. Preserve **Somnarak Elements**: Lament/Grudge/Void/Weight/Mixed.
+9. **R.D. Attributes** (Composure/Resolve/Clarity/Resilience) are crossover stats for L Corp employees exposed to Han — they start at Level 0.
+10. Every Somnarak entity file follows the **fixed template structure** (SECC Classification → Operational Parameters → Combat Record → Appearance → Origin → Behavior → Breach → M.A.W. → Observation → Story Log → Final Observation → Flavor → Interactions → Tale → Testimony → Record → Trivia → Document Info).
+11. External crossover or parody entities go outside the main canon roster.
+12. Uploaded canon/reference files remain immutable.
+
+---
+
+*"Give this document and any Somnarak Entity file to an AI. Tell it: 'The Well of Cogito has grabbed this Somnarak Sorrow Entity and is transforming it into a Lobotomy Corporation Abnormality. Use the conversion reference to translate every field. L Corp employees exposed to this entity will develop R.D. Attributes per section IX.' The AI should output a full L Corp Abnormality wiki page."*
+
+---
+
+## PART IV.4 — R.D. ATTRIBUTE LEVELS AND NUGGET ACQUISITION
+
+*(Original file: `SOMNARAK_RD_ATTRIBUTE_LEVELS.md` — standalone archival original filed beside this overhaul.)*
+
+## SOMNARAK — R.D. Attribute Levels & L Corp Acquisition
+### Crossover Add-on: How Somnarak's R.D. Attributes Map to Personnel
+
+> **Combined-edition note (2026-10-30):** Owner's laptop original — the R.D. Attribute levels and Nugget acquisition add-on — filed verbatim from the owner's dump and carried in full as **Part IV.4** of the *Universal Sorrow Entity to Abnormality Conversion Table* (combined overhaul edition). This standalone file remains the archival original.
+
+> This add-on describes the **R.D. Attribute system** used in the Somnarak ↔ Lobotomy Corporation crossover, and how L Corp employees ("Nuggets") acquire Somnarak attributes through sustained exposure.
+
+---
+
+### Attribute Levels
+
+Each attribute ranges from **1 (lowest)** to **100 (highest)**. Most civilians average **20–30** in each attribute. Trained R.D. personnel average **40–60**. Echo-Cores exceed **80**.
+
+| Level | Range | Description |
+|---|---|---|
+| **Fragile** [Lvl I] | 1–20 | Below civilian average — vulnerable to Han effects |
+| **Average** [Lvl II] | 21–40 | Civilian level — can survive daily life |
+| **Trained** [Lvl III] | 41–60 | R.D. personnel level — can perform Work Types safely |
+| **Veteran** [Lvl IV] | 61–80 | Experienced personnel — can handle dangerous entities |
+| **Exceptional** [Lvl V] | 81–100 | Echo-Core level — can withstand what breaks others |
+
+---
+
+### Attribute Interactions — How Attributes Interact with Work Types
+
+| Work Type | Primary Attribute | Secondary Attribute | Failure Outcome |
+|---|---|---|---|
+| **Flerehan** (Tears) | Composure | Clarity | Emotional breakdown — crying, withdrawal |
+| **Pugnahan** (Confrontation) | Resolve | Resilience | Physical collapse — exhaustion, injury |
+| **Viderehan** (Observation) | Clarity | Composure | Mental breakdown — confusion, hallucination |
+| **Ferrehan** (Endurance) | Resilience | Resolve | Total collapse — physical and mental exhaustion |
+
+---
+
+### How L Corp Employees (Nuggets) Acquire R.D. Attributes
+
+If an L Corp employee/Nugget **survives for 3 days or more** while sustaining a Sorrow Effect, the employee **gains points (accumulating)** simply for sustaining the effect. The accumulated points unlock **R.D. attributes specific to the entity effect** the employee is sustaining, tracked in this form:
+
+| Slot | Format |
+|---|---|
+| **Composure** | Level [0 / I–V] [0/20] |
+| **Resolve** | Level [0 / I–V] [0/20] |
+| **Clarity** | Level [0 / I–V] [0/20] |
+| **Resilience** | Level [0 / I–V] [0/20] |
+
+An L Corp employee/Nugget **always starts at Lvl 0** in all R.D. Attributes, because they have never had to survive Han effects and entity effects every day the way Somnarak personnel do.
+
+---
+
+## PART IV.5 — THE OWNER'S COMPLETE SYSTEM COMPARISON
+
+*(Original file: "COMPLETE SYSTEM COMPARISON-SOMNARAK vs. Lobotomy Corporation" (markdown file) — standalone archival original filed beside this overhaul.)*
+
+### Complete System Comparison: SOMNARAK vs. Lobotomy Corporation
+
+> **Combined-edition note (2026-10-30):** Owner's laptop original — the owner's compact system comparison (distinct from the Expanded Story Edition in this folder) — filed verbatim from the owner's dump and carried in full as **Part IV.5** of the *Universal Sorrow Entity to Abnormality Conversion Table* (combined overhaul edition). This standalone file remains the archival original.
+
+#### I. Classification Code Structure
+
+|Component|SOMNARAK (SECC)|Lobotomy Corporation|Mapping|
+|---|---|---|---|
+|**Format**|`[Origin]-[Coherence][Potency]-[Number] [Element][Manifestation]`|`[Letter]-[Number]-[Number]`|Different structures|
+|**Origin**|C (City), N (Inner), O (Outside)|F (Fairy Tale), T (Trauma), O (Original), D (Donation), M (Mythical)|C→O, N→T, O→O/M|
+|**Coherence**|I-V (Residue to Sovereign)|N/A|Used with Potency for Risk Level|
+|**Potency**|α-Ω (Minor to Catastrophic)|N/A|Used with Coherence for Risk Level|
+|**Shape/Form**|Manifestation type (Subject, Object, Place, Time)|01-09 (Humanoid, Animalistic, Otherworldly, Object, Machine, Abstract, Breaching Tool, Sin, Tool)|Subject→01/02, Object→04/05, Place→03/06|
+|**Unique Number**|Sequential|Sequential|Same concept|
+|**Element**|Lament, Grudge, Void, Weight, Mixed|N/A (mapped to damage types)|Lament→WHITE, Grudge→RED, Void→PALE, Weight→BLACK|
+
+#### II. Risk Level Conversion
+
+|SOMNARAK|L Corp|Threat Score Formula|
+|---|---|---|
+|**α + I** (Score 2)|**ZAYIN**|Potency rank + Coherence rank|
+|**β + II** (Score 4)|**TETH**||
+|**γ + III** (Score 6)|**HE**||
+|**δ + IV** (Score 8)|**WAW**||
+|**ω + V** (Score 10)|**ALEPH**||
+
+#### III. Damage Type Mapping
+
+|SOMNARAK Element|L Corp Damage Type|What It Attacks|Color|
+|---|---|---|---|
+|**Lament**|**WHITE**|Mind / Sanity / emotional stability|Deep Blue|
+|**Grudge**|**RED**|Body / HP / physical form|Crimson|
+|**Void**|**PALE**|Soul / percentage-based / identity erasure|Pale White|
+|**Weight**|**BLACK**|Both HP and Sanity simultaneously|Black|
+
+#### IV. Work Type Mapping
+
+|SOMNARAK Work Type|L Corp Work|Axis|Element|What It Does|
+|---|---|---|---|---|
+|**Flerehan** (Tears)|**Attachment**|Physical + Lament|Empathy / bonding|Approach with emotion; weep alongside the entity|
+|**Pugnahan** (Confrontation)|**Repression**|Physical + Grudge|Force / dominance|Confront, resist, suppress aggression|
+|**Viderehan** (Observation)|**Insight**|Mental + Void|Study / detachment|Observe from distance; analyze without engaging|
+|**Ferrehan** (Endurance)|**Instinct**|Mental + Weight|Patience / presence|Endure the entity's presence; contain through will|
+
+#### V. Equipment Mapping
+
+|SOMNARAK|L Corp|Notes|
+|---|---|---|
+|**M.A.W.** (Materialized Agony Wear)|**E.G.O** (Extermination of Geometrical Organ)|Equipment extracted from entities|
+|**M.A.W. Weapon**|**E.G.O Weapon**|Changes damage type and attack value|
+|**M.A.W. Suit**|**E.G.O Suit**|Changes damage resistances|
+|**M.A.W. Gift**|**E.G.O Gift**|Passive stat buff, random acquisition|
+|**M.A.W. Grade α**|**E.G.O Grade ZAYIN**|Lowest tier|
+|**M.A.W. Grade β**|**E.G.O Grade TETH**||
+|**M.A.W. Grade γ**|**E.G.O Grade HE**||
+|**M.A.W. Grade δ**|**E.G.O Grade WAW**||
+|**M.A.W. Grade ω**|**E.G.O Grade ALEPH**|Highest tier|
+
+#### VI. Tool Abnormalities (Three Types)
+
+From the wiki research, Tool Abnormalities have three distinct types:
+
+|Type|Classification|Behavior|Examples|
+|---|---|---|---|
+|**Single Use Tools**|09 classification|Give a single instant effect upon being worked with. Have a "Number of Uses" to unlock information.|Theresia (T-09-09), Old Lady (O-01-12)|
+|**Channeled Use Tools**|09 classification|Have a constant work use that can be cancelled when ordered again. Have a "Time of Use" to unlock information.|Don't Touch Me (O-05-47)|
+|**Equippable Tools**|09 classification|An Agent equips upon use. When equipped, they grant their effects to the Agent.|Crumbling Armor (O-05-61)|
+
+**Note:** The Kind Echo (SE-C-Iα-000) is the SOMNARAK equivalent of the Standard Training-Dummy Rabbit (0-00-00) — both are docile training entities with zero designations.
+
+#### VII. SOMNARAK-Specific Systems (No Direct L Corp Equivalent)
+
+|SOMNARAK System|Function|L Corp Equivalent|
+|---|---|---|
+|**R.D. Attributes** (Composure, Resolve, Clarity, Resilience)|Personnel stats for handling Han|Employee stats (Fortitude, Prudence, Temperance, Justice)|
+|**Sorrow Gauge**|Entity containment pressure|Qliphoth Counter|
+|**Han-Energy**|Energy produced from entities|Enkephalin (PE-Boxes)|
+|**Fracture** (4 stages)|Personnel transformation|Panic → Death|
+|**Efflorescence**|Positive transformation|E.G.O synchronization|
+|**M.A.W. Corrosion**|Equipment turning on user|E.G.O Corrosion|
+
+#### VIII. Crossover Implications
+
+When a SOMNARAK Sorrow Entity arrives in the PM universe through the Well of Cogito:
+
+1. **Classification Crisis:** The entity would be classified as an Abnormality, but the SECC system doesn't map perfectly to the L Corp system. The Well would attempt to convert it using the mapping tables.
+    
+2. **Work Type Adaptation:** L Corp employees would need to learn SOMNARAK's Work Types (Flerehan, Pugnahan, Viderehan, Ferrehan) or map them to existing works (Attachment, Repression, Insight, Instinct).
+    
+3. **R.D. Attribute Development:** L Corp employees exposed to Han would develop new stats (Composure, Resolve, Clarity, Resilience) that don't exist in standard employees.
+    
+4. **Equipment Translation:** M.A.W. would be converted to E.G.O, but the extraction method differs (resonance vs. facility systems).
+    
+5. **The Terminal (S.A.M.S.):** Would contain the conversion tables and serve as a bridge between the two systems.
+    
+
+#### IX. Document Structure Comparison
+
+|Section|SOMNARAK SE Document|L Corp Abnormality Document|
+|---|---|---|
+|**Classification**|SECC Designation table|Subject Number + Risk Level|
+|**Operational Parameters**|Stats, work difficulty, energy yield|E-Boxes, Qliphoth Counter|
+|**Combat Record**|Detailed combat actions, phases|Managerial Works, Escape Information|
+|**Appearance**|Detailed physical description|Portrait, basic description|
+|**Origin**|Formation story, sorrow source|Origin story (if available)|
+|**Behavior**|Work Type responses|Work Preferences/Favor|
+|**Breach Behavior**|Detailed breach mechanics|Escape Information|
+|**Equipment**|M.A.W. (Weapon, Suit, Gift)|E.G.O (Weapon, Suit, Gift)|
+|**Observation Log**|Progressive observations|Encyclopedia sections|
+|**Story Log**|Lore entries unlocked by observation|Story tab entries|
+|**Final Observation**|Choice-based event|N/A|
+|**Flavor Text**|Sensory descriptions|In-game text|
+|**Entity Interactions**|How entities interact with each other|N/A|
+|**Tale**|Full narrative story|N/A|
+|**Testimony**|First-person quotes|Managerial Works quotes|
+|**Record**|Classification and handling|Abnormality Details|
+|**Trivia**|Fun facts|Trivia section|
+
+---
+
 ## Appendix A: Conversion Integrity Matrix — Complete System Coverage
 
-*Audit completed 2026-10-30 under the owner's directive: 100% conversion across the board, nothing missed.* Every system named in either archive's facility records appears exactly once below, with its conversion law located in **both directions**. **UT** = this Universal Table · **RG** = "PM Abnormality to PS Sorrow Entity Conversion Guide" · **CMP** = "Complete System Comparison: Somnarak vs. Lobotomy Corporation". In this combined edition, RG and CMP are carried in full as Parts II and III above; every reference below uses each part's own section numbering. Discipline going forward: a system added to either archive is **entered in this matrix before it may be used in a conversion**; a conversion note relying on an unlisted system is incomplete on its face (checklist item 10).
+*Audit completed 2026-10-30 under the owner's directive: 100% conversion across the board, nothing missed.* Every system named in either archive's facility records appears exactly once below, with its conversion law located in **both directions**. **UT** = this Universal Table · **RG** = "PM Abnormality to PS Sorrow Entity Conversion Guide" · **CMP** = "Complete System Comparison: Somnarak vs. Lobotomy Corporation". In this combined edition, RG and CMP are carried in full as Parts II and III above, and the owner's original tables as Part IV.1–IV.5; every reference below uses each part's own section numbering. Discipline going forward: a system added to either archive is **entered in this matrix before it may be used in a conversion**; a conversion note relying on an unlisted system is incomplete on its face (checklist item 10).
 
 One crosswalk belongs here because it belongs to neither guide alone: energy converts **tier-band to tier-band** from the two Section III matrices (UT Max PE-Boxes ↔ RG Han Yield). The bands deliberately differ — facility energy is drawn through work satisfaction, Han Yield is what the Weeping-side harvest returns — and there is no 1:1 numeric exchange. A PE-Box is not a unit of Han.
 
 | # | System / mechanic | SE → Abnormality (UT) | Abnormality → SE (RG) | Status |
 |---|---|---|---|---|
 | 1 | Designation & serial law | §II | §III alias rule · checklist 03b | Covered |
-| 2 | Risk tier & off-diagonal rule | §III | §III | Covered |
+| 2 | Risk tier & **Threat Score** (owner's Transformation Table) | §III · Part IV.1 · IV.2 §II–IV · IV.3 §I–III | §III + reverse arithmetic (§III) | Covered |
 | 3 | HP / Sorrow Gauge bands | §III | §II–III | Covered |
 | 4 | Attack values | §III | §III | Covered |
 | 5 | Damage types ↔ Han elements | §V | §V | Covered |
@@ -1313,5 +2479,11 @@ One crosswalk belongs here because it belongs to neither guide alone: energy con
 | 39 | Ingress · Degrees · contact geometries | Preface · §I | §III · CMP §2A | Covered |
 | 40 | Worked examples, both directions | §VIII · §X | §X | Covered |
 
-**Audit verdict: 40 of 40 systems covered** — 36 by direct law in the two guides, 4 by referenced law in the universe comparison (facility-scale and institution-scale systems, where entity-level guides properly defer). No system in either archive's facility records lacks a conversion row in both directions. Defects found and repaired during this audit are logged in the repository CHANGELOG (Conversion-integrity completion, passes 1–3).
+| 41 | Threat multipliers & round-UP arithmetic (HP/ATK) | §III derivation · Part IV.1–IV.3 | §III reverse arithmetic · IV.3 §XV | Covered |
+| 42 | R.D. Attribute levels (0/I–V, 1–100) & Nugget acquisition | §IV.3 · Part IV.4 · IV.2 §XIV · IV.3 §IX | §VI.1 attribute note | Covered |
+| 43 | Breach taxonomy — Escape / Corrupt / Transform / Cascade | §VI reads via IV.3 §V · IV.2 §VI | §VII.3 protocols | Covered |
+| 44 | Fracture stages · Efflorescence · Architect's Mark | IV.3 §X (referenced law) | IV.3 §X · §VIII relic standard | Covered by reference |
+| 45 | Organization & S.A.M.S. Terminal (CCA ↔ Wing) | §VIII staffing · IV.3 §XIII · IV.2 §X-XI | CMP §3 · §13–15 | Covered by reference |
+| 46 | Document-structure mapping & 15-step conversion orders | IV.2 §XII/XV · IV.3 §XIV–XV · §XI checklist | IV.2 §XVIII · IV.3 §XV | Covered |
 
+**Audit verdict: 46 of 46 systems covered** — 40 by direct law across Parts I–II, 6 more by the owner's own tables in Part IV (rows 41–46, two of them as correctly located referenced law), beside the 4 facility-scale rows resting on Part III. No system in either archive's facility records lacks a conversion row in both directions. Defects found and repaired during this audit are logged in the repository CHANGELOG (Conversion-integrity completion, passes 1–3).

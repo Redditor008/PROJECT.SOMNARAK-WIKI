@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Combined Overhaul Edition: Part IV assembled — the owner's five originals carried in full (2026-10-30)
+
+- **The Universal Sorrow Entity to Abnormality Conversion Table is now a four-part combined overhaul edition.** **Part IV** carries the owner's five laptop originals in full and verbatim — IV.1 the Threat Score Transformation Table (the specially created threat-tier system, recovered), IV.2 the field-by-field conversion reference, IV.3 the creator-reference Risk Parallel, IV.4 the R.D. Attribute levels add-on, IV.5 the owner's compact system comparison. Parts II (reverse guide) and III (system comparison) re-carried from their corrected standalones; subtitle, placard edition row, and Preface updated to Parts I–IV; one H1 preserved document-wide.
+- **Appendix A extended to 46 systems** (new rows 41–46: threat multipliers & round-UP arithmetic; R.D. Attribute levels & Nugget acquisition; breach taxonomy Escape/Corrupt/Transform/Cascade; Fracture stages · Efflorescence · Architect's Mark; organization & S.A.M.S. Terminal; document-structure mapping & 15-step conversion orders) — verdict **46/46**. Row 2 updated to the Threat Score rule; the comparison's own seal updated to the 46-system count (standalone + carried copies together).
+
+
 ## Reverse guide + comparison aligned to the owner's pairing & arithmetic (2026-10-30)
 
 - **Reverse guide (standalone):** work headings corrected to the owner's mapping (**Insight → Viderehan**, **Instinct → Ferrehan**; the Somnarak work bodies were already described correctly). Attribute pairing corrected (Fortitude ↔ Resilience, Prudence ↔ Clarity — previously transposed) and reframed as the owner's acquisition ontology: transported employees start at **Level 0**; LC stats denote aptitude, never granted R.D. levels. New **reverse-arithmetic paragraph** (§III): recover base HP / Han Pressure by dividing out the tier's threat multiplier, rounding UP; the intake-filed multiplier governs, with a braced `{est.}` rule when none was filed.

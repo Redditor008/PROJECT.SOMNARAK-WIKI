@@ -442,7 +442,7 @@ To illustrate the contrasting atmosphere, narrative tone, and operational jargon
 
 ## 19. Verification & Canonical Compliance Seal
 
-Conversion-rule coverage for every system compared in this document is audited in **Appendix A of the Universal Conversion Table** (`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md`): 40 systems, each with its conversion law located in both directions, the facility-scale rows (34–37) resting on this comparison. This seal stands under that matrix.
+Conversion-rule coverage for every system compared in this document is audited in **Appendix A of the Universal Conversion Table** (`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md`): 46 systems, each with its conversion law located in both directions — the facility-scale rows (34–37) resting on this comparison, rows 41–46 on the owner's original tables (Part IV of the combined edition). This seal stands under that matrix.
 
 ```text
 +========================================================================+
