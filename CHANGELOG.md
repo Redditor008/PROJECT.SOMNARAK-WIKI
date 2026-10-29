@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Markdown-native tables for normal tables; text boxes reserved for complex mixed systems (2026-10-30)
+
+Owner format rule: **normal tables use markdown-native tables; ASCII text boxes are reserved for complex multi-column/multi-row mixed systems.** Applied to the three documents of the comparison set (13 text-box blocks classified in total):
+
+- **Converted to markdown tables (4):** Universal Table §IV "Facility Work Protocols // Cogito vs Han Conversion" (4×4; split/misaligned box cells normalized — Attachment/Repression inanimate outcomes now in their own cells); Comparison §1 "System Comparison at a Glance // Core Metrics" (15 rows); §13 "Geopolitical & Faction Equivalence // Matrix" (6 rows); §16 "Realization Wars & Department Crisis // Phases" (continuation lines merged into the manifestation cells). All cell text preserved verbatim; box titles retained as bold captions.
+- **Kept as text boxes (9), as complex mixed systems:** the three document-identity placards; Universal Table §VI Place-SE breach event record (subject/state/trigger header + numbered event sequence); both SEPHIRAH/SECC checklists (numbered directives with wrapped continuation rows); Guide 1's 10-Node Combat HUD spatial matrix and Two-Work-Type Operational Law record; the comparison's closing verification seal.
+
+
 ## The Two Rivers — Well & Weeping universe contact geometry added (2026-10-30)
 
 - **`COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` §2A added (420 → 470 lines):** side-by-side worldbuilding comparison of the two reservoir systems — PM River/Bucket/Well/Cogito/Light vs PS Weeping/Abyssal Well/Deep Vault/Alpha Tree/Han — similarities (a river of collective human sorrow at the bottom of the world; a Well called *umul* on both sides; depth-fed energy economies; the dead persisting in the deep), differences (whole subconscious vs sorrow only; pharmaceutical extraction vs spontaneous crystallization; cure vs permanent management), six declared-per-story contact geometries (G1 touching · G2 same depth · G3 other side · G4 coupled tides · G5 upstream/downstream · G6 the siphon), and story-plot conversion notes tying universe-level contact to the two entity-level conversion guides. Master law: **connected, not identical**.

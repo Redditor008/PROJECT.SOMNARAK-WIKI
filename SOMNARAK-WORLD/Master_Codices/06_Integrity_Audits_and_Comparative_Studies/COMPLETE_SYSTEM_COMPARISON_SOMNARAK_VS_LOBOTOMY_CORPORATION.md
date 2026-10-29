@@ -22,29 +22,25 @@
 
 ## 1. Executive Summary & Core Comparison Matrix
 
-```text
-+========================================================================+
-|             SYSTEM COMPARISON AT A GLANCE // CORE METRICS              |
-+------------------------------------------------------------------------+
-| FEATURE                | LOBOTOMY CORPORATION | PROJECT SOMNARAK       |
-| -----------------------+----------------------+--------------------    |
-| Operating Agency       | Lobotomy Corporation | Reverie Directorate    |
-| Primary Energy Source  | Enkephalin (PE/NE)   | Han-Energy             |
-| Entity Classification  | Abnormalities        | Sorrow Entities        |
-| Threat Hierarchy       | ZAYIN to ALEPH       | Ranks I-V / a to w     |
-| Containment Discipline | 4 Works (All Units)  | Absolvohan (2 or 4)    |
-| Inanimate Restriction  | Unrestricted         | 2 Works (Vid/Fer)      |
-| Damage Spectrum        | RED/WHITE/BLACK/PALE | Grudge/Lam/Wgt/Void    |
-| Crisis Mechanics       | Qliphoth Meltdowns   | Four Watches           |
-| Breach Dynamics        | Standard Corridor    | Place Metamorphosis    |
-| Equipment Extraction   | E.G.O (Weapon/Suit)  | M.A.W. (3 Pieces)      |
-| Tool Entity Framework  | Tool Abnormalities   | Relic-Entities         |
-| Department Awakening   | Core Suppressions    | Realization Wars       |
-| External Guilds        | Fixer Associations   | Ten Cadres             |
-| Underworld Factions    | The Five Fingers     | Five Raw Syndicates    |
-| Equipment Tuning       | Fixer Workshops      | Five-Grade Forges      |
-+========================================================================+
-```
+**System Comparison at a Glance // Core Metrics**
+
+| Feature | Lobotomy Corporation | Project Somnarak |
+|---|---|---|
+| Operating Agency | Lobotomy Corporation | Reverie Directorate |
+| Primary Energy Source | Enkephalin (PE/NE) | Han-Energy |
+| Entity Classification | Abnormalities | Sorrow Entities |
+| Threat Hierarchy | ZAYIN to ALEPH | Ranks I-V / a to w |
+| Containment Discipline | 4 Works (All Units) | Absolvohan (2 or 4) |
+| Inanimate Restriction | Unrestricted | 2 Works (Vid/Fer) |
+| Damage Spectrum | RED/WHITE/BLACK/PALE | Grudge/Lam/Wgt/Void |
+| Crisis Mechanics | Qliphoth Meltdowns | Four Watches |
+| Breach Dynamics | Standard Corridor | Place Metamorphosis |
+| Equipment Extraction | E.G.O (Weapon/Suit) | M.A.W. (3 Pieces) |
+| Tool Entity Framework | Tool Abnormalities | Relic-Entities |
+| Department Awakening | Core Suppressions | Realization Wars |
+| External Guilds | Fixer Associations | Ten Cadres |
+| Underworld Factions | The Five Fingers | Five Raw Syndicates |
+| Equipment Tuning | Fixer Workshops | Five-Grade Forges |
 
 
 ---
@@ -282,20 +278,16 @@ Unlike random Qliphoth meltdowns, Somnarak experiences cyclical atmospheric shif
 
 ## 13. Story Expansion: Outer World Governance & Subterranean Geopolitics
 
-```text
-+========================================================================+
-|              GEOPOLITICAL & FACTION EQUIVALENCE // MATRIX              |
-+------------------------------------------------------------------------+
-| LOBOTOMY CORP / THE CITY             | PROJECT SOMNARAK / THE RAW      |
-| -------------------------------------+-------------------------------- |
-| The Head / Wings of the City         | Council of Sighs / Directorate  |
-| The Five Fingers (Syndicates)        | Five Syndicates of The Raw      |
-| Fixer Associations (Hana, Zwei, etc) | Ten Specialist Cadres           |
-| Fixer Workshops (Zelkova, Mook, etc) | Five Artisan Workshop Grades    |
-| Backstreets & Outskirts              | The Raw & The Desolate          |
-| The Well / Human Unconscious         | 1,778 Mnemonic Cycle Engrams    |
-+========================================================================+
-```
+**Geopolitical & Faction Equivalence // Matrix**
+
+| Lobotomy Corp / The City | Project Somnarak / The Raw |
+|---|---|
+| The Head / Wings of the City | Council of Sighs / Directorate |
+| The Five Fingers (Syndicates) | Five Syndicates of The Raw |
+| Fixer Associations (Hana, Zwei, etc) | Ten Specialist Cadres |
+| Fixer Workshops (Zelkova, Mook, etc) | Five Artisan Workshop Grades |
+| Backstreets & Outskirts | The Raw & The Desolate |
+| The Well / Human Unconscious | 1,778 Mnemonic Cycle Engrams *(the reservoir comparison proper is §2A)* |
 
 
 For narrative fiction and worldbuilding, both universes feature intricate geopolitical power structures operating beyond facility walls:
@@ -374,20 +366,14 @@ To wield Grade 5 Workshop equipment, an operative cannot simply purchase or loot
 
 ## 16. Story Expansion: Departmental Awakenings & Realization Wars
 
-```text
-+========================================================================+
-|             REALIZATION WARS & DEPARTMENT CRISIS // PHASES             |
-+------------------------------------------------------------------------+
-| PHASE | THEMATIC TRIAL      | COMBAT & PSYCHIC MANIFESTATION           |
-| ------+---------------------+----------------------------------------- |
-| I     | Awakening of Lament                                            |
-|   | Composure drain; auditory resonance spike                          |
-| II    | Grudge Surge        | Spatial displacement; kinetic shockwaves |
-| III   | Weight of Memory    | Gravitational debt; ancestral memories   |
-| IV    | Void Integration                                               |
-|   | Sovereign realization; permanent awakening                         |
-+========================================================================+
-```
+**Realization Wars & Department Crisis // Phases**
+
+| Phase | Thematic Trial | Combat & Psychic Manifestation |
+|---|---|---|
+| I | Awakening of Lament | Composure drain; auditory resonance spike |
+| II | Grudge Surge | Spatial displacement; kinetic shockwaves |
+| III | Weight of Memory | Gravitational debt; ancestral memories |
+| IV | Void Integration | Sovereign realization; permanent awakening |
 
 
 In Lobotomy Corporation, the Manager must face **Sephirah Meltdowns (Core Suppressions)** from Malkuth to Keter, resolving each Sephirah's personal trauma to awaken the facility's full potential and complete the Seed of Light.
