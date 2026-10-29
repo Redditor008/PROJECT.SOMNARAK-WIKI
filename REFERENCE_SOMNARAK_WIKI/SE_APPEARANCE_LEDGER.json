@@ -27,7 +27,20 @@
       "N-IIβ-152",
       "O-IVδ-115"
     ],
-    "reviewed": {}
+    "reviewed": {
+      "N-IIβ-456": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_01_FADING_FRUIT.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -5133,8 +5146,23 @@
     {
       "designation": "N-IIβ-456",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-456_Fading_Fruit_번져가는_열매.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Seventeen repairs (5 short / 12 careful). Fading Fruit is no longer a breaching, vessel-destructible physical-pressure object measured per turn. It is again a fixed Place-Grudge garden whose readings are seasonal fruit-set/empty-stem counts, marked corners and the set-off return. Combat triggers now use the stopped reach, a promise/entitlement/debt collapse, prohibited picking, a completed two-thousand-plus matching fall count, and Gauge ≥60%. Exact crimson Dagger, Plate and Charm appearances were restored and set use now separates desire, debt, authority and feasible action. HELD; no credit because the primary already contains the complete α set/statistics/costs/Field Use Record and a dated 2026-10-11 full-set source review with explicit holds.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_01_FADING_FRUIT.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-A__SIDE_CODEX_Orchard_of_the_Indebted.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-B__MAW-W_The_Indebted_Dagger.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-C__MAW-S_The_Indebted_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-D__MAW-G_The_Indebted_Charm.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIβ-488",

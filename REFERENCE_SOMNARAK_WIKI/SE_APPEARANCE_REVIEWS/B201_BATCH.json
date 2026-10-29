@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 201,
   "status": "OPEN",
-  "completed_units": 0,
+  "completed_units": 1,
   "required_units": 5,
   "queue": [
     {
@@ -42,6 +42,221 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 0,
-  "units": []
+  "completed": 1,
+  "units": [
+    {
+      "unit": 1,
+      "designation": "N-IIβ-456",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-456_Fading_Fruit_번져가는_열매.md",
+      "words": 8676,
+      "sha256": "2768ed2d9fddd4100db7ddc4b0895b76659ee806fee4f313808616478a645b9a",
+      "name": "Fading Fruit",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_01_FADING_FRUIT.md",
+      "before_words": 8676,
+      "after_words": 8934,
+      "base": "259096da3a1a5093ea8e877f48af36501af22636",
+      "final_sha256": "2e68830808092f9500e48a7fad45df44571e11482cbac964dc3a36a01a8fe4ff",
+      "summary": "Seventeen repairs (5 short / 12 careful). Fading Fruit is no longer a breaching, vessel-destructible physical-pressure object measured per turn. It is again a fixed Place-Grudge garden whose readings are seasonal fruit-set/empty-stem counts, marked corners and the set-off return. Combat triggers now use the stopped reach, a promise/entitlement/debt collapse, prohibited picking, a completed two-thousand-plus matching fall count, and Gauge ≥60%. Exact crimson Dagger, Plate and Charm appearances were restored and set use now separates desire, debt, authority and feasible action. HELD; no credit because the primary already contains the complete α set/statistics/costs/Field Use Record and a dated 2026-10-11 full-set source review with explicit holds.",
+      "commentary": "Nobody steals this harvest. Forty-one households sign a fair agreement, work four seasons and eat nothing while every office acts lawfully. The garden counts the exact interval in which a person has earned something but has not yet been allowed to hold it.",
+      "reasoning": "R-34 audit before editing. Identity is direct SE-456: Side A prints `N-IIβ-456 [N]`, Object/Place—Place-Grudge, II/β, Grudge, Collector's Row, Gauge 35–50%, pressure 7–18 and Observation 2; B/C/D carry `MAW-W/S/G-456-01`. The primary's dominant local mechanism is precise: dark trees in the 41 households' beds set fruit that thins before eating; set count and empty stems have matched for 31 seasons; workers name a specific earned-but-unreceived entitlement; Ferrehan is an hour in the rows picking nothing; expansion is four footprint approaches/withdrawals, never a breach. Repairs removed the Transform-breach/vessel/dust/per-turn template and rebuilt triggers from that record. The Withering now begins at a reach or named unreceived entitlement, The Losing Shape at the exact Side A failure of turning desire into promise/entitlement/monetization/debt, The Final Juice remains the four prohibited picks, The Total Fade is a completed matching fall count above two thousand with no personnel Gauge, and the Ultimate uses the file threshold ≥60%. Exact B/C/D supplied crimson grief-stained Dagger, fading-fruit Plate and whole-until-promised Charm forms. All parsed table blocks are equal and all Trigger cells parse fifth.",
+      "history": "Draft/local history: forty-one debtor households planted between tenements and ledger offices, signed an equal work/harvest agreement, tended four seasons and ate nothing. The primary connects the set count (340 baseline; 96–4,119 range) to earned entitlements set off before delivery, citing 11,906 entitlements credited over nine years and 9,841 never held, plus the Rule of the Delivered Harvest and ninety-day grace. Fresh equipment credit BARRED on this HELD result: before repair it already had all three α pieces, matching stats/costs, Use Notes, Field Use Record and the dated 2026-10-11 full-set review. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+      "holds": [
+        "Entity-name fork: primary title/common name Fading Fruit versus exact Side A Orchard of the Indebted for designation `N-IIβ-456` and the same Korean name. Held.",
+        "Equipment title/silhouette fork: primary/Master Fading Fruit Dagger/Plate/Charm versus Side/item The Indebted Dagger/Plate/Charm; `MAW-W-456` also retains Straight Parallel Dirk and Rondel Dagger depictions with no documented crosswalk. Held.",
+        "Equipment-function fork: the primary Dagger shows what a person is owed and its Charm cools before a set-off/exempts bearer entitlements, while exact items reveal concealed grief and mark desire separately from ledger judgment. Appearance was restored; functions were not normalized. Held.",
+        "Activation-model fork: no breach or transform has been observed in thirty-one years—only seasonal counts and four footprint approaches/withdrawals—so the ≥60% combat threshold remains normalized rather than observed. Held.",
+        "Metadata fork: Side A gives Observation 2 without the Basic label and no maximum Gauge; primary uses 2—Basic and 357/357. Held."
+      ],
+      "split": [
+        5,
+        12
+      ],
+      "repairs": [
+        {
+          "id": "R01-entity-nonbreaching",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Entity Type** | **Object/Place** — Can breach via Transform |",
+          "new": "| **Entity Type** | **Object/Place** — Non-breaching: fixed garden; seasonal footprint expansion and withdrawal in place, with no breach recorded |"
+        },
+        {
+          "id": "R02-primary-pressure",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Physical / structural pressure |",
+          "new": "| **Primary pressure** | Resilience — desire for a specific entitlement earned but not received |"
+        },
+        {
+          "id": "R03-vessel-no",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — Place manifestation; no vessel or destruction route is recorded |"
+        },
+        {
+          "id": "R04-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R05-speed-seasonal-output",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | N/A — fixed garden; output is measured by seasonal fruit-set and empty-stem counts and by footprint movement toward the marked corners |"
+        },
+        {
+          "id": "R06-resistance-safeguards",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 25% against Grudge pressure; 15% against other pressure types |",
+          "new": "| **Resistance** | 25% against Grudge pressure; 15% against other pressure types. The working safeguards are the Ferrehan hour with hands kept down, picking nothing, acknowledging the named desire without promising fulfilment, and reporting fruit-set and empty-stem counts side by side |"
+        },
+        {
+          "id": "R07-withering-reach-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Withering* [**Debuff**] } | \"The fruit in your hand is going translucent — losing substance, losing color, losing its reason to exist.\" | [The Fruit's fading transfers to the target; they feel themselves becoming less real.] | *Target suffers -10 Resilience; they are fading like the fruit.* **[10 Grudge DMG [Grudge]]** | When the target holds the Fruit. |",
+          "new": "| { *The Withering* [**Debuff**] } | \"The fruit in your hand is going translucent — losing substance, losing color, losing its reason to exist.\" | [Fruit at shoulder height goes translucent as the worker's hand starts toward it and the specific thing they earned but never received comes to mind.] | *Target suffers -10 Resilience; the stopped reach is logged with the minute and the hand returns to their side.* **[10 Grudge DMG [Grudge]]** | When the target first reaches toward fruit in the rows or names a specific entitlement they earned but did not receive. |"
+        },
+        {
+          "id": "R08-losing-shape-promise-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Losing Shape* [**Debuff**] } | \"The fruit cannot hold its form — and neither can you, near it. Edges blur. Definition fails.\" | [The Fruit's dissolution is contagious; the target's boundaries weaken.] | *Target loses 10 Resilience; they are losing their outline.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |",
+          "new": "| { *The Losing Shape* [**Debuff**] } | \"The fruit cannot hold its form — and neither can you, near it. Edges blur. Definition fails.\" | [The boundary between wanting, being owed and being promised collapses; every visible fruit thins as the record is written.] | *Target loses 10 Resilience; hunger transfers to the operators until desire, debt, authority and feasible action are recorded in separate fields.* **[10 Grudge DMG [Grudge]]** | When a desire is promised fulfilment, treated as proof of entitlement, monetized, or itself recorded as debt. |"
+        },
+        {
+          "id": "R09-total-fade-count",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Total Fade* [**Attack**] } | \"Four thousand one hundred and nineteen set that season, and four thousand one hundred and nineteen stems, and the counter finished both lists.\" | [The whole season goes at once.] | *A heavy Grudge surge; the target's Sorrow Gauge rises 15%.* **[24-36 Grudge DMG [Grudge]]** | At a set count above two thousand. |",
+          "new": "| { *The Total Fade* [**Attack**] } | \"Four thousand one hundred and nineteen set that season, and four thousand one hundred and nineteen stems, and the counter finished both lists.\" | [The completed fall count proves the whole season vanished on the branch: every set fruit is matched by an empty stem.] | *Heavy Grudge pressure across the posted workers; no personnel Gauge is inferred. Both lists are filed whole and the quarter's set-off return is pulled.* **[24-36 Grudge DMG [Grudge]]** | When the completed fall set count exceeds two thousand and matches the empty-stem count. |"
+        },
+        {
+          "id": "R10-ultimate-threshold60",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Empty Harvest* [**Ultimate**] } | \"Every fruit in the field fades — and the orchard becomes a collection of absences, each one shaped like hunger.\" | [The Fruit extends its fading across the whole area.] | *All in range suffer Grudge pressure for three turns of vanishing harvest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Empty Harvest* [**Ultimate**] } | \"Every fruit in the field fades — and the orchard becomes a collection of absences, each one shaped like hunger.\" | [The footprint reaches toward a marked corner while fruit across the beds thins before it can be taken.] | *All personnel inside the footprint suffer Grudge pressure for three turns; corners are walked, hands stay empty, and no harvest is promised.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥60%. |"
+        },
+        {
+          "id": "R11-battle-resolution",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** The watch is filed under containment, retreat, management, or the condition this file registers: **Acknowledge desire without promising fulfillment**.",
+          "new": "3. **Resolution:** The watch closes only when the desire has been acknowledged with no fulfilment promised, nothing has been picked, the set count and stem count are reported side by side, and the Gauge is below 25%. **Acknowledge desire without promising fulfillment** is the management condition; suppression and harvesting are not routes."
+        },
+        {
+          "id": "R12-dagger-appearance",
+          "kind": "careful appearance restoration",
+          "careful": true,
+          "old": "**Appearance:** a slender dagger of Grudge Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.",
+          "new": "**Appearance:** a crimson dagger of Grudge Han-iron with grief stains visible beneath its surfaces, the discoloration sitting under the metal like bruising under skin—visible, and unreachable."
+        },
+        {
+          "id": "R13-plate-appearance",
+          "kind": "careful appearance restoration",
+          "careful": true,
+          "old": "**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.",
+          "new": "**Appearance:** a crimson Han-iron harness patterned with fading fruit—orchards stamped into the metal mid-vanishing, so the harvest is visibly in the act of being withdrawn and is never polished brighter."
+        },
+        {
+          "id": "R14-plate-ability",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Wards Grudge pressure on the Body. Worn for the hour in the rows and kept on to the gate, which the counters insisted on after two workers removed it at the bed edge and were found with fruit in their hands.",
+          "new": "**Ability:** *Denied-Hope Guard* protects the Body from Grudge generated by systemic foreclosure without treating that denial as fair or soluble by one person's force. Worn for the hour in the rows and kept on to the gate, which the counters insisted on after two workers removed it at the bed edge and were found with fruit in their hands."
+        },
+        {
+          "id": "R15-charm-appearance",
+          "kind": "careful appearance restoration",
+          "careful": true,
+          "old": "**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that grows cool near its source sorrow.",
+          "new": "**Appearance:** a crimson Han-iron Tail charm shaped as a fruit, remaining whole only while desire is recorded without promise; when wanting is inflated into a guarantee, the fruit begins to split."
+        },
+        {
+          "id": "R16-use-notes-separate-fields",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "The armoury's note records none of it as designed: the pieces were found one at a time across thirty-one years, and the fourth thing tried here — a scale built to weigh a person's entitlement against their arrears and advise the greater number — did simply what the specification asked, and was broken up at the ward's request.",
+          "new": "The Armoury's note records none of it as designed: the pieces were found one at a time across thirty-one years, and the fourth thing tried here — a scale built to weigh a person's entitlement against their arrears and advise the greater number — did simply what the specification asked, and was broken up at the ward's request. In use, the Dagger reveals, the Plate guards and the Charm marks; every deployment records desire, debt, authority and feasible action in separate fields. No piece may promise a harvest, monetize the fruit, or treat wanting itself as either proof of entitlement or another debt."
+        },
+        {
+          "id": "R17-tale-garden-and-picks",
+          "kind": "careful narrative correction",
+          "careful": true,
+          "old": "They planted a garden. In the marginal soil of Collector's Row, between the tenements and the ledger offices, the debtors dug and planted and tended — fruit trees, vegetable beds, the small agricultural gestures of people reaching for a life the system had labeled unavailable. The garden was an act of defiance, and an act of hope, and an act of the ordinary domesticity the debt was supposed to have foreclosed.\n\nThe fruit faded. Every season, the trees bore — the blossoms came, the fruit formed, the harvest approached. And every season, before the fruit ripened, before any debtor could pick it, before any hungry mouth could taste the thing they had grown — the fruit faded. Withered on the branch. Dissolved. The debt, the debtors came to understand, was not merely financial. It was a condition — a systemic foreclosure on the possibility of satisfaction, on the completion of any cycle of effort and reward. The debtors could plant. The debtors could tend. But the debt ensured that the harvest, the payoff, the taste of the thing they had worked for — these were reserved for those who did not owe.",
+          "new": "They planted a garden. In the marginal soil of Collector's Row, between the tenements and the ledger offices, forty-one households dug the beds, set out fruit trees and signed an agreement to share the work and harvest equally. The garden was an act of hope and of ordinary domesticity: a meal grown rather than bought, from trees they themselves had tended.\n\nThe fruit faded. Every season the blossoms came, fruit set and swelled, then thinned on the branch before it could be eaten. Later Wardens have closed a hand on one four times and received a bitter drop and a wet stem; no household harvest followed. The injury was not that an office seized the crop—none did—but that effort could be completed lawfully at every step and still never arrive in the earner's hand."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIβ-456_Fading_Fruit_번져가는_열매.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.024  clean   917 grams  M.A.W. Equipment\n 0.020  clean   538 grams  감각 묘사 (Flavor Text)\n 0.015  clean   546 grams  기록 (Registrum)\n 0.008  clean   721 grams  Combat Record\n 0.008  clean   262 grams  Operational Parameters\n 0.003  clean   337 grams  관찰 기록 (Observation Log)\n 0.001  clean  1094 grams  이야기 보고 (Story Log)\n 0.000  clean   443 grams  Watch Record\n 0.000  clean   346 grams  이야기 (Narratio)\n 0.000  clean   320 grams  Expansion Behavior\n 0.000  clean   319 grams  Trivia\n 0.000  clean   300 grams  Appearance\n 0.000  clean   277 grams  Origin\n 0.000  clean   103 grams  Behavior\n 0.000  clean   100 grams  최종 관찰 (Final Observation)\n 0.000  clean    61 grams  증언 (Testimonium)\n 0.000  clean    37 grams  SECC Classification\n 0.000  clean    28 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 25% against Grudge pressure; 15% against other pressure types. The working safeguards are the Ferrehan hour wit\n   85   4  | { *The Empty Harvest* [**Ultimate**] } | \"Every fruit in the field fades — and the orchard becomes a collection of absences, eac\n   90   1  2. **Clash:** Viderehan and Ferrehan only; Flerehan and Pugnahan are N/A under the Object/Place Work Rule. The reading is the set \n  252  22  **Full-set source review (2026-10-11):** Reviewed the `— · α` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Note\n  275   1  | **Post-contact review** | Both counts in full by row, the corner walk, the temperature series, the hand log including stopped re\n  286   1  The first return under the Rule of the Delivered Harvest, Year 4238. Across the nine completed years before this one the facility \n  330   1  **After departure:** You name the thing. Everybody names a thing, and it is never money in general; it is the specific entitlement\n  336   2  **Interaction method:** For the one measured relationship, both series by season, in writing, with no interpretation attached. For\n  343   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  345   6  | **The Debt Wall** | The claim that the Wall's obligations feed this garden is a Year 4214 summary line. No measurement exists an\n  385   1  - Ferrehan lowers the gauge; Viderehan holds it level and returns the account of what the debtor wanted. Flerehan and Pugnahan are\n  399   5  **Faction Involvement:** SED (C-territory survey) · UCD (Collector-adjacent district) · the credit office, listed on an entity fil\n  404   2  **Operational interpretation:** Read this file with the set-off return beside it. Taken alone it holds a productive-looking garden\nGENERIC 0.008  (51 shared shingles)  SE-N-IIβ-456_Fading_Fruit_번져가는_열매.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-A__SIDE_CODEX_Orchard_of_the_Indebted.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-B__MAW-W_The_Indebted_Dagger.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-C__MAW-S_The_Indebted_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-D__MAW-G_The_Indebted_Charm.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-A__SIDE_CODEX_Orchard_of_the_Indebted.md": "1b3213f8175eb44757a61b7c780b55e577711fa71cf903c2af43d926abded9f6",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-B__MAW-W_The_Indebted_Dagger.md": "05d410fbcda3429c65115d6e8a5baf2173eda4a0e71a920726fbeaae0f84bd06",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-C__MAW-S_The_Indebted_Plate.md": "60176f5ff809b71bbff45c9450f3fcc3e6e9bfa0d21aba8c3ab52b2917c1765a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-D__MAW-G_The_Indebted_Charm.md": "c3e51f5bd3c5a6ec78628b4a5bc2b146ddb4794ba62b9541d297954e4f598b8e"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IIβ-456_Fading_Fruit_번져가는_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-456_Fading_Fruit_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%97%B4%EB%A7%A4.md \"SE-N-IIβ-456_Fading_Fruit_번져가는_열매.md\")]",
+      "table_link": "[[N-IIβ-456 Fading Fruit](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-456_Fading_Fruit_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%97%B4%EB%A7%A4.md \"SE-N-IIβ-456_Fading_Fruit_번져가는_열매.md\")]",
+      "reading": {
+        "before_lines": 455,
+        "before_bytes": 51878,
+        "final_lines": 455,
+        "final_bytes": 53585
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 15,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": false,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The unsupported Han Dust range `10 kg–100 kg` and Row 4's personnel `15%` Sorrow Gauge rise were removed. The Ultimate trigger changed from 65% to the Core Stat Line/Operational threshold ≥60%."
+      }
+    }
+  ]
 }
