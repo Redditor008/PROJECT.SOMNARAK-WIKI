@@ -1,0 +1,201 @@
+{
+  "unit": 4,
+  "designation": "N-IIβ-152",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md",
+  "words": 8708,
+  "sha256": "15fd270b57154cafc8cf92cf0e46f854e5fa142c36ae0148f05f5a9e5a873cf7",
+  "name": "Doorway to Nowhere",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_04_DOORWAY_TO_NOWHERE.md",
+  "before_words": 8708,
+  "after_words": 8908,
+  "base": "ec16360b4bff5a0ec7dda3b98a37c5a03eb5e66d",
+  "final_sha256": "0214d18f1e41a6f87f40dcd0255d614b38dd82d48851298f71f3e39dd5d30fcb",
+  "summary": "Fifteen repairs (2 short / 13 careful). The Door no longer appears inside a wall, is opened by personnel, multiplies across every surface, or triggers its Ultimate at the wrong Gauge. Its actions now use the walking frame resolving before a worker, a false step toward a self-shown remembered room, a forced handle, a second forcing by the same person, and Gauge ≥60%. Exact Shroud/Key appearances and Door With Return partner/anchor/closure rules were restored, an explicit Management row was added, and the Tale now centers the missing return clause. HELD with no fresh equipment credit because the full β set and a dated 2026-10-11 full-set source review pre-existed.",
+  "commentary": "The evacuation worked. That is the hard part. Eleven thousand people got out under an excellent fourteen-page order—and the order ended at the assembly points, with nobody named to tell them whether they could ever go home.",
+  "reasoning": "R-34 audit before editing. Identity is direct SE-152: Side A prints `N-IIβ-152 [LS]`, Subject, II/β, Lament, Zone A Alpha Tree, a burning wall-less charred frame whose handle opens onto different memories, starting Gauge 35–50% and set Carried Threshold; B/C/D carry `MAW-W/S/G-152-01`. The primary's dominant local instrument is the reference-lamp glow (3.1 m baseline, 0–57 m range) read against departure orders, while Side A supplies the crucial safety grammar: a memory is not a promised destination, Ferrehan keeps a physical return partner outside the image, and corruption begins when a worker enters an opening as if it must restore the past or attacks the Door for failing to do so. Repairs rebuilt Rows 1, 2, 4 and 5 from those facts and retained the already-correct forced-handle Slam. Exact C/D supplied the charred-seam Shroud, Current Side/Close the Frame, toothless doorframe-bow Key, Remembered Handle and Open Briefly. All parsed table blocks are equal and all Trigger cells parse fifth.",
+  "history": "Draft/local history: the Year 4211 border evacuation moved 11,000 people in forty minutes with nine deaths, but its fourteen-page order named no return condition, certifying officer or date; 2,640 households never returned and 870 were recorded holding doors. The primary's Rule of the Return Clause and lamp series are local history not mechanically overwritten by Side A's gentler memory-home framing. Fresh equipment credit BARRED on this HELD result: before repair it already contained all three β pieces, matching Side damage/resistances/slot/costs, Use Notes, Field Use Record and the dated 2026-10-11 full-set source review. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+  "holds": [
+    "Classification fork: primary Inner Sorrow / Subject-Lament versus Side A Outside Sorrow / Subject-Grudge for the same `[LS]` Lament designation. The primary explicitly treats Subject-Grudge as corrected drift, so neither label is normalized here. Held.",
+    "Weapon fork: primary, Side heading and Appearance support the spherical brass Wayfarer's Censer, while B's Official Name and Resting/Active forms retain The Wandering Requiem as a slender blue blade with a threshold line; archetype Medium also conflicts with Range 2 (Short). Held.",
+    "Mechanism fork: the primary's glow tracks clauseless departure orders over twenty-seven years and absolutely forbids sending personnel through the entity; Side A frames openings as remembered-home passages under a return-partner protocol. Safe return rules were restored, but the mechanisms were not merged. Held.",
+    "Permanent-refusal count fork: Behavior says two people were permanently refused after second forcing attempts, while the pre-repair Combat row said four. The disputed count was removed from the Trigger cell and no figure was selected. Held.",
+    "Metadata fork: Side A gives Lament pressure 8–20, Comprehension 2—Studied and no maximum Gauge; primary gives 7–17, 457/457 and 2—Basic. Held.",
+    "No opening has established whether a memory behind the frame belongs to a living person, and no destination has recurred in twenty-seven years. Held."
+  ],
+  "split": [
+    2,
+    13
+  ],
+  "repairs": [
+    {
+      "id": "R01-entity-breach-model-only",
+      "kind": "short classification correction",
+      "careful": false,
+      "old": "| **Entity Type** | **Subject** — Can breach |",
+      "new": "| **Entity Type** | **Subject** — Breach-capable in the reconstruction model only; no breach observed in twenty-seven years |"
+    },
+    {
+      "id": "R02-operational-pressure-clarity",
+      "kind": "short field correction",
+      "careful": false,
+      "old": "| **Primary pressure** | Mental / emotional pressure |",
+      "new": "| **Primary pressure** | Clarity — certainty about which remembered address is the worker's current home |"
+    },
+    {
+      "id": "R03-resistance-safeguards",
+      "kind": "careful stat correction",
+      "careful": true,
+      "old": "| **Resistance** | 25% against Lament pressure; 15% against other pressure types |",
+      "new": "| **Resistance** | 25% against Lament pressure; 15% against other pressure types. Step out of its path and let it walk; never seal a zone around it or force the handle. A return partner keeps the current place named from outside any shown room |"
+    },
+    {
+      "id": "R04-knock-resolves-trigger",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Knock* [**Debuff**] } | \"A door appears in a wall that had no door — and then it knocks.\" | [The Door manifests; the knock is a question the target must answer.] | *Target suffers -10 Composure; the door wants to be opened.* **[10 Lament DMG [Lament]]** | When the Door appears. |",
+      "new": "| { *The Knock* [**Debuff**] } | \"A door appears in a wall that had no door — and then it knocks.\" | [The wall-less frame comes down the corridor at its constant walk and resolves in front of the worker; the knock is felt as an arrival, not an instruction to turn the handle.] | *Target suffers -10 Clarity; for a time they cannot say with confidence which home is their current one.* **[10 Lament DMG [Lament]]** | When the walking frame stops or resolves in front of the target in the corridor. |"
+    },
+    {
+      "id": "R05-wrong-room-false-return-trigger",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Wrong Room* [**Debuff**] } | \"You open it — and the room behind it is one you left years ago, and never wanted to see again.\" | [The Door opens onto old grief; the target is pulled toward the threshold.] | *Target loses 10 Composure; the room behind the door calls.* **[10 Lament DMG [Lament]]** | When the target opens the Door. |",
+      "new": "| { *The Wrong Room* [**Debuff**] } | \"You open it — and the room behind it is one you left years ago, and never wanted to see again.\" | [The frame itself shows or stands open on a remembered room more clearly than the corridor; no personnel hand has turned the handle.] | *Target loses 10 Clarity; the return partner names the present location while physical contact is maintained.* **[10 Lament DMG [Lament]]** | When the target steps or reaches toward a shown room as though it must restore the past or serve as the way home. |"
+    },
+    {
+      "id": "R06-locked-out-second-forcing",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Locked Out* [**Attack**] } | \"You are on the side you did not choose and there is no clause in anything you were given that says how you get back to the other one.\" | [The frame seals and will not reopen for that worker again.] | *A heavy Lament exile; the target's Sorrow Gauge rises 15%.* **[24-36 Lament DMG [Lament]]** | After a second forcing by the same person. Four people have been permanently refused. |",
+      "new": "| { *The Locked Out* [**Attack**] } | \"You are on the side you did not choose and there is no clause in anything you were given that says how you get back to the other one.\" | [The frame seals, blisters the forcing hand, and will not reopen for that worker again.] | *Heavy Lament exile; no personnel Sorrow Gauge is inferred. The worker is permanently refused by the frame.* **[24-36 Lament DMG [Lament]]** | When the same person forces the handle a second time. |"
+    },
+    {
+      "id": "R07-thousand-doors-threshold60",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *A Thousand Doors* [**Ultimate**] } | \"Doors appear in every wall — and behind every one, a grief you have to face.\" | [The Door multiplies across every surface, all of them knocking.] | *All in range suffer Lament pressure for three turns among the open doors.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *A Thousand Doors* [**Ultimate**] } | \"Doors appear in every wall — and behind every one, a grief you have to face.\" | [Impossible spaces open through the local environment; a remembered room shows more clearly than the current corridor.] | *All personnel in the affected corridors suffer Lament pressure for three turns while return partners maintain contact, name the present location, and close the interaction without burning or forcing the frame.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥60%. |"
+    },
+    {
+      "id": "R08-battle-resolution",
+      "kind": "careful phase correction",
+      "careful": true,
+      "old": "3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Close the door consciously; do not force passage**.",
+      "new": "3. **Resolution:** The watch resolves only when the door has been left unopened and allowed to close on its own, no passage has been forced, the lamp has been read, every handle approach is logged, and the Gauge is below 25%. **Close the door consciously; do not force passage** is the management condition, not a suppression result."
+    },
+    {
+      "id": "R09-shroud-appearance",
+      "kind": "careful appearance restoration",
+      "careful": true,
+      "old": "**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.",
+      "new": "**Appearance:** a deep-blue shroud of fine Lament Han cloth with a thin charred seam like a doorframe around the shoulders. It drapes from collar to waist, leaves the hands free, stays cool on the current side, and closes with one clasp the return partner can release."
+    },
+    {
+      "id": "R10-shroud-ability",
+      "kind": "careful equipment correction",
+      "careful": true,
+      "old": "**Ability:** Wards Lament pressure on the Mind, and holds the wearer's sense of where they live. It is issued for the watch and kept on to the vehicle, which the lamp readers insisted on after two workers removed it in the corridor and gave their home addresses wrong.",
+      "new": "**Ability:** *Current Side* wards Lament pressure on the Mind by keeping the wearer's body and address distinguishable from a shown room. In *Close the Frame*, the return partner names the physical landmark and the bearer answers from the current room, closing one threshold-memory surge without deleting the home memory. It is kept on to the vehicle after two workers removed it in the corridor and gave their home addresses wrong."
+    },
+    {
+      "id": "R11-key-appearance",
+      "kind": "careful appearance restoration",
+      "careful": true,
+      "old": "**Appearance:** a key-charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.",
+      "new": "**Appearance:** a small deep-blue key-charm of Lament Han metal with no teeth, a smooth shaft and a bow shaped like a doorframe. It is cool at rest and warms only when a remembered doorway is near; in use it outlines a narrow temporary threshold."
+    },
+    {
+      "id": "R12-key-ability-anchor-plan",
+      "kind": "careful equipment correction",
+      "careful": true,
+      "old": "**Ability:** The key opens a passage to a place the bearer remembers, for as long as they can hold it. It has been used four times in twenty-seven years and all four uses are documented in full, including the one that was not authorised.",
+      "new": "**Ability:** *Remembered Handle* identifies a nearby remembered threshold without proving that the place survives or can be reached. *Open Briefly* creates one temporary passage for orientation, farewell or limited recovery only after a return partner confirms the current anchor and closure cue; it cannot retrieve people from the past, create a permanent route or override a closed physical boundary. It has been used four times in twenty-seven years, including one unauthorised use, and all four are documented in full."
+    },
+    {
+      "id": "R13-use-notes-door-with-return",
+      "kind": "careful equipment correction",
+      "careful": true,
+      "old": "The set is built around thresholds and refuses to cross them: a censer whose smoke will not go through a doorway, a shroud that holds a wearer's address in place, a key that opens a way back and charges the bearer the place itself. The armoury's note records that none of it was designed, that it was found piece by piece over twenty-seven years, and that the fourth piece attempted here — a lintel intended to hold the frame open indefinitely so that a destination could be surveyed from outside — worked exactly as specified and was dismantled before it was ever carried into the corridor.",
+      "new": "The set is built around thresholds and refuses to cross them: a censer whose smoke will not go through a doorway, a shroud that holds a wearer's address in place, a key that opens a way back and charges the bearer the place itself. The armoury's note records that none of it was designed, that it was found piece by piece over twenty-seven years, and that the fourth piece attempted here — a lintel intended to hold the frame open indefinitely so that a destination could be surveyed from outside — worked exactly as specified and was dismantled before it was ever carried into the corridor. As *Door With Return*, no remembered threshold is opened until a physical return partner, current-location anchor and specific closure cue exist; the passage is for orientation, recovery or exit, never Gate authority, permanent transport or a claim that the remembered home has been restored."
+    },
+    {
+      "id": "R14-tale-return-clause",
+      "kind": "careful narrative correction",
+      "careful": true,
+      "old": "The border evacuation was sudden — a surge, a Han-advance, the order to flee issued faster than the citizens could process. The families ran. They left their homes — the tenements, the dwellings, the rooms where their lives had been organized. And the doors — the thresholds, the frames, the physical boundaries between inside and outside, between home and not-home — were torn from the walls, or left standing in empty frames, or carried by the fleeing families as the last piece of the home they were abandoning.\n\nThe doors became symbols. Each door a family carried — or each door left standing in a demolished frame — was a threshold: the boundary between the home that was and the homelessness that followed. The door was the last piece of the inside, carried into the outside, the remnant of the boundary that had, in the home, separated the private from the public, the safe from the unsafe, the belonging from the not-belonging.\n\nThe doors wander. Doorway to Nowhere is Subject-Lament, Lament-element: the figure of a threshold carried after the place it thresholded is gone — the door that leads to a home that no longer exists, held by families who left not knowing whether they could return, preserved as a moving boundary between a past that is destroyed and a future that is uncertain. The Door does not open onto anything. It opens onto absence. But it is carried, faithfully, by the families who took it, because the door, even without the home, is the last proof that the home was there.\n\nThose who come near the Doorway to Nowhere feel the grief of the carried threshold — the specific sorrow of holding a door that opens onto nothing, of carrying the boundary of a home that is gone, of leaving through a door and not knowing, as you leave, whether the door will ever again open onto the room it was made for.\n\nSome sorrows mourn a home. Doorway to Nowhere mourns the leaving — the door torn from its frame, carried by the fleeing, the threshold to a place that may not survive the family's absence, preserved as a wandering boundary between the home that was and the home that, if the family is fortunate and the city is kind, might someday be again.",
+      "new": "The border evacuation of Year 4211 was not a failure of rescue. Eleven thousand people were moved in forty minutes under a fourteen-page order with routes, assembly points and livestock provisions; nine died. What the order did not contain was a return condition, a certifying officer or a date. It ended at the assembly points. Two thousand six hundred and forty households never went back, and eight hundred and seventy were still recorded as holding a door.\n\nThe entity that formed in the Alpha Tree corridors the following year is one wall-less frame of charred wood and live fire, walking at a constant pace for twenty-seven years. Personnel do not turn its handle and nobody has been sent through it. Its light is read against a reference lamp, and the metres do not track empty houses as such: they track homes emptied by orders that named no way back.\n\nDoorway to Nowhere therefore mourns neither the surge nor the leaving that saved them. It preserves the silence after the assembly points—the proof a home existed, carried forward without any promise that its threshold will open onto that home again."
+    },
+    {
+      "id": "R15-management-row",
+      "kind": "careful management correction",
+      "careful": true,
+      "old": "| **Escalation** | Composure drain +5 per turn while a worker stands in its path. It stops when they step aside, and the doctrine is accordingly to let it walk. |",
+      "new": "| **Management** | Close the door consciously; do not force passage. Step aside and let the frame walk, keep both hands off the handle, name the current place with a return partner, and read the glow against the reference lamp. |\n| **Escalation** | Composure drain +5 per turn while a worker stands in its path. It stops when they step aside, and the doctrine is accordingly to let it walk. |"
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.024  clean   534 grams  기록 (Registrum)\n 0.010  clean   706 grams  Combat Record\n 0.010  clean   620 grams  감각 묘사 (Flavor Text)\n 0.003  clean   343 grams  관찰 기록 (Observation Log)\n 0.002  clean  1049 grams  이야기 보고 (Story Log)\n 0.001  clean   916 grams  M.A.W. Equipment\n 0.000  clean   479 grams  Watch Record\n 0.000  clean   309 grams  Trivia\n 0.000  clean   290 grams  Breach Behavior\n 0.000  clean   246 grams  Appearance\n 0.000  clean   239 grams  Origin\n 0.000  clean   232 grams  Operational Parameters\n 0.000  clean   188 grams  이야기 (Narratio)\n 0.000  clean   143 grams  최종 관찰 (Final Observation)\n 0.000  clean   141 grams  Behavior\n 0.000  clean    61 grams  증언 (Testimonium)\n 0.000  clean    43 grams  SECC Classification\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   55   1  | **Resistance** | 25% against Lament pressure; 15% against other pressure types. Step out of its path and let it walk; never seal\n   85   4  | { *A Thousand Doors* [**Ultimate**] } | \"Doors appear in every wall — and behind every one, a grief you have to face.\" | [Imposs\n   89   2  1. **Tension:** Identification first — Doorway to Nowhere is recognised by the lamp reading, not by the fire. The frame burns at t\n  225   1  **Effect:** +1 when working this entity, and the bearer may not be the person who reads the lamp. The holding separated the roles \n  269   1  | **Post-contact review** | Three lamp readings with their times, the route and facings, the handle log including stopped approach\n  280   1  The first return under the Rule of the Return Clause, Year 4238. This facility issued one thousand six hundred and forty-two order\n  299   1  The ground is the lamp. The quarter we cleared nine perimeter streets with no clause, no officer and no date in any of the nine, t\n  326   1  Three records are grouped with this one and two of the three are grouped because they are doors. The holding's position, stated in\n  328   2  **Interaction method:** No proximity trial has been run and none is scheduled; this holding walks and cannot be brought anywhere. \n  333   1  Three records are grouped with this one and two of them are grouped because they are doors, which this file regards as the weakest\n  335   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  337   1  | **The Final Door** | Grouped on being a threshold to somewhere unknown. The distinction this file insists on: that one is about \n  371   3  - Flerehan and Ferrehan lower the gauge; Viderehan holds it level; Pugnahan raises it, and forced entry is the dominant cause of a\n  376   2  - The Rule of the Return Clause is a containment condition of this entity and binds the emergency directorate and every office of \n  384   5  **Faction Involvement:** SED (A-territory survey) · the emergency directorate, listed on an entity file because the Rule of the Re\n  389   3  **Operational interpretation:** Read this file with the order return beside it. Taken alone it holds a burning door that walks a c\nGENERIC 0.005  (31 shared shingles)  SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-A__SIDE_CODEX_Doorway_to_Nowhere.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-B__MAW-W_The_Wandering_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-C__MAW-S_The_Wandering_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-D__MAW-G_The_Wandering_Key.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-A__SIDE_CODEX_Doorway_to_Nowhere.md": "7aa7ce03ff1b94fe9493f64018013217852989549c4ae43e0f740745d206417e",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-B__MAW-W_The_Wandering_Requiem.md": "2344f186186d92b6564b540572be7756f523a6d27648f7615dd2a8973c61ae35",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-C__MAW-S_The_Wandering_Shroud.md": "9b9ec76e16d7e92d11c748007f3d6432581eb34dfeb2cbbfc3034621028c8734",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-D__MAW-G_The_Wandering_Key.md": "9208fb24993f366c49e7476d3faed6d551f9a80c026836ab5e0640b36b627e97"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-152_Doorway_to_Nowhere_%EB%96%A0%EB%8F%84%EB%8A%94_%EB%AC%B8.md \"SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md\")]",
+  "table_link": "[[N-IIβ-152 Doorway to Nowhere](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-152_Doorway_to_Nowhere_%EB%96%A0%EB%8F%84%EB%8A%94_%EB%AC%B8.md \"SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md\")]",
+  "reading": {
+    "before_lines": 443,
+    "before_bytes": 51358,
+    "final_lines": 440,
+    "final_bytes": 52652
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 15,
+    "physical_form_rows_unchanged": 300,
+    "tale_unchanged": false,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 4,
+    "digit_sequence_change": "Row 4's unsupported personnel `15%` Sorrow Gauge rise and disputed refusal count `Four` were removed from Combat. The Ultimate trigger changed from 65% to the Core Stat Line/Operational threshold ≥60%."
+  }
+}

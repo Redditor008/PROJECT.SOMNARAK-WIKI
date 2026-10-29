@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IIβ-152": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_04_DOORWAY_TO_NOWHERE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -4995,8 +5007,23 @@
     {
       "designation": "N-IIβ-152",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Fifteen repairs (2 short / 13 careful). The Door no longer appears inside a wall, is opened by personnel, multiplies across every surface, or triggers its Ultimate at the wrong Gauge. Its actions now use the walking frame resolving before a worker, a false step toward a self-shown remembered room, a forced handle, a second forcing by the same person, and Gauge ≥60%. Exact Shroud/Key appearances and Door With Return partner/anchor/closure rules were restored, an explicit Management row was added, and the Tale now centers the missing return clause. HELD with no fresh equipment credit because the full β set and a dated 2026-10-11 full-set source review pre-existed.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_04_DOORWAY_TO_NOWHERE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-A__SIDE_CODEX_Doorway_to_Nowhere.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-B__MAW-W_The_Wandering_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-C__MAW-S_The_Wandering_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-D__MAW-G_The_Wandering_Key.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IIβ-170",
