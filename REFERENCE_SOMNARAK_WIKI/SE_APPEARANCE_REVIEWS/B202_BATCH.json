@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 202,
   "status": "OPEN",
-  "completed_units": 3,
+  "completed_units": 4,
   "required_units": 5,
   "queue": [
     {
@@ -42,7 +42,7 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 3,
+  "completed": 4,
   "units": [
     {
       "unit": 1,
@@ -773,6 +773,259 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 4,
         "digit_sequence_change": "Combat now uses the exact ≥90% threshold and <25% closure condition instead of the former 65% Ultimate and invented +15 Gauge jump."
+      }
+    },
+    {
+      "unit": 4,
+      "designation": "C-IVγ-009",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md",
+      "words": 8840,
+      "sha256": "ebefaaa92e8fd6993abdb66aa58e425f8b1b754f819f98d829716ef76b132bf1",
+      "name": "The Memory Weaver",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_04_THE_MEMORY_WEAVER.md",
+      "before_words": 8840,
+      "after_words": 9260,
+      "base": "59cc04a08455e77f308004443d72fccfd12bb59c",
+      "final_sha256": "19d8f1727cfd824e532a4551ce9d16bcde268d714e1c7ffc93ebfc0e67860d20",
+      "summary": "HELD +0 — 22 repairs make the Weaver a trade-and-anchor encounter rather than a generic memory monster.",
+      "commentary": "The file's central instrument is not the Gauge. It is the record made before anybody can lose the thing it describes: baseline first, identity card second, memory trade last, if at all.",
+      "reasoning": [
+        "Side A supplies an exact trade sequence: visible offer, unlogged acceptance, refusal by violence, raw-memory overload and World Tapestry at 65% or three losses. Combat now follows those checkable conditions instead of begins/lingers/disturbed/confronted.",
+        "Identity cards and baseline inventories are not flavour; a Weaver taking leaves no felt absence, so only records made before contact can prove a loss.",
+        "Resolution must satisfy two truths: only a genuine lived memory can overload the Weaver, and local procedure forbids improvised sacrifice. The corrected file therefore treats withdrawal behind written anchors as the lawful close when both conditions cannot be met."
+      ],
+      "history": "Batch 87 revised the exact Side weapon identity and Batch 134 added source-led Awl/Veil/Mask accountability to the primary; unresolved source forks remain. HELD +0 with no fresh Types, Weapon or SE Appearance Fix credit.",
+      "holds": [
+        "Shuttle-Awl versus residual Lens terminology/filename. Held.",
+        "Suit memory-return and aftereffects differ between primary and item. Held as separate accounts.",
+        "Stigma 4%/+2 unspecified stat versus Registry 5%. Held.",
+        "Breach Gauge per completed trade versus encounter thresholds. Held as separate breach accounting.",
+        "Whether a returned memory regains context and ownership. Held."
+      ],
+      "split": [
+        5,
+        17
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-clarity-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Identity / memory pressure |",
+          "new": "| **Primary pressure** | Clarity — identity, memory ownership and the ability to distinguish lived past from offered recollection |"
+        },
+        {
+          "id": "R02-pressure-clarity-combat",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary Pressure** | Composure |",
+          "new": "| **Primary Pressure** | Clarity |"
+        },
+        {
+          "id": "R03-movement-spider-dream",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |",
+          "new": "| **Movement** | Mobile — spider-like crawling within the library; in breach it withdraws through the Dream layer and does not pursue in the waking layer. |"
+        },
+        {
+          "id": "R04-restitution-one-day",
+          "kind": "short apex correction",
+          "careful": false,
+          "old": "Four times a cycle the holding runs a restitution day: memories identified in the catalogue as belonging to living citizens are returned through the procedure the Memory Archive's liaison office administers.",
+          "new": "Once a cycle—reduced from four days in the forty-ninth year—the holding runs a restitution day: memories identified in the catalogue as belonging to living citizens are returned through the procedure the Memory Archive's liaison office administers."
+        },
+        {
+          "id": "R05-resistance-memory-anchors",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 40% against Void pressure and 30% against other types — a thing that gives way slowly because it is holding a design together |",
+          "new": "| **Resistance** | 40% against Void pressure and 30% against other types — a thing that gives way slowly because it is holding a design together. Every entrant carries a written Name / Date / Destination / One Memory I Refuse to Trade card and a current baseline inventory. Record a personal anchor before any acceptance, ground that one acceptor before another may engage, and maintain verbal check-ins plus written positions. Do not cut webs or refuse by force; withdraw and separately debrief anyone who recognises a shelf memory. |"
+        },
+        {
+          "id": "R06-resolution-genuine-not-staged",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | Present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger |",
+          "new": "| **Resolution Condition** | A genuine, lived memory too specific, painful and unrepeatable for the Weaver to weave overwhelms its hunger and drops the Gauge. Fabricated or rehearsed confession does not work, and no offer may be improvised outside the written pre-authorisation; if those conditions cannot both be met, withdraw behind the identity cards. |"
+        },
+        {
+          "id": "R07-first-thread-trade-offer",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The First Thread* [**Debuff**] } | \"It draws a strand from your temple — thin, silver, shimmering — and it is made of a memory you have not thought of in years.\" | [The Weaver extracts a memory-thread from the target; the recollection is taken.] | *Target suffers a Void mark; a piece of their past is being removed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Weaver begins to work. |",
+          "new": "| { *The First Thread* [**Debuff**] } | \"It draws a strand from your temple — thin, silver, shimmering — and it is made of a memory you have not thought of in years.\" | [The Weaver extends a visible thread and presents an unfamiliar recollection as a trade offer, attaching to the nearest willing or curious observer.] | *The observer gains a Void mark. The team records the offered memory's subject, setting and emotional temperature; no acceptance is valid until that observer records a personal anchor.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Weaver extends a visible memory-thread or presents an unfamiliar recollection. |"
+        },
+        {
+          "id": "R08-tapestry-unlogged-acceptance",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Tapestry of Stolen Pasts* [**Debuff**] } | \"Around it, the Weaver's loom is full — other people's memories, woven together — and now yours joins them.\" | [The target's recollection goes onto the loom and takes its place in the pattern, and the pattern is what starts to feel familiar.] | *Target loses clarity; their past is being worked into a design that was never theirs.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |",
+          "new": "| { *The Tapestry of Stolen Pasts* [**Debuff**] } | \"Around it, the Weaver's loom is full — other people's memories, woven together — and now yours joins them.\" | [An unanchored acceptance lets the offered past take a place in the loom while one of the observer's own memories becomes exchange collateral.] | *The observer loses Clarity and one personal memory is held as collateral. No second observer may accept an offer until the first is grounded against the written card and baseline.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When an observer accepts an offered memory without first recording a personal anchor. |"
+        },
+        {
+          "id": "R09-memory-blade-violent-refusal",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Memory Blade* [**Attack**] } | \"It pulls a thread taut and whips it — sharp as wire, and it cuts where you remember.\" | [A woven memory-thread strikes like a whip.] | *Inflicts Void damage; the cut severs a piece of recollection.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Weaver is disturbed. |",
+          "new": "| { *The Memory Blade* [**Attack**] } | \"It pulls a thread taut and whips it — sharp as wire, and it cuts where you remember.\" | [A taut memory-thread answers force by cutting the aggressor's immediately relevant recollection rather than the body.] | *Inflicts Void damage and may sever a route, name or purpose needed in the moment. Stop all cutting/attacking, read the aggressor's identity card aloud, and withdraw them for separate debrief.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When personnel cut webbing, attack the Weaver, or demand a memory through force. |"
+        },
+        {
+          "id": "R10-unraveling-loom-seizure",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Unraveling* [**Attack**] } | \"It pulls the whole tapestry tight — and then lets go — and every stolen memory unwinds at once.\" | [The loom comes apart at once and every past it was holding unwinds into the room together.] | *A heavy Void flood of borrowed pasts; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Weaver is confronted. |",
+          "new": "| { *The Unraveling* [**Attack**] } | \"It pulls the whole tapestry tight — and then lets go — and every stolen memory unwinds at once.\" | [An attempt to seize or destroy the loom's collected pasts loosens many held threads into the room at once.] | *A heavy Void flood of borrowed pasts; no personnel Gauge surge is inferred. Freeze all handling, activate written anchors, and survey the Dream-layer zone from outside before cataloguing what was displaced.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When personnel attempt to seize, tear down or destroy the loom or its collected memories. |"
+        },
+        {
+          "id": "R11-world-tapestry-three-losses",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The World Tapestry* [**Ultimate**] } | \"Threads extend from every person — and the Weaver pulls them all, weaving everyone's past into one design.\" | [Threads run out from the loom to every person standing in the room, and the pulling starts at once.] | *All in range suffer Void erosion for three turns as their threads are worked into the design.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The World Tapestry* [**Ultimate**] } | \"Threads extend from every person — and the Weaver pulls them all, weaving everyone's past into one design.\" | [The tapestry expands across the room and every written memory anchor is challenged at once.] | *All personnel in the room suffer Void erosion for three turns. The team retreats behind written identity cards, ends all trade, and does not separate until names, dates, destinations and refused memories are read back.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% or three team members lose separate memories in one encounter. |"
+        },
+        {
+          "id": "R12-battle-resolution-no-improv",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** The sitting ends on an offer the loom cannot swallow — a memory too personal and too raw to be taken — so that the hunger is overwhelmed instead of fed. The file's standing condition reads: **present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger** — an answer that costs the person who gives it, which is why the file expects it to be given knowingly.",
+          "new": "3. **Resolution:** The sitting can end only on a genuine lived memory too specific, painful and unrepeatable to weave; a fabricated or rehearsed confession is recognised and does not overwhelm the hunger. Because local procedure also forbids improvised trades, the team does not manufacture this ending in the chamber: absent a lawful pre-authorised presentation, it grounds every acceptor, reads the identity cards, and withdraws."
+        },
+        {
+          "id": "R13-consequence-dream-breach",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- Resolution that fails leaves the narrative to continue on its own catastrophic terms — a cell breach, territory taken, and escalation quick on the heels of both.",
+          "new": "- Resolution that fails does not become a corridor pursuit. The Weaver withdraws into the Dream layer while the surveyed room stops matching its plan; response is run on the square metres of disagreement, all trade is prohibited, and unreturned takings remain in a library whose catalogue is only a fraction of the loss."
+        },
+        {
+          "id": "R14-identification-specific",
+          "kind": "careful appearance correction",
+          "careful": true,
+          "old": "| **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |",
+          "new": "| **Identification** | Confirm the spider-like crystallized-memory body, eight braided-thread legs, memory-filled crystal eye sockets, Dream-layer webs and an opening trade offer. A beautiful memory nobody on the team owns is an identification cue, not an invitation to accept it. |"
+        },
+        {
+          "id": "R15-appearance-protocol-anchors",
+          "kind": "careful appearance correction",
+          "careful": true,
+          "old": "**Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”",
+          "new": "**Appearance protocol:** Record scale, posture and distance against the room plan; the first visible thread or offered recollection with subject/setting/emotional temperature; Dream-layer web registration; every acceptance, refusal and recognition; and whether the surveyed room still matches its drawing. Sensation alone is not entered as evidence, and no appearance note is completed from a memory the Weaver supplied."
+        },
+        {
+          "id": "R16-detailed-movement-no-pursuit",
+          "kind": "careful appearance correction",
+          "careful": true,
+          "old": "| **Position / movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). Posture and distance are logged because on The Memory Weaver neither has ever been assumed. |",
+          "new": "| **Position / movement** | Mobile — crawls on eight braided memory-thread legs within the library and manifests through the Dream layer. It offers, webs or withdraws; the record contains no waking-layer pursuit. Posture and distance are logged against the room plan. |"
+        },
+        {
+          "id": "R17-observation-catalogue-split",
+          "kind": "careful observation correction",
+          "careful": true,
+          "old": "- The Weaver's lair contains over 10,000 memories catalogued in an undeciphered language.",
+          "new": "- The Directorate's plain-script catalogue now exceeds 10,000 entries; the Weaver's own markings in the lair are a separate system and remain unread."
+        },
+        {
+          "id": "R18-use-notes-archive-one",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Everything issued here is a piece of something somebody else lost rather than ordinary equipment. Its stated benefit is sharpest against Void. The price sits in its own column and does not change: the bearer's own recall thins from the edges inward, item by item, and the items that go are never the ones anybody would have picked.",
+          "new": "Everything issued here is a piece of something somebody else lost rather than ordinary equipment. Its stated benefit is sharpest against Void. The price sits in its own column and does not change: the bearer's own recall thins from the edges inward, item by item, and the items that go are never the ones anybody would have picked.\n\n**Set resonance — Archive of One:** When all three pieces are carried by a bearer who has written and sealed a personal memory with the Archive before entry, the set can preserve one memory taken in the encounter as a recoverable record rather than letting it dissolve into the tapestry. Until recovered, the bearer cannot emotionally feel that sealed memory. The resonance preserves evidence; it does not authorise an unlogged trade."
+        },
+        {
+          "id": "R19-story3-counselling-inventory",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "**Entry 3 — <Excerpt from Counseling Log>**\nThe terror of being erased and the loneliness of memories no one claims.",
+          "new": "**Entry 3 — <Excerpt from Counseling Log>**\nThe terror of being erased and the loneliness of memories no one claims cannot be screened by asking workers whether anything feels missing: a Weaver taking leaves no seat of absence. Counseling therefore works from the sealed baseline, the identity card and the ninety-day repeat inventory, and it withdraws a worker who recognises a shelf item before the crew can confer."
+        },
+        {
+          "id": "R20-interaction-method-anchors",
+          "kind": "careful interaction correction",
+          "careful": true,
+          "old": "**Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.",
+          "new": "**Interaction method:** Baseline each holding alone first. Weaver staff enter only with identity cards, current inventories, written positions and all trade prohibited unless separately pre-authorised. At first shared change record trigger, distance, duration, both Gauges, Dream-layer web registration, whether the room still matches its plan, and every offer/recognition. Separate the records before crews confer, because recognition can move socially through a team."
+        },
+        {
+          "id": "R21-consequence-clarity",
+          "kind": "short consequence correction",
+          "careful": false,
+          "old": "- A worker who breaks under the loom’s pressure pays twice: the gauge climbs as **Composure** shatters into a psychological Fracture.",
+          "new": "- A worker who breaks under the loom’s pressure pays twice: the gauge climbs as **Clarity** fails and the worker can no longer separate a lived past from an offered one."
+        },
+        {
+          "id": "R22-final-observation-no-improv",
+          "kind": "careful final observation correction",
+          "careful": true,
+          "old": "| Do the thing on file: Present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger. | Reach for Pugnahan, which the Behavior table shows raising the gauge every time it has been logged. |",
+          "new": "| Do the thing on file: do not improvise a trade. Ground every acceptor against the identity card, and close only through a lawful, genuine presentation that the Weaver cannot weave—or withdraw intact behind the written anchors. | Reach for Pugnahan, which the Behavior table shows raising the gauge every time it has been logged. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.015  clean   194 grams  Operational Parameters\n 0.011  clean   268 grams  기록 (Registrum)\n 0.008  clean   242 grams  Breach Behavior\n 0.007  clean   807 grams  Combat Record\n 0.007  clean   843 grams  M.A.W. Equipment\n 0.000  clean  1866 grams  Apex Record\n 0.000  clean   813 grams  감각 묘사 (Flavor Text)\n 0.000  clean   422 grams  이야기 (Narratio)\n 0.000  clean   334 grams  관찰 기록 (Observation Log)\n 0.000  clean   249 grams  Behavior\n 0.000  clean   246 grams  이야기 보고 (Story Log)\n 0.000  clean   219 grams  Appearance\n 0.000  clean   163 grams  Trivia\n 0.000  clean   143 grams  최종 관찰 (Final Observation)\n 0.000  clean    92 grams  Origin\n 0.000  clean    62 grams  SECC Classification\n 0.000  clean    42 grams  증언 (Testimonium)\n 0.000  THIN      2 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   3  | **Han-Energy yield** | 16–22 per successful work cycle, read off the trades that closed rather than the watching time |\n   85   6  | { *The World Tapestry* [**Ultimate**] } | \"Threads extend from every person — and the Weaver pulls them all, weaving everyone's \n  174   2  - **Sorrow Gauge on breach:** Opens at 45% and rises 10% per trade completed rather than per turn elapsed; a refused offer holds i\n  207   4  **Appearance:** a flowing veil of Void Han-gossamer, near-translucent and all but colourless, that keeps the scent of the library \n  231   2  **Effect:** +2 stat bonus while working the source holding, entered at issue and struck from the sheet the day the bearer leaves t\n  385   1  **Faction Involvement:** SED, on the B-territory survey · UCD, for the Fray-adjacent ground and the restitution file the library a\n  390   2  **Operational interpretation:** The three sections below are one argument and are read together: the takings are detectable only a\nGENERIC 0.003  (20 shared shingles)  SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-A__SIDE_CODEX_The_Memory_Weaver.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-B__MAW-W_The_Forgotten_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-C__MAW-S_The_Forgotten_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-D__MAW-G_The_Forgotten_Mask.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-A__SIDE_CODEX_The_Memory_Weaver.md": "715e88ce73bda4f81189b9c2d5a3d9d653e97344f1216fb7046e038314f62b9e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-B__MAW-W_The_Forgotten_Lens.md": "aff33a2ffae01266cf9c414f202b3d4decc2c882869073d55b792e8854e2eed7",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-C__MAW-S_The_Forgotten_Veil.md": "a9804a3b79635a48ce3de6bef622830bdfdbda28c0f63d522ddfd851a32a566d",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-D__MAW-G_The_Forgotten_Mask.md": "89f28d8f5d4214b2d2c03599a607b64f9ba73e093176dc8a81f5f3f823226ff4"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVγ-009_The_Memory_Weaver_기억의_직공](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-009_The_Memory_Weaver_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%A7%81%EA%B3%B5.md \"SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md\")]",
+      "table_link": "[[C-IVγ-009 The Memory Weaver](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-009_The_Memory_Weaver_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%A7%81%EA%B3%B5.md \"SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md\")]",
+      "reading": {
+        "before_lines": 472,
+        "before_bytes": 53920,
+        "final_lines": 474,
+        "final_bytes": 56870
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 10,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The Ultimate now retains the exact 65% condition and adds Side A's three-separate-memory-loss condition; the invented personnel +15% Gauge surge was removed."
       }
     }
   ]
