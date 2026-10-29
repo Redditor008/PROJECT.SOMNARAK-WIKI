@@ -1,6 +1,6 @@
 # **LOBOTOMY CORPORATION And REVERIE DIRECTORATE - TRANSFORMATION TABLE**
 
-> **Combined-edition note (2026-10-30):** Owner's laptop original — the Threat Score transformation core — filed verbatim from the owner's dump and carried in full as **Part IV.1** of the *Universal Sorrow Entity to Abnormality Conversion Table* (combined overhaul edition). This standalone file remains the archival original.
+> **Combined-edition note (2026-10-30):** Owner's laptop original — the Threat Score transformation core — filed verbatim from the owner's dump and rearranged by subject into the chapter sequence of the *Universal Sorrow Entity to Abnormality Conversion Table* (chaptered combined overhaul edition) under source tag **[TST]** (Chapter 4). This standalone file remains the archival original.
 
 
 | Score | L Corp Level |

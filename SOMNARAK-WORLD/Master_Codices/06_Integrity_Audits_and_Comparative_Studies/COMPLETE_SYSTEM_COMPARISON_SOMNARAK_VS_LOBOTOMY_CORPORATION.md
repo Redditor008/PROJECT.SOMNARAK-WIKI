@@ -2,7 +2,7 @@
 ## Direct 1-to-1 Universe, Mechanics & Narrative Reference
 ### Expanded Story Edition
 
-> **Combined-edition note (2026-10-30):** this comparison is carried in full as **Part III** of the *Universal Sorrow Entity to Abnormality Conversion Table* (combined overhaul edition), so the overhaul stands self-sufficient. This standalone file remains the archival original.
+> **Combined-edition note (2026-10-30):** this comparison's sections are rearranged by subject into the chapter sequence of the *Universal Sorrow Entity to Abnormality Conversion Table* (chaptered combined overhaul edition) under source tag **[CMP]**, so the overhaul stands self-sufficient. This standalone file remains the archival original.
 
 ```text
 +========================================================================+
@@ -442,7 +442,7 @@ To illustrate the contrasting atmosphere, narrative tone, and operational jargon
 
 ## 19. Verification & Canonical Compliance Seal
 
-Conversion-rule coverage for every system compared in this document is audited in **Appendix A of the Universal Conversion Table** (`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md`): 46 systems, each with its conversion law located in both directions — the facility-scale rows (34–37) resting on this comparison, rows 41–46 on the owner's original tables (Part IV of the combined edition). This seal stands under that matrix.
+Conversion-rule coverage for every system compared in this document is audited in **Appendix A of the Universal Conversion Table** (`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md`): 46 systems, each with its conversion law located in both directions — the facility-scale rows (34–37) resting on this comparison, rows 41–46 on the owner's original tables (source tags [TST]/[FCR]/[RRP]/[RDA]/[OCMP] in the chaptered edition). This seal stands under that matrix.
 
 ```text
 +========================================================================+

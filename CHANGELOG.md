@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Combined overhaul rearranged into one connected chapter sequence (2026-10-30)
+
+- **The four-part pasted arrangement of the Universal Sorrow Entity to Abnormality Conversion Table has been dissolved and rebuilt as one logical conversion chapter.** The Universal Table, reverse guide, Expanded System Comparison, and the owner's five laptop originals are no longer carried as separate Parts I–IV; their sections are regrouped by the job they do in a conversion: Chapter Map & precedence → orientation/Two Rivers → archive grammar → identity/designation → Threat Score danger read (risk/HP/pressure/energy) → work, personnel & R.D. Attributes → counters/breach/crisis → damage/combat → equipment/tools/relics → records/lexicon/wider world → both conversion orders, worked practice, and final checklists. Each moved section carries a source tag ([UT]/[RG]/[CMP]/[TST]/[FCR]/[RRP]/[RDA]/[OCMP]) and keeps its own section numbering; new chapter bridges state why the blocks sit together and which source governs on conflict.
+- **Appendix A** still certifies the same **46/46** systems; its introduction and citations now use the chapter/source-tag system. New **Appendix B (Rearrangement & Source Map)** records where every former part went. Cross-reference/provenance notes in the seven standalone source files were updated from the retired "Part II/III/IV.x" slots to the source-tag/chapter citation system; no standalone original was deleted, renamed, retired, or rewritten beyond those notes and the previously-filed reference corrections.
+
+
 *(Changelog self-correction, 2026-10-30: the P1 entry below originally said the banned-phrase normalization touched "four places"; the executed count was six. Corrected here and in place.)*
 
 ## Combined Overhaul Edition: Part IV assembled — the owner's five originals carried in full (2026-10-30)

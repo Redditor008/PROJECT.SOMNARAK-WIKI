@@ -1,6 +1,6 @@
 # Somnarak — L Corp Risk Level and R.D. Classification Parallel
 
-> **Combined-edition note (2026-10-30):** Owner's laptop original — the creator-reference parallel (Threat Score, multipliers, conversion orders) — filed verbatim from the owner's dump and carried in full as **Part IV.3** of the *Universal Sorrow Entity to Abnormality Conversion Table* (combined overhaul edition). This standalone file remains the archival original.
+> **Combined-edition note (2026-10-30):** Owner's laptop original — the creator-reference parallel (Threat Score, multipliers, conversion orders) — filed verbatim from the owner's dump and rearranged by subject into the chapter sequence of the *Universal Sorrow Entity to Abnormality Conversion Table* (chaptered combined overhaul edition) under source tag **[RRP]**. This standalone file remains the archival original.
 
 ## Purpose
 

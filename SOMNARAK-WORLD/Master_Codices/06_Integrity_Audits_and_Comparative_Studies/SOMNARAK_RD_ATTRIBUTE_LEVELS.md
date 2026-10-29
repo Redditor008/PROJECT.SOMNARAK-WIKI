@@ -1,7 +1,7 @@
 # SOMNARAK — R.D. Attribute Levels & L Corp Acquisition
 ## Crossover Add-on: How Somnarak's R.D. Attributes Map to Personnel
 
-> **Combined-edition note (2026-10-30):** Owner's laptop original — the R.D. Attribute levels and Nugget acquisition add-on — filed verbatim from the owner's dump and carried in full as **Part IV.4** of the *Universal Sorrow Entity to Abnormality Conversion Table* (combined overhaul edition). This standalone file remains the archival original.
+> **Combined-edition note (2026-10-30):** Owner's laptop original — the R.D. Attribute levels and Nugget acquisition add-on — filed verbatim from the owner's dump and rearranged by subject into the chapter sequence of the *Universal Sorrow Entity to Abnormality Conversion Table* (chaptered combined overhaul edition) under source tag **[RDA]** (Chapter 5). This standalone file remains the archival original.
 
 > This add-on describes the **R.D. Attribute system** used in the Somnarak ↔ Lobotomy Corporation crossover, and how L Corp employees ("Nuggets") acquire Somnarak attributes through sustained exposure.
 
