@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 201,
   "status": "OPEN",
-  "completed_units": 1,
+  "completed_units": 2,
   "required_units": 5,
   "queue": [
     {
@@ -42,7 +42,7 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 1,
+  "completed": 2,
   "units": [
     {
       "unit": 1,
@@ -256,6 +256,248 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 4,
         "digit_sequence_change": "The unsupported Han Dust range `10 kg–100 kg` and Row 4's personnel `15%` Sorrow Gauge rise were removed. The Ultimate trigger changed from 65% to the Core Stat Line/Operational threshold ≥60%."
+      }
+    },
+    {
+      "unit": 2,
+      "designation": "O-IIIγ-651",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-651_Relic_Waiting_for_Its_Maker_잠든_유물.md",
+      "words": 8682,
+      "sha256": "1a3638f734914d178415acce03b262130b429f804c96fd718fc354d37a41eb2f",
+      "name": "Relic Waiting for Its Maker",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_02_RELIC_WAITING_FOR_ITS_MAKER.md",
+      "before_words": 8682,
+      "after_words": 8880,
+      "base": "5e365614e694ec109aed1e2cae6c732122571b1b",
+      "final_sha256": "d7fe92c843e74022b576a9bf0990b7a8ef4de3befc55e684c0455018c5dc3354",
+      "summary": "Twenty-one repairs (4 short / 17 careful). The unreachable relic is no longer approached, lingered at, touched, forced awake or triggered at the wrong Gauge. Its Combat Actions now use a confidence spoken aloud, translation/completion of an untranslated symbol, unfinished tools before the pedestal, assignment of a purpose or activation command, and Gauge ≥75%. The Cover and Charm received exact forms/protocols, the malformed thirty-second log was repaired, and the Tale no longer invents a masterpiece or intended waking ritual. HELD with no fresh equipment credit because the primary already had the complete γ set/statistics/Field Use Record and an explicit Batch 111 cross-source review.",
+      "commentary": "The correct archival act here is refusal. The instruction stops mid-clause, the walls record what confidences cost, and nobody is authorized to turn a mark into a command merely because uncertainty is uncomfortable.",
+      "reasoning": "R-34 audit before editing. Identity is direct SE-651: Side A prints `O-IIIγ-651 [VP]`, Object/Place—Place-Grudge, III/γ, Void, Zone C Mask Market, Gauge 653/653, starting 45–65%, pressure 18–41, threshold 75% and set Purpose Without Claim; B/C/D carry `MAW-W/S/G-651-01`. The primary's dominant instrument is a plumb line at four stations (11→19 mm) read against an attributed open speech log: duty rosters move nothing, a quiet admission moves the east wall. Exact Side A adds that secrets spoken to abandon responsibility extend the listening walls and assigning a purpose triggers Full Awakening. Repairs rebuilt every Combat row from those mechanisms and removed the personnel Sorrow Gauge from Row 4. Exact C/D supplied the breathing named-monitor Cover, Unattended Presence, hot one-mark Charm and copy-without-translation protocol. All parsed table blocks are equal and all Trigger cells parse fifth.",
+      "history": "Draft/local history: a masked artisan died during a sleep ritual and left an unseen relic plus an instruction that stops mid-clause; two Warden completions are kept separately as speculation. Side A records an acquirer who copied one visible symbol as unknown and a researcher whose healing interpretation/assembled activation phrase had to be retracted. Fresh equipment credit BARRED on this HELD result: before repair the primary already contained all three γ pieces, matching Side statistics, Field Use Record and the Batch 111 cross-source review. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+      "holds": [
+        "Weapon form/function fork: primary seven-prism golden Dormant Halo-Ring with tranquillizing burst versus exact SE-651-B reflection-extracted pale Maker's Lens disc with Command Severance; Master/archetype records also split names and range bands. Held.",
+        "Stigma-function fork: the primary Charm preserves anything set down undisturbed, while exact D preserves one unknown symbol and its order. Appearance was restored; function remains held.",
+        "Activation fork: the primary's unfinished-tools/dormant-pedestal channel yielding armor reinforcement and weapon sharpness has no exact-side crosswalk, while Side A frames the same chamber as a listening place whose purpose must not be guessed. Held.",
+        "Awakening fork: Side A calls assignment of purpose a Full Awakening and records identity-anchor loss, while the primary says the unseen relic itself has never stirred. The revised row explicitly identifies this as a side-codex incident; no observed relic movement is claimed. Held.",
+        "The meaning of the surfaced symbols and the missing instruction remains unknown by design; no revised text completes either. Held."
+      ],
+      "split": [
+        4,
+        17
+      ],
+      "repairs": [
+        {
+          "id": "R01-entity-nonbreaching",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Entity Type** | **Object/Place** — Can breach via Transform |",
+          "new": "| **Entity Type** | **Object/Place** — Non-breaching: fixed chamber; walls lean inward in place and no breach counter exists |"
+        },
+        {
+          "id": "R02-operational-pressure-composure",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Identity / memory pressure |",
+          "new": "| **Primary pressure** | Composure — loss of words, intentions and identity anchors around an unknown purpose |"
+        },
+        {
+          "id": "R03-speed-plumb-output",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | N/A — fixed chamber; output is measured by plumb-line lean at four stations against attributed entries in the open speech log |"
+        },
+        {
+          "id": "R04-dormant-pulse-speech-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Dormant Pulse* [**Debuff**] } | \"The relic hums in its sleep — a frequency too low to hear, felt only in the teeth and the deep brain.\" | [The Relic's dormant energy field permeates the target; they feel ancient potential.] | *Target suffers a Void mark; the sleeping artifact is aware of them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Relic. |",
+          "new": "| { *The Dormant Pulse* [**Debuff**] } | \"The relic hums in its sleep — a frequency too low to hear, felt only in the teeth and the deep brain.\" | [The attentive quiet turns toward a confidence spoken instead of written; one wall takes a step in the plumb reading.] | *Target suffers a Void mark; the spoken words are entered in full, attributed, and cannot be withdrawn.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target speaks a confidential matter aloud in the chamber, especially to shed responsibility for carrying it. |"
+        },
+        {
+          "id": "R05-dream-glow-interpretation-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Dream-Glow* [**Debuff**] } | \"The relic glows faintly — dreaming of the power it used to hold — and the glow pulls at your own stored energy.\" | [The Relic's dream-state drains the target subtly.] | *Target loses clarity; their energy is being siphoned by a dream.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |",
+          "new": "| { *The Dream-Glow* [**Debuff**] } | \"The relic glows faintly — dreaming of the power it used to hold — and the glow pulls at your own stored energy.\" | [A copied symbol begins to read as a command; the two transcriptions in the log no longer agree.] | *Target loses clarity and one intended word; form, orientation and sequence are preserved, but no meaning is assigned.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a surfaced symbol is translated, completed, or treated as the relic's purpose. |"
+        },
+        {
+          "id": "R06-sleep-reflex-tools-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Sleep-Reflex* [**Attack**] } | \"The relic twitches — an involuntary discharge of dormant power.\" | [An accidental burst from the sleeping Relic.] | *Inflicts Void damage; the reflex-discharge erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Relic is touched. |",
+          "new": "| { *The Sleep-Reflex* [**Attack**] } | \"The relic twitches — an involuntary discharge of dormant power.\" | [The resonance pulse answers the object presented before the pedestal; the unseen center itself is neither seen nor contacted.] | *Inflicts Void damage; tools withdrawn before the pulse concludes crack through their structure, and all four plumb stations are read again.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When unfinished craftsman's tools are presented before the dormant pedestal. |"
+        },
+        {
+          "id": "R07-full-awakening-purpose-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Awakening* [**Attack**] } | \"The relic wakes — for one instant at the full power it was built to hold, and the chamber is lit by something that was never finished.\" | [The unfinished object runs at its intended output for the length of a breath.] | *A heavy Void surge; the target's Sorrow Gauge surges 15% and the plumb readings take a step inward at every station.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Relic is forced awake. |",
+          "new": "| { *The Full Awakening* [**Attack**] } | \"The relic wakes — for one instant at the full power it was built to hold, and the chamber is lit by something that was never finished.\" | [Assigning the relic a purpose and speaking an assembled activation phrase sends the pulse through every leaning wall; this is a side-codex incident, not observed movement by the unseen object.] | *Heavy Void surge; nearby personnel lose identity anchors and the plumb readings step inward at every station until the phrase is retracted and responsibility accepted.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a purpose or activation command is assigned to the relic. |"
+        },
+        {
+          "id": "R08-waking-vault-threshold75",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Waking Vault* [**Ultimate**] } | \"Every wall in the chamber leans at once — the lean was never only structural.\" | [The attentive quiet turns outward; all four stations move together.] | *All in range lose Composure for three turns, and anything entered in the speech log during those turns is marked as recorded under load.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Waking Vault* [**Ultimate**] } | \"Every wall in the chamber leans at once — the lean was never only structural.\" | [The attentive quiet turns outward; all four stations move together.] | *All personnel in the chamber lose Composure for three turns, and anything entered in the speech log during those turns is marked as recorded under load.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥75%. |"
+        },
+        {
+          "id": "R09-battle-resolution",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Speak only what the worker accepts responsibility for carrying** — which in practice means the log closes with an entry beside every movement, and the watch ends with the relic still asleep and still unnamed.",
+          "new": "3. **Resolution:** The watch closes when work returns to silence and slates, anything spoken is entered in full and attributed beside the matching plumb movement, and the relic remains asleep, unseen and unnamed. **Speak only what the worker accepts responsibility for carrying** is the management condition; no interpretation, completion or activation phrase is a resolution."
+        },
+        {
+          "id": "R10-log-method-grammar",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 30 Seconds | The conduit widens, revealing the memory of the weight of a purpose waiting for a person who will never return. forged during a masked artisan died during a sleep ritual, leaving the relic and its unfinished instruction behind. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |",
+          "new": "| 30 Seconds | The conduit widens, revealing the weight of a purpose waiting for a person who will never return: the memory belongs to a masked artisan who died during a sleep ritual and left the relic with its instruction unfinished. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |"
+        },
+        {
+          "id": "R11-cover-appearance",
+          "kind": "careful appearance restoration",
+          "careful": true,
+          "old": "**Appearance:** a cover-plate of Void Han-glass, near-translucent and almost colourless, that dims the wearer's outline the way the chamber dims a speaker's intent — present, attended to, and unaccountably hard to describe afterwards.",
+          "new": "**Appearance:** a breathing plate of pale Void Han-glass, near-translucent and almost colourless, visibly flexing as though attentive. It dims the wearer's outline the way the chamber dims a speaker's intent—present, attended to, and unaccountably hard to describe afterwards—and it binds only with a named external monitor."
+        },
+        {
+          "id": "R12-cover-ability",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Conceals the wearer's presence from attentive observers.",
+          "new": "**Ability:** *Unattended Presence* conceals the wearer's presence from attentive observers and keeps the listening walls from focusing on them; the named external monitor remains part of the equipment, because the same silence also blocks requests for help."
+        },
+        {
+          "id": "R13-charm-appearance",
+          "kind": "careful appearance restoration",
+          "careful": true,
+          "old": "**Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, warm only when the bearer is near something they cannot bring themselves to say.",
+          "new": "**Appearance:** a hot pale-glass Head charm of Void Han-glass, near-translucent and almost colourless, carrying one untranslated maker's mark. It grows warmer when the bearer is near something they cannot bring themselves to say; the mark's meaning is withheld."
+        },
+        {
+          "id": "R14-use-notes-protocols",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Nothing in this set points outward. All three pieces extend the chamber rather than arm anybody against it: the ring strips intentions, the plate hides the wearer the way the room hides a confidence, and the charm keeps what is set down exactly where it was left. Inside the pattern the file records, the benefit holds; outside it the cost arrives early and does not reverse on return — errands abandoned, sentences dropped, the reason for having come into a room.",
+          "new": "Nothing in this set points outward. All three pieces extend the chamber rather than arm anybody against it: the ring strips intentions, the plate hides the wearer the way the room hides a confidence, and the charm keeps what is set down exactly where it was left. Inside the pattern the file records, the benefit holds; outside it the cost arrives early and does not reverse on return — errands abandoned, sentences dropped, the reason for having come into a room. The Cover is inspected with its named monitor and a nonverbal help signal is tested before use. Any symbol carried by the set is copied by form, orientation and sequence only; interpretations stay on separate removable sheets, and no bearer is authorised to turn the mark into a command."
+        },
+        {
+          "id": "R15-story-entry2-confidences",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "Walls move subtly in response to speech.",
+          "new": "The plumb record is kept beside the speech log because volume is not the variable: a duty roster read aloud moves nothing, while a quiet admission takes the east wall in by a millimetre. What the chamber answers is a confidence, not noise."
+        },
+        {
+          "id": "R16-story-entry3-counselor",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "**Entry 3 — <Counselor's Note on What Was Said in the Chamber>**\nThe weight of a purpose waiting for a person who will never return.",
+          "new": "**Entry 3 — <Counselor's Note on What Was Said in the Chamber>**\nAnything said in the chamber belongs in the open operational log, attributed, because the room induces disclosure without asking. Counselling remains separate and elective; no supervisor may ask what the walls moved for, and three workers have already had chamber words quoted in unrelated proceedings."
+        },
+        {
+          "id": "R17-story-entry4-symbols-untranslated",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "Work response — Viderehan: Reveals symbols describing the relic's purpose. (Stable); Ferrehan: Keeps the worker in the chamber until silence is endured. (Decrease). Confusion follows attempts to identify its purpose too quickly.",
+          "new": "Work response — Viderehan: symbols surface, but no two transcriptions have ever agreed and none may be treated as a translation of the relic's purpose (Stable); Ferrehan: endure the attentive quiet without filling it (Decrease). Confusion and word loss follow attempts to identify or complete that purpose."
+        },
+        {
+          "id": "R18-flavor-continued-exposure",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "**With continued exposure:** Time in the containment zone moves differently. The Void pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Place-Grudge is teaching you its sorrow.",
+          "new": "**With continued exposure:** The quiet stops feeling empty and starts feeling addressed to you. The slate stays blank longer than the sentence you are considering saying aloud; the plumb line, not your comfort, tells whether the chamber has taken another step inward."
+        },
+        {
+          "id": "R19-tale-no-invented-purpose",
+          "kind": "careful narrative correction",
+          "careful": true,
+          "old": "The masked artisan was a craftsman of the old order — skilled, dedicated, the kind of worker who invests not just labor but self in the objects they create. The relic was his masterpiece — an object of significance, a thing whose purpose was known only to the artisan, whose function was explained in an instruction that only the artisan could read. The relic was meant to be completed by a sleep ritual — a Han-assisted process that would, upon waking, activate the object's intended purpose.\n\nThe artisan died in the ritual. The sleep that was meant to be temporary became permanent — the artisan, entering the ritual state, did not wake. The relic, left beside the sleeping artisan, was never activated. The instruction, written in a language only the artisan understood, was never translated. And the relic, dormant, purpose sealed, waited for the one person who could complete it — the artisan, sleeping, who would never wake.\n\nRelic Waiting for Its Maker is Place-Grudge, Void-element: the figure of a purpose waiting for a person who will never return — the relic, the instruction, the dormant function, all held in suspension by the death of the one who understood them. The Relic does not sleep the way the artisan sleeps. The Relic waits — the specific, patient, purposeless waiting of an object whose meaning died with its maker, whose function cannot be activated, whose reason for existing is sealed in a sleep from which the activator will never wake.\n\nThose who come near the Relic Waiting for Its Maker feel the weight of purpose without its key — the specific sorrow of an object made for a reason that no living person understands, a function that cannot be performed, a meaning that sleeps beside the one who gave it and that will sleep, dormant, forever.\n\nSome sorrows mourn a maker. Relic Waiting for Its Maker mourns the making — the object left unfinished, the instruction left unread, the purpose left unactivated, preserved beside the sleeping artisan who carried, in his single mind, the only key to the thing he built.",
+          "new": "The masked artisan died during a sleep ritual. Nobody surviving can supply the missing half of that sentence: what the ritual was meant to finish, whether the unseen object was a masterpiece or an error, or what its maker intended it to do. The instruction stops mid-clause, close enough to sense to invite completion, and the archive refuses the invitation. An ending written by Wardens would be the Wardens' instruction, not the artisan's.\n\nWhat remains observable is the chamber: four walls leaning inward around a center no one has seen, moving not for noise or work but for confidences. Relic Waiting for Its Maker is Place-Grudge, Void-element—the weight of a purpose whose only witness is dead and whose evidence must be preserved without being translated into certainty.\n\nThose who work there carry the temptation as much as the mystery. To name a function, finish the clause or assemble a waking phrase would end the discomfort by inventing authority. The file's discipline is narrower and harder: copy the mark, read the plumb line, attribute every spoken word, and leave the sleeping thing its unknown reason for being made."
+        },
+        {
+          "id": "R20-behavior-symbols-untranslated",
+          "kind": "careful work-response correction",
+          "careful": true,
+          "old": "| **Viderehan** | Symbols surface on the chamber wall describing a purpose, and no two transcriptions of them have ever agreed. | Stable |",
+          "new": "| **Viderehan** | Symbols surface on the chamber wall, but no two transcriptions have ever agreed and none may be read as a description of the relic's purpose. | Stable |"
+        },
+        {
+          "id": "R21-log-sentence-join",
+          "kind": "short syntax correction",
+          "careful": false,
+          "old": "cracks their structural durability. all personnel in the sector take heavy damage.",
+          "new": "cracks their structural durability; all personnel in the sector take heavy damage."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IIIγ-651_Relic_Waiting_for_Its_Maker_잠든_유물.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.018  clean   722 grams  감각 묘사 (Flavor Text)\n 0.014  clean   701 grams  Combat Record\n 0.014  clean   772 grams  M.A.W. Equipment\n 0.014  clean   501 grams  기록 (Registrum)\n 0.009  clean   229 grams  Operational Parameters\n 0.008  clean   261 grams  이야기 보고 (Story Log)\n 0.006  clean   538 grams  Activation Behavior\n 0.004  clean   248 grams  Behavior\n 0.000  clean   923 grams  Warden Record\n 0.000  clean   331 grams  관찰 기록 (Observation Log)\n 0.000  clean   281 grams  Appearance\n 0.000  clean   218 grams  Origin\n 0.000  clean   197 grams  Trivia\n 0.000  clean   195 grams  이야기 (Narratio)\n 0.000  clean   119 grams  최종 관찰 (Final Observation)\n 0.000  clean    42 grams  증언 (Testimonium)\n 0.000  clean    36 grams  SECC Classification\n 0.000  clean    29 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 35% against Void pressure; 25% against other pressure types. Nothing resists the lean: it is measured at four s\n   81   1  | { *The Dormant Pulse* [**Debuff**] } | \"The relic hums in its sleep — a frequency too low to hear, felt only in the teeth and th\n   85   6  | { *The Waking Vault* [**Ultimate**] } | \"Every wall in the chamber leans at once — the lean was never only structural.\" | [The a\n   89   2  1. **Tension:** Identification first — Relic Waiting for Its Maker is recognised by the room, since the relic cannot be seen. This\n  147   1  Read the table as a description of what the chamber will do with you rather than as a menu of approaches. Relic Waiting for Its Ma\n  153   1  > **This Relic is Capable of Sector / Facility Alteration**\n  204   2  **Activation reporting order:** trigger → what was presented or spoken, and by whom → first change in the lean, with the plumb fig\n  228   3  **Ability:** Deals Void damage against the Soul — identity, memory, and the sense of being for something. The strike carries the s\n  236   1  **Appearance:** a breathing plate of pale Void Han-glass, near-translucent and almost colourless, visibly flexing as though attent\n  254   2  **Appearance:** a hot pale-glass Head charm of Void Han-glass, near-translucent and almost colourless, carrying one untranslated m\n  264   1  *The Charm is conferred and never issued: it appears after a successful cycle at the chamber's own disposition, on a worker who ke\n  279   2  | **Before use** | Wielder, piece, gauge at issue, and a sealed baseline of the intentions the wielder is carrying into the rotati\n  280   1  | **During use** | The first sign that the set is charging is an intention going missing: an errand set out on and abandoned, a se\n  281   1  | **At limit** | The wielder stops noticing the toll and stops asking for help: the plate's seal closes the same channel the chamb\n  284   1  **Stat interpretation:** The grade states how hard a piece hits and nothing about what it takes, and the costs in this set are unu\n  312   2  Relic Waiting for Its Maker (O-IIIγ-651 [VP]) is carried on the wing's register as a Place-Grudge manifestation expressing Void. T\n  351   6  The chamber's three filed relations are two things that keep words and one that opens for the dead, and none of them is settled. T\n  353   1  **Interaction method:** Baseline each entity alone, with a long plumb series behind it, since the lean moves slowly and a short re\n  360   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  366   4  **Interaction procedure:** Solo plumb series first, long enough to separate an interaction from the holding's own drift, then the \n  409   6  **Operational interpretation:** The file is a map and the chamber is the territory, and the suppression condition is more exacting\n  411   1  **Review requirement:** Every activation, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline; re-verify the ga\nGENERIC 0.008  (50 shared shingles)  SE-O-IIIγ-651_Relic_Waiting_for_Its_Maker_잠든_유물.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-A__SIDE_CODEX_Relic_Waiting_for_Its_Maker.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-B__MAW-W_Relic_Waiting_for_Its_Makers_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-C__MAW-S_Relic_Waiting_for_Its_Makers_Cover.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-D__MAW-G_Relic_Waiting_for_Its_Makers_Charm.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-A__SIDE_CODEX_Relic_Waiting_for_Its_Maker.md": "15f53664cbd1f144e66f561070810e6afe4faa560ae4ddf134562f1af4e6fa46",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-B__MAW-W_Relic_Waiting_for_Its_Makers_Lens.md": "9ab30f462c6ba1306781598cd3c85673de703f5de9376e925dcced5b31dbcdc1",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-C__MAW-S_Relic_Waiting_for_Its_Makers_Cover.md": "a2203010c107cd2e66cfef9be00036f794ba34837ce63f130e95484396dfce9a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-D__MAW-G_Relic_Waiting_for_Its_Makers_Charm.md": "9b9242227d8090cbb3c77c721152043449efbf37568a8a011e4dda9edc491201"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IIIγ-651_Relic_Waiting_for_Its_Maker_잠든_유물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-651_Relic_Waiting_for_Its_Maker_%EC%9E%A0%EB%93%A0_%EC%9C%A0%EB%AC%BC.md \"SE-O-IIIγ-651_Relic_Waiting_for_Its_Maker_잠든_유물.md\")]",
+      "table_link": "[[O-IIIγ-651 Relic Waiting for Its Maker](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-651_Relic_Waiting_for_Its_Maker_%EC%9E%A0%EB%93%A0_%EC%9C%A0%EB%AC%BC.md \"SE-O-IIIγ-651_Relic_Waiting_for_Its_Maker_잠든_유물.md\")]",
+      "reading": {
+        "before_lines": 485,
+        "before_bytes": 52450,
+        "final_lines": 481,
+        "final_bytes": 53747
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 15,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": false,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Row 4's unsupported personnel `15%` Sorrow Gauge rise was removed. The Ultimate trigger changed from 65% to the Core Stat Line/Operational threshold ≥75%."
       }
     }
   ]

@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-IIIγ-651": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_02_RELIC_WAITING_FOR_ITS_MAKER.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -6546,8 +6558,23 @@
     {
       "designation": "O-IIIγ-651",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-651_Relic_Waiting_for_Its_Maker_잠든_유물.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Twenty-one repairs (4 short / 17 careful). The unreachable relic is no longer approached, lingered at, touched, forced awake or triggered at the wrong Gauge. Its Combat Actions now use a confidence spoken aloud, translation/completion of an untranslated symbol, unfinished tools before the pedestal, assignment of a purpose or activation command, and Gauge ≥75%. The Cover and Charm received exact forms/protocols, the malformed thirty-second log was repaired, and the Tale no longer invents a masterpiece or intended waking ritual. HELD with no fresh equipment credit because the primary already had the complete γ set/statistics/Field Use Record and an explicit Batch 111 cross-source review.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_02_RELIC_WAITING_FOR_ITS_MAKER.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-A__SIDE_CODEX_Relic_Waiting_for_Its_Maker.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-B__MAW-W_Relic_Waiting_for_Its_Makers_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-C__MAW-S_Relic_Waiting_for_Its_Makers_Cover.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-D__MAW-G_Relic_Waiting_for_Its_Makers_Charm.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IIIγ-914",
