@@ -2,6 +2,8 @@
 ## Project Moon to Project Somnarak Architectural, Phenomenological & Mechanical Adaptation Codex
 ### Master Systems Codex — 10,000 HP Calibration & Tactical Alignment
 
+> **Combined-edition note (2026-10-30):** this guide is carried in full as **Part II** of the *Universal Sorrow Entity to Abnormality Conversion Table* (combined overhaul edition), so the overhaul stands self-sufficient. This standalone file remains the archival original.
+
 ```text
 +========================================================================+
 |         ARCHIVE MASTER CODEX // SYSTEM TRANSMUTATION STANDARD          |

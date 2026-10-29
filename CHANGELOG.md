@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Combined overhaul edition — both companion documents carried into the Universal Table (2026-10-30)
+
+- **Per owner directive, the information of both companion documents is now inside the overhaul:** `PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md` is restructured as the **Combined Overhaul Edition** — **Part I:** the Universal Conversion Table (Preface–§XI, unchanged in substance, banner added); **Part II:** the complete *PM Abnormality to PS Sorrow Entity Conversion Guide*, carried verbatim as corrected today (durability rework, spatial engine, work/element law, two-channel counter conversion, M.A.W. standard, relic overhaul, case studies, checklist); **Part III:** the complete *Complete System Comparison: Somnarak vs. Lobotomy Corporation*, carried verbatim as corrected today (including §2A Well & Weeping contact geometries and the two-mechanism counter rows); **Appendix A:** the Conversion Integrity Matrix, moved to close the volume and annotated that RG/CMP now resolve to Parts II/III. Heading levels in carried parts demoted one step for nesting; wording otherwise unaltered; placard and subtitle updated to the combined edition (box width preserved). Document: 485 → ~1,320 lines.
+- **The standalone files are NOT deleted** (archive-integrity rule): both received a combined-edition note at their heads stating they are carried in full as Parts II/III and remain the archival originals. If the owner later wants them retired to pointer stubs, that is a one-word instruction away; until then both reading surfaces stay live.
+
+
 ## Correction — two-mechanism counters in the universe comparison (2026-10-30)
 
 - **`COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md`:** the §9 Breach Trigger row and the §17 lexicon's Qliphoth Counter row no longer equate Counter = Gauge. Both now state the two distinct P.S. mechanisms — continuous **Sorrow Gauge** pressure (0–100%, work-driven) and discrete **Activation Threshold** conditions — with either-or-both filing and first-completion breach, citing the governing conversion law (Universal Table §III Counters; reverse guide §VII.1).
