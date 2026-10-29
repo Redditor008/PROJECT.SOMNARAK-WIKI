@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "batch": 207,
+  "status": "OPEN",
+  "completed_units": 0,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "C-IIβ-565",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-565_Broken_Well_부서진_우물.md",
+      "words": 7933,
+      "sha256": "8440b3414abfa47307ef7edcc8603cc1308a32cd07589e9b0112c4a4cb40c65c",
+      "prior_batch": 149,
+      "shape": "Subject"
+    },
+    {
+      "unit": 2,
+      "designation": "C-IVω-001",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md",
+      "words": 7820,
+      "sha256": "6acb7ec5ff6ff5841bdd1babd9f2bae1446b0b2459a3757e572856fb11584498",
+      "prior_batch": 149,
+      "shape": "Non-Subject"
+    },
+    {
+      "unit": 3,
+      "designation": "N-IVδ-852",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-852_Conservatory_잊혀진_잔해.md",
+      "words": 10095,
+      "sha256": "e5fb17d8f9e181c1db6196fa56d8207392beb6f2433cf264bc968afd1c911b12",
+      "prior_batch": 148,
+      "shape": "I-Relic"
+    },
+    {
+      "unit": 4,
+      "designation": "C-IIIγ-195",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울.md",
+      "words": 8351,
+      "sha256": "ae6c4afd973950e8d730167d36f4887713b0876f7332ba6aeb5451b8faaea43e",
+      "prior_batch": 155,
+      "shape": "O-Relic"
+    },
+    {
+      "unit": 5,
+      "designation": "O-IIIγ-412",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md",
+      "words": 4757,
+      "sha256": "62ef61e34389878e6b7a64e77d36a12941612d17398e54228993a3235d973de6",
+      "prior_batch": 166,
+      "shape": "A-Relic"
+    }
+  ],
+  "opened_at": "2026-10-30",
+  "completed": 0,
+  "units": []
+}
