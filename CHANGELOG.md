@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Correction — "Extraction Phase" means the Daily Cycle's three-option Selection screen (2026-10-30)
+
+- **`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md` Section IX rewritten to the owner's intended meaning:** the *extraction phase* is the **Abnormality Selection Phase — Phase One of the Daily Cycle** (Selection → Story → Unlocking → Deployment → Management), the three-candidate screen at the start of the day / after the previous day's Management Phase ends. A transported SE appears as one of the three boxes (occasionally two/one; every fourth pick from the Tool pool), formatted exactly like native candidates and showing only Subject Number + quote — which maximally exposes the two tells: the **four-digit `0###` last numerical** among three-digit neighbours, and a **quote attested nowhere in the L Corp verse**, recognizable as foreign by a veteran Manager who knows the native number-and-quote pairs by sight. Added the **Re-Extraction** clause: reshuffling once per selection (Binah's research) only returns the candidate to the draw; an unchosen `0###` box may resurface on later days. Phase structure verified against the Daily Cycle record (lobotomycorp.fandom.com). The previous generic "extraction/registration" framing is superseded.
+
+
 ## Size & Scale Law and extraction-phase tells added to the Universal Table (2026-10-30)
 
 - **`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md` Section I.4 added — Size & Scale Law:** a transformed SE that is **not breaching is unit-fit** (the contained aspect always fits a standard containment unit; a Place-body *is* its room); while **breaching** it manifests either at **full original scale (100%)** or **Cogito-Well-attenuated to 25–50% of original size** (standing default for Degree I / Route A·B intakes; full scale for transported/anchored bodies or declared Well-bypass). Stats do not scale — HP/damage/PE derive from Section III; scale governs space, reach and suppression staging. New intake class **Scale-Incompatible, Extraction-Compatible**: entities whose original scale/body-plan reads as incompatible with L Corp containment remain extractable via unit-fit + attenuation (precedent: the Maw, `T-07-0001`); intake records original scale and declared band; the band does not change mid-story without in-story cause.
