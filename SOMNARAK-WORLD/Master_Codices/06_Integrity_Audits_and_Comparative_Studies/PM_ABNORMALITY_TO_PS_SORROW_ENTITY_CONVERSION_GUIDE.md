@@ -199,22 +199,24 @@ In Project Moon, containment work revolves around four generic employee actions:
 
 ## Section VII: Meltdowns, Watches & Special Transform Breaches
 
-### 1. The Qliphoth Counter → Gauge Activation Steps
+### 1. The Qliphoth Counter → Gauge & Threshold Channels
 
-Every native Abnormality carries a Qliphoth Counter, and until this standard the counter itself had no PS conversion — only its meltdown weather did (subsection 2 below). The conversion is the exact inverse of the Universal Table's Section III counter law: **the Counter counts down to 0; the Sorrow Gauge counts up to threshold. A counter value of N converts to an N-step activation distance** written into the SE's Behavior and activation record:
+Every native Abnormality carries a Qliphoth Counter, but natives drive it differently — some counters answer work results, some answer named conditions, timers or deaths, some answer both, and some Abnormalities file no counter at all. Somnarak keeps the same distinction as **two separate mechanisms**, and conversion matches them channel to channel (the exact inverse of the Universal Table's Section III counter law):
 
-| LC counter element | PS conversion |
+- The **Sorrow Gauge (0–100%)** — continuous pressure, moved by work outcomes through the Behavior table; relief lowers it, saturation at 100% is the catastrophe line.
+- **Activation Thresholds** — discrete conditions: a named state met, a count reached, a timer run out, a Gauge percentage crossed. Thresholds decide *whether and when*; the Gauge decides *how much pressure*. Neither reduces to the other.
+
+| LC counter driver | PS channel |
 |---|---|
-| Counter value N | An **N-step activation distance** between the filed Gauge baseline and the activation threshold |
-| Counter-decrease condition (Bad work result, a named aggravator, a death inside the unit) | **Gauge-Increase trigger** in the Behavior table — one step per LC point, the condition quoted verbatim |
-| Counter-increase condition (Good result class, a named soother) | **Gauge-Decrease outcome** — one step back per LC point, floor at baseline |
-| Counter reaches 0 | Activation threshold reached: the breach or transformation event converts under subsection 3 |
-| Counter reset on return to the unit | Gauge returns to baseline under the dossier's termination/return behavior |
-| No counter filed (non-breaching native) | Activation-only SE: no threshold breach state is constructed for it |
+| **Work results** (Good / Normal / Bad outcomes move the counter) | **Gauge channel:** counter-decrease conditions become Behavior Gauge-*Increase* outcomes, increase conditions become Gauge-*Decrease* outcomes — one threshold step per LC point, sized inside the dossier's filed Gauge fractions |
+| **Named conditions** (an employee state, a death in the unit, an item used, a timer elapsed) | **Threshold channel:** each condition converts to a filed Activation Threshold condition, quoted verbatim; work outcomes alone never fulfill it |
+| **Both drivers** | Both channels filed and tracked separately; activation/breach fires on Gauge saturation **or** threshold fulfillment, whichever the native record reaches — interlocks quoted, never merged into one meter |
+| **No counter filed** (non-breaching native) | Activation-only SE: neither channel is constructed for it |
 
-- **Steps, not spikes.** Converted counter triggers move the Gauge by threshold *steps*. The prohibited-work backfire spike of Section VI (+30% to +50%) remains exactly what it is — the penalty for illegal work — and is never used as a substitute counter mechanic.
-- **Meltdown-marked → Watch-marked.** A unit selected by Qliphoth Meltdown converts to a **Watch-marked** entity under subsection 2: the Watches supply the ambient tidal pressure the meltdown rotation supplied in the facility, and bleeding a Watch-marked entity's Gauge inside its Watch window is the meltdown-work analog. A Watch-mark lifts the Two-Work-Type Law in neither archive.
-- **Tool use counters** — use counts, charge timers, once-per-day operations — convert into the relic profile's activation limits under Section IX with their figures verbatim; a single-use native enters the A-Relic class with its consumption intact. Full both-direction coverage of every system touched by this guide is certified in **Appendix A of the Universal Table** (Conversion Integrity Matrix).
+- **Steps, not spikes.** Gauge-channel triggers move the Gauge by threshold *steps*. The prohibited-work backfire spike of Section VI (+30% to +50%) remains exactly what it is — the penalty for illegal work — and is never used as a substitute counter mechanic.
+- **Reset is per-channel.** Return behavior restores the Gauge to baseline and resets threshold counts only where the native record resets its counter; a cumulative native count that never resets converts as a permanent tally, and stays permanent.
+- **Meltdown-marked → Watch-marked.** A unit selected by Qliphoth Meltdown converts to a **Watch-marked** entity under subsection 2: the Watches supply the ambient tidal pressure the meltdown rotation supplied in the facility. Bleeding Gauge inside the Watch window answers a Gauge-channel mark; a Threshold-only entity answers its mark by condition-watch. A Watch-mark lifts the Two-Work-Type Law in neither archive.
+- **Tool use counters are Threshold-channel**: use counts, charge timers and once-per-day operations convert into the relic profile's activation limits under Section IX with figures verbatim; a single-use native enters the A-Relic class with its consumption intact. Full both-direction coverage of every system touched by this guide is certified in **Appendix A of the Universal Table** (Conversion Integrity Matrix).
 
 ### 2. Qliphoth Meltdowns → The Four Atmospheric Watches
 In Project Moon, Qliphoth Meltdowns trigger randomly on containment chambers. In Somnarak, facility pressure is driven by subterranean Han tidal surges from the Weeping at -2,000 meters:
@@ -350,8 +352,8 @@ Beyond the relic log tiers above, a native's Observation Level track converts to
 | 08. SPATIAL ENGINE: 10-Node Grid, Range Bands 1-5, AP Budget assigned  |
 | 09. M.A.W. TRIAD  : Weapon, Suit, Gift assigned to 5 Weight Classes    |
 | 10. RE-QUOTA CHECK: Archive maintains >= 25.0% Relic-Entity balance    |
-| 11. COUNTER CHECK: Qliphoth Counter to Gauge activation steps;         |
-|                     meltdown to Watch-marked; use counts filed         |
+| 11. COUNTER CHECK: Qliphoth Counter to Gauge & Threshold               |
+|                     channels; meltdown to Watch-marked; counts filed   |
 +========================================================================+
 ```
 

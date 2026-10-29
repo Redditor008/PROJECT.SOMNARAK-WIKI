@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Correction — two-mechanism counter law in the reverse guide (2026-10-30)
+
+- **`PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md` Section VII.1 rewritten** ("The Qliphoth Counter → Gauge & Threshold Channels"), replacing last audit's fused "N-step Gauge distance" model: a native counter's *drivers* are read first — work-result drivers convert to the continuous **Sorrow Gauge** channel (Behavior outcomes, step per LC point), named-condition/timer drivers convert to the discrete **Activation Threshold** channel (conditions quoted verbatim, never fulfilled by work alone), dual-driver natives file both channels with interlocks quoted, and counterless natives become activation-only SEs. Per-channel reset (permanent counts stay permanent), Watch-marked meltdown handling per channel, and Tool use counters as Threshold-channel mechanisms. Checklist item 11 reworded to the two channels at exact box width.
+
+
 ## Correction — P.S. counts on two mechanisms: Sorrow Gauge AND Activation Threshold (Universal Table, 2026-10-30)
 
 - **Owner correction applied:** the passes above fused two distinct P.S. mechanisms into one "inverse pair." In fact the **Sorrow Gauge (0–100%)** is a continuous, work-responsive pressure meter (Behavior Decrease/Stable/Increase; 100% = saturation catastrophe — battle-system codices §5.1; containment cells carry literal gauges warning before cell breach thresholds), while **Activation Thresholds** are a discrete, separately-filed condition set (named checkable conditions, counts, spreads, Gauge-percentage crossings ≥60/75/90%). An SE may carry **Gauge-only, Threshold-only, both, or neither** — mirroring how native Abnormalities carry different breaching conditions.
