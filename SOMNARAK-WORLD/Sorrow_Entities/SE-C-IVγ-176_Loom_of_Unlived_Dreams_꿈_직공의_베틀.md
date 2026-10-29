@@ -27,20 +27,20 @@
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Mental / emotional pressure |
+| **Primary pressure** | Clarity — knowing which of the two rooms you are standing in |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle, taken from the finished length on the beam at the close of a timed rotation: the figure is paid for cloth, not for hours, and a rotation that ends early pays the same as one that runs to the clock only because the clock is what ends it. |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ (Major) |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
+| **Vessel-Destructible** | No — the frame is inert to every test and nothing on record has struck it; threads are never cut and the shuttle is never stopped by force |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Ferrehan inside the painted radius on a timed rotation, with Viderehan taken in sealed pairs from opposite faces of the frame and the finished length measured at each return — 88 metres against 61 and 40, never once found shorter. The rotation ends at the clock and never at the worker's own assessment of how they are, that instruction being on this file the measure rather than the courtesy. |
 
 ### Operational Notes
 
 - The warp is made of futures nobody started, and the work on it is further along at every inspection than it was at the last.
-- A cycle stops the shuttle for a shift. Nothing woven has ever come undone, and a clean outcome leaves the pattern exactly where it was.
+- A cycle ends the exposure, never the shuttle, which has crossed at the same rate for a century whether anybody is in the chamber or not. Nothing woven has ever come undone, and a clean outcome leaves the pattern exactly where it was.
 - Ferrehan is the working approach and Viderehan the recording one; both are run to a clock, never to the worker's own sense of how they are.
 - No breach counter. The influenced radius near the Gates widens, and its edge is re-marked from scratch at every session because a carried-over mark has twice been wrong by several metres.
 - Residue is recovered from the frame under separate authorisation, from the beam and never from the weave; the distinction is the painted line and is not discretionary.
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 40% against Lament pressure; 30% against other pressure types. The 683/683 stat line and the 18–41 attack band are carried because the encounter sheet requires them; nothing on record has ever struck the loom and the two refusals on file were won by the weave rather than by the frame. |
+| **Resistance** | 40% against Lament pressure; 30% against other pressure types. The 683/683 stat line and the 18–41 attack band are carried because the encounter sheet requires them; nothing on record has ever struck the loom and the two refusals on file were won by the weave rather than by the frame. Working protection is the paint, the clock, the two anchors and the sealed pair — never the worker's own assessment of how they are. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 683/683 |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
@@ -79,11 +79,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Thread* [**Debuff**] } | "A thread of dreamstuff drifts from the loom — and where it touches your skin, you begin to see things that are not there." | [The Loom's dream-threads alter the target's perception.] | *Target suffers -10 Composure; waking and dreaming blur.* **[10 Lament DMG [Lament]]** | When the target approaches the Loom. |
-| { *The Tightening Weave* [**Debuff**] } | "The loom works faster — and the fabric it produces wraps around your thoughts, threading dream into mind." | [The Loom's output envelops the target; they cannot distinguish their thoughts.] | *Target loses 10 Composure; the dream-fabric is inside them.* **[10 Lament DMG [Lament]]** | When the target lingers. |
-| { *The Cut Thread* [**Attack**] } | "A thread snaps — and the severed end whips out, sharp as a blade." | [A broken dream-thread lashes the target.] | *Inflicts Lament pressure and one surreal, cutting wound.* **[14-22 Lament DMG [Lament]]** | When the Loom is interrupted. |
-| { *The Full Tapestry* [**Attack**] } | "The loom releases its completed work — a tapestry of every dream it ever wove, falling over everything." | [The Loom's entire output is released at once, and the output is what people set down: futures that were prepared for and never confirmed, one thread per person.] | *A heavy Deep Blue cascade; the target's Sorrow Gauge surges 15%; the cloth on the beam does not shorten, and the length recorded after this action is longer than the one before it.* **[24-36 Lament DMG [Lament]]** | When the loom is interrupted — the frame may be touched and the weave may not, and the line between them is painted on the floor. |
-| { *The Woven World* [**Ultimate**] } | "The loom does not stop — it weaves dream into every surface — until the whole field is inside one endless dream." | [The Loom extends its weaving across the entire area, and the fabric it weaves out of the room is accurate: the wing, the Gates, and the future each person in it was preparing for.] | *All in range suffer Lament pressure for three turns inside the woven dream. The pressure does not fall when the weaving ends; it falls when the crew is rotated off the frame, and a response that stays on past its clock powers this action rather than ending it.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%, which on this file is a function of exposure carried past the rotation and not of anything the loom does. |
+| { *The First Thread* [**Debuff**] } | "A thread of dreamstuff drifts from the loom — and where it touches your skin, you begin to see things that are not there." | [Contact opens the weave: a room the visitor recognises and has never been in arrives around them.] | *The worker loses Clarity as waking and dreaming blur. Name the current physical anchors aloud, read the clock, and let the sealed pair separate to opposite faces.* **[10 Lament DMG [Lament]]** | When a thread is touched or a Dream Chamber inside the marked radius is entered. |
+| { *The Tightening Weave* [**Debuff**] } | "The loom works faster — and the fabric it produces wraps around your thoughts, threading dream into mind." | [The current room receives a woven detail that should belong only to a dream — a second window, a different street — and the worker's answers shorten.] | *The worker loses Clarity. The witnessed desire is recorded as desire, never as an instruction to act; the duty officer keeps a hand on the rotation.* **[10 Lament DMG [Lament]]** | When the first warning appears: a dream-only detail woven into the current room. |
+| { *The Cut Thread* [**Attack**] } | "A thread snaps — and the severed end whips out, sharp as a blade." | [Interrupted weaving turns the dream into a hostile room around whoever used force.] | *Heavy Lament pressure on the interrupter. Hands off thread and shuttle: close the channel by intent, name both anchors, and withdraw across the paint.* **[14-22 Lament DMG [Lament]]** | When a thread is cut or the shuttle is stopped by force. |
+| { *The Full Tapestry* [**Attack**] } | "The loom releases its completed work — a tapestry of every dream it ever wove, falling over everything." | [An overfed dream stops overlaying the room and replaces it: four physical rooms adjacent to the frame are on record, each restored when the weaving ended.] | *A heavy Deep Blue cascade across the replaced room; the cloth on the beam does not shorten. Clear the adjacent room, hold both anchors, and allow the dream to fade at its source rather than living inside it.* **[24-36 Lament DMG [Lament]]** | When a channel is prolonged past its timed mark and the dream begins replacing current sensory reality. |
+| { *The Woven World* [**Ultimate**] } | "The loom does not stop — it weaves dream into every surface — until the whole field is inside one endless dream." | [The Loom extends its weaving across the entire area, and the fabric it weaves out of the room is accurate: the wing, the Gates, and the future each person in it was preparing for.] | *All in range suffer Lament pressure for three turns inside the woven dream. The pressure does not fall when the weaving ends; it falls when the crew is rotated off the frame, and a response that stays on past its clock powers this action rather than ending it.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the 75% activation threshold with exposure carried past the rotation — a function of the stayed-past-the-clock worker, not of anything the loom does. |
 
 ### Battle Phases
 
@@ -167,14 +167,14 @@ The row that matters here is the one that looks like the safe option. Viderehan 
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
-| **Use Mode** | **Continuous / channeled use** |
+| **Use Mode** | **Timed contact exposure** — nobody operates or channels the Loom; contact begins at the weave and ends at the clock |
 | **Activation** | Touching a thread or entering a Dream Chamber nearby. |
 | **Primary Effect** | A whole future rendered inhabitable for a time — complete, pleasant, and accurate to what the person was preparing for. |
 | **Duration** | Until its source runs out. The clock ends the exposure; the dreamer never does. |
 | **Termination / Return** | The clock ends the watch, not the dreamer: separation is performed by the duty officer at the timed mark and the record states plainly that no worker has ever ended their own exposure voluntarily. Leaving the frame and leaving the future are the same act, and the file measures both by the finished length. |
 | **Risk** | A lucid refusal to come back. Two are in the file and both were argued coherently by people who knew where they were. |
 
-**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+**Operational Rule:** No channel is held open by concentration. Work uses two anchors — one in the Dream, one in waking space — and the timed rotation: the clock is read aloud, current physical anchors are named, and at the mark the duty officer ends the exposure and lets the dream fade rather than prolonging it. Prolonged channeling feeds the weave; force against thread or shuttle is prohibited.
 
 ### Log and Method
 
@@ -224,7 +224,7 @@ Escalation here is written in three figures that have nothing to do with the fra
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** The multiplier applies to the strike and to each Tick separately. The Requiem's bearer is rostered against the clock and not against their own assessment, in keeping with the standing instruction on this holding.
 
-**Ability:** Lament damage to the mind, delivered as the frame delivers it: the target is shown, briefly and completely, the life their work was pointed at, in a version where it was confirmed. The strike is what the target does about that in the half-second afterwards.
+**Ability:** *Unweave Line* — the Skewer loosens a temporary dream reality where it has begun overwriting a current room, unpicking the construct a line at a time rather than tearing it. At full activation, *Let the Cloth End* dissolves one escalating woven construct across the line and returns its emotional material to the Loom's custody. It cannot decide which future was worth living, and using it to force a dreamer out or keep a dream alive knots the thread and ends activation.
 
 **Cost:** The wielder carries the frame's own residue, which is not grief but the unconfirmed: they begin describing their work in the future tense, and prolonged use brings involuntary weeping at moments that have nothing to do with sorrow. Rostered to the clock, as everything on this file is.
 
@@ -242,7 +242,7 @@ Escalation here is written in three figures that have nothing to do with the fra
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Turns Lament aside from the mind, and on this post the specific effect is that the shroud blunts the frame's accuracy: a wearer inside the paint sees the future they prepared for as a set of facts rather than as a room they could walk into. It is the difference between being shown a life and being offered one, and it is what makes a full timed rotation survivable at all.
+**Ability:** *Double Weave* — with both collar anchor knots held by separate waking and Dream witnesses, the Shroud keeps the wearer's current body and Dream identity distinct from a woven temporary reality; on this post the felt effect is that it blunts the frame's accuracy, so the future is seen as a set of facts rather than a room to walk into. Triggered *Anchor Knot*: when both anchors jointly invoke the return cue, the Shroud breaks one Dream bleed and sets the wearer back into current space. With either anchor treated as optional it gives only ordinary resistance, and cutting a knot leaves the wearer split between construct and room.
 
 **Cost:** The wearer goes flat to small pleasures, and the loss is recorded on this file in the wearer's own words rather than the medical office's: the first thing to go is the taste of a good morning, and the last is the ability to be pleased for somebody else. Both return within a week of coming off the rotation, and the file notes that no wearer has been able to say whether the flatness is the residue or the protection.
 
@@ -256,7 +256,7 @@ Escalation here is written in three figures that have nothing to do with the fra
 **Acquisition Probability:** 4%
 **Effect:** +2 to the working stat, and for about a day the wearer can see, in any room, what it was intended to become before the plan for it changed. Wearers describe the effect as pleasant, which is the warning.
 
-**Ability:** Weaves one controlled illusion.
+**Ability:** *Weave Once* — with consent and double anchors, the Shuttle weaves one controlled illusion for care, training or safe route visualisation, built only from a personal memory the bearer voluntarily names. Passive *Loose Thread* senses where an imagined construct is trying to become permanent. The illusion cannot replace reality or sustain itself after its emotional source closes, and weaving from another person's memory without consent produces a blank illusion that absorbs the bearer's own current detail.
 
 **Cost:** The user contributes a personal memory to the dream.
 
@@ -330,7 +330,7 @@ Eighty-eight metres on the beam at the last return, against sixty-one and forty.
 
 ## 감각 묘사 (Flavor Text)
 
-Threads hang in the air, each one a possible life. The Loom does not move until you approach. Then it takes the desire you tried not to carry and turns it into a room, a person, a future. Nothing touches you. Nothing forces you to stay. The dream simply becomes easier than waking.
+Threads hang in the air, each one a possible life. The Loom was weaving before you came in and does not change its pace for you. What changes is the material: it takes the desire you tried not to carry and turns it into a room, a person, a future. Nothing touches you. Nothing forces you to stay. The dream simply becomes easier than waking.
 
 
 
@@ -391,7 +391,7 @@ Some sorrows mourn what was lost. Loom of Unlived Dreams mourns what was dreamed
 > *“The loom does not stop. The dreams keep arriving.”* — Mender, Dream Gates
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-176` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Object-Dream manifestation
+**Classification:** Sorrow Entity — `C-IVγ-176 [LO]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Object-Dream manifestation
 **Common Name:** Loom of Unlived Dreams (earlier designation: The Dream Weaver's Loom)
 **Containment Status:** Contained — SECTOR-A-01, beside the Dream Gates
 **Comprehension Level:** 3 — Advanced

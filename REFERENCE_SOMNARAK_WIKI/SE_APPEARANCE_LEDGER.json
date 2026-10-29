@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVγ-176": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_05_LOOM_OF_UNLIVED_DREAMS.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2367,8 +2379,23 @@
     {
       "designation": "C-IVγ-176",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD +0 — 17 repairs make the clock, not the loom, the thing that can fail.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_05_LOOM_OF_UNLIVED_DREAMS.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-A__SIDE_CODEX_Loom_of_Unlived_Dreams.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-B__MAW-W_The_Dream_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-C__MAW-S_The_Dream_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-D__MAW-G_The_Dream_Shuttle.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVγ-180",

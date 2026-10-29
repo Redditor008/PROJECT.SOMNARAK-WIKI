@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 204,
   "status": "OPEN",
-  "completed_units": 4,
+  "completed_units": 5,
   "required_units": 5,
   "queue": [
     {
@@ -42,7 +42,7 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 4,
+  "completed": 5,
   "units": [
     {
       "unit": 1,
@@ -852,6 +852,214 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 4,
         "digit_sequence_change": "Unsupported 15% surge and bare 65% Ultimate removed; Side A's ninety-second obstruction, sixty-metre tremor reach and three-barrier cornering figures restored as exact-source trigger measurements."
+      }
+    },
+    {
+      "unit": 5,
+      "designation": "C-IVγ-176",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀.md",
+      "words": 9942,
+      "sha256": "ac38f3e0bbcede96fe902fd29c182748189ac1966e2afa421681348ce0c339ab",
+      "name": "Loom of Unlived Dreams",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_05_LOOM_OF_UNLIVED_DREAMS.md",
+      "before_words": 9942,
+      "after_words": 10334,
+      "base": "96a3099fe8157cda9a8ef20949c438c735d9de57",
+      "final_sha256": "2a36f285335e2a617a01c73cb462bab6888bf04c76eb807d899a4d71383a0bf7",
+      "summary": "HELD +0 — 17 repairs make the clock, not the loom, the thing that can fail.",
+      "commentary": "It has never woven anybody the wrong future. That is exactly why the clock, and not the worker, ends the watch.",
+      "reasoning": "Nobody operates this loom: every harmful row is now a human clock failure — touching the weave, mistaking desire for instruction, using force, overfeeding a channel, or refusing separation.\n\nProtection is procedural (paint, clock, two anchors, sealed pair) because the accurate future is the hazard and feeling well is the symptom.\n\nThe set's stats agree with B/C/D, but its weapon kind and extraction story do not; those identity forks are held in the open rather than averaged.",
+      "history": "Archived volumes show R-29 prose personalization (dc8d8ed, 7,699→9,942 words) and later artwork/appearance batches, but no completed exact-pair/full-set source disposition for SE-176-B/C/D and no equipment-ledger row. This is the first exact source review found; because weapon form and extraction remain forked, no Types or Weapon credit is claimed. HELD +0 on all counters.",
+      "holds": [
+        "Blade cut from cloth versus thread-bow on released thread. Held.",
+        "Beam-cut continuing weave versus self-released thread extraction. Held.",
+        "Registry placeholder rows versus complete Side cards. Held.",
+        "First exact-pair source review found; Types/Weapon credit withheld until the forks resolve."
+      ],
+      "split": [
+        7,
+        10
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-clarity-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — knowing which of the two rooms you are standing in |"
+        },
+        {
+          "id": "R02-vessel-no-forced-stop",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — the frame is inert to every test and nothing on record has struck it; threads are never cut and the shuttle is never stopped by force |"
+        },
+        {
+          "id": "R03-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R04-use-mode-timed-contact",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Use Mode** | **Continuous / channeled use** |",
+          "new": "| **Use Mode** | **Timed contact exposure** — nobody operates or channels the Loom; contact begins at the weave and ends at the clock |"
+        },
+        {
+          "id": "R05-registrum-lo-tag",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "**Classification:** Sorrow Entity — `C-IVγ-176` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Object-Dream manifestation",
+          "new": "**Classification:** Sorrow Entity — `C-IVγ-176 [LO]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Object-Dream manifestation"
+        },
+        {
+          "id": "R06-operational-rule-anchors-clock",
+          "kind": "careful tool correction",
+          "careful": true,
+          "old": "**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.",
+          "new": "**Operational Rule:** No channel is held open by concentration. Work uses two anchors — one in the Dream, one in waking space — and the timed rotation: the clock is read aloud, current physical anchors are named, and at the mark the duty officer ends the exposure and lets the dream fade rather than prolonging it. Prolonged channeling feeds the weave; force against thread or shuttle is prohibited."
+        },
+        {
+          "id": "R07-resistance-clock-paint-anchors",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 40% against Lament pressure; 30% against other pressure types. The 683/683 stat line and the 18–41 attack band are carried because the encounter sheet requires them; nothing on record has ever struck the loom and the two refusals on file were won by the weave rather than by the frame. |",
+          "new": "| **Resistance** | 40% against Lament pressure; 30% against other pressure types. The 683/683 stat line and the 18–41 attack band are carried because the encounter sheet requires them; nothing on record has ever struck the loom and the two refusals on file were won by the weave rather than by the frame. Working protection is the paint, the clock, the two anchors and the sealed pair — never the worker's own assessment of how they are. |"
+        },
+        {
+          "id": "R08-first-thread-activation",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The First Thread* [**Debuff**] } | \"A thread of dreamstuff drifts from the loom — and where it touches your skin, you begin to see things that are not there.\" | [The Loom's dream-threads alter the target's perception.] | *Target suffers -10 Composure; waking and dreaming blur.* **[10 Lament DMG [Lament]]** | When the target approaches the Loom. |",
+          "new": "| { *The First Thread* [**Debuff**] } | \"A thread of dreamstuff drifts from the loom — and where it touches your skin, you begin to see things that are not there.\" | [Contact opens the weave: a room the visitor recognises and has never been in arrives around them.] | *The worker loses Clarity as waking and dreaming blur. Name the current physical anchors aloud, read the clock, and let the sealed pair separate to opposite faces.* **[10 Lament DMG [Lament]]** | When a thread is touched or a Dream Chamber inside the marked radius is entered. |"
+        },
+        {
+          "id": "R09-tightening-weave-first-warning",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Tightening Weave* [**Debuff**] } | \"The loom works faster — and the fabric it produces wraps around your thoughts, threading dream into mind.\" | [The Loom's output envelops the target; they cannot distinguish their thoughts.] | *Target loses 10 Composure; the dream-fabric is inside them.* **[10 Lament DMG [Lament]]** | When the target lingers. |",
+          "new": "| { *The Tightening Weave* [**Debuff**] } | \"The loom works faster — and the fabric it produces wraps around your thoughts, threading dream into mind.\" | [The current room receives a woven detail that should belong only to a dream — a second window, a different street — and the worker's answers shorten.] | *The worker loses Clarity. The witnessed desire is recorded as desire, never as an instruction to act; the duty officer keeps a hand on the rotation.* **[10 Lament DMG [Lament]]** | When the first warning appears: a dream-only detail woven into the current room. |"
+        },
+        {
+          "id": "R10-cut-thread-force",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Cut Thread* [**Attack**] } | \"A thread snaps — and the severed end whips out, sharp as a blade.\" | [A broken dream-thread lashes the target.] | *Inflicts Lament pressure and one surreal, cutting wound.* **[14-22 Lament DMG [Lament]]** | When the Loom is interrupted. |",
+          "new": "| { *The Cut Thread* [**Attack**] } | \"A thread snaps — and the severed end whips out, sharp as a blade.\" | [Interrupted weaving turns the dream into a hostile room around whoever used force.] | *Heavy Lament pressure on the interrupter. Hands off thread and shuttle: close the channel by intent, name both anchors, and withdraw across the paint.* **[14-22 Lament DMG [Lament]]** | When a thread is cut or the shuttle is stopped by force. |"
+        },
+        {
+          "id": "R11-full-tapestry-overfed-room",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Tapestry* [**Attack**] } | \"The loom releases its completed work — a tapestry of every dream it ever wove, falling over everything.\" | [The Loom's entire output is released at once, and the output is what people set down: futures that were prepared for and never confirmed, one thread per person.] | *A heavy Deep Blue cascade; the target's Sorrow Gauge surges 15%; the cloth on the beam does not shorten, and the length recorded after this action is longer than the one before it.* **[24-36 Lament DMG [Lament]]** | When the loom is interrupted — the frame may be touched and the weave may not, and the line between them is painted on the floor. |",
+          "new": "| { *The Full Tapestry* [**Attack**] } | \"The loom releases its completed work — a tapestry of every dream it ever wove, falling over everything.\" | [An overfed dream stops overlaying the room and replaces it: four physical rooms adjacent to the frame are on record, each restored when the weaving ended.] | *A heavy Deep Blue cascade across the replaced room; the cloth on the beam does not shorten. Clear the adjacent room, hold both anchors, and allow the dream to fade at its source rather than living inside it.* **[24-36 Lament DMG [Lament]]** | When a channel is prolonged past its timed mark and the dream begins replacing current sensory reality. |"
+        },
+        {
+          "id": "R12-woven-world-threshold-refusal",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Woven World* [**Ultimate**] } | \"The loom does not stop — it weaves dream into every surface — until the whole field is inside one endless dream.\" | [The Loom extends its weaving across the entire area, and the fabric it weaves out of the room is accurate: the wing, the Gates, and the future each person in it was preparing for.] | *All in range suffer Lament pressure for three turns inside the woven dream. The pressure does not fall when the weaving ends; it falls when the crew is rotated off the frame, and a response that stays on past its clock powers this action rather than ending it.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%, which on this file is a function of exposure carried past the rotation and not of anything the loom does. |",
+          "new": "| { *The Woven World* [**Ultimate**] } | \"The loom does not stop — it weaves dream into every surface — until the whole field is inside one endless dream.\" | [The Loom extends its weaving across the entire area, and the fabric it weaves out of the room is accurate: the wing, the Gates, and the future each person in it was preparing for.] | *All in range suffer Lament pressure for three turns inside the woven dream. The pressure does not fall when the weaving ends; it falls when the crew is rotated off the frame, and a response that stays on past its clock powers this action rather than ending it.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the 75% activation threshold with exposure carried past the rotation — a function of the stayed-past-the-clock worker, not of anything the loom does. |"
+        },
+        {
+          "id": "R13-requiem-unweave-line",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Lament damage to the mind, delivered as the frame delivers it: the target is shown, briefly and completely, the life their work was pointed at, in a version where it was confirmed. The strike is what the target does about that in the half-second afterwards.",
+          "new": "**Ability:** *Unweave Line* — the Skewer loosens a temporary dream reality where it has begun overwriting a current room, unpicking the construct a line at a time rather than tearing it. At full activation, *Let the Cloth End* dissolves one escalating woven construct across the line and returns its emotional material to the Loom's custody. It cannot decide which future was worth living, and using it to force a dreamer out or keep a dream alive knots the thread and ends activation."
+        },
+        {
+          "id": "R14-shroud-double-weave",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Turns Lament aside from the mind, and on this post the specific effect is that the shroud blunts the frame's accuracy: a wearer inside the paint sees the future they prepared for as a set of facts rather than as a room they could walk into. It is the difference between being shown a life and being offered one, and it is what makes a full timed rotation survivable at all.",
+          "new": "**Ability:** *Double Weave* — with both collar anchor knots held by separate waking and Dream witnesses, the Shroud keeps the wearer's current body and Dream identity distinct from a woven temporary reality; on this post the felt effect is that it blunts the frame's accuracy, so the future is seen as a set of facts rather than a room to walk into. Triggered *Anchor Knot*: when both anchors jointly invoke the return cue, the Shroud breaks one Dream bleed and sets the wearer back into current space. With either anchor treated as optional it gives only ordinary resistance, and cutting a knot leaves the wearer split between construct and room."
+        },
+        {
+          "id": "R15-shuttle-weave-once",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Weaves one controlled illusion.",
+          "new": "**Ability:** *Weave Once* — with consent and double anchors, the Shuttle weaves one controlled illusion for care, training or safe route visualisation, built only from a personal memory the bearer voluntarily names. Passive *Loose Thread* senses where an imagined construct is trying to become permanent. The illusion cannot replace reality or sustain itself after its emotional source closes, and weaving from another person's memory without consent produces a blank illusion that absorbs the bearer's own current detail."
+        },
+        {
+          "id": "R16-cycle-ends-exposure-not-shuttle",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- A cycle stops the shuttle for a shift. Nothing woven has ever come undone, and a clean outcome leaves the pattern exactly where it was.",
+          "new": "- A cycle ends the exposure, never the shuttle, which has crossed at the same rate for a century whether anybody is in the chamber or not. Nothing woven has ever come undone, and a clean outcome leaves the pattern exactly where it was."
+        },
+        {
+          "id": "R17-flavor-always-weaving",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "Threads hang in the air, each one a possible life. The Loom does not move until you approach. Then it takes the desire you tried not to carry and turns it into a room, a person, a future.",
+          "new": "Threads hang in the air, each one a possible life. The Loom was weaving before you came in and does not change its pace for you. What changes is the material: it takes the desire you tried not to carry and turns it into a room, a person, a future."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.008  clean   237 grams  Operational Parameters\n 0.007  clean   979 grams  Combat Record\n 0.004  clean   261 grams  Behavior\n 0.003  clean  1480 grams  Apex Record\n 0.003  clean   789 grams  감각 묘사 (Flavor Text)\n 0.001  clean  1020 grams  M.A.W. Equipment\n 0.000  clean   939 grams  Activation Behavior\n 0.000  clean   410 grams  이야기 (Narratio)\n 0.000  clean   356 grams  관찰 기록 (Observation Log)\n 0.000  clean   323 grams  기록 (Registrum)\n 0.000  clean   309 grams  Trivia\n 0.000  clean   280 grams  이야기 보고 (Story Log)\n 0.000  clean   246 grams  Origin\n 0.000  clean   197 grams  Appearance\n 0.000  clean   109 grams  최종 관찰 (Final Observation)\n 0.000  clean    45 grams  증언 (Testimonium)\n 0.000  clean    39 grams  SECC Classification\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle, taken from the finished length on the beam at the close of a \n   56   1  | **Resistance** | 40% against Lament pressure; 30% against other pressure types. The 683/683 stat line and the 18–41 attack band \n   86   6  | { *The Woven World* [**Ultimate**] } | \"The loom does not stop — it weaves dream into every surface — until the whole field is i\n  150   1  **Reading the response:** A falling gauge means the watch ended at its clock and the worker came back out of the future they were \n  276   1  | **After use** | Return the piece, then read the day-of-issue line back to the wielder and record, verbatim, whether they still d\n  356   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  454   4  The wing clerks asked for one thing. Where a number falls to nil, let the people who have already started the course for it be tol\nGENERIC 0.002  (17 shared shingles)  SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-A__SIDE_CODEX_Loom_of_Unlived_Dreams.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-B__MAW-W_The_Dream_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-C__MAW-S_The_Dream_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-D__MAW-G_The_Dream_Shuttle.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-A__SIDE_CODEX_Loom_of_Unlived_Dreams.md": "89f54aaf1bb25c5253e54974079285c08d540901dbfbb74105c80f29aa01568a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-B__MAW-W_The_Dream_Requiem.md": "f71104bafe0ae9a2fc6f4040dd643f0c2ab531ae9fa2679577cfcd83da1a85ba",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-C__MAW-S_The_Dream_Shroud.md": "62af082950d844b6b7cebc64ec082a8d3be933dd85c7169db6cb2f5a7d7147ac",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-D__MAW-G_The_Dream_Shuttle.md": "cd5419650f24cb1758217cbff1b2381ac7eff31bc940f705ef0aadddfcb72016"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-176_Loom_of_Unlived_Dreams_%EA%BF%88_%EC%A7%81%EA%B3%B5%EC%9D%98_%EB%B2%A0%ED%8B%80.md \"SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀.md\")]",
+      "table_link": "[[C-IVγ-176 Loom of Unlived Dreams](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-176_Loom_of_Unlived_Dreams_%EA%BF%88_%EC%A7%81%EA%B3%B5%EC%9D%98_%EB%B2%A0%ED%8B%80.md \"SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 475 lines / 9,942 words, complete direct SE-176-A/B/C/D, Registry rows 446–449, archetype register MAW-W-176, and history across current plus archived CHANGELOG/WIP volumes. All tables parsed equally and all five Trigger cells read under Trigger; Cut Thread and Full Tapestry previously shared one trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 0,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Unsupported 15% Gauge surge removed; Ultimate aligned from 65% to the file's own 75% activation threshold with the stayed-past-the-clock condition retained."
       }
     }
   ]
