@@ -68,6 +68,8 @@ When translating an Abnormality from Project Moon into a Somnarak Sorrow Entity,
 | **WAW** | **Rank IV (Entity)** | **Grade δ (Critical)** | 750 – 1,000 HP | 30 – 55 DMG | 28 – 40 Han | 4 – 6 (Rapid) | 450–600 Part / 0 Term |
 | **ALEPH** | **Rank V (Sovereign)** | **Grade ω (Catastrophic)**| 1,000 – 12,000 HP| 50 – 80+ DMG | Sovereign / Macro | Instant / Teleport | Multi-Phase Stagger |
 
+**Reverse arithmetic (owner's Risk Parallel §XV, carried at Part IV.3).** When the transport *originates* in the other direction, dossier HP and Pressure are recovered by inverting the threat multipliers at the assigned tier: `base_HP = ceil(LC HP ÷ HP multiplier)` → Sorrow Gauge (HP), and `Han Pressure = ceil(LC attack value ÷ ATK multiplier)` using the multiplier recorded at intake (one value inside the tier's range, filed when the pair was created). No intake multiplier on file: use the range minimum, brace the recovered figure **`{est.}`**, and say so — an unfiled multiplier is a documentation gap, and no scene may later "compute" a more convenient one. Where both records of a pair exist they are cross-checked, never recomputed into agreement.
+
 ---
 
 
@@ -150,11 +152,11 @@ In Project Moon, containment work revolves around four generic employee actions:
 
 ### 1. Work Type Operational Translation
 
-1. **Instinct → Viderehan (  관조한   / *Gwanjohan* — Observation Work):**  
+1. **Insight → Viderehan (  관조한   / *Gwanjohan* — Observation Work):**  
    - **Procedure:** Operatives observe acoustic frequencies, barometric Han waves, and crystallization states from behind observation shields.
    - **Mechanical Effect:** Low risk; generates steady Han-Energy; builds operative **Clarity**; reveals behavioral patterns.
 
-2. **Insight → Ferrehan (  인내한   / *Innaehan* — Endurance Work):**  
+2. **Instinct → Ferrehan (  인내한   / *Innaehan* — Endurance Work):**  
    - **Procedure:** Operatives physically enter the containment chamber to withstand the entity's ambient pressure aura, heat, or gravity without speaking.
    - **Mechanical Effect:** Moderate physical risk; tests operative **Resilience**; stabilizes rapid Sorrow Gauge fluctuations.
 
@@ -166,7 +168,7 @@ In Project Moon, containment work revolves around four generic employee actions:
    - **Procedure:** Operatives deploy controlled physical violence, kinetic suppression rods, and authoritative strikes to beat back expanding manifestation mass.
    - **Mechanical Effect:** High physical risk; tests operative **Resolve**; prevents imminent breach counters, but escalates the entity's Grudge pressure.
 
-**Operative attributes convert with the work.** A native entry's work-scaling stats and stat requirements convert along the work pairing — Fortitude → Clarity, Prudence → Resilience, Temperance → Composure, Justice → Resolve, levels I–V unchanged — the exact inverse of the Universal Table's Section IV.3 table. SP-denominated costs become Composure costs, and E.G.O stat requirements become the M.A.W. record's operative requirements before Composure Load (Section VIII.3) is applied.
+**Operative attributes convert with the work (owner's Attribute Levels add-on, Part IV.4).** A native entry's work-scaling stats and stat requirements convert along the work pairing — Fortitude ↔ **Resilience** (Instinct/Ferrehan), Prudence ↔ **Clarity** (Insight/Viderehan), Temperance ↔ **Composure** (Attachment/Flerehan), Justice ↔ **Resolve** (Repression/Pugnahan) — the exact inverse of the Universal Table's Section IV.3 table. The pairing reads *aptitude*, not levels: every transported employee starts at **Level 0** in all four R.D. Attributes and earns points only through survived Han exposure (3+ consecutive days; ~1–3 points/day by Potency, keyed by Element; Level III = safe-work gate — full law at Universal Table §IV.3 / Part IV.4). A level-specific rule written against an LC stat therefore never confers a phantom R.D. level. SP-denominated costs become Composure costs, and E.G.O stat requirements become the M.A.W. record's operative requirements before Composure Load (Section VIII.3) is applied.
 
 ### 2. The Absolute Two-Work-Type Rule for Inanimate Entities
 

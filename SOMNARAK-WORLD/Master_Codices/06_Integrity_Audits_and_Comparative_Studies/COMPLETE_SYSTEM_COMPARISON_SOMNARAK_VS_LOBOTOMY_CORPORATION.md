@@ -185,10 +185,10 @@ Lobotomy Corporation uses four standardized work types. Somnarak formalizes cont
 
 | Lobotomy Corp Work | Somnarak Absolvohan Work | Meaning & Method | Tested Employee / Operative Stat |
 |---|---|---|---|
-| **Instinct** (Physical care) | **Viderehan (  관조한   / *Gwanjohan*)** | **Observation** — Monitoring acoustic frequencies and resonance from safety. | Fortitude (LC) / **Resilience** & **Clarity** (PS) |
-| **Insight** (Environment care) | **Ferrehan (  인내한   / *Innaehan*)** | **Endurance** — Entering the unit to physically endure ambient pressure and cold. | Prudence (LC) / **Resilience** & **Composure** (PS) |
-| **Attachment** (Social interaction)| **Flerehan (  통곡한   / *Tonggokhan*)** | **Weeping / Catharsis** — Empathetic emotional dialogue and reciprocal crying. | Temperance (LC) / **Composure** (PS) |
-| **Repression** (Suppression) | **Pugnahan (  격투한   / *Gyeoktuhan*)** | **Confrontation / Wrath** — Kinetic suppression strikes to beat back growth. | Justice (LC) / **Resolve** (PS) |
+| **Instinct** (Physical care) | **Ferrehan (  인내한   / *Innaehan*)** | **Endurance** — Entering the unit to physically endure ambient pressure and cold. | Fortitude (LC) / **Resilience** & **Resolve** (PS) |
+| **Insight** (Environment care) | **Viderehan (  관조한   / *Gwanjohan*)** | **Observation** — Monitoring acoustic frequencies and resonance from safety. | Prudence (LC) / **Clarity** & **Composure** (PS) |
+| **Attachment** (Social interaction)| **Flerehan (  통곡한   / *Tonggokhan*)** | **Weeping / Catharsis** — Empathetic emotional dialogue and reciprocal crying. | Temperance (LC) / **Composure** & **Clarity** (PS) |
+| **Repression** (Suppression) | **Pugnahan (  격투한   / *Gyeoktuhan*)** | **Confrontation / Wrath** — Kinetic suppression strikes to beat back growth. | Justice (LC) / **Resolve** & **Resilience** (PS) |
 
 ### 7.2 The Inviolable Two-Work-Type Rule (Non-Subject Entities)
 - **In Lobotomy Corporation:** Employees perform all four work types on almost all Abnormalities.
@@ -403,8 +403,8 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **PE-Box / NE-Box** | **Han Yield (  한 생산량   )** | The measure of positive extraction vs volatile waste per cycle. |
 | **Qliphoth Meltdown** | **Atmospheric Watch (  사경   )** | Facility-wide crisis timer triggering increased entity aggression. |
 | **Qliphoth Counter** | **Sorrow Gauge (  비탄 척도   ) & Activation Thresholds** | Not one mechanism but two: continuous Gauge pressure (0–100%, moved by work outcomes) and discrete threshold conditions (named states, counts, timers). An SE may file either or both; breach fires on Gauge saturation or threshold completion. |
-| **Instinct Work** | **Viderehan (  관조한   / *Gwanjohan*)** | Containment via remote acoustic observation and frequency monitoring. |
-| **Insight Work** | **Ferrehan (  인내한   / *Innaehan*)** | Containment via direct physical endurance inside the chamber. |
+| **Insight Work** | **Viderehan (  관조한   / *Gwanjohan*)** | Containment via remote acoustic observation and frequency monitoring. |
+| **Instinct Work** | **Ferrehan (  인내한   / *Innaehan*)** | Containment via direct physical endurance inside the chamber. |
 | **Attachment Work** | **Flerehan (  통곡한   / *Tonggokhan*)** | Containment via reciprocal empathetic weeping and emotional dialogue. |
 | **Repression Work** | **Pugnahan (  격투한   / *Gyeoktuhan*)** | Containment via wrathful kinetic strikes to suppress entity growth. |
 | **Sanity (SP)** | **Composure (  침착성   )** | Mental equilibrium; when depleted, operative suffers Composure Rupture. |

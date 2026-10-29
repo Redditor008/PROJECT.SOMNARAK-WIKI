@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Reverse guide + comparison aligned to the owner's pairing & arithmetic (2026-10-30)
+
+- **Reverse guide (standalone):** work headings corrected to the owner's mapping (**Insight → Viderehan**, **Instinct → Ferrehan**; the Somnarak work bodies were already described correctly). Attribute pairing corrected (Fortitude ↔ Resilience, Prudence ↔ Clarity — previously transposed) and reframed as the owner's acquisition ontology: transported employees start at **Level 0**; LC stats denote aptitude, never granted R.D. levels. New **reverse-arithmetic paragraph** (§III): recover base HP / Han Pressure by dividing out the tier's threat multiplier, rounding UP; the intake-filed multiplier governs, with a braced `{est.}` rule when none was filed.
+- **Comparison (standalone):** §7.1 pairing and attribute columns corrected to the owner's primary/secondary lattice (all four rows now carry both attributes); §17 lexicon rows realigned. Attachment/Repression rows already agreed with the owner and gained their secondaries only.
+
+
 ## Owner's Threat Score tables govern the Universal Table (Part I reconciliation, 2026-10-30)
 
 - **Section III tier assignment is now the owner's Threat Score** (`Coherence rank + Potency rank` → 2–3 ZAYIN · 4–5 TETH · 6 HE · 7–8 WAW · 9–10 ALEPH), replacing the interim higher-of-two-tiers rule; the matrix gained a Threat Score column. All five Section X worked conversions and all four Section VIII roster entries re-verify unchanged under the Score (the Maw: IV+ω = 9 → ALEPH; §X justification text corrected to the Score). **HP and ATK now derive by the owner's threat multipliers with mandatory round-UP** (HP ×0.2/×0.4/×1.8/×4/×10; ATK ×0.5–1.0/×1.2–1.4/×1.4–1.8/×1.0–1.8/×0.5–1.0 + Instant Death at ALEPH; HE = peak raw damage), tier bands retained as the flag-don't-rescale check.
