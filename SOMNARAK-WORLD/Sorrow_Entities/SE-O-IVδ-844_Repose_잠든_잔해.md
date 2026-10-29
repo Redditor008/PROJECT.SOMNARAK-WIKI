@@ -26,7 +26,7 @@
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Subject |
-| **Primary pressure** | Mental / emotional pressure |
+| **Primary pressure** | Clarity — remaining beside sleeping grief without mistaking its dream, buildings or dead for one's own |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
@@ -50,8 +50,8 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Lament pressure; 35% against other pressure types |
+| **Speed** | N/A — recumbent; it has never risen, walked or pursued. Measure breathing at 10–12/min, posture, sound floor and the standing-structure survey. |
+| **Resistance** | 45% against Lament pressure; 35% against other pressure types. Establish the sound floor and breathing rate before approach, use hand signals and the smallest practicable party, and bring no powered equipment, alarm or Astral-Disc into the Old Lament. Tell personnel which surveyed buildings are dream-held; stop at any breathing change and close only after the dead are acknowledged below the floor. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 29–64 per hit · Lament |
@@ -77,16 +77,16 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Ancient Breath* [**Debuff**] } | "The ruin breathes — barely — a slow exhalation of dust and millennia — and the breath carries the weight of forgotten ages." | [The Ruin's dormant exhalation settles on the target; they feel aeons of accumulated sleep.] | *Target suffers -10 Composure; the ancient slumber is heavy.* **[10 Lament DMG [Lament]]** | When the target enters the Ruin. |
-| { *The Dreaming Stone* [**Debuff**] } | "In its sleep, the ruin dreams of what it was — a temple, a fortress, a home — and the dreams manifest as half-visible architecture." | [The Ruin's dream-structures flicker around the target; ghost-walls and phantom arches.] | *Target loses 10 Composure; the dreaming ruin is rebuilding itself in sleep.* **[10 Lament DMG [Lament]]** | When the target lingers. |
-| { *The Falling Capital* [**Attack**] } | "A carved capital — the top of a column — shakes loose in the ruin's sleep and drops." | [ An ancient stone ornament falls.] | *Inflicts Lament pressure and one heavy, ancient wound.* **[14-22 Lament DMG [Lament]]** | When the Ruin is touched. |
-| { *The Full Awakening* [**Attack**] } | "The ruin wakes — and the first thing it does is remember what it was, and the memory is devastating." | [The whole of the settlement's record comes back at once, streets and accounts and the names of householders, and the room is inside it while it lasts.] | *A heavy Lament flood of returned time; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Ruin is excavated. |
-| { *The Waking City* [**Ultimate**] } | "Every ruin in the field awakens — and the combined recollection of forgotten history crushes everything." | [The dream spreads out past the perimeter and every ruin on the ground starts remembering on its own account.] | *All in range suffer Lament pressure for three turns of waking ruins.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Ancient Breath* [**Debuff**] } | "The ruin breathes — barely — a slow exhalation of dust and millennia — and the breath carries the weight of forgotten ages." | [The sleeper's measured exhalation carries the settlement's exhaustion through the quiet perimeter; the figure does not wake or target anyone.] | *Personnel inside the sound floor suffer -10 Clarity. Record breathing at 10–12/min, limb position and arrival sound floor by hand signal before any work begins.* **[10 Lament DMG [Lament]]** | When the approach party first takes the breathing and sound-floor readings inside the Old Lament perimeter. |
+| { *The Dreaming Stone* [**Debuff**] } | "In its sleep, the ruin dreams of what it was — a temple, a fortress, a home — and the dreams manifest as half-visible architecture." | [The survey finds personnel inside one of the standing structures absent from every pre-collapse plan; its walls are being held by the sleeper's dream.] | *Personnel in that structure lose 10 Clarity. Mark it against the 56-building survey, tell the occupants what is holding it up, and move by hand signal without striking or testing the fabric.* **[10 Lament DMG [Lament]]** | When a worker is identified inside a dream-held building or a previously standing surveyed structure changes between readings. |
+| { *The Falling Capital* [**Attack**] } | "A carved capital — the top of a column — shakes loose in the ruin's sleep and drops." | [Handling the rubble that forms the sleeper or a dream-held wall lets real and dreamed fabric fail together.] | *Inflicts Lament pressure and one heavy structural wound. All handling stops silently; check breathing first, then compare the affected building with both independent surveys before anyone re-enters.* **[14-22 Lament DMG [Lament]]** | When personnel touch, move or extract rubble from the figure or a dream-held structure. |
+| { *The Full Awakening* [**Attack**] } | "The ruin wakes — and the first thing it does is remember what it was, and the memory is devastating." | [Projected, never-observed response: a resolution violation changes the breathing and the settlement's final day returns through every dream-held structure at once.] | *Heavy Lament pressure; no personnel Gauge surge is inferred. Freeze all movement and machinery, restore the sound floor, and acknowledge the dead by recovered name and exact remainder. This protocol is untested, not a proven recovery.* **[24-36 Lament DMG [Lament]]** | When excavation across the sleeper or an alarm, powered tool or raised voice breaks the sound floor and alters the 10–12/min breathing. |
+| { *The Waking City* [**Ultimate**] } | "Every ruin in the field awakens — and the combined recollection of forgotten history crushes everything." | [At breach threshold the dream stops holding the surveyed settlement evenly; collapse risk propagates through the 56 dream-held buildings rather than through every ruin in the world.] | *All personnel inside surveyed dream-held structures suffer Lament pressure for three turns. Evacuate silently by level and hand signal, keep the names reading below the floor, and do not use Pugnahan, alarms or powered rescue tools.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥90% while the dream remains load-bearing. |
 
 ### Battle Phases
 
 1. **Tension:** The team locates the sleeping figure among the Old Lament rubble, establishes the sound floor of the area, confirms that no powered equipment is present, and agrees the withdrawal signal — which is given by hand, not by voice.
-2. **Clash:** Twenty-four turns beside something that does not fight back and must not be made to. The 910-point gauge and the 29 to 64 pressure describe what happens if it wakes, not what happens during a cycle; the encounter as actually conducted is long, quiet, and measured in how little the party disturbed.
+2. **Clash:** Twenty-four turns beside something that does not fight back and must not be made to. The only live contests are noise, fatigue and the urge to intervene: breathing, sound floor, dream-held structures and first-person attribution are checked while Pugnahan, alarms, powered tools and the Astral-Disc remain prohibited.
 3. **Resolution:** The cycle closes quiet: noise held down across the whole perimeter, the dead acknowledged by name where the names are known, and the sleep left unbroken. The file writes its own condition into the registration — **do not wake it; reduce noise and acknowledge the dead** — and everything about the site is arranged around the first clause, including the survey work that goes on around the sleeper rather than across it.
 
 ### Consequences
@@ -126,7 +126,7 @@
 - **Formation:** From a settlement that was destroyed and then struck off, and from the one person left to mourn a place the register no longer admits existed.
 - **The Sorrow:** Not that the place cannot be rebuilt. That it cannot be returned to, registered, addressed or claimed as anybody's origin, by a rule that is right.
 - **The Event:** A surge took the settlement. The ground was condemned and the place struck off in the following season. The survivor reached the Desolate relief station, was entered as having no registered origin, declined shelter and lay down.
-- **The People:** An entire Outside Sorrow settlement, and one survivor of it. The settlement is in the body; the survivor is the sleeper. The record does not name either, and the resolution condition requires the dead to be acknowledged, which the facility is therefore doing by count rather than by name.
+- **The People:** An entire Outside Sorrow settlement, and one survivor of it. The settlement is in the body; the survivor is the sleeper. The relief record gave her no registered origin, and acknowledgement was by count until the Struck Register supplied 411 names; the remaining 1,100 are now stated exactly after those names are read.
 - **Expanded origin context:** The settlement is not merely gone. It is **struck off**: condemned ground, removed from the register of places, and therefore unbuildable, unresettlable and unusable as anybody's origin. No permit may issue for it, no relief is payable to its address, and nobody living may be registered there. The relief officer who received the survivor wrote the origin field as *no registered origin*, which was the only entry the form permitted, and which is why the Desolate register records one arrival from nowhere. The rule is not cruelty and was not aimed at these people: resettlement of condemned ground killed 3,900 returning people in the twenty years before the striking-off power existed, in surges on sites that had already surged once. It is sound. It is also why there is no address in the city at which this settlement can be said to have been.
 
 ## Behavior
@@ -153,10 +153,10 @@ None of the four rows above means anything torn out of context; the element, the
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It does not rise and does not walk. What moves is the dream, outward through the structures it has been holding up, and what follows the dream is the collapse of whatever it stops holding. |
-| **Effect** | Cold grief in waves, draining composure, strongest in personnel standing inside a dreamed building at the time. |
+| **Effect** | Cold grief in waves, draining Clarity, strongest in personnel standing inside a dreamed building at the time. |
 | **Secondary Effect** | A keening that is not from the figure's mouth but from the timber and stone of the body, and which registers on the acoustic log before anyone hears it. |
 | **First Target** | No target. The propagation is structural and follows the survey list, which is why personnel are told in advance which buildings they are standing in. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **Escalation** | The sleeper is never “free” in a locomotor sense. Clarity drain +5 each turn inside a failing dream-held structure, while the entity Gauge is indexed to sound and acknowledgement: +10% for each alarm, powered tool or raised voice; −10% when the dead are acknowledged below the sound floor. |
 
 ### Escalation Notes
 
@@ -185,7 +185,7 @@ The disc projects blue astral light beams along its orbital edges that illuminat
 **Attack Pattern:** Skewer
 **Target Coverage:** A single projected line of astral light through up to three targets, cast along the disc's orbital edge.
 **Falloff Rule:** 100% at the first target, 70% at the second and 50% at the third, as the beam is diffused along its path.
-**Damage Application:** Score the beam once, then score the lingering illumination separately on each following interval while the target remains lit; the disc is not carried into the Old Lament under any circumstances, since the mounting rings are audible when they turn.
+**Damage Application:** Score the Skewer once at 100% → 70% → 50%; no separate lingering-illumination damage is recorded. The disc is not carried into the Old Lament under any circumstances, since the mounting rings are audible when they turn.
 
 **Ability:** A hovering bronze disc of constellations and revolving calendar rings that throws blue astral light along its edges, showing sorrow entities that cannot otherwise be seen — and, with the rings aligned, standing as a shield against elemental fire.
 
@@ -308,11 +308,11 @@ Broken stone rises around a sleeping figure. Its breathing shifts the ruins like
 
 **At first contact:** The Old Lament is quieter than it should be, which workers notice before anything else, and the quiet is partly discipline and partly the place. The figure is where it was: lying among the rubble, built out of it, breathing at eleven to the minute, wet around the face. Nothing acknowledges an arrival. Nothing has ever acknowledged an arrival.
 
-**With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Lament that the entity embodies. Understanding it does not make it easier.
+**With continued exposure:** Sustained contact is a discipline of not changing the readings. Breathing stays between ten and twelve, the posture does not move, and the only growth is architectural: another wall or roofline on the independent survey that no surviving plan contains. Workers learn to ask which present buildings are being dreamed before they ask what the figure is dreaming about.
 
-**When the entity activates:** When it activates, you understand why the containment protocols exist. The Lament that was merely present becomes active, directed, purposeful — the Subject-Lament was holding back, and now it isn't.
+**When the entity activates:** It has not done so. The record contains changed dreams, altered architecture and one abandoned part-read name list, but no awakening, pursuit or directed attack. The activation section therefore remains a warning about an unobserved event, and any change in breathing ends the cycle before personnel test what comes next.
 
-**After departure:** The containment boundary holds the Subject-Lament, but not the memory. Lament residue settles into the bones like Han into the city's foundations.
+**After departure:** The bill arrives the following night. Workers may dream a street none of them has seen, weep for a settlement that is not theirs, or wake unrefreshed after apparently sleeping; those reports are collected separately the next day and are never folded into the acoustic or structural logs.
 
 ### Interaction Pattern
 
@@ -391,7 +391,7 @@ Attack does not rouse it. This was established early, has been confirmed inadver
 
 ### Dreams That Rebuild
 
-Its dreaming reconstructs the ruins around it, partially and impermanently — structures rise within the chamber and are not there afterward. The reconstructions are photographed and the photographic series has been compared against the Outside Sorrow settlement's surviving plans, with the result that the dreams are accurate. They reproduce buildings the facility had no record of until the dreams produced them, and two of those have since been confirmed from district sources. The file records this carefully and draws no conclusion beyond the fact, noting that the sleeper is remembering correctly and that the facility is learning the settlement's architecture from something that is grieving it.
+Its dreaming reconstructs the settlement across the ambient Old Lament, partially and at unequal durations — the standing-structure survey now counts 56 buildings, each one rechecked because none can be assumed permanent. The reconstructions are photographed and the photographic series has been compared against the Outside Sorrow settlement's surviving plans, with the result that the dreams are accurate. They reproduce buildings the facility had no record of until the dreams produced them, and two of those have since been confirmed from district sources. The file records this carefully and draws no conclusion beyond the fact, noting that the sleeper is remembering correctly and that the facility is learning the settlement's architecture from something that is grieving it.
 
 ### Tears Into Memory
 

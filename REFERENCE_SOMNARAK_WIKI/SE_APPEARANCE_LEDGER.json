@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-IVδ-844": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_05_REPOSE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -7512,8 +7524,23 @@
     {
       "designation": "O-IVδ-844",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-844_Repose_잠든_잔해.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD +0 — 17 repairs make Repose a sound-and-structure vigil, not a walking ruin encounter.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_05_REPOSE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-A__SIDE_CODEX_Repose.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-B__MAW-W_The_Ruin_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-C__MAW-S_The_Ruin_Pillow.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-D__MAW-G_The_Ruin_Charm.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IVδ-851",
