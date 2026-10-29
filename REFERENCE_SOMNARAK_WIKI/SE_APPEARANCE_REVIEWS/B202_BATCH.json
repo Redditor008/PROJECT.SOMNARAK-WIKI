@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 202,
   "status": "OPEN",
-  "completed_units": 1,
+  "completed_units": 2,
   "required_units": 5,
   "queue": [
     {
@@ -42,7 +42,7 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 1,
+  "completed": 2,
   "units": [
     {
       "unit": 1,
@@ -256,6 +256,269 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 4,
         "digit_sequence_change": "The unsupported β Han Dust range and Deep Tone's invented personnel 15% Sorrow Gauge surge were removed. The Core activation threshold changed from ≥60% to Side A's Full Archive Wake condition, ≥65% after three distinct interrupted songs."
+      }
+    },
+    {
+      "unit": 2,
+      "designation": "C-IVδ-230",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억.md",
+      "words": 8810,
+      "sha256": "d053b3451fe0ea68315e46129962522b3b11e4d0d417b44c79904647c8ded165",
+      "name": "Every Last Goodbye",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_02_EVERY_LAST_GOODBYE.md",
+      "before_words": 8810,
+      "after_words": 9139,
+      "base": "59eb94241c293c0aad0da23d378c765c6af2b80e",
+      "final_sha256": "7a9cafa79b1757bb3c6944830e63928e4402ec406a2f8901c945748c966de377",
+      "summary": "Twenty-four repairs (7 short / 17 careful). The stationary vault figure no longer moves at 2.45 m/s, is not vessel-destructible, and does not treat Pugnahan as valid work. Combat now follows the file's actual sequence—first glimpse, prolonged own-ending contact, authorised selected frame, forced answer, and the ≥90% Corrupt pulse—while Resolution is the complete silent name-slip return. HELD with no fresh credit because Batch 120 already gave SE-230 a full equipment review and counted the exact Weapon pair.",
+      "commentary": "Its mercy is sharply limited: it proves an ending was witnessed without pretending that witness equals delivery, comfort or permission to interpret. The name slips work because they add presence without putting words into the dead.",
+      "reasoning": "R-34 audit before editing. Identity is direct SE-230: Side A prints `C-IVδ-230 [VS]`, Subject—Subject-Void, IV/δ, Void, Gauge 60–80%, Void pressure 22–48 and Observation 4—Mastered; B/C/D carry `MAW-W/S/G-230-01`. The primary's dominant local system is a shadowless, silent vault, two observers, a counted flicker (3.1 → 4.6 → 6.4 faces/second), written slips, and 6,100 unattended-interment names passed one at a time because the older acknowledge-and-record instruction was legally unperformed for 11 years. Repairs removed the moving/vessel model, separated the 40% Corrupt-pulse event scale from the 90% combat threshold, prohibited Pugnahan as work, and rebuilt each action from first look, Ferrehan's own-ending approach, authorised Viderehan selection, forced confrontation and Corrupt pulse. Exact Lens rules now prevent firing into a goodbye, remove invented Tick damage, and require agreement only that the ending has passed while disagreement is preserved. Every table block parses with equal cell counts and all Trigger cells parse fifth.",
+      "history": "Draft/local history: unattended final moments accumulated until they became the witness each death had lacked. Somnarak's connection-only funeral attendance law ended a body/effects trade but leaves thousands correctly interred alone; burial and mortuary crews forbidden to stand beside those bodies form many of the vault's voluntary sitters. Fresh credit BARRED: Batch 120's pair-history control explicitly counted `SE-230-B / MAW-W-230-01` as a new exact Weapon disposition, unit 4 reviewed all three item appearance profiles/mechanisms and costs, and the close re-audited the pair. No new `equipment_reviews` entry is appended; Types and Weapon do not move.",
+      "holds": [
+        "Movement fork: primary stationary figure with pulse-only travel versus Side A's Corrupt breach moving at up to 2.45 m/s. Core Speed follows the primary's corrected local record; Side A is not erased. Held.",
+        "Population fork: primary/Tale formation from unwitnessed endings versus Side A's final thoughts from witnessed and unwitnessed deaths. Held.",
+        "Record fork: primary Viderehan prohibits transcription of a final moment and leaves only observer memory, while Side A/equipment protocol require exact independent sensory accounts. Held.",
+        "Weapon form fork: primary hand-held disc pulsing at the source flicker versus exact B's long pale sight-staff pulsing with the last observed heartbeat. Held.",
+        "Stigma provenance/metadata fork: primary Head/4% with four local slot conferrals versus Registry generic Accessory/5% and exact D's currently unassigned token. Held."
+      ],
+      "split": [
+        7,
+        17
+      ],
+      "repairs": [
+        {
+          "id": "R01-operational-pressure-composure",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Identity / memory pressure |",
+          "new": "| **Primary pressure** | Composure — witnessing final moments without rewriting, erasing or claiming to deliver them |"
+        },
+        {
+          "id": "R02-operational-threshold-corrupt-pulse",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Activation threshold** | 1 |",
+          "new": "| **Activation threshold** | Corrupt pulse: event begins at 40% and adds 10% for every unanswered interval; combat threshold ≥90% |"
+        },
+        {
+          "id": "R03-threshold-note-entry-check",
+          "kind": "short operational correction",
+          "careful": false,
+          "old": "- Threshold 1. Entry conditions are confirmed aloud outside the door by two operatives against a printed list, because nothing may be said inside.",
+          "new": "- Before entry, two operatives confirm the printed conditions aloud outside the door—pairing, silence, slips, and exit-name check—because nothing may be said inside."
+        },
+        {
+          "id": "R04-vessel-no",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — Subject-Void figure; destroying an exposed final memory is prohibited and no vessel route is recorded |"
+        },
+        {
+          "id": "R05-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R06-speed-stationary-pulse",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | 2.45 m/s |",
+          "new": "| **Speed** | N/A — the figure is stationary; output is measured by flicker rate, slip count, and whether the Corrupt pulse reaches paired observers |"
+        },
+        {
+          "id": "R07-valid-work-types",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Flerehan primary; Viderehan for an authorised selected record; Ferrehan on short rotation. Pugnahan is prohibited, not valid work here |"
+        },
+        {
+          "id": "R08-resistance-safeguards",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 45 per cent against Void pressure and 35 against everything else — the highest band on the register, and the file's reason is that nothing here is aimed: the vault leaks rather than strikes, so a crew holds against the room. The gauge opens full at 620 and trips at 90 per cent, and escalation runs 5 Clarity per turn while it is unopposed. |",
+          "new": "| **Resistance** | 45 per cent against Void pressure and 35 against everything else — the highest band on the register, and the file's reason is that nothing here is aimed: the vault leaks rather than strikes, so a crew holds against the room. The safeguards are two observers together, absolute silence with written slips, no responder alone, no face transcription, no Pugnahan or attempted erasure, and each operative stating their own name aloud on exit. |"
+        },
+        {
+          "id": "R09-resolution-current-name-protocol",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | Do not attempt to erase a final moment; acknowledge and record it |",
+          "new": "| **Resolution Condition** | Do not erase or rewrite a final moment. Under the current vault protocol the complete Burial Office unattended-interment return is passed through the slot—one printed name to a slip, in silence—and any witnessed moment is recorded exactly without a claim of delivery |"
+        },
+        {
+          "id": "R10-fading-image-first-glimpse",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Fading Image* [**Debuff**] } | \"A memory appears — the last one. After this, there is nothing else to remember.\" | [Every Last Goodbye presents itself; the target feels the finality.] | *Target suffers a Void mark; what comes after memory is void.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target witnesses the Memory. |",
+          "new": "| { *The Fading Image* [**Debuff**] } | \"A memory appears — the last one. After this, there is nothing else to remember.\" | [Looking at the figure places the emotional shape of one final moment directly into the observer; the same moment is never shown twice to that observer.] | *The observer suffers a Void mark and loses Composure; the paired observer records only count, duration and slip number, never a claimed face.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When an observer first looks directly at the translucent figure in the vault. |"
+        },
+        {
+          "id": "R11-edge-of-recall-own-ending",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Edge of Recall* [**Debuff**] } | \"You are at the end of remembering — and beyond this memory, there is only blank.\" | [Every Last Goodbye shows the target the edge of their own past.] | *Target loses clarity; the void after the last memory is vast.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target touches the Memory. |",
+          "new": "| { *The Edge of Recall* [**Debuff**] } | \"You are at the end of remembering — and beyond this memory, there is only blank.\" | [Prolonged contact turns from another person's ending to the worker's own possible ending.] | *The worker loses Composure and experiences their death as settled rather than prospective; the pair ends the interval and post-contact existential review is mandatory.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When Ferrehan or prolonged paired observation continues past the first glimpse and the worker is shown the approach of their own ending. |"
+        },
+        {
+          "id": "R12-final-frame-selected-record",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Final Frame* [**Attack**] } | \"The last memory sharpens to a point — crystallized, eternal, and sharp enough to cut.\" | [The Memory hardens and strikes.] | *Inflicts Void damage; the final recollection erases what comes after.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Memory is disturbed. |",
+          "new": "| { *The Final Frame* [**Attack**] } | \"The last memory sharpens to a point — crystallized, eternal, and sharp enough to cut.\" | [One selected final moment remains long enough to be documented, then returns to the multitude without confirming any interpretation.] | *Inflicts Void pressure on the authorised witness. The record preserves exactly what appeared and preserves disagreement; it is not testimony, absolution, accusation, prophecy or a delivered message.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When Viderehan with identity and clearance selects one named dead person's final moment. |"
+        },
+        {
+          "id": "R13-full-recall-forced-answer",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Recall* [**Attack**] } | \"The last memory releases everything it held — a lifetime, compressed into one final, devastating burst.\" | [A whole life arrives in the room at once, at the size a death actually has when it is not summarised.] | *A heavy Void explosion; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Memory is forced. |",
+          "new": "| { *The Full Recall* [**Attack**] } | \"The last memory releases everything it held — a lifetime, compressed into one final, devastating burst.\" | [Fear and regret are released when the collection is forced to answer the living; a whole ending arrives unsummarised.] | *Heavy Void pressure to the forcing worker; no personnel Sorrow Gauge is inferred. Work stops, the pair withdraws together, and names are stated aloud outside the door.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When Pugnahan or any attempt to force, erase or rewrite a final moment into a preferred answer is made. |"
+        },
+        {
+          "id": "R14-blank-after-corrupt-pulse",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Blank After* [**Ultimate**] } | \"The last memory fades — and now everyone has reached the end of remembering, and beyond is only void.\" | [The vault goes past the end of anybody's recall and the last thing in the room goes with it.] | *All in range suffer Void erosion for three turns of total blankness.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Blank After* [**Ultimate**] } | \"The last memory fades — and now everyone has reached the end of remembering, and beyond is only void.\" | [The figure pulses in place as the vault loses definition: colour drains, sound stops carrying, and edges thin outward from the wall.] | *All personnel reached by the pulse suffer Void erosion and lose memories of partings for three turns. The zone is sealed, nobody enters alone, and Viderehan plus Ferrehan are used without destroying the exposed memory.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥90% and the Corrupt pulse begins. |"
+        },
+        {
+          "id": "R15-consequence-lens-not-swing",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- The M.A.W. is never costless, and here the price is collected in leave-takings: every swing passes a goodbye through the weapon on the bearer’s behalf, and the equipment records keep the count.",
+          "new": "- The M.A.W. is never costless. The Lens is not swung and must never fire into a goodbye; it acts only in the Blank After once the final frame has ended, and each discharge takes one small unnamed memory from the wielder while indexed facts remain."
+        },
+        {
+          "id": "R16-lens-damage-application-no-tick",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Damage Application:** The multiplier applies to direct damage and Tick damage separately, and the Tick from this source is mnemonic — the bearer loses a memory of a parting per application, selected by nothing anybody has identified.",
+          "new": "**Damage Application:** The Skewer multiplier applies to the direct Blank-After line through up to three targets. No Tick damage is recorded; the mnemonic charge is the separate per-shot cost below."
+        },
+        {
+          "id": "R17-final-hour-bestowal-piece",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "*A Stigma from this source appears in the slot rather than in the chamber: the observer passes a slip in, and what comes back is the Lens. It has happened four times, each after a name-passing cycle, and each observer reported writing the same name twice without meaning to.*",
+          "new": "*A Stigma from this source appears in the slot rather than in the chamber: the observer passes a slip in, and what comes back is the Final Hour token. It has happened four times, each after a name-passing cycle, and each observer reported writing the same name twice without meaning to.*"
+        },
+        {
+          "id": "R18-two-witness-agreement-scope",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Two witnesses must agree before the lens is fired, and disagreement between their accounts is preserved rather than resolved.",
+          "new": "Two witnesses must agree only that the ending has passed before the Lens is fired; disagreement in their sensory accounts is preserved rather than resolved, and the disc clears on the transparent interval after both accounts, not when one version wins."
+        },
+        {
+          "id": "R19-story-entry2-specific-record",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "Its memories spread through the Alpha Tree vault. Personnel experience the final moments of the dead and glimpse their own. It communicates through feeling rather than speech.",
+          "new": "Both count sheets were filed unreconciled. No face was described at handover. Each observer stated their own name aloud in the corridor before the vault door was sealed again."
+        },
+        {
+          "id": "R20-story-entry3-counseling-close",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "The loneliness of dying and the fear that the last moment will vanish with the person.",
+          "new": "Counseling therefore records the worker's own ending-image separately from any name they carried, checks whether present events are being spoken of in the past tense, and does not ask the worker to interpret a final moment as a message."
+        },
+        {
+          "id": "R21-apex-pulse-reaches-not-passes",
+          "kind": "careful apex correction",
+          "careful": true,
+          "old": "Its event is a Corrupt: it pulses in place, cracking the walls, while the containment zone loses definition and it takes memories from everyone it passes.",
+          "new": "Its event is a Corrupt: it pulses in place, cracking the walls, while the containment zone loses definition and the pulse takes memories from everyone it reaches."
+        },
+        {
+          "id": "R22-extraction-paired-not-solo",
+          "kind": "careful operational correction",
+          "careful": true,
+          "old": "- Extraction is authorised separately and is the only activity in this chamber that may be conducted by one person, because it cannot be conducted by two.",
+          "new": "- Extraction is authorised separately and remains paired work: two independent witness accounts are required before the Lens may act, and no extraction responder enters the chamber alone."
+        },
+        {
+          "id": "R23-lens-cost-no-tick-label",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Cost:** The bearer loses small, nameless memories with each use — the Tick from this source is mnemonic — and the Armoury records the loss against the bearer rather than against the piece.",
+          "new": "**Cost:** The bearer loses one small, nameless memory with each discharge while indexed facts remain, and the Armoury records the loss against the bearer rather than against the piece."
+        },
+        {
+          "id": "R24-escalation-composure-track",
+          "kind": "careful event correction",
+          "careful": true,
+          "old": "| **Escalation** | While it is unopposed the pressure grows: Clarity drain rises by 5 each turn until the cycle is suppressed. The figure has never taken a step — what travels is the pulse, and the pulse is what the drain is measured against. |",
+          "new": "| **Escalation** | While it is unanswered the pressure grows: Composure drain rises by 5 each turn until the pulse recedes under Viderehan and Ferrehan. The figure has never taken a step — what travels is the pulse, and the pulse is what the drain is measured against. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.019  clean   155 grams  최종 관찰 (Final Observation)\n 0.016  clean   129 grams  Operational Parameters\n 0.015  clean   879 grams  M.A.W. Equipment\n 0.013  clean   229 grams  기록 (Registrum)\n 0.012  clean   257 grams  Trivia\n 0.007  clean   811 grams  Combat Record\n 0.003  clean   639 grams  감각 묘사 (Flavor Text)\n 0.002  clean  1631 grams  Apex Record\n 0.000  clean   453 grams  이야기 보고 (Story Log)\n 0.000  clean   451 grams  이야기 (Narratio)\n 0.000  clean   246 grams  관찰 기록 (Observation Log)\n 0.000  clean   222 grams  Appearance\n 0.000  clean   211 grams  Origin\n 0.000  clean   179 grams  Containment Event Behavior\n 0.000  clean   164 grams  Behavior\n 0.000  clean    43 grams  증언 (Testimonium)\n 0.000  clean    43 grams  SECC Classification\n 0.000  THIN      4 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   85   6  | { *The Blank After* [**Ultimate**] } | \"The last memory fades — and now everyone has reached the end of remembering, and beyond \n  191   2  **Ability:** Deals Void damage against the Soul — identity, memory and the sense of self — and carries the source's signature: the\n  199   1  **Appearance:** A veil of Void Han-gossamer, near-translucent and all but colourless, that stirs with the wearer's breathing and l\n  245   5  | **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline of the bearer's own partings — three leavings they ca\n  246   5  | **During use** | The charge shows as the baseline thinning: the named leavings go unaccountably vague, oldest first. The hour go\n  300   3  | Acknowledge the final moment and record it — and erase nothing: pass the unattended-interment names through the slot, one to a s\n  330   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  379   3  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant) · Judexhan (\n  437   4  The burial guilds asked, in Year 4231, for one narrow thing: that where an interment would otherwise be unattended, the guild be a\n  451   3  - The register keeps its own figures in numerals for look-up: gauge 620/620, pressure 22–48 per hit, resistance 45 / 35 per cent, \nGENERIC 0.005  (36 shared shingles)  SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-A__SIDE_CODEX_Every_Last_Goodbye.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-B__MAW-W_The_Final_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-C__MAW-S_The_Final_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-D__MAW-G_The_Final_Hour.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-A__SIDE_CODEX_Every_Last_Goodbye.md": "1052c639bbfc641e7acb3b7d1a23d18821765aa55be3093e42ed90115db4a83d",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-B__MAW-W_The_Final_Lens.md": "090e436586c3e7b9077042bafae62ba9f4c8522d3c02a4f4f8c00248b2f15487",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-C__MAW-S_The_Final_Veil.md": "42756fe3b5a87a92eda7fab058300b648fd4f080f10af205af50b27e13fe58ef",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-D__MAW-G_The_Final_Hour.md": "904027288bcefd90ecf55e2293fa7e52d19b4a0742ca074f8a826d57030a35a0"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-230_Every_Last_Goodbye_%EB%A7%88%EC%A7%80%EB%A7%89_%EA%B8%B0%EC%96%B5.md \"SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억.md\")]",
+      "table_link": "[[C-IVδ-230 Every Last Goodbye](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-230_Every_Last_Goodbye_%EB%A7%88%EC%A7%80%EB%A7%89_%EA%B8%B0%EC%96%B5.md \"SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억.md\")]",
+      "reading": {
+        "before_lines": 470,
+        "before_bytes": 52447,
+        "final_lines": 470,
+        "final_bytes": 54758
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 10,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The unexplained threshold `1`, Speed `2.45 m/s`, δ Han Dust range and Full Recall's personnel 15% Sorrow Gauge surge were removed. The Ultimate changed from the unsupported 65% to the Core Stat/Trivia threshold ≥90%; the separate Corrupt-pulse event scale remains 40% plus 10% per unanswered interval."
       }
     }
   ]

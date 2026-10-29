@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVδ-230": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_02_EVERY_LAST_GOODBYE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2723,8 +2735,23 @@
     {
       "designation": "C-IVδ-230",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Twenty-four repairs (7 short / 17 careful). The stationary vault figure no longer moves at 2.45 m/s, is not vessel-destructible, and does not treat Pugnahan as valid work. Combat now follows the file's actual sequence—first glimpse, prolonged own-ending contact, authorised selected frame, forced answer, and the ≥90% Corrupt pulse—while Resolution is the complete silent name-slip return. HELD with no fresh credit because Batch 120 already gave SE-230 a full equipment review and counted the exact Weapon pair.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_02_EVERY_LAST_GOODBYE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-A__SIDE_CODEX_Every_Last_Goodbye.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-B__MAW-W_The_Final_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-C__MAW-S_The_Final_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-D__MAW-G_The_Final_Hour.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-249",
