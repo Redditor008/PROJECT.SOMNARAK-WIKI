@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 201,
   "status": "OPEN",
-  "completed_units": 4,
+  "completed_units": 5,
   "required_units": 5,
   "queue": [
     {
@@ -42,7 +42,7 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 4,
+  "completed": 5,
   "units": [
     {
       "unit": 1,
@@ -997,6 +997,227 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 4,
         "digit_sequence_change": "Row 4's unsupported personnel `15%` Sorrow Gauge rise and disputed refusal count `Four` were removed from Combat. The Ultimate trigger changed from 65% to the Core Stat Line/Operational threshold ≥60%."
+      }
+    },
+    {
+      "unit": 5,
+      "designation": "O-IVδ-115",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-115_Broken_Fragment_부서진_파편.md",
+      "words": 8722,
+      "sha256": "a4b28074677fb088ddb9ff19453e95ab5a956c0d09fc808c94cf8aa39a3bd248",
+      "name": "Broken Fragment",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_05_BROKEN_FRAGMENT.md",
+      "before_words": 8722,
+      "after_words": 8921,
+      "base": "8b49793f16a8af426ee898b9c3377db94d3633dc",
+      "final_sha256": "4995e5c48ae5258ca3246e38338d58738a1afc68ef19647353ba56a64ec6fa41",
+      "summary": "Eighteen repairs (6 short / 12 careful). The Fragment is no longer held, lingered at, struck into shrapnel, crushed into a total shatter, or triggered at the wrong Gauge. Its actions now use first touch, cracking/displacement crossing recorded thresholds, applied lifting load, sustained contact after observed immobility or first-person appropriation, and Gauge ≥90%. No vessel-destruction route remains, output is the survey series, and Resolution reports equivalent load rather than invented weight. HELD with no fresh equipment credit because the full δ set/statistics/Field Use Record and dated 2026-10-12 full-set review pre-existed.",
+      "commentary": "The archive's honesty is methodological: it cannot weigh the thing, so it publishes displacement, derivation and circularity instead of manufacturing a plain number. Direction and rate are known; a mass is not.",
+      "reasoning": "R-34 audit before editing. The exact-side identity is formal SE-1011, not the numeral in the designation alone: SE-1011-A/B/C/D each print Source SECC `O-IVδ-115 [WO]`, Object/Place—Object-Weight, IV/δ, Weight, Zone E Border, Gauge 910/910, start 60–80%, pressure 29–64, Observation 2—Basic and the monument/ uprising event; items carry `MAW-W/S/G-1011-01`. The primary's observable system is a survey network: the black-crystal fragment's apparent size never changes while ground displacement, four bowl radii, cracking rate and abandoned rigging mark an increasing equivalent load. Exact Side A gives touch/attempted lift as activation, Viderehan debt history and Ferrehan remaining beneath pressure. Repairs replaced held/linger/struck/crushed/shattering boilerplate with those contact, instrument, rigging-failure and mobility conditions; no fragment now flies or detonates. Exact item records supplied attribution and named-witness shutdown rules. All parsed table blocks are equal and all Trigger cells parse fifth.",
+      "history": "Draft/local history: a border monument to generations of inherited debt was shattered in an uprising, leaving one fragment. Four accounts of that uprising survive and are not adjudicated. The primary holds failed lifting attempts, an unrecoverable rigging asset still registered serviceable, externally verified survey stations, and a no-recovery order for anything entering the bowl. Fresh equipment credit BARRED on this HELD result: before repair the primary already had the complete δ Weapon/Suit/Stigma blocks with Side-aligned numbers, cumulative-cost Use Notes, Field Use Record and dated 2026-10-12 full-set source review. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+      "holds": [
+        "Entity/set name fork: primary Broken Fragment versus formal SE-1011 Side/set Weight of All Owed. Held.",
+        "Weapon fork: primary and Master-table Shard-Storm Reel (suspended reel with eight glass fragments) versus Side/item B and detailed Master Entry 658 Fragment Maul; archetypes also describe a central-spindle glass reel and silver shuttle-dagger with no bridge. Held.",
+        "Tool-use fork: standing field orders prohibit contact and all lifting attempts, while the I-Relic Log and Method models taking up and holding the Fragment and calls equippable status a registry convention rather than field practice. Combat contact rows are incident models, not authorised handling. Held.",
+        "Origin fork: a Collector record, two settlement accounts and a municipal summary of the monument/uprising do not reconcile, and the revised Tale selects none. Held.",
+        "Measurement limit: the soil model converting settlement to equivalent load was calibrated against this site's own settlement. The series supports increasing direction and rate, not a plain mass or extrapolated endpoint. Held."
+      ],
+      "split": [
+        6,
+        12
+      ],
+      "repairs": [
+        {
+          "id": "R01-operational-pressure-resolve",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Han / burden pressure |",
+          "new": "| **Primary pressure** | Resolve — the capacity to keep moving without taking inherited obligation on as one's own |"
+        },
+        {
+          "id": "R02-vessel-no",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — no force, tackle or Han method has displaced it, and no destruction route is recorded |"
+        },
+        {
+          "id": "R03-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R04-speed-survey-output",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | N/A — fixed and sinking; output is measured by three-dimensional ground displacement, bowl depth at four marked radii, cracking rate and abandoned-rigging position |"
+        },
+        {
+          "id": "R05-resistance-safeguards",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 45% against Weight pressure, the element this fragment was broken in, and 35% against the rest of what the Border region can lay on it |",
+          "new": "| **Resistance** | 45% against Weight pressure, the element this fragment was broken in, and 35% against the rest of what the Border region can lay on it. Work only from the stable margin: no entry into the bowl, no contact, no lifting attempt, and nothing inside the bowl is stabilised, shored or recovered |"
+        },
+        {
+          "id": "R06-Heavy Edge-contact-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Heavy Edge* [**Debuff**] } | \"The fragment is denser than it should be — broken things, it turns out, are heavier than whole ones.\" | [The Fragment's impossible density presses on the target.] | *Target suffers -10 Resolve; the broken piece weighs more than it should.* **[10 Weight DMG [Weight]]** | When the target holds the Fragment. |",
+          "new": "| { *The Heavy Edge* [**Debuff**] } | \"The fragment is denser than it should be — broken things, it turns out, are heavier than whole ones.\" | [At first hand contact the ground bows and names attached to promises or debts show beneath the crystal; the Fragment itself does not rise.] | *Target suffers -10 Resolve; contact ends and mobility is checked by another worker at one, five and fifteen minutes.* **[10 Weight DMG [Weight]]** | When the target first touches the Fragment. |"
+        },
+        {
+          "id": "R07-Sharp Crack-threshold-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Sharp Crack* [**Debuff**] } | \"The fragment is still breaking — new cracks appearing in real-time — and each crack releases a burst of stored weight.\" | [The Fragment's ongoing breakage releases energy; the target is bombarded.] | *Target loses 10 Resolve; the fragment is getting worse.* **[10 Weight DMG [Weight]]** | When the target lingers. |",
+          "new": "| { *The Sharp Crack* [**Debuff**] } | \"The fragment is still breaking — new cracks appearing in real-time — and each crack releases a burst of stored weight.\" | [Internal cracking crosses the recording threshold while the displacement readings quicken; urgency itself becomes the field sign.] | *Target loses 10 Resolve; they keep reporting that they are fine while their movement slows, so the team—not the worker—calls the limit.* **[10 Weight DMG [Weight]]** | When the crystal's cracking rises above the recording threshold and ground displacement quickens between surveys. |"
+        },
+        {
+          "id": "R08-Shrapnel-lifting-load-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Shrapnel* [**Attack**] } | \"A piece of the breaking fragment flies free — heavy, jagged, and still cracking.\" | [ A shard of actively-fragmenting material strikes.] | *Inflicts Weight pressure and one wound of ongoing destruction.* **[14-22 Weight DMG [Weight]]** | When the Fragment is struck. |",
+          "new": "| { *The Shrapnel* [**Attack**] } | \"The equipment fails, the rigging fails, or the ground gives — and the fragment is afterward exactly where it was.\" | [No piece flies free. The applied load comes back through failing rigging and moving ground while the crystal remains unmoved.] | *Inflicts Weight pressure and one wound of ongoing destruction to personnel inside the load path; the attempt is abandoned and nothing in the bowl is recovered.* **[14-22 Weight DMG [Weight]]** | When mechanical or Han lifting load is applied to the Fragment. |"
+        },
+        {
+          "id": "R09-Full Shatter-sustained-contact",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Shatter* [**Attack**] } | \"The fragment completes its break — every crack reaching critical point — and the detonation is a cascade of heavy shrapnel.\" | [The Fragment's total failure releases all its stored mass-energy.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Fragment is crushed. |",
+          "new": "| { *The Full Shatter* [**Attack**] } | \"It is getting heavier, measurably, and it has never once got lighter.\" | [No material detonation is observed. The displayed burden settles on the contacting worker until they stop moving and begin carrying it as their own.] | *Heavy Weight pressure and acute immobility without complaint; no personnel Sorrow Gauge is inferred. A named witness ends contact from stable ground and records mobility, not the worker's assurance.* **[24-36 Weight DMG [Weight]]** | When contact continues after a mobility check shows the worker slowing or stopped, or the worker begins describing the monument's burden in the first person. |"
+        },
+        {
+          "id": "R10-Shrapnel Field-threshold90",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Shrapnel Field* [**Ultimate**] } | \"Every fragment in the field reaches critical breakage — and the combined detonation is an avalanche of heavy shards.\" | [The breakage runs out along the approach road and the border bowl goes with it, and the weight stops being the fragment's and becomes the ground's.] | *All in range suffer Weight pressure for three turns of universal shattering.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Shrapnel Field* [**Ultimate**] } | \"The fragment stays where it is and the bowl around it becomes something other than ground.\" | [Deformation runs outward along the bowl and approach ground; the load is read in displacement and station drift, not in flying material.] | *All personnel inside the deformation radius suffer Weight pressure for three turns and withdraw to externally verified stable ground; nothing is shored or recovered.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥90%. |"
+        },
+        {
+          "id": "R11-use-notes-attribution",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "The three pieces are shards of a thing that is itself a shard, and they inherit the defining property: they grow heavier the longer they are kept. The listed benefit holds inside the intended pattern and the cost outside it is charged at once, presenting on this set as the sensation of carrying something in both hands when both hands are empty. The cumulative total governs issue; there is no cycle after which a wielder is back where they started. No protocol produces a Stigma — it comes from the source, at the source's disposition, or not at all.",
+          "new": "The three pieces are shards of a thing that is itself a shard, and they inherit the defining property: they grow heavier the longer they are kept. The listed benefit holds inside the intended pattern and the cost outside it is charged at once, presenting on this set as the sensation of carrying something in both hands when both hands are empty. The cumulative total governs issue; there is no cycle after which a wielder is back where they started. No protocol produces a Stigma — it comes from the source, at the source's disposition, or not at all. Before use the bearer names the monument event as the source's history, not as autobiography. The record keeps bearer, trigger, source response, cost and unresolved detail separate; first-person retelling, repeated source response outside contact, or new obligations taken on without request ends use. Emergency shutdown is witnessed: a named worker states the source title and event while the bearer relinquishes the piece."
+        },
+        {
+          "id": "R12-story-entry2-survey",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "**Entry 2 — <Excerpt from Border Region Survey Return, Year 4238>**\nThe inscriptions appear only to people who acknowledge inherited debt.",
+          "new": "**Entry 2 — <Excerpt from Border Region Survey Return, Year 4238>**\nSurvey from fixed stations outside the deformation radius: three-dimensional displacement, bowl depth at four radii, cracking rate and the abandoned rigging's position. The stations are re-verified against an external district reference because the network has twice been found sinking with its subject. The return reports an equivalent load and its derivation, never a plain mass; inscriptions are separately reported only by people who acknowledge inherited debt."
+        },
+        {
+          "id": "R13-story-entry3-mobility",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "**Entry 3 — <Counselor's Note on the Lifting Attempts>**\nThe burden of history condensed into one piece too heavy to move.",
+          "new": "**Entry 3 — <Counselor's Note on the Lifting Attempts>**\nThe failure does not present as distress. A worker who has made contact says they are fine and gradually stops moving, so mobility is observed by somebody else at one, five and fifteen minutes. The burden is history condensed into one piece too heavy to move; counselling starts by separating that history from obligations the worker personally incurred."
+        },
+        {
+          "id": "R14-story-entry4-containment",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "Work response — Viderehan: Reveals the monument's debt history. (Stable); Ferrehan: Tests whether the worker can remain beneath its pressure. (Decrease). It creates grief rather than fear in witnesses.",
+          "new": "Work from the stable margin only. No entry into the bowl, no contact, no lifting attempt by any method, and nothing inside the bowl—including rigging or a person—is stabilised or recovered. Viderehan reveals the monument's debt history (Stable); Ferrehan tests whether the worker can remain beneath its pressure without deciding that something must be done (Decrease)."
+        },
+        {
+          "id": "R15-tale-four-accounts",
+          "kind": "careful narrative correction",
+          "careful": true,
+          "old": "The monument stood at the border — a structure of stone, erected to commemorate the accumulated obligations of generations of border families. The families had owed, and paid, and owed again, the debt compounding across centuries, the monument raised as a testament to the paying — a record, in stone, of everything the border families had given to a city that never reduced what was owed. The monument was heavy with history. The monument was heavy with debt. Each generation added a course of stone, and each course weighed more than the one below it, because each generation had paid more and owed more than the last, and the monument grew upward the way the debt grew: without end, without relief, each layer a receipt for a burden that was never lifted.\n\nThe uprising shattered it. The border families, rising against the system that had burdened them for generations, attacked the monument — the symbol of the debt, the physical embodiment of the obligation that had defined their lives. The stone broke. The monument fell. The fragments scattered. And in the aftermath, one piece remained — a single fragment, too heavy to move, too dense to destroy, holding in its broken surface the entire compressed history of what the border families had owed.\n\nBroken Fragment is Object-Weight: the figure of history condensed into one piece too heavy to move — the monument shattered but not eliminated, the debt recorded in a fragment that carries the full weight of the original structure. The Fragment does not accuse. It weighs — the specific, crushing heaviness of accumulated obligation, compressed by the shattering into a single piece that holds, in its density, everything the monument held in its wholeness.\n\nThose who come near the Broken Fragment feel the weight of compressed history — the specific burden of a monument shattered but not gone, the debt recorded in a fragment too dense to lift, the accumulated obligation of generations preserved in a single broken piece.\n\nSome sorrows mourn a monument. Broken Fragment mourns the debt it commemorated — the obligation compressed into one fragment, too heavy to move, carrying the full weight of everything the border families owed and paid and owed again.",
+          "new": "Four accounts of the monument and uprising survive—a Collector record, two settlement accounts and a municipal summary that fails to reconcile them—and this file adjudicates between none. They agree on the narrow ground the survey can still verify: a border monument commemorating generations of inherited debt was shattered, and one black-crystal fragment remained where it fell.\n\nThat fragment has never been lifted by tackle or Han force. Its apparent size does not change while the ground deforms into a bowl around it, so the archive reports an equivalent load derived from settlement rather than inventing a mass. What the series supports is direction and rate: it is getting heavier, measurably, and has never once got lighter.\n\nBroken Fragment is Object-Weight not because one approved history can be assigned to it, but because every surviving history leaves the same physical remainder—an obligation that outlived the monument, the uprising and everyone who might have settled it."
+        },
+        {
+          "id": "R16-trivia-stray-pipe-field",
+          "kind": "short syntax correction",
+          "careful": false,
+          "old": "- **Field detail:** Weight is its element and the Border region of Zone E is its registered ground — held there where it fell, unliftable by tackle or by Han. |",
+          "new": "- **Field detail:** Weight is its element and the Border region of Zone E is its registered ground — held there where it fell, unliftable by tackle or by Han."
+        },
+        {
+          "id": "R17-trivia-stray-pipe-record",
+          "kind": "short syntax correction",
+          "careful": false,
+          "old": "- **Record detail:** Fragment-form and monument-derived holdings recur in the archive and more than one shares this element, so confirm the designation before booking a cycle: the instructions diverge on the one point that matters here — whether the object may be handled at all, and this one may not. |",
+          "new": "- **Record detail:** Fragment-form and monument-derived holdings recur in the archive and more than one shares this element, so confirm the designation before booking a cycle: the instructions diverge on the one point that matters here — whether the object may be handled at all, and this one may not."
+        },
+        {
+          "id": "R18-resolution-equivalent-load",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** The cycle closes when the gauge falls below 25% and the survey return has been filed — which on this holding means the team measured the thing, wrote down what it weighs now, and left it exactly where it was.",
+          "new": "3. **Resolution:** The cycle closes when the gauge falls below 25% and the survey return has been filed — which on this holding means the team measured the displacement, entered the equivalent load with its derivation and circularity attached, and left the Fragment exactly where it was."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IVδ-115_Broken_Fragment_부서진_파편.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.042  clean   716 grams  M.A.W. Equipment\n 0.019  clean   160 grams  Trivia\n 0.013  clean   463 grams  기록 (Registrum)\n 0.010  clean   668 grams  감각 묘사 (Flavor Text)\n 0.010  clean   208 grams  Operational Parameters\n 0.006  clean   166 grams  최종 관찰 (Final Observation)\n 0.005  clean   765 grams  Combat Record\n 0.005  clean   609 grams  Activation Behavior\n 0.004  clean   252 grams  관찰 기록 (Observation Log)\n 0.003  clean   312 grams  이야기 보고 (Story Log)\n 0.001  clean  1407 grams  Apex Record\n 0.000  clean   247 grams  Appearance\n 0.000  clean   198 grams  Behavior\n 0.000  clean   161 grams  이야기 (Narratio)\n 0.000  clean   146 grams  Origin\n 0.000  clean    41 grams  SECC Classification\n 0.000  clean    37 grams  증언 (Testimonium)\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   85   4  | { *The Shrapnel Field* [**Ultimate**] } | \"The fragment stays where it is and the bowl around it becomes something other than gr\n  154   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  204   2  **Activation reporting order:** contact or lift attempt → who made it and under whose authority → the burden displayed and whose i\n  223   1  **Ability:** Deals Weight damage against the Han — sorrow reserves and karmic debt. The strike carries the source's signature, and\n  253   1  **Effect:** +3 to the working stat while this piece's source entity is the subject of the cycle, and nothing at all elsewhere\n  259   1  *A Stigma out of this source is given and not made. It appears after a successful cycle at the holding's own disposition, and noth\n  263   4  The three pieces are shards of a thing that is itself a shard, and they inherit the defining property: they grow heavier the longe\n  274   1  **Stat interpretation:** The grade describes extraction stability and says nothing about the wielder. A well-graded piece from thi\n  276  22  **Full-set source review (2026-10-12):** Reviewed the I-Relic/δ overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Us\n  298   1  **Observation method:** Observe from the margin, by instrument where possible, and record the first measurable change in the groun\n  313   1  Work from the stable margin only. No entry into the bowl, no contact, no lifting attempt by any method, and nothing inside the bow\n  322   1  > Two ways to close a watch at the bowl, and the file's own annual assessments separate them: one is worked from the margin and le\n  347   2  **Interaction method:** Baseline each entity alone; without the solo displacement series an interaction reading here cannot be dis\n  352   2  This holding is read with the obligation-sorrows as a group and not as a lone stone in the border ground. The rows below are canon\n  354   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  360   1  **Interaction procedure:** Baseline both parties alone first; bring the second in along the approach road and never across the bow\n  404   6  **Operational interpretation:** The classification is the frame and this record is the picture, and neither substitutes for standi\n  469   1  The emergency service's objection is on the file and is read at every annual review. A standing refusal to attempt rescue is not a\n  478   3  - Figures for the register's look-up, in digits as the file keeps them: gauge 910/910 · pressure 29–64 per hit · resistance 45 / 3\nGENERIC 0.009  (59 shared shingles)  SE-O-IVδ-115_Broken_Fragment_부서진_파편.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-A__SIDE_CODEX_Weight_of_All_Owed.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-B__MAW-W_The_Fragment_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-C__MAW-S_The_Fragment_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-D__MAW-G_The_Fragment_Charm.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-A__SIDE_CODEX_Weight_of_All_Owed.md": "5fa0bd89b940dce3b875976eced28ac6b4ebf5cd663bdaec4911bcd9e84354fa",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-B__MAW-W_The_Fragment_Maul.md": "b079b582d58bb1b107d94a7d46e2122ca7b333287405ba193d87a0c7f2cca61b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-C__MAW-S_The_Fragment_Plate.md": "a930acc3d0fb06cc32a9f759d7a065e7cf93e632b8a726e45422d1af9f34821c",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-D__MAW-G_The_Fragment_Charm.md": "69e00c64dabf4ea6972543ca9e464776bee64049e69640290f481d19b48cbe50"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IVδ-115_Broken_Fragment_부서진_파편](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-115_Broken_Fragment_%EB%B6%80%EC%84%9C%EC%A7%84_%ED%8C%8C%ED%8E%B8.md \"SE-O-IVδ-115_Broken_Fragment_부서진_파편.md\")]",
+      "table_link": "[[O-IVδ-115 Broken Fragment](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-115_Broken_Fragment_%EB%B6%80%EC%84%9C%EC%A7%84_%ED%8C%8C%ED%8E%B8.md \"SE-O-IVδ-115_Broken_Fragment_부서진_파편.md\")]",
+      "reading": {
+        "before_lines": 496,
+        "before_bytes": 53932,
+        "final_lines": 492,
+        "final_bytes": 55377
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 15,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": false,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The unsupported Han Dust range `1–10 tons` and Row 4's personnel `15%` Sorrow Gauge surge were removed. The Ultimate trigger changed from 65% to the Core Stat Line/Operational threshold ≥90%."
       }
     }
   ]

@@ -27,14 +27,14 @@
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Han / burden pressure |
+| **Primary pressure** | Resolve — the capacity to keep moving without taking inherited obligation on as one's own |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
+| **Vessel-Destructible** | No — no force, tackle or Han method has displaced it, and no destruction route is recorded |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Viderehan and Ferrehan from the stable margin only; no entry into the bowl, no contact, and no lifting attempt by any method or equipment. |
 
 ### Operational Notes
@@ -51,8 +51,8 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Weight pressure, the element this fragment was broken in, and 35% against the rest of what the Border region can lay on it |
+| **Speed** | N/A — fixed and sinking; output is measured by three-dimensional ground displacement, bowl depth at four marked radii, cracking rate and abandoned-rigging position |
+| **Resistance** | 45% against Weight pressure, the element this fragment was broken in, and 35% against the rest of what the Border region can lay on it. Work only from the stable margin: no entry into the bowl, no contact, no lifting attempt, and nothing inside the bowl is stabilised, shored or recovered |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 · measured from the margin, no watch having ever been kept at the fragment itself |
 | **Han Pressure [ATK]** | 29–64 · element Weight, landing without the fragment moving once — the ground bows and the bearer takes the weight of it |
@@ -78,17 +78,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Heavy Edge* [**Debuff**] } | "The fragment is denser than it should be — broken things, it turns out, are heavier than whole ones." | [The Fragment's impossible density presses on the target.] | *Target suffers -10 Resolve; the broken piece weighs more than it should.* **[10 Weight DMG [Weight]]** | When the target holds the Fragment. |
-| { *The Sharp Crack* [**Debuff**] } | "The fragment is still breaking — new cracks appearing in real-time — and each crack releases a burst of stored weight." | [The Fragment's ongoing breakage releases energy; the target is bombarded.] | *Target loses 10 Resolve; the fragment is getting worse.* **[10 Weight DMG [Weight]]** | When the target lingers. |
-| { *The Shrapnel* [**Attack**] } | "A piece of the breaking fragment flies free — heavy, jagged, and still cracking." | [ A shard of actively-fragmenting material strikes.] | *Inflicts Weight pressure and one wound of ongoing destruction.* **[14-22 Weight DMG [Weight]]** | When the Fragment is struck. |
-| { *The Full Shatter* [**Attack**] } | "The fragment completes its break — every crack reaching critical point — and the detonation is a cascade of heavy shrapnel." | [The Fragment's total failure releases all its stored mass-energy.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Fragment is crushed. |
-| { *The Shrapnel Field* [**Ultimate**] } | "Every fragment in the field reaches critical breakage — and the combined detonation is an avalanche of heavy shards." | [The breakage runs out along the approach road and the border bowl goes with it, and the weight stops being the fragment's and becomes the ground's.] | *All in range suffer Weight pressure for three turns of universal shattering.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Heavy Edge* [**Debuff**] } | "The fragment is denser than it should be — broken things, it turns out, are heavier than whole ones." | [At first hand contact the ground bows and names attached to promises or debts show beneath the crystal; the Fragment itself does not rise.] | *Target suffers -10 Resolve; contact ends and mobility is checked by another worker at one, five and fifteen minutes.* **[10 Weight DMG [Weight]]** | When the target first touches the Fragment. |
+| { *The Sharp Crack* [**Debuff**] } | "The fragment is still breaking — new cracks appearing in real-time — and each crack releases a burst of stored weight." | [Internal cracking crosses the recording threshold while the displacement readings quicken; urgency itself becomes the field sign.] | *Target loses 10 Resolve; they keep reporting that they are fine while their movement slows, so the team—not the worker—calls the limit.* **[10 Weight DMG [Weight]]** | When the crystal's cracking rises above the recording threshold and ground displacement quickens between surveys. |
+| { *The Shrapnel* [**Attack**] } | "The equipment fails, the rigging fails, or the ground gives — and the fragment is afterward exactly where it was." | [No piece flies free. The applied load comes back through failing rigging and moving ground while the crystal remains unmoved.] | *Inflicts Weight pressure and one wound of ongoing destruction to personnel inside the load path; the attempt is abandoned and nothing in the bowl is recovered.* **[14-22 Weight DMG [Weight]]** | When mechanical or Han lifting load is applied to the Fragment. |
+| { *The Full Shatter* [**Attack**] } | "It is getting heavier, measurably, and it has never once got lighter." | [No material detonation is observed. The displayed burden settles on the contacting worker until they stop moving and begin carrying it as their own.] | *Heavy Weight pressure and acute immobility without complaint; no personnel Sorrow Gauge is inferred. A named witness ends contact from stable ground and records mobility, not the worker's assurance.* **[24-36 Weight DMG [Weight]]** | When contact continues after a mobility check shows the worker slowing or stopped, or the worker begins describing the monument's burden in the first person. |
+| { *The Shrapnel Field* [**Ultimate**] } | "The fragment stays where it is and the bowl around it becomes something other than ground." | [Deformation runs outward along the bowl and approach ground; the load is read in displacement and station drift, not in flying material.] | *All personnel inside the deformation radius suffer Weight pressure for three turns and withdraw to externally verified stable ground; nothing is shored or recovered.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥90%. |
 
 ### Battle Phases
 
 1. **Tension:** The team establishes on stable ground beyond the deformation radius, confirms the survey stations against the external reference, starts the ground instruments, and fixes the withdrawal line. Nobody's position inside the bowl is ever part of the plan, because nobody is inside the bowl.
 2. **Clash:** Viderehan and Ferrehan are worked from the stable margin across a long engagement, with the ground-monitoring instruments running throughout. Nobody enters the bowl and nobody touches the fragment; the engagement is conducted at the distance the survey stations occupy, for the survey stations' reasons.
-3. **Resolution:** The cycle closes when the gauge falls below 25% and the survey return has been filed — which on this holding means the team measured the thing, wrote down what it weighs now, and left it exactly where it was.
+3. **Resolution:** The cycle closes when the gauge falls below 25% and the survey return has been filed — which on this holding means the team measured the displacement, entered the equivalent load with its derivation and circularity attached, and left the Fragment exactly where it was.
 
 ### Consequences
 
@@ -260,7 +260,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 ### M.A.W. Use Notes
 
-The three pieces are shards of a thing that is itself a shard, and they inherit the defining property: they grow heavier the longer they are kept. The listed benefit holds inside the intended pattern and the cost outside it is charged at once, presenting on this set as the sensation of carrying something in both hands when both hands are empty. The cumulative total governs issue; there is no cycle after which a wielder is back where they started. No protocol produces a Stigma — it comes from the source, at the source's disposition, or not at all.
+The three pieces are shards of a thing that is itself a shard, and they inherit the defining property: they grow heavier the longer they are kept. The listed benefit holds inside the intended pattern and the cost outside it is charged at once, presenting on this set as the sensation of carrying something in both hands when both hands are empty. The cumulative total governs issue; there is no cycle after which a wielder is back where they started. No protocol produces a Stigma — it comes from the source, at the source's disposition, or not at all. Before use the bearer names the monument event as the source's history, not as autobiography. The record keeps bearer, trigger, source response, cost and unresolved detail separate; first-person retelling, repeated source response outside contact, or new obligations taken on without request ends use. Emergency shutdown is witnessed: a named worker states the source title and event while the bearer relinquishes the piece.
 
 ### Field Use Record
 
@@ -304,13 +304,13 @@ The three pieces are shards of a thing that is itself a shard, and they inherit 
 Broken Fragment (O-IVδ-115 [WO]) is an Object-Weight manifestation expressing Weight, held at the Border region in Zone E. What it is made of is accumulated obligation that broke the monument holding it, and it cannot be lifted: no tackle, no Han gear, nothing on the wing's inventory has moved it a finger's width.
 
 **Entry 2 — <Excerpt from Border Region Survey Return, Year 4238>**
-The inscriptions appear only to people who acknowledge inherited debt.
+Survey from fixed stations outside the deformation radius: three-dimensional displacement, bowl depth at four radii, cracking rate and the abandoned rigging's position. The stations are re-verified against an external district reference because the network has twice been found sinking with its subject. The return reports an equivalent load and its derivation, never a plain mass; inscriptions are separately reported only by people who acknowledge inherited debt.
 
 **Entry 3 — <Counselor's Note on the Lifting Attempts>**
-The burden of history condensed into one piece too heavy to move.
+The failure does not present as distress. A worker who has made contact says they are fine and gradually stops moving, so mobility is observed by somebody else at one, five and fifteen minutes. The burden is history condensed into one piece too heavy to move; counselling starts by separating that history from obligations the worker personally incurred.
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Reveals the monument's debt history. (Stable); Ferrehan: Tests whether the worker can remain beneath its pressure. (Decrease). It creates grief rather than fear in witnesses.
+Work from the stable margin only. No entry into the bowl, no contact, no lifting attempt by any method, and nothing inside the bowl—including rigging or a person—is stabilised or recovered. Viderehan reveals the monument's debt history (Stable); Ferrehan tests whether the worker can remain beneath its pressure without deciding that something must be done (Decrease).
 
 **Entry 5 — <Director's Minute on the District Correspondence>**
 The origin is a border stone and the debt recorded on it. The monument was raised where two districts meet and its inscription was a ledger of obligations between them, entered honestly by both sides for as long as anybody was entering anything. When the obligation outgrew the stone, the stone broke, and the pieces stand where they fell. Nothing here plans, and nothing here is owed by anybody living — the file's own finding is that the fragment weighs exactly what was promised and that nobody has come to settle the account.
@@ -363,15 +363,11 @@ This holding is read with the obligation-sorrows as a group and not as a lone st
 
 The monument commemorated generations of debt, and the debt, accumulated in stone, was shattered by the uprising, and the single remaining fragment holds the entire history of what was owed.
 
-The monument stood at the border — a structure of stone, erected to commemorate the accumulated obligations of generations of border families. The families had owed, and paid, and owed again, the debt compounding across centuries, the monument raised as a testament to the paying — a record, in stone, of everything the border families had given to a city that never reduced what was owed. The monument was heavy with history. The monument was heavy with debt. Each generation added a course of stone, and each course weighed more than the one below it, because each generation had paid more and owed more than the last, and the monument grew upward the way the debt grew: without end, without relief, each layer a receipt for a burden that was never lifted.
+Four accounts of the monument and uprising survive—a Collector record, two settlement accounts and a municipal summary that fails to reconcile them—and this file adjudicates between none. They agree on the narrow ground the survey can still verify: a border monument commemorating generations of inherited debt was shattered, and one black-crystal fragment remained where it fell.
 
-The uprising shattered it. The border families, rising against the system that had burdened them for generations, attacked the monument — the symbol of the debt, the physical embodiment of the obligation that had defined their lives. The stone broke. The monument fell. The fragments scattered. And in the aftermath, one piece remained — a single fragment, too heavy to move, too dense to destroy, holding in its broken surface the entire compressed history of what the border families had owed.
+That fragment has never been lifted by tackle or Han force. Its apparent size does not change while the ground deforms into a bowl around it, so the archive reports an equivalent load derived from settlement rather than inventing a mass. What the series supports is direction and rate: it is getting heavier, measurably, and has never once got lighter.
 
-Broken Fragment is Object-Weight: the figure of history condensed into one piece too heavy to move — the monument shattered but not eliminated, the debt recorded in a fragment that carries the full weight of the original structure. The Fragment does not accuse. It weighs — the specific, crushing heaviness of accumulated obligation, compressed by the shattering into a single piece that holds, in its density, everything the monument held in its wholeness.
-
-Those who come near the Broken Fragment feel the weight of compressed history — the specific burden of a monument shattered but not gone, the debt recorded in a fragment too dense to lift, the accumulated obligation of generations preserved in a single broken piece.
-
-Some sorrows mourn a monument. Broken Fragment mourns the debt it commemorated — the obligation compressed into one fragment, too heavy to move, carrying the full weight of everything the border families owed and paid and owed again.
+Broken Fragment is Object-Weight not because one approved history can be assigned to it, but because every surviving history leaves the same physical remainder—an obligation that outlived the monument, the uprising and everyone who might have settled it.
 
 ## 증언 (Testimonium) — The Testimony
 
@@ -484,9 +480,9 @@ The emergency service's objection is on the file and is read at every annual rev
 ### Registry Trivia
 
 - **Classification detail:** Broken Fragment is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Weight is its element and the Border region of Zone E is its registered ground — held there where it fell, unliftable by tackle or by Han. |
+- **Field detail:** Weight is its element and the Border region of Zone E is its registered ground — held there where it fell, unliftable by tackle or by Han.
 - **Recognition detail:** Identify it by the bowl. The crystal itself resembles a dozen filed fragments; nothing else in the border region has pressed a visible depression into the landscape around itself.
-- **Record detail:** Fragment-form and monument-derived holdings recur in the archive and more than one shares this element, so confirm the designation before booking a cycle: the instructions diverge on the one point that matters here — whether the object may be handled at all, and this one may not. |
+- **Record detail:** Fragment-form and monument-derived holdings recur in the archive and more than one shares this element, so confirm the designation before booking a cycle: the instructions diverge on the one point that matters here — whether the object may be handled at all, and this one may not.
 - **Containment detail:** There is no seal and nothing to seal. Containment here is a survey network on stable ground, a prohibition on contact, and a standing decision about what will not be done if something goes into the bowl.
 ## Document Information
 

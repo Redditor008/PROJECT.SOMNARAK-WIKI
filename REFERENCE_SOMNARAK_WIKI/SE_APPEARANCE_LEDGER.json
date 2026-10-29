@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-IVδ-115": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_05_BROKEN_FRAGMENT.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -7262,8 +7274,23 @@
     {
       "designation": "O-IVδ-115",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-115_Broken_Fragment_부서진_파편.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Eighteen repairs (6 short / 12 careful). The Fragment is no longer held, lingered at, struck into shrapnel, crushed into a total shatter, or triggered at the wrong Gauge. Its actions now use first touch, cracking/displacement crossing recorded thresholds, applied lifting load, sustained contact after observed immobility or first-person appropriation, and Gauge ≥90%. No vessel-destruction route remains, output is the survey series, and Resolution reports equivalent load rather than invented weight. HELD with no fresh equipment credit because the full δ set/statistics/Field Use Record and dated 2026-10-12 full-set review pre-existed.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_05_BROKEN_FRAGMENT.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-A__SIDE_CODEX_Weight_of_All_Owed.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-B__MAW-W_The_Fragment_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-C__MAW-S_The_Fragment_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-D__MAW-G_The_Fragment_Charm.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IVδ-151",
