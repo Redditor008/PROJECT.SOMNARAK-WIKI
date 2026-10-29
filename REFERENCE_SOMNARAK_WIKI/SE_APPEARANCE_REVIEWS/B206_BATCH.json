@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 206,
   "status": "OPEN",
-  "completed_units": 1,
+  "completed_units": 2,
   "required_units": 5,
   "queue": [
     {
@@ -52,7 +52,7 @@
     }
   ],
   "opened_at": "2026-10-30",
-  "completed": 1,
+  "completed": 2,
   "units": [
     {
       "unit": 1,
@@ -294,6 +294,204 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 6,
         "digit_sequence_change": "Removed unsupported 2.45 m/s speed and ~1–10 ton dust; removed a 15% surge on the beneficial thinning event; moved the Ultimate from 65% (inside the 60–80% opening band) to the file ≥90% threshold. Source lens, armor, gift, drain +5 and five-meter/ten-minute bounds preserved."
+      }
+    },
+    {
+      "unit": 2,
+      "designation": "C-IIIγ-180",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-180_Owed_빚의_벽.md",
+      "words": 7674,
+      "sha256": "635d35a62849b8d1e3ac9b90b000024929ca80b2e9aa25c288773f220a5a7432",
+      "prior_batch": 149,
+      "shape": "Non-Subject",
+      "name": "Owed",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_02_OWED.md",
+      "before_words": 7674,
+      "after_words": 8070,
+      "base": "7ab2ea6615c2652399da684182be07f17b16697d",
+      "final_sha256": "4f38986955b1dd0d022f9febdbad63f55acf345dde55e4fbdb4bf14d1c32345e",
+      "summary": "15 source-bound repairs split 3 short / 12 careful. A wall nothing has ever come away from no longer places bricks on camera, compounds exponentially, collapses on strikers or falls when demolished, and its Ultimate sits at the file ≥75% threshold. Dual weapon profiles, formation timing and ledger claims remain held.",
+      "commentary": "Owed is the obstruction, not a mason: growth is found between watches, never witnessed; strikes destroy the striking equipment; escalation is length against forty-one fixed marks. The rows now record found blocks, unrelieved carrying, rebound on demolition attempts, both-ends expansion, and a conscience-field Ultimate. Both weapon profiles carry the source limit — a debt barrier, never a person, only behind a custodian-identified route.",
+      "reasoning": "**Nothing comes away.** Every collapsing course, falling face and demolition trigger contradicted the primary's own survey, the two failed demolition attempts and the echo-extraction rule. The table now uses found growth and rebound instead.\n\n**The marks are the instrument.** Bare percentages sit under mark readings, monitored duration with a relief plan, and custodian block-reading with dispute fields; pressure is unified as Resolve under burden.\n\n**Equipment serves routes, not persons.** Ram and Maul abilities, Hauberk discharge and the Shard's black-block form follow SE-180-B/C/D. The two weapon profiles themselves stay held; no name or number was selected.",
+      "history": "Prior full logical review B149_01_OWED (pre-R-34) held the appearance. Batch 128 unit 5 (aed255ba) credited the exact SE-180 types and B82 unit 1 (b90df653) credited the exact weapon pair before this recheck; official counters do not move.",
+      "holds": [
+        "Sarcophagus Wall-Ram 12–20 / Very Slow 1 / Room 5 versus Debt Maul 7–12 / Fast 3 / Medium 3 Skewer; no second mode documented.",
+        "Visible budding versus growth never witnessed; centuries of accumulation versus appearance within a year of the abandoned reconciliation.",
+        "Story-perfect ledger correspondence versus weak ledger correlation and unrecorded-majority growth.",
+        "Surface-residue versus ledger-echo extraction; pressure 16–37 versus source 18–41; Comprehension 2 — Basic versus Studied."
+      ],
+      "split": [
+        3,
+        12
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-resolve",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Han / burden pressure |",
+          "new": "| **Primary pressure** | Resolve — the burden of accumulated obligation carried at the face |"
+        },
+        {
+          "id": "R02-shard-black-block",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, warm to the touch.",
+          "new": "**Appearance:** a small black charm cut as a single wall block, dense for its size, its faces blank until a debt pressure begins closing a route."
+        },
+        {
+          "id": "R03-resistance-marks",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 35% against Weight pressure and 25% against anything else — figures for a wall that has never once had to be forced |",
+          "new": "| **Resistance** | 35% against Weight pressure and 25% against anything else as formal ratings for a wall that has never once been forced. Working protection is measurement: both ends against the forty-one fixed marks, monitored duration with a relief plan set before approach, and blocks read with a debt custodian who preserves the dispute fields. |"
+        },
+        {
+          "id": "R04-invoice-found-block",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Unpaid Invoice* [**Debuff**] } | \"A brick slides into place — and written on it is a debt you did not know you owed.\" | [The Wall grows; each brick is an unpaid debt pressing on the target.] | *Target suffers -10 Resolve; the wall of debt is rising.* **[10 Weight DMG [Weight]]** | When the target approaches the Wall. |",
+          "new": "| { *The Unpaid Invoice* [**Debuff**] } | \"Nothing slides into place. Between two watches a block is simply there, and the debt on it has your name uncarved into it.\" | [Growth is found, never witnessed. At the face the worker meets an obligation pressing as Weight, not a brick arriving.] | *The worker suffers -10 Resolve. Read the block with a debt custodian and preserve its dispute fields; do not weep at a wall instead of reviewing the system feeding it.* **[10 Weight DMG [Weight]]** | When a worker approaches the face and the measurement closes on a block found since the last watch. |"
+        },
+        {
+          "id": "R05-compounding-lingering-load",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Compounding Interest* [**Debuff**] } | \"The wall grows taller — new bricks appearing faster than you can count — each one heavier than the last.\" | [The Wall accrues debt-bricks; the weight compounds exponentially.] | *Target loses 10 Resolve; the burden is accelerating.* **[10 Weight DMG [Weight]]** | When the target lingers. |",
+          "new": "| { *The Compounding Interest* [**Debuff**] } | \"The wall is no taller than it was. You have simply stopped noticing the weight, which is worse.\" | [Nothing compounds in the masonry. What compounds is the worker's own unperformed obligation becoming structural the longer the load is borne without relief.] | *The worker loses 10 Resolve. Enforce the monitored duration and relief plan set before approach; a worker who says the weight feels ordinary is withdrawn first.* **[10 Weight DMG [Weight]]** | When a worker remains at the face past the monitored duration without relief. |"
+        },
+        {
+          "id": "R06-foreclosure-rebound",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Foreclosure* [**Attack**] } | \"A section of the wall breaks free — and the debt it holds lands on you, all at once.\" | [A block of debt-masonry collapses onto the target.] | *Inflicts Weight pressure and one crushing, financial wound.* **[14-22 Weight DMG [Weight]]** | When the Wall is struck. |",
+          "new": "| { *The Foreclosure* [**Attack**] } | \"Nothing breaks free. The wall is unmarked tomorrow; the equipment that struck it is not.\" | [No block has ever come away. A strike or demolition attempt returns its whole load on the attempt itself, as both filed attempts did: equipment destroyed, structure unmarked.] | *Heavy Weight pressure on the crew making the attempt. Stop the work, record the attempt against the marks, and return to measure-record-acknowledge; demolition is not an available Work Type.* **[14-22 Weight DMG [Weight]]** | When the Wall is struck or demolition is attempted. |"
+        },
+        {
+          "id": "R07-total-default-expansion",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Total Default* [**Attack**] } | \"The whole face comes down at once — every debt, every IOU, every promise left unpaid — in a single fall.\" | [The Wall comes apart in a cascade of defaulted obligations.] | *A heavy Black avalanche; the reading rises 15% at the fall.* **[24-36 Weight DMG [Weight]]** | When the Wall is demolished. |",
+          "new": "| { *The Total Default* [**Attack**] } | \"The whole face is still standing in the morning. The thoroughfare on both ends of it is shorter than it was.\" | [The Wall does not come down. In a total-default expansion both ends pass their marks in one interval and another stretch of road stops being usable at once.] | *A heavy Weight load on everyone at the face. Measure both ends before anything else, clear the newly obstructed stretch, notify the municipal office the same day, and extend the diversion; nothing here is taken apart.* **[24-36 Weight DMG [Weight]]** | When an expansion interval takes both ends past their fixed marks. |"
+        },
+        {
+          "id": "R08-ultimate-conscience-field",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Everyone Owes Everything* [**Ultimate**] } | \"The Wall runs outward — a brick for every person standing in the field — until nothing can be seen that is not owed.\" | [The debt spreads out from the face until the whole ground is claimed.] | *Weight presses on every worker for three turns of universal debt.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *Everyone Owes Everything* [**Ultimate**] } | \"The Wall runs outward — a brick for every person standing in the field — until nothing can be seen that is not owed.\" | [Citywide debt becomes a conscience field: roads close, the air grows heavy, and every worker carries their own recognized burden at once.] | *Weight presses on every worker for three turns. Open alternate support routes and preserve each obligation record with its context; do not attempt demolition or concealment.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥75% activation threshold in an expansion on new or unpaid obligation. |"
+        },
+        {
+          "id": "R09-consequences-distinct-loads",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- The Sarcophagus equipment carries the face's load back into the wielder. Every ledger entry records the course the bearer was standing against, and the lower the course the heavier the recorded toll.",
+          "new": "- The equipment carries load back into its bearers in three different currencies: the Maul's progressive heaviness and slight aging, the Hauberk's stored marks accumulating until a custodian discharges them, and the Shard slowing its bearer further for every reading ignored. None of the three is cut from the face."
+        },
+        {
+          "id": "R10-use-notes-route",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Each Sarcophagus piece extends the holding rather than ranking as equipment. It performs as recorded while the bearer works at a marked course and costs more at an unmarked one, the load varying with depth in the structure. The Shard goes out once a work cycle has closed; it is not manufactured, requested or scheduled.",
+          "new": "Every piece works through a custodian and a route, not through the masonry: the Maul's head will not rise until a custodian has identified a way beyond the pressure block, the Hauberk stores only what a custodian can later discharge, and the Shard points at the block closing a route, never at a person to blame. The Shard goes out once a work cycle has closed; it is not manufactured, requested or scheduled."
+        },
+        {
+          "id": "R11-ram-ability-barrier",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** *Monolithic Impact* — Deals heavy Weight damage across Range 5 (Room). Slams the stone wall-ram into the floor, detonating a shockwave that knocks down all enemies and shatters terrain.",
+          "new": "**Ability:** *Monolithic Impact* — heavy Weight pressure driven into a present debt barrier, never into a person. It cannot demolish debt, decide a claim or open private passage, and it will not rise for advantage. (This profile's name and numbers remain held against the Maul profile below; the barrier-only use limit applies whichever profile is kept.)"
+        },
+        {
+          "id": "R12-maul-ability-route",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Owed's weight signature in the strike.",
+          "new": "**Ability:** *Wall Pressure / Make a Way* — a Weight Skewer into a present debt barrier, not a person. With custodian review and an identified support route it holds one Wall-like surge open long enough for people to reach review, care or transit; used as advantage, it becomes immovable."
+        },
+        {
+          "id": "R13-hauberk-discharge",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Absorbs damage and converts it into stored karmic weight.",
+          "new": "**Ability:** *Stored Weight / Discharge Route* — converts direct Weight impact into visible ledger marks on the backplate. One mark releases only when a debt custodian confirms a support or review action; hiding the plate closes it and drops protection to normal."
+        },
+        {
+          "id": "R14-stat-interpretation-cost",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "**Stat interpretation:** The grade describes the effect on entities and not the cost to the bearer, which is listed separately and is the larger figure on this holding. The cost here scales with the age of the course worked, and the oldest courses have never been worked twice by the same person.",
+          "new": "**Stat interpretation:** The grade describes the effect on entities and not the cost to the bearer, which is listed separately and is the larger figure on this holding. The cost here scales with what stays undischarged — stored marks awaiting a custodian, readings ignored — and the oldest courses have never been worked twice by the same person."
+        },
+        {
+          "id": "R15-appearance-note-current",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "That account does not reconcile the combat table's falling blocks and demolished face with the repeated record that nothing has come away and demolition leaves it unmarked. Nor does it establish that growth described as visible in the Side Codex was witnessed by the primary's watch. The Tale's slow emergence over centuries and the abandoned-reconciliation account's appearance within a year remain different formation accounts; no alternate collapsible body or newly dated transition is supplied here.",
+          "new": "The combat table now records that same limit rather than breaking it: a strike returns its load on the attempt and a total-default interval lengthens the structure, because nothing has come away and demolition leaves it unmarked. What remains unreconciled is whether growth the Side Codex describes as visible was ever witnessed by the primary's watch, and the Tale's slow emergence over centuries against the abandoned-reconciliation account's appearance within a year. No alternate collapsible body or newly dated transition is supplied here."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIIγ-180_Owed_빚의_벽.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.039  clean   129 grams  Trivia\n 0.026  clean   302 grams  기록 (Registrum)\n 0.016  clean   257 grams  관찰 기록 (Observation Log)\n 0.008  clean   494 grams  감각 묘사 (Flavor Text)\n 0.006  clean   674 grams  M.A.W. Equipment\n 0.006  clean   713 grams  Combat Record\n 0.000  clean  1450 grams  Warden Record\n 0.000  clean   415 grams  Appearance\n 0.000  clean   402 grams  이야기 (Narratio)\n 0.000  clean   233 grams  Expansion Behavior\n 0.000  clean   147 grams  Origin\n 0.000  clean   139 grams  Operational Parameters\n 0.000  clean   132 grams  이야기 보고 (Story Log)\n 0.000  clean   110 grams  Behavior\n 0.000  clean    78 grams  최종 관찰 (Final Observation)\n 0.000  clean    47 grams  증언 (Testimonium)\n 0.000  clean    45 grams  SECC Classification\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   85   4  | { *Everyone Owes Everything* [**Ultimate**] } | \"The Wall runs outward — a brick for every person standing in the field — until \n  225   2  **Appearance:** a shield-backed harness of Weight Han-steel, matte and unnaturally heavy, that tightens near its source element.\n  252   1  **Effect:** +2 stat bonus when working the source entity\n  274   1  | **At limit** | Duration, activations, attribute change, rejection signs, final measurements, and whether the operator read any n\n  294   2  | **Initial exposure** | The observer identifies Owed as an Object/Place with Place-Weight manifestation. The first reliable marke\n  299   2  **Observation method:** Measure, count, photograph, notify. The form here is the sorrow and not a forecast: a city could not arriv\n  346   2  **Interaction method:** Baseline each party alone over several cycles — measurements, transparent count, gauge — before any joint \n  359   3  **Interaction procedure:** Solo baselines first, across several cycles, with measurements, transparent count and gauge established\n  395   1  - Ferrehan is the primary Work Type and the only one that lowers the gauge; Viderehan holds it level and is the only route to the \n  407   7  **Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the expansion\n  482   5  - **Field detail:** Its defining element is Weight, and its registered location is SECTOR-C-01, Collector's Row.\nGENERIC 0.005  (30 shared shingles)  SE-C-IIIγ-180_Owed_빚의_벽.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_01_OWED.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-A__SIDE_CODEX_Owed.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-B__MAW-W_The_Debt_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-C__MAW-S_The_Debt_Shield.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-D__MAW-G_The_Debt_Charm.md"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_01_OWED.md": "eff908470d3987a1e7535347732de4c96e32ecab771ca901d4690c2bed93b7b7",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-A__SIDE_CODEX_Owed.md": "3745c4da529d1b83422be7e7307106c240efea8f3f0e5cfacafadc6abd5e1739",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-B__MAW-W_The_Debt_Maul.md": "42aa4467d4171c179ad8d228beefbe28db24d1fe544f7c63e7ae8a4f9a43c766",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-C__MAW-S_The_Debt_Shield.md": "2cdb56d104d791a7d754552714a71319fe62a92762da72014a1b8ae1b8d243f7",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-D__MAW-G_The_Debt_Charm.md": "825c649016d6ab5b2b6cbcbc6942103b5bbe86ccd061dec30cf79ebbd2550e0f"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIIγ-180_Owed_빚의_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-180_Owed_%EB%B9%9A%EC%9D%98_%EB%B2%BD.md \"SE-C-IIIγ-180_Owed_빚의_벽.md\")]",
+      "table_link": "[[C-IIIγ-180 Owed](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-180_Owed_%EB%B9%9A%EC%9D%98_%EB%B2%BD.md \"SE-C-IIIγ-180_Owed_빚의_벽.md\")]",
+      "reading": "Frozen primary SHA256 635d35a62849b8d1e3ac9b90b000024929ca80b2e9aa25c288773f220a5a7432 read whole (491 lines) beside B149_01_OWED and SE-180-A/B/C/D read completely. Final primary re-read whole after exact replay.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 236,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 5,
+        "digit_sequence_change": "Removed a 15% fall surge from the demolished-face row and moved the Ultimate from 65% (top of the 45–65% opening band) to the file ≥75% threshold. Both disputed weapon profiles, armor multipliers, Head +2/4% and the 212/18,000 survey figures preserved."
       }
     }
   ]

@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIIγ-180": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_02_OWED.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -661,20 +673,14 @@
       "designation": "C-IIIγ-180",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-180_Owed_빚의_벽.md",
       "status": "held",
-      "note": "Replaced unsupported device Movement with fixed location and length/height growth found between watches. Added barrier linkage tying collective sorrow/Tale to current nonhuman Place, transparent blocks remaining, echo-derived portable equipment versus intact wall, pressure route versus physical highway. Explicitly retained collapse/budding/history conflicts as unresolved.",
-      "outcome": "unresolved whole-file logical relationship",
-      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_01_OWED.md",
+      "note": "15 source-bound repairs split 3 short / 12 careful. A wall nothing has ever come away from no longer places bricks on camera, compounds exponentially, collapses on strikers or falls when demolished, and its Ultimate sits at the file ≥75% threshold. Dual weapon profiles, formation timing and ledger claims remain held.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_02_OWED.md",
       "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_01_OWED.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-A__SIDE_CODEX_Owed.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-B__MAW-W_The_Debt_Maul.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-C__MAW-S_The_Debt_Shield.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-D__MAW-G_The_Debt_Charm.md",
-        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
-        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
-        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md"
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-D__MAW-G_The_Debt_Charm.md"
       ],
       "whole_before_reread": true,
       "whole_final_reread": true,
@@ -10113,6 +10119,14 @@
       "batch": 206,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_01_FROZEN_VEIL.md",
       "history_proof": "Batch 112 unit 2 (5d8b754, 2026-10-12) already cross-reviewed the exact SE-103 A/B/C/D set *Warmth at Risk*; the official counter credits that set before B206, so this recheck adds no Types or Weapon credit.",
+      "all_types_credit": false,
+      "weapon_credit": false
+    },
+    {
+      "designation": "C-IIIγ-180",
+      "batch": 206,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_02_OWED.md",
+      "history_proof": "Batch 128 unit 5 (aed255ba) already credited the exact SE-180 A/B/C/D types and B82 unit 1 (b90df653) credited the exact weapon pair before B206, so this recheck adds no Types or Weapon credit.",
       "all_types_credit": false,
       "weapon_credit": false
     }
