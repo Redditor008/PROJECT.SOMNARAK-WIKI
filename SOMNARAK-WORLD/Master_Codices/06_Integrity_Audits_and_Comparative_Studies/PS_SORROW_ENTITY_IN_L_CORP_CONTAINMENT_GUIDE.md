@@ -12,6 +12,7 @@
 +------------------------------------------------------------------------+
 | PHENOMENON: TRANS-WELL DREDGING OF PLANETARY HAN MATRICES              |
 | CONTAINMENT LAWS: WORK TYPE RESTRICTIONS & PLACE-BREACH PROTOCOLS      |
+| OVERHAUL: FULL SE → ABNORMALITY STANDARD // DESIGNATION LAW INCLUDED   |
 +========================================================================+
 ```
 
@@ -36,7 +37,48 @@ When a Sorrow Entity is manifested inside a containment unit:
 
 ---
 
-## Section II: Risk Classification Mapping (SECC to Lobotomy Corp Tiers)
+## Section II: Designation Assignment — The `X-YY-0###` Standard
+
+Every transported Sorrow Entity receives **one permanent Abnormality designation** at intake, in the facility format `X-YY-0###`. The code is assigned once and **never renumbered** — not on breach, not on transformation, not on reclassification (Lobotomy Corporation practice; the SECC code, which *can* shift state, is retained in Basic Info as the cross-reference alias). The designation is issued together with the Risk Level from Section III; neither half is valid alone.
+
+### 1. First segment `X` — Category Letter (read: Sorrow Category + Origin + The Tale)
+
+| Letter | Class | Assign when the three-field read shows |
+|---|---|---|
+| **F** | Fairy Tale | The Tale is structured as fable, legend or moral parable with archetypal roles (the caretaker, the smith, the mother at the rim) and the sorrow resolves into a moral shape. |
+| **T** | Trauma | The Origin event is a discrete loss, atrocity, accident, guilt or unspoken grief — personal or collective — and the Tale records it as wound rather than fable. |
+| **O** | Original | The origin is constructed or institutional: a made artifact, device, procedure or office whose product the entity is, with no single traumatic event or fable frame dominating. |
+| **D** | (reserved) | Donator-class in L Corp records. **Never assigned to transported SEs**; reserved so that no Well-dredged entity is misfiled as a commissioned one. |
+
+**Decision order:** (1) Tale form — a fable/parable structure takes **F** even when its content is painful; (2) Origin event — a discrete traumatic event takes **T**; (3) constructed/instrumental origin takes **O**. Sorrow Category breaks ties: City Sorrow collective events lean **T**, Inner Sorrow personal parables lean **F**, Outside Sorrow frontier/industrial events lean **T** unless the entity is a made instrument. The intake record must quote the three fields it read; a letter assigned without the Tale read is invalid.
+
+### 2. Middle segment `YY` — Class Number (read: Entity Type / Tool Type + Physical Form + Appearance)
+
+| Class | Body read | Notes |
+|---|---|---|
+| `01` | **Humanoid** current body | The *current* body decides. A human origin, name or memorial never certifies `01` by itself. |
+| `02` | **Animal / beast** current body | Includes beast-shaped Subjects of human origin. |
+| `03` | **Otherworldly / abstract** | Phenomenon, presence, voice, shadow, pressure or dream-forms with a nameable mode but no anatomy. |
+| `04` | **Machine / mechanism** body | Operated or self-running constructs whose body is a mechanism. |
+| `05` | **Insect** current body | — |
+| `06` | **Unidentified / amorphic** | Shape unstable, undocumented, or deliberately withheld by the record. |
+| `07` | **Place / structure** body | *PS transport extension.* District, room, wall, ruin-outline and other site-bodies; containment is architectural. |
+| `08` | **Object** body (not operated) | *PS transport extension.* Item-bodied entities that are kept, not used. |
+| `09` | **Tool** | Operated devices and relics (I/O/A-Relic in active use); follows Tool Abnormality handling. L Corp filing habitually writes `T-09-…`; the letter here still follows §II.1. |
+
+**Decision order:** (a) a Place/site body, or a relic operated only as a site from a perimeter, takes `07`; (b) a Tool Type operated in hand or at a station takes `09`; (c) an unoperated item body takes `08`; (d) anatomical forms take `01`/`02`/`05` by the **current** body as written in Physical Form and Appearance; (e) mechanism bodies take `04`; (f) phenomenon forms take `03`, or `06` where the record itself withholds the shape. Where Entity Type and Physical Form disagree, Physical Form governs the class and the disagreement is entered as a management note — containment is built around the body that is actually in the unit.
+
+### 3. Final segment `0###` — Serial (the SE's own number)
+
+The serial is the Sorrow Entity's **own SECC numerical designation with one extra zero in front**: `SE-C-IIIγ-031` → `…-0031`; `C-IIβ-565` → `…-0565`. SECC numbers repeat across origin prefixes and ranks, so collisions inside one `X-YY` are resolved by intake order (first dredged keeps the serial; later arrivals receive the next free serial in the same class, with the SECC alias making the lineage explicit). Serials are never recycled after an entity is returned, destroyed or reclassified.
+
+### 4. States, transformations and aliases
+
+Breach and transformation states do **not** mint new codes. A Place→Subject event (SECC `[GP]` → `[GS]`, `-B` forms, phase cycles) is written as a **containment state line under the same designation**, with the work-rule shift of Section VI. The SECC designation, Korean name and registry seed (where one exists) travel in Basic Info as aliases for cross-archive retrieval.
+
+---
+
+## Section III: Risk Classification Mapping (SECC to Lobotomy Corp Tiers)
 
 The Sephirah Council classifies incoming Sorrow Entities into Lobotomy Corporation's standard five-tier Hebrew risk hierarchy based on their SECC Coherence Rank and Potency Grade:
 
@@ -47,10 +89,20 @@ The Sephirah Council classifies incoming Sorrow Entities into Lobotomy Corporati
 | **HE** | **Rank III (Fragment) / Grade γ** | 500 – 750 HP | 18 – 35 DMG | 18 – 24 PE | 1 – 3 | BLACK (Weight) or PALE (Void) |
 | **WAW** | **Rank IV (Entity) / Grade δ** | 750 – 1,000 HP | 30 – 55 DMG | 24 – 32 PE | 1 – 2 | Dual-Element / Multi-Hit |
 | **ALEPH** | **Rank V (Sovereign) / Grade ω** | 1,000 – 12,000 HP | 50 – 80+ DMG | 32 – 40 PE | 1 – 3 | All Four Elements Cycled |
+### Off-diagonal rule and stat derivation
+
+SECC Coherence and Potency usually rise together, but transported entities frequently arrive **off-diagonal** (e.g. Rank IV with Grade ω). The Risk Level is then set by the **higher of the two tiers** (containment-conservative; precedent: *The Maw* IV/ω is rostered ALEPH in Section VIII). Within the tier:
+
+- **HP** is taken from the dossier's Sorrow Gauge where one exists, checked against the tier band; a dossier figure outside its band is flagged, not silently rescaled.
+- **Work damage** type comes from the entity's Element (Section V); values follow the tier's Attack band.
+- **Max PE-Boxes** follow the tier band above, before the Heavy Han Density adjustment of Section I.
+- **Qliphoth Counter** is set from behavior, not tier alone: non-breaching, activation-only entities may carry **Counter: —** with their activation written as special rules instead; event/transformation entities carry 1–3 by documented sensitivity (what lowers it must be named from the dossier — a published denial, a resemblance introduced, a gaze sustained — never "random").
+- **Work favorability** is translated from the dossier's own Behavior table: Gauge *Decrease* → the analog work is favored; *Stable* → Common; *Increase* → disfavored and normally locked by management rule; *N/A* → prohibited under the Two-Work-Type Law (Section IV). Outcome ranges are then set inside the tier's PE band.
+
 
 ---
 
-## Section III: Work Type Mechanics & The Inviolable Two-Work-Type Law
+## Section IV: Work Type Mechanics & The Inviolable Two-Work-Type Law
 
 ```text
 +========================================================================+
@@ -90,7 +142,7 @@ For entities classified with a Subject manifestation (e.g., *The Whispering Conf
 
 ---
 
-## Section IV: Damage Type & Elemental Inter-Translation
+## Section V: Damage Type & Elemental Inter-Translation
 
 When Sorrow Entities inflict damage on Lobotomy Corp employees, damage types translate across the elemental spectrum:
 
@@ -103,7 +155,7 @@ When Sorrow Entities inflict damage on Lobotomy Corp employees, damage types tra
 
 ---
 
-## Section V: Special Transform Breaches: Place-to-Subject Metamorphosis
+## Section VI: Special Transform Breaches: Place-to-Subject Metamorphosis
 
 ```text
 +========================================================================+
@@ -142,7 +194,7 @@ When a **Place-Tale Sorrow Entity** breaches in Lobotomy Corporation (most notab
 
 ---
 
-## Section VI: E.G.O Extraction via Extraction Department (Binah)
+## Section VII: E.G.O Extraction via Extraction Department (Binah)
 
 When an agent extracts equipment from a Sorrow Entity in the Extraction Department, Binah's machinery extracts unique armaments that synthesize Lobotomy Corporation E.G.O technology with Somnarak's **Materialized Agony Wear (M.A.W.)**:
 
@@ -158,7 +210,20 @@ If an agent's SP hits 0 while equipped with Sorrow E.G.O:
 
 ---
 
-## Section VII: Departmental Assignment Roster (Facility Case Studies)
+
+### 3. M.A.W. → E.G.O Field Conversion
+
+| M.A.W. piece | E.G.O form | Conversion |
+|---|---|---|
+| M.A.W. Weapon | E.G.O Weapon | Damage type from the entity's Element (Section V); damage numbers, pattern and falloff carry over unchanged; Speed/Range bands become LC attack-speed and range descriptors; Risk Level = source entity's Risk Level (Section III). Bearer costs convert to Composure Load plus any named special rule — a cost written per-piece in the dossier is never pooled into a set-wide one. |
+| M.A.W. Suit | E.G.O Suit | The four resistance multipliers carry over in LC color order (RED = Grudge, WHITE = Lament, BLACK = Weight, PALE = Void). Suit appearance follows the linked item record, not the entity's body. |
+| M.A.W. Stigma | E.G.O Gift | Slot carries over (Head, Tail→Brooch-equivalent by department fitting practice, Hand/Arm, etc.); the dossier's acquisition probability is recorded as the observed Gift rate; conferred-not-manufactured Stigmas remain Gift-only and cannot be produced with PE-Boxes. |
+
+Where the source dossier and its linked item records disagree on a piece's form, profile or even existence (extraction prohibited on one page, a full set on another), Extraction produces **nothing** and files the disagreement: an unresolved equipment record is a management fact, not a license to synthesize the missing piece.
+
+---
+
+## Section VIII: Departmental Assignment Roster (Facility Case Studies)
 
 ### 1. `SE-C-Iα-000` *The Kind Echo* (  친절한 메아리   / *Chinjeolhan Meari*)
 - **Department:** Training Department (Hod)
@@ -182,12 +247,54 @@ If an agent's SP hits 0 while equipped with Sorrow E.G.O:
 
 ---
 
-## Section VIII: Facility Verification Checklist
+## Section IX: Observation & Encyclopedia Translation
+
+- **Observation Level:** the dossier's R.D. Comprehension Level is the starting gate, not the ceiling — Basic Info unlocks first, then managerial guidelines in the order the dossier itself establishes them (work responses, activation trigger, termination/return, then narrative). Story Log entries convert to Encyclopedia entries in their filed unlock order; the Tale converts last and whole.
+- **Redaction overrides completeness.** Where a dossier forbids recording content (a reflection's contents, a name that must not be answered, a register under release dispute), the Encyclopedia carries the *rule* and a blank where the content would sit. An intake team that fills such a blank from curiosity has performed unauthorized work.
+- **Unresolved source conflicts stay visible.** Competing accounts in a dossier (two origins, two threshold models, incompatible item forms) are entered as parallel guidelines marked HOLD, never averaged into a single guideline an agent could die trusting.
+
+---
+
+## Section X: Worked Conversions (Batch 207 intake series)
+
+Each conversion below shows its three-field reads, so the letter and class can be audited rather than merely asserted.
+
+### 1. Broken Well — `C-IIβ-565 [D]` → **`T-01-0565`**, TETH
+- **Letter (T):** City Sorrow · Origin = a child lost in a Han-softened shaft · Tale = a mother's unanswered calling. Discrete traumatic loss, recorded as wound → **T**.
+- **Class (01):** Subject; Physical Form and Appearance give a half-flesh, half-mist **humanoid** figure joined to a dry rim (1.1 m plumb floor, dust tears) → **01**. Serial `565 → 0565`.
+- **Risk:** Rank II / Grade β, on-diagonal → **TETH**. Work damage RED (Grudge). Repression is class-legal (Subject) but **locked by management rule**: force hardens the rim and raises the gauge in the source record.
+
+### 2. The Maw — `C-IVω-001 [GP]` → **`T-07-0001`**, ALEPH
+- **Letter (T):** City Sorrow · Origin = the Cheongula, one thousand citizens consumed · Tale = atrocity and its denial → **T**.
+- **Class (07):** Entity Type *Place*; the body is the district itself — leaning buildings, unset ground, a 41-marker perimeter → **07** (PS extension). Serial `001 → 0001`.
+- **Risk:** Rank IV / Grade ω, **off-diagonal → higher tier (ω) → ALEPH**, matching the Section VIII roster. The Walking District (`-B [GS]`) is a containment **state** of this same code under Section VI, not a second designation. Attachment/Repression prohibited (Place) until that state.
+
+### 3. Conservatory — `N-IVδ-852 [N]` → **`F-07-0852`**, WAW
+- **Letter (F):** Inner Sorrow · Origin = a caretaker who overloaded a structure to save a home · Tale = moral parable of preservation that destroys → fable structure takes **F** under the decision order.
+- **Class (07):** Tool Type says I-Relic, but Physical Form and Appearance give a fixed crystal **site** — a floor-plan outline surveyed at fourteen stations, its east range permanently short 2.3 m — and the dossier itself calls the tool class a registry convention rather than a field practice → **07**, disagreement entered as a management note. Serial `852 → 0852`.
+- **Risk:** Rank IV / Grade δ → **WAW**. Management core: nothing in the unit may be built, braced or made to resemble the lost house.
+
+### 4. Learned Your Face — `C-IIIγ-195 [VO]` → **`T-09-0195`**, HE
+- **Letter (T):** City Sorrow · Origin = 212 citizens who carried grief into a sealed room and told nobody · Tale = the loneliness of believed-unshareable sorrow → **T**.
+- **Class (09):** O-Relic operated as a channeled device in its bay — one nominated agent-equivalent (channeller), one clock-holder, deliberate closure → **09 Tool** handling. Serial `195 → 0195`.
+- **Risk:** Rank III / Grade γ → **HE**; work damage PALE (Void). Encyclopedia redaction precedent: reflection contents are **never recorded** (Section IX); the learned-face count (61) is the intake-visible statistic.
+
+### 5. The Wedge That Held — `O-IIIγ-412 [GP]` → **`T-09-0412`**, HE
+- **Letter (T):** Outside Sorrow · Origin = the Great Basalt Rupture and a master smith's sacrifice for eighteen apprentices · Tale = industrial disaster record → **T** (the heroic register does not make it a fable; names, codes and signed authorisations are on file).
+- **Class (09):** A-Relic, an 18.4 kg single-use iron wedge operated by one deliberate driving strike → **09 Tool**, single-use rules. Serial `412 → 0412`.
+- **Risk:** Rank III / Grade γ → **HE**; work damage RED (Grudge). A drop is a minor tile-radius event, **not** consumption; the discharge profile (Range Band 3, 50% armor fracture, knockdown) fires once and the piece is inert slag thereafter — the Tool entry must not schedule repeat uses.
+
+---
+
+## Section XI: Facility Verification Checklist
 
 ```text
 +========================================================================+
 |         SEPHIRAH CONTAINMENT & EXTRACTION DIRECTIVE CHECKLIST          |
 +------------------------------------------------------------------------+
+| 00. DESIGNATION   : Assign X-YY-0### once; quote Sorrow Category,      |
+|     Origin & Tale for X; Entity/Tool Type, Physical Form &             |
+|     Appearance for YY; serial = 0 + SECC number; never renumber        |
 | 01. RISK TIERING    : Map Ranks I-V to ZAYIN, TETH, HE, WAW, ALEPH     |
 | 02. PE-BOX FORMULA : Extract Enkephalin while filtering toxic Han      |
 | brine                                                                  |
