@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Housing grades declared for the five worked conversions (2026-10-30)
+
+- **`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md` Section X:** each Batch 207 worked conversion now declares its **housing grade and scale band** under Section I.4, read from the same dossiered body that set its class. **Broken Well (`T-01-0565`) — Whole:** figure and dry rim housed together; nothing recorded below the rim; full-scale band (corridor-scale body). **The Maw (`T-07-0001`) — Whole, Place-as-room:** the room is its Containment Form; Breach Form = the dossiered Walking District (`-B [GS]`) at the Well-attenuated 25–50% band. **Conservatory (`F-07-0852`) — Fragment:** only the fourteen-station floor-plan outline is housed, the crystal site undrawn; completion = the site at true footprint under attenuation (east range still short 2.3 m), with the build-nothing management core restated as the anti-completion discipline — same class `07` as the Maw, different grade, because the dossiered bodies differ. **Learned Your Face (`T-09-0195`) — Fragment with permanent HOLD:** the device and bay are housed, the reflection-side undrawn and (per Section IX redaction) never describable at any degree. **The Wedge That Held (`T-09-0412`) — Whole:** the tool is the entire body, no remainder, no completion clause; its maker is not a housed presence. No entry among the five reads Aspect-shifted; that grade remains available but unexemplified.
+
+
 ## Fragment housing added to the Size, Scale & Form Law (2026-10-30)
 
 - **`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md` Section I.4 renamed (Size, Scale & Form Law) and extended with an appearance axis:** the Containment Form now comes in three intake-declared **housing grades** — **Whole** (complete body, unit-scaled), **Aspect-shifted** (complete housing body in the draw's rendering rather than the true aspect), and **Fragment** (only a fragment of the shape housed — a face, an eye, a hand at an aperture — the remainder undrawn on the far side of the interface; breach is a **completion** into the entity's true self under the declared scale band). Fragment continuity, undrawn-remainder placement by declared ingress/geometry, Degree III fragment-only presentation, and return-to-housing are specified.

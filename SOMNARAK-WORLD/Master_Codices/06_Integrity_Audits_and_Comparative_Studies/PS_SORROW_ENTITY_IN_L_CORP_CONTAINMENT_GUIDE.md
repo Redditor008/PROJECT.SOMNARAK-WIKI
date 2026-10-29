@@ -326,32 +326,37 @@ Neither tell is to be "corrected." Renumbering the serial breaks the never-renum
 
 ## Section X: Worked Conversions (Batch 207 intake series)
 
-Each conversion below shows its three-field reads, so the letter and class can be audited rather than merely asserted.
+Each conversion below shows its three-field reads, so the letter and class can be audited rather than merely asserted. Each also declares its **housing grade and scale band** under Section I.4, read from the same dossiered body that set its class — the grade follows the body, never the convenience of the room.
 
 ### 1. Broken Well — `C-IIβ-565 [D]` → **`T-01-0565`**, TETH
 - **Letter (T):** City Sorrow · Origin = a child lost in a Han-softened shaft · Tale = a mother's unanswered calling. Discrete traumatic loss, recorded as wound → **T**.
 - **Class (01):** Subject; Physical Form and Appearance give a half-flesh, half-mist **humanoid** figure joined to a dry rim (1.1 m plumb floor, dust tears) → **01**. Serial `565 → 0565`.
 - **Risk:** Rank II / Grade β, on-diagonal → **TETH**. Work damage RED (Grudge). Repression is class-legal (Subject) but **locked by management rule**: force hardens the rim and raises the gauge in the source record.
+- **Housing (Whole):** figure and dry rim are housed together at dossiered dimensions; the body the unit shows is the whole body the dossier files, and nothing is recorded below the rim to leave undrawn. Breach Form = the same joined figure at large; scale band declared **full** (a corridor-scale body — this unit's containment problem is the Repression lock, not size).
 
 ### 2. The Maw — `C-IVω-001 [GP]` → **`T-07-0001`**, ALEPH
 - **Letter (T):** City Sorrow · Origin = the Cheongula, one thousand citizens consumed · Tale = atrocity and its denial → **T**.
 - **Class (07):** Entity Type *Place*; the body is the district itself — leaning buildings, unset ground, a 41-marker perimeter → **07** (PS extension). Serial `001 → 0001`.
 - **Risk:** Rank IV / Grade ω, **off-diagonal → higher tier (ω) → ALEPH**, matching the Section VIII roster. The Walking District (`-B [GS]`) is a containment **state** of this same code under Section VI, not a second designation. Attachment/Repression prohibited (Place) until that state.
+- **Housing (Whole, Place-as-room):** the unit does not contain the Maw — under Sections I.4 and VI the room *is* its Containment Form, the standing precedent for Scale-Incompatible, Extraction-Compatible. Breach Form = the dossiered Walking District (`-B [GS]`) state; band declared **Well-attenuated, 25–50% of district scale**, with escalation to full district scale reserved as an in-story crisis — the Well losing its grip.
 
 ### 3. Conservatory — `N-IVδ-852 [N]` → **`F-07-0852`**, WAW
 - **Letter (F):** Inner Sorrow · Origin = a caretaker who overloaded a structure to save a home · Tale = moral parable of preservation that destroys → fable structure takes **F** under the decision order.
 - **Class (07):** Tool Type says I-Relic, but Physical Form and Appearance give a fixed crystal **site** — a floor-plan outline surveyed at fourteen stations, its east range permanently short 2.3 m — and the dossier itself calls the tool class a registry convention rather than a field practice → **07**, disagreement entered as a management note. Serial `852 → 0852`.
 - **Risk:** Rank IV / Grade δ → **WAW**. Management core: nothing in the unit may be built, braced or made to resemble the lost house.
+- **Housing (Fragment):** the unit holds the surveyed floor-plan outline only — fourteen stations of trace, the portion of a fixed crystal site that a room can hold; the site itself stands undrawn across the interface. The Breach Form is that same crystal site at its true footprint (band declared **Well-attenuated 25–50%**, the east range still short its 2.3 m), and the management core above is precisely the anti-completion discipline: build nothing on the outline toward the lost house. Same class as the Maw, different grade — because the dossiered bodies differ: a district that *is* a room, versus a site surviving as its plan.
 
 ### 4. Learned Your Face — `C-IIIγ-195 [VO]` → **`T-09-0195`**, HE
 - **Letter (T):** City Sorrow · Origin = 212 citizens who carried grief into a sealed room and told nobody · Tale = the loneliness of believed-unshareable sorrow → **T**.
 - **Class (09):** O-Relic operated as a channeled device in its bay — one nominated agent-equivalent (channeller), one clock-holder, deliberate closure → **09 Tool** handling. Serial `195 → 0195`.
 - **Risk:** Rank III / Grade γ → **HE**; work damage PALE (Void). Encyclopedia redaction precedent: reflection contents are **never recorded** (Section IX); the learned-face count (61) is the intake-visible statistic.
+- **Housing (Fragment):** the unit holds the device and its channelling bay — the glass, not what the glass holds. The reflection-side is the undrawn remainder, and under Sections I.4 and IX its completion is a permanent **HOLD**: reflection contents are never recorded, so no Breach Form may be described, at any degree, by anyone. A story stages the device, the count, and the discipline of not looking; whatever has learned the faces stays on its side of the interface.
 
 ### 5. The Wedge That Held — `O-IIIγ-412 [GP]` → **`T-09-0412`**, HE
 - **Letter (T):** Outside Sorrow · Origin = the Great Basalt Rupture and a master smith's sacrifice for eighteen apprentices · Tale = industrial disaster record → **T** (the heroic register does not make it a fable; names, codes and signed authorisations are on file).
 - **Class (09):** A-Relic, an 18.4 kg single-use iron wedge operated by one deliberate driving strike → **09 Tool**, single-use rules. Serial `412 → 0412`.
 - **Risk:** Rank III / Grade γ → **HE**; work damage RED (Grudge). A drop is a minor tile-radius event, **not** consumption; the discharge profile (Range Band 3, 50% armor fracture, knockdown) fires once and the piece is inert slag thereafter — the Tool entry must not schedule repeat uses.
+- **Housing (Whole):** the 18.4 kg wedge *is* the whole body; there is no remainder and no completion clause — the master smith of the Origin is its maker, not a presence housed inside it. A Tool has no roaming Breach Form: its only event is the single discharge above, after which the housed form and the spent form are the same inert piece. Scale band: not applicable.
 
 ---
 
