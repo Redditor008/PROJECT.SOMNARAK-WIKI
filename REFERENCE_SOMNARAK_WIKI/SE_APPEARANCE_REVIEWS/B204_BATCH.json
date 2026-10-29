@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 204,
   "status": "OPEN",
-  "completed_units": 3,
+  "completed_units": 4,
   "required_units": 5,
   "queue": [
     {
@@ -42,7 +42,7 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 3,
+  "completed": 4,
   "units": [
     {
       "unit": 1,
@@ -638,6 +638,220 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 4,
         "digit_sequence_change": "The unsupported 15% Gauge surge was removed; the Side protocol's 65% group-denial condition was retained as an exact-source trigger, distinct from the 60% threshold."
+      }
+    },
+    {
+      "unit": 4,
+      "designation": "C-Vδ-002",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md",
+      "words": 9822,
+      "sha256": "faf8c35e8d7560d481fdbd5fca824c00a596652ce666793e77f69c48d44a8d73",
+      "name": "The Grieving Colossus",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_04_THE_GRIEVING_COLOSSUS.md",
+      "before_words": 9822,
+      "after_words": 10215,
+      "base": "496507e7ccd5c936acb6e388a63428542cd88127",
+      "final_sha256": "60ab1a9ba8e24c380eb228788447797082d26da7cf46524f4c69f4c61b07d30a",
+      "summary": "HELD +0 — 18 repairs turn a hunting boss template back into a route that must simply be kept clear.",
+      "commentary": "Nothing here needs to be defeated. The road needs to be empty and the names need saying.",
+      "reasoning": "Side A is explicit that the Directorate assigns no containment battle: every harmful row is a route failure created by people, never an attack chosen by a giant that steps around bodies.\n\nIts gentleness is not containment, so the doctrine stays clearing ahead, exclusion from the gauge, and rostered tour limits — never barricades.\n\nEquipment derives from authorized tears, so suppression and dust claims were removed rather than softened.",
+      "history": "Batch 85/unit 2 already took the counted SE-002-B disposition and Batch 122 confirmed it; no fresh credit. HELD +0.",
+      "holds": [
+        "Fixed census route versus Side broader recalculated migration corridor. Held.",
+        "Name recognition unproven by blind test. Held.",
+        "Pallbearer's Grip conferral versus item D history. Held."
+      ],
+      "split": [
+        7,
+        11
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-resolve-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Han / burden pressure |",
+          "new": "| **Primary pressure** | Resolve — the resolve to keep working is the first thing personnel lose under its ambient burial-weight |"
+        },
+        {
+          "id": "R02-movement-route-walk",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |",
+          "new": "| **Movement** | Mobile — walks one route through Zone D at its own occasion, placing thirty-metre feet between bodies with millimetres to spare; it has never hunted or pursued anybody. |"
+        },
+        {
+          "id": "R03-vessel-indestructible-route",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — it cannot be stopped or held; equipment derives from authorized tears, never from suppression of the whole Sovereign |"
+        },
+        {
+          "id": "R04-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R05-valid-work-types-no-pugnahan",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Ferrehan and Flerehan; Viderehan holds the gauge level. Pugnahan does not register and is forbidden by doctrine. |"
+        },
+        {
+          "id": "R06-resistance-route-doctrine",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 50% against Weight pressure; 40% against other pressure types |",
+          "new": "| **Resistance** | 50% against Weight pressure; 40% against other pressure types. Resistance buys distance work only: the exclusion radius is set from the gauge, the route ahead is cleared rather than defended, names are spoken at contact, and consecutive tours are limited by roster because exposure accumulates across tours. |"
+        },
+        {
+          "id": "R07-weight-of-grief-demolition",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Weight of Grief* [**Debuff**] } | \"Just being near it feels heavier — as though grief itself has mass.\" | [The Colossus exudes its sorrow as physical gravity; the air thickens around the target.] | *Target suffers -10 Resolve; the world presses down on them.* **[10 Weight DMG [Weight]]** | When the target enters the Colossus's shadow. |",
+          "new": "| { *The Weight of Grief* [**Debuff**] } | \"Just being near it feels heavier — as though grief itself has mass.\" | [The Colossus stops, lowers one hand, and its sorrow settles as physical gravity across the block.] | *Personnel lose Resolve as the world presses down. Halt the demolition at once and mark the tear-structure for Archive survey; it is a memorial and an environmental record, not debris.* **[10 Weight DMG [Weight]]** | When a building grown from its tears is demolished while the Colossus is within line of sight. |"
+        },
+        {
+          "id": "R08-slow-steps-obstruction",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Slow Steps* [**Debuff**] } | \"Each of its steps lands like a funeral — and the ground remembers.\" | [The Colossus's tread sends waves of pressure outward; the target staggers under the rhythm.] | *Target loses 10 Resolve and moves as though wading through stone.* **[10 Weight DMG [Weight]]** | When the Colossus closes the distance. |",
+          "new": "| { *The Slow Steps* [**Debuff**] } | \"Each of its steps lands like a funeral — and the ground remembers.\" | [Careful movement forced against a blocked path: tremors spread sixty metres ahead of the tread and personnel stagger under the rhythm.] | *Personnel lose Resolve and move as though wading through stone. Clear the route ahead; do not confront, cordon or barricade.* **[10 Weight DMG [Weight]]** | When a new wall, heavy equipment or crowd blocks its predicted path for more than ninety seconds. |"
+        },
+        {
+          "id": "R09-open-hand-assault-contact",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Open Hand* [**Attack**] } | \"It does not strike so much as lower one enormous hand, and let the weight do the rest.\" | [A colossal palm descends; the target is driven into the ground by sheer mass.] | *Inflicts Weight pressure and one crushing wound.* **[14-22 Weight DMG [Weight]]** | When the target is within reach. |",
+          "new": "| { *The Open Hand* [**Attack**] } | \"It does not strike so much as lower one enormous hand, and let the weight do the rest.\" | [A colossal palm lowers onto the nearest obstruction that touched it; the mass, not any aim at a person, does the rest.] | *Heavy Weight pressure on the obstructing object and anyone still holding it. Withdraw all non-Warden staff and redirect the path; nothing is rammed, struck or extracted from its body again.* **[14-22 Weight DMG [Weight]]** | When a weapon strike, barrier ram or extraction device contacts its body. |"
+        },
+        {
+          "id": "R10-collapsing-mass-cornering",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Collapsing Mass* [**Attack**] } | \"It stops holding itself up, and lets all of its grief fall at once.\" | [The Colossus drops its entire mass onto one point — a cataclysm of accumulated sorrow.] | *A devastating Black impact; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Colossus is hurt or cornered. |",
+          "new": "| { *The Collapsing Mass* [**Attack**] } | \"It stops holding itself up, and lets all of its grief fall at once.\" | [Thirty metres of body weight settles into one point when no visible way forward remains.] | *A devastating Black impact across the trapped ground. Open an escape corridor immediately and clear ahead of it; the pressure falls only when a route exists again.* **[24-36 Weight DMG [Weight]]** | When three or more barriers eliminate every visible route of movement. |"
+        },
+        {
+          "id": "R11-mountain-tide-blocked-route",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Mountain of Sorrow* [**Ultimate**] } | \"It kneels and becomes the mountain it always was — grief too vast to move, pressing on everything.\" | [The Colossus settles into the earth, its sorrow radiating outward as crushing pressure.] | *All in range suffer Weight pressure for three turns as the ground itself bows.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Mountain of Sorrow* [**Ultimate**] } | \"It kneels and becomes the mountain it always was — grief too vast to move, pressing on everything.\" | [A saturation field: its sorrow settles into the earth and radiates outward as crushing pressure while the way forward stays blocked.] | *All in range suffer Weight pressure for three turns as the ground itself bows. Evacuate the projected radius and deploy Ferrehan observers only until the route is clear.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the nightly Sorrow Tide overlaps a blocked migration route. |"
+        },
+        {
+          "id": "R12-resolution-phase-route-guidance",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Cannot be stopped. It can only be guided by monitoring its path and clearing safe routes**.",
+          "new": "3. **Resolution:** There is no containment or suppression to achieve. The route ahead is cleared, the march is accompanied at the marked interval until it rejoins the route or reaches the Memorial, and the vigil is kept to dusk: **it cannot be stopped; it can only be guided by monitoring its path and clearing safe routes**."
+        },
+        {
+          "id": "R13-breach-quote-no-hunting",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "> *\"The Grieving Colossus has broken free. Hunts personnel indiscriminately.\"*",
+          "new": "> *\"It has never broken free, because nothing holds it, and it has never hunted anybody. The only harm on this route was caused by a barricade.\"*"
+        },
+        {
+          "id": "R14-monument-memorial-break",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** A strike brought down on the ground sends a seismic shockwave through it, and every grounded hostile body in the room goes to its knees under the weight of the unforgotten dead. It is the Colossus's gait at a human scale, no clang and only the slow double beat, and a death that has been dismissed becomes physically inescapable to whoever dismissed it.",
+          "new": "**Ability:** *Memorial Break* — when the bearer strikes ground, barrier or structure while naming the person or group being protected, the Monument sends a seismic shockwave through it and every grounded hostile body in the room goes to its knees under the weight of the unforgotten dead. It is the Colossus's gait at a human scale, no clang and only the slow double beat, and a death that has been dismissed becomes physically inescapable to whoever dismissed it. It cannot safely strike a Colossus tear-building unless the Archive has cleared that structure for removal."
+        },
+        {
+          "id": "R15-mantle-procession-pace",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Halves the Weight damage that reaches the wearer and nothing else: Lament and Grudge pass at full strength and Void lands at one and a half times, so the Mantle is a protection for standing in the Colossus's weight and for nothing else in the city.",
+          "new": "**Ability:** *Procession Pace* — while the wearer walks an approved evacuation or memorial route, nearby companions move through low-grade Weight pressure without losing their first step to the burden; stopping, denying or abandoning the route ends it. The piece also halves the Weight damage that reaches the wearer: Lament and Grudge pass at full strength and Void lands at one and a half times, so the Mantle protects a route and its wearer's standing in the Colossus's weight, not general combat anywhere else in the city."
+        },
+        {
+          "id": "R16-shell-bear-the-unnamed",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Nearly invulnerable; converts physical damage into emotional weight.",
+          "new": "**Ability:** *Bear the Unnamed* — once a day the bearer may take one ally's current Weight-pressure condition onto themselves for ten minutes, converting part of ordinary physical impact into emotional heaviness that is felt later. It is not invulnerability: the Shell cannot absorb a Sovereign-scale collapse or a fatal direct strike."
+        },
+        {
+          "id": "R17-recommended-response-work",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Recommended response** | All four Work Types are open, this being a Subject, but nothing here is a response in the containment sense: the entity cannot be stopped and is not held. Flerehan and Ferrehan lower the gauge; the operative measure is clearing its route ahead of it. |",
+          "new": "| **Recommended response** | Nothing here is a response in the containment sense: the entity cannot be stopped and is not held. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan does not register and is forbidden by doctrine; the operative measure is clearing its route ahead of it. |"
+        },
+        {
+          "id": "R18-entry1-not-held",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "Held at Zone D — wanders freely; uncontained landmark.",
+          "new": "Registered in Zone D — wanders freely; uncontained landmark."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.047  clean   129 grams  Operational Parameters\n 0.035  clean   141 grams  Trivia\n 0.015  clean   261 grams  기록 (Registrum)\n 0.006  clean   660 grams  Combat Record\n 0.005  clean   187 grams  Breach Behavior\n 0.005  clean   384 grams  관찰 기록 (Observation Log)\n 0.004  clean   571 grams  감각 묘사 (Flavor Text)\n 0.003  clean  2877 grams  Sovereign Chronicle\n 0.002  clean  1310 grams  M.A.W. Equipment\n 0.000  clean   346 grams  이야기 (Narratio)\n 0.000  clean   214 grams  Appearance\n 0.000  clean   169 grams  Behavior\n 0.000  clean   156 grams  Origin\n 0.000  clean   121 grams  최종 관찰 (Final Observation)\n 0.000  clean   121 grams  이야기 보고 (Story Log)\n 0.000  clean    55 grams  SECC Classification\n 0.000  clean    54 grams  증언 (Testimonium)\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   37   4  | **Recommended response** | Nothing here is a response in the containment sense: the entity cannot be stopped and is not held. Fl\n   55   1  | **Resistance** | 50% against Weight pressure; 40% against other pressure types. Resistance buys distance work only: the exclusio\n   85   1  | { *The Mountain of Sorrow* [**Ultimate**] } | \"It kneels and becomes the mountain it always was — grief too vast to move, pressi\n   89   2  1. **Tension:** Identification first — The Grieving Colossus is recognised by the double beat in the ground and the cratered footp\n  176   1  - **Sorrow Gauge on breach:** Opens at 40% and rises ten points per turn while it is off the route; it falls on its own once the r\n  209   1  **Appearance:** a draped mantle of Weight Han-weave, dark as wet crystal, whose hem keeps a hand's width off the ground however th\n  235   1  **Effect:** +3 stat bonus when working the source entity\n  257   1  | **At limit** | Duration, activations, attribute change, rejection signs, position at withdrawal, and whether the operator asked \n  285   2  **Observation method:** Walk the interval, log the route, speak names and write down which ones it answered to. The form here is t\n  339   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  383   1  - Ferrehan is the primary Work Type and Flerehan also lowers the gauge; Viderehan holds it level and Pugnahan does not register. N\n  389   3  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)\n  479   1  The objection is minuted at every annual review, raised by the ward officer and supported by two of the grounds crews' own senior \n  481   8  The minute records the objection as **correct in all three parts**. It records that a compensation scheme, costed against the valu\n  493   5  - **Field detail:** Its defining element is Weight, and its registered location is Zone D — wanders freely; uncontained landmark.\nGENERIC 0.005  (36 shared shingles)  SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-A__SIDE_CODEX_The_Grieving_Colossus.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-B__MAW-W_The_Mourning_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-C__MAW-S_The_Mourning_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-D__MAW-G_The_Mourning_Shell.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-A__SIDE_CODEX_The_Grieving_Colossus.md": "1294dd583ecda35d2b4062e87fb929972cb02db8fc009237db34be2202fb7eff",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-B__MAW-W_The_Mourning_Maul.md": "35c286a74b1d46157514ada00426e84e397a8eef4b3180e4fe61c316163d3172",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-C__MAW-S_The_Mourning_Mantle.md": "e96858acd13fc749ea7a8962c807bee1a6cb0c82a513e372f30b039358ad2ab7",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-D__MAW-G_The_Mourning_Shell.md": "43584ed5762f3afc3d33b648d63ca01ee9b5870d97b85176124f368353286cd6"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B4-002_The_Grieving_Colossus_%EC%8A%AC%ED%94%94%EC%9D%98_%EA%B1%B0%EC%9D%B8.md \"SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md\")]",
+      "table_link": "[[C-Vδ-002 The Grieving Colossus](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B4-002_The_Grieving_Colossus_%EC%8A%AC%ED%94%94%EC%9D%98_%EA%B1%B0%EC%9D%B8.md \"SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 502 lines / 9,822 words, complete direct SE-002-A/B/C/D including Side A Path & Battle Trigger Protocol, and Registry rows 6–9. CHANGELOG shows Batch 85/unit 2 took the counted Weapon disposition (confirmed again at Batch 122). All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 0,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Unsupported 15% surge and bare 65% Ultimate removed; Side A's ninety-second obstruction, sixty-metre tremor reach and three-barrier cornering figures restored as exact-source trigger measurements."
       }
     }
   ]

@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A thirty-meter humanoid of solidified grief, dark and dense, pulsing inward like a thousand slow hearts beneath skin that is half-flesh, half-stone. Its eyes weep without cease, and where the tears fall, Han-crystal buildings bloom from the ground. Each footstep cracks the earth and leaves a crater of sorrow; it is warm, and impossibly heavy. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Mobile — walks one route through Zone D at its own occasion, placing thirty-metre feet between bodies with millimetres to spare; it has never hunted or pursued anybody. |
 | **Location** | Zone D — wanders freely; uncontained landmark |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -26,15 +26,15 @@
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Subject |
-| **Primary pressure** | Han / burden pressure |
+| **Primary pressure** | Resolve — the resolve to keep working is the first thing personnel lose under its ambient burial-weight |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | All four Work Types are open, this being a Subject, but nothing here is a response in the containment sense: the entity cannot be stopped and is not held. Flerehan and Ferrehan lower the gauge; the operative measure is clearing its route ahead of it. |
+| **Vessel-Destructible** | No — it cannot be stopped or held; equipment derives from authorized tears, never from suppression of the whole Sovereign |
+| **Han Dust Drop (Vessel Destruction)** | — |
+| **Recommended response** | Nothing here is a response in the containment sense: the entity cannot be stopped and is not held. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan does not register and is forbidden by doctrine; the operative measure is clearing its route ahead of it. |
 
 ### Operational Notes
 
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.80 m/s |
-| **Resistance** | 50% against Weight pressure; 40% against other pressure types |
+| **Resistance** | 50% against Weight pressure; 40% against other pressure types. Resistance buys distance work only: the exclusion radius is set from the gauge, the route ahead is cleared rather than defended, names are spoken at contact, and consecutive tours are limited by roster because exposure accumulates across tours. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 2600/2600 |
 | **Han Pressure [ATK]** | 22–48 per hit · Weight |
@@ -70,7 +70,7 @@
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Ferrehan and Flerehan; Viderehan holds the gauge level. Pugnahan does not register and is forbidden by doctrine. |
 | **Battlefield** | Zone D — wanders freely; uncontained landmark |
 | **Resolution Condition** | Cannot be stopped. It can only be guided by monitoring its path and clearing safe routes |
 
@@ -78,17 +78,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Weight of Grief* [**Debuff**] } | "Just being near it feels heavier — as though grief itself has mass." | [The Colossus exudes its sorrow as physical gravity; the air thickens around the target.] | *Target suffers -10 Resolve; the world presses down on them.* **[10 Weight DMG [Weight]]** | When the target enters the Colossus's shadow. |
-| { *The Slow Steps* [**Debuff**] } | "Each of its steps lands like a funeral — and the ground remembers." | [The Colossus's tread sends waves of pressure outward; the target staggers under the rhythm.] | *Target loses 10 Resolve and moves as though wading through stone.* **[10 Weight DMG [Weight]]** | When the Colossus closes the distance. |
-| { *The Open Hand* [**Attack**] } | "It does not strike so much as lower one enormous hand, and let the weight do the rest." | [A colossal palm descends; the target is driven into the ground by sheer mass.] | *Inflicts Weight pressure and one crushing wound.* **[14-22 Weight DMG [Weight]]** | When the target is within reach. |
-| { *The Collapsing Mass* [**Attack**] } | "It stops holding itself up, and lets all of its grief fall at once." | [The Colossus drops its entire mass onto one point — a cataclysm of accumulated sorrow.] | *A devastating Black impact; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Colossus is hurt or cornered. |
-| { *The Mountain of Sorrow* [**Ultimate**] } | "It kneels and becomes the mountain it always was — grief too vast to move, pressing on everything." | [The Colossus settles into the earth, its sorrow radiating outward as crushing pressure.] | *All in range suffer Weight pressure for three turns as the ground itself bows.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Weight of Grief* [**Debuff**] } | "Just being near it feels heavier — as though grief itself has mass." | [The Colossus stops, lowers one hand, and its sorrow settles as physical gravity across the block.] | *Personnel lose Resolve as the world presses down. Halt the demolition at once and mark the tear-structure for Archive survey; it is a memorial and an environmental record, not debris.* **[10 Weight DMG [Weight]]** | When a building grown from its tears is demolished while the Colossus is within line of sight. |
+| { *The Slow Steps* [**Debuff**] } | "Each of its steps lands like a funeral — and the ground remembers." | [Careful movement forced against a blocked path: tremors spread sixty metres ahead of the tread and personnel stagger under the rhythm.] | *Personnel lose Resolve and move as though wading through stone. Clear the route ahead; do not confront, cordon or barricade.* **[10 Weight DMG [Weight]]** | When a new wall, heavy equipment or crowd blocks its predicted path for more than ninety seconds. |
+| { *The Open Hand* [**Attack**] } | "It does not strike so much as lower one enormous hand, and let the weight do the rest." | [A colossal palm lowers onto the nearest obstruction that touched it; the mass, not any aim at a person, does the rest.] | *Heavy Weight pressure on the obstructing object and anyone still holding it. Withdraw all non-Warden staff and redirect the path; nothing is rammed, struck or extracted from its body again.* **[14-22 Weight DMG [Weight]]** | When a weapon strike, barrier ram or extraction device contacts its body. |
+| { *The Collapsing Mass* [**Attack**] } | "It stops holding itself up, and lets all of its grief fall at once." | [Thirty metres of body weight settles into one point when no visible way forward remains.] | *A devastating Black impact across the trapped ground. Open an escape corridor immediately and clear ahead of it; the pressure falls only when a route exists again.* **[24-36 Weight DMG [Weight]]** | When three or more barriers eliminate every visible route of movement. |
+| { *The Mountain of Sorrow* [**Ultimate**] } | "It kneels and becomes the mountain it always was — grief too vast to move, pressing on everything." | [A saturation field: its sorrow settles into the earth and radiates outward as crushing pressure while the way forward stays blocked.] | *All in range suffer Weight pressure for three turns as the ground itself bows. Evacuate the projected radius and deploy Ferrehan observers only until the route is clear.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the nightly Sorrow Tide overlaps a blocked migration route. |
 
 ### Battle Phases
 
 1. **Tension:** Identification first — The Grieving Colossus is recognised by the double beat in the ground and the cratered footprints; no other holding in the city is announced by the floor — then the approach is set and the positions are taken.
 2. **Clash:** There is no clash. The cycle consists of accompanying the march at the marked interval, speaking names, and keeping the route ahead clear; no team has ever exchanged force with this entity and the doctrine forbids attempting it.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Cannot be stopped. It can only be guided by monitoring its path and clearing safe routes**.
+3. **Resolution:** There is no containment or suppression to achieve. The route ahead is cleared, the march is accompanied at the marked interval until it rejoins the route or reaches the Memorial, and the vigil is kept to dusk: **it cannot be stopped; it can only be guided by monitoring its path and clearing safe routes**.
 
 ### Consequences
 
@@ -158,7 +158,7 @@ The Grieving Colossus is a Sovereign (V) Subject of Critical (δ) potency, Subje
 **Reading the response:** Read it in pace, posture and the tear rate. A falling gauge presents as the pace evening out and the head lifting; a rising one presents as stops that lengthen and a tear rate the observation posts can hear from the line. The sensation at the perimeter is not an indicator and has been wrong in both directions.
 ## Breach Behavior
 
-> *"The Grieving Colossus has broken free. Hunts personnel indiscriminately."*
+> *"It has never broken free, because nothing holds it, and it has never hunted anybody. The only harm on this route was caused by a barricade."*
 
 | Field | Detail |
 |---|---|
@@ -198,7 +198,7 @@ When brought down upon the earth, it produces no metallic clang, but a deep seis
 **Falloff Rule:** 100% damage at epicenter → 60% at perimeter; inflicts heavy stagger and crushing weight pressure.
 **Damage Application:** Direct Weight trauma to Han (sorrow reserves, karmic debt); drastically depletes target poise and immobilizes movement.
 
-**Ability:** A strike brought down on the ground sends a seismic shockwave through it, and every grounded hostile body in the room goes to its knees under the weight of the unforgotten dead. It is the Colossus's gait at a human scale, no clang and only the slow double beat, and a death that has been dismissed becomes physically inescapable to whoever dismissed it.
+**Ability:** *Memorial Break* — when the bearer strikes ground, barrier or structure while naming the person or group being protected, the Monument sends a seismic shockwave through it and every grounded hostile body in the room goes to its knees under the weight of the unforgotten dead. It is the Colossus's gait at a human scale, no clang and only the slow double beat, and a death that has been dismissed becomes physically inescapable to whoever dismissed it. It cannot safely strike a Colossus tear-building unless the Archive has cleared that structure for removal.
 
 **Cost:** The wielder feels progressively heavier; carried by someone who dismisses an identified death, the weapon becomes impossibly heavy to lift, causing joint strain and bone ache.
 
@@ -218,7 +218,7 @@ On a route it does one thing and nothing else: companions walking an approved ev
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Halves the Weight damage that reaches the wearer and nothing else: Lament and Grudge pass at full strength and Void lands at one and a half times, so the Mantle is a protection for standing in the Colossus's weight and for nothing else in the city.
+**Ability:** *Procession Pace* — while the wearer walks an approved evacuation or memorial route, nearby companions move through low-grade Weight pressure without losing their first step to the burden; stopping, denying or abandoning the route ends it. The piece also halves the Weight damage that reaches the wearer: Lament and Grudge pass at full strength and Void lands at one and a half times, so the Mantle protects a route and its wearer's standing in the Colossus's weight, not general combat anywhere else in the city.
 
 **Cost:** The wearer carries a constant low fatigue.
 
@@ -234,7 +234,7 @@ It is a head-slot charm and it is displayed in the Archive beside the route repo
 **Acquisition Probability:** 4%
 **Effect:** +3 stat bonus when working the source entity
 
-**Ability:** Nearly invulnerable; converts physical damage into emotional weight.
+**Ability:** *Bear the Unnamed* — once a day the bearer may take one ally's current Weight-pressure condition onto themselves for ten minutes, converting part of ordinary physical impact into emotional heaviness that is felt later. It is not invulnerability: the Shell cannot absorb a Sovereign-scale collapse or a fatal direct strike.
 
 **Cost:** The wearer experiences every death the Colossus has mourned. Prolonged use causes uncontrollable weeping.
 
@@ -288,7 +288,7 @@ The set has one resonance and it is a rescue measure, not a battle configuration
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Grieving Colossus (C-Vδ-002 [WS]) is a Subject-Body manifestation expressing Weight, and the Colossus formed from the unmourned dead of early Zone D — workers, settlers, and dreamers who died without anyone left to remember them. Held at Zone D — wanders freely; uncontained landmark. The Colossus is a permanent feature of Zone D rather than a conventional breach risk.
+The Grieving Colossus (C-Vδ-002 [WS]) is a Subject-Body manifestation expressing Weight, and the Colossus formed from the unmourned dead of early Zone D — workers, settlers, and dreamers who died without anyone left to remember them. Registered in Zone D — wanders freely; uncontained landmark. The Colossus is a permanent feature of Zone D rather than a conventional breach risk.
 
 **Entry 2 — <Excerpt from Field Log, Year 4232>**
 Slow migration through Zone D; the R.D. tracks and redirects construction around its path. Tears expand Zone D and create new structures; witnesses experience involuntary mourning. Buildings formed from its tears are beautiful, stable, and emotionally heavy.
