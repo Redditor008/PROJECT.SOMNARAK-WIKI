@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVδ-001": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_03_THE_ORPHANED_BELL.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2429,8 +2441,23 @@
     {
       "designation": "C-IVδ-001",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Twenty-nine repairs (6 short / 23 careful). The Bell is no longer a destructible vessel yielding tons of Han Dust, and its combat threshold no longer contradicts itself. Side A's exact toll cascade now governs: midnight First Toll; Echoing Loss from three-person missing-child concentration or a marked hearer remaining through one full interval; Mourning Blade only after physical provocation; district Chorus only after a direct strike or extraction/separation violation; and Unanswered Vigil only on Gauge Overflow ≥65% during an active toll. Exact Shroud and Lament's Edge forms, storage limits and costs were restored. HELD with no fresh credit because the complete δ set, Named Vigil rules, statistics and Field Use Record pre-existed.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_03_THE_ORPHANED_BELL.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-A__SIDE_CODEX_The_Orphaned_Bell.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-B__MAW-W_The_Laments_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-C__MAW-S_The_Laments_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-D__MAW-G_Laments_Edge.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-092",

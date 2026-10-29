@@ -1,0 +1,298 @@
+{
+  "unit": 3,
+  "designation": "C-IVδ-001",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md",
+  "words": 8708,
+  "sha256": "9232ea9b41d16e128b325f4ba766a6c951d6651462f771eb95868f46e1f0021e",
+  "name": "The Orphaned Bell",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_03_THE_ORPHANED_BELL.md",
+  "before_words": 8708,
+  "after_words": 9193,
+  "base": "ac2e8e1216b58efaba1c2f919688eb5275fae997",
+  "final_sha256": "7322fb9826975e179082dc9c92ee51fe1303fd539add627990a90ce9f2b75f05",
+  "summary": "Twenty-nine repairs (6 short / 23 careful). The Bell is no longer a destructible vessel yielding tons of Han Dust, and its combat threshold no longer contradicts itself. Side A's exact toll cascade now governs: midnight First Toll; Echoing Loss from three-person missing-child concentration or a marked hearer remaining through one full interval; Mourning Blade only after physical provocation; district Chorus only after a direct strike or extraction/separation violation; and Unanswered Vigil only on Gauge Overflow ≥65% during an active toll. Exact Shroud and Lament's Edge forms, storage limits and costs were restored. HELD with no fresh credit because the complete δ set, Named Vigil rules, statistics and Field Use Record pre-existed.",
+  "commentary": "This file knows the difference between keeping a name and claiming it. Ninety-six names match the municipal register; 322 do not, and the archive writes them down anyway without turning them into identifications.",
+  "reasoning": "R-34 audit before editing. Identity is direct SE-001: Side A prints `C-IVδ-001 [LO]`, Object/Place—Object-Lament, IV/δ, City Sorrow, Lament, a three-meter Han-crystal bell fixed in SECTOR-B-01, Comprehension 4 and Lament's Requiem Set; B/C/D carry `MAW-W/S/G-001-01`. Unlike most dossiers, Side A supplies an exact trigger table and toll sequence. Repairs separated its midnight, anniversary, concentration, provocation and overflow outcomes instead of collapsing them into approach/grief/range boilerplate; physical provocation now means strike, unauthorized extraction or removal, while Chorus is district-wide and requires a direct strike or extraction/separation violation. Row 2 retains both exact Side paths as separately checkable alternatives. The Bell/tower cannot be 'moved to safety,' so vessel destruction and dust were removed. Exact C/D restored Listener's Margin (three-name limit), the broken-clapper memory charm and Remembered Strike. All parsed table blocks are equal and all Trigger cells parse fifth.",
+  "history": "Draft/local history: the Bell formed from parents searching the westward-expansion streets for children swallowed by Han; its tower faces are photographed fortnightly (2,347→2,351 in one cited interval), and its 418-name log reconciles to 96 registered matches and 322 unmatched names. Fresh equipment credit BARRED on this HELD result: before repair the primary already contained all three δ pieces with matching damage/resistances/slot/costs, Named Vigil resonance, extraction conditions and Field Use Record. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+  "holds": [
+    "Weapon identity/category fork: filenames and records split The Lament's Requiem / The First Dawn Stiletto, while B's Item Identity says Resonating Greatsword and its appearance, primary SHORT BLADE category and archetype describe an eight-inch stiletto. Held.",
+    "Weapon-extraction fork: the primary says celestial alloy is cut with crystal taken from the Bell's rim; exact B says a thread of blue light falls from the inner rim and hardens into the blade in an extraction frame. Held.",
+    "Face-meaning fork: Side A says each face corresponds to a child whose disappearance was inadequately recorded, while the primary's four studies found no correlation that survived the next quarter. The revised text records survey facts without causal identification. Held.",
+    "Name-evidence fork: 418 heard names divide into 96 municipal matches and 322 unmatched entries; neither the plates nor the slips identify the unmatched names or faces. Held.",
+    "Viderehan fork: the primary says the watcher sees unknown children in an ordinary afternoon while no session produces true silence; exact Side A says the Bell falls silent long enough for names/faces to be observed. Held."
+  ],
+  "split": [
+    6,
+    23
+  ],
+  "repairs": [
+    {
+      "id": "R01-operational-pressure-clarity",
+      "kind": "short field correction",
+      "careful": false,
+      "old": "| **Primary pressure** | Mental / emotional pressure |",
+      "new": "| **Primary pressure** | Clarity — names and faces are displaced by an unattributable loss |"
+    },
+    {
+      "id": "R02-vessel-no",
+      "kind": "short field correction",
+      "careful": false,
+      "old": "| **Vessel-Destructible** | Yes |",
+      "new": "| **Vessel-Destructible** | No — bell and tower are one anchored entity; separation or striking is a provocation, not a destruction route |"
+    },
+    {
+      "id": "R03-Han-dust-none",
+      "kind": "short field correction",
+      "careful": false,
+      "old": "| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |",
+      "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+    },
+    {
+      "id": "R04-speed-toll-output",
+      "kind": "short stat correction",
+      "careful": false,
+      "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+      "new": "| **Speed** | N/A — fixed bell and tower; output is measured by toll interval and duration, face count, and the instrument-confirmed acoustic-circle radius |"
+    },
+    {
+      "id": "R05-activation-threshold65",
+      "kind": "short stat correction",
+      "careful": false,
+      "old": "| **Activation threshold** | Sorrow Gauge ≥ 90% |",
+      "new": "| **Activation threshold** | Sorrow Gauge ≥ 65% during an active toll (Gauge Overflow) |"
+    },
+    {
+      "id": "R06-first-toll-midnight",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The First Toll* [**Debuff**] } | \"The bell tolls once — and the sound passes through walls, floors, and bones alike.\" | [A single toll propagates through the structure; everyone within hearing feels a loss they cannot name.] | *Target suffers -10 Composure; the toll marks them with grief.* **[10 Lament DMG [Lament]]** | At midnight, the anniversary, or when grief concentrates. |",
+      "new": "| { *The First Toll* [**Debuff**] } | \"The bell tolls once — and the sound passes through walls, floors, and bones alike.\" | [Blue veins brighten inside the rim; one toll propagates through tower stone and nearby streets.] | *The first person who hears it suffers -10 Clarity and is marked with an unnamed loss.* **[10 Lament DMG [Lament]]** | When the local clock reaches midnight inside the tower's audible district. |"
+    },
+    {
+      "id": "R07-echoing-loss-interval",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Echoing Loss* [**Debuff**] } | \"The ringing will not stop — and with it, small pieces of who you were slip away.\" | [The toll sustains into a long resonance; prolonged exposure erodes memory and composure.] | *Target loses 10 Composure; faces and names begin to blur.* **[10 Lament DMG [Lament]]** | When the target remains within the bell's range. |",
+      "new": "| { *The Echoing Loss* [**Debuff**] } | \"The ringing will not stop — and with it, small pieces of who you were slip away.\" | [The toll acquires a relevant name as a tower face appears or turns outward; the marked hearer remains inside the sound for a full interval.] | *Target loses 10 Clarity; faces and names begin to blur, and any name heard is written unaltered to the name log.* **[10 Lament DMG [Lament]]** | When a person marked by the First Toll remains inside the audible boundary through one full toll interval. |"
+    },
+    {
+      "id": "R08-mourning-blade-provocation",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Mourning Blade* [**Attack**] } | \"The bell's grief sharpens into a single cutting note aimed at the heart.\" | [The toll condenses into a focused wave of lament that cuts through the target before fading.] | *Inflicts Lament pressure and one wound of sorrow.* **[14-22 Lament DMG [Lament]]** | When the bell is provoked or a marked target is in range. |",
+      "new": "| { *The Mourning Blade* [**Attack**] } | \"The bell's grief sharpens into a single cutting note aimed at the heart.\" | [Tower windows darken and the hanging frame vibrates without wind; the cutting note finds a marked hearer. Simple grief does not arm this row.] | *Inflicts Lament pressure and one wound of sorrow.* **[14-22 Lament DMG [Lament]]** | When the bell body is struck, an unauthorized extraction is attempted, or a removal/separation effort is directed at the bell. |"
+    },
+    {
+      "id": "R09-chorus-direct-violation",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Chorus of the Missing* [**Attack**] } | \"Every child the bell mourns speaks at once — a chorus that breaks the steady heart.\" | [The bell gathers the grief of every missing child into one overwhelming peal.] | *A crushing Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the bell is struck or grief overflows. |",
+      "new": "| { *The Chorus of the Missing* [**Attack**] } | \"Every child the bell mourns speaks at once — a chorus that breaks the steady heart.\" | [The bell gathers the grief of every missing child into one overwhelming peal through tower and streets.] | *Crushing Lament pressure; no personnel Sorrow Gauge is inferred. Every new face position and name heard is recorded before any further intervention.* **[24-36 Lament DMG [Lament]]** | After a direct strike on the bell or an extraction/separation violation. |"
+    },
+    {
+      "id": "R10-unanswered-vigil-overflow",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Unanswered Vigil* [**Ultimate**] } | \"The bell rings and rings for children who will never come home — and the whole tower weeps with it.\" | [The bell tolls without cease, flooding the area with unrelenting lament.] | *All in range suffer Lament pressure for three turns.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *The Unanswered Vigil* [**Ultimate**] } | \"The bell rings and rings for children who will never come home — and the whole tower weeps with it.\" | [Every face in the tower opens its mouth at once; the vigil expands beyond the tower through the district.] | *All personnel and civilians in the affected district suffer Lament pressure for three turns; this is not ordinary midnight operation.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥65% during an active toll. |"
+    },
+    {
+      "id": "R11-battle-resolution",
+      "kind": "careful phase correction",
+      "careful": true,
+      "old": "3. **Resolution:** The toll finishes or the pair is withdrawn. The documented condition is **the bell stays anchored, Pugnahan is never attempted, and the watch is completed standing in pair** — nothing here is suppression, and the record does not call it that.",
+      "new": "3. **Resolution:** The watch resolves only when the toll has finished, the assigned pair has stood it through, the timekeeper outside the circle closes the interval record, and every new face and heard name has been entered. **The bell stays anchored, Pugnahan is never attempted, and the watch is completed standing in pair**; emergency withdrawal preserves personnel but does not count as resolution, and nothing here is suppression."
+    },
+    {
+      "id": "R12-behavior-invalid-work",
+      "kind": "careful work-response correction",
+      "careful": true,
+      "old": "| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |\n| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |",
+      "new": "| **Flerehan** (Tears) | N/A as direct work — mourning nearby may soften a toll contextually but does not change the Object/Place rule. | N/A / contextual |\n| **Pugnahan** (Confrontation) | Prohibited, not a valid Work Type — an attempted confrontation is read as trying to silence the missing and intensifies the tolling. | Increase |"
+    },
+    {
+      "id": "R13-face-causation-appearance",
+      "kind": "careful appearance correction",
+      "careful": true,
+      "old": "- New faces appear when additional children are lost in the city.",
+      "new": "- New faces appear in the fortnightly survey; whether their surfacing correlates with particular losses in the city remains unresolved after four studies."
+    },
+    {
+      "id": "R14-face-causation-detailed",
+      "kind": "careful appearance correction",
+      "careful": true,
+      "old": "| **Distinctive markers** | The tower is covered in faces that emerge rather than being carved. Each toll produces emotional weight and a profound sense of loss. New faces appear when additional children are lost in the city. |",
+      "new": "| **Distinctive markers** | The tower is covered in faces that emerge rather than being carved. Each toll produces emotional weight and a profound sense of loss. New faces are recorded by survey position; no causal correlation with particular city losses has survived testing. |"
+    },
+    {
+      "id": "R15-log-method-grammar",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 30 Seconds | The conduit widens, revealing the memory of the grief of parents searching for children who would never return. forged during zone b expanded over streets and homes, swallowing children into the han and leaving families without answers. | The sounding carries to Range Band 2; every allied unit inside that ring takes heightened elemental defense for as long as the recitation stays unbroken. |",
+      "new": "| 30 Seconds | The conduit widens, revealing the memory of parents searching for children who would never return, formed as Zone B expanded over streets and homes, swallowing children into the Han and leaving families without answers. | The sounding carries to Range Band 2; every allied unit inside that ring takes heightened elemental defense for as long as the recitation stays unbroken. |"
+    },
+    {
+      "id": "R16-shroud-appearance",
+      "kind": "careful appearance restoration",
+      "careful": true,
+      "old": "**Appearance:** a wrapping shroud woven in the tower’s own Lament Han-silk — cool, faintly luminous, and holding the scent of the bell’s room in the weave however long it sits in stores.",
+      "new": "**Appearance:** a deep-blue shroud of loosely woven Lament Han-silk that wraps the shoulders and throat without measurable pressure. Its lining stays cold and smooth while the outer hem catches pale light; unrecorded names appear there as tiny raised warm marks, darker near the seam."
+    },
+    {
+      "id": "R17-shroud-ability",
+      "kind": "careful equipment correction",
+      "careful": true,
+      "old": "**Ability:** Grants resistance to Lament damage, shielding the Mind — emotional stability, willpower — and it is cut for the toll's particular pressure: the wearer holds composure while the bell is saying names back at them.",
+      "new": "**Ability:** *Listener's Margin* grants resistance to Lament damage by storing one named memory in the Shroud's hem rather than letting it overwrite the wearer's short-term recall. It can hold three unrecorded names; at a fourth, all stored names speak at once inside the wearer's thoughts."
+    },
+    {
+      "id": "R18-edge-appearance",
+      "kind": "careful appearance restoration",
+      "careful": true,
+      "old": "**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that turns cold in the hand whenever its source sorrow is sounding.",
+      "new": "**Appearance:** a thin blue Lament Han-crystal charm shaped like a broken bell clapper, narrow enough to hang from a collar loop. It stays cold against the chest, then warms, grows heavier and tilts toward a nearby person who says a name they have avoided; hairline cracks move slowly along its edge as it ages."
+    },
+    {
+      "id": "R19-edge-ability",
+      "kind": "careful equipment correction",
+      "careful": true,
+      "old": "**Ability:** Strikes induce profound loss, disorienting and slowing targets. Critical strikes can temporarily make a target forget how to fight.",
+      "new": "**Ability:** When a nearby person suppresses a grief-linked memory, the charm grows heavy and points toward their chest, revealing the act of hiding without revealing the memory. Once per day, *Remembered Strike* lets the bearer name a recorded missing person before striking a marked target, disorienting them and reducing combat response for one turn."
+    },
+    {
+      "id": "R20-edge-cost",
+      "kind": "careful equipment correction",
+      "careful": true,
+      "old": "**Cost:** The wielder hears the bell constantly. Prolonged use produces memory gaps.",
+      "new": "**Cost:** The bearer hears the Bell's midnight toll whenever they leave a child's question unanswered, strongest around abandoned records, unregistered districts and sealed Archive pages."
+    },
+    {
+      "id": "R21-use-notes-limits",
+      "kind": "careful equipment correction",
+      "careful": true,
+      "old": "The set's resonance is a vigil rather than a loadout: one bearer carrying all three pieces inside the tower, speaking a documented lost name, stabilises Lament damage and toll resistance for a single vigil cycle, and the Bell records that name without adding a new face that night. The bearer pays for it by dreaming the final search of the named parent and waking with the route memorised; run the vigil again and the route is kept at the cost of the bearer's own childhood, which blurs into the tower's. Nothing the set does separates the bell from its tower, and a plan that proposes moving one without the other is read as full provocation. When the piece goes back to the tower the inward redirection ends and the record closes; the memory cost stays where it was paid.",
+      "new": "The set's resonance is a vigil rather than a loadout: one bearer carrying all three pieces inside the tower, speaking a documented lost name, stabilises Lament damage and toll resistance for a single vigil cycle, and the Bell records that name without adding a new face that night. The bearer pays for it by dreaming the final search of the named parent and waking with the route memorised; run the vigil again and the route is kept at the cost of the bearer's own childhood, which blurs into the tower's. Three names stored in the Shroud are a hard withdrawal threshold with no Archive exception. Nothing in the set can identify a living child's location—the Bell remembers loss, not rescue—and nothing separates bell from tower; a plan to move one without the other is full provocation. When the piece goes back to the tower the inward redirection ends and the record closes; the memory cost stays where it was paid."
+    },
+    {
+      "id": "R22-story-entry2-faces",
+      "kind": "careful story correction",
+      "careful": true,
+      "old": "**Entry 2 — <Excerpt from Field Log, Year 4209>**\nThe tower contained 2,347 faces at one survey; the next survey recorded four additional faces.",
+      "new": "**Entry 2 — <Excerpt from Field Log, Year 4209>**\nThe face survey is photographed from brass-pin positions in the tower floor and compared frame against frame every fortnight. One survey counted 2,347 faces; the next recorded 2,351. The plates establish that four faces surfaced or became legible in the interval, not whom they depict."
+    },
+    {
+      "id": "R23-story-entry3-counselling-names",
+      "kind": "careful story correction",
+      "careful": true,
+      "old": "**Entry 3 — <Excerpt from Counseling Log, Year 4214>**\nThe grief of parents searching for children who would never return.",
+      "new": "**Entry 3 — <Excerpt from Counseling Log, Year 4214>**\nWorkers past roughly three hours in the tower may hear names. The name is written exactly as heard on a slip, the hearer leaves the floor, and counselling is offered without asking the slip to become an identification: of 418 names eventually logged, 96 matched the municipal register and 322 matched nothing."
+    },
+    {
+      "id": "R24-story-entry4-containment",
+      "kind": "careful story correction",
+      "careful": true,
+      "old": "**Entry 4 — <Containment Notice>**\nThe bell has never escalated containment and behaves as if containment is irrelevant.",
+      "new": "**Entry 4 — <Containment Notice>**\nKeep bell and tower anchored together; never strike, move or separate them. Record every new face before any other intervention. Viderehan observes names and faces between tolls, Ferrehan stands the toll in assigned pairs, and Pugnahan is prohibited because an attempt to silence the missing raises the Gauge."
+    },
+    {
+      "id": "R25-flavor-continued-exposure",
+      "kind": "careful flavor correction",
+      "careful": true,
+      "old": "**With continued exposure:** Time in the containment zone moves differently. The Lament pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Object-Lament is teaching you its sorrow.",
+      "new": "**With continued exposure:** The interval becomes the clock. Between soundings you check your partner's posture, watch the blue veining and try not to decide whether the name forming under the sound belongs to anybody; if it arrives, it goes on the slip exactly as heard."
+    },
+    {
+      "id": "R26-kind-healer-interaction",
+      "kind": "careful interaction correction",
+      "careful": true,
+      "old": "| **The Kind Healer** | The Healer cannot heal the Bell; its sorrow is too deep. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |",
+      "new": "| **The Kind Healer** | The Healer cannot heal the Bell; its sorrow is too deep. | No change in toll interval has been shown. Any comfort given to hearers is recorded separately and is not entered as a reduction in the Bell's pressure. | Record distance, duration, trigger, gauges on both sides, interval before and after, and the next fortnightly face count. |"
+    },
+    {
+      "id": "R27-echoing-loss-two-exact-paths",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Echoing Loss* [**Debuff**] } | \"The ringing will not stop — and with it, small pieces of who you were slip away.\" | [The toll acquires a relevant name as a tower face appears or turns outward; the marked hearer remains inside the sound for a full interval.] | *Target loses 10 Clarity; faces and names begin to blur, and any name heard is written unaltered to the name log.* **[10 Lament DMG [Lament]]** | When a person marked by the First Toll remains inside the audible boundary through one full toll interval. |",
+      "new": "| { *The Echoing Loss* [**Debuff**] } | \"The ringing will not stop — and with it, small pieces of who you were slip away.\" | [The toll acquires a relevant name as a tower face appears or turns outward, or sustains around a marked hearer who does not leave the sound.] | *Target loses 10 Clarity; faces and names begin to blur, and any name heard is written unaltered to the name log.* **[10 Lament DMG [Lament]]** | When either (a) at least three people inside the tower boundary speak of, search for, or grieve a lost child, or (b) a person marked by the First Toll remains inside the audible boundary through one full toll interval. |"
+    },
+    {
+      "id": "R28-chorus-scope",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Chorus of the Missing* [**Attack**] } | \"Every child the bell mourns speaks at once — a chorus that breaks the steady heart.\" | [The bell gathers the grief of every missing child into one overwhelming peal through tower and streets.] | *Crushing Lament pressure; no personnel Sorrow Gauge is inferred. Every new face position and name heard is recorded before any further intervention.* **[24-36 Lament DMG [Lament]]** | After a direct strike on the bell or an extraction/separation violation. |",
+      "new": "| { *The Chorus of the Missing* [**Attack**] } | \"Every child the bell mourns speaks at once — a chorus that breaks the steady heart.\" | [The bell gathers the grief of every missing child into one overwhelming peal through tower and streets.] | *Crushing Lament pressure to all hearers in the tower district; no personnel Sorrow Gauge is inferred. Every new face position and name heard is recorded before any further intervention.* **[24-36 Lament DMG [Lament]]** | After a direct strike on the bell or an extraction/separation violation. |"
+    },
+    {
+      "id": "R29-field-use-grammar",
+      "kind": "short syntax correction",
+      "careful": false,
+      "old": "and on a The Orphaned Bell piece the use ends at that point",
+      "new": "and on an Orphaned Bell piece the use ends at that point"
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.027  clean   183 grams  Trivia\n 0.026  clean   114 grams  Operational Parameters\n 0.016  clean   257 grams  기록 (Registrum)\n 0.008  clean   663 grams  Combat Record\n 0.005  clean   550 grams  Activation Behavior\n 0.002  clean  1067 grams  M.A.W. Equipment\n 0.000  clean  1372 grams  Apex Record\n 0.000  clean   615 grams  감각 묘사 (Flavor Text)\n 0.000  clean   437 grams  이야기 (Narratio)\n 0.000  clean   254 grams  관찰 기록 (Observation Log)\n 0.000  clean   232 grams  Appearance\n 0.000  clean   206 grams  이야기 보고 (Story Log)\n 0.000  clean   182 grams  Behavior\n 0.000  clean   118 grams  최종 관찰 (Final Observation)\n 0.000  clean   101 grams  Origin\n 0.000  clean    80 grams  SECC Classification\n 0.000  clean    56 grams  증언 (Testimonium)\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   32   3  | **Han-Energy yield** | 20–28 per successful work cycle, taken off the tower's own sounding and never from the bell itself |\n   56   1  | **Resistance** | 45% against Lament pressure; 35% against other pressure types |\n   86   4  | { *The Unanswered Vigil* [**Ultimate**] } | \"The bell rings and rings for children who will never come home — and the whole towe\n  164   1  > **This Relic is Capable of Sector / Facility Alteration**\n  223   2  **Activation reporting order (channelled use):** channel opened → names recited and in what order → elapsed time at each ten secon\n  282   2  **Effect:** +3 stat bonus while working the source holding, entered at issue against the wielder's name\n  436   3  **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)\n  443   1  **Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the interval series\n  506   5  - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-B-01 — special tower in Zone B; containe\nGENERIC 0.003  (22 shared shingles)  SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-A__SIDE_CODEX_The_Orphaned_Bell.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-B__MAW-W_The_Laments_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-C__MAW-S_The_Laments_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-D__MAW-G_Laments_Edge.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-A__SIDE_CODEX_The_Orphaned_Bell.md": "4126d31f814961620fad13b82dbd51165f69e5df34744585ac5b526b4a221cc1",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-B__MAW-W_The_Laments_Requiem.md": "f9f11796332348be875f008c0aa140b3f0f23fe0a8032934c8cd5d310405ee5f",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-C__MAW-S_The_Laments_Shroud.md": "ee544911684202b7d14d556bad4dc241acfd9b93c82954967314248b10842cd3",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-D__MAW-G_Laments_Edge.md": "399d2fd539654ca5e1e687c09b6f7b06e39b00d739568559c6faa18ef4bcfd17"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IVδ-001_The_Orphaned_Bell_고아의_종](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-001_The_Orphaned_Bell_%EA%B3%A0%EC%95%84%EC%9D%98_%EC%A2%85.md \"SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md\")]",
+  "table_link": "[[C-IVδ-001 The Orphaned Bell](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-001_The_Orphaned_Bell_%EA%B3%A0%EC%95%84%EC%9D%98_%EC%A2%85.md \"SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md\")]",
+  "reading": {
+    "before_lines": 515,
+    "before_bytes": 53524,
+    "final_lines": 515,
+    "final_bytes": 56481
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 15,
+    "physical_form_rows_unchanged": 300,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 4,
+    "digit_sequence_change": "The unsupported Han Dust range `1–10 tons`, Row 4's personnel `15%` Sorrow Gauge rise, and the Core threshold `90%` were removed/replaced. The governing threshold is Side A's Gauge Overflow ≥65% during an active toll."
+  }
+}
