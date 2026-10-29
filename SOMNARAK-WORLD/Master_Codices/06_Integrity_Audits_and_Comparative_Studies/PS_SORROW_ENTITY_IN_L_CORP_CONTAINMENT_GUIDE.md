@@ -165,6 +165,24 @@ SECC Coherence and Potency usually rise together, but transported entities frequ
 - **Qliphoth Counter** is set from behavior, not tier alone: non-breaching, activation-only entities may carry **Counter: —** with their activation written as special rules instead; event/transformation entities carry 1–3 by documented sensitivity (what lowers it must be named from the dossier — a published denial, a resemblance introduced, a gaze sustained — never "random").
 - **Work favorability** is translated from the dossier's own Behavior table: Gauge *Decrease* → the analog work is favored; *Stable* → Common; *Increase* → disfavored and normally locked by management rule; *N/A* → prohibited under the Two-Work-Type Law (Section IV). Outcome ranges are then set inside the tier's PE band.
 
+### Counters — the inverse pair (Sorrow Gauge behavior ↔ Qliphoth Counter)
+
+The two archives count toward the same event from opposite ends, and every counter conversion in this Table is an **inversion, never a transcription of the numeral**. Somnarak counts **up**: Gauge pressure rises through the Behavior table toward the activation/breach threshold. L Corp counts **down**: the Qliphoth Counter falls toward 0, where the dossiered breach event waits. The conversion therefore reads the dossier's pressure mechanics and re-expresses them as distance-to-zero:
+
+| Counter element | PS source (dossier) | LC conversion |
+|---|---|---|
+| Distance to breach | Activation threshold and the sensitivity of the Behavior table | Counter value inside the Section III tier band, set by behavior per the derivation above |
+| Pressure rises | Behavior outcomes marked Gauge *Increase*; named aggravators (a denial published, a resemblance introduced, a gaze sustained); threshold crossings | Counter **−1** per dossiered aggravator event; every condition quoted verbatim in the managerial guidelines |
+| Pressure falls | Behavior outcomes marked Gauge *Decrease*; dossiered soothers and return conditions | Counter **+1**, up to its intake maximum, on the named condition only |
+| No movement | Gauge *Stable* | No change |
+| The zero point | Activation, breach or transformation threshold reached | Counter 0 → the dossiered event behavior (Section VI states where filed) |
+| Reset | Termination/return behavior completes in the source record | Counter restored to its intake value once the entity is returned to the unit; suppression alone never raises it mid-event |
+| No counter exists | Non-breaching, activation-only entities | **Counter: —**, with the activation written as special rules (the Section VIII roster's Kind Echo is the standing example) |
+
+- **Meltdowns.** Converted units enter the facility meltdown rotation like natives; the Heavy Han Density of Section I.3 raises the *global* meltdown rate, which is a facility cost of housing SEs at all, and is priced as such. A meltdown landing on an inanimate SE does **not** lift the Two-Work-Type Law: it is answered with Instinct/Insight only, or allowed to lapse into the counter-zero event. Completing meltdown work discharges the meltdown; it moves the counter only where the dossier's own rules say the work moves pressure.
+- **Tool use counters.** Dossier activation limits convert in kind, one for one: per-day uses, charge counts, charge-up timers (the Train's four lights are the native shape of this), and single-use consumption (Section X.5) all become the Tool's use counter with the dossier's figures verbatim. Read-only dossier **tallies** — counts of things that have already happened, such as the learned-face count of 61 — are Basic-Info statistics, never use counters; Extraction does not turn a memorial into a meter.
+- **Degree read.** Degree I: counter live as derived here. Degree II: live only where the dossier supplies activation/event behavior. Degree III: no counter; thresholds remain Somnarak-side gauges (Preface table).
+
 
 ---
 
@@ -199,6 +217,19 @@ For entities classified with a Subject manifestation (e.g., *The Whispering Conf
   * *Reason:* An inanimate monument or geographic district has no biological anatomy to strike.
   * *Consequence:* The kinetic energy of the agent's weapon deflects off the entity's indestructible bedrock. The reflected shockwave shatters the chamber's containment glass, instantly reducing the Qliphoth Counter to 0 and triggering a catastrophic breach.
 
+### 3. Operative Attribute Conversion (paired by work, not by name)
+
+Dossier work rules name the Somnarak operative attribute each `-han` work tests; facility work names its own governing stat. The pairing is by **work function**, and levels I–V carry across numerically:
+
+| Work pair | PS tested attribute | LC governing stat |
+|---|---|---|
+| Viderehan / Instinct | Clarity | Fortitude |
+| Ferrehan / Insight | Resilience | Prudence |
+| Flerehan / Attachment | Composure | Temperance |
+| Pugnahan / Repression | Resolve | Justice |
+
+Pools convert separately from stats: operative **Composure (the pool) reads as SP**, and Composure Load (Section VII) then reduces maximum SP as filed; operative HP is unchanged across frames. Where a dossier management rule names a *secondary* requirement (Section IV.1's Prudence clause for Attachment survival, for instance), the dossier's rule binds as written — the table gives the primary pairing, never an override. E.G.O stat requirements stated in an item record convert along the same pairing before Composure Load is applied.
+
 ---
 
 ## Section V: Damage Type & Elemental Inter-Translation
@@ -211,6 +242,8 @@ When Sorrow Entities inflict damage on Lobotomy Corp employees, damage types tra
 | **Lament (Deep Blue /   탄식   )** | **WHITE Damage** | Sanity Points (SP) | Protect with high White-resistant E.G.O suits (e.g., *Smile*, *Sound of a Star*). Drains SP and freezes movement speed. |
 | **Weight (Black /   무게   )** | **BLACK Damage** | Dual HP & SP Simultaneously | Protect with balanced hybrid suits (e.g., *Justitia*, *Black Swan*). Inflicts gravitational burden that increases work task duration. |
 | **Void (Pale White /   공허   )** | **PALE Damage** | Percentage Max HP (Death Trauma) | Protect strictly with Pale-resistant gear (0.5 or lower, e.g., *Paradise Lost*). Bypasses physical armor. |
+**Entity-side resistances (the suppression profile).** The table above converts damage the SE *deals*; damage the SE *takes* while breaching converts from the dossier's own defensive record — armor, material immunities, element affinities — into LC resistance multipliers in the same color order. Filed values are transcribed, never rebalanced for fairness. Where the dossier files no defensive profile, the Breach Form takes neutral **1.0 across all four colors** and the absence is entered as a management note: Extraction does not invent an armor profile to make a suppression tidy. Place-bodies in their Containment Form are not suppressed through this profile at all — they are worked, per Section VI, until they take a form that can be.
+
 
 ---
 
@@ -221,7 +254,7 @@ When Sorrow Entities inflict damage on Lobotomy Corp employees, damage types tra
 |       PLACE-SE BREACH PHENOMENON // L CORP DEPARTMENT CORRUPTION       |
 +------------------------------------------------------------------------+
 | SUBJECT: SE-C-IVw-001 The Maw Transferred to Extraction Department     |
-| Normal State: Contained Room | Instinct/Insight ONLY | Qliphoth: 3     |
+| Normal State: Contained Room | Instinct/Insight ONLY | Qliphoth: 1     |
 | Breach Trigger: Counter reaches 0 or Repression Work performed         |
 +------------------------------------------------------------------------+
 | METAMORPHOSIS EVENT: Place-to-Subject Corridor Transformation          |
@@ -251,6 +284,10 @@ When a **Place-Tale Sorrow Entity** breaches in Lobotomy Corporation (most notab
 - **Work Rule Shift:** While mobile, the entity can now be engaged with direct kinetic weaponry (Repression / Pugnahan) and empathetic counter-resonance (Attachment / Flerehan).
 - **Suppression Protocol:** Gebura's Disciplinary Team must intercept the colossus before it reaches the Central Command core room. Use long-range PALE and WHITE weaponry to shatter its acoustic resonance before its footsteps crush the Sephirah containment pillars.
 
+### Skill, Dawn-Rider and Ultimate Conversion (all entities, not only Places)
+
+The phases above are worked on the Maw, but the conversion of *abilities* is general. Dossiered skills convert as the Breach Form's attack patterns: damage type via Section V, values inside the Section III attack band (a dossier figure filed outside its band is flagged, not rescaled — the Section III discipline), and pattern, reach and cadence carried over as written. Skills keyed off containment conditions rather than combat convert instead as managerial special rules attached to the relevant work. **Dawn-table riders and Ultimates keep their dossiered triggers verbatim**: an HP-percentage trigger reads against the converted HP bar, a count-based trigger against the Section III counter or use-counter it derives from, and a trigger the source record leaves unresolved converts as a HOLD under Section IX — never completed by the intake team. At Degree II the patterns run as Han mechanics under LC names; at Degree III this subsection does not apply.
+
 ---
 
 ## Section VII: E.G.O Extraction via Extraction Department (Binah)
@@ -278,11 +315,13 @@ If an agent's SP hits 0 while equipped with Sorrow E.G.O:
 | M.A.W. Suit | E.G.O Suit | The four resistance multipliers carry over in LC color order (RED = Grudge, WHITE = Lament, BLACK = Weight, PALE = Void). Suit appearance follows the linked item record, not the entity's body. |
 | M.A.W. Stigma | E.G.O Gift | Slot carries over (Head, Tail→Brooch-equivalent by department fitting practice, Hand/Arm, etc.); the dossier's acquisition probability is recorded as the observed Gift rate; conferred-not-manufactured Stigmas remain Gift-only and cannot be produced with PE-Boxes. |
 
-Where the source dossier and its linked item records disagree on a piece's form, profile or even existence (extraction prohibited on one page, a full set on another), Extraction produces **nothing** and files the disagreement: an unresolved equipment record is a management fact, not a license to synthesize the missing piece.
+Where the source dossier and its linked item records disagree on a piece's form, profile or even existence (extraction prohibited on one page, a full set on another), Extraction produces **nothing** and files the disagreement: an unresolved equipment record is a management fact, not a license to synthesize the missing piece. Producible quantity and PE-Box cost otherwise follow standard LC observation-gated production keyed to the Section IX unlock track; where the dossier files a finite set count, that count caps production absolutely.
 
 ---
 
 ## Section VIII: Departmental Assignment Roster (Facility Case Studies)
+
+Department is assigned by containment need as read in the conversion note: Place-bodies and site-housed entities to Architecture/Extraction adjacency, where the building itself is the instrument; Tool conversions to the department whose work loop consumes them; heavy Lament (WHITE) profiles away from clerk-dense floors. The roster below predates the designation overhaul and shows SECC codes; designations per Section II govern any new assignment.
 
 ### 1. `SE-C-Iα-000` *The Kind Echo* (  친절한 메아리   / *Chinjeolhan Meari*)
 - **Department:** Training Department (Hod)
@@ -380,6 +419,11 @@ Each conversion below shows its three-field reads, so the letter and class can b
 | 08. FORM & TELLS  : Whole, shifted or fragment form housed; breach     |
 |     completes at full scale or Well-attenuated 25-50%; never           |
 |     correct the 0### serial or the unattested quote                    |
+| 09. COUNTERS      : Counter value, triggers & reset per S.III;         |
+|     meltdown and Tool use-counters declared; tallies stay              |
+|     statistics, never meters                                           |
+| 10. INTEGRITY     : Appendix A matrix consulted; no system in          |
+|     use without a conversion row in both directions                    |
 +========================================================================+
 ```
 
