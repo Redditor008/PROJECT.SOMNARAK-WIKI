@@ -17,78 +17,17 @@
     }
   },
   "active_batch": {
-    "number": 204,
-    "status": "CLOSED",
+    "number": 205,
+    "status": "OPEN",
     "required": 5,
     "queue": [
-      "C-IIβ-170",
-      "N-IIIβ-156",
-      "C-IVβ-042",
-      "C-Vδ-002",
-      "C-IVγ-176"
+      "N-IVδ-909",
+      "O-IIβ-119",
+      "N-Iα-518",
+      "C-Iα-884",
+      "C-IIβ-290"
     ],
-    "reviewed": {
-      "C-IIβ-170": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_01_UNRUNG.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "N-IIIβ-156": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_02_DEADLINE.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IVβ-042": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_03_THE_ANGRY_MAIDEN.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-Vδ-002": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_04_THE_GRIEVING_COLOSSUS.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      },
-      "C-IVγ-176": {
-        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_05_LOOM_OF_UNLIVED_DREAMS.md",
-        "no_change": false,
-        "whole_final_reread": true,
-        "checks": {
-          "verify": "PASS",
-          "tpl": "PASS",
-          "sectfile": "PASS",
-          "wikistd": "PASS",
-          "sect": "PASS"
-        }
-      }
-    }
+    "reviewed": {}
   },
   "dossiers": [
     {

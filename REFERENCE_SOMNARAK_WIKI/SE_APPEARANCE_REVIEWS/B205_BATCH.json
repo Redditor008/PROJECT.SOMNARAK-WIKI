@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "batch": 205,
+  "status": "OPEN",
+  "completed_units": 0,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "N-IVδ-909",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md",
+      "words": 7943,
+      "sha256": "31331e091c47a11d550bd070669d600b3cabb82dfd62066ba443fbaaf333c472",
+      "prior_batch": 147,
+      "shape": "Subject"
+    },
+    {
+      "unit": 2,
+      "designation": "O-IIβ-119",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md",
+      "words": 6946,
+      "sha256": "ca580a496f224b42ee76762b21876f7434680f3ee754bee2b0421356e6d57c28",
+      "prior_batch": 148,
+      "shape": "Non-Subject"
+    },
+    {
+      "unit": 3,
+      "designation": "N-Iα-518",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md",
+      "words": 8458,
+      "sha256": "8612840b0c64042e6665619162e550671cbccbc5b621fbd8808cf095098486b5",
+      "prior_batch": 148,
+      "shape": "I-Relic"
+    },
+    {
+      "unit": 4,
+      "designation": "C-Iα-884",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md",
+      "words": 6379,
+      "sha256": "ac9ee1354ef580bd963ab9be57c0759cd49e29b741c99c25851214e654a6aa82",
+      "prior_batch": 146,
+      "shape": "O-Relic"
+    },
+    {
+      "unit": 5,
+      "designation": "C-IIβ-290",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-290_Broken_Compass_부서진_나침반.md",
+      "words": 7668,
+      "sha256": "6b89745a045aba4bfae9edf6ac5bc1838c62ca7f46cefe73123a0934248c587d",
+      "prior_batch": 155,
+      "shape": "A-Relic"
+    }
+  ],
+  "opened_at": "2026-10-29",
+  "completed": 0,
+  "units": []
+}
