@@ -68,6 +68,13 @@ When translating an Abnormality from Project Moon into a Somnarak Sorrow Entity,
 
 ---
 
+
+### Designation cross-reference (read with the SE → Abnormality overhaul)
+
+Designations convert in one direction by **assignment**, not arithmetic. The transported-entity code `X-YY-0###` is constructed under **Section II of the [PS Sorrow Entity in L Corp Containment Guide](PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md)**: the category letter is read from Sorrow Category + Origin + The Tale, the class number from Entity Type/Tool Type + Physical Form + Appearance (current body governing), and the serial is `0` + the SECC number — assigned once and never renumbered. In the PM → PS direction of this guide, an incoming Abnormality's LC code is therefore recorded as an **alias** in the SECC profile; the SECC designation itself is constructed from Somnarak fields (origin, Coherence, Potency, registry number), never transliterated from the LC code. The case studies in Section X predate the designation law and pair codes by hand (e.g. `F-01-69` → `SE-C-IVδ-069 [GS]`); treat those pairings as worked precedents, not as a numbering rule, and apply the overhaul's Section II to any new conversion so the two archives stay mutually retrievable.
+
+---
+
 ## Section IV: Tactical Spatial Engine & Combat Physics
 
 Project Moon's abstracted clash slots and dice rolls are replaced by a deterministic, spatial combat engine:
@@ -301,6 +308,8 @@ Every Relic dossier must include a 4-tier progressive unlock table:
 | 01. NAME CHECK    : Authentic Korean literary/industrial identity      |
 | 02. ORIGIN CHECK  : Grounded in Somnarak 6,000-year history / Four C   |
 | 03. CODE CHECK    : Standard SECC format [Origin]-[Rank]-[Potency]-... |
+| 03b. ALIAS CHECK  : LC code kept as alias; X-YY-0### per the SE to     |
+|                     Abnormality overhaul S.II (never renumbered)       |
 | 04. DURABILITY    : 150-1000 HP for Ranks I-IV; 10000+ HP for Rank V   |
 | 05. GEOGRAPHY     : Planetary landmasses classified as Geography (N/A) |
 | 06. WORK TYPES    : Inanimate SEs (O, P, T, H) restricted to TWO works |
