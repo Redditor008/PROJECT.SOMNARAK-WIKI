@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIIγ-373": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_04_SPREADING_WELL.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -826,20 +838,14 @@
       "designation": "C-IIIγ-373",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-373_Spreading_Well_스며든_우물.md",
       "status": "held",
-      "note": "Five supported repairs: three Appearance markers distinguish fixed rim from spreading channels; the Appearance protocol retains rim sounding and seep/depth observations; Suit prose no longer denies the Weight protection recorded in its table.",
-      "outcome": "unresolved whole-file logical relationship",
-      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_02_SPREADING_WELL.md",
+      "note": "16 source-bound repairs split 4 short / 12 careful. A fixed rim with thin, never-withdrawing channels no longer pools knee-deep, geysers on being struck, empties in one rush or floods at 65%; the rows now record channel reads, following behavior, dam reappearance, sluice venting and unacknowledged-end arrival at the ≥75% threshold. Network extent and equipment forms remain held.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_04_SPREADING_WELL.md",
       "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_02_SPREADING_WELL.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-A__SIDE_CODEX_Till_Someone_Understands.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-B__MAW-W_The_Spreading_Requiem.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-C__MAW-S_The_Spreading_Shroud.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-D__MAW-G_The_Spreading_Vial.md",
-        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
-        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-D__MAW-G_The_Spreading_Vial.md"
       ],
       "whole_before_reread": true,
       "whole_final_reread": true,
@@ -10141,6 +10147,14 @@
       "batch": 206,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_03_FIRST_TEAR.md",
       "history_proof": "Batch 104 unit 1 (9fc48d41) already dispositioned the exact SE-1030 A/B/C/D source and equipment pair for C-Vδ-290 before B206, so this recheck adds no Types or Weapon credit.",
+      "all_types_credit": false,
+      "weapon_credit": false
+    },
+    {
+      "designation": "C-IIIγ-373",
+      "batch": 206,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_04_SPREADING_WELL.md",
+      "history_proof": "Batch 112 unit 1 (00b08f0) already cross-reviewed the exact SE-373 A/B/C/D set and the exact SE-373-B weapon before B206, so this recheck adds no Types or Weapon credit.",
       "all_types_credit": false,
       "weapon_credit": false
     }

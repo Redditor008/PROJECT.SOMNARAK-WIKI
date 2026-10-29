@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 206,
   "status": "OPEN",
-  "completed_units": 3,
+  "completed_units": 4,
   "required_units": 5,
   "queue": [
     {
@@ -52,7 +52,7 @@
     }
   ],
   "opened_at": "2026-10-30",
-  "completed": 3,
+  "completed": 4,
   "units": [
     {
       "unit": 1,
@@ -683,6 +683,211 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 5,
         "digit_sequence_change": "Removed ~1–10 ton dust from a tear-weighted crystal and a 15% surge from the forced-fall row; moved the Ultimate from 65% (inside the 60–80% opening band) to the file ≥90% threshold. Glow series 0.38/0.41, 600/600, armor multipliers and +3 preserved."
+      }
+    },
+    {
+      "unit": 4,
+      "designation": "C-IIIγ-373",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-373_Spreading_Well_스며든_우물.md",
+      "words": 8240,
+      "sha256": "087976e814107e7d0c74e921d04ba3f1d07d72b77e5b143f08c837f5e634a7e0",
+      "prior_batch": 155,
+      "shape": "O-Relic",
+      "name": "Spreading Well",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_04_SPREADING_WELL.md",
+      "before_words": 8240,
+      "after_words": 8665,
+      "base": "a6e100ddf43ca067867e042893e5e49e9c747aa6",
+      "final_sha256": "996d46335498142a3ec0463e6475c64969c6eb10499dfb687cca83ff2f6eb681",
+      "summary": "16 source-bound repairs split 4 short / 12 careful. A fixed rim with thin, never-withdrawing channels no longer pools knee-deep, geysers on being struck, empties in one rush or floods at 65%; the rows now record channel reads, following behavior, dam reappearance, sluice venting and unacknowledged-end arrival at the ≥75% threshold. Network extent and equipment forms remain held.",
+      "commentary": "The Well injures nobody; it delivers. Its dangers are a worker quietly walking a channel out of the perimeter, a dam that merely moves the problem into a street, and a sluice whose discharge lands in occupied houses. The table now says so, the classification rim matches the file's own correction, and blade, shroud and vial all run on consent — a mapped route, two named witnesses, a receiver who agreed.",
+      "reasoning": "**Fixed rim, moving water.** B155 repaired three Appearance markers but left the SECC wording held; the primary's own operational note already corrects the misreading, so the classification now says fixed rim, spreading water.\n\n**Escalation is reach, not eruption.** Pool, geyser and disgorgement contradicted eleven years of unchanged soundings and two filed dam failures; overload now lives where the file puts it — in the operator-held sluice and its in-order closure.\n\n**Consent is the mechanism.** Channel Opening, Linked Carrier and the Vial carry SE-373-B/C/D limits (consented route, witnesses at both ends, close after acknowledgment). The Banner now names the safety-case dependency and the occupied-end consequence the Warden Record proves.",
+      "history": "Prior full logical review B155_02_SPREADING_WELL (pre-R-34) held the appearance after five narrow repairs. Batch 112 unit 1 (00b08f0) already cross-reviewed the exact SE-373 set and weapon; official counters do not move.",
+      "holds": [
+        "Perpetually extending, never-withdrawing network versus Side-A extraction after a channel recedes; natural arrival, sluice activation and gauge response not fully crosswalked.",
+        "Slender clear blade versus wet branching blade versus delta-fork archetype; cold wrapper versus branching wet seams and dry identity line; colourless vial versus blue moving channel.",
+        "Localised opening and surface channels versus whole-Desolate underground network; ends with no physical connection.",
+        "Household series (61 interviews, 47 requests) versus safety-case arrival reporting; no consent or staffing resolution invented."
+      ],
+      "split": [
+        4,
+        12
+      ],
+      "repairs": [
+        {
+          "id": "R01-secc-fixed-rim",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Physical Form** | Mixed — A stone well whose rim will not stay put: it spreads across the ground in thin branching channels of blue sorrow, its water seeping far from the opening to places it should not reach. The stone is damp and salt-cold; the water weeps rather than flows, and smells of cold rain on old cloth. |",
+          "new": "| **Physical Form** | Mixed — A fixed stone rim whose water will not stay put: thin branching channels of blue sorrow spread across the ground far from an opening that stays exactly where it is. The stone is damp and salt-cold; the water weeps rather than flows, and smells of cold rain on old cloth. |"
+        },
+        {
+          "id": "R02-secc-movement",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Movement** | Stationary — a structure or location. |",
+          "new": "| **Movement** | Stationary rim; the channels extend and have never withdrawn from ground reached. |"
+        },
+        {
+          "id": "R03-pressure-clarity",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — a specific grief arriving unattributed, understood but not one's own |"
+        },
+        {
+          "id": "R04-log-drain-clarity",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "| 1 Minute | The weight arrives in the chest rather than the hands, and the operator becomes aware of the far ends: how many there are, and that some of them are lit. | Past sixty seconds the channel consumes 4 Composure every ten seconds. Plan the disengagement before the figure matters. |",
+          "new": "| 1 Minute | The weight arrives in the chest rather than the hands, and the operator becomes aware of the far ends: how many there are, and that some of them are lit. | Past sixty seconds the channel consumes 4 Clarity every ten seconds. Plan the disengagement before the figure matters. |"
+        },
+        {
+          "id": "R05-resistance-stake-line",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 35% against Lament pressure; 25% against other pressure types — untested here, since the Well injures nobody and has never been hostile to anything. |",
+          "new": "| **Resistance** | 35% against Lament pressure; 25% against other pressure types as formal ratings — untested here, since the Well injures nobody and has never been hostile to anything. Working protection is the stake line: channels read from the line and never stepped in, every new end traced and acknowledged, and sluice runs held by an operator who closes gate first and conduit second. |"
+        },
+        {
+          "id": "R06-seep-channel-read",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Seep* [**Debuff**] } | \"Water seeps from the well — not from the top, but through the stones, through the earth, spreading outward.\" | [The Well's sorrow-water permeates the ground; the target's feet are wet.] | *Target suffers -10 Composure; the grief is in the ground itself.* **[10 Lament DMG [Lament]]** | When the target stands near the Well. |",
+          "new": "| { *The Seep* [**Debuff**] } | \"Water seeps from the well — not from the top, but through the stones, through the earth, spreading outward.\" | [Standing over a live channel, the worker receives the grief it is carrying: specific, complete, and attached to nobody they know.] | *The worker suffers -10 Clarity. Read the channel from the stake line — grief, site left, end it is running toward — and never step into it.* **[10 Lament DMG [Lament]]** | When a worker stands over a live channel to read it under Viderehan. |"
+        },
+        {
+          "id": "R07-rising-pool-following",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Rising Pool* [**Debuff**] } | \"The water spreads — a widening pool, ankle-deep, then knee-deep, and always cold.\" | [The Well's sorrow expands; the pool grows toward the target.] | *Target loses 10 Composure; the water is rising.* **[10 Lament DMG [Lament]]** | When the target lingers. |",
+          "new": "| { *The Rising Pool* [**Debuff**] } | \"The water is no deeper. It is a line in the dust, and you have begun walking along it without deciding to.\" | [Nothing pools or rises; the depth at the rim has not changed in eleven years. What rises is the pull to follow a grief to its destination on foot.] | *The worker loses 10 Clarity. The second worker takes their arm — following stops when somebody does — and the seven-day check watches for unexplained walking.* **[10 Lament DMG [Lament]]** | When a worker lingers over a channel past the reading without relief. |"
+        },
+        {
+          "id": "R08-geyser-dam-reappear",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Geyser* [**Attack**] } | \"The well erupts — a column of sorrow-water, straight up, then raining down.\" | [A geyser of well-water blasts upward and cascades.] | *Inflicts Lament pressure and one soaking, heavy wound.* **[14-22 Lament DMG [Lament]]** | When the Well is struck. |",
+          "new": "| { *The Geyser* [**Attack**] } | \"Nothing erupts. By morning the channel is flowing through a street it had never visited, and the dam is a monument to the attempt.\" | [The Well has never been hostile and does not retaliate. A dammed or diverted channel simply reappears beyond the work within a day, as both filed attempts ended.] | *Heavy Lament pressure on Clarity for the crew, and a new unacknowledged end to trace. Stop the work, re-stake outward only, and notify the district reached before the watch closes.* **[14-22 Lament DMG [Lament]]** | When a channel is dammed, diverted or stepped into. |"
+        },
+        {
+          "id": "R09-disgorgement-sluice-vent",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Disgorgement* [**Attack**] } | “The well empties in one rush — every drop it has ever carried, and every end it was carrying them to.” | [The complete network discharges at the point of overload rather than along its channels.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Well is overloaded. |",
+          "new": "| { *The Full Disgorgement* [**Attack**] } | “The well empties in one rush — every drop it has ever carried, and every end it was carrying them to.” | [The Well does not empty. What empties is a mishandled sluice: released out of order or abandoned, it vents uncontained resonance across the sector and posts an unlogged discharge to the network's far ends.] | *A heavy Lament vent: foundation saturation and caustic blue leakage locally, arrivals at occupied ends within days. Close gate first, conduit second, then close the discharge record before the operator stands down.* **[24-36 Lament DMG [Lament]]** | When a sluice run is released out of order, abandoned, or allowed to overload. |"
+        },
+        {
+          "id": "R10-sorrow-sea-threshold-acknowledge",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Sorrow Sea* [**Ultimate**] } | “The channels stop delivering and start arriving — all of them, everywhere at once.” | [The network turns from one-directional carriage into a flood across the field.] | *All in range take Lament pressure for three turns in the sorrow sea.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Sorrow Sea* [**Ultimate**] } | “The channels stop delivering and start arriving — all of them, everywhere at once.” | [Every channel sounds at once along the whole stake line — the only time the network reads as one thing — and unacknowledged mourning arrives at every end together.] | *All in range take Lament pressure on Clarity for three turns. Acknowledge each linked site, trace and name every new end, and notify every district reached; do not dam the channels.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥75% activation threshold while new ends stand unacknowledged. |"
+        },
+        {
+          "id": "R11-relic-banners-safety-case",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "> **This Relic can Benefit the Facility**\n> **This Relic is Capable of Sector / Facility Alteration**\n> **This Relic Vents Uncontained Lament Resonance if the Conduit is Released Out of Order**",
+          "new": "> **This Relic is a designated meltdown-mitigation measure in the facility safety case — load-bearing, not optional**\n> **Everything discharged into it arrives somewhere, including occupied households**\n> **This Relic Vents Uncontained Lament Resonance if the Conduit is Released Out of Order**"
+        },
+        {
+          "id": "R12-weapon-channel-opening",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — in the way this network deals it: not a blow but a delivery, and what it leaves the target holding is a grief that is specific, complete, and attached to nobody they know.",
+          "new": "**Ability:** *Channel Opening* — clears up to three obstructions from one consented grief route, dealing Lament damage against the Mind — emotional stability and willpower — only as the blockage gives. It is never used to deliver grief to a convenient witness, widen flow for extraction, or clear a route without acknowledging the affected site; origin, destination, consent and residual flow are mapped before the blade is dried. (Blade form remains held across its three records.)"
+        },
+        {
+          "id": "R13-shroud-two-witness",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Wards the Mind — emotional stability and willpower — against Lament pressure. The resistance table also records Weight protection; this network-specific use account does not replace those separate resistance values.",
+          "new": "**Ability:** *Linked Carrier* — wards the Mind — emotional stability and willpower — against Lament pressure so a follower can walk a grief route without identity absorption. Binding requires named witnesses at origin and destination, and the dry identity line is checked before every crossing; a carrier who becomes an endpoint is the first failure. The resistance table also records Weight protection; this network-specific use account does not replace those separate resistance values."
+        },
+        {
+          "id": "R14-vial-consenting-witness",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Carries a small amount of sorrow to a distant witness.",
+          "new": "**Ability:** Carries a small amount of sorrow to a *consenting* distant witness. Both witnesses are confirmed before opening, and the Vial closes after acknowledgment, not after emotional resolution; consent assumed, or a witness appointed as absorber, is a failure, not a use."
+        },
+        {
+          "id": "R15-use-notes-distinct",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Nothing in this set equips a worker against the network; each piece is the Well in small, and each one takes what the Well takes — grief the bearer never wept, minor joys gone numb, and a carried weight that resolves only when somebody else acknowledges it. The Armoury enters the symptom against the wielder rather than the piece, and the grade records how stably the extraction took and nothing about the cost column beside it.",
+          "new": "Nothing in this set equips a worker against the network; each piece is the Well in small, but each takes its toll at a different station — the blade's bearer weeps with sorrow from both ends of the route cleared, the shroud's carrier goes numb to minor joys beneath two sites at once, and the vial's courier feels the grief at origin and destination for the whole journey. The Armoury enters the symptom against the wielder rather than the piece, and the grade records how stably the extraction took and nothing about the cost column beside it."
+        },
+        {
+          "id": "R16-consequences-carrier-consent",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- The Well equipment gives the bearer the capacity to carry a sorrow to someone who will understand it, and charges them the grief at both ends of the journey — the one they are carrying and the one waiting to receive it.",
+          "new": "- The Well equipment does not hand its bearer a sorrow to dispose of: the blade only clears a consented route, the shroud only preserves its carrier between two named witnesses, and the vial only delivers to someone who agreed to receive it — and each charges the grief at both ends of the journey regardless."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIIγ-373_Spreading_Well_스며든_우물.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.038  clean   131 grams  Trivia\n 0.025  clean   278 grams  기록 (Registrum)\n 0.014  clean   586 grams  감각 묘사 (Flavor Text)\n 0.011  clean   175 grams  Operational Parameters\n 0.010  clean   798 grams  Combat Record\n 0.009  clean   106 grams  Behavior\n 0.009  clean   818 grams  M.A.W. Equipment\n 0.006  clean  1304 grams  Warden Record\n 0.000  clean   575 grams  Activation Behavior\n 0.000  clean   403 grams  이야기 (Narratio)\n 0.000  clean   290 grams  관찰 기록 (Observation Log)\n 0.000  clean   226 grams  Appearance\n 0.000  clean   206 grams  이야기 보고 (Story Log)\n 0.000  clean   171 grams  Origin\n 0.000  clean   123 grams  최종 관찰 (Final Observation)\n 0.000  clean    47 grams  SECC Classification\n 0.000  clean    45 grams  증언 (Testimonium)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   56   1  | **Resistance** | 35% against Lament pressure; 25% against other pressure types as formal ratings — untested here, since the Well\n   86   7  | { *The Sorrow Sea* [**Ultimate**] } | “The channels stop delivering and start arriving — all of them, everywhere at once.” | [Ev\n  148   1  Spreading Well is a Fragment (III) Place of Major (γ) potency, Place-Lament manifestation, Lament expression, O-Relic tool class, \n  214   1  **Appearance:** a slender blade of Lament Han-crystal, close to clear, that shows a faint line of light down its length when it is\n  222   2  **Ability:** *Channel Opening* — clears up to three obstructions from one consented grief route, dealing Lament damage against the\n  274   3  | **Before use** | Wielder, piece, the day's reading, and a baseline written down by somebody other than the bearer — the recorded\n  279   1  **Stat interpretation:** The grade records how cleanly the sorrow came off the network, not what a bearer carries out of it. On th\n  349   5  **Interaction method:** Take each party alone first, over as many cycles as the season allows, and hold the reading until the seep\n  362   3  **Interaction procedure:** The solo baseline is the control and is not optional: three cycles minimum, with the seep rate, the sta\n  410   7  **Operational interpretation:** This file is read whole or not at all: the uncontainable network, the one-directional delivery, th\n  471   8  The minute records the objection as **correct in all three parts**. It records that a notification and standing-refusal register —\n  483   5  - **Field detail:** Its defining element is Lament, and its registered location is The Desolate, near The Scar.\nGENERIC 0.007  (46 shared shingles)  SE-C-IIIγ-373_Spreading_Well_스며든_우물.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_02_SPREADING_WELL.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-A__SIDE_CODEX_Till_Someone_Understands.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-B__MAW-W_The_Spreading_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-C__MAW-S_The_Spreading_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-D__MAW-G_The_Spreading_Vial.md"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_02_SPREADING_WELL.md": "431bbb0e5820c640c47463d4a180fb562dba2041d80ea21264c0649b35ea5527",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-A__SIDE_CODEX_Till_Someone_Understands.md": "c6cc7aaaa9270f3b231289ed90df88939c85415aab970efa9923af0453071b04",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-B__MAW-W_The_Spreading_Requiem.md": "11abab565509c8c86ffd9bfd1dc73aeffc494732784b284f0f4d27719803bb38",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-C__MAW-S_The_Spreading_Shroud.md": "e09f2e0ef1f30425adc618bde534df2f19922577153c23fbbf7d0c5de1df5a2b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-D__MAW-G_The_Spreading_Vial.md": "40cd8604ebea464da63d15512bf36f2d8be58aff0eb57edb5ac076e2adc86cc3"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIIγ-373_Spreading_Well_스며든_우물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-373_Spreading_Well_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%9A%B0%EB%AC%BC.md \"SE-C-IIIγ-373_Spreading_Well_스며든_우물.md\")]",
+      "table_link": "[[C-IIIγ-373 Spreading Well](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-373_Spreading_Well_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%9A%B0%EB%AC%BC.md \"SE-C-IIIγ-373_Spreading_Well_스며든_우물.md\")]",
+      "reading": "Frozen primary SHA256 087976e814107e7d0c74e921d04ba3f1d07d72b77e5b143f08c837f5e634a7e0 read whole (492 lines) beside B155_02_SPREADING_WELL and SE-373-A/B/C/D read completely. Final primary re-read after exact replay.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 236,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 5,
+        "digit_sequence_change": "Removed a 15% surge from the disgorgement row and moved the Ultimate from 65% (top of the 45–65% opening band) to the file ≥75% threshold. Weapon 7–12, armor multipliers, Tail 4%/+2 Clarity and the 1,106/788/318 map series preserved."
       }
     }
   ]
