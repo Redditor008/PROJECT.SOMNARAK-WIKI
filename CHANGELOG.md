@@ -16,7 +16,7 @@ Added **`R-34 — Full-File Logical Audit Before Any Fix`** and completed Dawn o
 
 Fresh ranking of the final 5 pending dossiers by `LC_ALL=C wc -w` ascending. Queue: Unrung `C-IIβ-170`, Deadline `N-IIIβ-156`, The Angry Maiden `C-IVβ-042`, The Grieving Colossus `C-Vδ-002`, Loom of Unlived Dreams `C-IVγ-176`. Reviews proceed under R-34 full-file logical audit, including table cell-count, parsed final-cell and Trigger-semantics verification. [Opening record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_OPEN.json).
 
-**Unit 2 — Deadline `N-IIIβ-156`: HELD, +0.** Sixteen repairs (3 short / 13 careful; 9,409→9,738 words) under R-34: direct SE-156; verified plans and Time With Company replace generic equipment claims. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_02_DEADLINE.md).
+**Unit 2 — Deadline `N-IIIβ-156`: HELD, +0.** Sixteen repairs (3 short / 13 careful; 9,409→9,752 words) under R-34: direct SE-156; verified plans and Time With Company replace generic equipment claims. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_02_DEADLINE.md).
 
 **Unit 1 — Unrung `C-IIβ-170`: HELD, +0.** Sixteen repairs (3 short / 13 careful; 9,250→9,587 words) under R-34: direct SE-170; clocked delay and the answered warning replace the swinging, destructible bell. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_01_UNRUNG.md).
 

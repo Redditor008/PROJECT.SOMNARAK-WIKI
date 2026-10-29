@@ -8,7 +8,7 @@
 
 Fresh ranking of the final 5 pending dossiers (`LC_ALL=C wc -w` ascending; designation tie-break). Queue: `C-IIβ-170` Unrung, `N-IIIβ-156` Deadline, `C-IVβ-042` The Angry Maiden, `C-Vδ-002` The Grieving Colossus, `C-IVγ-176` Loom of Unlived Dreams. All units run under R-34, including Markdown table cell-count, parsed Trigger-cell and Trigger-semantics checks. [Opening record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_OPEN.json).
 
-Unit 2 — **Deadline `N-IIIβ-156`: HELD; credit-barred, +0.** 16 repairs (3s/13c; 9,409→9,738 words); direct SE-156. Two unreconciled readings, a verifier and protected rest now govern the clock room instead of generic Han abilities and a movable clock. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_02_DEADLINE.md).
+Unit 2 — **Deadline `N-IIIβ-156`: HELD; credit-barred, +0.** 16 repairs (3s/13c; 9,409→9,752 words); direct SE-156. Two unreconciled readings, a verifier and protected rest now govern the clock room instead of generic Han abilities and a movable clock. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_02_DEADLINE.md).
 
 Unit 1 — **Unrung `C-IIβ-170`: HELD; credit-barred, +0.** 16 repairs (3s/13c; 9,250→9,587 words); direct SE-170. The bell no longer swings, breaks or resolves by gauge alone; the outside clock, hand signals and a named answer close the session. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_01_UNRUNG.md).
 
