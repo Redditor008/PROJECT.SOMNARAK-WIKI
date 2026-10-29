@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 205,
   "status": "OPEN",
-  "completed_units": 1,
+  "completed_units": 2,
   "required_units": 5,
   "queue": [
     {
@@ -52,7 +52,7 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 1,
+  "completed": 2,
   "units": [
     {
       "unit": 1,
@@ -269,6 +269,279 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 4,
         "digit_sequence_change": "Unsupported 15% Gauge surge removed; Ultimate aligned from 65% (inside the 60-80% opening band) to the file's 90% threshold with a declined-relief condition; locomotion speed removed for a stationary Subject-Mind."
+      }
+    },
+    {
+      "unit": 2,
+      "designation": "O-IIβ-119",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md",
+      "words": 6946,
+      "sha256": "ca580a496f224b42ee76762b21876f7434680f3ee754bee2b0421356e6d57c28",
+      "prior_batch": 148,
+      "shape": "Non-Subject",
+      "name": "Homeless Sorrow",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_02_HOMELESS_SORROW.md",
+      "before_words": 6946,
+      "after_words": 7348,
+      "base": "bd556e179ec59d1285e63142339ecfbfaa5d859d",
+      "final_sha256": "5a3eeb57dc35dfc8a297758e87e95b20da26c441be2f3beeb1f88038697ea092",
+      "summary": "HELD +0 — 26 repairs make the wandering shadow act on departures and reallocations, never on pursuit.",
+      "commentary": "A works schedule repeatedly undoing a rostered chair remains more unsettling than a hunting shadow, and the file is at its best when it trusts that.",
+      "reasoning": "This file is the Non-Subject-shaped recheck because its operational role is Object/Place while SECC still says Subject; the recheck preserves that dispute instead of letting either label silently win.\n\nEvery harmful row now begins from a place event — unacknowledged departure, reassignment, unwitnessed overlap, eviction by light, sector reallocation — because the shadow does not chase anybody; it has been left nowhere to stay.\n\nThe set's shared symptom (address language eroding) is separated from its three distinct costs, and the Veil is demoted from load-bearing dependency to optional witnessed support.",
+      "history": "Batch 90 already reviewed the Weapon title/form pair and Batch 136/148 revisited without credit; this R-34 recheck claims no fresh credit. HELD +0.",
+      "holds": [
+        "Subject versus Object/Place classification. Held — the central B148 hold, retested and still undecidable.",
+        "Kukri versus Lens weapon identity/forms. Held.",
+        "Per-shift versus per-hour reduction and room-assignment dates. Held.",
+        "Veil colour and Hearth material conflicts. Held."
+      ],
+      "split": [
+        12,
+        14
+      ],
+      "repairs": [
+        {
+          "id": "R01-grade",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Tool / M.A.W. grade** | — · — |",
+          "new": "| **Tool / M.A.W. grade** | β · β (Moderate) |"
+        },
+        {
+          "id": "R02-pressure-clarity-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Identity / memory pressure |",
+          "new": "| **Primary pressure** | Clarity — the worker's hold on where they belong and which rooms are theirs to be in |"
+        },
+        {
+          "id": "R03-pressure-clarity-combat",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary Pressure** | Composure |",
+          "new": "| **Primary Pressure** | Clarity |"
+        },
+        {
+          "id": "R04-clash-light-low",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "2. **Clash:** The session is held in the assigned room with the lights at working level and no higher.",
+          "new": "2. **Clash:** The session is held in the assigned room with the lamp on its low setting and no higher."
+        },
+        {
+          "id": "R05-escalation-not-always-empty",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "Escalation here is a relocation, and it is always preceded by an empty room.",
+          "new": "Escalation here is a relocation, and it is almost always preceded by an empty room, a room taken back, or a room flooded with light."
+        },
+        {
+          "id": "R06-containment-no-standard",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- Standard R.D. containment protocols apply.",
+          "new": "- No pursuit and no floodlighting: Flerehan and Pugnahan are invalid for this record, and both recorded light-driving attempts spread it through connected rooms."
+        },
+        {
+          "id": "R07-observation-note-substance",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- See Combat Record for engagement history.",
+          "new": "- Eleven shadow-thefts in nine years, every one recovered within a day; no fatalities and no permanent injury."
+        },
+        {
+          "id": "R08-trivia-contained-sense",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- **Containment detail:** It is not contained and is not fixed. It stays because somebody is there; the whole of the measure is an assigned room, a low lamp, and a chair that is rostered rather than volunteered for.",
+          "new": "- **Containment detail:** It is contained only in the administrative sense, and it is not fixed. It stays because somebody is there; the whole of the measure is an assigned room, a low lamp, and a chair that is rostered rather than volunteered for."
+        },
+        {
+          "id": "R09-resistance-occupancy",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 25% against Void. There is nothing solid to resist; it is cold dense shadow with no fixed shape, and the two attempts to drive it with light are recorded under Escalation rather than here. |",
+          "new": "| **Resistance** | 25% against Void as a pressure rating only — there is no solid target to strike and confrontation is invalid for this record. Working protection is occupancy: a witnessed dim room with an open exit, a threshold witness who can name the sitter, and no pursuit or floodlighting, both of which spread it instead of resisting it. Drain rises by 5 for each space cleared or reallocated while it is loose. |"
+        },
+        {
+          "id": "R10-following-unacknowledged-departure",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Following* [**Debuff**] } | \"Your shadow moves when you do not — just a little, just enough to notice.\" | [The Shadow detaches and follows the target independently.] | *Target suffers a Void mark; their shadow is no longer theirs.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Shadow separates. |",
+          "new": "| { *The Following* [**Debuff**] } | \"Your shadow moves when you do not — just a little, just enough to notice.\" | [The shadow attaches to the departing worker's own shadow; it is not chasing, it has been left nowhere to stay.] | *The worker suffers a Void mark and Clarity loss — their shadow is no longer only theirs. A threshold witness names the worker, the room and its exit; the departure is entered as a short shift, with the reason unassessed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker leaves the assigned room before relief arrives, or departs unacknowledged. |"
+        },
+        {
+          "id": "R11-lengthening-rota-rule",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Lengthening* [**Debuff**] } | \"It is in the next room before you are, and it was not there when you looked.\" | [The shadow precedes anybody who is moving on, which is the only circumstance in which it moves first.] | *1 Void. The worker arrives somewhere new and finds it already occupied.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker who has been reassigned to a new workspace walks to it. Reliable enough that the works office is consulted before the rota is drawn. |",
+          "new": "| { *The Lengthening* [**Debuff**] } | \"It is in the next room before you are, and it was not there when you looked.\" | [The shadow precedes anybody who is moving on, which is the only circumstance in which it moves first.] | *1 Void and Clarity loss. The worker arrives somewhere new and finds it already occupied. Workers moved between workspaces in the last month are taken off this rota, because they are followed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker who has been reassigned to a new workspace walks to it. Reliable enough that the works office is consulted before the rota is drawn. |"
+        },
+        {
+          "id": "R12-cold-touch-overlap",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Cold Touch* [**Attack**] } | \"The shadow touches your shadow — and where they overlap, you go cold.\" | [The Shadow merges briefly with the target's, draining warmth.] | *Inflicts Void damage; a portion of the target's presence stolen.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shadow catches up. |",
+          "new": "| { *The Cold Touch* [**Attack**] } | \"The shadow touches your shadow — and where they overlap, you go cold.\" | [Where the worker's shadow crosses the settled dark in an unwitnessed room, the two overlap and the warmth leaves.] | *Heavy Void damage to Clarity; a portion of the worker's presence and entitlement to the room is taken. Sit down, name the room, its exit and the witness outside it; do not flood the space with light.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a followed worker enters an unwitnessed room and their shadow overlaps the shadow waiting there. |"
+        },
+        {
+          "id": "R13-swallowed-no-surge",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Swallowed Shadow* [**Attack**] } | \"You cast nothing, in a room with a lamp in it.\" | [The target's own shadow is taken and does not return for some hours.] | *3 Void and a 15% Gauge surge; the eleven affected workers all describe the loss as the moment they stopped feeling entitled to be in the building.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When it is driven, lit, or ordered out of a room. |",
+          "new": "| { *The Swallowed Shadow* [**Attack**] } | \"You cast nothing, in a room with a lamp in it.\" | [The target's own shadow is taken and does not return for some hours.] | *3 Void. The eleven affected workers all describe the loss as the moment they stopped feeling entitled to be in the building. Stop driving it: reopen the assigned room dim and witnessed and let the shadow return on its own.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When it is driven, lit, or ordered out of a room. |"
+        },
+        {
+          "id": "R14-shadowless-threshold-reallocation",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Shadowless* [**Ultimate**] } | \"Nobody in the sector casts one, and the lamps go on working perfectly.\" | [Every shadow in the zone is taken at once for the duration.] | *2 Void per cycle for three cycles to everyone in the sector.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | Above 65%, once, in the week the sector's lower offices were reallocated — nineteen rooms in four days. |",
+          "new": "| { *Shadowless* [**Ultimate**] } | \"Nobody in the sector casts one, and the lamps go on working perfectly.\" | [Every shadow in the zone is taken at once for the duration.] | *2 Void per cycle for three cycles to everyone in the sector. Freeze further reallocations where the Warden can, keep B-116 occupied with the lamp low, and post witnesses at thresholds rather than clearing rooms. Recorded once, in the week nineteen rooms changed hands in four days.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥60% activation threshold while sector spaces are being reallocated, cleared or repurposed. |"
+        },
+        {
+          "id": "R15-tension-witness-not-no-equipment",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "1. **Tension:** The worker goes to the assigned room, confirms the lamp is on its low setting, and sits down. There is no perimeter and no equipment; the preparation consists of deciding to stay.",
+          "new": "1. **Tension:** The worker goes to the assigned room, confirms the lamp is on its low setting, and sits down. There is no perimeter to build; the preparation is naming the room, its exit and the threshold witness — and deciding to stay. The M.A.W. set is optional support, never a substitute for the occupancy itself."
+        },
+        {
+          "id": "R16-consequences-piece-costs",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- The set's toll is a loss of address. Wielders stop being able to say which rooms are theirs to be in — not confusion about the building, which they navigate perfectly, but about permission.",
+          "new": "- The set's common detectable symptom is a loss of address in the wielder's wording, but the costs are not pooled: the Weapon takes small nameless memories, the Veil leaves the wearer faintly absent and calling home *the accommodation*, and the Hearth hands the settled grief to its bearer when the light goes out."
+        },
+        {
+          "id": "R17-breach-effect-belonging",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "| **Effect** | Identity and memory begin to dissolve, draining clarity. |",
+          "new": "| **Effect** | Occupied rooms acquire the stillness of a place everyone has already abandoned; personnel lose Clarity and feel their mourning — and then themselves — has no address in the building. |"
+        },
+        {
+          "id": "R18-response-sequence-keep-occupied",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "**Response sequence:** hold the corridor without lighting it, confirm the event is an expansion rather than an activation, withdraw personnel who have been reassigned to a new workspace in the last month — they are followed, reliably enough that the works office is now consulted before the rota is drawn — and remove nonessential personnel, and apply this condition: Give the sorrow a witnessed location; do not flood the area with light. Do not use an unlisted Work Type as an improvised countermeasure.",
+          "new": "**Response sequence:** hold the corridor without lighting it, confirm the event is an expansion rather than an activation, and keep the assigned room occupied — do not clear rooms, which is the trigger. Take personnel reassigned to a new workspace in the last month off this rota, since they are followed, and apply this condition: give the sorrow a witnessed location; do not flood the area with light. Do not use an unlisted Work Type as an improvised countermeasure."
+        },
+        {
+          "id": "R19-veil-held-room",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Turns Void aside from the soul, which is the only pressure here. The veil is what allows a worker to sit in an unlit room with it for a full shift and still know where they live.",
+          "new": "**Ability:** *Held Room* — strongly resists Void inside one witnessed location by making the room feel inhabitable rather than abandoned. When the threshold witness names the wearer and confirms an open exit, the Veil repels one wave of room-to-room drift. It supports the occupancy; it is not what makes sitting the shift possible, and it needs the second person at the doorway."
+        },
+        {
+          "id": "R20-hearth-consent",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Creates a small area where displaced sorrow can settle safely.",
+          "new": "**Ability:** *Let It Settle* — creates a small low-light area where displaced sorrow can settle, only while a person consents to remain in the circle and a follow-up witness has accepted the later account. It cannot confine anyone or substitute for actual shelter."
+        },
+        {
+          "id": "R21-use-notes-distinct-costs",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Every piece in this set takes the same thing in the same order: the wielder's sense of having a place. It is slow, it does not impair work, and it is detectable only in word choice — *the accommodation*, *the room I'm in at the moment*, *wherever they put me next*. The Armoury's check is a transcript of the wielder talking about where they live, taken at issue and again at return, read by somebody who is not their supervisor.",
+          "new": "Every piece in this set is betrayed by the same symptom — the wielder's sense of having a place eroding in their wording: *the accommodation*, *the room I'm in at the moment*, *wherever they put me next*. The costs underneath stay piece-specific (nameless memories; faint absence; the settled grief carried after the light goes out) and must be logged separately. The Armoury's check is a transcript of the wielder talking about where they live, taken at issue and again at return, read by somebody who is not their supervisor."
+        },
+        {
+          "id": "R22-final-observation-fail",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "| Follows the worker until they can remain in darkness. The sorrow is seen clearly; Homeless Sorrow is fully recorded. | Reveals traces of those who passed through. The gauge climbs and Homeless Sorrow withdraws without revelation. |",
+          "new": "| Follows the worker until they can remain in darkness. The sorrow is seen clearly; Homeless Sorrow is fully recorded. | The raised light drives it into corners and connected unwatched spaces. The gauge climbs on the empty room, and the station spends the following days finding it again in other people's offices. |"
+        },
+        {
+          "id": "R23-unattended-usual-path",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- An unattended room is this holding's only real escalation path, and it is a slow one:",
+          "new": "- An unattended room is this holding's usual escalation path, and it is a slow one:"
+        },
+        {
+          "id": "R24-breach-banner-follows",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "> *\"Homeless Sorrow has broken free. Stalks personnel from their own shadows.\"*",
+          "new": "> *\"Homeless Sorrow has broken free. It follows personnel in their own shadows.\"*"
+        },
+        {
+          "id": "R25-stat-interp-earliest-cost",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "**Stat interpretation:** A β-grade set whose cost is a single changed word and whose carrier never notices it.",
+          "new": "**Stat interpretation:** A β-grade set whose earliest detectable cost is a single changed word and whose carrier never notices it."
+        },
+        {
+          "id": "R26-observation-word-home",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- Three pieces; the cost is the word *home*, and the check is a transcript rather than an examination.",
+          "new": "- Three pieces; the first detectable cost is the word *home*, and the check is a transcript rather than an examination."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.023  clean   129 grams  Trivia\n 0.016  clean   252 grams  관찰 기록 (Observation Log)\n 0.015  clean   194 grams  Breach Behavior\n 0.010  clean   583 grams  Appearance\n 0.010  clean   797 grams  Combat Record\n 0.004  clean   566 grams  감각 묘사 (Flavor Text)\n 0.000  clean   510 grams  M.A.W. Equipment\n 0.000  clean   369 grams  이야기 보고 (Story Log)\n 0.000  clean   342 grams  이야기 (Narratio)\n 0.000  clean   330 grams  기록 (Registrum)\n 0.000  clean   220 grams  Watch Record\n 0.000  clean   210 grams  Expansion Behavior\n 0.000  clean   183 grams  Operational Parameters\n 0.000  clean   156 grams  Origin\n 0.000  clean   106 grams  Behavior\n 0.000  clean    77 grams  최종 관찰 (Final Observation)\n 0.000  clean    45 grams  증언 (Testimonium)\n 0.000  clean    38 grams  SECC Classification\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   84   8  | { *Shadowless* [**Ultimate**] } | \"Nobody in the sector casts one, and the lamps go on working perfectly.\" | [Every shadow in th\n  121   6  | **Identification** | Verify these observations against the SECC code before work or contact begins; this district holds more tha\n  203   3  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each space reallocated, cleared or repurposed in the sector while it \n  301   4  **Observation method:** Record the first sign, which is a room going cold from the corners; the first sensation, which is the impu\n  355   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  441   3  - **Record detail:** Check the designation before approach. More than one record in this district is made of displacement, and the\nGENERIC 0.005  (26 shared shingles)  SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-A__SIDE_CODEX_Homeless_Sorrow.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-B__MAW-W_The_Shadow_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-C__MAW-S_The_Shadow_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-D__MAW-G_The_Shadow_Hearth.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-A__SIDE_CODEX_Homeless_Sorrow.md": "26c8f244a6eece2ed47009dce50de4c7c54db6dc03090fa8068d4f1f2a556d90",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-B__MAW-W_The_Shadow_Lens.md": "28b7e4b4abf5fd902fffc77a7d4b360d401b43c54fb7c10b99a2a037789cf83b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-C__MAW-S_The_Shadow_Veil.md": "bf9045c586026db188c43bef1d06214cc4aa65a52f80f4cb45f96485bc348596",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-D__MAW-G_The_Shadow_Hearth.md": "d669d6cdecacae8c0c422e0e41a72df2e827d169d302b96a282e73c2bd1a2940"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-119_Homeless_Sorrow_%EB%96%A0%EB%8F%84%EB%8A%94_%EA%B7%B8%EB%A6%BC%EC%9E%90.md \"SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md\")]",
+      "table_link": "[[O-IIβ-119 Homeless Sorrow](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-119_Homeless_Sorrow_%EB%96%A0%EB%8F%84%EB%8A%94_%EA%B7%B8%EB%A6%BC%EC%9E%90.md \"SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md\")]",
+      "reading": "R-34 recheck of B148_01: complete frozen primary at 448 lines / 6,946 words, complete direct SE-119-A/B/C/D, Registry rows 358-361, and the B148 receipt treated as claims to verify. All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 241,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Unsupported 15% Gauge surge removed; Ultimate anecdotal above-65% trigger replaced by the file's ≥60% activation threshold during reallocations."
       }
     }
   ]
