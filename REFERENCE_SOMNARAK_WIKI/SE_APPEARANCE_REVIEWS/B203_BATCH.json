@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 203,
   "status": "OPEN",
-  "completed_units": 1,
+  "completed_units": 2,
   "required_units": 5,
   "queue": [
     {
@@ -42,7 +42,7 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 1,
+  "completed": 2,
   "units": [
     {
       "unit": 1,
@@ -285,6 +285,257 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 4,
         "digit_sequence_change": "The unsupported β Han Dust range and personnel +15% Gauge surge were removed; Side A's two-metre/seven-minute recognition interval was restored."
+      }
+    },
+    {
+      "unit": 2,
+      "designation": "O-IIIγ-369",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md",
+      "words": 8980,
+      "sha256": "80ce3ecb55c165a8de1cf27c8b271cabe137328998cceaf4a5967cc56292d454",
+      "name": "Broken Whisper",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_02_BROKEN_WHISPER.md",
+      "before_words": 8980,
+      "after_words": 9299,
+      "base": "32b9866ba0366a75636d9439dace91593e42eedb",
+      "final_sha256": "f5e6a0d2c1ddf8fd782da2329b0012b60aa75eba046a1b61d9bc1a69fbbc86a0",
+      "summary": "HELD +0 — 23 repairs keep listening safe and make completion itself the enemy.",
+      "commentary": "The most dangerous sentence in the tunnel is the one a kind listener finishes for the dead.",
+      "reasoning": "Proper listening lowers fragment rate; harm begins when a listener completes, arranges or confers fragments into a sentence.\n\nThe exact sources preserve emotional truth without ownership: two independent listeners, identity anchor, wording unknown, and no quotation manufactured from Bell pressure.\n\nTool contact is held activation ending by setting the object down; strapping/wearing, timed damage and source cutting are not supported.",
+      "history": "The primary already carries a 2026-10-12 full-set source review and Batch 97 exact-source equipment work; material form/naming/extraction forks remain. HELD +0, no fresh Types, Weapon or SE credit.",
+      "holds": [
+        "Murmur Astrolabe sphere versus Susurrus Requiem blade; no transition. Held.",
+        "Broken Whisper versus Susurrus item naming. Held.",
+        "Shard-taking versus echo/bestowal extraction. Held.",
+        "Registry Accessory/5% versus Tail/4%. Held.",
+        "Sender identity and actual wording remain unknown. Held."
+      ],
+      "split": [
+        6,
+        17
+      ],
+      "repairs": [
+        {
+          "id": "R01-movement-floating-drift",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Movement** | Stationary — a body or drop of liquid. |",
+          "new": "| **Movement** | Floating — drifts in the underground Han currents without reliably following the mapped flow. |"
+        },
+        {
+          "id": "R02-pressure-clarity-ownership",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — keeping heard fragments distinct from the listener's own memory |"
+        },
+        {
+          "id": "R03-vessel-no-destruction-route",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No authorized destruction route — set the I-Relic down and lower Gauge below 25% |"
+        },
+        {
+          "id": "R04-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R05-tool-held-not-worn",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Use Mode** | **Equippable / mounting use** |",
+          "new": "| **Use Mode** | **Held activation only — not worn, strapped or mounted** |"
+        },
+        {
+          "id": "R06-resistance-identity-anchor",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 35% against Lament, the pressure the object is made of; 25% against everything else the tunnel can bring — no resistance rating applies to the words themselves |",
+          "new": "| **Resistance** | 35% against Lament, the pressure the object is made of; 25% against everything else the tunnel can bring — no resistance rating applies to the words themselves. State the listener's identity anchor before contact, keep every fragment on its own line, and never let resistance to pressure be mistaken for protection against false ownership. |"
+        },
+        {
+          "id": "R07-resolution-hold-name-set-down",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | Keep the transcript a list — one transcriber, one timekeeper, nobody conferring, and no fragment joined to another — and the Sorrow Gauge falls below 25% |",
+          "new": "| **Resolution Condition** | If the I-Relic is held and a permitted name spoken, receive only the emotional message without reconstructing wording; then set the object down, keep the transcript as separate fragments, and lower the Sorrow Gauge below 25%. |"
+        },
+        {
+          "id": "R08-collapsed-word-completion-attempt",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Collapsed Word* [**Debuff**] } | \"The whisper tried to form — and collapsed — and the rubble of the failed word stings.\" | [The Whisper's structural failure scatters meaning-fragments at the target.] | *Target suffers -10 Composure; the broken words cut.* **[10 Lament DMG [Lament]]** | When the target tries to listen. |",
+          "new": "| { *The Collapsed Word* [**Debuff**] } | \"The whisper tried to form — and collapsed — and the rubble of the failed word stings.\" | [A listener supplies the missing ending and the invented completion collapses back through their Clarity.] | *The listener suffers Clarity pressure. Strike the supplied word from the transcript as listener invention, restore the break, and continue one fragment per line without conferring.* **[10 Lament DMG [Lament]]** | When a listener tries to complete a collapsing half-word. |"
+        },
+        {
+          "id": "R09-debris-arrangement-not-listing",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Debris of Speech* [**Debuff**] } | \"Each fragment carries a piece of the intended message — and none of them fit together.\" | [The Whisper's fragments are irreconcilable; the target cannot assemble meaning.] | *Target loses 10 Composure; the puzzle is impossible.* **[10 Lament DMG [Lament]]** | When the target gathers fragments. |",
+          "new": "| { *The Debris of Speech* [**Debuff**] } | \"Each fragment carries a piece of the intended message — and none of them fit together.\" | [Speech debris overwhelms a worker who stops listing fragments and begins arranging them toward a sentence.] | *The worker loses Clarity. Separate the lines again, preserve gaps, and hand the transcript to the second worker before any order is treated as meaning.* **[10 Lament DMG [Lament]]** | When a worker gathers or arranges fragments to assemble meaning. |"
+        },
+        {
+          "id": "R10-sharp-fragment-physical-disturbance",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Sharp Fragment* [**Attack**] } | \"A shard of broken whisper, hardened by collapse, flies free.\" | [A word-shard launches.] | *Inflicts Lament pressure and one thin, ringing cut.* **[14-22 Lament DMG [Lament]]** | When the fragments are disturbed. |",
+          "new": "| { *The Sharp Fragment* [**Attack**] } | \"A shard of broken whisper, hardened by collapse, flies free.\" | [Collapse debris is struck, swept or moved as refuse and a hardened word-shard breaks loose.] | *Inflicts Lament pressure and one thin, ringing cut. Stop clearing the route by force; leave linguistic fragments separate and remove only nonlinguistic collapse residue under the recorded procedure.* **[14-22 Lament DMG [Lament]]** | When collapse debris or word-fragments are physically disturbed. |"
+        },
+        {
+          "id": "R11-full-collapse-joined-transcript",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Collapse* [**Attack**] } | \"The whole list goes at once — every half-word, every break — and the silence afterwards is worse than the cutting.\" | [The transcript fails together; the fragments arrive as one mass of language and none of it is complete.] | *A heavy Deep Blue avalanche; the target's Sorrow Gauge surges 15% as the fragments cohere without ever finishing.* **[24-36 Lament DMG [Lament]]** | When the Whisper is forced, or when a transcript is joined under pressure. |",
+          "new": "| { *The Full Collapse* [**Attack**] } | \"The whole list goes at once — every half-word, every break — and the silence afterwards is worse than the cutting.\" | [A joined transcript fails as one false sentence, sending every fragment back without verified order or ownership.] | *Heavy Lament pressure; no Gauge surge is inferred. Seal the joined page as a listener finding, restart separate lists with transcribers who do not confer, and do not quote the invented sentence as a worker's words.* **[24-36 Lament DMG [Lament]]** | When a transcript is joined under pressure or a name is used to force a complete wording. |"
+        },
+        {
+          "id": "R12-ultimate-coherence-at-75",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Every Word Falls Apart* [**Ultimate**] } | \"Every whisper in the tunnel collapses together, and the debris of language buries the run.\" | [The collapse spreads down the passages; every fragment in range breaks at once.] | *All in range suffer Lament pressure for three turns of broken speech, and no fragment taken during it may be joined afterwards.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% and the list is still being kept. |",
+          "new": "| { *Every Word Falls Apart* [**Ultimate**] } | \"Every whisper in the tunnel collapses together, and the debris of language buries the run.\" | [The tunnel output enters false coherence: fragments arrive in plausible order and begin completing one another before breaking apart across the passage.] | *All personnel in range suffer Lament pressure for three turns. Stop speaking names into the object, separate every listener, and keep each list unjoined; ease of understanding is treated as escalation, not progress.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 75% and fragments begin arriving as continuous, mutually completing speech. |"
+        },
+        {
+          "id": "R13-battle-resolution-set-down",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** The cycle closes when the Sorrow Gauge falls below 25% and the transcript has been filed as a list with its breaks intact — which on this holding means the team left without having made sense of anything.",
+          "new": "3. **Resolution:** Set the object down, stop speaking names into it, and file the fragments as separate lines with uncertainty intact. The cycle closes only when the Sorrow Gauge is below 25% and the second worker has checked that no returned message is being recalled as the listener's own — which means the team leaves without having made sense of anything."
+        },
+        {
+          "id": "R14-consequence-piece-specific-costs",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- Each M.A.W. activation debits the wielder past what the grade ledger records. The pieces drawn from this source take composure, recollection and somatic steadiness in the ordinary way, and take one thing besides: the user's confidence about which of the things they remember being told were ever said to them.",
+          "new": "- Each M.A.W. activation debits the wielder past what the grade ledger records, but the costs stay piece-specific: the Weapon carries weeping and heard-grief/personal-memory confusion, the Shroud numbs minor joys while preserving speaker/recipient separation, and the Bell temporarily removes ordinary whispers. The confidence about which remembered words were one's own is checked where the relevant piece touches it; it is not projected across the set."
+        },
+        {
+          "id": "R15-use-notes-message-ownership",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "The three pieces extend Broken Whisper rather than arm anyone against it. Inside the pattern this file records, they help; outside it the cost arrives early and does not reverse on return — the bearer carrying the grief of an appeal that was never heard, and weeping mid-sentence, most often while making a routine report. That last detail is written into the file because it is the one that gets noticed: a bearer weeping during a report is stood down the same shift, and a bearer weeping between sentences is not.",
+          "new": "The three pieces extend Broken Whisper rather than arm anyone against it. Inside the pattern this file records, they help; outside it the cost arrives early and does not reverse on return — the bearer carrying the grief of an appeal that was never heard, and weeping mid-sentence, most often while making a routine report. That last detail is written into the file because it is the one that gets noticed: a bearer weeping during a report is stood down the same shift, and a bearer weeping between sentences is not.\n\n**Set resonance — Message Without Ownership:** The Bell carries a verified emotional fragment, the Shroud preserves the recipient's separate identity, and the Requiem cuts only collapse debris. Used together, the message can reach a witness without becoming the witness's memory or a reconstructed quotation. If anyone supplies the missing words, the set repeats the invention in the dead workers' voices; that repetition is a failure record, never confirmation. An echo forms only after two listeners independently preserve matching emotional content without fabricating a sentence."
+        },
+        {
+          "id": "R16-tool-10s-held-no-strap",
+          "kind": "careful tool correction",
+          "careful": true,
+          "old": "| 10 Seconds | The object sits in the current until it is taken up, and the first fragment arrives before the strap is fastened; there is no stasis here to describe, only the beginning of a list. | Wearing it opens the field: fragments come as they come, and the bearer carries +10% resistance to Lament while the piece is on them — resistance to the pressure, never to the words. |",
+          "new": "| 10 Seconds | The crystal is taken into the operator's hands from the current and a permitted name is spoken; the first fragment may arrive before the timekeeper is ready, so the list begins before contact. | Holding opens the return; it grants no Lament resistance. The transcriber writes only what arrives, one fragment per line, and the operator does not answer for the message. |"
+        },
+        {
+          "id": "R17-tool-30s-no-cut-claim",
+          "kind": "careful tool correction",
+          "careful": true,
+          "old": "| 30 Seconds | The piece was cut from a shattered object, so the bearer begins hearing with it rather than through it: what they pick up is the murmur of appeals sent up from the deep tunnels and cut off by falling rock, none of them complete. | The benefit and the burden arrive together — focus and reaction hold, composure pays for them, and the bearer starts to need the sentence to make sense. |",
+          "new": "| 30 Seconds | The bearer begins hearing appeals cut off in the deep tunnels, none complete and none verified as a sender's wording. No part of the source is cut, removed or rearranged to make the return intelligible. | Focus and reaction may hold while Clarity pays for the wish to make the sentence finish. Any completion supplied by the listener is marked as listener invention immediately. |"
+        },
+        {
+          "id": "R18-tool-1min-no-timed-damage",
+          "kind": "careful tool correction",
+          "careful": true,
+          "old": "| 1 Minute | The bearer's memory begins filing what they hear as something they once said; the second worker takes over the record from here, because the bearer's own account is no longer reliable. | Past sixty seconds the piece deals 5 Lament damage every 15 seconds; the second worker watches for the moment the bearer repeats a fragment as though quoting themselves. |",
+          "new": "| 1 Minute | The bearer's memory may begin filing what they hear as something they once said; the second worker takes over the record because the bearer's account is no longer reliable. | The second worker watches for the bearer repeating a fragment as though quoting themselves and ends contact by having the object set down. No timed damage cycle is recorded. |"
+        },
+        {
+          "id": "R19-tool-2min-set-down-not-stow",
+          "kind": "careful tool correction",
+          "careful": true,
+          "old": "| 2 Minutes | Past two minutes the joining starts on its own: half-words the bearer transcribed separately cohere into a sentence nobody wrote down. It does not present as a symptom; it presents as having understood. | Past two minutes, or a forced removal without stowing, the bearer suffers the recorded cost — a stranger's last words held as a private recollection — and the piece is not reissued to them. |",
+          "new": "| 2 Minutes | Past two minutes the joining can start on its own: half-words transcribed separately cohere into a sentence nobody wrote down. It does not present as a symptom; it presents as having understood. | Set the object down at once, preserve both independent lists, and refer the bearer for same-day counsellor review. The recorded cost is a stranger's last words held as private recollection. |"
+        },
+        {
+          "id": "R20-story4-no-assembly",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "Work response — Viderehan: Fragments can be assembled into partial histories. (Stable); Ferrehan: Continues whispering until the worker can bear incompletion. (Decrease). It responds positively to patient listening.",
+          "new": "Work response — Viderehan: fragments are listed separately and never assembled into partial histories. (Stable); Ferrehan: continues whispering until the worker can bear incompletion. (Decrease). It responds positively to patient listening."
+        },
+        {
+          "id": "R21-final-joined-list-failure",
+          "kind": "careful final observation correction",
+          "careful": true,
+          "old": "| Continues whispering until the worker can bear incompletion. The sorrow is witnessed; Broken Whisper is fully recorded. | Fragments can be assembled into partial histories. The gauge climbs and Broken Whisper withdraws without revelation. |",
+          "new": "| Continues whispering until the worker can bear incompletion. The sorrow is witnessed; Broken Whisper is fully recorded. | The joined account reads as a partial history, but the history belongs to the listeners. The gauge climbs and Broken Whisper withdraws without revelation. |"
+        },
+        {
+          "id": "R22-sharp-fragment-no-physical-cut",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "*Inflicts Lament pressure and one thin, ringing cut. Stop clearing the route by force; leave linguistic fragments separate and remove only nonlinguistic collapse residue under the recorded procedure.*",
+          "new": "*Inflicts Lament pressure and one thin, ringing break in the listener's recall. Stop clearing the route by force; leave linguistic fragments separate and remove only nonlinguistic collapse residue under the recorded procedure.*"
+        },
+        {
+          "id": "R23-speed-floating-not-fixed",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | N/A — floating object; drift is not directed locomotion, and activation output is measured per turn |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.023  clean  1082 grams  M.A.W. Equipment\n 0.021  clean   769 grams  감각 묘사 (Flavor Text)\n 0.006  clean   462 grams  기록 (Registrum)\n 0.006  clean   803 grams  Combat Record\n 0.003  clean   658 grams  Activation Behavior\n 0.003  clean   386 grams  관찰 기록 (Observation Log)\n 0.000  clean   918 grams  Warden Record\n 0.000  clean   312 grams  이야기 (Narratio)\n 0.000  clean   256 grams  Appearance\n 0.000  clean   239 grams  Behavior\n 0.000  clean   232 grams  이야기 보고 (Story Log)\n 0.000  clean   232 grams  Trivia\n 0.000  clean   226 grams  Operational Parameters\n 0.000  clean   196 grams  Origin\n 0.000  clean   123 grams  최종 관찰 (Final Observation)\n 0.000  clean    48 grams  증언 (Testimonium)\n 0.000  clean    29 grams  SECC Classification\n 0.000  THIN     11 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   85   5  | { *Every Word Falls Apart* [**Ultimate**] } | \"Every whisper in the tunnel collapses together, and the debris of language buries\n  204   2  **Activation reporting order:** name spoken → who spoke it and in what relation to them → first visible change in the fractures → \n  223   1  **Ability:** Deals Lament damage against the Mind — composure, willpower, and the ability to leave a thing unfinished. The strike \n  231   1  **Appearance:** a wrapping shroud of Lament Han-silk with a torn hem that has been left torn — the armoury's standing note on this\n  253   1  **Effect:** +2 Clarity while this piece's source is the subject of the cycle, and nothing at all on any other holding — the set is\n  271   1  | **Before use** | Wielder, piece, and a dated baseline taken by the second worker — how the bearer finishes their own sentences, \n  276   4  **Stat interpretation:** Field performance and human cost are separate axes and the grade only measures the first. An efficient pi\n  278  17  **Full-set source review (2026-10-12):** Reviewed the `I-Relic (Indumentum) · γ (Major)` overview, every local M.A.W. block, Use N\n  303   1  **Observation method:** One transcriber, one timekeeper, and nobody conferring — and the record is kept as a list rather than as a\n  350   1  **Interaction method:** Solo baselines first; without them an interaction study here is two transcripts and a hypothesis. The rela\n  355   7  This holding belongs to a small set of records made from speech that stopped short, and the archive files them together rather tha\n  357   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  363   6  **Interaction procedure:** Take both baselines alone first, bring the two into range along the tunnel rather than across it, and l\n  405   3  **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)\nGENERIC 0.008  (52 shared shingles)  SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-A__SIDE_CODEX_Susurrus.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-B__MAW-W_Susurruss_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-C__MAW-S_Susurruss_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-D__MAW-G_Susurruss_Bell.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-A__SIDE_CODEX_Susurrus.md": "974d1e6c897cff6242541d3af0b350b51c46b75256dba2fcfb1af9ffc1bac93e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-B__MAW-W_Susurruss_Requiem.md": "52187b215d7ea1cd679fb02c49ac0b84e152b8c27621b1f76929b7b4bf24ae50",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-C__MAW-S_Susurruss_Shroud.md": "6c3b19f53515d90df98880af81a68c2ff4710187890710d92448453b6a42ff4f",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-D__MAW-G_Susurruss_Bell.md": "81fa0aa797cfea80baf53edbc368b0351cc45a82b477dc577469aaeb255da706"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-369_Broken_Whisper_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md \"SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md\")]",
+      "table_link": "[[O-IIIγ-369 Broken Whisper](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-369_Broken_Whisper_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md \"SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 476 lines / 8,980 words, complete direct SE-369-A/B/C/D, Registry rows 631–634, dated full-set source review embedded in the primary and Batch 97 history. All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 5,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Removed the unsupported Full Collapse +15% and tool timed-damage/+10% resistance claims; the Ultimate now uses the existing 75% activation threshold with false coherence."
       }
     }
   ]
