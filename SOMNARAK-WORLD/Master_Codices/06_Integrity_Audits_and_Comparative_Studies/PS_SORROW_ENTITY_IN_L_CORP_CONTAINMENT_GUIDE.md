@@ -1,35 +1,69 @@
-# PS SORROW ENTITY IN L CORP CONTAINMENT GUIDE
-## Comprehensive Extraction, Containment & Suppression Manual for Anomalies Transported via The Well
-### Central Command & Extraction Department Technical Operations Codex
+# UNIVERSAL SORROW ENTITY TO ABNORMALITY CONVERSION TABLE
+## PS Sorrow Entity in L Corp Containment Guide — Overhaul Edition
+### A premise-agnostic conversion standard for any story that transforms a Sorrow Entity — fully or partially — into an Abnormality
 
 ```text
 +========================================================================+
 |         LOBOTOMY CORP EXTRACTION DOSSIER // THE WELL ANOMALIES         |
 +------------------------------------------------------------------------+
-| DOCUMENT: PS SORROW ENTITY IN L CORP CONTAINMENT MANUAL                |
-| CLASSIFICATION: SPECIAL EXTRA-DIMENSIONAL COGITO INTRUSION             |
-| ISSUING BODY: EXTRACTION & DISCIPLINARY TEAMS // ANGELA DIRECTIVE      |
+| DOCUMENT: UNIVERSAL SE → ABNORMALITY CONVERSION TABLE                  |
+| CLASSIFICATION: UNIVERSAL CONVERSION STANDARD // ALL STORY USES        |
+| ISSUING BODY: EXTRACTION & DISCIPLINARY TEAMS // ARCHIVE STANDARD      |
 +------------------------------------------------------------------------+
-| PHENOMENON: TRANS-WELL DREDGING OF PLANETARY HAN MATRICES              |
+| SCOPE: ANY INGRESS, ANY STORY — FULL TO PARTIAL TRANSFORMATION         |
 | CONTAINMENT LAWS: WORK TYPE RESTRICTIONS & PLACE-BREACH PROTOCOLS      |
 | OVERHAUL: FULL SE → ABNORMALITY STANDARD // DESIGNATION LAW INCLUDED   |
 +========================================================================+
 ```
 
 
-> *"Manager, we have encountered an unprecedented phenomenological distortion. When the bucket descended into the lowest strata of The Well beneath District 12, it did not draw from the collective unconscious of human minds. It snagged upon an alien fault line—a trans-dimensional siphon dragging liquid sorrow from a world that has wept for four thousand years. These entities do not conform to our standard behavioral matrices. They do not feed on human guilt; they are physical, acoustic condensations of planetary grief. Read this manual carefully before assigning your agents. An error in work selection will not merely cause panic—it will turn your facility floor into living concrete."*  
-> — Angela, Briefing to the Manager
+## Preface — Universal Use: Ingress, Degree, and What Stays Invariant
+
+This document is a **universal conversion table**, not one story's house rules. It exists so that *any* story — facility chronicle, crossover campaign, guest appearance, what-if transport — can transform a Sorrow Entity into an Abnormality **fully or partially** and have both archives still agree on what arrived. No single premise in it is mandatory: *how* the entity crosses (ingress) and *how far* it transforms (degree) are the author's declarations; *what it is called and how its danger reads* are this table's invariant core.
+
+**Every use declares three things** in its conversion note:
+
+1. **Ingress** — how the SE enters the Abnormality frame (Section I lists routes; an author may define another).
+2. **Degree** — how far the transformation goes (table below).
+3. **Retained traits** — for partial degrees, the named SE mechanics that survive conversion, quoted from the dossier.
+
+**Invariant across all uses:** the designation (Section II, assigned once, never renumbered — identical at every degree), the Risk Level read (Section III), the Two-Work-Type Law wherever work is performed (Section IV), and the element correspondence (Section V). A story that changes degree mid-course treats the change as an in-story event; the code does not move.
+
+### Conversion Degrees — Full to Partial
+
+| Conversion field | **Degree I — Full** (true Abnormality) | **Degree II — Anchored** (Abnormality frame, Han heart) | **Degree III — Surface** (guest / interface) |
+|---|---|---|---|
+| Designation `X-YY-0###` + Risk | Applied | Applied | Applied |
+| Substance | Cogito/Enkephalin logic; the SE *is* an Abnormality in-story | Han retained inside the frame; Heavy Han Density applies (Section I) | Han; no ontological change |
+| Energy | PE-Boxes per Section III | PE-Boxes with Han-brine handling | Han-Energy yield as dossiered; PE only if the author adds it |
+| HP read | Tier band of Section III | Dossier Sorrow Gauge checked against the band | Sorrow Gauge unchanged |
+| Work system | Instinct/Insight/Attachment/Repression with favorability from the Behavior table | LC work names over `-han` behavior; dossier management rules bind | Viderehan/Ferrehan/Flerehan/Pugnahan as dossiered (LC names as glosses only) |
+| Damage readout | RED/WHITE/BLACK/PALE | Dual-read: LC colors carrying the Han status effects of Section V | Han elements as dossiered |
+| Breach & Qliphoth Counter | Counter live; breaches roam per LC suppression doctrine | Counter live only where the dossier's activation/event behavior supplies one; transformations per Section VI | No counter; activation/event behavior as dossiered |
+| Equipment | E.G.O per Section VII | E.G.O with Composure Load; per-piece bearer costs retained verbatim | M.A.W. unchanged; E.G.O names may gloss |
+| Origin & Tale | Encyclopedia lore; SECC code as alias | Dual record; Tale remains the operative truth | Somnarak record operative; LC code as alias |
+| Original in Somnarak | Author must state: transferred, copied, or the SE was never there | Author must state transfer vs. reflection-copy | The original stands; this is a visitation or reading |
+
+Degree is chosen per story, not per entity: the same Sorrow Entity may be Degree I in one work and Degree III in another, under the **same designation**, and neither use invalidates the other. What no degree may do is rewrite the dossier's held facts to make conversion easier — unresolved bodies, thresholds and equipment travel as HOLDs (Section IX) at every degree.
 
 ---
 
-## Section I: The Well Dredging & Trans-Dimensional Collision
+## Section I: Ingress Routes & Trans-Dimensional Contact
 
-### 1. The Trans-Dimensional Siphon
+An ingress route explains *how* an SE enters the Abnormality frame; it never changes the designation or the Risk read. Route A is the archive's canonical facility route — the others are standing options, and an author may declare a route of their own in the conversion note with the same standing.
+
+### 1. Route A — The Trans-Dimensional Siphon (The Well)
 In standard Lobotomy Corporation operations, Cogito is injected into human test subjects or drawn from The Well to manifest conceptual archetypes from humanity's collective psyche. 
 
 However, when subterranean extraction drills breach below critical operational depths, The Well's resonance can intersect with the subterranean **Weeping** (  비탄   / *Bitan*, located at -2,000 meters beneath planet Mugenhan). Through this siphon, raw **Han** (  한   / *Fluid and Acoustic Grief*) floods into the extraction pumps, materializing Project Somnarak Sorrow Entities directly into L Corp containment units.
 
-### 2. Physical & Environmental Characteristics in Containment
+### 2. Other standing routes
+
+- **Route B — Cogito Reflection:** the Well (or an equivalent extraction) draws only the *pattern* of the SE; an Abnormality copy manifests while the original stands untouched in Somnarak. Natural pairing: Degree I for the copy, with the alias line recording that it is one.
+- **Route C — Direct Transport:** the entity itself is moved — siphon, portal, containment transfer, or a story-local mechanism the conversion note names. Natural pairing: Degree II or III, since a transported body carries its substance with it.
+- **Route D — Interface / Visitation:** no crossing occurs; the SE is read, summoned, projected or encountered through a local frame for the length of an interaction. Natural pairing: Degree III.
+
+### 3. Physical & Environmental Characteristics in Containment
 When a Sorrow Entity is manifested inside a containment unit:
 - **Chamber Environment:** The sterile white lighting of the unit dims into an indigo-and-crimson twilight. Acoustic monitoring channels pick up a constant harmonic subsonic hum.
 - **Han Brine Contamination:** Instead of clean Enkephalin vapors, the chamber floor accumulates a dark, salt-encrusted brine. The Sanitation Department must cycle thermal incinerators after every work turn to prevent structural corrosion.
