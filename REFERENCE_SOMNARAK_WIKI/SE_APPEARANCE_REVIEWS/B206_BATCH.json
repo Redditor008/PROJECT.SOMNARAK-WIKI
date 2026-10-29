@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "batch": 206,
-  "status": "OPEN",
+  "status": "CLOSED",
   "completed_units": 5,
   "required_units": 5,
   "queue": [
