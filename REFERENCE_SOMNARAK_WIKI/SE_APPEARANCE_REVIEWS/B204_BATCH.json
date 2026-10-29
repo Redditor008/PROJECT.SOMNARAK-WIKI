@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "batch": 204,
+  "status": "OPEN",
+  "completed_units": 0,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "C-IIβ-170",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-170_Unrung_침묵의_종.md",
+      "words": 9250,
+      "sha256": "ef41f2ddfec44085394d47e4edb07bc676b34f88928e563a1e1f815880ba962e"
+    },
+    {
+      "unit": 2,
+      "designation": "N-IIIβ-156",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-156_Deadline_빚의_시계.md",
+      "words": 9409,
+      "sha256": "32ef2dfb081bc2b36721bdb0580f6c3c83ee9c2568a2d3bf66d312314d49498f"
+    },
+    {
+      "unit": 3,
+      "designation": "C-IVβ-042",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md",
+      "words": 9561,
+      "sha256": "74f30b9c27b29e60be791ff1402b110899a6971aaaee7f8531cf7f96c5db9ab2"
+    },
+    {
+      "unit": 4,
+      "designation": "C-Vδ-002",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md",
+      "words": 9822,
+      "sha256": "faf8c35e8d7560d481fdbd5fca824c00a596652ce666793e77f69c48d44a8d73"
+    },
+    {
+      "unit": 5,
+      "designation": "C-IVγ-176",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀.md",
+      "words": 9942,
+      "sha256": "ac38f3e0bbcede96fe902fd29c182748189ac1966e2afa421681348ce0c339ab"
+    }
+  ],
+  "opened_at": "2026-10-29",
+  "completed": 0,
+  "units": []
+}
