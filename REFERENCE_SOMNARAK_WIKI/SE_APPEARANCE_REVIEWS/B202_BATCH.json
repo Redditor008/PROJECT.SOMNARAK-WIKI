@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 202,
   "status": "OPEN",
-  "completed_units": 2,
+  "completed_units": 3,
   "required_units": 5,
   "queue": [
     {
@@ -42,7 +42,7 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 2,
+  "completed": 3,
   "units": [
     {
       "unit": 1,
@@ -519,6 +519,260 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 4,
         "digit_sequence_change": "The unexplained threshold `1`, Speed `2.45 m/s`, δ Han Dust range and Full Recall's personnel 15% Sorrow Gauge surge were removed. The Ultimate changed from the unsupported 65% to the Core Stat/Trivia threshold ≥90%; the separate Corrupt-pulse event scale remains 40% plus 10% per unanswered interval."
+      }
+    },
+    {
+      "unit": 3,
+      "designation": "C-IVδ-219",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md",
+      "words": 8837,
+      "sha256": "a95bca16f3603de60a6953ae9a05cfd6c07eb0fb470330c13ffaf2b1f28f2e40",
+      "name": "Soaking Shard",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_03_SOAKING_SHARD.md",
+      "before_words": 8837,
+      "after_words": 9156,
+      "base": "c5f8a4bb1d4494fb73309800540ec187c345b69e",
+      "final_sha256": "e08b706fb746bc5e3dd92f2987f6c07d2cd1401ddc5445cfbe52b79a6c047947",
+      "summary": "HELD +0 — 22 repairs align the rooted liquid-memory shard with volume-led operation and deliberate, unsealed channel closure.",
+      "commentary": "The governing hazard is a worker's own mourning, so the best protection is also the measurement: leave, tell the outside worker, record a reading rather than a refusal, and take the dry period.",
+      "reasoning": [
+        "Direct identity is exact through C-IVδ-219 [LO], O-Relic tooling, IV/δ, Lament, Gauge 60–80%, pressure 30–66, Observation 2 and item codes; Soaking Shard versus Splinter is held.",
+        "Side A makes the crack an opening rather than a wound: touch or tears opens one liquid-memory channel, witnessing to evaporation/absorption and deliberate closure below 25% resolves it, and the crack is never sealed or struck.",
+        "Combat rebuilt from near/lingers and an impossible whipping shard to contact, rising margin/sump, surface impact, shattering and Gauge ≥90%, preserving two-inside/one-outside, chalk and withdrawal-as-reading."
+      ],
+      "history": "The primary's 2026-10-12 full-set source review and Batch 96 unit 1 already reviewed the exact SE-219 set, so fresh Types, Weapon, or SE Appearance Fix credit is barred. HELD +0.",
+      "holds": [
+        "Title fork: Soaking Shard versus Splinter. Held.",
+        "Flow direction: upward runoff versus downward beading/sump flow. Held.",
+        "Weapon Medium profile and missing local Skewer/falloff versus archetype Short. Held.",
+        "Pendant warmth/blade reversal versus exact cool-until-attack/evaporation release. Held.",
+        "Stigma Tail/4% versus Registry Accessory/5%. Held.",
+        "Original mourner, memory count and upward-flow destination unknown. Held."
+      ],
+      "split": [
+        5,
+        17
+      ],
+      "repairs": [
+        {
+          "id": "R01-operational-pressure-clarity",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — distinguishing a released memory and one's own grief from the volume being measured |"
+        },
+        {
+          "id": "R02-vessel-no",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — rooted O-Relic; striking or shattering is prohibited and releases the full soak rather than resolving it |"
+        },
+        {
+          "id": "R03-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R04-speed-volume-series",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | N/A — fixed object; output is measured by sump volume, chalked wetted margin, profile-gauge height and withdrawal readings |"
+        },
+        {
+          "id": "R05-threat-critical",
+          "kind": "short story correction",
+          "careful": false,
+          "old": "**Threat rating:** Low, in the register's own words, and the file adds the caveat that low here describes the danger and not the work. The hazard is a horror rather than a strike: proximity installs the discovery that a loss believed sealed has been moving the whole time, and the discovery is what the wing has never found a way to uninstall.",
+          "new": "**Threat rating:** Critical (δ). The shard does not strike; proximity installs the discovery that a loss believed sealed has been moving the whole time, and contact can exchange a worker's memory for a released one."
+        },
+        {
+          "id": "R06-resistance-safeguards",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 45 per cent against Lament pressure and 35 against anything else, with the file's own note that the shard does not strike: it seeps, it is rooted in the floor, and what a worker actually resists is the pull of a sealed grief found still moving. |",
+          "new": "| **Resistance** | 45 per cent against Lament pressure and 35 against anything else, with the file's own note that the shard does not strike: it seeps, it is rooted in the floor, and what a worker actually resists is the pull of a sealed grief found still moving. Work from the marked standpoint behind the chalk with two inside and one outside on clock/sump; do not touch crystal or runoff, strike/shatter it, or fill, fuse, cap or polish over the crack. A mourning worker withdraws, the volume ledger takes that withdrawal as a reading, and a dry period follows. |"
+        },
+        {
+          "id": "R07-resolution-deliberate-close",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | The grief is left in the vessel — layers read from the marked standpoint, nothing taken out — and the seep rate falls below the previous session's chalk line. |",
+          "new": "| **Resolution Condition** | The released memory is witnessed to evaporation or absorption, the channel is closed deliberately from behind the chalk, the Gauge falls below 25%, and sump/margin are re-read. No replacement memory is forced into the crack and no crystal is cut or sealed over. |"
+        },
+        {
+          "id": "R08-wet-edge-touch-tears",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Wet Edge* [**Debuff**] } | \"The shard is slick with old tears — and the edge slips through armor like it is not there.\" | [The Shard's sorrow-water lubricates its cut; defense slides off.] | *Target suffers -10 Composure; the wet edge finds every gap.* **[10 Lament DMG [Lament]]** | When the target is near the Shard. |",
+          "new": "| { *The Wet Edge* [**Debuff**] } | \"The shard is slick with old tears — and the edge slips through armor like it is not there.\" | [A channel opens at the wet face and one preserved memory leaves as a liquid vision; the rooted shard does not move or cut.] | *The contacting worker suffers -10 Clarity and may lose a memory in exchange. Record trigger, face response, chalked margin and sump before personnel interpretation.* **[10 Lament DMG [Lament]]** | When touch or falling tears reach the crystal surface. |"
+        },
+        {
+          "id": "R09-drip-rising-margin",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Drip* [**Debuff**] } | \"Each drip from the shard carries a memory — and the memories pool at your feet.\" | [The Shard's runoff accumulates; the target stands in collected grief.] | *Target loses 10 Composure; the pool is rising.* **[10 Lament DMG [Lament]]** | When the target lingers. |",
+          "new": "| { *The Drip* [**Debuff**] } | \"Each drip from the shard carries a memory — and the memories pool at your feet.\" | [The open channel's runoff quickens and the wetted margin advances beyond the previous chalk while the vision remains unfinished.] | *Workers inside lose 10 Clarity to saturation. The outside worker calls rotation from the sump/clock; nobody steps into runoff to inspect it.* **[10 Lament DMG [Lament]]** | When an open channel remains unwitnessed or unfinished and the margin/sump rises between readings. |"
+        },
+        {
+          "id": "R10-slick-cut-impact-output",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Slick Cut* [**Attack**] } | \"The shard whips through the air — trailing water, trailing sorrow, cutting clean.\" | [A water-slicked shard-strike.] | *Inflicts Lament pressure and one clean, soaking wound.* **[14-22 Lament DMG [Lament]]** | When the Shard is struck. |",
+          "new": "| { *The Slick Cut* [**Attack**] } | \"The shard whips through the air — trailing water, trailing sorrow, cutting clean.\" | [Impact marks the surface and liquid output rises along the wet edge; the rooted shard itself does not whip or strike.] | *Inflicts Lament pressure and one soaking emotional wound to personnel inside the margin. Impact stops at once, the crack is read only from the marked standpoint, and no cleaning or repair touches the face.* **[14-22 Lament DMG [Lament]]** | When the crystal is struck or its surface is physically marked. |"
+        },
+        {
+          "id": "R11-full-soak-shattering",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Soak* [**Attack**] } | \"The shard releases every drop it ever held — a blade that becomes a wave.\" | [The store gives out at once, and everything the vault has kept since the last dried season crosses the chamber in one move.] | *A heavy Deep Blue deluge; the gauge jumps 15 at a stroke.* **[24-36 Lament DMG [Lament]]** | When the surface is broken. |",
+          "new": "| { *The Full Soak* [**Attack**] } | \"The shard releases every drop it ever held — a blade that becomes a wave.\" | [Breaking the crystal releases the stored soak through the chamber rather than destroying the grief that carries it.] | *Heavy Lament pressure to personnel in the wetted chamber; no personnel Gauge jump is inferred. Withdraw behind chalk, account for sump shortfall, and inspect the floor from below before re-entry.* **[24-36 Lament DMG [Lament]]** | When the crystal is shattered or the source crack is forcibly broken open. |"
+        },
+        {
+          "id": "R12-drowned-edge-gauge90",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Drowned Edge* [**Ultimate**] } | \"Every shard in the field goes slick — and the air itself becomes wet with grief.\" | [The wet leaves the chamber and takes the district's edges with it, and every surface in reach runs with something warm.] | *Every worker in range takes Lament pressure across 3 turns of wet edges.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Drowned Edge* [**Ultimate**] } | \"Every shard in the field goes slick — and the air itself becomes wet with grief.\" | [At high Gauge every wet edge in the chamber carries Lament while the crack remains open.] | *All workers inside the wetted margin suffer Lament pressure for three turns. The pair withdraws together, volume is read before interpretation, and the channel is later closed deliberately below 25%—never by sealing the crack.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥90%. |"
+        },
+        {
+          "id": "R13-termination-no-seal-crack",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Termination / Return** | The channel is closed on purpose by the operator and never by letting go of it. The worker outside calls it, the two inside step back behind the chalk line, and the conduit is sealed in that order. A conduit dropped instead of closed vents Lament resonance with nothing containing it, and the sector keeps that reading for a shift afterwards. |",
+          "new": "| **Termination / Return** | The channel is closed deliberately and never by abandoning it: the vision is witnessed to evaporation or absorption, the outside worker calls the close, and the two inside step back behind the chalk line. The source crack is not filled, fused, capped or polished over. An abandoned channel compounds residue and accelerates the seep. |"
+        },
+        {
+          "id": "R14-log-10s-memory-channel",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 10 Seconds | The shard starts to thrum as the channel opens and a wave of Lament sorrow crosses the chamber, which the corridor feels before the instruments register it. | Opening the channel is the activation itself. One preserved memory comes out as liquid vision and stands above the wetted margin, and Sorrow Gauges in the adjacent containment units steady while it runs. |",
+          "new": "| 10 Seconds | The shard starts to thrum as the channel opens and a wave of Lament sorrow crosses the chamber, which the corridor feels before the instruments register it. | Opening the channel is the activation itself. One preserved memory comes out as liquid vision above the wetted margin; the outside worker starts the clock and records trigger, starting sump and prior chalk line. |"
+        },
+        {
+          "id": "R15-log-30s-no-sector-defence",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 30 Seconds | At this point the conduit has widened, and the memory resolves into the grief this shard holds, which is the belief that a loss had been sealed when it stayed alive inside. Under that, older and harder to read, is the cracking of the memorial shard in the Alpha Tree vault during the Sorrow Tide surge. | Elemental defence rises through the sector's allied units as the aura widens out to Range Band 2, held only while attention stays on the flow. |",
+          "new": "| 30 Seconds | At this point the conduit has widened, and the memory resolves into the grief this shard holds, which is the belief that a loss had been sealed when it stayed alive inside. Under that, older and harder to read, is the cracking of the memorial shard in the Alpha Tree vault during the Sorrow Tide surge. | No sector defence is claimed. The two inside remain at the standpoint and do not touch runoff; the outside worker compares film behaviour with the starting margin and sump rate. |"
+        },
+        {
+          "id": "R16-log-1m-no-fixed-drain",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 1 Minute | The pressure asks for more than mechanical energy. The channeler carries the mass of a purpose never finished, a sealed grief with no name attached to it anywhere in the surviving catalogue, and feels that on the lungs instead of in the hands. | Holding the channel beyond the first 60 seconds drains 4 Composure on each ten-second count, so the operator settles the disengagement before that clock starts rather than while it is running. |",
+          "new": "| 1 Minute | The pressure asks for more than mechanical energy. The channeler carries the mass of a purpose never finished, a sealed grief with no name attached to it anywhere in the surviving catalogue, and feels that on the lungs instead of in the hands. | No fixed ten-second drain is recorded. The outside worker watches for the worker's own mourning, margin advance and sump acceleration; any one ends the rotation as a logged reading rather than a refusal. |"
+        },
+        {
+          "id": "R17-log-2m-abandoned-channel",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 2 Minutes | The flow threatens to run backwards into the facility. Grief held this long overflows the channel and searches out a living vessel to settle in, and the record warns plainly that the nearest vessel is the channeler. | An overloaded or abandoned channel vents a Lament shockwave with nothing shaping it. The worker may give up a memory from their own past to replace what was released, and every person in the sector takes heavy damage. |",
+          "new": "| 2 Minutes | The flow threatens to run backwards into the facility. Grief held this long overflows the channel and searches out a living vessel to settle in, and the record warns plainly that the nearest vessel is the channeler. | An abandoned channel compounds residue and may take a worker memory in exchange. The pair withdraws together behind chalk; the vision is not forced into the crack, retained as power, or followed into general drainage. |"
+        },
+        {
+          "id": "R18-response-volume-order",
+          "kind": "careful escalation correction",
+          "careful": true,
+          "old": "**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.",
+          "new": "**Response sequence:** Keep two inside and one outside; read sump, margin and profile height in that order; withdraw together behind the chalk if margin gain has no matching sump volume; inspect the floor from below. Do not touch runoff, strike the crystal, seal the crack, or improvise Flerehan/Pugnahan as countermeasures."
+        },
+        {
+          "id": "R19-story-entry2-tide-volume",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "**Entry 2 — <Excerpt from Field Log, Year 4238>**\nIt grows more active during the Sorrow Tide.",
+          "new": "**Entry 2 — <Excerpt from Field Log, Year 4238>**\nIt grows more active during the Sorrow Tide, the only external variable with a settled correlation. The entry is therefore volumetric before it is interpretive: starting sump, ending sump, margin against the previous chalk, and any shortfall that would mean memory-bearing fluid has gone somewhere the sealed carriage never received."
+        },
+        {
+          "id": "R20-story-entry3-withdrawal-reading",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "**Entry 3 — <Excerpt from Counseling Log, Year 4231>**\nThe grief of believing a loss had been sealed when it remained alive inside.",
+          "new": "**Entry 3 — <Excerpt from Counseling Log, Year 4231>**\nThe grief of believing a loss had been sealed when it remained alive inside is also the chamber's welfare problem. A worker who begins mourning their own loss leaves at once and says why outside; counseling logs the withdrawal against the volume series as a reading, with no personnel entry, and assigns a dry period away from wet work."
+        },
+        {
+          "id": "R21-battle-resolution-deliberate-close",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** **Let the grief stay in the vessel: read the layers in place, and take nothing out**. The condition is met when the shift has left the fluid where it seeps, chalked the new margin against the old, and gone home without carrying any of it; a session that ends with the sump short and a worker richer in memories is entered as a withdrawal, whatever was learned by it.",
+          "new": "3. **Resolution:** The released vision is witnessed to evaporation or absorption and the channel is closed deliberately from behind the chalk; the crack itself is left open and unsealed. The condition is met only with Gauge below 25%, the new margin chalked against the old, sump volume accounted for, and no worker carrying a replacement memory out as the price of closure."
+        },
+        {
+          "id": "R22-management-deliberate-close",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Management** | Let the grief stay in the vessel: read the layers from the marked standpoint and take nothing out. Viderehan and Ferrehan only, the fluid left where it seeps, and the margin chalked at every session. |",
+          "new": "| **Management** | Viderehan and Ferrehan only from the marked standpoint. Witness the vision to evaporation or absorption, close the channel deliberately below 25%, and re-read sump/margin/profile. Do not force a replacement memory into the crack or fill, fuse, cap or polish over it. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.028  clean   176 grams  Trivia\n 0.021  clean   977 grams  M.A.W. Equipment\n 0.018  clean   228 grams  기록 (Registrum)\n 0.005  clean   871 grams  Combat Record\n 0.002  clean   581 grams  Activation Behavior\n 0.001  clean   822 grams  감각 묘사 (Flavor Text)\n 0.000  clean  1310 grams  Apex Record\n 0.000  clean   426 grams  이야기 (Narratio)\n 0.000  clean   322 grams  이야기 보고 (Story Log)\n 0.000  clean   260 grams  관찰 기록 (Observation Log)\n 0.000  clean   194 grams  Appearance\n 0.000  clean   154 grams  최종 관찰 (Final Observation)\n 0.000  clean   140 grams  Behavior\n 0.000  clean   139 grams  Origin\n 0.000  clean   118 grams  Operational Parameters\n 0.000  clean    41 grams  증언 (Testimonium)\n 0.000  clean    41 grams  SECC Classification\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   86   4  | { *The Drowned Edge* [**Ultimate**] } | \"Every shard in the field goes slick — and the air itself becomes wet with grief.\" | [At\n  154   1  > **This Relic is Capable of Sector / Facility Alteration**\n  222   4  **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels the shard's signature: what t\n  268   1  | **Before use** | Wielder, piece, and a dated baseline laid down by a second person: what has the bearer been dreaming about this\n  269   5  | **During use** | The charge shows as weeping without a source and dreams that will not stay on the bearer's own account. The hou\n  275  11  **Full-set source review (2026-10-12):** Reviewed the `O-Relic (Offertorium) · δ` overview, every local Weapon/Suit/Stigma block, \n  364   1  **Interaction procedure:** Solo baselines first for both records, then the pairing with the second record's staff held outside the\n  405   3  **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)\n  412   1  **Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the sump series aga\n  480   5  - **Field detail:** Its defining element is Lament, and its registered location is Zone A, Alpha Tree vault.\nGENERIC 0.005  (36 shared shingles)  SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-A__SIDE_CODEX_Splinter.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-B__MAW-W_Splinter_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-C__MAW-S_Splinter_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-D__MAW-G_Splinter_Pendant.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-A__SIDE_CODEX_Splinter.md": "8364266cd282f6656d4445c437382f7096318948a5463c9f8bc51f143c5a62b3",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-B__MAW-W_Splinter_Requiem.md": "254a6b49e68bac9b0bacda1aa58f2f8fba99f875c23891c931d303667ce162b0",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-C__MAW-S_Splinter_Shroud.md": "db81722cf8525fb0f416c0f7257d46cf1c239bdbc31d2e717183f782f388ff4c",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-D__MAW-G_Splinter_Pendant.md": "aea85bc7ae894172a8d004a3ad8286a4a671050fe7c46a54d00a75426dfd60e3"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVδ-219_Soaking_Shard_솟구친_조각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-219_Soaking_Shard_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%A1%B0%EA%B0%81.md \"SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md\")]",
+      "table_link": "[[C-IVδ-219 Soaking Shard](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-219_Soaking_Shard_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%A1%B0%EA%B0%81.md \"SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md\")]",
+      "reading": {
+        "before_lines": 489,
+        "before_bytes": 53122,
+        "final_lines": 489,
+        "final_bytes": 55324
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 10,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Combat now uses the exact ≥90% threshold and <25% closure condition instead of the former 65% Ultimate and invented +15 Gauge jump."
       }
     }
   ]

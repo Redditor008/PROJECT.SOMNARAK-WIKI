@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVδ-219": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_03_SOAKING_SHARD.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2675,8 +2687,23 @@
     {
       "designation": "C-IVδ-219",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD +0 — 22 repairs align the rooted liquid-memory shard with volume-led operation and deliberate, unsealed channel closure.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_03_SOAKING_SHARD.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-A__SIDE_CODEX_Splinter.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-B__MAW-W_Splinter_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-C__MAW-S_Splinter_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-D__MAW-G_Splinter_Pendant.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVδ-220",
