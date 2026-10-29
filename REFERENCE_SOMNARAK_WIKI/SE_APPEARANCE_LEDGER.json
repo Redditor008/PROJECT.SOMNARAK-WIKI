@@ -18,7 +18,7 @@
   },
   "active_batch": {
     "number": 207,
-    "status": "OPEN",
+    "status": "CLOSED",
     "required": 5,
     "queue": [
       "C-IIβ-565",
@@ -9776,6 +9776,26 @@
       "no_change_units": 0,
       "repair_count": 80,
       "close": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_CLOSE.json"
+    },
+    {
+      "batch": 207,
+      "status": "CLOSED",
+      "units": 5,
+      "results": [
+        "HELD",
+        "HELD",
+        "HELD",
+        "HELD",
+        "HELD"
+      ],
+      "no_change_units": 0,
+      "repair_count": 75,
+      "split": [
+        22,
+        53
+      ],
+      "before_words": 38956,
+      "after_words": 41888
     }
   ],
   "equipment_reviews": [
