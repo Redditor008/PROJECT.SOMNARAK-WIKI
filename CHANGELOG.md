@@ -8,6 +8,13 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Fragment housing added to the Size, Scale & Form Law (2026-10-30)
+
+- **`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md` Section I.4 renamed (Size, Scale & Form Law) and extended with an appearance axis:** the Containment Form now comes in three intake-declared **housing grades** — **Whole** (complete body, unit-scaled), **Aspect-shifted** (complete housing body in the draw's rendering rather than the true aspect), and **Fragment** (only a fragment of the shape housed — a face, an eye, a hand at an aperture — the remainder undrawn on the far side of the interface; breach is a **completion** into the entity's true self under the declared scale band). Fragment continuity, undrawn-remainder placement by declared ingress/geometry, Degree III fragment-only presentation, and return-to-housing are specified.
+- **Guardrail:** the completed Breach Form is read from the Somnarak dossier (Physical Form, Appearance, breach/transformation behavior); absent complete-body evidence the completion is a HOLD — the Table never invents a true body. The `YY` class reads the true body, never the housed fragment.
+- **Native precedents verified and cited:** the Express Train to Hell's booking clerk (only glowing eyes and one arm ever shown in the booth); **The King of Greed (`O-01-64`, WAW)** — a girl seen through an amber window in containment, breaching as her vast true body (lobotomycorp.fandom.com — The King of Greed). Checklist item 08 rewritten (FORM & TELLS) at the box's exact 74-character width. New table is markdown-native.
+
+
 ## Size & Scale Law reframed as Containment Form / Breach Form, with native precedents (2026-10-30)
 
 - **`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md` Section I.4 reframed to its intended purpose — story logic.** The law now opens by naming its job: a reader who knows an SE's true Somnarak size will ask how it fits an Abnormality containment unit, and the in-story answer is how Extraction works. Extraction draws a *manifestation* through the Well–Cogito interface; what arrives is the entity's **Containment Form** (unit-fit by construction — a unit-scaled manifestation is what an extraction produces); on breach the manifestation sheds the housing shape and grows toward its **Breach Form** — Cogito-Well-attenuated to 25–50% where the Well meters the draw, full original scale where it does not. Table states renamed accordingly; the Scale-Incompatible/Extraction-Compatible clause and declaration discipline unchanged in substance.
