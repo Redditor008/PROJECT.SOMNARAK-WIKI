@@ -140,21 +140,14 @@ SECC Coherence and Potency usually rise together, but transported entities frequ
 
 ## Section IV: Work Type Mechanics & The Inviolable Two-Work-Type Law
 
-```text
-+========================================================================+
-|          FACILITY WORK PROTOCOLS // COGITO VS HAN CONVERSION           |
-+------------------------------------------------------------------------+
-| L CORP WORK TYPE     | PS ANALOG      | SUBJECT SE                     |
-|   | INANIMATE SE [O/P/T]                                               |
-| ---------------------+----------------+--------------+---------------- |
-| Instinct Work        | Viderehan (Obs)| Common (PE)  | Safe Extraction |
-| Insight Work         | Ferrehan (End) | High (PE)    | High PE Yield   |
-| Attachment Work      | Flerehan (Cath)| Variable PE                    |
-|   | LETHAL BACKFIRE (0 PE)                                             |
-| Repression Work      | Pugnahan (Clsh)| Counter Drop                   |
-|   | KINETIC BREACH (0 PE)                                              |
-+========================================================================+
-```
+**Facility Work Protocols // Cogito vs Han Conversion**
+
+| L Corp Work Type | PS Analog | Subject SE | Inanimate SE [O/P/T] |
+|---|---|---|---|
+| Instinct Work | Viderehan (Obs) | Common (PE) | Safe Extraction |
+| Insight Work | Ferrehan (End) | High (PE) | High PE Yield |
+| Attachment Work | Flerehan (Cath) | Variable PE | **LETHAL BACKFIRE (0 PE)** |
+| Repression Work | Pugnahan (Clsh) | Counter Drop | **KINETIC BREACH (0 PE)** |
 
 
 In Lobotomy Corporation, agents are accustomed to performing Instinct, Insight, Attachment, and Repression on almost every Abnormality. **With Sorrow Entities, this standard operating procedure will cause immediate fatalities if applied blindly.**
