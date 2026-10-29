@@ -33,8 +33,8 @@
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
+| **Vessel-Destructible** | No — frame, surface and mounting are in the condition they were in when containment opened, and nothing on this holding has ever been struck |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Viderehan and Ferrehan only; it is an Object/Place and an O-Relic. Ferrehan lowers the gauge, Viderehan holds it level, and every approach is logged against the learned-face count because the count is what the approach costs. |
 
 ### Operational Notes
@@ -68,22 +68,22 @@
 | **Battle Length** | Long — 20 turns |
 | **Threat Role** | Major encounter |
 | **Coherence** | Fragment (III) — Reflective and honest |
-| **Primary Pressure** | Composure |
+| **Primary Pressure** | Identity / memory |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, Alpha Tree |
-| **Resolution Condition** | Viderehan and Ferrehan only — the only close a Learned Your Face cycle has. |
+| **Resolution Condition** | The channel is closed deliberately by the channeller, who steps off the mark before turning, and the learned-face count is entered before the bay is closed |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Reflection* [**Debuff**] } | "It shows you yourself — and the you in the glass is grieving in ways you have not admitted, in a room you have never described to anybody." | [The Mirror returns the grief the target has kept out of sight, exact and whole.] | *Target suffers a Void mark; the Mirror has seen their true grief.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |
-| { *The Cracked Image* [**Debuff**] } | "The reflection fractures — and what it leaves behind is the certainty that this one thing cannot be told to anybody present." | [The Mirror returns the sealed room's own condition rather than its contents.] | *Target loses clarity; they doubt which grief is theirs.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares too long. |
-| { *The Glass Shard* [**Attack**] } | "A sliver breaks away from the frame — and it cuts where the reflection was standing." | [A jagged shard leaves the glass, sharp as a kept secret.] | *Inflicts Void damage; it takes away a piece of identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
-| { *The Doppelganger* [**Attack**] } | "The you in the mirror steps out — and it is angrier than you remember being." | [The reflection separates from the glass, wearing the target's own withheld grief.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mirror is confronted. |
-| { *A Thousand You* [**Ultimate**] } | "The mirror shatters into a thousand pieces — and every piece shows somebody who was once alone in a sealed room." | [The Mirror gives up every face it has learned at once.] | *All in range suffer Void erosion for three turns among the shards.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Reflection* [**Debuff**] } | "It shows you yourself — and the you in the glass is grieving in ways you have not admitted, in a room you have never described to anybody." | [It has never once returned a face the viewer recognised as their own. What the glass gives back is the sorrow itself, given form — exact, whole, and without companionship.] | *The channeller takes Void identity pressure and the face is learned: permanent, entered in the count before the bay is closed, with the reflection's contents never recorded and never asked for. One nominated channeller faces the glass; everybody else works with their back to it.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the nominated channeller opens the channel with a direct gaze. |
+| { *The Cracked Image* [**Debuff**] } | "The reflection fractures — and what it leaves behind is the certainty that this one thing cannot be told to anybody present." | [The Mirror returns the sealed room's own condition rather than its contents. Past about a minute the viewer stops being able to tell their own grief from the one in the glass, and the two do not separate again inside the shift.] | *The channeller loses clarity about which grief is theirs. Clarity is the escalation: when the reflection gains detail the channeller did not supply, the clock-holder calls the close, the call is not discussed in the bay, and the channeller steps off the mark before turning.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a gaze is sustained while the reflection sharpens beyond what the channeller supplied. |
+| { *The Glass Shard* [**Attack**] } | "A sliver breaks away from the frame — and it cuts where the reflection was standing." | [Nothing breaks away: the frame, surface and mounting have never changed, and nothing here has ever been struck. What cuts is an abandoned channel venting uncontained Void resonance across the sector — both recorded vents began when a channeller was relieved rather than when they finished.] | *Heavy Void identity pressure across the bay. Never relieve a channeller mid-session: the channel is closed deliberately by the person who opened it, the bay is cleared of anybody not on a mark, and the range is re-measured before work resumes.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a channel is abandoned or its channeller relieved instead of closing it deliberately. |
+| { *The Doppelganger* [**Attack**] } | "The you in the mirror steps out — and it is angrier than you remember being." | [At overload the flow turns back and the grief in the channel starts looking for somewhere to live. Reports describe the reflection separating; its spatial extent and any return to the mounted glass are not established, and no walking body is certified by this row.] | *A heavy Void blow; the channeller's Sorrow Gauge surges 15%. The companion witness names the channeller's present body and the close is called before overload — seeing a sorrow's shape is not permission to declare it solved or to force it shared.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a channel is sustained into the two-minute overload described in the Log and Method. |
+| { *A Thousand You* [**Ultimate**] } | "The mirror shatters into a thousand pieces — and every piece shows somebody who was once alone in a sealed room." | [The glass does not shatter; it has not degraded since containment opened. At venting point the surface gives up what it holds in reflection — every learned face at once, sixty-one and counting, none of them released by being shown.] | *All in range suffer Void identity erosion for three turns. Close the channel deliberately, clear the bay, re-measure the recognition range from the marks, and enter every newly learned face before anybody is debriefed — on marks, counts and times only, never on contents.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥75% activation threshold with a channel open. |
 
 ### Battle Phases
 
@@ -95,8 +95,8 @@
 
 - The failure here is belief. A worker takes the reflection for a verdict rather than a reading, and what is filed afterwards is a person who has been told something true about themselves by an object that cannot know them.
 - A glance is survivable and a long look is not advisable; past about a minute the viewer stops being able to tell their own grief from the one in the glass, and the two do not separate again inside the shift.
-- The equipment shows the wearer what another person has hidden. It is accurate, it is unasked for, and the armoury's note records that three wielders have asked for the sight to be disabled and that it cannot be.
-- If the resolution condition is not fulfilled, Learned Your Face reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- The equipment is consent-bound in a way the mirror is not: the Lens clouds to opacity when used to pry, the Veil seals when its companion thread is refused, and the Stigma warms and shows nothing pointed at a person without consent. What cannot be disabled is the cost side — a small memory per drawing, a faint absence while veiled, an observed sorrow carried as one's own until debrief.
+- If the channel is not closed deliberately it vents: uncontained Void resonance across the sector, every face present at risk of being learned at once, and a recognition range that has never once contracted afterwards.
 
 ## Appearance
 **Physical Form:** A tall mirror of pale-black crystal that reflects only the viewer's sorrow.
@@ -123,6 +123,8 @@
 | **Identification** | Confirm before Work or contact: designation C-IIIγ-195, Void expression, Object-Void manifestation, O-Relic tool class, the Alpha Tree bay in SECTOR-A-01. The Alpha Tree holds three mirrors and they are confused in correspondence about twice a year. |
 
 **Appearance protocol:** Take the recognition range first, from the marks, then the surface condition, the learned-face count and the channeller's time at the glass to the second. Keep the contents of the reflection out of the report: the post-contact review does not record them, and the debrief form has no field for them. No worker is asked what they saw.
+
+The combat record now observes the same mounted limits: the glass returns sorrow rather than the viewer's face, nothing is struck and nothing shatters, and the only certified movements are a channel opening on a nominated gaze, closing deliberately, or venting when abandoned. What the reflection's faces are — the viewer's own grief given form, a face stopped being thought about, or both under conditions not yet separated — remains uncrosswalked, as do the separating reflection's extent and return, the Tale's accumulated thousands against the register's two hundred and twelve, and the range extensions recorded with the destroyed Frozen Veil. None of those licenses a second body standing in the bay.
 
 ## Origin
 - **Formation:** The Mirror formed from sorrow that people concealed from one another.
@@ -226,7 +228,7 @@ Nothing about it invites a second glance: its face holds the room dimly the way 
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Deals Void damage against the Soul — identity, memory, the sense of self — and the strike lands where the target is already carrying something unshared.
+**Ability:** *Shared Reflection* — deals Void damage against the Soul — identity, memory, the sense of self — by separating a target from an identity overload caused by reflected grief, opening a boundary long enough for a companion to name the person's present body. It binds only with a mirror witness, cannot reveal secrets or prove a grief belongs to anyone, and clouds to full opacity the moment it is used to pry; the companion shutters the face to end every use and a debrief is mandatory afterwards.
 
 **Cost:** Small memories go with each use and none of them are the ones that mattered; the armoury enters them in the same column as the learned-face count, because both are paid once and kept.
 
@@ -246,7 +248,7 @@ Worn, it reads as a thin silver-grey film over ordinary clothing, and from certa
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Wards the Soul — identity, memory, the sense of self — against Void damage of the kind this bay produces, so that what the wearer is shown stays a reading rather than becoming a verdict.
+**Ability:** Wards the Soul — identity, memory, the sense of self — against Void reflection pressure while preserving the companion thread, so the wearer stands in the mirror's field as a person accompanied rather than absorbed and what they are shown stays a reading rather than becoming a verdict. It binds only to a named witness who can stop the exposure and unfastens it at the first loss-of-self sign; refuse companionship and the collar fades, and a threadless Veil is sealed.
 
 **Cost:** The wearer thins to themselves by a degree the counsellors treat as the boundary case rather than the comfort it is mistaken for.
 
@@ -262,7 +264,7 @@ Ground fine enough that looking through it feels like looking slightly deeper th
 **Acquisition Probability:** 4%
 **Effect:** +2 stat bonus while working Learned Your Face in the Alpha Tree bay.
 
-**Ability:** Reveals hidden sorrow in another person.
+**Ability:** Reveals hidden sorrow in another person only with that person's consent and under an empathy witness; pointed at anyone without consent it warms and shows nothing. The correct outcome of a reading is an offered support option, never a declaration of understanding. The witness covers it after each use, a pendant grown heavy with unreturned sorrows is rested, and breaking it spreads the last observed grief into the bearer's own senses.
 
 **Cost:** The wearer feels the observed sorrow as personal experience.
 

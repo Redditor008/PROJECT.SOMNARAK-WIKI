@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIIγ-195": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_04_LEARNED_YOUR_FACE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -739,10 +751,10 @@
       "designation": "C-IIIγ-195",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울.md",
       "status": "held",
-      "note": "Three supported repairs: summary M.A.W. grade restored to γ; Appearance reporting no longer invites reflection contents into the record; initial-exposure identification pairs range with learned-face count without requiring a fresh viewer.",
-      "outcome": "unresolved whole-file logical relationship",
-      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_01_LEARNED_YOUR_FACE.md",
+      "note": "Rechecked Learned Your Face under R-34 with the owner appearance lens: the current body is a fixed, unaging pale-black mirror in the Alpha Tree bay that returns a viewer's sorrow rather than their face, learns each new viewer permanently (sixty-one and counting), and acts only through a nominated channeller's deliberately opened and closed channel. Fourteen repairs remove the self-showing reflection, the struck-mirror shard, the certified walking doppelganger and the shattering Ultimate, align that Ultimate to the ≥75% activation threshold, clear the vessel tonnage, and restore the equipment's witness-and-consent limits against a Consequences line that claimed the sight could not be refused. Credit stays +0; the dossier remains HELD.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_04_LEARNED_YOUR_FACE.md",
       "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_01_LEARNED_YOUR_FACE.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-A__SIDE_CODEX_Learned_Your_Face.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-B__MAW-W_The_Sorrow_Lens.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-C__MAW-S_The_Sorrow_Veil.md",
@@ -10184,6 +10196,14 @@
       "batch": 207,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_03_CONSERVATORY.md",
       "history_proof": "Batch 121 unit 2 (df95eb4) already cross-reviewed and credited the exact SE-852 pair/full set, as recorded at B148; the official counters credit that set before B207, so this recheck adds no Types or Weapon credit.",
+      "all_types_credit": false,
+      "weapon_credit": false
+    },
+    {
+      "designation": "C-IIIγ-195",
+      "batch": 207,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_04_LEARNED_YOUR_FACE.md",
+      "history_proof": "Batch 121 unit 5 (221e680) already records complete-set and exact weapon-source coverage for this designation, as confirmed at B155; the official counters credit that set before B207, so this recheck adds no Types or Weapon credit.",
       "all_types_credit": false,
       "weapon_credit": false
     }

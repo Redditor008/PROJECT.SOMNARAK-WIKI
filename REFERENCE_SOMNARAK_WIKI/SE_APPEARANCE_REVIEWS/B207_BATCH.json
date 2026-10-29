@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 207,
   "status": "OPEN",
-  "completed_units": 3,
+  "completed_units": 4,
   "required_units": 5,
   "queue": [
     {
@@ -52,7 +52,7 @@
     }
   ],
   "opened_at": "2026-10-30",
-  "completed": 3,
+  "completed": 4,
   "units": [
     {
       "unit": 1,
@@ -703,6 +703,209 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 11,
         "digit_sequence_change": "Only unsupported or misaligned digits moved: ~1–10 tons vessel dust removed with the destructible vessel, and the Ultimate aligned from 65% to the file's own ≥90% activation threshold. Fourteen stations, 2.3 m, 25%, 60–80%, 873/873 and all equipment profiles stand."
+      }
+    },
+    {
+      "unit": 4,
+      "designation": "C-IIIγ-195",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울.md",
+      "words": 8351,
+      "sha256": "ae6c4afd973950e8d730167d36f4887713b0876f7332ba6aeb5451b8faaea43e",
+      "prior_batch": 155,
+      "shape": "O-Relic",
+      "name": "Learned Your Face",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_04_LEARNED_YOUR_FACE.md",
+      "before_words": 8351,
+      "after_words": 9045,
+      "base": "4203d6e53b1128bc9f239afadf4fd5f77e219d12",
+      "final_sha256": "f37c4b4618eb41335b8a4406b53dfbfe7a5ad23b11b481a11cc6a5077ec9d525",
+      "summary": "Rechecked Learned Your Face under R-34 with the owner appearance lens: the current body is a fixed, unaging pale-black mirror in the Alpha Tree bay that returns a viewer's sorrow rather than their face, learns each new viewer permanently (sixty-one and counting), and acts only through a nominated channeller's deliberately opened and closed channel. Fourteen repairs remove the self-showing reflection, the struck-mirror shard, the certified walking doppelganger and the shattering Ultimate, align that Ultimate to the ≥75% activation threshold, clear the vessel tonnage, and restore the equipment's witness-and-consent limits against a Consequences line that claimed the sight could not be refused. Credit stays +0; the dossier remains HELD.",
+      "commentary": "Two hundred and twelve people's silence became glass, and the glass has never once shown anybody their own face — the combat record now stops claiming otherwise. Every row runs through the bay's real machinery: one back-to-the-glass team, one channeller, one clock-holder whose call ends it, and a count that only ever rises. What separates at overload stays reported rather than certified, because a reflection leaving a mirror is exactly the kind of body this review may not invent.",
+      "reasoning": "Appearance first: mounted, stationary, unchanging since containment opened — so struck/shattered glass, up to a ton of vessel dust and a confrontation trigger (Pugnahan is N/A) are body errors; the certified actions are opening, deliberately closing, or venting a channel.\n\nTriggers now name the file's own checkable conditions (nominated gaze opening the channel; sustained gaze while unsupplied detail accrues; abandonment or mid-session relief; two-minute overload; ≥75% with a channel open), each carrying the standing counter-conduct — clock-holder's close, step off before turning, count entered, contents never recorded.\n\nExact SE-195 sources govern the Shared Face set: mirror-witness binding, opacity against prying, companion naming the present body, thread-preserving Veil under a stopping witness, and a Stigma that shows nothing without consent — seeing a sorrow's shape is not permission to declare it solved.",
+      "history": "Prior review B155 made three supported repairs (γ grade restored, no-content appearance reporting, range-plus-count identification) and held reflection identity, doppelganger extent, range-extension exceptions and equipment forms open. This recheck re-read the whole 498-line primary, B155 evidence and SE-195-A/B/C/D in full before repairing.",
+      "holds": [
+        "What the returned face is — the viewer's own grief given form, a face they had stopped thinking about, or both under unseparated conditions — remains uncrosswalked; no identity rule was invented.",
+        "The separating reflection at overload: spatial extent and return to the mounted glass are unspecified, and no second body in the bay is certified.",
+        "Range extends only with a new viewer versus the two extensions recorded with the destroyed Frozen Veil; unchannelled neighbour stabilisation versus the channel-dependent schedule benefit.",
+        "Tale thousands versus the register's 212; sixty-one learned faces versus the sixty-second measurement; disc versus blade, hooded gossamer versus half-reflective weave, chest-warm versus head-worn pendant, registry 5% versus 4%. All held, none normalized."
+      ],
+      "split": [
+        3,
+        11
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-identity",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary Pressure** | Composure |",
+          "new": "| **Primary Pressure** | Identity / memory |"
+        },
+        {
+          "id": "R02-vessel-no-dust",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |\n| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |",
+          "new": "| **Vessel-Destructible** | No — frame, surface and mounting are in the condition they were in when containment opened, and nothing on this holding has ever been struck |\n| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R03-resolution-condition",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Resolution Condition** | Viderehan and Ferrehan only — the only close a Learned Your Face cycle has. |",
+          "new": "| **Resolution Condition** | The channel is closed deliberately by the channeller, who steps off the mark before turning, and the learned-face count is entered before the bay is closed |"
+        },
+        {
+          "id": "R04-reflection-never-own-face",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Reflection* [**Debuff**] } | \"It shows you yourself — and the you in the glass is grieving in ways you have not admitted, in a room you have never described to anybody.\" | [The Mirror returns the grief the target has kept out of sight, exact and whole.] | *Target suffers a Void mark; the Mirror has seen their true grief.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |",
+          "new": "| { *The Reflection* [**Debuff**] } | \"It shows you yourself — and the you in the glass is grieving in ways you have not admitted, in a room you have never described to anybody.\" | [It has never once returned a face the viewer recognised as their own. What the glass gives back is the sorrow itself, given form — exact, whole, and without companionship.] | *The channeller takes Void identity pressure and the face is learned: permanent, entered in the count before the bay is closed, with the reflection's contents never recorded and never asked for. One nominated channeller faces the glass; everybody else works with their back to it.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the nominated channeller opens the channel with a direct gaze. |"
+        },
+        {
+          "id": "R05-cracked-image-clarity-close",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Cracked Image* [**Debuff**] } | \"The reflection fractures — and what it leaves behind is the certainty that this one thing cannot be told to anybody present.\" | [The Mirror returns the sealed room's own condition rather than its contents.] | *Target loses clarity; they doubt which grief is theirs.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares too long. |",
+          "new": "| { *The Cracked Image* [**Debuff**] } | \"The reflection fractures — and what it leaves behind is the certainty that this one thing cannot be told to anybody present.\" | [The Mirror returns the sealed room's own condition rather than its contents. Past about a minute the viewer stops being able to tell their own grief from the one in the glass, and the two do not separate again inside the shift.] | *The channeller loses clarity about which grief is theirs. Clarity is the escalation: when the reflection gains detail the channeller did not supply, the clock-holder calls the close, the call is not discussed in the bay, and the channeller steps off the mark before turning.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a gaze is sustained while the reflection sharpens beyond what the channeller supplied. |"
+        },
+        {
+          "id": "R06-glass-shard-vent",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Glass Shard* [**Attack**] } | \"A sliver breaks away from the frame — and it cuts where the reflection was standing.\" | [A jagged shard leaves the glass, sharp as a kept secret.] | *Inflicts Void damage; it takes away a piece of identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mirror is struck. |",
+          "new": "| { *The Glass Shard* [**Attack**] } | \"A sliver breaks away from the frame — and it cuts where the reflection was standing.\" | [Nothing breaks away: the frame, surface and mounting have never changed, and nothing here has ever been struck. What cuts is an abandoned channel venting uncontained Void resonance across the sector — both recorded vents began when a channeller was relieved rather than when they finished.] | *Heavy Void identity pressure across the bay. Never relieve a channeller mid-session: the channel is closed deliberately by the person who opened it, the bay is cleared of anybody not on a mark, and the range is re-measured before work resumes.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a channel is abandoned or its channeller relieved instead of closing it deliberately. |"
+        },
+        {
+          "id": "R07-doppelganger-conditional",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Doppelganger* [**Attack**] } | \"The you in the mirror steps out — and it is angrier than you remember being.\" | [The reflection separates from the glass, wearing the target's own withheld grief.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mirror is confronted. |",
+          "new": "| { *The Doppelganger* [**Attack**] } | \"The you in the mirror steps out — and it is angrier than you remember being.\" | [At overload the flow turns back and the grief in the channel starts looking for somewhere to live. Reports describe the reflection separating; its spatial extent and any return to the mounted glass are not established, and no walking body is certified by this row.] | *A heavy Void blow; the channeller's Sorrow Gauge surges 15%. The companion witness names the channeller's present body and the close is called before overload — seeing a sorrow's shape is not permission to declare it solved or to force it shared.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a channel is sustained into the two-minute overload described in the Log and Method. |"
+        },
+        {
+          "id": "R08-ultimate-threshold-75",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *A Thousand You* [**Ultimate**] } | \"The mirror shatters into a thousand pieces — and every piece shows somebody who was once alone in a sealed room.\" | [The Mirror gives up every face it has learned at once.] | *All in range suffer Void erosion for three turns among the shards.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *A Thousand You* [**Ultimate**] } | \"The mirror shatters into a thousand pieces — and every piece shows somebody who was once alone in a sealed room.\" | [The glass does not shatter; it has not degraded since containment opened. At venting point the surface gives up what it holds in reflection — every learned face at once, sixty-one and counting, none of them released by being shown.] | *All in range suffer Void identity erosion for three turns. Close the channel deliberately, clear the bay, re-measure the recognition range from the marks, and enter every newly learned face before anybody is debriefed — on marks, counts and times only, never on contents.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥75% activation threshold with a channel open. |"
+        },
+        {
+          "id": "R09-consequences-vent-not-template",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- If the resolution condition is not fulfilled, Learned Your Face reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.",
+          "new": "- If the channel is not closed deliberately it vents: uncontained Void resonance across the sector, every face present at risk of being learned at once, and a recognition range that has never once contracted afterwards."
+        },
+        {
+          "id": "R10-consequences-consent-equipment",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- The equipment shows the wearer what another person has hidden. It is accurate, it is unasked for, and the armoury's note records that three wielders have asked for the sight to be disabled and that it cannot be.",
+          "new": "- The equipment is consent-bound in a way the mirror is not: the Lens clouds to opacity when used to pry, the Veil seals when its companion thread is refused, and the Stigma warms and shows nothing pointed at a person without consent. What cannot be disabled is the cost side — a small memory per drawing, a faint absence while veiled, an observed sorrow carried as one's own until debrief."
+        },
+        {
+          "id": "R11-lens-shared-reflection",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Deals Void damage against the Soul — identity, memory, the sense of self — and the strike lands where the target is already carrying something unshared.",
+          "new": "**Ability:** *Shared Reflection* — deals Void damage against the Soul — identity, memory, the sense of self — by separating a target from an identity overload caused by reflected grief, opening a boundary long enough for a companion to name the person's present body. It binds only with a mirror witness, cannot reveal secrets or prove a grief belongs to anyone, and clouds to full opacity the moment it is used to pry; the companion shutters the face to end every use and a debrief is mandatory afterwards."
+        },
+        {
+          "id": "R12-veil-witness-thread",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Wards the Soul — identity, memory, the sense of self — against Void damage of the kind this bay produces, so that what the wearer is shown stays a reading rather than becoming a verdict.",
+          "new": "**Ability:** Wards the Soul — identity, memory, the sense of self — against Void reflection pressure while preserving the companion thread, so the wearer stands in the mirror's field as a person accompanied rather than absorbed and what they are shown stays a reading rather than becoming a verdict. It binds only to a named witness who can stop the exposure and unfastens it at the first loss-of-self sign; refuse companionship and the collar fades, and a threadless Veil is sealed."
+        },
+        {
+          "id": "R13-stigma-consent-only",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Reveals hidden sorrow in another person.",
+          "new": "**Ability:** Reveals hidden sorrow in another person only with that person's consent and under an empathy witness; pointed at anyone without consent it warms and shows nothing. The correct outcome of a reading is an offered support option, never a declaration of understanding. The witness covers it after each use, a pendant grown heavy with unreturned sorrows is rested, and breaking it spreads the last observed grief into the bearer's own senses."
+        },
+        {
+          "id": "R14-appearance-holds-note",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "**Appearance protocol:** Take the recognition range first, from the marks, then the surface condition, the learned-face count and the channeller's time at the glass to the second. Keep the contents of the reflection out of the report: the post-contact review does not record them, and the debrief form has no field for them. No worker is asked what they saw.",
+          "new": "**Appearance protocol:** Take the recognition range first, from the marks, then the surface condition, the learned-face count and the channeller's time at the glass to the second. Keep the contents of the reflection out of the report: the post-contact review does not record them, and the debrief form has no field for them. No worker is asked what they saw.\n\nThe combat record now observes the same mounted limits: the glass returns sorrow rather than the viewer's face, nothing is struck and nothing shatters, and the only certified movements are a channel opening on a nominated gaze, closing deliberately, or venting when abandoned. What the reflection's faces are — the viewer's own grief given form, a face stopped being thought about, or both under conditions not yet separated — remains uncrosswalked, as do the separating reflection's extent and return, the Tale's accumulated thousands against the register's two hundred and twelve, and the range extensions recorded with the destroyed Frozen Veil. None of those licenses a second body standing in the bay."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.018  clean   170 grams  Operational Parameters\n 0.011  clean   905 grams  Combat Record\n 0.008  clean   623 grams  감각 묘사 (Flavor Text)\n 0.008  clean   125 grams  Behavior\n 0.005  clean  1297 grams  Warden Record\n 0.004  clean   230 grams  이야기 보고 (Story Log)\n 0.003  clean   296 grams  관찰 기록 (Observation Log)\n 0.003  clean   323 grams  Appearance\n 0.002  clean   451 grams  Activation Behavior\n 0.002  clean  1021 grams  M.A.W. Equipment\n 0.000  clean   432 grams  이야기 (Narratio)\n 0.000  clean   319 grams  기록 (Registrum)\n 0.000  clean   155 grams  Origin\n 0.000  clean   126 grams  Trivia\n 0.000  clean   106 grams  최종 관찰 (Final Observation)\n 0.000  clean    48 grams  SECC Classification\n 0.000  clean    44 grams  증언 (Testimonium)\n 0.000  THIN      1 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   38   1  | **Recommended response** | Viderehan and Ferrehan only; it is an Object/Place and an O-Relic. Ferrehan lowers the gauge, Videreh\n   56   1  | **Resistance** | 35% against Void pressure, 25% against other pressure types — read from the bay marks rather than from contact,\n   86   9  | { *A Thousand You* [**Ultimate**] } | \"The mirror shatters into a thousand pieces — and every piece shows somebody who was once \n  123   1  | **Identification** | Confirm before Work or contact: designation C-IIIγ-195, Void expression, Object-Void manifestation, O-Relic\n  150   1  Learned Your Face is an Object/Place with Object-Void manifestation and Void expression, mounted in the Alpha Tree bay in SECTOR-A\n  156   1  > **This Relic is Capable of Sector / Facility Alteration**\n  231   1  **Ability:** *Shared Reflection* — deals Void damage against the Soul — identity, memory, the sense of self — by separating a targ\n  285   1  | **Before use** | Wielder, piece, and a dated baseline of what the wielder can still name unprompted; the cost on file for this s\n  312   1  **Observation method:** Observe from the marks with your back to the glass unless you are the channeller, and let the clock-holder\n  318   1  Learned Your Face (C-IIIγ-195 [VO]) is carried on the wing's register as an Object-Void manifestation expressing Void. The Mirror \n  359   4  **Interaction method:** Solo baselines first, over a long series, because a paired approach cannot be repeated cheaply and the stu\n  372   1  **Interaction procedure:** Each holding is measured alone first, because interaction data means nothing without the solo baseline \n  463   7  The staff association's objection is minuted at every review. It holds that a benefit to the facility is being bought with a perma\nGENERIC 0.005  (32 shared shingles)  SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_01_LEARNED_YOUR_FACE.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-A__SIDE_CODEX_Learned_Your_Face.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-B__MAW-W_The_Sorrow_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-C__MAW-S_The_Sorrow_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-D__MAW-G_The_Sorrow_Lens.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_01_LEARNED_YOUR_FACE.md": "388ef712f85996a5372f81865c0db14896d1473c355f58938b9f719707ae0d7a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-A__SIDE_CODEX_Learned_Your_Face.md": "261e39d95c848da1c705a67c85b23535bd24d2cb97b1298695dde63ce4ec1261",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-B__MAW-W_The_Sorrow_Lens.md": "065064c9671a741bac6d32a98b961efda06e10ffd9e4e42bbc0fd2992792d2b6",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-C__MAW-S_The_Sorrow_Veil.md": "76b2968be2f7707bb5b43785f8429f94fe50c0f014e6606661cfa592bd5b105a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-D__MAW-G_The_Sorrow_Lens.md": "d950f2ce86335e5cf348ef989304b0c24d9232a24d69410f98984ef2d6e1c1e7",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-195_Learned_Your_Face_%EC%8A%AC%ED%94%94%EC%9D%98_%EA%B1%B0%EC%9A%B8.md \"SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울.md\")]",
+      "table_link": "[[C-IIIγ-195 Learned Your Face](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-195_Learned_Your_Face_%EC%8A%AC%ED%94%94%EC%9D%98_%EA%B1%B0%EC%9A%B8.md \"SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울.md\")]",
+      "reading": "Whole primary before (498 lines) and whole final after (500 lines); B155_01 evidence, SE-195-A/B/C/D and the ledger Master/Entity/Tales/CSV/archetype/disposition set. Combat Trigger cells parsed against the header; all table cell counts equal.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 231,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 11,
+        "digit_sequence_change": "Only unsupported or misaligned digits moved: ~100 kg–1 ton vessel dust removed with the destructible vessel, and the Ultimate aligned from 65% to the file's own ≥75% activation threshold. Sixty-one faces, 212 register names, 45–65%, 693/693 and all equipment profiles stand."
       }
     }
   ]
