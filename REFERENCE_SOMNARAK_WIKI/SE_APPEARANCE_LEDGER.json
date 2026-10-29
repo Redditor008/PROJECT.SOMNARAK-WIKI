@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IVδ-852": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_03_CONSERVATORY.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -6048,10 +6060,10 @@
       "designation": "N-IVδ-852",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-852_Conservatory_잊혀진_잔해.md",
       "status": "held",
-      "note": "Clarified fixed location versus local defensive repositioning of the crystal mass. Connected caretaker overload, remembered architecture without original bricks, conditional room reconstruction and the later irrecoverable outline loss. Distinguished memory identification from an emerging caretaker and Weapon glyphs from the entity body. Explicitly held carried-relic/scale and Transform/extension conflicts rather than inventing a hand-held ruin that unfolds into a house.",
-      "outcome": "unresolved whole-file logical relationship",
-      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_04_CONSERVATORY.md",
+      "note": "Rechecked Conservatory under R-34 with the owner appearance lens: the current body is a fixed red-black crystal keeping a loved house's floor-plan outline without one original brick, permanently short 2.3 m of east-range wall run, answering resemblance with instrument-read heat. Fifteen repairs remove the template's unremembered, purposeless ruin and its falling stone, bind every combat row to the resemblance rule and the permitted path, move the Ultimate from 65% (inside the starting band) to the file's ≥90% activation threshold, clear the unsupported vessel tonnage, and restore the equipment's testimonial binding while withdrawing the Plate's invented heat clearance. Credit stays +0; the dossier remains HELD.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_03_CONSERVATORY.md",
       "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_04_CONSERVATORY.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-A__SIDE_CODEX_Conservatory.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-B__MAW-W_Conservatory_Fang.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-C__MAW-S_Conservatory_Plate.md",
@@ -10164,6 +10176,14 @@
       "batch": 207,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_02_THE_MAW.md",
       "history_proof": "Side Codex SE-1003-A is a 1/1 extraction-prohibited exception, recorded at B149 as not a new eligible 4/4 Weapon pair (equipment +0); the conflicting B–D item files do not create creditable issued equipment, so this recheck adds no Types or Weapon credit.",
+      "all_types_credit": false,
+      "weapon_credit": false
+    },
+    {
+      "designation": "N-IVδ-852",
+      "batch": 207,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_03_CONSERVATORY.md",
+      "history_proof": "Batch 121 unit 2 (df95eb4) already cross-reviewed and credited the exact SE-852 pair/full set, as recorded at B148; the official counters credit that set before B207, so this recheck adds no Types or Weapon credit.",
       "all_types_credit": false,
       "weapon_credit": false
     }

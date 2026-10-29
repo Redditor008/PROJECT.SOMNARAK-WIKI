@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 207,
   "status": "OPEN",
-  "completed_units": 2,
+  "completed_units": 3,
   "required_units": 5,
   "queue": [
     {
@@ -52,7 +52,7 @@
     }
   ],
   "opened_at": "2026-10-30",
-  "completed": 2,
+  "completed": 3,
   "units": [
     {
       "unit": 1,
@@ -493,6 +493,216 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 11,
         "digit_sequence_change": "No measured digit was rescaled: 41 markers, 2.3 cm, 75–95%, ≥95%, 1000/1000 and all damage bands stand. The Ultimate trigger now counts the refusals the file itself counts (third formal refusal; twice refused), and the nine-hour/seventeen-minute pair is preserved explicitly as a source conflict."
+      }
+    },
+    {
+      "unit": 3,
+      "designation": "N-IVδ-852",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-852_Conservatory_잊혀진_잔해.md",
+      "words": 10095,
+      "sha256": "e5fb17d8f9e181c1db6196fa56d8207392beb6f2433cf264bc968afd1c911b12",
+      "prior_batch": 148,
+      "shape": "I-Relic",
+      "name": "Conservatory",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_03_CONSERVATORY.md",
+      "before_words": 10095,
+      "after_words": 10695,
+      "base": "6bbcf8916e43a4f165b9ae892aa84becc5727338",
+      "final_sha256": "ecaaa193a78a5962f46fc9b2aba97184ac86cc5740a07dbaf3c629fcd9ba1b1b",
+      "summary": "Rechecked Conservatory under R-34 with the owner appearance lens: the current body is a fixed red-black crystal keeping a loved house's floor-plan outline without one original brick, permanently short 2.3 m of east-range wall run, answering resemblance with instrument-read heat. Fifteen repairs remove the template's unremembered, purposeless ruin and its falling stone, bind every combat row to the resemblance rule and the permitted path, move the Ultimate from 65% (inside the starting band) to the file's ≥90% activation threshold, clear the unsupported vessel tonnage, and restore the equipment's testimonial binding while withdrawing the Plate's invented heat clearance. Credit stays +0; the dossier remains HELD.",
+      "commentary": "This caretaker's specifications, load point and failure are the best-documented things in the file — a combat record calling her house forgotten was never describing this entity. The rows now do what the margin actually does: sharpen toward fidelity when something resembles the house, furnish a worker instead of wounding them, and charge a rebuilding attempt in metres of outline that do not grow back.",
+      "reasoning": "Appearance first: geometry without materials — empty rooms, no brick, a permanently missing wall run — so unknown-builder flavor, detaching masonry and 1–10 tons of vessel dust are body errors, and a bed in the flavor lead is remembered furniture, not contents.\n\nTriggers now follow the documented input classes (seeing the house rather than its shape; a plan, object or recollection introduced; anything built/braced/tidied; a sustained reconstruction completing one room; ≥90% during an attempt), each with the file's own response — stand-down, margin walk, lapse rather than dismantle, withdrawal along the permitted path.\n\nExact SE-852 sources govern the set: testimonial binding naming the caretaker event with the gauge held below 25%, attribution before any piece acts, first-person retelling as the corrosion sign, and named-witness shutdown; no source certifies heat clearance for any piece.",
+      "history": "Prior review B148 (9,714→10,095 words) separated the fixed site from its local defensive repositioning, connected overload, remembered architecture and the irreversible outline loss, and held the carried-relic and Transform/extension conflicts. This recheck re-read the whole 513-line primary, B148 evidence and SE-852-A/B/C/D in full before repairing.",
+      "holds": [
+        "Fixed surveyed site with interior, path and fourteen stations versus the Log and Method's picked-up, carried ruin settling to a bearer's pulse; no miniature, scale change or detached relay is specified, and none was invented.",
+        "Activation-only classification versus Side Codex Transform capability and the outline taking more ground, against the Record's does-not-spread account.",
+        "Fever-cold signature versus measured surface and radiant heat; no measurable interior versus ceiling heights and room divisions taken at stations.",
+        "Weapon glyph/Fang naming, Medium versus archetype Long, and Tail Bracelet 4% versus Master ocular bucket/Registry 5% remain unnormalized metadata holds."
+      ],
+      "split": [
+        4,
+        11
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-resilience",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Physical / structural pressure |",
+          "new": "| **Primary pressure** | Resilience — the ability to stand in the margin of a lost house and put nothing right |"
+        },
+        {
+          "id": "R02-vessel-no-dust",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |\n| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |",
+          "new": "| **Vessel-Destructible** | No — a fixed crystal outline at a surveyed site; its losses are measured in metres of wall run, and Pugnahan is N/A |\n| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R03-identification-specific",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Identification** | Check the designation, the element and the manifestation against the file, and verify the outline against the standing architectural record before Work begins; if any detail contradicts, do not proceed. |",
+          "new": "| **Identification** | Confirm before Work or contact: designation N-IVδ-852 `[N]`, Grudge expression, Object-Grudge manifestation, Entity (IV) coherence, Zone C Mask Market margin, and the outline verified at the fourteen marked stations against the standing architectural record; if any detail contradicts, do not proceed. |"
+        },
+        {
+          "id": "R04-flavor-bed-remembered",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "The ruin is beautiful because it remembers being loved. Red crystal holds a doorway, a bed, a window where someone once waited. You reach toward the room and it burns. The place is gone. Loving it does not give you permission to rebuild it incorrectly.",
+          "new": "The ruin is beautiful because it remembers being loved. Red crystal holds a doorway, a window space, the place where a bed was — geometry, not furniture; the rooms are empty. You reach toward the room and it burns. The place is gone. Loving it does not give you permission to rebuild it incorrectly."
+        },
+        {
+          "id": "R05-unremembered-known-house",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Unremembered* [**Debuff**] } | \"The ruin is vast — enormous — and no one has any memory of what it was, or who built it, or why it fell.\" | [The Ruin's forgotten history presses on the target; they feel the weight of unknown purpose.] | *Target suffers -10 Resilience; the meaninglessness is heavy.* **[10 Grudge DMG [Grudge]]** | When the target enters the Ruin. |",
+          "new": "| { *The Unremembered* [**Debuff**] } | \"The ruin is vast — enormous — and no one has any memory of what it was, or who built it, or why it fell.\" | [The flavor line is the error this holding punishes: the builder, the purpose and the fall are all on file. What presses on the worker is fidelity — detail sharpening until the outline reads as the house and they can say where the table was.] | *The worker suffers -10 Resilience. Enter the report as a personnel effect, not a finding; anybody who reports a memory of the house is stood down the same day.* **[10 Grudge DMG [Grudge]]** | When a worker on the permitted path begins seeing the house rather than the shape of it. |"
+        },
+        {
+          "id": "R06-buried-purpose-resemblance",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Buried Purpose* [**Debuff**] } | \"The ruin had a reason once — and the reason has been forgotten, and the forgetting makes the ruin angrier.\" | [The Ruin's lost purpose generates resentment; the target absorbs the aimless rage.] | *Target loses 10 Resilience; they feel the fury of purposelessness.* **[10 Grudge DMG [Grudge]]** | When the target explores. |",
+          "new": "| { *The Buried Purpose* [**Debuff**] } | \"The ruin had a reason once — and the reason has been forgotten, and the forgetting makes the ruin angrier.\" | [The reason was never buried: a caretaker overloaded a Han structure to save a home. Anger in the radius does nothing measurable; affection and resemblance move the reading every time, and the heat answers inside a minute.] | *The worker loses 10 Resilience. Remove whatever resembles the house — plan, object or recollection — log who introduced it, and walk the margin for combustible material before anything else is attempted.* **[10 Grudge DMG [Grudge]]** | When a plan, object or recollection resembling the house is introduced into the radius. |"
+        },
+        {
+          "id": "R07-falling-stone-no-brick",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Falling Stone* [**Attack**] } | \"A stone detaches from the forgotten ruin — and no one remembers it was there until it hits.\" | [A block of unknown ruin strikes from above.] | *Inflicts Grudge pressure and one wound of unremembered collapse.* **[14-22 Grudge DMG [Grudge]]** | When the Ruin is disturbed. |",
+          "new": "| { *The Falling Stone* [**Attack**] } | \"A stone detaches from the forgotten ruin — and no one remembers it was there until it hits.\" | [No stone falls: there is not one brick of the original house in the crystal, and this holding has never injured anybody who stayed on the permitted path. What a rebuilding attempt costs is outline — the east range lost 2.3 metres of wall run in one reaction and they have not come back.] | *Heavy Grudge pressure on Resilience; resistance failure here furnishes rather than wounds. Stop all building, bracing, propping or shoring, let any reconstruction lapse rather than dismantling it, and re-survey the fourteen stations before work resumes.* **[14-22 Grudge DMG [Grudge]]** | When something in the radius is built, braced, shored, tidied or shifted to resemble the house. |"
+        },
+        {
+          "id": "R08-full-uncovering-lapse",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Uncovering* [**Attack**] } | \"The room comes back whole — table, window, the worn place by the door — and it is accurate, and accuracy is the attack.\" | [A reconstruction runs to completion in front of the target; the memory is doing the work.] | *A heavy Grudge surge; the target's Sorrow Gauge rises 15% and their own quarters stop feeling like theirs for the rest of the day.* **[3 Grudge DMG [Grudge] [3 = 15% Max HP]]** | When the ruins are forced into memory at once. |",
+          "new": "| { *The Full Uncovering* [**Attack**] } | \"The room comes back whole — table, window, the worn place by the door — and it is accurate, and accuracy is the attack.\" | [One room rebuilds for as long as the memory can support the form: warm, furnished, accurate — and the pleasant familiarity a worker feels inside it is the first symptom of the recorded risk, the room consuming the observer's present identity.] | *A heavy Grudge surge; the worker's Sorrow Gauge rises 15% and their own quarters stop feeling like theirs for the rest of the day. The second present calls it: step back onto the permitted path and let the room lapse — taking it apart by hand converts an authorised use into the act the holding is made of.* **[3 Grudge DMG [Grudge] [3 = 15% Max HP]]** | When a reconstruction attempt is sustained until one room completes. |"
+        },
+        {
+          "id": "R09-ultimate-threshold-90",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The City of Forgetting* [**Ultimate**] } | \"The margin goes red — every station brightening at once, as though the whole floor plan had been recognised.\" | [The outline stands up around everyone in range; nothing here is unfinished any more.] | *All in range lose Composure for three turns and cannot say afterwards which of the rooms they walked through were real.* **[2 Grudge DMG [Grudge] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The City of Forgetting* [**Ultimate**] } | \"The margin goes red — every station brightening at once, as though the whole floor plan had been recognised.\" | [The whole surviving outline brightens together and reads, for the duration, as finished rooms; the permanently lost east range does not return inside the effect, and cooling afterwards restores nothing.] | *All in range lose Resilience for three turns and cannot say afterwards which rooms they walked through were real. Withdraw unshielded personnel along the permitted path rather than directly away, verify from the instrument record whether the event was activation or extension, and brace nothing on the way out.* **[2 Grudge DMG [Grudge] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥90% activation threshold during a reconstruction attempt. |"
+        },
+        {
+          "id": "R10-consequences-distinct-charges",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- The equipment file states what each piece takes and the field record has never contradicted it. There is no costless extraction in Somnarak and none here: what this source charges is the ability to leave a lost thing lost, which it takes gradually and replaces with the conviction that enough effort would have been sufficient.",
+          "new": "- The equipment file states what each piece takes and the field record has never contradicted it. The charges are separate: the Fang aches old injuries and makes the wielder's own home feel provisional, the Plate dulls reflexes and the willingness to leave a room, and the Bracelet invoices every place its wearer failed to preserve — three routes to the same conviction that enough effort would have been sufficient."
+        },
+        {
+          "id": "R11-fang-binding",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Deals Grudge damage against the Body — structural integrity and physical composure — and the signature it carries is domestic rather than martial: those struck report heat on the skin, the smell of a house fire, and a sudden detailed recollection of a room they have never stood in.",
+          "new": "**Ability:** Deals Grudge damage against the Body — structural integrity and physical composure — and the signature it carries is domestic rather than martial: those struck report heat on the skin, the smell of a house fire, and a sudden detailed recollection of a room they have never stood in. Binding is testimonial: the bearer names Conservatory's event — a caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized — and accepts the registry limit, the management condition satisfied with the Sorrow Gauge held below 25%. The glyphs isolate only a hazard already attributed to Conservatory, interlocking defensively under kinetic attack; treating the event as the bearer's own story is the first corrosion sign, and shutdown is a named witness stating the event while the bearer relinquishes the piece."
+        },
+        {
+          "id": "R12-plate-remain-without-rebuilding",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Grants resistance to Grudge pressure and, uniquely in this set, measurable protection against the radiant heat the source produces. It is the only piece cleared for extended work inside the margin.",
+          "new": "**Ability:** Grants resistance to Grudge pressure against the Body under the same testimonial binding — the caretaker's event named, the management condition satisfied with the Sorrow Gauge held below 25%. Its doctrine is the caretaker's error inverted: it lets a wearer remain present without rebuilding, and it interrupts a hazard only after attribution to Conservatory. No heat clearance is certified by the source record; margin temperature is still taken by instrument, never by hand, whatever the wearer is wearing."
+        },
+        {
+          "id": "R13-bracelet-attribution",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Protects others from structural collapse.",
+          "new": "**Ability:** Protects others from structural collapse — the crystallized disaster lending out the protection it could not provide at home — but it marks a hazard only after attribution to Conservatory and under the same binding: the caretaker's event named, the management condition satisfied with the Sorrow Gauge held below 25%. It shows the devotion and the overload together; a wearer who starts telling the collapse as their own failure is already corroding."
+        },
+        {
+          "id": "R14-use-notes-no-heat-clearance",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Everything in this set is domestic, and that is the hazard rather than the charm of it. The plate is the only piece cleared for extended work inside the margin; the glyphs read the heat the way the ruin does; and the bracelet protects others from structural collapse while its wearer feels every place they failed to preserve.",
+          "new": "Everything in this set is domestic, and that is the hazard rather than the charm of it. No piece is a heat clearance: the Plate lets a wearer stay without rebuilding, the glyphs answer only attributed hazards, and the bracelet protects others from structural collapse while its wearer feels every place they failed to preserve."
+        },
+        {
+          "id": "R15-appearance-note-combat",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "The floating limestone glyphs belong to the Weapon, not to a documented detachable part of this red-black crystal body.",
+          "new": "The floating limestone glyphs belong to the Weapon, not to a documented detachable part of this red-black crystal body. The combat record now observes the same limits: the house's builder and purpose are documented rather than forgotten, no original stone detaches or wounds, and the Ultimate waits for the file's own ≥90% threshold instead of firing inside the starting band."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IVδ-852_Conservatory_잊혀진_잔해.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.035  clean    86 grams  Operational Parameters\n 0.016  clean   853 grams  감각 묘사 (Flavor Text)\n 0.013  clean   397 grams  관찰 기록 (Observation Log)\n 0.012  clean   592 grams  기록 (Registrum)\n 0.009  clean   215 grams  이야기 보고 (Story Log)\n 0.007  clean   974 grams  Combat Record\n 0.007  clean  1011 grams  M.A.W. Equipment\n 0.004  clean   797 grams  Activation Behavior\n 0.004  clean   273 grams  Behavior\n 0.000  clean  1249 grams  Apex Record\n 0.000  clean   630 grams  Appearance\n 0.000  clean   352 grams  이야기 (Narratio)\n 0.000  clean   245 grams  Trivia\n 0.000  clean   186 grams  Origin\n 0.000  clean   127 grams  최종 관찰 (Final Observation)\n 0.000  clean    56 grams  증언 (Testimonium)\n 0.000  clean    38 grams  SECC Classification\n 0.000  clean    26 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   43   1  - Viderehan and Ferrehan are the only valid approaches; the ruin cannot be engaged emotionally or confronted.\n   56   1  | **Resistance** | 45% against Grudge pressure; 35% against other pressure types. Nothing resists resemblance: it is the one input\n   86   6  | { *The City of Forgetting* [**Ultimate**] } | \"The margin goes red — every station brightening at once, as though the whole floo\n  158   1  Read the table as the holding's whole method rather than as a menu. Conservatory is an Object/Place with an Object-Grudge manifest\n  165   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  215   2  **Activation reporting order:** what resembled the house → who introduced it and whether it was a plan, an object, or a recollecti\n  247   1  **Appearance:** a plated harness of Grudge Han-iron that darkens from red toward black as it cools and fits itself to the wearer's\n  273   1  **Effect:** +3 to the working stat while this margin is the subject of the cycle, and nothing at all anywhere else\n  279   1  *The bracelet is never manufactured and never issued: it appears after a successful cycle at the entity's own disposition, on a wo\n  291   1  | **Before use** | Wielder, piece, gauge at issue, and a sealed baseline of the wielder's own quarters — where they live, how long\n  292   1  | **During use** | Watch for the domestic tells rather than the clinical ones: old injuries aching, bruising where nothing struck,\n  294   1  | **After use** | Return the piece and reconcile the sealed baseline: does the wielder still describe their quarters as theirs, an\n  296   1  **Stat interpretation:** The grade states how hard a piece hits and nothing about what it takes, and the δ ratings here are accomp\n  318   5  **Observation method:** Work from the permitted path, by instrument wherever the margin is hot, and record the first visible sign,\n  324   1  Conservatory (N-IVδ-852 [N]) is carried on the wing's register as an Object-Grudge manifestation expressing Grudge. The Ruin forme\n  333   1  Work response — Viderehan: Shows the love and failure behind the structure. (Stable); Ferrehan: Tests whether the worker can remai\n  365   5  The three filed relations are other records of places kept past their time, and the question on each is whether the other presence\n  367   1  **Interaction method:** Baseline each entity alone; the crystal's temperature varies enough with ordinary conditions that a short \n  372   5  The survey below is filed with the Mask Market margin records and covers three holdings, each read against a single question: does\n  374   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  380   6  **Interaction procedure:** Baseline both parties alone, bring the second presence only as far as the margin along the permitted pa\n  429   6  **Operational interpretation:** The file is a map and the margin is the territory, and the containment measure is unusual enough t\n  431   1  **Review requirement:** Every activation, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline; re-verify the ga\nGENERIC 0.006  (54 shared shingles)  SE-N-IVδ-852_Conservatory_잊혀진_잔해.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_04_CONSERVATORY.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-A__SIDE_CODEX_Conservatory.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-B__MAW-W_Conservatory_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-C__MAW-S_Conservatory_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-D__MAW-G_Conservatory_Bracelet.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_04_CONSERVATORY.md": "c50c95650fb3d88cb84fda4b0c02f88f81e419d3288e20460adf140f8670f5d4",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-A__SIDE_CODEX_Conservatory.md": "c9bb35949239c99d77dde3a3904c5b8080c4924c2e9a682a9293b723dbb670e3",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-B__MAW-W_Conservatory_Fang.md": "b8acf6cbf91b414d378546bffc26e52c213c512eceae75992b061bb1998b6890",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-C__MAW-S_Conservatory_Plate.md": "34d055afc9f08c2376206c2bf28ba97d250ad394245c488b97678ed3c6b1536e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-D__MAW-G_Conservatory_Bracelet.md": "69096d8e65076a7d07346cb09e6439eddf8cb30c082cd8deb6cdd8678ea51ba9",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IVδ-852_Conservatory_잊혀진_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-852_Conservatory_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9E%94%ED%95%B4.md \"SE-N-IVδ-852_Conservatory_잊혀진_잔해.md\")]",
+      "table_link": "[[N-IVδ-852 Conservatory](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-852_Conservatory_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9E%94%ED%95%B4.md \"SE-N-IVδ-852_Conservatory_잊혀진_잔해.md\")]",
+      "reading": "Whole primary before (513 lines) and whole final after; B148_04 evidence, SE-852-A/B/C/D and the ledger Master/Tales/Entity/CSV/archetype/disposition set. Combat Trigger cells parsed against the header; all table cell counts equal.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 231,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 11,
+        "digit_sequence_change": "Only unsupported or misaligned digits moved: ~1–10 tons vessel dust removed with the destructible vessel, and the Ultimate aligned from 65% to the file's own ≥90% activation threshold. Fourteen stations, 2.3 m, 25%, 60–80%, 873/873 and all equipment profiles stand."
       }
     }
   ]
