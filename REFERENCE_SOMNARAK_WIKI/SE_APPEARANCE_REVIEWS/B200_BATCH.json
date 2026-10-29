@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "batch": 200,
+  "status": "OPEN",
+  "completed_units": 0,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "N-IVδ-159",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-159_Apnea_얼어붙은_한숨.md",
+      "words": 8607,
+      "sha256": "58aceb79095a518d343f6aaa189b06a398149279a879c37af195417e161debcb"
+    },
+    {
+      "unit": 2,
+      "designation": "O-IVδ-897",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-897_Welcome_Haven_부서진_벽.md",
+      "words": 8622,
+      "sha256": "948ec560e38347afa8b72dd60255c553fe8f5f9e7279a6eb86d28be5746688e5"
+    },
+    {
+      "unit": 3,
+      "designation": "C-IVδ-125",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md",
+      "words": 8651,
+      "sha256": "a096651dfd78839004fcb35f5aad9273e3733a57c33c8a77819bfe91862d6e46"
+    },
+    {
+      "unit": 4,
+      "designation": "C-IVγ-270",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-270_Memory_Lake_기억의_호수.md",
+      "words": 8656,
+      "sha256": "941b15af40be728841200c44d8dcecb34c40565f1169a91b45d046c4e6f1e8d9"
+    },
+    {
+      "unit": 5,
+      "designation": "N-IIα-215",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIα-215_Forgotten_Name_잊혀진_이름.md",
+      "words": 8668,
+      "sha256": "1213ed23db87a2cb98fb7e4e005952369a934c7b5a3a1db7bfecb2a20ee30153"
+    }
+  ],
+  "opened_at": "2026-10-29",
+  "completed": 0,
+  "units": []
+}
