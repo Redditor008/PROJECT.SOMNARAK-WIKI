@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IIβ-290": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_05_BROKEN_COMPASS.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -1749,20 +1761,13 @@
       "designation": "C-IIβ-290",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-290_Broken_Compass_부서진_나침반.md",
       "status": "held",
-      "note": "Four supported repairs: completed the clipped activation warning; normalized Weapon Appearance label; initial observation checks concrete identity before timing; activation flavor no longer contains a broken Tool Use Profile fragment or implies a Work instruction to lift the compass.",
-      "outcome": "unresolved whole-file logical relationship",
-      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_05_BROKEN_COMPASS.md",
+      "note": "HELD +0 — 21 repairs stop requiring workers to hold, follow, strike or shatter an instrument whose whole protocol is a cradle.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_05_BROKEN_COMPASS.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-290-A__SIDE_CODEX_Compass_Without_North.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-290-B__MAW-W_The_Lost_Lens.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-290-C__MAW-S_The_Lost_Veil.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-290-D__MAW-G_The_Lost_Compass.md",
-        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
-        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-290-D__MAW-G_The_Lost_Compass.md"
       ],
       "whole_before_reread": true,
       "whole_final_reread": true,
