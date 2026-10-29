@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-IVδ-897": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_02_WELCOME_HAVEN.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -7359,8 +7371,23 @@
     {
       "designation": "O-IVδ-897",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-897_Welcome_Haven_부서진_벽.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Seventeen repairs (2 short / 15 careful). The Combat Actions no longer ask a target to lean on a wall, demolish Welcome Haven, assign personnel a Sorrow Gauge, or make collapse contagious at 65%. They now trigger from the file's own conduct: sheltering behind a barrier, assuring somebody they are safe, striking the figure, erecting a representation of protection, and reaching the ≥90% Gauge threshold. Resolution, Consequences, Breach, Work/Observation and Field Use all use the same indexed promise accounting—barriers and assurances raise the Gauge; a specific answerable admission lowers it. The Breach-Pike loses its invented recurring damage score, and the Broken Charm reveals who a structure leaves exposed instead of certifying failure in advance. HELD; no credit because the primary already integrates all three pieces, exact statistics/costs and bespoke binding/custody notes.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_02_WELCOME_HAVEN.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/897_Welcome_Haven/SE-897-A__SIDE_CODEX_Welcome_Haven.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/897_Welcome_Haven/SE-897-B__MAW-W_The_Broken_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/897_Welcome_Haven/SE-897-C__MAW-S_The_Broken_Barrier.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/897_Welcome_Haven/SE-897-D__MAW-G_The_Broken_Charm.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "O-IVδ-909",
