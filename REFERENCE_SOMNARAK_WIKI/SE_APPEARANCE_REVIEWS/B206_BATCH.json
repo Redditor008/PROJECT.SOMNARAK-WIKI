@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 206,
   "status": "OPEN",
-  "completed_units": 0,
+  "completed_units": 1,
   "required_units": 5,
   "queue": [
     {
@@ -52,6 +52,249 @@
     }
   ],
   "opened_at": "2026-10-30",
-  "completed": 0,
-  "units": []
+  "completed": 1,
+  "units": [
+    {
+      "unit": 1,
+      "designation": "C-IVδ-103",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md",
+      "words": 7886,
+      "sha256": "ba094c207fd07ea65c62a8ff6426ca4d239529f9112b790aa289b79ee23a8e76",
+      "prior_batch": 148,
+      "shape": "Subject",
+      "name": "The Frozen Veil",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_01_FROZEN_VEIL.md",
+      "before_words": 7886,
+      "after_words": 8245,
+      "base": "7e80d7427cb6b732ca53762859473f7c41916771",
+      "final_sha256": "62518988fc8b35ad8f609ccdbcc644c34394c432f9d77c9f89567080c226cba0",
+      "summary": "21 source-bound repairs split 11 short / 10 careful. The table no longer gives an unattackable, non-attacking drain a wall, a lance, a speed or tons of dust, and the three pieces no longer share one pooled cost. Movement, selection, destroyed-versus-active fate, Canto anatomy and equipment identity conflicts remain held.",
+      "commentary": "The Veil never attacks; it drains feeling inside five meters while every thermometer stays normal, cracks only for genuine unplanned tears, and thickens on staged feeling. The rows now say exactly that: crossing the line, remaining toward ten minutes, forcing warmth, the rare genuine crack, and an arranged-feeling Ultimate at the file's own ≥90% threshold. The lens, veil and heart each pay a different price and the suit is no longer a substitute for its anchors.",
+      "reasoning": "**Person-shaped shell, not water.** The body is frozen feeling with shoulder/sternum readings; the ice wall, ceiling frost and launched lance were removed rather than explained as metaphor, and one consequence no longer lets the ambient temperature fall against the file's defining measurement.\n\n**Movement stays disputed.** Operational stillness, chamber perimeter walks and Escape following stay three labelled accounts; the invented 2.45 m/s and the SECC \"mobile, can pursue\" claim no longer pick a winner, and ton-scale dust no longer claims a destructible vessel on a file where force is irrelevant.\n\n**Equipment keeps its real limits.** The Suit holds only inside its two-anchor protocol, the Stigma only for one authorized interval with paired release, and the three costs are logged separately. The B112 credit for *Warmth at Risk* is untouched.",
+      "history": "Prior full logical review B148_02_FROZEN_VEIL (pre-R-34) held the appearance. The exact A/B/C/D set *Warmth at Risk* was cross-reviewed in Batch 112 unit 2 (5d8b754) and already credited by the official counter; this recheck changes no equipment credit and moves no official counter.",
+      "holds": [
+        "Stationary since placement versus perimeter walks and Escape following; nearest-person versus warmth-directed drift.",
+        "Humanoid chamber figure versus Canto IV colossal curtain/heart/tendril anatomy; destroyed fate versus Dawn-dated active holding and extraction.",
+        "Lens disc versus Canto rifle and Instant/Medium range labels; flowing-heavy versus stiff-light Cold Veil; generic 5% versus exact 4%.",
+        "Zone D drifting versus Alpha Tree deep storage; duration-denied versus timed drain series."
+      ],
+      "split": [
+        11,
+        10
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-composure",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Identity / memory pressure |",
+          "new": "| **Primary pressure** | Composure — emotional capacity and attachment, which drains while presenting as efficiency |"
+        },
+        {
+          "id": "R02-valid-work",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Viderehan and Ferrehan; Flerehan only when genuine and unscheduled. Pugnahan is recorded Stable because force is irrelevant here, not because it is a response; do not deploy against it. |"
+        },
+        {
+          "id": "R03-vessel-force-ineffective",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |\n| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |",
+          "new": "| **Vessel-Destructible** | No — physical force is ineffective; the shell cracks only under genuine, unarranged feeling |\n| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R04-speed-unsettled",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | 2.45 m/s |",
+          "new": "| **Speed** | Not established — chamber accounts give unhurried perimeter walking while operational notes give no movement since placement; the dispute is held, not averaged |"
+        },
+        {
+          "id": "R05-consequences-temperature",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- Left unresolved the sorrow does not rupture. The shell gains thickness and the chamber's ambient temperature falls another fraction, and the archive notes that in eighty years of records the shell has thinned on nineteen occasions, all nineteen unplanned.",
+          "new": "- Left unresolved the sorrow does not rupture. The shell gains thickness and the perceived cold deepens while every thermometer stays normal, and the archive notes that in eighty years of records the shell has thinned on nineteen occasions, all nineteen unplanned."
+        },
+        {
+          "id": "R06-coherence-secc",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "| **Coherence** | Entity (IV) — Self-aware, cold, distant |\n| **Potency** | Critical (δ) — Facility-threatening |",
+          "new": "| **Coherence** | Entity (IV) — cold, distant; self-awareness unresolved in the Side Codex |\n| **Potency** | Critical (δ) — Facility-threatening |"
+        },
+        {
+          "id": "R07-coherence-combat",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "| **Coherence** | Entity (IV) — Self-aware, cold, distant |\n| **Primary Pressure** | Composure |",
+          "new": "| **Coherence** | Entity (IV) — cold, distant; self-awareness unresolved |\n| **Primary Pressure** | Composure |"
+        },
+        {
+          "id": "R08-trivia-coherence",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- **Classification detail:** The Frozen Veil is a Subject with Entity (IV) — Self-aware, cold, distant coherence and Critical (δ) — Facility-threatening potency.",
+          "new": "- **Classification detail:** The Frozen Veil is a Subject with Entity (IV) coherence — cold and distant, its self-awareness unresolved — and Critical (δ) — Facility-threatening potency."
+        },
+        {
+          "id": "R09-target-coverage-anchor",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "**Target Coverage:** A line of up to three. The cold travels along a corridor and reaches everybody in it at once, which is how a withdrawing team is usually affected.",
+          "new": "**Target Coverage:** A Skewer line of up to three, cut only where the anchor has confirmed the pull is an external intrusion rather than grief, anger or consent."
+        },
+        {
+          "id": "R10-resistance-five-meter",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 45% against Void pressure; 35% against other pressure types |",
+          "new": "| **Resistance** | 45% against Void pressure; 35% against other pressure types as formal ratings — force is not resisted here, it is irrelevant. Working protection is the five-meter line: a named spotter outside it with absolute withdrawal authority, living-attachment checks every five minutes, and work inside the line timed in minutes. Drain rises by 5 for each attempt to provoke feeling while it is loose. |"
+        },
+        {
+          "id": "R11-curtain-crossing-line",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Ice Curtain* [**Debuff**] } | \"The veil forms — a wall of translucent ice between you and everything you were reaching for.\" | [The Veil's barrier cuts the target off; isolation sets in.] | *Target suffers a Void mark; they are sealed away.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Veil descends. |",
+          "new": "| { *The Ice Curtain* [**Debuff**] } | \"The veil forms — a wall of translucent ice between you and everything you were reaching for.\" | [No wall forms. Inside five meters the cold arrives as numbness before temperature, and the worker is cut off while every instrument reads normal.] | *The worker suffers a Void mark to Composure. The spotter outside the line runs the living-attachment check every five minutes; factual answers do not pass it.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker crosses the five-meter line into the drain radius. |"
+        },
+        {
+          "id": "R12-frost-ten-minutes",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Frost Spread* [**Debuff**] } | \"The ice creeps outward — covering floor, wall, ceiling — and the cold is absolute.\" | [The Veil's permafrost extends; the target's space shrinks.] | *Target loses clarity; the cold is consuming thought.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains behind the Veil. |",
+          "new": "| { *The Frost Spread* [**Debuff**] } | \"The ice creeps outward — covering floor, wall, ceiling — and the cold is absolute.\" | [Nothing freezes over. What spreads is the loss of emotional meaning: the facts of affection remain available while the experience of why they mattered goes.] | *The worker loses Composure. The spotter watches what the worker does, not what they say — colleagues referred to by function instead of name is the call to withdraw.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker remains inside the line toward ten minutes, where the recorded loss of emotional capacity begins. |"
+        },
+        {
+          "id": "R13-spear-forced-warmth",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Ice Spear* [**Attack**] } | \"A spike of the frozen veil breaks free — and it is aimed at whatever was trying to get through.\" | [An ice-lance launches from the Veil.] | *Inflicts Void damage; the cold pierces through identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Veil is probed. |",
+          "new": "| { *The Ice Spear* [**Attack**] } | \"Nothing breaks free and nothing is aimed. The shell simply gets thicker where you reached for it.\" | [The Veil does not attack. An attempt to force warmth or produce feeling is answered the only way the record shows: the shell thickens and the drain deepens.] | *Heavy Void pressure on Composure. Stop the prompt, withdraw, and enter the preparation beside the reading as its cause; never send warmth in to force a cure.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When warmth is forced or feeling is deliberately provoked in its presence. |"
+        },
+        {
+          "id": "R14-shatter-delayed-return",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Shatter* [**Attack**] } | \"The shell cracks across the sternum — the station the quarterly series measures — and everything the Veil was holding back comes through at once.\" | [A measured thinning rather than a blow; what was behind the shell arrives unimpeded.] | *A heavy Void surge; the target's Sorrow Gauge rises 15% and the shell reading drops for the turn.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the shell is thinned by genuine feeling. |",
+          "new": "| { *The Full Shatter* [**Attack**] } | \"The shell cracks across the sternum — the station the quarterly series measures — and everything the Veil was holding back comes through at once.\" | [A measured thinning rather than a blow; what was behind the shell arrives unimpeded.] | *A heavy Void wave, and the feeling that returns to exposed workers arrives together, as a delayed burden rather than relief. The shell reading drops for the turn; do not try to repeat the moment — a staged second attempt thickens it.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the shell is thinned by genuine, unplanned feeling. |"
+        },
+        {
+          "id": "R15-permafrost-threshold-arranged",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Permafrost* [**Ultimate**] } | \"Five meters is not a rule any more — the line painted on the floor is under the ice, and there is nobody outside it left to call a withdrawal.\" | [The drain goes past the marked line and out to the walls.] | *All in range lose emotional capacity for three turns; the spotter's authority to call a withdrawal survives the effect and is exercised in writing.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Permafrost* [**Ultimate**] } | \"Five meters is not a rule any more — the line painted on the floor is under the ice, and there is nobody outside it left to call a withdrawal.\" | [The drain goes past the marked line and out to the walls.] | *All in range lose emotional capacity for three turns; the spotter's authority to call a withdrawal survives the effect and is exercised in writing.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥90% activation threshold after feeling has been arranged in its presence. |"
+        },
+        {
+          "id": "R16-consequences-distinct-costs",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- The lens, the veil and the heart are all made from a century of people declining to feel anything. Each activation borrows a measure of that distance and the operator keeps it. The recorded cost is not numbness in general. It is that the operator finds other people's grief informative rather than affecting, and does not notice the change.",
+          "new": "- The lens, the veil and the heart are all made from a century of people declining to feel anything, but they do not charge the same price: the lens takes nameless memories and the feeling attached to large ones, the veil leaves its wearer performing warmth accurately, and the heart suspends genuine emotion outright while it holds. None of the three is noticed arriving by the person paying it."
+        },
+        {
+          "id": "R17-suit-anchors",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Turns Void aside from the soul, which is the only pressure here. The cold veil is what allows a worker to stand at the line for a full session and still mind about things afterwards.",
+          "new": "**Ability:** *Quiet Perimeter* — strongly resists Void by creating a contained emotional distance. It holds only inside the anchor protocol: one living attachment named, two anchors chosen, and termination authority held outside the wearer. The suit is not what makes standing at the line safe; the anchors are."
+        },
+        {
+          "id": "R18-stigma-authorized-interval",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Makes the wearer immune to emotional manipulation.",
+          "new": "**Ability:** *Cold Shelter* — for one authorized emergency interval, makes the wearer immune to emotional manipulation. It is released only by the paired sequence (welfare authority plus relationship anchor) after the threat ends; it is never left active past the threat."
+        },
+        {
+          "id": "R19-use-notes-distinct",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Nothing in this set can be warmed. The lens opens the suspicion that a target never felt as much as they claimed, the veil turns aside the only pressure the chamber produces, and the heart stops emotional manipulation by stopping feeling altogether. All three are cut from a century of people declining to feel anything, and each activation borrows a measure of that distance and leaves it with the operator: the cost is not numbness in general but the discovery that other people's grief has become informative rather than affecting, which no wearer has yet reported noticing on their own.",
+          "new": "Nothing in this set can be warmed. The lens opens the suspicion that a target never felt as much as they claimed, the veil turns aside the only pressure the chamber produces, and the heart stops emotional manipulation by stopping feeling altogether. All three are cut from a century of people declining to feel anything, but the borrowed distance settles differently in each — memories thinned of feeling, warmth performed accurately, or feeling suspended entire — and the spotter logs which one arrived, because no wearer has yet reported noticing any of them on their own."
+        },
+        {
+          "id": "R20-secc-movement-disputed",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Movement** | Mobile — walks upright; can breach and pursue. |",
+          "new": "| **Movement** | Disputed — operational notes give no movement since placement; chamber and Escape accounts give unhurried walking. Held, not averaged. |"
+        },
+        {
+          "id": "R21-opnote-drain",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- Identity pressure acts on recall of what the Veil covers; personnel are debriefed at the storage door while the detail survives.",
+          "new": "- The drain acts on the feeling attached to a memory while its facts survive; personnel are debriefed at the storage door in their own words while that feeling is still theirs to give."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.017  clean   174 grams  Breach Behavior\n 0.015  clean   817 grams  M.A.W. Equipment\n 0.014  clean   145 grams  Operational Parameters\n 0.011  clean   350 grams  관찰 기록 (Observation Log)\n 0.011  clean   802 grams  Combat Record\n 0.010  clean   858 grams  감각 묘사 (Flavor Text)\n 0.008  clean   131 grams  최종 관찰 (Final Observation)\n 0.005  clean   186 grams  Behavior\n 0.005  clean   387 grams  이야기 보고 (Story Log)\n 0.000  clean   727 grams  Apex Record\n 0.000  clean   550 grams  Appearance\n 0.000  clean   409 grams  이야기 (Narratio)\n 0.000  clean   159 grams  기록 (Registrum)\n 0.000  clean   145 grams  Trivia\n 0.000  clean    63 grams  Origin\n 0.000  clean    53 grams  증언 (Testimonium)\n 0.000  clean    34 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 45% against Void pressure; 35% against other pressure types as formal ratings — force is not resisted here, it \n   81   1  | { *The Ice Curtain* [**Debuff**] } | \"The veil forms — a wall of translucent ice between you and everything you were reaching fo\n   82   1  | { *The Frost Spread* [**Debuff**] } | \"The ice creeps outward — covering floor, wall, ceiling — and the cold is absolute.\" | [No\n   85   6  | { *The Permafrost* [**Ultimate**] } | \"Five meters is not a rule any more — the line painted on the floor is under the ice, and \n   91   1  3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **tears and sincere emotional expres\n  164   1  The table is read against the shell rather than against the gauge, because on this holding the two move separately: the gauge is w\n  184   3  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each attempt to provoke feeling in its presence while it is loose. It\n  207   2  **Ability:** Void damage to the soul — to identity and the capacity for attachment rather than the body. The lens carries the Veil\n  215   1  **Appearance:** a flowing veil of Void Han-gossamer that hangs heavy as if wet, keeps its shape when its wearer turns, and only sh\n  227   2  **Cost:** The wearer feels faintly absent to themselves, and reports their own warmth toward others as something they are performi\n  259   1  | **Before use** | Wielder, piece, and a dated baseline against a specific class of loss. The baseline is held by the spotter, sea\n  262   2  | **After use** | The sealed baseline comes out and both columns are written: what the wielder remembers of the week and what the \n  264   4  **Stat interpretation:** Field performance and human cost are separate axes, and on this file the cost lands on the roster rather \n  289   4  **Observation method:** Record the first sign, which is the cold arriving as numbness before it arrives as temperature; the first \n  295   2  The Frozen Veil (C-IVδ-103 [VS]) is carried on the wing's register as a Subject-Void manifestation expressing Void. The Veil cryst\n  313   1  | Hold to the condition: tears and sincere emotional expression crack the Veil, and physical force is ineffective. Nothing is stag\n  334   7  The Veil's five filed relations are what a century of distance left in one building: two holdings it cannot warm to, one cut from \n  343   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.007  (44 shared shingles)  SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_02_FROZEN_VEIL.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-A__SIDE_CODEX_The_Frozen_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-B__MAW-W_The_Cold_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-C__MAW-S_The_Cold_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-D__MAW-G_The_Cold_Heart.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_02_FROZEN_VEIL.md": "78615d2a97d0b506f6d8f385f0927c0404fcbbf59206fb88181154d4dfe57c16",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-A__SIDE_CODEX_The_Frozen_Veil.md": "452692daf0a36a6c36b2ced69a04deeaaaf83a5d0082c00b08168f321484ca23",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-B__MAW-W_The_Cold_Lens.md": "3d5797f490ad97d8d00514615d4a625f9d8a2c3abdde0b43f1558284794b8cec",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-C__MAW-S_The_Cold_Veil.md": "e37f2cc1e9dd09154f282e5f00c196dcaaf8fd9e320db1ffae0cd820632abf59",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-D__MAW-G_The_Cold_Heart.md": "38c213739213b13048105cc847c7f84ea4b3cff7a22e2b5bb3256ae9da9499ee",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-103_The_Frozen_Veil_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%B2%A0%EC%9D%BC.md \"SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md\")]",
+      "table_link": "[[C-IVδ-103 The Frozen Veil](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-103_The_Frozen_Veil_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%B2%A0%EC%9D%BC.md \"SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md\")]",
+      "reading": "Frozen primary SHA256 ba094c207fd07ea65c62a8ff6426ca4d239529f9112b790aa289b79ee23a8e76 read whole (447 lines) beside B148_02_FROZEN_VEIL and SE-103-A/B/C/D read completely; Registry CSV rows SE-103-A/B/C/D confirmed. Final primary re-read whole after exact replay.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 236,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 6,
+        "digit_sequence_change": "Removed unsupported 2.45 m/s speed and ~1–10 ton dust; removed a 15% surge on the beneficial thinning event; moved the Ultimate from 65% (inside the 60–80% opening band) to the file ≥90% threshold. Source lens, armor, gift, drain +5 and five-meter/ten-minute bounds preserved."
+      }
+    }
+  ]
 }

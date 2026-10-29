@@ -27,7 +27,20 @@
       "C-IIIγ-373",
       "C-Iα-114"
     ],
-    "reviewed": {}
+    "reviewed": {
+      "C-IVδ-103": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_01_FROZEN_VEIL.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -2530,21 +2543,15 @@
       "designation": "C-IVδ-103",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md",
       "status": "held",
-      "note": "Replaced indiscriminate hunting with the recorded unhurried following of the nearest person and accompanying emotional absence. Connected the humanoid shell, collective suppressed feeling, genuine-tear cracking and arranged-feeling thickening without supplying a former human or literal-water anatomy. Made the movement, combat, Canto-body and destroyed-versus-active-source conflicts explicit rather than merging them into invented stages.",
-      "outcome": "unresolved whole-file logical relationship",
-      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_02_FROZEN_VEIL.md",
+      "note": "21 source-bound repairs split 11 short / 10 careful. The table no longer gives an unattackable, non-attacking drain a wall, a lance, a speed or tons of dust, and the three pieces no longer share one pooled cost. Movement, selection, destroyed-versus-active fate, Canto anatomy and equipment identity conflicts remain held.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_01_FROZEN_VEIL.md",
       "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_02_FROZEN_VEIL.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-A__SIDE_CODEX_The_Frozen_Veil.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-B__MAW-W_The_Cold_Lens.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-C__MAW-S_The_Cold_Veil.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-D__MAW-G_The_Cold_Heart.md",
-        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
-        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
-        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-        "SOMNARAK-WORLD/Story_Cantos/CANTO_04_THE_SUB_ZERO_RIDGE_HA_EUN.md"
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv"
       ],
       "whole_before_reread": true,
       "whole_final_reread": true,
@@ -10100,6 +10107,14 @@
       "history_proof": "Fresh exact SE-220 full-set review. No prior evidence mentions C-IVδ-220; no in-file cross-source/full-set review block; primary Use Notes do not mention Side set/items; Side A has no profile-hold/disposition paragraph; equipment_reviews had no 220 entry; git path history only the B179 import (87f1a01). Side A (115 lines) and items B/C/D in Registry_220_to_233 read whole (60/60/65 lines) including Appearance sections; Registry rows 498-501 confirm identity (Weapon Variable, Stigma generic Accessory/5%); erased-vs-scheduled (Year 4140 ninety-year) doctrine fork first recorded here and held unmerged. New +1 Types/+1 Weapon; SE +0 (whole design HELD).",
       "all_types_credit": true,
       "weapon_credit": true
+    },
+    {
+      "designation": "C-IVδ-103",
+      "batch": 206,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_01_FROZEN_VEIL.md",
+      "history_proof": "Batch 112 unit 2 (5d8b754, 2026-10-12) already cross-reviewed the exact SE-103 A/B/C/D set *Warmth at Risk*; the official counter credits that set before B206, so this recheck adds no Types or Weapon credit.",
+      "all_types_credit": false,
+      "weapon_credit": false
     }
   ]
 }
