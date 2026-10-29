@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A young woman's figure of true flesh and bone, rigid with held fury — skin flushed dark, fists clenched, jaw set, heat radiating from her like a banked fire. She is warm, alive, and coiled to strike; the air around her carries the smell of char and old smoke. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — stands, walks the chamber and sits with her sisters; she has never breached, and the modelled breach moves on foot only toward confrontation, passing over the unconfronting. |
 | **Location** | SECTOR-D-02, contained with the Three Sisters |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -26,14 +26,14 @@
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Subject |
-| **Primary pressure** | Physical / structural pressure |
+| **Primary pressure** | Resilience — holding the watch without answering her in kind; the structural load on the fittings is its literal trace |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
+| **Vessel-Destructible** | No — destruction is not an available resolution on a living Subject; confrontation only feeds the load and leads both Sisters upward |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Flerehan and Ferrehan. Flerehan is the only route by which this holding has ever advanced: the flames drop and the accusatory edge leaves the voice. Ferrehan takes the full watch in the heat, answering when addressed and never agreeing with her about who. Viderehan holds the gauge where it is. Pugnahan is prohibited outright — she was formed out of that exchange and burns hotter the longer it runs. |
 
 ### Operational Notes
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.15 m/s |
-| **Resistance** | 35% against Grudge pressure; 25% against other pressure types |
+| **Resistance** | 35% against Grudge pressure; 25% against other pressure types. Resistance is never a licence to argue: response teams are screened for open grievances, nobody opens or answers in kind, fittings are load-checked on the gauge schedule, and both Sisters are read within the hour of any spike here. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 459/459 |
 | **Han Pressure [ATK]** | 10–24 per hit · Grudge |
@@ -70,23 +70,23 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan and Ferrehan; Viderehan holds the gauge level. Pugnahan is prohibited absolutely. |
 | **Battlefield** | SECTOR-D-02, contained with the Three Sisters |
-| **Resolution Condition** | Validate the anger; do not deny or argue with it |
+| **Resolution Condition** | The worker states plainly that what was done to the boy was wrong, names no person, and demands no forgiveness; then the cooling hour runs and the thermal settle is confirmed before relief. Validation lowers the flame; argument feeds it. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Clenched Fist* [**Debuff**] } | "She stands shaking with rage — and the shaking transfers to you, and you cannot stop your hands from curling." | [The Maiden's fury infects the target; their own anger rises unbidden.] | *Target suffers -10 Resilience; they are becoming angry without cause.* **[10 Grudge DMG [Grudge]]** | When the target approaches. |
-| { *The Rising Bile* [**Debuff**] } | "Her fury has no target — it is pure, undirected, and enormous. Just being near it makes you furious at everything." | [The Maiden's formless rage envelops the target.] | *Target loses 10 Resilience; everything becomes infuriating.* **[10 Grudge DMG [Grudge]]** | When the target remains near. |
-| { *The Slap* [**Attack**] } | "She strikes — hard, fast, and with the full force of a fury that has been building for centuries." | [A single devastating blow from a fist that has never unclenched.] | *Inflicts Grudge pressure and one heavy, ringing wound.* **[14-22 Grudge DMG [Grudge]]** | When the Maiden is provoked. |
-| { *The Full Eruption* [**Attack**] } | "Every ounce of fury she has ever suppressed — released at once, in one enormous, screaming blow." | [The Maiden detonates with all her accumulated rage.] | *A heavy Crimson detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Maiden is cornered. |
-| { *Everyone Is Furious* [**Ultimate**] } | "Now everyone is as angry as she is — and no one knows why, and no one can stop." | [The Maiden extends her fury across the whole field.] | *All in range suffer Grudge pressure for three turns of universal rage.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Clenched Fist* [**Debuff**] } | "She stands shaking with rage — and the shaking transfers to you, and you cannot stop your hands from curling." | [A worker who enters her fire radius carrying visible unresolved anger gives her load somewhere to gather; their own hands begin to curl.] | *The worker loses Resilience as their anger rises. Do not open and do not answer: the screened relief takes the watch, and the grievance is dealt with outside her hearing.* **[10 Grudge DMG [Grudge]]** | When a person enters the fire radius with visible unresolved anger. |
+| { *The Rising Bile* [**Debuff**] } | "You explain, kindly and accurately, that nobody can be blamed while nobody is known — and the room gets hotter by the minute." | [Her anger has a fixed object, the violence that killed the child; what spreads through the room is the dismissal of it.] | *Personnel lose Resilience and begin answering each other. Stop explaining: state that the act was wrong, name no person, and let the exchange end there.* **[10 Grudge DMG [Grudge]]** | When a person calls her anger irrational, excessive or inconvenient, or explains that nobody can be blamed. |
+| { *The Slap* [**Attack**] } | "She strikes — hard, fast, and with the full force of a fury that has been building for centuries." | [A single Grudge impact delivered to the person confronting her; in three chamber incidents the uninvolved beside them were ignored entirely.] | *Inflicts heavy Grudge pressure on the confronter only. Everybody else holds position and offers nothing; the exchange stops when the answering stops.* **[14-22 Grudge DMG [Grudge]]** | When a person threatens, mocks or physically confronts the Maiden. |
+| { *The Full Eruption* [**Attack**] } | "Every ounce of fury she has ever suppressed — released at once, in one enormous, screaming blow." | [A high-output Crimson blast into the room's structure: the fittings take what the architecture takes, and both Sisters' loads follow within a short interval.] | *Heavy Grudge pressure and structural load. Open the exit path, restore Sister proximity, withdraw every answer, and read all three Sisters within the hour in fixed order.* **[24-36 Grudge DMG [Grudge]]** | When her exit paths are blocked or her proximity to her Sisters is broken. |
+| { *Everyone Is Furious* [**Ultimate**] } | "Now everyone is as angry as she is — and no one knows why, and no one can stop." | [A three-turn group rage field: the wave finds the friction already in the room and widens it until the team is arguing with itself.] | *All in range suffer Grudge pressure for three turns. One screened voice states the violence plainly and that it was wrong; nobody demands forgiveness, nobody argues, and the watch moves to the cooling hour.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% while multiple people in the room are denying the original violence. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — The Angry Maiden is recognised by her by the thermal chart against the last watch, not by the fire. She looks the same at two degrees and at sixty-eight, and five early reports describe a quiet chamber on watches the probe recorded at over forty — then the approach is set and the positions are taken.
+1. **Tension:** Identification first — The Angry Maiden is recognised by the thermal chart against the last watch, not by the fire. She looks the same at two degrees and at sixty-eight, and five early reports describe a quiet chamber on watches the probe recorded at over forty — then the approach is set and the positions are taken.
 2. **Clash:** Flerehan and Ferrehan only. Pugnahan is prohibited on this file and the prohibition is read aloud at shift start rather than assumed. The reading is the peak thermal load of the watch, in degrees above corridor ambient at the fixed wall probe, charted by the thermal crews: eleven point four at baseline, two point one at the floor, sixty-eight at the ceiling.
 3. **Resolution:** The documented suppression condition: **validate the anger; do not deny or argue with it** — then the cooling hour, then the relief. No watch has ever closed without the hour, including through the hardship rotations when every other provision in the wing was shortened.
 
@@ -161,7 +161,7 @@ Flerehan and Ferrehan lower the gauge; Viderehan holds it level; Pugnahan is pro
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Modelled: on foot, walking, drawn only toward confrontation. The indiscriminate hunting clause contradicted the First Target row directly below it and the Trivia entry at the foot of this file, and has been removed. |
+| **Movement** | Modelled: on foot, walking, drawn only toward confrontation. There is no indiscriminate hunting in the model; the unconfronting are passed over. |
 | **Effect** | Modelled as structural: cracked walls, failed fittings, and personnel taking what the architecture takes. The chamber fittings have twice required work after a hard watch, which is the only evidence underneath the model. |
 | **Secondary Effect** | Modelled: the wave finds the friction in a response team and widens it. Teams are therefore drawn from Wardens with no open grievances on record, a screening the Directorate performs quietly and documents thoroughly. |
 | **First Target** | Whoever confronts her first. The unconfronting are passed over, and that clause is the only part of this table resting on observation — three chamber incidents in which uninvolved workers were ignored entirely while the argument continued. |
@@ -415,7 +415,7 @@ Flerehan dims her, and the dimming is the most-studied response in the Three Sis
 
 ### When the Anger Becomes Physical
 
-Her breach is the kinetic one among the Sisters. She stalks the corridors on foot and her anger stops being an emotional condition and becomes a structural one: walls crack, fittings fail, and personnel caught in the wave take the same damage the architecture does. The secondary effect — a malice that seeks out unresolved conflict — makes the response roster a personnel question before it is a tactical one. Teams are assembled from Wardens with no open grievances on record, a screening the Directorate performs quietly and documents thoroughly, because the wave finds the friction in a response team and widens it. The Fury Fang carries the archetype into equipment form and is issued only to bearers who have completed the same screening. Veterans of her breaches describe the experience as being argued with by a building. The doctrine's answer is unglamorous: do not argue back, hold the line at the sealed sections, and let a fire that feeds on response find nothing offered.
+Her modelled breach is the kinetic one among the Sisters — modelled, because she has never breached in the holding's history. In the model she walks the corridors on foot and her anger stops being an emotional condition and becomes a structural one: walls crack, fittings fail, and personnel caught in the wave take the same damage the architecture does. The secondary effect — a malice that seeks out unresolved conflict — makes the response roster a personnel question before it is a tactical one. Teams are assembled from Wardens with no open grievances on record, a screening the Directorate performs quietly and documents thoroughly, because the wave finds the friction in a response team and widens it. The Fury Fang carries the archetype into equipment form and is issued only to bearers who have completed the same screening. Veterans of her hard watches and chamber incidents describe the experience as being argued with by a building. The doctrine's answer is unglamorous: do not argue back, hold the line at the sealed sections, and let a fire that feeds on response find nothing offered.
 
 ### The Cooling Hour
 

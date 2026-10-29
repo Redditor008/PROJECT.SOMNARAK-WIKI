@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 204,
   "status": "OPEN",
-  "completed_units": 2,
+  "completed_units": 3,
   "required_units": 5,
   "queue": [
     {
@@ -42,7 +42,7 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 2,
+  "completed": 3,
   "units": [
     {
       "unit": 1,
@@ -444,6 +444,200 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 4,
         "digit_sequence_change": "The unsupported 15% Gauge surge was removed, the projected Ultimate was retimed from 65% to the 60% threshold, and the one-minute log no longer drains a numbered Composure pool."
+      }
+    },
+    {
+      "unit": 3,
+      "designation": "C-IVβ-042",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md",
+      "words": 9561,
+      "sha256": "74f30b9c27b29e60be791ff1402b110899a6971aaaee7f8531cf7f96c5db9ab2",
+      "name": "The Angry Maiden",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_03_THE_ANGRY_MAIDEN.md",
+      "before_words": 9561,
+      "after_words": 9897,
+      "base": "d8b7daba1bfbd945a22722f38ec88b8e7734c068",
+      "final_sha256": "497dda663d865af0a2195b4d2d8cfaa21717eecb6e8531c1d99719a2ddae9da9",
+      "summary": "HELD +0 — 15 repairs make denial, not proximity, the thing that feeds her fire.",
+      "commentary": "She is not asking for a culprit. She is asking the record to stop pretending nothing was done.",
+      "reasoning": "Her anger has an object and no person: every harmful row now begins from what personnel do about that fact — carry grievance in, dismiss it, confront her, corner her, or deny it as a group.\n\nValidation is a sentence, not a mood: the act was wrong, no person named, no forgiveness demanded, then the cooling hour.\n\nShe has never breached, so the breach layer stays explicitly modelled and the documented work remains screening, thermal charting and reading both Sisters within the hour.",
+      "history": "Batch 118/unit 4 already gave SE-042-B its first counted Weapon-only disposition and preserved the equipment forks in the primary; no fresh Types, Weapon or SE credit is claimed. HELD +0.",
+      "holds": [
+        "Fire-bodied Side form versus living flesh beneath burning surface. Held.",
+        "Fang/Plate/Blade ability and cost variants kept distinct. Held.",
+        "Master Stigma fire-damage claim. Held.",
+        "Level 3 label Understood versus Advanced. Held."
+      ],
+      "split": [
+        6,
+        9
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-resilience-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Physical / structural pressure |",
+          "new": "| **Primary pressure** | Resilience — holding the watch without answering her in kind; the structural load on the fittings is its literal trace |"
+        },
+        {
+          "id": "R02-movement-no-pursuit",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Movement** | Mobile — walks upright; can breach and pursue. |",
+          "new": "| **Movement** | Mobile — stands, walks the chamber and sits with her sisters; she has never breached, and the modelled breach moves on foot only toward confrontation, passing over the unconfronting. |"
+        },
+        {
+          "id": "R03-vessel-no-destruction-route",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — destruction is not an available resolution on a living Subject; confrontation only feeds the load and leads both Sisters upward |"
+        },
+        {
+          "id": "R04-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R05-valid-work-types-no-pugnahan",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Flerehan and Ferrehan; Viderehan holds the gauge level. Pugnahan is prohibited absolutely. |"
+        },
+        {
+          "id": "R06-resistance-screened-teams",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 35% against Grudge pressure; 25% against other pressure types |",
+          "new": "| **Resistance** | 35% against Grudge pressure; 25% against other pressure types. Resistance is never a licence to argue: response teams are screened for open grievances, nobody opens or answers in kind, fittings are load-checked on the gauge schedule, and both Sisters are read within the hour of any spike here. |"
+        },
+        {
+          "id": "R07-resolution-say-it-was-wrong",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | Validate the anger; do not deny or argue with it |",
+          "new": "| **Resolution Condition** | The worker states plainly that what was done to the boy was wrong, names no person, and demands no forgiveness; then the cooling hour runs and the thermal settle is confirmed before relief. Validation lowers the flame; argument feeds it. |"
+        },
+        {
+          "id": "R08-clenched-fist-unresolved-anger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Clenched Fist* [**Debuff**] } | \"She stands shaking with rage — and the shaking transfers to you, and you cannot stop your hands from curling.\" | [The Maiden's fury infects the target; their own anger rises unbidden.] | *Target suffers -10 Resilience; they are becoming angry without cause.* **[10 Grudge DMG [Grudge]]** | When the target approaches. |",
+          "new": "| { *The Clenched Fist* [**Debuff**] } | \"She stands shaking with rage — and the shaking transfers to you, and you cannot stop your hands from curling.\" | [A worker who enters her fire radius carrying visible unresolved anger gives her load somewhere to gather; their own hands begin to curl.] | *The worker loses Resilience as their anger rises. Do not open and do not answer: the screened relief takes the watch, and the grievance is dealt with outside her hearing.* **[10 Grudge DMG [Grudge]]** | When a person enters the fire radius with visible unresolved anger. |"
+        },
+        {
+          "id": "R09-rising-bile-dismissal",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Rising Bile* [**Debuff**] } | \"Her fury has no target — it is pure, undirected, and enormous. Just being near it makes you furious at everything.\" | [The Maiden's formless rage envelops the target.] | *Target loses 10 Resilience; everything becomes infuriating.* **[10 Grudge DMG [Grudge]]** | When the target remains near. |",
+          "new": "| { *The Rising Bile* [**Debuff**] } | \"You explain, kindly and accurately, that nobody can be blamed while nobody is known — and the room gets hotter by the minute.\" | [Her anger has a fixed object, the violence that killed the child; what spreads through the room is the dismissal of it.] | *Personnel lose Resilience and begin answering each other. Stop explaining: state that the act was wrong, name no person, and let the exchange end there.* **[10 Grudge DMG [Grudge]]** | When a person calls her anger irrational, excessive or inconvenient, or explains that nobody can be blamed. |"
+        },
+        {
+          "id": "R10-slap-provocation",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Slap* [**Attack**] } | \"She strikes — hard, fast, and with the full force of a fury that has been building for centuries.\" | [A single devastating blow from a fist that has never unclenched.] | *Inflicts Grudge pressure and one heavy, ringing wound.* **[14-22 Grudge DMG [Grudge]]** | When the Maiden is provoked. |",
+          "new": "| { *The Slap* [**Attack**] } | \"She strikes — hard, fast, and with the full force of a fury that has been building for centuries.\" | [A single Grudge impact delivered to the person confronting her; in three chamber incidents the uninvolved beside them were ignored entirely.] | *Inflicts heavy Grudge pressure on the confronter only. Everybody else holds position and offers nothing; the exchange stops when the answering stops.* **[14-22 Grudge DMG [Grudge]]** | When a person threatens, mocks or physically confronts the Maiden. |"
+        },
+        {
+          "id": "R11-full-eruption-cornering",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Eruption* [**Attack**] } | \"Every ounce of fury she has ever suppressed — released at once, in one enormous, screaming blow.\" | [The Maiden detonates with all her accumulated rage.] | *A heavy Crimson detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Maiden is cornered. |",
+          "new": "| { *The Full Eruption* [**Attack**] } | \"Every ounce of fury she has ever suppressed — released at once, in one enormous, screaming blow.\" | [A high-output Crimson blast into the room's structure: the fittings take what the architecture takes, and both Sisters' loads follow within a short interval.] | *Heavy Grudge pressure and structural load. Open the exit path, restore Sister proximity, withdraw every answer, and read all three Sisters within the hour in fixed order.* **[24-36 Grudge DMG [Grudge]]** | When her exit paths are blocked or her proximity to her Sisters is broken. |"
+        },
+        {
+          "id": "R12-everyone-furious-group-denial",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Everyone Is Furious* [**Ultimate**] } | \"Now everyone is as angry as she is — and no one knows why, and no one can stop.\" | [The Maiden extends her fury across the whole field.] | *All in range suffer Grudge pressure for three turns of universal rage.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *Everyone Is Furious* [**Ultimate**] } | \"Now everyone is as angry as she is — and no one knows why, and no one can stop.\" | [A three-turn group rage field: the wave finds the friction already in the room and widens it until the team is arguing with itself.] | *All in range suffer Grudge pressure for three turns. One screened voice states the violence plainly and that it was wrong; nobody demands forgiveness, nobody argues, and the watch moves to the cooling hour.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% while multiple people in the room are denying the original violence. |"
+        },
+        {
+          "id": "R13-breach-movement-clean",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "| **Movement** | Modelled: on foot, walking, drawn only toward confrontation. The indiscriminate hunting clause contradicted the First Target row directly below it and the Trivia entry at the foot of this file, and has been removed. |",
+          "new": "| **Movement** | Modelled: on foot, walking, drawn only toward confrontation. There is no indiscriminate hunting in the model; the unconfronting are passed over. |"
+        },
+        {
+          "id": "R14-apex-modelled-not-veterans",
+          "kind": "careful narrative correction",
+          "careful": true,
+          "old": "Her breach is the kinetic one among the Sisters. She stalks the corridors on foot and her anger stops being an emotional condition and becomes a structural one: walls crack, fittings fail, and personnel caught in the wave take the same damage the architecture does. The secondary effect — a malice that seeks out unresolved conflict — makes the response roster a personnel question before it is a tactical one. Teams are assembled from Wardens with no open grievances on record, a screening the Directorate performs quietly and documents thoroughly, because the wave finds the friction in a response team and widens it. The Fury Fang carries the archetype into equipment form and is issued only to bearers who have completed the same screening. Veterans of her breaches describe the experience as being argued with by a building. The doctrine's answer is unglamorous: do not argue back, hold the line at the sealed sections, and let a fire that feeds on response find nothing offered.",
+          "new": "Her modelled breach is the kinetic one among the Sisters — modelled, because she has never breached in the holding's history. In the model she walks the corridors on foot and her anger stops being an emotional condition and becomes a structural one: walls crack, fittings fail, and personnel caught in the wave take the same damage the architecture does. The secondary effect — a malice that seeks out unresolved conflict — makes the response roster a personnel question before it is a tactical one. Teams are assembled from Wardens with no open grievances on record, a screening the Directorate performs quietly and documents thoroughly, because the wave finds the friction in a response team and widens it. The Fury Fang carries the archetype into equipment form and is issued only to bearers who have completed the same screening. Veterans of her hard watches and chamber incidents describe the experience as being argued with by a building. The doctrine's answer is unglamorous: do not argue back, hold the line at the sealed sections, and let a fire that feeds on response find nothing offered."
+        },
+        {
+          "id": "R15-tension-grammar",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "1. **Tension:** Identification first — The Angry Maiden is recognised by her by the thermal chart against the last watch, not by the fire.",
+          "new": "1. **Tension:** Identification first — The Angry Maiden is recognised by the thermal chart against the last watch, not by the fire."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.030  clean   503 grams  기록 (Registrum)\n 0.020  clean   148 grams  Behavior\n 0.015  clean   746 grams  감각 묘사 (Flavor Text)\n 0.013  clean   926 grams  M.A.W. Equipment\n 0.011  clean   811 grams  Combat Record\n 0.009  clean   224 grams  Operational Parameters\n 0.003  clean   351 grams  관찰 기록 (Observation Log)\n 0.002  clean   983 grams  이야기 보고 (Story Log)\n 0.000  clean  1053 grams  Apex Record\n 0.000  clean   450 grams  이야기 (Narratio)\n 0.000  clean   290 grams  Appearance\n 0.000  clean   279 grams  Origin\n 0.000  clean   273 grams  Trivia\n 0.000  clean   268 grams  Breach Behavior\n 0.000  clean   121 grams  최종 관찰 (Final Observation)\n 0.000  clean    81 grams  증언 (Testimonium)\n 0.000  clean    46 grams  SECC Classification\n 0.000  THIN      1 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 35% against Grudge pressure; 25% against other pressure types. Resistance is never a licence to argue: response\n   85   6  | { *Everyone Is Furious* [**Ultimate**] } | \"Now everyone is as angry as she is — and no one knows why, and no one can stop.\" | [\n   89   2  1. **Tension:** Identification first — The Angry Maiden is recognised by the thermal chart against the last watch, not by the fire\n  154   3  Flerehan and Ferrehan lower the gauge; Viderehan holds it level; Pugnahan is prohibited. The Registrum named Pugnahan as the prima\n  184   7  **Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that flickers with an inner light and goes dark the\n  205   6  **Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that shifts and breathes with the wearer.\n  223   2  **Appearance:** a blade-pendant of Grudge Han-iron, dark and faintly warm, that grows cool near its source sorrow.\n  227   1  **Effect:** +1 when working this entity, and the bearer may not speak first in the chamber. The pendant's holder answers and does \n  270   1  | **Post-contact review** | Peak and settle with their hours, the annotated chart, the verbatim chamber log, the two Sisters' read\n  281   1  The first return under the Rule of the Recorded Wrong, Year 4238. Over the nine years the register covers, this facility recorded \n  300   1  The ground is the probe. That tranche took this chamber to sixty-eight degrees above ambient, the highest reading in two centuries\n  323   1  **After departure:** You think of something that was done to you, or to somebody of yours, that no document calls wrong. Most peop\n  329   2  **Interaction method:** Read all three Sisters within the hour of any spike here, in the fixed order and without exception, becaus\n  336   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  338   6  | **The Smothering Mother** | Grouped on maternal sorrow, which is the weakest grouping in this file: that holding is a mother's a\n  386   3  - Pugnahan is prohibited absolutely and the prohibition is read aloud at shift start rather than assumed known. Flerehan and Ferre\n  391   2  - The Rule of the Recorded Wrong is a containment condition of this entity and binds every inquiry this facility conducts.\n  398   7  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the coroner's office and the legal office, lis\n  403   3  **Operational interpretation:** Read this file with the findings return beside it and with both her sisters' charts. Taken alone t\nGENERIC 0.007  (59 shared shingles)  SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-A__SIDE_CODEX_The_Angry_Maiden.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-B__MAW-W_The_Fury_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-C__MAW-S_The_Fury_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-D__MAW-G_The_Fury_Blade.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-A__SIDE_CODEX_The_Angry_Maiden.md": "1e503a3346b1b12422406d1bf5ba31b65c13d68816a84b19d1582cf1f4f0d2ad",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-B__MAW-W_The_Fury_Fang.md": "757ed055147fe1c0b001646e2b628b503adbd3d8ccfa3c463012afb71f51e9f5",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-C__MAW-S_The_Fury_Plate.md": "b5034ccd5edf7d1aa0f7c74ca33d1e5e497496453dd0f6a732880874470b147e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-D__MAW-G_The_Fury_Blade.md": "754ce873cd3f257600dc3a09e521d00a015794967e4e537b91008f42f50a7494"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-042_The_Angry_Maiden_%EB%B6%84%EB%85%B8%EC%9D%98_%EC%B2%98%EB%85%80.md \"SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md\")]",
+      "table_link": "[[C-IVβ-042 The Angry Maiden](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-042_The_Angry_Maiden_%EB%B6%84%EB%85%B8%EC%9D%98_%EC%B2%98%EB%85%80.md \"SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 456 lines / 9,561 words, complete direct SE-042-A/B/C/D including Side A Validation and Fire Trigger Protocol, and Registry rows 78–81. CHANGELOG shows Batch 118/unit 4 took the first counted Weapon disposition. All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 0,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The unsupported 15% Gauge surge was removed; the Side protocol's 65% group-denial condition was retained as an exact-source trigger, distinct from the 60% threshold."
       }
     }
   ]

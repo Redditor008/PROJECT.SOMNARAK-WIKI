@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVβ-042": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_03_THE_ANGRY_MAIDEN.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2172,8 +2184,23 @@
     {
       "designation": "C-IVβ-042",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD +0 — 15 repairs make denial, not proximity, the thing that feeds her fire.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_03_THE_ANGRY_MAIDEN.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-A__SIDE_CODEX_The_Angry_Maiden.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-B__MAW-W_The_Fury_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-C__MAW-S_The_Fury_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-D__MAW-G_The_Fury_Blade.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVβ-043",
