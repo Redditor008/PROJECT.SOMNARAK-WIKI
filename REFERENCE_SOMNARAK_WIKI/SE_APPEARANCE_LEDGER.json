@@ -75,6 +75,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "O-IIIγ-412": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_05_WEDGE_THAT_HELD.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -6651,10 +6663,10 @@
       "designation": "O-IIIγ-412",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md",
       "status": "held",
-      "note": "HELD: source tool and final slag form are clearer and no humanoid requirement is imposed. Unqualified activation/settling and equipment availability prevent a complete whole-file action account. Conditional core/surface/interaction heat differences are not used as artificial holds.",
-      "outcome": "unresolved whole-file logical relationship",
-      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_02_WEDGE.md",
+      "note": "Rechecked The Wedge That Held under R-34 with the owner appearance lens: the current body is an 18.4 kg four-sided iron wedge in its original greasy hemp, eighteen apprentice codes on the flats, core 115°C, surface 85–140°C — Kang Il-Joo is its maker in the formation history, not a body inside the iron. Thirteen repairs keep its three endings apart (handling accident, widening that settles, one deliberate discharge into inert slag), remove the liquid magma weep and the premature-detonation Ultimate, end the Log and Method's impossible 3/5/7 Uses for a single-use relic, correct the slag-not-tonnage residue and the contained battlefield, and give the one-shelf equipment set its per-piece charges and non-renewable availability caveat. Credit stays +0; the dossier remains HELD.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_05_WEDGE_THAT_HELD.md",
       "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_02_WEDGE.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
         "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
       ],
@@ -10204,6 +10216,14 @@
       "batch": 207,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_04_LEARNED_YOUR_FACE.md",
       "history_proof": "Batch 121 unit 5 (221e680) already records complete-set and exact weapon-source coverage for this designation, as confirmed at B155; the official counters credit that set before B207, so this recheck adds no Types or Weapon credit.",
+      "all_types_credit": false,
+      "weapon_credit": false
+    },
+    {
+      "designation": "O-IIIγ-412",
+      "batch": 207,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_05_WEDGE_THAT_HELD.md",
+      "history_proof": "Exact 412/title/Retaining Maul search found no external A–D set (B166); the three profiles live only in this single shelf dossier with no exact external pair established, so equipment and Weapon credit remain +0/+0 and none is inferred.",
       "all_types_credit": false,
       "weapon_credit": false
     }
