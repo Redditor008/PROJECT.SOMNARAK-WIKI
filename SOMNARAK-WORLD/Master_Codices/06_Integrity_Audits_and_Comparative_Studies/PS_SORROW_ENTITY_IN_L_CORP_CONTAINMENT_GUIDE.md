@@ -71,6 +71,21 @@ When a Sorrow Entity is manifested inside a containment unit:
 - **Han Brine Contamination:** Instead of clean Enkephalin vapors, the chamber floor accumulates a dark, salt-encrusted brine. The Sanitation Department must cycle thermal incinerators after every work turn to prevent structural corrosion.
 - **Enkephalin Transmutation:** Energy extracted from a Sorrow Entity produces standard PE-Boxes (Positive Enkephalin), but carries a 15% to 25% "Heavy Han Density". This dense energy yields higher power output per box but increases the global Qliphoth Meltdown rate across the facility.
 
+
+### 4. Size & Scale Law — Containment Fit, Breach Scale, and Cogito-Well Attenuation
+
+A transformed Sorrow Entity's size inside the facility is governed by the Abnormality frame, not by its Somnarak measurements. The law has three states; the conversion note declares which breach reading the story carries, and intake records the entity's **original measured scale** regardless.
+
+| State | Scale read | Governs |
+|---|---|---|
+| **Contained (non-breaching)** | **Unit-fit.** Whatever its original dimensions, the contained aspect fits a standard containment unit. A colossus sits in its room; a Place-body *is* its room (Section VI). This is a property of the frame — the entity is not shrunk, it is *housed*. | Work, observation, extraction — all standard procedure |
+| **Breaching — Well-attenuated** | **25% to 50% of original size.** Where the manifestation runs through the Cogito Well (Extraction-drawn, siphon-fed, or Degree I full conversions), the Well meters what it lets through: the breach body manifests at a quarter to half its true scale. | The standing default for Degree I and Route A/B intakes |
+| **Breaching — Full scale** | **100% of original size.** A transported body (Route C), an anchored manifestation (Degree II), or a story that declares the Well bypassed, overwhelmed, or absent breaches at true scale — corridor geometry, department footprints and suppression staging must be planned against the dossier's real dimensions. | Author-declared; the conversion note must carry the original scale figure |
+
+- **Stats do not scale.** HP, damage bands and PE yield come from Section III derivation and are identical under either breach reading. Scale governs *space* — reach, footprint, how many departments one body can threaten, whether it can pass a corridor at all — never the numbers. A 25%-scale breach is easier to surround, not weaker.
+- **Scale-Incompatible, Extraction-Compatible.** Entities whose original scale or body-plan reads as flatly incompatible with L Corp containment — Place-bodies, landscape entities, colossi measured in streets — are **still extractable**, because unit-fit houses them while contained and attenuation meters them while breaching. The Maw (`T-07-0001`) is the standing precedent: a square-kilometer Place that sits as a contained room and breaches as a colossus under this same band (Section VI). Intake records such entities under this class with both figures: original scale, and the declared breach band.
+- **Declaration discipline.** The band is fixed in the conversion note at intake and does not change mid-story without an in-story cause (a second draw, a siphon widening, the Well losing its grip). Escalation from attenuated to full scale is a legitimate crisis beat; silently resizing between scenes is a conversion error, corrected back to the declared band.
+
 ---
 
 ## Section II: Designation Assignment — The `X-YY-0###` Standard
@@ -282,6 +297,14 @@ Where the source dossier and its linked item records disagree on a piece's form,
 - **Redaction overrides completeness.** Where a dossier forbids recording content (a reflection's contents, a name that must not be answered, a register under release dispute), the Encyclopedia carries the *rule* and a blank where the content would sit. An intake team that fills such a blank from curiosity has performed unauthorized work.
 - **Unresolved source conflicts stay visible.** Competing accounts in a dossier (two origins, two threshold models, incompatible item forms) are entered as parallel guidelines marked HOLD, never averaged into a single guideline an agent could die trusting.
 
+
+**Extraction-phase presentation — the official aspect and the two tells.** During the extraction phase — the draw itself, the first registration, the portrait and Basic Info stub an intake team actually sees — a converted Sorrow Entity presents as a completely official L Corp Abnormality: facility portrait style, Risk Level block, work favorability table, managerial guidelines in the standard cadence. The frame is total. It leaves exactly **two tells**, and a trained clerk reads a transported SE by them at a glance:
+
+1. **The last-numerical anomaly.** The designation's final numeric segment carries **four digits with a leading zero** (`0###`) where every native Abnormality carries three. To facility staff it reads as an Extraction indexing fault — except that no audit can reproduce it, no correction survives a save, and it appears on precisely these units and no others (Section II serial law).
+2. **The unattested quote.** The Encyclopedia flavor quote is grammatical, idiomatic, and plainly meaningful — and it is sourced from *nothing* in the L Corp verse: no fable, file, record or speaker in that world ever produced it. It is the entity's own Somnarak line, drawn from its Tale or its saying, carried across untranslated in sense even where the words arrive local. Staff who search for its source find the search itself strangely tiring, and stop.
+
+Neither tell is to be "corrected." Renumbering the serial breaks the never-renumber law; sourcing or replacing the quote falsifies the record. Both are carried as-found, exactly as redactions are carried above — the quote is entered verbatim and its origin field is left, permanently and correctly, **unknown**.
+
 ---
 
 ## Section X: Worked Conversions (Batch 207 intake series)
@@ -332,6 +355,8 @@ Each conversion below shows its three-field reads, so the letter and class can b
 | 05. E.G.O EXTRACTION: Extract Weapon, Suit, Gift with Composure Load   |
 | 06. CORROSION WATCH : Monitor employees for Acoustic Meltdown symptoms |
 | 07. DISCIPLINARY    : Prepare Rabbit Protocol for Place-Metamorphosis  |
+| 08. SCALE & TELLS : Unit-fit while contained; breach = full scale or   |
+|     Well-attenuated 25-50%; never correct the 0### or the quote        |
 +========================================================================+
 ```
 

@@ -8,6 +8,13 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Size & Scale Law and extraction-phase tells added to the Universal Table (2026-10-30)
+
+- **`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md` Section I.4 added — Size & Scale Law:** a transformed SE that is **not breaching is unit-fit** (the contained aspect always fits a standard containment unit; a Place-body *is* its room); while **breaching** it manifests either at **full original scale (100%)** or **Cogito-Well-attenuated to 25–50% of original size** (standing default for Degree I / Route A·B intakes; full scale for transported/anchored bodies or declared Well-bypass). Stats do not scale — HP/damage/PE derive from Section III; scale governs space, reach and suppression staging. New intake class **Scale-Incompatible, Extraction-Compatible**: entities whose original scale/body-plan reads as incompatible with L Corp containment remain extractable via unit-fit + attenuation (precedent: the Maw, `T-07-0001`); intake records original scale and declared band; the band does not change mid-story without in-story cause.
+- **Section IX — extraction-phase presentation:** during extraction/registration a converted SE presents as a completely official L Corp Abnormality (portrait, Risk block, favorability, guideline cadence) with exactly two tells: **(1) the last-numerical anomaly** — the final numeric segment carries four digits with a leading zero (`0###`) where native Abnormalities carry three; **(2) the unattested quote** — an Encyclopedia flavor quote that exists nowhere in the L Corp verse (the entity's own Somnarak line), entered verbatim with origin permanently unknown. Neither tell may be "corrected."
+- **Checklist item 08 (SCALE & TELLS)** added to the Sephirah Directive Checklist at the box's exact 74-character width. New table is markdown-native per the current format rule.
+
+
 ## Markdown-native tables for normal tables; text boxes reserved for complex mixed systems (2026-10-30)
 
 Owner format rule: **normal tables use markdown-native tables; ASCII text boxes are reserved for complex multi-column/multi-row mixed systems.** Applied to the three documents of the comparison set (13 text-box blocks classified in total):
