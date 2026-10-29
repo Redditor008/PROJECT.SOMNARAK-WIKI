@@ -51,6 +51,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-Vδ-290": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_03_FIRST_TEAR.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -4235,20 +4247,14 @@
       "designation": "C-Vδ-290",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-290_First_Tear_첫_번째_눈물.md",
       "status": "held",
-      "note": "Corrected both Movement descriptions to the stationary suspended crystal, separating its body from the pedestal and vault. Connected the source person's loss, Object-Lament manifestation, current crystal and earlier reconstructed origin without a humanoid survivor or Sovereign-sized monster. Explicitly separated succession doctrine and combat blade/fall/ocean accounts from observed physical states; retained the unsupported Transform/radius links as holds.",
-      "outcome": "unresolved whole-file logical relationship",
-      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_03_FIRST_TEAR.md",
+      "note": "14 source-bound repairs split 2 short / 12 careful. A crystal smaller than a raindrop that has never fallen, emitted no measured field and never activated no longer radiates, strikes, falls or floods on command, and its Ultimate sits at the file ≥90% threshold behind a regime event. SE-1030 identity, weapon identity and origin accounts remain held.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_03_FIRST_TEAR.md",
       "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_03_FIRST_TEAR.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-A__SIDE_CODEX_The_First_Tear.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-B__MAW-W_The_First_Requiem.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-C__MAW-S_The_First_Shroud.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-D__MAW-G_The_First_Charm.md",
-        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
-        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
-        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
-        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md"
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-D__MAW-G_The_First_Charm.md"
       ],
       "whole_before_reread": true,
       "whole_final_reread": true,
@@ -10127,6 +10133,14 @@
       "batch": 206,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_02_OWED.md",
       "history_proof": "Batch 128 unit 5 (aed255ba) already credited the exact SE-180 A/B/C/D types and B82 unit 1 (b90df653) credited the exact weapon pair before B206, so this recheck adds no Types or Weapon credit.",
+      "all_types_credit": false,
+      "weapon_credit": false
+    },
+    {
+      "designation": "C-Vδ-290",
+      "batch": 206,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_03_FIRST_TEAR.md",
+      "history_proof": "Batch 104 unit 1 (9fc48d41) already dispositioned the exact SE-1030 A/B/C/D source and equipment pair for C-Vδ-290 before B206, so this recheck adds no Types or Weapon credit.",
       "all_types_credit": false,
       "weapon_credit": false
     }

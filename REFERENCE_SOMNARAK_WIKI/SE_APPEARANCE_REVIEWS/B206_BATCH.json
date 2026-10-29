@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 206,
   "status": "OPEN",
-  "completed_units": 2,
+  "completed_units": 3,
   "required_units": 5,
   "queue": [
     {
@@ -52,7 +52,7 @@
     }
   ],
   "opened_at": "2026-10-30",
-  "completed": 2,
+  "completed": 3,
   "units": [
     {
       "unit": 1,
@@ -492,6 +492,197 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 5,
         "digit_sequence_change": "Removed a 15% fall surge from the demolished-face row and moved the Ultimate from 65% (top of the 45–65% opening band) to the file ≥75% threshold. Both disputed weapon profiles, armor multipliers, Head +2/4% and the 212/18,000 survey figures preserved."
+      }
+    },
+    {
+      "unit": 3,
+      "designation": "C-Vδ-290",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-290_First_Tear_첫_번째_눈물.md",
+      "words": 9190,
+      "sha256": "96755ffc07648a402ab5bbf0d9f70c274460b701ca550670eab9b56fe83ae826",
+      "prior_batch": 148,
+      "shape": "I-Relic",
+      "name": "First Tear",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_03_FIRST_TEAR.md",
+      "before_words": 9190,
+      "after_words": 9670,
+      "base": "78aeac08bf0b8ddb9521064760e6d0bb12d2d843",
+      "final_sha256": "2f8524e88524f42209bf537027253d9d50289e8b755ddb4bebfa0a3ac58a639b",
+      "summary": "14 source-bound repairs split 2 short / 12 careful. A crystal smaller than a raindrop that has never fallen, emitted no measured field and never activated no longer radiates, strikes, falls or floods on command, and its Ultimate sits at the file ≥90% threshold behind a regime event. SE-1030 identity, weapon identity and origin accounts remain held.",
+      "commentary": "The vault's whole doctrine is two people writing down the same figure for eleven centuries. The rows now record what can actually go wrong there: taking the reading, overrunning four minutes, crossing the line toward a forbidden touch, missing a night, and a threshold breach of the none-authorized regime. The attributed set carries the exact binding rule — name the event unknown, never speak it in first person, shut down by named witness.",
+      "reasoning": "**Identity first.** C-Vδ-290 is SE-1030 (First Tear), not SE-290 Broken Compass and not SE-103 Frozen Veil; the exact A/B/C/D set confirms the C-Vδ-290 [LO] designation on every piece.\n\n**Nothing has ever happened here — that is the record.** Blade, fall and ocean were rewritten as line-crossing, series-gap and overload risks the file itself documents; ton-scale dust and benefit banners contradicted a tear-weighted, touch-forbidden relic.\n\n**Attribution is the safety system.** Weapon, Shroud and Charm now carry the management-condition limit, first-person failure sign and witnessed shutdown from SE-1030-B/C/D, without importing the held 5–25/Instant/Room profile or choosing a weapon name.",
+      "history": "Prior full logical review B148_03_FIRST_TEAR (pre-R-34) held the appearance. Batch 104 unit 1 (9fc48d41) already dispositioned the exact SE-1030 source/equipment pair; unrelated SE-290 history is not inherited. Official counters do not move.",
+      "holds": [
+        "Primordial Greatsword versus First Requiem versus Penitent Shackle Flail identity; no numeric weapon profile imported.",
+        "No-field nightly series versus proximity emotional-history/Fracture risk and Side-A \"Can breach via Transform\".",
+        "Never-fallen suspension versus the Tale's reconstructed first fall and river descent; pre-city origin versus City-origin register label.",
+        "Authorized edge-residue extraction versus no-extraction inventory; local Charm without slot/chance versus Neck/4%; glow-series chronology."
+      ],
+      "split": [
+        2,
+        12
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-clarity",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — emotional stability and willpower, spent by grief that arrives with no event attached |"
+        },
+        {
+          "id": "R02-vessel-tear-weight",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |\n| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |",
+          "new": "| **Vessel-Destructible** | No — a single crystal weighing what a tear weighs; touch is forbidden and no destruction is sourced |\n| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R03-resistance-series",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 50% against Lament pressure; 40% against other pressure types |",
+          "new": "| **Resistance** | 50% against Lament pressure; 40% against other pressure types as formal ratings. Working protection is the series itself: two observers a night, exposure capped at the four minutes the reading takes, nothing touching the crystal and no question ever put to it. No field has been measured to resist against; the figures are prophylactic, not observed. |"
+        },
+        {
+          "id": "R04-original-drop-reading",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Original Drop* [**Debuff**] } | \"This is the first tear ever shed — the prototype of all grief — and it has not dried in four thousand years.\" | [The Tear's ancient sorrow is so concentrated it radiates like heat.] | *Target suffers -10 Composure; the weight of all grief's origin is immense.* **[10 Lament DMG [Lament]]** | When the target sees the Tear. |",
+          "new": "| { *The Original Drop* [**Debuff**] } | \"This is the first tear ever shed — the prototype of all grief — and it has not dried in four thousand years.\" | [Nothing radiates; the instruments read the room and find the room. What the observer meets at the line is the shape of sorrow before language.] | *The observer suffers -10 Clarity. Both observers write the figure independently and neither says it aloud in the vault.* **[10 Lament DMG [Lament]]** | When an observer takes the nightly reading at the line under Viderehan. |"
+        },
+        {
+          "id": "R05-echoing-overrun",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Echoing First* [**Debuff**] } | \"Every tear ever shed is an echo of this one — and being near the original makes you feel all of them.\" | [The Tear's primordial nature resonates with every sorrow the target has ever felt.] | *Target loses 10 Composure; they are feeling every grief simultaneously.* **[10 Lament DMG [Lament]]** | When the target lingers. |",
+          "new": "| { *The Echoing First* [**Debuff**] } | \"Every tear ever shed is an echo of this one — and being near the original makes you feel all of them.\" | [The Tear does nothing new. Past the reading, the observer's own losses arrive as echoes of the first, and the first sign is describing its unknown event in the first person.] | *The observer loses 10 Clarity. Enforce the four-minute cap; an observer who overruns is stood down from the rota whether or not they report symptoms.* **[10 Lament DMG [Lament]]** | When an observer remains in the vault past the four minutes the reading takes. |"
+        },
+        {
+          "id": "R06-salt-blade-contact-attempt",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Salt Blade* [**Attack**] } | \"The first tear hardens — crystallized by four millennia — and it is sharper than anything forged since.\" | [An ancient, crystallized tear-salt blade strikes.] | *Inflicts Lament pressure and one wound of primordial grief.* **[14-22 Lament DMG [Lament]]** | When the Tear is touched. |",
+          "new": "| { *The Salt Blade* [**Attack**] } | \"Nothing hardens and nothing is forged. The crystal is smaller than a raindrop and the hand coming toward it is the emergency.\" | [No blade leaves the pedestal. An approach past the line is the vault's one true incident: the complete emotional history of sorrow arrives whole, belonging to nobody.] | *Heavy Lament pressure on Clarity. Secure the approaches, clear unshielded personnel, and restore the reading on time; touch is forbidden and no contact test is authorized to learn more.* **[14-22 Lament DMG [Lament]]** | When anyone crosses the line or attempts contact with the crystal. |"
+        },
+        {
+          "id": "R07-full-release-series-gap",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Release* [**Attack**] } | \"The first tear finally falls — completing a journey four thousand years overdue.\" | [The Tear's delayed completion releases its entire accumulated grief.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Tear is forced to fall. |",
+          "new": "| { *The Full Release* [**Attack**] } | \"The first tear finally falls — completing a journey four thousand years overdue.\" | [It has never fallen, and nothing here completes a journey. What the record actually holds is a retrospective step: eleven unobserved nights in 4106, after which the figure never returned to its prior band.] | *A heavy Lament load carried as grief with no event attached, and a movement in the series that can never be dated. Report the night, the duration and the cause so far as known; the review examines the rota, not the Tear.* **[24-36 Lament DMG [Lament]]** | When a nightly reading is missed, late, or taken by one observer instead of two. |"
+        },
+        {
+          "id": "R08-ocean-threshold-condition",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Ocean of the First* [**Ultimate**] } | \"The first tear reaches the ground at last — and where it lands, an ocean forms, and the ocean is the source of all sorrow.\" | [The Tear's landing creates a universal flood of original grief.] | *All in range suffer Lament pressure for three turns in the first ocean.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Ocean of the First* [**Ultimate**] } | \"The first tear reaches the ground at last — and where it lands, an ocean forms, and the ocean is the source of all sorrow.\" | [No ocean forms in the vault. At threshold the recorded risk is immediate emotional overload and possible Fracture for everyone present — the whole history of sorrow at once, not water.] | *All in range suffer Lament pressure on Clarity for three turns. Withdraw everyone but the reading pair, bring the Gauge back under the management condition (below 25% before any attributed piece is used), and take the reading on time regardless.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥90% activation threshold with the none-authorized regime event (contact attempted, question posed, or the series suspended). |"
+        },
+        {
+          "id": "R09-relic-banners",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "> **This Relic can Benefit the Facility**\n> **This Relic is Capable of Operative Alteration**\n> **This Relic Extracts Personal Resilience upon Extended Use**",
+          "new": "> **No facility benefit is authorized from this Relic**\n> **No operative alteration has been attempted or is permitted**\n> **Extended use is untested by design; exposure is capped at the four minutes the reading takes**"
+        },
+        {
+          "id": "R10-greatsword-binding",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Lament damage to the mind, at a magnitude the grading system describes as sovereign and the field manuals do not model. The greatsword carries the first grief there was, and what it opens in a target is every loss they have had, undifferentiated and at once.",
+          "new": "**Ability:** Lament damage to the mind — emotional stability and willpower. It carries the first grief there was, and what it opens in a target is every loss they have had, undifferentiated and at once. The bearer must name the source event as unknown and pre-city and never their own; the first failure sign is describing it in the first person, and shutdown is a named witness stating the source title while the bearer relinquishes the piece. (Identity against *The First Requiem* remains held; no numeric profile is imported.)"
+        },
+        {
+          "id": "R11-shroud-binding",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Turns Lament aside from the mind at a magnitude no other suit in the archive reaches. It is issued for the observation rota and has never been needed; the Tear has not attacked anyone.",
+          "new": "**Ability:** Resists Lament, protecting emotional stability and willpower. It holds only while the bearer keeps the source distinct — naming the event unknown and pre-city — and only under the management condition with the Gauge below 25%; violating that limit reverses the benefit and raises the source Gauge. It is issued for the observation rota and has never been needed; the Tear has not attacked anyone."
+        },
+        {
+          "id": "R12-charm-source-boon",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** The charm steadies its bearer's hand and voice while they are recording a figure. It is the smallest effect attributed to any item in the archive and it is attached to the oldest record in it, which the vault registrar notes without comment in the inventory margin.",
+          "new": "**Ability:** A minor boon tied to the source sorrow, mirroring its nature rather than serving the rota. The bearer names the event as unknown and accepts the same management limit as the set; shutdown requires a named witness to state the source title while the bearer relinquishes it, and describing the first grief as one's own is the first failure sign."
+        },
+        {
+          "id": "R13-record-procedures",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "**Containment & Handling Procedures:**\n- Do not approach without Director approval.\n- The Tear is the ancestor of all sorrow.\n- It is small, blue, ancient beyond ancient.",
+          "new": "**Containment & Handling Procedures:**\n- Two observers a night; glow, height and time read at the line and countersigned before anybody leaves the antechamber.\n- Nothing touches the crystal, nothing hurries it, and no question is ever put to it.\n- The reading is taken on time whatever else is happening; a missed or single-observer night is reviewed within twenty-four hours — the rota, the lamp and the sheet, never the Tear."
+        },
+        {
+          "id": "R14-appearance-note-current",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "The combat record's salt blade, forced fall and ocean release are not events established by the nightly series. They must not be used to illustrate an observed second body, a past vault flood or a reversible transformation.",
+          "new": "The combat record now states the same limit in its own rows: no blade leaves the pedestal, no fall completes a journey and no ocean forms in the vault, because none of those events is established by the nightly series. They must not be used to illustrate an observed second body, a past vault flood or a reversible transformation."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-Vδ-290_First_Tear_첫_번째_눈물.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.039  clean   129 grams  Trivia\n 0.019  clean   107 grams  Operational Parameters\n 0.015  clean   968 grams  M.A.W. Equipment\n 0.007  clean   862 grams  Combat Record\n 0.006  clean   181 grams  기록 (Registrum)\n 0.002  clean   423 grams  관찰 기록 (Observation Log)\n 0.002  clean   888 grams  감각 묘사 (Flavor Text)\n 0.000  clean  1464 grams  Sovereign Chronicle\n 0.000  clean   551 grams  Appearance\n 0.000  clean   548 grams  Activation Behavior\n 0.000  clean   417 grams  이야기 보고 (Story Log)\n 0.000  clean   360 grams  이야기 (Narratio)\n 0.000  clean   164 grams  Behavior\n 0.000  clean   153 grams  Origin\n 0.000  clean    60 grams  최종 관찰 (Final Observation)\n 0.000  clean    57 grams  증언 (Testimonium)\n 0.000  clean    43 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   56   1  | **Resistance** | 50% against Lament pressure; 40% against other pressure types as formal ratings. Working protection is the seri\n   86   5  | { *The Ocean of the First* [**Ultimate**] } | \"The first tear reaches the ground at last — and where it lands, an ocean forms, a\n  230   1  **Ability:** Lament damage to the mind — emotional stability and willpower. It carries the first grief there was, and what it open\n  238   1  **Appearance:** a wrapping shroud of Lament Han-silk, faintly luminous and cool at the shoulders, worn over the night sheet by the\n  247   1  **Cost:** The wearer goes numb to small pleasures, and the numbness is slower to lift than with any other shroud on issue — the me\n  253   2  **Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch; it is worn on a cord and it was\n  255   1  **Effect:** +3 stat bonus when working the source entity\n  277   9  **Full-set source review (2026-10-12):** Reviewed this overview and every local M.A.W. claim—including all three piece blocks, Use\n  299   1  | **Post-contact review** | The sheet is checked against the preceding night before the observers leave the antechamber. Gaps are \n  353   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  410   1  **Review requirement:** Re-verify after any Sorrow Tide, any vault incident, and any night on which a reading was missed, late, or\n  463   5  - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-A-01, Alpha Tree deep vault — sealed.\nGENERIC 0.004  (32 shared shingles)  SE-C-Vδ-290_First_Tear_첫_번째_눈물.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_03_FIRST_TEAR.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-A__SIDE_CODEX_The_First_Tear.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-B__MAW-W_The_First_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-C__MAW-S_The_First_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-D__MAW-G_The_First_Charm.md"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_03_FIRST_TEAR.md": "953aa9aed4ee3e4599d70514345e1652266d0319e9be2bf034b453e221044321",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-A__SIDE_CODEX_The_First_Tear.md": "949101b5de1ecd0bf027fd6f483d592e2dc03490556294775fd7a92bf1b5ae61",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-B__MAW-W_The_First_Requiem.md": "18ee0cf4d927bd42c6043fa2996ffb00140a593540c1a1d1152954383e731030",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-C__MAW-S_The_First_Shroud.md": "9a2d99886cc79de0e73d1432faebfc519a552f46ac2629b68d80fed6f8bc17e6",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-D__MAW-G_The_First_Charm.md": "03d87fe91d653325af331d8dc0c861fccdfad7cc25fad0b1646a4d4a07815500"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-Vδ-290_First_Tear_첫_번째_눈물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B4-290_First_Tear_%EC%B2%AB_%EB%B2%88%EC%A7%B8_%EB%88%88%EB%AC%BC.md \"SE-C-Vδ-290_First_Tear_첫_번째_눈물.md\")]",
+      "table_link": "[[C-Vδ-290 First Tear](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B4-290_First_Tear_%EC%B2%AB_%EB%B2%88%EC%A7%B8_%EB%88%88%EB%AC%BC.md \"SE-C-Vδ-290_First_Tear_첫_번째_눈물.md\")]",
+      "reading": "Frozen primary SHA256 96755ffc07648a402ab5bbf0d9f70c274460b701ca550670eab9b56fe83ae826 read whole (472 lines) beside B148_03_FIRST_TEAR and SE-1030-A/B/C/D read completely; SE-1030 identity separated from SE-290/SE-103. Final primary re-read after exact replay.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 236,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 5,
+        "digit_sequence_change": "Removed ~1–10 ton dust from a tear-weighted crystal and a 15% surge from the forced-fall row; moved the Ultimate from 65% (inside the 60–80% opening band) to the file ≥90% threshold. Glow series 0.38/0.41, 600/600, armor multipliers and +3 preserved."
       }
     }
   ]
