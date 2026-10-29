@@ -69,6 +69,10 @@ When translating an Abnormality from Project Moon into a Somnarak Sorrow Entity,
 ---
 
 
+### Universe-level contact (where the crossing happens)
+
+Every conversion in this guide crosses at the depth the two universes share without sharing: **the Well and the Weeping** — two rivers of collective human sorrow at the bottom of two worlds, connected and never identical. The side-by-side worldbuilding comparison and the six contact geometries a story may declare (touching, same depth, other side, coupled tides, upstream/downstream, the siphon) are registered in `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` §2A.
+
 ### Designation cross-reference (read with the SE → Abnormality overhaul)
 
 Designations convert in one direction by **assignment**, not arithmetic. The transported-entity code `X-YY-0###` is constructed under **Section II of the [Universal Sorrow Entity to Abnormality Conversion Table](PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md)**: the category letter is read from Sorrow Category + Origin + The Tale, the class number from Entity Type/Tool Type + Physical Form + Appearance (current body governing), and the serial is `0` + the SECC number — assigned once and never renumbered. In the PM → PS direction of this guide, an incoming Abnormality's LC code is therefore recorded as an **alias** in the SECC profile; the SECC designation itself is constructed from Somnarak fields (origin, Coherence, Potency, registry number), never transliterated from the LC code. The case studies in Section X predate the designation law and pair codes by hand (e.g. `F-01-69` → `SE-C-IVδ-069 [GS]`); treat those pairings as worked precedents, not as a numbering rule, and apply the overhaul's Section II to any new conversion so the two archives stay mutually retrievable.

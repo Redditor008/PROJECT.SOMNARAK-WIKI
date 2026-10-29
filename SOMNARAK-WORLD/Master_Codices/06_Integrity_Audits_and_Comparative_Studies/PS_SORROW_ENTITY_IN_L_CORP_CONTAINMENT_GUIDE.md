@@ -59,6 +59,8 @@ However, when subterranean extraction drills breach below critical operational d
 
 ### 2. Other standing routes
 
+The macro-geometries these Routes travel — how **the Well and the Weeping** may touch, face, or merely answer each other without ever being the same river — are registered in the universe comparison, `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` §2A (contact geometries G1–G6; the siphon above is G6). Declare one geometry per story alongside the Degree; the Routes are this Table's operational readings of those geometries.
+
 - **Route B — Cogito Reflection:** the Well (or an equivalent extraction) draws only the *pattern* of the SE; an Abnormality copy manifests while the original stands untouched in Somnarak. Natural pairing: Degree I for the copy, with the alias line recording that it is one.
 - **Route C — Direct Transport:** the entity itself is moved — siphon, portal, containment transfer, or a story-local mechanism the conversion note names. Natural pairing: Degree II or III, since a transported body carries its substance with it.
 - **Route D — Interface / Visitation:** no crossing occurs; the SE is read, summoned, projected or encountered through a local frame for the length of an interaction. Natural pairing: Degree III.
