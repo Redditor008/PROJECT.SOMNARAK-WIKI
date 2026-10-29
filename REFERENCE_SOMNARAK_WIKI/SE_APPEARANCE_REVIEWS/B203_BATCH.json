@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 203,
   "status": "OPEN",
-  "completed_units": 4,
+  "completed_units": 5,
   "required_units": 5,
   "queue": [
     {
@@ -42,7 +42,7 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 4,
+  "completed": 5,
   "units": [
     {
       "unit": 1,
@@ -961,6 +961,207 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 4,
         "digit_sequence_change": "Removed the invented Full Implosion 15% meter climb; the Ultimate now uses the existing 90% threshold plus planting/sorrow-water/growth-medium contact."
+      }
+    },
+    {
+      "unit": 5,
+      "designation": "C-Vγ-320",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md",
+      "words": 9223,
+      "sha256": "9631219c4bde9bdc42b71b7d8e49b2fed665fd62d15922739d8de77bcea5c5b6",
+      "name": "Sorrow Storm",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_05_SORROW_STORM.md",
+      "before_words": 9223,
+      "after_words": 9509,
+      "base": "cd9a0e019ab51cd86f21d65ff14a77d64ab7dcd4",
+      "final_sha256": "236c6942e9630bec7cc27b44820727a44cd84e754815f7d794a6f4dc15a2e6bd",
+      "summary": "HELD +0 — 16 repairs make shelter, confirmation and passage—not victory—the success condition.",
+      "commentary": "The city survives by admitting that weather made of unacknowledged grief cannot be out-argued.",
+      "reasoning": "The Storm is not an enemy body: Viderehan tracks remotely, Ferrehan shelters and rotates, and resolution is passage rather than defeat.\n\nOne station is no station; harmful exposure follows unconfirmed readings, missed shelter and treating lowest pressure as safety.\n\nEquipment can clear fallen load and move people under temporary shelter, but aiming at clouds or using Shield as a dam collapses the corridor.",
+      "history": "No earlier unit shipment was found, but held +0 is required because the primary and exact items materially disagree on equipment origin and Maul/Shield function. No fresh Types, Weapon or SE credit is claimed.",
+      "holds": [
+        "Shelter-hardware/barometer origins versus post-Storm hail/bestowal. Held.",
+        "Maul and Shield ability/binding variants. Held.",
+        "Formation mechanism and prevention remain unresolved. Held.",
+        "Sorrow Storm versus Unwept Storm naming. Held."
+      ],
+      "split": [
+        6,
+        10
+      ],
+      "repairs": [
+        {
+          "id": "R01-movement-forming-spreading",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Movement** | Stationary — a place or zone; spreads rather than moves. |",
+          "new": "| **Movement** | Forming phenomenon — does not travel as a body; forms over the city and spreads rapidly along connected Han flows. |"
+        },
+        {
+          "id": "R02-speed-not-fixed-object",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | N/A — no body or heading; onset and boundary are measured by the full pressure ring per turn |"
+        },
+        {
+          "id": "R03-pressure-resolve",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Han / burden pressure |",
+          "new": "| **Primary pressure** | Resolve — remaining able to shelter, account and act under accumulated city Weight |"
+        },
+        {
+          "id": "R04-vessel-no-body",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — no body or vessel; shelter until the Storm passes |"
+        },
+        {
+          "id": "R05-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R06-charm-resolve-bonus",
+          "kind": "short equipment correction",
+          "careful": false,
+          "old": "**Effect:** +2 to the working stat, and the bearer reads falling pressure as information rather than as dread, which is the only condition under which anybody works a wall and keeps thinking.",
+          "new": "**Effect:** +2 Resolve during source work, and the bearer reads falling pressure as information rather than as dread, which is the only condition under which anybody works a wall and keeps thinking."
+        },
+        {
+          "id": "R07-resistance-shelter-ring",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 45% against Weight pressure; 35% against other pressure types |",
+          "new": "| **Resistance** | 45% against Weight pressure; 35% against other pressure types. Resistance is a shelter statistic, not a route into the wall: observe remotely, confirm every figure across the full ring, shelter by floor, account for people by name before archives, rotate Ferrehan crews, and keep discharge routes running. |"
+        },
+        {
+          "id": "R08-gathering-clouds-ring-minimum",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Gathering Clouds* [**Debuff**] } | \"The pressure drops — and you feel every sorrow in the city pressing down with it.\" | [The Storm gathers overhead; the air thickens with weight.] | *Target suffers -10 Resolve under the falling pressure.* **[10 Weight DMG [Weight]]** | When the Storm forms. |",
+          "new": "| { *The Gathering Clouds* [**Debuff**] } | \"The pressure drops — and you feel every sorrow in the city pressing down with it.\" | [Ring pressure falls for days before the black ceiling is visible; the air thickens with accumulated Weight.] | *Personnel in the affected wards suffer Resolve pressure. Sound the sirens only on full-ring confirmation, shelter by floor, and begin the named roll-call; do not enter the forming wall for data.* **[10 Weight DMG [Weight]]** | When ring pressure remains below the standing minimum for three consecutive quarter-hours. |"
+        },
+        {
+          "id": "R09-first-gust-open-exposure",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The First Gust* [**Debuff**] } | \"The wind comes — and it carries old grief like grit.\" | [A gust of sorrow-laden wind buffets the target.] | *Target loses 10 Resolve; the wind will not let them stand straight.* **[10 Weight DMG [Weight]]** | When the target stands in the open. |",
+          "new": "| { *The First Gust* [**Debuff**] } | \"The wind comes — and it carries old grief like grit.\" | [The first sorrow-laden gust catches personnel still outside the shelter line.] | *Exposed personnel lose Resolve and cannot stand straight under the gust. Move immediately to the nearest staffed shelter by the lowest-pressure checked route; lowest pressure is not called safe.* **[10 Weight DMG [Weight]]** | When personnel remain in the open after the shelter order. |"
+        },
+        {
+          "id": "R10-hail-active-crystal-rain",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Hail* [**Attack**] } | \"The hail falls — each stone a condensed, heavy sorrow.\" | [Weighted hail hammers down across the area.] | *Inflicts Weight pressure and one bruising wound.* **[14-22 Weight DMG [Weight]]** | When the Storm is roused. |",
+          "new": "| { *The Hail* [**Attack**] } | \"The hail falls — each stone a condensed, heavy sorrow.\" | [Dark crystal rain and fallen Weight masses hammer the exposed route during an active wall; the Storm has not been “roused” by the crew.] | *Inflicts Weight pressure and bruising exposure. Keep the group moving under monitored shelter, clear only fallen load from the evacuation line, and never aim a Maul or discharge at the cloud layer.* **[14-22 Weight DMG [Weight]]** | When crystal rain is falling on personnel outside adequate shelter during an active wall. |"
+        },
+        {
+          "id": "R11-eye-false-clear-no-intent",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Eye* [**Attack**] } | \"The ring reads a false clear, one station against the others, and the crew that acts on it is the crew the wall was waiting for.\" | [The apparent lull before the passage, recorded once in the file at a price the wall inscription still carries.] | *24–36 Weight to whoever is caught outside the shelter line. Since the false-clear the rule has been that one station is no station and every figure is confirmed across the full ring before it is reported upward.* **[24-36 Weight DMG [Weight]]** | When a ring reading is acted on before it is confirmed across all stations. |",
+          "new": "| { *The Eye* [**Attack**] } | \"The ring reads a false clear, one station against the others, and the crew that acts on it walks back under a wall that never left.\" | [An unconfirmed local lull is mistaken for passage; the Storm has no intent and was not waiting.] | *Heavy Weight falls on whoever left the shelter line. One station is no station: confirm pressure across the full ring and resume only in stages on the ring's word.* **[24-36 Weight DMG [Weight]]** | When a single-station clear reading is acted on before confirmation across all stations. |"
+        },
+        {
+          "id": "R12-full-tempest-confirmed-wall",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Tempest* [**Ultimate**] } | \"The whole storm breaks at once, and the city finds out what it has been holding.\" | [The passage runs to its full length: a wall of one night to nine days, crystal rain across every zone, and every other holding in the city pressing harder on its own containment.] | *12–20 Weight per turn for three turns to everyone in the affected wards. The 1,102nd cycle wall ran nine days and filled three reservoirs with undiluted Flerehan; the 1,701st lasted one night.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | On a wall, when the standing minimum has fallen below three consecutive quarter-hours and the shelters are full. |",
+          "new": "| { *The Full Tempest* [**Ultimate**] } | \"The whole storm breaks at once, and the city finds out what it has been holding.\" | [A confirmed wall runs at full citywide pressure for one night to nine days, with crystal rain in every zone and other holdings pressing harder on containment.] | *All affected wards take Weight pressure for three turns. Secure people before archives, maintain discharge routes, rotate sheltered crews, and expect structural damage and new crystallizations after passage; shelter is success, not defeat of the weather.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 75% during a full-ring-confirmed wall. |"
+        },
+        {
+          "id": "R13-use-notes-shelter-until-clear",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "The three pieces are storm salvage and they say so: the maul and the harness are cut from shelter hardware that survived a passage, and the twenty-two charms are struck one each from a barometer that failed on Storm duty, every one carrying its instrument's last reading on the back. What they give is listed above. What they take is always weight — the maul in the arm, the harness in its own mass as it absorbs, the charm in the bearer's speed — and the Armoury's bookkeeping puts the cost against the wielder rather than the piece because that is where it presents.",
+          "new": "The three pieces are storm salvage and they say so: the maul and the harness are cut from shelter hardware that survived a passage, and the twenty-two charms are struck one each from a barometer that failed on Storm duty, every one carrying its instrument's last reading on the back. What they give is listed above. What they take is always weight — the maul in the arm, the harness in its own mass as it absorbs, the charm in the bearer's speed — and the Armoury's bookkeeping puts the cost against the wielder rather than the piece because that is where it presents.\n\n**Set resonance — Shelter Until Clear:** The Charm identifies an evacuation route and shelter overload, the Shield covers people while they keep moving, and the Maul acts only on fallen load blocking that route. Together they can hold a temporary corridor below critical Weight long enough for evacuation while the Storm continues around it. The set cannot stop weather or make permanent shelter: turning the Maul toward the clouds, treating the Shield as a static dam, or waiting for zero pressure overloads all three. The Storm still passes on city grief conditions, not operator success."
+        },
+        {
+          "id": "R14-detailed-position-boundary",
+          "kind": "careful appearance correction",
+          "careful": true,
+          "old": "| **Position / movement** | Stationary — a place or zone; spreads rather than moves. Posture and distance are logged because on Sorrow Storm neither has ever been assumed. |",
+          "new": "| **Position / movement** | No body, posture or heading. Log the affected boundary, full-ring pressure, River gauge, onset watch and zones under the wall; the phenomenon forms in place and spreads along connected Han flows. |"
+        },
+        {
+          "id": "R15-story2-veil-instrument-record",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "It can cross the Veil temporarily.",
+          "new": "Both Veil crossings are instrument records, not sightings, and neither is treated as a route or an all-clear."
+        },
+        {
+          "id": "R16-marginalia-storm-charm-name",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Storm work is the only Directorate discipline that treats grounding as a spiritual practice. Crews working under the wall maintain physical contact with earthed structures, recite the pressure figures aloud at intervals, and log their own heart rates alongside the barometers — because the Storm presses on bodies as well as buildings, and a crew that cannot distinguish its own dread from the pressure's weight cannot be trusted with either. The Storm's Stigma, the Keystone Heart, grants exactly this discrimination: bearers feel pressure as information rather than fear. Its cost is weight — bearers move slowly, speak slowly, and are excused from all duties requiring haste, which they do not mind, because haste under the wall is how people die.",
+          "new": "Storm work is the only Directorate discipline that treats grounding as a spiritual practice. Crews working under the wall maintain physical contact with earthed structures, recite the pressure figures aloud at intervals, and log their own heart rates alongside the barometers — because the Storm presses on bodies as well as buildings, and a crew that cannot distinguish its own dread from the pressure's weight cannot be trusted with either. The Storm Charm supports exactly this discrimination: bearers read falling pressure as information rather than dread and can identify overload or a lower-pressure direction, never a guaranteed safe route. Its cost is weight — bearers move slowly, speak slowly, and are excused from all duties requiring haste, which they do not mind, because haste under the wall is how people die."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.033  clean   152 grams  Trivia\n 0.018  clean   113 grams  Operational Parameters\n 0.006  clean   823 grams  Combat Record\n 0.006  clean   664 grams  M.A.W. Equipment\n 0.004  clean   569 grams  감각 묘사 (Flavor Text)\n 0.000  clean  2534 grams  Sovereign Chronicle\n 0.000  clean   354 grams  이야기 (Narratio)\n 0.000  clean   324 grams  기록 (Registrum)\n 0.000  clean   291 grams  Expansion Behavior\n 0.000  clean   251 grams  이야기 보고 (Story Log)\n 0.000  clean   224 grams  Behavior\n 0.000  clean   219 grams  Appearance\n 0.000  clean   180 grams  관찰 기록 (Observation Log)\n 0.000  clean   156 grams  Origin\n 0.000  clean   117 grams  Sovereign Manifestation Log\n 0.000  clean    83 grams  최종 관찰 (Final Observation)\n 0.000  clean    76 grams  City-Scale Impact & Directorate Posture\n 0.000  clean    53 grams  증언 (Testimonium)\n 0.000  clean    44 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 45% against Weight pressure; 35% against other pressure types. Resistance is a shelter statistic, not a route i\n   85   4  | { *The Full Tempest* [**Ultimate**] } | \"The whole storm breaks at once, and the city finds out what it has been holding.\" | [A \n  195   3  **Appearance:** a heavy two-handed maul of Weight Han-steel, matte and bank-heavy, struck from the counterweight of a shelter door\n  211   1  **Appearance:** a shield-backed harness of Weight Han-steel, matte and unnaturally heavy, built around the plate of a shelter shut\n  333   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  458   1  The observatory readers made the application themselves, which is unusual for instrument staff and is recorded as such. They asked\n  478   5  - **Field detail:** Its defining element is Weight, and its registered location is All zones — periodic phenomenon.\nGENERIC 0.003  (19 shared shingles)  SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-320-A__SIDE_CODEX_Unwept_Storm.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-320-B__MAW-W_The_Storm_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-320-C__MAW-S_The_Storm_Shield.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-320-D__MAW-G_The_Storm_Charm.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-320-A__SIDE_CODEX_Unwept_Storm.md": "e4a42dfc5710061113516578904d07be4fab5e76af9c8fc02ea609c2ff542e9a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-320-B__MAW-W_The_Storm_Maul.md": "d0109feb74e2d48e6cf50ccc1f63300cb092cc411e57cdcdf29fed3806349f4b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-320-C__MAW-S_The_Storm_Shield.md": "58d1afaf3b640d2bb4fadd76fa137bfe8118e10c3eb7c20ac16e35fceec2d510",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-320-D__MAW-G_The_Storm_Charm.md": "6fd24eb7d52864c9b3782d8562c2efffe2abc513c14317d3e1122bab9bfe6d1e"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B3-320_Sorrow_Storm_%EC%8A%AC%ED%94%94%EC%9D%98_%ED%8F%AD%ED%92%8D.md \"SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md\")]",
+      "table_link": "[[C-Vγ-320 Sorrow Storm](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B3-320_Sorrow_Storm_%EC%8A%AC%ED%94%94%EC%9D%98_%ED%8F%AD%ED%92%8D.md \"SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 485 lines / 9,223 words, complete direct SE-320-A/B/C/D and Registry rows 607–610. No earlier shipment history was found in CHANGELOG. All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 5,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The Charm bonus is now the exact +2 Resolve during source work; no unsupported Gauge surge was present or introduced."
       }
     }
   ]

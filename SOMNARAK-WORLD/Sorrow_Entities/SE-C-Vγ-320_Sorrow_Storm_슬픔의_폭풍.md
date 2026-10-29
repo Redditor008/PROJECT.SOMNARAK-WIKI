@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Non-Organic — A city-wide storm of concentrated Han — black clouds that are not weather, a rain of dark crystal, a pressure that bends walls out of true. Lead-heavy, it smells of wet stone; there is no body, only the storm, and the slow structural groan beneath it. |
-| **Movement** | Stationary — a place or zone; spreads rather than moves. |
+| **Movement** | Forming phenomenon — does not travel as a body; forms over the city and spreads rapidly along connected Han flows. |
 | **Location** | All zones — periodic phenomenon |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -26,14 +26,14 @@
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Han / burden pressure |
+| **Primary pressure** | Resolve — remaining able to shelter, account and act under accumulated city Weight |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · γ |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
+| **Vessel-Destructible** | No — no body or vessel; shelter until the Storm passes |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Shelter, account for personnel, and keep the channels running. Viderehan from the ring and Ferrehan under ballast are the only approaches; there is nothing here to confront or to comfort. |
 
 ### Operational Notes
@@ -51,8 +51,8 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Weight pressure; 35% against other pressure types |
+| **Speed** | N/A — no body or heading; onset and boundary are measured by the full pressure ring per turn |
+| **Resistance** | 45% against Weight pressure; 35% against other pressure types. Resistance is a shelter statistic, not a route into the wall: observe remotely, confirm every figure across the full ring, shelter by floor, account for people by name before archives, rotate Ferrehan crews, and keep discharge routes running. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 717/717 |
 | **Han Pressure [ATK]** | 13–30 per hit · Weight |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Gathering Clouds* [**Debuff**] } | "The pressure drops — and you feel every sorrow in the city pressing down with it." | [The Storm gathers overhead; the air thickens with weight.] | *Target suffers -10 Resolve under the falling pressure.* **[10 Weight DMG [Weight]]** | When the Storm forms. |
-| { *The First Gust* [**Debuff**] } | "The wind comes — and it carries old grief like grit." | [A gust of sorrow-laden wind buffets the target.] | *Target loses 10 Resolve; the wind will not let them stand straight.* **[10 Weight DMG [Weight]]** | When the target stands in the open. |
-| { *The Hail* [**Attack**] } | "The hail falls — each stone a condensed, heavy sorrow." | [Weighted hail hammers down across the area.] | *Inflicts Weight pressure and one bruising wound.* **[14-22 Weight DMG [Weight]]** | When the Storm is roused. |
-| { *The Eye* [**Attack**] } | "The ring reads a false clear, one station against the others, and the crew that acts on it is the crew the wall was waiting for." | [The apparent lull before the passage, recorded once in the file at a price the wall inscription still carries.] | *24–36 Weight to whoever is caught outside the shelter line. Since the false-clear the rule has been that one station is no station and every figure is confirmed across the full ring before it is reported upward.* **[24-36 Weight DMG [Weight]]** | When a ring reading is acted on before it is confirmed across all stations. |
-| { *The Full Tempest* [**Ultimate**] } | "The whole storm breaks at once, and the city finds out what it has been holding." | [The passage runs to its full length: a wall of one night to nine days, crystal rain across every zone, and every other holding in the city pressing harder on its own containment.] | *12–20 Weight per turn for three turns to everyone in the affected wards. The 1,102nd cycle wall ran nine days and filled three reservoirs with undiluted Flerehan; the 1,701st lasted one night.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | On a wall, when the standing minimum has fallen below three consecutive quarter-hours and the shelters are full. |
+| { *The Gathering Clouds* [**Debuff**] } | "The pressure drops — and you feel every sorrow in the city pressing down with it." | [Ring pressure falls for days before the black ceiling is visible; the air thickens with accumulated Weight.] | *Personnel in the affected wards suffer Resolve pressure. Sound the sirens only on full-ring confirmation, shelter by floor, and begin the named roll-call; do not enter the forming wall for data.* **[10 Weight DMG [Weight]]** | When ring pressure remains below the standing minimum for three consecutive quarter-hours. |
+| { *The First Gust* [**Debuff**] } | "The wind comes — and it carries old grief like grit." | [The first sorrow-laden gust catches personnel still outside the shelter line.] | *Exposed personnel lose Resolve and cannot stand straight under the gust. Move immediately to the nearest staffed shelter by the lowest-pressure checked route; lowest pressure is not called safe.* **[10 Weight DMG [Weight]]** | When personnel remain in the open after the shelter order. |
+| { *The Hail* [**Attack**] } | "The hail falls — each stone a condensed, heavy sorrow." | [Dark crystal rain and fallen Weight masses hammer the exposed route during an active wall; the Storm has not been “roused” by the crew.] | *Inflicts Weight pressure and bruising exposure. Keep the group moving under monitored shelter, clear only fallen load from the evacuation line, and never aim a Maul or discharge at the cloud layer.* **[14-22 Weight DMG [Weight]]** | When crystal rain is falling on personnel outside adequate shelter during an active wall. |
+| { *The Eye* [**Attack**] } | "The ring reads a false clear, one station against the others, and the crew that acts on it walks back under a wall that never left." | [An unconfirmed local lull is mistaken for passage; the Storm has no intent and was not waiting.] | *Heavy Weight falls on whoever left the shelter line. One station is no station: confirm pressure across the full ring and resume only in stages on the ring's word.* **[24-36 Weight DMG [Weight]]** | When a single-station clear reading is acted on before confirmation across all stations. |
+| { *The Full Tempest* [**Ultimate**] } | "The whole storm breaks at once, and the city finds out what it has been holding." | [A confirmed wall runs at full citywide pressure for one night to nine days, with crystal rain in every zone and other holdings pressing harder on containment.] | *All affected wards take Weight pressure for three turns. Secure people before archives, maintain discharge routes, rotate sheltered crews, and expect structural damage and new crystallizations after passage; shelter is success, not defeat of the weather.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 75% during a full-ring-confirmed wall. |
 
 ### Battle Phases
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A static storm-wall across every zone at once, with crystal rain beneath it and a continuous structural groan under that. |
-| **Position / movement** | Stationary — a place or zone; spreads rather than moves. Posture and distance are logged because on Sorrow Storm neither has ever been assumed. |
+| **Position / movement** | No body, posture or heading. Log the affected boundary, full-ring pressure, River gauge, onset watch and zones under the wall; the phenomenon forms in place and spreads along connected Han flows. |
 | **Material / signature** | Weight. Lead-heavy air, wet stone, dark crystal underfoot, and the joints of the city complaining audibly in every district. |
 | **Distinctive markers** | Ring pressure, River gauge, boundary of the affected zone, and the number of other holdings that have begun to stir. |
 | **Identification** | Read the ring, not the sky. One station is no station; the false-clear taught that at a price the wall inscription still records. |
@@ -230,7 +230,7 @@ The Storm does not escalate in the sense this section is written for: it arrives
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 to the working stat, and the bearer reads falling pressure as information rather than as dread, which is the only condition under which anybody works a wall and keeps thinking.
+**Effect:** +2 Resolve during source work, and the bearer reads falling pressure as information rather than as dread, which is the only condition under which anybody works a wall and keeps thinking.
 
 **Ability:** The bearer reads falling pressure as information rather than as dread, which is the only condition under which anybody works a wall and keeps thinking — and it is the reason the charms are issued by the ring rather than by the Armoury.
 
@@ -241,6 +241,8 @@ The Storm does not escalate in the sense this section is written for: it arrives
 ### M.A.W. Use Notes
 
 The three pieces are storm salvage and they say so: the maul and the harness are cut from shelter hardware that survived a passage, and the twenty-two charms are struck one each from a barometer that failed on Storm duty, every one carrying its instrument's last reading on the back. What they give is listed above. What they take is always weight — the maul in the arm, the harness in its own mass as it absorbs, the charm in the bearer's speed — and the Armoury's bookkeeping puts the cost against the wielder rather than the piece because that is where it presents.
+
+**Set resonance — Shelter Until Clear:** The Charm identifies an evacuation route and shelter overload, the Shield covers people while they keep moving, and the Maul acts only on fallen load blocking that route. Together they can hold a temporary corridor below critical Weight long enough for evacuation while the Storm continues around it. The set cannot stop weather or make permanent shelter: turning the Maul toward the clouds, treating the Shield as a static dam, or waiting for zero pressure overloads all three. The Storm still passes on city grief conditions, not operator success.
 
 ### Field Use Record
 
@@ -284,7 +286,7 @@ Sorrow Storm (C-Vγ-320 [D]) is a Place-Weight manifestation expressing Weight, 
 
 **Entry 2 — <Pressure Observatory Ring, Year 4238>**
 Standing minimum 488 on the ring scale, after 547 and 612. Lower is worse. The reading is confirmed across the ring and against the River gauges before it is reported, by the rule the false-clear left behind. It can cross the Veil temporarily and has done so twice in the current record.
-It can cross the Veil temporarily.
+Both Veil crossings are instrument records, not sightings, and neither is treated as a route or an all-clear.
 
 **Entry 3 — <Observance Office, schedule of recognised loss>**
 Access to the discharge channels follows the schedule: spouse, parent, child, sibling. No officer may extend it, abridge it, or inquire into any other relationship for the purpose of granting access.
@@ -419,7 +421,7 @@ The season ended the way Storms end: all at once, without transition. The wall t
 
 Read pressure, not clouds. This is the storm crews' first lesson, and it contradicts every instinct. The Storm's visible mass is its least informative feature — by the time the wall is visible, the pressure has already been rising for days, and the gauges have already told the whole story to anyone who was listening. Storm doctrine is therefore a doctrine of instruments: barometers before eyes, gauge tapes before reports, and evacuation orders issued on numbers alone, without waiting for confirmation from the sky.
 
-Storm work is the only Directorate discipline that treats grounding as a spiritual practice. Crews working under the wall maintain physical contact with earthed structures, recite the pressure figures aloud at intervals, and log their own heart rates alongside the barometers — because the Storm presses on bodies as well as buildings, and a crew that cannot distinguish its own dread from the pressure's weight cannot be trusted with either. The Storm's Stigma, the Keystone Heart, grants exactly this discrimination: bearers feel pressure as information rather than fear. Its cost is weight — bearers move slowly, speak slowly, and are excused from all duties requiring haste, which they do not mind, because haste under the wall is how people die.
+Storm work is the only Directorate discipline that treats grounding as a spiritual practice. Crews working under the wall maintain physical contact with earthed structures, recite the pressure figures aloud at intervals, and log their own heart rates alongside the barometers — because the Storm presses on bodies as well as buildings, and a crew that cannot distinguish its own dread from the pressure's weight cannot be trusted with either. The Storm Charm supports exactly this discrimination: bearers read falling pressure as information rather than dread and can identify overload or a lower-pressure direction, never a guaranteed safe route. Its cost is weight — bearers move slowly, speak slowly, and are excused from all duties requiring haste, which they do not mind, because haste under the wall is how people die.
 
 The standing myth of the storm crews is that every Storm is the city's uncried tears, lifted and compressed — grief that refused the River, refused the Tide, and rose instead, until the sky could hold it no longer. The crews honor this theory with a custom: when the wall clears, they stand uncovered in the first ordinary rain and let it wash them. No order commands this. No regulation forbids it. The rain is just rain, and that — after the wall — is miracle enough.
 
