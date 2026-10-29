@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "batch": 202,
+  "status": "OPEN",
+  "completed_units": 0,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "C-IIβ-048",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-048_Hums_노래하는_돌.md",
+      "words": 8808,
+      "sha256": "77860b84c1c53a3b6d646b95cb0df388e6ae12ba68283ff4e2d689751e5453c8"
+    },
+    {
+      "unit": 2,
+      "designation": "C-IVδ-230",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억.md",
+      "words": 8810,
+      "sha256": "d053b3451fe0ea68315e46129962522b3b11e4d0d417b44c79904647c8ded165"
+    },
+    {
+      "unit": 3,
+      "designation": "C-IVδ-219",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md",
+      "words": 8837,
+      "sha256": "a95bca16f3603de60a6953ae9a05cfd6c07eb0fb470330c13ffaf2b1f28f2e40"
+    },
+    {
+      "unit": 4,
+      "designation": "C-IVγ-009",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md",
+      "words": 8840,
+      "sha256": "ebefaaa92e8fd6993abdb66aa58e425f8b1b754f819f98d829716ef76b132bf1"
+    },
+    {
+      "unit": 5,
+      "designation": "O-IVδ-844",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-844_Repose_잠든_잔해.md",
+      "words": 8915,
+      "sha256": "65d498f479611173c29e5a8e7d7f53cdd2190325e5efe80bb3750bf79906f9b6"
+    }
+  ],
+  "opened_at": "2026-10-29",
+  "completed": 0,
+  "units": []
+}
