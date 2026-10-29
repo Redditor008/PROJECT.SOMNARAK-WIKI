@@ -1,7 +1,7 @@
 # SOMNARAK ↔ LOBOTOMY CORPORATION — Full Conversion Reference
 ## For AI-Assisted Entity Transformation (Well of Cogito grabs a Somnarak Entity)
 
-> **Combined-edition note (2026-10-30):** Owner's laptop original — the full field-by-field conversion reference — filed verbatim from the owner's dump and rearranged by subject into the chapter sequence of the *Universal Sorrow Entity to Abnormality Conversion Table* (chaptered combined overhaul edition) under source tag **[FCR]**. This standalone file remains the archival original.
+> **Combined-edition note (2026-10-30):** Owner's laptop original — the full field-by-field conversion reference — filed verbatim from the owner's dump and, for its SE → Abnormality material, rearranged by subject into the chapter sequence of the *Universal Sorrow Entity to Abnormality Conversion Table* (chaptered combined overhaul edition) under source tag **[FCR]**. This standalone file remains the archival original.
 
 > *Give this document to an AI along with a Somnarak Entity file. The AI can use these mappings to transform the Sorrow Entity into a Lobotomy Corporation Abnormality. Every field in the entity file has an L Corp equivalent listed here.*
 
