@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVγ-270": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_04_MEMORY_LAKE.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -2391,8 +2403,23 @@
     {
       "designation": "C-IVγ-270",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-270_Memory_Lake_기억의_호수.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Nineteen repairs (4 short / 15 careful). Memory Lake no longer authorises margin extraction, invents a 15% Gauge rise from margin movement, leaves the Returned Weight trigger as a prohibition note, or ends on generic suppression wording. Resistance now names fixed stations, paired conversation, unattributed scenes, recognition rotation and no contact. Exact Lake Shroud and Lake Flask appearances were restored, the Flask changed from indefinite issued storage to witnessed custody/return, and generic Work Notes, Archive Note, activation flavor and proximity-interaction language were replaced with the sounding-book procedure. HELD; no credit because the primary already contains the complete γ set/statistics/costs/Field Use Record and a dated 2026-10-13 full-set source review.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_04_MEMORY_LAKE.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-270-A__SIDE_CODEX_Mnemosyne.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-270-B__MAW-W_The_Lake_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-270-C__MAW-S_The_Lake_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-270-D__MAW-G_The_Lake_Flask.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVγ-946",
