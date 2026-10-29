@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 205,
   "status": "OPEN",
-  "completed_units": 0,
+  "completed_units": 1,
   "required_units": 5,
   "queue": [
     {
@@ -52,6 +52,224 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 0,
-  "units": []
+  "completed": 1,
+  "units": [
+    {
+      "unit": 1,
+      "designation": "N-IVδ-909",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md",
+      "words": 7943,
+      "sha256": "31331e091c47a11d550bd070669d600b3cabb82dfd62066ba443fbaaf333c472",
+      "prior_batch": 147,
+      "shape": "Subject",
+      "name": "Dormant Monolith",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_01_DORMANT_MONOLITH.md",
+      "before_words": 7943,
+      "after_words": 8232,
+      "base": "ea83bd3dee28dc5cb2e24cfda3bf793d7213c313",
+      "final_sha256": "8e85078e5e2b54e2a27abfed25ba22507e37384850e541e2a6daed7868677365",
+      "summary": "HELD +0 — 18 repairs take the physics out of a pillar that only stands inside people.",
+      "commentary": "The unseen pale column is a stronger body than a literal sleepy stone man, and the rota remains the most honest containment document in the archive: it works by telling people to go home.",
+      "reasoning": "The Pillar exists only where somebody is already carrying too much, so every harmful row now begins from a checkable duty event — first noticed obligation, returned obligation, forced set-down, attempted escape from one's past, declined relief — never from nearness to an object that is not in the room.\n\nContainment is the rota, so protection is stated as ordered relief and named muster rather than resistance arithmetic.\n\nB147's corridor-transition and waking-threshold holds were retested against the full file and remain genuinely undecidable; they are carried, not cosmetically resolved.",
+      "history": "Batch 118 already earned this set's equipment credits and B147 made a limited pre-R-34 mental-form repair; this R-34 recheck claims no fresh Types, Weapon or SE credit. HELD +0.",
+      "holds": [
+        "Mind-to-mind breach spread versus corridor-filling Transformation Response. Held.",
+        "Never fully woken versus two waking events and 410 executed declines. Held.",
+        "Basalt sword/shield forms versus chime greatsword and Lens naming. Held.",
+        "Named family submission versus nobody-left-to-name origin. Held."
+      ],
+      "split": [
+        8,
+        10
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-composure-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Identity / memory pressure |",
+          "new": "| **Primary pressure** | Composure — identity and memory cohesion under duties that will not end |"
+        },
+        {
+          "id": "R02-speed-stationary",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | 2.45 m/s |",
+          "new": "| **Speed** | N/A — stationary within consciousness and never observed to move; spread is measured in declined reliefs, not metres |"
+        },
+        {
+          "id": "R03-valid-work-pugnahan-escalation",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Flerehan and Ferrehan; Viderehan lists the duties (Stable). Pugnahan raises the Pillar through the worker's thoughts and is logged as an escalation, not an attack. |"
+        },
+        {
+          "id": "R04-tension-grammar",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "1. **Tension:** Identification first — Dormant Monolith is recognised by there are no physical markers to work from.",
+          "new": "1. **Tension:** Identification first — for Dormant Monolith there are no physical markers to work from."
+        },
+        {
+          "id": "R05-entry1-duplication",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "Dormant Monolith (N-IVδ-909 [N]) is a Subject-Mind manifestation expressing Void, held at the Border region in Zone E. It stands for duties that never ended, and it has never fully awakened: no obligation that has been put into it has ever come back out lifted. The Pillar formed from responsibility that became a permanent mental structure. Held at Zone E, Border region. It has never fully awakened.",
+          "new": "Dormant Monolith (N-IVδ-909 [N]) is a Subject-Mind manifestation expressing Void, held at the Border region in Zone E. It stands for duties that never ended, and it has never fully awakened: no obligation that has been put into it has ever come back out lifted. The Pillar formed from responsibility that became a permanent mental structure."
+        },
+        {
+          "id": "R06-trivia-stray-pipe",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- **Classification detail:** Subject, Entity (IV) coherence, Critical (δ) potency: a Mind-type holding that has never struck anybody and cannot be lifted off the worker carrying it. |",
+          "new": "- **Classification detail:** Subject, Entity (IV) coherence, Critical (δ) potency: a Mind-type holding that has never struck anybody and cannot be lifted off the worker carrying it."
+        },
+        {
+          "id": "R07-resistance-rota-protection",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 45 per cent against Void pressure and 35 against everything else, which for a holding that stands still in the worker's own thinking is a formality: there is nothing to strike and nothing striking. The gauge opens at 950 and trips at 90 per cent, and the drain runs 5 Clarity per turn while it is unopposed. |",
+          "new": "| **Resistance** | 45 per cent against Void pressure and 35 against everything else, which for a holding that stands still in the worker's own thinking is a formality: there is nothing to strike and nothing striking. The gauge opens at 950 and trips at 90 per cent, and the drain runs 5 Composure per turn while it is unopposed. Working protection is the rota: one observer, relief issued as an order, and a declined relief executed anyway. |"
+        },
+        {
+          "id": "R08-settling-first-sign",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Settling* [**Debuff**] } | \"The pillar sinks — slowly, in its sleep — and the structure above groans and shifts.\" | [The Pillar's settling destabilizes everything above; the target feels the structural failure.] | *Target suffers a Void mark; the supports are failing in their dreams.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stands near the Pillar. |",
+          "new": "| { *The Settling* [**Debuff**] } | \"The pillar sinks — slowly, in its sleep — and the structure above groans and shifts.\" | [Nothing moves in the room. Inside the observer's thinking a pale column settles its weight onto the duties already standing there.] | *The worker loses Composure and identity cohesion. Record the newly noticed obligation verbatim; the second worker, not the observer, owns the clock and the relief.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the first sign occurs: the observer becomes aware of an obligation they had not thought about that day. |"
+        },
+        {
+          "id": "R09-dreaming-foundation-returned-duty",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Dreaming Foundation* [**Debuff**] } | \"The pillar dreams of bearing impossible weight — and the dream is so vivid the weight becomes real.\" | [The Pillar's dream-weight presses on the target; phantom mass from a sleeping mind.] | *Target loses clarity; the sleeping support is generating real gravity.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |",
+          "new": "| { *The Dreaming Foundation* [**Debuff**] } | \"The pillar dreams of bearing impossible weight — and the dream is so vivid the weight becomes real.\" | [The shadow reaches a forgotten room and returns a real obligation — a debt, a visit never made, a promise — verified accurate against outside records.] | *The worker loses Composure under weight with no physical source. Log the returned obligation and offer administrative time after the watch; do not act on it from inside the exposure.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the shadow reaches a forgotten room and an obligation the worker had genuinely lost returns. |"
+        },
+        {
+          "id": "R10-sleep-twitch-set-down-attempt",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Sleep-Twitch* [**Attack**] } | \"The pillar spasms in its sleep — a violent, involuntary shift that cracks the floor.\" | [An involuntary structural convulsion strikes.] | *Inflicts Void damage; the dream-spasm warps space.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Pillar is touched. |",
+          "new": "| { *The Sleep-Twitch* [**Attack**] } | \"The pillar spasms in its sleep — a violent, involuntary shift.\" | [Confrontation reads as an attempt to put the duties down, and the Pillar rises through the worker's thoughts without hostility and without stopping.] | *Heavy Void pressure on identity cohesion. Stop confronting: ground the worker, let grief through under Flerehan or rest under Ferrehan, and log the attempt as an escalation.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When Pugnahan or any attempt to force the duties down is made against the Pillar. |"
+        },
+        {
+          "id": "R11-full-awakening-escaping-history",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Awakening* [**Attack**] } | \"The pillar wakes — and the first thing a load-bearing support does when it wakes is realize how heavy everything is.\" | [The whole weight the pillar has been holding comes back through it at once, and every duty standing on it changes hands in the same moment.] | *A heavy Void convulsion; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Pillar is forced awake. |",
+          "new": "| { *The Full Awakening* [**Attack**] } | \"The pillar wakes — and the first thing a load-bearing support does when it wakes is realize how heavy everything is.\" | [The whole weight the pillar has been holding comes back through it at once, and every duty standing on it changes hands in the same moment.] | *A heavy Void convulsion through the worker's identity. The counselor asks in plain words what the worker is trying to leave behind; relief is then issued as an order, not offered as an escape.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a duty-bearer attempts to step out from under their own past instead of accepting ordered relief. |"
+        },
+        {
+          "id": "R12-waking-structure-threshold-refusal",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Waking Structure* [**Ultimate**] } | \"Every pillar in the field wakes — and the combined realization of structural burden collapses everything.\" | [The duties stop being one worker's post: the waking spread puts every obligation in the Border region into whoever is nearest to it.] | *All in range suffer Void erosion for three turns of waking supports.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Waking Structure* [**Ultimate**] } | \"Every pillar in the field wakes — and the combined realization of structural burden collapses everything.\" | [The duties stop being one worker's post: the waking spread puts every obligation in the Border region into whoever is nearest to it.] | *All exposed suffer Void erosion for three turns. Establish the rotation by order before anything else, muster by name at fixed points, and send the response leader home first if their relief is due.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the 90% threshold with a relief declined in the Border region. |"
+        },
+        {
+          "id": "R13-breach-effect-mind-spread",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "| **Effect** | The containment zone loses definition, colors fade, sounds vanish. |\n| **Secondary Effect** | An absence that eats the edges of reality. |",
+          "new": "| **Effect** | The Pillar stands in one more mind, then another: exposed workers report emptiness, then a full room they are not allowed to leave, and the roster begins showing one name volunteering every time. |\n| **Secondary Effect** | Duties transfer to whoever is nearest to them — in this facility, the worker longest on post. Shadow depth tracks declined reliefs, never elapsed hours. |"
+        },
+        {
+          "id": "R14-shield-stabilize-not-lift",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Holds the bearer's footing in one place — perception slows by enough to hear the post's own duties being listed — and keeps the weight of them off the wearer while the shield is set.",
+          "new": "**Ability:** Slows time perception and stabilizes the wearer — the pillar's stillness lent out as composure, slow enough to hear the post's own duties being listed. It does not keep their weight off: nothing on this file lifts a duty off its named holder, and the wearer feels every duty they have postponed while the shield is set."
+        },
+        {
+          "id": "R15-flavor-first-contact-obligation",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Mind, pressing or releasing like a tide. Then the form resolves: A pillar-shaped presence sleeping inside consciousness. Its surface is pale and its shadow reaches into forgotten rooms. The space does not become generic; it shifts in the specific register of Void.",
+          "new": "**At first contact:** The first thing you notice is not the entity but an obligation you had not thought about that day. Only then does the form register: a pillar-shaped presence sleeping inside your own consciousness, pale-surfaced, its shadow reaching into forgotten rooms. The air, the room and the colleague beside you are unchanged, and the colleague sees nothing at all."
+        },
+        {
+          "id": "R16-flavor-activation-relief",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "**When the entity activates:** The Gauge tips. The Subject-Mind does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Void is no longer atmospheric. It is operational.",
+          "new": "**When the entity activates:** Somebody declines a relief. Nothing becomes louder or faster and nothing in the room changes; the pillar simply stands a little deeper in the thinking of whoever is still on post, and the roster is where an outsider would see it first."
+        },
+        {
+          "id": "R17-field-detail-stray-pipe",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- **Field detail:** Void is its element and the Border region of Zone E is its registered ground — held there standing, asleep, and shared out rather than contained. |",
+          "new": "- **Field detail:** Void is its element and the Border region of Zone E is its registered ground — held there standing, asleep, and shared out rather than contained."
+        },
+        {
+          "id": "R18-flavor-not-waiting",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "A pillar rises inside your mind, holding up a ceiling no one else can see. You are tired, but the Pillar does not know how to lie down. It waits for permission to stop carrying what the living keep placing on it.",
+          "new": "A pillar rises inside your mind, holding up a ceiling no one else can see. You are tired, but the Pillar does not know how to lie down, and nothing in it asks permission to stop carrying what the living keep placing on it."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.025  clean    79 grams  Operational Parameters\n 0.023  clean   177 grams  최종 관찰 (Final Observation)\n 0.021  clean   282 grams  Appearance\n 0.017  clean   240 grams  관찰 기록 (Observation Log)\n 0.010  clean   825 grams  Combat Record\n 0.009  clean   331 grams  기록 (Registrum)\n 0.009  clean   798 grams  M.A.W. Equipment\n 0.003  clean   573 grams  감각 묘사 (Flavor Text)\n 0.000  clean  1315 grams  Apex Record\n 0.000  clean   381 grams  이야기 (Narratio)\n 0.000  clean   259 grams  이야기 보고 (Story Log)\n 0.000  clean   190 grams  Origin\n 0.000  clean   175 grams  Trivia\n 0.000  clean   174 grams  Breach Behavior\n 0.000  clean   158 grams  Behavior\n 0.000  clean    49 grams  증언 (Testimonium)\n 0.000  clean    34 grams  SECC Classification\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   85   6  | { *The Waking Structure* [**Ultimate**] } | \"Every pillar in the field wakes — and the combined realization of structural burden\n   89   2  1. **Tension:** Identification first — for Dormant Monolith there are no physical markers to work from. Identify it by the conditi\n  122   6  | **Identification** | Verify these observations against the SECC code before work or contact begins; the wrong entity is the wron\n  241   7  | **At limit** | Stop on a refused relief or first-person retelling, or when a source response repeats outside contact. A named wi\n  267   4  **Observation method:** Record the first sign, which is the observer becoming aware of an obligation they had not thought about th\n  291   1  > Two ways to close a watch at the Border post, and the file's own rota shows the difference inside a fortnight: one leaves a rota\n  293   3  | Ground the worker, establish a rotation of duty and enter it in the rota sheet — the file's own condition, with the post handed \n  323   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  380   3  **Review requirement:** Re-verify after any Sorrow Tide, after any breach in the Border region, and after any change to the duty r\nGENERIC 0.006  (36 shared shingles)  SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/909_Dormant_Monolith/SE-909-A__SIDE_CODEX_Dormant_Monolith.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/909_Dormant_Monolith/SE-909-B__MAW-W_Dormant_Monolith_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/909_Dormant_Monolith/SE-909-C__MAW-S_Dormant_Monolith_Shield.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/909_Dormant_Monolith/SE-909-D__MAW-G_Dormant_Monolith_Charm.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/909_Dormant_Monolith/SE-909-A__SIDE_CODEX_Dormant_Monolith.md": "3b335d5b78045dcede1f68cb0432d75208f66bebe9b5c8ab5b8b41ec1281eff2",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/909_Dormant_Monolith/SE-909-B__MAW-W_Dormant_Monolith_Lens.md": "8a99494531c4ad5b4798fbb6f2495cbeb35e6c7ec147f478560c4fba8fddcf98",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/909_Dormant_Monolith/SE-909-C__MAW-S_Dormant_Monolith_Shield.md": "8df1e87b9a8db628da714b7c9f2e199991260f6b11c8debfc4d6c56a065e96a2",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/909_Dormant_Monolith/SE-909-D__MAW-G_Dormant_Monolith_Charm.md": "3e07abec9402edc64ebd72ea3d00056b12c6c826c63f9ae7e64829b03c59b9c1"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IVδ-909_Dormant_Monolith_잠든_기둥](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-909_Dormant_Monolith_%EC%9E%A0%EB%93%A0_%EA%B8%B0%EB%91%A5.md \"SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md\")]",
+      "table_link": "[[N-IVδ-909 Dormant Monolith](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-909_Dormant_Monolith_%EC%9E%A0%EB%93%A0_%EA%B8%B0%EB%91%A5.md \"SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md\")]",
+      "reading": "R-34 recheck of B147_02: complete frozen primary at 462 lines / 7,943 words, complete direct SE-909-A/B/C/D, Registry rows 995-998, and the B147 receipt read as a claim to check. All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 241,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Unsupported 15% Gauge surge removed; Ultimate aligned from 65% (inside the 60-80% opening band) to the file's 90% threshold with a declined-relief condition; locomotion speed removed for a stationary Subject-Mind."
+      }
+    }
+  ]
 }
