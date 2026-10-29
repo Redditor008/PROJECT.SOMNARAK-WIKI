@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Correction — two-mechanism counters in the universe comparison (2026-10-30)
+
+- **`COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md`:** the §9 Breach Trigger row and the §17 lexicon's Qliphoth Counter row no longer equate Counter = Gauge. Both now state the two distinct P.S. mechanisms — continuous **Sorrow Gauge** pressure (0–100%, work-driven) and discrete **Activation Threshold** conditions — with either-or-both filing and first-completion breach, citing the governing conversion law (Universal Table §III Counters; reverse guide §VII.1).
+
+
 ## Correction — two-mechanism counter law in the reverse guide (2026-10-30)
 
 - **`PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md` Section VII.1 rewritten** ("The Qliphoth Counter → Gauge & Threshold Channels"), replacing last audit's fused "N-step Gauge distance" model: a native counter's *drivers* are read first — work-result drivers convert to the continuous **Sorrow Gauge** channel (Behavior outcomes, step per LC point), named-condition/timer drivers convert to the discrete **Activation Threshold** channel (conditions quoted verbatim, never fulfilled by work alone), dual-driver natives file both channels with interlocks quoted, and counterless natives become activation-only SEs. Per-channel reset (permanent counts stay permanent), Watch-marked meltdown handling per channel, and Tool use counters as Threshold-channel mechanisms. Checklist item 11 reworded to the two channels at exact box width.
