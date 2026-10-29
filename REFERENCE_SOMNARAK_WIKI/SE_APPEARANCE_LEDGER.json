@@ -27,7 +27,20 @@
       "C-IVγ-270",
       "N-IIα-215"
     ],
-    "reviewed": {}
+    "reviewed": {
+      "N-IVδ-159": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_01_APNEA.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -5533,8 +5546,23 @@
     {
       "designation": "N-IVδ-159",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-159_Apnea_얼어붙은_한숨.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Fourteen repairs (3 short / 11 careful) in a strong but internally conflicted file. Apnea no longer drifts, structurally pressures the room, uses a turn-based breach gauge, resolves by suppression, or carries generic dark-metal Suit/Stigma forms. Movement and pressure now follow the motionless/walking breath-suspension record; Struck carries its eleven-day flatness; resolution is audible breath and departure on the hour. The exact crimson Frozen Breath veil and Frozen Charm appearances were restored, and the whole Released Breath set is again relief-gated rather than a way to keep working. HELD; no credit because the primary already contains a dated 2026-10-11 full-set source review and all three pieces/statistics/costs/Field Use Record.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_01_APNEA.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-A__SIDE_CODEX_Apnea.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-B__MAW-W_The_Frozen_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-C__MAW-S_The_Frozen_Breath.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-D__MAW-G_The_Frozen_Charm.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IVδ-315",

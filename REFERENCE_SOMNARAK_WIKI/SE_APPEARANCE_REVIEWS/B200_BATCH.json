@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 200,
   "status": "OPEN",
-  "completed_units": 0,
+  "completed_units": 1,
   "required_units": 5,
   "queue": [
     {
@@ -42,6 +42,201 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 0,
-  "units": []
+  "completed": 1,
+  "units": [
+    {
+      "unit": 1,
+      "designation": "N-IVδ-159",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-159_Apnea_얼어붙은_한숨.md",
+      "words": 8607,
+      "sha256": "58aceb79095a518d343f6aaa189b06a398149279a879c37af195417e161debcb",
+      "name": "Apnea",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_01_APNEA.md",
+      "before_words": 8607,
+      "after_words": 8786,
+      "base": "f454776294603258610c85136bc3f5e62224f015",
+      "final_sha256": "0bc43459373cfd068220e659db5552b01590555781119ca85592de6f93b3359e",
+      "summary": "Fourteen repairs (3 short / 11 careful) in a strong but internally conflicted file. Apnea no longer drifts, structurally pressures the room, uses a turn-based breach gauge, resolves by suppression, or carries generic dark-metal Suit/Stigma forms. Movement and pressure now follow the motionless/walking breath-suspension record; Struck carries its eleven-day flatness; resolution is audible breath and departure on the hour. The exact crimson Frozen Breath veil and Frozen Charm appearances were restored, and the whole Released Breath set is again relief-gated rather than a way to keep working. HELD; no credit because the primary already contains a dated 2026-10-11 full-set source review and all three pieces/statistics/costs/Field Use Record.",
+      "commentary": "The horror is administrative and bodily at once: a man followed a good rule until it killed him, and the countermeasure is another rule that knowingly leaves towers dark. The repairs protect that uncomfortable symmetry. Apnea does not need claws, pursuit or structural damage; the scariest sentence in the file is still that everybody involved may have been right.",
+      "reasoning": "R-34 audit before editing. Identity is direct SE-159: Side A prints `N-IVδ-159 [O]`, Subject-Dream, IV/δ, Grudge, Zone E Border region, Gauge 60–80%, Grudge pressure 29–62 and Comprehension 2—Studied; B/C/D carry `MAW-W/S/G-159-01`. The primary's dominant 24-year local record is unusually coherent: a translucent held-breath figure has never moved in the chamber or sounded, its crimson cracks are photographically fixed, workers stop breathing unless paced by an unpleasant tone, every shift ends on the hour, three breaches walked to the outer wall, and one-to-nineteen-day flat periods track facility watch overruns rather than exposure length. Generic leftovers contradicted that spine—drift/flow movement, physical/structural pressure, suppression/grounding resolution, a 40% +10%-per-turn breach gauge, generic work-note effects, a floor posture in Final Observation and an Interaction Pattern implying combined presence. Matching (entry) and Off the Tone (tone no longer heard) were retained as separately triggered functions; Struck only lacked its recorded flat-period cost. Nineteen Days and the roster-return Ultimate were not rewritten into a new causal mechanism because the primary presents their institutional correlation as its central unresolved finding. Exact C/D support the crimson veil/charm forms restored here; exact B supports relief-gated compressed-pressure release without settling Stiletto versus Fang form. Every table block had equal parsed cell counts before and after, and all five Trigger cells parse fifth and name discrete entry, tone-loss, contact, flat-period or roster-publication conditions rather than sequence positions.",
+      "history": "Draft/local history: a Zone E watchman dying of accumulated Han exposure held his final breath because relief was eleven hours late and the tower could not be left unmanned; the chamber was built around the room. Twenty-four years of crack photography, breathing logs, one prohibited strike, three walking breaches, the 1,196-overrun return and the Hard Stop's 812 dark-post hours/two excursions/one late incursion/twenty-three disciplinary findings form the primary record. Exact SE-159 Side A gives the same duty-denied final exhale in less local detail and leaves the worker's name and full-exhale result unknown. Fresh equipment credit BARRED: the primary already contained a dated 2026-10-11 full-set source review against Side A, B/C/D, Master Registry/Entries 526–528 and MAW-W-159, plus all three δ pieces, exact statistics/costs, Use Notes and a bespoke Field Use Record. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+      "holds": [
+        "Work/breach fork: SE-159-A says frost cracks make the source sigh audible, confrontation returns cold pressure, Videre reveals death/exhaustion, and breach pressure pursues personnel. The primary's photographic and chamber record says the cracks never change, the entity never sounds, Videre never returns the death, and breach movement does not pursue orderly withdrawal. Neither layer was overwritten. Held.",
+        "Delayed-action causal fork: Nineteen Days and One Thousand One Hundred and Ninety-Six model post-contact flatness and quarterly overrun correlation as Combat Record pressure, including a 15% gauge rise and pressure on roster-return publication. The file demonstrates correlation, not a chamber mechanism by which publication itself raises the Gauge. Held.",
+        "Weapon identity/form/reach fork: current heading, primary Appearance, Master Registry/table row and SHORT BLADE archetype support The Glacial Stiletto; SE-159-B Official Name/Resting/Active forms and detailed Master Entry 526 retain The Frozen Fang. No transition is documented, and the archetype Close band conflicts with Range 3 (Medium). The separate SE-643 Frozen Fang was not borrowed. Held.",
+        "Origin-document fork: the primary says the watchman is named in the station medical log and that the log/two witness statements are reproduced whole; Side A says the original worker's name is not retained in current source evidence, and the primary does not print the log. Whether a full exhale would calm Apnea or end its form is also unknown. Held.",
+        "Metadata/pressure fork: Side A gives Comprehension 2—Studied and Grudge pressure 29–62; the primary consistently labels Level 2 as Basic and gives normalized Han Pressure 21–46. No crosswalk between the labels/ranges is supplied. Held.",
+        "Equipment-credit bar: the dated 2026-10-11 full-set review and the pre-existing complete Weapon/Suit/Stigma blocks mean this corrective pass creates no fresh Types or Weapon credit, even where exact Suit/Stigma Appearance prose was restored. Held at +0."
+      ],
+      "split": [
+        3,
+        11
+      ],
+      "repairs": [
+        {
+          "id": "R1-movement-standing-walk",
+          "kind": "short movement correction",
+          "careful": false,
+          "old": "| **Movement** | Mobile — drifts or flows through the area. |",
+          "new": "| **Movement** | Mobile — motionless inside the chamber; during a breach it walks at 1.26 m/s and has never run. |"
+        },
+        {
+          "id": "R2-primary-pressure-breathing",
+          "kind": "short pressure correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Physical / structural pressure |",
+          "new": "| **Primary pressure** | Grudge pressure on Resilience through unnoticed breathing suspension |"
+        },
+        {
+          "id": "R3-pressure-not-structural",
+          "kind": "careful operational correction",
+          "careful": true,
+          "old": "- Pressure is physical and structural despite the dream form. The crimson cracks have not widened, closed or moved in twenty-four years of fixed-position photography; the earlier claim that they widen under failure is withdrawn against the series, and the Trivia line repeating it has been corrected.",
+          "new": "- The pressure is bodily rather than thermal or structural: it suspends breathing and feeling while leaving air temperature and the chamber fabric unchanged. The crimson cracks have not widened, closed or moved in twenty-four years of fixed-position photography; the earlier claim that they widen under failure is withdrawn against the series, and the Trivia line repeating it has been corrected."
+        },
+        {
+          "id": "R4-struck-flat-period",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Struck* [**Attack**] } | \"It was hit once, in Year 4219, by a worker who had been on shift for thirty-one hours. The figure did not move and the cracks did not change.\" | [Physical contact is made with the figure.] | *Grudge pressure on the striker alone; the gauge rises and the chamber is cleared.* **[14-22 Grudge DMG [Grudge]]** | On any contact; prohibited. |",
+          "new": "| { *Struck* [**Attack**] } | \"It was hit once, in Year 4219, by a worker who had been on shift for thirty-one hours. The figure did not move and the cracks did not change.\" | [Physical contact is made with the figure.] | *Grudge pressure on the striker alone; the gauge rises, the chamber is cleared, and the striker enters the post-contact flat period (eleven days in the only recorded strike).* **[14-22 Grudge DMG [Grudge]]** | On any contact; prohibited. |"
+        },
+        {
+          "id": "R5-resolution-withdrawal-not-suppression",
+          "kind": "careful battle correction",
+          "careful": true,
+          "old": "3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Ground the worker and allow a safe release of breath**.",
+          "new": "3. **Resolution:** The worker's breath is audible against the pacing tone and the worker leaves on the hour, with the cycle unfinished if the hour requires it. In a breach, resolution is withdrawal at a walk—not suppression."
+        },
+        {
+          "id": "R6-work-notes-breathing-hour",
+          "kind": "careful work correction",
+          "careful": true,
+          "old": "The Work Type line is one input and not the whole picture; what a steady gauge means in the field is decided by the SECC code and the coherence level together. This record is a Subject with Subject-Dream manifestation and Grudge as its element, held at Zone E on the border, and nothing learned on an entity with a similar name transfers here. A gauge holding still is not permission to relax: the reading can stay where it is while the worker still carries away memory, environmental or identity effects.",
+          "new": "The Work Type line is only one input. In this chamber it is read with three facts that no gauge direction replaces: whether the worker's breathing is audible against the tone, whether the second worker has had to call their name, and whether the end hour has arrived. A stable Viderehan reading is a record of cracks and breathing figures, not clearance to remain; the flat period is assessed after departure and cannot be predicted from the cycle just completed."
+        },
+        {
+          "id": "R7-breach-no-turn-gauge",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn until the corridor is empty, at which point it falls at the same rate. All three breaches closed inside nineteen minutes.",
+          "new": "- **Sorrow Gauge on breach:** No turn-based rise is used for this holding. The recorded hazard grows with time spent sharing the corridor and ends for each worker on withdrawal; all three breaches closed inside nineteen minutes, with the corridor emptied at a walk and the tone carried out."
+        },
+        {
+          "id": "R8-weapon-relief-gated-release",
+          "kind": "careful weapon correction",
+          "careful": true,
+          "old": "**Ability:** Grudge damage to the Body. Issued for Zone E border work, where the cold is weather; it has never been carried into the chamber and the standing order is that it never will be.",
+          "new": "**Ability:** Its Skewer cracks a compressed Grudge/breath-pressure field open only after a relief person and stop condition are named; it is not a tool for forcing an exhausted bearer or target to continue. Issued for Zone E border work, where the cold is weather; it has never been carried into the chamber and the standing order is that it never will be."
+        },
+        {
+          "id": "R9-suit-crimson-veil-appearance",
+          "kind": "careful suit appearance correction",
+          "careful": true,
+          "old": "**Appearance:** a gossamer breath-veil of Grudge Han-cloth, dark and faintly warm, that settles cold against the skin.",
+          "new": "**Appearance:** a crimson gossamer breath-veil that feels like a cold breath over the mouth and chest; in active use it holds a thin frost-red barrier, and a relief observer can see cracks whenever the wearer is suppressing exhaustion."
+        },
+        {
+          "id": "R10-stigma-crimson-charm-appearance",
+          "kind": "careful stigma appearance correction",
+          "careful": true,
+          "old": "**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that grows cool near its source sorrow.",
+          "new": "**Appearance:** a small crimson frost-charm with a crack across its centre; it stays cold while the bearer is willing to call relief, and in active use the crack points toward the first moment a worker's fatigue becomes a safety risk."
+        },
+        {
+          "id": "R11-use-notes-relief-before-use",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "The set is built around not stopping, and every piece of it makes stopping harder: a blade that aches afterwards, a veil that hides exhaustion from its own wearer, a charm that makes its bearer intolerant of people who stay. The armoury's note recommends the set be issued only to personnel who have already been through a flat period, on the ground that they will treat it with the appropriate suspicion.",
+          "new": "The set is not issued to make an exhausted person continue. Before any piece is used, a relief person, a stop condition and the next holder of the task are named. The blade then opens compressed pressure, the veil protects the withdrawal while an observer watches its cracks, and the charm identifies the point at which relief is required. Used to suppress fatigue or send the bearer back into the same duty, the set reproduces the condition that formed Apnea. The armoury's caution stands: personnel who have already been through a flat period are likelier to treat that prohibition as operational rather than decorative."
+        },
+        {
+          "id": "R12-final-observation-no-floor-grounding",
+          "kind": "careful observation correction",
+          "careful": true,
+          "old": "> The shift ends two ways on the sheet, and the record takes its reading from whichever one happens: get the worker onto the floor so the breath comes back with the tone, or hold the hour open past its close to finish the cycle.\n\n| Do the file's way: ground the worker, and let the breath come back with the tone. | Improvise something kinder instead, which is where every failure on this record began. |",
+          "new": "> The shift ends two ways on the sheet, and the record takes its reading from whichever one happens: restore the worker's audible breathing against the tone and leave on the hour, or hold the hour open past its close to finish the cycle.\n\n| Do the file's way: breathe to the tone, hear the breath return, and leave on the hour. | Improvise something kinder instead, which is where every failure on this record began. |"
+        },
+        {
+          "id": "R13-interactions-paper-only",
+          "kind": "careful interaction correction",
+          "careful": true,
+          "old": "Three names are written beside this one — The Sleeping Sigh, The Frozen Veil and The Border Lead — and the register keeps them as comparisons rather than partisans. A watch that runs two together enters what the second presence altered: breath-sound in the room, movement at the edge of sight, the cold gathered around the cot, memory pressure, the gauge reading, or the hold on containment, and beside each one the range, the duration, and the first trigger.",
+          "new": "Three names are written beside this one — The Sleeping Sigh, The Frozen Veil and The Border Lead — and the register keeps them as paper comparisons only. No second presence is brought into the chamber and no combined watch is run; each comparison is recorded against one question—rest denied, feeling stopped, or a post that could not be left—without transferring range, duration or trigger claims between records."
+        },
+        {
+          "id": "R14-management-condition-row",
+          "kind": "short management correction",
+          "careful": false,
+          "old": "| **Resolution Condition** | The worker's breath is audible against the pacing tone and the worker leaves the chamber on the hour with the cycle unfinished if that is what the hour requires |",
+          "new": "| **Resolution Condition** | The worker's breath is audible against the pacing tone and the worker leaves the chamber on the hour with the cycle unfinished if that is what the hour requires |\n| **Management** | Breathe to the pacing tone, end the shift on the hour, and withdraw at a walk in a breach rather than suppress. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IVδ-159_Apnea_얼어붙은_한숨.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.012  clean   173 grams  Operational Parameters\n 0.011  clean   533 grams  감각 묘사 (Flavor Text)\n 0.005  clean   546 grams  기록 (Registrum)\n 0.002  clean   550 grams  Combat Record\n 0.001  clean   819 grams  M.A.W. Equipment\n 0.000  clean  1055 grams  Apex Record\n 0.000  clean   745 grams  이야기 보고 (Story Log)\n 0.000  clean   390 grams  이야기 (Narratio)\n 0.000  clean   353 grams  관찰 기록 (Observation Log)\n 0.000  clean   251 grams  Trivia\n 0.000  clean   236 grams  Breach Behavior\n 0.000  clean   235 grams  Appearance\n 0.000  clean   216 grams  Origin\n 0.000  clean   139 grams  증언 (Testimonium)\n 0.000  clean   124 grams  Behavior\n 0.000  clean   118 grams  최종 관찰 (Final Observation)\n 0.000  clean    34 grams  SECC Classification\n 0.000  clean    28 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 45% against Grudge pressure; 35% against other pressure types |\n  222   1  **Effect:** +3 stat bonus when working the source entity\n  334   1  Three records are grouped with this one and none has been brought near it, because moving this holding requires a transfer order t\n  336   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  339   3  | **The Frozen Veil** | The cell asserts a clean division of labour between the two holdings that no observation supports; this on\n  381   1  - The Hard Stop is a containment condition of this holding and binds every watch roster this facility keeps.\n  388   2  **Faction Involvement:** SED (E-territory survey) · Judexhan (δ-grade high-threat) · the Watch Office, listed on an entity file be\n  393   1  **Operational interpretation:** Read this file with the debrief returns and the roster overrun figures beside it; that is a requir\nGENERIC 0.002  (14 shared shingles)  SE-N-IVδ-159_Apnea_얼어붙은_한숨.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-A__SIDE_CODEX_Apnea.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-B__MAW-W_The_Frozen_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-C__MAW-S_The_Frozen_Breath.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-D__MAW-G_The_Frozen_Charm.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-A__SIDE_CODEX_Apnea.md": "abe0c1c9e5358231f5ae847e8ff2b7b9a2b19c8d9e9304f8debd3a0f8ed7ebda",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-B__MAW-W_The_Frozen_Fang.md": "d07266006a5ff94eea99b882337656021e5438068d8a09408992699f792d6f34",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-C__MAW-S_The_Frozen_Breath.md": "bb2b6ef88d413fab1a431f8728db6701418d441e46be38f9a0da98967b2b9ef4",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-D__MAW-G_The_Frozen_Charm.md": "c271228c58a9d5fa521003546e82f2777dc3b0b93eee771e5e741782b6d64246"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IVδ-159_Apnea_얼어붙은_한숨](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-159_Apnea_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%ED%95%9C%EC%88%A8.md \"SE-N-IVδ-159_Apnea_얼어붙은_한숨.md\")]",
+      "table_link": "[[N-IVδ-159 Apnea](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-159_Apnea_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%ED%95%9C%EC%88%A8.md \"SE-N-IVδ-159_Apnea_얼어붙은_한숨.md\")]",
+      "reading": {
+        "before_lines": 454,
+        "before_bytes": 51215,
+        "final_lines": 455,
+        "final_bytes": 52340
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 20,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The unsupported standardized breach sequence (40% start and +10% per turn) was removed because it conflicts with the 60–80% start and the time-in-corridor withdrawal record. The existing 1.26 m/s breach speed was repeated in the SECC Movement row. No new statistic was introduced."
+      }
+    }
+  ]
 }
