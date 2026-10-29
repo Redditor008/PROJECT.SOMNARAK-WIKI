@@ -39,6 +39,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "C-IVω-001": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_02_THE_MAW.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -3383,10 +3395,10 @@
       "designation": "C-IVω-001",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md",
       "status": "held",
-      "note": "Corrected DetailedActivationManifestation Place-Grudge→Place-Tale, retaining Grudgeelement. Speedrationale now distinguishes ordinarydistrict travel from registeredeventform without new speed. Added samecitizens/architecturalsubstance continuity, currentquietnotwalking and explicit origin/trigger/equipmentholds. ExistingAppearanceStates and Tale/equipment unchanged.",
-      "outcome": "unresolved whole-file logical relationship",
-      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_04_THE_MAW.md",
+      "note": "Rechecked The Maw under R-34 with the owner appearance lens: the current body is the district itself — buildings inclining toward sound, ground that never finished setting, a 41-marker perimeter, and a current cycle of silence — with the Walking District held as a registered, unwitnessed event form. Fourteen repairs remove the invented heart, dragging tar, crushing strike and tracking mark from combat, bind every row to checkable conduct at the line (speech, standing duration, raised voices, a published denial, a third formal refusal), and record the linked Grip/Shroud/Relic mechanics as disputed descriptions rather than an issued kit, since Side Codex A prohibits extraction outright. Credit stays +0; the dossier remains HELD.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_02_THE_MAW.md",
       "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_04_THE_MAW.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-A__SIDE_CODEX_The_Maw.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-B__MAW-W_The_Maw_Grip.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-C__MAW-S_The_Maw_Shroud.md",
@@ -10144,6 +10156,14 @@
       "batch": 207,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_01_BROKEN_WELL.md",
       "history_proof": "Batch 99 unit 3 already cross-reviewed and credited the exact SE-565 A/B/C/D equipment set (recorded in B149_03_BROKEN_WELL); the official counters credit that set before B207, so this recheck adds no Types or Weapon credit.",
+      "all_types_credit": false,
+      "weapon_credit": false
+    },
+    {
+      "designation": "C-IVω-001",
+      "batch": 207,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_02_THE_MAW.md",
+      "history_proof": "Side Codex SE-1003-A is a 1/1 extraction-prohibited exception, recorded at B149 as not a new eligible 4/4 Weapon pair (equipment +0); the conflicting B–D item files do not create creditable issued equipment, so this recheck adds no Types or Weapon credit.",
       "all_types_credit": false,
       "weapon_credit": false
     }

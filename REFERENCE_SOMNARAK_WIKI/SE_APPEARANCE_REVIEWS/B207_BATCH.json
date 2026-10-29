@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 207,
   "status": "OPEN",
-  "completed_units": 1,
+  "completed_units": 2,
   "required_units": 5,
   "queue": [
     {
@@ -52,7 +52,7 @@
     }
   ],
   "opened_at": "2026-10-30",
-  "completed": 1,
+  "completed": 2,
   "units": [
     {
       "unit": 1,
@@ -290,6 +290,209 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 11,
         "digit_sequence_change": "Digits change only where unsupported mechanics were removed or thresholds aligned: 1.45 m/s and ~10 kg–100 kg removed as body errors; the Ultimate trigger moves from 65% to the file's own ≥60% activation threshold; the demolition surge figure leaves with the demolition. All other source numbers (1.1 m, four metres, 45%, equipment profiles) are preserved."
+      }
+    },
+    {
+      "unit": 2,
+      "designation": "C-IVω-001",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md",
+      "words": 7820,
+      "sha256": "6acb7ec5ff6ff5841bdd1babd9f2bae1446b0b2459a3757e572856fb11584498",
+      "prior_batch": 149,
+      "shape": "Non-Subject",
+      "name": "The Maw",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_02_THE_MAW.md",
+      "before_words": 7820,
+      "after_words": 8357,
+      "base": "4cfa0f51802e3ec7e3ee2421cb3a81accdd79da8",
+      "final_sha256": "7ce7582325995ca70b18afa8f98ff9545a9b5fe913c5a5fcce9d48916486a8d0",
+      "summary": "Rechecked The Maw under R-34 with the owner appearance lens: the current body is the district itself — buildings inclining toward sound, ground that never finished setting, a 41-marker perimeter, and a current cycle of silence — with the Walking District held as a registered, unwitnessed event form. Fourteen repairs remove the invented heart, dragging tar, crushing strike and tracking mark from combat, bind every row to checkable conduct at the line (speech, standing duration, raised voices, a published denial, a third formal refusal), and record the linked Grip/Shroud/Relic mechanics as disputed descriptions rather than an issued kit, since Side Codex A prohibits extraction outright. Credit stays +0; the dossier remains HELD.",
+      "commentary": "A thousand citizens became streets and foundations; nothing about that body needs jaws. The combat record now hurts people the way the district actually does — by leaning toward their voices, keeping their footprints, and answering sentences written in offices — and the equipment section stops certifying a golden stiletto with a bite pattern for a holding whose own Side Codex forbids taking anything from it at all.",
+      "reasoning": "Appearance first: the Place form is architecture and unset ground, stationary as a location and measurable only at the perimeter, so entry/linger/cornered triggers and a heart-dragging tar are body errors; the reserved Subject form gathers the same substance and is answered by withdrawal.\n\nTriggers now name conduct the file itself regulates — speaking at the line, remaining on unset ground past the written plan, radio or conferring inside, a published Directorate denial, and a third formal refusal — each with the file's own counter-conduct (low voices, reconvene outside, route statements to the Architects).\n\nEquipment stays uncredited and unnormalized: Side A (1/1, extraction prohibited) cannot be reconciled with B–D (4/4) or the local kit, so source mechanics are recorded as descriptions under dispute, never as an issued canonical set.",
+      "history": "Prior review B149 (7,570→7,820 words) corrected the activation manifestation to Place-Tale, separated ordinary district travel from the registered event form, and held origin, silence, trigger and extraction conflicts open. This recheck re-read the whole 491-line primary, B149 evidence and SE-1003-A/B/C/D in full before repairing.",
+      "holds": [
+        "Deliberate relocation-sacrifice (opening, Origin, Side A) versus warned neglect that was \"not a sacrifice\" (Tale); the nine-hour taking versus seventeen counted minutes of screaming now stand side by side in the combat row, unreconciled.",
+        "Current-cycle silence and peace versus continuing quarterly negotiation, voice counts and whispering passages; no dating bridge is supplied and none was invented.",
+        "Expansion at 2.3 cm per cycle/year versus marker jumps of four metres to a street width; refusal-count and perimeter-crossing transformation triggers remain two accounts.",
+        "Extraction prohibited (Side A, 1/1) versus Grip/Shroud/Relic (4/4), the local stiletto/plate/charm kit and Master entries; the local name-loss cost system versus source burn, guilt and voice-multiplying costs. No issued Maw kit is certified."
+      ],
+      "split": [
+        5,
+        9
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-resilience",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Physical / structural pressure |",
+          "new": "| **Primary pressure** | Resilience — the will to keep standing on ground that is still occupied, and to leave when the plan says leave |"
+        },
+        {
+          "id": "R02-identification-cell",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |",
+          "new": "| **Identification** | Confirm before Work or contact: designation C-IVω-001 `[GP]`, Grudge expression, Place-Tale manifestation, Entity (IV) coherence, Zone B district — UNCONTAINED, against the 41-marker chart. |"
+        },
+        {
+          "id": "R03-extraction-dispute-flag",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- Extraction is authorised separately, never during a negotiation, and never once the designation has shifted to `C-IVω-001-B`. Three pieces exist and all three were taken in the first eleven years, before the shift was understood.",
+          "new": "- Extraction is authorised separately, never during a negotiation, and never once the designation has shifted to `C-IVω-001-B`. Three pieces exist and all three were taken in the first eleven years, before the shift was understood. Side Codex A records extraction as canonically prohibited outright; the two accounts are held side by side, not reconciled (see the appearance note)."
+        },
+        {
+          "id": "R04-flavor-activation-district",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "**When the entity activates:** Activation reshapes the room. The Grudge that was atmospheric becomes directed — aimed, purposeful, alive in a way the containment protocols anticipated but never fully contain.",
+          "new": "**When the entity activates:** A marker is found moved, the buildings nearest to where somebody spoke lean a measure further in, and the ground takes footprints it does not give back. In the years when the district still spoke, the thousand said the visitor's name together; in the current cycle the same signs arrive in silence."
+        },
+        {
+          "id": "R05-trivia-identification",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.\n- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.",
+          "new": "- **Recognition detail:** Identify it by the survey, not by impression: buildings inclining toward sound, ground that never finished setting and holds a footprint, and a 41-marker chart that only ever moves outward.\n- **Record detail:** Read this file beside the marker chart, the quarterly negotiation transcript and the roll of sixty-one recovered names; the designation `C-IVω-001-B [GS]` is a reserved event form, not a second holding."
+        },
+        {
+          "id": "R06-whispering-walls-at-line",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Whispering Walls* [**Debuff**] } | \"The walls lean inward, and a thousand voices settle on you at once — each one knowing your name.\" | [The district itself turns toward the target; the walls darken, curve, and begin to whisper their regrets.] | *Target suffers -10 Resilience and is marked; the Maw always knows where they stand.* **[10 Grudge DMG [Grudge]]** | When a target enters the district or the city's sorrow rises. |",
+          "new": "| { *The Whispering Walls* [**Debuff**] } | \"The walls lean inward, and a thousand voices settle on you at once — each one knowing your name.\" | [The walls curve toward whoever is speaking and darken as they close over the street; in the years the district spoke, the thousand answered from them. The current cycle is quiet, and this row records the speaking state, not a new exception to the silence.] | *The party suffers -10 Resilience. Stop talking: voices are kept low inside the district, instructions are given before entry, and problems are resolved by withdrawing to reconvene outside — never by conferring where the walls can lean in.* **[10 Grudge DMG [Grudge]]** | When a party speaks at the line or inside the district during negotiation or survey. |"
+        },
+        {
+          "id": "R07-soft-ground-no-heart",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Soft Ground* [**Debuff**] } | \"The concrete softens to black tar beneath your feet — the thousand, reaching up.\" | [The ground liquefies to dark Han-tar; the target sinks and is dragged toward the wound at the district's heart.] | *Target loses 10 Resilience and cannot easily break free of the district.* **[10 Grudge DMG [Grudge]]** | When the target lingers in the Maw's territory. |",
+          "new": "| { *The Soft Ground* [**Debuff**] } | \"The concrete softens to black tar beneath your feet — the thousand, reaching up.\" | [The ground never finished setting: it yields underfoot, takes a footprint and holds it. Nothing drags anybody anywhere — there is no heart to be dragged toward; the hazard is familiarity, people standing on occupied ground until leaving stops occurring to them.] | *The worker loses 10 Resilience. Work the written plan agreed at the boundary, keep to the stated duration of the authorization, and leave on the plan rather than on judgement formed inside the district.* **[10 Grudge DMG [Grudge]]** | When an authorized crew remains standing on the unset ground inside the perimeter. |"
+        },
+        {
+          "id": "R08-leaning-buildings-toward-sound",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Leaning Buildings* [**Attack**] } | \"The buildings lurch inward, merging into one another to close the street around you.\" | [Adjacent structures fuse and tilt, crushing the corridor where the target stands.] | *Inflicts Grudge pressure and one crushing wound as the architecture itself strikes.* **[14-22 Grudge DMG [Grudge]]** | When the target is cornered or the district is provoked. |",
+          "new": "| { *The Leaning Buildings* [**Attack**] } | \"The buildings lurch inward, merging into one another to close the street around you.\" | [Buildings incline toward sound — slow, cumulative, measured against where personnel have spoken. They have never struck or crushed anybody; what closes a street is years of leaning arriving at a doorway that has narrowed past use.] | *Heavy Grudge pressure on Resilience. No radio, no raised voices, no conferring in place: withdraw in silence and reconvene outside the perimeter before the lean is given anything further to follow.* **[14-22 Grudge DMG [Grudge]]** | When voices are raised, radio is used, or a crew confers inside the district instead of withdrawing. |"
+        },
+        {
+          "id": "R09-first-wound-denial",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The First Wound* [**Attack**] } | \"The ground opens the way it opened then, and the thousand go down again, and everybody present watches it happen.\" | [The district re-enacts the Cheongula in full, at the original pace, which took nine hours.] | *Catastrophic Grudge to everyone inside the perimeter; the re-enactment cannot be interrupted and has never been shortened.* **[Catastrophic Grudge DMG [Grudge]]** | Four times in sixty years, each after a Directorate statement denying the Cheongula. |",
+          "new": "| { *The First Wound* [**Attack**] } | \"The ground opens the way it opened then, and the thousand go down again, and everybody present watches it happen.\" | [The district re-enacts the Cheongula at the original pace. The file's own accounts do not agree on that pace — nine hours for the taking in this record, seventeen counted minutes of screaming in the Tale — and the row preserves both rather than shortening either; it has happened four times in sixty years.] | *Catastrophic Grudge to everyone inside the perimeter and to the party witnessing from the line; it cannot be interrupted. Withdraw beyond the markers, re-survey all 41, and route any statement denying or qualifying the Cheongula to the Architects before publication — standing since Year 4,197.* **[Catastrophic Grudge DMG [Grudge]]** | After a Directorate statement denying the Cheongula is published. |"
+        },
+        {
+          "id": "R10-confession-third-refusal",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Confession Refused* [**Ultimate**] } | \"The thousand speak as one: *say what you did*. Nobody answers, and the district comes out to find somebody who will.\" | [The Maw expands past the perimeter; markers fall and the wound widens by streets rather than metres.] | *The designation shifts to `C-IVω-001-B` and the holding stops being a place.* **[City-threatening]** | When a confession is formally refused. It has been refused twice and withheld, without refusal, for sixty years. |",
+          "new": "| { *The Confession Refused* [**Ultimate**] } | \"The thousand speak as one: *say what you did*. Nobody answers, and the district comes out to find somebody who will.\" | [The reserved event form: expansion past the containment perimeter gathers the district into the Walking District — whispering walls detach, the soft ground lifts, the thousand voices coalesce into the moving figure. It is registered, never witnessed, and no return condition is established.] | *The designation shifts to `C-IVω-001-B [GS]` and the holding stops being a place. The standing response is withdrawal, not a work session with the moving form; record which markers fell and what moved, from outside.* **[City-threatening]** | On a third formal refusal of the confession — refused twice, and withheld without refusal for sixty years. |"
+        },
+        {
+          "id": "R11-weapon-not-issued",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Catastrophic Grudge against the Body. The Devouring Clamp holds a target in interlocking jaws and converts what it does to them into ground — the Armoury's own description, and the reason the piece has been drawn twice in sixty years and discharged once.",
+          "new": "**Ability:** Catastrophic Grudge against the Body. The linked item record (The Maw's Grip) describes instead a posture-shattering *Cheongula Cleave* that bypasses physical armor and leaves bleeding Grudge residue, draining the wielder's Composure toward meltdown. Neither account makes this an issued weapon: Side Codex A prohibits extraction outright, the piece's own form is disputed between stiletto and cleaver, and no jaws belong to a district whose observed shape is streets and ground. What the Armoury certifies is only that it has been drawn twice in sixty years and discharged once."
+        },
+        {
+          "id": "R12-suit-not-issued",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Resistance to Grudge against the Body, and a second property the Armoury did not design: the wearer hears the thousand as individuals rather than as a sound. Three wearers; all three asked to be relieved.",
+          "new": "**Ability:** Resistance to Grudge against the Body, and a second property the Armoury did not design: the wearer hears the thousand as individuals rather than as a sound. Three wearers; all three asked to be relieved. The linked item record (The Maw's Shroud) instead describes a stone cloak anchoring the bearer against knockdown and displacement, at guilt that refuses lament-based healing; under Side Codex A's prohibition neither version is certified as an issued canonical suit, and the two profiles are not normalized."
+        },
+        {
+          "id": "R13-stigma-not-issued",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Unknown. Extraction would mean wearing the sorrow of the thousand consumed citizens.",
+          "new": "**Ability:** Unknown locally. Extraction would mean wearing the sorrow of the thousand consumed citizens. The linked item record (The Maw's Relic) describes a neck torque projecting municipal authority that quiets low-rank murmurs and fragments, at a permanently multiplied voice; with extraction prohibited by Side Codex A and the slot, rate and effect all in dispute, that description is recorded, not adopted."
+        },
+        {
+          "id": "R14-appearance-note-combat",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "A blade's jaws are not the district's observed mouth, and a ground-derived harness does not establish a human-shaped resting body. Neither the existing states panel nor these distinctions certifies the unresolved whole as logically complete.",
+          "new": "A blade's jaws are not the district's observed mouth, and a ground-derived harness does not establish a human-shaped resting body. The combat record now observes the same limits: the buildings incline toward sound rather than strike, the unset ground holds footprints rather than dragging anybody toward an invented heart, and the reserved Walking District remains a registered event form whose standing response is withdrawal. Neither the existing states panel nor these distinctions certifies the unresolved whole as logically complete."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVω-001_The_Maw_구라.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.003  clean   611 grams  감각 묘사 (Flavor Text)\n 0.001  clean   789 grams  Appearance\n 0.000  clean   819 grams  Combat Record\n 0.000  clean   745 grams  Apex Record\n 0.000  clean   634 grams  이야기 (Narratio)\n 0.000  clean   607 grams  M.A.W. Equipment\n 0.000  clean   349 grams  Expansion Behavior\n 0.000  clean   286 grams  기록 (Registrum)\n 0.000  clean   236 grams  관찰 기록 (Observation Log)\n 0.000  clean   197 grams  Operational Parameters\n 0.000  clean   129 grams  Trivia\n 0.000  clean   106 grams  Behavior\n 0.000  clean    92 grams  이야기 보고 (Story Log)\n 0.000  clean    84 grams  Origin\n 0.000  clean    69 grams  SECC Classification\n 0.000  clean    60 grams  최종 관찰 (Final Observation)\n 0.000  clean    59 grams  증언 (Testimonium)\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "  127   1  | **Identification** | Confirm before Work or contact: designation C-IVω-001 `[GP]`, Grudge expression, Place-Tale manifestation, \n  378   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.001  (3 shared shingles)  SE-C-IVω-001_The_Maw_구라.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_04_THE_MAW.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-A__SIDE_CODEX_The_Maw.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-B__MAW-W_The_Maw_Grip.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-C__MAW-S_The_Maw_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-D__MAW-G_The_Maw_Relic.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_04_THE_MAW.md": "a440b334213c26599381c21b56a7fd26fca9df02232b8d8774ae0d1054b6ddc7",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-A__SIDE_CODEX_The_Maw.md": "13c65239b156b66e1092dc55c0de0a22df83bc10e549147c4bb8a21834374ea2",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-B__MAW-W_The_Maw_Grip.md": "54a1af87f1c723ec56bb963e55e37be236292c1d6f48845799a6864a1c889c00",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-C__MAW-S_The_Maw_Shroud.md": "f0928ca260eecf20b1337fc130efc4e8471e97b923d5cf841072364b6974c56b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-D__MAW-G_The_Maw_Relic.md": "a2099f96fe709de6ca4432eb9db2697a65081bb663c8f5188f808f8d7619e04a",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVω-001_The_Maw_구라](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CF%89-001_The_Maw_%EA%B5%AC%EB%9D%BC.md \"SE-C-IVω-001_The_Maw_구라.md\")]",
+      "table_link": "[[C-IVω-001 The Maw](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CF%89-001_The_Maw_%EA%B5%AC%EB%9D%BC.md \"SE-C-IVω-001_The_Maw_구라.md\")]",
+      "reading": "Whole primary before (491 lines) and whole final after; B149_04 evidence, SE-1003-A/B/C/D and the ledger Master/Tales/Entity/CSV/archetype/disposition set. Combat Trigger cells parsed against the header; all table cell counts equal.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 231,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 11,
+        "digit_sequence_change": "No measured digit was rescaled: 41 markers, 2.3 cm, 75–95%, ≥95%, 1000/1000 and all damage bands stand. The Ultimate trigger now counts the refusals the file itself counts (third formal refusal; twice refused), and the nine-hour/seventeen-minute pair is preserved explicitly as a source conflict."
       }
     }
   ]
