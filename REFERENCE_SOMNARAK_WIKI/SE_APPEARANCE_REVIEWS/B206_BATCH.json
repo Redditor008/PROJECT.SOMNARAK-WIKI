@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "batch": 206,
+  "status": "OPEN",
+  "completed_units": 0,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "C-IVδ-103",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md",
+      "words": 7886,
+      "sha256": "ba094c207fd07ea65c62a8ff6426ca4d239529f9112b790aa289b79ee23a8e76",
+      "prior_batch": 148,
+      "shape": "Subject"
+    },
+    {
+      "unit": 2,
+      "designation": "C-IIIγ-180",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-180_Owed_빚의_벽.md",
+      "words": 7674,
+      "sha256": "635d35a62849b8d1e3ac9b90b000024929ca80b2e9aa25c288773f220a5a7432",
+      "prior_batch": 149,
+      "shape": "Non-Subject"
+    },
+    {
+      "unit": 3,
+      "designation": "C-Vδ-290",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-290_First_Tear_첫_번째_눈물.md",
+      "words": 9190,
+      "sha256": "96755ffc07648a402ab5bbf0d9f70c274460b701ca550670eab9b56fe83ae826",
+      "prior_batch": 148,
+      "shape": "I-Relic"
+    },
+    {
+      "unit": 4,
+      "designation": "C-IIIγ-373",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-373_Spreading_Well_스며든_우물.md",
+      "words": 8240,
+      "sha256": "087976e814107e7d0c74e921d04ba3f1d07d72b77e5b143f08c837f5e634a7e0",
+      "prior_batch": 155,
+      "shape": "O-Relic"
+    },
+    {
+      "unit": 5,
+      "designation": "C-Iα-114",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md",
+      "words": 4725,
+      "sha256": "51eac02db5a0ade833cd2d5aaec204c0ce2a8b9e6c4f74dee0c201582ae17dc2",
+      "prior_batch": 166,
+      "shape": "A-Relic"
+    }
+  ],
+  "opened_at": "2026-10-30",
+  "completed": 0,
+  "units": []
+}
