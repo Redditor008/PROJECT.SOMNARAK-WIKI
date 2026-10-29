@@ -63,6 +63,18 @@
           "wikistd": "PASS",
           "sect": "PASS"
         }
+      },
+      "N-IVδ-315": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_04_COLLAPSED_SEED.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
       }
     }
   },
@@ -5756,8 +5768,23 @@
     {
       "designation": "N-IVδ-315",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD +0 — 20 repairs protect the unknown by refusing to force it into a form.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_04_COLLAPSED_SEED.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-A__SIDE_CODEX_Unsprouted_Life.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-B__MAW-W_Unsprouted_Life_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-C__MAW-S_Unsprouted_Life_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-D__MAW-G_Unsprouted_Life_Core.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "N-IVδ-339",

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 203,
   "status": "OPEN",
-  "completed_units": 3,
+  "completed_units": 4,
   "required_units": 5,
   "queue": [
     {
@@ -42,7 +42,7 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 3,
+  "completed": 4,
   "units": [
     {
       "unit": 1,
@@ -731,6 +731,236 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 4,
         "digit_sequence_change": "Removed the invented 15-point Full Bloom Gauge Jump; the Ultimate now uses the dossier's 90% activation threshold. The 29–64 versus 29–62 Han Pressure fork remains held."
+      }
+    },
+    {
+      "unit": 4,
+      "designation": "N-IVδ-315",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md",
+      "words": 9181,
+      "sha256": "1110709c5f6d7c09e3cd4567fe8d6b4eb918406cc006d8d9f229c19cb1298433",
+      "name": "Collapsed Seed",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_04_COLLAPSED_SEED.md",
+      "before_words": 9181,
+      "after_words": 9529,
+      "base": "7095d36f17d71a42ac1275a0ccc09fcef48f8b9e",
+      "final_sha256": "040f4f54159c1b93e4efde93e4533b1a5fa42ea43ddd40bd8598435ed7124d83",
+      "summary": "HELD +0 — 20 repairs protect the unknown by refusing to force it into a form.",
+      "commentary": "The file’s discipline is to preserve a negative finding with the same care as a discovery.",
+      "reasoning": "Potential is not consent to force emergence: contact, crushing, pruning, planting and sorrow-water are the hazardous acts, while waiting is the work.\n\nViderehan images are hypothetical and change by observer; the Clarity failure is narrating an intended form as fact.\n\nDry unplanted containment and the spoken negative finding are both required; neither replaces the other.",
+      "history": "Batch 97 shipped exact equipment review and the primary carries a 2026-10-12 full-set source review; material forks remain. HELD +0, no fresh Types, Weapon or SE credit.",
+      "holds": [
+        "Sacrificial stored substrate versus growth-medium-absent source rule. Held.",
+        "Shard extraction versus cooled tear echo. Held.",
+        "Push dagger versus blade and naming variants. Held.",
+        "Piece cost accounts. Held.",
+        "Intended form and negligence remain unknown. Held."
+      ],
+      "split": [
+        6,
+        14
+      ],
+      "repairs": [
+        {
+          "id": "R01-movement-root-haul",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |",
+          "new": "| **Movement** | Mobile — hauls itself on wet root-limbs at 0.4 m/min over bare panel and roots into surfaces it rests against. |"
+        },
+        {
+          "id": "R02-pressure-clarity",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — resisting the urge to declare what the unknown form would have been |"
+        },
+        {
+          "id": "R03-vessel-no-crush",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No authorized destruction route — never crush, open or strike the source shell |"
+        },
+        {
+          "id": "R04-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R05-tool-no-wearing",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Use Mode** | **Equippable / mounting use** |",
+          "new": "| **Use Mode** | **Dry, unplanted containment worked from outside the line — never equipped or worn** |"
+        },
+        {
+          "id": "R06-tool-activation-no-body",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |",
+          "new": "| **Activation** | Planting the Seed or watering it with sorrow. No operator takes it onto the body. |"
+        },
+        {
+          "id": "R07-resistance-dry-unplanted",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 45% against Lament pressure, 35% against every other kind |",
+          "new": "| **Resistance** | 45% against Lament pressure, 35% against every other kind. Resistance is not permission for contact: keep the shell dry and unplanted, tears and growth medium absent, panels timed before visual inspection, and any hypothetical form recorded as hypothetical. |"
+        },
+        {
+          "id": "R08-resolution-dry-negative-finding",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | The worker states aloud what the inquiry looked for and failed to find, and the Sorrow Gauge falls below 25% |",
+          "new": "| **Resolution Condition** | Lift the Seed clear of every rootable medium, restore dry unplanted containment without supplying a desired form, state aloud what the inquiry looked for and failed to find, and lower the Sorrow Gauge below 25%. |"
+        },
+        {
+          "id": "R09-hollow-shell-contact-breach",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Hollow Shell* [**Debuff**] } | \"The seed is caved in — hollow — and the echo of what it could have been aches.\" | [The Seed's collapsed shell resonates with the target's own failed potential.] | *Target suffers -10 Composure; they feel every unlived possibility.* **[10 Lament DMG [Lament]]** | When the target holds the Seed. |",
+          "new": "| { *The Hollow Shell* [**Debuff**] } | \"The seed is caved in — hollow — and the echo of what it could have been aches.\" | [A prohibited contact lets the collapsed shell resonate with the worker's own failed potential.] | *The worker suffers Clarity pressure. End contact at once, lift the contacted panel clear, and record the breach without naming an intended form.* **[10 Lament DMG [Lament]]** | When a worker breaches the contact prohibition and handles the shell or attached root material. |"
+        },
+        {
+          "id": "R10-withered-core-form-narration",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Withered Core* [**Debuff**] } | \"Inside the collapsed shell, the core is dry and dead — and it is worse than empty.\" | [The Seed's dead interior emanates grief for what never grew.] | *Target loses 10 Composure; the dead potential is contagious.* **[10 Lament DMG [Lament]]** | When the target lingers. |",
+          "new": "| { *The Withered Core* [**Debuff**] } | \"Inside the collapsed shell, the core is dry and dead — and it is worse than empty.\" | [The worker remains at the gallery to narrate what the unknown life would have become, and the invented form takes hold.] | *The worker loses Clarity. A partner stops the narration, verifies name/body/current intention, and records only that narration occurred—not its content.* **[10 Lament DMG [Lament]]** | When a worker lingers to assign or describe the Seed's intended form. |"
+        },
+        {
+          "id": "R11-shell-shard-force-drives-roots",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Shell Shard* [**Attack**] } | \"A piece of the collapsed shell breaks free — dry, sharp, and carrying the bitterness of failure.\" | [A shard of collapsed seed-husk launches.] | *Inflicts Lament pressure and one small, bitter wound.* **[14-22 Lament DMG [Lament]]** | When the Seed is squeezed. |",
+          "new": "| { *The Shell Shard* [**Attack**] } | \"A piece of the collapsed shell breaks free — dry, sharp, and carrying the bitterness of failure.\" | [Force at the shell drives roots outward and accelerates the partial pressure at the split; no shard is treated as a safe projectile or sample.] | *Inflicts Lament pressure along the root path. Stop all force, do not strike the source shell, lift affected panels clear, and separate only roots already detached from the shell.* **[14-22 Lament DMG [Lament]]** | When the shell is struck, squeezed, pruned or otherwise forced. |"
+        },
+        {
+          "id": "R12-full-implosion-additional-crushing",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Implosion* [**Attack**] } | \"The collapse finishes, and every wall of the shell comes inward in the same breath.\" | [The Seed completely falls apart and lets out the grief it was holding.] | *A heavy Deep Blue implosion; the meter climbs 15%.* **[24-36 Lament DMG [Lament]]** | On crushing the Seed. |",
+          "new": "| { *The Full Implosion* [**Attack**] } | \"The split draws inward — and the unknown pressure answers by trying harder to get out.\" | [Additional crushing begins a catastrophic partial-manifestation surge; the shell is not safely destroyed or emptied.] | *Heavy Lament pressure; no meter percentage is inferred. Remove the Seed from every growth medium, restore dry unplanted containment, and do not supply soil, sorrow-water or a desired form.* **[24-36 Lament DMG [Lament]]** | When additional crushing force is applied to the source shell. |"
+        },
+        {
+          "id": "R13-failed-harvest-planted-at-90",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Failed Harvest* [**Ultimate**] } | \"The whole field of seeds goes down at once, every one of them over before it started.\" | [The Seed carries its failure out across the whole area.] | *Everyone in range takes Lament pressure for three turns where nothing came up.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the gauge passes 65%. |",
+          "new": "| { *The Failed Harvest* [**Ultimate**] } | \"Nothing in the chamber finishes becoming — and everything nearby is asked to carry the stopping point.\" | [A planted or sorrow-watered Seed projects its arrested partial manifestation across the chamber.] | *Everyone in range takes Lament pressure for three turns. Lift the Seed clear, remove every growth medium, keep tears off the shell, and record all seen forms as hypothetical.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90% while the Seed is planted, sorrow-watered or in contact with growth medium. |"
+        },
+        {
+          "id": "R14-battle-resolution-dry-unplanted",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** The session closes on a second timed pulse and the documented condition: **the worker states, aloud and on the record, what the inquiry into this entity looked for and failed to find.** The naming is the management act. Two inquiries have been mounted and both failed; the holding's position is that the failure must be spoken in the room rather than filed and forgotten, and that a worker who cannot say what was not found should not be working the chamber.",
+          "new": "3. **Resolution:** The session closes on a second timed pulse, dry unplanted containment, and the documented condition: **the worker states, aloud and on the record, what the inquiry into this entity looked for and failed to find.** No desired form is offered in its place. Two inquiries failed; the negative finding must be spoken in the room rather than filed and forgotten, and a worker who cannot say what was not found should not be working the chamber."
+        },
+        {
+          "id": "R15-breach-movement-no-charge",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "| **Movement** | Collapsed Seed breaks loose and charges, thrashing. It plants itself in personnel, growing within. |",
+          "new": "| **Movement** | It hauls itself at the recorded root-limb rate toward rootable surfaces. Roots may reach personnel in its path and attempt internal planting; it does not charge or pursue as a hunting creature. |"
+        },
+        {
+          "id": "R16-use-notes-no-germination",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "All three pieces are δ-grade, all three are held in the panel store rather than the armoury proper, and none of the three has ever been taken past the containment line. They share one property that the ledger records and does not explain: each of them acts on things the user did not finish. The dagger shows them finished, the shroud removes the wish to start anything, and the core-stone grows a shelter out of the user's remaining sense of what is still possible. The wing's note is that this is the most coherent M.A.W. set it holds and the least useful in the field.",
+          "new": "All three pieces are δ-grade, all three are held in the panel store rather than the armoury proper, and none of the three has ever been taken past the containment line. They share one property that the ledger records and does not explain: each of them acts on things the user did not finish. The dagger shows them finished, the shroud removes the wish to start anything, and the core-stone grows a shelter out of the user's remaining sense of what is still possible. The wing's note is that this is the most coherent M.A.W. set it holds and the least useful in the field.\n\n**Set resonance — No Germination Required:** The Core may grow only around the bearer, the Shroud separates that growth from identity, and the Requiem targets only roots already detached from the source shell. Together they can hold a partial-manifestation surge without planting Unsprouted Life or declaring its intended form. Future memories feed the barrier; supplying soil, sorrow-water or a desired form turns protection into germination and makes the team the growth medium. Correct use slows the shell’s pressure without opening it further."
+        },
+        {
+          "id": "R17-operational-no-pruning",
+          "kind": "careful operational correction",
+          "careful": true,
+          "old": "- The shoots are wet and continue to erupt from the split regardless of pruning. Chamber drainage is cleared every cycle because the blue sap sets hard.",
+          "new": "- The shoots are wet and continue to erupt from the split. They are not pruned: the contact prohibition covers tools, instruments and protective equipment, and chamber drainage is cleared every cycle because the blue sap sets hard."
+        },
+        {
+          "id": "R18-breach-type-no-charge",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "- **Breach type:** Escape. It charges, it thrashes, and it plants itself in personnel and grows there, which is the only recorded instance in the wing of an entity using a worker as a medium rather than a target.",
+          "new": "- **Breach type:** Escape. It hauls itself toward rootable surfaces at the recorded rate and may plant itself in personnel it reaches, which is the only recorded instance in the wing of an entity using a worker as a medium rather than a target."
+        },
+        {
+          "id": "R19-flavor-unknown-shape",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "The Seed lies split open like a heart pressed into the ground. Blue tears run from the crack, and something inside pushes once, then becomes still. You feel the sorrow of a future that had a shape but never received a life.",
+          "new": "The Seed rests split open like a heart against the panel. Blue tears run from the crack, and something inside pushes once, then becomes still. You feel the sorrow of a future approaching a shape no record can name, interrupted before it received a life."
+        },
+        {
+          "id": "R20-recognition-no-pruning",
+          "kind": "careful recognition correction",
+          "careful": true,
+          "old": "- **Recognition detail:** Identify it by the pulse and the panels, not by the shape. The shell is dark crystal, split, leaking blue sap, and wrapped in thick wet shoots that keep erupting through the split regardless of pruning; descriptions of it vary with how much of the shoot mass is visible that week, which is why the holding identifies on a timed rate instead.",
+          "new": "- **Recognition detail:** Identify it by the pulse and the panels, not by the shape. The shell is dark crystal, split, leaking blue sap, and wrapped in thick wet shoots that keep erupting through the split without being pruned; descriptions of it vary with how much of the shoot mass is visible that week, which is why the holding identifies on a timed rate instead."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.031  clean   874 grams  M.A.W. Equipment\n 0.005  clean   730 grams  Combat Record\n 0.005  clean   184 grams  Behavior\n 0.000  clean   976 grams  이야기 보고 (Story Log)\n 0.000  clean   689 grams  Apex Record\n 0.000  clean   688 grams  감각 묘사 (Flavor Text)\n 0.000  clean   586 grams  Activation Behavior\n 0.000  clean   386 grams  기록 (Registrum)\n 0.000  clean   327 grams  이야기 (Narratio)\n 0.000  clean   318 grams  Trivia\n 0.000  clean   317 grams  Appearance\n 0.000  clean   275 grams  관찰 기록 (Observation Log)\n 0.000  clean   263 grams  Origin\n 0.000  clean   206 grams  Breach Behavior\n 0.000  clean   141 grams  Operational Parameters\n 0.000  clean   124 grams  최종 관찰 (Final Observation)\n 0.000  clean    60 grams  증언 (Testimonium)\n 0.000  clean    31 grams  SECC Classification\n 0.000  clean    28 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   85   4  | { *The Failed Harvest* [**Ultimate**] } | \"Nothing in the chamber finishes becoming — and everything nearby is asked to carry th\n  148   1  **Reading the response:** A falling gauge means the worker waited without forcing anything, which is the whole of what Ferrehan as\n  247   1  **Appearance:** a wrapping shroud of Lament Han-silk, cold to the touch and faintly luminous, holding a thin trace of where it cam\n  294  26  **Full-set source review (2026-10-12):** Reviewed the `— · δ` grade overview, all three local M.A.W. blocks, Use Notes, Field Use \nGENERIC 0.004  (32 shared shingles)  SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-A__SIDE_CODEX_Unsprouted_Life.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-B__MAW-W_Unsprouted_Life_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-C__MAW-S_Unsprouted_Life_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-D__MAW-G_Unsprouted_Life_Core.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-A__SIDE_CODEX_Unsprouted_Life.md": "d6b261e2eef60005e0d80aaa9275c1019c875da86de785faa4deb1c5c7701691",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-B__MAW-W_Unsprouted_Life_Requiem.md": "022223ecbf8185b9f56ed74b080154766c258980b54acdf00f550116f239c721",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-C__MAW-S_Unsprouted_Life_Shroud.md": "3fc302080c75ada0e5c1ae5b9c5a73d674cd761c706b4b3bbf741225cb0de5da",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-D__MAW-G_Unsprouted_Life_Core.md": "43206a869b798ed1c542542ff12a4f09ac2f617bbcb69497cbbe36c25d1897dc"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-315_Collapsed_Seed_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%94%A8%EC%95%97.md \"SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md\")]",
+      "table_link": "[[N-IVδ-315 Collapsed Seed](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-315_Collapsed_Seed_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%94%A8%EC%95%97.md \"SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 490 lines / 9,181 words, complete direct SE-315-A/B/C/D, Registry rows 599–602, Batch 97 equipment history and dated full-set source review in the primary. All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 5,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Removed the invented Full Implosion 15% meter climb; the Ultimate now uses the existing 90% threshold plus planting/sorrow-water/growth-medium contact."
       }
     }
   ]
