@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-Iα-518 [D]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct line of sight into the pane. there is no equipping and no handling; looking is the whole mechanism |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct line of sight into the pane. There is no equipping and no handling; looking is the whole mechanism |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
@@ -27,14 +27,14 @@
 |---|---|
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Mental / emotional pressure |
+| **Primary pressure** | Clarity — the viewer's hold on their own task, location and present life |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful work cycle, read off the tunnel watch rather than the pane |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α — Prism, Shroud and Shard all graded |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
+| **Vessel-Destructible** | No — fixed in tunnel masonry; never broken and no destruction is authorized or tested |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Ferrehan with a timekeeper and a named relief. Viderehan is permitted and achieves nothing; the entity is unmoved by being looked at, which is the whole of its nature. |
 
 ### Operational Notes
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Lament pressure and 5% against other types — a pane with no defence but the attention it can hold |
+| **Resistance** | 15% against Lament pressure and 5% against other types as a formal rating; there is nothing to strike and confrontation is invalid. Working protection is the timed watch: a timekeeper who does not look, a named relief instructed to step into the line of sight, and no second consecutive cycle. Drain is measured in hold duration — minutes at the pane — not in pressure per turn. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 204/204 |
 | **Han Pressure [ATK]** | 3–9 per hit · Lament |
@@ -72,17 +72,17 @@
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, deep tunnels |
-| **Resolution Condition** | A worker holds the view for a full cycle and then walks away on their own timing, neither climbing toward it nor being called. Nothing else has ever lowered the gauge here. |
+| **Resolution Condition** | End the gaze voluntarily, name current life and location, report the scene in the viewer's own words, and bring the Gauge below 25%. A relief briefed to interrupt is part of the measure, not a failure of it. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Running Pane* [**Debuff**] } | "The window is running with water — not rain, not condensation, but old tears — and the view through it is distorted by grief." | [The Window's sorrow-water distorts the target's perception; they see the world through someone's tears.] | *Target suffers -10 Composure; their vision is grief-colored.* **[10 Lament DMG [Lament]]** | When the target looks through the Window. |
-| { *The Rising Damp* [**Debuff**] } | "The water climbs the frame — seeping into the walls — and wherever it reaches, the structure weeps." | [The Window's moisture spreads; the target is surrounded by weeping walls.] | *Target loses 10 Composure; everything is soaked in sorrow.* **[10 Lament DMG [Lament]]** | When the target remains near. |
-| { *The Cold Pane* [**Attack**] } | "The wet window slams — and the impact sprays sorrow-water across the target." | [A window-slam with a splash of accumulated grief.] | *Inflicts Lament pressure and one wound of cold, wet impact.* **[14-22 Lament DMG [Lament]]** | When the Window is forced. |
-| { *The Full Deluge* [**Attack**] } | "The window gives way — and every tear it ever held pours through the frame." | [The pane lets go all at once and the water it has been holding since the galleries were cut comes through the frame.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Window is broken. |
-| { *The Weeping Building* [**Ultimate**] } | "Every window in the field runs with tears — and the combined weeping drowns every view." | [Every pane along the deep tunnels starts running at the same hour, and the weeping carries down the galleries.] | *All in range suffer Lament pressure for three turns of weeping windows.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Running Pane* [**Debuff**] } | "The window is running with water — not rain, not condensation, but old tears — and the view through it is distorted by grief." | [Direct gaze begins the display: an unfamiliar life continuing without the viewer, behind rain that never reaches the tunnel side.] | *The viewer loses Clarity; the scene is grief-colored from the first look. The timekeeper writes the first-look time before anything else is recorded.* **[10 Lament DMG [Lament]]** | When a worker looks directly into the pane. |
+| { *The Rising Damp* [**Debuff**] } | "The water climbs the frame — seeping into the walls — and wherever it reaches, the structure weeps." | [Nothing spreads through the tunnel. The hold deepens in the one place the file measures: the viewer has stopped hearing the room they are standing in.] | *The viewer loses Clarity. The relief steps into the line of sight — no touching the viewer and no covering the glass — and the moment speech stopped landing is entered in the log.* **[10 Lament DMG [Lament]]** | When the viewer stops responding to the timekeeper's speech while still facing the pane. |
+| { *The Cold Pane* [**Attack**] } | "The view is taken away mid-scene — and every minute of it lands at once." | [The pane cannot slam; it has no hinge. What lands is the forced ending itself, recorded by the viewer as something done to them.] | *Heavy Lament pressure on Clarity. Re-brief the relief: interrupt by line of sight only, then take the scene in the viewer's own words before they leave the tunnel.* **[14-22 Lament DMG [Lament]]** | When a viewer is pulled away or touched, or the glass is covered, instead of the line of sight being interrupted. |
+| { *The Full Deluge* [**Attack**] } | "The shift ended around him — and every hour he did not spend arrives at once." | [The pane has never broken and holds no water on the tunnel side. What pours through is accumulated duration: a worker still facing the glass with their task behind them.] | *A heavy Lament flood through Clarity, with no account of the hours between. Recovery is measured by whether the worker resumes initiating tasks, and the roster — not the pane — is examined first.* **[24-36 Lament DMG [Lament]]** | When a viewer is found still at the pane past the end of their shift, unanswered on the roster check. |
+| { *The Weeping Building* [**Ultimate**] } | "Every face in the gallery is turned the same way — and nobody is working." | [No other window weeps; the gallery itself becomes an audience, every worker present watching and none of them keeping time.] | *All present suffer Lament pressure for three turns. An outside relief steps into lines of sight one viewer at a time and checks the shift board before the tunnel is re-entered.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥45% activation threshold with every worker present watching and no timekeeper outside the view. |
 
 ### Battle Phases
 
@@ -92,9 +92,9 @@
 
 ### Consequences
 
-- A failed resistance costs twice: the worker takes raw sorrow pressure that breaks their **Clarity**, and the Window feeds on the destabilization, using it to push the Sorrow Gauge up rather than merely holding it.
+- A failed resistance costs twice: the worker takes raw sorrow pressure that breaks their **Clarity**, and the Gauge rises because the party has stopped working and become an audience — the pane does nothing at all, which is the mechanism.
 - Duration is the entire hazard. Nothing about a short exposure is harmful and nothing about a long one looks harmful from outside; the worker is simply standing still, apparently attentive, and the longer they stand the less of a reason they can find to stop.
-- Every piece cut from this Window extends the wearer's sight and gives them nothing to do with it. The prism shows a chamber in shifting colour, the shroud keeps its wearer composed, the shard reveals grief happening somewhere else. All three are instruments of watching, and the toll each one takes is the growing sense that watching is sufficient.
+- Every piece drawn from this Window extends the wearer's sight and gives them nothing to do with it, but the tolls are not the same toll shared three ways: the prism stops its wielder mid-task, the shroud holds everything at one remove, and the shard makes its bearer feel the sorrow of every view. The Shard is given, not cut.
 - An unresolved encounter does not escalate; it continues. The Window keeps showing, the worker keeps looking, and the shift ends around them. Recovery from a long exposure is slow and is measured by whether the worker resumes initiating tasks rather than waiting to be assigned them.
 
 ## Appearance
@@ -129,7 +129,7 @@ Object-Weight names the form of watching without entering; Lament is the recorde
 
 Direct gaze begins the unfamiliar-life display; looking away ends that viewing. The window remains seated in the masonry, warm and damp, while movement belongs to the rain, the displayed life and the viewer's neglected shift. Memory Rain can obscure the scene and Sleeping Weight changes what is shown, without either pairing documenting a moving frame or a passage into the displayed room. The portable Shard and rotating Prism are equipment records, not proof that this source pane detaches, rotates or equips itself to a bearer.
 
-The rest of the physical record is not reconciled by that display distinction. The combat table describes a slamming window, a broken pane releasing water, and weeping through other windows, while the observation and Record describe no opening mechanism, no liquid rain on the tunnel side and no injury. The Log and Method retains contact, equipping, wear and forced detachment, against the gaze-only activation account. No alternate hinged body, portable scale, transformed flood-state or safe wearable source is established. The Keeper's erased-records origin in the Story Log also remains a separate account from the long-serving worker in the Origin and Tale; neither is silently made a stage of the other.
+The rest of the physical record is not reconciled by that display distinction. Legacy combat imagery on this file once described a slamming window, a broken pane releasing water, and weeping through other windows; none of those has a witnessed occurrence, and the combat table now records only the harms the gallery actually logs — gaze, deepening hold, forced retrieval, the past-shift finding, and the audience state. The Log and Method still retains contact, equipping, wear and forced detachment, against the gaze-only activation account. No alternate hinged body, portable scale, transformed flood-state or safe wearable source is established. The Keeper's erased-records origin in the Story Log also remains a separate account from the long-serving worker in the Origin and Tale; neither is silently made a stage of the other.
 
 ## Origin
 - **Formation:** From a post nobody ever left and nobody was ever moved out of.
@@ -190,11 +190,11 @@ Work Type data is one input among many, and the code and the coherence level dec
 | 10 Seconds | Life Behind Glass rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Life Behind Glass activates its primary resonance: Shows a memory of a life beyond the tunnel. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the weight of observing life from a distance and never entering it; the bearer begins perceiving echoes of a tunnel worker watched the city through a small window but never left the depths; the view became an object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The pane's toll starts to draw: the bearer's breathing falls into step with the grief the glass was cut from, and the gallery gets quieter than the shift explains. | Past 60 seconds the use deals 5 Lament damage every 15 seconds, and the operative is watched for sudden cognitive detachment. |
-| 2 Minutes | To wear Life Behind Glass too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The viewer may become unable to return to present work. |
+| 2 Minutes | To wear Life Behind Glass too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer may become unable to return to present work. |
 
 ### Escalation Notes
 
-What climbs here is particular to this pane and to no other holding in the file. The watch enters the first trigger, the first visible change in the Object-Weight form, the distance at which the effect starts, and the boundary where the resonance steadies. Because the holding is Lament and its ground is the deep tunnels of Zone B, what the crew reports feeling is written beside the telemetry rather than beneath it.
+What climbs here is particular to this pane and to no other holding in the file. The form does not visibly change, so the watch enters the first look, who is at the pane, how long they have been there, and the moment they stop responding to speech. Because the holding is Lament and its ground is the deep tunnels of Zone B, what the crew reports feeling is written beside the telemetry rather than beneath it.
 
 **Response sequence:** There is nothing to cordon. Count heads, identify who is at the pane, and record how long they have been there before you speak to them. Retrieve by stepping into their line of sight rather than by touching them or by covering the glass — a worker who is pulled away reports the loss as something done to them, and the entity keeps that. Then check the shift board, because this Window is most active during long shifts and the real finding is usually in the roster rather than in the tunnel.
 
@@ -273,16 +273,16 @@ Light passing through the rotating colored panes casts shifting kaleidoscopic mo
 
 ### M.A.W. Use Notes
 
-Nothing in this kit arms anybody against the pane; each piece carries the watching further, which is what the bonus is. Inside the recorded pattern it pays, and outside it the price arrives early and does not reverse on the walk back: the bearer stops moving, and operatives have been brought out of a gallery mid-engagement, watching their own prism turn, uninjured, with nothing to say about the missing minutes except that the colours had not finished.
+Nothing in this kit arms anybody against the pane; each piece carries the watching further, which is what the bonus is. Inside the recorded pattern it pays, and outside it the price arrives early and does not reverse on the walk back — but log it per piece: the prism's wielder stops moving and watches it turn, the shroud's wearer stays composed at one remove, and the shard's bearer feels every viewed sorrow. Pooling the three into one stillness hides which limit has actually been reached.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check against the pane's known toll — the bearer stopping where they stand. The pre-check names the relief, the call word, and the hour the watch is due to end. |
-| **During use** | Watch for the toll itself: the bearer stops moving, mid-task, with no account of the minutes between. The relief enters the hour it is first seen, never the hour it is first mentioned. |
-| **At limit** | The shroud keeps its bearer composed by holding everything at arm's length, and it does not sort sorrow from anything else — the limit is called there, with no remission on the sheet. On a piece out of this Window the use ends at the call, whatever the bearer says. |
-| **After use** | Take the piece back and walk the baseline yourself: does the bearer still feel things at their own distance, and can they say what moved them this week? Where the composure has outlasted the rotation, the piece stays in stores and that bearer is not issued from the tunnel post again. |
+| **Before use** | Wielder, piece, gauge, and one pre-check against that piece's known toll. The pre-check names the relief, the call word, and the hour the watch is due to end. |
+| **During use** | Watch for the piece's own toll: prism stillness mid-task, shroud composure at one remove, or the shard-bearer reporting sorrow that is not theirs. The relief enters the hour it is first seen, never the hour it is first mentioned. |
+| **At limit** | Call the limit on the piece in use: the prism when its wielder cannot account for the minutes, the shroud when it no longer sorts sorrow from anything else, the shard when a viewed sorrow is being carried as the bearer's own. The use ends at the call, whatever the bearer says. |
+| **After use** | Take the piece back and walk the baseline yourself: does the bearer still feel things at their own distance, and can they say what moved them this week? Where the piece's toll has outlasted the rotation, it stays in stores and that bearer is not issued from the tunnel post again. |
 
 **Stat interpretation:** These are α-grade numbers and they are honest ones — three to six damage, fifteen Echoes, no hidden performance. What the grades cannot express is that the entire set improves what its bearer can perceive and improves nothing about what they can reach. Read the Cost lines as the specification and the damage figures as a footnote.
 

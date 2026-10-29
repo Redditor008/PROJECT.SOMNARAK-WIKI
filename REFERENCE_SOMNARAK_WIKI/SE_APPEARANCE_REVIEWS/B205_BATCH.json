@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 205,
   "status": "OPEN",
-  "completed_units": 2,
+  "completed_units": 3,
   "required_units": 5,
   "queue": [
     {
@@ -52,7 +52,7 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 2,
+  "completed": 3,
   "units": [
     {
       "unit": 1,
@@ -542,6 +542,236 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 4,
         "digit_sequence_change": "Unsupported 15% Gauge surge removed; Ultimate anecdotal above-65% trigger replaced by the file's ≥60% activation threshold during reallocations."
+      }
+    },
+    {
+      "unit": 3,
+      "designation": "N-Iα-518",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md",
+      "words": 8458,
+      "sha256": "8612840b0c64042e6665619162e550671cbccbc5b621fbd8808cf095098486b5",
+      "prior_batch": 148,
+      "shape": "I-Relic",
+      "name": "Life Behind Glass",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_03_LIFE_BEHIND_GLASS.md",
+      "before_words": 8458,
+      "after_words": 8760,
+      "base": "f19b89103dd9320410fb98e296273cd1c4606f43",
+      "final_sha256": "828e37d725ee435d4bc49832f28f7c58911f256c4d51bda4ad1ac67a4ce3c9d0",
+      "summary": "HELD +0 — 20 repairs take the hinges and floodwater off a pane that only ever harmed people by being looked at.",
+      "commentary": "The window works best when nothing dangerous visibly happens and the worker simply never returns to their task; the combat table finally says so.",
+      "reasoning": "The I-Relic mechanism is line of sight and nothing else, so every combat row now begins from a gaze event the gallery can time: first look, speech no longer landing, forced retrieval, past-shift finding, whole-gallery audience.\n\nB148 left the water attacks \"unresolved\" under a narrow scope; under R-34 they are not certifiable events, so the rows record the duration harms while the slam/flood imagery is kept only as explicitly unwitnessed legacy.\n\nThe wear-based Log and Method is still not bridged to gaze-only activation; it remains a held legacy table, which is why the file stays HELD.",
+      "history": "Batch 99 already credited the exact SE-518 set review; this R-34 recheck claims no fresh credit. HELD +0.",
+      "holds": [
+        "Wear/equip/detachment log versus gaze-only source. Held.",
+        "Prism tesseract versus Glass Requiem window-blade and Soaking Window names. Held.",
+        "Worker versus Keeper-erasure origins. Held."
+      ],
+      "split": [
+        7,
+        13
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-clarity",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — the viewer's hold on their own task, location and present life |"
+        },
+        {
+          "id": "R02-vessel-not-destructible",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |\n| **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |",
+          "new": "| **Vessel-Destructible** | No — fixed in tunnel masonry; never broken and no destruction is authorized or tested |\n| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R03-secc-capitalization",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct line of sight into the pane. there is no equipping and no handling; looking is the whole mechanism |",
+          "new": "| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct line of sight into the pane. There is no equipping and no handling; looking is the whole mechanism |"
+        },
+        {
+          "id": "R04-wearlog-splice",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "| 2 Minutes | To wear Life Behind Glass too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The viewer may become unable to return to present work. |",
+          "new": "| 2 Minutes | To wear Life Behind Glass too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer may become unable to return to present work. |"
+        },
+        {
+          "id": "R05-escalation-first-change",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "What climbs here is particular to this pane and to no other holding in the file. The watch enters the first trigger, the first visible change in the Object-Weight form, the distance at which the effect starts, and the boundary where the resonance steadies.",
+          "new": "What climbs here is particular to this pane and to no other holding in the file. The form does not visibly change, so the watch enters the first look, who is at the pane, how long they have been there, and the moment they stop responding to speech."
+        },
+        {
+          "id": "R06-resolution-condition-source",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | A worker holds the view for a full cycle and then walks away on their own timing, neither climbing toward it nor being called. Nothing else has ever lowered the gauge here. |",
+          "new": "| **Resolution Condition** | End the gaze voluntarily, name current life and location, report the scene in the viewer's own words, and bring the Gauge below 25%. A relief briefed to interrupt is part of the measure, not a failure of it. |"
+        },
+        {
+          "id": "R07-resistance-timekeeper",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 15% against Lament pressure and 5% against other types — a pane with no defence but the attention it can hold |",
+          "new": "| **Resistance** | 15% against Lament pressure and 5% against other types as a formal rating; there is nothing to strike and confrontation is invalid. Working protection is the timed watch: a timekeeper who does not look, a named relief instructed to step into the line of sight, and no second consecutive cycle. Drain is measured in hold duration — minutes at the pane — not in pressure per turn. |"
+        },
+        {
+          "id": "R08-running-pane-clarity",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Running Pane* [**Debuff**] } | \"The window is running with water — not rain, not condensation, but old tears — and the view through it is distorted by grief.\" | [The Window's sorrow-water distorts the target's perception; they see the world through someone's tears.] | *Target suffers -10 Composure; their vision is grief-colored.* **[10 Lament DMG [Lament]]** | When the target looks through the Window. |",
+          "new": "| { *The Running Pane* [**Debuff**] } | \"The window is running with water — not rain, not condensation, but old tears — and the view through it is distorted by grief.\" | [Direct gaze begins the display: an unfamiliar life continuing without the viewer, behind rain that never reaches the tunnel side.] | *The viewer loses Clarity; the scene is grief-colored from the first look. The timekeeper writes the first-look time before anything else is recorded.* **[10 Lament DMG [Lament]]** | When a worker looks directly into the pane. |"
+        },
+        {
+          "id": "R09-rising-damp-unresponsive",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Rising Damp* [**Debuff**] } | \"The water climbs the frame — seeping into the walls — and wherever it reaches, the structure weeps.\" | [The Window's moisture spreads; the target is surrounded by weeping walls.] | *Target loses 10 Composure; everything is soaked in sorrow.* **[10 Lament DMG [Lament]]** | When the target remains near. |",
+          "new": "| { *The Rising Damp* [**Debuff**] } | \"The water climbs the frame — seeping into the walls — and wherever it reaches, the structure weeps.\" | [Nothing spreads through the tunnel. The hold deepens in the one place the file measures: the viewer has stopped hearing the room they are standing in.] | *The viewer loses Clarity. The relief steps into the line of sight — no touching the viewer and no covering the glass — and the moment speech stopped landing is entered in the log.* **[10 Lament DMG [Lament]]** | When the viewer stops responding to the timekeeper's speech while still facing the pane. |"
+        },
+        {
+          "id": "R10-cold-pane-forced-retrieval",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Cold Pane* [**Attack**] } | \"The wet window slams — and the impact sprays sorrow-water across the target.\" | [A window-slam with a splash of accumulated grief.] | *Inflicts Lament pressure and one wound of cold, wet impact.* **[14-22 Lament DMG [Lament]]** | When the Window is forced. |",
+          "new": "| { *The Cold Pane* [**Attack**] } | \"The view is taken away mid-scene — and every minute of it lands at once.\" | [The pane cannot slam; it has no hinge. What lands is the forced ending itself, recorded by the viewer as something done to them.] | *Heavy Lament pressure on Clarity. Re-brief the relief: interrupt by line of sight only, then take the scene in the viewer's own words before they leave the tunnel.* **[14-22 Lament DMG [Lament]]** | When a viewer is pulled away or touched, or the glass is covered, instead of the line of sight being interrupted. |"
+        },
+        {
+          "id": "R11-deluge-past-shift",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Deluge* [**Attack**] } | \"The window gives way — and every tear it ever held pours through the frame.\" | [The pane lets go all at once and the water it has been holding since the galleries were cut comes through the frame.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Window is broken. |",
+          "new": "| { *The Full Deluge* [**Attack**] } | \"The shift ended around him — and every hour he did not spend arrives at once.\" | [The pane has never broken and holds no water on the tunnel side. What pours through is accumulated duration: a worker still facing the glass with their task behind them.] | *A heavy Lament flood through Clarity, with no account of the hours between. Recovery is measured by whether the worker resumes initiating tasks, and the roster — not the pane — is examined first.* **[24-36 Lament DMG [Lament]]** | When a viewer is found still at the pane past the end of their shift, unanswered on the roster check. |"
+        },
+        {
+          "id": "R12-weeping-audience-threshold",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Weeping Building* [**Ultimate**] } | \"Every window in the field runs with tears — and the combined weeping drowns every view.\" | [Every pane along the deep tunnels starts running at the same hour, and the weeping carries down the galleries.] | *All in range suffer Lament pressure for three turns of weeping windows.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Weeping Building* [**Ultimate**] } | \"Every face in the gallery is turned the same way — and nobody is working.\" | [No other window weeps; the gallery itself becomes an audience, every worker present watching and none of them keeping time.] | *All present suffer Lament pressure for three turns. An outside relief steps into lines of sight one viewer at a time and checks the shift board before the tunnel is re-entered.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥45% activation threshold with every worker present watching and no timekeeper outside the view. |"
+        },
+        {
+          "id": "R13-consequences-no-feeding",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- A failed resistance costs twice: the worker takes raw sorrow pressure that breaks their **Clarity**, and the Window feeds on the destabilization, using it to push the Sorrow Gauge up rather than merely holding it.",
+          "new": "- A failed resistance costs twice: the worker takes raw sorrow pressure that breaks their **Clarity**, and the Gauge rises because the party has stopped working and become an audience — the pane does nothing at all, which is the mechanism."
+        },
+        {
+          "id": "R14-consequences-distinct-tolls",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- Every piece cut from this Window extends the wearer's sight and gives them nothing to do with it. The prism shows a chamber in shifting colour, the shroud keeps its wearer composed, the shard reveals grief happening somewhere else. All three are instruments of watching, and the toll each one takes is the growing sense that watching is sufficient.",
+          "new": "- Every piece drawn from this Window extends the wearer's sight and gives them nothing to do with it, but the tolls are not the same toll shared three ways: the prism stops its wielder mid-task, the shroud holds everything at one remove, and the shard makes its bearer feel the sorrow of every view. The Shard is given, not cut."
+        },
+        {
+          "id": "R15-use-notes-distinct",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Nothing in this kit arms anybody against the pane; each piece carries the watching further, which is what the bonus is. Inside the recorded pattern it pays, and outside it the price arrives early and does not reverse on the walk back: the bearer stops moving, and operatives have been brought out of a gallery mid-engagement, watching their own prism turn, uninjured, with nothing to say about the missing minutes except that the colours had not finished.",
+          "new": "Nothing in this kit arms anybody against the pane; each piece carries the watching further, which is what the bonus is. Inside the recorded pattern it pays, and outside it the price arrives early and does not reverse on the walk back — but log it per piece: the prism's wielder stops moving and watches it turn, the shroud's wearer stays composed at one remove, and the shard's bearer feels every viewed sorrow. Pooling the three into one stillness hides which limit has actually been reached."
+        },
+        {
+          "id": "R16-field-during-per-piece",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "| **During use** | Watch for the toll itself: the bearer stops moving, mid-task, with no account of the minutes between. The relief enters the hour it is first seen, never the hour it is first mentioned. |",
+          "new": "| **During use** | Watch for the piece's own toll: prism stillness mid-task, shroud composure at one remove, or the shard-bearer reporting sorrow that is not theirs. The relief enters the hour it is first seen, never the hour it is first mentioned. |"
+        },
+        {
+          "id": "R17-field-atlimit-per-piece",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "| **At limit** | The shroud keeps its bearer composed by holding everything at arm's length, and it does not sort sorrow from anything else — the limit is called there, with no remission on the sheet. On a piece out of this Window the use ends at the call, whatever the bearer says. |",
+          "new": "| **At limit** | Call the limit on the piece in use: the prism when its wielder cannot account for the minutes, the shroud when it no longer sorts sorrow from anything else, the shard when a viewed sorrow is being carried as the bearer's own. The use ends at the call, whatever the bearer says. |"
+        },
+        {
+          "id": "R18-form-record-repaired-table",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "The rest of the physical record is not reconciled by that display distinction. The combat table describes a slamming window, a broken pane releasing water, and weeping through other windows, while the observation and Record describe no opening mechanism, no liquid rain on the tunnel side and no injury. The Log and Method retains contact, equipping, wear and forced detachment, against the gaze-only activation account. No alternate hinged body, portable scale, transformed flood-state or safe wearable source is established. The Keeper's erased-records origin in the Story Log also remains a separate account from the long-serving worker in the Origin and Tale; neither is silently made a stage of the other.",
+          "new": "The rest of the physical record is not reconciled by that display distinction. Legacy combat imagery on this file once described a slamming window, a broken pane releasing water, and weeping through other windows; none of those has a witnessed occurrence, and the combat table now records only the harms the gallery actually logs — gaze, deepening hold, forced retrieval, the past-shift finding, and the audience state. The Log and Method still retains contact, equipping, wear and forced detachment, against the gaze-only activation account. No alternate hinged body, portable scale, transformed flood-state or safe wearable source is established. The Keeper's erased-records origin in the Story Log also remains a separate account from the long-serving worker in the Origin and Tale; neither is silently made a stage of the other."
+        },
+        {
+          "id": "R19-beforeuse-piece-toll",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "| **Before use** | Wielder, piece, gauge, and one pre-check against the pane's known toll — the bearer stopping where they stand. The pre-check names the relief, the call word, and the hour the watch is due to end. |",
+          "new": "| **Before use** | Wielder, piece, gauge, and one pre-check against that piece's known toll. The pre-check names the relief, the call word, and the hour the watch is due to end. |"
+        },
+        {
+          "id": "R20-afteruse-toll-not-composure",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "| **After use** | Take the piece back and walk the baseline yourself: does the bearer still feel things at their own distance, and can they say what moved them this week? Where the composure has outlasted the rotation, the piece stays in stores and that bearer is not issued from the tunnel post again. |",
+          "new": "| **After use** | Take the piece back and walk the baseline yourself: does the bearer still feel things at their own distance, and can they say what moved them this week? Where the piece's toll has outlasted the rotation, it stays in stores and that bearer is not issued from the tunnel post again. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.036  clean   760 grams  M.A.W. Equipment\n 0.018  clean   171 grams  Operational Parameters\n 0.010  clean   686 grams  감각 묘사 (Flavor Text)\n 0.006  clean   171 grams  최종 관찰 (Final Observation)\n 0.005  clean   784 grams  Combat Record\n 0.000  clean   649 grams  Activation Behavior\n 0.000  clean   614 grams  Pane Record\n 0.000  clean   612 grams  Appearance\n 0.000  clean   383 grams  이야기 (Narratio)\n 0.000  clean   346 grams  기록 (Registrum)\n 0.000  clean   341 grams  관찰 기록 (Observation Log)\n 0.000  clean   249 grams  Behavior\n 0.000  clean   223 grams  이야기 보고 (Story Log)\n 0.000  clean   178 grams  Trivia\n 0.000  clean   137 grams  Origin\n 0.000  clean    50 grams  증언 (Testimonium)\n 0.000  clean    42 grams  SECC Classification\n 0.000  clean    29 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   3  | **Han-Energy yield** | 10–14 per successful work cycle, read off the tunnel watch rather than the pane |\n   85   4  | { *The Weeping Building* [**Ultimate**] } | \"Every face in the gallery is turned the same way — and nobody is working.\" | [No ot\n  244   6  **Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that draws close around a bearer who has stopped \n  262   2  **Appearance:** a shard-tile of Lament Han-crystal, cool and faintly luminous, that warms for a breath when the bearer looks at it\n  289  19  **Full-set source review (2026-10-11):** Reviewed the `α` overview, all three local item blocks, Use Notes, Field Use Record, and \n  338   1  | Work to the Management entry at the head of this file: a timekeeper named before entry, relief briefed to interrupt, no second c\n  359   7  Three holdings stand within reach of the gallery — The Torn Window, The Memory Rain and The Sleeping Weight — and none of the thre\nGENERIC 0.007  (42 shared shingles)  SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-518-A__SIDE_CODEX_Life_Behind_Glass.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-518-B__MAW-W_The_Glass_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-518-C__MAW-S_The_Glass_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-518-D__MAW-G_The_Glass_Shard.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-518-A__SIDE_CODEX_Life_Behind_Glass.md": "b61e2933d768e639caf67d21251f6bd87b764020b1180f20fde4c791542d93fc",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-518-B__MAW-W_The_Glass_Requiem.md": "bff3070e2b228b62395023dcd646e26d054d1152cd04355e981247fb710a2773",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-518-C__MAW-S_The_Glass_Shroud.md": "9f197219670e7ec548a10efa6a4d0ed2776438a387c57218d22f8e626f90f38a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-518-D__MAW-G_The_Glass_Shard.md": "b2bb45954c8deb93266953e51bfc8aa35fa82a5aa94dca16c16139f3ee49e9e5"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-Iα-518_Life_Behind_Glass_솟구친_창](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-518_Life_Behind_Glass_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%B0%BD.md \"SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md\")]",
+      "table_link": "[[N-Iα-518 Life Behind Glass](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-518_Life_Behind_Glass_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%B0%BD.md \"SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md\")]",
+      "reading": "R-34 recheck of B148_05: complete frozen primary at 467 lines / 8,458 words, complete direct SE-518-A/B/C/D, Registry rows 715-718, B148 receipt checked as claims. All tables parsed equally; all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 241,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Unsupported 15% Gauge surge removed; Ultimate aligned from 65% to the file's ≥45% activation threshold with an audience-state condition; Han Dust yield removed with the destructibility correction."
       }
     }
   ]
