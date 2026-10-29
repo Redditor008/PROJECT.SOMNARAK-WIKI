@@ -39,7 +39,7 @@ This document is a **universal conversion table**, not one story's house rules. 
 | HP read | Tier band of Section III | Dossier Sorrow Gauge checked against the band | Sorrow Gauge unchanged |
 | Work system | Instinct/Insight/Attachment/Repression with favorability from the Behavior table | LC work names over `-han` behavior; dossier management rules bind | Viderehan/Ferrehan/Flerehan/Pugnahan as dossiered (LC names as glosses only) |
 | Damage readout | RED/WHITE/BLACK/PALE | Dual-read: LC colors carrying the Han status effects of Section V | Han elements as dossiered |
-| Breach & Qliphoth Counter | Counter live; breaches roam per LC suppression doctrine | Counter live only where the dossier's activation/event behavior supplies one; transformations per Section VI | No counter; activation/event behavior as dossiered |
+| Breach & Qliphoth Counter | Every filed channel live (Gauge and/or Threshold); breaches roam per LC suppression doctrine | Channels live only as the dossier files them — either, both, or neither; transformations per Section VI | No counter; Gauge and Threshold behavior as dossiered |
 | Equipment | E.G.O per Section VII | E.G.O with Composure Load; per-piece bearer costs retained verbatim | M.A.W. unchanged; E.G.O names may gloss |
 | Origin & Tale | Encyclopedia lore; SECC code as alias | Dual record; Tale remains the operative truth | Somnarak record operative; LC code as alias |
 | Original in Somnarak | Author must state: transferred, copied, or the SE was never there | Author must state transfer vs. reflection-copy | The original stands; this is a visitation or reading |
@@ -162,26 +162,30 @@ SECC Coherence and Potency usually rise together, but transported entities frequ
 - **HP** is taken from the dossier's Sorrow Gauge where one exists, checked against the tier band; a dossier figure outside its band is flagged, not silently rescaled.
 - **Work damage** type comes from the entity's Element (Section V); values follow the tier's Attack band.
 - **Max PE-Boxes** follow the tier band above, before the Heavy Han Density adjustment of Section I.
-- **Qliphoth Counter** is set from behavior, not tier alone: non-breaching, activation-only entities may carry **Counter: —** with their activation written as special rules instead; event/transformation entities carry 1–3 by documented sensitivity (what lowers it must be named from the dossier — a published denial, a resemblance introduced, a gaze sustained — never "random").
+- **Counters** are set from the dossier's two mechanisms — Sorrow Gauge behavior and Activation Thresholds — per the Counters subsection below. An SE may file either, both, or neither (**Counter: —**); the tier band above bounds the Gauge channel's counter value where one is filed, and every condition that moves either channel is named from the dossier (a denial published, a resemblance introduced, a gaze sustained), never "random".
 - **Work favorability** is translated from the dossier's own Behavior table: Gauge *Decrease* → the analog work is favored; *Stable* → Common; *Increase* → disfavored and normally locked by management rule; *N/A* → prohibited under the Two-Work-Type Law (Section IV). Outcome ranges are then set inside the tier's PE band.
 
-### Counters — the inverse pair (Sorrow Gauge behavior ↔ Qliphoth Counter)
+### Counters — two mechanisms, two channels (Sorrow Gauge & Activation Threshold ↔ Qliphoth Counter)
 
-The two archives count toward the same event from opposite ends, and every counter conversion in this Table is an **inversion, never a transcription of the numeral**. Somnarak counts **up**: Gauge pressure rises through the Behavior table toward the activation/breach threshold. L Corp counts **down**: the Qliphoth Counter falls toward 0, where the dossiered breach event waits. The conversion therefore reads the dossier's pressure mechanics and re-expresses them as distance-to-zero:
+**P.S. does not have one counter. It has two distinct mechanisms, and this Table converts them separately, channel to channel.**
 
-| Counter element | PS source (dossier) | LC conversion |
-|---|---|---|
-| Distance to breach | Activation threshold and the sensitivity of the Behavior table | Counter value inside the Section III tier band, set by behavior per the derivation above |
-| Pressure rises | Behavior outcomes marked Gauge *Increase*; named aggravators (a denial published, a resemblance introduced, a gaze sustained); threshold crossings | Counter **−1** per dossiered aggravator event; every condition quoted verbatim in the managerial guidelines |
-| Pressure falls | Behavior outcomes marked Gauge *Decrease*; dossiered soothers and return conditions | Counter **+1**, up to its intake maximum, on the named condition only |
-| No movement | Gauge *Stable* | No change |
-| The zero point | Activation, breach or transformation threshold reached | Counter 0 → the dossiered event behavior (Section VI states where filed) |
-| Reset | Termination/return behavior completes in the source record | Counter restored to its intake value once the entity is returned to the unit; suppression alone never raises it mid-event |
-| No counter exists | Non-breaching, activation-only entities | **Counter: —**, with the activation written as special rules (the Section VIII roster's Kind Echo is the standing example) |
+- **The Sorrow Gauge (0–100%)** — a *continuous* pressure meter: accumulated Han-sorrow, moved by work outcomes (the Behavior table's Decrease / Stable / Increase), by ambient tides, and by events. Falling Gauge is relief; saturation at 100% is catastrophe — Berserk Overdrive in combat, breach pressure in containment (battle-system codices, Master Codices 03; containment cells carry literal Sorrow Gauges that warn seconds before a cell breach threshold).
+- **Activation Thresholds** — a *discrete* condition set: named, checkable triggers at which the entity activates, transforms, or breaches — a condition met (leaning and looking down; a resemblance built), a count reached (sixty-one faces learned), a spread exceeded (reported depth past four metres), or a Gauge percentage crossed (Ultimates filed at ≥60%, ≥75%, ≥90%). Thresholds answer *whether and when*; the Gauge answers *how much pressure*. One is never reducible to the other.
 
-- **Meltdowns.** Converted units enter the facility meltdown rotation like natives; the Heavy Han Density of Section I.3 raises the *global* meltdown rate, which is a facility cost of housing SEs at all, and is priced as such. A meltdown landing on an inanimate SE does **not** lift the Two-Work-Type Law: it is answered with Instinct/Insight only, or allowed to lapse into the counter-zero event. Completing meltdown work discharges the meltdown; it moves the counter only where the dossier's own rules say the work moves pressure.
-- **Tool use counters.** Dossier activation limits convert in kind, one for one: per-day uses, charge counts, charge-up timers (the Train's four lights are the native shape of this), and single-use consumption (Section X.5) all become the Tool's use counter with the dossier's figures verbatim. Read-only dossier **tallies** — counts of things that have already happened, such as the learned-face count of 61 — are Basic-Info statistics, never use counters; Extraction does not turn a memorial into a meter.
-- **Degree read.** Degree I: counter live as derived here. Degree II: live only where the dossier supplies activation/event behavior. Degree III: no counter; thresholds remain Somnarak-side gauges (Preface table).
+An SE carries **Gauge-only, Threshold-only, both, or neither** — exactly as native Abnormalities carry different breaching conditions: work-result counters, condition counters, timers, or none. Conversion matches what the dossier files and **never invents a channel the source does not carry**:
+
+| Dossier files | Qliphoth conversion |
+|---|---|
+| **Gauge only** | Counter driven by work outcomes alone, inside the Section III band: dossier Gauge-*Increase* outcomes step it down, *Decrease* outcomes step it up. No condition triggers are added |
+| **Threshold only** | Counter moved **only** by the dossiered threshold conditions, each written as a named managerial rule; work outcomes never move it. Breach fires on threshold fulfillment, not on work fatigue — this is the facility's own condition-counter family, not an exception |
+| **Both** | Both channels live, tracked as separate lines in the guidelines; the event fires on **whichever completes first** — Gauge saturation or threshold fulfillment. Where the dossier interlocks them (a threshold keyed to a Gauge percentage), the interlock is quoted, never simplified into one meter |
+| **Neither** | **Counter: —**; activation-only entity, special rules as filed (Kind Echo precedent, Section VIII) |
+
+- **Direction discipline.** Whatever the channel, the LC read is distance-to-zero and the PS read is pressure or condition-progress; every numeral is re-derived per channel from the dossier's own step sizes, never transcribed. A Gauge at 40% is not a Counter at anything until those steps are read.
+- **Reset.** Termination/return behavior resets **each channel by its own rule**: the Gauge returns to filed baseline; threshold counts reset only where the dossier files them resettable. A permanent count (learned faces) never resets in either archive. Suppression alone resets neither channel mid-event.
+- **Meltdowns.** Converted units enter the facility meltdown rotation like natives; the Heavy Han Density of Section I.3 raises the *global* meltdown rate, priced as a facility cost of housing SEs at all. A meltdown on an inanimate SE does **not** lift the Two-Work-Type Law, and on a Threshold-only unit it is answered by standing watch over its conditions, not by pressure work. Completed meltdown work discharges the meltdown; it moves a channel only where the dossier's own rules say so.
+- **Tool use counters are Threshold-channel mechanisms**: charge counts, charge-up timers (the Train's four lights are the native shape), per-day uses, and single-use consumption (Section X.5) convert one for one with figures verbatim. Read-only dossier **tallies** — counts of things that have already happened, such as the learned-face count of 61 — are Basic-Info statistics and Threshold *evidence*; Extraction does not turn a memorial into a meter.
+- **Degree read.** Degree I: every filed channel live as derived here. Degree II: channels live only as the dossier files them, under LC names. Degree III: both mechanisms remain Somnarak-side (Preface table).
 
 
 ---

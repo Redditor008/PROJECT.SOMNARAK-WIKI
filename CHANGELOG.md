@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Correction — P.S. counts on two mechanisms: Sorrow Gauge AND Activation Threshold (Universal Table, 2026-10-30)
+
+- **Owner correction applied:** the passes above fused two distinct P.S. mechanisms into one "inverse pair." In fact the **Sorrow Gauge (0–100%)** is a continuous, work-responsive pressure meter (Behavior Decrease/Stable/Increase; 100% = saturation catastrophe — battle-system codices §5.1; containment cells carry literal gauges warning before cell breach thresholds), while **Activation Thresholds** are a discrete, separately-filed condition set (named checkable conditions, counts, spreads, Gauge-percentage crossings ≥60/75/90%). An SE may carry **Gauge-only, Threshold-only, both, or neither** — mirroring how native Abnormalities carry different breaching conditions.
+- **Universal Table Section III Counters subsection rewritten as a two-channel law:** conversion matches channel to channel and never invents a channel the dossier does not file (Gauge-only → work-outcome counter; Threshold-only → condition-moved counter, work outcomes never move it; Both → separate lines, event on whichever completes first, dossier interlocks quoted; Neither → Counter: —). Per-channel reset rules (permanent counts never reset), Threshold-only meltdown handling, and Tool use counters reclassified as Threshold-channel mechanisms. Section III derivation bullet and the Preface Degrees counter row aligned.
+
+
 ## Conversion-integrity completion, pass 3 — the Integrity Matrix (2026-10-30)
 
 - **`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md` Appendix A added — the Conversion Integrity Matrix:** all **40 facility systems** named in either archive, each with its conversion law located in both directions (this Table / the reverse guide / the universe comparison): **40 of 40 covered** — 36 by direct law in the two guides, 4 by referenced law in the comparison (department assignment & staff classes, Ordeals ↔ Four Watches, Core Suppression ↔ Realization, LOB/research economy). Includes the PE↔Han tier-band crosswalk (no 1:1 exchange; a PE-Box is not a unit of Han) and the standing discipline that any future system must be entered in the matrix before use (checklist item 10).
