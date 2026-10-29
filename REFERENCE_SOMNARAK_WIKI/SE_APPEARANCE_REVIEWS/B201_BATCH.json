@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "batch": 201,
+  "status": "OPEN",
+  "completed_units": 0,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "N-IIβ-456",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-456_Fading_Fruit_번져가는_열매.md",
+      "words": 8676,
+      "sha256": "2768ed2d9fddd4100db7ddc4b0895b76659ee806fee4f313808616478a645b9a"
+    },
+    {
+      "unit": 2,
+      "designation": "O-IIIγ-651",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-651_Relic_Waiting_for_Its_Maker_잠든_유물.md",
+      "words": 8682,
+      "sha256": "1a3638f734914d178415acce03b262130b429f804c96fd718fc354d37a41eb2f"
+    },
+    {
+      "unit": 3,
+      "designation": "C-IVδ-001",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md",
+      "words": 8708,
+      "sha256": "9232ea9b41d16e128b325f4ba766a6c951d6651462f771eb95868f46e1f0021e"
+    },
+    {
+      "unit": 4,
+      "designation": "N-IIβ-152",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md",
+      "words": 8708,
+      "sha256": "15fd270b57154cafc8cf92cf0e46f854e5fa142c36ae0148f05f5a9e5a873cf7"
+    },
+    {
+      "unit": 5,
+      "designation": "O-IVδ-115",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-115_Broken_Fragment_부서진_파편.md",
+      "words": 8722,
+      "sha256": "a4b28074677fb088ddb9ff19453e95ab5a956c0d09fc808c94cf8aa39a3bd248"
+    }
+  ],
+  "opened_at": "2026-10-29",
+  "completed": 0,
+  "units": []
+}
