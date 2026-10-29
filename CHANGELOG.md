@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Conversion-integrity completion, pass 2 — the reverse guide (2026-10-30)
+
+- **`PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md` Section VII.1 added — the Qliphoth Counter conversion the framework was missing:** Counter value N converts to an **N-step Gauge activation distance**; decrease conditions become Gauge-Increase triggers and increase conditions Gauge-Decrease outcomes (conditions quoted verbatim), counter-zero becomes the activation/breach event, reset rides the return behavior, and counterless natives become activation-only SEs. Steps-not-spikes clause keeps counter mechanics distinct from the prohibited-work backfire; meltdown-marked units convert to **Watch-marked** entities; Tool use counters land in the Section IX relic activation limits. Former subsections renumbered (Watches → 2, Transform Breaches → 3; no external references existed).
+- **Further completions:** Section V breach-resistance transcription (suppression profile → defensive record, neutral-with-note where unfiled); Section VI operative-attribute reverse conversion (inverse of Universal Table IV.3); Section VII facility-scale pointer (Ordeals ↔ Watches, Core Suppression ↔ Realization, by reference to the universe comparison §9/§16); Section IX.4 Observation Levels → R.D. Comprehension for all entity classes. Checklist item **11 COUNTER CHECK** added at exact 74-character width.
+
+
 ## Conversion-integrity completion, pass 1 — the Universal Table (2026-10-30)
 
 Full audit of both conversion guides against every facility system in either archive (owner directive: 100% conversion, nothing missed). Guide 2 (`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md`) completions:

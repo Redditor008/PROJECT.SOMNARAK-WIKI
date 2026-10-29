@@ -137,6 +137,8 @@ Project Moon's four damage types correspond directly to the four elemental expre
 | **WHITE** | Sanity Points (SP) | **Lament (Deep Blue)** |   탄식   (*Tansik*) | Cryogenic wailing, spiritual freezing, Composure drain. Inflicts **Numbness** (-1 Speed) and **Acoustic Despair** (panic). |
 | **BLACK** | Dual HP & SP | **Weight (Black)** |   무게   (*Muge*) | Gravitational burden, unpayable civil debt. Inflicts **Burden Stacks** (increases AP cost of movement) and dual HP/Composure attrition. |
 | **PALE** | % Max HP | **Void (Pale White)** |   공허   (*Gongheo*) | Existential erasure, white silence. Deals true percentage damage (1 unit = 5% Max HP); bypasses conventional physical armor. |
+**Breach resistances convert with the body.** A native's damage-resistance multipliers — its suppression profile — transcribe into the SE's defensive record in element order (RED → Grudge, WHITE → Lament, BLACK → Weight, PALE → Void), values verbatim. A native record filing no resistances converts at neutral across all four elements with the absence noted: the archivist does not armor an entity L Corp left unarmored.
+
 
 ---
 
@@ -161,6 +163,8 @@ In Project Moon, containment work revolves around four generic employee actions:
 4. **Repression → Pugnahan (  격투한   / *Gyeoktuhan* — Confrontation / Wrath Work):**  
    - **Procedure:** Operatives deploy controlled physical violence, kinetic suppression rods, and authoritative strikes to beat back expanding manifestation mass.
    - **Mechanical Effect:** High physical risk; tests operative **Resolve**; prevents imminent breach counters, but escalates the entity's Grudge pressure.
+
+**Operative attributes convert with the work.** A native entry's work-scaling stats and stat requirements convert along the work pairing — Fortitude → Clarity, Prudence → Resilience, Temperance → Composure, Justice → Resolve, levels I–V unchanged — the exact inverse of the Universal Table's Section IV.3 table. SP-denominated costs become Composure costs, and E.G.O stat requirements become the M.A.W. record's operative requirements before Composure Load (Section VIII.3) is applied.
 
 ### 2. The Absolute Two-Work-Type Rule for Inanimate Entities
 
@@ -195,14 +199,33 @@ In Project Moon, containment work revolves around four generic employee actions:
 
 ## Section VII: Meltdowns, Watches & Special Transform Breaches
 
-### 1. Qliphoth Meltdowns → The Four Atmospheric Watches
+### 1. The Qliphoth Counter → Gauge Activation Steps
+
+Every native Abnormality carries a Qliphoth Counter, and until this standard the counter itself had no PS conversion — only its meltdown weather did (subsection 2 below). The conversion is the exact inverse of the Universal Table's Section III counter law: **the Counter counts down to 0; the Sorrow Gauge counts up to threshold. A counter value of N converts to an N-step activation distance** written into the SE's Behavior and activation record:
+
+| LC counter element | PS conversion |
+|---|---|
+| Counter value N | An **N-step activation distance** between the filed Gauge baseline and the activation threshold |
+| Counter-decrease condition (Bad work result, a named aggravator, a death inside the unit) | **Gauge-Increase trigger** in the Behavior table — one step per LC point, the condition quoted verbatim |
+| Counter-increase condition (Good result class, a named soother) | **Gauge-Decrease outcome** — one step back per LC point, floor at baseline |
+| Counter reaches 0 | Activation threshold reached: the breach or transformation event converts under subsection 3 |
+| Counter reset on return to the unit | Gauge returns to baseline under the dossier's termination/return behavior |
+| No counter filed (non-breaching native) | Activation-only SE: no threshold breach state is constructed for it |
+
+- **Steps, not spikes.** Converted counter triggers move the Gauge by threshold *steps*. The prohibited-work backfire spike of Section VI (+30% to +50%) remains exactly what it is — the penalty for illegal work — and is never used as a substitute counter mechanic.
+- **Meltdown-marked → Watch-marked.** A unit selected by Qliphoth Meltdown converts to a **Watch-marked** entity under subsection 2: the Watches supply the ambient tidal pressure the meltdown rotation supplied in the facility, and bleeding a Watch-marked entity's Gauge inside its Watch window is the meltdown-work analog. A Watch-mark lifts the Two-Work-Type Law in neither archive.
+- **Tool use counters** — use counts, charge timers, once-per-day operations — convert into the relic profile's activation limits under Section IX with their figures verbatim; a single-use native enters the A-Relic class with its consumption intact.
+
+### 2. Qliphoth Meltdowns → The Four Atmospheric Watches
 In Project Moon, Qliphoth Meltdowns trigger randomly on containment chambers. In Somnarak, facility pressure is driven by subterranean Han tidal surges from the Weeping at -2,000 meters:
 - **First Watch (  제1감시   / *Je-il Gamsi*):** Morning barometric drop. Murmurs and roaming sorrow sprites condense.
 - **Second Watch (  제2감시   / *Je-i Gamsi*):** Mid-day tectonic friction. Solidifies armored Fragments; tests physical wardens.
 - **Third Watch (  제3감시   / *Je-sam Gamsi*):** Deep evening surge. Unleashes Rank IV apex Entities; massive Composure drain.
 - **Tide Watch (  만조감시   / *Manjo Gamsi*):** Catastrophic midnight surge from the Core Void. Threatens facility blast walls; requires full mobilization.
 
-### 2. Special Transform Breaches: Designation & Manifestation Shifts
+Facility-scale crisis systems convert at this same register and are carried by reference rather than duplicated here: the colored **Ordeals** (Dawn / Noon / Dusk / Midnight) read against the Four Watches as tide-borne entity waves, and **Core Suppression** reads as departmental Realization — full treatment in `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` §9 and §16. An entity-level conversion never needs to import them; a facility-level story declares them from there.
+
+### 3. Special Transform Breaches: Designation & Manifestation Shifts
 Unlike PM where breached entities retain their exact code and form, rare apex entities in Somnarak undergo **Breach Metamorphosis**:
 
 #### Protocol 01: Place-to-Subject Metamorphosis (The Maw Protocol)
@@ -267,6 +290,10 @@ Every Relic dossier must include a 4-tier progressive unlock table:
 - **Tier III:** Overuse penalties, escalation triggers, and backfire risks.
 - **Tier IV:** Master recovery procedure and historical origin tale.
 
+### 4. Observation Levels → R.D. Comprehension (all entity classes)
+
+Beyond the relic log tiers above, a native's Observation Level track converts to the SE dossier's R.D. Comprehension gates in the same order the Universal Table's Section IX runs in reverse: Basic Info first, then work responses and management methods, then activation/termination behavior, narrative last and whole. Anything the LC record withholds at its filed Observation Level converts as *unwritten*, not as absent — the Comprehension record carries the gate, and the archivist does not research past it on the entity's behalf.
+
 ---
 
 ## Section X: End-to-End Concrete Conversion Case Studies
@@ -323,6 +350,8 @@ Every Relic dossier must include a 4-tier progressive unlock table:
 | 08. SPATIAL ENGINE: 10-Node Grid, Range Bands 1-5, AP Budget assigned  |
 | 09. M.A.W. TRIAD  : Weapon, Suit, Gift assigned to 5 Weight Classes    |
 | 10. RE-QUOTA CHECK: Archive maintains >= 25.0% Relic-Entity balance    |
+| 11. COUNTER CHECK: Qliphoth Counter to Gauge activation steps;         |
+|                     meltdown to Watch-marked; use counts filed         |
 +========================================================================+
 ```
 
