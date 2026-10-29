@@ -27,12 +27,12 @@
 |---|---|
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure** | Composure — the holder's grip on whose anger is whose |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, from a shard that fits in a palm. The Gardens' return observes each year that the yield is small, the cycle is twenty minutes, and the count afterwards takes longer than the cycle. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
+| **Tool / M.A.W. grade** | O-Relic (Offertorium) · α (Minor) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
 | **Recommended response** | Count the tears under the standard lamp, at the standard distance, twice, by two people. Viderehan is the count; Ferrehan is staying in the room while the memory finishes. Nothing is touched without authorisation. |
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Void. The shard has never been struck and never melts — it has been left in a heated room for a week and came out at the same temperature it went in. |
+| **Resistance** | 15% against Void as a formal rating; the shard has never been struck in handling and never melts. Working protection is the channel protocol: touch only under authorization, a second person in the room asking every minute who the operator is angry at, and deliberate closure with the anger attributed aloud. Past one minute the channel drains 4 Composure every 10 seconds. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 208/208 |
 | **Han Pressure [ATK]** | 3–9 per hit · Void |
@@ -79,23 +79,23 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Cold Core* [**Debuff**] } | "Nothing in the room is moving, including the thing you were about to say." | [The cold reaches the room's pace rather than its temperature.] | *1 Void. Workers describe losing the sentence they had prepared and not getting it back.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | On approach, every cycle, to everybody. |
-| { *The Suspended Moment* [**Debuff**] } | "You can see the counter, and the clerk, and her face as she is asked the second time." | [The preserved instant is legible to anyone who looks closely, and is always the same instant.] | *1 Void, and the viewer can afterwards describe a room in the Gardens as it was eleven years ago.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares into the ice. |
-| { *The Ice Spear* [**Attack**] } | "The frozen shard launches — trailing permafrost, carrying the cold of an eternal instant." | [An ice-locked shard strikes the target.] | *Inflicts Void damage; the eternal cold preserves and erodes.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shard is struck. |
-| { *The Full Shatter* [**Attack**] } | "The anger in it arrives all at once and it arrives as yours." | [The stored memory transfers whole and is reported in the first person.] | *3 Void and a 15% Gauge surge to whoever touched it; the recipient will defend the grievance as their own until it is named aloud.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shard is touched without the memory being acknowledged afterwards. |
-| { *The Frozen Instant* [**Ultimate**] } | "Every unspoken thing in the Gardens' deposit room goes cold at once." | [The effect propagates to the deposits — the mementoes left without an account.] | *2 Void per cycle for three cycles to anyone in the deposit room.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | Above 65%. Recorded once, in Year 4,233; eleven deposits were found cold to the touch and three depositors came back that week to say what they had meant. |
+| { *The Cold Core* [**Debuff**] } | "Nothing in the room is moving, including the thing you were about to say." | [The cold reaches the room's pace rather than its temperature; the room is colder than the shard can account for before anybody touches it.] | *1 Void to Composure. Workers describe losing the sentence they had prepared and not getting it back; neither counter speaks a number aloud until both have finished.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the shard is brought out on its tray and the counting session opens. |
+| { *The Suspended Moment* [**Debuff**] } | "You can see the counter, and the clerk, and her face as she is asked the second time." | [The preserved instant is legible to anyone who looks closely, and is always the same instant.] | *1 Void, and the viewer can afterwards describe a room in the Gardens as it was eleven years ago. Whatever detail arrives is the mourner's; it is attributed aloud before the session closes, never adopted.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a counter stares into the ice under the standard lamp during the count. |
+| { *The Ice Spear* [**Attack**] } | "Nothing launches. The cold answers along the hairline, from exactly where it sits on the tray." | [The shard has never moved itself and has never been struck in handling; the only physical marking on record is the Angry Maiden hairline, which has not spread in six years.] | *Heavy Void pressure on Composure. End the session, photograph the hairline, and take both counts; physical contact beyond authorized touch requires the Warden's signature.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the shard is physically struck or its retained hairline is stressed — recorded only inside an authorized joint session. |
+| { *The Full Shatter* [**Attack**] } | "The anger in it arrives all at once and it arrives as yours." | [The stored memory transfers whole and is reported in the first person.] | *3 Void to whoever touched it; the recipient will defend the grievance as their own until the second person's question — who are you angry at — gets it named aloud as the mourner's.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shard is touched under a channel and the memory is not acknowledged aloud afterwards. |
+| { *The Frozen Instant* [**Ultimate**] } | "Every unspoken thing in the Gardens' deposit room goes cold at once." | [The effect propagates to the deposits — the mementoes left without an account.] | *2 Void per cycle for three cycles to anyone in the deposit room. Close the channel deliberately and say aloud whose anger it was; then count. Recorded once, in Year 4,233, when eleven deposits were found cold and three depositors returned that week to say what they had meant.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥45% activation threshold and a channel is dropped or left untended in the deposit room. |
 
 ### Battle Phases
 
 1. **Tension:** The shard is brought out on its tray, the standard lamp is set at the marked distance, and the two counters take opposite sides. Neither says a number aloud until both have finished.
-2. **Clash:** There is nothing to fight. The team counts the trapped tears under the lamp, works Viderehan and Ferrehan only, and holds the shard without putting a name to what rises off it. Flerehan and Pugnahan are invalid; the shard is already somebody's attempt to handle a feeling by holding it.
-3. **Resolution:** The cycle ends when the count is taken twice and agrees, the Gardens' deposit book for the week is attached, and the shard is returned to its tray. There is no suppression step and the shard has never been warmer than the room.
+2. **Clash:** There is nothing to fight. The team counts the trapped tears under the lamp and works Viderehan and Ferrehan only; the shard stays on its tray, because touch is a separately authorized channel with a second person asking every minute who the operator is angry at. Flerehan and Pugnahan are invalid; the shard is already somebody's attempt to handle a feeling by holding it.
+3. **Resolution:** The cycle ends when the count is taken twice and agrees, any memory that rose has been attributed aloud to the mourner rather than carried out, the Gardens' deposit book for the week is attached, and the shard is returned to its tray. There is no suppression step and the shard has never been warmer than the room.
 
 ### Consequences
 
 - The failure here is carrying the anger out of the room without naming it. It is not dramatic: the worker simply leaves annoyed, about something real, at somebody who exists.
 - Past about fifteen minutes the grievance acquires detail that was not in it — a date, a room, a thing somebody said — and the detail is consistent between workers, which is how the Gardens knows the memory is the mourner's and not theirs.
-- The set's cost is in the ledger and is domestic: wielders keep things. Small objects, for no reason they can give, and they are unable to throw them away.
+- The set's costs are domestic but not pooled: the awl takes small nameless memories beginning with the reasons things were given; the veil's wearer keeps small objects they cannot explain or throw away; the fragment's wearer goes emotionally cold and distant.
 - An unresolved cycle does not event anything. It adds a tear. The count has gone from 31 at first survey to 38, and every one of the seven additions followed a cycle in which somebody left without saying whose anger it was.
 
 ## Appearance
@@ -224,7 +224,7 @@ The bone is cold to the touch and covered in permanent rime frost that does not 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
 **Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** Record the strike and the memory cost separately. The Void lands once on the single target; the small nameless memory is taken from the wielder, beginning with the reasons they gave things to people.
 
 **Ability:** Void damage to the soul. The awl carries the shard's signature, and what it takes from a target is the recollection of something they kept instead of saying.
 
@@ -244,7 +244,7 @@ The bone is cold to the touch and covered in permanent rime frost that does not 
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Turns Void aside from the soul. The suit is what lets a worker hold the shard long enough for the transferred feeling to be identified as somebody else's.
+**Ability:** Grants resistance to Void, protecting identity and sense of self while a worker holds the shard. It supports the identification of a transferred feeling as somebody else's; it is not a prerequisite for the channel, and the second person's question still does that work.
 
 **Cost:** The wearer keeps things. Tickets, pencil stubs, a button; they cannot say why and cannot throw them out, and all three wielders' quarters have been found with a drawer of them.
 
@@ -266,7 +266,7 @@ The bone is cold to the touch and covered in permanent rime frost that does not 
 
 ### M.A.W. Use Notes
 
-Every piece here is a thing kept instead of a thing said, which is also what the source is, and the set behaves accordingly: it is reliable, undemanding, and it teaches its wielder to keep. The cost is not pain. It is a drawer that fills up, and a person who cannot explain a single object in it. The Armoury's check is a conversation with whoever shares the wielder's quarters.
+Every piece here is a thing kept instead of a thing said, which is also what the source is, and the set behaves accordingly: reliable, undemanding, and quietly possessive. The keeping shows differently per piece — the awl in memories that go missing, the veil in a drawer that fills with objects nobody can explain, the fragment in a coldness that outlasts the watch — and the Armoury logs them separately. Its check is a conversation with whoever shares the wielder's quarters.
 
 ### Field Use Record
 
@@ -275,9 +275,9 @@ Every piece here is a thing kept instead of a thing said, which is also what the
 | **Before use** | Wielder, piece, tear count that day, and a sealed note naming anyone the wielder currently holds a grievance against. It is opened at the end of the rotation. |
 | **During use** | The minute-by-minute answer to one question: who are you angry at. Asked by the second person, recorded verbatim, never discussed at the time. |
 | **At limit** | The answer becomes a name the wielder did not write down beforehand, and they have reasons. The use ends there, on the name alone. |
-| **After use** | Open the sealed note, compare, and ask whether anything new has been kept. The drawer question is on the form and has caught two of the three stand-downs. |
+| **After use** | Open the sealed note and compare. Then check the piece's own trace: for the veil, whether anything new has been kept; for the awl, what reason for a gift can no longer be recalled; for the fragment, whether the coldness has lifted. The drawer question stays on the form and has caught two of the three stand-downs. |
 
-**Stat interpretation:** An α-grade set with a sector-wide benefit and a private cost, which is an unusual shape and the reason this holding is worked more often than its yield justifies. The benefit is measurable in other people's gauges; the cost is measurable in one person's drawer. Authorise on the second.
+**Stat interpretation:** An α-grade set with a sector-wide benefit and a private cost, which is an unusual shape and the reason this holding is worked more often than its yield justifies. The benefit is measurable in other people's gauges; the cost is measurable in one person's memory, quarters and temperature. Authorise on the second.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -325,7 +325,7 @@ The Echo Gardens no longer accepts a memorial object without an account. The acc
 
 | Say whose it is, out loud, before you leave the room. | Take it with you. It is only a mood, and it will pass. |
 |---|---|
-| Remains cold while testing the worker's patience. The sorrow is seen clearly; Seething Tundra is fully recorded. | Reveals the memory embedded in its surface. The gauge climbs and Seething Tundra withdraws without revelation. |
+| Remains cold while testing the worker's patience. The sorrow is seen clearly; Seething Tundra is fully recorded. | The worker leaves with the anger as their own, aimed at somebody real in the corridor. Nothing withdraws and nothing is revealed; the next count finds one more tear. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -336,7 +336,7 @@ The Shard looks beautiful enough to pick up. Your fingers touch its cold surface
 
 **At first contact:** A palm-sized piece of clear-white crystal on a tray, colder than the room allows, with small tears caught in it partway down. Under the lamp you can count them. Under moonlight it glows, which is in the file because the first survey was at night and nobody has been able to leave it out.
 
-**With continued exposure:** With time the Object-Grudge becomes less a presence and more a climate — the Void is no longer an event but an environment, something you exist inside rather than encounter.
+**With continued exposure:** Nothing about the shard changes. What changes is the grievance: past about fifteen minutes it acquires detail that was not in it — a date, a room, a thing somebody said — and the detail is the same between workers, which is how the Gardens knows it is the mourner's and not yours.
 
 **When the entity activates:** There is no change in the shard. The change is in the person holding it, who is now angry, specifically and justifiably, about something that happened to somebody else eleven years ago, and who will say *I* when they describe it. The channel must be closed deliberately and never left untended.
 
@@ -359,7 +359,7 @@ Nine sessions across three holdings and nine tears added. The Gardens now treats
 | **The Weeping Statue** | Holds grief that was never said, as this does; two unspoken things in one room. | Three sessions, three tears. The Gardens' note is the most useful sentence in the table: these two do not comfort each other, they accumulate. | Count, and the Statue's own readings for comparison. |
 | **The Angry Maiden** | Cracks it and cannot melt it; the only party that has physically marked the shard. | Two sessions, two tears, and a hairline that is still there. The second session was authorised to see whether the crack would spread. It has not, in six years. | Count, the crack photographed annually, and the authorising signature. |
 
-**Interaction procedure:** Baselines first, and on this holding a baseline means two agreeing counts rather than a gauge reading. Count before, count after, and count again a week later; the additions have twice appeared late. Record whether anybody touched it, because the count has risen in sessions where nobody did. Separation.
+**Interaction procedure:** Baselines first, and on this holding a baseline means two agreeing counts rather than a gauge reading. Count before, count after, and count again a week later; the additions have twice appeared late. Record whether anybody touched it, because the count has risen in sessions where nobody did.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -393,12 +393,12 @@ Some sorrows are preserved. Seething Tundra is a sorrow preserved too well — t
 **Common Name:** Seething Tundra
 **Containment Status:** Contained — Echo Gardens
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Low. A tear preserved as a memorial, sealed with rage inside. Effect: proximity induces the cold of sealed anger.
+**Threat Assessment:** Low. A tear preserved as a memorial, sealed with rage inside. Effect: direct touch transfers the stored memory, and the holder reports the anger as their own until it is named aloud.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- The shard is cold; the sealed rage makes it so.
+- Count the tears under the standard lamp at the marked distance, twice, by two people; neither speaks a number until both have finished.
+- Touch only under authorization, with a second person asking every minute who the operator is angry at; close deliberately and say aloud whose anger it was before leaving the room.
 **Observation Notes:**
-- A mourner preserved her last tear; it hardened, sealing her anger inside.
+- Thirty-one tears at first survey, thirty-eight now; every addition followed a cycle that ended with the anger carried out unsaid.
 **Cross-References:** Echo Gardens · The Frozen Tear · The Soaking Shard
 **Faction Involvement:** None operational. The Gardens' deposit register is kept by the district and not by any faction, and two requests to copy it — one from UCD — have been refused on the grounds that a register of unspoken things should not be read by people the depositors did not choose.
 **Originator:** One mourner of the Echo Gardens, named on the deposit slip reproduced in the Origin section. The archive holds the slip, the clerk's note, and nothing else, and has not sought more.
@@ -419,7 +419,7 @@ Some sorrows are preserved. Seething Tundra is a sorrow preserved too well — t
 
 - **Classification detail:** Seething Tundra is an Object/Place with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Void, in the Echo Gardens of Zone D, kept on a tray in the deposit vault and counted under a fixed lamp at a marked distance.
-- **Recognition detail:** Identify it by the tears and the temperature. The shard is palm-sized, clear-white, cold in a warm room and never warmer, transparent even while holding what it holds, and shot through with tears frozen mid-fall rather than at rest. It glows under moonlight, which is when the count is taken.
+- **Recognition detail:** Identify it by the tears and the temperature. The shard is palm-sized, clear-white, cold in a warm room and never warmer, transparent even while holding what it holds, and shot through with tears frozen mid-fall rather than at rest. It glows under moonlight — the first survey was at night — but the count itself is taken under the standard lamp.
 - **Record detail:** Check the designation before approach. The archive holds other records about objects left behind by grief, and they differ at the root — the Apocrypha concerns effects the dead left and requires that their meaning be written, while this concerns a thing the living made to hold a feeling in, and requires that the feeling be said instead.
 - **Containment detail:** It bleeds outward even unworked — but upward, not down: adjacent units read steadier near it, not worse, which is the one thing about this holding the Gardens has never been able to account for and has stopped trying to.
 ## Document Information
