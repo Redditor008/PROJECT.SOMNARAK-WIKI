@@ -27,7 +27,20 @@
       "C-IVγ-009",
       "O-IVδ-844"
     ],
-    "reviewed": {}
+    "reviewed": {
+      "C-IIβ-048": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_01_HUMS.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -1244,8 +1257,23 @@
     {
       "designation": "C-IIβ-048",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-048_Hums_노래하는_돌.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "Seventeen repairs (5 short / 12 careful). Hums is no longer a generally audible, vessel-destructible stone whose songs begin when it is struck or approached. Side A's five checkable conditions now govern Combat: still air, holding through one silent phrase, interruption, competing song/extraction demands, and Gauge ≥65% after three distinct interrupted songs. HELD with no fresh credit because Batch 139 already completed the exact SE-048 source review and awarded Weapon +1.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_01_HUMS.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-A__SIDE_CODEX_Hums.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-B__MAW-W_The_Singing_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-C__MAW-S_The_Singing_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-D__MAW-G_The_Singing_Pebble.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IIβ-051",

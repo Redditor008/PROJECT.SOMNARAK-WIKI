@@ -27,22 +27,22 @@
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Mental / emotional pressure |
+| **Primary pressure** | Clarity — keeping a heard song as music rather than becoming its unexamined conduit |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle, and here the cycle is defined by a change in the register rather than by time spent: the yield is taken when a song acquires a living carrier, and a session that produces an accurate transcription and no carrier returns nothing the file will bank. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β (Moderate) |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
+| **Vessel-Destructible** | No — fixed Object-Lament on open display; no vessel or destruction route is recorded |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Sit with the stone one listener at a time and learn what it sings. The reading falls below 25% when the song currently being sung has a living carrier who can perform it unaccompanied, and that carrier is reported by name; the two valid Work Types, Viderehan and Ferrehan, are the only approaches the record authorises, and a session that ends with a transcript instead of a singer has moved the register backwards. |
 
 ### Operational Notes
 
-- The sound is continuous and has no located source; on open display it is audible from the Gardens path.
-- A successful cycle lowers the volume for a shift. The pitch has never changed, and the entity is not diminished by work.
+- Ordinary activation addresses one emotionally resonant listener and is not a continuous public performance from the Gardens path. Only the overload condition—competing song demands or attempted separate extraction—expands subsonic pressure through the garden chamber.
+- A successful cycle is not a temporary change in volume or pitch. It is entered only when the song sung acquires a living carrier who can sing it unaccompanied; the Stone itself is not diminished and still holds the song.
 - Viderehan and Ferrehan are the valid approaches to the object, and on this file both mean the same task: sit through the song to the end and be able to sing it afterwards. The other two Work Types are not restricted here for the usual Object/Place reason alone; they are simply the wrong instruments. A song cannot be observed into being carried and it cannot be confronted into being carried, and the reading answers only to the second of those.
-- No breach counter applies. The audible field widens, and because the display is open the boundary is walked before any public session.
+- No breach counter applies. Ordinary sessions are not public and do not create a widening audible field; only competing demands or separate-melody extraction produce the chamber-wide Deep Tone, so the gallery is cleared to one listener before work begins.
 - Extraction is a separate authorization and carries the same auditory exposure.
 
 ## Combat Record
@@ -52,9 +52,9 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types. Neither figure has ever been reached in anger: the stone does not attack, and the two resistances are recorded because the encounter sheet has the field. What the encounter actually costs is attention, and attention has no resistance row. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Speed** | N/A — fixed object; output is measured by the song sung, the one listener addressed, and movement in the living-carrier register |
+| **Resistance** | 25% against Lament pressure; 15% against other pressure types. Neither figure has ever been reached in anger: the stone does not attack, and the two resistances are recorded because the encounter sheet has the field. The working safeguards are one listener in the room, no shaking/striking/covering or attempt to stop the song, no competing requests or separate-melody extraction, and the carrier register reported before any gauge claim. |
+| **Activation threshold** | Full Archive Wake at Sorrow Gauge ≥65% after three distinct songs have been interrupted |
 | **Sorrow Gauge [HP]** | 462/462 |
 | **Han Pressure [ATK]** | 9–22 per hit · Lament |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
@@ -79,11 +79,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Note* [**Debuff**] } | "The stone begins to hum — low, old, felt more in the chest than the ears." | [The Stone resonates; the target vibrates in sympathy.] | *Target suffers -10 Composure; the note is inside them now.* **[10 Lament DMG [Lament]]** | When the Stone is struck or approached. |
-| { *The Resonance* [**Debuff**] } | "The hum finds your frequency — and now you cannot stop singing along." | [The Stone locks onto the target; the resonance deepens.] | *Target loses 10 Composure; they cannot quiet the inner sound.* **[10 Lament DMG [Lament]]** | When the target stays within range. |
-| { *The Sharp Chord* [**Attack**] } | "The note sharpens to a point — and the point is aimed at you." | [A piercing chord lances out from the Stone.] | *Inflicts Lament pressure and one ringing wound.* **[14-22 Lament DMG [Lament]]** | When the Stone is disturbed. |
-| { *The Deep Tone* [**Attack**] } | "The stone drops to a register lower than hearing — and the weight of it is crushing." | [A subsonic tone bears down on the target; the stone is not attacking, it is being heard from too close, and the effect is the whole of a life's music arriving in one register.] | *A heavy Lament pressure; the target's Sorrow Gauge surges 15% and the 462 line is untouched, because nothing has been done to the stone.* **[24-36 Lament DMG [Lament]]** | When the session is run against the wrong listener — a crowd, or a worker who has been told what the song is. |
-| { *The Full Symphony* [**Ultimate**] } | "The stone sings every song it ever absorbed — a whole symphony of grief." | [The Stone releases its entire accumulated song, and the register is the one the file keeps: 281 songs heard, 44 with a living carrier, 6 in the hands of one person each.] | *All in range suffer Lament pressure for three turns in the symphony. The pressure falls in the district exactly as the register's carrier column rises, and rises again with every transcription that nobody takes up — the only combat figure on this sheet that is answered by paperwork.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%, which on this file means the songs have been left to the stone rather than learned from it. |
+| { *The First Note* [**Debuff**] } | "The stone begins to hum — low, old, felt more in the chest than the ears." | [One low tone identifies the nearest emotionally resonant listener; no second listener is addressed.] | *The identified listener suffers -10 Clarity as the first note settles inside them; the register records listener and song before any interpretation.* **[10 Lament DMG [Lament]]** | When local air movement falls below the active garden threshold. |
+| { *The Resonance* [**Debuff**] } | "The hum finds your frequency — and now you cannot stop singing along." | [The song links the silent listener to a dead singer or lost memory; it does not end merely because the listener walks away.] | *The listener loses 10 Clarity. If listening is abandoned rather than genuinely ended, the unfinished song leaves residue in dreams; recognition alone does not make the listener a carrier.* **[10 Lament DMG [Lament]]** | When the listener holds the Stone and remains silent through one full phrase. |
+| { *The Sharp Chord* [**Attack**] } | "The note sharpens to a point — and the point is aimed at you." | [A sharp chord cuts through the interruption; the interrupted phrase is not counted as learned.] | *Inflicts Lament pressure and one ringing wound to the interrupting listener. The session sheet records the interruption and does not enter a carrier unless the song is later sung back unaccompanied.* **[14-22 Lament DMG [Lament]]** | When the Stone is shaken, struck or covered, or the listener attempts to stop the song. |
+| { *The Deep Tone* [**Attack**] } | "The stone drops to a register lower than hearing — and the weight of it is crushing." | [Subsonic Lament pressure expands through the garden chamber while competing demands pull at separate melodies.] | *Heavy Lament pressure to personnel inside the chamber; no personnel Sorrow Gauge is inferred. Competing requests and extraction attempts stop, the room returns to one listener, and no carrier is entered from a divided hearing.* **[24-36 Lament DMG [Lament]]** | When multiple people demand different songs or attempt to extract separate melodies. |
+| { *The Full Symphony* [**Ultimate**] } | "The stone sings every song it ever absorbed — a whole symphony of grief." | [A three-turn choral field opens over the register's unresolved account: 281 songs heard, 44 with a living carrier, 6 in the hands of one person each.] | *All in range suffer Lament pressure for three turns. The Archive recorder remains present, and the close is still graded by named living carriers—not by the number of accurate transcriptions produced during the field.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥65% after three distinct songs have been interrupted. |
 
 ### Battle Phases
 
@@ -229,7 +229,7 @@ Escalation on this file is not an event with a boundary; it is the register goin
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** One listener only. This is not a limitation of the weapon; it is the entity, which has never addressed two people at once in two hundred years of display.
+**Falloff Rule:** Single designated target only; no secondary-target falloff is recorded for the Requiem.
 **Damage Application:** Record the strike and the aftertone separately. The Lament lands once; the song stays for days, and the medical office's interest is in the second figure.
 
 **Ability:** Lament damage to the mind. The requiem carries the stone's signature — a melody with nobody left to sing it — and what it opens in a target is the memory of a voice rather than of a person.
@@ -323,7 +323,7 @@ Songs heard from the stone since the register opened: two hundred and eighty-one
 "It was my grandmother's and it is not a nice song, it is about a man who drowns, and she sang it while she did the washing. I have not heard it since I was nine and I did not know I knew it. The thing I want written down is that your researcher asked me, straight away and before anything else, whether I would learn it — not whether I could identify it, not whether I would make a statement. I said yes. I have sung it to my daughter twice since. She finds it morbid. That is fine; it is in the world again and she knows it, and she will have it when I do not."
 
 **Entry 4 — <Recognised and Forgotten>**
-Personnel often recognize songs they believed forgotten.
+Personnel often recognize songs they believed forgotten, but recognition is only the first field on the sheet. The register then asks who the song belonged to, whether anybody living already carries it, and whether this listener can sing it back unaccompanied after the Stone stops. A recognised song that nobody takes away in memory remains with the 237 accurate transcriptions, not with the district.
 
 **Entry 5 — <Director's Memo, Eyes Only: On Songs With One Carrier>**
 The management condition of this record cannot be met by a procedure, an instrument, or a budget line. It requires people to learn songs by heart and go on knowing them, which means it requires the facility to care about what its staff carry out of the building and to keep asking after it for the rest of their lives. We have built a register for this, which is the thing we are good at, and the register's most honest column is the one headed carriers: one. Six songs sit in it. Each of those six is one retirement, one transfer or one accident away from going back to the stone, and the stone is the only place in the world they would then exist. This office has no mechanism for that and is not pretending to have one. The instruction is simply that where a song has a single carrier, a second is to be found within the year, and that the search is somebody's named responsibility and not everybody's general intention.
@@ -425,7 +425,7 @@ Some sorrows mourn the dead. Hums mourns their songs — the unfinished melodies
 
 ### It Sings in Still Air
 
-The stone performs when the air is quiet and sorrow is concentrated nearby, and the Warden's duty is to be present and to write down what is sung. Transcription is by hand and in the moment. Recording equipment was trialled early and the trial is documented: the devices captured the stone adequately and the Wardens stopped listening, which the file identifies as the reason the trial was ended.
+The stone performs when the air is quiet and sorrow is concentrated nearby, and the Warden's current duty is to be present without writing during the song. The sheet is completed afterward from memory, because in-the-moment transcription produced accurate records from listeners who could not sing what they had written. Recording equipment was trialled early and the trial is documented: the devices captured the stone adequately and the Wardens stopped listening, which the file identifies as the reason the trial was ended.
 
 ### The Songs Are Records
 

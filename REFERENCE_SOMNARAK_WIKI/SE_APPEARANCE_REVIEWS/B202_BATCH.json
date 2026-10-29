@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 202,
   "status": "OPEN",
-  "completed_units": 0,
+  "completed_units": 1,
   "required_units": 5,
   "queue": [
     {
@@ -42,6 +42,221 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 0,
-  "units": []
+  "completed": 1,
+  "units": [
+    {
+      "unit": 1,
+      "designation": "C-IIβ-048",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-048_Hums_노래하는_돌.md",
+      "words": 8808,
+      "sha256": "77860b84c1c53a3b6d646b95cb0df388e6ae12ba68283ff4e2d689751e5453c8",
+      "name": "Hums",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_01_HUMS.md",
+      "before_words": 8808,
+      "after_words": 9025,
+      "base": "4f1d11dd3c87fa2230eacb96aed2675ad09ca46f",
+      "final_sha256": "c14fcebad0855a9c3f319103633172db77c8cee2143f3b8fee611f33d93fcb7e",
+      "summary": "Seventeen repairs (5 short / 12 careful). Hums is no longer a generally audible, vessel-destructible stone whose songs begin when it is struck or approached. Side A's five checkable conditions now govern Combat: still air, holding through one silent phrase, interruption, competing song/extraction demands, and Gauge ≥65% after three distinct interrupted songs. HELD with no fresh credit because Batch 139 already completed the exact SE-048 source review and awarded Weapon +1.",
+      "commentary": "The practical test is unusually humane: preservation is not a better transcript but another living person who can carry the tune out of the room. The six one-carrier songs are more alarming than any damage number in the file.",
+      "reasoning": "R-34 audit before editing. Identity is direct SE-048: Side A prints `C-IIβ-048 [LO]`, Object/Place—Object-Lament, II/β, Lament, Echo Gardens and Comprehension 3—Understood; B/C/D carry `MAW-W/S/G-048-01`. The primary's dominant mechanism is precise and was retained: one listener hears a dead singer's song, and the reading falls only when that listener can sing it unaccompanied and is entered by name in the carrier register (281 heard, 44 carried, 6 with one carrier, 237 transcribed and unsung). Repairs removed vessel/Han Dust and public/per-turn output language; aligned pressure and threshold; and rebuilt all five Combat Actions from Side A's Song Activation Protocol. The current Watch duty now matches the no-writing-during-song protocol, and the Requiem's falloff is its exact Single pattern rather than the entity's one-listener behaviour. All parsed table blocks are equal and every Trigger cell parses under Trigger.",
+      "history": "Draft/local history: songs whose last singers died sank through Echo Gardens soil rather than wholly into the Weeping and took the form of one warm stone. The carrier register, not a case or seal, is the containment instrument. Fresh credit BARRED: Batch 139 unit 5 already read the full primary and exact SE-048-A-D with Master M.A.W. entries 103–105, Tale 35, Entity Codex, Registry CSV rows 90–93 and archetype; it compared all three equipment pieces and explicitly recorded Weapon +1. No new `equipment_reviews` entry is appended, so Types and Weapon do not move.",
+      "holds": [
+        "Name fork: primary/Side A Hums versus Master/Tale The Singing Stone. Held.",
+        "Stone/song-state fork: primary dark stone holding songs at an unfinished note versus Tale's blue stone and passages implying completed songs whose living carriers were lost. Held.",
+        "Comprehension/work fork: primary 3—Advanced with Viderehan/Ferrehan versus Side A 3—Understood and the old Tale record's 2—Basic/Flerehan-only handling. Held.",
+        "Equipment form/function forks: exact deep-blue grooved blade, non-muting tempo shroud and responsive Pebble versus primary river-stone pommel, muffling/anhedonia shroud and warmth-led Pebble; remembered-source and genuine-quiet costs versus primary unwept-grief and music-as-information costs. Held.",
+        "Set-resonance fork: Side A Last Verse preserves a stable Archive Echo after an uninterrupted complete song, while the primary insists an archive record is not a living carrier. Held."
+      ],
+      "split": [
+        5,
+        12
+      ],
+      "repairs": [
+        {
+          "id": "R01-primary-pressure-clarity",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — keeping a heard song as music rather than becoming its unexamined conduit |"
+        },
+        {
+          "id": "R02-vessel-no",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — fixed Object-Lament on open display; no vessel or destruction route is recorded |"
+        },
+        {
+          "id": "R03-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R04-speed-register-output",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | N/A — fixed object; output is measured by the song sung, the one listener addressed, and movement in the living-carrier register |"
+        },
+        {
+          "id": "R05-threshold-full-archive-wake",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Activation threshold** | Sorrow Gauge ≥ 60% |",
+          "new": "| **Activation threshold** | Full Archive Wake at Sorrow Gauge ≥65% after three distinct songs have been interrupted |"
+        },
+        {
+          "id": "R06-resistance-safeguards",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 25% against Lament pressure; 15% against other pressure types. Neither figure has ever been reached in anger: the stone does not attack, and the two resistances are recorded because the encounter sheet has the field. What the encounter actually costs is attention, and attention has no resistance row. |",
+          "new": "| **Resistance** | 25% against Lament pressure; 15% against other pressure types. Neither figure has ever been reached in anger: the stone does not attack, and the two resistances are recorded because the encounter sheet has the field. The working safeguards are one listener in the room, no shaking/striking/covering or attempt to stop the song, no competing requests or separate-melody extraction, and the carrier register reported before any gauge claim. |"
+        },
+        {
+          "id": "R07-operational-note-one-listener",
+          "kind": "careful operational correction",
+          "careful": true,
+          "old": "- The sound is continuous and has no located source; on open display it is audible from the Gardens path.",
+          "new": "- Ordinary activation addresses one emotionally resonant listener and is not a continuous public performance from the Gardens path. Only the overload condition—competing song demands or attempted separate extraction—expands subsonic pressure through the garden chamber."
+        },
+        {
+          "id": "R08-operational-note-carrier-success",
+          "kind": "careful operational correction",
+          "careful": true,
+          "old": "- A successful cycle lowers the volume for a shift. The pitch has never changed, and the entity is not diminished by work.",
+          "new": "- A successful cycle is not a temporary change in volume or pitch. It is entered only when the song sung acquires a living carrier who can sing it unaccompanied; the Stone itself is not diminished and still holds the song."
+        },
+        {
+          "id": "R09-first-note-still-air",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The First Note* [**Debuff**] } | \"The stone begins to hum — low, old, felt more in the chest than the ears.\" | [The Stone resonates; the target vibrates in sympathy.] | *Target suffers -10 Composure; the note is inside them now.* **[10 Lament DMG [Lament]]** | When the Stone is struck or approached. |",
+          "new": "| { *The First Note* [**Debuff**] } | \"The stone begins to hum — low, old, felt more in the chest than the ears.\" | [One low tone identifies the nearest emotionally resonant listener; no second listener is addressed.] | *The identified listener suffers -10 Clarity as the first note settles inside them; the register records listener and song before any interpretation.* **[10 Lament DMG [Lament]]** | When local air movement falls below the active garden threshold. |"
+        },
+        {
+          "id": "R10-resonance-full-phrase",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Resonance* [**Debuff**] } | \"The hum finds your frequency — and now you cannot stop singing along.\" | [The Stone locks onto the target; the resonance deepens.] | *Target loses 10 Composure; they cannot quiet the inner sound.* **[10 Lament DMG [Lament]]** | When the target stays within range. |",
+          "new": "| { *The Resonance* [**Debuff**] } | \"The hum finds your frequency — and now you cannot stop singing along.\" | [The song links the silent listener to a dead singer or lost memory; it does not end merely because the listener walks away.] | *The listener loses 10 Clarity. If listening is abandoned rather than genuinely ended, the unfinished song leaves residue in dreams; recognition alone does not make the listener a carrier.* **[10 Lament DMG [Lament]]** | When the listener holds the Stone and remains silent through one full phrase. |"
+        },
+        {
+          "id": "R11-sharp-chord-interruption",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Sharp Chord* [**Attack**] } | \"The note sharpens to a point — and the point is aimed at you.\" | [A piercing chord lances out from the Stone.] | *Inflicts Lament pressure and one ringing wound.* **[14-22 Lament DMG [Lament]]** | When the Stone is disturbed. |",
+          "new": "| { *The Sharp Chord* [**Attack**] } | \"The note sharpens to a point — and the point is aimed at you.\" | [A sharp chord cuts through the interruption; the interrupted phrase is not counted as learned.] | *Inflicts Lament pressure and one ringing wound to the interrupting listener. The session sheet records the interruption and does not enter a carrier unless the song is later sung back unaccompanied.* **[14-22 Lament DMG [Lament]]** | When the Stone is shaken, struck or covered, or the listener attempts to stop the song. |"
+        },
+        {
+          "id": "R12-deep-tone-competing-demands",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Deep Tone* [**Attack**] } | \"The stone drops to a register lower than hearing — and the weight of it is crushing.\" | [A subsonic tone bears down on the target; the stone is not attacking, it is being heard from too close, and the effect is the whole of a life's music arriving in one register.] | *A heavy Lament pressure; the target's Sorrow Gauge surges 15% and the 462 line is untouched, because nothing has been done to the stone.* **[24-36 Lament DMG [Lament]]** | When the session is run against the wrong listener — a crowd, or a worker who has been told what the song is. |",
+          "new": "| { *The Deep Tone* [**Attack**] } | \"The stone drops to a register lower than hearing — and the weight of it is crushing.\" | [Subsonic Lament pressure expands through the garden chamber while competing demands pull at separate melodies.] | *Heavy Lament pressure to personnel inside the chamber; no personnel Sorrow Gauge is inferred. Competing requests and extraction attempts stop, the room returns to one listener, and no carrier is entered from a divided hearing.* **[24-36 Lament DMG [Lament]]** | When multiple people demand different songs or attempt to extract separate melodies. |"
+        },
+        {
+          "id": "R13-full-symphony-three-interruptions",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Symphony* [**Ultimate**] } | \"The stone sings every song it ever absorbed — a whole symphony of grief.\" | [The Stone releases its entire accumulated song, and the register is the one the file keeps: 281 songs heard, 44 with a living carrier, 6 in the hands of one person each.] | *All in range suffer Lament pressure for three turns in the symphony. The pressure falls in the district exactly as the register's carrier column rises, and rises again with every transcription that nobody takes up — the only combat figure on this sheet that is answered by paperwork.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%, which on this file means the songs have been left to the stone rather than learned from it. |",
+          "new": "| { *The Full Symphony* [**Ultimate**] } | \"The stone sings every song it ever absorbed — a whole symphony of grief.\" | [A three-turn choral field opens over the register's unresolved account: 281 songs heard, 44 with a living carrier, 6 in the hands of one person each.] | *All in range suffer Lament pressure for three turns. The Archive recorder remains present, and the close is still graded by named living carriers—not by the number of accurate transcriptions produced during the field.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥65% after three distinct songs have been interrupted. |"
+        },
+        {
+          "id": "R14-story-entry4-recognition-carrier",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "**Entry 4 — <Recognised and Forgotten>**\nPersonnel often recognize songs they believed forgotten.",
+          "new": "**Entry 4 — <Recognised and Forgotten>**\nPersonnel often recognize songs they believed forgotten, but recognition is only the first field on the sheet. The register then asks who the song belonged to, whether anybody living already carries it, and whether this listener can sing it back unaccompanied after the Stone stops. A recognised song that nobody takes away in memory remains with the 237 accurate transcriptions, not with the district."
+        },
+        {
+          "id": "R15-watch-record-after-song-sheet",
+          "kind": "careful watch correction",
+          "careful": true,
+          "old": "The stone performs when the air is quiet and sorrow is concentrated nearby, and the Warden's duty is to be present and to write down what is sung. Transcription is by hand and in the moment. Recording equipment was trialled early and the trial is documented: the devices captured the stone adequately and the Wardens stopped listening, which the file identifies as the reason the trial was ended.",
+          "new": "The stone performs when the air is quiet and sorrow is concentrated nearby, and the Warden's current duty is to be present without writing during the song. The sheet is completed afterward from memory, because in-the-moment transcription produced accurate records from listeners who could not sing what they had written. Recording equipment was trialled early and the trial is documented: the devices captured the stone adequately and the Wardens stopped listening, which the file identifies as the reason the trial was ended."
+        },
+        {
+          "id": "R16-weapon-single-falloff",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Falloff Rule:** One listener only. This is not a limitation of the weapon; it is the entity, which has never addressed two people at once in two hundred years of display.",
+          "new": "**Falloff Rule:** Single designated target only; no secondary-target falloff is recorded for the Requiem."
+        },
+        {
+          "id": "R17-operational-note-no-public-field",
+          "kind": "careful operational correction",
+          "careful": true,
+          "old": "- No breach counter applies. The audible field widens, and because the display is open the boundary is walked before any public session.",
+          "new": "- No breach counter applies. Ordinary sessions are not public and do not create a widening audible field; only competing demands or separate-melody extraction produce the chamber-wide Deep Tone, so the gallery is cleared to one listener before work begins."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIβ-048_Hums_노래하는_돌.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.020  clean   708 grams  M.A.W. Equipment\n 0.008  clean   826 grams  Combat Record\n 0.007  clean   296 grams  Operational Parameters\n 0.003  clean   361 grams  기록 (Registrum)\n 0.003  clean   391 grams  관찰 기록 (Observation Log)\n 0.002  clean  1246 grams  감각 묘사 (Flavor Text)\n 0.000  clean   673 grams  Activation Behavior\n 0.000  clean   447 grams  이야기 보고 (Story Log)\n 0.000  clean   394 grams  이야기 (Narratio)\n 0.000  clean   258 grams  Appearance\n 0.000  clean   251 grams  Watch Record\n 0.000  clean   201 grams  Origin\n 0.000  clean   195 grams  Behavior\n 0.000  clean   187 grams  Trivia\n 0.000  clean   114 grams  최종 관찰 (Final Observation)\n 0.000  clean    47 grams  SECC Classification\n 0.000  clean    42 grams  증언 (Testimonium)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle, and here the cycle is defined by a change in the register rat\n   56   1  | **Resistance** | 25% against Lament pressure; 15% against other pressure types. Neither figure has ever been reached in anger: t\n   86   6  | { *The Full Symphony* [**Ultimate**] } | \"The stone sings every song it ever absorbed — a whole symphony of grief.\" | [A three-t\n  222   1  **Appearance:** a slender blade of Lament Han-crystal, no wider than two fingers, with a faint internal glow that tracks the note \n  235   2  **Ability:** Lament damage to the mind. The requiem carries the stone's signature — a melody with nobody left to sing it — and wha\n  243   1  **Appearance:** a wrapping shroud of Lament Han-silk in the stone's own dark grey, worn over the shoulders and belted at the waist\n  253   5  **Ability:** Turns Lament aside from the mind, which is the only pressure this post produces. Under the shroud a worker can sit th\n  255   1  **Cost:** The wearer goes numb to small pleasures first — food, weather, the end of a shift — and then to music, which they begin \n  286   4  **Stat interpretation:** Field performance and human cost are separate axes and neither is the point of this post. What the grades\n  311   1  **Observation method:** Record the first sign, which is warmth under the hand; the first sensation, which is recognition; the song\n  365   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  423   1  **Review requirement:** Re-verify after any Sorrow Tide, any expansion, and the death, retirement or transfer of any person listed\nGENERIC 0.004  (27 shared shingles)  SE-C-IIβ-048_Hums_노래하는_돌.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-A__SIDE_CODEX_Hums.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-B__MAW-W_The_Singing_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-C__MAW-S_The_Singing_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-D__MAW-G_The_Singing_Pebble.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-A__SIDE_CODEX_Hums.md": "63a12b2a22e4035e35bab6171d749dd61bebbb28d435480268af9cff192fe662",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-B__MAW-W_The_Singing_Requiem.md": "54e49fe00ec3f08a7e8910b2c59acda2128891f5322f75d300dc321a0b3e986a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-C__MAW-S_The_Singing_Shroud.md": "28b7d1e0b36393f5a75937f6659c26b13a0ff9ac7cdf8b384284fbb1a02a28dd",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-D__MAW-G_The_Singing_Pebble.md": "2c8a8aa67f86f2897c73c12f7ad99c7f1dc60affe4a15555023b0cc5e002a441"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIβ-048_Hums_노래하는_돌](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-048_Hums_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%8F%8C.md \"SE-C-IIβ-048_Hums_노래하는_돌.md\")]",
+      "table_link": "[[C-IIβ-048 Hums](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-048_Hums_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%8F%8C.md \"SE-C-IIβ-048_Hums_노래하는_돌.md\")]",
+      "reading": {
+        "before_lines": 461,
+        "before_bytes": 51959,
+        "final_lines": 461,
+        "final_bytes": 53686
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 10,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The unsupported β Han Dust range and Deep Tone's invented personnel 15% Sorrow Gauge surge were removed. The Core activation threshold changed from ≥60% to Side A's Full Archive Wake condition, ≥65% after three distinct interrupted songs."
+      }
+    }
+  ]
 }
