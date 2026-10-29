@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 207,
   "status": "OPEN",
-  "completed_units": 0,
+  "completed_units": 1,
   "required_units": 5,
   "queue": [
     {
@@ -52,6 +52,245 @@
     }
   ],
   "opened_at": "2026-10-30",
-  "completed": 0,
-  "units": []
+  "completed": 1,
+  "units": [
+    {
+      "unit": 1,
+      "designation": "C-IIβ-565",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-565_Broken_Well_부서진_우물.md",
+      "words": 7933,
+      "sha256": "8440b3414abfa47307ef7edcc8603cc1308a32cd07589e9b0112c4a4cb40c65c",
+      "prior_batch": 149,
+      "shape": "Subject",
+      "name": "Broken Well",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_01_BROKEN_WELL.md",
+      "before_words": 7933,
+      "after_words": 8373,
+      "base": "8ec95fe4c74787b14c1a701c3911ea26e0d3408c",
+      "final_sha256": "a93420ab2058f298fd450a94181ba48f69c2f491ce77b036e0228880bd923e90",
+      "summary": "Rechecked Broken Well under R-34 with the owner appearance lens: the current body is a half-flesh, half-mist mother inseparable from a dry rim above a 1.1 m walkable floor, her tears landing as dust. Nineteen repairs remove the invented travel speed and vessel dust, rewrite the five combat rows so they act through reported depth, returned voices and rim-hardening rather than tainted water, a geyser or demolition, restore the exact-source Fang/Plate/Lantern safety mechanics, and separate recorded Pugnahan response from authorization. Credit stays +0; the dossier remains HELD.",
+      "commentary": "The Tale's historical well was wet and deep; the present holding is dry, floored and fixed. The combat record had imported the accident's water into the current body, so every row now works through the thing observers actually report — depth that the plumb line refuses — and the equipment keeps its source order: verify the void, anchor at the true edge, cut only along a confirmed route. Nobody speeds anywhere, nothing erupts, and nobody descends.",
+      "reasoning": "Appearance first: half flesh, half mist, joined to the rim, dust tears, 1.1 m floor — so water attacks, 1.45 m/s travel and 10–100 kg vessel dust are body errors, not flavour.\n\nTriggers now name checkable conditions at the rim (leaning and looking down, lingering while a name returns, force against the rim, reported-depth spread past four metres, and the ≥60% activation threshold during transformation) instead of approach/linger/struck/demolished templates.\n\nExact SE-565 sources govern the set: Rim Cut needs a confirmed living target and verified surface route, True-Edge Brace needs a marked boundary and named recall partner, and Understructure Light treats a blank reading as safety information.",
+      "history": "Prior review B149 (7,670→7,933 words) restored the stationary Subject and dry-floor bridge and left the water/speed/threshold conflicts open. This recheck re-read the whole 459-line primary, B149 evidence and SE-565-A/B/C/D in full before repairing.",
+      "holds": [
+        "Present tears/dust fall downward in the primary while Side Codex A describes upward dust, and confirmed sightings at other loss sites still sit against a figure inseparable from this rim. No travelling or additional body is certified.",
+        "The primary in-place event (45%, +10% per person drawn) and the Side transformation breach (40%, +10% per turn) remain two workings of one record; neither threshold family was normalized.",
+        "The Watch Record's dark-water reflection at the \"bottom\" stands against the 1.1 m dry floor, and the Tale's daughter against the legal record's him/he. Both source conflicts are held, not harmonized.",
+        "Broken Well (primary) versus Upwell (Side/items), dark versus crimson item appearance, and the Plate's \"lowest-rated\" wording against the all-α set remain unreconciled naming/appearance holds."
+      ],
+      "split": [
+        7,
+        12
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-resilience",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Physical / structural pressure |",
+          "new": "| **Primary pressure** | Resilience — trust in the floor underfoot and in one's own judgement about depth |"
+        },
+        {
+          "id": "R02-valid-work-authorised",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Flerehan, Viderehan and Ferrehan authorized. Pugnahan has a recorded response — the rim hardens and the gauge rises — and is prohibited. |"
+        },
+        {
+          "id": "R03-speed-rim-joined",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | 1.45 m/s |",
+          "new": "| **Speed** | Not established for travel — the observed figure remains joined to the rim; leaning and turning there are not locomotion |"
+        },
+        {
+          "id": "R04-vessel-no-dust",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |\n| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |",
+          "new": "| **Vessel-Destructible** | No — she is inseparable from the rim, and force against the rim is prohibited |\n| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R05-resistance-depth-spread",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 25% against Grudge pressure; 15% against other pressure types — and the second figure has never been reached here, because she does not act until somebody leans over the rim. |",
+          "new": "| **Resistance** | 25% against Grudge pressure; 15% against other pressure types as formal ratings. Working protection is the rail: a tethered crew of three, every reported depth entered separately against the 1.1 m plumb reading, and the session closed from the doorway once the spread passes four metres. Nobody descends, lowers a rope or answers a returned voice. |"
+        },
+        {
+          "id": "R06-tainted-look-down",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Tainted Water* [**Debuff**] } | \"The well is cracked — and what seeps from the break is not water. It is old, thick, and angry.\" | [The Well's corrupted output contaminates the ground; the target steps in it.] | *Target suffers -10 Resilience; the corruption is spreading.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Well. |",
+          "new": "| { *The Tainted Water* [**Debuff**] } | \"There is no water in it. There is dust where her tears land, and a floor your eyes refuse.\" | [Looking down creates the sensation of continuing somebody else's search; the measured floor stays at 1.1 metres.] | *The worker suffers -10 Resilience. Step back behind the rail and give the depth as their own separate reading, never averaged into the crew's.* **[10 Grudge DMG [Grudge]]** | When a worker leans over the rim and looks down. |"
+        },
+        {
+          "id": "R07-poisoned-returned-voice",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Poisoned Source* [**Debuff**] } | \"Everything that drew from this well is tainted now — including you, just by being near it.\" | [The Well's broken source radiates resentment; everything nearby is spoiled.] | *Target loses 10 Resilience; they feel tainted by proximity.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |",
+          "new": "| { *The Poisoned Source* [**Debuff**] } | \"Everything that drew from this well is tainted now — including you, just by being near it.\" | [Nothing radiates and nothing is drawn. What settles on a lingering listener is the mother's unanswered calling, returned in a familiar voice.] | *The worker loses 10 Resilience. Rotate listeners frequently, answer the mother rather than the echo below, and never lower a rope toward a voice.* **[10 Grudge DMG [Grudge]]** | When a worker remains at the rim listening while a name is returned from the opening. |"
+        },
+        {
+          "id": "R08-geyser-force-response",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Corrupted Geyser* [**Attack**] } | \"A geyser of black, bitter water erupts from the crack.\" | [A blast of tainted well-water strikes.] | *Inflicts Grudge pressure and one stinging, contaminated wound.* **[14-22 Grudge DMG [Grudge]]** | When the Well is struck. |",
+          "new": "| { *The Corrupted Geyser* [**Attack**] } | \"Nothing erupts. The rim hardens under your hand and the floor stops agreeing with your feet.\" | [Force cannot produce water from a dry opening. Under Pugnahan the rim hardens, the reported depth jumps, and the figure strikes at whoever is nearest the edge.] | *Heavy Grudge pressure on Resilience. Withdraw behind the rail on tether, stop all force, and re-read the depths separately before anybody leans again.* **[14-22 Grudge DMG [Grudge]]** | When force is used against the rim or figure. |"
+        },
+        {
+          "id": "R09-full-break-depth-spread",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Break* [**Attack**] } | “The rim opens the whole width of the floor, and out of it comes every grief ever carried to the rail.” | [The opening stops being a hole and becomes the sector's floor, all of it rim.] | *A heavy Grudge deluge; the target's Sorrow Gauge surges 15% as the floor reads as edge.* **[24-36 Grudge DMG [Grudge]]** | When the Well is demolished. |",
+          "new": "| { *The Full Break* [**Attack**] } | “The rim opens the whole width of the floor, and out of it comes every grief ever carried to the rail.” | [The opening stops being a hole and becomes the sector's floor, all of it rim.] | *A heavy Grudge load as flat ground reads as edge. The clock-holder closes the session from the doorway; establish one true edge with three rim anchors outside the transformed ground, and complete nobody's search by descending.* **[24-36 Grudge DMG [Grudge]]** | When the spread between reported depths passes four metres during transformation in place. |"
+        },
+        {
+          "id": "R10-ultimate-true-edge",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Every Well Breaks* [**Ultimate**] } | “Every dry opening in Old Lament answers at once, and each one answers in her voice.” | [The spread passes to every source and every collapsed foundation in reach.] | *All in range take Grudge pressure for three turns of tainted water.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *Every Well Breaks* [**Ultimate**] } | “Every dry opening in Old Lament answers at once, and each one answers in her voice.” | [The transformed ground produces concentric openings and imagined depths; every dry mouth in reach seems to answer, and none of them holds water.] | *All in range take Grudge pressure on Resilience for three turns. Hold three rim anchors outside the transformed ground, read the search findings aloud to halt the draw, rotate listeners, and restore one true edge rather than completing the search.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥60% activation threshold during transformation in place. |"
+        },
+        {
+          "id": "R11-consequences-distinct-costs",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- The Broken Well equipment lends the wearer her endurance at an edge and takes the ability to stop looking for something. Every wielder's debrief has recorded a search of their own resumed.",
+          "new": "- The Broken Well equipment charges by the station it serves: the Fang aches old wounds and bruises its wielder toward rescue fixation, the Plate dulls reflexes and makes ending a search feel like cruelty, and the Lantern fills its glass with failed rescues until the bearer checks safe ground for people already lost."
+        },
+        {
+          "id": "R12-fang-rim-cut",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Deals Grudge damage against the Body — physical form and structural integrity — in the way this holding deals it: not a strike but a floor giving way under a committed step, which is what the weapon leaves the target standing on.",
+          "new": "**Ability:** *Rim Cut* — deals Grudge damage against the Body — physical form and structural integrity — only by severing unstable material or a phantasmal barrier along a verified surface path to a confirmed living target. Binding requires both that target and that route; a downward cut toward an unbodied voice curves back toward the wielder's oldest scar, and the blade cools at the true edge between attacks. It never damages the hidden space itself."
+        },
+        {
+          "id": "R13-plate-true-edge",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Wards the Body — physical form and structural integrity — against Grudge pressure and against nothing else; the plate was cut for one holding's kind of pressure and the record shows no other use for it.",
+          "new": "**Ability:** *True-Edge Brace* — wards the Body — physical form and structural integrity — against Grudge pressure by anchoring one foot and the pelvis outside a verified opening. It binds only after the wearer marks a physical boundary and names the colleague responsible for calling them back. It does not prevent voluntary descent; it forces the wearer to feel the boundary being chosen, and contracts if they cross while claiming they were pulled."
+        },
+        {
+          "id": "R14-lantern-verified-cavities",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Reveals hidden spaces beneath structures.",
+          "new": "**Ability:** *Understructure Light* — reveals cavities, collapsed passages and concealed structural spaces as clean contours. A living signal reads steady only when independently verified; the Lantern cannot locate a soul, memory or phantasmal voice, and a blank reading is active safety information, never equipment failure. Naming a dead person as the current target makes it assemble a false route from every place they were not found."
+        },
+        {
+          "id": "R15-use-notes-search-without-descent",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Nothing in this set equips a worker against the Well; each piece is the holding in small, and each one takes what the holding takes — old wounds aching, bruising after a long watch, reactions gone slow at an edge — and the Armoury enters the symptom against the wielder rather than the piece. The grade records how stably the extraction took and nothing about the cost column beside it.",
+          "new": "*Search Without Descent* is the set's ordering rule: the Lantern identifies a real void, the Plate anchors the searcher outside it, and the Fang clears only unsafe material between the team and a confirmed living signal. Follow a false call and the costs stop being separate — grief overlays the present cavity with her well and pulls at the bearer — so the Armoury enters which failure arrived, and against whom, rather than treating the set as one pooled wound."
+        },
+        {
+          "id": "R16-appearance-note-current",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "The dry-floor account does not reconcile tainted-water and geyser attacks, the Watch Record's dark-water bottom, or the speed figure with never leaving the rim. Confirmed sightings at other loss sites also lack a supplied relationship to the inseparable local figure. Side Codex A describes upward dust and its own transformation response; neither establishes a new water-bearing body, a travelling mother or a recovered voice. These remain source conflicts, not additional states certified by this profile.",
+          "new": "The combat record now records the same dry limit rather than breaking it: no tainted water seeps, no geyser erupts, and no travel speed is claimed for a figure joined to the rim. What remains unreconciled is the Watch Record's dark-water bottom, confirmed sightings at other loss sites, Side Codex A's upward dust, and the two transformation/threshold accounts. None of those establishes a new water-bearing body, a travelling mother or a recovered voice; they remain source conflicts, not additional states certified by this profile."
+        },
+        {
+          "id": "R17-response-pugnahan-not-authorised",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "| **Recommended response** | Work from the rail, tethered, with the annual search finding to hand. Flerehan and Ferrehan lower the gauge; Pugnahan hardens the rim and is prohibited. This is a Subject and all four Work Types are valid. |",
+          "new": "| **Recommended response** | Work from the rail, tethered, with the annual search finding to hand. Flerehan and Ferrehan lower the gauge; Viderehan holds it. Pugnahan hardens the rim and is prohibited — a recorded response is not an authorized approach. |"
+        },
+        {
+          "id": "R18-work-notes-authorised",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Grudge expression, fixed at the rim of a dry opening in Old Lament, Zone B. All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan raises it and hardens the rim; the earlier entry naming Pugnahan as primary is an error and is corrected here.",
+          "new": "Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Grudge expression, fixed at the rim of a dry opening in Old Lament, Zone B. All four Work Types have recorded responses, but only Flerehan, Viderehan and Ferrehan are authorized. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan raises it and hardens the rim; the earlier entry naming Pugnahan as primary is an error and is corrected here."
+        },
+        {
+          "id": "R19-trivia-work-responses",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- **Classification detail:** Broken Well is a Subject with Echo (II) coherence and Moderate (β) potency; the class is why all four Work Types are valid and why the hazard acts on the worker's judgement rather than on the structure.",
+          "new": "- **Classification detail:** Broken Well is a Subject with Echo (II) coherence and Moderate (β) potency; the class is why all four Work Types have recorded responses — though Pugnahan is prohibited — and why the hazard acts on the worker's judgement rather than on the structure."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIβ-565_Broken_Well_부서진_우물.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.034  clean   116 grams  Behavior\n 0.032  clean   124 grams  Operational Parameters\n 0.029  clean   882 grams  M.A.W. Equipment\n 0.014  clean   554 grams  감각 묘사 (Flavor Text)\n 0.011  clean   726 grams  Combat Record\n 0.010  clean  1252 grams  Watch Record\n 0.008  clean   381 grams  기록 (Registrum)\n 0.006  clean   170 grams  Containment Event Behavior\n 0.002  clean   433 grams  Appearance\n 0.000  clean   452 grams  이야기 (Narratio)\n 0.000  clean   272 grams  관찰 기록 (Observation Log)\n 0.000  clean   261 grams  이야기 보고 (Story Log)\n 0.000  clean   176 grams  Trivia\n 0.000  clean   149 grams  Origin\n 0.000  clean   118 grams  최종 관찰 (Final Observation)\n 0.000  clean    44 grams  SECC Classification\n 0.000  clean    42 grams  증언 (Testimonium)\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   37   2  | **Recommended response** | Work from the rail, tethered, with the annual search finding to hand. Flerehan and Ferrehan lower the\n   55   1  | **Resistance** | 25% against Grudge pressure; 15% against other pressure types as formal ratings. Working protection is the rail\n   85   7  | { *Every Well Breaks* [**Ultimate**] } | “Every dry opening in Old Lament answers at once, and each one answers in her voice.” |\n  122   1  | **Identification** | Confirm before Work or contact: designation C-IIβ-565 `[D]`, Grudge expression, Subject-Phantasmal manifest\n  154   4  Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Grudge expression, fixed at the rim of a dry opening\n  174   1  - **Sorrow Gauge on event:** Opens at 45% and rises 10% per person drawn toward the depths; the draw is halted by reading the sear\n  184   3  **Appearance:** a fang-curved blade of Grudge Han-iron, dark, that sits heavy in the hand at the rail and weeps a thin film of Han\n  192   1  **Ability:** *Rim Cut* — deals Grudge damage against the Body — physical form and structural integrity — only by severing unstable\n  200   2  **Appearance:** a plated harness of Grudge Han-iron, dark, that tightens along the ribs when the wearer comes within sight of the \n  238   1  | **Before use** | Wielder, piece, gauge at issue, and a sealed baseline taken against the set's known toll — old wounds aching un\n  243   1  **Stat interpretation:** The grade records how cleanly the grief came off the holding; the cost column records what the bearer tak\n  245  18  **Full-set source review (2026-10-11):** Reviewed the Tool/M.A.W. grade overview, all three local item blocks, Use Notes, Field Us\n  315   1  This holding is read against the other things in Old Lament that hold a loss underground. Each relation below has been observed an\n  317   6  **Interaction method:** Baseline each party alone across several sessions before any paired approach, with the crew of three and s\n  330   1  **Interaction procedure:** First alone, then together, with the solo baseline as the control for every pairing; then the first sha\n  372   3  **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone); the annual search is run by the wing itself und\n  438  13  The objection is minuted at every annual review and is raised by the Wardens' representative. It holds that compelled speech of th\nGENERIC 0.011  (68 shared shingles)  SE-C-IIβ-565_Broken_Well_부서진_우물.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_03_BROKEN_WELL.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-A__SIDE_CODEX_Upwell.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-B__MAW-W_Upwell_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-C__MAW-S_Upwell_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-D__MAW-G_Upwell_Lantern.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_03_BROKEN_WELL.md": "83bde31a4c94cf91e82f1b773b7441479e0953307caaab71aef307c2852b2823",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-A__SIDE_CODEX_Upwell.md": "e28e2a5f204b14f66695eeb6178fe37018f9edf17d5b289b4064ac6014d0a017",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-B__MAW-W_Upwell_Fang.md": "c505bf762107eb73e6fc9e0ebdb4ac39e6b9dee310a2a1feffea11da5311f1b5",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-C__MAW-S_Upwell_Plate.md": "b1ffbf0a4b03e4dd7900a0121e97764ada20030317604b766790be5d21b987a1",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-D__MAW-G_Upwell_Lantern.md": "f10602591d0ea64739ed8844d218f16859bf0bb985f952217efbb8e158cb4757",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIβ-565_Broken_Well_부서진_우물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-565_Broken_Well_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%9A%B0%EB%AC%BC.md \"SE-C-IIβ-565_Broken_Well_부서진_우물.md\")]",
+      "table_link": "[[C-IIβ-565 Broken Well](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-565_Broken_Well_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%9A%B0%EB%AC%BC.md \"SE-C-IIβ-565_Broken_Well_부서진_우물.md\")]",
+      "reading": "Whole primary before (459 lines) and whole final after; B149_03 evidence, SE-565-A/B/C/D, Master/Tales/Entity/CSV/archetype/disposition sources read from the ledger set. Combat Trigger cells parsed and read against the header; all table cell counts equal.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 231,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 11,
+        "digit_sequence_change": "Digits change only where unsupported mechanics were removed or thresholds aligned: 1.45 m/s and ~10 kg–100 kg removed as body errors; the Ultimate trigger moves from 65% to the file's own ≥60% activation threshold; the demolition surge figure leaves with the demolition. All other source numbers (1.1 m, four metres, 45%, equipment profiles) are preserved."
+      }
+    }
+  ]
 }

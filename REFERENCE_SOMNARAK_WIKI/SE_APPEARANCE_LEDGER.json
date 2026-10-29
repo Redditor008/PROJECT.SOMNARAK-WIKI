@@ -27,7 +27,20 @@
       "C-IIIγ-195",
       "O-IIIγ-412"
     ],
-    "reviewed": {}
+    "reviewed": {
+      "C-IIβ-565": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_01_BROKEN_WELL.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -1816,10 +1829,10 @@
       "designation": "C-IIβ-565",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-565_Broken_Well_부서진_우물.md",
       "status": "held",
-      "note": "Corrected stationaryMovement to motherfigure joined to rim, finished truncated EntityType sentence from exact event account, and changed present flavor from drippingwater to dust above measuredfloor. Added supported historical wetshaft/currentdryfloor bridge and distinguished imagineddepth, effectspread and equipmentimages from actualcavity/recoveredchild; recorded remaining physical conflicts.",
-      "outcome": "unresolved whole-file logical relationship",
-      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_03_BROKEN_WELL.md",
+      "note": "Rechecked Broken Well under R-34 with the owner appearance lens: the current body is a half-flesh, half-mist mother inseparable from a dry rim above a 1.1 m walkable floor, her tears landing as dust. Nineteen repairs remove the invented travel speed and vessel dust, rewrite the five combat rows so they act through reported depth, returned voices and rim-hardening rather than tainted water, a geyser or demolition, restore the exact-source Fang/Plate/Lantern safety mechanics, and separate recorded Pugnahan response from authorization. Credit stays +0; the dossier remains HELD.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_01_BROKEN_WELL.md",
       "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_03_BROKEN_WELL.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-A__SIDE_CODEX_Upwell.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-B__MAW-W_Upwell_Fang.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-C__MAW-S_Upwell_Plate.md",
@@ -10123,6 +10136,14 @@
       "batch": 206,
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_05_LETTER_NEVER_SENT.md",
       "history_proof": "No SE-114 A/B/C/D side set, Registry row or archetype exists for C-Iα-114 (verified by directory search this unit, as in B166); the three pieces live only inside this primary docket, so no exact-source Types or Weapon credit can be earned or inherited.",
+      "all_types_credit": false,
+      "weapon_credit": false
+    },
+    {
+      "designation": "C-IIβ-565",
+      "batch": 207,
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_01_BROKEN_WELL.md",
+      "history_proof": "Batch 99 unit 3 already cross-reviewed and credited the exact SE-565 A/B/C/D equipment set (recorded in B149_03_BROKEN_WELL); the official counters credit that set before B207, so this recheck adds no Types or Weapon credit.",
       "all_types_credit": false,
       "weapon_credit": false
     }
