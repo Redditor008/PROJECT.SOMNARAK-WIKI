@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 203,
   "status": "OPEN",
-  "completed_units": 0,
+  "completed_units": 1,
   "required_units": 5,
   "queue": [
     {
@@ -42,6 +42,250 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 0,
-  "units": []
+  "completed": 1,
+  "units": [
+    {
+      "unit": 1,
+      "designation": "C-IVβ-043",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md",
+      "words": 8947,
+      "sha256": "411bfdbdb5bb80986cbe24ff9e3172fa1969ae040e0d1dcec571d06b1b3aae24",
+      "name": "The Silent Maiden",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_01_THE_SILENT_MAIDEN.md",
+      "before_words": 8947,
+      "after_words": 9337,
+      "base": "a8008a25369f78c04c44b1bac050e600fdb73fa2",
+      "final_sha256": "982fbdc5da588b23d6409fef0916080ef32a4515438ee1ba67d23a97a0db645b",
+      "summary": "HELD +0 — 22 repairs make recognition, not audibility or pursuit, the encounter.",
+      "commentary": "The file’s bravest technology is a name in ink read aloud by somebody who can be asked about it later.",
+      "reasoning": "Side A's Recognition Trigger Protocol is exact: request for voice, performance-waiting, forced speech and group erasure now replace approach, generic waiting and a bare 65% threshold.\n\nThe primary's governing technology is paper and names: ink roster, legible badges, fifteen-minute confirmations and a forty-second spoken count survive erasure better than memory.\n\nNo sound has ever been recorded, so Released Voice is now explicitly a projected pressure response, not a claimed first audible word.",
+      "history": "Batch 129 already added exact Lens/Veil source details and connected the equipment baseline to privacy/badge/count rules; material primary/source ability and body forks remain. HELD +0, no fresh Types, Weapon or SE credit.",
+      "holds": [
+        "Body substrate: true flesh and bone versus crystallized silence. Held.",
+        "Equipment abilities/costs differ materially between primary and exact items. Held without overwrite.",
+        "Mother/Sisters ontology and monthly visibility mechanism. Held.",
+        "Literal Released Voice remains unobserved. Held."
+      ],
+      "split": [
+        5,
+        17
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-clarity-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Identity / memory pressure |",
+          "new": "| **Primary pressure** | Clarity — retaining the fact of a person's presence, name and face against erasure |"
+        },
+        {
+          "id": "R02-pressure-clarity-combat",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary Pressure** | Composure |",
+          "new": "| **Primary Pressure** | Clarity |"
+        },
+        {
+          "id": "R03-movement-no-pursuit",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Movement** | Mobile — walks upright; can breach and pursue. |",
+          "new": "| **Movement** | Mobile — stands or sits in the Sisters' chamber and moves only toward acknowledgment; in breach she walks without pursuing or hunting. |"
+        },
+        {
+          "id": "R04-vessel-no",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — no physical attack has ever affected her; force is prohibited and cannot resolve the holding |"
+        },
+        {
+          "id": "R05-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R06-resistance-named-recognition",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 35% against Void pressure; 25% against other pressure types. Nothing is rated against the erasure, which is not pressure and is not resisted by anything the wing issues: it takes the fact that a person was present, and paper survives it better than memory |",
+          "new": "| **Resistance** | 35% against Void pressure; 25% against other pressure types. Nothing is rated against the erasure, which is not pressure and is not resisted by anything the wing issues: it takes the fact that a person was present, and paper survives it better than memory. Keep the roster in ink at the door, badges legible outside equipment, named confirmations every fifteen minutes and the forty-second spoken count. Do not demand speech; sit within two metres and attend without questions. |"
+        },
+        {
+          "id": "R07-resolution-seven-minutes",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | See her, hear her, and recognize that she is present |",
+          "new": "| **Resolution Condition** | A named worker sits within two metres, confirms her presence in the record, and remains for one seven-minute interval without asking a question or demanding speech; roster, badge and spoken count remain current. |"
+        },
+        {
+          "id": "R08-closed-lips-demand-voice",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Closed Lips* [**Debuff**] } | \"She stands silent — and the silence around her is heavier than any speech.\" | [The Maiden's suppressed voice creates a void of unspoken words.] | *Target suffers a Void mark; the unspoken things press on them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Maiden. |",
+          "new": "| { *The Closed Lips* [**Debuff**] } | \"She stands silent — and the silence around her is heavier than any speech.\" | [A demand for voice turns her unspoken history into silence pressure around the person making the demand.] | *The demanding worker gains a Void mark. Stop the question or command, state both names from the roster, and return to shared presence without requiring an answer.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a person repeatedly asks why she will not speak or issues a verbal command. |"
+        },
+        {
+          "id": "R09-swallowed-waiting-performance",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Swallowed Words* [**Debuff**] } | \"You can see the words forming behind her teeth — and then she swallows them, and the swallowed words enter you.\" | [The Maiden's suppressed speech transfers to the target; they carry her unspoken burden.] | *Target loses clarity; they are full of someone else's silence.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target waits for her to speak. |",
+          "new": "| { *The Swallowed Words* [**Debuff**] } | \"You can see the words forming behind her teeth — and then she swallows them, and the swallowed words enter you.\" | [Unspoken pressure transfers to a worker who remains nearby only to extract a performance from her.] | *The worker loses Clarity; they are full of someone else's silence. The named observer converts the wait into attendance: badge checked, roster read, no question pending.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a person remains nearby expecting an answer rather than sharing presence. |"
+        },
+        {
+          "id": "R10-silent-decree-coercion-begins",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Silent Decree* [**Attack**] } | \"She mouths a word — no sound — and the word strikes you anyway.\" | [A silent command hits the target with full force despite making no noise.] | *Inflicts Void damage; the voiceless decree erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Maiden is commanded. |",
+          "new": "| { *The Silent Decree* [**Attack**] } | \"She mouths a word — no sound — and the word strikes you anyway.\" | [Coercion meets a soundless refusal that erodes the coercer's hold on names and faces; she issues no audible command.] | *Inflicts Void damage and identity erosion. All sound induction and command escalation stop; the door Warden performs the spoken name count before anyone re-enters.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When personnel begin sound induction, coercion or escalated commands to obtain speech. |"
+        },
+        {
+          "id": "R11-released-voice-persistent-force",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Released Voice* [**Attack**] } | \"One word, the first in centuries — and the room has no idea what to do with a sound.\" | [The single word she has never spoken in any watch is released at the target's expense.] | *A heavy Void utterance; the target's Sorrow Gauge surges 15%, and the room's hush takes several minutes to settle.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When she is forced to speak, which the standing order treats as misconduct in the person doing the forcing. |",
+          "new": "| { *The Released Voice* [**Attack**] } | \"One word, the first in centuries — and the room has no idea what to do with a sound.\" | [Projected response only: if coercion persists, the withheld history is released as heavy Void pressure. No audible word has ever been recorded and none is claimed here.] | *Heavy Void pressure; no personnel Gauge surge is inferred. Treat the forcing as misconduct, end all verbal demands, keep one named person attending her, and count every responder aloud by badge and roster.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When coercion continues after the first soundless refusal in an attempt to make her produce speech. |"
+        },
+        {
+          "id": "R12-eternal-silence-group-erasure",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Eternal Silence* [**Ultimate**] } | \"She goes quiet again — quieter — and the quiet spreads until nobody in the room can hear themselves being counted.\" | [The Maiden extends her silence past the chamber, taking the sound out of the whole field.] | *All in range suffer Void erosion for three turns of absolute quiet; names and faces begin going out of the affected zone from the second turn.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Eternal Silence* [**Ultimate**] } | \"She goes quiet again — quieter — and the quiet spreads until nobody in the room can hear themselves being counted.\" | [Group erasure opens a three-turn voice-loss field in which names and faces leave memory before bodies are harmed.] | *All personnel in the affected zone suffer Void erosion for three turns. Badges stay readable, the roster is counted aloud by name, and one named observer acknowledges her location without demanding speech.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% while several personnel pass her without acknowledging her. |"
+        },
+        {
+          "id": "R13-battle-resolution-recognition",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **See her, hear her, and recognize that she is present** — one named observer attending to her for the interval, the count spoken aloud, and the figure returned against the Personnel Office's unsighted line rather than against the door.",
+          "new": "3. **Resolution:** One named observer sits within two metres, confirms her presence in ink, and attends for the seven-minute interval without a question. The figure is returned against the Personnel Office's unsighted line, and the watch closes only when roster, badges and spoken count agree; she is not required to make a sound for the recognition to count."
+        },
+        {
+          "id": "R14-consequence-clarity",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- A worker who cannot hold the silence becomes a conduit: the pressure moves through them instead of stopping, **Composure** erodes, and the instability they carry is funnelled back into the figure. On this holding the first sign is procedural rather than felt — a confirmation given without a name, or a count that stops at a number nobody can account for — and the second Warden's read ends the watch.",
+          "new": "- A worker who cannot hold the silence becomes a conduit: the pressure moves through them instead of stopping, **Clarity** erodes, and the instability they carry is funnelled back into the figure. On this holding the first sign is procedural rather than felt — a confirmation given without a name, or a count that stops at a number nobody can account for — and the second Warden's read ends the watch."
+        },
+        {
+          "id": "R15-detailed-movement-acknowledgement",
+          "kind": "careful appearance correction",
+          "careful": true,
+          "old": "| **Position / movement** | Mobile — walks upright; can breach and pursue. Posture and distance are logged because on The Silent Maiden neither has ever been assumed. |",
+          "new": "| **Position / movement** | Stands or sits within the Sisters' chamber and moves only toward somebody who has acknowledged her. In breach she walks without hurry and does not pursue. Posture and distance are logged by a named observer every fifteen minutes. |"
+        },
+        {
+          "id": "R16-breach-quote-no-hunting",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "> *\"The Silent Maiden has broken free. Hunts personnel indiscriminately.\"*",
+          "new": "> *\"The Silent Maiden has left the chamber unacknowledged. Stop, badge out, and count every name aloud.\"*"
+        },
+        {
+          "id": "R17-use-notes-seen-at-last",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Every piece in this set is drawn from the same stillness, and the charges run the same way: the Lens takes small, nameless memories, the Veil takes the sense of one's own presence, and the Cloak takes the voice above a whisper. The grade describes extraction stability; the cost is in the column beside each piece and is the reason the set is issued one rotation at a time. Seven Cloaks exist, and each was issued for a sighting — a Warden who noticed a person nobody had noticed, inside the facility, off the file, and wrote the name down; none has been issued for anything else.",
+          "new": "Every piece in this set is drawn from the same stillness, and the charges run the same way: the Lens takes small, nameless memories, the Veil takes the sense of one's own presence, and the Cloak takes the voice above a whisper. The grade describes extraction stability; the cost is in the column beside each piece and is the reason the set is issued one rotation at a time. Seven Cloaks exist, and each was issued for a sighting — a Warden who noticed a person nobody had noticed, inside the facility, off the file, and wrote the name down; none has been issued for anything else.\n\n**Set resonance — Seen at Last:** When all three pieces are used by a bearer who recognises a neglected person without forcing disclosure, they can maintain a short safe quiet field in which neither bearer nor protected person is erased from nearby awareness. The bearer cannot speak above a whisper until the protected person leaves by choice. Recognition under this resonance never becomes permission to interrogate, inspect private circumstances or make the Maiden answer."
+        },
+        {
+          "id": "R18-flavor-continued-confirmations",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "**With continued exposure:** Time stretches in the containment zone. The Subject-Body becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.",
+          "new": "**With continued exposure:** What changes is the discipline, not the figure. Fifteen minutes becomes a named confirmation; an hour becomes four entries in ink, a roster that still agrees with the door, and a worker who has learned not to fill the quiet with a question. She may turn toward the person attending her. She does not become louder, warmer or easier to summarize."
+        },
+        {
+          "id": "R19-flavor-activation-erasure",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Void becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Body was waiting; now it moves.",
+          "new": "**When the entity activates:** Nothing announces itself. The danger is discovered procedurally: a confirmation has no name, a badge is under equipment, the roster and duty sheet disagree, or several people have crossed the chamber as if it were empty. Stop, count aloud, and put one named person back in attendance; force has never supplied the missing recognition."
+        },
+        {
+          "id": "R20-story2-chamber-bound",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "Moves silently through the facility, often unseen. Personnel feel the weight of absence and may lose their voice. She becomes more present when someone sits beside her.",
+          "new": "Within the chamber she may cross a worker's attention without entering it; outside a breach, no facility roaming is recorded. She becomes more present when a named person sits beside her without asking for speech."
+        },
+        {
+          "id": "R21-story4-recognition-not-hearing",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "Management: See her, hear her, and recognize that she is present.  Long exposure causes personnel to recall moments when they ignored others.",
+          "new": "Management: see her, confirm her by name, and attend to her as present; do not wait to hear her. Long exposure causes personnel to recall moments when they ignored others."
+        },
+        {
+          "id": "R22-final-observation-no-hearing",
+          "kind": "careful final observation correction",
+          "careful": true,
+          "old": "| Do the thing on file: see her, hear her, and treat her as present — by name, in ink, for the whole interval. | Depart from the condition for good reasons, as The Silent Maiden's record shows people do — a confirmation nobody can be asked about, or the attempt to make her speak. |",
+          "new": "| Do the thing on file: see her, confirm her by name, and treat her as present — in ink, within two metres, for the whole seven-minute interval and without asking her to make a sound. | Depart from the condition for good reasons, as The Silent Maiden's record shows people do — a confirmation nobody can be asked about, or the attempt to make her speak. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.017  clean   121 grams  Operational Parameters\n 0.016  clean   124 grams  최종 관찰 (Final Observation)\n 0.011  clean   903 grams  Combat Record\n 0.010  clean   421 grams  기록 (Registrum)\n 0.003  clean   750 grams  감각 묘사 (Flavor Text)\n 0.002  clean   951 grams  M.A.W. Equipment\n 0.001  clean  1363 grams  Apex Record\n 0.000  clean   480 grams  이야기 (Narratio)\n 0.000  clean   330 grams  이야기 보고 (Story Log)\n 0.000  clean   327 grams  Behavior\n 0.000  clean   304 grams  관찰 기록 (Observation Log)\n 0.000  clean   265 grams  Trivia\n 0.000  clean   243 grams  Appearance\n 0.000  clean   227 grams  Origin\n 0.000  clean   123 grams  Breach Behavior\n 0.000  clean    46 grams  SECC Classification\n 0.000  clean    45 grams  증언 (Testimonium)\n 0.000  THIN      3 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   4  | **Resistance** | 35% against Void pressure; 25% against other pressure types. Nothing is rated against the erasure, which is not\n   85   6  | { *The Eternal Silence* [**Ultimate**] } | \"She goes quiet again — quieter — and the quiet spreads until nobody in the room can \n  249   1  | **Before use** | Wielder, piece, and a dated baseline of what the wielder can currently name: three colleagues by face, two rout\n  250   1  | **During use** | Every occurrence of a missing name, timed, and whether the wielder noticed it themselves or was told. One is no\n  305   2  | Do the thing on file: see her, confirm her by name, and treat her as present — in ink, within two metres, for the whole seven-mi\n  335   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  394   4  **Review requirement:** Verify the four pillars — gauge, seal, personnel, position — and on this holding add the two the Sisters' \n  425   2  The watchers asked for one line. One line on the form, free text, in which they could say how the person had seemed. Refused, and \nGENERIC 0.003  (24 shared shingles)  SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-A__SIDE_CODEX_The_Silent_Maiden.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-B__MAW-W_The_Silence_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-C__MAW-S_The_Silence_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-D__MAW-G_The_Silence_Cloak.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-A__SIDE_CODEX_The_Silent_Maiden.md": "4c2e5d73499bba6bc327eddc51606b64c6dc3953388f15a41315fe87c069ee30",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-B__MAW-W_The_Silence_Lens.md": "f9e64132303ef7a5386c8b1435971e0fe2f3be7cd1a8ed00e7eb197ee5755530",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-C__MAW-S_The_Silence_Veil.md": "bf7caab2a09e783e4474c707c6c183c239429aa4f77fc4e0f09375dbc1ac07bf",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-D__MAW-G_The_Silence_Cloak.md": "44568ec33978b506aa04329b50f7027238f7f6dec552839799305717c94f6aad"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-043_The_Silent_Maiden_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EC%B2%98%EB%85%80.md \"SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md\")]",
+      "table_link": "[[C-IVβ-043 The Silent Maiden](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-043_The_Silent_Maiden_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EC%B2%98%EB%85%80.md \"SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 450 lines / 8,947 words, complete direct SE-043-A/B/C/D, Registry rows 82–85 and Batch 129 equipment history. Every table parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 5,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The unsupported β Han Dust range and personnel +15% Gauge surge were removed; Side A's two-metre/seven-minute recognition interval was restored."
+      }
+    }
+  ]
 }

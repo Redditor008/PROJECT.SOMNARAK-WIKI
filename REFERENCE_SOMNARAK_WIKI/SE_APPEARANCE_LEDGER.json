@@ -27,7 +27,20 @@
       "N-IVδ-315",
       "C-Vγ-320"
     ],
-    "reviewed": {}
+    "reviewed": {
+      "C-IVβ-043": {
+        "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_01_THE_SILENT_MAIDEN.md",
+        "no_change": false,
+        "whole_final_reread": true,
+        "checks": {
+          "verify": "PASS",
+          "tpl": "PASS",
+          "sectfile": "PASS",
+          "wikistd": "PASS",
+          "sect": "PASS"
+        }
+      }
+    }
   },
   "dossiers": [
     {
@@ -2138,8 +2151,23 @@
     {
       "designation": "C-IVβ-043",
       "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md",
-      "status": "pending",
-      "note": "Not yet reviewed in the independent SE appearance pass."
+      "status": "held",
+      "note": "HELD +0 — 22 repairs make recognition, not audibility or pursuit, the encounter.",
+      "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_01_THE_SILENT_MAIDEN.md",
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-A__SIDE_CODEX_The_Silent_Maiden.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-B__MAW-W_The_Silence_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-C__MAW-S_The_Silence_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-D__MAW-G_The_Silence_Cloak.md"
+      ],
+      "whole_final_reread": true,
+      "checks": {
+        "verify": "PASS",
+        "tpl": "PASS",
+        "sectfile": "PASS",
+        "wikistd": "PASS",
+        "sect": "PASS"
+      }
     },
     {
       "designation": "C-IVγ-009",
