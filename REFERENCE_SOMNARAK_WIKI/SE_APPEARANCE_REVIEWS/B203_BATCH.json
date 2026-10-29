@@ -2,7 +2,7 @@
   "schema_version": 1,
   "batch": 203,
   "status": "OPEN",
-  "completed_units": 2,
+  "completed_units": 3,
   "required_units": 5,
   "queue": [
     {
@@ -42,7 +42,7 @@
     }
   ],
   "opened_at": "2026-10-29",
-  "completed": 2,
+  "completed": 3,
   "units": [
     {
       "unit": 1,
@@ -536,6 +536,201 @@
         "digit_sequences_unchanged": false,
         "source_files_unchanged": 4,
         "digit_sequence_change": "Removed the unsupported Full Collapse +15% and tool timed-damage/+10% resistance claims; the Ultimate now uses the existing 75% activation threshold with false coherence."
+      }
+    },
+    {
+      "unit": 3,
+      "designation": "O-IVδ-151",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-151_Border_Tree_스며든_나무.md",
+      "words": 9124,
+      "sha256": "41863b6385f729432a8549a82a375f137eba62fc0a49843be2c382014297b924",
+      "name": "Border Tree",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_03_BORDER_TREE.md",
+      "before_words": 9124,
+      "after_words": 9398,
+      "base": "4f1566c4af2f8a7f597cf8df5146b7da9d315f25",
+      "final_sha256": "028fbb786f6d6d38b519e32e1d962f0a93b87ca4ade62b30297b56c94c56a673",
+      "summary": "HELD +0 — 15 repairs return the Tree to survey time and accountable crossings.",
+      "commentary": "Its most honest measurement is not damage but metres nobody has ever been given back.",
+      "reasoning": "The Tree advances by surveyed metres per year, so seeds, blooms and forests cannot become full-grown in seconds.\n\nStanding on and crossing the line are prescribed acts; hazard begins with unilateral crossing, sealing, fixed installations and unacknowledged boundary changes.\n\nThe walked crossing is an accountable encounter protocol, not proof that the eleven-year political negotiation succeeded.",
+      "history": "Batch 91 already shipped the exact Weapon disposition and Batch 142 shipped a full primary/source review; material forks remain. HELD +0, no fresh Types, Weapon or SE credit.",
+      "holds": [
+        "Subject/Place and City/Outside classification forks. Held.",
+        "Han Pressure 29–64 versus 29–62. Held.",
+        "Bramble Tanto versus Border Root club. Held.",
+        "Root-cut extraction versus withdrawn echo; emergency rescue scope separated but not source-authorized. Held.",
+        "Plate/Charm appearance and cost variants. Held."
+      ],
+      "split": [
+        1,
+        14
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-resilience",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Physical / structural pressure |",
+          "new": "| **Primary pressure** | Resilience — standing on divided ground without choosing a side |"
+        },
+        {
+          "id": "R02-resistance-two-side-witnesses",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 45 per cent against Grudge pressure and 35 against anything else, with the file's own note that nothing here is exchanged: the Tree does not duel, it creeps and it grows, and a party resists the pressure of ground going out from under them. |",
+          "new": "| **Resistance** | 45% against Grudge pressure and 35% against anything else; nothing here is exchanged in a duel. The Tree creeps and grows while the party resists ground going out from under them. Work with accountable witnesses on both sides, keep an acknowledged non-hostile crossing open, and resurvey from the same fixed markers; resistance does not authorize sealing a route. |"
+        },
+        {
+          "id": "R03-resolution-walked-crossing",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | Negotiate boundaries and acknowledge both sides of the loss |",
+          "new": "| **Resolution Condition** | State the line as it now runs, name people and losses on both sides, and hold one non-hostile crossing open and visibly used in both directions; read severed addresses where the protocol requires and record the condition for lowering any defense. |"
+        },
+        {
+          "id": "R04-fast-seed-projected-footprint",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Fast Seed* [**Debuff**] } | \"A seed lands at your feet — and before you can step away, it is already a sapling, already reaching for your ankle.\" | [The growth rate is turned on a single spot, and the spot is wherever the party is standing.] | *The roots mark the ground as theirs: -1 to movement, and the sapling anchors where it fell.* **[1 Grudge DMG [Grudge]]** | When the party stops moving. |",
+          "new": "| { *The Fast Seed* [**Debuff**] } | \"A seed lands at your feet — and the survey says the roots were already coming for the place you chose to stand.\" | [A fixed station is placed inside the projected footprint and the slow root advance claims its ground.] | *The station's ground is marked unstable: -1 to movement around it. Move the station early, resurvey from fixed markers, and do not cut the roots to recover the position.* **[1 Grudge DMG [Grudge]]** | When a party installs a fixed station or marker inside the projected footprint without a current survey. |"
+        },
+        {
+          "id": "R05-root-network-severance-survey",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Root Network* [**Debuff**] } | \"Roots spread underground — faster than walking — and they are heading for the foundations of everything.\" | [The subterranean line extends under the party's position, and the file records it as a border being drawn beneath their feet.] | *Foundations under the target are undermined: anything built on the ground below records -1 stability.* **[1 Grudge DMG [Grudge]]** | When a severance is published anywhere in Zone E. |",
+          "new": "| { *The Root Network* [**Debuff**] } | \"Roots spread underground — not fast enough to watch, and too surely to ignore.\" | [A new severance extends the subterranean line under foundations, recorded as annual frontage rather than a sudden attack.] | *Foundations record -1 stability. Resurvey both sides from fixed markers, read the newly severed addresses aloud, and keep the existing crossing open while losses are documented.* **[1 Grudge DMG [Grudge]]** | When a severance determination is published anywhere in Zone E. |"
+        },
+        {
+          "id": "R06-branch-unnegotiated-crossing",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Whipping Branch* [**Attack**] } | \"A branch grows toward you in real-time — extending, reaching, and whipping.\" | [A limb is grown along the line the party is standing on and used to close it.] | *Inflicts Grudge pressure and one flowering lash-wound.* **[1 Grudge DMG [Grudge]]** | When the marker line is crossed. |",
+          "new": "| { *The Whipping Branch* [**Attack**] } | \"A branch closes across the route you tried to take as though nobody lived beyond it.\" | [A branch-claw grows along the line to block an unnegotiated crossing; it does not pursue beyond the route.] | *Inflicts Grudge pressure and entangles the route. Withdraw to the shared-ground point, let witnesses from both sides confirm the passage, and cross only by the acknowledged route.* **[1 Grudge DMG [Grudge]]** | When a person attempts a unilateral crossing outside the agreed passage or tries to seal the route. |"
+        },
+        {
+          "id": "R07-full-bloom-imposed-boundary",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Bloom* [**Attack**] } | \"The tree reaches full size in seconds — canopy, trunk, root system — and the sudden mass is staggering.\" | [The whole mass arrives at once, and the staggering thing is the ground that is now under it.] | *A heavy Crimson biomass-explosion; the gauge jumps 15 at a stroke.* **[24-36 Grudge DMG [Grudge]]** | When the boundary is contested. |",
+          "new": "| { *The Full Bloom* [**Attack**] } | \"The canopy darkens along the new line, and every doorway under it suddenly has a country on the other side.\" | [An imposed boundary accelerates growth along roads and doors; the mass is surveyed over the encounter, not created in seconds.] | *Heavy Grudge pressure across the contested frontage; no Gauge Jump is inferred. Suspend unilateral crossing, establish a shared-ground meeting point, document both losses, and negotiate a temporary route rather than forcing roots back.* **[24-36 Grudge DMG [Grudge]]** | When a new border conflict, forced displacement or unacknowledged boundary imposition occurs. |"
+        },
+        {
+          "id": "R08-instant-forest-sealed-crossings-90",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Instant Forest* [**Ultimate**] } | \"Trees erupt across the entire field — each one growing to full size in seconds — and the forest consumes everything.\" | [The creep stops being measurable and becomes the ground: the whole field is inside a footprint that arrived in seconds.] | *Every worker in range takes Grudge pressure across 3 turns of instant forest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Instant Forest* [**Ultimate**] } | \"By the next survey the whole field is inside the footprint, and every closed door has become another line.\" | [The cumulative footprint overtakes the field while sealed crossings give the roots new courses; “instant” is the discovery, not the growth rate.] | *Every worker in range takes Grudge pressure across three turns. Open and staff the agreed crossings, walk them in both directions before the trunk, and remove barriers rather than adding a cordon.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90% while crossings are being sealed or new barriers built. |"
+        },
+        {
+          "id": "R09-battle-resolution-shared-passage",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** **Negotiate boundaries and acknowledge both sides of the loss**. The condition is met when the party has stated the line as it now runs, has named what was on each side of the original drawing, and has left without driving a marker of its own into the ground; a cycle that ends with something newly sealed is filed as a border drawn across the Tree, and the file treats that as a provocation, not a result.",
+          "new": "3. **Resolution:** State the line as it now runs, name who and what stood on each side, and hold the agreed crossing open in both directions with witnesses accountable to both sides. The party leaves without driving a marker of its own or sealing a route; the walked crossing settles the encounter without pretending the eleven-year political negotiation has been completed."
+        },
+        {
+          "id": "R10-breach-quote-no-root-cutting",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "> *\"Border Tree is through the floor on the east side. Nobody seal anything. Cut at the root, not the limb.\"*",
+          "new": "> *\"Border Tree is through the floor on the east side. Nobody seal anything, nobody cut a root. Open the crossing and walk it both ways.\"*"
+        },
+        {
+          "id": "R11-use-notes-mutual-passage",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "All 3 pieces remain part of the Tree rather than extensions of an arsenal: the tanto raises a barrier and then refuses to let its own wielder back across it, the plate stiffens the wearer at the Tree's pace, and the charm makes every line in a room legible. The toll differs by piece but the shape is one — a bearer who can no longer step over what they drew — and the set is issued per season rather than per rotation for that reason.",
+          "new": "All 3 pieces remain part of the Tree rather than extensions of an arsenal: the tanto raises a barrier and then refuses to let its own wielder back across it, the plate stiffens the wearer at the Tree's pace, and the charm makes every line in a room legible. The toll differs by piece but the shape is one — a bearer who can no longer step over what they drew — and the set is issued per season rather than per rotation for that reason.\n\n**Set resonance — Mutual Passage:** A full-set bearer must name people on both sides, the non-hostile route, and the condition for lowering the defense. The set can then raise a strong barrier against an immediate hostile crossing while preserving the negotiated passage, and the source root rises as a gate rather than a wall. The bearer cannot cross or order another person across the created boundary until both sides confirm the lowering condition; unilateral control binds the bearer to the same line."
+        },
+        {
+          "id": "R12-story2-severance-leaf-fall",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "Its leaves fall during border negotiations.",
+          "new": "Leaf-fall is logged against severance determinations, not against negotiation sessions, and no reading has yet shown the advance negotiating back."
+        },
+        {
+          "id": "R13-entanglement-rescue-exception",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "In a breach it sends roots through the floor and binds personnel, and release is by cutting at the root rather than at the limb — a distinction established the hard way and set out in the response card with a diagram. Cutting equipment is staged at the cordon and at each monitoring station, is inspected weekly, and is the only item in the district that the watch is required to count aloud at handover. The counting is done aloud because an item counted silently has twice been counted wrong.",
+          "new": "In a breach it sends roots through the floor and binds personnel. Cutting at the root is retained only to release a bound person; it is never Work, containment or a way to recover ground. Any rescue cut is entered as a new line drawn across the Tree, with its own expansion forecast, and cutting equipment staged at the cordon and stations is inspected weekly and counted aloud at handover because an item counted silently has twice been counted wrong."
+        },
+        {
+          "id": "R14-breach-quote-rescue-only",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "> *\"Border Tree is through the floor on the east side. Nobody seal anything, nobody cut a root. Open the crossing and walk it both ways.\"*",
+          "new": "> *\"Border Tree is through the floor on the east side. Nobody seal anything. Open the crossing and walk it both ways; rescue cuts only for a bound person.\"*"
+        },
+        {
+          "id": "R15-clash-not-out-negotiated",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "2. **Clash:** Over a long twenty-four-turn encounter the party works Viderehan and Ferrehan against 910 points of accumulated grievance while roots come up through the floor behind them; at 45% resistance to its own Grudge pressure the Tree cannot be out-damaged, only out-negotiated.",
+          "new": "2. **Clash:** Over a long twenty-four-turn encounter the party works Viderehan and Ferrehan against 910 points of accumulated grievance while roots come up through the floor behind them; at 45% resistance to its own Grudge pressure the Tree cannot be out-damaged. It is answered by survey, two-side acknowledgement and a used crossing, not by claiming an unexecuted negotiation."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IVδ-151_Border_Tree_스며든_나무.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.016  clean   182 grams  Breach Behavior\n 0.013  clean   149 grams  Operational Parameters\n 0.013  clean   851 grams  M.A.W. Equipment\n 0.005  clean   804 grams  Combat Record\n 0.003  clean  1505 grams  Apex Record\n 0.000  clean   749 grams  감각 묘사 (Flavor Text)\n 0.000  clean   493 grams  이야기 보고 (Story Log)\n 0.000  clean   331 grams  기록 (Registrum)\n 0.000  clean   316 grams  Appearance\n 0.000  clean   315 grams  이야기 (Narratio)\n 0.000  clean   281 grams  Expansion Behavior\n 0.000  clean   261 grams  관찰 기록 (Observation Log)\n 0.000  clean   218 grams  Origin\n 0.000  clean   163 grams  Trivia\n 0.000  clean   160 grams  Behavior\n 0.000  clean   154 grams  최종 관찰 (Final Observation)\n 0.000  clean    33 grams  SECC Classification\n 0.000  clean    31 grams  (preamble)\n 0.000  clean    28 grams  증언 (Testimonium)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   84   4  | { *The Instant Forest* [**Ultimate**] } | \"By the next survey the whole field is inside the footprint, and every closed door has\n  189   3  | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |\n  240   1  **Cost:** The harness tightens near its source and does not loosen after: the wearer moves at the Tree's own pace, deliberate and \n  268   5  | **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline laid down by a second person: which side of the marke\n  269   5  | **During use** | The charge presents as a line the bearer stops crossing without noticing: a doorway avoided, a corridor walked \n  462   4  The mediation body asked, in Year 4228, for the smallest of the amendments it has ever proposed: that a visiting owner be permitte\nGENERIC 0.003  (24 shared shingles)  SE-O-IVδ-151_Border_Tree_스며든_나무.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-A__SIDE_CODEX_Border_Tree.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-B__MAW-W_The_Border_Root.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-C__MAW-S_The_Border_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-D__MAW-G_The_Border_Charm.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-A__SIDE_CODEX_Border_Tree.md": "d41f25d88b87ac058a824209c18bd0eed55b81a47453773c202320e0899bd749",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-B__MAW-W_The_Border_Root.md": "6f979f8105ee4e4bbd733ea479c20f8795eeb21cfd43970711545199c17a79d4",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-C__MAW-S_The_Border_Plate.md": "346fc61c2afabc3d007efe84ad898b62561fc7569dfb53c92ff3fec3ea617548",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-D__MAW-G_The_Border_Charm.md": "5c050c8a930a0fcbbddd71acd275b38c659c6509b417b4bccc8c68bf29acd4f3"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IVδ-151_Border_Tree_스며든_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-151_Border_Tree_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%82%98%EB%AC%B4.md \"SE-O-IVδ-151_Border_Tree_스며든_나무.md\")]",
+      "table_link": "[[O-IVδ-151 Border Tree](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-151_Border_Tree_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%82%98%EB%AC%B4.md \"SE-O-IVδ-151_Border_Tree_스며든_나무.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 491 lines / 9,124 words, complete direct SE-151-A/B/C/D, Registry rows 398–401, Batch 91 Weapon history and Batch 142 full-source review. All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 5,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Removed the invented 15-point Full Bloom Gauge Jump; the Ultimate now uses the dossier's 90% activation threshold. The 29–64 versus 29–62 Han Pressure fork remains held."
       }
     }
   ]
