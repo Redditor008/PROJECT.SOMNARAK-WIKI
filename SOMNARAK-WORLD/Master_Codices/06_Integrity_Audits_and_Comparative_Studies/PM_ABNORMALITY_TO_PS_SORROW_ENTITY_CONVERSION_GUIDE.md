@@ -214,7 +214,7 @@ Every native Abnormality carries a Qliphoth Counter, and until this standard the
 
 - **Steps, not spikes.** Converted counter triggers move the Gauge by threshold *steps*. The prohibited-work backfire spike of Section VI (+30% to +50%) remains exactly what it is — the penalty for illegal work — and is never used as a substitute counter mechanic.
 - **Meltdown-marked → Watch-marked.** A unit selected by Qliphoth Meltdown converts to a **Watch-marked** entity under subsection 2: the Watches supply the ambient tidal pressure the meltdown rotation supplied in the facility, and bleeding a Watch-marked entity's Gauge inside its Watch window is the meltdown-work analog. A Watch-mark lifts the Two-Work-Type Law in neither archive.
-- **Tool use counters** — use counts, charge timers, once-per-day operations — convert into the relic profile's activation limits under Section IX with their figures verbatim; a single-use native enters the A-Relic class with its consumption intact.
+- **Tool use counters** — use counts, charge timers, once-per-day operations — convert into the relic profile's activation limits under Section IX with their figures verbatim; a single-use native enters the A-Relic class with its consumption intact. Full both-direction coverage of every system touched by this guide is certified in **Appendix A of the Universal Table** (Conversion Integrity Matrix).
 
 ### 2. Qliphoth Meltdowns → The Four Atmospheric Watches
 In Project Moon, Qliphoth Meltdowns trigger randomly on containment chambers. In Somnarak, facility pressure is driven by subterranean Han tidal surges from the Weeping at -2,000 meters:

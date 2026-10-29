@@ -426,4 +426,56 @@ Each conversion below shows its three-field reads, so the letter and class can b
 |     use without a conversion row in both directions                    |
 +========================================================================+
 ```
+---
+
+## Appendix A: Conversion Integrity Matrix — Complete System Coverage
+
+*Audit completed 2026-10-30 under the owner's directive: 100% conversion across the board, nothing missed.* Every system named in either archive's facility records appears exactly once below, with its conversion law located in **both directions**. **UT** = this Universal Table · **RG** = "PM Abnormality to PS Sorrow Entity Conversion Guide" · **CMP** = "Complete System Comparison: Somnarak vs. Lobotomy Corporation". Discipline going forward: a system added to either archive is **entered in this matrix before it may be used in a conversion**; a conversion note relying on an unlisted system is incomplete on its face (checklist item 10).
+
+One crosswalk belongs here because it belongs to neither guide alone: energy converts **tier-band to tier-band** from the two Section III matrices (UT Max PE-Boxes ↔ RG Han Yield). The bands deliberately differ — facility energy is drawn through work satisfaction, Han Yield is what the Weeping-side harvest returns — and there is no 1:1 numeric exchange. A PE-Box is not a unit of Han.
+
+| # | System / mechanic | SE → Abnormality (UT) | Abnormality → SE (RG) | Status |
+|---|---|---|---|---|
+| 1 | Designation & serial law | §II | §III alias rule · checklist 03b | Covered |
+| 2 | Risk tier & off-diagonal rule | §III | §III | Covered |
+| 3 | HP / Sorrow Gauge bands | §III | §II–III | Covered |
+| 4 | Attack values | §III | §III | Covered |
+| 5 | Damage types ↔ Han elements | §V | §V | Covered |
+| 6 | Element status riders | §V | §V | Covered |
+| 7 | Entity suppression resistances | §V | §V | Covered |
+| 8 | Work types & `-han` pairing | §IV | §VI.1 | Covered |
+| 9 | Two-Work-Type Law | §IV.2 | §VI.2 | Covered |
+| 10 | Favorability ↔ Behavior outcomes | §III | §VI.1 · §X | Covered |
+| 11 | Operative attributes & levels | §IV.3 | §VI.1 | Covered |
+| 12 | SP ↔ Composure · panic | §IV–V · §VII.2 | §V · §VIII.3 | Covered |
+| 13 | PE-Boxes ↔ Han Yield | §III | §III | Covered (band crosswalk, above) |
+| 14 | Heavy Han Density & brine | §I.3 | Native substance (§I) | Covered |
+| 15 | Daily Cycle · quota · Selection | §IX · §III | §VII.2 · CMP §4 | Covered |
+| 16 | **Qliphoth Counter: value & derivation** | **§III Counters** | **§VII.1** | **Covered** |
+| 17 | Counter triggers (±, named) | §III Counters | §VII.1 | Covered |
+| 18 | Counter reset & return | §III Counters | §VII.1 | Covered |
+| 19 | Qliphoth Meltdown event | §III Counters · §I.3 | §VII.1–2 | Covered |
+| 20 | Tool use counters & single-use | §III Counters · §X.5 | §VII.1 · §IX | Covered |
+| 21 | Breach & suppression doctrine | §VI | §VII.3 | Covered |
+| 22 | Transformation & state lines | §II.4 · §VI | §VII.3 | Covered |
+| 23 | Skills · Dawn riders · Ultimates | §VI | §IV (engine) · §X | Covered |
+| 24 | Size · scale · housing grades | §I.4 | §III unwind | Covered |
+| 25 | E.G.O Weapon | §VII.3 | §VIII.1 | Covered |
+| 26 | E.G.O Suit (worn resistances) | §VII.3 | §VIII.1–2 | Covered |
+| 27 | Gift ↔ Stigma | §VII.3 | §VIII.1 | Covered |
+| 28 | Gear requirements & Composure Load | §VII.1 | §VIII.3 | Covered |
+| 29 | Bearer corrosion / meltdown | §VII.2 | §VIII.3 | Covered |
+| 30 | Gear production (count & cost) | §VII.3 | §VIII.1 | Covered |
+| 31 | Observation ↔ Comprehension · Encyclopedia | §IX | §IX.3–4 | Covered |
+| 32 | Redaction & HOLD transport | Preface · §IX | §III · §IX.4 | Covered |
+| 33 | Extraction-phase tells | §IX | §III | Covered |
+| 34 | Department assignment & staff classes | §VIII | CMP §3 | Covered by reference |
+| 35 | Ordeals ↔ Four Watches | §III (meltdown law) | §VII.2 · CMP §9 | Covered by reference |
+| 36 | Core Suppression ↔ Realization | CMP §16 | CMP §16 | Covered by reference |
+| 37 | LOB · Research · Re-Extraction | §IX (behavior) | CMP §13–15 | Covered by reference |
+| 38 | Spatial combat engine (nodes · bands · AP) | Degree III retained traits (Preface) | §IV | Covered |
+| 39 | Ingress · Degrees · contact geometries | Preface · §I | §III · CMP §2A | Covered |
+| 40 | Worked examples, both directions | §VIII · §X | §X | Covered |
+
+**Audit verdict: 40 of 40 systems covered** — 36 by direct law in the two guides, 4 by referenced law in the universe comparison (facility-scale and institution-scale systems, where entity-level guides properly defer). No system in either archive's facility records lacks a conversion row in both directions. Defects found and repaired during this audit are logged in the repository CHANGELOG (Conversion-integrity completion, passes 1–3).
 

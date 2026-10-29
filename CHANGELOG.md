@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Conversion-integrity completion, pass 3 — the Integrity Matrix (2026-10-30)
+
+- **`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md` Appendix A added — the Conversion Integrity Matrix:** all **40 facility systems** named in either archive, each with its conversion law located in both directions (this Table / the reverse guide / the universe comparison): **40 of 40 covered** — 36 by direct law in the two guides, 4 by referenced law in the comparison (department assignment & staff classes, Ordeals ↔ Four Watches, Core Suppression ↔ Realization, LOB/research economy). Includes the PE↔Han tier-band crosswalk (no 1:1 exchange; a PE-Box is not a unit of Han) and the standing discipline that any future system must be entered in the matrix before use (checklist item 10).
+- **Pointers:** the reverse guide's new counter law (§VII.1) and the comparison's verification seal (§19) now cite Appendix A, closing the three-document triangle. With passes 1–3 the audit is complete: the Qliphoth Counter — the system the owner asked after — converts in both directions by the inverse-pair law (Gauge steps ↔ counter distance), and no inventoried system remains without a conversion row.
+
+
 ## Conversion-integrity completion, pass 2 — the reverse guide (2026-10-30)
 
 - **`PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md` Section VII.1 added — the Qliphoth Counter conversion the framework was missing:** Counter value N converts to an **N-step Gauge activation distance**; decrease conditions become Gauge-Increase triggers and increase conditions Gauge-Decrease outcomes (conditions quoted verbatim), counter-zero becomes the activation/breach event, reset rides the return behavior, and counterless natives become activation-only SEs. Steps-not-spikes clause keeps counter mechanics distinct from the prohibited-work backfire; meltdown-marked units convert to **Watch-marked** entities; Tool use counters land in the Section IX relic activation limits. Former subsections renumbered (Watches → 2, Transform Breaches → 3; no external references existed).
