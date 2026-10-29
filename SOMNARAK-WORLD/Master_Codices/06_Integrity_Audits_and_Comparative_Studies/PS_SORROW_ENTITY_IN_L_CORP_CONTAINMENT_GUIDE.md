@@ -148,25 +148,27 @@ The serial is the Sorrow Entity's **own SECC numerical designation with one extr
 
 Breach and transformation states do **not** mint new codes. A Place→Subject event (SECC `[GP]` → `[GS]`, `-B` forms, phase cycles) is written as a **containment state line under the same designation**, with the work-rule shift of Section VI. The SECC designation, Korean name and registry seed (where one exists) travel in Basic Info as aliases for cross-archive retrieval.
 
+**Reconciliation with the creator-reference quick maps (Part IV).** The owner's earlier quick references designate more simply — Origin C→O · N→T · O→O/M, serial carried unchanged (e.g. `T-02-16`). Those maps remain valid *reading* aids and govern the legacy case-study pairings (Reverse Guide §X), but designation **assignment** for transported SEs follows this Section II only (three-field letter read; `0###` serial), as directed for this overhaul. Where the two disagree on a legacy entity, both codes ride as aliases; neither is ever renumbered to match the other.
+
 ---
 
 ## Section III: Risk Classification Mapping (SECC to Lobotomy Corp Tiers)
 
 The Sephirah Council classifies incoming Sorrow Entities into Lobotomy Corporation's standard five-tier Hebrew risk hierarchy based on their SECC Coherence Rank and Potency Grade:
 
-| Lobotomy Corp Risk Level | Somnarak Coherence & Potency | Standard HP Bar | Attack Value | Max PE-Boxes | Qliphoth Counter | Primary Damage Type |
-|---|---|---|---|---|---|---|
-| **ZAYIN** | **Rank I (Residue) / Grade α** | 150 – 300 HP | 06 – 14 DMG | 10 – 14 PE | 2 – 3 | RED (Grudge) or WHITE (Lament) |
-| **TETH** | **Rank II (Echo) / Grade β** | 300 – 500 HP | 12 – 22 DMG | 14 – 18 PE | 2 – 4 | RED, WHITE, or BLACK (Weight) |
-| **HE** | **Rank III (Fragment) / Grade γ** | 500 – 750 HP | 18 – 35 DMG | 18 – 24 PE | 1 – 3 | BLACK (Weight) or PALE (Void) |
-| **WAW** | **Rank IV (Entity) / Grade δ** | 750 – 1,000 HP | 30 – 55 DMG | 24 – 32 PE | 1 – 2 | Dual-Element / Multi-Hit |
-| **ALEPH** | **Rank V (Sovereign) / Grade ω** | 1,000 – 12,000 HP | 50 – 80+ DMG | 32 – 40 PE | 1 – 3 | All Four Elements Cycled |
-### Off-diagonal rule and stat derivation
+| Lobotomy Corp Risk Level | Threat Score | Somnarak Coherence & Potency | Standard HP Bar | Attack Value | Max PE-Boxes | Qliphoth Counter | Primary Damage Type |
+|---|---|---|---|---|---|---|---|
+| **ZAYIN** | 2–3 | **Rank I (Residue) / Grade α** | 150 – 300 HP | 06 – 14 DMG | 10 – 14 PE | 2 – 3 | RED (Grudge) or WHITE (Lament) |
+| **TETH** | 4–5 | **Rank II (Echo) / Grade β** | 300 – 500 HP | 12 – 22 DMG | 14 – 18 PE | 2 – 4 | RED, WHITE, or BLACK (Weight) |
+| **HE** | 6 | **Rank III (Fragment) / Grade γ** | 500 – 750 HP | 18 – 35 DMG | 18 – 24 PE | 1 – 3 | BLACK (Weight) or PALE (Void) |
+| **WAW** | 7–8 | **Rank IV (Entity) / Grade δ** | 750 – 1,000 HP | 30 – 55 DMG | 24 – 32 PE | 1 – 2 | Dual-Element / Multi-Hit |
+| **ALEPH** | 9–10 | **Rank V (Sovereign) / Grade ω** | 1,000 – 12,000 HP | 50 – 80+ DMG | 32 – 40 PE | 1 – 3 | All Four Elements Cycled |
+### Threat Score rule and stat derivation (owner's Transformation Table)
 
-SECC Coherence and Potency usually rise together, but transported entities frequently arrive **off-diagonal** (e.g. Rank IV with Grade ω). The Risk Level is then set by the **higher of the two tiers** (containment-conservative; precedent: *The Maw* IV/ω is rostered ALEPH in Section VIII). Within the tier:
+Tier is set by the owner's **Threat Score** — the specially created transformation table carried in full at Part IV.1 (formulas at Part IV.2 §II–IV and Part IV.3 §I–III): **Score = Coherence rank + Potency rank** (I/α = 1 … V/ω = 5) → **2–3 ZAYIN · 4–5 TETH · 6 HE · 7–8 WAW · 9–10 ALEPH**. Off-diagonal pairs need no tie-break; the sum decides, and it *upgrades or downgrades* the diagonal read in both directions (the Maw IV + ω = 9, ALEPH, as rostered in Section VIII; a ω + I entity is 6, HE — catastrophic potency in a residue body is dangerous, not sovereign). The Rank/Grade column above remains the diagonal reference. Within the tier:
 
-- **HP** is taken from the dossier's Sorrow Gauge where one exists, checked against the tier band; a dossier figure outside its band is flagged, not silently rescaled.
-- **Work damage** type comes from the entity's Element (Section V); values follow the tier's Attack band.
+- **HP** = `ceil(dossier Sorrow Gauge [HP] × tier multiplier)` — **×0.2** ZAYIN · **×0.4** TETH · **×1.8** HE · **×4** WAW · **×10** ALEPH. **Every converted number is a whole number, always rounded UP; no decimals** (owner's rule). The result is checked against the tier band above; outside it, the figure is flagged, never silently rescaled.
+- **Work damage** type comes from the entity's Element (Section V); values = `ceil(Han Pressure × tier multiplier)` inside the owner's ranges — **×0.5–1.0** ZAYIN · **×1.2–1.4** TETH · **×1.4–1.8** HE · **×1.0–1.8** WAW · **×0.5–1.0 ALEPH plus Instant Death mechanics** (HE is the peak raw-damage tier; ALEPH trades per-hit damage for Instant Death / Instant Fracture). Intake fixes one value inside the range and files it; the Attack band above remains the sanity check, and no scene re-rolls a filed value.
 - **Max PE-Boxes** follow the tier band above, before the Heavy Han Density adjustment of Section I.
 - **Counters** are set from the dossier's two mechanisms — Sorrow Gauge behavior and Activation Thresholds — per the Counters subsection below. An SE may file either, both, or neither (**Counter: —**); the tier band above bounds the Gauge channel's counter value where one is filed, and every condition that moves either channel is named from the dossier (a denial published, a resemblance introduced, a gaze sustained), never "random".
 - **Work favorability** is translated from the dossier's own Behavior table: Gauge *Decrease* → the analog work is favored; *Stable* → Common; *Increase* → disfavored and normally locked by management rule; *N/A* → prohibited under the Two-Work-Type Law (Section IV). Outcome ranges are then set inside the tier's PE band.
@@ -202,8 +204,8 @@ An SE carries **Gauge-only, Threshold-only, both, or neither** — exactly as na
 
 | L Corp Work Type | PS Analog | Subject SE | Inanimate SE [O/P/T] |
 |---|---|---|---|
-| Instinct Work | Viderehan (Obs) | Common (PE) | Safe Extraction |
-| Insight Work | Ferrehan (End) | High (PE) | High PE Yield |
+| Instinct Work | Ferrehan (End) | Common (PE) | Safe Extraction |
+| Insight Work | Viderehan (Obs) | High (PE) | High PE Yield |
 | Attachment Work | Flerehan (Cath) | Variable PE | **LETHAL BACKFIRE (0 PE)** |
 | Repression Work | Pugnahan (Clsh) | Counter Drop | **KINETIC BREACH (0 PE)** |
 
@@ -212,14 +214,14 @@ In Lobotomy Corporation, agents are accustomed to performing Instinct, Insight, 
 
 ### 1. Subject Entities (`[S]` — Mobile, Conscious Forms)
 For entities classified with a Subject manifestation (e.g., *The Whispering Confessional* `SE-C-Iα-033 [LS]`, *Marksman of the Seventh Watch* `SE-C-IVδ-069 [GS]`):
-- **Instinct Work (Viderehan Analog):** Agent monitors the entity's acoustic breathing and posture from within the chamber. Yields common/good results; stabilizes low-potency entities.
-- **Insight Work (Ferrehan Analog):** Agent endures the chamber's heavy atmospheric pressure and cold. Yields high PE-Boxes; recommended for high-Resilience agents.
+- **Insight Work (Viderehan Analog):** Agent monitors the entity's acoustic breathing and posture from within the chamber. Yields common/good results; stabilizes low-potency entities.
+- **Instinct Work (Ferrehan Analog):** Agent endures the chamber's heavy atmospheric pressure and cold. Yields high PE-Boxes; recommended for high-Resilience agents.
 - **Attachment Work (Flerehan Analog):** Agent communicates empathetically, weeping with the entity. Highly polarized: if the agent possesses Level V Prudence and high Composure, it yields massive PE-Boxes; if the agent fails, their SP collapses into immediate suicidal panic.
 - **Repression Work (Pugnahan Analog):** Agent deploys suppression batons to strike the entity. High physical risk: temporarily lowers breach agitation, but rapidly degrades the Qliphoth Counter if performed repeatedly.
 
 ### 2. Inanimate Entities (`[O]`, `[P]`, `[T]`, `[H]` — Relics, Places, Times, Hazards)
 **THE MANAGER MUST ENFORCE THE TWO-WORK-TYPE RULE WITHOUT EXCEPTION:**
-- **Instinct & Insight Work:** The ONLY permitted actions. The agent observes energy oscillations (Instinct) or reinforces physical isolation seals (Insight).
+- **Instinct & Insight Work:** The ONLY permitted actions. The agent observes energy oscillations (Insight) or reinforces physical isolation seals (Instinct).
 - **Attachment Work — LETHAL PSYCHIC COLLAPSE:**  
   * *Reason:* An inanimate relic, an empty flooded district, or a temporal rift possesses no personal psyche to comfort.
   * *Consequence:* The agent attempts to project human empathy into a lifeless void. The void reflects nothing back, instantly draining 100% of the agent's SP. The agent panics immediately, screams in an unknown tongue, and dies of cerebral hemorrhage. Zero PE-Boxes produced.
@@ -227,18 +229,20 @@ For entities classified with a Subject manifestation (e.g., *The Whispering Conf
   * *Reason:* An inanimate monument or geographic district has no biological anatomy to strike.
   * *Consequence:* The kinetic energy of the agent's weapon deflects off the entity's indestructible bedrock. The reflected shockwave shatters the chamber's containment glass, instantly reducing the Qliphoth Counter to 0 and triggering a catastrophic breach.
 
-### 3. Operative Attribute Conversion (paired by work, not by name)
+### 3. R.D. Attributes — Levels, Work Interactions, and Nugget Acquisition (owner's Attribute Levels add-on)
 
-Dossier work rules name the Somnarak operative attribute each `-han` work tests; facility work names its own governing stat. The pairing is by **work function**, and levels I–V carry across numerically:
+Facility work against a transported SE is *also* Han exposure, and Somnarak measures the personnel side of that exposure with four **R.D. Attributes** (the owner's add-on, carried in full at Part IV.4; conversion-order counterparts at Part IV.2 §VIII/XIV and Part IV.3 §VIII/IX). In-facility work pairs each R.D. Attribute to an LC governing stat **by work function**:
 
-| Work pair | PS tested attribute | LC governing stat |
-|---|---|---|
-| Viderehan / Instinct | Clarity | Fortitude |
-| Ferrehan / Insight | Resilience | Prudence |
-| Flerehan / Attachment | Composure | Temperance |
-| Pugnahan / Repression | Resolve | Justice |
+| Work pair | R.D. Attribute (primary · secondary) | LC governing stat | Failure effect (primary too low for the entity's Han Pressure) |
+|---|---|---|---|
+| Ferrehan / Instinct | Resilience · Resolve | Fortitude | Total collapse — physical and mental exhaustion |
+| Viderehan / Insight | Clarity · Composure | Prudence | Mental breakdown — confusion, hallucination |
+| Flerehan / Attachment | Composure · Clarity | Temperance | Emotional breakdown — crying, withdrawal |
+| Pugnahan / Repression | Resolve · Resilience | Justice | Physical collapse — exhaustion, injury |
 
-Pools convert separately from stats: operative **Composure (the pool) reads as SP**, and Composure Load (Section VII) then reduces maximum SP as filed; operative HP is unchanged across frames. Where a dossier management rule names a *secondary* requirement (Section IV.1's Prudence clause for Attachment survival, for instance), the dossier's rule binds as written — the table gives the primary pairing, never an override. E.G.O stat requirements stated in an item record convert along the same pairing before Composure Load is applied.
+- **Levels.** Each attribute runs 1–100 in five bands — **I** Fragile (1–20) · **II** Average (21–40) · **III** Trained (41–60) · **IV** Veteran (61–80) · **V** Exceptional (81–100) — displayed `Attribute [Level 0/I–V] [current/20]`, twenty points per level. Civilians average 20–30; trained R.D. personnel 40–60; Echo-Cores exceed 80. E.G.O stat requirements in an item record convert along the pairing above before Composure Load (Section VII) is applied; dossier rules naming a secondary attribute bind as written.
+- **Acquisition — the Nugget rule.** Every L Corp employee starts at **Level 0 in all four attributes**: LC stats do *not* convert into R.D. levels. An employee who **survives 3+ consecutive days** sustaining an SE's Han Effect begins accumulating points (**~1–3 per day**, scaled by the entity's Potency) toward the attributes keyed to its Element — Lament → Composure · Clarity; Grudge → Resilience · Resolve; Void → Clarity · Composure; Weight → Resolve · Resilience; Mixed → split across all four. At **Level III (41+ points)** the associated work can be performed without its Failure Effect. Until then, staffing high-Pressure entities is spending people to buy attributes, and roster planning files it in those words.
+- **Terminology guard.** *Composure the attribute* (Temperance-paired, this subsection) and the SP pool that Composure Load taxes (Section VII) are two ledgers sharing one word. Wherever a conversion note writes "Composure" beside a number, it states which ledger it means.
 
 ---
 
@@ -386,7 +390,7 @@ Each conversion below shows its three-field reads, so the letter and class can b
 ### 2. The Maw — `C-IVω-001 [GP]` → **`T-07-0001`**, ALEPH
 - **Letter (T):** City Sorrow · Origin = the Cheongula, one thousand citizens consumed · Tale = atrocity and its denial → **T**.
 - **Class (07):** Entity Type *Place*; the body is the district itself — leaning buildings, unset ground, a 41-marker perimeter → **07** (PS extension). Serial `001 → 0001`.
-- **Risk:** Rank IV / Grade ω, **off-diagonal → higher tier (ω) → ALEPH**, matching the Section VIII roster. The Walking District (`-B [GS]`) is a containment **state** of this same code under Section VI, not a second designation. Attachment/Repression prohibited (Place) until that state.
+- **Risk:** Threat Score IV (4) + ω (5) = **9 → ALEPH**, matching the Section VIII roster and the owner's canon examples (Part IV.3 §I). The Walking District (`-B [GS]`) is a containment **state** of this same code under Section VI, not a second designation. Attachment/Repression prohibited (Place) until that state.
 - **Housing (Whole, Place-as-room):** the unit does not contain the Maw — under Sections I.4 and VI the room *is* its Containment Form, the standing precedent for Scale-Incompatible, Extraction-Compatible. Breach Form = the dossiered Walking District (`-B [GS]`) state; band declared **Well-attenuated, 25–50% of district scale**, with escalation to full district scale reserved as an in-story crisis — the Well losing its grip.
 
 ### 3. Conservatory — `N-IVδ-852 [N]` → **`F-07-0852`**, WAW
